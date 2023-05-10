@@ -1,94 +1,94 @@
-# Options
+# 设置
 
-![Options menu](img/options_basic-ZH.png "Options menu \(sidebar on left\)")
+![设置菜单](img/options_basic-ZH.png "设置菜单（左侧的侧栏）")
 
-In the main menu, click `Options` or press `O` (or press `Ctrl` + `O` which works in almost any screen) to access the options sidebar and change the available options in osu! Once the options menu is opened, you can type to search for a specific setting. The search bar's text will shake if the search query has no results.
+在主菜单中，点击 `Options` 或者按 `O` （也可以按 `Ctrl` + `O`，几乎在所有界面都可以）可以打开设置侧栏，改变 osu! 可用的设置。打开菜单后，你可以打字搜索特定设置。如果没有搜索到结果，搜索栏的文字会摇晃。
 
-When a setting that has a default value is changed, the grey vertical bar on the left will glow yellow for that setting. Clicking on this will reset the value back to its default value.
+当改变具有默认值的设置时，设置项左侧的灰色竖条会发出黄光。点击竖条可以将其恢复默认值。
 
-## General
+## 常规
 
-![General icon](img/general-ZH.png "General icon")
+![常规设置图标](img/general-ZH.png "常规设置图标")
 
-This section is about your account, language settings, and updates for osu!
+这一节主要是关于你的账户、语言和 osu! 更新的设置。
 
-### Sign-in
+### 登录
 
-If you are not signed in to the game client, it will automatically open the options menu on start-up, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Client/Interface/Multiplayer).
+如果你还没登录到游戏客户端，启动时就会自动打开设置菜单来提醒你登录。你可以按 `Esc` 键、点击返回按钮或转到歌曲选择页面忽略它。如果没有登录，客户端会将你标为“游客 (Guest) ”，你也无法获取在线分数、上传分数与玩[多人模式](/wiki/Client/Interface/Multiplayer)。
 
-If you are a guest, these options will be shown:
+如果你是游客，则会显示以下设置：
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Username` | Sign in input for your username. | Text | *(empty)* |
-| `Password` | Sign in input for your password. | Password | *(empty)* |
-| `Remember Username` | If checked, the game client will remember the entered username. | Checkbox | `Enabled` |
-| `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed in to the game client. | Checkbox | `Disabled` |
-| `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
-| `Create an account` | Opens the [account registration](/wiki/Registration) screen. | Button |  |
+| `用户名` | 登录用户名的输入框。 | 文本 | *（空）* |
+| `密码` | 登录密码的输入框。 | 密码 | *（空）* |
+| `记住用户名` | 如果勾选了，客户端会记住输入的用户名。 | 复选框 | `启用` |
+| `记住密码` | 如果勾选了，客户端会记住输入的密码，也会让你在客户端中保持登录状态。 | 复选框 | `禁用` |
+| `登录` | 用给定信息登录 osu!。也可以在用户名或密码输入框中按`回车`键。 | 按钮 |  |
+| `注册账号` | 打开[账户注册](/wiki/Registration)页面/ | 按钮 |  |
 
 ---
 
-If you are signed in, you will see:
+如果你已登录，会看到：
 
-| Name | Description | Type |
+| 名称 | 描述 | 类型 |
 | :-- | :-- | :-- |
-| `Logged in as {username}` | Display the user menu, see below. | Button |
+| `哈喽，{username}。欢迎来到 osu!` | 显示用户菜单，见下。 | 按钮 |
 
 ---
 
-If you click on the `Logged in as {username}` prompt, it will display a menu with the following buttons:
+如果你点击上述提示，会显示带如下按钮的菜单：
 
-| Name | Description | Type |
+| 名称 | 描述 | 类型 |
 | :-- | :-- | :-- |
-| `1. View Profile` | View your profile on the website. | Button |
-| `2. Sign Out` | Sign out from this game client. | Button |
-| `3. Change Avatar` | Change your profile picture (this will redirect you to the website). | Button |
-| `4. Close` | Close this dialog. You can also press `Esc`. | Button |
+| `1. 查看个人资料` | View your profile on the website. | 按钮 |
+| `2. 注销` | Sign out from this game client. | 按钮 |
+| `3. 修改头像` | Change your profile picture (this will redirect you to the website). | 按钮 |
+| `4. 关闭` | Close this dialog. You can also press `Esc`. | 按钮 |
 
-You can access this menu by clicking on your player card where available.
+点击你的用户卡片也可以打开此菜单。
 
-### Language
+### 语言
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Select language` | Display a list of languages to select. | Dropdown |  |
-| `Prefer metadata in original language` | In the song select screen, beatmaps will display their original or untranslated metadata, if available. | Checkbox | `Disabled` |
-| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/Client/Interface/Chat_console). | Checkbox | `Disabled` |
+| `语言` | Display a list of languages to select. | 下拉菜单 |  |
+| `以原语言显示歌曲信息` | In the song select screen, beatmaps will display their original or untranslated metadata, if available. | 复选框 | `禁用` |
+| `聊天窗口使用 Tahoma 字体` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/Client/Interface/Chat_console). | 复选框 | `禁用` |
 
-### Updates
+### 更新
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Release stream` | Display a list of builds that you want to use. | Dropdown | `Stable` |
-| `Your osu! is up-to-date!` | Click to force the game client to check for updates again and download them, if any. | Button |  |
-| `Open osu! folder` | Open the local osu! folder, which contains your skins, beatmaps, etc. | Button |  |
+| `更新版本` | Display a list of builds that you want to use. | 下拉菜单 | `Stable` |
+| `osu! 已经是最新版！` | Click to force the game client to check for updates again and download them, if any. | 按钮 |  |
+| `打开 osu! 所在文件夹` | Open the local osu! folder, which contains your skins, beatmaps, etc. | 按钮 |  |
 
 ---
 
-If you open the dropdown list for `Release stream`, you will be presented with these options:
+打开`更新版本`的下拉菜单后，会看到如下选项：
 
 | Name | Description |
 | :-- | :-- |
-| `Stable` | Stable public release build. |
-| `Beta` | Dev build - gets new features early, but possibly buggier. |
-| `Cutting Edge (Experimental)` | Dev build - gets new features even earlier, but possibly significantly buggier. |
+| `正式版（每月更新）` | 面向大众的稳定发行版。 |
+| `候选版（每周更新）` | 开发版——较早获得新功能，但可能有 bug。 |
+| `测试版（不定期更新）` | 开发版——更早获得新功能，但可能有大量 bug。 |
 
-## Graphics
+## 画面
 
-![Graphics icon](img/graphics-ZH.png "Graphics icon")
+![画面设置图标](img/graphics-ZH.png "画面设置图标")
 
 This section is about the appearance of your game client, parts of the interface and video settings.
 
-### Renderer
+### 渲染器
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `Optimal` |
-| `Show FPS counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
-| `Compatibility mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
-| `Reduce dropped frames` | Adjust graphical settings to decrease dropped/stuttered frames. | Checkbox | `Disabled` |
-| `Detect performance issues` | Warn you if another program on your computer may harm your client's performance. | Checkbox | `Enabled` |
+| `帧数限制` | Set the frame rate limit. See below for details. | 下拉菜单 | `Optimal` |
+| `显示帧数 (FPS)` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | 复选框 | `禁用` |
+| `兼容模式` | Use the old renderer that osu! used before with older computers. This will restart your game client. | 复选框 | `禁用` |
+| `减少掉帧` | Adjust graphical settings to decrease dropped/stuttered frames. | 复选框 | `禁用` |
+| `检测到性能问题` | Warn you if another program on your computer may harm your client's performance. | 复选框 | `启用` |
 
 ---
 
@@ -112,41 +112,41 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
   - This option is **not recommended**. Using the `Unlimited (gameplay)` option can lead to stutters.
   - Using the `Optimal` option instead offers imperceivable changes in system (input to output) latency when compared to `Unlimited (gameplay)`.
 
-### Layout
+### 屏幕分辨率
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Resolution` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | Dropdown |  |
-| `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
-| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | Checkbox | `Enabled` |
-| `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
-| `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
+| `分辨率` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | 下拉菜单 |  |
+| `全屏模式` | Run the game client in fullscreen (usually decreases input latency). | 复选框 | `启用` |
+| `按本地分辨率渲染 (Render at native resolution)` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | 复选框 | `启用` |
+| `水平位置` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | 滑块 | `0%` |
+| `垂直位置` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | 滑块 | `0%` |
 
-- If `Fullscreen mode` is disabled, `Running without fullscreen mode will increase your input latency!` will appear underneath it.
+- If `Fullscreen mode` is disabled, `非全屏模式下可能会有输入延迟！` will appear underneath it.
 
-### Detail Settings
+### 详细设置
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Snaking sliders` | Sliders will "snake out" from their starting position. | Checkbox | `Enabled` |
-| `Background video` | Allow the beatmap background video to play during gameplay (can be disabled per-beatmap). | Checkbox | `Enabled` |
-| `Storyboards` | Allow beatmap storyboards to be played (can be disabled per-beatmap). | Checkbox | `Enabled` |
-| `Combo bursts` | Allow combo bursts to display upon reaching a combo milestone. | Checkbox | `Disabled` |
-| `Hit lighting` | Display a subtle glow behind each hit explosion. Does not disable lighting during Kiai Time. | Checkbox | `Enabled` |
-| `Shaders` | Display, graphically speaking, concert-type effects. This may automatically be disabled if your computer cannot handle it. | Checkbox | `Disabled` |
-| `Softening filter` | Adjusts the shaders to be less flashy. This will automatically enable `Shaders`. | Checkbox | `Disabled` |
-| `Screenshot format` | Sets the screenshot file format. | Dropdown | `JPEG (web friendly)` |
+| `渐出滑条` | 滑块s will "snake out" from their starting position. | 复选框 | `启用` |
+| `背景视频` | Allow the beatmap background video to play during gameplay (can be disabled per-beatmap). | 复选框 | `启用` |
+| `故事板 (Storyboards)` | Allow beatmap storyboards to be played (can be disabled per-beatmap). | 复选框 | `启用` |
+| `连击提示图` | Allow combo bursts to display upon reaching a combo milestone. | 复选框 | `禁用` |
+| `击打闪光` | Display a subtle glow behind each hit explosion. Does not disable lighting during Kiai Time. | 复选框 | `启用` |
+| `着色器效果` | Display, graphically speaking, concert-type effects. This may automatically be disabled if your computer cannot handle it. | 复选框 | `禁用` |
+| `柔化滤镜` | Adjusts the shaders to be less flashy. This will automatically enable `Shaders`. | 复选框 | `禁用` |
+| `截图格式` | Sets the screenshot file format. | 下拉菜单 | `JPEG （空间较小）` |
 
-### Main Menu
+### 主菜单
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Snow` | Show snow effects on the main menu (forcibly enabled during the winter). | Checkbox | `Disabled` |
-| `Parallax` | Show a slight parallax while navigating in-game menus (not during gameplay). | Checkbox | `Enabled` |
-| `Menu tips` | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.) | Checkbox | `Enabled` |
-| `Interface voices` | Play the "welcome" and "see ya" sounds upon opening and closing the game respectively. | Checkbox | `Enabled` |
-| `osu! music theme` | If enabled, the main theme song will play after the game client is opened. Once the song changes, you cannot play it again until the game client has been restarted. | Checkbox | `Enabled` |
-| `Seasonal backgrounds` | Use fanart contest winners as the background in the main menu (and for beatmaps without background images). The images will cycle when the song is changed. | Dropdown | `Sometimes` |
+| `飘雪效果` | Show snow effects on the main menu (forcibly enabled during the winter). | 复选框 | `禁用` |
+| `视差效果` | Show a slight parallax while navigating in-game menus (not during gameplay). | 复选框 | `启用` |
+| `显示提示` | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.) | 复选框 | `启用` |
+| `问候语` | Play the "welcome" and "see ya" sounds upon opening and closing the game respectively. | 复选框 | `启用` |
+| `osu! 主题音乐` | If enabled, the main theme song will play after the game client is opened. Once the song changes, you cannot play it again until the game client has been restarted. | 复选框 | `启用` |
+| `季节性背景 (Seasonal backgrounds)` | Use fanart contest winners as the background in the main menu (and for beatmaps without background images). The images will cycle when the song is changed. | 下拉菜单 | `Sometimes` |
 
 ---
 
@@ -154,35 +154,35 @@ If you open the dropdown list for `Seasonal backgrounds`, you will be presented 
 
 | Name | Description |
 | :-- | :-- |
-| `Sometimes` | You will see seasonal backgrounds for a few weeks at the beginning of each season. The osu!dev team will choose when they will be removed, replaced with more plain backgrounds you are used to. |
-| `Never` | You will never see seasonal backgrounds, and defaults will be used in all cases. |
+| `偶尔显示 (Sometimes)` | You will see seasonal backgrounds for a few weeks at the beginning of each season. The osu!dev team will choose when they will be removed, replaced with more plain backgrounds you are used to. |
+| `从不显示 (Never)` | You will never see seasonal backgrounds, and defaults will be used in all cases. |
 | `Always` | You will always have the current season's backgrounds. |
 
-### Song Select
+### 选歌页面
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Show thumbnails` | Display a preview image of each beatmap's background. This requires the selected skin's version to 2.2+. | Checkbox | `Enabled` |
+| `Show thumbnails` | Display a preview image of each beatmap's background. This requires the selected skin's version to 2.2+. | 复选框 | `启用` |
 
-## Gameplay
+## 游戏
 
-![Gameplay icon](img/gameplay-ZH.png "Gameplay icon")
+![游戏设置图标](img/gameplay-ZH.png "游戏设置图标")
 
 This section is about settings that affect gameplay.
 
-### General
+### 常规
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `80%` |
-| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visible. | Checkbox | `Disabled` |
-| `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
-| `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
-| `Score meter size` | Configure size of score meter. | Slider | `1x` |
-| `Always show key overlay` | Show the key status overlay even while playing normally. | Checkbox | `Disabled` |
-| `Show approach circle on first "Hidden" object` | When playing with the "hidden" mod, show only the first note's approach circle. | Checkbox | `Enabled` |
-| `Scale osu!mania scroll speed with BPM` | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap. | Checkbox | `Disabled` |
-| `Remember osu!mania scroll speed per-beatmap` | Remember the scroll speed you had set per-beatmap. | Checkbox | `Disabled` |
+| `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | 滑块 | `80%` |
+| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visible. | 复选框 | `禁用` |
+| `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | 下拉菜单 | `Top-Right (Pie)` |
+| `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | 下拉菜单 | `Hit error` |
+| `Score meter size` | Configure size of score meter. | 滑块 | `1x` |
+| `Always show key overlay` | Show the key status overlay even while playing normally. | 复选框 | `禁用` |
+| `Show approach circle on first "Hidden" object` | When playing with the "hidden" mod, show only the first note's approach circle. | 复选框 | `启用` |
+| `Scale osu!mania scroll speed with BPM` | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap. | 复选框 | `禁用` |
+| `Remember osu!mania scroll speed per-beatmap` | Remember the scroll speed you had set per-beatmap. | 复选框 | `禁用` |
 
 ---
 
@@ -205,89 +205,89 @@ If you open the dropdown list for `Score meter type`, you will be presented with
 | `Colour` | Use coloured blocks to display hit timing. (osu!catch will always use this if `Hit error` is selected.) |
 | `Hit error` | Use a meter to display hit timing. This shows if the player had hit too early or too late. |
 
-### Song Select
+### 选歌页面
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Display beatmaps from` | This adjusts the **lowest** difficulty beatmap that will be displayed in song select. | Slider | `0 stars` |
-| `up to` | This adjusts the **highest** difficulty beatmap that will be displayed in song select. | Slider | `10+ stars` |
+| `Display beatmaps from` | This adjusts the **lowest** difficulty beatmap that will be displayed in song select. | 滑块 | `0 stars` |
+| `up to` | This adjusts the **highest** difficulty beatmap that will be displayed in song select. | 滑块 | `10+ stars` |
 
-## Audio
+## 音频
 
-![Audio icon](img/audio-ZH.png "Audio icon")
+![音频设置图标](img/audio-ZH.png "音频设置图标")
 
 This section is about audio related options.
 
-### Devices
+### 设备
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Output device` | Select the preferred output device for audio. (Options given are based on what your computer reports.) | Dropdown | `Default` |
-| `Audio compatibility mode` | Uses the legacy audio engine which has higher latency but is more compatible. | Checkbox | `Disabled` |
+| `Output device` | Select the preferred output device for audio. (Options given are based on what your computer reports.) | 下拉菜单 | `Default` |
+| `音频设置 compatibility mode` | Uses the legacy audio engine which has higher latency but is more compatible. | 复选框 | `禁用` |
 
-### Volume
+### 音量
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Master` | Controls the main volume. | Slider | `100%` |
-| `Music` | Controls the music volume. | Slider | `80%` |
-| `Effect` | Controls the hitsounds and in-game sounds. | Slider | `80%` |
-| `Ignore beatmap hitsounds` | Favour hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Checkbox | `Disabled` |
+| `Master` | Controls the main volume. | 滑块 | `100%` |
+| `Music` | Controls the music volume. | 滑块 | `80%` |
+| `Effect` | Controls the hitsounds and in-game sounds. | 滑块 | `80%` |
+| `Ignore beatmap hitsounds` | Favour hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | 复选框 | `禁用` |
 
 The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.
 
-### Offset Adjustment
+### 偏移量 (Offset) 调节
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `0ms` |
-| `Offset wizard` | Opens the offset wizard. | Button |  |
+| `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | 滑块 | `0ms` |
+| `Offset wizard` | Opens the offset wizard. | 按钮 |  |
 
 - For details about the offset wizard, see [Offset Wizard](/wiki/Client/Options/Offset_Wizard).
 - For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
-## Skin
+## 外观
 
-![Skin icon](img/skin-ZH.png "Skin icon")
+![外观设置图标](img/skin-ZH.png "外观设置图标")
 
 This section is about skin related things.
 
-### Skin
+### 皮肤
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Skin sample image` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | Button |  |
-| `Current skin` | Changes the skin. Items in dropdown are based on what is in the `osu!/Skins` folder. (Names are based on folder name.) | Dropdown | `Default` |
-| `Preview gameplay` | Previews the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | Button |  |
-| `Open current skin folder` | Opens the selected skin folder. | Button |  |
-| `Export as .osk` | Exports the current skin as a `.osk` file to share. Once your game client is done exporting, it will open the directory containing the `.osk` file. | Button |  |
-| `Ignore all beatmap skins` | Favour the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | Checkbox | `Disabled` |
-| `Use skin's sound samples` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | Checkbox | `Enabled` |
-| `Use Taiko skin for Taiko mode` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | Checkbox | `Disabled` |
-| `Always use skin cursor` | Favour the current skin's cursor over any cursors supplied by beatmaps. | Checkbox | `Disabled` |
-| `Cursor size` | Adjust the cursor size. | Slider | `1x` |
-| `Automatic cursor size` | Automatically adjusts the cursor size based on the circle size of the beatmap. | Checkbox | `Disabled` |
-| `Use combo colour as tint for slider ball` | Slider balls will use the current combo colour (usually transparent). Requires skin support. | Checkbox | `Enabled` |
+| `皮肤设置 sample image` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | 按钮 |  |
+| `Current skin` | Changes the skin. Items in dropdown are based on what is in the `osu!/皮肤设置s` folder. (Names are based on folder name.) | 下拉菜单 | `Default` |
+| `Preview gameplay` | Previews the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | 按钮 |  |
+| `Open current skin folder` | Opens the selected skin folder. | 按钮 |  |
+| `Export as .osk` | Exports the current skin as a `.osk` file to share. Once your game client is done exporting, it will open the directory containing the `.osk` file. | 按钮 |  |
+| `Ignore all beatmap skins` | Favour the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | 复选框 | `禁用` |
+| `Use skin's sound samples` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | 复选框 | `启用` |
+| `Use Taiko skin for Taiko mode` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [皮肤设置ning/osu!taiko](/wiki/皮肤设置ning/osu!taiko) for details. | 复选框 | `禁用` |
+| `Always use skin cursor` | Favour the current skin's cursor over any cursors supplied by beatmaps. | 复选框 | `禁用` |
+| `Cursor size` | Adjust the cursor size. | 滑块 | `1x` |
+| `Automatic cursor size` | Automatically adjusts the cursor size based on the circle size of the beatmap. | 复选框 | `禁用` |
+| `Use combo colour as tint for slider ball` | 滑块 balls will use the current combo colour (usually transparent). Requires skin support. | 复选框 | `启用` |
 
-## Input
+## 输入
 
-![Input icon](img/input-ZH.png "Input icon")
+![输入设置图标](img/input-ZH.png "输入设置图标")
 
 This section is about input peripherals.
 
-### Mouse
+### 鼠标
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Sensitivity` | Adjust the sensitivity of the mouse cursor. If changed, it may automatically enable `Raw Input`. | Slider | `1x` |
-| `Raw input` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | Checkbox | `Disabled` |
-| `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | Checkbox | `Disabled` |
-| `Confine mouse cursor` | Prevent mouse cursor from leaving the game client window. See below for details. | Dropdown | `Only when fullscreen` |
-| `Disable mouse wheel in play mode` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | Checkbox | `Disabled` |
-| `Disable mouse buttons in play mode` | Disable mouse buttons during gameplay. This is helpful for keyboard users. | Checkbox | `Disabled` |
-| `Cursor ripples` | Show subtle ripple effect when the mouse is clicked. | Checkbox | `Disabled` |
+| `Sensitivity` | Adjust the sensitivity of the mouse cursor. If changed, it may automatically enable `Raw 输入设置`. | 滑块 | `1x` |
+| `Raw input` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | 复选框 | `禁用` |
+| `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | 复选框 | `禁用` |
+| `Confine mouse cursor` | Prevent mouse cursor from leaving the game client window. See below for details. | 下拉菜单 | `Only when fullscreen` |
+| `Disable mouse wheel in play mode` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | 复选框 | `禁用` |
+| `Disable mouse buttons in play mode` | Disable mouse buttons during gameplay. This is helpful for keyboard users. | 复选框 | `禁用` |
+| `Cursor ripples` | Show subtle ripple effect when the mouse is clicked. | 复选框 | `禁用` |
 
-- When `Raw Input` is enabled, it will display the number of reports it receives per second and the latency in milliseconds.
+- When `Raw 输入设置` is enabled, it will display the number of reports it receives per second and the latency in milliseconds.
 - The cursor ripple effect can be triggered by pressing `M1` and `M2` during game play.
 
 ---
@@ -300,104 +300,104 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 | `Only when fullscreen` | Only prevent the mouse from leaving the game client when fullscreen (this also includes `Letterboxing`). |
 | `Always` | Always prevent the mouse from leaving the game client in any resolution. |
 
-### Keyboard
+### 键盘
 
-| Name | Description | Type |
+| 名称 | 描述 | 类型 |
 | :-- | :-- | :-- |
-| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Client/Options/Keyboard_bindings) for more details. | Button |
-| `osu!mania layout` | Displays a dialog which allows you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | Button |
+| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Client/Options/Keyboard_bindings) for more details. | 按钮 |
+| `osu!mania layout` | Displays a dialog which allows you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | 按钮 |
 
-### Other
+### 其它
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `OS TabletPC support` | Improves compatibility with graphic tablets and tablet PCs. | Checkbox | `Disabled` |
-| `Wiimote/TaTaCon Drum support` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via Bluetooth before enabling. | Checkbox | `Disabled` |
+| `OS TabletPC support` | Improves compatibility with graphic tablets and tablet PCs. | 复选框 | `禁用` |
+| `Wiimote/TaTaCon Drum support` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via Bluetooth before enabling. | 复选框 | `禁用` |
 
-## Editor
+## 编辑器
 
-![Editor icon](img/editor-ZH.png "Editor icon")
+![编辑器设置图标](img/editor-ZH.png "编辑器设置图标")
 
 This section is about the [beatmap editor](/wiki/Client/Beatmap_editor).
 
 These options only affect while working inside the beatmap editor or in test mode (test playing a beatmap).
 
-### General
+### 常规
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Background video` | Play the beatmap's background video while editing. | Checkbox | `Disabled` |
-| `Always use default skin` | Use osu!'s default skin while editing, despite the current skin's settings. | Checkbox | `Disabled` |
-| `Snaking sliders` | Enable snaking sliders while editing. | Checkbox | `Enabled` |
-| `Hit animations` | Enable hit animations while editing. | Checkbox | `Disabled` |
-| `Follow points` | Enable follow points while editing. | Checkbox | `Enabled` |
-| `Stacking` | Stack the hit circles as if in gameplay. | Checkbox | `Enabled` |
+| `Background video` | Play the beatmap's background video while editing. | 复选框 | `禁用` |
+| `Always use default skin` | Use osu!'s default skin while editing, despite the current skin's settings. | 复选框 | `禁用` |
+| `Snaking sliders` | Enable snaking sliders while editing. | 复选框 | `启用` |
+| `Hit animations` | Enable hit animations while editing. | 复选框 | `禁用` |
+| `Follow points` | Enable follow points while editing. | 复选框 | `启用` |
+| `Stacking` | Stack the hit circles as if in gameplay. | 复选框 | `启用` |
 
 These options can be manually overwritten by using the `View` menu in the beatmap editor.
 
-## Online
+## 在线
 
-![Online icon](img/online-ZH.png "Online icon")
+![在线设置图标](img/online-ZH.png "在线设置图标")
 
 This section is about chat, spectators, multi, and osu!direct.
 
-### Alerts and Privacy
+### 提示与隐私
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
-| `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | Checkbox | `Enabled` |
-| `Show a notification pop-up when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
-| `Show chat message notifications` | Display a notification, when new chat messages arrive. | Checkbox | `Enabled` |
-| `Play a sound when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a sound will play. | Checkbox | `Enabled` |
-| `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
-| `Show spectators` | Show a list of current spectators on the left of the screen during gameplay. | Checkbox | `Enabled` |
-| `Automatically link beatmaps to spectators` | Send currently-playing beatmap to `#spectator` channel when you have spectators. | Checkbox | `Enabled` |
-| `Show notification popups instantly during gameplay` | Allow a push notification to display during gameplay. If disabled, the game client will wait until you are done playing. | Checkbox | `Enabled` |
-| `Show notification popups when friends change status` | Display a notification, whenever your friend goes online or offline. | Checkbox | `Enabled` |
-| `Allow multiplayer game invites from all users` | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only. | Checkbox | `Enabled` |
+| `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | 复选框 | `禁用` |
+| `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | 复选框 | `启用` |
+| `Show a notification pop-up when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | 复选框 | `启用` |
+| `Show chat message notifications` | Display a notification, when new chat messages arrive. | 复选框 | `启用` |
+| `Play a sound when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a sound will play. | 复选框 | `启用` |
+| `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | 复选框 | `禁用` |
+| `Show spectators` | Show a list of current spectators on the left of the screen during gameplay. | 复选框 | `启用` |
+| `Automatically link beatmaps to spectators` | Send currently-playing beatmap to `#spectator` channel when you have spectators. | 复选框 | `启用` |
+| `Show notification popups instantly during gameplay` | Allow a push notification to display during gameplay. If disabled, the game client will wait until you are done playing. | 复选框 | `启用` |
+| `Show notification popups when friends change status` | Display a notification, whenever your friend goes online or offline. | 复选框 | `启用` |
+| `Allow multiplayer game invites from all users` | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only. | 复选框 | `启用` |
 
-### Integration
+### 关联
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Discord Rich Presence` | Provides [rich presence data to Discord](/wiki/Guides/Discord_Rich_Presence). | Checkbox | `Enabled` |
-| `Integrate with Yahoo! status display` | Your Yahoo! messenger will show the song you are currently playing or listening to. This needs to be set from the website. | Checkbox | `Disabled` |
-| `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. | Checkbox | `Disabled` |
-| `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | Checkbox | `Enabled` |
-| `Prefer no-video downloads` | For [osu!supporters](/wiki/osu!supporter) only. osu!direct downloads will be confined to no-video versions of beatmaps. | Checkbox | `Disabled` |
+| `Discord Rich Presence` | Provides [rich presence data to Discord](/wiki/Guides/Discord_Rich_Presence). | 复选框 | `启用` |
+| `Integrate with Yahoo! status display` | Your Yahoo! messenger will show the song you are currently playing or listening to. This needs to be set from the website. | 复选框 | `禁用` |
+| `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. | 复选框 | `禁用` |
+| `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | 复选框 | `启用` |
+| `Prefer no-video downloads` | For [osu!supporters](/wiki/osu!supporter) only. osu!direct downloads will be confined to no-video versions of beatmaps. | 复选框 | `禁用` |
 
-### In-Game Chat
+### 游戏内聊天
 
-| Name | Description | Type | Default |
+| 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `Filter offensive words` | Replace offensive words with `*beep*`. | Checkbox | `Disabled` |
-| `Filter foreign characters` | Removes any non-standard ASCII characters in the chat. | Checkbox | `Disabled` |
-| `Log private messages` | Private messages will be saved to the `osu!/Logs` folder. | Checkbox | `Disabled` |
-| `Block private messages from non-friends` | Enabling this will restrict private messages to friends only. | Checkbox | `Disabled` |
-| `Chat ignore list (space-separated list)` | Words you put here will be ignored. | Text | *(empty)* |
-| `Chat highlight words (space-separated list)` | Words you put here will be [highlighted](/wiki/Client/Interface/Chat_console/Highlight) in chat. | Text | *(empty)* |
+| `Filter offensive words` | Replace offensive words with `*beep*`. | 复选框 | `禁用` |
+| `Filter foreign characters` | Removes any non-standard ASCII characters in the chat. | 复选框 | `禁用` |
+| `Log private messages` | Private messages will be saved to the `osu!/Logs` folder. | 复选框 | `禁用` |
+| `Block private messages from non-friends` | Enabling this will restrict private messages to friends only. | 复选框 | `禁用` |
+| `Chat ignore list (space-separated list)` | Words you put here will be ignored. | 文本 | *（空）* |
+| `Chat highlight words (space-separated list)` | Words you put here will be [highlighted](/wiki/Client/Interface/Chat_console/Highlight) in chat. | 文本 | *（空）* |
 
-## Maintenance
+## 管理
 
-![Maintenance icon](img/maintenance-ZH.png "Maintenance icon")
+![管理设置图标](img/maintenance-ZH.png "管理设置图标")
 
 This section is about beatmaps and updates.
 
-### General
+### 常规
 
-| Name | Description | Type |
+| 名称 | 描述 | 类型 |
 | :-- | :-- | :-- |
-| `Delete all unranked maps` | Delete all unranked maps in your songs folder. | Button |
-| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This will require the administrator password to complete.) | Button |
-| `Mark all maps as played` | Mark all maps as "played". | Button |
-| `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | Button |
+| `Delete all unranked maps` | Delete all unranked maps in your songs folder. | 按钮 |
+| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This will require the administrator password to complete.) | 按钮 |
+| `Mark all maps as played` | Mark all maps as "played". | 按钮 |
+| `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | 按钮 |
 
 At the bottom, the version number will be displayed. Clicking this will open the [changelog](/wiki/Changelog) for that version in your internet browser.
 
-### Debug
+### 调试
 
-#### Build version
+#### 构建版本
 
 See which build version the game client currently has and which type of build updates the game client receives. Clicking on this will direct you to the release notes using your preferred browser.
 
@@ -415,14 +415,14 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - `{type}` is the build type
   - If there is no build type value, assume it is `Stable`.
 
-## Trivia
+## 杂项
 
 - If you type in a username but leave the password textbox empty, osu! will use that name when saving the score locally.
 - Opening the options sidebar will automatically trigger `osu! is up-to-date!`'s function (it will begin checking for updates).
 - The `Seasonal backgrounds` option was added after positive feedback was given to the osu!dev team.
   - More details: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 
-### History
+### 历史
 
 - The old options screen was an actual screen that had tabs, buttons, and a dark pale blue background.
 - The old options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!.
