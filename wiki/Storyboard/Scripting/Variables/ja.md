@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c6e4ace59bf0c3be43617fda1a36a5c6dc0af3c3
+---
+
 # Storyboard Variables
 
 **変数** の機能を使うことで、osbファイル内で文字列、列などの置き換えをすることができます。これはゲーム中では変更することはできないため、ソフトウェアの開発者のような人向けの機能です。また*osuファイルはこれをサポートしていません。

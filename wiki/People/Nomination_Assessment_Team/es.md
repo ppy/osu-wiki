@@ -81,54 +81,52 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Asesor[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluador |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluador |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluador |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluador |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluador |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluador |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluador |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluador |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Asesor[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluador |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Asesor[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluador |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluador |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Asesor[^task-uberfazz] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluador |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluador |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluador |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Estructural[^task-mo] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluación, estructural |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluación |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluación |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluación |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluación |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluación, estructural |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluación |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluación, estructural |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluación |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluación |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluación |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluación |
 
 ### osu!taiko
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluador |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluador |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Leader |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluador |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluación |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Liderazgo |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluación |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Liderazgo |
 
 ### osu!catch
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluador |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluador |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluador |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluador |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluador |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluador |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluación |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español | Evaluación |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación |
 
 ## Notas
 
 [^task-mo]: Maneja principalmente discusiones internas, asuntos y documentación
 [^task-naxess]: Mantiene principalmente [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: Principalmente mantiene [el sitio web del NAT/BN](https://bn.mappersguild.com/home)
-[^task-uberfazz]: Entre otras cosas, gestiona asesores
