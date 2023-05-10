@@ -356,7 +356,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 - **01-03-2018:** El QAT separó sus tareas en ramas: evaluación del BN, descalificaciones, metadatos, destacados, blog, criterios de clasificación y liderazgo general.
   - Los miembros del QAT podrían estar involucrados en múltiples ramas.
   - Esto tenía como objetivo dar un propósito a algunos miembros del QAT que sentían que no tenían roles específicos en la comunidad de mapeo/modeo. Este sentimiento fue en gran medida relevante porque el QAT ya tenía poca participación en el control de calidad. <!-- source is discord logs -->
-- **03-03-2018:** El canal de `#modding` se creó en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
+- **03-03-2018:** El canal de `#modding` se creó en el [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server).
   - Si bien su objetivo era alejar la discusión del mapeo del servidor de Discord de BN, este centro de discusión rara vez se usaba aparte de las reuniones programadas del QAT. <!-- source is discord logs -->
 - **24-03-2018:** El subforo de criterios de clasificación se reabrió para debates públicos de propuestas y se suspendió el UBKRC.
   - El UBKRC se suspendió en este momento porque se finalizaron todas las subsecciones de los criterios de clasificación generales y del modo de juego. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -366,7 +366,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 - **01-04-2018:** El QAT comenzó a evaluar las solicitudes de BN mediante la revisión de mods no anónimos, a diferencia de los mods previamente anónimos.
   - Este cambio se realizó porque el QAT creía que los mods anónimos fuera de contexto no podían determinar de manera efectiva las capacidades de un modder.
   - A través de este cambio, el QAT determinó que no se podía evitar el sesgo al evaluar a los Beatmap Nominators. <!-- source is discord logs -->
-- **22-04-2018:** El QAT celebró su primera reunión en el servidor de osu!dev en un intento por aumentar la transparencia de los asuntos del QAT y migrar las discusiones internas fuera del servidor de Discord de BN.
+- **22-04-2018:** El QAT celebró su primera reunión en el servidor de osu! en un intento por aumentar la transparencia de los asuntos del QAT y migrar las discusiones internas fuera del servidor de Discord de BN.
   - A pesar de este intento, la mayoría de las discusiones internas aún se manejaban en el servidor de Discord de BN. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### Mayo
@@ -413,7 +413,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 - **01-03-2019:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) pasó de la entrada basada en aplicaciones a la entrada automática para cualquier persona con 3 mapas clasificados.
   - Los mapas de [artistas destacados](/wiki/People/Featured_Artists) se crearon y clasificaron con mayor frecuencia.
-  - El canal de `#mappers-guild` se creó en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
+  - El canal de `#mappers-guild` se creó en el [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server).
 - **13-03-2019:** Se eliminó la regla que exige que las nominaciones consecutivas se establezcan con al menos 24 horas de diferencia entre sí.
   - Esta regla fue una de las principales quejas de los mapeadores y Beatmap Nominators porque parecía que estaba haciendo perder el tiempo a todos innecesariamente. Si se encontraba un problema después de la primera nominación, el segundo nominador a menudo evitaba señalarlo para evitar una espera adicional de 24 horas.
   - Junto con este cambio, los Beatmap Nominators podrían vetar los mapas calificados. La regla existía originalmente porque los Beatmap Nominators necesitaban 24 horas para aplicar potencialmente vetos a los mapas con una nominación.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
@@ -522,7 +522,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 - **11-09-2021:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) cambió la regla de los Criterios de clasificación sobre el campo Fuente. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
   - Los miembros de la comunidad de mapeo no estaban contentos con la falta de discusión pública detrás de este cambio y luego hicieron adaptaciones para cerrar las nuevas lagunas. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
-- **18-09-2021:** Después de una pausa de una década, las reuniones comunitarias de osu! regresaron en forma de chats de voz en vivo en el Discord de osu!dev. El primer tema principal abordado fue [inquietudes sobre los criterios de clasificación de osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), junto con otros problemas como la complejidad general de los criterios de clasificación, la participación con mapeadores más nuevos y más.
+- **18-09-2021:** Después de una pausa de una década, las reuniones comunitarias de osu! regresaron en forma de chats de voz en vivo en el Discord de osu!. El primer tema principal abordado fue [inquietudes sobre los criterios de clasificación de osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), junto con otros problemas como la complejidad general de los criterios de clasificación, la participación con mapeadores más nuevos y más.
   - Los cambios en los criterios de clasificación de osu!mania se pusieron a discusión y, si se acuerdan, pueden entrar en vigencia pronto. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
 - **24-09-2021:** Las [Comprobaciones de control de calidad](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) ya no cuentan para la actividad de un Beatmap Nominator. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
   - Esto se implementó porque parecía que algunos usuarios estaban usando esto como una escapatoria para evitar contribuir activamente como Beatmap Nominator.
