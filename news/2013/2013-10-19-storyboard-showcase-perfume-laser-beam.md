@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfu
 
 Apologies for the delay, but better late than never, right? Our second storyboard showcase features a beatmap that has been ranked just recently.
 
-**[Perfume - Laser Beam](https://osu.ppy.sh/beatmapsets/106568) by [Raging Bull](https://osu.ppy.sh/users/398760)**  
+**[Perfume - Laser Beam](https://osu.ppy.sh/beatmapsets/106568) by [Raging Bull](https://osu.ppy.sh/users/398760)**\
 **Storyboard by [Breeze](https://osu.ppy.sh/users/77537)**
 
 Based loosely around the official music video, this map's storyboard manages to beautifully pop in subtle flashing lights and creatively-designed lyrics without disturbing the flow of gameplay. If you know the music video well enough, you'll know what to expect near the end of the map!

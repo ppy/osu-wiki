@@ -45,7 +45,7 @@ NAT members who are primarily handling this category make sure that BNs and othe
 
 ---
 
-Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsiblity.
+Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsibility.
 
 **A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
 
@@ -53,7 +53,9 @@ Dividing the NAT workload into two main categories is necessary for the overall 
 
 Depending on their category, each NAT member has different activity requirements. Members responsible for evaluations are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Members assigned to the structural category are expected to uphold key parts of the ranking process on a case-by-case basis.
 
-Inactive NAT members will be confronted by the [team leaders](#nat-leadership). If a timely resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
+Each month, the NAT members are required to submit a summary of their activity in the [BN/NAT website](https://bn.mappersguild.com/). This summary, alongside other metrics like nomination and evaluation activity, is used to determine whether a member is still active and whether they should remain in the group. The [team leaders](#nat-leadership) will then discuss the activity of each member and decide whether they should remain in the NAT.
+
+The team leaders will confront inactive NAT members, or members who fail to provide a summary in a timely manner. If an appropriate resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
 
 ## Promotion to the NAT
 
@@ -112,7 +114,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, Structural[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
@@ -140,8 +141,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 ## Notes
 
