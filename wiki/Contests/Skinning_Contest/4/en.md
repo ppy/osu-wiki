@@ -78,7 +78,6 @@ The Skinning Contest #4 is run by various community members.
 - The file size for your `.osk` submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
-
 **Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
 
 ## Theme: Icons of an Era {#theme}
