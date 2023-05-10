@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f1dbbc82bdc90d4ff5b5da068cd3243e70bddb90
+---
+
 # Penskalaan BPM di kriteria ranking
 
 Aturan dan pedoman Kriteria Ranking didasarkan pada lagu-lagu dengan 180 BPM dengan tanda birama 4/4. Panduan ini menjelaskan cara kerja penskalaan itu!
