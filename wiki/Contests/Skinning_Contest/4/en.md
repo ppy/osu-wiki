@@ -82,6 +82,6 @@ The Skinning Contest #4 is run by various community members.
 
 ## Theme: Icons of an Era {#theme}
 
-This iteartion's theme, **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
+This iteration's theme, **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
 Whether your entry is focused around pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891), a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 4000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
