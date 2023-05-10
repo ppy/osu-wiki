@@ -1,9 +1,3 @@
----
-outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
-outdated_translation: true
-no_native_review: true
----
-
 # Restricciones de la cuenta
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
