@@ -118,7 +118,7 @@ Ajusta relativamente el tamaño del texto.
 - Botones dedicados: ![Opciones de tamaño de fuente](img/font-size.png)
 - Notas:
   - Utiliza esta etiqueta con moderación.
-  - Sólo hay 4 tamaños que puede utilizar:
+  - Solo hay 4 tamaños que puede utilizar:
     - `50` (diminuto)
     - `85` (pequeño)
     - `100` (normal, predeterminado)
@@ -382,8 +382,8 @@ Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
 
 - Botón dedicado: *ninguno*
 - Notas:
-  - ¡Esto sólo funciona en el foro de beatmaps!
-  - Esto sólo aparece después de la publicación, no en la vista previa.
+  - ¡Esto solo funciona en el foro de beatmaps!
+  - Esto solo aparece después de la publicación, no en la vista previa.
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
   ```

@@ -42,7 +42,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | HP rate for Easy/Normal is suggested to be at least 4. | ¡Solo en mapas de osu!mania! Se recomienda que la tasa de HP para Easy/Normal sea como mínimo 4. | Ve a las configuraciones de la canción y fija el HP rate a 4 o mayor |
 | HP rate for Hard and up is suggested to be at least 7. | ¡Solo en mapas de osu!mania! Se recomienda que la tasa de HP para Hard o más difíciles sea como mínimo 7. | Ve a las configuraciones de la canción y fija el HP rate a 7 o mayor |
 | OD rate for maps with few sliders is suggested to be at least 7. | ¡Solo en mapas de osu!mania! Para mapas con pocos deslizadores se recomienda una tasa de OD como mínimo 7. | Ve a las configuraciones de la canción y fija el OD rate a 7 o mayor |
-| The Slider Velicity should be 1.40 or 1.60. | ¡sólo en mapas de osu!taiko! La velocidad de los deslizadores debe ser 1.40 o 1.60. | Ve a la ventana de Timing y cambia la Velocidad del Deslizador a 1.40 o 1.60 |
+| The Slider Velicity should be 1.40 or 1.60. | ¡Solo en mapas de osu!taiko! La velocidad de los deslizadores debe ser 1.40 o 1.60. | Ve a la ventana de Timing y cambia la Velocidad del Deslizador a 1.40 o 1.60 |
 
 ### Errores
 
