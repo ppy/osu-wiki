@@ -99,38 +99,38 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| `垂直同步` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
-| `节能 (Power Saving)` | Limits the game client to twice the refresh rate of your monitor. |
-| `最佳 (Optimal)` | Limits the game client to eight times the refresh rate of your monitor, capping at 960fps. |
-| `无限制（游戏中）` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
+| `垂直同步` | 将客户端帧率限制为显示器刷新率。详情见下。 |
+| `节能 (Power Saving)` |  将客户端帧率限制为显示器刷新率的两倍。 |
+| `最佳 (Optimal)` | 将客户端帧率限制为显示器刷新率的 8 倍，最大为 960fps。 |
+| `无限制（游戏中）` | 将客户端帧率限制为显示器刷新率。详情见下。 |
 
-- `VSync` explanation: In layman terms, using VSync will force the game wait for the entire frame to load before displaying it.
-  - You may want to use this if you see some "tearing" (when the bottom portion of the game is lagging behind the upper portion of the game).
-  - Despite what the point above stated, this may cause some lag or slowdowns because the game client has to wait for each frame to load.
-- `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
-  - When you are not playing a beatmap, the frame rate is limited to twice the refresh rate of your monitor, or 240fps, whichever is higher.
-  - This option is **not recommended**. Using the `Unlimited (gameplay)` option can lead to stutters.
-  - Using the `Optimal` option instead offers imperceivable changes in system (input to output) latency when compared to `Unlimited (gameplay)`.
+- `垂直同步`的解释：通俗一点来讲，使用垂直同步会强制让游戏等待整个帧加载完毕，然后再显示。
+  - 如果你看到“撕裂”现象（下方的游戏画面滞后于上方），可能会想使用此设置。
+  - 尽管上文已经指出其用途，但由于客户端需要等待每一帧加载完毕，这也会导致卡慢。
+- `无限制（游戏中）`的解释：无限制帧率只应用于游玩过程中。
+  - 当不在游玩时，会将帧率限制为显示器刷新率的两倍，即（高于）240fps。
+  - **不推荐**使用此设置。使用此设置会导致卡顿。
+  - 与`无限制（游戏中）`相比，使用`最佳 (Optimal)` 设置会引起系统延迟（输入到输出）难以察觉的变化。
 
 ### 屏幕分辨率
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `分辨率` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | 下拉菜单 |  |
-| `全屏模式` | Run the game client in fullscreen (usually decreases input latency). | 复选框 | `启用` |
-| `按本地分辨率渲染 (Render at native resolution)` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | 复选框 | `启用` |
-| `水平位置` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | 滑块 | `0%` |
-| `垂直位置` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | 滑块 | `0%` |
+| `分辨率` | 设置客户端分辨率。列出的分辨率受你的显示器与 GPU 支持的限制。 | 下拉菜单 |  |
+| `全屏模式` | 全屏运行客户端（通常减小输入延迟）。 | 复选框 | `启用` |
+| `按本地分辨率渲染 (Render at native resolution)` | 完全使用本地分辨率，但会在屏幕中央较小的地方显示 osu!。 | 复选框 | `启用` |
+| `水平位置` | 调整银幕 (letterboxing) 模式的水平偏移量。启用`按本地分辨率渲染 (Render at native resolution)` 后才会显示。 | 滑块 | `0%` |
+| `垂直位置` | 调整银幕模式的垂直偏移量。启用`按本地分辨率渲染 (Render at native resolution)` 后才会显示。 | 滑块 | `0%` |
 
-- If `Fullscreen mode` is disabled, `非全屏模式下可能会有输入延迟！` will appear underneath it.
+- 如果禁用`全屏模式`，会在下方显示`非全屏模式下可能会有输入延迟！`提示。
 
 ### 详细设置
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
 | `渐出滑条` | 滑块会从起点“滑出”。 | 复选框 | `启用` |
-| `背景视频` | 允许在游玩期间播放谱面背景视频（可分谱面禁用）。 | 复选框 | `启用` |
-| `故事板 (Storyboards)` | 允许在游玩期间显示谱面故事板（可分谱面禁用）。 | 复选框 | `启用` |
+| `背景视频` | 允许在游玩期间播放谱面背景视频（可按谱面单独禁用）。 | 复选框 | `启用` |
+| `故事板 (Storyboards)` | 允许在游玩期间显示谱面故事板（可按谱面单独禁用）。 | 复选框 | `启用` |
 | `连击提示图` | 允许在达成连击里程碑时显示提示图。 | 复选框 | `禁用` |
 | `击打闪光` | 在每次点击后显示细微的发光效果。不会禁用 Kiai 时间的闪光。 | 复选框 | `启用` |
 | `着色器效果` | 显示（从图形上说）影剧院级的效果。如果你的电脑不支持，可能会自动禁用。 | 复选框 | `禁用` |
@@ -141,12 +141,12 @@
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `飘雪效果` | Show snow effects on the main menu (forcibly enabled during the winter). | 复选框 | `禁用` |
-| `视差效果` | Show a slight parallax while navigating in-game menus (not during gameplay). | 复选框 | `启用` |
-| `显示提示` | Show a tip every time you visit the main menu. (Tips are not displayed in the cuttingedge builds.) | 复选框 | `启用` |
-| `问候语` | Play the "welcome" and "see ya" sounds upon opening and closing the game respectively. | 复选框 | `启用` |
-| `osu! 主题音乐` | If enabled, the main theme song will play after the game client is opened. Once the song changes, you cannot play it again until the game client has been restarted. | 复选框 | `启用` |
-| `季节性背景 (Seasonal backgrounds)` | Use fanart contest winners as the background in the main menu (and for beatmaps without background images). The images will cycle when the song is changed. | 下拉菜单 | `Sometimes` |
+| `飘雪效果` | 在主菜单中显示飘雪效果（在冬季会强制启用）。 | 复选框 | `禁用` |
+| `视差效果` | 当导航游戏内菜单时（不在游玩期间），显示微小视差。 | 复选框 | `启用` |
+| `显示提示` | 每次访问主菜单时都显示一条提示。（cuttingedge 版本不会显示提示） | 复选框 | `启用` |
+| `问候语` | 在打开游戏时播放 “welcome” 音效，关闭游戏时播放 “see ya” 音效。 | 复选框 | `启用` |
+| `osu! 主题音乐` | 当启用时，客户端启动后会播放主题音乐。在切换歌曲后，只能重启客户端才能再次播放主题音乐。 | 复选框 | `启用` |
+| `季节性背景 (Seasonal backgrounds)` | 将获奖的同人图设置为主菜单（以及没有背景图片的谱面）的背景。切换歌曲时会循环显示。 | 下拉菜单 | `Sometimes` |
 
 ---
 
@@ -154,35 +154,35 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| `偶尔显示 (Sometimes)` | You will see seasonal backgrounds for a few weeks at the beginning of each season. The osu!dev team will choose when they will be removed, replaced with more plain backgrounds you are used to. |
-| `从不显示 (Never)` | You will never see seasonal backgrounds, and defaults will be used in all cases. |
-| `总是显示 (Always)` | You will always have the current season's backgrounds. |
+| `偶尔显示 (Sometimes)` | 在每个季节开始的几周内会使用季节性背景。osu! 开发团队会选定移除背景的时间，，从而使用你习惯的更朴素的背景。 |
+| `从不显示 (Never)` | 不会使用季节性背景，总会使用默认背景。 |
+| `总是显示 (Always)` | 总会使用当前季节的背景图片。 |
 
 ### 选歌页面
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `显示缩略图` | Display a preview image of each beatmap's background. This requires the selected skin's version to 2.2+. | 复选框 | `启用` |
+| `显示缩略图` | 显示谱面背景图片的预览图。需要所选皮肤版本高于 2.2。 | 复选框 | `启用` |
 
 ## 游戏
 
 ![游戏设置图标](img/gameplay-ZH.png "游戏设置图标")
 
-This section is about settings that affect gameplay.
+这一节主要与影响游玩的设置有关。
 
 ### 常规
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `背景暗化` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | 滑块 | `80%` |
-| `休息时段不改变背景暗度 (Don't change dim level during breaks)` | Disable brightening the dim level during breaks, making the background never visible. | 复选框 | `禁用` |
-| `进度条位置` | Configure where and how the song progress bar is displayed. See below for details. | 下拉菜单 | `Top-Right (Pie)` |
-| `分数计模式` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | 下拉菜单 | `Hit error` |
-| `分数计大小` | Configure size of score meter. | 滑块 | `1x` |
-| `显示按键表示框` | Show the key status overlay even while playing normally. | 复选框 | `禁用` |
-| `在 Hidden Mod 下显示第一个物件的缩圈` | When playing with the "hidden" mod, show only the first note's approach circle. | 复选框 | `启用` |
-| `按 BPM 调整 osu!mania 下落速度` | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap. | 复选框 | `禁用` |
-| `记住每张地图的 osu!mania 下落速度` | Remember the scroll speed you had set per-beatmap. | 复选框 | `禁用` |
+| `背景暗化` | 调整游玩时背景与故事板的暗化程度（可以按谱面单独设置）。 | 滑块 | `80%` |
+| `休息时段不改变背景暗度 (Don't change dim level during breaks)` | 禁止在休息时段降低背景暗化程度。 | 复选框 | `禁用` |
+| `进度条位置` | 配置歌曲进度条显示的位置与方式。详情见下。 | 下拉菜单 | `右上角（饼状）` |
+| `分数计模式` | 配置谱面下方显示的分数计。请注意，osu!catch 总会使用`色块模式`。 | 下拉菜单 | `打击偏差` |
+| `分数计大小` | 配置分数计的大小。 | 滑块 | `1x` |
+| `显示按键表示框` | 在正常游玩时也显示按键表示框。 | 复选框 | `禁用` |
+| `在 Hidden Mod 下显示第一个物件的缩圈` | 当启用 Hidden 模组游玩时，显示第一个物件的缩圈。 | 复选框 | `启用` |
+| `按 BPM 调整 osu!mania 下落速度` | 按谱面的 BPM 调整 osu!mania 的滚动速度。 | 复选框 | `禁用` |
+| `记住每张地图的 osu!mania 下落速度` | 记住每张谱面设置的滚动速度。 | 复选框 | `禁用` |
 
 ---
 
@@ -190,10 +190,10 @@ This section is about settings that affect gameplay.
 
 | 名称 | 描述 |
 | :-- | :-- |
-| `右上角（饼状）` | Use a pie chart to show the remaining duration before the song starts and the time left before completion. This is seen left of the accuracy. |
-| `右上角（条状）` | Use a short horizontal bar to display the time left before completion. This is seen underneath the score but above the accuracy. |
-| `右下角` | Use a short horizontal bar to display the time left before completion. This is seen in the bottom-right corner. |
-| `底部（长条）` | Use a long horizontal bar to display the time left before completion. This is seen on the bottom. |
+| `右上角（饼状）` | 使用饼图显示歌曲开始前与完成前的剩余时间。位于准确度的左侧。 |
+| `右上角（条状）` | 使用横条显示完成前的剩余时间。位于分数下方、准确度上方。 |
+| `右下角` | 使用短横条显示完成前的剩余时间。位于右下角。 |
+| `底部（长条）` | 使用长横条显示完成前的剩余时间。位于底部。 |
 
 ---
 
@@ -201,73 +201,73 @@ This section is about settings that affect gameplay.
 
 | 名称 | 描述 |
 | :-- | :-- |
-| `无` | Do not use a meter to display the player's hit timing. |
-| `色块模式` | Use coloured blocks to display hit timing. (osu!catch will always use this if `Hit error` is selected.) |
-| `打击偏差` | Use a meter to display hit timing. This shows if the player had hit too early or too late. |
+| `无` | 不使用指示器显示玩家的打击计时情况。 |
+| `色块模式` | 使用色块显示打击计时情况。（如果选择`打击偏差`，osu!catch 总会使用此设置。） |
+| `打击偏差` | 使用指示条显示打击计时情况。会显示玩家是否打击太早或太迟。 |
 
 ### 选歌页面
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `最低显示星数` | This adjusts the **lowest** difficulty beatmap that will be displayed in song select. | 滑块 | `0 stars` |
-| `最高显示星数` | This adjusts the **highest** difficulty beatmap that will be displayed in song select. | 滑块 | `10+ stars` |
+| `最低显示星数` | 调整在歌曲选择页面显示的**最低**难度谱面。 | 滑块 | `0 stars` |
+| `最高显示星数` | 调整在歌曲选择页面显示的**最高**难度谱面。 | 滑块 | `10+ stars` |
 
 ## 音频
 
 ![音频设置图标](img/audio-ZH.png "音频设置图标")
 
-This section is about audio related options.
+这一节主要与音频有关。
 
 ### 设备
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `音频设备` | Select the preferred output device for audio. (Options given are based on what your computer reports.) | 下拉菜单 | `Default` |
-| `兼容音频模式 (Audio compatibility mode)` | Uses the legacy audio engine which has higher latency but is more compatible. | 复选框 | `禁用` |
+| `音频设备` | 选择偏好的音频输出设备。（给出的选项基于电脑报告结果） | 下拉菜单 | `Default` |
+| `兼容音频模式 (Audio compatibility mode)` | 使用传统音频引擎，延迟较高但兼容性好。 | 复选框 | `禁用` |
 
 ### 音量
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `整体` | Controls the main volume. | 滑块 | `100%` |
-| `音乐` | Controls the music volume. | 滑块 | `80%` |
-| `音效` | Controls the hitsounds and in-game sounds. | 滑块 | `80%` |
-| `禁用谱面自带音效` | Favour hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | 复选框 | `禁用` |
+| `整体` | 控制主音量。 | 滑块 | `100%` |
+| `音乐` | 控制音乐音量。 | 滑块 | `80%` |
+| `音效` | 控制打击音效与游戏内音效的音量。 | 滑块 | `80%` |
+| `禁用谱面自带音效` | 使用当前皮肤提供的音效，而非谱面自带音效。 | 复选框 | `禁用` |
 
-The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.
+可以在其他地方按 `Alt` 键并转动滚轮或按上下方向键改变主音量、音乐音量和音效音量。
 
 ### 偏移量 (Offset) 调节
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `全局偏移量 (Offset)` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | 滑块 | `0ms` |
-| `偏移量(Offset) 设置向导` | Opens the offset wizard. | 按钮 |  |
+| `全局偏移量 (Offset)` | 所有谱面使用的偏移量（以毫秒为单位，除了本地偏移量之外） | 滑块 | `0ms` |
+| `偏移量 (Offset) 设置向导` | 打开偏移量设置向导。 | 按钮 |  |
 
-- For details about the offset wizard, see [Offset Wizard](/wiki/Client/Options/Offset_Wizard).
-- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- 对于偏移量设置向导的细节，参见[偏移量设置向导](/wiki/Client/Options/Offset_Wizard)。
+- 对于使用偏移量设置向导的细节，参见[如何使用偏移量设置向导](/wiki/Guides/How_to_Use_the_Offset_Wizard)。
 
 ## 外观
 
 ![外观设置图标](img/skin-ZH.png "外观设置图标")
 
-This section is about skin related things.
+这一节主要与皮肤有关。
 
 ### 皮肤
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `皮肤示例图` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | 按钮 |  |
-| `当前皮肤` | Changes the skin. Items in dropdown are based on what is in the `osu!/Skins` folder. (Names are based on folder name.) | 下拉菜单 | `Default` |
-| `预览皮肤` | Previews the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | 按钮 |  |
-| `打开皮肤文件夹` | Opens the selected skin folder. | 按钮 |  |
-| `导出 .osk` | Exports the current skin as a `.osk` file to share. Once your game client is done exporting, it will open the directory containing the `.osk` file. | 按钮 |  |
-| `忽略所有谱面自带的皮肤` | Favour the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | 复选框 | `禁用` |
-| `使用皮肤中的音效` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | 复选框 | `启用` |
-| `太鼓模式中使用太鼓皮肤` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [皮肤设置ning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | 复选框 | `禁用` |
-| `总是使用皮肤中的光标` | Favour the current skin's cursor over any cursors supplied by beatmaps. | 复选框 | `禁用` |
-| `光标大小` | Adjust the cursor size. | 滑块 | `1x` |
-| `自动缩放光标` | Automatically adjusts the cursor size based on the circle size of the beatmap. | 复选框 | `禁用` |
-| `拖球的颜色随滑条改变` | 滑块 balls will use the current combo colour (usually transparent). Requires skin support. | 复选框 | `启用` |
+| `皮肤示例图` | 显示所选皮肤中多种游玩元素。点击可以循环显示不同元素集。 | 按钮 |  |
+| `当前皮肤` | 改变皮肤。下拉菜单中的项目基于 `osu!/Skins` 文件夹中的内容（名称基于文件夹名）。 | 下拉菜单 | `Default` |
+| `预览皮肤` | 使用 Auto 模组随机游玩谱面来预览皮肤。游戏模式取决于歌曲选择页面中的选择。 | 按钮 |  |
+| `打开皮肤文件夹` | 打开所选皮肤的文件夹。 | 按钮 |  |
+| `导出 .osk` | 将当前皮肤导出为 `.osk` 文件以便共享。完成导出后，会打开含有 `.osk` 文件的文件夹。 | 按钮 |  |
+| `忽略所有谱面自带的皮肤` | 优先使用所选皮肤而非谱面自带皮肤，不包括音效（请见下一项设置）。 | 复选框 | `禁用` |
+| `使用皮肤中的音效` | 总使用所选皮肤的音效，而非谱面自带音效。 | 复选框 | `启用` |
+| `太鼓模式中使用太鼓皮肤` | 如果所选皮肤有，则使用 osu!taiko 特定的皮肤元素。详情参见[自定义皮肤/osu!taiko](/wiki/Skinning/osu!taiko) 。 | 复选框 | `禁用` |
+| `总是使用皮肤中的光标` | 优先使用当前皮肤的光标而非谱面自带光标。 | 复选框 | `禁用` |
+| `光标大小` | 调整光标大小。 | 滑块 | `1x` |
+| `自动缩放光标` | 基于谱面的 CS 值（圆圈大小）自动调整光标大小。 | 复选框 | `禁用` |
+| `拖球的颜色随滑条改变` | 滑条球（通常是透明的）使用当前串的颜色。需要皮肤支持。 | 复选框 | `启用` |
 
 ## 输入
 
@@ -279,12 +279,12 @@ This section is about skin related things.
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `鼠标灵敏度` | Adjust the sensitivity of the mouse cursor. If changed, it may automatically enable `Raw 输入设置`. | 滑块 | `1x` |
-| `原始输入 (Raw input)` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | 复选框 | `禁用` |
-| `绝对坐标只映射在 osu! 窗口中` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | 复选框 | `禁用` |
-| `开启光标边界` | Prevent mouse cursor from leaving the game client window. See below for details. | 下拉菜单 | `只在全屏模式时` |
-| `在游戏中禁用鼠标滚轮` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | 复选框 | `禁用` |
-| `在游戏中禁用鼠标按键` | Disable mouse buttons during gameplay. This is helpful for keyboard users. | 复选框 | `禁用` |
+| `鼠标灵敏度` | 调节鼠标光标的灵敏度。改变灵敏度可能会自动启用`原始输入`。 | 滑块 | `1x` |
+| `原始输入 (Raw input)` | 不经过后期处理，直接从硬件读取鼠标或数位板的位置信息（以忽略鼠标加速）。 | 复选框 | `禁用` |
+| `绝对坐标只映射在 osu! 窗口中` | 将带有绝对坐标功能的输入设备（比如数位板）限制在客户端窗口中。 | 复选框 | `禁用` |
+| `开启光标边界` | 防止鼠标光标离开客户端窗口。详情见下。 | 下拉菜单 | `只在全屏模式时` |
+| `在游戏中禁用鼠标滚轮` | 在游玩期间禁用鼠标滚轮。可以用鼠标滚轮改变整体音量。 | 复选框 | `禁用` |
+| `在游戏中禁用鼠标按键` | 在游玩期间禁用鼠标按钮。对使用键盘的玩家有帮助。 | 复选框 | `禁用` |
 | `点击波纹` | 当点击鼠标时，显示细微的波纹效果。 | 复选框 | `禁用` |
 
 - 当`原始输入`启用时，会显示每秒收到的报告数，以及以毫秒为单位的延迟。
@@ -296,16 +296,16 @@ This section is about skin related things.
 
 | 名称 | 描述 |
 | :-- | :-- |
-| `从不` | Never prevent the mouse from leaving the game client. |
-| `只在全屏模式时` | Only prevent the mouse from leaving the game client when fullscreen (this also includes `Letterboxing`). |
-| `总是` | Always prevent the mouse from leaving the game client in any resolution. |
+| `从不` | 从不防止鼠标离开客户端区域。 |
+| `只在全屏模式时` | 仅在全屏模式（也包括`银幕模式 (Letterboxing)`）下防止鼠标离开客户端区域。 |
+| `总是` | 在任何分辨率下总防止鼠标离开客户端区域。 |
 
 ### 键盘
 
 | 名称 | 描述 | 类型 |
 | :-- | :-- | :-- |
-| `按键设置` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Client/Options/Keyboard_bindings) for more details. | 按钮 |
-| `osu!mania 键位排列` | Displays a dialog which allows you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | 按钮 |
+| `按键设置` | 显示一个对话框，用于查看或改变按键绑定设置。详情参见[按键绑定](/wiki/Client/Options/Keyboard_bindings)。 | 按钮 |
+| `osu!mania 键位排列` | 显示一个对话框，用于查看或改变 osu!mania 按键绑定设置。详情参见 [osu!mania 布局](/wiki/Game_mode/osu!mania)。 | 按钮 |
 
 ### 其它
 
