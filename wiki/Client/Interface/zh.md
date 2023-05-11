@@ -1,9 +1,6 @@
----
-outdated_translation: true
-outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
----
-
 # 界面
+
+本文将解释关于使用 osu! 游戏客户端的方法，你需要了解的所有事情。在这里，你会找到关于歌曲选择页面、排行榜显示与结果屏幕的信息。当启动客户端时，你会看到如下界面：
 
 ![](img/intro-screen.jpg "初始屏幕")
 
@@ -11,27 +8,36 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 ![](img/main-menu.jpg "主菜单")
 
-[osu!粉饼](/wiki/Client/Interface/Cookie) \[1\]随着 [BPM](/wiki/Music_theory/Tempo) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
+- \[1\][osu! 粉饼](/wiki/Client/Interface/Cookie)。点击后会打开主菜单。它随着音乐的 [BPM](/wiki/Music_theory/Tempo) 跳动，延伸出的长条将音频频谱可视化。如果没有播放歌曲，就会以 60 BPM 的速度缓慢跳动。
+- \[2\] 点击 `Play` （或者按 `P`）单人或多人游玩 osu!。
+- \[3\] 点击 `Edit` （或者按 `E`）编辑[谱面](/wiki/Beatmap)。
+- \[4\] 点击 `Option` （或者按 `O`）打开[设置侧边栏](/wiki/Client/Options)。
+- \[5\] 点击 `Exit` （或者按 `Esc`）退出游戏。
+- \[6\] 一条随机的有用[提示](/wiki/Client/Menu_tips)。
+- \[7\] [ppy](https://ppy.sh/) 的标志与版权信息
+- \[8\] 当与 [Bancho 服务器](/wiki/Bancho_(server))的连接出现问题时，会在此处显示断掉的链接图标。
+- \[9\] [聊天窗口](/wiki/Client/Interface/Chat_console)按钮，左侧有一个按钮可以打开扩展聊天窗口，显示在线用户。可以分别使用 `F8` 和 `F9` 来开关。
+- \[10\] 音乐播放器。在主菜单中会随机播放歌曲。关于此菜单中的按钮详情，参见下文。
+- \[11\] 可用[谱面难度](/wiki/Beatmap/Difficulty)数量（尽管并不是这样显示的）、osu! 的运行时间和系统时间。
+- \[12\] 用户面板，点击显示[用户选项](#用户选项)。
 
-- \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
-- \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
-- \[4\] 点击 Option （`O`） 进入设置界面。
-- \[5\] 点击 Exit （`Esc`） 退出 osu!
-- \[6\] 在主菜单下方会有随机的游戏[提示](/wiki/Client/Menu_tips)。
-- \[7\] 左下角是 osu! 官网的链接，以及版权信息。
-- \[8\] 与[Bancho](/wiki/Bancho_(server))的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
-- \[9\] 右下角的是扩展[聊天窗口](/wiki/Client/Interface/Chat_console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。
-- \[10\] 在右上角是osu!随机播放歌曲的控制器。顶部显示了当前正在播放的歌曲。从左到右，这些按钮的作用如下:
-  - 上一首
-  - 播放
-  - 暂停
-  - 停止 （与暂停不同的是，点击播放和停止会使歌曲从头播放，而暂停只是单纯的暂停）
-  - 下一首
-  - 浏览歌曲信息。 这个按钮会切换顶部歌曲信息是永久显示还是临时显示。当设置为永久显示时，歌曲信息将永久显示直到他与其他UI一起淡出。 当设置为临时显示时，他将会在歌曲被选择后一段时间消失直到被状态切换或者播放另一首歌时被唤出。
-- \[11\] 你拥有的谱面数量，osu!的运行时间，和你的系统时间。
-- \[12\] 用户面板，点击显示用户选项（见下文）。
+---
 
-### 用户选项
+音乐播放器有如下按钮：
+
+| 按钮 | 描述 |
+| :-: | :-- |
+| ![](img/jukebox/previous-track.jpg "上一曲") | Previous track |
+| ![](img/jukebox/play.jpg "播放") | Play |
+| ![](img/jukebox/pause.jpg "暂停") | Pause |
+| ![](img/jukebox/stop.jpg "停止播放") | Stop and reset the current song to its beginning |
+| ![](img/jukebox/next-track.jpg "下一曲") | Next track |
+| ![](img/jukebox/view-song-info.jpg "查看歌曲信息") | Toggle between having the information for the current song showing permanently, or fading out after a little while. |
+| ![](img/jukebox/jump-to-window.jpg "转到窗口") | 播放特定的歌曲。可以搜索歌曲，也可以按收藏夹筛选。 |
+
+也可以使用[键盘快捷键](/wiki/Client/Keyboard_shortcuts#主菜单播放器)控制播放器。
+
+## 用户选项
 
 ![](img/user-options-ZH.jpg "用户选项")
 
@@ -50,7 +56,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 - 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Client/Interface/Multiplayer)大厅（见下文）。
 - 点击 `Back` (`B`) 以返回主菜单
 
-### 联机大厅
+## 联机大厅
 
 *详见词条： [Multi](/wiki/Client/Interface/Multiplayer)*
 
@@ -71,7 +77,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 11. 离开按钮。
 12. 你使用的mods。
 
-### 选歌界面
+## 选歌界面
 
 ![](img/song-selection.jpg "Song selection")
 
@@ -84,7 +90,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 在继续之前，这个界面有太多的元素以至于很难使用数字标记。下面的子节将从上到下，从左到右来介绍界面的每一部分
 
-### 谱面
+### 谱面信息
 
 ![](img/metadata-comparison.jpg)
 
@@ -108,7 +114,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 点击其中一个标签会**根据所选标准排序你的歌曲列表**。
 
-**分组** - 根据选项使谱面分类
+#### **分组** - 根据选项使谱面分类
 
 - `不分组` - 谱面将不会分组，但仍会根据排序设置进行排序。
 - `难度⭐` - 谱面将会根据它们的难度星级分组，取决于整数位。
@@ -127,7 +133,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 前五个分组在分组和排序选项下面的标签中可用
 
-**排序** - 按照一定的顺序排序谱面
+#### **排序** - 按照一定的顺序排序谱面
 
 - `艺术家` - 谱面将会根据艺术家的首字母顺序排序
 - `BPM` - 谱面将根据BPM从低到高排序，对于有多BPM的谱面使用最高的那个。
@@ -311,6 +317,8 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 7. 谱面的通过率和总游玩数
 8. 谱面评分。根据你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。
 9. 返回选歌界面
+
+### 成就
 
 ![](img/medal-unlock.jpg "解锁新成就")
 
