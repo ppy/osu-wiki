@@ -19,4 +19,4 @@ Cái **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) là một biểu 
  
  *Xem thêm [Dòng thời gian mapping và modding](/wiki/History_of_osu!/Mapping_And_Modding_Timeline)*
  
- Bubble được giới thiệu bởi ::{ flag=AU }:: [peppy](/wiki/People/peppy) vào ngày 29 tháng 10 năm 2007, cho "những beatmap đang được xem xét cho lượt chơi đã được xếp hạng (đang chờ phản hồi xa hơn bởi mod)". Đặt một biểu tường cho thread của beatmap sang một cái bubble là một cách cho thành viên BAT để chỉ ra rằng beatmap có chất lượng tốt và đã theo [tiêu chí xếp hạng](/wiki/Ranking_Criteria)<!--
+ Bubble được giới thiệu bởi ::{ flag=AU }:: [peppy](/wiki/People/peppy) vào ngày 29 tháng 10 năm 2007, cho "những beatmap đang được xem xét cho lượt chơi đã được xếp hạng (đang chờ phản hồi xa hơn bởi mod)". Đặt một biểu tường cho thread của beatmap sang một cái bubble là một cách cho thành viên BAT để chỉ ra rằng beatmap có chất lượng tốt và đã theo [tiêu chí xếp hạng](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
