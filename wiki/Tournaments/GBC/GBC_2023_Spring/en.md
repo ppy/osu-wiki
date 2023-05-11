@@ -150,7 +150,7 @@ Due to the large number of players and matches, the match results will be displa
 | Level S | 2.3x + 30 |
 | Level EX | 3.4x + 57 |
 
-3. The final ranking of qualifier depends on the total points of all the 4 rounds. The top 24 players will be able to join playoff stage.
+3. The final qualifier ranking depends on the total amount of points from all 4 rounds. The top 24 players will be able to join the playoff stage.
 4. Top 8 players of final ranking will get into the winner bracket, top 9-24 players will get into the loser bracket.
 5. If there is a tie in final ranking, the player that have lower sum of ranks in every round will get higher final ranking.
 6. In the playoff stage, players need to win 6 beatmaps in QuarterFinals and SemiFinals to win, 7 beatmaps in Finals and Grand Finals to win.
