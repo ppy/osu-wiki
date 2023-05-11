@@ -33,7 +33,7 @@ As is tradition by this point, all skins have to be created from scratch and be 
 In order to submit your skin you must:
 
 - post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
-- post a link of your entry in the [submission post](https://osu.ppy.sh/community/forums/topics/1762287)
+- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymised. In fact, we encourage you to show off your work as much as you want!
 
