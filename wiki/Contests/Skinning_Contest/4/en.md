@@ -86,6 +86,7 @@ This iteration's theme, **Icons of an Era**, aims to spark the community's imagi
 
 Each entry should have a prominent theme where the inspiration behind it is immediately recognisable, such as:
 
-- pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)
-- A group of beatmap backgrounds from a specific era in osu! history
-- The best mascot that has ever grazed osu! ([Taikonator 3000](/wiki/Mascots#taikonator))
+- skin centred around a beatmap background
+- skin centred around a group of beatmap backgrounds
+- skin focused around a specific mascot or group of mascots
+- any combination of the above (e.g. pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891))
