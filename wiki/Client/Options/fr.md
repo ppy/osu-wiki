@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 02d34f733641b608571184583b32f227216bfb33
+---
+
 # Options
 
 ![Menu des options](img/options_basic-FR.jpg "Menu des options \(barre latérale à gauche\)")

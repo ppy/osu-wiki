@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
----
-
 # Точность
 
-Точность (*аккураси*, *акка*) — это оценка того, насколько вовремя игрок нажимает на [ноты](/wiki/Gameplay/Hit_object). Она измеряется в процентах и бывает трёх видов:
+Точность (англ. *accuracy*, жарг. *аккураси*, *акка*) — это оценка того, насколько вовремя игрок нажимает на [ноты](/wiki/Gameplay/Hit_object). Она измеряется в процентах и бывает трёх видов:
 
 1. Точность на конкретной сложности, которая зависит от полученных очков за нажатия.
 2. Общая точность, которая складывается из всех рекордов (у каждого из них — свой вес в сумме, чтобы лучшие рекорды сильнее влияли на точность).
@@ -15,7 +10,7 @@ outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Формула расчёта точности для osu!")
+![Accuracy = (300 \* number of 300s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of 300s + number of 100s + number of 50s + number of misses))](img/accuracy_osu_updated.png "Формула расчёта точности для osu!")
 
 В osu! точность рассчитывается как сумма всех [индивидуальных попаданий](/wiki/Gameplay/Judgement) по нотам, разделённая на максимально возможное количество очков на карте. 
 
@@ -30,23 +25,40 @@ outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Формула расчёта точности для osu!taiko")
+![Accuracy = (number of GREATs + 0.5 \* number of GOODs) / (number of GREATs + number of GOODs + number of misses)](img/accuracy_taiko_updated.png "Формула расчёта точности для osu!taiko")
 
 В osu!taiko точность рассчитывается как сумма точностей нот, делённая на их общее количество. Точность ноты может быть GREAT (良) (cчитается как 100%), GOOD (可) (cчитается как 50%), или MISS/BAD (不可) (считается как 0%, а также сбрасывает комбо). Слайдеры (drum roll) и спиннеры не влияют на точность.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Формула расчёта точности для osu!catch")
+![Accuracy = (number of caught fruits + number of caught drops + number of caught droplets) / (number of all fruits + number of all drops + number of all droplets)](img/accuracy_catch_updated.png "Формула расчёта точности для osu!catch")
 
 В osu!catch точность рассчитывается как количество собранных объектов, делённое на их общее количество (бананы при этом нигде не учитываются). Все объекты, кроме бананов, имеют одинаковое значение точности.
 
-*Примечание для пользователей API: если вам нужно рассчитать точность в osu!catch, общее количество дроплетов (капелек) в ответе API названо `count50`, а количество пропущенных дроплетов — `countkatu`.*
+*Примечания для пользователей [API](/wiki/osu!api):*
+
+- Количество пойманных дропов названо `count100`.
+- Количество пойманных дроплетов названо `count50`.
+- Суммарное количество пропущенных фруктов *и* дропов названо `countMiss`.
+- Количество пропущенных дроплетов названо `countKatu`.
+- `countGeki` — количество пойманных фруктов, завершающих комбо. Оно не участвует в расчёте точности.
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчёта точности для osu!mania")
+В osu!mania точность рассчитывается аналогично [osu!](#osu!), а вес радужных 300 (иногда называемых MAX) зависит от наличия мода ScoreV2.
 
-В osu!mania точность рассчитывается аналогично [osu!](#osu!).
+В ScoreV1 радужные и обычные 300 имеют одинаковый вес — 300:
+
+![Accuracy = (300 \* (number of MAXs + number of 300s) + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v1.png "Формула расчёта точности для osu!mania при ScoreV1")
+
+В ScoreV1 радужные 300 «весят» чуть больше — 305:
+
+![Accuracy = 305 \* number of MAXs + 300 \* number of 300s + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (305 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v2.png "Формула расчёта точности для osu!mania при ScoreV2")
+
+*Примечания для пользователей API:*
+
+- Количество радужных 300 названо `countGeki`.
+- Количество 200 названо `countKatu`.
 
 ## График производительности
 
