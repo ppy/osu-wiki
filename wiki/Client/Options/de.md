@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 02d34f733641b608571184583b32f227216bfb33
+---
+
 # Optionen
 
 ![Optionsmenü \(die Leiste auf der linken Seite\)](img/options_basic-DE.jpg "Optionsmenü \(die Leiste auf der linken Seite\)")
