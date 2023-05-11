@@ -20,3 +20,17 @@ Cái **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) là một biểu 
  *Xem thêm [Dòng thời gian mapping và modding](/wiki/History_of_osu!/Mapping_And_Modding_Timeline)*
  
  Bubble được giới thiệu bởi ::{ flag=AU }:: [peppy](/wiki/People/peppy) vào ngày 29 tháng 10 năm 2007, cho "những beatmap đang được xem xét cho lượt chơi đã được xếp hạng (đang chờ phản hồi xa hơn bởi mod)". Đặt một biểu tường cho thread của beatmap sang một cái bubble là một cách cho thành viên BAT để chỉ ra rằng beatmap có chất lượng tốt và đã theo [tiêu chí xếp hạng](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
+
+Vào ngày 3 tháng 10 năm 2010, Nhóm MAT đã nhận được quyền để sử dụng biểu tượng bubble, cùng với BAT!
+
+Sau [hệ thống thảo luận beatmap](/wiki/beatmap_discussion) đã được hoàn toàn thêm vào và đã hóa thành giao diện chính cho việc modding vào tháng 11 năm 2017, quản lý beatmap dựa trên diễn đàn đã bị loại bỏ dần, với bubble được thay bằng đề cử.
+
+## Cơ chế
+
+::: Infobox
+![](img/list-of-bubbles.png "Danh sách những beatmap được bubble, cùng với những bubble được nổ và những map được đánh dấu sao.
+:::
+
+Thread của những beatmap được bubble đã được liệt kê trên những trang đaauf tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/star_piority) của chúng và được hiệu lực theo vai những chuỗi forum.
+
+### 
