@@ -18,9 +18,10 @@ The theme for this contest is **Icons of an Era**. We aim to spark the community
 
 Here are a couple of examples:
 
-- pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)
-- a group of beatmap backgrounds from a specific era in osu! history
+- skin centred around a beatmap background
+- skin centred around a group of beatmap backgrounds
 - skin focused around a specific mascot or group of mascots
+- any combination of the above (e.g. pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891))
 
 Whatever you end up choosing, please make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
 
@@ -33,7 +34,7 @@ As is tradition by this point, all skins have to be created from scratch and be 
 In order to submit your skin you must:
 
 - post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
-- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
+- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1762287) using the format listed in the post
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymised. In fact, we encourage you to show off your work as much as you want!
 
