@@ -203,7 +203,6 @@ The rules are largely the same as in the regular season.
 | Quarterfinals & Semifinals | 6 RC, 3 HB, 3 LN, and 1 TB |
 | Finals & Grand Finals | 7 RC, 3 HB, 4 LN, and 1 TB |
 
-   - Each mappool has one tiebreaker.
 3. Players will have 2 minutes to pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
    - For map bans, the player forfeits the ban.
    - For map picks, a random map will be chosen from the mappool using `!roll X`, where `X` is the number of maps that were neither picked nor banned, excluding the tiebreaker.
