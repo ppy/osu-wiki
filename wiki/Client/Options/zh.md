@@ -92,10 +92,10 @@
 
 ---
 
-*注意：When the game client is not the active window, the fps limit is dropped to 30fps automatically.*\
-*使用笔记本电脑的玩家请注意：使用using `Unlimited (gameplay)` 可能会导致你的电脑过热！*
+*注意：当客户端窗口处于非活动状态时，帧数限制会自动降低到 30fps。*\
+*使用笔记本电脑的玩家请注意：使用`无限制（游戏中）`可能会导致你的电脑过热！*
 
-If you open the dropdown list for `Frame Limiter`, you will be presented with these options:
+打开`帧数限制`的下拉菜单后，会看到如下选项：
 
 | 名称 | 描述 |
 | :-- | :-- |
@@ -128,14 +128,14 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `渐出滑条` | 滑块s will "snake out" from their starting position. | 复选框 | `启用` |
-| `背景视频` | Allow the beatmap background video to play during gameplay (can be disabled per-beatmap). | 复选框 | `启用` |
-| `故事板 (Storyboards)` | Allow beatmap storyboards to be played (can be disabled per-beatmap). | 复选框 | `启用` |
-| `连击提示图` | Allow combo bursts to display upon reaching a combo milestone. | 复选框 | `禁用` |
-| `击打闪光` | Display a subtle glow behind each hit explosion. Does not disable lighting during Kiai Time. | 复选框 | `启用` |
-| `着色器效果` | Display, graphically speaking, concert-type effects. This may automatically be disabled if your computer cannot handle it. | 复选框 | `禁用` |
-| `柔化滤镜` | Adjusts the shaders to be less flashy. This will automatically enable `Shaders`. | 复选框 | `禁用` |
-| `截图格式` | Sets the screenshot file format. | 下拉菜单 | `JPEG （空间较小）` |
+| `渐出滑条` | 滑块会从起点“滑出”。 | 复选框 | `启用` |
+| `背景视频` | 允许在游玩期间播放谱面背景视频（可分谱面禁用）。 | 复选框 | `启用` |
+| `故事板 (Storyboards)` | 允许在游玩期间显示谱面故事板（可分谱面禁用）。 | 复选框 | `启用` |
+| `连击提示图` | 允许在达成连击里程碑时显示提示图。 | 复选框 | `禁用` |
+| `击打闪光` | 在每次点击后显示细微的发光效果。不会禁用 Kiai 时间的闪光。 | 复选框 | `启用` |
+| `着色器效果` | 显示（从图形上说）影剧院级的效果。如果你的电脑不支持，可能会自动禁用。 | 复选框 | `禁用` |
+| `柔化滤镜` | 调整着色器，减少闪光。会自动启用`着色器效果`。 | 复选框 | `禁用` |
+| `截图格式` | 设置截图文件格式。 | 下拉菜单 | `JPEG （空间较小）` |
 
 ### 主菜单
 
@@ -150,7 +150,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 
 ---
 
-If you open the dropdown list for `Seasonal backgrounds`, you will be presented with these options:
+打开`季节性背景 (Seasonal backgrounds)` 的下拉菜单后，会看到如下选项：
 
 | 名称 | 描述 |
 | :-- | :-- |
@@ -186,7 +186,7 @@ This section is about settings that affect gameplay.
 
 ---
 
-If you open the dropdown list for `Progress Display`, you will be presented with these options:
+打开`进度条位置`的下拉菜单后，会看到如下选项：
 
 | 名称 | 描述 |
 | :-- | :-- |
@@ -197,7 +197,7 @@ If you open the dropdown list for `Progress Display`, you will be presented with
 
 ---
 
-If you open the dropdown list for `Score meter type`, you will be presented with these options:
+打开`分数计模式`的下拉菜单后，会看到如下选项：
 
 | 名称 | 描述 |
 | :-- | :-- |
@@ -263,7 +263,7 @@ This section is about skin related things.
 | `导出 .osk` | Exports the current skin as a `.osk` file to share. Once your game client is done exporting, it will open the directory containing the `.osk` file. | 按钮 |  |
 | `忽略所有谱面自带的皮肤` | Favour the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | 复选框 | `禁用` |
 | `使用皮肤中的音效` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | 复选框 | `启用` |
-| `太鼓模式中使用太鼓皮肤` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [皮肤设置ning/osu!taiko](/wiki/皮肤设置ning/osu!taiko) for details. | 复选框 | `禁用` |
+| `太鼓模式中使用太鼓皮肤` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [皮肤设置ning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | 复选框 | `禁用` |
 | `总是使用皮肤中的光标` | Favour the current skin's cursor over any cursors supplied by beatmaps. | 复选框 | `禁用` |
 | `光标大小` | Adjust the cursor size. | 滑块 | `1x` |
 | `自动缩放光标` | Automatically adjusts the cursor size based on the circle size of the beatmap. | 复选框 | `禁用` |
@@ -273,7 +273,7 @@ This section is about skin related things.
 
 ![输入设置图标](img/input-ZH.png "输入设置图标")
 
-This section is about input peripherals.
+这一节主要与外围输入设备有关。
 
 ### 鼠标
 
@@ -285,14 +285,14 @@ This section is about input peripherals.
 | `开启光标边界` | Prevent mouse cursor from leaving the game client window. See below for details. | 下拉菜单 | `只在全屏模式时` |
 | `在游戏中禁用鼠标滚轮` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | 复选框 | `禁用` |
 | `在游戏中禁用鼠标按键` | Disable mouse buttons during gameplay. This is helpful for keyboard users. | 复选框 | `禁用` |
-| `点击波纹` | Show subtle ripple effect when the mouse is clicked. | 复选框 | `禁用` |
+| `点击波纹` | 当点击鼠标时，显示细微的波纹效果。 | 复选框 | `禁用` |
 
-- When `Raw 输入设置` is enabled, it will display the number of reports it receives per second and the latency in milliseconds.
-- The cursor ripple effect can be triggered by pressing `M1` and `M2` during game play.
+- 当`原始输入`启用时，会显示每秒收到的报告数，以及以毫秒为单位的延迟。
+- 可以在游玩期间按 `M1` 与 `M2` 键触发点击波纹效果。
 
 ---
 
-If you open the dropdown list for `Confine mouse cursor`, you will be presented with these options:
+打开`开启光标边界`的下拉菜单后，会看到如下选项：
 
 | 名称 | 描述 |
 | :-- | :-- |
@@ -311,8 +311,8 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 
 | 名称 | 描述 | 类型 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `强制启用触屏 / 数位板支持` | Improves compatibility with graphic tablets and tablet PCs. | 复选框 | `禁用` |
-| `启动 Wiimote / TaTaCon 支持` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via Bluetooth before enabling. | 复选框 | `禁用` |
+| `强制启用触屏 / 数位板支持` | 改善与数位板和平板电脑的兼容性。 | 复选框 | `禁用` |
+| `启动 Wiimote / TaTaCon 支持` | 启用对任天堂 Wii Taiko Drum 控制器与 Wiimotes 的支持。在启用前需要通过蓝牙与设备配对。 | 复选框 | `禁用` |
 
 ## 编辑器
 
