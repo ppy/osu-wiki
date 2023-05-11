@@ -153,7 +153,7 @@ Due to the large number of players and matches, the match results will be displa
 3. The final qualifier ranking depends on the total amount of points from all 4 rounds. The top 24 players will be able to join the playoff stage.
 4. The top 8 will play in the winners' bracket, while the top 9–24 will play in the losers' bracket.
 5. In case of a tie in the rankings, the player with a lower sum of ranks in every round will take the higher rank.
-6. In the playoff stage, players need to win 6 beatmaps in QuarterFinals and SemiFinals to win, 7 beatmaps in Finals and Grand Finals to win.
+6. In the playoff stage, players need to win 6 beatmaps in order to win a match during Quarterfinals and Semifinals, and 7 beatmaps in the Finals and Grand Finals.
 
 ### Match procedures
 
