@@ -196,7 +196,7 @@ Due to the large number of players and matches, the match results will be displa
 The rules are largely the same as in the regular season.
 
 1. The organiser will invite some players from the EX group to participate in the playoffs.
-2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types.
+2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
    - QuarterFinals and SemiFinals have 13 maps with 6RC, 3HB, 3LN and 1TB, winner of 11.
    - Finals and Grand Finals have 15 maps with 7RC, 3HB, 4LN and 1TB, winner of 13.
    - Each mappool has one tiebreaker.
