@@ -391,7 +391,7 @@ This section is about beatmaps and updates.
 | Name | Description | Type |
 | :-- | :-- | :-- |
 | `Delete all unranked maps` | Delete all unranked maps in your songs folder. | Button |
-| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This will require the administrator privilege to complete.) | Button |
+| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This requires administrator privileges to complete.) | Button |
 | `Mark all maps as played` | Mark all maps as "played". | Button |
 | `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | Button |
 
