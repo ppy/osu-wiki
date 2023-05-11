@@ -197,8 +197,12 @@ The rules are largely the same as in the regular season.
 
 1. The organiser will invite some players from the EX group to participate in the playoffs.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
-   - QuarterFinals and SemiFinals have 13 maps with 6RC, 3HB, 3LN and 1TB, winner of 11.
-   - Finals and Grand Finals have 15 maps with 7RC, 3HB, 4LN and 1TB, winner of 13.
+
+| Stage | Beatmaps |
+| :-- | :-- |
+| Quarterfinals & Semifinals | 6 RC, 3 HB, 3 LN, and 1 TB |
+| Finals & Grand Finals | 7 RC, 3 HB, 4 LN, and 1 TB |
+
    - Each mappool has one tiebreaker.
 3. Players will have 2 minutes to pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
    - For map bans, the player forfeits the ban.
