@@ -51,7 +51,7 @@ tags:
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 오디오 디자이너, [공식 osu! 아티스트](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 월드컵 주최자 및 관리자 |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 총괄 관리자, 커뮤니티 매니저 |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅과 IRC 제공자, 사이트 관리자. [블로그](http://blog.echo.sh/) |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자. [블로그](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, osz2 및 p2p 백엔드 제공자 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 모딩 및 매핑 자문가 |
