@@ -4,7 +4,7 @@ Les règles et les directives des critères de classement sont basées sur des m
 
 Nous utiliserons les directives suivantes d'une difficulté Normal d'osu! comme exemple :
 
-> **Incluez un écart de rythme de 1/1 ou plus toutes les deux mesures de jeu.**
+> **La densité des notes doit consister principalement en 1/1, occasionnellement 1/2, ou des rythmes plus lents.**
 
 Par souci de simplicité, considérez le 180 BPM comme un point médian.
 
