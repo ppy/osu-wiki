@@ -9,7 +9,7 @@ outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
 
 新贡献者可能不熟悉 GitHub 或 [git](https://git-scm.com/)，因为它们是主要为开发人员量身定制的工具。如果你第一次没有做对，请不要担心——[wiki 维护者](/wiki/People/osu!_wiki_maintainers)会为你指出正确的方向或者帮助你修复它。
 
-如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)（ `#osu-wiki` 频道）中询问我们。
+如果你对某些内容感到困惑，需要帮助，欢迎在 [osu! Discord 频道](https://discord.gg/ppy)（ `#osu-wiki` 频道）中询问我们。
 
 ## 感兴趣的领域
 
@@ -58,7 +58,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 如果一段时间内没有人检查你的文章，请尝试这样做：
 
 - 确保你已解决所有建议 - 他们可能在等待你的回复。
-- 在 [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)（`#osu-wiki` 频道）或者 GitHub 的评论中询问其他 osu! wiki 编辑者。
+- 在 [osu! Discord server](/wiki/Community/osu!_Discord_server)（`#osu-wiki` 频道）或者 GitHub 的评论中询问其他 osu! wiki 编辑者。
 - 要获得翻译帮助，请检查几个你的语言的已合并拉取请求，并与他们的审阅者或者作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)）。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu! 中文翻译组织 的审阅。<!-- Translation for additional sentence: "For articles written in Chinese, contributors can mention @osu-translate-zh in GitHub comments for review and/or help." -->
 - 叫你的朋友快速检查一下！
 
@@ -66,6 +66,6 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 ## 合并
 
-在其他合作者审阅之后，最终将由 [wiki 维护者](/wiki/People/osu!_wiki_maintainers)之一进行检查。如果太久没有人回复，请在拉取请求的评论中询问，或在 [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server)的 `#osu-wiki` 频道中询问。你的更改将在合并后不久出现在 osu! wiki 上（在极少数情况下，这可能需要长达五个小时）。
+在其他合作者审阅之后，最终将由 [wiki 维护者](/wiki/People/osu!_wiki_maintainers)之一进行检查。如果太久没有人回复，请在拉取请求的评论中询问，或在 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)的 `#osu-wiki` 频道中询问。你的更改将在合并后不久出现在 osu! wiki 上（在极少数情况下，这可能需要长达五个小时）。
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
