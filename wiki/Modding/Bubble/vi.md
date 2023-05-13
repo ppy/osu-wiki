@@ -51,4 +51,5 @@ Một bubble có sẵn có thể được **nổ**:
 Trong cả hai trường hợp, biểu tượng thread của beatmap sẽ được đặt thành một cái bubble đã bị nổ (![Popped bubble icon](/wiki/shared/icon/bubble-pop.gif)) Nếu một bubble được cho nổ bằng cách tự làm, nó đã được giả định rằng một thành viên của BAT hay MAT sẽ chắc chắn rằng những thay đổi cần thiết đã được thực hiện trước khi nó tiếp tục trong tiến trình xếp hạng.
 
 ## Xem thêm
+
 - *[kết thúc của bubble](https://youtube.com/watch?v=9Za-1_hxkxE)*, một tập của [osu!mapping](/wiki/Community/Video_series/osu!mapping) Series trên Youtube
