@@ -10,7 +10,7 @@ Do you believe in simulation theory? If not, disregard this message and carry on
 
 **cygnus** (known here on osu! as [Matrix](https://osu.ppy.sh/users/5052899)) is the embodiment of the circle clicker's dream: living in Japan and producing rhythm game songs all day every day.
 
-While he began as a pioneer of AR11 gameplay and later shifted his attention towards mapping, he's recently discovered that music is his favourite form of expression. Inspired by creators like our very own [*-45*](https://osu.ppy.sh/beatmaps/artists/297), *onoken*, and *SHIKI*, **cygnus** pulls off a distincly old-school style through both his compositions and nostalgic sample choices.
+While he began as a pioneer of AR11 gameplay and later shifted his attention towards mapping, he's recently discovered that music is his favourite form of expression. Inspired by creators like our very own [*-45*](https://osu.ppy.sh/beatmaps/artists/297), *onoken*, and *SHIKI*, **cygnus** pulls off a distinctly old-school style through both his compositions and nostalgic sample choices.
 
 **23** tracks are patiently waiting for your editor magic on [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359)!
 
