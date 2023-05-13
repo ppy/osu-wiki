@@ -1,8 +1,8 @@
 ---
-tags:
-- bubble pop
-- full bubble
----
+tags: 
+- bubble pop 
+- full bubble 
+--- 
 
 # Bubble
 
