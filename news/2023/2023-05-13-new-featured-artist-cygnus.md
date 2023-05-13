@@ -10,7 +10,7 @@ Do you believe in simulation theory? If not, disregard this message and carry on
 
 **cygnus** (known here on osu! as [Matrix](https://osu.ppy.sh/users/5052899)) is the embodiment of the circle clicker's dream: living in Japan and producing rhythm game songs all day every day.
 
-While he began as a pioneer of AR11 gameplay and later shifted his attention towards mapping, he's recently discovered that music is his favourite form of expression. Inspired by creators like our very own [*-45*](https://osu.ppy.sh/beatmaps/artists/297), *onoken*, and *SHIKI*, **cygnus** pulls off a distinctly old-school style through both his compositions and nostalgic sample choices.
+While he began as a pioneer of AR 11 gameplay and later shifted his attention towards mapping, he's recently discovered that music is his favourite form of expression. Inspired by creators like our very own [*-45*](https://osu.ppy.sh/beatmaps/artists/297), *onoken*, and *SHIKI*, **cygnus** pulls off a distinctly old-school style through both his compositions and nostalgic sample choices.
 
 **23** tracks are patiently waiting for your editor magic on [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359)!
 
@@ -24,7 +24,7 @@ Given **cygnus**'s presence in the mapping community, it's no surprise that he w
 
 ### cygnus - STRIKER+
 
-Play through [this soon-to-be-ranked map](https://osu.ppy.sh/beatmapsets/1966073) with an 8-star top difficulty and guest difficulties by the no-caps-crew: [rrtyui](https://osu.ppy.sh/users/352328), [mithew](https://osu.ppy.sh/users/2571893), [semaphore](https://osu.ppy.sh/users/6313643), and [fanzhen0019](https://osu.ppy.sh/users/418699)!
+Play through [this soon-to-be-Ranked map](https://osu.ppy.sh/beatmapsets/1966073) with an 8-star top difficulty and guest difficulties by the *no caps crew*: [rrtyui](https://osu.ppy.sh/users/352328), [mithew](https://osu.ppy.sh/users/2571893), [semaphore](https://osu.ppy.sh/users/6313643), and [fanzhen0019](https://osu.ppy.sh/users/418699)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Evolution%20of%20War%2Fcygnus%20-%20STRIKER%2B.mp3">
@@ -48,7 +48,7 @@ Experience [this newly ranked map](https://osu.ppy.sh/beatmapsets/1947301) hoste
 
 ### cygnus - Parasitic Cell Type D
 
-Or try out some low BPM streams on [this map](https://osu.ppy.sh/beatmapsets/1968108) hosted by [stacker](https://osu.ppy.sh/users/7279141)!
+Or try out some low-BPM streams on [this map](https://osu.ppy.sh/beatmapsets/1968108) hosted by [stacker](https://osu.ppy.sh/users/7279141)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Parasitic%20Cell%20Type%20D.mp3">
@@ -56,7 +56,7 @@ Or try out some low BPM streams on [this map](https://osu.ppy.sh/beatmapsets/196
 
 ### cygnus - Psycho Gene
 
-Try [the first ranked **cygnus** map](https://osu.ppy.sh/beatmapsets/1884657) hosted by [Matrix](https://osu.ppy.sh/users/5052899) (a.k.a. **cygnus**!)
+Try [the first Ranked **cygnus** map](https://osu.ppy.sh/beatmapsets/1884657) hosted by [Matrix](https://osu.ppy.sh/users/5052899) (a.k.a. **cygnus**!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Psycho%20Gene.mp3">
