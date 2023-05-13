@@ -27,7 +27,7 @@ Given **cygnus**'s presence in the mapping community, it's no surprise that he w
 Play through [this soon-to-be-Ranked map](https://osu.ppy.sh/beatmapsets/1966073) with an 8-star top difficulty and guest difficulties by the *no caps crew*: [rrtyui](https://osu.ppy.sh/users/352328), [mithew](https://osu.ppy.sh/users/2571893), [semaphore](https://osu.ppy.sh/users/6313643), and [fanzhen0019](https://osu.ppy.sh/users/418699)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Evolution%20of%20War%2Fcygnus%20-%20STRIKER%2B.mp3">
+    <source src="https://assets.ppy.sh/artists/359/The%20Evolution%20of%20War/cygnus%20-%20STRIKER%2B.mp3">
 </audio>
 
 ### cygnus - The Evolution of War
@@ -35,7 +35,7 @@ Play through [this soon-to-be-Ranked map](https://osu.ppy.sh/beatmapsets/1966073
 Resident 4K Featured Artist mapper [FAMoss](https://osu.ppy.sh/users/7707789) is here to deliver [this map](https://osu.ppy.sh/beatmapsets/1987180) to all of osu!'s piano smashers.
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Evolution%20of%20War%2Fcygnus%20-%20The%20Evolution%20of%20War.mp3">
+    <source src="https://assets.ppy.sh/artists/359/The%20Evolution%20of%20War/cygnus%20-%20The%20Evolution%20of%20War.mp3">
 </audio>
 
 ### cygnus - Shinseki Yomotsu Hirasaka Ifuyasaka Densetsu
@@ -43,7 +43,7 @@ Resident 4K Featured Artist mapper [FAMoss](https://osu.ppy.sh/users/7707789) is
 Experience [this newly ranked map](https://osu.ppy.sh/beatmapsets/1947301) hosted by [Mirash](https://osu.ppy.sh/users/2841009)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Shinseki%20Yomotsu%20Hirasaka%20Ifuyasaka%20Densetsu.mp3">
+    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity/cygnus%20-%20Shinseki%20Yomotsu%20Hirasaka%20Ifuyasaka%20Densetsu.mp3">
 </audio>
 
 ### cygnus - Parasitic Cell Type D
@@ -51,7 +51,7 @@ Experience [this newly ranked map](https://osu.ppy.sh/beatmapsets/1947301) hoste
 Or try out some low-BPM streams on [this map](https://osu.ppy.sh/beatmapsets/1968108) hosted by [stacker](https://osu.ppy.sh/users/7279141)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Parasitic%20Cell%20Type%20D.mp3">
+    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity/cygnus%20-%20Parasitic%20Cell%20Type%20D.mp3">
 </audio>
 
 ### cygnus - Psycho Gene
@@ -59,7 +59,7 @@ Or try out some low-BPM streams on [this map](https://osu.ppy.sh/beatmapsets/196
 Try [the first Ranked **cygnus** map](https://osu.ppy.sh/beatmapsets/1884657) hosted by [Matrix](https://osu.ppy.sh/users/5052899) (a.k.a. **cygnus**!)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Psycho%20Gene.mp3">
+    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity/cygnus%20-%20Psycho%20Gene.mp3">
 </audio>
 
 ### cygnus - 2007clocktower
@@ -67,7 +67,7 @@ Try [the first Ranked **cygnus** map](https://osu.ppy.sh/beatmapsets/1884657) ho
 Try [the map from the liveplay video above](https://osu.ppy.sh/beatmapsets/1943426) hosted by [Matrix](https://osu.ppy.sh/users/5052899)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Evolution%20of%20War%2Fcygnus%20-%202007clocktower.mp3">
+    <source src="https://assets.ppy.sh/artists/359/The%20Evolution%20of%20War/cygnus%20-%202007clocktower.mp3">
 </audio>
 
 ### cygnus - Prophecy of the Black Sun
@@ -75,7 +75,7 @@ Try [the map from the liveplay video above](https://osu.ppy.sh/beatmapsets/19434
 Or explore [another self-made map](https://osu.ppy.sh/beatmapsets/1705290)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Prophecy%20of%20the%20Black%20Sun.mp3">
+    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity/cygnus%20-%20Prophecy%20of%20the%20Black%20Sun.mp3">
 </audio>
 
 ### cygnus - Rengoku Mania
@@ -83,7 +83,7 @@ Or explore [another self-made map](https://osu.ppy.sh/beatmapsets/1705290)!
 If you want *another* map, [Dada](https://osu.ppy.sh/users/9119507) created [this one](https://osu.ppy.sh/beatmapsets/1980586) just for you.
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Evolution%20of%20War%2Fcygnus%20-%20Rengoku%20Mania.mp3">
+    <source src="https://assets.ppy.sh/artists/359/The%20Evolution%20of%20War/cygnus%20-%20Rengoku%20Mania.mp3">
 </audio>
 
 ### cygnus - Dream Emulation
@@ -91,7 +91,7 @@ If you want *another* map, [Dada](https://osu.ppy.sh/users/9119507) created [thi
 To round things out, try playing [the literal matrix](https://osu.ppy.sh/beatmapsets/1984505) hosted by [allein](https://osu.ppy.sh/users/6221637)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity%2Fcygnus%20-%20Dream%20Emulation.mp3">
+    <source src="https://assets.ppy.sh/artists/359/Cry%20for%20the%20Infinity/cygnus%20-%20Dream%20Emulation.mp3">
 </audio>
 
 ---
