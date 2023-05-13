@@ -1,7 +1,7 @@
 ---
 tags: 
-- bubble pop 
-- full bubble 
+ - bubble pop 
+ - full bubble 
 --- 
 
 # Bubble
