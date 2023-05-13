@@ -33,4 +33,19 @@ Sau [hệ thống thảo luận beatmap](/wiki/beatmap_discussion) đã được
 
 Thread của những beatmap được bubble đã được liệt kê trên những trang đaauf tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/star_piority) của chúng và được hiệu lực theo vai những chuỗi forum.
 
-### 
+### Yêu cầu:
+- Để được bubble, [sự ưu tiên sao](/wiki/modding/star-piority) của một beatmap phải có ít nhất là 8.
+- Yêu cầu cho một beatmap để được xem xét cho loại [xếp hạng](/wiki/beatmap/category#ranked) là có một bubble.
+- Những beatmap đi đến thể loại [Đã được chấp nhận](/wiki/Beatmap/Category#approved) phải có hai bubble liên tiếp được đặt bởi những thành viên BAT. Vào ngày 2 tháng 6 năm 2017, yêu cầu này đã được thay đổi thành một bubble.
+
+### Nổ bubble
+
+Một bubble có sẵn có thể được **nổ**:
+
+- Tự động, bởi chính người tạo map, nếu họ đã cập nhật map hay một số tệp của nó.
+- Tự làm, bởi một trong những thành viên của BAT, nếu beatmap đó bắt buộc phải có thêm sự sửa đổi và không thể được xếp hạng trong tình trạng của nó.
+
+Trong cả hai trường hợp, biểu tượng thread của beatmap sẽ được đặt thành một cái bubble đã bị nổ (![Popped bubble icon](/wiki/shared/icon/bubble-pop.gif)) Nếu một bubble được cho nổ bằng cách tự làm, nó đã được giả định rằng một thành viên của BAT hay MAT sẽ chắc chắn rằng những thay đổi cần thiết đã được thực hiện trước khi nó tiếp tục trong tiến trình xếp hạng.
+
+## Xem thêm
+- *[kết thúc của bubble](https://youtube.com/watch?v=9Za-1_hxkxE)*, một tập của [osu!mapping](/wiki/Community/Video_series/osu!mapping) Series trên Youtube
