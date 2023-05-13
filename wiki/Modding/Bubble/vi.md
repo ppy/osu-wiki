@@ -30,7 +30,7 @@ Sau [hệ thống thảo luận beatmap](/wiki/beatmap_discussion) đã được
 ## Cơ chế
 
 ::: Infobox
-![](img/list-of-bubbles.png "Danh sách những beatmap được bubble, cùng với những bubble được nổ và những map được đánh dấu sao"
+![](img/list-of-bubbles.png "Danh sách những beatmap được bubble, cùng với những bubble được nổ và những map được đánh dấu sao")
 :::
 
 Thread của những beatmap được bubble đã được liệt kê trên những trang đầu tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/star_piority) của chúng và được hiệu lực theo vai những chuỗi forum.
@@ -45,11 +45,11 @@ Thread của những beatmap được bubble đã được liệt kê trên nh�
 
 Một bubble có sẵn có thể được **nổ**:
 
--	Tự động, bởi chính người tạo map, nếu họ đã cập nhật map hay một số tệp của nó.
+- Tự động, bởi chính người tạo map, nếu họ đã cập nhật map hay một số tệp của nó.
 - Tự làm, bởi một trong những thành viên của BAT, nếu beatmap đó bắt buộc phải có thêm sự sửa đổi và không thể được xếp hạng trong tình trạng của nó.
 
 Trong cả hai trường hợp, biểu tượng thread của beatmap sẽ được đặt thành một cái bubble đã bị nổ (![Popped bubble icon](/wiki/shared/icon/bubble-pop.gif)) Nếu một bubble được cho nổ bằng cách tự làm, nó đã được giả định rằng một thành viên của BAT hay MAT sẽ chắc chắn rằng những thay đổi cần thiết đã được thực hiện trước khi nó tiếp tục trong tiến trình xếp hạng.
 
 ## Xem thêm
 
--	*[kết thúc của bubble](https://youtube.com/watch?v=9Za-1_hxkxE)*, một tập của [osu!mapping](/wiki/Community/Video_series/osu!mapping) Series trên Youtube
+- *[kết thúc của bubble](https://youtube.com/watch?v=9Za-1_hxkxE)*, một tập của [osu!mapping](/wiki/Community/Video_series/osu!mapping) Series trên Youtube
