@@ -25,7 +25,7 @@ Bubble được giới thiệu bởi ::{ flag=AU }:: [peppy](/wiki/People/peppy)
 
 Vào ngày 3 tháng 10 năm 2010, Nhóm MAT đã nhận được quyền để sử dụng biểu tượng bubble, cùng với BAT!
 
-Sau [hệ thống thảo luận beatmap](/wiki/beatmap_discussion) đã được hoàn toàn thêm vào và đã hóa thành giao diện chính cho việc modding vào tháng 11 năm 2017, quản lý beatmap dựa trên diễn đàn đã bị loại bỏ dần, với bubble được thay bằng đề cử.
+Sau [hệ thống thảo luận beatmap](/wiki/Beatmap_discussion) đã được hoàn toàn thêm vào và đã hóa thành giao diện chính cho việc modding vào tháng 11 năm 2017, quản lý beatmap dựa trên diễn đàn đã bị loại bỏ dần, với bubble được thay bằng đề cử.
 
 ## Cơ chế
 
