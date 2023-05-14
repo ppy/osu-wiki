@@ -632,7 +632,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Clemaister - Getting up](https://soundcloud.com/clemaister/getting-up) | [#1](https://osu.ppy.sh/beatmapsets/20130) |
 | Clemaister - New Story | [#1](https://osu.ppy.sh/beatmapsets/19902) |
 | [Clemaister (ft. Kamoflage) - Rewind](https://soundcloud.com/clemaister/rewind) | [#1](https://osu.ppy.sh/beatmapsets/18920) |
-| [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene) | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
+| [cygnus - 2007clocktower](https://cygnus7.bandcamp.com/track/2007clocktower)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1943426) |
+| [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
+| [cygnus - STRIKER+](https://cygnus7.bandcamp.com/track/striker)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1966073) |
 | Danzai - Error 001 | [#1](https://osu.ppy.sh/beatmapsets/20359) |
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |
