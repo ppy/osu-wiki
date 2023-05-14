@@ -331,6 +331,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Desempate de dieciseisavos de final |
 | [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850922) | Gran final NM6 |
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Gran final HD3 |
+| [VINXIS - Awaken](https://soundcloud.com/vinxis/awaken)[^fa] |  | Música de fondo de la transmisión en vivo |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
@@ -460,6 +461,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [takehirotei - Alterism](https://soundcloud.com/takehirotei/alterism-full-version) | [#1](https://osu.ppy.sh/beatmapsets/1819534) | Gran final NM5 |
 | [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-fullest-adventure-from-the-abyss-to-divine-omt-2022-gf-tb) | [#1](https://osu.ppy.sh/beatmapsets/1819550) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Música del trailer |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 

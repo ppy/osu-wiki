@@ -331,6 +331,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Round of 32 tiebreaker |
 | [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850922) | Grand Finals NM6 |
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Grand Finals HD3 |
+| [VINXIS - Awaken](https://soundcloud.com/vinxis/awaken)[^fa] |  | Livestream BGM |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
@@ -508,6 +509,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Tartarate vs. cexiria - Pink Aquarium](https://soundcloud.com/tartrate/pink-aquarium) | [#1](https://osu.ppy.sh/beatmapsets/1862333) | Qualifiers NM1 |
 | [takehirotei as "Infinite Limit" - I.R.I.S](https://www.youtube.com/watch?v=Xata6N3LAyU) | [#1](https://osu.ppy.sh/beatmapsets/1889529) | Grand Finals tiebreaker |
 | [xavy - ko](https://soundcloud.com/xavylo/nukonaritai) | [#1](https://osu.ppy.sh/beatmapsets/1889530) | Grand Finals NM3 |
+
+#### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Trailer music |
 
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
