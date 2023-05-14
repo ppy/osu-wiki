@@ -111,7 +111,7 @@ text
 
 The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the contents inside will be revealed in a similar fashion to a dropdown menu.
 
-The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks (`"`), and will render whitespace.
+The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If `NAME` is left unspecified, the `[box]` tag will create a box with no heading text inside. The argument does not use quotations marks (`"`), and will render whitespace.
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 

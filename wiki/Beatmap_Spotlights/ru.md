@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: b106a25301b2f5ba259ce6232afb2f615f64fe72
 tags:
   - charts
   - Ranking Charts
@@ -18,7 +16,7 @@ tags:
 
 **Beatmap Spotlights** (*Spotlights*, жарг. *спотлайт*, в прошлом — ранкинг-чарты) — проект, участники которого регулярно выпускают подборки интересных или значимых [карт](/wiki/Beatmap), выделяющихся своим содержанием или оформлением. После выхода очередной подборки открывается [сезонная лига](#сезоны), где игроки могут соревноваться за право получения [значков для профиля](#призы).
 
-Текущий сезон — зима 2023.
+Текущий сезон — весна 2023.
 
 На странице группы [кураторов Beatmap Spotlight](https://osu.ppy.sh/groups/48) приведён полный список её участников. Чтобы узнать об их обязанностях, см. [соответствующую статью](/wiki/People/Beatmap_Spotlight_Curators).
 
@@ -71,14 +69,14 @@ tags:
 
 | Значок | Категория | Положение участников |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Топ 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | Diamond | Топ 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Размер категории Rhythm Incarnate высчитывается вручную в зависимости от общего числа участников и их распределения по остальным категориям. В большинстве случаев он варьируется от 2 до 50 человек.
 

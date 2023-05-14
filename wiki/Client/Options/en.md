@@ -119,6 +119,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | `Resolution` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | Dropdown |  |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
 | `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | Checkbox | `Enabled` |
+| `Minimise on alt-tab during fullscreen` | Minimise the main window when pressing `Alt` + `Tab`. | Checkbox | `Enabled` |
 | `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 | `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 
@@ -175,7 +176,8 @@ This section is about settings that affect gameplay.
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `80%` |
-| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visible. | Checkbox | `Disabled` |
+| `Don't change dim level during breaks` | Disable brightening the dim level during breaks. | Checkbox | `Disabled` |
+| `Show leaderboard during gameplay` | Show leaderboard on the left side during gameplay, both in solo and multi mode. | Checkbox | `Enabled` |
 | `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
 | `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
 | `Score meter size` | Configure size of score meter. | Slider | `1x` |
@@ -347,7 +349,7 @@ This section is about chat, spectators, multi, and osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
 | `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | Checkbox | `Enabled` |
-| `Show a notification pop-up when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
+| `Show a notification popup when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
 | `Show chat message notifications` | Display a notification, when new chat messages arrive. | Checkbox | `Enabled` |
 | `Play a sound when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a sound will play. | Checkbox | `Enabled` |
 | `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
@@ -389,7 +391,7 @@ This section is about beatmaps and updates.
 | Name | Description | Type |
 | :-- | :-- | :-- |
 | `Delete all unranked maps` | Delete all unranked maps in your songs folder. | Button |
-| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This will require the administrator password to complete.) | Button |
+| `Repair folder permissions` | Give read/write permission to the game client for access to its folders. (This requires administrator privileges to complete.) | Button |
 | `Mark all maps as played` | Mark all maps as "played". | Button |
 | `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | Button |
 
