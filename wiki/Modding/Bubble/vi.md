@@ -15,7 +15,7 @@ Cái **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) là một biểu 
 
 Là một bước tiếp theo của [Hệ thống ranking cũ](/wiki/Modding/Forum_modding) sau [Proto-bubble](/wiki/Modding/Proto-bubble), một bubble bình thường có nghĩa là một [beatmap](/wiki/Beatmap) đã chuẩn bị được xếp hạng từ ý kiến của modder. Những beatmap được bubble sẽ được kiểm tra bởi một thành viên khác của BAT hoạc BN và được [xếp hạng](/wiki/Beatmap/Category#ranked) hay [chấp nhận](/wiki/Beatmap/Category#approved) miễn là chỉ có những thay đổi nhỏ cho beatmap là bắt buộc.
  
-Trong [quy trình xếp hạng beatmap](wiki/Beatmap_ranking_procedure) hiện , cái tương đương với bubble là [đề cử](/wiki/Beatmap_ranking_procedure#nominations) được cho bởi một [người đề cử beatmap](/wiki/people/Beatmap_Nominators).
+Trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure) hiện đại, cái tương đương với bubble là [đề cử](/wiki/Beatmap_ranking_procedure#nominations) được cho bởi một [người đề cử beatmap](/wiki/people/Beatmap_Nominators).
  
 ## Lịch sử
  
@@ -33,11 +33,11 @@ Sau [hệ thống thảo luận beatmap](/wiki/Beatmap_discussion) đã được
 ![](img/list-of-bubbles.png "Danh sách những beatmap được bubble, cùng với những bubble được nổ và những map được đánh dấu sao")
 :::
 
-Thread của những beatmap được bubble đã được liệt kê trên những trang đầu tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/Star_priority) của chúng và được hiệu lực theo vai những chuỗi forum.
+Thread của những beatmap được bubble đã được liệt kê trên những trang đầu tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/Modding/Star_priority) của chúng và được hiệu lực theo vai những chuỗi forum.
 
 ### Yêu cầu
 
-- Để được bubble, [sự ưu tiên sao](/wiki/modding/Star_priority) của một beatmap phải có ít nhất là 8.
+- Để được bubble, [sự ưu tiên sao](/wiki/Modding/Star_priority) của một beatmap phải có ít nhất là 8.
 - Yêu cầu cho một beatmap để được xem xét cho loại [xếp hạng](/wiki/Beatmap/Category#ranked) là có một bubble.
 - Những beatmap đi đến thể loại [Đã được chấp nhận](/wiki/Beatmap/Category#approved) phải có hai bubble liên tiếp được đặt bởi những thành viên BAT. Vào ngày 2 tháng 6 năm 2017, yêu cầu này đã được thay đổi thành một bubble.
 
