@@ -462,6 +462,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [takehirotei - Alterism](https://soundcloud.com/takehirotei/alterism-full-version) | [#1](https://osu.ppy.sh/beatmapsets/1819534) | Grand Finals NM5 |
 | [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-fullest-adventure-from-the-abyss-to-divine-omt-2022-gf-tb) | [#1](https://osu.ppy.sh/beatmapsets/1819550) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Trailer music |
+
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
 | Song | Beatmap | Notes |
@@ -509,12 +515,6 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Tartarate vs. cexiria - Pink Aquarium](https://soundcloud.com/tartrate/pink-aquarium) | [#1](https://osu.ppy.sh/beatmapsets/1862333) | Qualifiers NM1 |
 | [takehirotei as "Infinite Limit" - I.R.I.S](https://www.youtube.com/watch?v=Xata6N3LAyU) | [#1](https://osu.ppy.sh/beatmapsets/1889529) | Grand Finals tiebreaker |
 | [xavy - ko](https://soundcloud.com/xavylo/nukonaritai) | [#1](https://osu.ppy.sh/beatmapsets/1889530) | Grand Finals NM3 |
-
-#### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2023
-
-| Song | Beatmap | Notes |
-| :-: | :-: | :-- |
-| [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Trailer music |
 
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
