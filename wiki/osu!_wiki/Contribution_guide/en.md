@@ -4,7 +4,7 @@ Thanks for your interest in making the osu! wiki better! This article covers the
 
 New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time — a [wiki maintainer](/wiki/People/osu!_wiki_maintainers) will either point you in the right direction or fix it for you.
 
-In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/osu!_Discord_server).
 
 ## Areas of interest
 
@@ -53,7 +53,7 @@ All changes to the osu! wiki are moderated. During that stage, other collaborato
 If no one has checked in after a couple of days, try the following:
 
 - Make sure you have resolved all suggestions — people may be waiting on your responses.
-- Ask other osu! wiki editors in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
+- Ask other osu! wiki editors in the [osu! Discord server](/wiki/Community/osu!_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
 - To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Ask your friends for a quick look!
 
@@ -61,6 +61,6 @@ In addition to a manual review process, the osu! wiki repository has [a set of a
 
 ## Merge
 
-Your changes will eventually be checked by one of the [wiki maintainers](/wiki/People/osu!_wiki_maintainers), usually after reviews by other collaborators. If nothing happens after a reasonable amount of time, ask in the comments of the pull request, or in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). Your changes will appear on the osu! wiki shortly after the merge (in rare cases, this may take up to five hours).
+Your changes will eventually be checked by one of the [wiki maintainers](/wiki/People/osu!_wiki_maintainers), usually after reviews by other collaborators. If nothing happens after a reasonable amount of time, ask in the comments of the pull request, or in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/osu!_Discord_server). Your changes will appear on the osu! wiki shortly after the merge (in rare cases, this may take up to five hours).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

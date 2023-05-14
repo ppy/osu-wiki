@@ -1,3 +1,8 @@
+---
+outdated_since: de165988c30c2bf4fd5c7af714405fd38da1a370
+outdated_translation: true
+---
+
 # Критерии ранкинга osu!
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_Criteria).***
