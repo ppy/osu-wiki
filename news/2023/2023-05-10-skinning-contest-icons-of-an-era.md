@@ -16,7 +16,14 @@ We wanted this contest's theme to not only centre around some of those memories,
 
 The theme for this contest is **Icons of an Era**. We aim to spark the community's imagination by encouraging creators to make beautiful skins centred around various iconic osu! beatmaps that have risen to glory throughout osu!'s lifetime, as well as paying homage to the many official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
-Whether your entry is focused around pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891), a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 3000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
+Here are a couple of examples:
+
+- skin centred around a beatmap background
+- skin centred around a group of beatmap backgrounds
+- skin focused around a specific mascot or group of mascots
+- any combination of the above (e.g. pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891))
+
+Whatever you end up choosing, please make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
 
 Before you decide to take a journey through osu!'s history and come up with ideas, let's clear some ground rules, as well as the various schedules and prizes for the top entries!
 
@@ -24,7 +31,10 @@ Before you decide to take a journey through osu!'s history and come up with idea
 
 As is tradition by this point, all skins have to be created from scratch and be aligned with the rules listed below!
 
-Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1762287). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum.
+In order to submit your skin you must:
+
+- post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
+- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1762287) using the format listed in the post
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymised. In fact, we encourage you to show off your work as much as you want!
 
