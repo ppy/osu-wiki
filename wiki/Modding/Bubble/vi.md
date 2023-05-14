@@ -33,7 +33,7 @@ Sau [hệ thống thảo luận beatmap](/wiki/Beatmap_discussion) đã được
 ![](img/list-of-bubbles.png "Danh sách những beatmap được bubble, cùng với những bubble được nổ và những map được đánh dấu sao")
 :::
 
-Thread của những beatmap được bubble đã được liệt kê trên những trang đầu tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/star_piority) của chúng và được hiệu lực theo vai những chuỗi forum.
+Thread của những beatmap được bubble đã được liệt kê trên những trang đầu tiên của [Forum những beatmap đang chờ](https://osu.ppy.sh/community/forums/6), đã được sắp xếp bởi [sự ưu tiên sao](/wiki/modding/Star_priority) của chúng và được hiệu lực theo vai những chuỗi forum.
 
 ### Yêu cầu
 
