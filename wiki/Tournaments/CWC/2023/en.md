@@ -157,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   1. [Raimukun - Isysmonahy (osu! edit) (autofanboy) \[Rain\]](https://osu.ppy.sh/beatmapsets/1992679#fruits/4140589)
   2. [M2U - Quo Vadis (Yoshi\_green) \[Ad Lucem\]](https://osu.ppy.sh/beatmapsets/1992669#fruits/4140576)
 - Tiebreaker
-  1. **[BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou (F D Flourite) (F D Flourite) \[Collab Overdose\] *(temporary link)*](https://leoflt.com/s/XZRz)**
+  1. **[BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou (F D Flourite) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1992691#fruits/4140615)**
 
 ### Qualifiers
 
