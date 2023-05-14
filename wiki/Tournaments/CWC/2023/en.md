@@ -104,7 +104,60 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
+## Match schedule: Round of 32
+
+### Saturday, 20 May 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [May 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T090000&p1=1440&p2=235&p3=28) |
+| Australia ::{ flag=AU }:: | ::{ flag=SE }:: Sweden | [May 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T110000&p1=1440&p2=57&p3=239) |
+| Japan ::{ flag=JP }:: | ::{ flag=NO }:: Norway | [May 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T120000&p1=1440&p2=248&p3=187) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=GB }:: United Kingdom | [May 20 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T130000&p1=1440&p2=241&p3=136) |
+| Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [May 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T140000&p1=1440&p2=232&p3=33) |
+| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [May 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T150000&p1=1440&p2=101&p3=195) |
+| Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [May 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T160000&p1=1440&p2=262&p3=45) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CO }:: Colombia | [May 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T180000&p1=1440&p2=166&p3=41) |
+
+### Sunday, 21 May 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [May 21 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T020000&p1=1440&p2=263&p3=264) |
+| Mexico ::{ flag=MX }:: | ::{ flag=HK }:: Hong Kong | [May 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T030000&p1=1440&p2=155&p3=102) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=NL }:: Netherlands | [May 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T100000&p1=1440&p2=108&p3=16) |
+| Philippines ::{ flag=PH }:: | ::{ flag=DK }:: Denmark | [May 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T110000&p1=1440&p2=145&p3=69) |
+| Germany ::{ flag=DE }:: | ::{ flag=VN }:: Vietnam | [May 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T120000&p1=1440&p2=37&p3=95) |
+| Italy ::{ flag=IT }:: | ::{ flag=ES }:: Spain | [May 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T130000&p1=1440&p2=215&p3=141) |
+| Belgium ::{ flag=BE }:: | ::{ flag=AR }:: Argentina | [May 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T160000&p1=1440&p2=48&p3=51) |
+| Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [May 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T180000&p1=1440&p2=188&p3=131) |
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here (94 MB)](https://drive.google.com/uc?id=10nkPTIHDEnaOv8bx8D5CbIJ_MHJ6h32J)**
+
+- No Mod
+  1. [nakotanmaru & PIKASONIC - Undersea Train (Sololiquy) \[Sink\]](https://osu.ppy.sh/beatmapsets/1992656#fruits/4140556)
+  2. [MYTHOLOGIA by MLREC. - Ymir (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1992652#fruits/4140549)
+  3. [ACE+ - You Will Know Our Names (JierYagtama) (JierYagtama) \[Xenocatch Chronicles\] *(temporary link)*](https://leoflt.com/s/pUea)
+  4. [kessoku band - Seishun Complex (\_kotachi\_) \[otudou's Extra\]](https://osu.ppy.sh/beatmapsets/1863866#osu/3864073)
+- Hidden
+  1. [MYUKKE. - OTTAMA GAZER (ZiRoX) \[Otter Looking For The Stars\]](https://osu.ppy.sh/beatmapsets/1992657#fruits/4140557)
+  2. [my sound life - 02:15 (M0RU) \[rain (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1992673#fruits/4140582)
+- Hard Rock
+  1. [WOLFE - Through With You (wwwww) \[Permaban\]](https://osu.ppy.sh/beatmapsets/1992661#fruits/4140566)
+  2. [Mili - Rubber Human (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1992659#fruits/4140563)
+- Double Time
+  1. [Yellow Zebra - Melody! (Verti) \[real zebras aint yellow its just a skin from battlepass\]](https://osu.ppy.sh/beatmapsets/1992653#fruits/4140551)
+  2. [Vospi - Reverence (Ascendance) \[Insane\]](https://osu.ppy.sh/beatmapsets/1992664#fruits/4140569)
+  3. [Noisestorm - Barracuda (Mniam) \[Sphyraena\]](https://osu.ppy.sh/beatmapsets/1992666#fruits/4140571)
+- Mixed Mod
+  1. [Raimukun - Isysmonahy (osu! edit) (autofanboy) \[Rain\]](https://osu.ppy.sh/beatmapsets/1992679#fruits/4140589)
+  2. [M2U - Quo Vadis (Yoshi\_green) \[Ad Lucem\]](https://osu.ppy.sh/beatmapsets/1992669#fruits/4140576)
+- Tiebreaker
+  1. **[BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou (F D Flourite) (F D Flourite) \[Collab Overdose\] *(temporary link)*](https://leoflt.com/s/XZRz)**
 
 ### Qualifiers
 
@@ -123,6 +176,54 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 - Double Time
   1. [Feint - Laurence (Kimitakari) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1988617#fruits/4131124)
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1tS1PXP8o5BjPif_rcLcKBgos3QElvClEK3Z9_oBFoV0/edit?rm=minimal).
+
+| Seed | Country | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | :-- | :-- |
+| #1 | ::{ flag=US }:: United States | 8.9341 | 2,939,318 |
+| #2 | ::{ flag=KR }:: South Korea | 8.8544 | 2,913,168 |
+| #3 | ::{ flag=CA }:: Canada | 8.8177 | 2,900,658 |
+| #4 | ::{ flag=CL }:: Chile | 8.6883 | 2,858,252 |
+| #5 | ::{ flag=PH }:: Philippines | 8.6645 | 2,850,017 |
+| #6 | ::{ flag=IT }:: Italy | 8.6621 | 2,850,434 |
+| #7 | ::{ flag=PL }:: Poland | 8.612 | 2,833,099 |
+| #8 | ::{ flag=MX }:: Mexico | 8.4804 | 2,790,362 |
+| #9 | ::{ flag=ID }:: Indonesia | 8.4704 | 2,786,752 |
+| #10 | ::{ flag=TW }:: Taiwan | 8.4698 | 2,786,848 |
+| #11 | ::{ flag=DE }:: Germany | 8.4592 | 2,784,271 |
+| #12 | ::{ flag=RU }:: Russian Federation | 8.4491 | 2,779,605 |
+| #13 | ::{ flag=AU }:: Australia | 8.3486 | 2,747,262 |
+| #14 | ::{ flag=BE }:: Belgium | 8.1445 | 2,680,713 |
+| #15 | ::{ flag=JP }:: Japan | 8.1301 | 2,675,826 |
+| #16 | ::{ flag=FI }:: Finland | 8.0469 | 2,647,460 |
+| #17 | ::{ flag=FR }:: France | 8.0407 | 2,646,263 |
+| #18 | ::{ flag=NO }:: Norway | 8.0057 | 2,634,597 |
+| #19 | ::{ flag=AR }:: Argentina | 7.6791 | 2,527,091 |
+| #20 | ::{ flag=SE }:: Sweden | 7.6159 | 2,506,407 |
+| #21 | ::{ flag=CO }:: Colombia | 7.6131 | 2,507,986 |
+| #22 | ::{ flag=VN }:: Vietnam | 7.5498 | 2,486,495 |
+| #23 | ::{ flag=GB }:: United Kingdom | 7.484 | 2,462,681 |
+| #24 | ::{ flag=NL }:: Netherlands | 7.4704 | 2,459,272 |
+| #25 | ::{ flag=HK }:: Hong Kong | 7.4563 | 2,454,403 |
+| #26 | ::{ flag=BR }:: Brazil | 7.4347 | 2,447,229 |
+| #27 | ::{ flag=ES }:: Spain | 7.177 | 2,362,428 |
+| #28 | ::{ flag=DK }:: Denmark | 7.1731 | 2,362,231 |
+| #29 | ::{ flag=CN }:: China | 7.1514 | 2,354,961 |
+| #30 | ::{ flag=PE }:: Peru | 7.1114 | 2,340,726 |
+| #31 | ::{ flag=TH }:: Thailand | 6.9226 | 2,277,755 |
+| #32 | ::{ flag=NZ }:: New Zealand | 6.4413 | 2,119,004 |
+| #33 | ::{ flag=MY }:: Malaysia | 6.4065 | 2,105,677 |
+| #34 | ::{ flag=TR }:: Turkey | 5.9936 | 1,974,571 |
+| #35 | ::{ flag=LV }:: Latvia | 5.9434 | 1,954,654 |
+| #36 | ::{ flag=SG }:: Singapore | 5.8238 | 1,917,287 |
+| #37 | ::{ flag=BG }:: Bulgaria | 4.6483 | 1,528,447 |
+| #38 | ::{ flag=CH }:: Switzerland | 4.2334 | 1,393,838 |
+| #39 | ::{ flag=VE }:: Venezuela | *DNP* | *DNP* |
 
 ## Ruleset
 
@@ -269,3 +370,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
+
