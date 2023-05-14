@@ -1,3 +1,8 @@
+---
+outdated_since: 6993613dd77c7c6fb7eeacb7888ca81a4b47dd54
+outdated_translation: true
+---
+
 # osu!taiko ranking criteria
 
 ***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
