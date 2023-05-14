@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: e542028d7b6fa31e3eeaec706d309d328aa1ca8f
+outdated_since: 6993613dd77c7c6fb7eeacb7888ca81a4b47dd54
 ---
 
 # 谱面上架标准 (RC)
