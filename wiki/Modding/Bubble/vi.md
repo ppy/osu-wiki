@@ -37,7 +37,7 @@ Thread của những beatmap được bubble đã được liệt kê trên nh�
 
 ### Yêu cầu
 
-- Để được bubble, [sự ưu tiên sao](/wiki/modding/star-piority) của một beatmap phải có ít nhất là 8.
+- Để được bubble, [sự ưu tiên sao](/wiki/modding/Star_priority) của một beatmap phải có ít nhất là 8.
 - Yêu cầu cho một beatmap để được xem xét cho loại [xếp hạng](/wiki/beatmap/category#ranked) là có một bubble.
 - Những beatmap đi đến thể loại [Đã được chấp nhận](/wiki/Beatmap/Category#approved) phải có hai bubble liên tiếp được đặt bởi những thành viên BAT. Vào ngày 2 tháng 6 năm 2017, yêu cầu này đã được thay đổi thành một bubble.
 
