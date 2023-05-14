@@ -22,8 +22,10 @@ tags:
 | 常规赛第三轮 | 2023-04-22/2023-04-30 |
 | 常规赛第四轮 | 2023-05-06/2023-05-14 |
 | 常规赛结果展示 | 2023-05-15 (20:00 UTC+08) |
-| 季后赛第一周 | 2023-05-20/2023-05-21 |
-| 季后赛第二周 | 2023-05-27/2023-05-28 |
+| 季后赛8强赛 | 2023-05-20/2023-05-21 |
+| 季后赛半决赛 | 2023-05-27/2023-05-28 |
+| 季后赛决赛 | 2023-06-03/2023-06-04 |
+| 季后赛总决赛 | 2023-06-10/2023-06-11 |
 
 ## 奖励
 
@@ -46,12 +48,13 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | 职位 | 成员 |
 | :-- | :-- |
 | 主办方 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 工作人员 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
-| 图池管理 | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
-| 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 工作人员 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
+| 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
 | 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
-| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
+| 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 设计 | ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
 
 ## 链接
 
@@ -67,14 +70,14 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 
 | 组别 | 选手 |
 | :-: | :-- |
-| EX 组 | Pending |
-| S 组 | Pending |
-| A 组 | Pending |
-| B 组 | Pending |
+| EX | ::{ flag=CN }:: [[Crz]Nickname](https://osu.ppy.sh/users/10817494), ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [[Crz]Caicium](https://osu.ppy.sh/users/10702235), ::{ flag=CN }:: [[GB]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [[Paw]Just_MLN](https://osu.ppy.sh/users/8837858), ::{ flag=CN }:: [[Crz]Xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [[Crz]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075), ::{ flag=JP }:: [\_kokodayo](https://osu.ppy.sh/users/16585041), ::{ flag=CN }:: [[GB]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=CN }:: [[GB]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=SG }:: [oyama mahiro](https://osu.ppy.sh/users/21207265), ::{ flag=CN }:: [[GB]Burger King](https://osu.ppy.sh/users/9841162), ::{ flag=CN }:: [Hx032](https://osu.ppy.sh/users/11603156), ::{ flag=CN }:: [[GB]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [[GB]Frozen moon](https://osu.ppy.sh/users/8999766), ::{ flag=CN }:: [[GB]Takeru](https://osu.ppy.sh/users/15188014) ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=GB }:: [asukai-](https://osu.ppy.sh/users/15465935), ::{ flag=CN }:: [miserable neet](https://osu.ppy.sh/users/12430477), ::{ flag=CN }:: [Para39](https://osu.ppy.sh/users/22352560), ::{ flag=FR }:: [Babibelbleu](https://osu.ppy.sh/users/16892459), ::{ flag=CN }:: [[GB]ParasolTree](https://osu.ppy.sh/users/27552902), ::{ flag=CN }:: [hanSPlayer](https://osu.ppy.sh/users/15924859), ::{ flag=SG }:: [riunosk](https://osu.ppy.sh/users/5594381), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=CN }:: [[GB]N1QKA](https://osu.ppy.sh/users/8379080), ::{ flag=CN }:: [CygnusOz](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [[ Classic ]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [- Requeim -](https://osu.ppy.sh/users/24972681), ::{ flag=IE }:: [iParacosm](https://osu.ppy.sh/users/19466314), ::{ flag=CN }:: [[GB]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [BetoRtalluUU](https://osu.ppy.sh/users/16445730), ::{ flag=CN }:: [Mizum](https://osu.ppy.sh/users/21568700), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/13484261), ::{ flag=CN }:: [\_Raindrop](https://osu.ppy.sh/users/18242164), ::{ flag=CN }:: [Carrot shreds](https://osu.ppy.sh/users/20789670), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [HTorch](https://osu.ppy.sh/users/11037546), ::{ flag=CN }:: [1145810](https://osu.ppy.sh/users/24449770), ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209) |
+| S | ::{ flag=CN }:: [Na2He](https://osu.ppy.sh/users/20298842), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=CN }:: [Tempest_WH](https://osu.ppy.sh/users/16039216), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [Muze_0407](https://osu.ppy.sh/users/16551233), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=CN }:: [Mitto](https://osu.ppy.sh/users/9602755), ::{ flag=CN }:: [ME1KO N3KO](https://osu.ppy.sh/users/17572282), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [J8xy](https://osu.ppy.sh/users/29732348), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [Takoke](https://osu.ppy.sh/users/11628037), ::{ flag=GB }:: [[LS]Joshstar](https://osu.ppy.sh/users/19896981), ::{ flag=CN }:: [Kilawhale](https://osu.ppy.sh/users/7638459), ::{ flag=CN }:: [DeatL_](https://osu.ppy.sh/users/15183087), ::{ flag=CN }:: [unputdownable](https://osu.ppy.sh/users/16208649), ::{ flag=US }:: [dlenmonhate](https://osu.ppy.sh/users/25401490), ::{ flag=CN }:: [JJFLy](https://osu.ppy.sh/users/7580514), ::{ flag=CN }:: [Emeralwind](https://osu.ppy.sh/users/11725045), ::{ flag=CN }:: [[GB]Azukisan](https://osu.ppy.sh/users/5378805), ::{ flag=CN }:: [shade0214](https://osu.ppy.sh/users/14665128), ::{ flag=CN }:: [Aevli26](https://osu.ppy.sh/users/25520572), ::{ flag=CN }:: [SuoMeng](https://osu.ppy.sh/users/15617388), ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [[GB]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [[GB]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [CNTY](https://osu.ppy.sh/users/17074155), ::{ flag=CN }:: [xiaosi2333](https://osu.ppy.sh/users/20812983), ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586), ::{ flag=CN }:: [[GB]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [-Law-](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [[GB]Qindeng](https://osu.ppy.sh/users/29478727), ::{ flag=CN }:: [Ymir131](https://osu.ppy.sh/users/15119479), ::{ flag=CN }:: [[GB]namelest](https://osu.ppy.sh/users/17812436), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=CN }:: [Tkazer](https://osu.ppy.sh/users/16812337), ::{ flag=CN }:: [Yozomi](https://osu.ppy.sh/users/11144284), ::{ flag=CN }:: [c6H8o6_](https://osu.ppy.sh/users/20984576), ::{ flag=CN }:: [PORTTAYER](https://osu.ppy.sh/users/8790200), ::{ flag=CN }:: [Quadine](https://osu.ppy.sh/users/19123924), ::{ flag=CN }:: [[GB]Kosmos](https://osu.ppy.sh/users/9048067), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [Dx-sfg](https://osu.ppy.sh/users/15008945), ::{ flag=CN }:: [Gregcraft](https://osu.ppy.sh/users/18809246), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925), ::{ flag=CN }:: [[GB]nnk](https://osu.ppy.sh/users/22412151), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104), ::{ flag=CN }:: [[GB] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [sun xiao chuan](https://osu.ppy.sh/users/20382915), ::{ flag=CN }:: [zhangjunyan](https://osu.ppy.sh/users/12729608), ::{ flag=CN }:: [[GB]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [[GB]RebirthZZZ](https://osu.ppy.sh/users/24732212), ::{ flag=HK }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [[GB][Crz]75jun](https://osu.ppy.sh/users/4301792), ::{ flag=CN }:: [Hirasawa Yu0](https://osu.ppy.sh/users/16438489), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717), ::{ flag=CN }:: [JeAnine9ann](https://osu.ppy.sh/users/8754241), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [majesticlegend](https://osu.ppy.sh/users/10219308), ::{ flag=TW }:: [Axium0w0](https://osu.ppy.sh/users/16125443), ::{ flag=CA }:: [Tsumikiyuzu](https://osu.ppy.sh/users/15288539), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=SG }:: [kyokonv2](https://osu.ppy.sh/users/30497427), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369), ::{ flag=HK }:: [sarc6o9](https://osu.ppy.sh/users/23135250) |
+| A | ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073), ::{ flag=CN }:: [zhanqiu](https://osu.ppy.sh/users/28521544), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292), ::{ flag=CN }:: [caster1](https://osu.ppy.sh/users/10647542), ::{ flag=CN }:: [[GB]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [Pointless-21](https://osu.ppy.sh/users/15967851), ::{ flag=CN }:: [[GB]smhei](https://osu.ppy.sh/users/20888121), ::{ flag=CN }:: [[GB]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [[GB]Cricute](https://osu.ppy.sh/users/26031439), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [[GB]KosJust1ce](https://osu.ppy.sh/users/31549837), ::{ flag=CN }:: [SwallowablX](https://osu.ppy.sh/users/22212757), ::{ flag=CN }:: [[GB]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [jxy768](https://osu.ppy.sh/users/13133142), ::{ flag=CN }:: [Aeracy](https://osu.ppy.sh/users/15351355), ::{ flag=CN }:: [PaperPlane](https://osu.ppy.sh/users/20763941), ::{ flag=CN }:: [ScientistYunru](https://osu.ppy.sh/users/24431602), ::{ flag=CN }:: [XS-xs](https://osu.ppy.sh/users/19235574), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [ATRI-BOT](https://osu.ppy.sh/users/24324036), ::{ flag=CN }:: [osuOsoiOto](https://osu.ppy.sh/users/16563449), ::{ flag=CN }:: [guangmiao](https://osu.ppy.sh/users/25591696), ::{ flag=CN }:: [Mon3tr_Hikari](https://osu.ppy.sh/users/16639726), ::{ flag=CN }:: [DannyXLee](https://osu.ppy.sh/users/13847712), ::{ flag=US }:: [diamoe](https://osu.ppy.sh/users/16539982), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510), ::{ flag=CN }:: [Chilliness_old](https://osu.ppy.sh/users/28596290), ::{ flag=CN }:: [pxz114](https://osu.ppy.sh/users/27540118), ::{ flag=CN }:: [Ty8669](https://osu.ppy.sh/users/12986326), ::{ flag=CN }:: [VoneRedC](https://osu.ppy.sh/users/27046926), ::{ flag=CN }:: [sackwoman](https://osu.ppy.sh/users/21573696), ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588), ::{ flag=CN }:: [xheijiang](https://osu.ppy.sh/users/16298333), ::{ flag=CN }:: [ayukaS](https://osu.ppy.sh/users/15837357), ::{ flag=CN }:: [PerrynX](https://osu.ppy.sh/users/8781173), ::{ flag=GB }:: [OsuWithLi](https://osu.ppy.sh/users/31424721), ::{ flag=CN }:: [Thornz](https://osu.ppy.sh/users/24858078), ::{ flag=CN }:: [fang666](https://osu.ppy.sh/users/28917056), ::{ flag=CN }:: [[GB] BUKE](https://osu.ppy.sh/users/25035445), ::{ flag=CN }:: [citric acid](https://osu.ppy.sh/users/17312522), ::{ flag=CN }:: [[GB]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [WhiteTenshi](https://osu.ppy.sh/users/14113088), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [IKUN456](https://osu.ppy.sh/users/31511575), ::{ flag=CN }:: [kuranado](https://osu.ppy.sh/users/26253810), ::{ flag=CN }:: [RealF233](https://osu.ppy.sh/users/10363216), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=CN }:: [Zetray](https://osu.ppy.sh/users/25076458), ::{ flag=CN }:: [WuYang-th](https://osu.ppy.sh/users/17379013), ::{ flag=CN }:: [Coevir](https://osu.ppy.sh/users/3171965), ::{ flag=CN }:: [TKYFree](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [herfilex](https://osu.ppy.sh/users/17468554), ::{ flag=CN }:: [fivlier](https://osu.ppy.sh/users/14926274), ::{ flag=CN }:: [ki2317](https://osu.ppy.sh/users/9300088), ::{ flag=CN }:: [suikatac](https://osu.ppy.sh/users/31017287), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [dandai](https://osu.ppy.sh/users/20156332), ::{ flag=CN }:: [shoucan91](https://osu.ppy.sh/users/9383908) |
+| B | ::{ flag=HK }:: [EinsumSK](https://osu.ppy.sh/users/19225053), ::{ flag=CN }:: [ffddase](https://osu.ppy.sh/users/19936490), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [Arodex](https://osu.ppy.sh/users/17743609), ::{ flag=CN }:: [DrHunter](https://osu.ppy.sh/users/19936405), ::{ flag=CN }:: [Fishball233](https://osu.ppy.sh/users/14976830), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [Amenatsu Sanke](https://osu.ppy.sh/users/21101369), ::{ flag=CN }:: [nianchen](https://osu.ppy.sh/users/27658766), ::{ flag=CN }:: [dazade8](https://osu.ppy.sh/users/12196941), ::{ flag=CN }:: [AcidSolution](https://osu.ppy.sh/users/14692538), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [mizuku39](https://osu.ppy.sh/users/28588980), ::{ flag=CN }:: [XFish777](https://osu.ppy.sh/users/12930822), ::{ flag=CN }:: [jhj0107](https://osu.ppy.sh/users/15748421), ::{ flag=CN }:: [kkry](https://osu.ppy.sh/users/15579806), ::{ flag=CN }:: [K01bit0](https://osu.ppy.sh/users/18278262), ::{ flag=CN }:: [oSthing](https://osu.ppy.sh/users/31165170), ::{ flag=SG }:: [Lixtar](https://osu.ppy.sh/users/28535529), ::{ flag=CN }:: [CsAu](https://osu.ppy.sh/users/25746851), ::{ flag=CN }:: [hou654](https://osu.ppy.sh/users/12784062), ::{ flag=CN }:: [Arc865](https://osu.ppy.sh/users/28753069), ::{ flag=CN }:: [pure liubai](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [[GB]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [Luster zj](https://osu.ppy.sh/users/13089750), ::{ flag=CN }:: [Ka_Min](https://osu.ppy.sh/users/16472698), ::{ flag=CN }:: [mloluyu](https://osu.ppy.sh/users/15579132), ::{ flag=HK }:: [Jerry7720](https://osu.ppy.sh/users/28408419), ::{ flag=CN }:: [Misure](https://osu.ppy.sh/users/1949710), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [cizhi](https://osu.ppy.sh/users/32885939), ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [WELUVMYUKA](https://osu.ppy.sh/users/29949157), ::{ flag=CN }:: [Quzy3315](https://osu.ppy.sh/users/28369502), ::{ flag=CN }:: [megumi-kato](https://osu.ppy.sh/users/27797163), ::{ flag=CN }:: [ssxm](https://osu.ppy.sh/users/30161438), ::{ flag=CN }:: [DreamSnow607](https://osu.ppy.sh/users/29437525), ::{ flag=CN }:: [Realice233](https://osu.ppy.sh/users/13838024), ::{ flag=CN }:: [leqingzou](https://osu.ppy.sh/users/28497351), ::{ flag=CN }:: [OVERDUSTFIVA](https://osu.ppy.sh/users/30786316), ::{ flag=CN }:: [Kylin](https://osu.ppy.sh/users/19577682), ::{ flag=CN }:: [heipizhu](https://osu.ppy.sh/users/29319435) |
 
 ## 赛果
 
-由于选手非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY)** 呈现赛果。
+由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY)** 呈现赛果。
 
 ## 规则
 
@@ -104,18 +107,18 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
    - 报名时有软性 `Play counts` 要求，重度 `deranker` 和 `炸鱼` 选手可能会被强制升级。
 3. 报名结束后，主办方会公布所有成功报名玩家的名单与对应分组。分组方式如下：
 
-| 组别 | 选手的4kPP |
+| 组别 | 选手的 4k PP |
 | :-: | :-- |
 | EX | 8500 及以上 |
 | S | 6500 ~ 8499 |
 | A | 4500 ~ 6499 |
 | B | 0 ~ 4499 |
 
-4. 如果选手的4kpp超过其组别的上限过多，将会被强制升级到更高的组别。缓冲区为100pp
-5. [比赛工作人员](/wiki/Tournaments/Official_support#what-is-considered-staff) 不能作为选手参加本次赛事。
+4. 如果选手的 4k pp 超过其组别的上限过多，可能将会被强制升级到更高的组别。
+5. [比赛工作人员](/wiki/Tournaments/Official_support#no-play-join-staff) 不能作为选手参加本次赛事。
 6. 赛事主办方可能会强制升级一些在其组别过于强大的选手。
 7. 赛事主办方保留禁止选手参加本次比赛的权力。
-8. 选手可以主动向主办方申请升级，需要向主办方提供一些下一组别的成绩截图来获得许可。
+8. 选手可以主动向主办方申请升降级，需要向主办方提供一些下一组别的成绩截图来获得许可。
 
 ### 获胜条件
 
@@ -146,8 +149,10 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | S级 | 2.3x + 30 |
 | EX级 | 3.4x + 57 |
 
-3. 选手在资格赛的最终排名取决于总共四轮的积分之和。排前16名的选手将可以参加季后赛。
-4. 在季后赛阶段，选手需要在一定数量的谱面中击败对手以胜出。数量视实际情况决定。
+3. 选手在资格赛的最终排名取决于总共四轮的积分之和。排前24名的选手将可以参加季后赛。
+4. 前8名的选手将会进入季后赛胜者组，第9-24名的选手将会进入季后赛败者组。
+5. 如果计算总排名时出现重分情况，将会计算所有轮次的总排名和，排名和更小的在前。
+6. 在季后赛阶段，选手需要在一定数量的谱面中击败对手以胜出。数量视实际情况决定。
 
 ### 比赛流程
 
@@ -191,30 +196,30 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 **季后赛规则与常规赛大体相同。**
 
 1. 主办方将会在常规赛结束后邀请部分 EX组 的选手参加季后赛。
-   - 邀请选手数量视实际情况决定。
-2. 季后赛**没有**热手阶段。
-3. 季后赛有 4 个单独的图池。
-   - 每一轮使用 1 个单独的图池。
-   - 图池结构视实际情况决定。
-   - 每个图池包含一张 `TieBreaker` 类型的谱面。
-   - 允许使用的 `Mod` 为：`NoFail`, `Hidden`, `FadeIn`, `Flashlight`, `Mirror`。
-4. 选手将拥有 2 分钟来选图与ban图，选图后选手有 2 分钟的时间来准备。如果选手超时，那么过程如下：
+2. 季后赛有 4 个单独的图池，每个图池有不同数量的不同类型的谱面。
+
+| 阶段 | 谱面 |
+| :-- | :-- |
+| 8强赛 & 半决赛 | 6米，3混，3面，1TB |
+| 决赛 & 总决赛 | 7米，3混，4面，1TB |
+
+3. 选手将拥有 2 分钟来选图与ban图，选图后选手有 2 分钟的时间来准备。如果选手超时，那么过程如下：
    - 如果在 ban 图，那么此次 ban 图作废。
    - 如果在选图，裁判使用roll点指令从图池可用谱面中随机选择一张谱面进行游玩。
    - 如果在准备期间，裁判会直接使用 !mp start 10 指令开始游戏倒计时。
-5. 双方选手每场比赛有一次可选的两分钟的技术暂停机会。可以用在选图ban图流程上。
+4. 双方选手每场比赛有一次可选的两分钟的技术暂停机会。可以用在选图ban图流程上。
    - 可以在TB决胜局叫暂停，但是需要双方选手都同意才可以。
-6. 比赛开始前15分钟，裁判提前建好多人房间，选手必须在此期间进房。
+5. 比赛开始前15分钟，裁判提前建好多人房间，选手必须在此期间进房。
    - 房间设置为：`游戏模式: "osu!mania"`, `分组方式: "Team Vs"`, `胜利条件: "ScoreV2"`. 房间名必须命名为：`GBC 2023 Spr: ({PlayerA}) vs ({PlayerB})`。
-7. 双方选手在房间频道里至少使用一次 `!roll` 指令进行掷骰子。
+6. 双方选手在房间频道里至少使用一次 `!roll` 指令进行掷骰子。
    - 点数大的选手可以选择先选图或者先禁用图，另一方自动选择另一个选项。
    - 每位选手可以从图池中禁用一张谱面，在接下来整场比赛期间此谱面不可被选择。
    - 每位选手轮流从图池中选择一张谱面并进行比赛。
      - 如果在一张图中出现平局，这张图将被重开。一张图将不会重开超过两次。
-8. 每个选手最多被允许一次由于掉线或其他技术性问题造成的重开（请及时在游戏内发送信息通知裁判要求重开）。
+7. 每个选手最多被允许一次由于掉线或其他技术性问题造成的重开（请及时在游戏内发送信息通知裁判要求重开）。
    - 该次比赛还没超过30秒和全图的1/4。
    - 在比赛重开时必须使用与之前相同的mod和图。
    - 请务必在比赛前确保不会出现技术性问题。
-9. 如有必要，裁判有权利自行决定规则的实施，并对比赛期间发生的事件有最终裁决权。
-10. 主办方有权要求选手开启直播或录像。
-11. 主办方保留修改规则的权利，任何类似修改将会提前宣布。
+8. 如有必要，裁判有权利自行决定规则的实施，并对比赛期间发生的事件有最终裁决权。
+9. 主办方有权要求选手开启直播或录像。
+10. 主办方保留修改规则的权利，任何类似修改将会提前宣布。
