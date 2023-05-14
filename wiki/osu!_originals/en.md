@@ -633,6 +633,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Clemaister - New Story | [#1](https://osu.ppy.sh/beatmapsets/19902) |
 | [Clemaister (ft. Kamoflage) - Rewind](https://soundcloud.com/clemaister/rewind) | [#1](https://osu.ppy.sh/beatmapsets/18920) |
 | [cygnus - 2007clocktower](https://cygnus7.bandcamp.com/track/2007clocktower)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1943426) |
+| [cygnus - Prophesy of the Black Sun](https://cygnus7.bandcamp.com/track/prophecy-of-the-black-sun)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1705290) |
 | [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
 | [cygnus - STRIKER+](https://cygnus7.bandcamp.com/track/striker)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1966073) |
 | Danzai - Error 001 | [#1](https://osu.ppy.sh/beatmapsets/20359) |
