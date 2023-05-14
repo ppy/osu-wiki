@@ -13,7 +13,7 @@ Cái **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) là một biểu 
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
 - [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
 
-Là một bước tiếp theo của [Hệ thống ranking cũ](/wiki/Modding/Forum_modding) sau [Proto-bubble](/wiki/Modding/Proto-bubble), một bubble bình thường có nghĩa là một [beatmap](/wiki/beatmap) đã chuẩn bị được xếp hạng từ ý kiến của modder. Những beatmap được bubble sẽ được kiểm tra bởi một thành viên khác của BAT hoạc BN và được [xếp hạng](/wiki/beatmap/category#ranked) hay [chấp nhận](/wiki/beatmap/category#approved) miễn là chỉ có những thay đổi nhỏ cho beatmap là bắt buộc.
+Là một bước tiếp theo của [Hệ thống ranking cũ](/wiki/Modding/Forum_modding) sau [Proto-bubble](/wiki/Modding/Proto-bubble), một bubble bình thường có nghĩa là một [beatmap](/wiki/Beatmap) đã chuẩn bị được xếp hạng từ ý kiến của modder. Những beatmap được bubble sẽ được kiểm tra bởi một thành viên khác của BAT hoạc BN và được [xếp hạng](/wiki/Beatmap/Category#ranked) hay [chấp nhận](/wiki/Beatmap/Category#approved) miễn là chỉ có những thay đổi nhỏ cho beatmap là bắt buộc.
  
 Trong [quy trình xếp hạng beatmap](wwiki/Beatmap_Ranking_Procedure) hiện , cái tương đương với bubble là [đề cử](/wiki/beatmap_ranking_procedure#nominations) được cho bởi một [người đề cử beatmap](/wiki/people/beatmap_nominators).
  
