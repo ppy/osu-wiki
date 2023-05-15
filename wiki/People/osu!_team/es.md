@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 tags:
   - osu! staff
   - osu!team
@@ -13,9 +11,9 @@ tags:
   - equipo osu!
 ---
 
-# El Equipo
+# osu! team
 
-Las personas que se enumeran a continuación son el núcleo del **equipo de osu!** y son los principales responsables de ayudar a que el juego sea increíble para todos.
+Las personas que se enumeran a continuación son el núcleo del **osu! team** y son los principales responsables de ayudar a que el juego sea increíble para todos.
 
 | Nombre | Rol |
 | :-- | :-- |
@@ -28,11 +26,11 @@ Las personas que se enumeran a continuación son el núcleo del **equipo de osu!
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Asesor de la escena de modding y mapping |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizador y administrador de la World Cup |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Soporte de torneos, divulgación de artistas destacados |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desarrollador de osu!web |
+| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desarrollador de la osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Encargado general, asesor de moderación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Asesor de la escena de modding y mapping |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de osu!web, [artista destacado oficial de osu!](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de osu!web |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de la osu!web, [artista destacado oficial de osu!](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de la osu!web |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Asesor de la escena de modding y mapping, organizador de Mappers' Guild, divulgación de artistas destacados |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Asesor de la escena de modding y mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Encargado general, mantenedor de la wiki |
@@ -42,7 +40,7 @@ Las personas que se enumeran a continuación son el núcleo del **equipo de osu!
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Moderación y asesor de la comunidad |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-Además de lo anterior, el [equipo de soporte de cuentas](Account_support_team) está ahí para ayudar con lo que está fuera del alcance.
+Además de lo anterior, el [equipo de soporte de cuentas](/wiki/People/Account_support_team) está ahí para ayudar con lo que está fuera del alcance.
 
 ## Miembros del equipo central inactivos
 
@@ -69,7 +67,7 @@ Además de lo anterior, el [equipo de soporte de cuentas](Account_support_team) 
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Asesor de la escena de modding y mapping |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Diseñador del foro |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinario creador de cosas geniales |
-| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Diseñador original de ilustraciones y concepto de pippi.. [DeviantArt](https://sarumaru.deviantart.com/) |
+| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Diseñador original de ilustraciones y concepto de pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Líder y administrador de la comunidad inicial, contribuidor de reuniones y preguntas frecuentes |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desarrollador de osu! y pp |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente de Project Loved, asesor de la comunidad, divulgación de artistas destacados |
