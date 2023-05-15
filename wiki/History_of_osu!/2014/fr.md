@@ -41,4 +41,4 @@ De plus, [peppy](https://osu.ppy.sh/users/2) a également publié la version "os
 [^fanart]: [Article de news par LuigiHann (03/04/2014) "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
 [^fanart-results]: [Article de news par LuigiHann (21/05/2014) "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
 [^download]: [Article de news par peppy (18/06/2014) "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-[^bat]: [osu! newspost par Ephemeral (21/08/2014) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+[^bat]: [Article de news par Ephemeral (21/08/2014) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
