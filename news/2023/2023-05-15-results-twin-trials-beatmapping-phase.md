@@ -130,7 +130,6 @@ fieryrage also managed to earn *something else* from this contest, [but we'll ge
 
 Sorry to those who root for the underdogs — [Jemzuu](https://osu.ppy.sh/users/7890134) and his partner [-Rustyy](https://osu.ppy.sh/users/16355636) are here to take the gold in yet another mapping contest. [Their submission](https://osu.ppy.sh/beatmapsets/1972145) impressed both the judges, only barely surpassing [Deif](https://osu.ppy.sh/users/318565) and [autofanboy](https://osu.ppy.sh/users/636114) in almost all categories.
 
-
 Jemzuu and -Rusty's efforts towards osu!catch mapping have paid off. Both have earned themselves a catch-specific profile badge and [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points).
 
 ![Twin Trials osu!catch Winner badge](https://assets.ppy.sh/profile-badges/twintrials2023-MP-CATCH.png)
