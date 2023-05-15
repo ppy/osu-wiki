@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # Internet Relay Chat
 
 *Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat)*
