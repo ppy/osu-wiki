@@ -51,6 +51,11 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
+- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
+  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Futsuu.
+  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Muzukashii.
+  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Oni.
+  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
 

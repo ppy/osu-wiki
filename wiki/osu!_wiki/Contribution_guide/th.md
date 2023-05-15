@@ -4,7 +4,7 @@
 
 ผู้มีส่วนร่วมรายใหม่ที่ยังไม่คุ้นเคยใน GitHub หรือ [git](https://git-scm.com/) เนื่องจากนี่เป็นเครื่องมือที่มักจะใช้งานในกลุ่มนักพัฒนาเป็นหลัก หากคุณยังไม่เข้าใจในการลองครั้งแรก ไม่ต้องกังวลไป — [wiki maintainer](/wiki/People/osu!_wiki_maintainers) จะช่วยเหลือ และพาคุณไปในทิศทางที่ถูกต้อง
 
-ในกรณีที่คุณต้องการความช่วยเหลือ หรือคำแนะนำในขั้นตอนไหนก็ตาม อย่าลังเลที่จะถามเข้ามาในช่อง `#osu-wiki` ของ [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+ในกรณีที่คุณต้องการความช่วยเหลือ หรือคำแนะนำในขั้นตอนไหนก็ตาม อย่าลังเลที่จะถามเข้ามาในช่อง `#osu-wiki` ของ [osu! Discord server](/wiki/Community/osu!_Discord_server).
 
 ## ขอบเขตของงาน
 
@@ -53,7 +53,7 @@
 ถ้าผ่านไปหลายวันแล้วไม่มีใครมาตรวจสอบ ลองทำตามขั้นตอนเหล่านี้
 
 - ตรวจให้แน่ใจว่าคุณได้แก้ไขตามคำแนะนำทั้งหมดแล้ว บางทีผู้ตรวจสอบอาจรอคำตอบของคุณอยู่
-- ลองถามผู้เขียน osu! wiki คนอื่น ๆ ใน [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (ช่อง `#osu-wiki` ) หรือใน GitHub comment
+- ลองถามผู้เขียน osu! wiki คนอื่น ๆ ใน [osu! Discord server](/wiki/Community/osu!_Discord_server) (ช่อง `#osu-wiki` ) หรือใน GitHub comment
 - ในการขอความช่วยเหลือด้านการแปล ตรวจสอบ pull request ที่ merged เรียบร้อยแล้วของภาษาของคุณ ลองเข้าไปติดต่อผู้ตรวจสอบ หรือผู้เขียนของ pull request อันนั้น ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID]))
 - ลองให้เพื่อนมาดูแบบเร็ว ๆ
 
@@ -61,6 +61,6 @@
 
 ## การ Merge
 
-การเปลี่ยนแปลงของคุณจะได้รับการตรวจสอบโดยหนึ่งใน [ผู้ดูแล](/wiki/People/osu!_wiki_maintainers) โดยปกติหลังจากได้รับการตรวจสอบจากผู้ประสานงานแล้ว ถ้าไม่มีอะไรเกิดขั้นหลังจากเวลาผ่านไประดับหนึ่ง ลองถามใน GitHub comment ของ pull request หรือในช่อง `#osu-wiki` ของ [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) การเปลี่ยนแปลงของคุณจะปรากฏใน osu! wiki ไม่นานหลังจาก merge (อาจใช้เวลาถึง 5 ชั่วโมงในบางกรณี)
+การเปลี่ยนแปลงของคุณจะได้รับการตรวจสอบโดยหนึ่งใน [ผู้ดูแล](/wiki/People/osu!_wiki_maintainers) โดยปกติหลังจากได้รับการตรวจสอบจากผู้ประสานงานแล้ว ถ้าไม่มีอะไรเกิดขั้นหลังจากเวลาผ่านไประดับหนึ่ง ลองถามใน GitHub comment ของ pull request หรือในช่อง `#osu-wiki` ของ [osu! Discord server](/wiki/Community/osu!_Discord_server) การเปลี่ยนแปลงของคุณจะปรากฏใน osu! wiki ไม่นานหลังจาก merge (อาจใช้เวลาถึง 5 ชั่วโมงในบางกรณี)
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

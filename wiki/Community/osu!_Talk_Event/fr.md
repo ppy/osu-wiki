@@ -9,7 +9,7 @@ tags:
 
 L'**osu! Talk Event** est un événement organisé par [osu! University](/wiki/Community/Discord_servers/osu!_University) au cours duquel différentes personnes donnent des conférences sur des sujets variés, qui s'articulent autour d'un thème spécifique pour chaque itération.
 
-Les intervenants tiennent leur discours dans un salon Étape sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Pendant l'événement, des fils de discussion sont ouverts dans le salon `#community-meetings` pour en discuter.
+Les intervenants tiennent leur discours dans un salon Étape sur le [serveur Discord osu!](/wiki/Community/osu!_Discord_server). Pendant l'événement, des fils de discussion sont ouverts dans le salon `#community-meetings` pour en discuter.
 
 Les conférences sont également diffusées en continu sur [la chaîne Twitch d'osu! University](https://twitch.tv/osuuniversity) et des enregistrements de chaque conférence sont disponibles sur [la chaîne YouTube d'osu! University](https://www.youtube.com/c/osuuniversity).
 
@@ -23,7 +23,7 @@ Pour participer en tant qu'intervenant à l'une de ces conférences, ou recomman
 
 ## Liens
 
-- [Serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Serveur Discord osu!](/wiki/Community/osu!_Discord_server)
 - [Serveur Discord osu! University](https://discord.gg/QubdHdnBVg)
 - [Chaîne Twitch d'osu! University](https://twitch.tv/osuuniversity)
 - [Chaîne YouTube d'osu! University](https://www.youtube.com/c/osuuniversity)

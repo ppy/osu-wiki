@@ -88,7 +88,7 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
     <source src="https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.mp3" type="audio/mpeg">
 </audio>
 
-### Rohi - Hitotsu no Chikai yo, Eien no Uta to Nare (2:35 / 130 BPM)
+### Rohi - Hitotsu no Chikai yo, Eien no Uta to Nare (3:39 / 225 BPM)
 
 [Download the beatmap template here!](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz)
 
