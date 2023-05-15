@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # osu!api
 
 osu! 提供了几个公共的 [API](https://zh.wikipedia.org/wiki/应用程序接口)，第三方服务可以使用这些 API 扩展 osu! 平台。这些 API 在以前是非公开使用的，且只能在每个 osu! 客户端发出的请求的基础上使用。但现在只要有一个 osu! 账号，任何人都可以使用这些 API 。
