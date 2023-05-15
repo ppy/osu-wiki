@@ -38,7 +38,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
   - [osu!mania](https://osu.ppy.sh/community/contests/169)
 - [Beatmapping phase announcement](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase)
 - [Beatmap voting announcement](https://osu.ppy.sh/home/news/2023-04-17-twin-trials-beatmap-voting-phase)
-- [Beatmapping phase results](https://osu.ppy.sh/home/news/2023-05-05-results-twin-trials-beatmapping-phase)
+- [Beatmapping phase results](https://osu.ppy.sh/home/news/2023-05-15-results-twin-trials-beatmapping-phase)
 
 ## Teams
 
