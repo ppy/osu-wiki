@@ -11,7 +11,7 @@ Submissions to the beatmapping phase include:
 - A team of 2 participants.
 - A beatmap spread of 5 difficulties (Easy/Normal/Hard/Insane/Expert) using one of the 5 pre-selected songs by James Landino in **any game mode**.
 
-The storyboarding phase will be revealed after the beatmapping phase ends.
+The storyboarding phase will be revealed in the near future.
 
 ## Contest schedule
 
@@ -23,11 +23,11 @@ The storyboarding phase will be revealed after the beatmapping phase ends.
 | Submission | 2023-02-01/2023-03-15 |
 | Judging | 2023-03-15/2023-04-05 |
 | Community vote and lazer playlists | 2023-04-10/2023-04-24 |
-| Results | 2023-05-01 |
+| Results | 2023-05-15 |
 
 ### Storyboarding phase
 
-The storyboarding phase schedule will be revealed after the beatmapping phase ends.
+The storyboarding phase schedule will be revealed in the near future.
 
 ## Links
 
