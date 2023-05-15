@@ -255,28 +255,10 @@ The following categories were evaluated across all difficulties in a submission:
 
 ### osu!(lazer) playlist leaders
 
-- **Easy playlist** 
-  - osu!: [fieryrage](https://osu.ppy.sh/users/3533958)
-  - osu!taiko: [Yukiama95](https://osu.ppy.sh/users/18535502)
-  - osu!catch: [\[ Primakien \]](https://osu.ppy.sh/users/23941998)
-  - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
-- **Normal playlist**
-  - osu!: [fieryrage](https://osu.ppy.sh/users/3533958)
-  - osu!taiko: [Yukiama95](https://osu.ppy.sh/users/18535502)
-  - osu!catch: [AnApple7](https://osu.ppy.sh/users/12567935)
-  - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
-- **Hard playlist**
-  - osu!: [fieryrage](https://osu.ppy.sh/users/3533958)
-  - osu!taiko: [Yukiama95](https://osu.ppy.sh/users/18535502)
-  - osu!catch: [Yasinnnnnn](https://osu.ppy.sh/users/17482520)
-  - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
-- **Insane playlist**
-  - osu!: [fieryrage](https://osu.ppy.sh/users/3533958)
-  - osu!taiko: [Yukiama95](https://osu.ppy.sh/users/18535502)
-  - osu!catch: [AnApple7](https://osu.ppy.sh/users/12567935)
-  - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
-- **Expert playlist**
-  - osu!: [fieryrage](https://osu.ppy.sh/users/3533958)
-  - osu!taiko: [Grape_Tea](https://osu.ppy.sh/users/9540073)
-  - osu!catch: [Kimitakari](https://osu.ppy.sh/users/4741164)
-  - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
+|  | ![](/wiki/shared/mode/osu.png) osu! | ![](/wiki/shared/mode/taiko.png) osu!taiko | ![](/wiki/shared/mode/catch.png) osu!catch | ![](/wiki/shared/mode/mania.png) osu!mania |
+| :-- | :-- | :-- | :-- | :-- |
+| **Easy playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=VN }:: [\[ Primakien \]](https://osu.ppy.sh/users/23941998) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Normal playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Hard playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=TR }:: [Yasinnnnnn](https://osu.ppy.sh/users/17482520) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Insane playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Expert playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
