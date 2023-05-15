@@ -265,6 +265,8 @@ Pour des parties en `Head-to-head` et en `Team VS` :
 
 Pour `Tag co-op` et `Tag-team VS`:
 
+| Condition de victoire | Statistiques affichées |
+| :-- | :-- |
 | `Score` / `Score v2` | Score d'équipe, score individuel, jugements |
 | `Accuracy` | Moyenne de précision d'équipe, score individuel, jugements |
 | `Combo` | Combo actuel, score individuel, jugements |
