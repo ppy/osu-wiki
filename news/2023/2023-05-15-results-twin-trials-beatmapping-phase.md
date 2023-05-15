@@ -8,7 +8,7 @@ After months of mapping, judging, and voting, the first half of Twin Trials is c
 
 ![](https://assets.ppy.sh/contests/166/header.jpg)
 
-[3 months ago](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase), we launched [**Twin Trials**](/wiki/Contests/Twin_Trials_Contest), a contest with two phases: *beatmapping* and *storyboarding*, all centered around some new [osu! originals](/wiki/osu!_originals) created by one of our old-school [Featured Artists](https://osu.ppy.sh/beatmaps/artists) [*James Landino*](https://osu.ppy.sh/beatmaps/artists/39).
+[3 months ago](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase), we launched [**Twin Trials**](/wiki/Contests/Twin_Trials_Contest), a contest with two phases: *beatmapping* and *storyboarding*, all centred around some new [osu! originals](/wiki/osu!_originals) created by one of our old-school [Featured Artists](https://osu.ppy.sh/beatmaps/artists) [*James Landino*](https://osu.ppy.sh/beatmaps/artists/39).
 
 Today, the results are in.
 
@@ -64,7 +64,7 @@ With so many veteran mappers entering **Twin Trials**, everyone knew the competi
 
 On the judges' side, [DeviousPanda](https://osu.ppy.sh/users/4966334) and [iljaaz](https://osu.ppy.sh/users/8501291) proved they have what it takes to create 5 consistently awesome difficulties. [Their submission](https://osu.ppy.sh/beatmapsets/1971987) explored the more challenging side of what the song had to offer, while maintaining a crispy clean style throughout.
 
-With this outcome, the two mappers have earned the profile badge below, [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points), and their map will be used as the base for the storyboarding phase of **Twin Trials** in the soon future!
+With this outcome, the two mappers have earned the profile badge below, [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points), and their map will be used as the base for the storyboarding phase of **Twin Trials** in the near future!
 
 ![Twin Trials osu! Winner badge](https://assets.ppy.sh/profile-badges/twintrials2023-MP-STANDARD.png)
 
@@ -115,7 +115,7 @@ The satisfaction of being the top scoring submission is good enough, but we'll a
 
 Just missing the winner's threshold was [this submission](https://osu.ppy.sh/beatmapsets/1975181) created by a not-so-conventional pairing. [Horiiizon](https://osu.ppy.sh/users/8071438) is an osu!taiko mapping legend, while their partner [fieryrage](https://osu.ppy.sh/users/3533958) dominates the osu! scene through an unmatched trio of mapping, modding, and playing capabilties.
 
-This outcome adds yet another skill to fieryrage's collection, and further solidifies Horiiizon's already-impressive reputation. Oh, and of course, both of them have earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
+This outcome adds yet another skill to fieryrage's collection, and further solidifies Horiiizon's already impressive reputation. Oh, and of course, both of them have earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
 
 fieryrage also managed to earn *something else* from this contest, [but we'll get to that later](#twin-trials-playlist-leaders).
 
@@ -197,7 +197,7 @@ To vote for this contest, we required the community to **play each of the submis
 
 As an added bonus, we also decided to reward the players at the top of each playlist with a month of osu!supporter, plus the **Twin Trials Champion profile badge** for the winner of the Expert playlist!
 
-![Twin Trials Champion osu! profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-STANDARD.png) ![Twin Trials Champion osu!taiko profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-TAIKO.png)
+![Twin Trials Champion osu! profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-STANDARD.png) ![Twin Trials Champion osu!taiko profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-TAIKO.png)\
 ![Twin Trials Champion osu!catch profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-CATCH.png) ![Twin Trials Champion osu!mania profile badge](https://assets.ppy.sh/profile-badges/twintrials2023-CHAMP-MANIA.png)
 
 Props to these peak performers:
@@ -234,9 +234,9 @@ And extra congrats to [fieryrage](https://osu.ppy.sh/users/3533958) and [mashu](
 
 Scrolling all the way here must've been hard work. Well done.
 
-Thanks to everyone involved this contest — whether that be as a participant, a judge, a voter, or even someone who followed the contest through today!
+Thanks to everyone involved this contest — whether that be as a participant, a judge, a voter, or even someone who has followed along until today!
 
-The storyboarding phase of this contest will start in the soon future, so stick around for that upcoming spectacle!
+The storyboarding phase of this contest will start in the near future, so stick around for that upcoming spectacle!
 
 Until then, have fun mapping. :)
 
