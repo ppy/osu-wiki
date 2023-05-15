@@ -42,7 +42,7 @@ To promote mapping Featured Artist content, members of the community created the
 
 If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, they can be reported on [this forum thread](https://osu.ppy.sh/community/forums/topics/783985).
 
-## Members
+## Featured Artists with osu! accounts
 
 Featured Artists with osu! accounts are given the **Featured Artist** [title](/wiki/Community/User_title) and [user group](/wiki/People/User_group) to show their involvement. The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
