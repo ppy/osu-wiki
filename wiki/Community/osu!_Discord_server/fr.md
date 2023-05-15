@@ -2,37 +2,61 @@
 tags:
   - development
   - développement
-outdated_translation: true
-outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
+  - osu!dev
 ---
 
-# Serveur Discord osu!dev
+# Serveur Discord osu!
 
-**osu!dev** est le serveur [Discord](https://discordapp.com) officiel pour travailler sur les projets open-source et communautaires relatifs à osu!. C'est le lieu principal pour contribuer au développement d'osu! et entrer en contact avec [l'équipe d'osu!](/wiki/People/osu!_team).
+Le serveur Discord **osu!**, anciennement appelé **osu!dev**, est le serveur [Discord](https://discordapp.com) officiel pour le développement. Le serveur fonctionne comme un centre de discussion et de travail sur les projets open source et communautaires d'osu!. C'est l'endroit principal pour contribuer au développement d'osu! et entrer en contact avec [l'équipe d'osu!](/wiki/People/osu!_team).
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
-## Vérification
+## Salons
 
-Par défaut, seuls les utilisateurs vérifiés ont l'autorisation de discuter dans le reste du serveur Discord. Si un utilisateur non-vérifié souhaite le devenir, celui-ci doit poster un message dans le canal `#arrival` du serveur Discord accompagné de ses motivations et intentions. Une fois ceci fait, un membre de l'équipe d'osu! s'occupera de vérifier l'utilisateur. *Prenez note que la vérification n'est pas immédiate et qu'elle peut prendre un certain temps.*
+Les nouveaux venus sur le serveur sont encouragés à se présenter dans le salon `#introductions`, mais ce n'est pas une obligation pour interagir avec le reste du serveur.
 
-## Projets
+### Général
 
-Chaque partie du développement possède son propre canal de discussion :
-
-| Projet | Canal |
+| Salon | Description |
 | :-- | :-- |
-| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| Discussions et modifications apportées au [Star Rating](/wiki/Beatmap/Star_rating) et aux [points de performance](/wiki/Performance_points) dans le mode [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
-| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
-| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
-| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
-| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Support officiel des tournois](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| Discussions sur le [Modding](/wiki/Modding)/[Réunions de la NAT](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
+| `#welcome` | Informations sur le serveur |
+| `#introduction` | Présentation de soi |
+| `#general` | Discussion générale et dépannage liés à osu! |
+
+### Client / Web
+
+| Salon | Description |
+| :-- | :-- |
+| `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
+| `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
+| `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
+| `#github-feed` | Flux d'événements pour divers [repositories GitHub ppy](https://github.com/ppy) |
+| `Meetings` (Salon de conférence) | [osu! community meetings](/wiki/Community/osu!_community_meetings) et réunions sur l'état du développement |
+
+### Diffcalc
+
+| Salon | Description |
+| :-- | :-- |
+| `#difficulty-osu` | Calcul du [star rating](/wiki/Beatmap/Star_rating) et des [points de performance](/wiki/Performance_points) pour [osu!](/wiki/Game_mode/osu!) |
+| `#difficulty-taiko` | Calcul du star rating et des points de performance pour [osu!taiko](/wiki/Game_mode/osu!taiko)  |
+| `#difficulty-catch` | Calcul du star rating et des points de performance pour [osu!catch](/wiki/Game_mode/osu!catch) |
+| `#difficulty-mania` | Calcul du star rating et des points de performance pour [osu!mania](/wiki/Game_mode/osu!mania) |
+
+### Communauté
+
+| Salon | Description |
+| :-- | :-- |
+| `#featured-artists` | Création de beatmaps, de projets ou de playlists des [Featured Artists](/wiki/People/Featured_Artists) |
+| `#mappers-guild` | La [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| `#osu-spotlights` | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| `#osu-wiki` | [osu! wiki](/wiki/osu!_wiki) |
+| `#osu-news` | [osu!monthly](/wiki/Community/osu!monthly) et la couverture de l'actualité générale |
+| `#osu-loved` | [Project Loved](/wiki/Community/Project_Loved) |
+| `#tournaments` | [Tournois](/wiki/Tournaments) et le [support officiel aux tournois](/wiki/Tournaments/Official_support) |
+| `#community-meetings` | [osu! community meetings](/wiki/Community/osu!_community_meetings) |
+
+### Archivé
+
+| Salon | Description |
+| :-- | :-- |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) et la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure) |

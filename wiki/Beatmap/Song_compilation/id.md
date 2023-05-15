@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: b81e92cc5b1d186d48f34eabc4e7eb11e776eccd
 stub: true
 tags:
   - kompilasi lagu
