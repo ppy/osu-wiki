@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a7eddce3dec337cee2c62d5a14a0370b827d36cb
+---
+
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -228,6 +233,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 | Benutzeraccount | Künstler-Profil |
 | :-- | :-- |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
+| ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
@@ -235,16 +241,19 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) |
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
+| ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (member of) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
-| ::{ flag=DE }:: [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |

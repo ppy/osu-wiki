@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: c564fa7fe8cba100544592a2f16e0056415ad663
----
-
 # Einschränkungen des Accounts
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -14,6 +9,7 @@ Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community i
 Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 
 - Möglichkeit zur Teilnahme an offiziellen Wettbewerben
+- Erlaubnis, an offiziell unterstützten Turnieren teilzunehmen und dort als Mitarbeiter tätig zu sein
 - Beitritt von Mehrspieler-Räumen
 - Chat im Spiel
 - Private Nachrichten
