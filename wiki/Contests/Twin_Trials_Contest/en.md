@@ -222,12 +222,12 @@ The following categories were evaluated across all difficulties in a submission:
 
 | Rank | Team | Map | Musical rep. | Creativity | Impression | E | N | H | I | X | Total |
 | :-: | :-- | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 1 | [Frozen Bananas](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550260) | [#1](https://osu.ppy.sh/beatmapsets/1972268) | 61 | 68 | 29 | 25 | 29 | 34 | 34 | 36 | 316 |
-| 2 | [meow](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550274) | [#1](https://osu.ppy.sh/beatmapsets/1975181) | 65 | 66 | 30 | 21 | 29 | 28 | 33 | 41 | 313 |
-| 3 | [Playing Counter Strike: Global Offensive](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550270) | [#1](https://osu.ppy.sh/beatmapsets/1972018) | 65 | 59 | 29 | 22 | 24 | 33 | 34 | 36 | 302 |
-| 4 | [we spent one discord message thinking of this teamname](https://mappersguild.com/contests/results?submission=64123a4d146d25b67155026c) | [#1](https://osu.ppy.sh/beatmapsets/1971951) | 64 | 50 | 28 | 23 | 24 | 32 | 33 | 35 | 289 |
-| 5 | [-w-)b](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550264) | [#1](https://osu.ppy.sh/beatmapsets/1972219) | 62 | 55 | 25 | 26 | 24 | 26 | 32 | 33 | 283 |
-| 6 | [Printemps](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550268) | [#1](https://osu.ppy.sh/beatmapsets/1975991) | 59 | 48 | 22 | 15 | 22 | 22 | 29 | 31 | 248 |
+| 1 | [Frozen Bananas](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550260) | [#1](https://osu.ppy.sh/beatmapsets/1972268) | 61 | 68 | 29 | 25 | 29 | 34 | 34 | 36 | **316** |
+| 2 | [meow](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550274) | [#1](https://osu.ppy.sh/beatmapsets/1975181) | 65 | 66 | 30 | 21 | 29 | 28 | 33 | 41 | **313** |
+| 3 | [Playing Counter Strike: Global Offensive](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550270) | [#1](https://osu.ppy.sh/beatmapsets/1972018) | 65 | 59 | 29 | 22 | 24 | 33 | 34 | 36 | **302** |
+| 4 | [we spent one discord message thinking of this teamname](https://mappersguild.com/contests/results?submission=64123a4d146d25b67155026c) | [#1](https://osu.ppy.sh/beatmapsets/1971951) | 64 | 50 | 28 | 23 | 24 | 32 | 33 | 35 | **289** |
+| 5 | [-w-)b](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550264) | [#1](https://osu.ppy.sh/beatmapsets/1972219) | 62 | 55 | 25 | 26 | 24 | 26 | 32 | 33 | **283** |
+| 6 | [Printemps](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550268) | [#1](https://osu.ppy.sh/beatmapsets/1975991) | 59 | 48 | 22 | 15 | 22 | 22 | 29 | 31 | **248** |
 
 ### osu!catch
 
