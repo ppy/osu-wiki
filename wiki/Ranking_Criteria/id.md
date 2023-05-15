@@ -56,12 +56,6 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 - **Semua mode permainan dalam sebuah beatmap wajib membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Beatmap/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
 - **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](/wiki/Ranking_Criteria/osu!mania) untuk informasi lebih lanjut.
 - **Setiap tingkat kesulitan dalam sebuah beatmap harus memiliki [drain time](/wiki/Beatmap/Drain_time) minimum 30 detik.**
-- **Jika [drain time](/wiki/Beatmap/Drain_time) dari tiap tingkat kesulitan itu...**
-  - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
-  - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Hard.
-  - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Insane.
-  - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Jika tingkat kesulitan paling rendah dari beatmap adalah Hard atau Insane, penilaian mengenai kesesuaian dari elemen-eleman permainan tergantung pada para anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) untuk mode permainan masing-masing.
-  - **Beatmap osu!mania terikat oleh serangkaian ambang batas *drain time* dan aturan *spread* yang berbeda dengan mode permainan lainnya, yang telah ditentukan dalam [ranking criteria osu!mania](/wiki/Ranking_Criteria/osu!mania).**
  - **Sebuah beatmap dari 2 lagu yang digabungkan bersama wajib mengikuti persyaratan spread minimum yang sesuai dengan panjang lagu yang lebih panjang.**[^songs-comp-note] Hal ini untuk menghindari perpanjangan artifisial lagu sebagai penghindaran batasan waktu di bagian beatmap dari kriteria-kriteria ini. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
 - **Nama tingkat kesulitan dalam beatmap secara jelas harus progresif dan akurat menunjukkan tingkat kesulitan masing-masing, kecuali:**
   - Tingkat kesulitan tertinggi dari setiap mode permainan.
@@ -118,7 +112,7 @@ Mix)`.
   - Catatan: Untuk lagu yang keduanya dipotong dan dipercepat, gabungkan penanda menjadi `(Sped Up & Cut Ver.)` atau `(Nightcore & Cut Ver.)`.
 - **Karakter unicode khusus harus diubah ke huruf standar terdekatnya atau dihapus dari kolom romanisasi dalam file `.osu`.** `★ ☆ ⚝ ✪` dan sejenisnya diganti dengan tanda bintang (`*`). Karakter khusus lainnya harus diromanisasi atau dihilangkan berdasarkan kasus.
 - **Jika lagu mapset terdiri dari dua atau lebih lagu, cantumkan masing-masing judul lagu dengan simbol pemisah di antaranya atau gunakan judul yang menjelaskan kontennya.** Jika judul menjadi terlalu panjang, judul deskriptif dapat digunakan sebagai gantinya.
-- **Jika simbol digunakan untuk mengelompokkan bagian-bagian judul, spasi harus digunakan sebelum dan sesudah grup, tetapi tidak sebelum atau sesudah simbol dalam grup.**
+- **Simbol digunakan untuk mengelompokkan bagian judul wajib menyertakan spasi di sekitarnya.** Sebagai contoh, `Judul★Lagu★` menjadi `Judul ★Lagu★`.
 - **Jika media yang digunakan sebagai sumber memiliki sub-seri, label yang paling tepat harus digunakan sebagai sumber.** Jika sebuah lagu berada pada beberapa sub-seri, media utama dapat digunakan sebagai gantinya.
 
 #### Romanisasi
