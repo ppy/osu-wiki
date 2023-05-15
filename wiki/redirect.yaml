@@ -91,6 +91,7 @@
 "osu!_community_meetings":      "Community/osu!_community_meetings"
 "osu!_discord_server":          "Community/osu!_Discord_server"
 "osu!dev_discord_server":       "Community/osu!_Discord_server"
+"community/osu!dev_discord_server": "Community/osu!_Discord_server"
 "organisations":                "Community/Organisations"
 "organisations/osu!_uci":       "Community/Organisations/osu!_UCI"
 "project_loved":                "Community/Project_Loved"
