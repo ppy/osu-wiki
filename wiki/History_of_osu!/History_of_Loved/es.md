@@ -4,7 +4,7 @@ no_native_review: true
 
 # Historia de amado 
 
-La categoría de mapa [Amado](/wiki/Beatmap/Category#loved) actualmente está administrada por el [Project Loved](/wiki/Community/Project_Loved). Sin embargo, esto no siempre fue así. Project Loved es el tercer sistema principal que ha promovido mapas a Amado; antes de ella, existían otros métodos para hacerlo, así como largos periodos de estancamiento de la categoría de Amados.
+La categoría de mapa [Amado](/wiki/Beatmap/Category#amados) actualmente está administrada por el [Project Loved](/wiki/Community/Project_Loved). Sin embargo, esto no siempre fue así. Project Loved es el tercer sistema principal que ha promovido mapas a Amado; antes de ella, existían otros métodos para hacerlo, así como largos periodos de estancamiento de la categoría de Amados.
 
 ## Solicitud de función (febrero de 2015)
 
