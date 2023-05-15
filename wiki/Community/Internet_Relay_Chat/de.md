@@ -6,7 +6,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 
 ## osu!Bancho
 
-*Hinweis: dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
+*Hinweis: Dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
 
 *osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für den Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
 

@@ -9,7 +9,7 @@ tags:
 
 **osu! Talk Event** merupakan acara *talk show* hasil gagasan [osu! University](/wiki/Community/Discord_servers/osu!_University) yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik. Artikel ini mencakup iterasi pertama dari acara ini, yang mengusung tema "*overcoming obstacles*" (atau "mengatasi kesulitan").
 
-Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
+Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!](/wiki/Community/osu!_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
 
 Sesi pembicaraan ini juga ditayangkan secara langsung di [*channel* Twitch osu! University](https://twitch.tv/osuuniversity), dengan rekaman seluruh sesi pembicaraan yang diarsipkan pada [*channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity).
 
@@ -18,7 +18,7 @@ Apabila kamu ingin berpartisipasi sebagai pembicara dalam acara ini atau merekom
 ## Informasi acara
 
 - **Acara ini berlangsung selama 3 hari**, mulai dari 20 Mei 2022 hingga 22 Mei 2022.
-- **Masing-masing pembicara akan diberikan *channel* stage khusus** pada [server Discord osu!dev](https://discord.gg/ppy) untuk dapat berbicara.
+- **Masing-masing pembicara akan diberikan *channel* stage khusus** pada [server Discord osu!](https://discord.gg/ppy) untuk dapat berbicara.
 - **Setiap sesi pembicaraan tidak boleh melebihi 18 menit.** 18 menit merupakan waktu maksimum yang diizinkan, 18 menit bukanlah target waktu yang harus dicapai oleh masing-masing pembicara — suatu obrolan singkat yang hanya berlangsung selama 3 menit pun dapat memberikan dampak yang besar apabila disampaikan dengan baik.
 - Topik pembicaraan yang diangkat tidak harus seluruhnya berhubungan dengan osu!. Meskipun demikian, karena osu! Talk Event merupakan acara osu!, para pembicara diharapkan untuk dapat menyambungkan cerita atau hikmah yang mereka dapatkan dengan osu! baik secara langsung maupun tidak.
 
@@ -26,7 +26,7 @@ Apabila kamu ingin berpartisipasi sebagai pembicara dalam acara ini atau merekom
 
 - [Utas forum](https://osu.ppy.sh/community/forums/topics/1574152)
 - [Post berita pengumuman](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles)
-- [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 - [Server Discord osu! University](https://discord.gg/QubdHdnBVg)
 - [*Channel* Twitch osu! University](https://twitch.tv/osuuniversity)
 - [*Channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity)
