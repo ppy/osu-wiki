@@ -276,5 +276,3 @@ The following categories were evaluated across all difficulties in a submission:
   - osu!taiko: [Grape_Tea](https://osu.ppy.sh/users/9540073)
   - osu!catch: [Kimitakari](https://osu.ppy.sh/users/4741164)
   - osu!mania: [mashu](https://osu.ppy.sh/users/12028216)
-
-  
