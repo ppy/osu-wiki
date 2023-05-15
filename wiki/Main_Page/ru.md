@@ -124,7 +124,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!dev](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
