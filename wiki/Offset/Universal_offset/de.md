@@ -23,7 +23,7 @@ Meistens sollte das universale Offset beim Standardwert (`0`) bleiben, da ein fa
 
 ## Steuerung
 
-![](img/uo-settings-button.png "Die Bedienung des universalen Offsets mit einem Schieberegler und dem Button für den Offset-Assistenten")
+![](img/uo-settings-button-DE.png "Die Bedienung des universalen Offsets mit einem Schieberegler und dem Button für den Offset-Assistenten")
 
 Das universale Offset kann direkt in den [Einstellungen](/wiki/Client/Options) angepasst werden. Alternativ kann der Wert mit Hilfe des [Offset-Assistenten](/wiki/Client/Options/Offset_Wizard) an die aktuelle Konfiguration angepasst werden.
 
