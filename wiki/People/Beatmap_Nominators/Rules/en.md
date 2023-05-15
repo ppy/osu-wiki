@@ -33,8 +33,8 @@ Beatmap Nominator activity is primarily measured by nominations. Resetting beatm
 
 Each mode has its own required minimum for monthly activity.
 
-- osu!, osu!taiko, osu!catch: 3 nominations.
-- osu!mania: 2 nominations.
+- osu!, osu!taiko: 3 nominations.
+- osu!catch, osu!mania: 2 nominations.
 - Hybrid: 3 nominations, with at least 1 per proficient game mode.
 
 ## Nomination

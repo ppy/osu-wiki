@@ -7,7 +7,7 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Server Discord komunitas](/wiki/Community/Discord_servers)
-- [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 - [Organisasi](/wiki/Community/Organisations)
 
 ## Proyek

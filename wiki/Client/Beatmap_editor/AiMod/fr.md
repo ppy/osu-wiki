@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
+---
+
 # AiMod
 
 ![](img/AiMod-FR.png "La fenêtre AiMod liste les avertissements et les erreurs concernant une beatmap.")
