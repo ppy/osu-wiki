@@ -1,4 +1,6 @@
-<!-- TODO: Need references for some of the stated opinions throughout this article. Lots of mentioning "a common complaint was [...]", etc., without citing anything. -->
+---
+no_native_review: true
+---
 
 # Historia de amado 
 
@@ -8,7 +10,7 @@ La categoría de mapa [Amado](/wiki/Beatmap/Category#loved) actualmente está ad
 
 El 2 de febrero de 2015, se publicó la solicitud de función *[Nueva categoría de mapa para buenos conjuntos de mapas no clasificados](https://osu.ppy.sh/community/forums/topics/293841)*. Detalló otra forma fuera del [proceso de clasificación](/wiki/Beatmap_ranking_procedure) para que los mapas tuvieran tablas de clasificación, y rápidamente ganó fuerza a medida que los jugadores mostraban su preocupación por el hecho de que el proceso de clasificación se volviera demasiado estricto y no permitiera que algunos mapas albergaran competencia.
 
-Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_Criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos "2B",<!-- TODO: would be nice if I could link to somewhere that explains this, like a glossary of mapping styles or something --> *jugabilidad similar a [Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG).
+Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_Criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos "2B", *jugabilidad similar a [Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG).
 
 A fines de 2016, esta solicitud de función tenía la segunda mayor cantidad de estrellas en la historia del foro con casi 13 000 de prioridad.
 
@@ -38,11 +40,7 @@ A fines de septiembre, ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) h
 
 Antes de la segunda ronda de "La elección del capitán", Toy [anunció en los foros](https://osu.ppy.sh/community/forums/topics/662761) que los mapas elegidos para la votación se obtendrían de los envíos de la comunidad en un [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform) de Google y una [hoja](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit). Toy esperaba que esto "funcionaría mejor a largo plazo que las implementaciones anteriores de Amado" al dar a los participantes de Amado más voz en la votación.
 
-<!-- TODO: Should mention that this all used to happen on the Community Voice forum, and per-map polls before the Loved forum were done via strawpoll -->
-
 Después de algunas rondas del estilo original de votación, Toy decidió usar un formato de votación ligeramente diferente en el que los mapas ya no tendrían que competir entre sí. Cada mapa tenía su propia encuesta a partir de este momento, preguntando a la comunidad si querían o no que ese mapa específico fuera Amado. Si un porcentaje mínimo de votantes dijera "sí", pasaría la votación. Debido a que se requerían tantas encuestas en los foros, se creó un [foro nuevo](https://osu.ppy.sh/community/forums/120) específicamente para la votación de Amado, y fue a partir de este momento que se hizo más conocido formalmente como "Project Loved".
-
-<!-- TODO: Documentation of ~2018 and on. Should mention leadership structure, enforcement of subset of RC, moderator involvement, voting threshold changes, game-mode-specific developments in selecting maps and new captains, notable controversy regarding picks (std: very popular but low "quality" maps, taiko: contest winners, mania: extensive "brigades", etc), notable management systems before website, that half-year break and then transitioning to monthly schedule, ... -->
 
 Mientras se preparaba la ronda de marzo de 2021, la mayoría de las tareas administrativas de Amado pasaron a utilizar el [sitio web del Proyect Loved](https://loved.sh) creado por ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350). Más tarde, el sitio web también se convirtió en un centro de atención al público, reemplazando los diversos servicios de Google con páginas para [ver envíos](https://loved.sh/submissions), [enviar nuevos mapas](https://loved.sh/submit) y [ver los consentimientos de los mapeadores para participar en Amado](https://loved.sh/mappers) antes de agosto.
 
