@@ -8,13 +8,13 @@ Esta sección está dedicada a los concursos que se llevan a cabo en toda la com
 
 ## Concursos oficiales
 
-*Vea también: [Puntos de concurso](Contest_points), [Soporte oficial del concurso](Official_support)*
+*Vea también: [Puntos de concurso](Contest_points), [Soporte oficial del concurso de mapeo](Official_support)*
 
 Los concursos oficiales son organizados (o reconocidos como oficiales) por el [equipo de osu!](/wiki/People/osu!_team). La mayoría de los concursos oficiales tienen sus propias páginas en la [lista de concursos](https://osu.ppy.sh/community/contests).
 
-### [Concurso Mensual de Mapeo](Monthly_Beatmapping_Contest)
+### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
-El **Concurso mensual de mapeo**, en su concepto inicial, fue un concurso de mapeo en el que los mapeadores participantes compitieron para crear el mapa más destacado de una canción determinada con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Fácil o Normal en adelante en un mes.
+**Monthly Beatmapping Contest**, en su concepto inicial, fue un concurso de mapeo en el que los mapeadores participantes compitieron para crear el mapa más destacado de una canción determinada con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Easy o Normal en adelante en un mes.
 
 | Concurso No. | Canción | Modo | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -35,9 +35,9 @@ El **Concurso mensual de mapeo**, en su concepto inicial, fue un concurso de map
 | [#12](https://osu.ppy.sh/home/news/2016-03-04-beatmapping-contest-12-osu) | IAHN - Candy Luv | ![osu!][osu!] | ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) |
 | [#13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) | BilliumMoto - HDHR | ![osu!][osu!] | ::{ flag=MY }:: [RyoKazuka](https://osu.ppy.sh/users/6258586) | ::{ flag=ID }:: [Fort](https://osu.ppy.sh/users/2805457) | ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692) | [#1](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) |
 
-Después de una larga pausa, el Concurso mensual de mapeo se reinició en enero de 2020 con un cronograma, un conjunto de reglas, un procedimiento de votación, y un esquema de recompensas completamente nuevos. Muchos aspectos de la competencia se modificaron drásticamente para que los concursos fueran más interesantes y atractivos, algunos de los cuales fueron los siguientes:
+Después de una larga pausa, el Monthly Beatmapping Contest se reinició en enero de 2020 con un cronograma, un conjunto de reglas, un procedimiento de votación, y un esquema de recompensas completamente nuevos. Muchos aspectos de la competencia se modificaron drásticamente para que los concursos fueran más interesantes y atractivos, algunos de los cuales fueron los siguientes:
 
-- En lugar de una sola canción, el concurso ahora ofrece una selección de canciones de diferentes [Artistas destacados](/wiki/People/Featured_Artists) cada mes, en la que todos los mapeadores participantes son libres de mapear y enviar sus entradas.
+- En lugar de una sola canción, el concurso ahora ofrece una selección de canciones de diferentes [artistas destacados](/wiki/People/Featured_Artists) cada mes, en la que todos los mapeadores participantes son libres de mapear y enviar sus entradas.
 - Los mapeadores participantes ahora solo tienen que enviar una sola dificultad en lugar de un conjunto de mapas completo.
 - Los mapeadores participantes ahora deben adherirse a un cierto tema de mapeo y/o limitación establecida en el conjunto de reglas, como "La calificación de estrellas no puede exceder 4.00★" o "Cada objeto debe superponerse a otro objeto".
 
@@ -72,9 +72,9 @@ Después de una larga pausa, el Concurso mensual de mapeo se reinició en enero 
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Cualquier canción disponible en la [Lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) según abril de 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(ganador de la elección de la comunidad)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(ganador de la selección del mapeador)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-### [Copa de Artista Destacado de osu!taiko](o!tFAC)
+### [osu!taiko Featured Artist Cup](o!tFAC)
 
-La **Copa de artistas destacados de osu!taiko** es un concurso de mapeo de osu!taiko en el que simplemente se les pide a los concursantes que mapeen una canción de uno de los artistas destacados de osu!. El concurso a veces presenta limitaciones/trucos específicos para poner a prueba las habilidades de los concursantes.
+**osu!taiko Featured Artist Cup** es un concurso de mapeo de osu!taiko en el que simplemente se les pide a los concursantes que mapeen una canción de uno de los artistas destacados de osu!. El concurso a veces presenta limitaciones/trucos específicos para poner a prueba las habilidades de los concursantes.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -82,9 +82,9 @@ La **Copa de artistas destacados de osu!taiko** es un concurso de mapeo de osu!t
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 | [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
-### [Olimpiada de Mapeo de osu!](A_Labour_of_Love_Contest)
+### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
-La **Olimpiada de mapeo de osu!** es un concurso de mapeo que se lleva a cabo como un sucesor espiritual de los anteriores Concursos Mensuales de Mapeo (anteriores a 2020). En este concurso, los mapeadores participantes tienen la tarea de crear un mapa con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Fácil o Normal o un cierto número de dificultades para cualquiera de las canciones dadas en cada iteración correspondiente.
+**osu! Mapping Olympiad** es un concurso de mapeo que se lleva a cabo como un sucesor espiritual de los anteriores Concursos Mensuales de Mapeo (anteriores a 2020). En este concurso, los mapeadores participantes tienen la tarea de crear un mapa con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Fácil o Normal o un cierto número de dificultades para cualquiera de las canciones dadas en cada iteración correspondiente.
 
 | Concurso No. | Canción(es) | Modo | ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -96,9 +96,9 @@ La **Olimpiada de mapeo de osu!** es un concurso de mapeo que se lleva a cabo co
 | [#6](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) | [MYLK - Waffle Wave](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=SG }:: [Sinnoh](https://osu.ppy.sh/users/4236057) | ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [#1](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) |
 | [#7](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) | [Frums - Star Of The COME ON!!](https://osu.ppy.sh/beatmaps/artists/68), [IAHN - Welcome (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3), [PUP - DVP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN - ENCOUNTER](https://osu.ppy.sh/beatmaps/artists/33), y [Cranky - Ran](https://osu.ppy.sh/beatmaps/artists/23) | ![osu!mania][osu!mania] | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) y ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | *N/A* | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) y ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043) | [#1](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) |
 
-### Concurso de Mapeo Comunitario
+### Community Mapping Contest
 
-El **Concurso de mapeo comunitario** es un concurso de mapeo en el que los mapeadores participantes pueden enviar su entrada para cualquier dificultad en cualquier modo de juego que deseen, después de lo cual todas las entradas ganadoras en todas las dificultades y modos de juego se fusionarán en un solo mapa.
+**Community Mapping Contest** es un concurso de mapeo en el que los mapeadores participantes pueden enviar su entrada para cualquier dificultad en cualquier modo de juego que deseen, después de lo cual todas las entradas ganadoras en todas las dificultades y modos de juego se fusionarán en un solo mapa.
 
 | Concurso No. | Canción | Modo | ![Gold crown][GCrown] (Easy) | ![Gold crown][GCrown] (Normal) | ![Gold crown][GCrown] (Hard) | ![Gold crown][GCrown] (Insane) | ![Gold crown][GCrown] (Extra) | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -108,9 +108,9 @@ El **Concurso de mapeo comunitario** es un concurso de mapeo en el que los mapea
 | [#1 (osu!mania (4K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!mania][osu!mania] | ::{ flag=CN }:: [Kayano](https://osu.ppy.sh/users/961752) | ::{ flag=ID }:: [LordRaika](https://osu.ppy.sh/users/3265023) | ::{ flag=ID }:: [LordRaika](https://osu.ppy.sh/users/3265023) | ::{ flag=FR }:: [Ovoui](https://osu.ppy.sh/users/2282098) | ::{ flag=ID }:: [DoNotMess](https://osu.ppy.sh/users/1596318) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
 | [#1 (osu!mania (7K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!mania][osu!mania] | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
 
-### Mapeo con Recompensas
+### Mapping With Rewards
 
-**Mapeo con recompensas** es un concurso de mapas en el que los mapeadores participantes compiten para crear el mejor mapa (con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Fácil o Normal en adelante) para cualquiera de las canciones dadas en cada iteración correspondiente sin plazos estrictos.
+**Mapping With Rewards** es un concurso de mapas en el que los mapeadores participantes compiten para crear el mejor mapa (con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Easy o Normal en adelante) para cualquiera de las canciones dadas en cada iteración correspondiente sin plazos estrictos.
 
 | Concurso No. | Canción | Modo | ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -127,19 +127,19 @@ El **Concurso de mapeo comunitario** es un concurso de mapeo en el que los mapea
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### [Un Trabajo de Amor](A_Labour_of_Love_Contest)
+### [A Labour of Love](A_Labour_of_Love_Contest)
 
-**Un Trabajo de amor** es un concurso basado en equipos que abarca múltiples disciplinas artísticas donde los equipos participantes tienen la tarea de remezclar/reorganizar una canción que ha sido ampliamente conocida en toda la comunidad de osu!, cree un mapa a partir de la canción remezclada, y diseñe un storyboard/video de fondo original como acompañamiento visual de dicho mapa. Como es [indicado por este tweet](https://twitter.com/ppy/status/1333362145224843264), el concurso sigue el modelo de [eventos de THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) y otros concursos similares.
+**A Labour of Love** es un concurso basado en equipos que abarca múltiples disciplinas artísticas donde los equipos participantes tienen la tarea de remezclar/reorganizar una canción que ha sido ampliamente conocida en toda la comunidad de osu!, crear un mapa a partir de la canción remezclada, y diseñar una storyboard/video de fondo original como acompañamiento visual de dicho mapa. Como es [indicado por este tuit](https://twitter.com/ppy/status/1333362145224843264), el concurso sigue el modelo de [eventos de THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) y otros concursos similares.
 
 | Concurso No. | Canción remezclada | ![Gold crown][GCrown] (Ganador general) | ![Silver crown][SCrown] (Subcampeón general) | Ganador de la votación de la comunidad | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | [Kuba Oms - My Love](https://osu.ppy.sh/beatmaps/artists/13) | extremely valid (::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471), ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), and ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494), ::{ flag=UA }:: [wajinshu](https://osu.ppy.sh/users/6339790), ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), and ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046), ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223), ::{ flag=CA }:: [Chompy](https://osu.ppy.sh/users/7427035), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), and ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911)) | [#1](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
-### Lo mejor de/Elección de la comunidad
+### Best of/Community Choice
 
-El concurso **Lo mejor de/Elección de la comunidad** es un concurso de votación pública que se lleva a cabo anualmente para determinar los mapas más populares <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> a los ojos de la comunidad de osu! en cada año dado.
+**Best of/Community Choice** es un concurso de votación pública que se lleva a cabo anualmente para determinar los mapas más populares <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> a los ojos de la comunidad de osu! en cada año dado.
 
-En su lanzamiento, el concurso fue nombrado "Mejor de", ya que la premisa inicial y la expectativa del concurso era animar a los miembros de la comunidad a votar por los que consideran "los mejores mapas del año"; sin embargo, a medida que la base de jugadores del juego siguió creciendo en número con el tiempo, el concurso inevitablemente se convirtió cada vez más en un concurso de popularidad cada año, lo que provocó que el concurso se relanzara como "Elección de la comunidad" en 2017.
+En su lanzamiento, el concurso fue nombrado "Best of", ya que la premisa inicial y la expectativa del concurso era animar a los miembros de la comunidad a votar por los que consideran "los mejores mapas del año"; sin embargo, a medida que la base de jugadores del juego siguió creciendo en número con el tiempo, el concurso inevitablemente se convirtió cada vez más en un concurso de popularidad cada año, lo que provocó que el concurso se relanzara como "Community Choice" en 2017.
 
 | Año | Modo | ![Gold crown][GCrown] (osu!) | ![Gold crown][GCrown] (osu!taiko) | ![Gold crown][GCrown] (osu!catch) | ![Gold crown][GCrown] (osu!mania) | Resultados |
 | :-: | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -156,9 +156,9 @@ En su lanzamiento, el concurso fue nombrado "Mejor de", ya que la premisa inicia
 | [2019](https://osu.ppy.sh/home/news/2020-01-23-community-choice-2019-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117) alojado por ::{ flag=CN }:: [Awaken](https://osu.ppy.sh/users/1380253) | [Nog - Aether Ritual](https://osu.ppy.sh/beatmapsets/928431) alojado por ::{ flag=BR }:: [Kqrth](https://osu.ppy.sh/users/4115718) | [Chroma - I](https://osu.ppy.sh/beatmapsets/944317) alojado por ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/919633) alojado por ::{ flag=SG }:: [riunosk](https://osu.ppy.sh/users/5594381) | [#1](https://osu.ppy.sh/home/news/2020-02-10-community-choice-2019-results) |
 | [2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size)](https://osu.ppy.sh/beatmapsets/1147361) alojado por ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | [Calliope Mori - Excuse My Rudeness, but Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1278695) alojado por ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | [Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1151836) alojado por ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1034114) alojado por ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) | [#1](https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results) |
 
-### Concurso de Fan Art
+### Fan Art Contest
 
-El **Concurso de Fan Art** es un concurso de dibujo donde los artistas participantes de la comunidad son desafiados a crear el mejor fan art para osu! involucrando a [las mascotas de osu!](/wiki/Mascots) a través de varios temas y conceptos artísticos.
+**Fan Art Contest** es un concurso de dibujo donde los artistas participantes de la comunidad son desafiados a crear el mejor fan art para osu! involucrando a [las mascotas de osu!](/wiki/Mascots) a través de varios temas y conceptos artísticos.
 
 | Concurso No. | Tema | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -195,9 +195,9 @@ El **Concurso de Fan Art** es un concurso de dibujo donde los artistas participa
 | [#31 (Primavera 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | Un lugar para pertenecer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
 | [#32 (Concurso de Arte del 15º Aniversario)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
-### Concurso de Planos de Mapas de osu!
+### osu! Beatmap Blueprints Contest
 
-El *Concurso de planos de mapas de osu!* es un concurso único que se lleva a cabo en conmemoración del lanzamiento de los [Planos de mapa](https://osu.ppy.sh/store/products/9) en la [osu!store](https://osu.ppy.sh/store/listing). En este concurso, los usuarios participantes compitieron para crear el mejor plano de un mapa en cualquier medio visual utilizando todos los recursos proporcionados en el paquete de los planos de mapa.
+*osu! Beatmap Blueprints Contest* es un concurso único que se lleva a cabo en conmemoración del lanzamiento de los [Planos de mapa](https://osu.ppy.sh/store/products/9) en la [osu!store](https://osu.ppy.sh/store/listing). En este concurso, los usuarios participantes compitieron para crear el mejor plano de un mapa en cualquier medio visual utilizando todos los recursos proporcionados en el paquete de los planos de mapa.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -225,18 +225,18 @@ El *Concurso de planos de mapas de osu!* es un concurso único que se lleva a ca
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
-### [Concurso de Skinning](Skinning_Contest)
+### [Skinning Contest](Skinning_Contest)
 
-El **Concurso de Skinning** es un concurso de skinning en el que los creadores artísticos de toda la comunidad compiten para crear la mejor skin en un tiempo limitado.
+**Skinning Contest** es un concurso de skinning en el que los creadores artísticos de toda la comunidad compiten para crear la mejor skin en un tiempo limitado.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) por ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) por ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) por ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) por ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) por ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 
-### [Cuestionario de osu!trivia](osu!trivium_Quiz)
+### [osu!trivium Quiz](osu!trivium_Quiz)
 
-El **Cuestionario de osu!trivia** es un concurso de trivia en el que los jugadores compiten para responder preguntas de trivia difíciles relacionadas con osu!.
+**osu!trivium Quiz** es un concurso de trivia en el que los jugadores compiten para responder preguntas de trivia difíciles relacionadas con osu!.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -247,9 +247,9 @@ El **Cuestionario de osu!trivia** es un concurso de trivia en el que los jugador
 
 *Los concursos no oficiales* son concursos organizados por los miembros de la comunidad.
 
-### [Mapeo para Complacer: Taiko](M2P)
+### [Mapping to Pander: Taiko](M2P)
 
-**Mapeo para complacer: Taiko** es una serie de concursos de mapeo de osu!taiko con dos características principales: solo hay un juez por iteración y los concursantes pueden mapear cualquier canción.
+**Mapping to Pander: Taiko** es una serie de concursos de mapeo de osu!taiko con dos características principales: solo hay un juez por iteración y los concursantes pueden mapear cualquier canción.
 
 El objetivo de este concurso es simple: los concursantes deben crear un mapa que complazca mejor al juez elegido para el concurso. Al juez no se le dará ningún criterio; dependerá de ellos cómo puntúen y clasifiquen las entradas, ya sea creando sus propios criterios, o simplemente ordenando los mapas de mejor a peor.
 
@@ -260,28 +260,28 @@ El objetivo de este concurso es simple: los concursantes deben crear un mapa que
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [#1](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
 | [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ::{ flag=AR }:: [paz08](https://osu.ppy.sh/users/9964420) | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | [#1](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
 
-### [Concurso de Storyboarding osb!](osb!_Storyboarding_Contest)
+### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
-El **Concurso de storyboarding osb!** es un concurso de storyboarding donde los storyboarders participantes compiten para crear el mejor storyboard. Este concurso está organizado por el banquete de storyboarders de osu!, la comunidad de storyboarding.
+**osb! Storyboarding Contest** es un concurso de storyboarding donde los storyboarders participantes compiten para crear la mejor storyboard. Este concurso está organizado por el banquete de storyboarders de osu!, la comunidad de storyboarding.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
-  ### [Campeonato Mundial de Mapeo de osu!](oBWC)
+  ### [osu! Beatmapping World Championship](oBWC)
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-El **Campeonato mundial de mapeo de osu!** es un concurso de mapeo por equipos en el que los equipos participantes formados por mapeadores del mismo país, región o incluso continente (hasta cierto punto) luchan entre sí con sus habilidades de mapeo en múltiples canciones y fases de mapeo. El concurso es conocido por hacer uso exclusivo de las canciones disponibles en la biblioteca de [Artista destacado](/wiki/People/Featured_Artists) durante su ejecución.
+**osu! Beatmapping World Championship** es un concurso de mapeo por equipos en el que los equipos participantes formados por mapeadores del mismo país, región o incluso continente (hasta cierto punto) luchan entre sí con sus habilidades de mapeo en múltiples canciones y fases de mapeo. El concurso es conocido por hacer uso exclusivo de las canciones disponibles en la biblioteca de [Artista destacado](/wiki/People/Featured_Artists) durante su ejecución.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: Francia ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), y ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Suecia ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), y [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), y [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: Reino Unido ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), y [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), y [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brasil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), y [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
-### [Enfrentamiento de Velocidad del Deslizador](SVS)
+### [Slider Velocity Showdown](SVS)
 
-El **Enfrentamiento de velocidad del deslizador** es un concurso de mapas de osu!taiko centrado en la creatividad y la innovación. Este concurso está abierto a cualquier persona que quiera poner a prueba sus músculos creativos, tanto si nunca ha colocado un punto heredado en su vida como si lleva años mapeando.
+**Slider Velocity Showdown** es un concurso de mapas de osu!taiko centrado en la creatividad y la innovación. Este concurso está abierto a cualquier persona que quiera poner a prueba sus músculos creativos, tanto si nunca ha colocado un punto heredado en su vida como si lleva años mapeando.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -290,7 +290,7 @@ El **Enfrentamiento de velocidad del deslizador** es un concurso de mapas de osu
 
 ### Pending Cup
 
-La **Pending Cup** es un concurso de mapas organizado anualmente por miembros destacados de la comunidad de mapeadores china. Cada año, el concurso presenta hasta tres canciones y/o categorías en las que los mapeadores de toda la comunidad pueden competir y enviar sus entradas.
+La **Pending Cup** es un concurso de mapeo organizado anualmente por miembros destacados de la comunidad de mapeadores china. Cada año, el concurso presenta hasta tres canciones y/o categorías en las que los mapeadores de toda la comunidad pueden competir y enviar sus entradas.
 
 Aunque la Pending Cup inicialmente estaba destinada principalmente a los miembros de la comunidad de habla china, desde entonces el concurso se ha ampliado para incorporar también entradas de otros mapeadores de todo el mundo.
 
@@ -359,7 +359,7 @@ Aunque la Pending Cup inicialmente estaba destinada principalmente a los miembro
 
 ### Newspaper Cup
 
-La **Newspaper Cup** es un concurso de mapas de naturaleza similar a la Pending Cup, pero con un énfasis mucho mayor en los mapeadores novatos. Al igual que con la Pending Cup, el concurso también lo llevan a cabo anualmente miembros destacados de la comunidad de mapeadores china y desde entonces ha pasado de ser un concurso que estaba especialmente destinado a los miembros de la comunidad de habla china a un concurso a escala mundial.
+La **Newspaper Cup** es un concurso de mapeo de naturaleza similar a la Pending Cup, pero con un énfasis mucho mayor en los mapeadores novatos. Al igual que con la Pending Cup, el concurso también lo llevan a cabo anualmente miembros destacados de la comunidad de mapeadores china y desde entonces ha pasado de ser un concurso que estaba especialmente destinado a los miembros de la comunidad de habla china a un concurso a escala mundial.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
@@ -410,15 +410,15 @@ La **Newspaper Cup** es un concurso de mapas de naturaleza similar a la Pending 
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-### Concurso de mapeo de la comunidad rusa
+### Russian Community Beatmapping Contest
 
-El **Concurso de mapeo de la comunidad rusa** es un concurso de mapeo para miembros de la comunidad de habla rusa sin restricciones específicas de país, lo que significa que cualquiera que pueda hablar ruso puede participar.
+**Russian Community Beatmapping Contest** es un concurso de mapeo para miembros de la comunidad de habla rusa sin restricciones específicas de país, lo que significa que cualquiera que pueda hablar ruso puede participar.
 
 | Concurso No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Link](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
-| [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Link](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
-| [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Link](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
+| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Enlace](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
+| [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Enlace](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Enlace](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
 
 ## Notas
 
