@@ -111,41 +111,12 @@ The winning beatmap (from the game mode with the highest submission count) will 
 
 Just like prizes, judges for this contest are separated by mode:
 
-#### osu! judges
-
-  - ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)
-  - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-  - ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
-  - ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
-  - ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419)
-  - ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802)
-  - ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
-  - ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498)
-  - ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172)
-  - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
-  - ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515)
-
-#### osu!taiko judges
-
-  - ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851)
-  - ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-  - ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
-  - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
-
-#### osu!catch judges
-
-  - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
-  - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
-  - ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776)
-  - ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
-
-#### osu!mania judges
-
-  - ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872)
-  - ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229)
-  - ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
-  - ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-  - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
+| Game mode | Judges |
+| :-- | :-- |
+| osu! | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316), ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802), ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551), ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498), ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172), ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) |
+| osu!taiko | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| osu!catch | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
+| osu!mania | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |
 
 ### Community vote
 
