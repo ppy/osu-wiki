@@ -53,6 +53,7 @@ The osu!catch World Cup 2023 is run by various community members.
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBYHOykPfOx6doMljKcQfjyrXmdVjEflIV2hpHJpH1uoDhk7OpE84QHIYG0oO8MytJ4RtrME9qJ_JF/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/CWC_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/115) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
 
@@ -141,7 +142,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 - No Mod
   1. [nakotanmaru & PIKASONIC - Undersea Train (Sololiquy) \[Sink\]](https://osu.ppy.sh/beatmapsets/1992656#fruits/4140556)
   2. [MYTHOLOGIA by MLREC. - Ymir (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1992652#fruits/4140549)
-  3. [ACE+ - You Will Know Our Names (JierYagtama) (JierYagtama) \[Xenocatch Chronicles\] *(temporary link)*](https://leoflt.com/s/pUea)
+  3. [ACE+ - You Will Know Our Names (JierYagtama) \[Xenocatch Chronicles\]](https://osu.ppy.sh/beatmapsets/1992787#fruits/4140819)
   4. [kessoku band - Seishun Complex (\_kotachi\_) \[otudou's Extra\]](https://osu.ppy.sh/beatmapsets/1863866#osu/3864073)
 - Hidden
   1. [MYUKKE. - OTTAMA GAZER (ZiRoX) \[Otter Looking For The Stars\]](https://osu.ppy.sh/beatmapsets/1992657#fruits/4140557)
