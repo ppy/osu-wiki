@@ -1,13 +1,19 @@
 ---
-outdated_since: 493d88b30b27a6949753ec22554df2f78e989ef9
-outdated_translation: true
+no_native_review: true
 tags:
   - leadin
   - lead in
+  - AudioLeadIn
 ---
 
 # Lead-in
 
-*Voir aussi : [Offset (désambiguïsation)](/wiki/Offset)*
+*Voir également : [Offset](/wiki/Offset)*
 
-Le **lead-in** est une période de silence de trois secondes qui est occasionnellement insérée au début d'une [beatmap](/wiki/Beatmap). Cela permet aux joueurs d'avoir le temps de réagir aux [objets](/wiki/Gameplay/Hit_object) qui arrivent si le créateur les a placés près du début de la musique.
+Le **lead-in** est le temps que le jeu donne aux joueurs pour réagir avant le premier [objet](/wiki/Gameplay/Hit_object) d'une [beatmap](/wiki/Beatmap). Ceci peut être personnalisé par les [mappers](/wiki/Beatmapping) en éditant le champ `AudioLeadIn` dans le [fichier `.osu`](/wiki/Client/File_formats/Osu_(file_format)) d'une [difficulté de beatmap](/wiki/Beatmap/Difficulty) qui contient la durée du lead-in en milisecondes.
+
+## Comportement
+
+Le temps d'approche minimum automatiquement utilisé par osu! est de 1,8 secondes. Avec l'[approach rate](/wiki/Beatmap/Approach_rate) le plus bas, soit de 0. C'est le temps pendant lequel un objet est visible avant qu'il ne doive être touché. Toute [storyboard](/wiki/Storyboard) ou vidéo jouée avant le premier objet peut prolonger le délai d'attente.
+
+L'utilisation du lead-in personnalisé est requise par les [critères de classement](/wiki/Ranking_Criteria#général) dans le cas où la beatmap contient un avertissement d'épilepsi qui couvre les premiers objets.
