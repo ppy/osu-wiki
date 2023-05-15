@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # 互联网中继聊天
 
 *如果要了解更多，请参见[互联网中继聊天](https://zh.wikipedia.org/wiki/IRC)*
