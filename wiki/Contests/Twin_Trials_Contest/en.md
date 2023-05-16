@@ -11,7 +11,7 @@ Submissions to the beatmapping phase include:
 - A team of 2 participants.
 - A beatmap spread of 5 difficulties (Easy/Normal/Hard/Insane/Expert) using one of the 5 pre-selected songs by James Landino in **any game mode**.
 
-The storyboarding phase will be revealed after the beatmapping phase ends.
+The storyboarding phase will be revealed in the near future.
 
 ## Contest schedule
 
@@ -20,14 +20,14 @@ The storyboarding phase will be revealed after the beatmapping phase ends.
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2023-02-01 |
-| Submission | 2023-02-01 to 2023-03-15 |
-| Judging | 2023-03-15 to 2023-04-05 |
-| Community vote and lazer playlists | 2023-04-10 to 2023-04-24 |
-| Results | 2023-05-01 |
+| Submission | 2023-02-01/2023-03-15 |
+| Judging | 2023-03-15/2023-04-05 |
+| Community vote and lazer playlists | 2023-04-10/2023-04-24 |
+| Results | 2023-05-15 |
 
 ### Storyboarding phase
 
-The storyboarding phase schedule will be revealed after the beatmapping phase ends.
+The storyboarding phase schedule will be revealed in the near future.
 
 ## Links
 
@@ -36,7 +36,9 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
   - [osu!taiko](https://osu.ppy.sh/community/contests/167)
   - [osu!catch](https://osu.ppy.sh/community/contests/168)
   - [osu!mania](https://osu.ppy.sh/community/contests/169)
-- [Contest announcement](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) (beatmapping phase)
+- [Beatmapping phase announcement](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase)
+- [Beatmap voting announcement](https://osu.ppy.sh/home/news/2023-04-17-twin-trials-beatmap-voting-phase)
+- [Beatmapping phase results](https://osu.ppy.sh/home/news/2023-05-15-results-twin-trials-beatmapping-phase)
 
 ## Teams
 
@@ -109,41 +111,12 @@ The winning beatmap (from the game mode with the highest submission count) will 
 
 Just like prizes, judges for this contest are separated by mode:
 
-#### osu! judges
-
-  - ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)
-  - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-  - ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
-  - ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
-  - ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419)
-  - ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802)
-  - ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
-  - ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498)
-  - ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172)
-  - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
-  - ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515)
-
-#### osu!taiko judges
-
-  - ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851)
-  - ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-  - ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
-  - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
-
-#### osu!catch judges
-
-  - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
-  - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
-  - ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776)
-  - ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
-
-#### osu!mania judges
-
-  - ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872)
-  - ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229)
-  - ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
-  - ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-  - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
+| Game mode | Judges |
+| :-- | :-- |
+| osu! | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316), ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802), ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551), ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498), ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172), ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) |
+| osu!taiko | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| osu!catch | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
+| osu!mania | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |
 
 ### Community vote
 
@@ -177,3 +150,86 @@ The storyboarding phase prizes will be announced after the beatmapping phase end
 - **Submissions must not be Qualified until after the community vote ends.**
 - **Each team cannot create more than one submission per game mode.**
 - **A user cannot participate in more than one team per game mode.**
+
+## Results
+
+Each of the 5 difficulties had its own judging category, aiming to evaluate its overall quality. The point distribution was weighted according to each difficulty's complexity:
+
+| Difficulty | Max points |
+| :-- | :-- |
+| Easy | 8 |
+| Normal | 9 |
+| Hard | 10 |
+| Insane | 11 |
+| Expert | 12 |
+
+The following categories were evaluated across all difficulties in a submission:
+
+| Judgement category | Max points | Description |
+| :-- | :-- | :-- |
+| Musical representation | 20 | How the beatmap expresses the song through overall structure, patterning, and hitsounding (if relevant to the game mode) |
+| Creativity | 20 | How innovative the beatmap is relative to other submissions and the game mode's general mapping practices |
+| Judges' impression | 10 | General impression and anything else of note in a submission that does not fit existing categories |
+
+### osu!
+
+| Rank | Team | Map | Musical rep. | Creativity | Impression | E | N | H | I | X | Total |
+| :-: | :-- | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 1 | [PepeBusinessCorp](https://mappersguild.com/contests/results?submission=64123a2c146d25b6715501e3) | [#1](https://osu.ppy.sh/beatmapsets/1971987) | 161 | 166 | 56 | 79 | 53 | 76 | 99 | 97 | **787** |
+| 2 | [blacklist international](https://mappersguild.com/contests/results?submission=64123a2c146d25b6715501db) | [#1](https://osu.ppy.sh/beatmapsets/1971997) | 158 | 157 | 75 | 63 | 63 | 73 | 84 | 99 | **772** |
+| 3 | [Harvard Dropouts™](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501bb) | [#1](https://osu.ppy.sh/beatmapsets/1972749) | 159 | 151 | 74 | 63 | 63 | 68 | 82 | 96 | **756** |
+| 4 | [bulochki k chayu](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501c3) | [#1](https://osu.ppy.sh/beatmapsets/1972171) | 158 | 142 | 71 | 59 | 64 | 75 | 87 | 91 | **747** |
+| 5 | [Imperishable Night](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501cb) | [#1](https://osu.ppy.sh/beatmapsets/1972104) | 145 | 140 | 70 | 54 | 61 | 75 | 78 | 87 | **710** |
+| 6 | [Eye of Aeon](https://mappersguild.com/contests/results?submission=64123a2c146d25b6715501e7) | [#1](https://osu.ppy.sh/beatmapsets/1972126) | 142 | 115 | 59 | 53 | 56 | 72 | 85 | 83 | **665** |
+| 7 | [dönerbuden bande](https://mappersguild.com/contests/results?submission=64123a2c146d25b6715501d7) | [#1](https://osu.ppy.sh/beatmapsets/1971983) | 148 | 136 | 65 | 32 | 50 | 64 | 74 | 82 | **651** |
+| 8 | [Twin-Tails](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501bf) | [#1](https://osu.ppy.sh/beatmapsets/1972202) | 130 | 131 | 54 | 51 | 56 | 61 | 84 | 76 | **643** |
+| 9 | [Salute, bebra](https://mappersguild.com/contests/results?submission=64254979ba751857a432b4ad) | [#1](https://osu.ppy.sh/beatmapsets/1973571) | 114 | 127 | 51 | 52 | 54 | 58 | 71 | 75 | **602** |
+| 10 | [Nightcord at Various Times](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501cf) | [#1](https://osu.ppy.sh/beatmapsets/1972105) | 108 | 110 | 44 | 46 | 41 | 55 | 58 | 61 | **523** |
+| 11 | [FUMO 20 GRAMMI IN 10 SEC CAR](https://mappersguild.com/contests/results?submission=64123a2c146d25b6715501df) | [#1](https://osu.ppy.sh/beatmapsets/1972425) | 110 | 89 | 40 | 49 | 50 | 55 | 58 | 62 | **513** |
+| 12 | [nilou mains](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501d3) | [#1](https://osu.ppy.sh/beatmapsets/1972507) | 105 | 104 | 43 | 36 | 46 | 52 | 59 | 62 | **507** |
+| 13 | [Double Trouble](https://mappersguild.com/contests/results?submission=64123a2b146d25b6715501c7) | [#1](https://osu.ppy.sh/beatmapsets/1972412) | 59 | 55 | 19 | 24 | 21 | 28 | 27 | 32 | **265** |
+
+### osu!taiko
+
+| Rank | Team | Map | Musical rep. | Creativity | Impression | E | N | H | I | X | Total |
+| :-: | :-- | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 1 | [Frozen Bananas](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550260) | [#1](https://osu.ppy.sh/beatmapsets/1972268) | 61 | 68 | 29 | 25 | 29 | 34 | 34 | 36 | **316** |
+| 2 | [meow](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550274) | [#1](https://osu.ppy.sh/beatmapsets/1975181) | 65 | 66 | 30 | 21 | 29 | 28 | 33 | 41 | **313** |
+| 3 | [Playing Counter Strike: Global Offensive](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550270) | [#1](https://osu.ppy.sh/beatmapsets/1972018) | 65 | 59 | 29 | 22 | 24 | 33 | 34 | 36 | **302** |
+| 4 | [we spent one discord message thinking of this teamname](https://mappersguild.com/contests/results?submission=64123a4d146d25b67155026c) | [#1](https://osu.ppy.sh/beatmapsets/1971951) | 64 | 50 | 28 | 23 | 24 | 32 | 33 | 35 | **289** |
+| 5 | [-w-)b](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550264) | [#1](https://osu.ppy.sh/beatmapsets/1972219) | 62 | 55 | 25 | 26 | 24 | 26 | 32 | 33 | **283** |
+| 6 | [Printemps](https://mappersguild.com/contests/results?submission=64123a4d146d25b671550268) | [#1](https://osu.ppy.sh/beatmapsets/1975991) | 59 | 48 | 22 | 15 | 22 | 22 | 29 | 31 | **248** |
+
+### osu!catch
+
+| Rank | Team | Map | Musical rep. | Creativity | Impression | E | N | H | I | X | Total |
+| :-: | :-- | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 1 | [:moyai:](https://mappersguild.com/contests/results?submission=64123a57146d25b67155028d) | [#1](https://osu.ppy.sh/beatmapsets/1972145) | 66 | 52 | 28 | 25 | 30 | 31 | 33 | 39 | **304** |
+| 2 | [Alien Tails](https://mappersguild.com/contests/results?submission=64123a57146d25b671550289) | [#1](https://osu.ppy.sh/beatmapsets/1972368) | 60 | 61 | 28 | 25 | 28 | 24 | 29 | 38 | **293** |
+| 3 | [Team name](https://mappersguild.com/contests/results?submission=64123a57146d25b671550295) | [#1](https://osu.ppy.sh/beatmapsets/1972394) | 59 | 59 | 26 | 21 | 16 | 27 | 32 | 37 | **277** |
+| 4 | [Catch the AFK](https://mappersguild.com/contests/results?submission=64123a57146d25b671550291) | [#1](https://osu.ppy.sh/beatmapsets/1972031) | 35 | 36 | 10 | 11 | 11 | 6 | 16 | 26 | **151** |
+
+### osu!mania
+
+| Rank | Team | Map | Musical rep. | Creativity | Impression | E | N | H | I | X | Total |
+| :-: | :-- | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 1 | [PrtSc](https://mappersguild.com/contests/results?submission=64123a72146d25b6715502ca) | [#1](https://osu.ppy.sh/beatmapsets/1972242) | 88 | 82 | 39 | 36 | 38 | 40 | 48 | 51 | **422** |
+| 2 | [The Wolf and the Fox](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502aa) | [#1](https://osu.ppy.sh/beatmapsets/1972034) | 81 | 84 | 35 | 33 | 32 | 46 | 47 | 53 | **411** |
+| 3 | [Petmalu](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502be) | [#1](https://osu.ppy.sh/beatmapsets/1972411) | 86 | 75 | 37 | 34 | 36 | 43 | 46 | 50 | **407** |
+| 4 | [Olsen's Shipmates](https://mappersguild.com/contests/results?submission=64123a72146d25b6715502ce) | [#1](https://osu.ppy.sh/beatmapsets/1972324) | 84 | 64 | 31 | 34 | 40 | 39 | 42 | 46 | **380** |
+| 5 | [The Furries Are Mitosising](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502c2) | [#1](https://osu.ppy.sh/beatmapsets/1971949) | 77 | 74 | 34 | 29 | 34 | 37 | 41 | 51 | **377** |
+| 6 | [why are we here](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502ba) | [#1](https://osu.ppy.sh/beatmapsets/1974129) | 78 | 71 | 33 | 34 | 37 | 37 | 40 | 46 | **376** |
+| 7 | [pishifat](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502ae) | [#1](https://osu.ppy.sh/beatmapsets/1972413) | 80 | 82 | 32 | 22 | 26 | 36 | 45 | 46 | **369** |
+| 8 | ["world cup"](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502b6) | [#1](https://osu.ppy.sh/beatmapsets/1972607) | 73 | 77 | 27 | 32 | 32 | 38 | 43 | 43 | **365** |
+| 9 | [Ppassapgosu](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502c6) | [#1](https://osu.ppy.sh/beatmapsets/1972919) | 73 | 69 | 28 | 32 | 34 | 39 | 40 | 46 | **361** |
+| 10 | [IceDynamix](https://mappersguild.com/contests/results?submission=64123a71146d25b6715502b2) | [#1](https://osu.ppy.sh/beatmapsets/1972310) | 66 | 68 | 29 | 32 | 34 | 30 | 39 | 45 | **343** |
+
+### osu!(lazer) playlist leaders
+
+|  | ![](/wiki/shared/mode/osu.png) osu! | ![](/wiki/shared/mode/taiko.png) osu!taiko | ![](/wiki/shared/mode/catch.png) osu!catch | ![](/wiki/shared/mode/mania.png) osu!mania |
+| :-- | :-- | :-- | :-- | :-- |
+| **Easy playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=VN }:: [\[ Primakien \]](https://osu.ppy.sh/users/23941998) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Normal playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Hard playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=TR }:: [Yasinnnnnn](https://osu.ppy.sh/users/17482520) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Insane playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Expert playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |

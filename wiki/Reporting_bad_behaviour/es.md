@@ -27,21 +27,21 @@ El mal comportamiento en el chat es la infracción más común. Para reportarlo,
 La sintaxis del comando tiene dos formas:
 
 ```
-!report username
-!report username (descripción de forma libre sigue)
+!report nombre de usuario
+!report nombre de usuario (a continuación se incluye una descripción de formato libre)
 ```
 
 Si hay espacios en el nombre de usuario, reemplácelos con guiones bajos:
 
 ```
-!report bad_user spamming in #osu
+!report bad_user spam en #osu
 ```
 
 ### Superposición en el juego
 
-![](img/report-user-1.png "Menú de acciones del usuario con el botón de reporte")
+![](img/report-user-1-ES.png "Menú de acciones del usuario con el botón de reporte")
 
-![](img/report-user-2.png "Diálogo de reporte en el juego")
+![](img/report-user-2-ES.png "Diálogo de reporte en el juego")
 
 Esta opción funciona si el usuario infractor está a la vista:
 
@@ -52,16 +52,16 @@ Esta opción funciona si el usuario infractor está a la vista:
 
 ### Perfil de usuario
 
-![](img/report-user-profile.png "El botón de reporte en una página de perfil")
+![](img/report-user-profile-ES.png "El botón de reporte en una página de perfil")
 
-![](img/report-user-web.png "Diálogo de reporte en el sitio web")
+![](img/report-user-web-ES.png "Diálogo de reporte en el sitio web")
 
 1. Pulse el botón con tres puntos verticales y seleccione `Reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
 ### Foro
 
-![](img/report-user-forum.png "El botón de reporte en una publicación del foro")
+![](img/report-user-forum-ES.png "El botón de reporte en una publicación del foro")
 
 1. Pase el cursor sobre la publicación.
 2. En una fila de botones que aparecen en la esquina superior derecha de la publicación, haga clic en el botón con una señal de advertencia.
@@ -69,28 +69,28 @@ Esta opción funciona si el usuario infractor está a la vista:
 
 ### Sección de comentarios
 
-![](img/report-user-comment.png "El botón de reporte en un comentario del sitio web")
+![](img/report-user-comment-ES.png "El botón de reporte en un comentario del sitio web")
 
 1. Debajo del comentario, haga clic en el enlace `reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
-### Beatmap
+### Mapa
 
-![](img/report-beatmap.png "El botón de reporte en una página de beatmap")
+![](img/report-beatmap.png "El botón de reporte en una página de mapa")
 
 1. Pulse el botón con tres puntos verticales y seleccione `Reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
-### Discusión del beatmap
+### Discusión del mapa
 
-![](img/report-user-discussion.png "El botón de reporte en una publicación de discusión")
+![](img/report-user-discussion-ES.png "El botón de reporte en una publicación de discusión")
 
 1. Debajo de la publicación de discusión, haga clic en el enlace `reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
 ### Listado de puntuaciones
 
-![](img/report-score-user.png "El botón de reporte en una puntuación máxima en el perfil de un usuario")
+![](img/report-score-user-ES.png "El botón de reporte en una puntuación máxima en el perfil de un usuario")
 
 #### Perfil del usuario
 
@@ -98,9 +98,9 @@ Esta opción funciona si el usuario infractor está a la vista:
 2. En el lado derecho de la puntuación, presione el botón con tres puntos verticales y seleccione `Reportar puntuación`.
 3. Seleccione la categoría y agregue detalles (opcional).
 
-#### Listado de puntuaciones de beatmap
+#### Listado de puntuaciones de mapa
 
-![](img/report-score-beatmap.png "El botón de reporte en una puntuación máxima en una lista de puntuaciones de un beatmap")
+![](img/report-score-beatmap-ES.png "El botón de reporte en una puntuación máxima en una lista de puntuaciones de un mapa")
 
 1. Pase el cursor sobre la puntuación.
 2. En el lado derecho de la puntuación, presione el botón con tres puntos verticales y seleccione `Reportar puntuación`.
