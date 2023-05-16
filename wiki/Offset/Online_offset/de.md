@@ -1,15 +1,20 @@
 ---
 tags:
   - online song offset
-outdated_translation: true
-outdated_since: c982b3d23c9577d6d0353a006ca6528771511319
 ---
 
 # Online-Offset
 
 *Für andere Bedeutungen, siehe [Offset](/wiki/Offset).*
 
-**Online-Offset** ist ein Versatz, der auf eine [Beatmap](/wiki/Beatmap) angewendet werden kann, nachdem sie [gerankt](/wiki/Beatmap/Category#ranked) wurde. Dies geschieht in der Regel, wenn eine Beatmap kleine Timing-Änderungen benötigt, um sie korrekt auf den Song abzustimmen. Das Online-Offset wird zum [universalen Offset](/wiki/Offset/Universal_offset) und zum [lokalen Offset](/wiki/Offset/Local_offset) des Spielers hinzuaddiert.
+**Online-Offset** ist ein Versatz, der auf eine [Beatmap](/wiki/Beatmap) angewendet werden kann, nachdem sie [gerankt](/wiki/Beatmap/Category#ranked) wurde. Dies geschieht in der Regel, wenn eine Beatmap kleine [Timing-Änderungen](/wiki/Beatmapping/Timing) benötigt, um sie korrekt auf den Song abzustimmen. Das Online-Offset wird zum [universalen Offset](/wiki/Offset/Universal_offset) und zum [lokalen Offset](/wiki/Offset/Local_offset) des Spielers hinzuaddiert.
+
+## Verhalten
+
+Das Online-Offset wird für einzelne falsch getimte Beatmaps von einem Webseitenadministrator oder einem Mitglied des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) manuell angepasst und von osu! zusammen mit den [Ranglisten](/wiki/Ranking) automatisch abgerufen. Ähnlich wie beim lokalen Offset werden alle Spielelemente relativ zur Audiospur um eine bestimmte Anzahl an Millisekunden verschoben:
+
+- **Negative** Werte lassen die Spielelemente **früher** erscheinen.
+- **Positive** Werte lassen die Spielelemente **später** erscheinen.
 
 Alle Online-Offsetwerte werden für später lokal abgespeichert. Dadurch können die Werte auch dann angewendet werden, wenn ein Spieler offline spielt, solange er beim Importieren oder Spielen der Beatmap vorher mit dem Internet verbunden war.
 

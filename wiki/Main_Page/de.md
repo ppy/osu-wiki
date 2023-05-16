@@ -125,7 +125,7 @@ osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entw
 
 Interagiere mit osu! durch andere Applikationen und Medien oder helfe bei seiner Entwicklung.
 
-[API](/wiki/osu!api) • [Bot-Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines) • [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Bot-Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines) • [osu! Discord-Server](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">

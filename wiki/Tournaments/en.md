@@ -44,7 +44,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=BR }:: Brazil |
 | [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=ID }:: Indonesia |
-| [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Germany |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
