@@ -296,4 +296,3 @@ Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artis
 ## 发音
 
 书面发音必须使用[汉语拼音方案](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/03/02/20150302165814246.pdf)。
-
