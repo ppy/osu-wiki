@@ -45,7 +45,7 @@
 
 - `1. 查看个人资料`：在网页中查看个人资料。
 - `2. 注销`：退出登录。退出登录后，游戏会提醒你再次登录。
-- `3. 修改头像`：在网页中打开[头像编辑页面](https://osu.ppy.-sh/home/account/edit#avatar)。
+- `3. 修改头像`：在网页中打开[头像编辑页面](https://osu.ppy.sh/home/account/edit#avatar)。
 - `4. 关闭`：关闭此对话框。
 
 ## 游玩菜单
@@ -65,8 +65,6 @@
 ![](img/multi-lobby-ZH.jpg "多人游戏大厅界面")
 
 联机大厅让你能与其他玩家一起游玩，可以合作也可以对抗。
-
-![](img/multi-room-ZH.jpg "房主视角的多人房间界面")
 
 ## 选歌界面
 
@@ -124,6 +122,7 @@
 | `成绩评级` | 谱面将会按获得的最高[评价](/wiki/Gameplay/Grade)分组。 |
 | `标题` | 谱面将会按标题首字母分组。 |
 | `在线收藏` | 只会显示你在线收藏的谱面。 |
+| `我做的图` | 只会显示你做的图（谱面制作者的用户名与你的相符）。 |
 | `Ranked 状态` | 谱面将会按状态分组：上架、待定、未提交、未知与社区喜爱。 |
 
 前五个分组方式在分组和排序选项下面的标签中可用。
@@ -159,6 +158,8 @@
 | :-: | :-- |
 | `artist` | 艺术家的名字 |
 | `creator` | 谱面制作者的名字 |
+| `title` | 歌曲名 |
+| `difficulty` | 谱面难度名 |
 | `ar` | [缩圈速度](/wiki/Beatmap/Approach_rate) |
 | `cs` | [圆圈大小](/wiki/Beatmap/Circle_size) |
 | `od` | [总体难度](/wiki/Beatmap/Overall_difficulty) |
@@ -250,91 +251,75 @@
 
 在这个界面，你可以应用模组（缩写为 “mods”）。一些模组会降低难度并且会应用分数倍增器降低你获得的分数。相反，一些模组会增加难度，但是会应用分数倍增器增加你获得的分数。最后，一些模组会更改你的游戏方式。例如 [Relax](/wiki/Gameplay/Game_modifier/Relax) 和 [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) 都属于这一类。
 
-把你的鼠标放在一个mod的图标上，可以看到它的效果的简短描述。点击一个图标来选择或取消选择那个mod。有些mod，比如Double Time，有多种变体;再次点击mod循环通过。分数乘数值显示你所选择的mod的乘数，对你的分数有综合影响。点击“重置所有mod”或按`1`取消当前选择的所有mod。点击`关闭`或按`2`或“`Esc`返回到歌曲选择界面。
+把光标放在模组的图标上，可以看到其效果的简短描述。点击一个图标来选择或取消选择此模组。有些模组（比如Double Time）有多种变体——再次点击模组可以在这些变体间循环。分数乘数值显示你所选择的所有模组对分数的影响。点击`重置所有 mod` 或按 `1` 取消选择所有模组。点击`关闭`或按 `2` 或 `Esc` 返回到歌曲选择界面。
 
-当您在Mod选择屏幕上时，您不能使用聊天窗口和扩展聊天窗口。此外，皮肤可以改变mods的文字和/或图标，但在游戏中的效果仍然是一样的。
+点击 `Random` 按钮或者按下 `F2` 让游戏**滚动所有谱面，然后随机选择一张**。
 
-点击`Random`按钮或者按下`F2`让游戏**随机滚动并从你的所有谱面中选择一张**，你不能在滚动结束前选择谱面。
-
-*注意：你可以通过按下`Shift`然后点击`Random`按钮或者`F2`来回到你随机选择前选中的谱面。*
+*注意：你可以按 `Shift` 然后点击 `Random` 按钮或者按 `F2` 来回到你随机选择前选中的谱面。*
 
 ![](img/beatmap-options-ZH.jpg "可以对谱面进行的操作")
 
-点击`Beatmap Options`按钮或按下`F3`或者右键谱面可以唤出**当前选中谱面的谱面菜单**。
+点击 `Beatmap Options` 按钮或按下 `F3` 或者右击谱面可以呼出**当前选中谱面的选项菜单**。
 
-- 按下`1`或者点击`管理收藏夹`按钮来打开收藏夹界面 - 在这里你可以管理先前存在的收藏，你也可以从收藏夹添加或者删除你当前选择的谱面。
-- 按下`2`或者点击`删除.....`来删除\[1\] 这个谱面集的所有谱面， \[2\] 只删除当前选择的谱面，或者 \[3\] 删除所有可见的谱面。
+- 按下 `1` 或者点击`管理收藏夹`按钮来打开收藏夹界面 - 在这里你可以管理先前存在的收藏，也可以从收藏夹添加或者删除你当前选择的谱面。
+- 按下 `2` 或者点击`删除......`来删除 \[1\] 当前选择的难度， \[2\] 当前选择的谱面集，或者 \[3\] 删除**所有可见的谱面**。
   - 注意被删除的谱面会被移动到回收站。
-- 按下`3`或者点击`从“未玩过的歌曲”中移除`将会标记这张未游玩谱面为游玩过了（也会更改颜色从粉红至橙色）。
-- 按下`4`或点击`清除本地成绩`会删除所有你在这张谱面上获得的分数。
-- 按下`5`或点击`编辑`将会在osu!编辑器打开当前谱面。
-- 按下`6`或按下`Esc`或点击`取消`会返回选歌界面。
+- 按下 `3` 或者点击`从“未玩过的歌曲”中移除`将会标记这张未游玩谱面为游玩过了（也会更改颜色从粉红至橙色）。
+- 按下 `4` 或点击`清除本地成绩`会删除你在此谱面上获得的所有分数记录。
+- 按下 `5` 或点击`编辑`将会在 osu! 的编辑器中打开当前谱面。
+- 按下 `6` 或按下 `Esc` 或点击`取消`会返回选歌界面。
 
 点击**你的用户面板**以唤出**用户选项**。
 
-点击 **[osu!粉饼](/wiki/Client/Interface/Cookie)** 来**游玩当前选择的谱面**
+点击 **[osu! 粉饼](/wiki/Client/Interface/Cookie)** 来**游玩当前选择的谱面**
 
 ## 结算界面
 
-### 成绩界面
+![](img/results-osu.jpg "osu! 的准确度显示")
 
-![](img/results-osu.jpg "osu!的Accuracy")
-
-这个是当你完成一个谱面之后等级界面。你可以通过下滑或者点击底部的按钮来查看你的在线结算结果。
-
-**注意：** 等级界面会随着自己使用的皮肤变化。
+这是在成功完成谱面之后显示的等级界面。可以通过下滑或者点击底部的按钮来查看在线结算结果。
 
 下面是其他游戏模式的成绩界面。
 
-![](img/results-taiko.jpg "osu!taiko的Accuracy")
+![](img/results-taiko.jpg "osu!taiko 的准确度显示")
 
-![](img/results-mania.jpg "osu!mania的Accuracy")
+![](img/results-mania.jpg "osu!mania 的准确度显示")
 
-![](img/results-catch.jpg "osu!catch的Accuracy")
+![](img/results-catch.jpg "osu!catch 的准确度显示")
 
 ### 在线排行榜
 
-![](img/extended-results-screen-ZH.jpg "osu!在线分数的参考")
+![](img/extended-results-screen-ZH.jpg "osu! 在线分数的参考例图")
 
-这是你的在线排行榜。你可以通过下滑或者点击底部的按钮来查看你的在线结果。你的本地分数榜通常将会显示你的名字和你的分数。
+这是你的在线排行榜，可以通过下滑或者点击底部的按钮来查看。你的本地分数榜通常将会显示你的名字和你的分数。
 
-1. 你的玩家信息榜。这里会显示你的[PP](/wiki/Performance_points)，全球排名，总分数，总体[准确度](/wiki/Gameplay/Accuracy)，和经验条。
-2. `存储回放到回放文件夹`：你可以稍后观看回放或者在本地排名中打开，或者在`Replays`文件夹中双击打开。
-3. `设置为线上最爱`：添加谱面到线上收藏，它位于你osu!个人资料界面的谱面下。
-4. 本地排行榜：你所有的分数都会保存在你的电脑上。要查看他们，转到[选歌界面](#选歌界面)，然后在左侧下拉栏点击`本地排行`。
-5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmap/Category#qualified)，[ranked](/wiki/Beatmap/Category#ranked)，或者[loved](/wiki/Beatmap/Category#loved))时可用。
-   1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Gameplay/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Gameplay/Game_modifier)。
-   2. `准确度`：你这次游玩的[精确度](/wiki/Gameplay/Accuracy#准确度)，只有新分数超过旧分数时才会计算。
-   3. `Max Combo`：你这次游玩时达到的最高Combo。
-   4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Gameplay/Score/Ranked_score)。
-   5. `总分数`：不考虑，因为它不会影响你的在线排名。
-   6. `Performance`：你在这次游玩获得的[未权重计算过的pp](/wiki/Performance_points#为什么我没有得到游玩一个谱面的所有pp)。
-6. `Overall Ranking`部分。也仅当谱面拥有在线排行榜时可用。
-   1. `整体`：你的世界排名。
-   2. `准确度`：你所有游玩过的图的[平均精确度](/wiki/Gameplay/Accuracy#准确度)。
-   3. `Max Combo`：你所有谱子中获得的最长的Combo。
-   4. [`Ranked分数`](/wiki/Gameplay/Score/Ranked_score)：你在每张Ranked图中最高分数的总和。
-   5. [`总分数`](/wiki/Gameplay/Score/Total_score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
-   6. `Performance`：你资料的总PP数
-7. 谱面的通过率和总游玩数
-8. 谱面评分。按你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。
-9. 返回选歌界面
+- \[1\] 玩家信息面板。这里会显示你的[表现分 (PP)](/wiki/Performance_points)、全球排名、总分数、总体[准确度](/wiki/Gameplay/Accuracy)和经验条。
+- \[2\] `存储回放到回放文件夹`：你稍后可以在本地排行榜中观看回放，也可以在 `Replays` 文件夹中双击打开。
+- \[3\] `设置为线上最爱`：添加谱面到线上收藏夹，它位于你 osu! 个人资料界面的`谱面`部分下方。
+- \[4\] 本地排行榜：你所有的分数都会保存在电脑上。要查看他们，转到[选歌界面](#选歌界面)，然后在排行榜上方的下拉菜单中点击`本地排行`。
+- \[5\] `谱面排名 (Beatmap Ranking)` 部分。仅当谱面拥有在线排行榜（处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或者[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态）时可用。你也需要在处于在线状态时查看，详情见下。
+- \[6\] `整体排名 (Overall Ranking)` 部分。仅当谱面拥有在线排行榜时可用。你也需要在处于在线状态时查看，详情见下。
+- \[7\] 谱面的总游玩数和通过率。
+- \[8\] 谱面评分。按你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。
+- \[9\] 点击返回选歌界面。
+
+---
+
+排名面板中的类别如下：
+
+| 类别 | 谱面排名 (Beatmap Ranking) | 整体排名 (Overall Ranking) |
+| :-: | :-- | :-- |
+| `整体 (Overall)` | 你在此谱面排行榜上的位置。请注意，也会显示使用[模组](/wiki/Gameplay/Game_modifier)的分数。 | 与世界上其他人相比，你的[全球排名](/wiki/Ranking#performance-points-ranking)。 |
+| [`准确度 (Accuracy)`](/wiki/Gameplay/Accuracy) | 游玩谱面时的准确度。只会在新分数超过旧分数时计算。 | 所有最好分数经加权后的平均准确度。 |
+| `最大连击数 (Max Combo)` | 此谱面中你获得的最大连击数。 | 所有已游玩谱面中获得的最大连击数。 |
+| [`排名分数 (Ranked Score)`](/wiki/Gameplay/Score/Ranked_score) | 你在这张谱面获得的[最好成绩](/wiki/Gameplay/Score/Ranked_score) | 你在所有已上架谱面中游玩获得分数的总和。每张谱面只计算一次。 |
+| [`总分数 (Total Score)`](/wiki/Gameplay/Score/Total_score) | 不考虑，因为不会影响你的在线排名。 | 与排名分数相同，但会计算 osu! 网站所有可用谱面的游玩分数，包括未游玩完整或失败的谱面。这会影响你的[等级](/wiki/Gameplay/Score/Total_score#Level). |
+| [`表现分 (Performance)`](/wiki/Performance_points) | 此次游玩获得的[未加权表现分](/wiki/Performance_points#为什么我不能获得一张谱面的所有表现分-(pp)？)值。 | 你的总表现分数，以及本次游玩获得的表现分数。 |
 
 ### 成就
 
+*主页面： [成就](/wiki/Medals)*
+
 ![](img/medal-unlock.jpg "解锁新成就")
 
-上图是获得成就的样子。
-
-1. 你在房间中的身份。这也会显示在你名字前面。
-2. 你的个人信息
-3. 音乐控制器
-4. 玩家列表 - 显示玩家的名字，他们的身份（房主或玩家），他们选择的[mods](wiki/ Gameplay/Game_modifier) （参见 #7），他们的osu!排名和他们的队伍（如可用）。
-5. 房间的名字和密码设定。
-6. 选中的谱面。应与在单人模式中相同的样式显示。
-7. 选中的[mods](/wiki/Gameplay/Game_modifier) （参见 #12），以及设置，叫做“Free Mods”的选项决定玩家是否能选择自己想使用的mods。如果启用，他们可以选择任组 合的mods*除了影响速度的模组，如[Double Time](/wiki/GameplayGame_modifier/ Double_Time)。如果禁用，则由房主来决定使用什么模组，房主可以用影响速度的mods不 论Free Mods是否开启。
-8. 分组方式和胜利条件，
-9. 准备按钮
-10. [聊天窗口](/wiki/Client/Interface/Chat_console)。
-11. 离开按钮。
-12. 你使用的mods。
+有时当满足特定条件时，你会获得新成就。
