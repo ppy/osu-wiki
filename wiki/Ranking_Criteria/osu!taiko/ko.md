@@ -2,7 +2,7 @@
 
 ***참고: 이 문서는 [일반 랭킹 크리테리아](/wiki/Ranking_Criteria)의 연장입니다.***
 
-이 **osu!taiko 랭킹 크리테리아** 문서는 [osu!taiko](/wiki/Game_mode/osu!taiko) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용어)을 제시합니다.
+이 **osu!taiko 랭킹 크리테리아** 문서는 [osu!taiko](/wiki/Game_mode/osu!taiko) 전용 [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용어)을 제시합니다.
 
 ## 용어
 
