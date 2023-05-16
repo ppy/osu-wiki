@@ -21,7 +21,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
   - 如果你之前已经创建好了分支，则按照[最好方法 § 同步分支 (fork)](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))来同步你的分支。
 
-2. 阅读[最好方法 § 做出改动](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)，并做出必需的编辑。你可以自由选择使用编辑的软件，但是 osu! wiki 已经为以下两种编辑方式提供了详细的指南：
+2. 阅读[最好方法 § 做出改动](/wiki/osu!_wiki/Contribution_guide/Best_practices#做出改动)，并做出必需的编辑。你可以自由选择使用编辑的软件，但是 osu! wiki 已经为以下两种编辑方式提供了详细的指南：
 
   - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
   - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
@@ -32,9 +32,9 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 - **客观描述**：osu! wiki 文章，除了特殊情况，必须使用中性语气。
 - **风格和语法**：文章应该简单易懂，不需要读者耗费大量脑力思考。保持前后描述一致，不要使用过于复杂或突兀的句子。使用带有内置拼写检查，可以检查拼写错误或语法错误的编辑器，例如 [Google 文档](https://docs.google.com)。
-- **[内容校验](/wiki/Article_styling_criteria/Writing#content-parity)**：翻译的文章应与原文章所提供的信息相同（可以使用不同的标点、措辞、排版）。如果你认为原文未完成，不准确或已过时，请不要在翻译文章内作出修改，而是应该在原文上[提出问题 (issue)](https://github.com/ppy/osu-wiki/issues/new) 或者提出新的拉取请求 (PR)。
+- **[内容校验](/wiki/Article_styling_criteria/Writing#内容校验)**：翻译的文章应与原文章所提供的信息相同（可以使用不同的标点、措辞、排版）。如果你认为原文未完成，不准确或已过时，请不要在翻译文章内作出修改，而是应该在原文上[提出问题 (issue)](https://github.com/ppy/osu-wiki/issues/new) 或者提出新的拉取请求 (PR)。
 - **结构和排版**：使用例如 [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) 等工具来预览你的文章，确保它们会按照预期显示。
-- **所有图像文件，以及其他非文本文件的大小** 必须[小于 1 MB](/wiki/Article_styling_criteria/Formatting#file-size)。用于描述的 osu! **截图**需要使用默认 osu! 皮肤，并做出[特定设置](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay)。且尺寸最大为 1280×720。
+- **所有图像文件，以及其他非文本文件的大小** 必须[小于 1 MB](/wiki/Article_styling_criteria/Formatting#文件大小)。用于描述的 osu! **截图**需要使用默认 osu! 皮肤，并做出[特定设置](/wiki/Article_styling_criteria/Formatting#游戏中截图)。且尺寸最大为 1280×720。
 
 如需完整的规则列表，请阅读[文章风格规范](/wiki/Article_styling_criteria)。不建议你一次性读完——审核员如果发现了需要改正的地方，也会提出相对应的规范的。
 
@@ -48,7 +48,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 ## 审查
 
-所有在 osu! wiki 上做出的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在拉取请求 (PR) 中编辑。和同行评审一样，你需要[应用他们的建议](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews)，或者解释你不想修改的原因。
+所有在 osu! wiki 上做出的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在拉取请求 (PR) 中编辑。和同行评审一样，你需要[应用他们的建议](/wiki/osu!_wiki/Contribution_guide/Best_practices#应用审核中提到的修改)，或者解释你不想修改的原因。
 
 如果一段时间内没有人检查你的文章，请尝试这样做：
 
