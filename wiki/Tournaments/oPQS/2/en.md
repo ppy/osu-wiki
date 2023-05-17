@@ -60,9 +60,33 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 ## Participants
 
 - Day 1
-  - ::{}:: []()
+  - ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596)
+  - ::{ flag=PH }:: [rwnd_](https://osu.ppy.sh/users/14916935)
+  - ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573)
+  - ::{ flag=PH }:: [xjfn](https://osu.ppy.sh/users/9326546)
+  - ::{ flag=PH }:: [Desmond823](https://osu.ppy.sh/users/14582737)
+  - ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269)
+  - ::{ flag=PH }:: [rexralph1](https://osu.ppy.sh/users/18499824)
+  - ::{ flag=PH }:: [Nyashwa](https://osu.ppy.sh/users/9834366)
+  - ::{ flag=PH }:: [Geanyl](https://osu.ppy.sh/users/10038631)
+  - ::{ flag=PH }:: [Buizie](https://osu.ppy.sh/users/4795670)
 - Day 2
-  - ::{}:: []()
+  - ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703)
+  - ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877)
+  - ::{ flag=PH }:: [LordGabriel](https://osu.ppy.sh/users/9227895)
+  - ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437)
+  - ::{ flag=PH }:: [-Myhra](https://osu.ppy.sh/users/2558163)
+  - ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246)
+  - ::{ flag=PH }:: [Segawa Emi](https://osu.ppy.sh/users/11865009)
+  - ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578)
+  - ::{ flag=PH }:: [OsuSeulgiDragon](https://osu.ppy.sh/users/6073492)
+  - ::{ flag=PH }:: [Blasy](https://osu.ppy.sh/users/15317621)
+  - ::{ flag=PH }:: [Kexrus](https://osu.ppy.sh/users/12634710)
+  - ::{ flag=PH }:: [okirema](https://osu.ppy.sh/users/12544805)
+  - ::{ flag=PH }:: [Ravel](https://osu.ppy.sh/users/15902214)
+  - ::{ flag=PH }:: [Dunn](https://osu.ppy.sh/users/7241691)
+  - ::{ flag=PH }:: [T-Spin-Double](https://osu.ppy.sh/users/8249051)
+  - ::{ flag=PH }:: [CasualHexagons](https://osu.ppy.sh/users/14104256)
 
 ## Mappool
 
