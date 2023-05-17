@@ -115,7 +115,7 @@ Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Sp
 
 Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forumsbeitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
-*Anmerkung: Die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber sie erstellt keinen `[spoilerbox]` Tag.*
+*Anmerkung: Die Schaltfläche der BBCode-Box in der Symbolleiste wird "Spoiler" genannt, aber sie erstellt kein `[spoiler]` oder `[spoilerbox]` Tag.*
 
 Schaltfläche in der Symbolleiste: ![Box-Button](img/spoilerbox.png "Box")
 
