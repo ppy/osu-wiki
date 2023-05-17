@@ -11,7 +11,7 @@ tags:
 
 ![oPQS banner](img/banner.png)
 
-The **osu! Philippines Quickfire Showdown 2023** (***OPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a is a Super Smash Bros.-styled Brawl format where each multiplayer room will have four players playing each other in a free-for-all (1v1v1v1) held on [CONQuest PH 2023](https://www.conquestph.com/). 
+The **osu! Philippines Quickfire Showdown 2023** (***OPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a LAN tournament featuring a Super Smash Bros.-styled Brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365) where each multiplayer room will have four players playing each other in a free-for-all (1v1v1v1) held on [CONQuest PH 2023](https://www.conquestph.com/).
 
 ## Tournament schedule
 
@@ -54,7 +54,6 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 ## Links
 
 - News article
-- Challonge
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
@@ -135,3 +134,5 @@ by the rolls whereas the highest roll being player 1 and the lowest player 4.
 - 8 maps will be played (2 picks by each player) and 1 tiebreaker.
 - Tiebreaker will always be played after all 8 maps have been played.
 - Mod usages are stipulated in the mappool; but in general, NoFail (NF) is forced for all matches.
+
+*Full tournament ruleset is found on the [Official Tournament Handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf)*
