@@ -1,12 +1,12 @@
-# Команда поддержки
+# Команда технической поддержки
 
-*Эта статья – о группе пользователей, помогающих на форумах. О службе поддержки, отвечающей на электронные письма по адресам `@ppy.sh`, см. [Служба техподдержки](/wiki/People/Account_support_team).*
+*Эта статья – о группе пользователей, помогающих на форумах. О службе поддержки, отвечающей на электронные письма по адресам `@ppy.sh`, см. [Служба поддержки](/wiki/People/Account_support_team).*
 
-**Команда поддержки** (иногда **Support Team Redux**) — группа пользователей, модерирующих следующие подфорумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
+**Команда технической поддержки** (англ. **Support Team Redux**) — группа пользователей, модерирующих следующие подфорумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Права и обязанности
 
-Команда поддержки отвечает за две вещи:
+Команда техподдержки отвечает за две вещи:
 
 1. Проверка и подтверждение сообщений об ошибках ([баг-репортов](https://ru.wikipedia.org/wiki/Программная_ошибка)), которые оставляют пользователи.
 2. Организация тем в подфорумах [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5), которые в итоге помечаются одним из следующих тегов: *Resolved* (решённая проблема), *Confirmed* (подтверждённая проблема), *Invalid* (некорректная жалоба), *Duplicate* (уже известная проблема) и/или *Added* (реализованная просьба).
@@ -17,7 +17,7 @@
 
 Актуальный список — всегда на странице группы: [команда поддержки](https://osu.ppy.sh/groups/22).
 
-*Примечание: помимо этого, каждый член команды поддержки знает английский язык, если не указано обратное.*
+*Примечание: помимо этого, каждый член команды техподдержки знает английский язык, если не указано обратное.*
 
 | Имя | Языки |
 | :-- | :-- |
