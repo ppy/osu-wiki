@@ -1,10 +1,3 @@
----
-outdated_translation: true
-outdated_since: 7076ff93d53765e07a3cfe9ff53bd92582ff540b
----
-
-<!--The imagemap button was added to the toolbar in osu-web#9972. When updating this article, keep in mind translating the new "Help" string on Crowdin and updating the editor.jpg file.-->
-
 # BBCode
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
@@ -64,6 +57,8 @@ Das Tag `[u]` wird benutzt, um mit Hilfe einer horizontalen Linie Text hervorzuh
 [strike]Text[/strike]
 ```
 
+*Anmerkung: Im Englischen wird "strikethrough", also durchgestrichen, auch als "strike" bezeichnet.*
+
 Das Tag `[strike]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichnung erfolgt durch eine horizontale Linie, die den Text durchstreicht.
 
 Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "Durchstreichen")
@@ -116,11 +111,11 @@ Text
 
 Das Tag `[box]` wird verwendet, um Texte und Bilder in einem anklickbaren Hyperlink zu verstecken. Beim Klicken wird der Inhalt in der Box ähnlich wie in einem Dropdown-Menü aufgedeckt.
 
-Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Spezifizierung dieses Arguments wird eine Überschrift in der Box anhand des Arguments erstellen und wird die Größe der Box entsprechend anpassen. Wenn die Spezifizierung nicht erfolgt, dann wird das Tag `[box]` standardmäßig eine Box ohne Überschrift erstellen (auf die nicht geklickt werden kann). Das Argument benutzt keine Anführungszeichen (`"`) und stellt Leerzeichen dar.
+Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Spezifizierung dieses Arguments wird eine Überschrift in der Box anhand des Arguments erstellen und wird die Größe der Box entsprechend anpassen. Wenn `NAME` nicht definiert wird, dann erstellt das Tag `[box]` eine Box ohne Überschrift. Das Argument benutzt keine Anführungszeichen (`"`) und stellt Leerzeichen dar.
 
 Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forumsbeitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
-*Anmerkung: die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber erstellt keinen `[spoilerbox]` Tag.*
+*Anmerkung: Die Schaltfläche der BBCode-Box in der Symbolleiste wird "Spoiler" genannt, aber sie erstellt kein `[spoiler]` oder `[spoilerbox]` Tag.*
 
 Schaltfläche in der Symbolleiste: ![Box-Button](img/spoilerbox.png "Box")
 
@@ -130,7 +125,7 @@ Schaltfläche in der Symbolleiste: ![Box-Button](img/spoilerbox.png "Box")
 [spoilerbox]Text[/spoilerbox]
 ```
 
-Eine *Spoilerbox* ist eine spezielle Art von BBCode-Box, die kein spezifizierbares Argument `NAME` hat. Der Name einer Spoilerbox wird immer als `SPOILER` angezeigt. Spoilerboxen haben ihr eigenes Tag (`[spoilerbox]`), aber sind funktional identisch zu BBCode-[Boxen](#box).
+Eine *Spoilerbox* ist eine spezielle Art von BBCode-Box, die kein spezifizierbares Argument `NAME` hat. Der Name einer Spoilerbox wird immer als `SPOILER` angezeigt. Spoilerboxen haben ihr eigenes Tag (`[spoilerbox]`), jedoch sind sie funktional identisch zu [BBCode-Boxen](#box).
 
 ### Zitat
 
@@ -140,7 +135,7 @@ Text
 [/quote]
 ```
 
-Das Tag `[quote]` wird benutzt, um lange Zitate stylistisch durch Einrückung, Färbung, Fettschrift und einer pinken vertikalen Linie zu formatieren. Der tatsächliche Inhalt des Zitats wird zwischen dem öffnenden und dem schließenden Tag platziert, während das Argument `NAME` den Autor des Zitats spezifiziert (das ist optional). Der Text innerhalb des Zitats stellt Leerzeichen und Zeilenumbrüche dar.
+Das Tag `[quote]` wird benutzt, um lange Zitate stilistisch durch Einrückung, Färbung, Fettschrift und einer pinken vertikalen Linie zu formatieren. Der tatsächliche Inhalt des Zitats wird zwischen dem öffnenden und dem schließenden Tag platziert, während das Argument `NAME` den Autor des Zitats spezifiziert (das ist optional). Der Text innerhalb des Zitats stellt Leerzeichen und Zeilenumbrüche dar.
 
 *Hinweis: Das Argument `NAME` muss zwischen Anführungszeichen (`"`) gesetzt werden.*
 
@@ -180,7 +175,7 @@ In den osu!-Foren werden Codeblöcke meistens verwendet, um Quellcode für ein [
 [centre]Text[/centre]
 ```
 
-Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es wird meistens für den stylistischen Effekt in Titeln, Überschriften oder Gedichten verwendet. Wenn Text innerhalb des Tags `[quote]` gesetzt wird, dann wird dieser innerhalb des Zitatblocks zentriert sein, aber die stylistischen Linien usw. werden es nicht.
+Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es wird meistens für den stilistischen Effekt in Titeln, Überschriften oder Gedichten verwendet. Wenn Text innerhalb des Tags `[quote]` gesetzt wird, dann wird dieser innerhalb des Zitatblocks zentriert sein, aber die stilistischen Linien usw. werden es nicht.
 
 ### URL
 
@@ -252,13 +247,30 @@ Obwohl Bilder von überall aus verlinkt werden können, empfiehlt osu!, dass Nut
 
 Schaltfläche in der Symbolleiste: ![Button für Bilder](img/image.png "Bild")
 
+### Imagemap
+
+```
+[imagemap]
+ADRESSE
+X Y BREITE HÖHE WEITERLEITUNG TITEL
+[/imagemap]
+```
+
+Das Tag `[imagemap]` wird verwendet, um einen oder mehrere Hyperlinks in Form von rechteckigen Bereichen in ein Bild zu integrieren.
+
+Das auf der Webseite eingebettete Bild wird durch das Argument `ADRESSE` dargestellt. Es muss direkt auf ein Bild verweisen, welches auf einer Webseite gehostet wird.
+
+Um einen anklickbaren Bereich hinzuzufügen, muss nach dem Argument `ADRESSE` eine Zeile mit der x- und y-Position des Bereichs, der Breite und Höhe des Bereichs sowie einem Link zur Weiterleitung eingefügt werden. Darüber hinaus wird der im optionalen Argument `TITEL` angegebene Text angezeigt, sobald der Mauszeiger über die Fläche bewegt wird. Im Argument `WEITERLEITUNG` kann ein Link angegeben oder mit einer Raute (`#`) weggelassen werden. Jede Größeneinheit (`X`, `Y`, `BREITE` und `HÖHE`) ist ein prozentualer Wert (0 bis 100) ohne das Prozentzeichen.
+
+Schaltfläche in der Symbolleiste: ![Button für Imagemap](img/imagemap.png "Imagemap")
+
 ### YouTube
 
 ```
 [youtube]VIDEO_ID[/youtube]
 ```
 
-Das Tag `[youtube]` wird verwendet um ein Video von [YouTube](https://youtube.com) auf der Webseite einzubetten. Für das Tag muss nur die Video-ID (**nicht** nicht die gesamte URL) zwischen den beiden Tags (repräsentiert durch das Argument `VIDEO_ID`) angegeben werden.
+Das Tag `[youtube]` wird verwendet, um ein Video von [YouTube](https://youtube.com) auf der Webseite einzubetten. Für das Tag muss nur die Video-ID (**nicht** nicht die gesamte URL) zwischen den beiden Tags (repräsentiert durch das Argument `VIDEO_ID`) angegeben werden.
 
 Eine YouTube-Video-ID ist in der URL eines Videos enthalten und ist die Zeichenkette von 11 Zeichen *direkt nach* `v=`.
 
@@ -268,7 +280,7 @@ Eine YouTube-Video-ID ist in der URL eines Videos enthalten und ist die Zeichenk
 [audio]URL[/audio]
 ```
 
-Das Tag `[audio]` wird benutzt um einen [HTML5](https://en.wikipedia.org/wiki/HTML5) Audioplayer einer Audioquelle auf der Webseite einzubinden. Audiodateien können von überall verlinkt werden, solange die Datei von einer angegebenen URL existiert. Lokale Dateipfade (z. B. `C:\Users\Name\Music\audio.mp3`) **werden nicht funktionieren**.
+Das Tag `[audio]` wird benutzt, um einen [HTML5](https://en.wikipedia.org/wiki/HTML5) Audioplayer einer Audioquelle auf der Webseite einzubinden. Audiodateien können von überall verlinkt werden, solange die Datei von einer angegebenen URL existiert. Lokale Dateipfade (z. B. `C:\Users\Name\Music\audio.mp3`) **werden nicht funktionieren**.
 
 *Vorsicht: Bitte sei dir bewusst, dass nicht alle Filesharing-Dienste das direkte Verlinken von Audiodateien auf Grund von Bedenken wegen Musikpiraterie erlauben. osu! ist nicht verantwortlich für jegliche Urheberrechtsverstöße durch Nutzer.*
 
@@ -316,7 +328,7 @@ Das Tag leitete Nutzer über ihren Account auf eine Google-Suche um. D. h., dass
 [lucky]Suchbegriff[/lucky]
 ```
 
-Das Tag `[lucky]` ist ein nicht mehr aktuelles Tag, das früher verwendet wurde, um in den osu!-Foren auf Googles `I'm Feeling Lucky` mit dem angegebenen Text zu verweisen. Die verlinkte Webseite ist aufgrund des Verhaltens des Buttons nicht dieselbe für alle.
+Das Tag `[lucky]` ist ein veraltetes Tag, das früher verwendet wurde, um in den osu!-Foren auf Googles `I'm Feeling Lucky` mit dem angegebenen Text zu verweisen. Die verlinkte Webseite ist aufgrund des Verhaltens des Buttons nicht dieselbe für alle.
 
 ### Überschrift (v2)
 
@@ -324,10 +336,11 @@ Das Tag `[lucky]` ist ein nicht mehr aktuelles Tag, das früher verwendet wurde,
 [text]
 ```
 
-Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den osu!-Foren benutzt wurde, um Text in eine schicker aussehende violette Überschrift mit einer horizontalen Linie zu formatieren. Das Tag hat nur in den Beatmap-Foren funktioniert und erschien nur nach der Beitragsveröffentlichung (nicht in der Vorschau). Es gab dafür keinen Button während die Überschrift zur Verfügung stand und wurde durch eine eine öffnende sowie schließende eckige Klammer (kein öffnendes sowie schließendes Tag) markiert.
+Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den osu!-Foren benutzt wurde, um Text in eine schicker aussehende violette Überschrift mit einer horizontalen Linie zu formatieren. Das Tag hat nur in den Beatmap-Foren funktioniert und erschien nur nach der Beitragsveröffentlichung (nicht in der Vorschau). Es gab dafür keinen Button während die Überschrift zur Verfügung stand und wurde durch eine öffnende sowie eine schließende eckige Klammer (kein öffnendes sowie schließendes Tag) markiert.
 
 ## Trivia
 
 - Dieser Wikiartikel wurde adaptiert aus dem Forumsbeitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
 - Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
+- Bevor das Tag `imagemap` hinzugefügt wurde, war es möglich, einen Hyperlink zu einem Bild hinzuzufügen, indem die Tags `url` und `img` kombiniert wurden. Jedoch kann nur ein Hyperlink pro Bild gesetzt werden. Dazu muss man das Originalbild in mehrere Teile zerschneiden (also für jeden Link ein Teilbild) und diese horizontal nebeneinander anordnen.
