@@ -4,7 +4,7 @@
 
 ## Memberikan kontribusi
 
-osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin memberikan kontribusi. Segala diskusi dan perencanaan osu!monthly dilangsungkan pada kanal `#osu-news` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) secara terbuka dan dapat diikuti oleh siapa saja.
+osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin memberikan kontribusi. Segala diskusi dan perencanaan osu!monthly dilangsungkan pada kanal `#osu-news` di [server Discord osu!](/wiki/Community/osu!_Discord_server) secara terbuka dan dapat diikuti oleh siapa saja.
 
 ## Sejarah
 
