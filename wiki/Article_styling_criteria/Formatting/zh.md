@@ -206,7 +206,7 @@ Markdown 文件必须使用 `LF` 行尾序列。
 
 ### 换行符
 
-只能使用反斜杠  (`\`) 作为换行符。
+只能使用反斜杠 (`\`) 作为换行符。
 
 谨慎使用换行符。
 
@@ -275,11 +275,11 @@ Markdown 文件必须使用 `LF` 行尾序列。
 ```markdown
 *Note: {note}.*
 
-*Notice: {notice}.*
+*注意： {notice}.*
 
-*Caution: {caution}.*
+*小心： {caution}.*
 
-*Warning: {warning}.*
+*警告： {warning}.*
 ```
 
 - `备注 (Note)` 用于描述事实或琐碎的细节。
@@ -292,8 +292,8 @@ Markdown 文件必须使用 `LF` 行尾序列。
 如有必要，可以将顶注和提示混用。若这样做，则必须紧密连接，并使用反斜杠换行。
 
 ```markdown
-*Warning: {warning}.*\
-*See also: {article}*
+*警告： {warning}.*\
+*另见： {article}*
 ```
 
 大多数情况下，将没有直接关系的顶注或提示分开并嵌入一段文字中，可能比混在一起用更合适。
