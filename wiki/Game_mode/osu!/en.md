@@ -8,31 +8,9 @@
 
 The first game mode and namesake which was based from the ouendan series.
 
-## What is "Ouendan"?
-
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
-
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
-
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
-
 ## ![](/wiki/shared/mode/osu.png) Gameplay
 
 *Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
-
-The gameplay puts emphasis on:
-
-- Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
-- Understanding of the song's beat and design.
-- Input device control.
-- Timing of hits on the object that appeared on the screen.
-- Ability to spin the mouse (or pen for tablet) on spinners.
-- Physical stamina and mental fortitude (especially longer, marathon-type songs).
-- Proper positioning and hand-eye coordination.
-
-These are some of the vital skills to become an *osu! rhythm champion*.
-
-The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as *hit objects* from here onwards).
 
 ### Song Selection
 
@@ -44,7 +22,7 @@ Alternatively, click on the `Mode` button and select `osu!`.
 
 #### Playfield
 
-![osu! interface](/wiki/shared/osu-gameplay.jpg "osu! Interface")
+![osu! playfield](/wiki/shared/osu-gameplay.jpg "osu! playfield")
 
 The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the health bar.
 
@@ -56,15 +34,15 @@ The number on the bottom left is the combo counter/score multiplier.
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
 
-A thin, similarly-coloured approach circle on the outside of the hit circle will shrink over time. Tap on the note at the exact point when it touches the white border of the hit circle. A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat. The hit circle will disappear after the score burst.
+Coloured circles with numbers on top of them, called hit circles, will appear on the playfield when playing. A thin, similarly-coloured [approach circle](wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. Tap on the hit circle at the exact point when the approach circle touches its white border. Note that you need to tap these hit circles in the order indicated by the number.
 
-To understand the hidden charm of hit circles, do not rely on perception only; feel the beatmap's beats and rhythm. It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
+A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat. The hit circle will disappear after the score burst.
 
 #### Sliders
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
 
-First, tap on it at the right moment, however, it does not end there. A ball will begin to move across the path. Hold the mouse/keyboard-button (or keep the pen onto the tablet) and follow the ball within the thick orange circle, surrounding the ball, as it moves. The orange outer circle, called the follow circle, will appear if when holding onto the slider's ball, but will disappear when released.
+First, tap on the circle at the beginning of the slider (also known as the [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead)) at the right moment. Once you tap on A ball will begin to move across the path. Hold the mouse/keyboard-button (or keep the pen onto the tablet) and follow the ball within the thick orange circle, surrounding the ball, as it moves. The orange outer circle, called the follow circle, will appear if when holding onto the slider's ball, but will disappear when released.
 
 Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa. The visual cue is a reverse arrow at the ending/starting circle of the path.
 
@@ -119,6 +97,14 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 *Refer to [Beatmapping page](/wiki/Beatmapping) for full information.*
 
 ## Trivia
+
+### What is "Ouendan"?
+
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
+
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
 
 ### Gameplay
 
