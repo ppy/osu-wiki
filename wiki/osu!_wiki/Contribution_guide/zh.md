@@ -12,7 +12,7 @@
 
 ## 编辑 wiki
 
-*对于标准的贡献过程，请参阅 [GitHub 工作流 - GitHub 文档](https://docs.github.com/en/get-started/quickstart/github-flow)*
+*对于标准的贡献过程，请参阅 [GitHub 工作流 - GitHub 文档](https://docs.github.com/zh/get-started/quickstart/github-flow)*
 
 osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献，请按如下操作：
 
