@@ -11,6 +11,8 @@ tags:
 
 The **Skinning Contest #4: Icons of an Era** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the fourth official osu! skinning contest.
 
+The contest banner entries contain artwork from [Kleinne Lui](https://osu.ppy.sh/users/27725651) for which the skinship team acquired permission to use.
+
 ## Contest schedule
 
 | Event | Timestamp |
