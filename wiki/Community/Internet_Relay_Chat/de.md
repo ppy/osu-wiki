@@ -18,7 +18,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 - Port: `6667`
 - SSL: ausgeschaltet
 - Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
-- Passwort: das Passwort aus den [Account-Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api)
+- Passwort: das Passwort aus den [Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api)
 
 *Warnung: Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.*
 
@@ -62,7 +62,7 @@ Alternativ kannst du auch eine andere Serveradresse eingeben, `cho.ppy.sh` (du w
 
 Versuche das Folgende:
 
-1. Vergewissere dich, dass du das richtige Passwort aus den [Account-Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api) benutzt.
+1. Vergewissere dich, dass du das richtige Passwort aus den [Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api) benutzt.
 2. Wenn dein Benutzername Leerzeichen enthält, ersetze diese bitte mit Unterstrichen (z. B. wird `Dieser Benutzername` zu `Dieser_Benutzername`).
 
 ### Kann ich einen anderen Benutzernamen wählen?
