@@ -221,7 +221,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 
 ## osu!musician
 
-Der Titel **osu!musician** wurde an Benutzer für ihre früheren Beiträge zum Sounddesign und zur offiziellen Titelmusik von osu! verliehen.
+Der Titel **osu!musician** wurde an Benutzer für ihre früheren Beiträge zum Sounddesign und den offiziellen Titelsongs von osu! verliehen.
 
 - ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
