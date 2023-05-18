@@ -7,7 +7,7 @@ tags:
   - oPQS 23
 ---
 
-# osu! Philippines Quickfire Showdown
+# osu! Philippines Quickfire Showdown 2023
 
 ![oPQS banner](img/banner.png)
 
