@@ -108,12 +108,12 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가위원 |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 평가위원 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가위원 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가위원 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 평가위원 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
 
 ### osu!taiko
@@ -137,10 +137,10 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가위원 |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 스페인어 | 평가위원 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 평가위원 |
 
 ## 참고
 
