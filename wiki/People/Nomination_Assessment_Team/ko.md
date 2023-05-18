@@ -9,11 +9,11 @@ tags:
 
 **Nomination Assessment Team**(***NAT***)은 [비트맵 노미네이터](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
 
-NAT 멤버들은 빨간색 닉네임으로 표시되며 [글로벌 모더레이션 팀](/wiki/People/The_Team/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [노미네이트](/wiki/Beatmap_ranking_procedure#nominations)와 [노미네이션 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/The_Team/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/The_Team/Beatmap_Nominators/Expectations)을 따라야 합니다.
+NAT 멤버들은 빨간색 닉네임으로 표시되며 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [지명](/wiki/Beatmap_ranking_procedure#nominations)과 [지명 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/The_Team/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/The_Team/Beatmap_Nominators/Expectations)을 따라야 합니다.
 
-**모든 Nomination Assessment Team 멤버들은 [커뮤니티 Code of Conduct](/wiki/Contributor_Code_of_Conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
+**모든 Nomination Assessment Team 멤버들은 [커뮤니티 행동규범](/wiki/Contributor_Code_of_Conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
 
-***참고: NAT가 커뮤니티 Code of Conduct을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/The_Team/Account_support_team#support@ppy.sh)으로 문의하십시오.***
+***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/The_Team/Account_support_team#support@ppy.sh)으로 문의하십시오.***
 
 ## 책임
 
@@ -24,7 +24,7 @@ NAT는 전반적인 매핑과 관련된 업무를 담당하고 있으며 **평�
 **평가위원**일 때는 다음과 같은 역할을 맡습니다:
 
 - **평가:** 비트맵 노미네이터 및 그 지원자의 능력과 활동량을 평가합니다. *추가 사항은 [평가](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) 문서를 참조하세요.*
-- **노미네이션:** 1달에 최소 2개의 비트맵을 노미네이트 하는지 체크함으로써 비트맵 노미네이터 및 비트맵 노미네이터에 지원하는 사람이 어떤 식으로 활동하는지 확인할 수 있습니다.
+- **지명:** 1달에 최소 2개의 비트맵을 지명하는지 체크함으로써 비트맵 노미네이터 및 비트맵 노미네이터에 지원하는 사람이 어떤 식으로 활동하는지 확인할 수 있습니다.
   - 모딩 활동과 다른 자잘한 활동은 전반적 활동량을 평가할 때 긍정적으로 작용할 수도 있습니다.
 
 [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)를 통한 BN 지원자가 많은 많큼 평가위원은 고문과 다르게 업무량이 많아 때때로 일을 분담하기 위해 일을 분담하기 위한 새 멤버를 뽑기도 합니다. 따라서 NAT에 가입하고자 하는 BN은 일차적으로 평가 능력을 기준으로 판단하고 대부분의 NAT이 평가위원의 자리를 맡게 됩니다.
@@ -33,13 +33,13 @@ NAT는 전반적인 매핑과 관련된 업무를 담당하고 있으며 **평�
 
 **고문**일 때는 다음과 같은 역할을 맡습니다:
 
-- **커뮤니케이션:** 매핑/모딩 커뮤니티뿐만 아니라 NAT 자체 내에서도 투명한 태도와 사람들과 좋은 관계를 유지합니다. 이는 공지사항 전달, 제안에 관한 토론, 설문조사를 통한 질의응답 [랭킹 크리테리아](/wiki/Ranking_Criteria)와 기타 문서 업데이트와 같은 모든 활동이 포함됩니다.
+- **커뮤니케이션:** 매핑/모딩 커뮤니티뿐만 아니라 NAT 자체 내에서도 투명한 태도와 사람들과 좋은 관계를 유지합니다. 이는 공지사항 전달, 제안에 관한 토론, 설문조사를 통한 질의응답 [Ranking Criteria](/wiki/Ranking_Criteria)와 기타 문서 업데이트와 같은 모든 활동이 포함됩니다.
 - **개발:** [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), [NAT/BN website](https://bn.mappersguild.com/home)와 같이 랭크 과정을 개선하기 위한 프로그램 및 웹 사이트를 개발하고 관리합니다.
 - **감독:** 유저의 신고를 처리하고 비트맵 노미네이터의 부적절한 행동 징계 및 비트맵 콘텐츠를 리뷰합니다.
 - **기타 유지 관리:** 대표적으로 관리하는 사항들은 다음과 같습니다:
   - [Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 관리.
   - [RC Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)의 유지 및 보수.
-  - [Severity](SEV_rating)를 통한 노미네이션 초기화 징계 및 경고.
+  - [Severity](SEV_rating)를 통한 지명 초기화 징계 및 경고.
 
 고문은 매핑/모딩 과정에 필요한 구성 요소를 유지 관리하는 것 외에도 BN과 매핑/모딩 커뮤니티의 다른 구성원들이 정보를 계속 받을수 있도록 해야 합니다. 따라서 고문은 일반적으로 매핑/모딩 관리의 운영에 초점을 맞추는 것을 선호하는 숙련된 **평가위원**으로 구성됩니다.
 
@@ -53,7 +53,7 @@ NAT을 두 그룹으로 나누는 것은 그룹의 조직력과 생산성을 위
 
 맡은 하위 그룹에 따라, 각 NAT 멤버는 다른 활동 요구 사항이 있습니다. 평가위원들은 BN과 BN 지원자를 평가하는 동시에 모딩 활동을 계속해 스스로 매핑/모딩과 관련된 정세를 주시해야 합니다. 고문들은 상황에 따라 랭크 과정의 운영과 관련된 프로그램, 자원과 같은 요소를 유지하고 관리합니다.
 
-매달 NAT 멤버는 [BN/NAT 웹사이트](https://bn.mappersguild.com/)에서 멤버들의 활동 요약을 제출해야 합니다. 비트맵 노미네이션, BN 평가 활동과 같은 다른 지표와 함께 해당 요약은 팀 구성원이 여전히 활동적이고 팀에 남을 가치가 있는지의 여부를 결정하는 데 사용됩니다. 또한 [팀 리더](#nat-리더십)는 각자의 NAT 멤버들의 활동을 논의하고 그들이 남아 있어야 하는지 결정합니다.
+매달 NAT 멤버는 [BN/NAT 웹사이트](https://bn.mappersguild.com/)에서 멤버들의 활동 요약을 제출해야 합니다. 비트맵 지명, BN 평가 활동과 같은 다른 지표와 함께 해당 요약은 팀 구성원이 여전히 활동적이고 팀에 남을 가치가 있는지의 여부를 결정하는 데 사용됩니다. 또한 [팀 리더](#nat-리더십)는 각자의 NAT 멤버들의 활동을 논의하고 그들이 남아 있어야 하는지 결정합니다.
 
 활동하지 않거나 제때 요약을 제출하지 못하는 NAT 멤버는 그들의 팀 리더와 대면하여, 활동량이 적을 수밖에 없었던 합당한 이유가 없는 경우 NAT에서 떠나게 됩니다. 평가위원 중에서 다른 매핑관련 프로젝트에도 참여하고 있는 멤버의 경우, 활동량 평가에 착오가 생기지 않도록 평가위원에서 고문의 자리로 옮길 수 있습니다. 
 
@@ -108,12 +108,12 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 평가위원 |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가위원 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가위원 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 평가위원 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가위원 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
 
 ### osu!taiko
@@ -137,10 +137,10 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
+| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가위원 |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 스페인어 | 평가위원 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 평가위원 |
 
 ## 참고
 
