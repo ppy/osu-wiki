@@ -353,7 +353,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **01/03/2018 :** Les QAT  a séparé ses tâches en branches : évaluation des BE, disqualifications, métadonnées, spotlights, blog, critères de classement et direction générale.
   - Les membres des QAT peuvent être impliqués dans plusieurs branches.
   - L'objectif était de donner une raison d'être à certains membres du QAT qui estimaient ne pas avoir de rôle spécifique dans la communauté du mapping/modding. Ce sentiment s'explique en grande partie par le fait que la QAT n'est plus guère impliquée dans l'assurance qualité.
-- **03/03/2018 :** Le canal `#modding` a été créé sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+- **03/03/2018 :** Le canal `#modding` a été créé sur le [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
   - Alors que son objectif était de déplacer les discussions sur le mapping hors du serveur Discord des BN, ce centre de discussion était rarement utilisé en dehors des réunions programmées du QAT.
 - **24/03/2018 :** Le sous-forum Critères de classement a été rouvert pour les discussions publiques des propositions et l'UBKRC a été supprimé.
   - L'UBKRC a été interrompu à ce moment-là parce que toutes les sous-sections des critères de classement généraux et par mode de jeu ont été finalisées.
@@ -363,7 +363,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **01/04/2018 :** La QAT a commencée à évaluer les demandes des BN en examinant les mods non anonymes, par opposition aux mods précédemment anonymes.
   - Cette modification a été apportée car la QAT estimait que les mods anonymes hors contexte ne pouvaient pas déterminer efficacement les capacités d'un moddeur.
   - Grâce à ce changement, la QAT a déterminée que la partialité ne pouvait être évitée lors de l'évaluation des Beatmap Nominators.
-- **22/04/2018 :** La QAT a tenu sa première réunion sur le serveur osu!dev dans le but d'accroître la transparence des affaires de la QAT et d'éloigner les discussions internes du serveur Discord des BN.
+- **22/04/2018 :** La QAT a tenu sa première réunion sur le serveur osu! dans le but d'accroître la transparence des affaires de la QAT et d'éloigner les discussions internes du serveur Discord des BN.
   - Malgré cette tentative, la plupart des discussions internes étaient toujours traitées sur le serveur Discord des BN.
 
 ### Mai
@@ -410,7 +410,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **01/03/2019 :** La [Mappers' Guild](/wiki/Community/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 beatmaps classées.
   - Les beatmaps des [Featured Artists](/wiki/People/Featured_Artists) ont été créées et classées plus fréquemment.
-  - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+  - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
 - **13/03/2019 :** La règle exigeant que les nominations consécutives soient espacées d'au moins 24 heures a été supprimée.
   - Cette règle a fait l'objet d'une plainte majeure de la part des mappeurs et des Beatmap Nominators, car elle donnait l'impression de faire perdre inutilement du temps à tout le monde. Si un problème était découvert après la première nomination, le deuxième nominateur évitait souvent de le signaler pour éviter une attente supplémentaire de 24 heures.
   - Parallèlement à ce changement, les Beatmap Nominators peuvent opposer leur veto aux beatmaps qualifiées. Cette règle existait à l'origine parce que les Beatmap Nominators avaient besoin de 24 heures pour appliquer potentiellement des vetos aux beatmaps avec une nomination.
@@ -519,7 +519,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **11/09/2021 :** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) a modifié la règle des critères de classement concernant le champ Source.
   - Les membres de la communauté de mapping n'étaient pas satisfaits de l'absence de débat public derrière ce changement et ont par la suite procédé à des adaptations pour combler de nouvelles lacunes.
-- **18/09/2021 :** Après une interruption de dix ans, les osu! community meetings ont repris sous la forme de discussions vocales sur le Discord osu!dev. Le premier sujet abordé a été [les préoccupations concernant les critères de classement d'osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), ainsi que d'autres questions comme la complexité générale des critères de classement, l'engagement avec les nouveaux mappeurs, et plus encore.
+- **18/09/2021 :** Après une interruption de dix ans, les osu! community meetings ont repris sous la forme de discussions vocales sur le Discord osu!. Le premier sujet abordé a été [les préoccupations concernant les critères de classement d'osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), ainsi que d'autres questions comme la complexité générale des critères de classement, l'engagement avec les nouveaux mappeurs, et plus encore.
   - Les changements de critères concernant le classement d'osu!mania ont été soumis à la discussion et, s'ils sont acceptés, ils pourraient entrer en vigueur bientôt.
 - **24/09/2021 :** Les [Contrôles d'assurance qualité](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
   - Cette mesure a été mise en place parce qu'il semblait que certains utilisateurs l'utilisaient comme une échappatoire pour éviter de contribuer activement en tant que Beatmap Nominator.
