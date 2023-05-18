@@ -111,27 +111,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
+| Mexico ::{ flag=MX }:: | ::{ flag=HK }:: Hong Kong | [May 20 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T050000&p1=1440&p2=155&p3=102) |
 | South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [May 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T090000&p1=1440&p2=235&p3=28) |
-| Australia ::{ flag=AU }:: | ::{ flag=SE }:: Sweden | [May 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T110000&p1=1440&p2=57&p3=239) |
+| Showmatch Red | Showmatch Blue | [May 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T110000&p1=1440) |
 | Japan ::{ flag=JP }:: | ::{ flag=NO }:: Norway | [May 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T120000&p1=1440&p2=248&p3=187) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=GB }:: United Kingdom | [May 20 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T130000&p1=1440&p2=241&p3=136) |
 | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [May 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T140000&p1=1440&p2=232&p3=33) |
 | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [May 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T150000&p1=1440&p2=101&p3=195) |
-| Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [May 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T160000&p1=1440&p2=262&p3=45) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CO }:: Colombia | [May 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T180000&p1=1440&p2=166&p3=41) |
+| Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [May 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230520T170000&p1=1440&p2=262&p3=45) |
+
 
 ### Sunday, 21 May 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
+| Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [May 21 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T010000&p1=1440&p2=188&p3=131) |
 | United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [May 21 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T020000&p1=1440&p2=263&p3=264) |
-| Mexico ::{ flag=MX }:: | ::{ flag=HK }:: Hong Kong | [May 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T030000&p1=1440&p2=155&p3=102) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=NL }:: Netherlands | [May 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T100000&p1=1440&p2=108&p3=16) |
 | Philippines ::{ flag=PH }:: | ::{ flag=DK }:: Denmark | [May 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T110000&p1=1440&p2=145&p3=69) |
-| Germany ::{ flag=DE }:: | ::{ flag=VN }:: Vietnam | [May 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T120000&p1=1440&p2=37&p3=95) |
-| Italy ::{ flag=IT }:: | ::{ flag=ES }:: Spain | [May 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T130000&p1=1440&p2=215&p3=141) |
+| Australia ::{ flag=AU }:: | ::{ flag=SE }:: Sweden | [May 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T120000&p1=1440&p2=57&p3=239) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=NL }:: Netherlands | [May 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T130000&p1=1440&p2=108&p3=16) |
+| Germany ::{ flag=DE }:: | ::{ flag=VN }:: Vietnam | [May 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T130000&p1=1440&p2=37&p3=95) |
+| Italy ::{ flag=IT }:: | ::{ flag=ES }:: Spain | [May 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T140000&p1=1440&p2=215&p3=141) |
 | Belgium ::{ flag=BE }:: | ::{ flag=AR }:: Argentina | [May 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T160000&p1=1440&p2=48&p3=51) |
-| Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [May 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230521T180000&p1=1440&p2=188&p3=131) |
 
 ## Mappools
 
