@@ -9,5 +9,5 @@
 
 ## 游玩
 
-- [Dash snapping](/wiki/Gameplay/Dash_snapping)，[osu!catch](/wiki/Game_mode/osu!catch) 术语，描述了玩家接住下一个大果所需的移动。
+- [白果跳对齐](/wiki/Gameplay/Dash_snapping)，[osu!catch](/wiki/Game_mode/osu!catch) 术语，描述了玩家接住下一个大果所需的移动。
 - 一种 [osu!](/wiki/Game_mode/osu!) 玩法，以快速且不均匀的移动为特征。光标快速移到要点击的物体上，而非均匀移动<!-- TODO: this would be a good addition to /wiki/Play_style -->
