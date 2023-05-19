@@ -51,6 +51,11 @@ Alle Regeln sind genau das: **Regeln**. Sie sind **keine** Richtlinien und dürf
 - **Die Funktion `Omit first bar line` eines nicht vererbten Timing-Punkts muss verwendet werden, wenn eine Änderung der BPM bzw. eine Rücksetzung des Metronoms das Spielerlebnis durch das Hinzufügen überflüssiger Taktstriche in ästhetischer Hinsicht beeinträchtigen würde.**
 - **Taiko-Hintergrundvorlagen dürfen nicht benutzt werden.** Aufgrund der verschiedenen gängigen Bildschirmauflösungen funktionieren sie nicht so, wie sie ursprünglich gedacht waren.
 - **Slidertails dürfen nicht fehlenden Sliderticks im Takt zugeteilt werden.** Dieses Verhalten ist unbeabsichtigt und wird in Zukunft korrigiert.
+- **Wenn die [Drain-Zeit](/wiki/Beatmap/Drain_time) jeder Schwierigkeitsstufe...**
+  - **...kürzer als 3:30 ist**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Futsuu sein.
+  - **...zwischen 3:30 und 4:15 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Muzukashii sein.
+  - **...zwischen 4:15 und 5:00 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Oni sein.
+  - **[Pausen](/wiki/Beatmap/Break) dürfen mit [Drain-Zeit](/wiki/Beatmap/Drain_time) kombiniert werden, um die oben genannten Grenzwerte zu erreichen.** In der höchsten Schwierigkeitsstufe ist das auf allerhöchstens 30 Sekunden Pause begrenzt. Dies gilt nicht für Schwierigkeitsgrade mit weniger als 30 Sekunden Drain-Zeit.
 
 #### Richtlinien
 
