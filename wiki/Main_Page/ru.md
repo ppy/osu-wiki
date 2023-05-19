@@ -111,7 +111,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 osu! бы не было без многих пользователей, участвующих в разработке, поддержке и управлении сообществом: игра живёт и процветает лишь благодаря их усилиям, времени и преданности делу.
 
-[Команда osu!](/wiki/People/osu!_team): [Разработчики](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда поддержки](/wiki/People/Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда проекта Loved](/wiki/People/Project_Loved_Team)
+[Команда osu!](/wiki/People/osu!_team): [Разработчики](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда технической поддержки](/wiki/People/Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда проекта Loved](/wiki/People/Project_Loved_Team)
 
 [Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Группы пользователей](/wiki/People/User_group) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
