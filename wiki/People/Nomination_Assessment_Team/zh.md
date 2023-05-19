@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
  - NAT
  - 审核评估
@@ -12,7 +10,7 @@ tags:
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-他们用户名通常标记为红色。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_group)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
 **审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 
