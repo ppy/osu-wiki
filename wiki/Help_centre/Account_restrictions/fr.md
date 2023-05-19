@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c564fa7fe8cba100544592a2f16e0056415ad663
+---
+
 # Restrictions de compte
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*

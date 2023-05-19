@@ -4,7 +4,7 @@ L'**osu!monthly** est un bulletin d'information mensuel géré par l'[équipe de
 
 ## Contribuer
 
-L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou contribuer est toujours la bienvenue. Toutes les discussions et l'organisation du projet ont lieu dans le salon `#osu-news` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou contribuer est toujours la bienvenue. Toutes les discussions et l'organisation du projet ont lieu dans le salon `#osu-news` du [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Histoire
 
