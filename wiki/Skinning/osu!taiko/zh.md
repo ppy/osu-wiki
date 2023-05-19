@@ -12,7 +12,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
 
-注意：
+备注：
 
 - Animation name: `pippidonclear{n}.png`.
   - You can only skin up 7 frames (from 0 to 6).
@@ -31,7 +31,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
 
-注意：
+备注：
 
 - Animation name: `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
@@ -48,7 +48,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
 
-注意：
+备注：
 
 - Animation name: `pippidonidle{n}.png`.
 - The animation rate is BPM dependent.
@@ -64,7 +64,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
 
-注意：
+备注：
 
 - Animation name: `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
@@ -81,7 +81,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `taiko-hit0-{n}.png`.
 - If animated, default effect from static images will not be disabled.
@@ -96,7 +96,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `taiko-hit100-{n}.png`.
 - If animated, default effect from static images will not be disabled.
@@ -111,7 +111,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `taiko-hit100k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
@@ -126,7 +126,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `taiko-hit300-{n}.png`.
 - If animated, default effect from static images will not be disabled.
@@ -141,7 +141,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `taiko-hit300k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
@@ -156,7 +156,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![否][false] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `taiko-hit300g-{n}.png`
@@ -172,7 +172,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - This element is used for finisher/big notes.
   - This element is upscaled automatically.
@@ -191,7 +191,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - Animation name: `taikobigcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
@@ -210,7 +210,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - Tinted red for "Don" (235,69,44)
 - Tinted blue for "Katsu" (68,141,171)
@@ -226,7 +226,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - Animation name: `taikohitcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
@@ -244,7 +244,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 126x126 |
 
-注意：
+备注：
 
 - This element is used on the hit position as a border.
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
@@ -259,7 +259,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 相乘模式 | 中心 | - |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - Tinted yellow.
@@ -275,7 +275,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | - |
 
-注意：
+备注：
 
 - Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
@@ -292,7 +292,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] （参见提示） | 普通模式 | TopLeft | 776x162 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
@@ -309,7 +309,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | TopLeft | 776x162 |
 
-注意：
+备注：
 
 - This appears when the player misses a note or if the health bar isn't filled up to 50% during a break.
 - Beatmap skinnable status is suspected to be a bug.
@@ -327,7 +327,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - These are like combobursts.
 - To have multiple combobursts, use: `taiko-flower-group-{n}.png`.
@@ -344,7 +344,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 181x200 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - Positioned at (0,216).
@@ -361,7 +361,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 | v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | Max width: 56px |
 | v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 90x200 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
@@ -379,7 +379,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 | v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | Max width: 72px |
 | v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 90x200 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
@@ -397,7 +397,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 | v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 843x200 |
 | v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 1024x200 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
@@ -417,7 +417,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 | v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 843x200 |
 | v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 1024x200 |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element will get stretched to fit screen width.
@@ -437,7 +437,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 1x128 |
 
-注意：
+备注：
 
 - The SD image width must be exactly 1px wide.
 - This element is the track of the roll where the `sliderscorepoint.png` are placed on.
@@ -453,7 +453,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 64x128 |
 
-注意：
+备注：
 
 - This element is the end part of a roll.
 - Tinting shifts from yellow to red.
@@ -468,7 +468,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
 - This are the ticks of the roll.
@@ -483,7 +483,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is an indicator for the spinner.
 
@@ -497,7 +497,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
@@ -513,7 +513,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Beatmap skinnable status is suspected to be a bug.
 - This element is also used in [osu!](/wiki/Game_mode/osu!).

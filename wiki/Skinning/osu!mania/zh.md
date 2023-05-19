@@ -16,7 +16,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit0-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -32,7 +32,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit50-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -48,7 +48,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit100-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -64,7 +64,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit200-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -80,7 +80,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit300-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -96,7 +96,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `mania-hit300g-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
@@ -112,7 +112,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | BottomLeft | Max height: 768px |
 
-注意：
+备注：
 
 - To have multiple combobursts, use: `comboburst-mania-{n}.png`.
   - One of the images in the set will appear when a combo milestone is met.
@@ -130,7 +130,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the idle state.
 - This element gets stretched or compressed to fit the column width.
@@ -145,7 +145,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the pressed state.
 - This element gets stretched or compressed to fit the column width.
@@ -160,7 +160,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the idle state.
 - This element gets stretched or compressed to fit the column width.
@@ -175,7 +175,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the pressed state.
 - This element gets stretched or compressed to fit the column width.
@@ -190,7 +190,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the idle state.
 - This element gets stretched or compressed to fit the column width.
@@ -205,7 +205,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | Bottom | 50x107 |
 
-注意：
+备注：
 
 - This is the pressed state.
 - This element gets stretched or compressed to fit the column width.
@@ -220,7 +220,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note1-{n}.png`.
 - These elements are scaled to fit the individual columns.
@@ -237,7 +237,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note2-{n}.png`.
 - These elements are scaled to fit the individual columns.
@@ -254,7 +254,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-noteS-{n}.png`.
 - These elements are scaled to fit the individual columns.
@@ -273,7 +273,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note1H-{n}.png`.
 - By default, this is also the tail part.
@@ -293,7 +293,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note2H-{n}.png`.
 - By default, this is also the tail part.
@@ -313,7 +313,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-noteSH-{n}.png`.
 - By default, this is also the tail part.
@@ -333,7 +333,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note1L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
@@ -350,7 +350,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note2L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
@@ -367,7 +367,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-noteSL-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
@@ -382,7 +382,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note1T-{n}.png`.
 - These elements are the tail part of the hold note.
@@ -401,7 +401,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-note2T-{n}.png`.
 - These elements are the tail part of the hold note.
@@ -420,7 +420,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - Animation name: `mania-noteST-{n}.png`.
 - These elements are the tail part of the hold note.
@@ -441,7 +441,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | BottomRight | Max height: 768px |
 
-注意：
+备注：
 
 - This element is shown on the left side of the stage(s).
 - This element is stretched to fit the stage height (allows for shorter images).
@@ -456,7 +456,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | BottomRight | Max height: 768px |
 
-注意：
+备注：
 
 - This element is shown on the right side of the stage(s).
 - This element is stretched to fit the stage height (allows for shorter images).
@@ -469,7 +469,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | Bottom | - |
 
-注意：
+备注：
 
 - This element is 0.625x smaller than the stage width.
 - Animation name: `mania-stage-bottom-{n}.png`.
@@ -488,7 +488,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 相乘模式 | Bottom | Max height: 768px |
 
-注意：
+备注：
 
 - Animation name: `mania-stage-light-{n}.png`.
 - This element is the lighting for the columns when the key is pressed.
@@ -508,7 +508,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is the graphical representation of the [judgement](/wiki/Gameplay/Judgement) line.
   - The judgement line is drawn in the centre of the image.
@@ -525,7 +525,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element should point downwards.
   - This image is automatically flipped horizontally if the stage is upside down.
@@ -541,7 +541,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 相加模式 |中心 | - |
 
-注意：
+备注：
 
 - Animation name: `lightingL-{n}.png`.
 - This element is the lighting for the long notes.
@@ -558,7 +558,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![否][false] | 相加模式 |中心 | - |
 
-注意：
+备注：
 
 - Animation name: `lightingN-{n}.png`.
 - This element is the lighting for the single notes (and tail notes).

@@ -10,7 +10,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - To have multiple combobursts, use: `comboburst-{n}.png`.
   - One of the images in the set will be appear when a combo milestone is met.
@@ -29,7 +29,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -46,7 +46,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -63,7 +63,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -80,7 +80,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -97,7 +97,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -114,7 +114,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -131,7 +131,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -148,7 +148,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -165,7 +165,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -182,7 +182,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
@@ -199,7 +199,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 126x126 |
 
-注意：
+备注：
 
 - Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
@@ -217,7 +217,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
@@ -235,7 +235,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
@@ -259,7 +259,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - This element is only used in the [beatmap editor](/wiki/Client/Beatmap_editor).
 - Should be a circle.
@@ -274,7 +274,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `followpoint-{n}.png`
 - If an arrow-like figure is used, it should point towards the right.
@@ -290,7 +290,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | 100x100 |
 
-注意：
+备注：
 
 - This can be disabled in the [options](/wiki/Client/Options).
 - Tinting depends on the hit circle's combo colour.
@@ -308,7 +308,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hit circle for the start of the slider.
@@ -324,7 +324,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
@@ -343,7 +343,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hitcircle for the end of the slider.
@@ -359,7 +359,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - This element fades in before completing and expands when completed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
@@ -380,7 +380,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
-注意：
+备注：
 
 - osu! will rotate this element to line up with the slider's path.
 - This element will pulse at the bpm.
@@ -396,7 +396,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 256x256 （参见提示） |
 
-注意：
+备注：
 
 - Animation name: `sliderfollowcircle-{n}.png`
 - Max size: 308x308 (hitbox)
@@ -412,7 +412,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - Animation name: `sliderb{n}.png` (no hyphen (`-`))
 - Tinting depends on the hit circle's combo colour.
@@ -429,7 +429,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] （参见提示） | 相乘模式 | 中心 | 118x118 |
 
-注意：
+备注：
 
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
@@ -446,7 +446,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] （参见提示） | 相加模式 |中心 | 118x118 |
 
-注意：
+备注：
 
 - Ignored if `sliderb.png` is skinned.
   - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
@@ -460,7 +460,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | 50x30 |
 
-注意：
+备注：
 
 - Beatmap Skinnable if the player skin is using v1.0.
 - Used when the player collects a slider tick.
@@ -474,7 +474,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | 50x30 |
 
-注意：
+备注：
 
 - Beatmap Skinnable if the player skin is using v1.0.
 - Used when the player starts a slider and/or when they hit the reverse arrow.
@@ -490,7 +490,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 16x16 |
 
-注意：
+备注：
 
 - This element is the slider tick.
 - If this element is overlapping the slider start or end, it will not be rendered.
@@ -510,7 +510,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 384x384 |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - Applied to both styles.
@@ -528,7 +528,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | TopLeft | 280x56 |
 
-注意：
+备注：
 
 - RPM is short for "Revolutions Per Minute"
 - This element is positioned at 139px to the left from the middle of the screen and at 712px height
@@ -545,7 +545,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 230px vertically.
 - This appears when the player has fulfilled the spinner.
@@ -560,7 +560,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 582px vertically.
 - This appears at the start of a spinner.
@@ -575,7 +575,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 1024x702 （参见提示） |
 
-注意：
+备注：
 
 - **osu! is watching for this element.** If found, it will force the old styled spinners on v2.0+ (all elements in this section).
 - Using the suggested SD size will help alignment with `spinner-metre.png`.
@@ -592,7 +592,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - This element is the rotating part of the spinner.
@@ -609,7 +609,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | TopLeft | 1024x692 |
 
-注意：
+备注：
 
 - Positioned 46px away from top and 512px to the left from the middle axis.
   - (0,46) at 1024x768 and (171,46) at 1366x768.
@@ -627,7 +627,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Beatmap Skinnable if the player skin is using v1.0.
 - This appears after the spinner fades out.
@@ -642,7 +642,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 相加模式 |中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - Tinted cyan, blinks white when bonus points are awarded
@@ -659,7 +659,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - This rotates the slowest.
@@ -675,7 +675,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - This rotates the second fastest (slower than `spinner-middle2.png`).
@@ -691,7 +691,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - This rotates the fastest.
@@ -707,7 +707,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 相乘模式 | 中心 | - |
 
-注意：
+备注：
 
 - This element is positioned around 397px vertically.
 - Tinted red over time (this is the time indicator).
@@ -723,7 +723,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 
-注意：
+备注：
 
 - `hit50.png` must be skinned.
 
@@ -737,7 +737,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 
-注意：
+备注：
 
 - `hit100.png` must be skinned.
 - This element is used for `hit100.png` and `hit100k.png`.
@@ -752,7 +752,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 
-注意：
+备注：
 
 - `hit300.png` must be skinned.
 - This element is used for `hit300`, `hit300g`, and `hit300k`.

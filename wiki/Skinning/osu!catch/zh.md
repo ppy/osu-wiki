@@ -10,7 +10,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![是][true] | ![是][true] | 普通模式 | Top | Min width: 302px |
 
-注意：
+备注：
 
 - Animation name: `fruit-catcher-idle-{n}.png`
 - This element is the catcher state when doing nothing or catching objects
@@ -28,7 +28,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `fruit-catcher-fail-{n}.png`
 - This element is the "missed" catcher state.
@@ -45,7 +45,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Animation name: `fruit-catcher-kiai-{n}.png`
 - This element is the catcher state during kiai time.
@@ -62,7 +62,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.2- | ![是][true] | ![是][true] （参见提示） | 普通模式 | 中心 | - |
 
-注意：
+备注：
 
 - Beatmap Skinnable if the player skin is using v2.2-.
 - Animation name: `fruit-ryuuta-{n}.png`
@@ -78,7 +78,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![否][false] （参见提示） | ![是][true] | 普通模式 | BottomLeft | Max height: 768px |
 
-注意：
+备注：
 
 - To have multiple combobursts, use: `comboburst-fruits-{n}.png`.
   - One of the images in the set will be appear when a combo milestone is met.
@@ -97,7 +97,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | 100x100 |
 
-注意：
+备注：
 
 - This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/Gameplay/Kiai_time).
 - This element is also used in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko).
@@ -114,7 +114,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown first.
 - This element is used for the hyperdash outline.
@@ -130,7 +130,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown first; overlaying `fruit-pear.png`.
 
@@ -144,7 +144,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown second.
 - This element is used for the hyperdash outline.
@@ -160,7 +160,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown second; overlaying `fruit-grapes.png`.
 
@@ -174,7 +174,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown third.
 - This element is used for the hyperdash outline.
@@ -190,7 +190,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown third; overlaying `fruit-apple.png`.
 
@@ -204,7 +204,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `fruit-orange-{n}.png`
@@ -225,7 +225,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `fruit-orange-overlay-{n}.png`
@@ -241,7 +241,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - Tinted yellow.
 - This element is shown during a "spinner".
@@ -257,7 +257,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is shown during a spinner; overlaying `fruit-bananas.png`.
 
@@ -271,7 +271,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - Can be animated, but only the zeroth frame will be used.
   - Animation name: `fruit-drop-{n}.png`
@@ -286,7 +286,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
-注意：
+备注：
 
 - This element is not used in the ranking screen.
 - This element is shown during a "slider"; overlaying `fruit-drop.png`
