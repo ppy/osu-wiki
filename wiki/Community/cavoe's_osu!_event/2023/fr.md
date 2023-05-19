@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # cavoe's osu! event 2023
 
 ![bannière COE 2023](img/banner.png)
