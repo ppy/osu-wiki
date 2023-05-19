@@ -37,7 +37,7 @@ tags:
 
 Некоторые форумы предназначены не только для общения и, как следствие, имеют дополнительные правила и/или технические возможности.
 
-- [Help](/wiki/Community/Forum/Help): техподдержка от [команды поддержки](/wiki/People/Support_Team) и обычных пользователей.
+- [Help](/wiki/Community/Forum/Help): помощь от [команды технической поддержки](/wiki/People/Support_Team) и обычных пользователей.
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): предложения по развитию osu!.
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues): ревью карт от других мапперов и моддеров.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): место для не совсем логичных обсуждений.

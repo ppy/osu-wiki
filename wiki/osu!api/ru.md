@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 needs_cleanup: true  # несколько странных предложений
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
 ---
 
 # osu!api
