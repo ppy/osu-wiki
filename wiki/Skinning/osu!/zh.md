@@ -276,7 +276,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Animation name: `followpoint-{n}.png`
+- 动画文件名： `followpoint-{n}.png`
 - If an arrow-like figure is used, it should point towards the right.
 - This stays on the screen for 1.2 seconds (1200ms).
 
@@ -398,7 +398,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Animation name: `sliderfollowcircle-{n}.png`
+- 动画文件名： `sliderfollowcircle-{n}.png`
 - Max size: 308x308 (hitbox)
 - This element expands briefly when collecting a slider tick.
 
@@ -414,7 +414,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Animation name: `sliderb{n}.png` (no hyphen (`-`))
+- 动画文件名： `sliderb{n}.png` (no hyphen (`-`))
 - Tinting depends on the hit circle's combo colour.
 - By default, the sliderball flips upon hitting the reverse arrow.
   - To disable this, set `sliderballflip` to `0`.

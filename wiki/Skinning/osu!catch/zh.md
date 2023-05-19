@@ -12,7 +12,7 @@
 
 备注：
 
-- Animation name: `fruit-catcher-idle-{n}.png`
+- 动画文件名： `fruit-catcher-idle-{n}.png`
 - This element is the catcher state when doing nothing or catching objects
 - This should face towards the right.
 - The first 16 pixels at the top should be transparent.
@@ -30,7 +30,7 @@
 
 备注：
 
-- Animation name: `fruit-catcher-fail-{n}.png`
+- 动画文件名： `fruit-catcher-fail-{n}.png`
 - This element is the "missed" catcher state.
 - This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
 - This should face towards the right.
@@ -47,7 +47,7 @@
 
 备注：
 
-- Animation name: `fruit-catcher-kiai-{n}.png`
+- 动画文件名： `fruit-catcher-kiai-{n}.png`
 - This element is the catcher state during kiai time.
 - `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
 - This should face towards the right.
@@ -65,7 +65,7 @@
 备注：
 
 - Beatmap Skinnable if the player skin is using v2.2-.
-- Animation name: `fruit-ryuuta-{n}.png`
+- 动画文件名： `fruit-ryuuta-{n}.png`
 - This should face towards the right.
 
 ## Comboburst
@@ -207,7 +207,7 @@
 备注：
 
 - Can be animated, but only the zeroth frame will be used.
-  - Animation name: `fruit-orange-{n}.png`
+  - 动画文件名： `fruit-orange-{n}.png`
 - This element is shown fourth (last).
 - This element is used for the hyperdash outline.
 - Tinting depends on the fruit's combo colour.
@@ -228,7 +228,7 @@
 备注：
 
 - Can be animated, but only the zeroth frame will be used.
-  - Animation name: `fruit-orange-overlay-{n}.png`
+  - 动画文件名： `fruit-orange-overlay-{n}.png`
 - This element is shown fourth (last); overlaying `fruit-orange.png`.
 
 ---
@@ -274,7 +274,7 @@
 备注：
 
 - Can be animated, but only the zeroth frame will be used.
-  - Animation name: `fruit-drop-{n}.png`
+  - 动画文件名： `fruit-drop-{n}.png`
 - This element is shown during a "slider".
 - Tinting depends on the fruit's combo colour.
 

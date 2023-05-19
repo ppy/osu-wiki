@@ -1,6 +1,6 @@
 # 自定义音效
 
-`.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
+音效的可用格式有 `.wav`、 `.mp3` 和/或 `.ogg`。
 
 ## 界面
 
@@ -10,31 +10,31 @@
 
 备注：
 
-- This plays when the cursor is hovering over the osu!cookie in the main menu.
+- 光标放在主菜单的 osu! 粉饼上时播放。
 
 ---
 
 `seeya.wav`
 
-- [osu!supporter](/wiki/osu!supporter) is required to modify.
-- Plays when closing the osu!client.
-- This can be disabled in the [options](/wiki/Client/Options).
+- 需要 [osu! 支持者](/wiki/osu!supporter)标签来修改。
+- 关闭 osu! 客户端时播放。
+- 可以在[设置](/wiki/Client/Options)中禁用。
 
 ---
 
 `welcome.wav`
 
-- [osu!supporter](/wiki/osu!supporter) is required to modify.
-- Plays when starting the osu!client.
-- This can be disabled in the [options](/wiki/Client/Options).
+- 需要 [osu! 支持者](/wiki/osu!supporter)标签来修改。
+- 启动 osu! 客户端时播放。
+- 可以在[设置](/wiki/Client/Options)中禁用。
 
-### Keys
+### 按键
 
 `key-confirm.wav`
 
 备注：
 
-- Plays when sending a message in chat.
+- 在聊天面板中发送消息时播放。
 
 ---
 
@@ -42,7 +42,7 @@
 
 备注：
 
-- Plays when deleting text in a message in chat.
+- 在聊天面板中删除文本时播放。
 
 ---
 
@@ -50,7 +50,7 @@
 
 备注：
 
-- Plays when changing the text cursor position.
+- 改变文本光标位置时播放。
 
 ---
 
@@ -58,7 +58,7 @@
 
 备注：
 
-- Plays when pressing a key for chat, search, edit, etc.
+- 在聊天、搜索、编辑等界面按键时播放。
 
 ---
 
@@ -66,7 +66,7 @@
 
 备注：
 
-- Plays when pressing a key for chat, search, edit, etc.
+- 在聊天、搜索、编辑等界面按键时播放。
 
 ---
 
@@ -74,7 +74,7 @@
 
 备注：
 
-- Plays when pressing a key for chat, search, edit, etc.
+- 在聊天、搜索、编辑等界面按键时播放。
 
 ---
 
@@ -82,15 +82,15 @@
 
 备注：
 
-- Plays when pressing a key for chat, search, edit, etc.
+- 在聊天、搜索、编辑等界面按键时播放。
 
-### Clicks
+### 点击
 
 `back-button-click.wav`
 
 备注：
 
-- Plays when clicking on back button.
+- 按下返回按钮时播放。
 
 ---
 
@@ -98,7 +98,7 @@
 
 备注：
 
-- Plays when enabling a checkboxes or enabling a mod.
+- 勾选复选框或启用模组时播放。
 
 ---
 
@@ -106,7 +106,7 @@
 
 备注：
 
-- Plays when disabling a checkboxes or disabling a mod.
+- 取消勾选复选框或禁用模组时播放。
 
 ---
 
@@ -114,7 +114,7 @@
 
 备注：
 
-- Plays when closing a chat tab.
+- 关闭聊天标签页时播放。
 
 ---
 
@@ -122,7 +122,7 @@
 
 备注：
 
-- Plays when clicking to confirm a button or dropdown option, opening or closing chat, switching between chat tabs, or switching groups.
+- 点击确认按钮或下拉菜单选项、打开及关闭聊天面板、切换聊天标签页或组别时播放。
 
 ---
 
@@ -130,7 +130,7 @@
 
 备注：
 
-- Plays when clicking on `menu-back` or returning to the previous screen.
+- 点击 `menu-back` 或返回上一界面时播放。
 
 ---
 
@@ -138,7 +138,7 @@
 
 备注：
 
-- Plays when confirming a selection that switches screens.
+- 确认切换界面的选项时播放。
 
 ---
 
@@ -146,7 +146,7 @@
 
 备注：
 
-- Plays when clicking on `Back` in the main menu.
+- 点击主菜单中的`返回 (Back)` 按钮时播放。
 
 ---
 
@@ -154,7 +154,7 @@
 
 备注：
 
-- Plays when clicking on `Charts` in the main menu.
+- 点击主菜单中的`图表 (Charts)` 按钮时播放。
 
 ---
 
@@ -162,7 +162,7 @@
 
 备注：
 
-- Plays when clicking on `osu!direct` in the main menu.
+- 点击主菜单中的 `osu!direct` 按钮时播放。
 
 ---
 
@@ -170,7 +170,7 @@
 
 备注：
 
-- Plays when clicking on `Edit` in the main menu.
+- 点击主菜单中的`编辑 (Edit)` 按钮时播放。
 
 ---
 
@@ -178,7 +178,7 @@
 
 备注：
 
-- Plays when clicking on `Exit` in the main menu.
+- 点击主菜单中的`退出 (Exit)` 按钮时播放。
 
 ---
 
@@ -186,7 +186,7 @@
 
 备注：
 
-- Plays when clicking on `Solo` in the main menu.
+- 点击主菜单中的`单人游戏 (Solo)` 按钮时播放。
 
 ---
 
@@ -194,7 +194,7 @@
 
 备注：
 
-- Plays when clicking on `Multiplayer` in the main menu.
+- 点击主菜单中的 `Multiplayer` 按钮时播放。
 
 ---
 
@@ -202,7 +202,7 @@
 
 备注：
 
-- Plays when clicking on `Options` in the main menu.
+- 点击主菜单中的`设置 (Options)` 按钮时播放。
 
 ---
 
@@ -210,7 +210,7 @@
 
 备注：
 
-- Plays when clicking on `Play` in the main menu.
+- 点击主菜单中的`游玩 (Play)` 按钮时播放。
 
 ---
 
@@ -218,7 +218,7 @@
 
 备注：
 
-- Plays when clicking `Back to Menu` in the pause menu.
+- 点击暂停菜单中的`返回菜单 (Back to Menu)` 按钮时播放。
 
 ---
 
@@ -226,7 +226,7 @@
 
 备注：
 
-- Plays when clicking `Continue` in the pause menu.
+- 点击暂停菜单中的`继续 (Continue)` 按钮时播放。
 
 ---
 
@@ -234,7 +234,7 @@
 
 备注：
 
-- Plays when clicking `Retry` in the pause menu.
+- 点击暂停菜单中的`重试 (Retry)` 按钮时播放。
 
 ---
 
@@ -242,7 +242,7 @@
 
 备注：
 
-- Plays when switching into song selection, selecting a beatmap, opening dropdown boxes, opening chat tabs.
+- 切换到选歌界面、选中谱面、打开下拉菜单及聊天标签页时播放。
 
 ---
 
@@ -250,7 +250,7 @@
 
 备注：
 
-- Plays when selecting a difficulty of a beatmap.
+- 选中谱面难度时播放。
 
 ---
 
@@ -258,15 +258,15 @@
 
 备注：
 
-- Plays when a screenshot is taken.
+- 截图时播放。
 
-### Hover
+### 悬停
 
 `back-button-hover.wav`
 
 备注：
 
-- Plays when hovering above the back button.
+- 光标悬停在返回按钮上时播放。
 
 ---
 
@@ -274,7 +274,7 @@
 
 备注：
 
-- Plays when hovering above all selectable boxes except beatmaps or main screen buttons.
+- 光标悬停在除谱面、主界面按钮外所有可选择的框上时播放。
 
 ---
 
@@ -282,7 +282,7 @@
 
 备注：
 
-- Plays when hovering above difficulties.
+- 光标悬停在难度上时播放。
 
 ---
 
@@ -290,7 +290,7 @@
 
 备注：
 
-- Plays when hovering above Back in the main menu.
+- 光标悬停在主菜单中的返回 (Back) 按钮上时播放。
 
 ---
 
@@ -298,7 +298,7 @@
 
 备注：
 
-- Plays when hovering above Charts in the main menu.
+- 光标悬停在主菜单中的图表 (Charts) 按钮上时播放。
 
 ---
 
@@ -306,7 +306,7 @@
 
 备注：
 
-- Plays when hovering above Direct in the main menu.
+- 光标悬停在主菜单中的 Direct 按钮上时播放。
 
 ---
 
@@ -314,7 +314,7 @@
 
 备注：
 
-- Plays when hovering above Edit in the main menu.
+- 光标悬停在主菜单中的编辑 (Edit) 按钮上时播放。
 
 ---
 
@@ -322,7 +322,7 @@
 
 备注：
 
-- Plays when hovering above Exit in the main menu.
+- 光标悬停在主菜单中的退出 (Exit) 按钮上时播放。
 
 ---
 
@@ -330,7 +330,7 @@
 
 备注：
 
-- Plays when hovering above Solo in the main menu.
+- 光标悬停在主菜单中的单人游戏 (Solo) 按钮上时播放。
 
 ---
 
@@ -338,7 +338,7 @@
 
 备注：
 
-- Plays when hovering above Multiplayer in the main menu.
+- 光标悬停在主菜单中的多人游戏 (Multiplayer) 按钮上时播放。
 
 ---
 
@@ -346,7 +346,7 @@
 
 备注：
 
-- Plays when hovering above Options in the main menu.
+- 光标悬停在主菜单中的设置 (Options) 按钮上时播放。
 
 ---
 
@@ -354,7 +354,7 @@
 
 备注：
 
-- Plays when hovering above Play in the main menu.
+- 光标悬停在主菜单中的游玩 (Play) 按钮上时播放。
 
 ---
 
@@ -366,7 +366,7 @@
 
 备注：
 
-- Plays when hovering over Back in pause menu.
+- 光标悬停在暂停菜单中的返回 (Back) 按钮上时播放。
 
 ---
 
@@ -374,7 +374,7 @@
 
 备注：
 
-- Plays when hovering over Continue in pause menu.
+- 光标悬停在暂停菜单中的继续 (Continue) 按钮上时播放。
 
 ---
 
@@ -382,15 +382,15 @@
 
 备注：
 
-- Plays when hovering over Retry in pause menu.
+- 光标悬停在暂停菜单中的重试 (Retry) 按钮上时播放。
 
-### Drag
+### 拖动
 
 `sliderbar.wav`
 
 备注：
 
-- Plays when changing the options via a slider.
+- 使用滑块改变设置时播放。
 
 ---
 
@@ -398,15 +398,15 @@
 
 备注：
 
-- As of now, this is disabled.
+- 到目前为止，此音效已被禁用。
 
-### Multi
+### 多人游戏
 
 `match-confirm.wav`
 
 备注：
 
-- Plays when all players are ready.
+- 所有玩家都准备好时播放。
 
 ---
 
@@ -414,7 +414,7 @@
 
 备注：
 
-- Plays when a player joins a room.
+- 玩家进入房间时播放。
 
 ---
 
@@ -422,7 +422,7 @@
 
 备注：
 
-- Plays when a player leaves a room.
+- 玩家退出房间时播放。
 
 ---
 
@@ -430,7 +430,7 @@
 
 备注：
 
-- Plays when a player revoked his ready signal.
+- 玩家撤销准备信号时播放。
 
 ---
 
@@ -438,7 +438,7 @@
 
 备注：
 
-- Plays when a player is ready to start.
+- 玩家准备好时播放。
 
 ---
 
@@ -446,30 +446,30 @@
 
 备注：
 
-- Plays when the match is starting.
-- This is also the [chat highlight](/wiki/Client/Interface/Chat_console/Highlight) sound.
+- 比赛开始时播放。
+- 也是[聊天中的提及](/wiki/Client/Interface/Chat_console/Highlight)音效。
 
-### Metronome
+### 节拍器
 
 `metronomelow.wav`
 
 备注：
 
-- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
-- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
+- 在谱面编辑器中，会为白色弱拍播放此音效；但编辑器只会使用默认音效。
+- 尽管上述情况存在，此音效也可以用来自定义偏移量调节向导和 osu!catch 中香蕉的音效（每接到一个香蕉，音调都会上升）。
 
-## Gameplay
+## 游玩
 
-The following gameplay sounds are all beatmap skinnable.
+下列游戏声音都可以在谱面皮肤中自定义。
 
-### Countdown
+### 倒计时
 
 `count.wav`
 
 备注：
 
-- This replaces the `count{n}s` sounds (if one sound is wanted).
-- This is also the metronome for the target practice mod.
+- 这会替换 `count{n}s` 音效（如果需要单个音效）。
+- 这也是 target practice 模组的节拍器音效。
 
 ---
 
@@ -491,14 +491,14 @@ The following gameplay sounds are all beatmap skinnable.
 
 `readys.wav`
 
-### Playfield
+### 游玩界面
 
 `comboburst.wav`
 
 备注：
 
-- For multiple sounds, use `comboburst-{n}.wav`.
-- In the [skin.ini](/wiki/Skinning/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
+- 对于多个声音，请使用 `comboburst-{n}.wav`。
+- 在 [skin.ini](/wiki/Skinning/skin.ini) 中，如果将 `CustomComboBurstSounds` 设置为 `1`，则必须使用 `comboburst-{n}.wav`。
 
 ---
 
@@ -506,7 +506,7 @@ The following gameplay sounds are all beatmap skinnable.
 
 备注：
 
-- Plays when player breaks a combo of 20 or more.
+- 玩家断掉 20 及以上的连击时播放。
 
 ---
 
@@ -514,9 +514,9 @@ The following gameplay sounds are all beatmap skinnable.
 
 备注：
 
-- Failing a map at any point.
-- Not intended to last longer than the fail animation (about 5 seconds).
-- Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
+- 任何时候游玩谱面失败时播放。
+- 持续时间不应超过失败动画时长（约 5 秒）。
+- 由于每次游玩谱面时都会加载此音效，尽管你不失败，音效长度过长也会影响客户端性能。其大小不应超过几 KB。
 
 ---
 
@@ -524,7 +524,7 @@ The following gameplay sounds are all beatmap skinnable.
 
 备注：
 
-- Halfway through a break with high HP remaining.
+- 休息时段中途剩余血量较高时使用。
 
 ---
 
@@ -532,17 +532,17 @@ The following gameplay sounds are all beatmap skinnable.
 
 备注：
 
-- Halfway through a break with low HP remaining.
+- 休息时段中途剩余血量较低时使用。
 
-### Game screens
+### 游戏界面
 
 `applause.wav`
 
 备注：
 
-- On the ranking screen after clearing a map.
-- Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
-- Using a long audio track will impact the game client’s performance. It isn’t supposed to be bigger than a few kilobytes.
+- 在完成谱面后的结算屏幕中会播放此音效。
+- 对于旨在上架的谱面，此音效格式应为 `.mp3` 或 `.ogg`。
+- 音效长度过长会影响客户端性能。其大小不应超过几 KB。
 
 ---
 
@@ -550,22 +550,22 @@ The following gameplay sounds are all beatmap skinnable.
 
 备注：
 
-- Plays when the game is paused.
-- This sound is looped.
-- Fades out when the client loses focus.
-- Using a long audio track will impact the game client’s performance. It isn’t supposed to be bigger than a few kilobytes.
+- 游戏暂停时播放。
+- 此音效循环播放。
+- 客户端失去焦点时，此音效会渐隐。
+- 音效长度过长会影响客户端性能。其大小不应超过几 KB。
 
-### Hitsounds
+### 打击音效
 
-Hitsounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
+除非出于特殊目的，否则音效延迟不得大于 5 毫秒。
 
-#### Drum set
+#### Drum 组
 
 `drum-hitnormal.wav`
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `D:C1`。
 
 ---
 
@@ -573,7 +573,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `D:C1`。
 
 ---
 
@@ -581,7 +581,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `D:C1`。
 
 ---
 
@@ -589,7 +589,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `D:C1`。
 
 ---
 
@@ -597,7 +597,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `D:C1`。
 
 ---
 
@@ -605,8 +605,8 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `D:C1`。
+- 此音效循环播放。
 
 ---
 
@@ -614,16 +614,16 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `D:C1`。
+- 此音效循环播放。
 
-#### Normal set
+#### Normal 组
 
 `normal-hitnormal.wav`
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -631,7 +631,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -639,7 +639,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -647,7 +647,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -655,7 +655,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -663,8 +663,8 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `N:C1`。
+- 此音效循环播放。
 
 ---
 
@@ -672,16 +672,16 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `N:C1`。
+- 此音效循环播放。
 
-#### Soft set
+#### Soft 组
 
 `soft-hitnormal.wav`
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -689,7 +689,7 @@ Hitsounds should not have any more than a 5 millisecond delay, unless it has a s
 
 备注：
 
-Mapped as `S:C1` on beatmap skins.
+在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -697,7 +697,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-Mapped as `S:C1` on beatmap skins.
+在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -705,7 +705,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-Mapped as `S:C1` on beatmap skins.
+在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -713,7 +713,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-Mapped as `S:C1` on beatmap skins.
+在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -721,8 +721,8 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `S:C1`。
+- 此音效循环播放。
 
 ---
 
@@ -730,18 +730,18 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
-- This sound is looped.
+- 在谱面皮肤中被编为 `S:C1`。
+- 此音效循环播放。
 
-#### Spinner set
+#### 转盘组
 
 `spinnerspin.wav`
 
 备注：
 
-- This sound is looped.
-- This sound could modulate from ~500 hz to 80000 hz.
-  - To disable this, set `SpinnerFrequencyModulate` to `0`.
+- 此音效循环播放。
+- 此音效音调会在 ~500 hz 到 80000 hz 间变化。
+  - 将 `SpinnerFrequencyModulate` 设置为 `0` 来禁用。
 
 ---
 
@@ -749,17 +749,17 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Plays everytime you get 1000 bonus points from spinning.
+- 每从转盘得到 1000 分时播放。
 
-#### osu!taiko specific
+#### osu!taiko 特定
 
-##### Normal set
+##### Normal 组
 
 `taiko-normal-hitnormal.wav`
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -767,7 +767,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -775,7 +775,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
 ---
 
@@ -783,15 +783,15 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `N:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `N:C1`。
 
-##### Soft set
+##### Soft 组
 
 `taiko-soft-hitnormal.wav`
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -799,7 +799,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -807,7 +807,7 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `S:C1`。
 
 ---
 
@@ -815,16 +815,16 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `S:C1` on beatmap skins.
+- 在谱面皮肤中被编为 `S:C1`。
 
-##### Drum set
+##### Drum 组
 
 `taiko-drum-hitnormal.wav`
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- Only played when mapped and included.
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
 
 ---
 
@@ -832,8 +832,8 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- Only played when mapped and included.
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
 
 ---
 
@@ -841,8 +841,8 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- Only played when mapped and included.
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
 
 ---
 
@@ -850,5 +850,5 @@ Mapped as `S:C1` on beatmap skins.
 
 备注：
 
-- Mapped as `D:C1` on beatmap skins.
-- Only played when mapped and included.
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。

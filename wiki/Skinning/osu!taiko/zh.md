@@ -14,7 +14,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `pippidonclear{n}.png`.
+- 动画文件名： `pippidonclear{n}.png`.
   - You can only skin up 7 frames (from 0 to 6).
   - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
   - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
@@ -33,7 +33,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `pippidonfail{n}.png`.
+- 动画文件名： `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Gameplay/Kiai_time).
@@ -50,7 +50,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `pippidonidle{n}.png`.
+- 动画文件名： `pippidonidle{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
@@ -66,7 +66,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `pippidonkiai{n}.png`.
+- 动画文件名： `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays during [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
@@ -83,7 +83,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taiko-hit0-{n}.png`.
+- 动画文件名： `taiko-hit0-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -98,7 +98,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taiko-hit100-{n}.png`.
+- 动画文件名： `taiko-hit100-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -113,7 +113,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taiko-hit100k-{n}.png`.
+- 动画文件名： `taiko-hit100k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -128,7 +128,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taiko-hit300-{n}.png`.
+- 动画文件名： `taiko-hit300-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -143,7 +143,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taiko-hit300k-{n}.png`.
+- 动画文件名： `taiko-hit300k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -159,7 +159,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 备注：
 
 - Can be animated, but only the zeroth frame will be used.
-  - Animation name: `taiko-hit300g-{n}.png`
+  - 动画文件名： `taiko-hit300g-{n}.png`
 - This image is only used on the ranking screen (instead of `taiko-hit300k.png`).
 
 ## Notes
@@ -193,7 +193,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taikobigcircleoverlay-{n}.png`.
+- 动画文件名： `taikobigcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at combo 50
@@ -228,7 +228,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 备注：
 
-- Animation name: `taikohitcircleoverlay-{n}.png`.
+- 动画文件名： `taikohitcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at 50 combo
