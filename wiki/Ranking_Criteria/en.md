@@ -121,8 +121,8 @@ Important to understand before using:
 - **When romanising an artist's name yourself and no official romanisation is available, it must be romanised in the order it is printed in the unicode field.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
-- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.** In Swedish and Finnish, `ö` and `ä` should instead be romanised to `o` and `a` respectively.
-- **Metadata containing Nordic letters must be romanised to the following: `æ` to `ae`, `ø` to `oe`, `å` to `aa`.** If it is Swedish, `å` should instead be romanised to `a`.
+- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`.** In Swedish and Finnish, `ö` and `ä` should instead be romanised to `o` and `a` respectively.
+- **Metadata containing Nordic letters must be romanised to the following: `æ` to `ae`, `ø` to `oe`, and `å` to `aa`.** In Swedish, `å` should instead be romanised to `a`.
 - **Songs with Russian/Cyrillic metadata are to be romanised using the [BGN/PCGN system](https://en.wikipedia.org/wiki/BGN/PCGN_romanization) method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper.
   - Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`.
   - `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`.
