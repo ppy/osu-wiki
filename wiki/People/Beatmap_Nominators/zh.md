@@ -9,7 +9,7 @@ tags:
 
 *请参阅：[BN 规章制度](Rules)、[对 BN 的期望](Expectations)、[BN 须知](General_Information)、[成为 BN](Becoming_a_Beatmap_Nominator)*
 
-**谱面审核成员** 全称为 Beatmap Nominators (***BN***)，是负责[谱面审核流程](/wiki/Beatmap_ranking_procedure)的一群玩家。他们在论坛和[谱面讨论区](/wiki/Beatmap_discussion)标记为紫色用户名。
+**谱面审核成员** 全称为 Beatmap Nominators (***BN***)，是负责[谱面审核流程](/wiki/Beatmap_ranking_procedure)的一群玩家。可以通过紫色的玩家头衔和写着 `BN` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
 ## 角色与职责
 
