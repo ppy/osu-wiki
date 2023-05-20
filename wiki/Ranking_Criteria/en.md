@@ -108,6 +108,7 @@ Important to understand before using:
 - **If a song title contains short or game version markers, the markers must be standardised to `(Short Ver.)` and `(Game Ver.)` respectively.**
 - **Unofficial cut versions of songs must add a `(Cut Ver.)` marker at the end of the current title.** If a length marker is already in the title of the track, `(Cut Ver.)` would replace it. This is to distinguish unofficial cuts of a song from full length versions. Songs that are shortened in ways that nearly match their official versions, and songs that are a full loop of a looping track will not be considered cut.
   - Note: If an unofficial cut contains matching sections in the same order and is roughly the same length as an official TV size, short version, or game version, it will instead count as an official cut and use the appropriate marker. Covers and remixes do not count.
+- **Unofficial extended versions of songs must add an `(Extended Edit)` marker at the end of the current title.** If a length marker is already in the title of the track, `(Extended Edit)` would replace it. This is to distinguish unofficial extended versions of a song from official extended versions.
 - **If a song has been edited to have a higher tempo, use a `(Sped Up Ver.)` marker at the end of the current title.** If there is an existing sped up version marker in the title, replace it with `(Sped Up Ver.)`. Sped up songs in Techno, Trance, Dance, or other similar genres must use a `(Nightcore Mix)` marker instead.
   - Note: For tracks which are both cut and sped up, combine their markers into `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk (`*`). Other special characters are to be romanised or dropped on case-by-case basis.
@@ -120,7 +121,8 @@ Important to understand before using:
 - **When romanising an artist's name yourself and no official romanisation is available, it must be romanised in the order it is printed in the unicode field.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
-- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
+- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.** In Swedish and Finnish, `ö` and `ä` should instead be romanised to `o` and `a` respectively.
+- **Metadata containing Nordic letters must be romanised to the following: `æ` to `ae`, `ø` to `oe`, `å` to `aa`.** If it is Swedish, `å` should instead be romanised to `a`.
 - **Songs with Russian/Cyrillic metadata are to be romanised using the [BGN/PCGN system](https://en.wikipedia.org/wiki/BGN/PCGN_romanization) method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper.
   - Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`.
   - `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`.
