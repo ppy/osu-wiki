@@ -12,7 +12,7 @@ tags:
 
 *参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
 
-**全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过玩家头衔和玩家名称颜色来认出他们。他们的玩家名称在游戏中是红色，在论坛上是柑橘绿色。
+**全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过红色的游戏内名称、柑橘绿的玩家头衔和写着 `GMT` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
 **全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 

@@ -62,10 +62,9 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 - **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread containing at least 4 difficulties in total.
-  - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread containing at least 3 difficulties in total.
-  - **...between 3:15 and 4:00**, the lowest difficulty of each included key mode cannot be harder than an Insane, **OR** each key mode must provide a proper spread containing at least 2 difficulties in total.
-A "proper" spread *for difficulties Insane and harder* is defined as a spread with gaps in difficulty similar to those between lower [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) as specified in the [difficulty-specific criteria](#difficulty-specific).
+  - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
+  - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
+  - **...between 3:15 and 4:00**, the lowest difficulty of each included key mode cannot be harder than an Insane, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 2 difficulties in total.
 
 ### Guidelines
 
@@ -203,3 +202,7 @@ Additional guidelines for *7 key Insane* difficulties:
 
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Long-term slider velocity changes should be between 0.60x and 1.10x.**
+
+## Notes
+
+[^proper-spread]: A "proper" spread *for difficulties Insane and harder* is defined as a spread with gaps in difficulty similar to those between lower [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) as specified in the [difficulty-specific criteria](#difficulty-specific).

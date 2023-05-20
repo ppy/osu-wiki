@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6c82f44e565fa781d94e635276839381c735ee67
+---
+
 # osu! (ゲームモード)
 
 *その他の用法については、[osu! (曖昧さ回避)](/wiki/Disambiguation/osu!)を参照してください。*

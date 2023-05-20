@@ -20,6 +20,11 @@ Keseluruhan aturan dan pedoman berlaku untuk setiap jenis tingkat kesulitan osu!
 - **Beatmap secara teoritis dapat diambil SS.** Ini berarti wajib untuk menangkap semua [fruit](/wiki/Gameplay/Hit_object/Fruit), [drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) dan [droplet](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - **Setiap beatmap wajib menggunakan setidaknya dua kustom [warna kombo](/wiki/Beatmapping/Combo_colour) yang berbeda, kecuali dipaksakan skin default.** Warna kombo tidak boleh berbaur dengan background/storyboard/video dari beatmap dalam hal apa pun. Ini agar objek yang terkena selalu terlihat oleh pemain dan warna kombo skin kustom tidak menyatu dengan background secara tidak sengaja.
 - **Jangan gunakan keysound tanpa dukungan hitnormal.** Jika suara berpadu sempurna dengan lagu, umpan balik untuk memukul note akan minimal.
+- **Jika [drain time](/wiki/Beatmap/Drain_time) dari setiap tingkat kesulitan...**
+  - **...lebih rendah dari 2:30**, kesulitan terendah tidak bisa lebih sulit daripada Salad.
+  - **...antara 2:30 dan 3:15**, kesulitan terendah tidak bisa lebih sulit daripada Platter.
+  - **...antara 3:15 dan 4:00**, kesulitan terendah tidak bisa lebih sulit daripada Rain.
+  - **[Break time](/wiki/Beatmap/Break) dapat digabungkan dengan [drain time](/wiki/Beatmap/Drain_time) untuk memenuhi ambang batas di atas.** Untuk tingkat kesulitan tertinggi, dibatasi paling banyak 30 detik break time. Ini tidak berlaku untuk kesulitan dengan drain time kurang dari 30 detik.
 
 #### Pedoman
 
