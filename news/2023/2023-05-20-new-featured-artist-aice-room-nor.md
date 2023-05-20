@@ -46,7 +46,7 @@ And in case you need some inspiration before mapping, take a peek at this rendit
 
 ---
 
-As per usual, [**Aice room / Nor**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/360) has a bunch more songs to choose from, all available as pre-timed beatmap templates. That'll shave a whole 30 seconds from your upcoming 9 hour mapping project. You're welcome.
+As per usual, [**Aice room / Nor**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/360) has a bunch more songs to choose from, all available as pre-timed beatmap templates. That'll shave a whole 30 seconds from your upcoming 9-hour mapping project. You're welcome.
 
 In other news, we'll be releasing **2** new Featured Artists next week!
 
