@@ -39,7 +39,7 @@ The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/48793
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/project-loved/2023/may23-osu.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-osu.mp4?2023" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -196,7 +196,7 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/project-loved/2023/may23-taiko.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-taiko.mp4?2023" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -288,7 +288,7 @@ The osu!catch Loved candidates were chosen by [fuhie](https://osu.ppy.sh/users/7
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/project-loved/2023/may23-catch.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-catch.mp4?2023" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -353,7 +353,7 @@ The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/us
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/project-loved/2023/may23-mania.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-mania.mp4?2023" type="video/mp4" preload="none">
     </video>
 </div>
 
