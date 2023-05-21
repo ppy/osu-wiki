@@ -196,8 +196,8 @@ Interessante Dinge.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue rote Timing-Sektion am derzeitigen Standort (neue BPM). |
-| Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue grüne Timing-Sektion am derzeitigen Standort (neue Einstellung). |
+| Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue rote Timing-Sektion (neue BPM). |
+| Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue grüne Timing-Sektion (neue Einstellung). |
 | Aktuelle Sektion zurücksetzen | Setze die BPM-Einstellung des roten Offsets am Beginn der Sektion zurück. Wenn du die Beatmap speicherst, ohne einen neuen BPM-Wert festzulegen, wird das rote Offset gelöscht. |
 | Sektion entfernen (`Strg` + `I`) | Entfernt die Timing-Sektion, in der man sich gerade befindet. |
 | Sektion neu ausrichten | Richtet die Timing-Sektion neu aus. |
