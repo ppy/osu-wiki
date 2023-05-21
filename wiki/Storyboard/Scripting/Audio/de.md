@@ -26,7 +26,7 @@ Die zulässigen Werte der Ebenen sind:
 
 ## Beispiel
 
-In diesen Beispiel soll beim Bestehen der Beatmap (z. B. beim Erreichen des Pass-Status) eine Musikdatei mit dem Geräuscheffekt einer Explosion als Teil der Szene abgespielt werden:
+In diesem Beispiel soll beim Bestehen der Beatmap (z. B. beim Erreichen des Pass-Status) ein (kurzes!) Musikstück und anschließend ein Soundeffekt einer Explosion als Teil der Szene abgespielt werden:
 
 ```
 Sample,163520,2,"Audio\Best End.mp3",80
