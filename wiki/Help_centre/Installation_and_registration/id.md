@@ -32,7 +32,7 @@ Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/home/downlo
 
 *Laman utama: [Pendaftaran](/wiki/Registration)*
 
-### Bagaimana caranya bagi saya untuk dapat membuat akun osu!?  {id=how-to-register}
+### Bagaimana caranya bagi saya untuk dapat membuat akun osu!? {id=how-to-register}
 
 **[Unduh osu! terlebih dahulu](https://osu.ppy.sh/home/download), lalu instal dan jalankan. Apabila sudah, ikuti instruksi-instruksi yang tertera pada layar untuk dapat membuat akun baru.**
 
