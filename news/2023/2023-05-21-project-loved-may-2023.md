@@ -232,7 +232,7 @@ This beatmap includes terrifying deathstreams combined with really long trills t
 
 Woaaahhhhh! I'm spinning and can't control myself!
 
-I would like to introduce [Unidentified Frequency Op.3 (Type-Triangle)](https://osu.ppy.sh/beatmapsets/1632760) mapped by [Wadsy](https://osu.ppy.sh/users/2598555). This beatmap was created for the [Expert Global Taiko Showdown 2021](/wiki/en/Tournaments/GTS/EGTS_2021) Grand Finals and featured as the No Mod 5 pick, and for good reason! This song expertly crafted by II-L specially for this tournament contains difficult polyrhythms guaranteed to make you dizzy. With a high overall difficulty to boot, this makes the map very challenging in a unique way! This set also includes an unfamiliar harder difficulty for those up to the challenge!
+I would like to introduce [Unidentified Frequency Op.3 (Type-Triangle)](https://osu.ppy.sh/beatmapsets/1632760) mapped by [Wadsy](https://osu.ppy.sh/users/2598555). This beatmap was created for the [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) Grand Finals and featured as the No Mod 5 pick, and for good reason! This song expertly crafted by II-L specially for this tournament contains difficult polyrhythms guaranteed to make you dizzy. With a high overall difficulty to boot, this makes the map very challenging in a unique way! This set also includes an unfamiliar harder difficulty for those up to the challenge!
 
 Will you soar to the galaxy and vote for this map today?
 
@@ -343,7 +343,7 @@ The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/us
 
 Congratulations to Sweden for winning [this year's edition of Eurovision](https://eurovision.tv/event/liverpool-2023)! This month, we are celebrating with a throwback to Getter Jaani's *Rockefeller Street*, Estonia's entry back in 2011 which set itself as a low-key public pleaser with a catchy tune.
 
-[Logan636](https://osu.ppy.sh/users/9423766) was a major driving force in tournament organization, spearheading many editions of the [4 Digit osu!mania World Cup](/wiki/en/Tournaments/4DM) among other tournaments. With the help of SV mapping veterans [HowToPlayLN](https://osu.ppy.sh/users/10879600) and [zero2snow](https://osu.ppy.sh/users/7751516), this particular map was featured in its [second edition](/wiki/en/Tournaments/4DM/2#group-stage) in the group stage, which is to say that despite belonging to the SV category, it is very affordable and accessible for newer players to try and learn.
+[Logan636](https://osu.ppy.sh/users/9423766) was a major driving force in tournament organization, spearheading many editions of the [4 Digit osu!mania World Cup](/wiki/Tournaments/4DM) among other tournaments. With the help of SV mapping veterans [HowToPlayLN](https://osu.ppy.sh/users/10879600) and [zero2snow](https://osu.ppy.sh/users/7751516), this particular map was featured in its [second edition](/wiki/Tournaments/4DM/2#group-stage) in the group stage, which is to say that despite belonging to the SV category, it is very affordable and accessible for newer players to try and learn.
 
 The "Prosperity" difficulty allows non-SV beginners to enjoy a nice song without troubling themselves too much. "ProSinewaveViewingperity" takes a reading-oriented approach, with scrolling variations that will challenge your accuracy, but normalized spacing which makes it easy to reason about. "ProSubconsciousVisualizationperity" puts emphasis on memorizing the rhythm of the chorus, which is a reasonable entry point into memory-oriented SV maps.
 
