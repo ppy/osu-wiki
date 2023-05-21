@@ -21,7 +21,7 @@ Wenn man mit dem Mauszeiger über das Abzeichen fährt, wird ein Tooltip mit wei
 
 *Hauptseite: [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding)*
 
-Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorativ. Da die Preisauszeichnungen bei [Turnieren](/wiki/Tournaments) jedoch die Leistung der Spieler zeigen, haben einige Turniere [Setzverfahren](https://en.wikipedia.org/wiki/Seed_(sports)) eingeführt, die die Anzahl der Abzeichen der Spieler berücksichtigen, allgemein bekannt als [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding) (im Englischen *badge-weighted seeding* oder *BWS*).
+Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorativ. Da die Preisauszeichnungen bei [Turnieren](/wiki/Tournaments) jedoch die Leistung der Spieler zeigen, haben einige Turniere [Auslosungsverfahren](https://en.wikipedia.org/wiki/Seed_(sports)) eingeführt, die die Anzahl der Abzeichen der Spieler berücksichtigen, allgemein bekannt als [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding) (im Englischen *badge-weighted seeding* oder *BWS*).
 
 ## Geschichte
 
@@ -29,7 +29,7 @@ Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorat
 
 Anstatt die Abzeichen horizontal in einem Container zu stapeln, der sich über die gesamte Seite erstreckte, wurden sie auf der alten Webseite vertikal zwischen dem Benutzernamen und der Landesflagge des Nutzers angeordnet.
 
-Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterbare Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) veranschaulichte dies in [einem populären Tweet](https://twitter.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
+Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterte Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) veranschaulichte dies in [einem populären Tweet](https://twitter.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
 
 ## Trivia
 
