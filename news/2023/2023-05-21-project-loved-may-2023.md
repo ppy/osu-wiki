@@ -22,7 +22,7 @@ Before we move on with the picks, we've got some high-caliber deetz (not the map
 - Applications for the osu!taiko captain and the metadata reviewer positions have been concluded, say hi to our newest recruits who'll be dedicating their time to make the Loved section more awesome:
   - **osu!taiko captains**: [aceticke](https://osu.ppy.sh/users/8838763), [ler1211](https://osu.ppy.sh/users/19901680), [Sebola](https://osu.ppy.sh/users/15821708)
   - **Metadata reviewers**: [Jerry](https://osu.ppy.sh/users/605973), [gzdongsheng](https://osu.ppy.sh/users/8660315), [MadBricktree](https://osu.ppy.sh/users/4790958), [radar](https://osu.ppy.sh/users/7131099)
-- With heavy hearts, we bid farewell to our cherished members [bonkmi](https://osu.ppy.sh/users/21148690), [DigitalHypno](https://osu.ppy.sh/users/4384207), [Doomsday](https://osu.ppy.sh/users/18983), [kestreI](https://osu.ppy.sh/users/16779673), and [Venix](https://osu.ppy.sh/users/5999631), as they have recently announced their resignations. We wish them the best in their future endeavors. 
+- With heavy hearts, we bid farewell to our cherished members [bonkmi](https://osu.ppy.sh/users/21148690), [DigitalHypno](https://osu.ppy.sh/users/4384207), [Doomsday](https://osu.ppy.sh/users/18983), [kestreI](https://osu.ppy.sh/users/16779673), and [Venix](https://osu.ppy.sh/users/5999631), as they have recently announced their resignations. We wish them the best in their future endeavors.
 
 With that out of the way, let's get into May's picks:
 
@@ -36,6 +36,12 @@ With that out of the way, let's get into May's picks:
 ## osu!
 
 The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [Kingling](https://osu.ppy.sh/users/7010761), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), [rHO](https://osu.ppy.sh/users/1629553), [Skill](https://osu.ppy.sh/users/7802027) and [Wixonater](https://osu.ppy.sh/users/10083084)!
+
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-osu.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ---
 
@@ -188,6 +194,12 @@ prepare to geeettttttt dunked on!!!
 
 The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [aceticke](https://osu.ppy.sh/users/8838763), [Boaz](https://osu.ppy.sh/users/13302996), [Eriha](https://osu.ppy.sh/users/16320311), [ler1211](https://osu.ppy.sh/users/19901680) and [Sebola](https://osu.ppy.sh/users/15821708)!
 
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-taiko.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1594935.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -274,6 +286,12 @@ Let's have a coffee break together! ☕☕
 
 The osu!catch Loved candidates were chosen by [fuhie](https://osu.ppy.sh/users/7620002), [Kasumi-sama](https://osu.ppy.sh/users/6177263), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-catch.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1015686.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -332,6 +350,12 @@ So, you want to duel this David-and-Goliath-style? Vote away!
 ## osu!mania
 
 The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [-NoName-](https://osu.ppy.sh/users/10400730), [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), [kadoen](https://osu.ppy.sh/users/12780575), [Mipha-](https://osu.ppy.sh/users/5767941), [Paturages](https://osu.ppy.sh/users/1375479) and [Remuring](https://osu.ppy.sh/users/6522146)!
+
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/project-loved/2023/may23-mania.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ---
 
