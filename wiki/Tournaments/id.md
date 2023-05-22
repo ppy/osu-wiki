@@ -2,7 +2,7 @@
 
 Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Silakan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk memperoleh informasi lebih lanjut seputar cara mengajukan permintaan dukungan resmi untuk turnamenmu (lencana, proses *screening*, dll.).
+Silakan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk memperoleh informasi seputar cara mengajukan permintaan dukungan resmi untuk turnamenmu (baik itu yang menyangkut lencana, proses *screening*, ataupun hal lainnya).
 
 ## Turnamen World Cup resmi
 
