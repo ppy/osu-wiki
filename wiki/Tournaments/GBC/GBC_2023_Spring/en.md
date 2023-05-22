@@ -160,7 +160,7 @@ Due to the large number of players and matches, the match results will be displa
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2023 Spr`.
-2. Possible mod choices for the FreeMod bracket are **No Fail, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
+2. Possible mod choices for the FreeMod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
 3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
    - The rematch should happen after completing scores for the other beatmaps in the mappool.
