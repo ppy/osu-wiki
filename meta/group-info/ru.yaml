@@ -26,7 +26,7 @@ gmt:
 nat:
   subgroups:
     structural: организационные вопросы
-    evaluation: оценивание
+    evaluation: оценка
     leadership: лидерство
 languages:
   partial: частично <language>
