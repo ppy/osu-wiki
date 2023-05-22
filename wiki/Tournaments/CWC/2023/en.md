@@ -152,9 +152,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [Boom Kitty & Ubi - Tokyo Takedown (-Ken) \[Invasion\]](https://osu.ppy.sh/beatmapsets/1996384#fruits/4149134)
   3. [Sota Fujimori - polygon (Rocma) \[overdose\]](https://osu.ppy.sh/beatmapsets/1996386#fruits/4149136)
 - Double Time
-  1. [Cosmicosmo & Slow Shudder - Superheart (autofanboy) (autofanboy) \[Pulse\] *(temporary link)*](https://leoflt.com/s/XUHK)
+  1. [Cosmicosmo & Slow Shudder - Superheart (autofanboy) \[Pulse\]](https://osu.ppy.sh/beatmapsets/1996486#fruits/4149349)
   2. [Mili - Milk (F D Flourite) \[Birth (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1996389#fruits/4149139)
-  3. [ARForest - Journey (Ascendance) (Ascendance) \[Ascendance & Rocma's Rain\] *(temporary link)*](https://leoflt.com/s/XbEs)
+  3. [ARForest - Journey (Ascendance) \[Ascendance & Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/1996539#fruits/4149433)
 - Mixed Mod
   1. [Feint - We Won't Be Alone (feat. Laura Brehm) (JBHyperion) \[Together Forever!\]](https://osu.ppy.sh/beatmapsets/1996392#fruits/4149151)
   2. [Monster Siren - MSR / David Westbom - Dossoles Holiday (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1996395#fruits/4149155)
