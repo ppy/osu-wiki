@@ -10,8 +10,6 @@ Tournois officiels organisés par l'équipe d'osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée par chaque pays participant. C'est un évènement international qui est tenu en général chaque année. Les communautés d'osu! autour du monde travaillent ensemble pour créer un tournoi compétitif.
-
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 31/01/2011 | 08/04/2011 | ::{ flag=TW }:: Taïwan | ::{ flag=NL }:: Pays-Bas | ::{ flag=KR }:: Corée du Sud |
