@@ -49,4 +49,4 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 
 ## Related links
 
-- [osu!dev Discord Server](https://discord.gg/ppy)
+- [osu!dev Discord server](https://discord.gg/ppy)
