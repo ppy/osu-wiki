@@ -95,7 +95,7 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 - **Los patrones en 1/1 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Las subdivisiones principales que debes usar son en su mayoría 2/1, 4/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/1 también es aceptable.
 - **Debes utilizar al menos un descanso de 3/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida o utilizar descansos más cortos puede resultar en demasiada dificultad para un jugador de este nivel.
-- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
 
@@ -123,7 +123,7 @@ Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe ad
 Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes pautas:
 
 - **Los patrones en 1/2 no deben ser de más de 5 notas.**
-- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
 
@@ -143,7 +143,7 @@ Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe ad
 - **Los patrones en 1/4 no deben ser de más de 5 notas.** De otra forma, es muy probable que esto resulte demasiado difícil incluso para jugadores un poco más experimentados.
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2, 1/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/4 también es aceptable.
 - **Debes utilizar al menos un descanso de 3/2 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida o utilizar descansos más cortos puede resultar en demasiada dificultad para un jugador de este nivel.
-- **Los cambios de SV están permitidos.** Sin embargo, éstos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV están permitidos.** Sin embargo, éstos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 - **Los patrones diseñados en 1/4 que tengan al menos un cambio de color deben ser utilizados con precaución.** Idealmente, debes evitar utilizarlos en conjunto a otros patrones de esta naturaleza, ya que el jugador objetivo de esta dificultad aún no se acostumbra a este nivel de complejidad.
 - **Los patrones diseñados en 1/4 que cuenten con más de 3 notas seguidas pueden tener máximo un cambio de color, el que debe suceder al principio o al final del patrón.** Este tipo de patrón debe ser seguido por un breve descanso.
 

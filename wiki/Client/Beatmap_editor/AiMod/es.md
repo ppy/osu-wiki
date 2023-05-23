@@ -10,7 +10,7 @@ outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
 
 **AiMod** es una herramienta incluida en el [beatmap editor](/wiki/Client/Beatmap_editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
-Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, éste no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
+Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, este no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
 
 El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_Criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
