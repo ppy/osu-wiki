@@ -11,7 +11,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2023년 3월 22일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu!dev 디스코드](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내주세요.
+이 문서는 2023년 3월 22일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내주세요.
 
 ## 혜택
 
