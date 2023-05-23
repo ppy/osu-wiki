@@ -106,7 +106,7 @@ tags:
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Немски | Модериране обществото на създатели/редактори |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Немски, Сръбски | Модериране на чат, Модериране обществото на създатели/редактори |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филипински | Модериране на чат |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Немски | Управление на турнири |
 | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Френски, малко Испански | Модериране на чат, Модериране на форум, Модериране обществото на създатели/редактори |
 | ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | Португалски | Модериране на чат |

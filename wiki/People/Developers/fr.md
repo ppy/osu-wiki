@@ -48,7 +48,7 @@ L'effort de développement d'osu! est dirigé par ::{ flag=AU }:: **[peppy](http
 
 ### Comptes de bot
 
-- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
 
 ### Contributeurs
 

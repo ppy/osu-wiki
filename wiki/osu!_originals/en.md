@@ -425,6 +425,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [Sparxe - Zinnober](https://www.youtube.com/watch?v=P_THfvY2ID4) | [#1](https://osu.ppy.sh/beatmapsets/1754903) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Altermis - Chronaria](https://soundcloud.com/altermisdesu/chronaria-igts-2023-grand-finals-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1996407) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
 | Song | Beatmap | Notes |
@@ -442,6 +448,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://soundcloud.com/gtssoundteam/invenzione-no-3n-3r-sonatina) | [#1](https://osu.ppy.sh/beatmapsets/1569783) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) Manten's European Bluelock
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Flamme Du Savoir & Rayes Music - Tabula Rasa](https://open.spotify.com/album/6e9favyeV6o8wVI72F5yNB) | [#1](https://osu.ppy.sh/beatmapsets/1994973) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) PsychedelicMush's Scuffed AF Summer Tournament
 
