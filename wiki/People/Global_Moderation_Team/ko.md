@@ -71,7 +71,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 독일어, 세르비아어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 필리핀어 | 채팅 관리 |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 토너먼트 관리 |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | 채팅 관리 |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 한국어, 일본어 | 채팅 관리 |
