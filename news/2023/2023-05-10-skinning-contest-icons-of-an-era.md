@@ -46,9 +46,10 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 
 ## Schedule
 
-| Event | Time |
-| :-- | :-- |
-| Submission phase | 2023-05-10 |
+| Event | Timestamp |
+| --: | :-- |
+| Announcement | 2023-05-10 |
+| Submission phase | 2023-05-10/2023-07-14 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
