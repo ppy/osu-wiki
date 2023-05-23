@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - GMT
   - moderator
@@ -13,7 +11,7 @@ tags:
 
 *Siehe auch: [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
-**Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres Nutzertitels und ihrer Nutzerfarbe, die rot im Spiel und Zitrusgrün in den Foren ist, zu erkennen.
+**Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_group) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
 **Alle globalen Moderatoren müssen sich an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_Code_of_Conduct) zusätzlich zu den normalen [Community-Richtlinien](/wiki/Rules) halten.**
 
