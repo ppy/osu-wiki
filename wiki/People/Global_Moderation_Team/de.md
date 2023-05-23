@@ -11,7 +11,7 @@ tags:
 
 *Siehe auch: [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
-**Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres Nutzertitels und ihrer Nutzerfarbe, die rot im Spiel und Zitrusgrün in den Foren ist, zu erkennen.
+**Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_group) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
 **Alle globalen Moderatoren müssen sich an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_Code_of_Conduct) zusätzlich zu den normalen [Community-Richtlinien](/wiki/Rules) halten.**
 
@@ -106,7 +106,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Deutsch, Serbisch | Chat-Moderation, Moderation der Mapping-/Modding-Community |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippinisch | Chat-Moderation |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Turnieren |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonesisch, Chinesisch | Chat-Moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Koreanisch, Japanisch | Chat-Moderation |

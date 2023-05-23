@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: de2a27f1930f8e353bf54104d8f588501bff7ee8
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - GMT
   - moderator
@@ -29,7 +29,7 @@ El Global Moderation Team es responsable del bienestar del chat y del foro, y se
 - problemas con el chat (por ejemplo, silencios o acoso)
 - conducta inapropiada en el foro (por ejemplo, comentarios inapropiados)
 - la sección de comentarios y discusiones de beatmaps
-- moderación del perfil de usuario (contenido NSFW o ofensivo en avatares, portada de perfil o detalles, ...)
+- moderación del perfil de usuario (contenido NSFW u ofensivo en avatares, portada de perfil o detalles, ...)
 
 ## Convertirse en moderador
 
@@ -57,7 +57,7 @@ Por lo general, el equipo observará a las personas durante varias semanas o mes
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
@@ -109,7 +109,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán | Moderación de la comunidad de mapping/modding |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemán | Gestión de torneos |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |

@@ -18,7 +18,7 @@
 - 服务器端口：`6667`
 - SSL（安全套接字）：disabled（禁用）
 - 用户名：你的 osu! 用户名。使用下划线代替空格（例如，`beppy master 1000` 应该填写为 `beppy_master_1000`）
-- 密码：从 [IRC 验证页面](https://osu.ppy.sh/p/irc)获取
+- 密码：从[账户设置界面](https://osu.ppy.sh/home/account/edit#legacy-api)获取
 
 *警告：你的 IRC 密码与账户密码不同。**不要把你的密码分享给别人**。*
 
@@ -62,7 +62,7 @@ osu!Bancho 使用纯文本身份验证——确保在您的 IRC 客户端设置�
 
 尝试这样做：
 
-1. 检查你使用的密码是否和 [IRC 验证页面](https://osu.ppy.sh/p/irc)上的一致。
+1. 检查你使用的密码是否和[账户设置界面](https://osu.ppy.sh/home/account/edit#legacy-api)上显示的密码一致。
 2. 应使用下划线替代用户名中的空格（例如，`This Username` 应按 `This_Username` 的格式来输入）。
 
 ### 我能使用其他的昵称么?
@@ -78,7 +78,7 @@ osu!Bancho 使用纯文本身份验证——确保在您的 IRC 客户端设置�
 IRC 标准有一个 IRC 模式的概念，可以理解为每个用户的权限或状态。在 osu!Bancho 中，有两种模式被用于特殊的用户组：
 
 - `+`，或者“语音状态”：用户通过外部 IRC 客户端连接
-- `@`，或者“聊天管理员状态”：用户是聊天室管理员（[GMT（全局管理团队）](/wiki/People/Global_Moderation_Team) 或者 [NAT（审核评估团队）](/wiki/People/Nomination_Assessment_Team)）
+- `@`，或者“聊天管理员状态”：用户是聊天室管理员（[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 或者[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team)）
 
 通过游戏或网站连接到 osu!Bancho 的用户将没有用户名前缀。
 
