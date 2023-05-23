@@ -12,7 +12,7 @@ tags:
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
-Dieser Artikel wurde zuletzt am 22. März 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu!dev Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 22. März 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 

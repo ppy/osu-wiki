@@ -105,7 +105,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピノ語 | チャットモデレーション |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
