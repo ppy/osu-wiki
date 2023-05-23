@@ -98,7 +98,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Niemiecki, serbski | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |

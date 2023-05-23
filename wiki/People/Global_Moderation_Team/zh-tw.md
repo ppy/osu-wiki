@@ -91,7 +91,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙語 | 聊天室管理 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德語 | 論壇管理 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律賓語 | 聊天室管理 |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊帳號 |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊帳號 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德語 | 賽事管理 |
 | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | 法語、一點西班牙語 | 聊天室管理、論壇管理 |
 | ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙語 | 聊天室管理 |

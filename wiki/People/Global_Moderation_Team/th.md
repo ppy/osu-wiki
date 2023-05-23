@@ -106,7 +106,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ผู้บริหารทัวร์นาเมนต์ |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | ผู้ดูแลแชท |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |

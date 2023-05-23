@@ -10,15 +10,15 @@ Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2
 
 ## Sich beteiligen
 
-Die osu! Community Meetings werden derzeit auf einer Discord Stage im [osu!dev Discord](https://discord.gg/ppy) gehostet und auf [peppys Twitch-Kanal](https://www.twitch.tv/ppy) zeitgleich ausgestrahlt. Jedes Treffen dauert voraussichtlich etwa eine Stunde.
+Die osu! Community Meetings werden derzeit auf einer Discord Stage im [osu! Discord-Server](https://discord.gg/ppy) gehostet und auf [peppys Twitch-Kanal](https://www.twitch.tv/ppy) zeitgleich ausgestrahlt. Jedes Treffen dauert voraussichtlich etwa eine Stunde.
 
-Die Meetings werden vorher mit Erinnerungen auf [peppys Twitter](https://twitter.com/ppy) angekündigt. Um über diese Treffen bei deren Beginn benachrichtigt zu werden, markiere dich selbst als interessiert mithilfe des Events auf dem [osu!dev Discord Server](https://discord.gg/ppy).
+Die Meetings werden vorher mit Erinnerungen auf [peppys Twitter](https://twitter.com/ppy) angekündigt. Um über diese Treffen bei deren Beginn benachrichtigt zu werden, markiere dich selbst als interessiert mithilfe des Events auf dem [osu! Discord-Server](https://discord.gg/ppy).
 
 Jeder ist herzlich eingeladen, mitzumachen! Wenn du eine Frage hast oder etwas zur Diskussion beitragen möchtest, kannst du auf der Discord Stage die Hand heben, um Dich in die Warteschlange einzureihen, oder eine Nachricht in den entsprechenden Discord-Thread schreiben, wenn Du Dich nicht traust zu sprechen, die dann laut vorgelesen und beantwortet wird. Bevor du eine Frage stellst, solltest du außerdem die folgenden Richtlinien beachten:
 
 - Plane deine Gesprächsinhalte im Voraus und halte sie so kurz wie möglich.
 - Versuche nur Themen anzusprechen, die die gesamte Community betreffen, nicht nur dich.
-- Eine Verifizierung auf osu!dev ist nicht notwendig, kann aber deine Chancen erhöhen, für Fragen während der Q&A-Sessions ausgewählt zu werden.
+- Eine Verifizierung auf osu! ist nicht notwendig, kann aber deine Chancen erhöhen, für Fragen während der Q&A-Sessions ausgewählt zu werden.
 
 Wir bemühen uns, nicht mehr als 5 Minuten pro Frage zu benötigen. Bitte habe daher Verständnis dafür, dass Fragen, die bereits beantwortet wurden oder besonders allgemein gehalten sind, möglicherweise nicht zur Diskussion gestellt werden.
 
@@ -49,4 +49,4 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 
 ## Weiterführende Links
 
-- [osu!dev Discord](https://discord.gg/ppy)
+- [osu! Discord-Server](https://discord.gg/ppy)
