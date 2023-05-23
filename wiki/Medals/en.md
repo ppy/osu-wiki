@@ -38,7 +38,7 @@ As the Hush-Hush medals are meant to be secret achievements of some sort, the un
 
 ## Beatmap Spotlights
 
-**Beatmap Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that are being contested on the corresponding Beatmap Spotlights ranking chart. The following mods are permitted for use:
+**Beatmap Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four game mode packs* that are being contested on the corresponding Beatmap Spotlights ranking chart. The following mods are permitted for use:
 
 - [Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction)
 - [Difficulty increase mods](/wiki/Gameplay/Game_modifier#difficulty-increase)
@@ -48,7 +48,7 @@ Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 
 
 ## Seasonal Spotlights
 
-**Seasonal Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that are being contested on the corresponding Seasonal Spotlights ranking chart. The following mods are permitted for use:
+**Seasonal Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four game mode packs* that are being contested on the corresponding Seasonal Spotlights ranking chart. The following mods are permitted for use:
 
 - [Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction)
 - [Difficulty increase mods](/wiki/Gameplay/Game_modifier#difficulty-increase)

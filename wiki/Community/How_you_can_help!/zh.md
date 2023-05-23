@@ -62,7 +62,7 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 - 浏览 [Tournaments](https://osu.ppy.sh/community/forums/55) 板块。比赛需要投入大量时间精力，一丝不苟的准备。有些时候你也可以加入，作为旁观者裁判来提供帮助。
 - 看看 [Development](https://osu.ppy.sh/community/forums/2) 板块的近况，这里是大多数专业认真项目聚集且实现的地方。
-  - 加入 [osu!dev Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
+  - 加入 [osu! Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
 - 加入一个[谱面项目](https://osu.ppy.sh/community/forums/53)，享受与他人协作所碰撞出的欢乐火花！
 - 自己开始一个新项目，或者加入其他人的项目！无论是带回来 dancing pippi，亦或是为 osu! 做点很酷的新东西，一切都没有问题！
   - 看看[人气项目列表](/wiki/Community/Projects)。

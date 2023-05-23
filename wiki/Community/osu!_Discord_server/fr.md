@@ -7,7 +7,7 @@ tags:
 
 # Serveur Discord osu!
 
-Le serveur Discord **osu!**, anciennement appelé **osu!dev**, est le serveur [Discord](https://discordapp.com) officiel pour le développement. Le serveur fonctionne comme un centre de discussion et de travail sur les projets open source et communautaires d'osu!. C'est l'endroit principal pour contribuer au développement d'osu! et entrer en contact avec [l'équipe d'osu!](/wiki/People/osu!_team).
+Le serveur Discord **osu!**, anciennement appelé **osu!dev**, est le serveur [Discord](https://discord.com/) officiel pour le développement. Le serveur fonctionne comme un centre de discussion et de travail sur les projets open source et communautaires d'osu!. C'est l'endroit principal pour contribuer au développement d'osu! et entrer en contact avec [l'équipe d'osu!](/wiki/People/osu!_team).
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 

@@ -15,6 +15,11 @@
 - **你的谱面必须理论上可以 SS。** 这意味着必须可以完全接住所有[大果](/wiki/Gameplay/Hit_object/Fruit)、[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)、[小果](/wiki/Gameplay/Hit_object/Juice_stream#小果)。
 - **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义[连击颜色](/wiki/Beatmapping/Combo_colour)。** 无论如何，连击颜色组都不能与谱面的背景图片、故事板、背景视频相混淆。这保证了玩家能看清所有物件，并避免使用了自定义连击颜色组的物件不会凑巧与背景元素相混淆。
 - **请勿在 hitnormal 音效较弱时使用[键盘音](/wiki/Beatmapping/Hitsound#keysound)。** 如果键盘音与歌曲混淆，此时玩家不能获得足够的反馈。
+- **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)...**
+  - **...小于 2:30，则最低难度必须低于或等于 Salad。**
+  - **...在 2:30 到 3:15 之间，则最低难度必须低于或等于 Platter。**
+  - **...在 3:15 到 4:00 之间，则最低难度必须低于或等于 Rain。**
+  - **允许将谱面的[休息时间](/wiki/Beatmap/Break)和[掉血时间](/wiki/Beatmap/Drain_time)加起来，作为度量标准来满足以上要求。** 计算最高难度的时间时，最多只能计入 30 秒的休息时间。如果该难度的掉血时间短于 30 秒，则不能依据此规定来计算。
 
 #### 准则
 
