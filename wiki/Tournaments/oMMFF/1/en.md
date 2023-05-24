@@ -1183,9 +1183,9 @@ Sunday, 20 January 2019:
 
 ## Ruleset
 
-### Gamemodes and scoring system
+### Game modes and scoring system
 
-- This tournament will be hosted for the following gamemodes: osu!, osu!taiko, osu!catch, and osu!mania 4K. In addition, the tournament will use **Score V2** as the scoring system. This requires players to play on the following osu! versions: Stable **(Latest)**, Beta, and Cutting Edge.
+- This tournament will be hosted for the following game modes: osu!, osu!taiko, osu!catch, and osu!mania 4K. In addition, the tournament will use **Score V2** as the scoring system. This requires players to play on the following osu! versions: Stable **(Latest)**, Beta, and Cutting Edge.
 
 ### Tournament formats
 

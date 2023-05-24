@@ -17,7 +17,7 @@ tags:
 
 如果基于社区的锦标赛各项标准均符合官方团队的要求，[osu! 团队](/wiki/People/osu!_team)可以向这些锦标赛酌情提供额外的支持。
 
-文章最后于 2023 年 3 月 22 日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+文章最后于 2023 年 3 月 22 日 更新。如果有任何疑问或需要问题解答，请在 [osu! Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ## 益处
 
