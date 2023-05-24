@@ -10,15 +10,15 @@ Currently, the osu! community meetings are being chaired by [peppy](https://osu.
 
 ## Getting involved
 
-The osu! community meetings are currently hosted on a Discord Stage on the [osu!dev Discord server](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting usually last about an hour.
+The osu! community meetings are currently hosted on a Discord Stage on the [osu! Discord server](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting usually last about an hour.
 
-The meetings are announced with reminders on [peppy's Twitter](https://twitter.com/ppy). To get notified about these meetings when they start, mark yourself as interested using the event posted on the [osu!dev Discord server](https://discord.gg/ppy).
+The meetings are announced with reminders on [peppy's Twitter](https://twitter.com/ppy). To get notified about these meetings when they start, mark yourself as interested using the event posted on the [osu! Discord server](https://discord.gg/ppy).
 
 Everyone is welcome to join! If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread in the `#community-meetings` channel if you are not comfortable speaking, which will be read out loud and answered. In addition, before asking a question, please observe the following guidelines:
 
 - Plan your talking points ahead of time, and keep them as concise as possible.
 - Try to only bring up issues which affect the larger community, not just you. 
-- Verification on osu!dev is not necessary, but may increase your chances of being selected for questions during Q&A sessions.
+- Verification on osu! is not necessary, but may increase your chances of being selected for questions during Q&A sessions.
 
 The aim is to take no more than 5 minutes per question, so please understand that previously answered or especially generic questions may be skipped.
 
@@ -49,4 +49,4 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 
 ## Related links
 
-- [osu!dev Discord](https://discord.gg/ppy)
+- [osu!dev Discord server](https://discord.gg/ppy)
