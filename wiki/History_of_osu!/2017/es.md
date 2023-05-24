@@ -57,7 +57,7 @@ Links:
 
 ## Junio
 
-El equipo de osu! participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, la imagen del menú principal/campo de juego se cambió a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [Opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del Discord de osu!dev, se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fanart de Mocha en Verano.
+El equipo de osu! participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, la imagen del menú principal/campo de juego se cambió a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [Opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server), se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fanart de Mocha en Verano.
 
 Links:
 
@@ -113,7 +113,7 @@ Links:
 
 ## Noviembre
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro artista destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el servidor de Discord de osu!dev se abrió para permitir una discusión abierta. Se abrió el concurso de Fanart de Invierno 2017.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro artista destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server) se abrió para permitir una discusión abierta. Se abrió el concurso de Fanart de Invierno 2017.
 
 Links:
 
