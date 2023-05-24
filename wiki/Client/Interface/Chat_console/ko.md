@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- "or" isn't translated in the tables -->
+
 # 채팅 콘솔
 
 osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` 버튼을 클릭하면 화면 아래쪽에 채팅 콘솔이 표시됩니다.

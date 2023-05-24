@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- "or" isn't translated in the tables -->
+
 # Konsol Chat
 
 Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` pada keyboard untuk membuka konsol chat.

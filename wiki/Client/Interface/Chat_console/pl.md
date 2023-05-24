@@ -1,6 +1,9 @@
 ---
 outdated_translation: true
+needs_cleanup: true
 ---
+
+<!-- "or" isn't translated in the tables -->
 
 # Czat
 
