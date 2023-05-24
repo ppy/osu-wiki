@@ -361,21 +361,17 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 
 직접 링크하는 데 사용하는 섹션의 식별자를 재정의 할 수 있습니다. 자동으로 생성된 식별자가 너무 길거나 까다로운 구두점이나 이미지를 포함하는 경우 커스텀 식별자를 사용해야 합니다.
 
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
 이 기능은 제목이 없는 문서의 특정 부분을 태그하는 데에도 사용할 수 있습니다. 드물게 사용해 주세요:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+{id=tutorial-quote}
 ```
 
 ## 목록
