@@ -8,7 +8,7 @@ date: 2023-05-24 22:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/361/header.jpg)
 
-While most musicians here boast years of experience and massive back-catalogues of music, **tephe** is special. Their first release *Neppa* in 2021 became an instant hit with its J-rock style inspired by VOCALOID artists like *Jin*, *Surii*, *Tsumiki*, and *N-buna*.
+While most musicians here boast years of experience and massive back catalogues of music, **tephe** is special. Their first release *Neppa* in 2021 became an instant hit with its J-rock style inspired by VOCALOID artists like *Jin*, *Surii*, *Tsumiki*, and *N-buna*.
 
 *Neppa* is barely a minute long, so anyone could've predicted that it would be popular here on osu! too.
 
