@@ -253,7 +253,7 @@ The entirety of this skin set is gameplay relevant. Overlaps or gaps between the
 
 ### Mod icon set
 
-This skin set is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
+This skin set is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the game modes of the mapset.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
