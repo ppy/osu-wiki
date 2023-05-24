@@ -36,6 +36,8 @@ Try out any of these maps:
 
 ### tephe - Genjitsu Escape feat. Kagamine Len
 
+Check out [this osu! set](https://osu.ppy.sh/beatmapsets/1997470) hosted by [AirinCat](https://osu.ppy.sh/users/11119539)!
+
 <audio controls>
     <source src="https://assets.ppy.sh/artists/361/Songs/tephe%20-%20Genjitsu%20Escape.mp3">
 </audio>
