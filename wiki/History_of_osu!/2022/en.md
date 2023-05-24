@@ -75,7 +75,7 @@ The Single Tap Mod was implemented for the osu! game mode in osu!(lazer), challe
 
 This month, osu! could get a hold of [Hamu](https://osu.ppy.sh/beatmaps/artists/289), [Darkney](https://osu.ppy.sh/beatmaps/artists/290), [Waterflame](https://osu.ppy.sh/beatmaps/artists/291), [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292), [Koven](https://osu.ppy.sh/beatmaps/artists/293), [Abuse](https://osu.ppy.sh/beatmaps/artists/294), [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295), [Aiyru](https://osu.ppy.sh/beatmaps/artists/296), and [-45](https://osu.ppy.sh/beatmaps/artists/297) to become featured artists.
 
-At COE 2022, one of the largest osu! conventions, peppy did a technical presentation together with [ThePoon](https://osu.ppy.sh/users/718454) on what the infrastructure of osu! looks like behind the scenes. They went over topics such as server cost, database storage and how containerisation software like Docker and Kubernetes is used to implement infrastructure as code.[^coe-osu-infra]
+At [COE](/wiki/en/Community/cavoe's_osu!_event) 2022, one of the largest osu! conventions, peppy did a technical presentation together with [ThePoon](https://osu.ppy.sh/users/718454) on what the infrastructure of osu! looks like behind the scenes. They went over topics such as server cost, database storage and how containerisation software like Docker and Kubernetes is used to implement infrastructure as code.[^coe-osu-infra]
 
 osu!(lazer) received an additional feature, making it possible to create mod presets that save certain mod settings. These presets can be activated by pressing a button in the mod select screen.[^presets]
 
