@@ -2,7 +2,6 @@
 tags:
  - bubble pop
  - full bubble
-no_native_review: true
 ---
 
 # Bubble
@@ -46,7 +45,7 @@ Thread của những beatmap được bubble đã được liệt kê trên nh�
 
 Một bubble có sẵn có thể được **nổ**:
 
-- Theo cách ự động, bởi chính người tạo map, nếu họ đã cập nhật map hay một số tệp của nó.
+- Theo cách tự động, bởi chính người tạo map, nếu họ đã cập nhật map hay một số tệp của nó.
 - Theo cách thủ công, bởi một trong những thành viên của BAT, nếu beatmap đó bắt buộc phải có thêm sự sửa đổi và không thể được xếp hạng trong tình trạng của nó.
 
 Trong cả hai trường hợp, biểu tượng thread của beatmap sẽ được đặt thành một cái bubble đã bị nổ (![Popped bubble icon](/wiki/shared/icon/bubble-pop.gif)) Nếu một bubble được cho nổ bằng cách tự làm, nó đã được giả định rằng một thành viên của BAT hay MAT sẽ chắc chắn rằng những thay đổi cần thiết đã được thực hiện trước khi nó tiếp tục trong tiến trình xếp hạng.
