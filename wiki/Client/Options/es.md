@@ -1,6 +1,6 @@
 # Opciones
 
-![Options menu](img/options_basic.jpg "Menú de opciones \(barra lateral a la izquierda\)")
+![Options menu](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
 
 En el menú principal, haga clic en `Opciones` o presione `O` (o presione `Ctrl` + `O` que funciona en casi cualquier pantalla) para acceder a la barra lateral de opciones y cambiar las opciones disponibles en osu! Una vez que se abre el menú de opciones, puede escribir para buscar una configuración específica. El texto de la barra de búsqueda temblará si la consulta de búsqueda no tiene resultados.
 
@@ -8,7 +8,7 @@ Cuando se cambia una configuración que tiene un valor predeterminado, la barra 
 
 ## General
 
-![General icon](img/general.jpg "Icono de general")
+![General icon](img/general-ES.png "Icono de General")
 
 Esta sección trata sobre su cuenta, configuración de idioma, y actualizaciones para osu!
 
@@ -76,7 +76,7 @@ Si abre la lista desplegable de `Versión`, se le presentarán estas opciones:
 
 ## Gráficos
 
-![Graphics icon](img/graphics.jpg "Icono de gráficos")
+![Graphics icon](img/graphics-ES.png "Icono de Gráficos")
 
 Esta sección trata sobre la apariencia de su cliente de juego, partes de la interfaz y la configuración de video.
 
@@ -120,8 +120,8 @@ Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opcio
 | `Pantalla completa` | Ejecuta el cliente del juego en pantalla completa (generalmente disminuye la latencia de entrada). | Casilla de verificación | `Activada` |
 | `Render at native resolution` | Utiliza la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Activada` |
 | `Minimise on alt-tab during fullscreen` | Minimiza la ventana principal al presionar `Alt` + `Tab`. | Casilla de verificación | `Activada` |
-| `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0%` |
-| `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0%` |
+| `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0 %` |
+| `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0 %` |
 
 - Si `Pantalla completa` está deshabilitado, debajo aparecerá `¡Jugar en modo ventana incrementará la latencia de tus periféricos!`.
 
@@ -167,7 +167,7 @@ Si abre la lista desplegable de `Seasonal backgrounds`, se le presentarán estas
 
 ## Juego
 
-![Gameplay icon](img/gameplay.jpg "Icono de Juego")
+![Gameplay icon](img/gameplay-ES.png "Icono de Juego")
 
 Esta sección trata sobre las configuraciones que afectan el juego.
 
@@ -216,7 +216,7 @@ Si abre la lista desplegable de `Medidor de puntuación`, se le presentarán est
 
 ## Sonido
 
-![Audio icon](img/audio.jpg "Icono de Sonido")
+![Audio icon](img/audio-ES.png "Icono de Sonido")
 
 Esta sección trata sobre las opciones relacionadas con el sonido.
 
@@ -250,7 +250,7 @@ El volumen principal, la música y los efectos se pueden cambiar en otro lugar p
 
 ## Skin
 
-![Skin icon](img/skin.jpg "Icono de Skin")
+![Skin icon](img/skin-ES.png "Icono de Skin")
 
 This section is about skin related things.
 
@@ -273,7 +273,7 @@ This section is about skin related things.
 
 ## Controles
 
-![Input icon](img/input.jpg "Icono de Controles")
+![Input icon](img/input-ES.png "Icono de Controles")
 
 Esta sección trata sobre los periféricos de entrada.
 
@@ -315,3 +315,118 @@ Si abre la lista desplegable de `Confinar cursor`, se le presentarán estas opci
 | :-- | :-- | :-- | :-- |
 | `Activar soporte para TabletPC` | Mejora la compatibilidad con tabletas gráficas y tablet PCs. | Casilla de verificación | `Desactivada` |
 | `Habilitar Wiimote/Tambor TaTaCon` | Habilita la compatibilidad con el control Wii Taiko Drum de Nintendo y Wiimotes. Empareje el dispositivo a través de Bluetooth antes de habilitarlo. | Casilla de verificación | `Desactivada` |
+
+## Editor
+
+![Editor icon](img/editor-ES.png "Icono de Editor")
+
+Esta sección trata sobre el [editor de mapas](/wiki/Client/Beatmap_editor).
+
+Estas opciones solo afectan mientras se trabaja dentro del editor de mapas o en el modo de prueba (prueba de jugabilidad de un mapa).
+
+### General
+
+| Nombre | Descripción | Tipo | Por defecto |
+| :-- | :-- | :-- | :-- |
+| `Video de fondo` | Reproduce el video de fondo del mapa mientras se edita. | Casilla de verificación | `Desactivada` |
+| `Usar skin por defecto` | Usa la skin predeterminada de osu! mientras edita, a pesar de la configuración actual de la skin. | Casilla de verificación | `Desactivada` |
+| `Deslizadores serpenteantes` | Habilita los deslizadores serpenteantes mientras edita. | Casilla de verificación | `Activada` |
+| `Animaciones de golpeo` | Habilita las animaciones de golpeo mientras edita. | Casilla de verificación | `Desactivada` |
+| `Puntos de seguimiento` | Habilita los puntos de seguimiento mientras edita. | Casilla de verificación | `Activada` |
+| `Apilado` | Apila los círculos de golpeo como en el juego. | Casilla de verificación | `Activada` |
+
+Estas opciones se pueden sobrescribir manualmente usando el menú `Ver` en el editor de mapas.
+
+## En línea
+
+![Online icon](img/online-ES.png "Icono de En Línea")
+
+Esta sección trata sobre el chat, espectadores, multijugador, y osu!direct.
+
+### Alertas y Privacidad
+
+| Nombre | Descripción | Tipo | Por defecto |
+| :-- | :-- | :-- | :-- |
+| `Mostrar nuevos mensajes` | Muestra el mensaje de chat más reciente en la parte inferior de la pantalla. El mensaje que se muestra es del canal actual que está viendo. | Casilla de verificación | `Desactivada` |
+| `Ocultar el chat mientras juega` | Si el chat está abierto durante los descansos o los menús del juego, el cliente del juego lo ocultará automáticamente cuando el juego comience de nuevo. | Casilla de verificación | `Activada` |
+| `Mostrar una notificación cuando alguien mencione tu nombre` | Cuando alguien [mencione su nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, aparecerá una notificación. | Casilla de verificación | `Activada` |
+| `Mostrar notificaciones de mensajes de chat` | Muestra una notificación cuando lleguen nuevos mensajes de chat. | Casilla de verificación | `Activada` |
+| `Reproducir un sonido cuando alguien diga tu nombre` | Cuando alguien [mencione su nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, se reproducirá un sonido. | Casilla de verificación | `Activada` |
+| `Compartir tu cuidad actual con otros` | Comparte la ubicación de su ciudad en su tarjeta de usuario (tenga en cuenta que su país ya está compartido). | Casilla de verificación | `Desactivada` |
+| `Mostrar espectadores` | Muestra una lista de los espectadores actuales a la izquierda de la pantalla durante el juego. | Casilla de verificación | `Activada` |
+| `Enlazar automáticamente los mapas a los espectadores` | Envía el mapa que se está jugando actualmente al canal `#spectator` cuando tenga espectadores. | Casilla de verificación | `Activada` |
+| `Mostrar notificaciones mientras juega` | Permite que se muestre una notificación automática durante el juego. Si está deshabilitado, el cliente del juego esperará hasta que termines de jugar. | Casilla de verificación | `Activada` |
+| `Notificar los cambios de estado de tus amigos` | Muestra una notificación cada vez que su amigo se conecte o desconecte. | Casilla de verificación | `Activada` |
+| `Permitir todas las invitaciones de multijugador` | Permite invitaciones de una partida multijugador de cualquier persona. Deshabilitar esto limitará las invitaciones multijugador solo a amigos. | Casilla de verificación | `Activada` |
+
+### Integración
+
+| Nombre | Descripción | Tipo | Por defecto |
+| :-- | :-- | :-- | :-- |
+| `Discord Rich Presence` | Proporciona [datos de presencia enriquecidos a Discord](/wiki/Guides/Discord_Rich_Presence). | Casilla de verificación | `Activada` |
+| `Integrar con el estado de Yahoo!` | Tu yahoo! messenger mostrará la canción que está jugando o escuchando actualmente. Esto debe configurarse desde el sitio web. | Casilla de verificación | `Desactivada` |
+| `Integrar con el estado de MSN Live` | Su Windows Live Messenger mostrará la canción que está jugando o escuchando actualmente. | Casilla de verificación | `Desactivada` |
+| `Iniciar automáticamente las descargas de osu!direct` | Solo para [osu!supporters](/wiki/osu!supporter). Al espectar o jugar en modo multijugador, el mapa se descargará automáticamente. | Casilla de verificación | `Activada` |
+| `Preferir descargas sin vídeo` | Solo para [osu!supporters](/wiki/osu!supporter). Las descargas de osu!direct se limitarán a las versiones sin video de los mapas. | Casilla de verificación | `Desactivada` |
+
+### Chat en juego
+
+| Nombre | Descripción | Tipo | Por defecto |
+| :-- | :-- | :-- | :-- |
+| `Censurar palabras ofensivas` | Reemplaza las palabras ofensivas con `*beep*`. | Casilla de verificación | `Desactivada` |
+| `Filtrar caracteres extranjeros` | Elimina cualquier carácter ASCII no estándar en el chat. | Casilla de verificación | `Desactivada` |
+| `Guardar el historial de mensajes privados` | Los mensajes privados se guardarán en la carpeta `osu!/Logs`. | Casilla de verificación | `Desactivada` |
+| `Bloquear mensajes privados de desconocidos` | Habilitar esto restringirá los mensajes privados solo a amigos. | Casilla de verificación | `Desactivada` |
+| `Usuarios ignorados (separar por espacios)` | Las palabras que ponga aquí serán ignoradas. | Texto | *(vacío)* |
+| `Palabras a notificar (separar por espacios)` | Las palabras que ponga aquí estarán [resaltadas](/wiki/Client/Interface/Chat_console/Highlight) en el chat. | Texto | *(vacío)* |
+
+## Mantenimiento
+
+![Maintenance icon](img/maintenance-ES.png "Icono de Mantenimiento")
+
+Esta sección trata sobre mapas y actualizaciones.
+
+### General
+
+| Nombre | Descripción | Tipo |
+| :-- | :-- | :-- |
+| `Borrar mapas no rankeados` | Elimina todos los mapas no clasificados en tu carpeta de canciones. | Botón |
+| `Forzar permisos de carpeta` | Da permiso de lectura/escritura al cliente del juego para acceder a sus carpetas. (Esto requiere privilegios de administrador para completarse). | Botón |
+| `Marcar todos los mapas como jugados` | Marca todos los mapas como "jugados". | Botón |
+| `Actualizar osu!` | Cierra el cliente del juego y abre el actualizador para buscar actualizaciones y descargarlas, si las hay. | Botón |
+
+En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en su navegador de Internet.
+
+### Debug
+
+#### Versión de compilación
+
+Vea qué versión de compilación tiene actualmente el cliente del juego y qué tipo de actualizaciones de compilación recibe el cliente del juego. Al hacer clic en esto, se lo dirigirá a las notas de la versión usando su navegador preferido.
+
+Las compilaciones se versionan utilizando este esquema de versiones:
+
+```
+b{YYYY}{MM}{DD}.{revision}{type}
+```
+
+- `{YYYY}` es el año de la compilación
+- `{MM}` es el mes de la compilación
+- `{DD}` es el día de la compilación
+- `{revision}` es la revisión de la compilación
+  - Si no hay un número de revisión de la compilación, se eliminará el punto decimal.
+- `{type}` es el tipo de la compilación
+  - Si no hay un valor de tipo de la compilación, asuma que es `Estable`.
+
+## Curiosidades
+
+- Si escribe un nombre de usuario pero deja el cuadro de texto de la contraseña vacío, osu! utilizará ese nombre al guardar la puntuación localmente.
+- Abrir la barra lateral de opciones activará automáticamente `¡Tu osu! está actualizado!` (comenzará a buscar actualizaciones).
+- La opción `Seasonal backgrounds` se agregó después de recibir realimentación positiva al equipo de osu!dev.
+  - Más detalles: [cambios en el fondo del menú principal](https://osu.ppy.sh/community/forums/topics/606931)
+
+### Historia
+
+- La pantalla de opciones anterior era una pantalla real que tenía pestañas, botones, y un fondo azul pálido oscuro.
+- La pantalla de opciones anterior también presentaba una pantalla de selección de skin que también le permitía obtener una vista previa de la reproducción en vivo de un mapa en osu!.
+  - Después de que la pantalla de opciones se moviera a una barra lateral, aún se podía acceder a esta pantalla abriendo un archivo de una skin.
+  - El acceso a esto se eliminó más tarde después de que surgieron las funciones de vista previa de skins y la vista previa en vivo.
