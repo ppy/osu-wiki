@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 no_native_review: true
 tags:
   - devs
@@ -47,7 +49,7 @@ osu! 的開發工作由 osu! 的製作者 ::{ flag=AU }:: **[peppy](https://osu.
 
 ### 機器人帳號
 
-- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
 
 ### 貢獻者
 

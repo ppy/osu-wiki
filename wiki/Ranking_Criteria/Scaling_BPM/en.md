@@ -4,7 +4,7 @@ The Ranking Criteria's rules and guidelines are based around songs of 180 BPM wi
 
 We'll be using the following osu! Normal difficulty guideline as an example:
 
-> **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.**
+> **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 
 For the sake of simplicity, think of 180 BPM as a midpoint.
 
