@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [May 28 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T010000&p1=1440&p2=232&p3=57) |
+| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [May 28 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T000000&p1=1440&p2=232&p3=57) |
 | Thailand ::{ flag=TH }:: | ::{ flag=JP }:: Japan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=28&p3=248) |
 | Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=262&p3=241) |
 | Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [May 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T130000&p1=1440&p2=215&p3=37) |
