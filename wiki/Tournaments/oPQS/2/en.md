@@ -94,7 +94,7 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
     - ::{ flag=PH }:: [Tsk](https://osu.ppy.sh/users/14389528)
     - ::{ flag=PH }:: [FiddleMinger](https://osu.ppy.sh/users/10300115)
     - ::{ flag=PH }:: [Tonskiii](https://osu.ppy.sh/users/11958707)
-    
+
 ## Mappool
 
 ### Qualifiers
@@ -143,6 +143,7 @@ The Qualification mappool shall be composed of 10 maps. The structured is specif
 The mappool shall be structured to have 20 maps, one of which is dedicated as a tiebreaker. For every round, there will be 10 of the 20 maps that will be replaced. The tiebreaker will change every round, meaning the remaining 9 replacements are from the regular picks.
 
 The pool structure for the tournament is specified below:
+
 - NoMod (NM) - 7 maps
 - Hidden (HD) - 4 maps
 - HardRock (HR) - 4 maps
@@ -154,6 +155,7 @@ The pool structure for the tournament is specified below:
 The players should be set up within 10 minutes before the match starts.
 
 **The match are conducted with the following stipulations:**
+
 - No warm-ups
 - All players are to use the !roll command. The order of the bans and picks for each player is decided
 by the rolls whereas the highest roll being player 1 and the lowest player 4.
