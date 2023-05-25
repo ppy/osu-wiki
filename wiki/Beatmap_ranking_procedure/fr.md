@@ -27,7 +27,7 @@ Les nouveaux beatmappers ont généralement besoin d'un important travail de mod
 
 Avant d'être proposées au classement, les beatmaps doivent recevoir des messages de [hype](/wiki/Beatmap/Hype) d'au moins cinq utilisateurs différents.
 
-## Nominations {#nominations}
+## Nominations {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-fr.png "Statut du classement de la beatmap affiché sur la page de discussion, avec les barres de progression des hypes et des nominations partiellement remplies.")
