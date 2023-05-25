@@ -78,14 +78,13 @@
 | `/delfriend [用户]` | 将`[用户]`从好友列表中移除。 | `/delfriend Amigo` | 你和 Amigo 已不再是好友。 (You are no longer friends with Amigo.) |
 | `/away [消息]` | 设置离开消息（将回复至私信你的用户）。将消息留空以取消离开状态。 | `/away 我是 John Smith.` | 你已被标为离开：我是 John Smith. (You have been marked as being away: 我是 John Smith.) 当 Amigo 在私信 John 问他在哪儿时，BanchoBot 将回答： `我是 John Smith`. |
 | `/bb` | 给 Bancho 发送消息以执行命令（比如 `!stats [用户]`）。如： rank `[number]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [用户]` | 打开指定用户的聊天标签页。 | `/chat Amigo` | （会打开 Amigo 标签页） |
+| `/chat [用户]` 或 `/msg [用户]` 或 `/query [用户]` | 打开指定用户的聊天标签页。 | `/chat Amigo` | （会打开 Amigo 标签页） |
 | `/clear` | 清除当前聊天标签页的全部内容。 | `/clear` | （ 基本上，当前标签页下的所有内容均会被清除 ） |
 | `/ignore [用户][@chp]` | 在本次登录中忽略特定用户的所有消息。在后面加上 @ 和/或 c、 h、 p 字母，可以分别从聊天、[提及你的消息](Highlight)和私信中屏蔽该用户。 | `/ignore Amigo@chp` | BanchoBot: 你不会再收到 Amigo 的{聊天消息}{提及你的消息}{私信}。 (You will no longer hear Amigo {chat} {highlights} {PM}) （你的聊天面板被设为：\[c\] 屏蔽 Amigo 发送的任何消息，\[h\] 屏蔽 Amigo 发送的任何提及你名字的消息，\[p\] 屏蔽 Amigo 给你发送的任何私信） |
-| `/j [频道]` or `/join [频道]` | 加入指定的频道。 | `/join #lobby` | （会打开 #lobby 标签页） |
-| `/p` or `/part` | 离开当前加入的频道。 | `/part` | 未知 |
+| `/j [频道]` 或 `/join [频道]` | 加入指定的频道。 | `/join #lobby` | （会打开 #lobby 标签页） |
+| `/p` 或 `/part` | 离开当前加入的频道。 | `/part` | 未知 |
 | `/unignore [用户]` | 取消屏蔽在此次登录时所屏蔽的用户。 | `/unignore Amigo` | 你现在能收到 Amigo 的消息了。 (You may now hear Amigo.) （你的聊天窗口将重新显示 Amigo 所发的消息 ） |
 | `/me [动作]` | 以第三人称发送消息。 | `/me 在家` | * John 在家 |
-| `/msg [用户] [消息文字]` | 给 `[用户]` 发送私信。 | `/msg Amigo 我生病在家。` | （在 Amigo 标签页下） John: 我生病在家。 |
 | `/np` | 发送你当前正在听或游玩的歌曲。 | `/np` | （当游玩时） \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` or `/r` | 回复最近一条收到的私信。 | `/r 你知道什么好医生吗？` | （在 Amigo 标签页下） \[历史消息\] John: 我生病在家。 Amigo: 真的？ John: 你知道什么好医生吗？ |
 | `/savelog` | 将当前标签页中的聊天记录存储为文件。 | `/savelog` | （在 osu! 目录下将创建一个名为 “Chat” 的文件夹，包含在该标签页下的所有聊天记录） |
