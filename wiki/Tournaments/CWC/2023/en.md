@@ -133,7 +133,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | Brazil ::{ flag=BR }:: | ::{ flag=GB }:: United Kingdom | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=45&p3=136) | [^losers-bracket] |
 | Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=131&p3=48) | [^losers-bracket] |
 
-
 ## Mappools
 
 ### Round of 16
@@ -435,5 +434,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^losers-bracket]: Winners bracket match
-[^showmatch]: Showmatch: Players from countries that did not have enough players to form a team
+[^showmatch]: Showmatch – players from countries that did not have enough players to form a team
 [^winners-bracket]: Losers bracket match
