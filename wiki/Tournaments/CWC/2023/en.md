@@ -115,6 +115,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [May 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T110000&p1=1440&p2=235&p3=187) |
 | China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [May 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T130000&p1=1440&p2=33&p3=239) |
 | Spain ::{ flag=ES }:: | ::{ flag=VN }:: Vietnam | [May 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T150000&p1=1440&p2=141&p3=95) |
+| Red Team | Blue Team | [May 27 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T163000&p1=1440) |
 | Canada ::{ flag=CA }:: | ::{ flag=AR }:: Argentina | [May 27 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T180000&p1=1440&p2=188&p3=51) |
 | Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [May 27 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T210000&p1=1440&p2=155&p3=16) |
 
