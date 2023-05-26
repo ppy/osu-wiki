@@ -108,29 +108,30 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ### Saturday, 27 May 2023
 
-| Team A | Team B | Match time |
-| --: | :-- | :-- |
-| New Zealand ::{ flag=NZ }:: | ::{ flag=FR }:: France | [May 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T100000&p1=1440&p2=264&p3=195) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [May 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T100000&p1=1440&p2=102&p3=108) |
-| South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [May 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T110000&p1=1440&p2=235&p3=187) |
-| China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [May 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T130000&p1=1440&p2=33&p3=239) |
-| Spain ::{ flag=ES }:: | ::{ flag=VN }:: Vietnam | [May 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T150000&p1=1440&p2=141&p3=95) |
-| Canada ::{ flag=CA }:: | ::{ flag=AR }:: Argentina | [May 27 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T180000&p1=1440&p2=188&p3=51) |
-| Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [May 27 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T210000&p1=1440&p2=155&p3=16) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| New Zealand ::{ flag=NZ }:: | ::{ flag=FR }:: France | [May 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T100000&p1=1440&p2=264&p3=195) | [^losers-bracket] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [May 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T100000&p1=1440&p2=102&p3=108) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [May 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T110000&p1=1440&p2=235&p3=187) | [^winners-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [May 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T130000&p1=1440&p2=33&p3=239) | [^losers-bracket] |
+| Spain ::{ flag=ES }:: | ::{ flag=VN }:: Vietnam | [May 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T150000&p1=1440&p2=141&p3=95) | [^losers-bracket] |
+| Red Team | Blue Team | [May 27 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T163000&p1=1440) | [^showmatch] |
+| Canada ::{ flag=CA }:: | ::{ flag=AR }:: Argentina | [May 27 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T180000&p1=1440&p2=188&p3=51) | [^winners-bracket] |
+| Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [May 27 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230527T210000&p1=1440&p2=155&p3=16) | [^winners-bracket] |
 
 ### Sunday, 28 May 2023
 
-| Team A | Team B | Match time |
-| --: | :-- | :-- |
-| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [May 28 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T000000&p1=1440&p2=232&p3=57) |
-| Thailand ::{ flag=TH }:: | ::{ flag=JP }:: Japan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=28&p3=248) |
-| Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=262&p3=241) |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [May 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T130000&p1=1440&p2=215&p3=37) |
-| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [May 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T140000&p1=1440&p2=145&p3=166) |
-| United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [May 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T150000&p1=1440&p2=263&p3=101) |
-| Denmark ::{ flag=DK }:: | ::{ flag=CO }:: Colombia | [May 28 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T180000&p1=1440&p2=69&p3=41) |
-| Brazil ::{ flag=BR }:: | ::{ flag=GB }:: United Kingdom | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=45&p3=136) |
-| Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=131&p3=48) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [May 28 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T000000&p1=1440&p2=232&p3=57) | [^winners-bracket] |
+| Thailand ::{ flag=TH }:: | ::{ flag=JP }:: Japan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=28&p3=248) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | [May 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T120000&p1=1440&p2=262&p3=241) | [^winners-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [May 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T130000&p1=1440&p2=215&p3=37) | [^winners-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [May 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T140000&p1=1440&p2=145&p3=166) | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [May 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T150000&p1=1440&p2=263&p3=101) | [^winners-bracket] |
+| Denmark ::{ flag=DK }:: | ::{ flag=CO }:: Colombia | [May 28 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T180000&p1=1440&p2=69&p3=41) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=GB }:: United Kingdom | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=45&p3=136) | [^losers-bracket] |
+| Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [May 28 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230528T190000&p1=1440&p2=131&p3=48) | [^losers-bracket] |
 
 ## Mappools
 
@@ -432,3 +433,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
+[^losers-bracket]: Winners bracket match
+[^showmatch]: Showmatch – players from countries that did not have enough players to form a team
+[^winners-bracket]: Losers bracket match
