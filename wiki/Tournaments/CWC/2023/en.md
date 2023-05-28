@@ -168,7 +168,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [polysha - Has not come yet (Jemzuu) \[Awaiting arrival\] *(temporary link)*](https://leoflt.com/s/KAnX)
   3. [SEPHID - Critical Cannonball (Extended ver.) (Rocma) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2000373#fruits/4158953)
 - Mixed Mod
-  1. [COSIO(ZUNTATA) - FUJIN Rumble (Ascendance) \[MASTER\] *(temporary link)*](https://leoflt.com/s/W31f)
+  1. [COSIO(ZUNTATA) - FUJIN Rumble (Ascendance) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2000410#fruits/4159019)
   2. [Mitsukiyo - Juu Rokuji no Hitoritabi (Mniam) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2000381#fruits/4158965)
 - Tiebreaker
   1. **[Gram vs. Kobaryo - Yggdrasil (Du5t) \[Du5t & Deif's Surge to Asgard\]](https://osu.ppy.sh/beatmapsets/2000386#fruits/4158972)**
