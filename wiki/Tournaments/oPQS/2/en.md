@@ -97,6 +97,90 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 
 ## Mappool
 
+### Finals
+
+- NoMod
+  1. [25-ji, Nightcord de. x Kagamine Len - Bug [Guruguru]](https://osu.ppy.sh/beatmapsets/1997245#osu/4151115)
+  2. [Team Grimoire - Dantalion [Conflict]](https://osu.ppy.sh/beatmapsets/1622117#osu/3311891)
+  3. [Shiggy Jr. - Oteage Psychics [Extra!!]](https://osu.ppy.sh/beatmapsets/1997246#osu/4151120)
+  4. [N2 - NULL APOPHENIA [conQUEST failed kasi di ko siya nahanap]](https://osu.ppy.sh/beatmapsets/1995015#osu/4146045)
+  5. [MisoilePunch - Mesheer [Divine]](https://osu.ppy.sh/beatmapsets/1824319#osu/3743383)
+  6. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+  7. [Plutian - Until the Blue Moon Rises [Special]](https://osu.ppy.sh/beatmapsets/995205#osu/2081848)
+- Hidden
+  1. [Morimori Atsushi - Txxs or get the fxxk out!! [Delis' Extra]](https://osu.ppy.sh/beatmapsets/1686490#osu/3447527)
+  2. [Marmalade butcher - Noxious [Morri's Hidden Expert]](https://osu.ppy.sh/beatmapsets/1638116#osu/3356020)
+  3. [Toromaru - Formless Canvas [Panda & elicz1's Expert]](https://osu.ppy.sh/beatmapsets/1727694#osu/3531367)
+  4. [Frums - theyaremanycolors [s0m3xtra]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052461)
+- Hard Rock
+  1. [Rita - dorchadas [Luscent's extra]](https://osu.ppy.sh/beatmapsets/1673436#osu/3489482)
+  2. [SHIKI - Pure Ruby [Another]](https://osu.ppy.sh/beatmapsets/39325#osu/125448)
+  3. [Mili - String Theocracy [May you find your book in this place. (quickfire HR)]](https://osu.ppy.sh/beatmapsets/1995919#osu/4148070)
+  4. [James Landino - Hide And Seek [Extra]](https://osu.ppy.sh/beatmapsets/972932#osu/2036902)
+- Double Time
+  1. [ClariS - Hitorigoto -TV MIX- [Little's Insane]](https://osu.ppy.sh/beatmapsets/596704#osu/1264763)
+  2. [ChomuP - Gate of Steiner [Insane]](https://osu.ppy.sh/beatmapsets/48941#osu/157886)
+  3. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
+  4. [Mitsukiyo - Luminous Memory [Insane]](https://osu.ppy.sh/beatmapsets/1796025#osu/3684847)
+- Tiebreaker
+  1. [Studio EIM - Gebura 1-3 [The Red Mist]](https://osu.ppy.sh/beatmapsets/1995931#osu/4148086)
+
+### Semifinals
+
+- NoMod
+  1. [25-ji, Nightcord de. x Kagamine Len - Bug [Guruguru]](https://osu.ppy.sh/beatmapsets/1997245#osu/4151115)
+  2. [Mitsukiyo - Theme 91 [freeuma]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
+  3. [Shiggy Jr. - Oteage Psychics [Extra!!]](https://osu.ppy.sh/beatmapsets/1997246#osu/4151120)
+  4. [NAYEON - LOVE COUNTDOWN (Feat. Wonstein) [ConQuest na nahanap ko na siya]](https://osu.ppy.sh/beatmapsets/1997336#osu/4151384)
+  5. [MisoilePunch - Mesheer [Divine]](https://osu.ppy.sh/beatmapsets/1824319#osu/3743383)
+  6. [Risshuu feat. Choko - Take [Yoshino's Extra]](https://osu.ppy.sh/beatmapsets/1376486#osu/2857448)
+  7. [TSUNKU - Ringside Perfect Version [ee]](https://osu.ppy.sh/beatmapsets/1219178#osu/2536511)
+- Hidden
+  1. [BUTAOTOME - Gensou no Satellite [Extra]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
+  2. [Marmalade butcher - Noxious [Morri's Hidden Expert]](https://osu.ppy.sh/beatmapsets/1638116#osu/3356020)
+  3. [P4koo - Crystal Illusion [Ultra]](https://osu.ppy.sh/beatmapsets/797393#osu/1674629)
+  4. [Frums - theyaremanycolors [s0m3xtra]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052461)
+- Hard Rock
+  1. [Rita - dorchadas [Luscent's extra]](https://osu.ppy.sh/beatmapsets/1673436#osu/3489482)
+  2. [Hioka Natsumi & Yasumoto Hiroki feat. Kumaide-mura no Minasan - KUMAMIKO DANCING (TV Size) [Zero's Insane]](https://osu.ppy.sh/beatmapsets/441668#osu/950964)
+  3. [Mili - String Theocracy [May you find your book in this place. (quickfire HR)]](https://osu.ppy.sh/beatmapsets/1995919#osu/4148070)
+  4. [James Landino - Hide And Seek [Extra]](https://osu.ppy.sh/beatmapsets/972932#osu/2036902)
+- Double Time
+  1. [ClariS - Hitorigoto -TV MIX- [Little's Insane]](https://osu.ppy.sh/beatmapsets/596704#osu/1264763)
+  1. [ChomuP - Gate of Steiner [Insane]](https://osu.ppy.sh/beatmapsets/48941#osu/157886)
+  1. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
+  1. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
+- Tiebreaker
+  1. [Dirty Loops & Cory Wong - Follow The Light [Racing to the Stars]](https://osu.ppy.sh/beatmapsets/1582334#osu/3231534)
+
+### Round of 16
+
+- NoMod
+  1. [Twin-Tails - Twintail Dreamer! (TV Size) [Baka's Twintail Extra]](https://osu.ppy.sh/beatmapsets/1115213#osu/2331868)
+  2. [Mitsukiyo - Theme 91 [freeuma]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
+  3. [Tarako - Bing Chilling-ish [My Angel Jeremy's Social Credit Grind]](https://osu.ppy.sh/beatmapsets/1820912#osu/3736423)
+  4. [NAYEON - LOVE COUNTDOWN (Feat. Wonstein) [ConQuest na nahanap ko na siya]](https://osu.ppy.sh/beatmapsets/1997336#osu/4151384)
+  5. [Gram - Nibelungen [lungaspeeding]](https://osu.ppy.sh/beatmapsets/1783116#osu/3651733)
+  6. [Risshuu feat. Choko - Take [Yoshino's Extra]](https://osu.ppy.sh/beatmapsets/1376486#osu/2857448)
+  7. [TSUNKU - Ringside Perfect Version [ee]](https://osu.ppy.sh/beatmapsets/1219178#osu/2536511)
+- Hidden
+  1. [BUTAOTOME - Gensou no Satellite [Extra]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
+  2. [sasakure.UK - Jack-the-Ripper [ReMiX]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
+  3. [P4koo - Crystal Illusion [Ultra]](https://osu.ppy.sh/beatmapsets/797393#osu/1674629)
+  4. [EmoCo. - This Club is Not 4 U [#5: Yugu's Extra]](https://osu.ppy.sh/beatmapsets/1282123#osu/2663020)
+- Hard Rock
+  1. [kessoku band - Seishun Complex (TV Size) [the outside world is not for me]](https://osu.ppy.sh/beatmapsets/1886769#osu/3885326)
+  2. [Hioka Natsumi & Yasumoto Hiroki feat. Kumaide-mura no Minasan - KUMAMIKO DANCING (TV Size) [Zero's Insane]](https://osu.ppy.sh/beatmapsets/441668#osu/950964)
+  3. [cYsmix - triangles [Chaoz's Expert]](https://osu.ppy.sh/beatmapsets/1841885#osu/3783209)
+  4. [Warak - Slow Motion (feat. DongGeyoung) [DeviousPanda's Expert]](https://osu.ppy.sh/beatmapsets/1014716#osu/2155904)
+- Double Time
+  1. [Amatsuki - DORAEMON [Insane]](https://osu.ppy.sh/beatmapsets/853519#osu/1783814)
+  1. [Sound Souler - Eternalism 2 [Gibune's Insane]](https://osu.ppy.sh/beatmapsets/1299190#osu/2694599)
+  1. [mafumafu - Kakushigoto [NiNo's Light Insane.]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
+  1. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
+- Tiebeaker
+  1. [Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)
+
 ### Qualifiers
 
 - NoMod
