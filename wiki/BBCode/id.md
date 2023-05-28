@@ -4,7 +4,7 @@
 
 BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan hampir seluruh forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan tulisan dalam format *rich text* melalui berbagai tag, di mana masing-masing tag memiliki fungsinya tersendiri seperti memformat teks, memberikan atribut, menyematkan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan di berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
-![Rditor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Rditor post pada forum osu!")  
+![Editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Editor post pada forum osu!")  
 
 ## Perilaku
 
@@ -87,7 +87,7 @@ Tag `[size]` atau *ukuran huruf* digunakan untuk mengubah ukuran huruf pada teks
 
 Argumen `UKURAN` pada tag ini tidak ditulis dengan tanda kutip dan hanya dapat diisi dengan salah satu dari empat ukuran huruf yang didukung. Apabila ukuran huruf yang dimasukkan bukan merupakan salah satu dari empat ukuran yang tertera di atas, teks akan ditulis dalam ukuran normal.
 
-Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size")
+Tombol pada toolbar: ![Tombol Ukuran Huruf](img/font-size-id.png "Font size")
 
 ### Spoiler
 
@@ -336,7 +336,7 @@ Tag `[lucky]` merupakan tag lawas yang dahulu digunakan untuk menautkan teks ke 
 [teks]
 ```
 
-Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan untuk menampilkan teks sebagai tulisan tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan teks yang bersangkutan hanya akan muncul sebagai tajuk setelah post diterbitkan (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
+Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan untuk menampilkan teks sebagai tulisan tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan teks yang bersangkutan hanya akan muncul sebagai tajuk setelah post diterbitkan (tajuk ini tidak akan muncul pada layar pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan sepasang tanda kurung tanpa tag pembuka dan penutup.
 
 ## Trivia
 
