@@ -147,9 +147,9 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
   4. [James Landino - Hide And Seek [Extra]](https://osu.ppy.sh/beatmapsets/972932#osu/2036902)
 - Double Time
   1. [ClariS - Hitorigoto -TV MIX- [Little's Insane]](https://osu.ppy.sh/beatmapsets/596704#osu/1264763)
-  1. [ChomuP - Gate of Steiner [Insane]](https://osu.ppy.sh/beatmapsets/48941#osu/157886)
-  1. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
-  1. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
+  2. [ChomuP - Gate of Steiner [Insane]](https://osu.ppy.sh/beatmapsets/48941#osu/157886)
+  3. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
+  4. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
 - Tiebreaker
   1. [Dirty Loops & Cory Wong - Follow The Light [Racing to the Stars]](https://osu.ppy.sh/beatmapsets/1582334#osu/3231534)
 
@@ -175,9 +175,9 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
   4. [Warak - Slow Motion (feat. DongGeyoung) [DeviousPanda's Expert]](https://osu.ppy.sh/beatmapsets/1014716#osu/2155904)
 - Double Time
   1. [Amatsuki - DORAEMON [Insane]](https://osu.ppy.sh/beatmapsets/853519#osu/1783814)
-  1. [Sound Souler - Eternalism 2 [Gibune's Insane]](https://osu.ppy.sh/beatmapsets/1299190#osu/2694599)
-  1. [mafumafu - Kakushigoto [NiNo's Light Insane.]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
-  1. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
+  2. [Sound Souler - Eternalism 2 [Gibune's Insane]](https://osu.ppy.sh/beatmapsets/1299190#osu/2694599)
+  3. [mafumafu - Kakushigoto [NiNo's Light Insane.]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
+  4. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
 - Tiebeaker
   1. [Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)
 
