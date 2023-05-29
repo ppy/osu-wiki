@@ -41,19 +41,19 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730) |
+| Host | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIite](https://osu.ppy.sh/users/13470730) |
 | Mappool selector | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667), ::{ flag=PH }:: [Cohue](https://osu.ppy.sh/users/12538598)  |
 | Custom mapper | ::{ flag=PH }:: [Anastaxia](https://osu.ppy.sh/users/5375302), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=PH }:: [Kyuuchie](https://osu.ppy.sh/users/11057641), ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608), ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |
 | Playtesters | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=US }:: [SilenceSuzuka](https://osu.ppy.sh/users/7249644), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=PH }:: [xX_MusicMan_Xx](https://osu.ppy.sh/users/5718989), ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
 | Spreadsheet | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Kuchikicombi](https://osu.ppy.sh/users/2989462) |
+| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895) |
 | Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 
 ## Links
 
-- News article
+- [News article](https://osu.ppy.sh/home/news/2023-05-29-osu-philippines-conquest-festival-2023)
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
