@@ -4,9 +4,9 @@ title: "osu! Philippines: CONQuest Festival 2023"
 date: 2023-05-29 07:00:00 +0000
 ---
 
-![Banner](/wiki/shared/news/2023-05-29-osu-philippines-conquest-festival-2023/banner.png) 
-
 The osu! Philippines Community is excited to announce its second (unofficial) osu! community-ran space at [CONQuest Festival 2023](https://conquestph.com), which will be held at the SMX Convention Centre in Pasay City, Philippines!
+
+![Banner](/wiki/shared/news/2023-05-29-osu-philippines-conquest-festival-2023/banner.png)
 
 The osu! booth will have games, goodies, and more as the Filipino community; players and non-players alike, get to know and enjoy osu! more!
 
