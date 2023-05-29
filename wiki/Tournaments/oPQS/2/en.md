@@ -53,7 +53,7 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 
 ## Links
 
--  [News article](https://osu.ppy.sh/home/news/2023-05-29-osu-philippines-conquest-festival-2023)
+- [News article](https://osu.ppy.sh/home/news/2023-05-29-osu-philippines-conquest-festival-2023)
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
