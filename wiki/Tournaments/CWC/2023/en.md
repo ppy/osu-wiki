@@ -162,7 +162,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 - Hard Rock
   1. [Sabaton - Twilight Of The Thunder God (Kimitakari) \[Kimitakari & M0RU's Ascension to Valhalla\]](https://osu.ppy.sh/beatmapsets/2000365#fruits/4158941)
   2. [KOAN Sound - Jongmyo (wwwww) \[Royal Ancestry\]](https://osu.ppy.sh/beatmapsets/2000393#fruits/4158987)
-  3. [Toromaru - Erinyes (autofanboy) \[Vengeful Spirit\] *(temporary link)*](https://leoflt.com/s/4X6a)
+  3. [Toromaru - Erinyes (autofanboy) \[Vengeful Spirit\]](https://osu.ppy.sh/beatmapsets/2000438#fruits/4159091)
 - Double Time
   1. [RSP - Sakura \~Anata ni Deaete Yokatta\~ (F D Flourite) \[Flouwite's Rain\]](https://osu.ppy.sh/beatmapsets/2000371#fruits/4158949)
   2. [polysha - Has not come yet (Jemzuu) \[Awaiting arrival\] *(temporary link)*](https://leoflt.com/s/KAnX)
