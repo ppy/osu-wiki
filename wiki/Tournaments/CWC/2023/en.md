@@ -165,7 +165,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   3. [Toromaru - Erinyes (autofanboy) \[Vengeful Spirit\]](https://osu.ppy.sh/beatmapsets/2000438#fruits/4159091)
 - Double Time
   1. [RSP - Sakura \~Anata ni Deaete Yokatta\~ (F D Flourite) \[Flouwite's Rain\]](https://osu.ppy.sh/beatmapsets/2000371#fruits/4158949)
-  2. [polysha - Has not come yet (Jemzuu) \[Awaiting arrival\] *(temporary link)*](https://leoflt.com/s/KAnX)
+  2. [polysha - Has not come yet (Jemzuu) \[Awaiting arrival\]](https://osu.ppy.sh/beatmapsets/2000480#fruits/4159250)
   3. [SEPHID - Critical Cannonball (Extended ver.) (Rocma) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2000373#fruits/4158953)
 - Mixed Mod
   1. [COSIO(ZUNTATA) - FUJIN Rumble (Ascendance) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2000410#fruits/4159019)
