@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a391d509fc9af7e2123d5159be8fc90400552b65
+---
+
 # 谱面编辑器菜单
 
 ## 文件

@@ -86,7 +86,7 @@
 | `/unignore [用户]` | 取消屏蔽在此次登录时所屏蔽的用户。 | `/unignore Amigo` | 你现在能收到 Amigo 的消息了。 (You may now hear Amigo.) （你的聊天窗口将重新显示 Amigo 所发的消息 ） |
 | `/me [动作]` | 以第三人称发送消息。 | `/me 在家` | * John 在家 |
 | `/np` | 发送你当前正在听或游玩的歌曲。 | `/np` | （当游玩时） \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
-| `/reply` or `/r` | 回复最近一条收到的私信。 | `/r 你知道什么好医生吗？` | （在 Amigo 标签页下） \[历史消息\] John: 我生病在家。 Amigo: 真的？ John: 你知道什么好医生吗？ |
+| `/reply` 或 `/r` | 回复最近一条收到的私信。 | `/r 你知道什么好医生吗？` | （在 Amigo 标签页下） \[历史消息\] John: 我生病在家。 Amigo: 真的？ John: 你知道什么好医生吗？ |
 | `/savelog` | 将当前标签页中的聊天记录存储为文件。 | `/savelog` | （在 osu! 目录下将创建一个名为 “Chat” 的文件夹，包含在该标签页下的所有聊天记录） |
 | `/watch [用户]` | 开始旁观`[用户]`。 | `/watch Amigo` | \* 已开始旁观 Amigo。 (Started spectating Amigo.) （当 Amigo 玩你也拥有的谱面时，\[经过一段时间的缓冲之后\]你将可以旁观，Amigo 的屏幕左边也会出现你的名字。） |
 | `/nopm` | 设置允许所有人的私信，或仅允许好友的私信。 | `/nopm` | （屏幕中央会弹出一个横幅，显示你允许来自所有人的还是仅好友的私信） |

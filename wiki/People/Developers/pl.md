@@ -52,4 +52,4 @@ Rozwój gry jest prowadzony przez ::{ flag=AU }:: **[peppy'ego](https://osu.ppy.
 
 ### Konta botów
 
-- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
