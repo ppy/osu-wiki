@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 비트맵 노미네이터 규칙
 
 이곳에 나열된 규칙은 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)가 비트맵을 노미네이트 할 때 해도 되는 것과 해서는 안 되는 것뿐만 아니라 기본적인 행동 태도를 결정합니다. 현 규칙은 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT)이 서로 논의한 내용에 비트맵 노미네이터의 제안까지 고려해 정해졌습니다.
