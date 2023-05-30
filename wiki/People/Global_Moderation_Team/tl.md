@@ -49,7 +49,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 | ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat moderation |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum moderation, beatmap moderation |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German | Tournaments, beatmap moderation |
 | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation, beatmap moderation |
 | ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat moderation |

@@ -82,7 +82,7 @@ The Skinning Contest #4 is run by various community members.
 
 **Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
 
-## Theme: Icons of an Era {#theme}
+## Theme: Icons of an Era {id=theme}
 
 This iteration's theme, **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
