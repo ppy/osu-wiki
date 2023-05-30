@@ -11,7 +11,7 @@ Les billets sont actuellement disponibles à l'achat sur le [site web du COE](ht
 | Événement | Horodatage (UTC) |
 | --: | :-- |
 | Annonce | 06/12/2022 |
-| Vente de billet en direct | 22/04/2023 |
+| Vente de billets en direct | 22/04/2023 |
 | Début | 31/07/2023 |
 | Fin | 07/08/2023 |
 
@@ -25,7 +25,7 @@ Les billets sont actuellement disponibles à l'achat sur le [site web du COE](ht
 - [Chaîne YouTube](https://www.youtube.com/@coevent)
 - [Chaîne Twitch](https://www.twitch.tv/coevent)
 - [Tweet d'annonce](https://twitter.com/CavoesOsuEvent/status/1600211082370424832)
-- [News post d'annonce de vente de billtets](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
+- [News post d'annonce de vente de billets](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
 
 ## Organisation
 

@@ -12,7 +12,7 @@
 
 :::
 
-**cavoe's osu! event** (***COE***) est une convention osu! annuelle hébergé au Pays-Bas, fondé par ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). L'évênement accueille des tournois et propose des places réservées pour les ordinateurs personnels (BYOC), des stands de jeux, des événements scéniques liés à osu! et d'autres activités.
+**cavoe's osu! event** (***COE***) est une convention osu! annuelle hébergée aux Pays-Bas, fondée par ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). L'événement accueille des tournois et propose des places réservées pour les ordinateurs personnels (BYOC), des stands de jeux, des événements scéniques liés à osu! et d'autres activités.
 
 ## Itérations
 
