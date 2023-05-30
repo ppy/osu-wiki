@@ -1,8 +1,8 @@
 # cavoe's osu! event 2023
 
-![bannière COE 2023](img/banner.png)
+![Bannière COE 2023](img/banner.png)
 
-**cavoe's osu! event 2023** (***COE 2023***) est une convention osu! qui sera organisée prochainement à **Brabanthallen in 's-Hertogenbosch (Den Bosch), au Pays-bas**. Il s'agit de la cinquième édition du cavoe's osu! event.
+**cavoe's osu! event 2023** (***COE 2023***) est une convention osu! qui sera organisée prochainement au **Brabanthallen à 's-Hertogenbosch (Den Bosch), aux Pays-bas**. Il s'agit de la cinquième édition du cavoe's osu! event.
 
 Les billets sont actuellement disponibles à l'achat sur le [site web du COE](https://cavoeboy.com/). Cette page sera mise à jour au fur et à mesure que de nouvelles informations seront disponibles.
 
