@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # cavoe's osu! event
 
 ::: Infobox
@@ -36,11 +32,11 @@ no_native_review: true
 
 ## Historique
 
-En tant qu'événement appelé sobrement "osu! event" et environ seulement 35 personnes pour une durée de 3 jours, COE a commencé en 2017 comme un "meetup national néerlandais avec quelques visiteurs d'autres pays" au café De Hangar à Eindhoven.
+En tant qu'événement appelé sobrement "osu! event" et avec uniquement 35 personnes pour une durée de 3 jours, COE a commencé en 2017 comme un "meetup national néerlandais avec quelques visiteurs d'autres pays" au café De Hangar à Eindhoven.
 
-L'itération 2018 s'est développé jusqu'à devenir notoire avec plus de 300 participants et une durée de 10 jours, mettant en vedette des joueurs de premier plan tels que ::{ flag=KR }:: [Chocomint](https://osu.ppy.sh/users/124493) (puis Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (puis BeasttrollMC), et ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+L'itération 2018 s'est développée jusqu'à devenir notoire avec plus de 300 participants et une durée de 10 jours, mettant en vedette des joueurs de premier plan tels que ::{ flag=KR }:: [Chocomint](https://osu.ppy.sh/users/124493) (puis Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (puis BeasttrollMC), et ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
 
-COE 2019 a déplacé ses opération à Brabanthallen à 's-Hertogenbosch (alias Den Bosch). Dans un lieu plus grand, doté notamment d'une grande scène, la convention a accueilli plus de 500 personnes et a proposé davantage de stands VR, d'événements scéniques et une zone VIP dédiée.
+COE 2019 a déplacé ses opérations à Brabanthallen à 's-Hertogenbosch (alias Den Bosch). Dans un lieu plus grand, doté notamment d'une grande scène. La convention a accueilli plus de 500 personnes et a proposé davantage de stands VR, d'événements scéniques et une zone VIP dédiée.
 
 Les éditions 2020 et 2021 ont été annulées en raison de la [pandémie de COVID-19](https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_Covid-19).
 
