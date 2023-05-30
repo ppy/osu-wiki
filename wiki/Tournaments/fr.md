@@ -106,6 +106,8 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup | 15/03/2019 | 26/05/2019 | ::{ flag=KR }:: Corée du Sud | ::{ flag=RU }:: Fédération de Russie | ::{ flag=US }:: États-Unis |
 | 3 Digit World Cup 2020 | 16/03/2020 | 31/05/2020 | ::{ flag=US }:: États-Unis | ::{ flag=BR }:: Brésil | ::{ flag=TW }:: Taïwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24/02/2021 | 09/05/2021 | ::{ flag=TW }:: Taïwan | ::{ flag=PL }:: Pologne | ::{ flag=US }:: États-Unis |
+| 3 Digit World Cup 2022 | 20/02/2022 | 08/05/2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Chine | ::{ flag=ID }:: Indonésie |
+| 3 Digit World Cup 2023 | 17/02/2023 | 30/04/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
 
 #### Aetherian's Summer Singles
 
