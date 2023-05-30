@@ -22,7 +22,7 @@ Artigos importantes e guias que vão lhe ajudar a mergulhar no osu!. No caso de 
 
 # Cliente do jogo
 
-Sendo o guia do mundo do ritmo, batidas e flashes, osu! tem muito a apresentar. Conheça o jogo melhor por suas várias configurações e sua capacidade de customização até os detalhes técnicos e formatos de arquivo utilizados.
+Sendo o guia do mundo do ritmo, batidas e flashes, osu! tem muito a apresentar. Venha conhecer o jogo melhor por meio de suas várias configurações e sua capacidade de customização até os detalhes técnicos e formatos de arquivo utilizados.
 
 [Interface](/wiki/Client/Interface) • [Opções](/wiki/Client/Options) • [Configurações visuais](/wiki/Client/Interface/Visual_settings) • [Teclas de atalho](/wiki/Client/Keyboard_shortcuts) • [Arquivo de Configuração](/wiki/Client/Program_files/User_configuration_file) • [Arquivos do Programa](/wiki/Client/Program_files)
 
