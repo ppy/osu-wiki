@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -197,19 +197,19 @@ Please do not submit a main menu banner with your original request — you will 
 
 ## Frequently Asked Questions
 
-### If a user has not yet played any matches, can they join the staff? {#no-play-join-staff}
+### If a user has not yet played any matches, can they join the staff? {id=no-play-join-staff}
 
 A registrant who has passed screening but has not been scheduled for any matches **AND** has not participated in any gameplay (including qualifiers) is not yet considered a player/participant of the tournament, and may therefore still be enlisted as staff.
 
-### What should I do if a player in my tournament gets restricted? {#player-restriction}
+### What should I do if a player in my tournament gets restricted? {id=player-restriction}
 
 In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
-### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {#recurring-contests}
+### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {id=recurring-contests}
 
 Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' from a few sets of regular, recurring tournaments.
 
-### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
+### Can I request a badge for a beatmap contest or other type of competition? {id=contest-support}
 
 Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support) for details.
 
