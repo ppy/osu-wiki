@@ -10,8 +10,6 @@ Official tournaments organised by the osu! team.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-The osu! World Cup is a country-based 4v4 Team VS tournament following double-elimination rule. It is an international event and is usually done yearly with the osu! communities around the world working together to make a tournament to create a competitive nature.
-
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: Taiwan | ::{ flag=NL }:: Netherlands | ::{ flag=KR }:: South Korea |
