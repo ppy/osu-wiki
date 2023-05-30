@@ -29,7 +29,7 @@ If you feel the remarks/advances were highly inappropriate or you are an underag
 
 ### In a public post on the osu! forums
 
-Report the post to any member of our [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) as soon as possible.
+Report the post to any member of our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
 
 To do so, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
 

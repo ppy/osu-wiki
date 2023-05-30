@@ -1,8 +1,8 @@
 # Wie man den Offset-Assistenten benutzt
 
-*Siehe auch: [Offset-Assistent](/wiki/Client/Options/Offset_Wizard) und [Universales Offset](/wiki/Client/Options/Universal_offset)*
+*Siehe auch: [Offset-Assistent](/wiki/Client/Options/Offset_Wizard) und [Universales Offset](/wiki/Offset/Universal_offset)*
 
-Wenn die [Hitsounds](/wiki/Beatmapping/Hitsound) in jeder gespielten Beatmap nicht mit der Musik synchron sind, ist es sehr wahrscheinlich, dass du dein [universales Offset](/wiki/Client/Options/Universal_offset) umstellen musst. Am einfachsten geht das mit dem **Offset-Assistenten**.
+Wenn die [Hitsounds](/wiki/Beatmapping/Hitsound) in jeder gespielten Beatmap nicht mit der Musik synchron sind, ist es sehr wahrscheinlich, dass du dein [universales Offset](/wiki/Offset/Universal_offset) umstellen musst. Am einfachsten geht das mit dem **Offset-Assistenten**.
 
 Führe die folgenden Schritte aus, um dein universales Offset mit Hilfe des Offset-Assistenten anzupassen.
 

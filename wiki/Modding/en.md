@@ -29,7 +29,7 @@ When you come across an issue, select any relevant hit objects, then use the cop
 
 All mod posts should address what the issue is, why it is an issue, and how to fix it. See the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) for more details on how to format mod posts.
 
-Beatmappers regularly provide [kudosu](/wiki/Modding/Kudosu) to mod posts that they consider helpful by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmappers regularly provide [kudosu](/wiki/Modding/Kudosu) to mod posts that they consider helpful by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
 ## Types of mod posts
 

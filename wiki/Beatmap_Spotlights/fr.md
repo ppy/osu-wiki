@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -14,13 +15,13 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle de l'Hiver 2023.
+La saison actuelle est celle de printemps 2023.
 
-La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) liste tous les membres de l'équipe. Voir la [page des Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators) pour une liste plus détaillée de tous les rôles au sein du BSC.
+La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) liste tous les membres de l'équipe. Voir la [page des Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) pour une liste plus détaillée de tous les rôles au sein du BSC.
 
 ## Participation
 
-Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client osu!(lazer) depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
+Pour participer aux Beatmap Spotlights, [téléchargez](https://osu.ppy.sh/home/download) le client [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 Après l'installation et la connexion à votre compte, rendez-vous dans l'onglet des playlists de l'onglet play et trouvez les lobbies Spotlights comme indiqué par une petite barre rose, ou filtrez par eux dans le coin supérieur droit.
 
@@ -67,14 +68,14 @@ Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflè
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
@@ -123,13 +124,13 @@ Tous les candidats sont examinés par la direction du projet et les chefs d'équ
 
 ## Histoire
 
-Nommé à l'origine "Ranking Charts" et lancé en octobre 2009[^charts-09-oct] [^charts-09-nov] par ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) et ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589), le projet visait à mettre en avant les meilleures beatmaps d'un mois ou d'une année[^charts-10-jan] en laissant la [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) et la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) nommer et voter pour les candidats les plus appropriés. En septembre 2011, des charts pour osu!taiko et osu!catch sont apparus [^charts-11-per-mode].
+Nommé à l'origine "Ranking Charts" et lancé en octobre 2009[^charts-09-oct] [^charts-09-nov] par ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) et ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589), le projet visait à mettre en avant les meilleures beatmaps d'un mois ou d'une année[^charts-10-jan] en laissant la [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) et la [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) nommer et voter pour les candidats les plus appropriés. En septembre 2011, des charts pour osu!taiko et osu!catch sont apparus [^charts-11-per-mode].
 
 Le projet a fait l'objet de plusieurs modifications et ajouts, tels que les [classements thématiques](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), les [classements réservés aux mods](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) ou les [classements saisonniers](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). À l'origine, les gagnants des classements étaient récompensés par des tags [osu!supporter](/wiki/osu!supporter). Plus tard, des récompenses pour les mappeurs ou les gagnants des classements saisonniers ont été ajoutées.
 
 La direction du projet a changé plusieurs fois au cours de son histoire. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) a pris la tête du projet en mai 2012,[^charts-manager-sg] suivi par ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] et ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389).[^charts-manager-makar] ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) et ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) ont repris le projet en décembre 2013.[^charts-manager-loctav]
 
-En janvier 2014, le navigateur charts a été ajouté au client osu!,[^charts-in-osu-14-jan] et en juin 2014, plusieurs joueurs renommés ont été recrutés dans la [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team).[^charts-cat-recruitment-14-jun] En mars 2015, le projet a changé de son design originel de nomination et de vote en ayant des membres renommés de la communauté qui sélectionnent seuls une liste de sets de beatmaps qu'ils recommandent.[^charts-curated-15-mar] En septembre 2016, le système de sélection a été en grande partie inversé[^charts-reverted-16-sep] et a mis la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) en charge de la sélection des beatmaps les plus remarquables.
+En janvier 2014, le navigateur charts a été ajouté au client osu!,[^charts-in-osu-14-jan] et en juin 2014, plusieurs joueurs renommés ont été recrutés dans la [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team).[^charts-cat-recruitment-14-jun] En mars 2015, le projet a changé de son design originel de nomination et de vote en ayant des membres renommés de la communauté qui sélectionnent seuls une liste de sets de beatmaps qu'ils recommandent.[^charts-curated-15-mar] En septembre 2016, le système de sélection a été en grande partie inversé[^charts-reverted-16-sep] et a mis la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) en charge de la sélection des beatmaps les plus remarquables.
 
 Renommé Beatmap Spotlights en mars 2017,[^charts-renamed-into-spotlights] le système lui-même a globalement continué de fonctionner de la même manière tout en ajoutant des récompenses supplémentaires comme des médailles et en améliorant encore la présentation des Beatmap Spotlights. Lors d'une refonte interne de la Quality Assurance Team, la responsabilité du projet a été réattribuée à ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) et a réimplanté une équipe de sélection basée sur la communauté. En novembre 2018, la fréquence des Spotlights a été modifiée pour devenir un cycle de publication saisonnier.[^spotlights-seasonal] En mars 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) a repris la direction du projet avec Kurokami, en lui donnant une nouvelle forme et en constituant une nouvelle équipe de curateurs osu!.[^spotlights-reworked-20-june]
 

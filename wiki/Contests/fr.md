@@ -1,12 +1,17 @@
+---
+outdated_translation: true
+outdated_since: cd5b1d813c848ee19b2167b3edf8e8592e9ad19e
+---
+
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 ## Concours officiels
 
-*Voir également : [Points de concours](Contest_points)*
+*Voir également : [Points de concours](Contest_points), [Support officiel aux concours](Official_support)*
 
-Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/The_Team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
+Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/osu!_team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
@@ -33,7 +38,7 @@ Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours
 
 Après une longue interruption, le Monthly Beatmapping Contest a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
 
-- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
+- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/People/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
 - Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'une beatmap complète.
 - Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans les règles, telles que "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
 
@@ -254,6 +259,7 @@ Le but de ce concours est simple : les participants doivent créer une map qui p
 | [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [#1](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
 | [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [#1](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [#1](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
+| [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ::{ flag=AR }:: [paz08](https://osu.ppy.sh/users/9964420) | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | [#1](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
 
 ### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
@@ -265,7 +271,7 @@ L'**osb! Storyboarding Contest** est un concours de storyboarding où les storyb
 
 ### [osu! Beatmapping World Championship](oBWC)
 
-L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
+L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/People/Featured_Artists) pendant son déroulement.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |

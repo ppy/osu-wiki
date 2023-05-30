@@ -10,7 +10,7 @@
 | Short | 2 | Um valor little endian de 2-byte. |
 | Integer | 4 | Um valor little endian de 4-byte. |
 | Long | 8 | Um valor little endian de 8-byte. |
-| ULEB128 | Variável | Um inteiro de comprimento variável. Veja [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
+| ULEB128 | Variável | Um inteiro de comprimento variável. Veja [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
 | String | Variável | Tem três partes; um único byte no qual será 0x00, indicando que as duas próximas partes não estão presentes, ou 0x0b (decimal 11), indicando que as duas próximas partes estão presentes. Se for 0x0b, terá um ULEB128, representando o comprimento do byte da string consequente, e então a string, codificada em UTF-8. Veja [UTF-8](https://pt.wikipedia.org/wiki/UTF-8) |
 
 ## Formato
@@ -35,11 +35,11 @@ Offsets em byte não estão incluídos nesta tabela devido aos valores de compri
 | Byte | Perfeito/full combo (1 = Sem misses, sem sliders quebrados e sem sliders terminados cedo demais) |
 | Integer | Mods utilizados. Veja abaixo para a lista dos valores dos mods. |
 | String | Gráfico da barra de vida: pares u/v separados por vírgula, onde u é o tempo em milissegundos na música e v é o valor com vírgula flutuante de 0 - 1 que representa a quantidade de vida você tem no tempo dado (0 = barra de vida está vazia, 1= barra de vida está cheia) |
-| Long | Data ([Windows ticks](https://docs.microsoft.com/pt-br/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)) |
+| Long | Data ([Windows ticks](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime.ticks)) |
 | Integer | Comprimento em bytes dos dados do replay comprimidos |
 | Byte Array | Dados do replay comprimidos |
 | Long | ID da pontuação online |
-| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_modifier#special) está ativado |
+| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Gameplay/Game_modifier#special) está ativado |
 
 **Informação adicional de mod:**
 
@@ -47,7 +47,7 @@ Offsets em byte não estão incluídos nesta tabela devido aos valores de compri
 | :-- | :-- |
 | Target Practice | Precisão total de todos os hits. Divida isto pelo número de alvos no mapa para encontrar a precisão mostrada dentro do jogo. |
 
-Os dados restantes contém informação sobre movimento e teclas pressionadas em uma stream [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm).
+Os dados restantes contém informação sobre movimento e teclas pressionadas em uma stream [LZMA](https://pt.wikipedia.org/wiki/LZMA).
 
 Quando descomprimido, o texto contém dados separados por vírgulas. Cada peça indica uma ação, representada por 4 números na forma: `w | x | y | z.`
 
@@ -62,7 +62,7 @@ Em replays feitos na versão `20130319` ou mais tarde, o inteiro de 32-bit da se
 
 ## Mods
 
-Como visto na [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+Como visto na [osu! API](https://github.com/ppy/osu-api/wiki#mods).
 
 | Mod | Valor (BitOffset) | Comentário |
 | :-- | :-- | :-- |
@@ -76,7 +76,7 @@ Como visto na [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | Sempre usado com DT : 512 + 64 = 576 |
+| Nightcore | 512 (9) | Sempre usado com DT: 512 + 64 = 576 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

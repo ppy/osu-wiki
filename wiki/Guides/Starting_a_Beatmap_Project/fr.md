@@ -34,7 +34,7 @@ Exemples :
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab :** Création d'un [projet collaboration](/wiki/Beatmap/Beatmap_collaborations) pour une musique donnée. Cela peut aller d'une demande de [storyboard](/wiki/Storyboard), de mapping de parties d'un [marathon](/wiki/Beatmap/Marathon). Cela peut aller d'une demande de [storyboard](/wiki/Storyboard) au mapping de certaines parties d'une [beatmap marathon](/wiki/Beatmap/Marathon). N'oubliez pas de lire ce [guide sur les collaborations](/wiki/Guides/Collab_Information) avant de commencer !
+**Collab :** Création d'un [projet collaboration](/wiki/Beatmap/Beatmap_collaborations) pour une musique donnée. Cela peut aller d'une demande de [storyboard](/wiki/Storyboard), de mapping de parties d'un [marathon](/wiki/Beatmap/Marathon). Cela peut aller d'une demande de [storyboard](/wiki/Storyboard) au mapping de certaines parties d'une [beatmap marathon](/wiki/Beatmap/Marathon).
 
 Exemple :
 

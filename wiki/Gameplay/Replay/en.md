@@ -7,7 +7,7 @@ outdated: true
 
 # Replay
 
-A replay is a rebroadcast or direct emulation of a play, either by a player or a perfect play done by the [Auto](/wiki/Game_modifier/Auto) mod.
+A replay is a rebroadcast or direct emulation of a play, either by a player or a perfect play done by the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod.
 As long as the local replay emulation file with a `.osr` file extension is available with the difficulty/beatmap or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by osu! to be watched.
 
 ## Replay options
@@ -20,9 +20,9 @@ Releasing the key early will fail the quick retry.
 
 Access to the [Chat Console](/wiki/Client/Interface/Chat_console) (`F8`)/[Extended Chat Console](/wiki/Client/Interface/Chat_console#extended-chat-console) (`F9`) will still be available.
 Press the `Tab` key to hide/show the currently-selected leaderboard.
-Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto](/wiki/Game_modifier/Auto).
+Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto](/wiki/Gameplay/Game_modifier/Auto).
 
-A [Cinema](/wiki/Game_modifier/Cinema) replay will:-
+A [Cinema](/wiki/Gameplay/Game_modifier/Cinema) replay will:-
 
 - hide all the replay options,
 - disable gameplay access,
@@ -89,7 +89,7 @@ Shortcut key is the `Esc` key.
 
 ## Types of Replay
 
-*Full documentation regarding the `.osr` file format: [.osr file format](/wiki/osu!_File_Formats/Osr_(file_format))*
+*Full documentation regarding the `.osr` file format: [.osr file format](/wiki/Client/File_formats/Osr_(file_format))*
 
 To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-
@@ -148,8 +148,8 @@ Trying to restart the beatmap to directly play the beatmap again in this state i
 
 It currently works in `Solo` only when given the game over screen.
 
-Viewing a failed play does not work with the [No Fail(NF)](/wiki/Game_modifier/No_Fail)/[Relax(RL)](/wiki/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) game modifier because it is impossible to fail.
-Using the [Perfect(PF)](/wiki/Game_modifier/Perfect) game modifier would forcefully quick-retry instead of failing the player.
+Viewing a failed play does not work with the [No Fail(NF)](/wiki/Gameplay/Game_modifier/No_Fail)/[Relax(RL)](/wiki/Gameplay/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Gameplay/Game_modifier/Autopilot) game modifier because it is impossible to fail.
+Using the [Perfect(PF)](/wiki/Gameplay/Game_modifier/Perfect) game modifier would forcefully quick-retry instead of failing the player.
 
 If there was a retry streak, it will be lost once entering the Failed replay state.
 

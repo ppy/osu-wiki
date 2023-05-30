@@ -10,7 +10,7 @@ After a six-month long hiatus, flyte posted on the [osu!next](https://osunext.tu
 
 The osu!mania 7K World Cup 2018 registrations opened. Community Choice 2017 (previously known as the "Best of" series) voting was opened.
 
-In the lazer version of osu!, background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hitsounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
+In the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!, background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hitsounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
 
 In osu!web, beatmap pack listings were improved, hype and nomination counters were visible to the beatmap listings. Obtaining a permalink to beatmap discussion post was made easier to copy, localisations can now resize the menu upon hovering over the locales, star ratings can be seen on the beatmap listing via hovering the difficulty icon, and sorting of beatmap discussions was added. A limit to only load 250 forum threads and unload others was implemented to avoid heavy memory consumption.
 
@@ -36,7 +36,7 @@ Links:
 
 ## February
 
-In the lazer version of the osu! client, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hitsounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again.
+In the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hitsounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again.
 
 In osu!web, the total play time was implemented in user profiles. Elasticsearch was updated. The old site was depreciated almost entirely (a new banner is now present almost everywhere on the old site, linking users to the new site). Genres and languages were added to beatmap pages. Recent activity now shows the "show more" option. Searching users was improved. Icons for the forum topics were changed to be more colour-blind friendly. Users are now able to set their default game mode (shown with a star next to the game mode) in their user profiles, rather than assuming the last viewed game mode. The changelog builds now have an osu!supporter promo at the bottom. An experience bar for the user's level can now be seen by hovering over the level badge.
 
@@ -68,7 +68,7 @@ Links:
 
 Trial & Error was introduced as a new Featured Artist.
 
-In the lazer version of osu!, basic skinning support was implemented. The parallax effect was reduced during gameplay.
+In the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!, basic skinning support was implemented. The parallax effect was reduced during gameplay.
 
 In osu!web, the play history and watch replay history graphs (the design is temporary) and post count in the user profiles were added. The mobile view of the website will now have a dedicated search box. The page titles were rearranged to prioritise the page name (rather than the game's name) allow easier navigation between tabs. The forum search results are threaded. Thanks to nanaya, user badges are now displayed on the user pages.
 

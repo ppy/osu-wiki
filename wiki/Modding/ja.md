@@ -33,7 +33,7 @@ Modするには、まず該当ビートマップを最新のバージョンに�
 
 指摘する場合は、どこが不自然なのか、なぜそれが不自然に思ったのか、どのように修正すればより良くなるのかを言う必要があります。詳しくは、[ModdingとMappingにおける行動規範](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#mod投稿)を参照してください。
 
-mapperは定期的に、役に立ったMod投稿に賛成票を入れることで、[kudosu](/wiki/Modding/Kudosu)を与えることができます。kudosuは、[ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)(BN)への参加を申請する際に使用されます。
+mapperは定期的に、役に立ったMod投稿に賛成票を入れることで、[kudosu](/wiki/Modding/Kudosu)を与えることができます。kudosuは、[ビートマップノミネーター](/wiki/People/Beatmap_Nominators)(BN)への参加を申請する際に使用されます。
 
 ## Mod投稿の種類
 

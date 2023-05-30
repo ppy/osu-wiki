@@ -143,7 +143,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !report <ユーザ名> <理由>
 ```
 
-`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)(GMT)に報告します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例: `really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。以下はユーザーを報告する例です。
+`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team)(GMT)に報告します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例: `really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/Account_support_team#support@ppy.sh)に連絡してください。以下はユーザーを報告する例です。
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

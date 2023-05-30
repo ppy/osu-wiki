@@ -12,7 +12,7 @@ tags:
 
 *Voir également : [Modding v1](/wiki/Modding/Forum_modding)*
 
-La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'une beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
+La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'une beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Beatmapping/Beatmap_submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
 
 - La sélection du mode
 - L'en-tête de la beatmap
@@ -63,7 +63,7 @@ Vous pouvez sélectionner différentes [difficultés](/wiki/Beatmap/Difficulty) 
 Les options de tri modifient la façon dont les discussions sont affichées. Lorsqu'une option est choisie, elle modifie à la fois la timeline de mod et la section de mod pour n'inclure que le type de message sélectionné. Ceci est particulièrement utile pour voir les messages en attente sur une page de discussion. Les différentes options sont les suivantes :
 
 - `Moi` montre vos propres messages
-- `Notes` montre toutes les notes prises par le mappeur ou des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
+- `Notes` montre toutes les notes prises par le mappeur ou des [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - `Résolu` montre les postes résolus
 - `En Attente` montre les messages en attente
 - `Hommages` montre des messages d'hommages et de hype
@@ -88,7 +88,7 @@ Le statut de la beatmap indique tout ce qui concerne la place d'un beatmap dans 
 
 ### Train de la hype
 
-Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un mapset a reçu. Une fois que 5 hypes ont été atteints, la beatmap peut être nommé par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Les hypes ne peuvent être données qu'en allant dans l'onglet `Général (Toutes les difficultés)`, car cela ne fonctionnera pas à travers les onglets `Général` ou `Chronologie`. En cliquant sur le bouton "Hype", vous serez automatiquement dirigé vers le bon onglet.
+Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un mapset a reçu. Une fois que 5 hypes ont été atteints, la beatmap peut être nommé par les [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Les hypes ne peuvent être données qu'en allant dans l'onglet `Général (Toutes les difficultés)`, car cela ne fonctionnera pas à travers les onglets `Général` ou `Chronologie`. En cliquant sur le bouton "Hype", vous serez automatiquement dirigé vers le bon onglet.
 
 ### Statut de la nomination
 
@@ -118,7 +118,7 @@ Le mod se fait par le biais de trois onglets, qui séparent les messages de diff
 
 `Chronologie` affiche les messages à des moments précis d'une difficulté en fonction du premier horodatage placé. Chaque message de cet onglet doit comporter un horodatage pour être affiché. Tout horodatage ultérieur n'aura aucune influence sur l'ordre des messages.
 
-`Historique` enregistre toutes les modifications apportées à une page de discussion dans l'ordre chronologique. Les changements sont codés par couleur : le vert correspond aux messages résolus et aux changements d'état, le rouge aux nouveaux problèmes après nomination, et le bleu à tout le reste. En cliquant sur un numéro de référence, vous accéderez au message en question. Cet onglet n'est pas utilisé pour le mod, mais il est utile pour les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et les autres membres du staff pour vérifier les problèmes.
+`Historique` enregistre toutes les modifications apportées à une page de discussion dans l'ordre chronologique. Les changements sont codés par couleur : le vert correspond aux messages résolus et aux changements d'état, le rouge aux nouveaux problèmes après nomination, et le bleu à tout le reste. En cliquant sur un numéro de référence, vous accéderez au message en question. Cet onglet n'est pas utilisé pour le mod, mais il est utile pour les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) et les autres membres du staff pour vérifier les problèmes.
 
 ## Champ de soumission
 
@@ -144,7 +144,7 @@ Les discussions peuvent être triées à l'aide des boutons situés sous le titr
 
 ### Vote positifs/négatifs
 
-Si un modpost a été utile, des [Kudosu!](/wiki/Modding/Kudosu) peuvent être donnés. Cela peut être fait par n'importe qui, à l'exception du créateur du message, en lui donnant un pouce en l'air. Cette fonction est utile pour les moddeurs car les Kudosu! sont nécessaire pour entrer chez les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Si cette fonction est utilisée de manière abusive, les [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) et [GMT](/wiki/People/The_Team/Global_Moderation_Team) peuvent donner un avis négatif pour refuser tout Kudosu! donné. Si l'abus est fait de manière malveillante, une pénalité peut également être donnée aux abuseurs.
+Si un modpost a été utile, des [Kudosu!](/wiki/Modding/Kudosu) peuvent être donnés. Cela peut être fait par n'importe qui, à l'exception du créateur du message, en lui donnant un pouce en l'air. Cette fonction est utile pour les moddeurs car les Kudosu! sont nécessaire pour entrer chez les [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si cette fonction est utilisée de manière abusive, les [BN](/wiki/People/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team) et [GMT](/wiki/People/Global_Moderation_Team) peuvent donner un avis négatif pour refuser tout Kudosu! donné. Si l'abus est fait de manière malveillante, une pénalité peut également être donnée aux abuseurs.
 
 ### Chronologie des discussions
 
@@ -152,7 +152,7 @@ La timeline à gauche d'une discussion montre l'horodatage du message. Ceci est 
 
 ### Tags
 
-Les tags affichent les [rôles importants](/wiki/People/The_Team) sous le nom de l'utilisateur. Seuls les rôles pertinents pour la discussion sur la beatmap sont affichés. Cela inclut les membres `MAPPER`, `BN`, `NAT`, `GMT`, et `DEV` qui ont plus d'options qu'un utilisateur normal regardant une page de discussion.
+Les tags affichent les [rôles importants](/wiki/People/osu!_team) sous le nom de l'utilisateur. Seuls les rôles pertinents pour la discussion sur la beatmap sont affichés. Cela inclut les membres `MAPPER`, `BN`, `NAT`, `GMT`, et `DEV` qui ont plus d'options qu'un utilisateur normal regardant une page de discussion.
 
 ### Outils de mise en forme
 

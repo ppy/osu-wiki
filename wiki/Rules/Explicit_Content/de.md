@@ -8,7 +8,9 @@ Ungeachtet der Art des Tons solltest du sicherstellen, dass er den [generellen R
 
 ## Was zählt als expliziter Inhalt?
 
-Expliziter Inhalt meint primär den **Audioinhalt einer Beatmap**, meist in Bezug auf das Thema oder *intensive* Verwendung von expliziter Sprache. Das gilt **nicht** für visuelle Elemente einer Beatmap — diese **müssen** die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations) einhalten.
+Expliziter Inhalt meint primär den **Audioinhalt einer Beatmap**, meist in Bezug auf das Thema oder *intensive* Verwendung von expliziter Sprache. Das gilt **nicht** für visuelle Elemente einer Beatmap — diese **müssen** die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations) einhalten. Ebenso trifft das nicht auf andere vom Benutzer veränderbare Aspekte einer Beatmap zu (wie zum Beispiel Tags oder Namen von Schwierigkeitsstufen), die sich wie üblich an die [Community-Regeln](/wiki/Rules) halten **müssen**.
+
+Als allgemeine Faustregel gilt, dass die Bestimmung über explizite Inhalte nur Ausnahmen für Inhalte vorsieht, die ein Nutzer mit den vom Spiel zur Verfügung gestellten Werkzeugen nicht vernünftig bearbeiten kann, und dass die Deklarierung nach dem Ermessen des [Account-Support-Teams](/wiki/People/Account_support_team) auch für jeden Song einzeln aufgehoben werden kann.
 
 Allgemein gesprochen werden mit sehr wenigen Ausnahmen die meisten Formen von Musik für die Verwendung in Beatmaps akzeptiert, solange sie angemessen gekennzeichnet werden.
 

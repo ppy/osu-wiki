@@ -26,9 +26,9 @@ Notez que le jugement d'une beatmap est déterminé automatiquement.
 
 Lors de la conversion d'une beatmap non spécifique, les touches varient par défaut de 4 à 7.
 
-Avec le modificateur de jeu [xK](/wiki/Game_modifier/xK), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modificateur de jeu ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
+Avec le modificateur de jeu [xK](/wiki/Gameplay/Game_modifier/xK), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modificateur de jeu ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
 
-Avec le modificateur de jeu [Co-Op](/wiki/Game_modifier/Co-op), la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score. Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
+Avec le modificateur de jeu [Co-Op](/wiki/Gameplay/Game_modifier/Co-op), la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score. Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
 
 #### Changement de vitesse
 
@@ -80,7 +80,7 @@ La régénération de la barre de vie s'active lentement lorsque vous tenez une/
 
 ## Styles de jeu
 
-*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Play_style#osu!mania).*
+*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Gameplay/Play_style#osu!mania).*
 
 ## Contrôles
 
@@ -146,7 +146,7 @@ Arrangement des touches pour *de Droite à Gauche* (pour le style *Beatmania IID
 
 ![Configuration des touches par défaut dans osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "Disposition des touches d'osu!mania (Co-Op)")
 
-La **[mise à jour du 5 Mars 2015 (05/03/2015)](https://osu.ppy.sh/home/changelog)** a apporté à osu!mania un nouveau mod nommé [Co-Op](/wiki/Game_modifier/Co-op). Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
+La **[mise à jour du 5 Mars 2015 (05/03/2015)](https://osu.ppy.sh/home/changelog)** a apporté à osu!mania un nouveau mod nommé [Co-Op](/wiki/Gameplay/Game_modifier/Co-op). Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
 
 Arrangement de touches *Symétrique* pour le second set
 
@@ -184,7 +184,7 @@ Arrangement de touches *Symétrique* pour le second set
 
 ## Scoring
 
-Le [score dans osu!mania](/wiki/Gameplay/Score/osu!mania) est plafonné à 1 million et se compose de deux parties, chacune contribuant à 50% du score total :
+Le [score dans osu!mania](/wiki/Gameplay/Score/ScoreV1/osu!mania) est plafonné à 1 million et se compose de deux parties, chacune contribuant à 50% du score total :
 
 1. Le score de base, qui est centré sur le [jugement](/wiki/Gameplay/Judgement/osu!mania). Le jugement détermine la valeur du score de base d'un objet (MAX, 300, 200, 100, 50, ou 0 en cas de note manquée).
 2. Le score bonus, qui est basé sur le jugement et un multiplicateur de bonus flottant, qui augmente lorsqu'on obtient un MAX ou un 300, et diminue avec un 200 ou moins.
@@ -222,7 +222,7 @@ Activez le bouton `Co-op mode` pour forcer le modificateur *Co-Op* quand elle se
   - Respectivement, pour une beatmap 5K, utiliser le modificateur 5K n'affectera pas non plus le score.
   - Utiliser le modificateur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
 - Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#mani-&-mari).
-- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *osu!topus*.
+- Lorsque le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) est utilisé, le nom du joueur sera *osu!topus*.
 
 ### Histoire
 

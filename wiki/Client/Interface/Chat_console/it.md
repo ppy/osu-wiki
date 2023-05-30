@@ -12,7 +12,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 | **Bianco** | Te stesso |
 | **Pallido** | Altri utenti |
 | **Giallo** | [osu!supporter](/wiki/osu!supporter) |
-| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) o del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
+| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team) o del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) |
 | **Verde** | Una linea contenente il tuo nome o certe parole impostate da te per farti [highlight](Highlight). Una copia di tale messaggio sarà inviata anche in un canale dedicato, `#highlight`, dove sono contenute tutte le linee di questo genere. |
 | **Blu** | Messaggio Privato (PM) |
 | **Ciano** | [peppy](https://osu.ppy.sh/users/2), il creatore di osu! |
@@ -22,7 +22,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 - Clicca su `Auto-Hide` per nascondere automaticamente la chat console mentre giochi (escludendo le intro, le outro e le pause della beatmap).
 - Clicca su `Hide Chat` o premi di nuovo F8 per nascondere la chat console.
 
-## Chat Console estes
+## Chat Console estesa
 
 *La [osu!academy](/wiki/Community/Video_series/osu!academy) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
@@ -78,15 +78,14 @@ Premi il numero o clicca il pulsante per attivare:
 | `/delfriend [utente]` | Rimuove l'`[utente]` dalla tua lista amici. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [messaggio]` | Imposta un messaggio di informazione (mandato agli utenti che ti cercano in PM). Lascia il messaggio vuoto per annullarlo. | `/away Io sono John Smith.` | You have been marked as being away: Io sono John Smith. Quando Amigo scrive a John "Dove sei~?" BanchoBot: Io sono John Smith. |
 | `/bb` | Invia un messaggio a BanchoBot, come ad esempio: search parola chiave | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [utente]` | Apre una nuova chat con l'utente specificato. | `/chat Amigo` | (La chat con Amigo viene aperta) |
+| `/chat [utente]` o `/msg [utente]` o `/query [utente]` | Apre una nuova chat con l'utente specificato. | `/chat Amigo` | (La chat con Amigo viene aperta) |
 | `/clear` | Pulisce la chat corrente. | `/clear` | Rimuove praticamente tutto dal canale in cui sei) |
 | `/ignore [utente][@chp]` | Ignora tutti i messaggi dell'utente indicato per la sessione corrente. Aggiungendo una @ seguita dalle lettere c, h e/o p, puoi ignorarli in chat, i loro [highlight](Highlight) od i loro PM rispettivamente. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (La tua chat console è impostata per: ignorare qualsiasi testo scritto da Amigo \[c\], qualsiasi highlight da parte diAmigo \[h\] qualsiasi Messaggio Privato inviatoti da Amigo \[p\]) |
 | `/j [canale]` o `/join [canale]` | Apri il canale specificato | `/join #lobby` | (la tab #lobby viene aperta) |
 | `/p` o `/part` | Chiudi il canale in cui sei al momento. | `/part` | n/a |
 | `/unignore [utente]` | Smetti di ignorare l'utente per questa sessione. | `/unignore Amigo` | You may now hear Amigo. (La tua chat console renderà visibile ogni messaggio da parte di Amigo) |
 | `/me [azione]` | Esegui un'azione in terza persona. | `/me è a casa` | John è a casa |
-| `/msg [utente] [msg]` | Manda un messaggio privato ad `[utente]`. | `/msg Amigo Non posso venire.` | (Nella tab Amigo) John: Non posso venire. |
-| `/np` | Mostra in chat la canzone che stai ascoltando o giocando. | `/np` | (If playing) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (If doing nothing, based on jukebox) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) (If spectating or Autoplay) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
+| `/np` | Mostra in chat la canzone che stai ascoltando o giocando. | `/np` | (If playing) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Gameplay/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Gameplay/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Gameplay/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) [xK](/wiki/Gameplay/Game_modifier/xK) (If doing nothing, based on jukebox) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) (If spectating or Autoplay) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Gameplay/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Gameplay/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Gameplay/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) [xK](/wiki/Gameplay/Game_modifier/xK) [Autoplay](/wiki/Gameplay/Game_modifier/Auto) |
 | `/reply` o `/r` | Rispondi all'ultimo messaggio ricevuto. | `/r Conosci qualche bravo attore?` | (Nella tab Amigo) \[Commenti precedenti\] John: Non posso venire. Amigo: Davvero? John: Conosci qualche bravo attore? |
 | `/savelog` | Salva la chat corrente in un file di testo. | `/savelog` | (Una cartella nominata "Chat" verrà creata nella directory di osu! che conterrà tutti i file di testo delle chat salvati) |
 | `/watch [utente]` | Inizia a spectare `[utente]`. | `/watch Amigo` | Started spectating Amigo. (Quando Amigo gioca una beatmap che hai tu riuscirai a vederlo mentre gioca \[dopo il buffering\] ed il tuo nome apparirà in alto a sinistra dello schermo di Amigo) |

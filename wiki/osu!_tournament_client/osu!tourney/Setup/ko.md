@@ -29,7 +29,7 @@ acronym = OWC
 - `TeamSize`: 각 팀 당 플레이어 수를 정합니다. 1부터 8까지의 숫자를 적을 수 있으며 최대 값은 8입니다.
 - `ClientNameSize`: 관전 창 하단 플레이어 명의 크기를 정합니다.
 - `privateserver`: 건드리지 마세요.
-- `acronym`: 토너먼트의 약자입니다. 멀티플레이어 방을 만들 때 이 약자를 따라야 하며, 자세한 내용은 [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_usage) 을 참조하세요.
+- `acronym`: 토너먼트의 약자입니다. 멀티플레이어 방을 만들 때 이 약자를 따라야 하며, 자세한 내용은 [멀티플레이어 사용법](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) 을 참조하세요.
 - `BufferTimeoutTime`: 플레이어들의 리플레이를 위해 클라이언트가 대기하는 시간입니다.
   - 이 값은 바꾸지 않는 것을 권장합니다.
 - `BufferTotalTime`: 플레이어들의 리플레이를 위해 클라이언트가 대기하는 시간을 줄이는 기능입니다. 이 기능은 플레이어와 관전자 간의 시간차를 발생시킵니다.

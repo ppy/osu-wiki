@@ -2,7 +2,7 @@
 
 ![](img/osu!talk.jpg "Logo d'osu!talk")
 
-**osu!talk** est une série de podcasts animée par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370) comme co-animateur. Elle se concentre sur l'interview de divers utilisateurs de la communauté d'osu!. En plus de cela, il peut y avoir des discussions de groupe sur les différentes choses qui se passent dans la communauté, comme les changements dans l'[équipe d'osu!](/wiki/People/The_Team), ou des problèmes de longue durée souvent discutés, comme l'overmapping.
+**osu!talk** est une série de podcasts animée par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370) comme co-animateur. Elle se concentre sur l'interview de divers utilisateurs de la communauté d'osu!. En plus de cela, il peut y avoir des discussions de groupe sur les différentes choses qui se passent dans la communauté, comme les changements dans l'[équipe d'osu!](/wiki/People/osu!_team), ou des problèmes de longue durée souvent discutés, comme l'overmapping.
 
 La série de podcasts est conçue de manière à ce que chacun soit libre de participer à la session en direct et de poser des questions pendant la partie publique [Q&A](https://fr.wikipedia.org/wiki/Q_%26_A) de l'épisode. Ces épisodes ne sont diffusés en direct nulle part, car nous préférons encourager les utilisateurs à participer eux-mêmes.
 

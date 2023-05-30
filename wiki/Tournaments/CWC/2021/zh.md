@@ -10,7 +10,7 @@ outdated_since: 909111c95fe5a038b47049d84e14d9ea068c09f5
 
 ![CWC 2021 标志](/wiki/shared/news/banners/CWC2021.jpg)
 
-**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
+**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 5 月 11 日 18:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/CWC/2021?locale=en)为准。*
 
@@ -41,7 +41,7 @@ outdated_since: 909111c95fe5a038b47049d84e14d9ea068c09f5
 
 ## 工作人员
 
-osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区成员举办。
+osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
@@ -281,7 +281,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 虽然本次比赛计划为 3v3，但可能会根据报名人数而改变。
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
-   - 图池包含 NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time)。
+   - 图池包含 NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)。
    - 一张谱面会被选为 Tiebreaker，Tiebreaker 仅能在加时赛中被强制选择。
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
@@ -376,7 +376,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 ### 图池说明
 
 1. 小组赛，十六强赛，四分之一决赛，半决赛，决赛以及总决赛都会使用它们阶段各自的图池。
-2. 图池包含四组：NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 和 [DoubleTime](/wiki/Game_modifier/Double_Time)。
+2. 图池包含四组：NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) 和 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 Tiebreaker。
 5. **NoFail 会被强制开启**
@@ -385,7 +385,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 在 HardRock 和 DoubleTime 图池中，Hidden 为可选项。
 8. Tiebreaker 可用 Hidden。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
-10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各三张。
+10. 所有阶段图池中都包含[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 谱面各三张。
 
 ### 排程说明
 

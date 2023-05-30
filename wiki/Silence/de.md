@@ -1,6 +1,6 @@
 # Stummschaltung
 
-**Stummschaltung** (auch *Silence* genannt) ist ein Begriff, um die Bestrafung zu beschreiben, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/The_Team/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) festgelegt werden und werden nur für Spieler aufgestellt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
+**Stummschaltung** (auch *Silence* genannt) ist ein Begriff, um die Bestrafung zu beschreiben, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden und werden nur für Spieler aufgestellt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
 
 ## Beschränkungen
 
@@ -16,7 +16,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 - An [Beatmap-Diskussionen](/wiki/Beatmap_discussion) teilnehmen
 - Profildetails bearbeiten (z. B. der Avatar, die Sektion "ich!")
 - Beatmaps einreichen und aktualisieren
-- An [Mehrspieler](/wiki/Multi)-Spielen teilnehmen
+- An [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Spielen teilnehmen
 
 Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt.[^chat-cleanup]
 
@@ -28,7 +28,7 @@ Nachdem ein Nutzer stumm geschaltet wurde, wird eine Warnung anstelle der Chatei
 
 ## Einer Stummschaltung widersprechen
 
-Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh), um die Stummschaltung anzufechten. Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse verwendest. Erwähne deinen osu!-Benutzernamen sowie das Datum und die ungefähre Zeit, als die Stummschaltung vergeben wurde.
+Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh), um die Stummschaltung anzufechten. Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse verwendest. Erwähne deinen osu!-Benutzernamen sowie das Datum und die ungefähre Zeit, als die Stummschaltung vergeben wurde.
 
 ## Häufige Gründe für Stummschaltungen
 

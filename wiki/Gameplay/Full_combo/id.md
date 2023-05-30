@@ -6,7 +6,7 @@ tags:
 
 # Full combo
 
-**Full combo** (atau yang umum disingkat sebagai *FC*) merupakan istilah yang digunakan untuk menggambarkan pemain-pemain yang memperoleh [combo](/wiki/Beatmapping/Combo) semaksimal mungkin pada suatu [beatmap](/wiki/Beatmap). Penilaian Full combo adalah dengan menyelesaikan suatu beatmap tanpa memperoleh miss, [slider break](/wiki/Gameplay/Judgement/Slider_break), maupun miss pada saat [akhir slider](/wiki/Hit_object/Slidertail).
+**Full combo** (atau yang umum disingkat sebagai *FC*) merupakan istilah yang digunakan untuk menggambarkan pemain-pemain yang memperoleh [combo](/wiki/Beatmapping/Combo) semaksimal mungkin pada suatu [beatmap](/wiki/Beatmap). Penilaian Full combo adalah dengan menyelesaikan suatu beatmap tanpa memperoleh miss, [slider break](/wiki/Gameplay/Judgement/Slider_break), maupun miss pada saat [akhir slider](/wiki/Gameplay/Hit_object/Slider/Slidertail).
 
 Dampak skor karena kehilangan combo pada saat miss diakhir slider, secara luas dalam komunitas dianggap sebagai full combo. Anggapan ini berbeda dengan skor di dalam klien gim dan tampilan situs web.
 

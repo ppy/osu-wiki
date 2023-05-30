@@ -111,7 +111,7 @@ text
 
 The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the contents inside will be revealed in a similar fashion to a dropdown menu.
 
-The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks (`"`), and will render whitespace.
+The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If `NAME` is left unspecified, the `[box]` tag will create a box with no heading text inside. The argument does not use quotations marks (`"`), and will render whitespace.
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 
@@ -143,7 +143,21 @@ Long quotations are typically used in more formal writings in place of in-line q
 
 ![Quote reply button](img/quotereply.png)
 
+### Inline code
+
+*Not to be confused with [Code block](#code-block).*
+
+```
+[c]text[/c]
+```
+
+The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+
+Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+
 ### Code block
+
+*Not to be confused with [Inline code](#inline-code).*
 
 ```
 [code]
@@ -233,6 +247,23 @@ Although images can be sourced from anywhere, osu! recommends that users upload 
 
 Toolbar button: ![Image button](img/image.png "Image")
 
+### Imagemap
+
+```
+[imagemap]
+IMAGE_URL
+X Y WIDTH HEIGHT REDIRECT TITLE
+[/imagemap]
+```
+
+The `[imagemap]` tag is used to integrate one or more hyperlinks into an image in rectangular areas.
+
+The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
+
+To add a clickable area, a new line containing the x and y position of the area, the width and the height of the area as well as a link to redirect to needs to be inserted after the `IMAGE_URL` argument. Additionally, an optional `TITLE` argument will be shown on hovering the area if it is specified. A link may be specified with the `REDIRECT` argument, or omitted with a `#`. Every size unit (`X`, `Y`, `WIDTH`, and `HEIGHT`) is a percentage (0–100) without a percent sign.
+
+Toolbar button: ![Imagemap button](img/imagemap.png "Imagemap")
+
 ### YouTube
 
 ```
@@ -312,3 +343,4 @@ The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums 
 - This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
+- Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.

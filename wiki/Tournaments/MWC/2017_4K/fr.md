@@ -10,7 +10,7 @@ tags:
 
 ![Logo de la MWC 4K 2017](img/logo.jpg)
 
-L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania 4K par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu!mania 4K World Cup.
+L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania 4K par pays organisé par [l'équipe osu!](/wiki/People/osu!_team). Il s'agit de la quatrième édition de l'osu!mania 4K World Cup.
 
 ## Calendrier du tournoi
 
@@ -475,7 +475,7 @@ Dimanche 13 août 2017 :
    - La mappool des finales contient 16 beatmaps au total.
 3. Chaque mappool a un tiebreaker.
 4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
-   - Les mods autorisés sont [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) et [Flashlight](/wiki/Game_modifier/Flashlight).
+   - Les mods autorisés sont [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) et [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).
    - Le tiebreaker sera aussi joué sous les conditions du Freemod.
 
 ### Instructions sur la planification

@@ -53,7 +53,7 @@ El cuerpo del correo electrónico deberá contener lo siguiente:
 - Un enlace al código del bot y su documentación
 - Un resumen breve de lo que hace tu bot
 
-El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) revisara tu solicitud. Si tu solicitud es denegada, ellos te harán saber el motivo. Si tu solicitud es aprobada, ellos crearan la cuenta bot por ti, y te darán instrucciones necesarias sobre cómo usarla.
+El [equipo de soporte de cuentas](/wiki/People/Account_support_team) revisara tu solicitud. Si tu solicitud es denegada, ellos te harán saber el motivo. Si tu solicitud es aprobada, ellos crearan la cuenta bot por ti, y te darán instrucciones necesarias sobre cómo usarla.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 

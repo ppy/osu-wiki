@@ -6,29 +6,32 @@ This article serves as guide to help you do minor edits to your audio files for 
 
 *By no means is this the software that you can only use, rather this only lists from those who had added them here. If you know of other tools that could be used and can explain how to use them for the described sections below, please add them.*
 
-## Audacity (and LAME)
+## Audacity
 
-[Audacity](https://www.audacityteam.org/download) is a open source free audio editing and recording software. To properly use this for `.mp3`, you will need to use LAME.
+[Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format and is built into Audacity on Windows and macOS.
 
-[LAME](https://lame.sourceforge.io) is an `.mp3` encoding library that will allow Audacity to export sound files in the `.mp3` format whilst using different bit rates. To install LAME on Audacity, refer to the [Audacity wiki](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html).
+Linux users should refer to the [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) for more information, as certain Linux distributions may not provide LAME when installing Audacity, but most do provide it.
 
 ### Lowering Bit Rate
 
-Install Audacity and LAME, open Audacity then follow these steps:
+*For information on compression in general, see: [Compressing files](/wiki/Guides/Compressing_files)*
+
+Install and open Audacity, then follow these steps:
 
 1. Open the `.mp3` file that you want to lower the bit rate on.
-2. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-3. Change "Save as type:" to `MP3 Files`
-4. In the "Format Options", click on `Average` as the bit rate mode.
-5. Navigate to the location you want to save the file as.
+2. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
+3. In the `Format Options`, change the following settings: 
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
+4. Navigate to the location you want to save the file as.
    - You could rename the file too.
-6. Click `Save`.
+5. Click `Save` and a dialog will appear to enter metadata.
+6. Click `OK` once done entering metadata.
 
 ### Looping
 
-Install Audacity and LAME, open Audacity then follow these steps:
+Install and open Audacity then follow these steps:
 
 1. Open the `.mp3` file that you want to loop.
 2. Click and drag to highlight the parts you want to loop.
@@ -44,18 +47,19 @@ Install Audacity and LAME, open Audacity then follow these steps:
    2. Click `Paste`
 6. Play through the entire music and make sure that the loop sounds good.
 7. Repeat as needed.
-8. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-9. Change "Save as type:" to `MP3 Files`
-10. In the "Format Options", click on `Average` as the bit rate mode.
-11. Navigate to the location you want to save the file as.
+8. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
+9. In the `Format Options`, change the following settings: 
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
+10. Navigate to the location you want to save the file as.
     - You could rename the file too.
-12. Click `Save`.
+11. Click `Save` and a dialog will appear to enter metadata.
+12. Click `OK` once done entering metadata.
 
 ### Cropping
 
-Install Audacity and LAME, open Audacity then follow these steps:
+Install and open Audacity, then follow these steps:
 
 1. Open the `.mp3` file that you want to crop.
 2. Click and drag to highlight the parts you want to crop.
@@ -64,19 +68,19 @@ Install Audacity and LAME, open Audacity then follow these steps:
 4. Click and drag the last 3 to 5 seconds towards the end.
 5. Click `Effect`.
 6. Click `Fade Out`.
-7. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-8. Change "Save as type:" to `MP3 Files`
-9. In the "Format Options", click on `Average` as the bit rate mode.
-10. Navigate to the location you want to save the file as.
-    - You could rename the file too.
-11. Click `Save`.
+7. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
+8. In the `Format Options`, change the following settings: 
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
+9. Navigate to the location you want to save the file as.
+   - You could rename the file too.
+10. Click `Save` and a dialog will appear to enter metadata.
+11. Click `OK` once done entering metadata.
 
 ## mp3DirectCut
 
-[mp3DirectCut](https://mpesch3.de) is a free to use audio editing software.
-This tool is recommended when you only want to raise/lower the volume or crop the audio as it doesn't require you to re-encode the audio, meaning less quality loss.
+[mp3DirectCut](https://mpesch3.de) is a free-to-use audio editing software that can directly edit MP3 files without re-encoding, often preventing loss of quality. It is recommended when needing to raise/lower the volume or crop the audio.
 
 ### Looping
 

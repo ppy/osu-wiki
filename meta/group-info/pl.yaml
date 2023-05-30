@@ -1,7 +1,6 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
+outdated_since: a8cc4d36239f194ed529a59a51038d554308731e
 outdated_translation: true
 
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -26,10 +25,8 @@ gmt:
     wiki: zarządzanie wiki osu!
     mapping: moderowanie społeczności twórców i moderów beatmap
 nat:
-  areas:
-    communication: komunikacja
-    evaluation: ewaluacja
-    moderation: moderacja
-    structural: struktury
+  subgroups:
+    advisor: doradca
+    evaluator: ewaluator
 languages:
   partial: <language> (częściowo)

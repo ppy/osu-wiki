@@ -4,15 +4,15 @@ tags:
   - comite de pp
 ---
 
-# Comité de Performance Points
+# Comité de puntos de rendimiento
 
-El **Comité Performance Points** es un panel de jugadores y desarrolladores con gran conocimiento quienes facilitan y aprueban actualizaciones a los algoritmos de los [performance points](/wiki/Performance_points) y [star rating](/wiki/Beatmapping/Star_rating). Su meta es ayudar a los [desarrolladores de osu!](/wiki/People/The_Team/Developers) empujar cambios rápidamente y con más coordinación comunitaria.
+El **comité de puntos de rendimiento** es un panel de jugadores y desarrolladores expertos que facilitan y aprueban las actualizaciones de los [puntos de rendimiento](/wiki/Performance_points) y algoritmos de [clasificación por estrellas](/wiki/Beatmap/Star_rating). Su objetivo es ayudar a los [desarrolladores de osu!](/wiki/People/Developers) a impulsar los cambios más rápido y con más coordinación comunitaria.
 
-El panel de osu! fue anunciando por primera vez al público a través del [Post de noticias de Noviembre 2021 *Performance Points & Star Rating Updates*](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) en respuesta a la [encuesta comunitaria](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) realizada anteriormente ese año.
+El panel de osu! se anunció por primera vez al público a través de la [publicación de noticias *Performance Points & Star Rating Updates* de noviembre de 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) en respuesta a una [encuesta comunitaria](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) realizada a principios de ese año.
 
-El panel de osu!mania fue formado el 22 de Abril del 2022 en respuesta a [otra encuesta comunitaria con respecto los performance points y star rating in osu!taiko and osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) realizada anteriormente ese año, así como en anticipación de un aumento en el esfuerzo del desarrollo activo, empezando con [un cambio en el cálculo de dificultad al soltar hold notes en osu!mania](https://github.com/ppy/osu/pull/17913).
+El panel de osu!mania se formó el 22 de abril de 2022 en respuesta a [otra encuesta de la comunidad sobre los puntos de rendimiento y la calificación por estrellas en osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) realizada a principios de ese año, así como en previsión de un aumento en el esfuerzo de desarrollo activo, comenzando con [un cambio en el cálculo de dificultad al soltar notas largas en osu!mania](https://github.com/ppy/osu/pull/17913).
 
-El panel de osu!taiko fue formado el 1 de Mayo del 2022 en respuesta a la misma encuesta de arriba, con [cambios significativos al algoritmo del star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+El panel de osu!taiko se formó el 1 de mayo de 2022 en respuesta a la misma encuesta anterior, con [cambios importantes en el algoritmo de calificación por estrellas](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ## Miembros
 

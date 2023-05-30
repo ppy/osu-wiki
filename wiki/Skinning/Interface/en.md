@@ -188,7 +188,7 @@ Notes:
 
 ## Mod icons
 
-*Main page: [Game Modifiers](/wiki/Game_modifier)*
+*Main page: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
 ---
 

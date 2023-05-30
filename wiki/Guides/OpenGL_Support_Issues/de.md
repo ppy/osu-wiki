@@ -1,6 +1,6 @@
-# Probleme mit GL Unterstützung
+# Probleme bei der OpenGL-Unterstützung
 
-Die nächste große Veröffentlichung von osu! (kommt in August-September 2015) entfernt die DirectX Unterstützung, um unser Framework zu vereinfachen. Wenn du diesen Artikel siehst, bedeutet es, dass du, wenn der neue Build veröffentlich wurde, nicht in der Lage bist osu! auf deinem derzeitigen System zu spielen. Bitte lese dir die folgenden Informationen gründlich durch und probiere sie aus.
+Die nächste große Veröffentlichung von osu! (kommt in August-September 2015) entfernt die DirectX Unterstützung, um unser Framework zu vereinfachen. Wenn du diesen Artikel siehst, bedeutet es, dass du, wenn der neue Build veröffentlicht wurde, nicht in der Lage bist osu! auf deinem derzeitigen System zu spielen. Bitte lies dir die folgenden Informationen gründlich durch und probiere sie aus.
 
 ## Fehlender oder alter Treiber
 
@@ -27,4 +27,4 @@ Dein Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch mö
 
 ## Zusätzliche Hilfe
 
-Wenn dein Problem nach den genannten Lösungen immernoch besteht, dann erstelle bitte einen Thread im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und deiner `gl\_info.txt`, wenn du den `Cutting Edge` Build benutzt.
+Wenn dein Problem nach den genannten Lösungen immer noch besteht, dann erstelle bitte einen Thread im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und deiner `gl\_info.txt`, wenn du den `Cutting Edge` Build benutzt.

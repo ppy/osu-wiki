@@ -4,15 +4,15 @@ no_native_review: true
 
 # osu! 比赛客户端
 
-**osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!tourney)，并可在直播 osu! 比赛时，提供多种多样的信息界面的官方信息覆盖层客户端。
+**osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)，并可在直播 osu! 比赛时，提供多种多样的信息界面的官方信息覆盖层客户端。
 
 如果用户在比赛端中遇到问题，可以[在 GitHub 上提出问题](https://github.com/ppy/osu/issues)，或者向 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 发送电子邮件。
 
 ## 开始设置
 
-要启动 osu! 比赛客户端，你需要修改 osu!(lazer) 的启动代码。方法是，新建一份 osu!lazer 的快捷方式，右键点击属性，并修改目标为 `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`。此时，双击这个快捷方式，就可以进入 osu!(lazer) 的比赛客户端模式了。
+要启动 osu! 比赛客户端，你需要修改 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的启动代码。方法是，新建一份 osu!lazer 的快捷方式，右键点击属性，并修改目标为 `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`。此时，双击这个快捷方式，就可以进入 osu!(lazer) 的比赛客户端模式了。
 
-因为当前 osu! 比赛客户端还只是一层显示信息的皮肤，若要直播 osu! 比赛，你依旧需要使用 osu!tourney。复制一份 osu!，并打开让它安装好，并将客户端的版本设置为 `测试版 （不定期更新）`，并在这个用于比赛直播的客户端文件夹下创建一个空的 `ipc.txt` 文件。之后，按照 [osu!tourney 设置指南](/wiki/osu!tourney/Setup)做就好。
+因为当前 osu! 比赛客户端还只是一层显示信息的皮肤，若要直播 osu! 比赛，你依旧需要使用 osu!tourney。复制一份 osu!，并打开让它安装好，并将客户端的版本设置为 `测试版 （不定期更新）`，并在这个用于比赛直播的客户端文件夹下创建一个空的 `ipc.txt` 文件。之后，按照 [osu!tourney 设置指南](/wiki/osu!_tournament_client/osu!tourney/Setup)做就好。
 
 打开 osu! 比赛客户端，你将会看到以下设置界面：
 
@@ -25,7 +25,7 @@ no_native_review: true
 
 ## 管理比赛
 
-所有用于  osu!(lazer)，与比赛相关的配置均存储在 `%APPDATA%/osu/tournaments` 文件夹下。第一次进入比赛客户端，这个文件夹下会自动创建一个名为 `default` 的文件夹。用户可以为多场比赛创建并应用不同的配置，并根据需要切换使用。
+所有用于  [osu!(lazer)](/wiki/Client/Release_stream/Lazer)，与比赛相关的配置均存储在 `%APPDATA%/osu/tournaments` 文件夹下。第一次进入比赛客户端，这个文件夹下会自动创建一个名为 `default` 的文件夹。用户可以为多场比赛创建并应用不同的配置，并根据需要切换使用。
 
 想要创建一个新的比赛配置，你需要在 `tournaments`  文件夹下创建以该场比赛命名的空文件夹。
 

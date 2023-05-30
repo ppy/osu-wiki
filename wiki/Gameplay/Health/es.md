@@ -12,11 +12,11 @@ no_native_review: true
 
 # Salud
 
-**Salud** o *HP*, es el valor que determina si un jugador logra pasar o fallar un [mapa](/wiki/Beatmap). La salud se puede ver en la [barra de vida](/wiki/Client/Interface/Health_bar), que se actualiza a medida que avanza el juego. La configuración de la dificultad de la [tasa de drenaje de HP](/wiki/Beatmapping/HP_drain_rate), determinará qué tan difícil será mantener un valor alto de salud.
+**Salud** o *HP*, es el valor que determina si un jugador logra pasar o fallar un [mapa](/wiki/Beatmap). La salud se puede ver en la [barra de vida](/wiki/Client/Interface/Health_bar), que se actualiza a medida que avanza el juego. La configuración de la dificultad de la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate), determinará qué tan difícil será mantener un valor alto de salud.
 
 ## osu!
 
-En [osu!](/wiki/Game_mode/osu!), la salud disminuirá a un ritmo constante, llamado [drenaje de salud](/wiki/Beatmapping/Health_drain), pero se puede reponer si se golpea las notas en el tiempo correcto o girando las ruletas.
+En [osu!](/wiki/Game_mode/osu!), la salud disminuirá a un ritmo constante, llamado drenaje de salud, pero se puede reponer si se golpea las notas en el tiempo correcto o girando las ruletas.
 
 Aparecerán ráfagas de puntuación después de golpear un círculo, cambiando la puntuación y los valores de salud dependiendo de la precisión del golpe. Un golpe perfectamente sincronizado (300) recuperara más salud que un golpe mal sincronizado (50). El jugador también recibirá mejoras más grandes, si logran un katu o un geki al final del combo. Un fallo provocara una caída instantánea de salud. Si las ruletas son completadas antes de tiempo, seguir girando recuperara salud adicional. Para obtener una descripción general de la recuperación y perdida de salud, consulte a continuación:
 
@@ -67,7 +67,7 @@ Sin efecto:
 
 ## osu!catch
 
-En [osu!catch](/wiki/Game_mode/osu!catch), la salud disminuirá a un ritmo constante, llamado [health drain](/wiki/Beatmapping/Health_drain), pero se puede reponer atrapando frutas y gotas.
+En [osu!catch](/wiki/Game_mode/osu!catch), la salud disminuirá a un ritmo constante, llamado health drain, pero se puede reponer atrapando frutas y gotas.
 
 Aparecerán ráfagas de puntuación después de atrapar frutas, cambiando la puntuación y los valores de salud según el objeto atrapado. Los jugadores pueden recibir mejoras mas grandes si logran atrapar el final de un combo, resultando en un geki. Un fallo provocara una caída instantánea de salud. Las bananas pueden ser ignoradas sin penalización de salud. Para obtener una descripción general de la recuperación y perdida de salud, consulte a continuación:
 
@@ -86,7 +86,7 @@ Sin efecto:
 
 ## osu!mania
 
-En [osu!mania](/wiki/Game_mode/osu!mania), o solo los objetos de golpeo pueden afectar la barra de salud, ya que el [health drain](/wiki/Beatmapping/Health_drain) esta deshabilitado.
+En [osu!mania](/wiki/Game_mode/osu!mania), o solo los objetos de golpeo pueden afectar la barra de salud, ya que el health drain esta deshabilitado.
 
 Aparecerán ráfagas de puntuación después de tocar una nota, cambiando la puntuación y los valores de salud dependiendo de la precisión del golpe. Un golpe perfectamente sincronizado (300) recuperara más salud que un golpe mal sincronizado (50). Un fallo provocara una caída instantánea de salud. La regeneración de la barra de salud, se produce lentamente mientras se mantienen pulsadas las notas sostenidas. Para obtener una descripción general de la recuperación y perdida de salud, consulte a continuación:
 

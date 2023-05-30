@@ -39,7 +39,7 @@ where `<sampleset>` is either "normal", "soft" or "drum", and `<sound>` is one o
 
 ![](img/beatmap-folder-resources.png "A typical beatmap folder containing custom hitsounds")
 
-In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a [hit object](/wiki/Hit_object) with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
+In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a [hit object](/wiki/Gameplay/Hit_object) with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
 
 ## Applying custom hitsounds
 

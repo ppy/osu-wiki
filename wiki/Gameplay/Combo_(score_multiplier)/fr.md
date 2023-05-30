@@ -10,7 +10,7 @@ tags:
 
 *Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).*
 
-Un **combo** désigne le nombre d'[objets](/wiki/Hit_object) qu'un joueur a touché consécutivement sans miss ou [sliderbreak](/wiki/Gameplay/Judgement/Slider_break). Ce nombre est affiché à différents endroits en jouant une beatmap :
+Un **combo** désigne le nombre d'[objets](/wiki/Gameplay/Hit_object) qu'un joueur a touché consécutivement sans miss ou [sliderbreak](/wiki/Gameplay/Judgement/Slider_break). Ce nombre est affiché à différents endroits en jouant une beatmap :
 
 - En bas à gauche dans le mode [osu!](/wiki/Game_mode/osu!).
 - Sur les drums dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko).

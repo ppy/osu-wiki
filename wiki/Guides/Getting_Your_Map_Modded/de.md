@@ -1,33 +1,43 @@
-# Meine Map gemodded bekommen
+# Wie du deine Beatmap gemoddet bekommst
 
-Um deine Map ranked zu bekommen ist es erst nötig andere Spieler dazu zu bringen sie zu Modden. Es gibt verschiedene Wege dieses zu erreichen.
+Deine Beatmap [modden](/wiki/Modding) lassen ist ein essentieller Schritt im [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure). Es gibt verschiedene Wege, dies zu erreichen.
 
-## \#modreqs
+## Mod-Arten
 
-**\#modreqs** ist ein Channel im osu! chat wo Spieler andere um Hilfe bitten können sich ihre Map anzuschauen durch nutzen des /np Befehls. Andere Mapper/Modder und sogar Mitglieder der [Beatmap Nominator Gruppe](/wiki/People/The_Team/Beatmap_Nominators) halten dort oft ausschau nach guten Maps um diese zu Modden. Bancho zeichnet Automatisch die zuletzt 20 geposteten Maps auf und erlaubt anderen Spielern sie auf folgenden wegen zu finden:
+Vor der Suche nach Mods ist es wichtig, die verschiedenen Arten von Mod-Anfragen, die du machen kannst, zu verstehen. Die zwei am meisten genutzten sind [normale Mod-Anfragen](/wiki/Modding/Normal_mod) (NM req) und [Mod für Mod Anfragen](/wiki/Modding/Mod_for_mod) (M4M req). Dies sind jedoch nicht die einzigen Anfragetypen. Es gibt einige weitere Mod-Anfragearten, die hauptsächlich in `#modreqs` genutzt werden:
 
-- Durch eingabe des `!request` befehls in den Chat wird Bancho dir eine zufällige Map posten.
-- Durch Eingabe des `!request list` Befehls in den Chat wird Bancho dir eine liste der zuletzt 5 geposteten Maps schicken plus einen Link zu mehr.
-- Durch besuchen von der [Mod Requests](https://osu.ppy.sh/p/beatmaplist&r=8) Map liste. Dort werden die 20 zuletzt geposteten Maps aufgelistet.
-
-Solltest du mehr als zwei Maps in kurzer zeit posten wird Bancho diese Ignorieren.
-
-Es ist nicht die effektivste Methode, aber es schadet nicht diese zu versuchen. (Man sollte sich aber nicht nur auf diese Methode verlassen)
+- **Anfrage eines Beatmap-Nominators (BN req):** Wird nur in Warteschlangen von Beatmap-Nominatoren oder in `#modreqs` verwendet. Eine BN-Anfrage wird genutzt, wenn du glaubst, dass deine Beatmap durch reguläre Mods nicht weiter verbessert werden kann und eine gründlichere Prüfung durch einen [Beatmap-Nominator](/wiki/People/Beatmap_Nominators) erfordert.
+- **Metadaten-Überprüfung (Meta check):** Weitgehend selbsterklärend, der [Modder](/wiki/Modding/Modder) überprüft, ob die Metadaten deiner Beatmap korrekt sind. Die Metadaten werden oft auch in normalen Mods geprüft.
+- **Hitsound-Überprüfung:** Der Modder prüft deine Beatmap, um sicherzustellen, dass die Hitsounds den Song richtig abbilden, einheitlich sind und den Ranking-Standards entsprechen.
 
 ## Modding Queues
 
-Das [Modding Queues](https://osu.ppy.sh/community/forums/60) Unterforum beinhaltet viele Modding Queues. Eine Modding Queue ist ein von einem anderen Mapper/Modder erstellter Forumbeitrag. In diesen Thread ist es erlaubt deine Map zu posten und der Ersteller wird sie vielleicht Modden. Jeder Spieler hat andere Regeln für seine Modding Queue also ist es nötig diese immer zu lesen und auch zu beachten, wenn man seine Map gemodded haben möchte.
+Das Teilen deiner Beatmap in Modding-Warteschlangen ist der effektivste und am häufigste genutzte Weg, Leute zu finden, die deine Beatmaps modden. Modding-Warteschlangen sind im Forum [Modding Queues](https://osu.ppy.sh/community/forums/60) veröffentlichte Threads, die es dem Beitragsersteller erlauben, Beatmaps zum Modden zu finden und anderen, um leicht Modder zu entdecken, die ihre Beatmaps anschauen. Die Suche nach Mods über das Forum ist einfach und effektiv — folge einfach den unteren Schritten, um anzufangen:
 
-## Frag andere Mapper nach einem Mod4Mod
+1. Gehe zum Forum [Modding Queues](https://osu.ppy.sh/community/forums/60).
+2. Durchsuche die Liste der Warteschlangen und finde eine, die Beatmaps aus dem Spielmodus akzeptiert, für den du die Beatmap erstellt hast. Stelle sicher, dass sie im Titel oder im Eröffnungsbeitrag als "offen" gekennzeichnet ist.
+3. Lies die Regeln der Warteschlange durch. Wenn du oder deine Beatmap die dort aufgelisteten Anforderungen nicht erfüllen, dann musst du leider eine andere Modding-Queue suchen.
+4. Lies die in der Warteschlange aufgelisteten Präferenzen des Modders durch (sofern vorhanden), da dies sowohl dir als auch dem Ersteller der Warteschlange viel Zeit ersparen kann.
+5. Klicke auf den Button `zum letzten beitrag` am Ende des Bildschirms. Dies wird durch das Symbol eines doppelten rechten Chevrons (`>>`) dargestellt.
+6. Gib an, welche Anfrageart du suchst, zusammen mit einem Link zu deiner Beatmap und allen sonstigen Informationen, die der Modder verlangt, in die Box `Neue Antwort`.
+7. Klicke auf `Antworten`, sobald du fertig bist.
 
-Ein Mod4Mod, oder auch M4M abgekürzt ist eine Methode wo du die Map eines anderen Spielers moddest und er im Gegenzug deine Map Modded. Dies ist eine der effektivsten Methoden um einen Mod für die eigene Map zu bekommen. Besonders nützlich ist es hier \#modreqs und M4M zu kombinieren indem man im dortigen Channel nach einem M4M sucht. Natürlich kannst du auch einfach Spieler direkt fragen ob sie für einen M4M bereit wären. Im Grunde kann man damit nicht verlieren, außerdem ist es eine "Win Win - Situation" für beide. Solltet ihr wirklich dringend Mods brauchen versucht es immer mit einem M4M.
+Es ist grundsätzlich in Ordnung, gleichzeitig in ein paar Modding-Warteschlangen Beiträge zu versenden, du kannst also diesen Prozess bei Bedarf wiederholen, oder wenn du deine Chance erhöhen möchtest, dass deine Beatmap gemoddet wird. Beachte jedoch, dass nur weil du in einer Modding-Warteschlange gepostet hast, bedeutet das nicht, dass der Modder dazu verpflichtet ist, deine Beatmap zu bewerten. Modder werden deine Beatmap anschauen, sofern sie möchten.
 
-## Direktes fragen anderer Spieler
+Es sollte angemerkt werden, dass du es vermeiden solltest, in den Warteschlangen von Beatmap-Nominatoren Beiträge zu verfassen, bis dein Mapping ein nahezu rankbares Level erreicht hat (es sei denn, sie haben angegeben, dass sie nach Anfängern suchen), da sie deine Anfragen ansonsten wahrscheinlich ignorieren werden. Es ist viel besser, normale Modder zu finden, die deine Beatmaps modden, wenn du das Erstellen von Beatmaps noch lernst.
 
-Auch das direkte fragen anderer Spieler ist eine sehr effektive Methode um an Mods zu kommen. Sucht nacht Spielern mit vielen Kudosu aber keiner Modding Queue und fragt diese direkt. Eine gute Idee ist es auch Spieler mit einem Hohen Rang nach einem "Testplay" zu fragen, oftmals geben diese dann Verbesserungsvorschläge was man an der Map besser machen könnte. Auch das direkte fragen von Mitgliedern der [Beatmap Nominator Gruppe](/wiki/People/The_Team/Beatmap_Nominators) ist eine gute Idee. Hier sind noch ein paar Tipps die man beachten sollte wenn man Spieler direkt fragt:
+## #modreqs
 
-- Sollte ein Spieler in seiner Signatur oder auf seiner Userpage stehen haben "I don't take requests" fragt diese leute nicht, sollten sie keine Freunde von euch sein.
-- Beginnt eine einfache Konversation mit einem Mapper/Modder. Unterhaltet euch ein bisschen mit ihm und versucht unauffällig eine Mod requests einzubringen. Dies ist oftmals viel effektiver als die Leute einfach direkt zu fragen.
-- Seid kein Idiot im Chat und in den Foren. Wenn ihr anderen Negativ auffallt und die Leute euch nicht mögen werden sie wahrscheinlich eure Map nicht modden wollen. Wer würde schon jemandem helfen wollen den er nicht mag?
+*Warnung: Bitte spamme keine Anfragen in diesem Kanal, da dies zu einer [Stummschaltung](/wiki/Silence) führen kann. Veröffentliche eine Mod-Anfrage in `#modreqs` etwa jede Stunde.*
 
-Viel glück bei der suche nach Mods und auf dem Weg eure Map zu ranken!
+`#modreqs` ist ein Kanal im osu!-Chat, in dem Spieler Bewertungen für ihre Beatmaps durch das Verlinken mit dem Befehl `/np` anfragen können, zusammen mit der Art der Mod-Anfrage. Es ist zwar nicht die effektivste Methode, Mods zu finden, aber Modder und Beatmap-Nominatoren sind oft auf der Suche nach guten Beatmaps, die in diesem Kanal verlinkt werden.
+
+`#modreqs` hat nicht dieselbe Funktionalität und Nutzerbasis, die es in der Vergangenheit hatte, aber es ist immer noch eine nützliche Methode, Mods zu erhalten, es ist also einen Versuch wert. Obwohl es heutzutage hauptsächlich normale Mod-Anfragen gibt, wird der Kanal auch häufig für die anderen [oben genannten Anfragearten](#mod-arten) verwendet.
+
+## Direktes Fragen anderer Spieler
+
+Auch das direkte Fragen anderer Spieler ist eine sehr effektive Methode, um seine Beatmap modden zu lassen. Generell gilt: Wenn ein Modder keine Modding-Warteschlange besitzt, hat er die Modding-Informationen vermutlich auf der "ich!"-Seite seines Profils. Nachdem du die dortigen Informationen gelesen hast, kannst du ihm im osu!-Chat eine Nachricht mit deinem Anliegen schicken. Diese Modder sind zwar seltener anzutreffen, aber es gibt immer noch einige von ihnen, von denen viele private Warteschlangen außerhalb der Plattform und dergleichen haben.
+
+Alle Beatmap-Nominatoren haben ihre Modding-Angaben auf ihrer "ich!"-Seite, unabhängig davon, ob sie eine Modding-Warteschlange haben oder nicht. Das direkte Fragen von Beatmap-Nominatoren ist fast eine Notwendigkeit, um einen zu bekommen, der deine Beatmap moddet und/oder nominiert.
+
+Die wahrscheinlich einfachste Methode, eine Bewertung zu bekommen (wenn auch mit unterschiedlichem Qualitätsniveau), ist Freunde zu fragen, deine Beatmap zu modden. Du solltest Freunde fragen, die zumindest ein wenig Mapping-Erfahrung haben, um die besten Ergebnisse zu erzielen.

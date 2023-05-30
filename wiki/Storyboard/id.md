@@ -5,7 +5,7 @@
 
 **Storyboard** (SB) merupakan animasi latar yang secara khusus dibuat untuk mendampingi suatu [beatmap](/wiki/Beatmap) ketika dimainkan. Walaupun storyboard dapat digunakan untuk menampilkan hal apapun, pada umumnya storyboard digunakan untuk menghadirkan efek-efek visual yang akan membuat tampilan beatmap yang bersangkutan menjadi lebih menggugah. Konsep storyboard sendiri tersinpirasi dari animasi latar yang terdapat pada permainan [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan), yang senantiasa berubah tergantung dari baik atau buruknya permainan masing-masing pemain seiring waktu.
 
-Animasi-animasi dalam storyboard dipicu oleh kode-kode yang tertera pada [berkas `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) terpisah atau pada kolom `[Events]` yang ada pada [berkas `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang bersangkutan. Oleh karenanya, suatu beatmap dapat mengandung storyboard yang berbeda-beda per tingkat kesulitannya.
+Animasi-animasi dalam storyboard dipicu oleh kode-kode yang tertera pada [berkas `.osb`](/wiki/Client/File_formats/Osb_(file_format)) terpisah atau pada kolom `[Events]` yang ada pada [berkas `.osu`](/wiki/Client/File_formats/Osu_(file_format)) yang bersangkutan. Oleh karenanya, suatu beatmap dapat mengandung storyboard yang berbeda-beda per tingkat kesulitannya.
 
 ## Storyboarding
 

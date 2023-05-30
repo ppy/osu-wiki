@@ -14,7 +14,7 @@ no_native_review: true
 
 ![RL Modsymbol](/wiki/shared/mods/RL.png "Relax (RL) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -32,11 +32,11 @@ no_native_review: true
 
 *Hinweis: Das Aktivieren der Mod Relax sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.*
 
-Die Mod **Relax** ist eine [Spielmodifikation](/wiki/Game_modifier), die das Ziel hat, Spielern ein entspanntes Spielerlebnis zu bieten. Aufgrund ihrer Funktionalität wird die Mod typischerweise verwendet, um schwierige [Patterns](/wiki/Beatmap/Pattern) auf [Beatmaps](/wiki/Beatmap) zu analysieren/üben oder um Spielern zu ermöglichen, der Hand, die zum Tippen benutzt wird, eine Pause zu gönnen.
+Die Mod **Relax** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, Spielern ein entspanntes Spielerlebnis zu bieten. Aufgrund ihrer Funktionalität wird die Mod typischerweise verwendet, um schwierige [Patterns](/wiki/Beatmap/Pattern) auf [Beatmaps](/wiki/Beatmap) zu analysieren/üben oder um Spielern zu ermöglichen, der Hand, die zum Tippen benutzt wird, eine Pause zu gönnen.
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!) muss der Spieler beim Aktivieren der Mod Relax nur den Cursor über [Hit-Objekte](/wiki/Hit_object) bewegen. Alle Hit-Objekte werden automatisch von osu! getippt. Die Mod macht es in allen Spielmodi unmöglich, die Beatmap nicht zu schaffen.
+In [osu!](/wiki/Game_mode/osu!) muss der Spieler beim Aktivieren der Mod Relax nur den Cursor über [Hit-Objekte](/wiki/Gameplay/Hit_object) bewegen. Alle Hit-Objekte werden automatisch von osu! getippt. Die Mod macht es in allen Spielmodi unmöglich, die Beatmap nicht zu schaffen.
 
 Die Mod Relax deaktiviert auch die Benutzeroberfläche im Spiel, wodurch der [Score](/wiki/Gameplay/Score), die [Combo](/wiki/Beatmapping/Combo) und Misses versteckt bleiben. Das kann jedoch über `Shift` + `Tab` wieder aktiviert werden. Zusätzlich werden die Spins pro Minute (SPM) verdoppelt, was dem Spieler ermöglicht, viel schneller zu drehen und so einen höheren Score zu erzielen als in einem gewöhnlichen Spiel der Fall wäre.
 

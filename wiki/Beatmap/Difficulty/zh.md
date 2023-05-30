@@ -15,9 +15,9 @@ tags:
 
 *请勿与[谱面（Beatmap）](/wiki/Beatmap)相混淆。*
 
-谱面中的**难度**是一个以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))文本文件存储的游戏关卡。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Beatmapping/Timing_section)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmapping/Star_rating)足以显示难度所具有的挑战性。
+谱面中的**难度**是一个以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))文本文件存储的游戏关卡。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Beatmapping/Timing_section)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Gameplay/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmap/Star_rating)足以显示难度所具有的挑战性。
 
-据游戏模式、游玩难度、音乐的旋律及给人带来感觉的不同，难度中击打物件所组成的[排列](/wiki/Beatmap/Pattern)不尽相同。谱师可以通过调整多种[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Game_modifier) 来影响谱面的实际游玩难度。
+据游戏模式、游玩难度、音乐的旋律及给人带来感觉的不同，难度中击打物件所组成的[排列](/wiki/Beatmap/Pattern)不尽相同。谱师可以通过调整多种[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier) 来影响谱面的实际游玩难度。
 
 难度可以通过提供一组或多组音频样本（或[音效](/wiki/Beatmapping/Hitsound)）来增强歌曲，提供额外的听觉反馈层次。
 
@@ -26,7 +26,7 @@ tags:
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-与排列不同的是，难度的[视觉组件](/wiki/Beatmap)通常能提供辅助层次的体验，在大多数情况下，也可以在[视觉设置](/wiki/Client/Interface/Visual_settings)页面关闭它们。大多数视觉组件（如：[kiai 时间](/wiki/Gameplay/Kiai_time)和 [combo 颜色](/wiki/Glossary/Combo_colour)）各难度相互独立，而有些视觉组件（如：[故事板](/wiki/Storyboard)或者[谱面皮肤](/wiki/Skinning)）是谱面所有难度共享的。
+与排列不同的是，难度的[视觉组件](/wiki/Beatmap)通常能提供辅助层次的体验，在大多数情况下，也可以在[视觉设置](/wiki/Client/Interface/Visual_settings)页面关闭它们。大多数视觉组件（如：[kiai 时间](/wiki/Gameplay/Kiai_time)和 [combo 颜色](/wiki/Beatmapping/Combo_colour)）各难度相互独立，而有些视觉组件（如：[故事板](/wiki/Storyboard)或者[谱面皮肤](/wiki/Skinning)）是谱面所有难度共享的。
 
 ## 难度等级
 

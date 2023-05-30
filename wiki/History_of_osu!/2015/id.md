@@ -6,7 +6,7 @@ outdated_translation: true
 
 ## Maret
 
-peppy mempertimbangkan kembali bahwa model bisnis yang ia terapkan saat ini tidak akan memberinya "osu! Jet G6" pribadinya dan dengan peresmian *[osu!coin](/wiki/osu!coin)* diharapkan ia dapat meningkatkan pendapatannya. Setiap pemain saat ini diberikan 10 osu!coin untuk awalan (dengan tarif 1 kali bermain = 1 osu!coin). Koin ini juga dapat diisi ulang setelah memperoleh kombo dari kelipatan 100. Atau instan dengan membeli, harga tersedia di bawah ini:
+peppy mempertimbangkan kembali bahwa model bisnis yang ia terapkan saat ini tidak akan memberinya "osu! Jet G6" pribadinya dan dengan peresmian *[osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)* diharapkan ia dapat meningkatkan pendapatannya. Setiap pemain saat ini diberikan 10 osu!coin untuk awalan (dengan tarif 1 kali bermain = 1 osu!coin). Koin ini juga dapat diisi ulang setelah memperoleh kombo dari kelipatan 100. Atau instan dengan membeli, harga tersedia di bawah ini:
 
 - 1 osu!coin = $1 USD
 - 10 osu!coin = $10 USD

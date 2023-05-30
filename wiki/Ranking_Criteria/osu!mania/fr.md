@@ -1,3 +1,8 @@
+---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
+outdated_translation: true
+---
+
 # Critères de classement d'osu!mania
 
 ***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
@@ -153,6 +158,7 @@ Directives supplémentaires pour les difficultés *7 key Normal* :
 - **Les séries de long streams de 1/4 doivent inclure, au minimum, une demi-pause lorsqu'il est naturel de le faire après chaque phrase musicale.** Ceux-ci peuvent être trop exigeants physiquement pour les joueurs de ce niveau.
 - **Les chords à l'intérieur d'un quart de stream doivent être espacés d'au moins 1/1 temps les uns des autres.** Une utilisation plus dense des chords est trop difficile pour les joueurs de ce niveau de compétence.
 - **Évitez d'utiliser des chords au milieu des streams 1/6.** Toutefois, l'utilisation d'un chord au début ou à la fin d'un stream est acceptable.
+- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 - **L'utilisation de 1/4 d'un jack est déconseillée.** Ceux-ci peuvent être trop exigeants physiquement pour les joueurs de ce niveau. Des minijacks entrecoupés d'un temps de repos suffisant peuvent être acceptés.
 - **Évitez d'utiliser plus de 9 notes consécutives dans un trill.** La coordination et l'équilibre des mains requis pour ce pattern sont trop difficiles pour les joueurs de ce niveau.
 - **Les long notes doivent être tenues pendant au moins 1/4 de temps.**
@@ -163,12 +169,10 @@ Directives supplémentaires pour les difficultés *7 key Normal* :
 Directives supplémentaires pour les difficultés *4 key Hard* :
 
 - **Évitez les chords de plus de 3 notes.** Cela inclut les longs patterns de notes qui impliquent des notes sur plus de trois colonnes.
-- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 
 Directives supplémentaires pour les difficultés *7 key Hard* :
 
 - **Évitez les chords de plus de 4 notes.** Cela inclut les longs patterns de notes qui impliquent des notes sur plus de quatre colonnes.
-- **Évitez les anchors composés de cinq notes ou plus.** Bien qu'elles soient faciles à lire pour les joueurs, les anchors plus longs sont éprouvants.
 - **Maintenez la distance entre les chords dans un chordstream à un intervalle de 1/1 ou plus.** Tout ce qui est plus dense que cela peut nuire à la lisibilité.
 - **Les hands peuvent être utilisés occasionnellement dans les streams, à condition qu'ils soient séparés par au moins une mesure (4 temps).**
 

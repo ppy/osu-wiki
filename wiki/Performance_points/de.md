@@ -10,15 +10,15 @@ Die erste Einführung so einer Punktzahl wurde im April 2012 der Öffentlichkeit
 
 Danach bekannt als "pp" (eine Abkürzung für "performance-points"), versuchte dieses neue System, den alten Standard, der nur auf der [Gesamtpunktzahl](/wiki/Gameplay/Score) eines Spielers beruhte, zu etwas, dass die Fähigkeiten des Spielers widerspiegelt, zu verbessern. Das neue System wurde damals von den Spielern gelobt.
 
-Ein paar Monate nach der Enthüllung wurde es in der osu!-Version 20120722-24 offiziel eingebaut, um das alte [Ranglistenpunktesystem](/wiki/Beatmap/Category#ranked) vollständig zu ersetzen. Alle 30 Minuten wurden neue Scores berechnet. Später, im August desselben Jahres, wurde das System verbessert, sodass es die Performance-Points in Echtzeit aktualisierte.
+Ein paar Monate nach der Enthüllung wurde es in der osu!-Version 20120722-24 offiziell eingebaut, um das alte [Ranglistenpunktesystem](/wiki/Beatmap/Category#ranked) vollständig zu ersetzen. Alle 30 Minuten wurden neue Scores berechnet. Später, im August desselben Jahres, wurde das System verbessert, sodass es die Performance-Points in Echtzeit aktualisierte.
 
-Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/The_Team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt.
+Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/osu!_team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt.
 
-Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden großtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Die wichtigsten Punkte sind:
+Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden größtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Die wichtigsten Punkte sind:
 
 - Die Einführung von einem Skalierungsfaktor für die zusätzliche Vergabe von pp bei einer Approach-Rate von 11, basierend auf der Länge der Beatmap.
-- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
-- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Game_modifier/Spun_Out), basierend darauf wie viele Spinner in einer Beatmap sind.
+- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
+- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), basierend darauf wie viele Spinner in einer Beatmap sind.
 - Die Rate des Verlusts von pp wurde angepasst, um bei längeren Beatmaps mit höherer Combo nachsichtiger zu sein.
 - Kleinerer Gewinn von pp bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy).
 
@@ -46,9 +46,9 @@ Bezüglich der Formel oben repräsentiert *p* die volle Menge an pp (vor der Gew
 
 *Aim* ist ein Kernwert, der berücksichtigt, wie schwer es ist, aufeinanderfolgende Objekte in einer Beatmap zu treffen.
 
-Elemente wie die [Approach-Rate](/wiki/Beatmapping/Approach_rate) und bestimmte [Mods](/wiki/Game_modifier) (wie [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) und [Hard Rock](/wiki/Game_modifier/Hard_Rock)) machen es schwerer, den Cursor schnell und genau zu bewegen und beeinflussen daher die Menge an pp, die ein Score gibt.
+Elemente wie die [Approach-Rate](/wiki/Beatmap/Approach_rate) und bestimmte [Mods](/wiki/Gameplay/Game_modifier) (wie [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), [Hidden](/wiki/Gameplay/Game_modifier/Hidden) und [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)) machen es schwerer, den Cursor schnell und genau zu bewegen und beeinflussen daher die Menge an pp, die ein Score gibt.
 
-Im Falle von [osu!](/wiki/Game_mode/osu!) werden Beatmaps mit sehr großen [Sprüngen](/wiki/Beatmap/Pattern/Jump) als "high aim" eingestuft und geben deswegen auch oft Scores mit einer großen Menge pp. Gleichermaßen werden Beatmaps mit viel Hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) belohnt. Aim wird in den Spielmodi [osu!taiko](/wiki/Game_mode/osu!taiko) und [osu!mania](/wiki/Game_mode/osu!mania) nicht beachtet.
+Im Falle von [osu!](/wiki/Game_mode/osu!) werden Beatmaps mit sehr großen [Sprüngen](/wiki/Beatmap/Pattern/osu!/Jump) als "high aim" eingestuft und geben deswegen auch oft Scores mit einer großen Menge pp. Gleichermaßen werden Beatmaps mit viel Hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) belohnt. Aim wird in den Spielmodi [osu!taiko](/wiki/Game_mode/osu!taiko) und [osu!mania](/wiki/Game_mode/osu!mania) nicht beachtet.
 
 ### Geschwindigkeit
 
@@ -56,21 +56,21 @@ Im Falle von [osu!](/wiki/Game_mode/osu!) werden Beatmaps mit sehr großen [Spr�
 
 Beatmaps mit vielen spielbaren Elementen in kurzer Zeit haben einen hohen Geschwindigkeitswert. Das bedeutet, dass eine Beatmap mit einem höheren Geschwindigkeitswert schwerer ist und deswegen mehr pp vergibt.
 
-Das Resultat daraus ist, dass Mods wie [Double Time](/wiki/Game_modifier/Double_Time) und [Half Time](/wiki/Game_modifier/Half_Time) signifikant die Geschwindigkeit der Beatmap verändern, was der Perfomance-Points Algorithmus berücksichtigt. Gleichermaßen beeinflussen diese Mods auch signifikant die Menge an pp die vergeben werden.
+Das Resultat daraus ist, dass Mods wie [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) und [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) signifikant die Geschwindigkeit der Beatmap verändern, was der Perfomance-Points Algorithmus berücksichtigt. Gleichermaßen beeinflussen diese Mods auch signifikant die Menge an pp die vergeben werden.
 
 ### Genauigkeit
 
 *Siehe auch: [Genauigkeit](/wiki/Gameplay/Accuracy)*
 
-*Genauigkeit* ist ein Prozentwert, der die Fähigkeit eines Spielers bewertet, [Hit-Objekte](/wiki/Hit_object) zur richtigen Zeit zu treffen. Sie ist auch ein Kernwert, um die individuelle Leistung eines Spielers auf einer Beatmap zu bewerten.
+*Genauigkeit* ist ein Prozentwert, der die Fähigkeit eines Spielers bewertet, [Hit-Objekte](/wiki/Gameplay/Hit_object) zur richtigen Zeit zu treffen. Sie ist auch ein Kernwert, um die individuelle Leistung eines Spielers auf einer Beatmap zu bewerten.
 
-Scores mit hoher Genauigkeit werden vom Algorithmus als beeindruckend betrachtet und geben deswegen hohe Punktzahlen. Eine [Full Combo](/wiki/Full_combo) mit 80 % Genauigkeit kann manchmal 2/3 so viel Wert haben wie eine mit 95 % Genauigkeit. Dadurch, dass der Algorithmus stark auf Genauigkeit beruht, geben Mods wie Hidden, Hardrock und Flashlight beachtlich mehr pp für Scores mit hoher Genauigkeit.
+Scores mit hoher Genauigkeit werden vom Algorithmus als beeindruckend betrachtet und geben deswegen hohe Punktzahlen. Eine [Full Combo](/wiki/Gameplay/Full_combo) mit 80 % Genauigkeit kann manchmal 2/3 so viel Wert haben wie eine mit 95 % Genauigkeit. Dadurch, dass der Algorithmus stark auf Genauigkeit beruht, geben Mods wie Hidden, Hardrock und Flashlight beachtlich mehr pp für Scores mit hoher Genauigkeit.
 
 ### Anstrengung
 
 *Anstrengung* ist ein Kernwert, der bewertet, wie oft und wie lang der Spieler Sektionen mit hoher Intensität in einer Beatmap spielen muss.
 
-Teile der Beatmap mit sehr hoher Geschwindigkeit oder schwierigen [Mustern](/wiki/Beatmap/Pattern) erhöhen den Anstrengungswert. Das heißt: Beatmaps mit mehr [Streams](/wiki/Beatmap/Pattern/Stream) oder schnellen Sprüngen haben einen höheren Anstrengungswert und geben mehr pp.
+Teile der Beatmap mit sehr hoher Geschwindigkeit oder schwierigen [Mustern](/wiki/Beatmap/Pattern) erhöhen den Anstrengungswert. Das heißt: Beatmaps mit mehr [Streams](/wiki/Beatmap/Pattern/osu!/Stream) oder schnellen Sprüngen haben einen höheren Anstrengungswert und geben mehr pp.
 
 ## FAQ
 

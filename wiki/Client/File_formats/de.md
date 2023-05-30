@@ -4,11 +4,11 @@
 
 | Dateiformat | MIME-Typ | Verwendung |
 | :-- | :-- | :-- |
-| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu!-Beatmap-Archiv |
-| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | osu!-Skin-Archiv |
-| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | osu\![-Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) |
-| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | osu\![-Storyboard](/wiki/Storyboard/Scripting) |
-| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | osu\![-Replay](/wiki/Gameplay/Replay) |
+| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu!-Beatmap-Archiv |
+| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | osu!-Skin-Archiv |
+| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | osu\![-Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) |
+| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | osu\![-Storyboard](/wiki/Storyboard/Scripting) |
+| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | osu\![-Replay](/wiki/Gameplay/Replay) |
 
 ## .osz- und .osk-Dateien erstellen
 
@@ -21,7 +21,7 @@ Wenn du weißt, wie du ein Skin- oder Beatmap-Archiv erstellst, welches von osu!
 
 ### Verwendung einer Archivierungssoftware
 
-1. Installiere ein Dateiarchivierungsprogramm, das `.zip`-Dateien erzeugen kann, wie z. B. [7-Zip](https://www.7-zip.org) oder [WinRAR](https://www.win-rar.com).
+1. Installiere ein Dateiarchivierungsprogramm, das `.zip`-Dateien erzeugen kann, wie z. B. [7-Zip](https://www.7-zip.org/) oder [WinRAR](https://www.rarlab.com/).
 2. Lege alle Dateien, die du archivieren möchtest, in einen separaten Ordner.
 3. Klicke mit der rechten Maustaste auf den Ordner und wähle  `Zu einem Archiv hinzufügen...` (alternativ kannst du das auch im Archivierungsprogramm selbst machen).
 4. Selektiere das Archivformat ZIP.

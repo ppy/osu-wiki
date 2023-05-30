@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2015 logo](img/logo.jpg)
 
-Der **osu! World Cup 2015** (***OWC 2015***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die sechste Austragung des osu! World Cup.
+Der **osu! World Cup 2015** (***OWC 2015***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/osu!_team) ausgerichtet wurde. Es war die sechste Austragung des osu! World Cup.
 
 ## Turnierzeitplan
 
@@ -464,8 +464,8 @@ Sonntag, 8. November 2015:
    - Am meisten gewonnene Beatmaps.
    - Hat ein größeres `∑{(gesamte Ergebnisdifferenz) / (maximales Ergebnis)}`.
    - Gewinner von Rückspielen.
-4. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
-5. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
+4. Die besten 2 Teams in der Gruppe kommen in die Doppeleliminierungsetappen.
+5. Die folgenden Etappen sind Doppeleliminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
 6. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
 | Stage | Match ID |
@@ -519,7 +519,7 @@ Sonntag, 8. November 2015:
 
 1. Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2. Die Partien können sich in der Gruppenphase überlappen.
-3. Alle Doppeleleminierungsetappen finden entweder am Samstag oder am Sonntag UTC+0 statt.
+3. Alle Doppeleliminierungsetappen finden entweder am Samstag oder am Sonntag UTC+0 statt.
 4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich, die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
    - In den Phasen Viertelfinale und höher: Bitte informiere die Turnierleitung vor Sonntag, wenn du erwartest, dass ein bestimmtes Zeitfenster in der folgenden Woche nicht zur Verfügung steht. Es wird versucht, den Wünschen nachzukommen, leider können keine Versprechungen gemacht werden.
 5. Eine Umplanung nach Veröffentlichung des Zeitplans im Wiki ist unter keinen Umständen mehr möglich.

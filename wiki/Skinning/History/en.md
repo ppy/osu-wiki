@@ -123,6 +123,24 @@ Notes:
 
 - This element was skinnable for a single day as part of the 2015 April fools joke.
 
+---
+
+`menu-charts-click.wav`
+
+Notes:
+
+- The sample played when clicking on `Charts` in the main menu.
+
+---
+
+`menu-charts-hover.wav`
+
+Notes:
+
+- The sample played when hovering above `Charts` in the main menu.
+
+---
+
 ### FPS
 
 `fps-0.png`

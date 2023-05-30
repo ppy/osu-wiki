@@ -1,14 +1,22 @@
 # osu!stream
 
+*Pour la liste des musiques incluses dans le jeu, voir : [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)*
+
 ![](img/Os-Logo.jpg "logo d'osu!stream")
 
-**osu!stream** est une version d'osu! créée de toutes pièces et spécialement conçue pour les appareils tactiles. Elle est actuellement disponible uniquement sur la plateforme [iOS](https://fr.wikipedia.org/wiki/IOS) d'Apple. Un portage [Android](https://fr.wikipedia.org/wiki/Android) était prévu et presque terminé, mais il n'a pas encore été publié en raison de problèmes de latence audio dans Android, qui rendent le jeu peu agréable.
+**osu!stream** est une version spéciale d'osu! créée pour les appareils portables [iOS](http://en.wikipedia.org/wiki/IOS) et [Android](http://en.wikipedia.org/wiki/Android_(operating_system)). Elle peut être téléchargée gratuitement sur l'[App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) et le [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android).
 
-Il a introduit un tout nouveau système de jeu, avec de nouveaux éléments de jeu tels que des hold circles et des connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps ont été créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Contrairement à osu!, osu!stream propose un système de jeu entièrement nouveau avec des éléments uniques tels que les hold circle et les connected beats. Il ne prend pas en charge les beatmaps classiques d'osu! sans conversion manuelle. Les beatmaps sont créées par une équipe spéciale de mappeurs afin de tirer parti des nouveaux éléments et de respecter un [niveau de normes plus strict](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream a été élaboré dans osu!monthly \#5 après une interview](https://osu.ppy.sh/community/forums/topics/59924)
+## Histoire
 
-Le développement de cette version s'est terminé en 2020. Pour plus d'informations, lisez le [billet de blog](https://blog.ppy.sh/osu-stream-2020-release/) sur sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream) pour les curieux, et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "boutique" du jeu.
+Le développement d'osu!stream a commencé en 2011 dans le but de présenter une version d'osu! pouvant être jouée en déplacement, suite au projet [osu! iPhone](https://github.com/ppy/osu-iPhone) précédemment abandonné. À l'origine, il s'agissait d'une application exclusive à iOS, car l'infrastructure d'Android à l'époque rendait inévitables les problèmes de latence audio sur cette plateforme.
+
+Le jeu a été présenté pour la première fois dans [une vidéo YouTube cryptique](https://www.youtube.com/watch?v=6Jyzgm_-joM) en juin 2011. Après sa sortie publique quelques mois plus tard, les coulisses du jeu ont été détaillées dans l'[osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) ainsi qu'une interview de peppy.
+
+Le développement de base d'osu!stream a cessé en 2020. Pour plus d'informations, lisez le [post du blog](https://blog.ppy.sh/osu-stream-2020-release/) concernant sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream), et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "Boutique" du jeu.
+
+En 2023, douze ans après sa sortie initiale, osu!stream a finalement été [implémenté sur Android](https://twitter.com/ppy/status/1613460209703456769) grâce aux efforts de ::{ flag=FR }: : [ThePooN](https://osu.ppy.sh/users/718454) et d'autres contributeurs open-source.
 
 ## Installation
 
@@ -215,10 +223,6 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 ![](img/Os-O2.png "Écran des options 2")
 
 ---
-
-## Liste des musiques
-
-***[Cliquez ici pour une liste complète](Song_List)***
 
 ## Score
 

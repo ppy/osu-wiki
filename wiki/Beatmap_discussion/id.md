@@ -9,7 +9,7 @@ tags:
 
 *Lihat juga: [Modding v1](/wiki/Modding/Forum_modding)*
 
-**Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. Ketika beatmap telah [dikirim](/wiki/Submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
+**Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. Ketika beatmap telah [dikirim](/wiki/Beatmapping/Beatmap_submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
 
 - Pemilihan mode
 - Beatmap header
@@ -60,7 +60,7 @@ Kamu dapat memilih [tingkat kesulitan](/wiki/Beatmap/Difficulty) yang berbeda me
 Opsi pengurutan merubah cara pandang diskusi beatmap dilihat. Ketika sebuah opsi dipilih, opsi pengurutan merubah modding timeline dan modding section hanya menyertakan jenis postingan yang dipilih. Opsi pengurutan juga sangat berguna untuk melihat postingan yang belum terjawab di laman diskusi. Opsi yang berbeda meliputi:
 
 - `Milik Saya` menunjukkan postingan kamu sendiri
-- `Catatan` menunjukkan catatan dari mapper atau [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators)
+- `Catatan` menunjukkan catatan dari mapper atau [Beatmap Nominator](/wiki/People/Beatmap_Nominators)
 - `Terjawab` menunjukkan postingan yang terjawab
 - `Belum Terjawab` menunjukkan postingan yang belum terjawab
 - `Pujian` menunjukkan postingan pujian dan hype
@@ -85,7 +85,7 @@ Status bar beatmap menampilkan semua yang relevan sesuai dengan posisi beatmap b
 
 ### Hype train
 
-Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
+Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
 
 ### Status nominasi
 
@@ -115,7 +115,7 @@ Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis 
 
 `Linimasa` menampilkan postingan pada titik-titik tertentu dari suatu kesulitan menurut timestamp pertama yang ditempatkan. Setiap postingan di tab ini harus menyertakan timestamp untuk diposting. Timestamp apa pun tidak akan mempengaruhi urutan postingan.
 
-`Riwayat` mencatat semua perubahan ke laman diskusi dalam urutan kronologis. Perubahan diberi kode warna; dengan hijau yang merupakan postingan yang diselesaikan dan perubahan status, merah merupakan masalah baru setelah nominasi, dan biru merupakan hal-hal yang lainnya. Mengklik nomor referensi mana pun akan membuka postingan tertentu. Tab riwayat tidak digunakan saat modding, tetapi berguna untuk [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan staf lain untuk memeriksa masalah tersebut.
+`Riwayat` mencatat semua perubahan ke laman diskusi dalam urutan kronologis. Perubahan diberi kode warna; dengan hijau yang merupakan postingan yang diselesaikan dan perubahan status, merah merupakan masalah baru setelah nominasi, dan biru merupakan hal-hal yang lainnya. Mengklik nomor referensi mana pun akan membuka postingan tertentu. Tab riwayat tidak digunakan saat modding, tetapi berguna untuk [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dan staf lain untuk memeriksa masalah tersebut.
 
 ## Tempat pengajuan
 
@@ -141,7 +141,7 @@ Diskusi dapat diurut dengan tombol di bawah judul `Diskusi`. Awalnya, postingan 
 
 ### Jempol ke atas/ke bawah
 
-Jika terdapat sebuah postingan mod yang sangat membantu, [Kudosu!](/wiki/Modding/Kudosu) dapat diberikan. Kudosu dapat diberikan oleh siapapun dengan memberikan sebuah jempol ke atas, kecuali pengguna yang membuat postingan tersebut. Ini berguna bagi modder yang di mana Kudosu! diperlukan untuk masuk ke [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Jika fitur Kudosu! disalahgunakan, anggota [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), dan [GMT](/wiki/People/The_Team/Global_Moderation_Team) dapat memberi jempol ke bawah untuk menyangkal Kudosu! yang telah diberikan. Jika penyalahgunaan dilakukan dengan niat jahat, hukuman juga dapa diberikan kepada pelaku.
+Jika terdapat sebuah postingan mod yang sangat membantu, [Kudosu!](/wiki/Modding/Kudosu) dapat diberikan. Kudosu dapat diberikan oleh siapapun dengan memberikan sebuah jempol ke atas, kecuali pengguna yang membuat postingan tersebut. Ini berguna bagi modder yang di mana Kudosu! diperlukan untuk masuk ke [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Jika fitur Kudosu! disalahgunakan, anggota [BN](/wiki/People/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team), dan [GMT](/wiki/People/Global_Moderation_Team) dapat memberi jempol ke bawah untuk menyangkal Kudosu! yang telah diberikan. Jika penyalahgunaan dilakukan dengan niat jahat, hukuman juga dapa diberikan kepada pelaku.
 
 ### Diskusi linimasa
 
@@ -149,7 +149,7 @@ Linimasa di sebelah kiri diskusi menunjukkan postingan timestamp terkait. Ini ha
 
 ### Tag
 
-Tag menampilkan [peran penting](/wiki/People/The_Team) di bawah nama pengguna. Hanya peran-peran yang relevan saja untuk diskusi beatmap yang ditampilkan. Ini termasuk `MAPPER`, anggota dari `BN`, `NAT`,`GMT`, dan `DEV` yang memiliki lebih banyak opsi daripada pengguna biasa di laman diskusi.
+Tag menampilkan [peran penting](/wiki/People/osu!_team) di bawah nama pengguna. Hanya peran-peran yang relevan saja untuk diskusi beatmap yang ditampilkan. Ini termasuk `MAPPER`, anggota dari `BN`, `NAT`,`GMT`, dan `DEV` yang memiliki lebih banyak opsi daripada pengguna biasa di laman diskusi.
 
 ### Alat pemformatan
 

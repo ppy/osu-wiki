@@ -42,7 +42,7 @@ The following outlines how you can get started helping others on the forum:
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
@@ -62,14 +62,14 @@ Below are just a few of the ways you can contribute:
 
 - Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
-  - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
+  - Join the [osu! Discord server](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project or join someone elses! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
   - Check out a [list of popular projects](/wiki/Community/Projects).
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!(lazer) project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) project is the current focus of [the osu! team](/wiki/People/osu!_team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
 - Helping with the [osu!(lazer)](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [website](https://github.com/ppy/osu-web) even better.

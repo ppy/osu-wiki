@@ -10,7 +10,7 @@ Every [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) [beatmap](/
 
 ## Ranking requirement
 
-Beatmaps need at least 5 hype (one complete bar of the hype train) to be eligible for nomination<!-- TODO: link me -->, a step towards getting the map ranked.
+Beatmaps need at least 5 hype (one complete bar of the hype train) to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a step towards getting the map ranked.
 
 ## Limit
 

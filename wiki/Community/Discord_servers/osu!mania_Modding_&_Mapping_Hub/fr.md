@@ -21,7 +21,7 @@ Ce serveur est principalement composé de :
 - Salons pour demander du modding, des guest difficulties, des nominations, ou d'autres requêtes en rapport avec le mapping.
 - Salons dans lesquels les utilisateurs peuvent poser toute sorte de questions en rapport avec le mapping. Des mappeurs expérimentés pourront répondre à ces questions.
 - Un endroit pour partager des modding queues afin d'obtenir plus d'expérience.
-- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - Une liste de références utiles telles que des outils, des proposition de critères de classement ainsi que d'autres serveurs Discord.
 
 ## Staff
@@ -33,6 +33,6 @@ Ce serveur est principalement composé de :
 
 ## Vérification
 
-Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité en postant leur profil osu! dans le salon `#arrival`.
+Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité avec leur compte osu! en utilisant [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Processus d'authentification](img/auth.jpg "En rejoignant le serveur, les utilisateurs enverront leur profil osu!. Un administrateur modifiera alors leur profil en conséquence.")
+![Message d'authentification d'AxerBot](img/auth.jpg?1 "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")

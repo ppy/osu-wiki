@@ -1,3 +1,8 @@
+---
+outdated_since: 96cf49c598294957efd202a00af9e7814a41cdfd
+outdated_translation: true
+---
+
 # Audio editing
 
 [osu!academyの](/wiki/Community/Video_series/osu!academy)[Episode 15](https://www.youtube.com/watch?v=muu3HkG38kk) Audio Encoding (4:02) にてその説明がされています。それにはインストールの方法とAudiacityでLAMEを使用しmp3としてエクスポートする方法も含まれています。

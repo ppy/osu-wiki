@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2021 banner](/wiki/shared/news/2021-09-16-osu-world-cup-2021-registrations-now-open/owc-2021-banner.jpg)
 
-The **osu! World Cup 2021** (***OWC 2021***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu! World Cup.
+The **osu! World Cup 2021** (***OWC 2021***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -522,7 +522,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains may choose, with the approval of the Tournament Management, at any time, to delegate their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the global osu! performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase.
@@ -533,7 +533,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), and [DoubleTime](/wiki/Game_modifier/Double_Time). There will be no tiebreakers for this stage.
+2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). There will be no tiebreakers for this stage.
 3. The Qualifier pool will contain 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Teams will have to play the mappool twice at a designated time. The team's best play-through will be used for seeding.
    - Teams may skip individual maps or the second run altogether if they so desire.
@@ -581,7 +581,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool will consist of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod. Every pool will also have one "TieBreaker" map (further explanation on this special bracket can be found [here](/wiki/Tournaments/OWC/2021#tournament-rules)).
+2. Each mappool will consist of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod. Every pool will also have one "TieBreaker" map (further explanation on this special bracket can be found [here](/wiki/Tournaments/OWC/2021#tournament-rules)).
    - The Qualifier stage will not have a FreeMod bracket, nor will it have a TieBreaker.
 3. Each mappool has a specific size depending on the stage.
    - **The Round of 32 and Round of 16 mappools will have 5 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**

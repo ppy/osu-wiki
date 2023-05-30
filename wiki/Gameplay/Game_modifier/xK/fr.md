@@ -22,7 +22,7 @@ tags:
 
 ![Icône du mod 1K](/wiki/shared/mods/1K.png "Icône du mod 1K") ![Icône du mod 2K](/wiki/shared/mods/2K.png "Icône du mod 2K") ![Icône du mod 3K](/wiki/shared/mods/3K.png "Icône du mod 3K") ![Icône du mod 4K](/wiki/shared/mods/4K.png "Icône du mod 4K") ![Icône du mod 5K](/wiki/shared/mods/5K.png "Icône du mod 5K") ![Icône du mod 6K](/wiki/shared/mods/6K.png "Icône du mod 6K") ![Icône du mod 7K](/wiki/shared/mods/7K.png "Icône du mod 7K") ![Icône du mod 8K](/wiki/shared/mods/8K.png "Icône du mod 8K") ![Icône du mod 9K](/wiki/shared/mods/9K.png "Icône du mod 9K")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
 
 ## À propos
 
@@ -36,7 +36,7 @@ tags:
 
 *Avis : Tous les mods xK seront ignorés sur les beatmaps spécifiques à osu!mania. L'utilisation des mods 1K, 2K ou 3K entraînera un jeu non classé.*
 
-Ils s'agit des [modificateurs de jeu](/wiki/Game_modifier) qui forceront toutes les [beatmaps](/wiki/Beatmap) du mode [osu!mania](/wiki/Game_mode/osu!mania) converties à utiliser le paramètre K sélectionné. Cela ignore le paramètre K supposé de la beatmap au prix d'une diminution du multiplicateur de score, en fonction de la différence de K.
+Ils s'agit des [modificateurs de jeu](/wiki/Gameplay/Game_modifier) qui forceront toutes les [beatmaps](/wiki/Beatmap) du mode [osu!mania](/wiki/Game_mode/osu!mania) converties à utiliser le paramètre K sélectionné. Cela ignore le paramètre K supposé de la beatmap au prix d'une diminution du multiplicateur de score, en fonction de la différence de K.
 
 Le tableau ci-dessous explique comment le multiplicateur de score sera appliqué à tous les mods xK :
 

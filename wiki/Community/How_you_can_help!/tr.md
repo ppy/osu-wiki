@@ -63,7 +63,7 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 ## osu!'nun geleceğine katkıda bulunun
 
-2017 yılında başlayan osu!(lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
+2017 yılında başlayan [osu!(lazer)](/wiki/Client/Release_stream/Lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
 
 - [osu!(lazer)](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
 - [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.

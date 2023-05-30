@@ -329,7 +329,7 @@ outdated_translation: true
 1. osu! Catch the Beat World Cup은 국가대항 3대 3 토너먼트입니다.
 2. 각 라운드의 곡은 맵 선별위원이 경기 1주일 전에 발표 할 것이며, 이때 발표된 곡들만 대회에서 선곡이 가능합니다.
    - 하나의 맵이 타이브레이커로 주어지며, 동점일 경우 플레이합니다.
-   - 모드 선택에는 논모드, [히든](/wiki/Game_modifier/Hidden), [하드락](/wiki/Game_modifier/Hard_Rock), [더블타임](/wiki/Game_modifier/Double_Time) 그리고 프리모드의 총 5개의 카테고리가 있습니다.
+   - 모드 선택에는 논모드, [히든](/wiki/Gameplay/Game_modifier/Hidden), [하드락](/wiki/Gameplay/Game_modifier/Hard_Rock), [더블타임](/wiki/Gameplay/Game_modifier/Double_Time) 그리고 프리모드의 총 5개의 카테고리가 있습니다.
 3. 경기일정은 운영측에서 지정하게 됩니다.
 4. 만약 진행요원이나 심판이 아무도 없을 경우엔 경기가 미뤄집니다.
 5. 실패한 플레이어의 스코어는 팀 스코어에 반영되지 않습니다.
@@ -395,7 +395,7 @@ outdated_translation: true
 ### 비트맵 풀 관련
 
 1. 맵풀은 조별 예선용, 16강용, 8강용, 준결승용, 결승용으로 각각 하나씩 준비될 예정입니다.
-2. 각 맵풀은 논모드맵, [히든맵](/wiki/Game_modifier/Hidden), [하드락맵](/wiki/Game_modifier/Hard_Rock), [더블타임맵](/wiki/Game_modifier/Double_Time), 프리모드맵으로 구성됩니다.
+2. 각 맵풀은 논모드맵, [히든맵](/wiki/Gameplay/Game_modifier/Hidden), [하드락맵](/wiki/Gameplay/Game_modifier/Hard_Rock), [더블타임맵](/wiki/Gameplay/Game_modifier/Double_Time), 프리모드맵으로 구성됩니다.
 3. 각 맵풀은 총 23개의 맵으로 구성됩니다.
 4. 각 맵풀에는 타이브레이커 맵이 하나씩 들어갑니다.
 5. 논모드맵의 경우 다른 모드를 켜서는 안됩니다.

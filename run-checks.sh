@@ -57,7 +57,8 @@ function main() {
     exit 0
   fi
 
-  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ )
+  # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
+  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ | grep -E -v '^[A-Z-]+\.md$' )
 
   if ! ( which docker > /dev/null ); then
     print_error "Missing Docker. Install it from https://docs.docker.com/engine and restart the shell"
@@ -74,7 +75,7 @@ function main() {
   _test_wrapper "article style" "_docker bash scripts/ci/run_remark.sh --target" "${interesting_articles}"
 
   yamllint_target_files=$( echo "${interesting_files}" | grep -e .yaml$ -e .yml$ -e .md$ )
-  _test_wrapper "YAML style" "_docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target" "${yamllint_target_files}"
+  _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --config .yamllint.yaml --target" "${yamllint_target_files}"
 
   _test_wrapper "link" "_docker osu-wiki-tools check-links --target" "${interesting_articles}"
   _test_wrapper "article freshness" "_docker osu-wiki-tools check-outdated-articles --workflow --base-commit" "${first_commit_hash}"

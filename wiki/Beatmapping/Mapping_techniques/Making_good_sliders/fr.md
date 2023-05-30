@@ -49,7 +49,7 @@ Désactivez le grid snap et déplacez-les tous les deux vers l'intérieur, un to
 
 ## Beat Blankets
 
-*Page principale : [Blanket Combos](/wiki/Mapping_techniques/Formations#blanket-combos)*
+*Page principale : [Blanket Combos](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos)*
 
 ![Exemple d'image de beat blankets (avec des cercle)](img/MGS_blankets.png)
 

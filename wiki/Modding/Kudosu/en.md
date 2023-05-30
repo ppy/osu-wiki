@@ -10,7 +10,7 @@ Kudosu is awarded to mod posts that are helpful and point out useful suggestions
 
 In [forum modding](/wiki/Modding/Forum_modding), kudosu used to be exchangeable for [star priority](/wiki/Modding/Star_priority).
 
-Nowadays, kudosu is used for the evaluation of a user's capability to [become](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). A user must have 200 kudosu in osu! or 150 kudosu in osu!taiko, osu!catch, or osu!mania in order to apply.
+Nowadays, kudosu is used for the evaluation of a user's capability to [become](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) a [Beatmap Nominator](/wiki/People/Beatmap_Nominators). A user must have 200 kudosu in osu! or 150 kudosu in osu!taiko, osu!catch, or osu!mania in order to apply.
 
 The word *kudosu*, sometimes stylised as *kudosu!*, is a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) of *kudos* and *osu!*.
 

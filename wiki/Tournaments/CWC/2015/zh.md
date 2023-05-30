@@ -405,7 +405,7 @@ Sunday, 10\. May 2015
 1. osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2. 每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
    - 有一张图是专门用于决胜局。这张图只会在决胜局出现。
-   - 同样会有 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime 的分类比赛图](/wiki/Game_modifier/Double_Time)。
+   - 同样会有 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime 的分类比赛图](/wiki/Gameplay/Game_modifier/Double_Time)。
 3. 比赛日程将会由赛事管理小组公布（暂未公布）。
 4. 如果没有工作人员或者裁判在，比赛会被延期。
 5. 如果有玩家失败，失败的玩家的分数将不会计算分数。
@@ -490,14 +490,14 @@ Sunday, 10\. May 2015
 
 1. 小组赛、16强、四分之一决赛、半决赛和决赛分别会有一个图池。
    1. 决赛第一周和第二周使用同一个图池。
-2. 每个图池由四个 mod 的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 。
+2. 每个图池由四个 mod 的图组组成：NoMod（无mod）、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 。
 3. 每个图池由总共19张图组成。
 4. 每个图池里都有一张决胜 (tiebreaker) 图。
 5. NoMod 图组是在无 mod 的情况下进行比赛的。
 6. 在 Hidden、HardRock 和 DoubleTime 模式里，玩家必须打开相应的 mod
    1. 选手可以在 HardRock 或 DoubleTime 图组中另外加选 Hidden mod.
 7. 决胜图 (tiebreaker) 可以使用任意 mod 进行比赛。
-   1. 在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_modifier/Hard_Rock)、[Hidden](/wiki/Game_modifier/Hidden) 或者两个一起开。
+   1. 在玩决胜图时，玩家可以开 [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 或者两个一起开。
 8. NoMod 图组在每阶段的图池中会有6张图。
 9. 各其他模式的图组会在每阶段的图池中各有4张。
 

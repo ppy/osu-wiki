@@ -17,12 +17,12 @@ outdated: true
 - [2015](2015) - jizz (редизайн osu!web), osu!weekly и osu!coins
 - [2016](2016) - scorev2, анонс новой версии osu! — "lazer" — с открытым исходным кодом (ранее известной как "osu!lazer"), а также перезапуск osu! wiki
 - [2017](2017) - выпуск первой сборки osu!(lazer) и интеграция Discord со стабильным клиентом
-- [2018](2018) - ?
+- [2018](2018)–настоящее время - ?
 
 ## Другие записи
 
 - [История osu! wiki](osu!_wiki)
 - [История первоапрельских шуток osu!](April_Fools)
 - [История онлайн-ранкингов](Online_rankings)
-- [История команд osu!](/wiki/People/The_Team/Staff_Log)
+- [История команд osu!](/wiki/People/Staff_log)
 - [История турниров osu!](/wiki/Tournaments)

@@ -12,7 +12,7 @@ osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje.
 | Awatar | Nazwa | Opis |
 | :-: | :-: | :-- |
 | ![Awatar konta osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Informacje o problemach ze stroną lub [Bancho](/wiki/Bancho_(server)). |
-| ![Awatar supportu osu!](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Pomoc w sprawach związanych ze społecznością osu! oraz kontami. Prowadzone przez [zespół wsparcia do spraw związanych z kontami](/wiki/People/The_Team/Account_support_team). |
+| ![Awatar supportu osu!](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Pomoc w sprawach związanych ze społecznością osu! oraz kontami. Prowadzone przez [zespół wsparcia do spraw związanych z kontami](/wiki/People/Account_support_team). |
 
 ## Społeczność
 
@@ -20,7 +20,7 @@ osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje.
 | :-: | :-: | :-- |
 | ![Awatar osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Oficjalne źródło aktualności i ogłoszeń. |
 | ![Awatar BanchoBoata](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Humorystyczne rozluźnienie sytuacji, gdy coś pójdzie nie tak. |
-| ![Awatar NAT-u](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Aktualności, ogłoszenia, krótkie ankiety społecznościowe prowadzone przez [zespół zapewniania jakości (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team). Konto nie jest prowadzone przez [główny zespół osu!](/wiki/People/The_Team). |
+| ![Awatar NAT-u](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Aktualności, ogłoszenia, krótkie ankiety społecznościowe prowadzone przez [zespół zapewniania jakości (NAT)](/wiki/People/Nomination_Assessment_Team). Konto nie jest prowadzone przez [główny zespół osu!](/wiki/People/osu!_team). |
 
 ## Osobiste
 

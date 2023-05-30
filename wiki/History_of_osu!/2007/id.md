@@ -33,7 +33,7 @@ Pada akhir bulan Juli, sistem menu diubah untuk menambahkan sedikit sentuhan des
 
 ## Agustus
 
-Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format berkas `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi berkas lama ke format baru.
+Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick); diperkenalkannya [stacking](/wiki/Beatmapping/Mapping_techniques/Stack) [hit circles](/wiki/Gameplay/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format berkas `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi berkas lama ke format baru.
 
 ![](img/2007-08_01.jpg "Pemilihan Lagu untuk Mode Play")
 
@@ -61,7 +61,7 @@ Tanggal 17 September 2007 merupakan tanggal peluncuran osu! secara publik. Forum
 
 ![](img/2007-09_05.jpg "Pengumuman berita di situs web game")
 
-Beberapa saat setelah rilis secara publik, mod permainan pertama, [Easy](/wiki/Disambiguation/EZ) dan [No Fail](/wiki/Game_modifier/No_Fail), ditambahkan, serta bagian break (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme yang sah.
+Beberapa saat setelah rilis secara publik, mod permainan pertama, [Easy](/wiki/Disambiguation/EZ) dan [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), ditambahkan, serta bagian break (yang sampai sekarang telah diabaikan dan hilang). Sejumlah besar perubahan dengan cepat membuat osu! terlihat lebih seperti permainan ritme yang sah.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -81,7 +81,7 @@ Layar pemilihan lagu mulai mendapat perhatian dengan pengelompokan tingkat kesul
 
 ## November
 
-Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/Game_modifier/No_Video) dan [Hidden](/wiki/Game_modifier/Hidden) diperkenalkan, serta rank SH (S silver) dan SSH (SS silver) untuk melengkapinya. Untuk pertama kalinya, pemain dapat mengatur dan menetapkan sample set normal dan soft di skin dan per timing section. File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon atau window osu!.
+Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/Gameplay/Game_modifier/No_Video) dan [Hidden](/wiki/Gameplay/Game_modifier/Hidden) diperkenalkan, serta rank SH (S silver) dan SSH (SS silver) untuk melengkapinya. Untuk pertama kalinya, pemain dapat mengatur dan menetapkan sample set normal dan soft di skin dan per timing section. File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon atau window osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -93,7 +93,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Submisi Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Community/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)); obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](/wiki/Gameplay/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
+[Sistem Submisi Beatmap](/wiki/Beatmapping/Beatmap_submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Community/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)); obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](/wiki/Gameplay/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
 
 ## Desember
 

@@ -18,8 +18,8 @@ tags:
 
 ![Значок мода DT](/wiki/shared/mods/DT.png "Значок мода Double Time (DT)")
 
-*Полный список модов: см. [Игровой модификатор](/wiki/Game_modifier)*\
-*См. также: [Nightcore (мод)](/wiki/Game_modifier/Nightcore)*
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
+*См. также: [Nightcore (мод)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Краткая информация
 
@@ -33,13 +33,13 @@ tags:
 - Горячая клавиша по умолчанию: `D`
 - Описание: `ВЖЖЖЖЖЖЖЖЖЖЖ`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Разновидности: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Разновидности: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## Описание
 
 *Примечание: метод, с помощью которого Double Time изменяет скорость аудио, не влияет на его тональность.*
 
-**Double Time** (букв. *удвоенное время*, жарг. *даблтайм*, *ДТ*) — [игровой модификатор](/wiki/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт ускорения песни (BPM) на 150% (1.5x). В результате песня становится короче на 33%, а у карты повышаются [скорость появления нот (AR)](/wiki/Beatmapping/Approach_rate), [общая сложность (OD)](/wiki/Beatmapping/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
+**Double Time** (букв. *удвоенное время*, жарг. *даблтайм*, *ДТ*) — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт ускорения песни (BPM) на 150% (1.5x). В результате песня становится короче на 33%, а у карты повышаются [скорость появления нот (AR)](/wiki/Beatmap/Approach_rate), [общая сложность (OD)](/wiki/Beatmap/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
 
 Double Time считается одним из лучших модов для быстрого набора [PP](/wiki/Performance_points) в [osu!](/wiki/Game_mode/osu!) на простых картах.
 

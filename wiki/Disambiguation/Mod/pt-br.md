@@ -6,6 +6,6 @@ no_native_review: true
 
 **Mod** pode ter vários significados:
 
-- Um moderador, como um membro do [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) ou [GMT](/wiki/People/The_Team/Global_Moderation_Team).
+- Um moderador, como um membro do [NAT](/wiki/People/Nomination_Assessment_Team) ou [GMT](/wiki/People/Global_Moderation_Team).
 - [O feedback](/wiki/Modding) dado por uma pessoa que analisa um beatmap
-- Um [modificador de jogo](/wiki/Game_modifier).
+- Um [modificador de jogo](/wiki/Gameplay/Game_modifier).

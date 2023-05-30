@@ -57,7 +57,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Timing is important! Α wrongly timed beatmap is frustrating to map and play. If you need timing assistance, post your beatmap in the [Timing Help thread](https://osu.ppy.sh/community/forums/topics/13795) of the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) or ask for a timing check in `#modreqs`.
 - Slider speed can be adjusted through the `Timing Setup` window (`F6`). Click the plus button and adjust the [`Slider velocity multiplier`](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) value on the left!
 - Swap the start and end positions of a slider with the "reverse selection" tool (`Ctrl` + `G`). Reversing the selection of multiple objects switches their positions in the timeline as well.
-- [Jumps](/wiki/Beatmap/Pattern/Jump) can be used to highlight important sounds in the music!
+- [Jumps](/wiki/Beatmap/Pattern/osu!/Jump) can be used to highlight important sounds in the music!
 - [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) is a handy tool for precise spacing calculations. Hold the `Alt` key to fine-tune it.
 - Try synchronising the most important sounds in a song to clicks in gameplay. This is especially important when deciding slider [rhythms](/wiki/Music_theory/Rhythm)!
 - The [`Beat Snap Divisor`](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) option in the top right determines how objects synchronise to music. For most songs, sticking to the default `1/4` value will work fine.
@@ -70,7 +70,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - When your beatmap is ready for feedback, you can upload it through the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)! Look for the `Upload Beatmap` option under the `File` dropdown menu.
 - The sampleset and addition options near the top left of the editor permit complex [hitsound](/wiki/Beatmapping/Hitsound) combinations.
 - Read the [ranking criteria](/wiki/Ranking_Criteria) on the wiki if you're aiming to [rank](/wiki/Beatmap_ranking_procedure) your beatmap!
-- Converting a slider to a [stream](/wiki/Beatmap/Pattern/Stream) (`Ctrl` + `Shift` + `F`) is a convenient way to design smooth stream shapes.
+- Converting a slider to a [stream](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) is a convenient way to design smooth stream shapes.
 - If you place an object after a spinner, try to leave enough time between them for players to readjust their aim.
 - Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#special-commands.2)" tool (`Ctrl` + `Shift` + `D`).
 - Beats placed on top of each other will be [stacked](/wiki/Beatmapping/Mapping_techniques/Stack) in play mode. To see how stacks look during the play, select `Stacking` from the `View` dropdown menu.
@@ -90,7 +90,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-These tips appear in the [lazer version of the client](https://github.com/ppy/osu-lazer) upon startup, before the intro sequence.
+These tips appear in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) upon startup, before the intro sequence.
 
 - You can press `Ctrl` + `T` anywhere in the game to toggle the toolbar!
 - You can press `Ctrl` + `O` anywhere in the game to access options!

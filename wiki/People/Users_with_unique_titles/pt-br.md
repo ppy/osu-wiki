@@ -5,7 +5,7 @@ outdated_since: 9cfb562a5fe6a20f992ba572bdc34366b95c3107
 
 # Usuários com títulos únicos
 
-Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki/People/The_Team#grupos-de-usuário), mas os usuários listados abaixo receberam os seus títulos por outras razões. A maior parte dos títulos foram recompensas por contribuições ou conquistas, com o restante sendo tokens de momentos icônicos ou esgraçados da história do osu!
+Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki/People/osu!_team#grupos-de-usuário), mas os usuários listados abaixo receberam os seus títulos por outras razões. A maior parte dos títulos foram recompensas por contribuições ou conquistas, com o restante sendo tokens de momentos icônicos ou esgraçados da história do osu!
 
 ## Por categoria, com razões
 
@@ -93,7 +93,7 @@ A maior parte das competições oficiais de mapping oferecem o título de **Elit
 
 ### Elite Nominators
 
-Desde 2020, atividade de membros dos [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators)' e [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team) em ajudando o sistema de ranking foi recompensada com o título de **Elite Nominator**. Esse título é dado ao começo de cada ano por contribuições feitas durante o último, e é removido após o usuário sair do time.
+Desde 2020, atividade de membros dos [Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators)' e [Equipe de Avaliação de Nomeação](/wiki/People/Nomination_Assessment_Team) em ajudando o sistema de ranking foi recompensada com o título de **Elite Nominator**. Esse título é dado ao começo de cada ano por contribuições feitas durante o último, e é removido após o usuário sair do time.
 
 - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
 - ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)
@@ -125,7 +125,7 @@ As competições do osu!remix recompensam o título de **osu!mixer** como prêmi
 
 ### Featured Artists
 
-[Featured Artists](/wiki/Featured_Artists) com contas no osu! são dados o título de **Featured Artist** para mostrar o seu envolvimento.
+[Featured Artists](/wiki/People/Featured_Artists) com contas no osu! são dados o título de **Featured Artist** para mostrar o seu envolvimento.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) e ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) possuem o título de **osu!musician** por contribuições nos primórdios do sound design do osu! e temas oficiais, e ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) optou por ficar com o título de **osu!mixer** quando ele se tornou um Featured Artist.
 
@@ -194,9 +194,11 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | Usuário | Título | Conquista |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Fez o primeiro score NoMod FC na [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de  Novembro de 2019 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jogou todos os mapas de osu! a partir de 15 de Março de 2023 |
+| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de Novembro de 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jogou todos os mapas de osu! a partir de 11 de Agosto de 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Não documentado* |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jogou todos os mapas de osu! a partir de 27 April 2019 |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jogou todos os mapas de osu! a partir de 27 de Abril de 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganhou [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Contribuintes

@@ -3,6 +3,8 @@ outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
 outdated_translation: true
 ---
 
+<!--The imagemap button was added to the toolbar in osu-web#9972. When updating this article, keep in mind translating the new "Help" string on Crowdin and updating the editor.jpg file.-->
+
 # BBCode
 
 BBCode adalah [sintaks markup](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum di Internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.

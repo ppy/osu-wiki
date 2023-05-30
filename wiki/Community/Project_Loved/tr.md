@@ -5,7 +5,7 @@ outdated_since: bb4dac3fcde3b8fdc28a3d2bae7b9d1d60062144
 
 # Project Loved
 
-**Project Loved** beatmapleri [Sevilen](/wiki/Beatmap/Category#sevilen) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
+**Project Loved** beatmapleri [Sevilen](/wiki/Beatmap/Category#sevilen) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/Project_Loved_Team) tarafından yürütülür.
 
 ## Bir beatmapin Sevilenlere eklenmesi
 
@@ -31,7 +31,7 @@ Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması ge
 - Yaratıcısı banlı ya da kısıtlı olmamalı.
 - En az bir zorluğun geçilebilir olmalı.
 - En az 30 favoriye sahip olmalı (sadece osu! mapleri için geçerlidir)
-- Aday gösterilen her zorluk en az 30 saniyelik [akış süresine](/wiki/Gameplay/Drain_time) sahip olmalı.
+- Aday gösterilen her zorluk en az 30 saniyelik [akış süresine](/wiki/Beatmap/Drain_time) sahip olmalı.
 
 Birçok [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#yapım-aşamasında-ve-beklemede) mapin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
 

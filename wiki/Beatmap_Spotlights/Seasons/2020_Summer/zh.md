@@ -29,7 +29,7 @@ tags:
 
 ### 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)。
 
 1. 赛季的每个星期五，将开放一个时移多人游戏大厅。每个大厅持续 3 天。
    - 在赛季的最后两周，将为两个课题各打开一个各自的时移多人游戏大厅。

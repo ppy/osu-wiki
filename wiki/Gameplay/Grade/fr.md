@@ -3,11 +3,15 @@ tags:
   - letter grade
   - rank
   - silver s
+  - silver ss
   - sh
   - xh
   - lettre
   - classement
   - s argenté
+  - ss argenté
+  - s d'argent
+  - ss d'argent
   - notes
 ---
 
@@ -17,7 +21,7 @@ tags:
 
 Les **notes** sont un ensemble de lettres représentant la performance d'un joueur sur une [beatmap](/wiki/Beatmap) donnée. Elles accompagnent le [score](/wiki/Gameplay/Score) total sur l'écran des résultats et apparaissent dans toutes les listes aux côtés des scores.
 
-Du plus bas au plus haut, les notes possibles sont D, C, B, A, S, S d'argent, SS, et SS d'argent. Les notes argentées ne peuvent être obtenues qu'en utilisant les [modificateurs de jeu](/wiki/Game_modifier) [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight), ou [Fade In](/wiki/Game_modifier/Fade_In).
+Du plus bas au plus haut, les notes possibles sont D, C, B, A, S, S d'argent, SS, et SS d'argent. Les notes argentées ne peuvent être obtenues qu'en utilisant les [modificateurs de jeu](/wiki/Gameplay/Game_modifier) [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), ou [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 

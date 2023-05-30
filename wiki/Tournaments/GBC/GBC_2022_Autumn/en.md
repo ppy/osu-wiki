@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2022 Autumn banner](img/GBC-2022-Autumn-banner.png)
 
-The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based osu!mania 4-key tournament hosted by Team GB. It is the second instalment of the GB Cup.
+The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by Team GB. It was the second instalment of the GB Cup.
 
 ## Tournament schedule
 
@@ -44,22 +44,26 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | *17-21st place* | ¥60 CNY |
 | *22-24th place* | ¥30 CNY |
 
+![](img/badge_official_small.png "GBC 2022 Autumn winner profile badge")\
+![](img/badge_1st_small.png "GBC 2022 Autumn 1st KanonBot profile badge") ![](img/badge_2nd_small.png "GBC 2022 Autumn 2nd KanonBot profile badge") ![](img/badge_3rd_small.png "GBC 2022 Autumn 3rd KanonBot profile badge")
+
 ## Organisation
 
-The GB Cup 2022 Autumn is run by the Team GB and various community members.
+The GB Cup 2022 Autumn was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409),  ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
+| Mappool selector | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
-| Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659) |
-| Commentator | *TBA* |
-| Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
-| Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
-| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+| Mappool helper | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| Referee | ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Commentator | ::{ flag=CN }:: [Tachibana Gekka](https://osu.ppy.sh/users/4363530), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Guest Commentator | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), |
+| Streamer | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [MadSamurai](https://osu.ppy.sh/users/8646045), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Designer | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996) |
+| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## Links
 
@@ -105,14 +109,15 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, 10 December 2022
+This competition has come to an end and resulted in the following podium:
 
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
-| 黎曼猜想 | ban位先ban行李箱 | Dec 10 (Sat) 20:00 |
-| 猫猫面馆 | 均衡教派 | Dec 10 (Sat) 21:30 |
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 猫猫面馆 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 黎曼猜想 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 均衡教派 |
 
 ## Mappools
 
@@ -238,6 +243,28 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE).
+
+Saturday, 17 December 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ban位先ban行李箱 | 3 | **7** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/105689730) |
+| **猫猫面馆** | **7** | 1 | 黎曼猜想 | [#1](https://osu.ppy.sh/community/matches/105691127) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE).
+
+Saturday, 10 December 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | ban位先ban行李箱 | [#1](https://osu.ppy.sh/community/matches/105556220) |
+| **猫猫面馆** | **7** | 5 | 均衡教派 | [#1](https://osu.ppy.sh/community/matches/105557675) |
 
 ### Quarterfinals
 
@@ -635,7 +662,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Qualifier instructions
 
 1. In the Qualifier stage, all players will play a specific mappool designed by the mappool selectors and mappool helpers.
-2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Game_modifier#freemod) rules, organised as such:
+2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules, organised as such:
    - Rice: 3 beatmaps
    - LN 2 beatmaps
    - Hybrid: 2 beatmaps
@@ -746,7 +773,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Regular stage Round 3 and Round 4 use mappool \#2.
    - Round of 16 and Quarterfinals use mappool \#3.
    - Semifinals and Finals use mappool \#4.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
    - Mappool \#1 & \#2: 15 beatmaps

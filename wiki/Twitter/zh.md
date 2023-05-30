@@ -13,7 +13,7 @@ osu! 有数个 Twitter 账号，每个都有其明确的用途。大多数账号
 | 头像 | 账号 | 描述 |
 | :-: | :-: | :-- |
 | ![osu!status 头像](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | 在网站或 [Bancho](/wiki/Bancho_(server)) 出现问题时，发出低流量通知。 |
-| ![osu! support 头像](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | 帮助解决账号和/或社区问题。 由[账户支持团队](/wiki/People/The_Team/Account_support_team)管理。 |
+| ![osu! support 头像](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | 帮助解决账号和/或社区问题。 由[账户支持团队](/wiki/People/Account_support_team)管理。 |
 
 ## 社区
 
@@ -21,7 +21,7 @@ osu! 有数个 Twitter 账号，每个都有其明确的用途。大多数账号
 | :-: | :-: | :-- |
 | ![osu! 头像](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | 官方新闻及公告来源。 |
 | ![BanchoBoat 头像](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | 当服务器崩溃时，提供一些笑料。 |
-| ![NAT 头像](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | 由 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) 发布的新闻、公告以及简短的社区问卷。(并非由 [osu! 团队](/wiki/People/The_Team)管理) |
+| ![NAT 头像](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | 由 [NAT](/wiki/People/Nomination_Assessment_Team) 发布的新闻、公告以及简短的社区问卷。(并非由 [osu! 团队](/wiki/People/osu!_team)管理) |
 
 ## 个人
 

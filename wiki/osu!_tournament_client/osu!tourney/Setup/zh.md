@@ -30,7 +30,7 @@ acronym = OWC
 - `TeamSize`：定义你的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
 - `ClientNameSize`：改变黄色玩家的名字大小 (通常是比赛 Staff)。
 - `privateserver`：不要改变这个选项，请保持原样。
-- `acronym`：你的比赛的缩写。这会影响比赛房间的命名格式，请参见 [多人游戏房间管理](/wiki/osu!tourney/Multiplayer_usage)。
+- `acronym`：你的比赛的缩写。这会影响比赛房间的命名格式，请参见 [多人游戏房间管理](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage)。
 - `BufferTimeoutTime`：定义超时等待时间，如果超出该时间仍无法缓冲其中某个客户端，客户端将试图继续缓冲，并同步其它客户端继续播放。
   - 不建议修改此项。
 - `BufferTotalTime`：定义客户端缓冲的时间以减少等待缓冲的频率。这会使客户端与玩家之间产生延迟。

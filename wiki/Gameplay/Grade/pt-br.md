@@ -16,7 +16,7 @@ outdated_translation: true
 | C | Mais de 60% de 300s |
 | D | Qualquer outro resultado |
 
-O S prateado e SS só podem ser obtidos aos usar os modificadores *[Hidden](/wiki/Game_modifier/Hidden)* e/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+O S prateado e SS só podem ser obtidos aos usar os modificadores *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* e/ou *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 ## osu!taiko
 
@@ -38,7 +38,7 @@ O S prateado e SS só podem ser obtidos aos usar os modificadores *[Hidden](/wik
 | C | 85.01% to 90.00% Accuracy |
 | D | Any other accuracy under 85.00%. |
 
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+A silver S or SS can be obtained by using the *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* mod.
 
 ## osu!mania
 
@@ -51,4 +51,4 @@ A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidd
 | C | Over 70% Accuracy. |
 | D | Anything else. |
 
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) or [Flashlight](/wiki/Game_modifier/Flashlight) mod.
+It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Gameplay/Game_modifier/Hidden)/[Fade In](/wiki/Gameplay/Game_modifier/Fade_In) or [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod.

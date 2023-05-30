@@ -16,7 +16,7 @@ Na maioria das telas no osu! você pode pressionar `F8` ou clicar no botão `Mos
 | **White** | Você |
 | **Pale** | Outros usuários normais |
 | **Yellow** | [osu!supporter](/wiki/osu!supporter) |
-| **Red** | Membro do [GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
+| **Red** | Membro do [GMT](/wiki/People/Global_Moderation_Team) ou [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) |
 | **Green** | Contém seu nome ou palavras chave que você adicionou para ativar um "highlight" (destacar). Uma copia da mensagem vai aparecer em um canal dedicado, `#highlight`, que contém todas essas linhas. |
 | **Blue** | Mensagem Privada |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2), o criador do osu! |

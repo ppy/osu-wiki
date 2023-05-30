@@ -1,7 +1,7 @@
 # 作图
 
 **作图** （又称制谱）是在 osu! 里创造可提供给其他玩家游玩的[谱面](/wiki/Beatmap)的过程。
-这包括了选歌、[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing),、摆放[物件](/wiki/Hit_object)，并按照自己喜好[制作皮肤](/wiki/Skinning)和[故事板](/wiki/Storyboard#制作故事板)。
+这包括了选歌、[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing),、摆放[物件](/wiki/Gameplay/Hit_object)，并按照自己喜好[制作皮肤](/wiki/Skinning)和[故事板](/wiki/Storyboard#制作故事板)。
 
 谱师通常都想要让自己的谱面进入[谱面上架流程](/wiki/Beatmap_ranking_procedure)，从而[上架](/wiki/Beatmap)。
 
@@ -36,7 +36,7 @@
 
 **测定歌曲时间轴 (Timing) 很重要！**
 时间轴不精确的谱面将不会纳入已上架 (Ranked) 状态。
-务必确保歌曲的时间轴准确无误，再添加[物件](/wiki/Hit_object)。
+务必确保歌曲的时间轴准确无误，再添加[物件](/wiki/Gameplay/Hit_object)。
 
 如果你仍然不确定歌曲的时间轴是否准确，不妨另寻一位摸图员来帮忙查查谱面中的毛病。或者你也可以去[摸图队列论坛](https://osu.ppy.sh/community/forums/10) 发布求助帖。
 这样无论是对你还是对整个摸图社区，都能省去不少麻烦。

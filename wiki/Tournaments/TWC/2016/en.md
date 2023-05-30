@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2016 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -363,7 +363,7 @@ Sunday, 20 March 2016:
 1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
@@ -461,7 +461,7 @@ Sunday, 20 March 2016:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals and Grand Finals use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

@@ -36,7 +36,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 **The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2".[^mv2-feedback-thread]<!--wayback snapshot broken-->
 
-**New medal designs were added to osu! on 14 April 2016.**[^medals-showcase-yt] They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the new osu! client (codenamed "lazer") and on the new website.[^osu-weekly-57][^apr-15-changelog]
+**New medal designs were added to osu! on 14 April 2016.**[^medals-showcase-yt] They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the [new osu! client](/wiki/Client/Release_stream/Lazer) (codenamed "lazer") and on the new website.[^osu-weekly-57][^apr-15-changelog]
 
 ![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game")
 
@@ -68,7 +68,7 @@ Reception of the community towards this change was overall mostly positive. Howe
 
 **After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) contest were released on 1 June 2016.** There were three winners chosen in the contest — one for each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into the osu! installer, they also each received $50 USD in osu!store credit, and a unique profile badge as a prize.[^news-mwr-bounties]
 
-**The osu!dev Discord server was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to its lack of moderation controls. Anyone with the link to the Discord server would be able to join and follow along with osu! development, although they would not be able to speak in text channels unless specifically given access to by a moderator.[^ppy-tweet-june-09][^osu-weekly-65]
+**The [osu! Discord server](/wiki/Community/osu!_Discord_server) was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to its lack of moderation controls. Anyone with the link to the Discord server would be able to join and follow along with osu! development, although they would not be able to speak in text channels unless specifically given access to by a moderator.[^ppy-tweet-june-09][^osu-weekly-65]
 
 ## July
 

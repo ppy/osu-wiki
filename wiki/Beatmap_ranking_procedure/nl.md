@@ -20,9 +20,9 @@ Beatmaps moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Beatma
 
 ## Nominaties
 
-Leden van de [Beatmapnominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmap voldoet aan de [Rankingcriteria](/wiki/Ranking_Criteria) en aan hun persoonlijke kwaliteitsnormen.
+Leden van de [Beatmapnominators](/wiki/People/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmap voldoet aan de [Rankingcriteria](/wiki/Ranking_Criteria) en aan hun persoonlijke kwaliteitsnormen.
 
-Leden van het [Nominatieafwegingsteam](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) mogen ook beatmaps nomineren, maar dit is niet hun belangrijkste taak.
+Leden van het [Nominatieafwegingsteam](/wiki/People/Nomination_Assessment_Team) (*NAT*) mogen ook beatmaps nomineren, maar dit is niet hun belangrijkste taak.
 
 Het wordt aanbevolen om eerst mods te ontvangen voordat je nominaties aanvraagt aan de BNs, maar in principe zijn enkel vijf hypes noodzakelijk.
 
@@ -42,9 +42,9 @@ Als een beatmap gediskwalificeerd wordt, wordt de positie van die beatmap in de 
 
 Nominatieresets zorgen ervoor dat modders, BNs en NAT-leden de meest recente versie van een beatmap controleren voordat ze  in de Ranked-wachtrij geplaatst wordt.
 
-Nominaties kunnen gereset worden als de maker van een beatmap de set updatet of als een lid van de BNs of het NAT een probleem vindt in een genomineerde beatmap. Nominaties kunnen ook gereset worden door het [Wereldwijde Moderatieteam](/wiki/People/The_Team/Global_Moderation_Team) als de beatmap ongepaste inhoud bevat. Als een beatmap gekwalificeeerd is wanneer de nominaties hiervan gereset worden zal de set gediskwalificeerd worden waardoor ze uit de ranked-wachtrij verwijderd wordt.
+Nominaties kunnen gereset worden als de maker van een beatmap de set updatet of als een lid van de BNs of het NAT een probleem vindt in een genomineerde beatmap. Nominaties kunnen ook gereset worden door het [Wereldwijde Moderatieteam](/wiki/People/Global_Moderation_Team) als de beatmap ongepaste inhoud bevat. Als een beatmap gekwalificeeerd is wanneer de nominaties hiervan gereset worden zal de set gediskwalificeerd worden waardoor ze uit de ranked-wachtrij verwijderd wordt.
 
-Leden van de BNs en het NAT geven soms een [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) voor beatmaps wanneer ze ervan overtuigd zijn dat de set kwaliteitsproblemen heeft die niet gerelateerd zijn aan de Rankingcriteria.
+Leden van de BNs en het NAT geven soms een [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) voor beatmaps wanneer ze ervan overtuigd zijn dat de set kwaliteitsproblemen heeft die niet gerelateerd zijn aan de Rankingcriteria.
 
 ## Ranked
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6b942793ddfc0faba6b2fb4cf6849e24fc0a3fc5
 ---
 
 # Сжатие файлов

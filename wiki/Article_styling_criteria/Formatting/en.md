@@ -73,7 +73,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Outdated translations
 
-Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ```yaml
 outdated_translation: true
@@ -357,21 +357,17 @@ Section headings must not skip a heading level (i.e. do not go from a level 2 he
 
 It is possible to redefine a section's identifier, which is used for linking to it directly. Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks or images:
 
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
 This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+{id=tutorial-quote}
 ```
 
 ## Lists
@@ -525,7 +521,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game modifier](/wiki/Game_modifier)
+[Game modifier](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -571,8 +567,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Developers](/wiki/People/Developers)
+[Developers](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Sub-article links
@@ -601,7 +597,7 @@ The URL from the address bar of your web browser should be copied as it is when 
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. If it is difficult to determine the user's id, it may be skipped over.
 
-When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username})`) to get the user's id.
+When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username}`) to get the user's id.
 
 The link text of the user link should be the user's current name.
 
@@ -803,7 +799,7 @@ The following is an example of what a table should look like:
 
 An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
 
-Example use, rendered on the right:
+Example use, rendered on the right (or above, on narrow displays):
 
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
@@ -821,6 +817,8 @@ Infoboxes should be used with caution in the following cases:
 
 - Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
 - Several images at once: instead, use individual infoboxes for better design.
+
+Only heading levels 4 and 5 are allowed inside an infobox. These do not appear in the table of contents and anything lower is too large. Any [CI check errors](/wiki/osu!_wiki/Maintenance#ci-checks) may need to be bypassed because of this.
 
 ## Footnotes
 

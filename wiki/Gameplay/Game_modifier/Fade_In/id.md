@@ -12,8 +12,8 @@ tags:
 
 ![Ikon mod FI](/wiki/shared/mods/FI.png "Ikon mod Fade In (FI)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Hidden (mod)](/wiki/Game_modifier/Hidden) atau [Flashlight (mod)](/wiki/Game_modifier/Flashlight).*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*Berbeda konteks dengan [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden) atau [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
 ## Tentang
 
@@ -22,11 +22,11 @@ tags:
 - Pengali Skor: 1.00x
 - Tombol shortcut: `F`
 - Mode permainan yang cocok: ![][osu!mania]
-- Variasi: [Hidden](/wiki/Game_modifier/Hidden)
+- Variasi: [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
 
 ## Deskripsi
 
-Mod **Fade In** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan cara menghilangkan note-note ketika mereka mendekati bar [judgement](/wiki/Gameplay/Judgement). Itulah asal muasal namanya.
+Mod **Fade In** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan cara menghilangkan note-note ketika mereka mendekati bar [judgement](/wiki/Gameplay/Judgement). Itulah asal muasal namanya.
 
 Kecepatan pemudaran note tersebut didasarkan pada kombo, sehingga kombo yang lebih tinggi menyebabkan note semakin memudar tidak terlihat dalam jangka waktu yang lebih lama. Seiring waktu, note-note yang ada akan semakin memudar dengan semakin banyaknya kombo yang diraih oleh pemain.
 

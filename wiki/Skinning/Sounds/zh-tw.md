@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 7f11c0debbe18e861931071cd38678a1ff0118e9
+outdated_translation: true
 ---
 
 # 音效 Skin

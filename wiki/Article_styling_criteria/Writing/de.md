@@ -296,13 +296,17 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 
 ## Perspektive
 
-`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
+Alle Artikel sind im generischen Maskulinum gehalten. Geschlechtergerechter Sprachgebrauch ("Gendersprache") ist nicht erwünscht, da die Barrierefreiheit für sehbehinderte Menschen und Menschen mit einer Lese- und Rechtschreibstörung (LRS) eingeschränkt werden würde.
 
-`du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen (siehe weiter oben für andere Begriffe).
+`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird.
 
----
+Die persönlichen Fürwörter `er`, `sie` und `es` dürfen benutzt werden, wenn benötigt.
 
-[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermieden werden.
+Wörter für die informelle Anrede mit `du`, `dein`, `ihr`, `euch`, `euer` und weitere Formen sollten vermieden werden. `Ich` darf nicht vorkommen. 1. Person Plural (`wir`) darf ebenfalls nicht vorkommen.
+
+Die höfliche Anrede mit `Sie`, `Ihnen` und weitere Formen ist für [rechtliche Artikel](#sprachregister) erlaubt.
+
+[Artikel mit informellen Registern](#sprachregister) dürfen Pronomen der informellen Anrede verwenden. Allerdings sollte die Verwendung einheitlich im gesamten Text erfolgen.
 
 ## Grammatik und Syntax
 

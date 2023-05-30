@@ -13,9 +13,9 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 ![NC 모드 아이콘](/wiki/shared/mods/NC.png "나이트코어 (NC) 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 눌러주세요.*\
 *[나이트코어 (장르)](https://en.wikipedia.org/wiki/Nightcore)와 혼동하지 말아주세요.*\
-*비슷한 모드: [더블 타임 (모드)](/wiki/Game_modifier/Double_Time)*
+*비슷한 모드: [더블 타임 (모드)](/wiki/Gameplay/Game_modifier/Double_Time)*
 
 ## 나이트코어 모드
 
@@ -29,14 +29,14 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 - 기본 단축키: `D` `D` 또는 `Shift`+`D`
 - 설명: `꺄아아아아아아아아!!`
 - NC를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- 같은 계열의 모드: [더블 타임](/wiki/Game_modifier/Double_Time)
+- 같은 계열의 모드: [더블 타임](/wiki/Gameplay/Game_modifier/Double_Time)
 
 ## 상세 설명
 
-[**나이트코어**](/wiki/Game_modifier)는 같은 계열의 모드인 더블 타임과 비슷한 모드입니다.
+[**나이트코어**](/wiki/Gameplay/Game_modifier)는 같은 계열의 모드인 더블 타임과 비슷한 모드입니다.
 이 모드는 노래의 음정을 높이고 드럼 소리를 백그라운드에 추가하여 전체 4박자에서 첫 번째와 세 번째 박자는 베이스 드럼으로, 두 번째와 네 번째 박자는 박수를 치는 것을 반복합니다.
 
-더블 타임 모드가 활성화 되었을 때와 동일한 [점수 배수](/wiki/Game_modifier/Score_multiplier)를 유지하며, 비트맵의 패턴 자체는 더블 타임 모드와 동일하게 진행됩니다.
+더블 타임 모드가 활성화 되었을 때와 동일한 [점수 배수](/wiki/Gameplay/Game_modifier/Score_multiplier)를 유지하며, 비트맵의 패턴 자체는 더블 타임 모드와 동일하게 진행됩니다.
 
 이 모드는 모든 osu! 게임 장르에서 동일한 효과를 가집니다.
 

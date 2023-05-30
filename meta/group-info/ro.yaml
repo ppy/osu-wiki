@@ -1,0 +1,32 @@
+outdated_since: a8cc4d36239f194ed529a59a51038d554308731e
+outdated_translation: true
+
+separator: ", "
+alumni:
+  roles:
+    academy: fondator academia osu!
+    admin: administrator
+    chat: moderare chat
+    dev: dezvoltator osu!
+    media: creator media osu!
+    support: echipa de suport
+    tournaments: manager turnee
+gmt:
+  all_mods: toți moderatorii
+  areas:
+    beatmap: moderare beatmap-uri
+    chat: moderare chat
+    forum: moderare forum
+    team: prezența oficială a echipei
+    dev: dezvoltare osu!
+    player: suport jucători
+    support: suport tehnic
+    tournaments: manager turnee
+    wiki: administrator wiki
+    mapping: moderarea comunității de mapping și modding
+nat:
+  subgroups:
+    advisor: consilier
+    evaluator: evaluator
+languages:
+  partial: puțină <language>

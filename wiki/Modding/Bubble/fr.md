@@ -8,18 +8,18 @@ tags:
 
 La **bubble** (![Icône de la bubble](/wiki/shared/icon/bubble.gif)) était une icône de message de forum utilisée par les membres des équipes de modding suivantes impliquées dans le [processus de classement des beatmaps](/wiki/Beatmap_ranking_procedure) :
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
 
 L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) tant que des modifications mineures de la beatmap étaient nécessaires.
 
-Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première nomination donnée par un [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première [nomination](/wiki/Beatmap_ranking_procedure#nominations) donnée par un [beatmap nominator](/wiki/People/Beatmap_Nominators).
 
 ## Histoire
 
-*Voir également : [Calendrier de mapping et de modding](/wiki/Mapping_and_Modding_Timeline)*
+*Voir également : [Calendrier de mapping et de modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline)*
 
 Les bubbles ont été introduites par ::{ flag=AU }:: [peppy](/wiki/People/peppy) le 29 octobre 2007, pour les "beatmaps qui sont considérés pour le jeu classé (en attendant les commentaires des modérateurs)". Le fait de transformer l'icône d'un fil de discussion d'une beatmap en une bubble était un moyen pour les membres de la BAT d'indiquer que la beatmap était de bonne qualité et qu'elle avait respecté les [critères de classement](/wiki/Ranking_Criteria).
 

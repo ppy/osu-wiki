@@ -4,7 +4,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch) every [dash](/wiki/Gameplay/Dash) and 
 
 ## Basic-snapped
 
-The term **basic-snapped** is used for any [dash](/wiki/Gameplay/Dash) or [hyperdash](/wiki/Gameplay/Hyperdash) whose time between [active objects](/wiki/Glossary/Active_object) is at least two times longer than the time required to allow dashes or hyperdashes, respectively. For example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic-snapped hyperdash.
+The term **basic-snapped** is used for any [dash](/wiki/Gameplay/Dash) or [hyperdash](/wiki/Gameplay/Hyperdash) whose time between [active objects](/wiki/Beatmapping/Active_object) is at least two times longer than the time required to allow dashes or hyperdashes, respectively. For example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic-snapped hyperdash.
 
 ## Higher-snapped
 

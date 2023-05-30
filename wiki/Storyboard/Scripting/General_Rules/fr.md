@@ -31,7 +31,7 @@ Cette page et le reste du guide décrivent les lignes de code de script qui sont
 
 ### Couches
 
-- Tous les sprites du storyboard sont placés sous le skin et les [objets](/wiki/Hit_object).
+- Tous les sprites du storyboard sont placés sous le skin et les [objets](/wiki/Gameplay/Hit_object).
   - Ainsi, même le calque le plus élevé (premier plan) du storyboard sera toujours derrière la barre HP, les cercles, les sliders, les spinners, etc.
 - Il y a quatre couches de Storyboard, par ordre croissant de priorité :
   - Arrière-plan
@@ -52,7 +52,7 @@ Cette page et le reste du guide décrivent les lignes de code de script qui sont
 
 L'idée derrière l'utilisation d'un storyboard plutôt que d'un fichier vidéo est **la possibilité de changer dynamiquement pour s'adapter aux circonstances du jeu.** osu! n'affiche qu'une seule des couches Fail/Pass à la fois, en fonction de la performance du joueur. Ces états sont appelés "Fail State" et "Pass State".
 
-États **avant le premier temps de jeu** (par exemple, avant le premier [circle/slider/spinner](/wiki/Hit_object), pas nécessairement avant le début du MP3/OGG).
+États **avant le premier temps de jeu** (par exemple, avant le premier [circle/slider/spinner](/wiki/Gameplay/Hit_object), pas nécessairement avant le début du MP3/OGG).
 
 - Pass State. La couche Fail ne sera jamais affichée. Il n'est pas recommandé d'utiliser les couches "pass" ou "fail" à ce stade de la beatmap, car il est inutile de dire que le joueur "passe" à ce stade.
 

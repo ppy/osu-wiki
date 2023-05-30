@@ -60,7 +60,7 @@ Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) d
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.
 - Marcar el [ritmo](/wiki/Music_theory/Rhythm) es muy importante, es muy difícil crear un beatmap con un ritmo incorrecto; además, puede resultar frustrante a la hora de jugarlo. Si necesitas ayuda para establecer el ritmo adecuado, publica tu beatmap en [el hilo de Timing Help](https://osu.ppy.sh/forum/t/13795), o accede al canal de chat `#modreqs` y pide ayuda allí.
 - Establecer la distancia entre los [elementos](/wiki/Gameplay/Hit_object) del beatmap te ayudará a determinar la distancia entre cada pulsación en el ritmo de tu beatmap.
-- No pongas muchas [ruletas](/wiki/Gameplay/Hit_object/Spinner) en tu beatmap. Además, [Auto](wiki/Gameplay/Game_modifier/Autopilot) debe ser capaz de obtener mínimo 1000 puntos de bono extra para que la ruleta sea válida.
+- No pongas muchas [ruletas](/wiki/Gameplay/Hit_object/Spinner) en tu beatmap. Además, [Auto](/wiki/Gameplay/Game_modifier/Autopilot) debe ser capaz de obtener mínimo 1000 puntos de bono extra para que la ruleta sea válida.
 - Si necesitas ayuda adicional, no grites `¡AYUDA PLIS!` o `¡AUXILIO!`. Prueba a leer las FAQ de la página web, accede al canal `#modhelp`, o publica tu beatmap en el [foro de Modding Queues](https://osu.ppy.sh/forum/60).
 - Normalmente, cuanto más difícil es un beatmap, más largos son sus [combos](/wiki/Beatmapping/Combo). Aun así, no deberías hacer combos de más de 15-18 elementos.
 - Aquellos elementos que coloques en la misma posición se superpondrán unos sobre otros al jugar, pero no lo verás así en el editor. Para ver como queda durante el juego, selecciona Ver → Apilado.
@@ -95,7 +95,7 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-Estos consejos aparecen en la [versión lazer del cliente](https://github.com/ppy/osu-lazer) al inicio, antes de la secuencia de introducción.
+Estos consejos aparecen en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) al inicio, antes de la secuencia de introducción.
 
 - ¡Puedes presionar `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
 - ¡Puedes presionar `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!

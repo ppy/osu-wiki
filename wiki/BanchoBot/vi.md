@@ -62,10 +62,10 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 ### Roll
 
 ```
-!roll <argument>/<number>
+!roll <câu nói gì đó>/<số>
 ```
 
-`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hoặc argument được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh này:
+`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hay một câu nói gì đó được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh này:
 
 ```
 13:00 pippi: !roll 1000
@@ -146,7 +146,7 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 !report <người dùng> <lý do>
 ```
 
-`!report` thông báo cho [Đội ngũ kiểm duyệt (GMT)](/wiki/People/The_Team/Global_Moderation_Team) về một hành vi không phù hợp của một người dùng. Nếu người dùng có dấu cách trong tên, thay thế dấu cách đó với dấu gạch dưới (v.d. `ten sieu ngau` là `ten_sieu_ngau`). Để báo cáo một mod, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Dưới đây là ví dụ khi gửi lệnh báo cáo một người dùng thông qua BanchoBot:
+`!report` thông báo cho [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) về một hành vi không phù hợp của một người dùng. Nếu người dùng có dấu cách trong tên, thay thế dấu cách đó với dấu gạch dưới (v.d. `ten sieu ngau` là `ten_sieu_ngau`). Để báo cáo một mod, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#support@ppy.sh). Dưới đây là ví dụ khi gửi lệnh báo cáo một người dùng thông qua BanchoBot:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

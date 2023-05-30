@@ -6,7 +6,7 @@ tags:
 
 # フルコンボ
 
-**フルコンボ**（もしくは、略して*FC*）とは、プレイヤーが[ビートマップ](/wiki/Beatmap)上で可能な限りの最大[コンボ](/wiki/Beatmapping/Combo)数を獲得することを表す言葉です。フルコンボは、ミス、[スライダーブレイク](/wiki/Gameplay/Judgement/Slider_break)、または[スライダーの終わり](/wiki/Hit_object/Slidertail)を失敗したことがない状態でビートマップをクリアすることでスコアになります。
+**フルコンボ**（もしくは、略して*FC*）とは、プレイヤーが[ビートマップ](/wiki/Beatmap)上で可能な限りの最大[コンボ](/wiki/Beatmapping/Combo)数を獲得することを表す言葉です。フルコンボは、ミス、[スライダーブレイク](/wiki/Gameplay/Judgement/Slider_break)、または[スライダーの終わり](/wiki/Gameplay/Hit_object/Slider/Slidertail)を失敗したことがない状態でビートマップをクリアすることでスコアになります。
 
 スライダーの終わりの失敗によってのみコンボを失ったスコアは、コミュニティではフルコンボであると広く認識されています。これはゲームクライアントやウェブサイトの表示とは異なります。
 

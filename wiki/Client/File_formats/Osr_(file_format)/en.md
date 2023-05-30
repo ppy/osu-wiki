@@ -10,8 +10,8 @@
 | Short | 2 | A 2-byte little endian value. |
 | Integer | 4 | A 4-byte little endian value. |
 | Long | 8 | A 8-byte little endian value. |
-| ULEB128 | Variable | A variable length integer. See [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
-| String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [UTF-8](http://en.wikipedia.org/wiki/UTF-8) |
+| ULEB128 | Variable | A variable length integer. See [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
+| String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [UTF-8](https://en.wikipedia.org/wiki/UTF-8) |
 
 ## Format
 
@@ -35,11 +35,11 @@ Byte offsets are not included in this table due to variable length values.
 | Byte | Perfect/full combo (1 = no misses and no slider breaks and no early finished sliders) |
 | Integer | Mods used. See below for list of mod values. |
 | String | Life bar graph: comma separated pairs u/v, where u is the time in milliseconds into the song and v is a floating point value from 0 - 1 that represents the amount of life you have at the given time (0 = life bar is empty, 1= life bar is full) |
-| Long | Time stamp ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
+| Long | Time stamp ([Windows ticks](https://learn.microsoft.com/en-us/dotnet/api/system.datetime.ticks)) |
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) is enabled. |
 
 **Additional mod information:**
 
@@ -62,7 +62,7 @@ On replays set on version `20130319` or later, the 32-bit integer RNG seed used 
 
 ## Mods
 
-As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+As seen on the [osu! API](https://github.com/ppy/osu-api/wiki#mods).
 
 | Mod | Value (BitOffset) | Comment |
 | :-- | :-- | :-- |
@@ -76,7 +76,7 @@ As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | always used with DT : 512 + 64 = 576 |
+| Nightcore | 512 (9) | always used with DT: 512 + 64 = 576 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

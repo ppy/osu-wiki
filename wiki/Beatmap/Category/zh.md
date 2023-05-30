@@ -1,50 +1,55 @@
 ---
-outdated_translation: true
-outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
+no_native_review: true
 ---
 
-# 谱面
+# 谱面分类
 
-*请勿与 [难度](/wiki/Beatmap/Difficulty) 相混淆。*
+已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、提名状态和受欢迎程度分为几类。
 
-**谱面**是对音乐创建的游戏关卡。它们包含了 [击打物件](/wiki/Hit_object) 、 [timing](/wiki/Client/Beatmap_editor/Timing) 信息、难度设置，以及视觉特效。
+## 现有分类
 
-谱面是 **[谱面集](/wiki/Beatmap)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Submission) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Beatmap/Difficulty) 互不相同。
+### 坟场 (Graveyard)
 
-## 谱面类别
+当谱面被[谱面作者](/wiki/Beatmap/Beatmap_host)遗弃，将会纳入坟场 (Graveyard) 分类。这些谱面没有排行榜，但仍可以下载和游玩，玩家也能在其上的游玩提升[玩家的统计信息](#未上架谱面的统计信息)。在[选歌界面](/wiki/Client/Interface#选歌界面)，这类谱面会显示出一个问号(![](/wiki/shared/status/graveyard.png))的标识。
 
-被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中：
+当谱面处于[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(work-in-progress-and-pending)) 状态，持续 4 周都没有更新后，将自动移入坟场分类。谱面作者可以从[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)处更新谱面，从而恢复它（将谱面移入[待定](#制作中和待定-(work-in-progress-and-pending))状态）。处于坟场的谱面不会占用谱师的[谱面上传限制](/wiki/osu!supporter#提高限额)，但如果要恢复它，则需要占用一个空闲的待定谱面格子。
 
-- [Graveyard](#graveyard)
-- [Work in Progress 和 Pending](#work-in-progress-和-pending)
-- [Qualified](#qualified)
-- [Ranked](#ranked)
-- [Loved](#loved)
+### 制作中和待定 (Work in Progress and Pending)
 
-### Graveyard
+制作中（常简写为 WIP）和待定分类是初次提交谱面时，可供挑选的两个分类。这两个分类的谱面可在至少两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 提名后，移入[过审 (Qualified)](#过审-(qualified)) 分类。要让谱面进入过审分类，则通常需要摸图员提供大量的摸才能实现。制作中和待定状态的谱面没有排行榜，但在其上的游玩将纳入玩家的统计信息。在选歌界面，这类谱面会显示出一个问号 (![](/wiki/shared/status/pending.png)) 的标识。
 
-状态为 Graveyard 的谱面是被谱面创建者弃更了的谱面。只要一个在 [Work in Progress / Pending](#work-in-progress-和-pending) 类别中的谱面超过4周没有任何更新，它就会被自动地移至 Graveyard 类别中。类别为 Graveyard 的谱面没有排行榜，也不会影响用户成绩。但是，它们仍可以被正常的下载并游玩。这些谱面在选歌界面中使用问号（![](/wiki/shared/status/graveyard.png)）图标。
+处于这个分类，4 周都没有更新的谱面将自动移入[坟场 (Graveyard)](#坟场-(graveyard))分类。
 
-当一个谱面变为Graveyard后，它仍可以被“复活” (如 重新变回[Pending](#work-in-progress-和-pending) ）。这可以由使用 [谱面提交系统](/wiki/Submission) 更新谱面达成。
+### 过审 (Qualified)
 
-### Work in Progress 和 Pending
+过审状态是谱面于[谱面上架流程](/wiki/Beatmap_ranking_procedure)中所处的最后一个阶段。当两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 已经认为谱面达到了[上架标准](/wiki/Ranking_Criteria)并提名了谱面，谱面即会进入过审分类。过审分类下的谱面将进入[谱面上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)，如果谱面没有[下架 (DQ)](/wiki/Beatmap_ranking_procedure#提名重置)，则最终会[上架 (Ranked)](#上架-(ranked))。这期间将作为谱面上架之前的最后一道防线，任何可能出现的缺陷和问题都将在这个阶段修改掉。
 
-Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交时能够选择的两个类别。在这两个类别中的谱面可以在至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员的 [提名](/wiki/Beatmap_ranking_procedure#nominations) 后，转入 [Qualified](#qualified) 类别中。这样的谱面通常包括了 [修图者](/wiki/Modding/Modder) 通过 [修图](/wiki/Modding) 提交的众多反馈。类别为 Work in Progress 与 Pending 的谱面没有排行榜，也不会影响用户成绩。这些谱面在选歌界面中使用问号图标（![](/wiki/shared/status/graveyard.png)）。
+过审状态的谱面有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，所有这期间在谱面上获得的成绩，也将在谱面移出过审状态时一并删除掉。在选歌界面，这类谱面会显示出一个对勾 (![](/wiki/shared/status/qualified.png)) 的标识。
 
-在这两个类别下的非活跃谱面会在4周后被自动地移至 [Graveyard](#graveyard) 类别中。 
+### 上架 (Ranked)
 
-### Qualified
+上架 (Ranked) 状态的谱面已经达到或超过了[谱面上架标准 (RC)](/wiki/Ranking_Criteria)，一般可认为是官方谱面。玩家可以在这类谱面的排行榜上竞争，并通过好成绩获取[表现分 (pp)](/wiki/Performance_points)。一旦谱面进入上架状态，就不能改变为其他状态（除非特殊情况）。在选歌界面，这类谱面会显示出一个双箭头 (![](/wiki/shared/status/ranked.png)) 的标识。
 
-让一张铺面进入 Qualified 类别是 [谱面 ranking 流程](/wiki/Beatmap_ranking_procedure) 的最后一步。这样的谱面应当是被至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员提名并均认同该谱面符合 [ranking 准则](/wiki/Ranking_Criteria) 中规范的谱面。 在 Qualified 类别中的谱面会进入 [ranking 队列](/wiki/Beatmap_ranking_procedure#ranked) 中，并且最终会成为一张 [Ranked](#ranked) 状态的谱面，除非这些谱面从队列中被 [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) 出去。作为错误与缺陷的最后一道防线，这种举措（disqualify）能够消除并改正可能的存在遗漏之处。
+### 社区喜爱 (Loved)
 
-类别为 Qualified 的谱面拥有排行榜，但不会有 [PP](/wiki/Performance_points) 的奖励，并且一旦该谱面的类别不再是 Qualified ，所有的成绩都将会被移除。这些谱面在选歌界面中使用对勾图标（![](/wiki/shared/status/qualified.png)）。
+*关于社区喜爱 (Loved) 分类的历史，参见：[社区喜爱 (Loved) 的历史](/wiki/History_of_osu!/History_of_Loved)*
 
-### Ranked
+社区喜爱 (Loved) 分类的谱面可能不符合[谱面上架标准 (RC)](/wiki/Ranking_Criteria)，但受到了社区的*拥护*。因此，[社区喜爱计划 (Project Loved)](/wiki/Community/Project_Loved) 会定期举办社区投票，并添加此类谱面。它们有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，如果谱面移出社区喜爱分类，所有成绩会被清除掉（这通常只发生在谱师要求移出时）。在选歌界面，这类谱面会显示出一个爱心 (![](/wiki/shared/status/loved.png)) 的标识。
 
-类别为 Ranked 的谱面被官方认可，这意味着这样的谱面达到或超过了 [ranking 准则](/wiki/Ranking_Criteria) 所制定的标准。这样的谱面容许玩家在排行榜中竞争并依成绩高低获取不同的 [PP](/wiki/Performance_points) 。如果一个谱面被归入 Ranked 类别，除非情况特殊，否则它的类别便不能被再次更改。类别为 Ranked 的谱面在选歌界面中使用两个堆叠的人字形图标（![](/wiki/shared/status/ranked.png)）。
+## 历史
 
-### Loved
+### 达标 (Approved)
 
-*关于 Loved 类别的历史，请参见：[History of Loved](/wiki/Beatmap/History_of_Loved)*
+达标 (Approved) 谱面分类曾在 2008 到 2014 年期间，用于存放超过了旧版[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 要求的谱面长度和最大分数限制，或是极少部分违反谱面上架标准其他条目的谱面。
 
-类别为 Loved 的谱面可能并不符合 [ranking 准则](/wiki/Ranking_Criteria) ，但它们被社区所*喜爱*。因此在依据社区成员于 [Project Loved](/wiki/Community/Project_Loved) 中投票的基础上，这些谱面会规律性地加入 Loved 类别之中。这些谱面拥有排行榜，但是不会给予玩家 [PP](/wiki/Performance_points) 。并且，如果这样的谱面被移出 Loved 类别（这通常只发生在谱面创建者提出请求时），所有该谱面的在线游玩成绩都会被清除。类别为 Loved 的谱面在选歌界面中使用心形图标（![](/wiki/shared/status/loved.png)）。
+达标谱面不会影响玩家的分数排名，直到分数排名被[表现分 (pp)](/wiki/Performance_points) 排名所替代前。替代后，达标状态只用于存放[掉血时间 (drain time)](/wiki/Beatmap/Drain_time) 超过 6 分钟的谱面。
+
+在选歌界面，这类谱面会显示出一个对勾 (![](/wiki/shared/status/approved.png)) 的标识。并已经与上架 (Ranked) 分类谱面无异。
+
+### 过审 (Qualified) 分类的起源
+
+[过审 (Qualified)](#过审-(qualified)) 分类于 2014 年 8 月，在[谱面评估团队 (BAT) 重组](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)期间引入。本意是为了让新上架的谱面有更高的知名度。因为这个分类从一开始就设计成存储玩家的临时成绩，所以如果过审谱面被下架，移回待定状态，也不会影响玩家的统计信息。这符合社区的期望，也能在谱面出现无法上架 (unrank) 的内容时，大大减少社区的负面反馈。
+
+### 未上架谱面的统计信息
+
+在 [2020 年 8 月 7 日](https://osu.ppy.sh/home/changelog/stable40/20200807.3)之后，在[坟场 (Graveyard)](#坟场-(graveyard))、[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(work-in-progress-and-pending)) 分类谱面上的游玩也将纳入玩家的游玩次数和总分。谱面本身也会在自己的页面上记录下谱面的游玩统计数据（游玩次数、成功率、失败率）。这些数据之前只在[过审 (Qualified)](#过审-(qualified)) 和[上架 (Ranked)](#上架-(ranked)) 分类的谱面中统计并显示。

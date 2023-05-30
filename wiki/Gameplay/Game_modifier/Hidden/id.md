@@ -11,8 +11,8 @@ tags:
 
 ![Ikon mod HD](/wiki/shared/mods/HD.png "Ikon mod Hidden (HD)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Fade In (mod)](/wiki/Game_modifier/Fade_In) ataupun [Flashlight (mod)](/wiki/Game_modifier/Flashlight).*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*Berbeda konteks dengan [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) ataupun [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
 ## Tentang
 
@@ -28,15 +28,15 @@ tags:
   - ![][osu!catch]: `Approach circle serta not-not akan memudar/menghilang perlahan-lahan, namun nilai maksimal Anda akan sedikit bertambah.`
   - ![][osu!mania]: `Not-not akan menghilang perlahan sebelum anda mengenainya!`
 - Mode-mode game yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variasi (osu!mania): [Fade In](/wiki/Game_modifier/Fade_In)
+- Variasi (osu!mania): [Fade In](/wiki/Gameplay/Game_modifier/Fade_In)
 
 ## Deskripsi
 
-Mod **Hidden** adalah sebuah [game modifier](/wiki/Game_modifier) yang meningkatkan kesulitan sebuah beatmap dengan menghilangkan approach circle dan menyebabkan [hit object](/wiki/Hit_object) untuk memudar setelah muncul di layar.
+Mod **Hidden** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang meningkatkan kesulitan sebuah beatmap dengan menghilangkan approach circle dan menyebabkan [hit object](/wiki/Gameplay/Hit_object) untuk memudar setelah muncul di layar.
 
 ### osu!
 
-Pada mode permainan [osu!](/wiki/Game_mode/osu!), mod Hidden melenyapkan approach circle dan menyebabkan [hit object](/wiki/Hit_object) memudar setelah muncul dengan singkat, membuat para pemain harus setidaknya mengingat timing not-not dan—pada tingkat yang lebih rendah—penempatannya dan alur slidernya.
+Pada mode permainan [osu!](/wiki/Game_mode/osu!), mod Hidden melenyapkan approach circle dan menyebabkan [hit object](/wiki/Gameplay/Hit_object) memudar setelah muncul dengan singkat, membuat para pemain harus setidaknya mengingat timing not-not dan—pada tingkat yang lebih rendah—penempatannya dan alur slidernya.
 
 Perlu diperhatikan bahwa mod Hidden dianggap sebagai salah satu mod peningkat kesulitan yang paling mudah bagi para top player karena konsistensinya dalam kapan hit object muncul dan hilang. Oleh karena konsistensi itu, sangat mungkin dipelajari kapan harus menekan hit object hanya berdasarkan pada kapan objek tersebut itu menghilang.
 
@@ -46,7 +46,7 @@ Perlu diperhatikan bahwa mod Hidden dianggap sebagai salah satu mod peningkat ke
 
 Pada [osu!taiko](/wiki/Game_mode/osu!taiko), not-not memudar saat mereka berada setengah jalan pada layar, mengharuskan pemain untuk mengingat timing dan warna notenya. Namun, slider dan denden tetap berjalan melewati waktu penuh dan tidak memudar, dengan tambahan bahwa denden tidak mempunyai approach circle untuk menandakan kapan waktunya habis.
 
-Pada beatmap yang mempunyai overall difficulty (OD) tinggi, mod Hidden biasanya digunakan oleh pemain yang berpengalaman untuk meningkatkan skor daripada menggunakan mod [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) karena HR kadang-kadang membuat timing window terlalu kecil.
+Pada beatmap yang mempunyai overall difficulty (OD) tinggi, mod Hidden biasanya digunakan oleh pemain yang berpengalaman untuk meningkatkan skor daripada menggunakan mod [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) karena HR kadang-kadang membuat timing window terlalu kecil.
 
 Tidak seperti osu!, mod Hidden pada osu!taiko biasanya dianggap lebih susah untuk dibaca atau "diharuskan terbiasa menggunakannya" karena mod ini membuat para pemain diharuskan mengingat warna yang akan datang selanjutnya.
 
@@ -56,7 +56,7 @@ Tidak seperti osu!, mod Hidden pada osu!taiko biasanya dianggap lebih susah untu
 
 Pada [osu!catch](/wiki/Game_mode/osu!catch), mod Hidden menyebabkan fruit menghilang sekitar setengah jalan kebawah menuju layar.
 
-Dampak kesulitan pada penggunaan mod Hidden untuk osu!catch berbeda-beda antarbeatmap, tetapi biasanya dianggap bahwa map-map dengan [approach rate (AR)](/wiki/Beatmapping/Approach_rate) 9 atau lebih tinggi membuat perbedaan yang sangat kecil dalam peningkatan kesusahan.
+Dampak kesulitan pada penggunaan mod Hidden untuk osu!catch berbeda-beda antarbeatmap, tetapi biasanya dianggap bahwa map-map dengan [approach rate (AR)](/wiki/Beatmap/Approach_rate) 9 atau lebih tinggi membuat perbedaan yang sangat kecil dalam peningkatan kesusahan.
 
 ![Tampilan permainan osu!catch dengan menggunakan mod HD](img/HD-catch.jpg "Gameplay osu!catch dengan mod Hidden dinyalakan")
 
@@ -70,9 +70,9 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), mod Hidden berfungsi sebagai semaca
 
 - Mod Hidden pertama kali muncul di Ouendan 2, yang merupakan permainan DS Jepang kedua pada seri [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan) (seri awal yang menginspirasikan osu!).
 - Bila pemain berhasil lolos melewati sebuah beatmap dengan nilai S atau SS menggunakan mod Hidden, pemain akan diberikan nilai variasi perak.
-- Pada [osu!](/wiki/Game_mode/osu!), [approach circle](/wiki/Hit_object/Approach_circle) dari [hit object](/wiki/Hit_object) yang pertama secara default akan muncul untuk sementara pada awal map untuk membantu pemain memperkirakan kapan harus menekan hit object selanjutnya. Perlakuan ini bisa dimatikan di menu `Options`, di bawah `Gameplay`.
-- Pada osu!mania, mod Hidden adalah sebuah variasi dari mod [Fade In](/wiki/Game_modifier/Fade_In).
-- Versi mod Hidden osu!mania yang seperti sekarang dulunya adalah mod terpisah bernama [Fade Out](/wiki/Game_modifier/Fade_Out).
+- Pada [osu!](/wiki/Game_mode/osu!), [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) dari [hit object](/wiki/Gameplay/Hit_object) yang pertama secara default akan muncul untuk sementara pada awal map untuk membantu pemain memperkirakan kapan harus menekan hit object selanjutnya. Perlakuan ini bisa dimatikan di menu `Options`, di bawah `Gameplay`.
+- Pada osu!mania, mod Hidden adalah sebuah variasi dari mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
+- Versi mod Hidden osu!mania yang seperti sekarang dulunya adalah mod terpisah bernama [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

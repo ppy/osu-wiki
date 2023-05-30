@@ -8,7 +8,7 @@ Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, anca
 
 ## Genel osu! desteği
 
-Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar ile ilgili sorular veya **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap konulu sorular) ya da [osu@ppy.sh](mailto:osu@ppy.sh) adresine (geri kalan her şey) e-posta göndererek [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team) iletişime geçin.
+Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar ile ilgili sorular veya **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap konulu sorular) ya da [osu@ppy.sh](mailto:osu@ppy.sh) adresine (geri kalan her şey) e-posta göndererek [hesap destek ekibiyle](/wiki/People/Account_support_team) iletişime geçin.
 
 ## peppy'e ulaşmak
 

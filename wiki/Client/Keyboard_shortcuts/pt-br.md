@@ -69,7 +69,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 | Atalho | Ação |
 | :-- | :-- |
-| `F1` | Abre o menu de seleção de [modificadores de jogo](/wiki/Game_modifier). |
+| `F1` | Abre o menu de seleção de [modificadores de jogo](/wiki/Gameplay/Game_modifier). |
 | `F2` | Aleatoriamente seleciona um beatmap. |
 | `Shift` + `F2` | Volta ao beatmap préviamente escolhio aleatoriamente. |
 | `F3` | Abre as opções de beatmap. |
@@ -79,8 +79,8 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Liga e desliga o mod Auto. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Aumenta a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Diminui a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
@@ -94,7 +94,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 ### Modificadores de jogo
 
-*Página principal: [Game modifiers](/wiki/Game_modifier)*
+*Página principal: [Game modifiers](/wiki/Gameplay/Game_modifier)*
 *Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*
 *Nota: Target practice (osu!), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 
@@ -281,7 +281,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `C` | Copia a sprite selecionada. |
 | `Ctrl` + `V` | Cola a sprite selecionada no tempo atual. *Nota: Sprites coladas não serão mostradas na lista de camadas até que o beatmap seja salvo e recarregado.* |
 | `Delete` | Remove a sprite selecionada da layer. |
-| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Timing
 

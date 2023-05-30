@@ -6,3 +6,6 @@ node_modules/
 
 # used by https://github.com/cl8n/osu-wiki-bin
 /.osu-wiki-bin*
+
+# local vscode config files
+.vscode

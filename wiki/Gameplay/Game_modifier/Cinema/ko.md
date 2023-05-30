@@ -1,6 +1,6 @@
 ---
 stub: true
-태그:
+tags:
   - cinema
   - CM
   - mod
@@ -12,7 +12,7 @@ no_native_review: true
 
 ![CM 모드 아이콘](/wiki/shared/mods/CM.png "시네마 (CM) 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 눌러주세요.*\
 *[시네마토그래피](https://en.wikipedia.org/wiki/Cinematography)와 혼동하지 말아주세요.*
 
 ## 시네마 모드
@@ -27,7 +27,7 @@ no_native_review: true
 
 *중요: 시네마 모드를 활성화 하면 리더보드에 랭크되지 않습니다.*
 
-**시네마** 모드는 플레이어가 비트맵에서 영상이나 스토리 보드를 쉽게 볼 수 있게 해주는 [모드](/wiki/Game_modifier)입니다. 이 모드를 이용하여 비트맵을 플레이하면, [오토 모드](/wiki/Game_modifier/Auto)로 플레이 되지만, [히트 오브젝트](/wiki/Hit_object)는 나오지 않고 **영상이나 스토리 보드만 표시**됩니다.
+**시네마** 모드는 플레이어가 비트맵에서 영상이나 스토리 보드를 쉽게 볼 수 있게 해주는 [모드](/wiki/Gameplay/Game_modifier)입니다. 이 모드를 이용하여 비트맵을 플레이하면, [오토 모드](/wiki/Gameplay/Game_modifier/Auto)로 플레이 되지만, [히트 오브젝트](/wiki/Gameplay/Hit_object)는 나오지 않고 **영상이나 스토리 보드만 표시**됩니다.
 
 시네마 모드는 오토 모드의 변형된 모드이기 때문에 히트 오브젝트에 의해 생기는 히트 사운드는 여전히 들을 수 있습니다. 배경 밝기가 0%로 설정되면 플레이 요소 및 결과 화면이 비활성화됩니다.
 
