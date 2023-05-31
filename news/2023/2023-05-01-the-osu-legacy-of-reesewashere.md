@@ -12,8 +12,7 @@ If you were even slightly engaged with the osu! community between 2015 and 2016,
 
 Reese originally found osu! by watching a League of Legends streamer called [BoxBox](https://www.twitch.tv/boxbox), who used to play osu! while waiting in queue for another game. He liked the fact you can play anime songs, and even without any rhythm game experience he gave it a try. After playing for a fair bit and dabbling in mapping, he realized that what he really loved doing is spectating top players, watching their streams on Twitch and sharing epic moments with the osu! community. In his own words:
 
-> I really wanted to focus on liveplays because I wanted to capture them in the moment. I wanted it to be where you could relive the moment it happened just by watching the video, so I always incorporated Twitch chat or the ingame chat when I could. And even for those that weren't there live you could still feel like you was there by seeing
-people's reactions.
+> I really wanted to focus on liveplays because I wanted to capture them in the moment. I wanted it to be where you could relive the moment it happened just by watching the video, so I always incorporated Twitch chat or the ingame chat when I could. And even for those that weren't there live you could still feel like you was there by seeing people's reactions.
 
 As if by divine intervention, the will to share amazing moments perfectly coincided with [Cookiezi](https://osu.ppy.sh/users/124493/osu)'s (now known as chocomint) comeback to osu! after being gone for years, and he was sure to capture that:
 
