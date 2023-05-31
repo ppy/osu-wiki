@@ -12,7 +12,7 @@ The Community Mentorship program serves as a place for upcoming mappers, modders
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like contests), hang out with fellow mentees, and more!
 
-If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/1716981), you'll be able to apply right away. If you're not sure if you'll make the cut, we encourage you apply anyways! You could be offered to participate in the Graduation Program as a Junior Mentor, where our most experienced mentors will teach you how to effectively mentor.
+If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/1716981), you'll be able to apply right away. If you're not sure if you'll make the cut, we encourage you to apply anyways! You could be offered to participate in the Graduation Program as a Junior Mentor, where our most experienced mentors will teach you how to effectively mentor.
 
 And if you're only just getting started and are eager to hone your skills, then signing up as a mentee might be what you need! Be sure to mark your calendar for when the mentee applications open up.
 
