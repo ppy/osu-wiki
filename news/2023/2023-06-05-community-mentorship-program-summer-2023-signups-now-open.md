@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Summer 2023 Signups Now Open"
+title: "Community Mentorship Program Summer 2023: Signups Now Open"
 date: 2023-06-05 10:00:00 +0000
 ---
 
