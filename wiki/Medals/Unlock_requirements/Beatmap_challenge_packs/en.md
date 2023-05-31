@@ -8,4 +8,4 @@
 | Camellia II | Clear all beatmaps bundled in the [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053) beatmap pack. All beatmaps in this pack have a hardest difficulty classified as an `Expert` difficulty or above. |
 | MUZZ Pack | Clear the only difficulty of all beatmaps bundled in the [MUZZ Pack](https://osu.ppy.sh/beatmaps/packs/A76) beatmap pack. |
 | Ariabl'eyeS Pack | Clear the only difficulty of all beatmaps bundled in the [Ariabl'eyeS Pack](https://osu.ppy.sh/beatmaps/packs/A81) beatmap pack. |
-| USAO Pack | Clear the only difficulty of all beatmaps bundled in the [USAO pack](https://osu.ppy.sh/beatmaps/packs/F1) beatmap pack. | 
+| USAO Pack | Clear the only difficulty of all beatmaps bundled in the [USAO pack](https://osu.ppy.sh/beatmaps/packs/F1) beatmap pack. |
