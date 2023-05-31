@@ -275,8 +275,6 @@ Sunday, 28 May 2023:
 | Brazil ::{ flag=BR }:: | 5 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/108722359) | [#1](https://www.twitch.tv/videos/1831884203?t=01h10m10s) |
 | Peru ::{ flag=PE }:: | 0 | **6** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/108722358) | [#1](https://www.twitch.tv/videos/1831769663) |
 
-## Match results
-
 ### Round of 32
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1MEmjmz3cXaFWm6-MpAiOVBBr3b8iOlKL1WsEJEUA5vI/edit?rm=minimal).
