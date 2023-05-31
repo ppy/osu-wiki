@@ -27,7 +27,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 6. **Vær opmærksom på hvad du deler med andre, især hvis indholdet er potentielt stødende eller af grafisk natur.** Hvis du bliver nødt til at tænke dig om for at finde ud af om det er tilladt at sende et link, er det sikkert ikke okay. Undgå generelt indhold med pulserende lys, blod, eller meget grafisk materialle.
 7. **Hold deling af links til relevante og lovlige hjemmesider.** Illegale streaming-hjemmesider (officielt licenserede sider såsom Animelab og Crunchyroll er OK) og alt relateret til "warez" eller piratkopieret software af alle former er ikke tilladt, og har ingen plads i chatten. Annoncering af Twitch-links for andre spil er okay men KUN i `#videogames`.
 8. **Reklamér ikke for tredjeparts chatservere af nogen grad. Dette gælder både Discord, Teamspeak og Skype servere/grupper.** osu! chatten handler først og fremmest om osu, og ikke om at dele links til personlige servere. Gør det via privatbesked hvis du absolut behøver det.
-9. **I sprog-specifikke kanaler, skal det gældende sprog snakkes hvis du deltager i diskussionen (Engelsk i `#english`, Thai i `#thai`, etc).** I kanaler hvor der ikke explicit er skrevet hvilket sprog der snakkes er det altid Engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *Medlemmer af [moderations-personalet](/wiki/People/The_Team/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
+9. **I sprog-specifikke kanaler, skal det gældende sprog snakkes hvis du deltager i diskussionen (Engelsk i `#english`, Thai i `#thai`, etc).** I kanaler hvor der ikke explicit er skrevet hvilket sprog der snakkes er det altid Engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *Medlemmer af [moderations-personalet](/wiki/People/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
 
 ## Forum-dækkende regler
 
@@ -43,7 +43,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 
 *Note: Disse regler gælder **alle indsendte maps**, ikke kun dem der er Ranked. For at se mere specifikke regler ift. Ranked beatmaps, se [Ranking Kriteriet](/wiki/Ranking_Criteria).*
 
-Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
+Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Beatmapping/Beatmap_submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
 
 1. **Sørg for at du har tilladelse til at bruge alt indhold, der er involveret i dit beatmap.** Dette inkluderer sange, videoer, hitsounds, grafik, og andet indhold der ikke er dit eget. Hvis du er i tvivl om hvor du kan finde indhold der er gratis at bruge, har vi et voksende bibliotek af sange tilgængeligt på [Featured Artist](https://osu.ppy.sh/beatmaps/artists)-siden, som alle er 100% licenseret til brug i osu!.
 2. **Hold dig til emnet i Beatmap diskussioner.** Disse tråde/diskussioner handler om det aktuelle beatmap og intet andet. Hvis du har et problem med noget der ikke direkte vedrører beatmappet, kan du lave et opslag i det relevante forum.

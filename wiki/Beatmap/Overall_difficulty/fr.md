@@ -16,7 +16,7 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte pour cliquer sur les [objets](/wiki/Hit_object), à la fois de façon générale et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La fenêtre d'erreur de timing autorisée pour chaque objet dans [osu!](/wiki/Game_mode/osu!) et [osu!mania](/wiki/Game_mode/osu!mania), centrée sur le timing correct de l'objet, est définie par les tableaux ci-dessous.
+Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte pour cliquer sur les [objets](/wiki/Gameplay/Hit_object), à la fois de façon générale et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La fenêtre d'erreur de timing autorisée pour chaque objet dans [osu!](/wiki/Game_mode/osu!) et [osu!mania](/wiki/Game_mode/osu!mania), centrée sur le timing correct de l'objet, est définie par les tableaux ci-dessous.
 
 Notez que dans la version stable d'osu!, les fenêtres de timing dans osu! et [osu!taiko](/wiki/Game_mode/osu!taiko) peuvent effectivement être jusqu'à 0,5 ms plus courtes des deux côtés que ce que les formules suggèrent. Par ailleurs, dans osu!mania, elles peuvent être jusqu'à 0,5 ms plus longues des deux côtés. Ceci est dû au fait que dans osu! et osu!taiko, un clic est considéré à l'intérieur d'une fenêtre de timing si `erreur de timing < arrondi(fenêtre de timing)`, alors que dans osu!mania, il est considéré à l'intérieur si `erreur de timing <= arrondi(fenêtre de timing)`.[^judgement-rounding-ref]
 
@@ -56,9 +56,9 @@ Si le joueur clique en dehors de la fenêtre de timing du 50, cela comptera comm
 
 ## Sliders et spinners
 
-Dans [osu!](/wiki/Game_mode/osu!), les [sliders](/wiki/Gameplay/Hit_object/Slider) récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé slider leniency et est supprimé dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Dans [osu!](/wiki/Game_mode/osu!), les [sliders](/wiki/Gameplay/Hit_object/Slider) récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé slider leniency et est supprimé dans [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 
-L'overall difficulty affecte également les [spinners](/wiki/Hit_object/Spinner), dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
+L'overall difficulty affecte également les [spinners](/wiki/Gameplay/Hit_object/Spinner), dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 
 - OD < 5 : `5 - 2 * (5 - OD) / 5`
 - OD = 5 : `5`
@@ -66,12 +66,12 @@ L'overall difficulty affecte également les [spinners](/wiki/Hit_object/Spinner)
 
 ## Effets des mods
 
-Il existe quatre [mods](/wiki/Game_modifier) qui modifient l'OD lorsqu'ils sont activés :
+Il existe quatre [mods](/wiki/Gameplay/Game_modifier) qui modifient l'OD lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy) : Réduit de moitié la valeur de l'OD.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock) : Multiplie la valeur de l'OD par 1,4, jusqu'à un maximum de 10.
-- [Double Time](/wiki/Game_modifier/Double_Time) : La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de timing sont 33% plus courtes.
-- [Half Time](/wiki/Game_modifier/Half_Time) : La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de timing sont 33% plus longues.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy) : Réduit de moitié la valeur de l'OD.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) : Multiplie la valeur de l'OD par 1,4, jusqu'à un maximum de 10.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) : La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de timing sont 33% plus courtes.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) : La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de timing sont 33% plus longues.
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'OD, la différence de vitesse y entraîne un changement dans les fenêtres de timing. Comme la mise à l'échelle est différente pour chaque valeur de score, le DT fait que les intervalles pour 100 et 50 sont plus resserrés que d'habitude par rapport au 300, et le HT les fait devenir plus indulgents. 
 

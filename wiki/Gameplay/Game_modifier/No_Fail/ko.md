@@ -14,7 +14,7 @@ tags:
 
 ![NF 모드 아이콘](/wiki/shared/mods/NF.png "노페일 모드(NF) 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 눌러주세요.*\
 
 ## 노페일 모드
 
@@ -29,7 +29,7 @@ tags:
 
 *중요: 노페일 모드는 획득 가능한 [퍼포먼스 포인트(PP)](/wiki/Performance_points)를 10% 줄입니다.*
 
-**노페일 모드**는 플레이어가 [비트맵](/wiki/Beatmap)을 플레이할 때 실패하는 것을 막아주는 [모드](/wiki/Game_modifier)입니다. 노페일 모드를 활성화한 플레이어는 [비트맵](/wiki/Beatmap)을 플레이하는 도중 [체력바](/wiki/Client/Interface/Health_bar)가 0이 되더라도 실패하지 않습니다. 만약 플레이어가 비트맵을 플레이하는 도중 점수를 조금도 내지 않았다면, *실패* 하게 됩니다.
+**노페일 모드**는 플레이어가 [비트맵](/wiki/Beatmap)을 플레이할 때 실패하는 것을 막아주는 [모드](/wiki/Gameplay/Game_modifier)입니다. 노페일 모드를 활성화한 플레이어는 [비트맵](/wiki/Beatmap)을 플레이하는 도중 [체력바](/wiki/Client/Interface/Health_bar)가 0이 되더라도 실패하지 않습니다. 만약 플레이어가 비트맵을 플레이하는 도중 점수를 조금도 내지 않았다면, *실패* 하게 됩니다.
 
 이 모드는 모든 osu!의 [장르](/wiki/Game_mode)가 동일하게 작동합니다.
 

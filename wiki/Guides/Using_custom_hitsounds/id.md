@@ -39,7 +39,7 @@ di mana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah 
 
 ![](img/beatmap-folder-resources.png "Contoh folder beatmap yang berisi hitsound khusus")
 
-Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound bawaan yang diputar jika sebuah [hit object](/wiki/Hit_object) dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
+Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound bawaan yang diputar jika sebuah [hit object](/wiki/Gameplay/Hit_object) dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
 
 ## Menggunakan hitsound khusus
 

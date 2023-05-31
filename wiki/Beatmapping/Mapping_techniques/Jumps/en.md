@@ -9,7 +9,7 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 # Jump mapping techniques
 
-*See [Mapping techniques/Basics](/wiki/Mapping_techniques/Basics#jumps) for a description on jumps.*
+*See [Mapping techniques/Basics](/wiki/Beatmapping/Mapping_techniques/Basics#jumps) for a description on jumps.*
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -52,7 +52,7 @@ Nominator: [Zekira](https://osu.ppy.sh/users/36749)
 
 Nominator: [Blue Dragon](https://osu.ppy.sh/users/19048)
 
-**B&F sliderbased jumps** consist of making a [back and forth](/wiki/Mapping_techniques/Rhythm#back-and-forth-beats) jump (or triangle) using the slider as the base for the jump.
+**B&F sliderbased jumps** consist of making a [back and forth](/wiki/Beatmapping/Mapping_techniques/Rhythm#back-and-forth-beats) jump (or triangle) using the slider as the base for the jump.
 
 ### Endpoint Slider Jumps
 

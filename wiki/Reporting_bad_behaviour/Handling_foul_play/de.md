@@ -18,7 +18,7 @@ Jeder Benutzer darf nur **einen** Account haben. Neue Accounts zu erstellen ist 
 
 Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Auto-Aim und alles andere, was das Spiel für den Spieler spielt, Cheating ist.
 
-Das ist eine One-Strike-Regel. Cheater werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/The_Team/Account_support_team) darf diese Beschränkung aufheben, wenn der Benutzer erfolgreich Beschwerde einlegt.
+Das ist eine One-Strike-Regel. Cheater werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/Account_support_team) darf diese Beschränkung aufheben, wenn der Benutzer erfolgreich Beschwerde einlegt.
 
 ## Mein Account wurde eingeschränkt, aber ich habe nicht geschummelt!
 

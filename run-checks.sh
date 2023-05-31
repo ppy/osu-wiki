@@ -57,7 +57,8 @@ function main() {
     exit 0
   fi
 
-  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ )
+  # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
+  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ | grep -E -v '^[A-Z-]+\.md$' )
 
   if ! ( which docker > /dev/null ); then
     print_error "Missing Docker. Install it from https://docs.docker.com/engine and restart the shell"

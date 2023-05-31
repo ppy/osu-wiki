@@ -146,7 +146,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 !report <utilisateur> <raison>
 ```
 
-`!report` notifie les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
+`!report` notifie les membres de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

@@ -9,7 +9,7 @@ outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 
 # 谱师工会（Mappers' Guild）
 
-**谱师工会**是指一个对创建关于 osu! [精选艺术家](/wiki/Featured_Artists)的[谱面](/wiki/Beatmap)负有责任的谱师团体。借助 MMO 风格的工会形式，谱师们能够在参与对精选艺术家谱面的ranking流程与协助达成制谱相关的任务之中获取报酬。
+**谱师工会**是指一个对创建关于 osu! [精选艺术家](/wiki/People/Featured_Artists)的[谱面](/wiki/Beatmap)负有责任的谱师团体。借助 MMO 风格的工会形式，谱师们能够在参与对精选艺术家谱面的ranking流程与协助达成制谱相关的任务之中获取报酬。
 
 该工会的组织与交流部分可以在 [osu!dev Discord 群组](https://discord.gg/ppy)中的 `#mappers-guild` 频道找到。
 

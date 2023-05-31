@@ -14,7 +14,7 @@ no_native_review: true
 
 ![SO Mod 圖示](/wiki/shared/mods/SO.png "Spun Out (SO) Mod 圖示")
 
-*若要查看 Mod 列表，請見：[遊戲 Mod](/wiki/Game_modifier)*
+*若要查看 Mod 列表，請見：[遊戲 Mod](/wiki/Gameplay/Game_modifier)*
 
 ## 關於
 

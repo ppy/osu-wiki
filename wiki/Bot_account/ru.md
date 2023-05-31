@@ -45,7 +45,7 @@ tags:
 
 ### Заполнение заявки
 
-Если все требования выше соблюдены, свяжитесь со [службой поддержки](/wiki/People/The_Team/Account_support_team) по адресу [accounts@ppy.sh](mailto:accounts@ppy.sh). Это нужно сделать с почтового адреса, привязанного к вашему аккаунту osu!, с фразой `Bot Account Request` в теме письма.
+Если все требования выше соблюдены, свяжитесь со [службой поддержки](/wiki/People/Account_support_team) по адресу [accounts@ppy.sh](mailto:accounts@ppy.sh). Это нужно сделать с почтового адреса, привязанного к вашему аккаунту osu!, с фразой `Bot Account Request` в теме письма.
 
 В письме укажите следующее:
 

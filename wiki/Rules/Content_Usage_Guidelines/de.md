@@ -10,7 +10,7 @@ Um sicherzustellen, dass dein Account in einem guten Ruf bleibt, ist es empfehle
 
 ## Audio
 
-Wir stellen Mappern eine Sammlung an lizenzierten Songs über das [Featured-Artist](/wiki/Featured_Artists)-Programm zur Verfügung. Jeder Song in [der Auflistung](https://osu.ppy.sh/beatmaps/artists) ist kostenlos für die Verwendung innerhalb von osu! und birgt kein Risiko, dass er entfernt wird.
+Wir stellen Mappern eine Sammlung an lizenzierten Songs über das [Featured-Artist](/wiki/People/Featured_Artists)-Programm zur Verfügung. Jeder Song in [der Auflistung](https://osu.ppy.sh/beatmaps/artists) ist kostenlos für die Verwendung innerhalb von osu! und birgt kein Risiko, dass er entfernt wird.
 
 Prüfe bei der Suche nach Songs außerhalb von dem Featured-Artist-Katalog von osu!, ob seine Ersteller ausdrücklich die Nutzungsbedingungen angegeben haben. Diese Information kann oft in den Beschreibungen auf der Musikveröffentlichungsplattform eines Künstlers (z. B. Bandcamp, SoundCloud, YouTube) oder ihrer persönlichen Webseite gefunden werden. Falls ein Song unter einer [Creative Commons Licence](https://creativecommons.org/about/cclicenses/) lizenziert oder für den nicht-kommerziellen Gebrauch verfügbar ist, ist es sicher, daraus eine Beatmap zu erstellen und diese einzureichen.
 

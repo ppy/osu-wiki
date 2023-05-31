@@ -145,7 +145,7 @@ Es gibt insgesamt 7 Status, die mit dem Befehl `!stats` angezeigt werden können
 !report <Benutzer> <Grund>
 ```
 
-`!report` benachrichtigt das [Globale Moderationsteam](/wiki/People/The_Team/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `wirklich cooler benutzername` `wirklich_cooler_benutzername`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
+`!report` benachrichtigt das [Globale Moderationsteam](/wiki/People/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `wirklich cooler benutzername` `wirklich_cooler_benutzername`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

@@ -11,8 +11,8 @@ tags:
 
 ![Ikon mod FL](/wiki/shared/mods/FL.png "Ikon mod Flashlight (FL)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifiers](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Hidden (mod)](/wiki/Game_modifier/Hidden).*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
+*Berbeda konteks dengan [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## Tentang
 
@@ -27,13 +27,13 @@ tags:
 
 ## Deskripsi
 
-Mod **Flashlight** adalah sebuah [game modifier](/wiki/Game_modifier/Flashlight) yang bertujuan untuk meningkatkan kesulitan pada [beatmap](/wiki/Beatmap) dengan membatasi area yang terlihat pada layar.
+Mod **Flashlight** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier/Flashlight) yang bertujuan untuk meningkatkan kesulitan pada [beatmap](/wiki/Beatmap) dengan membatasi area yang terlihat pada layar.
 
 ### osu!
 
 Pada [osu!](/wiki/Game_mode/osu!), hanya lingkaran kecil yang diterangi (area yang terlihat) mengelilingi kursor yang akan menampilkan sebagian dari playfield di dalam lingkaran tersebut yang akan diperlihatkan. Ukuran dari lingkaran ini akan berubah tergantung dengan kombo yang sedang dimiliki oleh pemain tersebut.
 
-Area yang terlihat akan menjadi lebih kecil pada kombo 100x dan lagi pada kombo 200x. Jika kombo pemain hancur kapan saja, area yang terlihat akan kembali ke ukuran awalnya. Sebagai tambahan, ketika pemain sedang berada pada [slider](/wiki/Hit_object/Slider), sebagian area yang terlihat akan digelapkan sampai slider tersebut diselesaikan.
+Area yang terlihat akan menjadi lebih kecil pada kombo 100x dan lagi pada kombo 200x. Jika kombo pemain hancur kapan saja, area yang terlihat akan kembali ke ukuran awalnya. Sebagai tambahan, ketika pemain sedang berada pada [slider](/wiki/Gameplay/Hit_object/Slider), sebagian area yang terlihat akan digelapkan sampai slider tersebut diselesaikan.
 
 Semua hal-hal tersebut membuat sebuah efek yang kelihatan seperti sebuah senter virtual yang bersinar pada kursor pemain:
 
@@ -61,7 +61,7 @@ Ketika dipasang dengan mod Hidden, fruit-fruit akan menjadi terlihat untuk semen
 
 ### osu!mania
 
-Pada [osu!mania](/wiki/Game_mode/osu!mania), area yang terlihat dibatasi pada bar horizontal yang agak tipis di tengah layar sementara hal yang lainnya menjadi tidak terlihat. Dalam artian tersebut, mod Flashlight bisa dianggap sebagai gabungan antara mod Hidden dan mod [Fade In](/wiki/Game_modifier/Fade_In). (Minus, tanpa bagian untuk mengubah ukuran dari area yang terlihat.)
+Pada [osu!mania](/wiki/Game_mode/osu!mania), area yang terlihat dibatasi pada bar horizontal yang agak tipis di tengah layar sementara hal yang lainnya menjadi tidak terlihat. Dalam artian tersebut, mod Flashlight bisa dianggap sebagai gabungan antara mod Hidden dan mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In). (Minus, tanpa bagian untuk mengubah ukuran dari area yang terlihat.)
 
 ![Tampilan permainan FL di mania](img/FL-mania.jpg "Tampilan permainan osu!mania dengan mod Flashlight")
 

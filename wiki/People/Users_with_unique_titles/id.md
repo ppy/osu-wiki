@@ -5,7 +5,7 @@ outdated_since: 442efe1ddbcbc90c52993ae5117c9abfb191125e
 
 # Daftar pengguna dengan gelar khusus
 
-Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
+Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/osu!_team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
 
 ## Juara bertahan World Cup
 
@@ -177,7 +177,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 
 ## Elite Nominator
 
-Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
+Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
@@ -222,7 +222,7 @@ osu! menganugerahkan gelar **osu!trivium Champion** kepada para pemenang [kontes
 
 ## Featured Artist
 
-osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wiki/Featured_Artists) yang memiliki akun osu! sebagai salah satu bentuk balas jasa atas lagu-lagu yang telah mereka sediakan.
+osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wiki/People/Featured_Artists) yang memiliki akun osu! sebagai salah satu bentuk balas jasa atas lagu-lagu yang telah mereka sediakan.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) dan ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) saat ini menyandang gelar **osu!musician** atas kontribusi mereka dalam menata efek-efek suara dan menggubah lagu tema resmi yang dimiliki oleh osu!. Di sisi lain, ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) lebih memilih untuk mempertahankan gelar **osu!mixer** yang dimilikinya di saat ia diangkat menjadi Featured Artist.
 

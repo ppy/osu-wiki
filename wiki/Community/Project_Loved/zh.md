@@ -5,7 +5,7 @@ outdated_since: d62fdaa08fb4aa6d1083690aadc4f728ce73e5c1
 
 # Project Loved
 
-**Project Loved**是一个能使谱面进入[Loved](/wiki/Beatmap/Category#loved)状态的投票平台。由[Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)管理。
+**Project Loved**是一个能使谱面进入[Loved](/wiki/Beatmap/Category#loved)状态的投票平台。由[Project Loved Team](/wiki/People/Project_Loved_Team)管理。
 
 ## 使一张谱面进入Loved状态
 
@@ -20,7 +20,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 - [osu!taiko 列表](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
 - [osu!mania 列表](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-*注意: 如果你访问表格时受到了限制，你可以联系任何[Project Loved Team 成员](/wiki/People/The_Team/Project_Loved_Team#团队成员)来替你提交谱面*
+*注意: 如果你访问表格时受到了限制，你可以联系任何[Project Loved Team 成员](/wiki/People/Project_Loved_Team#团队成员)来替你提交谱面*
 
 被提名的谱面会被发送到[Project Loved 论坛](https://osu.ppy.sh/community/forums/120)，社区成员可以投票决定他们是否想要这个地图集被Loved。在投票结束时，如果地图的“Yes”票数达到指定的百分比，就会进入Loved状态。
 

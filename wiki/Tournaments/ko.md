@@ -12,8 +12,6 @@ outdated_translation: true
 
 ### ![](/wiki/shared/mode/osu.png) 역대 osu! 월드컵 목록
 
-osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수들이 더블 엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
-
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: 대만 | ::{ flag=NL }:: 네덜란드 | ::{ flag=KR }:: 대한민국 |
@@ -330,4 +328,4 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 ## 같이보기
 
 - [osu! 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (대회 스트리밍을 위한 클라이언트)

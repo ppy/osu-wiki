@@ -11,7 +11,7 @@ tags:
 
 # 谱面
 
-**谱面**（有时候又叫做*谱面集*）通常是一组游戏关卡（称为[难度](#难度)）的集合。每个难度均包含各种各样的[击打物件](/wiki/Hit_object)；此外，绝大多数情况下，谱面中的所有难度均面向一首歌曲。谱面将打包在 [`.osz` 后缀](/wiki/osu!_File_Formats/Osz_(file_format))的文件中，除上述难度外，还包含如下组件：
+**谱面**（有时候又叫做*谱面集*）通常是一组游戏关卡（称为[难度](#难度)）的集合。每个难度均包含各种各样的[击打物件](/wiki/Gameplay/Hit_object)；此外，绝大多数情况下，谱面中的所有难度均面向一首歌曲。谱面将打包在 [`.osz` 后缀](/wiki/Client/File_formats/Osz_(file_format))的文件中，除上述难度外，还包含如下组件：
 
 - 以 MP3 或 Ogg 格式存储的歌曲。
 - 用来装饰游玩区域的[背景图片 (BG)](/wiki/Beatmap/Background) 或背景视频。
@@ -25,17 +25,17 @@ tags:
 
 *主页面：[难度](/wiki/Beatmap/Difficulty)*
 
-**难度**是一个包含了击打物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时候只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmapping/Star_rating)系统用于可视化描述难度需要的实力水平。
+**难度**是一个包含了击打物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时候只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
 
 ## 提交
 
-*主页面：[提交](/wiki/Submission)*
+*主页面：[提交](/wiki/Beatmapping/Beatmap_submission)*
 
-谱面作者（以下简称谱师）能把自己的作品[提交](/wiki/Submission)至公共[谱面列表](https://osu.ppy.sh/beatmapsets)。同时每张谱面都属于[一个人](/wiki/Beatmap/Beatmap_host)。但谱面通常是多人合作：有些难度可能是作者与其他谱师[合作](/wiki/Beatmap/Beatmap_collaborations)或由其他谱师[单独制作](/wiki/Beatmap/Guest_difficulty)。
+谱面作者（以下简称谱师）能把自己的作品[提交](/wiki/Beatmapping/Beatmap_submission)至公共[谱面列表](https://osu.ppy.sh/beatmapsets)。同时每张谱面都属于[一个人](/wiki/Beatmap/Beatmap_host)。但谱面通常是多人合作：有些难度可能是作者与其他谱师[合作](/wiki/Beatmap/Beatmap_collaborations)或由其他谱师[单独制作](/wiki/Beatmap/Guest_difficulty)。
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-提交完成后，谱师就获得了一些可在谱面的网页修改的额外元数据字段，其包含谱面介绍、语言、歌曲风格、敏感内容提示等。在[审核评估团队](/wiki/People/The_Team/Nomination_Assessment_Team)成员的帮助下，谱师还能够修改在开始游玩时显示在游玩区域上的[标题文本](/wiki/Beatmap/Title_text)。
+提交完成后，谱师就获得了一些可在谱面的网页修改的额外元数据字段，其包含谱面介绍、语言、歌曲风格、敏感内容提示等。在[审核评估团队](/wiki/People/Nomination_Assessment_Team)成员的帮助下，谱师还能够修改在开始游玩时显示在游玩区域上的[标题文本](/wiki/Beatmap/Title_text)。
 
 ### 标识符
 
@@ -92,7 +92,7 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 所有模式的 osu! 玩家都会根据谱面成绩来[全球排名](/wiki/Performance_points)并[互相竞争](/wiki/Ranking)。在 osu! 中，每个谱面均拥有独立的，不同种类的的排行榜。普通玩家只能看到全球排行榜，而 [osu! 支持者](/wiki/osu!supporter)能看到其他排行榜
 
 - 基于所有活跃玩家设立的全球排行榜；
-- 特定[游戏模组 (Mods)](/wiki/Game_modifier) 排行榜；
+- 特定[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier) 排行榜；
 - 令拥有相同国/区旗玩家竞争的国家/地区专属排行榜；
 - 显示玩家与好友间排名的好友排行榜。
 
@@ -118,6 +118,6 @@ osu! 社区经常举办不同的作图比赛来促进谱面创新和奖励优秀
 
 ### 精选艺术家
 
-*主页面：[精选艺术家](/wiki/Featured_Artists)*
+*主页面：[精选艺术家](/wiki/People/Featured_Artists)*
 
-精选艺术家是由 [osu! 团队](/wiki/People/The_Team)负责的社区项目。其专注于为 osu! 获取具有版权的歌曲以使其用于作图。[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有涉及的艺术家，并提供预先准备好的谱面模板以便作图使用。
+精选艺术家是由 [osu! 团队](/wiki/People/osu!_team)负责的社区项目。其专注于为 osu! 获取具有版权的歌曲以使其用于作图。[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有涉及的艺术家，并提供预先准备好的谱面模板以便作图使用。

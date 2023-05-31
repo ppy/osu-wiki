@@ -4,7 +4,7 @@ no_native_review: true
 
 # Zusammenfassung der Spielmodifikationen
 
-*Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
+*Hauptseite: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 *Anmerkung: Alle in osu!mania verwendeten Mods erhöhen niemals den Score-Multiplikator.*
 

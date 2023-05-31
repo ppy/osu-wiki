@@ -12,7 +12,7 @@ tags:
 ![Ikon mod EZ](/wiki/shared/mods/EZ.png "Ikon mod Easy (EZ)")
 
 *Untuk penggunaan lainnya, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).*\
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -29,7 +29,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Easy** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmap). Cara kerja mod ini adalah dengan mengurangi setengah dari semua pengaturan kesulitan dari beatmap yang dipilih.
+Mod **Easy** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmap). Cara kerja mod ini adalah dengan mengurangi setengah dari semua pengaturan kesulitan dari beatmap yang dipilih.
 
 Di semua [mode permainan](/wiki/Game_mode) kecuali [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy akan memberikan dua "nyawa" tambahan kepada pemain saat sedang bermain jika [life bar](/wiki/Client/Interface/Health_bar) mereka turun ke 0 (habis). Saat kasus tersebut terjadi, permainan akan berhenti sejenak untuk mengisi ulang life bar ke sekitar 80% dan menghapus satu "nyawa" dari jumlah nyawa pemain. Tidak akan ada suara yang diputar selama efek ini.
 
@@ -37,7 +37,7 @@ Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengi
 
 ### osu!
 
-Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), dan [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP).
+Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), dan [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP).
 
 ![Gameplay EZ pada standard](img/EZ-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
 
@@ -47,9 +47,9 @@ Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa pengg
 
 ### osu!taiko
 
-Di [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy menurunkan setengah dari [slider velocity](/wiki/Hit_object/Slider_velocity), overall difficulty (OD) dan HP drain.
+Di [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy menurunkan setengah dari [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) dan HP drain.
 
-*Catatan: Jumlah hit yang dibutuhkan untuk menyelesaikan sebuah [spinner](/wiki/Hit_object/Spinner) dikurangi sesuai dengan nilai OD.*
+*Catatan: Jumlah hit yang dibutuhkan untuk menyelesaikan sebuah [spinner](/wiki/Gameplay/Hit_object/Spinner) dikurangi sesuai dengan nilai OD.*
 
 Tidak seperti mode permainan lainnya, penggunaan mod Easy di osu!taiko dapat mengurangi persyaratan skor note untuk mendapatkan health, serta membuat life bar terisi lebih cepat sebagai pengganti dari dua "nyawa" tambahan karena tidak mungkin fail di tengah-tengah permainan.
 
@@ -67,9 +67,9 @@ Di  [osu!mania](/wiki/Game_mode/osu!mania), efeknya sama seperti di osu!taiko, k
 
 ## Trivia
 
-- Saat menonton sebuah tayangan ulang di mana nyawa tambahan tersebut digunakan, tidak akan ada animasi pengisian ulang health dan tayangan ulang akan tetap berlanjut seolah-olah pemain sedang bermain menggunakan mod [No Fail](/wiki/Game_modifier/No_Fail).
+- Saat menonton sebuah tayangan ulang di mana nyawa tambahan tersebut digunakan, tidak akan ada animasi pengisian ulang health dan tayangan ulang akan tetap berlanjut seolah-olah pemain sedang bermain menggunakan mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail).
 - Di mode [Multi](/wiki/Client/Interface/Multiplayer), efek "nyawa" tidak akan bekerja di mode tim [Tag Co-op atau Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs).
-- Mod Easy akan membatalkan mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) secara otomatis, dan sebaliknya.
+- Mod Easy akan membatalkan mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) secara otomatis, dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

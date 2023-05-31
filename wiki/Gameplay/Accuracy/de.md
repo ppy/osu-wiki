@@ -1,6 +1,6 @@
 # Genauigkeit
 
-Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers, [Hit-Objekte](/wiki/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performancepunkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
+Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers, [Hit-Objekte](/wiki/Gameplay/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performancepunkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
 
 ## Spielmodi
 
@@ -68,11 +68,11 @@ Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend au
 
 Wenn man den Mauszeiger über die Leistungskurve bewegt, wird ein Tooltip mit den Bewertungen `Error` und `Unstable Rate` angezeigt.
 
-Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Game_modifier/Double_Time) (Double Time) und [HT](/wiki/Game_modifier/Half_Time) (Half Time) implementiert sind, werden die Werte für Error und Unstable Rate mit demselben Faktor wie der Song multipliziert. Um die wahren Werte zu erhalten, wenn man mit der DT-Mod spielt, teilt man die Ergebnisse durch 1,5. In ähnlicher Weise multipliziert man die Ergebnisse mit 1,33, wenn man mit der HT-Mod spielt.
+Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) und [HT](/wiki/Gameplay/Game_modifier/Half_Time) (Half Time) implementiert sind, werden die Werte für Error und Unstable Rate mit demselben Faktor wie der Song multipliziert. Um die wahren Werte zu erhalten, wenn man mit der DT-Mod spielt, teilt man die Ergebnisse durch 1,5. In ähnlicher Weise multipliziert man die Ergebnisse mit 1,33, wenn man mit der HT-Mod spielt.
 
 #### Error
 
-`Error` zeigt immer zwei Werte an, die angeben, wie weit die frühen Treffer und wie weit die späten Treffer im Durchschnitt entfernt waren. Je höher der [Overall-Difficulty](/wiki/Beatmapping/Overall_difficulty)-Wert der Beatmap ist, desto niedriger müssen die Fehlerwerte sein, um beim Spielen der Beatmap gut abzuschneiden.
+`Error` zeigt immer zwei Werte an, die angeben, wie weit die frühen Treffer und wie weit die späten Treffer im Durchschnitt entfernt waren. Je höher der [Overall-Difficulty](/wiki/Beatmap/Overall_difficulty)-Wert der Beatmap ist, desto niedriger müssen die Fehlerwerte sein, um beim Spielen der Beatmap gut abzuschneiden.
 
 #### Unstable rate
 

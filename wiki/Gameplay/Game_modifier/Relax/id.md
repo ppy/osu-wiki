@@ -12,7 +12,7 @@ tags:
 
 ![Ikon mod RL](/wiki/shared/mods/RL.png "Ikon mod Relax (RL)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -30,11 +30,11 @@ tags:
 
 *Peringatan: Menggunakan mod Relax akan membuat unranked play dan tidak akan disimpan ke papan peringkat lokal.*
 
-Mod **Relax** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk memberikan pemain sebuah pengalaman santai saat bermain. Karena sifatnya, mod ini biasanya digunakan untuk menganalisis/berlatih pada [pola](/wiki/Beatmap/Pattern) yang sulit di [beatmap](/wiki/Beatmap), atau saat pemain hanya ingin untuk mengistirahatkan tangan mereka.
+Mod **Relax** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang bertujuan untuk memberikan pemain sebuah pengalaman santai saat bermain. Karena sifatnya, mod ini biasanya digunakan untuk menganalisis/berlatih pada [pola](/wiki/Beatmap/Pattern) yang sulit di [beatmap](/wiki/Beatmap), atau saat pemain hanya ingin untuk mengistirahatkan tangan mereka.
 
 ### osu!
 
-Pada [osu!](/wiki/Game_mode/osu!), dengan menggunakan mod Relax, pemain hanya perlu untuk memidik [hit object](/wiki/Hit_object); semua urusan tapping hit object akan secara otomatis dilakukan oleh osu!. Mod ini membuat pemain mustahil untuk gagal pada suatu map di seluruh mode-mode game.
+Pada [osu!](/wiki/Game_mode/osu!), dengan menggunakan mod Relax, pemain hanya perlu untuk memidik [hit object](/wiki/Gameplay/Hit_object); semua urusan tapping hit object akan secara otomatis dilakukan oleh osu!. Mod ini membuat pemain mustahil untuk gagal pada suatu map di seluruh mode-mode game.
 
 Mod Relax juga mematikan antarmuka permainan, menyembunyikan tampilan [skor](/wiki/Gameplay/Score), [kombo](/wiki/Beatmapping/Combo), dan miss, antarmuka permainan bisa dihidupkan kembali dengan menekan `Shift`+`Tab`. Selain itu, nilai putaran per menit (SPM) juga akan digandakan dua kali lipat, mengizinkan pemain untuk memutar lebih cepat dan meraih skor yang lebih tinggi daripada play yang biasa.
 

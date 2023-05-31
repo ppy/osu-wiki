@@ -1,15 +1,8 @@
----
-outdated_translation: true
-outdated_since: df4b0dcdbd340e2f26e11e79eb047274dfcb5ef3
----
-
-<!--TODO: The reference format was changed in https://github.com/ppy/osu-wiki/pull/8876. To update this article, please take a look if format adjustments of the "references" section are required.-->
-
 # L'histoire d'osu! en 2014
 
 ## Janvier
 
-L'ensemble du système des [points de performance (pp)](/wiki/Performance_points) a été complètement désactivé pour une maintenance le 20 janvier 2014 en raison d'erreurs de calcul survenues au cours des mois précédents.[^ranking-maintenance] Cette désactivation a ensuite été suivie d'une annonce, le 26 janvier 2014, détaillant une refonte complète du système de pp, qui a été mise en service le lendemain.[^new-perf-ranking][^pp-article] Le nouveau système a été conçu et mis en œuvre par [Tom94](https://osu.ppy.sh/users/1857058) et visait à baser les scores de pp sur une nouvelle "valeur de difficulté" (distincte du [star rating](/wiki/Beatmapping/Star_rating)) qui était déterminée pour chaque combinaison de [beatmap](/wiki/Beatmap) et de [mod](/wiki/Game_modifier) dans le jeu.[^ranking-maintenance] En conséquence, l'ancien système de pp a été renommé "ppv1" et le nouveau système a été nommé "ppv2".
+L'ensemble du système des [points de performance (pp)](/wiki/Performance_points) a été complètement désactivé pour une maintenance le 20 janvier 2014 en raison d'erreurs de calcul survenues au cours des mois précédents.[^ranking-maintenance] Cette désactivation a ensuite été suivie d'une annonce, le 26 janvier 2014, détaillant une refonte complète du système de pp, qui a été mise en service le lendemain.[^new-perf-ranking][^pp-article] Le nouveau système a été conçu et mis en œuvre par [Tom94](https://osu.ppy.sh/users/1857058) et visait à baser les scores de pp sur une nouvelle "valeur de difficulté" (distincte du [star rating](/wiki/Beatmap/Star_rating)) qui était déterminée pour chaque combinaison de [beatmap](/wiki/Beatmap) et de [mod](/wiki/Gameplay/Game_modifier) dans le jeu.[^ranking-maintenance] En conséquence, l'ancien système de pp a été renommé "ppv1" et le nouveau système a été nommé "ppv2".
 
 ## Mars
 
@@ -39,13 +32,13 @@ De plus, [peppy](https://osu.ppy.sh/users/2) a également publié la version "os
 
 ## Références
 
-[^ranking-maintenance]: [osu! newspost by peppy (2014-01-20) "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-[^new-perf-ranking]: [osu! newspost by Tom94 (2014-01-26) "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
-[^pp-article]: [osu! wiki article "Performance points"](/wiki/Performance_points)
-[^all-game-modes]: [osu! newspost by Tom94 (2014-03-01) "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
-[^change-background]: [osu! forum comment (Resolved Issues) by Pawsu (2015-12-20) "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
-[^skinning]: [osu! wiki article "Skinning history"](/wiki/Skinning/History)
-[^fanart]: [osu! newspost by LuigiHann (2014-04-03) "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
-[^fanart-results]: [osu! newspost by LuigiHann (2014-05-21) "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
-[^download]: [osu! newspost by peppy (2014-06-18) "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-[^bat]: [osu! newspost by Ephemeral (2014-08-21) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+[^ranking-maintenance]: [Article de news par peppy (20/01/2014) "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+[^new-perf-ranking]: [Article de news par Tom94 (26/01/2014) "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
+[^pp-article]: [Article de l'osu! wiki "Points de performance"](/wiki/Performance_points)
+[^all-game-modes]: [Article de news par Tom94 (01/03/2014) "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+[^change-background]: [Commentaire sur le forum (Resolved Issues) par Pawsu (20/12/2015) "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
+[^skinning]: [Article de l'osu! wiki "L'histoire du skinning"](/wiki/Skinning/History)
+[^fanart]: [Article de news par LuigiHann (03/04/2014) "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
+[^fanart-results]: [Article de news par LuigiHann (21/05/2014) "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
+[^download]: [Article de news par peppy (18/06/2014) "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+[^bat]: [Article de news par Ephemeral (21/08/2014) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)

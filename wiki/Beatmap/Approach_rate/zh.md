@@ -11,7 +11,7 @@ tags:
 
 *关于建议的 AR 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_Criteria)。*
 
-**缩圈速度** (***AR***)是一张[谱面](/wiki/Beatmap)的难度设置，定义[打击物件 (hit objects)](/wiki/Hit_object)相对于应被打击或收集时开始渐显的时间。它只存在于 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 模式中。
+**缩圈速度** (***AR***)是一张[谱面](/wiki/Beatmap)的难度设置，定义[打击物件 (hit objects)](/wiki/Gameplay/Hit_object)相对于应被打击或收集时开始渐显的时间。它只存在于 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 模式中。
 
 AR 值取值范围为 0 ~ 10 。更高的 AR 值意味着打击物件的显示时间更短，给玩家的反应时间也更短。从另一方面来讲，更低的 AR 值允许更长的反应时间，但也会导致大量打击物件一次出现在屏幕上。
 
@@ -50,9 +50,9 @@ AR 值取值范围为 0 ~ 10 。更高的 AR 值意味着打击物件的显示�
 
 以下 4 个 Mod 在启用时会改变缩圈速度：
 
-- [Easy](/wiki/Game_modifier/Easy)： 将 AR 值减半。
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock)： 将 AR 值乘上 1.4 ，最大值为 10 。
-- [Double Time](/wiki/Game_modifier/Double_Time)： AR 值不受影响，但由于 50% 加速效果，打击物件显示在屏幕上的时间减少 33% 。
-- [Half Time](/wiki/Game_modifier/Half_Time)： AR 值不受影响，但由于 25% 减速效果，打击物件显示在屏幕上的时间增加 33% 。
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)： 将 AR 值减半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)： 将 AR 值乘上 1.4 ，最大值为 10 。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)： AR 值不受影响，但由于 50% 加速效果，打击物件显示在屏幕上的时间减少 33% 。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)： AR 值不受影响，但由于 25% 减速效果，打击物件显示在屏幕上的时间增加 33% 。
 
 尽管 Half Time 与 Double Time 不改变 AR 值，速度的不同导致表面上的 AR 值改变。 HT 或 DT 下的 AR 值通常指其感知值。比如，"AR 8 + DT" 也可以写作 "AR 9.6"。

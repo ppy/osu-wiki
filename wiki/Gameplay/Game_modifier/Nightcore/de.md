@@ -14,8 +14,8 @@ no_native_review: true
 ![NC Modsymbol](/wiki/shared/mods/NC.png "Nightcore (NC) Modsymbol")
 
 *Nicht zu verwechseln mit [Nightcore (Genre)](https://de.wikipedia.org/wiki/Nightcore).*\
-*Siehe auch: [NC (Begriffsabgrenzung)](/wiki/Disambiguation/NC), [Double Time (Mod)](/wiki/Game_modifier/Double_Time)*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Siehe auch: [NC (Begriffsabgrenzung)](/wiki/Disambiguation/NC), [Double Time (Mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -29,13 +29,13 @@ no_native_review: true
 - Standard-Tastenkürzel: `D` `D` oder `Shift` + `D`
 - Untertitel: `Uguuuu~`
 - Kompatible Spielmodi: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante: [Double Time](/wiki/Game_modifier/Double_Time)
+- Variante: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
 
 ## Beschreibung
 
-Die Mod **Nightcore** ist eine [Spielmodifikation](/wiki/Game_modifier), die genauso wie ihre Variante, die Mod Double Time, funktioniert, aber zusätzlich die Tonhöhe anhebt und eine Schlagzeugspur hinzufügt, die — bei einem 4/4-Takt — auf Schlag 1 und 3 die Bass Drum, auf Schlag 2 Clap und alle 4 Takte auf Schlag 1 Crash ertönen lässt.
+Die Mod **Nightcore** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die genauso wie ihre Variante, die Mod Double Time, funktioniert, aber zusätzlich die Tonhöhe anhebt und eine Schlagzeugspur hinzufügt, die — bei einem 4/4-Takt — auf Schlag 1 und 3 die Bass Drum, auf Schlag 2 Clap und alle 4 Takte auf Schlag 1 Crash ertönen lässt.
 
-Der [Score-Multiplikator](/wiki/Game_modifier/Score_multiplier) bleibt unverändert, wie es bei der Mod Double Time der Fall ist, und die Beatmap selbst wird nicht über das hinaus beeinflusst, was die Mod Double Time macht.
+Der [Score-Multiplikator](/wiki/Gameplay/Game_modifier/Score_multiplier) bleibt unverändert, wie es bei der Mod Double Time der Fall ist, und die Beatmap selbst wird nicht über das hinaus beeinflusst, was die Mod Double Time macht.
 
 Diese Mod hat denselben Effekt in allen Spielmodi.
 

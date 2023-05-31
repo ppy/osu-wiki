@@ -23,7 +23,7 @@ no_native_review: true
 
 ![1K Modsymbol](/wiki/shared/mods/1K.png "1K Modsymbol") ![2K Modsymbol](/wiki/shared/mods/2K.png "2K Modsymbol") ![3K Modsymbol](/wiki/shared/mods/3K.png "3K Modsymbol") ![4K Modsymbol](/wiki/shared/mods/4K.png "4K Modsymbol") ![5K Modsymbol](/wiki/shared/mods/5K.png "5K Modsymbol") ![6K Modsymbol](/wiki/shared/mods/6K.png "6K Modsymbol") ![7K Modsymbol](/wiki/shared/mods/7K.png "7K Modsymbol") ![8K Modsymbol](/wiki/shared/mods/8K.png "8K Modsymbol") ![9K Modsymbol](/wiki/shared/mods/9K.png "9K Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -37,7 +37,7 @@ no_native_review: true
 
 *Hinweis: Alle xK-Mods werden auf osu!mania-spezifischen Beatmaps ignoriert. Die Verwendung der Mod 1K, 2K oder 3K sorgt dafür, dass das Spiel nicht gerankt wird.*
 
-Dies sind [Spielmodifikationen](/wiki/Game_modifier), die alle *konvertierten* [osu!mania](/wiki/Game_mode/osu!mania)-[Beatmaps](/wiki/Beatmap) dazu zwingen, die selektierte K-Einstellung zu verwenden. Die angenommene K-Einstellung der Beatmap wird abhängig von der K-Differenz zu Lasten des Score-Multiplikators ignoriert.
+Dies sind [Spielmodifikationen](/wiki/Gameplay/Game_modifier), die alle *konvertierten* [osu!mania](/wiki/Game_mode/osu!mania)-[Beatmaps](/wiki/Beatmap) dazu zwingen, die selektierte K-Einstellung zu verwenden. Die angenommene K-Einstellung der Beatmap wird abhängig von der K-Differenz zu Lasten des Score-Multiplikators ignoriert.
 
 Die Tabelle unten erklärt, wie der Score-Multiplikator bei allen xK-Mods angewendet wird:
 

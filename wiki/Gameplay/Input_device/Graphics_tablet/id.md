@@ -4,7 +4,7 @@ stub: true
 
 # Graphics tablet
 
-*Kunjungi juga: [Gaya bermain](/wiki/Play_style)*
+*Kunjungi juga: [Gaya bermain](/wiki/Gameplay/Play_style)*
 
 ![](img/tablet.jpg "Graphics tablet")
 

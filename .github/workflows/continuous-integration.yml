@@ -63,7 +63,10 @@ jobs:
 
       - name: run remark on changed files
         run: |
-          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
+          readarray -t REMARK_TARGET_FILES <<< $(
+            # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
+            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
+          )
           bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
 
       - name: set up Python
@@ -73,7 +76,7 @@ jobs:
           cache-dependency-path: scripts/requirements.txt
           python-version: 3.x
 
-      - name: set up CI dependencies
+      - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt
 
       - name: run yamllint on .yaml and .md files
@@ -108,8 +111,7 @@ jobs:
           for (( i=1; i<=MAX_ATTEMPTS; i++ )); do
             # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
             API_RESPONSE=$(
-              curl -v \
-                --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+              curl --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
                 ${{ github.event.pull_request.commits_url }}?per_page=1
             )
             if [[ 'array' != $( echo "${API_RESPONSE}" | jq -r 'type' ) ]]; then

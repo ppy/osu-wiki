@@ -1,6 +1,6 @@
 # Timing
 
-**Timing** is the process of determining a song's musical structure by determining the positions of each [timing section](/wiki/Beatmapping/Timing_section) along with their [BPM](/wiki/Beatmapping/Beats_per_minute) values and [time signatures](/wiki/Music_theory/Time_signature).
+**Timing** is the process of determining a song's musical structure by determining the positions of each [timing section](/wiki/Beatmapping/Timing_section) along with their [BPM](/wiki/Music_theory/Tempo) values and [time signatures](/wiki/Music_theory/Time_signature).
 
 The [beatmap editor](/wiki/Client/Beatmap_editor) provides [timing settings](/wiki/Client/Beatmap_editor/Timing) with a [ruler-like timeline view](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object). When objects are placed, they are [snapped](/wiki/Beatmapping/Snapping) to timeline ticks, i.e. subdivisions of a [measure](/wiki/Music_theory/Measure), allowing objects to easily line up with notes of the song.
 

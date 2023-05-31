@@ -38,7 +38,7 @@ Im Folgenden wird beschrieben, wie du anderen im Forum helfen kannst:
 
 ## Hilf bei der Bewertung von Beatmaps!
 
-osu! hat ein engagiertes Team an Rezensenten, die [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), um zu prüfen, ob eingereichte [Beatmaps](/wiki/Beatmap) bereit sind, gerankt und von jedem gespielt zu werden. Jedoch bedeutet das nicht, dass du nicht auch einen Beitrag zu diesem Bereich leisten kannst:
+osu! hat ein engagiertes Team an Rezensenten, die [Beatmap Nominators](/wiki/People/Beatmap_Nominators), um zu prüfen, ob eingereichte [Beatmaps](/wiki/Beatmap) bereit sind, gerankt und von jedem gespielt zu werden. Jedoch bedeutet das nicht, dass du nicht auch einen Beitrag zu diesem Bereich leisten kannst:
 
 - Durchsuche die Auflistung der [ausstehenden Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) nach Künstlern oder Songs, die du magst und/oder zu denen du einen Beitrag leisten möchtest.
 - Spiele Beatmaps in den Kategorien [*Ausstehend* oder *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) und lasse Feedback in der Diskussionsseite der Beatmap da.
@@ -58,7 +58,7 @@ Hier sind einige Beispiele, wie du beitragen kannst:
 
 - Stöbere durch das Forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turniere verbrauchen eine Menge Zeit und Arbeit für die reibungslose Organisation und du kannst manchmal als Beisitzer mitwirken.
 - Informiere dich über das Geschehen im Forum [Development](https://osu.ppy.sh/community/forums/2). Hier sind die meisten wichtigen Projekte angesiedelt.
-  - Tritt dem [osu!dev Discord-Server](https://discord.gg/ppy) bei! Auch wenn du nur die Entwicklung und die Projekte von osu! verfolgst und auf dem Laufenden bleiben möchtest, ist das ein guter Weg, um informiert zu bleiben.
+  - Tritt dem [osu! Discord-Server](https://discord.gg/ppy) bei! Auch wenn du nur die Entwicklung und die Projekte von osu! verfolgst und auf dem Laufenden bleiben möchtest, ist das ein guter Weg, um informiert zu bleiben.
 - Tritt einem [Beatmap-Projekt](https://osu.ppy.sh/community/forums/53) bei und lerne, wie spaßig Kollaborationen mit anderen sein können!
 - Starte dein eigenes Projekt oder tritt einem anderen bei! Egal, ob es darum geht, eine tanzende pippi zurückzubringen oder einfach etwas Cooles für osu! zu kreieren, alles ist erwünscht!
   - Lies dir die [Liste an populären Projekten](/wiki/Community/Projects) durch.

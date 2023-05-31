@@ -4,11 +4,11 @@
 
 | Format berkas | Tipe MIME | Penggunaan |
 | :-- | :-- | :-- |
-| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
-| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
-| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | [Tingkat kesulitan](/wiki/Beatmap/Difficulty) osu! |
-| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
-| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | [Tayangan ulang](/wiki/Gameplay/Replay) osu! |
+| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
+| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
+| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | [Tingkat kesulitan](/wiki/Beatmap/Difficulty) osu! |
+| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
+| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | [Tayangan ulang](/wiki/Gameplay/Replay) osu! |
 
 ## Membuat berkas .osz dan .osk
 

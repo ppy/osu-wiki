@@ -18,7 +18,7 @@ A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minde
 
 *Teljes magyarázat: [osu! Standard](/wiki/Game_mode/osu!)*
 
-A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Play_style) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
+A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Gameplay/Play_style) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
 
 #### A játékmenet alapjai
 
@@ -157,7 +157,7 @@ A Beállítások menü Input részén testre szabhatod a használatos billentyű
 
 #### A fogó irányítása
 
-Ha a [Relax](/wiki/Game_modifier/Relax) mod aktiválva van, a fogót az egérrel mozgathatod.
+Ha a [Relax](/wiki/Gameplay/Game_modifier/Relax) mod aktiválva van, a fogót az egérrel mozgathatod.
 
 - Alapértelmezetten a bal \[<-\] és jobb \[->\] nyílgombok mozgatják.
 - A bal \[SHIFT\] gomb valamelyik nyílgombbal történő együttes lenyomásának hatására a fogó abba az irányba fog sprintelni, 1.5x-es sebességgel (ezt a fogó körüli fényes ragyogás is jelzi).
@@ -225,8 +225,8 @@ Két különböző beállítás létezik, *Szimmetrikus* és *Balról-Jobbra*. (
 
 **Különleges értékelések:**
 
-- Ezüst SS (SSH) = 100% pontosság '[Hidden](/wiki/Game_modifier/Hidden)' moddal és/vagy '[Flashlight](/wiki/Game_modifier/Flashlight)' moddal.
-- Ezüst S (SH) = Több, mint 90% 300, kevesebb, mint 1% 50 és nem volt tévesztés '[Hidden](/wiki/Game_modifier/Hidden)' és/vagy '[Flashlight](/wiki/Game_modifier/Flashlight)' moddal.
+- Ezüst SS (SSH) = 100% pontosság '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' moddal és/vagy '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)' moddal.
+- Ezüst S (SH) = Több, mint 90% 300, kevesebb, mint 1% 50 és nem volt tévesztés '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' és/vagy '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)' moddal.
 
 **A profil oldalon lévő rangokról:**
 

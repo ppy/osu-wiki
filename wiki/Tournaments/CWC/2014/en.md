@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2014 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the third instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -378,7 +378,7 @@ Saturday, 17 May 2014:
 1. The osu! Catch the Beat World Cup 2014 was a country-based 3v3 team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
@@ -446,7 +446,7 @@ Saturday, 17 May 2014:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one Tiebreaker
 5. The NoMod bracket will be played with no modes activated.

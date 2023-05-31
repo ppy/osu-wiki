@@ -8,7 +8,7 @@ tags:
 
 # Wie man Probleme mit dem BSS löst
 
-Wenn das **[Beatmap Submission System](/wiki/Submission)** (***BSS***) dich nicht deine eigenen Beatmaps einreichen lässt, weil es der Meinung ist, dass die Beatmap nicht dir gehört, dann mache folgendes:
+Wenn das **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) dich nicht deine eigenen Beatmaps einreichen lässt, weil es der Meinung ist, dass die Beatmap nicht dir gehört, dann mache folgendes:
 
 1. Gehe zum Ordner der Beatmap.
    - Du kannst ihn leicht erreichen, indem du `Datei` und dann `Songs-Ordner öffnen` im [Beatmap-Editor](/wiki/Client/Beatmap_editor) anklickst.

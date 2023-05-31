@@ -2,7 +2,7 @@
 
 **Easy** mempunyai beberapa arti:
 
-- [Game modifier](/wiki/Game_modifier/Easy).
+- [Game modifier](/wiki/Gameplay/Game_modifier/Easy).
 - [Tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah beatmap:
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, untuk osu!.
   - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan, untuk osu!taiko.

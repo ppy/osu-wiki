@@ -11,7 +11,7 @@ tags:
 
 # Les points de vie
 
-Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmapping/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
+Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmap/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
 
 ## osu!
 

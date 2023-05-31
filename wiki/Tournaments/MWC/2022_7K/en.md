@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2022 banner](/wiki/shared/news/2021-12-16-osu-mania-7k-world-cup-2022-registrations-now-open/mwc7k-2022-banner.jpg)
 
-The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2022** (***MWC 7K 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -400,7 +400,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains may choose, with the approval of the Tournament Management, at any time, to delegate their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase.
@@ -461,7 +461,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Round of 16 and Quarterfinals: 14 beatmaps
    - Semifinals, Finals, and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
+5. Possible mod choices for all maps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), and [Mirror](/wiki/Gameplay/Game_modifier/Mirror).
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

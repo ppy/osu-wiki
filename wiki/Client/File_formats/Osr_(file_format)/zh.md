@@ -39,7 +39,7 @@
 | Integer | 表示已压缩回放数据的字节长度 |
 | Byte 数组 | 已压缩的回放数据 |
 | Long | 在线成绩 ID |
-| Double | 只在 [Target Practice](/wiki/Game_modifier/Target_Practice) 模组开启时存在的附加模组信息。 |
+| Double | 只在 [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) 模组开启时存在的附加模组信息。 |
 
 **附加模组信息:**
 

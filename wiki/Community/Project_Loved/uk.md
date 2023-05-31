@@ -5,7 +5,7 @@ outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 
 # Project Loved
 
-**Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmap/Category#loved). Проектом управляє [одноименна команда](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmap/Category#loved). Проектом управляє [одноименна команда](/wiki/People/Project_Loved_Team).
 
 ## Просування карти у Loved
 
@@ -20,7 +20,7 @@ outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 - [Список улюблених карт у osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit);
 - [Список улюблених карт у osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit).
 
-*Примітка: якщо у вас обмежений доступ до Google Форм, ви можете зв'язатися з будь-яким членом [команди Project Loved](/wiki/People/The_Team/Project_Loved_Team#team-members), щоб мапу представили від вашого імені.*
+*Примітка: якщо у вас обмежений доступ до Google Форм, ви можете зв'язатися з будь-яким членом [команди Project Loved](/wiki/People/Project_Loved_Team#team-members), щоб мапу представили від вашого імені.*
 
 Після сбору заявок номінованні мапи будуть викладені на [форум Project Loved](https://osu.ppy.sh/community/forums/120), де інші гравці зможуть проголосувати за те, чи хочуть вони бачити цю мапу у категорії Loved. Карти, котрі досягли відповідного проценту голосів «за» до кінця голосування, будуть переміщенні до категорії Loved.
 
@@ -33,7 +33,7 @@ outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 - Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/Help_centre/Account#restriction).
 - Як мінімум одна складність може бути пройдена.
 - Мапу повинні додати у обране не менш ніж 30 людей (відноситься тільки до osu!).
-- Кожна важкість має мати, хоча б 30 секунд [геймплейного часу карти](/wiki/Gameplay/Drain_time).
+- Кожна важкість має мати, хоча б 30 секунд [геймплейного часу карти](/wiki/Beatmap/Drain_time).
 
 Не дивлячись на те, що майже усі мапи з категорії [Pending](/wiki/Beatmap/Category#pending) відповідають цим крітеріям, із-за більш строгих вимог до номінації далеко не всі з них потрапляють у категорію Loved.
 

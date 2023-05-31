@@ -5,7 +5,7 @@ El **comité de torneos** es un panel de organizadores y ayudantes expertos y es
 Sus responsabilidades incluyen:
 
 - Gestión de informes desde el [formulario de informes de torneos](https://pif.ephemeral.ink/tournament-reports)
-- Observar la escena general del torneo y asesorar al [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) caso por caso
+- Observar la escena general del torneo y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
 - Revisar regularmente la página de [soporte oficial del torneo](/wiki/Tournaments/Official_support) para revisiones cuando sea necesario
 
 El panel se anunció por primera vez al público el 22 de julio de 2021 a través del canal `#tournaments` en el [servidor de Discord osu!dev](https://discord.com/invite/ppy) en respuesta al rápido crecimiento de la escena de torneos de la comunidad en osu!.

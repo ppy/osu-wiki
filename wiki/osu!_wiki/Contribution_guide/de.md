@@ -2,9 +2,9 @@
 
 Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
 
-Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
+Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 
-Falls du irgendwann Tipps oder Hilfe benötigst, zögere nicht, im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) zu fragen.
+Falls du irgendwann Tipps oder Hilfe benötigst, zögere nicht, im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) zu fragen.
 
 ## Wichtige Bereiche
 
@@ -53,14 +53,14 @@ Alle Änderungen des osu!-Wikis werden moderiert. Während dieser Phase weisen a
 Wenn sich nach einigen Tagen niemand gemeldet hat, versuche folgendes:
 
 - Stelle sicher, dass du auf alle Vorschläge eingegangen bist — es könnten Personen auf deine Antwort warten.
-- Frage andere Beteiligte im [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
-- Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
+- Frage andere Beteiligte im [osu! Discord-Server](/wiki/Community/osu!_Discord_server) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
+- Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Frage deine Freunde nach einem kurzen Blick!
 
 Zusätzlich zu einem manuellen Bewertungsprozess hat das Repository des osu!-Wikis eine [Reihe von automatisierten Überprüfungen](/wiki/osu!_wiki/Maintenance#ci-checks), die sicherstellen, dass deine Änderungen dem allgemeinen Stil des Wikis folgen und frei von Formatierungsfehlern sind. Um ihren Status zu sehen, öffne den Tab `Actions` deiner Änderungsanfrage und folge den Diagnosemeldungen unter den Fehlern, sofern vorhanden.
 
 ## Zusammenführung
 
-Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/osu!_wiki/Maintenance/List_of_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
+Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/People/osu!_wiki_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

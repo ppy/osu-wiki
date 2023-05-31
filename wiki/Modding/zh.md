@@ -29,7 +29,7 @@
 
 所有的摸图贴都应指出问题是什么，为什么它会成为问题，以及问题的解决方法。参见：[行为准则：摸图与作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#摸图和留言)。
 
-发出请求的谱师通常需要给已参考并应用至谱面的摸图帖*点赞*，此时，摸图员就能得到 [kudosu](/wiki/Modding/Kudosu)。kudosu 会在主页统计数量、追踪来源，并作为申请加入[谱面审核员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的一个重要参考指标。
+发出请求的谱师通常需要给已参考并应用至谱面的摸图帖*点赞*，此时，摸图员就能得到 [kudosu](/wiki/Modding/Kudosu)。kudosu 会在主页统计数量、追踪来源，并作为申请加入[谱面审核员 (BN)](/wiki/People/Beatmap_Nominators) 的一个重要参考指标。
 
 ## 摸图帖种类
 

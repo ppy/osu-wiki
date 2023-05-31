@@ -8,7 +8,7 @@ tags:
 
 # peppy
 
-**peppy** (estilizado con una "p" minúscula) es el alias en línea de Dean Herbert, quien es el creador del proyecto osu! y su principal [desarrollador](/wiki/People/The_Team/Developers).
+**peppy** (estilizado con una "p" minúscula) es el alias en línea de Dean Herbert, quien es el creador del proyecto osu! y su principal [desarrollador](/wiki/People/Developers).
 
 ## Links
 

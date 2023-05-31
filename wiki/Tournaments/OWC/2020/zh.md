@@ -9,7 +9,7 @@ tags:
 
 ![OWC 2020 标志](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-**osu! 2020 世界杯**（***OWC 2020***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
+**osu! 2020 世界杯**（***OWC 2020***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -506,7 +506,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ### 阶段说明
 
 1. 在资格赛阶段，所有队伍将使用图池管理成员挑选的特殊图池进行比赛。
-2. 图池包含四组： NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time)。此阶段没有 Tiebreaker(TB)。
+2. 图池包含四组： NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)。此阶段没有 Tiebreaker(TB)。
 3. 资格赛图池包含 10 张谱面。NoMod 包含 4 张谱面，其余 Mod 则各包含 2 张谱面。
 4. 队伍必须在指定时间内完成两次图池，他们的最佳成绩将计入出线结果。
 5. 图池顺序将按以上列出的 Mod 顺序进行。
@@ -543,7 +543,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ### 图池说明
 
 1. 每个阶段都会使用他们各自的图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 和 FreeMod。
+2. 图池包含五组: NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod。
 3. 每个阶段的图池所包含的谱面数量不同。
    - **在三十二强赛和十六强赛中，图池包含 5 张 NoMod 和 3 张 DoubleTime，其余 Mod 则各包含 2 张。**
    - **在四分之一决赛，半决赛，决赛和总决赛中，图池包含 6 张 NoMod 和 4 张 DoubleTime，其余 Mod 则各包含 3 张。**

@@ -53,7 +53,7 @@ E-postanın içeriği aşağıdakileri içermelidir:
 - Kaynak koduna ve dökümantasyona giden bir link
 - Botun ne yaptığını anlatan kısa bir özet
 
-[Hesap destek ekibi](/wiki/People/The_Team/Account_support_team) talebinizi gözden geçirecektir. Eğer talebiniz reddedildiyse, nedeni tarafınıza bildirilecektir. Eğer talebiniz onaylandıysa, sizin adınıza bir bot hesabı oluşturulacak ve nasıl kullanılacağı ile ilgili talimatlar size iletilecektir.
+[Hesap destek ekibi](/wiki/People/Account_support_team) talebinizi gözden geçirecektir. Eğer talebiniz reddedildiyse, nedeni tarafınıza bildirilecektir. Eğer talebiniz onaylandıysa, sizin adınıza bir bot hesabı oluşturulacak ve nasıl kullanılacağı ile ilgili talimatlar size iletilecektir.
 
 ## Ek bilgiler
 

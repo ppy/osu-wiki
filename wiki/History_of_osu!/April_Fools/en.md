@@ -14,7 +14,7 @@ tags:
 
 *For the complete history of osu!, see: [History of osu!](/wiki/History_of_osu!)*
 
-Every year, the [osu! team](/wiki/People/The_Team) likes to play pranks on the community on April Fools' day. This article lists all April Fools' day jokes that have been played on the osu! community since 2009.
+Every year, the [osu! team](/wiki/People/osu!_team) likes to play pranks on the community on April Fools' day. This article lists all April Fools' day jokes that have been played on the osu! community since 2009.
 
 ## 2009
 
@@ -42,13 +42,13 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### osu!core
 
-"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore) remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu! later on.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
+"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore) remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Gameplay/Game_modifier) in osu! later on.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ## 2012
 
 ### Flashlight/Hidden mod on website
 
-On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Gameplay/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Gameplay/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod enabled")
 
@@ -105,7 +105,7 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ### osu!coins
 
-*See also: [osu!coin](/wiki/osu!coin)*
+*See also: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
 
 ![](img/2015-osucoins.png "The osu! coins")
 
@@ -133,11 +133,11 @@ Regarding how players might use the Oculus Rift as an input method, the newspost
 
 *Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
 
-However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu)", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service)) on 20 March 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Gameplay/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu)", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service)) on 20 March 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 ### Dancing Auto mod cursor/dancing pippi
 
-"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Gameplay/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit] <!--still needs official official verification-->
+"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Gameplay/Game_modifier/Auto) mod [replays](/wiki/Gameplay/Replay) to circle around the current [hit object](/wiki/Gameplay/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit] <!--still needs official official verification-->
 
 ### Free osu! supporter tags
 
@@ -167,7 +167,7 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 
 ### MillhioreF joins the Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]
+[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Gameplay/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/People/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

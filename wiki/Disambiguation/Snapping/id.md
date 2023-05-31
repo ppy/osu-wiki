@@ -5,7 +5,7 @@
 ## Beatmapping
 
 - [Beat snapping](/wiki/Beatmapping/Snapping), posisi dari sebuah *hit object* pada satu ketukan musik, yang dibagi secara otomatis menggunakan [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)
-- [Grid snapping](/wiki/Grid_snapping), posisi dari sebuah *hit object* pada area bermain
+- [Grid snapping](/wiki/Beatmapping/Grid_snapping), posisi dari sebuah *hit object* pada area bermain
 
 ## Gameplay
 

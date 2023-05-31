@@ -5,7 +5,7 @@ tags:
 
 # Processus de vote sur le contenu
 
-Le contenu soumis à l'examen des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN), de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) est soumis à un processus de vote spécial, comme indiqué ci-dessous.
+Le contenu soumis à l'examen des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN), de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) et de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) est soumis à un processus de vote spécial, comme indiqué ci-dessous.
 
 ## Processus
 
@@ -23,7 +23,7 @@ Le décompte des votes se fait à l'aide d'un système simple en cascade, comme 
 - Si le vote fusionné est de 70% de oui ou plus, le contenu est considéré comme acceptable et peut être utilisé.
 - Si le vote fusionné est inférieur à 70% de oui, le contenu est considéré comme interdit d'utilisation et doit être retiré et modifié immédiatement.
 
-Une fois qu'un résultat a été obtenu, il est **final** et ne peut être contesté par aucun moyen, sauf par l'intervention de l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team).
+Une fois qu'un résultat a été obtenu, il est **final** et ne peut être contesté par aucun moyen, sauf par l'intervention de l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team).
 
 ### Exemples
 

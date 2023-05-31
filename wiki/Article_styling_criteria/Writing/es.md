@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Redacción
 
 *Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
@@ -32,12 +28,6 @@ El registro neutral es el predeterminado en el wiki.
 El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_centre).
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
-
-## Localismos
-
-*Para ejemplos de localismos, véase [Localismo](https://es.wikipedia.org/wiki/Localismo#Español_o_castellano)*
-
-No use localismos, ya que cualquier jugador de cualquier país debería poder entender estos artículos.
 
 ## Capitalización
 
@@ -81,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
+Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
@@ -248,7 +238,7 @@ Estas palabras deben escribirse de la siguiente manera (los espacios deben coinc
 Las abreviaturas, acrónimos e iniciales deben tener su significado escrito en su primera aparición. Otras ocurrencias son opcionales, pero se realizan solo cuando es necesario. Lo siguiente es un ejemplo:
 
 ```markdown
-El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto NC como DT aumentan la velocidad de la música en un 50%. Sin embargo, NC cambiará el tono de la música y agregará un aplauso y un final al ritmo.
+El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto NC como DT aumentan la velocidad de la música en un 50%. Sin embargo, NC cambiará el tono de la música y agregará un clap y un finish al ritmo.
 ```
 
 Las abreviaturas, acrónimos e iniciales deben escribirse con mayúscula, salvo excepción. Los siguientes son ejemplos:
@@ -290,7 +280,7 @@ Los [artículos con registros informales](#registro-del-lenguaje) pueden usar co
 
 ### Números
 
-*Para el formato de los números, véase [Manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)*
+*Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)*
 
 Los [artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
@@ -304,23 +294,21 @@ Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
 
 ### Raya
 
-Consulte la [página de la RAE sobre el uso de las rayas](https://www.rae.es/dpd/raya).
+Consulte el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Al puntuar una oración, use rayas (`—`), no signos menos (`−`). No se deben usar guiones (`‑`) en lugar de rayas.
 
 ### Citas
 
-*Para más información, véase: [Citas](https://es.wikipedia.org/wiki/Comillas#Citas)*
+Consulte el [artículo sobre las comillas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/comillas#3):
 
-Las citas se ponen entre comillas bajas (« i ») y en cursiva si no están en español. Cuando una cita incluye otra cita, la gradación sigue el orden: «... "... '...' ..." ...». Por ejemplo:
+Del «Diccionario panhispánico de dudas»:
 
-```markdown
-«Antonio me dijo: "Vaya 'cacharro' que se ha comprado Julián"»
-```
+> El texto que va dentro de las comillas tiene una puntuación independiente y lleva sus propios signos ortográficos. Por eso, si el enunciado entre comillas es interrogativo o exclamativo, los signos de interrogación y exclamación se escriben dentro de las comillas.
 
 Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizando), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
 
 ### Cita en bloque
 
-Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en inglés, especifíquela entre paréntesis.
+Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.
 
 ```markdown
 > pls disfrutar juego

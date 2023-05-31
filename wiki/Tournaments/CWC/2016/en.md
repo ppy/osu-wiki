@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2016 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -397,7 +397,7 @@ Sunday, 22 May 2016:
 2. **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
+   - There will also be a [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -496,7 +496,7 @@ Sunday, 22 May 2016:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

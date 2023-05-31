@@ -12,7 +12,7 @@ no_native_review: true
 
 ![MR Modsymbol](/wiki/shared/mods/MR.png "Mirror (MR) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -23,7 +23,7 @@ no_native_review: true
 
 ## Beschreibung
 
-Die Mod **Mirror** ist eine [Spielmodifikation](/wiki/Game_modifier) für [osu!mania](/wiki/Game_mode/osu!mania), die versucht, linkshändigen Spielern zu helfen, [Beatmaps](/wiki/Beatmap) zu spielen, die ursprünglich unter Berücksichtigung von Mustern für Rechtshänder erstellt wurden. Die Mod erreicht das durch das Spiegeln der Noten an einer virtuellen Y-Achse, die sich in der Mitte der osu!mania-Tastatur befindet (Spiegel heißt auf Englisch "mirror"). Im Einzelnen sieht die Spiegelung der Noten wie folgt aus:
+Die Mod **Mirror** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier) für [osu!mania](/wiki/Game_mode/osu!mania), die versucht, linkshändigen Spielern zu helfen, [Beatmaps](/wiki/Beatmap) zu spielen, die ursprünglich unter Berücksichtigung von Mustern für Rechtshänder erstellt wurden. Die Mod erreicht das durch das Spiegeln der Noten an einer virtuellen Y-Achse, die sich in der Mitte der osu!mania-Tastatur befindet (Spiegel heißt auf Englisch "mirror"). Im Einzelnen sieht die Spiegelung der Noten wie folgt aus:
 
 ![MR Gameplay](img/MR-comparison-mania.jpg "Vergleich in osu!mania zwischen einem regulären Spiel (links) und einem Spiel, bei dem die Mod Mirror aktiviert ist (rechts)")
 

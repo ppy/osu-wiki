@@ -5,7 +5,7 @@
 Mereka bertanggung jawab untuk:
 
 - Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://pif.ephemeral.ink/tournament-reports)
-- Mengawasi berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/The_Team/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
+- Mengawasi berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
 - Memperbaharui informasi yang terdapat pada laman wiki [Official tournament support](/wiki/Tournaments/Official_support) secara berkala
 
 Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas semakin banyaknya turnamen komunitas yang diselenggarakan seiring waktunya.

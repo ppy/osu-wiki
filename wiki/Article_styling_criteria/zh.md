@@ -469,7 +469,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 **内联风格：**
 
 ```markdown
-[Game Modifiers](/wiki/Game_modifier)
+[Game Modifiers](/wiki/Gameplay/Game_modifier)
 ```
 
 **赋值风格：**

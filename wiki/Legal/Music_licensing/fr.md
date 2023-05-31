@@ -8,7 +8,7 @@ legal: true
 
 osu! n'a jamais eu pour objectif de faire du profit - nous nous efforçons de ne pas faire de publicité et de ne pas tirer profit directement du contenu téléchargé (afin de ne pas l'exploiter), mais nous comprenons que cela n'est souvent pas considéré comme suffisant.
 
-Afin de soutenir au mieux les artistes qui font de ce jeu ce qu'il est, tout excédent de fonds provenant des dons des utilisateurs est réinvesti dans les efforts d'obtention de licences musicales. Nous sommes en train de contacter des artistes (figurant dans les téléchargements des utilisateurs existants ou nouveaux) afin d'obtenir des licences et de les faire connaître dans le cadre de notre programme des [Featured Artists](/wiki/Featured_Artists).
+Afin de soutenir au mieux les artistes qui font de ce jeu ce qu'il est, tout excédent de fonds provenant des dons des utilisateurs est réinvesti dans les efforts d'obtention de licences musicales. Nous sommes en train de contacter des artistes (figurant dans les téléchargements des utilisateurs existants ou nouveaux) afin d'obtenir des licences et de les faire connaître dans le cadre de notre programme des [Featured Artists](/wiki/People/Featured_Artists).
 
 Les artistes souhaitant participer au programme des Featured Artists sont encouragés à contacter osu! pour les négociations de licence.
 

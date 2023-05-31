@@ -84,8 +84,8 @@ osu! se réserve le droit de supprimer le contenu et les soumissions des utilisa
 
 osu! contient un certain nombre d'équipes de volontaires à un moment donné qui proviennent directement de la communauté. Certaines équipes ont besoin de permissions et d'accès supplémentaires afin de faciliter l'aspect communautaire du jeu. Ces équipes sont les suivantes :
 
-- [Les Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-- [Les Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+- [Les Global Moderation Team](/wiki/People/Global_Moderation_Team)
+- [Les Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
 Aucun utilisateur âgé de moins de 18 ans ne peut devenir membre de l'une des équipes énumérées ci-dessus.
 

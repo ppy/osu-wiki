@@ -8,7 +8,7 @@
 
 ## 一般的 osu! 支持
 
-对于账号问题，支付问题，封禁询问，比赛查询以及**任何与osu!相关的问题**，请发送邮件至 [accounts@ppy.sh](mailto:accounts@ppy.sh) (账号问题) 或 [osu@ppy.sh](mailto:osu@ppy.sh) (其它问题)来与[账户支持团队](/wiki/People/The_Team/Account_support_team)沟通。
+对于账号问题，支付问题，封禁询问，比赛查询以及**任何与osu!相关的问题**，请发送邮件至 [accounts@ppy.sh](mailto:accounts@ppy.sh) (账号问题) 或 [osu@ppy.sh](mailto:osu@ppy.sh) (其它问题)来与[账户支持团队](/wiki/People/Account_support_team)沟通。
 
 ## 联系 peppy
 

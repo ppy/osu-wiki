@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # Internet Relay Chat
 
 *Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -76,7 +81,7 @@
 В стандарте IRC приводится такая концепция, как режим канала (если кратко — какие действия разрешены различным пользователям). osu!Bancho использует два режима для обозначения статусов:
 
 - Префикс `+` (статус «voice») даётся пользователю, подключившемуся через внешний IRC-клиент;
-- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/The_Team/Global_Moderation_Team) или [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)).
+- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/Global_Moderation_Team) или [NAT](/wiki/People/Nomination_Assessment_Team)).
 
 Если обычный пользователь пользуется клиентом osu! или веб-чатом, у его ника нет префикса.
 

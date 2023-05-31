@@ -42,7 +42,7 @@ osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致
 
 ## 帮助检查或摸图！
 
-osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
+osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
 
 - 找一找，或者在 [Pending 谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
 - 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 的谱面，并且在讨论页面给出你的反馈。
@@ -62,14 +62,14 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 - 浏览 [Tournaments](https://osu.ppy.sh/community/forums/55) 板块。比赛需要投入大量时间精力，一丝不苟的准备。有些时候你也可以加入，作为旁观者裁判来提供帮助。
 - 看看 [Development](https://osu.ppy.sh/community/forums/2) 板块的近况，这里是大多数专业认真项目聚集且实现的地方。
-  - 加入 [osu!dev Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
+  - 加入 [osu! Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
 - 加入一个[谱面项目](https://osu.ppy.sh/community/forums/53)，享受与他人协作所碰撞出的欢乐火花！
 - 自己开始一个新项目，或者加入其他人的项目！无论是带回来 dancing pippi，亦或是为 osu! 做点很酷的新东西，一切都没有问题！
   - 看看[人气项目列表](/wiki/Community/Projects)。
 
 ## 为 osu! 的未来添砖加瓦
 
-从 2017 年开始，[osu! 团队](/wiki/People/The_Team)的主要精力就转移到了 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
+从 2017 年开始，[osu! 团队](/wiki/People/osu!_team)的主要精力就转移到了 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
 
 - 为 [osu!(lazer)](https://github.com/ppy/osu) 项目作出贡献。新版本的 osu! 有很多新东西需要加入，而你可以帮助实现这个目标！
 - 让[网站](https://github.com/ppy/osu-web)越来越好。

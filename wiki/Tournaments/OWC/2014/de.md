@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2014 logo](img/logo.png)
 
-Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
+Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/osu!_team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
 
 ## Turnierzeitplan
 

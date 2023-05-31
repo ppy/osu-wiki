@@ -2,7 +2,7 @@
 
 ## January
 
-The entire [performance points (pp)](/wiki/Performance_points) system was completely disabled for maintenance on 20 January 2014 due to miscalculations that had occurred over the previous few months.[^ranking-maintenance] This disabling was then followed by an announcement on 26 January 2014 that detailed a complete, from-the-ground-up redesign of the pp system that was set live the next day.[^new-perf-ranking][^pp-article] The new system was designed and implemented by [Tom94](https://osu.ppy.sh/users/1857058) and had aimed to base pp scores off of a new "difficulty value" (separate from [star rating](/wiki/Beatmapping/Star_rating)) that was determined for every [beatmap](/wiki/Beatmap) and [mod](/wiki/Game_modifier) combination in the game.[^ranking-maintenance] As a result of this, the old pp system was renamed to "ppv1" and the new system was named "ppv2".
+The entire [performance points (pp)](/wiki/Performance_points) system was completely disabled for maintenance on 20 January 2014 due to miscalculations that had occurred over the previous few months.[^ranking-maintenance] This disabling was then followed by an announcement on 26 January 2014 that detailed a complete, from-the-ground-up redesign of the pp system that was set live the next day.[^new-perf-ranking][^pp-article] The new system was designed and implemented by [Tom94](https://osu.ppy.sh/users/1857058) and had aimed to base pp scores off of a new "difficulty value" (separate from [star rating](/wiki/Beatmap/Star_rating)) that was determined for every [beatmap](/wiki/Beatmap) and [mod](/wiki/Gameplay/Game_modifier) combination in the game.[^ranking-maintenance] As a result of this, the old pp system was renamed to "ppv1" and the new system was named "ppv2".
 
 ## March
 

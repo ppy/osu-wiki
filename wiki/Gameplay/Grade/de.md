@@ -18,7 +18,7 @@ tags:
 
 **Noten** sind eine Reihe an Buchstaben, die die Leistung des Spielers auf einer bestimmten [Beatmap](/wiki/Beatmap) repräsentieren. Sie begleiten die [Gesamtpunktzahl](/wiki/Gameplay/Score) auf der Ergebnisanzeige und tauchen in allen Listen an der Seite von Scores auf.
 
-Von der niedrigsten zur höchsten sind die etwaigen Noten D, C, B, A, S und SS. Silber S und SS Noten sind nur erreichbar, wenn die Spielmodifikationen [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) oder [Fade In](/wiki/Game_modifier/Fade_In) verwendet werden.
+Von der niedrigsten zur höchsten sind die etwaigen Noten D, C, B, A, S und SS. Silber S und SS Noten sind nur erreichbar, wenn die Spielmodifikationen [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) oder [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) verwendet werden.
 
 ## osu!
 

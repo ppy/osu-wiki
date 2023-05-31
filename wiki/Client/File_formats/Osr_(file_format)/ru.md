@@ -39,7 +39,7 @@
 | Integer | Длина сжатых данных реплея (в байтах) |
 | Byte Array | Сжатые данные реплея |
 | Long | Онлайн-идентификатор результата |
-| Double | Дополнительная информация о модах. Присутствует только при включенном моде [Target Practice](/wiki/Game_modifier/Target_Practice) |
+| Double | Дополнительная информация о модах. Присутствует только при включенном моде [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) |
 
 **Дополнительная информация о модах:**
 

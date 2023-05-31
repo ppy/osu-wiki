@@ -12,7 +12,7 @@ tags:
 
 ![Icône du mod CM](/wiki/shared/mods/CM.png "Icône du mod Cinema (CM)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *À ne pas confondre avec [Cinématographie](https://fr.wikipedia.org/wiki/Cinéma).*
 
 ## À propos
@@ -27,7 +27,7 @@ tags:
 
 *Attention : L'activation du mod Cinema entraînera un jeu non classé*
 
-Le mod **Cinema** est un [modificateur de jeu](/wiki/Game_modifier) qui a pour but de permettre aux joueurs de se détendre et de regarder la vidéo ou les storyboards d'une beatmap sans l'apparition d'aucun [objets](/wiki/Hit_object). Cela se traduit par un jeu utilisant le mod [Auto](/wiki/Game_modifier/Auto), mais avec **seulement le fond et le storyboard affichés**.
+Le mod **Cinema** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui a pour but de permettre aux joueurs de se détendre et de regarder la vidéo ou les storyboards d'une beatmap sans l'apparition d'aucun [objets](/wiki/Gameplay/Hit_object). Cela se traduit par un jeu utilisant le mod [Auto](/wiki/Gameplay/Game_modifier/Auto), mais avec **seulement le fond et le storyboard affichés**.
 
 Le mod Cinema étant une variante du mod Auto, les hitsounds causés par les objets seront toujours audibles. Cependant, les éléments de replay et l'écran des résultats seront désactivés, et l'obscurité de l'arrière-plan sera réglée à 0 %.
 

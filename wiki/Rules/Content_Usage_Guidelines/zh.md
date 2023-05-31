@@ -14,7 +14,7 @@ no_native_review: true
 
 ## 音频
 
-我们通过[精选艺术家](/wiki/Featured_Artists)项目为谱师提供了众多授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)上展示的歌曲均已授权免费在 osu! 中使用，绝无移除风险。
+我们通过[精选艺术家](/wiki/People/Featured_Artists)项目为谱师提供了众多授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)上展示的歌曲均已授权免费在 osu! 中使用，绝无移除风险。
 
 在 osu! 的精选艺术家曲库之外找歌的时候，注意作者是否有显式地声明使用条款，这些信息通常可以在曲师的音乐发行平台上（比如 Bandcamp、Soundcloud、Youtube）或他们的个人网站上找到。如果它使用[知识共享许可协议](https://creativecommons.org/about/cclicenses/)或允许非商业使用，那么用这首歌就是安全的。
 

@@ -84,8 +84,8 @@ osu! berhak untuk menghapus Konten dan Kiriman Pengguna tanpa pemberitahuan sebe
 
 osu! memiliki sejumlah tim sukarelawan yang pada setiap waktunya beranggotakan para anggota komunitas yang diangkat secara langsung. Tim tertentu memerlukan izin dan akses yang lebih untuk dapat memfasilitasi berbagai aspek permainan yang berbasis pada komunitas. Tim tersebut adalah sebagai berikut:
 
-- [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-- [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+- [Global Moderation Team](/wiki/People/Global_Moderation_Team)
+- [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
 Tidak ada pengguna di bawah usia 18 tahun yang dibenarkan untuk dapat menjadi anggota dari kedua tim yang tertera di atas.
 

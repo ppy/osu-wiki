@@ -5,19 +5,19 @@ tags:
 
 # 奖章
 
-**奖章**，曾被称为 *成就*，是玩家通过达成某些目标，而获得的展示在玩家主页上的一系列奖牌。当前，玩家可以在这八个分类下获取总计 **280** 枚奖章：[曲包](#曲包)、[实力](#实力)、[毅力](#毅力)、[模组入门](#模组入门)、[隐藏](#隐藏)、[第一期聚光灯](#第一期聚光灯)、[第二期聚光灯](#第二期聚光灯)、[挑战曲包](#挑战曲包)。
+**奖章**，曾被称为 *成就*，是玩家通过达成某些目标，而获得的展示在玩家主页上的一系列奖牌。当前，玩家可以在这八个分类下获取总计 **300** 枚奖章：[曲包](#曲包)、[实力](#实力)、[毅力](#毅力)、[模组入门](#模组入门)、[隐藏](#隐藏)、[第一期聚光灯](#第一期聚光灯)、[第二期聚光灯](#第二期聚光灯)、[挑战曲包](#挑战曲包)。
 
 ## 曲包
 
 **曲包奖章** 需要玩家在完成特定的[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)后获得。玩家需要在曲包中的每一张谱面上，至少完成一个难度。
 
-除非额外说明，所有曲包奖章均需要在 [osu!](/wiki/Game_mode/osu!) 游戏模式下完成。玩家在获取奖章中允许使用[降低难度的模组](/wiki/Game_modifier#降低难度)、[增加难度的模组](/wiki/Game_modifier#增加难度)、[Spun Out 模组](/wiki/Game_modifier/Spun_Out)。
+除非额外说明，所有曲包奖章均需要在 [osu!](/wiki/Game_mode/osu!) 游戏模式下完成。玩家在获取奖章中允许使用[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)、[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)、[Spun Out 模组](/wiki/Gameplay/Game_modifier/Spun_Out)。
 
 需要注意的是，自 [2008 年第一次推行曲包奖章](https://osu.ppy.sh/community/forums/topics/1853)以来，几乎所有 Video Game Packs、Anime Packs、Internet! Packs、Rhythm Game Packs（电子游戏曲包、动画曲包、因特网曲包、音乐节奏游戏曲包）的内容都发生了巨大的变化。有关这些曲包的旧版或原版状态列表，请参阅：[旧版曲包](/wiki/Medals/Legacy_beatmap_packs)。
 
 ## 实力
 
-**实力奖章** 需要玩家在达到某些基于实力的标准后获得，比如需要玩家获得足够多的[连击](/wiki/Beatmapping/Combo)、在[全球表现分排行榜](https://osu.ppy.sh/rankings/osu/performance)上达到一定的名次，或者是在某个固定的[星级](/wiki/Beatmapping/Star_rating)范围内的任何[过审](/wiki/Beatmap/Category#过审-(qualified))，[上架](/wiki/Beatmap/Category#上架-(ranked))、[达标](/wiki/Beatmap/Category#达标-(approved))谱面上，不死通过或者获得[全连](/wiki/Gameplay/Full_combo)。
+**实力奖章** 需要玩家在达到某些基于实力的标准后获得，比如需要玩家获得足够多的[连击](/wiki/Beatmapping/Combo)、在[全球表现分排行榜](https://osu.ppy.sh/rankings/osu/performance)上达到一定的名次，或者是在某个固定的[星级](/wiki/Beatmap/Star_rating)范围内的任何[过审](/wiki/Beatmap/Category#过审-(qualified))，[上架](/wiki/Beatmap/Category#上架-(ranked))、[达标](/wiki/Beatmap/Category#达标-(approved))谱面上，不死通过或者获得[全连](/wiki/Gameplay/Full_combo)。
 
 ## 毅力
 
@@ -25,9 +25,9 @@ tags:
 
 ## 模组入门
 
-*参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
-**模组入门奖章** 需要玩家在游玩任何[过审](/wiki/Beatmap/Category#过审-(qualified))，[上架](/wiki/Beatmap/Category#上架-(ranked))、[达标](/wiki/Beatmap/Category#达标-(approved))谱面时，同时启用对应的[游戏模组 (mod)](/wiki/Game_modifier) 才可获得。这些奖章旨在鼓励新玩家尝试每个游戏模组、探索游戏模组的效果。注意，即使玩家在游玩的同时使用了多个游戏模组，也**不能**在通过后获得*任何*模组入门奖章。
+**模组入门奖章** 需要玩家在游玩任何[过审](/wiki/Beatmap/Category#过审-(qualified))，[上架](/wiki/Beatmap/Category#上架-(ranked))、[达标](/wiki/Beatmap/Category#达标-(approved))谱面时，同时启用对应的[游戏模组 (mod)](/wiki/Gameplay/Game_modifier) 才可获得。这些奖章旨在鼓励新玩家尝试每个游戏模组、探索游戏模组的效果。注意，即使玩家在游玩的同时使用了多个游戏模组，也**不能**在通过后获得*任何*模组入门奖章。
 
 除非额外说明，所有模组入门奖章能在任何[游戏模式](/wiki/Game_mode)中解锁。
 
@@ -45,9 +45,9 @@ tags:
 
 **第一期聚光灯奖章** （月赛奖章）需要玩家完成对应的[第一期聚光灯](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)曲包才可获得。欲解锁此奖章，玩家需要在*任何一个游戏模式的曲包*中，游玩所有谱面，并在第一期聚光灯的排行榜上竞争。玩家允许使用这些游戏模组：
 
-- [降低难度的模组](/wiki/Game_modifier#降低难度)
-- [增加难度的模组](/wiki/Game_modifier#增加难度)
-- [xK](/wiki/Game_modifier/xK)、[Mirror](/wiki/Game_modifier/Mirror)、[Spun Out](/wiki/Game_modifier/Spun_Out)
+- [降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)
+- [增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)
+- [xK](/wiki/Gameplay/Game_modifier/xK)、[Mirror](/wiki/Gameplay/Game_modifier/Mirror)、[Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
 虽然第一期聚光灯（月赛）在 2018 年 4 月被[第二期聚光灯](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)替代并停办，但现在玩家仍旧可以通过游玩第一期聚光灯曲包来获得对应的奖章。
 
@@ -55,15 +55,15 @@ tags:
 
 **第二期聚光灯奖章** （季赛奖章）需要玩家完成对应的[第二期聚光灯](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)曲包才可获得。欲解锁此奖章，玩家需要在*任何一个游戏模式的曲包*中，游玩所有谱面，并在第一期聚光灯的排行榜上竞争。玩家允许使用这些游戏模组：
 
-- [降低难度的模组](/wiki/Game_modifier#降低难度)
-- [增加难度的模组](/wiki/Game_modifier#增加难度)
-- [xK](/wiki/Game_modifier/xK)、[Mirror](/wiki/Game_modifier/Mirror)、[Spun Out](/wiki/Game_modifier/Spun_Out)
+- [降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)
+- [增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)
+- [xK](/wiki/Gameplay/Game_modifier/xK)、[Mirror](/wiki/Gameplay/Game_modifier/Mirror)、[Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
 虽然第二期聚光灯（季赛）在 2020 年初被[当前的（第三期）聚光灯系统](/wiki/Beatmap_Spotlights)替代并停办，但现在玩家仍旧可以通过游玩第二期聚光灯曲包来获得对应的奖章。
 
 ## 挑战曲包
 
-**挑战曲包奖章**，或称为[*技能包奖章*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs)，需要玩家*不使用任何[降低难度](/wiki/Game_modifier#降低难度)或者[特殊](/wiki/Game_modifier#特殊)的难度模组*，并成功通过特定的[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)所有谱面的最高难度后获得。这些曲包经过专业设计，用来测试玩家对游戏各种方面的理解，以及玩家的特定技能水平，例如，是否能轻松应对某个[星级](/wiki/Beatmapping/Star_rating)范围内的谱面。
+**挑战曲包奖章**，或称为[*技能包奖章*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs)，需要玩家*不使用任何[降低难度](/wiki/Gameplay/Game_modifier#降低难度)或者[特殊](/wiki/Gameplay/Game_modifier#特殊)的难度模组*，并成功通过特定的[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)所有谱面的最高难度后获得。这些曲包经过专业设计，用来测试玩家对游戏各种方面的理解，以及玩家的特定技能水平，例如，是否能轻松应对某个[星级](/wiki/Beatmap/Star_rating)范围内的谱面。
 
 除非另外说明，否则玩家必须在 [osu!](/wiki/Game_mode/osu!) 游戏模式中完成谱面，才有资格获得奖章。
 

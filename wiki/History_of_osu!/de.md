@@ -24,5 +24,5 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 - [Geschichte des osu!-Wikis](osu!_wiki)
 - [Geschichte der osu!-Aprilscherze](April_Fools)
 - [Geschichte der Online-Ranglisten](Online_rankings)
-- [Mitarbeiter-Log](/wiki/People/The_Team/Staff_Log)
+- [Mitarbeiter-Log](/wiki/People/Staff_log)
 - [Geschichte der osu!-Turniere](/wiki/Tournaments)

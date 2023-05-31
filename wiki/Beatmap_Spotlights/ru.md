@@ -16,13 +16,13 @@ tags:
 
 **Beatmap Spotlights** (*Spotlights*, жарг. *спотлайт*, в прошлом — ранкинг-чарты) — проект, участники которого регулярно выпускают подборки интересных или значимых [карт](/wiki/Beatmap), выделяющихся своим содержанием или оформлением. После выхода очередной подборки открывается [сезонная лига](#сезоны), где игроки могут соревноваться за право получения [значков для профиля](#призы).
 
-Текущий сезон — зима 2023.
+Текущий сезон — весна 2023.
 
-На странице группы [кураторов Beatmap Spotlight](https://osu.ppy.sh/groups/48) приведён полный список её участников. Чтобы узнать об их обязанностях, см. [соответствующую статью](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
+На странице группы [кураторов Beatmap Spotlight](https://osu.ppy.sh/groups/48) приведён полный список её участников. Чтобы узнать об их обязанностях, см. [соответствующую статью](/wiki/People/Beatmap_Spotlight_Curators).
 
 ## Участие
 
-Чтобы состязаться с другими игроками, скачайте последнюю версию клиента [osu!(lazer)](/wiki/Client/Release_stream/Lazer) со [страницы релизов на GitHub](https://github.com/ppy/osu/releases/latest).
+Чтобы состязаться с другими игроками, [скачайте](https://osu.ppy.sh/home/download) клиент [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 После установки игры и входа в аккаунт выберите вкладку с плейлистами, чтобы попасть в лобби. Комнаты, посвящённые Beatmap Spotlights, можно найти либо по характерному розовому ярлыку над названием, либо с помощью фильтра в правом верхнем углу.
 
@@ -69,14 +69,14 @@ tags:
 
 | Значок | Категория | Положение участников |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Топ 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | Diamond | Топ 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Размер категории Rhythm Incarnate высчитывается вручную в зависимости от общего числа участников и их распределения по остальным категориям. В большинстве случаев он варьируется от 2 до 50 человек.
 
@@ -117,13 +117,13 @@ Beatmap Spotlights — экспериментальный проект, откр
 
 ## История
 
-Первоначальная версия проекта называлась Ranking Charts и была запущена ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) и ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) в октябре 2009 г.[^charts-09-oct] [^charts-09-nov] Основной задачей в то время был выпуск ежемесячных или ежегодных[^charts-10-jan] подборок лучших карт, которые составляли члены [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) и [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team). В сентябре 2011 г. появились чарты для osu!taiko и osu!catch.[^charts-11-per-mode]
+Первоначальная версия проекта называлась Ranking Charts и была запущена ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) и ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) в октябре 2009 г.[^charts-09-oct] [^charts-09-nov] Основной задачей в то время был выпуск ежемесячных или ежегодных[^charts-10-jan] подборок лучших карт, которые составляли члены [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) и [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team). В сентябре 2011 г. появились чарты для osu!taiko и osu!catch.[^charts-11-per-mode]
 
 Проект пережил ряд изменений и нововведений, среди которых были [тематические чарты](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [чарты для определённых модов](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) и [сезонные рейтинги](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Награда в виде [osu!supporter](/wiki/osu!supporter) сперва предназначалась только победителям чартов, но потом её стали выдавать мапперам и лидерам сезонных рейтингов.
 
 Руководство также менялось. В мае 2012 г. проект перешёл под руководство ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602),[^charts-manager-sg] затем его сменили ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] и — позднее — ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389).[^charts-manager-makar] В декабре 2013 г. им на смену пришли ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) и ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128).[^charts-manager-loctav]
 
-Чарты появились в игровом клиенте в январе 2014 г.,[^charts-in-osu-14-jan] а в июне того же года команда [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team) пополнилась известными игроками.[^charts-cat-recruitment-14-jun] Через год, в мае 2015 г., поменялась методика составления чартов: если раньше за них голосовали, то теперь известные участники сообщества (каждый месяц — новые) составляли списки сто̀ящих, по их мнению, карт.[^charts-curated-15-mar] От этой системы отказались в сентябре 2016 г.,[^charts-reverted-16-sep] переложив обязанность выбора карт на плечи [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team).
+Чарты появились в игровом клиенте в январе 2014 г.,[^charts-in-osu-14-jan] а в июне того же года команда [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team) пополнилась известными игроками.[^charts-cat-recruitment-14-jun] Через год, в мае 2015 г., поменялась методика составления чартов: если раньше за них голосовали, то теперь известные участники сообщества (каждый месяц — новые) составляли списки сто̀ящих, по их мнению, карт.[^charts-curated-15-mar] От этой системы отказались в сентябре 2016 г.,[^charts-reverted-16-sep] переложив обязанность выбора карт на плечи [Quality Assurance Team](/wiki/People/Quality_Assurance_Team).
 
 В марте 2017 г. чарты получили современное название — Beatmap Spotlights[^charts-renamed-into-spotlights] — но сохранили суть, разнообразив её дополнительными наградами вроде медалей, а также более существенным процессом презентации карт. Во время внутренних перестановок в Quality Assurance Team проект перешёл под руководство ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) и вновь вернулся к идее отдельной команды, ответственной за выбор карт. В ноябре 2018 г. частота выпуска подборок замедлилась до ежесезонной.[^spotlights-seasonal] В марте 2020 г. проектом занялся ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), и вместе с Kurokami они придумали ему новый формат, а заодно сформировали отдельную команду кураторов.[^spotlights-reworked-20-june]
 

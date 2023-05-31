@@ -27,7 +27,7 @@ Les nouveaux beatmappers ont généralement besoin d'un important travail de mod
 
 Avant d'être proposées au classement, les beatmaps doivent recevoir des messages de [hype](/wiki/Beatmap/Hype) d'au moins cinq utilisateurs différents.
 
-## Nominations {#nominations}
+## Nominations {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-fr.png "Statut du classement de la beatmap affiché sur la page de discussion, avec les barres de progression des hypes et des nominations partiellement remplies.")
@@ -35,7 +35,7 @@ Avant d'être proposées au classement, les beatmaps doivent recevoir des messag
 
 Une **nomination** est un vote d'approbation, qui indique l'éligibilité d'une beatmap pour devenir [classée](/wiki/Beatmap/Category#classée). Elle est attribuée aux beatmaps terminées, jugées de qualité suffisante selon le nominateur. Ces beatmaps doivent au moins suivre les [critères de classement](/wiki/Ranking_Criteria) et avoir 5 [hypes](/wiki/Beatmap/Hype) ou plus.
 
-Les nominations sont données par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, bien que ce ne soit pas leur rôle principal.
+Les nominations sont données par les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, bien que ce ne soit pas leur rôle principal.
 
 Il est recommandé de recevoir des mods avant de demander des nominations aux BN, mais cinq hypes sont le seul pré-requis.
 
@@ -49,9 +49,9 @@ Cette catégorie de beatmap existe pour offrir aux beatmaps une plus grande expo
 
 Les réinitialisations des nominations permettent de s'assurer que les modérateurs, les BN et les membres de la NAT vérifient la version la plus récente d'une beatmap avant qu'elle n'entre dans la file d'attente de classement.
 
-Les nominations peuvent être réinitialisées lorsque le créateur met à jour sa beatmap ou lorsqu'un BN ou un membre de la NAT trouve un problème dans une difficulté nommée. Elles peuvent également être réinitialisées par les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) lorsque la raison est un contenu inapproprié. Si une difficulté est qualifiée lorsque ses nominations sont réinitialisées, elle sera disqualifiée, ce qui la supprimera de la file d'attente de classement.
+Les nominations peuvent être réinitialisées lorsque le créateur met à jour sa beatmap ou lorsqu'un BN ou un membre de la NAT trouve un problème dans une difficulté nommée. Elles peuvent également être réinitialisées par les membres de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) lorsque la raison est un contenu inapproprié. Si une difficulté est qualifiée lorsque ses nominations sont réinitialisées, elle sera disqualifiée, ce qui la supprimera de la file d'attente de classement.
 
-Les BN et les membres de la NAT opposent parfois leur [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) aux difficultés qui, selon eux, présentent des problèmes de qualité sans rapport avec les critères de classement.
+Les BN et les membres de la NAT opposent parfois leur [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) aux difficultés qui, selon eux, présentent des problèmes de qualité sans rapport avec les critères de classement.
 
 ## Classée
 

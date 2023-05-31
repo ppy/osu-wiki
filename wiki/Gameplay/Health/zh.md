@@ -11,7 +11,7 @@ tags:
 
 # 血量
 
-**血量**（HP）是用来判定玩家有没有通过一张[谱面](/wiki/Beatmap)的数值。血量以[血条](/wiki/Client/Interface/Health_bar)的形式显示，并且会在游戏时不断变化。[掉血速度](/wiki/Beatmapping/HP_drain_rate)决定了保持较高血量的难易程度。
+**血量**（HP）是用来判定玩家有没有通过一张[谱面](/wiki/Beatmap)的数值。血量以[血条](/wiki/Client/Interface/Health_bar)的形式显示，并且会在游戏时不断变化。[掉血速度](/wiki/Beatmap/HP_drain_rate)决定了保持较高血量的难易程度。
 
 ## osu!
 

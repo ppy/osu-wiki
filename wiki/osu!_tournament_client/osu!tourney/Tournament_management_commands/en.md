@@ -38,7 +38,7 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp addref <username> [<username>] …` - Adds a referee to the room. A maximum of 8 referees may be added. Only the creator of the room can add a referee.
   - Referees must join the room in-game, or by entering the room's chat channel through `/join #mp_<room_id>` in IRC.
   - Referees can manage the room like the creator, however they cannot add or remove other referees themselves.
-  - The [osu!tourney client](/wiki/osu!tourney) will show the room chat for referees.
+  - The [osu!tourney client](/wiki/osu!_tournament_client/osu!tourney) will show the room chat for referees.
 - `!mp removeref <username> [<username>] …` - Removes a referee from the room. Only the creator of the room can remove a referee.
 - `!mp listrefs` - Lists all referees in the room.
 - `!mp close` - Closes the room.

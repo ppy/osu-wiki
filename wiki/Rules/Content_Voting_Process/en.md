@@ -5,7 +5,7 @@ tags:
 
 # Content voting process
 
-Content submitted to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) and the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) for review undergoes a special voting process as outlined below.
+Content submitted to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) and the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) for review undergoes a special voting process as outlined below.
 
 ## Process
 
@@ -23,7 +23,7 @@ The voting is tallied using a simple cascading system as described below:
 - If the merged vote is 70% yes or above, the content is considered acceptable and is allowed to be used.
 - If the merged vote is below 70% yes, the content is judged to be not allowed for use and must be removed and changed immediately.
 
-Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the [support team](/wiki/People/The_Team/Account_support_team).
+Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the [support team](/wiki/People/Account_support_team).
 
 ### Examples
 

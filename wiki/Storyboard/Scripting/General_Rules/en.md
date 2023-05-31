@@ -31,7 +31,7 @@
 
 ### Layers
 
-- All storyboard sprites are placed below the skin and [hit objects](/wiki/Hit_object).
+- All storyboard sprites are placed below the skin and [hit objects](/wiki/Gameplay/Hit_object).
   - So, even the "highest"(Foreground) layer in the storyboard will always be behind the HP bar, the circles/sliders/spinners, the cursor, etc.
 - There are four Storyboard layers, in increasing order of priority:
   - Background
@@ -52,7 +52,7 @@
 
 The idea behind using a storyboard rather than a video file is **the ability to change dynamically to fit the circumstances of gameplay.** osu! only displays one of the Fail/Pass layers at one time, dependent on the player's performance. These states are referred to as "Fail State" and "Pass State".
 
-States **before the first playtime** (e.g., before the first [circle/slider/spinner](/wiki/Hit_object), not necessarily before the MP3/OGG starts)
+States **before the first playtime** (e.g., before the first [circle/slider/spinner](/wiki/Gameplay/Hit_object), not necessarily before the MP3/OGG starts)
 
 - Always Pass State. Fail layer will never be displayed. It's not recommended you use either Pass or Fail layers at this point in the map, as it's meaningless to say the player is "passing" at this point.
 

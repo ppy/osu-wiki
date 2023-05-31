@@ -7,11 +7,11 @@ Each osu! window is assigned to a slot in the room.
 
 ![Players are assigned to the windows based on their slot in the room](img/Osutourneywindows.png)
 
-The players must occupy the appropriate slots in the room for the client to work properly. More details can be found in the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_usage).
+The players must occupy the appropriate slots in the room for the client to work properly. More details can be found in the [multiplayer usage guide](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 ![osu!tourney control panel](img/Osutourneypanel.png)
 
-The control panel is displayed at the bottom of the client. By default it displays the required naming for rooms to appear in the control panel. More information can be found in the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_usage).
+The control panel is displayed at the bottom of the client. By default it displays the required naming for rooms to appear in the control panel. More information can be found in the [multiplayer usage guide](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 The functionality of each button is described below:
 

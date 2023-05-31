@@ -15,7 +15,7 @@ tags:
 
 **osu!mapping** is a weekly video series created by ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** about the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem. It is hosted on [pishifat's personal YouTube channel](https://www.youtube.com/user/Pishifat), and most people know it as just "pishifat videos" or "pishi videos".
 
-The series has become so well-known in the osu! community that it is a commonly recommended resource to newer mappers. The [osu! team](/wiki/People/The_Team) awarded pishifat the [Community Contributor](/wiki/People/Community_Contributors) badge for "exemplary performance in beatmap construction and education" as thanks for his effort put into this project.
+The series has become so well-known in the osu! community that it is a commonly recommended resource to newer mappers. The [osu! team](/wiki/People/osu!_team) awarded pishifat the [Community Contributor](/wiki/People/Community_Contributors) badge for "exemplary performance in beatmap construction and education" as thanks for his effort put into this project.
 
 osu!mapping's regularly scheduled uploads ended in January 2019, but there are still plans to add to the series later.
 

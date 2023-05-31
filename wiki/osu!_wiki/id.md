@@ -2,7 +2,7 @@
 
 **osu! wiki** adalah basis pengetahuan sumber terbuka yang ditulis dan dikelola oleh [kontributor sukarelawan](https://github.com/ppy/osu-wiki/graphs/contributors). osu! wiki berisi berbagai informasi tentang topik yang terkait dengan osu!, komunitasnya, dan aktivitas serta konsep terkait. Wiki berfungsi sebagai sumber informasi resmi dan sebagai dokumentasi sejarah osu!.
 
-Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
+Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
 
 - [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide)
 - [Pemeliharaan](/wiki/osu!_wiki/Maintenance)
@@ -23,7 +23,7 @@ Terjemahan dalam bahasa yang berbeda tersedia untuk beberapa artikel. Terjemahah
 
 ## Model
 
-osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/People/osu!_wiki_maintainers).
 
 Artikel diformat menggunakan [*GitHub-flavoured Markdown*](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Selain itu, mesin situs web mengimplementasikan fitur khusus yang penting untuk wiki secara keseluruhan, seperti pengalihan, halaman pertama, atau perbaikan pemformatan.
 

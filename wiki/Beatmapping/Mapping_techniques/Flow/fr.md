@@ -28,7 +28,7 @@ Le mouvement linéaire peut également être considéré comme une autre forme d
 
 ### Répétition
 
-La répétition est une autre forme de mouvement naturel. Les patterns comportant des mouvements répétés similaires qui ne diffèrent que légèrement, tels que les [jumps](/wiki/Beatmap/Pattern/Jump) aller-retour ou une série de sliders pairs, sont confortables à jouer car la succession de mouvement suit un chemin familier, ce qui les rend faciles à prévoir. Les patterns répétés peuvent devenir de plus en plus confortables tout au long d'une beatmap pour la même raison.
+La répétition est une autre forme de mouvement naturel. Les patterns comportant des mouvements répétés similaires qui ne diffèrent que légèrement, tels que les [jumps](/wiki/Beatmap/Pattern/osu!/Jump) aller-retour ou une série de sliders pairs, sont confortables à jouer car la succession de mouvement suit un chemin familier, ce qui les rend faciles à prévoir. Les patterns répétés peuvent devenir de plus en plus confortables tout au long d'une beatmap pour la même raison.
 
 ### Implications visuelles
 

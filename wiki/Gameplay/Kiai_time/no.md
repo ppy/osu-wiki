@@ -16,7 +16,7 @@ outdated_translation: true
 
 **Kiai Time** (eller *kiai*) er et begrep gitt for en "spesiell" timing -seksjon for å understreke en del av et [beatmap](/wiki/Beatmap). Spillere kan se om en del av et beatmap har en kiai timing -seksjon hvis de ser ekstra visuelle effekter i bakgrunnen (f.eks. Blinkende beats, flygende stjerner og fontener).
 
-Mens kiai er aktiv, vil alle [treffobjekter](/wiki/Hit_object) blinke på rytmen til [hovedslaget](/wiki/Client/Beatmap_editor/Timing) og stjernene eksploderer fra markøren når en [treffsirkel](/wiki/Hit_object/Hit_circle) er rammet. Ellers faller de fra markøren når en [glidebryter](/wiki/Hit_object/Slider) eller [spinner](/wiki/Hit_object/Spinner) blir fulgt.
+Mens kiai er aktiv, vil alle [treffobjekter](/wiki/Gameplay/Hit_object) blinke på rytmen til [hovedslaget](/wiki/Client/Beatmap_editor/Timing) og stjernene eksploderer fra markøren når en [treffsirkel](/wiki/Gameplay/Hit_object/Hit_circle) er rammet. Ellers faller de fra markøren når en [glidebryter](/wiki/Gameplay/Hit_object/Slider) eller [spinner](/wiki/Gameplay/Hit_object/Spinner) blir fulgt.
 
 ## Beatmapping
 

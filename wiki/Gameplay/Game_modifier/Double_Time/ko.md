@@ -13,8 +13,8 @@ no_native_review: true
 
 ![DT 모드 아이콘](/wiki/shared/mods/DT.png "더블 타임 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 클릭해 주세요.*\
-*관련 모드: [Nightcore](/wiki/Game_modifier/Nightcore)*
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 클릭해 주세요.*\
+*관련 모드: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## 더블 타임 모드
 
@@ -28,13 +28,13 @@ no_native_review: true
 - 기본 단축키: `D`
 - 설명: `빨라아아아아아아아!!`
 - DT를 사용할 수 있는 osu!의 장르 ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- 같은 계열의 모드: [Nightcore](/wiki/Game_modifier/Nightcore)
+- 같은 계열의 모드: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## 상세 설명
 
 *중요: 이 모드는 노래의 속도를 증가시키지만, 노래의 높낮이를 바꾸지 않습니다.*
 
-**더블 타임** 모드는 [비트맵](/wiki/Beatmap)의 속도를 1.5배 증가시킵니다. 또한 노래의 길이를 33% 줄이고 [전체적인 난이도(OD)](/wiki/Beatmapping/Overall_difficulty)와 [체력 감소량(HP)](/wiki/Gameplay/Health)을 높이며 [원이 생기고 사라지기까지 걸리는 시간(AR)](/wiki/Beatmapping/Approach_rate)을 감소시키는 [모드](/wiki/Game_modifier)입니다.
+**더블 타임** 모드는 [비트맵](/wiki/Beatmap)의 속도를 1.5배 증가시킵니다. 또한 노래의 길이를 33% 줄이고 [전체적인 난이도(OD)](/wiki/Beatmap/Overall_difficulty)와 [체력 감소량(HP)](/wiki/Gameplay/Health)을 높이며 [원이 생기고 사라지기까지 걸리는 시간(AR)](/wiki/Beatmap/Approach_rate)을 감소시키는 [모드](/wiki/Gameplay/Game_modifier)입니다.
 
 더블 타임 모드는 [osu!](/wiki/Game_mode/osu!)에서 쉬운 난이도의 맵을 플레이할 때 더 많은 [pp](/wiki/Performance_points)를 얻을 수 있는 가장 좋은 모드로 널리 이용되고 있습니다.
 
@@ -44,7 +44,7 @@ no_native_review: true
 
 ### osu!catch
 
-[osu!catch](/wiki/Game_mode/osu!catch)에서는 [전체적인 난이도](/wiki/Beatmapping/Overall_difficulty) 증가가 없습니다. 따라서 이 모드는 BPM과 [AR](/wiki/Beatmapping/Approach_rate) 둘만 바뀌기 때문에 1.06배의 값어치만 하게 됩니다. (다른 모든 모드의 1.12배와는 반대의 경우가 됩니다.)
+[osu!catch](/wiki/Game_mode/osu!catch)에서는 [전체적인 난이도](/wiki/Beatmap/Overall_difficulty) 증가가 없습니다. 따라서 이 모드는 BPM과 [AR](/wiki/Beatmap/Approach_rate) 둘만 바뀌기 때문에 1.06배의 값어치만 하게 됩니다. (다른 모든 모드의 1.12배와는 반대의 경우가 됩니다.)
 
 비록 이 방식이 하이퍼대시 판정을 많이 좋게 하지만, 과일을 생성하는 것이 어떤 경우에 있어서 거의 잡는 것이 불가능한 하이퍼대시가 필요합니다.
 

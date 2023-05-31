@@ -6,7 +6,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 
 ## osu!Bancho
 
-*Hinweis: dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
+*Hinweis: Dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
 
 *osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für den Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
 
@@ -18,7 +18,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 - Port: `6667`
 - SSL: ausgeschaltet
 - Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
-- Passwort: das Passwort der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc)
+- Passwort: das Passwort aus den [Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api)
 
 *Warnung: Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.*
 
@@ -62,7 +62,7 @@ Alternativ kannst du auch eine andere Serveradresse eingeben, `cho.ppy.sh` (du w
 
 Versuche das Folgende:
 
-1. Vergewissere dich, dass du das richtige Passwort von der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc) benutzt.
+1. Vergewissere dich, dass du das richtige Passwort aus den [Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api) benutzt.
 2. Wenn dein Benutzername Leerzeichen enthält, ersetze diese bitte mit Unterstrichen (z. B. wird `Dieser Benutzername` zu `Dieser_Benutzername`).
 
 ### Kann ich einen anderen Benutzernamen wählen?
@@ -78,7 +78,7 @@ Tippe die ersten paar Buchstaben des Benutzernamens ein und drücke dann `Tab`, 
 Der IRC-Standard hat ein Channelmoduskonzept oder Aktionen, die jeder Nutzer ausführen kann. In osu!Bancho werden zwei Modi für spezielle Gruppen von Benutzern verwendet:
 
 - `+` oder "voice status": der Benutzer ist via einem externen IRC-Client verbunden
-- `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) oder [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/Global_Moderation_Team) oder [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein Präfix.
 

@@ -5,7 +5,7 @@ outdated_since: bb4dac3fcde3b8fdc28a3d2bae7b9d1d60062144
 
 # Project Loved
 
-**Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/Project_Loved_Team).
 
 ## Mengkategorikan sebuah beatmap menjadi Loved
 
@@ -31,7 +31,7 @@ Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang
 - Pembuat beatmap tidak dalam status *banned* atau sedang dibatasi
 - Setidaknya satu tingkat kesulitan bisa diselesaikan
 - Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!)
-- Setiap tingkat kesulitan yang dinominasikan memiliki [*drain time*](/wiki/Gameplay/Drain_time) yang sekurang-kurangnya 30 detik
+- Setiap tingkat kesulitan yang dinominasikan memiliki [*drain time*](/wiki/Beatmap/Drain_time) yang sekurang-kurangnya 30 detik
 
 Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wiki/Beatmap/Category#work-in-progress-dan-pending) memenuhi kriteria ini, hanya sedikit yang masuk ke dalam kategori Loved karena persyaratan nominasi dan pemilihan yang lebih selektif.
 

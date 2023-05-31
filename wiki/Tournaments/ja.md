@@ -13,8 +13,6 @@ osu!トーナメント専用のセクションです。トーナメントには�
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cupは、国別に行われる4対4のチーム対抗トーナメントで、ダブルエリミネーションルールで行われます。国際的なイベントで、通常は年に1回、世界中のosu!コミュニティが協力して大会を開催し、競争心を高めています。
-
 | 名前 | 開始 | 終了 | ![ゴールドクラウン][GCrown] | ![シルバークラウン][SCrown] | ![ブロンズクラウン][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: 台湾 | ::{ flag=NL }:: オランダ | ::{ flag=KR }:: 韓国 |
@@ -511,7 +509,7 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 ## 参照
 
 - [osu!トーナメントに参加した国のリスト](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (トーナメント配信に使用されるクライアント)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (トーナメント配信に使用されるクライアント)
 
 [GCrown]: /wiki/shared/crown-gold.png "1位"
 [SCrown]: /wiki/shared/crown-silver.png "2位"

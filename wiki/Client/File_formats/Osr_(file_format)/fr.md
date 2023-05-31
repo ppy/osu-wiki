@@ -39,7 +39,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Entier (Integer) | Taille en octets des données du replay compressé |
 | Tableau d'octets (Byte Array) | Données du replay compressées |
 | Long (Long) | ID du score en ligne |
-| Double (Double) | Informations supplémentaires sur le mod. Présent uniquement si [Target Practice](/wiki/Game_modifier/Target_Practice) est activé. |
+| Double (Double) | Informations supplémentaires sur le mod. Présent uniquement si [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) est activé. |
 
 **Informations supplémentaires sur le mod :**
 

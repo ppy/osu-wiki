@@ -9,7 +9,7 @@ no_native_review: true
 
 osu! nunca visou lucrar – nos esforçamos para não fazer publicidade ou lucrar diretamente do conteúdo publicado (visando não explorar o mesmo), porém entendemos que isso frequentemente não é considerado o suficiente.
 
-Visando fazer nosso melhor para apoiar os artistas que fazem desse jogo o que é, qualquer excesso de fundo advindo de doações de usuários é reinvestido em esforços de licenciamento musical. Estamos em um processo contínuo de procurar artistas (apresentados em postagens de usuários, tanto existentes como novas) para obter licenciamento e difundir consciência sobre nosso programa de [Artistas em Destaque](/wiki/Featured_Artists).
+Visando fazer nosso melhor para apoiar os artistas que fazem desse jogo o que é, qualquer excesso de fundo advindo de doações de usuários é reinvestido em esforços de licenciamento musical. Estamos em um processo contínuo de procurar artistas (apresentados em postagens de usuários, tanto existentes como novas) para obter licenciamento e difundir consciência sobre nosso programa de [Artistas em Destaque](/wiki/People/Featured_Artists).
 
 Artistas interessados em juntar-se ao programa de Artistas em Destaque podem contatar osu! para negociar o licenciamento.
 

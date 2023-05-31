@@ -6,7 +6,7 @@ no_native_review: true
 
 **EZ** puede tener diferentes significados:
 
-- El [mod Easy](/wiki/Game_modifier/Easy)
+- El [mod Easy](/wiki/Gameplay/Game_modifier/Easy)
 - La [dificultad](/wiki/Beatmap/Difficulty) de un beatmap:
   - ![](/wiki/shared/diff/easy-m.png?20211215) EZ, para osu!mania.
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, para osu!.

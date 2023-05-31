@@ -72,7 +72,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1641533) created by [someone y
 
 ### Down - Yamangomcpro6th
 
-Aaaaaaaaand check out [this map](https://osu.ppy.sh/users/9858638) hosted by [past](https://osu.ppy.sh/users/9858638) (previously known as Yamang)!
+Aaaaaaaaand check out [this map](https://osu.ppy.sh/beatmapsets/1715340) hosted by [past](https://osu.ppy.sh/users/9858638) (previously known as Yamang)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/350/Songs/Down%20-%20Yamangomcpro6th.mp3">

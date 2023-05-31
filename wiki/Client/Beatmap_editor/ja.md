@@ -17,7 +17,7 @@
 
 ## Compose
 
-[Compose](/wiki/Client/Beatmap_editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Hit_object)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
+[Compose](/wiki/Client/Beatmap_editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Gameplay/Hit_object)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
 
 ## Design
 

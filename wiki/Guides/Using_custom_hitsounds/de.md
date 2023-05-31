@@ -17,7 +17,7 @@ Wenn du deine gewünschten Tondateien gefunden hast, verschiebe sie in den Ordne
 3. Navigiere zu deiner Beatmap und öffne sie.
 4. Klicke auf `Datei` (die Option am linken Ende des Navigationsmenüs).
 5. Klicke auf `Songs-Ordner öffnen`.
-6. Füge deinen Dateien hier ein.
+6. Füge deine Dateien hier ein.
 
 Falls du osu! auf macOS ausführst, musst du vielleicht eine leicht andere Vorgehensweise wählen:
 
@@ -39,15 +39,15 @@ Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<ton>` ist ein
 
 ![](img/beatmap-folder-resources.png "Ein typischer Beatmap-Ordner, der eigene Hitsounds enthält")
 
-Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem Sampleset "Soft" und der Unterteilung "hitclap" abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das Sampleset "Normal" verwendest.
+Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Gameplay/Hit_object) mit dem Sampleset "Soft" und der Unterteilung "hitclap" abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das Sampleset "Normal" verwendest.
 
 ## Eigene Hitsounds anwenden
 
 ![](img/adding-custom-hitsounds.png "osu! anweisen, wie eigene Hitsounds zu verwenden sind")
 
-Damit osu! deine eigenen Hitsounds korrekt abspielt, stelle sicher dass du die zweite Option, "Custom 1", wie im oberen Bild gezeigt ausgewählt hast. Standardmäßig werden eigene Samplesets als `<SS>:C1` abgekürzt, wobei `<SS>` der erste Buchstabe der Sampleset-Gruppe ist. Also entweder N (Normal), S (Soft) oder D (Drum).
+Damit osu! deine eigenen Hitsounds korrekt abspielt, stelle sicher, dass du die zweite Option ("Custom 1") wie im oberen Bild gezeigt ausgewählt hast. Standardmäßig werden eigene Samplesets als `<SS>:C1` abgekürzt, wobei `<SS>` der erste Buchstabe der Sampleset-Gruppe ist. Also entweder N (Normal), S (Soft) oder D (Drum).
 
-Beachte, dass du  nicht jeden Ton im Sampleset mit einem eigenen Ton ersetzen musst. Im ersten Bild wird dir auffallen, dass keine Datei namens `soft-slidertick.wav` vorhanden ist. In diesem Fall wird osu den Standardton für alle regulären Slidertick-Treffer verwenden, wenn das Sampleset "Soft" verwendet wird.
+Beachte, dass du nicht jeden Ton im Sampleset mit einem eigenen Ton ersetzen musst. Im ersten Bild wird dir auffallen, dass keine Datei namens `soft-slidertick.wav` vorhanden ist. In diesem Fall wird osu! den Standardton für alle regulären Slidertick-Treffer verwenden, wenn das Sampleset "Soft" verwendet wird.
 
 ## Mit mehreren eigenen Hitsound-Sets arbeiten
 
@@ -65,4 +65,4 @@ Wenn das Sampleset eines geerbten Timing-Points wie oben gezeigt auf `S:C2` gese
 
 ## Externe Quellen
 
-- [*how to add custom hitsound?*-Forenantwort](https://osu.ppy.sh/community/forums/posts/3215699) von [neonat](https://osu.ppy.sh/users/1561995)
+- [Forenantwort *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) von [neonat](https://osu.ppy.sh/users/1561995)

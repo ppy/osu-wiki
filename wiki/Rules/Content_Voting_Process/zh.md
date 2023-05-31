@@ -6,7 +6,7 @@ no_native_review: true
 
 # 内容投票流程
 
-对于有争议的内容，[谱面审查员 (BN)](/wiki/People/The_Team/Beatmap_Nominators)、[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team)将会审查，并按照如下所述的特殊投票过程投票，从而决定内容是否适合在社区内使用。
+对于有争议的内容，[谱面审查员 (BN)](/wiki/People/Beatmap_Nominators)、[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team)将会审查，并按照如下所述的特殊投票过程投票，从而决定内容是否适合在社区内使用。
 
 ## 流程
 
@@ -24,7 +24,7 @@ no_native_review: true
 - 如果 BN 加入投票后，赞成票高于 70%，则这个有争议的内容可以正常使用。
 - 如果 BN 加入投票后，赞成票不足 70%，则这个有争议的内容将禁止使用，并需要尽快撤换。
 
-一旦**最终**结果确定，除了[支持团队](/wiki/People/The_Team/Account_support_team)之外，不得修改。
+一旦**最终**结果确定，除了[支持团队](/wiki/People/Account_support_team)之外，不得修改。
 
 ### 例子
 

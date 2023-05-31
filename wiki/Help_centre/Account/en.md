@@ -19,9 +19,9 @@ tags:
 
 Everything related to your osu! account. Read below to find out if there's a suitable solution to your issue.
 
-## Supporter {#supporter}
+## Supporter {id=supporter}
 
-### I've paid for a supporter tag, but still have not received it! {#missing-supporter}
+### I've paid for a supporter tag, but still have not received it! {id=missing-supporter}
 
 **Depending on what payment service you used (PayPal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
@@ -31,9 +31,9 @@ If it has been over 24 hours and you still do not have your supporter tag, pleas
 
 Make sure to include any receipts that you received during the process (PayPal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
 
-## Restriction {#restriction}
+## Restriction {id=restriction}
 
-### What is "restricted" mode, exactly? {#what-is-restriction}
+### What is "restricted" mode, exactly? {id=what-is-restriction}
 
 **A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
@@ -43,17 +43,17 @@ In situations where we are absolutely assured that foul play or wrongdoing has t
 
 Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for more information on account restrictions and the appeal process.
 
-## Tournament bans {#tournament-bans}
+## Tournament bans {id=tournament-bans}
 
-### What is a tournament ban? {#what-is-tournament-ban}
+### What is a tournament ban? {id=what-is-tournament-ban}
 
 Tournament bans are as the name describes — a ban from participation in all officially supported tournaments.
 
 Refer to the [Tournament bans](/wiki/Help_centre/Tournament_bans) article for more information on the topic.
 
-## Sign-in {#sign-in}
+## Sign-in {id=sign-in}
 
-### I've forgotten my username and password! {#lost-access}
+### I've forgotten my username and password! {id=lost-access}
 
 **Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
@@ -66,7 +66,7 @@ Good information to include in this email would be:
 - The last date you can remember being able to access your account normally
 - Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
 
-### My account has been stolen! {#account-theft}
+### My account has been stolen! {id=account-theft}
 
 **Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email is still valid.**
 
@@ -78,23 +78,23 @@ Emailing from your registration address is a huge bonus here, as well as any oth
 
 Please do not include replay or score data in your ticket — we cannot use this to verify your ownership of the account.
 
-### What is this 'Bancho authentication error' I keep receiving? {#authentication-error}
+### What is this 'Bancho authentication error' I keep receiving? {id=authentication-error}
 
 **This typically happens when there are network issues between you and our servers.**
 
 There are a few things you can try to resolve this issue:
 
-#### Have you entered your password correctly? {#authentication-wrong-password}
+#### Have you entered your password correctly? {id=authentication-wrong-password}
 
 If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/home/password-reset) to recover access to your account.
 
-#### Are you using any proxy servers or VPNs? {#authentication-vpn}
+#### Are you using any proxy servers or VPNs? {id=authentication-vpn}
 
 **Disabling these before attempting to connect again will likely fix your issue.**
 
 Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
 
-### I'm still getting the error! {#authentication-unknown-cause}
+### I'm still getting the error! {id=authentication-unknown-cause}
 
 **We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
 
@@ -102,7 +102,7 @@ For information on how to get a `network.log` file to send to us, see [Help Cent
 
 Rarely, you might need to contact your Internet Service Provider (ISP) to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
 
-### The website is telling me that I have tried to sign in too many times! {#sign-in-throttling}
+### The website is telling me that I have tried to sign in too many times! {id=sign-in-throttling}
 
 **This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
 
@@ -110,7 +110,7 @@ If this happens to you, simply wait for a while and try to sign in a little late
 
 A couple of hours, at the absolute maximum, will clear the status for most people and allow them to sign in again.
 
-### I'm not receiving any emails from osu!/I forgot my email address! {#email-issues}
+### I'm not receiving any emails from osu!/I forgot my email address! {id=email-issues}
 
 **There might be an issue with your account's current email address.**
 
@@ -128,9 +128,9 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `sbcglobal.net`
 - `t-online.de`
 
-## Name Changes {#name-changes}
+## Name Changes {id=name-changes}
 
-### Can I change my account's username? {#change-username}
+### Can I change my account's username? {id=change-username}
 
 **Yes, absolutely!**
 
@@ -142,7 +142,7 @@ Please note that usernames must abide by our [community rules](/wiki/Rules#commu
 
 If you are only after minor capitalisation or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
-### Can I take another player's username? {#take-existing-username}
+### Can I take another player's username? {id=take-existing-username}
 
 **Yes, but only under certain circumstances.**
 
@@ -152,7 +152,7 @@ If that player **does** have any plays across all game modes, a [non-linear func
 
 Also, usernames of players with [ranked beatmaps](/wiki/Beatmap/Category#ranked) or [profile badges](/wiki/Community/Profile_badge) cannot be taken.
 
-### Is it possible to change my name back or revert to my old username? {#revert-username}
+### Is it possible to change my name back or revert to my old username? {id=revert-username}
 
 **Yes, but only under certain circumstances.**
 
@@ -162,7 +162,7 @@ Changes to any other previous names must be [purchased via the store](https://os
 
 Username reverts are limited to one per year, so please consider carefully before requesting!
 
-### My username has been changed back/reverted! {#why-username-reverted}
+### My username has been changed back/reverted! {id=why-username-reverted}
 
 **We only force username reverts for usernames we deem inappropriate or abusive.**
 
@@ -170,15 +170,15 @@ If you find your recent name change has been undone, it may be because the usern
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
-### Can I remove my previous usernames/delete username history? {#hide-username-history}
+### Can I remove my previous usernames/delete username history? {id=hide-username-history}
 
 **Under certain circumstances.**
 
 Your profile will show all your previous purchased name changes, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request it removed.
 
-## Other issues {#other}
+## Other issues {id=other}
 
-### The flag/country on my account profile is wrong! {#wrong-flag}
+### The flag/country on my account profile is wrong! {id=wrong-flag}
 
 **Unfortunately, we cannot change this for you.**
 
@@ -188,7 +188,7 @@ In the past, we offered the ability for users to change their account country by
 
 Please understand that we cannot adjust this under any circumstances, regardless of people you've heard of or might know who have had it done before.
 
-### Can I make more than one account? {#no-multiaccounting}
+### Can I make more than one account? {id=no-multiaccounting}
 
 **Unfortunately, no, you cannot.**
 
@@ -200,7 +200,7 @@ In osu!, we are very much against users having multiple accounts, and we enforce
 
 If you currently have more than one account, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to get things sorted out.
 
-### Is it possible to start over or have my account's statistics wiped? {#statistics-reset}
+### Is it possible to start over or have my account's statistics wiped? {id=statistics-reset}
 
 **Not at the moment.**
 
@@ -208,14 +208,14 @@ We are considering extra 'score reset' purchases from the osu!store for the trul
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
 
-### Can I delete my account? {#account-deletion}
+### Can I delete my account? {id=account-deletion}
 
 *For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*\
 *Caution: Account deletion is permanent, and therefore cannot be undone!*
 
 Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
 
-### I no longer want to keep playing, but I don't want my account to be deleted! {#account-lock}
+### I no longer want to keep playing, but I don't want my account to be deleted! {id=account-lock}
 
 Any user can request their account to be **locked** by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The account's associated password will then be scrambled and its email address blanked out, locking the user out of their account. There is a one-week cooldown after an account is locked in this manner before the user can request it unlocked in order to prevent abuse.
 
@@ -227,7 +227,7 @@ To unlock the account again, send an email to [accounts@ppy.sh](mailto:accounts@
 
 You may lock yourself out of your account by changing your email and password to random words or letters you will never remember and logging out. This is essentially the same process as locking. Once you are ready to come back into the community, send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting a password reset. Make sure you use the email address previously used by your account.
 
-### Can I play on a computer that another osu! user has used before? {#shared-pc}
+### Can I play on a computer that another osu! user has used before? {id=shared-pc}
 
 **Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
 
@@ -235,7 +235,7 @@ You may lock yourself out of your account by changing your email and password to
 
 If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
 
-### Can I get a list of all maps I've played or downloaded? {#all-played-beatmaps}
+### Can I get a list of all maps I've played or downloaded? {id=all-played-beatmaps}
 
 **You can see all maps you've played on the website.**
 

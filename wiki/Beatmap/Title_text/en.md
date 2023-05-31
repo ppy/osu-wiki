@@ -16,7 +16,7 @@ If used correctly by the map's creator, title text can add a nice effect to the 
 
 ## Changing Title Text
 
-Only members of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
+Only members of the [NAT](/wiki/People/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
 
 When you get in contact with one of these people, you'll need to provide them a string that describes the content and formatting of the title text. osu! requires this string to be written in a very particular way, as specified in the following section.
 

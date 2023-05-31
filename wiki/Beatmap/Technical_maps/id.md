@@ -12,7 +12,7 @@ tags:
 
 *Perhatian: Untuk keperluan artikel ini, istilah "tech map" akan digunakan sebagai istilah umum yang mencakup semua definisi ini.*
 
-**Technical maps** (atau biasa disebut "tech map") merupakan istilah yang tidak jelas artinya, definisi yang dibuat dan disepakati bersama oleh komunitas osu!. Tergantung dari pengguna, "tech map" bisa seluas [beatmap](/wiki/Beatmap) yang hanya berisi non-generik beatmap [patterns](/wiki/Beatmap/Pattern), atau spesifik beatmap yang padat pada bagian tertentu di [object](/wiki/Hit_object) dan terdapat bentuk [slider](/wiki/Hit_object/Slider) aneh yang dapat mengubah kecepatan dengan cepat dan drastis (seringkali dengan intensitas tinggi).
+**Technical maps** (atau biasa disebut "tech map") merupakan istilah yang tidak jelas artinya, definisi yang dibuat dan disepakati bersama oleh komunitas osu!. Tergantung dari pengguna, "tech map" bisa seluas [beatmap](/wiki/Beatmap) yang hanya berisi non-generik beatmap [patterns](/wiki/Beatmap/Pattern), atau spesifik beatmap yang padat pada bagian tertentu di [object](/wiki/Gameplay/Hit_object) dan terdapat bentuk [slider](/wiki/Gameplay/Hit_object/Slider) aneh yang dapat mengubah kecepatan dengan cepat dan drastis (seringkali dengan intensitas tinggi).
 
 Tech maps paling sering dikaitkan dengan aliran lagu yang menawarkan suara yang kompleks dan bergerak cepat (contohnya, drum-and-bass, dubstep, dan drumstep) karena sering kali memungkinkan pembuat map untuk mengeksplorasi setiap suara secara detail untuk keuntungan beatmap. Meskipun jenis musik ini tidak secara eksplisit diperlukan.
 
@@ -33,7 +33,7 @@ Karena istilah "tech map" menyebar sangat luas, terdapat beberapa perbedaan yang
 - Bentuk slider yang aneh
 - Perubahan cepat dan tajam pada slider speed
 - Intensitas tinggi secara keseluruhan
-  - Jumlah objek yang sangat padat pada sebagian besar map (tidak termasuk [streams](/wiki/Beatmap/Pattern/Stream))
+  - Jumlah objek yang sangat padat pada sebagian besar map (tidak termasuk [streams](/wiki/Beatmap/Pattern/osu!/Stream))
 
 ![Non-generik beatmap pattern (Nhelv)](img/nongeneric_beatmap_pattern.jpg "Non-generik beatmap pattern")
 

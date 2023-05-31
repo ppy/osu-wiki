@@ -17,7 +17,7 @@ tags:
 ![](img/kiai-time-taiko-gameplay.png "Kiai-Zeit in osu!taiko: begeisterte pippidon und ein violett gefärbtes Förderband")
 :::
 
-**Kiai-Zeit** (oder *Kiai*) ist eine Reihe von markanten visuellen Effekten, die einen Teil einer [Beatmap](/wiki/Beatmap) betonen. Sie sind von Go-Go Time aus der Spiele-Reihe [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin) inspiriert[^taiko-roots]. Kiai-Abschnitte werden durch sprühende Sternfontänen, vom Cursor herunterfallende Sterne und [Hit-Objekte](/wiki/Hit_object), die im Takt der  [BPM](/wiki/Beatmapping/Beats_per_minute) aufleuchten, markiert. Ähnliche Effekte, wie beispielsweise häufiges seitliches Aufblitzen und Sternfontänen sind auch im [Hauptmenü](/wiki/Client/Interface#hauptmenü) sichtbar.
+**Kiai-Zeit** (oder *Kiai*) ist eine Reihe von markanten visuellen Effekten, die einen Teil einer [Beatmap](/wiki/Beatmap) betonen. Sie sind von Go-Go Time aus der Spiele-Reihe [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin) inspiriert[^taiko-roots]. Kiai-Abschnitte werden durch sprühende Sternfontänen, vom Cursor herunterfallende Sterne und [Hit-Objekte](/wiki/Gameplay/Hit_object), die im Takt der  [BPM](/wiki/Music_theory/Tempo) aufleuchten, markiert. Ähnliche Effekte, wie beispielsweise häufiges seitliches Aufblitzen und Sternfontänen sind auch im [Hauptmenü](/wiki/Client/Interface#hauptmenü) sichtbar.
 
 Während die Kiai-Zeit keinen Einfluss auf die Spielmechanik von osu!, osu!catch oder osu!mania hat, bringt sie in [osu!taiko](/wiki/Game_mode/osu!taiko) 20 % mehr [Score](/wiki/Gameplay/Score).
 

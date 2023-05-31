@@ -1,6 +1,6 @@
 # 准确率
 
-准确率（也称准确度）用于刻画玩家打击[物件](/wiki/Hit_object)的时间与标准时间有多接近，亦即打得多准。玩家有三种准确度：谱面的准确度，取决于谱面的物件得分；总准确度，它是为让更好的得分更加突出而权衡的；[表现分（pp）](/wiki/Performance_points)准确度，取决于提交的得分的准确度。
+准确率（也称准确度）用于刻画玩家打击[物件](/wiki/Gameplay/Hit_object)的时间与标准时间有多接近，亦即打得多准。玩家有三种准确度：谱面的准确度，取决于谱面的物件得分；总准确度，它是为让更好的得分更加突出而权衡的；[表现分（pp）](/wiki/Performance_points)准确度，取决于提交的得分的准确度。
 
 ## 各模式下的准确率计算方法
 
@@ -68,11 +68,11 @@
 
 光标悬停在表现图上方时， 将显示一个包含 `偏差（Error）` 和 `不稳定度（Unstable Rate）` 评估的提示框。
 
-由于 [DT](/wiki/Game_modifier/Double_Time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_Time) (Half Time) 模组的实现方法，偏差和不稳定度的值将会乘上谱面的速度变化率。当使用 DT 模组时，要获得合理的不稳定度，将结果除以 1.5 即可。类似的，当使用 HT 模组时将结果乘 1.33 即可。
+由于 [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) 和 [HT](/wiki/Gameplay/Game_modifier/Half_Time) (Half Time) 模组的实现方法，偏差和不稳定度的值将会乘上谱面的速度变化率。当使用 DT 模组时，要获得合理的不稳定度，将结果除以 1.5 即可。类似的，当使用 HT 模组时将结果乘 1.33 即可。
 
 #### 偏差（Error）
 
-`Error` 将永远显示两个值，代表提前击打和延迟击打时间的平均值。谱面的[总体难度](/wiki/Beatmapping/Overall_difficulty)越高，想得到好的分数的偏差就得越小。
+`Error` 将永远显示两个值，代表提前击打和延迟击打时间的平均值。谱面的[总体难度](/wiki/Beatmap/Overall_difficulty)越高，想得到好的分数的偏差就得越小。
 
 #### 不稳定度（Unstable rate）
 

@@ -14,7 +14,7 @@ Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian a
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
-Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti input lainnya yang lebih umum. Terdapat banyak cara untuk dapat bermain osu! sebagaimana yang dapat dilihat pada laman [Play Style](/wiki/Play_style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved telah terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
+Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti input lainnya yang lebih umum. Terdapat banyak cara untuk dapat bermain osu! sebagaimana yang dapat dilihat pada laman [Play Style](/wiki/Gameplay/Play_style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved telah terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
 
 ### Dasar-dasar permainan
 
@@ -56,7 +56,7 @@ Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pa
 
 Lingkaran berwarna putih yang berada pada sisi luar spinner mengindikasikan seberapa banyak sisa waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
-Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit *(spins per minute/SPM)* dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
+Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit *(spins per minute/SPM)* dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Gameplay/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
 
 #### Tampilan Antarmuka Permainan
 
@@ -76,7 +76,7 @@ Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut:
 
 Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
 
-Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu hanya perlu untuk menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [AutoPilot](/wiki/Game_modifier/Autopilot), kamu hanya perlu untuk memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. Spinner pada mod AutoPilot akan berputar dengan kecepatan yang sama dengan kecepatan spinner pada mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Gameplay/Game_modifier/Relax), kamu hanya perlu untuk menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [AutoPilot](/wiki/Gameplay/Game_modifier/Autopilot), kamu hanya perlu untuk memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. Spinner pada mod AutoPilot akan berputar dengan kecepatan yang sama dengan kecepatan spinner pada mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ## Mode-Mode Permainan Lainnya
 
@@ -149,7 +149,7 @@ Secara *default*, input-input yang terdaftar untuk osu!taiko adalah sebagai beri
 
 Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!taiko.
 
-Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
+Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Gameplay/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
 Di samping itu, kamu juga dapat menggunakan controller *TaTaCon* yang kompatibel dengan permainan *Taiko no Tatsujin* atau *Taiko: Drum Master* untuk bermain osu!taiko.
 
@@ -193,7 +193,7 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap droplet, 
 
 Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner normal seperti yang pada umumnya dijumpai, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut sebanyak dan seefisien mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
 
-Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi ulang health bar yang kamu miliki. Apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
+Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi ulang health bar yang kamu miliki. Apabila kamu menggunakan mod [Auto](/wiki/Gameplay/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
 
 ##### Hyperfruit
 
@@ -207,7 +207,7 @@ Sesaat setelah kamu menangkap buah hyperfruit, kamu akan memasuki mode *hyperdas
 
 Secara *default*, kamu dapat mengarahkan pergerakan catcher kamu dengan menggunakan arah panah kiri `<-`(L) dan kanan `->`(R) pada keyboard. Menekan `Shift` akan memungkinkan kamu untuk melakukan *dash* yang meningkatkan kecepatan pergerakan catcher hingga dua kali lipat.
 
-Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax). Pada mod ini, alih-alih mengikuti input dari keyboard posisi catcher milikmu akan berpindah seiring dengan pergerakan kursor mouse yang kamu buat.
+Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Gameplay/Game_modifier/Relax). Pada mod ini, alih-alih mengikuti input dari keyboard posisi catcher milikmu akan berpindah seiring dengan pergerakan kursor mouse yang kamu buat.
 
 ### Apa itu osu!mania?
 
@@ -217,7 +217,7 @@ Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali
 
 osu!mania merupakan mode permainan osu! yang didasari pada permainan-permainan *vertical scrolling rhythm game* (VSRG) lainnya seperti *beatmania*, *Guitar Hero*, dan *Dance Dance Revoulution*. Tidak jauh berbeda dengan permainan-permainan tersebut, mode permainan osu!mania menuntut kamu untuk dapat menekan tombol input yang sesuai pada keyboard kamu pada waktu yang tepat sejalan dengan bergulirnya not-not yang ada pada layar permainan.
 
-Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (mulai dari 2K/1K+1K hingga maksimal 18K/9K+9K) secara bersamaan.
+Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!, kamu dapat menggunakan mod [xK](/wiki/Gameplay/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (mulai dari 2K/1K+1K hingga maksimal 18K/9K+9K) secara bersamaan.
 
 #### Penjelasan dasar
 
@@ -338,8 +338,8 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 **Peringkat-peringkat lainnya:**
 
-- Silver SS (SSH) = Peringkat SS dengan mod *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Game_modifier/Flashlight)*.
-- Silver S (SH) = Peringkat S dengan *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+- Silver SS (SSH) = Peringkat SS dengan mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
+- Silver S (SH) = Peringkat S dengan *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 **Lebih lanjut mengenai statistik torehan peringkat yang terdapat pada laman profil kamu:**
 
@@ -462,7 +462,7 @@ Pastikan kamu tidak sedang menekan tombol *smoke* ketika kamu sedang bermain.
 
 Besar kemungkinan **terdapat satu atau lebih slider yang kamu lepas terlalu awal (dalam artian kamu sudah melepas kursor kamu dari slider ketika slider ball yang bersangkutan belum menyentuh akhir slider).**
 
-Sebagaimana yang telah dijelaskan sebelumnya, slider pada osu! memiliki beberapa komponen yang di antaranya adalah slider head, slider tick, reverse arrow, dan slider tail. Apabila kamu tidak mengenai slider head, slider tick, atau reverse arrow, kamu akan mendapatkan miss yang pada utamanya dikenal dengan istilah *sliderbreak*. Meskipun demikian, **apabila kamu tidak mengenai slider tail, kamu tidak akan dihitung miss** walaupun kombo yang kamu miliki juga tidak akan bertambah. Hal ini juga turut berlaku pada mod [Sudden Death](/wiki/Game_modifier/Sudden_Death), di mana kamu dapat terus bermain walaupun terdapat slider tail yang tidak kamu kenai.
+Sebagaimana yang telah dijelaskan sebelumnya, slider pada osu! memiliki beberapa komponen yang di antaranya adalah slider head, slider tick, reverse arrow, dan slider tail. Apabila kamu tidak mengenai slider head, slider tick, atau reverse arrow, kamu akan mendapatkan miss yang pada utamanya dikenal dengan istilah *sliderbreak*. Meskipun demikian, **apabila kamu tidak mengenai slider tail, kamu tidak akan dihitung miss** walaupun kombo yang kamu miliki juga tidak akan bertambah. Hal ini juga turut berlaku pada mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death), di mana kamu dapat terus bermain walaupun terdapat slider tail yang tidak kamu kenai.
 
 Apabila kamu berhasil menyelesaikan sebuah beatmap tanpa ada miss dan tanpa ada slider tail yang luput satupun, kamu akan melihat tulisan *Perfect* pada pojok kiri bawah Result Screen yang ada.
 

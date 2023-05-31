@@ -8,7 +8,7 @@ La maggiorparte dei problemi tecnici possono essere risolti cercando o postando 
 
 ## Supporto per osu! generico
 
-Per problemi di account, problemi con i pagamenti, controllo dei ban, richieste riguardo i tornei e **qualsiasi cosa relativa ad avere bisogno di aiuto su osu!**, per favore contatta il [team di supporto per account](/wiki/People/The_Team/Account_support_team) inviando un'email a [accounts@ppy.sh](mailto:accounts@ppy.sh) (domande relative agli account) o [osu@ppy.sh](mailto:osu@ppy.sh) (tutto il resto).
+Per problemi di account, problemi con i pagamenti, controllo dei ban, richieste riguardo i tornei e **qualsiasi cosa relativa ad avere bisogno di aiuto su osu!**, per favore contatta il [team di supporto per account](/wiki/People/Account_support_team) inviando un'email a [accounts@ppy.sh](mailto:accounts@ppy.sh) (domande relative agli account) o [osu@ppy.sh](mailto:osu@ppy.sh) (tutto il resto).
 
 ## Contattare peppy
 

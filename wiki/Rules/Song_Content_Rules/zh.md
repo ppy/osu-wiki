@@ -26,7 +26,7 @@ outdated_translation: true
 
 很多音乐风格或流派为了艺术或风格上的目的使用敏感歌词，尽管敏感或下流内容不是完全禁止的，极端庸俗或者故意被设计为冲击或激怒他人的音频是不允许的。
 
-如果你不确定如何处理这种情况，在上传你的谱面包*之前*，问问[质量保障团队](/wiki/People/The_Team/Nomination_Assessment_Team)或[社区管理团队](/wiki/People/The_Team/Global_Moderation_Team)的任何成员！
+如果你不确定如何处理这种情况，在上传你的谱面包*之前*，问问[质量保障团队](/wiki/People/Nomination_Assessment_Team)或[社区管理团队](/wiki/People/Global_Moderation_Team)的任何成员！
 
 ## 如何判别「严重政治相关」的内容？
 
@@ -38,7 +38,7 @@ outdated_translation: true
 
 任何包含违规音频的谱面都将从网站上删除。
 
-每次删除提交的内容时，负责删除的[质量保障团队](/wiki/People/The_Team/Nomination_Assessment_Team)或[社区管理团队](/wiki/People/The_Team/Global_Moderation_Team)的成员都会向你提供解释，并说明删除的理由。
+每次删除提交的内容时，负责删除的[质量保障团队](/wiki/People/Nomination_Assessment_Team)或[社区管理团队](/wiki/People/Global_Moderation_Team)的成员都会向你提供解释，并说明删除的理由。
 
 如果你愿意的话，你可以通过 PM 与他们争论，或者征求其他人的意见来支持你对音频适用性的观点。如果你在这方面仍然找不到共同点，你的要求可能会升级为 NAT 的共识投票，由 NAT 集体决定你的音频是否可以接受。
 

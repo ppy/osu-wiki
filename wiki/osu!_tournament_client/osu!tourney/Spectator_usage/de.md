@@ -7,11 +7,11 @@ Jedes osu!-Fenster wird einem Slot im Raum zugewiesen.
 
 ![Spieler werden abhängig von ihrem Slot im Raum den Fenstern zugewiesen](img/Osutourneywindows.png)
 
-Die Spieler müssen sich im entsprechenden Slot im Raum befinden, damit der Client richtig funktioniert. Mehr Details können im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!tourney/Multiplayer_usage) gefunden werden.
+Die Spieler müssen sich im entsprechenden Slot im Raum befinden, damit der Client richtig funktioniert. Mehr Details können im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) gefunden werden.
 
 ![osu!tourney-Bedienfeld](img/Osutourneypanel.png)
 
-Das Bedienfeld wird unten im Client angezeigt. Standardmäßig stellt es die erforderliche Benennung für Räume dar. Weitere Informationen können im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!tourney/Multiplayer_usage) gefunden werden.
+Das Bedienfeld wird unten im Client angezeigt. Standardmäßig stellt es die erforderliche Benennung für Räume dar. Weitere Informationen können im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) gefunden werden.
 
 Die Funktionalität jedes Buttons wird unten beschrieben:
 

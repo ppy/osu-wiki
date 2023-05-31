@@ -12,8 +12,6 @@ Oficjalne turniejowe organizowane przez zespół osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eliminacji, w którym rywalizują 4-osobowe zespoły reprezentowane przez zawodników z poszczególnych krajów. Jest to największe oficjalne wydarzenie rangi turniejowej, a udział w nim biorą najlepsi gracze z całego świata.
-
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: Tajwan | ::{ flag=NL }:: Holandia | ::{ flag=KR }:: Korea Południowa |
@@ -330,4 +328,4 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 ## Zobacz także
 
 - [Lista państw uczestniczących w turniejach osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (klient używany do transmitowania turniejów)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (klient używany do transmitowania turniejów)

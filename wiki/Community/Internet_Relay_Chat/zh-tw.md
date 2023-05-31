@@ -83,7 +83,7 @@ osu!Bancho 使用明文驗證。請確認您的 IRC 客戶端的設定沒有選�
 IRC 標準中有頻道模式的概念，也就是每位使用者能做的行為。在 osu!Bancho 中，分成了兩種模式。
 
 - `+`，或 "voice 狀態"：使用者透過 IRC 客戶端連接。
-- `@`，或 "chat operator 狀態"：使用者是聊天室管理員 ([GMT](/wiki/People/The_Team/Global_Moderation_Team) 或 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`，或 "chat operator 狀態"：使用者是聊天室管理員 ([GMT](/wiki/People/Global_Moderation_Team) 或 [NAT](/wiki/People/Nomination_Assessment_Team))
 
 使用遊戲內或網頁連接的使用者不會有前綴符號。
 

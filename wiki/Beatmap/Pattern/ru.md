@@ -7,9 +7,20 @@ tags:
 
 # Паттерн
 
-**Паттерн** (англ. pattern, «шаблон») — небольшой набор осмысленно расположенных [объектов](/wiki/Hit_object) в [карте](/wiki/Beatmap).
+**Паттерн** (англ. *pattern*, рус. *шаблон*, *узор*) — небольшой набор осмысленно расположенных [объектов](/wiki/Gameplay/Hit_object) в [карте](/wiki/Beatmap).
 
 ## Основные виды паттернов
 
-- [Джамп](Jump)
-- [Стрим](Stream)
+### osu!
+
+- [Джамп](osu!/Jump)
+- [Стрим](osu!/Stream)
+
+### osu!mania
+
+- [Корд](osu!mania/Chord)
+- [Стрим](osu!mania/Stream)
+- [Джек](osu!mania/Jack)
+- [Анкор](osu!mania/Anchor)
+- [Трилл](osu!mania/Trill)
+- [Холд-нота](osu!mania/Hold_note)

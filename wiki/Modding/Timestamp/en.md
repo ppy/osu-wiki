@@ -6,7 +6,7 @@ tags:
 
 # Timestamp
 
-**Timestamps** are used in [modding](/wiki/Modding) to refer to times or [hit objects](/wiki/Hit_object) of a [beatmap](/wiki/Beatmap). When posted on [beatmap discussions](/wiki/Beatmap_discussion), they create special links that can be used to easily jump to that point in the [editor](/wiki/Client/Beatmap_editor).
+**Timestamps** are used in [modding](/wiki/Modding) to refer to times or [hit objects](/wiki/Gameplay/Hit_object) of a [beatmap](/wiki/Beatmap). When posted on [beatmap discussions](/wiki/Beatmap_discussion), they create special links that can be used to easily jump to that point in the [editor](/wiki/Client/Beatmap_editor).
 
 Copying (`Ctrl` + `C`) a selection of hit objects in the editor will put a timestamp on the clipboard. The time in the bottom-left can also be clicked on and copied.
 

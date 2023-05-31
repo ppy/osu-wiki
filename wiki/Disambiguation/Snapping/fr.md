@@ -5,7 +5,7 @@ Le **Snapping** peut avoir plusieurs significations :
 ## Beatmapping
 
 - Le [beat snapping](/wiki/Beatmapping/Snapping), la position d'un objet dans un seul temps musical, qui est divisé automatiquement en utilisant le [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor).
-- Le [grid snapping](/wiki/Grid_snapping), la position d'un objet sur le terrain de jeu.
+- Le [grid snapping](/wiki/Beatmapping/Grid_snapping), la position d'un objet sur le terrain de jeu.
 
 ## Gameplay
 

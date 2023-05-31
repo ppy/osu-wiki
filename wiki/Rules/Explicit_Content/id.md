@@ -14,7 +14,7 @@ Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengung
 
 Konten eksplisit mengacu **konten audio dari sebuah beatmap** yang bersifat eksplisit seperti, tema lagu, isi lagu, atau penggunaan kata-kata "kasar" yang *berlebihan*. Hal ini **tidak** termasuk penggunaan elemen visual pada beatmap—hal tersebut **harus** mengikuti [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations), atau aspek beatmap yang dapat diubah pengguna (seperti tag atau nama tingkat kesulitan beatmap) yang **harus** mengikuti [aturan komunitas osu!](/wiki/Rules) seperti pada umumnya.
 
-Sebagai pedoman praktis, ketentuan konten eksplisit menciptakan pengecualian hanya pada konten yang tidak dapat diubah pengguna dengan alat yang tersedia di dalam permainan, dan konten tersebut masih dapat dicabut berdasarkan kebijakan kasus per kasus oleh [tim osu! support](/wiki/People/The_Team/Account_support_team).
+Sebagai pedoman praktis, ketentuan konten eksplisit menciptakan pengecualian hanya pada konten yang tidak dapat diubah pengguna dengan alat yang tersedia di dalam permainan, dan konten tersebut masih dapat dicabut berdasarkan kebijakan kasus per kasus oleh [tim osu! support](/wiki/People/Account_support_team).
 
 Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksplisit dapat dipergunakan dan disebarluaskan dalam bentuk beatmap di dalam lingkungan osu! tanpa ada batasan lebih lanjut.
 

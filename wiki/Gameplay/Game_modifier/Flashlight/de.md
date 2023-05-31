@@ -12,8 +12,8 @@ tags:
 
 ![FL-Modsymbol](/wiki/shared/mods/FL.png "Flashlight (FL) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Game_modifier/Hidden).*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## Übersicht
 
@@ -28,13 +28,13 @@ tags:
 
 ## Beschreibung
 
-Die Mod **Flashlight** ist eine [Spielmodifikation](/wiki/Game_modifier), die das Ziel hat, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) durch das Einschränken des sichtbaren Bereichs auf dem Bildschirm künstlich zu erhöhen.
+Die Mod **Flashlight** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) durch das Einschränken des sichtbaren Bereichs auf dem Bildschirm künstlich zu erhöhen.
 
 ### osu!
 
 In [osu!](/wiki/Game_mode/osu!) wird nur ein kleiner beleuchteter Kreis (also der sichtbare Bereich) um den Mauszeiger gezeigt, der die Teile des Spielfelds anzeigt, die sich im Kreis befinden. Die Größe dieses Kreises ändert sich abhängig von der aktuellen Combo des Spielers.
 
-Der sichtbare Bereich wird kleiner bei einer 100er Combo und nochmal kleiner bei einer 200er Combo. Wenn die Combo des Spielers zwischendurch abbricht, wird der sichtbare Bereich auf seine ursprüngliche Größe zurückgesetzt. Des Weiteren verdunkelt sich der sichtbare Bereich beim Halten eines [Sliders](/wiki/Hit_object/Slider) teilweise, bis der Slider absolviert wurde.
+Der sichtbare Bereich wird kleiner bei einer 100er Combo und nochmal kleiner bei einer 200er Combo. Wenn die Combo des Spielers zwischendurch abbricht, wird der sichtbare Bereich auf seine ursprüngliche Größe zurückgesetzt. Des Weiteren verdunkelt sich der sichtbare Bereich beim Halten eines [Sliders](/wiki/Gameplay/Hit_object/Slider) teilweise, bis der Slider absolviert wurde.
 
 All dies führt zu einem Effekt, der so aussieht, als würde eine virtuelle Taschenlampe auf den Cursor des Spielers gerichtet werden:
 
@@ -62,7 +62,7 @@ Wenn die Mod Hidden ebenfalls aktiviert ist, sind die Fruits vorübergehend sich
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania) ist der sichtbare Bereich auf eine relativ dünne horizontale Leiste in der Mitte des Spielfeldes begrenzt, während alles andere verborgen bleibt. Daher kann die Mod Flashlight als eine Verknüpfung aus den Mods Hidden und [Fade In](/wiki/Game_modifier/Fade_In) angesehen werden (natürlich ohne die wechselnden Größen des sichtbaren Bereichs).
+In [osu!mania](/wiki/Game_mode/osu!mania) ist der sichtbare Bereich auf eine relativ dünne horizontale Leiste in der Mitte des Spielfeldes begrenzt, während alles andere verborgen bleibt. Daher kann die Mod Flashlight als eine Verknüpfung aus den Mods Hidden und [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) angesehen werden (natürlich ohne die wechselnden Größen des sichtbaren Bereichs).
 
 ![FL-Gameplay in mania](img/FL-mania.jpg "Gameplay in osu!mania mit der aktivierten Mod Flashlight")
 

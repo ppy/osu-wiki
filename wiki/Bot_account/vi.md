@@ -53,7 +53,7 @@ Nội dung của email nên chứa những thông tin sau:
 - Liên kết cho mã nguồn và tài liện
 - Tóm tắt ngắn về bot của bạn làm gì
 
-[Đội ngũ hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team) sẽ xem xét yêu cầu của bạn. Nếu yêu cầu của bạn bị từ chối, họ sẽ cho bạn biết tại sao. Nếu yêu cầu của bạn được phê duyệt, họ sẽ tạo tài khoản bot cho bạn và cho bạn hướng dẫn sử dụng.
+[Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sẽ xem xét yêu cầu của bạn. Nếu yêu cầu của bạn bị từ chối, họ sẽ cho bạn biết tại sao. Nếu yêu cầu của bạn được phê duyệt, họ sẽ tạo tài khoản bot cho bạn và cho bạn hướng dẫn sử dụng.
 
 ## Có thể bạn chưa biết
 

@@ -19,7 +19,7 @@ Seperangkat perintah `!faq` untuk BanchoBot telah dibuka untuk umum supaya dapat
 
 osu!mania sekarang mendukung mode flip vertikal (terbalik), membuat game serupa dengan tampilan DDR/o2jam. Skinning sekarang telah mendukung sprite resolusi ganda ketika lebar layar melebihi 1600 piksel. Untuk menambahkan dukungan ini pada skin, tambahkan gambar yang memiliki resolusi ganda dari gambar aslinya lalu akhiri dengan akhiran `@2x` sebelum ekstensi file (misalnya: `cursor@2x.png`).
 
-Memberikan peringkat dukungan berupa mod [Hidden](/wiki/Game_modifier/Hidden) dan [FadeIn](/wiki/Game_modifier/Fade_In) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
+Memberikan peringkat dukungan berupa mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) dan [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
 
 Tautan Terkait:
 
@@ -30,7 +30,7 @@ Tautan Terkait:
 
 ## Maret
 
-osu! mendapat perombakan total di bagian antarmuka! osu! sekarang memiliki simbol leitmotif baru (sebelumnya, osu! merupakan lingkaran dengan teks "osu!" di tengahnya, sekarang teks "osu!" digantikan dengan "1"). Tombol-tombol pada editor telah diperbarui. Mode khusus telah dikombinasikan dengan menu Pemilihan Lagu (dengan nama "Mods"), memungkinkan pemain untuk beralih mods lebih cepat dan tidak terlalu repot. Semua tombol [Game Modifier](/wiki/Game_modifier) (Mods) menerima pembaruan gambar masing-masing. Layar hasil permainan sekarang menunjukkan gambar latar belakang beatmap yang dimainkan daripada latar belakang skin pengguna.
+osu! mendapat perombakan total di bagian antarmuka! osu! sekarang memiliki simbol leitmotif baru (sebelumnya, osu! merupakan lingkaran dengan teks "osu!" di tengahnya, sekarang teks "osu!" digantikan dengan "1"). Tombol-tombol pada editor telah diperbarui. Mode khusus telah dikombinasikan dengan menu Pemilihan Lagu (dengan nama "Mods"), memungkinkan pemain untuk beralih mods lebih cepat dan tidak terlalu repot. Semua tombol [Game Modifier](/wiki/Gameplay/Game_modifier) (Mods) menerima pembaruan gambar masing-masing. Layar hasil permainan sekarang menunjukkan gambar latar belakang beatmap yang dimainkan daripada latar belakang skin pengguna.
 
 Hit-Offset sekarang dapet diketahui dengan melayangkan kursor ke panel Akurasi layar hasil permainan. Mohon diperhatikan bahwa, hit-offset ini akan hilang dan tidak dapat disimpan. Hasil Online kini tersembunyi di bawah layar hasil permainan dibandingkan sebelumnya yang memaksa Anda untuk melihatnya. Anda dapat scroll ke bawah untuk melihatnya atau Anda cukup mengklik tombol dan Anda akan diarahkan ke layar Hasil Permainan Online.
 
@@ -51,7 +51,7 @@ Tautan Terkait:
 
 Pembaruan bulan ini sebagian besar terdiri dari penambalan pembaruan utama sebelumnya di bulan Maret, tetapi bukan hanya penambalan saja yang terjadi di bulan ini! Pertama, April ini adalah implementasi awal dari fitur "Collections" menggantikan "Favourites A/B" sebelumnya yang telah lama berdiri, dengan ini pemain diharapkan akan lebih mudah memasukkan beatmap favorit mereka dalam satu "Collections" dan dapat membagikannya dengan orang lain dengan mentransfer "Collections" daripada "Favourites A/B".
 
-Anda sekarang dapat merubah mode game lebih mudah di menu pemilihan lagu dengan menggunakan `Ctrl` + `1`, `2`, `3` atau `4`. Sebuah mod baru ditambahkan khusus untuk osu!mania, bernamakan [Random](/wiki/Game_modifier/Random). Beberapa modifikasi telah dilakukan pada tombol "Quick Join" di Multi supaya dapat mengarahkan Anda ke sebuah ruangan yang pp rata-rata pemain di dalamnya setara dengan pp rata-rata Anda.
+Anda sekarang dapat merubah mode game lebih mudah di menu pemilihan lagu dengan menggunakan `Ctrl` + `1`, `2`, `3` atau `4`. Sebuah mod baru ditambahkan khusus untuk osu!mania, bernamakan [Random](/wiki/Gameplay/Game_modifier/Random). Beberapa modifikasi telah dilakukan pada tombol "Quick Join" di Multi supaya dapat mengarahkan Anda ke sebuah ruangan yang pp rata-rata pemain di dalamnya setara dengan pp rata-rata Anda.
 
 Untuk tayangan ulang beatmap, komentar yang sudah kedaluwarsa akan dialihkan menjadi gaya komentar [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) dan warna komentar sekarang dapat dikustom (fitur khusus osu!supporter).
 

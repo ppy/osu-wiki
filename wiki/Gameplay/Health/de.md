@@ -11,7 +11,7 @@ tags:
 
 # Gesundheit
 
-**Gesundheit** oder *HP* (auch *Leben* genannt) ist der Wert, der bestimmt, wann ein Spieler eine [Beatmap](/wiki/Beatmap) bestanden hat oder nicht. Gesundheit kann anhand der [Lebensleiste](/wiki/Client/Interface/Health_bar) erkannt werden, die während des Spielverlaufs aktualisiert wird. Die Schwierigkeitseinstellung für die [HP-Drain-Rate](/wiki/Beatmapping/HP_drain_rate) legt fest, wie schwierig es ist, einen hohen Gesundheitswert beizubehalten.
+**Gesundheit** oder *HP* (auch *Leben* genannt) ist der Wert, der bestimmt, wann ein Spieler eine [Beatmap](/wiki/Beatmap) bestanden hat oder nicht. Gesundheit kann anhand der [Lebensleiste](/wiki/Client/Interface/Health_bar) erkannt werden, die während des Spielverlaufs aktualisiert wird. Die Schwierigkeitseinstellung für die [HP-Drain-Rate](/wiki/Beatmap/HP_drain_rate) legt fest, wie schwierig es ist, einen hohen Gesundheitswert beizubehalten.
 
 ## osu!
 

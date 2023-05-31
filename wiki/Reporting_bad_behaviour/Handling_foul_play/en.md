@@ -18,7 +18,7 @@ Each user may only use **one** account. Creating new accounts is strictly forbid
 
 The [rules](/wiki/Rules) state that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim and anything else that plays the game for the player is considered cheating.
 
-This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The [support team](/wiki/People/The_Team/Account_support_team) may decide to lift their restriction if they successfully appeal.
+This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The [support team](/wiki/People/Account_support_team) may decide to lift their restriction if they successfully appeal.
 
 ## I have been restricted for cheating, but I didn't cheat!
 

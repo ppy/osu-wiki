@@ -26,4 +26,4 @@ Untuk memperbaiki map yang terduplikasi, lakukan hal berikut ini:
   7. Gunakan menu `Berkas` > `Buka...` untuk mengganti nama artis atau judul lagu pada tingkat kesulitan lainnya.
   8. Lakukan pengiriman ulang.
 
-Jika kamu memiliki map yang terduplikat, mohon mengontak anggota [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) untuk menyelesaikan masalah tersebut.
+Jika kamu memiliki map yang terduplikat, mohon mengontak anggota [NAT](/wiki/People/Nomination_Assessment_Team) untuk menyelesaikan masalah tersebut.

@@ -12,7 +12,7 @@ no_native_review: true
 
 Hai problemi con qualcosa? Siamo qui per aiutarti! Guarda delle soluzioni a problemi comuni nella barra a lato sinistro del tuo schermo. Se il tuo problema non è nella lista, o se hai ancora problemi, manda una mail a [support@ppy.sh](mailto:support@ppy.sh). Oppure, puoi chiedere aiuto al [Forum di Supporto](https://osu.ppy.sh/community/forums/5), dove qualcuno saprà aiutarti.
 
-## Sezioni {#sections}
+## Sezioni {id=sections}
 
 Seleziona la sezione che corrisponde maggiormente al problema per trovare una soluzione adeguata.
 
@@ -28,9 +28,9 @@ Seleziona la sezione che corrisponde maggiormente al problema per trovare una so
 | [Aggiornare a Lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrare alla [nuova versione principale](/wiki/Client/Release_stream/Lazer) di osu! |
 | [Sito Web](/wiki/Help_centre/Website) | Bloccare utenti, contattare il supporto, aspetto del sito |
 
-## Aiutaci ad Aiutarti {#diagnostics}
+## Aiutaci ad Aiutarti {id=diagnostics}
 
-### File Log {#log-files}
+### File Log {id=log-files}
 
 **I File Log sono registrazioni dettagliate di cosa sta facendo il client in ogni momento. Lo usiamo per capire la causa del problema.**
 
@@ -47,7 +47,7 @@ Se un membro del team di supporto ti ha chiesto i log, ecco come ottenerli:
 7. Trova la cartella `Logs` nella finestra che si è aperta.
 8. Seleziona il file di log richiesto (il membro del team di supporto ti dirà quale), e aggiungilo al ticket di supporto o sul forum post.
 
-### Visualizzatore Eventi {#event-viewer}
+### Visualizzatore Eventi {id=event-viewer}
 
 **Visualizzatore Eventi è un componente di Windows che può essere usato per trovare dei crash log quando osu! non mostra alcuno. Questi crash log possono essere usati per determinare le cause del problema.**
 
@@ -64,7 +64,7 @@ Se un membro del support team ti ha chiesto di trovare un crash log nel Visualiz
 7. Vai nella scheda `Dettagli` , espandi `System` e `Event Data` cliccando su entrambi.
 8. Copia il testo da lì e incollalo nel ticket di supporto o sul forum post.
 
-### Frame Time Graph {#frame-time-graph}
+### Frame Time Graph {id=frame-time-graph}
 
 **Il Frame Time Graph è una feature di osu! che può aiutare a ottenere più informazioni sui problemi di performance che potresti avere.**
 

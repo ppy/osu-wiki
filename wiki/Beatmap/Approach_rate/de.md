@@ -10,7 +10,7 @@ no_native_review: true
 
 *Für empfohlene AR-Werte, siehe: [Ranking-Kriterien](/wiki/Ranking_Criteria)*
 
-**Approach-Rate** (auch **Annäherungsrate** oder ***AR*** genannt) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, die bestimmt, wann [Hit-Objekte](/wiki/Hit_object) im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten, erscheinen. Sie existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach-Rate** (auch **Annäherungsrate** oder ***AR*** genannt) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, die bestimmt, wann [Hit-Objekte](/wiki/Gameplay/Hit_object) im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten, erscheinen. Sie existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
 
 AR-Werte reichen von 0 bis 10. Höhere ARs bedeuten, dass Hit-Objekte für eine kürzere Zeitspanne sichtbar sind, was bedeutet, dass Spieler weniger Zeit zum Reagieren haben. Andererseits erlauben niedrigere ARs mehr Reaktionszeit, können aber dazu führen, dass zu viele Hit-Objekte gleichzeitig auf dem Bildschirm erscheinen.
 
@@ -49,9 +49,9 @@ Wie lange es dauert, bis das Hit-Objekt vollständig eingeblendet wird, hängt a
 
 Es gibt vier Mods, die die AR beeinflussen, wenn sie aktiviert sind:
 
-- [Easy](/wiki/Game_modifier/Easy): Halbiert die AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multipliziert die AR mit 1,4 (maximal 10).
-- [Double Time](/wiki/Game_modifier/Double_Time): Die AR wird nicht beeinflusst, aber wegen der Geschwindigkeitserhöhung um 50 % bleiben Hit-Objekte 33 % weniger lange sichtbar.
-- [Half Time](/wiki/Game_modifier/Half_Time): Die AR ist nicht beeinflusst, aber wegen der Geschwindigkeitsreduzierung um 25 % bleiben Hit-Objekte für eine um 33 % längere Zeit sichtbar.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halbiert die AR.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multipliziert die AR mit 1,4 (maximal 10).
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): Die AR wird nicht beeinflusst, aber wegen der Geschwindigkeitserhöhung um 50 % bleiben Hit-Objekte 33 % weniger lange sichtbar.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): Die AR ist nicht beeinflusst, aber wegen der Geschwindigkeitsreduzierung um 25 % bleiben Hit-Objekte für eine um 33 % längere Zeit sichtbar.
 
 Obwohl die Mods "Half Time" und "Double Time" keinen Einfluss auf die AR haben, bewirkt die Änderung der Geschwindigkeit einen scheinbaren Unterschied im AR-Wert. ARs mit HT/DT werden häufig gemäß ihrer wahrgenommenen Werte bezeichnet. Zum Beispiel darf "AR 8 + DT" auch als "AR 9.6" geschrieben werden.

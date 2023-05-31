@@ -63,7 +63,7 @@ Di bawah ini beberapa cara kamu dapat berkontribusi:
 
 ## Berkontribusi untuk masa depan osu!
 
-Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/The_Team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
+Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/osu!_team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
 
 - Membantu proyek [osu!(lazer)](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan kamu juga dapat mewujudkannya!
 - Menjadikan [situs web yang baru](https://github.com/ppy/osu-web) yang lebih baik.

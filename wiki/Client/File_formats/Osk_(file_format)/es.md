@@ -1,7 +1,3 @@
----
-no_native_review: true
----
+# .osk (formato de archivo)
 
-# .osk (Tipo de archivo)
-
-Los archivos **.osk** contienen una [osu! skin](/wiki/Skinning).
+**.osk** es un archivo que contiene una carpeta de [skins de osu!](/wiki/Skinning).

@@ -25,9 +25,9 @@ no_native_review: true
 - 獲得的 300、100、50、及 miss。
 - 打擊錯誤率。
 - 平均打擊延遲 (以毫秒為單位)。
-- 圖譜的 [星級](/wiki/Beatmapping/Star_rating)。
+- 圖譜的 [星級](/wiki/Beatmap/Star_rating)。
 - 圖譜時長 (以秒為單位)。
 - 圖譜的最大 Combo 數。
 - 各種快捷鍵。
 
-製譜者可以開啟自動遊玩，如同開啟 [Auto](/wiki/Game_modifier/Auto) Mod 的效果。
+製譜者可以開啟自動遊玩，如同開啟 [Auto](/wiki/Gameplay/Game_modifier/Auto) Mod 的效果。

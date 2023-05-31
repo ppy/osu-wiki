@@ -4,7 +4,7 @@
 
 I **Collaboratori della Comunità** sono le persone che hanno preso l'iniziativa di provvedere servizi alla comunità di osu! a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera comunità.
 
-Non devono essere confusi con gli [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della Comunità é dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della comunità.
+Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della Comunità é dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della comunità.
 
 Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
@@ -29,7 +29,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Più di 3 anni di duro lavoro silenzioso per creare [pacchetti beatmaps](https://osu.ppy.sh/p/packlist) e gestire i grafici |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anni ed anni di servizio. In particolare, ha creato skin per le beatmap originali, creato [storyboard](/wiki/Storyboard) avanzati, comparabili  a vere opere d'arte e ha motivato il team. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestione della comunità iniziale e moderazione ed enormi contributi nel corso del tempo. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | E' stato il primo gestore dello staff e gestore dei BAT e ha creato un team di moderazione beatmap d'elite dal nulla. |
 
 ## 2015

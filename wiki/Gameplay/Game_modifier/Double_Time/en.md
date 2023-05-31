@@ -11,8 +11,8 @@ tags:
 
 ![DT mod icon](/wiki/shared/mods/DT.png "Double Time (DT) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*\
-*See also: [Nightcore (mod)](/wiki/Game_modifier/Nightcore)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*See also: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## About
 
@@ -26,13 +26,13 @@ tags:
 - Default shortcut key: `D`
 - Caption: `Zoooooooooom.`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variant: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Variant: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## Description
 
 *Note: The method used to increase the speed does not increase the pitch of the song.*
 
-The **Double Time** mod is a [game modifier](/wiki/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), and [health (HP)](/wiki/Gameplay/Health).
+The **Double Time** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), and [health (HP)](/wiki/Gameplay/Health).
 
 The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!](/wiki/Game_mode/osu!).
 

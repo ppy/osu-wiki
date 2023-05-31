@@ -10,7 +10,7 @@ tags:
 
 ![Ikon mod MR](/wiki/shared/mods/MR.png "Ikon mod Mirror (MR)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -21,7 +21,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Mirror** adalah sebuah [game modifier](/wiki/Game_modifier) untuk mode permainan [osu!mania](/wiki/Game_mode/osu!mania) yang ditujukan untuk membantu para pemain yang kidal. Mod ini mencerminkan not-not yang ada pada suatu [beatmap](/wiki/Beatmap) sehingga not-not yang tadinya ada di lajur kiri akan berada pada lajur kanan dan sebaliknya. Secara khusus, pencerminan not-not adalah sebagai berikut:
+Mod **Mirror** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) untuk mode permainan [osu!mania](/wiki/Game_mode/osu!mania) yang ditujukan untuk membantu para pemain yang kidal. Mod ini mencerminkan not-not yang ada pada suatu [beatmap](/wiki/Beatmap) sehingga not-not yang tadinya ada di lajur kiri akan berada pada lajur kanan dan sebaliknya. Secara khusus, pencerminan not-not adalah sebagai berikut:
 
 ![Tampilan permainan MR](img/MR-comparison-mania.jpg "Perbandiangan antara beatmap osu!mania asli (kiri) dan beatmap osu!mania yang telah tercerminkan oleh mod Mirror (kanan)")
 

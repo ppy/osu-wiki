@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
+---
+
 # AiMod
 
 ![](img/AiMod-FR.png "La fenêtre AiMod liste les avertissements et les erreurs concernant une beatmap.")
@@ -126,7 +131,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
-| Le stack leniency est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
+| Le [stack leniency](/wiki/Beatmap/Stack_leniency) est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->L'artiste romanisé contient de l'unicode. |  |  |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Le titre romanisé contient de l'unicode. |  |  |
 | Le compte à rebours n'est pas autorisé en mode osu!mania. | beatmaps osu!mania uniquement ! | Décochez la case `Enable countdown` dans l'onglet `Design` de l'onglet Song Setup. |

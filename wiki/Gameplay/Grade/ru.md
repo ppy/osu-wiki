@@ -18,7 +18,7 @@ tags:
 
 **Оценки** (англ. *grades*) — набор букв, обозначающих результат игрока на определённой [карте](/wiki/Beatmap). Они показаны вместе с [очками](/wiki/Gameplay/Score) на экране результатов и в таблице рекордов.
 
-Существующие в osu! оценки — D, C, B, A, S, и SS (перечислены по возрастанию). Серебряные S и SS можно получить только с использованием модификаторов [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) или [Fade In](/wiki/Game_modifier/Fade_In).
+Существующие в osu! оценки — D, C, B, A, S, и SS (перечислены по возрастанию). Серебряные S и SS можно получить только с использованием модификаторов [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) или [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 
