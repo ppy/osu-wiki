@@ -26,7 +26,7 @@ Unknowingly to him at the time, the YouTube channel was starting to turn into a 
 
 But what the community didn't know is that Reese's uploads were about to come to a screeching halt.
 
-![](/wiki/shared/news/2023-01-01-osu-legacy-of-reesewashere/tweet.png)
+![](/wiki/shared/news/2023-05-01-osu-legacy-of-reesewashere/tweet.png)
 
 On January 30th 2016, Reese officially announced via a now deleted [Reddit post](https://www.reddit.com/r/osugame/comments/43c2pk/future_of_the_reesewashere_youtube_channel/) on r/osugame and a [tweet](https://twitter.com/ReeseWasHere/status/693250557419593729) that the channel will no longer be active. I asked him if there was anything else that affected his decision to quit, besides getting a full-time job:
 
