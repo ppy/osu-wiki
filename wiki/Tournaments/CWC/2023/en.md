@@ -302,7 +302,7 @@ Sunday, 21 May 2023:
 | Indonesia ::{ flag=ID }:: | 3 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/108599608) | [#1](https://www.twitch.tv/videos/1825968036?t=1h30m6s) |
 | **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/108599650) | [#1](https://www.twitch.tv/videos/1825631630) |
 | **Italy** ::{ flag=IT }:: | **5** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/108600660) | [#1](https://www.twitch.tv/videos/1825968036?t=2h30m2s) |
-| Belgium ::{ flag=BE }:: | FF | **5** | ::{ flag=AR }:: **Argentina** | *win by default* |  |
+| Belgium ::{ flag=BE }:: | -1 | **0** | ::{ flag=AR }:: **Argentina** | *win by default* |  |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/108604688) | [#1](https://www.twitch.tv/videos/1825970366) |
 
 ### Qualifiers
