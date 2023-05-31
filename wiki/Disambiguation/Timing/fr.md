@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Timing (désambiguïsation)
 
 Le **timing** peut avoir plusieurs significations :
