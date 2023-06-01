@@ -38,7 +38,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | User | Points |
 | :-- | :-- |
 | ::{ flag=US }:: **[Trail Mix](https://osu.ppy.sh/users/3328742)** | **13** |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 10 |
+| ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | **10** |
 | ::{ flag=SE }:: [Felrion](https://osu.ppy.sh/users/3673083)[^previous-prize] | 5 |
 | ::{ flag=AU }:: [Chef](https://osu.ppy.sh/users/12736534)[^previous-prize] | 5 |
 | ::{ flag=HU }:: [Lexion](https://osu.ppy.sh/users/5271371)[^previous-prize] | 3 |
@@ -61,8 +61,8 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 
 | User | Points |
 | :-- | :-- |
-| ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) | 10 |
-| ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 10 |
+| ::{ flag=NL }:: **[Cookie_Tree](https://osu.ppy.sh/users/502722)** | **10** |
+| ::{ flag=JP }:: **[uone](https://osu.ppy.sh/users/5321719)** | **10** |
 | ::{ flag=MY }:: [6gicha](https://osu.ppy.sh/users/12273160) | 5 |
 | ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)[^previous-prize] | 5 |
 | ::{ flag=FR }:: [Acii_](https://osu.ppy.sh/users/11253595) | 4 |
@@ -84,8 +84,8 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 
 | User | Points |
 | :-- | :-- |
-| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | 10 |
-| ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 10 |
+| ::{ flag=RU }:: **[KitsunIvy](https://osu.ppy.sh/users/7055384)** | **10** |
+| ::{ flag=TN }:: **[-Ken](https://osu.ppy.sh/users/4430811)** | **10** |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)[^previous-prize] | 6 |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 5 |
 | ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747)[^previous-prize] | 3 |
@@ -107,8 +107,8 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 
 | User | Points |
 | :-- | :-- |
-| ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) | 12 |
-| ::{ flag=TH }:: [AOMDco](https://osu.ppy.sh/users/21072569) | 10 |
+| ::{ flag=CA }:: **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** | **12** |
+| ::{ flag=TH }:: **[AOMDco](https://osu.ppy.sh/users/21072569)** | **10** |
 | ::{ flag=US }:: [[GS]Teo](https://osu.ppy.sh/users/7081478)[^previous-prize] | 5 |
 | ::{ flag=ID }:: [Wishtynite](https://osu.ppy.sh/users/14217379) | 5 |
 | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200)[^previous-prize] | 3 |
