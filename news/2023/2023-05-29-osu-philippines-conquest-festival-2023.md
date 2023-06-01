@@ -18,7 +18,7 @@ For more information about the tournament, refer to [this wiki article](/wiki/To
 
 ## Booth activties
 
-The tournament isn't the only thing that's in store for the attendees! If the burning flames of the competition is not to their thing, there are other activities as well: for community members that want to meet up with their friends or for those meeting for the first time, this is their chance to create new memories and friends at the booth's Player Hub! Newcomers and those already familiar with the game will also be able to play osu!(lazer) at the booth as well.
+The tournament isn't the only thing that's in store for the attendees! If the burning flames of the competition is not their thing, there are other activities as well: for community members that want to meet up with their friends or for those meeting for the first time, this is their chance to create new memories and friends at the booth's Player Hub! Newcomers and those already familiar with the game will also be able to play osu!(lazer) at the booth as well.
 
 In addition to this, [BTMC](https://osu.ppy.sh/users/3171691) will also be present in the convention as one of its guests!
 
