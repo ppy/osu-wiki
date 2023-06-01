@@ -30,14 +30,14 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | 1st | **10** |
 | 2nd | 5 |
 | 3rd | 3 |
-| 4-5th | 2 |
-| 6-10th | 1 |
+| 4–5th | 2 |
+| 6–10th | 1 |
 
 #### osu!
 
 | User | Points |
 | :-- | :-- |
-| ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) | 13 |
+| ::{ flag=US }:: **[Trail Mix](https://osu.ppy.sh/users/3328742)** | **13** |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 10 |
 | ::{ flag=SE }:: [Felrion](https://osu.ppy.sh/users/3673083)[^previous-prize] | 5 |
 | ::{ flag=AU }:: [Chef](https://osu.ppy.sh/users/12736534)[^previous-prize] | 5 |
@@ -145,12 +145,12 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 
 ### September 2022
 
-- Top 8 beatmaps from the [triangles Beatmapping Contest](/wiki/en/Contests/triangles_Beatmapping_Contest) with separate prizing
-- Only applicable to osu! ruleset
+- Top 8 beatmaps from the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) with separate prizing
+- Only applicable to osu! game mode
 
 ### March 2023
 
-- Top 8 beatmaps from the [Twin Trials Contest](/wiki/en/Contests/Twin_Trials_Contest) with separate prizing
+- Top 8 beatmaps from the [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest) with separate prizing
 
 ### June 2023
 
