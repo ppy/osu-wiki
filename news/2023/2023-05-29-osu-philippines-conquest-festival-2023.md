@@ -12,7 +12,7 @@ The osu! booth will have games, goodies, and more as the Filipino community, pla
 
 ## Tournament
 
-The main event of the space is the **osu! Philippines Quickfire Showdown 2023**. A lineup of confirmed players will go through a LAN tournament featuring a *Super Smash Bros.*–tyled brawl format. The tournament will take place on day 1 and day 2, with prizes in store!
+The main event of the space is the **osu! Philippines Quickfire Showdown 2023**. A lineup of confirmed players will go through a LAN tournament featuring a *Super Smash Bros.*–styled brawl format. The tournament will take place on day 1 and day 2, with prizes in store!
 
 For more information about the tournament, refer to [this wiki article](/wiki/Tournaments/oPQS/2).
 
