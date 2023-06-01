@@ -179,7 +179,7 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
   3. [mafumafu - Kakushigoto [NiNo's Light Insane.]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
   4. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
 - Tiebeaker
-  1. *[Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)*
+  1. **[Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)**
 
 ### Qualifiers
 
