@@ -21,7 +21,7 @@ Leaders of each Featured Artist playlist are rewarded with mode-specific profile
 
 ### Cumulative leaderboard
 
-As of June 2023, prizes are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding playlists with separate prizes, like [September 2022](#september-2022) or [March 2023](#march-2023).
+As of June 2023, prizes are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding [September 2022](#september-2022) and [March 2023](#march-2023).
 
 #### Base scoring
 
