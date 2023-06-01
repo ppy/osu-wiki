@@ -21,25 +21,25 @@ Zahlreiche Spieler hielten den ersten Rang in jedem Spielmodus mit verschiedenen
 
 *Hauptseite: [osu!](osu!)*
 
-Seit dem 19. Juli 2021 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
+Mit Stand vom 19. Juli 2021 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
 
 ## ![][osu!taiko] osu!taiko
 
 *Hauptseite: [osu!taiko](osu!taiko)*
 
-Seit dem 4. Oktober 2022 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 4. Oktober 2022 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
 *Hauptseite: [osu!catch](osu!catch)*
 
-Seit dem 7. Juni 2021 ist ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 7. Juni 2021 ist ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
 *Hauptseite: [osu!mania](osu!mania)*
 
-Seit dem 13. April 2023 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Mit Stand vom 13. April 2023 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
