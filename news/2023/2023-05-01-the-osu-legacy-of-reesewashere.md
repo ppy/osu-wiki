@@ -16,7 +16,7 @@ Reese originally found osu! by watching a League of Legends streamer called [Box
 
 As if by divine intervention, the will to share amazing moments perfectly coincided with [Cookiezi](https://osu.ppy.sh/users/124493/osu)'s (now known as chocomint) comeback to osu! after being gone for years, and he was sure to capture that:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=EUSDdnNO0Ss" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EUSDdnNO0Ss" frameborder="0" allowfullscreen></iframe>
 
 The perfect storm of the community being hyped more than ever after Cookiezi's return and Reese being in college with a lot of free time provided him with the opportunity to recording anything Cookiezi related as it happened, it seemed that he was always online and ready to record and would usually be the first person to upload a new top play from either Cookiezi or any other top player at the time.
 
