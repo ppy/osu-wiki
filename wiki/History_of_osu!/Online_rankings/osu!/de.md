@@ -27,7 +27,7 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 
 ## 2007
 
-*Anmerkung: In der Zeit, in der [Ranked Score](/wiki/Gameplay/Score/Ranked_score) im Einsatz war, wechselte der Spieler auf dem ersten Platz häufig. Daher sind die früheren Einträge ungenauer. Detaillierte Informationen können in der voraussichtlichen Rekonstruktion der globalen Rangliste von Ranked Score gefunden werden, die [hier](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE) zur Verfügung steht.*
+*Anmerkung: In der Zeit, in der [Ranked Score](/wiki/Gameplay/Score/Ranked_score) im Einsatz war, wechselte der Spieler auf dem ersten Platz häufig. Daher sind die früheren Einträge ungenauer. Detaillierte Informationen können in der geschätzten Rekonstruktion der globalen Rangliste von Ranked Score gefunden werden, die [hier](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE) zur Verfügung steht.*
 
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
@@ -163,7 +163,7 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) | *24.11.2013* | 20.01.2014 | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/) |
-| *vakant* | 20.01.2014 | 27.01.2014 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
+| *unbesetzt* | 20.01.2014 | 27.01.2014 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
 | ::{ flag=JP }:: [rrtyui](https://osu.ppy.sh/users/352328) | 27.01.2014 | 20.06.2014 | [\[1\]](https://osu.ppy.sh/community/forums/topics/181850) [\[2\]](https://web.archive.org/web/20140209113240/https://osu.ppy.sh/p/pp) [\[3\]](https://ameobea.me/osutrack/user/rrtyui/) |
 | ::{ flag=KR }:: [sayonara-bye](https://osu.ppy.sh/users/713266) | 20.06.2014 | 17.08.2014 | [\[1\]](https://web.archive.org/web/20140626074730/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/sayonara-bye/) [\[3\]](https://osu.ppy.sh/community/forums/topics/219054) [\[4\]](https://web.archive.org/web/20210213224518/https://old.reddit.com/r/osugame/comments/28j2pi/sayonarabye_passed_snowwhite_in_pp/) |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 17.08.2014 | *06.02.2015* | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
