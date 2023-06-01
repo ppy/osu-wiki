@@ -6,7 +6,7 @@ date: 2023-05-01 10:00:00 +0000
 
 Before livestreaming and player YouTube channels were widespread, you could rely on only one man with a camera...
 
-![]()
+![](/wiki/shared/news/2023-05-01-osu-legacy-of-reesewashere/banner.jpg)
 
 If you were even slightly engaged with the osu! community between 2015 and 2016, you must've heard of [ReeseWasHere](https://www.youtube.com/@ReeseWasHere), seen some of his YouTube videos, or at the very least heard or seen the saying "Reese get the camera!!" whenever a top player would get a nice score. If you ever saw the ["mom get the camera"](https://www.youtube.com/watch?v=mLRbZJS5A_E) meme from the Call of Duty community, Reese would be the osu! equivalent to that. So without further ado let's get into the history of this legendary community member, and see what they are up to now!
 
@@ -38,6 +38,6 @@ I hope that this write-up hit older players with a wave of nostalgia as to how t
 
 Even though Reese is no longer holding the camera, his legacy will always live in the community in some capacity.
 
-*You can view the full text interview I did with him via [this link](https://gist.github.com/0x84f/61c96e7c18a77eccad7e543674bbf0e9).*
+*You can view the full text interview I did with him via [this link](https://gist.github.com/0x84f/61c96e7c18a77eccad7e543674bbf0e9). Thank you [Tanza3D](https://osu.ppy.sh/users/10379965) for the news post banner!*
 
 — 0x84f
