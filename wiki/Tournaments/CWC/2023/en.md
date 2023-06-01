@@ -108,23 +108,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ### Saturday, 3 June 2023
 
-| Team A | Team B | Match time | Twitch stream | |
+| Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Taiwan ::{ flag=TW }:: | ::{ flag=SE }:: Sweden | [Jun 3 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T120000&p1=1440&p2=241&p3=239) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=FR }:: France | [Jun 3 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T120000&p1=1440&p2=37&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Finland ::{ flag=FI }:: | ::{ flag=VN }:: Vietnam | [Jun 3 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T140000&p1=1440&p2=101&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=JP }:: Japan | [Jun 3 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T140000&p1=1440&p2=166&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Norway ::{ flag=NO }:: | ::{ flag=DK }:: Denmark | [Jun 3 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T143000&p1=1440&p2=187&p3=69) | | [^losers-bracket] |
+| Norway ::{ flag=NO }:: | ::{ flag=DK }:: Denmark | [Jun 3 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T143000&p1=1440&p2=187&p3=69) |  | [^losers-bracket] |
 | Argentina ::{ flag=AR }:: | ::{ flag=ID }:: Indonesia | [Jun 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T150000&p1=1440&p2=51&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=57&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=241&p3=187) | | [^potential-match] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=241&p3=187) |  | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=IT }:: Italy | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=188&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Sweden ::{ flag=SE }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T173000&p1=1440&p2=239&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Netherlands ::{ flag=NL }:: | ::{ flag=BE }:: Belgium | [Jun 3 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T180000&p1=1440&p2=16&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 4 June 2023
 
-| Team A | Team B | Match time | Twitch stream | |
+| Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Jun 4 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T020000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Taiwan ::{ flag=TW }:: | ::{ flag=DK }:: Denmark | [Jun 4 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T100000&p1=1440&p2=241&p3=69) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
