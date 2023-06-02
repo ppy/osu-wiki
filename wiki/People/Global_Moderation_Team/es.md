@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - GMT
   - moderator
@@ -107,7 +109,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán | Moderación de la comunidad de mapping/modding |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemán | Gestión de torneos |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |

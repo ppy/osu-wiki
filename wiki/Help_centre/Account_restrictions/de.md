@@ -18,7 +18,7 @@ Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 - Profildetails aktualisieren
 - Einkäufe im Shop
 
-## Mein Account wurde eingeschränkt! Was mache ich? {#what}
+## Mein Account wurde eingeschränkt! Was mache ich? {id=what}
 
 Wenn dein Account eingeschränkt wurde, verfalle nicht in Panik. Folge bitte diesen Schritten:
 
@@ -32,7 +32,7 @@ Wenn dein originaler Account nicht eingeschränkt ist, dann darfst du dich dort 
 
 Wenn deine Beschwerde zugelassen wurde und dein Account nach dem Spielen erneut eingeschränkt wird, gerate nicht in Panik! Automatisierte Systeme könnten deinen Account fälschlicherweise gekennzeichnet haben, aber dein Account wird innerhalb von 24 Stunden wieder entsperrt, falls das der Fall sein sollte. Sende uns gerne eine E-Mail oder einen Tweet, um unsere Aufmerksamkeit zu gewinnen und schneller entsperrt zu werden!
 
-## Warum wurde mein Account eingeschränkt? {#why}
+## Warum wurde mein Account eingeschränkt? {id=why}
 
 Es gibt mehrere Gründe, warum dein Account eingeschränkt werden kann.
 
@@ -43,7 +43,7 @@ Es gibt mehrere Gründe, warum dein Account eingeschränkt werden kann.
 
 Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten, bevor sie ihre Beschwerde einreichen. Das wird als *Auszeit* bezeichnet und die Dauer variiert abhängig von den gemachten Verstößen.
 
-## Was mache ich während der Auszeit vor dem Einreichen einer Beschwerde? {#while-on-cooldown}
+## Was mache ich während der Auszeit vor dem Einreichen einer Beschwerde? {id=while-on-cooldown}
 
 - **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst, werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustrierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.
@@ -51,7 +51,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 - **Folge den Anweisungen des Support-Teams.** Die Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
 - **Zögere nicht uns zu kontaktieren, wenn du irgendwelche Fragen hast.** Solange du nicht versuchst, die Strafe zu umgehen, werden wir dir gerne jede Frage über die Einschränkung deines Accounts beantworten!
 
-## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein? {#appeal}
+## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein? {id=appeal}
 
 Du kannst durch eine E-Mail mit dem Nutzernamen deines Accounts an [accounts@ppy.sh](mailto:accounts@ppy.sh) eine Beschwerde einreichen. Stelle sicher, dass du die E-Mail von der E-Mail-Adresse aus sendest, die mit deinem Account verknüpft ist. Erwarte eine Antwort innerhalb einer Woche nachdem du die Beschwerde eingereicht hast. Wenn du danach noch keine Antwort erhalten hast, dann kontaktiere uns bitte via Twitter oder E-Mail - es besteht die Möglichkeit, dass wir sie nicht erhalten haben.
 
@@ -62,7 +62,7 @@ Beim Einreichen einer Beschwerde erwarten wir die folgenden Punkte:
 - **Wie du die Möglichkeiten erhalten hast.** Das bezieht sich am meisten auf Cheaten - wir wollen wissen, wie du an die benutzten Tools gelangt bist, wie du darauf gestoßen bist und ob sich die Tools noch auf deinem Computer befinden.
 - **Warum wir dich zurücklassen sollten.** Meistens bezieht sich das auf den zweiten Punkt. Wir wollen sicher gehen, dass du die Regeln nicht noch einmal brichst! Bitte verstehe, dass wir mehr in deiner Beschwerde erwarten, wenn es viele Verstöße gab.
 
-## Was, wenn meiner Beschwerde Recht gegeben wird? {#appeal-granted}
+## Was, wenn meiner Beschwerde Recht gegeben wird? {id=appeal-granted}
 
 Wenn wir uns entscheiden, dich wieder zuzulassen, musst du einigen Bedingungen zustimmen, bevor wir dein Konto wieder freigeben.
 
@@ -79,7 +79,7 @@ Der Account einiger Spieler wird vereinzelt wieder eingeschränkt nachdem ihrer 
 
 Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückgesetzt wird. Das soll unrechtmäßige Scores, die von deinem Account aus **über alle Modi hinweg** eingereicht wurden, sowie erhaltene Medaillen und Profilauszeichnungen entfernen. **Die Spielanzahl und die Spielzeit werden nicht verändert.**
 
-## Meine Beschwerde wurde verweigert! {#appeal-denied}
+## Meine Beschwerde wurde verweigert! {id=appeal-denied}
 
 Es gibt verschiedene Gründe, warum eine Beschwerde verweigert werden kann.
 
@@ -89,7 +89,7 @@ Es gibt verschiedene Gründe, warum eine Beschwerde verweigert werden kann.
 - **Du hast weitere Verstöße während einer Einschränkung begangen.** Es gibt keinen Grund, die Einschränkung für jemanden aufzuheben, der fortführend Regeln bricht, obwohl er bereits eingeschränkt wurde. Wenn du weiter Verstöße begehst, dann wird die Auszeit deines Accounts auf das Datum deines letzten Verstoßes zurückgesetzt. Im Falle von extremen oder weiterführenden Verstößen wird deine Beschwerde möglicherweise dauerhaft gesperrt.
 - **Deine Geschichte ist zu schwerwiegend.** Bei extremen Verstößen oder bei Spielern, die nach einer erfolgreichen Beschwerde nochmal eingeschränkt werden, werden wir möglicherweise dein Verhalten als zu massiv einordnen, als dass du das Spiel zum momentanen Zeitpunkt spielen darfst. Sollte das auf dich zutreffen, empfehlen wir dir **eine lange Zeit** zu warten, bevor du eine weitere Beschwerde einreichst. Vergewissere dich, dass du in dieser Zeit keine weiteren Regeln brichst.
 
-## Was passiert, wenn ich nicht zum ersten Mal Beschwerde einlege? {#subsequent-appeal}
+## Was passiert, wenn ich nicht zum ersten Mal Beschwerde einlege? {id=subsequent-appeal}
 
 In den meisten Fällen verdoppelt jede Einschränkung auf deinem Account die Länge der nächsten Einschränkung und der damit verbundenen Auszeit.
 
@@ -97,7 +97,7 @@ Wenn du zum Beispiel wegen Schummelns eingeschränkt wirst, nach einer Beschwerd
 
 Außerdem wird es nach dem ersten Verstoß immer schwieriger, eine Beschwerde einzureichen, da wir deine früheren Taten berücksichtigen werden und prüfen müssen, ob es überhaupt die Zeit und das Risiko wert ist, dich wieder anzunehmen. Nur sehr wenige Spieler (wenn es überhaupt welche gibt) kehren nach ihrer dritten Sperre erfolgreich in die Community zurück.
 
-## Meine E-Mails werden ignoriert / Ich denke nicht, dass meine Beschwerde ordnungsgemäß bearbeitet wurde {#appeal-review}
+## Meine E-Mails werden ignoriert / Ich denke nicht, dass meine Beschwerde ordnungsgemäß bearbeitet wurde {id=appeal-review}
 
 Falls du denkst, dass deine E-Mails von unserem Support-Team nicht gelesen oder korrekt angesprochen wurden, sende uns bitte eine vollständige E-Mail an [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh). Diese sollte folgende Informationen enthalten:
 
@@ -112,7 +112,7 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 
 **Wir werden nur auf Überprüfungen von Beschwerden antworten, die via [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) gesendet wurden.** Bitte versuche nicht, die Mitglieder des Support-Teams (oder Mitglieder der ehrenamtlichen Teams) via Twitter, Discord, oder jeglicher anderer Plattform zu kontaktieren, um diese Richtlinie zu umgehen - sie können dir nicht helfen.
 
-## Häufige Gründe für Einschränkungen und Auszeiten {#reasons}
+## Häufige Gründe für Einschränkungen und Auszeiten {id=reasons}
 
 | Grund der Einschränkung | Dauer der Auszeit | Hinweise zur Beschwerde |
 | :-- | :-- | :-- |
