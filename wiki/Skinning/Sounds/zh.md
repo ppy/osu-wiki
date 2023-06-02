@@ -150,14 +150,6 @@
 
 ---
 
-`menu-charts-click.wav`
-
-备注：
-
-- 点击主菜单中的`图表 (Charts)` 按钮时播放。
-
----
-
 `menu-direct-click.wav`
 
 备注：
@@ -291,14 +283,6 @@
 备注：
 
 - 光标悬停在主菜单中的返回 (Back) 按钮上时播放。
-
----
-
-`menu-charts-hover.wav`
-
-备注：
-
-- 光标悬停在主菜单中的图表 (Charts) 按钮上时播放。
 
 ---
 
