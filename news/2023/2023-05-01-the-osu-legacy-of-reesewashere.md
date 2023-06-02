@@ -32,9 +32,9 @@ On January 30th 2016, Reese officially announced via a now deleted [Reddit post]
 
 > ...after I graduated and started working I didn't really have much time to play osu! anymore, and I especially didn't have time to record liveplays. I wasn't really into the idea of just uploading videos of replay files, and I saw other channels were filling that gap, so I just stopped uploading.
 
-To my question of whether he still keeps up with the community, he responded that he participated in r/place last year and has kept up with the development of osu!(lazer), and is eagerly awaiting for it to be the new main client. It was suggested that he will return at some point, but that the contributions would more likely be via coding, rather than uploading videos once again.
+To my question of whether he still keeps up with the community, he responded that he participated in r/place last year and has kept up with the development of osu!(lazer), and is eagerly waiting for it to be the new main client. It was suggested that he will return at some point, but that the contributions would more likely be via coding, rather than uploading videos once again.
 
-I hope that this write-up hit older players with a wave of nostalgia as to how things used to be. I also hope that newer players had fun learning about this small, but meaningful period in osu! history, and how it has paved the way for the likes of [CPOL](https://www.youtube.com/@cpol_v1/videos) to continue carrying the torch for replay channels on YouTube.
+I hope that this write-up hit older players with a wave of nostalgia as to how things used to be. I also hope that newer players had fun learning about this small, but meaningful period in osu! history, and how it has paved the way for the likes of [CPOL](https://www.youtube.com/@cpol_v1) to continue carrying the torch for replay channels on YouTube.
 
 Even though Reese is no longer holding the camera, his legacy will always live in the community in some capacity.
 
