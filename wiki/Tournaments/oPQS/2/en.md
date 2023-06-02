@@ -11,17 +11,17 @@ tags:
 
 ![oPQS banner](img/banner.png)
 
-The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a LAN tournament featuring a Super Smash Bros.-styled Brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365) where each multiplayer room will have four players playing each other in a free-for-all (1v1v1v1) held on [CONQuest PH 2023](https://www.conquestph.com/).
+The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a LAN tournament featuring a *Super Smash Bros.*–styled brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365), where each multiplayer room has four players playing each other in a free-for-all (1v1v1v1), held at [CONQuest PH 2023](https://www.conquestph.com/).
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2023-03-28/2023-04-22 |
+| Registration phase | 2023-03-28/2023-04-22 |
 | Qualifiers | 2023-04-29/2023-05-13 |
-| Credentials Distribution | 2023-05-07/2023-05-20 |
-| Tournament Day 1 | 2023-06-02 |
-| Tournament Day 2 | 2023-06-03 |
+| Credentials distribution | 2023-05-07/2023-05-20 |
+| Tournament day 1 | 2023-06-02 |
+| Tournament day 2 | 2023-06-03 |
 
 ## Prizes
 
@@ -29,7 +29,7 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, ?? months of osu!supporter, Huion Tablet |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, ?? months of osu!supporter, Huion tablet |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, ?? months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, ?? months of osu!supporter |
 
@@ -37,23 +37,23 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 ## Organisation
 
-The osu! Philippines Quickfire Showdown 2023 was ran by various community members.
+The osu! Philippines Quickfire Showdown 2023 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730) |
+| Host | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIite](https://osu.ppy.sh/users/13470730) |
 | Mappool selector | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667), ::{ flag=PH }:: [Cohue](https://osu.ppy.sh/users/12538598)  |
 | Custom mapper | ::{ flag=PH }:: [Anastaxia](https://osu.ppy.sh/users/5375302), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=PH }:: [Kyuuchie](https://osu.ppy.sh/users/11057641), ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608), ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |
-| Playtesters | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=US }:: [SilenceSuzuka](https://osu.ppy.sh/users/7249644), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=PH }:: [xX_MusicMan_Xx](https://osu.ppy.sh/users/5718989), ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
-| Spreadsheet | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Kuchikicombi](https://osu.ppy.sh/users/2989462) |
+| Playtester | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=US }:: [SilenceSuzuka](https://osu.ppy.sh/users/7249644), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=PH }:: [xX_MusicMan_Xx](https://osu.ppy.sh/users/5718989), ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
+| Spreadsheet manager | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895) |
 | Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 
 ## Links
 
-- News article
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-29-osu-philippines-conquest-festival-2023)
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
@@ -99,7 +99,7 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 
 ### Finals
 
-- NoMod
+- No Mod
   1. [25-ji, Nightcord de. x Kagamine Len - Bug [Guruguru]](https://osu.ppy.sh/beatmapsets/1997245#osu/4151115)
   2. [Team Grimoire - Dantalion [Conflict]](https://osu.ppy.sh/beatmapsets/1622117#osu/3311891)
   3. [Shiggy Jr. - Oteage Psychics [Extra!!]](https://osu.ppy.sh/beatmapsets/1997246#osu/4151120)
@@ -123,11 +123,11 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
   3. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
   4. [Mitsukiyo - Luminous Memory [Insane]](https://osu.ppy.sh/beatmapsets/1796025#osu/3684847)
 - Tiebreaker
-  1. [Studio EIM - Gebura 1-3 [The Red Mist]](https://osu.ppy.sh/beatmapsets/1995931#osu/4148086)
+  1. **[Studio EIM - Gebura 1-3 [The Red Mist]](https://osu.ppy.sh/beatmapsets/1995931#osu/4148086)**
 
 ### Semifinals
 
-- NoMod
+- No Mod
   1. [25-ji, Nightcord de. x Kagamine Len - Bug [Guruguru]](https://osu.ppy.sh/beatmapsets/1997245#osu/4151115)
   2. [Mitsukiyo - Theme 91 [freeuma]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
   3. [Shiggy Jr. - Oteage Psychics [Extra!!]](https://osu.ppy.sh/beatmapsets/1997246#osu/4151120)
@@ -151,7 +151,7 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
   3. [raito - Blood Drain -Again- [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1152554#osu/2430721)
   4. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
 - Tiebreaker
-  1. [Dirty Loops & Cory Wong - Follow The Light [Racing to the Stars]](https://osu.ppy.sh/beatmapsets/1582334#osu/3231534)
+  1. **[Dirty Loops & Cory Wong - Follow The Light [Racing to the Stars]](https://osu.ppy.sh/beatmapsets/1582334#osu/3231534)**
 
 ### Round of 16
 
@@ -179,11 +179,11 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
   3. [mafumafu - Kakushigoto [NiNo's Light Insane.]](https://osu.ppy.sh/beatmapsets/770023#osu/1618984)
   4. [James Landino - Reaction feat. Slyleaf [Milan-'s Insane]](https://osu.ppy.sh/beatmapsets/972816#osu/2036668)
 - Tiebeaker
-  1. [Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)
+  1. **[Amatsuki - Chiisana Koi no Uta [Together]](https://osu.ppy.sh/beatmapsets/534788#osu/1169701)**
 
 ### Qualifiers
 
-- NoMod
+- No Mod
   1. [PassCode - ATLAS (Nao Tomori) [Collab Transcendence]](https://osu.ppy.sh/beatmapsets/1385282#osu/2861782)
   2. [69 de 74 - Grievous Fate (LeCandy) [candy]](https://osu.ppy.sh/beatmapsets/1948450#osu/4032765)
   3. [Yousei Teikoku - Naikan Uchuu Shisha no Yurikago (IsomirDiAngelo) [Atalanta's Extra]](https://osu.ppy.sh/beatmapsets/1306595#osu/3356229)
@@ -200,56 +200,56 @@ The osu! Philippines Quickfire Showdown 2023 was ran by various community member
 
 ## Ruleset
 
-### Tournament Format
+The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf).
 
-- The tournament format is free-for-all style (1v1v1v1).
+### Tournament format
+
+- The tournament format is free-for-all (1v1v1v1).
 - All maps in the mappool are set to be played in a predetermined order with the tiebreaker being played last.
-- Each player will be allocated points depending on their standing on each map and the top two players will advance to the next round.
-- Matches will continue as a single-elimination bracket until there are four players left in the finals. The player with the most points in the finals will be declared champion.
-- Prior to the live LAN Tournament specified in this format, a Pre-Qualification Phase is to be conducted weeks prior to the event.
-- They must be rank 99,999 or above by the end of registration, adjusted via the Badge Weighting System.
+- Each player will be allocated points depending on their standing on each map, with the top two players advancing to the next round.
+- Matches will continue as a single-elimination bracket until there are four players left in the Finals. The player with the most points in the Finals will be declared champion.
+- Prior to the live LAN tournament specified in this format, a pre-qualification phase is to be conducted weeks prior to the event.
+- They must be rank #99,999 or above by the end of registration, adjusted via a badge weighting system.
 
-### Mappool Structure
+### Mappool structure
 
-The star rating of the mappool ranges from 6.0 - 6.4 stars. Note that the star rating of the Tiebreaker will be a bit higher than the given range.
+The star rating of the mappool ranges from 6.0–6.4 stars. Note that the star rating of the tiebreaker will be a bit higher than the given range.
 
-**Pre-Qualification Phase:**
+#### Pre-qualification phase
 
-The Qualification mappool shall be composed of 10 maps. The structured is specified as follows:
+The Qualifier mappool will be composed of 10 maps. The structured is specified as follows:
 
-- NoMod (NM) - 4 maps
-- Hidden (HD) - 2 maps
-- HardRock (HR) - 2 maps
-- DoubleTime (DT) - 2 maps
+| Mappool bracket | Maps |
+| :-- | :-- |
+| No Mod (NM) | 4 |
+| Hidden (HD) | 2 |
+| Hard Rock (HR) | 2 |
+| Double Time (DT) | 2 |
 
-**Main Tournament:**
+#### Main tournament
 
-The mappool shall be structured to have 20 maps, one of which is dedicated as a tiebreaker. For every round, there will be 10 of the 20 maps that will be replaced. The tiebreaker will change every round, meaning the remaining 9 replacements are from the regular picks.
+The mappool is structured to have 20 maps, one of which is dedicated as a tiebreaker. For every round, 10 of the 20 maps will be replaced. The tiebreaker will change every round, meaning the remaining 9 replacements are from the regular picks.
 
 The pool structure for the tournament is specified below:
 
-- NoMod (NM) - 7 maps
-- Hidden (HD) - 4 maps
-- HardRock (HR) - 4 maps
-- DoubleTime (DT) - 4 maps
-- Tiebreaker (TB) - 1 map
+| Mappool bracket | Maps |
+| :-- | :-- |
+| No Mod (NM) | 7 |
+| Hidden (HD) | 4 |
+| Hard Rock (HR) | 4 |
+| Double Time (DT) | 4 |
+| Tiebreaker (TB) | 1 |
 
-### Match Proper
+### Match instructions
 
-The players should be set up within 10 minutes before the match starts.
-
-**The match are conducted with the following stipulations:**
-
-- No warm-ups
-- All players are to use the !roll command. The order of the bans and picks for each player is decided
-by the rolls whereas the highest roll being player 1 and the lowest player 4.
-  - Player 4 bans, Player 3 bans, Player 2 bans, Player 1 bans
-  - Player 1 picks, Player 2 picks, Player 3 picks, Player 4 picks
-  - Player 1 picks, Player 2 picks, Player 3 picks, Player 4 picks
-  - Thus each player has 1 ban and 2 picks
-- In the case of a multiplayer room that lacks a player, the off-site referee will randomly (using !roll) ban and select maps. The point distribution will not change.
+- The players should be set up within 10 minutes before the match starts.
+- There are no warm-ups.
+- All players are to use the `!roll` command. The order of the bans and picks for each player is decided by the result of the rolls, with the highest roll being player 1 and the lowest player 4:
+  - Player 4 bans, player 3 bans, player 2 bans, player 1 bans.
+  - Player 1 picks, player 2 picks, player 3 picks, player 4 picks.
+  - Player 1 picks, player 2 picks, player 3 picks, player 4 picks.
+  - Therfore each player has 1 ban and 2 picks.
+- In the case of a multiplayer room that lacks a player, the off-site referee will randomly (using `!roll`) ban and select maps. The point distribution will not change.
 - 8 maps will be played (2 picks by each player) and 1 tiebreaker.
-- Tiebreaker will always be played after all 8 maps have been played.
-- Mod usages are stipulated in the mappool; but in general, NoFail (NF) is forced for all matches.
-
-*Full tournament ruleset is found on the [Official Tournament Handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf)*
+- The tiebreaker will always be played after all 8 maps have been played.
+- Mod usages are stipulated in the mappool, but in general, No Fail (NF) is forced for all matches.
