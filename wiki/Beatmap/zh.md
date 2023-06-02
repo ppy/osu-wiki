@@ -24,7 +24,7 @@ tags:
 
 *主页面：[难度](/wiki/Beatmap/Difficulty)*
 
-*难度*是一个描述了打击物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
+*难度*是一个描述了打击物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定-(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
 
 ## 提交
 
