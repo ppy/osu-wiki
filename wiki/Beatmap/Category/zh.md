@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # 谱面分类
 
-已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、提名状态和受欢迎程度分为几类。
+已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、[提名](/wiki/Beatmap_ranking_procedure#过审)状态和受欢迎程度分为几类。
 
 ## 现有分类
 
@@ -12,11 +8,11 @@ no_native_review: true
 
 当谱面被[谱面作者](/wiki/Beatmap/Beatmap_host)遗弃，将会纳入坟场 (Graveyard) 分类。这些谱面没有排行榜，但仍可以下载和游玩，玩家也能在其上的游玩提升[玩家的统计信息](#未上架谱面的统计信息)。在[选歌界面](/wiki/Client/Interface#选歌界面)，这类谱面会显示出一个问号(![](/wiki/shared/status/graveyard.png))的标识。
 
-当谱面处于[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(work-in-progress-and-pending)) 状态，持续 4 周都没有更新后，将自动移入坟场分类。谱面作者可以从[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)处更新谱面，从而恢复它（将谱面移入[待定](#制作中和待定-(work-in-progress-and-pending))状态）。处于坟场的谱面不会占用谱师的[谱面上传限制](/wiki/osu!supporter#提高限额)，但如果要恢复它，则需要占用一个空闲的待定谱面格子。
+当谱面处于[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(Work-in-Progress-and-Pending)) 状态，持续 4 周都没有更新后，将自动移入坟场分类。谱面作者可以从[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)处更新谱面，从而恢复它（将谱面移入[待定](#制作中和待定-(Work-in-Progress-and-Pending))状态）。处于坟场的谱面不会占用谱师的[谱面上传限制](/wiki/osu!supporter#提高限额)，但如果要恢复它，则需要占用一个空闲的待定谱面格子。
 
 ### 制作中和待定 (Work in Progress and Pending)
 
-制作中（常简写为 WIP）和待定分类是初次提交谱面时，可供挑选的两个分类。这两个分类的谱面可在至少两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 提名后，移入[过审 (Qualified)](#过审-(qualified)) 分类。要让谱面进入过审分类，则通常需要摸图员提供大量的摸才能实现。制作中和待定状态的谱面没有排行榜，但在其上的游玩将纳入玩家的统计信息。在选歌界面，这类谱面会显示出一个问号 (![](/wiki/shared/status/pending.png)) 的标识。
+制作中（常简写为 WIP）和待定分类是初次提交谱面时，可供挑选的两个分类。这两个分类的谱面可在至少两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 提名后，移入[过审 (Qualified)](#过审-(Qualified)) 分类。要让谱面进入过审分类，则通常需要摸图员提供大量的摸才能实现。制作中和待定状态的谱面没有排行榜，但在其上的游玩将纳入玩家的统计信息。在选歌界面，这类谱面会显示出一个问号 (![](/wiki/shared/status/pending.png)) 的标识。
 
 处于这个分类，4 周都没有更新的谱面将自动移入[坟场 (Graveyard)](#坟场-(graveyard))分类。
 
