@@ -6,7 +6,7 @@ date: 2023-06-02 20:00:00 +0000
 
 Before livestreaming and player YouTube channels were widespread, you could rely only on one man with a camera...
 
-![](/wiki/shared/news/2023-05-01-osu-legacy-of-reesewashere/banner.jpg)
+![](/wiki/shared/news/2023-06-02-osu-legacy-of-reesewashere/banner.jpg)
 
 If you were even *slightly* engaged with the osu! community between 2015 and 2016, you might've heard of [ReeseWasHere](https://www.youtube.com/@ReeseWasHere). You may have even seen some of his YouTube videos, or at the very least caught wind of the saying *"Reese get the camera!!"* at the mention of an amazing high score (in homage to the [similar meme from the Call of Duty scene](https://www.youtube.com/watch?v=mLRbZJS5A_E)). So without further ado, let's get into the history of this legendary community member and see what they are up to now!
 
@@ -28,7 +28,7 @@ High-achieving players such as [Rafis](https://osu.ppy.sh/users/2558286), [Angel
 
 But what the community didn't know is that Reese's uploads were about to come to a screeching halt.
 
-![](/wiki/shared/news/2023-05-01-osu-legacy-of-reesewashere/tweet.png)
+![](/wiki/shared/news/2023-06-02-osu-legacy-of-reesewashere/tweet.png)
 
 On January 30th 2016, Reese officially announced via a now deleted [Reddit post](https://www.reddit.com/r/osugame/comments/43c2pk/future_of_the_reesewashere_youtube_channel/) on r/osugame and a [tweet](https://twitter.com/ReeseWasHere/status/693250557419593729) that the channel will no longer be active. I asked him if there was anything else that affected his decision to quit, besides getting a full-time job:
 
