@@ -18,11 +18,13 @@ As if by divine intervention, the initiative to share amazing moments perfectly 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EUSDdnNO0Ss" frameborder="0" allowfullscreen></iframe>
 
-The perfect storm of the community being hyped more than ever after Cookiezi's return to online play and Reese being in college with a lot of free time provided him with the opportunity to recording anything Cookiezi related as it happened, it seemed that he was always online and ready to record and would usually be the first person to upload a new top play from either Cookiezi or any other top player at the time.
+Emboldened by the hype from the community and finding himself in college with a lot of free time, Reese seized the opportunity to record almost anything Cookiezi related as it happened. For a time, it seemed that he was always online and ready to record at a moment's notice, usually ending up the as the first upload a new top play from either Cookiezi or any other top player at the time.
 
-Many iconic plays that have forever been engraved into osu! history have been captured during this period, such as the [1st ever FC on IMAGE -MATERIAL-](https://www.youtube.com/watch?v=Vm-zilvu8F0), [1st ever FC on Everything will freeze](https://www.youtube.com/watch?v=5d432cQoT-c) and the [1st ever 700pp score on Blue Zenith](https://www.youtube.com/watch?v=UYNpkDrCWtA), from which "727" meme was born and still refuses to die to this day ([thanks Aireu](https://www.youtube.com/watch?v=AaAF51Gwbxo&t=72s)).
+Many iconic plays that have forever been engraved into osu! history were captured during this period, such as the [1st ever FC on IMAGE -MATERIAL-](https://www.youtube.com/watch?v=Vm-zilvu8F0), the [1st ever FC on Everything will freeze](https://www.youtube.com/watch?v=5d432cQoT-c) and the [1st ever 700pp score on Blue Zenith](https://www.youtube.com/watch?v=UYNpkDrCWtA), from which "727" meme was born and still refuses to die to this day ([thanks Aireu](https://www.youtube.com/watch?v=AaAF51Gwbxo&t=72s)).
 
-Unknowingly to him at the time, the YouTube channel was starting to turn into a time capsule of a simpler time, what some consider to be the "golden age of osu!". At the time the hype at an all-time high with fierce competition for the #1 spot, a legendary player returning & the mapping meta shifting to "pp mapping" allowing for pp records to be shattered, the community was buzzing with excitement any time people such as [Rafis](https://osu.ppy.sh/users/2558286), [Angelsim](https://osu.ppy.sh/users/1777162) & Cookiezi would log on and would flock to either watch their stream or spectate them in-game. Foundations were also being laid for "replay recording" YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) that would start uploading in 2016, that would end up "competing" for subscribers, and being the first one to upload the latest plays.
+Unknown to him in the moment, Reese's YouTube channel was starting to turn into a time capsule of a simpler era, what some commentators today consider to be the "golden age of osu!". At the time, the combination of the hype towards fierce competition for the #1 spot, a legendary player returning and the mapping meta shifting to "pp mapping" (allowing for *big* pp numbers) was all spurring the community into a score-craving frenzy. 
+
+High-achieving players such as [Rafis](https://osu.ppy.sh/users/2558286), [Angelsim](https://osu.ppy.sh/users/1777162) and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to pick up the torch later in 2016, and spurning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
 
 But what the community didn't know is that Reese's uploads were about to come to a screeching halt.
 
@@ -40,4 +42,4 @@ Even though Reese is no longer holding the camera, his legacy will always live i
 
 *You can view the full text interview I did with him via [this link](https://gist.github.com/0x84f/61c96e7c18a77eccad7e543674bbf0e9). Thank you [Tanza3D](https://osu.ppy.sh/users/10379965) for the news post banner!*
 
-— 0x84f
+—0x84f
