@@ -80,14 +80,13 @@ Appuyez sur le numéro ou cliquez sur la barre pour l'activer :
 | `/delfriend [user]` | Supprime `[user]` de votre liste d'amis. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous envoyant un message privé. Laissez le champ vide pour annuler. | `/away Je suis John Smith.` | You have been marked as being away: I am John Smith. Quand Amigo /msg John Où es-tu~ ? BanchoBot : Je suis John Smith. |
 | `/bb` | Envoie un message à Bancho pour qu'il exécute une commande telle que `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [user]` | Ouvre un nouvel onglet de tchat avec l'utilisateur spécifié. | `/tchat Amigo` | (L'onglet Amigo est ouvert) |
+| `/chat [user]`, `/msg [user]` ou `/query [user]` | Ouvre un nouvel onglet de tchat avec l'utilisateur spécifié. | `/tchat Amigo` | (L'onglet Amigo est ouvert) |
 | `/clear` | Efface le contenu du tchat actuel. | `/clear` | (Efface pratiquement tout ce qui se trouve dans l'onglet actuel) |
 | `/ignore [user][@chp]` | Ignore tous les messages de l'utilisateur spécifié pour cette session. En ajoutant un @ suivi des lettres, c, h, et/ou p, vous pouvez les ignorer respectivement dans le tchat, les [highlights](Highlight), ou les PMs. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Votre console de tchat est réglée sur : ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
 | `/j [channel]` ou `/join [channel]` | Rejoint le salon spécifié | `/join #lobby` | (L'onglet #lobby est ouvert) |
 | `/p` ou `/part` | Quitte le salon actuel. | `/part` | n/a |
 | `/unignore [user]` | Arrête d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | You may now hear Amigo. (Votre console de tchat permettra d'accéder à tout commentaire fait par Amigo.) |
 | `/me [action]` | Effectue une action à la troisième personne. | `/me est à la maison` | *John est à la maison |
-| `/msg [user] [msg]` | Envoie un message privé à `[user]`. | `/msg Amigo Je suis malade à la maison.` | (Dans l'onglet d'Amigo) John: Je suis malade à la maison. |
 | `/np` | Imprime dans le tchat la musique en cours d'écoute ou en cours de jeu. | `/np` | (Si vous jouez) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` ou `/r` | Répondre au dernier message privé reçu. | `/r Connais tu un bon médecin ?` | (Dans l'onglet d'Amigo) \[Commentaires précédents\] John: Je suis malade à la maison. Amigo: Vraiment ? John: Connais tu un bon médecin ? |
 | `/savelog` | Enregistre l'onglet de tchat actuel dans un fichier texte. | `/savelog` | (Un dossier appelé "Chat" sera créé dans le répertoire d'osu! qui contiendra toutes les sauvegardes des futurs onglets de tchat.) |
