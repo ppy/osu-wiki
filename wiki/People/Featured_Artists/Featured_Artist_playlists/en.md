@@ -15,7 +15,7 @@ Access the playlists via the **play** menu on osu!(lazer) and filtering by **Fea
 
 ## Prizes
 
-Leaders of each Featured Artist playlist are rewarded with mode-specific profile badges.
+Players can earn mode-specific profile badges as per the **cumulative leaderboard** below.
 
 ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
