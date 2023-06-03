@@ -117,7 +117,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | Norway ::{ flag=NO }:: | ::{ flag=DK }:: Denmark | [Jun 3 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T143000&p1=1440&p2=187&p3=69) |  | [^losers-bracket] |
 | Argentina ::{ flag=AR }:: | ::{ flag=ID }:: Indonesia | [Jun 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T150000&p1=1440&p2=51&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=57&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=241&p3=187) |  | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=IT }:: Italy | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=188&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Sweden ::{ flag=SE }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T173000&p1=1440&p2=239&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Netherlands ::{ flag=NL }:: | ::{ flag=BE }:: Belgium | [Jun 3 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T180000&p1=1440&p2=16&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
@@ -127,22 +126,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Jun 4 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T020000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=DK }:: Denmark | [Jun 4 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T100000&p1=1440&p2=241&p3=69) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=DK }:: Denmark | [Jun 4 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T100000&p1=1440&p2=239&p3=69) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Jun 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T110000&p1=1440&p2=248&p3=57) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Jun 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T110000&p1=1440&p2=248&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=VN }:: Vietnam | [Jun 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T120000&p1=1440&p2=48&p3=95) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Jun 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T110000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=PL }:: Poland | [Jun 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T120000&p1=1440&p2=235&p3=262) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jun 4 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T130000&p1=1440&p2=16&p3=101) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=VN }:: Vietnam | [Jun 4 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T130000&p1=1440&p2=16&p3=95) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=ID }:: Indonesia | [Jun 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T140000&p1=1440&p2=195&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=AU }:: Australia | [Jun 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T150000&p1=1440&p2=166&p3=57) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Jun 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T150000&p1=1440&p2=166&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Chile ::{ flag=CL }:: | ::{ flag=PH }:: Philippines | [Jun 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T150000&p1=1440&p2=232&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Jun 4 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T160000&p1=1440&p2=37&p3=51) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=AR }:: Argentina | [Jun 4 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T160000&p1=1440&p2=195&p3=51) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=FI }:: Finland | [Jun 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T170000&p1=1440&p2=48&p3=101) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Belgium ::{ flag=BE }:: | ::{ flag=FI }:: Finland | [Jun 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T170000&p1=1440&p2=48&p3=101) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Semifinals |  mappool showcase | [Jun 4 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T183000&p1=1440) | [osulive](https://twitch.tv/osulive) | |
 
 ## Mappools
 
@@ -244,6 +233,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 3 June 2023:
+
+| Team A | | | Team B | Match link | Vod link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/108815303) | |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/108815304) | |
+| **Finland** ::{ flag=FI }:: | **6** | 2 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/108817349) | |
+| Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/108817409) | |
+| **Norway** ::{ flag=NO }:: | **6** | 1 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/108817942) | |
+| Argentina ::{ flag=AR }:: | 2 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/108818399) | |
+| **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/108819668) | |
+| **Taiwan** ::{ flag=TW }:: | **6** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/108819736) | |
+| Canada ::{ flag=CA }:: | 4 | **6** | ::{ flag=IT }:: **Italy** | [#1](https://osu.ppy.sh/community/matches/108819608) | |
+| Netherlands ::{ flag=NL }:: | 1 | **6** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/108821796) | |
 
 ### Round of 16
 
