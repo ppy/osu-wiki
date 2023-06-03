@@ -61,7 +61,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Auto (AT)](/wiki/Gameplay/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Gameplay/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Sólo en Cutting Edge (Experimental)**
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Solo en Cutting Edge (Experimental)**
 
 ### Otro
 
