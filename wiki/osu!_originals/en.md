@@ -331,6 +331,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Round of 32 tiebreaker |
 | [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850922) | Grand Finals NM6 |
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Grand Finals HD3 |
+| [VINXIS - Awaken](https://soundcloud.com/vinxis/awaken)[^fa] |  | Livestream BGM |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
@@ -424,6 +425,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [Sparxe - Zinnober](https://www.youtube.com/watch?v=P_THfvY2ID4) | [#1](https://osu.ppy.sh/beatmapsets/1754903) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Altermis - Chronaria](https://soundcloud.com/altermisdesu/chronaria-igts-2023-grand-finals-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1996407) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
 | Song | Beatmap | Notes |
@@ -441,6 +448,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://soundcloud.com/gtssoundteam/invenzione-no-3n-3r-sonatina) | [#1](https://osu.ppy.sh/beatmapsets/1569783) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) Manten's European Bluelock
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Flamme Du Savoir & Rayes Music - Tabula Rasa](https://open.spotify.com/album/6e9favyeV6o8wVI72F5yNB) | [#1](https://osu.ppy.sh/beatmapsets/1994973) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) PsychedelicMush's Scuffed AF Summer Tournament
 
@@ -460,6 +473,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [takehirotei - Alterism](https://soundcloud.com/takehirotei/alterism-full-version) | [#1](https://osu.ppy.sh/beatmapsets/1819534) | Grand Finals NM5 |
 | [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-fullest-adventure-from-the-abyss-to-divine-omt-2022-gf-tb) | [#1](https://osu.ppy.sh/beatmapsets/1819550) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Trailer music |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
@@ -632,7 +651,10 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Clemaister - Getting up](https://soundcloud.com/clemaister/getting-up) | [#1](https://osu.ppy.sh/beatmapsets/20130) |
 | Clemaister - New Story | [#1](https://osu.ppy.sh/beatmapsets/19902) |
 | [Clemaister (ft. Kamoflage) - Rewind](https://soundcloud.com/clemaister/rewind) | [#1](https://osu.ppy.sh/beatmapsets/18920) |
-| [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene) | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
+| [cygnus - 2007clocktower](https://cygnus7.bandcamp.com/track/2007clocktower)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1943426) |
+| [cygnus - Prophesy of the Black Sun](https://cygnus7.bandcamp.com/track/prophecy-of-the-black-sun)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1705290) |
+| [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
+| [cygnus - STRIKER+](https://cygnus7.bandcamp.com/track/striker)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1966073) |
 | Danzai - Error 001 | [#1](https://osu.ppy.sh/beatmapsets/20359) |
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |

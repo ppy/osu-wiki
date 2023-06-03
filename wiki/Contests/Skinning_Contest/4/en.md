@@ -11,6 +11,8 @@ tags:
 
 The **Skinning Contest #4: Icons of an Era** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the fourth official osu! skinning contest.
 
+The above banner features [Kleinne Lui's](https://osu.ppy.sh/users/27725651) entry for the [Journey into a Beatmap World](https://osu.ppy.sh/community/contests/175) art contest.
+
 ## Contest schedule
 
 | Event | Timestamp |
@@ -80,12 +82,13 @@ The Skinning Contest #4 is run by various community members.
 
 **Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
 
-## Theme: Icons of an Era {#theme}
+## Theme: Icons of an Era {id=theme}
 
 This iteration's theme, **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
 Each entry should have a prominent theme where the inspiration behind it is immediately recognisable, such as:
 
-- pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)
-- A group of beatmap backgrounds from a specific era in osu! history
-- The best mascot that has ever grazed osu! ([Taikonator 3000](/wiki/Mascots#taikonator))
+- skin centred around a beatmap background
+- skin centred around a group of beatmap backgrounds
+- skin focused around a specific mascot or group of mascots
+- any combination of the above (e.g. pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891))
