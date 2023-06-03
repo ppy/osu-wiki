@@ -4,7 +4,7 @@ no_native_review: true
 
 # Mascotas
 
-*Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery).*
+*Véase también: [Galería de mascotas](/wiki/Mascots/Gallery).*
 
 Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
@@ -14,7 +14,7 @@ Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showc
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, estilizado con una "p" minúscula, es la mascota de osu! que se unió en 2008-07. También se la conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
+pippi, estilizado con una «p» minúscula, es la mascota de osu! que se unió en 7/2008. También se la conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![icono de osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -22,7 +22,7 @@ pippi, estilizado con una "p" minúscula, es la mascota de osu! que se unió en 
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10, mide 172 cm de altura, y pesa 65 kg. Su diseño de arte actual fue diseñado por [Thievley](https://osu.ppy.sh/users/4717672). Mientras que su diseño de arte inicial y los sprites del catcher fueron hechos por [ztrot](https://osu.ppy.sh/users/6347); Daru creó el arte del comboburst.
+Yuzu es la mascota de osu!catch que se unió el 22/6/2014. Nació el 10/4/2000, mide 172 cm de altura, y pesa 65 kg. Su diseño de arte actual fue diseñado por [Thievley](https://osu.ppy.sh/users/4717672). Mientras que su diseño de arte inicial y los sprites del catcher fueron hechos por [ztrot](https://osu.ppy.sh/users/6347); Daru creó el arte del comboburst.
 
 ### ![icono de osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -30,7 +30,7 @@ Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Diseñados por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionados en [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciados como las mascotas oficiales de osu!mania el 2020-09-18, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
+Diseñados por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionados en [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciados como las mascotas oficiales de osu!mania el 18/9/2020, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
 
 Mani es algo así como un inconformista, siempre buscando explorar nuevos estilos y cosas, mientras que su hermana Mari (anteriormente conocida como Maria) es una perfeccionista rígida y clásica con una inclinación por ser el centro de atención. Los dos se llevan como el aceite y el agua.
 
@@ -50,7 +50,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 > Él es es apasionado líder del equipo de porras. ¡Tiene buen alma y ayuda a quienes lo rodean que están en peligro poniéndose de pie y luchando por ellos!
 
-一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en el 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
+一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
 
 Ryuuta también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
@@ -60,7 +60,7 @@ Ryuuta también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/user
 
 > Un experto en varios estilos de baile variando desde hip-hop hasta ballet, J puede hipnotizar a cualquier cosa viva.
 
-Agent J, también conocido como BA-2 (Beat Agent-2) o J, fue una de las mascotas de osu! en 2008 pero fue retirado en el 2014. Fue creado por iNiS Corporation y una vez fue parte del viejo sitio web.
+Agent J, también conocido como BA-2 (Beat Agent-2) o J, fue una de las mascotas de osu! en 2008 pero fue retirado en 2014. Fue creado por iNiS Corporation y una vez fue parte del viejo sitio web.
 
 Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
@@ -70,7 +70,7 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 > Don es el protagonista de las series de [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Es un tambor de taiko con un borde blanco y cuatro patas, una cara roja (que parece ser naranja moly), y un cuerpo azul claro. El sueño de Don es compartir la belleza de Taiko con el mundo. Han pasado tres años desde que el se mudó a la Casa Wada, y se ha vuelto bastante popular en la ciudad. Tiene un apetito monstruoso y algunas veces tiene compras caras en la Casa Wada que pueden hacerse algo de lo peor. Generalmente termina sus oraciones con «Ta-don», que significa «Ba-dum» en japonés.
 
-和田どん (Wada Don), también conocido cono Don o Don-chan, fue una de las mascotas de osu! para osu!taiko que se unió en 2008-05. Mide 48cm de alto y pesa más de 100kg. Aparece en la skin para osu!taiko. Su arte fue diseñado por Yukiko Yokoo (横尾有希子) y su voz fue creada por Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), también conocido cono Don o Don-chan, fue una de las mascotas de osu! para osu!taiko que se unió en 5/2008. Mide 48 cm de alto y pesa más de 100 kg. Aparece en la skin para osu!taiko. Su arte fue diseñado por Yukiko Yokoo (横尾有希子) y su voz fue creada por Narahashi Miki (楢橋 美紀).
 
 ## Comunidad
 
@@ -78,7 +78,7 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154cm de altura, y nació en 6/4/1999.
 
 ### Alisa
 
