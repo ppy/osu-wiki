@@ -257,7 +257,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 27 May 2023:
 
-| Team A |  |  | Team B | Match link | Vod link |
+| Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | New Zealand ::{ flag=NZ }:: | 0 | **6** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/108693176) | [#1](https://www.twitch.tv/videos/1830792607) |
 | Hong Kong ::{ flag=HK }:: | 0 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/108693215) | [#1](https://www.twitch.tv/videos/1830795373) |
@@ -269,7 +269,7 @@ Saturday, 27 May 2023:
 
 Sunday, 28 May 2023:
 
-| Team A |  |  | Team B | Match link | Vod link |
+| Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/108707279) | [#1](https://www.twitch.tv/videos/1831625463) |
 | Thailand ::{ flag=TH }:: | 1 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/108714928) | [#1](https://www.twitch.tv/videos/1831495461) |
@@ -287,7 +287,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 20 May 2023:
 
-| Team A |  |  | Team B | Match link | Vod link |
+| Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Mexico** ::{ flag=MX }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/108574037) | [#1](https://www.twitch.tv/videos/1824774924) |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/108576372) | [#1](https://www.twitch.tv/videos/1824779038) |
@@ -299,7 +299,7 @@ Saturday, 20 May 2023:
 
 Sunday, 21 May 2023:
 
-| Team A |  |  | Team B | Match link | Vod link |
+| Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/108591880) | [#1](https://www.twitch.tv/videos/1825546960) |
 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/108592468) | [#1](https://www.twitch.tv/videos/1825546960?t=0h59m34s) |
