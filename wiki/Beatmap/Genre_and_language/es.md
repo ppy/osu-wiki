@@ -21,7 +21,7 @@ El [listado de beatmaps](https://osu.ppy.sh/beatmapsets) tiene filtros disponibl
 
 ## Cambiar el género y el idioma de un beatmap
 
-El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un beatmap. La capacidad para hacerlo está determinada por el [grupo de usuario](/wiki/People/osu!_team#user-groups) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del beatmap:
+El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un beatmap. La capacidad para hacerlo está determinada por el [grupo de usuario](/wiki/People/User_group) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del beatmap:
 
 - Los propietarios de los conjuntos de beatmaps están permitidos cuando el beatmap está en la categoría [Trabajo en progreso](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), o [Abandonado](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
 - Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el beatmap está en la categoría [Calificado](/wiki/Beatmap/Category#calificados), Trabajo en progreso, o Pendiente.
