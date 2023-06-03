@@ -15,15 +15,15 @@ La **osu! World Cup 2021** (***OWC 2021***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2021-09-16/2021-09-30 |
-| Exhibición de la fase de clasificación | 2021-10-09 (14:00 UTC) |
-| Fase de clasificación | 2021-10-16/2021-10-17 |
-| Dieciseisavos de final | 2021-10-23/2021-10-24 |
-| Octavos de final | 2021-10-30/2021-10-31 |
-| Cuartos de final | 2021-11-06/2021-11-07 |
-| Semifinales | 2021-11-13/2021-11-14 |
-| Finales | 2021-11-20/2021-11-21 |
-| Gran Final | 2021-11-27/2021-11-28 |
+| Fase de registración | 16/9/2021 - 30/9/2021 |
+| Exhibición de la fase de clasificación | 9/10/2021 (14:00 UTC) |
+| Fase de clasificación | 16/10/2021 - 17/10/2021 |
+| Dieciseisavos de final | 23/10/2021 - 24/10/2021 |
+| Octavos de final | 30/10/2021 - 31/10/2021 |
+| Cuartos de final | 6/11/2021 - 7/11/2021 |
+| Semifinales | 13/11/2021 - 14/11/2021 |
+| Finales | 20/11/2021 - 21/11/2021 |
+| Gran Final | 27/11/2021 - 28/11/2021 |
 
 ## Premios
 
