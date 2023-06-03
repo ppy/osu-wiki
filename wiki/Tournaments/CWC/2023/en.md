@@ -131,7 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Chile ::{ flag=CL }:: | ::{ flag=PH }:: Philippines | [Jun 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T150000&p1=1440&p2=232&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Belgium ::{ flag=BE }:: | ::{ flag=FI }:: Finland | [Jun 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T170000&p1=1440&p2=48&p3=101) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Semifinals |  mappool showcase | [Jun 4 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T183000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| Semifinals | mappool showcase | [Jun 4 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T183000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
 
@@ -238,7 +238,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 Saturday, 3 June 2023:
 
-| Team A | | | Team B | Match link | Vod link |
+| Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/108815303) |  |
 | **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/108815304) |  |
