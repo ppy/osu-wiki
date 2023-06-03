@@ -1,12 +1,10 @@
 ---
 layout: main_page
 no_native_review: true
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <div class="wiki-main-page__blurb">
-Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basierten Informationen beinhaltet.
+Willkommen zum osu!-Wiki. Ein Projekt, das ein breites Spektrum an Informationen rund um das kostenlose Rhythmusspiel osu! beinhaltet.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -18,7 +16,7 @@ Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzu
 
 [Regeln](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_centre)
 
-[Chat-Konsole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Tutorials](/wiki/Guides) • [Glossar](/wiki/Sitemap)
+[Chat-Konsole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Tutorials](/wiki/Guides) • [Seitenübersicht](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -60,7 +58,7 @@ Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/C
 
 # Beatmap-Einreichung und Ranking
 
-Ranking ist der Prozess eine Beatmap auf einer Rangliste darzustellen und die Beatmap so populär werden zu lassen. Entdecke, wie man die Chancen erhöht, eine Beatmap erfolgreich durch den Bewertungsprozess zu bringen; sowie Qualitätskontrolle innerhalb des Prozesses.
+Ranking ist der Prozess, eine Beatmap auf einer Rangliste darzustellen und die Beatmap so populär werden zu lassen. Entdecke, wie man die Chancen erhöht, eine Beatmap erfolgreich durch den Bewertungsprozess zu bringen; sowie Qualitätskontrolle innerhalb des Prozesses.
 
 [Einreichen](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -99,11 +97,11 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 
 Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
-Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord-Server](/wiki/Community/Discord_servers)
 
 [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
-[Projekte](/wiki/Community/Projects) • [Featured Artists](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projekte](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -114,9 +112,9 @@ Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und im Community-Management tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
-[Das Team](/wiki/People/osu!_team): [Entwickler](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team)
+[osu!-Team](/wiki/People/osu!_team) • [Entwickler](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzergruppe](/wiki/People/User_group) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -134,9 +132,9 @@ Interagiere mit osu! durch andere Applikationen und Medien oder helfe bei seiner
 
 Wie fast alles hier, wird auch das osu!-Wiki von Freiwilligen verwaltet und betrieben. Schlage eine Idee vor, melde einen Fehler oder schreibe selbst einen Artikel im [osu-wiki GitHub-Verzeichnis](https://github.com/ppy/osu-wiki).
 
-[Geschichte von osu!](/wiki/History_of_osu!) • [Geschichte des osu!-Wikis](/wiki/History_of_osu!/osu!_wiki) • [Mapping und Modding Übersicht](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Aprilscherze](/wiki/History_of_osu!/April_Fools)
+[Geschichte von osu!](/wiki/History_of_osu!) • [Geschichte der Online-Ranglisten](/wiki/History_of_osu!/Online_rankings) • [Geschichte des osu!-Wikis](/wiki/History_of_osu!/osu!_wiki) • [Mapping und Modding Übersicht](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Aprilscherze](/wiki/History_of_osu!/April_Fools)
 
-[Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki/Contribution_guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_styling_criteria) • [Kriterien für die Gestaltung von Neuigkeiten](/wiki/News_styling_criteria)
+[Seitenübersicht](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki/Contribution_guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_styling_criteria) • [Kriterien für die Gestaltung von Neuigkeiten](/wiki/News_styling_criteria)
 
 </div>
 </div>
