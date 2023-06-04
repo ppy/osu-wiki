@@ -1,8 +1,3 @@
---- 
-outdated_translation: true
-outdated_since: 280f546b4d6cc6603de17556a6c99989398fe205
---- 
-
 <!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
 
 # News styling criteria
