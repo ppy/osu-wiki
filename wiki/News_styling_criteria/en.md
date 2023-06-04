@@ -1,3 +1,8 @@
+--- 
+outdated_translation: true
+outdated_since: 280f546b4d6cc6603de17556a6c99989398fe205
+--- 
+
 <!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
 
 # News styling criteria
@@ -8,7 +13,7 @@ News articles exist on a slightly different system to the main osu! wiki, but fo
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
-If you are interested in contributing to the news portion of osu!, reach out on the osu! [Discord server](https://discord.gg/ppy) under ``osu-news``.
+If you are interested in contributing to the news portion of osu!, reach out on the osu! [Discord server](https://discord.gg/ppy) under the ``#osu-news`` chat room.
 
 ## Repository directory
 
@@ -122,5 +127,3 @@ Limited HTML use for the purposes of embedding off-site content such as YouTube 
 ``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``) is disallowed due to the news system styling automatically centring non-text elements.
 
 The width of all embedded content frames must be set to ``width: 95%``. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
-
-outdated: true
