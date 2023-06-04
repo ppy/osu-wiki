@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f174c37ca8ff02ae1f4bc51c3a0cd928a08f5bf4
----
-
 # Directives d'identité de marque
 
 Les directives d'identité de marque sont un ensemble de normes pour les projets liés à osu! Toute utilisation ne nécessite pas d'approbation.
@@ -11,7 +6,7 @@ Les directives d'identité de marque sont un ensemble de normes pour les projets
 
 ## osu!
 
-Le nom du jeu, osu!, ne doit pas prendre de majuscule. La marque officielle osu! ne doit pas utiliser d'espaces :
+Le nom du jeu, osu!, ne doit pas prendre de majuscule ou d'italique. La marque officielle osu! ne doit pas utiliser d'espaces :
 
 - Modes de jeu : `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Projets : `osu!academy`, `osu!talk`
