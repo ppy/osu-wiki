@@ -8,6 +8,8 @@ News articles exist on a slightly different system to the main osu! wiki, but fo
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
+If you are interested in contributing to the news portion of osu!, reach out on the osu! [Discord server](https://discord.gg/ppy) under ``osu-news``.
+
 ## Repository directory
 
 The following standards apply only to articles written for the news, and saved in the `news` directory.
@@ -70,7 +72,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown), about which you can learn more [here](https://github.github.com/gfm/). There are some exceptions:
+The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
 
 - Titles
 - Headers
@@ -120,3 +122,5 @@ Limited HTML use for the purposes of embedding off-site content such as YouTube 
 ``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``) is disallowed due to the news system styling automatically centring non-text elements.
 
 The width of all embedded content frames must be set to ``width: 95%``. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
+
+outdated: true
