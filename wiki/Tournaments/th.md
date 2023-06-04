@@ -13,8 +13,6 @@ outdated_since: 70fd166193a632f68f3c3ec84d64c07a8dbfbd38
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup นั้นจะแบ่งทีมเป็นประเทศ ซึ่งจะแข่งเป็น 4v4 Team VS ตามกฎ Double Elimination ซึ่งเป็นการแข่งระหว่างประเทศ และจะถูกจัดขึ้นทุก ๆ ปี โดยที่ชุมชน osu! ทั่วโลกนั้นช่วยกันจัดทัวร์นาเมนต์นี้ขึ้นมา
-
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: ไต้หวัน | ::{ flag=NL }:: เนเธอร์แลนด์ | ::{ flag=KR }:: เกาหลีใต้ |
