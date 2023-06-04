@@ -6,7 +6,7 @@
 
 ## Point of contact
 
-The team can **only** be reached by sending a mail to [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [privacy@ppy.sh](mailto:privacy@ppy.sh). The identities of its members are kept secret in order to protect them from unwanted attention.
+The team can **only** be reached by sending a mail to [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh), or [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The identities of its members are kept secret in order to protect them from unwanted attention.
 
 It usually takes a few days for support to get to the email. If there is no response within a week, it is worth sending a follow-up message about the case.
 
