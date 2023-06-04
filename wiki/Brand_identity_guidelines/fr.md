@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f174c37ca8ff02ae1f4bc51c3a0cd928a08f5bf4
+---
+
 # Directives d'identité de marque
 
 Les directives d'identité de marque sont un ensemble de normes pour les projets liés à osu! Toute utilisation ne nécessite pas d'approbation.

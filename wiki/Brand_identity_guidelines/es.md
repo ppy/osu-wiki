@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f174c37ca8ff02ae1f4bc51c3a0cd928a08f5bf4
 ---
 
 # Directrices de identidad de marca
