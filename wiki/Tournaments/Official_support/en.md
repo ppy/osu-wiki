@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -42,7 +42,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
 
-If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
+If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
 - A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features
 - Any links to:
@@ -96,7 +96,7 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers may play in the tournament.
 - Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, may not play in a badged tournament — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Staff with any role not listed here, may not play in a badged tournament — if you have any doubts, please contact the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 

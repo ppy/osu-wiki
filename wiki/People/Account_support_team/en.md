@@ -42,3 +42,7 @@ You should contact this team regarding account-related topics that are out of yo
 
 - [Data requests](/wiki/Legal/Privacy#data-controller) and privacy concerns.
 - **Permanent** [account deletion requests](/wiki/Legal/Privacy#your-rights-and-control).
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- [Official tournament support](/wiki/Tournaments/Official_support) requests and general inquiries about tournaments in consultation with the [Tournament Committee](/wiki/People/Tournament_Committee).
