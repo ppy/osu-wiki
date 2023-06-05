@@ -1,5 +1,3 @@
-<!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
-
 # News styling criteria
 
 *For wiki articles, see: [Article Styling Criteria](/wiki/Article_styling_criteria)*
@@ -74,47 +72,23 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
+The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown), the use of which has been noted in the [article styling criteria](/wiki/Article_styling_criteria/) wiki page, however there are some exceptions:
 
-- Titles
-- Headings: Heading level 1 (`#`), corresponding to an article title, must not be used, because it is provided by the front matter.
-- Bold
-- Italics
-- Horizontal bar
-- Tables
+- Headings
+  - Heading level 1 (`#`), corresponding to an article title, must not be used, because it is provided by the front matter.
 - Images
   - Images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the `osu-wiki` shared image repository. News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, except for the ``.md`` suffix. Example:
   ``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
 - Covers
-  - Cover images should have a minimum width of 900 and minimum height of 200 for their base size. A `@2x` version with each dimension doubled should be provided if the source image is large enough to support it. Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory. <!-- TODO: there should be a more general place to explain how and why @2x images can be used, this isn't enough info and it's not only for cover images. -->
+  - Cover images should have a minimum width of 900 and minimum height of 200 for their base size. A `@2x` version with each dimension doubled should be provided if the source image is large enough to support it. Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory.
 
-News articles should have a [block image](/wiki/Article_styling_criteria/Formatting#display) after the preview paragraph for use as a **cover** (sometimes called *banner*). The game client and website automatically use the first image in an article as a cover on the front page, news listing, and news article view.
+News posts must have a [block image](/wiki/Article_styling_criteria/Formatting#display) after the preview paragraph for use as a **cover** (sometimes called *banner*). The first image in an article will be used as a cover on the front page, news listing, and news article view.
 
-#### Formats and quality
+The cover must not contain any alt text within the squared brackets of an image link.
 
-Images used in news articles must be in JPG format at quality 9 (90) to quality 10 (100). PNG use is acceptable in instances where the file size is small, or quality cannot afford to be compromised.
+#### Formats, quality and file sizes
 
-#### File size
-
-Images must be under 1 megabyte, or they will fail to load.
-
-All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
-
-```
-jpeg-recompress -am smallfry <input> <output>
-```
-
-Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
-
-Alternatively, [this site](https://ezgif.com/) can be used to convert & optimise images.
-
-#### Captions
-
-Images are not soft-captioned using Markdown except in stylistic circumstances. They may be hard-captioned where contextually appropriate.
-
-#### Alt text
-
-Alt text is not to be used in banners.
+Please refer to the [article styling criteria](/wiki/Article_styling_criteria/Formatting#formats-and-quality) wiki page.
 
 ### HTML and embedded content
 
