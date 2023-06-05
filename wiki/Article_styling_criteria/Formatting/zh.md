@@ -717,11 +717,11 @@ https://osu.ppy.sh/beatmapsets/{谱面ID (SID)}
 
 所有图像应该尽可能地优化。使用 [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) 来压缩 JPEG 图像。为了确保一致性，请在 jpeg-archive 中使用此命令：
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-`<input>` 填入需要压缩的文件名，`<output>` 填入压缩好的文件名。
+另外，[这个网站](https://ezgif.com/)也能用于转换和优化图像。
 
 ### 文件名
 
