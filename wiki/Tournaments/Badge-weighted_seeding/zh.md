@@ -17,7 +17,7 @@ tags:
 
 # 奖牌加权选种 (BWS)
 
-**奖牌加权选种** (***Badge-weighted seeding, BWS***) 是综合考虑到每个锦标赛选手的[主页奖牌（牌子）](/wiki/Community/Profile_badge)数量和他们的[全球排名](/wiki/Ranking#performance-points-ranking)，给参与[锦标赛](/wiki/Tournaments)的选手[初步定级（选种）](https://en.wikipedia.org/wiki/Seed_(sports))的限制系统。 这个系统最初由 ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 设计，与直接使用选手全球排名的这种标准初步定级（选种）方法相比 [^hippo-cup-bws]，这个系统的目标是“根据选手的主页奖牌数量，更准确地进一步限制选手，影响选手的初步定级（选种）位置”。
+**奖牌加权选种** (***Badge-weighted seeding, BWS***) 是综合考虑到每个锦标赛选手的[主页奖牌（牌子）](/wiki/Community/Profile_badge)数量和他们的[全球排名](/wiki/Ranking#performance-points-ranking)，给参与[锦标赛](/wiki/Tournaments)的选手[初步定级（选种）](https://en.wikipedia.org/wiki/Seed_(sports))的限制系统。 这个系统最初由 ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 设计，与直接使用选手全球排名的这种标准初步定级（选种）方法相比，这个系统的目标是“根据选手的主页奖牌数量，更准确地进一步限制选手，影响选手的初步定级（选种）位置”。[^hippo-cup-bws]
 
 BWS 的原则是，如果选手在过去的锦标赛中获得主页奖牌，那么他们应该获得更高的初步定级。这样的话，如果某个选手表现出色[^digitalhypno-discord-1][^digitalhypno-discord-2]，那么他们就不能无限制地和与他世界排名差不多的选手处于同一个初步定级。在使用 BWS 的系列赛中，初始排名相似的选手将根据 BWS 获得初步定级，从而更好地反映他们与平衡选手在对局中获胜的几率。[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
