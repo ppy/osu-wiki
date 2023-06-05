@@ -707,11 +707,11 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 
 모든 이미지는 가능한 한 최적화해야 합니다. JPEG 이미지를 압축하려면 [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive)를 사용하세요. 일관적으로 jpeg-archive에는 다음과 같은 명령어를 사용하세요:
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-`<input>`에는 압축할 파일 이름, `<output>`에는 압축된 파일 이름을 넣어주세요.
+혹은, [이 사이트](https://ezgif.com/)에서 이미지 변환 및 최적화가 가능합니다.
 
 ### 파일 이름
 
