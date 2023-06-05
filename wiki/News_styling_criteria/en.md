@@ -72,7 +72,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown), the use of which has been noted in the [article styling criteria](/wiki/Article_styling_criteria/) wiki page, however there are some exceptions:
+The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown), the use of which has been noted in the [article styling criteria](/wiki/Article_styling_criteria) wiki page, however there are some exceptions:
 
 - Headings
   - Heading level 1 (`#`), corresponding to an article title, must not be used, because it is provided by the front matter.
