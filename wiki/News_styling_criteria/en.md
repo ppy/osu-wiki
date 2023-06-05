@@ -8,7 +8,7 @@ News articles exist on a slightly different system to the main osu! wiki, but fo
 
 As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
-If you are interested in contributing to the news portion of osu!, reach out on the osu! [Discord server](https://discord.gg/ppy) under the ``#osu-news`` chat room.
+Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact [Ephemeral](https://osu.ppy.sh/users/102335) or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
 
 ## Repository directory
 
@@ -46,9 +46,11 @@ Pleasingly neutral, however vague, refers to an article that is both light and r
 
 ### Article file names
 
-News articles are markdown files (``.md``) are named under the following format:
+News articles are markdown files (`.md`) placed in the `news` directory of the [`osu-wiki` GitHub repository](https://github.com/ppy/osu-wiki), under the following format:
 
-``yyyy-mm-dd-<article-title>.md``
+```
+news/yyyy/yyyy-mm-dd-<article-title>.md
+```
 
 Article title strings for file names are the title of the article itself with all spaces replaced with hyphens (`-`), and all additional characters (such as punctuation marks) removed with no replacement.
 
@@ -75,8 +77,7 @@ date: 2017-08-17 03:00:00 +0000
 The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
 
 - Titles
-- Headers
-  - Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. They have unique identifiers and can be linked directly to. Never use headers to style or format text.
+- Headings: Heading level 1 (`#`), corresponding to an article title, must not be used, because it is provided by the front matter.
 - Bold
 - Italics
 - Horizontal bar
