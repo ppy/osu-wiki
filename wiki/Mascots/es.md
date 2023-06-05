@@ -78,7 +78,7 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154cm de altura, y nació en 1999-04-06.
 
 ### Alisa
 
@@ -102,4 +102,4 @@ Taikonator, también conocido como Taikonator 3000, fue uno de los participantes
 
 ![Tama](img/Tama.png "Tama")
 
-Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
+Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con solo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.

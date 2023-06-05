@@ -173,7 +173,7 @@ El límite más alto es de 27 puntos de dificultad con CS7, OD10 y HP10. El lím
 
 El CS normalmente no puede ir por debajo de 2 o por encima de 7 (requiere una modificación directa del archivo `.osu`).
 
-Ten en cuenta que los modificadores de juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Sólo se dará cuenta los valores originales.
+Ten en cuenta que los modificadores de juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Solo se dará cuenta los valores originales.
 
 ### Juicio de los circulos de golpeo
 
