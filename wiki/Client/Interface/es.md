@@ -58,7 +58,7 @@ Acceda a esta pantalla haciendo clic en su perfil en la parte superior izquierda
 
 Después de seleccionar `Play` en el menú principal, puede elegir entre tres opciones:
 
-- Haga clic en `Solo` (o presione `P`) para jugar por su cuenta. Esto lo lleva a la [pantalla de selección de canciones](#song-select).
+- Haga clic en `Solo` (o presione `P`) para jugar por su cuenta. Esto lo lleva a la [pantalla del selector de canciones](#selector-de-canciones).
 - Haga clic en `Multi` (o presione `M`) para jugar con otras personas. Será dirigido a la sala de [Multijugador](/wiki/Client/Interface/Multiplayer).
 - Haga clic en `Back` para volver al menú principal.
 
@@ -69,3 +69,125 @@ Después de seleccionar `Play` en el menú principal, puede elegir entre tres op
 ![](img/multi-lobby.jpg "Sala multijugador")
 
 La sala multijugador le permite jugar con y contra otros jugadores.
+
+## Selector de canciones
+
+![](img/song-selection.jpg "Selector de canciones")
+
+El icono del [modo de juego](/wiki/Game_mode) actualmente seleccionado se puede ver en las opciones de la parte inferior izquierda, arriba de `Mode`. El icono del modo también se ve débilmente en el centro de la pantalla. Estos son los cuatro que verá:
+
+- ![](/wiki/shared/mode/osu.png) es [osu!](/wiki/Game_mode/osu!)
+- ![](/wiki/shared/mode/taiko.png) es [osu!taiko](/wiki/Game_mode/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) es [osu!catch](/wiki/Game_mode/osu!catch)
+- ![](/wiki/shared/mode/mania.png) es [osu!mania](/wiki/Game_mode/osu!mania)
+
+Antes de continuar, esta pantalla tiene demasiados elementos para anotar con números fácilmente perceptibles. Las subsecciones a continuación se centrarán en una parte de la pantalla a la vez, comenzando de arriba a abajo y de izquierda a derecha.
+
+### Información del mapa
+
+![](img/metadata-comparison.jpg)
+
+Esta área muestra **información sobre la dificultad del mapa seleccionada actualmente.** Al ingresar a la pantalla del selector de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El ícono superior izquierdo muestra la [categoría del mapa](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#ranked).
+
+El título de la canción normalmente se muestra romanizado (imagen inferior), pero si selecciona `Mostrar datos de canciones en su idioma original` en las [Opciones](/wiki/Client/Options), se mostrará el título Unicode (imagen superior). El nombre de la dificultad del mapa se muestra entre corchetes (`[]`). El creador que mapeó el mapa se muestra debajo del título, e incluso se incluye más información a continuación. De izquierda a derecha, los valores son los siguientes:
+
+- **Duración**: La duración total del mapa, de principio a fin, incluidos los descansos. No debe confundirse con el [tiempo de drenaje](/wiki/Beatmap/Drain_time).
+- **BPM**: *Beats Por Minuto*, el tempo de la canción. Si hay dos valores de BPM además de uno entre paréntesis, significa que el BPM cambia a lo largo de la canción. Muestra el BPM más lento y el más rápido, y el valor entre paréntesis es el BPM más común en el mapa.
+- **Objetos**: La cantidad total de [objetos de golpeo](/wiki/Gameplay/Hit_object) en el mapa.
+- **Círculos**: La cantidad total de [círculos de golpeo](/wiki/Gameplay/Hit_object/Hit_circle) (osu! y osu!taiko), [frutas](/wiki/Gameplay/Hit_object/Fruit) (osu!catch), o notas regulares (osu!mania) en el mapa.
+- **Deslizadores**: La cantidad total de [deslizadores](/wiki/Gameplay/Hit_object/Slider) (osu!), redobles de tambores (osu!taiko), [corrientes de jugo](/wiki/Gameplay/Hit_object/Juice_stream) (osu!catch), o notas para sostener (osu! mania) en el mapa.
+- **Ruletas**: La cantidad total de [ruletas](/wiki/Gameplay/Hit_object/Spinner) (osu!), dendens (osu!taiko), o [lluvia de plátanos](/wiki/Gameplay/Hit_object/Banana) (osu!catch) en el mapa.
+- **OD**: La [dificultad general](/wiki/Beatmap/Overall_difficulty) del mapa.
+- **HP**: La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate). Véase el artículo sobre la [salud](/wiki/Gameplay/Health) para obtener más detalles.
+- **Estrellas**: La [clasificación de estrellas](/wiki/Beatmap/Star_rating) del mapa. La cantidad de estrellas también es fácilmente visible en el carrusel del mapa.
+
+### Agrupar y Ordenar
+
+![](img/beatmap-filters.jpg)
+
+Haga clic en una de las pestañas para **ordenar su lista de canciones según el criterio seleccionado**.
+
+#### Agrupar
+
+Estas opciones organizan los mapas en varios grupos expandibles:
+
+| Agrupamiento | Descripción |
+| :-: | :-- |
+| `Sin ordenar` | Los mapas no se agruparán, pero aún se ordenarán en el orden especificado por Ordenar. |
+| `Por Dificultad` | Los mapas se agruparán por su calificación de estrellas, redondeada a un número entero. |
+| `Por Artista` | Los mapas se agruparán por el primer carácter del nombre del artista. |
+| `Recién jugados` | Los mapas se agruparán según la última vez que los jugaste. |
+| `Colecciones` | Esto mostrará las colecciones que ha creado. *¡Tenga en cuenta que esto ocultará los mapas que no figuren en una colección!* |
+| `Por BPM` | Los mapas se agruparán según su BPM en múltiplos de 60. |
+| `Por Creador` | Los mapas se agruparán por el primer carácter del nombre del creador del mapa. |
+| `Por Fecha de adición` | Los mapas se agruparán según el momento en que se agregaron, desde hoy hasta hace más de 5 meses. |
+| `Por Duración` | Los mapas se agruparán según su duración: 1 minuto o menos, 2 minutos o menos, 3, 4, 5, 10, y 10 minutos o más. |
+| `Por Modo` | Los mapas se agruparán según su modo de juego. |
+| `Por Rango obtenido` | Los mapas se ordenarán por el [rango](/wiki/Gameplay/Grade) más alto alcanzado en ellos. |
+| `Por Título` | Los mapas se agruparán por el primer carácter del título. |
+| `Favoritos` | Solo se mostrarán los mapas que haya marcado como favoritos en línea. |
+| `Mis mapas` | Solo se mostrarán los mapas que haya mapeado (es decir, cuyo creador coincida con su nombre de perfil). |
+| `Estado de aprobación` | Los mapas se agruparán por su estado: clasificado, pendiente, no enviado, desconocido, o amado. |
+
+Las primeras cinco agrupaciones están disponibles en las pestañas debajo de Agrupar y Ordenar.
+
+#### Ordenar
+
+Ordena los mapas en un orden determinado.
+
+| Criterio de orden | Descripción |
+| :-: | :-- |
+| `Por Artista` | Los mapas se ordenarán alfabéticamente por artista. |
+| `Por BPM` | Los mapas se ordenarán de menor a mayor por su BPM. Para los mapas con BPM cambiantes, se utilizará el más alto. |
+| `Por Creador` | Los mapas se ordenarán alfabéticamente por creador. |
+| `Por Fecha de adición` | Los mapas se ordenarán según el momento en que se agregaron, del más antiguo al más nuevo. |
+| `Por Dificultad` | Los mapas se ordenarán por calificación de estrellas, del más fácil al más difícil. *¡Tenga en cuenta que esto dividirá las dificultades del mapa!* |
+| `Por Duración` | Los mapas se ordenarán por duración, del más corto al más largo. |
+| `Por Rango obtenido` | Los mapas se ordenarán por el rango más alto alcanzado en ellos, de peor a mejor. |
+| `Por Título` | Los mapas se ordenarán alfabéticamente por el título de la canción. |
+
+### Buscar
+
+![](img/search-bar.jpg)
+
+*Nota: No puede tener la consola del chat o la barra lateral de opciones abiertas si desea buscar. De lo contrario, todo lo que escriba se percibirá como texto de chat o como una consulta de búsqueda de opciones.*
+
+Solo se mostrarán los mapas que coincidan con los criterios de su búsqueda. De forma predeterminada, cualquier búsqueda se comparará con los artistas, títulos, creadores y etiquetas de los mapas.
+
+Además de buscar en estos campos, puede usar filtros para buscar en otros metadatos al combinar uno de los filtros admitidos con una comparación con un valor (por ejemplo, `ar=9`).
+
+Filtros compatibles:
+
+| Filtro | Descripción |
+| :-: | :-- |
+| `artist` | Nombre del artista |
+| `creator` | Nombre del creador del mapa |
+| `title` | Nombre de la pista |
+| `difficulty` | Nombre de la dificultad del mapa |
+| `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
+| `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
+| `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
+| `hp` | [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) |
+| `key`, `keys` | Número de teclas (solo osu!mania y mapas convertidos) |
+| `star`, `stars` | [Clasificación de estrellas](/wiki/Beatmap/Star_rating) |
+| `bpm` | Beats por minuto |
+| `length` | Duración en segundos |
+| `drain` | [Tiempo de drenaje](/wiki/Beatmap/Drain_time) en segundos |
+| `mode` | Modo de juego. Puede ser `osu`, `taiko`, `catch` o `mania`, o `o`/`t`/`c`/`m` para abreviar. |
+| `status` | Estado del mapa. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/` l` para abreviar. |
+| `played` | Tiempo desde la última jugada en días |
+| `unplayed` | Muestra solo los mapas no jugados. Se debe usar una comparación sin valor establecido (por ejemplo, `unplayed=`). La comparación en sí se ignora. |
+| `speed` | Velocidad de desplazamiento guardada de osu! mania. Siempre 0 para mapas no jugados o si la opción [`Recordar la velocidad de desplazamiento de cada mapa en osu!mania`](/wiki/Client/Options#gameplay) está desactivada. |
+
+Comparaciones compatibles:
+
+| Comparación | Descripción |
+| :-: | :-- |
+| `=` o `==` | Igual a |
+| `!=` | No igual a |
+| `<` | Menor que |
+| `>` | Mayor que |
+| `<=` | Menor que o igual a |
+| `>=` | Mayor que o igual a |
+
+También puede ingresar el número de la ID de la dificultad o del mapa en su búsqueda para obtener un solo resultado.
