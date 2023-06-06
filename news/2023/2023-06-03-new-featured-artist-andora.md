@@ -8,7 +8,7 @@ date: 2023-06-03 11:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/363/header.jpg)
 
-While **Andora** has been producing pop/EDM tracks for nearly 10 years, they've only recently been noticed by the osu! community. In mid-2020, their track *Dawn* shifted **Andora**'s  style to J-pop tunes that feature vocalists you've probably heard like *WaMi*, *RANASOL*, and *Such*.
+While **Andora** has been producing pop/EDM tracks for nearly 10 years, they've only recently been noticed by the osu! community. In mid-2020, their track *Dawn* shifted **Andora**'s style to J-pop tunes that feature vocalists you've probably heard like *WaMi*, *RANASOL*, and *Such*.
 
 **6** upbeat bops are ready for mapping thanks to the pre-timed beatmap templates on [**Andora**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/363)!
 
@@ -18,7 +18,7 @@ Curious what **Andora** sounds like? Try out one of the [**Featured Artist playl
 
 osu!(lazer) has a new multiplayer mode called **playlists**, which is basically a temporary competitive leaderboard for a series of maps. 
 
-With the help of mappers from the [Mappers' Guild](/wiki/Community/Mappers_Guild), we've set up some *osu!* and *osu!mania* [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists) covering **every artist released last month**, along with **Andora**.
+With the help of mappers from the [Mappers' Guild](/wiki/Community/Mappers_Guild), we've set up some osu! and osu!mania [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists) covering **every artist released last month**, along with **Andora**.
 
 These playlists are usually dominated by *certain players* (hello fieryrage), so we're opening up some alternative prizing for those who want to earn their own **Featured Artist playlist** profile badge:
 
