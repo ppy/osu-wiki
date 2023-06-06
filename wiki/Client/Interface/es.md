@@ -191,3 +191,139 @@ Comparaciones compatibles:
 | `>=` | Mayor que o igual a |
 
 También puede ingresar el número de la ID de la dificultad o del mapa en su búsqueda para obtener un solo resultado.
+
+### Clasificaciones
+
+![](img/leaderboards.jpg)
+
+Una variedad de cosas pueden aparecer en este espacio:
+
+- Un cuadro de `Not Submitted` denota a un mapa que no se ha subido al sitio web de osu! utilizando el [sistema de envío de mapas](/wiki/Beatmapping/Beatmap_submission) o fue eliminado por el mapeador.
+- Un cuadro de `Update to latest version` aparece si hay una nueva versión del mapa disponible para descargar. Haga clic en el botón para actualizar.
+  - *Aviso: una vez que actualice el mapa, se borrarán las puntuaciones locales. Las repeticiones de las puntuaciones locales se pueden exportar haciendo clic con el botón derecho en ellas.*
+- Un cuadro de `Latest pending version` significa que el mapa ha sido subido al sitio web de osu! pero aún no está clasificado.
+- Si existen repeticiones que coincidan con la configuración de vista del mapa, se mostrarán en lugar de un cuadro que indique el estado clasificado/jugado del mapa. Esto se muestra en la imagen de arriba.
+  - En las clasificaciones públicas (por ejemplo, Global, Amigos, etc.), su puntaje más alto se mostrará en la parte inferior, así como su posición en la tabla de clasificación.
+- Un cuadro de `No records set!` significa que no hay repeticiones para la configuración de vista actual (esto generalmente se ve en la configuración de vista local si acaba de descargar o editar el mapa).
+
+Estos son los ajustes de vista:
+
+- Ranking local
+- Ranking nacional\*
+- Ranking mundial
+- Ranking mundial (mods actuales)\*
+- Ranking entre amigos\*
+
+\*Requiere [osu!supporter](/wiki/osu!supporter).
+
+Haga clic en el icono de la burbuja de palabras para acceder a la pantalla de **acceso web rápido** para el mapa seleccionado:
+
+- Presione `1` o haga clic en `Puntuaciones del mapa` para ver la página del mapa para la dificultad seleccionada en tu navegador.
+- Presione `2` o haga clic en `Hilo del mapa` para ver la página de [modeo](/wiki/Modding) del mapa.
+- Presione `3` o `Esc` o haga clic en `Cancelar` para volver a la pantalla del selector de canciones.
+
+### Carrusel de mapas
+
+![](img/beatmap-cards.jpg)
+
+El carrusel de mapas muestra todos los mapas disponibles. Diferentes mapas pueden tener cuadros de diferentes colores:
+
+| Color del cuadro | Descripción |
+| :-: | :-- |
+| **Rosa** | Este mapa aún no se ha jugado. |
+| **Naranja** | Se ha completado al menos una dificultad del mapa. |
+| **Celeste** | Otras dificultades en el mismo mapa, mostradas cuando se expande un mapa. |
+| **Blanco** | Dificultad actualmente seleccionada. |
+
+Puede navegar por la lista de mapas usando la rueda del ratón, usando las teclas de flecha arriba y abajo, arrastrándola mientras mantiene presionado el botón izquierdo del ratón o haciendo clic en el botón derecho del ratón (conocido como desplazamiento absoluto), que moverá la barra de desplazamiento a la posición Y de su ratón. Haga clic en un mapa para seleccionarlo, luego vuelva a hacer clic en él, presione `Enter` o haga clic en la osu! cookie en la esquina inferior derecha para jugar el mapa.
+
+### Caja de herramientas de juego
+
+![](img/game-mode-selector.jpg "Lista de modos de juego disponibles")
+
+![](img/gameplay-toolbox.jpg)
+
+Esta sección se puede llamar la caja de herramientas de juego. Cubriremos el uso de cada botón de izquierda a derecha.
+
+Pulse `Esc` o haga clic en el botón `Atrás` para volver al menú principal.
+
+Haga clic en el botón `Mode` para abrir una lista de modos de juego disponibles en osu!. Alternativamente, puede presionar `Ctrl` y `1` (osu!), `2` (osu!taiko), `3` (osu!catch), o `4` (osu!mania) para cambiar el modo de juego. Cambiar a otro modo también cambiará sus [tablas de clasificación](/wiki/Ranking), como se puede observar al ver el cambio de rango mostrado.
+
+![](img/game-modifiers.jpg "Pantalla de selección de mods")
+
+Haga clic en el botón `Mods` o presione `F1` para abrir la **[pantalla de selección de mods](/wiki/Gameplay/Game_modifier)**.
+
+En esta pantalla, puede aplicar modificaciones ("mods" para abreviar) al juego. Algunos mods reducen la dificultad y aplican un multiplicador que reduce la puntuación que logra. Por el contrario, algunos mods aumentan la dificultad, pero aplican un multiplicador que aumenta la puntuación que logra. Finalmente, algunos mods modifican el juego de una manera diferente. [Relax](/wiki/Gameplay/Game_modifier/Relax) y [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) entran en esa categoría.
+
+Coloque su ratón sobre el icono de un mod para ver una breve descripción de su efecto. Haga clic en un icono para seleccionar o deseleccionar ese mod. Algunos mods, como Double Time, tienen múltiples variaciones: haga clic en el mod nuevamente para recorrerlas. El valor del multiplicador de puntuación muestra el efecto combinado que todos los mods seleccionados tendrán en su puntuación. Haga clic en `Desactivar todos` o presione `1` para anular la selección de todos los mods seleccionados actualmente. Haga clic en `Cerrar` o presione `2` o `Esc` para volver a la pantalla del selector de canciones.
+
+Haga clic en el botón `Random` o presione `F2` para que el juego **se desplace aleatoriamente por todos sus mapas y elija uno.**
+
+*Nota: Puede presionar `Shift` + el botón `Random` o `F2` para volver al mapa que había seleccionado antes de aleatorizar su selección.*
+
+![](img/beatmap-options.jpg "Comandos posibles para un mapa")
+
+Haga clic en el botón `Beatmap Options`, presione `F3` o haga clic con el botón derecho del ratón mientras se desplaza sobre el mapa para que aparezca el **menú de opciones de un mapa para las opciones en el mapa actualmente seleccionado**.
+
+- Presione `1` o haga clic en el botón `Gestionar las colecciones` para que aparezca el administrador de colecciones. Aquí, puedes administrar colecciones preexistentes, así como agregar o eliminar el mapa o conjunto de mapas seleccionado actualmente hacia o desde una colección.
+- Presione `2` o haga clic en `Eliminar...` para eliminar la \[1\] dificultad seleccionada actualmente, \[2\] eliminar el mapa seleccionado actualmente, o \[3\] eliminar **todos los mapas VISIBLES**.
+  - Tenga en cuenta que los mapas eliminados se mueven a la Papelera de reciclaje.
+- Presione `3` o haga clic en `Marcar como jugado` para marcar un mapa no jugado como jugado (es decir, cambie el color de su cuadro de rosa a naranja).
+- Presione `4` o haga clic en `Borrar puntuaciones locales` para eliminar todos los registros de las puntuaciones que ha logrado en este mapa.
+- Presione `5` o haga clic en `Editar` para abrir el mapa seleccionado en el editor de osu!.
+- Presione `6` o `Esc` o haga clic en `Cerrar` para volver a la pantalla del selector de canciones.
+
+Haga clic en **su panel de usuario** para acceder al **menú de opciones de usuario**.
+
+Haga clic en la **[osu! cookie](/wiki/Client/Interface/Cookie)** para **comenzar a jugar el mapa seleccionado**.
+
+## Pantalla de resultados
+
+![](img/results-osu.jpg "Precisión en osu!")
+
+Esta es la pantalla de resultados que se muestra después de haber pasado con éxito el mapa. Puede acceder a sus resultados en línea desplazándose hacia abajo o presionando el botón obvio.
+
+A continuación se muestran las pantallas de resultados de los otros modos de juego.
+
+![](img/results-taiko.jpg "Precisión en osu!taiko")
+
+![](img/results-mania.jpg "Precisión en osu!mania")
+
+![](img/results-catch.jpg "Precisión en osu!catch")
+
+### Pantalla de resultados extendida
+
+![](img/extended-results-screen.jpg "Un ejemplo de una puntuación en línea de osu!")
+
+Esta es su tabla de clasificación en línea. Puede ir aquí desplazándose hacia abajo desde la pantalla de resultados. Su marcador local mostrará su nombre y la puntuación como de costumbre.
+
+- \[1\] Su panel de usuario. Muestra sus [puntos de rendimiento (pp)](/wiki/Performance_points), clasificación global, puntuación total, [precisión](/wiki/Gameplay/Accuracy) general y barra de nivel.
+- \[2\] `Guardar repetición a la carpeta "Replays"`: Puede ver la repetición más tarde abriéndola desde una tabla de clasificación local, o yendo al directorio `Replays` y haciendo doble clic en ella.
+- \[3\] `Añadir como favorito en línea`: Incluye el mapa en su lista de favoritos, que se encuentra en su página de perfil de osu! en la sección `Mapas`.
+- \[4\] Tabla de clasificación local: Todos sus resultados se almacenan en su computadora. Para verlos, navegue hasta la [pantalla del selector de canciones](#selector-de-canciones) y seleccione `Ranking local` en el menú desplegable sobre el marcador.
+- \[5\] Sección de `Beatmap Ranking`. Disponible solo para mapas con tablas de clasificación en línea ([calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked), o [amado](/wiki/Beatmap/Category#loved)). También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
+- \[6\] Sección de `Overall Ranking`. Está disponible solo para mapas con tablas de clasificación en línea. También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
+- \[7\] Información sobre el mapa con su número de jugadas y tasa de aprobación al pasarlo.
+- \[8\] Valoración del mapa. Use su discreción personal en función de si disfrutó el mapa o no. Es mejor dejarlo en paz si no puede decidir.
+- \[9\] Haga clic aquí para volver a la pantalla del selector de canciones.
+
+---
+
+Las categorías en el panel de clasificación son las siguientes:
+
+| Categoría | Beatmap Ranking | Overall Ranking |
+| :-: | :-- | :-- |
+| `General` | Su posición en la tabla de clasificación del mapa. Tenga en cuenta que las puntuaciones con [mods](/wiki/Gameplay/Game_modifier) también aparecen en esta misma tabla de clasificación. | Su [clasificación global](/wiki/Ranking#performance-points-ranking) contra todos en el mundo. |
+| [`Precisión`](/wiki/Gameplay/Accuracy) | Con qué precisión jugaste el mapa. Esto solo se cuenta cuando se supera su puntuación anterior. |
+| `Max Combo` | El combo más largo en el mapa que jugaste. | El combo más largo de todos los mapas que hayas jugado. |
+| [`Puntuación rankeada`](/wiki/Gameplay/Score/Ranked_score) | Su [mejor resultado](/wiki/Gameplay/Score/Ranked_score) en el mapa. | La cantidad de puntos obtenidos de todos los mapas clasificados que haya jugado alguna vez, y cada mapa se cuenta exactamente una vez. |
+| [`Puntuación total`](/wiki/Gameplay/Score/Total_score) | No se tiene en cuenta, ya que no afecta a su posición en las clasificaciones en línea. | Igual que la puntuación rankeada, pero tiene en cuenta todos los mapas disponibles en el sitio web de osu!, incluidos los mapas infrautilizados o fallidos. Esto cuenta para su [nivel](/wiki/Gameplay/Score/Total_score#level). |
+| [`Performance`](/wiki/Performance_points) | La cantidad de [pp no ponderados](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?) que recibirá por la jugada. | Su cantidad total de puntos de rendimiento, y cuánto pp valió la jugada enviada. |
+
+### Medallas
+
+*Página principal: [Medallas](/wiki/Medals)*
+
+![](img/medal-unlock.jpg "Desbloqueo de una medalla")
+
+A veces, cuando se cumplen condiciones específicas, puede recibir una medalla.
