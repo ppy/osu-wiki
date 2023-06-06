@@ -1,3 +1,8 @@
+---
+outdated_since: 15fa00673aafde21c13d34647ce08372fd9691de
+outdated_translation: true
+---
+
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
