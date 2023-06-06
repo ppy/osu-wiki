@@ -158,7 +158,7 @@ A pesar de las primeras adiciones, se recordó a los usuarios que el nuevo estad
 [^mv2-timeline-doc]: [Documento de Google por Ephemeral (17/2/2016) «Timeline of Events Surrounding Recent Changes»](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
 [^osu-weekly-48]: [Publicación de noticia por Nyquill (16/2/2016) «osu!weekly #48»](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
 [^osu-go-post]: [Hilo del foro por DW10 (26/2/2016) «osu!go not worth it?»](https://osu.ppy.sh/community/forums/topics/425108)
-[^meeting-notes/2016-feb]: [Publicación de blog por ppy (9/3/2016) «2016-02 meeting notes»](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
+[^meeting-notes-2016-feb]: [Publicación de blog por ppy (9/3/2016) «2016-02 meeting notes»](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
 [^mv2-feedback-thread]: [Hilo del foro por Loctab (11/4/2016) «Modding v2: Modding Panel - Feedback Thread»](https://osu.ppy.sh/community/forums/topics/442285)
 [^osu-weekly-57]: [Publicación de noticia por Nyquill (20/4/2016) «osu!weekly #57»](https://osu.ppy.sh/home/news/2016-04/20-osuweekly-57)
 [^apr-15-changelog]: [Registro de cambios de Cutting Edge 20160415](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
