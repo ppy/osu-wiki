@@ -6,11 +6,11 @@ outdated_translation: true
 
 Este artículo explica todo lo que necesita saber sobre cómo usar el cliente del juego de osu!. Aquí encontrará información sobre la pantalla de selección de canciones, la visualización de clasificaciones y la pantalla de resultados. Al iniciar el cliente del juego, puede ver la siguiente pantalla:
 
-![](img/intro-screen.jpg "Pantalla de introducción")
+![](img/intro-screen-ES.jpg "Pantalla de introducción")
 
 ## Menú principal
 
-![](img/main-menu.jpg "Menú principal")
+![](img/main-menu-ES.jpg "Menú principal")
 
 - \[1\] La [osu! cookie](/wiki/Client/Interface/Cookie). Al hacer clic en ella, se abre el menú principal. Pulsa según el [BPM](/wiki/Music_theory/Tempo) de la música y las barras se extienden a su alrededor visualizando el espectro de audio. Si no se está reproduciendo ninguna canción, pulsa a una velocidad lenta de 60 BPM.
 - \[2\] Haga clic en `Play` (o presione `P`) para jugar osu! ya sea para uno mismo o con los demás.
@@ -43,7 +43,7 @@ La rocola también se puede controlar mediante [atajos de teclado](/wiki/Client/
 
 ## Opciones de usuario
 
-![](img/user-options.jpg "Opciones de usuario")
+![](img/user-options-ES.jpg "Opciones de usuario")
 
 Acceda a esta pantalla haciendo clic en su perfil en la parte superior izquierda del menú principal. Puede seleccionar cualquier elemento pulsando su número correspondiente:
 
@@ -54,11 +54,11 @@ Acceda a esta pantalla haciendo clic en su perfil en la parte superior izquierda
 
 ## Menú de juego
 
-![](img/play-menu.jpg "Menú de juego")
+![](img/play-menu-ES.jpg "Menú de juego")
 
 Después de seleccionar `Play` en el menú principal, puede elegir entre tres opciones:
 
-- Haga clic en `Solo` (o presione `P`) para jugar por su cuenta. Esto lo lleva a la [pantalla del selector de canciones](#selector-de-canciones).
+- Haga clic en `Solo` (o presione `P`) para jugar por su cuenta. Esto lo lleva a la [pantalla de selección de canciones](#selección-de-canciones).
 - Haga clic en `Multi` (o presione `M`) para jugar con otras personas. Será dirigido a la sala de [Multijugador](/wiki/Client/Interface/Multiplayer).
 - Haga clic en `Back` para volver al menú principal.
 
@@ -66,13 +66,13 @@ Después de seleccionar `Play` en el menú principal, puede elegir entre tres op
 
 *Página principal: [Multijugador](/wiki/Client/Interface/Multiplayer)*
 
-![](img/multi-lobby.jpg "Sala multijugador")
+![](img/multi-lobby-ES.jpg "Sala multijugador")
 
 La sala multijugador le permite jugar con y contra otros jugadores.
 
-## Selector de canciones
+## Selección de canciones
 
-![](img/song-selection.jpg "Selector de canciones")
+![](img/song-selection-ES.jpg "Selección de canciones")
 
 El icono del [modo de juego](/wiki/Game_mode) actualmente seleccionado se puede ver en las opciones de la parte inferior izquierda, arriba de `Mode`. El icono del modo también se ve débilmente en el centro de la pantalla. Estos son los cuatro que verá:
 
@@ -85,9 +85,9 @@ Antes de continuar, esta pantalla tiene demasiados elementos para anotar con nú
 
 ### Información del mapa
 
-![](img/metadata-comparison.jpg)
+![](img/metadata-comparison-ES.jpg)
 
-Esta área muestra **información sobre la dificultad del mapa seleccionada actualmente.** Al ingresar a la pantalla del selector de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El ícono superior izquierdo muestra la [categoría del mapa](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#ranked).
+Esta área muestra **información sobre la dificultad del mapa seleccionada actualmente.** Al ingresar a la pantalla de selección de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El ícono superior izquierdo muestra la [categoría del mapa](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#ranked).
 
 El título de la canción normalmente se muestra romanizado (imagen inferior), pero si selecciona `Mostrar datos de canciones en su idioma original` en las [Opciones](/wiki/Client/Options), se mostrará el título Unicode (imagen superior). El nombre de la dificultad del mapa se muestra entre corchetes (`[]`). El creador que mapeó el mapa se muestra debajo del título, e incluso se incluye más información a continuación. De izquierda a derecha, los valores son los siguientes:
 
@@ -103,7 +103,7 @@ El título de la canción normalmente se muestra romanizado (imagen inferior), p
 
 ### Agrupar y Ordenar
 
-![](img/beatmap-filters.jpg)
+![](img/beatmap-filters-ES.jpg)
 
 Haga clic en una de las pestañas para **ordenar su lista de canciones según el criterio seleccionado**.
 
@@ -123,7 +123,7 @@ Estas opciones organizan los mapas en varios grupos expandibles:
 | `Por Fecha de adición` | Los mapas se agruparán según el momento en que se agregaron, desde hoy hasta hace más de 5 meses. |
 | `Por Duración` | Los mapas se agruparán según su duración: 1 minuto o menos, 2 minutos o menos, 3, 4, 5, 10, y 10 minutos o más. |
 | `Por Modo` | Los mapas se agruparán según su modo de juego. |
-| `Por Rango obtenido` | Los mapas se ordenarán por el [rango](/wiki/Gameplay/Grade) más alto alcanzado en ellos. |
+| `Por Rango obtenido` | Los mapas se agruparán por el [rango](/wiki/Gameplay/Grade) más alto alcanzado en ellos. |
 | `Por Título` | Los mapas se agruparán por el primer carácter del título. |
 | `Favoritos` | Solo se mostrarán los mapas que haya marcado como favoritos en línea. |
 | `Mis mapas` | Solo se mostrarán los mapas que haya mapeado (es decir, cuyo creador coincida con su nombre de perfil). |
@@ -148,7 +148,7 @@ Ordena los mapas en un orden determinado.
 
 ### Buscar
 
-![](img/search-bar.jpg)
+![](img/search-bar-ES.jpg)
 
 *Nota: No puede tener la consola del chat o la barra lateral de opciones abiertas si desea buscar. De lo contrario, todo lo que escriba se percibirá como texto de chat o como una consulta de búsqueda de opciones.*
 
@@ -194,7 +194,7 @@ También puede ingresar el número de la ID de la dificultad o del mapa en su b�
 
 ### Clasificaciones
 
-![](img/leaderboards.jpg)
+![](img/leaderboards-ES.jpg)
 
 Una variedad de cosas pueden aparecer en este espacio:
 
@@ -220,7 +220,7 @@ Haga clic en el icono de la burbuja de palabras para acceder a la pantalla de **
 
 - Presione `1` o haga clic en `Puntuaciones del mapa` para ver la página del mapa para la dificultad seleccionada en tu navegador.
 - Presione `2` o haga clic en `Hilo del mapa` para ver la página de [modeo](/wiki/Modding) del mapa.
-- Presione `3` o `Esc` o haga clic en `Cancelar` para volver a la pantalla del selector de canciones.
+- Presione `3` o `Esc` o haga clic en `Cancelar` para volver a la pantalla de selección de canciones.
 
 ### Carrusel de mapas
 
@@ -239,9 +239,9 @@ Puede navegar por la lista de mapas usando la rueda del ratón, usando las tecla
 
 ### Caja de herramientas de juego
 
-![](img/game-mode-selector.jpg "Lista de modos de juego disponibles")
+![](img/game-mode-selector-ES.jpg "Lista de modos de juego disponibles")
 
-![](img/gameplay-toolbox.jpg)
+![](img/gameplay-toolbox-ES.jpg)
 
 Esta sección se puede llamar la caja de herramientas de juego. Cubriremos el uso de cada botón de izquierda a derecha.
 
@@ -249,19 +249,19 @@ Pulse `Esc` o haga clic en el botón `Atrás` para volver al menú principal.
 
 Haga clic en el botón `Mode` para abrir una lista de modos de juego disponibles en osu!. Alternativamente, puede presionar `Ctrl` y `1` (osu!), `2` (osu!taiko), `3` (osu!catch), o `4` (osu!mania) para cambiar el modo de juego. Cambiar a otro modo también cambiará sus [tablas de clasificación](/wiki/Ranking), como se puede observar al ver el cambio de rango mostrado.
 
-![](img/game-modifiers.jpg "Pantalla de selección de mods")
+![](img/game-modifiers-ES.jpg "Pantalla de selección de mods")
 
 Haga clic en el botón `Mods` o presione `F1` para abrir la **[pantalla de selección de mods](/wiki/Gameplay/Game_modifier)**.
 
 En esta pantalla, puede aplicar modificaciones ("mods" para abreviar) al juego. Algunos mods reducen la dificultad y aplican un multiplicador que reduce la puntuación que logra. Por el contrario, algunos mods aumentan la dificultad, pero aplican un multiplicador que aumenta la puntuación que logra. Finalmente, algunos mods modifican el juego de una manera diferente. [Relax](/wiki/Gameplay/Game_modifier/Relax) y [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) entran en esa categoría.
 
-Coloque su ratón sobre el icono de un mod para ver una breve descripción de su efecto. Haga clic en un icono para seleccionar o deseleccionar ese mod. Algunos mods, como Double Time, tienen múltiples variaciones: haga clic en el mod nuevamente para recorrerlas. El valor del multiplicador de puntuación muestra el efecto combinado que todos los mods seleccionados tendrán en su puntuación. Haga clic en `Desactivar todos` o presione `1` para anular la selección de todos los mods seleccionados actualmente. Haga clic en `Cerrar` o presione `2` o `Esc` para volver a la pantalla del selector de canciones.
+Coloque su ratón sobre el icono de un mod para ver una breve descripción de su efecto. Haga clic en un icono para seleccionar o deseleccionar ese mod. Algunos mods, como Double Time, tienen múltiples variaciones: haga clic en el mod nuevamente para recorrerlas. El valor del multiplicador de puntuación muestra el efecto combinado que todos los mods seleccionados tendrán en su puntuación. Haga clic en `Desactivar todos` o presione `1` para anular la selección de todos los mods seleccionados actualmente. Haga clic en `Cerrar` o presione `2` o `Esc` para volver a la pantalla de selección de canciones.
 
 Haga clic en el botón `Random` o presione `F2` para que el juego **se desplace aleatoriamente por todos sus mapas y elija uno.**
 
 *Nota: Puede presionar `Shift` + el botón `Random` o `F2` para volver al mapa que había seleccionado antes de aleatorizar su selección.*
 
-![](img/beatmap-options.jpg "Comandos posibles para un mapa")
+![](img/beatmap-options-ES.jpg "Comandos posibles para un mapa")
 
 Haga clic en el botón `Beatmap Options`, presione `F3` o haga clic con el botón derecho del ratón mientras se desplaza sobre el mapa para que aparezca el **menú de opciones de un mapa para las opciones en el mapa actualmente seleccionado**.
 
@@ -271,7 +271,7 @@ Haga clic en el botón `Beatmap Options`, presione `F3` o haga clic con el botó
 - Presione `3` o haga clic en `Marcar como jugado` para marcar un mapa no jugado como jugado (es decir, cambie el color de su cuadro de rosa a naranja).
 - Presione `4` o haga clic en `Borrar puntuaciones locales` para eliminar todos los registros de las puntuaciones que ha logrado en este mapa.
 - Presione `5` o haga clic en `Editar` para abrir el mapa seleccionado en el editor de osu!.
-- Presione `6` o `Esc` o haga clic en `Cerrar` para volver a la pantalla del selector de canciones.
+- Presione `6` o `Esc` o haga clic en `Cerrar` para volver a la pantalla de selección de canciones.
 
 Haga clic en **su panel de usuario** para acceder al **menú de opciones de usuario**.
 
@@ -279,33 +279,33 @@ Haga clic en la **[osu! cookie](/wiki/Client/Interface/Cookie)** para **comenzar
 
 ## Pantalla de resultados
 
-![](img/results-osu.jpg "Precisión en osu!")
+![](img/results-osu-ES.jpg "Precisión en osu!")
 
 Esta es la pantalla de resultados que se muestra después de haber pasado con éxito el mapa. Puede acceder a sus resultados en línea desplazándose hacia abajo o presionando el botón obvio.
 
 A continuación se muestran las pantallas de resultados de los otros modos de juego.
 
-![](img/results-taiko.jpg "Precisión en osu!taiko")
+![](img/results-taiko-ES.jpg "Precisión en osu!taiko")
 
-![](img/results-mania.jpg "Precisión en osu!mania")
+![](img/results-mania-ES.jpg "Precisión en osu!mania")
 
-![](img/results-catch.jpg "Precisión en osu!catch")
+![](img/results-catch-ES.jpg "Precisión en osu!catch")
 
 ### Pantalla de resultados extendida
 
-![](img/extended-results-screen.jpg "Un ejemplo de una puntuación en línea de osu!")
+![](img/extended-results-screen-ES.jpg "Un ejemplo de una puntuación en línea de osu!")
 
 Esta es su tabla de clasificación en línea. Puede ir aquí desplazándose hacia abajo desde la pantalla de resultados. Su marcador local mostrará su nombre y la puntuación como de costumbre.
 
 - \[1\] Su panel de usuario. Muestra sus [puntos de rendimiento (pp)](/wiki/Performance_points), clasificación global, puntuación total, [precisión](/wiki/Gameplay/Accuracy) general y barra de nivel.
 - \[2\] `Guardar repetición a la carpeta "Replays"`: Puede ver la repetición más tarde abriéndola desde una tabla de clasificación local, o yendo al directorio `Replays` y haciendo doble clic en ella.
 - \[3\] `Añadir como favorito en línea`: Incluye el mapa en su lista de favoritos, que se encuentra en su página de perfil de osu! en la sección `Mapas`.
-- \[4\] Tabla de clasificación local: Todos sus resultados se almacenan en su computadora. Para verlos, navegue hasta la [pantalla del selector de canciones](#selector-de-canciones) y seleccione `Ranking local` en el menú desplegable sobre el marcador.
+- \[4\] Tabla de clasificación local: Todos sus resultados se almacenan en su computadora. Para verlos, navegue hasta la [pantalla de selección de canciones](#selección-de-canciones) y seleccione `Ranking local` en el menú desplegable sobre el marcador.
 - \[5\] Sección de `Beatmap Ranking`. Disponible solo para mapas con tablas de clasificación en línea ([calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked), o [amado](/wiki/Beatmap/Category#loved)). También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
 - \[6\] Sección de `Overall Ranking`. Está disponible solo para mapas con tablas de clasificación en línea. También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
 - \[7\] Información sobre el mapa con su número de jugadas y tasa de aprobación al pasarlo.
 - \[8\] Valoración del mapa. Use su discreción personal en función de si disfrutó el mapa o no. Es mejor dejarlo en paz si no puede decidir.
-- \[9\] Haga clic aquí para volver a la pantalla del selector de canciones.
+- \[9\] Haga clic aquí para volver a la pantalla de selección de canciones.
 
 ---
 
@@ -324,6 +324,6 @@ Las categorías en el panel de clasificación son las siguientes:
 
 *Página principal: [Medallas](/wiki/Medals)*
 
-![](img/medal-unlock.jpg "Desbloqueo de una medalla")
+![](img/medal-unlock-ES.jpg "Desbloqueo de una medalla")
 
 A veces, cuando se cumplen condiciones específicas, puede recibir una medalla.
