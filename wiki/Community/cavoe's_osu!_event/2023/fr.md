@@ -1,21 +1,17 @@
----
-no_native_review: true
----
-
 # cavoe's osu! event 2023
 
-![bannière COE 2023](img/banner.png)
+![Bannière COE 2023](img/banner.png)
 
-**cavoe's osu! event 2023** (***COE 2023***) est une convention osu! qui organisée prochainement à **Brabanthallen in 's-Hertogenbosch (Den Bosch), au Pays-bas**. Il s'agit de la cinquième édition de cavoe's osu! event.
+**cavoe's osu! event 2023** (***COE 2023***) est une convention osu! qui sera organisée prochainement au **Brabanthallen à 's-Hertogenbosch (Den Bosch), aux Pays-bas**. Il s'agit de la cinquième édition du cavoe's osu! event.
 
-Les billets sont actuellement disponibles à l'achat sur le [site web COE](https://cavoeboy.com/). Cette page sera mise à jour au fur et à mesure que de nouvelles informations seront disponibles.
+Les billets sont actuellement disponibles à l'achat sur le [site web du COE](https://cavoeboy.com/). Cette page sera mise à jour au fur et à mesure que de nouvelles informations seront disponibles.
 
 ## Programme
 
 | Événement | Horodatage (UTC) |
 | --: | :-- |
 | Annonce | 06/12/2022 |
-| Vente de billet en direct | 22/04/2023 |
+| Vente de billets en direct | 22/04/2023 |
 | Début | 31/07/2023 |
 | Fin | 07/08/2023 |
 
@@ -29,7 +25,7 @@ Les billets sont actuellement disponibles à l'achat sur le [site web COE](https
 - [Chaîne YouTube](https://www.youtube.com/@coevent)
 - [Chaîne Twitch](https://www.twitch.tv/coevent)
 - [Tweet d'annonce](https://twitter.com/CavoesOsuEvent/status/1600211082370424832)
-- [News post d'annonce de vente de billtets](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
+- [News post d'annonce de vente de billets](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
 
 ## Organisation
 
@@ -45,4 +41,4 @@ COE 2023 est géré par divers membres de la communauté et des organisations pa
 | Designer | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [uta](https://osu.ppy.sh/users/9315038) |
 | Responsable d'étage | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=GB }:: [shoshuu](https://osu.ppy.sh/users/10337355) |
 | autres staff | ::{ flag=GB }:: [Argent Pride](https://osu.ppy.sh/users/12008928), ::{ flag=LT }:: a Sensei, ::{ flag=NL }:: [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::{ flag=DE }:: [egedi](https://osu.ppy.sh/users/3975137), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=DE }:: [helenkiller](https://osu.ppy.sh/users/16182877), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=DE }:: [khz](https://osu.ppy.sh/users/9254536), ::{ flag=BE }:: [LGM](https://osu.ppy.sh/users/24518245), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Massive](https://osu.ppy.sh/users/11163973), Mimi, ::{ flag=DE }:: [Mou](https://osu.ppy.sh/users/1453009), ::{ flag=DE }:: neoekn, ::{ flag=BE }:: [Nino](https://osu.ppy.sh/users/10081296), ::{ flag=FI }:: Riv, ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=BE }:: [Tiddo](https://osu.ppy.sh/users/11257873), ::{ flag=GB }:: [Tomato](https://osu.ppy.sh/users/9239206), ::{ flag=NL }:: [TomBoBotSer](https://osu.ppy.sh/users/7273315), ::{ flag=NL }:: [Toshii](https://osu.ppy.sh/users/12091138), ::{ flag=NL }:: [Yael](https://osu.ppy.sh/users/3875866) |
-| Partenaire opérationnel | [osu!frlive](https://osufr.live/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/) |
+| Partenaire opérationnel | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/) |

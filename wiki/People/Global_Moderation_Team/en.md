@@ -107,7 +107,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | German | Mapping/modding community moderation |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian | Chat moderation, mapping/modding community moderation |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
-| ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | Chat moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korean, Japanese | Chat moderation |

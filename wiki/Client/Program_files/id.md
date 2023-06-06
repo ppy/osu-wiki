@@ -81,7 +81,7 @@ Berkas-berkas data osu!. Mengandung berkas data cache osu! seperti cache gambar 
 
 *Perhatian: Hati-hati ketika berinteraksi pada berkas-berkas ini, kamu dapat merusak osu! jika kamu tidak hati-hati.*
 
-## Berkas-berkas Database (.db)
+### Berkas-berkas Database (.db)
 
 Berkas-berkas database adalah basis data yang dibutuhkan osu! untuk berfungsi dengan baik. Berkas-berkas ini berisi informasi penting yang dibutuhkan osu! seperti skor yang tersimpan dan daftar beatmap yang tersimpan pada mesin pemain.
 
@@ -90,7 +90,7 @@ Berkas-berkas database adalah basis data yang dibutuhkan osu! untuk berfungsi de
 - `presence.db`: Menyimpan cache pemain osu yang masuk pada Chat Console.
 - `scores.db`: Menyimpan peringkat lokal.
 
-## .cfg (Berkas-berkas konfigurasi)
+### .cfg (Berkas-berkas konfigurasi)
 
 Berkas-berkas konfigurasi yang digunakan untuk mengkonfigurasi pengaturan awal osu! sehingga dapat berjalan. Berkas-berkas tersebut dapat dibuka dengan *text editor*.
 
@@ -103,6 +103,6 @@ Komponen utama. Klik pada ikon tersebut untuk memulai osu! (hanya berlaku pada W
 
 osu!.exe (Start-up osu!)
 
-#### .dll (ekstensi aplikasi)
+### .dll (ekstensi aplikasi)
 
 Berkas-berkas .dll adalah komponen-komponen dan dependensi-dependensi dari osu!.

@@ -14,7 +14,7 @@ outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 
 Máte s něčím potíže? Jsme tu, abychom vám pomohli! Podívejte se na některá řešení běžných problémů na postranním panelu vlevo od obrazovky. Pokud zde váš problém není uveden nebo pokud máte stále problémy, odešlete e-mail na adresu [support@ppy.sh](mailto:support@ppy.sh). Případně zvažte zveřejnění svého problému ve [fóru nápovědy](https://osu.ppy.sh/community/forums/5), kde vám někdo bude schopen pomoci.
 
-## Sekce {#sections}
+## Sekce {id=sections}
 
 Vyberte část, která nejvíce odpovídá vašemu problému, abyste našli vhodné řešení problému.
 
@@ -27,9 +27,9 @@ Vyberte část, která nejvíce odpovídá vašemu problému, abyste našli vhod
 | [Obchod](/wiki/Help_centre/Store) | Zboží, osu!go, osu!keyboard, osu!tablet |
 | [Webová stránka](/wiki/Help_centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
 
-## Pomozte nám, pomóct vám {#diagnostics}
+## Pomozte nám, pomóct vám {id=diagnostics}
 
-### Log soubory {#log-files}
+### Log soubory {id=log-files}
 
 **Jsou podrobné záznamy o tom, co herní klient dělá v daném časovém okamžiku. Můžeme je použít k určení, co je příčinou vašeho problému.**
 
@@ -46,7 +46,7 @@ Pokud vás člen týmu podpory o tyto logs požádal, postupujte takto:
 7. V okně, které se otevře, vyhledejte adresář `logs`.
 8. Vyberte požadovaný soubor protokolu (zástupce podpory vám řekne jaký) a přiložte jej k support ticketu nebo příspěvku na fóru.
 
-### Event Viewer {#event-viewer}
+### Event Viewer {id=event-viewer}
 
 **Event Viewer je vestavěná součást systému Windows, kterou lze použít k vyhledání protokolů o selhání osu!. Tyto protokoly selhání lze použít k určení, co je příčinou vašeho problému**
 
@@ -63,7 +63,7 @@ Pokud vás člen týmu podpory požádal, abyste v Prohlížeči událostí naš
 7. Přejděte na kartu `Details`, rozbalte `System` a `Event Data` kliknutím na každou z nich.
 8. Zkopírujte text a vložte jej do lístku podpory nebo příspěvku na fóru.
 
-### Frame Time Graph {#frame-time-graph}
+### Frame Time Graph {id=frame-time-graph}
 
 **Frame Time Graph je vlastnost osu! které nám mohou pomoci shromáždit další užitečné informace o problémech s výkonem, se kterými se můžete setkat.**
 
