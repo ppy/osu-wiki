@@ -127,7 +127,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Philippinisch | Chat-Moderation |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thailändisch | Chat-Moderation |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch | Technischer Support |
-| ::{ flag = NL }:: [Uni](https://osu.ppy.sh/users/617106) | Hollandisch | Chat-Moderation |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Hollandisch | Chat-Moderation |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polnisch | Teamleitung, Chat-Moderation, Moderation der Mapping-/Modding-Community |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polnisch | Chat-Moderation |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Chat-Moderation |
