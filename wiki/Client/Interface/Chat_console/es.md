@@ -28,7 +28,7 @@ Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en
 
 Desde la mayoría de las pantallas en osu! puedes presionar `F9` o hacer clic en el botón `Online Users` en la parte inferior derecha de la pantalla de introducción para alternar la consola de chat extendida. Además de la Consola de chat, el Chat ampliado superpone una lista de paneles en los dos tercios restantes de la pantalla, mostrando información sobre los usuarios que están actualmente conectados.
 
-![Consola de chat ampliada](img/Chat_Console-Extended-ES.png "Consola de chat extendida")
+![Consola de chat ampliada](img/Chat_Console-Extended-ES.jpg "Consola de chat extendida")
 
 Cada usuario conectado en osu! tiene un panel de usuario que se muestra en la Consola de chat ampliada. Por defecto, muestra información general (nombre, puntaje total clasificado, rango, precisión, conteo de jugadas y avatar del usuario, si corresponde). Cuando el cursor del mouse se coloca sobre él, muestra un conjunto diferente de información (nombre, rango, avatar si lo hay, hora local, zona horaria, ubicación por país y, si lo permite el usuario, la ciudad, lo que están haciendo) .
 
