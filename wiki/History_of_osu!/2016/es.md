@@ -160,7 +160,7 @@ A pesar de las primeras adiciones, se recordó a los usuarios que el nuevo estad
 [^osu-go-post]: [Hilo del foro por DW10 (26/2/2016) «osu!go not worth it?»](https://osu.ppy.sh/community/forums/topics/425108)
 [^meeting-notes-2016-feb]: [Publicación de blog por ppy (9/3/2016) «2016-02 meeting notes»](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
 [^mv2-feedback-thread]: [Hilo del foro por Loctab (11/4/2016) «Modding v2: Modding Panel - Feedback Thread»](https://osu.ppy.sh/community/forums/topics/442285)
-[^osu-weekly-57]: [Publicación de noticia por Nyquill (20/4/2016) «osu!weekly #57»](https://osu.ppy.sh/home/news/2016-04/20-osuweekly-57)
+[^osu-weekly-57]: [Publicación de noticia por Nyquill (20/4/2016) «osu!weekly #57»](https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57)
 [^apr-15-changelog]: [Registro de cambios de Cutting Edge 20160415](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
 [^medals-showcase-yt]: [Vídeo de YouTube por Acrith (20/4/2016) «osu! | How medals looks like? (Animations) | Achievements 20/04/2016»](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
 [^news-maria]: [Publicación de noticia por Ephemeral (20/4/2016) «Meet Maria - osu!mania's new mascot!»](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
