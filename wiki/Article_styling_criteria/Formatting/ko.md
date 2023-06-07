@@ -711,7 +711,7 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-혹은, [이 사이트](https://ezgif.com/)에서 이미지 변환 및 최적화가 가능합니다.
+혹은 [이 사이트](https://ezgif.com/)에서 이미지 변환 및 최적화가 가능합니다.
 
 ### 파일 이름
 
