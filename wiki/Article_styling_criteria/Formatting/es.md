@@ -151,7 +151,7 @@ Los artículos de [desambiguación](/wiki/Disambiguation) deben colocarse en la 
 
 Las redirecciones deben actualizarse para que las palabras clave ambiguas redirijan al artículo de desambiguación.
 
-Los artículos vinculados desde un artículo de desambiguación deben tener una nota de etiqueta [para otros usos](#para-otros-usos).
+Los artículos vinculados desde un artículo de desambiguación deben tener una nota de etiqueta [Para otros usos](#para-otros-usos).
 
 ## HTML
 
