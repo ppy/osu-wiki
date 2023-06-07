@@ -114,8 +114,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | Poland ::{ flag=PL }:: | ::{ flag=BE }:: Belgium | [Jun 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T120000&p1=1440&p2=262&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=155&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=188&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 10 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T173000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2) [^stream-pending] | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=DE }:: Germany | [Jun 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T180000&p1=1440&p2=232&p3=37) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2) [^stream-pending] | [^losers-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 10 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T173000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
+| Chile ::{ flag=CL }:: | ::{ flag=DE }:: Germany | [Jun 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T180000&p1=1440&p2=232&p3=37) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
 
 ### Sunday, 11 June 2023
 
