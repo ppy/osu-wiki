@@ -848,7 +848,7 @@ La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-
 
 ## Referencias
 
-[^api-first-usage]: [Hilo del foro por peppy (2/07/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-first-usage]: [Hilo del foro por peppy (2/7/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
 [^api-praise]: [Publicación del foro por Menchi (2/11/2013) en «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2662247)
 [^api-v2-2020]: [Tuit por @ppy (20/3/2020)](https://twitter.com/ppy/status/1263083636363948032)
 [^web-api]: [«Web API» en Wikipedia](https://es.wikipedia.org/wiki/Web_API)
