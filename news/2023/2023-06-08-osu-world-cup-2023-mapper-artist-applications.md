@@ -20,7 +20,7 @@ If you're an osu! mapper who is confident in your mapping abilities, is receptiv
 
 ## Artist
 
-If you're an artist or designer who wants to help with producing background art for *upcoming* osu! originals, make sure to fill [this form](https://docs.google.com/forms/d/1A-Yf7TUvwhniMPTqYL0l_7bLjvuIV5XRbzlz8_fW5nY/viewform, and we will reach out when the opportunity arises. This form does not have a time limit – art is always on demand to accompany our ever-expanding library of osu! originals.
+If you're an artist or designer who wants to help with producing background art for upcoming osu! originals, make sure to fill [this form](https://docs.google.com/forms/d/1A-Yf7TUvwhniMPTqYL0l_7bLjvuIV5XRbzlz8_fW5nY/viewform), and we will reach out when the opportunity arises. This form does not have a time limit – art is always on demand to accompany our ever-expanding library of osu! originals.
 
 Spread the word to all your friends, and we'll see you... *ahem* meet you at the usual time of the year. Until then, stay safe!
 
