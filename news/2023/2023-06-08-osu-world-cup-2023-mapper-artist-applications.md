@@ -23,5 +23,3 @@ If you're an osu! mapper who is confident in your mapping abilities, is receptiv
 If you're an artist or designer who wants to help with producing background art for upcoming [osu! originals](/wiki/osu!_originals), make sure to fill [this form](https://docs.google.com/forms/d/1A-Yf7TUvwhniMPTqYL0l_7bLjvuIV5XRbzlz8_fW5nY/viewform), and we will reach out when the opportunity arises. This form does not have a time limit – art is always on demand to accompany our ever-expanding library of bespoke music.
 
 —osu! World Cup team
-
-—osu! World Cup Team
