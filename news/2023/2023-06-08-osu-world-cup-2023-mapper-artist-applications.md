@@ -24,4 +24,4 @@ If you're an artist or designer who wants to help with producing background art 
 
 Spread the word to all your friends, and we'll see you... *ahem* meet you at the usual time of the year. Until then, stay safe!
 
-—osu! World Cups Team
+—osu! World Cup Team
