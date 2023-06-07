@@ -1,8 +1,3 @@
----
-outdated_since: 15fa00673aafde21c13d34647ce08372fd9691de
-outdated_translation: true
----
-
 # Formato
 
 *Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
@@ -114,7 +109,7 @@ A veces, las traducciones se agregan a la wiki sin la revisión de otros hablant
 no_native_review: true
 ```
 
-## Denominando artículos
+## Denominar artículos
 
 *Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
 
@@ -130,7 +125,7 @@ Los artículos de concursos y torneos son una excepción. El nombre de la carpet
 
 ### Nombre de las carpetas
 
-*Véase también: [Denominando artículos](#denominando-artículos)*
+*Véase también: [Denominar artículos](#denominar-artículos)*
 
 Los nombres de las carpetas deben estar en inglés y usar mayúsculas y minúsculas.
 
@@ -144,7 +139,7 @@ Los nombres de las carpetas solo deben usar estos caracteres:
 
 ### Nombre de los archivos de artículos
 
-El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección de configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
+El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
 
 ### Artículos de índice
 
@@ -152,11 +147,11 @@ Se debe crear un artículo de índice si la carpeta está destinada a contener s
 
 ### Artículos de desambiguación
 
-Los artículos de [Desambiguación](/wiki/Disambiguation) deben colocarse en la carpeta `/wiki/Disambiguation`. La página principal debe actualizarse para incluir el artículo de desambiguación. Consulte [Desambiguación/Mod](/wiki/Disambiguation/Mod) como ejemplo.
+Los artículos de [desambiguación](/wiki/Disambiguation) deben colocarse en la carpeta `/wiki/Disambiguation`. La página principal debe actualizarse para incluir el artículo de desambiguación. Consulte [Desambiguación/Mod](/wiki/Disambiguation/Mod) como ejemplo.
 
 Las redirecciones deben actualizarse para que las palabras clave ambiguas redirijan al artículo de desambiguación.
 
-Los artículos vinculados desde un artículo de desambiguación deben tener una nota de etiqueta [Para otros usos](#para-otros-usos).
+Los artículos vinculados desde un artículo de desambiguación deben tener una nota de etiqueta [para otros usos](#para-otros-usos).
 
 ## HTML
 
@@ -344,7 +339,7 @@ Los encabezamientos no deben exceder un nivel de encabezamiento de 5 y no deben 
 
 ### Títulos
 
-*Véase también: [Denominando artículos](#denominando-artículos)*\
+*Véase también: [Denominar artículos](#denominar-artículos)*\
 *Precaución: Los títulos se analizan como texto sin formato; no deben omitirse*
 
 El primer encabezamiento de todos los artículos debe ser un encabezamiento de nivel 1, siendo el título del artículo. Todos los encabezamientos posteriores deben ser [encabezamientos de sección](#secciones). Los títulos no deben contener formato, enlaces o imágenes.
@@ -525,7 +520,7 @@ Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos
 El siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
-[Modificador del juego](/wiki/Gameplay/Game_modifier)
+[Modificador de juego](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -533,9 +528,9 @@ El siguiente es un ejemplo de ambos estilos en línea:
 El siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador del juego][enlace de modificadores del juego]
+[Modificador de juego][enlace de modificadores de juego]
 
-[enlace de modificadores del juego]: /wiki/Game_modifier
+[enlace de modificadores de juego]: /wiki/Game_modifier
 ```
 
 ---
@@ -551,7 +546,7 @@ Los enlaces deben usar el estilo en línea si solo se les hace referencia una ve
 Todos los enlaces que apuntan a un artículo de la wiki deben comenzar con `/wiki/` seguido de la ruta para llegar al artículo al que se dirige. También se pueden utilizar enlaces relativos. Algunos ejemplos incluyen lo siguiente:
 
 ```markdown
-[FAQ](/wiki/FAQ)
+[Preguntas frecuentes](/wiki/FAQ)
 [pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Patrón](./Pattern)
@@ -705,11 +700,11 @@ Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán.
 
 Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, use el siguiente comando para jpeg-archive:
 
-```sh
+```
 jpeg-recompress -am smallfry <entrada> <salida>
 ```
 
-Donde `<entrada>` es el nombre del archivo a comprimir y `<salida>` es el nombre del archivo comprimido.
+Alternativamente, [este sitio](https://ezgif.com/) se puede utilizar para convertir y optimizar imágenes.
 
 ### Nombre de archivos
 
@@ -853,9 +848,9 @@ La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-
 
 ## Referencias
 
-[^api-first-usage]: [Hilo del foro por peppy (02/07/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [Publicación del foro por Menchi (02/11/2013) en «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [Tuit por @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-first-usage]: [Hilo del foro por peppy (2/07/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Publicación del foro por Menchi (2/11/2013) en «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tuit por @ppy (20/3/2020)](https://twitter.com/ppy/status/1263083636363948032)
 [^web-api]: [«Web API» en Wikipedia](https://es.wikipedia.org/wiki/Web_API)
 ```
 
