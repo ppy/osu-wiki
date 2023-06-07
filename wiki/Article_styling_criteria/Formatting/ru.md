@@ -1,3 +1,8 @@
+---
+outdated_since: 15fa00673aafde21c13d34647ce08372fd9691de
+outdated_translation: true
+---
+
 # Оформление статей
 
 *См. также: [Содержание статей](/wiki/Article_styling_criteria/Writing)*
