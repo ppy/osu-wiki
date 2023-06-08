@@ -692,11 +692,11 @@ Al actualizar una imagen, cambie el nombre de la imagen o agregue una cadena de 
 
 ### Formatos y calidad
 
-Las imágenes deben usar el formato JPG en calidad 8 (80 u 80%, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, utilice el formato PNG en su lugar. Si la imagen contiene una animación, se puede utilizar el formato GIF; sin embargo, esto debe usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
+Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, utilice el formato PNG en su lugar. Si la imagen contiene una animación, se puede utilizar el formato GIF; sin embargo, esto debe usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
 
 ### Tamaño del archivo
 
-Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80% casi siempre está por debajo del límite de tamaño.
+Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % casi siempre está por debajo del límite de tamaño.
 
 Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, use el siguiente comando para jpeg-archive:
 
