@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aaa180d2f96e68bb61094382214237cf8bc22555
+---
+
 # Multijoueur
 
 Le **multijoueur** (souvent abrégé en *Multi*) est un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter entre eux ou en équipe sur une beatmap choisie par l'hôte.
