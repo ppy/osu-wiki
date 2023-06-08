@@ -40,7 +40,7 @@ Pleasingly neutral, however vague, refers to an article that is both light and r
 
 ### File names
 
-News posts are markdown files (`.md`) placed in the [`news/`](https://github.com/ppy/osu-wiki/tree/master/news) directory of the [`osu-wiki` GitHub repository](https://github.com/ppy/osu-wiki), under the following format:
+News posts are markdown files (`.md`) placed in the [`news/` directory](https://github.com/ppy/osu-wiki/tree/master/news) of the [`osu-wiki` GitHub repository](https://github.com/ppy/osu-wiki), under the following format:
 
 ```
 news/yyyy/yyyy-mm-dd-news-post-title.md
@@ -66,11 +66,10 @@ Short preview paragraph
 Content
 
 —Author
-
 ```
 
 - `layout` must always be set to `post`.
-- `title` must represent the article's full title, complete with any appropriate formatting. Markdown formatting is disallowed in this string. News post titles, unlike wiki article titles and other headings, should be in title case.
+- `title` must represent the article's full title. Markdown formatting is disallowed in this string. News post titles, unlike wiki article titles and other headings, should be in title case.
 - `date` must represent a combined string displaying a calendar date in ISO 8601 format (`2017-08-17`), followed by a 24-hour time string (`03:00:00`), followed by a time offset from UTC (`+0000`). This is the publication date used to determine when the news post becomes visible on the website.
 - The preview paragraph is what will be shown on the front page, news archive, and the osu!(lazer) in-game news listing, in addition to being the first paragraph of the news post.
 
@@ -84,9 +83,11 @@ Markdown usage is covered by the [article styling criteria](/wiki/Article_stylin
 
 #### Images
 
-*For image format and quality standards, see: [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality).*
+*For image format and quality standards, see: [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
 
-Images linked in news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or be placed in the `osu-wiki` GitHub repository. News articles that use images have their own folder within [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news) using the same naming format as their filename. Example: `wiki/shared/news/2017-08-17-news-post-title/banner.jpg`
+Images linked in news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or be placed in the `osu-wiki` GitHub repository.
+
+News articles that use images have their own folder within the [`wiki/shared/news/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news), with the same name as the news post file name. Example: `wiki/shared/news/2017-08-17-news-post-title/banner.jpg`.
 
 ### Banners
 
@@ -96,7 +97,7 @@ These banners appear in many different aspect ratios in different places of the 
 
 ![News post banner aspect ratio reference](img/banner-sizes.jpg "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
 
-Banners should have a minimum width of 1000 px and minimum height of 200 px for their base size. A version with each dimension doubled, should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners) directory.
+Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
 ### HTML and embedded content
 
