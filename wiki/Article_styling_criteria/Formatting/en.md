@@ -705,7 +705,7 @@ All images should be optimised as much as possible. Use [jpeg-archive](https://g
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-Alternatively, [this site](https://ezgif.com/) can be used to convert and optimise images.
+Alternatively, [ezgif.com](https://ezgif.com/) can be used to convert and optimise images.
 
 ### File names
 
