@@ -52,16 +52,25 @@ news/yyyy/yyyy-mm-dd-<article-title>.md
 
 Article title strings for file names are the title of the article itself with all spaces replaced with hyphens (`-`), and all additional characters (such as punctuation marks) removed with no replacement.
 
-### File headers
+### File structure
 
-All news article files must include a basic header which includes information about the article's title and published date. This must follow the format below:
+All news article files need to be structured in the following manner:
 
 ```
 ---
 layout: post
-title: "Aspire 2017 Stage Two: osu!taiko Concludes"
+title: "News Post Title"
 date: 2017-08-17 03:00:00 +0000
 ---
+
+short preview paragraph
+
+![](banner-image)
+
+content
+
+—author
+
 ```
 
 ``layout`` must always be set to ``post``.
@@ -69,6 +78,8 @@ date: 2017-08-17 03:00:00 +0000
 ``title`` must represent the article's full title and name, complete with any appropriate formatting. Markdown formatting is disallowed in this string.
 
 ``date`` must represent a combined string displaying a calendar date in ISO 8601 format (2017-08-17), followed by a 24-hour time string (03:00:00), followed by a time offset from UTC (+0000). This date is used to determine the "xx minutes/hours/days ago" display on the website when referring to the publishing dates of visible news articles.
+
+The preview paragraph is what will be shown on the front page, news archive, and the osu!(lazer) in-game news tab before the article is opened.
 
 ### Markdown
 
@@ -80,7 +91,9 @@ The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown), t
   - Images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the `osu-wiki` shared image repository. News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, except for the ``.md`` suffix. Example:
   ``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
 - Covers
-  - Cover images should have a minimum width of 900 and minimum height of 200 for their base size. A `@2x` version with each dimension doubled should be provided if the source image is large enough to support it. Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory.
+  - Cover images should have a minimum width of 1000 and minimum height of 200 for their base size. A `@2x` version with each dimension doubled should be provided if the source image is large enough to support it. Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory.
+
+![](/wiki/News_styling_criteria/img/banner-sizes.jpg)
 
 News posts must have a [block image](/wiki/Article_styling_criteria/Formatting#display) after the preview paragraph for use as a **cover** (sometimes called *banner*). The first image in an article will be used as a cover on the front page, news listing, and news article view.
 
