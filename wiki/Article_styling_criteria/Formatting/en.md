@@ -697,7 +697,7 @@ Images should use the JPG format at quality 8 (80 or 80%, depending on the progr
 
 ### File size
 
-Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
+Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% quality is almost always under the size limit.
 
 All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
@@ -705,7 +705,7 @@ All images should be optimised as much as possible. Use [jpeg-archive](https://g
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-Alternatively, [this site](https://ezgif.com/) can be used to convert & optimise images.
+Alternatively, [this site](https://ezgif.com/) can be used to convert and optimise images.
 
 ### File names
 
