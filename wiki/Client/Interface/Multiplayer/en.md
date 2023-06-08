@@ -371,8 +371,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole team to fail if they fail due to it. In Tag-team VS mode, this cause both teams's current game to end immediately.
-<!-- TODO: What's about EZ? (from former comments) -->
+Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole team to fail if they fail due to it. In Tag-team VS mode, this cause both teams's current game to end immediately.<!-- TODO: What's about EZ? (from former comments) -->
 
 ##### Results
 
