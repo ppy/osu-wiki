@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Multiplayer
 
-**Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other or as a team on maps decided by the host. Players can also complete maps together depending on host's settings.
+**Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
 
 The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of the client in video format in [Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), along with the [online users panel](/wiki/Client/Interface/Chat_console#extended-chat-console).
 
@@ -45,7 +45,7 @@ The listed match lobbies can be filtered using the options at the top left.
 
 Covering the middle of the screen is a list of available matches.
 
-Most matches have light white backgrounds, indicating that they were created normally in [this way](#creating-a-new-game). While there are also ones with purple backgrounds, which were **tournament matches** created by using `!mp make` or `!mp makeprivate`.
+Most matches have light white backgrounds, indicating that they were [created normally through the game UI](#creating-a-new-game). There are also ones with purple backgrounds, which are *tournament matches* created and managed using [lobby management chat commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) such as `!mp make` or `!mp makeprivate`.
 
 A variety of information is displayed about each lobby. For example, the player slots to the right can have three different colours:
 
@@ -97,7 +97,7 @@ While there is no direct button for it, the [options menu](/wiki/Client/Options)
 
 ![](img/multi-match-header.jpg "Example of the header")
 
-The top-left text indicates whether the player is the match host or a normal player. In the middle, there is a player box with information about [performance points](/wiki/Performance_points/Total_performance_points), [overall accuracy](/wiki/Gameplay/Accuracy), [level](/wiki/Gameplay/Score/Total_score#level), [rank](/wiki/Ranking#performance-points-ranking) and the selected [game mode](/wiki/Game_mode). To the right is a button for pausing the currently playing song. Pressing the button again can resume the song.
+The top-left text indicates whether the player is the match host or a normal player. In the middle, there is a player box with information about [performance points](/wiki/Performance_points/Total_performance_points), [overall accuracy](/wiki/Gameplay/Accuracy), [level](/wiki/Gameplay/Score/Total_score#level), [rank](/wiki/Ranking#performance-points-ranking) and the selected [game mode](/wiki/Game_mode). To the right is a button for pausing the currently playing song.
 
 ### Current players list
 
@@ -213,7 +213,7 @@ There are four different ways the winner of a match can be decided:
 
 There are two large wide orange and blue buttons above the [chat console](/wiki/Client/Interface/Chat_console).
 
-The orange `Leave Match` button on the left is self-explanatory. If the match host leave the match, the host will be automatically transferred to the remaining player in slot order. If there is no one in the match, it will automatically close, except for ones made by `!mp` commands, which will instead close after 30 minutes.
+The orange `Leave Match` button on the left is self-explanatory. If the match host leave the match, the host will be automatically transferred to the remaining player in slot order. If there is no one in the match, it will automatically close, except for ones made by [`!mp` commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands), which will instead close after 30 minutes.
 
 The blue button is used to control the player ready state and to start the match.
 
@@ -250,7 +250,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
-In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the current gameplay immediately ends, and the opposite team wins by default.
+In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
 #### Results
 
@@ -371,7 +371,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole team to fail if they fail due to it. In Tag-team VS mode, this cause both teams's current game to end immediately.<!-- TODO: What's about EZ? (from former comments) -->
+Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole match to end if they fail due to it, even in Tag-team VS.<!-- TODO: What's about EZ? (from former comments) -->
 
 ##### Results
 
@@ -387,7 +387,7 @@ No ranked score or performance points are awarded for `Tag co-op` or `Tag-team V
 
 For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), but individual results can be seen under different tabs of each team.
+The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), except that individual results can be seen under different tabs for each team.
 
 ## Trivia
 
