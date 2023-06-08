@@ -770,7 +770,7 @@ Los íconos de la bandera usan el código de dos letras (en mayúsculas) para co
 
 Las tablas del sitio web solo admiten encabezamientos en la primera fila.
 
-Las tablas no deben embellecerse (no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y luego otra barra vertical (`|`).
+Las tablas no deben embellecerse (es decir, no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y otra barra vertical (`|`).
 
 La fila delimitadora (la siguiente línea después del encabezamiento de la tabla) debe usar solo tres caracteres por columna (y debe completarse con un espacio en ambos lados), que debe verse como uno de los siguientes:
 
