@@ -95,7 +95,7 @@ News posts must have an image after the preview paragraph for use as a **banner*
 
 These banners appear in many different aspect ratios in different places of the website and on different devices, and should therefore be designed with any cropping due to this in mind.
 
-![News post banner aspect ratio reference](img/banner-sizes.jpg "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
+![News post banner aspect ratio reference](img/banner-sizes.png "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
 
 Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
