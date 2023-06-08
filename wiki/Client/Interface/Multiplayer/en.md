@@ -71,8 +71,6 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 ![](img/multi-room-creation.jpg "Configuration screen for creating a match lobby")
 :::
 
-<!-- TODO: update above image; there is a new `Make match history publicly viewable` button -->
-
 | Title | Description |
 | :-: | :-- |
 | `Game Name` | The name of the match. The default value is `{account name}'s game`. |
@@ -368,7 +366,8 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
+Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole team to fail if they fail due to it. In Tag-team VS mode, this cause both teams's current game to end immediately.
+<!-- Result:Whats about EZ and why EZ?-->
 
 ##### Results
 
@@ -384,7 +383,7 @@ No ranked score or performance points are awarded for `Tag co-op` or `Tag-team V
 
 For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen).
+The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), but individual results can be seen under different tabs of each team.
 
 ## Trivia
 
