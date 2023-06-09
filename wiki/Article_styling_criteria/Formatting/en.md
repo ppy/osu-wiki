@@ -5,7 +5,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the wiki:
+Listed below are the properly supported locales for the wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -13,18 +13,22 @@ Listed below are the properly-supported locales for the wiki:
 | `ar.md` | Arabic | اَلْعَرَبِيَّةُ |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
+| `ca.md` | Catalan | Català |
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
 | `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
+| `fil.md` | Filipino | Wikang Filipino |
 | `fr.md` | French | Français |
+| `he.md` | Hebrew | עִבְרִית |
 | `hu.md` | Hungarian | Magyar |
 | `id.md` | Indonesian | Bahasa Indonesia |
 | `it.md` | Italian | Italiano |
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
+| `lt.md` | Lithuanian | Lietuvių kalba |
 | `nl.md` | Dutch | Nederlands |
 | `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
@@ -33,6 +37,8 @@ Listed below are the properly-supported locales for the wiki:
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
 | `sk.md` | Slovak | Slovenčina |
+| `sl.md` | Slovenian | Slovenščina |
+| `sr.md` | Serbian | Српски |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
@@ -693,19 +699,19 @@ When updating an image, either change the image's name or append a query string 
 
 ### Formats and quality
 
-Images should use the JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. If the image contains an animation, the GIF format can be used; however, this should be used sparingly as these may take longer to load or can be bigger then the [max file size](#file-size).
+Images should use the JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. If the image contains an animation, the GIF format can be used; however, this should be used sparingly as these may take longer to load or can be bigger than the [max file size](#file-size).
 
 ### File size
 
-Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
+Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% quality is almost always under the size limit.
 
 All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
+Alternatively, [ezgif.com](https://ezgif.com/) can be used to convert and optimise images.
 
 ### File names
 
@@ -773,7 +779,7 @@ Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 
 Tables on the website only support headings along the first row.
 
-Tables must not be beautified (do not pad cells with extra spaces to make their widths uniform). They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
+Tables must not be beautified (i.e. do not pad cells with extra spaces to make their widths uniform). They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces and another vertical bar (`|`).
 
 The delimiter row (the next line after the table heading) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 

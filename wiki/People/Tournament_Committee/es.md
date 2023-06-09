@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Comité de torneos
 
 El **comité de torneos** es un panel de organizadores y ayudantes expertos y establecidos en la escena del torneo.
