@@ -58,7 +58,7 @@ Ecco alcuni dei modi con cui puoi contribuire:
 
 - Sfoglia il forum [Tornei](https://osu.ppy.sh/community/forums/55). I tornei richiedono molto tempo e lavoro per essere organizzati senza alcun intoppo. Puoi aiutare facendo da giudice spettatore in determinati casi.
 - Guarda cosa succede nel forum [Development](https://osu.ppy.sh/community/forums/2); quì è dove si svolgono la maggiorparte dei progetti seri.
-  - Unisciti al [Discord osu!dev](https://discord.gg/ppy)! Anche solamente seguendo e rimanendo aggiornato con lo sviluppo di osu! e i vari progetti è un ottimo modo di rimanere aggiornati.
+  - Unisciti al [server Discord osu!](https://discord.gg/ppy)! Anche solamente seguendo e rimanendo aggiornato con lo sviluppo di osu! e i vari progetti è un ottimo modo di rimanere aggiornati.
 - Unisciti a un [beatmap project](https://osu.ppy.sh/community/forums/53) e scopri quando collaborare con altri può essere divertente!
 - Inizia un tuo progetto o unisciti a quello di qualcun'altro! Che si tratti di riportare in auge la pippi danzante, o solamente fare qualcosa di bello per osu!, tutto è lecito!
   - Controlla la [lista di progetti popolari](/wiki/Community/Projects).

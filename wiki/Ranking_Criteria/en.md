@@ -56,12 +56,6 @@ Important to understand before using:
 - **All game modes within a beatmap must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Beatmap/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
 - **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_Criteria/osu!mania) ranking criteria for more information.
 - **Every difficulty of a beatmap must have a minimum [drain time](/wiki/Beatmap/Drain_time) of 30 seconds.**
-- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
-  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
-  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
-  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
-  - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **A beatmap of 2 songs combined together must follow the minimum spread requirements corresponding to the length of the longer song.**[^songs-comp-note] This is to avoid artificial extension of songs as an evasion of the above time limitations. Exceptions can be made for songs that were exclusively released together.
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
@@ -114,11 +108,12 @@ Important to understand before using:
 - **If a song title contains short or game version markers, the markers must be standardised to `(Short Ver.)` and `(Game Ver.)` respectively.**
 - **Unofficial cut versions of songs must add a `(Cut Ver.)` marker at the end of the current title.** If a length marker is already in the title of the track, `(Cut Ver.)` would replace it. This is to distinguish unofficial cuts of a song from full length versions. Songs that are shortened in ways that nearly match their official versions, and songs that are a full loop of a looping track will not be considered cut.
   - Note: If an unofficial cut contains matching sections in the same order and is roughly the same length as an official TV size, short version, or game version, it will instead count as an official cut and use the appropriate marker. Covers and remixes do not count.
+- **Unofficial extended versions of songs must add an `(Extended Edit)` marker at the end of the current title.** If a length marker is already in the title of the track, `(Extended Edit)` would replace it. This is to distinguish unofficial extended versions of a song from official extended versions.
 - **If a song has been edited to have a higher tempo, use a `(Sped Up Ver.)` marker at the end of the current title.** If there is an existing sped up version marker in the title, replace it with `(Sped Up Ver.)`. Sped up songs in Techno, Trance, Dance, or other similar genres must use a `(Nightcore Mix)` marker instead.
   - Note: For tracks which are both cut and sped up, combine their markers into `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk (`*`). Other special characters are to be romanised or dropped on case-by-case basis.
 - **If a beatmap's track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
-- **If a symbol is used to group parts of a title, a space must be used before and after the group, but not directly before or after the symbols within the groups.**
+- **Symbols used to group part of a title must include surrounding spaces.** For example, `Song★Title★` becomes `Song ★Title★`.
 - **If media applicable to the source field contains sub-series, the most precise label must be used as the source.** If a song has multiple applicable sub-series, the main media source may be used instead.
 
 #### Romanisation
@@ -126,7 +121,8 @@ Important to understand before using:
 - **When romanising an artist's name yourself and no official romanisation is available, it must be romanised in the order it is printed in the unicode field.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
-- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
+- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`.** In Swedish and Finnish, `ö` and `ä` should instead be romanised to `o` and `a` respectively.
+- **Metadata containing Nordic letters must be romanised to the following: `æ` to `ae`, `ø` to `oe`, and `å` to `aa`.** In Swedish, `å` should instead be romanised to `a`.
 - **Songs with Russian/Cyrillic metadata are to be romanised using the [BGN/PCGN system](https://en.wikipedia.org/wiki/BGN/PCGN_romanization) method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper.
   - Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`.
   - `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`.
