@@ -6,7 +6,7 @@ no_native_review: true
 
 *Ver también: [Instalación/macOS](/wiki/Client/Installation/macOS)*
 
-Esta página te dirá mas o menos cómo obtener a osu! funcionando en tu dispositivo de Windows. La [osu!academy](/wiki/Community/Video_series/osu!academy) tiene un [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) que explica cómo instalar osu! en Windows.
+Esta página te dirá mas o menos cómo obtener a osu! funcionando en tu dispositivo de Windows. La [osu!academy](/wiki/Community/Video_series/osu!academy) tiene un [videotutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) que explica cómo instalar osu! en Windows.
 
 ## Requerimientos mínimos del sistema
 

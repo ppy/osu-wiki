@@ -1,11 +1,7 @@
----
-outdated_translation: true
-outdated_since: 88d0725244a8214079c1dddabcb434d39ee850fd
----
-
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
+*알림: 이 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따른 요구사항 수준을 설명합니다.*
 
 ## 로케일
 
@@ -17,18 +13,22 @@ outdated_since: 88d0725244a8214079c1dddabcb434d39ee850fd
 | `ar.md` | 아랍어 | اَلْعَرَبِيَّةُ |
 | `be.md` | 벨라루스어 | Беларуская мова |
 | `bg.md` | 불가리아어 | Български |
+| `ca.md` | 카탈로니아어 | Català |
 | `cs.md` | 체코어 | Česky |
 | `da.md` | 덴마크어 | Dansk |
 | `de.md` | 독일어 | Deutsch |
 | `el.md` | 그리스어 | Ελληνικά |
 | `es.md` | 스페인어 | Español |
 | `fi.md` | 핀란드어 | Suomi |
+| `fil.md` | 필리핀어 | Wikang Filipino |
 | `fr.md` | 프랑스어 | Français |
+| `he.md` | 히브리어 | עִבְרִית |
 | `hu.md` | 헝가리어 | Magyar |
 | `id.md` | 인도네시아어 | Bahasa Indonesia |
 | `it.md` | 이탈리아어 | Italiano |
 | `ja.md` | 일본어 | 日本語 |
 | `ko.md` | 한국어 | 한국어 |
+| `lt.md` | 리투아니아어 | Lietuvių kalba |
 | `nl.md` | 네덜란드어 | Nederlands |
 | `no.md` | 노르웨이어 | Norsk |
 | `pl.md` | 폴란드어 | Polski |
@@ -37,6 +37,8 @@ outdated_since: 88d0725244a8214079c1dddabcb434d39ee850fd
 | `ro.md` | 루마니아어 | Română |
 | `ru.md` | 러시아어 | Русский |
 | `sk.md` | 슬로바키아어 | Slovenčina |
+| `sl.md` | 슬로베니아어 | Slovenščina |
+| `sr.md` | 세르비아어 | Српски |
 | `sv.md` | 스웨덴어 | Svenska |
 | `th.md` | 태국어 | ไทย |
 | `tr.md` | 터키어 | Türkçe |
@@ -77,7 +79,7 @@ outdated: true
 
 ### 오래된 번역
 
-영어 문서에 변경점이 있을 경우 번역된 문서들에는 `outdated_translation` 태그를 사용해야 합니다. 문서에 사소한 단어나 문법 변경과 같이 문서에 영향을 주지 않는 경우에는 제외합니다.
+영어 문서에 변경점이 있을 경우 번역된 문서들에는 `outdated_translation` 태그를 사용해야 합니다. 문서에 사소한 단어 변경이나 문법 조정과 같이 문서에 영향을 주지 않는 경우에는 제외합니다.
 
 ```yaml
 outdated_translation: true
@@ -112,11 +114,11 @@ tags:
 no_native_review: true
 ```
 
-### 문서 이름 짓기
+### 문서 명명 규칙
 
 *또한 [폴더 이름](#폴더-이름)와 [제목](#제목)도 참조하세요.*
 
-문서의 제목은 단수여야 하며, 문장의 첫 글자를 대문자로 작성해야 합니다. 자세한 내용은 [위키백과 명명 규칙 문서](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals))을 확인하세요.
+문서의 제목은 단수여야 하며, 문장의 첫 글자를 대문자로 작성해야 합니다. 자세한 내용은 [위키백과 명명 규칙 문서](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals))를 확인하세요.
 
 문서의 제목은 폴더의 이름과 동일해야 합니다 (적절한 경우에 공백은 밑줄(`_`)로 대체할 수 있습니다). 폴더 이름을 변경했다면 문서 제목을 그에 맞게 변경해야 하며, 그 반대의 경우도 마찬가지입니다.
 
@@ -128,7 +130,7 @@ no_native_review: true
 
 ### 폴더 이름
 
-*[문서 이름 짓기](#문서-이름-짓기)도 참조하세요.*
+*또한 [문서 명명 규칙](#문서-명명-규칙)도 참조하세요.*
 
 폴더 이름은 반드시 영어로 작성되어야 하며, 첫 글자를 대문자로 작성해야 합니다.
 
@@ -154,7 +156,7 @@ no_native_review: true
 
 헷갈릴 수 있는 키워드는 동음이의어 문서로 이동되도록 리디렉션 해야 합니다.
 
-동음이의어 문서에 링크된 문서에는 [다르게도 사용할 수 있습니다](#다르게도-사용할-수-있습니다) 햇노트가 있어야 합니다.
+동음이의어 문서에 링크된 문서에는 [다른 의미를 찾으려면](#다른-의미를-찾으려면) 햇노트가 있어야 합니다.
 
 ## HTML
 
@@ -246,12 +248,12 @@ Markdown 문법은 필요에 따라 이스케이프 해야 하지만, 문서의 
 *{문서} 혹은 {문서}와 헷갈리지 마세요.*
 ```
 
-### 다르게도 사용할 수 있습니다
+### 다른 의미를 찾으려면
 
-*다르게도 사용할 수 있습니다* 햇노트는 *헷갈리지 마세요* 햇노트와 비슷하지만, [동음이의어 문서](#동음이의어-문서)에 직접 연결됩니다. 이 햇노트의 링크는 동음이의어 문서에만 연결되어야 합니다. 다음과 같은 형식으로 사용하세요:
+*다른 의미를 찾으려면* 햇노트는 *헷갈리지 마세요* 햇노트와 비슷하지만, [동음이의어 문서](#동음이의어-문서)에 직접 연결됩니다. 이 햇노트의 링크는 동음이의어 문서에만 연결되어야 합니다. 다음과 같은 형식으로 사용하세요:
 
 ```markdown
-*{동음이의어 문서}로도 사용될 수 있습니다.*
+*다른 의미를 찾으려면 {동음이의어 문서}를 참조하세요.*
 ```
 
 ## 공지
@@ -342,7 +344,7 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 
 ### 제목
 
-*또한 [문서 이름 짓기](#문서-이름-짓기)도 참조하세요.*\
+*또한 [문서 명명 규칙](#문서-명명-규칙)도 참조하세요.*\
 *주의: 제목은 일반 텍스트로 분석되므로, 이스케이프 처리를 해서는 안 됩니다.*
 
 모든 문서의 첫 줄은 반드시 문서의 제목인 1단계 헤더여야 하며, 이후의 모든 헤더는 섹션 헤더여야 합니다. 제목은 반드시 서식, 링크, 이미지를 포함해서는 안 됩니다.
@@ -361,21 +363,17 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 
 직접 링크하는 데 사용하는 섹션의 식별자를 재정의 할 수 있습니다. 자동으로 생성된 식별자가 너무 길거나 까다로운 구두점이나 이미지를 포함하는 경우 커스텀 식별자를 사용해야 합니다.
 
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
 이 기능은 제목이 없는 문서의 특정 부분을 태그하는 데에도 사용할 수 있습니다. 드물게 사용해 주세요:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+{id=tutorial-quote}
 ```
 
 ## 목록
@@ -493,7 +491,6 @@ osu!는 설치 중 경로를 따로 지정하는 것이 아니라면 기본적�
 파일 이름을 가져오려면 대소문자를 그대로 복사해야 합니다. 해당되는 경우 소문자가 선호됩니다. (아래 예를 참고하세요.)
 
 ```markdown
-To play osu!, double click the `osu!.exe` icon.
 osu!를 플레이하려면 `osu!.exe` 아이콘을 더블클릭하세요.
 ```
 
@@ -710,11 +707,11 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 
 모든 이미지는 가능한 한 최적화해야 합니다. JPEG 이미지를 압축하려면 [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive)를 사용하세요. 일관적으로 jpeg-archive에는 다음과 같은 명령어를 사용하세요:
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-`<input>`에는 압축할 파일 이름, `<output>`에는 압축된 파일 이름을 넣어주세요.
+혹은 [ezgif.com](https://ezgif.com/)에서 이미지 변환 및 최적화가 가능합니다.
 
 ### 파일 이름
 
@@ -808,7 +805,7 @@ jpeg-recompress -am smallfry <input> <output>
 
 Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변 텍스트와 관련된 이미지, 혹은 동일한 카테고리의 다른 문서로 연결되는 탐색 블록을 포함할 수 있습니다.
 
-사용 예, 오른쪽에 렌더링 됨:
+사용 예, 오른쪽에 렌더링 됨 (좁은 디스플레이에서는 위쪽):
 
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
@@ -826,6 +823,8 @@ Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변
 
 - 짧은 섹션의 경우: 다음 섹션의 헤더가 Infobox 아래에 표시되며, 텍스트 뒤쪽으로 큰 간격이 남게 됩니다.
 - 한번에 여러 이미지가 있는 경우: 더 나은 디자인을 위해 각각의 이미지에 Infobox를 사용하세요.
+
+Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다. 
 
 ## 각주
 

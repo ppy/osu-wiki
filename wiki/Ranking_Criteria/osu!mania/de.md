@@ -1,8 +1,3 @@
----
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
-outdated_translation: true
----
-
 # Ranking-Kriterien für osu!mania
 
 ***Hinweis: Dieser Artikel ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_Criteria).***
@@ -65,11 +60,11 @@ Allgemeine Regeln und Richtlinien gelten für jede osu!mania-Schwierigkeit. Rhyt
 - **Im Schwierigkeitsgrad Insane oder niedriger dürfen nicht mehr als 6 Noten gleichzeitig gedrückt werden.** Bei der Verwendung von mehr als 6 Noten muss auch ein angemessener Abstand zum nächstniedrigeren Schwierigkeitsgrad eingehalten werden. Diese Regel gilt nicht für die Enden einer langen Note, da sie nicht gedrückt, sondern losgelassen werden.
 - **Beatmaps dürfen nur 4 bis 10 Tasten benutzen.** Alles andere wird nicht von dem Rank-Bereich unterstützt.
 - **Wenn mehrere Tastenmodi in einer Beatmap vorhanden sind, muss der Tastenstil in allen Schwierigkeitsnamen gekennzeichnet werden. Andernfalls darf der Tastenstil nicht gekennzeichnet werden.**
+- **Beatmaps, die den speziellen N+1 Mapping-Stil verwenden, müssen als solche unter dem Tab `Advanced` des Song-Setups im Editor markiert werden und "N+1" muss zu den Tags hinzugefügt werden. Bei Beatmaps, die mehrere Tastenmodi enthalten, müssen Schwierigkeiten in diesem Stil mit der Notation N+1 angegeben werden (z. B. 7K+1 anstatt 8K bei der Benennung der Schwierigkeitsstufe).**
 - **Wenn die [Drain-Zeit](/wiki/Beatmap/Drain_time) von jeder Schwierigkeit...**
-  - **...weniger als 2:30** ist, darf der niedrigste Schwierigkeitsgrad von jedem Tastenstil nicht schwerer als Normal sein **ODER** jeder Tastenmodus muss einen Spread besitzen, der mindestens 3 Schwierigkeitsgrade unter dem höchsten Schwierigkeitsgrad beginnt.
-  - **...zwischen 2:30 und 3:15** ist, darf der niedrigste Schwierigkeitsgrad von jedem Tastenstil nicht schwerer als Hard sein, **ODER** jeder Tastenmodus muss einen Spread besitzen, der mindestens 2 Schwierigkeitsgrade unterhalb des höchsten Schwierigkeitsgrades beginnt.
-  - **...zwischen 3:15 und 4:00** ist, darf der niedrigste Schwierigkeitsgrad von jedem Tastenstil nicht schwerer als Insane sein, **ODER** jeder Tastenmodus muss einen Spread besitzen, der mindestens 1 Schwierigkeitsgrade unterhalb des höchsten Schwierigkeitsgrades beginnt.
-- Auf den Schwierigkeitsgraden Insane und schwieriger wird ein angemessener Spread durch relative Schwierigkeitsabstände definiert, die denen ähneln, welche formal zwischen den niedrigeren Schwierigkeitsgraden definiert sind.
+  - **...kürzer als 2:30 ist**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Normal sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 4 Schwierigkeitsstufen beinhalten.
+  - **...zwischen 2:30 und 3:15 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Hard sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 3 Schwierigkeitsstufen beinhalten.
+  - **...zwischen 3:15 und 4:00 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Insane sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 2 Schwierigkeitsstufen beinhalten.
 
 ### Richtlinien
 
@@ -174,7 +169,7 @@ Zusätzliche Richtlinien für *7 Key Hard* Schwierigkeiten:
 
 - **Vermeide Chords mit mehr als 4 Noten.** Dies gilt auch für lange Noten-Patterns, die in mehr als vier Spalten Noten enthalten.
 - **Halte den Chord-Abstand in einem Chordstream bei einem Intervall von 1/1 oder höher.** Alles was dichter ist, kann die Lesbarkeit beeinträchtigen.
-- **Gelegentliche Hands können in Streams verwendet werden, solange sie durch mindestens einen Takt (4 Beats) getrennt sind.
+- **Gelegentliche Hands können in Streams verwendet werden, solange sie durch mindestens einen Takt (4 Beats) getrennt sind.**
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
@@ -207,3 +202,7 @@ Zusätzliche Richtlinien für *7 Key Insane* Schwierigkeiten:
 
 - **Vermeide ungerechtfertigte Steigerungen des Schwierigkeitsgrads.** Der Schwierigkeitsgrad sollte der Intensität des Liedes entsprechen.
 - **Langzeitige Änderungen der Slider-Geschwindigkeit sollten zwischen 0,60x und 1,10x liegen.**
+
+## Notes
+
+[^proper-spread]: Eine "angemessene" Verteilung *für die Schwierigkeitsstufen Insane und schwerer* wird als eine Verteilung mit Abständen zwischen den Schwierigkeitsgraden ähnlich wie die zwischen niedrigeren [Leveln](/wiki/Beatmap/Difficulty#schwierigkeitslevel) wie in den [schwierigkeitsgradabhängigen Kriterien](#schwierigkeitsgradabhängig) erläutert.
