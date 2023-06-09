@@ -18,7 +18,7 @@ Open settings of your IRC client and fill in the values (you may need to add a s
 - Port: `6667`
 - SSL: disabled
 - Username: your osu! username. Replace spaces with underscores (e.g., `beppy master 1000` becomes `beppy_master_1000`)
-- Password: the password from [IRC Authentication](https://osu.ppy.sh/p/irc) page
+- Password: the password from the [account settings page](https://osu.ppy.sh/home/account/edit#legacy-api)
 
 *Warning: Your IRC password is different from your account password. **Do not share it with others**.*
 
@@ -62,7 +62,7 @@ Alternatively, use a different server address, `cho.ppy.sh` (you will still conn
 
 Try the following:
 
-1. Make sure you are using the correct password from the [IRC Authentication page](https://osu.ppy.sh/p/irc).
+1. Make sure you are using the correct password from the [account settings page](https://osu.ppy.sh/home/account/edit#legacy-api).
 2. If your username has spaces, replace them with underscores (e.g. `This Username` becomes `This_Username`).
 
 ### Can I use another username?

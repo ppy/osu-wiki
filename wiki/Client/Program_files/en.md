@@ -83,7 +83,7 @@ osu! data files. Contains some of osu!'s cache, like beatmap background cache an
 
 *Caution: Be careful with these files, you might break osu! if you are not careful.*
 
-## Database files (.db)
+### Database files (.db)
 
 The database files are databases that osu! requires to function properly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
 
@@ -92,7 +92,7 @@ The database files are databases that osu! requires to function properly. The fi
 - `presence.db`: Stores a cache of osu!players logged in the Chat Console.
 - `scores.db`: Stores the local leaderboards.
 
-## .cfg (Configuration files)
+### .cfg (Configuration files)
 
 Configuration files configure the initial settings for osu! to work. The files can be opened with a text editor.
 
@@ -105,6 +105,6 @@ The main component. Click on it to start-up (only applies to Windows). The .exe 
 
 osu!.exe (Start-up osu!)
 
-#### .dll (application extension)
+### .dll (application extension)
 
 These .dll files are osu!'s components and dependencies.

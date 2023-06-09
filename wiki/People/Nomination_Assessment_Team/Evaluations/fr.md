@@ -28,9 +28,9 @@ La phase individuelle sera affichée sur le site web des BN deux semaines avant 
 
 ### Phase de groupe
 
-Après que trois membres de la NAT aient soumis leurs évaluations, l'évaluation passera à la phase de groupe. Au cours de la phase de groupe, les membres de la NAT discuteront de leurs évaluations entre eux, parviendront à un consensus et rédigeront un feedback de l'évaluation. Les résultats et les commentaires varieront en fonction du BN. S'il s'avère qu'un BN ne répond pas aux normes, il peut recevoir un avertissement ou être placé en probation, selon la gravité du problème. 
+Après que trois membres de la NAT aient soumis leurs évaluations, l'évaluation passera à la phase de groupe. Au cours de la phase de groupe, les membres de la NAT discuteront de leurs évaluations entre eux, parviendront à un consensus et rédigeront un feedback de l'évaluation. Les résultats et les commentaires varieront en fonction du BN. S'il s'avère qu'un BN ne répond pas aux normes, il peut recevoir un avertissement ou être placé en probation, selon la gravité du problème.
 
-Une fois le feedback écrit et vérifié, il sera envoyé et accompagnera tout changement de groupe nécessaire si le BN est déplacé des Beatmap Nominators probatoires aux Beatmap Nominators confirmés, ou vice versa. Le feedback sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
+Une fois le feedback écrit et vérifié, il sera envoyé et accompagnera tout changement de groupe nécessaire si le BN est déplacé des Beatmap Nominators probatoires aux Beatmap Nominators confirmés, ou vice versa. Le feedback sera envoyé par le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) comme un [message d'annonce](/wiki/Announcement_messages).
 
 Les avertissements et la mise à l'épreuve dus à des performances médiocres en tant que Beatmap Nominator à part entière sont effectifs pendant environ un an. Si un BN a des problèmes récurrents après avoir été averti ou mis à l'épreuve récemment, il peut être exclu des Beatmap Nominators lors de futures évaluations.
 
@@ -48,7 +48,7 @@ Les Beatmap Nominators peuvent démissionner du groupe à tout moment via le sit
 
 En général, les évaluations en bons termes et en termes standard sont relativement simples. Les nominateurs qui n'ont pas été récemment avertis ou placés en probation, et qui n'étaient pas sur le point d'être avertis pour des problèmes, démissionneront généralement en bons termes. Le terme standard est généralement utilisé pour les nominateurs qui ont été récemment avertis, qui sont en probation ou qui étaient sur le point d'être avertis pour des problèmes lors de leur prochaine évaluation de BN actuel.
 
-Une fois qu'un consensus sur les conditions de démission aura été atteint, la NAT enverra un message au BN via le [mappersguild bot](https://osu.ppy.sh/users/23648635) l'informant de son statut et de la date à laquelle il pourra se représenter pour devenir un BN s'il le souhaite.
+Une fois qu'un consensus sur les conditions de démission aura été atteint, la NAT enverra un message d'annonce au BN via le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) l'informant de son statut et de la date à laquelle il pourra se représenter pour devenir un BN s'il le souhaite.
 
 ### Évaluations fictives
 

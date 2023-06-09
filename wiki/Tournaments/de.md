@@ -10,8 +10,6 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelausscheidungsregel. Es handelt sich um ein internationales Event, das in der Regel jährlich stattfindet, wobei die osu!-Communities auf der ganzen Welt zusammenarbeiten, um ein Turnier mit kompetitivem Charakter zu veranstalten.
-
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 31.01.2011 | 08.04.2011 | ::{ flag=TW }:: Taiwan | ::{ flag=NL }:: Niederlande | ::{ flag=KR }:: Südkorea |
@@ -44,7 +42,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!taiko World Cup 2020](TWC/2020) | 07.03.2020 | 12.04.2020 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=GB }:: Vereinigtes Königreich |
 | [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien |
 | [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
-| [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Deutschland |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -108,6 +106,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | 3 Digit World Cup | 15.03.2019 | 26.05.2019 | ::{ flag=KR }:: Südkorea | ::{ flag=RU }:: Russische Föderation | ::{ flag=US }:: Vereinigte Staaten |
 | 3 Digit World Cup 2020 | 16.03.2020 | 31.05.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=BR }:: Brasilien | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24.02.2021 | 09.05.2021 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polen | ::{ flag=US }:: Vereinigte Staaten |
+| 3 Digit World Cup 2022 | 20.02.2022 | 08.05.2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesien |
+| 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 
 #### Aetherian's Summer Singles
 

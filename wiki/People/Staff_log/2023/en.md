@@ -221,7 +221,6 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-14: Added [terho](https://osu.ppy.sh/users/6090105) to **GMT**
 - 2023-04-14: Added [Corne2Plume3](https://osu.ppy.sh/users/15646039) to **GMT**
 - 2023-04-14: Moved [Pope Gadget](https://osu.ppy.sh/users/2288341) from **GMT** to **osu! Alumni**
-- 2023-04-14: Added [Corne2Plume3](https://osu.ppy.sh/users/15646039) to **GMT**
 - 2023-04-14: Added [THAT_otaku](https://osu.ppy.sh/users/11798717) to **GMT**
 - 2023-04-15: Added [D I O](https://osu.ppy.sh/users/3958619) to **GMT**
 - 2023-04-16: Moved [UberFazz](https://osu.ppy.sh/users/8646059) from **NAT** to **osu! Alumni**
