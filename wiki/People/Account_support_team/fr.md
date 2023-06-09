@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Équipe de support aux comptes
 
 *Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/Support_Team)*
