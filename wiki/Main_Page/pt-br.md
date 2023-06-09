@@ -124,7 +124,7 @@ O osu! não seria possivel sem vários usuários com seu desenvolvimento, manute
 
 Interaja com o osu! atravéz de outros programas e mídias, ou ajude-o crescer mais.
 
-[API](/wiki/osu!api) • [Conta do Bot](/wiki/Bot_account) • [Diretrizes de identidade da marca](/wiki/Brand_identity_guidelines) • [Servidor do Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Conta do Bot](/wiki/Bot_account) • [Diretrizes de identidade da marca](/wiki/Brand_identity_guidelines) • [Servidor do Discord osu!](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -7,14 +7,15 @@ Kamu selalu ingin membuat video di Youtube mengenai osu!, tetapi tidak pernah me
 ## Prasyarat
 
 - Perangkat lunak perekaman
-  - OBS
-  - Fraps
-  - Action!
-  - Bandicam
+  - [OBS](https://obsproject.com/)
+  - [Fraps](https://fraps.com/)
+  - [Action!](https://actionrecorder.com/)
+  - [Bandicam](https://www.bandicam.com/)
 - Perangkat lunak untuk melakuakn *editing/rendering* (Jangan pernah gunakan Windows Movie Maker, karena akan menurungkan kualitas video secara drastis!)
-  - Sony Vegas
-  - Adobe Premier
-  - AVS Video Editor
+  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
+  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
+  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ### Melakukan konfigurasi Fraps
 

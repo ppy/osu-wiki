@@ -9,9 +9,9 @@ tags:
 
 ![](img/mg-logo.png)
 
-**Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/People/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite a los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con mapping.
+**Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/People/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite a los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con el mapping.
 
-La organización y la discusión del gremio se pueden encontrar en el canal `#mappers-guild` del [servidor de discord de osu!dev](https://discord.gg/ppy).
+La organización y la discusión del gremio se pueden encontrar en el canal `#mappers-guild` del [servidor de Discord osu!](https://discord.gg/ppy).
 
 ## Sistema
 
@@ -19,7 +19,7 @@ La organización y la discusión del gremio se pueden encontrar en el canal `#ma
 
 Los mappers con 3 o más mapas clasificados pueden unirse al gremio en cualquier momento a través del [sitio web de Mappers' Guild](https://mappersguild.com/) al autenticar su cuenta osu!. Cualquier otra persona es libre de ver las actividades de búsqueda y mapping del sitio web.
 
-Los mappers pueden obtener recompensas al participar en el proceso de clasificación de los mapas de artistas destacados que esten conectados con Mappers' Guild. Esto se enfoca principalmente en la creación de beatmaps, sin embargo, también se brindan recompensas para los usuarios que contribuyan [modeando](/wiki/Modding), creando [storyboards](/wiki/Storyboard), y completando misiones dentro del gremio.
+Los mappers pueden obtener recompensas al participar en el proceso de clasificación de los mapas de artistas destacados que esten conectados con Mappers' Guild. Esto se enfoca principalmente en la creación de beatmaps, sin embargo, también se brindan recompensas para los usuarios que contribuyan con el [modding](/wiki/Modding), creando [storyboards](/wiki/Storyboard) y completando misiones dentro del gremio.
 
 ### Bandas
 
@@ -57,7 +57,7 @@ Los miembros de Mappers' Guild también pueden participar en la creación de bea
 
 ### Concursos de beatmapping
 
-Mappers' Guild también se utiliza para administrar concursos de beatmapping. Desde enero de 2020, todas las iteraciones del [Concurso mensual de beatmapping](/wiki/Contests/Monthly_Beatmapping_Contest) se han organizado, proyectado y juzgado mediante sistemas proporcionados por Mappers' Guild. Cualquier usuario puede organizar concursos a través de Mappers' Guild para aumentar la accesibilidad a la comunidad de mapping de osu!.
+Mappers' Guild también se utiliza para administrar concursos de beatmapping. Desde enero de 2020, todas las iteraciones del [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) se han organizado, proyectado y juzgado mediante sistemas proporcionados por Mappers' Guild. Cualquier usuario puede organizar concursos a través de Mappers' Guild para aumentar la accesibilidad a la comunidad de mapping de osu!.
 
 ## Historia
 
