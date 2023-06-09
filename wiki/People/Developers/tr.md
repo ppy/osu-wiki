@@ -51,4 +51,4 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ::{ flag=AU }:: **[peppy](
 
 ### Bot hesaplar
 
-- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)

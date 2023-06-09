@@ -1,5 +1,5 @@
 ---
-outdated_since: 2c129e5211a4caee7f4b7f2b189c6644b435fbbe
+outdated_since: 7076ff93d53765e07a3cfe9ff53bd92582ff540b
 outdated_translation: true
 ---
 
@@ -148,7 +148,21 @@ Les citations longues sont généralement utilisées dans des écrits plus forme
 
 ![Bouton de réponse aux citations](img/quotereply.png)
 
+### Code en ligne
+
+*Ne pas confondre avec [Bloc de codes](#bloc-de-codes).*
+
+```
+[c]text[/c]
+```
+
+La balise `[c]` permet de mettre en évidence du texte en ligne dans une police monospace. Sur le site d'osu!, le texte sera formaté avec une boîte grise autour de lui. Contrairement aux [blocs de codes](#bloc-de-codes), la balise ne peut être placée que sur une seule ligne.
+
+Dans les forums d'osu!, il est utilisé afin de mettre en avant, par exemple des raccourcis clavier ou des descriptions de boutons.
+
 ### Bloc de codes
+
+*Ne pas confondre avec [Code en ligne](#code-en-ligne).*
 
 ```
 [code]
