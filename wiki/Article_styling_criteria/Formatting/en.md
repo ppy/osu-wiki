@@ -707,11 +707,11 @@ Images must be under 1 megabyte, otherwise they will fail to load. Downscaling a
 
 All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
+Alternatively, [this site](https://ezgif.com/) can be used to convert & optimise images.
 
 ### File names
 

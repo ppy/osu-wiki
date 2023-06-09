@@ -1,3 +1,8 @@
+---
+outdated_since: 4b9945270eec6333c226723adec83cb9c8b947f4
+outdated_translation: true
+---
+
 # 랭킹 크리테리아
 
 *[게임 모드](/wiki/Game_mode) 고유의 랭킹 크리테리아를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*

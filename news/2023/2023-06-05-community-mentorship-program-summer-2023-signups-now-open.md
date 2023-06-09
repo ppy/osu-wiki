@@ -18,7 +18,7 @@ And if you're only just getting started and are eager to hone your skills, then 
 
 - Mentor signups will open on **June 5th** and close on **June 12th**.
 - Mentee signups will open on **June 26th** and close on **July 3rd**.
-- The 2023 Spring cycle will run from **July 4th** to **October 4th**.
+- The 2023 Summer cycle will run from **July 4th** to **October 4th**.
 
 Throughout this cycle, the organization team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
