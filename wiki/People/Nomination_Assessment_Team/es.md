@@ -117,7 +117,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Estructural[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluación, estructural |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluación, estructural[^task-achyoo] |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluación |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluación |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
