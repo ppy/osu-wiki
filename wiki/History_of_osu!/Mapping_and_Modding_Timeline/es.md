@@ -29,12 +29,12 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Marzo
 
-- **11-03-2008:** La categoría [Abandonado](/wiki/Beatmap/Category#graveyard) se implementó para albergar mapas inactivos.
+- **11-03-2008:** La categoría [Abandonado](/wiki/Beatmap/Category#abandonados) se implementó para albergar mapas inactivos.
   - La comunidad esperaba que se clasificaran todos los mapas pendientes, pero los mapas se abandonaban con frecuencia y era necesario separarlos. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### Julio
 
-- **31-07-2008:** Se implementó la categoría [Aprobado](/wiki/Beatmap/Category#approved) para proporcionar tablas de clasificación a los mapas inapropiados para la clasificación.
+- **31-07-2008:** Se implementó la categoría [Aprobado](/wiki/Beatmap/Category#aprobados) para proporcionar tablas de clasificación a los mapas inapropiados para la clasificación.
   - Las razones comunes para la aprobación incluyeron inicialmente una duración superior a 5 minutos y puntajes superiores a 20 millones, ninguno de los cuales estaba permitido para contenido clasificado. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
   - Un icono de `llama` (![flame icon](/wiki/shared/icon/flame.gif)) marcaba a los mapas aprobados después de dos burbujas.
 
@@ -107,8 +107,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Marzo
 
-
-- **09-03-2011:** A los miembros del MAT se les concedió el permiso para burbujear mapas [Aprobados](/wiki/Beatmap/Category#approved).
+- **09-03-2011:** A los miembros del MAT se les concedió el permiso para burbujear mapas [Aprobados](/wiki/Beatmap/Category#aprobados).
   - Un miembro del MAT solo podía colocar una de las dos burbujas de un mapa aprobado.
   - Este cambio se implementó porque los mapas aprobados se estaban volviendo más comunes. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **23-08-2011:** El "Beatmap Approval Team" pasó a llamarse "Beatmap Appreciation Team".
@@ -129,7 +128,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Agosto
 
-- **21-08-2012:** Los mapas [Aprobados](/wiki/Beatmap/Category#approved) comenzaron a recompensar con puntuación clasificada.
+- **21-08-2012:** Los mapas [Aprobados](/wiki/Beatmap/Category#aprobados) comenzaron a recompensar con puntuación clasificada.
   - La puntuación clasificada ya no se usaba como la métrica de puntuación principal, por lo que ya no se podía abusar de los mapas aprobados para las clasificaciones de los jugadores.<!-- changelog -->
 
 **1460 mapas** fueron clasificados en 2012.
@@ -159,13 +158,13 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 ### Agosto
 
 - **01-08-2013:** Se implementó la política de desclasificación de mapas, lo que permite a los miembros del BAT desclasificar un mapa dentro de la semana posterior a la clasificación. <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
-  - Este cambio fue una prueba para la categoría [Calificado](/wiki/Beatmap/Category#qualified) implementada más tarde.
+  - Este cambio fue una prueba para la categoría [Calificado](/wiki/Beatmap/Category#calificados) implementada más tarde.
 - **02-08-2013:** Se agregaron a los primeros miembros del BAT de osu!taiko, lo que significa una separación de los permisos de modo de juego en el grupo. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
   - En teoría, cualquier miembro del BAT podría nominar mapas de cualquier modo antes de este momento, sin embargo, el crecimiento de los diferentes modos de juego hizo necesaria la distinción.
 
 ### Diciembre
 
-- **12-12-2013:** Los mapas con dos nominaciones comenzaron a promocionarse a la categoría [Calificado](/wiki/Beatmap/Category#qualified) en lugar de Clasificado.
+- **12-12-2013:** Los mapas con dos nominaciones comenzaron a promocionarse a la categoría [Calificado](/wiki/Beatmap/Category#calificados) en lugar de Clasificado.
   - Los mapas calificados podrían descalificarse dentro de 1 semana, reemplazando la opción de desclasificar un mapa dentro de 1 semana. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
 - **22-12-2013:** El [Conglomerado Triumvir](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate) cicló a sus líderes regionales para evitar el agotamiento.
   - ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) representó a América del Norte, ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) representó a Asia, y ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) representó a Europa. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
@@ -177,7 +176,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 ### Febrero
 
 - **10-02-2014:** Para mejorar la organización, la gestión interna del sistema de creación de mapas y modeo se trasladó de los foros a Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
-- **18-02-2014:** Se retiró la categoría [Aprobado](/wiki/Beatmap/Category#approved).
+- **18-02-2014:** Se retiró la categoría [Aprobado](/wiki/Beatmap/Category#aprobados).
   - Los mapas de maratón se promocionaron a Clasificados con 3 nominaciones del BAT (2 iconos de `burbuja` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 ícono de `llama` (![flame icon](/wiki/shared/icon/flame.gif))). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
@@ -285,7 +284,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Octubre
 
-- **17-10-2016:** Se creó la categoría [Amado](/wiki/Beatmap/Category#loved).
+- **17-10-2016:** Se creó la categoría [Amado](/wiki/Beatmap/Category#amados).
   - La categoría proporcionó tablas de clasificación para mapas populares que no se pudieron clasificar por varias razones.
   - *Vea [Historia de Amado](/wiki/History_of_osu!/History_of_Loved) para obtener una cronología detallada de los cambios en el sistema de Amado.*
 
