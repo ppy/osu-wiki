@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Hesap destek ekibi
 
 *Birtakım alt forumları modere eden ekip için, bakınız: [Destek Ekibi](/wiki/People/Support_Team)*

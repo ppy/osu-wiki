@@ -1,3 +1,8 @@
+---
+outdated_since: c49f99355af5396e56b08e0f32184568e6a617a4
+outdated_translation: true
+---
+
 # Persyaratan untuk mendapatkan medali Dedication
 
 ## osu!

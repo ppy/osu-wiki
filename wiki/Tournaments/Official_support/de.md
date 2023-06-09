@@ -4,6 +4,8 @@ tags:
   - badges
   - badged
   - Abzeichen
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # Offizielle Turnierunterstützung
@@ -12,7 +14,7 @@ tags:
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
-Dieser Artikel wurde zuletzt am 22. März 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu!dev Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 22. März 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -198,19 +200,19 @@ Bitte reiche kein Hauptmenübanner zusammen mit deinem originalen Antrag ein —
 
 ## Häufig gestellte Fragen
 
-### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {#no-play-join-staff}
+### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {id=no-play-join-staff}
 
 Ein Teilnehmer, der das Screening-Verfahren bestanden hat, aber noch nicht für irgendwelche Matches eingeteilt ist **UND** noch an keinem Spiel teilgenommen hat (einschließlich Qualifikationsrunden), wird noch nicht als Spieler/Teilnehmer des Turniers betrachtet und kann daher noch dem Personal beitreten.
 
-### Was sollte ich tun, wenn ein Spieler in meinem Turnier eingeschränkt wird? {#player-restriction}
+### Was sollte ich tun, wenn ein Spieler in meinem Turnier eingeschränkt wird? {id=player-restriction}
 
 In dem unwahrscheinlichen Fall, dass ein Spieler im Laufe eines Turniers eingeschränkt wird, musst du vermutlich bestimmte Matches, an denen er beteiligt war, erneut austragen, um die Wettbewerbsintegrität des Turniers zu wahren. Turnierveranstalter sollten das Account-Support-Team kontaktieren, um Informationen und eine Betreuung in diesen (hoffentlich seltenen) Fällen zu erhalten.
 
-### Warum können Abzeichen nicht bei monatlich (oder wöchentlich) wiederkehrenden Turnieren verliehen werden? {#recurring-contests}
+### Warum können Abzeichen nicht bei monatlich (oder wöchentlich) wiederkehrenden Turnieren verliehen werden? {id=recurring-contests}
 
 Das Spiel mit Abzeichen zu überfluten verwischt das Ansehen des Preises für alle anderen. Wir wollen nicht, dass Profilabzeichen etwas sind, was Leute aus einer Reihe an regulären, wiederkehrenden Turnieren erbeuten.
 
-### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {#contest-support}
+### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {id=contest-support}
 
 Ja! Siehe [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Official_support) für mehr Details.
 

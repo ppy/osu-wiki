@@ -10,7 +10,7 @@ tags:
 
 **Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/People/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
 
-Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!dev](https://discord.gg/ppy).
+Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!](https://discord.gg/ppy).
 
 ## Sistem
 

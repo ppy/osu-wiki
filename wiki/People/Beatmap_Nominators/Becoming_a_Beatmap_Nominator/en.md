@@ -72,7 +72,7 @@ The *group stage* lasts at most until 14 days after the applicant sent in their 
 
 At this stage, the comments and votes from each evaluator are revealed to the other evaluators, and in the case of an ambiguous verdict, they will discuss until a consensus is reached.
 
-Feedback is then written based on the comments of the evaluators and the application result is sent back to the applicant by the [mappersguild bot](https://osu.ppy.sh/users/23648635) as an osu! chat message, after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
+Feedback is then written based on the comments of the evaluators and the application result is sent back to the applicant by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages), after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
 
 In the case of [failed applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), the NAT will also determine the length of the user's [cooldown](#failed-applications) before they may apply again. In case it is reduced from the standard cooldown duration, the conditions will be indicated in the feedback sent to the applicant.
 

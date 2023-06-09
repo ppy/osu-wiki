@@ -30,7 +30,7 @@ Los nuevos creadores de beatmaps suelen necesitar una gran cantidad de modding p
 
 Antes de enviarse para la clasificación, los beatmaps deben recibir mensajes de [hype](/wiki/Beatmap/Hype) de al menos cinco usuarios diferentes.
 
-## Nominaciones {#nominations}
+## Nominaciones {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-beatmapset1857663.png "El estado de clasificación del beatmap se muestra en la página de discusión, con las barras de progreso de promoción y nominación parcialmente llenas.")
