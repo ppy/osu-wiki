@@ -272,7 +272,7 @@ Para agregar un área en la que se puede hacer clic, se debe insertar una nueva 
 [youtube]ID_DEL_VÍDEO[/youtube]
 ```
 
-La etiqueta `[youtube]` se usa para incrustar un vídeo de [YouTube](https://youtube.com) en el sitio web. La etiqueta requiere que el usuario ingrese solo el ID del vídeo (**no** la URL completa) entre las dos etiquetas (representadas por el argumento `VIDEO_ID` anterior).
+La etiqueta `[youtube]` se usa para incrustar un vídeo de [YouTube](https://youtube.com) en el sitio web. La etiqueta requiere que el usuario ingrese solo el ID del vídeo (**no** la URL completa) entre las dos etiquetas (representadas por el argumento `ID_DEL_VÍDEO` anterior).
 
 El ID de un vídeo de YouTube se encuentra en la URL del vídeo y es la cadena de 11 caracteres *directamente después* de `v=`.
 
