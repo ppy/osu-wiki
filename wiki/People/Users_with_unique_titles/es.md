@@ -127,9 +127,9 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
 
-## Ganadores de los concursos de mapeo oficiales
+## Ganadores de los concursos de mapping oficiales
 
-La mayoría de los concursos oficiales de mapeo ofrecen el título **Elite Mapper** como primer premio.
+La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** como primer premio.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
