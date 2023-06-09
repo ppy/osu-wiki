@@ -8,9 +8,9 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** (o el ***tag de osu!supporter***) es un título temporal dado a los jugadores que han apoyado a osu!, de manera voluntaria, con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el titulo está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en la jugabilidad, desempeño o puntaje y nunca lo hará.
+**osu!supporter** (o la ***etiqueta de osu!supporter***) es un título temporal dado a los jugadores que han apoyado a osu!, de manera voluntaria, con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el titulo está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en la jugabilidad, desempeño o puntaje y nunca lo hará.
 
-El tag de osu!supporter podrá ser obtenido desde la [página de la tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
+La etiqueta osu!supporter podrá ser obtenida desde la [página de la tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
 ## Características
 
@@ -24,7 +24,7 @@ El tag de osu!supporter podrá ser obtenido desde la [página de la tienda de os
 ![](img/usercard-ES.png "Tarjeta de usuario con osu!supporter")
 :::
 
-Los supporters reciben una placa con corazones en ella, usualmente se encuentra junto a su nombre de usuario en el sitio web. La cantidad de corazones depende en la duración del osu!supporter que el usuario ha adquirido o que haya recibido en total<!-- fuente: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+Los supporters reciben una placa con corazones en ella, usualmente se encuentra junto a su nombre de usuario en el sitio web. La cantidad de corazones depende en la duración del osu!supporter que el usuario ha adquirido o que haya recibido en total:
 
 - Menos de 1 año: 1 corazón
 - De 1 a 5 años: 2 corazones
@@ -40,9 +40,9 @@ Usuarios con un osu!supporter activo aparecerán de un amarillo brillante en el 
 
 ### Sección del perfil editable
 
-Los supporters reciben una nueva sección en su perfil llamada `yo!`, que a menudo se denomina como página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza el [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
+Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo se denomina como página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza el [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
 
-La sección `yo!` puede ser un buen lugar para:
+La sección `¡yo!` puede ser un buen lugar para:
 
 - Banners, colaboraciones, e infografías para realzar el perfil
 - Algunos párrafos o artículos que proporcionen información sobre la vida del jugador
@@ -65,15 +65,15 @@ Al obtener un osu!supporter viene con la habilidad de cambiar su nombre de usuar
 
 ### osu!direct
 
-osu!direct es el motor de búsqueda y descarga de mapas disponible para supporters. Podrás acceder desde el menú principal al hacer clic en la pestaña de `osu!direct` en la parte derecha de la pantalla. Además de contener un listado de mapas incorporado, osu!direct ofrece otras maneras de obtener nuevos mapas sin salir del juego:
+osu!direct es el motor de búsqueda y descarga de mapas disponible para supporters. Podrás acceder desde el menú principal al hacer clic en la pestaña de `osu!direct` en la parte derecha de la pantalla. Además de contener un listado de beatmaps incorporado, osu!direct ofrece otras maneras de obtener nuevos beatmaps sin salir del juego:
 
-- Enlaces de mapas en el chat, que te dirigen al sitio web de osu!, ahora activan el aviso de descarga dentro del juego
-- Descargas automáticas de mapas mientras juegas en una sala [multijugador](/wiki/Client/Interface/Multiplayer) o te encuentras [espectando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#online)
-- Enlace automático de los mapas que se están jugando en la pestaña de chat `#spectator` para los espectadores, como una [configuración opcional](/wiki/Client/Options#online)
+- Enlaces de beatmaps en el chat, que te dirigen al sitio web de osu!, ahora activan el aviso de descarga dentro del juego
+- Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Client/Interface/Multiplayer) o te encuentras [espectando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#online)
+- Enlace automático de los beatmaps que se están jugando en la pestaña de chat `#spectator` para los espectadores, como una [configuración opcional](/wiki/Client/Options#online)
 
 ### Tablas de clasificación extendidas
 
-Los supporters tienen acceso a varias [tablas de clasificación](/wiki/Beatmap#leaderboards) específicas por mapa disponibles en el juego y en el sitio web:
+Los supporters tienen acceso a varias [tablas de clasificación](/wiki/Beatmap#leaderboards) específicas por beatmap disponibles en el juego y en el sitio web:
 
 - Clasificación mundial para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier)
 - Clasificación nacional para jugadores que comparten la misma bandera
@@ -85,11 +85,11 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 
 | Valor | Limite regular | Limite de osu!supporter |
 | :-- | :-: | :-: |
-| [Mapas pendientes](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(mapas clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps rankeados, 12)`, hasta **20**[^pending-beatmaps-ref] |
-| Mapas favoritos | 100 | 1000 |
+| [Beatmaps pendientes](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
+| Beatmaps favoritos | 100 | 1000 |
 | Amigos | 250 | 500 |
 
-Adicionalmente, los usuarios con osu!supporter tienen límites de descarga de mapas menos estrictos.
+Adicionalmente, los usuarios con osu!supporter tienen límites de descarga de beatmaps menos estrictos.
 
 ### Elementos extra para la Skin
 
@@ -98,26 +98,26 @@ Después de obtener un osu!supporter, algunos elementos visuales y auditivos de 
 | Archivo | Descripción |
 | :-- | :-- |
 | `menu-background.jpg` | El fondo del menú principal |
-| `welcome_text.png` | El texto de "welcome" que aparece cuando el juego se inicia |
+| `welcome_text.png` | El texto de «welcome» que aparece cuando el juego se inicia |
 | `welcome.wav` | El sonido de "welcome to osu!" que suena cuando el juego se inicia |
-| `seeya.wav` | El sonido de "see ya next time" que suena cuando el juego se cierra |
+| `seeya.wav` | El sonido de «see ya next time» que suena cuando el juego se cierra |
 
 Para más detalles, véase [Skinning/Interfaz § Menú principal](/wiki/Skinning/Interface#main-menu) y [Skinning/Sonidos § Menú principal](/wiki/Skinning/Sounds#main-menu).
 
 ### Búsqueda extendida
 
 ::: Infobox
-![](img/beatmap-search-ES.png "Página de búsqueda de mapas en el sitio web, con dos nuevos filtros al final")
+![](img/beatmap-search-ES.png "Página de búsqueda de beatmaps en el sitio web, con dos nuevos filtros al final")
 :::
 
-Los supporters tienen acceso a un conjunto ampliado de filtros de [búsqueda de mapas](https://osu.ppy.sh/beatmapsets)
+Los supporters tienen acceso a un conjunto ampliado de filtros de [búsqueda de beatmaps](https://osu.ppy.sh/beatmapsets)
 
-- Mapas que fueron (o no) jugados
-- Mapas donde consiguió una puntuación con cierto [rango](/wiki/Gameplay/Grade)
+- Beatmaps que fueron (o no) jugados
+- Beatmaps donde consiguió una puntuación con cierto [rango](/wiki/Gameplay/Grade)
 
 ### Multijugador en versiones experimentales de osu!
 
-Los supporters pueden acceder al multijugador desde la versión de acceso anticipado "cutting edge".
+Los supporters pueden acceder al multijugador desde la versión de acceso anticipado «cutting edge».
 
 ## Duración restante
 
@@ -153,4 +153,4 @@ Adicionalmente, tanto el remitente y el destinatario recibirán notificaciones v
 
 ## Referencias
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)
+[^pending-beatmaps-ref]: [Aumentar el número de ranuras de beatmaps pendientes](https://osu.ppy.sh/community/forums/posts/8294132)
