@@ -1,48 +1,64 @@
-# Custom Sample Overrides
+# 自定义音效名称
 
-你可以在谱面所在文件夹下放置或者替换下列文件来自定义你的音效：
+截至目前，可以在谱面中或者在自定义皮肤中使用自定义音效。
 
-## Normal 音效(loud)
+以下部分介绍了可替换音效文件的名称。
 
-- normal-hitnormal
-- normal-hitwhistle
-- normal-hitfinish
-- normal-hitclap
-- normal-hitnormal2
-- normal-hitwhistle2
-- normal-hitfinish2
-- normal-hitclap2
+## Normal (较响的) 音效组
 
-上面的音效一般都是附加在一起的，如果你在谱面中设定了一个 note 为 whistle 音效，你将会听到 hitnormal + hitwhistle 的组合音效
+- `normal-hitnormal`
+- `normal-hitwhistle`
+- `normal-hitfinish`
+- `normal-hitclap`
 
-- normal-sliderslide (loops)
-- normal-sliderwhistle (loops)
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
+
+- normal-sliderslide (循环播放)
+- normal-sliderwhistle (循环播放)
 - normal-slidertick
 
-## Soft 音效
+## Soft 音效组
 
 - soft-hitnormal
 - soft-hitwhistle
 - soft-hitfinish
 - soft-hitclap
 
-上面的音效一般都是附加在一起的，如果你在谱面中设定了一个 note 为 whistle 音效，你将会听到 hitnormal + hitwhistle 的组合音效
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
 
-- soft-sliderslide (loops)
-- soft-sliderwhistle (loops)
+- soft-sliderslide (循环播放)
+- soft-sliderwhistle (循环播放)
 - soft-slidertick
 
-## 通用的音效
+## Drum 音效组
 
-- spinnerspin (这个音效的频率是逐渐增加的。它从〜500赫兹到80000赫兹递增，其中原始样本率为44100Hz)
-- spinnerbonus (ding)
+- `drum-hitnormal`
+- `drum-hitwhistle`
+- `drum-hitfinish`
+- `drum-hitclap`
+
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
+
+- `drum-sliderslide` (循环播放)
+- `drum-sliderwhistle` (循环播放)
+- `drum-slidertick`
+
+## 通用音效
+
+- spinnerspin (随着转盘旋转，这个音效的音调会逐渐增加。若音效文件的采样率是 44100Hz，那么它会从大约 500Hz，随着转盘旋转逐渐递增到 80000Hz。)
+- spinnerbonus (叮叮声)
 
 ## 音效的格式
 
-你可以使用 wav 或者 mp3, 但是你需要注意：wav 文件是最好的选择。mp3文件会导致不正确循环并且造成一个约 20ms 的延迟，也许你需要因此增加一个延迟量。
+- 由于 `.wav` 文件格式播放延迟低、循环播放兼容好，所以所有音效文件都应使用这种内部格式。
+  - 你能使用 `.wav` 或 `.mp3`，但是请注意：`.wav` 文件在所有情况下都是最优选择。这是因为 `.mp3` 文件在循环播放的时候，会存在一个固定的间隙（0-20ms），导致循环的音效听起来不正确。
+- 如果你想使用一组文件来替代皮肤里的 normal 和 soft 音效组，只需要删除音效文件的 `normal-` 或 `soft-` 前缀即可。
+- 把这些文件放在谱面或者皮肤的目录中。
+  然后，你需要重新加载谱面或者皮肤，才能预览修改后的效果！
 
-如果你需要同时替换 N 音效和 S 音效，你可以删除自定义音效的文件名上的 normal- 或者 soft- 前缀。
+## 相关文章：
 
-建议音效使用 wav 格式，因为 wav 格式有很低的延迟，而且有很强的兼容性。
+参见：
 
-在替换音效之后，你需要退出编辑器或者是正在进行的游戏，然后重新进入谱面。
+- [自定义音效库](/wiki/Guides/Custom_Hitsound_Library)
+- [自定义皮肤/音效](/wiki/Skinning/Sounds)
