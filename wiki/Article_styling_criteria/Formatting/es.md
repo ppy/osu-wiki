@@ -13,26 +13,32 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `ar.md` | Árabe | اَلْعَرَبِيَّةُ |
 | `be.md` | Bielorruso | Беларуская мова |
 | `bg.md` | Búlgaro | Български |
+| `ca.md` | Catalán | Català |
 | `cs.md` | Checo | Česky |
 | `da.md` | Danés | Dansk |
 | `de.md` | Alemán | Deutsch |
 | `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
 | `fi.md` | Finés | Suomi |
+| `fil.md` | Filipino | Wikang Filipino |
 | `fr.md` | Francés | Français |
+| `he.md` | Hebreo | עִבְרִית |
 | `hu.md` | Húngaro | Magyar |
 | `id.md` | Indonesio | Bahasa Indonesia |
 | `it.md` | Italiano | Italiano |
 | `ja.md` | Japonés | 日本語 |
 | `ko.md` | Coreano | 한국어 |
+| `lt.md` | Lituano | Lietuvių kalba |
 | `nl.md` | Neerlandés | Nederlands |
 | `no.md` | Noruego | Norsk |
 | `pl.md` | Polaco | Polski |
 | `pt.md` | Portugués | Português |
-| `pt-br.md` | Portugués (Brasil) | Português (Brasil) |
+| `pt-br.md` | Portugués brasileño | Português (Brasil) |
 | `ro.md` | Rumano | Română |
 | `ru.md` | Ruso | Русский |
 | `sk.md` | Eslovaco | Slovenčina |
+| `sl.md` | Esloveno | Slovenščina |
+| `sr.md` | Serbio | Српски |
 | `sv.md` | Sueco | Svenska |
 | `th.md` | Tailandés | ไทย |
 | `tr.md` | Turco | Türkçe |
