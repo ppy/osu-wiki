@@ -5,7 +5,7 @@ tags:
   - badged
 ---
 
-# Official contest support
+# Official beatmapping contest support
 
 *For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
 
@@ -29,11 +29,13 @@ Contests which abide by the following criteria are eligible for official support
   - The contest has successfully run for one iteration without official support.
 - **The contest must have a clearly defined set of rules.**
 - **The contest must accept submissions for only one game mode.** Most users specialise in one game mode, so it is not reliable to evaluate mapping quality across multiple game modes.
-- **The contest must have at least 10 submissions that adhere to the contest's rules.** Contests with fewer valid submissions are not deemed competitive enough.
+- **For solo osu! contests, there must be at least 15 valid submissions.**
+- **For solo osu!taiko, osu!catch, or osu!mania contests, there must be at least 10 valid submissions.**
+- **For team contests, participation will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.** As a rule of thumb, aim for at least 20 participants and 10 valid submissions.
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
 - **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is preferred but not required.
 - **The contest's results must be publicly displayed with judge scores/comments visible.** The judges may be anonymised publicly, but the osu! team may ask for un-anonymised judge details if necessary.
-- **The contest must have at least 5 judges.** Contests with fewer judges allow each judge too much influence on overall results.
+- **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results.
 - **A user cannot participate in more than one submission to the contest.**
 - **Submissions to the contest should be anonymised.** This limits judging bias removing name association between a mapper and their map. This rule may be ignored only if a contest has special circumstances that warrant removing anonymity.
 - **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging/screening submissions. Anyone with access to judging/screening information or un-anonymised submissions is considered a "contest organiser".
