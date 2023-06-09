@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # 赛事委员会
 
 **赛事委员会**是一个由经验丰富、熟练的赛事组织者和裁判组成的小组。
