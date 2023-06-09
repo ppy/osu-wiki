@@ -21,7 +21,7 @@ Walaupun forum tertentu seperti [Mapping Discussion](https://osu.ppy.sh/communit
 
 ## Peran dan kelompok pengguna
 
-Beberapa pengguna dapat menjadi bagian dari satu atau lebih kelompok pengguna (*user group*) tertentu berdasarkan jabatan, hak akses, atau rekam jejak aktivitas mereka. Daftar kelompok pengguna selengkapnya dapat dilihat di [Tim § Kelompok pengguna](/wiki/People/osu!_team#kelompok-pengguna).
+Beberapa pengguna dapat menjadi bagian dari satu atau lebih kelompok pengguna (*user group*) tertentu berdasarkan jabatan, hak akses, atau rekam jejak aktivitas mereka. Daftar kelompok pengguna selengkapnya dapat dilihat di [Kelompok pengguna](/wiki/People/User_group).
 
 Di samping lencana yang menandakan keanggotaan seseorang dalam suatu kelompok, pengguna juga dapat memiliki [gelar khusus](/wiki/Community/User_title) yang tersemat di bawah avatar pada postingan forum yang mereka kirim.
 
