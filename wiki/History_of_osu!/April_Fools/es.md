@@ -8,6 +8,7 @@ tags:
   - joke
   - history
   - legacy
+no_native_review: true
 ---
 
 # Historia de las bromas del día de los Inocentes de osu!
