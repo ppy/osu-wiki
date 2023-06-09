@@ -7,7 +7,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Discord-Server](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server)
+- [osu! Discord-Server](/wiki/Community/osu!_Discord_server)
 - [Offline-Organisationen](/wiki/Community/Organisations)
 
 ## Projekte

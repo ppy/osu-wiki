@@ -1,6 +1,3 @@
-outdated_since: a8cc4d36239f194ed529a59a51038d554308731e
-outdated_translation: true
-
 separator: ", "
 alumni:
   roles:
@@ -24,9 +21,12 @@ gmt:
     tournaments: gestión de torneos
     wiki: administración de la wiki
     mapping: moderación de la comunidad de mapping/modding
+    skinning: moderación de la comunidad de skinning
+    leadership: liderazgo de equipo
 nat:
   subgroups:
-    advisor: asesor
-    evaluator: evaluador
+    structural: estructural
+    evaluation: evaluación
+    leadership: liderazgo
 languages:
   partial: algo de <language>

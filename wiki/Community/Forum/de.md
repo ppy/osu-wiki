@@ -21,7 +21,7 @@ Zwar haben einige Foren wie beispielsweise [Mapping Discussion](https://osu.ppy.
 
 ## Rollen und Nutzergruppen
 
-Manche Benutzer dürfen zu einer oder mehreren benutzerdefinierten Gruppen gehören, abhängig von ihren Community-Aufgaben, Zugriffsrechten oder ihrer früheren Tätigkeit. Eine vollständige Liste der Nutzergruppen kann unter [Das Team § Benutzergruppen](/wiki/People/osu!_team#benutzergruppen) gefunden werden.
+Manche Benutzer dürfen zu einer oder mehreren benutzerdefinierten Gruppen gehören, abhängig von ihren Community-Aufgaben, Zugriffsrechten oder ihrer früheren Tätigkeit. Eine vollständige Liste der Nutzergruppen kann unter [Benutzergruppe](/wiki/People/User_group) gefunden werden.
 
 Zusätzlich zur Gruppenzugehörigkeit, die durch Gruppenabzeichen gekennzeichnet ist, dürfen Nutzer [eigene Nutzertitel](/wiki/Community/User_title) haben, die in jedem Beitrag unter dem Avatar angezeigt werden.
 
