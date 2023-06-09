@@ -9,7 +9,7 @@ tags:
 Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego ([dificultades](#dificultad)) que se componen de varios [objetos](/wiki/Gameplay/Hit_object) y casi siempre representan una sola canción. También incluye otros componentes, todos empaquetados en un archivo con [la extensión .osz](/wiki/Client/File_formats/Osz_(file_format)):
 
 - la canción en sí, almacenada en formato MP3 u OGG.
-- [imágenes de fondo](/wiki/Beatmap/Background) o un video, actuando como campo de juego.
+- [imágenes de fondo](/wiki/Beatmap/Background) o un vídeo, actuando como campo de juego.
 - [hitsounds personalizados](/wiki/Beatmapping/Hitsound) para arreglos y feedback auditivo mejorado (opcional).
 - [storyboard](/wiki/Storyboard) con gráficos en movimiento y efectos especiales, que sirve como historia de fondo o tema para la canción (opcional).
 - [skin personalizada](/wiki/Skinning), que cambia la apariencia de la interfaz y los elementos del juego (opcional).

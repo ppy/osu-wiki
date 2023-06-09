@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 151284869cc3b4ce15b04d85ee973290887950df
+---
+
 # Formato
 
 *Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
