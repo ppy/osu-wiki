@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Editor de beatmaps
 
 ![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose.jpg)
