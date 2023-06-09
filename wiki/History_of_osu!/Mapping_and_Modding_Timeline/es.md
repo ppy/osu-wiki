@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Línea de tiempo del mapeo y modeo
 
 Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de tiempo del mapeo y modeo** tiene como objetivo documentar los cambios más grandes del sistema y servir como una herramienta de referencia cuando los usuarios están incorporando nuevos cambios.
