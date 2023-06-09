@@ -14,7 +14,7 @@ Los concursos oficiales son organizados (o reconocidos como oficiales) por el [e
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
-**Monthly Beatmapping Contest**, en su concepto inicial, fue un concurso de mapeo en el que los mapeadores participantes compitieron para crear el mapa más destacado de una canción determinada con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Easy o Normal en adelante en un mes.
+**Monthly Beatmapping Contest**, en su concepto inicial, fue un concurso de mapeo en el que los mapeadores participantes compitieron para crear el mapa más destacado de una canción determinada con una [dificultad extendida](/wiki/Beatmap/Difficulty#niveles-de-dificultad) adecuada a partir de Easy o Normal en adelante en un mes.
 
 | Concurso No. | Canción | Modo | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -84,7 +84,7 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 
 ### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
-**osu! Mapping Olympiad** es un concurso de mapeo que se lleva a cabo como un sucesor espiritual de los anteriores Concursos Mensuales de Mapeo (anteriores a 2020). En este concurso, los mapeadores participantes tienen la tarea de crear un mapa con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Fácil o Normal o un cierto número de dificultades para cualquiera de las canciones dadas en cada iteración correspondiente.
+**osu! Mapping Olympiad** es un concurso de mapeo que se lleva a cabo como un sucesor espiritual de los anteriores Concursos Mensuales de Mapeo (anteriores a 2020). En este concurso, los mapeadores participantes tienen la tarea de crear un mapa con una [dificultad extendida](/wiki/Beatmap/Difficulty#niveles-de-dificultad) adecuada a partir de Fácil o Normal o un cierto número de dificultades para cualquiera de las canciones dadas en cada iteración correspondiente.
 
 | Concurso No. | Canción(es) | Modo | ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -110,7 +110,7 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 
 ### Mapping With Rewards
 
-**Mapping With Rewards** es un concurso de mapas en el que los mapeadores participantes compiten para crear el mejor mapa (con una [dificultad extendida](/wiki/Beatmap/Difficulty#difficulty-levels) adecuada a partir de Easy o Normal en adelante) para cualquiera de las canciones dadas en cada iteración correspondiente sin plazos estrictos.
+**Mapping With Rewards** es un concurso de mapas en el que los mapeadores participantes compiten para crear el mejor mapa (con una [dificultad extendida](/wiki/Beatmap/Difficulty#niveles-de-dificultad) adecuada a partir de Easy o Normal en adelante) para cualquiera de las canciones dadas en cada iteración correspondiente sin plazos estrictos.
 
 | Concurso No. | Canción | Modo | ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
