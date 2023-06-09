@@ -32,7 +32,7 @@ The individual phase will show on the BN website 2 weeks before it is due, letti
 
 After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found a BN is not performing up to standard, they may either be given a warning or placed on probation depending on the severity of the issue.
 
-Once the feedback is written and reviewed, it will be sent and accompany any group changes needed if the BN is moved from the probationary Beatmap Nominators to the full Beatmap Nominators, or vice versa. The feedback will be delivered by the [mappersguild bot](https://osu.ppy.sh/users/23648635) as an osu! chat message.
+Once the feedback is written and reviewed, it will be sent and accompany any group changes needed if the BN is moved from the probationary Beatmap Nominators to the full Beatmap Nominators, or vice versa. The feedback will be delivered by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages).
 
 Warnings and being placed on probation due to subpar performance as a full Beatmap Nominator are effective for roughly one year. If a BN has reoccurring issues down the line after being warned or placed on probation recently, they may be removed from the Beatmap Nominators on future evaluations.
 
@@ -50,7 +50,7 @@ Beatmap Nominators can resign from the group at any time via the BN website. Whe
 
 Generally, good- and standard-term evaluations are relatively simple. Beatmap Nominators who have not been recently warned or placed on probation, and were not about to be warned for issues, will usually resign on good terms. Standard terms is typically used for nominators who have been warned recently, are on probation, or were about to be warned for issues on their upcoming current BN evaluation.
 
-Once a consensus for the resignation terms has been reached, the NAT will send the BN a message via the [mappersguild bot](https://osu.ppy.sh/users/23648635) informing them of their status and when they can reapply to become a BN if they so choose.
+Once a consensus for the resignation terms has been reached, the NAT will send the BN an announcement message via the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) informing them of their status and when they can reapply to become a BN if they so choose.
 
 ### Mock evaluations
 
