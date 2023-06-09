@@ -9,6 +9,8 @@ tags:
   - 申牌
   - 比赛
   - 锦标赛
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 官方锦标赛支持
@@ -17,7 +19,7 @@ tags:
 
 如果基于社区的锦标赛各项标准均符合官方团队的要求，[osu! 团队](/wiki/People/osu!_team)可以向这些锦标赛酌情提供额外的支持。
 
-文章最后于 2023 年 3 月 22 日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+文章最后于 2023 年 3 月 22 日 更新。如果有任何疑问或需要问题解答，请在 [osu! Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ## 益处
 
@@ -203,19 +205,19 @@ tags:
 
 ## 常见问题 (FAQ)
 
-### 如果某个预参赛选手还没有参与锦标赛的任何赛程，他还能加入工作人员团队吗？{#no-play-join-staff}
+### 如果某个预参赛选手还没有参与锦标赛的任何赛程，他还能加入工作人员团队吗？{id=no-play-join-staff}
 
 如果某个玩家已经通过筛查 (Screen)，**并且**，没有安排并参与过任何锦标赛的赛程（包括资格赛），那么这个玩家还不算是正式的参赛选手，可以加入工作人员团队。
 
-### 如果我的锦标赛中有选手被封禁，该怎么办？{#player-restriction}
+### 如果我的锦标赛中有选手被封禁，该怎么办？{id=player-restriction}
 
 通常情况下，选手不会在锦标赛中被封禁。如果发生了，你可能需要重新安排这位选手已经打过的比赛，来保证比赛照常进行。同时，赛事主办应联系账号支持团队，获得有关这些案例（希望这种案例尽量少出现）的信息和指导。
 
-### 为什么定期举办的月赛或周赛不能申请申请主页奖牌（牌子）？{#recurring-contests}
+### 为什么定期举办的月赛或周赛不能申请申请主页奖牌（牌子）？{id=recurring-contests}
 
 如果游戏中的主页奖牌发放得太多，会削弱它们的含金量。我们不希望主页奖牌（牌子）是可以从定期、重复的比赛里简单刷取从而获得的东西。
 
-### 我能给作图比赛或者其他类型的比赛申请主页奖牌（牌子）吗？{#contest-support}
+### 我能给作图比赛或者其他类型的比赛申请主页奖牌（牌子）吗？{id=contest-support}
 
 可以！请参阅[官方作图竞赛支持](/wiki/Contests/Official_support)了解更多。
 
