@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 <!--The imagemap button was added to the toolbar in osu-web#9972. When updating this article, keep in mind translating the new "Help" string on Crowdin and updating the editor.jpg file.-->
 
 # BBCode
