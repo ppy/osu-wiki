@@ -8,13 +8,13 @@ Their responsibilities include:
 - Observing the general tournament scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
 - Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions where necessary
 
-The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu!dev Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
+The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
 ## How can I help contribute?
 
 You can help the tournament committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the tournament reports form.
 
-Those who are interested in joining the tournament committee may express their interest to us by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff.
+Those who are interested in joining the tournament committee may express their interest by sending an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), where requests are forwarded to the committee. Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff.
 
 ## Members
 

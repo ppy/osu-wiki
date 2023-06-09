@@ -114,7 +114,7 @@ The Skinning Contest #3 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
-## Challenge: Chromatic Alteration {#challenge}
+## Challenge: Chromatic Alteration {id=challenge}
 
 **The colour palettes of all skin submissions must be limited to the visible spectrum of the following types of colour vision deficiencies**:
 

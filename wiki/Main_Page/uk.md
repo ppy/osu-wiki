@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # Ком\'юніті
 
-[Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Community/Projects) • [Гайди](/wiki/Guides) • [osu!dev Discord сервер](/wiki/Community/osu!dev_Discord_server) • [Як ви можете допомогти](/wiki/Community/How_you_can_help!) • [Глосарій](/wiki/Sitemap)
+[Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Community/Projects) • [Гайди](/wiki/Guides) • [osu! Discord сервер](/wiki/Community/osu!_Discord_server) • [Як ви можете допомогти](/wiki/Community/How_you_can_help!) • [Глосарій](/wiki/Sitemap)
 
 Організатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

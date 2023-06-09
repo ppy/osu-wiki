@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 no_native_review: true
 tags:
   - devs
@@ -50,7 +52,7 @@ osu! разработчиците могат да бъдат разпознат�
 
 ### Бот профил
 
-- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
 
 ### Сътрудници
 

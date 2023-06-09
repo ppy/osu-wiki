@@ -235,15 +235,15 @@ Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, d
 [^osu-coins-forums]: [Forum-Thread von Terriama (19.10.2015) "April Fools"](https://osu.ppy.sh/community/forums/topics/377157)
 [^osu-coins-changelog]: [Kommentar von peppy im Änderungsprotokoll (01.04.2015) in "Cutting Edge 20150401"](https://osu.ppy.sh/comments/121803)
 
-[^osu-vr-news]: [Newsbeitrag von Evrien (1 April 2016) "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
+[^osu-vr-news]: [Newsbeitrag von Evrien (01.04.2016) "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
 [^osu-vr-reddit]: [Reddit-Beitrag von u/Omgforz in r/osugame (02.08.2016) "McOsu Alpha 20 Public release (custom practice client)"](https://www.reddit.com/r/osugame/comments/4vuksd/mcosu_alpha_20_public_release_custom_practice/)
 [^osu-vr-yt]: [YouTube-Video von Omgforz (02.08.2016) "McOsu Alpha 20 (custom practice client +download)"](https://www.youtube.com/watch?v=PCLpOdcMQuc)
 [^osu-vr-gameskinny]: ["What Even Is McOsu? Because It's Not Osu!" auf GameSkinny](https://www.gameskinny.com/mhaa0/what-even-is-mcosu-because-its-not-osu)
 [^osu-vr-mcosu]: ["McKay42/McOsu" auf GitHub](https://github.com/McKay42/McOsu)
 
-[^osu-auto-yt]: [YouTube-Video von HoLLy (31 March 2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
-[^osu-auto-yt-2]: [YouTube-Video von Hubz (7 January 2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
-[^osu-auto-yt-3]: [YouTube-Video von mightyaleks (31 March 2016) - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g)
+[^osu-auto-yt]: [YouTube-Video von HoLLy (31.03.2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
+[^osu-auto-yt-2]: [YouTube-Video von Hubz (07.01.2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
+[^osu-auto-yt-3]: [YouTube-Video von mightyaleks (31.03.2016) - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g)
 [^osu-auto-reddit]: [Reddit-Beitrag von u/osuisgameforweebs in r/osugame (31.03.2016) "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/)
 
 [^supporter-tag-forums]: [Forum-Thread von -AlieN (31.03.2016) "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)

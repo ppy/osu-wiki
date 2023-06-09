@@ -9,7 +9,7 @@ tags:
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
-Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BNs*). For most purposes, NAT members are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/Beatmap_Nominators/Rules) and [expectations](/wiki/People/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
+Members of the NAT are distinguished by their orange red user title, orange [user group](/wiki/People/User_group) badge that reads `NAT`, and their red in-game username. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BNs*). For most purposes, NAT members are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/Beatmap_Nominators/Rules) and [expectations](/wiki/People/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
 
 **All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
@@ -114,7 +114,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, Structural[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
@@ -142,8 +141,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 ## Notes
 

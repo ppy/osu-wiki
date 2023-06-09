@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - bancho
   - server bot
@@ -12,21 +13,21 @@ tags:
 
 *Para otros usos, véase [Bancho (desambiguación)](/wiki/Disambiguation/Bancho).*
 
-![Tarjeta de jugador de BanchoBot](img/BanchoBot.jpg "Tarjeta de jugador de BanchoBot")
+![Tarjeta de usuario de BanchoBot](img/BanchoBot.jpg "Tarjeta de usuario de BanchoBot")
 
-BanchoBot (algunas veces llamado *Bancho*) es un bot de chat online creado para osu! que ayuda a la gente en el chat mostrando determinada información (por ejemplo, jugadas totales, reintentos, etc.), y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). 
+BanchoBot (algunas veces denominado *Bancho*) es un bot de chat en línea creado para osu! que ayuda a las personas en el chat del juego anunciando mensajes relacionados con el juego (por ejemplo, jugadas totales, reintentos, etc.) y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot también tiene su propio [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat).
 
 ## Comandos
 
-*Para obtener una lista de los comandos del juego, véase: [Consola del chat](/wiki/Client/Interface/Chat_console#lista-de-comandos)*
+*Para obtener una lista de los comandos del cliente del juego, véase: [Consola del chat](/wiki/Client/Interface/Chat_console#lista-de-comandos)*
 
-BanchoBot puede responder a comandos del jugados a través de comandos específicos en el chat. Todos los comandos de BanchoBot comienzan con un signo de exclamación (`!`) seguido del comando que no distingue entre mayúsculas y minúsculas (sin espacio entre ellos). Estos comandos pueden ser usados en canales de chat y a través de mensajes privados con BanchoBot.
+BanchoBot puede responder a los comandos del jugador a través de mensajes escritos específicos en el chat. Todos los comandos de BanchoBot comienzan con un signo de exclamación (`!`) seguido del nombre del comando que no distingue entre mayúsculas y minúsculas (sin espacios entre ellos). Estos comandos se pueden usar en canales de chat y a través de mensajes privados con BanchoBot.
 
-Si un usuario normal envía un comando en un canal de chat público, otros usuarios no lo verán, y la respuesta se mostrará en un mensaje privado con BanchoBot. Los usuarios pueden usar el comando en juego `/bb` para abrir automáticamente una pestaña con BanchoBot y enviar el mensaje inmediatamente.
+Si un usuario normal envía un comando en un canal de chat público, los demás usuarios no lo verán y la respuesta se mostrará en un mensaje privado con BanchoBot. Los usuarios también pueden usar el comando `/bb` en el cliente del juego para abrir automáticamente una pestaña con BanchoBot y enviar el comando de inmediato.
 
-Una lista de todos los comandos de BanchoBot se pueden encontrar abajo:
+A continuación se puede encontrar una lista de todos los comandos de BanchoBot:
 
 - [Help](#help)
 - [Roll](#roll)
@@ -41,7 +42,7 @@ Una lista de todos los comandos de BanchoBot se pueden encontrar abajo:
 !help
 ```
 
-`!help` Muestra una lista de todos los comandos de BanchoBot disponibles. A continuación se muestra un ejemplo de envío de este comando:
+`!help` muestra una lista de todos los comandos de BanchoBot disponibles. A continuación se muestra un ejemplo de envío de este comando:
 
 ```
 13:00 pippi: !help
@@ -62,7 +63,7 @@ Una lista de todos los comandos de BanchoBot se pueden encontrar abajo:
 !roll <argumento>/<número>
 ```
 
-`!roll` escribe un número aleatorio del 1 al número seleccionado. Si no se especifica el número o se proporciona un argumento, el número máximo será 100. A continuación se muestran ejemplos de envío de este comando:
+`!roll` escribe un número aleatorio del 1 al número seleccionado. Si no se especifica el número o se proporciona un argumento, el número máximo se establecerá en 100. A continuación se muestran ejemplos de envío de este comando:
 
 ```
 13:00 pippi: !roll 1000
@@ -80,7 +81,7 @@ Una lista de todos los comandos de BanchoBot se pueden encontrar abajo:
 !stats <usuario>
 ```
 
-`!stats` muestra las estadísticas del juego del usuario ingresado y su estado actual. El resultado dependerá del [modo de juego](/wiki/Game_mode) que jugó por última vez el usuario ingresado, aunque BanchoBot no mostrará de qué modo de juego provienen las estadísticas. Si se le pide que muestre las estadísticas de un usuario que nunca ha jugado osu!, BanchoBot responderá con `User not found`, incluso si el usuario existe. A continuación se muestra un ejemplo de envío de este comando:
+`!stats` muestra las estadísticas del juego del usuario ingresado y su estado actual. El resultado depende del [modo de juego](/wiki/Game_mode) que el usuario que ingresó jugó por última vez, aunque BanchoBot no mostrará de qué modo de juego provienen las estadísticas. Si se le pide que muestre las estadísticas de un usuario que nunca ha jugado osu!, BanchoBot responderá con `User not found`, incluso si el usuario existe. A continuación se muestra un ejemplo de envío de este comando:
 
 ```
 13:01 pippi: !stats peppy
@@ -123,7 +124,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 !faq list
 ```
 
-`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. Por defecto, BanchoBot responderá en Ingles,  pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales). A continuación se muestran ejemplos de envío de este comando:
+`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. De manera predeterminada, BanchoBot responderá en inglés, pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales) de dicho idioma. A continuación se muestran ejemplos de envío de este comando:
 
 ```
 13:03 pippi: !faq peppy
@@ -137,20 +138,20 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 
 ### Report
 
-*Para más información sobre que vale la pena reportar, vea [Reportando mal comportamiento](/wiki/Reporting_bad_behaviour)*
+*Para obtener información sobre lo que vale la pena denunciar, véase [Reportar mala conducta](/wiki/Reporting_bad_behaviour)*
 
 ```
 !report <usuario> <motivo>
 ```
 
-`!report` notifica al [Equipo de Moderación Global](/wiki/People/Global_Moderation_Team) sobre el comportamiento inapropiado de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplácelos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar un moderador, contacte al [equipo de apoyo de cuentas](/wiki/People/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
+`!report` notifica al [Global Moderation Team](/wiki/People/Global_Moderation_Team) sobre la conducta inapropiada de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplácelos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar a un moderador, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
 13:10 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
 
-## Trivia
+## Curiosidades
 
-- La página de usuario de BanchoBot contiene "Aquí desde el comienzo" abajo de su fecha de registro
-  - La fecha oficial de registro de BanchoBot es 22:09:14 UTC-5, 27 de Agosto de 2007
+- La página de usuario de BanchoBot tiene «Aquí desde el comienzo» debajo de su fecha de ingreso
+  - La fecha de incorporación oficial de BanchoBot es el 27 de agosto de 2007 a las 22:09:14 UTC-5
