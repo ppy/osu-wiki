@@ -54,7 +54,7 @@ Es necesario dividir la carga de trabajo del NAT en dos categorías principales 
 
 Dependiendo de su categoría, cada miembro del NAT tiene diferentes requisitos de actividad. Se espera que los miembros responsables de las evaluaciones evalúen constantemente tanto a los solicitantes como a los BN actuales, al mismo tiempo que se mantienen actualizados con la escena de mapping/modding por su cuenta a través del modding. Se espera que los miembros asignados a la categoría estructural mantengan partes clave del proceso de clasificación caso por caso.
 
-Cada mes, los miembros de NAT deben enviar un resumen de su actividad en el [sitio web de BN/NAT](https://bn.mappersguild.com/). Este resumen, junto con otras métricas como la actividad de nominación y evaluación, se usa para determinar si un miembro aún está activo y si debe permanecer en el grupo. Los [líderes de equipo](#nat-leadership) luego discutirán la actividad de cada miembro y decidirá si deben permanecer en el NAT.
+Cada mes, los miembros de NAT deben enviar un resumen de su actividad en el [sitio web de BN/NAT](https://bn.mappersguild.com/). Este resumen, junto con otras métricas como la actividad de nominación y evaluación, se usa para determinar si un miembro aún está activo y si debe permanecer en el grupo. Los [líderes de equipo](#liderazgo-nat) luego discutirán la actividad de cada miembro y decidirá si deben permanecer en el NAT.
 
 Los miembros que se encuentren inactivos serán confrontados por otros miembros del NAT. De no ser factible una resolución oportuna a su inactividad, serán dados de baja del NAT. Los miembros del subgrupo de evaluadores que trabajan en otros proyectos relacionados con el mapping pueden pasar al subgrupo de asesores para reflejar mejor su contribución.
 
@@ -71,23 +71,6 @@ El NAT vigila a los posibles candidatos del NAT durante largos períodos de tiem
 Los miembros del NAT que demuestren competencia en las tareas estructurales descritas anteriormente, hasta el punto en que sus contribuciones actuales o planificadas sean indispensables y superen con creces su necesidad como evaluador, pueden optar por cambiar su categoría designada. Esto es juzgado por los líderes del NAT y manejado caso por caso.
 
 Antes de realizar un cambio de categoría, se verifica la cordura de la adición con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente según lo juzguen los líderes del NAT, entonces serán trasladados nuevamente a la categoría de evaluación.
-
-## Liderazgo del NAT
-
-A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). Los líderes del NAT tienen la responsabilidad combinada de las categorías de evaluación y estructura para que puedan vigilar y mantenerse involucrados en todos los aspectos del NAT.
-
-Los líderes del NAT actuales son ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
-
-### Responsabilidades
-
-Los líderes del NAT tienen como objetivo cubrir las siguientes tareas:
-
-- **Gestión de actividad:** Monitorear constantemente la actividad de otros miembros del NAT y manejar casos de baja actividad, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
-- **Comunicación:**
-  - Actuar como puente entre el osu! team, el NAT y la comunidad de mapping, comunicando constantemente cualquier cambio, inquietud o demanda planteada.
-  - Fomentar la participación en discusiones internas y externas involucrando de manera proactiva a todas las partes, manteniendo las discusiones organizadas y facilitando la combinación de diferentes puntos de vista para formar un curso de acción práctico.
-  - Promover ideas nuevas o existentes que pueden perderse fácilmente en medio de discusiones/propuestas de los criterios de clasificación.
-- **Resolución de problemas:** Tomar la iniciativa para participar en la toma de decisiones críticas y manejar las inquietudes delicadas planteadas por el equipo o la comunidad.
 
 ## Liderazgo NAT
 
