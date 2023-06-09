@@ -1,5 +1,5 @@
 ---
-outdated_translation: false
+outdated_translation: true
 ---
 
 # osu!mania World Cup 2014
