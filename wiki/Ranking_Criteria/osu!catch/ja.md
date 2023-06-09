@@ -1,3 +1,9 @@
+---
+no_native_review: true
+outdated_translation: true
+outdated_since: a704d0375b650c2b6e5ad45a4f30db88719500d4
+---
+
 # osu!catchのランキング基準
 
 Osu!catchのランキング基準は、osu!catch固有の難易度を作成する際に適用されるルールとガイドラインです。
