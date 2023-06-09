@@ -702,7 +702,7 @@ Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el progr
 
 ### Tamaño del archivo
 
-Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % casi siempre está por debajo del límite de tamaño.
+Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % de calidad casi siempre está por debajo del límite de tamaño.
 
 Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, use el siguiente comando para jpeg-archive:
 
@@ -710,7 +710,7 @@ Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive]
 jpeg-recompress -am smallfry <entrada> <salida>
 ```
 
-Alternativamente, [este sitio](https://ezgif.com/) se puede utilizar para convertir y optimizar imágenes.
+Alternativamente, [ezgif.com](https://ezgif.com/) se puede utilizar para convertir y optimizar imágenes.
 
 ### Nombre de archivos
 
