@@ -21,7 +21,7 @@ Enlaces:
 
 ## Marzo
 
-Ha comenzado el concurso mensual de mapeo que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Destacados coexistiría con el Gráfico de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
+Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Destacados coexistiría con el Gráfico de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
 
 Enlaces:
 
@@ -33,7 +33,7 @@ Enlaces:
 
 ## Abril
 
-El Concurso Mensual de Mapeo \#13 concluyó con [RyoKazuka](https://osu.ppy.sh/users/6258586) obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con [ProfessionalBox](https://osu.ppy.sh/users/3250792) ocupando el primer lugar. Se abrió la votación para el concurso de fanart de primavera. Se publicó el número 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fanart de primavera estaban listos, lo que permitió que [Evaine](https://osu.ppy.sh/users/7295733) obtuviera el primer lugar.
+El Monthly Beatmapping Contest \#13 concluyó con [RyoKazuka](https://osu.ppy.sh/users/6258586) obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con [ProfessionalBox](https://osu.ppy.sh/users/3250792) ocupando el primer lugar. Se abrió la votación para el concurso de fanart de primavera. Se publicó el n.º 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fanart de primavera estaban listos, lo que permitió que [Evaine](https://osu.ppy.sh/users/7295733) obtuviera el primer lugar.
 
 Enlaces:
 
@@ -68,7 +68,7 @@ Enlaces:
 
 ## Julio
 
-Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fanart de Mocha en Verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones al Programa de Tutoría Comunitaria Otoño 2017. El último día de julio, el concurso de fanart de Mocha en Verano concluyó con [2Su](https://osu.ppy.sh/users/6598966) obteniendo el primer lugar.
+Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fanart de Mocha en Verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones para el Community Mentorship Program Fall 2017. El último día de julio, el concurso de fanart de Mocha en verano concluyó con [2Su](https://osu.ppy.sh/users/6598966) obteniendo el primer lugar.
 
 Enlaces:
 
@@ -123,7 +123,7 @@ Enlaces:
 
 ## Diciembre
 
-Se publicaron los resultados del concurso de fanart de invierno de 2017, premiando a [Leissss](https://osu.ppy.sh/users/4750716) con la mayor cantidad de votos. La OWC 2017 concluyó con la victoria de Polonia. Gracias a LiquidPL, la vergonzoza página de descarga de la osu!web se rehizo. El día antes de Navidad, se anunció otro puñado de colaboradores de la comunidad. Todos los jugadores recibieron el estado de osu!supporter temporalmente con fines de prueba, lo que casualmente sucedió en Nochebuena. peppy finaliza el año con un video, dando a 2017 una revisión del año con respecto a la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!.
+Se publicaron los resultados del concurso de fanart de invierno de 2017, premiando a [Leissss](https://osu.ppy.sh/users/4750716) con la mayor cantidad de votos. La OWC 2017 concluyó con la victoria de Polonia. Gracias a LiquidPL, la vergonzoza página de descarga de la osu!web se rehizo. El día antes de Navidad, se anunció otro puñado de contribuidores de la comunidad. Todos los jugadores recibieron el estado de osu!supporter temporalmente con fines de prueba, lo que casualmente sucedió en Nochebuena. peppy finaliza el año con un video, dando a 2017 una revisión del año con respecto a la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!.
 
 Enlaces:
 
