@@ -357,7 +357,7 @@ Incluye un vídeo de YouTube en tu publicación.
   - Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
   - `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
-    - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
+    - El ID de vídeo de YouTube se encuentra después del parámetro url `?V=`.
   ```
   [youtube]YT-ID[/youtube]
   ```

@@ -63,7 +63,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 | Mensaje | Explicación | Solución |
 | :-- | :-- | :-- |
-| Your beatmap has no background image. | ¡La actual dificultad no tiene una imagen de fondo! Los videos no cuentan como imagen de fondo porque el usuario puede descargar los beatmaps sin ellos | Encuentra una imagen adecuada y úsala como imagen de fondo. |
+| Your beatmap has no background image. | ¡La actual dificultad no tiene una imagen de fondo! Los vídeos no cuentan como imagen de fondo porque el usuario puede descargar los beatmaps sin ellos | Encuentra una imagen adecuada y úsala como imagen de fondo. |
 | File missing:{0} | Tu beatmap tiene archivos faltantes | Recupera los archivos faltantes o asegúrate de que el beatmap no esté tratando de usar arvhivos no existentes. |
 
 #### Timing
@@ -103,8 +103,8 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Background image is largen than 2560x1440. | La imagen de fondo es más grande que 2560x1440. |  |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | El mapa quizá necesite una advertencia de epilepsia, ya que contiene storyboards apareciendo frecuentemente. |  |
 | {0}'s dimensions must be {1}x{1} | Las dimensiones  de {0} deben ser de {1}x{1} |  |
-| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | Las dimensiones de tu video no deben de excederse de 1024x768 para el formato 4:3. |  |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | Las dimensiones de tu video no deben de excederse de 1280x720 para el formato 16:9. |  |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | Las dimensiones de tu vídeo no deben de excederse de 1024x768 para el formato 4:3. |  |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | Las dimensiones de tu vídeo no deben de excederse de 1280x720 para el formato 16:9. |  |
 
 #### Timing
 
