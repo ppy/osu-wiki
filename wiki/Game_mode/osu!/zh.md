@@ -1,50 +1,26 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
-
-# osu! (game mode)
+# osu! （游戏模式）
 
 *For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
 
 ![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
-The first game mode and namesake which was based from the ouendan series.
+The first game mode, with gameplay [based on the ouendan series](#灵感).
 
-## What is "Ouendan"?
-
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
-
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
-
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
-
-## ![](/wiki/shared/mode/osu.png) Gameplay
+## ![](/wiki/shared/mode/osu.png) 游玩
 
 *Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
-The gameplay puts emphasis on:
-
-- Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
-- Understanding of the song's beat and design.
-- Input device control.
-- Timing of hits on the object that appeared on the screen.
-- Ability to spin the mouse (or pen for tablet) on spinners.
-- Physical stamina and mental fortitude (especially longer, marathon-type songs).
-- Proper positioning and hand-eye coordination.
-
-These are some of the vital skills to become an *osu! rhythm champion*.
-
-The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as *hit objects* from here onwards).
-
-### Song Selection
+### 选歌页面
 
 To access the osu! game mode, press `Ctrl`+`1` at the same time.
 
 Alternatively, click on the `Mode` button and select `osu!`.
 
-### Gameplay Basics
+### 基本游玩知识
 
-#### Playfield
+#### 游玩区域
 
-![osu! interface](/wiki/shared/osu-gameplay.jpg "osu! Interface")
+![osu! playfield](/wiki/shared/osu-gameplay.jpg "osu! playfield")
 
 The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the health bar.
 
@@ -52,39 +28,37 @@ On the right of the health bar is the total score. Below that is the accuracy. T
 
 The number on the bottom left is the combo counter/score multiplier.
 
-#### Hit circles
+#### 打击圈
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
 
-A thin, similarly-coloured approach circle on the outside of the hit circle will shrink over time. Tap on the note at the exact point when it touches the white border of the hit circle. A score burst will appear after tapping the hit circle, showing the score and health changes depending on timing of the tap to the beat. The hit circle will disappear after the score burst.
+Coloured circles with numbers on top of them, called hit circles, will appear on the playfield when playing. A thin, similarly coloured [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. Tap on the hit circles at the exact point when the approach circle touches their white borders, in the order indicated by the numbers.
 
-To understand the hidden charm of hit circles, do not rely on perception only; feel the beatmap's beats and rhythm. It will help in juggling some of the visually-complex hit circles patterns found in later difficulties.
+After hitting a hit circle, a number appears indicating the [judgement](/wiki/Gameplay/Judgement/osu!) received for how accurate the timing of the hit was.
 
-#### Sliders
+#### 滑条
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
 
-First, tap on it at the right moment, however, it does not end there. A ball will begin to move across the path. Hold the mouse/keyboard-button (or keep the pen onto the tablet) and follow the ball within the thick orange circle, surrounding the ball, as it moves. The orange outer circle, called the follow circle, will appear if when holding onto the slider's ball, but will disappear when released.
+First, tap on the circle at the beginning of the slider, called the [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), at the right moment. When tapped, a ball will begin to move across the path. The orange outer circle, called the follow circle, will appear when holding onto the slider's ball, but will disappear when the cursor is outside the circle or the button is released. Hold the mouse/keyboard button (or keep the pen on the tablet) and follow the ball within the follow circle as it moves.
 
 Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa. The visual cue is a reverse arrow at the ending/starting circle of the path.
 
-#### Spinners
+#### 转盘
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
 
-Hold on the mouse/keyboard-button (or keep the pen onto the tablet). From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A *Clear* notice will appear to indicate that the spinner was completed. If the spinner was cleared early, continue spinning to collect score bonus and gain some health back.
+Hold on the mouse/keyboard-button (or keep the pen onto the tablet). From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A *Clear* notice will appear to indicate that the spinner was completed. If the spinner was cleared early, you can continue spinning to collect score bonus and gain some health back.
 
-The outer white circle shows how much time left to complete the spinner. This circle will turn red to notify that time is almost out. Older beatmaps, using *skin version 1.0*, will have a meter/gauge to indicate how close to clearing the spinner.
+The outer white circle shows how much time is left to complete the spinner. This circle will turn red to notify that time is almost out. Older skins, using [skin version](/wiki/Skinning/skin.ini#versions) 1.0, will have a meter/gauge to indicate how close the spinner is to being completed.
 
-The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
+The small box below the spinner shows the current spin speed, measured in spins per minute.
 
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
-
-## Play Styles
+## 玩法
 
 *Refer to [Play Styles page under osu!](/wiki/Gameplay/Play_style).*
 
-## Controls
+## 控制
 
 The default controls for osu! are:
 
@@ -98,7 +72,7 @@ If [Relax](/wiki/Gameplay/Game_modifier/Relax) game modifier was used, only the 
 
 If [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod speed.
 
-## Scoring
+## 得分
 
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
@@ -118,9 +92,17 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 *Refer to [Beatmapping page](/wiki/Beatmapping) for full information.*
 
-## Trivia
+## 杂项
 
-### Gameplay
+### 灵感
+
+The gameplay of osu! is based on *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*, a rhythm game for the Nintendo DS. Like osu!, the gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path, and rotating a spinner very fast. All these elements are timed to covers of popular Japanese songs. It looks like this on the DS:
+
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (cheer squad) comes in. Through the magical power of male cheerleading, the player has to help the people in trouble.
+
+### 游玩
 
 ![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
 
@@ -128,13 +110,14 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 - Depending on difficulty setting and the timing tolerance, tapping on the hit object *way too early* will heavily vibrate the hit object instead.
 - Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgement only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
+- On the *DS*, completing spinners is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be osu!.
 
-### History
+### 历史
 
 - Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
   - [Combo fire](/wiki/Gameplay/Combo_fire) when hitting new combo milestones.

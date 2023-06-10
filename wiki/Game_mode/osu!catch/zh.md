@@ -1,5 +1,3 @@
-<!-- TODO: needs a grammar/style check -->
-
 # osu!catch
 
 ![osu!catch 游玩界面](/wiki/shared/catch-gameplay.jpg "osu!catch 界面")
@@ -14,7 +12,7 @@ To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
 
 Alternatively, click on the `Mode` button and select `osu!catch`.
 
-### 游戏基本知识
+### 基本游玩知识
 
 #### 游玩区域
 
@@ -72,7 +70,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
-## Scoring
+## 得分
 
 [Score in osu!catch](/wiki/Gameplay/Score/ScoreV1/osu!catch) is a weighted sum of multiple components of gameplay. It depends on the following:
 
@@ -82,20 +80,20 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of missed objects.
 
-## Skinning
+## 自定义皮肤
 
 *Refer to [Skinning page of osu!catch](/wiki/Skinning/osu!catch) for full information.*
 
-## Beatmapping
+## 作图
 
-### osu! conversion notes
+### osu! 转谱提示
 
 - Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
 - The appearance is based on the timing set to clear it, as usual.
 - Speed of fruit trail is similar to slider ball speed.
 - Spinner creates a banana rain.
 
-**Note:** Hyperfruits are automatically generated.
+**注意：**红果会自动生成。
 
 ## 杂项
 
