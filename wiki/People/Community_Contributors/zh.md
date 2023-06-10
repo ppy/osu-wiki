@@ -1,15 +1,10 @@
----
-outdated_translation: true
-no_native_review: true
----
-
 # 社区贡献者
 
 ![](/wiki/shared/contributor.jpg "社区贡献者徽章")
 
 **社区贡献者** 是对那些主动向 osu! 社区投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的徽章。这个徽章代表着他们曾为整个社区做出了显著的贡献。
 
-与社区贡献者相比，与 [osu! Alumni](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu! 团队成员，社区贡献者徽章则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
+与社区贡献者相比，与 [osu! 名人堂](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu! 团队成员，社区贡献者徽章则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
 
 ## 2013
 

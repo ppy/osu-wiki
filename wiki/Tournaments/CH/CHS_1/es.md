@@ -460,7 +460,7 @@ Lunes, 17 Agosto 2020:
 | #40 | ::{ flag=ES }:: [Karma](https://osu.ppy.sh/users/7196989), ::{ flag=ES }:: [NotHans](https://osu.ppy.sh/users/9551773) | DQ |
 | #41 | ::{ flag=ES }:: [-AmHappy-](https://osu.ppy.sh/users/13955752), ::{ flag=PE }:: [Othi-Chan](https://osu.ppy.sh/users/10302938) | DQ |
 
-- Sólo los 16 primeros de cada tier pueden formar un equipo de 4 y pasar a la fase eliminatoria
+- Solo los 16 primeros de cada tier pueden formar un equipo de 4 y pasar a la fase eliminatoria
   - El equipo que se forme será escogido por el [seleccionador del equipo](#organización)
 - Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
 - El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
