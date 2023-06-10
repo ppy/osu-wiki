@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # 谱面分类
 
-已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、提名状态和受欢迎程度分为几类。
+已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、[提名](/wiki/Beatmap_ranking_procedure#过审)状态和受欢迎程度分为几类。
 
 ## 现有分类
 
