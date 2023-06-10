@@ -256,7 +256,6 @@ Saturday, 10 June 2023:
 | Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/108937260) | [#1](https://www.twitch.tv/videos/1842925253) |
 | Chile ::{ flag=CL }:: | 5 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108937915) | [#1](https://www.twitch.tv/videos/1842931327) |
 
-
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/164mgjwVFm833GZMniT9SZBe7mkjNBjO1fDuHMhnDCdA/edit?rm=minimal).
