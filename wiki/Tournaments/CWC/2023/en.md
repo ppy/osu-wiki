@@ -106,30 +106,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ## Match schedule: Semifinals
 
-### Saturday, 10 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 10 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T050000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=BE }:: Belgium | [Jun 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T120000&p1=1440&p2=262&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Staff Red | Staff Blue | [Jun 10 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=155&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=188&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 10 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T173000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=DE }:: Germany | [Jun 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T180000&p1=1440&p2=232&p3=37) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
-
 ### Sunday, 11 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PL }:: Poland | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T130000&p1=1440&p2=37&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=232&p3=241) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=263&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T160000&p1=1440&p2=188&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=232&p3=155) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=37&p3=155) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
 
@@ -260,6 +242,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 10 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/108927476) | [#1](https://www.twitch.tv/videos/1842502502) |
+| **Poland** ::{ flag=PL }:: | **7** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/108931649) | [#1](https://www.twitch.tv/videos/1842880205) |
+| Mexico ::{ flag=MX }:: | 0 | **7** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/108935742) | [#1](https://www.twitch.tv/videos/1842881800?t=1h29m47s) |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/108935671) | [#1](https://www.twitch.tv/videos/1842924588) |
+| Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/108937260) | [#1](https://www.twitch.tv/videos/1842925253) |
+| Chile ::{ flag=CL }:: | 5 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108937915) | [#1](https://www.twitch.tv/videos/1842931327) |
+
 
 ### Quarterfinals
 
