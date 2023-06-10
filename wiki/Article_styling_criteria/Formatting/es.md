@@ -1,6 +1,6 @@
 ---
-outdated_since: 15fa00673aafde21c13d34647ce08372fd9691de
 outdated_translation: true
+outdated_since: 151284869cc3b4ce15b04d85ee973290887950df
 ---
 
 # Formato

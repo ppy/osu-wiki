@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b11ad9df558d133bbd17654146fe4e93ba8e8236
----
-
 # 成为 BN
 
 想要加入[谱面审核团队 (BN)](/wiki/People/Beatmap_Nominators) 的玩家需要在[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员的监管下通过 BN 申请程序。
@@ -77,7 +72,7 @@ BN 申请者必须达到以下标准：
 
 这个阶段，所有评估员的评论和投票都会对其他评估员可见。如果不明确如何做出对于申请者的最终决定时，他们将讨论，直到达成共识。
 
-然后，评估员将会根据讨论结果和评论，通过[谱师工会 bot](https://osu.ppy.sh/users/23648635) 给申请者以 osu! 聊天的方式发送反馈意见。随后评估结果将存档供未来使用。如果申请者成功通过，将在反馈结果发送后立即添加为见习 BN。
+然后，评估员将会根据讨论结果和评论，通过[审核评估团队 (NAT) 机器人](https://osu.ppy.sh/users/6616586)给申请者以[公告消息](/wiki/Announcement_messages)的方式发送反馈意见。随后评估结果将存档供未来使用。如果申请者成功通过，将在反馈结果发送后立即添加为见习 BN。
 
 如果申请者的[申请失败](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#申请失败)，NAT 还将确定申请者可再次发出申请之前的[冷却期](#申请失败)。如果申请者的冷却期被缩短，NAT 将会在反馈意见中指出。
 
