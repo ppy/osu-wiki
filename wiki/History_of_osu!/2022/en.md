@@ -80,7 +80,7 @@ osu!(lazer) received an additional feature, making it possible to create mod pre
 
 ## September
 
-[Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305), [Feint](https://osu.ppy.sh/beatmaps/artists/306) joined osu! as Featured Artists.
+[Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305), and [Feint](https://osu.ppy.sh/beatmaps/artists/306) joined osu! as Featured Artists.
 
 Since its 15 years of existence, osu! had grown a lively community with many voluntary contributors. In the wake of this event, an anniversary art contest was organised by the osu! team. The challenge was to create drawings of osu!'s mascots in historic moments. The first, second, and third place went to [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964), and [urgutz](https://osu.ppy.sh/users/11731553) respectively. Among the results, peppy also shared some of his personal favourites.[^15-anniversary-results]
 
