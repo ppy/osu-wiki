@@ -2,7 +2,7 @@
 
 ## Enero
 
-[Ephemeral](https://osu.ppy.sh/users/102335) publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como los nuevos artistas destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) cada uno lanzó un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
+[Ephemeral](https://osu.ppy.sh/users/102335) publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como nuevos artistas destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) lanzaron cada uno un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
 
 Enlaces:
 
