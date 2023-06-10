@@ -29,7 +29,7 @@ tags:
 
 在通过审核并上架之前，谱面通常都需要至少获取 5 个来自不同玩家的[推荐](/wiki/Beatmap/Hype)。
 
-## 提名 {#nominations}
+## 提名 {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-beatmapset1857663.png "谱面的审核流程显示在谱面讨论页上，旁边推荐和提名的进度条还未完全填满。")

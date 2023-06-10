@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # 测定时间轴 (Timing)
 
 **测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Music_theory/Tempo)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
@@ -50,7 +46,7 @@ no_native_review: true
 
 在没有使用节拍器时，混音或演奏的歌曲的时间轴通常会出现曲速差异、随机的节奏变化、音符漂移等情况。这通常是因为艺术家为了表达某些艺术效果刻意为之，或是人为错误导致。当测定这一类歌曲的时间轴时，需要考虑到这一点。然而，这是一项艰巨的任务——除非你有丰富的经验，否则最好不要使用这些歌曲作图。
 
-对于完美契合节拍器的单一或复杂节奏歌曲，如果谱面使用简单的时间轴，仍易于游玩，则可忽略小的时间轴错误（比如某个物件对于它所反映的音符，提前或延后几毫秒出现）。或者，也可以使用 Audacity 等程序直接编辑音频文件，对齐音符来纠正时间轴错误。
+对于完美契合节拍器的单一或复杂节奏歌曲，如果谱面使用简单的时间轴，仍易于游玩，则可忽略小的时间轴错误（比如某个物件对于它所反映的音符，提前或延后几毫秒出现）。或者，也可以使用 [Audacity](https://www.audacityteam.org/) 等程序直接编辑音频文件，对齐音符来纠正时间轴错误。
 
 有些歌曲在没有变奏或者变拍时，也可能需要添加新红线，来细微调整偏移值 (offset)。这通常是由于混音时未能准确对齐音符，或是在某个小节中增删了节拍导致的。
 
@@ -58,7 +54,7 @@ no_native_review: true
 
 ## 社区求助
 
-广泛地说，测定时间轴 (Timing) 需要大量的耐心和良好的乐感，是非常难掌握的作图技巧。因此，在公共聊天频道或者论坛里，向其他谱师或者摸图员寻求帮助的情况很常见。有一条专门用于讨论并解决此问题的论坛讨论帖“[测不准时间轴？在这里求助 (Unable to find the BPM/offset of your map? Post here)](https://osu.ppy.sh/community/forums/topics/13795)”——它记录了 13 年以来的 5000 多条求助与解答。
+广泛地说，测定时间轴 (Timing) 需要大量的耐心和良好的乐感，是非常难掌握的作图技巧。因此，在公共[聊天](/wiki/Client/Interface/Chat_console)频道或者[论坛](/wiki/Community/Forum)里，向其他谱师或者[摸图员](/wiki/Modding)寻求帮助的情况很常见。有一条专门用于讨论并解决此问题的论坛讨论帖“[测不准时间轴？在这里求助 (Unable to find the BPM/offset of your map? Post here)](https://osu.ppy.sh/community/forums/topics/13795)”——它记录了 13 年以来的 5000 多条求助与解答。
 
 [谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 包含一段专用于测量时间轴 (Timing)，并在[谱面上架](/wiki/Beatmap_ranking_procedure)时需要遵守的规定。
 

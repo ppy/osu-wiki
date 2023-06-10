@@ -10,7 +10,7 @@ tags:
 
 # Online rankings history
 
-Early versions of osu! were a mostly isolated experience, with no online leaderboards for anything until [6 October 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), when support for public online rankings was added for [osu!](/wiki/Game_mode/osu!). Since then, all [game modes](/wiki/Game_mode) have recieved their own [online rankings](https://osu.ppy.sh/rankings/osu/performance).
+Early versions of osu! were a mostly isolated experience, with no online leaderboards for anything until [6 October 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), when support for public online rankings was added for [osu!](/wiki/Game_mode/osu!). Since then, all [game modes](/wiki/Game_mode) have received their own [online rankings](https://osu.ppy.sh/rankings/osu/performance).
 
 Numerous players have held rank #1 in each game mode under different ranking systems. The current system used by all game modes for online rankings is [ppv2](/wiki/Performance_points/ppv2).
 

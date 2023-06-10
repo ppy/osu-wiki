@@ -3,6 +3,8 @@ tags:
   - badge
   - badges
   - badged
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 공식적인 토너먼트 지원
@@ -11,7 +13,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2023년 3월 22일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu!dev 디스코드](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내주세요.
+이 문서는 2023년 3월 22일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내주세요.
 
 ## 혜택
 
@@ -199,19 +201,19 @@ User4,Team2,1234567
 
 ## 자주 물어보는 질문
 
-### 아직 경기해본 적이 없는 플레이어가 스태프가 될 수 있나요? {#no-play-join-staff}
+### 아직 경기해본 적이 없는 플레이어가 스태프가 될 수 있나요? {id=no-play-join-staff}
 
 스크리닝에 통과했지만, 경기 일정이 없고 **경기에 참여하지 않은**(퀄리파이어 포함) 플레이어의 경우 토너먼트의 플레이어/참가자로 간주하지 않으므로 스태프로 등록할 수 있습니다.
 
-### 내 토너먼트에서 플레이어가 제한을 받으면 어떻게 해야 하나요? {#player-restriction}
+### 내 토너먼트에서 플레이어가 제한을 받으면 어떻게 해야 하나요? {id=player-restriction}
 
 드문 경우지만 플레이어가 토너먼트 중에 제한받는 경우, 토너먼트의 경쟁 무결성을 위해 플레이어가 관련된 특정 경기를 재경기해야 할 수도 있습니다. 호스트는 계정 지원팀에 연락하여 이런 경우에 대해 정보와 안내를 받아야 합니다.
 
-### 왜 월간(혹은 주간) 정기 대회에 배지를 수여하지 않나요? {#recurring-contests}
+### 왜 월간(혹은 주간) 정기 대회에 배지를 수여하지 않나요? {id=recurring-contests}
 
 프로필 뱃지로 가득 채우면 다른 사람들의 상품에 대한 명성이 희석됩니다. 우리는 프로필 뱃지가 정기적이고 반복되는 토너먼트에서 사람들이 '파밍' 구도가 되는 것을 원하지 않습니다.
 
-### 비트맵 매핑 콘테스트 또는 다른 유형의 대회에 대해 배지를 요청할 수 있나요? {#contest-support}
+### 비트맵 매핑 콘테스트 또는 다른 유형의 대회에 대해 배지를 요청할 수 있나요? {id=contest-support}
 
 네! [공식 콘테스트 지원](/wiki/Contests/Official_support) 을 참고해주세요.
 
