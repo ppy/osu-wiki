@@ -52,7 +52,7 @@ Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enu
 | Alternar marcador | `Tab` |
 | Aumentar la compensación local de la canción | `+` (signo más) |
 | Disminuir la compensación local de la canción | `-` (signo menos) |
-| Reintento rápido (mantener presionado brevemente) | `~` (tilde) |
+| Reintento rápido (mantener presionado brevemente) | `~` (virgulilla) |
 
 **Notas:**
 
@@ -69,30 +69,30 @@ Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enu
 | Guardar captura de pantalla | `F12` |
 | Aumentar volumen | `Flecha arriba` |
 | Disminuir volumen | `Flecha abajo` |
-| Deshabilitar botones del mouse | `F10` |
-| Tecla de jefe | `Insert` |
+| Deshabilitar botones del ratón | `F10` |
+| Tecla jefe | `Insertar` |
 
 **Notas:**
 
-- Explicación de la `Tecla de jefe`: [Tecla de jefe](https://en.wikipedia.org/wiki/Boss_key)
+- Explicación de la `Tecla jefe`: [Tecla jefe](https://en.wikipedia.org/wiki/Boss_key)
   - Cuando se usa, osu! se silenciará y ocultará la ventana en la barra de herramientas.
-  - Para deshabilitar la tecla de jefe, haga clic en el icono de osu! en la barra de tareas y se abrirá el osu!client.
+  - Para deshabilitar la tecla jefe, haga clic en el icono de osu! en la barra de tareas y se abrirá el osu!client.
 
 ## Editor
 
 | Nombre | Por defecto |
 | :-- | :-- |
-| Herramienta de selección | `1` |
-| Herramienta normal | `2` |
-| Herramienta del deslizador | `3` |
-| Herramienta de la ruleta | `4` |
-| Alternar nuevo combo | `Q` |
-| Alternar silbato | `W` |
-| Alternar finalizar | `E` |
-| Alternar aplauso | `R` |
-| Alternar ajuste de la rejilla | `T` |
-| Alternar ajuste de distancia | `Y` |
-| Alternar bloqueo de notas | `L` |
+| Herramienta Selección | `1` |
+| Herramienta Normal | `2` |
+| Herramienta Slider | `3` |
+| Herramienta Spinner | `4` |
+| Alternar Nuevo combo | `Q` |
+| Alternar Silbato | `W` |
+| Alternar Platillos | `E` |
+| Alternar Aplauso | `R` |
+| Alternar Imantado angular | `T` |
+| Alternar Medidor de distancia | `Y` |
+| Alternar Bloqueo de notas | `L` |
 | Empujar a la izquierda | `J` |
 | Empujar a la derecha | `K` |
 | Alternar ayuda | `H` |
@@ -101,9 +101,9 @@ Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enu
 | Pausar sonido | `C` |
 | Saltar al final | `V` |
 | Cambiar el tamaño de la rejilla | `G` |
-| Agregar sección de tiempo | *(Ningún)* |
-| Agregar sección de herencia | *(Ningún)* |
-| Eliminar sección | *(Ningún)* |
+| Agregar sección de tiempo | *(Ninguno)* |
+| Agregar sección de herencia | *(Ninguno)* |
+| Eliminar sección | *(Ninguno)* |
 
 ## Selección de mods
 
