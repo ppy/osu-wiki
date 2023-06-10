@@ -20,7 +20,7 @@ The third osu! community meeting of the year on 6 February was held concerning v
 
 osu!(lazer) received the Aim Assist mod as a new feature which draws hit objects to the cursor, essentially requiring less cursor movement from the player.[^aim-assist] The mod was renamed to Magnetised one month after the initial implementation.[^aim-assist-rename] Furthermore, the Alternate mod was also added, requiring the player to *alternate* between two keys when hitting circles.[^alternate] The osu!mania game mode in osu!(lazer) got a new Hold Off mod where hold notes get converted to two regular notes.[^hold-off]
 
-Following the first iteration in December last year was the skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with [thetasigma](https://osu.ppy.sh/users/6234482), [BPChingu](https://osu.ppy.sh/users/4236855), and [Redo_](https://osu.ppy.sh/users/7122165) getting third, second, and first place respectively.[^tides-of-winter]
+Following the first iteration in December last year was another skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with [thetasigma](https://osu.ppy.sh/users/6234482), [BPChingu](https://osu.ppy.sh/users/4236855), and [Redo_](https://osu.ppy.sh/users/7122165) getting third, second, and first place respectively.[^tides-of-winter]
 
 ## March
 
@@ -66,7 +66,7 @@ Several voluntary contributors were awarded with a Community Contributor badge f
 
 osu!weekly was a newsletter for providing informative articles about all kinds of events in the community.[^osu-weekly] A team of voluntary contributors worked together to publish the [osu!monthly](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1), rekindling osu!weekly after 5 years in a monthly format, while also becoming the namesake of the [first and second editions of osu!monthly](/wiki/Community/osu!monthly#archives) last published 4 years prior on the osu! forums. These showcased development updates from osu!(lazer), community events, scores by top players among other things, as well as offering a community quiz, awarding the quickest user to answer with osu!supporter.[^monthly-quiz]
 
-From 8 July to 10 July, 16 players were invited to compete in [The Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable). Organised and hosted by BTMC in Los Angeles,[^btmc-roundtable] the event was commented on by various content creators. The winner of this tournament was [Utami](https://osu.ppy.sh/users/7512553), with [mrekk](https://osu.ppy.sh/users/7562902) taking the second place.[^roundtable-winners]
+From 8 July to 10 July, 16 players were invited to compete in [The Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable). Organised and hosted by BTMC in Los Angeles, the event was commented on by various content creators. The winner of this tournament was [Utami](https://osu.ppy.sh/users/7512553), with [mrekk](https://osu.ppy.sh/users/7562902) taking the second place.[^roundtable-winners]
 
 The Single Tap mod was implemented for the osu! game mode in osu!(lazer), challenging players to tap with just one key.[^single-tap]
 
@@ -104,7 +104,7 @@ Among other changes, osu!mania now uses accuracy instead of score when calculati
 
 osu! passed 4,294,967,296 scores, meaning that the old database system has reached its limit. Every score is saved with a unique 32-bit unsigned integer which means that the database can not store more than 2^32 scores. The expanded database infrastructure was already planned months prior to this and migrated to with a few weeks to spare.[^score-limit][^osu-death][^score-submission] The last score submitted on the old system was [\*namirin - Kanzen Shouri\*Esper Girl](https://osu.ppy.sh/scores/osu/4294967295) played by [ElDanetex](https://osu.ppy.sh/users/18930084).
 
-Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). Winners of this contest taking the first, second, and third place were [thetasigma](https://osu.ppy.sh/users/6234482), [Corne2Plum3](https://osu.ppy.sh/users/15646039), and [koomo](https://osu.ppy.sh/users/2168518) respectively.[^chromatic-alt-results][^chromatic-alt-wiki]
+Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). [Winners of this contest](/wiki/Contests/Skinning_Contest/3#podium) taking the first, second, and third place were [thetasigma](https://osu.ppy.sh/users/6234482), [Corne2Plum3](https://osu.ppy.sh/users/15646039), and [koomo](https://osu.ppy.sh/users/2168518) respectively.[^chromatic-alt-results]
 
 osu!(lazer) received the Freeze Frame mod which would only show one whole combo at a time, requiring more reading ability from the player.[^freeze-frame]
 
@@ -170,7 +170,6 @@ In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/ne
 
 [^osu-weekly]: [News post by Nyquill (2017-06-07) "osu!weekly #106"](https://osu.ppy.sh/home/news/2017-06-07-osu-weekly-106)
 [^monthly-quiz]: [News post by Soetch, Blushing, Wowcake, 0x84f, and Hubz (2022-08-01) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#monthly-community-quiz)
-[^btmc-roundtable]: [Wiki article "The Roundtable"](/wiki/Tournaments/The_Roundtable)
 [^roundtable-winners]: [News post by Soetch, Blushing, Wowcake, 0x84f, and Hubz (2022-08-01) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#what's-new-in-osu!?)
 [^single-tap]: [Pull request by tsunyoku (2022-07-13) "Add "Single Tap" mod for osu! ruleset, abstract Alternate & Single Tap into InputBlockingMod"](https://github.com/ppy/osu/pull/19089)
 
@@ -190,7 +189,6 @@ In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/ne
 [^osu-death]: ["OSU DEATH!!!!" (2022-09-11) on Wayback Machine](https://web.archive.org/web/20220911154100/https://nyahh.net/osudeath/)
 [^score-submission]: [GitHub document by peppy (2022-02-01) "Score infrastructure migration plan"](https://github.com/ppy/osu-infrastructure/blob/e68ac5395452ea15cca6f5232da9f1117de944bc/score-submission.md#goals--timeline)
 [^chromatic-alt-results]: [News post by RockRoller (2022-10-20) "Skinning Contest: Chromatic Alteration - Results"](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results)
-[^chromatic-alt-wiki]: [Wiki article "Skinning contest #3"](/wiki/Contests/Skinning_Contest/3)
 [^freeze-frame]: [Pull request by mk56-spn (2022-09-16) "Add "Freeze Frame" mod"](https://github.com/ppy/osu/pull/20345)
 [^highest-rank]: [Pull request by cl8n (2022-10-18) "Show highest achieved rank on user profile"](https://github.com/ppy/osu-web/pull/9388)
 [^halloween]: [News post by Ephemeral (2022-10-29) "Halloween 2022 Fanart Contest Results"](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results)
