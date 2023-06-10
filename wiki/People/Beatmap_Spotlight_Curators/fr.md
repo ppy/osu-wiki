@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
     - BSC
     - beatmap spotlight curator
