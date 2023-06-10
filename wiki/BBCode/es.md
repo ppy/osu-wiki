@@ -255,16 +255,16 @@ Botón de la barra de herramientas: ![Botón de imagen](img/image.png "Imagen")
 
 ```
 [imagemap]
-IMAGE_URL
-X Y WIDTH HEIGHT REDIRECT TITLE
+URL_DE_LA_IMAGEN
+X Y ANCHO ALTURA REDIRECTO TÍTULO
 [/imagemap]
 ```
 
 La etiqueta `[imagemap]` se utiliza para integrar uno o más hipervínculos en una imagen en áreas rectangulares.
 
-La imagen, que está incrustada en el sitio web, está representada por el argumento `IMAGE_URL`. Debe referirse directamente a una imagen alojada en un sitio web.
+La imagen, que está incrustada en el sitio web, está representada por el argumento `URL_DE_LA_IMAGEN`. Debe referirse directamente a una imagen alojada en un sitio web.
 
-Para agregar un área en la que se puede hacer clic, se debe insertar una nueva línea que contenga la posición x e y del área, el ancho y el alto del área, así como un enlace para redirigir después del argumento `IMAGE_URL`. Además, se mostrará un argumento `TITLE` opcional al pasar el cursor por el área si se especifica. Un enlace se puede especificar con el argumento `REDIRECT` u omitirse con `#`. Cada unidad de tamaño (`X`, `Y`, `WIDTH` y `HEIGHT`) es un porcentaje (0–100) sin un signo de porcentaje.
+Para agregar un área en la que se puede hacer clic, se debe insertar una nueva línea que contenga la posición x e y del área, el ancho y el alto del área, así como un enlace para redirigir después del argumento `URL_DE_LA_IMAGEN`. Además, se mostrará un argumento `TÍTULO` opcional al pasar el cursor por el área si se especifica. Un enlace se puede especificar con el argumento `REDIRECTO` u omitirse con `#`. Cada unidad de tamaño (`X`, `Y`, `ANCHO` y `ALTURA`) es un porcentaje (0–100) sin un signo de porcentaje.
 
 ### YouTube
 
@@ -343,6 +343,6 @@ La etiqueta *Encabezado (v2)* es una etiqueta desactualizada que alguna vez se u
 ## Curiosidades
 
 - Este artículo de la wiki fue adaptado del hilo del foro [«HOW TO: Forum BBCodes»](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907).
-- Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo "transparent" después del signo igual (`=`).
+- Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo «transparent» después del signo igual (`=`).
   - A partir de ahora, el texto volverá al color predeterminado (blanco) cuando esto suceda.
 - Antes de que se agregara la etiqueta `imagemap`, era posible agregar un hipervínculo a una imagen combinando las etiquetas `url` e `img`; sin embargo, solo se puede establecer un hipervínculo por imagen. Esto requeriría cortar la imagen original en varias piezas (es decir, una imagen parcial para cada enlace) y colocarlas horizontalmente una al lado de la otra.
