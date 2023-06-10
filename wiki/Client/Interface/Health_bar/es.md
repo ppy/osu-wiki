@@ -20,5 +20,3 @@ En [osu!taiko](/wiki/Game_mode/osu!taiko), es imposible fallar un beatmap *duran
 En osu!, osu!catch y osu!taiko, la barra de salud se muestra en la esquina superior izquierda de la pantalla. Mientras que en osu!mania, se gira 90 grados en sentido contrario a las agujas del reloj y se coloca a la derecha del campo de juego.
 
 En osu! y osu!catch, la barra de salud se agotará a un ritmo constante a lo largo del beatmap, con la excepción de los descansos. Este efecto se conoce como [drenaje de salud](/wiki/Gameplay/Health).
-
-<!-- TODO: Add links and stuff -->
