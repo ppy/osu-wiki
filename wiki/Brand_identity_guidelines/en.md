@@ -6,7 +6,7 @@ The brand identity guidelines is a set of standards for branding osu!-related pr
 
 ## osu!
 
-The name of the game, osu!, must not be capitalised. The osu! official branding must not use any spaces:
+The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces:
 
 - Game modes: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Projects: `osu!academy`, `osu!talk`

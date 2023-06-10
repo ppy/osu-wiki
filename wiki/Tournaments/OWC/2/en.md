@@ -117,6 +117,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 *In addition of nine other new maps, the Finals mappool also saw all of the six previously featured Tiebreaker maps from earlier rounds returning as NoMod picks.*
+**[Download the mappack here! (74.2 MB)](https://mega.nz/file/eewGiB7C#8LKEwLtbY6_V4EzcE_m58G8bFnj8FVWcRlanbfm0ke8)**
 
 - NoMod
   1. [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage week 1 Tiebreaker)*
@@ -139,6 +140,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
+**[Download the mappack here! (110.7 MB)](https://mega.nz/file/GCICHAaA#3vymhf1U4iwMILRsdCmxiK-qtuNsCmlR45WOLXmBetc)**
+
 - NoMod
   1. [Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)
   2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
@@ -158,6 +161,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)**
 
 ### Quarterfinals
+
+**[Download the mappack here! (92 MB)](https://mega.nz/file/yP5zHSZA#LbXBbb_nNL4VpnFL4m0pfwP2PmUa2DhA61v7PNRzgXY)**
 
 - NoMod
   1. [Hatsune Miku - Recommended Spell (val0108) \[Spell\]](https://osu.ppy.sh/beatmapsets/28864#osu/96055)
@@ -179,6 +184,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
+**[Download the mappack here! (86.3 MB)](https://mega.nz/file/bCwDXYpI#WQpc-YgckFx-7M8RhvK-MlolzLSbi6YdRvRX688-Wec)**
+
 - NoMod
   1. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
   2. [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
@@ -198,6 +205,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
 
 ### Group stage week 3
+
+**[Download the mappack here! (85.3 MB)](https://mega.nz/file/CWxnjTzC#7M9I7fWYmnssPTuXw8yPIrPI8vB1RnOxi2K4HA3FRGE)**
 
 - NoMod
   1. [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
@@ -219,6 +228,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage week 2
 
+**[Download the mappack here! (106.2 MB)](https://mega.nz/file/qaoHGBgJ#b0T7mJ51Iw0dnmzDWyoHqBslstkc7XWoeM4qNTTw77o)**
+
 - NoMod
   1. [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
   2. [REDALiCE - Selfish (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#osu/105531)
@@ -238,6 +249,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
 ### Group stage week 1
+
+**[Download the mappack here! (115.6 MB)](https://mega.nz/file/ieJkEa5K#By6Zs29VJQ5aYgcShAAzZb_2FG8MYEr0uuC8726BAyQ)**
 
 - NoMod
   1. [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)

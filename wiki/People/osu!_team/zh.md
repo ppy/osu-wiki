@@ -1,7 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
-no_native_review: true
 tags:
   - osu! staff
   - osu!team
@@ -16,7 +13,7 @@ tags:
 
 # 团队
 
-以下列出的玩家是 **osu! 团队** 的核心成员，他们致力于给大家带来更有趣的游戏。
+以下列出的玩家是 **osu! 团队** 的核心成员，他们致力于给大家带来更酷炫的游戏。
 
 | 名称 | 职责 |
 | :-- | :-- |
@@ -42,6 +39,8 @@ tags:
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 秩序维护员、锦标赛援助 |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 内容审核和社区顾问 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种（团队吉祥物） |
+
+除此之外，[账户支持团队](/wiki/People/Account_support_team)还能帮助解决以上所述职责范围之外的问题。
 
 ## 不活跃的核心团队成员
 

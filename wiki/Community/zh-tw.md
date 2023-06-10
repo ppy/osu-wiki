@@ -11,7 +11,7 @@ no_native_review: true
 ## 地點
 
 - [IRC](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu!dev Discord 伺服器](/wiki/Community/osu!dev_Discord_server)
+- [osu! Discord 伺服器](/wiki/Community/osu!_Discord_server)
 - [社群 Discord 伺服器](/wiki/Community/Discord_servers)
 - [線下組織](/wiki/Community/Organisations)
 

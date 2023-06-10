@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4c1bc46ae8d3a5de7318f21a2c9024ee5098c944
+---
+
 # QAT Leader
 
 Tepat sesudah [Loctav](https://osu.ppy.sh/users/71366) keluar dari manajemen osu! pada akhir 2017, [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) memilih **QAT leaders** untuk mengendalikan grup. Keputusan ini dibuat karena anggota QAT merasa Loctav dan [Ephemeral](https://osu.ppy.sh/users/102335) memiliki terlalu banyak kendali atas grup, dan QAT akan lebih baik jika dipimpin oleh anggotanya sendiri.

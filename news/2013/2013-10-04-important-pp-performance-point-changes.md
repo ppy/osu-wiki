@@ -9,7 +9,7 @@ In preparation for a new implementation of the ranking system (known to many as 
 
 If you notice your pp score missing, please make sure to play at least once a month to keep it visible.
 
-This is a move to try and keep the ranking fresh and relevant – players which have long left the game (or are not currently active) add noise which dilutes the huge _active_ portion of the osu! community.
+This is a move to try and keep the ranking fresh and relevant – players which have long left the game (or are not currently active) add noise which dilutes the huge *active* portion of the osu! community.
 
 Note that this change is currently rolling out, and may it may take a day to take see the full effect. Also, if your accuracy is showing 0%, please rank once or wait for a day.
 

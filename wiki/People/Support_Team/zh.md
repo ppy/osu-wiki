@@ -1,31 +1,32 @@
 ---
 tags:
-  - 支持团队
   - 客服
-outdated_translation: true
-outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
 ---
 
-# Support Team
+# 支持团队
 
-用户组 **Support Team** (又称 **Support Team Redux**，为了不和账号的支持团队的概念混淆，我们一般称之为 "Support Team") 是 osu! staff 成员，主要管理以下几个论坛版块：[Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (除了 [Tournaments](https://osu.ppy.sh/community/forums/55) 和 [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), 和 [Help](https://osu.ppy.sh/community/forums/5).
+*对于主管账号的团队，请参见：[账号支持团队](/wiki/People/Account_support_team)*
 
-## 职责
+**支持团队** ，也称为**重组支持团队**，是专注于审核论坛的几个子板块的 osu! 工作人员：[开发](https://osu.ppy.sh/community/forums/2)、[游玩 & 排行](https://osu.ppy.sh/community/forums/13)（不包括[锦标赛](https://osu.ppy.sh/community/forums/55)和[作图技巧](https://osu.ppy.sh/community/forums/61)）、[自定义皮肤](https://osu.ppy.sh/community/forums/15)、[功能请求](https://osu.ppy.sh/community/forums/4)、[帮助](https://osu.ppy.sh/community/forums/5)。
 
-Support Team 主要负责：
+## 角色与职责
 
-1. 测试并且确认漏洞报告，通知开发者以解决问题。
-2. 管理 [Feature Requests](https://osu.ppy.sh/community/forums/4) 和 [Technical Support](https://osu.ppy.sh/community/forums/5) 的帖子，并且用 **Resolved**, **Confirmed**, **Invalid**, **Duplicate** 以及 **Added** 标注。
+支持团队的主要职责是：
 
-如果有人在这些板块中需要帮助，Support Team 成员可以提供第一手帮助。
+1. 测试并确认错误报告，通知开发人员来处理解决问题。
+2. 在[功能请求](https://osu.ppy.sh/community/forums/4)和[帮助](https://osu.ppy.sh/community/forums/5)论坛板块开设讨论串，并将对应的帖子标为*“已解决”、“已确认”、“无效”、“重复”、*和*“已添加”*。
 
-## 成员
+如果有人在上述子论坛上需要任何帮助，那么支持团队成员可以提供帮助。
 
-[支持团队成员页面](https://osu.ppy.sh/groups/22)列出了所有在任团队成员。
+## 团队成员
 
-*小提示：除非特殊说明，所有支持团队成员除了下列语言以外还可以使用英语进行交流。*
+[支持团队列表](https://osu.ppy.sh/groups/22)列出了所有在任的团队成员。
 
-| 名字 | 除英语外其他熟练语言 |
+*注意：除非特殊说明，所有支持团队成员除了下列语言以外还可以使用英语交流。*
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
+| 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |

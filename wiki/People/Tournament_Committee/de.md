@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Turnierkomitee
 
 Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene.
