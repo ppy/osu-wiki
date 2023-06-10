@@ -247,7 +247,7 @@ Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https:
 
 ### ¿Puedo desactivar el "Kiai Time"?
 
-No, porque a diferencia del video, estos son integrados en el juego (como parte de los objetos), por lo tanto no puede ser desactivado.
+No, porque a diferencia del vídeo, estos son integrados en el juego (como parte de los objetos), por lo tanto no puede ser desactivado.
 
 ### ¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
 
