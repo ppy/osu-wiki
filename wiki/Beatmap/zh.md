@@ -57,7 +57,7 @@ https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}
 - [达标 (Approved)](Category#达标-(approved))
 - [社区喜爱 (Loved)](Category#社区喜爱-(loved))
 
-部分分类拥有[上架标准](/wiki/Ranking_Criteria)，并会让谱面拥有临时或永久[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面神格化流程](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (Loved)](Category#社区喜爱-(loved)) 状态。
+部分分类拥有[上架标准](/wiki/Ranking_Criteria)，并会让谱面拥有临时或永久[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面审核流程](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (Loved)](Category#社区喜爱-(loved)) 状态。
 
 ## 下载谱面
 
