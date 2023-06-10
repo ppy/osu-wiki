@@ -113,10 +113,10 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | Modération du tchat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Skinning community moderation |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Modération de la communauté skinning |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Espagnol | Modération du tchat |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Néerlandais, japonais | Skinning community moderation |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Allemand | Skinning community moderation, modération du forum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Néerlandais, japonais | Modération de la communauté skinning |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Allemand | Modération de la communauté skinning, modération du forum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coréen | Modération du tchat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonais | Modération du tchat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Suédois, espagnol | Modération du tchat |
@@ -132,7 +132,8 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Philippin | Modération du tchat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thaï | Modération du tchat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol | Support technique |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Team leadership, modération du tchat, modération de la communauté modding/mapping |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Néerlandais | Modération du tchat |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Direction d'équipe, modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
 
@@ -146,7 +147,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
 | `#english` |  | *Tous les modérateurs* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
