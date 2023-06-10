@@ -546,6 +546,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^losers-bracket]: Winners bracket match
 [^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Showmatch – CWC staff play against each other
 [^stream-pending]: Either channel may broadcast this match, depending on slot availability
 [^winners-bracket]: Losers bracket match
