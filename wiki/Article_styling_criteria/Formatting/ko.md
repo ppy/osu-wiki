@@ -1,8 +1,3 @@
----
-outdated_since: 15fa00673aafde21c13d34647ce08372fd9691de
-outdated_translation: true
----
-
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
@@ -18,18 +13,22 @@ outdated_translation: true
 | `ar.md` | 아랍어 | اَلْعَرَبِيَّةُ |
 | `be.md` | 벨라루스어 | Беларуская мова |
 | `bg.md` | 불가리아어 | Български |
+| `ca.md` | 카탈로니아어 | Català |
 | `cs.md` | 체코어 | Česky |
 | `da.md` | 덴마크어 | Dansk |
 | `de.md` | 독일어 | Deutsch |
 | `el.md` | 그리스어 | Ελληνικά |
 | `es.md` | 스페인어 | Español |
 | `fi.md` | 핀란드어 | Suomi |
+| `fil.md` | 필리핀어 | Wikang Filipino |
 | `fr.md` | 프랑스어 | Français |
+| `he.md` | 히브리어 | עִבְרִית |
 | `hu.md` | 헝가리어 | Magyar |
 | `id.md` | 인도네시아어 | Bahasa Indonesia |
 | `it.md` | 이탈리아어 | Italiano |
 | `ja.md` | 일본어 | 日本語 |
 | `ko.md` | 한국어 | 한국어 |
+| `lt.md` | 리투아니아어 | Lietuvių kalba |
 | `nl.md` | 네덜란드어 | Nederlands |
 | `no.md` | 노르웨이어 | Norsk |
 | `pl.md` | 폴란드어 | Polski |
@@ -38,6 +37,8 @@ outdated_translation: true
 | `ro.md` | 루마니아어 | Română |
 | `ru.md` | 러시아어 | Русский |
 | `sk.md` | 슬로바키아어 | Slovenčina |
+| `sl.md` | 슬로베니아어 | Slovenščina |
+| `sr.md` | 세르비아어 | Српски |
 | `sv.md` | 스웨덴어 | Svenska |
 | `th.md` | 태국어 | ไทย |
 | `tr.md` | 터키어 | Türkçe |
@@ -706,11 +707,11 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 
 모든 이미지는 가능한 한 최적화해야 합니다. JPEG 이미지를 압축하려면 [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive)를 사용하세요. 일관적으로 jpeg-archive에는 다음과 같은 명령어를 사용하세요:
 
-```sh
+```
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-`<input>`에는 압축할 파일 이름, `<output>`에는 압축된 파일 이름을 넣어주세요.
+혹은 [ezgif.com](https://ezgif.com/)에서 이미지 변환 및 최적화가 가능합니다.
 
 ### 파일 이름
 

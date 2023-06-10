@@ -110,25 +110,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 10 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T110000&p1=1440&p2=235&p3=215) | *TBD* | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=BE }:: Belgium | [Jun 10 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T130000&p1=1440&p2=262&p3=48) | *TBD* | [^losers-bracket] |
-| Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 10 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T150000&p1=1440&p2=155&p3=241) | *TBD* | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=DE }:: Germany | [Jun 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T180000&p1=1440&p2=232&p3=37) | *TBD* | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 10 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T050000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=BE }:: Belgium | [Jun 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T120000&p1=1440&p2=262&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Staff Red | Staff Blue | [Jun 10 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=155&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Jun 10 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T160000&p1=1440&p2=188&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 10 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T173000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
+| Chile ::{ flag=CL }:: | ::{ flag=DE }:: Germany | [Jun 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230610T180000&p1=1440&p2=232&p3=37) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
 
 ### Sunday, 11 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Jun 11 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T020000&p1=1440&p2=188&p3=248) | *TBD* | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=PL }:: Poland | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=262) | *TBD* | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=48) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T130000&p1=1440&p2=37&p3=241) | *TBD* | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=232&p3=241) | *TBD* | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=263&p3=145) | *TBD* | [^winners-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=232&p3=155) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=37&p3=155) | *TBD* | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 11 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T190000&p1=1440&p2=188&p3=262) | *TBD* | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T190000&p1=1440&p2=188&p3=48) | *TBD* | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=PL }:: Poland | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T110000&p1=1440&p2=248&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T130000&p1=1440&p2=37&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Chile ::{ flag=CL }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=232&p3=241) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=263&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=BE }:: Belgium | [Jun 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T160000&p1=1440&p2=188&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Chile ::{ flag=CL }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=232&p3=155) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T180000&p1=1440&p2=37&p3=155) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
 
@@ -549,4 +550,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^losers-bracket]: Winners bracket match
 [^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
+[^showmatch]: Showmatch – CWC staff play against each other
+[^stream-pending]: Either channel may broadcast this match, depending on slot availability
 [^winners-bracket]: Losers bracket match
