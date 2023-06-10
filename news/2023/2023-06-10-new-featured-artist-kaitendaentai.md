@@ -10,7 +10,7 @@ Melding together breakcore, noise, progressive rock, and VOCALOID, **kaitendaent
 
 A lot of rhythm game musicians are influenced by other rhythm game musicians. Japanese producer **kaitendaentai**, on the other hand, draws inspiration from all sorts of creators, ranging from insane breakcore artists like [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) and [The Flashbulb](https://osu.ppy.sh/beatmaps/artists/37) to classic rock and metal bands like *TOOL*, *Pink Floyd*, and *Nirvana*.
 
-**8** of these difficult-to-describe tracks are now pre-timed and ready for mapping from [**kaitendaentai**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/363)!
+**8** of these difficult-to-describe tracks are now pre-timed and ready for mapping from [**kaitendaentai**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/364)!
 
 Our osu!taiko community was first to discover **kaitendaentai**'s obscure sound, so watch how drum bashers handle this kind of music, then listen to the rest of what's available:
 
@@ -46,7 +46,7 @@ Or try [this remixed **kaitendaentai** tune](https://osu.ppy.sh/beatmapsets/1701
 
 ---
 
-There's more **kaitendaentai** to go around. Check out [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/363) for the full tracklist, including more insane tracks for your avant-garde mapping escapades.
+There's more **kaitendaentai** to go around. Check out [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/364) for the full tracklist, including more insane tracks for your avant-garde mapping escapades.
 
 In case you missed it last week, we announced some [new **Featured Artist playlists** for osu!(lazer)](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists)! If you're looking to play some cool new maps (or you just want an excuse to try out the latest lazer update), this is for you.
 
