@@ -27,7 +27,7 @@ During mediation, the randomly selected jury of Beatmap Nominators and members o
 
 Any decision made by members of this jury must be accompanied by a reason for making the decision. Should a member be unable to participate, they may be replaced by another randomly selected member if there is enough time to do so. If there is not enough time, their vote will be considered abstained and their position as a Beatmap Nominator may be questioned as a result.
 
-For the standard game mode, this jury consists of 11 members, and for any other, 5 members. This is to account for the amount of Beatmap Nominators for each game mode.
+This jury consists of 20% of the total number of the BN/NAT, with a minimum of 11 members.
 
 ## How to proceed after mediation
 
@@ -37,7 +37,7 @@ Following mediation, the beatmap veto will either be dismissed if the proposed c
 
 **If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap, including the Nominator(s) who initially nominated.
 
-In order to re-initiate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initiate the mediation with a newly randomly selected jury through vetoing again.
+In order to re-initiate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initiate the mediation with a new randomly selected jury through vetoing again.
 
 ### Upheld beatmap vetoes
 
@@ -46,3 +46,16 @@ In order to re-initiate a mediation which resulted in the dismissal of a veto, a
 In order to re-initiate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initiate the mediation with a newly randomly selected jury.
 
 Once changes are made to the beatmap, both the Nominator performing the beatmap veto, as well as the jury members upholding it, will be called to recheck the beatmap and decide individually if the issues have been satisfactorily addressed.
+
+## Challenging a beatmap veto
+
+If a beatmap veto is upheld, the mapper may request another mediation if they meet the following criteria:
+
+- The latest veto mediation has been concluded for at least a year.
+- The beatmap currently has 2 Beatmap Nominators who are willing to nominate it, in case the veto is dismissed later.
+
+To request a new mediation, the mapper must contact a member of the NAT corresponding to the game mode of the vetoed beatmap. Said request should include a link to the initial mediation conclusion post and the names of the 2 BNs who are willing to nominate the beatmap. The NAT will then contact the 2 BNs, and if there are no issues, the NAT will re-initiate the mediation with a new randomly selected jury.
+
+**If the veto is dismissed**, the 2 BNs mentioned above may nominate the beatmap. If said BNs are no longer willing to nominate, their position as Beatmap Nominators may be questioned as a result.
+
+**If the veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present, and the beatmap may not be eligible for another mediation unless the above criteria are fulfilled again.

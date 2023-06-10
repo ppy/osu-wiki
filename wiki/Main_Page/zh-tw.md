@@ -125,7 +125,7 @@ outdated_translation: true
     
 透過其他應用程式或媒體與 osu! 互動，或協助 osu! 進一步發展。
 
-[API](/wiki/osu!api) • [機器人帳號](/wiki/Bot_account) • [品牌辨識度準則](/wiki/Brand_identity_guidelines) • [osu!dev Discord 伺服器](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [機器人帳號](/wiki/Bot_account) • [品牌辨識度準則](/wiki/Brand_identity_guidelines) • [osu! Discord 伺服器](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">

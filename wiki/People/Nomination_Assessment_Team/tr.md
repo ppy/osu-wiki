@@ -48,46 +48,46 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Çince | Evaluator |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Evaluator |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Evaluator |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce | Evaluator |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Evaluator |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Evaluator |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Advisor |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluator |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Evaluator |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Evaluator |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluator |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Evaluator |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Çince | Evaluation, structural |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Evaluation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Evaluation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce | Evaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Evaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Evaluation, structural |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Structural |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Evaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Evaluation |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Evaluation |
 
 ### osu!taiko
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Evaluator |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Evaluator |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Evaluator |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Evaluation |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Evaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Leadership |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portekizce | Evaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
 
 ### osu!catch
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Evaluator |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Evaluator |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Evaluation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Evaluation |
 
 ### osu!mania
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Evaluator |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Evaluator |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Evaluator |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluator |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Evaluation |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca | Evaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Evaluation |

@@ -101,6 +101,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
+**[Download the mappack here! (94 MB)](https://mega.nz/file/SGAR0apA#w09Acjtf9UMISsiYLYpAvGMApmnfROBU0mglaRQgPI8)**
+
 - NoMod (*to be played in order*)
   1. [Minibosses - Castlevania (m980) \[OWC Final\]](https://osu.ppy.sh/beatmapsets/1738985#osu/3562703)
   2. [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
@@ -115,6 +117,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### 3rd Place Playoffs
 
+**[Download the mappack here! (59.9 MB)](https://mega.nz/file/SfJ3gApZ#7tgaCsgbX98w-4_B7jnsLCs92H0QxFz8xrhFh85S8aE)**
+
 - NoMod (*to be played in order*)
   1. [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
   2. [YUI - Sea (VanMoNky) \[Senior\]](https://osu.ppy.sh/beatmapsets/13021#osu/48422)
@@ -127,6 +131,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
+**[Download the mappack here! (30.1 MB)](https://mega.nz/file/CXIUEZLD#-FXpQaCMeIo1T1uRMhzP6U9OgpzlFoBvvxc-5Mn4Th4)**
+
 - NoMod (*to be played in order*)
   1. [COOL&CREATE - Rapid Ensemble (Doomsday93) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13235#osu/49067)
   2. [Suzaku VS Genbu - Himiko (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/12710#osu/47462)
@@ -138,6 +144,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)**
 
 ### Quarterfinals
+
+**[Download the mappack here! (109.9 MB)](https://mega.nz/file/KOoHTYJK#3yAHPvDaGqw1Jigqd-BDftxp-PdxvvpNTcqdWvUQjIM)**
 
 - NoMod
   1. [3L - Extend Ash \~ Hourai Victim (Dangaard) \[Extra\]](https://osu.ppy.sh/beatmapsets/8593#osu/36223)
@@ -160,6 +168,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
+**[Download the mappack here! (86.8 MB)](https://mega.nz/file/aCZxFKiZ#PrIczct88FLaVrOqGiBaJIV_NHzcG4ZJBpe5fVNvXhM)**
+
 - NoMod
   1. [Cranky - Party 4u "Holy Nite Mix" (avira0922) \[Max\]](https://osu.ppy.sh/beatmapsets/7205#osu/31279)
   2. [Croove - Red (Rolled) \[Insane\]](https://osu.ppy.sh/beatmapsets/4132#osu/23863)
@@ -180,6 +190,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)**
 
 ### Round of 32
+
+**[Download the mappack here! (79.5 MB)](https://mega.nz/file/aH4znagQ#MeKLzUiKulXXv4XbLY6JeCiOKz1VEZRFottdt7rbw5o)**
 
 - NoMod
   1. [BeForU - Love Shine (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/1300#osu/11091)

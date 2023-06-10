@@ -1,12 +1,12 @@
-# Théorie de la musique
+# Théorie musicale
 
 *[Le guide original par ziin](https://osu.ppy.sh/community/forums/topics/58959)*
 
-Osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'adapter à la musique plutôt qu'au BPM. Dans cette courte rédaction je discuterais de la théorie de la musique et comment elle s'applique à une beatmap osu!, ainsi que d'expliquer pourquoi certaines choses sonnent mal (du moins pour moi). En aucun cas, les sujets abordés ne peuvent être considérés comme des «lignes directrices». Pensez que c'est une théorie à la place.  La plupart du temps, ils s'appliquent à certaines parties des musiques, mais il existe de nombreuses exceptions. Tout ce que je dirais ici est une opinion personnelle basée sur mes 12 ans d'expérience dans un orchestre harmonique ou pris directement de Wikipedia. On ne peut pas l’appliquer à toutes les formes de musique, en particulier celles d’avant-garde et la plupart des musiques de Touhou (donc, la moitié des musiques d'osu ?).
+osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'adapter à la musique plutôt qu'au BPM. Dans cette courte rédaction, je discuterai de la théorie musicale et comment elle s'applique à une beatmap osu!, ainsi que d'expliquer pourquoi certaines choses sonnent mal (du moins pour moi). En aucun cas, les sujets abordés ne peuvent être considérés comme des «lignes directrices». Pensez que c'est une théorie à la place. La plupart du temps, ils s'appliquent à certaines parties des musiques, mais il existe de nombreuses exceptions. Tout ce que je dirais ici est une opinion personnelle basée sur mes 12 ans d'expérience dans un orchestre harmonique ou pris directement de Wikipédia. On ne peut pas l’appliquer à toutes les formes de musique, en particulier celles d’avant-garde et la plupart des musiques de Touhou (donc, la moitié des musiques d'osu! ?).
 
 ## Partie 1: Explication des temps et certaines techniques courantes
 
-![Théorie de la musique](img/MusicTheory1.png "Théorie de la musique")
+![Théorie musicale](img/MusicTheory1.png "Théorie musicale")
 
 ### Temps forts
 

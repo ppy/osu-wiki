@@ -1,6 +1,8 @@
 ---
 stub: true
 no_native_review: true
+outdated_since: 368e1cdf11ae25bdc7ecca32caf8ad325480b536
+outdated_translation: true
 ---
 
 # Tema

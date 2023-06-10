@@ -1,6 +1,6 @@
 # Tim osu!monthly
 
-**Tim osu!monthly** merupakan kelompok yang mengelola dan menulis artikel berita pada buletin [osu!monthly](/wiki/Community/osu!monthly).
+**Tim osu!monthly** merupakan kelompok yang mengelola buletin [osu!monthly](/wiki/Community/osu!monthly).
 
 Tim ini terdiri dari para pemain yang aktif di berbagai bidang. Setiap bulannya, tim ini bertugas untuk menyelidiki hal-hal apa saja yang sedang terjadi di sekitar komunitas dan menulis konten yang akan diterbitkan pada [osu!monthly](/wiki/Community/osu!monthly). 
 
@@ -21,11 +21,11 @@ Nama-nama di bawah ini merupakan para anggota tim inti osu!monthly yang bertangg
 | ::{ flag=FR }:: [Pisapou](https://osu.ppy.sh/users/16640021) | Wakil pengelola |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Penulis[^task-mania] |
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Desainer grafis[^task-Tanza3D] |
-| ::{ flag=ID }:: [Wowcake](https://osu.ppy.sh/users/16121851) | Pembantu |
+| ::{ flag=ID }:: [Wowcake](https://osu.ppy.sh/users/16121851) | Pembantu umum |
 
 ### Kontributor lainnya
 
-Nama-nama di bawah ini merupakan nama-naman= yang tidak tergabung ke dalam tim inti osu!monthly, namun tetap berperan penting dalam penerbitan osu!monthly setiap bulannya. Walaupun mereka tidak menulis artikel yang ada, mereka menyediakan berbagai informasi penting kepada para kontributor utama dari waktu ke waktu.
+Nama-nama di bawah ini merupakan mereka yang tidak tergabung ke dalam tim inti di atas, namun tetap berperan penting dalam penerbitan osu!monthly. Walaupun mereka tidak menulis artikel, mereka menyediakan berbagai informasi penting kepada para kontributor utama setiap bulannya.
 
 | Nama | Rubrik yang dicakup |
 | :-- | :-- |

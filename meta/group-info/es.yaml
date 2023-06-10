@@ -21,9 +21,12 @@ gmt:
     tournaments: gestión de torneos
     wiki: administración de la wiki
     mapping: moderación de la comunidad de mapping/modding
+    skinning: moderación de la comunidad de skinning
+    leadership: liderazgo de equipo
 nat:
   subgroups:
-    advisor: asesor
-    evaluator: evaluador
+    structural: estructural
+    evaluation: evaluación
+    leadership: liderazgo
 languages:
   partial: algo de <language>

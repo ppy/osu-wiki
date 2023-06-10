@@ -1,7 +1,12 @@
+---
+outdated_translation: true
+outdated_since: 70eb12264cba8353999807d6ce370f7ab1359075
+---
+
 # Panduan
 
 Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas pada forum osu! yang kemudian dipindahkan ke laman wiki.
-                                                                
+
 ## Beatmapping
 
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*

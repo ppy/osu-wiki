@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 7a4a1c34e5696e7c170bf1399c6b1921bb3272ee
 ---
 
 <div class="wiki-main-page__blurb">
@@ -98,10 +96,11 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
-讨论区: [论坛](/wiki/Community/Forum) • [闲聊](/wiki/Community/Internet_Relay_Chat)
+讨论区: [论坛](/wiki/Community/Forum) • [IRC 闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
+  
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/People/Featured_Artists) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -112,9 +111,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
 
-[核心团队](/wiki/People/osu!_team)：[开发团队](/wiki/People/Developers) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [援助团队](/wiki/People/Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [援助团队](/wiki/People/Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
+[社区贡献者](/wiki/People/Community_Contributors) • [用户组](/wiki/People/User_group) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -123,7 +122,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 通过其他应用与 osu! 交互。
 
-[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -132,7 +131,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
-[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
+[osu! 的历史](/wiki/History_of_osu!) • [在线排名历史](/wiki/History_of_osu!/Online_rankings) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
 [网站导航](/wiki/Sitemap) • [wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_styling_criteria)
 
