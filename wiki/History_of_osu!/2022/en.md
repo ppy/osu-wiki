@@ -20,7 +20,7 @@ The third osu! community meeting of the year on 6 February was held concerning v
 
 osu!(lazer) received the Aim Assist mod as a new feature which draws hit objects to the cursor, essentially requiring less cursor movement from the player.[^aim-assist] The mod was renamed to Magnetised one month after the initial implementation.[^aim-assist-rename] Furthermore, the Alternate mod was also added, requiring the player to *alternate* between two keys when hitting circles.[^alternate] The osu!mania game mode in osu!(lazer) got a new Hold Off mod where hold notes get converted to two regular notes.[^hold-off]
 
-Following the first iteration in December last year was another skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with [thetasigma](https://osu.ppy.sh/users/6234482), [BPChingu](https://osu.ppy.sh/users/4236855), and [Redo_](https://osu.ppy.sh/users/7122165) getting third, second, and first place respectively.[^tides-of-winter]
+Following the first iteration in May last year, there was another skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with [thetasigma](https://osu.ppy.sh/users/6234482), [BPChingu](https://osu.ppy.sh/users/4236855), and [Redo_](https://osu.ppy.sh/users/7122165) getting third, second, and first place respectively.[^tides-of-winter]
 
 ## March
 
@@ -76,7 +76,7 @@ This month, osu! was able to get a hold of [Hamu](https://osu.ppy.sh/beatmaps/ar
 
 At 2022's [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), one of the largest osu! conventions, peppy hosted a technical presentation together with [ThePoon](https://osu.ppy.sh/users/718454) on what the infrastructure of osu! looks like behind the scenes. They went over topics such as server cost, database storage, and how containerisation software like Docker and Kubernetes are used to implement infrastructure as code.[^coe-osu-infra]
 
-osu!(lazer) received an additional feature, making it possible to create mod presets that save mod settings and their settings from the mod select screen.[^presets]
+osu!(lazer) received an additional feature, making it possible to create mod presets from the mod select screen that save mod combinations and their settings.[^presets]
 
 ## September
 
@@ -104,7 +104,7 @@ Among other changes, osu!mania now uses accuracy instead of score when calculati
 
 osu! passed 4,294,967,296 scores, meaning that the old database system has reached its limit. Every score is saved with a unique 32-bit unsigned integer which means that the database can not store more than 2^32 scores. The expanded database infrastructure was already planned months prior to this and migrated to with a few weeks to spare.[^score-limit][^osu-death][^score-submission] The last score submitted on the old system was [\*namirin - Kanzen Shouri\*Esper Girl](https://osu.ppy.sh/scores/osu/4294967295) played by [ElDanetex](https://osu.ppy.sh/users/18930084).
 
-Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). [Winners of this contest](/wiki/Contests/Skinning_Contest/3#podium) taking the first, second, and third place were [thetasigma](https://osu.ppy.sh/users/6234482), [Corne2Plum3](https://osu.ppy.sh/users/15646039), and [koomo](https://osu.ppy.sh/users/2168518) respectively.[^chromatic-alt-results]
+Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had to be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). [Winners of this contest](/wiki/Contests/Skinning_Contest/3#podium) taking the first, second, and third place were [thetasigma](https://osu.ppy.sh/users/6234482), [Corne2Plum3](https://osu.ppy.sh/users/15646039), and [koomo](https://osu.ppy.sh/users/2168518) respectively.[^chromatic-alt-results]
 
 osu!(lazer) received the Freeze Frame mod which would only show one whole combo at a time, requiring more reading ability from the player.[^freeze-frame]
 
