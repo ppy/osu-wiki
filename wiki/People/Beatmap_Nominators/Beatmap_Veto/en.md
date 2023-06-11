@@ -27,7 +27,7 @@ During mediation, the randomly selected jury of Beatmap Nominators and members o
 
 Any decision made by members of this jury must be accompanied by a reason for making the decision. Should a member be unable to participate, they may be replaced by another randomly selected member if there is enough time to do so. If there is not enough time, their vote will be considered abstained and their position as a Beatmap Nominator may be questioned as a result.
 
-For the standard game mode, this jury consists of 11 members, and for any other, 5 members. This is to account for the amount of Beatmap Nominators for each game mode.
+This jury consists of 20% of the total number of the BN/NAT, with a minimum of 11 members.
 
 ## How to proceed after mediation
 

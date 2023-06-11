@@ -177,7 +177,7 @@ This section will show the [game mods](/wiki/Gameplay/Game_modifier) used for th
 
 The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
-#### Team mode {#team-mode-match-setup}
+#### Team mode {id=team-mode-match-setup}
 
 *For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
 
@@ -274,6 +274,8 @@ For `Head-to-head` and `Team VS` matches:
 
 For `Tag co-op` and `Tag-team VS`:
 
+| Win condition | Statistics displayed |
+| :-- | :-- |
 | `Score` / `Score v2` | Team score, individual score, judgements |
 | `Accuracy` | Team average accuracy, individual score, judgements |
 | `Combo` | Current combo count, individual score, judgements |
@@ -295,7 +297,7 @@ The colour of each player on the leaderboard while playing indicates the status 
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
 
-### Team mode {#team-mode-gameplay}
+### Team mode {id=team-mode-gameplay}
 
 #### Head-to-head
 
@@ -333,7 +335,7 @@ Blue is on the left and Red is on the right. A crown at the centre moves left an
 
 Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
 
-##### Results {#team-vs-results-screen}
+##### Results {id=team-vs-results-screen}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Team VS results screen")
