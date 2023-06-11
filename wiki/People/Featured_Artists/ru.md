@@ -2,6 +2,8 @@
 tags:
   - FA
   - фа
+outdated_translation: true
+outdated_since: a7eddce3dec337cee2c62d5a14a0370b827d36cb
 ---
 
 # Featured Artists

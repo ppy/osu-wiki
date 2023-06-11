@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6c82f44e565fa781d94e635276839381c735ee67
+---
+
 # osu! (игровой режим)
 
 *У этого термина существуют и другие значения, см. [osu! (значения)](/wiki/Disambiguation/osu!).*

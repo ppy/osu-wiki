@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: d05af022f7fbdcb7eb5b24cc0abc39f0b81d5642
 tags:
   - captain
   - captains

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Tournament Committee
 
 **Tournament Committee** merupakan sebuah panel yang beranggotakan pengguna-pengguna yang telah banyak menyelenggarakan atau berkiprah di dalam ranah turnamen.

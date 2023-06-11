@@ -10,7 +10,7 @@ Las directrices de identidad de marca son un conjunto de estándares para la mar
 
 ## osu!
 
-El nombre del juego, osu!, no debe escribirse con mayúscula. La marca oficial de osu! no debe utilizar ningún espacio:
+El nombre del juego, osu!, no debe escribirse con mayúscula ni en cursiva. La marca oficial de osu! no debe utilizar ningún espacio:
 
 - Modos de juego: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Proyectos: `osu!academy`, `osu!talk`
