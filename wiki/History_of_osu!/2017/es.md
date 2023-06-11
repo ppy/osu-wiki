@@ -113,7 +113,7 @@ Enlaces:
 
 ## Noviembre
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro artista destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server) se abrió para permitir una discusión abierta. Se abrió el Winter 2017 Fanart Contest.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro artista destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) se abrió para permitir una discusión abierta. Se abrió el Winter 2017 Fanart Contest.
 
 Enlaces:
 
