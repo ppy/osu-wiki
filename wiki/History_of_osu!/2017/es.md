@@ -21,7 +21,7 @@ Enlaces:
 
 ## Marzo
 
-Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Destacados coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fan art con temática de primavera.
+Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Destacados coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
 
 Enlaces:
 
@@ -33,7 +33,7 @@ Enlaces:
 
 ## Abril
 
-El Monthly Beatmapping Contest \#13 concluyó con [RyoKazuka](https://osu.ppy.sh/users/6258586) obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con [ProfessionalBox](https://osu.ppy.sh/users/3250792) ocupando el primer lugar. Se abrió la votación para el concurso de fan art de primavera. Se publicó la edición n.º 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fan art de primavera estaban listos, lo que permitió que [Evaine](https://osu.ppy.sh/users/7295733) obtuviera el primer lugar.
+El Monthly Beatmapping Contest \#13 concluyó con [RyoKazuka](https://osu.ppy.sh/users/6258586) obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con [ProfessionalBox](https://osu.ppy.sh/users/3250792) ocupando el primer lugar. Se abrió la votación para el concurso de fanart de primavera. Se publicó la edición n.º 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fanart de primavera estaban listos, lo que permitió que [Evaine](https://osu.ppy.sh/users/7295733) obtuviera el primer lugar.
 
 Enlaces:
 
@@ -57,7 +57,7 @@ Enlaces:
 
 ## Junio
 
-El osu! team participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, las imágenes del menú principal/campo de juego se cambiaron a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server), se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fan art de Mocha en verano.
+El osu! team participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, las imágenes del menú principal/campo de juego se cambiaron a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server), se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fanart de Mocha en verano.
 
 Enlaces:
 
@@ -68,7 +68,7 @@ Enlaces:
 
 ## Julio
 
-Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fan art de Mocha en verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones para el Community Mentorship Program Fall 2017. El último día de julio, el concurso de fan art de Mocha en verano concluyó con [2Su](https://osu.ppy.sh/users/6598966) obteniendo el primer lugar.
+Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fanart de Mocha en verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones para el Community Mentorship Program Fall 2017. El último día de julio, el concurso de fanart de Mocha en verano concluyó con [2Su](https://osu.ppy.sh/users/6598966) obteniendo el primer lugar.
 
 Enlaces:
 
@@ -79,7 +79,7 @@ Enlaces:
 
 ## Agosto
 
-[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) y [OISHII](https://osu.ppy.sh/beatmaps/artists/17) fueron anunciados como nuevos artistas destacados. Se abren las audiciones para osu!idol 2017. La osu! Coffee Hour se presentó como un pódcast. Se abrió una revisión para el nuevo aspecto de [Yuzu](/wiki/Mascots#yuzu) como un concurso de fan art.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) y [OISHII](https://osu.ppy.sh/beatmaps/artists/17) fueron anunciados como nuevos artistas destacados. Se abren las audiciones para osu!idol 2017. La osu! Coffee Hour se presentó como un pódcast. Se abrió una revisión para el nuevo aspecto de [Yuzu](/wiki/Mascots#yuzu) como un concurso de fanart.
 
 Enlaces:
 
