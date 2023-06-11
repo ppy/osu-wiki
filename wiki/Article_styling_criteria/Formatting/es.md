@@ -867,7 +867,7 @@ Las notas al pie se pueden utilizar para almacenar explicaciones o comentarios t
 Ejemplo:
 
 ```markdown
-Un torneo no debe ser organizado y dirigido por un equipo inexperto de personal incompetente e irreputable.[^staff]
+Un torneo no debe ser organizado y dirigido por un equipo inexperto de personal incompetente y sin reputación.[^staff]
 
 ## Notas
 
