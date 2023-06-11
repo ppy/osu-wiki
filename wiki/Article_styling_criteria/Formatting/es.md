@@ -261,7 +261,7 @@ Las notas de navegación *Para otros usos* son similares a las notas de navegaci
 
 *No debe confundirse con [Notas de navegación](#notas-de-navegación).*
 
-Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
+Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de las [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
 
 ```markdown
 *Nota: {nota}.*
@@ -284,7 +284,7 @@ Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. 
 
 ```markdown
 *Advertencia: {advertencia}.*\
-*Véase también: {artéculo}*
+*Véase también: {artículo}*
 ```
 
 En muchos casos, puede ser más adecuado incrustar notas de navegación o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
@@ -399,7 +399,7 @@ El siguiente ejemplo se hizo correctamente:
 
 ### Con viñetas
 
-Las listas con viñetas deben usar un guión (`-`). Estos deben ir seguidos de un espacio. (Ejemplo que se muestra a continuación)
+Las listas con viñetas deben usar un guion (`-`). Estos deben ir seguidos de un espacio. (Ejemplo que se muestra a continuación)
 
 ```markdown
 - osu!
@@ -604,14 +604,14 @@ Todos los nombres de usuario deben estar vinculados en la primera aparición. Ot
 
 Al vincular a un perfil de usuario, se debe utilizar el número de identificación del usuario. Use el nuevo sitio web (`https://osu.ppy.sh/users/{username}`) para obtener el ID del usuario.
 
-El texto del enlace del enlace del usuario debe ser el nombre actual del usuario.
+El texto del enlace de usuario debe ser el nombre actual del usuario.
 
 ##### Dificultades
 
 Siempre que enlace a una sola dificultad, use este formato como texto del enlace:
 
 ```
-{artista} - {titulo} ({creador}) [{nombre_de_la_dificultad}]
+{artista} - {título} ({creador}) [{nombre_de_la_dificultad}]
 ```
 
 El enlace debe vincular realmente a esa dificultad. Las URL de la dificultad del beatmap deben tener el siguiente formato:
@@ -627,7 +627,7 @@ El nombre de la dificultad se puede dejar fuera del texto del enlace, pero hacer
 Siempre que enlace a un beatmap, utilice este formato como texto del enlace:
 
 ```
-{artista} - {titulo} ({creador})
+{artista} - {título} ({creador})
 ```
 
 Todas las URL de beatmap deben tener el formato siguiente:
@@ -674,7 +674,7 @@ Todas las imágenes de bloque en la página (que no tienen nada más en la misma
 
 El texto en el primer par de corchetes (*texto alternativo*) debe describir la imagen literalmente. Lo utilizan los lectores de pantalla o cuando la imagen no se carga. Se puede omitir si es idéntico al texto del título o si la imagen se incluye solo con fines decorativos.
 
-El texto entre comillas (*texto del título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como información sobre herramientas al pasar el mouse sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
+El texto entre comillas (*texto del título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como información sobre herramientas al pasar el ratón sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
 
 ### Visualización
 
@@ -732,9 +732,9 @@ Se debe evitar anotar las imágenes, ya que es difícil para los traductores (y 
 
 #### Traducir imágenes anotadas
 
-Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
+Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guion, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
 
-- `hardrock-mod-vs-easy-mod.jpg` para ingles
+- `hardrock-mod-vs-easy-mod.jpg` para inglés
 - `hardrock-mod-vs-easy-mod-DE.jpg` para alemán
 - `hardrock-mod-vs-easy-mod-ZH-TW.jpg` para chino tradicional
 
@@ -760,7 +760,7 @@ Debe establecer estas configuraciones antes de tomar una captura de pantalla del
 
 *Aviso para los traductores: Si está traduciendo un artículo que contiene capturas de pantalla del juego, puede configurar el idioma del cliente del juego al idioma en el que está traduciendo.*
 
-### Enlaces de imagenes
+### Enlaces de imágenes
 
 Las imágenes no deben formar parte del texto de un enlace.
 
