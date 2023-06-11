@@ -104,16 +104,55 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Sunday, 11 June 2023
+### Saturday, 17 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Jun 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T130000&p1=1440&p2=37&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | [Jun 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230611T150000&p1=1440&p2=263&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T110000&p1=1440&p2=145&p3=262) | *TBD* | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jun 17 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T150000&p1=1440&p2=215&p3=37) | *TBD* | [^losers-bracket] |
+
+### Sunday, 18 June 2023
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=215&p3=145) | *TBD* | [^potential-match] |
+| Italy ::{ flag=IT }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=215&p3=262) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=145) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=262) | *TBD* | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | *TBD* | [^winners-bracket] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (178 MB)](https://drive.google.com/uc?id=1M5tACgrL9Lc9VZv0q0COMysN6NIs6Wbd)**
+
+- No Mod
+  1. [Minstrel - Heian Alien (-Ken) \[Mysterious Collab\]](https://osu.ppy.sh/beatmapsets/2007941#fruits/4176765)
+  2. [Aoi a.k.a. ALFOU - Fluctuate (2020 Remaster) (Greaper) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2007951#fruits/4176786)
+  3. [Ocular & Dictate - Temple (Deif) \[Architek\]](https://osu.ppy.sh/beatmapsets/2007947#fruits/4176778)
+  4. [DUSTCELL - STIGMA (rollpan) \[RE:BORN\]](https://osu.ppy.sh/beatmapsets/1075658#osu/2250760)
+- Hidden
+  1. [Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines (Rocma) \[Alcoholic Turbine (HV)\]](https://osu.ppy.sh/beatmapsets/2007949#fruits/4176784)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff\]](https://osu.ppy.sh/beatmapsets/2007950#fruits/4176785)
+  3. [seatrus - ILLEGAL LEGACY (Deif) \[SAN\]](https://osu.ppy.sh/beatmapsets/2007954#fruits/4176793)
+- Hard Rock
+  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2007952#fruits/4176787)
+  2. [Sobrem x Silentroom - Random (autofanboy) \[Yoshi x AFB's F2\]](https://osu.ppy.sh/beatmapsets/2007958#fruits/4176797)
+  3. [LeaF - Ka (Natsuko) \[???????\u005F\u0030\u00D7????????\]](https://osu.ppy.sh/beatmapsets/2007973#fruits/4176821)
+- Double Time
+  1. [Mitsukiyo feat. Kano - Memories of Kindness (Sololiquy) \[Where All Miracles Begin\]](https://osu.ppy.sh/beatmapsets/1954433#fruits/4176811)
+  2. [SoundTemp - Bonjour Tristesse (ExGon) \[CWC2023 Finals DT2\] *(temporary link)*](https://leoflt.com/s/acAa)
+  3. [FujuniseikouyuuP - FREEDMAN (Yoshi\_green) \[SPEEDMAN\]](https://osu.ppy.sh/beatmapsets/2007964#fruits/4176805)
+  4. [Monster Siren - MSR / DJ Okawari / Stephanie - Your Star (Yumeno Himiko) \[My Memories\]](https://osu.ppy.sh/beatmapsets/2007966#fruits/4176813)
+- Mixed Mod
+  1. [Camellia - GHOUL (Du5t) \[Resurgence\]](https://osu.ppy.sh/beatmapsets/2007971#fruits/4176819)
+  2. [Susumu Hirasawa - Yume no Shima Shinen Kouen (Cut Ver.) (Mniam) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2007970#fruits/4176818)
+  3. [sasakure.UK x TJ.hangneil - World Ender (-Ken) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/2007969#fruits/4176817)
+- Tiebreaker
+  1. **[xi - World Fragments III (Jemzuu) \[Jemzuu & Dika's Finale of Converging Realms\]](https://osu.ppy.sh/beatmapsets/2007938#fruits/4176760)**
 
 ### Semifinals
 
@@ -245,6 +284,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ### Semifinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ytiXLhV_vNzUKsPfFO6XUp8Qw48owP5MYhSNYZMjThU/edit?rm=minimal).
+
 Saturday, 10 June 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
@@ -255,6 +296,13 @@ Saturday, 10 June 2023:
 | **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/108935671) | [#1](https://www.twitch.tv/videos/1842924588) |
 | Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/108937260) | [#1](https://www.twitch.tv/videos/1842925253) |
 | Chile ::{ flag=CL }:: | 5 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108937915) | [#1](https://www.twitch.tv/videos/1842931327) |
+
+Sunday, 11 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Germany** ::{ flag=DE }:: | **7** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108951467) | [#1](https://www.twitch.tv/videos/1843627827) |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/108953604) | [#1](https://www.twitch.tv/videos/1843641489) |
 
 ### Quarterfinals
 
@@ -543,5 +591,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
-[^winners-bracket]: Losers bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^winners-bracket]: Winners bracket match
