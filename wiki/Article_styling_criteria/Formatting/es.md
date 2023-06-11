@@ -57,7 +57,7 @@ El formato de serialización debe colocarse en la parte superior del archivo. Es
 
 *Nota: Evite traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
 
-La etiqueta `needs_cleanup` puede ser agregada a los articulos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
+La etiqueta `needs_cleanup` puede ser agregada a los artículos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
 
 ```yaml
 needs_cleanup: true
