@@ -57,7 +57,7 @@ Enlaces:
 
 ## Junio
 
-El osu! team participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, las imágenes del menú principal/campo de juego se cambiaron a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del [servidor de Discord de osu!](/wiki/Community/osu!_Discord_server), se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fanart de Mocha en verano.
+El osu! team participa en la Anime Expo por los próximos 10 años de osu!. El 15 de junio de 2017, las imágenes del menú principal/campo de juego se cambiaron a cuatro imágenes genéricas, pero nuevas. La imagen del campo de juego cambia cuando se cambia la canción actual. Se ha agregado a las [opciones](/wiki/Client/Options) el soporte para habilitar o deshabilitar los fondos de temporada durante todo el año o verlos a veces. En algún momento alrededor de este mes, dentro del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server), se discutió que osu!weekly había muerto. A partir de este momento, cada publicación de noticias oficial y de la comunidad se publicará de forma independiente cuando esté lista, en lugar de esperar cada semana. Comenzó el concurso de fanart de Mocha en verano.
 
 Enlaces:
 
