@@ -27,7 +27,7 @@ tags:
 | Round of 16 | 2023-08-01 (14:00–22:00) |
 | Quarterfinals to Finals | 2023-08-02 (14:00–22:00) |
 
-The main mappool will be showcased on COE's stage. All stages and mappool showcases will be livestreamed on Twitch.
+The main mappool will be showcased on COE's stage. All stages and mappool showcases will be livestreamed on both GTS's and COE's Twitch channels.
 
 ## Prizes
 
@@ -57,6 +57,7 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1775360)
 - [GTS website](https://gtsosu.com/coegts/home)
 - Livestream
+  - [coevent](https://www.twitch.tv/coevent)
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)

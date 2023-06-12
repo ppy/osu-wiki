@@ -75,6 +75,7 @@ The Global Taiko Showdown team is hosting a 1v1 osu!taiko LAN tournament at the 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1775360)
 - [GTS website](https://gtsosu.com/coegts/home)
 - Livestream
+  - [coevent](https://www.twitch.tv/coevent)
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [GTS Discord server](https://discord.com/invite/3mGC3HB)
