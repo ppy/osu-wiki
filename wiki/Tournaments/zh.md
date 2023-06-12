@@ -495,6 +495,7 @@
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: 日本 A | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: 马来西亚 | ::{ flag=CN }:: 中国 A | ::{ flag=KR }:: 韩国 |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 
