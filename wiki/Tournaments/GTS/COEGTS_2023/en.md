@@ -80,19 +80,19 @@ The full detailed rules are viewable in the [COEGTS 2023 rulebook](https://gtsos
 7. The tournament staff reserves the right to inspect any equipment brought by participants and deny their use upon suspicion of attempted foul play.
 8. Instructions of the referees and the tournament management are to be followed. Decisions labeled as final are not to be objected to.
 9. Participants will be sanctioned for any of the following, or attempts thereof:
-    - Using insulting language and/or gestures, in-game or in person.
-    - Gaining an unfair advantage through any means, including but not limited to:
-      - Cheating software
-      - Information abuse
-      - Doping
-    - Showing unsportsmanlike behavior.
-    - Impersonation or being misleading regarding identity.
-    - Deceiving or misleading referees.
-    - Not putting in any effort to win a match / match fixing.
-    - Not following osu! community guidelines.
-    - Breaking any local laws.
-    - Betting on any matches. This also applies to all staff.
-    - Damaging any equipment of another person.
+   - Using insulting language and/or gestures, in-game or in person.
+   - Gaining an unfair advantage through any means, including but not limited to:
+     - Cheating software
+     - Information abuse
+     - Doping
+   - Showing unsportsmanlike behavior.
+   - Impersonation or being misleading regarding identity.
+   - Deceiving or misleading referees.
+   - Not putting in any effort to win a match / match fixing.
+   - Not following osu! community guidelines.
+   - Breaking any local laws.
+   - Betting on any matches. This also applies to all staff.
+   - Damaging any equipment of another person.
 10. The tournament organisers and referees reserve the right to apply the rules in relation to the tournament and all its matches and give warnings and/or penalties to the participants at their discretion.
 11. The tournament organisers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
