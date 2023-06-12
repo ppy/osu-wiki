@@ -143,9 +143,9 @@ La etiqueta `[quote]` se usa para dar formato estilístico a citas largas (tambi
 
 *Aviso: el argumento `NOMBRE` debe estar entre comillas (`"`).*
 
-Las citas largas generalmente se usan en escritos más formales en lugar de citas en línea cuando dicha cita tiene tres o más líneas. Sin embargo, dentro de los foros de osu!, se usan más comúnmente para responder al comentario de otro usuario, lo que se puede hacer automáticamente a través del botón `Citar y responder` ubicado en la parte superior derecha del comentario deseado (que se muestra a continuación). Sin embargo, este botón **solo aparecerá si el cursor está cerca**.
+Las citas largas generalmente se usan en los escritos más formales en lugar de citas en línea cuando dicha cita tiene tres o más líneas. Sin embargo, dentro de los foros de osu!, se usan más comúnmente para responder al comentario de otro usuario, lo que se puede hacer automáticamente a través del botón `Citar y responder` ubicado en la parte superior derecha del comentario deseado (que se muestra a continuación). Sin embargo, este botón **solo aparecerá si el cursor está cerca**.
 
-![Quote reply button](img/quotereply.png)
+![Botón de citar y responder](img/quotereply.png)
 
 ### Código en línea
 
