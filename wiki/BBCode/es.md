@@ -4,7 +4,7 @@ outdated_translation: true
 
 # BBCode
 
-**BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuarios y descripciones de beatmaps.
+**BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuario y descripciones de beatmaps.
 
 ![El editor de publicaciones del foro con sus botones](img/editor-ES.png "El cuadro de edición en los foros")
 
@@ -25,7 +25,7 @@ BBCode, como muchos otros lenguajes de marcado, formatea el texto mediante un si
 
 También es importante tener en cuenta que las etiquetas abiertas ocasionalmente incluyen signos de igual (`=`) dentro para indicar direcciones URL, tamaños de fuente y otros elementos similares.
 
-Las etiquetas de BBCode, que son compatibles con el sitio web de osu!, se enumeran y describen en detalle a continuación.
+Las etiquetas BBCode, que son compatibles con el sitio web de osu!, se enumeran y describen en detalle a continuación.
 
 ### Negrita
 
@@ -119,7 +119,7 @@ El texto del hipervínculo personalizado se indica mediante el argumento `NAME`.
 
 La etiqueta se usa más comúnmente para ocultar grandes paredes de texto e imágenes que pueden aumentar el tamaño de una publicación en el foro. Más notablemente en las publicaciones de preguntas frecuentes o de [skins](/wiki/Skinning).
 
-*Nota: el botón de la barra de herramientas de la caja se llama «caja de spoiler», pero no crea una etiqueta `[spoilerbox]`.*
+*Nota: el botón de la barra de herramientas de la caja se llama «Caja de spoiler», pero no crea una etiqueta `[spoilerbox]`.*
 
 Botón de la barra de herramientas: ![Botón de caja](img/spoilerbox.png "Caja")
 
@@ -129,7 +129,7 @@ Botón de la barra de herramientas: ![Botón de caja](img/spoilerbox.png "Caja")
 [spoilerbox]texto[/spoilerbox]
 ```
 
-Una *caja de spoiler* es un tipo especial de caja de BBCode que no tiene un argumento `NOMBRE` especificable. El nombre de una caja de spoiler siempre se muestra como `SPOILER`. Las cajas de spoiler tienen su propia etiqueta (`[spoilerbox]`) pero son funcionalmente idénticas a las [cajas](#caja).
+Una *caja de spoiler* es un tipo especial de caja BBCode que no tiene un argumento `NOMBRE` especificable. El nombre de una caja de spoiler siempre se muestra como `SPOILER`. Las cajas de spoiler tienen su propia etiqueta (`[spoilerbox]`) pero son funcionalmente idénticas a las [cajas](#caja).
 
 ### Cita
 
@@ -181,7 +181,7 @@ Dentro de los foros de osu!, los bloques de código se utilizan con mayor frecue
 
 La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto se usa con mayor frecuencia para efectos estilísticos en títulos, encabezados o poemas. Si se coloca dentro o alrededor de una etiqueta `[quote]`, el texto dentro del bloque de citas estará centrado, pero las líneas estilísticas y demás no.
 
-### Enlace
+### URL
 
 ```
 [url=ENLACE]texto[/url]
@@ -245,7 +245,7 @@ La etiqueta `[img]` se usa para incluir imágenes en línea en las publicaciones
 
 *Aviso: la URL de un sitio web **no** es lo mismo que la dirección de una imagen.*
 
-Para obtener una dirección de imagen, uno debe navegar al sitio web en el que se encuentra, pasar el mouse sobre la imagen, hacer clic con el botón derecho en la imagen y seleccionar `Copiar dirección de la imagen`. Luego, la dirección debe copiarse y pegarse entre las etiquetas.
+Para obtener una dirección de imagen, uno debe navegar al sitio web en el que se encuentra, pasar el ratón sobre la imagen, hacer clic con el botón derecho en la imagen y seleccionar `Copiar dirección de la imagen`. Luego, la dirección debe copiarse y pegarse entre las etiquetas.
 
 Aunque las imágenes se pueden obtener desde cualquier lugar, osu! recomienda que los usuarios carguen imágenes en sitios de intercambio de imágenes acreditados como [Imgur](https://imgur.com), ya que algunos sitios web no aprecian los enlaces directos a sus imágenes (también conocidos como «hotlinks»).
 
@@ -256,7 +256,7 @@ Botón de la barra de herramientas: ![Botón de imagen](img/image.png "Imagen")
 ```
 [imagemap]
 URL_DE_LA_IMAGEN
-X Y ANCHO ALTURA REDIRECTO TÍTULO
+X Y ANCHO ALTURA REDIRECCIÓN TÍTULO
 [/imagemap]
 ```
 
@@ -264,7 +264,7 @@ La etiqueta `[imagemap]` se utiliza para integrar uno o más hipervínculos en u
 
 La imagen, que está incrustada en el sitio web, está representada por el argumento `URL_DE_LA_IMAGEN`. Debe referirse directamente a una imagen alojada en un sitio web.
 
-Para agregar un área en la que se puede hacer clic, se debe insertar una nueva línea que contenga la posición x e y del área, el ancho y el alto del área, así como un enlace para redirigir después del argumento `URL_DE_LA_IMAGEN`. Además, se mostrará un argumento `TÍTULO` opcional al pasar el cursor por el área si se especifica. Un enlace se puede especificar con el argumento `REDIRECTO` u omitirse con `#`. Cada unidad de tamaño (`X`, `Y`, `ANCHO` y `ALTURA`) es un porcentaje (0–100) sin un signo de porcentaje.
+Para agregar un área en la que se puede hacer clic, se debe insertar una nueva línea que contenga la posición x e y del área, el ancho y el alto del área, así como un enlace para redirigir después del argumento `URL_DE_LA_IMAGEN`. Además, se mostrará un argumento `TÍTULO` opcional al pasar el cursor por el área si se especifica. Un enlace se puede especificar con el argumento `REDIRECCIÓN` u omitirse con `#`. Cada unidad de tamaño (`X`, `Y`, `ANCHO` y `ALTURA`) es un porcentaje (0–100) sin el signo de porcentaje.
 
 ### YouTube
 
@@ -288,7 +288,6 @@ La etiqueta `[audio]` se usa para incrustar un reproductor de audio [HTML5](http
 
 Para incrustar archivos de audio a través de este método, los usuarios deben pegar su URL de origen (por ejemplo, `https://www.example.com/example.mp3`) entre las dos etiquetas `[audio]`.
 
-<!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
 ### Encabezado (v1)
 
@@ -310,9 +309,9 @@ texto
 
 La etiqueta `[notice]` se usa para colocar párrafos en un cuadro grande y delineado con un cuerpo de color oscuro. El botón se utiliza principalmente para indicar anuncios o advertencias sobre un determinado tema en el sitio web.
 
-## Legado
+## Antiguas
 
-Las siguientes son etiquetas de BBCode que alguna vez se usaron en varios lugares del sitio web de osu!, pero ahora no están disponibles para su uso. Sus usos y sintaxis se describen a continuación con fines históricos.
+Las siguientes son etiquetas BBCode que alguna vez se usaron en varios lugares del sitio web de osu!, pero ahora no están disponibles para su uso. Sus usos y sintaxis se describen a continuación con fines históricos.
 
 ### Google
 
@@ -338,7 +337,7 @@ La etiqueta `[lucky]` es una etiqueta obsoleta que alguna vez se usó en los for
 [texto]
 ```
 
-La etiqueta *Encabezado (v2)* es una etiqueta desactualizada que alguna vez se usó en los foros de osu! para dar formato al texto en un encabezado púrpura de apariencia más elegante con una línea horizontal. La etiqueta solo funcionó en el foro Beatmaps, y solo aparecia después de la publicación (no en la vista previa). No tenía botón cuando estaba en servicio y se indicaba con un corchete abierto y cerrado (sin etiquetas de apertura y cierre).
+La etiqueta *encabezado (v2)* es una etiqueta desactualizada que alguna vez se usó en los foros de osu! para dar formato al texto en un encabezado púrpura de apariencia más elegante con una línea horizontal. La etiqueta solo funcionó en el foro Beatmaps, y solo aparecia después de la publicación (no en la vista previa). No tenía botón cuando estaba en servicio y se indicaba con un corchete abierto y cerrado (sin etiquetas de apertura y cierre).
 
 ## Curiosidades
 
