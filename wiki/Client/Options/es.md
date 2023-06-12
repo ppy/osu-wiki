@@ -8,7 +8,7 @@ Cuando se cambia una configuración que tiene un valor predeterminado, la barra 
 
 ## General
 
-![General icon](img/general-ES.png "Icono de General")
+![Icono de General](img/general-ES.png "Icono de General")
 
 Esta sección trata sobre su cuenta, configuración de idioma, y actualizaciones para osu!
 
@@ -76,7 +76,7 @@ Si abre la lista desplegable de `Versión`, se le presentarán estas opciones:
 
 ## Gráficos
 
-![Graphics icon](img/graphics-ES.png "Icono de Gráficos")
+![Icono de Gráficos](img/graphics-ES.png "Icono de Gráficos")
 
 Esta sección trata sobre la apariencia de su cliente de juego, partes de la interfaz y la configuración de video.
 
@@ -167,7 +167,7 @@ Si abre la lista desplegable de `Seasonal backgrounds`, se le presentarán estas
 
 ## Juego
 
-![Gameplay icon](img/gameplay-ES.png "Icono de Juego")
+![Icono de Juego](img/gameplay-ES.png "Icono de Juego")
 
 Esta sección trata sobre las configuraciones que afectan el juego.
 
@@ -216,7 +216,7 @@ Si abre la lista desplegable de `Medidor de puntuación`, se le presentarán est
 
 ## Sonido
 
-![Audio icon](img/audio-ES.png "Icono de Sonido")
+![Icono de Sonido](img/audio-ES.png "Icono de Sonido")
 
 Esta sección trata sobre las opciones relacionadas con el sonido.
 
@@ -250,7 +250,7 @@ El volumen principal, la música y los efectos se pueden cambiar en otro lugar p
 
 ## Skin
 
-![Skin icon](img/skin-ES.png "Icono de Skin")
+![Icono de Skin](img/skin-ES.png "Icono de Skin")
 
 This section is about skin related things.
 
@@ -273,7 +273,7 @@ This section is about skin related things.
 
 ## Controles
 
-![Input icon](img/input-ES.png "Icono de Controles")
+![Icono de Controles](img/input-ES.png "Icono de Controles")
 
 Esta sección trata sobre los periféricos de entrada.
 
@@ -318,7 +318,7 @@ Si abre la lista desplegable de `Confinar cursor`, se le presentarán estas opci
 
 ## Editor
 
-![Editor icon](img/editor-ES.png "Icono de Editor")
+![Icono de Editor](img/editor-ES.png "Icono de Editor")
 
 Esta sección trata sobre el [editor de mapas](/wiki/Client/Beatmap_editor).
 
@@ -339,7 +339,7 @@ Estas opciones se pueden sobrescribir manualmente usando el menú `Ver` en el ed
 
 ## En línea
 
-![Online icon](img/online-ES.png "Icono de En Línea")
+![Icono de En Línea](img/online-ES.png "Icono de En Línea")
 
 Esta sección trata sobre el chat, espectadores, multijugador, y osu!direct.
 
@@ -382,7 +382,7 @@ Esta sección trata sobre el chat, espectadores, multijugador, y osu!direct.
 
 ## Mantenimiento
 
-![Maintenance icon](img/maintenance-ES.png "Icono de Mantenimiento")
+![Icono de Mantenimiento](img/maintenance-ES.png "Icono de Mantenimiento")
 
 Esta sección trata sobre mapas y actualizaciones.
 
@@ -422,7 +422,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - Si escribe un nombre de usuario pero deja el cuadro de texto de la contraseña vacío, osu! utilizará ese nombre al guardar la puntuación localmente.
 - Abrir la barra lateral de opciones activará automáticamente `¡Tu osu! está actualizado!` (comenzará a buscar actualizaciones).
 - La opción `Seasonal backgrounds` se agregó después de recibir realimentación positiva al equipo de osu!dev.
-  - Más detalles: [cambios en el fondo del menú principal](https://osu.ppy.sh/community/forums/topics/606931)
+  - Más detalles: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 
 ### Historia
 
