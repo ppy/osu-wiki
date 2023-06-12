@@ -288,7 +288,6 @@ La etiqueta `[audio]` se usa para incrustar un reproductor de audio [HTML5](http
 
 Para incrustar archivos de audio a través de este método, los usuarios deben pegar su URL de origen (por ejemplo, `https://www.example.com/example.mp3`) entre las dos etiquetas `[audio]`.
 
-
 ### Encabezado (v1)
 
 ```
