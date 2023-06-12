@@ -78,14 +78,13 @@
 | `/delfriend [пользователь]` | Удалить `[пользователь]` из списка друзей. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [сообщение]` | Настроить сообщение для автоответа другим пользователям. Оставьте `[сообщение]` пустым, чтобы выключить автоответчик. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
 | `/bb` | Отправить сообщение лично BanchoBot, например, `!stats [пользователь]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [пользователь]` | Открыть вкладку чата с пользователем. | `/chat Amigo` | (Открылась вкладка чата с Amigo) |
+| `/chat [пользователь]` или `/msg [пользователь]` или `/query [пользователь]` | Открыть вкладку чата с пользователем. | `/chat Amigo` | (Открылась вкладка чата с Amigo) |
 | `/clear` | Очистить историю чата. | `/clear` | (Стирает весь текст в открытой вкладке) |
 | `/ignore [пользователь][@chp]` | Скрывать все сообщения пользователя до перезапуска игры. Дописав после ника символ `@` и буквы `c`, `h` или `p`, вы можете скрыть сообщения в чате, [упоминаниях](Highlight) или личной переписке соответственно. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Теперь все сообщения \[c\], все упоминания \[h\] и личные сообщения \[p\] от Amigo будут скрыты. |
 | `/j [канал]` или `/join [канал]` | Зайти на канал | `/join #lobby` | (Открывается вкладка `#lobby`) |
 | `/p` или `/part` | Покинуть открытый канал. | `/part` | Нет |
 | `/unignore [пользователь]` | Перестать игнорировать сообщения от указанного пользователя. | `/unignore Amigo` | Теперь вы будете видеть сообщения от Amigo. |
 | `/me [действие]` | Выполнить действие от третьего лица. | `/me is at home` | * John is at home |
-| `/msg [пользователь] [сообщение]` | Отправить личное сообщение `[пользователь]`. | `/msg Amigo I am sick at home.` | (Во вкладке с Amigo) John: I am sick at home. |
 | `/np` | Отправить в чат карту, которую вы играете, слушаете, или где смотрите реплей. | `/np` | (Во время игры) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` или `/r` | Ответить на последнее полученное личное сообщение. | `/r Do you know any good doctor?` | (Во вкладке с Amigo) \[Предыдущие сообщения\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Сохранить историю чата в текстовый файл. | `/savelog` | (Создана папка `Chat` в директории с osu!, в которой будет сохранена история чата) |
