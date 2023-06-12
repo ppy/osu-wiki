@@ -10,7 +10,7 @@ Die Richtlinien zur Markenidentität sind ein Standard zur Markenbildung von osu
 
 ## osu!
 
-Der Name des Spiels, osu!, darf nicht großgeschrieben werden. Die offiziellen osu!-Marken dürfen keine Leerzeichen enthalten:
+Der Name des Spiels, osu!, darf weder groß noch kursiv geschrieben werden. Die offiziellen osu!-Marken dürfen keine Leerzeichen enthalten:
 
 - Spielmodi: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Projekte: `osu!academy`, `osu!talk`

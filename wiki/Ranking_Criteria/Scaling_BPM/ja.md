@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f1dbbc82bdc90d4ff5b5da068cd3243e70bddb90
+---
+
 # Ranking CriteriaにおけるBPMのスケーリング
 
 Ranking Criteriaのルールとガイドラインは、4/4 拍子でBPM180程度の曲に基づいています。このガイドではスケーリングどう作用するか説明します。

@@ -124,7 +124,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
   
 Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dalam pengembangan osu!, baik dalam ruang lingkup pemrograman ataupun media.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">

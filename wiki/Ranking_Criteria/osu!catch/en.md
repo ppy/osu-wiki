@@ -15,6 +15,11 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Your map must theoretically be possible to SS.** This means it must be possible to catch absolutely all [fruits](/wiki/Gameplay/Hit_object/Fruit), [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and [droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - **Each beatmap must use at least two different custom [combo colours](/wiki/Beatmapping/Combo_colour) unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
+- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
+  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad.
+  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter.
+  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain.
+  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
 
@@ -100,6 +105,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **All distances should be clear on whether they require the player to [walk](/wiki/Gameplay/Walk) or [dash](/wiki/Gameplay/Dash).** This is to ensure that players can easily recognise patterns that require dashing.
 - **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
 - **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.**
+- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 10 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly.
 
@@ -130,6 +136,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Strong [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used.** For [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) hyperdashes, a limit of 1.5 times the [trigger distance](/wiki/Beatmapping/Trigger_distance) is recommended. For [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) may be used in conjunction with [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the [trigger distance](/wiki/Beatmapping/Trigger_distance) when followed by a [walk](/wiki/Gameplay/Walk), or 1.1 times the trigger distance when followed by a basic-snapped [dash](/wiki/Gameplay/Dash).
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the [trigger distance](/wiki/Beatmapping/Trigger_distance).
+- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 12 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
 
@@ -156,6 +163,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash) with a gap lower than 250ms.**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) may only be used singularly (not in conjunction with other [dashes](/wiki/Gameplay/Dash) or [hyperdashes](/wiki/Gameplay/Hyperdash)).**
+- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
 

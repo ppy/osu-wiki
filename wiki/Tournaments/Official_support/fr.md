@@ -13,7 +13,7 @@ outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 
 L'[équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour le 2 février 2023. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour le 2 février 2023. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -179,7 +179,7 @@ Veuillez ne pas soumettre une bannière de menu principal avec votre demande ini
 
 ## Questions fréquemment posées
 
-### Qu'est-ce qui est considéré comme du "staff" en ce qui concerne la gestion des tournois ? {#ce-qui-est-considéré-staff}
+### Qu'est-ce qui est considéré comme du "staff" en ce qui concerne la gestion des tournois ? {id=ce-qui-est-considéré-staff}
 
 Si un utilisateur a accès à des informations qui pourraient influencer le résultat du tournoi/concours, il est considéré comme faisant partie du staff. Pour clarifier, nous considérons que les organisateurs, les arbitres, les sélectionneurs de mappools, les testeurs de mappools, les créateurs de beatmaps sur mesure, les juges, ou toute autre forme de poste de direction directement impliqué dans la maintenance et le fonctionnement du tournoi/concours font partie de son staff. Cette liste n'est pas exhaustive - si vous avez des doutes, veuillez contacter [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
@@ -187,23 +187,23 @@ Les commentateurs, les streamers et les graphistes sont désignés comme des **a
 
 Nous avons connu des cas où des organisateurs peu scrupuleux ont organisé des tournois de manière spécifique (c'est-à-dire en choisissant des beatmaps qu'ils connaissent bien, en ajustant les seedings/brackets, etc.) afin de récolter des badges de profil pour eux-mêmes et leurs amis.) Bien que nous comprenions que la plupart des groupes n'agissent pas de la sorte, nous devons appliquer cette restriction pour que les choses restent équitables pour tous.
 
-### Un joueur qui a été éliminé de mon tournoi peut-il rejoindre le staff après coup et ne pas causer de problèmes ? {#joueur-membre-du-staff}
+### Un joueur qui a été éliminé de mon tournoi peut-il rejoindre le staff après coup et ne pas causer de problèmes ? {id=joueur-membre-du-staff}
 
 Non. Les joueurs qui ont été éliminés du tournoi/concours ne peuvent pas être recrutés en tant que staff ou aider à l'organisation, à l'exception de l'arbitrage, du test des mappools et de la mise en place de replays pour les showcases de mappool. Ils peuvent toutefois être recrutés en tant qu'assistants.
 
-### Si un utilisateur n'a pas encore joué de match, peut-il rejoindre le staff ? {#pas-de-participation-staff}
+### Si un utilisateur n'a pas encore joué de match, peut-il rejoindre le staff ? {id=pas-de-participation-staff}
 
 Un joueur inscrit qui a passé le screening mais qui n'a été programmé pour aucun match **ET** qui n'a participé à aucune partie (y compris les qualifications) n'est pas encore considéré comme un joueur/participant du tournoi, et peut donc encore être enrôlé comme staff.
 
-### Que dois-je faire si un joueur de mon tournoi se fait restreindre ? {#restriction-des-joueurs}
+### Que dois-je faire si un joueur de mon tournoi se fait restreindre ? {id=restriction-des-joueurs}
 
 Dans l'éventualité peu probable qu'un joueur soit restreint au cours du tournoi, il se peut que vous deviez rejouer certains matchs dans lesquels il était impliqué afin de préserver l'intégrité compétitive du tournoi. Les organisateurs de tournois doivent contacter l'équipe de support aux comptes pour recevoir des informations et des conseils sur ces cas (rares, espérons-le).
 
-### Pourquoi les badges ne peuvent-ils pas être attribués aux tournois mensuels (ou hebdomadaires) récurrents ? {#concours-récurrents}
+### Pourquoi les badges ne peuvent-ils pas être attribués aux tournois mensuels (ou hebdomadaires) récurrents ? {id=concours-récurrents}
 
 Inonder le jeu de badges de profil dilue le prestige du prix pour tous les autres. Nous ne voulons pas que les badges de profil soient quelque chose que les gens "farment" dans quelques séries de tournois réguliers et récurrents.
 
-### Puis-je demander un badge pour un concours de beatmaps ou un autre type de concours ? {#concours-support}
+### Puis-je demander un badge pour un concours de beatmaps ou un autre type de concours ? {id=concours-support}
 
 Oui ! Voir le [Support officiel des concours](/wiki/Contests/Official_support) pour plus de détails.
 

@@ -17,7 +17,7 @@ tags:
 
 |  |  |
 | :-- | :-- |
-| Einladungslink | <https://discord.gg/osumedalhunters> |
+| Einladungslink | <https://discord.gg/medals> |
 | Alternativer Einladungslink | <https://discord.gg/8qpNTs6> |
 
 :::
@@ -32,7 +32,7 @@ Viele Medaillenjäger arbeiten zusammen, um Lösungen für jede neue Hush-Hush-M
 
 | Rolle | Benutzer (Discord-ID) |
 | :-- | :-- |
-| Server-Eigentümer | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
+| Server-Eigentümer | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151) |
 | Server-Admin | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
 | Community-Manager & Server-Admin | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
 | Server-Moderator | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |

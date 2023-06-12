@@ -71,7 +71,7 @@ Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas exce
 - **La velocidad de slider base debería ser 1.40 en todas las dificultades del set.** Esto es para garantizar una cantidad óptima de notas en el campo de juego al mismo tiempo, así como la distancia entre una nota y otra.
 - **La opción "Slider Tick Rate" debe ser utilizada correctamente de acuerdo a la canción.** En la mayoría de casos, dejarlo por defecto en 1 es lo correcto. Sin embargo, si la canción utiliza ritmo de swing (o 1/3) debes utilizar el Tick Rate en 3 para que los puntos de los slider estén en 1/3.
 - **Debe evitarse el seguimiento de múltiples aspectos de una canción, especialmente si no queda muy claro a qué se le está dando prioridad** Los jugadores deben poder reconocer qué parte de la canción es la que están siguiendo.
-- **Usa volumen bajo o Spinners silenciados sólo cuando se ajuste al volumen de la canción.** En la mayoría de los casos, es recomendable que las notas y spinners produzcan sonido para guiar a los jugadores.
+- **Usa volumen bajo o Spinners silenciados solo cuando se ajuste al volumen de la canción.** En la mayoría de los casos, es recomendable que las notas y spinners produzcan sonido para guiar a los jugadores.
 - **Si una canción presenta BPM variable, es recomendable utilizar líneas verdes para mantener el desplazamiento de las notas constante, dentro de lo posible.** Hacer esto mantiene los intervalos de tiempo entre notas más predecibles y mejoran la experiencia de juego al evitar que las notas se superpongan debido a los cambios de BPM.
 - **Evita obstruir notas en el campo con spinners activos.** Los spinner cubren una gran parte de la pantalla, por lo que terminarlos demasiado cerca de la nota siguiente puede causar problemas de lectura. Usualmente, utilizar una distancia de al menos 1/2 entre un spinner y la nota siguiente soluciona esto.
 - **Debe haber al menos 1/2 de distancia entre un spinner y la nota anterior.** Esto es para asegurar que no se superpongan y garantizar que sea fácil de distinguir.
@@ -95,7 +95,7 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 - **Los patrones en 1/1 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Las subdivisiones principales que debes usar son en su mayoría 2/1, 4/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/1 también es aceptable.
 - **Debes utilizar al menos un descanso de 3/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida o utilizar descansos más cortos puede resultar en demasiada dificultad para un jugador de este nivel.
-- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
 
@@ -123,7 +123,7 @@ Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe ad
 Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes pautas:
 
 - **Los patrones en 1/2 no deben ser de más de 5 notas.**
-- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
 
@@ -143,7 +143,7 @@ Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe ad
 - **Los patrones en 1/4 no deben ser de más de 5 notas.** De otra forma, es muy probable que esto resulte demasiado difícil incluso para jugadores un poco más experimentados.
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2, 1/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/4 también es aceptable.
 - **Debes utilizar al menos un descanso de 3/2 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida o utilizar descansos más cortos puede resultar en demasiada dificultad para un jugador de este nivel.
-- **Los cambios de SV están permitidos.** Sin embargo, éstos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
+- **Los cambios de SV están permitidos.** Sin embargo, éstos deben ser utilizados solo en secciones con ritmos notablemente distintos y el uso de este no debe ser drástico.
 - **Los patrones diseñados en 1/4 que tengan al menos un cambio de color deben ser utilizados con precaución.** Idealmente, debes evitar utilizarlos en conjunto a otros patrones de esta naturaleza, ya que el jugador objetivo de esta dificultad aún no se acostumbra a este nivel de complejidad.
 - **Los patrones diseñados en 1/4 que cuenten con más de 3 notas seguidas pueden tener máximo un cambio de color, el que debe suceder al principio o al final del patrón.** Este tipo de patrón debe ser seguido por un breve descanso.
 
