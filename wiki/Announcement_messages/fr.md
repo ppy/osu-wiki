@@ -11,7 +11,7 @@ tags:
 
 ![Notification d'annonce](img/notification.jpg "Une notification de message")
 
-Un **message d'annonce** est un type de message spécial destiné à envoyer des messages plus longs et formatés à plusieurs utilisateurs à la fois. Les principales différences entre les messages d'annonce et les messages de chat ordinaires sont les suivantes :
+Un **message d'annonce** est un type de message spécial destiné à envoyer des messages plus longs et formatés à plusieurs utilisateurs à la fois. Les principales différences entre les messages d'annonce et les messages de tchat ordinaires sont les suivantes :
 
 - Limite de 1024 caractères au lieu de 450
 - Prise en charge de la syntaxe Markdown[^note-images] pour le formatage du texte
@@ -36,7 +36,7 @@ L'[équipe de support aux comptes](/wiki/People/Account_support_team)  examinera
 
 ## Envoyer des messages d'annonce
 
-Pour envoyer une annonce de tchat, ouvrez la [page de tchat](https://osu.ppy.sh/community/chat) à partir de vos notifications de tchat et cliquez sur le bouton `create announcement`. Saisissez le nom du canal, la description[^note-desc], la liste des destinataires et votre message. Enfin, cliquez sur le bouton `create` pour envoyer l'annonce. 
+Pour envoyer une annonce de tchat, ouvrez la [page de tchat](https://osu.ppy.sh/community/chat) à partir de vos notifications de tchat et cliquez sur le bouton `créer une annonce`. Saisissez le nom du canal, la description[^note-desc], la liste des destinataires et votre message. Enfin, cliquez sur le bouton `créer` pour envoyer l'annonce. 
 
 ![Page de création d'une annonce](img/page.jpg "La page de création d'une annonce")
 
