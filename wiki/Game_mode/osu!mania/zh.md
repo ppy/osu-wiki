@@ -1,18 +1,18 @@
 # osu!mania
 
-![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania Interface")
+![osu!mania 游玩](/wiki/shared/mania-gameplay.jpg "osu!mania 的界面")
 
 The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
-It is somewhat similar to [osu!taiko](/wiki/Game_mode/osu!taiko), but with more buttons notes moving vertically rather than moving horizontally.
+osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但有更多的按钮，且音符纵向移动而非横向移动。
 
-## ![](/wiki/shared/mode/mania.png) Gameplay explanation
+## ![](/wiki/shared/mode/mania.png) 游玩解释
 
 ### 选歌页面
 
-To access the osu!mania game mode, press `Ctrl`+`4` at the same time.
+同时按下 `Ctrl`+`4` 转到 osu!mania 游戏模式。
 
-Alternatively, click on the `Mode` button and select `osu!mania`.
+也可以点击 `Mode` 按钮并选择 `osu!mania`。
 
 #### 键数与判定
 

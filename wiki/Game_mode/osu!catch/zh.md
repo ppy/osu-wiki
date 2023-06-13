@@ -1,6 +1,6 @@
 # osu!catch
 
-![osu!catch 游玩界面](/wiki/shared/catch-gameplay.jpg "osu!catch 界面")
+![osu!catch 游玩](/wiki/shared/catch-gameplay.jpg "osu!catch 的界面")
 
 osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
 
@@ -8,9 +8,9 @@ osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requ
 
 ### 选歌页面
 
-To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
+同时按下 `Ctrl`+`3` 转到 osu!catch 游戏模式。
 
-Alternatively, click on the `Mode` button and select `osu!catch`.
+也可以点击 `Mode` 按钮并选择 `osu!catch`。
 
 ### 基本游玩知识
 
@@ -56,7 +56,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ## 玩法
 
-*Refer to [Play Style page under osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
+*参见[玩法页面的 osu!catch 部分](/wiki/Gameplay/Play_style#osu!catch)。*
 
 ## 控制
 

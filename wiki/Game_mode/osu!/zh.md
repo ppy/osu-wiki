@@ -1,136 +1,136 @@
 # osu! （游戏模式）
 
-*For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
+*对于其他用法，请见： [osu! （消歧义）](/wiki/Disambiguation/osu!)。*
 
-![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
+![osu! 游玩](/wiki/shared/osu-gameplay.jpg "osu! 的界面")
 
-The first game mode, with gameplay [based on the ouendan series](#灵感).
+是第一个游戏模式，[基于应援团系列](#灵感)。
 
 ## ![](/wiki/shared/mode/osu.png) 游玩
 
-*Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
+*教程： [new beginnings （osu! 自带）](https://osu.ppy.sh/beatmapsets/1011011)。*
 
 ### 选歌页面
 
-To access the osu! game mode, press `Ctrl`+`1` at the same time.
+同时按下 `Ctrl`+`1` 转到 osu! 游戏模式。
 
-Alternatively, click on the `Mode` button and select `osu!`.
+也可以点击 `Mode` 按钮并选择 `osu!`。
 
 ### 基本游玩知识
 
 #### 游玩区域
 
-![osu! playfield](/wiki/shared/osu-gameplay.jpg "osu! playfield")
+![osu! 游玩区域](/wiki/shared/osu-gameplay.jpg "osu! 的游玩区域")
 
-The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the health bar.
+左上角是血条，血量会随时间减少（取决于谱面的难度设定），但是可以通过在恰当的时间打击物件、完成转盘来回复血量。准确的打击（获得 300 或“激”）回复的血量比不准确的打击（获得 50）多，而一个失误足以造成血量大跌。
 
-On the right of the health bar is the total score. Below that is the accuracy. The circle beside the accuracy (and below the score) is a timer for the duration of the beatmap.
+右上角显示的是分数，下方显示准确度。准确度旁边（分数下方）是谱面时长的计时器。
 
-The number on the bottom left is the combo counter/score multiplier.
+左下角的数字显示连击数，也是得分乘数。
 
 #### 打击圈
 
-![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
+![打击圈](/wiki/shared/osu_hitcircles.jpg "osu! 的打击圈")
 
-Coloured circles with numbers on top of them, called hit circles, will appear on the playfield when playing. A thin, similarly coloured [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. Tap on the hit circles at the exact point when the approach circle touches their white borders, in the order indicated by the numbers.
+打击圈是上方有数字的彩色圆圈，游玩时会在游玩区域出现。打击圈外部一个较细的、颜色相似的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)会随时间缩小。要在缩圈与打击圈的白色边缘合在一起时，按数字指示的顺序点击打击圈。
 
-After hitting a hit circle, a number appears indicating the [judgement](/wiki/Gameplay/Judgement/osu!) received for how accurate the timing of the hit was.
+打击圆圈之后，会出现一个数字，指示基于打击的准确程度给出的[判定](/wiki/Gameplay/Judgement/osu!)。
 
 #### 滑条
 
-![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
+![滑条](/wiki/shared/osu_slider.jpg "osu! 的滑条")
 
-First, tap on the circle at the beginning of the slider, called the [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), at the right moment. When tapped, a ball will begin to move across the path. The orange outer circle, called the follow circle, will appear when holding onto the slider's ball, but will disappear when the cursor is outside the circle or the button is released. Hold the mouse/keyboard button (or keep the pen on the tablet) and follow the ball within the follow circle as it moves.
+首先，在正确时间点击滑条起点处的圆圈（称作[滑条头](/wiki/Gameplay/Hit_object/Slider/Sliderhead)）。点击之后，会有一个球开始沿滑条路径移动。此时光标放在滑条球上时，外围会出现一个橙色圆圈，称作跟随圈，但光标在圈外或释放按钮时会消失。按住鼠标/键盘按键（或把笔停留在数位板上），在滑条球移动时在跟随圈内跟着它。
 
-Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa. The visual cue is a reverse arrow at the ending/starting circle of the path.
+有时，滑条球会反转方向（如上图）。玩家必须跟着球回到路径起点，反之亦然。反转方向的视觉提示是路径终点/起点的折返箭头。
 
 #### 转盘
 
-![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
+![转盘](/wiki/shared/osu_spinner.jpg "osu! 的转盘")
 
-Hold on the mouse/keyboard-button (or keep the pen onto the tablet). From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A *Clear* notice will appear to indicate that the spinner was completed. If the spinner was cleared early, you can continue spinning to collect score bonus and gain some health back.
+先按住鼠标/键盘按键不放（或把笔停留在数位板上）。从现在开始，用鼠标（或笔）转圈（两个方向均可）以旋转转盘，直到转盘完全向外发光为止。会出现 *Clear* 的字样提示转盘已完成。如果转盘完成较早，你可以继续旋转获得加分与回血。
 
-The outer white circle shows how much time is left to complete the spinner. This circle will turn red to notify that time is almost out. Older skins, using [skin version](/wiki/Skinning/skin.ini#versions) 1.0, will have a meter/gauge to indicate how close the spinner is to being completed.
+转盘外侧的白色圆圈显示完成转盘的剩余时间。当时间耗尽时，圆圈会变红。使用[皮肤版本](/wiki/Skinning/skin.ini#versions) 1.0 的早期皮肤中，转盘两侧有量计，指示转盘完成的程度。
 
-The small box below the spinner shows the current spin speed, measured in spins per minute.
+转盘下方的一个小方框显示目前的旋转速度，以每分钟转数为单位。
 
 ## 玩法
 
-*Refer to [Play Styles page under osu!](/wiki/Gameplay/Play_style).*
+*参见[玩法页面的 osu! 部分](/wiki/Gameplay/Play_style)。*
 
 ## 控制
 
-The default controls for osu! are:
+osu! 默认的控制方式如下：
 
-| Mouse | Keyboard | Tablet/Touchscreen |
+| 鼠标 | 键盘 | 数位板/触摸屏 |
 | :-- | :-- | :-- |
-| Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1) |
+| 左击(M1) / 右击(M2) | `Z`(K1) / `X`(K2) | 触摸屏幕(M1) |
 
-The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
+osu! 中的物件接受任何形式的输入，只要及时点击物件即可。
 
-If [Relax](/wiki/Gameplay/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+如果使用 [Relax](/wiki/Gameplay/Game_modifier/Relax) 模组，则只能控制光标。用光标跟随打击物件，会自动进行点击，但转盘仍必须完成。
 
-If [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod speed.
+如果使用 [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) 模组，则只会接受按键输入。光标会自动移动，需要及时点击物件。转盘转速则与 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组相同。
 
 ## 得分
 
-[Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
+[osu! 中的分数](/wiki/Gameplay/Score/ScoreV1/osu!)是游玩过程中多个部分的加权总和，取决于以下因素：
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Gameplay/Hit_object/Slider) and [spinners](/wiki/Gameplay/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- [判定](/wiki/Gameplay/Judgement/osu!)决定了打击物件的基础分数（300、 100、 50，万一失误了则是 0）。对于[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)，按键时间准确的打击在分数和准确率上的价值更高。[滑条](/wiki/Gameplay/Hit_object/Slider)与[转盘](/wiki/Gameplay/Hit_object/Spinner)没有打击窗口，但在漏掉或没有正确完成时会导致断连。获得的判定越高，增加[血量](/wiki/Gameplay/Health)更多。
+- [准确率](/wiki/Gameplay/Accuracy#osu!)取决于判定，显示打击的精准程度。较早或较迟的按键以及失误，都会降低整体准确率。
+- [连击数](/wiki/Gameplay/Combo_(score_multiplier))是一个分数乘数：连击数较高时，完成打击物件会对总分作出更多的贡献，反之亦然。连击可能会因为失误 (miss) 或[断滑条](/wiki/Gameplay/Judgement/Slider_break)而[断掉](/wiki/Gameplay/Judgement/Combobreak)。
 
-When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth orders of magnitude more points than the ones in the beginning, which means that a player will lose way more potential score on them in case of mistimed hits. As a result, it's possible and very common for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
+维持连击时，总分会指数级增长。接近谱面结尾的物件比谱面开头的物件值更多的分数，意味着万一玩家打击不准，就会失去更多的潜在分数。因此，准确度较低的分数会获得更高的分数，并击败准确度较高的分数，这是可能的，并且非常常见。
 
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 50s, and misses.
+完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!)。评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评价（从 S 到 D）取决于 300、 50 和 miss 的数目。
 
-## Skinning
+## 自定义皮肤
 
-*Refer to [Skinning page of osu!](/wiki/Skinning/osu!) for full information.*
+*对于完整信息，参见 [osu! 的自定义皮肤页面](/wiki/Skinning/osu!)。*
 
-## Beatmapping
+## 作图
 
-*Refer to [Beatmapping page](/wiki/Beatmapping) for full information.*
+*对于完整信息，参见[作图页面](/wiki/Beatmapping)。*
 
 ## 杂项
 
 ### 灵感
 
-The gameplay of osu! is based on *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*, a rhythm game for the Nintendo DS. Like osu!, the gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path, and rotating a spinner very fast. All these elements are timed to covers of popular Japanese songs. It looks like this on the DS:
+osu! 的游玩基于*[押忍！战斗！应援团](https://zh.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*，任天堂 DS 的一款音乐节奏游戏。游戏只有三个元素：点击触摸屏上的圆圈，沿指定路径拖拽一个球，以及快速旋转转盘。所有这些元素都契合了流行日文歌曲的节奏。在 DS 上看起来像这样：
 
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+![任天堂 DS 中 押忍！战斗！应援团 的游玩例图](/wiki/shared/Ouendan.jpg "任天堂 DS 中 押忍！战斗！应援团 的游玩例图")
 
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (cheer squad) comes in. Through the magical power of male cheerleading, the player has to help the people in trouble.
+可以在下方屏幕看到游戏的圆圈，在上方屏幕看到故事情节。每一个阶段基本上都自带一个关于遇到麻烦的人的故事。这时*应援团*（啦啦队）入场了。，玩家必须利用男性啦啦队队员魔法般的力量帮助处于困境中的人。
 
 ### 游玩
 
-![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
+![osu! 拉烟效果](/wiki/shared/osu_smoke.jpg "拉烟功能的使用")
 
-![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke in key bindings")
+![osu! 拉烟设置](/wiki/shared/osu_smoke_set.jpg "按键绑定中的拉烟键")
 
-- Depending on difficulty setting and the timing tolerance, tapping on the hit object *way too early* will heavily vibrate the hit object instead.
-- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgement only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
-- On the *DS*, completing spinners is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
+- 取决于难度设定与计时严度，*过早*点击物件会使之强烈振动。
+- 在没有隐藏或可见滑条点的空路径上释放滑条球不会导致断连，也不会得分。滑条判定只会检查是否点击起点处的圆圈，是否收集了滑条点，以及是否成功到达终点处圆圈。
+- 玩 *DS* 时（尤其是高难度关卡），完成转盘是刮坏触摸屏（或者屏幕保护膜）的最佳办法。在 osu! 中，转盘已经得到优化，完成它不会这么麻烦。转盘每分钟可实现的最高转数是 477 转，也是 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时的旋转速度，而 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组的旋转速度较低，是每分钟 287 转。
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
-- Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
+- 如果不沿转盘中心旋转，则旋转**无效**。
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-- Mascot for osu! is [pippi](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be osu!.
+- osu! 的吉祥物是 [pippi](/wiki/Mascots#pippi)。
+- 当使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时，玩家名是 osu!。
 
 ### 历史
 
-- Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
-  - [Combo fire](/wiki/Gameplay/Combo_fire) when hitting new combo milestones.
-  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *Ouendan* interface.
-    - It was replaced by nicer current default skin using v2 skin behaviour.
-  - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
+- 较早版本的 osu! 常常模拟*应援团*系列游戏中的一些元素，这些元素之后被移除或替换：
+  - 达到新的连击里程碑时的[连击火焰](/wiki/Gameplay/Combo_fire)。
+  - 首个版本的默认皮肤（*osu!default by peppy* 皮肤）使用 v1 皮肤行为，提供了一个几乎与*应援团*系列游戏相同的副本。
+    - 之后被使用 v2 皮肤行为的更好的默认皮肤替代。
+  - v1 和 v2 皮肤行为上最值得注意的不同是转盘。
     - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *Ouendan* series.
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
-- The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:
-  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), or `discoprince`; which was apparently mapped in around an hour.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
-  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
-- Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.
+- 在线排行榜启用当天（2007 年 10 月 7 日，2007-10-07），最先上架的三张谱面是：
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1)，即 `discoprince`；显然是在约一小时内作好的图。
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
+  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)，即 `Brandy - Love Fighter`。
+- 值得注意的是，旧谱面的文件夹有自己的命名约定（这样的文件夹名只能在*早期*谱面包中找到），并未严格遵循目前强制使用的`{谱面集 ID} {艺术家名} - {谱面名}`格式。
+  - 无论如何，从 osu! 网站的谱面列表上直接下载的谱面都遵循目前强制使用的命名格式。

@@ -8,9 +8,9 @@ osu!taiko 是 osu! 中的游戏模式，从日本节奏游戏[太鼓达人](http
 
 ### 选歌页面
 
-To access the osu!taiko game mode, press `Ctrl`+`2` at the same time.
+同时按下 `Ctrl`+`2` 转到 osu!taiko 游戏模式。
 
-Alternatively, click on the `Mode` button and select `osu!taiko`.
+也可以点击 `Mode` 按钮并选择 `osu!taiko`。
 
 ### 基本游玩知识
 
@@ -61,7 +61,7 @@ Alternatively, click on the `Mode` button and select `osu!taiko`.
 
 ## 玩法
 
-*参见[玩法页面的 osu!taiko 部分](/wiki/Gameplay/Play_style).*
+*参见[玩法页面的 osu!taiko 部分](/wiki/Gameplay/Play_style)。*
 
 ## 控制
 
