@@ -350,7 +350,7 @@ Saturday, 12 November 2022:
 | H | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/105013758) |
 | A | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105014944) |
 | B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/105014877) |
-| E | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=VN } :: Vietnam | [#1](https://osu.ppy.sh/community/matches/105014999) |
+| E | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/105014999) |
 | A | **Rest of Europe** ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105016332) |
 | E | **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105016278) |
 | H | Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan B** | [#1](https://osu.ppy.sh/community/matches/105016304) |
