@@ -19,9 +19,9 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 | [2015](2015) | osu!web-Neugestaltung, osu!weekly und osu!coins |
 | [2016](2016) | scorev2, Ankündigung einer neuen quelloffenen Version von osu! namens "lazer" (vorher bekannt als "osu!lazer") und eine Überarbeitung des osu!-Wikis |
 | [2017](2017) | Erste Veröffentlichung des Builds lazer von osu! und Discord-Integration auf dem Stable-Client |
-| [2018](2018) | osu!next, deprecation der alten Webseite, Anzeige der Gesamtspielzeit |
+| [2018](2018) | osu!next, Stilllegung der alten Webseite, Anzeige der Gesamtspielzeit |
 | 2019 bis 2021 | *Undokumentiert* |
-| [2022](2022) | 15 Jahre osu!, neue osu!monthly-Serie |
+| [2022](2022) | 15 Jahre osu!, neue osu!monthly-Nachrichtenserie |
 | 2023 bis heute | *Undokumentiert* |
 
 ## Andere Aufzeichnungen
