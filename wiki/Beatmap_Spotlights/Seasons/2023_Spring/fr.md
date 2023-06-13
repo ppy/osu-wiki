@@ -20,8 +20,8 @@ tags:
 | Playlist lobby : Playlist C | 17 mai - 31 mai 2023 |
 | Playlist lobby : Playlist A | 31 mai - 7 juin 2023 |
 | Playlist lobby : Playlist B | 7 juin - 14 juin 2023 |
-| Playlist lobby : Playlist C | 14 juin - 21 juin, 2023 |
-| Conclusion de la saison | 21 juin, 2023 |
+| Playlist lobby : Playlist C | 14 juin - 21 juin 2023 |
+| Conclusion de la saison | 21 juin 2023 |
 
 ## Lobbies multijoueurs hebdomadaires
 
