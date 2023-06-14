@@ -14,7 +14,7 @@
 
 ### Song Setup
 
-*Основная статья: [Настройки карты](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Основная статья: [Настройки карты](/wiki/Client/Beatmap_editor/Song_setup)*
 
 С этого окна начинается создание новой [сложности](/wiki/Beatmap/Difficulty) для [карты](/wiki/Beatmap).
 

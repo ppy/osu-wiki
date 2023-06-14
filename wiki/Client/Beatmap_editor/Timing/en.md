@@ -15,7 +15,7 @@ tags:
 
 # Timing tab
 
-*For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
+*For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_time_songs)*\
 *See also: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
 **Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up the timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains timing-related settings and tools, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure representation and beatmap design purposes.

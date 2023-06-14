@@ -26,7 +26,7 @@ These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-m
 - Take a screenshot from within osu! by hitting `F12`.
 - Try watching others as they play using [spectator mode](/wiki/Gameplay/Spectating). Hit `F9` to toggle the extended chat interface and utilise this!
 - When a beatmap has been updated, as long as you are in online ranking mode you will be given a button to update to the latest version.
-- The wiki has a wealth of information in it. Seriously, [read it](/wiki/Main_Page).
+- The wiki has a wealth of information in it. Seriously, [read it](/wiki/Main_page).
 - Did you know you can load new beatmaps by simply double-clicking on an `osz` file or dragging it into a running osu! window?
 - You can export any [replay](/wiki/Gameplay/Replay) whether it be online or offline by hitting `F2` at the [ranking screen](/wiki/Client/Interface#results-screen).
 - If you find that the 'beats' sound too early or late in every beatmap you play, try adjusting the `Universal Offset` in `Options`.
@@ -60,16 +60,16 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - [Jumps](/wiki/Beatmap/Pattern/osu!/Jump) can be used to highlight important sounds in the music!
 - [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) is a handy tool for precise spacing calculations. Hold the `Alt` key to fine-tune it.
 - Try synchronising the most important sounds in a song to clicks in gameplay. This is especially important when deciding slider [rhythms](/wiki/Music_theory/Rhythm)!
-- The [`Beat Snap Divisor`](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) option in the top right determines how objects synchronise to music. For most songs, sticking to the default `1/4` value will work fine.
+- The [`Beat Snap Divisor`](/wiki/Client/Beatmap_editor/Beat_snap_divisor) option in the top right determines how objects synchronise to music. For most songs, sticking to the default `1/4` value will work fine.
 - If you're looking for feedback on your map, check out the Modding Queues forum, the `#modreqs` channel in-game, or ask your friends for advice!
-- Settings like [HP drain](/wiki/Beatmap/HP_drain_rate), [circle size](/wiki/Beatmap/Circle_size), and [approach rate](/wiki/Beatmap/Approach_rate) can be adjusted in the `Difficulty` tab of [`Song Setup`](/wiki/Client/Beatmap_editor/Song_Setup) (`F4`).
+- Settings like [HP drain](/wiki/Beatmap/HP_drain_rate), [circle size](/wiki/Beatmap/Circle_size), and [approach rate](/wiki/Beatmap/Approach_rate) can be adjusted in the `Difficulty` tab of [`Song Setup`](/wiki/Client/Beatmap_editor/Song_setup) (`F4`).
 - Bookmarks (`Ctrl` + `B`) are a fantastic tool to visualise a song's changes. Many mappers separate large sections of music with bookmarks to easily coordinate changes in their mapping.
 - Try reading the site's wiki, asking a question in `#modhelp`, or posting on the [Beatmap Help forum](https://osu.ppy.sh/community/forums/56) if you need additional mapping information!
 - [Test your beatmap](/wiki/Client/Beatmap_editor/Test_mode) (`F5`) to identify potential gameplay problems and improvements.
 - Disable [`Grid Snapping`](/wiki/Beatmapping/Grid_snapping) if you want unhindered control of object composition. You can be extra precise by selecting objects and using the `Ctrl` + Arrow key shortcuts too.
 - When your beatmap is ready for feedback, you can upload it through the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)! Look for the `Upload Beatmap` option under the `File` dropdown menu.
 - The sampleset and addition options near the top left of the editor permit complex [hitsound](/wiki/Beatmapping/Hitsound) combinations.
-- Read the [ranking criteria](/wiki/Ranking_Criteria) on the wiki if you're aiming to [rank](/wiki/Beatmap_ranking_procedure) your beatmap!
+- Read the [ranking criteria](/wiki/Ranking_criteria) on the wiki if you're aiming to [rank](/wiki/Beatmap_ranking_procedure) your beatmap!
 - Converting a slider to a [stream](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) is a convenient way to design smooth stream shapes.
 - If you place an object after a spinner, try to leave enough time between them for players to readjust their aim.
 - Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#special-commands.2)" tool (`Ctrl` + `Shift` + `D`).

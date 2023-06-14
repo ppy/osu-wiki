@@ -28,7 +28,7 @@ Le jeu à la souris a tendance à se battre avec :
 
 ### Jouer avec une tablette
 
-Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. Si vous avez l'intention d'acheter une tablette pour jouer à osu!, consultez le guide [Achat de la tablette](/wiki/Guides/Tablet_Purchase). De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
+Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. Si vous avez l'intention d'acheter une tablette pour jouer à osu!, consultez le guide [Achat de la tablette](/wiki/Guides/Tablet_purchase). De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
 
 - Il n'y a pas de dérive du curseur.
 - Une précision des mouvements et vitesse.
@@ -84,7 +84,7 @@ N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une
 
 ### Global Offset
 
-*Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Client/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 

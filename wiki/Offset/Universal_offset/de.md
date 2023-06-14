@@ -8,7 +8,7 @@ tags:
 # Universales Offset
 
 *Für andere Bedeutungen, siehe [Offset](/wiki/Offset).*\
-*Für eine Schritt-für-Schritt-Anleitung wie man das universale Offset auf den richtigen Wert einstellt, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).*
+*Für eine Schritt-für-Schritt-Anleitung wie man das universale Offset auf den richtigen Wert einstellt, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_use_the_Offset_Wizard).*
 
 **Universales Offset** (oder **globales Offset**) ist eine [Einstellung](/wiki/Client/Options), die das Erscheinen von [Hit-Objekten](/wiki/Gameplay/Hit_object) im Bezug auf das Audio aller [Beatmaps](/wiki/Beatmap) verschiebt. Dies kann für Spieler mit auditiven oder visuellen Verzögerungen hilfreich sein. Das universale Offset bildet gemeinsam mit dem [lokalen Offset](/wiki/Offset/Local_offset) einen Gesamtversatz.
 

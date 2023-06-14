@@ -5,13 +5,13 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 # osu! 랭크 기준
 
-***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
+***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_criteria)의 연장입니다.***
 
-이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용-(general-terms))을 제시합니다.
+이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_criteria#일반-용-(general-terms))을 제시합니다.
 
 ## 종합
 
-전반적인 규칙과 가이드라인은 모든 osu! 난이도에 적용됩니다. 박자 관련 규칙과 가이드라인은 180bpm 및 4/4박자를 기준으로 하여 적용됩니다. 만약 노래가 이보다 급격하게 느리거나 빠를 경우, 몇몇 수치들은 [랭크 기준에 따른 BPM 스케일](/wiki/Ranking_Criteria/Scaling_BPM)에 따라 달라질 수 있습니다.
+전반적인 규칙과 가이드라인은 모든 osu! 난이도에 적용됩니다. 박자 관련 규칙과 가이드라인은 180bpm 및 4/4박자를 기준으로 하여 적용됩니다. 만약 노래가 이보다 급격하게 느리거나 빠를 경우, 몇몇 수치들은 [랭크 기준에 따른 BPM 스케일](/wiki/Ranking_criteria/Scaling_BPM)에 따라 달라질 수 있습니다.
 
 ### 일반
 
@@ -52,11 +52,11 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 ## 특정 난이도
 
-특정 난이도 규칙과 가이드라인은 아래에 명시되어 있는 난이도들에만 적용되며 *모든 난이도에 적용되는 것은 **아닙니다***. 박자 관련 규칙과 가이드라인은 대략 180bpm의 비트맵을 기준으로 적용됩니다. 만약 노래가 이보다 급격하게 빠르거나 느릴 경우, 몇몇 수치들은 바뀌어 적용될 수 있습니다. 이는 [랭크 기준에 따른 BPM 스케일](/wiki/Ranking_Criteria/Scaling_BPM)을 참고하세요.
+특정 난이도 규칙과 가이드라인은 아래에 명시되어 있는 난이도들에만 적용되며 *모든 난이도에 적용되는 것은 **아닙니다***. 박자 관련 규칙과 가이드라인은 대략 180bpm의 비트맵을 기준으로 적용됩니다. 만약 노래가 이보다 급격하게 빠르거나 느릴 경우, 몇몇 수치들은 바뀌어 적용될 수 있습니다. 이는 [랭크 기준에 따른 BPM 스케일](/wiki/Ranking_criteria/Scaling_BPM)을 참고하세요.
 
 ### 난이도명
 
-*주 문서: [난이도명](/wiki/Ranking_Criteria/Difficulty_naming)*
+*주 문서: [난이도명](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

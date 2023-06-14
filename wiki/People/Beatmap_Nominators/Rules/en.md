@@ -13,7 +13,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 ## Conduct
 
 - **Do not follow any unfinalised rules or amendments.**
-- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
+- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
 - **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any osu! team (BN, NAT or otherwise) involved in the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 ## Activity
@@ -39,7 +39,7 @@ Each mode has its own required minimum for monthly activity.
 
 ## Nomination
 
-- **Do not nominate beatmaps with unrankable issues.** The [General Ranking Criteria](/wiki/Ranking_Criteria) and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
+- **Do not nominate beatmaps with unrankable issues.** The [General Ranking Criteria](/wiki/Ranking_criteria) and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
 - **Do not nominate beatmaps that you contributed to.** This includes any major contribution such as mapping, hitsounding, storyboarding, skinning, or slider velocity editing.
 - **Do not nominate a beatmap without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously grey area/unrankable issues, quality issues or complex timing.

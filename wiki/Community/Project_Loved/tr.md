@@ -37,9 +37,9 @@ Birçok [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#yapım-aşam
 
 Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorundadır:
 
-- [Derecelendirme Kriterlerinin Metaveri kısmı](/wiki/Ranking_Criteria#metadata)
-- [Şarkı İçeriği Kuralları](/wiki/Rules/Song_Content_Rules)
-- [Görsel İçerik Hususları](/wiki/Rules/Visual_Content_Considerations)
+- [Derecelendirme Kriterlerinin Metaveri kısmı](/wiki/Ranking_criteria#metadata)
+- [Şarkı İçeriği Kuralları](/wiki/Rules/Song_content_rules)
+- [Görsel İçerik Hususları](/wiki/Rules/Visual_content_considerations)
 
 Ek olarak, şarkının ses kalitesini kabul edilebilir bir seviyede tutmak adına, beatmapin ses dosyaları 192kbps bit oranından yüksek olmaksızın mümkün olan en kaliteli kaynaktan edinilmelidir.
 

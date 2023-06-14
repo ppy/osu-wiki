@@ -5,13 +5,13 @@ outdated_translation: true
 
 # Critères de classement d'osu!
 
-***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Ces **critères de classement d'osu!** définissent les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques au mode [osu!](/wiki/Game_mode/osu!) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Ces **critères de classement d'osu!** définissent les [règles et directives](/wiki/Ranking_criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques au mode [osu!](/wiki/Game_mode/osu!) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
-Les règles et directives globales s'appliquent à tous les types de difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives globales s'appliquent à tous les types de difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Général
 
@@ -51,11 +51,11 @@ Les règles et directives globales s'appliquent à tous les types de difficulté
 
 ## Spécifique à une difficulté
 
-Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de la difficulté pour lesquelles elles sont listées et ne s'appliquent donc pas à **toutes** les difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de la difficulté pour lesquelles elles sont listées et ne s'appliquent donc pas à **toutes** les difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

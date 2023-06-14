@@ -41,7 +41,7 @@ Estas regras tem o propósito de manter a comunidade do osu! divertida e agradá
 
 ## Regras de Envio de Beatmap
 
-*Nota: Essas regras se aplicam a **todos os mapas enviados**, não só para os Ranqueados. Para mais regras específicas a respeito de beatmaps Ranqueados, veja a [Ranking Criteria](/wiki/Ranking_Criteria).*
+*Nota: Essas regras se aplicam a **todos os mapas enviados**, não só para os Ranqueados. Para mais regras específicas a respeito de beatmaps Ranqueados, veja a [Ranking Criteria](/wiki/Ranking_criteria).*
 
 Estas regras se aplicam aos beatmaps enviados pelo [Sistema de Envio de Beatmaps](/wiki/Beatmapping/Beatmap_submission). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/Client/Beatmap_editor).
 

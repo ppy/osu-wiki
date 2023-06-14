@@ -49,9 +49,9 @@ layout: main_page
 
 Всі бітмапи osu! створенні багатою уявою її динамічної спільноти. Ви завжди хотіли поділитися вашою улюбленою музикою з іншими, але ніколи не знали як? Ознайомтеся з вбудованим редактором і можиливостями, які він пропонує.
 
-Секції: [Створення](/wiki/Client/Beatmap_editor/Compose) • [Дизайн](/wiki/Client/Beatmap_editor/Design) • [Таймінг](/wiki/Client/Beatmap_editor/Timing) • [Налаштування пісні](/wiki/Client/Beatmap_editor/Song_Setup)
+Секції: [Створення](/wiki/Client/Beatmap_editor/Compose) • [Дизайн](/wiki/Client/Beatmap_editor/Design) • [Таймінг](/wiki/Client/Beatmap_editor/Timing) • [Налаштування пісні](/wiki/Client/Beatmap_editor/Song_setup)
 
-Компоненти: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Поділ шкали часу](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Прив\'язка відстані](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню](/wiki/Client/Beatmap_editor/Menu) • [Завантаження СБ](/wiki/Client/Beatmap_editor/SB_Load) • [Шкали часу](/wiki/Client/Beatmap_editor/Timelines)
+Компоненти: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Поділ шкали часу](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Прив\'язка відстані](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню](/wiki/Client/Beatmap_editor/Menu) • [Завантаження СБ](/wiki/Client/Beatmap_editor/SB_load) • [Шкали часу](/wiki/Client/Beatmap_editor/Timelines)
 
 Активності: [Мапінг](/wiki/Beatmapping) • [Техніки мапінгу](/wiki/Beatmapping/Mapping_techniques) • [Сторібординг](/wiki/Storyboard#storyboarding) • [Створення скінів](/wiki/Skinning)
 
@@ -64,7 +64,7 @@ layout: main_page
 
 [Публікація](/wiki/Beatmapping/Beatmap_submission) • [Модинг](/wiki/Modding) • [Процедура ранкінгу мапи](/wiki/Beatmap_ranking_procedure) • [Гільдія Маперів](/wiki/Community/Mappers_Guild) • [Проект "Улюблені"](/wiki/Community/Project_Loved)
 
-[Рейтингові критерії](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Рейтингові критерії](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -73,9 +73,9 @@ layout: main_page
 
 Прочитайте про процедури та правила, які підтримують osu! та її спільноту безпечною. Починаючи від ліцензування музики і рекомендацій медіа до правил чатів та форумів.
 
-[Правила](/wiki/Rules) • [Кодекс Поведінки Контрибуторів](/wiki/Rules/Contributor_Code_of_Conduct) • [Кодекс Поведінки для модингу і мапінгу](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Кодекс Поведінки Контрибуторів](/wiki/Rules/Contributor_code_of_conduct) • [Кодекс Поведінки для модингу і мапінгу](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Регуляції медіа: [Рекомендації використання вмісту](/wiki/Rules/Content_Usage_Guidelines) • [Процес голосування за вміст](/wiki/Rules/Content_Voting_Process) • [Відвертий вміст](/wiki/Rules/Explicit_Content) • [Правила вмісту пісень](/wiki/Rules/Song_Content_Rules) • [Міркування щодо візуального вмісту](/wiki/Rules/Visual_Content_Considerations)
+Регуляції медіа: [Рекомендації використання вмісту](/wiki/Rules/Content_usage_guidelines) • [Процес голосування за вміст](/wiki/Rules/Content_voting_process) • [Відвертий вміст](/wiki/Rules/Explicit_content) • [Правила вмісту пісень](/wiki/Rules/Song_content_rules) • [Міркування щодо візуального вмісту](/wiki/Rules/Visual_content_considerations)
 
 [Легальні сторінки](/wiki/Legal): [Правила використання](/wiki/Legal/Terms) • [Приватність](/wiki/Legal/Privacy) • [Авторське право (DMCA)](/wiki/Legal/Copyright) • [Ліцензування музики](/wiki/Legal/Music_licensing)
 
@@ -134,7 +134,7 @@ osu! не існувала би без допомоги великої кіль�
 
 Майже як і все інше тут, osu! вікі написана і підтримується волонтерами. Порадьте покращення, повідомте про помилку, або навіть напишіть власну статтю на [osu-wiki GitHub репозиторії](https://github.com/ppy/osu-wiki).
 
-[Історія osu!](/wiki/History_of_osu!) • [Онлайн історія ранкінгу](/wiki/History_of_osu!/Online_rankings) • [Історія osu! вікі](/wiki/History_of_osu!/osu!_wiki) • [Іторія мапінгу і модингу](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Квітневі Дурні](/wiki/History_of_osu!/April_Fools)
+[Історія osu!](/wiki/History_of_osu!) • [Онлайн історія ранкінгу](/wiki/History_of_osu!/Online_rankings) • [Історія osu! вікі](/wiki/History_of_osu!/osu!_wiki) • [Іторія мапінгу і модингу](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Квітневі Дурні](/wiki/History_of_osu!/April_Fools)
 
 [Карта сайту](/wiki/Sitemap) • [Гайд по внеску](/wiki/osu!_wiki/Contribution_guide) • [Критерії стилізації статтей](/wiki/Article_styling_criteria) • [Критерії стилізації новин](/wiki/News_styling_criteria)
 

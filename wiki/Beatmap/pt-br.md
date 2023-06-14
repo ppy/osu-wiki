@@ -23,7 +23,7 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 
 *Artigo principal: [Dificuldade](/wiki/Beatmap/Difficulty)*
 
-Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/Client/File_formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmap/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
+Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/Client/File_formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmap/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
 
 ## Envio
 
@@ -54,7 +54,7 @@ Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao l
 - [Aprovado](Category#aprovados)
 - [Loved](Category#amados)
 
-Algumas categorias têm [critérios de envio](/wiki/Ranking_Criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#amados).
+Algumas categorias têm [critérios de envio](/wiki/Ranking_criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#amados).
 
 ## Baixando beatmaps
 

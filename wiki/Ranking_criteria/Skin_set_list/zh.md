@@ -5,7 +5,7 @@ outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
 
 # 皮肤组列表
 
-*父页面： [Ranking criteria](/wiki/Ranking_Criteria)*
+*父页面： [Ranking criteria](/wiki/Ranking_criteria)*
 
 以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/community/forums/topics/480331) 起草，由 Ephemeral 命名。
 

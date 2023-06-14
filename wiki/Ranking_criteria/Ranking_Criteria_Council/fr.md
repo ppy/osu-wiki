@@ -1,6 +1,6 @@
 # Ranking Criteria Council
 
-Le **Ranking Criteria Council** était un groupe d'utilisateurs chargé de retravailler les [Critères de classement](/wiki/Ranking_Criteria) en 2016.
+Le **Ranking Criteria Council** était un groupe d'utilisateurs chargé de retravailler les [Critères de classement](/wiki/Ranking_criteria) en 2016.
 
 La plupart des règles appliquées par la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) lors de l'évaluation des beatmaps n'étaient pas écrites et il n'existait pas de critères spécifiques aux modes à l'époque. Cela a conduit à des disqualifications répétées que la communauté de mapping considérait comme injustifiées, de sorte que le Ranking Criteria Council visait à amener tout le monde sur un terrain d'entente.
 

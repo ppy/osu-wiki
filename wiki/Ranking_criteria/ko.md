@@ -11,7 +11,7 @@ outdated_translation: true
 
 이 문서의 규칙과 가이드라인은 [랭킹 크리테리아 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[랭킹 크리테리아 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)*을 참조하세요. 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
-**[매핑 및 모딩에 관한 Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) 및 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 랭킹 크리테리아의 일부이며, 모든 모드에 적용되는 사실에 유의하시기를 바랍니다.**
+**[매핑 및 모딩에 관한 Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) 및 [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules)도 랭킹 크리테리아의 일부이며, 모든 모드에 적용되는 사실에 유의하시기를 바랍니다.**
 
 ## 도구
 
@@ -36,17 +36,17 @@ outdated_translation: true
 
 - **어떤 히트 오브젝트도 같은 틱에 2개 이상 놓일 수 없습니다.** 이것은 히트 서클, 슬라이더의 끝과 시작 지점, 스피너의 끝과 시작 지점을 포함합니다. 단, osu!mania 비트맵은 해당되지 않습니다.
 - **히트 서클과 다음 오브젝트 사이에는 최소 10ms, 슬라이더 끝과 다음 오브젝트 사이에는 최소 20ms의 시간이 있어야 합니다.** osu!mania와 osu!catch 난이도는 예외로 합니다.
-- **[배경](/wiki/Beatmap/Background)/스토리보드/비디오 콘텐츠에 음란한 이미지가 없어야 합니다.** 음란한 이미지에는 과도한 노출, 누드에 가까운 것, 성적인 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_Content_Considerations)을 참조하세요.
+- **[배경](/wiki/Beatmap/Background)/스토리보드/비디오 콘텐츠에 음란한 이미지가 없어야 합니다.** 음란한 이미지에는 과도한 노출, 누드에 가까운 것, 성적인 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_content_considerations)을 참조하세요.
 - **반복적인 스트로브와, 맥동하는 이미지, 또는 스토리보드나 비디오의 대조, 밝기 또는 색상의 급격한 변화를 포함하는 스토리보드나 비디오를 사용하는 비트맵은 광과민성 발작 경고 (Epilepsy warning)를 사용해야 합니다.** 경고가 게임 플레이를 방해할 경우 오디오 리드인 (Audio lead-in)을 더 길게 해야 합니다. 3Hz 이하의 스트로브 효과 (즉, 초당 3번의 반짝임)는 문제를 일으킬 가능성이 없습니다. 확신이 없을 경우 경고를 추가한 뒤 이것이 꼭 필요한지 모딩 과정을 통해 확인받아주세요.
 - **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안 됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 `thumbs.db` 파일은 유일한 예외로 둡니다.
 - **[브레이크 타임](/wiki/Beatmap/Break)은 반드시 [비트맵 에디터](/wiki/Client/Beatmap_editor)의 제한 내에서 삽입되어야 합니다.**
-- **[난이도 설정](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Client/Beatmap_editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안 됩니다.**
+- **[난이도 설정](/wiki/Client/Beatmap_editor/Song_setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Client/Beatmap_editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안 됩니다.**
 - **`Letterbox during breaks` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
 - **비트맵이 다른 매체에 대한 스포일러를 포함하고 있다면 비트맵 설명에 스포일러 경고 표시가 필요합니다.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
 
 ### 가이드라인
 
-- **비트맵 설명에 비트맵에서 사용된 콘텐츠의 창작자를 명시해야 합니다.** [콘텐츠 사용 가이드라인](/wiki/Rules/Content_Usage_Guidelines)에 따라, 비트맵에 사용된 콘텐츠는 osu!에서 사용할 수 있도록 허가를 받아야 하며 창작자가 설정한 라이선스에 맞추어 명시해야 합니다. 출처를 찾기 어렵거나 창작자가 출처 명시를 원치 않은 경우, 혹은 아티스트, 제목, 출처 필드에 명시되어 있다면 추가로 명시하지 않아도 됩니다.
+- **비트맵 설명에 비트맵에서 사용된 콘텐츠의 창작자를 명시해야 합니다.** [콘텐츠 사용 가이드라인](/wiki/Rules/Content_usage_guidelines)에 따라, 비트맵에 사용된 콘텐츠는 osu!에서 사용할 수 있도록 허가를 받아야 하며 창작자가 설정한 라이선스에 맞추어 명시해야 합니다. 출처를 찾기 어렵거나 창작자가 출처 명시를 원치 않은 경우, 혹은 아티스트, 제목, 출처 필드에 명시되어 있다면 추가로 명시하지 않아도 됩니다.
 - **다른 랭크맵에 사용된 자신의 난이도를 그대로 재사용 하지 마세요.** 이는 불필요하게 랭크 콘텐츠가 부풀려지는 것을 피하기 위해서입니다.
 - **[슬라이더 틱 레이트](/wiki/Beatmapping/Slider_tick_rate)는 `.osu` 파일을 통해 수정해서는 안 됩니다.** 대부분의 사용자 지정 값은 슬라이더 틱이 언스냅 되게 합니다, 하지만 틱 레이트 0.5, 1.333 및 1.5는 실제적인 용도가 존재하므로 슬라이더 틱이 언스냅 되게 하지 않을 때만 사용이 가능합니다.
 - **[키아이](/wiki/Gameplay/Kiai_time)는 음악에서 소리가 있는 부분에서 시작되어야 합니다.** 그렇게 하지 않으면 키아이 플래시가 곡과 연관이 되어 있지 않은 느낌을 주게 됩니다.
@@ -175,7 +175,7 @@ outdated_translation: true
 
 ### 규칙
 
-- **반드시 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [#/8 박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_Songs_With_8-Signatures)를 참조해 주세요.
+- **반드시 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [#/8 박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_songs_with_8-signatures)를 참조해 주세요.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Music_theory/Tempo)과 [오프셋](/wiki/Offset)이 곡과 완벽하게 싱크 되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크나 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
 - **[상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Music_theory/Tempo)과 [오프셋](/wiki/Offset)을 가져야 합니다.
 - **어떠한 난이도에도 불필요한 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
@@ -248,10 +248,10 @@ outdated_translation: true
 ### 규칙
 
 - **커뮤니티의 다른 유저에 의해 만들어진 스킨 요소를 사용하는 경우 사전에 제작자의 허가를 받아야 합니다.** 다른 사람들의 창작물을 존중하는 것은 매우 중요하며, 대부분의 사람들은 그들의 창작물이 당신의 프로젝트에 사용되는 것을 기뻐할 것입니다. 따라서, 만약 당신이 사용하려는 요소의 제작자를 모른다면, 그것을 사용해서는 안 됩니다.
-- **[게임 플레이 요소](/wiki/Ranking_Criteria/Skin_Set_List)는 반드시 보여야 합니다.** 비트맵을 비 직관적이거나 플레이가 불가능하도록 만들 수 있기 때문에 비트맵 플레이성을 악화시킬 수 있는 요소를 투명하게 해서는 안 됩니다.(`cursormiddle.png` 파일은 커서 트레일의 동작에 영향을 미치기 때문에 예외입니다). 게임 플레이와 관련이 없는 요소는 이에 대한 타당한 이유가 있으며, 인터페이스 요소 등의 사용을 불편하게 하지 않는 경우에 투명화할 수 있습니다.
+- **[게임 플레이 요소](/wiki/Ranking_criteria/Skin_set_list)는 반드시 보여야 합니다.** 비트맵을 비 직관적이거나 플레이가 불가능하도록 만들 수 있기 때문에 비트맵 플레이성을 악화시킬 수 있는 요소를 투명하게 해서는 안 됩니다.(`cursormiddle.png` 파일은 커서 트레일의 동작에 영향을 미치기 때문에 예외입니다). 게임 플레이와 관련이 없는 요소는 이에 대한 타당한 이유가 있으며, 인터페이스 요소 등의 사용을 불편하게 하지 않는 경우에 투명화할 수 있습니다.
 - **스킨 요소들은 주위에 지저분하게 픽셀화 된 아티팩트가 없거나 반쯤 자른 그림자가 없도록 깨끗이 잘려야 합니다.**
 - **스킨 요소들은 기본 스킨에서 일반적으로 겹치지 않는 것들이 겹치게 하는 수준으로 커서는 안 됩니다.** 이는 원래 보여야 할 요소를 가려서 게임 플레이 경험을 왜곡시킬 수 있는 이미지의 보이는 부분에만 적용됩니다.
-- **[게임 플레이 요소](/wiki/Ranking_Criteria/Skin_Set_List)에 스킨을 적용할 때, 유저 스킨과 비트맵 스킨이 충돌하는 것을 막기 위해 완전한 셋의 요소들에 스킨이 적용되어야 합니다.** Optional로 표시된 요소에 스킨을 적용할 경우 해당하는 셋의 Required 요소들을 모두 같이 포함해야 하지만, 다른 Optional 요소는 스킨을 적용한 요소와 그룹 지어진 게 아니라면 생략해도 됩니다. 단, 셋의 Required 스킨 요소가 사용되지 않을 것이거나 기본 스킨이 강제 적용된다면 그 요소를 포함할 필요는 없습니다.
+- **[게임 플레이 요소](/wiki/Ranking_criteria/Skin_set_list)에 스킨을 적용할 때, 유저 스킨과 비트맵 스킨이 충돌하는 것을 막기 위해 완전한 셋의 요소들에 스킨이 적용되어야 합니다.** Optional로 표시된 요소에 스킨을 적용할 경우 해당하는 셋의 Required 요소들을 모두 같이 포함해야 하지만, 다른 Optional 요소는 스킨을 적용한 요소와 그룹 지어진 게 아니라면 생략해도 됩니다. 단, 셋의 Required 스킨 요소가 사용되지 않을 것이거나 기본 스킨이 강제 적용된다면 그 요소를 포함할 필요는 없습니다.
 
 ### 가이드라인
 
@@ -299,6 +299,6 @@ outdated_translation: true
 ## 참조
 
 [^character-voice-actor]: `CV` (Character Voice)는 캐릭터의 성우가 캐릭터로써 노래를 부를 때 사용합니다. `VO` (Voice Over)는 캐릭터의 성우가 아닌 다른 사람이 캐릭터로써 노래를 부를 때 사용합니다.
-[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_Criteria#규칙.7)을 따를 수 있습니다.
+[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_criteria#규칙.7)을 따를 수 있습니다.
 [^normal-vs-addition]: [히트 사운드](/wiki/Beatmapping/Hitsound)는 항상 표현되는 *hitnormal* 샘플과 휘슬, 피니시, 클랩 샘플의 조합인 *additions*로 구성됩니다.
 [^songs-comp-note]: 다음 규칙은 [송 컴필레이션](/wiki/Beatmap/Song_compilation)에는 적용되지 않습니다.

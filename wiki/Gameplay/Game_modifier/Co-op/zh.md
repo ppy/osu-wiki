@@ -17,7 +17,7 @@ tags:
 
 ![Co-op 模组图标](/wiki/shared/mods/CP.png "Co-op (CO) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与[多人游戏](/wiki/Client/Interface/Multiplayer)混淆。*
 
 ## 关于
@@ -32,7 +32,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名。*
 
-**Co-op** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，基于目前的 *x*K 设置（例如 7K -> 7K + 7K = 14K）引入第二个游玩区域，使用第二套控制设置。对于 osu!mania 特定[谱面](/wiki/Beatmap)，会将 *x*K 均分（例如 7K -> 4K + 3K = 7K）。
+**Co-op** [游戏模组](/wiki/Gameplay/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，基于目前的 *x*K 设置（例如 7K -> 7K + 7K = 14K）引入第二个游玩区域，使用第二套控制设置。对于 osu!mania 特定[谱面](/wiki/Beatmap)，会将 *x*K 均分（例如 7K -> 4K + 3K = 7K）。
 
 ![osu!mania 特定谱面中 Co-op 模组下的游玩比较](img/CP-comparison-mania-specific-beatmap.jpg "osu!mania 特定谱面中，普通模式（左图）与启用 Co-op 模组（右图）的比较")
 

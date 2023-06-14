@@ -2,7 +2,7 @@
 
 ![](img/beat_snap_divisor.png "谱面编辑器中的节拍细分设置")
 
-**音符时值 (Beat Snap Devisor)** 是一项编辑器设置，用来决定编辑器在基于[节拍固定](/wiki/Client/Beatmap_editor/Beat_Snap)设置上量化[打击物件](/wiki/Hit_object)的行为。你可以在编辑器界面的右上部找到此设置，在那里它与[时间轴](/wiki/Client/Beatmap_editor/Timelines)上物件的密度相对应。也就是说，音符时值越小，同一段时间内就可以放置更多的物件，反之亦然。
+**音符时值 (Beat Snap Devisor)** 是一项编辑器设置，用来决定编辑器在基于[节拍固定](/wiki/Client/Beatmap_editor/Beat_snap)设置上量化[打击物件](/wiki/Gameplay/Hit_object)的行为。你可以在编辑器界面的右上部找到此设置，在那里它与[时间轴](/wiki/Client/Beatmap_editor/Timelines)上物件的密度相对应。也就是说，音符时值越小，同一段时间内就可以放置更多的物件，反之亦然。
 
 谱面编辑器支持下列 11 种不同的音符时值设置：
 

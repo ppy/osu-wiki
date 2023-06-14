@@ -1,6 +1,6 @@
 # Code of conduct for modding and mapping
 
-The **code of conduct for modding and mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [general ranking criteria](/wiki/Ranking_Criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this code of conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
+The **code of conduct for modding and mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [general ranking criteria](/wiki/Ranking_criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this code of conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
 
 ## Behaviour and conduct
 

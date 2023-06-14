@@ -16,7 +16,7 @@ Om een nieuwe beatmap te maken moet je naar de edit mode gaan en een audiobestan
 
 ### Song Setup
 
-*Hoofdpagina: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Hoofdpagina: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Tijdens het maken van een nieuwe [beatmap](/wiki/Beatmap) zul je altijd dit dialoogvenster als eerste zien voordat je verder kan.
 

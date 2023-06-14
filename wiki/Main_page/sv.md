@@ -30,14 +30,14 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # [Beatmap Editor](/wiki/Client/Beatmap_editor)
 
-Sektioner: ([Komponera](/wiki/Client/Beatmap_editor/Compose) • [Designa](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Låt Setup](/wiki/Client/Beatmap_editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Gameplay/Hit_object) • [Mappingtekniker](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
+Sektioner: ([Komponera](/wiki/Client/Beatmap_editor/Compose) • [Designa](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Låt Setup](/wiki/Client/Beatmap_editor/Song_setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Gameplay/Hit_object) • [Mappingtekniker](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Onlineredigering och Ranking
 
-[Inlämning](/wiki/Beatmapping/Beatmap_submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking kriterier](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Inlämning](/wiki/Beatmapping/Beatmap_submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking kriterier](/wiki/Ranking_criteria): ([osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

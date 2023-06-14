@@ -6,7 +6,7 @@ This set of **ranking criteria** lays out [rules and guidelines](#general-terms)
 
 Changes to the rules and guidelines in this document are proposed and discussed on the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). See *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* for help contributing. Note that changes to this document's language, grammar, or organisation can skip being posted to the forum as long as they don't change the meaning of rules or guidelines.
 
-**Keep in mind that the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as the [song content rules](/wiki/Rules/Song_Content_Rules) are part of the ranking criteria and apply to all game modes.**
+**Keep in mind that the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), as well as the [song content rules](/wiki/Rules/Song_content_rules) are part of the ranking criteria and apply to all game modes.**
 
 ## Tools
 
@@ -31,17 +31,17 @@ Important to understand before using:
 
 - **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
 - **There must be at least 10 milliseconds between a hit circle and the next object, and at least 20 milliseconds between the end of a slider and the next object.** osu!mania and osu!catch difficulties are exempt from this.
-- **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
+- **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) for more detailed rules.
 - **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
 - **[Break times](/wiki/Beatmap/Break) must be inserted with the restrictions of the [beatmap editor](/wiki/Client/Beatmap_editor).**
-- **[Difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Client/Beatmap_editor).**
+- **[Difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Client/Beatmap_editor).**
 - **The `Letterbox during breaks` setting must be consistent between difficulties of the same mode if they contain break periods and if included, the same storyboard.**
 - **Beatmaps containing spoilers for other media must be marked with a spoiler warning in the beatmap's description.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
 
 ### Guidelines
 
-- **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
+- **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
 - **Directly re-using your own Ranked difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
@@ -54,7 +54,7 @@ Important to understand before using:
 ### Rules
 
 - **All game modes within a beatmap must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Beatmap/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
-- **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_Criteria/osu!mania) ranking criteria for more information.
+- **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_criteria/osu!mania) ranking criteria for more information.
 - **Every difficulty of a beatmap must have a minimum [drain time](/wiki/Beatmap/Drain_time) of 30 seconds.**
 - **A beatmap of 2 songs combined together must follow the minimum spread requirements corresponding to the length of the longer song.**[^songs-comp-note] This is to avoid artificial extension of songs as an evasion of the above time limitations. Exceptions can be made for songs that were exclusively released together.
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
@@ -172,7 +172,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with #/8-signatures](/wiki/Guides/Timing_Songs_With_8-Signatures) guide for further information.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with #/8-signatures](/wiki/Guides/Timing_songs_with_8-signatures) guide for further information.
 - **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Music_theory/Tempo) and offset of each [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Music_theory/Tempo) and offset in each difficulty.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) should only be used when required for timing purposes.** Unnecessary timing points may unintentionally affect main-menu pulsing, add unwanted sounds to the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore), or cause timing to shift. Acceptable uses include:
@@ -245,10 +245,10 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
-- **[Gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (`cursormiddle.png` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
+- **[Gameplay elements](/wiki/Ranking_criteria/Skin_set_list) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (`cursormiddle.png` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
 - **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
 - **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
-- **When skinning [gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List), complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include.
+- **When skinning [gameplay elements](/wiki/Ranking_criteria/Skin_set_list), complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include.
 
 ### Guidelines
 
@@ -296,6 +296,6 @@ This category contains explicit allowance statements of concepts and rules that 
 ## Notes
 
 [^character-voice-actor]: `CV` (Character Voice) is used when song is sung in character by the character's voice actor. `VO` (Voice Over) is used when a song is sung in character by someone other than the character's voice actor.
-[^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
+[^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_criteria#rules.7) instead.
 [^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hitnormal* sample, and any combination of whistle, finish, or clap sample *additions*.
 [^songs-comp-note]: The following rule does not apply to [song compilations](/wiki/Beatmap/Song_compilation).

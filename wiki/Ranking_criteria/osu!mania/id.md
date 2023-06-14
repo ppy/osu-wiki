@@ -5,15 +5,15 @@ outdated_translation: true
 
 # Ranking criteria osu!mania
 
-***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_criteria).***
 
-**Ranking criteria osu!mania** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!mania](/wiki/Game_mode/osu!mania) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+**Ranking criteria osu!mania** menjabarkan [aturan dan pedoman](/wiki/Ranking_criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!mania](/wiki/Game_mode/osu!mania) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -51,11 +51,11 @@ outdated_translation: true
 - **Stream**: Note konstan dengan interval yang sama setidaknya untuk satu ketukan yang tidak dilakukan secara berulang sehingga tidak menciptakan minijack.
 - **Trill**: Lebih dari dua note ditekan secara bergantian diantara dua kolom.
 
-Kunjungi [Panduan Mapping osu!mania](/wiki/Guides/osu!mania_Mapping_Guide) untuk melihat istilah dari pola lainnya.
+Kunjungi [Panduan Mapping osu!mania](/wiki/Guides/osu!mania_mapping_guide) untuk melihat istilah dari pola lainnya.
 
 ## Keseluruhan
 
-Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulitan osu!mania. Aturan dan pedoman yang terkait dengan ritme berlaku untuk beatmap yang memiliki BPM sekitar 180 dengan ketukan 4/4. Jika lagu Anda memiliki tempo lebih cepat atau lambat secara drastis, beberapa variabel mungkin berbeda, seperti yang tertera pada artikel [Penskalaan BPM di ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulitan osu!mania. Aturan dan pedoman yang terkait dengan ritme berlaku untuk beatmap yang memiliki BPM sekitar 180 dengan ketukan 4/4. Jika lagu Anda memiliki tempo lebih cepat atau lambat secara drastis, beberapa variabel mungkin berbeda, seperti yang tertera pada artikel [Penskalaan BPM di ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Peraturan
 
@@ -90,7 +90,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 
 ## Tingkat kesulitan spesifik
 
-Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kesulitan yang terdaftar dan *tidak di implementasi untuk **setiap** tingkat kesulitan osu!mania*. Aturan dan pedoman terkait ritme berlaku untuk beatmap dengan BPM 180. Jika lagu Anda lebih cepat atau lebih lambat, beberapa variabel mungkin akan jadi berbeda, seperti yang dijelaskan di artikel [Perskalaan BPM di ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kesulitan yang terdaftar dan *tidak di implementasi untuk **setiap** tingkat kesulitan osu!mania*. Aturan dan pedoman terkait ritme berlaku untuk beatmap dengan BPM 180. Jika lagu Anda lebih cepat atau lebih lambat, beberapa variabel mungkin akan jadi berbeda, seperti yang dijelaskan di artikel [Perskalaan BPM di ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 *Panduan key mode spesifik dibuat berdasarkan key mode Ranked yang paling umum digunakan (4 key and 7 key). Key mode lain harus menerapkan pedoman ini jika diharuskan.*
 
