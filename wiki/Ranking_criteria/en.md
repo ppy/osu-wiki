@@ -89,7 +89,7 @@ Important to understand before using:
   - For remixes, arrangements, or covers based upon the original song, the source of the original song should be used.
   - Website names may be used as sources when the song is tied to specific cultural phenomena related to the platform, or the song is composed as a website theme/background song.
   - In cases where a [song compilation](/wiki/Beatmap/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field (unless the compilation is prominently tied to a source itself).
-  - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
+  - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an [osu! original](/wiki/osu!_originals)), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the [Featured Artist](/wiki/People/Featured_Artists) library, `featured artist` must be added to tags.**
