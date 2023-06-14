@@ -10,7 +10,7 @@ tags:
 
 ## Description
 
-Beatmap collaborations usually have the word "Collab" or multiple usernames attached to their difficulty name or [beatmap description](/wiki/Beatmap/Beatmap_description), although it is not a strict [ranking criteria](/wiki/Ranking_Criteria) requirement. It is also common for frequent collaborators to invent amalgamations of their usernames[^name-example] and use them consistently throughout their mapping careers.
+Beatmap collaborations usually have the word "Collab" or multiple usernames attached to their difficulty name or [beatmap description](/wiki/Beatmap/Beatmap_description), although it is not a strict [ranking criteria](/wiki/Ranking_criteria) requirement. It is also common for frequent collaborators to invent amalgamations of their usernames[^name-example] and use them consistently throughout their mapping careers.
 
 The mapping process usually starts with the [beatmap host](/wiki/Beatmap/Beatmap_host) splitting a pre-[timed](/wiki/Beatmapping/Timing) beatmap template into several parts by marking them on the [timeline](/wiki/Client/Beatmap_editor/Timelines) using bookmarks according to the song's musical structure. Relatively long segments, such as verses, are usually split after every 4 or 8 [measures](/wiki/Music_theory/Measure). These parts are then assigned to each collaborator according to some agreed-upon distribution, such as by even or odd segments in the case of two mappers.
 

@@ -4,7 +4,7 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nomina
 
 Applications are conducted via the [BN website](https://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
 
 ## Basic criteria
 
@@ -58,8 +58,8 @@ The evaluators will look over the application and evaluate the applicant's moddi
 
 Applicants will be evaluated on the following criteria:
 
-- **Modding:** Knowledge of the general [ranking criteria](/wiki/Ranking_Criteria) and specific criteria of each [game mode](/wiki/Game_mode). Adherence to the [modding expectations](#modding-expectations). Additional abilities relating to metadata, timing, and some others will also be taken into consideration.
-- **General attitude:** Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
+- **Modding:** Knowledge of the general [ranking criteria](/wiki/Ranking_criteria) and specific criteria of each [game mode](/wiki/Game_mode). Adherence to the [modding expectations](#modding-expectations). Additional abilities relating to metadata, timing, and some others will also be taken into consideration.
+- **General attitude:** Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), as well as general behaviour in chat/forums.
 
 Any comments and votes from evaluators at this stage are hidden from other evaluators.
 

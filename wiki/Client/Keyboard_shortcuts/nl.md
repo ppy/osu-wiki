@@ -173,7 +173,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `F1` | Schakelt naar de [compose](/wiki/Client/Beatmap_editor/Compose) modus. |
 | `F2` | Schakelt naar de [design](/wiki/Client/Beatmap_editor/Design) modus. |
 | `F3` | Schakelt naar de [timing](/wiki/Client/Beatmap_editor/Timing) modus. |
-| `F4` | Opent de [song setup](/wiki/Client/Beatmap_editor/Song_Setup) dialoog. |
+| `F4` | Opent de [song setup](/wiki/Client/Beatmap_editor/Song_setup) dialoog. |
 | `F5` | Opent de test modus. |
 | `F6` | Opent de timing en control points dialoog. |
 | `Ctrl` + `P` | Voegt een onafhankelijk timing punt op de huidige tijdspositie. Als je niet in de timing mode zit, opent dit ook de timing en control points dialoog. |
@@ -264,7 +264,7 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
 | `Shift` (Terwijl je de tijdlijn vasthebt) | Negeert de beat snap divisor snapping. |
 | `J` | Duwt de selectie een divisor terug. |
 | `K` | Duwt de selectie een divisor vooruit. |

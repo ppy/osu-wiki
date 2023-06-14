@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8e2b3966647799ac3563ea86d1863b09941914ca
----
-
 # Veto d'une beatmap
 
 Le *veto d'une beatmap* permet à un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) d'empêcher une beatmap d'être qualifiée s'il estime qu'il existe des problèmes importants concernant la qualité de la beatmap qui la rendent impropre à la catégorie [classée](/wiki/Beatmap/Category#classée). L'une de leurs principales responsabilités est de chercher à discuter ou à clarifier tout problème de qualité qui, selon eux, doit être résolu avant que la beatmap ne puisse passer à la [qualification](/wiki/Beatmap_ranking_procedure#qualification).
@@ -32,7 +27,7 @@ Au cours de la médiation, le jury sélectionné au hasard, composé de Beatmap 
 
 Toute décision prise par les membres de ce jury doit être accompagnée d'une motivation de la décision. Si un membre ne peut pas participer, il peut être remplacé par un autre membre choisi au hasard s'il y a assez de temps pour le faire. S'il n'y a pas assez de temps, son vote sera considéré comme une abstention et sa position en tant que Beatmap Nominator pourra être remise en question en conséquence.
 
-Pour le mode de jeu osu!, ce jury est composé de 11 membres, et pour tous les autres, de 5 membres. Ces nombres sont choisis en tenant compte du nombre de Beatmap Nominators pour chaque mode de jeu.
+Ce jury est composé de 20% du nombre total des membres de la NAT et des BN, avec un minimum de 11 membres.
 
 ## Comment procéder après la médiation
 
@@ -51,3 +46,16 @@ Pour relancer une médiation qui a abouti au rejet d'un veto, un Beatmap Nominat
 Pour relancer une médiation qui a abouti à la confirmation d'un veto, il faut soit que le Beatmap Nominator change d'avis, soit que les membres du jury qui ont confirmé le veto changent d'avis au point que le résultat de la médiation aurait été différent. La médiation sera alors relancée avec un nouveau jury sélectionné au hasard.
 
 Une fois les modifications apportées à la beatmap, le Beatmap Nominator qui a exercé son veto sur la beatmap, ainsi que les membres du jury qui l'ont maintenu, seront appelés à vérifier à nouveau la beatmap et à décider individuellement si les problèmes ont été résolus de manière satisfaisante.
+
+## Contester le veto d'une beatmap
+
+Si le veto d'une beatmap est maintenu, le mappeur peut demander une autre médiation s'il remplit les critères suivants :
+
+- La dernière médiation de veto a été conclue depuis au moins un an.
+- La beatmap a actuellement 2 Beatmap Nominators qui sont prêts à la nominer, au cas où le veto serait rejeté plus tard.
+
+Pour demander une nouvelle médiation, le mappeur doit contacter un membre de la NAT du mode de jeu de la beatmap ayant fait l'objet d'un veto. Cette demande doit inclure un lien vers le post de conclusion de la médiation initiale, ainsi que les noms des 2 BN qui sont prêts à nominer la beatmap. La NAT contactera alors les 2 BN, et s'il n'y a pas de problème, la NAT ré-initialisera la médiation avec un nouveau jury sélectionné au hasard.
+
+**Si le veto est rejeté**, les 2 BN mentionnés ci-dessus peuvent nominer la beatmap. Si ces BN ne sont plus disposés à la nominer, leur position en tant que Beatmap Nominators peut être remise en question.
+
+**Si le veto est maintenu**, la beatmap ne pourra pas être à nouveau désignée tant que des changements appropriés n'auront pas été apportés pour remédier aux problèmes rencontrés, et la beatmap ne pourra pas être éligible pour une autre médiation tant que les critères susmentionnés ne seront pas à nouveau remplis.

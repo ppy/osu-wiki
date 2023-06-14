@@ -38,7 +38,7 @@ La antigua clasificación de Beatmap Nominator (BN) quedó totalmente obsoleta e
 
 Entre los cambios y anuncios realizados en torno a la clasificación de mapas, [se realizó un cambio en el proceso de clasificación](https://osu.ppy.sh/community/forums/topics/325973) el 5 de mayo de 2015 que permitió a los jugadores disputar las descalificaciones realizadas por el Equipo de Control de Calidad (QAT), debido a la falta de cualquier forma de disputar los problemas que pueda plantear el QAT. El nuevo cambio hizo posible enviar un formulario si hubiera una disputa, donde se podría tomar una decisión final con respecto a un mapa y si está listo para ser clasificado.[^osu-weekly-9]
 
-El [canal de YouTube de osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) subió su [primer video](https://www.youtube.com/watch?v=KQbudVxEjr8) al público el 8 de mayo de 2015. El canal estaba a cargo de varios miembros de la comunidad y tenía como objetivo crear videos sobre exhibiciones de skins, torneos, mapeo, concursos y otras noticias de la comunidad.[^osu-weekly-9][^osu-news-welcome]
+El [canal de YouTube de osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) subió su [primer vídeo](https://www.youtube.com/watch?v=KQbudVxEjr8) al público el 8 de mayo de 2015. El canal estaba a cargo de varios miembros de la comunidad y tenía como objetivo crear vídeos sobre exhibiciones de skins, torneos, mapeo, concursos y otras noticias de la comunidad.[^osu-weekly-9][^osu-news-welcome]
 
 El teclado osu! (también conocido como el "teclado osu! 'nono'") se agregó a la osu!store el 30 de mayo de 2015, con un precio de venta minorista de alrededor de $40 en el lanzamiento. Anunciado inicialmente en un [tweet de peppy](https://twitter.com/ppy/status/603797988742336512) el 28 de mayo de 2015, solo había 100 teclados disponibles en el lanzamiento y se parecían más a un keypad que a un teclado de tamaño completo.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
 
@@ -141,7 +141,7 @@ Unos días después (19 de noviembre de 2015), peppy actualizó a los usuarios s
 [^realtime-bn-ranking]: [Hilo del foro por p3n (04-06-2015) "Clasificación de Beatmap Nominator en tiempo real"](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [Publicación de noticia por Tasha (13-06-2015) "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
 [^osu-weekly-9]: [Publicación de noticia por Tahsa (08-05-2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
-[^osu-news-welcome]: [Video de YouTube por osu!news (08-05-2015) "Bienvenido a las osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
+[^osu-news-welcome]: [Vídeo de YouTube por osu!news (08-05-2015) "Bienvenido a las osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [Publicación de noticia por Tasha (30-05-2015) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tuit por @ppy (28-05-2015)](https://twitter.com/ppy/status/603797988742336512)
 [^ppy-blog-june-04]: [Publicación de blog por ppy (04-06-2015) "20150604 /Vocal/"](https://blog.ppy.sh/post/120685091453/20150604-vocal)

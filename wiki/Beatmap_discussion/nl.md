@@ -42,7 +42,7 @@ Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is
 
 ## Beatmaphoofding
 
-*Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
+*Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmaphoofding")
 
@@ -124,7 +124,7 @@ De `Tijdlijn` toont posts op een specifiek moment in een moeilijkheidsgraad volg
 
 Het inzendingsveld is waar [mods](/wiki/Modding) geschreven worden. Ze moeten ingezonden worden naar de discussiepagina wanneer ze klaar zijn. Dit kan gedaan worden door op één van de drie types knoppen te drukken;  `Prijs`, `Suggestie` of `Probleem`.
 
-`Prijs` wordt gebruikt voor lof en aanmoediging. `Suggestie` wordt gebruikt voor posts die niet rechtstreeks in strijd zijn met de regels. `Probleem` wordt gebruikt voor posts die in direct conflict zijn met de [Ranking Criteria](/wiki/Ranking_Criteria), of die intersubjectief als fout worden beschouwd. Wanneer je één van de knoppen indrukt wordt de mod ingezonden naar de discussiepagina.
+`Prijs` wordt gebruikt voor lof en aanmoediging. `Suggestie` wordt gebruikt voor posts die niet rechtstreeks in strijd zijn met de regels. `Probleem` wordt gebruikt voor posts die in direct conflict zijn met de [Ranking Criteria](/wiki/Ranking_criteria), of die intersubjectief als fout worden beschouwd. Wanneer je één van de knoppen indrukt wordt de mod ingezonden naar de discussiepagina.
 
 Als je post in het `Tijdlijn`-tabblad, moet je een tijdsmarkering opnemen in jouw bericht. Als jouw tijdsmarkering in de buurt is van een andere mod moet je bevestigen dat die mod niet het probleem adresseert waarvoor jij er één aan het inzenden bent. **Controleer elke post vooraleer je het vakje aankruist!** Het kan handig zijn om het moddingveld te `Pinnen` terwijl je andere problemen bekijkt. Het pinnen van het moddingveld zal ervoor zorgen dat het inzendingsveld met je mee scrolt.
 

@@ -5,7 +5,7 @@ O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Client/Be
 ## Destaques
 
 - Mostra as coordenadas de onde o cursor esta e sua orientação na linha do tempo (em milissegundos).
-- Mostra o nivel de [SB Load](/wiki/Client/Beatmap_editor/SB_Load) de todas as imagens visíveis.
+- Mostra o nivel de [SB Load](/wiki/Client/Beatmap_editor/SB_load) de todas as imagens visíveis.
 - Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](/wiki/Gameplay/Hit_object)).
 - Efeitos de manipulação principais:
   - Movement (Movimento)

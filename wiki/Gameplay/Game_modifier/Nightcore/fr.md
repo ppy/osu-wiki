@@ -34,7 +34,7 @@ tags:
 
 Le mod **Nightcore** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui fonctionne exactement de la même manière que sa variante, Double Time, mais qui augmente également la hauteur du son et ajoute une note de batterie en arrière-plan qui, en 4/4, se déroule dans l'ordre suivant : grosse caisse sur les temps 1 et 3, clap sur les temps 2 et 4, et crash sur le temps 1 toutes les 4 mesures.
 
-Le [multiplicateur de score](/wiki/Gameplay/Game_modifier/Score_multiplier) reste le même qu'avec le mod Double Time activé, et la beatmap lui-même n'est pas affecté au-delà de ce que fait le mod Double Time.
+Le [multiplicateur de score](/wiki/Gameplay/Game_modifier/Mod_multiplier) reste le même qu'avec le mod Double Time activé, et la beatmap lui-même n'est pas affecté au-delà de ce que fait le mod Double Time.
 
 Ce mod a le même effet dans tous les modes de jeu.
 

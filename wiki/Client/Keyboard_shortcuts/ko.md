@@ -179,7 +179,7 @@ Note: [멀티플레이](/wiki/Client/Interface/Multiplayer) 곡 선택 화면에
 - `F1`: [compose](/wiki/Client/Beatmap_editor/Compose) 모드로 변경
 - `F2`: [design](/wiki/Client/Beatmap_editor/Design) 모드로 변경
 - `F3`: [timing](/wiki/Client/Beatmap_editor/Timing) 모드로 변경
-- `F4`: [곡 설정](/wiki/Client/Beatmap_editor/Song_Setup) 창 열기
+- `F4`: [곡 설정](/wiki/Client/Beatmap_editor/Song_setup) 창 열기
 - `F5`: 비트맵 테스트
 - `F6`: 타이밍 설정 창 열기
 
@@ -244,7 +244,7 @@ Note: [멀티플레이](/wiki/Client/Interface/Multiplayer) 곡 선택 화면에
 
 #### 타임라인
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Client/Beatmap_editor/Beat_snap_divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
 - `Shift` 누르면서 서클 이동 (타임라인에서): 시간 그리드를 무시하고 배치 (osu!mania에서는 작동하지 않음)
 - `J`: 서클을 앞쪽 시간으로 이동
 - `K`: 서클을 뒤쪽 시간으로 이동

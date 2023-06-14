@@ -27,7 +27,7 @@ tags:
 
 ## Deskripsi
 
-**Hard Rock** merupakan [mod](/wiki/Gameplay/Game_modifier) yang berfungsi untuk meningkatkan tingkat kesulitan suatu [beatmap](/wiki/Beatmap). Mod ini akan memperkecil ukuran [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) senilai 30% serta meningkatkan [approach rate (AR)](/wiki/Beatmap/Approach_rate), [health drain (HP)](/wiki/Gameplay/Health), dan [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) yang aktif senilai 40%, dengan nilai yang berbeda-beda untuk setiap mode permainan.
+**Hard Rock** merupakan [mod](/wiki/Gameplay/Game_modifier) yang berfungsi untuk meningkatkan tingkat kesulitan suatu [beatmap](/wiki/Beatmap). Mod ini akan memperkecil ukuran [circle size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) senilai 30% serta meningkatkan [approach rate (AR)](/wiki/Beatmap/Approach_rate), [health drain (HP)](/wiki/Gameplay/Health), dan [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) yang aktif senilai 40%, dengan nilai yang berbeda-beda untuk setiap mode permainan.
 
 ### osu!
 

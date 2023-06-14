@@ -182,7 +182,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 ![Beat Snap Divisor (osu!mania)](img/BEM_BSD-FR.png "Beat Snap Divisor (osu!mania)")
 
-*Article principal  : [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
+*Article principal  : [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier musique de la beatmap.
 
@@ -219,7 +219,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Nom | Description |
 | :-- | :-- |
 | Boîte gauche | Intensité des notes (Timeline). |
-| Centre | Terrain de jeu actuel ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)). |
+| Centre | Terrain de jeu actuel ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)). |
 
 #### Colour notes
 
