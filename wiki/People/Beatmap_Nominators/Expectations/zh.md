@@ -4,10 +4,10 @@
 
 作为 osu! 社区和 osu! 团队的核心人物，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 通常相比于其他玩家要求更高。这里列出的期望是由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 讨论得出的结果。虽然这些期望几乎不可能完美达成，但如果 BN 多次严重地违反这些期望，NAT 能综合常识，逐案判断这些行为的影响和恶劣程度，并警告或者直接革职 BN。
 
-注意，BN 应时刻遵循[摸图和作图的行为规范](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)。同时，应时刻把维持上架谱面的质量当做第一要务。
+注意，BN 应时刻遵循[摸图和作图的行为规范](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)。同时，应时刻把维持上架谱面的质量当做第一要务。
 
 - **以社区的最大利益为重。** 谨慎小心地处理微妙的情况，尽可能保持正确的判断，努力从错误中吸取教训，并始终反思自己的行为是否可能对社区产生更广泛的影响。
-- **请勿滥用现投入运行的系统。** 始终参考并遵循[上架规则 (RC)](/wiki/Ranking_Criteria)，而并非忽视它。如果对现有的上架规则有疑问，应通过提案来解决。BN 也不应该恶意利用或滥用 BUG 或者奖励系统，如[分数](/wiki/Gameplay/Score)、[表现分 (pp)](/wiki/Performance_points)、[kudosu](/wiki/Modding/Kudosu)。
+- **请勿滥用现投入运行的系统。** 始终参考并遵循[上架规则 (RC)](/wiki/Ranking_criteria)，而并非忽视它。如果对现有的上架规则有疑问，应通过提案来解决。BN 也不应该恶意利用或滥用 BUG 或者奖励系统，如[分数](/wiki/Gameplay/Score)、[表现分 (pp)](/wiki/Performance_points)、[kudosu](/wiki/Modding/Kudosu)。
 - **不管是在游戏平台内或平台外，都应文明处事。** BN 的行为不应带有较大的敌意，比如煽动他人或是直接攻击贬损社区的其他成员。这尤其适用于 BN 在其他的与 osu! 相关联的社区（如 Discord 作图服务器和推特等）。
 - **常摸图。** BN 不应仅仅推动谱面上架，还应尽力改善所提名谱面的质量。而且在需要时，BN 应能够极其仔细地检查谱面。在谱面讨论区之外的摸图（如通过日志和概要）也能作为该项的评判依据。
 - **平易近人。** 处于社区的舆论中心，BN 应避免给人留下难以联系或不愿沟通的印象。但这不意味着 BN 需要接受所有的请求。

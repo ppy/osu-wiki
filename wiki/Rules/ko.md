@@ -36,7 +36,7 @@
 
 ## 비트맵 등록에 관한 규칙
 
-*참고: 이 규칙은 랭크 맵뿐만 아니라 **업로드된 모든 맵**에 적용됩니다. 랭크 맵에 관련된 보다 구체적인 규칙은 [랭킹 크리테리아](/wiki/Ranking_Criteria) 항목에서 확인하실 수 있습니다.*
+*참고: 이 규칙은 랭크 맵뿐만 아니라 **업로드된 모든 맵**에 적용됩니다. 랭크 맵에 관련된 보다 구체적인 규칙은 [랭킹 크리테리아](/wiki/Ranking_criteria) 항목에서 확인하실 수 있습니다.*
 
 이 규칙은 게임 내 [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)을 이용해 제출한 비트맵에 엄격하게 적용됩니다. 스레드는 [에디터](/wiki/Client/Beatmap_editor)를 이용해 제출했을 때 osu! 클라이언트에 의해 생성됩니다.
 

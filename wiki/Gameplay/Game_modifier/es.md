@@ -24,7 +24,7 @@ Los **modificadores de juego** (o «mods» para abreviar) son modificaciones opc
 
 Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en Opciones.
 
-En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especiales`, y pueden reducir, aumentar o eliminar el [`multiplicador de puntuación`](/wiki/Gameplay/Game_modifier/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
+En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especiales`, y pueden reducir, aumentar o eliminar el [`multiplicador de puntuación`](/wiki/Gameplay/Game_modifier/Mod_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
 
 ## Lista de mods
 

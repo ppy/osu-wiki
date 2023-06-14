@@ -39,7 +39,7 @@ Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta
 *Nota: Para denunciar un caso extremo de mala conducta o abuso sexual por parte de cualquier usuario, incluido un moderador, véase [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Inquietudes sobre el mal comportamiento de un moderador.
-- Inquietudes sobre un moderador que infringe [el Código de conducta del contribuidor](/wiki/Rules/Contributor_Code_of_Conduct).
+- Inquietudes sobre un moderador que infringe [el Código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct).
 - [Problemas de pago](/wiki/Help_centre/Account#supporter) para pedidos de la [osu!store](https://osu.ppy.sh/store/listing).
 - Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_centre/Client#online-features).
 

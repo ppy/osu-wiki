@@ -14,7 +14,7 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 Les autres positions importantes de la Project Loved Team sont : 
 
-- *Les modérateurs de contenu*, qui s'assurent que toutes les beatmaps nominées respectent les [règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules) ainsi que les [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
+- *Les modérateurs de contenu*, qui s'assurent que toutes les beatmaps nominées respectent les [règles relatives au contenu des musiques](/wiki/Rules/Song_content_rules) ainsi que les [considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations).
 - *Les réviseurs de descriptions*, qui relisent la description écrite par les capitaines pour les fautes d'orthographe et de grammaire.
 - *Les réviseurs de métadonnées*, qui s'assurent que les métadonnées des beatmaps nominées sont correctes.
 

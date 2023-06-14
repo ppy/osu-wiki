@@ -41,7 +41,7 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 ## Beatmap header
 
-*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
+*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmap header")
 
@@ -123,7 +123,7 @@ Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis 
 
 Tempat pengajuan adalah sebuah tempat untuk menulis [mod](/wiki/Modding). Setelah ditulis, mod harus dikirim ke laman diskusi. Ini dapat dilakukan dengan menekan salah satu dari tiga tombol jenis; `Pujian`, `Saran` atau `Masalah`.
 
-`Pujian` digunakan untuk pujian dan dorongan. `Saran` digunakan untuk postingan yang secara langsung tidak bertentangan dengan aturan apa pun. `Masalah` digunakan untuk postingan yang berkonflik langsung dengan [Kriteria Ranking](/wiki/Ranking_Criteria), atau yang dianggap salah secara intersubjektif. Setelah tombol ditekan, mod akan dikirim ke laman diskusi.
+`Pujian` digunakan untuk pujian dan dorongan. `Saran` digunakan untuk postingan yang secara langsung tidak bertentangan dengan aturan apa pun. `Masalah` digunakan untuk postingan yang berkonflik langsung dengan [Kriteria Ranking](/wiki/Ranking_criteria), atau yang dianggap salah secara intersubjektif. Setelah tombol ditekan, mod akan dikirim ke laman diskusi.
 
 Jika kamu memposting di tab `Linimasa`, kamu harus menyertakan timestamp di postingan kamu. Jika timestamp kamu dekat dengan mod lain, kamu harus konfirmasi bahwa timestamp tersebut tidak berhubungan dengan mod yang ada didekat timestamp kamu. **Periksa setiap postingan sebelum mencentang kotaknya!** Ini mungkin bermanfaat untuk `Pin` di tempat modding sambil memeriksa masalah lain. Mengaktifkan pin akan memungkinkan tempat pengajuan untuk pindah langsung ke tempat yang sudah di pin.
 

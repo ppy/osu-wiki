@@ -29,7 +29,7 @@ no_native_review: true
 
 ## Beschreibung
 
-Die Mod **Hard Rock** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, die Schwierigkeit anhand der meisten Aspekte einer [Beatmap](/wiki/Beatmap) zu erhöhen. Allgemein wird dies dadurch erreicht, dass die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) um 30 %, die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate) um 40 %, der [Gesundheitsverlust (HP)](/wiki/Gameplay/Health) um 40 % und die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) um 40 % angehoben werden, allerdings variieren die Einzelheiten für jeden Spielmodus.
+Die Mod **Hard Rock** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, die Schwierigkeit anhand der meisten Aspekte einer [Beatmap](/wiki/Beatmap) zu erhöhen. Allgemein wird dies dadurch erreicht, dass die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) um 30 %, die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate) um 40 %, der [Gesundheitsverlust (HP)](/wiki/Gameplay/Health) um 40 % und die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) um 40 % angehoben werden, allerdings variieren die Einzelheiten für jeden Spielmodus.
 
 ### osu!
 

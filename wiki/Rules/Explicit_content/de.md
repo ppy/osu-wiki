@@ -4,11 +4,11 @@
 
 Mapper können den Inhalt ihrer Beatmap als *explizit* deklarieren, indem sie die Checkbox `Expliziter Inhalt` ankreuzen, welche im [Genre- und Sprach-Popup-Menü](/wiki/Beatmap/Genre_and_language) auf dem Webeintrag der jeweiligen Beatmap zu finden ist. An diese Funktion sind einige Erwartungen und Regeln bezüglich ihrer Verwendung geknüpft.
 
-Ungeachtet der Art des Tons solltest du sicherstellen, dass er den [generellen Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) entspricht.
+Ungeachtet der Art des Tons solltest du sicherstellen, dass er den [generellen Regeln für Songinhalte](/wiki/Rules/Song_content_rules) entspricht.
 
 ## Was zählt als expliziter Inhalt?
 
-Expliziter Inhalt meint primär den **Audioinhalt einer Beatmap**, meist in Bezug auf das Thema oder *intensive* Verwendung von expliziter Sprache. Das gilt **nicht** für visuelle Elemente einer Beatmap — diese **müssen** die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations) einhalten. Ebenso trifft das nicht auf andere vom Benutzer veränderbare Aspekte einer Beatmap zu (wie zum Beispiel Tags oder Namen von Schwierigkeitsstufen), die sich wie üblich an die [Community-Regeln](/wiki/Rules) halten **müssen**.
+Expliziter Inhalt meint primär den **Audioinhalt einer Beatmap**, meist in Bezug auf das Thema oder *intensive* Verwendung von expliziter Sprache. Das gilt **nicht** für visuelle Elemente einer Beatmap — diese **müssen** die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations) einhalten. Ebenso trifft das nicht auf andere vom Benutzer veränderbare Aspekte einer Beatmap zu (wie zum Beispiel Tags oder Namen von Schwierigkeitsstufen), die sich wie üblich an die [Community-Regeln](/wiki/Rules) halten **müssen**.
 
 Als allgemeine Faustregel gilt, dass die Bestimmung über explizite Inhalte nur Ausnahmen für Inhalte vorsieht, die ein Nutzer mit den vom Spiel zur Verfügung gestellten Werkzeugen nicht vernünftig bearbeiten kann, und dass die Deklarierung nach dem Ermessen des [Account-Support-Teams](/wiki/People/Account_support_team) auch für jeden Song einzeln aufgehoben werden kann.
 

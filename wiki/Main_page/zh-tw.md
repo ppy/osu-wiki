@@ -51,9 +51,9 @@ outdated_translation: true
 
 所有 osu! 的圖譜皆由其活躍的社群綻放的想像力所打造，想要向他人分享您最愛的音樂，卻不知如何下手嗎？熟悉一下內建編輯器及它的可能性吧。
 
-區域：[Compose](/wiki/Client/Beatmap_editor/Compose) • [設計](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
+區域：[Compose](/wiki/Client/Beatmap_editor/Compose) • [設計](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-元件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [節拍劃分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [間隔控制](/wiki/Client/Beatmap_editor/Distance_snap) • [選單](/wiki/Client/Beatmap_editor/Menu) • [Storyboard 負載](/wiki/Client/Beatmap_editor/SB_Load) • [時間軸](/wiki/Client/Beatmap_editor/Timelines)
+元件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [節拍劃分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [間隔控制](/wiki/Client/Beatmap_editor/Distance_snap) • [選單](/wiki/Client/Beatmap_editor/Menu) • [Storyboard 負載](/wiki/Client/Beatmap_editor/SB_load) • [時間軸](/wiki/Client/Beatmap_editor/Timelines)
 
 操作：[製譜](/wiki/Beatmapping) • [製譜技巧](/wiki/Beatmapping/Mapping_techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding) • [製作 Skin](/wiki/Skinning)
 
@@ -66,7 +66,7 @@ outdated_translation: true
 
 [提交](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [審核流程](/wiki/Beatmap_ranking_procedure) • [製譜者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[審核標準](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[審核標準](/wiki/Ranking_criteria)：[osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -75,9 +75,9 @@ outdated_translation: true
 
 閱讀有關維護 osu! 及其社群的安全的程序及規定。從音樂授權和媒體規章，到聊天和論壇規則。
 
-[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Rules/Contributor_Code_of_Conduct) • [Modding 及製譜的行為準則](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Rules/Contributor_code_of_conduct) • [Modding 及製譜的行為準則](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-媒體規章：[內容使用準則](/wiki/Rules/Content_Usage_Guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_Content) • [歌曲內容規範](/wiki/Rules/Song_Content_Rules) • [視覺內容考量](/wiki/Rules/Visual_Content_Considerations)
+媒體規章：[內容使用準則](/wiki/Rules/Content_usage_guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_content) • [歌曲內容規範](/wiki/Rules/Song_content_rules) • [視覺內容考量](/wiki/Rules/Visual_content_considerations)
 
 [法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_licensing)
 
@@ -134,7 +134,7 @@ outdated_translation: true
 
 如同這裡幾乎所有的一切，osu! wiki 也是由志願者撰寫並維護的。歡迎在 [osu-wiki GitHub 儲存庫](https://github.com/ppy/osu-wiki)提出建議、回報問題、甚至自行撰寫文章。
     
-[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
+[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
 
 [網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格標準](/wiki/Article_styling_criteria) • [新聞稿風格標準](/wiki/News_styling_criteria)
 

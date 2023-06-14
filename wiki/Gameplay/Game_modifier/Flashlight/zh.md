@@ -13,8 +13,8 @@ tags:
 
 ![FL 模组图标](/wiki/shared/mods/FL.png "Flashlight (FL) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*请勿与 [Hidden （模组）](/wiki/Game_modifier/Hidden) 混淆。*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*请勿与 [Hidden （模组）](/wiki/Gameplay/Game_modifier/Hidden) 混淆。*
 
 ## 关于
 
@@ -29,13 +29,13 @@ tags:
 
 ## 说明
 
-**Flashlight** [游戏模组](/wiki/Game_modifier)通过限制屏幕可见区域来人为增加[谱面](/wiki/Beatmap)难度。
+**Flashlight** [游戏模组](/wiki/Gameplay/Game_modifier)通过限制屏幕可见区域来人为增加[谱面](/wiki/Beatmap)难度。
 
 ### osu!
 
 在 [osu!](/wiki/Game_mode/osu!) 中，光标周围只有一个照亮的小圆圈（即可见区域），显示圆圈范围内的游玩界面。可见区域的大小取决于玩家目前连击数而改变。
 
-在连击数为 100x 时可见区域会缩小，连击数为 200x 时会再次缩小。如果在任何时候断连，可见区会扩大到原始大小。此外，可见区在完成[滑条](/wiki/Hit_object/Slider)期间会变暗。
+在连击数为 100x 时可见区域会缩小，连击数为 200x 时会再次缩小。如果在任何时候断连，可见区会扩大到原始大小。此外，可见区在完成[滑条](/wiki/Gameplay/Hit_object/Slider)期间会变暗。
 
 此模组的所有功能累加起来，呈现出玩家光标上有虚拟手电筒照着的效果。
 
@@ -63,7 +63,7 @@ tags:
 
 ### osu!mania
 
-在 [osu!mania](/wiki/Game_mode/osu!mania) 中，可见区域限于轨道中部相对较小的水平区域，玩家不能看到其他部分的东西。从这里来说，此模组可以类比为 Hidden 与 [Fade In](/wiki/Game_modifier/Fade_In) 模组的结合体。（也就是说，可见区域大小不会改变）
+在 [osu!mania](/wiki/Game_mode/osu!mania) 中，可见区域限于轨道中部相对较小的水平区域，玩家不能看到其他部分的东西。从这里来说，此模组可以类比为 Hidden 与 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组的结合体。（也就是说，可见区域大小不会改变）
 
 ![FL 模组下的 osu!mania 游玩界面](img/FL-mania.jpg "启用 Flashlight 模组时的 osu!mania 游玩界面")
 

@@ -195,7 +195,7 @@ If the difficulty has a lot of hitsound problems, **do not point them all out**!
 
 ## Useful links
 
-- **[General ranking criteria](/wiki/Ranking_Criteria)**
-- **[osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania)**
+- **[General ranking criteria](/wiki/Ranking_criteria)**
+- **[osu!mania ranking criteria](/wiki/Ranking_criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (modding tool)](https://github.com/Naxesss/MapsetVerifier)**
 - **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**

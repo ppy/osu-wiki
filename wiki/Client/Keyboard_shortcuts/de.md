@@ -173,7 +173,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `F1` | Wechsle zum [Compose](/wiki/Client/Beatmap_editor/Compose)-Modus. |
 | `F2` | Wechsle zum [Design](/wiki/Client/Beatmap_editor/Design)-Modus. |
 | `F3` | Wechsle zum [Timing](/wiki/Client/Beatmap_editor/Timing)-Modus. |
-| `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Starte den Testmodus. |
 | `F6` | Öffne den Dialog für das Timing und die Control Points. |
 | `Strg` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Wenn dies nicht im Timing-Mode geschiet, wird auch der Dialog für das Timing und die Control Points geöffnet |
@@ -266,7 +266,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
 | `Shift` (während dem Ziehen auf der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
 | `J` | Schiebe die Auswahl auf der Timeline zurück. |
 | `K` | Schiebe die Auswahl auf der Timeline vorwärts. |

@@ -4,7 +4,7 @@ no_native_review: true
 
 # Ranking Criteria Council (審核標準委員會)
 
-**Ranking Criteria Council** 是在 2016 年由玩家組成的群組，目標為重新修訂[審核標準](/wiki/Ranking_Criteria)。
+**Ranking Criteria Council** 是在 2016 年由玩家組成的群組，目標為重新修訂[審核標準](/wiki/Ranking_criteria)。
 
 許多 [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) 審譜的規定在當時都是不成文的，且沒有模式專屬的標準，導致圖譜一直無法過審，使社群感到不合理。故 Ranking Criteria Council 盼能平息這一切。
 

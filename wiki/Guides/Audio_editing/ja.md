@@ -11,7 +11,7 @@ outdated_translation: true
 
 ## オーディオのエンコード
 
-まずはmp3のbitrateを変える段階です。osu!の[Rankルールでは](/wiki/Ranking_Criteria)128~192kbpsの間に収める必要があります。
+まずはmp3のbitrateを変える段階です。osu!の[Rankルールでは](/wiki/Ranking_criteria)128~192kbpsの間に収める必要があります。
 
 よくあるmp3のビットレートが高い場合(ほとんどが320か256kbps)、それを外部のソフトウェアを用いてRankableにさせる必要があります。
 

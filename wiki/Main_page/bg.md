@@ -49,9 +49,9 @@ no_native_review: true
 
 Всички osu! бийтмапове са създадени от растящото въображение на динамичното ни общество. Искали сте да споделите любимата си музика, но без да знаете как? Запознайте се с вградения редактор и възможностите които предлага.
 
-Раздели: [Композиране](/wiki/Client/Beatmap_editor/Compose) • [Дизайн](/wiki/Client/Beatmap_editor/Design) • [Времена](/wiki/Client/Beatmap_editor/Timing) • [Настройка на песен](/wiki/Client/Beatmap_editor/Song_Setup)
+Раздели: [Композиране](/wiki/Client/Beatmap_editor/Compose) • [Дизайн](/wiki/Client/Beatmap_editor/Design) • [Времена](/wiki/Client/Beatmap_editor/Timing) • [Настройка на песен](/wiki/Client/Beatmap_editor/Song_setup)
 
-Компоненти: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Такт делител](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Съкратена дистанция](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню](/wiki/Client/Beatmap_editor/Menu) • [АИ товар](/wiki/Client/Beatmap_editor/SB_Load) • [Времева линия](/wiki/Client/Beatmap_editor/Timelines)
+Компоненти: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Такт делител](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Съкратена дистанция](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню](/wiki/Client/Beatmap_editor/Menu) • [АИ товар](/wiki/Client/Beatmap_editor/SB_load) • [Времева линия](/wiki/Client/Beatmap_editor/Timelines)
 
 Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Beatmapping/Mapping_techniques) • [Анимирана история](/wiki/Storyboard) • [Облик](/wiki/Skinning)
 
@@ -64,7 +64,7 @@ no_native_review: true
 
 [Изпращане](/wiki/Beatmapping/Beatmap_submission) • [Редактиране](/wiki/Modding) • [Процедура за класиране](/wiki/Beatmap_ranking_procedure) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved)
 
-[Критерии за класиране](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Критерии за класиране](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -73,9 +73,9 @@ no_native_review: true
 
 Прочетете политиката и правилата, които пазят osu! и неговата общност от лицензирани песни, мултимедийно съдържание до правила в чат и форум.
 
-[Правила](/wiki/Rules) • [Правила на поведение за сътрудници](/wiki/Rules/Contributor_Code_of_Conduct) • [Правила на поведение при създаване и редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Правила на поведение за сътрудници](/wiki/Rules/Contributor_code_of_conduct) • [Правила на поведение при създаване и редактиране](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Медийни регламенти: [Указания за употреба на медия](/wiki/Rules/Content_Usage_Guidelines) • [Explicit съдържание](/wiki/Rules/Explicit_Content) • [Правила за музикално съдържание](/wiki/Rules/Song_Content_Rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_Content_Considerations)
+Медийни регламенти: [Указания за употреба на медия](/wiki/Rules/Content_usage_guidelines) • [Explicit съдържание](/wiki/Rules/Explicit_content) • [Правила за музикално съдържание](/wiki/Rules/Song_content_rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_content_considerations)
 
 [Страници с условия](/wiki/Legal): [Условия за ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_licensing)
 
@@ -132,7 +132,7 @@ osu! нямаше да съществува без всички потребит
 
 Както почти всичко тук, уикипедията на osu! се пише и поддържа от доброволци. Предложете подобрение, докладвайте грешка, дори напишете своя собствена страница в [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! Уики в GitHub").
 
-[История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
+[История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
 
 [Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на страница](/wiki/Article_styling_criteria) • [Критерии за оформяне на новини](/wiki/News_styling_criteria)
 

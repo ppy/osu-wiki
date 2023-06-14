@@ -10,4 +10,4 @@ tags:
 
 # Aspire
 
-**Aspire** 是鼓勵製圖者完全忽略[審核標準](/wiki/Ranking_Criteria)，自由使用不常見的遊戲機制的[製圖](/wiki/Beatmapping)[競賽](/wiki/Contests)。
+**Aspire** 是鼓勵製圖者完全忽略[審核標準](/wiki/Ranking_criteria)，自由使用不常見的遊戲機制的[製圖](/wiki/Beatmapping)[競賽](/wiki/Contests)。

@@ -8,8 +8,8 @@ tags:
 
 # 一次メタデータソース
 
-**一次メタデータソース**とは、[ビートマップ](/wiki/Beatmap)の[メタデータ](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)の`アーティスト`、`タイトル`、`ソース`が、その曲のアーティストやそのレーベルの公式に宣伝されているソースのことです。
+**一次メタデータソース**とは、[ビートマップ](/wiki/Beatmap)の[メタデータ](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)の`アーティスト`、`タイトル`、`ソース`が、その曲のアーティストやそのレーベルの公式に宣伝されているソースのことです。
 
 アーティストのウェブサイト、レーベルのウェブサイト、CDスキャン、Bandcamp、YouTube、SoundCloudなどのウェブサイトへの公式アップロードは、ビートマップメタデータの一次ソースとみなされます。ウィキやデータベース（vndb、vgmdbなど）、音楽サービス（Spotify、iTunes、Amazonなど）などの第三者のウェブサイトは、アーティストの意図を反映しているとは限らず、一次ソースとして扱うべきではありません。
 
-[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマップは、一次ソースからのメタデータを使用することが求められます。ビートマップのメタデータに関するより多くのルールとガイドラインについては、[ランキング基準](/wiki/Ranking_Criteria#metadata)を参照してください。
+[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマップは、一次ソースからのメタデータを使用することが求められます。ビートマップのメタデータに関するより多くのルールとガイドラインについては、[ランキング基準](/wiki/Ranking_criteria#metadata)を参照してください。

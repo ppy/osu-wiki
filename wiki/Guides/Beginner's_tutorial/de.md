@@ -28,7 +28,7 @@ Maus-Spieler haben meistens hiermit Probleme:
 
 ### Tablet
 
-Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase)-Anleitung anschauen. Bewahre die Spitzen deines Tabletstifts auf und kaufe zusätzlich auch gleich ein paar Ersatzspitzen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
+Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_purchase)-Anleitung anschauen. Bewahre die Spitzen deines Tabletstifts auf und kaufe zusätzlich auch gleich ein paar Ersatzspitzen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
 
 - Kein Cursor-Drift über längere Zeit.
 - Präzise Bewegungen und Geschwindigkeit.
@@ -84,7 +84,7 @@ Hab keine Angst, etwas zu üben, bei dem du aus dem einen oder anderen Grund imm
 
 ### Globaler Offset
 
-*Hauptseite: [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Hauptseite: [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 Abhängig von den Geräten, mit denen du osu! spielst, wirst du möglicherweise feststellen, dass die Hit-Circles nicht ganz im Takt der Musik liegen. Um dies zu korrigieren, kannst du den globalen Offset-Wert in den [Einstellungen](/wiki/Client/Options) ändern. Der globale Offset verändert, wann der erste Kreis auf Beatmaps erscheint (entweder früher oder später als voreingestellt), was wiederum die restlichen Kreise um den gleichen Betrag verschiebt. Ein negativer Offset-Wert lässt die Kreise etwas später erscheinen, ein positiver Wert lässt sie früher erscheinen.
 

@@ -156,7 +156,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Audio Rate | Same as Playback Rate. |
 | Grid Snapping (T) | Allow snapping of the notes with respect to current grid line. |
 

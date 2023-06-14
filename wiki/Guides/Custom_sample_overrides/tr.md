@@ -60,5 +60,5 @@ Aşağıdaki üç ses seti dosyası ilavedir, bu da bir ıslığa vurduğunuz za
 
 Ayrıca bakınız:
 
-- [Özel Vuruş Sesi Kütüphanesi](/wiki/Guides/Custom_Hitsound_Library)
+- [Özel Vuruş Sesi Kütüphanesi](/wiki/Guides/Custom_hitsound_library)
 - [Tema Yapımı/Sesler](/wiki/Skinning/Sounds)
