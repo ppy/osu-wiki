@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
+no_native_review: true
 tags:
     - BSC
     - beatmap spotlight curator
@@ -8,7 +7,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-Le **Beatmap Spotlight Curators** (***BSC***) est un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+Le **Beatmap Spotlight Curators** (***BSC***) est un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights). Ils se distinguent par leur badge bleu ardoise de [groupe utilisateurs](/wiki/People/User_group) sur lequel on peut lire `BSC`.
 
 ## Devenir un curateur
 
@@ -62,7 +61,7 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de curat
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- :: {flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
+- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)

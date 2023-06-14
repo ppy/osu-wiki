@@ -466,7 +466,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 12. El cambio de jugadores durante la partida está permitido sin ningún tipo de restricción y/o límite.
 13. Si un jugador se desconecta durante la partida y equipo no posee otro jugador para reemplazarlo, el máximo tiempo de espera es de 10 minutos.
 14. Si un jugador se desconecta durante un mapa, será considerado como si hubiese fallado el mismo.
-15. Las deconexiones que se den antes de pasar 30 segundos del mapa pueden ser re-jugadas. Esto sólo está permitido una vez por equipo.
+15. Las deconexiones que se den antes de pasar 30 segundos del mapa pueden ser re-jugadas. Esto solo está permitido una vez por equipo.
 16. Los puntajes fallidos no serán añadidos al puntaje de equipo.
 17. Si un mapa termina en empate, el juego será anulado y el mapa se volverá a jugar.
 18. En caso de empate (por ejemplo, ambos equipos llevan 4 mapas ganados en una partida de mejor de 9), el Tiebreaker será jugado.
