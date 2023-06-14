@@ -1,17 +1,16 @@
 ---
-no_native_review: true
 tags:
   - usergroup
-  - groupe utilisateurs
+  - groupe d'utilisateurs
 ---
 
-# Groupe utilisateurs
+# Groupe d'utilisateurs
 
-*Note : Les listes des groupes utilisateurs Chat Bots et Announce ne sont pas publiques.*
+*Note : Les listes des groupes d'utilisateurs Chat Bots et Announce ne sont pas publiques.*
 
-![Exemple de badge de groupe utilisateurs](img/user-group-badge.png "Badge de groupe utilisateurs sur la page de profile de l'utilisateur")
+![Exemple de badge de groupe d'utilisateurs](img/user-group-badge.png "Badge de groupe d'utilisateurs sur la page de profile de l'utilisateur")
 
-Vous trouverez ci-dessous la liste des **groupes utilisateurs**, la plupart d'entre eux étant constitués de membres de la communauté osu! qui contribuent à la maintenance d'osu!. La plupart de ces groupes d'utilisateurs sont reconnaissables à leurs couleurs [forum](/wiki/Community/Forum), les couleurs du [tchat en jeu](/wiki/Client/Interface/Chat_console), les [titres utilisateurs](/wiki/Community/User_title), et/ou leurs badges de groupe utilisateurs.
+Vous trouverez ci-dessous la liste des **groupes d'utilisateurs**, la plupart d'entre eux étant constitués de membres de la communauté osu! qui contribuent à la maintenance d'osu!. La plupart de ces groupes d'utilisateurs sont reconnaissables à leurs couleurs sur le [forum](/wiki/Community/Forum), les couleurs du [tchat en jeu](/wiki/Client/Interface/Chat_console), les [titres d'utilisateurs](/wiki/Community/User_title), et/ou leurs badges de groupe d'utilisateurs.
 
 En cliquant sur les badges, vous accéderez à la liste des groupes respectifs, tandis que les noms renvoient aux articles du wiki.
 
