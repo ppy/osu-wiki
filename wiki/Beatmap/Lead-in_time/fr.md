@@ -15,4 +15,4 @@ Le **lead-in** est le temps que le jeu donne aux joueurs pour réagir avant le p
 
 Le temps d'approche minimum automatiquement utilisé par osu! est de 1,8 secondes. Avec l'[approach rate](/wiki/Beatmap/Approach_rate) le plus bas, soit de 0. C'est le temps pendant lequel un objet est visible avant qu'il ne doive être touché. Toute [storyboard](/wiki/Storyboard) ou vidéo jouée avant le premier objet peut prolonger le délai d'attente.
 
-L'utilisation du lead-in personnalisé est requise par les [critères de classement](/wiki/Ranking_Criteria#général) dans le cas où la beatmap contient un avertissement d’épilepsie qui couvre les premiers objets.
+L'utilisation du lead-in personnalisé est requise par les [critères de classement](/wiki/Ranking_Criteria#général) dans le cas où la beatmap contient un avertissement d'épilepsie qui couvre les premiers objets.
