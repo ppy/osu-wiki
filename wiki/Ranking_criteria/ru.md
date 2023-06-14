@@ -1,3 +1,8 @@
+---
+outdated_since: fe29dc4f703885a172ec7dbc05c076da241dcc12
+outdated_translation: true
+---
+
 # Критерии ранкинга
 
 *Дополнительные критерии для каждого [режима игры](/wiki/Game_mode) можно прочитать тут: [osu!](/wiki/Ranking_Criteria/osu!), [osu!taiko](/wiki/Ranking_Criteria/osu!taiko), [osu!catch](/wiki/Ranking_Criteria/osu!catch) и [osu!mania](/wiki/Ranking_Criteria/osu!mania).*
