@@ -95,7 +95,7 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
   - Bagi remix, aransemen, atau kover yang berdasarkan lagu aslinya, sumber dari lagu aslinya harus digunakan.
   - Nama situs web dapat digunakan sebagai sumber, ketika lagu dikaitkan dengan fenomena budaya tertentu yang berhubungan dengan *platform*, atau lagu tersebut disusun/*composed* sebagai lagu tema/latar belakang dari situs web.
   - Dalam kasus [kompilasi lagu](/wiki/Beatmap/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber (kecuali kompilasi secara jelas terkait dengan sumber itu sendiri).
-  - `osu!` tidak boleh digunakan sebagai sumber/*source*, kecuali jika musik dibuat khusus untuk osu! (dikenal juga sebagai osu! original), seperti pembuatan musik untuk tiebreaker dalam suatu turnamen.
+  - `osu!` tidak boleh digunakan sebagai sumber/*source*, kecuali jika musik dibuat khusus untuk osu! (dikenal juga sebagai [osu! original](osu!_originals)), seperti pembuatan musik untuk tiebreaker dalam suatu turnamen.
 - **Metadata yang melebihi batas kolom (81 karakter) harus disingkat.** Mulailah dengan menghilangkan penanda tambahan dan jika masih tidak cukup, tunjukkan bahwa judul telah disingkat menggunakan `...` di tempat yang masuk akal.
 - **Jika artis atau judul disingkat agar sesuai dengan batas kolom, informasi yang dihilangkan harus ditambahkan ke tags.**
 - **Jika lagu tersebut merupakan lagu terlisensi di pustaka [Featured Artist](/wiki/People/Featured_Artists), `featured artist` harus ditambahkan ke tags.**
