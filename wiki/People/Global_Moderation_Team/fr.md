@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - GMT
   - moderator
@@ -15,7 +14,7 @@ tags:
 
 *Voir aussi : [Mod (désambiguïsation)](/wiki/Disambiguation/Mod).*
 
-La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
+La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
 
 **Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
