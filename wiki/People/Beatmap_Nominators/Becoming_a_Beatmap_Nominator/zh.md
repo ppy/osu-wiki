@@ -4,7 +4,7 @@
 
 BN 申请程序于 [BN 官网](http://bn.mappersguild.com/bnapps)进行。
 
-想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 最低数量要求；提交两张自己[摸](/wiki/Modding)过的谱面的链接；并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在 [BN 官网](https://bn.mappersguild.com/bnapps)内列出。
+想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 最低数量要求；提交两张自己[摸](/wiki/Modding)过的谱面的链接；并完成基于[谱面上架标准 (RC)](/wiki/Ranking_criteria) 而设立的 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在 [BN 官网](https://bn.mappersguild.com/bnapps)内列出。
 
 ## 基础标准
 
@@ -58,8 +58,8 @@ BN 申请者必须达到以下标准：
 
 以下是对申请者的评估标准：
 
-- **摸图能力：**熟记通用[上架标准 (RC)](/wiki/Ranking_Criteria) 以及每个[游戏模式](/wiki/Game_mode)特有的上架标准，遵守[摸图期望](#摸图期望（上狗摸要求）)，在评估时也会考虑申请者检查歌曲元数据、测定时间轴和其他一些相关的能力。
-- **语气态度：**摸图的语气和其他行为，或在聊天、论坛等地方的言论是否符合[行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)。
+- **摸图能力：**熟记通用[上架标准 (RC)](/wiki/Ranking_criteria) 以及每个[游戏模式](/wiki/Game_mode)特有的上架标准，遵守[摸图期望](#摸图期望（上狗摸要求）)，在评估时也会考虑申请者检查歌曲元数据、测定时间轴和其他一些相关的能力。
+- **语气态度：**摸图的语气和其他行为，或在聊天、论坛等地方的言论是否符合[行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)。
 
 这个阶段，评估员的评论和投票将对其他评估员不可见。
 

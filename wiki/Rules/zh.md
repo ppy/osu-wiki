@@ -36,7 +36,7 @@
 
 ## 谱面讨论帖规定
 
-*注：这些规定适用于**所有被上传的谱面**，而不仅仅是 Ranked 的那些。对于 Ranked 谱面的更详细的要求，参考[Ranking Criteria](/wiki/Ranking_Criteria)*
+*注：这些规定适用于**所有被上传的谱面**，而不仅仅是 Ranked 的那些。对于 Ranked 谱面的更详细的要求，参考[Ranking Criteria](/wiki/Ranking_criteria)*
 
 这些规定适用于通过游戏内的[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)提交的谱面。当 osu! 客户端在[编辑器](/wiki/Client/Beatmap_editor)中提交谱面的适合会创建相应的讨论贴。
 

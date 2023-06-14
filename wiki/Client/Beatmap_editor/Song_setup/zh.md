@@ -68,7 +68,7 @@
 
 ![谱面难度设定 (Difficulty) 标签页的两张截图。 osu!mania 的设置页面与其他游戏模式不同。](img/SS_Difficulty.jpg "谱面难度设定 (Difficulty) 页面。右图为 osu!mania 专谱的设定页面。")
 
-*注意：需要使用游戏模式特定的[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 中的可上架限定值。*
+*注意：需要使用游戏模式特定的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 中的可上架限定值。*
 
 此标签页包含谱面的难度设定；每项设置都影响谱面不同方面的难度。
 
@@ -92,7 +92,7 @@
 
 圆圈大小常缩写为 CS，只存在于 osu! 与 osu!catch 中。此设定决定了打击物件的大小，以及 osu!catch 中小人和水果的大小。 CS 值范围为 2 到 7； CS 值越大，打击物件就越小。CS 值最高时，打击物件会和光标一样大。
 
-大部分谱面的 CS 值为 3 和 4，有时会用到 CS5 和 CS6 ，但几乎不会用 CS7。使用 [Hard Rock](/wiki/Game_modifier/Hard_Rock) 模组时可能会看到 CS7 以上的值。
+大部分谱面的 CS 值为 3 和 4，有时会用到 CS5 和 CS6 ，但几乎不会用 CS7。使用 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组时可能会看到 CS7 以上的值。
 
 可以通过手动编辑 `.osu` 文件更改 CS 为小于 2 及大于 7 的数值。
 
@@ -104,7 +104,7 @@
 
 ### 缩圈速度 (Approach Rate)
 
-*主页面：[缩圈速度 (Approach Rate)](/wiki/Beatmapping/Approach_rate)*
+*主页面：[缩圈速度 (Approach Rate)](/wiki/Beatmap/Approach_rate)*
 
 ![AR 细节总表](/wiki/shared/ARTable.jpg "AR 细节总表")
 
@@ -120,16 +120,16 @@
 
 有四个模组在激活时可更改 AR 值：
 
-- [Easy](/wiki/Game_modifier/Easy)：使 AR 值减半。（比如 AR10→AR5）
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：将 AR 值乘上 1.40，最多增加到 AR10。（比如 AR3→AR4.2 或 AR9→AR10）
-- [Double Time](/wiki/Game_modifier/Double_Time)：AR 值不受影响，但由于游玩速度加快 50%，会导致物件停留的毫秒数缩短 33%。
-- [Half Time](/wiki/Game_modifier/Half_Time)：AR 值不受影响，但由于游玩速度减慢 25%，会导致物件停留的毫秒数延长 33%。
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：使 AR 值减半。（比如 AR10→AR5）
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 AR 值乘上 1.40，最多增加到 AR10。（比如 AR3→AR4.2 或 AR9→AR10）
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：AR 值不受影响，但由于游玩速度加快 50%，会导致物件停留的毫秒数缩短 33%。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：AR 值不受影响，但由于游玩速度减慢 25%，会导致物件停留的毫秒数延长 33%。
 
 尽管 Half Time 和 Double Time 不改变实际 AR 值，速度的不同会导致 AR 值表面上的改变，可以低达 AR-5，也可以高达 AR11。在给出的 AR 值表格中给出了这些值，以便比较是否使用模组情况下的缩圈速度。然而实际 AR 值总是在 0 到 10 之间。请注意，AR 值水准在 AR5 以下以 120ms 为步长线性增长，在 AR5 以上则为 150ms。
 
 ### 整体难度 (Overall Difficulty)
 
-*主页面：[整体难度 (Overall difficulty)](/wiki/Beatmapping/Overall_difficulty)*
+*主页面：[整体难度 (Overall difficulty)](/wiki/Beatmap/Overall_difficulty)*
 
 ![](/wiki/shared/ODTable.png "不同 OD 值与模组组合的打击窗口期比较。对于含 Half Time 与 Double Time 的组合，所示 OD 值只对 300 分的打击窗口期有效，对于 100 分与 50 分则有所不同。")
 
@@ -146,7 +146,7 @@
 - osu!taiko：完成转盘所需打击数增加。
 - osu!mania 和 osu!catch 不受 OD 值影响。
 
-若要计算打击窗口期，请见[整体难度 (OD) 相关文章](/wiki/Beatmapping/Overall_difficulty)中的公式。
+若要计算打击窗口期，请见[整体难度 (OD) 相关文章](/wiki/Beatmap/Overall_difficulty)中的公式。
 
 ---
 
@@ -154,10 +154,10 @@
 
 有四个模组在激活时可更改 OD 值：
 
-- [Easy](/wiki/Game_modifier/Easy)：使 OD 值减半。
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：将 OD 值乘上 1.40，最多增加到 OD10。
-- [Double Time](/wiki/Game_modifier/Double_Time)：OD 值不受影响，但由于游玩速度加快 50%，会有效导致打击窗口期缩短 33%。
-- [Half Time](/wiki/Game_modifier/Half_Time)：OD 值不受影响，但由于游玩速度减慢 25%，会有效导致打击窗口期延长 33%。
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：使 OD 值减半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 OD 值乘上 1.40，最多增加到 OD10。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：OD 值不受影响，但由于游玩速度加快 50%，会有效导致打击窗口期缩短 33%。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：OD 值不受影响，但由于游玩速度减慢 25%，会有效导致打击窗口期延长 33%。
 
 尽管 Half Time 和 Double Time 不改变实际 OD 值，速度对打击窗口期的影响会相应让打击物件的 OD 值看起来更低或更高。在给出的 OD 值表格中给出了这些值，以便比较是否使用模组情况下的缩圈速度。请注意，这些表面上的 OD 值只适用于圆圈的 300 分得分。100 分、 50 分与滑条（使用 50 分打击窗口期）的窗口期会在启用 Double Time 模组时更严格，在启用 Half Time 模组时更宽松。对于无 Mod、 HR 和 EZ （表格左侧）也同样如此；给出的 OD 值仅供比较：实际 OD 值总是在 0 到 10 之间。
 
@@ -173,7 +173,7 @@
 
 #### 音效选择(Sample Set Selection)
 
-选择全局使用 osu! 自带的 `Normal`、 `Soft` 或 `Drum` 音效集。也可以选择[启用自定义音效覆盖](/wiki/Guides/Custom_Sample_Overrides)来优先将谱面文件夹内的音效文件用作自定义音效。
+选择全局使用 osu! 自带的 `Normal`、 `Soft` 或 `Drum` 音效集。也可以选择[启用自定义音效覆盖](/wiki/Guides/Custom_sample_overrides)来优先将谱面文件夹内的音效文件用作自定义音效。
 
 #### 音效音量大小(Sample Set Volume)
 

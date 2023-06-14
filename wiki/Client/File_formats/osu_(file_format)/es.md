@@ -12,8 +12,8 @@ El siguiente contenido está separado en secciones, indicadas por títulos de se
 | :-- | :-- | :-- |
 | `[General]` | Información general sobre el beatmap | `key: value` pares |
 | `[Editor]` | Configuraciones guardadas para el editor de beatmaps | `key: value` pares |
-| `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) usada para identificar el beatmap | `key:value` pares |
-| `[Difficulty]` | [Configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#dificultad) | `key:value` pares |
+| `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) usada para identificar el beatmap | `key:value` pares |
+| `[Difficulty]` | [Configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) | `key:value` pares |
 | `[Events]` | Beatmap y eventos gráficos del storyboard | Listas separadas por comas |
 | `[TimingPoints]` | Timing y puntos de control | Listas separadas por comas |
 | `[Colours]` | Colores del combo y la skin | `key : value` pares |
@@ -51,7 +51,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 | :-- | :-- | :-- |
 | `Bookmarks` | Lista de integers separados por comas | Tiempo en milisegundos de [marcadores](/wiki/Client/Beatmap_editor/Compose#parte-inferior-(linea-de-tiempo-de-la-canción)) |
 | `DistanceSpacing` | Decimal | Multiplicador del [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) |
-| `BeatDivisor` | Integer | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Integer | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `GridSize` | Integer | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Decimal | Factor de escala para la [línea de tiempo del objeto](/wiki/Client/Beatmap_editor/Compose#esquina-superior-izquierda-(linea-de-tiempo-de-los-objetos-golpeables)) |
 

@@ -18,7 +18,7 @@ Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Client/Beatm
 
 ### Configuración de la canción
 
-*Ver también: [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Ver también: [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Al crear un nuevo [mapset](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 

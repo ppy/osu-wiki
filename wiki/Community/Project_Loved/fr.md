@@ -42,11 +42,11 @@ Bien que de nombreuses beatmaps En Attente et Work-in-progress répondent à ces
 
 Les beatmaps entrant dans la catégorie loved doivent respecter des règles supplémentaires :
 
-- [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
+- [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_criteria#metadata)
   - Le titre de la musique, l'artiste ainsi que la source doivent-être correcte dans tous les cas.
   - Les tags de la beatmap doivent mentionner correctement tous les contributeurs (guest difficulties, créateurs, storyboarders, etc.)
-- [Les règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules)
-- [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
+- [Les règles relatives au contenu des musiques](/wiki/Rules/Song_content_rules)
+- [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations)
 
 En outre, afin de maintenir la qualité audio de la musique à un niveau raisonnable, les fichiers audio des beatmaps doivent avoir un débit binaire moyen d'au moins 128 kbps.
 

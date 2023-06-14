@@ -1,6 +1,6 @@
 # Ranking Criteria Council
 
-The **Ranking Criteria Council** was a group of users tasked with reworking the [Ranking Criteria](/wiki/Ranking_Criteria) in 2016.
+The **Ranking Criteria Council** was a group of users tasked with reworking the [Ranking Criteria](/wiki/Ranking_criteria) in 2016.
 
 Many of the rules that the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) operated by when evaluating maps were unwritten and there were no mode-specific criteria at the time. This led to repeated disqualifications that the mapping community viewed as unjustified, so the Ranking Criteria Council aimed to bring everyone to common ground.
 

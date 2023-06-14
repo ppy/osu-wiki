@@ -60,5 +60,5 @@ Tiga sampel berikut adalah tambahan, artinya ketika Anda menekan whistle Anda ak
 
 Lihat juga:
 
-- [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library)
+- [Custom Hitsound Library](/wiki/Guides/Custom_hitsound_library)
 - [Skinning/Sounds](/wiki/Skinning/Sounds)

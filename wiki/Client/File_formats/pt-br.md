@@ -17,7 +17,7 @@ outdated_translation: true
 
 | Formato do arquivo | Uso |
 | :-- | :-- |
-| [.osu][Osu Link] | [Compor](/wiki/Client/Beatmap_editor/Compose), [Timing](/wiki/Client/Beatmap_editor/Timing), [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| [.osu][Osu Link] | [Compor](/wiki/Client/Beatmap_editor/Compose), [Timing](/wiki/Client/Beatmap_editor/Timing), [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | [.osb][Osb Link] | [Design](/wiki/Client/Beatmap_editor/Design). |
 
 ### Replay

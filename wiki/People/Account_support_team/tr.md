@@ -39,7 +39,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 *Not: Ekstrem derecede uygunsuz bir davranışı veya, moderatörler dahil, herhangi bir kullanıcı tarafından yapılan cinsel tacizi bildirmek için, bakınız: [Kötüye Kullanım Bildirme](/wiki/Reporting_bad_behaviour/Abuse).
 
 - Bir moderatörün uygunsuz davranışları hakkındaki şikayetler.
-- [İştirakçi Etik Davranış Kurallarını](/wiki/Rules/Contributor_Code_of_Conduct) çiğneyen bir moderatör hakkındaki şikayetler.
+- [İştirakçi Etik Davranış Kurallarını](/wiki/Rules/Contributor_code_of_conduct) çiğneyen bir moderatör hakkındaki şikayetler.
 - [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/Help_centre/Account#supporter).
 - [Bağlantı sorunları](/wiki/Help_centre/Client#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
 

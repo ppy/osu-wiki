@@ -37,7 +37,7 @@ Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengi
 
 ### osu!
 
-Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), dan [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP).
+Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty), dan [HP drain](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate) (HP).
 
 ![Gameplay EZ pada standard](img/EZ-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
 

@@ -8,7 +8,7 @@ tags:
 
 # Guest difficulty
 
-*Untuk peraturan mengenai guest difficulties, lihat: [Kriteria ranking](/wiki/Ranking_Criteria)*
+*Untuk peraturan mengenai guest difficulties, lihat: [Kriteria ranking](/wiki/Ranking_criteria)*
 
 Sebuah **guest difficulty** (atau disingkat menjadi *GD*) adalah sebuah [tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah [beatmap](/wiki/Beatmap) yang tidak dibuat oleh [beatmap host](/wiki/Beatmap/Beatmap_host). GD biasanya diidentifikasikan dengan sebuah nama tingkat kesulitan yang mengandung nama dari seorang kreator.
 

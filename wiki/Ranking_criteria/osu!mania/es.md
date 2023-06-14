@@ -5,15 +5,15 @@ outdated_translation: true
 
 # Criterios de clasificación de osu!mania
 
-***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_Criteria).***
+***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_Criteria#términos_generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos_generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
 ### Nombre de las dificultades
 
-*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -51,11 +51,11 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Stream**: Notas constantes con el mismo intervalo por al menos una pulsación que no se repite para crear un minijack.
 - **Trill**: Más de dos notas que alternan entre dos columnas sin interrupción.
 
-Consulte [Guía de mapping de osu!mania](/wiki/Guides/osu!mania_Mapping_Guide) para obtener más terminología de patrones.
+Consulte [Guía de mapping de osu!mania](/wiki/Guides/osu!mania_mapping_guide) para obtener más terminología de patrones.
 
 ## General
 
-Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM)
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### Reglas
 
@@ -89,7 +89,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades específicas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades específicas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 *Las pautas específicas de los modos de teclas se han elaborado en base a los modos de teclas clasificadas más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando corresponda.*
 

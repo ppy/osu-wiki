@@ -9,7 +9,7 @@ Content submitted to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (
 
 ## Process
 
-1. A mapper, modder or concerned member of the community raises any visual element in a beatmap for review under the [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) by reporting it via the [BN website](https://bn.mappersguild.com/reports).
+1. A mapper, modder or concerned member of the community raises any visual element in a beatmap for review under the [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) by reporting it via the [BN website](https://bn.mappersguild.com/reports).
 2. The report is assessed by the NAT and for all but the most obvious situations, a new "content case" is made live and available for voting as soon as possible. All members of the BN, GMT and NAT are eligible to vote.
 3. While the vote is active, any map containing said visual element cannot be nominated or qualified. If the map is qualified, it is temporarily disqualified while the discussion continues.
 4. The vote concludes after a period of 3 days without any new votes, or 7 days since the vote began, whichever comes first.

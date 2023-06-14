@@ -11,7 +11,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 A **Equipe de Moderação Global** (anteriormente conhecido como o Global Mod Team, Administrators, ou GreenBAT), referidos frequentemente como **GMT**, são membros da comunidade que são focados primariamente em moderação de jogadores e problemas pertinentes a equipe e a comunidade em geral.
 
-**Todos os Moderadores Globais estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
+**Todos os Moderadores Globais estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_code_of_conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
 Se você encontrar qualquer membro da Equipe de Moderação Global agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 

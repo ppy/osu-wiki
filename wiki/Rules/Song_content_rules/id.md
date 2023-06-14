@@ -11,7 +11,7 @@ Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik
 - Memiliki volume lagu yang sangat keras
 - Dimodifikasi secara sengaja hingga menghasilkan efek *clipping* atau distorsi yang tidak diinginkan oleh artis
 
-Harap diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_Content) terpisah.
+Harap diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_content) terpisah.
 
 ## Apa yang dapat tergolong sebagai konten "sangat politis"?
 

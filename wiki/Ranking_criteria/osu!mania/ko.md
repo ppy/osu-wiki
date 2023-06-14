@@ -13,7 +13,7 @@ outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
 
 ### 난이도명(Difficulty names)
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -51,11 +51,11 @@ outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
 - **스트림(Stream)**: 미니잭을 만들지 않고 동일 간격에 지속해서 노트가 한 박자 이상 배치된 패턴.
 - **트릴(Trill)**: 두 개의 칼럼을 번갈아 가면서 2회 초과 노트가 배치된 패턴.
 
-추가적인 용어 설명은 [osu!mania Mapping Guide](/wiki/Guides/osu!mania_Mapping_Guide)를 참고하세요.
+추가적인 용어 설명은 [osu!mania Mapping Guide](/wiki/Guides/osu!mania_mapping_guide)를 참고하세요.
 
 ## 공통(Overall)
 
-공통 규칙과 가이드라인은 모든 종류의 osu!mania 난이도에 적용됩니다. 리듬과 연관된 규칙과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
+공통 규칙과 가이드라인은 모든 종류의 osu!mania 난이도에 적용됩니다. 리듬과 연관된 규칙과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
 
 ### 규칙
 
@@ -88,7 +88,7 @@ outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
 
 ## 특정 난이도(Difficulty-specific)
 
-특정 난이도의 규칙과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!mania 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 규칙과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
+특정 난이도의 규칙과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!mania 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 규칙과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
 
 *키 모드별 가이드라인은 일반적인 랭크맵 키 모드(4키 및 7키)를 기반으로 작성됩니다. 그 외 키 모드도 해당하는 경우에 이 가이드라인을 따라야 합니다.*
 

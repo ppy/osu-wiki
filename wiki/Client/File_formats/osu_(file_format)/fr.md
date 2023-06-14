@@ -12,8 +12,8 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 | :-- | :-- | :-- |
 | `[General]` | Informations générales sur la beatmap | paires `key: value` |
 | `[Editor]` | Paramètres sauvegardés pour l'éditeur de beatmaps | paires `key: value` |
-| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) utilisée pour identifier la beatmap. | paires `key:value` |
-| `[Difficulty]` | [Paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) | paires `key:value` |
+| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps) utilisée pour identifier la beatmap. | paires `key:value` |
+| `[Difficulty]` | [Paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_setup#difficulté) | paires `key:value` |
 | `[Events]` | Beatmap et storyboard des événements graphiques | Listes séparées par des virgules |
 | `[TimingPoints]` | Timing points et control points | Listes séparées par des virgules |
 | `[Colours]` | Couleurs du combo et du skin | paires `key : value` |
@@ -51,7 +51,7 @@ Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatm
 | :-- | :-- | :-- |
 | `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-musique)) |
 | `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
-| `BeatDivisor` | Entier (Integer) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Entier (Integer) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `GridSize` | Entier (Integer) | [Grid size](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Décimal (Decimal) | Facteur d'échelle pour la [timeline des objets](/wiki/Client/Beatmap_editor/Compose#en-haut-à-gauche-(la-timeline-des-objets)) |
 

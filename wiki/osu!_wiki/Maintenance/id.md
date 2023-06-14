@@ -31,7 +31,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 
 Di GitHub, pull request dan *issue* dapat ditandai dan diklasifikasikan dengan menggunakan [label](https://github.com/ppy/osu-wiki/labels), yang menunjukkan aspek berbeda dari pull request atau *issue*. Label bersifat informasional, ditetapkan oleh pengelola wiki, dan biasanya cukup jelas. Meskipun tidak memerlukan tindakan dari sudut pandang pengguna, label merah berfungsi sebagai pengingat atau ajakan bertindak untuk pengelola lainnya:
 
-- `rule change`: perubahan memengaruhi seperangkat aturan yang ada, seperti [kriteria ranking](/wiki/Ranking_Criteria), dan perlu ditinjau oleh pemilik area
+- `rule change`: perubahan memengaruhi seperangkat aturan yang ada, seperti [kriteria ranking](/wiki/Ranking_criteria), dan perlu ditinjau oleh pemilik area
 - `blocked`: perubahan memiliki masalah yang harus diselesaikan sebelum melanjutkan, atau tergantung pada masalah lain yang harus diselesaikan terlebih dahulu
 - `needs native review`: terjemahan perlu diperiksa oleh orang yang fasih dalam bahasa masing-masing; sebagai alternatif, selama proses penggabungan itu berarti tidak ada tinjauan seperti itu yang terjadi
 - `needs rebase`: pull request memiliki terlalu banyak *commit* kecil yang tidak terstruktur, yang perlu di-*rebase* dan disusun dengan cara yang lebih baik; ini biasanya dilakukan oleh pengelola tepat sebelum penggabungan

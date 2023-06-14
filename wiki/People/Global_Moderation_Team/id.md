@@ -14,7 +14,7 @@ tags:
 
 **Global Moderation Team** (yang sebelumnya dikenal dengan nama Global Mod Team, Administrator, dan GreenBAT), atau yang sering disebut sebagai **GMT**, merupakan para anggota komunitas yang berfokus pada moderasi pemain serta berbagai isu yang berkaitan dengan jajaran staf dan komunitas secara umum. Mereka dapat dikenali dari jabatan dan nama pengguna mereka yang berwarna merah di dalam permainan dan hijau pada forum.
 
-**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
+**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
 
 ***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -55,7 +55,7 @@ Pada umumnya, tim GMT akan mengamati para kandidat yang dianggap berpotensi sela
 
 *Catatan: Kecuali diterakan lebih lanjut, seluruh anggota GMT dapat berbicara Bahasa Inggris di samping bahasa yang tercantum pada nama mereka masing-masing.*
 
-Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
+Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_content_considerations#menilai-gambar-anda).
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |

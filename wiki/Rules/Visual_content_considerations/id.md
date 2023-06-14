@@ -4,7 +4,7 @@ Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semu
 
 Hal ini termasuk:
 
-- beatmap yang telah diunggah, **bahkan beatmap yang memiliki tag [eksplisit](/wiki/Rules/Explicit_Content)**
+- beatmap yang telah diunggah, **bahkan beatmap yang memiliki tag [eksplisit](/wiki/Rules/Explicit_content)**
 - detail profil (avatar, sampul profil)
 - lampiran atau tautan lainnya (postingan forum, komentar, postingan diskusi beatmap)
 
@@ -46,7 +46,7 @@ Pada keadaan tertentu, beberapa pengecualian dapat diterapkan pada konten yang m
 
 ## Menilai gambar Anda
 
-*Lihat: [Proses pengkajian konten](/wiki/Rules/Content_Voting_Process).*
+*Lihat: [Proses pengkajian konten](/wiki/Rules/Content_voting_process).*
 
 Gambar-gambar yang berada di situs osu! yang terdapat diluar beatmap (avatar, sampul profil, halaman pengguna, dll) tidak mengikuti prosedur pemungutan suara yang dijelaskan di bawah ini dan dapat dihapus kapan saja atas kebijaksanaan Global Moderation Team.
 

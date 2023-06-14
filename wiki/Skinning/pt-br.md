@@ -4,7 +4,7 @@ Skinning é um dos principais recursos do osu!. Possibilita que os jogadores uti
 
 ## Sets de skinning
 
-*Página Principal: [Lista de Sets de skinning](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Página Principal: [Lista de Sets de skinning](/wiki/Ranking_criteria/Skin_set_list)*
 
 **Apenas para beatmaps,** se a skin do seu beatmap possui um único elemento dos sets listados no Ranking Criteria, ela deve conter todos os outros elementos do set referido. Isto é aplicado apenas para skins de beatmap, mas outros skinners talvez queiram considerar essas listas também.
 

@@ -18,7 +18,7 @@ Para que sejam aprovados **e** ranqueados precisam da avaliação de dois [Beatm
 
 Beatmaps ranqueados aparecem com o ícone de duas setas apontadas para cima (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) na tela de seleção de músicas.
 
-Esses beatmaps idealmente atendem a todos os [critérios de ranqueamento](/wiki/Ranking_Criteria). Isso existe para garantir que todos os jogadores possam esperar algum tipo de padrão quando joguem neles.
+Esses beatmaps idealmente atendem a todos os [critérios de ranqueamento](/wiki/Ranking_criteria). Isso existe para garantir que todos os jogadores possam esperar algum tipo de padrão quando joguem neles.
 
 ### Aprovados
 
@@ -36,7 +36,7 @@ Esses beatmaps estão no último passo dos processos de beatmapping e modding. A
 - Todas as pontuações serão excluídas assim que o status seja alterado.
   - Caso o status seja alterado para ranqueado, aprovado ou volte a ser pendente, todos as pontuações serão permanentemente descartadas!
 
-Quando um beatmap é qualificado, isso significa que ele conseguiu passar por todos os [critérios de ranqueamento](/wiki/Ranking_Criteria) e foi avaliado por dois [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Qualificação representa o último passo na linha de chegada, já que eles precisam estar pelo menos uma semana nesse estado para que se tornem [ranqueados](#ranqueados) or [aprovados](#aprovados) permanentemente.
+Quando um beatmap é qualificado, isso significa que ele conseguiu passar por todos os [critérios de ranqueamento](/wiki/Ranking_criteria) e foi avaliado por dois [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Qualificação representa o último passo na linha de chegada, já que eles precisam estar pelo menos uma semana nesse estado para que se tornem [ranqueados](#ranqueados) or [aprovados](#aprovados) permanentemente.
 
 Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/People/Quality_Assurance_Team) escrevam os problemas com esses beatmaps. Caso isso aconteça, o status do beatmapset voltará a ser pendente e o processo volta ao começo.
 
@@ -44,7 +44,7 @@ Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/Peopl
 
 Os beatmaps amados aparecem com o ícone do coração (![Heart icon](/wiki/shared/status/loved.png)) na tela de seleção de músicas.
 
-Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/Ranking_Criteria), mas ainda assim são *amados* pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
+Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/Ranking_criteria), mas ainda assim são *amados* pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
 
 - Nenhum [pp](/wiki/Performance_points) será ganho.
 - Todos as pontuações serão excluídas quando o criador atualizar o beatmap.

@@ -12,7 +12,7 @@ outdated_translation: true
 
 # Kiai -tid
 
-*For forskrifter rundt kiai -tid, se: [Rangeringskriterier](/wiki/Ranking_Criteria)*
+*For forskrifter rundt kiai -tid, se: [Rangeringskriterier](/wiki/Ranking_criteria)*
 
 **Kiai Time** (eller *kiai*) er et begrep gitt for en "spesiell" timing -seksjon for å understreke en del av et [beatmap](/wiki/Beatmap). Spillere kan se om en del av et beatmap har en kiai timing -seksjon hvis de ser ekstra visuelle effekter i bakgrunnen (f.eks. Blinkende beats, flygende stjerner og fontener).
 

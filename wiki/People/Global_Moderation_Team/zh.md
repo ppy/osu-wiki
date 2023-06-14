@@ -14,7 +14,7 @@ tags:
 
 **全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过红色的游戏内名称、柑橘绿的玩家头衔和写着 `GMT` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
-**全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
+**全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
 ***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/Account_support_team#support@ppy.sh)并举报。***
 
@@ -55,7 +55,7 @@ tags:
 
 *注意：除非特殊说明，所有全局管理团队 (GMT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-[全局管理团队 (GMT) 成员列表](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。除了下面提到的领域外，所有全局管理团队 (GMT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
+[全局管理团队 (GMT) 成员列表](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。除了下面提到的领域外，所有全局管理团队 (GMT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_content_considerations)。
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 

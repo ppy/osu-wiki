@@ -5,15 +5,15 @@ outdated_translation: true
 
 # Critères de classement d'osu!mania
 
-***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Cette liste de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cette liste de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -51,11 +51,11 @@ Cette liste de **critères de classement d'osu!mania** définit les [règles et 
 - **Stream** : Des notes constantes avec le même intervalle pour au moins un temps qui ne se répètent pas pour créer un minijack.
 - **Trill** : Plus de deux notes qui alternent entre deux colonnes sans interruption.
 
-Consultez le [Guide de mapping d'osu!mania](/wiki/Guides/osu!mania_Mapping_Guide) pour en savoir plus sur la terminologie des patterns.
+Consultez le [Guide de mapping d'osu!mania](/wiki/Guides/osu!mania_mapping_guide) pour en savoir plus sur la terminologie des patterns.
 
 ## Général
 
-Les règles et directives générales s'appliquent à tous les types de difficulté d'osu!mania. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives générales s'appliquent à tous les types de difficulté d'osu!mania. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Règles
 
@@ -89,7 +89,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 ## Spécifique à une difficulté
 
-Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de difficulté pour lequel elles sont listées et ne *s'appliquent donc pas à **toutes** les difficultés d'osu!mania*. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de difficulté pour lequel elles sont listées et ne *s'appliquent donc pas à **toutes** les difficultés d'osu!mania*. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 *Les directives spécifiques aux key modes sont élaborées sur la base des key modes les plus courants sur les beatmaps classées (4 key et 7 keys). Tous les autres key modes doivent appliquer ces directives, le cas échéant.*
 

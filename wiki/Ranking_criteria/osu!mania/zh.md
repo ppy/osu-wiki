@@ -1,14 +1,14 @@
 # osu!mania 上架标准
 
-***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!mania](/wiki/Game_mode/osu!mania) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!mania 上架标准 (osu!mania Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+若要将 [osu!mania](/wiki/Game_mode/osu!mania) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!mania 上架标准 (osu!mania Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
 
 ## 术语
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -46,11 +46,11 @@
 - **切换 (Stream)：** 物件排布分散，同一轨内，相隔时间最近的两个物件之间，也至少有一拍长的键型。这种键型内通常不包含叠键。
 - **交互 (Trill)：** 物件在两轨间一直交替出现的键型。
 
-更多键型术语请参考 [osu!mania 作图指南](/wiki/Guides/osu!mania_Mapping_Guide)。
+更多键型术语请参考 [osu!mania 作图指南](/wiki/Guides/osu!mania_mapping_guide)。
 
 ## 全局
 
-全局规定和准则适用于所有种类的 osu!mania 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+全局规定和准则适用于所有种类的 osu!mania 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### 规定
 
@@ -84,7 +84,7 @@
 
 ## 具体难度
 
-具体难度的规定和准则只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!mania 难度都适用*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+具体难度的规定和准则只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!mania 难度都适用*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 *键位相关的准则基于最常用的 Ranked 键位模式（4K 和 7K）建立。其他可 Ranked 的键位模式也适用于相应的准则。*
 

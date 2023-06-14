@@ -11,7 +11,7 @@ Mit einer großen Vielfalt an verfügbarer Musik sind die meisten Songs für die
 - extrem und unerträglich laut
 - modifiziert, um hörbare Übersteuerungen oder Verzerrungen zu enthalten, die vom Künstler nicht beabsichtigt waren
 
-Bitte bedenke, dass Songs mit explizitem Inhalt [unter andere Regelungen fallen](/wiki/Rules/Explicit_Content).
+Bitte bedenke, dass Songs mit explizitem Inhalt [unter andere Regelungen fallen](/wiki/Rules/Explicit_content).
 
 ## Was gilt als "stark politischer" Inhalt?
 
