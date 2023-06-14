@@ -60,7 +60,7 @@ Chaque publication des Beatmap Spotlights est assemblée par une équipe de cura
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- :: {flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
+- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
