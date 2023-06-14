@@ -1,12 +1,12 @@
 # Asistente de compensación
 
-*Véase también: [Cómo usar el asistente de compensación](/wiki/Guides/How_to_Use_the_Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)*
+*Véase también: [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)*
 
-El **asistente de compensación** es una herramienta integrada que ayuda al usuario a calibrar la [compensación universal](/wiki/Offset/Universal_offset) al valor correcto para su dispositivo. Esto es necesario cuando los [hitsounds](/wiki/Beatmapping/Hitsound) no están sincronizados con la música, en cada beatmap que juega. Para obtener más información sobre cómo hacer esto, véase [Cómo usar el asistente de compensación](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+El **asistente de compensación** es una herramienta integrada que ayuda al usuario a calibrar la [compensación universal](/wiki/Offset/Universal_offset) al valor correcto para su dispositivo. Esto es necesario cuando los [hitsounds](/wiki/Beatmapping/Hitsound) no están sincronizados con la música, en cada beatmap que juega. Para obtener más información sobre cómo hacer esto, véase [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 Para acceder al asistente de compensación, abra el menú de [opciones](/wiki/Client/Options) y escriba `compensación` en la búsqueda rápida. A continuación, haga clic en el botón `Compensación de sonido global`.
 
-Al abrir el asistente de compensación, el usuario recibe el tictac de un metrónomo y barras verdes verticales que se desplazan repetidamente por la pantalla. La canción que se seleccionó por última vez comenzará a reproducirse, aunque esto se puede cambiar a través de la rocola en la esquina superior derecha de la pantalla.
+Al abrir el asistente de compensación, el usuario recibe el tictac de un metrónomo y barras verdes verticales que se desplazan repetidamente por la pantalla. La canción que se seleccionó por última vez comenzará a reproducirse, aunque esto se puede cambiar a través de la gramola en la esquina superior derecha de la pantalla.
 
 La compensación universal actual se mostrará en la esquina superior izquierda de la pantalla. Se puede cambiar presionando `Flecha arriba` y `Flecha abajo`, o usando la rueda de desplazamiento del ratón.
 
