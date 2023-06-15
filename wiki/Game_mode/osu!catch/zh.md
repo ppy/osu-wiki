@@ -110,6 +110,6 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ![特殊模式中的 osu!catch 标识](/wiki/shared/Ctb_logo.jpg "特殊模式中的 Catch the Beat 标识")
 
-- Until 10 April 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps. However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines. These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu! guidelines.
+- 在 2012 年 4 月 10 日 (2012-04-10) 前，osu!catch 谱面无法上架，也无法被纳入排行谱面中。然而，现在已经变了，谱师可以制作 osu!catch 特定难度，只要遵循指导方针即可。这些方针These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu! guidelines.
 - The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch guest difficulty mapped by Uran](https://osu.ppy.sh/beatmapsets/13676).
 - The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485).
