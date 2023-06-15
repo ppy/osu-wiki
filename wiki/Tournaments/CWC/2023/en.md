@@ -110,18 +110,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T110000&p1=1440&p2=145&p3=262) | *TBD* | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jun 17 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T150000&p1=1440&p2=215&p3=37) | *TBD* | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jun 17 (Sat) 13:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T134500&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T140000&p1=1440&p2=145&p3=262) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T163000&p1=1440&p2=215&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ### Sunday, 18 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=215&p3=145) | *TBD* | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=215&p3=262) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=145) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=262) | *TBD* | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | *TBD* | [^winners-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=37&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## Mappools
 
