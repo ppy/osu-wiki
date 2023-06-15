@@ -110,6 +110,6 @@ osu!catch，之前称作 *Catch the Beat* 或 *CtB*，是一个游戏模式，�
 
 ![特殊模式中的 osu!catch logo](/wiki/shared/Ctb_logo.jpg "特殊模式中的 Catch the Beat logo")
 
-- 在 2012 年 4 月 10 日 (2012-04-10) 前，osu!catch 谱面无法上架，也无法被纳入排行谱面中。然而，现在已经变了，谱师可以制作 osu!catch 特定难度，只要遵循指导方针即可。这些方针的工作量很大且还在制定中，但随着更多的 osu!catch 谱面上架，以及更多玩家给出的反馈，指导方针会发展到与 osu! 指导方针一样彻底与全面的程度。
+- 在 2012 年 4 月 10 日前，osu!catch 谱面无法上架，也无法被纳入排行谱面中。然而，现在已经变了，谱师可以制作 osu!catch 特定难度，只要遵循指导方针即可。这些方针的工作量很大且还在制定中，但随着更多的 osu!catch 谱面上架，以及更多玩家给出的反馈，指导方针会发展到与 osu! 指导方针一样彻底与全面的程度。
 - 第一张至少含有一个 osu!catch 难度的上架谱面是 [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin)，osu!catch 客串难度作者是 Uran](https://osu.ppy.sh/beatmapsets/13676)。
 - 第一张上架的 osu!catch 专谱是 [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485)。
