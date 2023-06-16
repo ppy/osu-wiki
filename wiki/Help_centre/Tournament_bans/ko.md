@@ -14,7 +14,7 @@
 
 실제 예를 들면 스트리밍 경기에서의 스모크를 이용한 증오/비방 표현(나치 문양 등)을 그리거나 쓰는 행위가 포함됩니다.
 
-일반 항소를 통해 제한이 해제되어 게임에 복귀하는 모든 유저는 [계정 지원팀](/wiki/People/The_Team/Account_support_team)의 재량에 따라 연장될 수 있는 [1년의 일시적인 토너먼트 밴](/wiki/Help_centre/Account_restrictions#reasons)이 적용됩니다.
+일반 항소를 통해 제한이 해제되어 게임에 복귀하는 모든 유저는 [계정 지원팀](/wiki/People/Account_support_team)의 재량에 따라 연장될 수 있는 [1년의 일시적인 토너먼트 밴](/wiki/Help_centre/Account_restrictions#reasons)이 적용됩니다.
  
 ## 영구 토너먼트 밴을 받는 원인은 무엇인가요? {id=why-permanent}
 
@@ -34,7 +34,7 @@
 
 일시적이거나 영구적인 **토너먼트 밴에 대해 항소는 불가능합니다.**
 
-매우 드문 경우이지만 [계정 지원팀](/wiki/People/The_Team/Account_support_team)은 개별 사례를 검토하고, 과거에 있던 유사한 사건과의 일관성을 유지하기 위해 제재를 없애거나 다시 적용할 수 있습니다.
+매우 드문 경우이지만 [계정 지원팀](/wiki/People/Account_support_team)은 개별 사례를 검토하고, 과거에 있던 유사한 사건과의 일관성을 유지하기 위해 제재를 없애거나 다시 적용할 수 있습니다.
 
 ## 토너먼트 밴 기간 동안 무엇을 할 수 있나요? {id=while-banned}
 

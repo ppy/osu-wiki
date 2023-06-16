@@ -9,7 +9,7 @@ Konten-konten yang diajukan kepada para anggota [Beatmap Nominator](/wiki/People
 
 ## Proses kajian
 
-1. Seorang mapper, modder, atau pengguna melaporkan suatu konten visual pada beatmap yang disinyalir melanggar [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) melalui situs web Beatmap Nominator.
+1. Seorang mapper, modder, atau pengguna melaporkan suatu konten visual pada beatmap yang disinyalir melanggar [Pertimbangan Konten Visual](/wiki/Rules/Visual_content_considerations) melalui situs web Beatmap Nominator.
 2. Laporan tersebut diperiksa keabsahannya oleh NAT, dan—kecuali pada kasus-kasus yang jelas melanggar aturan—sebuah “berkas kasus” (*content case*) untuk konten yang bersangkutan dibuka untuk dilakukan pemungutan suara. Semua anggota BN, GMT, dan NAT berhak memberikan suaranya secara terpisah.
 3. Selama pemungutan suara masih berjalan, beatmap-beatmap yang terlapor tidak dapat dinominasikan ataupun di-*qualify*. Beatmap-beatmap yang sebelumnya sudah berstatus Qualified akan didiskualifikasi dengan segera.
 4. Pemungutan suara akan secara ditutup secara otomatis apabila dalam rentang waktu 3 hari tidak ada suara baru yang masuk atau apabila 7 hari telah berlalu semenjak berkas kasus yang bersangkutan dibuka.

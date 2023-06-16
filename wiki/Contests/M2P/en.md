@@ -41,7 +41,7 @@ Alongside the Judging Criteria that each judge will provide, there are some rule
 - **All entries must be osu!taiko beatmaps.**
 - **Submissions must include only ONE difficulty,** unless stated otherwise by the judge.
 - **Songs must not exceed 7 minutes of length.** There will a bit of leeway in cases where the song is really close to the 7 minute mark.
-- **All submissions should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
+- **All submissions should abide by the [Ranking Criteria](/wiki/Ranking_criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
 - **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing entries publicly by any means before the results are announced will result in a disqualification, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 

@@ -11,7 +11,7 @@ Esse artigo serve de guia para te ajudar a editar suas musicas para criação de
 
 ## Audio Encoding
 
-O processo de mudar o bit rate de um mp3. No [ranking criteria](/wiki/Ranking_Criteria) do osu! são permitidas musicas com bit rate entre 128 kbps até 192 kbps pois possuem ótima qualidade com tamanho de arquivo pequeno.
+O processo de mudar o bit rate de um mp3. No [ranking criteria](/wiki/Ranking_criteria) do osu! são permitidas musicas com bit rate entre 128 kbps até 192 kbps pois possuem ótima qualidade com tamanho de arquivo pequeno.
 
 Em alguns casos, mappers possuem um mp3 com bit rates maiores (normalmente 320 ou 256 kbps) que precisam ser reduzidas usando softwares de terceiros para que fiquem dentro dos parâmetros ranqueáveis.
 

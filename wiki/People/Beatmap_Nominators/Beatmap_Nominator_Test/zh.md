@@ -11,15 +11,15 @@
 考试题目是从对应项目的题库内抽取得到。考试项目如下：
 
 - [BN 规章制度](/wiki/People/Beatmap_Nominators/Rules)：5 道题目
-- [摸图和作图的行为规范](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)：1 道题目
-- [谱面上架标准 (*RC*)](/wiki/Ranking_Criteria#常规)：1 道题目
-- [难度分布标准 (Spread)](/wiki/Ranking_Criteria#谱面)：1 道题目
-- [歌曲元数据标准 (Metadata)](/wiki/Ranking_Criteria#元数据)：1 道题目
-- [歌曲时间轴标准 (Timing)](/wiki/Ranking_Criteria#时间轴测定)：1 道题目
-- [音频标准](/wiki/Ranking_Criteria#音频)：1 道题目
-- [背景图片和视频标准](/wiki/Ranking_Criteria#视频和背景图片)：1 道题目
-- [自定义皮肤标准](/wiki/Ranking_Criteria#皮肤)：1 道题目
-- [故事板标准](/wiki/Ranking_Criteria#故事板)
+- [摸图和作图的行为规范](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：1 道题目
+- [谱面上架标准 (*RC*)](/wiki/Ranking_criteria#常规)：1 道题目
+- [难度分布标准 (Spread)](/wiki/Ranking_criteria#谱面)：1 道题目
+- [歌曲元数据标准 (Metadata)](/wiki/Ranking_criteria#元数据)：1 道题目
+- [歌曲时间轴标准 (Timing)](/wiki/Ranking_criteria#时间轴测定)：1 道题目
+- [音频标准](/wiki/Ranking_criteria#音频)：1 道题目
+- [背景图片和视频标准](/wiki/Ranking_criteria#视频和背景图片)：1 道题目
+- [自定义皮肤标准](/wiki/Ranking_criteria#皮肤)：1 道题目
+- [故事板标准](/wiki/Ranking_criteria#故事板)
 - 游戏模式特殊标准：与将申请的游戏模式相关 (osu!, osu!taiko, osu!catch, osu!mania)
 
 BN 考试没有分数线，但可以大概地根据得分把申请者分为三类：分数高于 15 为良好，分数处于 12.5 到 15 分之间为一般，低于 12.5 分为较差。

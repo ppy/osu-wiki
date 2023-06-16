@@ -1,12 +1,12 @@
 # osu!catch 上架标准
 
-***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!catch 上架标准 (osu!catch Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+若要将 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!catch 上架标准 (osu!catch Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
 
 ## 全局
 
-全局规定和准则适用于所有种类的 osu!catch 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+全局规定和准则适用于所有种类的 osu!catch 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### 常规
 
@@ -49,11 +49,11 @@
 
 ## 具体难度
 
-具体难度的规定和准则只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!catch 难度都适用*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+具体难度的规定和准则只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!catch 难度都适用*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

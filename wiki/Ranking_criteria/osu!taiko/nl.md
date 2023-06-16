@@ -14,7 +14,7 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ### Namen moeilijkheidsgraden
 
-*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -44,7 +44,7 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ## Globaal
 
-Globale regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkheidsgraad. Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Globale regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkheidsgraad. Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Algemeen
 
@@ -79,7 +79,7 @@ Richtlijnen mogen onder **uitzonderlijke** omstandigheden worden genegeerd. Deze
 
 ## Moeilijkheidsgraad-specifiek
 
-Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op de moeilijkheidsgraad waarvoor ze zijn opgesteld en zijn daardoor *niet van toepassing op **elke** osu!taiko moeilijkheidsgraad.* Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op de moeilijkheidsgraad waarvoor ze zijn opgesteld en zijn daardoor *niet van toepassing op **elke** osu!taiko moeilijkheidsgraad.* Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

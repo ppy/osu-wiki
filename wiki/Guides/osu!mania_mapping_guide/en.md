@@ -34,7 +34,7 @@ As stated, the editor allows a customisable amount of columns. For simplicity, t
 
 **7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
 
-Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).
+Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](/wiki/Ranking_criteria/osu!mania).
 
 *Shortcut:* `Ctrl + MouseScrollWheel`
 
@@ -60,7 +60,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
 | Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
-| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](/wiki/Ranking_Criteria#beatmap) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
+| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](/wiki/Ranking_criteria#beatmap) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
 | Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces. |
 
@@ -236,7 +236,7 @@ After we finally know which patterns we can use and how they are called we can s
 
 If you want to rank your beatmap there some points you have to take note of.
 
-**First**: You need a full spread in your beatmap. An osu!mania beatmap needs usually 3 difficulties or more. An Easy/Normal, a Hard and a Insane one. Of course you can decide for yourself if you want an Easy or Normal but it is best to have both. However you are not forced to have an Easy difficulty in your Mapset. The [osu!mania Ranking Criteria](/wiki/Ranking_Criteria/osu!mania) says that your lowest difficulty has to be below 2\*. That means you can have a Normal as the lowest as long as it is below 2\*. **Maps for approval are not affected of this rule!**
+**First**: You need a full spread in your beatmap. An osu!mania beatmap needs usually 3 difficulties or more. An Easy/Normal, a Hard and a Insane one. Of course you can decide for yourself if you want an Easy or Normal but it is best to have both. However you are not forced to have an Easy difficulty in your Mapset. The [osu!mania Ranking Criteria](/wiki/Ranking_criteria/osu!mania) says that your lowest difficulty has to be below 2\*. That means you can have a Normal as the lowest as long as it is below 2\*. **Maps for approval are not affected of this rule!**
 
 While creating a full spread, it is very important to look at the pattern spread, not at the star rating! It can happen that the star rating becomes really high just because of one really dense part in your map. Osu!mania has a really helpful tool for mapping different difficulties when you already have one ready. As an example: You already have the Hard difficulty for your mapset finished and now you want to map a Normal one. Open the new difficulty, click on "File", then on "Open Difficulty" and then click on "For Reference". Now choose the Hard difficulty. Now, a second mapping field will appear next to your current mapping field. It's the Hard difficulty. It shows you exactly how you have placed the pattern there and you can take this as reference on how to map the Normal difficulty!
 

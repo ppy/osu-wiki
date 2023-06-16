@@ -1,14 +1,14 @@
 # osu!mania ranking criteria
 
-***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
+***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Glossary
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -46,11 +46,11 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 - **Stream**: Constant notes with the same interval for at least one beat that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.
 
-Refer to the [osu!mania Mapping Guide](/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
+Refer to the [osu!mania Mapping Guide](/wiki/Guides/osu!mania_mapping_guide) for more pattern terminology.
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Rules
 
@@ -84,7 +84,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 

@@ -51,9 +51,9 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 Všechno osu! beatmapy jsou vytvářeny kvetoucí představivostí jeho dynamické komunity. Vždy jste chtěli sdílet svou oblíbenou hudbu s ostatními, ale nevěděli jste jak? Seznamte se s vestavěným editorem a příležitostmi, které nabízí.
 
-Sekce: [Složit](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Časování](/wiki/Client/Beatmap_editor/Timing) • [Nastavení Skladby](/wiki/Client/Beatmap_editor/Song_Setup)
+Sekce: [Složit](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Časování](/wiki/Client/Beatmap_editor/Timing) • [Nastavení Skladby](/wiki/Client/Beatmap_editor/Song_setup)
 
-Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Časové osy](/wiki/Client/Beatmap_editor/Timelines)
+Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Časové osy](/wiki/Client/Beatmap_editor/Timelines)
 
 Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
@@ -66,7 +66,7 @@ Hodnocení je proces získání žebříčku pro beatmapu, díky čemuž je popu
 
 [Submission](/wiki/Beatmapping/Beatmap_submission) • [Módování](/wiki/Modding) • [Postup hodnocení](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Kritéria hodnocení](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Kritéria hodnocení](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -75,9 +75,9 @@ Hodnocení je proces získání žebříčku pro beatmapu, díky čemuž je popu
 
 Přečtěte si o postupech a předpisech, které udržují osu! a její komunitu v bezpečí, od licencování hudby a pokynů pro média až po pravidla chatu a fóra.
 
-[Pravidla](/wiki/Rules) • [Pravidla chování pro spolupracovníky](/wiki/Rules/Contributor_Code_of_Conduct) • [Pravidla chování při vytváření a úpravách map](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Pravidla](/wiki/Rules) • [Pravidla chování pro spolupracovníky](/wiki/Rules/Contributor_code_of_conduct) • [Pravidla chování při vytváření a úpravách map](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_Content) • [Pravidla obsahu písní](/wiki/Rules/Song_Content_Rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_Content_Considerations)
+Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_usage_guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_content) • [Pravidla obsahu písní](/wiki/Rules/Song_content_rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_content_considerations)
 
 [Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_licensing)
 
@@ -134,7 +134,7 @@ Komunikujte s osu! prostřednictvím jiných aplikací a médií, nebo jí pomoc
 
 Stejně jako téměř všechno tady, osu! wiki je psána a udržována dobrovolníky. Navrhněte zlepšení, nahlaste problém nebo dokonce napište svůj vlastní článek na [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki na GitHubu").
 
-[Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_styling_criteria)
 

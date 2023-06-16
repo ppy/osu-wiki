@@ -12,7 +12,7 @@ outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
 
 Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, este no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
 
-El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_Criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
+El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
 ## Pestañas
 
@@ -172,7 +172,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 ## Defectos
 
-- **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_Criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
+- **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
 - **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Gameplay/Kiai_time) siendo activado por menos de 15 segundos.
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.

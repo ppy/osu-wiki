@@ -68,7 +68,7 @@ Tags are separated with spaces. It is not necessary to use this field as other m
 
 ![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
 
-*Notice: The game mode-specific [Ranking Criteria](/wiki/Ranking_Criteria) have rankable values that should be used.*
+*Notice: The game mode-specific [Ranking Criteria](/wiki/Ranking_criteria) have rankable values that should be used.*
 
 The beatmap's difficulty settings; each setting affects different aspects of the beatmap.
 
@@ -171,7 +171,7 @@ Configuration for hitsounds. Using this will apply globally over the entire beat
 
 #### Sample Set Selection
 
-Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/Guides/Custom_Sample_Overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
+Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/Guides/Custom_sample_overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
 
 #### Sample Set Volume
 

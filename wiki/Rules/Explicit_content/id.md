@@ -8,11 +8,11 @@ no_native_review: true
 
 Para mapper dapat menyematkan label 'eksplisit' pada beatmap buatan mereka dengan cara memberikan tanda centang pada opsi `Konten Eksplisit` yang terdapat pada [menu pengaturan aliran dan bahasa lagu](/wiki/Beatmap/Genre_and_language) di laman beatmap yang bersangkutan. Label ini utamanya digunakan untuk menandai bahwa beatmap yang dimaksud mengandung lagu yang jatuh ke dalam kategori "eksplisit" sebagaimana yang terdefinisi di bawah ini.
 
-Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengunggah segala jenis lagu yang ada ke dalam osu! tanpa terkecuali—untuk amannya, pastikan bahwa lagu yang kamu gunakan telah sepenuhnya patuh pada [aturan konten musik yang berlaku](/wiki/Rules/Song_Content_Rules).
+Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengunggah segala jenis lagu yang ada ke dalam osu! tanpa terkecuali—untuk amannya, pastikan bahwa lagu yang kamu gunakan telah sepenuhnya patuh pada [aturan konten musik yang berlaku](/wiki/Rules/Song_content_rules).
 
 ## Hal-hal apa saja yang termasuk ke dalam konten eksplisit?
 
-Konten eksplisit mengacu **konten audio dari sebuah beatmap** yang bersifat eksplisit seperti, tema lagu, isi lagu, atau penggunaan kata-kata "kasar" yang *berlebihan*. Hal ini **tidak** termasuk penggunaan elemen visual pada beatmap—hal tersebut **harus** mengikuti [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations), atau aspek beatmap yang dapat diubah pengguna (seperti tag atau nama tingkat kesulitan beatmap) yang **harus** mengikuti [aturan komunitas osu!](/wiki/Rules) seperti pada umumnya.
+Konten eksplisit mengacu **konten audio dari sebuah beatmap** yang bersifat eksplisit seperti, tema lagu, isi lagu, atau penggunaan kata-kata "kasar" yang *berlebihan*. Hal ini **tidak** termasuk penggunaan elemen visual pada beatmap—hal tersebut **harus** mengikuti [Pertimbangan Konten Visual](/wiki/Rules/Visual_content_considerations), atau aspek beatmap yang dapat diubah pengguna (seperti tag atau nama tingkat kesulitan beatmap) yang **harus** mengikuti [aturan komunitas osu!](/wiki/Rules) seperti pada umumnya.
 
 Sebagai pedoman praktis, ketentuan konten eksplisit menciptakan pengecualian hanya pada konten yang tidak dapat diubah pengguna dengan alat yang tersedia di dalam permainan, dan konten tersebut masih dapat dicabut berdasarkan kebijakan kasus per kasus oleh [tim osu! support](/wiki/People/Account_support_team).
 

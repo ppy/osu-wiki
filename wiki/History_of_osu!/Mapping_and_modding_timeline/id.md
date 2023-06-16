@@ -14,7 +14,7 @@ Sistem mapping dan modding yang berlaku di osu! selalu berkembang seiring waktu.
 
 ### Oktober
 
-- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
+- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
 - **2007-10-29:** Ikon forum tertentu mulai digunakan untuk menandai status beatmap.
   - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap yang dinilai masih perlu untuk dibenahi.
   - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap yang dinilai telah siap untuk di-rank.
@@ -115,7 +115,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 ### Oktober
 
-- **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) dibuka secara publik sebagai wadah bagi para anggota komunitas untuk dapat berdiskusi seputar segala sesuatunya yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) dibuka secara publik sebagai wadah bagi para anggota komunitas untuk dapat berdiskusi seputar segala sesuatunya yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_criteria).
   - Sebelumnya, diskusi yang menyangkut Ranking Criteria hanya melibatkan para anggota BAT secara terbatas pada sub-forum yang bersifat rahasia. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
 Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan tahun pertama dalam sejarah osu! di mana jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
@@ -245,7 +245,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ### Februari
 
-- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_criteria).
   - Anggota Ranking Criteria Council bertugas untuk menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
   - Layaknya [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate) terdahulu, anggota Ranking Criteria Council sengaja dipilih untuk mewakili suara yang berasal dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
   - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan (osu!, osu!taiko, osu!catch, dan osu!mania). Meskipun demikian, pada akhir masa baktinya, Ranking Criteria Council hanya berhasil menyusun Ranking Criteria untuk mode osu!catch.
@@ -263,7 +263,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ### Juli
 
-- **2016-07-20:** [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) dibentuk untuk menggantikan Ranking Criteria Council.
+- **2016-07-20:** [United Beat-Knights of Ranking Criteria](/wiki/Ranking_criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) dibentuk untuk menggantikan Ranking Criteria Council.
   - UBKRC memiliki tujuan yang sama dengan Ranking Criteria Council, namun UBKRC secara umum menempatkan dirinya pada posisi yang lebih independen dan lebih terbuka terhadap berbagai masukan dari komunitas.
   - Panel UBKRC tersusun oleh para ahli pada bidangnya masing-masing (cth: pakar storyboard, pakar skinning, dsb.).
   - Grup ini diketuai oleh ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) dan ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
@@ -273,7 +273,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-08-05:** [Blog Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog) diluncurkan.
   - Blog ini ditulis karena QAT pada saat itu ingin lebih membuka diri kepada anggota komunitas lainnya. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
-- **2016-08-26:** [Kode etik mapping dan modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) diperkenalkan untuk membuat lingkungan mapping dan modding lebih inklusif dan lebih bertata krama bagi semua.
+- **2016-08-26:** [Kode etik mapping dan modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) diperkenalkan untuk membuat lingkungan mapping dan modding lebih inklusif dan lebih bertata krama bagi semua.
   - Peraturan yang tertera pada dokumen tersebut menjadi dasar bagi para moderator untuk mengambil tindakan terhadap para pelanggar ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
@@ -483,12 +483,12 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 ### Januari
 
 - **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu eksplisit. Label ini tidak berlaku untuk konten visual yang terdapat pada beatmap. <!-- https://github.com/ppy/osu-web/pull/6575 -->
-  - Tata penggunaan konten visual diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
+  - Tata penggunaan konten visual diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_content_considerations).
 - **2021-01-30:** Kanal percakapan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
 ### Maret
 
-- **2021-03-09:** Sejalan dengan perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan mapper untuk menyertakan sumber gambar latar dan media lainnya yang mereka gunakan pada kolom deskripsi beatmap yang bersangkutan.
+- **2021-03-09:** Sejalan dengan perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan mapper untuk menyertakan sumber gambar latar dan media lainnya yang mereka gunakan pada kolom deskripsi beatmap yang bersangkutan.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, calon anggota yang sebelumnya pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang pada umumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Anggota Beatmap Nominator mulai dapat menikmati osu!supporter secara cuma-cuma.

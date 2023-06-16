@@ -41,7 +41,7 @@ tags:
 
 如果不是，請手動更改，圖譜中的每個難度都需要修改。完成後，重新載入圖譜，即可上傳。
 
-如果您仍有問題，或需要更多資訊，請參閱 [BSS 疑難排解](/wiki/Guides/BSS_Issues)。
+如果您仍有問題，或需要更多資訊，請參閱 [BSS 疑難排解](/wiki/Guides/BSS_issues)。
 
 ## 我是 osu! 贊助者，但是我沒有 20 個待辦欄位！ {id=upload-slots}
 

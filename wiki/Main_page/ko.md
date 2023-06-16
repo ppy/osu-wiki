@@ -46,9 +46,9 @@ layout: main_page
    
 모든 osu! 비트맵들은 역동적인 커뮤니티의 꽃 피는 상상력으로 제작되었습니다. 자신이 좋아하는 음악을 다른 사람과 공유하고 싶어 했지만, 방법을 모르셨나요? osu!에 내장된 에디터가 제공하는 기능들을 숙지해 보세요!
     
-섹션: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)
+섹션: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-구성 요소: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) • [메뉴](/wiki/Client/Beatmap_editor/Menu) • [SB Load](/wiki/Client/Beatmap_editor/SB_Load) • [타임라인](/wiki/Client/Beatmap_editor/Timelines)
+구성 요소: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) • [메뉴](/wiki/Client/Beatmap_editor/Menu) • [SB Load](/wiki/Client/Beatmap_editor/SB_load) • [타임라인](/wiki/Client/Beatmap_editor/Timelines)
     
 활동: [비트매핑](/wiki/Beatmapping) • [매핑 기술](/wiki/Beatmapping/Mapping_techniques) • [스토리보드 만들기](/wiki/Storyboard#storyboarding) • [스킨](/wiki/Skinning)
 
@@ -61,7 +61,7 @@ layout: main_page
     
 [비트맵 제출](/wiki/Beatmapping/Beatmap_submission) • [모딩](/wiki/Modding) • [랭크 과정](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[랭킹 크리테리아](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[랭킹 크리테리아](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -70,9 +70,9 @@ layout: main_page
 
 osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인으로부터 계속 안전하게 지켜질 수 있도록 절차 및 채팅 규정에 대해 읽어주세요. 
 
-[규칙](/wiki/Rules) • [기여자 Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) • [모딩 및 매핑을 위한 Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[규칙](/wiki/Rules) • [기여자 Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_Usage_Guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_Voting_Process) • [부적절한 콘텐츠](/wiki/Rules/Explicit_Content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_Content_Considerations)
+미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_usage_guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_voting_process) • [부적절한 콘텐츠](/wiki/Rules/Explicit_content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_content_considerations)
 
 [법률 페이지](/wiki/Legal): [서비스 약관](/wiki/Legal/Terms) • [개인정보](/wiki/Legal/Privacy) • [저작권 (DMCA)](/wiki/Legal/Copyright) • [음악 라이센싱](/wiki/Legal/Music_licensing)
 
@@ -131,7 +131,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 이 페이지에 있는 거의 모든 문서들과 마찬가지로 osu! 위키는 여러분들에 의해 관리됩니다. 개선 사항을 제안하거나, 문제를 보고하거나, 직접 문서를 작성하려면 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 방문해 주세요.
 
-[osu!의 역사](/wiki/History_of_osu!) • [온라인 랭킹 역사](/wiki/History_of_osu!/Online_rankings) • [osu! 위키의 역사](/wiki/History_of_osu!/osu!_wiki) • [매핑과 모딩의 역사](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [만우절](/wiki/History_of_osu!/April_Fools)
+[osu!의 역사](/wiki/History_of_osu!) • [온라인 랭킹 역사](/wiki/History_of_osu!/Online_rankings) • [osu! 위키의 역사](/wiki/History_of_osu!/osu!_wiki) • [매핑과 모딩의 역사](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [만우절](/wiki/History_of_osu!/April_Fools)
 
 [사이트맵](/wiki/Sitemap) • [기여 가이드](/wiki/osu!_wiki/Contribution_guide) • [문서 스타일링 기준](/wiki/Article_styling_criteria) • [뉴스 스타일링 기준](/wiki/News_styling_criteria)
 

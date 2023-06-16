@@ -13,7 +13,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ### 難易度名(Difficulty Names)
 
-*参考: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*参考: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -43,7 +43,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ## 全体的なルール、ガイドライン(Overall)
 
-全体的なルール、ガイドラインは全ての難易度のTaiko譜面に適用されます。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_Criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
+全体的なルール、ガイドラインは全ての難易度のTaiko譜面に適用されます。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
 
 ### 一般(General)
 
@@ -78,7 +78,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ## 難易度別(Difficulty-specific)
 
-難易度別のルール、ガイドラインはそれぞれの難易度ごとに適用されるもので、すべてのTaiko譜面全体に適用されるものではありません。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_Criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
+難易度別のルール、ガイドラインはそれぞれの難易度ごとに適用されるもので、すべてのTaiko譜面全体に適用されるものではありません。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

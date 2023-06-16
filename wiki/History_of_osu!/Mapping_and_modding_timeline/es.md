@@ -14,7 +14,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Octubre
 
-- **21-10-2007:** Se lanzaron los [criterios de clasificación](/wiki/Ranking_Criteria). <!-- https://osu.ppy.sh/community/forums/topics/439 -->
+- **21-10-2007:** Se lanzaron los [criterios de clasificación](/wiki/Ranking_criteria). <!-- https://osu.ppy.sh/community/forums/topics/439 -->
 - **29-10-2007:**: Los íconos de los hilos del foro se estandarizaron para el proceso de clasificación.
   - Un ícono de `estrella` (![star icon](/wiki/shared/icon/star.gif)) marcaba a los buenos mapas que necesitaban más trabajo.
   - Un ícono de `burbuja` (![bubble icon](/wiki/shared/icon/bubble.gif)) marcaba a los mapas considerados para la clasificación.
@@ -115,7 +115,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Octubre
 
-- **08-11-2011:** Se abrió el [Subforo de los Criterios de Clasificación](https://osu.ppy.sh/community/forums/87) para la discusión pública sobre las propuestas de los [Criterios de Clasificación](/wiki/Ranking_Criteria).
+- **08-11-2011:** Se abrió el [Subforo de los Criterios de Clasificación](https://osu.ppy.sh/community/forums/87) para la discusión pública sobre las propuestas de los [Criterios de Clasificación](/wiki/Ranking_criteria).
   - Estas discusiones fueron realizadas previamente por miembros del BAT en un subforo privado. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
 **1368 mapas** fueron clasificados en 2011. Esta fue la primera caída después de 4 años de crecimiento consecutivo.
@@ -245,7 +245,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Febrero
 
-- **13-02-2016:** El [Consejo de los Criterios de Clasificación](/wiki/Ranking_Criteria/Ranking_Criteria_Council) fue creado para reformar los [Criterios de Clasificación](/wiki/Ranking_Criteria).
+- **13-02-2016:** El [Consejo de los Criterios de Clasificación](/wiki/Ranking_criteria/Ranking_Criteria_Council) fue creado para reformar los [Criterios de Clasificación](/wiki/Ranking_criteria).
   - Las propuestas públicas en el subforo de los Criterios de clasificación ya no se consideraron.
   - Adoptando una postura similar a la del [Conglomerado Triumvir](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate), el Consejo de los Criterios de Clasificación involucró a miembros para representar los principales subgrupos de mapeo por región. Cada modo de juego tenía 1 mapeador y 1 jugador de América, Europa y Asia, junto con 2 miembros del QAT.
   - El objetivo de cada modo de juego era crear un criterio de clasificación general/específico de dificultad para su modo respectivo. osu!catch fue el único modo de juego que logró este objetivo bajo este sistema.
@@ -263,7 +263,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Julio
 
-- **20-07-2016:** El [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) fue creado para reemplazar al Consejo de los Criterios de Clasificación.
+- **20-07-2016:** El [United Beat-Knights of Ranking Criteria](/wiki/Ranking_criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) fue creado para reemplazar al Consejo de los Criterios de Clasificación.
   - Los objetivos del UBKRC eran los mismos que los del Consejo de los Criterios de Clasificación, pero tenía una aceptación más amplia porque estaba abierto a la influencia de la comunidad.
   - Se eligieron equipos de expertos para cada subsección de los Criterios de clasificación (por ejemplo, un equipo de expertos en storyboards, otro equipo de expertos en skins, etc.).
   - El grupo fue administrado por ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) y ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
@@ -273,7 +273,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 - **05-08-2016:** Se creó el [blog del Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog).
   - El QAT estaba recibiendo críticas por estar demasiado aislado del resto de la comunidad de mapeo, por lo que este blog se creó para aumentar la transparencia en la toma de decisiones y la actividad de la comunidad del QAT. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
-- **26-08-2016:** El [Código de conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) se implementó para establecer las expectativas del comportamiento del modeo.
+- **26-08-2016:** El [Código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas del comportamiento del modeo.
   - Estas reglas y pautas fueron tratadas como sentido común hasta este punto. Al documentarlos, la moderación podría hacerse más consistente.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### Septiembre
@@ -462,7 +462,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Junio
 
-- **09-06-2020:** El artículo de [Directrices de uso de contenido](/wiki/Rules/Content_Usage_Guidelines) se agregó a la wiki y se promocionó en el [Sistema de envío de Mapa](/wiki/Beatmapping/Beatmap_submission) para fomentar el permiso adecuado para todos los activos en los nuevos envíos de mapa.
+- **09-06-2020:** El artículo de [Directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines) se agregó a la wiki y se promocionó en el [Sistema de envío de Mapa](/wiki/Beatmapping/Beatmap_submission) para fomentar el permiso adecuado para todos los activos en los nuevos envíos de mapa.
 
 ### Octubre
 
@@ -487,12 +487,12 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 ### Enero
 
 - **05-01-2021:** Se implementó la etiqueta `Explícito` a los mapas para limpiar el contenido clasificado antiguo inapropiado y permitir contenido de canciones previamente inaceptable. <!-- https://github.com/ppy/osu-web/pull/6575 -->
-  - Este cambio no se aplicó al contenido visual en los mapas pendientes. Estos continúan siguiendo las [Consideraciones de contenido visual](/wiki/Rules/Visual_Content_Considerations).
+  - Este cambio no se aplicó al contenido visual en los mapas pendientes. Estos continúan siguiendo las [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations).
 - **30-01-2021:** El canal de chat del juego `#modhelp` se reemplazó por `#mapping` porque el canal original se usaba principalmente para las discusiones de mapeo.
 
 ### Marzo
 
-- **09-03-2021:** Junto con las [Directrices de uso de contenido](/wiki/Rules/Content_Usage_Guidelines), una adición a los Criterios de clasificación comenzó a exigir a los mapeadores que buscaran sus imágenes de fondo y otros medios en sus descripciones.
+- **09-03-2021:** Junto con las [Directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines), una adición a los Criterios de clasificación comenzó a exigir a los mapeadores que buscaran sus imágenes de fondo y otros medios en sus descripciones.
 - **15-03-2021:** Se aflojaron los requisitos para volver a unirse a los Beatmap Nominators.
   - Todos los solicitantes debían someterse a la solicitud, pero los miembros del grupo que regresaban tenían opciones de tiempo de espera más breves y se les permitía proporcionar 1 o 2 meses de actividad de modeo en lugar del estándar anterior de 3 meses.<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **16-03-2021:** Los Beatmap Nominators recibieron la renovación automática de osu!supporter.

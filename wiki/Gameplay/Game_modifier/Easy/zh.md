@@ -14,7 +14,7 @@ tags:
 ![EZ 模组图标](/wiki/shared/mods/EZ.png "Easy (EZ) 模组图标")
 
 *对于更多义项，参见：[Easy （消歧义）](/wiki/Disambiguation/Easy).*\
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -31,7 +31,7 @@ tags:
 
 ## 说明
 
-**Easy** [游戏模组](/wiki/Game_modifier)通过将所选[谱面](/wiki/Beatmap)的所有难度参数减半以尝试降低难度。
+**Easy** [游戏模组](/wiki/Gameplay/Game_modifier)通过将所选[谱面](/wiki/Beatmap)的所有难度参数减半以尝试降低难度。
 
 在除了 [osu!taiko](/wiki/Game_mode/osu!taiko) 的所有[游戏模式](/wiki/Game_mode)中，此模组会在游玩期间给玩家两条额外“生命”。当[血条](/wiki/Client/Interface/Health_bar)降到零时，会暂停游戏，使血条缓慢回复到约 80% 处，并从玩家生命数中除去一条“命”。在此效果期间不会播放音效。
 
@@ -39,7 +39,7 @@ tags:
 
 ### osu!
 
-在 [osu!](/wiki/Game_mode/osu!) 中，此模组将[圆圈大小 (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size)、[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)、[整体难度 (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty)与[掉血速度 (HP)](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate)减半。
+在 [osu!](/wiki/Game_mode/osu!) 中，此模组将[圆圈大小 (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size)、[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[整体难度 (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty)与[掉血速度 (HP)](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate)减半。
 
 ![EZ 模组下的 osu! 游玩界面](img/EZ-comparison-osu.jpg "osu! 中正常游玩（左图）与启用 Easy 模组（右图）的比较")
 
@@ -49,9 +49,9 @@ tags:
 
 ### osu!taiko
 
-在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，此模组将[滑条速率](/wiki/Hit_object/Slider_velocity)、OD 值与 HD 值减半。
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，此模组将[滑条速率](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)、OD 值与 HD 值减半。
 
-*注意：完成[转盘](/wiki/Hit_object/Spinner)所需打击数会变为 OD 值。*
+*注意：完成[转盘](/wiki/Gameplay/Hit_object/Spinner)所需打击数会变为 OD 值。*
 
 与其他游戏模式不同，由于游玩过程中不可能失败，在 osu!taiko 中使用此模组并未添加额外生命，而是降低获得血量所需得分，让血条能更快被填满。
 
@@ -69,9 +69,9 @@ tags:
 
 ## 杂项
 
-- 回放中使用额外生命时，不会出现回血动画，如同玩家正使用 [No Fail](/wiki/Game_modifier/No_Fail) 模组游玩一般。
+- 回放中使用额外生命时，不会出现回血动画，如同玩家正使用 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组游玩一般。
 - 在[多人游戏](/wiki/Client/Interface/Multiplayer)的 [Tag Co-op 或 Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) 模式中，“生命数”无效。
-- 此模组会自动禁用 [Hard Rock](/wiki/Game_modifier/Hard_Rock) 模组，反之亦然。
+- 此模组会自动禁用 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组，反之亦然。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

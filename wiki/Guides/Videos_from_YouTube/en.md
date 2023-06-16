@@ -33,4 +33,4 @@ youtube-dl -f bestvideo <video link>
 
 *Main page: [Compressing files](/wiki/Guides/Compressing_files)*
 
-After downloading the video, you can load the video into the beatmap as you would normally through the [design tab](/wiki/Client/Beatmap_editor/Design) in the [beatmap editor](/wiki/Client/Beatmap_editor). However, not only will the video contain audio tracks that will be unused and take up extra space, the beatmap [Ranking Criteria](/wiki/Ranking_Criteria#video-and-background) forbids videos with audio tracks as they are not used. See [Compressing Files](/wiki/Guides/Compressing_files) for ways to remove audio from the video.
+After downloading the video, you can load the video into the beatmap as you would normally through the [design tab](/wiki/Client/Beatmap_editor/Design) in the [beatmap editor](/wiki/Client/Beatmap_editor). However, not only will the video contain audio tracks that will be unused and take up extra space, the beatmap [Ranking Criteria](/wiki/Ranking_criteria#video-and-background) forbids videos with audio tracks as they are not used. See [Compressing Files](/wiki/Guides/Compressing_files) for ways to remove audio from the video.
