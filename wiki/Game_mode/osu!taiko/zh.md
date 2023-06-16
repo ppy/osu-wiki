@@ -84,12 +84,12 @@ osu!taiko 的默认控制方式如下：
 
 - [Judgement](/wiki/Gameplay/Judgement/osu!taiko) determines a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and large notes depends on hit timing, while every other object's base value is constant.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss. In osu!taiko, the score multiplier derived from combo is limited and doesn't affect total score as much as it does in osu! or osu!catch.
-- [Kiai time](/wiki/Gameplay/Kiai_time): in osu!taiko, active kiai time increases score gain by 20%, just as it does in the original *Taiko no Tatsujin* series.
+- [连击数](/wiki/Gameplay/Combo_(score_multiplier))是一个分数乘数：连击数较高时，完成打击物件会对总分作出更多的贡献，反之亦然。连击可能会因为失误 (miss) 而[断掉](/wiki/Gameplay/Judgement/Combobreak)。在 osu!taiko 中，由连击数得出的分数乘数受限，像在 osu! 与 osu!catch 中一样，不影响总分数。
+- [Kiai 时间](/wiki/Gameplay/Kiai_time)：在 osu!taiko 中， Kiai 时间活跃时得分会增加 20%，像原版*太鼓达人*系列中的行为一样。
 
 In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Client/Interface/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
 
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 100s, and misses.
+完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!taiko)。评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评价（从 S 到 D）取决于 300、 100 和 miss 的数目。
 
 ## 自定义皮肤
 
@@ -127,12 +127,12 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 - Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
   - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
 - Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
+- 当使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时，玩家名是 *mekkadosu!*。
 
 ### 历史
 
-![osu!taiko logo in the Special Modes](img/Taiko_logo.jpg "Taiko logo in Special Mode")
+![特殊模式中的 osu!taiko logo](img/Taiko_logo.jpg "特殊模式中的 osu!taiko logo")
 
-- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under `Skin` tab.
-- The first ranked beatmap which contains at least one osu!taiko difficulty is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
-- The first ranked osu!taiko-only beatmap is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
+- 启用`太鼓模式中使用太鼓皮肤`选项时，无论当前皮肤的太鼓元素如何，在 osu!taiko 中游玩时都会使用 `taiko` 文件夹内的皮肤。这个文件夹过去用来存放 *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* 皮肤，可以用现已弃用的 `osume.exe` （osu! 更新所需的更新工具）在`皮肤`标签页下下载。
+- 第一张至少含有一个 osu!taiko 难度的上架谱面是 [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)。
+- 第一张上架的 osu!taiko 专谱是 [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)。
