@@ -9,6 +9,14 @@ osu! luôn cố gắng chạy với thiết lập mặc định và sẽ cảnh 
 
 Không may là với phạm vi các phần cứng được sử dụng để chơi osu! là quá lớn, sẽ rất khó để đảm bảo hiệu năng tối ưu cho mọi người chơi. Trang này ngoài việc giúp bạn tự phát hiện vấn đề hiệu năng mình gặp phải, mà còn cung cấp một vài thuật ngữ bạn có thể học (và có thể thực hiện kiểm tra) để giúp chúng tôi giúp được bạn khi bạn cần hỗ trợ.
 
+## Những việc nên thử
+
+- Bạn có sử dụng skin tuỳ chỉnh không? Nếu có, thử đổi về skin mặc định và xem có sự tiến bộ không. Mốt số skin được làm ra theo một cách mà có thể gây ra vấn đề về hiệu năng on some or all systems.
+- Is your frame limiter set to `Unlimited`? Set it to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
+- Are you running windowed? Switch to fullscreen.
+- Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
+- Does your PC use an NVIDIA Optimus or similar hybrid graphics setup? If so, try forcing the game to run on each of the GPUs to compare performance. It is quite common for the integrated GPU to provide more consistent performance for games like osu!. Search for “Graphics settings” in Windows and set osu! to either “Power Saving” or “High Performance” to experiment.
+
 ## Các kiểu "lag"
 
 Rất khó để hỗ trợ bạn khi mọi vấn đề bạn gặp được gộp chung vào một từ "lag", nên hãy bắt đầu bằng việc định nghĩa một vài thuật ngữ cho từng trường hợp cụ thể.
