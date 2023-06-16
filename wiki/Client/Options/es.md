@@ -1,6 +1,6 @@
 # Opciones
 
-![Options menu](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
+![Menú de opciones](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
 
 En el menú principal, haga clic en `Opciones` o presione `O` (o presione `Ctrl` + `O` que funciona en casi cualquier pantalla) para acceder a la barra lateral de opciones y cambiar las opciones disponibles en osu! Una vez que se abre el menú de opciones, puede escribir para buscar una configuración específica. El texto de la barra de búsqueda temblará si la consulta de búsqueda no tiene resultados.
 
@@ -252,7 +252,7 @@ El volumen principal, la música y los efectos se pueden cambiar en otro lugar p
 
 ![Icono de Skin](img/skin-ES.png "Icono de Skin")
 
-This section is about skin related things.
+Esta sección trata sobre cosas relacionadas con la skin.
 
 ### Skin
 
