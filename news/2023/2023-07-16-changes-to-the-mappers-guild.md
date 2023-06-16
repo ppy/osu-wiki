@@ -29,10 +29,10 @@ These new-style quests function differently from normal quests too. Here's the i
 
 - **Anyone can participate in priority quests.** Unlike normal quests, you don't need to claim priority quests in advance.
 - **Quests are tiered by difficulty:**
-    - Tier 1 ![bronze icon](https://mappersguild.com/images/bronze-small.png) (easiest, most common)
-    - Tier 2 ![silver icon](https://mappersguild.com/images/silver-small.png)
-    - Tier 3 ![gold icon](https://mappersguild.com/images/gold-small.png)
-    - Tier 4 ![platinum icon](https://mappersguild.com/images/platinum-small.png) (hardest, least common)
+  - Tier 1 ![bronze icon](https://mappersguild.com/images/bronze-small.png) (easiest, most common)
+  - Tier 2 ![silver icon](https://mappersguild.com/images/silver-small.png)
+  - Tier 3 ![gold icon](https://mappersguild.com/images/gold-small.png)
+  - Tier 4 ![platinum icon](https://mappersguild.com/images/platinum-small.png) (hardest, least common)
 - Depending on the quest's win condition, **multiple users can earn prizes for the same quest.**
 - **Maps can be added to priority quests until the deadline is met or a prize-winner is selected.** This also depends on the quest's win condition!
 
