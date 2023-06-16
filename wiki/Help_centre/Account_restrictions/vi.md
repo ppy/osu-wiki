@@ -14,7 +14,7 @@ Khi một tài khoản bị hạn chế, họ sẽ không thể tương tác v�
 Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn chế:
 
 - khả năng tham dự sự kiện chính thức
-- khả năng tham dự and staff for officially supported tournaments
+- khả năng tham dự và hỗ trợ các giải đấu chính thức
 - khả năng tham dự các phòng mutilplayer
 - chat trong game
 - nhắn tin riêng tư
