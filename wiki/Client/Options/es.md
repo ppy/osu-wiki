@@ -246,7 +246,7 @@ El volumen principal, la música y los efectos se pueden cambiar en otro lugar p
 | `Compensación de sonido global` | Abre el asistente de compensación. | Botón |  |
 
 - Para obtener detalles sobre el asistente de compensación, véase [Asistente de compensación](/wiki/Client/Options/Offset_Wizard).
-- Para obtener detalles sobre el uso del asistente de compensación, véase [Cómo usar el Asistente de compensación](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Para obtener detalles sobre el uso del asistente de compensación, véase [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 
