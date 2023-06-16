@@ -1,6 +1,6 @@
 # Atajos del teclado
 
-Para acceder a este cuadro de diálogo, abra las [Opciones](/wiki/Client/Options), escriba `atajos` y luego haga clic en `Atajos del teclado`.
+Para acceder a este cuadro de diálogo, abra las [opciones](/wiki/Client/Options), escriba `atajos` y luego haga clic en `Atajos del teclado`.
 
 Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enumeradas.
 
@@ -74,7 +74,7 @@ Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enu
 
 **Notas:**
 
-- Explicación de la `Tecla jefe`: [Tecla jefe](https://en.wikipedia.org/wiki/Boss_key)
+- Explicación de la `Tecla jefe`: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
   - Cuando se usa, osu! se silenciará y ocultará la ventana en la barra de herramientas.
   - Para deshabilitar la tecla jefe, haga clic en el icono de osu! en la barra de tareas y se abrirá el osu!client.
 
@@ -95,7 +95,7 @@ Aquí, puede cambiar la reasignación de teclas del teclado con las acciones enu
 | Alternar Bloqueo de notas | `L` |
 | Empujar a la izquierda | `J` |
 | Empujar a la derecha | `K` |
-| Alternar ayuda | `H` |
+| Alternar Ayuda | `H` |
 | Saltar a la primera nota | `Z` |
 | Reproducir desde el principio | `X` |
 | Pausar sonido | `C` |
