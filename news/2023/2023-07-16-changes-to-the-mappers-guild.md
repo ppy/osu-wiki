@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Changes within the Mappers' Guild 
-date: 2022-07-16 06:00:00 +0000
+title: Changes to the Mappers' Guild
+date: 2023-07-16 00:00:00 +0000
 ---
 
 The doors are wide open. Contribute to Featured Artist mapping and earn some cool stuff in the process through the **Mappers' Guild**!
