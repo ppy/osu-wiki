@@ -110,7 +110,7 @@ osu! 的游玩基于*[押忍！战斗！应援团](https://zh.wikipedia.org/wiki
 
 - 取决于难度设定与计时严度，*过早*点击物件会使之强烈振动。
 - 在没有隐藏或可见滑条点的空路径上释放滑条球不会导致断连，也不会得分。滑条判定只会检查是否点击起点处的圆圈，是否收集了滑条点，以及是否成功到达终点处圆圈。
-- 玩 *DS* 时（尤其是高难度关卡），完成转盘是刮坏触摸屏（或者屏幕保护膜）的最佳办法。在 osu! 中，转盘已经得到优化，完成它不会这么麻烦。转盘每分钟可实现的最高转数是 477 转，也是 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时的旋转速度，而 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组的旋转速度较低，是每分钟 287 转。
+- 玩 *DS* 时（尤其是高难度关卡），完成转盘很容易刮坏触摸屏（或者屏幕保护膜）。osu! 的转盘已经优化，完成它不会这么麻烦。转盘每分钟可实现的最高转数是 477 转，也是 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时的旋转速度，而 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组的旋转速度较低，是每分钟 287 转。
 - 在旋转中途改变旋转方向会导致转盘变慢（每分钟转速会降为 0，来重置旋转方向），然后才会按正确方向旋转。重新旋转过程中，不会丢失旋转进度（只是不会增加），在反向旋转过程中会继续增加。
 - 如果不沿转盘中心旋转，则旋转**无效**。
 - 拉烟轨迹比默认的游戏内光标持续时间更长。稀疏使用拉烟效果可以避免先前的拉烟效果过快消失。
@@ -128,7 +128,7 @@ osu! 的游玩基于*[押忍！战斗！应援团](https://zh.wikipedia.org/wiki
       - 计时器是转盘内的圆圈，会缩小到转盘中心。当计时圈到达转盘中心时，转盘就会结束。
     - v2 皮肤行为中的转盘在完成时，会将转盘圈缓慢放大到完全大小并发光。
       - 计时器是转盘外缘的变色圆圈。当计时圈的颜色完全改变时，转盘就会结束。
-- 在线排行榜启用当天（2007 年 10 月 7 日，2007-10-07），最先上架的三张谱面是：
+- 在线排行榜启用当天（2007 年 10 月 7 日），最先上架的三张谱面是：
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1)，即 `discoprince`；显然是在约一小时内作好的图。
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)，即 `Brandy - Love Fighter`。
