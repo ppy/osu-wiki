@@ -547,7 +547,7 @@ osu!mania 是继 osu!taiko 和 osu!catch 游戏模式后，第三个加入的模
 
 ## 参考
 
-- peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
+- peppy's superseded web FAQ （`/p/faq/`，本页面基于此；目前已被移除）
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training，作者 Pokebis")
 - OnosakiHito's TBT Project \[Training Manual For Taiko Beginner v2\] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\]，作者 OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project，作者 Kingkevin30")
