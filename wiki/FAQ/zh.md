@@ -244,7 +244,7 @@ osu!mania 是继 osu!taiko 和 osu!catch 游戏模式后，第三个加入的模
 
 通过使用 [xK](/wiki/Gameplay/Game_modifier/xK) 游戏模组，玩家可以在分数倍率减少的情况下手动将键位数量设置为 1 到 9 之间。然而，此模组对 osu!mania 专谱不起作用。
 
-通过使用 [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) 模组，舞台会分成两半，使用 Co-Op 的控制方式，让玩家在分数倍率减少的情况下玩 2 到 18 个键位。请注意，尽管 osu!mania 专谱中预设的键位数不会加倍，但会把舞台分成两半（如果键位数是计数，则左侧优先），使用 Co-Op 的控制方式，不会导致分数倍率减少。
+通过使用 [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) 模组，舞台会分成两半，使用 Co-Op 的控制方式，让玩家在分数倍率减少的情况下玩 2 到 18 个键位。请注意，尽管 osu!mania 专谱中预设的键位数不会加倍，但会把舞台分成两半（如果键位数是奇数，则左侧优先），使用 Co-Op 的控制方式，不会导致分数倍率减少。
 
 #### 基本游玩知识
 
@@ -547,7 +547,7 @@ osu!mania 是继 osu!taiko 和 osu!catch 游戏模式后，第三个加入的模
 
 ## 参考
 
-- peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
+- peppy's superseded web FAQ （`/p/faq/`，本页面基于此；目前已被移除）
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training，作者 Pokebis")
 - OnosakiHito's TBT Project \[Training Manual For Taiko Beginner v2\] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\]，作者 OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project，作者 Kingkevin30")
