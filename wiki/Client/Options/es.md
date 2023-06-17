@@ -328,14 +328,14 @@ Estas opciones solo afectan mientras se trabaja dentro del editor de beatmaps o 
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Vídeo de fondo` | Reproduce el vídeo de fondo del mapa mientras se edita. | Casilla de verificación | `Desactivada` |
+| `Vídeo de fondo` | Reproduce el vídeo de fondo del beatmap mientras se edita. | Casilla de verificación | `Desactivada` |
 | `Usar skin por defecto` | Usa la skin predeterminada de osu! mientras edita, a pesar de la configuración actual de la skin. | Casilla de verificación | `Desactivada` |
 | `Deslizadores serpenteantes` | Habilita los deslizadores serpenteantes mientras edita. | Casilla de verificación | `Activada` |
 | `Animaciones de golpeo` | Habilita las animaciones de golpeo mientras edita. | Casilla de verificación | `Desactivada` |
 | `Puntos de seguimiento` | Habilita los puntos de seguimiento mientras edita. | Casilla de verificación | `Activada` |
 | `Apilado` | Apila los círculos como en el juego. | Casilla de verificación | `Activada` |
 
-Estas opciones se pueden sobrescribir manualmente usando el menú `Ver` en el editor de mapas.
+Estas opciones se pueden sobrescribir manualmente usando el menú `Ver` en el editor de beatmaps.
 
 ## En línea
 
@@ -390,9 +390,9 @@ Esta sección trata sobre beatmaps y actualizaciones.
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
-| `Borrar mapas no rankeados` | Elimina todos los mapas no clasificados de su carpeta de canciones. | Botón |
+| `Borrar mapas no rankeados` | Elimina todos los beatmaps no clasificados de su carpeta de canciones. | Botón |
 | `Forzar permisos de carpeta` | Da permiso de lectura/escritura al cliente del juego para acceder a sus carpetas. (Esto requiere privilegios de administrador para completarse). | Botón |
-| `Marcar todos los mapas como jugados` | Marca todos los mapas como «jugados». | Botón |
+| `Marcar todos los mapas como jugados` | Marca todos los beatmaps como «jugados». | Botón |
 | `Actualizar osu!` | Cierra el cliente del juego y abre el actualizador para buscar actualizaciones y descargarlas, si las hay. | Botón |
 
 En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en su navegador de Internet.
@@ -415,7 +415,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - `{revision}` es la revisión de la compilación
   - Si no hay un número de revisión de la compilación, se eliminará el punto decimal.
 - `{type}` es el tipo de la compilación
-  - Si no hay un valor de tipo de la compilación, asuma que es `Estable`.
+  - Si no hay un valor de tipo de la compilación, asuma que es `Stable`.
 
 ## Curiosidades
 
