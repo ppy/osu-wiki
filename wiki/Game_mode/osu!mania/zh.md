@@ -18,37 +18,37 @@ osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但
 
 在选歌页面，*K* 旁边的数字显示游玩使用的按键数目。如果 *K* 末尾有一个 “↓” 符号，则游玩时判定会较为宽松。
 
-例如，*4K↓* 意味着会使用四 (4) 个键游玩，判定比正常情况宽松。
+例如，*4K↓* 意味着会使用四个键游玩，判定比正常情况宽松。
 
 请注意，谱面的判定会自动决定。
 
-#### osu!specific beatmaps and conversion from osu! beatmap difference
+#### osu!mania 专谱与 osu! 转谱的不同
 
-When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
+当转换非专谱时，默认键数范围是 4 到 7 个键。
 
-With the [xK](/wiki/Gameplay/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
+通过使用 [xK](/wiki/Gameplay/Game_modifier/xK) 游戏模组，玩家可以在分数倍率减少的情况下手动将键位数量设置为 1 到 9 之间。然而，此模组对 osu!mania 专谱不起作用。
 
-With the [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+通过使用 [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) 模组，舞台会分成两半，使用 Co-Op 的控制方式，让玩家在分数倍率减少的情况下玩 2 到 18 个键位。请注意，尽管 osu!mania 专谱中预设的键位数不会加倍，但会把舞台分成两半（如果键位数是奇数，则左侧优先），使用 Co-Op 的控制方式，不会导致分数倍率减少。
 
 #### 速度变化
 
-![Speed Change value is located at the top-right](img/Mania_SC.jpg "Speed Change value is located at the top-right")
+![速度变化值位于右上角](img/Mania_SC.jpg "速度变化值位于右上角")
 
-**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower).
+**音符的滚动速度**可以通过按下 `Ctrl` （或 `Shift`） 与 `+` （加快） / `-` （减慢）来改变。
 
-The lowest limit is 1 and the highest limit is 40.
+速度变化的下限是 1，上限是 40。
 
-##### BPM 缩放与固定滚动速度
+##### BPM 调整与固定滚动速度
 
-![A difference Speed Change can make depending on beatmap's density](img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density")
+![取决于谱面物件的密度，可以设置不同的速度变化](img/Mania_SCDifference.png "取决于谱面物件的密度，可以设置不同的速度变化")
 
-**BPM scaling** is the current default old scaling system which scale the scroll speed relative to the current BPM played. There will be a difference in scroll speed when playing a 100BPM (scrolls slower) and 200BPM (scrolls faster) beatmap with the same scaling speed.
+**BPM 调整系统**是目前默认的旧调整系统，依照当前播放歌曲的 BPM 调整滚动速度。调整速度相同时，100BPM（滚动更慢） 与 200BPM（滚动更快）谱面的滚动速度是不同的。
 
-![Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`](img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar")
+![禁用 `按 BPM 调整 osu!mania 下落速度` 以激活固定调整系统](img/Mania_Scale.png "在设置侧边栏中禁用 `按 BPM 调整 osu!mania 下落速度` 以激活固定调整系统")
 
-**Fixed** scroll speed is the new system that enforce a constant scroll speed along with the current BPM speed. [A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/community/forums/topics/254145).
+**固定**滚动速度是新的调整系统，基于当前 BPM 速度强制设置恒定的滚动速度。[2014 年 10 月 29 日一篇关于固定调整系统的，极其简单的介绍帖，作者 Blazier](https://osu.ppy.sh/community/forums/topics/254145)。
 
-Do note that both scaling system will still be affected by speed up/down by BPM changes, with the changes ranging from drastic (usually for BPM scaling to higher BPM with speedy notes; very low BPM for fixed scaling with condensed notes) to minor (usually fixed scaling on most BPM spectrum) depending on Speed Change settings used.
+请注意，两个调整系统都仍然会受到 BPM 增加或减少的影响。取决于使用的速度变化设置，造成的影响可以是剧烈的（通常在极高 BPM 下使用 BPM 调整系统时，会出现极快的音符；在极低 BPM 下使用固定调整系统时，会出现密集音符），也可以是微小的（对于多数 BPM 使用固定调整系统时）。
 
 ### 游玩
 
@@ -86,11 +86,11 @@ Do note that both scaling system will still be affected by speed up/down by BPM 
 
 ![设置中的键盘小节](/wiki/shared/Options_keyboard.jpg "设置 输入图标，键盘小节")
 
-Do note that the controls information provided below refers to the *old* key settings used in Options where the keys are mapped relatively and applied to all key settings.
+请注意，下文提供的控制信息参考了设置中*旧的*键位设置，其中键位的映射是相对的，并应用到所有键位设置中。
 
-The new key settings require the player to manually set it using the `osu!mania layout` button provided above for *every* key layout (unmapped key layouts will use the default key settings instead).
+新的键位设置需要玩家使用 `osu!mania 键位设置`按钮，对*每一种*键位布局进行手动设置（未设置的键位布局则会使用默认设置）。
 
-The current default key settings is based on *Symmetrical* style.
+目前的默认键位设置基于*对称*风格。
 
 ### 常规
 
@@ -107,7 +107,7 @@ The current default key settings is based on *Symmetrical* style.
 - *左*手按键 — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`。
 - *右*手按键 — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`。
 - *中心*按键 — (K5)`Spacebar`。 \[仅限奇数键位\]
-- *特殊*按键 — `leftShift` \[使用特殊风格\]和 `leftCtrl` \[备用键位\]。
+- *特殊*按键 — `leftShift` \[使用特殊风格\]或 `leftCtrl` \[备用键位\]。
 
 | 键数 | L | C | R |
 | :-: | :-- | :-: | --: |
@@ -144,18 +144,18 @@ The current default key settings is based on *Symmetrical* style.
 
 ### Co-Op
 
-![Default Key layouts of osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)")
+![osu!mania 的默认按键布局 (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania 按键布局 (Co-Op)")
 
-The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** gave osu!mania a new mod called [Co-Op](/wiki/Gameplay/Game_modifier/Co-op). With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
+**[2015 年 3 月 5 日更新](https://osu.ppy.sh/home/changelog)**为 osu!mania 添加了一个叫做 [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) 的新模组。启用此模组时，第二组不同的按键会与上文的主按键组一同给出。
 
-*Symmetrical* key binding for second set.
+第二组的*对称*键位绑定。
 
-- For *left* hand buttons — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
-- For *right* hand buttons — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
-- *Center* button — (B5)`rightAlt`. \[odd numbered keys only\]
-- *Special* button - (X1)`rightShift` \[Using special style\] or `rightCtrl` \[Alternate binding\].
+- *左*手按键 — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`。
+- *右*手按键 — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`。
+- *中心*按键 — (B5)`rightAlt`。 \[仅限奇数键位\]
+- *特殊*按键 - (X1)`rightShift` \[使用特殊风格\]或 `rightCtrl` \[备用键位\]。
 
-**Table below is based on xK mod used in conjunction with Co-Op mod.**
+**下表内容是基于 xK 与 Co-Op 模组并用得出的。**
 
 | 键数 | PL | PC | PR | SL | SC | SR |
 | :-: | :-- | :-: | --: | :-- | :-: | --: |
@@ -173,7 +173,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 | 8K(R) Co-op | K2, K3, K4 | K5 | K6, K7, K8, **S1** | **X1**, B2, B3, B4 | B5 | B6, B7, B8 |
 | 9K Co-op | K1, K2, K3, K4 | K5 | K6, K7, K8, K9 | B1, B2, B3, B4 | B5 | B6, B7, B8, B9 |
 
-**Table below only applies to osu!mania-specific beatmaps. Only odd-numbered xK specifics are mentioned. Refer to first table for even number xK specific (For 4K specific, refer to 2K Co-op and so on).**
+**下表内容只适用于 osu!mania 专谱。只提及了奇数 xK 的细节。对于偶数 xK 详情，请参见上表（对于 4K 的详情，则参考 2K Co-op，等等）。**
 
 | 键数 | PL | PC | PR | SL | SC | SR |
 | :-: | :-- | :-: | --: | :-- | :-: | --: |
@@ -186,13 +186,13 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 [osu!mania 中的分数](/wiki/Gameplay/Score/ScoreV1/osu!mania)最高为一百万分，由两个部分组成，每部分都为总分贡献 50% 的分数：
 
-1. Base score, which is [judgement](/wiki/Gameplay/Judgement/osu!mania)-centred. Judgement determines a hit object's base scoring value (MAX, 300, 200, 100, 50, or 0 in case of a miss).
-2. Bonus score, which is based on judgement and a floating bonus multiplier, which increases when getting a MAX or a 300, and decreases with a 200 or below.
+1. 基础分数，以[判定](/wiki/Gameplay/Judgement/osu!mania)为中心。判定决定了打击物件的基础分值（MAX、 300、 200、 100、 50，万一漏掉了则是 0）。
+2. 附加分数，基于判定和浮动的加分倍率给出，当得到 MAX 或 300 时会增加，得到 200 及以下时会减少。
 
-In addition, score also has the following components:
+除此之外，分数也由以下部分组成：
 
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) shows how many objects were hit in a row. It has no effect on total score and may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss.
+- [准确率](/wiki/Gameplay/Accuracy#osu!mania)取决于判定，显示打击的精准程度。较早或较迟的按键以及失误，都会降低整体准确率。
+- [连击数](/wiki/Gameplay/Combo_(score_multiplier))显示连续打击的物件数。对总分数没有影响，可能会因为 miss 而[断掉](/wiki/Gameplay/Judgement/Combobreak)。
 
 完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!mania)。评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度。
 
@@ -206,13 +206,13 @@ In addition, score also has the following components:
 
 ![osu!mania 编辑器](/wiki/shared/Editor_Mania.png "osu!mania 专用编辑器")
 
-To access osu!mania-specific editor, change the beatmap to osu!mania-specific in Song Setup under Advanced tab.
-Do note that the beatmap will be locked to osu!mania only when the settings was changed from *All* to *osu!mania*.
+若要访问 osu!mania 专谱编辑器，在歌曲设置中的 高级 (Advanced) 标签页下，将谱面设置为 osu!mania 专谱。
+请注意，只有在设置从 *All* 改为 *osu!mania* 时，谱面才会锁定为仅限 osu!mania 模式。
 
-![Changing the key counts](/wiki/shared/Song_Setup_Difficulty_Mania.jpg "osu!mania-specific Difficulty setup")
+![更改键数](/wiki/shared/Song_Setup_Difficulty_Mania.jpg "osu!mania 专谱难度设置")
 
-To change the enforce key count, go to Song Setup under Difficulty tab and adjust the *Key Count*.
-Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with doubled *Key Count* to map on.
+要改变强制的按键数目，转到歌曲设置中的难度 (Difficulty) 标签页，调整 *Key Count*。
+启用 `Co-op mode` 按钮，可以在游玩时强制使用 *Co-Op* 游戏模组，并需要在两倍 *Key Count* 上作图。
 
 ## 杂项
 

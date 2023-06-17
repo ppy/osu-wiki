@@ -80,53 +80,53 @@ osu!taiko 的默认控制方式如下：
 
 ## 得分
 
-[Score in osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
+[osu!taiko 中的分数](/wiki/Gameplay/Score/ScoreV1/osu!taiko)是游玩过程中多个部分的加权总和，取决于以下因素：
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!taiko) determines a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and large notes depends on hit timing, while every other object's base value is constant.
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
+- [判定](/wiki/Gameplay/Judgement/osu!taiko)决定了打击物件的基础分数（300、 100，万一失误了则是 0）。常规音符和大音符的分值取决于打击准确度，而其他每个物件的基本分支都是恒定的。
+- [准确率](/wiki/Gameplay/Accuracy#osu!taiko)取决于判定，显示打击的精准程度。较早或较迟的按键以及失误，都会降低整体准确率。
 - [连击数](/wiki/Gameplay/Combo_(score_multiplier))是一个分数乘数：连击数较高时，完成打击物件会对总分作出更多的贡献，反之亦然。连击可能会因为失误 (miss) 而[断掉](/wiki/Gameplay/Judgement/Combobreak)。在 osu!taiko 中，由连击数得出的分数乘数受限，像在 osu! 与 osu!catch 中一样，不影响总分数。
 - [Kiai 时间](/wiki/Gameplay/Kiai_time)：在 osu!taiko 中， Kiai 时间活跃时得分会增加 20%，像原版*太鼓达人*系列中的行为一样。
 
-In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Client/Interface/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
+每个完成的物件除了给出分数外，还会填补[血条](/wiki/Client/Interface/Health_bar)的一小部分。血条必须至少 **50% 满**，玩家才能通过谱面。
 
 完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!taiko)。评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评价（从 S 到 D）取决于 300、 100 和 miss 的数目。
 
 ## 自定义皮肤
 
-*Refer to [Skinning page of osu!taiko](/wiki/Skinning/osu!taiko) for full information.*
+*关于完整信息，参见 [osu!taiko 的自定义皮肤页](/wiki/Skinning/osu!taiko)。*
 
 ## osu!taiko 作图
 
-- The red notes refer to normal hit circle,
-  - large red notes needs a finish hitsound.
-- The blue notes needs to have a whistle/clap hitsound on that hit circle,
-  - large blue notes need both finish and whistle together.
-- The sliders represents the long yellow note (also known as drumroll)
-- The spinner represents a shaker.
+- 红色音符指的是常规打击圈，
+  - 红色大音符需要重音音效。
+- 蓝色音符需要打击圈上带有哨声/掌声音效，
+  - 蓝色大音符需要重音和哨声音效。
+- 滑条代表长黄条（也被称作滚动条）。
+- 转盘代表拨浪鼓。
 
-Design placement of the notes does not matter.
+音符的放置设计不重要。
 
 ### osu! 转谱提示
 
-When a map conversion happens (playing an osu! map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
+当发生谱面转换时（在 osu!taiko 模式中游玩 osu! 谱面），取决于使用的音效，很短的滑条（通常短于一拍）会自动转化成红色或蓝色音符。
 
-For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
+对于BPM 在 125 及以下的谱面，会给出 1/8 而非 1/4 黄条。
 
-Do note that 1/8 rhythms are not often used in music. It is not suggested to place slider when in 1/8 rhythm.
+请注意，音乐中不常使用 1/8 节奏。不建议在 1/8 节奏下放置滑条。
 
-Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used.
+也要注意，如果滑条点倍率为 **3**，则会给出 1/6 黄条。
 
 ## 杂项
 
 ### 游玩
 
-- Playing on an empty playfield does not incur any miss.
-- Drumroll: The upper limit on number of hits on the slider is:
-  - 4 times of the length of slider, or
-  - 8 times of the length of the slider in songs that is equal or lower than 125BPM.
-- Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
-  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
-- Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).
+- 在游玩区域为空时按键不会导致 miss。
+- 黄条：滑条打击数的上限是：
+  - 滑条长度的 4 倍，或者是
+  - 滑条长度的 8 倍（BPM 小于等于 125 的歌曲中）。
+- 不像其他游戏模式， *Kiai 时间*对分数有影响，因为它在*太鼓达人*中指的是*“Go-Go 时间”*。当 *Kiai 时间*活跃时，左上区域的鼓（叫做 *pippidon*，或是*太鼓达人*中的 *Don*/*Katsu*）会改变动画，游玩区域的背景会渐变，打击区域周围也会有火焰图像。
+  - 除此之外，包括黄条，除了转盘打击外（最后一次打击仍然有加成），每个击打的音符会获得 1.2x 分数加成。
+- osu!taiko 的吉祥物是 [pippidon](/wiki/Mascots#pippi)。
 - 当使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时，玩家名是 *mekkadosu!*。
 
 ### 历史
