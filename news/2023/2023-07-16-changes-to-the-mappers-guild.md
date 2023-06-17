@@ -12,20 +12,20 @@ Not sure what the [**Mappers' Guild**](/wiki/Community/Mappers_Guild) even is? Y
 
 The **Mappers' Guild** is a community of mappers who create maps from the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists) and [earn rewards](/wiki/Community/Mappers_Guild#rewards) for their efforts. Since its inception, this MMO-inspired project expanded to [its own website](https://mappersguild.com) and now includes a bunch of other mapping-related opportunities!
 
-This article covers new additions to the **Mappers' Guild** since [our last home page update](https://osu.ppy.sh/home/news/2022-07-25-mappers-guild-updates). Skip to any section you're interested in:
+This article covers new additions to the **Mappers' Guild** since [our last update](https://osu.ppy.sh/home/news/2022-07-25-mappers-guild-updates). Skip to any section you're interested in:
 
 - [Priority quests](#priority-quests)
-- [Ranked maps requirement lifted](#ranked-maps-requirement-lifted)
+- [Ranked map requirement lifted](#ranked-maps-requirement-lifted)
 - [Various changes](#various-changes)
 - [Major contributors to Featured Artist mapping](#major-contributors)
 
 ## Priority quests
 
-[**Quests**](https://mappersguild.com/quests) allow mappers to collaborate on simple objectives tied to each Featured Artist, like "*Create and rank at least 2 mapsets of songs by `artist`, each hosted by a different user.*"
+[**Quests**](https://mappersguild.com/quests) allow mappers to collaborate on simple objectives tied to each Featured Artist, like *"Create and rank at least 2 mapsets of songs by `artist`, each hosted by a different user."*
 
 [**Priority quests**](https://mappersguild.com/missions) take that a step further, offering more complex objectives that aren't necessarily tied to one Featured Artist's music!
 
-These new-style quests function differently from normal quests too. Here's the important differences:
+These new-style quests function differently from normal quests too. Here are the important differences:
 
 - **Anyone can participate in priority quests.** Unlike normal quests, you don't need to claim priority quests in advance.
 - **Quests are tiered by difficulty:**
@@ -33,7 +33,7 @@ These new-style quests function differently from normal quests too. Here's the i
   - Tier 2 ![silver icon](https://mappersguild.com/images/silver-small.png)
   - Tier 3 ![gold icon](https://mappersguild.com/images/gold-small.png)
   - Tier 4 ![platinum icon](https://mappersguild.com/images/platinum-small.png) (hardest, least common)
-- Depending on the quest's win condition, **multiple users can earn prizes for the same quest.**
+- Depending on the quest's win condition, **multiple users can earn prizes for the same quest**.
 - **Maps can be added to priority quests until the deadline is met or a prize-winner is selected.** This also depends on the quest's win condition!
 
 Just to give you a clearer idea of how these work, here's an example of a quest straight from the [**priority quests listing**](https://mappersguild.com/missions):
@@ -50,7 +50,7 @@ To start, maps associated with priority quests earn bonus progress towards [Mapp
 
 ![Mappers' Guild profile badges](/wiki/Community/Mappers_Guild/img/mg-badges.png)
 
-On top of that, anyone who completes a priority quest also receives a **customized physical prize** based on a pattern in their winning beatmap!
+On top of that, anyone who completes a priority quest also receives a **customised physical prize** based on a pattern in their winning beatmap!
 
 <div align="center">
     <video width="95%" controls>
@@ -60,13 +60,13 @@ On top of that, anyone who completes a priority quest also receives a **customiz
 
 And on top of *all of that*, we're also offering a new profile badge to anyone who completes 3+ priority quests.
 
-![priority quest badge](LINK)
+![Priority quest badge](LINK)
 
 The [**priority quests listing**](https://mappersguild.com/missions) will always have a few active quests running at any given time, so participate in whichever you're interested in!
 
-## Ranked maps requirement lifted
+## Ranked map requirement lifted
 
-Previously, you needed **at least 3 ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
+Previously, you needed **at least 3 Ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
 
 As of today, **anyone can participate in the Mappers' Guild**!
 
@@ -76,7 +76,7 @@ This includes:
 - Collaborating in [quests](https://mappersguild.com/quests)
 - Submitting maps to new [priority quests](https://mappersguild.com/missions)
 
-If you're a newer mapper looking to get started with the Mappers' Guild, feel free to ask questions in the [osu! Discord Server](https://discord.gg/ppy)'s `#mappers-guild` channel!
+If you're a newer mapper looking to get started with the Mappers' Guild, feel free to ask questions in the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel!
 
 ## Various changes
 
@@ -106,7 +106,7 @@ Instead of completely locking users out of quests, the party leader can now comp
 
 ## Major contributors
 
-A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and [SMOKELIND](https://osu.ppy.sh/users/9327302), who focused on total ranked maps instead.)
+A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and [SMOKELIND](https://osu.ppy.sh/users/9327302), who focused on total Ranked maps instead.)
 
 There's absolutely no way we could highlight every beatmap/quest, but we *can* shout out some of the **Mappers' Guild**'s top contributors. Each of these users contributed 5 or more ranked beatmaps since November 2020: <!-- this will need to be updated again later -->
 

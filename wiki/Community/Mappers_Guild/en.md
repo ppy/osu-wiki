@@ -10,13 +10,13 @@ tags:
 
 The **Mappers' Guild** is a group of mappers responsible for creating [beatmaps](/wiki/Beatmap) for osu!'s [Featured Artists](/wiki/People/Featured_Artists). Utilising an MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for Featured Artist beatmaps and cooperating in mapping-related quests.
 
-Guild organisation and discussion can be found in the `#mappers-guild` channel of the [osu! Discord server](https://discord.gg/ppy). For the most up to date information, track home page of the [Mappers' Guild website](https://mappersguild.com/).
+Guild organisation and discussion can be found in the `#mappers-guild` channel of the [osu! Discord server](https://discord.com/invite/ppy). For the most up-to-date information, track the home page of the [Mappers' Guild website](https://mappersguild.com/).
 
 ## System
 
-Mappers can join the guild at any time via the [Mappers' Guild website](https://mappersguild.com/) by authenticating their osu! account.
+Mappers can join the guild at any time via the [Mappers' Guild website](https://mappersguild.com/) by authenticating through their osu! account.
 
-Mappers' Guild members can earn rewards by participating in the ranking process for Featured Artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboard), completing quests within the guild, and participating in Featured Artist-related beatmapping contests.
+Mappers' Guild members can earn rewards by participating in the [ranking process](/wiki/Beatmap_ranking_procedure) for Featured Artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, but rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboard), completing quests within the guild, and participating in Featured Artist–related beatmapping contests.
 
 ### Quests
 
@@ -24,7 +24,7 @@ Mappers' Guild members can earn rewards by participating in the ranking process 
 
 Each quest has its own party[^party] size/rank specifications, price[^price] to accept, and deadline. All members of a party must pay the listed price to accept the quest. Prices are usually higher for quests that only require one beatmap.
 
-Quests will automatically expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
+Quests will automatically expire after 3 months of inactivity. Any user can reopen quests by spending their available pool of Mappers' Guild points.
 
 Quest participation is not required for members of the Mappers' Guild. If a user wants to, they may create beatmaps alone to earn rewards.
 
@@ -32,31 +32,31 @@ Quest participation is not required for members of the Mappers' Guild. If a user
 
 [Priority quests](https://mappersguild.com/missions) are a style of quest introduced in July 2023 that have more complex requirements.
 
-Unlike normal quests, priority quests do not need to be claimed in advance. Any user can link a map to a quest until the deadline is met or a winner is selected, so long as they meet the quest's requirements. In some cases, multiple winners can be selected for priority quests depending on its win condition.
+Unlike normal quests, priority quests do not need to be claimed in advance. Any user can link a map to a quest until the deadline is met or a winner is selected, so long as they meet the quest's requirements. In some cases, multiple winners can be selected for priority quests depending on the win condition.
 
-Priority quests are labeled by difficulty. Tier 1 is the easiest and most common, while tier 4 is the hardest and least common. A priority quest's physical prize component is based partially on its difficulty tier. See the [rewards](#rewards) section for more details.
+Priority quests are labelled by difficulty. Tier 1 is the easiest and most common, while tier 4 is the hardest and least common. A priority quest's physical prize component is based partially on its difficulty tier. See the [rewards](#rewards) section for more details.
 
 ### Rewards
 
-![](img/mg-badges.png "The four tiers of the Mappers' Guild profile badge")
+![Mappers' Guild profile badges](img/mg-badges.png "The four tiers of the Mappers' Guild profile badge")
 
-Rewards are distributed through a points system. When a user reaches a specified points[^points] threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively. If a user reaches 2500 points, a fifth tier may be added.
+Rewards are distributed through a point system. When a user reaches a specified point[^points] threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1,000 points respectively. If a user reaches 2,500 points, a fifth tier may be added.
 
-Points are earned for different Mappers' Guild tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a `Hard` difficulty takes more time than mapping an `Easy` difficulty, so the first rewards more points than the second.
+Points are earned for different Mappers' Guild tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes more time than mapping an Easy difficulty, so the former rewards more points than the latter.
 
-#### Points breakdown
+#### Point breakdown
 
 | Task | Points |
 | --: | :-- |
-| Mapping `Easy` difficulty | 5[^map] [^bonus] |
-| Mapping `Normal` difficulty | 6[^map] [^bonus] |
-| Mapping `Hard` difficulty | 7[^map] [^bonus] |
-| Mapping `Insane` difficulty | 8[^map] [^bonus] |
-| Mapping `Expert` difficulty | 8[^map] [^bonus] |
-| Hosting beatmapset | 5 |
-| Modding beatmapset | 1[^mod] |
-| Creating storyboard | 2-10[^storyboard] |
-| Completing a priority quest | 5-24[^priority-quest] |
+| Mapping an Easy difficulty | 5[^map][^bonus] |
+| Mapping a Normal difficulty | 6[^map][^bonus] |
+| Mapping a Hard difficulty | 7[^map][^bonus] |
+| Mapping an Insane difficulty | 8[^map][^bonus] |
+| Mapping an Expert difficulty | 8[^map][^bonus] |
+| Hosting a beatmap | 5 |
+| Modding a beatmap | 1[^mod] |
+| Creating a storyboard | 2–10[^storyboard] |
+| Completing a priority quest | 5–24[^priority-quest] |
 | Completing a quest | 7[^quest] |
 | Contest organisation | 5[^contest] |
 | Contest participation | 3[^contest] |
@@ -67,7 +67,7 @@ Points are earned for different Mappers' Guild tasks. Earnings vary between task
 
 In addition to general Mappers' Guild points above, [priority quests](#priority-quests) have special rewards:
 
-1. **Customized physical reward for each winning beatmap.** This is based on a pattern in the winning beatmap and the quest's difficulty tier.
+1. **Customised physical reward for each winning beatmap.** This is based on a pattern in the winning beatmap and the quest's difficulty tier.
 
 ![](img/LINK "Physical reward example")
 
@@ -79,11 +79,11 @@ In addition to general Mappers' Guild points above, [priority quests](#priority-
 
 *Main article: [Featured Artist showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
-Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future Featured Artist announcements. Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
+Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future Featured Artist announcements. Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [news post](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
 Beatmaps for [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists) are also coordinated through the Mappers' Guild, and often overlap with showcase beatmaps.
 
-### Beatmapping Contests
+### Beatmapping contests
 
 The Mappers' Guild is also used to manage beatmapping contests. Since January 2020, all iterations of the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) have been hosted, screened, and judged using systems provided by the Mappers' Guild.
 
@@ -109,8 +109,8 @@ The [Mappers' Guild website](https://mappersguild.com/) launched on the 1st of M
 [^price]: Amount of points required to accept the quest. These points are pulled from a user's "available points" pool, not their total earned points.
 [^points]: Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s [kudosu](/wiki/Modding/Kudosu) "total earned" and "available" pools.
 [^map]: Points for creating beatmaps scale according to a map's length, meaning a longer map rewards more points than a shorter map. Collaborative difficulties split points evenly between all mappers. Points are only rewarded to Ranked beatmaps.
-[^bonus]: Beatmaps assigned to a [quest](#quests) and [showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps) earn +2 bonus points per difficulty. If a map is ranked after the quest's deadline, this bonus will be reduced to 1.5 points for 0-20 days late, 1 point for 21-40 days late, or 0.5 points for 40+ days late. Winning beatmaps for [priority quests](#priority-quests) earn +3 bonus points per difficulty. Each of these bonuses scale by a map's length.
-[^mod]: Modding points for [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who nominate a relevant beatmap scale with length because it's assumed that they mod all difficulties.
+[^bonus]: Beatmaps assigned to [quests](#quests) and [showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps) earn +2 bonus points per difficulty. If a map is ranked after the quest's deadline, this bonus will be reduced to 1.5 points for being 0–20 days late, 1 point for 21–40 days late, or 0.5 points for 40+ days late. Winning beatmaps for [priority quests](#priority-quests) earn +3 bonus points per difficulty. Each of these bonuses scale by a map's length.
+[^mod]: Modding points for [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who nominate a relevant beatmap scale with length on the assumption that they mod all difficulties.
 [^storyboard]: Storyboard points are rewarded based on a storyboard's content. Minimalist storyboards (basic lyrics usually) reward 2 points, while detailed storyboards earn 10 points.
 [^priority-quest]: Priority quest points are based on the quest's tier. Tier 1 (easiest and most common) provides 5, tier 2 provides 8, tier 3 provides 5, and tier 4 provides 24 (hardest and least common).
 [^quest]: This does not apply if the quest is past its deadline, but difficulty-related quest bonuses are still applied.
