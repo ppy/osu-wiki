@@ -1,31 +1,31 @@
 # osu! 自定义皮肤
 
-## Comboburst
+## 连击提示图
 
 `comboburst.png`
 
 ![](img/comboburst.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- To have multiple combobursts, use: `comboburst-{n}.png`.
-  - One of the images in the set will be appear when a combo milestone is met.
-- For v2.2-, this is osu! and osu!catch's combobursts.
-- For v2.3+, this is osu!'s combobursts.
-- This can be disabled in the [options](/wiki/Client/Options).
-- This should face towards the right.
+- 若要使用多个连击提示图，使用： `comboburst-{n}.png`。
+  - 当达成连击里程碑时，会显示其中一个图像。
+- 对于 v2.2-，这是 osu! 和 osu!catch 的连击提示图。
+- 对于 v2.3+，这是 osu! 的连击提示图。
+- 可在[设置](/wiki/Client/Options)中禁用此元素。
+- 此元素应该面朝右。
 
-## Default Numbers
+## 默认数字
 
 `default-0.png`
 
 ![](img/default-0.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -42,7 +42,7 @@
 
 ![](img/default-1.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -59,7 +59,7 @@
 
 ![](img/default-2.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -76,7 +76,7 @@
 
 ![](img/default-3.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -93,7 +93,7 @@
 
 ![](img/default-4.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -110,7 +110,7 @@
 
 ![](img/default-5.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -127,7 +127,7 @@
 
 ![](img/default-6.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -144,7 +144,7 @@
 
 ![](img/default-7.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -161,7 +161,7 @@
 
 ![](img/default-8.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -178,7 +178,7 @@
 
 ![](img/default-9.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -195,7 +195,7 @@
 
 ![](img/approachcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 126x126 |
 
@@ -213,7 +213,7 @@
 
 ![](img/hitcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -231,7 +231,7 @@
 
 ![](img/hitcircleoverlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -255,7 +255,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/hitcircleselect.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -270,7 +270,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/followpoint.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -286,13 +286,13 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/lighting.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | 100x100 |
 
 备注：
 
-- This can be disabled in the [options](/wiki/Client/Options).
+- 可在[设置](/wiki/Client/Options)中禁用此元素。
 - Tinting depends on the hit circle's combo colour.
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.
@@ -300,11 +300,11 @@ The overlay's visibility on sliders depends on slider circle elements:
 - This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!catch](/wiki/Game_mode/osu!catch).
 - In v2.0+, the expanding animation is smaller.
 
-## Slider
+## 滑条
 
 `sliderstartcircle.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -320,7 +320,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 `sliderstartcircleoverlay.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -339,7 +339,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 `sliderendcircle.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -355,7 +355,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 `sliderendcircleoverlay.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -376,7 +376,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/reversearrow.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
 
@@ -392,7 +392,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/sliderfollowcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 256x256 （参见提示） |
 
@@ -408,7 +408,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/sliderb.gif)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] （参见提示） | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
@@ -425,7 +425,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/sliderb-nd.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] （参见提示） | 相乘模式 | 中心 | 118x118 |
 
@@ -442,7 +442,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/sliderb-spec.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] （参见提示） | 相加模式 |中心 | 118x118 |
 
@@ -456,7 +456,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 `sliderpoint10.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | 50x30 |
 
@@ -470,7 +470,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 `sliderpoint30.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | 50x30 |
 
@@ -486,7 +486,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/sliderscorepoint.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 16x16 |
 
@@ -496,7 +496,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 - If this element is overlapping the slider start or end, it will not be rendered.
 - This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko).
 
-## Spinner
+## 转盘
 
 *Notice: You cannot mix the old and new spinner styles!*
 
@@ -506,7 +506,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-approachcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 384x384 |
 
@@ -524,9 +524,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-rpm.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 普通模式 | TopLeft | 280x56 |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 顶部左侧 | 280x56 |
 
 备注：
 
@@ -541,7 +541,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-clear.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -556,7 +556,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-spin.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -565,20 +565,20 @@ The overlay's visibility on sliders depends on slider circle elements:
 - This element is positioned around 582px vertically.
 - This appears at the start of a spinner.
 
-### Spinner (old)
+### 转盘（旧样式）
 
 `spinner-background.png`
 
 ![](img/spinner-background.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 1024x702 （参见提示） |
 
 备注：
 
 - **osu! is watching for this element.** If found, it will force the old styled spinners on v2.0+ (all elements in this section).
-- Using the suggested SD size will help alignment with `spinner-metre.png`.
+- Using the suggested SD size will help alignment with `spinner-metre.png`。
 - By default, tinted grey.
   - To change this, use the `SpinnerBackground` command.
 
@@ -588,7 +588,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-circle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -605,9 +605,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-metre.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 普通模式 | TopLeft | 1024x692 |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 顶部左侧 | 1024x692 |
 
 备注：
 
@@ -623,7 +623,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-osu.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1.0 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 中心 | - |
 
@@ -632,13 +632,13 @@ The overlay's visibility on sliders depends on slider circle elements:
 - Beatmap Skinnable if the player skin is using v1.0.
 - This appears after the spinner fades out.
 
-### Spinner (new)
+### 转盘（新样式）
 
 `spinner-glow.png`
 
 ![](img/spinner-glow.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 相加模式 |中心 | - |
 
@@ -655,7 +655,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-bottom.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -671,7 +671,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-top.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -687,7 +687,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-middle2.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -703,7 +703,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/spinner-middle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.0+ | ![否][false] | ![是][true] | 相乘模式 | 中心 | - |
 
@@ -713,13 +713,13 @@ The overlay's visibility on sliders depends on slider circle elements:
 - Tinted red over time (this is the time indicator).
 - This element is the highest layer.
 
-## Particles
+## 粒子
 
 `particle50.png`
 
 ![](img/particle50.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 
@@ -733,14 +733,14 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/particle100.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 
 备注：
 
-- `hit100.png` must be skinned.
-- This element is used for `hit100.png` and `hit100k.png`.
+- 必须自定义 `hit100.png`。
+- This element is used for `hit100.png` and `hit100k.png`。
 
 ---
 
@@ -748,7 +748,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 ![](img/particle300.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 7x7 |
 

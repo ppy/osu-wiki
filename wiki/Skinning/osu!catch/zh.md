@@ -6,17 +6,17 @@
 
 ![](img/fruit-catcher-idle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![是][true] | ![是][true] | 普通模式 | Top | Min width: 302px |
+| 2.3+ | ![是][true] | ![是][true] | 普通模式 | 顶部 | 最小宽度： 302px |
 
 备注：
 
 - 动画文件名： `fruit-catcher-idle-{n}.png`
-- This element is the catcher state when doing nothing or catching objects
-- This should face towards the right.
-- The first 16 pixels at the top should be transparent.
-- The width should cover two fruits at a Circle Size of 0.
+- 此元素是小人不做任何事情或接住物件时的状态。
+- 此元素应该面朝右。
+- 顶部的前 16 个像素应该是透明的。
+- 元素宽度应该覆盖两个圆圈大小为 0 的大果。
 
 ---
 
@@ -24,16 +24,16 @@
 
 ![](img/fruit-catcher-fail.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
 - 动画文件名： `fruit-catcher-fail-{n}.png`
-- This element is the "missed" catcher state.
-- This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
-- This should face towards the right.
+- 此元素是小人“漏掉”物件时的状态。
+- 如果在 [Kiai 时间](/wiki/Gameplay/Kiai_time)期间漏掉了水果，则会覆盖 `fruit-catcher-kiai.png`。
+- 此元素应该面朝右。
 
 ---
 
@@ -41,16 +41,16 @@
 
 ![](img/fruit-catcher-kiai.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.3+ | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
 - 动画文件名： `fruit-catcher-kiai-{n}.png`
-- This element is the catcher state during kiai time.
-- `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
-- This should face towards the right.
+- 此元素是小人在 Kiai 时间期间的状态。
+- 如果在 [Kiai 时间](/wiki/Gameplay/Kiai_time)期间漏掉了水果，则会被 `fruit-catcher-fail.png` 覆盖。
+- 此元素应该面朝右。
 
 ---
 
@@ -58,51 +58,51 @@
 
 ![](img/fruit-ryuuta.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 2.2- | ![是][true] | ![是][true] （参见提示） | 普通模式 | 中心 | - |
 
 备注：
 
-- Beatmap Skinnable if the player skin is using v2.2-.
+- 如果玩家使用的是 v2.2- 的皮肤，则可以在谱面中自定义。
 - 动画文件名： `fruit-ryuuta-{n}.png`
-- This should face towards the right.
+- 此元素应该面朝右。
 
-## Comboburst
+## 连击提示图
 
 `comboburst-fruits.png`
 
 ![](img/comboburst-fruits.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![否][false] （参见提示） | ![是][true] | 普通模式 | BottomLeft | Max height: 768px |
+| 2.3+ | ![否][false] （参见提示） | ![是][true] | 普通模式 | 底部左侧 | Max height: 768px |
 
 备注：
 
-- To have multiple combobursts, use: `comboburst-fruits-{n}.png`.
-  - One of the images in the set will be appear when a combo milestone is met.
-- On v2.2-, `comboburst.png` will be used instead.
-- osu!catch-specific combobursts
-- This can be disabled in the [options](/wiki/Client/Options).
-- This should face towards the right.
+- 若要使用多个连击提示图，使用： `comboburst-fruits-{n}.png`。
+  - 当达成连击里程碑时，会显示其中一个图像。
+- 在 v2.2- 皮肤中，则会使用 `comboburst.png`。
+- osu!catch 专用连击提示图
+- 可在[设置](/wiki/Client/Options)中禁用此元素。
+- 此元素应该面朝右。
 
-## Fruits
+## 水果
 
 `lighting.png`
 
 ![](img/lighting.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | 100x100 |
 
 备注：
 
-- This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/Gameplay/Kiai_time).
-- This element is also used in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko).
-- This can be disabled in the [options](/wiki/Client/Options).
-- Tinting depends on the fruit's combo colour.
+- [Kiai 时间](/wiki/Gameplay/Kiai_time)期间，此元素会在水果落在盘子上的位置闪烁。
+- 此元素也用于 [osu!](/wiki/Game_mode/osu!) 和 [osu!taiko](/wiki/Game_mode/osu!taiko) 中。
+- 可在[设置](/wiki/Client/Options)中禁用此元素。
+- 颜色取决于大果的串颜色。
 
 ---
 
@@ -110,15 +110,15 @@
 
 ![](img/fruit-pear.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown first.
-- This element is used for the hyperdash outline.
-- Tinting depends on the fruit's combo colour.
+- 此元素首先显示。
+- 此元素用于显示红果跳轮廓。
+- 颜色取决于大果的串颜色。
 
 ---
 
@@ -126,13 +126,13 @@
 
 ![](img/fruit-pear-overlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown first; overlaying `fruit-pear.png`.
+- 此元素首先显示；覆盖在 `fruit-pear.png` 上方。
 
 ---
 
@@ -140,15 +140,15 @@
 
 ![](img/fruit-grapes.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown second.
-- This element is used for the hyperdash outline.
-- Tinting depends on the fruit's combo colour.
+- 此元素第二个显示。
+- 此元素用于显示红果跳轮廓。
+- 颜色取决于大果的串颜色。
 
 ---
 
@@ -156,13 +156,13 @@
 
 ![](img/fruit-grapes-overlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown second; overlaying `fruit-grapes.png`.
+- 此元素第二个显示；覆盖在 `fruit-grapes.png` 上方。
 
 ---
 
@@ -170,15 +170,15 @@
 
 ![](img/fruit-apple.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown third.
-- This element is used for the hyperdash outline.
-- Tinting depends on the fruit's combo colour.
+- 此元素第三个显示。
+- 此元素用于显示红果跳轮廓。
+- 颜色取决于大果的串颜色。
 
 ---
 
@@ -186,13 +186,13 @@
 
 ![](img/fruit-apple-overlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown third; overlaying `fruit-apple.png`.
+- 此元素第三个显示；覆盖在 `fruit-apple.png` 上方。
 
 ---
 
@@ -200,20 +200,20 @@
 
 ![](img/fruit-orange.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- Can be animated, but only the zeroth frame will be used.
+- 可以使用动画，但只会使用第零帧。
   - 动画文件名： `fruit-orange-{n}.png`
-- This element is shown fourth (last).
-- This element is used for the hyperdash outline.
-- Tinting depends on the fruit's combo colour.
-  - On the ranking screen:
-    - Tinted orange for collected fruit
-    - Tinted light grey for missed fruit.
+- 此元素第四个（最后）显示。
+- 此元素用于显示红果跳轮廓。
+- 颜色取决于大果的串颜色。
+  - 在结算屏幕中：
+    - 接到的水果颜色为橙色。
+    - 漏掉的水果颜色为浅灰色。
 
 ---
 
@@ -221,15 +221,15 @@
 
 ![](img/fruit-orange-overlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- Can be animated, but only the zeroth frame will be used.
+- 可以使用动画，但只会使用第零帧。
   - 动画文件名： `fruit-orange-overlay-{n}.png`
-- This element is shown fourth (last); overlaying `fruit-orange.png`.
+- 此元素第四个（最后）显示；覆盖在 `fruit-orange.png` 上方。
 
 ---
 
@@ -237,15 +237,15 @@
 
 ![](img/fruit-bananas.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- Tinted yellow.
-- This element is shown during a "spinner".
-- This element is used for the hyperdash outline.
+- 颜色为黄色。
+- 此元素在“转盘”期间显示。
+- 此元素用于显示红果跳轮廓。
 
 ---
 
@@ -253,13 +253,13 @@
 
 ![](img/fruit-bananas-overlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is shown during a spinner; overlaying `fruit-bananas.png`.
+- 此元素在“转盘”期间显示；覆盖在 `fruit-bananas.png` 上方。
 
 ---
 
@@ -267,29 +267,29 @@
 
 ![](img/fruit-drop.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![是][true] | 相乘模式 | 中心 | 128x128 |
 
 备注：
 
-- Can be animated, but only the zeroth frame will be used.
+- 可以使用动画，但只会使用第零帧。
   - 动画文件名： `fruit-drop-{n}.png`
-- This element is shown during a "slider".
-- Tinting depends on the fruit's combo colour.
+- 此元素在“滑条”期间显示。
+- 颜色取决于大果的串颜色。
 
 ---
 
 `fruit-drop-overlay.png`
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 128x128 |
 
 备注：
 
-- This element is not used in the ranking screen.
-- This element is shown during a "slider"; overlaying `fruit-drop.png`
+- 不会在结算屏幕中使用此元素。
+- 此元素在“滑条”期间显示；覆盖在 `fruit-drop.png` 上方
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

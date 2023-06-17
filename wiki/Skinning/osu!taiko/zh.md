@@ -8,18 +8,18 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/pippidonclear.gif)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
+| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- 动画文件名： `pippidonclear{n}.png`.
-  - You can only skin up 7 frames (from 0 to 6).
+- 动画文件名： `pippidonclear{n}.png`。
+  - 你最多只能自定义 7 帧（从 0 到 6）。
   - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
-  - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
-- The animation rate is BPM dependent.
-- This animation only plays once when the player hits a combo milestone; then goes back to the idle or kiai state.
+  - 动画帧的顺序是 `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`。
+- 此动画的速度取决于 BPM。
+- 此动画只会在玩家达成连击里程碑时播放一次；然后回到空闲或 Kiai 状态。
 
 ---
 
@@ -27,14 +27,14 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/pippidonfail.gif)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
+| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- 动画文件名： `pippidonfail{n}.png`.
-- The animation rate is BPM dependent.
+- 动画文件名： `pippidonfail{n}.png`。
+- 此动画的速度取决于 BPM。
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Gameplay/Kiai_time).
 
@@ -44,14 +44,14 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/pippidonidle.gif)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
+| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- 动画文件名： `pippidonidle{n}.png`.
-- The animation rate is BPM dependent.
+- 动画文件名： `pippidonidle{n}.png`。
+- 此动画的速度取决于 BPM。
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
 ---
@@ -60,30 +60,30 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/pippidonkiai.gif)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | BottomLeft | - |
+| 所有 | ![是][true] （参见提示） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- 动画文件名： `pippidonkiai{n}.png`.
-- The animation rate is BPM dependent.
+- 动画文件名： `pippidonkiai{n}.png`。
+- 此动画的速度取决于 BPM。
 - This animation plays during [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
 
-## Hit Bursts
+## 打击结果
 
 `taiko-hit0.png`
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- 动画文件名： `taiko-hit0-{n}.png`.
+- 动画文件名： `taiko-hit0-{n}.png`。
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -92,13 +92,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- 动画文件名： `taiko-hit100-{n}.png`.
+- 动画文件名： `taiko-hit100-{n}.png`。
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -107,13 +107,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- 动画文件名： `taiko-hit100k-{n}.png`.
+- 动画文件名： `taiko-hit100k-{n}.png`。
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -122,13 +122,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- 动画文件名： `taiko-hit300-{n}.png`.
+- 动画文件名： `taiko-hit300-{n}.png`。
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -137,13 +137,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- 动画文件名： `taiko-hit300k-{n}.png`.
+- 动画文件名： `taiko-hit300k-{n}.png`。
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -152,23 +152,23 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] （参见提示） | ![否][false] | 普通模式 | 中心 | - |
 
 备注：
 
-- Can be animated, but only the zeroth frame will be used.
+- 可以使用动画，但只会使用第零帧。
   - 动画文件名： `taiko-hit300g-{n}.png`
 - This image is only used on the ranking screen (instead of `taiko-hit300k.png`).
 
-## Notes
+## 音符
 
 `taikobigcircle.png`
 
 ![](img/taikobigcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
@@ -187,13 +187,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taikobigcircleoverlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
 备注：
 
-- 动画文件名： `taikobigcircleoverlay-{n}.png`.
+- 动画文件名： `taikobigcircleoverlay-{n}.png`。
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at combo 50
@@ -206,7 +206,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taikohitcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
@@ -222,13 +222,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taikohitcircleoverlay.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
 备注：
 
-- 动画文件名： `taikohitcircleoverlay-{n}.png`.
+- 动画文件名： `taikohitcircleoverlay-{n}.png`。
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at 50 combo
@@ -240,7 +240,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/approachcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 126x126 |
 
@@ -255,7 +255,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-glow.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 相乘模式 | 中心 | - |
 
@@ -271,7 +271,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/lighting.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | - |
 
@@ -282,15 +282,15 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
   - This element is only visible when using a transparent taiko bar.
 - This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/Gameplay/Kiai_time).
 
-## Playfield (upper half)
+## 游玩区域（上半边）
 
 `taiko-slider.png`
 
 ![](img/taiko-slider.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] （参见提示） | 普通模式 | TopLeft | 776x162 |
+| 所有 | ![否][false] | ![是][true] （参见提示） | 普通模式 | 顶部左侧 | 776x162 |
 
 备注：
 
@@ -305,9 +305,9 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-slider-fail.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![否][false] | 普通模式 | TopLeft | 776x162 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 顶部左侧 | 776x162 |
 
 备注：
 
@@ -323,26 +323,26 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-flower-group.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | Bottom | - |
+| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 底部 | - |
 
 备注：
 
 - These are like combobursts.
-- To have multiple combobursts, use: `taiko-flower-group-{n}.png`.
-  - One of the images in the set will be appear when a combo milestone is met.
+- 若要使用多个连击提示图，使用： `taiko-flower-group-{n}.png`。
+  - 当达成连击里程碑时，会显示其中一个图像。
 - This image expands and fades in from behind pippidon when it changes to clear state.
 
-## Playfield (lower half)
+## 游玩区域（下半边）
 
 `taiko-bar-left.png`
 
 ![](img/taiko-bar-left.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 181x200 |
+| 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 181x200 |
 
 备注：
 
@@ -356,10 +356,10 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-drum-inner.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | Max width: 56px |
-| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 90x200 |
+| v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | Max width: 56px |
+| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 90x200 |
 
 备注：
 
@@ -374,10 +374,10 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-drum-outer.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | Max width: 72px |
-| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 90x200 |
+| v1 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | Max width: 72px |
+| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 90x200 |
 
 备注：
 
@@ -392,10 +392,10 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-bar-right.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 843x200 |
-| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 1024x200 |
+| v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 843x200 |
+| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 1024x200 |
 
 备注：
 
@@ -412,10 +412,10 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-bar-right-glow.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 843x200 |
-| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | TopLeft | 1024x200 |
+| v1.0 - v2.0 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 843x200 |
+| v2.1+ | ![否][false] | ![否][false] （参见提示） | 普通模式 | 顶部左侧 | 1024x200 |
 
 备注：
 
@@ -427,15 +427,15 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
   - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
-## Drumrolls
+## 黄条
 
 `taiko-roll-middle.png`
 
 ![](img/taiko-roll-middle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 1x128 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 顶部左侧 | 1x128 |
 
 备注：
 
@@ -449,9 +449,9 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/taiko-roll-end.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 64x128 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 顶部左侧 | 64x128 |
 
 备注：
 
@@ -464,7 +464,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/sliderscorepoint.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -473,13 +473,13 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
 - This are the ticks of the roll.
 
-## Shaker
+## 转盘
 
 `spinner-warning.png`
 
 ![](img/spinner-warning.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
@@ -493,7 +493,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/spinner-circle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 中心 | - |
 
@@ -509,7 +509,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/spinner-approachcircle.png)
 
-| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 所有 | ![否][false] | ![否][false] （参见提示） | 普通模式 | 中心 | - |
 
