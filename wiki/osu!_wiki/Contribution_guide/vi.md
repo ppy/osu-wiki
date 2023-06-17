@@ -25,19 +25,24 @@ Các bài viết osu! wiki được lưu trữ trên [GitHub][osu_wiki]. Để �
 0. [Tạo](https://github.com/signup) một tài khoản GitHub.
 1. Mở [`ppy/osu-wiki`][osu_wiki] repository và bấm `Fork` ở góc phải trên để tạo ra một bản sao được điều khiển của wiki. Để quay lại fork của bạn, đi đến [`ppy/osu-wiki`][osu_wiki] và bấm lại `Fork`.
 
-  - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
+  - Nếu bạn đã tạo ra một fork trước đó, đồng bộ nó dựa trên [Các gợi ý để làm công việc của bạn tốt hơn § Đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
-4. Nếu bạn thấy gì đó tương tự bức ảnh phía dưới có nghĩa là bạn đã tạo một fork của `ppy/osu-wiki` repo và bạn đang ở fork của bạn.
+2. Đọc [Các gợi ý để làm công việc của bạn tốt hơn § Chỉnh sửa](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) và thực hiện những chỉnh sửa cần thiết. Mặc dù bạn có thể sử dụng ứng dụng nào mà bạn muốn, osu! wiki có hai hướng dẫn chi tiết cho 2 phần mềm:
 
-   ![](img/forked.jpg)
+  - [GitHub chỉnh sửa trên web](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (trực tuyến, không cần cài đặt).
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ngoại tuyến, có nhiều tính năng hơn).
 
-5. Tiến tới bước [Đồng bộ fork của bạn](#đồng-bộ-fork-của-bạn).
+## Tự kiểm tra
 
-### Đồng bộ fork của bạn
+Khi bạn đã chỉnh sửa xong, dành một chút thời gian để đọc thử thành quả của bạn. Làm theo các mục sau:
 
-1. Vào fork `osu-wiki` của bạn.
+- **Cách hành văn**: các bài viết osu! wiki, hiếm sự ngoại lệ, phải được viết một cách dễ hiểu.
+- **Bút pháp và ngữ pháp**: bài viết phải rõ ràng, có thể hiểu được, và không đòi hỏi người đọc phải suy nghĩ nhiều. Nó phải thích hợp và tránh câu quá phức tạp hoặc quá cụt. Sử dụng trình chỉnh sửa với phần kiểm tra chính tả được tích hợp sẵn, ví dụ như [Google Docs](https://docs.google.com), để tìm ra lỗi đánh máy và lỗi ngữ pháp hoặc lỗi sắp xếp.
+- **[Sự thống nhất nội dung](/wiki/Article_styling_criteria/Writing#content-parity)**: bản dịch phải có thông tin giống y hệt bài viết góc (sự khác nhau ở cách chấm câu, từ ngữ, hay định dạng là điều hiển nhiên). Thay vì thay đổi nội dung của bản dịch, [mở một issue](https://github.com/ppy/osu-wiki/issues/new) hoặc thêm một pull request cho bản gốc nếu bạn cảm thấy nó chưa hoàn thiện, chưa chính xác, hoặc lỗi thời.
+- **Bố cục và cấu trúc**: xem trước bài viết của bạn với một công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn rằng nó nhìn giống như bạn muốn.
+- **Tất cả hình ảnh và những dữ liệu không ở dạng chữ** phải [dưới 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Ảnh màn hình** phải sử dụng skin osu! mặc định và [những cài đặt riêng](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), kể cả độ phân giải cao nhất là 1280×720.
 
-2. Ở trên các tệp, sẽ có một dòng chữ chỉ cho bạn rằng branch (nhánh) của bạn đang "behind" (chậm), "ahead" (nhanh), hoặc "even" (bằng) với `ppy:master`. Nếu như nó ghi "behind" hoặc "ahead and behind" với bất cứ số lượng "commits behind" nào, branch của bạn đã bị lỗi thời.
+Còn những tiêu chuẩn cụ thể về viết và cấu trúc, vui lòng tham khảo [tiêu chuẩn về dạng bài viết](/wiki/Article_styling_criteria). Đọc hết một lượt không được khuyến khích — một người đánh giá kiểu gì cũng sẽ chỉ ra nếu có gì phải chỉnh sửa.
 
    ![](img/fork-even.jpg "OK \(không có commit và không bị lỗi thời\)")
 
