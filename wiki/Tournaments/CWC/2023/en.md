@@ -110,8 +110,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket]: |
+| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Grand Finals | mappool showcase | [Jun 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
 
