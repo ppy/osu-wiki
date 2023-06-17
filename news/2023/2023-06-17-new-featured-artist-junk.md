@@ -62,8 +62,6 @@ Finish things off with [this... *elegant*... beatmap](https://osu.ppy.sh/beatmap
 
 ---
 
-[**Junk**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/365)
-
 There's more **Junk** to go around. Check out [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/365) for the full tracklist, including more insane tracks for your avant-garde mapping escapades.
 
 In case you missed it two weeks ago, we announced some [new **Featured Artist playlists** for osu!(lazer)](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists)! If you're looking to play some cool new maps (or just want an excuse to try out the latest lazer update), this is for you.
