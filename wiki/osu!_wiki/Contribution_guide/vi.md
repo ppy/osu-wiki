@@ -6,27 +6,26 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 # Hướng dẫn đóng góp cho osu! wiki
 
-Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Hướng dẫn nhanh này  dành cho những ai chưa từng làm việc với GitHub, hay với luồng quy trình đóng góp osu! wiki trước đây. Nếu bạn đã có kinh nghiệm sử dụng GitHub, bạn có thể bỏ qua hướng dẫn này và làm theo luồng "feature-branch" thông dụng để cập nhật các nội dung trong repository.
+Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này bao quanh về quá trình đóng góp theo từng bước một. Trong trường hợp bạn đã quen với GitHub, hãy tự nhiên làm theo quy trình làm việc với feature-branch thông dụng cho việc đề xuất sự thay đổi và đi đến phần [tự kiểm tra](#self-check).
 
-Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy gửi một tin nhắn vào kênh `#osu-wiki` trong [osu!dev Discord](https://discord.gg/ppy).
+Người đóng góp mới không được kỳ vọng là đã làm quen với GitHub hoặc [git](https://git-scm.com/), bởi vì chúng là những công cụ chủ yếu dùng để chỉnh sửa cho các nhà phát triển. Đừng lo lắng nếu bạn không làm cái gì đó đúng ngay lần đầu tiên — một [người quản lý wiki](/wiki/People/osu!_wiki_maintainers) sẽ dẫn bạn theo một định hướng đúng hoặc sửa hộ bạn.
 
-## Bắt đầu
+Trong trường hợp bạn cần gợi ý hoặc lời khuyên ở bất cứ giai đoạn nào, đừng ngại ngùng hỏi trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/osu!_Discord_server).
 
-### Đăng ký
+## Nguyện vọng
 
-1. [Đăng ký](https://github.com/join) một tài khoản GitHub nếu bạn chưa có.
-2. [Đăng nhập](https://github.com/login).
-3. Tiến tới bước [Fork](#fork).
+Nếu bạn muốn giúp, nhưng không biết bắt đầu từ đâu, [osu! wiki quản lý § Công việc hằng ngày](/wiki/osu!_wiki/Maintenance#routines) có một danh sách tác vụ mà cần được thực hiện hằng ngày, và có các cách để giúp những người chỉnh sửa wiki khác. Để làm quen bản thân với định dạng ngôn ngữ sử dụng trong wiki, hãy xem [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
 
-### Fork
+## Chỉnh sửa wiki
 
-1. Vào [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
+*Về khái quát quá trình đóng góp, xem [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
-2. Nhấn vào `Fork`.
+Các bài viết osu! wiki được lưu trữ trên [GitHub][osu_wiki]. Để đóng góp, làm theo như sau:
 
-   ![](img/fork.jpg)
+0. [Tạo](https://github.com/signup) một tài khoản GitHub.
+1. Mở [`ppy/osu-wiki`][osu_wiki] repository và bấm `Fork` ở góc phải trên để tạo ra một bản sao được điều khiển của wiki. Để quay lại fork của bạn, đi đến [`ppy/osu-wiki`][osu_wiki] và bấm lại `Fork`.
 
-3. Nhấn vào `Fork` lần nữa để đi tới fork của bạn.
+  - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 4. Nếu bạn thấy gì đó tương tự bức ảnh phía dưới có nghĩa là bạn đã tạo một fork của `ppy/osu-wiki` repo và bạn đang ở fork của bạn.
 
