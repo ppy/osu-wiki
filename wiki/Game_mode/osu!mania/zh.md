@@ -94,7 +94,7 @@ osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但
 
 ### 常规
 
-![osu!mania 的默认按键布局 （设置->输入）](/wiki/shared/Mania_key_layouts.jpg "osu!mania 按键布局")
+![osu!mania 的默认键位布局 （设置->输入）](/wiki/shared/Mania_key_layouts.jpg "osu!mania 按键布局")
 
 有两种不同的键位绑定风格，*对称*和*从左到右*。
 
@@ -144,7 +144,7 @@ osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但
 
 ### Co-Op
 
-![osu!mania 的默认按键布局 (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania 按键布局 (Co-Op)")
+![osu!mania 的默认键位布局 (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania 按键布局 (Co-Op)")
 
 **[2015 年 3 月 5 日更新](https://osu.ppy.sh/home/changelog)**为 osu!mania 添加了一个叫做 [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) 的新模组。启用此模组时，第二组不同的按键会与上文的主按键组一同给出。
 
