@@ -106,21 +106,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ## Match schedule: Finals
 
-### Saturday, 17 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jun 17 (Sat) 13:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T134500&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T140000&p1=1440&p2=145&p3=262) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=PL }:: Poland | [Jun 17 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230617T163000&p1=1440&p2=215&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-
 ### Sunday, 18 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Jun 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T110000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=37&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket]: |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## Mappools
@@ -281,6 +271,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Match results
+
+### Finals
+
+Saturday, 17 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/109047743) | [#1](https://www.twitch.tv/videos/1848950241) |
+| **Philippines** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/109048006) | [#1](https://www.twitch.tv/videos/1848953468) |
 
 ### Semifinals
 
@@ -592,5 +591,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^winners-bracket]: Winners bracket match
