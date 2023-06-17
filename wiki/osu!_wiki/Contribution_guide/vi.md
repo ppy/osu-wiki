@@ -8,7 +8,7 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này bao quanh về quá trình đóng góp theo từng bước một. Trong trường hợp bạn đã quen với GitHub, hãy tự nhiên làm theo quy trình làm việc với feature-branch thông dụng cho việc đề xuất sự thay đổi và đi đến phần [tự kiểm tra](#self-check).
 
-Người đóng góp mới không được kỳ vọng là đã làm quen với GitHub hoặc [git](https://git-scm.com/), bởi vì chúng là những công cụ chủ yếu dùng để chỉnh sửa cho các nhà phát triển. Đừng lo lắng nếu bạn không làm cái gì đó đúng ngay lần đầu tiên — một [người quản lý wiki](/wiki/People/osu!_wiki_maintainers) sẽ dẫn bạn theo một định hướng đúng hoặc sửa hộ bạn.
+Người đóng góp mới không được kỳ vọng là đã làm quen với GitHub hoặc [git](https://git-scm.com/), bởi vì chúng là những công cụ chủ yếu dùng để chỉnh sửa dành cho các nhà phát triển. Đừng lo lắng nếu bạn không làm cái gì đó đúng ngay lần đầu tiên — một [người quản lý wiki](/wiki/People/osu!_wiki_maintainers) sẽ dẫn bạn theo một định hướng đúng hoặc sửa hộ bạn.
 
 Trong trường hợp bạn cần gợi ý hoặc lời khuyên ở bất cứ giai đoạn nào, đừng ngại ngùng hỏi trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/osu!_Discord_server).
 
