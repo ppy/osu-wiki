@@ -31,10 +31,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中，此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -48,10 +48,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -65,10 +65,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -82,10 +82,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -99,10 +99,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -116,10 +116,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -133,10 +133,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -150,10 +150,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -167,10 +167,10 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
 ---
 
@@ -184,12 +184,12 @@
 
 备注：
 
-- In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
-- In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- 在 v1.0 皮肤中， 此元素会放大，然后与打击圈一同渐隐。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素只会渐隐。
+- 在 v2.0+ 皮肤中，此元素会渐隐。
+- 此元素被缩小 0.8x
 
-## Hit circles
+## 打击圈
 
 `approachcircle.png`
 
@@ -201,11 +201,11 @@
 
 备注：
 
-- Tinting depends on the hit circle's combo colour.
-- This element shrinks over time.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this element will not be used.
-    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/Client/Options).
-- Should be a circle.
+- 颜色取决于打击圈的串颜色。
+- 此元素随时间缩小。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，则不会使用此元素。
+    - 若要在 Hidden 模组启用时显示第一个缩圈，玩家需要在[设置](/wiki/Client/Options)中启用。
+- 此元素应该是圆圈。
 
 ---
 
@@ -215,15 +215,15 @@
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
-- Tinting depends on the hit circle's combo colour.
-- Also used for `sliderstartcircle` and/or `sliderendcircle` if not skinned.
-- Should be a circle.
+- 此元素在被点击前渐显，被点击后或漏掉后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在被点击前渐显，被点击后只会渐隐。
+- 颜色取决于打击圈的串颜色。
+- 如果没有自定义 `sliderstartcircle` 和/或 `sliderendcircle`，它们也会使用此元素。
+- 此元素应该是圆圈。
 
 ---
 
@@ -233,21 +233,21 @@
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
-- This can either overlay or underlay the combo number, by default this will always overlay.
-  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
+- 此元素在被点击前渐显，被点击后或漏掉后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在被点击前渐显，被点击后只会渐隐。
+- 此元素可以覆盖在串数上方，也可以置于其下。默认情况下总会置于其上。
+  - 若要将此元素置于串数下方，将 `HitCircleOverlayAboveNumber` 设为 `0`。
+- 此元素应该是圆圈。
+- 此元素过去可使用动画。关于完整细节，请见[自定义皮肤历史](/wiki/Skinning/History)。
 
-The overlay's visibility on sliders depends on slider circle elements:
+覆盖元素在滑条中的可见性取决于滑条圈元素：
 
-- If `sliderstartcircle`/`sliderendcircle` exists in a skin without `sliderstartcircleoverlay`/`sliderendcircleoverlay`, then `hitcircleoverlay` isn't displayed at all on slider starts or ends.
-- If `sliderstartcircle`/`sliderendcircle` does not exist, then `hitcircleoverlay` is used as the overlay sprite for slider starts or ends.
+- 如果皮肤中存在 `sliderstartcircle`/`sliderendcircle` 但没有 `sliderstartcircleoverlay`/`sliderendcircleoverlay`，就不会在滑条头或滑条尾上显示 `hitcircleoverlay`。
+- 如果不存在 `sliderstartcircle`/`sliderendcircle`， `hitcircleoverlay` 就会作为覆盖精灵图用于滑条头或滑条尾。
 
 ---
 
@@ -257,12 +257,12 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- This element is only used in the [beatmap editor](/wiki/Client/Beatmap_editor).
-- Should be a circle.
+- 仅在[谱面编辑器](/wiki/Client/Beatmap_editor)中使用此元素。
+- 此元素应该是圆圈。
 
 ---
 
@@ -277,8 +277,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 备注：
 
 - 动画文件名： `followpoint-{n}.png`
-- If an arrow-like figure is used, it should point towards the right.
-- This stays on the screen for 1.2 seconds (1200ms).
+- 如果使用箭头状的图像，箭头应该指向右。
+- 此元素停留在屏幕上 1.2 秒（1200 毫秒）。
 
 ---
 
@@ -288,17 +288,17 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相加模式 |中心 | 100x100 |
+| 所有 | ![否][false] | ![是][true] | 相加模式 | 中心 | 100x100 |
 
 备注：
 
 - 可在[设置](/wiki/Client/Options)中禁用此元素。
-- Tinting depends on the hit circle's combo colour.
-- Used during kiai time:
-  - Coloured afterimage as part of hitburst explosion.
-  - Glowing behind hit circles during kiai time.
-- This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!catch](/wiki/Game_mode/osu!catch).
-- In v2.0+, the expanding animation is smaller.
+- 颜色取决于打击圈的串颜色。
+- 在 Kiai 时间期间使用：
+  - 显示有色残影，作为打击爆炸效果的一部分。
+  - 在 Kiai 时间期间，打击圈后会发光。
+- 此元素也用于 [osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!catch](/wiki/Game_mode/osu!catch) 中。
+- 在 v2.0+ 皮肤中，放大的动画较小。
 
 ## 滑条
 
@@ -306,15 +306,15 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- Overrides `hitcircle.png` for the start of the slider, if skinned.
-- This element is the hit circle for the start of the slider.
-- This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
-- Should be a circle.
+- 如果自定义此元素，滑条头就会用此元素覆盖 `hitcircle.png`。
+- 此元素是滑条头部的打击圈。
+- 此元素在被点击前渐显，被点击后或漏掉后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在被点击前渐显，被点击后只会渐隐。
+- 此元素应该是圆圈。
 
 ---
 
@@ -322,18 +322,18 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
-- This can either overlay or underlay the combo number, by default this will always overlay.
-  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Overrides the `hitcircle.png` image for the start of the slider.
-- `sliderstartcircle.png` is required for this to work.
-- Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
+- 此元素在被点击前渐显，被点击后或漏掉后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在被点击前渐显，被点击后只会渐隐。
+- 此元素可以覆盖在串数上方，也可以置于其下。默认情况下总会置于其上。
+  - 若要将此元素置于串数下方，将 `HitCircleOverlayAboveNumber` 设为 `0`。
+- 此元素会覆盖 `hitcircle.png` 用于滑条头部。
+- 需要 `sliderstartcircle.png` 来使此元素有效。
+- 此元素应该是圆圈。
+- 此元素过去可使用动画。关于完整细节，请见[自定义皮肤历史](/wiki/Skinning/History)。
 
 ---
 
@@ -341,15 +341,15 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- Overrides `hitcircle.png` for the start of the slider, if skinned.
-- This element is the hitcircle for the end of the slider.
-- This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
-- Should be a circle.
+- 如果自定义此元素，则会覆盖 `hitcircle.png` 用于滑条头部。
+- 此元素是滑条尾部的打击圈。
+- 此元素在滑条完成前渐显，完成后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在完成滑条前渐显，完成后只会渐隐。
+- 此元素应该是圆圈。
 
 ---
 
@@ -357,18 +357,18 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] （参见提示） | ![是][true] | 普通模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
-- This can either overlay or underlay the combo number, by default this will always overlay.
-  - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Overrides the `hitcircle.png` image for the start of the slider.
-- `sliderendcircle.png` is required for this to work.
-- Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
+- 此元素在滑条完成前渐显，完成后放大。
+  - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在完成滑条前渐显，完成后只会渐隐。
+- 此元素可以覆盖在串数上方，也可以置于其下。默认情况下总会置于其上。
+  - 若要将此元素置于串数下方，将 `HitCircleOverlayAboveNumber` 设为 `0`。
+- 此元素会覆盖 `hitcircle.png` 用于滑条头部。
+- 需要 `sliderendcircle.png` 来使此元素有效。
+- 此元素应该是圆圈。
+- 此元素过去可使用动画。关于完整细节，请见[自定义皮肤历史](/wiki/Skinning/History)。
 
 ---
 
@@ -378,13 +378,13 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 (circle) 128x128 (whole file) |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 118x118 （圆圈） 128x128 （整个文件） |
 
 备注：
 
-- osu! will rotate this element to line up with the slider's path.
-- This element will pulse at the bpm.
-- If an arrow-like figure is used, it should point towards the right.
+- osu! 会旋转此元素，以对准滑条路径。
+- 此元素会随 BPM 跳动。
+- 如果使用箭头状的图像，箭头应该指向右。
 
 ---
 
@@ -399,8 +399,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 备注：
 
 - 动画文件名： `sliderfollowcircle-{n}.png`
-- Max size: 308x308 (hitbox)
-- This element expands briefly when collecting a slider tick.
+- 最大大小： 308x308 （打击框）
+- 当收集滑条点时，此元素略有放大。
 
 ---
 
@@ -414,10 +414,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- 动画文件名： `sliderb{n}.png` (no hyphen (`-`))
-- Tinting depends on the hit circle's combo colour.
-- By default, the sliderball flips upon hitting the reverse arrow.
-  - To disable this, set `sliderballflip` to `0`.
+- 动画文件名： `sliderb{n}.png` （没有连字符 (`-`)）
+- 颜色取决于打击圈的串颜色。
+- 默认情况下，当滑条球到达折返箭头处时会翻转。
+  - 若要禁用，将 `sliderballflip` 设为 `0`。
 
 ---
 
@@ -431,10 +431,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Ignored if `sliderb.png` is skinned.
-  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
-- Tinted black.
-- This element is the background layer of the default slider ball.
+- 如果自定义了 `sliderb.png`，则会忽略此元素。
+  - 如果玩家没有自定义 `sliderb.png`，则可以在谱面中自定义此元素。
+- 颜色为黑色。
+- 此元素是默认滑条球的背景层。
 
 ---
 
@@ -448,9 +448,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Ignored if `sliderb.png` is skinned.
-  - Beatmap skinnable if the player skin does not have `sliderb.png` skinned.
-- This element is the top layer of the ball that stays in a static position (does not flip nor rotate).
+- 如果自定义了 `sliderb.png`，则会忽略此元素。
+  - 如果玩家没有自定义 `sliderb.png`，则可以在谱面中自定义此元素。
+- 此元素是默认滑条球的顶层，处于静态位置（不会翻转与旋转）。
 
 ---
 
@@ -462,9 +462,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Beatmap Skinnable if the player skin is using v1.0.
-- Used when the player collects a slider tick.
-- Should say "10".
+- 如果玩家使用 v1.0 皮肤，则可以在谱面中自定义。
+- 当玩家收集滑条点时使用此元素。
+- 应该显示 “10”。
 
 ---
 
@@ -476,9 +476,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Beatmap Skinnable if the player skin is using v1.0.
-- Used when the player starts a slider and/or when they hit the reverse arrow.
-- Should say "30".
+- 如果玩家使用 v1.0 皮肤，则可以在谱面中自定义。
+- 当玩家开始滑条和/或打击折返箭头时使用此元素。
+- 应该显示 “30”。
 
 ---
 
@@ -492,13 +492,13 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is the slider tick.
-- If this element is overlapping the slider start or end, it will not be rendered.
-- This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko).
+- 此元素是滑条点。
+- 如果此元素与滑条头或滑条尾有重叠，则不会渲染此元素。
+- 此元素也用在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中。
 
 ## 转盘
 
-*Notice: You cannot mix the old and new spinner styles!*
+*注意：你不能将新旧转盘风格混在一起！*
 
 ---
 
@@ -512,11 +512,11 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- Applied to both styles.
-- Shrinks over time, like `approachcircle.png`
-- Usage is forced when `spinner-circle.png` or `spinner-top.png` is skinned.
-- This element is also used for [osu!taiko](/wiki/Game_mode/osu!taiko).
+- 此元素位于高度约 397px 处。
+- 两种风格均使用。
+- 随时间缩小，像 `approachcircle.png` 一样。
+- 当自定义了 `spinner-circle.png` 或 `spinner-top.png` 时，则会强制使用此元素。
+- 此元素也用在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中。
 
 ---
 
@@ -530,10 +530,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- RPM is short for "Revolutions Per Minute"
-- This element is positioned at 139px to the left from the middle of the screen and at 712px height
-  - (373,712) at 1024x768
-  - (544,712) at 1366x768
+- RPM 是“每分钟转数”的缩写
+- 此元素位于屏幕中央左侧 139px、高度 712px 处。
+  - 1024x768 下位于 (373,712)
+  - 1366x768 下位于 (544,712)
 
 ---
 
@@ -547,8 +547,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 230px vertically.
-- This appears when the player has fulfilled the spinner.
+- 此元素位于高度约 230px 处。
+- 此元素在玩家完成转盘后出现。
 
 ---
 
@@ -562,8 +562,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 582px vertically.
-- This appears at the start of a spinner.
+- 此元素位于高度约 582px 处。
+- 此元素在转盘开始处出现。
 
 ### 转盘（旧样式）
 
@@ -577,10 +577,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- **osu! is watching for this element.** If found, it will force the old styled spinners on v2.0+ (all elements in this section).
-- Using the suggested SD size will help alignment with `spinner-metre.png`。
-- By default, tinted grey.
-  - To change this, use the `SpinnerBackground` command.
+- **osu! 会监视此元素。**如果找到了此元素，就会在 v2.0+ 皮肤中强制使用旧样式转盘（这一小节所有的元素）。
+- 使用推荐标准大小有利于与 `spinner-metre.png` 对齐。
+- 默认情况下是灰色。
+  - 若要改变颜色，使用 `SpinnerBackground` 参数。
 
 ---
 
@@ -594,10 +594,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- This element is the rotating part of the spinner.
-- This element is also used for [osu!taiko](/wiki/Game_mode/osu!taiko).
-  - If using the new spinner style, you can still skin this for osu!taiko.
+- 此元素位于高度约 397px 处。
+- 此元素是转盘的旋转部分。
+- 此元素也用于 [osu!taiko](/wiki/Game_mode/osu!taiko) 中。
+  - 如果使用的是新转盘样式，你仍然可以为 osu!taiko 自定义此元素。
 
 ---
 
@@ -611,11 +611,11 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Positioned 46px away from top and 512px to the left from the middle axis.
-  - (0,46) at 1024x768 and (171,46) at 1366x768.
-- This element is the progression bars
-- The highest part of the bar will blink when bonus points are awarded.
-  - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/Skinning/skin.ini)
+- 此元素距离顶部 46px，位于中轴线左侧 512px。
+  - 1024x768 下位于 (0,46)， 1366x768 下位于 (171,46)。
+- 此元素是进度条
+- 当获得额外分数时，条的最高部分会闪烁。
+  - 可以通过在 [skin.ini](/wiki/Skinning/skin.ini) 将 `SpinnerNoBlink` 设为 `1` 来禁用闪烁。
 
 ---
 
@@ -629,8 +629,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- Beatmap Skinnable if the player skin is using v1.0.
-- This appears after the spinner fades out.
+- 如果玩家使用 v1.0 皮肤，则可以在谱面中自定义。
+- 转盘渐隐后会显示此元素。
 
 ### 转盘（新样式）
 
@@ -644,10 +644,10 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- Tinted cyan, blinks white when bonus points are awarded
-- This blinks when awarding bonus points.
-- This element is the lowest layer.
+- 此元素位于高度约 397px 处。
+- 颜色为青色，当获得加分时会闪烁。
+- 获得加分时，此元素会闪烁。
+- 此元素位于最底层。
 
 ---
 
@@ -661,9 +661,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- This rotates the slowest.
-- This element is the second lowest layer.
+- 此元素位于高度约 397px 处。
+- 此元素旋转速度最慢。
+- 此元素位于倒数第二层。
 
 ---
 
@@ -677,9 +677,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- This rotates the second fastest (slower than `spinner-middle2.png`).
-- This element is the middle layer.
+- 此元素位于高度约 397px 处。
+- 此元素旋转速度第二快（慢于 `spinner-middle2.png`）。
+- 此元素位于中间层。
 
 ---
 
@@ -693,9 +693,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- This rotates the fastest.
-- This element is the second highest layer.
+- 此元素位于高度约 397px 处。
+- 此元素旋转速度最快。
+- 此元素位于第二层。
 
 ---
 
@@ -709,9 +709,9 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- This element is positioned around 397px vertically.
-- Tinted red over time (this is the time indicator).
-- This element is the highest layer.
+- 此元素位于高度约 397px 处。
+- 随时间变红（此元素是时间指示器）。
+- 此元素位于最顶层。
 
 ## 粒子
 
@@ -725,7 +725,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- `hit50.png` must be skinned.
+- 必须自定义 `hit50.png`。
 
 ---
 
@@ -740,7 +740,7 @@ The overlay's visibility on sliders depends on slider circle elements:
 备注：
 
 - 必须自定义 `hit100.png`。
-- This element is used for `hit100.png` and `hit100k.png`。
+- 此元素用于 `hit100.png` 和 `hit100k.png`。
 
 ---
 
@@ -754,8 +754,8 @@ The overlay's visibility on sliders depends on slider circle elements:
 
 备注：
 
-- `hit300.png` must be skinned.
-- This element is used for `hit300`, `hit300g`, and `hit300k`.
+- 必须自定义 `hit300.png`。
+- 此元素用于 `hit300`、 `hit300g`、和 `hit300k`。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
