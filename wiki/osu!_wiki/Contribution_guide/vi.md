@@ -39,78 +39,34 @@ Khi bạn đã chỉnh sửa xong, dành một chút thời gian để đọc th
 - **Cách hành văn**: các bài viết osu! wiki, hiếm sự ngoại lệ, phải được viết một cách dễ hiểu.
 - **Bút pháp và ngữ pháp**: bài viết phải rõ ràng, có thể hiểu được, và không đòi hỏi người đọc phải suy nghĩ nhiều. Nó phải thích hợp và tránh câu quá phức tạp hoặc quá cụt. Sử dụng trình chỉnh sửa với phần kiểm tra chính tả được tích hợp sẵn, ví dụ như [Google Docs](https://docs.google.com), để tìm ra lỗi đánh máy và lỗi ngữ pháp hoặc lỗi sắp xếp.
 - **[Sự thống nhất nội dung](/wiki/Article_styling_criteria/Writing#content-parity)**: bản dịch phải có thông tin giống y hệt bài viết góc (sự khác nhau ở cách chấm câu, từ ngữ, hay định dạng là điều hiển nhiên). Thay vì thay đổi nội dung của bản dịch, [mở một issue](https://github.com/ppy/osu-wiki/issues/new) hoặc thêm một pull request cho bản gốc nếu bạn cảm thấy nó chưa hoàn thiện, chưa chính xác, hoặc lỗi thời.
-- **Bố cục và cấu trúc**: xem trước bài viết của bạn với một công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn rằng nó nhìn giống như bạn muốn.
+- **Bố cục và cú pháp**: xem trước bài viết của bạn với một công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn rằng nó nhìn giống như bạn muốn.
 - **Tất cả hình ảnh và những dữ liệu không ở dạng chữ** phải [dưới 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Ảnh màn hình** phải sử dụng skin osu! mặc định và [những cài đặt riêng](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), kể cả độ phân giải cao nhất là 1280×720.
 
 Còn những tiêu chuẩn cụ thể về viết và cấu trúc, vui lòng tham khảo [tiêu chuẩn về dạng bài viết](/wiki/Article_styling_criteria). Đọc hết một lượt không được khuyến khích — một người đánh giá kiểu gì cũng sẽ chỉ ra nếu có gì phải chỉnh sửa.
 
-   ![](img/fork-even.jpg "OK \(không có commit và không bị lỗi thời\)")
+## Pull request
 
-   ![](img/fork-ahead.jpg "OK \(đây là các commit của bạn\)")
+Sau khi sự thay đổi đã được kiểm tra, thực hiện, và đẩy vào fork của bạn, bạn cần đề xuất chúng ra đến những người quản lý wiki bằng cách mở một pull request:
 
-   ![](img/fork-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời\)")
+1. Trong **fork của bạn** từ osu! wiki, tìm `master↓`, tìm branch có sự thay đổi của bạn.
+2. Bấm `Contribute↓` và bấm `Open pull request`.
+3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở ra một yêu cầu (a pull request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) và bấm `Create pull request`.
 
-   ![](img/fork-ahead-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời kèm theo các commit của bạn\)")
+## Đánh giá
 
-3. Đây không phải vấn đề quá to tát, ***nếu*** bạn không sửa đổi các tệp đã bị sửa bời người khác.
+Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
 
-4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) trong trang Các vấn đề hay gặp.
+Nếu không ai quan tâm sau vài ngày, hãy thử:
 
-5. Sau khi hoàn thành bước 4, tiến tới [Sửa trực tuyến hoặc cục bộ](#sửa-trực-tuyến-hoặc-cục-bộ).
+- Hãy chắc chắn rằng bạn đã hoàn thiện xong mọi gợi ý — mọi người có thể đang đợi sự phản hồi của bạn.
+- Hỏi các người chỉnh sửa osu! wiki khác trong [osu! Discord server](/wiki/Community/osu!_Discord_server) (kênh `#osu-wiki`) hoặc trong bình luận GitHub.
+- Để nhận giúp đỡ về dịch thuật, xem một số pull request đã được hợp nhất cho ngôn ngữ của bạn và kết nối với người đánh giá của họ và/hoặc tác giả ([ví dụ câu hỏi ở GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
+- Xin bạn bè một cái nhìn nhanh!
 
-## Sửa trực tuyến hoặc cục bộ
+Ngoài ra, osu! wiki repository còn có [kiểm tra tự động](/wiki/osu!_wiki/Maintenance#ci-checks), chúng đảm bảo rằng sự thay đổi của bạn đi theo phong cách thông dụng của wiki và không có lỗi cú pháp. Để xem trạng thái của chúng, mở `Actions` tab ở pull request của bạn và làm theo thông báo chẩn đoán dưới lỗi, nếu có.
 
-Vào lúc này, bạn có hai lựa chọn:
+## Hợp nhất
 
-- [Giao diện Web GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
-- [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - sửa cục bộ; đây là lựa chọn tốt nhất để sửa một và/hoặc nhiều bài viết (bao gồm đăng tải, xoá, và di chuyển ảnh cũng như các tệp khác).
+Sự thay đổi của bạn sau cùng sẽ được kiểm tra bởi một trong [người quản lý wiki](/wiki/People/osu!_wiki_maintainers), thường sau những đánh giá của các cộng tác viên khác. Nếu không có gì xảy ra sau một khoảng thời gian, hỏi trong phần bình luận của pull request, hoặc trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/osu!_Discord_server). Sự thay đổi của bạn sẽ xuất hiện trên osu! wiki không bao lâu sau sự hợp nhất (trong trường hợp đặc biệt, nó có thể tốn đến 5 tiếng).
 
-*Chú ý: Bạn không bị giới hạn chỉ ở hai lựa chọn trên. Để giữ hướng dẫn này ngắn gọn và đơn giản, chúng tôi sẽ không đi sâu, hoặc không đề cập đến cách sử dụng các công cụ khác. Có nhiều ứng dụng bên thứ ba khác có thể thực hiện tương tự những gì mà Giao diện Web Github và GitHub Desktop có thể làm.*
-
-**Khi bạn hoàn thành việc chỉnh sửa thông qua *Giao diện Web GitHub* hoặc *GitHub Desktop*, bạn có thể tiếp tục đi tới phần tiếp theo.**
-
-## Hoàn thiện
-
-### Tạo một pull request
-
-1. Vào [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
-
-2. Nếu bạn đủ nhanh, bạn có thể thấy một biểu ngữ nền vàng.
-
-   ![](img/github-recent.jpg)
-
-3. Nếu bạn thấy nó, nhấn vào nút `Compare & pull request` (nhảy tới bước 8). Nếu không, bấm vào nút `New pull request` (tiếp tục tới bước 4).
-
-4. Ở trang tiếp theo, nếu bạn thấy hai nút giống hình bên dưới, nhấn vào `compare across forks`.
-
-   ![](img/compare-across-forks-no.jpg "Không ổn.")
-
-5. Nhấn vào trình đơn thả xuống `head fork` và chọn cái có chứa tên người dùng của bạn (nó thường là cái thứ hai).
-
-   ![](img/head-fork.jpg)
-
-6. Nhấn vào trình đơn thả xuống `compare` và chọn branch mà bạn đã tạo (danh sách này được liệt kê bảng chữ cái).
-
-   ![](img/compare-branch.jpg)
-
-7. Nhấn `Create pull request`.
-
-8. Nhập tiêu đề bằng tiếng Anh, giải thích ngắn gọn những gì mà bạn sửa đổi.
-
-   Đối với các văn bản dịch, điền thêm mã ngôn ngữ hai chữ cái vào trong ngoặc ở đầu tiêu đề. Tiêu đề có thể chỉ cần đề cập tới các bài viết mà bạn dịch. Ví dụ, `[VI] Rules` sẽ chỉ ra bạn đang cập nhật bản dịch tiếng Việt của trang [Nội quy](/wiki/Rules).
-
-9. Điền vào hộp mô tả khái quát những thay đổi của bạn. Bạn nên đề cập đến bất cứ thông tin gì liên quan đến pull request của bạn, như là tình trạng hoàn thành và những thứ mà bạn muốn các người đánh giá biết. Bạn cũng có thể làm cho pull request của bạn tự động đóng các issue (vấn đề) sau khi được merge (hợp nhất) bằng cách viết "resolves #1" hoặc "closes #1", v.v. trong mô tả (xem [Đóng issue bằng các từ khoá](https://help.github.com/articles/closing-issues-using-keywords/) trên GitHub Help).
-
-10. Khi bạn sẵn sàng, nhấn `Create pull request`.
-
-    ![](img/new-pull-request.png)
-
-11. Xem [Review (Đánh giá)](#review-(đánh-giá)) và [Merge (Hợp nhất)](#merge-(hợp-nhất)) bên dưới.
-
-### Review (Đánh giá)
-
-Sau khi bạn tạo pull request, các biên tập viên khác của osu! wiki có thể đánh giá những thay đổi của bạn để giúp bạn phát hiện các lỗi mà bạn bỏ lỡ. **Bạn cần theo dõi các đánh giá này**, nếu không thì pull request của bạn có thể bị từ chối và đóng! Nếu bạn muốn ai đó đánh giá pull request của bạn, bạn có thể hỏi các biên tập viên osu! wiki khác ở kênh `#osu-wiki` trong [osu!dev Discord](https://discord.gg/ppy) hoặc ở phần bình luận trên GitHub.
-
-### Merge (Hợp nhất)
-
-Để những thay đổi của bạn hiển thị trên osu! wiki, pull request của bạn cần được hợp nhất. Sau khi pull request của bạn được đánh giá và chấp nhận, bạn có thể bình luận trên GitHub để nhờ ai đó merge, hoặc làm điều tương tự ở kênh `#osu-wiki` trong [osu!dev Discord](https://discord.gg/ppy), thay đổi của bạn sẽ mất lên tới 5 tiếng để xuất hiện trên osu! wiki.
+[osu_wiki]: https://github.com/ppy/osu-wiki
