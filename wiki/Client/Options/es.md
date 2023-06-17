@@ -390,9 +390,9 @@ Esta sección trata sobre beatmaps y actualizaciones.
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
-| `Borrar mapas no rankeados` | Elimina todos los beatmaps no clasificados de su carpeta de canciones. | Botón |
+| `Borrar mapas no rankeados` | Elimina todos los mapas no clasificados de su carpeta de canciones. | Botón |
 | `Forzar permisos de carpeta` | Da permiso de lectura/escritura al cliente del juego para acceder a sus carpetas. (Esto requiere privilegios de administrador para completarse). | Botón |
-| `Marcar todos los mapas como jugados` | Marca todos los beatmaps como «jugados». | Botón |
+| `Marcar todos los mapas como jugados` | Marca todos los mapas como «jugados». | Botón |
 | `Actualizar osu!` | Cierra el cliente del juego y abre el actualizador para buscar actualizaciones y descargarlas, si las hay. | Botón |
 
 En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en su navegador de Internet.
