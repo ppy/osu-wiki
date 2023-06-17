@@ -144,7 +144,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   3. [LeaF - Ka (Natsuko) \[???????\u005F\u0030\u00D7????????\]](https://osu.ppy.sh/beatmapsets/2007973#fruits/4176821)
 - Double Time
   1. [Mitsukiyo feat. Kano - Memories of Kindness (Sololiquy) \[Where All Miracles Begin\]](https://osu.ppy.sh/beatmapsets/1954433#fruits/4176811)
-  2. [SoundTemp - Bonjour Tristesse (ExGon) \[CWC2023 Finals DT2\] *(temporary link)*](https://leoflt.com/s/acAa)
+  2. [SoundTeMP - Bonjour Tristesse (ExGon) \[CWC 2023 Finals DT2\]](https://osu.ppy.sh/beatmapsets/2007978#fruits/4176826)
   3. [FujuniseikouyuuP - FREEDMAN (Yoshi\_green) \[SPEEDMAN\]](https://osu.ppy.sh/beatmapsets/2007964#fruits/4176805)
   4. [Monster Siren - MSR / DJ Okawari / Stephanie - Your Star (Yumeno Himiko) \[My Memories\]](https://osu.ppy.sh/beatmapsets/2007966#fruits/4176813)
 - Mixed Mod
