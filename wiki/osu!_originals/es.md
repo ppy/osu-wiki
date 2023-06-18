@@ -198,6 +198,16 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [D-D-Dice vs. siromaru - Catch the Glory](https://www.youtube.com/watch?v=YBFh4DON-CA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1794214) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2023](/wiki/Tournaments/CWC/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| Halv vs kuro - Evreka | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Desempate de la gran final |
+| [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion) | [#1](https://osu.ppy.sh/beatmapsets/2011522) | Gran final NM1 |
+| LV.4 - Chemical diving[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | Final HR1 |
+| [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinales HD3 |
+| Toromaru - Erinyes[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Cuartos de final HR3 |
+
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
 | Canción | Beatmap | Notas |
