@@ -415,7 +415,7 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - `{revision}` es la revisión de la compilación
   - Si no hay un número de revisión de la compilación, se eliminará el punto decimal.
 - `{type}` es el tipo de la compilación
-  - Si no hay un valor de tipo de la compilación, asuma que es `Stable`.
+  - Si no hay un valor de tipo de la compilación, asume que es `Stable`.
 
 ## Curiosidades
 
