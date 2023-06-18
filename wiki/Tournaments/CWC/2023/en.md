@@ -104,17 +104,49 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Sunday, 18 June 2023
+### Saturday, 20 May 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=PH }:: Philippines | [Jun 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T100000&p1=1440&p2=215&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T130000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Grand Finals | mappool showcase | [Jun 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230618T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jun 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T170000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 21 May 2023
+
+| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T130000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (171 MB)](https://drive.google.com/uc?id=1832UPtcqSB2FgiJaVqBAGFobJFL2TOHM)**
+
+- No Mod
+  1. [kanemiko - Cold Fusion (Jemzuu) \[Jemzuu vs. Zyzyx's Zenithal Synthesis\]](https://osu.ppy.sh/beatmapsets/2011522#fruits/4185823)
+  2. [Juggernaut. - +:OLPHEUX:+ (Extended) (Emiru) \[† APOCALYPSIS †\]](https://osu.ppy.sh/beatmapsets/2011527#fruits/4185843)
+  3. [Frums - Mdrqnxtagon (Mniam) \[Malicious Grin Of A Deathful Gaze\]](https://osu.ppy.sh/beatmapsets/2011529#fruits/4185846)
+  4. [Mitsukiyo Remixed by Morimori Atsushi - Unwelcome School (MRM REMIX) (IOException) \[Hell Extra!!\]](https://osu.ppy.sh/beatmapsets/1927597#osu/3980676)
+- Hidden
+  1. [D-D-Dice - World's end loneliness (full ver.) (GiGas) \[Crowning Glory\]](https://osu.ppy.sh/beatmapsets/2011534#fruits/4185860)
+  2. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty\]](https://osu.ppy.sh/beatmapsets/2011536#fruits/4185862)
+  3. [katagiri - UTAKATA (Yumeno Himiko) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2011537#fruits/4185863)
+- Hard Rock
+  1. [UNDEAD CORPORATION - Flowering Night Fever (Deif) \[Rocma & Deif's Private Vision\]](https://osu.ppy.sh/beatmapsets/2011555#fruits/4185885)
+  2. [Novasonic - Another Lie (ExGon) \[CWC 2023 Grand Finals HR2\]](https://osu.ppy.sh/beatmapsets/2011573#fruits/4185916)
+  3. [Link"0 feat. usagidenki - Uro no Yorishiro (Zyzyx) \[Imaginary Dreamer\]](https://osu.ppy.sh/beatmapsets/2011493#fruits/4185759)
+- Double Time
+  1. [Kitadani Hiroshi - OVER THE TOP (Ascendance) \[WILL OF D.\]](https://osu.ppy.sh/beatmapsets/2011549#fruits/4185879)
+  2. [Riya - IMPULSE (Du5t) \[Instinct\]](https://osu.ppy.sh/beatmapsets/2011554#fruits/4185884)
+  3. [LeaF - Queen Aluett (4rcheR-) \[OverdosE\]](https://osu.ppy.sh/beatmapsets/2011556#fruits/4185887)
+  4. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Dika312) \[Extra\]](https://osu.ppy.sh/beatmapsets/2011558#fruits/4185890)
+- Mixed Mod
+  1. [A-One feat. ayaponzu\* - Justice Monster (F D Flourite) \[KiRin\]](https://osu.ppy.sh/beatmapsets/2011565#fruits/4185898)
+  2. [HyuN feat. LyuU - Cross Revolution (Rocma) \[Special\]](https://osu.ppy.sh/beatmapsets/2011559#fruits/4185891)
+  3. [technoplanet feat. Haruno - End of Fairytale (autofanboy) \[Reality\]](https://osu.ppy.sh/beatmapsets/2011568#fruits/4185905)
+- Tiebreaker
+  1. **[Halv vs. kuro - Evreka (Ascendance) \[Chronosync\]](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911)**
 
 ### Finals
 
@@ -281,6 +313,13 @@ Saturday, 17 June 2023:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Italy** ::{ flag=IT }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/109047743) | [#1](https://www.twitch.tv/videos/1848950241) |
 | **Philippines** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/109048006) | [#1](https://www.twitch.tv/videos/1848953468) |
+
+Sunday, 18 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/109063750) | [#1](https://www.twitch.tv/videos/1849426391) |
+| United States ::{ flag=US }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/109065918) | [#1](https://www.twitch.tv/videos/1849491766) |
 
 ### Semifinals
 
@@ -591,5 +630,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^losers-bracket]: Losers bracket match
-[^winners-bracket]: Winners bracket match
+[^grand-finals-potential]: Grand Finals match
+[^losers-bracket]: Losers bracket Finals match
