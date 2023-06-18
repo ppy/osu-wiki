@@ -309,6 +309,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ### Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1elex_3q05z9l9123ojlSDp8EZZCn8mF_Ym0xwCz4drw/edit?rm=minimal).
+
 Saturday, 17 June 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
