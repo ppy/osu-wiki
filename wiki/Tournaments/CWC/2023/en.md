@@ -106,13 +106,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ## Match schedule: Grand Finals
 
-### Saturday, 20 May 2023
+### Saturday, 24 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jun 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T170000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
-### Sunday, 21 May 2023
+### Sunday, 25 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
@@ -308,6 +308,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1elex_3q05z9l9123ojlSDp8EZZCn8mF_Ym0xwCz4drw/edit?rm=minimal).
 
 Saturday, 17 June 2023:
 
