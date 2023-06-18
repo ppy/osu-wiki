@@ -120,8 +120,8 @@ Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opcio
 | `Pantalla completa` | Ejecuta el cliente del juego en pantalla completa (generalmente disminuye la latencia de entrada). | Casilla de verificación | `Activada` |
 | `Render at native resolution` | Utiliza la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Activada` |
 | `Minimise on alt-tab during fullscreen` | Minimiza la ventana principal al presionar `Alt` + `Tab`. | Casilla de verificación | `Activada` |
-| `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0 %` |
-| `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Deslizador | `0 %` |
+| `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
+| `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
 
 - Si `Pantalla completa` está deshabilitado, debajo aparecerá `¡Jugar en modo ventana incrementará la latencia de tus periféricos!`.
 
@@ -397,7 +397,7 @@ Esta sección trata sobre beatmaps y actualizaciones.
 
 En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en su navegador de Internet.
 
-### Depuración
+### Debug
 
 #### Versión de compilación
 
