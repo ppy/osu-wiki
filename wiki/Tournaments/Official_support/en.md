@@ -40,7 +40,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
-## Requesting Support
+## Requesting support
 
 To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
 
@@ -110,7 +110,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 At the account support team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
-## Other Procedures
+## Other procedures
 
 ### Tournament screening
 
@@ -141,7 +141,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
-### Profile Badges
+### Profile badges
 
 Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two weeks after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
 
@@ -197,7 +197,7 @@ Please consult the following examples of acceptable banner designs:
 
 Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
-## Frequently Asked Questions
+## FAQ
 
 ### If a user has not yet played any matches, can they join the staff? {id=no-play-join-staff}
 
