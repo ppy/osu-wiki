@@ -9,6 +9,8 @@ tags:
   - 申牌
   - 比赛
   - 锦标赛
+outdated_translation: true
+outdated_since:
 ---
 
 # 官方锦标赛支持

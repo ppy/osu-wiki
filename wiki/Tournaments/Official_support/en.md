@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on June 19, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -26,7 +26,9 @@ Officially supported tournaments have access to:
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
 - The tournament series must run no more than two times per year.
-- The tournament must operate on a Round of 16 double-elimination format at a minimum — alternative scales and formats may be permitted at the sole discretion of the osu! team. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
+- The tournament must operate on a Round of 16 double-elimination format at a minimum.
+  - Larger formats, such as group stages and swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact tournaments@ppy.sh if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
