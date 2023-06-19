@@ -33,7 +33,7 @@ Seed = Globaler Rang ^ (0.9937 ^ (Anzahl Abzeichen ^ 2))
 
 Diese Funktion erfüllt Eigenschaften, die für den Zweck von BWS wesentlich sind:
 
-- Der Seed eines Spielers sinkt in größeren Schritten, als die Spieler weitere Abzeichen erlangen können, oder mit anderen Worten, jedes neue Abzeichen ist mehr Wert als das vorherige.[^hippo-cup-bws] Beachte, dass dies in der obigen Formel nur bis zu einem Punkt zwischen 2 und 6 Abzeichen zutrifft (abhängig von `Globaler Rang`). Danach tritt ein Wendepunkt ein und der Effekt kehrt sich ins Gegenteil um.
+- Der Seed eines Spielers sinkt in größeren Schritten, je mehr Abzeichen er erlangt, oder mit anderen Worten, jedes neue Abzeichen ist mehr Wert als das vorherige.[^hippo-cup-bws] Beachte, dass dies in der obigen Formel nur bis zu einem Punkt zwischen 2 und 6 Abzeichen zutrifft (abhängig von `Globaler Rang`). Danach tritt ein Wendepunkt ein und der Effekt kehrt sich ins Gegenteil um.
 - BWS-Seeds sind immer kleiner als oder gleich `Globaler Rang`. Sie sind gleich, wenn der Spieler keine Abzeichen besitzt.
 - BWS-Seeds haben dieselbe Größenordnung wie `Globaler Rang`.
 
@@ -50,8 +50,8 @@ Manche Turniere variieren ihre Implementierung von BWS, indem sie eine andere Se
 
 ## Referenzen
 
-[^badge-appeals]: [Forumsnachricht "Badge Appeals"](https://osu.ppy.sh/community/forums/topics/1066357) von ::{ flag=US }:: [Kron05](https://osu.ppy.sh/users/10505107)
-[^brtt-bws]: Abschnitt "BWS" aus der [Forumsnachricht *Baku's Random Team Tournament #3*](https://osu.ppy.sh/community/forums/topics/973512) von ::{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127)
+[^badge-appeals]: [Forumsbeitrag "Badge Appeals"](https://osu.ppy.sh/community/forums/topics/1066357) von ::{ flag=US }:: [Kron05](https://osu.ppy.sh/users/10505107)
+[^brtt-bws]: Abschnitt "BWS" aus dem [Forumsbeitrag *Baku's Random Team Tournament #3*](https://osu.ppy.sh/community/forums/topics/973512) von ::{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127)
 [^digitalhypno-discord-1]: [Discord-Nachricht (1)](https://discord.com/channels/841454370888351784/843627338839490560/987908575215120414) von ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) im [Server *osu! University*](https://discord.gg/QubdHdnBVg)
 [^digitalhypno-discord-2]: [Discord-Nachricht (2)](https://discord.com/channels/841454370888351784/843627338839490560/987908667833737227) von ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) im [Server *osu! University*](https://discord.gg/QubdHdnBVg)
 [^digitalhypno-discord-3]: [Discord-Nachricht (3)](https://discord.com/channels/841454370888351784/843627338839490560/987909537124204584) von ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) im [Server *osu! University*](https://discord.gg/QubdHdnBVg)
