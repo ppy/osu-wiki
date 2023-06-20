@@ -25,7 +25,7 @@ In case you live in a cave and have absolutely no idea what a [beach episode](ht
 - pippi surfing a bitchin' shorey with a pair of shades on (no we will not elaborate on this slang)
 - Seaside cooking stall shenanigans with a shop owner suspiciously similar to the Dean "peppy" Herbert
 - Cinematic scenes of playing with fireworks on the beach at sunset (do not forget the bucket)
-- ...and basically anything else you can think of that might be featured in a beach episode!
+- ...and basically anything else you can think of that might feature in a beach episode!
 
 Go hard on the trope. Channel your inner kid — what makes the beach fun? Inflatable beach balls, umbrella... seaside dune buggy racing? As you can probably guess, this is a very wide theme and can be *so much more* than what you might initially think. Do whatever brings you joy (as long as it fits within the rules)!
 
