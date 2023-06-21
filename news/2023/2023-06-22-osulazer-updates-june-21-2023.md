@@ -18,7 +18,7 @@ Don't know what lazer is? Check out [this video](https://www.youtube.com/watch?v
 
 Here's what's new in this update:
 
-- **New mod "Synesthesia".** This is beat snap colouring for the osu! game mode as a mod, just like osu!mania already had but as a setting... That'll probably get sorted out up later, but whether it actually makes rhythms easier to read is the big question.
+- **New mod "Synesthesia".** This is beat snap colouring for the osu! game mode as a mod, just like osu!mania already had but as a setting... That'll probably get sorted out later, but whether it actually makes rhythms easier to read is the big question.
 - **Search bar in the mod select screen.** There will only be more mods in the future, more than the screen can fit.
 - **Lower threshold for stacking objects during placement in the editor.** In other words, you can place circles closer to each other without osu! thinking that you wanted to stack them.
 - **Visible beat snap grid in the osu!catch editor.** Copied from osu!mania.
