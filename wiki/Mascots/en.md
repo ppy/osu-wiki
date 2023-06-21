@@ -92,7 +92,7 @@ Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the parti
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
+Designed by [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
 
 ### Tama
 

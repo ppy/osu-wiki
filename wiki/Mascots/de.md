@@ -92,7 +92,7 @@ Chirou wurde von [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine 
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, auch bekannt als Taikonator 3000, war einer der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Er hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Taikonator wurde von [Lemia-Chan](https://osu.ppy.sh/users/8506749), auch bekannt als Taikonator 3000, war einer der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Er hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Tama
 
