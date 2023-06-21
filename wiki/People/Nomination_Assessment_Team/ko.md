@@ -41,7 +41,7 @@ NAT는 전반적인 매핑과 관련된 업무를 담당하고 있으며 **평�
 - **기타 유지 관리:** 대표적으로 관리하는 사항들은 다음과 같습니다:
   - [Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) 관리.
   - [RC Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)의 유지 및 보수.
-  - [Severity](SEV_rating)를 통한 지명 초기화 징계 및 경고.
+  - [Severity](SEV_rating)를 통한 추천 초기화 징계 및 경고.
 
 고문은 매핑/모딩 과정에 필요한 구성 요소를 유지 관리하는 것 외에도 BN과 매핑/모딩 커뮤니티의 다른 구성원들이 정보를 계속 받을수 있도록 해야 합니다. 따라서 고문은 일반적으로 매핑/모딩 관리의 운영에 초점을 맞추는 것을 선호하는 숙련된 **평가위원**으로 구성됩니다.
 
