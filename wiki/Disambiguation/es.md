@@ -4,7 +4,7 @@ no_native_review: true
 
 # Desambiguación
 
-Artículos de **Desambiguación** en la [wiki de osu!](/wiki/Main_Page) remarca términos ambiguos y explica sus posibles significados.
+Artículos de **Desambiguación** en la [wiki de osu!](/wiki/Main_page) remarca términos ambiguos y explica sus posibles significados.
 
 Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para otros usos"](/wiki/Article_styling_criteria/Formatting#para-otros-usos) con un link a la página de desambiguación.
 

@@ -20,7 +20,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 
 *Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-A *difficulty* is a file with [the `.osu` extension](/wiki/Client/File_formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmap/Star_rating) system is used to visualise a difficulty's skill requirement.
+A *difficulty* is a file with [the `.osu` extension](/wiki/Client/File_formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmap/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 
@@ -53,7 +53,7 @@ A submitted beatmap belongs to one of the following categories, which may change
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Some categories have [submission criteria](/wiki/Ranking_Criteria) and enable the beatmaps to have transient or permanent [leaderboards](#leaderboards). The most popular way of achieving that is the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), while the second option is to get the beatmap [loved](Category#loved).
+Some categories have [submission criteria](/wiki/Ranking_criteria) and enable the beatmaps to have transient or permanent [leaderboards](#leaderboards). The most popular way of achieving that is the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), while the second option is to get the beatmap [loved](Category#loved).
 
 ## Downloading beatmaps
 

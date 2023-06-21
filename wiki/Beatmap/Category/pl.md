@@ -18,7 +18,7 @@ Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynaj
 
 ![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png) Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę.
 
-Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_Criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
+Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
 
 ### Zatwierdzone
 
@@ -36,7 +36,7 @@ Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku ro
 - usunięcie wszystkich wyników po zmianie statusu.
   - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
 
-Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_Criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#rankingowe) lub [zatwierdzony](#zatwierdzone).
+Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#rankingowe) lub [zatwierdzony](#zatwierdzone).
 
 Podczas tego tygodnia [członkowie zespołu QAT](/wiki/People/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
@@ -44,7 +44,7 @@ Podczas tego tygodnia [członkowie zespołu QAT](/wiki/People/Quality_Assurance_
 
 ![Serce](/wiki/shared/status/loved.png) Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem.
 
-Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
+Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
 - brak przyznania [pp](/wiki/Performance_points).
 - usunięcie wszystkich wyników po aktualizacji beatmapy przez twórcę.

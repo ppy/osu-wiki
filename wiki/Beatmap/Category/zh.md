@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # 谱面分类
 
-已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、提名状态和受欢迎程度分为几类。
+已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、[提名](/wiki/Beatmap_ranking_procedure#过审)状态和受欢迎程度分为几类。
 
 ## 现有分类
 
@@ -22,25 +18,25 @@ no_native_review: true
 
 ### 过审 (Qualified)
 
-过审状态是谱面于[谱面上架流程](/wiki/Beatmap_ranking_procedure)中所处的最后一个阶段。当两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 已经认为谱面达到了[上架标准](/wiki/Ranking_Criteria)并提名了谱面，谱面即会进入过审分类。过审分类下的谱面将进入[谱面上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)，如果谱面没有[下架 (DQ)](/wiki/Beatmap_ranking_procedure#提名重置)，则最终会[上架 (Ranked)](#上架-(ranked))。这期间将作为谱面上架之前的最后一道防线，任何可能出现的缺陷和问题都将在这个阶段修改掉。
+过审状态是谱面于[谱面上架流程](/wiki/Beatmap_ranking_procedure)中所处的最后一个阶段。当两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 已经认为谱面达到了[上架标准](/wiki/Ranking_criteria)并提名了谱面，谱面即会进入过审分类。过审分类下的谱面将进入[谱面上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)，如果谱面没有[下架 (DQ)](/wiki/Beatmap_ranking_procedure#提名重置)，则最终会[上架 (Ranked)](#上架-(ranked))。这期间将作为谱面上架之前的最后一道防线，任何可能出现的缺陷和问题都将在这个阶段修改掉。
 
 过审状态的谱面有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，所有这期间在谱面上获得的成绩，也将在谱面移出过审状态时一并删除掉。在选歌界面，这类谱面会显示出一个对勾 (![](/wiki/shared/status/qualified.png)) 的标识。
 
 ### 上架 (Ranked)
 
-上架 (Ranked) 状态的谱面已经达到或超过了[谱面上架标准 (RC)](/wiki/Ranking_Criteria)，一般可认为是官方谱面。玩家可以在这类谱面的排行榜上竞争，并通过好成绩获取[表现分 (pp)](/wiki/Performance_points)。一旦谱面进入上架状态，就不能改变为其他状态（除非特殊情况）。在选歌界面，这类谱面会显示出一个双箭头 (![](/wiki/shared/status/ranked.png)) 的标识。
+上架 (Ranked) 状态的谱面已经达到或超过了[谱面上架标准 (RC)](/wiki/Ranking_criteria)，一般可认为是官方谱面。玩家可以在这类谱面的排行榜上竞争，并通过好成绩获取[表现分 (pp)](/wiki/Performance_points)。一旦谱面进入上架状态，就不能改变为其他状态（除非特殊情况）。在选歌界面，这类谱面会显示出一个双箭头 (![](/wiki/shared/status/ranked.png)) 的标识。
 
 ### 社区喜爱 (Loved)
 
 *关于社区喜爱 (Loved) 分类的历史，参见：[社区喜爱 (Loved) 的历史](/wiki/History_of_osu!/History_of_Loved)*
 
-社区喜爱 (Loved) 分类的谱面可能不符合[谱面上架标准 (RC)](/wiki/Ranking_Criteria)，但受到了社区的*拥护*。因此，[社区喜爱计划 (Project Loved)](/wiki/Community/Project_Loved) 会定期举办社区投票，并添加此类谱面。它们有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，如果谱面移出社区喜爱分类，所有成绩会被清除掉（这通常只发生在谱师要求移出时）。在选歌界面，这类谱面会显示出一个爱心 (![](/wiki/shared/status/loved.png)) 的标识。
+社区喜爱 (Loved) 分类的谱面可能不符合[谱面上架标准 (RC)](/wiki/Ranking_criteria)，但受到了社区的*拥护*。因此，[社区喜爱计划 (Project Loved)](/wiki/Community/Project_Loved) 会定期举办社区投票，并添加此类谱面。它们有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，如果谱面移出社区喜爱分类，所有成绩会被清除掉（这通常只发生在谱师要求移出时）。在选歌界面，这类谱面会显示出一个爱心 (![](/wiki/shared/status/loved.png)) 的标识。
 
 ## 历史
 
 ### 达标 (Approved)
 
-达标 (Approved) 谱面分类曾在 2008 到 2014 年期间，用于存放超过了旧版[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 要求的谱面长度和最大分数限制，或是极少部分违反谱面上架标准其他条目的谱面。
+达标 (Approved) 谱面分类曾在 2008 到 2014 年期间，用于存放超过了旧版[谱面上架标准 (RC)](/wiki/Ranking_criteria) 要求的谱面长度和最大分数限制，或是极少部分违反谱面上架标准其他条目的谱面。
 
 达标谱面不会影响玩家的分数排名，直到分数排名被[表现分 (pp)](/wiki/Performance_points) 排名所替代前。替代后，达标状态只用于存放[掉血时间 (drain time)](/wiki/Beatmap/Drain_time) 超过 6 分钟的谱面。
 

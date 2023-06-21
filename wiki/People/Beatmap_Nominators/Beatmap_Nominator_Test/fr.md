@@ -11,15 +11,15 @@ Le test comporte 20 questions et les utilisateurs sont censés sélectionner tou
 Les questions du test sont tirées d'un grand nombre de questions triées par catégorie. Les catégories suivantes apparaissent dans le test :
 
 - [Les règles des Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules) : 5 questions
-- [Le code de conduite pour le mapping et le modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) : 1 question
-- [Les critères de classement généraux](/wiki/Ranking_Criteria#général) (*RC*) : 1 question
-- [Le spread dans les RC](/wiki/Ranking_Criteria#beatmap) : 1 question
-- [Les métadonnées dans les RC](/wiki/Ranking_Criteria#metadata) : 1 question
-- [Le timing dans les RC](/wiki/Ranking_Criteria#timing): 1 question
-- [L'audio dans les RC](/wiki/Ranking_Criteria#audio) : 1 question
-- [Les vidéos et arrière-plan dans les RC](/wiki/Ranking_Criteria#vidéo-et-arrière-plan) : 1 question
-- [Le skinning dans les RC](/wiki/Ranking_Criteria#skinning) : 1 question
-- [Le storyboarding dans les RC](/wiki/Ranking_Criteria#storyboarding)
+- [Le code de conduite pour le mapping et le modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) : 1 question
+- [Les critères de classement généraux](/wiki/Ranking_criteria#général) (*RC*) : 1 question
+- [Le spread dans les RC](/wiki/Ranking_criteria#beatmap) : 1 question
+- [Les métadonnées dans les RC](/wiki/Ranking_criteria#metadata) : 1 question
+- [Le timing dans les RC](/wiki/Ranking_criteria#timing): 1 question
+- [L'audio dans les RC](/wiki/Ranking_criteria#audio) : 1 question
+- [Les vidéos et arrière-plan dans les RC](/wiki/Ranking_criteria#vidéo-et-arrière-plan) : 1 question
+- [Le skinning dans les RC](/wiki/Ranking_criteria#skinning) : 1 question
+- [Le storyboarding dans les RC](/wiki/Ranking_criteria#storyboarding)
 - Le RC spécifique à un mode : 4 questions spécifiques au mode de jeu pour lequel l'utilisateur est candidat (osu!, osu!taiko, osu!catch, osu!mania)
 
 Il n'existe pas de seuil de réussite ou d'échec au Beatmap Nominator Test, mais il est généralement admis qu'un score supérieur à 15 est bon, qu'un score compris entre 12,5 et 15 est médiocre et que tout score inférieur est préoccupant.

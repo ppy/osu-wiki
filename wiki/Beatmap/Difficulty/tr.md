@@ -17,9 +17,9 @@ Bir beatmapin **zorluğu** onu tamamlamak için gereken yetenek seviyesini belir
 
 ## Zorluk seviyeleri
 
-*Ayrıca bakınız: [Zorluk İsimlendirme](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Ayrıca bakınız: [Zorluk İsimlendirme](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak tanımları ve gereksinimleri her bir modun [derecelendirme kriterlerinde](/wiki/Ranking_Criteria) bulunabilir. 
+Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak tanımları ve gereksinimleri her bir modun [derecelendirme kriterlerinde](/wiki/Ranking_criteria) bulunabilir. 
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -70,4 +70,4 @@ Web sayfasında, beatmaplere aşağıdaki yıldız derecelerine göre bir zorluk
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ ve üzeri
 
-Pek çok mapin istenilen zorluk seviyesi onlara verilen ikonlara uyar, ancak bazıları bundan bariz biçimde sapar. Bundan ötürü [derecelendirme kriterleri](/wiki/Ranking_Criteria) zorluk hesaplama ve beatmap seti dağılımını değerlendirmek için daha kesin kurallar tanımlamıştır. 
+Pek çok mapin istenilen zorluk seviyesi onlara verilen ikonlara uyar, ancak bazıları bundan bariz biçimde sapar. Bundan ötürü [derecelendirme kriterleri](/wiki/Ranking_criteria) zorluk hesaplama ve beatmap seti dağılımını değerlendirmek için daha kesin kurallar tanımlamıştır. 

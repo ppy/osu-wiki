@@ -178,7 +178,7 @@ outdated_translation: true
 - `F1`: Переключиться в режим ["Compose"](/wiki/Client/Beatmap_editor/Compose) (Композиция)
 - `F2`: Переключиться в режим ["Design"](/wiki/Client/Beatmap_editor/Design) (Дизайн)
 - `F3`: Переключиться в режим ["Timing"](/wiki/Client/Beatmap_editor/Timing) (Настройка темпа)
-- `F4`: Открыть [настройки песни](/wiki/Client/Beatmap_editor/Song_Setup) (открывает диалог)
+- `F4`: Открыть [настройки песни](/wiki/Client/Beatmap_editor/Song_setup) (открывает диалог)
 - `F5`: Открыть режим тестирования
 - `F6`: Открыть панель настроки тайминга
 
@@ -246,7 +246,7 @@ outdated_translation: true
 
 #### Таймлайн
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Изменить [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) на 1/1, 1/2, 1/3, 1/4, 1/6, и 1/8 соответственно (1, 2, и 3 не работают в режиме редактирования osu!mania)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Изменить [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) на 1/1, 1/2, 1/3, 1/4, 1/6, и 1/8 соответственно (1, 2, и 3 не работают в режиме редактирования osu!mania)
 - `Shift` при расположении (таймлайн): Игрорировать сетку и привязку по времени
 - `J`: Привязать ноту к ближайшей временной точке перед текущей
 - `K`:Привязать ноту к ближайшей временной точке после текущей
