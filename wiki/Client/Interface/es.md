@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # Interfaz
 
 Este artículo explica todo lo que necesita saber sobre cómo usar el cliente del juego de osu!. Aquí encontrará información sobre la pantalla de selección de canciones, la visualización de clasificaciones y la pantalla de resultados. Al iniciar el cliente del juego, puede ver la siguiente pantalla:
