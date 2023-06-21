@@ -15,7 +15,7 @@ NAT 멤버들은 빨간색 닉네임으로 표시되며 [글로벌 모더레이�
 
 **모든 노미네이션 어세스먼트 팀 멤버들은 [커뮤니티 행동수칙](/wiki/Rules/Contributor_code_of_conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
 
-***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/Account_support_team#support@ppy.sh)으로 문의하십시오.***
+***참고: NAT가 커뮤니티 행동수칙을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/Account_support_team#support@ppy.sh)으로 문의하십시오.***
 
 ## 책임
 

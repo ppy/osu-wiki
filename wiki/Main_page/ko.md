@@ -70,7 +70,7 @@ layout: main_page
 
 osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인으로부터 계속 안전하게 지켜질 수 있도록 절차 및 채팅 규정에 대해 읽어주세요. 
 
-[규칙](/wiki/Rules) • [기여자 Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[규칙](/wiki/Rules) • [기여자 행동지침](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 행동지침](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
 미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_usage_guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_voting_process) • [부적절한 콘텐츠](/wiki/Rules/Explicit_content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_content_considerations)
 
