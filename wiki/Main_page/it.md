@@ -28,7 +28,7 @@ Essendo la guida al mondo del ritmo, dei battiti, e dei flash, osu! ha molto da 
 
 [Interfaccia](/wiki/Client/Interface) • [Opzioni](/wiki/Client/Options) • [Impostazioni visive](/wiki/Client/Interface/Visual_settings) • [Fonte delle scorciatoie da tastiera](/wiki/Client/Keyboard_shortcuts) • [File di configurazione](/wiki/Client/Program_files/User_configuration_file) • [File del programma](/wiki/Client/Program_files)
 
-[Formati dei File](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Formati dei File](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
