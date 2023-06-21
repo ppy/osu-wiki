@@ -20,7 +20,7 @@ tags:
 在测试模式中游玩谱面与正常游玩不同。它不会提交分数，不会显示排行榜，不会让玩家失败，并且总会在屏幕左侧显示如下信息：
 
 - 当前的谱面[时间戳](/wiki/Modding/Timestamp)。
-- [故事板负载](/wiki/Client/Beatmap_editor/SB_Load)。
+- [故事板负载](/wiki/Client/Beatmap_editor/SB_load)。
 - 获得的 300、 100、 50 与失误 (miss) 总数。
 - 计时不准的打击数所占百分比。
 - 计时不准的打击数的平均延迟（以毫秒为单位）。

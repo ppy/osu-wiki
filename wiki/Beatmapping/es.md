@@ -18,7 +18,7 @@ Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Client/Beatm
 
 ### Configuración de la canción
 
-*Ver también: [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Ver también: [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Al crear un nuevo [mapset](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
@@ -51,5 +51,5 @@ Es donde puedes colocar visualmente objetos de golpeo y alternar sus [sonidos de
 
 *Ver también: [Diseño](/wiki/Client/Beatmap_editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)*
 
-La pestaña de diseño del editor de beatmaps es donde puedes establecer la imagen de fondo del beatmap, agregar un video y/o crear un guión gráfico básico.
+La pestaña de diseño del editor de beatmaps es donde puedes establecer la imagen de fondo del beatmap, agregar un vídeo y/o crear un guión gráfico básico.
 Dependiendo de lo que hagas, puedes usar la pestaña de diseño mucho o nada en absoluto, si llegas a hacer [SBS](/wiki/Storyboard/Scripting) (secuencias de comandos del guión gráfico).

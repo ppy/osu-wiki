@@ -4,7 +4,7 @@ Les [beatmaps](/wiki/Beatmap) peuvent être publiées sur le site web d'osu! via
 
 ![](img/bss_warning.png "Écran du Beatmap Submission System")
 
-En sélectionnant `Upload Beatmap...` dans le menu déroulant `File` de l'éditeur (raccourci : `Ctrl` + `Shift` + `U`), vous ouvrirez la fenêtre du **Beatmap Submission System** (***BSS***). Il s'agit initialement d'une liste de ressources pour aider les utilisateurs à poser des questions sur le mapping, à trouver des [commentaires](/wiki/Modding) sur leurs beatmaps et à s'assurer que leurs beatmaps sont adaptées au classement. Si vous rencontrez des problèmes lors de l'utilisation du BSS, consultez le guide [BSS Issues](/wiki/Guides/BSS_Issues).
+En sélectionnant `Upload Beatmap...` dans le menu déroulant `File` de l'éditeur (raccourci : `Ctrl` + `Shift` + `U`), vous ouvrirez la fenêtre du **Beatmap Submission System** (***BSS***). Il s'agit initialement d'une liste de ressources pour aider les utilisateurs à poser des questions sur le mapping, à trouver des [commentaires](/wiki/Modding) sur leurs beatmaps et à s'assurer que leurs beatmaps sont adaptées au classement. Si vous rencontrez des problèmes lors de l'utilisation du BSS, consultez le guide [BSS Issues](/wiki/Guides/BSS_issues).
 
 Si la beatmap qu'un utilisateur télécharge n'est pas déjà sur le site d'osu!, la fenêtre BSS indique combien de nouveaux téléchargements un utilisateur peut publier. Si la beatmap est nominée, la fenêtre prévient que la nomination sera réinitialisée par la mise à jour de la beatmap. Si la beatmap est dans le [cimetière](/wiki/Beatmap/Category#cimetière), la fenêtre prévient que la beatmap sera élevée à la catégorie en attente.
 

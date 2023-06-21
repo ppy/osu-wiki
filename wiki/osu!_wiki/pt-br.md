@@ -15,7 +15,7 @@ As [primeiras tentativas](https://osu.ppy.sh/community/forums/posts/1175876) de 
 
 ## Estrutura
 
-A porta de entrada para o osu! wiki é a [página principal](/wiki/Main_Page), que é dividida em várias categorias de alto nível, cada uma com descrições gerais incluindo uma lista de artigos importantes. Os artigos não listados na página principal, que são tipicamente mais específicos, podem ser obtidos a partir de outras páginas usando links em linha ou através da função pesquisa do website.
+A porta de entrada para o osu! wiki é a [página principal](/wiki/Main_page), que é dividida em várias categorias de alto nível, cada uma com descrições gerais incluindo uma lista de artigos importantes. Os artigos não listados na página principal, que são tipicamente mais específicos, podem ser obtidos a partir de outras páginas usando links em linha ou através da função pesquisa do website.
 
 Um artigo individual descreve um único termo ou conceito que dá uma uma visão geral em tópicos adjacentes. Para melhor ilustrar o assunto, está dividido em subseções que cobrem partes diferentes para o termo. Também pode incluir capturas de tela relevantes ou outras explicações visuais, ou links a outros artigos sobre o tema.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
 

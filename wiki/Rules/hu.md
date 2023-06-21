@@ -41,7 +41,7 @@ Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy 
 
 Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Beatmapping/Beatmap_submission) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/Client/Beatmap_editor) segítségével a beatmap-ek publikálásra kerülnek.
 
-Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
+Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_criteria).
 
 1. **Győződj meg arról, hogy engedélyed van mindenre, amit a beatmap-edben használsz.** Ez magába foglalja a zenéket, videókat, ütéshangokat, grafikákat, vagy bármi egyéb tartalmat, ami nem a te munkád gyümölcse. Ha nem vagy benne biztos, hogy merre kéne az efféle tartalmakat keresned, nekünk van egy folyamatosan bővülő zenegyűjteményünk a [Kiemelt Előadók](https://osu.ppy.sh/beatmaps/artists/) részlegnél, ahol az összes zene 100%-os licenc-szel rendelkezik az osu! használatához.
 2. **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.

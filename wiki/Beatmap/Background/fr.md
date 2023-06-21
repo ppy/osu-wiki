@@ -6,7 +6,7 @@ tags:
 
 # Arrière-plan
 
-*Pour les règles concernant les arrière-plans, voir : [Critères de classement](/wiki/Ranking_Criteria)*.
+*Pour les règles concernant les arrière-plans, voir : [Critères de classement](/wiki/Ranking_criteria)*.
 
 Des images et des vidéos **d'arrière-plan** peuvent être ajoutées aux [beatmaps](/wiki/Beatmap) pendant leurs créations. Lorsque l'on écrit seulement "background" ou "bg", cela fait généralement référence à l'image d'arrière-plan.
 

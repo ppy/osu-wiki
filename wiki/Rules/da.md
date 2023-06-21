@@ -41,7 +41,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 
 ## Beatmap Indsendelses Regler
 
-*Note: Disse regler gælder **alle indsendte maps**, ikke kun dem der er Ranked. For at se mere specifikke regler ift. Ranked beatmaps, se [Ranking Kriteriet](/wiki/Ranking_Criteria).*
+*Note: Disse regler gælder **alle indsendte maps**, ikke kun dem der er Ranked. For at se mere specifikke regler ift. Ranked beatmaps, se [Ranking Kriteriet](/wiki/Ranking_criteria).*
 
 Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Beatmapping/Beatmap_submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
 

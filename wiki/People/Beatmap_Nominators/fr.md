@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - BN
   - BNG
@@ -10,7 +8,7 @@ tags:
 
 *Voir également : [Règles pour les Beatmap Nominators](Rules), [Attentes à l'égard des Beatmap Nominators](Expectations), [Informations générales sur les Beatmap Nominators](General_Information), et [Devenir un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Les **Beatmap Nominators** (***BN***) sont un groupe chargé de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils ont une couleur violette sur leur nom d'utilisateur sur le forum et dans les [discussions des beatmaps](/wiki/Beatmap_discussion).
+Les **Beatmap Nominators** (***BN***) sont un groupe chargé de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils se distinguent par la couleur pourpre de leur badge de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `BN`.
 
 ## Rôles et responsabilités
 

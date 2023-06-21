@@ -3,6 +3,8 @@ tags:
   - badge
   - badges
   - badged
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 공식적인 토너먼트 지원

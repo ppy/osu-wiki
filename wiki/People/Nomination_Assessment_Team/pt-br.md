@@ -11,7 +11,7 @@ A **Equipe de Avaliação de Nomeação** (***NAT***) são os moderadores dos [N
 
 Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário vermelhos. Assim como a [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team) (*GMT*), eles possuem permissões de moderação pelo site e um nome vermelho escuro nos canais de chat do jogo.
 
-**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
+**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_code_of_conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
 Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
@@ -20,7 +20,7 @@ Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo
 Os NAT são responsáveis por uma variedade de tarefas relacionadas a mapping que podem ser separadas em quatro subcategorias:
 
 - **Avaliação:** Avaliar a proficiencia e atividade de ambos Nomeadores de Beatmap e candidatos. A maioria dos membros do NAT são responsáveis em contribuir para essa categoria.
-- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_Criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
+- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
 - **Moderação:** Tratar denúncias de usuário e avaliar comportamento impróprio dos Nomeadores de Beatmap. Essa subcategoria é um trabalho conjunto entre os NAT e os GMT.
 - **Comunicação:** Promover transparência entre os NAT e a comunidade de mapping/modding, incluindo a criação e organização de reuniões.
 

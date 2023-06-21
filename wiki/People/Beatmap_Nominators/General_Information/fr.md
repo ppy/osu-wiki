@@ -5,8 +5,8 @@
 ## Liens importants
 
 - Les [règles des Beatmaps Nominators](/wiki/People/Beatmap_Nominators/Rules) : Explique en détails à la fois ce qu'il faut faire, et ce qu'il ne faut pas faire - il vous est aussi préférable d'éviter de les briser en toutes situations, donc soyez sûr de les avoir lu attentivement ! Vous pourrez toujours demander à un membre de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) *(NAT)* si vous n'êtes pas sûr à propos de quelque chose, ils se feront une joie de vous aider.
-- Le [code de conduite pour le mapping et le modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) : En tant que BN, vous êtes censé être une figure exemplaire pour la communauté, quelqu'un que les autres admireront et respecteront. Un écart peut vous conduire à un avertissement, ou pire, à vous faire expulser.
-- Les [critères de classement](/wiki/Ranking_Criteria) : Si vous êtes déjà un BN, alors vous devriez déjà être familier avec ceci. Essentiellement, il sert à expliquer quels aspects du mapping sont ou ne sont pas autorisés dans la catégorie classée, ainsi qu'à inclure quelques directives générales que les autres doivent suivre dans la plupart des cas. 
+- Le [code de conduite pour le mapping et le modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) : En tant que BN, vous êtes censé être une figure exemplaire pour la communauté, quelqu'un que les autres admireront et respecteront. Un écart peut vous conduire à un avertissement, ou pire, à vous faire expulser.
+- Les [critères de classement](/wiki/Ranking_criteria) : Si vous êtes déjà un BN, alors vous devriez déjà être familier avec ceci. Essentiellement, il sert à expliquer quels aspects du mapping sont ou ne sont pas autorisés dans la catégorie classée, ainsi qu'à inclure quelques directives générales que les autres doivent suivre dans la plupart des cas. 
 - [Informations sur les veto des beatmaps](/wiki/People/Beatmap_Nominators/Beatmap_Veto) : Pour les beatmaps avec des problèmes subjectifs de qualité qui ne violent pas nécessairement les règles ou les directives des critères de classement, mais qui, selon vous, rendent la beatmap inéligible à la catégorie classée. Le veto d'une beatmap permet de retirer la qualification d'une beatmap.
 - Le [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) : Un outil créé par [Naxess](https://osu.ppy.sh/users/8129817), un membre de la NAT. Cet outil permet de vérifier un large éventail de problèmes empêchant une beatmap d'être classée, et une fonctionnalité de capture instantanée pour facilement comparer les versions d'une beatmap, ce qui est utile lors des revérifications. **Cela ne doit pas remplacer la vérification d'une beatmap par vous même**, mais plutôt être utilisé comme un outil de double-vérification au cas où vous auriez loupé quelque chose.
 
@@ -50,7 +50,7 @@ Les BN non probatoires peuvent faire une "Quality Assurance" en vérifiant à to
 
 ### Review du contenu
 
-Tous les BN peuvent contribuer à la modération des musiques ou des images soit en y soumettant du contenu à review ou en y votant. Le processus de vote complet et la façon dont les votes sont comptés peuvent être trouvés sur l'[article sur le processus de vote sur le contenu](/wiki/Rules/Content_Voting_Process).
+Tous les BN peuvent contribuer à la modération des musiques ou des images soit en y soumettant du contenu à review ou en y votant. Le processus de vote complet et la façon dont les votes sont comptés peuvent être trouvés sur l'[article sur le processus de vote sur le contenu](/wiki/Rules/Content_voting_process).
 
 ### Évaluations simulées
 

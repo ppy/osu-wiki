@@ -35,7 +35,7 @@ Nell'editor, clicca `File` nella barra degli strumenti, poi `Apri .osu in Notepa
 
 Nel caso non lo fosse, cambia manualmente la riga per ogni difficoltà della tua beatmap, ricarica la mappa e dovresti essere in grado di caricarla.
 
-Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_Issues).
+Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_issues).
 
 ## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {id=upload-slots}
 
