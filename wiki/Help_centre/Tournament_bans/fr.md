@@ -1,3 +1,8 @@
+---
+outdated_since: 23ff06b9061d913c0419e154b759c85b176dfece
+outdated_translation: true
+---
+
 # Bannissement des tournois
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*
