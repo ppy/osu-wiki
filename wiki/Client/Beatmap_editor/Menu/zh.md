@@ -161,7 +161,7 @@ outdated_since: a391d509fc9af7e2123d5159be8fc90400552b65
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 节拍细分 | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| 节拍细分 | [节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | 播放速度 | 与回放速度 (Playback Rate) 相同。 |
 | 对齐到网格 (T) | 允许物件与当前网格线对齐。 |
 

@@ -12,4 +12,4 @@ Marathonが出された初期は*6*分以上かつ一つしか難易度を持た
 
 しかも難易度名にMarathonと書かなければビートマップを[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)できず、[Ranked](/wiki/Beatmap/Category#ranked)の条件を満たしても今はない[Approved](/wiki/Beatmap/Category#approved)というカテゴリーに分類された。
 
-その後、[独自の難易度名](/wiki/Ranking_Criteria/Difficulty_naming)が持てるようになり、2019年の大幅な規則の追加がなされるまで5分以上の[Drain time](/wiki/Beatmap/Drain_time)のことを指すことになっていた。
+その後、[独自の難易度名](/wiki/Ranking_criteria/Difficulty_naming)が持てるようになり、2019年の大幅な規則の追加がなされるまで5分以上の[Drain time](/wiki/Beatmap/Drain_time)のことを指すことになっていた。

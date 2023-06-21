@@ -36,7 +36,7 @@ Klicke im Editor-Menü auf `Datei`, dann auf `.osu im Editor öffnen`. Überprü
 
 Wenn er dem nicht entspricht, ändere ihn manuell für jeden Schwierigkeitsgrad in deiner Beatmap, lade die Beatmap neu und du solltest in der Lage sein, die Beatmap einzureichen.
 
-Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies bitte die [Seite über Probleme mit dem BSS](/wiki/Guides/BSS_Issues).
+Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies bitte die [Seite über Probleme mit dem BSS](/wiki/Guides/BSS_issues).
 
 ## Ich bin ein osu!supporter, aber ich habe keine 20 ausstehenden Slots! {id=upload-slots}
 

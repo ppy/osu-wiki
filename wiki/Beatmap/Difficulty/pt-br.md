@@ -18,9 +18,9 @@ A **difficulty** de um beatmap descreve o nível de habilidade requirido para co
 
 ## Níveis de dificuldade
 
-*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Veja também: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_Criteria) de cada modo.
+Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_criteria) de cada modo.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -71,4 +71,4 @@ No site, beatmaps são automaticamente dados um ícone de dificuldade baseado na
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ e acima disso
 
-A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_Criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.
+A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.

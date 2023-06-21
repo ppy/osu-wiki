@@ -16,9 +16,9 @@ As a real-world example, such behaviour would include drawing or writing hate sy
 
 All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
 
-## What causes someone to receive a permanent tournament ban? {id=why-permanent}
+## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
-Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in a permanent tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment.
+Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in an indefinite tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment at the discretion of the support team.
 
 This includes situations like:
 
@@ -32,7 +32,11 @@ This includes situations like:
 
 ## Can I appeal a tournament ban? {id=appeal}
 
-Whether temporary or permanent, **tournament bans cannot be appealed**.
+Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
+
+Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
+
+Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
 
 In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 

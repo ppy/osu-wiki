@@ -42,7 +42,7 @@ osu! dispose d'une équipe de reviewers, des [Beatmap Nominators](/wiki/People/B
 
 - Regardez ou cherchez dans la liste [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) les artistes ou les musiques que vous aimez et/ou auxquels vous voulez contribuer.
 - Jouez les beatmaps aux stades [*En attente* ou *Work in progress*](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et laissez vos commentaires sur la page de discussion de la beatmap.
-- Lisez le [Guide de modding](/wiki/Modding) et les [Critères de classement](/wiki/Ranking_Criteria) pour connaître les bases du modding technique et savoir ce qui rend une beatmap classable.
+- Lisez le [Guide de modding](/wiki/Modding) et les [Critères de classement](/wiki/Ranking_criteria) pour connaître les bases du modding technique et savoir ce qui rend une beatmap classable.
 - Rejoignez les salons `#mapping` et `#modreqs` sur le tchat en jeu et participez à la conversation ou suivez simplement.
 - Si vous avez le temps et l'envie, créez une [Modding Queue](https://osu.ppy.sh/community/forums/60) pour permettre aux créateurs des beatmaps de vous demander des mods.
 

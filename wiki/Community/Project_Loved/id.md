@@ -37,9 +37,9 @@ Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wi
 
 Beatmap yang masuk ke kategori Loved diperlukan untuk mengikuti beberapa aturan tambahan:
 
-- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_Criteria#metadata)
-- [Peraturan Konten Musik](/wiki/Rules/Song_Content_Rules)
-- [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations)
+- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_criteria#metadata)
+- [Peraturan Konten Musik](/wiki/Rules/Song_content_rules)
+- [Pertimbangan Konten Visual](/wiki/Rules/Visual_content_considerations)
 
 Sebagai catatan, agar mutu lagu-lagu yang ada dapat tetap terjaga, setiap beatmap harus mengandung berkas lagu yang memiliki kualitas audio/*bit rate* yang baik namun tidak lebih dari 192kbps.
 

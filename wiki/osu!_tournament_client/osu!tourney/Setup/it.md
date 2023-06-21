@@ -24,7 +24,7 @@ Non modificare il file `tournament.cfg` mentre osu! è in esecuzione. Chiudi osu
 - `TeamSize`: Il numero di giocatori per squadra. Il client aprirà 1-8 finestre per squadra a seconda di questo valore. Il valore massimo è 8.
 - `ClientNameSize`: La dimensione dei nomi dei giocatori.
 - `privateserver`: Lascia questo valore inalterato.
-- `acronym`: Un'abbreviazione per il torneo. Questo influisce sulla denominazione richiesta per le stanze dei tornei, controlla la [guida uso multiplayer](/wiki/osu!tourney/Multiplayer_usage) per maggiori informazioni.
+- `acronym`: Un'abbreviazione per il torneo. Questo influisce sulla denominazione richiesta per le stanze dei tornei, controlla la [guida uso multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) per maggiori informazioni.
 - `BufferTimeoutTime`: Tempo di buffering del client per l'attesa di un giocatore prima di continuare il gameplay senza di loro.
   - Non è consigliato modificare questo valore.
 - `BufferTotalTime`: Quantità di tempo in cui il client effettua il buffer per ridurre la frequenza delle pause in attesa del buffer. Questo produce un ritardo tra il client e i giocatori.

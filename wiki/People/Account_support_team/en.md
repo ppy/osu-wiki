@@ -6,7 +6,7 @@
 
 ## Point of contact
 
-The team can **only** be reached by sending a mail to [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [privacy@ppy.sh](mailto:privacy@ppy.sh). The identities of its members are kept secret in order to protect them from unwanted attention.
+The team can **only** be reached by sending a mail to [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh), or [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The identities of its members are kept secret in order to protect them from unwanted attention.
 
 It usually takes a few days for support to get to the email. If there is no response within a week, it is worth sending a follow-up message about the case.
 
@@ -34,7 +34,7 @@ You should contact this team regarding account-related topics that are out of yo
 *Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Concerns about a moderator's misbehaviour.
-- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
+- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct).
 - [Payment issues](/wiki/Help_centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_centre/Client#online-features).
 
@@ -42,3 +42,7 @@ You should contact this team regarding account-related topics that are out of yo
 
 - [Data requests](/wiki/Legal/Privacy#data-controller) and privacy concerns.
 - **Permanent** [account deletion requests](/wiki/Legal/Privacy#your-rights-and-control).
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- [Official tournament support](/wiki/Tournaments/Official_support) requests and general inquiries about tournaments in consultation with the [Tournament Committee](/wiki/People/Tournament_Committee).
