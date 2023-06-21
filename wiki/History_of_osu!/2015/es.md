@@ -74,7 +74,7 @@ El 26 de septiembre de 2015, [cYsmix](http://cysmix.com/) se convirtió en uno d
 
 ![](img/cysmix-album-cover-1.jpg "La portada del álbum para el primer lanzamiento de canciones oficiales de osu! de cYsmix")
 
-Cada pista tenía su propio archivo [`.osz`](/wiki/Client/File_formats/Osz_(file_format)) preprogramado incluido y se lanzó en el [SoundCloud de cYsmix](https://soundcloud.com/olemlanglie) el 28 de septiembre de 2015.
+Cada pista tenía su propio archivo [`.osz`](/wiki/Client/File_formats/osz_(file_format)) preprogramado incluido y se lanzó en el [SoundCloud de cYsmix](https://soundcloud.com/olemlanglie) el 28 de septiembre de 2015.
 
 Además de esto, se creó una "recompensa abierta" llamada "Mapeo con recompensas" para este evento, que permitía a cualquiera mapear una de las pistas antes mencionadas, ponerla en un estado clasificable y, si era lo suficientemente impresionante, esa persona podría recibir una recompensa por ello. La recompensa ofrecida en ese momento era la siguiente: una canción incluida con el cliente (por un período de tiempo limitado), crédito de $50 en la osu!store, tag de supporter de 6 meses y una insignia de perfil única. Según los informes, esta recompensa abierta se creó debido a la necesidad de recompensar a los jugadores por mapas de calidad y para celebrar las nuevas pistas sin tener que pasar por la molestia que conlleva la ejecución de concursos de mapeo tradicionales.[^ppy-blog-sep-mwr]
 
