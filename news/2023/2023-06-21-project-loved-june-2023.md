@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: June 2023"
-date: 2023-06-21 09:00:00 +0000
+date: 2023-06-21 10:00:00 +0000
 ---
 
 Vibe through the start of summer by voting on some fire Loved picks and collecting our all-new medals! 🏖️
