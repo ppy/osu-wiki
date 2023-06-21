@@ -26,7 +26,7 @@ The osu! wiki's [issue tracker](https://github.com/ppy/osu-wiki/issues) contains
 
 On GitHub, pull requests and issues may be tagged and classified by using [labels](https://github.com/ppy/osu-wiki/labels), which show different aspects of a pull request or issue. Labels are informational, set by the wiki maintainers, and are typically self-explanatory. While they require no action from a user's perspective, red labels serve as reminders or call to action for other maintainers:
 
-- `rule change`: the change affects an existing set of rules, such as the [ranking criteria](/wiki/Ranking_Criteria), and needs to be reviewed by the area's owner
+- `rule change`: the change affects an existing set of rules, such as the [ranking criteria](/wiki/Ranking_criteria), and needs to be reviewed by the area's owner
 - `blocked`: the change has issues which must be resolved before proceeding, or depends on another issue which must be resolved first
 - `needs rebase`: the pull request has too many small unstructured commits, which need to be rebased and worded in a better way; this is usually done by the maintainers right before the merge
 

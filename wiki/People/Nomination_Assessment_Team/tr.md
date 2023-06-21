@@ -11,7 +11,7 @@ tags:
 
 NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri vardır ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
 
-**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Sorumluluklar
 
@@ -20,7 +20,7 @@ NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt 
 NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
 - **Değerlendirme:** Mevcut Beatmap Aday Göstericilerin ve adayların yeterliliklerini ve aktivitelerini değerlendirme. NAT üyelerinin çoğu bu alt kategorinin iştirakından sorumludur.
-- **Yapısal:** Derecelendirme sürecini çerçeveleyen konuları belgeleme, kuralları ve yönergeleri [derecelendirme kriterleri](/wiki/Ranking_Criteria) doğrultusunda değiştirme, ilgili araçları ve web sayfalarını geliştirme ve sürdürme.
+- **Yapısal:** Derecelendirme sürecini çerçeveleyen konuları belgeleme, kuralları ve yönergeleri [derecelendirme kriterleri](/wiki/Ranking_criteria) doğrultusunda değiştirme, ilgili araçları ve web sayfalarını geliştirme ve sürdürme.
 - **Moderasyon:** Kullanıcı raporlarını işleme alma ve Beatmap Aday Göstericilerin uygunsuz davranışlarını denetleme. Bu alt kategori NAT ve GMT arası ortak bir çalışmadır.
 - **Haberleşme:** Toplantıların oluşturulması ve sunulması dahil, NAT ve mapping/modding topluluğu arasında şeffaflığı kurma.
 
@@ -42,7 +42,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 *Not: Tüm NAT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
 
-[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
+[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_content_considerations#resminizin-değerlendirilmesi) rol oynar.
 
 ### osu!
 

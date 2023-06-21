@@ -2,7 +2,7 @@
 
 Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
 
-Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_Usage_Guidelines) para obtener más información.
+Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines) para obtener más información.
 
 ## Lista de osu! originals
 
@@ -198,6 +198,16 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [D-D-Dice vs. siromaru - Catch the Glory](https://www.youtube.com/watch?v=YBFh4DON-CA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1794214) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2023](/wiki/Tournaments/CWC/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| Halv vs kuro - Evreka | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Desempate de la gran final |
+| [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion) | [#1](https://osu.ppy.sh/beatmapsets/2011522) | Gran final NM1 |
+| LV.4 - Chemical diving[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | Final HR1 |
+| [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinales HD3 |
+| Toromaru - Erinyes[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Cuartos de final HR3 |
+
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
 | Canción | Beatmap | Notas |
@@ -279,6 +289,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/taiko.png) [cavoe's osu! event's Global Taiko Showdown 2023](/wiki/Tournaments/GTS/COEGTS_2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Tema principal |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 

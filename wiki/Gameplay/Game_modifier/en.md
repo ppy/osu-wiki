@@ -24,7 +24,7 @@ tags:
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
-On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Gameplay/Game_modifier/Score_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
+On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Gameplay/Game_modifier/Mod_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 

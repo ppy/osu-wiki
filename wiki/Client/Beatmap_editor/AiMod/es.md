@@ -12,7 +12,7 @@ outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
 
 Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, este no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
 
-El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_Criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
+El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
 ## Pestañas
 
@@ -63,7 +63,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 | Mensaje | Explicación | Solución |
 | :-- | :-- | :-- |
-| Your beatmap has no background image. | ¡La actual dificultad no tiene una imagen de fondo! Los videos no cuentan como imagen de fondo porque el usuario puede descargar los beatmaps sin ellos | Encuentra una imagen adecuada y úsala como imagen de fondo. |
+| Your beatmap has no background image. | ¡La actual dificultad no tiene una imagen de fondo! Los vídeos no cuentan como imagen de fondo porque el usuario puede descargar los beatmaps sin ellos | Encuentra una imagen adecuada y úsala como imagen de fondo. |
 | File missing:{0} | Tu beatmap tiene archivos faltantes | Recupera los archivos faltantes o asegúrate de que el beatmap no esté tratando de usar arvhivos no existentes. |
 
 #### Timing
@@ -103,8 +103,8 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Background image is largen than 2560x1440. | La imagen de fondo es más grande que 2560x1440. |  |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | El mapa quizá necesite una advertencia de epilepsia, ya que contiene storyboards apareciendo frecuentemente. |  |
 | {0}'s dimensions must be {1}x{1} | Las dimensiones  de {0} deben ser de {1}x{1} |  |
-| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | Las dimensiones de tu video no deben de excederse de 1024x768 para el formato 4:3. |  |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | Las dimensiones de tu video no deben de excederse de 1280x720 para el formato 16:9. |  |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | Las dimensiones de tu vídeo no deben de excederse de 1024x768 para el formato 4:3. |  |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | Las dimensiones de tu vídeo no deben de excederse de 1280x720 para el formato 16:9. |  |
 
 #### Timing
 
@@ -172,7 +172,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 ## Defectos
 
-- **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_Criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
+- **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
 - **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Gameplay/Kiai_time) siendo activado por menos de 15 segundos.
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.

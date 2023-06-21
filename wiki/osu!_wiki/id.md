@@ -15,7 +15,7 @@ Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan art
 
 ## Struktur
 
-Pintu gerbang ke osu! wiki adalah [halaman utama](/wiki/Main_Page), yang dibagi menjadi beberapa kategori tingkat tinggi, masing-masing memiliki deskripsi umum dan mengandung daftar artikel penting. Artikel yang tidak terdaftar di halaman utama, yang biasanya lebih spesifik, dapat dijangkau baik dari halaman lain menggunakan tautan dalam artikel atau melalui fitur pencarian situs web.
+Pintu gerbang ke osu! wiki adalah [halaman utama](/wiki/Main_page), yang dibagi menjadi beberapa kategori tingkat tinggi, masing-masing memiliki deskripsi umum dan mengandung daftar artikel penting. Artikel yang tidak terdaftar di halaman utama, yang biasanya lebih spesifik, dapat dijangkau baik dari halaman lain menggunakan tautan dalam artikel atau melalui fitur pencarian situs web.
 
 Sebuah artikel menjelaskan satu istilah atau konsep dan memberikan gambaran umum tentang topik lain yang relevan. Agar lebih baik dalam menggambarkan sebuah subjek, artikel dibagi menjadi sub-bagian yang mencakup bagian yang berbeda dari subjek tersebut. Artikel juga dapat mencakup tangkapan layar yang relevan atau penjelasan visual lainnya, atau tautan ke artikel lain tentang topik tersebut.
 

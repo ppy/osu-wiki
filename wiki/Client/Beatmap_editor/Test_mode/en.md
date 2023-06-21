@@ -18,7 +18,7 @@ The **test mode** is a feature of the [beatmap editor](/wiki/Client/Beatmap_edit
 Playing a beatmap in test mode differs from playing it normally, as it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left side of the screen:
 
 - The current [timestamp](/wiki/Modding/Timestamp) of the beatmap.
-- The [SB load](/wiki/Client/Beatmap_editor/SB_Load).
+- The [SB load](/wiki/Client/Beatmap_editor/SB_load).
 - The total amount of 300s, 100s, 50s, and misses gained.
 - The percentage of hits that are mistimed.
 - The average delay (in milliseconds) that mistimed hits are late.

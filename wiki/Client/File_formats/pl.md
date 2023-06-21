@@ -17,7 +17,7 @@ outdated_translation: true
 
 | Format | Korzystanie |
 | :-- | :-- |
-| [.osu][Osu Link] | [Kompozycja](/wiki/Client/Beatmap_editor/Compose), [Rytmika](/wiki/Client/Beatmap_editor/Timing), [Ustawienia piosenki](/wiki/Client/Beatmap_editor/Song_Setup). |
+| [.osu][Osu Link] | [Kompozycja](/wiki/Client/Beatmap_editor/Compose), [Rytmika](/wiki/Client/Beatmap_editor/Timing), [Ustawienia piosenki](/wiki/Client/Beatmap_editor/Song_setup). |
 | [.osb][Osb Link] | [Projekt](/wiki/Client/Beatmap_editor/Design). |
 
 ### Powtórka

@@ -104,36 +104,109 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
-## Match schedule: Quarterfinals
+## Match schedule: Grand Finals
 
-### Saturday, 3 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Taiwan ::{ flag=TW }:: | ::{ flag=SE }:: Sweden | [Jun 3 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T120000&p1=1440&p2=241&p3=239) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=FR }:: France | [Jun 3 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T120000&p1=1440&p2=37&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Finland ::{ flag=FI }:: | ::{ flag=VN }:: Vietnam | [Jun 3 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T140000&p1=1440&p2=101&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=JP }:: Japan | [Jun 3 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T140000&p1=1440&p2=166&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Norway ::{ flag=NO }:: | ::{ flag=DK }:: Denmark | [Jun 3 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T143000&p1=1440&p2=187&p3=69) |  | [^losers-bracket] |
-| Argentina ::{ flag=AR }:: | ::{ flag=ID }:: Indonesia | [Jun 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T150000&p1=1440&p2=51&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=57&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=IT }:: Italy | [Jun 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T160000&p1=1440&p2=188&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Sweden ::{ flag=SE }:: | ::{ flag=NO }:: Norway | [Jun 3 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T173000&p1=1440&p2=239&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=BE }:: Belgium | [Jun 3 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230603T180000&p1=1440&p2=16&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 4 June 2023
+### Saturday, 24 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Jun 4 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T020000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Jun 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T110000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PL }:: Poland | [Jun 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T120000&p1=1440&p2=235&p3=262) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=PH }:: Philippines | [Jun 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T150000&p1=1440&p2=232&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Belgium ::{ flag=BE }:: | ::{ flag=FI }:: Finland | [Jun 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T170000&p1=1440&p2=48&p3=101) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Semifinals | mappool showcase | [Jun 4 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230604T183000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jun 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T170000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 25 June 2023
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T130000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (171 MB)](https://drive.google.com/uc?id=1832UPtcqSB2FgiJaVqBAGFobJFL2TOHM)**
+
+- No Mod
+  1. [kanemiko - Cold Fusion (Jemzuu) \[Jemzuu vs. Zyzyx's Zenithal Synthesis\]](https://osu.ppy.sh/beatmapsets/2011522#fruits/4185823)
+  2. [Juggernaut. - +:OLPHEUX:+ (Extended) (Emiru) \[† APOCALYPSIS †\]](https://osu.ppy.sh/beatmapsets/2011527#fruits/4185843)
+  3. [Frums - Mdrqnxtagon (Mniam) \[Malicious Grin Of A Deathful Gaze\]](https://osu.ppy.sh/beatmapsets/2011529#fruits/4185846)
+  4. [Mitsukiyo Remixed by Morimori Atsushi - Unwelcome School (MRM REMIX) (IOException) \[Hell Extra!!\]](https://osu.ppy.sh/beatmapsets/1927597#osu/3980676)
+- Hidden
+  1. [D-D-Dice - World's end loneliness (full ver.) (GiGas) \[Crowning Glory\]](https://osu.ppy.sh/beatmapsets/2011534#fruits/4185860)
+  2. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty\]](https://osu.ppy.sh/beatmapsets/2011536#fruits/4185862)
+  3. [katagiri - UTAKATA (Yumeno Himiko) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2011537#fruits/4185863)
+- Hard Rock
+  1. [UNDEAD CORPORATION - Flowering Night Fever (Deif) \[Rocma & Deif's Private Vision\]](https://osu.ppy.sh/beatmapsets/2011555#fruits/4185885)
+  2. [Novasonic - Another Lie (ExGon) \[CWC 2023 Grand Finals HR2\]](https://osu.ppy.sh/beatmapsets/2011573#fruits/4185916)
+  3. [Link"0 feat. usagidenki - Uro no Yorishiro (Zyzyx) \[Imaginary Dreamer\]](https://osu.ppy.sh/beatmapsets/2011493#fruits/4185759)
+- Double Time
+  1. [Kitadani Hiroshi - OVER THE TOP (Ascendance) \[WILL OF D.\]](https://osu.ppy.sh/beatmapsets/2011549#fruits/4185879)
+  2. [Riya - IMPULSE (Du5t) \[Instinct\]](https://osu.ppy.sh/beatmapsets/2011554#fruits/4185884)
+  3. [LeaF - Queen Aluett (4rcheR-) \[OverdosE\]](https://osu.ppy.sh/beatmapsets/2011556#fruits/4185887)
+  4. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Dika312) \[Extra\]](https://osu.ppy.sh/beatmapsets/2011558#fruits/4185890)
+- Mixed Mod
+  1. [A-One feat. ayaponzu\* - Justice Monster (F D Flourite) \[KiRin\]](https://osu.ppy.sh/beatmapsets/2011565#fruits/4185898)
+  2. [HyuN feat. LyuU - Cross Revolution (Rocma) \[Special\]](https://osu.ppy.sh/beatmapsets/2011559#fruits/4185891)
+  3. [technoplanet feat. Haruno - End of Fairytale (autofanboy) \[Reality\]](https://osu.ppy.sh/beatmapsets/2011568#fruits/4185905)
+- Tiebreaker
+  1. **[Halv vs. kuro - Evreka (Ascendance) \[Chronosync\]](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911)**
+
+### Finals
+
+**[Download the mappack here (178 MB)](https://drive.google.com/uc?id=1M5tACgrL9Lc9VZv0q0COMysN6NIs6Wbd)**
+
+- No Mod
+  1. [Minstrel - Heian Alien (-Ken) \[Mysterious Collab\]](https://osu.ppy.sh/beatmapsets/2007941#fruits/4176765)
+  2. [Aoi a.k.a. ALFOU - Fluctuate (2020 Remaster) (Greaper) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2007951#fruits/4176786)
+  3. [Ocular & Dictate - Temple (Deif) \[Architek\]](https://osu.ppy.sh/beatmapsets/2007947#fruits/4176778)
+  4. [DUSTCELL - STIGMA (rollpan) \[RE:BORN\]](https://osu.ppy.sh/beatmapsets/1075658#osu/2250760)
+- Hidden
+  1. [Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines (Rocma) \[Alcoholic Turbine (HV)\]](https://osu.ppy.sh/beatmapsets/2007949#fruits/4176784)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff\]](https://osu.ppy.sh/beatmapsets/2007950#fruits/4176785)
+  3. [seatrus - ILLEGAL LEGACY (Deif) \[SAN\]](https://osu.ppy.sh/beatmapsets/2007954#fruits/4176793)
+- Hard Rock
+  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2007952#fruits/4176787)
+  2. [Sobrem x Silentroom - Random (autofanboy) \[Yoshi x AFB's F2\]](https://osu.ppy.sh/beatmapsets/2007958#fruits/4176797)
+  3. [LeaF - Ka (Natsuko) \[???????\u005F\u0030\u00D7????????\]](https://osu.ppy.sh/beatmapsets/2007973#fruits/4176821)
+- Double Time
+  1. [Mitsukiyo feat. Kano - Memories of Kindness (Sololiquy) \[Where All Miracles Begin\]](https://osu.ppy.sh/beatmapsets/1954433#fruits/4176811)
+  2. [SoundTeMP - Bonjour Tristesse (ExGon) \[CWC 2023 Finals DT2\]](https://osu.ppy.sh/beatmapsets/2007978#fruits/4176826)
+  3. [FujuniseikouyuuP - FREEDMAN (Yoshi\_green) \[SPEEDMAN\]](https://osu.ppy.sh/beatmapsets/2007964#fruits/4176805)
+  4. [Monster Siren - MSR / DJ Okawari / Stephanie - Your Star (Yumeno Himiko) \[My Memories\]](https://osu.ppy.sh/beatmapsets/2007966#fruits/4176813)
+- Mixed Mod
+  1. [Camellia - GHOUL (Du5t) \[Resurgence\]](https://osu.ppy.sh/beatmapsets/2007971#fruits/4176819)
+  2. [Susumu Hirasawa - Yume no Shima Shinen Kouen (Cut Ver.) (Mniam) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2007970#fruits/4176818)
+  3. [sasakure.UK x TJ.hangneil - World Ender (-Ken) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/2007969#fruits/4176817)
+- Tiebreaker
+  1. **[xi - World Fragments III (Jemzuu) \[Jemzuu & Dika's Finale of Converging Realms\]](https://osu.ppy.sh/beatmapsets/2007938#fruits/4176760)**
+
+### Semifinals
+
+**[Download the mappack here (139 MB)](https://drive.google.com/uc?id=1aC_xzO1p4zX18LLy-U8NmBAH4Al-mZ-2)**
+
+- No Mod
+  1. [Laur feat. Risa Yuzuki - Megaera (Deif) \[Fury Sister\]](https://osu.ppy.sh/beatmapsets/2004073#fruits/4167656)
+  2. [Ashrount - Ononokomachi (Jemzuu) \[Ethereal Enigma\]](https://osu.ppy.sh/beatmapsets/2004015#fruits/4167539)
+  3. [M2U - PandorA (F D Flourite) \[Emerging DEmoN\]](https://osu.ppy.sh/beatmapsets/2004120#fruits/4167742)
+  4. [Marmalade butcher - Amanita (Camo) \[X\]](https://osu.ppy.sh/beatmapsets/1473778#osu/3350946)
+- Hidden
+  1. [Feryquitous Vo. F9 - Monochrome Anomaly (Zyzyx) \[Zyx & AFB's Hidden Face\]](https://osu.ppy.sh/beatmapsets/2004101#fruits/4167703)
+  2. [KAKU P-MODEL - SHAGAN DAISHI (Cut Ver.) (Deif) \[ZiRoX & Deif's Blind Eye\]](https://osu.ppy.sh/beatmapsets/2004087#fruits/4167682)
+  3. [MYUKKE. - Anti Safety Zone (GiGas) \[GiGas & Ken's Zone\]](https://osu.ppy.sh/beatmapsets/2004086#fruits/4167678)
+- Hard Rock
+  1. [Kitamura Eri - Revolution \[re:i\] (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2004123#fruits/4167747)
+  2. [ZUN - Taketori Hishou \~ Lunatic Princess (Rocma) \[Legacy of Lunatic Kingdom\]](https://osu.ppy.sh/beatmapsets/2004089#fruits/4167690)
+  3. [EmoCosine - This Club is Not 4 U (short ver.) (Dika312) \[This Map is Not 4 U\]](https://osu.ppy.sh/beatmapsets/2004100#fruits/4167702)
+- Double Time
+  1. [SOUND HOLIC feat. YURiCa/Hanatan - VANISHING DREAM (Rocma) \[Endless Dream\]](https://osu.ppy.sh/beatmapsets/2004097#fruits/4167699)
+  2. [Silentroom - Protoflicker (Yoshi\_green) \[Primordial Flash\]](https://osu.ppy.sh/beatmapsets/2004082#fruits/4167667)
+  3. [Ardolf - Eternally Onward (4rcheR-) \[4FB's Overdose\]](https://osu.ppy.sh/beatmapsets/2004026#fruits/4167560)
+  4. [Aethoro - Awakened (ExGon) \[CWC 2023 Semifinals DT4\]](https://osu.ppy.sh/beatmapsets/2004113#fruits/4167722)
+- Mixed Mod
+  1. [Reol - Gokusaishiki (Yumeno Himiko) \[#FFB2D9\]](https://osu.ppy.sh/beatmapsets/2004111#fruits/4167719)
+  2. [lapix - Flamenco House (-Ken) \[Ole\]](https://osu.ppy.sh/beatmapsets/2004108#fruits/4167712)
+  3. [0 K - Flux Turbulenti (JBHyperion) \[Disorder\]](https://osu.ppy.sh/beatmapsets/2004105#fruits/4167709)
+- Tiebreaker
+  1. **[lapix - You're Beautiful (Mniam) \[GG Yummy Tammy's Mesmerizing Collaboration\]](https://osu.ppy.sh/beatmapsets/2004114#fruits/4167727)**
 
 ### Quarterfinals
 
@@ -234,22 +307,75 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ## Match results
 
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1elex_3q05z9l9123ojlSDp8EZZCn8mF_Ym0xwCz4drw/edit?rm=minimal).
+
+Saturday, 17 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/109047743) | [#1](https://www.twitch.tv/videos/1848950241) |
+| **Philippines** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/109048006) | [#1](https://www.twitch.tv/videos/1848953468) |
+
+Sunday, 18 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/109063750) | [#1](https://www.twitch.tv/videos/1849426391) |
+| United States ::{ flag=US }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/109065918) | [#1](https://www.twitch.tv/videos/1849491766) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ytiXLhV_vNzUKsPfFO6XUp8Qw48owP5MYhSNYZMjThU/edit?rm=minimal).
+
+Saturday, 10 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/108927476) | [#1](https://www.twitch.tv/videos/1842502502) |
+| **Poland** ::{ flag=PL }:: | **7** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/108931649) | [#1](https://www.twitch.tv/videos/1842880205) |
+| Mexico ::{ flag=MX }:: | 0 | **7** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/108935742) | [#1](https://www.twitch.tv/videos/1842881800?t=1h29m47s) |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/108935671) | [#1](https://www.twitch.tv/videos/1842924588) |
+| Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/108937260) | [#1](https://www.twitch.tv/videos/1842925253) |
+| Chile ::{ flag=CL }:: | 5 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108937915) | [#1](https://www.twitch.tv/videos/1842931327) |
+
+Sunday, 11 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Germany** ::{ flag=DE }:: | **7** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108951467) | [#1](https://www.twitch.tv/videos/1843627827) |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/108953604) | [#1](https://www.twitch.tv/videos/1843641489) |
+
 ### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/164mgjwVFm833GZMniT9SZBe7mkjNBjO1fDuHMhnDCdA/edit?rm=minimal).
 
 Saturday, 3 June 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/108815303) |  |
-| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/108815304) |  |
-| **Finland** ::{ flag=FI }:: | **6** | 2 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/108817349) |  |
-| Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/108817409) |  |
-| **Norway** ::{ flag=NO }:: | **6** | 1 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/108817942) |  |
-| Argentina ::{ flag=AR }:: | 2 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/108818399) |  |
-| **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/108819668) |  |
-| **Taiwan** ::{ flag=TW }:: | **6** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/108819736) |  |
-| Canada ::{ flag=CA }:: | 4 | **6** | ::{ flag=IT }:: **Italy** | [#1](https://osu.ppy.sh/community/matches/108819608) |  |
-| Netherlands ::{ flag=NL }:: | 1 | **6** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/108821796) |  |
+| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/108815303) | [#1](https://www.twitch.tv/videos/1837068240) |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/108815304) | [#1](https://www.twitch.tv/videos/1837056738) |
+| **Finland** ::{ flag=FI }:: | **6** | 2 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/108817349) | [#1](https://www.twitch.tv/videos/1837065046) |
+| Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/108817409) | [#1](https://www.twitch.tv/videos/1837058695) |
+| **Norway** ::{ flag=NO }:: | **6** | 1 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/108817942) | [#1](https://www.twitch.tv/videos/1837065046?t=0h54m13s) |
+| Argentina ::{ flag=AR }:: | 2 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/108818399) | [#1](https://www.twitch.tv/videos/1837065046?t=1h8m26s) |
+| **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/108819668) | [#1](https://www.twitch.tv/videos/1837065046?t=1h59m33s) |
+| **Taiwan** ::{ flag=TW }:: | **6** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/108819736) | [#1](https://www.twitch.tv/videos/1837065046?t=2h37m41s) |
+| Canada ::{ flag=CA }:: | 4 | **6** | ::{ flag=IT }:: **Italy** | [#1](https://osu.ppy.sh/community/matches/108819608) | [#1](https://www.twitch.tv/videos/1837060399) |
+| Netherlands ::{ flag=NL }:: | 1 | **6** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/108821796) | [#1](https://www.twitch.tv/videos/1837062552) |
+
+Sunday, 4 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/108828525) | [#1](https://www.twitch.tv/videos/1837254530) |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/108833858) | [#1](https://www.twitch.tv/videos/1837510090) |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/108834600) | [#1](https://www.twitch.tv/videos/1837510090?t=0h49m36s) |
+| **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/108836712) | [#1](https://www.twitch.tv/videos/1837823465) |
+| Chile ::{ flag=CL }:: | 2 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/108837687) | [#1](https://www.twitch.tv/videos/1837823465?t=0h57m19s) |
+| **Belgium** ::{ flag=BE }:: | **6** | 4 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/108839782) | [#1](https://www.twitch.tv/videos/1837824429) |
 
 ### Round of 16
 
@@ -467,7 +593,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the tournament managers.
-6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to pick, ban, or ready for a beatmap. *The tactical timeout is optional.*
+6. In the case of a team starting a map with less than the optimal number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, i.e. only player additions are allowed.
+7. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to pick, ban, or ready for a beatmap. *The tactical timeout is optional.*
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 
 ### Mappool instructions
@@ -507,6 +634,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^losers-bracket]: Winners bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
-[^winners-bracket]: Losers bracket match
+[^grand-finals-potential]: Grand Finals match
+[^losers-bracket]: Losers bracket Finals match

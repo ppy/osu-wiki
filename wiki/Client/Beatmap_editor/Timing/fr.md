@@ -5,7 +5,7 @@ outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
 
 # Onglet Timing 
 
-*Voir aussi : [Comment synchroniser les musiques](/wiki/Guides/How_to_Time_Songs)*
+*Voir aussi : [Comment synchroniser les musiques](/wiki/Guides/How_to_time_songs)*
 
 ![Capture d'écran de l'onglet "timing" dans l'éditeur](img/Timing_base-FR.jpg)
 

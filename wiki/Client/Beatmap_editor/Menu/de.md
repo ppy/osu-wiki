@@ -156,7 +156,7 @@ Interessante Dinge.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
 | Gitter-Ausrichtung (`T`) | Erlaubt das Einrasten der Hit-Objekte in Bezug auf die jeweilige Gitterlinie. |
 
