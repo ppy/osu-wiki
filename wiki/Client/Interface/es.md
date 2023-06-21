@@ -87,7 +87,7 @@ Antes de continuar, esta pantalla tiene demasiados elementos para anotar con nú
 
 ![](img/metadata-comparison-ES.jpg)
 
-Esta área muestra **información sobre la dificultad del mapa seleccionada actualmente.** Al ingresar a la pantalla de selección de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El ícono superior izquierdo muestra la [categoría del mapa](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#ranked).
+Esta área muestra **información sobre la dificultad del mapa seleccionada actualmente.** Al ingresar a la pantalla de selección de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El ícono superior izquierdo muestra la [categoría del mapa](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#clasificados).
 
 El título de la canción normalmente se muestra romanizado (imagen inferior), pero si selecciona `Mostrar datos de canciones en su idioma original` en las [Opciones](/wiki/Client/Options), se mostrará el título Unicode (imagen superior). El nombre de la dificultad del mapa se muestra entre corchetes (`[]`). El creador que mapeó el mapa se muestra debajo del título, e incluso se incluye más información a continuación. De izquierda a derecha, los valores son los siguientes:
 
@@ -301,7 +301,7 @@ Esta es su tabla de clasificación en línea. Puede ir aquí desplazándose haci
 - \[2\] `Guardar repetición a la carpeta "Replays"`: Puede ver la repetición más tarde abriéndola desde una tabla de clasificación local, o yendo al directorio `Replays` y haciendo doble clic en ella.
 - \[3\] `Añadir como favorito en línea`: Incluye el mapa en su lista de favoritos, que se encuentra en su página de perfil de osu! en la sección `Mapas`.
 - \[4\] Tabla de clasificación local: Todos sus resultados se almacenan en su computadora. Para verlos, navegue hasta la [pantalla de selección de canciones](#selección-de-canciones) y seleccione `Ranking local` en el menú desplegable sobre el marcador.
-- \[5\] Sección de `Beatmap Ranking`. Disponible solo para mapas con tablas de clasificación en línea ([calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked), o [amado](/wiki/Beatmap/Category#loved)). También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
+- \[5\] Sección de `Beatmap Ranking`. Disponible solo para mapas con tablas de clasificación en línea ([calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados), o [amado](/wiki/Beatmap/Category#amados)). También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
 - \[6\] Sección de `Overall Ranking`. Está disponible solo para mapas con tablas de clasificación en línea. También necesita estar en línea para ver esta sección. Vea a continuación para obtener más detalles.
 - \[7\] Información sobre el mapa con su número de jugadas y tasa de aprobación al pasarlo.
 - \[8\] Valoración del mapa. Use su discreción personal en función de si disfrutó el mapa o no. Es mejor dejarlo en paz si no puede decidir.
