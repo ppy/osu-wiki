@@ -10,7 +10,7 @@ no_native_review: true
 
 [비트맵 노미네이터 규칙](/wiki/People/Beatmap_Nominators/Rules) 에 명시했듯이 어느 비트맵 노미네이터나 그들이 담당한 게임 모드의 비트맵에 관한 veto를 시작할 수 있습니다. 또한 비트맵 veto는 해당 veto를 진행하는 비트맵 노미네이터와 매퍼가 서로 문제를 해결하거나 타협하고자 하는 방향으로 진행돼야 합니다.
 
-심의가 제대로 진행되지 않거나 결론이 나지 않으면 매퍼나 Veto를 진행한 노미네이터는 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT)이 Veto를 계속할지 하차시킬지 감독하도록 호출할 수 있습니다. 공평성을 위해 Veto 논의의 검토 과정은 무작위로 선정된 비트맵 노미네이터와 NAT끼리 이뤄지고, 익명 투표를 통해 의견을 진행합니다. 투표가 끝나면 비트맵 토론단에서 Veto 중개의 결론과 선발된 비트맵 노미네이터와 NAT의 의견이 공개됩니다.
+심의가 제대로 진행되지 않거나 결론이 나지 않으면 매퍼나 Veto를 진행한 노미네이터는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) (NAT)이 Veto를 계속할지 하차시킬지 감독하도록 호출할 수 있습니다. 공평성을 위해 Veto 논의의 검토 과정은 무작위로 선정된 비트맵 노미네이터와 NAT끼리 이뤄지고, 익명 투표를 통해 의견을 진행합니다. 투표가 끝나면 비트맵 토론단에서 Veto 중개의 결론과 선발된 비트맵 노미네이터와 NAT의 의견이 공개됩니다.
 
 ## 비트맵 veto 진행
 

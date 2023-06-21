@@ -5,15 +5,15 @@ tags:
   - NAT
 ---
 
-# Nomination Assessment Team
+# 노미네이션 어세스먼트 팀
 
 *또한 [비트맵 노미네이터 평가](Evaluations) 및 [SEV 등급](SEV_rating)도 참조하세요.*
 
-**Nomination Assessment Team**(***NAT***)은 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
+**노미네이션 어세스먼트 팀**(***NAT***)은 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
 
-NAT 멤버들은 빨간색 닉네임으로 표시되며 [Global Moderation Team](/wiki/People/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [지명](/wiki/Beatmap_ranking_procedure#nominations)과 [지명 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/Beatmap_Nominators/Expectations)을 따라야 합니다.
+NAT 멤버들은 빨간색 닉네임으로 표시되며 [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [지명](/wiki/Beatmap_ranking_procedure#nominations)과 [지명 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/Beatmap_Nominators/Expectations)을 따라야 합니다.
 
-**모든 Nomination Assessment Team 멤버들은 [커뮤니티 행동규범](/wiki/Rules/Contributor_code_of_conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
+**모든 노미네이션 어세스먼트 팀 멤버들은 [커뮤니티 행동수칙](/wiki/Rules/Contributor_code_of_conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
 
 ***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/Account_support_team#support@ppy.sh)으로 문의하십시오.***
 
@@ -94,7 +94,7 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 *참고: 언급되지 않는 한 모든 NAT은 아래 나열된 언어 외에 영어를 구사할 수 있습니다.*
 
-[Nomination Assessment Team 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
+[노미네이션 어세스먼트 팀 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
 
 ### osu!
 
