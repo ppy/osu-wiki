@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 02d34f733641b608571184583b32f227216bfb33
----
-
 # Optionen
 
 ![Optionsmenü \(die Leiste auf der linken Seite\)](img/options_basic-DE.jpg "Optionsmenü \(die Leiste auf der linken Seite\)")
@@ -124,8 +119,9 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 | `Auflösung wählen` | Stelle die Auflösung des Spiel-Clients ein. Die aufgelisteten Auflösungen sind auf das begrenzt, was dein Bildschirm/deine Grafikkarte unterstützt. | Dropdown-Menü |  |
 | `Vollbildmodus` | Führt den Spiel-Client im Vollbildmodus aus (normalerweise reduziert das die Eingabelatenzzeit). | Checkbox | `Aktiviert` |
 | `Render at native resolution` | Benutze die volle native Auflösung, aber stelle osu! in einem kleineren, zentrierten Teil des Bildschirms dar. | Checkbox | `Aktiviert` |
-| `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
-| `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
+| `Minimise on alt-tab during fullscreen` | Minimiere das Fenster beim Drücken von `Alt` + `Tab`. | Checkbox | `Aktiviert` |
+| `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Schieberegler | `0 %` |
+| `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Schieberegler | `0 %` |
 
 - Wenn der `Vollbildmodus` deaktiviert ist, dann wird darunter `Das ausführen ohne Vollbildmodus wird die Eingabe Verzögerung verbessern` erscheinen.
 
@@ -179,11 +175,12 @@ Dieser Abschnitt ist über Einstellungen, die den Spielverlauf beeinflussen.
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Hintergrund-Dimmer` | Passe den Verdunklungsgrad des Hintergrunds und des Storyboards während des Spielens an (kann pro Beatmap eingestellt werden). | Slider | `80%` |
-| `Don't change dim level during breaks` | Deaktiviere die Aufhellung des Dimmlevels während Pausen, wodurch der Hintergrund niemals sichtbar wird. | Checkbox | `Deaktiviert` |
+| `Hintergrund-Dimmer` | Passe den Verdunklungsgrad des Hintergrunds und des Storyboards während des Spielens an (kann pro Beatmap eingestellt werden). | Schieberegler | `80 %` |
+| `Don't change dim level during breaks` | Deaktiviere die Aufhellung des Dimmlevels während Pausen. | Checkbox | `Deaktiviert` |
+| `Show leaderboard during gameplay` | Zeige die Bestenliste während dem Spiel auf der linken Seite, sowohl im Einzel- als auch im Mehrspielermodus. | Checkbox | `Aktiviert` |
 | `Position der Fortschrittsleiste` | Stelle ein, wo und wie die Fortschrittsleiste angezeigt werden soll. Siehe unten für weitere Details. | Dropdown-Menü | `Oben rechts (Kreis)` |
 | `Genauigkeitsmeter` | Stelle das Aussehen des Genauigkeitsmeters am unteren Bildschirmrand ein. Bedenke, dass osu!catch immer `Farbe` verwenden wird. | Dropdown-Menü | `Abweichung` |
-| `Genauigkeitsmetergröße` | Stelle die Größe des Genauigkeitsmeters ein. | Slider | `1x` |
+| `Genauigkeitsmetergröße` | Stelle die Größe des Genauigkeitsmeters ein. | Schieberegler | `1x` |
 | `Tasten-Overlay` | Zeigt den Status des Tasten-Overlays an, auch während dem normalen Spiel. | Checkbox | `Deaktiviert` |
 | `Approach Circle des ersten Objektes beim Mod "Hidden"` | Zeigt nur den Approach Circle des ersten Hit-Objektes beim Spielen der Mod "Hidden" an. | Checkbox | `Aktiviert` |
 | `osu!mania-Scrollgeschwindigkeit anhand BPM skalieren` | Stelle die Scrollgeschwindigkeit von osu!mania abhängig von den BPM der Beatmap ein. | Checkbox | `Deaktiviert` |
@@ -214,8 +211,8 @@ Wenn du die Dropdown-Liste für `Genauigkeitsmeter` öffnest, hast du folgende O
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Zeige Beatmaps von` | Das stellt den **geringsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Slider | `0 Sterne` |
-| `bis` | Das stellt den **höchsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Slider | `10+ Sterne` |
+| `Zeige Beatmaps von` | Das stellt den **geringsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Schieberegler | `0 Sterne` |
+| `bis` | Das stellt den **höchsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Schieberegler | `10+ Sterne` |
 
 ## Audio
 
@@ -234,9 +231,9 @@ In diesem Abschnitt geht es um audiobezogene Optionen.
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Allgemein` | Kontrolliert die allgemeine Lautstärke. | Slider | `100%` |
-| `Musik` | Kontrolliert die Lautstärke der Musik. | Slider | `80%` |
-| `Effekte` | Kontrolliert die Lautstärke der Hitsounds sowie anderer Soundeffekte im Spiel. | Slider | `80%` |
+| `Allgemein` | Kontrolliert die allgemeine Lautstärke. | Schieberegler | `100 %` |
+| `Musik` | Kontrolliert die Lautstärke der Musik. | Schieberegler | `80 %` |
+| `Effekte` | Kontrolliert die Lautstärke der Hitsounds sowie anderer Soundeffekte im Spiel. | Schieberegler | `80 %` |
 | `Hitsounds ignorieren` | Bevorzugt Hitsounds, die vom aktuellen Skin bereitgestellt werden, anstatt die Hitsounds, die in der Beatmap enthalten sind. | Checkbox | `Deaktiviert` |
 
 Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durch das Drücken von `Alt` sowie Hoch- und Runterscrollen oder durch das Drücken von `Alt` sowie `nach oben` oder `nach unten` eingestellt werden.
@@ -245,11 +242,11 @@ Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durc
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Universales Offset` | Das Offset (in Millisekunden), das alle Beatmaps benutzen werden (zusätzlich zum lokalen Offset). | Slider | `0ms` |
+| `Universales Offset` | Das Offset (in Millisekunden), das alle Beatmaps benutzen werden (zusätzlich zum lokalen Offset). | Schieberegler | `0ms` |
 | `Offset-Assistent starten` | Öffnet den Offset-Assistenten. | Button |  |
 
 - Für mehr Details über den Offset-Assistenten, siehe [Offset-Assistent](/wiki/Client/Options/Offset_Wizard).
-- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 
@@ -270,7 +267,7 @@ Dieser Abschnitt ist über Einstellungen zum Thema Skin.
 | `Benutze Skin-Soundsamples` | Benutzt immer die Hitsounds des ausgewählten Skins anstatt der Hitsounds, die in der Beatmap enthalten sind. | Checkbox | `Aktiviert` |
 | `Benutze Taiko-Skin für den Taiko-Modus` | Benutzt osu!taiko-spezifische Skin-Elemente, sofern diese vom ausgewählten Skin bereitgestellt werden. Siehe [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) für mehr Details. | Checkbox | `Deaktiviert` |
 | `Benutze immer den Skincursor` | Bevorzugt den Cursor des aktuellen Skins, unabhängig davon, ob Beatmaps eigene Cursor enthalten. | Checkbox | `Deaktiviert` |
-| `Cursorgröße` | Passe die Größe des Cursors an. | Slider | `1x` |
+| `Cursorgröße` | Passe die Größe des Cursors an. | Schieberegler | `1x` |
 | `Automatische Cursorgröße` | Passt die Cursorgröße automatisch der Circle Size der Beatmap an. | Checkbox | `Deaktiviert` |
 | `Combofarbe für Sliderball verwenden` | Sliderbälle werden die aktuelle Combofarbe verwenden (normalerweise transparent). Das muss vom Skin unterstützt werden. | Checkbox | `Aktiviert` |
 
@@ -284,7 +281,7 @@ Dieser Abschnitt ist über Eingabeperipheriegeräte.
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Mausgeschwindigkeit` | Passe die Sensitivität des Mauszeigers an. Sofern verändert, sollte `Raw Input` automatisch aktiviert werden. | Slider | `1x` |
+| `Mausgeschwindigkeit` | Passe die Sensitivität des Mauszeigers an. Sofern verändert, sollte `Raw Input` automatisch aktiviert werden. | Schieberegler | `1x` |
 | `Raw Input` | Liest die Positionsdaten für Maus/Tablet direkt von der Hardware aus, ohne eine Nachbearbeitung (dadurch wird die Mausbeschleunigung ignoriert). | Checkbox | `Deaktiviert` |
 | `Absoluten Raw Input auf das osu! Fenster abbilden` | Beschränkt Eingabegeräte mit absoluter Positionierung (z. B. Stift-Tablets) nur auf das Fenster des Spiel-Clients. | Checkbox | `Deaktiviert` |
 | `Mauszeiger eingrenzen` | Verhindert, dass der Mauszeiger das Fenster des Spiel-Clients verlassen kann. Siehe unten für weitere Details. | Dropdown-Menü | `Nur für Vollbildmodus` |
@@ -394,7 +391,7 @@ Dieser Abschnitt ist über Beatmaps und Aktualisierungen.
 | Name | Beschreibung | Typ |
 | :-- | :-- | :-- |
 | `Alle nicht gerankten Maps löschen` | Lösche alle nicht gerankten Maps aus dem Song-Ordner. | Button |
-| `Ordnerberechtigungen erzwingen` | Erzwingt Lese-/Schreib-Berechtigungen für den Spiel-Client, um auf die entsprechenden Ordner zugreifen zu können. (Damit das funktioniert, wird das Administrator-Passwort benötigt.) | Button |
+| `Ordnerberechtigungen erzwingen` | Erzwingt Lese-/Schreib-Berechtigungen für den Spiel-Client, um auf die entsprechenden Ordner zugreifen zu können (dies erfordert Administratorrechte). | Button |
 | `Alle Maps als "Gespielt" markieren` | Markiert alle Maps als "Gespielt". | Button |
 | `osu!-Updater starten` | Schließt den Spiel-Client und öffnet den Updater, um nach Aktualisierungen zu suchen und herunterzuladen, sofern verfügbar. | Button |
 

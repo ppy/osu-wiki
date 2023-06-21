@@ -11,7 +11,7 @@ tags:
 
 Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna merah. Sama seperti [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), mereka mempunyai izin moderasi di seluruh situs dan nama pengguna berwarna merah tua di kanal obrolan in-game.
 
-**Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
+**Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
 ## Tanggung Jawab
 
@@ -20,7 +20,7 @@ Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna m
 NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan menjadi empat subkategori:
 
 - **Evaluasi:** Mengevaluasi kemampuan dan aktivitas dari Beatmap Nominator dan pelamar saat ini. Sebagian besar anggota NAT bertanggung jawab untuk berkontribusi pada subkategori ini.
-- **Struktural:** Mendokumentasikan topik seputar proses ranking, mengubah aturan dan pedoman di [ranking criteria](/wiki/Ranking_Criteria), mengembangkan dan memelihara alat dan situs web terkait.
+- **Struktural:** Mendokumentasikan topik seputar proses ranking, mengubah aturan dan pedoman di [ranking criteria](/wiki/Ranking_criteria), mengembangkan dan memelihara alat dan situs web terkait.
 - **Moderasi:** Menangani laporan dari pengguna dan menilai perilaku yang tidak pantas dari Beatmap Nominator. Subkategori ini adalah upaya bersama antara NAT dan GMT.
 - **Komunikasi:** Mempromosikan transparansi antara NAT dan komunitas mapping/modding, termasuk pembuatan dan penyelenggaraan rapat.
 
@@ -42,7 +42,7 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_content_considerations#menilai-gambar-anda).
 
 ### osu!
 

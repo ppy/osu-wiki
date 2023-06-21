@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aaa180d2f96e68bb61094382214237cf8bc22555
+---
+
 # Multijoueur
 
 Le **multijoueur** (souvent abrégé en *Multi*) est un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter entre eux ou en équipe sur une beatmap choisie par l'hôte.
@@ -170,7 +175,7 @@ Cette section affichera les [modes de jeu](/wiki/Gameplay/Game_modifier) utilis�
 
 L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
-#### Mode par équipe {#team-mode-match-setup}
+#### Mode par équipe {id=team-mode-match-setup}
 
 *Pour plus d'information sur les modes par équipe, voir la [section gameplay sur les modes par équipe](#team-mode-gameplay).*
 
@@ -288,7 +293,7 @@ La couleur de chaque joueur sur le classement en jeu indique le statut du joueur
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur pour passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | Le joueur a quitté la partie, soit en appuyant sur `Échap` deux fois, soit en ayant été déconnecté de [Bancho](/wiki/Bancho_(server)). La couleur du texte passera de blanche à rouge avec `[Quit]` rajouté à la fin. La couleur de la boîte indique le statut du joueur avant de quitter la partie. |
 
-### Type de partie {#team-mode-gameplay}
+### Type de partie {id=team-mode-gameplay}
 
 #### Head-to-head
 
@@ -326,7 +331,7 @@ L'équipe bleue est sur la gauche, et l'équipe rouge est sur la droite. Une cou
 
 Changer d'équipe est possible tant que les joueurs se trouvent sur le lobby. Il n'y a pas de handicap pour une équipe avec moins de membres, et il est possible de commencer une partie avec uniquement une seule équipe.
 
-##### Résultats {#écran-de-résultats-team-vs}
+##### Résultats {id=écran-de-résultats-team-vs}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Écran de résultats Team VS")

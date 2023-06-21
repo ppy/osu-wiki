@@ -30,13 +30,13 @@ Los nuevos creadores de beatmaps suelen necesitar una gran cantidad de modding p
 
 Antes de enviarse para la clasificación, los beatmaps deben recibir mensajes de [hype](/wiki/Beatmap/Hype) de al menos cinco usuarios diferentes.
 
-## Nominaciones {#nominations}
+## Nominaciones {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-beatmapset1857663.png "El estado de clasificación del beatmap se muestra en la página de discusión, con las barras de progreso de promoción y nominación parcialmente llenas.")
 :::
 
-Una **nominación** es un voto de aprobación, lo que indica que un beatmap está listo para [clasificarse](/wiki/Beatmap/Category#clasificados). Se otorga a los beatmaps completos de calidad suficiente, a juicio del usuario nominador. Como requisito mínimo, estos beatmaps deben seguir los [criterios de clasificación](/wiki/Ranking_Criteria) y tener 5 o más [hypes](/wiki/Beatmap/Hype).
+Una **nominación** es un voto de aprobación, lo que indica que un beatmap está listo para [clasificarse](/wiki/Beatmap/Category#clasificados). Se otorga a los beatmaps completos de calidad suficiente, a juicio del usuario nominador. Como requisito mínimo, estos beatmaps deben seguir los [criterios de clasificación](/wiki/Ranking_criteria) y tener 5 o más [hypes](/wiki/Beatmap/Hype).
 
 Las nominaciones las dan [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), un grupo de modders experimentados. Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) también pueden nominar beatmaps, pero esta no es su función principal.
 

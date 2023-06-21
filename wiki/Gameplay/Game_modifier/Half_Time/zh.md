@@ -13,7 +13,7 @@ tags:
 
 ![HT 模组图标](/wiki/shared/mods/HT.png "Half Time (HT) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -30,17 +30,17 @@ tags:
 
 *注意：使用此模组降低歌曲速度同时，可能会导致声音模糊，或听起来像机器人。*
 
-**Half Time** [游戏模组](/wiki/Game_modifier)将[谱面](/wiki/Beatmap)的总体速度降低至 75%，将歌曲长度延长 33%，小幅降低[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)、[整体难度 (OD)](/wiki/Beatmapping/Overall_difficulty)以及 [掉血速度 (HP)](/wiki/Gameplay/Health)，旨在尝试降低谱面难度。
+**Half Time** [游戏模组](/wiki/Gameplay/Game_modifier)将[谱面](/wiki/Beatmap)的总体速度降低至 75%，将歌曲长度延长 33%，小幅降低[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[整体难度 (OD)](/wiki/Beatmap/Overall_difficulty)以及 [掉血速度 (HP)](/wiki/Gameplay/Health)，旨在尝试降低谱面难度。
 
 ### osu!taiko
 
-在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，由于 AR 值降低，歌曲变慢与 BPM 的下降使音符密度急剧增大。然而，出于转盘的计算方式，由于其中打击不受[得分系数](/wiki/Game_modifier/Score_multiplier)影响，现在完成转盘所需打击数增多，也会导致得到**与无模组相比更高的总得分**。
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，由于 AR 值降低，歌曲变慢与 BPM 的下降使音符密度急剧增大。然而，出于转盘的计算方式，由于其中打击不受[得分系数](/wiki/Gameplay/Game_modifier/Mod_multiplier)影响，现在完成转盘所需打击数增多，也会导致得到**与无模组相比更高的总得分**。
 
-因此，使用此模组会导致含有较少连击、很多长时长转盘的可获得最高分大于无模组时得分。当同时启用 [Hard Rock](/wiki/Game_modifier/Hard_Rock) 模组时，效果会更加明显。
+因此，使用此模组会导致含有较少连击、很多长时长转盘的可获得最高分大于无模组时得分。当同时启用 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组时，效果会更加明显。
 
 ### osu!catch
 
-在 [osu!catch](/wiki/Game_mode/osu!catch) 中，BPM 与小人速度以与其他游戏模式中相同的系数下降。所有[大果](/wiki/Hit_object/Fruit)、[中果](/wiki/Hit_object/Juice_stream#中果), [小果](/wiki/Hit_object/Juice_stream#小果)与[香蕉](/wiki/Hit_object/Banana)保持不变。
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，BPM 与小人速度以与其他游戏模式中相同的系数下降。所有[大果](/wiki/Gameplay/Hit_object/Fruit)、[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果), [小果](/wiki/Gameplay/Hit_object/Juice_stream#小果)与[香蕉](/wiki/Gameplay/Hit_object/Banana)保持不变。
 
 ## 杂项
 

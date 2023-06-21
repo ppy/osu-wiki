@@ -11,15 +11,15 @@
 Задания для теста берутся из огромной базы с вопросами, разбитой на несколько категорий:
 
 - [Правила для номинаторов](/wiki/People/Beatmap_Nominators/Rules): 5 вопросов
-- [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 вопрос
-- [Общие критерии ранкинга](/wiki/Ranking_Criteria#общие-положения) (*RC*): 1 вопрос
-- [RC: карта](/wiki/Ranking_Criteria#карта): 1 вопрос
-- [RC: метаданные](/wiki/Ranking_Criteria#метаданные): 1 вопрос
-- [RC: тайминг](/wiki/Ranking_Criteria#тайминг): 1 вопрос
-- [RC: аудио](/wiki/Ranking_Criteria#аудио): 1 вопрос
-- [RC: видео и фон](/wiki/Ranking_Criteria#видео-и-фон): 1 вопрос
-- [RC: скиннинг](/wiki/Ranking_Criteria#скин): 1 вопрос
-- [RC: сторибординг](/wiki/Ranking_Criteria#сториборд)
+- [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 вопрос
+- [Общие критерии ранкинга](/wiki/Ranking_criteria#общие-положения) (*RC*): 1 вопрос
+- [RC: карта](/wiki/Ranking_criteria#карта): 1 вопрос
+- [RC: метаданные](/wiki/Ranking_criteria#метаданные): 1 вопрос
+- [RC: тайминг](/wiki/Ranking_criteria#тайминг): 1 вопрос
+- [RC: аудио](/wiki/Ranking_criteria#аудио): 1 вопрос
+- [RC: видео и фон](/wiki/Ranking_criteria#видео-и-фон): 1 вопрос
+- [RC: скиннинг](/wiki/Ranking_criteria#скин): 1 вопрос
+- [RC: сторибординг](/wiki/Ranking_criteria#сториборд)
 - Критерии ранкинга для отдельных модов: 4 вопроса по критериям для выбранного режима игры (osu!, osu!taiko, osu!catch, osu!mania)
 
 Строгих критериев для прохождения теста нет. Принято считать, что хороший результат — 15 и более баллов, средний — от 12.5 до 15, а всё ниже 12.5 — так себе.

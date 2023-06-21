@@ -138,7 +138,8 @@ Places of interest.
 | :-- | :-- |
 | Volume | Adjust two volumes (Music / Sample). |
 | Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
-| Show Video | Show Video. Usually disabled because it's distracting. |
+| Show Video/Storyboard | Show background video. Usually disabled because it's distracting. |
+| Dim Background | Make the hit objects more visible by dimming the background. |
 | Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
 | Snaking sliders | Animate the sliders as if playing in-game. |
 | Hit animations | Animate the hit circles as if being clicked (when the timestamp passes the hit circle) in-game. |
@@ -155,7 +156,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Audio Rate | Same as Playback Rate. |
 | Grid Snapping (T) | Allow snapping of the notes with respect to current grid line. |
 

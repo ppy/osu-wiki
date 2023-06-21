@@ -18,7 +18,7 @@ S'agissant d'un jeu de rythme, chacun des niveaux soumis par les utilisateurs d'
 
 Les utilisateurs peuvent chercher et télécharger des niveaux à partir de la [liste des beatmaps](https://osu.ppy.sh/beatmapsets) en saisissant l'artiste, le titre ou toute autre information pertinente. La plupart des téléchargements de niveaux comprennent une musique, des données de niveau créées par l'utilisateur, une image de fond et des effets sonores de jeu.
 
-Lorsqu'ils soumettent des niveaux, les créateurs sont invités à obtenir l'autorisation des détenteurs de droits d'auteur pour toutes les ressources, conformément à nos [directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines).
+Lorsqu'ils soumettent des niveaux, les créateurs sont invités à obtenir l'autorisation des détenteurs de droits d'auteur pour toutes les ressources, conformément à nos [directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines).
 
 ## Conditions de licence pour les Featured Artists
 

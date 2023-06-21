@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - NAT
 ---
@@ -7,13 +9,13 @@ tags:
 
 *또한 [비트맵 노미네이터 평가](Evaluations) 및 [SEV 등급](SEV_rating)도 참조하세요.*
 
-**Nomination Assessment Team**(***NAT***)은 [비트맵 노미네이터](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
+**Nomination Assessment Team**(***NAT***)은 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
 
-NAT 멤버들은 빨간색 닉네임으로 표시되며 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [지명](/wiki/Beatmap_ranking_procedure#nominations)과 [지명 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/The_Team/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/The_Team/Beatmap_Nominators/Expectations)을 따라야 합니다.
+NAT 멤버들은 빨간색 닉네임으로 표시되며 [Global Moderation Team](/wiki/People/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [지명](/wiki/Beatmap_ranking_procedure#nominations)과 [지명 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/Beatmap_Nominators/Expectations)을 따라야 합니다.
 
-**모든 Nomination Assessment Team 멤버들은 [커뮤니티 행동규범](/wiki/Contributor_Code_of_Conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
+**모든 Nomination Assessment Team 멤버들은 [커뮤니티 행동규범](/wiki/Rules/Contributor_code_of_conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
 
-***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/The_Team/Account_support_team#support@ppy.sh)으로 문의하십시오.***
+***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/Account_support_team#support@ppy.sh)으로 문의하십시오.***
 
 ## 책임
 
@@ -23,22 +25,22 @@ NAT는 전반적인 매핑과 관련된 업무를 담당하고 있으며 **평�
 
 **평가위원**일 때는 다음과 같은 역할을 맡습니다:
 
-- **평가:** 비트맵 노미네이터 및 그 지원자의 능력과 활동량을 평가합니다. *추가 사항은 [평가](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) 문서를 참조하세요.*
+- **평가:** 비트맵 노미네이터 및 그 지원자의 능력과 활동량을 평가합니다. *추가 사항은 [평가](/wiki/People/Nomination_Assessment_Team/Evaluations) 문서를 참조하세요.*
 - **지명:** 1달에 최소 2개의 비트맵을 지명하는지 체크함으로써 비트맵 노미네이터 및 비트맵 노미네이터에 지원하는 사람이 어떤 식으로 활동하는지 확인할 수 있습니다.
   - 모딩 활동과 다른 자잘한 활동은 전반적 활동량을 평가할 때 긍정적으로 작용할 수도 있습니다.
 
-[BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)를 통한 BN 지원자가 많은 많큼 평가위원은 고문과 다르게 업무량이 많아 때때로 일을 분담하기 위해 일을 분담하기 위한 새 멤버를 뽑기도 합니다. 따라서 NAT에 가입하고자 하는 BN은 일차적으로 평가 능력을 기준으로 판단하고 대부분의 NAT이 평가위원의 자리를 맡게 됩니다.
+[BN applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)를 통한 BN 지원자가 많은 많큼 평가위원은 고문과 다르게 업무량이 많아 때때로 일을 분담하기 위해 일을 분담하기 위한 새 멤버를 뽑기도 합니다. 따라서 NAT에 가입하고자 하는 BN은 일차적으로 평가 능력을 기준으로 판단하고 대부분의 NAT이 평가위원의 자리를 맡게 됩니다.
 
 ### 고문
 
 **고문**일 때는 다음과 같은 역할을 맡습니다:
 
-- **커뮤니케이션:** 매핑/모딩 커뮤니티뿐만 아니라 NAT 자체 내에서도 투명한 태도와 사람들과 좋은 관계를 유지합니다. 이는 공지사항 전달, 제안에 관한 토론, 설문조사를 통한 질의응답 [Ranking Criteria](/wiki/Ranking_Criteria)와 기타 문서 업데이트와 같은 모든 활동이 포함됩니다.
+- **커뮤니케이션:** 매핑/모딩 커뮤니티뿐만 아니라 NAT 자체 내에서도 투명한 태도와 사람들과 좋은 관계를 유지합니다. 이는 공지사항 전달, 제안에 관한 토론, 설문조사를 통한 질의응답 [Ranking Criteria](/wiki/Ranking_criteria)와 기타 문서 업데이트와 같은 모든 활동이 포함됩니다.
 - **개발:** [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), [NAT/BN website](https://bn.mappersguild.com/home)와 같이 랭크 과정을 개선하기 위한 프로그램 및 웹 사이트를 개발하고 관리합니다.
 - **감독:** 유저의 신고를 처리하고 비트맵 노미네이터의 부적절한 행동 징계 및 비트맵 콘텐츠를 리뷰합니다.
 - **기타 유지 관리:** 대표적으로 관리하는 사항들은 다음과 같습니다:
-  - [Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 관리.
-  - [RC Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)의 유지 및 보수.
+  - [Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) 관리.
+  - [RC Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)의 유지 및 보수.
   - [Severity](SEV_rating)를 통한 지명 초기화 징계 및 경고.
 
 고문은 매핑/모딩 과정에 필요한 구성 요소를 유지 관리하는 것 외에도 BN과 매핑/모딩 커뮤니티의 다른 구성원들이 정보를 계속 받을수 있도록 해야 합니다. 따라서 고문은 일반적으로 매핑/모딩 관리의 운영에 초점을 맞추는 것을 선호하는 숙련된 **평가위원**으로 구성됩니다.
@@ -61,7 +63,7 @@ NAT을 두 그룹으로 나누는 것은 그룹의 조직력과 생산성을 위
 
 NAT가 되려면 먼저 정식 비트맵 노미네이터가 됐거나, 커뮤니티에서 활동하던 예전 NAT 멤버여야 합니다. 초기 NAT 후보는 대부분 매핑/모딩 커뮤니티를 지원하기 위한 노력을 바탕으로 선발하고, 일반적으로 얼마나 다양한 NAT와 관련된 직무에 기여할 수 있는지를 평가하여 승격시킵니다.
 
-모든 신규 NAT는 평가위원으로 시작하기 때문에 NAT 후보들은 다른 구성원의 숙련도를 평가하는 데 탁월한 역량을 발휘하는 것이 중요합니다. Full BN은 [모의 평가](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#mock-evaluations)에 참여하거나 임시로 평가팀에 합류하여 연습할 기회가 주어질 수 있습니다. NAT 후보자의 평가가 철저하면서 NAT와 유사한 결론에 도달하는 경우(혹은 지원하는 다른 이유가 있는 경우) 승격의 가능성이 높습니다.
+모든 신규 NAT는 평가위원으로 시작하기 때문에 NAT 후보들은 다른 구성원의 숙련도를 평가하는 데 탁월한 역량을 발휘하는 것이 중요합니다. Full BN은 [모의 평가](/wiki/People/Nomination_Assessment_Team/Evaluations#mock-evaluations)에 참여하거나 임시로 평가팀에 합류하여 연습할 기회가 주어질 수 있습니다. NAT 후보자의 평가가 철저하면서 NAT와 유사한 결론에 도달하는 경우(혹은 지원하는 다른 이유가 있는 경우) 승격의 가능성이 높습니다.
 
 NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가 방식과 유사하게 NAT 후보 승격을 결정하기 위해 회의를 소집할 수 있습니다. 또한 BN이 직접 NAT 승격을 고려하여 자기 역량에 대해 질문하는 것도 가능합니다. 그러나 현재 NAT 구성원의 활동량 및 기술 역량에 따라 새 NAT가 필요하지 않을 수도 있습니다. 새 NAT 구성원은 현재 구성원 중 하나의 활동이 줄어들거나 더 많은 구성원이 필요할 만큼 작업량이 부담될 경우에만 승격될 수 있습니다.
 
@@ -92,7 +94,7 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 *참고: 언급되지 않는 한 모든 NAT은 아래 나열된 언어 외에 영어를 구사할 수 있습니다.*
 
-[Nomination Assessment Team 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
+[Nomination Assessment Team 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
 
 ### osu!
 

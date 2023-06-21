@@ -31,7 +31,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Puedes hacer una captura de pantalla pulsando `F12`.
 - Observa como juegan otros usuarios con el [modo espectador](/wiki/Gameplay/Spectating). ¡Pulsa `F9` para abrir la interfaz de chat extendida y busca esta opción!
 - Cuando se actualiza un beatmap que ya has descargado puedes actualizarlo haciendo clic en el botón de actualizar beatmap.
-- Las FAQ y la Wiki contienen muchísima información útil. En serio, [léelas](/wiki/Main_Page).
+- Las FAQ y la Wiki contienen muchísima información útil. En serio, [léelas](/wiki/Main_page).
 - ¿Sabías que puedes cargar nuevos beatmaps haciendo doble clic en un archivo `osz` o arrastrándolo a la ventana de osu!?
 - Puedes exportar una [repetición](/wiki/Gameplay/Replay) tanto online como local pulsando `F2` en la [pantalla del ranking](/wiki/Client/Interface#pantalla-de-resultados).
 - Si te parece que el ritmo está descompensado en todos los beatmaps que juegas, intenta ajustar la `compensación global` en las `opciones`.

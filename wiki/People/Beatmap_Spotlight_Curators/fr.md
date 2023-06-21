@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-Le **Beatmap Spotlight Curators** (***BSC***) est un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+Les **Beatmap Spotlight Curators** (***BSC***) sont un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights). Ils se distinguent par leur badge bleu ardoise de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `BSC`.
 
 ## Devenir un curateur
 
@@ -25,7 +25,7 @@ Le projet Beatmap Spotlights est géré par divers membres de la communauté dan
 | Chef du projet | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Gestionnaire du projet | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-Chaque publication du Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
+Chaque publication des Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
 
 ### Curateurs osu!
 
@@ -60,7 +60,7 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de curat
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- :: {flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
+- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)

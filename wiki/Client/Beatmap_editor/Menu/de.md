@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: af2ef05a32428cafe018934e7aea7d3d400d9410
----
-
 # Menü des Beatmap-Editors
 
 ## Datei
@@ -143,13 +138,13 @@ Interessante Dinge.
 | :-- | :-- |
 | Lautstärke | Anpassen von 2 Lautstärken (Musik/Sample). |
 | Gitter-Dichte | Gittergröße festlegen. 1 (sehr grob)/2/3/4 (sehr fein), also entsprechend groß/mittel/klein/winzig. |
-| Video zeigen | Zeigt das Video an. Normalerweise deaktiviert, da es ablenkt. |
+| Video zeigen | Zeigt das Hintergrundvideo an. Normalerweise deaktiviert, da es ablenkt. |
+| Dim Background | Durch Abdunkeln des Hintergrunds werden die Hit-Objekte besser sichtbar. |
 | Sample-Name anzeigen | Zeigt den Keysound, der zu den Hit-Objekten hinzugefügt wurde. Sehr nützlich für osu!mania. |
 | Snaking Slider | Animiert die Slider, wie sie im Spiel aussehen. |
 | Hit Animationen | Animiert die Hit-Circles, wie sie im Spiel sind (beim Überqueren des Zeitstempels). |
 | Follow Points | Zeigt Follow Points zwischen den Hit-Objekten wie im Spiel an. |
 | Stapeln | Stapelt die übereinander liegenden Hit-Circles wie im Spiel (abhängig von den Einstellungen des Schwierigkeitsgrads) |
-| "Rückgängig" deaktivieren | Deaktiviert die Möglichkeit, Änderungen *rückgängig zu machen*, wodurch osu! schneller beim Editieren ist (sinnvoll bei langen Marathon-Beatmaps). |
 
 ## Komponieren
 
@@ -161,7 +156,7 @@ Interessante Dinge.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
 | Gitter-Ausrichtung (`T`) | Erlaubt das Einrasten der Hit-Objekte in Bezug auf die jeweilige Gitterlinie. |
 
@@ -201,11 +196,11 @@ Interessante Dinge.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue rote Timing-Sektion am derzeitigen Standort (neue BPM). |
-| Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue grüne Timing-Sektion am derzeitigen Standort (neue Einstellung). |
-| Aktuelle Sektion zurücksetzen | ? |
-| Sektion entfernen (`Strg` + `I`) | Entfernt die Timing Sektion, in der man gerade befindet. |
-| Sektion neu ausrichten | Richtet die Timing Sektion neu aus. |
+| Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue rote Timing-Sektion (neue BPM). |
+| Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue grüne Timing-Sektion (neue Einstellung). |
+| Aktuelle Sektion zurücksetzen | Setze die BPM-Einstellung des roten Offsets am Beginn der Sektion zurück. Wenn du die Beatmap speicherst, ohne einen neuen BPM-Wert festzulegen, wird das rote Offset gelöscht. |
+| Sektion entfernen (`Strg` + `I`) | Entfernt die Timing-Sektion, in der man sich gerade befindet. |
+| Sektion neu ausrichten | Richtet die Timing-Sektion neu aus. |
 
 ### Timing-Einstellungen
 
@@ -238,7 +233,6 @@ Interessante Dinge.
 | :-- | :-- |
 | Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist `https://osu.ppy.sh/beatmaps/###`, wobei ### die BeatmapID ist. |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap-Thread. |
-| Schnellantwort | Erstelle eine Nachricht im Beatmap-Thread. |
 
 ## Hilfe
 

@@ -11,7 +11,7 @@ Kategori [Loved](/wiki/Beatmap/Category#loved) beatmap saat ini dikelola oleh [P
 
 Pada 2015-02-02, permohonan fitur dengan judul *[Kategori beatmap terbaru untuk unrankable mapsets bagus](https://osu.ppy.sh/community/forums/topics/293841)* telah diposting. Disana dijelaskan secara merinci untuk cara lain di luar [proses ranking](/wiki/Beatmap_ranking_procedure) agar map mendapatkan leaderboard, dan langsung mendapatkan daya tarik para player menunjukkan kekhawatiran tentang proses ranking yang menjadi terlalu ketat dan tidak mengizinkan beberapa beatmap untuk mengadakan kompetisi.
 
-Alasan lain pada permohonan ini menjadi terkenal ialah sangat tidak konvensional atau map perusak-gim tidak akan pernah cocok dengan [kriteria ranking](/wiki/Ranking_Criteria). Player yang tertarik dengan kompetisi dengan map ini, seperti salah satu map yang terdapat gaya "2B", seperti gameplay *[Aspire](/wiki/Contests/Aspire)*, atau element dari [TAG co-op](/wiki/Beatmap/TAG).
+Alasan lain pada permohonan ini menjadi terkenal ialah sangat tidak konvensional atau map perusak-gim tidak akan pernah cocok dengan [kriteria ranking](/wiki/Ranking_criteria). Player yang tertarik dengan kompetisi dengan map ini, seperti salah satu map yang terdapat gaya "2B", seperti gameplay *[Aspire](/wiki/Contests/Aspire)*, atau element dari [TAG co-op](/wiki/Beatmap/TAG).
 
 Pada akhir 2016, permohonan fitur ini menduduki peringkat kedua terbanyak dalam sejarah forum dengan hampir 13.000 prioritas.
 

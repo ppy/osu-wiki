@@ -9,9 +9,9 @@ tags:
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
-Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BNs*). For most purposes, NAT members are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/Beatmap_Nominators/Rules) and [expectations](/wiki/People/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
+Members of the NAT are distinguished by their orange red user title, orange [user group](/wiki/People/User_group) badge that reads `NAT`, and their red in-game username. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BNs*). For most purposes, NAT members are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/Beatmap_Nominators/Rules) and [expectations](/wiki/People/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
 
-**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
 ***Note: To report a member of the NAT misbehaving or breaking the Contributor Code of Conduct, please contact the [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -33,7 +33,7 @@ NAT members responsible for this category are in high demand due to the sheer vo
 
 NAT members assigned to the structural category are required to maintain:
 
-- **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_Criteria) as well as other documentation.
+- **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_criteria) as well as other documentation.
 - **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
 - **Moderation**: Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This task is a joint effort between the NAT and the GMT.
 - **Miscellaneous maintenance**: Included but not limited to:
@@ -92,7 +92,7 @@ NAT leaders aim to cover the following tasks:
 
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Account support team
 
 *Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Support Team](/wiki/People/Support_Team)*
@@ -34,7 +39,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 *Catatan: Untuk melaporkan kasus-kasus seperti perilaku buruk dan pelecehan seksual yang ekstrim dari pengguna mana pun, termasuk dari seorang moderator, silakan kunjungi artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
-- Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct).
+- Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
 - [Masalah pembayaran](/wiki/Help_centre/Account#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
 - Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_centre/Client#online-features).
 

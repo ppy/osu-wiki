@@ -32,7 +32,7 @@ Mod **Half Time** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) ya
 
 ### osu!taiko
 
-Pada [osu!taiko](/wiki/Game_mode/osu!taiko), lagu dan tempo yang sudah diperlambat menyebabkan not-not menjadi sangat bertumpuk karena jumlah dari approach rate (AR) telah dikurangi. Namun, dikarenakan kalkulasi denden pada osu!taiko memerlukan lebih banyak ketukan untuk diselesaikan, mengakibatkan pemberian **jumlah nilai menjadi lebih tinggi daripada tanpa menggunakan mod**, karena ketukan denden tidak dipengaruhi oleh [pengali skor](/wiki/Gameplay/Game_modifier/Score_multiplier).
+Pada [osu!taiko](/wiki/Game_mode/osu!taiko), lagu dan tempo yang sudah diperlambat menyebabkan not-not menjadi sangat bertumpuk karena jumlah dari approach rate (AR) telah dikurangi. Namun, dikarenakan kalkulasi denden pada osu!taiko memerlukan lebih banyak ketukan untuk diselesaikan, mengakibatkan pemberian **jumlah nilai menjadi lebih tinggi daripada tanpa menggunakan mod**, karena ketukan denden tidak dipengaruhi oleh [pengali skor](/wiki/Gameplay/Game_modifier/Mod_multiplier).
 
 Karena itu, menggunakan mod Half Time bisa menyebabkan peningkatan dalam skor maksimum yang dapat dicapai di semua map dengan kombo yang sangat rendah dan jumlah denden panjang yang banyak. Efek ini bisa dilihat secara lebih besar ketika mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) digunakan secara bersamaan.
 

@@ -1,16 +1,14 @@
 # Turnamen
 
-Laman ini diperuntukkan untuk turnamen-turnamen yang ada di osu!. Turnamen memiliki forum khusus yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
+Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Silakan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk memperoleh informasi seputar cara mengajukan permintaan dukungan resmi untuk turnamenmu (lencana, proses *screening*, dll.).
+Silakan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk memperoleh informasi seputar cara mengajukan permintaan dukungan resmi untuk turnamenmu (baik itu yang menyangkut lencana, proses *screening*, ataupun hal lainnya).
 
-## Turnamen Resmi
+## Turnamen World Cup resmi
 
-Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
+Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
-
-osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan *team versus* 4v4 dengan aturan eliminasi ganda (*double elimination*). Turnamen ini merupakan ajang internasional yang diselenggarakan setahun sekali oleh para anggota komunitas osu! dari seluruh dunia yang saling bekerja sama untuk menciptakan turnamen yang kompetitif.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -84,9 +82,9 @@ osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: Korea Selatan | ::{ flag=BR }:: Brazil | ::{ flag=US }:: Amerika Serikat |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: Filipina | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
 
-## Komunitas
+## Turnamen komunitas
 
-Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
+Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan oleh para anggota komunitas.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -108,6 +106,8 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: Korea Selatan | ::{ flag=RU }:: Rusia | ::{ flag=US }:: Amerika Serikat |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polandia | ::{ flag=US }:: Amerika Serikat |
+| 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Tiongkok | ::{ flag=ID }:: Indonesia |
+| 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
 
 #### Aetherian's Summer Singles
 
@@ -502,6 +502,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Jepang A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: Tiongkok A | ::{ flag=KR }:: Korea Selatan |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 
@@ -779,7 +780,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
-### Mode permainan beragam
+### Mode permainan campuran
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 

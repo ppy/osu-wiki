@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
     - BSC
     - beatmap spotlight curator
@@ -60,7 +62,7 @@ Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim d
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- :: {flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
+- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)

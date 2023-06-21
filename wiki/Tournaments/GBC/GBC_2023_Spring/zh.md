@@ -31,15 +31,16 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| *常规赛全勤奖* | 猫猫定制勋章(Pending), 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
 | ![Gold crown](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章(Pending), 猫猫定制勋章, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 90 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 70 RMB |
-| *季后赛第四名* | 50 RMB |
-| *季后赛第五、六名* | 40 RMB |
-| *季后赛第七、八名* | 30 RMB |
-| *季后赛第九至十二名* | 20 RMB |
-| *季后赛第十三至十六名* | 10 RMB |
+| *季后赛第四名* | 60 RMB |
+| *季后赛第五、六名* | 50 RMB |
+| *季后赛第七、八名* | 40 RMB |
+| *季后赛第九至十二名* | 30 RMB |
+| *季后赛第十三至十六名* | 20 RMB |
+| *季后赛第十七至二十四名* | 10 RMB |
+| *常规赛全勤奖* | 猫猫定制勋章(Pending), 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
 
 ## 工作人员
 
@@ -176,7 +177,7 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 ### 图池结构
 
 1. 每组各有四轮图池，每组每轮使用一个图池。
-2. 每个图池由 7 张谱面组成，这些谱面都将在 [FreeMod](/wiki/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
+2. 每个图池由 7 张谱面组成，这些谱面都将在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
    - Freemod 允许的 mod 包括 `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 3. 图池中所包含的谱面键型并不固定。
 

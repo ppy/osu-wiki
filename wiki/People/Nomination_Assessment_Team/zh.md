@@ -10,9 +10,9 @@ tags:
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-他们用户名通常标记为红色。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_group)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
-**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
+**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
 ***注意：如果发现审核评估团队 (NAT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/Account_support_team#support@ppy.sh)并举报。***
 
@@ -34,7 +34,7 @@ tags:
 
 属于**组织** (Structural) 分类的成员主要负责：
 
-- **沟通**：与其他 NAT 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 和其他文件。
+- **沟通**：与其他 NAT 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_criteria) 和其他文件。
 - **开发**：开发并维护能够推进谱面上架流程的工具和网页（比如 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)、[Aiess](https://github.com/Naxesss/Aiess)、[NAT/BN 网站](https://bn.mappersguild.com/home)）。
 - **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
 - **杂项处理**：包括但不限于：
@@ -74,7 +74,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 ## NAT 领导
 
-截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/Modding/Quality_Assurance_Team) 时期使用的[领导](/wiki/Modding/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
+截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 时期使用的[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
 
 目前的 NAT 领导人是 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)。
 
@@ -93,7 +93,7 @@ NAT 领导人的职责是：
 
 *注意：除非特殊说明，所有审核评估团队 (NAT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
+[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_content_considerations)。
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 

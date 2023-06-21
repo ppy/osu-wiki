@@ -34,12 +34,13 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 | ![Gold crown](/wiki/shared/crown-gold.png "playoff stage 1st place") | Profile badge (pending), KanonBot profile badge, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "playoff stage 2nd place") | KanonBot profile badge, 90 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "playoff stage 3rd place") | KanonBot profile badge, 70 RMB |
-| *4th place* | 50 RMB |
-| *5th place – 6th place* | 40 RMB |
-| *7th place – 8th place* | 30 RMB |
-| *9th place – 12th place* | 20 RMB |
-| *13th place – 16th place* | 10 RMB |
-| *All participants* | KanonBot profile badge (all groups), 15 RMB (Group B), 25 RMB (Group A), 35 RMB (Group S), 45 RMB (Group EX) |
+| *4th place* | 60 RMB |
+| *5th place – 6th place* | 50 RMB |
+| *7th place – 8th place* | 40 RMB |
+| *9th place – 12th place* | 30 RMB |
+| *13th place – 16th place* | 20 RMB |
+| *17th place – 24th place* | 10 RMB |
+| *Full attendance prize* | KanonBot profile badge (all groups), 15 RMB (Group B), 25 RMB (Group A), 35 RMB (Group S), 45 RMB (Group EX) |
 
 ## Organisation
 
@@ -159,7 +160,7 @@ Due to the large number of players and matches, the match results will be displa
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2023 Spr`.
-2. Possible mod choices for the FreeMod bracket are **No Fail, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
+2. Possible mod choices for the FreeMod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
 3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
    - The rematch should happen after completing scores for the other beatmaps in the mappool.
@@ -177,7 +178,7 @@ Due to the large number of players and matches, the match results will be displa
 ### Mappool information
 
 1. Each group has four mappools, and each group uses one mappool per round.
-2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The type of beatmap included in the mappool is not fixed.
 
 ### Scheduling information

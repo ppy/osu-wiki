@@ -10,8 +10,6 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu! 世界杯
 
-osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。这是一年一度的世界级的赛事，同时也是社区成员间合作的成果，它给社区带来更多的活力。
-
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! 世界杯 #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: 台湾 | ::{ flag=NL }:: 荷兰 | ::{ flag=KR }:: 韩国 |
@@ -108,6 +106,8 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: 韩国 | ::{ flag=RU }:: 俄罗斯 | ::{ flag=US }:: 美国 |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 | ::{ flag=TW }:: 台湾 |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: 台湾 | ::{ flag=PL }:: 波兰 | ::{ flag=US }:: 美国 |
+| 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: 香港 | ::{ flag=CN }:: 中国 | ::{ flag=ID }:: 印度尼西亚 |
+| 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 
 #### Aetherian's Summer Singles
 
@@ -495,6 +495,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: 日本 A | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: 马来西亚 | ::{ flag=CN }:: 中国 A | ::{ flag=KR }:: 韩国 |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 
