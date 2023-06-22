@@ -77,5 +77,3 @@ Si un miembro del equipo de soporte te ha pedido que tomes un video o captura de
 4. Toma una captura de pantalla presionando `Shift` + `F12`. Esto cargará la captura de pantalla en los servidores de osu! y abrirá la captura de pantalla en una pestaña del navegador web.
 5. Copia y pega el enlace proporcionado en tu ticket de soporte o publicación en el foro.
 6. Cierra el Gráfico de tiempo de fotograma de la misma manera en que lo abriste, presionando `Ctrl` + `F11`.
-
-
