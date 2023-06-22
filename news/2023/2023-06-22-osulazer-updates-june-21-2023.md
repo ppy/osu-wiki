@@ -24,7 +24,7 @@ Here's what's new in this update:
 - **Visible beat snap grid in the osu!catch editor.** Copied from osu!mania.
 - **Editor setting to lock distance snap placements to the current point in time.** This makes distance snap behave like stable, something 99.999% of mappers are used to.
 - **Song select performance improvements.** The client handled beatmap background previews and some other things inefficiently. Now it doesn't.
-- **A bunch of cosmetic changes.** osu!taiko's hit receptor now flashes either red or blue instead of white, mania's lane colours have been adjusted, all the bar lines now render behind the notes, etc.
+- **A bunch of cosmetic changes.** osu!taiko's hit receptor now flashes either red or blue instead of white, osu!mania's lane colours have been adjusted, all the bar lines now render behind the notes, etc.
 
 Armed with such information, there's only one thing to do. Go download the latest update (or [osu!(lazer) itself](https://osu.ppy.sh/home/download), if you haven't already) and check the [changelog](https://osu.ppy.sh/home/changelog/lazer/2023.605.0) for all the changes in way too much detail, including the tiniest stuff.
 
