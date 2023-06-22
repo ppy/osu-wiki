@@ -125,7 +125,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 | South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T080000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
 
-
 ## Mappools
 
 ### Grand Finals
