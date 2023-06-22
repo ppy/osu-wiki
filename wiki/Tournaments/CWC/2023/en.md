@@ -106,22 +106,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ## Match schedule: Grand Finals
 
-### Friday, 24 June 2023
+### Friday, 23 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jun 23 (Fri) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230623T210000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
-### Saturday, 25 June 2023
+### Saturday, 24 June 2023
 
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
 | All-stars Red | All-stars Blue | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 25 June 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T130000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
+| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T080000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
+
 
 ## Mappools
 
