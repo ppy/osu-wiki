@@ -312,7 +312,7 @@ Friday, 23 June 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/109153239) | https://www.twitch.tv/videos/1854050976 |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/109153239) | [#1](https://www.twitch.tv/videos/1854050976) |
 
 ### Finals
 
