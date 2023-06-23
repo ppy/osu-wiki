@@ -116,7 +116,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| All-stars Red | All-stars Blue | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| All-stars Red | All-stars Blue | [Jun 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 25 June 2023
 
