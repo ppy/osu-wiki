@@ -366,6 +366,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-17: Moved [SuzumeAyase](https://osu.ppy.sh/users/14190991) from **Probationary BN** to **BN**
 - 2023-06-17: Moved [Kimitakari](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
 - 2023-06-19: Moved [nanoya](https://osu.ppy.sh/users/12366071) from **Probationary BN** to **BN**
+- 2023-06-23: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **BN** to **Probationary BN**
 
 #### Removals
 
