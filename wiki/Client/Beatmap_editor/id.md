@@ -27,7 +27,7 @@ Tab [Timing](/wiki/Client/Beatmap_editor/Timing) merupakan bagian dari editor ya
 
 ## Song Setup
 
-Tab [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) merupakan bagian dari editor yang dipergunakan untuk mengatur informasi [metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) dan seluk-beluk lainnya yang berlaku secara umum pada [beatmap](/wiki/Beatmap) yang bersangkutan. Hal ini meliputi antara lain judul lagu, nama artis, nama tingkat kesultian, warna kombo, dan masih banyak lagi.
+Tab [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) merupakan bagian dari editor yang dipergunakan untuk mengatur informasi [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) dan seluk-beluk lainnya yang berlaku secara umum pada [beatmap](/wiki/Beatmap) yang bersangkutan. Hal ini meliputi antara lain judul lagu, nama artis, nama tingkat kesultian, warna kombo, dan masih banyak lagi.
 
 ## Lainnya
 

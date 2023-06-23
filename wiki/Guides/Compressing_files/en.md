@@ -1,6 +1,6 @@
 # Compressing files
 
-Each beatmap has a [file size limit](/wiki/Beatmapping/Beatmap_submission#limitations) dictated by its total length, and any [video](/wiki/Ranking_Criteria#video-and-background) and [audio](/wiki/Ranking_Criteria#audio) content must meet format, resolution, and bit rate requirements.
+Each beatmap has a [file size limit](/wiki/Beatmapping/Beatmap_submission#limitations) dictated by its total length, and any [video](/wiki/Ranking_criteria#video-and-background) and [audio](/wiki/Ranking_criteria#audio) content must meet format, resolution, and bit rate requirements.
 
 This guide will help you get your beatmap under that limit and meet such requirements.
 
@@ -25,7 +25,7 @@ In case re-encoding is necessary, it is suggested to use the highest-quality sou
 
 **osu! supports video encoded in the H.264 format with the `.mp4` file extension.** Other formats, such as H.265, VP9, and AV1, and file extensions such as `.mkv` and `.mov`, are currently not supported.
 
-**The [ranking criteria](/wiki/Ranking_Criteria#video-and-background) specify a maximum video resolution of 1280x720 pixels.**
+**The [ranking criteria](/wiki/Ranking_criteria#video-and-background) specify a maximum video resolution of 1280x720 pixels.**
 
 ### Using Handbrake
 
@@ -90,11 +90,11 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 Generally, OGG (Vorbis) results in better quality than MP3 for a given bit rate.
 
-**The [ranking criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
+**The [ranking criteria](/wiki/Ranking_criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
-*See also: [Audio editing guide](/wiki/Guides/Audio_Editing#audacity)*
+*See also: [Audio editing guide](/wiki/Guides/Audio_editing#audacity)*
 
 To begin, download and install [Audacity](https://www.audacityteam.org/), then follow these steps:
 

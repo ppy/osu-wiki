@@ -10,7 +10,7 @@ La categoría de mapa [Amado](/wiki/Beatmap/Category#amados) actualmente está a
 
 El 2 de febrero de 2015, se publicó la solicitud de función *[Nueva categoría de mapa para buenos conjuntos de mapas no clasificados](https://osu.ppy.sh/community/forums/topics/293841)*. Detalló otra forma fuera del [proceso de clasificación](/wiki/Beatmap_ranking_procedure) para que los mapas tuvieran tablas de clasificación, y rápidamente ganó fuerza a medida que los jugadores mostraban su preocupación por el hecho de que el proceso de clasificación se volviera demasiado estricto y no permitiera que algunos mapas albergaran competencia.
 
-Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_Criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos "2B", *jugabilidad similar a [Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG).
+Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos "2B", *jugabilidad similar a [Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG).
 
 A fines de 2016, esta solicitud de función tenía la segunda mayor cantidad de estrellas en la historia del foro con casi 13 000 de prioridad.
 

@@ -29,7 +29,7 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_Setup) fills in a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) and other things universal to a [beatmap](/wiki/Beatmap). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) fills in a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) and other things universal to a [beatmap](/wiki/Beatmap). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
 
 ## Other
 

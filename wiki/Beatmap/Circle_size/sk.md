@@ -7,7 +7,7 @@ no_native_review: true
 
 # Veľkosť kruhov
 
-*Pre regulácie okolo veľkosti kruhov, pozri: [Kritéria celkového umiestnenia](/wiki/Ranking_Criteria)*
+*Pre regulácie okolo veľkosti kruhov, pozri: [Kritéria celkového umiestnenia](/wiki/Ranking_criteria)*
 
 **Veľkosť kruhov** (***CS***) je [beatmapové](/wiki/Beatmap) nastavenie obtiažnosti, ktoré mení veľkosť [trafiteľných objektov](/wiki/Gameplay/Hit_object). Hodnoty veľkosti kruhov majú rozsah od 0 do 10, ale iba hodnoty od 2 do 7 môžu byť vybraté v [editore beatmap](/wiki/Client/Beatmap_editor). Iné hodnoty môžu byť vybrané pomocou manuálnej zmeny [`.osu` súboru](/wiki/Client/File_formats/Osu_(file_format)) mapy.
 

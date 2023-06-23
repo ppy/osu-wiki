@@ -246,7 +246,7 @@ Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durc
 | `Offset-Assistent starten` | Öffnet den Offset-Assistenten. | Button |  |
 
 - Für mehr Details über den Offset-Assistenten, siehe [Offset-Assistent](/wiki/Client/Options/Offset_Wizard).
-- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 

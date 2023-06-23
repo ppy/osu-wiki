@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - GMT
   - moderator
@@ -15,9 +14,9 @@ tags:
 
 *Voir aussi : [Mod (désambiguïsation)](/wiki/Disambiguation/Mod).*
 
-La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
+La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
 
-**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
 ***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -58,7 +57,7 @@ En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou m
 
 *Note : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
-La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
+La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 | Nom | Langues supplémentaires | Domaine d'intérêt |
 | :-- | :-- | :-- |

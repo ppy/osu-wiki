@@ -18,5 +18,5 @@ outdated_translation: true
 - [Mapowanie](/wiki/Beatmapping) (podstawy mapowania)
 - [Podziałka czasowa](Beat_Snap_Divisor)
 - [Odległość pomiędzy obiektami](Distance_snap)
-- [Własne paczki dźwięków](/wiki/Guides/Custom_Sample_Overrides)
+- [Własne paczki dźwięków](/wiki/Guides/Custom_sample_overrides)
 - [Czas Kiai](/wiki/Gameplay/Kiai_time)
