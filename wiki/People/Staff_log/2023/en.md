@@ -263,7 +263,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-16: Moved [-Flashlight-](https://osu.ppy.sh/users/9731062) from **Probationary BN** to **BN**
 - 2023-04-18: Moved [Saggin](https://osu.ppy.sh/users/12464107) from **BN** to **Probationary BN**
 - 2023-04-18: Moved [Kyle Y](https://osu.ppy.sh/users/3565813) from **BN** to **Probationary BN**
-- 2023-04-19: Moved [Tailsdk](https://osu.ppy.sh/users/6751666) from **Probationary BN** to *BN**
+- 2023-04-19: Moved [Tailsdk](https://osu.ppy.sh/users/6751666) from **Probationary BN** to **BN**
 - 2023-04-20: Moved [Nijika Ijichi](https://osu.ppy.sh/users/10964252) from **Probationary BN** to **BN**
 - 2023-04-24: Moved [Shad0wStar](https://osu.ppy.sh/users/16866460) from **Probationary BN** to **BN**
 - 2023-04-24: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **Probationary BN** to **BN**
