@@ -26,7 +26,7 @@ layout: main_page
     
 [인터페이스](/wiki/Client/Interface) • [옵션](/wiki/Client/Options) • [시각적 설정](/wiki/Client/Interface/Visual_settings) • [단축키 참조](/wiki/Client/Keyboard_shortcuts) • [유저 설정 파일](/wiki/Client/Program_files/User_configuration_file) • [프로그램 파일](/wiki/Client/Program_files)
 
-[파일 확장자](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[파일 확장자](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
