@@ -178,6 +178,8 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | **Zyuuu** | **6** | 3 | [ Classic ] | [#16](https://osu.ppy.sh/community/matches/108601134) |
 | [Crz]Caicium | 5 | **6** | **oyama mahiro** | [#3](https://osu.ppy.sh/community/matches/108601702) |
 
+### 常规赛
+
 由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY)** 呈现赛果。
 
 ## 规则
