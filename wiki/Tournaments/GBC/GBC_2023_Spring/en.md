@@ -96,6 +96,11 @@ Due to the large number of players and matches, the match results will be displa
 
 
 
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | 奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/105422717) |
+| 经典米托镂空鱼香鸡肉丸 | 6 | **7** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105424329) |
+
 ## Ruleset
 
 ### General
