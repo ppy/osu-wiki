@@ -80,6 +80,69 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 
 由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY)** 呈现赛果。
 
+### 半决赛
+
+2023 年 5 月 26 日，星期五：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| [Paw]Just_MLN | 1 | 6 | chana | [#3](https://osu.ppy.sh/community/matches/108676102) |
+
+2023 年 5 月 27 日，星期六：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Mantozi | 5 | 6 | Kuiiiiteeee | [#5](https://osu.ppy.sh/community/matches/108694707) |
+| Zyuuu | 3 | 6 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108696890) |
+
+2023 年 5 月 28 日，星期日：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| [GB]mmttyy233 | 3 | 6 | [Crz]Caicium | [#6](https://osu.ppy.sh/community/matches/108712075) |
+| Kuiiiiteeee | 3 | 6 | [Crz]Caicium | [#8](https://osu.ppy.sh/community/matches/108714047) |
+| StarTemplar | 6 | 3 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108714946) |
+| [GB]nyasun | 1 | 6 | Miyes | [#1](https://osu.ppy.sh/community/matches/108715879) |
+| chana | 5 | 6 | [Crz]Xinyi2016 | [#7](https://osu.ppy.sh/community/matches/108716856) |
+
+### 四分之一决赛
+
+2023 年 5 月 16 日，星期二：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[ Classic ]** | **6** | 0 | - Xiaoluoli - | [#9](https://osu.ppy.sh/community/matches/108515071) |
+
+2023 年 5 月 19 日，星期五：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Mantozi** | **6** | 1 | ATH_1gr | [#6](https://osu.ppy.sh/community/matches/108559230) |
+| [GB]ParasolTree | 3 | **6** | **McButt** | [#11](https://osu.ppy.sh/community/matches/108560099) |
+| **Mantozi** | **6** | 3 | McButt | [#14](https://osu.ppy.sh/community/matches/108560907) |
+
+2023 年 5 月 20 日，星期六：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **StarTemplar** | **6** | 0 | Kuiiiiteeee | [#2](https://osu.ppy.sh/community/matches/108575767) |
+| **Mizum** | **6** | 5 | [GB]QAQlingjiu | [#7](https://osu.ppy.sh/community/matches/108578366) |
+| riunosk | 5 | **6** | **[GB]mmttyy233** | [#10](https://osu.ppy.sh/community/matches/108578427) |
+| **Babibelbleu** | **6** | 3 | Para39 | [#12](https://osu.ppy.sh/community/matches/108578391) |
+| **[Paw]Just_MLN** | **6** | 0 | [GB]Frozen moon | [#5](https://osu.ppy.sh/community/matches/108579063) |
+| **[Paw]Just_MLN** | **6** | 2 | Babibelbleu | [#13](https://osu.ppy.sh/community/matches/108579582) |
+| **Zyuuu** | **6** | 1 | [GB]Burger King | [#8](https://osu.ppy.sh/community/matches/108580447) |
+| **Miyes** | **6** | 3 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108581616) |
+
+2023 年 5 月 21 日，星期日：
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]nyasun** | **6** | 2 | chana | [#1](https://osu.ppy.sh/community/matches/108594972) |
+| Mizum | 2 | **6** | **[GB]mmttyy233** | [#15](https://osu.ppy.sh/community/matches/108579948) |
+| **Zyuuu** | **6** | 3 | [ Classic ] | [#16](https://osu.ppy.sh/community/matches/108601134) |
+| [Crz]Caicium | 5 | **6** | **oyama mahiro** | [#3](https://osu.ppy.sh/community/matches/108601702) |
+
 ## 规则
 
 ### 常规规则
