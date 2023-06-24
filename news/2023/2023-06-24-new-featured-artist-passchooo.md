@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "New Featured Artist: passchooo"
-date: 2023-06-24 11:00:00 +0000
+date: 2023-06-24 15:00:00 +0000
 ---
 
-**passchooo** joins the lineup of osu!-players-turned-musicians as our latest Featureed Artist!
+**passchooo** joins the lineup of osu!-players-turned-musicians as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/366/header.jpg)
 
-While [**passchooo**](https://osu.ppy.sh/users/6469085) has been a producer and vocalist for nearly their whole life, they only began to gain recognition on osu! after the speed-remix [mrekk took over his WHAT](https://youtu.be/5Rh8Cidvbrg?t=31).
+While [**passchooo**](https://osu.ppy.sh/users/6469085) has been a producer and vocalist for nearly their whole life, they only began to gain recognition on osu! after the speed remix [mrekk took over his WHAT](https://www.youtube.com/watch?v=5Rh8Cidvbrg&t=31s).
 
 After being put on the radar, **passchooo**'s hip-hop-adjacent music has gained an audience here on osu! too, and with their upcoming release of *The Roundtable II*'s background soundtrack, they're only getting started.
 
-**6** highly-stylized tunes are ripe for the picking from [**passchooo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/366)! Each are available as an already-timed beatmap template, so you can jump straight into mapping.
+**6** highly stylised tunes are ripe for the picking from [**passchooo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/366)! Each are available as an already-timed beatmap template, so you can jump straight into mapping.
 
 Every musician who played osu! has wondered how their songs would fit into the game. **passchooo**, after designing some of their music specifically for osu!, doesn't need to wonder anymore:
 
