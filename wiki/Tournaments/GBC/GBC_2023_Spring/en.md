@@ -94,27 +94,94 @@ Due to the large number of players and matches, the match results will be displa
 
 ### Playoff
 
-Saturday, 3 June 2023
+### Grand Finals 
 
-| Player A |  |  | Player B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **[Crz]Xinyi2016** | **7** | 2 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108814573) |
-| Miyes | 4 | **7** | **StarTemplar** | [#1](https://osu.ppy.sh/community/matches/108931620) |
-
-Sunday, 4 June 2023
-
-| Player A |  |  | Player B | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| [Crz]Caicium | 3 | **7** | **[GB]nyasun** | [#3](https://osu.ppy.sh/community/matches/108834786) |
-| [Crz]Xinyi2016 | 2 | **7** | **[GB]nyasun** | [#4](https://osu.ppy.sh/community/matches/108835652) |
-
-Saturday, 10 June 2023
+Saturday, 10 June 2023:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[GB]nyasun** | **7** | 1 | Miyes | [#1](https://osu.ppy.sh/community/matches/108929669) |
 | StarTemplar | 3 | **7** | **[GB]nyasun** | [#2](https://osu.ppy.sh/community/matches/108931620) |
 | **[GB]nyasun** | **7** | 2 | StarTemplar | [#3](https://osu.ppy.sh/community/matches/108932352) |
+
+### Finals 
+
+Saturday, 3 June 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[Crz]Xinyi2016** | **7** | 2 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108814573) |
+| Miyes | 4 | **7** | **StarTemplar** | [#1](https://osu.ppy.sh/community/matches/108931620) |
+
+Sunday, 4 June 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Crz]Caicium | 3 | **7** | **[GB]nyasun** | [#3](https://osu.ppy.sh/community/matches/108834786) |
+| [Crz]Xinyi2016 | 2 | **7** | **[GB]nyasun** | [#4](https://osu.ppy.sh/community/matches/108835652) |
+
+### Semifinals
+
+Friday, 26 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Paw]Just_MLN | 1 | 6 | chana | [#3](https://osu.ppy.sh/community/matches/108676102) |
+
+Saturday, 27 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Mantozi | 5 | 6 | Kuiiiiteeee | [#5](https://osu.ppy.sh/community/matches/108694707) |
+| Zyuuu | 3 | 6 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108696890) |
+
+Sunday, 28 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [GB]mmttyy233 | 3 | 6 | [Crz]Caicium | [#6](https://osu.ppy.sh/community/matches/108712075) |
+| Kuiiiiteeee | 3 | 6 | [Crz]Caicium | [#8](https://osu.ppy.sh/community/matches/108714047) |
+| StarTemplar | 6 | 3 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108714946) |
+| [GB]nyasun | 1 | 6 | Miyes | [#1](https://osu.ppy.sh/community/matches/108715879) |
+| chana | 5 | 6 | [Crz]Xinyi2016 | [#7](https://osu.ppy.sh/community/matches/108716856) |
+
+### Quarterfinals
+
+Tuesday, 16 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[ Classic ]** | **6** | 0 | - Xiaoluoli - | [#9](https://osu.ppy.sh/community/matches/108515071) |
+
+Friday, 19 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mantozi** | **6** | 1 | ATH_1gr | [#6](https://osu.ppy.sh/community/matches/108559230) |
+| [GB]ParasolTree | 3 | **6** | **McButt** | [#11](https://osu.ppy.sh/community/matches/108560099) |
+| **Mantozi** | **6** | 3 | McButt | [#14](https://osu.ppy.sh/community/matches/108560907) |
+
+Saturday, 20 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **StarTemplar** | **6** | 0 | Kuiiiiteeee | [#2](https://osu.ppy.sh/community/matches/108575767) |
+| **Mizum** | **6** | 5 | [GB]QAQlingjiu | [#7](https://osu.ppy.sh/community/matches/108578366) |
+| riunosk | 5 | **6** | **[GB]mmttyy233** | [#10](https://osu.ppy.sh/community/matches/108578427) |
+| **Babibelbleu** | **6** | 3 | Para39 | [#12](https://osu.ppy.sh/community/matches/108578391) |
+| **[Paw]Just_MLN** | **6** | 0 | [GB]Frozen moon | [#5](https://osu.ppy.sh/community/matches/108579063) |
+| **[Paw]Just_MLN** | **6** | 2 | Babibelbleu | [#13](https://osu.ppy.sh/community/matches/108579582) |
+| **Zyuuu** | **6** | 1 | [GB]Burger King | [#8](https://osu.ppy.sh/community/matches/108580447) |
+| **Miyes** | **6** | 3 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108581616) |
+
+Sunday, 21 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]nyasun** | **6** | 2 | chana | [#1](https://osu.ppy.sh/community/matches/108594972) |
+| Mizum | 2 | **6** | **[GB]mmttyy233** | [#15](https://osu.ppy.sh/community/matches/108579948) |
+| **Zyuuu** | **6** | 3 | [ Classic ] | [#16](https://osu.ppy.sh/community/matches/108601134) |
+| [Crz]Caicium | 5 | **6** | **oyama mahiro** | [#3](https://osu.ppy.sh/community/matches/108601702) |
 
 ## Ruleset
 
