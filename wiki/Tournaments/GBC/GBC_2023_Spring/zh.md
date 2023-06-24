@@ -31,7 +31,7 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章(Pending), 猫猫定制勋章, 100 RMB |
+| ![Gold crown](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章, 猫猫定制勋章, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 90 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 70 RMB |
 | *季后赛第四名* | 60 RMB |
@@ -40,7 +40,10 @@ tags:
 | *季后赛第九至十二名* | 30 RMB |
 | *季后赛第十三至十六名* | 20 RMB |
 | *季后赛第十七至二十四名* | 10 RMB |
-| *常规赛全勤奖* | 猫猫定制勋章(Pending), 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
+| *常规赛全勤奖* | 猫猫定制勋章, 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
+
+![GBC 2023 Spring Banner](img/GBC-2023-Spring-badge-1st.png)\
+![GBC 2023 Spring KanonBot 1st Profile Badge](img/badge-kanon-1st.png) ![GBC 2023 Spring Banner KanonBot 2nd Profile Badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring Banner KanonBot 3rd Profile Badge](img/badge-kanon-3rd.png) ![GBC 2023 Spring Banner KanonBot Attended Profile Badge](img/badge-kanon-attended.png)
 
 ## 工作人员
 
