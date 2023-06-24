@@ -146,7 +146,7 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
 
 ## 참고
 

@@ -147,7 +147,7 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
 
 ## 备注
 
