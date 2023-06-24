@@ -88,12 +88,6 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 
 ## Match results
 
-### Regular stage
-
-Due to the large number of players and matches, the match results will be displayed in the [information spreadsheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi).
-
-### Playoff
-
 ### Grand Finals 
 
 Saturday, 10 June 2023:
@@ -126,24 +120,24 @@ Friday, 26 May 2023:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Paw]Just_MLN | 1 | 6 | chana | [#3](https://osu.ppy.sh/community/matches/108676102) |
+| [Paw]Just_MLN | 1 | **6** | **chana** | [#3](https://osu.ppy.sh/community/matches/108676102) |
 
 Saturday, 27 May 2023:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mantozi | 5 | 6 | Kuiiiiteeee | [#5](https://osu.ppy.sh/community/matches/108694707) |
-| Zyuuu | 3 | 6 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108696890) |
+| Mantozi | 5 | **6** | **Kuiiiiteeee** | [#5](https://osu.ppy.sh/community/matches/108694707) |
+| Zyuuu | 3 | **6** | **[Crz]Xinyi2016** | [#4](https://osu.ppy.sh/community/matches/108696890) |
 
 Sunday, 28 May 2023:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]mmttyy233 | 3 | 6 | [Crz]Caicium | [#6](https://osu.ppy.sh/community/matches/108712075) |
-| Kuiiiiteeee | 3 | 6 | [Crz]Caicium | [#8](https://osu.ppy.sh/community/matches/108714047) |
-| StarTemplar | 6 | 3 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108714946) |
-| [GB]nyasun | 1 | 6 | Miyes | [#1](https://osu.ppy.sh/community/matches/108715879) |
-| chana | 5 | 6 | [Crz]Xinyi2016 | [#7](https://osu.ppy.sh/community/matches/108716856) |
+| [GB]mmttyy233 | 3 | **6** | **[Crz]Caicium** | [#6](https://osu.ppy.sh/community/matches/108712075) |
+| Kuiiiiteeee | 3 | **6** | **[Crz]Caicium** | [#8](https://osu.ppy.sh/community/matches/108714047) |
+| **StarTemplar** | **6** | 3 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108714946) |
+| [GB]nyasun | 1 | **6** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/108715879) |
+| chana | 5 | **6** | **[Crz]Xinyi2016** | [#7](https://osu.ppy.sh/community/matches/108716856) |
 
 ### Quarterfinals
 
@@ -182,6 +176,10 @@ Sunday, 21 May 2023:
 | Mizum | 2 | **6** | **[GB]mmttyy233** | [#15](https://osu.ppy.sh/community/matches/108579948) |
 | **Zyuuu** | **6** | 3 | [ Classic ] | [#16](https://osu.ppy.sh/community/matches/108601134) |
 | [Crz]Caicium | 5 | **6** | **oyama mahiro** | [#3](https://osu.ppy.sh/community/matches/108601702) |
+
+### Regular stage
+
+Due to the large number of players and matches, the match results will be displayed in the [information spreadsheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi).
 
 ## Ruleset
 
