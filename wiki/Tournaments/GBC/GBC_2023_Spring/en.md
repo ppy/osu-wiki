@@ -42,7 +42,8 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 | *17th place – 24th place* | 10 RMB |
 | *Full attendance prize* | KanonBot profile badge (All Groups), 15 RMB (Group B), 25 RMB (Group A), 35 RMB (Group S), 45 RMB (Group EX) |
 
-![GBC 2023 Spring Banner](img/GBC-2023-Spring-badge-1st.png)
+![GBC 2023 Spring Banner](img/GBC-2023-Spring-badge-1st.png)\
+![GBC 2023 Spring KanonBot 1st Profile Badge](img/badge-kanon-1st.png) ![GBC 2023 Spring Banner KanonBot 2nd Profile Badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring Banner KanonBot 3rd Profile Badge](img/badge-kanon-3rd.png)
 
 ## Organisation
 
