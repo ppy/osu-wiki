@@ -137,7 +137,7 @@ tags:
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Индонезийский |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Русский |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Французский |
@@ -155,7 +155,7 @@ tags:
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Китайский |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Китайский |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Индонезийский |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Индонезийский |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Индонезийский |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Испанский |
@@ -179,7 +179,7 @@ tags:
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Корейский |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Корейский |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Немецкий |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Нидерландский |

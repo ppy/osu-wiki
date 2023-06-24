@@ -137,7 +137,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | สเปน |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | จีน, กวางตุ้ง |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | ดัตช์ |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | อินโดนีเซีย |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | รัสเซีย |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | ฝรั่งเศส |
@@ -155,7 +155,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | จีน |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | จีน |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | อินโดนีเซีย |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | อินโดนีเซีย |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | อินโดนีเซีย |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | สเปน |
@@ -179,7 +179,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | เกาหลี |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | ฟิลิปปินส์ |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | เกาหลี |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | เยอรมัน |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | เกาหลี |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | ดัตช์ |

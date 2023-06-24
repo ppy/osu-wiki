@@ -135,7 +135,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Espagnol |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinois, cantonais |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Néerlandais |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonésien |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russe |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Français |
@@ -153,7 +153,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chinois |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinois |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonésien |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonésien |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésien |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Espagnol |
@@ -177,7 +177,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Coréen |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Philippin |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coréen |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Allemand |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coréen |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |

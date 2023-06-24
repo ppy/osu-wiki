@@ -137,7 +137,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | 스페인어 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 네덜란드어 |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | 인도네시아어 |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 러시아어 |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | 프랑스어 |
@@ -155,7 +155,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | 중국어 |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 중국어 |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | 인도네시아어 |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | 인도네시아어 |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | 인도네시아어 |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 스페인어 |
@@ -179,7 +179,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | 한국어 |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | 필리핀어 |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 한국어 |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | 독일어 |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 한국어 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 네덜란드어 |

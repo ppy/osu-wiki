@@ -137,7 +137,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Espanhol |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinês, cantonês |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Holandês |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonésio |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russo |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Francês |
@@ -155,7 +155,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chinês |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinês |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonésio |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonésio |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Espanhol |
@@ -179,7 +179,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Coreano |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coreano |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Alemão |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Holandês |

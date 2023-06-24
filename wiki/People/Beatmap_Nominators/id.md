@@ -137,7 +137,7 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Belanda |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesia |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Rusia |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Perancis |
@@ -155,7 +155,7 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Tionghoa |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Tionghoa |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesia |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesia |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanyol |
@@ -179,7 +179,7 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korea |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korea |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Jerman |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |

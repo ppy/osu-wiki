@@ -137,7 +137,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Çince, Kantonca |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Felemenkçe |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |\
+| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Rusça |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Fransızca |
@@ -155,7 +155,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Çince |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Çince |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian
+| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Endonezce |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Endonezce |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca |
@@ -179,7 +179,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korece |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korece |
-| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Almanca |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Felemenkçe |
