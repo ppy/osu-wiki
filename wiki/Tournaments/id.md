@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 823b290b18c7891de8d92936d9f047f9538f8577
----
-
 # Turnamen
 
 Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
@@ -64,7 +59,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: Korea Selatan | ::{ flag=CN }:: Tiongkok | ::{ flag=US }:: Amerika Serikat |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=CN }:: Tiongkok |
-| [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=IT }:: Italia |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
