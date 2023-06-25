@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 
+---
+
 # Tournois
 
 Section dédiée aux tournois d'osu!. Les tournois ont un forum dédié qui se trouve [via ce lien](https://osu.ppy.sh/community/forums/55).
