@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
 ---
 
 # Mascotas

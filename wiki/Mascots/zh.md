@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
+---
+
 # 吉祥物
 
 *参见: [吉祥物/画廊](/wiki/Mascots/Gallery)*
