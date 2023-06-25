@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # Mascotas
 
-*Véase también: [Galería de mascotas](/wiki/Mascots/Gallery).*
+*Véase también: [Galería/Mascotas](/wiki/Mascots/Gallery).*
 
 Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
