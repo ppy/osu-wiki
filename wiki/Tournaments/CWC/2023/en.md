@@ -27,7 +27,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) was a country-based osu!catch 
 
 ## Prizes
 
-The osu!catch World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,222 from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
+The osu!catch World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,231.22 from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
 
 | Placing | Prizes |
 | :-: | :-- |
