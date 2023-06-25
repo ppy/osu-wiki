@@ -643,5 +643,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^losers_finals]: Losers bracket Finals match
-[^grand-finals]: Grand Finals match
+[^grand_finals]: Grand Finals match
 [^bracket_reset]: Grand Finals bracket reset match
