@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2023 banner](img/cwc2023-banner.jpg)
 
-The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2023** (***CWC 2023***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
+The osu!catch World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,231.22 from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2023-badge-1st.png "CWC 2023 winner badge") ![](img/cwc2023-badge-2nd.png "CWC 2023 2nd-place badge") ![](img/cwc2023-badge-3rd.png "CWC 2023 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2023 is run by various community members.
+The osu!catch World Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -52,11 +54,11 @@ The osu!catch World Cup 2023 is run by various community members.
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBYHOykPfOx6doMljKcQfjyrXmdVjEflIV2hpHJpH1uoDhk7OpE84QHIYG0oO8MytJ4RtrME9qJ_JF/pubhtml)
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1QwtsUUDxfhHoXG5fJb6hrWYiBIMa_LnH)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/CWC_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/115) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
 
 ## Participants
 
@@ -104,19 +106,9 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 24 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| All-stars Red | All-stars Blue | [Jun 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
-### Sunday, 25 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/cwc2023-podium.jpg "CWC 2023 podium")
 
 ## Mappools
 
@@ -308,11 +300,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Rh9jgncktYogyI9dTSELQqXBcldbESpvVFnT5d9JNLA/edit?rm=minimal).
+
 Friday, 23 June 2023:
 
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/109153239) | [#1](https://www.twitch.tv/videos/1854050976) |
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/109153239) | [#1](https://www.twitch.tv/videos/1854050976) | [^losers_finals] |
+
+Sunday, 25 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/109181821) | [#1](https://www.twitch.tv/videos/1855620476) | [^grand_finals] |
+| United States ::{ flag=US }:: | 4 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/109183237) | [#1](https://www.twitch.tv/videos/1855620476?t=1h21m3s) | [^bracket_reset] |
 
 ### Finals
 
@@ -641,5 +642,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^grand-finals]: Grand Finals match
-[^showmatch]: Showmatch — all-star players from eliminated teams face off
+[^losers_finals]: Losers bracket Finals match
+[^grand_finals]: Grand Finals match
+[^bracket_reset]: Grand Finals bracket reset match
