@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 
+outdated_since: 823b290b18c7891de8d92936d9f047f9538f8577
 ---
 
 # 锦标赛
