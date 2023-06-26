@@ -52,20 +52,46 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 | Playtester | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577) |
 | Streamer | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Commentator | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Osawa Rurino](https://osu.ppy.sh/users/20160331), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=ID }:: [Kurotei](https://osu.ppy.sh/users/19428674), ::{ flag=ID }:: [BlooMertz](https://osu.ppy.sh/users/24134742), ::{ flag=ID }:: [NotDens](https://osu.ppy.sh/users/17311355), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [Smato](https://osu.ppy.sh/users/5616307), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PL }:: [THE BEST HOBO](https://osu.ppy.sh/users/19204047) |
+| Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Osawa Rurino](https://osu.ppy.sh/users/20160331), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=ID }:: [Kurotei](https://osu.ppy.sh/users/19428674), ::{ flag=ID }:: [BlooMertz](https://osu.ppy.sh/users/24134742), ::{ flag=ID }:: [NotDens](https://osu.ppy.sh/users/17311355), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [Smato](https://osu.ppy.sh/users/5616307), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PL }:: [THE BEST HOBO](https://osu.ppy.sh/users/19204047) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319/), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592) |
 | Spreadsheet manager | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1ldhLP4DDZ-eSVKZ9sQOuBdh2NEJBKJW7Jpbv2HcrI94/edit#gid=1052632133)**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1AKBByLWsIBtWDaZI8osmhs0gR0-AIfyFrIi2IT498kE)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1764769)
 - [Discord server](https://discordapp.com/invite/CHRFffH)
 - [Livestream channel](https://www.twitch.tv/osuindonesia)
 - [Challonge brackets](https://challonge.com/OIT2023)
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here! (76 MB)](https://mappack.yewonkim.tk/download/iuNG59Xn)**
+
+- NoMod
+  1. [Baru - ResoAlive (Down) \[reMASTER\]](https://osu.ppy.sh/beatmapsets/1551133#osu/3169762)
+  2. [Xi - Native File (AdveNt) \[Tribulation from the Native Gods\]](https://osu.ppy.sh/beatmapsets/1556672#osu/3180049)
+  3. [Ariabl'eyeS - Unmei no Kousaku (Mirash) \[Mirash x Delisha Collab\]](https://osu.ppy.sh/beatmapsets/1610080#osu/3287483)
+  4. [MYUKKE. - re\[in\]flaw (captin1) \[in\[co\]rect\]](https://osu.ppy.sh/beatmapsets/1344871#osu/2785316)
+- Hidden
+  1. [Shikiura. - Karada wa Shoujiki datte Ittenno (seros) \[-45's Expert\]](https://osu.ppy.sh/beatmapsets/1767411#osu/3752950)
+  2. [Ryokuoushoku Shakai - sabotage (cotton\_\_123) \[Shiny Moments\]](https://osu.ppy.sh/beatmapsets/1899133#osu/3914449)
+- HardRock
+  1. venta
+  2. [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) \[Skystar's Extreme\]](https://osu.ppy.sh/beatmapsets/212387#osu/527704)
+- DoubleTime
+  1. [Miyuna - ...Sugu Kite Ne (Kuse) \[Golden Time\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571081)
+  2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
+  3. [Hanatan - Orange (Hishiro Chizuru) \[Another\]](https://osu.ppy.sh/beatmapsets/989467#osu/2074717)
+- FreeMod
+  1. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
+  2. [A.SAKA - Mutsuki Akari no Yuki (allein) \[Expert\]](https://osu.ppy.sh/beatmapsets/1890055#osu/3893556)
+  3. [BEMANI Sound Team "Yvya" - Vitrum (Lince Cosmico) \[KKip's Extra\]](https://osu.ppy.sh/beatmapsets/1581126#osu/3267248)
+- Tiebreaker
+  1. **[LeaF - Calamity Fortune (extended ver.) (Jean-Michel Jr) \[Mid-Day Supernova\]](https://osu.ppy.sh/beatmapsets/1155981#osu/2412400)**  
 
 ### Qualifiers
 
