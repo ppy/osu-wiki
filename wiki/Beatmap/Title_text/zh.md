@@ -2,6 +2,8 @@
 tags:
   - online title
   - display title
+  - 在线标题
+  - 显示标题
 ---
 
 # Beatmap title text

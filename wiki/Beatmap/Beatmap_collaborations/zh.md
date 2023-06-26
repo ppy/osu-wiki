@@ -4,11 +4,11 @@ tags:
   - collabs
 ---
 
-# Beatmap collaborations
+# 谱面合作
 
 **Beatmap collaborations**, or ***collabs***, are single [difficulties](/wiki/Beatmap/Difficulty) or [beatmaps](/wiki/Beatmap) with [guest difficulties](/wiki/Beatmap/Guest_difficulty) created by multiple people. While the term *collab* usually refers to beatmaps, it also means any other media created by several participants, such as [storyboards](/wiki/Storyboard) or songs.
 
-## Description
+## 描述
 
 Beatmap collaborations usually have the word "Collab" or multiple usernames attached to their difficulty name or [beatmap description](/wiki/Beatmap/Beatmap_description), although it is not a strict [ranking criteria](/wiki/Ranking_criteria) requirement. It is also common for frequent collaborators to invent amalgamations of their usernames[^name-example] and use them consistently throughout their mapping careers.
 
@@ -18,6 +18,6 @@ Mappers complete their parts by laying out the [hit objects](/wiki/Gameplay/Hit_
 
 Although mappers usually rely on the parts already completed to make gameplay transitions as smooth as possible, there exist so-called *blind collabs* such as [Mitose Noriko - Unreal Player](https://osu.ppy.sh/beatmapsets/828563#osu/1735958) hosted by ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), where the mappers cannot see each other's parts until the beatmap is finished. In such cases, hit objects are typically placed at the ends of each section beforehand to indicate where to continue from.
 
-## Notes and references
+## 备注与参考
 
 [^name-example]: For example, [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068), a beatmap by [Vass\_Bass](https://osu.ppy.sh/users/188248), has a collaboration difficulty with [Reiji-RJ](https://osu.ppy.sh/users/305389) named "Vass-RJ".

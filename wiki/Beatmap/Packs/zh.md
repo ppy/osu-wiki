@@ -5,7 +5,7 @@ outdated: true
 
 <!-- TODO: new pack types, new mirrors -->
 
-# Beatmap packs
+# 谱面包
 
 A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/Beatmap/Category#approved) beatmaps).
 

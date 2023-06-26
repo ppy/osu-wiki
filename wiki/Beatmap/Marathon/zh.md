@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# Marathon
+# 马拉松图
 
 **Marathon** is a term used to describe [beatmaps](/wiki/Beatmap) that are five minutes in length or longer. They are often [collaborative efforts](/wiki/Beatmap/Beatmap_collaborations), as mapping longer songs can be tiring when done alone.
 

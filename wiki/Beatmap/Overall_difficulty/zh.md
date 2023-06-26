@@ -4,6 +4,9 @@ tags:
   - hit window
   - OD
   - spinner difficulty
+  - 准确率
+  - 打击窗口
+  - 转盘难度
 ---
 
 # Overall difficulty

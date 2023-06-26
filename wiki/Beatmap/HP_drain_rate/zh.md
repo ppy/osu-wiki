@@ -3,6 +3,8 @@ stub: true
 tags:
   - health drain rate
   - passive drain rate
+  - 掉血速度
+  - 被动掉血速度
 ---
 
 # HP drain rate

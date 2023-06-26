@@ -4,6 +4,10 @@ tags:
   - length
   - playtime
   - total length
+  - 时长
+  - 长度
+  - 游玩时长
+  - 总时长
 ---
 
 # Play time

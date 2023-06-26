@@ -2,6 +2,7 @@
 stub: true
 tags:
   - song compilations
+  - 歌曲串烧
 ---
 
 # Song compilation

@@ -10,6 +10,9 @@ tags:
   - automatic stacking
   - automated stacking
   - autostacking
+  - 堆叠
+  - 自动堆叠
+  - 堆叠严度
 ---
 
 # Stack leniency

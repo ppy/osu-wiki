@@ -4,9 +4,13 @@ tags:
   - guest beatmap
   - guest difficulties
   - guest map
+  - 客串
+  - 客串谱面
+  - 客串难度
+  - 客串图
 ---
 
-# Guest difficulty
+# 客串难度
 
 *For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_criteria)*
 

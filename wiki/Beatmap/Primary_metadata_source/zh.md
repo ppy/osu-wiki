@@ -6,6 +6,9 @@ tags:
   - official source
   - official sources
   - primary metadata sources
+  - 元数据源
+  - 官方元数据源
+  - 主要元数据源
 ---
 
 # Primary metadata source

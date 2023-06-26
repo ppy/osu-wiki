@@ -2,6 +2,7 @@
 tags:
   - CS
   - key count
+  - 键数
 ---
 
 # Circle size

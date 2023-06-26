@@ -16,8 +16,15 @@ tags:
   - Osu! Tatakae! Ouendan!
   - Osu Tatakae Ouendan
   - Ouendan
+  - 仿真谱面
+  - DS 游戏
+  - 精英节拍特工
+  - iNiS 谱面
+  - 原作
+  - 押忍！战斗！应援团！
+  - 应援团
 ---
 
-# Authentic beatmap
+# 仿真谱面
 
-An **authentic [beatmap](/wiki/Beatmap)** is one that emulates a stage from the [iNiS games](/wiki/iNiS_games). The term originates from a time where [mapping](/wiki/Beatmapping) was heavily inspired by iNiS. Today, the term "authentic" has little meaning, as generations of mappers have been inspired by each other instead of the original games.
+**仿真[谱面](/wiki/Beatmap)**是模拟 [iNiS 游戏](/wiki/iNiS_games)中舞台的谱面。The term originates from a time where [mapping](/wiki/Beatmapping) was heavily inspired by iNiS. Today, the term "authentic" has little meaning, as generations of mappers have been inspired by each other instead of the original games.

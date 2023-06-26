@@ -2,6 +2,8 @@
 tags:
   - difficulty set
   - progression
+  - 难度集
+  - 渐进
 ---
 
 # Difficulty spread

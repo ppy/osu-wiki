@@ -3,9 +3,10 @@ tags:
   - leadin
   - lead in
   - AudioLeadIn
+  - 导入
 ---
 
-# Lead-in time
+# 导入时间
 
 *See also: [Offset](/wiki/Offset)*
 

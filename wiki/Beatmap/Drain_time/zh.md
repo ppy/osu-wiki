@@ -2,6 +2,8 @@
 stub: true
 tags:
   - drain length
+  - 掉血时间
+  - 掉血长度
 ---
 
 # Drain time

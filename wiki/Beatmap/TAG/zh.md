@@ -2,6 +2,9 @@
 tags:
   - multiplayer
   - co-op
+  - 多人
+  - 多人游戏
+  - 合作
 ---
 
 # TAG

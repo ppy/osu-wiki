@@ -3,6 +3,7 @@ stub: true
 tags:
   - SR
   - stars
+  - 星数
 ---
 
 # Star rating
