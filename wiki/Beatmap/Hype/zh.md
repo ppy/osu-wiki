@@ -8,14 +8,14 @@ tags:
 
 # 推荐
 
-Every [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) [beatmap](/wiki/Beatmap) has a **hype train** that roughly represents how many people are interested in seeing the map [ranked](/wiki/Beatmap/Category#ranked). Users can post special [beatmap discussions](/wiki/Beatmap_discussion) in the `General (All difficulties)` tab with the `Hype!` option to contribute to a map's hype train.
+每张[制作中和待定](/wiki/Beatmap/Category#制作中和待定-Work-in-Progress-and-Pending)[谱面](/wiki/Beatmap)都有一个**推荐队列**，大致反映希望此谱面[上架](/wiki/Beatmap/Category#ranked)的人数。用户可以用`推荐！`按钮，在`常规（所有难度）`标签页下发布特别的[谱面讨论帖](/wiki/Beatmap_discussion)来为谱面的推荐队列做出贡献。
 
 ## 上架要求
 
-Beatmaps need at least 5 hype (one complete bar of the hype train) to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a step towards getting the map ranked.
+谱面需要至少 5 次推荐（即一整条推荐队列）才能合格进入[提名](/wiki/Beatmap_ranking_procedure#nominations)阶段，也是使谱面上架过程中的一步。
 
 ## 限制
 
-Users start with 10 hypes, and they are consumed when used on beatmaps. Each hype takes a week to become available again.
+用户最初有 10 次推荐次数，在谱面上使用时会被消耗。每周会回复一次推荐次数。
 
 <!-- TODO: images of the beatmap page and the modding page -->

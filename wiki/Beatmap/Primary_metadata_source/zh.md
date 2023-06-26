@@ -11,7 +11,7 @@ tags:
   - 主要元数据源
 ---
 
-# Primary metadata source
+# 主要元数据源
 
 A **primary metadata source** is a source for `Artist`, `Title`, and `Source` fields in a [beatmap](/wiki/Beatmap)'s [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) officially promoted by the song's artist or their label.
 

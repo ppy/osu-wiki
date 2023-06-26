@@ -27,4 +27,4 @@ tags:
 
 # 仿真谱面
 
-**仿真[谱面](/wiki/Beatmap)**是模拟 [iNiS 游戏](/wiki/iNiS_games)中舞台的谱面。The term originates from a time where [mapping](/wiki/Beatmapping) was heavily inspired by iNiS. Today, the term "authentic" has little meaning, as generations of mappers have been inspired by each other instead of the original games.
+**仿真[谱面](/wiki/Beatmap)**是模拟 [iNiS 游戏](/wiki/iNiS_games)中舞台的谱面。此术语起源于[作图](/wiki/Beatmapping)很大程度上受到 iNiS 启发的时期。现在，由于一代代作图者相互启发而非受到原作启发，“仿真”一词意义已经不大。

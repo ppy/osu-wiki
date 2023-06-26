@@ -10,6 +10,6 @@ tags:
   - 总时长
 ---
 
-# Play time
+# 游玩时间
 
-**Play time** is the combined [break time](/wiki/Beatmap/Break) and [drain time](/wiki/Beatmap/Drain_time) of a [beatmap](/wiki/Beatmap). This does not include the lead-in or outro time. This usually correlates with the beatmap's song length.
+**游玩时间**是[谱面](/wiki/Beatmap)[休息时间](/wiki/Beatmap/Break)与[掉血时间](/wiki/Beatmap/Drain_time)的总和。游玩时间不包括前奏与尾奏时间。这通常与谱面的歌曲长度有关。

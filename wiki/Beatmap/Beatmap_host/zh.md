@@ -4,4 +4,4 @@ stub: true
 
 # 谱面所有者
 
-A **beatmap host** is the manager and uploader of a [beatmap](/wiki/Beatmap). They create the majority of a beatmap's difficulties and coordinate the creation of [guest difficulties](/wiki/Beatmap/Guest_difficulty). A beatmap host is usually responsible for finding [mods](/wiki/Modding) and contacting [Beatmap Nominators](/wiki/People/Beatmap_Nominators) to push their beatmap through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+**谱面所有者**是[谱面](/wiki/Beatmap)的管理者与上传者。他们创建了谱面的多数难度，协调[客串难度](/wiki/Beatmap/Guest_difficulty)的创建过程。谱面所有者通常要负责找[摸](/wiki/Modding)、联系[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)，以此推动其谱面通过[谱面审核流程](/wiki/Beatmap_ranking_procedure)。

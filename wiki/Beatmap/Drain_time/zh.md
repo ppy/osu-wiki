@@ -6,10 +6,10 @@ tags:
   - 掉血长度
 ---
 
-# Drain time
+# 掉血时间
 
-**Drain time** refers to the total duration of a [beatmap](/wiki/Beatmap) that requires the player to be active. It begins at the first [hit object](/wiki/Gameplay/Hit_object), ends at the end of the last hit object, and does not include [breaks](/wiki/Beatmap/Break). The word *drain* originates from [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Gameplay/Health) system, where the player's health is constantly decreasing as they play the map.
+**掉血时间**指的是[谱面](/wiki/Beatmap)需要玩家活跃游玩的总时长。掉血时间从第一个[打击物件](/wiki/Gameplay/Hit_object)处开始，在最后一个打击物件结尾处结束，不包括[休息时段](/wiki/Beatmap/Break)。*掉血*一词来源于 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 的[掉血](/wiki/Gameplay/Health)系统，玩家游玩谱面时，血量会持续减少。
 
-Beatmaps with very long drain times are typically referred to as *[marathons](/wiki/Beatmap/Marathon)* due to requiring endurance beyond the norm in order to be completed.
+由于需要超出常规的耐力才能完成，通常将掉血时间极长的谱面称作 *[马拉松](/wiki/Beatmap/Marathon)* 图。
 
-The beatmap info page on the website calculates drain time (labelled `Drain length`) based on only hit objects' start times, so if the last object of the map is a [slider](/wiki/Gameplay/Hit_object/Slider) or [spinner](/wiki/Gameplay/Hit_object/Spinner), the drain time will be displayed incorrectly.
+网站上的谱面信息页面只依据打击物件的开始时间计算掉血时间（网页上标为`游玩长度`），因此如果谱面的最后一个物件是[滑条](/wiki/Gameplay/Hit_object/Slider)或[转盘](/wiki/Gameplay/Hit_object/Spinner)，则会显示错误的掉血时间。

@@ -11,6 +11,6 @@ tags:
 
 # 休息时段
 
-**休息时段**是[谱面](/wiki/Beatmap)的一部分，此时没有[打击物件](/wiki/Gameplay/Hit_object)。在此时段期间，会暂时[掉血](/wiki/Gameplay/Health) is temporarily halted. Breaks usually allow the player to rest their arm for a short while and reposition their [input device](/wiki/Gameplay/Input_device).
+**休息时段**是[谱面](/wiki/Beatmap)的一部分，此时没有[打击物件](/wiki/Gameplay/Hit_object)。在此时段期间，会暂时停止[掉血](/wiki/Gameplay/Health)。休息时段通常让玩家可以短时间放松手臂，并重新摆放其[输入设备](/wiki/Gameplay/Input_device)。
 
-Depending on the enabled [settings](/wiki/Client/Beatmap_editor/Song_setup), letterboxes may appear when a break is initiated. In addition to this, a passing or failing graphic and sound may appear to indicate if a player is doing well or not. This will only appear if there is enough time for the graphic to show.
+取决于启用的[设置](/wiki/Client/Beatmap_editor/Song_setup)，休息时段开始时可能会出现黑边。除此之外，也可能出现通过或失败的图像与声音，指示玩家的表现好与否。仅当有足够时间显示图像时，才会出现图像与声音提示。

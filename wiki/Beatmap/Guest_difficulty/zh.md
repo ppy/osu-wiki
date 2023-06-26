@@ -20,7 +20,7 @@ Although not mandatory, having guest difficulties can be beneficial in many occa
 
 Guest difficulties are not to be confused with difficulties that feature multiple mappers, which are instead known as [collabs](/wiki/Beatmap/Beatmap_collaborations).
 
-## Ownership
+## 所有权
 
 ::: Infobox
 ![](img/gd_ownership.png "An example of the guest difficulty ownership control panel")
