@@ -65,6 +65,29 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 - [Livestream channel](https://www.twitch.tv/osuindonesia)
 - [Challonge brackets](https://challonge.com/OIT2023)
 
+## Participants
+
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifiers Z-Sum value) out of 61 registered players in total.
+
+| Seed No. | Player | Z-Sum |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
+| 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
+| 3 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.57 |
+| 4 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.56 |
+| 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.54 |
+| 6 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.45 |
+| 7 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 9.18 |
+| 8 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | 8.62 |
+| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.32 |
+| 10 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | 7.96 |
+| 11 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 7.84 |
+| 12 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 7.70 |
+| 13 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 7.63 |
+| 14 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.47 |
+| 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
+| 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
+
 ## Mappools
 
 ### Round of 16
