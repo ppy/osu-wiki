@@ -74,28 +74,28 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las entradas en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154 cm de altura, y nació el 6/4/1999.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154 cm de altura, y nació el 6/4/1999.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Diseñada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa fue una de las entradas en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
+Diseñada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las entradas en el concurso de diseño de mascotas para osu!taiko. Es muy estricta y exigente, perfeccionista y no le gusta cometer errores, especialmente en sus ritmos en osu!taiko. Pero más allá de su perspectiva fuerte, si llegas a su punto débil, puede ser esponjosa y linda. Tiene 14 años, nació el 25 de octubre con sangre tipo AB. Ella también mide 4 pies y 11 pulgadas y pesa 100 libras. Sus pasatiempos incluyen tocar la batería, mantenerse caliente en su capa y coleccionar gemas o rocas. Chirou ha hecho algunas apariciones en varias presentaciones de fanart de usuarios.
+Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es muy estricta y exigente, perfeccionista y no le gusta cometer errores, especialmente en sus golpes en osu!taiko. Pero más allá de su perspectiva fuerte, si llegas a su punto débil, puede ser esponjosa y linda. Tiene 14 años, nació el 25 de octubre con sangre tipo AB. Ella también mide 4 pies y 11 pulgadas y pesa 100 libras. Sus pasatiempos incluyen tocar la batería, mantenerse caliente en su capa y coleccionar gemas o rocas. Chirou ha hecho algunas apariciones en varias presentaciones de fanart de usuarios.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Diseñado por [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, también conocido como Taikonator 3000, fue una de las entradas en el concurso de diseño de mascotas para osu!taiko. Ganó atracción como un chiste y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de esto, es mucho más único que las otras sumisiones de mascotas para osu!taiko y ha aparecido en muchas sumisiones de fanart por usuarios de la comunidad.
+Diseñado por [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, también conocido como Taikonator 3000, fue uno de los participantes en el concurso de diseño de mascotas osu!taiko. Ha ganado algo de popularidad como broma interna y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de ello, es mucho más único que el resto de diseños de mascotas para osu!taiko y ha aparecido muchas veces en fanarts de varios usuarios.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las entradas más jóvenes en el concurso de diseño de mascotas para osu!taiko con solo 15 años de edad y tiene una gran pasión por tocar el tambor. Y las tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
+Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con solo 15 años de edad y tiene una gran pasión por tocar el tambor. Y las tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
