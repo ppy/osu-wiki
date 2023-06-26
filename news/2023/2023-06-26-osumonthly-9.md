@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, March 2023"
-date: 2023-06-26 09:00:00 +0000
+date: 2023-06-26 10:00:00 +0000
 ---
 
 Get up to speed on the month of... March?
