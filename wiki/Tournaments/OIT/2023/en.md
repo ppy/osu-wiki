@@ -67,7 +67,7 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifiers Z-Sum value) out of 61 registered players in total.
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifier Z-Sum value) out of 61 registered players in total.
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
