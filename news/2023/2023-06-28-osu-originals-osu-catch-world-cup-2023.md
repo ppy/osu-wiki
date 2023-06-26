@@ -10,7 +10,6 @@ If you missed South Korea's intense comeback from the loser's bracket of the [os
 
 Those [**osu! originals**](/wiki/osu!_originals) were painstakingly produced by both new and veteran artists for [2023's osu!catch World Cup](/wiki/Tournaments/CWC/2023), so check out the songs for yourself (...and maybe map one, if you're into that sort of thing):
 
-
 <div align="center">
     <video width="95%" controls>
         <source src="LINK" type="video/mp4" preload="none">
@@ -22,7 +21,6 @@ Those [**osu! originals**](/wiki/osu!_originals) were painstakingly produced by 
 Back for their third world cup in a row, [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) is practically a permanent resident of our official tournaments (which is a good thing, obviously).
 
 [Chemical Diving](https://osu.ppy.sh/beatmapsets/2007952) by [Rocma](https://osu.ppy.sh/users/566276) and [Du5t](https://osu.ppy.sh/users/6053071) slotted in as a *Hard Rock* pick for the [Finals mappool](/wiki/Tournaments/CWC/2023#finals), and proved itself as a testing ground for this year's strongest teams. In the decisive round showcased above, the US barely overtook South Korea by a slim 17,000 points!
-
 
 acted as a *Free Mod* pick in the [Grand Finals mappool](/wiki/Tournaments/TWC/2023#grand-finals). If you think you can handle peak osu!taiko gameplay, give it a try.
 
