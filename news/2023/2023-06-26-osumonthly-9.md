@@ -12,7 +12,7 @@ Wait, there was another one of these? o.O
 
 Welcome to the **9th** and **last edition** of [osu!monthly season 3](/wiki/Community/osu!monthly#archives), a very special one to send the series off.
 
-Our librarian here at osu!monthy headquarters has uncovered a secret document containing not only all the interesting things that happened that month, but also exclusive correspondences with a certain *tenacious player* and one *influential mapper*.
+Our librarian here at osu!monthly headquarters has uncovered a secret document containing not only all the interesting things that happened that month, but also exclusive correspondences with a certain *tenacious player* and one *influential mapper*.
 
 Maybe something in here will evoke memories, or perhaps serve as a reminder for upcoming events.
 
