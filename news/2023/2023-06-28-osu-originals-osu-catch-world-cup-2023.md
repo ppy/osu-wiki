@@ -77,7 +77,7 @@ For those of you who want to jump straight into mapping, check out the Featured 
 - [**Halv**](LINK)
 - [**kuro**](LINK)
 
-And as per usual, send your appreciation [mangomizer](https://osu.ppy.sh/users/1893718)'s way Without him, these osu! originals wouldn't have happened. Thanks, mango.
+And as per usual, send your appreciation [mangomizer](https://osu.ppy.sh/users/1893718)'s way. Without him, these osu! originals wouldn't have happened. Thanks, mango.
 
 What can you look forward to next? Aside from a new batch of osu! originals for the upcoming osu!mania 4K World Cup, we have another Featured Artist set to arrive this Saturday. If you like music (which you do), keep track of the [@osugame Twitter](https://twitter.com/osugame) or the `#featured-artists` channel in the [osu! Discord server](https://discord.com/invite/ppy)!
 
