@@ -9,7 +9,7 @@ tags:
 
 ![Una captura de pantalla del género, el idioma y las etiquetas en una página de beatmap](img/beatmap-info-ES.png "El género y el idioma se indican en la página del mapa.")
 
-Los [mapas](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) de un mapa.
+Los [mapas](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) de un mapa.
 
 El género y el idioma no tienen ninguna función en el juego, pero estarán disponibles como opciones de búsqueda en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 

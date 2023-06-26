@@ -30,7 +30,7 @@ tags:
 
 ## 作图
 
-在创建谱面时，确定 BPM 和偏移值的[时间点](/wiki/Beatmapping/Timing_section)能保证[打击物件](/wiki/Gameplay/Hit_object)能[对齐](/wiki/Beatmapping/Snapping)到[时间线](/wiki/Client/Beatmap_editor/Timelines)上。这能保证玩家能跟着节拍游玩。
+在创建谱面时，确定 BPM 和偏移值的[时间点](/wiki/Client/Beatmap_editor/Timing)能保证[打击物件](/wiki/Gameplay/Hit_object)能[对齐](/wiki/Beatmapping/Snapping)到[时间线](/wiki/Client/Beatmap_editor/Timelines)上。这能保证玩家能跟着节拍游玩。
 
 [谱面编辑器](/wiki/Client/Beatmap_editor) 的 [测定时间轴 (Timing) 标签页](/wiki/Client/Beatmap_editor/Timing)包含了一个用于估计 BPM 的工具，可以让谱师跟着歌曲的节拍点击来测定谱面的时间轴。然而，所获得的结果通常需要更进一步调整，才能精确无误。
 

@@ -14,7 +14,7 @@ tags:
 
 ![RL 模组图标](/wiki/shared/mods/RL.png "Relax (RL) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -32,11 +32,11 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-**Relax** [游戏模组](/wiki/Game_modifier)旨在给予令玩家放松的游戏体验。出于其功能，此模组典型的用途是分析或练习[谱面](/wiki/Beatmap)打击物件的棘手[排法](/wiki/Beatmap/Pattern)，或是让玩家的手指放松一下。
+**Relax** [游戏模组](/wiki/Gameplay/Game_modifier)旨在给予令玩家放松的游戏体验。出于其功能，此模组典型的用途是分析或练习[谱面](/wiki/Beatmap)打击物件的棘手[排法](/wiki/Beatmap/Pattern)，或是让玩家的手指放松一下。
 
 ### osu!
 
-在 [osu!](/wiki/Game_mode/osu!) 中启用此模组后，玩家只需要将光标移到[打击物件](/wiki/Hit_object)上， osu! 会自动点击物件。此模组让玩家在所有游戏模式中不会失败。
+在 [osu!](/wiki/Game_mode/osu!) 中启用此模组后，玩家只需要将光标移到[打击物件](/wiki/Gameplay/Hit_object)上， osu! 会自动点击物件。此模组让玩家在所有游戏模式中不会失败。
 
 此模组也会禁用游戏中界面，因此会隐藏[分数](/wiki/Gameplay/Score)、[连击数](/wiki/Beatmapping/Combo)和断连。可以按`Shift`+`Tab` 键重新启用游戏中界面。除此之外，每分钟转数（SPM）也会翻倍，让玩家更快旋转转盘，获得与正常游玩相比更高的分数。
 

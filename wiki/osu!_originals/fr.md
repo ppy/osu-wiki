@@ -2,7 +2,7 @@
 
 Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fait leur première apparition sur) osu! ou d'autres événements en rapport avec osu! tels que les tournois, les concours, et les annonces de [Featured Artists](/wiki/People/Featured_Artists). Bien que les osu! originals ne soient pas toutes sous licence officielle et dans la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists), les musiques qui le sont sont généralement distinguées par le label `ORIGINAL` sur les pages de leurs artistes respectifs.
 
-Toutes les osu! originals sous licence officielle peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui ne sont pas sous licence officielle peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) pour plus d'informations.
+Toutes les osu! originals sous licence officielle peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui ne sont pas sous licence officielle peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines) pour plus d'informations.
 
 ## Liste des osu! originals
 
@@ -197,6 +197,16 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [D-D-Dice vs. siromaru - Catch the Glory](https://www.youtube.com/watch?v=YBFh4DON-CA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1794214) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2023](/wiki/Tournaments/CWC/2023)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Halv vs kuro - Evreka | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Tiebreaker des Grandes Finales |
+| [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion) | [#1](https://osu.ppy.sh/beatmapsets/2011522) | NM1 des Grandes Finales |
+| LV.4 - Chemical diving[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | HR1 des finales |
+| [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | HD3 des demi-finales |
+| Toromaru - Erinyes[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | HR3 des quarts de finale |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 

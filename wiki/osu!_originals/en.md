@@ -2,7 +2,7 @@
 
 **osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
-All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) for more information.
+All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
 
 ## List of osu! originals
 
@@ -197,6 +197,16 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [D-D-Dice vs. siromaru - Catch the Glory](https://www.youtube.com/watch?v=YBFh4DON-CA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1794214) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2023](/wiki/Tournaments/CWC/2023)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Halv vs kuro - Evreka | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Grand Finals tiebreaker |
+| [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion) | [#1](https://osu.ppy.sh/beatmapsets/2011522) | Grand Finals NM1 |
+| LV.4 - Chemical diving[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | Finals HR1 |
+| [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinals HD3 |
+| Toromaru - Erinyes[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Quarterfinals HR3 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 

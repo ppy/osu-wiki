@@ -14,8 +14,8 @@ tags:
 
 ![FI 模组图标](/wiki/shared/mods/FI.png "Fade In (FI) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*请勿与 [Hidden （模组）](/wiki/Game_modifier/Hidden) 或 [Flashlight （模组）](/wiki/Game_modifier/Flashlight) 混淆。*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*请勿与 [Hidden （模组）](/wiki/Gameplay/Game_modifier/Hidden) 或 [Flashlight （模组）](/wiki/Gameplay/Game_modifier/Flashlight) 混淆。*
 
 ## 关于
 
@@ -24,11 +24,11 @@ tags:
 - 得分系数： 1.00x
 - 默认快捷键： `F`
 - 兼容的游戏模式： ![][osu!mania]
-- 变体： [Hidden](/wiki/Game_modifier/Hidden)
+- 变体： [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
 
 ## 说明
 
-**Fade In** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过隐藏音符并在其接近[判定](/wiki/Gameplay/Judgement)线时渐显来增加[谱面](/wiki/Beatmap)难度，也因此而得名。
+**Fade In** [游戏模组](/wiki/Gameplay/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过隐藏音符并在其接近[判定](/wiki/Gameplay/Judgement)线时渐显来增加[谱面](/wiki/Beatmap)难度，也因此而得名。
 
 音符渐显的速度取决于连击数，较高连击数会使音符渐显推迟、延长其不可见的时间。换而言之，玩家的连击数越高，就会越晚显示音符。
 

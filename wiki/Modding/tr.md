@@ -27,7 +27,7 @@ Bir beatmap setini modlamak için, en güncel sürümü indirerek ve onun [tart�
 
 Bir sorun ile karşı karşıya geldiğinizde, ilgili vuruş objelerini seçin, ardından zaman damgası bilgisini metin olarak kopyalamak için kopyalama kısayolunu (`Ctrl` + `C`) kullanın. Beatmapin tartışma kısmında, mevcut zaman damgalarını yapıştırın (`Ctrl` + `V`) ve geri bildirimlerinizi ekleyin. `Zaman Çizgisi` sekmesi beatmapin spesifik kısımlarını ile ilgili sorunlar için kullanılır, `Genel (Bu zorluk)` sekmesi beatmapin daha geniş kısımlarına geri bildirim bırakmak için kullanılır, ve `Genel (Tüm zorluklar)` ise beatmap setinin tüm zorluklarını ilgilendiren sorunlar için kullanılır.
 
-Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) bakınız.
+Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) bakınız.
 
 Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Modding/Kudosu) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak için başvururken referans alınır.
 
@@ -39,4 +39,4 @@ Pek çok mod gönderisi bir beatmapteki hatalara değinir. Örneğin, beatmapin 
 
 Beatmaplemenin alternatif yollarını belirtmek bir başka yaygın mod gönderisi türüdür. Beatmapin bir kısmı mevcut haliyle kabul edilebilir olsa da, bir modlayıcı farklı bir şekilde tasarlandığında daha çok nasıl geliştirilebileceğini açıklayabilir.
 
-Dereceli durumunu hedefleyen beatmaplerde, [Derecelendirme Kriterlerine](/wiki/Ranking_Criteria) uyulduğundan emin olmak bir zorunluluktur. Pek çok mod gönderisi doğrudan bu kriterlerden alıntılanan sorunlara parmak basar.
+Dereceli durumunu hedefleyen beatmaplerde, [Derecelendirme Kriterlerine](/wiki/Ranking_criteria) uyulduğundan emin olmak bir zorunluluktur. Pek çok mod gönderisi doğrudan bu kriterlerden alıntılanan sorunlara parmak basar.

@@ -15,9 +15,9 @@ tags:
 
 *À ne pas confondre avec [Beatmap](/wiki/Beatmap).*
 
-La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Gameplay/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Beatmapping/Timing_section) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmap/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
+La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Gameplay/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Client/Beatmap_editor/Timing) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmap/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
 
-Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
+Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
 
 Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
 
@@ -25,9 +25,9 @@ Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses 
 
 ## Niveaux de difficulté
 
-*Voir aussi : [Nom de la difficulté](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Voir aussi : [Nom de la difficulté](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et exigences spécifiques de chacun d'entre eux se trouvent dans les [critères de classement](/wiki/Ranking_Criteria) de leur mode respectif.
+Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et exigences spécifiques de chacun d'entre eux se trouvent dans les [critères de classement](/wiki/Ranking_criteria) de leur mode respectif.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -80,4 +80,4 @@ Dans certains cas, comme dans [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dif
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert : 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+ : 6.5★ et plus
 
-Notez que si les niveaux de difficulté prévus pour la plupart des beatmaps correspondent aux couleurs ou aux fourchettes de niveaux qui leur sont attribuées, certains peuvent s'en écarter sensiblement en raison de certains facteurs. C'est pourquoi les [critères de classement](/wiki/Ranking_Criteria) offrent des règles de base plus décisives pour déterminer le niveau de difficulté réel d'une beatmap, indépendamment de son star rating.
+Notez que si les niveaux de difficulté prévus pour la plupart des beatmaps correspondent aux couleurs ou aux fourchettes de niveaux qui leur sont attribuées, certains peuvent s'en écarter sensiblement en raison de certains facteurs. C'est pourquoi les [critères de classement](/wiki/Ranking_criteria) offrent des règles de base plus décisives pour déterminer le niveau de difficulté réel d'une beatmap, indépendamment de son star rating.

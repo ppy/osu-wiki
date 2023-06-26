@@ -7,7 +7,7 @@ tags:
 
 # 背景
 
-*关于背景的规定，请参阅：[谱面上架标准](/wiki/Ranking_Criteria)*
+*关于背景的规定，请参阅：[谱面上架标准](/wiki/Ranking_criteria)*
 
 **背景** (***BG***) 图片和视频能被添加在 [谱面](/wiki/Beatmap) 之中。仅写作“背景”或“bg”时，往往指的是背景图片。
 

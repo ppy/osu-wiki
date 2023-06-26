@@ -62,7 +62,7 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 
 ### [Aspire](Aspire)
 
-**Aspire** es un concurso de mapeo único en su clase donde los mapeadores participantes son desafiados a crear el mapa más innovador imaginable sin ninguna restricción de los [criterios de clasificación](/wiki/Ranking_Criteria). El concurso anima a los mapeadores a explorar en la medida de lo posible las posibilidades técnicas del juego.
+**Aspire** es un concurso de mapeo único en su clase donde los mapeadores participantes son desafiados a crear el mapa más innovador imaginable sin ninguna restricción de los [criterios de clasificación](/wiki/Ranking_criteria). El concurso anima a los mapeadores a explorar en la medida de lo posible las posibilidades técnicas del juego.
 
 | Concurso No. | Canción | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |

@@ -12,17 +12,17 @@ outdated_translation: true
 
 *[ビートマップ](/wiki/Beatmap)と混同しないでください。*
 
-ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/Client/File_formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Gameplay/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Beatmapping/Timing_section)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmap/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
+ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/Client/File_formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Gameplay/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Client/Beatmap_editor/Timing)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmap/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
 
-難易度のヒットオブジェクトは[パターン](/wiki/Beatmap/Pattern)を構成しますが、ゲームモードごとに異なり、難易度をプレイする際の全体的なルックアンドフィールのトーンを設定します。ビートマップのゲーム性は、ビートマップの作者が設定する様々な[難易度設定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)や、[ゲームモディファイア](/wiki/Gameplay/Game_modifier)によって変更されます。
+難易度のヒットオブジェクトは[パターン](/wiki/Beatmap/Pattern)を構成しますが、ゲームモードごとに異なり、難易度をプレイする際の全体的なルックアンドフィールのトーンを設定します。ビートマップのゲーム性は、ビートマップの作者が設定する様々な[難易度設定](/wiki/Client/Beatmap_editor/Song_setup#difficulty)や、[ゲームモディファイア](/wiki/Gameplay/Game_modifier)によって変更されます。
 
 聴覚的な観点から難易度は、フィードバックの追加レイヤーとして機能する1つまたは複数のオーディオサンプル、もしくは[ヒットサウンド](/wiki/Beatmapping/Hitsound)のセットを提供することで、曲を補強することができます。
 
 ## 難易度レベル
 
-*こちらも参照してください: [難易度の命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+*こちらも参照してください: [難易度の命名](/wiki/Ranking_criteria/Difficulty_naming)*
 
-これらはビートマップの代表的な難易度です。それぞれの具体的な定義や要件は、それぞれのモードの[ランキング基準](/wiki/Ranking_Criteria)に記載されています。
+これらはビートマップの代表的な難易度です。それぞれの具体的な定義や要件は、それぞれのモードの[ランキング基準](/wiki/Ranking_criteria)に記載されています。
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -73,4 +73,4 @@ outdated_translation: true
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ 以上
 
-ほとんどのビートマップの意図する難易度は、与えられたアイコンと一致していますが、中には大きく乖離しているものもあります。そのため、[ランキング基準](/wiki/Ranking_Criteria)では、難易度の決定やビートマップのスプレッドの評価について、より正確なルールを定義しています。
+ほとんどのビートマップの意図する難易度は、与えられたアイコンと一致していますが、中には大きく乖離しているものもあります。そのため、[ランキング基準](/wiki/Ranking_criteria)では、難易度の決定やビートマップのスプレッドの評価について、より正確なルールを定義しています。

@@ -26,7 +26,7 @@ Le [suivi des issues](https://github.com/ppy/osu-wiki/issues) de l'osu! wiki con
 
 Sur GitHub, les pull requests et les issues peuvent être tagués et classés à l'aide de [labels](https://github.com/ppy/osu-wiki/labels), qui montrent différents aspects d'un pull request ou d'un issue. Les labels sont informatifs, définis par les maintainers du wiki, et sont généralement auto-explicatifs. Bien qu'ils ne nécessitent aucune action de la part de l'utilisateur, les labels rouges servent de rappel ou d'appel à l'action pour les autres maintainers :
 
-- `rule change` : le changement affecte un ensemble de règles existant, comme les [critères de classement](/wiki/Ranking_Criteria), et doit être examiné par le propriétaire de la zone.
+- `rule change` : le changement affecte un ensemble de règles existant, comme les [critères de classement](/wiki/Ranking_criteria), et doit être examiné par le propriétaire de la zone.
 - `blocked` : le changement présente des problèmes qui doivent être résolus avant de poursuivre, ou dépend d'un autre problème qui doit être résolu en premier lieu.
 - `needs rebase` : la pull request comporte trop de petits commits non structurés, qui doivent subir un rebase et être mieux formulées ; cette opération est généralement effectuée par les maintainers juste avant la fusion.
 

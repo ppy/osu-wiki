@@ -40,7 +40,7 @@ Vous pouvez également quitter et rouvrir osu! ou lancer l'updater pour recharge
 
 ### Que sont les skinning sets ?
 
-*Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
 
 Dans osu!, il y a plus de 200 éléments qui peuvent être skinnés (sans compter les images animées individuelles). Cependant, vous n'êtes pas obligé de tous les skinner. Vous pouvez simplement les supprimer car osu! utilisera les images par défaut pour ceux que vous n'avez pas inclus.
 

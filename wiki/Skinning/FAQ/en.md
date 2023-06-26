@@ -40,7 +40,7 @@ You can also exit and reopen osu! or start the updater to reload the skin, but i
 
 ### What are skinning sets?
 
-*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
 
 In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
 
