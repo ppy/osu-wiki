@@ -4,7 +4,7 @@ title: "osu! originals - osu!catch World Cup 2023"
 date: 2023-06-28 11:00:00 +0000
 ---
 
-If you missed South Korea's intense comeback from the loser's bracket of the [osu!catch World Cup](/wiki/Tournaments/CWC) last weekend, you might've also missed **5 brand-new songs** created specifically for the tournament!
+If you missed South Korea's intense comeback from the loser's bracket of the [osu!catch World Cup](/wiki/Tournaments/CWC/2023) last weekend, you might've also missed **5 brand-new songs** created specifically for the tournament!
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
