@@ -46,7 +46,7 @@ A master of their vocal-chopping craft, [**MYUKKE.**](https://osu.ppy.sh/beatmap
 
 ### [kanemiko - Cold Fusion](https://osu.ppy.sh/beatmapsets/2011522)
 
-While [**kanemiko**](https://osu.ppy.sh/beatmaps/artists/367) may not be an osu! Featured Artist directly, their music has already serenaded osu! through [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205). 
+While [**kanemiko**](https://osu.ppy.sh/beatmaps/artists/367) may not have been an osu! Featured Artist directly up until now, their music has already serenaded osu! through [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205).
 
 Specifically, their track [Electrolytes](https://osu.ppy.sh/beatmapsets/1774562) became an icon in the osu!catch world, inspiring [Cold Fusion](https://osu.ppy.sh/beatmapsets/2011522) mapped by [Jemzuu](https://osu.ppy.sh/users/7890134) and [Zyzyx](https://osu.ppy.sh/users/2888013). This *No Mod* pick was also the opener for the [Grand Finals mappool](/wiki/Tournaments/CWC/2023#grand-finals)!
 
