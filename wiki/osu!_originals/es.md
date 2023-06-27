@@ -202,7 +202,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| Halv vs. kuro - Evreka[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Desempate de la gran final |
+| [Halv vs. kuro - Evreka](https://soundcloud.com/halvsan/halv-vs-kuro-evreka)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Desempate de la gran final |
 | [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011522) | Gran final NM1 |
 | LV.4 - Chemical diving[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | Final HR1 |
 | [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinales HD3 |
