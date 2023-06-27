@@ -58,7 +58,7 @@ Specifically, their track [Electrolytes](https://osu.ppy.sh/beatmapsets/1774562)
 
 Just like **kanemiko**, both [**Halv**](LINK) and [**kuro**](LINK) have been indirectly featured on other artists' listings: **Halv** with a few tunes on [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205) and **kuro** with *Message From the Dystopia: Dear UtopiA* on [rN](https://osu.ppy.sh/beatmaps/artists/190)'s listing.
 
-[Ascendance](https://osu.ppy.sh/users/2931883), [Deif](https://osu.ppy.sh/users/318565), [Greaper](https://osu.ppy.sh/users/2369776), [Jemzuu](https://osu.ppy.sh/users/7890134), [Rocma](https://osu.ppy.sh/users/566276), [autofanboy](https://osu.ppy.sh/users/636114), [Kyuare](https://osu.ppy.sh/users/2705312), and [Yumeno Himiko](https://osu.ppy.sh/users/1806962) put their souls into [Evreka](https://osu.ppy.sh/beatmapsets/2011570), the [**Grand Finals**](/wiki/Tournaments/CWC/2023#grand-finals) **tiebreaker**, capping out at an unreal **9.37 stars**. Props to everyone involved for creating a special climax for this year's osu!catch World Cup!
+[Ascendance](https://osu.ppy.sh/users/2931883), [Deif](https://osu.ppy.sh/users/318565), [Greaper](https://osu.ppy.sh/users/2369776), [Jemzuu](https://osu.ppy.sh/users/7890134), [Rocma](https://osu.ppy.sh/users/566276), [autofanboy](https://osu.ppy.sh/users/636114), [Kyuare](https://osu.ppy.sh/users/2705312), and [Yumeno Himiko](https://osu.ppy.sh/users/1806962) put their souls into [Evreka](https://osu.ppy.sh/beatmapsets/2011570), the **[Grand Finals](/wiki/Tournaments/CWC/2023#grand-finals) tiebreaker**, capping out at an unreal **9.37 stars**. Props to everyone involved for creating a special climax for this year's osu!catch World Cup!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
