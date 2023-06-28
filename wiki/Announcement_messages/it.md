@@ -49,5 +49,4 @@ Per inviare un annuncio in chat, apri la [pagina di chat](https://osu.ppy.sh/com
 ## Note
 
 [^note-images]: Le immagini non sono compatibili coi messaggi di annuncio.
-
 [^note-desc]: A differenza di altri campi di entrata, le descrizioni sono opzionali.
