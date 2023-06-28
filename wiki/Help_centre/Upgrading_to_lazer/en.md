@@ -10,7 +10,7 @@ The eventual goal is that this version will be released as an update which will 
 
 ## Feature comparison
 
-*For a list of differences regarding game mechanics, see [Client/Release stream/Lazer/Feature comparison](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)])*
+*For a list of differences regarding game mechanics, see [Client/Release stream/Lazer/Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
 
