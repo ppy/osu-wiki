@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8005b7188637f336568a496362d2f01a2d7ab9fe
+---
+
 # osu!taiko 랭킹 크리테리아
 
 ***참고: 이 문서는 [일반 랭킹 크리테리아](/wiki/Ranking_criteria)의 연장입니다.***

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 56bb211d402cccb87387244bd25c0a1ec937c9cc
+---
+
 # Tim osu!monthly
 
 **Tim osu!monthly** merupakan kelompok yang mengelola buletin [osu!monthly](/wiki/Community/osu!monthly).

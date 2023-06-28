@@ -28,7 +28,7 @@ Ca și ghid în lumea ritmului, beat-urilor și luminilor, osu! are mult de ofer
 
 [Interfața](/wiki/Client/Interface) • [Opțiuni](/wiki/Client/Options) • [Setări vizuale](/wiki/Client/Interface/Visual_settings) • [Taste comenzi rapide](/wiki/Client/Keyboard_shortcuts) • [Fișierul de configurații](/wiki/Client/Program_files/User_configuration_file) • [Fișierele de program](/wiki/Client/Program_files)
 
-[Formate fișier](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Formate fișier](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

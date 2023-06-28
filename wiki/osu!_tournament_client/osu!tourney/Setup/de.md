@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aeda2ba963a9165ce2614815fff1a948df2b51f6
+---
+
 # Einrichtung von osu!tourney
 
 *Siehe auch: [osu!-Turnier-Client](/wiki/osu!_tournament_client)*\
