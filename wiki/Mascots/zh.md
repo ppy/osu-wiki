@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
+---
+
 # 吉祥物
 
 *参见: [吉祥物/画廊](/wiki/Mascots/Gallery)*
@@ -92,7 +97,7 @@ Chirou 是在 osu!taiko 吉祥物创作大赛中被选出的一位社区创作�
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator，又称为 Taikonator 3000，是在 osu!taiko 吉祥物创作大赛中被选出的一位社区创作吉祥物。由于某些原因，他的诞生饱含谜团，身上包含了一些玩笑和梗，这使他获得了一些吸引力和知名度。因此，他比其他 osu!taiko 吉祥物更为独特。他也在很多同人作品中出现过。
+Taikonator，又称为 Taikonator 3000，是在 osu!taiko 吉祥物创作大赛中被选出的一位社区创作吉祥物，由 [Lemia-Chan](https://osu.ppy.sh/users/8506749) 设计。由于某些原因，他的诞生饱含谜团，身上包含了一些玩笑和梗，这使他获得了一些吸引力和知名度。因此，他比其他 osu!taiko 吉祥物更为独特。他也在很多同人作品中出现过。
 
 ### Tama
 
