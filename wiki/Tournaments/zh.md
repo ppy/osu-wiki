@@ -59,7 +59,7 @@
 | [osu!catch 世界杯 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
-| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | *TBD* | *TBD* | *TBD* |
+| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
