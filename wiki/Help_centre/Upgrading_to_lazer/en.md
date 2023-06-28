@@ -38,14 +38,6 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Song select grouping modes | ![Yes][true] | ![No][false] |
 | In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
 | Dynamic customisable skinning components | ![No][false] | ![Yes][true] |
-| Combo bursts and associated sounds | ![Yes][true] | ![No][false] |
-| Skinnable gameplay countdown | ![Yes][true] | ![No][false] |
-| Skinnable gameplay leaderboard | ![Yes][true] | ![No][false] |
-| Skinnable cutscene skip button | ![Yes][true] | ![No][false] |
-| Skinnable section fail/pass | ![Yes][true] | ![No][false] |
-| Skinnable results screen | ![Yes][true] | ![No][false] |
-| Skinnable song select interface components | ![Yes][true] | ![No][false] |
-| Skinnable pause menu | ![Yes][true] | ![No][false] |
 
 ### Interface
 
