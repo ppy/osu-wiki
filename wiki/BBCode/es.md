@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # BBCode
 
 **BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuario y descripciones de beatmaps.
