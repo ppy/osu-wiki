@@ -91,7 +91,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 - La beatmap doit être terminée par le concurrent seul. Aucune collaboration n'est autorisée.
 - Les beatmaps ne doivent pas être publiées sur le site d'osu! par le biais du Beatmap Submission System (BSS). Toutes les soumissions au concours doivent être anonymes pendant les phases de jugement afin d'éviter toute partialité.
 - Une seule difficulté est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
-- Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_Criteria).
+- Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_criteria).
 - Si vous soumettez plusieurs beatmaps, la dernière sera celle prise en compte.
 - L'envoi d'une participation implique la compréhension et l'acceptation des règles énoncées ci-dessus.
 

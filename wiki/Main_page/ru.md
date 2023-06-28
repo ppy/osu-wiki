@@ -26,7 +26,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Интерфейс](/wiki/Client/Interface) • [Настройки](/wiki/Client/Options) • [Визуальные настройки](/wiki/Client/Interface/Visual_settings) • [Горячие клавиши](/wiki/Client/Keyboard_shortcuts) • [Файл конфигурации](/wiki/Client/Program_files/User_configuration_file) • [Программные файлы](/wiki/Client/Program_files)
 
-[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -46,9 +46,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Все карты в osu! созданы благодаря бурной фантазии стремительно развивающегося сообщества. Вы всегда хотели поделиться любимой музыкой с другими, но не знали как? Познакомьтесь со встроенным игровым редактором и его возможностями.
 
-Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
+Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
+Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
 
 Занятия: [Маппинг](/wiki/Beatmapping) • [Техники маппинга](/wiki/Beatmapping/Mapping_techniques) • [Сторибординг](/wiki/Storyboard) • [Скиннинг](/wiki/Skinning)
 
@@ -61,7 +61,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Публикация карт](/wiki/Beatmapping/Beatmap_submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
 
-[Критерии ранкинга](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Критерии ранкинга](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -70,9 +70,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Прочитайте о процедурах и правилах, которые обеспечивают безопасность osu! и его сообщества, начиная с лицензирования музыки и рекомендаций для медиа и заканчивая правилами чата и форума.
 
-[Правила](/wiki/Rules) • [Нормы поведения](/wiki/Rules/Contributor_Code_of_Conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Нормы поведения](/wiki/Rules/Contributor_code_of_conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Медиа: [Рекомендации для медиа](/wiki/Rules/Content_Usage_Guidelines) • [Процедура оценки медиа](/wiki/Rules/Content_Voting_Process) • [Откровенное содержимое](/wiki/Rules/Explicit_Content) • [Правила для песен](/wiki/Rules/Song_Content_Rules) • [Критерии визуального содержания](/wiki/Rules/Visual_Content_Considerations)
+Медиа: [Рекомендации для медиа](/wiki/Rules/Content_usage_guidelines) • [Процедура оценки медиа](/wiki/Rules/Content_voting_process) • [Откровенное содержимое](/wiki/Rules/Explicit_content) • [Правила для песен](/wiki/Rules/Song_content_rules) • [Критерии визуального содержания](/wiki/Rules/Visual_content_considerations)
 
 [Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_licensing)
 
@@ -131,7 +131,7 @@ osu! бы не было без многих пользователей, учас
 
 osu! wiki, как и почти всё, связанное с игрой, написана и поддерживается добровольцами. Если вы хотите предложить идею, сообщить о проблеме, или даже написать собственную статью, загляните в [репозиторий osu-wiki](https://github.com/ppy/osu-wiki) на GitHub.
 
-[История osu!](/wiki/History_of_osu!) • [История онлайн-рейтингов](/wiki/History_of_osu!/Online_rankings) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
+[История osu!](/wiki/History_of_osu!) • [История онлайн-рейтингов](/wiki/History_of_osu!/Online_rankings) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
 
 [Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_styling_criteria) • [Критерии оформления новостей](/wiki/News_styling_criteria)
 

@@ -23,7 +23,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Interfejs](/wiki/Client/Interface) • [Opcje](/wiki/Client/Options) • [Ustawienia wizualne](/wiki/Client/Interface/Visual_settings) • [Skróty klawiszowe](/wiki/Client/Keyboard_shortcuts) • [Plik konfiguracyjny](/wiki/Client/Program_files/User_configuration_file) • [Pliki gry](/wiki/Client/Program_files)
 
-[Formaty plików](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Formaty plików](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,9 +39,9 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # [Edytor beatmap](/wiki/Client/Beatmap_editor)
 
-Sekcje: [Kompozycja](/wiki/Client/Beatmap_editor/Compose) • [Edytor scenorysu](/wiki/Client/Beatmap_editor/Design) • [Rytm](/wiki/Client/Beatmap_editor/Timing) • [Ustawienia beatmapy](/wiki/Client/Beatmap_editor/Song_Setup)
+Sekcje: [Kompozycja](/wiki/Client/Beatmap_editor/Compose) • [Edytor scenorysu](/wiki/Client/Beatmap_editor/Design) • [Rytm](/wiki/Client/Beatmap_editor/Timing) • [Ustawienia beatmapy](/wiki/Client/Beatmap_editor/Song_setup)
 
-Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Odległość między obiektami](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [Przeładowanie scenorysu](/wiki/Client/Beatmap_editor/SB_Load) • [Osie czasu](/wiki/Client/Beatmap_editor/Timelines)
+Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Odległość między obiektami](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [Przeładowanie scenorysu](/wiki/Client/Beatmap_editor/SB_load) • [Osie czasu](/wiki/Client/Beatmap_editor/Timelines)
 
 [Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Beatmap/Difficulty) • [Techniki w tworzeniu beatmap](/wiki/Beatmapping/Mapping_techniques) • [Tworzenie scenorysów](/wiki/Storyboard#storyboarding)
 
@@ -52,7 +52,7 @@ Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/w
 
 [Przesyłanie beatmap](/wiki/Beatmapping/Beatmap_submission) • [Modowanie](/wiki/Modding) • [System rankingowy](/wiki/Beatmap_ranking_procedure) • [Gildia twórców beatmap](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Kryteria rankingowe](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Kryteria rankingowe](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">

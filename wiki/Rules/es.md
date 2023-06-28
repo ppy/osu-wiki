@@ -36,7 +36,7 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 
 ## Reglas de Envío de Mapas
 
-*Nota: Estas reglas se aplican a **todos los mapas enviados**, no solamente a los clasificados. Para reglas más específicas relacionadas con los Mapas clasificados, vea los [Criterios de clasificación](/wiki/Ranking_Criteria).*
+*Nota: Estas reglas se aplican a **todos los mapas enviados**, no solamente a los clasificados. Para reglas más específicas relacionadas con los Mapas clasificados, vea los [Criterios de clasificación](/wiki/Ranking_criteria).*
 
 Estas reglas aplican estrictamente a los mapas que sean enviados a través del [Sistema de Envío de Mapas](/wiki/Beatmapping/Beatmap_submission) dentro del juego. Estos hilos/discusiones son creados a través del cliente de osu! cuando un mapa es enviado a través del [editor](/wiki/Client/Beatmap_editor).
 

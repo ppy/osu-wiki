@@ -37,11 +37,11 @@ Although many Pending and Work-in-progress beatmaps meet these criteria, few are
 
 Beatmaps entering the Loved category are required to follow some additional rulesets:
 
-- [Some points from the Metadata section of the ranking criteria](/wiki/Ranking_Criteria#metadata):
+- [Some points from the Metadata section of the ranking criteria](/wiki/Ranking_criteria#metadata):
   - Song title, artist, and source should be correct in all cases.
   - Beatmap tags should properly list all contributors (guest difficulty creators, storyboarders, etc.).
-- [Song Content Rules](/wiki/Rules/Song_Content_Rules)
-- [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+- [Song Content Rules](/wiki/Rules/Song_content_rules)
+- [Visual Content Considerations](/wiki/Rules/Visual_content_considerations)
 
 Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap audio files should have an average bitrate of at least 128 kbps.
 

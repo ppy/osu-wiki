@@ -28,7 +28,7 @@ Ca și ghid în lumea ritmului, beat-urilor și luminilor, osu! are mult de ofer
 
 [Interfața](/wiki/Client/Interface) • [Opțiuni](/wiki/Client/Options) • [Setări vizuale](/wiki/Client/Interface/Visual_settings) • [Taste comenzi rapide](/wiki/Client/Keyboard_shortcuts) • [Fișierul de configurații](/wiki/Client/Program_files/User_configuration_file) • [Fișierele de program](/wiki/Client/Program_files)
 
-[Formate fișier](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Formate fișier](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -48,9 +48,9 @@ Totul despre a face clic pe cercuri, a lovi tobe, a prinde fructe și a cânta l
 
 Toate beatmap-urile osu! sunt create de către imaginația comunității sale dinamice. Ai dorit întotdeauna să îți împărtășești melodiile favorite cu alții dar nu ai știut cum? Familiarizează-te cu editorul integrat și oportunitățile pe care ți le oferă.
 
-Secțiuni: [Compune](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Setări melodie](/wiki/Client/Beatmap_editor/Song_Setup)
+Secțiuni: [Compune](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Setări melodie](/wiki/Client/Beatmap_editor/Song_setup)
 
-Componente: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Măsura](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distanța de snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Meniu](/wiki/Client/Beatmap_editor/Menu) • [Încărcătura SB](/wiki/Client/Beatmap_editor/SB_Load) • [Cronologii](/wiki/Client/Beatmap_editor/Timelines)
+Componente: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Măsura](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distanța de snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Meniu](/wiki/Client/Beatmap_editor/Menu) • [Încărcătura SB](/wiki/Client/Beatmap_editor/SB_load) • [Cronologii](/wiki/Client/Beatmap_editor/Timelines)
 
 Activități: [Crearea de beatmap-uri](/wiki/Beatmapping) • [Tehnici de creat beatmap-uri](/wiki/Beatmapping/Mapping_techniques) • [Crearea de storyboard-uri](/wiki/Storyboard#storyboarding) • [Crearea de skin-uri](/wiki/Skinning)
 
@@ -63,7 +63,7 @@ Clasarea este procesul de obținere a unui clasament pentru un beatmap, fapt car
 
 [Încărcarea](/wiki/Beatmapping/Beatmap_submission) • [Crearea de mod-uri](/wiki/Modding) • [Procedura de clasare](/wiki/Beatmap_ranking_procedure) • [Ghilda Creatorilor de Beatmap-uri](/wiki/Community/Mappers_Guild) • [Proiectul Iubit](/wiki/Community/Project_Loved)
 
-[Criteriile de Clasare](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Criteriile de Clasare](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -72,9 +72,9 @@ Clasarea este procesul de obținere a unui clasament pentru un beatmap, fapt car
 
 Citește despre procedurile și regulile care mențin osu! și comunitatea sa în siguranță, de la licențierea melodiilor și ghiduri media până la reguli de forum și chat.
 
-[Reguli](/wiki/Rules) • [Codul de Conduită al Contribuitorilor](/wiki/Rules/Contributor_Code_of_Conduct) • [Codul de Conduită pentru Crearea de Beatmap-uri și Mod-uri](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Reguli](/wiki/Rules) • [Codul de Conduită al Contribuitorilor](/wiki/Rules/Contributor_code_of_conduct) • [Codul de Conduită pentru Crearea de Beatmap-uri și Mod-uri](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Reguli media: [Ghid utilizare conținut](/wiki/Rules/Content_Usage_Guidelines) • [Proces votare conținut](/wiki/Rules/Content_Voting_Process) • [Conținut obscen](/wiki/Rules/Explicit_Content) • [Reguli conținut melodii](/wiki/Rules/Song_Content_Rules) • [Considerări conținut vizual](/wiki/Rules/Visual_Content_Considerations)
+Reguli media: [Ghid utilizare conținut](/wiki/Rules/Content_usage_guidelines) • [Proces votare conținut](/wiki/Rules/Content_voting_process) • [Conținut obscen](/wiki/Rules/Explicit_content) • [Reguli conținut melodii](/wiki/Rules/Song_content_rules) • [Considerări conținut vizual](/wiki/Rules/Visual_content_considerations)
 
 [Pagini aspecte legale](/wiki/Legal): [Termeni și Condiții](/wiki/Legal/Terms) • [Confidențialitate](/wiki/Legal/Privacy) • [Drepturi de autor (DMCA)](/wiki/Legal/Copyright) • [Licențierea melodiilor](/wiki/Legal/Music_licensing)
 
@@ -133,7 +133,7 @@ Interacționează cu osu! prin alte aplicații și medii sau ajută-l să se ext
 
 Precum aproape tot de aici, wiki-ul osu! este scris și întreținut de voluntari. Sugerează îmbunătățiri, raportează probleme sau scrie-ți propriul articol pe [repository-ul GitHub osu-wiki](https://github.com/ppy/osu-wiki).
 
-[Istoria osu!](/wiki/History_of_osu!) • [Istoria osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronologia de creare de beatmap-uri și mod-uri](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Întâi Aprilie](/wiki/History_of_osu!/April_Fools)
+[Istoria osu!](/wiki/History_of_osu!) • [Istoria osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronologia de creare de beatmap-uri și mod-uri](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Întâi Aprilie](/wiki/History_of_osu!/April_Fools)
 
 [Harta site-ului](/wiki/Sitemap) • [Ghid contribuții](/wiki/osu!_wiki/Contribution_guide) • [Criterii stilizare articole](/wiki/Article_styling_criteria) • [Criterii stilizare noutăți](/wiki/News_styling_criteria)
 

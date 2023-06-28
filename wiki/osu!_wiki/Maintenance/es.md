@@ -26,7 +26,7 @@ El [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) de la osu! 
 
 En GitHub, las solicitudes de cambios y los problemas se pueden etiquetar y clasificar mediante etiquetas, que muestran diferentes aspectos de una solicitud de cambios o del problema. Las etiquetas son informativas, establecidas por los mantenedores de la wiki y, por lo general, se explican por sí mismas. Si bien no requieren ninguna acción desde la perspectiva del usuario, las etiquetas rojas sirven como recordatorios o llamados a la acción para otros mantenedores:
 
-- `rule change`: el cambio afecta un conjunto de reglas existente, como los [criterios de clasificación](/wiki/Ranking_Criteria), y debe ser revisado por el propietario del área
+- `rule change`: el cambio afecta un conjunto de reglas existente, como los [criterios de clasificación](/wiki/Ranking_criteria), y debe ser revisado por el propietario del área
 - `blocked`: el cambio tiene problemas que deben resolverse antes de continuar, o depende de otro problema que debe resolverse primero
 - `needs rebase`: la solicitud de cambios tiene demasiados commits pequeños no estructurados, que deben reorganizarse y redactarse de una mejor manera; esto generalmente lo hacen los mantenedores justo antes de la fusión
 

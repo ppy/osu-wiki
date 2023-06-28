@@ -1,14 +1,19 @@
+---
+outdated_translation: true
+outdated_since: 8005b7188637f336568a496362d2f01a2d7ab9fe
+---
+
 # osu!taiko 上架标准
 
-***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!taiko 上架标准 (osu!taiko Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+若要将 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!taiko 上架标准 (osu!taiko Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
 
 ## 术语
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
@@ -38,7 +43,7 @@
 
 ## 全局
 
-全局规定和准则适用于所有种类的 osu!taiko 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+全局规定和准则适用于所有种类的 osu!taiko 难度。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### 常规
 
@@ -78,7 +83,7 @@
 
 ## 具体难度
 
-具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!taiko 难度都适用*。节奏相关的指南适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)
+具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此*不是**每个** osu!taiko 难度都适用*。节奏相关的指南适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[缩放 BPM](/wiki/Ranking_criteria/Scaling_BPM)
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

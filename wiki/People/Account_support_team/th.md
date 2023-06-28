@@ -39,7 +39,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 *หมายเหตุ: สำหรับการรายงานการผิดประพฤติอย่างร้ายแรง หรือการล่วงละเมิดทางเพศโดยผู้ใช้ใด ๆ ก็ตาม รวมถึงผู้ดูแล ดูที่[การรายงานการละเมิด](/wiki/Reporting_bad_behaviour/Abuse)*
 
 - ข้อกังวลเกี่ยวกับการผิดประพฤติโดยผู้ดูแล
-- ข้อกังวลเกี่ยวกับผู้ดูแลละเมิด[จรรยาบรรณของผู้มีส่วนร่วม](/wiki/Rules/Contributor_Code_of_Conduct)
+- ข้อกังวลเกี่ยวกับผู้ดูแลละเมิด[จรรยาบรรณของผู้มีส่วนร่วม](/wiki/Rules/Contributor_code_of_conduct)
 - [ปัญหาด้านการเงิน](/wiki/Help_centre/Account#supporter) สำหรับคำสั่งซื้อจาก [osu!store](https://osu.ppy.sh/store/listing)
 - ปัญหาด้านเทคนิคที่ไม่สามารถหรือไม่ได้รับการแก้ไขใน[ฟอรัมช่วยเหลือ](https://osu.ppy.sh/community/forums/5) เช่น[ปัญหาด้านการเชื่อมต่อ](/wiki/Help_centre/Client#online-features)
 

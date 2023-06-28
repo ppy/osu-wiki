@@ -30,7 +30,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [インターフェイス](/wiki/Client/Interface) • [オプション](/wiki/Client/Options) • [ビジュアル設定](/wiki/Client/Interface/Visual_settings) • [ショートカットキー](/wiki/Client/Keyboard_shortcuts) • [設定ファイル](/wiki/Client/Program_files/User_configuration_file) • [プログラムファイル](/wiki/Client/Program_files)
 
-[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,9 +50,9 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 osu!のビートマップはすべて、ユーザーの手によって作られています。これは、osu!の内蔵エディターについてのガイドです。
 
-セクション: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
+セクション: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-コンポーネント: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [ビートスナップ間隔](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [メニュー](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [タイムライン](/wiki/Client/Beatmap_editor/Timelines)
+コンポーネント: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [ビートスナップ間隔](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [メニュー](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [タイムライン](/wiki/Client/Beatmap_editor/Timelines)
 
 技術: [ビートマッピング](/wiki/Beatmapping) • [マッピング技術](/wiki/Beatmapping/Mapping_techniques) • [ストーリーボード技術](/wiki/Storyboard#storyboarding) • [スキニング](/wiki/Skinning)
 
@@ -65,7 +65,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 [投稿](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Rankedまでの手順](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[ランキング基準](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[ランキング基準](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -74,9 +74,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 音楽ライセンスやメディアのガイドライン、チャットやフォーラムのルールなど、osu!のコミュニティを守るためのルールや規制についてお読みください。
 
-[ルール](/wiki/Rules) • [コントリビュータ行動規範](/wiki/Rules/Contributor_Code_of_Conduct) • [MappingとModdingの行動規範](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[ルール](/wiki/Rules) • [コントリビュータ行動規範](/wiki/Rules/Contributor_code_of_conduct) • [MappingとModdingの行動規範](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-メディアガイドライン: [コンテンツ使用ガイドライン](/wiki/Rules/Content_Usage_Guidelines) • [コンテンツ投票プロセス](/wiki/Rules/Content_Voting_Process) • [露骨なコンテンツ](/wiki/Rules/Explicit_Content) • [曲コンテンツのルール](/wiki/Rules/Song_Content_Rules) • [ビジュアルコンテンツに関する考慮事項](/wiki/Rules/Visual_Content_Considerations)
+メディアガイドライン: [コンテンツ使用ガイドライン](/wiki/Rules/Content_usage_guidelines) • [コンテンツ投票プロセス](/wiki/Rules/Content_voting_process) • [露骨なコンテンツ](/wiki/Rules/Explicit_content) • [曲コンテンツのルール](/wiki/Rules/Song_content_rules) • [ビジュアルコンテンツに関する考慮事項](/wiki/Rules/Visual_content_considerations)
 
 [法的ページ](/wiki/Legal): [利用規約](/wiki/Legal/Terms) • [プライバシーポリシー](/wiki/Legal/Privacy) • [著作権(DMCA)](/wiki/Legal/Copyright) • [音楽ライセンス](/wiki/Legal/Music_licensing)
 
@@ -135,7 +135,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。[GitHubのリポジトリ](https://github.com/ppy/osu-wiki)から、改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
 
-[osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
+[osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
 
 [サイトマップ](/wiki/Sitemap) • [貢献ガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_styling_criteria)
 

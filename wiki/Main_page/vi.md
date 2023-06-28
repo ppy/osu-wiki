@@ -30,7 +30,7 @@ Là người hướng dẫn đến thế giới của nhịp điệu, nhịp đ�
 
 [Giao diện](/wiki/Client/Interface) • [Cài đặt](/wiki/Client/Options) • [Cài đặt trực quan](/wiki/Client/Interface/Visual_settings) • [Phím tắt](/wiki/Client/Keyboard_shortcuts) • [Tệp cấu hình](/wiki/Client/Program_files/User_configuration_file) • [Tệp chương trình](/wiki/Client/Program_files)
 
-[Định dạng tệp](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Định dạng tệp](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,9 +50,9 @@ Mọi thứ về cách nhấp vào vòng tròn, đánh trống, bắt trái cây
 
 Tất cả beatmap osu! được tạo ra bởi trí tưởng tượng phong phú của cộng đồng năng động của nó. Luôn muốn chia sẻ âm nhạc yêu thích của bạn với những người khác, nhưng chưa bao giờ biết làm thế nào? Tự làm quen với trình chỉnh sửa tích hợp sẵn và các cơ hội mà nó mang lại.
 
-Các phần chính: [Biên soạn (Compose)](/wiki/Client/Beatmap_editor/Compose) • [Thiết kế (Design)](/wiki/Client/Beatmap_editor/Design) • [Thời gian (Timing)](/wiki/Client/Beatmap_editor/Timing) • [Thiết lập bài hát (Song Setup)](/wiki/Client/Beatmap_editor/Song_Setup)
+Các phần chính: [Biên soạn (Compose)](/wiki/Client/Beatmap_editor/Compose) • [Thiết kế (Design)](/wiki/Client/Beatmap_editor/Design) • [Thời gian (Timing)](/wiki/Client/Beatmap_editor/Timing) • [Thiết lập bài hát (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup)
 
-Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
+Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
 
 Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Beatmapping/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#storyboarding) • [Tạo Skin](/wiki/Skinning)
 
@@ -65,7 +65,7 @@ Xếp hạng là quá trình có được một bảng xếp hạng cho một be
 
 [Đăng beatmap](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Thủ tục xếp hạng](/wiki/Beatmap_ranking_procedure) • [Hội Của Mapper](/wiki/Community/Mappers_Guild) • [Dự án Loved](/wiki/Community/Project_Loved)
 
-[Tiêu chí xếp hạng](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Tiêu chí xếp hạng](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -74,9 +74,9 @@ Xếp hạng là quá trình có được một bảng xếp hạng cho một be
 
 Đọc về các thủ tục và quy định mà giữ osu! và cộng đồng của nó an toàn, từ hướng dẫn cấp phép âm nhạc và phương tiện truyền thông đến các quy tắc trò chuyện và diễn đàn.
 
-[Quy tắc](/wiki/Rules) • [Quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_Code_of_Conduct) • [Quy tắc ứng xử của cộng tác viên về modding và mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Quy tắc](/wiki/Rules) • [Quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) • [Quy tắc ứng xử của cộng tác viên về modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Quy định về phương tiện truyền thông: [Hướng dẫn sử dụng nội dung](/wiki/Rules/Content_Usage_Guidelines) • [Quy trình bỏ phiếu nội dung](/wiki/Rules/Content_Voting_Process) • [Nội dung không phù hợp](/wiki/Rules/Explicit_Content) • [Quy tắc nội dung nhạc](/wiki/Rules/Song_Content_Rules) • [Cân nhắc nội dung trực quan](/wiki/Rules/Visual_Content_Considerations)
+Quy định về phương tiện truyền thông: [Hướng dẫn sử dụng nội dung](/wiki/Rules/Content_usage_guidelines) • [Quy trình bỏ phiếu nội dung](/wiki/Rules/Content_voting_process) • [Nội dung không phù hợp](/wiki/Rules/Explicit_content) • [Quy tắc nội dung nhạc](/wiki/Rules/Song_content_rules) • [Cân nhắc nội dung trực quan](/wiki/Rules/Visual_content_considerations)
 
 [Các trang hợp pháp](/wiki/Legal): [Điều khoản dịch vụ](/wiki/Legal/Terms) • [Quyền riêng tư](/wiki/Legal/Privacy) • [Bản quyền (DMCA)](/wiki/Legal/Copyright) • [Bản quyền nhạc](/wiki/Legal/Music_licensing)
 
@@ -135,7 +135,7 @@ Tương tác với osu! thông qua các ứng dụng và phương tiện khác, 
 
 Cũng như hầu hết mọi thứ ở đây, osu! wiki được viết và duy trì bởi các tình nguyện viên. Đề xuất cải tiến, báo cáo vấn đề hoặc thậm chí viết bài viết của riêng bạn tại [Github của osu-wiki](https://github.com/ppy/osu-wiki).
 
-[Lịch sử của osu!](/wiki/History_of_osu!) • [Lịch sử của osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Lịch sử của mapping và modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Cá tháng Tư](/wiki/History_of_osu!/April_Fools)
+[Lịch sử của osu!](/wiki/History_of_osu!) • [Lịch sử của osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Lịch sử của mapping và modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Cá tháng Tư](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Hướng dẫn đóng góp](/wiki/osu!_wiki/Contribution_guide) • [Tiêu chí tạo bài viết](/wiki/Article_styling_criteria) • [Tiêu chí tạo tin tức](/wiki/News_styling_criteria)
 

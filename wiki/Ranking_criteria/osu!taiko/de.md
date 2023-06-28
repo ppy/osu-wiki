@@ -1,14 +1,19 @@
+---
+outdated_translation: true
+outdated_since: 8005b7188637f336568a496362d2f01a2d7ab9fe
+---
+
 # Ranking-Kriterien für osu!taiko
 
-***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_Criteria).***
+***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
 
-Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wiki/Ranking_Criteria#general-terms) fest, die [osu!taiko](/wiki/Game_mode/osu!taiko)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
+Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wiki/Ranking_criteria#general-terms) fest, die [osu!taiko](/wiki/Game_mode/osu!taiko)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
 
 ## Glossar
 
 ### Schwierigkeitsgrade
 
-*Hauptartikel: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Hauptartikel: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -38,7 +43,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 
 ## Global
 
-Globale Regeln und Richtlinien gelten für alle Arten von osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit etwa 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_Criteria/Scaling_BPM) ausführlich beschrieben.
+Globale Regeln und Richtlinien gelten für alle Arten von osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit etwa 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
 
 ### Allgemein
 
@@ -78,7 +83,7 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 
 ## Abhängig vom Schwierigkeitsgrad
 
-Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_Criteria/Scaling_BPM) ausführlich beschrieben.
+Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

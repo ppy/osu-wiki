@@ -1,14 +1,19 @@
+---
+outdated_translation: true
+outdated_since: 8005b7188637f336568a496362d2f01a2d7ab9fe
+---
+
 # osu!taiko 랭킹 크리테리아
 
-***참고: 이 문서는 [일반 랭킹 크리테리아](/wiki/Ranking_Criteria)의 연장입니다.***
+***참고: 이 문서는 [일반 랭킹 크리테리아](/wiki/Ranking_criteria)의 연장입니다.***
 
-이 **osu!taiko 랭킹 크리테리아** 문서는 [osu!taiko](/wiki/Game_mode/osu!taiko) 전용 [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용어)을 제시합니다.
+이 **osu!taiko 랭킹 크리테리아** 문서는 [osu!taiko](/wiki/Game_mode/osu!taiko) 전용 [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_criteria#일반-용어)을 제시합니다.
 
 ## 용어
 
 ### 난이도 이름
 
-*메인 문서: [난이도 작명](/wiki/Ranking_Criteria/Difficulty_naming)*
+*메인 문서: [난이도 작명](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -38,7 +43,7 @@
 
 ## 공통(Overall)
 
-공통 규칙과 가이드라인은 모든 종류의 osu!taiko 난이도에 적용됩니다. 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
+공통 규칙과 가이드라인은 모든 종류의 osu!taiko 난이도에 적용됩니다. 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
 
 ### 일반
 
@@ -78,7 +83,7 @@
 
 ## 난이도별 기준
 
-특정 난이도의 룰과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!taiko 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우, 몇몇 변수는 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)에 적힌 것과 같이 달라질 수 있습니다.
+특정 난이도의 룰과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!taiko 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우, 몇몇 변수는 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM)에 적힌 것과 같이 달라질 수 있습니다.
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

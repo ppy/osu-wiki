@@ -28,7 +28,7 @@ Essendo la guida al mondo del ritmo, dei battiti, e dei flash, osu! ha molto da 
 
 [Interfaccia](/wiki/Client/Interface) • [Opzioni](/wiki/Client/Options) • [Impostazioni visive](/wiki/Client/Interface/Visual_settings) • [Fonte delle scorciatoie da tastiera](/wiki/Client/Keyboard_shortcuts) • [File di configurazione](/wiki/Client/Program_files/User_configuration_file) • [File del programma](/wiki/Client/Program_files)
 
-[Formati dei File](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Formati dei File](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -48,9 +48,9 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 
 Tutte le beatmap di osu! sono create dalla florida immaginazione della sua comunità dinamica. Hai sempre voluto condividere la tua musica preferita con altri, ma non hai mai saputo come? Familiarizza con l'editor integrato e le opportunità che ha da offrire.
 
-Sezioni: [Componi](/wiki/Client/Beatmap_editor/Compose) • [Progetta](/wiki/Client/Beatmap_editor/Design) • [Tempo](/wiki/Client/Beatmap_editor/Timing) • [Setup brano](/wiki/Client/Beatmap_editor/Song_Setup)
+Sezioni: [Componi](/wiki/Client/Beatmap_editor/Compose) • [Progetta](/wiki/Client/Beatmap_editor/Design) • [Tempo](/wiki/Client/Beatmap_editor/Timing) • [Setup brano](/wiki/Client/Beatmap_editor/Song_setup)
 
-Componenti: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisore di beat](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Snap di distanza](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [Carico SB](/wiki/Client/Beatmap_editor/SB_Load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
+Componenti: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisore di beat](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Snap di distanza](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [Carico SB](/wiki/Client/Beatmap_editor/SB_load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
 
 Attività: [Beatmapping](/wiki/Beatmapping) • [Tecniche di mapping](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
@@ -63,7 +63,7 @@ La classificazione è il processo di ottenere una classifica per una beatmap, ch
 
 [Consegna](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedura di classificazione](/wiki/Beatmap_ranking_procedure) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved)
 
-[Criteri di classificazione](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Criteri di classificazione](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -72,9 +72,9 @@ La classificazione è il processo di ottenere una classifica per una beatmap, ch
 
 Leggi le procedure e regole che tengono osu! e la sua comunità al riparo, dal licenziamento della musica e le linee guida dei media, alle regole della chat e dei forum.
 
-[Regole](/wiki/Rules) • [Codice di condotta dei collaboratori](/wiki/Rules/Contributor_Code_of_Conduct) • [Codice di condotta per il modding e il mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Regole](/wiki/Rules) • [Codice di condotta dei collaboratori](/wiki/Rules/Contributor_code_of_conduct) • [Codice di condotta per il modding e il mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Regole dei media: [Linee guida sull'uso di contenuto](/wiki/Rules/Content_Usage_Guidelines) • [Processo di votazione del contenuto](/wiki/Rules/Content_Voting_Process) • [Contenuto esplicito](/wiki/Rules/Explicit_Content) • [Regole sul contenuto della canzone](/wiki/Rules/Song_Content_Rules) • [Considerazioni sul materiale visivo](/wiki/Rules/Visual_Content_Considerations)
+Regole dei media: [Linee guida sull'uso di contenuto](/wiki/Rules/Content_usage_guidelines) • [Processo di votazione del contenuto](/wiki/Rules/Content_voting_process) • [Contenuto esplicito](/wiki/Rules/Explicit_content) • [Regole sul contenuto della canzone](/wiki/Rules/Song_content_rules) • [Considerazioni sul materiale visivo](/wiki/Rules/Visual_content_considerations)
 
 [Pagine legali](/wiki/Legal): [Termini di Servizio](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licenziamento della musica](/wiki/Legal/Music_licensing)
 
@@ -133,7 +133,7 @@ Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ul
 
 Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository di GitHub di osu!wiki](https://github.com/ppy/osu-wiki).
 
-[Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
+[Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 
 [Mappa del sito](/wiki/Sitemap) • [Guida per contribuire](/wiki/osu!_wiki/Contribution_guide) • [Criteri di stile degli articoli](/wiki/Article_styling_criteria) • [Criteri di stile delle notizie](/wiki/News_styling_criteria)
 

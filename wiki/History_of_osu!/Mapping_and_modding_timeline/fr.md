@@ -10,7 +10,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Octobre
 
-- **21/09/2007 :** Les [Critères de Classement](/wiki/Ranking_Criteria) sortent. 
+- **21/09/2007 :** Les [Critères de Classement](/wiki/Ranking_criteria) sortent. 
 - **29/07/2007 :**: Les icônes des fils de discussion du forum ont été normalisées pour le processus de classement.
   - Une icône `star` (![l'icône star](/wiki/shared/icon/star.gif)) marquait les bonnes beatmaps qui nécessitent plus de travail.
   - Une icône `bubble` (![l'icône bubble](/wiki/shared/icon/bubble.gif)) marquait les beatmaps prises en compte pour le classement.
@@ -111,7 +111,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Octobre
 
-- **08/10/2011 :** Le sous-forum [Ranking Criteria](https://osu.ppy.sh/community/forums/87) est ouvert à la discussion publique sur les propositions des [critères de classement](/wiki/Ranking_Criteria).
+- **08/10/2011 :** Le sous-forum [Ranking Criteria](https://osu.ppy.sh/community/forums/87) est ouvert à la discussion publique sur les propositions des [critères de classement](/wiki/Ranking_criteria).
   - Ces discussions étaient auparavant tenues par les membres du BAT dans un sous-forum privé.
 
 **1368 beatmaps** ont été classées en 2011. Il s'agit de la première baisse après 4 années de croissance consécutives.
@@ -239,7 +239,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Février
 
-- **13/02/2016 :** Le [Conseil des critères de classement](/wiki/Ranking_Criteria/Ranking_Criteria_Council) a été créé pour réformer les [critères de classement](/wiki/Ranking_Criteria).
+- **13/02/2016 :** Le [Conseil des critères de classement](/wiki/Ranking_criteria/Ranking_Criteria_Council) a été créé pour réformer les [critères de classement](/wiki/Ranking_criteria).
   - Les propositions publiques sur le sous-forum "Critères de classement" ne sont plus prises en compte.
   - Adoptant une position similaire à celle du [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate), le conseil des critères de classement comprenait des membres représentant les principaux sous-groupes de mappeurs par région. Chaque mode de jeu comptait 1 mappeur et 1 joueur des Amériques, d'Europe et d'Asie, ainsi que 2 membres des QAT.
   - L'objectif de chaque mode de jeu était de créer un critère de classement général/difficile pour leur mode respectif. osu!catch est le seul mode de jeu qui a atteint cet objectif avec ce système.
@@ -257,7 +257,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juillet
 
-- **20/07/2016 :** Le [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) a été créé pour remplacer le conseil des critères de classement.
+- **20/07/2016 :** Le [United Beat-Knights of Ranking Criteria](/wiki/Ranking_criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) a été créé pour remplacer le conseil des critères de classement.
   - Les objectifs de l'UBKRC étaient les mêmes que ceux du conseil des critères de classement, mais il a été plus largement accepté car il était ouvert à l'influence de la communauté.
   - Des équipes d'experts ont été choisies pour chaque sous-section des critères de classement (par exemple, une équipe d'experts en storyboarding, une autre équipe d'experts en skinning, etc.)
   - Le groupe était géré par ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) et ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
@@ -267,7 +267,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **05/08/2016 :** Le [blog Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog) a été créé.
   - Les QAT était critiqués pour être trop fermés au reste de la communauté de mapping. Ce blog a donc été créé pour accroître la transparence des décisions des QAT et des activités de la communauté.
-- **26/08/2016 :** Le [Code de conduite](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) a été mis en place pour définir les attentes en matière de comportement des moddeurs.
+- **26/08/2016 :** Le [Code de conduite](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) a été mis en place pour définir les attentes en matière de comportement des moddeurs.
   - Jusqu'à présent, ces règles et directives étaient considérées comme relevant du bon sens. En les documentant, la modération pourrait être rendue plus cohérente.
 
 ### Septembre
@@ -456,7 +456,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juin
 
-- **09/06/2020 :** L'article [directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) a été ajouté au wiki et promu dans le [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) pour encourager l'autorisation appropriée de tous les actifs dans les nouvelles soumissions de beatmap.
+- **09/06/2020 :** L'article [directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines) a été ajouté au wiki et promu dans le [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) pour encourager l'autorisation appropriée de tous les actifs dans les nouvelles soumissions de beatmap.
 
 ### Octobre
 
@@ -481,12 +481,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Janvier
 
 - **05/01/2021 :** L'étiquette `Explicit` pour les beatmaps a été implémentée pour nettoyer le contenu inapproprié des anciens classements et autoriser le contenu de musiques auparavant inacceptables.
-  - Cette modification ne s'applique pas au contenu visuel des beatmaps en attente. Ceux-ci continuent de suivre les [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
+  - Cette modification ne s'applique pas au contenu visuel des beatmaps en attente. Ceux-ci continuent de suivre les [Considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations).
 - **30/01/2021 :** Le canal de discussion en jeu `#modhelp` a été remplacé par `#mapping` car le canal original était principalement utilisé pour les discussions sur le mapping.
 
 ### Mars
 
-- **09/03/2021 :** En conjonction avec les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines), un ajout aux critères de classement a commencé à exiger que les mappeurs indiquent la source de leurs images d'arrière-plan et autres médias dans leurs descriptions.
+- **09/03/2021 :** En conjonction avec les [Directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines), un ajout aux critères de classement a commencé à exiger que les mappeurs indiquent la source de leurs images d'arrière-plan et autres médias dans leurs descriptions.
 - **15/03/2021 :** Les conditions pour réintégrer les Beatmap Nominators ont été assouplies.
   - Tous les candidats doivent se soumettre à la candidature, mais les membres du groupe qui reviennent bénéficient d'un délai d'attente plus court et sont autorisés à fournir 1 à 2 mois d'activité de modding au lieu de la norme précédente de 3 mois.
 - **16/03/2021 :** Les Beatmap Nominators ont reçu un renouvellement automatique de leur tag osu!supporter.

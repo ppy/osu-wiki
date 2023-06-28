@@ -10,7 +10,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) launched. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
+- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_criteria) launched. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
 - **2007-10-29:**: Forum thread icons were standardised for the ranking process.
   - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
   - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
@@ -111,7 +111,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
+- **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_criteria) proposals.
   - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
 **1368 beatmaps** were ranked in 2011. This was the first decline after 4 years of consecutive growth.
@@ -241,7 +241,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_criteria).
   - Public proposals on the Ranking Criteria subforum were no longer considered.
   - Taking a stance similar to the [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
   - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
@@ -259,7 +259,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2016-07-20:** The [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) was created to replace the Ranking Criteria Council.
+- **2016-07-20:** The [United Beat-Knights of Ranking Criteria](/wiki/Ranking_criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) was created to replace the Ranking Criteria Council.
   - The UBKRC's goals were the same as the Ranking Criteria Council, but it was more widely accepted because it was open to community influence.
   - Teams of experts were chosen for each subsection of the Ranking Criteria (e.g. one team of storyboarding experts, another team of skinning experts, etc.).
   - The group was managed by ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) and ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
@@ -269,7 +269,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2016-08-05:** The [Quality Assurance Team blog](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog) was created.
   - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
-- **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behaviour expectations.
+- **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) was implemented to establish modding behaviour expectations.
   - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be made more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
@@ -458,7 +458,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### June
 
-- **2020-06-09:** The [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) article was added to the wiki and promoted in the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) to encourage appropriate permission for all assets in new beatmap submissions.
+- **2020-06-09:** The [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) article was added to the wiki and promoted in the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) to encourage appropriate permission for all assets in new beatmap submissions.
 
 ### October
 
@@ -483,12 +483,12 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### January
 
 - **2021-01-05:** `Explicit` label for beatmaps was implemented to clean up inappropriate old ranked content and permit previously unacceptable song content. <!-- https://github.com/ppy/osu-web/pull/6575 -->
-  - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
+  - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_content_considerations).
 - **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
 
 ### March
 
-- **2021-03-09:** In conjunction with the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), an addition to the Ranking Criteria began requiring mappers to source their background images and other media in their descriptions.
+- **2021-03-09:** In conjunction with the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines), an addition to the Ranking Criteria began requiring mappers to source their background images and other media in their descriptions.
 - **2021-03-15:** Requirements for re-joining the Beatmap Nominators were loosened.
   - All applicants needed to undergo the application, but returning group members had shorter cooldown options and were allowed to provide 1-2 months of modding activity instead of the previous 3 month standard.<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Beatmap Nominators were given automatically renewing osu!supporter.

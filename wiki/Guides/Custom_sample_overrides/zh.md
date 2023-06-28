@@ -60,5 +60,5 @@
 
 参见：
 
-- [自定义音效库](/wiki/Guides/Custom_Hitsound_Library)
+- [自定义音效库](/wiki/Guides/Custom_hitsound_library)
 - [自定义皮肤/音效](/wiki/Skinning/Sounds)
