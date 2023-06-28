@@ -1,6 +1,6 @@
 # 测定时间轴 (Timing)
 
-**测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Music_theory/Tempo)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
+**测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Client/Beatmap_editor/Timing)的位置、[每分钟节拍数 (BPM)](/wiki/Music_theory/Tempo)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
 
 谱面编辑器提供了[时间轴 (Timing) 设定](/wiki/Client/Beatmap_editor/Timing)，用于放置[打击物件](/wiki/Gameplay/Hit_object)的时间轴也显示为一个[类似标尺的布局](/wiki/Client/Beatmap_editor/Timelines#timing)。当谱师放置物件时，它们会[对齐](/wiki/Beatmapping/Snapping)到时间轴的标线，即[小节](/wiki/Music_theory/Measure)细分线上。这保证物件能轻松地对齐歌曲里存在的音符。
 
@@ -11,7 +11,7 @@
 - 使用 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) 模组时，给音乐添加鼓轨道音效
 - 控制 [osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 模式的小节线
 
-时间轴反映了*它所确定的歌曲文件的部分特征*。如果更换或者修改了歌曲文件，影响了波形，此时就可能会影响到原先已经测定好的时间轴。所以，建议先按照[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
+时间轴反映了*它所确定的歌曲文件的部分特征*。如果更换或者修改了歌曲文件，影响了波形，此时就可能会影响到原先已经测定好的时间轴。所以，建议先按照[谱面上架标准 (RC)](/wiki/Ranking_criteria#音频) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
 
 ## 歌曲结构
 
@@ -26,7 +26,7 @@
 
 ## 测定流程
 
-*主页面：[如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_Time_Songs)*\
+*主页面：[如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_time_songs)*\
 *参见：[谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)*
 
 ### 单红线
@@ -36,7 +36,7 @@
 在[测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)，跟着歌曲节拍点击 `T` 键或节拍器按钮，能让 osu! 测定出大致的 BPM。可以手动调整这个值，来确保时间轴完美贴合歌曲。还有几件事需要注意：
 
 - 几乎没有歌曲使用含有小数的 BPM。如果手动测量出过于细化的值，则它很可能不准确。
-- 根据[谱面上架标准 (RC)](/wiki/Ranking_Criteria#时间轴)，偏移量[必须处于歌曲第一个下拍的位置](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat)。
+- 根据[谱面上架标准 (RC)](/wiki/Ranking_criteria#时间轴)，偏移量[必须处于歌曲第一个下拍的位置](/wiki/Guides/Setting_the_offset_on_the_correct_beat)。
 
 ### 多红线
 
@@ -56,7 +56,7 @@
 
 广泛地说，测定时间轴 (Timing) 需要大量的耐心和良好的乐感，是非常难掌握的作图技巧。因此，在公共[聊天](/wiki/Client/Interface/Chat_console)频道或者[论坛](/wiki/Community/Forum)里，向其他谱师或者[摸图员](/wiki/Modding)寻求帮助的情况很常见。有一条专门用于讨论并解决此问题的论坛讨论帖“[测不准时间轴？在这里求助 (Unable to find the BPM/offset of your map? Post here)](https://osu.ppy.sh/community/forums/topics/13795)”——它记录了 13 年以来的 5000 多条求助与解答。
 
-[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 包含一段专用于测量时间轴 (Timing)，并在[谱面上架](/wiki/Beatmap_ranking_procedure)时需要遵守的规定。
+[谱面上架标准 (RC)](/wiki/Ranking_criteria#音频) 包含一段专用于测量时间轴 (Timing)，并在[谱面上架](/wiki/Beatmap_ranking_procedure)时需要遵守的规定。
 
 ## 参见
 

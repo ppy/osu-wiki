@@ -62,7 +62,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Contest rules
 
-- **The contest will consist of one round where contestants will map any song of their choosing.** The chosen song must not breach the osu! [song content rules](/wiki/Rules/Song_Content_Rules); if you would not upload it to your profile, then do not use it here. Anything that violates the osu! rules will be disqualified.
+- **The contest will consist of one round where contestants will map any song of their choosing.** The chosen song must not breach the osu! [song content rules](/wiki/Rules/Song_content_rules); if you would not upload it to your profile, then do not use it here. Anything that violates the osu! rules will be disqualified.
 - **Each contestant is limited to a single difficulty of any level.**
 - **Your map must be an osu!taiko map.**
 - **Every entry should utilise only timing points (BPM changes) and inherited points (slider velocities).** The maps do not need to be rankable; in fact, it is to give up on any chance of making a rankable map. If it helps, think of this like Aspire, but incredibly simplified. All entries that include storyboarding, hitsounding, and skinning will be disqualified. You may use sliders and spinners. Fringe entries will be dealt with on a case-by-case basis.

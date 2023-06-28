@@ -1,3 +1,8 @@
+---
+outdated_since: 23ff06b9061d913c0419e154b759c85b176dfece
+outdated_translation: true
+---
+
 # Larangan turnamen
 
 *Laman utama: [Pusat bantuan](/wiki/Help_centre)*

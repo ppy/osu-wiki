@@ -172,7 +172,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F1` | Beralih ke tab [Compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Memainkan beatmap pada mode uji (*test mode*). |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
@@ -265,7 +265,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
 | `Shift` (pada saat menyeret suatu objek pada *timeline*) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
 | `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
 | `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |

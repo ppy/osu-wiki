@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - stacking
   - stack
@@ -14,14 +13,13 @@ tags:
   - empilement
   - empilement automatisé
   - empilement automatique
-  - tolérance de pile
 ---
 
 # Stack leniency
 
-La **Stack leniency** (ou tolérance de pile) est un paramètre d'une [beatmap](/wiki/Beatmap) qui contrôle la formation automatisée de [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) de [cercles](/wiki/Gameplay/Hit_object/Hit_circle) et de [sliders](/wiki/Gameplay/Hit_object/Slider) dans le mode de jeu [osu!](/wiki/Game_mode/osu!). Une stack leniency plus faible réduit le temps maximum après lequel les [objets](/wiki/Gameplay/Hit_object) ne sont plus placés dans la même pile; de même, une stack leniency plus élevé regroupera les objets qui sont placés plus loin dans le temps.
+La **Stack leniency** est un paramètre d'une [beatmap](/wiki/Beatmap) qui contrôle la formation automatisée de [stacks](/wiki/Beatmapping/Mapping_techniques/Stack), de [cercles](/wiki/Gameplay/Hit_object/Hit_circle) et de [sliders](/wiki/Gameplay/Hit_object/Slider) dans le mode de jeu [osu!](/wiki/Game_mode/osu!). Une stack leniency plus faible réduit le temps maximum après lequel les [objets](/wiki/Gameplay/Hit_object) ne sont plus placés dans le même stack ; de même, une stack leniency plus élevée regroupera les objets qui sont placés plus loin dans le temps.
 
-La stack leniency peut être modifiée depuis l'onglet `Advanced` de la section [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Alors que les valeurs possibles affichées dans l'éditeur vont de `0` à `10`, elles correspondent à la plage `0.0`–`1.0` du paramètre `StackLeniency` dans les [fichiers `.osu`](/wiki/Client/File_formats/Osu_(file_format)).
+La stack leniency peut être modifiée depuis l'onglet `Advanced` de la section [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Alors que les valeurs possibles affichées dans l'éditeur vont de `0` à `10`, elles correspondent à la plage `0.0`–`1.0` du paramètre `StackLeniency` dans les [fichiers `.osu`](/wiki/Client/File_formats/Osu_(file_format)).
 
 ## Comportement
 

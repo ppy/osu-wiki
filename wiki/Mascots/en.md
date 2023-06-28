@@ -74,28 +74,28 @@ Agent J was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, 
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the participants in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she is not the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She is fairly short at only 154 centimetres, and was born on 1999-04-06.
+Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the entries in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she is not the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She is fairly short at only 154 centimetres, and was born on 1999-04-06.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
+Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the entries in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the entries in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
+Designed by [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, also known as Taikonator 3000, was one of the entries in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Designed by [crystalsuicine](https://osu.ppy.sh/users/9974), Tama was one of the younger participants in the osu!taiko mascot design contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
+Designed by [crystalsuicine](https://osu.ppy.sh/users/9974), Tama was one of the younger entrants in the osu!taiko mascot design contest at only age 15 (or is she?), and has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.

@@ -171,7 +171,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `F1` | Switch to the [compose](/wiki/Client/Beatmap_editor/Compose) mode. |
 | `F2` | Switch to the [design](/wiki/Client/Beatmap_editor/Design) mode. |
 | `F3` | Switch to the [timing](/wiki/Client/Beatmap_editor/Timing) mode. |
-| `F4` | Open the [song setup](/wiki/Client/Beatmap_editor/Song_Setup) dialog. |
+| `F4` | Open the [song setup](/wiki/Client/Beatmap_editor/Song_setup) dialog. |
 | `F5` | Enter test mode. |
 | `F6` | Open the timing and control points dialog. |
 | `Ctrl` + `P` | Add an uninherited timing point at the current timestamp. If not in the timing mode, this will also open the timing and control points dialog. |
@@ -264,7 +264,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
 | `K` | Nudge the selection forwards 1 divisor. |

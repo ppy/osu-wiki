@@ -40,7 +40,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
 *Anmerkung: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Bedenken über das Fehlverhalten eines Moderators.
-- Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Rules/Contributor_Code_of_Conduct) bricht.
+- Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) bricht.
 - [Probleme beim Kauf](/wiki/Help_centre/Account#supporter) einer Bestellung vom [osu!store](https://osu.ppy.sh/store/listing).
 - Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_centre/Client#online-features).
 

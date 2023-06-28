@@ -11,15 +11,15 @@ Terdapat 20 pertanyaan pada tes ini dan pengguna diharapkan untuk memilih semua 
 Pertanyaan tes diambil dari banyak pertanyaan yang diurutkan berdasarkan kategori. Kategori berikut muncul dalam tes:
 
 - [Peraturan Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules): 5 pertanyaan
-- [Kode Etik Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 pertanyaan
-- [Kriteria Ranking Secara Umum](/wiki/Ranking_Criteria#umum): 1 pertanyaan
-- [Kriteria Ranking Tentang Spread](/wiki/Ranking_Criteria#beatmap): 1 pertanyaan
-- [Kriteria Ranking Tentang Metadata](/wiki/Ranking_Criteria#metadata): 1 pertanyaan
-- [Kriteria Ranking Tentang Timing](/wiki/Ranking_Criteria#timing): 1 pertanyaan
-- [Kriteria Ranking Tentang Audio](/wiki/Ranking_Criteria#audio): 1 pertanyaan
-- [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_Criteria#video-dan-latar-belakang): 1 pertanyaan
-- [Kriteria Ranking Tentang Skinning](/wiki/Ranking_Criteria#skinning): 1 pertanyaan
-- [Kriteria Ranking Tentang Storyboarding](/wiki/Ranking_Criteria#storyboarding)
+- [Kode Etik Mapping dan Modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 pertanyaan
+- [Kriteria Ranking Secara Umum](/wiki/Ranking_criteria#umum): 1 pertanyaan
+- [Kriteria Ranking Tentang Spread](/wiki/Ranking_criteria#beatmap): 1 pertanyaan
+- [Kriteria Ranking Tentang Metadata](/wiki/Ranking_criteria#metadata): 1 pertanyaan
+- [Kriteria Ranking Tentang Timing](/wiki/Ranking_criteria#timing): 1 pertanyaan
+- [Kriteria Ranking Tentang Audio](/wiki/Ranking_criteria#audio): 1 pertanyaan
+- [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_criteria#video-dan-latar-belakang): 1 pertanyaan
+- [Kriteria Ranking Tentang Skinning](/wiki/Ranking_criteria#skinning): 1 pertanyaan
+- [Kriteria Ranking Tentang Storyboarding](/wiki/Ranking_criteria#storyboarding)
 - Kriteria Ranking secara spesifik dari suatu mode: 4 pertanyaan secara spesifik dari mode permainan yang dipilih (osu!, osu!taiko, osu!catch, osu!mania)
 
 Tidak ada batasan untuk lulus atau gagal dalam tes BN, namun secara umum memang dibenarkan bahwa skor di atas 15 berarti baik, skor antara 12,5 dan 15 berarti biasa-biasa saja, dan skor yang lebih rendah berarti mengkhawatirkan.

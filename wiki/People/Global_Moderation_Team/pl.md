@@ -12,7 +12,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 **Moderatorzy globalni** (ang. Global Moderation Team, GMT) to członkowie społeczności osu!, którzy są odpowiedzialni za moderowanie i rozwiązywanie problemów w społeczności gry.
 
-**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Rules/Contributor_Code_of_Conduct).**
+**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Rules/Contributor_code_of_conduct).**
 
 Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_bad_behaviour/Abuse), by dowiedzieć się więcej.
 

@@ -41,7 +41,7 @@ outdated_translation: true
 
 ### 创意作图竞赛
 
-创意作图竞赛是有一项特殊规则的作图竞赛，这项竞赛的作品不受 [Ranking Criteria](/wiki/Ranking_Criteria) 约束
+创意作图竞赛是有一项特殊规则的作图竞赛，这项竞赛的作品不受 [Ranking Criteria](/wiki/Ranking_criteria) 约束
 
 注：
 

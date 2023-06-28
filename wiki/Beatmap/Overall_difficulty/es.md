@@ -9,7 +9,7 @@ tags:
 
 # Dificultad general
 
-*Para conocer los valores de OD recomendados, vea: [Criterio de clasificación](/wiki/Ranking_Criteria)*
+*Para conocer los valores de OD recomendados, vea: [Criterio de clasificación](/wiki/Ranking_criteria)*
 
 La **Dificultad general** u **Overall difficulty** (***OD***) define lo difícil que es lograr una alta [precisión](/wiki/Gameplay/Accuracy) en un [mapa](/wiki/Beatmap). El valor varía de 0 a 10, donde un OD más alto requerirá más exactitud y precisión. Dado que la precisión es importante para ganar [salud](/wiki/Gameplay/Health), la dificultad general también influye en lo difícil que es pasar un mapa.
 

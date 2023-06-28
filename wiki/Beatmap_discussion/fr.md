@@ -44,7 +44,7 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 ## En-tête de la beatmap
 
-*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Métadonnées des musiques et des beatmaps](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps)*
+*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Métadonnées des musiques et des beatmaps](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps)*
 
 ![](img/beatmap-header.png "En-tête de la beatmap")
 
@@ -126,7 +126,7 @@ Le mod se fait par le biais de trois onglets, qui séparent les messages de diff
 
 Le champ de soumission est l'endroit où les [mods](/wiki/Modding) sont écrits. Une fois écrit, le mod doit être soumis à la page de discussion. Cela peut être fait en appuyant sur l'un des trois boutons de type ; `Compliments`, `Suggestion` ou `Problème`.
 
-`Compliments` est utilisé pour les éloges et les encouragements. `Suggestion` est utilisé pour les messages qui ne sont pas directement en conflit avec les règles. `Problème` est utilisé pour les messages qui sont en conflit direct avec les [critères de classement](/wiki/Ranking_Criteria), ou qui sont considérés comme mauvais. Une fois le bouton pressé, le mod sera soumis à la page de discussion.
+`Compliments` est utilisé pour les éloges et les encouragements. `Suggestion` est utilisé pour les messages qui ne sont pas directement en conflit avec les règles. `Problème` est utilisé pour les messages qui sont en conflit direct avec les [critères de classement](/wiki/Ranking_criteria), ou qui sont considérés comme mauvais. Une fois le bouton pressé, le mod sera soumis à la page de discussion.
 
 Si vous postez dans l'onglet `Chronologie`, vous devez inclure un horodatage dans votre message. Si votre horodatage est proche de celui d'un autre mod, **vous devrez confirmer qu'il ne concerne pas le problème que vous soumettez actuellement.** Il peut être utile d'épingler le champ de modding pendant que vous vérifiez d'autres problèmes. L'activation de l'épingle permettra au champ de soumission de défiler avec vous.
 

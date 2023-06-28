@@ -59,7 +59,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China |
-| [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=IT }:: Italien |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -502,6 +502,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: Südkorea |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11.08.2022 | 09.10.2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01.08.2023 | 02.08.2023 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 
