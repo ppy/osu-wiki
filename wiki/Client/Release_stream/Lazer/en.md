@@ -12,7 +12,7 @@ tags:
 # Lazer release stream
 
 *For a list of features in lazer and common questions regarding the new client, see: [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*For an list of changes to game mechanics, see: [Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*For a list of changes to game mechanics, see: [Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 ::: Infobox
 
