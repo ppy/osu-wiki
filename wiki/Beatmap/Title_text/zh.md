@@ -6,7 +6,7 @@ tags:
   - 显示标题
 ---
 
-# Beatmap title text
+# 谱面标题文本
 
 <!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
 
@@ -16,19 +16,19 @@ tags:
 
 If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboard), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
-## Changing Title Text
+## 修改标题文本
 
 Only members of the [NAT](/wiki/People/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
 
 When you get in contact with one of these people, you'll need to provide them a string that describes the content and formatting of the title text. osu! requires this string to be written in a very particular way, as specified in the following section.
 
-### Syntax
+### 语法
 
 Title text usually has multiple lines, so osu! uses pipes (`|`) to separate them when inputting title text. Each line of the title text is written with formatting options enclosed in brackets (`[]`) preceding it. The formatting options are comma-separated and in a `key:value` format.
 
 A newly-submitted beatmap will have its title text set to `[size:20,bold:0]Artist|Title`, where `Artist` and `Title` are the map's unicode artist and title respectively. This is what most Ranked maps use, since very few mappers change this away from the default.
 
-#### Formatting Options
+#### 格式设置
 
 | Key | Description | Default value |
 | :-- | :-- | :-- |
@@ -51,7 +51,7 @@ For each new line, the defaults for these two options are updated:
 
 Whenever `time` is specified explicitly, `hold` is set to `4000 + 800n`. For this reason, it is important to always set `time` *before* `hold` if you use both in the same line. Otherwise, `hold` will be overwritten.
 
-#### Example
+#### 示例
 
 `[time:600,size:30,colour:255.0.0]Line 1|[bold:0,wait:100,hold:2000]Line 2`
 

@@ -5,10 +5,10 @@ tags:
   - 歌曲串烧
 ---
 
-# Song compilation
+# 歌曲串烧
 
-A **song compilation** is a collection of three or more songs, entire or partial, which usually share a genre, artist, or other theme.
+**歌曲串烧**指的是包含三首以上完整或部分歌曲的合集，这些歌曲通常有相同的流派、艺术家或其他主题。
 
-[Beatmaps](/wiki/Beatmap) of song compilations use a single audio file that contains the whole collection of songs, usually including only a single chorus or verse of each. This is not to be confused with a beatmap that includes multiple song files in its folder.
+歌曲串烧[谱面](/wiki/Beatmap)使用带有整个歌曲合集的音频文件，通常只包含每首歌曲的副歌或主歌部分。请不要与文件夹内有多个歌曲文件的谱面混淆。
 
 <!-- TODO: add any other relevant information? popular ranked songs compilations? -->

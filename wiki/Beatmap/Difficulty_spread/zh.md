@@ -6,12 +6,12 @@ tags:
   - 渐进
 ---
 
-# Difficulty spread
+# 难度分布
 
-A **difficulty spread** is a set of [difficulties](/wiki/Beatmap/Difficulty) in a [beatmap](/wiki/Beatmap) within some range of [star rating](/wiki/Beatmap/Star_rating) values.
+**难度分布**指的是一张[谱面](/wiki/Beatmap)内的一组[难度](/wiki/Beatmap/Difficulty)，这些难度位于几个[星数评价](/wiki/Beatmap/Star_rating)值区间内。
 
-[Ranked](/wiki/Beatmap/Category#ranked) beatmaps have several requirements regarding difficulty spreads as per the [ranking criteria](/wiki/Ranking_criteria):
+根据[谱面上架标准 (RC)](/wiki/Ranking_criteria)，[上架](/wiki/Beatmap/Category#上架-Ranked)谱面有几个关于难度分布的要求：
 
-- All required [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) within the spread's range must be present.
-- Difficulties lower than the lowest difficulty level required, as determined by the [spread rules](/wiki/Ranking_criteria#rules.1), are optional.
-- No two adjacent beatmap difficulties may have a significant gap in difficulty.
+- 难度分布区间内所有需要的[难度水平](/wiki/Beatmap/Difficulty#difficulty-levels)都必须存在。
+- 按照[分布规定](/wiki/Ranking_criteria#规定.1)决定的、低于所需最低难度水平的难度是可选的。
+- 相邻的两个难度之间不能存在巨大的难易程度差距。

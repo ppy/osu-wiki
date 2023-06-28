@@ -2,6 +2,7 @@
 tags:
   - collab
   - collabs
+  - 合作
 ---
 
 # 谱面合作

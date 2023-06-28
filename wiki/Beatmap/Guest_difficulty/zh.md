@@ -12,20 +12,20 @@ tags:
 
 # 客串难度
 
-*For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_criteria)*
+*对于客串难度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-A **guest difficulty**, or *GD* for short, is a [difficulty](/wiki/Beatmap/Difficulty) of a [beatmap](/wiki/Beatmap) that is not created by the [beatmap host](/wiki/Beatmap/Beatmap_host). It can usually be identified by its difficulty name containing the guest mapper's username.
+**客串难度 (Guest difficulties)** 简称为 *GD*，指的是一张[谱面](/wiki/Beatmap)中制作者不是[谱面所有者](/wiki/Beatmap/Beatmap_host)的[难度](/wiki/Beatmap/Difficulty)。通常可以通过含有客串制图者用户名的难度名辨别出来。
 
-Although not mandatory, having guest difficulties can be beneficial in many occasions as they often feature completely different mapping styles between one another, which diversifies the mapset, and helps reduce mapping burnout. Guest difficulties are most commonly requested through private messages between mappers, although they may also be requested by other means such as the in-game `#mapping` channel or [modding queues](/wiki/Community/Forum/Modding_Queues).
+尽管客串难度不是强制性的，但在许多方面是有益的，因为这些难度会体现出作图者间完全不同的作图风格，使谱面多样化，并帮助减轻作图疲劳。作图者间寻求客串难度最常使用的方法是私信，但也可以使用其他方法，比如游戏内的 `#mapping` 频道或[摸图队列](/wiki/Community/Forum/Modding_Queues)。
 
-Guest difficulties are not to be confused with difficulties that feature multiple mappers, which are instead known as [collabs](/wiki/Beatmap/Beatmap_collaborations).
+不要将客串难度与以多位作图者为特征的难度混淆，后者被称作[合作难度](/wiki/Beatmap/Beatmap_collaborations)。
 
 ## 所有权
 
 ::: Infobox
-![](img/gd_ownership.png "An example of the guest difficulty ownership control panel")
+![](img/gd_ownership.png "客串难度所有权控制面板例图")
 :::
 
-On the [beatmap discussion page](/wiki/Beatmap_discussion), the beatmap host may transfer ownership of guest difficulties to their respective mappers through the `Difficulty Owner` button. This allows for the guest difficulty owners to resolve pending issues in their difficulties on their own.
+在[谱面讨论帖](/wiki/Beatmap_discussion)上，谱面所有者可以用`难度作者`按钮将客串难度所有权转移到其作图者上。这让客串难度所有者自己解决难度中待处理的问题。
 
-Ownership of a guest difficulty cannot be changed if the beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Loved](/wiki/Beatmap/Category#loved).
+如果谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-Qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#上架-Ranked) 或[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-Loved) 状态，则无法更改客串难度所有权。
