@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # FAQ （常见问题）
 
 ## osu! 介绍
