@@ -30,7 +30,7 @@ Là người hướng dẫn đến thế giới của nhịp điệu, nhịp đ�
 
 [Giao diện](/wiki/Client/Interface) • [Cài đặt](/wiki/Client/Options) • [Cài đặt trực quan](/wiki/Client/Interface/Visual_settings) • [Phím tắt](/wiki/Client/Keyboard_shortcuts) • [Tệp cấu hình](/wiki/Client/Program_files/User_configuration_file) • [Tệp chương trình](/wiki/Client/Program_files)
 
-[Định dạng tệp](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Định dạng tệp](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

@@ -56,12 +56,13 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Muzukashii.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
+- **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
 #### Guidelines
 
 Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
-- **Avoid covering essential parts of the background with the taiko playfield.** If this happens, consider altering the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
+- **Avoid covering essential parts of the background with the taiko playfield.**
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.
 - **Avoid using smooth slider velocity changes over sections which include variable snapping.** Doing so impacts the readability of these snappings, so keep the variation low enough to avoid overlapping.
 - **Avoid abrupt slider velocity changes within patterns that already overlap (e.g. 1/4 streams).** Smooth slider velocity changes should be used in these cases to ensure that the patterns stay readable.
@@ -97,8 +98,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be 4 or less.
-- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
+- Overall Difficulty should be 3 or less.
+- HP Drain Rate should be 8 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 8, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -127,8 +128,8 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 4 or less.
+- HP Drain Rate should be 7 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 7, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -151,14 +152,14 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### Rules
 
 - **Finisher notes must not be used in any 1/6 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
-- **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern.** Placements other than this can disturb the readability for the audience at this level.
+- **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern and be of the opposite colour than its preceding note.** Placements other than this can disturb the readability for the audience at this level.
 - **Notes must be at least 1/8 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines

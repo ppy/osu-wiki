@@ -30,7 +30,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [インターフェイス](/wiki/Client/Interface) • [オプション](/wiki/Client/Options) • [ビジュアル設定](/wiki/Client/Interface/Visual_settings) • [ショートカットキー](/wiki/Client/Keyboard_shortcuts) • [設定ファイル](/wiki/Client/Program_files/User_configuration_file) • [プログラムファイル](/wiki/Client/Program_files)
 
-[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

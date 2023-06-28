@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
 ---
 
 # Mascotas
@@ -96,7 +98,7 @@ Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las par
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, también conocido como Taikonator 3000, fue uno de los participantes en el concurso de diseño de mascotas para osu!taiko. Ganó atracción como un chiste y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de esto, es mucho más único que las otras sumisiones de mascotas para osu!taiko y ha aparecido en muchas sumisiones de fanart por usuarios de la comunidad.
+Diseñado por [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, también conocido como Taikonator 3000, fue uno de los participantes en el concurso de diseño de mascotas para osu!taiko. Ganó atracción como un chiste y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de esto, es mucho más único que las otras sumisiones de mascotas para osu!taiko y ha aparecido en muchas sumisiones de fanart por usuarios de la comunidad.
 
 ### Tama
 
