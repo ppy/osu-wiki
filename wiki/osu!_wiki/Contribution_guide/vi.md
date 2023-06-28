@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
----
-
 # Hướng dẫn đóng góp cho osu! wiki
 
 Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này bao quanh về quá trình đóng góp theo từng bước một. Trong trường hợp bạn đã quen với GitHub, hãy tự nhiên làm theo quy trình làm việc với feature-branch thông dụng cho việc đề xuất sự thay đổi và đi đến phần [tự kiểm tra](#self-check).
