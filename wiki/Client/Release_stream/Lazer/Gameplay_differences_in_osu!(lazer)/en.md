@@ -80,7 +80,7 @@ When a hit lands right at the edge of the hit window, a different judgement may 
 
 Scoring in lazer will use a system similar to ScoreV2, with all ScoreV1 scores converted into the new system.
 
-There are two interchangeable display modes for scores: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers (similarly to ScoreV2), while classic scoring is the same as standardised, but scaled quadratically with the amount of hit objects in a beatmap (similar to ScoreV1). These can be selected from the settings, with all places were score is displayed in-game changing accordingly.
+There are two interchangeable display modes for scores: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers (similarly to ScoreV2), while classic scoring is the same as standardised, but scaled quadratically with the amount of hit objects in a beatmap (similar to ScoreV1). These can be selected from the settings, with all places where score is displayed in-game changing accordingly.
 
 There are also some differences in how much score each hit object and each judgement is responsible for relative to each other.
 
