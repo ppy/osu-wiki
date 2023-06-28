@@ -13,7 +13,7 @@ La **Nomination Assessment Team** (***NAT***) est une équipe qui modère les [B
 
 Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur titre d'utilisateur. Ils disposent de droits de modération sur le site web tout comme la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), et peuvent également [nominer](/wiki/Beatmap_ranking_procedure#nominations) et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps tout comme les [membres confirmés](/wiki/People/Beatmap_Nominators#beatmap-nominators-confirmés) des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/Beatmap_Nominators/Expectations) s'appliquent aux membres de la NAT, avec quelques exceptions pour l'activité.
 
-**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
 ***Remarque : Pour signaler une infraction au code de conduite du contributeur ou un mauvais comportement d'un membre de la NAT, veuillez contacter l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -34,7 +34,7 @@ Les évaluateurs sont très demandés en raison du grand nombre de [candidatures
 
 En tant que groupe, les **conseillers** sont chargés de maintenir :
 
-- **La communication** : Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_Criteria) ainsi que d'autres documents.
+- **La communication** : Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_criteria) ainsi que d'autres documents.
 - **Le développement** : Développer et maintenir des outils et des sites web qui aideront à améliorer le processus de classement (tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), ou [le site web des NAT/BN](https://bn.mappersguild.com/home)).
 - **La modération** : Traiter les signalements des utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, tout en traitant les passages en revue du contenu des beatmaps. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
 - **L'entretien divers** : Inclut sans s'y limiter :
@@ -74,7 +74,7 @@ Avant d'ajouter un nouveau conseiller, cet ajout est vérifié avec le reste de 
 
 *Remarque : Tous les membres de la NAT parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 ### osu!
 

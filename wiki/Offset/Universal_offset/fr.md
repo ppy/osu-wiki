@@ -8,7 +8,7 @@ tags:
 # Universal offset
 
 *Pour d'autres utilisations, voir [Offset](/wiki/Offset).*\
-*Pour des instructions étape par étape sur la façon de régler l'universal offset à la valeur correcte, voir : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).*
+*Pour des instructions étape par étape sur la façon de régler l'universal offset à la valeur correcte, voir : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard).*
 
 **L'universal offset** (ou **offset global** souvent appelé décalage universel) est une [option](/wiki/Client/Options) qui déplace l'apparence des [objets](/wiki/Gameplay/Hit_object) par rapport à l'audio dans toutes les [beatmaps](/wiki/Beatmap). Cela peut s'avérer utile pour les joueurs qui subissent des décalages auditifs ou visuels. L'universal offset fonctionne avec le [décalage local](/wiki/Offset/Local_offset) pour calculer l'offset total.
 

@@ -15,15 +15,15 @@ no_native_review: true
 Въпросите за теста се изтеглят от огромен басейн с въпроси, подредени по категория. Следните категории са включени към въпросите от теста:
 
 - [Правила за бийтмап номинатори](/wiki/People/Beatmap_Nominators/Rules): 5 въпроса
-- [Указания при създаване и редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 въпрос
-- [Основни критерии за класиране](/wiki/Ranking_Criteria#general) (*КК*): 1 въпрос
-- [Обхват КК](/wiki/Ranking_Criteria#beatmap): 1 въпрос
-- [Метаданни КК](/wiki/Ranking_Criteria#metadata): 1 въпрос
-- [Синхронизиране КК](/wiki/Ranking_Criteria#timing): 1 въпрос
-- [Аудио КК](/wiki/Ranking_Criteria#audio): 1 въпрос
-- [Видео и заден фон КК](/wiki/Ranking_Criteria#video-and-background): 1 въпрос
-- [Облици КК](/wiki/Ranking_Criteria#skinning): 1 въпрос
-- [Анимирана история КК](/wiki/Ranking_Criteria#storyboarding)
+- [Указания при създаване и редактиране](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 въпрос
+- [Основни критерии за класиране](/wiki/Ranking_criteria#general) (*КК*): 1 въпрос
+- [Обхват КК](/wiki/Ranking_criteria#beatmap): 1 въпрос
+- [Метаданни КК](/wiki/Ranking_criteria#metadata): 1 въпрос
+- [Синхронизиране КК](/wiki/Ranking_criteria#timing): 1 въпрос
+- [Аудио КК](/wiki/Ranking_criteria#audio): 1 въпрос
+- [Видео и заден фон КК](/wiki/Ranking_criteria#video-and-background): 1 въпрос
+- [Облици КК](/wiki/Ranking_criteria#skinning): 1 въпрос
+- [Анимирана история КК](/wiki/Ranking_criteria#storyboarding)
 - Вид игра-свързани КК: 4 въпроса свързани с избрания вид игра за който кандидатствате (osu!, osu!taiko, osu!catch, osu!mania)
 
 Няма праг за преминат или провален тест, все пак е общоприето че резултат над 15 е добър, между 12.5 и 15 е среден, а всеки по-нисък резултат е притеснителен.

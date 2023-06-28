@@ -1,6 +1,6 @@
 # 消歧义
 
-[osu! wiki](/wiki/Main_Page) 中的**消歧义**文章突出易混淆的术语，并会解释其各种可能的含义。
+[osu! wiki](/wiki/Main_page) 中的**消歧义**文章突出易混淆的术语，并会解释其各种可能的含义。
 
 如果常规文章的标题相似，就必须使用[“对于更多义项”头注](/wiki/Article_styling_criteria/Formatting#对于更多义项)，并附上到消歧义页面的链接。
 

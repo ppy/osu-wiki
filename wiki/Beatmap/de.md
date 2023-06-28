@@ -20,7 +20,7 @@ Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln 
 
 *Hauptartikel: [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)*
 
-Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/Osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
+Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/Osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
 
 ## Einreichen
 
@@ -51,7 +51,7 @@ Eine eingereichte Beatmap gehört zu einer der folgenden Kategorien, die sich ü
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Einige Kategorien haben [Einreichungskriterien](/wiki/Ranking_Criteria) und erlauben den Beatmaps, vorübergehende oder dauerhafte [Ranglisten](#ranglisten) zu haben. Die beliebteste Methode, dies zu erreichen, ist das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure), während die zweite Option ist, die Beatmap in die Kategorie [loved](Category#loved) zu verschieben.
+Einige Kategorien haben [Einreichungskriterien](/wiki/Ranking_criteria) und erlauben den Beatmaps, vorübergehende oder dauerhafte [Ranglisten](#ranglisten) zu haben. Die beliebteste Methode, dies zu erreichen, ist das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure), während die zweite Option ist, die Beatmap in die Kategorie [loved](Category#loved) zu verschieben.
 
 ## Beatmaps herunterladen
 

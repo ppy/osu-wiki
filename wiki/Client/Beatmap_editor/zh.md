@@ -15,7 +15,7 @@
 
 ## 作曲 (Compose)
 
-[作曲 (Compose)](/wiki/Client/Beatmap_editor/Compose) 是编辑器中放置[打击物件](/wiki/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
+[作曲 (Compose)](/wiki/Client/Beatmap_editor/Compose) 是编辑器中放置[打击物件](/wiki/Gameplay/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
 
 ## 设计 (Design)
 
@@ -27,7 +27,7 @@
 
 ## 歌曲设定 (Song setup)
 
-[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 

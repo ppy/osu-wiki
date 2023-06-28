@@ -12,7 +12,7 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 ### Song Setup
 
-*Siehe auch: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Siehe auch: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Wenn du ein neues [Beatmap](/wiki/Beatmap) erstellst, siehst du diesen Dialog immer als allererstes.
 

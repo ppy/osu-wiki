@@ -42,7 +42,7 @@ La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás mode
 
 ## Encabezado del mapa
 
-*Para obtener información sobre la configuración de metadatos, vea: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
+*Para obtener información sobre la configuración de metadatos, vea: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Encabezado del mapa")
 
@@ -124,7 +124,7 @@ El modeo se realiza a través de tres pestañas, que separan las publicaciones d
 
 El campo de envío es donde se escriben los [modeos](/wiki/Modding). Una vez escrito, el modeo debe enviarse a la página de discusión. Esto se puede hacer presionando uno de los tres botones de tipo; `Elogio`, `Sugerencia` o `Problema`.
 
-`Elogio` se usa para elogiar y animar. `Sugerencia` se usa para publicaciones que no están directamente en conflicto con ninguna regla. `Problema` se usa para publicaciones que están en conflicto directo con los [Criterios de clasificación](/wiki/Ranking_Criteria), o que se consideran intersubjetivamente incorrectas. Una vez que se presiona un botón, el modeo se enviará a la página de discusión.
+`Elogio` se usa para elogiar y animar. `Sugerencia` se usa para publicaciones que no están directamente en conflicto con ninguna regla. `Problema` se usa para publicaciones que están en conflicto directo con los [Criterios de clasificación](/wiki/Ranking_criteria), o que se consideran intersubjetivamente incorrectas. Una vez que se presiona un botón, el modeo se enviará a la página de discusión.
 
 Si publica en la pestaña `Línea de tiempo`, debe incluir una marca de tiempo en su publicación. Si su marca de tiempo está cerca de otro modeo, deberá confirmar que no aborda el problema que está enviando actualmente. **¡Revisa cada publicación antes de marcar la casilla!** Puede ser beneficioso `Anclar` el campo de modeo mientras se comprueban otros problemas. Habilitar el anclaje permitirá que el campo de envío se desplace contigo.
 

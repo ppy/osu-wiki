@@ -39,7 +39,7 @@ tags:
 
 如果不是，你需要把谱面的每一个难度的这一栏改为你的名字，重载谱面，然后你应该就可以提交了。
 
-如果你仍然有这个问题，你可以查阅 [谱面提交系统问题](/wiki/Guides/BSS_Issues).
+如果你仍然有这个问题，你可以查阅 [谱面提交系统问题](/wiki/Guides/BSS_issues).
 
 ## 我是osu!supporter，但我没有10个谱面槽位！ {id=upload-slots}
 

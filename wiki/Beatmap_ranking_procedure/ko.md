@@ -19,7 +19,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 ## 지명
 
-[Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)들은 모딩에 숙련된 유저들이며 비트맵 랭킹을 위해 지명을 할 수 있습니다. 그들의 역할은 [Ranking Criteria](/wiki/Ranking_Criteria)에 부합하고, 본인이 생각하는 퀄리티를 충족하는 비트맵을 지명하는 것입니다.
+[Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)들은 모딩에 숙련된 유저들이며 비트맵 랭킹을 위해 지명을 할 수 있습니다. 그들의 역할은 [Ranking Criteria](/wiki/Ranking_criteria)에 부합하고, 본인이 생각하는 퀄리티를 충족하는 비트맵을 지명하는 것입니다.
 
 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)에 속한 멤버들도 비트맵 지명이 가능하지만, 그들의 주된 역할은 아닙니다.
 

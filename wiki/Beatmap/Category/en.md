@@ -18,25 +18,25 @@ Inactive beatmaps that have been in this category for 4 weeks are automatically 
 
 ### Qualified
 
-Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_Criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defence in which any flaws and mistakes that might have slipped through can be fixed.
+Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defence in which any flaws and mistakes that might have slipped through can be fixed.
 
 Qualified beatmaps have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted when it moves out of Qualified. They use the check icon (![](/wiki/shared/status/qualified.png)) in the song selection screen.
 
 ### Ranked
 
-Ranked beatmaps are endorsed as official content, in the sense that they have reached or surpassed the standards of the [ranking criteria](/wiki/Ranking_Criteria). They allow players to compete on leaderboards and gain [performance points](/wiki/Performance_points) from setting scores. Once a beatmap has achieved Ranked status, its status cannot be altered again (except in extraordinary cases). Ranked beatmaps use the double upwards chevron icon (![](/wiki/shared/status/ranked.png)) in the song selection screen.
+Ranked beatmaps are endorsed as official content, in the sense that they have reached or surpassed the standards of the [ranking criteria](/wiki/Ranking_criteria). They allow players to compete on leaderboards and gain [performance points](/wiki/Performance_points) from setting scores. Once a beatmap has achieved Ranked status, its status cannot be altered again (except in extraordinary cases). Ranked beatmaps use the double upwards chevron icon (![](/wiki/shared/status/ranked.png)) in the song selection screen.
 
 ### Loved
 
 *For history of the Loved category, see: [History of Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
+Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
 
 ## History
 
 ### Approved
 
-The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria.
+The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_criteria), as well as rare beatmaps that broke other rules on the criteria.
 
 Approved beatmaps did not affect a user's score ranking until shortly after the shift from score ranking to [performance points](/wiki/Performance_points) ranking. Following this change, Approved status was used exclusively for beatmaps with more than 6 minutes of [drain time](/wiki/Beatmap/Drain_time).
 

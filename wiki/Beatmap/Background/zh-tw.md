@@ -7,7 +7,7 @@ tags:
 
 # 背景
 
-*關於背景的規定，請見：[審核標準](/wiki/Ranking_Criteria)*
+*關於背景的規定，請見：[審核標準](/wiki/Ranking_criteria)*
 
 **背景** (***BG***) 圖片及影片可以被加入[圖譜](/wiki/Beatmap)之中。以 "背景" 或 "bg" 稱呼時，通堂是指背景**圖片**。
 

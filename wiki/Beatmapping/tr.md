@@ -21,7 +21,7 @@ Eğer herhangi bir nedenden dolayı şarkı seçiminde listeli değilse, beatmap
 
 ### Şarkı Kurulumu (Song Setup)
 
-*Ana sayfa: [Şarkı Kurulumu](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Ana sayfa: [Şarkı Kurulumu](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Yeni bir [map seti](/wiki/Beatmap) oluştururken, diğer başka beatmap düzenleyici kısımlarından önce her zaman bu pencereyi görürsünüz.
 

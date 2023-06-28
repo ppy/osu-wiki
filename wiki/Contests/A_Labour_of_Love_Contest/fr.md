@@ -5,7 +5,7 @@ A Labour of Love est un concours à plusieurs niveaux lancé en novembre 2020 po
 Les soumissions à ce concours comprennent les éléments suivants :
 
 - Remix de la musique *Kuba Oms - My Love* ([download stems here](https://assets.ppy.sh/contests/files/115/a_labour_of_love_stems.zip))
-- La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria) (osu! uniquement)
+- La beatmap suivra les [critères de classement](/wiki/Ranking_criteria) (osu! uniquement)
 - Storyboard ou vidéo personnalisée
 
 ## Liens
@@ -92,11 +92,11 @@ Si une équipe gagne dans plusieurs des catégories citées ci-dessus, elle sera
 
 - **La soumission doit être une "expérience complète de beatmap" comprenant les éléments suivants :**
   - Remix de la musique **Kuba Oms - My Love**
-  - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
+  - La beatmap suivra les [critères de classement](/wiki/Ranking_criteria)
   - Storyboard ou vidéo personnalisée
 - **La soumission doit être au format `.osz`.**
 - **Les beatmaps doivent être dans le mode de jeu *osu!* uniquement.** Comparer les beatmaps de différents modes dans un scénario de jugement n'est malheureusement pas réaliste.
-- **Les beatmaps doivent respecter les [critères de classement](/wiki/Ranking_Criteria).** Bien que nous puissions être indulgents avec les erreurs, les beatmaps qui ne pourraient pas être classées sans changements majeurs seront remises en question.
+- **Les beatmaps doivent respecter les [critères de classement](/wiki/Ranking_criteria).** Bien que nous puissions être indulgents avec les erreurs, les beatmaps qui ne pourraient pas être classées sans changements majeurs seront remises en question.
 - **Le nom et les membres de l'équipe doivent être confirmés via [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Si votre pays ne prend pas en charge les formulaires Google, [envoyez un message à pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Les équipes sont limitées à 5 membres.
 - **Les beatmaps ne doivent pas être dans la catégorie Qualifiée avant la fin du vote communautaire.**
 
