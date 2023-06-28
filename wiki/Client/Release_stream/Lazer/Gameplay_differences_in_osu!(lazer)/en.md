@@ -91,6 +91,12 @@ There are also some differences in how much score each hit object and each judge
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
+### Storyboard triggers are not implemented
+
+Some storyboards feature elements that react to player input or health.
+
+![](img/sb-triggers.gif)
+
 ## osu!
 
 ### Notelock has been adjusted to be more lenient
