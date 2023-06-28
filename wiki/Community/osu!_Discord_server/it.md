@@ -4,7 +4,7 @@ tags:
   - osu!dev
 ---
 
-# Server Discord osu!dev
+# Server Discord di osu!
 
 Il server Discord di **osu!**, precedentemente conosciuto come **osu!dev**, è il server ufficiale di osu! su [Discord](https://discord.com/) per scopi legati allo sviluppo. Il server funge da punto di incontro per le persone che desiderano discutere e lavorare sui progetti open source di osu! e progetti della community. Questo è il luogo principale per contribuire allo sviluppo di osu! e entrare in contatto con il [team di osu!](/wiki/People/osu!_team).
 
