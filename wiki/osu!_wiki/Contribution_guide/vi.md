@@ -48,7 +48,7 @@ Sau khi sự thay đổi đã được kiểm tra, thực hiện, và đẩy và
 
 ## Đánh giá
 
-Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
+Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#sửa-sót-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
 
 Nếu không ai quan tâm sau vài ngày, hãy thử:
 
