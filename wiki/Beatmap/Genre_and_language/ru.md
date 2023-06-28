@@ -13,7 +13,7 @@ tags:
 
 ![Жанр, язык и теги на странице карты](img/beatmap-info.png "Жанр и язык песни указаны на странице с картой")
 
-**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
+**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-meta-data), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
 
 ## Поиск карт
 

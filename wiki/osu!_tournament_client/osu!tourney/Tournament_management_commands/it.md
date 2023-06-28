@@ -38,7 +38,7 @@ I seguenti comandi di chat sono forniti per la gestione remota delle sale da tor
 - `!mp addref <nomeutente> [<nomeutente>] …` - Aggiunge un arbitro alla stanza. È possibile aggiungere un massimo di 8 arbitri. Solo il creatore della stanza può aggiungere un arbitro.
   - Gli arbitri devono unirsi alla stanza in gioco, oppure entrando nel canale di chat della stanza tramite `/join #mp_<room_id>` in IRC.
   - Gli arbitri possono gestire la stanza come il creatore, ma non possono aggiungere o rimuovere altri arbitri.
-  - L'[osu!tourney client](/wiki/osu!tourney) mostrerà la chat della stanza per gli arbitri.
+  - L'[osu!tourney client](/wiki/osu!_tournament_client/osu!tourney) mostrerà la chat della stanza per gli arbitri.
 - `!mp removeref <nomeutente> [<nomeutente>] …` - Rimuove un arbitro dalla stanza. Solo il creatore della stanza può rimuovere un arbitro.
 - `!mp listrefs` - Elenca tutti gli arbitri della stanza.
 - `!mp close` - Chiude la stanza.

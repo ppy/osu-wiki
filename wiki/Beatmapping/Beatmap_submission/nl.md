@@ -8,7 +8,7 @@ no_native_review: true
 
 ![](img/bss_warning.png "Beatmap Submission System scherm")
 
-Door `Upload Beatmap...` vanuit het `Bestand`-uitklapmenu in de editor te selecteren (sneltoetsen: `Ctrl` + `Shift` + `U`), zal het **Beatmap Submission System** (***BSS***)-venster geopend worden. Dit venster geeft in eerste instantie info om gebruikers te helpen bij het stellen van mappen-gerelateerde vragen, het vinden van [feedback](/wiki/Modding) voor hun beatmaps, en om ervoor te zorgen dat hun maps geschikt zijn om Ranked te worden. Als je problemen ondervindt bij het gebruiken van het BSS, bekijk dan de [BSS Problemen](/wiki/Guides/BSS_Issues)-gids.
+Door `Upload Beatmap...` vanuit het `Bestand`-uitklapmenu in de editor te selecteren (sneltoetsen: `Ctrl` + `Shift` + `U`), zal het **Beatmap Submission System** (***BSS***)-venster geopend worden. Dit venster geeft in eerste instantie info om gebruikers te helpen bij het stellen van mappen-gerelateerde vragen, het vinden van [feedback](/wiki/Modding) voor hun beatmaps, en om ervoor te zorgen dat hun maps geschikt zijn om Ranked te worden. Als je problemen ondervindt bij het gebruiken van het BSS, bekijk dan de [BSS Problemen](/wiki/Guides/BSS_issues)-gids.
 
 Als de beatmap die een gebruiker wilt uploaden nog niet op de osu! website staat, zal het BSS-venster aangeven hoeveel nieuwe uploads een gebruiker nog kan publiceren. Als een beatmap genomineerd is zal het venster de gebruiker waarschuwen dat de nominatie gereset zal worden door de beatmap te updaten. Als de beatmap [Graveyarded](/wiki/Beatmap/Category#graveyard) (In het kerkhof) is zal het venster de gebruiker waarschuwen dat de beatmap terug naar de Pending (In Afwachting)-categorie zal worden verhoogd door deze te updaten.
 

@@ -9,7 +9,7 @@ tags:
 
 ![Sebuah screenshot dari aliran, bahasa, dan tags di dalam halaman beatmap](img/beatmap-info.png "Aliran dan bahasa terdapat dalam halaman daftar beatmap.")
 
-[Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap [metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata).
+[Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata).
 
 Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam [osu!(lazer)](/wiki/Client/Release_stream/Lazer) dimasa yang akan datang.
 

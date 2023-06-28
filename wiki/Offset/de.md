@@ -14,8 +14,8 @@ Je nach Offset wird dieser entweder vom Ersteller der Beatmap eingestellt, vom S
 
 ### Mapping
 
-- Ein [nicht vererbter Timing-Punkt](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("rote Linie"), der Start einer neuen [Timing-Sektion](/wiki/Beatmapping/Timing_section). Timing-Punkte liegen in einem Versatz relativ zum Anfang der Audiodatei, aber der Timing-Punkt selbst wird manchmal auch "Offset" genannt.
-- Ein [vererbter Timing-Punkt](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("grüne Linie"), eine [Timing-Sektion](/wiki/Beatmapping/Timing_section), die Einstellungen wie [Kiai](/wiki/Gameplay/Kiai_time), [Samplesets](/wiki/Beatmapping/Sampleset), die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) und die Lautstärke von Hitsounds steuert.
+- Ein [nicht vererbter Timing-Punkt](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("rote Linie"), der Start einer neuen [Timing-Sektion](/wiki/Client/Beatmap_editor/Timing). Timing-Punkte liegen in einem Versatz relativ zum Anfang der Audiodatei, aber der Timing-Punkt selbst wird manchmal auch "Offset" genannt.
+- Ein [vererbter Timing-Punkt](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("grüne Linie"), eine [Timing-Sektion](/wiki/Client/Beatmap_editor/Timing), die Einstellungen wie [Kiai](/wiki/Gameplay/Kiai_time), [Samplesets](/wiki/Beatmapping/Sampleset), die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) und die Lautstärke von Hitsounds steuert.
 - Beatmap-Versatz, die Zeitspanne zwischen dem Beginn der Audiodatei und dem ersten [Downbeat](/wiki/Music_theory/Downbeat) des Songs, gesteuert durch Timing-Punkte.
 
 ## Beatmapeinstellungen

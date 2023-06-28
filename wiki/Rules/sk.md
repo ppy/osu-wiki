@@ -41,7 +41,7 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 
 Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Beatmapping/Beatmap_submission). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/Client/Beatmap_editor).
 
-Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktoré sa nazývajú [Kritéria pre ohodnotenie](/wiki/Ranking_Criteria).
+Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktoré sa nazývajú [Kritéria pre ohodnotenie](/wiki/Ranking_criteria).
 
 1. **Uisti sa, či máš povolenie používať akýkoľvek obsah v tvojej beatmape.** Toto zahŕňa hudbu, videá, zvuky klikania, grafiku alebo akýkoľvek obsah ktorý nie je tvoj. Pokiaľ si si neistý kde nájsť obsah ktorý je zadarmo na použitie, máme rastúcu knižnicu skladieb od [Významných umelcov](https://osu.ppy.sh/beatmaps/artists/), ktoré sú 100% licensované pre osu!.
 2. **Drž sa témy v diskusiách o beatmapách.** Tieto vlákna sú o beatmape a o ničom inom. Pokiaľ máš problém s niečim iným daj to do vhodného fóra.

@@ -59,7 +59,7 @@
 | [osu!catch 世界杯 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
-| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | *TBD* | *TBD* | *TBD* |
+| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
@@ -495,6 +495,7 @@
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: 日本 A | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: 马来西亚 | ::{ flag=CN }:: 中国 A | ::{ flag=KR }:: 韩国 |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 

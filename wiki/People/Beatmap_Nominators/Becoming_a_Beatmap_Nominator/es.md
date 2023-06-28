@@ -9,7 +9,7 @@ Los usuarios interesados en unirse a los [Beatmap Nominators](/wiki/People/Beatm
 
 Las solicitudes se realizan a través del [sitio web del NAT](http://bn.mappersguild.com/bnapps).
 
-Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/Kudosu), enviar al menos dos mapas que hayan moddeado recientemente y completar una [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) en los [criterios de clasificación](/wiki/Ranking_Criteria) para enviar su solicitud. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Puede encontrar más información sobre la aplicación en el sitio web.
+Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/Kudosu), enviar al menos dos mapas que hayan moddeado recientemente y completar una [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) en los [criterios de clasificación](/wiki/Ranking_criteria) para enviar su solicitud. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Puede encontrar más información sobre la aplicación en el sitio web.
 
 ## Criterios básicos
 
@@ -35,7 +35,7 @@ Los siguientes son los rasgos de modding que se esperan de los Beatmap Nominator
 ### Cómo se eligen los nuevos potenciales Beatmap Nominators
 
 - Los modders serán evaluados por los miembros del NAT correspondientes al modo de juego que solicitaron, teniendo en cuenta los siguientes criterios:
-  - Actitud general: Tono de entrega de los mods y otras expectativas de comportamiento del [código de conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), así como comportamiento general en chat/foros.
+  - Actitud general: Tono de entrega de los mods y otras expectativas de comportamiento del [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), así como comportamiento general en chat/foros.
   - Habilidades de modding: Conocimiento de los criterios generales de clasificación y criterios específicos de cada modo de juego.
 - Después de evaluar a cada modder, se realizará una discusión sobre si el modder se unirá a los Beatmap Nominators.
 

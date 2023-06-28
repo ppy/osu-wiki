@@ -34,7 +34,7 @@ You should contact this team regarding account-related topics that are out of yo
 *Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Concerns about a moderator's misbehaviour.
-- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
+- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct).
 - [Payment issues](/wiki/Help_centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_centre/Client#online-features).
 

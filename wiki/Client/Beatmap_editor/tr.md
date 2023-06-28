@@ -29,7 +29,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Song Setup (Müzik Kurulumu)
 
-[Song setup (Müzik kurulumu)](/wiki/Client/Beatmap_editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) ve [beatmap setleri](/wiki/Beatmap) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
+[Song setup (Müzik kurulumu)](/wiki/Client/Beatmap_editor/Song_setup) beatmapin [metaverisini](/wiki/Ranking_criteria#metadata) ve [beatmap setleri](/wiki/Beatmap) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
 
 ## Diğer
 

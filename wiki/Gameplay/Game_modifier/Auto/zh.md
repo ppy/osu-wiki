@@ -16,8 +16,8 @@ tags:
 
 ![AT 模组图标](/wiki/shared/mods/AT.png "Auto (AT) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*请勿与 [Autopilot（模组）](/wiki/Game_modifier/Autopilot)混淆。*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*请勿与 [Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)混淆。*
 
 ## 关于
 
@@ -32,7 +32,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-**Auto** [游戏模组](/wiki/Game_modifier)让玩家看看所选谱面完美的自动表演。
+**Auto** [游戏模组](/wiki/Gameplay/Game_modifier)让玩家看看所选谱面完美的自动表演。
 
 此模组的功能酷似[回放](/wiki/Gameplay/Replay)，照常可以设置 0.5x/1.0x/2.0x 的回放速度，也可以看到谱面评论。除了极少数特殊情况，启用此模组的游玩总会获得 SS 等级。
 

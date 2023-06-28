@@ -13,8 +13,8 @@ tags:
 
 ![DT 模组图标](/wiki/shared/mods/DT.png "Double Time (DT) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*另见：[Nightcore （模组）](/wiki/Game_modifier/Nightcore)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*另见：[Nightcore （模组）](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## 关于
 
@@ -28,13 +28,13 @@ tags:
 - 默认快捷键： `D`
 - 描述： `加>>>>>>>>>>>速（1.5倍速）（按下切换到Nightcore）`
 - 兼容的游戏模式： ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- 变体： [Nightcore](/wiki/Game_modifier/Nightcore)
+- 变体： [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## 说明
 
 *注意：此模组用于增加速度，不会提高歌曲音调。*
 
-**Double Time** [游戏模组](/wiki/Game_modifier)将[谱面](/wiki/Beatmap)的总体速度提高至 150% （1.5 倍），将歌曲长度缩短 33%，增加[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)、[整体难度 (OD)](/wiki/Beatmapping/Overall_difficulty)以及 [掉血速度 (HP)](/wiki/Gameplay/Health)，旨在尝试增加谱面难度。
+**Double Time** [游戏模组](/wiki/Gameplay/Game_modifier)将[谱面](/wiki/Beatmap)的总体速度提高至 150% （1.5 倍），将歌曲长度缩短 33%，增加[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[整体难度 (OD)](/wiki/Beatmap/Overall_difficulty)以及 [掉血速度 (HP)](/wiki/Gameplay/Health)，旨在尝试增加谱面难度。
 
 Double Time 模组被公认为在 [osu!](/wiki/Game_mode/osu!) 简单难度中获得大量[表现分](/wiki/Performance_points)的最佳模组之一。
 

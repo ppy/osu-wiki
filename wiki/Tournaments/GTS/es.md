@@ -9,6 +9,10 @@ Directorio de torneos de Global Taiko Showdown.
 - [Advanced Global Taiko Showdown 2021](AGTS_2021)
 - [Advanced Global Taiko Showdown 2022](AGTS_2022)
 
+## cavoe's osu! event's Global Taiko Showdown
+
+- [cavoe's osu! event's Global Taiko Showdown 2023](COEGTS_2023)
+
 ## Continental Global Taiko Showdown
 
 - [Continental Global Taiko Showdown 2019](CGTS_2019)

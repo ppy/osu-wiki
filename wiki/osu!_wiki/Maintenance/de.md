@@ -26,7 +26,7 @@ Der [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) des osu!-Wikis enth�
 
 Auf GitHub können Änderungsanfragen und Issues mit [Labels](https://github.com/ppy/osu-wiki/labels) gekennzeichnet und klassifiziert werden, die verschiedene Aspekte einer Änderungsanfrage oder Issues darstellen. Labels sind informativ, werden von den Verantwortlichen des osu!-Wikis hinzugefügt und sind typischerweise selbsterklärend. Sie erfordern zwar keine Maßnahmen für den Nutzer, aber rote Labels dienen als Erinnerung oder Aufforderung zum Handeln für andere Betreuer:
 
-- `rule change`: Die Änderung beeinflusst eine bereits existierende Reihe an Regeln, wie die [Ranking-Kriterien](/wiki/Ranking_Criteria) und muss von dem Eigentümer des Bereichs überprüft werden.
+- `rule change`: Die Änderung beeinflusst eine bereits existierende Reihe an Regeln, wie die [Ranking-Kriterien](/wiki/Ranking_criteria) und muss von dem Eigentümer des Bereichs überprüft werden.
 - `blocked`: Die Änderung hat Probleme, die vor dem Fortfahren beseitigt werden müssen, oder hängt von einem anderen Issue ab, das als erstes gelöst werden muss.
 - `needs rebase`: Die Änderungsanfragen hat zu viele, kleine, unstrukturierte Commits, die neu geschrieben und besser formuliert werden müssen. Das wird meistens von den Verantwortlichen kurz vor der Zusammenführung gemacht.
 
