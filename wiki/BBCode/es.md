@@ -263,6 +263,7 @@ La imagen, que está incrustada en el sitio web, está representada por el argum
 Para agregar un área en la que se puede hacer clic, se debe insertar una nueva línea que contenga la posición x e y del área, el ancho y el alto del área, así como un enlace para redirigir después del argumento `URL_DE_LA_IMAGEN`. Además, se mostrará un argumento `TÍTULO` opcional al pasar el cursor por el área si se especifica. Un enlace se puede especificar con el argumento `REDIRECCIÓN` u omitirse con `#`. Cada unidad de tamaño (`X`, `Y`, `ANCHO` y `ALTURA`) es un porcentaje (0–100) sin el signo de porcentaje.
 
 Botón de la barra de herramientas: ![Botón de mapa de imagen](img/imagemap.png "Mapa de imagen")
+
 ### YouTube
 
 ```
