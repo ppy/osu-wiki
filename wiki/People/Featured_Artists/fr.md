@@ -77,6 +77,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
+| ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |

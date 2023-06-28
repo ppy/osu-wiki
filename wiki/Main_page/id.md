@@ -28,7 +28,7 @@ osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! m
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
-[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
