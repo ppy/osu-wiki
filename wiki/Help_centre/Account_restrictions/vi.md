@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
----
-
 # Hạn chế tài khoản
 
 *Bài báo chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
