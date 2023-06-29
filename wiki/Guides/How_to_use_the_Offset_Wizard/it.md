@@ -14,7 +14,7 @@ Segui i seguenti passaggi per regolare il tuo offset universale utilizzando la T
 
 La procedura di taratura guidata dell'offset inizierà, riproducendo un brano precedentemente riprodotto, mentre delle barre verdi verticali scorreranno sullo schermo orizzontalmente. Si potrà udire anche un metronomo, per tenere il ritmo.
 
-## Calibrare l'offset universale
+## Tarare l'offset universale
 
 1. Ascolta attentamente la musica e il metronomo contemporaneamente.
 2. Inizia a regolare l'offset universale su o giù, usando le corrispondenti freccette, o la rotellina del mouse.
