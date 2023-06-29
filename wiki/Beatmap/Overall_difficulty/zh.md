@@ -9,13 +9,13 @@ tags:
   - 转盘难度
 ---
 
-# Overall difficulty
+# 总体难度 (Overall difficulty)
 
-*For recommended OD values, see: [Ranking criteria](/wiki/Ranking_criteria)*
+*关于建议的 OD 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
 **Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Gameplay/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining [health](/wiki/Gameplay/Health), overall difficulty also influences how hard it is to pass a beatmap.
 
-## Timing
+## 计时
 
 Higher OD values mean shorter time windows to clear [hit objects](/wiki/Gameplay/Hit_object), both in general and in terms of getting high [score](/wiki/Gameplay/Score) values. The maximum allowed hit error for each hit object in [osu!](/wiki/Game_mode/osu!) and [osu!mania](/wiki/Game_mode/osu!mania), centred on the hit object's correct time, is defined by the tables below.
 
@@ -27,7 +27,7 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 
 ### osu!
 
-| Score | Hit window (ms) |
+| 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
 | 300 | `80 - 6 * OD` |
 | 100 | `140 - 8 * OD` |
@@ -41,7 +41,7 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 and https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs#L56-L61
 the same formula is used in stable -->
 
-| Score | Hit window (ms) |
+| 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
 | Great |  `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` if OD < 5, `80 + (50 - 80) * (OD - 5) / 5` if OD > 5, otherwise `80` |
@@ -49,7 +49,7 @@ the same formula is used in stable -->
 
 ### osu!mania
 
-| Score | Hit window (ms) |
+| 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
 | MAX | `16` |
 | 300 | `64 - 3 * OD` |
@@ -59,7 +59,7 @@ the same formula is used in stable -->
 
 If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 
-## Sliders and spinners
+## 滑条和转盘
 
 In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) will reward a 300 as long as they are hit within the 50's hit window. This is sometimes called slider leniency and is removed in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 
@@ -69,21 +69,21 @@ Overall difficulty also affects [spinners](/wiki/Gameplay/Hit_object/Spinner), i
 - OD = 5: `5`
 - OD > 5: `5 + 2.5 * (OD - 5) / 5`
 
-## Mod effects
+## 模组效果
 
-There are four [mods](/wiki/Gameplay/Game_modifier) that alter the overall difficulty when activated:
+以下 4 个[模组](/wiki/Gameplay/Game_modifier)激活时会改变总体难度：
 
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the OD value.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% play speed increase, hit windows are 33% shorter.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% play speed decrease, hit windows are 33% larger.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：将 OD 值减半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 OD 值乘上 1.4，最大值为 10。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：OD 值不受影响，但由于 50% 加速效果，打击窗口缩短 33%。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：OD 值不受影响，但由于 25% 减速效果，打击窗口延长 33%。
 
-While Half Time and Double Time do not change the OD value, the speed difference leads to a change in the hit windows. Because the scaling is different for each score value, DT causes the windows for 100 and 50 to become tighter than usual compared to 300, and HT causes them to become more lenient.
+尽管 Half Time 和 Double Time 模组不改变 OD 值，但速度的不同也会导致打击窗口的改变。由于每个分数值的缩放方式不同，与 300 判定相比，DT 会导致 100 和 50 判定的窗口更紧，HT 则使其更宽。
 
 ## osu!catch
 
-Overall difficulty is visible when viewing beatmap information, but it does not affect gameplay.
+浏览谱面信息时可以看到总体难度，但不影响游玩。
 
-## References
+## 参考
 
-[^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki in osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
+[^judgement-rounding-ref]: [osu!dev 的 #osu-wiki 频道下，spaceman_atlas 的 Discord 消息 (2022-05-06)](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)

@@ -7,20 +7,20 @@ tags:
   - 被动掉血速度
 ---
 
-# HP drain rate
+# 掉血速度 (HP drain rate)
 
-*For health as a gameplay mechanic, see: [Health](/wiki/Gameplay/Health)*\
-*For regulations surrounding HP drain rate, see: [Ranking criteria](/wiki/Ranking_criteria)*
+*关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*\
+*关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-**HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to [health drain](/wiki/Gameplay/Health). It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
+**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制由于[掉血](/wiki/Gameplay/Health)被动失去的[血量](/wiki/Gameplay/Health)。也会影响玩家漏掉物件时被惩罚的严重情况，以及准确点击[打击物件](/wiki/Gameplay/Hit_object)获得的血量多少。
 
-HP ranges from 0 to 10, where 10 is the most punishing and 0 is the most lenient.<!-- TODO: quantify what the value actually means -->
+HP 值取值范围为 0 ~ 10，其中 10 是惩罚最严的，0 是最宽松的。<!-- TODO: quantify what the value actually means -->
 
-## Mod effects
+## 模组效果
 
-There are four mods that alter the HP drain rate when activated:
+以下 4 个模组激活时会改变掉血速度：
 
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the HP value.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the HP value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The HP value is not affected, but due to the 50% play speed increase, health drain occurs 50% faster.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The HP value is not affected, but due to the 25% play speed decrease, health drain occurs 25% slower.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：将 HP 值减半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 HP 值乘上 1.4，最大值为 10。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：HP 值不受影响，但由于 50% 加速效果，掉血速度加快 50%。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：HP 值不受影响，但由于 25% 减速效果，掉血速度减缓 25%。

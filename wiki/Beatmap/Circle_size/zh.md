@@ -5,35 +5,35 @@ tags:
   - 键数
 ---
 
-# Circle size
+# 圆圈大小 (Circle size)
 
-*For regulations surrounding circle size, see: [Ranking criteria](/wiki/Ranking_criteria)*
+*关于圆圈大小相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-**Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Gameplay/Hit_object). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Client/Beatmap_editor). Other values can be used by manually editing the [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)) of a map.
+**圆圈大小** (***CS***) 是一张[谱面](/wiki/Beatmap)的难度设置，影响[打击物件](/wiki/Gameplay/Hit_object)的大小。圆圈大小取值范围为 0 ~ 10，但在[谱面编辑器](/wiki/Client/Beatmap_editor)里只能取到 2 ~ 7。可以通过手动编辑谱面的 [`.osu` 文件](/wiki/Client/File_formats/Osu_(file_format))来设置其他数值。
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!), circle size changes the size of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider), with higher values creating smaller hit objects. [Spinners](/wiki/Gameplay/Hit_object/Spinner) are unaffected by circle size. Circle size is derived through the following formula:
+在 [osu!](/wiki/Game_mode/osu!) 中，圆圈大小改变[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)与[滑条](/wiki/Gameplay/Hit_object/Slider)的大小，CS 值越高，打击物件越小。[转盘](/wiki/Gameplay/Hit_object/Spinner)不受 CS 值影响。圆圈大小由以下公式得出：
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Where `r` is the radius measured in [osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel), and `CS` is the circle size value.
+其中，`r` 是以 [osu! 像素](/wiki/Client/Beatmap_editor/osu!_pixel)为单位的半径，`CS` 是 CS 值。
 
 ## osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), circle size does not affect gameplay.
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，圆圈大小不影响游玩。
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), circle size determines the size of the catcher and the [fruit](/wiki/Gameplay/Hit_object/Fruit).
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，圆圈大小决定小人与[大果](/wiki/Gameplay/Hit_object/Fruit)的大小。
 
 ## osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), circle size refers to the key count.
+在 [osu!mania](/wiki/Game_mode/osu!mania) 中，圆圈大小指按键数目。
 
-## Mod effects
+## 模组效果
 
-There are two mods that alter circle size when activated:
+以下 2 个模组激活时会改变圆圈大小：
 
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the CS value.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the CS value by 1.3, up to a maximum of 10.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：将 CS 值减半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 CS 值乘上 1.3，最大值为 10。

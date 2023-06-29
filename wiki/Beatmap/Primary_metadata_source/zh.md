@@ -13,8 +13,8 @@ tags:
 
 # 主要元数据源
 
-A **primary metadata source** is a source for `Artist`, `Title`, and `Source` fields in a [beatmap](/wiki/Beatmap)'s [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) officially promoted by the song's artist or their label.
+**主要元数据源**指的是[谱面](/wiki/Beatmap)的[元数据](/wiki/Client/Beatmap_editor/Song_setup#歌曲及谱面元数据-Song-and-Map-Metadata)中，由歌曲艺术家或其公司官方提供的 `Artist`、`Title` 和 `Source` 字段内容的来源。
 
-An artist's website, their label's website, CD scans, and official uploads to websites like Bandcamp, YouTube, and SoundCloud are considered primary sources for beatmap metadata. Third party websites such as wikis, databases (vndb, vgmdb, etc.), and music services (Spotify, iTunes, Amazon, etc.) do not always reflect the artist's intention and should not be treated as primary sources.
+艺术家及其公司的网站、CD 扫描件以及网站官方上传内容（比如 Bandcamp、YouTube 和 SoundCloud）的信息都可以被认为是谱面元数据的主要来源。第三方网站，像是 wiki 与数据库 （vndb、vgmdb 等等）以及音乐服务站 （Spotify、iTunes、Amazon 等等）不总是反映艺术家的意图，不应该看作主要元数据源。
 
-Beatmaps aiming for [Ranked](/wiki/Beatmap/Category#ranked) status are required to use metadata from a primary source. See the [ranking criteria](/wiki/Ranking_criteria#metadata) for more rules and guidelines regarding beatmap metadata.
+旨在进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态的谱面需要使用来自主要源的元数据。对于谱面元数据相关的更多规定与准则，参见[谱面上架标准 (RC)](/wiki/Ranking_criteria#metadata)。
