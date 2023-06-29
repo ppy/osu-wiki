@@ -2,7 +2,7 @@
 
 *Vedi anche: [Offset Wizard](/wiki/Client/Options/Offset_Wizard) e [Offset universale](/wiki/Offset/Universal_offset)*
 
-Se gli [hitsound](/wiki/Beatmapping/Hitsound) non risultano sincronizzati con la musica in ogni beatmap che giochi, molto probabilmente dovrai cambiare il tuo [offset universale](/wiki/Offset/Universal_offset). Il modo più facile per farlo è utilizzando l'**Offset Wizard**.
+Se gli [hitsound](/wiki/Beatmapping/Hitsound) non risultano sincronizzati con la musica in ogni beatmap che giochi, molto probabilmente dovrai cambiare il tuo [offset universale](/wiki/Offset/Universal_offset). Il modo più facile per farlo è utilizzando la **Taratura Guidata dell'Offset**.
 
 Segui i seguenti passaggi per regolare il tuo offset universale utilizzando la Taratura Guidata dell'Offset.
 
