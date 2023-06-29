@@ -554,7 +554,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| Down - Realazy[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2011820) | HR4 des semaine 2 |
+| Down - Realazy[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2011820) | HR4 de la semaine 2 |
 
 #### ![](/wiki/shared/mode/osu.png) Resurrection Cup
 
