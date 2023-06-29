@@ -1,4 +1,4 @@
-# Come usare l'Offset Wizard
+# Come usare la Taratura Guidata dell'Offset 
 
 *Vedi anche: [Taratura Guidata dell'Offset](/wiki/Client/Options/Offset_Wizard) e [Offset universale](/wiki/Offset/Universal_offset)*
 
