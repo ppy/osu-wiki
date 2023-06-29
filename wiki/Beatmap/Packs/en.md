@@ -14,13 +14,13 @@ A beatmaps pack is a compressed file containing beatmaps. It is worth noting tha
 
 ## Naming
 
-The filename of the pack is based on its content, category, and upload order. For example, a beatmap pack file named:
+The filename of the pack is based on its content, category, and upload order. For example, in a beatmap pack file named:
 
 ```
 F2 - Rohi Pack.zip
 ```
 
-`F2` means the second beatmap pack under the Featured Artist category, while `Rohi Pack` refers to the pack's name shown on the beatmap packs website. This pack includes Rohi's songs only.
+`F2` means the second beatmap pack under the Featured Artist category, while `Rohi Pack` refers to the pack's name shown on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs/F2). This pack includes [Rohi](https://osu.ppy.sh/beatmaps/artists/82)'s songs only.
 
 Sometimes numbers exist in beatmap pack names, especially for Standard packs. As beatmaps in most of them are just close in time, thus using numbers to indicate their upload order. For example, `Approved Beatmap Pack #7` contains only  [approved](/wiki/Beatmap/Category#approved) beatmaps, and it is the 7th uploaded beatmap pack.
 
@@ -31,12 +31,12 @@ Beatmaps packs are split into 7 categories, with a special letter indicator:
 | Indicator | Category | Beatmap types |
 | :-: | :-- | :-- |
 | **S** | Standard | Ranked or Approved beatmaps |
-| **F** | Featured Artist | High-quality songs from the [Featured Artists](/wiki/People/Featured_Artists) |
-| **T** | Tournament | Tournament-specific beatmaps <!-- TODO: Uncertain about its real use--> |
+| **F** | Featured Artist | Songs from [Featured Artists](/wiki/People/Featured_Artists) |
+| **T** | Tournament | Tournament mappools |
 | **L** | Project Loved | Beatmaps chosen by the community in [Project Loved](/wiki/Community/Project_Loved) |
-| **R** | Spotlights | Seasonal beatmap challenge packs by [Beatmap Spotlights](wiki/Beatmap_Spotlights), formly known as **Charts** |
-| **T** | Theme | Theme based beatmaps |
-| **A** | Artist/Album | Artist/Album based beatmaps |
+| **R** | Spotlights | Seasonal beatmap challenge packs from the [Beatmap Spotlights](/wiki/Beatmap_Spotlights), formerly known as *Charts* |
+| **T** | Theme | Beatmaps based on a particular theme |
+| **A** | Artist/Album | Songs from specific artists or albums |
 
 ## Fully Completing Your Song List
 
