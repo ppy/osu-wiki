@@ -21,6 +21,6 @@ La procedura di taratura guidata dell'offset inizierà, riproducendo un brano pr
    - Se gli hitsound ti sembrano troppo in anticipo rispetto alla musica, dovrai *diminuire* il tuo offset universale.
    - Se gli hitsound ti sembrano troppo in ritardo rispetto alla musica, dovrai *aumentare* il tuo offset universale.
 3. Modificalo fin quando il ritmo del metronomo e la musica non combaciano perfettamente, aiutandoti con le barre che scorrono sullo schermo.
-4. Una volta calibrato l'offset universale con successo, premi il pulsante `Indietro` in basso a sinistra dello schermo per uscire dall'Offset Wizard.
+4. Una volta calibrato l'offset universale con successo, premi il pulsante `Indietro` in basso a sinistra dello schermo per uscire dalla procedura di Taratura Guidata dell'Offset.
 
 Se il metronomo ti sembra troppo veloce o troppo lento per la musica, potresti voler abilitare il `Mezzo tick` o il `Doppio tick` in alto a sinistra dello schermo per facilitare le cose.
