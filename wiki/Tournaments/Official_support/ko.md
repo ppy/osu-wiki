@@ -1,3 +1,10 @@
+---
+tags:
+  - badge
+  - badges
+  - badged
+---
+
 # 공식적인 토너먼트 지원
 
 *비트맵 매핑 콘테스트의 경우, [Official beatmapping contest support](/wiki/Contests/Official_support)를 참조하세요.*
