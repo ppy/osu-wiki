@@ -94,7 +94,6 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Bosnia |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituavi |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
@@ -158,7 +157,6 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesia |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesia |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanyol |
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Korea |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korea |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
@@ -172,13 +170,11 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Tionghoa |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Tionghoa |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesia |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korea |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korea |
 | ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Jerman |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
@@ -189,10 +185,10 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Korea |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Tionghoa |
+| ::{ flag=KR }:: [ssapgosu](https://osu.ppy.sh/users/16564480) | Korea |
 | ::{ flag=ID }:: [Suzume Ayase](https://osu.ppy.sh/users/14190991) | Indonesia |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonesia |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesia |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dansk |
 | ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | Tionghoa |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) | Jerman |
@@ -231,7 +227,6 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | :-- | :-- |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Tionghoa |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
-| ::{ flag=KR }:: [ssapgosu](https://osu.ppy.sh/users/16564480) | Korea |
 | ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) | Indonesia |
 
 ## Sejarah

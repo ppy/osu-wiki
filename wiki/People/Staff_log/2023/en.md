@@ -346,6 +346,10 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-08: Moved [achyoo](https://osu.ppy.sh/users/7823498) from **NAT** to **osu! Alumni**
 - 2023-06-18: Added [huu](https://osu.ppy.sh/users/6044237) to **Project Loved Team**
 - 2023-06-21: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **NAT**
+- 2023-06-28: Added [gzdongsheng](https://osu.ppy.sh/users/8660315) to **NAT**
+- 2023-06-28: Added [Tailsdk](https://osu.ppy.sh/users/6751666) to **NAT**
+- 2023-06-28: Added [MadBricktree](https://osu.ppy.sh/users/4790958) to **NAT**
+- 2023-06-28: Moved [_Stan](https://osu.ppy.sh/users/1653229) from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -355,6 +359,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-13: Added [Zekk](https://osu.ppy.sh/users/9704802) to **BN**
 - 2023-06-15: Added [davidminh0111](https://osu.ppy.sh/users/9623142) to **Probationary BN**
 - 2023-06-21: Added [Antalf](https://osu.ppy.sh/users/8793773) to **BN**
+- 2023-06-28: Added [_Stan](https://osu.ppy.sh/users/1653229) to **BN**
 
 #### Moves
 
@@ -367,6 +372,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-17: Moved [Kimitakari](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
 - 2023-06-19: Moved [nanoya](https://osu.ppy.sh/users/12366071) from **Probationary BN** to **BN**
 - 2023-06-23: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **BN** to **Probationary BN**
+- 2023-06-25: Moved [ssapgosu](https://osu.ppy.sh/users/16564480) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -376,6 +382,11 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-17: Removed [Mniam](https://osu.ppy.sh/users/6050530) from **BN**
 - 2023-06-19: Removed [Cynplytholowazy](https://osu.ppy.sh/users/3901754) from **BN**
 - 2023-06-22: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
+- 2023-06-27: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **BN**
+- 2023-06-28: Removed [gzdongsheng](https://osu.ppy.sh/users/8660315) from **BN**
+- 2023-06-28: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
+- 2023-06-28: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **BN**
+- 2023-06-28: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **BN**
 
 <!-- last updated with Mimari removed from BN 2023-06-23 20:51 UTC>
 
