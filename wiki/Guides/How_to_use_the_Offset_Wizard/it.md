@@ -12,7 +12,7 @@ Segui i seguenti passaggi per regolare il tuo offset universale utilizzando la T
 2. Vai al menù `Opzioni`, o premi `Ctrl` + `O`.
 3. Cerca "offset" nella barra di ricerca rapida, e premi sul pulsante `Taratura guidata dell'offset`.
 
-L'Offset Wizard verrà quindi aperto, riproducendo la musica precedentemente giocata in osu!, mentre delle barre verdi scorrono sullo schermo e un metronomo tiene il ritmo.
+La procedura di taratura guidata dell'offset inizierà, riproducendo un brano precedentemente riprodotto, mentre delle barre verdi verticali scorreranno sullo schermo orizzontalmente. Si potrà udire anche un metronomo, per tenere il ritmo.
 
 ## Calibrare l'offset universale
 
