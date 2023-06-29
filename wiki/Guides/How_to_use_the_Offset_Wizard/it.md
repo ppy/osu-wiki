@@ -4,7 +4,7 @@
 
 Se gli [hitsound](/wiki/Beatmapping/Hitsound) non risultano sincronizzati con la musica in ogni beatmap che giochi, molto probabilmente dovrai cambiare il tuo [offset universale](/wiki/Offset/Universal_offset). Il modo più facile per farlo è utilizzando l'**Offset Wizard**.
 
-Segui i seguenti step per regolare il tuo offset universale utilizzando l'Offset Wizard.
+Segui i seguenti passaggi per regolare il tuo offset universale utilizzando la Taratura Guidata dell'Offset.
 
 ## Aprire l'Offset Wizard
 
