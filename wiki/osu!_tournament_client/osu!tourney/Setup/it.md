@@ -34,7 +34,7 @@ Non modificare il file `tournament.cfg` mentre osu! è in esecuzione. Chiudi osu
 - `RankingChatDelay`: Ritardo (in millisecondi) prima che i punteggi vengono nascosti e venga mostrata nuovamente la chat nella schermata della classifica.
 - `Height`: Altezza dell'area di streaming del client.
   - Il client calcola automaticamente la larghezza, assumendo un rapporto d'aspetto di 16:9.
-  - L'"area di streaming" del client non include il pannello di controllo. In generale, il pannello di controllo è più grande di 200 px rispetto all'altezza del client, quindi, ad esempio, una risoluzione di 1440p sarebbe consigliabile per lo streaming di un torneo a 1080p.
+  - "L'area di streaming" del client non include il pannello di controllo. In generale, il pannello di controllo è più grande di 200 px rispetto all'altezza del client, quindi, ad esempio, una risoluzione di 1440p sarebbe consigliabile per lo streaming di un torneo a 1080p.
   - Default: 720, intervallo consentito: 568–2160
 - `Aspect`: Il rapporto di aspetto delle visualizzazioni del campo di gioco.
   - Nota che questo si applica solo ai layout 2v2.
