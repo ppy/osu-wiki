@@ -17,13 +17,13 @@ tags:
 
 ## 计时
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Gameplay/Hit_object), both in general and in terms of getting high [score](/wiki/Gameplay/Score) values. The maximum allowed hit error for each hit object in [osu!](/wiki/Game_mode/osu!) and [osu!mania](/wiki/Game_mode/osu!mania), centred on the hit object's correct time, is defined by the tables below.
+较高的 OD 值意味着无论在一般方面还是得高[分](/wiki/Gameplay/Score)方面，完成[打击物件](/wiki/Gameplay/Hit_object)所需的时间窗口都更短。在 [osu!](/wiki/Game_mode/osu!) 与 [osu!mania](/wiki/Game_mode/osu!mania) 中，以打击物件的正确时间为中心，每个物件允许的最大打击偏差定义如下表。
 
-Note that in the stable version of osu!, hit windows in osu! and [osu!taiko](/wiki/Game_mode/osu!taiko) can effectively be up to 0.5 ms shorter on both sides than what the formulas suggest, and in osu!mania they can be up to 0.5 ms longer on both sides. This is because in osu! and osu!taiko, a hit is considered inside a hit window if `hit error < round(hit window)`, while in osu!mania it is considered inside if `hit error <= round(hit window)`.[^judgement-rounding-ref]
+注意在 osu! 稳定版中，osu! 和 [osu!taiko](/wiki/Game_mode/osu!taiko) 的打击窗口两边事实上会比公式所述长度短 0.5 毫秒，在 osu!mania 中则会长 0.5 毫秒。这是因为在 osu! 和 osu!taiko 中，如果`打击偏差 < round(打击窗口)`，会认为此次打击在打击窗口内，而在 osu!mania 中，条件是`打击偏差 <= round(打击窗口)`。[^judgement-rounding-ref]
 
-For example, the hit window of a Great in osu!taiko at OD 5 is ±34.5 ms, instead of the ±35 ms the table gives. In osu!mania, the hit window of a MAX is ±16.5 ms, not ±16 ms as the table suggests.
+比如，osu!taiko 中 OD 5 下 Great 判定的打击窗口是 ±34.5 毫秒，而不是表中给出的 ±35 毫秒。在 osu!mania 中，MAX 判定的打击窗口是 ±16.5 毫秒，不是表中给出的 ±16 毫秒。
 
-Hit windows for judgments can be viewed when hovering over the [beatmap information in song select](/wiki/Client/Interface#beatmap-information), which will always show the correct values.
+光标悬停在[选歌页面的谱面信息](/wiki/Client/Interface#beatmap-information)上时，可以查看判定的打击窗口，这些值总是准确的。
 
 ### osu!
 

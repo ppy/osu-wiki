@@ -17,19 +17,19 @@ tags:
 
 # 堆叠严度
 
-**堆叠严度**是一张[谱面](/wiki/Beatmap)的参数，控制 [osu!](/wiki/Game_mode/osu!) 游戏模式中[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)自动[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)的形成过程。较低的堆叠严度会减少[打击物件](/wiki/Gameplay/Hit_object)不再置于同一叠中的最大时间；A lower stack leniency reduces the maximum amount of time after which  are no longer placed in the same stack; likewise, higher stack leniency will group together objects that are placed further in time.
+**堆叠严度**是一张[谱面](/wiki/Beatmap)的参数，控制 [osu!](/wiki/Game_mode/osu!) 游戏模式中[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)自动[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)的形成过程。较低的堆叠严度会减少[打击物件](/wiki/Gameplay/Hit_object)不再置于同一叠中的最大时间；类似地，较高的堆叠严度会将时间上放置更远的物件视为一组。
 
-Stack leniency may be changed from the `Advanced` tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) section of the [beatmap editor](/wiki/Client/Beatmap_editor). While its displayed possible values in the editor range from `0` to `10`, they map to the `0.0`–`1.0` range of the `StackLeniency` parameter in [`.osu` files](/wiki/Client/File_formats/Osu_(file_format)).
+可以在[谱面编辑器](/wiki/Client/Beatmap_editor)中[歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)小节的`高级 (Advanced)` 标签页下更改堆叠严度。尽管编辑器中显示的可能值范围为从 `0` 到 `10`，但在 [`.osu` 文件](/wiki/Client/File_formats/Osu_(file_format))中的 `StackLeniency` 参数后其对应范围是 `0.0`–`1.0`。
 
 ## 行为
 
-![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
+![编辑时堆叠打击物件会让它们于顶部互相重叠。](img/stacking-editor.jpg "编辑时堆叠打击物件")
 
-![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
+![然而在游玩时，游戏会为玩家把物件斜向错开。](img/stacking-playtest.jpg "游玩时的堆叠打击物件")
 
-Stack leniency, together with the [approach rate](/wiki/Beatmap/Approach_rate), controls which circles and slider parts are considered for stacking.[^stacking-algorithm] The stack is composed of the objects which are no longer than `preempt * StackLeniency` milliseconds apart, where `preempt` is the [approach window width](/wiki/Beatmap/Approach_rate#animation-timing), and `StackLeniency` is the value taken from the beatmap's `.osu` file.
+堆叠严度连同[缩圈速度](/wiki/Beatmap/Approach_rate)控制哪些圆圈和滑条部分被认为是堆叠。[^stacking-algorithm]堆叠由间隔时间不长于 `preempt * StackLeniency` 毫秒的物件组成，其中 `preempt` 是[window width](/wiki/Beatmap/Approach_rate#动画时长)，`StackLeniency` 是从谱面 `.osu` 文件中获取的值。
 
-The minimal stack leniency value, `0`, disables automatic stacks completely, while at its maximal value, `1`, objects are considered stacked from the moment they start becoming visible.
+堆叠严度的最小值 `0` 会完全禁止自动堆叠，而最大值 `1` 下，物件在开始可见时就被认为是堆叠的。
 
 ## 参考
 
