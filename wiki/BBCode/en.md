@@ -6,7 +6,7 @@
 
 ## Behaviour
 
-Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags. 
+Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags.
 
 Users, who wish to combine formatting onto a single section of text, can do so by placing BBCode tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
 
@@ -243,7 +243,9 @@ The `[img]` tag is used to include online images into osu! forum posts. To use t
 
 In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [ImgBB](https://imgbb.com/), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+
+*Notice: Imgur has blocked the IPs of the osu! website, so the images hosted there can no longer be displayed.*[^imgur-blocked-ip]
 
 Toolbar button: ![Image button](img/image.png "Image")
 
@@ -337,6 +339,10 @@ The `[lucky]` tag is an outdated tag that was once used in the osu! forums to li
 ```
 
 The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+
+## References
+
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
 
 ## Trivia
 
