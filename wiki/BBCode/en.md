@@ -340,13 +340,13 @@ The `[lucky]` tag is an outdated tag that was once used in the osu! forums to li
 
 The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
 
-## References
-
-[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
-
 ## Trivia
 
 - This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
+
+## References
+
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
