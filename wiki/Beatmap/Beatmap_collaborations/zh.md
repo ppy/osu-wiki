@@ -21,4 +21,4 @@ tags:
 
 ## 备注与参考
 
-[^name-example]：比如，[Vass\_Bass](https://osu.ppy.sh/users/188248) 制作的 [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068) 中，有一个与 [Reiji-RJ](https://osu.ppy.sh/users/305389) 的合作难度，名字是 “Vass-RJ”。
+[^name-example]: 比如，[Vass\_Bass](https://osu.ppy.sh/users/188248) 制作的 [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068) 中，有一个与 [Reiji-RJ](https://osu.ppy.sh/users/305389) 的合作难度，名字是 “Vass-RJ”。
