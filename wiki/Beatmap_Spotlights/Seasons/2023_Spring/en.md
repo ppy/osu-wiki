@@ -12,7 +12,7 @@ tags:
 | Event | Time |
 | :-- | :-- |
 | Season start | Apr 19, 2023 |
-| Playlist lobby: Playlist A | Apr 19 - May 3, 2022 |
+| Playlist lobby: Playlist A | Apr 19 - May 3, 2023 |
 | Playlist lobby: Playlist B | May 3 - May 17, 2023 |
 | Playlist lobby: Playlist C | May 17 - May 31, 2023 |
 | Playlist lobby: Playlist A | May 31 - Jun 7, 2023 |

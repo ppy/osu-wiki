@@ -138,13 +138,13 @@ Places of interest.
 | :-- | :-- |
 | Volume | Adjust two volumes (Music / Sample). |
 | Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
-| Show Video | Show Video. Usually disabled because it's distracting. |
+| Show Video/Storyboard | Show background video. Usually disabled because it's distracting. |
+| Dim Background | Make the hit objects more visible by dimming the background. |
 | Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
 | Snaking sliders | Animate the sliders as if playing in-game. |
 | Hit animations | Animate the hit circles as if being clicked (when the timestamp passes the hit circle) in-game. |
 | Follow points | Display (and animate) the follow points as if in-game. |
 | Stacking | Stack the overlaid hit circles as if in-game (dependent on difficulty settings) |
-| Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
 ## Compose
 
@@ -198,7 +198,7 @@ Places of interest.
 | :-- | :-- |
 | Add Timing Section (`Ctrl` + `P`) | Add red offset (New BPM) |
 | Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add green offset (New adjuster) |
-| Reset Current Section | ? |
+| Reset Current Section | Reset the BPM setting of the red offset at the start of the section. Saving the beatmap without setting a new BPM will delete the red offset. |
 | Delete Timing Section (`Ctrl` + `I`) | Delete the red/green offset (delete one before the double line) |
 | Resnap Current Section | Resnap the current section with new current timing. |
 
@@ -233,7 +233,6 @@ Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to
 | :-- | :-- |
 | This Beatmap's Information Page | Go to this beatmap's information page. Link is `https://osu.ppy.sh/beatmaps/###` where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
-| Quick Reply | Post a reply to the beatmap thread. |
 
 ## Help
 

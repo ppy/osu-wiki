@@ -3,28 +3,30 @@ tags:
   - editor
   - beatmapping
   - mapping
+  - 编辑器
+  - 作图
 ---
 
-# Test mode
+# 测试模式
 
-![Screenshot of the test mode](img/test-mode-example.jpg "Using test mode with the autoplay function")
+![测试模式截图](img/test-mode-example.jpg "使用带自动游玩功能的测试模式")
 
-The **test mode** is a feature of the [beatmap editor](/wiki/Client/Beatmap_editor) which allows creators to play their own [beatmaps](/wiki/Beatmap) from the beatmap editor for testing purposes. The mode can be accessed via the `Test` button in the bottom-right of the editor.
+**测试模式**是[谱面编辑器](/wiki/Client/Beatmap_editor)的一项功能，让制图者出于测试目的在编辑器中玩自己的[谱面](/wiki/Beatmap)。可以通过编辑器右下角的 `Test` 按钮使用此模式。
 
-![Test mode button](img/test-mode-button.png "The test mode button in the beatmap editor")
+![测试模式按钮](img/test-mode-button.png "谱面编辑器中的测试模式按钮")
 
-*Note: Playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.*
+*备注： 已知在测试模式中游玩谱面对某些玩家会导致卡慢或可感知的掉帧。*
 
-Playing a beatmap in test mode differs from playing it normally, as it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left side of the screen:
+在测试模式中游玩谱面与正常游玩不同。它不会提交分数，不会显示排行榜，不会让玩家失败，并且总会在屏幕左侧显示如下信息：
 
-- The current [timestamp](/wiki/Modding/Timestamp) of the beatmap.
-- The [SB load](/wiki/Client/Beatmap_editor/SB_Load).
-- The total amount of 300s, 100s, 50s, and misses gained.
-- The percentage of hits that are mistimed.
-- The average delay (in milliseconds) that mistimed hits are late.
-- The beatmap's [star rating](/wiki/Beatmap/Star_rating).
-- The total play length of the beatmap (in seconds).
-- The maximum possible combo a player could achieve on the beatmap.
-- Various shortcut controls.
+- 当前的谱面[时间戳](/wiki/Modding/Timestamp)。
+- [故事板负载](/wiki/Client/Beatmap_editor/SB_Load)。
+- 获得的 300、 100、 50 与失误 (miss) 总数。
+- 计时不准的打击数所占百分比。
+- 计时不准的打击数的平均延迟（以毫秒为单位）。
+- 谱面的[星数](/wiki/Beatmap/Star_rating)。
+- 谱面游玩的总时长（以秒为单位）。
+- 玩家可在此谱面获得的最大连击数。
+- 多个控制快捷键。
 
-Test mode also differs from a standard play of a beatmap as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod would.
+测试模式也与常规游玩有所不同，需要玩家在游玩前保存谱面。此模式也允许玩家观看“自动游玩”谱面，像 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组一样。
