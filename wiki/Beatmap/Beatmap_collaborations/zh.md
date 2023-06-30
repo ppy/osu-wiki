@@ -11,7 +11,7 @@ tags:
 
 ## 描述
 
-尽管[谱面上架标准 (RC)](/wiki/Ranking_criteria) 中没有强制要求，谱面合作的难度名或[谱面介绍](/wiki/Beatmap/Beatmap_description)中通常会出现 “Collab” 一词或多个用户名。It is also common for frequent collaborators to invent amalgamations of their usernames[^name-example] and use them consistently throughout their mapping careers.
+尽管[谱面上架标准 (RC)](/wiki/Ranking_criteria) 中没有强制要求，谱面合作的难度名或[谱面介绍](/wiki/Beatmap/Beatmap_description)中通常会出现 “Collab” 一词或多个用户名。对于频繁的合作者来说，设计他们用户名的合并名[^name-example]并在作图生涯中持续使用之也是很常见的。
 
 作图过程通常从[谱面所有者](/wiki/Beatmap/Beatmap_host)开始，根据歌曲的音乐结构，他们会通过用书签在[时间线](/wiki/Client/Beatmap_editor/Timelines)上做标记，来将一个预先[测定好时间轴](/wiki/Beatmapping/Timing)的谱面模板分割成几个部分。主歌这样相对较长的部分通常会被每 4 或 8 [拍子](/wiki/Music_theory/Measure)划分开来。之后会将这些部分按约定的分发方式分配给每位合作者，比如在有两位制图者的情况下，可以按照奇数、偶数段分配。
 
