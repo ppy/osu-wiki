@@ -245,7 +245,7 @@ In order to obtain an image address, one must navigate to the website it is sour
 
 Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [ImgBB](https://imgbb.com/), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
 
-*Notice: Imgur has blocked the IPs of the osu! website, so the images hosted there can no longer be displayed.*[^imgur-blocked-ip]
+*Notice: Imgur has blocked the IPs of the osu! website, so new images hosted there can no longer be displayed.*[^imgur-blocked-ip]
 
 Toolbar button: ![Image button](img/image.png "Image")
 
