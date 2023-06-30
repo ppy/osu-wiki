@@ -3,11 +3,9 @@ needs_cleanup: true
 outdated: true
 ---
 
-<!-- TODO: new mirrors -->
-
 # Beatmap packs
 
-A beatmaps pack is a compressed file containing beatmaps. It is worth noting that the most packs are:
+A beatmaps pack is a compressed file containing beatmaps. It can be found and downloaded from: [osu! Beatmaps Packs page](https://osu.ppy.sh/beatmaps/packs). It is worth noting that the most packs are:
 
 - Roughly either ~100MB (Taiko/osu!mania) or ~200MB (-/Approved) <!-- TODO: Classifying like this looks inappropriate -->
 - Contain videos (if included)
@@ -38,23 +36,15 @@ Beatmaps packs are split into 7 categories, with a special letter indicator:
 | **T** | Theme | Beatmaps based on a particular theme |
 | **A** | Artist/Album | Songs from specific artists or albums |
 
-## Fully Completing Your Song List
+## Torrenting
 
-This is for those who really want to *fully complete your song list* (and not just download your favourite songs).
-
-Keep in mind that you will need quite a lot of digital space to storage these beatmaps. As beatmap packs (and torrents) also downloads with the video and other beatmap skinnable elements.
-
-### Beatmap Pack Listing
-
-Download all the (-/Approved/Taiko/osu!mania) beatmaps packs from the **Standard** category and nowhere else. The (-/Approved/Taiko/osu!mania) beatmaps packs will contain all the songs in the other 3 categories.
-
-The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](https://osu.ppy.sh/beatmaps/packs).
-
-### Torrenting
+If you would like to download beatmap packs in bulk instead of one by one manually, you can use torrenting tools to download them from one of the sites below:
 
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
 - [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
+
+<!-- TODO: new mirrors -->
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.
