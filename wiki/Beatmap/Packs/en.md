@@ -36,7 +36,20 @@ Beatmaps packs are split into 7 categories, with a special letter indicator:
 | **T** | Theme | Beatmaps based on a particular theme |
 | **A** | Artist/Album | Songs from specific artists or albums |
 
-## Torrenting
+## Alternative downloading methods
+
+It's recommended to directly download beatmap packs from the official beatmap packs page. However, if you have difficulty downloading packs from there, here are two alternatives below.
+
+**Note:** osu! cannot guarantee that the packs downloaded in these ways are 100% up to date, safe and complete. Please be careful and cautious when downloading them.
+
+### Mirrors
+
+Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhile, there are also some mirror sites set up by other users for convenience and faster download speed. You can directly download from one of the sites below:
+
+- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
+  - [osu! Beatmap Packs](http://osu.yas-online.net/) by [nanashirei](https://osu.ppy.sh/users/807630)
+
+### Torrenting
 
 If you would like to download beatmap packs in bulk instead of one by one manually, you can use torrenting tools to download them from one of the sites below:
 
@@ -48,3 +61,12 @@ If you would like to download beatmap packs in bulk instead of one by one manual
 <!-- TODO: new mirrors -->
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.
+
+## Importing
+
+After downloading beatmap packs, you need to do things below to make beatmaps in it correctly imported into your osu! client:
+
+- Use any compressing software to decompress the beatmap pack file. When done successfully, a lot of [`.osz` files](wiki/Client/File_formats/osz_(file_format)) should appear.
+- Move these `.osz` files to the `Songs` under osu! installation folder.
+- Open the osu! client. If already running, try pressing `F5` in the [song selection screen](wiki/Client/Interface#Song-select). osu! will automatically process these files and import them.
+- After importing, just enjoy!
