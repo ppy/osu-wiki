@@ -13,7 +13,7 @@ tags:
 
 *关于建议的 OD 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Gameplay/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining [health](/wiki/Gameplay/Health), overall difficulty also influences how hard it is to pass a beatmap.
+**总体难度** (***OD***) 定义在一张[谱面](/wiki/Beatmap)中获得高[准确率](/wiki/Gameplay/Accuracy)的难度。OD 值范围为 0 ~ 10，其中较高的 OD 值会需要更高准确度和精确度。由于准确度对回[血](/wiki/Gameplay/Health)很重要，总体难度也会影响通过谱面的难度。
 
 ## 计时
 
@@ -33,7 +33,7 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
-![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, the shown OD values are only valid for the hit windows of 300s, and would be different for 100s and 50s.")
+![](/wiki/shared/ODTable.png "OD 和不同模组组合下的打击窗口比较。对于含 Half Time 和 Double Time 的组合，所示 OD 值只对 300 的打击窗口有效，对 100 和 50 则有所不同。")
 
 ### osu!taiko
 
@@ -43,9 +43,9 @@ the same formula is used in stable -->
 
 | 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
-| Ok | `80 - (80 - 120) * (5 - OD) / 5` if OD < 5, `80 + (50 - 80) * (OD - 5) / 5` if OD > 5, otherwise `80` |
-| Miss | `95 - (95 - 135) * (5 - OD) / 5` if OD < 5, `95 + (70 - 95) * (OD - 5) / 5` if OD > 5, otherwise `95` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` (OD < 5)，`35 + (20 - 35) * (OD - 5) / 5` (OD > 5)，否则为 `35` |
+| Ok | `80 - (80 - 120) * (5 - OD) / 5` (OD < 5)，`80 + (50 - 80) * (OD - 5) / 5` (OD > 5)，否则为 `80` |
+| Miss | `95 - (95 - 135) * (5 - OD) / 5` (OD < 5)，`95 + (70 - 95) * (OD - 5) / 5` (OD > 5)，否则为 `95` |
 
 ### osu!mania
 
@@ -57,13 +57,13 @@ the same formula is used in stable -->
 | 100 | `127 - 3 * OD` |
 | 50 | `188 - 3 * OD` |
 
-If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
+如果玩家在 50 的打击窗口外点击物件，会将其记作 miss。由于[物件锁](/wiki/Gameplay/Judgement/Notelock)，如果两个物件的打击窗口有所重叠，在前一个物件消失前，无法点击后一个物件。
 
 ## 滑条和转盘
 
-In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) will reward a 300 as long as they are hit within the 50's hit window. This is sometimes called slider leniency and is removed in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
+在 [osu!](/wiki/Game_mode/osu!) 中，只要在 50 的打击窗口内点击，[滑条](/wiki/Gameplay/Hit_object/Slider)都会得到 300 判定。这有时被称作滑条宽限，在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 被移除。
 
-Overall difficulty also affects [spinners](/wiki/Gameplay/Hit_object/Spinner), in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
+总体难度也会影响[转盘](/wiki/Gameplay/Hit_object/Spinner)，在于必须旋转更多才能及时填满量计。在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，转盘也会需要更多打击来完成。下列公式定义了完成转盘所需的每秒转数：<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`

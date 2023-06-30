@@ -10,49 +10,49 @@ tags:
 
 <!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
 
-![Screenshot of osu! gameplay with title text visible](img/liquid-title-text.jpg "The title text for \"Rostik - Liquid (Paul Rosenthal Remix)\" shows just after starting the map.")
+![显示标题文本的 osu! 游玩截图](img/liquid-title-text.jpg "就在开始游玩谱面后，\"Rostik - Liquid (Paul Rosenthal Remix)\" 的标题文本显示出来了。")
 
-**Title text** appears in the top-middle of the screen while playing a beatmap. Most commonly, it shows the artist and title of the song near the beginning of the map, but the map's creator may change the text to whatever they prefer. They can also change how the text is formatted and when it will display.
+在游玩谱面时，**标题文本**会出现在屏幕的中央偏上方。最普通的情况下，标题文本会在谱面将近开始时显示歌曲艺术家和标题，但谱面制作者可以将此改为任何他们喜欢的东西。他们也可以改变文本格式与显示时间。
 
-If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboard), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+如果谱面制作者正确使用，标题文本可以为谱面添加不错的效果。对于制作[故事板](/wiki/Storyboard)的谱面制作者，这是一个尤其有用的工具，因为他们很可能想要在游玩期间，尽可能完美控制谱面的展示。有一些使用自定义标题文本的好例子：[Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483)、[IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) 和 [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560)。
 
 ## 修改标题文本
 
-Only members of the [NAT](/wiki/People/Nomination_Assessment_Team) and site admins can update title text of beatmaps; it is an online setting rather than something found in the local beatmap files. If you want to update your own map's title text, you can contact people belonging to these groups.
+只有[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员和网站管理员才能更新谱面标题文本；它是个线上设置，而不能在本地谱面文件中找到。如果你想要更新自己地图的标题文本，可以联系属于这些组的人。
 
-When you get in contact with one of these people, you'll need to provide them a string that describes the content and formatting of the title text. osu! requires this string to be written in a very particular way, as specified in the following section.
+当你联系这些人其一时，你需要给他们提供一个字符串，描述标题文本的内容和格式。osu! 需要以非常特别的方式写这个串，方法如下所述。
 
 ### 语法
 
-Title text usually has multiple lines, so osu! uses pipes (`|`) to separate them when inputting title text. Each line of the title text is written with formatting options enclosed in brackets (`[]`) preceding it. The formatting options are comma-separated and in a `key:value` format.
+标题文本通常有多行，因此 osu! 在输入标题文本时使用管道符 (`|`) 来分隔它们。每行标题文本前会写出方括号 (`[]`) 包围的格式设置。格式设置以英文逗号分隔，格式为 `键:值`。
 
-A newly-submitted beatmap will have its title text set to `[size:20,bold:0]Artist|Title`, where `Artist` and `Title` are the map's unicode artist and title respectively. This is what most Ranked maps use, since very few mappers change this away from the default.
+新提交谱面的标题文字会被设为 `[size:20,bold:0]Artist|Title`，其中 `Artist` 和 `Title` 分别是谱面的 Unicode 艺术家和标题名。由于修改此文本的作图者非常少，这就是大多数上架 (Ranked) 谱面使用的标题文本。
 
 #### 格式设置
 
-| Key | Description | Default value |
+| 键 | 描述 | 默认值 |
 | :-- | :-- | :-- |
-| `bold` | Whether or not the line's will be in bold type. A value of 1 means bold, while any other value means not bold. | 1 |
-| `colour` | The colour of the line, formatted as `R.G.B`, where each colour component ranges from 0 to 255. | 255.255.255 |
-| `hold` | How long the line will display before starting to fade out, in milliseconds. | *Changes per line* |
-| `size` | The font size of the line, in [points](https://en.wikipedia.org/wiki/Point_(typography)). | 40 |
-| `time` | The time in the song when this line will start to appear, in milliseconds. | *Changes per line* |
-| `wait` | An extra delay before the line shows, in milliseconds. | 500 |
+| `bold` | 此行文本是否为粗体。1 意味着粗体，而其他值意味着非粗体。 | 1 |
+| `colour` | 此行文本的颜色，格式为 `R.G.B`，每个颜色值范围为 0 到 255。 | 255.255.255 |
+| `hold` | 此行文本在渐隐前的显示时长，单位为毫秒。 | *按行改变* |
+| `size` | 此行文本的字体大小，单位为[点](https://zh.wikipedia.org/wiki/Point_(typography))。 | 40 |
+| `time` | 此行文本在歌曲中开始出现的时间，单位为毫秒。 | *按行改变* |
+| `wait` | 此行文本显示前的额外延时，单位为毫秒。 | 500 |
 
-The default values of `time` and `hold` depend on the state of the last line. For the first line, if neither are specified:
+`time` 和 `hold` 的默认值取决于上一行的状态。如果第一行两个参数都没有指定：
 
-- `time` is 200
-- `hold` is `3600 + 800n`, where `n` is the total amount of lines in the title text
+- `time` 为 200
+- `hold` 为 `3600 + 800n`，其中 `n` 是标题文本的总行数
 
-For each new line, the defaults for these two options are updated:
+对于新一行的文本，会更新下列两个设置的默认值：
 
-- `time` becomes `(previous line's time) + (previous line's wait) + 200`
-- `hold` becomes `(previous line's hold) - 200`
+- `time` 变为 `(上一行的 time) + (上一行的 wait) + 200`
+- `hold` 变为 `(上一行的 hold) - 200`
 
-Whenever `time` is specified explicitly, `hold` is set to `4000 + 800n`. For this reason, it is important to always set `time` *before* `hold` if you use both in the same line. Otherwise, `hold` will be overwritten.
+无论 `time` 显式指定为何值，`hold` 都会设为 `4000 + 800n`。出于此原因，如果你在一行文本中同时使用两者，在设置 `hold` *之前*设置 `time` 很重要。否则 `hold` 会被覆盖。
 
 #### 示例
 
-`[time:600,size:30,colour:255.0.0]Line 1|[bold:0,wait:100,hold:2000]Line 2`
+`[time:600,size:30,colour:255.0.0]第一行|[bold:0,wait:100,hold:2000]第二行`
 
-"Line 1" will start fading in at 1100ms (recall that `wait` delays the starting time by 500ms if not specified). It will be red, 30pt and bold. After 5600ms (`4000 + 800 * 2`) pass, it will begin to fade out. "Line 2" will start fading in at 1400ms (1100ms from the previous line, 200ms from incrementing lines and 100ms from `wait`). This line will be white, 40pt and not bold. It will begin to fade out after 2000ms pass.
+“第一行”会在 1100 毫秒时开始渐显（注意如果不指定 `wait`，会将开始时间延后 500 毫秒），字体颜色是红色，大小 30pt，并会加粗。5600 毫秒 (`4000 + 800 * 2`) 过后，文本会开始渐隐。“第二行”会在 1400 毫秒时开始渐显（1100 毫秒来自前一行，200 毫秒来自新行，100 毫秒来自 `wait`）。此行文本为白色，大小 40pt，不会加粗。2000 毫秒过后，此行文本会开始渐隐。

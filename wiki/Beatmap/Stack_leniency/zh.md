@@ -17,7 +17,7 @@ tags:
 
 # 堆叠严度
 
-**Stack leniency** is a parameter of a [beatmap](/wiki/Beatmap) which controls the formation of automatic [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) of [circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) in the [osu!](/wiki/Game_mode/osu!) game mode. A lower stack leniency reduces the maximum amount of time after which [hit objects](/wiki/Gameplay/Hit_object) are no longer placed in the same stack; likewise, higher stack leniency will group together objects that are placed further in time.
+**堆叠严度**是一张[谱面](/wiki/Beatmap)的参数，控制 [osu!](/wiki/Game_mode/osu!) 游戏模式中[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)自动[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)的形成过程。较低的堆叠严度会减少[打击物件](/wiki/Gameplay/Hit_object)不再置于同一叠中的最大时间；A lower stack leniency reduces the maximum amount of time after which  are no longer placed in the same stack; likewise, higher stack leniency will group together objects that are placed further in time.
 
 Stack leniency may be changed from the `Advanced` tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) section of the [beatmap editor](/wiki/Client/Beatmap_editor). While its displayed possible values in the editor range from `0` to `10`, they map to the `0.0`–`1.0` range of the `StackLeniency` parameter in [`.osu` files](/wiki/Client/File_formats/Osu_(file_format)).
 
@@ -33,4 +33,4 @@ The minimal stack leniency value, `0`, disables automatic stacks completely, whi
 
 ## 参考
 
-[^stacking-algorithm]: [Code snippet by peppy (2011-08-24) "osu! stacking algorithm"](https://gist.github.com/peppy/1167470)
+[^stacking-algorithm]: [peppy 的代码片段 (2011-08-24) "osu! 堆叠算法"](https://gist.github.com/peppy/1167470)
