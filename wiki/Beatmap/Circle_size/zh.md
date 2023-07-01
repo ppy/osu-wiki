@@ -9,7 +9,7 @@ tags:
 
 *关于圆圈大小相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-**圆圈大小** (***CS***) 是一张[谱面](/wiki/Beatmap)的难度设置，影响[打击物件](/wiki/Gameplay/Hit_object)的大小。圆圈大小取值范围为 0 ~ 10，但在[谱面编辑器](/wiki/Client/Beatmap_editor)里只能取到 2 ~ 7。可以通过手动编辑谱面的 [`.osu` 文件](/wiki/Client/File_formats/Osu_(file_format))来设置其他数值。
+**圆圈大小** (***CS***) 是一张[谱面](/wiki/Beatmap)的难度设置，影响[打击物件](/wiki/Gameplay/Hit_object)的大小。圆圈大小取值范围为 0 ~ 10，但在[谱面编辑器](/wiki/Client/Beatmap_editor)里只能取到 2 ~ 7。可以通过手动编辑谱面的 [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))来设置其他数值。
 
 ## osu!
 
