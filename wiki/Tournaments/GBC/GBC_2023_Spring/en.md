@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png) 
 
-The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the third instalment of the GB Cup.
+The **GB Cup 2023 Spring** (***GBC 2023 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the third instalment of the GB Cup.
 
 ## Tournament schedule
 
@@ -46,7 +46,7 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 
 ## Organisation
 
-The GB Cup 2023 Spring is run by the Team GB and various community members.
+The GB Cup 2023 Spring was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -102,6 +102,8 @@ Saturday, 10 June 2023:
 
 ### Finals 
 
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=3ag0fa).
+
 Saturday, 3 June 2023:
 
 | Player A |  |  | Player B | Match link |
@@ -117,6 +119,8 @@ Sunday, 4 June 2023:
 | [Crz]Xinyi2016 | 2 | **7** | **[GB]nyasun** | [#4](https://osu.ppy.sh/community/matches/108835652) |
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=42d1qk).
 
 Friday, 26 May 2023:
 
@@ -142,6 +146,8 @@ Sunday, 28 May 2023:
 | chana | 5 | **6** | **[Crz]Xinyi2016** | [#7](https://osu.ppy.sh/community/matches/108716856) |
 
 ### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=7c0pnt).
 
 Tuesday, 16 May 2023:
 
