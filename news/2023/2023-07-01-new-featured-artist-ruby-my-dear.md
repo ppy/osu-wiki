@@ -27,7 +27,7 @@ Check out any of these iconic maps:
 - [osu! map from the video above](https://osu.ppy.sh/beatmapsets/1203147) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1272922) hosted by [Abraxos](https://osu.ppy.sh/users/5025064)
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/1039985) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)
-- [Brand new osu!catch map](https://osu.ppy.sh/beatmapsets/2009607) hosted by [Kimitakari](https://osu.ppy.sh/users/4741164)
+- [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2009607) hosted by [Kimitakari](https://osu.ppy.sh/users/4741164)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Brame/Ruby%20My%20Dear%20-%20Croque%20Monsieur%20A%20Disneyland.mp3">
