@@ -38,7 +38,7 @@ Even more maps. Good luck:
 
 - [Legendary 4K osu!mania map](https://osu.ppy.sh/beatmapsets/347453) hosted by [Parachor](https://osu.ppy.sh/users/5241655)
 - [Loved osu! map](https://osu.ppy.sh/beatmapsets/466872) hosted by [Shru](https://osu.ppy.sh/users/6304675)
-- [Full osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/680739) hosted by [-Kazu-](https://osu.ppy.sh/beatmapsets/680739)
+- [Full osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/680739) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
 - [Marathon osu!taiko map](https://osu.ppy.sh/beatmapsets/594135) hosted by [yea](https://osu.ppy.sh/users/6874332)
 
 <audio controls>
