@@ -42,8 +42,7 @@ tags:
 | *季后赛第十七至二十四名* | 10 RMB |
 | *常规赛全勤奖* | 猫猫定制勋章, 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
 
-![GBC 2023 Spring Banner](img/GBC-2023-Spring-badge-1st.png)\
-![GBC 2023 Spring KanonBot 1st Profile Badge](img/badge-kanon-1st.png) ![GBC 2023 Spring Banner KanonBot 2nd Profile Badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring Banner KanonBot 3rd Profile Badge](img/badge-kanon-3rd.png) ![GBC 2023 Spring Banner KanonBot Attended Profile Badge](img/badge-kanon-attended.png)
+![GBC 2023 Spring banner](img/GBC-2023-Spring-badge-1st.png) ![GBC 2023 Spring KanonBot 1st-place badge](img/badge-kanon-1st.png) ![GBC 2023 Spring banner KanonBot 2nd-place badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring KanonBot 3rd-place badge](img/badge-kanon-3rd.png) ![GBC 2023 Spring KanonBot attendance badge](img/badge-kanon-attended.png)
 
 ## 工作人员
 
@@ -80,6 +79,8 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | B | ::{ flag=HK }:: [EinsumSK](https://osu.ppy.sh/users/19225053), ::{ flag=CN }:: [ffddase](https://osu.ppy.sh/users/19936490), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [Arodex](https://osu.ppy.sh/users/17743609), ::{ flag=CN }:: [DrHunter](https://osu.ppy.sh/users/19936405), ::{ flag=CN }:: [Fishball233](https://osu.ppy.sh/users/14976830), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [Amenatsu Sanke](https://osu.ppy.sh/users/21101369), ::{ flag=CN }:: [nianchen](https://osu.ppy.sh/users/27658766), ::{ flag=CN }:: [dazade8](https://osu.ppy.sh/users/12196941), ::{ flag=CN }:: [AcidSolution](https://osu.ppy.sh/users/14692538), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [mizuku39](https://osu.ppy.sh/users/28588980), ::{ flag=CN }:: [XFish777](https://osu.ppy.sh/users/12930822), ::{ flag=CN }:: [jhj0107](https://osu.ppy.sh/users/15748421), ::{ flag=CN }:: [kkry](https://osu.ppy.sh/users/15579806), ::{ flag=CN }:: [K01bit0](https://osu.ppy.sh/users/18278262), ::{ flag=CN }:: [oSthing](https://osu.ppy.sh/users/31165170), ::{ flag=SG }:: [Lixtar](https://osu.ppy.sh/users/28535529), ::{ flag=CN }:: [CsAu](https://osu.ppy.sh/users/25746851), ::{ flag=CN }:: [hou654](https://osu.ppy.sh/users/12784062), ::{ flag=CN }:: [Arc865](https://osu.ppy.sh/users/28753069), ::{ flag=CN }:: [pure liubai](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [[GB]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [Luster zj](https://osu.ppy.sh/users/13089750), ::{ flag=CN }:: [Ka_Min](https://osu.ppy.sh/users/16472698), ::{ flag=CN }:: [mloluyu](https://osu.ppy.sh/users/15579132), ::{ flag=HK }:: [Jerry7720](https://osu.ppy.sh/users/28408419), ::{ flag=CN }:: [Misure](https://osu.ppy.sh/users/1949710), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [cizhi](https://osu.ppy.sh/users/32885939), ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [WELUVMYUKA](https://osu.ppy.sh/users/29949157), ::{ flag=CN }:: [Quzy3315](https://osu.ppy.sh/users/28369502), ::{ flag=CN }:: [megumi-kato](https://osu.ppy.sh/users/27797163), ::{ flag=CN }:: [ssxm](https://osu.ppy.sh/users/30161438), ::{ flag=CN }:: [DreamSnow607](https://osu.ppy.sh/users/29437525), ::{ flag=CN }:: [Realice233](https://osu.ppy.sh/users/13838024), ::{ flag=CN }:: [leqingzou](https://osu.ppy.sh/users/28497351), ::{ flag=CN }:: [OVERDUSTFIVA](https://osu.ppy.sh/users/30786316), ::{ flag=CN }:: [Kylin](https://osu.ppy.sh/users/19577682), ::{ flag=CN }:: [heipizhu](https://osu.ppy.sh/users/29319435) |
 
 ## 领奖台
+
+本届赛事已经结束，下面的三位选手登上了领奖台：
 
 | 名次 | 选手 |
 | :-: | :-- |
