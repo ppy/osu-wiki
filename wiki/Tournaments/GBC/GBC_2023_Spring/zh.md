@@ -8,7 +8,7 @@ tags:
 
 # GBC 2023 春季赛
 
-![GBC 2023 Spring banner](img/GBC-2023-Spring-banner.png)
+![GBC 2023 春季赛 官网横幅图片](img/GBC-2023-Spring-banner.png)
 
 **GBC 2023 春季周常活动** (***GB 杯 2023 春季周常活动***) 是由 GB 组织主办的 osu!mania 4K 项目周常积分个人制 赛事。本届比赛是 GBC 系列赛事的第三届正式比赛。
 
@@ -31,9 +31,9 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章, 猫猫定制勋章, 100 RMB |
-| ![Silver crown](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 90 RMB |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 70 RMB |
+| ![金冠图片](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章, 猫猫定制勋章, 100 RMB |
+| ![银冠图片](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 90 RMB |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 70 RMB |
 | *季后赛第四名* | 60 RMB |
 | *季后赛第五、六名* | 50 RMB |
 | *季后赛第七、八名* | 40 RMB |
@@ -84,9 +84,9 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 
 | 名次 | 选手 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [GB]nyasun |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | StarTemplar |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Miyes |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | [GB]nyasun |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | StarTemplar |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | Miyes |
 
 ## 赛果
 
