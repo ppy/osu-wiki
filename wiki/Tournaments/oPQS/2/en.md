@@ -198,6 +198,53 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
   1. [Eri Sasaki - Gate of Steiner (xbopost) [Milky-way Crossing]](https://osu.ppy.sh/beatmapsets/1010752#osu/2115799)
   2. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [mithew's Light Insane]](https://osu.ppy.sh/beatmapsets/581787#osu/1478254)
 
+## Match results
+
+### Day 1
+
+#### Finals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **Impowster** | rwnd_ | CircIes | fixedbyglue | **44** - 16 - 34 - 18 | [#1](https://osu.ppy.sh/community/matches/108794487) |
+
+#### Semifinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **CircIes** | xjfn | **fixedbyglue** | rexralph1 | **53** - 19 - **27** - 13 | [#1](https://osu.ppy.sh/community/matches/108793846) |
+| **Impowster** | **rwnd_** | Desmond823 | Nyashwa | **47** - **38** - 13 - 14 | [#1](https://osu.ppy.sh/community/matches/108793043) |
+
+#### Quarterfinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **rexralph1** | **Nyashwa** | Geanyl | Buizie | **39** - **34** - 27 - 12 | [#1](https://osu.ppy.sh/community/matches/108792396) |
+
+### Day 2
+
+#### Finals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **NathanRam1918** | Yukixo | Lunasen_ | Miggie | **47** - 14 - 24 - 27 | [#1](https://osu.ppy.sh/community/matches/108812832) |
+
+#### Semifinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| bluezenithgames | **Miggie** | Blasy | **Lunasen_** | 15 - **40** - 13 - **44** | [#1](https://osu.ppy.sh/community/matches/108812353) |
+| **NathanRam1918** | -Myhra | **Yukixo** | Kexrus | **45** - 28 - **28** - 11 | [#1](https://osu.ppy.sh/community/matches/108811580) |
+
+#### Quarterfinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| LordGabriel | Dunn | **Lunasen_** | **Kexrus** | 25 - 11 - **43** - **33** | [#1](https://osu.ppy.sh/community/matches/108810865) |
+| **Yukixo** | T-Spin-Double | Segawa Emi | **Blasy** | **41** - 8 - 28 - **35** | [#1](https://osu.ppy.sh/community/matches/108810838) |
+| **Miggie** | Ravel | **-Myhra** | okirema | **53** - 11 - **29** - 19 | [#1](https://osu.ppy.sh/community/matches/108809950) |
+| **NathanRam1918** | CasualHexagons | **bluezenithgames** | OsuSeulgiDragon | **56** - 10 - **28** - 18 | [#1](https://osu.ppy.sh/community/matches/108809952) |
+
 ## Ruleset
 
 The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf).
