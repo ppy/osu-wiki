@@ -102,6 +102,8 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 
 ### 决赛
 
+本轮比赛的详细数据统计可以于[这里]查看(https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=3ag0fa).
+
 2023 年 6 月 3 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
@@ -117,6 +119,8 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | [Crz]Xinyi2016 | 2 | **7** | **[GB]nyasun** | [#4](https://osu.ppy.sh/community/matches/108835652) |
 
 ### 半决赛
+
+本轮比赛的详细数据统计可以于[这里]查看(https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=42d1qk).
 
 2023 年 5 月 26 日，星期五：
 
@@ -142,6 +146,8 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | chana | 5 | **6** | **[Crz]Xinyi2016** | [#7](https://osu.ppy.sh/community/matches/108716856) |
 
 ### 四分之一决赛
+
+本轮比赛的详细数据统计可以于[这里]查看(https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=7c0pnt).
 
 2023 年 5 月 16 日，星期二：
 
