@@ -155,7 +155,7 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
 
 ### Round of 16
 
-- NoMod
+- No Mod
   1. [Twin-Tails - Twintail Dreamer! (TV Size) [Baka's Twintail Extra]](https://osu.ppy.sh/beatmapsets/1115213#osu/2331868)
   2. [Mitsukiyo - Theme 91 [freeuma]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
   3. [Tarako - Bing Chilling-ish [My Angel Jeremy's Social Credit Grind]](https://osu.ppy.sh/beatmapsets/1820912#osu/3736423)
