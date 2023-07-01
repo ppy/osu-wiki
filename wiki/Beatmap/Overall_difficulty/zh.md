@@ -23,7 +23,7 @@ tags:
 
 比如，osu!taiko 中 OD 5 下 Great 判定的打击窗口是 ±34.5 毫秒，而不是表中给出的 ±35 毫秒。在 osu!mania 中，MAX 判定的打击窗口是 ±16.5 毫秒，不是表中给出的 ±16 毫秒。
 
-光标悬停在[选歌页面的谱面信息](/wiki/Client/Interface#beatmap-information)上时，可以查看判定的打击窗口，这些值总是准确的。
+光标悬停在[选歌页面的谱面信息](/wiki/Client/Interface#谱面信息)上时，可以查看判定的打击窗口，这些值总是准确的。
 
 ### osu!
 

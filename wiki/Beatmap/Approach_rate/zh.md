@@ -15,7 +15,7 @@ tags:
 
 AR 值取值范围为 0 ~ 10。更高的 AR 值意味着打击物件的显示时间更短，给玩家的反应时间也更短。从另一方面来讲，更低的 AR 值允许更长的反应时间，但也会导致大量打击物件一次出现在屏幕上。
 
-在 [osu!taiko](/wiki/Game_mode/osu!taiko) 与 [osu!mania](/wiki/Game_mode/osu!mania) 模式中，AR 值设置不起作用。两个模式中的滚动速度由[滑条速度 (slider velocity)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)决定，其依赖于 [BPM](/wiki/Music_theory/Tempo) 与滑条速度乘数。除此之外，在 osu!mania 模式中，玩家可以[自己设置](/wiki/Game_mode/osu!mania#speed-change)它。
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 与 [osu!mania](/wiki/Game_mode/osu!mania) 模式中，AR 值设置不起作用。两个模式中的滚动速度由[滑条速度 (slider velocity)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)决定，其依赖于 [BPM](/wiki/Music_theory/Tempo) 与滑条速度乘数。除此之外，在 osu!mania 模式中，玩家可以[自己设置](/wiki/Game_mode/osu!mania#速度变化)它。
 
 ## 动画时长
 

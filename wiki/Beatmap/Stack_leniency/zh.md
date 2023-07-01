@@ -19,7 +19,7 @@ tags:
 
 **堆叠严度**是一张[谱面](/wiki/Beatmap)的参数，控制 [osu!](/wiki/Game_mode/osu!) 游戏模式中[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)自动[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)的形成过程。较低的堆叠严度会减少[打击物件](/wiki/Gameplay/Hit_object)不再置于同一叠中的最大时间；类似地，较高的堆叠严度会将时间上放置更远的物件视为一组。
 
-可以在[谱面编辑器](/wiki/Client/Beatmap_editor)中[歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)小节的`高级 (Advanced)` 标签页下更改堆叠严度。尽管编辑器中显示的可能值范围为从 `0` 到 `10`，但在 [`.osu` 文件](/wiki/Client/File_formats/Osu_(file_format))中的 `StackLeniency` 参数后其对应范围是 `0.0`–`1.0`。
+可以在[谱面编辑器](/wiki/Client/Beatmap_editor)中[歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)小节的`高级 (Advanced)` 标签页下更改堆叠严度。尽管编辑器中显示的可能值范围为从 `0` 到 `10`，但在 [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))中的 `StackLeniency` 参数后其对应范围是 `0.0`–`1.0`。
 
 ## 行为
 

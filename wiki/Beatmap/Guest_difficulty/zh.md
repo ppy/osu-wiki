@@ -28,4 +28,4 @@ tags:
 
 在[谱面讨论帖](/wiki/Beatmap_discussion)上，谱面所有者可以用`难度作者`按钮将客串难度所有权转移到其作图者上。这让客串难度所有者自己解决难度中待处理的问题。
 
-如果谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-Qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#上架-Ranked) 或[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-Loved) 状态，则无法更改客串难度所有权。
+如果谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-(qualified))、[上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked)) 或[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-(loved)) 状态，则无法更改客串难度所有权。
