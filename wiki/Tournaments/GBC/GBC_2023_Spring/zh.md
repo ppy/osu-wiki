@@ -42,7 +42,7 @@ tags:
 | *季后赛第十七至二十四名* | 10 RMB |
 | *常规赛全勤奖* | 猫猫定制勋章, 15 RMB(B组), 25 RMB(A组), 35 RMB(S组), 45 RMB(EX组) |
 
-![GBC 2023 Spring banner](img/GBC-2023-Spring-badge-1st.png) ![GBC 2023 Spring KanonBot 1st-place badge](img/badge-kanon-1st.png) ![GBC 2023 Spring banner KanonBot 2nd-place badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring KanonBot 3rd-place badge](img/badge-kanon-3rd.png) ![GBC 2023 Spring KanonBot attendance badge](img/badge-kanon-attended.png)
+![GBC 2023 春季赛 官网缎带图片](img/GBC-2023-Spring-badge-1st.png) ![GBC 2023 春季赛 猫猫bot缎带图片 第一名](img/badge-kanon-1st.png) ![GBC 2023 春季赛 猫猫bot缎带图片 第二名](img/badge-kanon-2nd.png) ![GBC 2023 春季赛 猫猫bot缎带图片 第三名](img/badge-kanon-3rd.png) ![GBC 2023 春季赛 猫猫bot缎带图片 全勤奖](img/badge-kanon-attended.png)
 
 ## 工作人员
 
