@@ -20,7 +20,7 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 
 *Article principal: [Difficultés](/wiki/Beatmap/Difficulty)*
 
-Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/Client/File_formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Gameplay/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmap/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
+Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/Client/File_formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Gameplay/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmap/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
 
 ## Publication
 
@@ -51,7 +51,7 @@ Une beatmap publiée appartient à une des catégories suivantes, qui peut chang
 - [Approuvée](Category#approuvée)
 - [Aimée](Category#loved)
 
-Certaines catégories ont des [critères de publication](/wiki/Ranking_Criteria) et permettent aux beatmaps d'avoir des [classements](#classement) permanents ou non. La méthode la plus utilisée pour y arriver est la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure), tandis que la deuxième option est de passer la beatmap en [loved](Category#loved).
+Certaines catégories ont des [critères de publication](/wiki/Ranking_criteria) et permettent aux beatmaps d'avoir des [classements](#classement) permanents ou non. La méthode la plus utilisée pour y arriver est la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure), tandis que la deuxième option est de passer la beatmap en [loved](Category#loved).
 
 ## Télécharger les beatmaps
 

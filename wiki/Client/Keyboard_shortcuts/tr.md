@@ -171,7 +171,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `F1` | [Oluştur (Compose)](/wiki/Client/Beatmap_editor/Compose) moduna geç. |
 | `F2` | [Dizayn (Design)](/wiki/Client/Beatmap_editor/Design) moduna geç. |
 | `F3` | [Zamanlama (Timing)](/wiki/Client/Beatmap_editor/Timing) moduna geç. |
-| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) kutucuğunu aç. |
+| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) kutucuğunu aç. |
 | `F5` | Test moduna gir. |
 | `F6` | Zamanlama ve kontrol noktaları kutucuğunu aç. |
 | `Ctrl` + `P` | Mevcut zaman dilimine devralmayan zamanlama noktası ekle. Eğer zamanlama modunda değilseniz, aynı zamanda zamanlama ve kontrol noktaları kutucuğunu açar. |
@@ -264,7 +264,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Client/Beatmap_editor/Beat_snap_divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
 | `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |

@@ -4,7 +4,7 @@ Dalam panduan ini kamu akan belajar bagaimana cara menggunakan [hitsound](/wiki/
 
 ## Mendapatkan hitsound khusus
 
-Agar kamu dapat menggunakan hitsound khusus pada beatmap-mu kamu perlu mendapatkannya terlebih dahulu! [Daftar hitsound khusus](/wiki/Guides/Custom_Hitsound_Library) merupakan sumber yang baik untuk mendapatkan sampel suara seperti simbal, drum, bel, peluit, dan lain lain. Kalau kamu tidak mendapatkan apa yang kamu cari, kamu dapat membuat sampelmu sendiri!
+Agar kamu dapat menggunakan hitsound khusus pada beatmap-mu kamu perlu mendapatkannya terlebih dahulu! [Daftar hitsound khusus](/wiki/Guides/Custom_hitsound_library) merupakan sumber yang baik untuk mendapatkan sampel suara seperti simbal, drum, bel, peluit, dan lain lain. Kalau kamu tidak mendapatkan apa yang kamu cari, kamu dapat membuat sampelmu sendiri!
 
 Berkas hitsound sebaiknya berupa `.wav` atau `.ogg` yang tidak memiliki *playback delay* dan suara dapat di-*loop* secara benar. Berkas suara yang berupa `.mp3` memiliki sedikit *delay* dan mungkin tidak dapat diputar secara sinkron terhadap lagu yang ingin kamu tambahkan hitsound. Namun hitsound yang berformat `.mp3` dapat digunakan untuk efek suara khusus seperti aplaus atau suara *ambient* di mana ukuran berkas `.wav` atau `.ogg` dapat melebihi ukuran yang diregulasi.
 

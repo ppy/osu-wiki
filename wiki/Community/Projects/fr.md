@@ -26,7 +26,7 @@ outdated: true
 - osu!web—La partie d'osu! qui fait face au navigateur.
   - [GitHub](https://github.com/ppy/osu-web) | [Site web](https://osu.ppy.sh/home)
 - [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479)—Maisons d'information sur osu!.
-  - [GitHub](https://github.com/ppy/osu-wiki) | [Site web](/wiki/Main_Page)
+  - [GitHub](https://github.com/ppy/osu-wiki) | [Site web](/wiki/Main_page)
 
 ## Communauté
 
@@ -154,7 +154,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 - [AIBat](https://osu.ppy.sh/community/forums/topics/55305)—Une tentative de rendre le modding plus facile pour les modders.
   - [GitHub](https://github.com/akrolsmir/AIBat)
-- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895)—Détecteur de problèmes avec les [critères de ranking](/wiki/Ranking_Criteria).
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895)—Détecteur de problèmes avec les [critères de ranking](/wiki/Ranking_criteria).
   - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602)—Un outil pour vous aider à gérer le BBCode lorsque vous moddez.
 - [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305)—Énumère les différentes distances de l'objet pour permettre d'examiner les erreurs potentielles d'espacement.

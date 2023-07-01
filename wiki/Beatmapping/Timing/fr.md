@@ -1,6 +1,6 @@
 # Timing
 
-Le **Timing** est le processus qui consiste à déterminer la structure musicale d'une musique en déterminant la position de chaque [section de timing](/wiki/Beatmapping/Timing_section) ainsi que leur [BPM](/wiki/Music_theory/Tempo) et leur [signature temporelle](/wiki/Music_theory/Time_signature).
+Le **Timing** est le processus qui consiste à déterminer la structure musicale d'une musique en déterminant la position de chaque [section de timing](/wiki/Client/Beatmap_editor/Timing) ainsi que leur [BPM](/wiki/Music_theory/Tempo) et leur [signature temporelle](/wiki/Music_theory/Time_signature).
 
 L'[éditeur de beatmap](/wiki/Client/Beatmap_editor) fournit des [paramètres de timing](/wiki/Client/Beatmap_editor/Timing) avec une [timeline du timing en forme de règle](/wiki/Client/Beatmap_editor/Timelines#timing) pour placer les [objets](/wiki/Gameplay/Hit_object) dans le temps. Lorsque les objets sont placés, ils sont [snapped](/wiki/Beatmapping/Snapping) aux ticks de la timeline, c'est à dire aux sous divisions d'une [mesure](/wiki/Music_theory/Measure), ce qui permet aux objets de s'aligner facilement avec les notes de la musique.
 
@@ -11,7 +11,7 @@ De plus, le timing d'une beatmap contrôle les fonctionnalités suivantes :
 - Les pistes de batterie ajoutées avec le mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 - L'apparition des barres de mesure dans les modes [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/osu!mania)
 
-Le timing reflète en quelque sorte *les propriétés d'un fichier audio spécifique* et peut donc changer lorsque l'audio est remplacé ou modifié. Il est recommandé de s'assurer que le fichier audio respecte les [critères de classement](/wiki/Ranking_Criteria#audio) avant d'établir le timing.
+Le timing reflète en quelque sorte *les propriétés d'un fichier audio spécifique* et peut donc changer lorsque l'audio est remplacé ou modifié. Il est recommandé de s'assurer que le fichier audio respecte les [critères de classement](/wiki/Ranking_criteria#audio) avant d'établir le timing.
 
 ## Structure de la musique
 
@@ -27,7 +27,7 @@ Presque toutes les musiques peuvent être divisées en plusieurs sections de tem
 
 ## Processus de timing
 
-*Article Principal : [Comment régler le timing d'une musique](/wiki/Guides/How_to_Time_Songs)*\
+*Article Principal : [Comment régler le timing d'une musique](/wiki/Guides/How_to_time_songs)*\
 *Voir également : [Éditeur de Beatmap/Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 ### BPM Unique
@@ -37,7 +37,7 @@ La temps écoulé entre le début du fichier audio et le premier downbeat, aussi
 Dans l'onglet [timing](/wiki/Client/Beatmap_editor/Timing), appuyer sur la touche `T` ou cliquer sur le bouton du métronome au rythme de la musique permet à osu! de calculer un BPM approximatif. Cette valeur peut ensuite être ajustée manuellement jusqu'à ce qu'elle soit correcte et s'aligne avec la musique. Il y a quelques points à noter :
 
 - Presque aucune musique n'utilise un BPM avec une valeur décimale. Si la valeur est trop précise après des ajustements manuels, elle est probablement incorrecte.
-- L'offset [doit être au premier downbeat de la chanson](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat), comme l'exigent les [critères de classement](/wiki/Ranking_Criteria#timing).
+- L'offset [doit être au premier downbeat de la chanson](/wiki/Guides/Setting_the_offset_on_the_correct_beat), comme l'exigent les [critères de classement](/wiki/Ranking_criteria#timing).
 
 ### BPM multiple/variable
 
@@ -57,7 +57,7 @@ Enfin, un nouveau point de timing est nécessaire pour les changements de signat
 
 Le timing est généralement considéré comme l'une des compétences de mapping les plus difficiles à maîtriser, car il nécessite beaucoup de patience et un bon sens du rythme. Il n'est pas rare de demander de l'aide à d'autres mappeurs et [moddeurs](/wiki/Modding), soit personnellement, soit dans les canaux publics de [tchat](/wiki/Client/Interface/Chat_console) et les [forums](/wiki/Community/Forum). L'un des fils de discussion consacrés à ce problème, "[Unable to find the BPM/offset of your map ? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contient plus de 5 000 réponses collectées sur une période de 13 ans.
 
-[Les critères de classement](/wiki/Ranking_Criteria#timing) ont une section dédiée au timing, qui explique les règles respectives pour les beatmaps [visant la catégorie Classée](/wiki/Beatmap_ranking_procedure).
+[Les critères de classement](/wiki/Ranking_criteria#timing) ont une section dédiée au timing, qui explique les règles respectives pour les beatmaps [visant la catégorie Classée](/wiki/Beatmap_ranking_procedure).
 
 ## Voir également
 

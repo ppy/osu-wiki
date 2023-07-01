@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
 ---
 
 # Mascotas
@@ -78,7 +80,7 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154cm de altura, y nació en 1999-04-06.
 
 ### Alisa
 
@@ -96,10 +98,10 @@ Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las par
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, también conocido como Taikonator 3000, fue uno de los participantes en el concurso de diseño de mascotas para osu!taiko. Ganó atracción como un chiste y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de esto, es mucho más único que las otras sumisiones de mascotas para osu!taiko y ha aparecido en muchas sumisiones de fanart por usuarios de la comunidad.
+Diseñado por [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, también conocido como Taikonator 3000, fue uno de los participantes en el concurso de diseño de mascotas para osu!taiko. Ganó atracción como un chiste y popularidad por razones desconocidas. Sus orígenes siguen siendo un misterio; a pesar de esto, es mucho más único que las otras sumisiones de mascotas para osu!taiko y ha aparecido en muchas sumisiones de fanart por usuarios de la comunidad.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
+Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con solo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.

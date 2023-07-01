@@ -13,26 +13,32 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `ar.md` | Árabe | اَلْعَرَبِيَّةُ |
 | `be.md` | Bielorruso | Беларуская мова |
 | `bg.md` | Búlgaro | Български |
+| `ca.md` | Catalán | Català |
 | `cs.md` | Checo | Česky |
 | `da.md` | Danés | Dansk |
 | `de.md` | Alemán | Deutsch |
 | `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
 | `fi.md` | Finés | Suomi |
+| `fil.md` | Filipino | Wikang Filipino |
 | `fr.md` | Francés | Français |
+| `he.md` | Hebreo | עִבְרִית |
 | `hu.md` | Húngaro | Magyar |
 | `id.md` | Indonesio | Bahasa Indonesia |
 | `it.md` | Italiano | Italiano |
 | `ja.md` | Japonés | 日本語 |
 | `ko.md` | Coreano | 한국어 |
+| `lt.md` | Lituano | Lietuvių kalba |
 | `nl.md` | Neerlandés | Nederlands |
 | `no.md` | Noruego | Norsk |
 | `pl.md` | Polaco | Polski |
 | `pt.md` | Portugués | Português |
-| `pt-br.md` | Portugués (Brasil) | Português (Brasil) |
+| `pt-br.md` | Portugués brasileño | Português (Brasil) |
 | `ro.md` | Rumano | Română |
 | `ru.md` | Ruso | Русский |
 | `sk.md` | Eslovaco | Slovenčina |
+| `sl.md` | Esloveno | Slovenščina |
+| `sr.md` | Serbio | Српски |
 | `sv.md` | Sueco | Svenska |
 | `th.md` | Tailandés | ไทย |
 | `tr.md` | Turco | Türkçe |
@@ -51,7 +57,7 @@ El formato de serialización debe colocarse en la parte superior del archivo. Es
 
 *Nota: Evite traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
 
-La etiqueta `needs_cleanup` puede ser agregada a los articulos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
+La etiqueta `needs_cleanup` puede ser agregada a los artículos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
 
 ```yaml
 needs_cleanup: true
@@ -109,13 +115,13 @@ A veces, las traducciones se agregan a la wiki sin la revisión de otros hablant
 no_native_review: true
 ```
 
-## Denominando artículos
+## Denominar artículos
 
 *Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
 
 Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
 
-Los títulos de los artículos deben coincdidir con el nombre de la carpeta en la que se encuentran (los espacios se pueden reemplazar los guiones bajos (`_`) cuando corresponda). Si el nombre de la carpeta cambia, el título del artículo debe cambiarse para que coincida y viceversa.
+Los títulos de los artículos deben coincidir con el nombre de la carpeta en la que se encuentran (los espacios se pueden reemplazar los guiones bajos (`_`) cuando corresponda). Si el nombre de la carpeta cambia, el título del artículo debe cambiarse para que coincida y viceversa.
 
 ---
 
@@ -125,7 +131,7 @@ Los artículos de concursos y torneos son una excepción. El nombre de la carpet
 
 ### Nombre de las carpetas
 
-*Véase también: [Denominando artículos](#denominando-artículos)*
+*Véase también: [Denominar artículos](#denominar-artículos)*
 
 Los nombres de las carpetas deben estar en inglés y usar mayúsculas y minúsculas.
 
@@ -139,7 +145,7 @@ Los nombres de las carpetas solo deben usar estos caracteres:
 
 ### Nombre de los archivos de artículos
 
-El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección de configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
+El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
 
 ### Artículos de índice
 
@@ -147,7 +153,7 @@ Se debe crear un artículo de índice si la carpeta está destinada a contener s
 
 ### Artículos de desambiguación
 
-Los artículos de [Desambiguación](/wiki/Disambiguation) deben colocarse en la carpeta `/wiki/Disambiguation`. La página principal debe actualizarse para incluir el artículo de desambiguación. Consulte [Desambiguación/Mod](/wiki/Disambiguation/Mod) como ejemplo.
+Los artículos de [desambiguación](/wiki/Disambiguation) deben colocarse en la carpeta `/wiki/Disambiguation`. La página principal debe actualizarse para incluir el artículo de desambiguación. Consulte [Desambiguación/Mod](/wiki/Disambiguation/Mod) como ejemplo.
 
 Las redirecciones deben actualizarse para que las palabras clave ambiguas redirijan al artículo de desambiguación.
 
@@ -205,7 +211,7 @@ Las notas de navegación deben estar en cursiva y colocarse inmediatamente despu
 
 ### Página principal
 
-Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación sólo debe tener un enlace. Deben tener el siguiente formato:
+Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación solo debe tener un enlace. Deben tener el siguiente formato:
 
 ```markdown
 *Página principal: {artículo}*
@@ -245,7 +251,7 @@ Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos 
 
 ### Para otros usos
 
-Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de navegación sólo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
+Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de navegación solo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
 
 ```markdown
 *Para otros usos, véase {artículo de desambiguación}.*
@@ -255,7 +261,7 @@ Las notas de navegación *Para otros usos* son similares a las notas de navegaci
 
 *No debe confundirse con [Notas de navegación](#notas-de-navegación).*
 
-Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
+Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de las [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
 
 ```markdown
 *Nota: {nota}.*
@@ -278,7 +284,7 @@ Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. 
 
 ```markdown
 *Advertencia: {advertencia}.*\
-*Véase también: {artéculo}*
+*Véase también: {artículo}*
 ```
 
 En muchos casos, puede ser más adecuado incrustar notas de navegación o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
@@ -339,7 +345,7 @@ Los encabezamientos no deben exceder un nivel de encabezamiento de 5 y no deben 
 
 ### Títulos
 
-*Véase también: [Denominando artículos](#denominando-artículos)*\
+*Véase también: [Denominar artículos](#denominar-artículos)*\
 *Precaución: Los títulos se analizan como texto sin formato; no deben omitirse*
 
 El primer encabezamiento de todos los artículos debe ser un encabezamiento de nivel 1, siendo el título del artículo. Todos los encabezamientos posteriores deben ser [encabezamientos de sección](#secciones). Los títulos no deben contener formato, enlaces o imágenes.
@@ -393,7 +399,7 @@ El siguiente ejemplo se hizo correctamente:
 
 ### Con viñetas
 
-Las listas con viñetas deben usar un guión (`-`). Estos deben ir seguidos de un espacio. (Ejemplo que se muestra a continuación)
+Las listas con viñetas deben usar un guion (`-`). Estos deben ir seguidos de un espacio. (Ejemplo que se muestra a continuación)
 
 ```markdown
 - osu!
@@ -520,7 +526,7 @@ Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos
 El siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
-[Modificador del juego](/wiki/Gameplay/Game_modifier)
+[Modificador de juego](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -528,9 +534,9 @@ El siguiente es un ejemplo de ambos estilos en línea:
 El siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador del juego][enlace de modificadores del juego]
+[Modificador de juego][enlace de modificadores de juego]
 
-[enlace de modificadores del juego]: /wiki/Game_modifier
+[enlace de modificadores de juego]: /wiki/Game_modifier
 ```
 
 ---
@@ -546,7 +552,7 @@ Los enlaces deben usar el estilo en línea si solo se les hace referencia una ve
 Todos los enlaces que apuntan a un artículo de la wiki deben comenzar con `/wiki/` seguido de la ruta para llegar al artículo al que se dirige. También se pueden utilizar enlaces relativos. Algunos ejemplos incluyen lo siguiente:
 
 ```markdown
-[FAQ](/wiki/FAQ)
+[Preguntas frecuentes](/wiki/FAQ)
 [pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Patrón](./Pattern)
@@ -598,14 +604,14 @@ Todos los nombres de usuario deben estar vinculados en la primera aparición. Ot
 
 Al vincular a un perfil de usuario, se debe utilizar el número de identificación del usuario. Use el nuevo sitio web (`https://osu.ppy.sh/users/{username}`) para obtener el ID del usuario.
 
-El texto del enlace del enlace del usuario debe ser el nombre actual del usuario.
+El texto del enlace de usuario debe ser el nombre actual del usuario.
 
 ##### Dificultades
 
 Siempre que enlace a una sola dificultad, use este formato como texto del enlace:
 
 ```
-{artista} - {titulo} ({creador}) [{nombre_de_la_dificultad}]
+{artista} - {título} ({creador}) [{nombre_de_la_dificultad}]
 ```
 
 El enlace debe vincular realmente a esa dificultad. Las URL de la dificultad del beatmap deben tener el siguiente formato:
@@ -621,7 +627,7 @@ El nombre de la dificultad se puede dejar fuera del texto del enlace, pero hacer
 Siempre que enlace a un beatmap, utilice este formato como texto del enlace:
 
 ```
-{artista} - {titulo} ({creador})
+{artista} - {título} ({creador})
 ```
 
 Todas las URL de beatmap deben tener el formato siguiente:
@@ -668,7 +674,7 @@ Todas las imágenes de bloque en la página (que no tienen nada más en la misma
 
 El texto en el primer par de corchetes (*texto alternativo*) debe describir la imagen literalmente. Lo utilizan los lectores de pantalla o cuando la imagen no se carga. Se puede omitir si es idéntico al texto del título o si la imagen se incluye solo con fines decorativos.
 
-El texto entre comillas (*texto del título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como información sobre herramientas al pasar el mouse sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
+El texto entre comillas (*texto del título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como información sobre herramientas al pasar el ratón sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
 
 ### Visualización
 
@@ -692,19 +698,19 @@ Al actualizar una imagen, cambie el nombre de la imagen o agregue una cadena de 
 
 ### Formatos y calidad
 
-Las imágenes deben usar el formato JPG en calidad 8 (80 u 80%, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, utilice el formato PNG en su lugar. Si la imagen contiene una animación, se puede utilizar el formato GIF; sin embargo, esto debe usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
+Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, utilice el formato PNG en su lugar. Si la imagen contiene una animación, se puede utilizar el formato GIF; sin embargo, esto debe usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
 
 ### Tamaño del archivo
 
-Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80% casi siempre está por debajo del límite de tamaño.
+Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % de calidad casi siempre está por debajo del límite de tamaño.
 
 Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, use el siguiente comando para jpeg-archive:
 
-```sh
+```
 jpeg-recompress -am smallfry <entrada> <salida>
 ```
 
-Donde `<entrada>` es el nombre del archivo a comprimir y `<salida>` es el nombre del archivo comprimido.
+Alternativamente, [ezgif.com](https://ezgif.com/) se puede utilizar para convertir y optimizar imágenes.
 
 ### Nombre de archivos
 
@@ -726,9 +732,9 @@ Se debe evitar anotar las imágenes, ya que es difícil para los traductores (y 
 
 #### Traducir imágenes anotadas
 
-Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
+Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guion, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
 
-- `hardrock-mod-vs-easy-mod.jpg` para ingles
+- `hardrock-mod-vs-easy-mod.jpg` para inglés
 - `hardrock-mod-vs-easy-mod-DE.jpg` para alemán
 - `hardrock-mod-vs-easy-mod-ZH-TW.jpg` para chino tradicional
 
@@ -754,7 +760,7 @@ Debe establecer estas configuraciones antes de tomar una captura de pantalla del
 
 *Aviso para los traductores: Si está traduciendo un artículo que contiene capturas de pantalla del juego, puede configurar el idioma del cliente del juego al idioma en el que está traduciendo.*
 
-### Enlaces de imagenes
+### Enlaces de imágenes
 
 Las imágenes no deben formar parte del texto de un enlace.
 
@@ -770,7 +776,7 @@ Los íconos de la bandera usan el código de dos letras (en mayúsculas) para co
 
 Las tablas del sitio web solo admiten encabezamientos en la primera fila.
 
-Las tablas no deben embellecerse (no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y luego otra barra vertical (`|`).
+Las tablas no deben embellecerse (es decir, no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y otra barra vertical (`|`).
 
 La fila delimitadora (la siguiente línea después del encabezamiento de la tabla) debe usar solo tres caracteres por columna (y debe completarse con un espacio en ambos lados), que debe verse como uno de los siguientes:
 
@@ -848,9 +854,9 @@ La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-
 
 ## Referencias
 
-[^api-first-usage]: [Hilo del foro por peppy (02/07/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [Publicación del foro por Menchi (02/11/2013) en «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [Tuit por @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-first-usage]: [Hilo del foro por peppy (2/7/2013) «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Publicación del foro por Menchi (2/11/2013) en «osu!api open beta»](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tuit por @ppy (20/3/2020)](https://twitter.com/ppy/status/1263083636363948032)
 [^web-api]: [«Web API» en Wikipedia](https://es.wikipedia.org/wiki/Web_API)
 ```
 
@@ -861,7 +867,7 @@ Las notas al pie se pueden utilizar para almacenar explicaciones o comentarios t
 Ejemplo:
 
 ```markdown
-Un torneo no debe ser organizado y dirigido por un equipo inexperto de personal incompetente e irreputable.[^staff]
+Un torneo no debe ser organizado y dirigido por un equipo inexperto de personal incompetente y sin reputación.[^staff]
 
 ## Notas
 

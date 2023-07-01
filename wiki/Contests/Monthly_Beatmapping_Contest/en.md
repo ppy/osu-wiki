@@ -28,7 +28,7 @@ Submissions for the MBC must abide by the following rules:
 - **Submissions must be a single difficulty from one of the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
 - **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
 - **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and judging processes.
-- **Submissions must abide by the [ranking criteria](/wiki/Ranking_Criteria).**
+- **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
 
 One or more rules may be added or dropped depending on the month's specifications. Any exceptions will be clearly explained in the contest's announcement post.
 

@@ -16,7 +16,7 @@ tags:
 
 **Stack leniency** is a parameter of a [beatmap](/wiki/Beatmap) which controls the formation of automatic [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) of [circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) in the [osu!](/wiki/Game_mode/osu!) game mode. A lower stack leniency reduces the maximum amount of time after which [hit objects](/wiki/Gameplay/Hit_object) are no longer placed in the same stack; likewise, higher stack leniency will group together objects that are placed further in time.
 
-Stack leniency may be changed from the `Advanced` tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) section of the [beatmap editor](/wiki/Client/Beatmap_editor). While its displayed possible values in the editor range from `0` to `10`, they map to the `0.0`–`1.0` range of the `StackLeniency` parameter in [`.osu` files](/wiki/Client/File_formats/Osu_(file_format)).
+Stack leniency may be changed from the `Advanced` tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) section of the [beatmap editor](/wiki/Client/Beatmap_editor). While its displayed possible values in the editor range from `0` to `10`, they map to the `0.0`–`1.0` range of the `StackLeniency` parameter in [`.osu` files](/wiki/Client/File_formats/Osu_(file_format)).
 
 ## Behaviour
 

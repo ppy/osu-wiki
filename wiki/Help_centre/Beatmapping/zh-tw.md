@@ -23,7 +23,7 @@ tags:
 
 此文章專門討論圖譜編輯器及製譜相關的問題。
 
-## 我要怎麼上傳/更新我的圖譜？ {#upload-beatmap}
+## 我要怎麼上傳/更新我的圖譜？ {id=upload-beatmap}
 
 **您可以透過遊戲中的圖譜編輯器來達成。**
 
@@ -33,7 +33,7 @@ tags:
 
 每位玩家能夠同時提交的圖譜數量有限，一張圖譜在一個月 (28 天) 中都沒有更動，會被送往[墳場](/wiki/Beatmap/Category#graveyard)，一旦更動，即可變回待審或 WIP 狀態。
 
-## 編輯器跟我說 "你想提交的圖譜不是你的！" {#wrong-author}
+## 編輯器跟我說 "你想提交的圖譜不是你的！" {id=wrong-author}
 
 **當圖譜檔案的建立者未正確設置時，就會發生此情況。**
 
@@ -41,13 +41,13 @@ tags:
 
 如果不是，請手動更改，圖譜中的每個難度都需要修改。完成後，重新載入圖譜，即可上傳。
 
-如果您仍有問題，或需要更多資訊，請參閱 [BSS 疑難排解](/wiki/Guides/BSS_Issues)。
+如果您仍有問題，或需要更多資訊，請參閱 [BSS 疑難排解](/wiki/Guides/BSS_issues)。
 
-## 我是 osu! 贊助者，但是我沒有 20 個待辦欄位！ {#upload-slots}
+## 我是 osu! 贊助者，但是我沒有 20 個待辦欄位！ {id=upload-slots}
 
 **可用欄位數將依據你擁有的 Ranked 圖譜決定。參見：[osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits)。
 
-## 我要怎麼刪除我的圖譜？ {#delete-beatmap}
+## 我要怎麼刪除我的圖譜？ {id=delete-beatmap}
 
 **客服團隊不接受協助手動刪除圖譜的請求。**
 

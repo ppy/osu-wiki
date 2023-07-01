@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Comité des tournois
 
 Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'organisateurs et d'assistants compétents et reconnus dans le domaine des tournois.

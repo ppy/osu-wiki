@@ -37,11 +37,11 @@ Although many Pending and Work-in-progress beatmaps meet these criteria, few are
 
 Beatmaps entering the Loved category are required to follow some additional rulesets:
 
-- [Some points from the Metadata section of the ranking criteria](/wiki/Ranking_Criteria#metadata):
+- [Some points from the Metadata section of the ranking criteria](/wiki/Ranking_criteria#metadata):
   - Song title, artist, and source should be correct in all cases.
   - Beatmap tags should properly list all contributors (guest difficulty creators, storyboarders, etc.).
-- [Song Content Rules](/wiki/Rules/Song_Content_Rules)
-- [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+- [Song Content Rules](/wiki/Rules/Song_content_rules)
+- [Visual Content Considerations](/wiki/Rules/Visual_content_considerations)
 
 Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap audio files should have an average bitrate of at least 128 kbps.
 
@@ -102,7 +102,7 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Further information
 
-All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
+All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
 
 In addition to the discussion channels mentioned above, there are dedicated hubs for each game mode:
 

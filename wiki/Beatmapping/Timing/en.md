@@ -1,6 +1,6 @@
 # Timing
 
-**Timing** is the process of determining a song's musical structure by determining the positions of each [timing section](/wiki/Beatmapping/Timing_section) along with their [BPM](/wiki/Music_theory/Tempo) values and [time signatures](/wiki/Music_theory/Time_signature).
+**Timing** is the process of determining a song's musical structure by determining the positions of each [timing section](/wiki/Client/Beatmap_editor/Timing) along with their [BPM](/wiki/Music_theory/Tempo) values and [time signatures](/wiki/Music_theory/Time_signature).
 
 The [beatmap editor](/wiki/Client/Beatmap_editor) provides [timing settings](/wiki/Client/Beatmap_editor/Timing) with a [ruler-like timeline view](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object). When objects are placed, they are [snapped](/wiki/Beatmapping/Snapping) to timeline ticks, i.e. subdivisions of a [measure](/wiki/Music_theory/Measure), allowing objects to easily line up with notes of the song.
 
@@ -11,7 +11,7 @@ Additionally, the timing of a beatmap controls the following features:
 - Drum track added by the [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
 - Appearance of bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania)
 
-Timing partially reflects *properties of a specific audio file* and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
+Timing partially reflects *properties of a specific audio file* and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_criteria#audio) before establishing timing.
 
 ## Song structure
 
@@ -27,7 +27,7 @@ Almost every song can be divided into sections of different tempo, and the goal 
 
 ## Timing process
 
-*Main article: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
+*Main article: [How to time songs](/wiki/Guides/How_to_time_songs)*\
 *See also: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 ### Single BPM
@@ -37,7 +37,7 @@ The amount of time between the beginning of the audio file and the first downbea
 In the [timing tab](/wiki/Client/Beatmap_editor/Timing), tapping the `T` key or clicking the metronome button to the beat of the song will allow osu! to calculate an approximate BPM. The value can then be adjusted manually until it is correct and all timeline ticks line up with the music. There are a few things to note:
 
 - Almost no songs use a BPM with a decimal value. If the value ends up being overly precise after manual adjustments, it is most likely incorrect.
-- The offset [must be at the first downbeat of a song](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat), as mandated by the [ranking criteria](/wiki/Ranking_Criteria#timing).
+- The offset [must be at the first downbeat of a song](/wiki/Guides/Setting_the_offset_on_the_correct_beat), as mandated by the [ranking criteria](/wiki/Ranking_criteria#timing).
 
 ### Multiple/variable BPM
 
@@ -57,7 +57,7 @@ Lastly, a new timing point is required for time signature changes and metronome 
 
 Timing is widely regarded as one of the hardest mapping skills to master, since it requires having a lot of patience and a good sense of rhythm. It is not uncommon to ask other mappers and [modders](/wiki/Modding) for help, either personally, or in public [chat](/wiki/Client/Interface/Chat_console) channels and [forums](/wiki/Community/Forum). One of the forum threads dedicated to the issue, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contains more than 5,000 responses collected over 13 years.
 
-[The ranking criteria](/wiki/Ranking_Criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for Ranked](/wiki/Beatmap_ranking_procedure).
+[The ranking criteria](/wiki/Ranking_criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for Ranked](/wiki/Beatmap_ranking_procedure).
 
 ## See also
 

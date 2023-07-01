@@ -23,7 +23,7 @@ Sedangkan pada bagian spinner, bonus tambahan senilai 1.000 poin akan diberikan 
 
 ## Perhitungan Difficulty multiplier
 
-[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_setup), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_setup) dan [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
 
 *Difficulty point* yang terkumpul juga dapat mempengaruhi **Difficulty multiplier** dengan ketentuan sebagai berikut sebagai berikut:
 

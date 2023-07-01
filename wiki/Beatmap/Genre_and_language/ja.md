@@ -9,7 +9,7 @@ tags:
 
 ![ビートマップページに掲載されているジャンルと言語](img/beatmap-info.png "ビートマップページに掲載されているジャンルと言語")
 
-サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)の一つとして考えられる。
+サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)の一つとして考えられる。
 
 ゲーム上に変化はないが[osu!(lazer)](/wiki/Client/Release_stream/Lazer)ではそれによってジャンル分けができる。
 
