@@ -2,7 +2,7 @@
 
 ## Judgements
 
-A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. Score and accuracy are calculated based on which judgements are received.
+A **judgement**, or **hit result**, is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. Score and accuracy are calculated based on which judgements are received.
 
 These are commonly referred to by their score value (except for misses), i.e. a GREAT is usually called a "300" and so on.
 

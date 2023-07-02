@@ -2,7 +2,7 @@
 
 ## Judgements
 
-A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. Score and accuracy are calculated based on which judgements are received.
+A **judgement**, or **hit result**, is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. Score and accuracy are calculated based on which judgements are received.
 
 | Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!catch) | [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
@@ -12,7 +12,7 @@ A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hi
 
 The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width. The MISS window by exception compares `hit error <= max hit error`<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L187, https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L151 --> instead.
 
-The hit error is rounded and the max hit error values are truncated to the nearest integer<!-- see corresponding reference in ../osu!/en.md -->, meaning that for GREATs and OKs, hit windows may be up to 1.5 ms shorter on both sides, while miss windows may be up to 0.5 ms shorter or longer on both sides, than what the formulas suggest.
+The hit error is rounded and the max hit error values are truncated to the nearest integer<!-- see corresponding reference in wiki/Gameplay/Judgement/osu!/en.md -->, meaning that for GREATs and OKs, hit windows may be up to 1.5 ms shorter on both sides, while miss windows may be up to 0.5 ms shorter or longer on both sides, than what the formulas suggest.
 
 ## Judgement mechanics
 
@@ -24,7 +24,7 @@ Large notes may be hit with two keys of the correct colour at the same time (wit
 
 ### Drum rolls
 
-Drum rolls give 300 score (360 during Kiai time) while large drum rolls give 720 score (864 during Kiai time), per correctly timed drum roll tick.
+Drum rolls give 300 score (360 during [kiai time](/wiki/Gameplay/Kiai_time)), while large drum rolls give 720 score (864 during kiai time), per correctly timed drum roll tick.
 
 Hitting too quickly or too slowly will prevent the ticks from being collected. The bounds are roughly hitting twice as fast as ticks appear and hitting slower than every 5th tick.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SliderTaiko.cs#L362-L396 explanation is slightly simplified; bounds aren't exact because it calculates based on the time since the last hit tick's time, not since last button press -->
 
@@ -37,7 +37,7 @@ With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, drum rolls also gi
 
 ### Swells
 
-Swells give 300 score per hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but they do not give judgements.
+Swells, also known as spinners or dendens, give 300 score per hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but they do not give judgements.
 
 With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, swells give judgements depending on how many times they are hit:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SpinnerTaiko.cs#L151-L171 -->
 
@@ -50,6 +50,6 @@ With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, swells give judgem
 
 The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things about osu!taiko judgement mechanics:
 
-- Drum roll drum speed restrictions are lifted.
+- Speed restrictions for drum rolls are lifted, meaning they can be mashed without penalty.
 - Drum rolls give judgements depending on how many ticks are hit.
 - Swells give judgements depending on how many times they are hit.
