@@ -1,0 +1,38 @@
+# Servidor de Discord osu!catch Modding & Mapping Hub
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### osu!catch Modding & Mapping Hub
+
+![Banner del servidor](img/banner.jpg "Banner del servidor osu!catch Modding & Mapping Hub, diseñado por Greaper")
+
+|  |  |
+| :-- | :-- |
+| Enlace de invitación | <https://discord.gg/2hbWns9> |
+
+:::
+
+**osu!catch Modding & Mapping Hub** es un servidor de [Discord](https://discord.com) de la comunidad designado para todos los mapeadores y modders actuales y aspirantes para [osu!catch](/wiki/Game_mode/osu!catch). Los usuarios pueden encontrar muchos canales que los ayudan a crecer como mapeadores, o interactuar con la comunidad general de mapeo de osu!catch.
+
+El servidor consta principalmente de:
+
+- Canales para solicitar mods, dificultades de invitados, nominaciones u otras solicitudes relacionadas con el mapeo.
+- Canales donde los usuarios pueden hacer cualquier pregunta relacionada con el mapeo, en los que encajan mapeadores experimentados para responder dichas preguntas.
+- Un lugar para compartir colas de modeo para ganar más experiencia.
+- Un lugar centralizado para encontrar el estado de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
+- Una lista de referencias útiles como herramientas, propuestas de RC y otros servidores de Discord.
+
+## Personal
+
+| Rol | Usuario (identificador de Discord) |
+| :-- | :-- |
+| Propietario del servidor | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599) |
+| Administradores | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#1111) |
+
+## Verificación
+
+Para acceder a los canales, los usuarios deben verificar su identidad publicando sus perfiles de osu! en el canal `#arrival` e indicando en qué rol(es) están interesados.
+
+![Proceso de autenticación](img/auth.jpg?1 "Al unirse al servidor, los usuarios publicarán su perfil de osu! y pedirán un determinado rol, y un administrador editará sus perfiles en consecuencia")
