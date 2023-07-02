@@ -90,6 +90,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (186 MB)](https://mappack.yewonkim.tk/download/jsg5BykO)**
+
+- NoMod
+  1. [Falcom Sound Team jdk - Unmitigated Evil (jonathanlfj) \[Darkness\]](https://osu.ppy.sh/beatmapsets/1846382#osu/3792864)
+  2. [Isyana Sarasvati - IL SOGNO (feat. DeadSquad) (Melize) \[BISMILLAH COLLAB\]](https://osu.ppy.sh/beatmapsets/2017054#osu/4199342)
+  3. [KINEMA106 - IMPERIAL PARADE (Atalanta) \[WORSHIP ME!!!\]](https://osu.ppy.sh/beatmapsets/1569800#osu/3205635)
+  4. [Renpul - Alxaid (Cubby) \[Forlorn Dream\]](https://osu.ppy.sh/beatmapsets/1943263#osu/4019749)
+  5. [Frums - theyaremanycolors (ScubDomino) \[akariexpert\]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052453)  
+- Hidden
+  1. [Tsukuyomi - Konna Inochi ga Nakereba (Deca) \[ailv's Extra\]](https://osu.ppy.sh/beatmapsets/1317808#osu/2730291)
+  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) \[hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
+  3. [sekai - Idol (Petal) \[Special\]](https://osu.ppy.sh/beatmapsets/1988558#osu/4131025)  
+- HardRock
+  1. [Falcom Sound Team jdk - A-TO-Z (SupaV) \[Goddess of Evolution\]](https://osu.ppy.sh/beatmapsets/2015925#osu/4196814)
+  2. [rei sirose - Hakidasu (Lunicia) \[Ascens' Expert\]](https://osu.ppy.sh/beatmapsets/1759673#osu/3824438)
+  3. [Nekomanma Team! - Koiuta Shippuu! Karuta Queen Iroha (Atipir) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1700477#osu/3476090)
+- DoubleTime
+  1. [Yuna (CV: Kanda Sayaka) - delete (Kalibe) \[Grief\]](https://osu.ppy.sh/beatmapsets/971212#osu/2033584)
+  2. [Dimrain47 - Revolutions (BadMapMaker) \[Harder\]](https://osu.ppy.sh/beatmapsets/1627508#osu/3322624)
+  3. [BAND-MAID - DICE (Lasse) \[INSANE.\]](https://osu.ppy.sh/beatmapsets/1248526#osu/2594991)
+  4. [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[ShizuCandy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3557160)]
+- FreeMod
+  1. [Usagi Aikoukai(cosMo x syuri22) - Dare ga Tame ni Usagi wa Mau=Kyousoku Kyousou Kyoku= (Flask) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1543394#osu/3154786)
+  2. [Ryu\* - Mind Mapping (kors k mix) (AJT) \[Niva's EXTRA (\#oitedit)\]](https://osu.ppy.sh/beatmapsets/2019383#osu/4205368)
+  3. [Mediks - Outbreak (Strategas) \[Doomsday\]](https://osu.ppy.sh/beatmapsets/527082#osu/1118311)
+  4. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/1257522#osu/2613064)
+- Tiebreaker
+  1. **[Roman so Words - never ending journey (lushifer) \[i'll always be by your side for our never ending journey\]](https://osu.ppy.sh/beatmapsets/1995377#osu/4146809)**
+
 ### Round of 16
 
 **[Download the mappack here! (153 MB)](https://mappack.yewonkim.tk/download/JoR2CVSZ)**
@@ -114,7 +145,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [A.SAKA - Mutsuki Akari no Yuki (allein) \[Expert\]](https://osu.ppy.sh/beatmapsets/1890055#osu/3893556)
   3. [BEMANI Sound Team "Yvya" - Vitrum (Lince Cosmico) \[KKip's Extra\]](https://osu.ppy.sh/beatmapsets/1581126#osu/3267248)
 - Tiebreaker
-  1. **[LeaF - Calamity Fortune (extended ver.) (Jean-Michel Jr) \[Mid-Day Supernova\]](https://osu.ppy.sh/beatmapsets/1155981#osu/2412400)**  
+  1. **[LeaF - Calamity Fortune (extended ver.) (Jean-Michel Jr) \[Mid-Day Supernova\]](https://osu.ppy.sh/beatmapsets/1155981#osu/2412400)**
 
 ### Qualifiers
 
