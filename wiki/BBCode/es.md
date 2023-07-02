@@ -248,7 +248,9 @@ La etiqueta `[img]` se usa para incluir imágenes en línea en las publicaciones
 
 Para obtener una dirección de imagen, uno debe navegar al sitio web en el que se encuentra, pasar el ratón sobre la imagen, hacer clic con el botón derecho en la imagen y seleccionar `Copiar dirección de la imagen`. Luego, la dirección debe copiarse y pegarse entre las etiquetas.
 
-Aunque las imágenes se pueden obtener desde cualquier lugar, osu! recomienda que los usuarios carguen imágenes en sitios de intercambio de imágenes acreditados como [Imgur](https://imgur.com), ya que algunos sitios web no aprecian los enlaces directos a sus imágenes (también conocidos como «hotlinks»).
+Aunque las imágenes se pueden obtener desde cualquier lugar, osu! recomienda que los usuarios carguen imágenes en sitios de intercambio de imágenes acreditados como [ImgBB](https://imgbb.com/), ya que algunos sitios web no aprecian los enlaces directos a sus imágenes (también conocidos como «hotlinks»).
+
+*Aviso: Imgur ha bloqueado las IPs del sitio web de osu!, por lo que las nuevas imágenes alojadas allí ya no se pueden mostrar.*[^imgur-blocked-ip]
 
 Botón de la barra de herramientas: ![Botón de imagen](img/image.png "Imagen")
 
@@ -347,3 +349,7 @@ La etiqueta *encabezado (v2)* es una etiqueta desactualizada que alguna vez se u
 - Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo «transparent» después del signo igual (`=`).
   - A partir de ahora, el texto volverá al color predeterminado (blanco) cuando esto suceda.
 - Antes de que se agregara la etiqueta `imagemap`, era posible agregar un hipervínculo a una imagen combinando las etiquetas `url` e `img`; sin embargo, solo se puede establecer un hipervínculo por imagen. Esto requeriría cortar la imagen original en varias piezas (es decir, una imagen parcial para cada enlace) y colocarlas horizontalmente una al lado de la otra.
+
+## Referencias
+
+[^imgur-blocked-ip]: [Tuit de @ppy (29/62023)](https://twitter.com/ppy/status/1674439849749913602)
