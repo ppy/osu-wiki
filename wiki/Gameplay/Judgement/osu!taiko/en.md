@@ -31,6 +31,7 @@ Hitting too quickly or too slowly will prevent the ticks from being collected. T
 With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, drum rolls also give judgements depending on how many ticks are hit:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SliderTaiko.cs#L123-L144 -->
 
 | Judgement | Requirement |
+| :-: | :-- |
 | GREAT | Ticks hit >= amount of ticks * (`0.3` if OD <= 6, otherwise `0.1 + OD / 30`) |
 | OK | At least one tick hit |
 | MISS | Anything else |
@@ -42,6 +43,7 @@ Swells, also known as spinners or dendens, give 300 score per hit. Failing to co
 With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, swells give judgements depending on how many times they are hit:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SpinnerTaiko.cs#L151-L171 -->
 
 | Judgement | Required hits |
+| :-: | :-- |
 | GREAT | 100% |
 | OK | 50% |
 | MISS | 0% |
