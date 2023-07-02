@@ -265,7 +265,7 @@ Sunday, 2 July 2023:
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, HardRock, Hidden, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
-   - Players playing with Easy will have their scores multiplied by `x1.85` for a maximum of 900,000 points.
+   - Players opting to play with Easy will have their scores multiplied by `x1.85` for a maximum of 900,000 points.
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
