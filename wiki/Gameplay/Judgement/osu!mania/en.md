@@ -9,13 +9,13 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 | Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | PERFECT | 320 | 100% | `16`<!-- note: different from lazer, which uses the scorev2 formula --> |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300.png) | GREAT | 300 | 100% | `64 - 3 * OD` |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit200.png) | GOOD | 200 | 66.67% | `97 - 3 * OD` |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit100.png) | OK | 100 | 33.33% | `127 - 3 * OD` |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit50.png) | MEH | 50 | 16.67% | `151 - 3 * OD` |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit0.png) | MISS | 0 | 0% | `188 - 3 * OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300.png) | GREAT | 300 | 100% | `64 - 3 × OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit200.png) | GOOD | 200 | 66.67% | `97 - 3 × OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit100.png) | OK | 100 | 33.33% | `127 - 3 × OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit50.png) | MEH | 50 | 16.67% | `151 - 3 × OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit0.png) | MISS | 0 | 0% | `188 - 3 × OD` |
 
-The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error <= max hit error`, meaning the value listed is half of the hit window width.
+The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error ≤ max hit error`, meaning the value listed is half of the hit window width.
 
 The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 0.5 ms longer or shorter on both sides than what the formulas suggest.
 
@@ -46,10 +46,10 @@ Hold notes are given one judgement depending on the timing of both the keypress 
 
 | Judgement | Requirement |
 | :-: | :-- |
-| PERFECT | Head hit error <= max error for PERFECT \* 1.2 **AND** combined hit error <= max error for PERFECT \* 2.4 |
-| GREAT | Head hit error <= max error for GREAT \* 1.1 **AND** combined hit error <= max error for GREAT  \* 2.2 |
-| GOOD | Head hit error <= max error for GOOD **AND** combined hit error <= max error for GOOD  \* 2 |
-| OK | Head hit error <= max error for OK **AND** combined hit error <= max error for OK  \* 2 |
+| PERFECT | Head hit error ≤ max error for PERFECT × 1.2 **AND** combined hit error ≤ max error for PERFECT × 2.4 |
+| GREAT | Head hit error ≤ max error for GREAT × 1.1 **AND** combined hit error ≤ max error for GREAT × 2.2 |
+| GOOD | Head hit error ≤ max error for GOOD **AND** combined hit error ≤ max error for GOOD × 2 |
+| OK | Head hit error ≤ max error for OK **AND** combined hit error ≤ max error for OK × 2 |
 | MEH | Anything else that is not a miss |
 | MISS | Not having the key pressed from the tail's early MEH window start to late OK window end |
 
@@ -61,7 +61,7 @@ Late MEH hits or releases are impossible and result in a miss instead.
 
 The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things about osu!mania judgement mechanics:
 
-- The PERFECT hit window is changed to `22.4 - 0.6 * OD` if OD <= 5, and `24.9 - 1.1 * OD` if OD >=5.
+- The PERFECT hit window is changed to `22.4 - 0.6 × OD` if OD ≤ 5, and `24.9 - 1.1 × OD` if OD ≥ 5.
 - Hold notes receive two seperate judgements at the head and tail, as if they were regular notes.
   - Hold note tail release windows become 1.5x longer.<!-- https://github.com/peppy/osu-stable-reference/search?q=SliderEndLenience -->
   - Releasing the key during the hold note body prevents tail judgements higher than MEH.

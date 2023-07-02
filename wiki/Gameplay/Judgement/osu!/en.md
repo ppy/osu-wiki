@@ -8,9 +8,9 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 
 | Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!) | [Accuracy](/wiki/Gameplay/Accuracy#osu!) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
-| ![](/wiki/shared/judgement/osu!/hit300.png) | GREAT | 300 | 100% | `80 - 6 * OD` |
-| ![](/wiki/shared/judgement/osu!/hit100.png) | OK | 100 | 33.33% | `140 - 8 * OD` |
-| ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 * OD` |
+| ![](/wiki/shared/judgement/osu!/hit300.png) | GREAT | 300 | 100% | `80 - 6 × OD` |
+| ![](/wiki/shared/judgement/osu!/hit100.png) | OK | 100 | 33.33% | `140 - 8 × OD` |
+| ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 × OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
 The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L1521-L1536 -->
@@ -91,8 +91,8 @@ note that the above formulas are divided in half in the tables below for nicer u
 
 |  |  |
 | :-- | :-- |
-| Minimum spins per second[^minimum-sps] | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
-| Minimum spins required | Spinner length in seconds * minimum spins per second + 0.5 |
+| Minimum spins per second[^minimum-sps] | `1.5 + 0.2 × OD` if OD < 5, `1.25 + 0.25 × OD` if OD ≥ 5 |
+| Minimum spins required | Spinner length in seconds × minimum spins per second + 0.5 |
 
 If a spinner is very short, the number of spins required may be calculated to be 0, and thus the spinner will always complete itself with a GREAT.
 
