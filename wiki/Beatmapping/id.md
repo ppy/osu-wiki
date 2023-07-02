@@ -1,7 +1,7 @@
 # Beatmapping
 
 **Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmap) di osu! untuk pengguna agar dapat dimainkan.
-Ini termasuk pemilihan lagu, [timing](/wiki/Client/Beatmap_editor/Timing), peletakan [objects](/wiki/Hit_object), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboard#storyboarding).
+Ini termasuk pemilihan lagu, [timing](/wiki/Client/Beatmap_editor/Timing), peletakan [objects](/wiki/Gameplay/Hit_object), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboard#storyboarding).
 
 Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmap) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -19,7 +19,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Client/Beatmap
 
 ### Song Setup
 
-*Lihat juga: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Lihat juga: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Ketika akan membuat [mapset](/wiki/Beatmap) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
@@ -36,7 +36,7 @@ Langkah selanjutnya adalah mengisi waktu kedalam beatmap kamu.
 
 **Waktu itu penting!**
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
-Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/Hit_object).
+Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/Gameplay/Hit_object).
 
 Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.

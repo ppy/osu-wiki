@@ -14,7 +14,7 @@ tags:
 
 Vous avez des problèmes avec quelque chose ? Nous sommes là pour vous aider ! Vous trouverez des solutions aux problèmes les plus courants dans la barre latérale située à gauche de votre écran. Si votre problème n'est pas répertorié ici, ou si vous rencontrez toujours des difficultés, envoyez un e-mail à [support@ppy.sh](mailto:support@ppy.sh). Vous pouvez également poster votre problème dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), où quelqu'un pourra vous aider.
 
-## Sections {#sections}
+## Sections {id=sections}
 
 Choisissez la section qui correspond le plus à votre problème pour trouver une solution adéquate.
 
@@ -26,12 +26,13 @@ Choisissez la section qui correspond le plus à votre problème pour trouver une
 | [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
 | [Compte](/wiki/Help_centre/Account) | osu!supporter, connexion et récupération de l'accès, changements de pseudo, données de profil |
 | [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
+| [Mise à jour vers lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration vers la [prochaine version majeure](/wiki/Client/Release_stream/Lazer) d'osu! |
 | [Restrictions de compte](/wiki/Help_centre/Account_restrictions) | Tout sur les restrictions : aperçu, processus d'appel, raisons courantes et cooldowns |
 | [Site web](/wiki/Help_centre/Website) | Blocage des utilisateurs, contacter le support, apparence du site |
 
-## Aidez-nous à vous aider {#diagnostics}
+## Aidez-nous à vous aider {id=diagnostics}
 
-### Fichiers log {#log-files}
+### Fichiers log {id=log-files}
 
 **Les fichiers log sont des enregistrements détaillés de ce que fait le client du jeu à un moment donné. Nous pouvons les utiliser pour nous aider à déterminer la cause de votre problème.**
 
@@ -48,7 +49,7 @@ Si un membre de l'équipe d'assistance vous a demandé ces logs, voici comment l
 7. Trouvez le répertoire `Logs` dans la fenêtre qui s'ouvre.
 8. Sélectionnez le fichier log requis (le membre de l'équipe du support vous indiquera lequel) et joignez-le à votre mail au support ou à votre message forum.
 
-### Observateur d'événements {#event-viewer}
+### Observateur d'événements {id=event-viewer}
 
 **L'Observateur d'événements est un composant intégré de Windows qui peut être utilisé pour trouver des crash logs lorsqu'osu! ne vous en fournit pas. Ces logs peuvent être utilisés pour aider à déterminer la cause de votre problème.**
 
@@ -65,7 +66,7 @@ Si un membre de l'équipe du support vous a demandé de trouver un crash log dan
 7. Allez dans l'onglet `Détails`, développez `System` et `Event Data` en cliquant sur chacun d'eux.
 8. Copiez le texte qui s'y trouve et collez-le dans votre mail au support ou votre message forum.
 
-### Frame Time Graph {#frame-time-graph}
+### Frame Time Graph {id=frame-time-graph}
 
 **Le Frame Time Graph est une fonctionnalité d'osu! qui peut nous aider à recueillir des informations plus utiles sur les problèmes de performance que vous pouvez rencontrer.**
 

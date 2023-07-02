@@ -5,7 +5,7 @@
 
 A **storyboard** (SB) is a custom-made animated background that accompanies a [beatmap](/wiki/Beatmap), often for decorative and sometimes for gameplay purposes. A storyboard can be comprised of just about anything, but usually they consist of visual effects designed to make a map more aesthetically pleasing and distinctive to users. Storyboards are inspired from the animated backgrounds found in [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan). Like their inspiration, storyboards are able to adjust to the player's performance in the game and display different things depending on how well the player is doing.
 
-Storyboards are stored in beatmap folders as either standalone [`.osb` files](/wiki/osu!_File_Formats/Osb_(file_format)) or extensions to the `[Events]` section of a [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)). Because of this, it's possible to create different storyboards for difficulties within a [beatmap](/wiki/Beatmap).
+Storyboards are stored in beatmap folders as either standalone [`.osb` files](/wiki/Client/File_formats/Osb_(file_format)) or extensions to the `[Events]` section of a [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)). Because of this, it's possible to create different storyboards for difficulties within a [beatmap](/wiki/Beatmap).
 
 ## Storyboarding
 

@@ -28,7 +28,7 @@ tags:
 
 ## Lobbies multijoueurs hebdomadaires
 
-Pour l'instant, les participants doivent télécharger et installer [osu!(lazer)](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
+Pour l'instant, les participants doivent télécharger et installer [osu!(lazer)](/wiki/Client/Release_stream/Lazer) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Chaque semaine d'une saison, un seul lobby temporaire multijoueur est ouvert. Tout le monde peut y participer toute la semaine.
    - Il y aura une semaine d'interruption après laquelle les lobbies de chaque playlist seront réouverts chaque semaine.

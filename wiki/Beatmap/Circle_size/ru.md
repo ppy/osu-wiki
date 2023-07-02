@@ -7,9 +7,9 @@ tags:
 
 # Circle size
 
-*Подробнее о правилах, связанных с размером нот: [Критерии ранкинга](/wiki/Ranking_Criteria)*
+*Подробнее о правилах, связанных с размером нот: [Критерии ранкинга](/wiki/Ranking_criteria)*
 
-**Circle size** (***CS***, рус. *размер нот*) — это одна из настроек сложности [карты](/wiki/Beatmap), которая влияет на размер [игровых объектов](/wiki/Hit_object). Этот параметр варьируется от 0 до 10, однако в [редакторе карт](/wiki/Client/Beatmap_editor) можно выбрать лишь значения от 2 до 7; остальные значения доступны через редактирование [файла `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) в блокноте.
+**Circle size** (***CS***, рус. *размер нот*) — это одна из настроек сложности [карты](/wiki/Beatmap), которая влияет на размер [игровых объектов](/wiki/Gameplay/Hit_object). Этот параметр варьируется от 0 до 10, однако в [редакторе карт](/wiki/Client/Beatmap_editor) можно выбрать лишь значения от 2 до 7; остальные значения доступны через редактирование [файла `.osu`](/wiki/Client/File_formats/Osu_(file_format)) в блокноте.
 
 ## osu!
 
@@ -17,7 +17,7 @@ tags:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
 
-где `r` — радиус, измеренный в [osu!пикселях](/wiki/osu!pixel), а `CS` — значение параметра.
+где `r` — радиус, измеренный в [osu!пикселях](/wiki/Client/Beatmap_editor/osu!_pixel), а `CS` — значение параметра.
 
 ## osu!taiko
 
@@ -35,5 +35,5 @@ tags:
 
 На размер нот влияет наличие двух игровых модификторов (модов):
 
-- [Easy](/wiki/Game_modifier/Easy): уменьшает значение CS вдвое.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): умножает значение CS на 1.3 (максимальное значение — 10).
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): уменьшает значение CS вдвое.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): умножает значение CS на 1.3 (максимальное значение — 10).

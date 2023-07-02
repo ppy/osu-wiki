@@ -12,7 +12,7 @@ tags:
 
 ![Ikon mod SO](/wiki/shared/mods/SO.png "Ikon mod Spun Out (SO)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -25,7 +25,7 @@ tags:
 
 ## Deskripsi
 
-Mod **Spun Out** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk membantu pemain [osu!](/wiki/Game_mode/osu!) dalam memutar spinner pada sebuah [beatmap](/wiki/Beatmap). Mod ini akan menyelesaikan semua spinner pada beatmap dengan kecepatan 286.48 putaran per menit (SPM) searah putaran jalur jarum jam, yang mana 3/5 kecepatan putaran Auto, yaitu 477.26 SPM.
+Mod **Spun Out** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang bertujuan untuk membantu pemain [osu!](/wiki/Game_mode/osu!) dalam memutar spinner pada sebuah [beatmap](/wiki/Beatmap). Mod ini akan menyelesaikan semua spinner pada beatmap dengan kecepatan 286.48 putaran per menit (SPM) searah putaran jalur jarum jam, yang mana 3/5 kecepatan putaran Auto, yaitu 477.26 SPM.
 
 Spinner yang ada pada beatmap akan dimatikan dan pemain tidak bisa memutar untuk meningkatkan nilai SPM.
 

@@ -46,7 +46,7 @@ The osu!taiko Featured Artist Cup: 2nd Edition was run by various community memb
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, Ranked status[^prizes-ranked] |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, Ranked status[^prizes-ranked] |
 
-![o!tfac #2 badge](img/badge.png)
+![o!tfac #2 badge](img/badge.png "osu!taiko Featured Artist Cup 2 Winner")
 
 ## Links
 

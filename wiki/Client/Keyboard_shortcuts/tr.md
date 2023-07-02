@@ -66,7 +66,7 @@ Bu kısayollar her yerde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `F1` | [Oyun modu](/wiki/Game_modifier) seçim menüsünü aç. |
+| `F1` | [Oyun modu](/wiki/Gameplay/Game_modifier) seçim menüsünü aç. |
 | `F2` | Rastgele bir beatmap seç. |
 | `Shift` + `F2` | Önceki rastgele seçilmiş beatmape geri dön. |
 | `F3` | Beatmap seçeneklerini aç. |
@@ -76,8 +76,8 @@ Bu kısayollar her yerde çalışır:
 | `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_mode/osu!taiko) olarak değiştir. |
 | `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_mode/osu!catch) olarak değiştir. |
 | `Ctrl` + `4` | Oyun modunu [osu!mania](/wiki/Game_mode/osu!mania) olarak değiştir. |
-| `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Game_modifier/Auto) oynat. |
-| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Game_modifier/Cinema) oynat. |
+| `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Gameplay/Game_modifier/Auto) oynat. |
+| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Gameplay/Game_modifier/Cinema) oynat. |
 | `Ctrl` + `A` | Auto modu aç/kapa. |
 | `Ctrl` + `F3` veya `Ctrl` + `+` | osu!mania kaydırma hızını arttır (osu!mania modundayken). |
 | `Ctrl` + `F4` veya `Ctrl` + `-` | osu!mania kaydırma hızını azalt (osu!mania modundayken). |
@@ -91,7 +91,7 @@ Bu kısayollar her yerde çalışır:
 
 ### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Gameplay/Game_modifier)*\
 *Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
 *Not: Target practice (osu!), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
@@ -171,7 +171,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `F1` | [Oluştur (Compose)](/wiki/Client/Beatmap_editor/Compose) moduna geç. |
 | `F2` | [Dizayn (Design)](/wiki/Client/Beatmap_editor/Design) moduna geç. |
 | `F3` | [Zamanlama (Timing)](/wiki/Client/Beatmap_editor/Timing) moduna geç. |
-| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) kutucuğunu aç. |
+| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) kutucuğunu aç. |
 | `F5` | Test moduna gir. |
 | `F6` | Zamanlama ve kontrol noktaları kutucuğunu aç. |
 | `Ctrl` + `P` | Mevcut zaman dilimine devralmayan zamanlama noktası ekle. Eğer zamanlama modunda değilseniz, aynı zamanda zamanlama ve kontrol noktaları kutucuğunu açar. |
@@ -264,7 +264,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Client/Beatmap_editor/Beat_snap_divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
 | `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |
@@ -280,7 +280,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Seçilen sprite'ı kopyala. |
 | `Ctrl` + `V` | Sprite'ı mevcut zamana yapıştır. *Not: Yapıştırılan sprite'lar beatmap kaydedilene ve yeniden yüklenene kadar katman listesinde gösterilmeyecektir.* |
 | `Delete` | Katman üzerinden seçilen sprite'ı kaldır. |
-| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
+| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
 
 ### Zamanlama
 

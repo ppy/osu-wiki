@@ -12,7 +12,7 @@ tags:
 
 ![BanchoBot'un kullanıcı kartı](img/BanchoBot.jpg "BanchoBot'un kullanıcı kartı")
 
-**BanchoBot** (*Bancho* olarak da adlandırılır) oyun-içi sohbette oyun ile ilgili duyuru mesajları göndererek (örn. toplam oynama, tekrarlama sayısı, gibi), ve birtakım komutlara yanıt vererek onlara yardımcı olan osu! için yapılmış bir çevrimiçi sohbet botudur. [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) altyapısının sağlayıcısı [Echo](https://osu.ppy.sh/users/431) tarafından programlanmıştır.
+**BanchoBot** (*Bancho* olarak da adlandırılır) oyun-içi sohbette oyun ile ilgili duyuru mesajları göndererek (örn. toplam oynama, tekrarlama sayısı, gibi), ve birtakım komutlara yanıt vererek onlara yardımcı olan osu! için yapılmış bir çevrimiçi sohbet botudur. [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) altyapısının sağlayıcısı ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) tarafından programlanmıştır.
 
 BanchoBot aynı zamanda kendine ait bir [osu! profiline](https://osu.ppy.sh/users/3) ve [Twitter hesabına](https://twitter.com/banchoboat) sahiptir.
 
@@ -141,7 +141,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !report <kullanıcı> <sebep>
 ```
 
-`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/People/The_Team/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
+`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/People/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

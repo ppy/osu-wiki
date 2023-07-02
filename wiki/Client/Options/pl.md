@@ -246,7 +246,7 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 | `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
 - Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Client/Options/Offset_Wizard).
-- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skórka
 
@@ -399,7 +399,7 @@ Ta sekcja jest poświęcona zarządzaniu beatmapami i aktualizacjom.
 
 #### Wersja kompilacji
 
-Wyświetla wersję kompilacji posiadanego klienta gry oraz rodzaj wersji osu!, z którego pobierane są aktualizacje. Kliknięcie na napis, otworzy [listę zmian](/wiki/Glossary/Changelog) danej wersji gry w domyślnej przeglądarce internetowej.
+Wyświetla wersję kompilacji posiadanego klienta gry oraz rodzaj wersji osu!, z którego pobierane są aktualizacje. Kliknięcie na napis, otworzy [listę zmian](/wiki/Changelog) danej wersji gry w domyślnej przeglądarce internetowej.
 
 Komplilacje są nazywane według następującej formuły:
 

@@ -4,7 +4,7 @@ In this guide, you will learn how to use custom [hitsounds](/wiki/Beatmapping/Hi
 
 ## Getting custom hitsounds
 
-In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for getting sound samples, including cymbals, drums, bells, whistles, and more. Alternatively, if you can't find what you are looking for, you can make your own samples!
+In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_hitsound_library) is a great resource for getting sound samples, including cymbals, drums, bells, whistles, and more. Alternatively, if you can't find what you are looking for, you can make your own samples!
 
 Hitsounds should be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. Sound files in `.mp3` format have slight delays and may not accurately match up to the song you are trying to hitsound. However, they may still be usable for certain sound effects such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 
@@ -39,7 +39,7 @@ where `<sampleset>` is either "normal", "soft" or "drum", and `<sound>` is one o
 
 ![](img/beatmap-folder-resources.png "A typical beatmap folder containing custom hitsounds")
 
-In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a [hit object](/wiki/Hit_object) with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
+In the image shown above, the first listed sound is named `soft-hitclap.wav`, and will replace the default hitsound that plays when a [hit object](/wiki/Gameplay/Hit_object) with the Soft sampleset and "hitclap" addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` while using the Normal sampleset.
 
 ## Applying custom hitsounds
 

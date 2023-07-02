@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the 11th instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -503,7 +503,7 @@ The stats of the Qualifiers can be found in [this spreadsheet](https://docs.goog
 ### Stage instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
@@ -540,7 +540,7 @@ The stats of the Qualifiers can be found in [this spreadsheet](https://docs.goog
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The Round of 32 and Round of 16 mappools will have 5 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
    - **The Quarterfinals, Semifinals, Finals and Grand Finals mappools will have 6 NoMod maps, 4 DoubleTime maps and 3 maps for each of the remaining mod brackets.**

@@ -21,12 +21,13 @@ gmt:
     tournaments: gestion des tournois
     wiki: administration du wiki
     mapping: modération de la communauté modding/mapping
+    skinning: modération de la communauté skinning
+    leadership: direction d'équipe
 nat:
-  areas:
-    communication: communication
+  subgroups:
+    structural: structurel
     evaluation: évaluation
-    moderation: modération
-    structural: structure
+    leadership: direction
 languages:
   partial: un peu de <language>
   partial_vowel_prefix: un peu d'<language> # This key is specific to FR

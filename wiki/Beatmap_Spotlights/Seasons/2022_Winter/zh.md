@@ -24,7 +24,7 @@ tags:
 
 ## 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)。
 
 1. 赛季每 2 周将开放一个课题模式大厅，每个大厅在其开放期间都可参加。
    - 在第一轮课题结束后，频率降低为每 1 周复刻一个课题。

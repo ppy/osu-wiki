@@ -13,6 +13,6 @@ Das Programm wird über Discord organisiert und in saisonalen Zyklen verwaltet. 
 
 ## Frühere Mentorenprogramme
 
-Zwischen 2010 und 2013 wurde Community-Mentoring für unerfahrene Mapper eingerichtet, damit diese direkt von den Mitgliedern des [Beatmap-Appreciation-Teams (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team) und des [Mapping-Assistance-Teams (*MAT*)](/wiki/Modding/Mapping_Assistance_Team) lernen konnten.
+Zwischen 2010 und 2013 wurde Community-Mentoring für unerfahrene Mapper eingerichtet, damit diese direkt von den Mitgliedern des [Beatmap-Appreciation-Teams (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) und des [Mapping-Assistance-Teams (*MAT*)](/wiki/People/Mapping_Assistance_Team) lernen konnten.
 
 Dieses Programm wurde von [Ephemeral](https://osu.ppy.sh/users/102335), [Shiro](https://osu.ppy.sh/users/113005) und [Kurai](https://osu.ppy.sh/users/77089) organisiert, jeweils zu unterschiedlichen Zeitpunkten in seiner Geschichte.

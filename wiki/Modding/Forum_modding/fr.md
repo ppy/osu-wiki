@@ -17,12 +17,12 @@ Dans le système de modding du forum, chaque beatmap avait un fil de discussion 
 
 ## Fils des beatmaps
 
-Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Submission) initiale et contenait des commentaires libres, des interactions avec les guest difficulties et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
+Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Beatmapping/Beatmap_submission) initiale et contenait des commentaires libres, des interactions avec les guest difficulties et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
 
 Un fil de discussion du forum a été déplacé automatiquement entre différentes sections du forum vaguement liées aux [catégories des beatmaps](/wiki/Beatmap/Category) :
 
@@ -52,7 +52,7 @@ La progression d'une beatmap dans la procédure de classement était indiquée p
 - ![](/wiki/shared/icon/bubble-pop.gif) **[Bubble pop](/wiki/Modding/Bubble#bubble-pop)** : la beatmap avait des problèmes qui l'empêchaient d'être classé après avoir reçu une bulle.
 - ![](img/icon/osu.gif) ![](img/icon/taiko.gif) ![](img/icon/ctb.gif) ![](img/icon/mania.gif) **Icône de mode de jeu** : les difficultés du [mode de jeu](/wiki/Game_mode) respectif de la beatmap  ont été vérifiées et approuvées par un BN.
 - ![](/wiki/shared/icon/heart.gif) **[Heart](/wiki/Beatmap/Category#classée)** ou ![](/wiki/shared/icon/flame.gif) **[flame](/wiki/Beatmap/Category#approuvée)** : la beatmap avait été qualifié, classé ou approuvé.
-- ![](/wiki/shared/icon/broken-heart.gif) **Broken heart** : la beatmap a été disqualifiée ou unranked en raison de graves problèmes de composition ou d'un manque de conformité aux [critères de classement](/wiki/Ranking_Criteria).
+- ![](/wiki/shared/icon/broken-heart.gif) **Broken heart** : la beatmap a été disqualifiée ou unranked en raison de graves problèmes de composition ou d'un manque de conformité aux [critères de classement](/wiki/Ranking_criteria).
 - ![](/wiki/shared/icon/nuke.gif) **[Nuke](/wiki/Modding/Nuke)** : la beatmap ne pourrait même pas être considéré pour le classement dans son état actuel.
 
 ## Communication
@@ -66,7 +66,7 @@ La progression d'une beatmap dans la procédure de classement était indiquée p
 Contrairement aux [discussions sur les beatmaps](/wiki/Beatmap_discussion), un message typique de modérateur de forum couvrait l'ensemble de la beatmap et pouvait contenir beaucoup de contenu. Si les utilisateurs étaient libres d'exprimer leurs pensées sous la forme qu'ils souhaitaient, la majorité des moddeurs respectaient une structure spécifique afin de rendre leurs messages plus lisibles :
 
 - Il y avait plusieurs sections correspondant à des difficultés individuelles et une liste de paramètres/problèmes à l'échelle de la beatmap.
-- Chaque section contenait une liste d'[horodatages](/wiki/Modding/Timestamp), pointant souvent vers des [objets](/wiki/Hit_object) spécifiques.
+- Chaque section contenait une liste d'[horodatages](/wiki/Modding/Timestamp), pointant souvent vers des [objets](/wiki/Gameplay/Hit_object) spécifiques.
 - Chaque horodatage était suivi d'une brève description du problème, parfois accompagnée de captures d'écran pour clarifier davantage un problème.
 - En fonction de la gravité du problème, certains moddeurs ont utilisé un [code de couleur](/wiki/BBCode#couleur) dans leur message pour mettre en évidence les problèmes unranked ou les points clés.
 
@@ -99,9 +99,9 @@ Dans le système de modding basé sur le forum, de nombreuses actions étaient m
 - Les mods peuvent être partiellement ou totalement ignorés, intentionnellement ou non.
 - Les beatmaps pourraient être classées avec des questions unranked, ou sans l'approbation du ou des nominateurs spécifiques au mode.
 
-Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualifiée), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
+Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualifiée), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
 
-Ensuite, le système de discussion des beatmap et le [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#créer-un-mod-post) ont été développés et mis à disposition pour restructurer le modding et en faire une expérience plus agréable pour toutes les personnes impliquées :
+Ensuite, le système de discussion des beatmap et le [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#créer-un-mod-post) ont été développés et mis à disposition pour restructurer le modding et en faire une expérience plus agréable pour toutes les personnes impliquées :
 
 - [11 avril 2016](https://osu.ppy.sh/community/forums/topics/442285) : Les discussions sur les beatmaps ont été activées pour deux beatmaps et mises à disposition pour les tests publics.
 - [1er février 2017](https://osu.ppy.sh/community/forums/topics/552250) : Après plusieurs mois supplémentaires de développement sur la base des commentaires recueillis, la version suivante du système de discussion a été activée pour un autre ensemble plus important de beatmaps.

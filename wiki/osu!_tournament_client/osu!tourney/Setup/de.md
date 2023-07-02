@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aeda2ba963a9165ce2614815fff1a948df2b51f6
+---
+
 # Einrichtung von osu!tourney
 
 *Siehe auch: [osu!-Turnier-Client](/wiki/osu!_tournament_client)*\
@@ -24,7 +29,7 @@ Verändere die Datei `tournament.cfg` nicht, während osu! läuft. Schließe osu
 - `TeamSize`: Die Anzahl der Spieler pro Team. Der Client wird sich mit 1 bis 8 Fenstern pro Team öffnen, abhängig von diesem Wert. Der maximale Wert beträgt 8.
 - `ClientNameSize`: Die Größe der Spielernamen.
 - `privateserver`: Lasse dies unberührt.
-- `acronym`: Eine Abkürzung für das Turnier. Dies hat Auswirkungen auf die erforderliche Namensgebung für die Turnierräume, weitere Informationen findest du im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!tourney/Multiplayer_usage).
+- `acronym`: Eine Abkürzung für das Turnier. Dies hat Auswirkungen auf die erforderliche Namensgebung für die Turnierräume, weitere Informationen findest du im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 - `BufferTimeoutTime`: Die Zeit, die der Client auf einen Spieler wartet, bevor er das Gameplay ohne ihn fortführt.
   - Es wird nicht empfohlen dies zu ändern.
 - `BufferTotalTime`: Die Zeit, die der Client puffert, um die Häufigkeit der Pausen zu verringern, in denen auf den Puffer gewartet wird. Das erzeugt eine Verzögerung zwischen dem Client und den Spielern.

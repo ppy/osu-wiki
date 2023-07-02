@@ -68,7 +68,7 @@ Diese Kürzel können überall verwendet werden:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `F1` | Öffne das Auswahlmenü für die [Spielmodifikationen](/wiki/Game_modifier). |
+| `F1` | Öffne das Auswahlmenü für die [Spielmodifikationen](/wiki/Gameplay/Game_modifier). |
 | `F2` | Wählt zufällig eine Beatmap aus. |
 | `Shift` + `F2` | Gehe zur letzten, zufällig gewählten Beatmap zurück. |
 | `F3` | Öffne die Beatmap-Einstellungen. |
@@ -78,8 +78,8 @@ Diese Kürzel können überall verwendet werden:
 | `Strg` + `2` | Wechsle zum [osu!taiko](/wiki/Game_mode/osu!taiko)-Spielmodus. |
 | `Strg` + `3` | Wechsle zum [osu!catch](/wiki/Game_mode/osu!catch)-Spielmodus. |
 | `Strg` + `4` | Wechsle zum [osu!mania](/wiki/Game_mode/osu!mania)-Spielmodus. |
-| `Strg` + `Enter` | Spielt die ausgewählte Beatmap mit der [Auto-Mod](/wiki/Game_modifier/Auto). |
-| `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Game_modifier/Cinema). |
+| `Strg` + `Enter` | Spielt die ausgewählte Beatmap mit der [Auto-Mod](/wiki/Gameplay/Game_modifier/Auto). |
+| `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Strg` + `A` | Auto Mod ein-/ausschalten. |
 | `Strg` + `F3` oder `Strg` + `+` | Erhöhe die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
 | `Strg` + `F4` or `Strg` + `-` | Verringere die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
@@ -93,7 +93,7 @@ Diese Kürzel können überall verwendet werden:
 
 ### Spielmodifikationen
 
-*Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
+*Hauptseite: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 *Anmerkung: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
 *Anmerkung: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
 
@@ -173,7 +173,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `F1` | Wechsle zum [Compose](/wiki/Client/Beatmap_editor/Compose)-Modus. |
 | `F2` | Wechsle zum [Design](/wiki/Client/Beatmap_editor/Design)-Modus. |
 | `F3` | Wechsle zum [Timing](/wiki/Client/Beatmap_editor/Timing)-Modus. |
-| `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Starte den Testmodus. |
 | `F6` | Öffne den Dialog für das Timing und die Control Points. |
 | `Strg` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Wenn dies nicht im Timing-Mode geschiet, wird auch der Dialog für das Timing und die Control Points geöffnet |
@@ -266,7 +266,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
 | `Shift` (während dem Ziehen auf der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
 | `J` | Schiebe die Auswahl auf der Timeline zurück. |
 | `K` | Schiebe die Auswahl auf der Timeline vorwärts. |
@@ -282,7 +282,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Strg` + `C` | Kopiere die ausgewählte Ebene. |
 | `Strg` + `V` | Füge die ausgewählte Ebene an der aktuellen Stelle ein. *Anmerkung: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Beatmap in der Liste angezeigt.* |
 | `Entf` | Lösche die ausgewählte Ebene. |
-| `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/osupixel) nach oben, unten, links bzw. rechts. |
+| `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) nach oben, unten, links bzw. rechts. |
 
 ### Timing
 

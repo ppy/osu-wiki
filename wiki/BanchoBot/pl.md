@@ -6,7 +6,7 @@ outdated_translation: true
 
 ![Panel użytkownika BanchoBota](img/BanchoBot.jpg "Panel użytkownika BanchoBota")
 
-BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), który pomaga użytkownikom czatu poprzez wyświetlanie określonych informacji i komunikatów związanych z grą. Został on zaprogramowany przez [Echo49](https://osu.ppy.sh/users/431) i jest hostem [serwera Bancho](/wiki/Community/Internet_Relay_Chat). BanchoBot posiada także swój własny [profil osu!](https://osu.ppy.sh/users/3) oraz [konto na Twitterze](https://twitter.com/banchoboat)!
+BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), który pomaga użytkownikom czatu poprzez wyświetlanie określonych informacji i komunikatów związanych z grą. Został on zaprogramowany przez ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) i jest hostem [serwera Bancho](/wiki/Community/Internet_Relay_Chat). BanchoBot posiada także swój własny [profil osu!](https://osu.ppy.sh/users/3) oraz [konto na Twitterze](https://twitter.com/banchoboat)!
 
 ## Komendy
 
@@ -142,7 +142,7 @@ Tama: ok
 
 *Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (`_`).*
 
-Wysyła zgłoszenie do [moderatorów globalnych](/wiki/People/The_Team/Global_Moderation_Team).
+Wysyła zgłoszenie do [moderatorów globalnych](/wiki/People/Global_Moderation_Team).
 
 #### Przykład użycia
 

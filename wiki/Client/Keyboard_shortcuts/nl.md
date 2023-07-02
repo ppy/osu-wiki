@@ -68,7 +68,7 @@ Deze combinaties werken overal:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `F1` | Opent het [game modifiers](/wiki/Game_modifier) selectie menu. |
+| `F1` | Opent het [game modifiers](/wiki/Gameplay/Game_modifier) selectie menu. |
 | `F2` | Selecteert een willekeurige beatmap. |
 | `Shift` + `F2` | Keer terug naar de vorige willekeurig geselecteerde beatmap. |
 | `F3` | Opent de beatmap opties. |
@@ -78,8 +78,8 @@ Deze combinaties werken overal:
 | `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [Auto mod](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [Cinema mod](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [Auto mod](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [Cinema mod](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Zet de Auto mod aan/uit. |
 | `Ctrl` + `F3` of `Ctrl` + `+` | Verhoogt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
@@ -93,7 +93,7 @@ Deze combinaties werken overal:
 
 ### Game modifiers
 
-*Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*
+*Hoofdpagina: [Game modifiers](/wiki/Gameplay/Game_modifier)*
 *Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*
 *Opmerking: Target practice (osu!), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 
@@ -173,7 +173,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `F1` | Schakelt naar de [compose](/wiki/Client/Beatmap_editor/Compose) modus. |
 | `F2` | Schakelt naar de [design](/wiki/Client/Beatmap_editor/Design) modus. |
 | `F3` | Schakelt naar de [timing](/wiki/Client/Beatmap_editor/Timing) modus. |
-| `F4` | Opent de [song setup](/wiki/Client/Beatmap_editor/Song_Setup) dialoog. |
+| `F4` | Opent de [song setup](/wiki/Client/Beatmap_editor/Song_setup) dialoog. |
 | `F5` | Opent de test modus. |
 | `F6` | Opent de timing en control points dialoog. |
 | `Ctrl` + `P` | Voegt een onafhankelijk timing punt op de huidige tijdspositie. Als je niet in de timing mode zit, opent dit ook de timing en control points dialoog. |
@@ -264,7 +264,7 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
 | `Shift` (Terwijl je de tijdlijn vasthebt) | Negeert de beat snap divisor snapping. |
 | `J` | Duwt de selectie een divisor terug. |
 | `K` | Duwt de selectie een divisor vooruit. |
@@ -280,7 +280,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `C` | Kopieert de geselecteerde sprite. |
 | `Ctrl` + `V` | Plakt de sprite op het huidige tijdstip. *Opmerking: Gekopieerde sprites zijn niet zichtbaar op de layer list totdat de beatmap is opgeslagen en herladen.* |
 | `Delete` | Verwijdert de geselecteerde sprite van de laag. |
-| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Timing
 

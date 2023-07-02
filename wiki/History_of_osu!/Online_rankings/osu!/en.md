@@ -272,6 +272,12 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+
+## 2023
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## Number of reigns

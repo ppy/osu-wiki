@@ -8,14 +8,16 @@ tags:
   - AO
   - mod
   - game modifier
+outdated_translation: true
+outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # Auto (mod)
 
 ![Ikon mod AT](/wiki/shared/mods/AT.png "Ikon mod Auto (AT)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Autopilot (mod)](/wiki/Game_modifier/Autopilot).*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*Berbeda konteks dengan [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## Tentang
 
@@ -30,7 +32,7 @@ tags:
 
 *Catatan: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak akan tersimpan di papan peringkat lokal.*
 
-Mod **Auto** adalah sebuah [game modifier](/wiki/Game_modifier) yang memungkinkan pemain untuk menonton sebuah permainan yang sempurna dari beatmap yang dipilih.
+Mod **Auto** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang memungkinkan pemain untuk menonton sebuah permainan yang sempurna dari beatmap yang dipilih.
 
 Fungsi mod ini sama seperti sebuah [tayangan ulang](/wiki/Gameplay/Replay), dengan opsi pemutaran kecepatan 0.5x/1.0x/2.0x yang dapat digunakan, dan komentar pada beatmap yang dapat dilihat dan dibuat seperti biasa. Mod Auto akan selalu mendapatkan grade SS, dengan pengecualian tertentu dalam beberapa kasus.
 

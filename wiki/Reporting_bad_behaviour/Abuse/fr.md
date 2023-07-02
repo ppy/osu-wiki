@@ -29,7 +29,7 @@ Si vous pensez que les remarques/avances étaient très inappropriées ou que vo
 
 ### Dans un message public sur les forums d'osu!
 
-Signalez le message à un membre de notre [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dès que possible.
+Signalez le message à un membre de notre [Global Moderation Team](/wiki/People/Global_Moderation_Team) dès que possible.
 
 Pour ce faire, cliquez sur le nom d'utilisateur de n'importe quel membre de la GMT dans la liste de cette page. Cela vous amènera à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/102335).
 

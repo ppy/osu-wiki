@@ -4,27 +4,27 @@ outdated_translation: true
 
 # Beatmapy
 
-**Beatmapy** w [osu!](/wiki/Glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
+**Beatmapy** w [osu!](/wiki/Sitemap) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Gameplay/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
 
-Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
+Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Beatmapping/Beatmap_submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
 Beatmapy można znaleźć na [liście beatmap](https://osu.ppy.sh/beatmapsets) na stronie internetowej osu!
 
 ## Statusy
 
-Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#oczekujące) oraz [nieaktualizowanych](#nieaktualizowane).
+Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#oczekujące) oraz [nieaktualizowanych](#nieaktualizowane).
 
 ### Rankingowe
 
 ![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png) Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę.
 
-Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_Criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
+Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
 
 ### Zatwierdzone
 
 ![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
 
-Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Gameplay/Drain_time) niż 5 minut (znane także jako [maratony](/wiki/Beatmap/Marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
+Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Beatmap/Drain_time) niż 5 minut (znane także jako [maratony](/wiki/Beatmap/Marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane
 
@@ -36,15 +36,15 @@ Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku ro
 - usunięcie wszystkich wyników po zmianie statusu.
   - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
 
-Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_Criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#rankingowe) lub [zatwierdzony](#zatwierdzone).
+Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#rankingowe) lub [zatwierdzony](#zatwierdzone).
 
-Podczas tego tygodnia [członkowie zespołu QAT](/wiki/Modding/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
+Podczas tego tygodnia [członkowie zespołu QAT](/wiki/People/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
 ### Ulubione społeczności
 
 ![Serce](/wiki/shared/status/loved.png) Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem.
 
-Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
+Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
 - brak przyznania [pp](/wiki/Performance_points).
 - usunięcie wszystkich wyników po aktualizacji beatmapy przez twórcę.
@@ -59,7 +59,7 @@ Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społecznośc
 
 ![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 
-Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modding). Twórcy muszą znaleźć [moderów](/wiki/Modding/Modder) oraz przynajmniej dwóch [nominatorów](/wiki/People/The_Team/Beatmap_Nominators), by beatmapa mogła się rozwijać.
+Beatmapy z tej kategorii zazwyczaj czekają na [zmodowanie](/wiki/Modding). Twórcy muszą znaleźć [moderów](/wiki/Modding/Modder) oraz przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators), by beatmapa mogła się rozwijać.
 
 Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatycznie otrzymają status [nieaktualizowanych](#nieaktualizowane).
 

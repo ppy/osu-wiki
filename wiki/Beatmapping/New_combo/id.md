@@ -12,7 +12,7 @@ tags:
 
 ## osu!
 
-Di [osu!](/wiki/Game_mode/osu!), setiap [hit object](/wiki/Hit_object) memiliki angka dan [warna kombo](/wiki/Beatmapping/Combo_colour). Ketika kombo baru dimulai, warna kombo dan angka kombo disetel ulang menjadi satu. Ini dihitung setiap objek.
+Di [osu!](/wiki/Game_mode/osu!), setiap [hit object](/wiki/Gameplay/Hit_object) memiliki angka dan [warna kombo](/wiki/Beatmapping/Combo_colour). Ketika kombo baru dimulai, warna kombo dan angka kombo disetel ulang menjadi satu. Ini dihitung setiap objek.
 
 *Catatan: [Spinner](/wiki/Gameplay/Hit_object/Spinner) memaksa hit object selanjutnya untuk memulai kombo baru.*
 

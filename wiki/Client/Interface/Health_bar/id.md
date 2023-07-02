@@ -19,6 +19,6 @@ Di dalam [osu!taiko](/wiki/Game_mode/osu!taiko), pemain tidak mungkin gagal dala
 
 Di dalam osu!, osu!catch, dan osu!taiko, health bar ditampilkan di sudut kiri atas layar. Sedangkan pada osu!mania, diputar 90 derajat berlawanan arah jarum jam, dan ditempatkan di sebelah kanan arena bermain.
 
-Di dalam osu! dan osu!catch, health bar akan terkuras dengan kecepatan konstan sepanjang bermain sebuah beatmap, dengan pengecualian break. Efek ini dikenal sebagai [health drain](/wiki/Beatmapping/Health_drain).
+Di dalam osu! dan osu!catch, health bar akan terkuras dengan kecepatan konstan sepanjang bermain sebuah beatmap, dengan pengecualian break. Efek ini dikenal sebagai [health drain](/wiki/Gameplay/Health).
 
 <!-- TODO: Add links and stuff -->

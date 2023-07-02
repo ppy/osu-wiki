@@ -63,7 +63,7 @@ It does not increment the combo counter, and does not recover the health bar in 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!taiko](/wiki/Play_style).*
+*Refer to [Play Styles page under osu!taiko](/wiki/Gameplay/Play_style).*
 
 ## Controls
 
@@ -76,13 +76,13 @@ The default controls for osu!taiko are:
 
 The placement of in-game cursor does not matter when playing.
 
-If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
+If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
 
 *TaTaCon* drum controller were primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*.
 
 ## Scoring
 
-[Score in osu!taiko](/wiki/Gameplay/Score/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
+[Score in osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
 
 - [Judgement](/wiki/Gameplay/Judgement/osu!taiko) determines a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and large notes depends on hit timing, while every other object's base value is constant.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
@@ -129,7 +129,7 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 - Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
   - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
 - Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *mekkadosu!*.
+- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
 
 ### History
 

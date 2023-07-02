@@ -1,3 +1,6 @@
+outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
+outdated_translation: true
+
 separator: ", "
 alumni:
   roles:
@@ -22,10 +25,9 @@ gmt:
     wiki: 위키 관리
     mapping: 매핑/모딩 커뮤니티 관리
 nat:
-  areas:
-    communication: 소통
-    evaluation: 평가
-    moderation: 중재
-    structural: 구조
+  subgroups:
+    structural: 고문
+    evaluation: 평가위원
+    leadership: 리더
 languages:
   partial: 일부 <language>

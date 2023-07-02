@@ -19,6 +19,6 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), il est impossible d'échoue
 
 Dans les modes osu!, osu!catch et osu!taiko, la barre de santé est affichée dans le coin supérieur gauche de l'écran. Dans osu!mania, elle a été tournée de 90 degrés dans le sens inverse des aiguilles d'une montre et est placée à droite du champ de jeu.
 
-Dans les modes osu! et osu!catch, la barre de santé se vide à un rythme constant tout au long d'une beatmap, à l'exception des pauses. Cet effet est connu sous le nom de [drain de vie](/wiki/Beatmapping/Health_drain).
+Dans les modes osu! et osu!catch, la barre de santé se vide à un rythme constant tout au long d'une beatmap, à l'exception des pauses. Cet effet est connu sous le nom de [drain de vie](/wiki/Gameplay/Health).
 
 <!-- TODO: Add links and stuff -->

@@ -13,13 +13,13 @@ tags:
 
 *Xem: [Thêm hitsound tuỳ chỉnh](/wiki/Guides/Using_custom_hitsounds)*
 
-**Hitsound** là những âm thanh osu! phát ra để đáp lại khi người dùng tương tác với [vật thể](/wiki/Hit_object). Âm thanh được dùng để tạo ra sự phản hồi cho người chơi để giúp họ cải thiện [độ chính xác](/wiki/Gameplay/Accuracy) trong bài hát.
+**Hitsound** là những âm thanh osu! phát ra để đáp lại khi người dùng tương tác với [vật thể](/wiki/Gameplay/Hit_object). Âm thanh được dùng để tạo ra sự phản hồi cho người chơi để giúp họ cải thiện [độ chính xác](/wiki/Gameplay/Accuracy) trong bài hát.
 
 Hitsound được phát ra một mẫu mặc định gọi là *hitnormal* và sự kết hợp của *mẫu bổ sung* còi (whistle), kết thúc (finish) hoặc vỗ tay (clap). Mỗi mẫu trên là một phần của một trong ba *độ mạnh* phát ra các kiểu khác nhau: `Normal` (bình thường), `Soft` (nhẹ), hoặc `Drum` (trống).
 
 Mapper có thể thay đổi bất kỳ hitsound mặc định nào với những âm thanh khác tuỳ chỉnh bằng cách sử dụng thư mục của [biểu đồ](/wiki/Beatmap). [Skin](/wiki/Skinning) của người chơi cũng có thể thay đổi hitsound của tất cả biểu đồ. Chi tiết về các hitsound có thể được tìm thấy ở bài viết [Skin: Hitsounds](/wiki/Skinning/Sounds#hitsounds).
 
-[Vòng xoay](/wiki/Hit_object/Spinner) và [thanh trượt](/wiki/Hit_object/Slider) có những hitsound của riêng chúng: spinner spin, spinner bonus, slider slide, và slider tick.
+[Vòng xoay](/wiki/Gameplay/Hit_object/Spinner) và [thanh trượt](/wiki/Gameplay/Hit_object/Slider) có những hitsound của riêng chúng: spinner spin, spinner bonus, slider slide, và slider tick.
 
 ## Hitsound chủ động
 

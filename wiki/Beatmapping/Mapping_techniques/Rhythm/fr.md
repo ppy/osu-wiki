@@ -77,12 +77,12 @@ Cela permet de créer une ligne droite.
 
 ### Hub and Spoke
 
-Nominateur(s) : Beuchi-chan
+Nominateur(s) : [Beuchi](https://osu.ppy.sh/users/67192)
 
 La formation **hub and spoke** est littéralement un moyeu avec des rayons qui dépassent.
 Cette technique nécessite au moins 8 à 9 objets qui sont séparés d'un demi battement les uns des autres.
 Cela oblige le joueur à se déplacer dans une direction circulaire et à revenir au centre après avoir frappé un objet.
-En général, il s'agit essentiellement de la technique des [QQ diamonds](/wiki/Mapping_techniques/Formations#qq-diamonds) avec un centre pour chaque autre objet.
+En général, il s'agit essentiellement de la technique des [QQ diamonds](/wiki/Beatmapping/Mapping_techniques/Formations#qq-diamonds) avec un centre pour chaque autre objet.
 
 Tout d'abord, placez les combinaisons de numéros impairs au centre de l'endroit où le moyeu et les rayons doivent être mis en correspondance (cette partie est le "moyeu").
 Les objets suivants, pairs, doivent ensuite être placés à 0 degré, 90 degrés, 180 degrés, 270 degrés (ou vice versa) autour du "moyeu" (ce sont les "rayons").
@@ -132,7 +132,7 @@ Les **slider slowdowns** ralentissent brusquement un slider en divisant temporai
 
 ## Streams
 
-*Voir [Techniques de mapping/Basique](/wiki/Mapping_techniques/Basics#streams) pour une description des streams.*
+*Voir [Techniques de mapping/Basique](/wiki/Beatmapping/Mapping_techniques/Basics#streams) pour une description des streams.*
 
 ### Compressed Streams
 

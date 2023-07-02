@@ -43,7 +43,7 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
-![o!tfac #1 badge](img/badge.png)
+![o!tfac #1 badge](img/badge.png "osu!taiko Featured Artist Cup Winner")
 
 ## Links
 

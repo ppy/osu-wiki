@@ -1,6 +1,6 @@
 ---
-outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
 outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
 ---
 
 # Internet Relay Chat
@@ -17,7 +17,7 @@ outdated_translation: true
 
 ## Подключение
 
-Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации выбранного вами клиента):
+Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации к клиенту):
 
 - Сервер: `irc.ppy.sh`
 - Порт: `6667` (по умолчанию)
@@ -49,6 +49,7 @@ outdated_translation: true
 | [ircII](http://www.eterna.com.au/ircii/) | Напишите `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Напишите `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Зайдите в `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` и отметьте галочку `Hide Join/Part/Nick Events` |
 | [KVIrc](https://www.kvirc.net/) | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
 | [mIRC](https://www.mirc.com/) | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
@@ -80,10 +81,10 @@ outdated_translation: true
 В стандарте IRC приводится такая концепция, как режим канала (если кратко — какие действия разрешены различным пользователям). osu!Bancho использует два режима для обозначения статусов:
 
 - Префикс `+` (статус «voice») даётся пользователю, подключившемуся через внешний IRC-клиент;
-- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/The_Team/Global_Moderation_Team) или [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)).
+- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/Global_Moderation_Team) или [NAT](/wiki/People/Nomination_Assessment_Team)).
 
 Если обычный пользователь пользуется клиентом osu! или веб-чатом, у его ника нет префикса.
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

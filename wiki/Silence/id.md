@@ -1,6 +1,6 @@
 # Silence
 
-***Silence*** merupakan bentuk hukuman di osu! yang membatasi kemampuan seorang pengguna untuk dapat berkomunikasi dengan anggota-anggota komunitas lainnya. Hukuman ini dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) kepada para pengguna yang telah terbukti melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.
+***Silence*** merupakan bentuk hukuman di osu! yang membatasi kemampuan seorang pengguna untuk dapat berkomunikasi dengan anggota-anggota komunitas lainnya. Hukuman ini dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) kepada para pengguna yang telah terbukti melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.
 
 ## Pembatasan aktivitas
 
@@ -18,7 +18,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Client/Interface/Multiplayer)
 
-Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-silence pada in-game chat")
@@ -28,7 +28,7 @@ Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *sile
 
 ## Mengajukan banding akan silence yang diterima
 
-Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu, dan harap sebutkan nama pengguna osu! milikmu serta tanggal dan waktu kapan *silence* yang bersangkutan dijatuhkan dalam email tersebut.
+Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu, dan harap sebutkan nama pengguna osu! milikmu serta tanggal dan waktu kapan *silence* yang bersangkutan dijatuhkan dalam email tersebut.
 
 ## Penyebab-penyebab umum silence
 
@@ -40,3 +40,7 @@ Berikut merupakan tindakan-tindakan yang dapat menyebabkan seseorang terkena *si
 - Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya)
 
 Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_centre/Account_restrictions) oleh tim kami tanpa harus di-*silence* terlebih dahulu.
+
+## Referensi
+
+[^chat-cleanup]: [Postingan blog oleh ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)

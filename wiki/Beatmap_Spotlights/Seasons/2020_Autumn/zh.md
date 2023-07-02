@@ -29,7 +29,7 @@ tags:
 
 ### 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)。
 
 1. 每个大厅将持续开放一周
 2. 课题现已包含 Mod

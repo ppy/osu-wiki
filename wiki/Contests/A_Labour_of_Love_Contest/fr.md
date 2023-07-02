@@ -5,7 +5,7 @@ A Labour of Love est un concours à plusieurs niveaux lancé en novembre 2020 po
 Les soumissions à ce concours comprennent les éléments suivants :
 
 - Remix de la musique *Kuba Oms - My Love* ([download stems here](https://assets.ppy.sh/contests/files/115/a_labour_of_love_stems.zip))
-- La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria) (osu! uniquement)
+- La beatmap suivra les [critères de classement](/wiki/Ranking_criteria) (osu! uniquement)
 - Storyboard ou vidéo personnalisée
 
 ## Liens
@@ -27,7 +27,7 @@ Les soumissions à ce concours comprennent les éléments suivants :
 | humilde | ::{ flag=AR }:: [pm04034](https://osu.ppy.sh/users/12704335) | ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) | ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) | [Lien](https://osu.ppy.sh/beatmapsets/1382737#osu/2856702) |
 | Incoherent Sound | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315), ::{ flag=MY }:: [\[MY\]xArief](https://osu.ppy.sh/users/12694468), ::{ flag=MY }:: [\[-Chocola-\]](https://osu.ppy.sh/users/6781232) | ::{ flag=MY }:: [GhostFY](https://osu.ppy.sh/users/7798305) | [Lien](https://osu.ppy.sh/beatmapsets/1390004#osu/2870603) |
 | le fishe au chocolat | ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309), ::{ flag=CA }:: [J1_](https://osu.ppy.sh/users/5918561), ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | [Lien](https://osu.ppy.sh/beatmapsets/1389401#osu/2869375) |
-| Lovers | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905), ::{ flag=RU }:: [adioni](https://osu.ppy.sh/users/8894794), ::{ flag=RU }:: [Delette](https://osu.ppy.sh/users/7835664) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Lien](https://osu.ppy.sh/beatmapsets/1388590#osu/2867851) |
+| Lovers | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905), ::{ flag=RU }:: [adioni](https://osu.ppy.sh/users/8894794), ::{ flag=BG }:: [Delette](https://osu.ppy.sh/users/7835664) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Lien](https://osu.ppy.sh/beatmapsets/1388590#osu/2867851) |
 | Moyai | ::{ flag=TR }:: [SAMString](https://osu.ppy.sh/users/7273976) | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=GG }:: [Patrick Cake](https://osu.ppy.sh/users/11266329), ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [Lien](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |
 | Pentangle of Ambivalence | ::{ flag=BR }:: [Maemi no Yume](https://osu.ppy.sh/users/4377273) | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594) | [Lien](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791) |
 | schoolboy fans | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=UA }:: [wajinshu](https://osu.ppy.sh/users/6339790) | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | [Lien](https://osu.ppy.sh/beatmapsets/1382412#osu/2856191) |
@@ -92,11 +92,11 @@ Si une équipe gagne dans plusieurs des catégories citées ci-dessus, elle sera
 
 - **La soumission doit être une "expérience complète de beatmap" comprenant les éléments suivants :**
   - Remix de la musique **Kuba Oms - My Love**
-  - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
+  - La beatmap suivra les [critères de classement](/wiki/Ranking_criteria)
   - Storyboard ou vidéo personnalisée
 - **La soumission doit être au format `.osz`.**
 - **Les beatmaps doivent être dans le mode de jeu *osu!* uniquement.** Comparer les beatmaps de différents modes dans un scénario de jugement n'est malheureusement pas réaliste.
-- **Les beatmaps doivent respecter les [critères de classement](/wiki/Ranking_Criteria).** Bien que nous puissions être indulgents avec les erreurs, les beatmaps qui ne pourraient pas être classées sans changements majeurs seront remises en question.
+- **Les beatmaps doivent respecter les [critères de classement](/wiki/Ranking_criteria).** Bien que nous puissions être indulgents avec les erreurs, les beatmaps qui ne pourraient pas être classées sans changements majeurs seront remises en question.
 - **Le nom et les membres de l'équipe doivent être confirmés via [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Si votre pays ne prend pas en charge les formulaires Google, [envoyez un message à pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Les équipes sont limitées à 5 membres.
 - **Les beatmaps ne doivent pas être dans la catégorie Qualifiée avant la fin du vote communautaire.**
 

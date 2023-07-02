@@ -4,7 +4,7 @@ outdated: true
 
 # Replay
 
-Un replay est une rediffusion ou émulation directe d'une partie, qu'elle soit réalisée par un joueur ou par le mod [Auto](/wiki/Game_modifier/Auto).
+Un replay est une rediffusion ou émulation directe d'une partie, qu'elle soit réalisée par un joueur ou par le mod [Auto](/wiki/Gameplay/Game_modifier/Auto).
 Tant que le fichier local avec pour extension `.osr` est disponible avec la bonne beatmap/difficulté ou un replay téléchargé via le `Classement général`, un replay complet peut être construit par osu! pour être regardé.
 
 ## Options du replay
@@ -17,9 +17,9 @@ Relâcher trop tôt fera échouer le quick retry.
 
 Il est toujours possible d'accéder à la [console de tchat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
-Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
+Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Gameplay/Game_modifier/Auto).
 
-Un replay avec le mod [Cinema](/wiki/Game_modifier/Cinema) va :
+Un replay avec le mod [Cinema](/wiki/Gameplay/Game_modifier/Cinema) va :
 
 - Cacher toutes les options de replay,
 - Désactiver l'accès au gameplay,
@@ -86,7 +86,7 @@ La touche de raccourci est la touche `Esc`.
 
 ## Types de replays
 
-*Toute la documentation concernant le format `.osr` : [.osr (format de fichier)](/wiki/osu!_File_Formats/Osr_(file_format))*
+*Toute la documentation concernant le format `.osr` : [.osr (format de fichier)](/wiki/Client/File_formats/Osr_(file_format))*
 
 Pour exporter un replay, appuyez sur `F2` sur l'écran de résultat.
 Le replay exporté aura une extension de fichier `.osr` avec un format de nom de fichier propre comme indiqué ci-dessous :
@@ -145,8 +145,8 @@ Il est impossible d'essayer de redémarrer la beatmap pour la rejouer directemen
 
 Il ne fonctionne actuellement en `Solo` que lorsque l'écran de game over est affiché.
 
-Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Game_modifier/No_Fail), [Relax(RL)](/wiki/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
-Utiliser le mod [Perfect(PF)](/wiki/Game_modifier/Perfect) effectuera automatiquement un quick retry au lieu d'afficher un écran de game over.
+Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Gameplay/Game_modifier/No_Fail), [Relax(RL)](/wiki/Gameplay/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Gameplay/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
+Utiliser le mod [Perfect(PF)](/wiki/Gameplay/Game_modifier/Perfect) effectuera automatiquement un quick retry au lieu d'afficher un écran de game over.
 
 S'il y avait une chaîne de retry, celle-ci sera perdue une fois avoir lancé le replay échoué.
 

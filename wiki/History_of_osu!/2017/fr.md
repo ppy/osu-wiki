@@ -12,7 +12,7 @@ Liens :
 
 ## Février
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) a été annoncé en tant que nouveau featured artist. Le premier build lazer d'osu! est sorti !
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) a été annoncé en tant que nouveau featured artist. Le premier build [lazer](/wiki/Client/Release_stream/Lazer) d'osu! est sorti !
 
 Liens :
 
@@ -57,7 +57,7 @@ Liens :
 
 ## Juin
 
-L'équipe d'osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15 juin 2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. La possibilité d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajoutée dans les [Options](/wiki/Client/Options). Pendant le mois, dans le Discord osu!dev, il y a eu des discussions autour de la mort de l'osu!weekly. À partir de ce moment-là, chaque post officiel et communautaire sera posté quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
+L'équipe d'osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15 juin 2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. La possibilité d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajoutée dans les [Options](/wiki/Client/Options). Pendant le mois, dans le [serveur Discord osu!](/wiki/Community/osu!_Discord_server), il y a eu des discussions autour de la mort de l'osu!weekly. À partir de ce moment-là, chaque post officiel et communautaire sera posté quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
 
 Liens :
 
@@ -113,7 +113,7 @@ Liens :
 
 ## Novembre
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) a été annoncé en tant que nouveau featured artist. peppy a ouvert un fil de discussion afin de centraliser ses pensées sur les écrans tactiles ; ainsi que quelques réponses aux solutions fréquemment proposées. Le salon `#osu-performance` sur le Discord osu!dev a été ouvert afin de permettre des discussions plus ouvertes. Le Winter 2017 Fanart Contest a été ouvert.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) a été annoncé en tant que nouveau featured artist. peppy a ouvert un fil de discussion afin de centraliser ses pensées sur les écrans tactiles ; ainsi que quelques réponses aux solutions fréquemment proposées. Le salon `#osu-performance` sur le [serveur Discord osu!](/wiki/Community/osu!_Discord_server) a été ouvert afin de permettre des discussions plus ouvertes. Le Winter 2017 Fanart Contest a été ouvert.
 
 Liens :
 
@@ -123,7 +123,7 @@ Liens :
 
 ## Décembre
 
-Les résultats du Winter 2017 Fanart Contest sont tombés, récompensant [Leissss](https://osu.ppy.sh/users/4750716) ayant le plus de votes. L'OWC 2017 s'est conclue par la victoire de la Pologne. Grâce à LiquidPL, la page de téléchargement sur osu!web a pu être refaite. Le jour avant Noël, une autre poignée de contributeurs de la communauté ont été annoncés. Tous les joueurs ont reçu temporairement un tag osu!supporter à des fins de test, qui par coincidence est arrivé le jour de Noël. peppy a terminé l'année avec une vidéo, montrant l'avancée du client lazer d'osu! au cours de l'année.
+Les résultats du Winter 2017 Fanart Contest sont tombés, récompensant [Leissss](https://osu.ppy.sh/users/4750716) ayant le plus de votes. L'OWC 2017 s'est conclue par la victoire de la Pologne. Grâce à LiquidPL, la page de téléchargement sur osu!web a pu être refaite. Le jour avant Noël, une autre poignée de contributeurs de la communauté ont été annoncés. Tous les joueurs ont reçu temporairement un tag osu!supporter à des fins de test, qui par coincidence est arrivé le jour de Noël. peppy a terminé l'année avec une vidéo, montrant l'avancée du client [lazer](/wiki/Client/Release_stream/Lazer) d'osu! au cours de l'année.
 
 Liens :
 

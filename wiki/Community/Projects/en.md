@@ -30,7 +30,7 @@ outdated: true
 - osu!web — The browser-facing portion of osu!.
   - [GitHub](https://github.com/ppy/osu-web) | [Website](https://osu.ppy.sh/home)
 - [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479) — Houses information about osu!.
-  - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_Page)
+  - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_page)
 
 ## Community
 
@@ -158,7 +158,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [AIBat](https://osu.ppy.sh/community/forums/topics/55305) — An attempt to make modding easier for modders.
   - [GitHub](https://github.com/akrolsmir/AIBat)
-- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automate [Ranking Criteria](/wiki/Ranking_Criteria) issue detection.
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automate [Ranking Criteria](/wiki/Ranking_criteria) issue detection.
   - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) — A simple tool to help deal with BBCode when modding.
 - [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305) — Lists out the various hit object distances to allow one to scan through potential spacing mistakes.
@@ -237,8 +237,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
 - haitai — Unlock requirements for osu! [medals](/wiki/Medals).
   - [Website](http://haitai.jp/)
-- [osekai](https://osu.ppy.sh/community/forums/topics/1427698) — A team dedicated to making websites for osu! such as medal unlock requirements or alternative ranking leaderboards.
-  - [Website](https://osekai.net/)
+- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
+  - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) — Calculates the needed score to achieve a certain level.
   - [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Website](https://olc.howl.moe/)
 - [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) — Write player stats into a file, which can then be displayed using Open Broadcaster Software.

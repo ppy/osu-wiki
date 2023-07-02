@@ -15,7 +15,7 @@ Der Beatmap-Editor ist in vier Hauptabschnitte eingeteilt, die in der linken obe
 
 ## Compose
 
-Im Tab [Compose](/wiki/Client/Beatmap_editor/Compose) lassen sich alle [Hit-Objekte](/wiki/Hit_object) und andere Gameplay-bezogene Elemente erstellen. Viele Mapper verbringen infolgedessen die meiste ihrer Zeit in diesem Bereich.
+Im Tab [Compose](/wiki/Client/Beatmap_editor/Compose) lassen sich alle [Hit-Objekte](/wiki/Gameplay/Hit_object) und andere Gameplay-bezogene Elemente erstellen. Viele Mapper verbringen infolgedessen die meiste ihrer Zeit in diesem Bereich.
 
 ## Design
 
@@ -27,7 +27,7 @@ Der Tab [Design](/wiki/Client/Beatmap_editor/Design) bietet eine Möglichkeit zu
 
 ## Song-Setup
 
-Mit [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup) lassen sich die [Metadaten](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) einer [Beatmap](/wiki/Beatmap) und andere Dinge, die für eine Beatmap einzigartig sind, eintragen. Das beinhaltet den Titel eines Songs, den Künstler, den Namen des Schwierigkeitsgrads, Combo-Farben, etc.
+Mit [Song-Setup](/wiki/Client/Beatmap_editor/Song_setup) lassen sich die [Metadaten](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) einer [Beatmap](/wiki/Beatmap) und andere Dinge, die für eine Beatmap einzigartig sind, eintragen. Das beinhaltet den Titel eines Songs, den Künstler, den Namen des Schwierigkeitsgrads, Combo-Farben, etc.
 
 ## Anderes
 

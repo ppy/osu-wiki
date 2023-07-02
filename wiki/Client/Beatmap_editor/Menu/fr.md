@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: af2ef05a32428cafe018934e7aea7d3d400d9410
+---
+
 # Menu de l'éditeur de beatmap
 
 ## Fichier
@@ -157,7 +162,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Cli
 
 | Nom | Description |
 | :-- | :-- |
-| Diviseur de mesure | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Diviseur de mesure | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Vitesse de la musique | Identique à la vitesse de lecture. |
 | Alignement auto des élements sur la grille (`T`) | Permet l'accrochage des notes par rapport à la ligne de grille actuelle. |
 

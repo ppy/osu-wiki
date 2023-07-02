@@ -5,7 +5,7 @@ outdated_since: 9cfb562a5fe6a20f992ba572bdc34366b95c3107
 
 # 拥有特殊头衔的玩家
 
-玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
+玩家的头衔通常与 [用户组](/wiki/People/osu!_team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
 
 ## 按类别及其原因排序
 
@@ -95,7 +95,7 @@ outdated_since: 9cfb562a5fe6a20f992ba572bdc34366b95c3107
 
 ### 精英提名人
 
-自2020年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
+自2020年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
 
 - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
 - ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)¹
@@ -131,7 +131,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 ### 精选艺术家
 
-拥有 osu! 账户的 [精选艺术家](/wiki/Featured_Artists) 将会授予 **Featured Artist** 头衔来证明他们的存在。
+拥有 osu! 账户的 [精选艺术家](/wiki/People/Featured_Artists) 将会授予 **Featured Artist** 头衔来证明他们的存在。
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) 和 ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) 为 osu! 的声音设计和官方主题曲的早期贡献而被授予 **osu!musician** 头衔。::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) 成为精选艺术家时他选择保留 **osu!mixer** 来作为自己的头衔。
 
@@ -198,7 +198,9 @@ osu!团队为社区成员举办了艺术比赛，使他们有机会设计或重�
 | User | Title | Achievement |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | 在 [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) 上获得了第一个 NoMod FC。 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | 截至 2023 年 3 月 15 日，游玩了全部 Ranked osu! 谱面。 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日，FC 了全部 8841 张 Ranked osu!taiko 谱面。 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | 截至 2021 年 8 月 11 日，游玩了全部 Ranked osu! 谱面。 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *待补充* |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了全部 Ranked osu! 谱面。 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) 冠军 |

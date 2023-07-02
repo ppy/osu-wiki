@@ -25,7 +25,7 @@ Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy 
 6. **Legyél figyelmes, hogy mit osztasz meg másokkal, különös tekintettel a felkavaró/felzaklató tartalmakra vonatkozóan.** Ha azon tűnődsz, hogy helyénvaló-e az adott tartalmat linkelni, valószínűleg nem az. Kerüld a gyorsan villogó fényeket, a véres, másokat felkavaró, és egyéb felzaklató képeket.
 7. **A linkek legyenek relevánsak és legális weboldalakra mutassanak.** Illegálisan közvetítő weboldalak (hivatalosan licenc-szeltek, például Animelab vagy Crunchyroll rendben van) vagy bármiféle illegális/kalóz szoftverek, illetve ehhez hasonlóak nem elfogadottak, és nemkívánatosak a chat-en. Twitch linkek reklámozása más videojátékokra rendben van, de CSAK a `#videogames` csatornában.
 8. **Ne hirdess semmiféle külső chat szervert, Discord-ot, Teamspeak-et, illetve Skype szervereket/csoportokat beleértve.** Az osu! chat elsősorban az osu!-ról szól, és nem arról, hogy a saját szervereidet híreszteld. Tedd ezt privát üzenetekben, ha mindenképpen szükséges.
-9. **Nyelvspecifikus csatornákban, a domináns nyelvet kell beszélned (Angol az #english-ben, Magyar a #hungarian-ben, stb.), ha be szeretnél kapcsolódni a beszélgetésbe.** Abban a csatornában, ahol a nyelv nincs kifejezetten előírva (vagy a csatorna nevéből nem lehet egyértelműen kikövetkeztetni, például Magyar a `#hungarian`-ben és Holland a `#dutch`-ban), ott mindig Angol. A `#lobby` és a `#help` csatornákban bármely nyelv megengedett, nem úgy, mint az összes többiben. *A [moderátori csapatnak](/wiki/People/The_Team/Global_Moderation_Team) nem kell követnie ezt a szabályt, amikor a munkájukat végzik.*
+9. **Nyelvspecifikus csatornákban, a domináns nyelvet kell beszélned (Angol az #english-ben, Magyar a #hungarian-ben, stb.), ha be szeretnél kapcsolódni a beszélgetésbe.** Abban a csatornában, ahol a nyelv nincs kifejezetten előírva (vagy a csatorna nevéből nem lehet egyértelműen kikövetkeztetni, például Magyar a `#hungarian`-ben és Holland a `#dutch`-ban), ott mindig Angol. A `#lobby` és a `#help` csatornákban bármely nyelv megengedett, nem úgy, mint az összes többiben. *A [moderátori csapatnak](/wiki/People/Global_Moderation_Team) nem kell követnie ezt a szabályt, amikor a munkájukat végzik.*
 
 ## Fórum Szabályzat
 
@@ -39,9 +39,9 @@ Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy 
 
 ## Beatmap Közzétételi Szabályok
 
-Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Submission) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/Client/Beatmap_editor) segítségével a beatmap-ek publikálásra kerülnek.
+Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Beatmapping/Beatmap_submission) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/Client/Beatmap_editor) segítségével a beatmap-ek publikálásra kerülnek.
 
-Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
+Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_criteria).
 
 1. **Győződj meg arról, hogy engedélyed van mindenre, amit a beatmap-edben használsz.** Ez magába foglalja a zenéket, videókat, ütéshangokat, grafikákat, vagy bármi egyéb tartalmat, ami nem a te munkád gyümölcse. Ha nem vagy benne biztos, hogy merre kéne az efféle tartalmakat keresned, nekünk van egy folyamatosan bővülő zenegyűjteményünk a [Kiemelt Előadók](https://osu.ppy.sh/beatmaps/artists/) részlegnél, ahol az összes zene 100%-os licenc-szel rendelkezik az osu! használatához.
 2. **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.

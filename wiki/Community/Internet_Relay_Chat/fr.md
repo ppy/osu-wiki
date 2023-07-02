@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # Internet Relay Chat
 
 *Pour plus d'informations, consultez : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -78,10 +83,10 @@ Tapez les premières lettres du nom d'utilisateur, puis utilisez le touche `Tab`
 La norme IRC a un concept de modes de canal, ou des ensembles d'actions que chaque utilisateur peut effectuer. Dans osu!Bancho, deux modes sont utilisés pour des groupes spéciaux d'utilisateurs du tchat :
 
 - `+`, ou "statut vocal" : l'utilisateur est connecté via un client IRC externe
-- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/Global_Moderation_Team) ou [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préfixe.
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version internet du tchat](https://osu.ppy.sh/community/chat), soit connectés via [osu!(lazer)](https://github.com/ppy/osu).
+Ils sont soit en train d'utiliser [la version internet du tchat](https://osu.ppy.sh/community/chat), soit connectés via [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

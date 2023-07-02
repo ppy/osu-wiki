@@ -18,7 +18,7 @@ Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weerg
 
 ### Hoe te spelen?
 
-Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_style). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
+Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Gameplay/Play_style). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
 
 Nu over naar het speelwijze.
 
@@ -110,7 +110,7 @@ Dit zal je combo niet breken:
 - C = meer dan 60% hits van 300.
 - D = al wat niet aan bovenstaande voorwaarden voldoet.
 
-Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[Hidden](/wiki/Game_modifier/Hidden)' of '[Flashlight](/wiki/Game_modifier/Flashlight)' mod.
+Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' of '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)' mod.
 
 ### Levensmeter
 

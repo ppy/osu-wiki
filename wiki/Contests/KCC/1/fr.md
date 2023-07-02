@@ -36,7 +36,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 | Organisateur | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
 | Responsable | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
 | Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Juges | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/6392061), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Juges | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
 
 ## Liens
 
@@ -91,7 +91,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 - La beatmap doit être terminée par le concurrent seul. Aucune collaboration n'est autorisée.
 - Les beatmaps ne doivent pas être publiées sur le site d'osu! par le biais du Beatmap Submission System (BSS). Toutes les soumissions au concours doivent être anonymes pendant les phases de jugement afin d'éviter toute partialité.
 - Une seule difficulté est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
-- Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_Criteria).
+- Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_criteria).
 - Si vous soumettez plusieurs beatmaps, la dernière sera celle prise en compte.
 - L'envoi d'une participation implique la compréhension et l'acceptation des règles énoncées ci-dessus.
 

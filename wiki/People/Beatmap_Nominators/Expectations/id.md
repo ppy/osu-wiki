@@ -1,0 +1,17 @@
+# Ekspektasi bagi Beatmap Nominator
+
+*Lihat juga: [Peraturan Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules)*
+
+Sebagai tokoh sentral di masing-masing komunitas dan osu! secara keseluruhan, [Beatmap Nominator](/wiki/People/Beatmap_Nominators) memiliki standar yang lebih tinggi daripada pengguna lain. Harapan yang tercantum di sini adalah hasil diskusi [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Meskipun itu tidak masuk akal untuk menyelaraskan dengan harapan ini, pelanggaran batas tersebut dapat menyebabkan peringatan dan/atau penghapusan dari Beatmap Nominator. Semua situasi dinilai berdasarkan kasus per kasus tergantung pada frekuensi, tingkat keparahan, dampak, dan akal sehat.
+
+Sebagai pengingat, Beatmap Nominator diharapkan melakukan yang terbaik dengan selalu mematuhi [kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) setiap saat. Mereka juga harus selalu bertindak demi kepentingan terbaik untuk menjaga kualitas dari bagian ranked.
+
+- **Bertindak dengan mengutamakan kepentingan komunitas.** Dekati situasi yang sulit dengan hati-hati, tujukan tindakan dengan penilaian yang tepat jika memungkinkan dengan selalu berusaha untuk belajar dari kesalahan dan pastikan kamu memikirkan dampak dari tindakanmu terhadap komunitas secara luas.
+- **Jangan mengeksploitasi atau menyalahgunakan sistem yang ada.** Mengikuti [Ranking Criteria](/wiki/Ranking_criteria) dan tidak mencoba untuk mengelaknya itu sudah pasti, dan kasus ketidaksepakatan harus diselesaikan melalui proposal Ranking Criteria. Beatmap Nominator juga tidak boleh berulang kali mengeksploitasi bug atau sistem penghargaan seperti [skor](/wiki/Gameplay/Score), [PP](/wiki/Performance_points) atau [kudosu](/wiki/Modding/Kudosu).
+- **Bersikap sopan, baik di dalam maupun di luar platform gim secara langsung.** Beatmap Nominator diharapkan tidak terlalu antagonis, menghasut, atau menghina anggota komunitas osu! lainnya. Hal ini terutama berlaku bagi komunitas dimana pengguna lain biasa mengaitkannya ke akun mereka di osu! (misalnya server mapping di Discord atau Twitter).
+- **Mod secara teratur.** Beatmap Nominator diharapkan dapat memastikan dan meningkatkan tidak hanya kepastian rank, tetapi juga kualitas map yang mereka nominasi. Mereka harus dapat melakukan mod secara menyeluruh jika diperlukan. Mod yang dilakukan di luar diskusi beatmap harus tetap dapat diakses sebagai bukti (misalnya melalui log/ringkasan).
+- **Mudah didekati.** Sebagai anggota dari komunitas yang sering dicari, Beatmap Nominator harus menghindari kesan bahwa mereka tidak dapat dihubungi atau tidak ingin berkomunikasi. Namun, hal ini bukan berarti Beatmap Nominator diwajibkan untuk menerima semua permintaan.
+- **Mempromosikan variasi.** Sebagai kontributor utama di bagian Ranked, Beatmap Nominator harus mempunyai tujuan yaitu menyajikan konten yang berbeda dari mapper lain kepada komunitas. Mereka bisa memiliki preferensi, tetapi nominasi mereka tidak diperbolehkan hanya terdiri dari BN lain atau pembuat map yang sama.
+- **Terus meningkatkan diri!** Menjadi Beatmap Nominator hanyalah awal dari perjalanan seseorang. Masih banyak yang harus didiskusikan dan dipelajari. Beatmap Nominator tidak hanya diharapkan untuk membantu orang lain saja, tetapi juga untuk meminta bantuan ketika mereka tidak yakin tentang sesuatu.
+
+Mereka yang ingin menjadi Beatmap Nominator harus memahami ekspektasi ini sebelum [bergabung](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).

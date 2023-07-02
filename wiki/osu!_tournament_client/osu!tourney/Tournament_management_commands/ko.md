@@ -40,7 +40,7 @@ outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
 - `!mp addref <username> [<username>] …` - Referee 를 추가합니다. 최대 8명까지 추가할 수 있으며 방의 생성자만이 Referee 를 추가할 수 있습니다.
   - Referee 는 반드시 in-game 멀티플레이어 방 혹은 IRC에서 `/join #mp_<room_id>` 를 사용하여 멀티플레이 방에 속해있어야 합니다.
   - Referee 는 생성자와 같은 권한으로 방을 관리하거나 조정할 수 있으나, 다른 Referee 를 추가할 수는 없습니다.
-  - [osu!tourney 클라이언트](/wiki/osu!tourney) 를 사용할 경우 Referee 권한이 있어야 채팅을 보여줍니다.
+  - [osu!tourney 클라이언트](/wiki/osu!_tournament_client/osu!tourney) 를 사용할 경우 Referee 권한이 있어야 채팅을 보여줍니다.
 - `!mp removeref <username> [<username>] …` - Referee 를 제거합니다. 방의 생성자만이 Referee 를 제거할 수 있습니다.
 - `!mp listrefs` - Referee 의 리스트를 표시합니다.
 - `!mp close` - 멀티플레이어 방을 닫습니다.

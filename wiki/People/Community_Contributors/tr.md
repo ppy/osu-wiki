@@ -9,7 +9,7 @@ outdated_translation: true
 
 **Topluluk İştirakçileri** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
+osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
 ## 2013
 
@@ -32,7 +32,7 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/The_T
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 yılı aşkın bir süredir hiç yorulmaksızın [beatmap paketlemeyi](https://osu.ppy.sh/beatmaps/packs) idare etme ve birkaç yıllık beatmap çizelge çalışması. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmap tema tasarımı, [storyboard yaratmayı](/wiki/Storyboard) bir sanat ve motivasyon kaynağı olarak gelişmesini sağlamak dahil, yıllar boyu hizmet. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Erken topluluk yönetimi ve moderasyonu ile vakti zamanında bulunduğu devasa katkılar. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | [GMT](/wiki/People/The_Team/Global_Moderation_Team)'nin takip edebilmesi için çitayı oldukça yükselten ilk topluluk yöneticisi ve küresel moderatör. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | [GMT](/wiki/People/Global_Moderation_Team)'nin takip edebilmesi için çitayı oldukça yükselten ilk topluluk yöneticisi ve küresel moderatör. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | İlk personel yöneticisi ve BATmenajeri olma ve seçkin beatmap moderasyonunu hiç yoktan tek elden oluşturma. |
 
 ## 2015

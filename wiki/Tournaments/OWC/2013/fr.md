@@ -8,7 +8,7 @@ tags:
 
 ![Logo de l'OWC 2013](img/logo.jpg)
 
-L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu! World Cup.
+L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/osu!_team). Il s'agit de la quatrième édition de l'osu! World Cup.
 
 ## Calendrier du tournoi
 
@@ -409,7 +409,7 @@ Dimanche 10 novembre 2013 :
 1. L'OWC est une compétition d'osu! en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-   - Certaines beatmaps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) et [DoubleTime](/wiki/Game_modifier/Double_Time). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
+   - Certaines beatmaps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) et [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
@@ -474,7 +474,7 @@ Dimanche 10 novembre 2013 :
 ### Instructions pour les mappools
 
 1. Chaque phase se verra attribuer des beatmaps uniques.
-2. Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
+2. Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) et FreeMod.
 3. Durant chaque phase, 23 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4. Aucun mod n'est autorisé pour les beatmaps de la catégorie NoMod et pour le tiebreaker.
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.

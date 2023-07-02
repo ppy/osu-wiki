@@ -17,7 +17,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Compose (Oluştur)
 
-[Compose (Oluştur)](/wiki/Client/Beatmap_editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_object) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
+[Compose (Oluştur)](/wiki/Client/Beatmap_editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Gameplay/Hit_object) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
 
 ## Design (Dizayn)
 
@@ -29,7 +29,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Song Setup (Müzik Kurulumu)
 
-[Song setup (Müzik kurulumu)](/wiki/Client/Beatmap_editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) ve [beatmap setleri](/wiki/Beatmap) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
+[Song setup (Müzik kurulumu)](/wiki/Client/Beatmap_editor/Song_setup) beatmapin [metaverisini](/wiki/Ranking_criteria#metadata) ve [beatmap setleri](/wiki/Beatmap) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
 
 ## Diğer
 

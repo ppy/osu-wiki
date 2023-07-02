@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2017 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the third instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -374,7 +374,7 @@ Sunday, 15 January 2017:
    - 15 FreeMod maps in Finals.
 3. Each mappool has one tiebreaker.
 4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+   - Allowed mods are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).
    - The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

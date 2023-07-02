@@ -17,12 +17,12 @@ La **osu! Mapping Olympiad** est un concours de mapping destiné à tous les mod
 
 *Note : Veuillez garder à l'esprit que les règles sont susceptibles de changer par rapport aux restrictions des éditions du tournoi.*
 
-- Chaque participation doit suivre les [critères de classement](/wiki/Ranking_Criteria). Les participations ne respectant pas les critères de classement se verront obtenir des pénalités, allant du retrait de points à la disqualification en fonction de la gravité.
+- Chaque participation doit suivre les [critères de classement](/wiki/Ranking_criteria). Les participations ne respectant pas les critères de classement se verront obtenir des pénalités, allant du retrait de points à la disqualification en fonction de la gravité.
 - Le dépôt des beatmaps ne doit pas excéder 15 Mo.
 - Les storyboards ne seront pas pris en compte dans le processus de jugement.
 - L'usage des [hitsounds](/wiki/Beatmapping/Hitsound) personnalisés est autorisé.
 - La collaboration entre mappeurs sur les participations sont interdites. 
-- Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Beatmap Submission System](/wiki/Submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
+- Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
 
 ## Précédentes éditions
 

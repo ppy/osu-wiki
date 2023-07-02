@@ -6,9 +6,9 @@ tags:
 
 # Circle size
 
-*For regulations surrounding circle size, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding circle size, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
-**Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Hit_object). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Client/Beatmap_editor). Other values can be used by manually editing the [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)) of a map.
+**Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Gameplay/Hit_object). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Client/Beatmap_editor). Other values can be used by manually editing the [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)) of a map.
 
 ## osu!
 
@@ -16,7 +16,7 @@ In [osu!](/wiki/Game_mode/osu!), circle size changes the size of [hit circles](/
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Where `r` is the radius measured in [osu!pixels](/wiki/osu!pixel), and `CS` is the circle size value.
+Where `r` is the radius measured in [osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel), and `CS` is the circle size value.
 
 ## osu!taiko
 
@@ -34,5 +34,5 @@ In [osu!mania](/wiki/Game_mode/osu!mania), circle size refers to the key count.
 
 There are two mods that alter circle size when activated:
 
-- [Easy](/wiki/Game_modifier/Easy): Halves the CS value.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the CS value by 1.3, up to a maximum of 10.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the CS value.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the CS value by 1.3, up to a maximum of 10.

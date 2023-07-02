@@ -4,7 +4,7 @@ no_native_review: true
 
 # Mod 摘要
 
-*主頁面：[Mod](/wiki/Game_modifier)*
+*主頁面：[Mod](/wiki/Gameplay/Game_modifier)*
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen.

@@ -13,7 +13,7 @@ tags:
 
 Hast du bei irgendetwas Probleme? Wir sind hier, um zu helfen! Finde einige Lösungen zu häufigen Problemen in der Sitebar deines Bildschirms. Wenn dein Problem hier nicht auftaucht oder du immer noch keine Lösung hast, dann sende eine E-Mail an [support@ppy.sh](mailto:support@ppy.sh). Alternativ kannst du dein Problem auch im [Hilfeforum](https://osu.ppy.sh/community/forums/5) schildern, wo dir jemand weiterhelfen kann.
 
-## Abschnitte {#sections}
+## Abschnitte {id=sections}
 
 Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passende Lösung findest.
 
@@ -26,11 +26,12 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 | [Installation und Registrierung](/wiki/Help_centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
 | [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
 | [Turniersperren](/wiki/Help_centre/Tournament_bans) | Alles über Turniersperren: Übersicht, häufige Gründe und Auszeiten |
+| [Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration zur [nächsten Hauptversion](/wiki/Client/Release_stream/Lazer) von osu! |
 | [Webseite](/wiki/Help_centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
 
-## Helfe uns, dir zu helfen {#diagnostics}
+## Helfe uns, dir zu helfen {id=diagnostics}
 
-### Log-Dateien {#log-files}
+### Log-Dateien {id=log-files}
 
 **Log-Dateien sind genaue Aufzeichnungen was der Spiel-Client zu einem bestimmten Zeitpunkt gemacht hat. Wir können sie verwenden, um die Ursache des Problems zu ermitteln.**
 
@@ -47,7 +48,7 @@ Wenn ein Mitglied des Supportteams dich nach diesen Logs gefragt hat, dann mache
 7. Finde das Verzeichnis `Logs` in dem Fenster, welches sich öffnet.
 8. Wähle die benötigte Log-Datei (der Support-Ansprechpartner wird dir sagen, welche) und hänge sie an das Support-Ticket oder den Forumsbeitrag an.
 
-### Ereignisanzeige {#event-viewer}
+### Ereignisanzeige {id=event-viewer}
 
 **Die Ereignisanzeige ist eine eingebaute Komponente von Windows, die benutzt werden kann, um Absturzprotokolle zu finden, sollte osu! dir keine geben. Diese Absturzprotokolle können bei der Lösung des Problems helfen.**
 
@@ -64,7 +65,7 @@ Wenn ein Mitglied des Supportteams dich fragt, nach Absturzprotokollen in der Er
 7. Gehe in den Tab `Details` und erweitere `System` und `EventData` durch einen Klick darauf.
 8. Kopiere den Text dort und füge ihn in das Support-Ticket oder den Forumsbeitrag ein.
 
-### Frametime-Diagramm {#frame-time-graph}
+### Frametime-Diagramm {id=frame-time-graph}
 
 **Das Frametime-Diagramm ist ein Feature von osu!, welches dabei hilft, nützliche Informationen über Leistungsprobleme zu bekommen, die du eventuell hast.**
 

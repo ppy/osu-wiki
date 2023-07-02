@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Multiplayer
 
-**Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other or as a team on maps decided by the host.
+**Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
 
 The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of the client in video format in [Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), along with the [online users panel](/wiki/Client/Interface/Chat_console#extended-chat-console).
 
@@ -45,6 +45,8 @@ The listed match lobbies can be filtered using the options at the top left.
 
 Covering the middle of the screen is a list of available matches.
 
+Most matches have light white backgrounds, indicating that they were [created normally through the game UI](#creating-a-new-game). There are also ones with purple backgrounds, which are *tournament matches* created and managed using [lobby management chat commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) such as `!mp make` or `!mp makeprivate`.
+
 A variety of information is displayed about each lobby. For example, the player slots to the right can have three different colours:
 
 | Colour | Description |
@@ -71,13 +73,12 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 ![](img/multi-room-creation.jpg "Configuration screen for creating a match lobby")
 :::
 
-<!-- TODO: update above image; there is a new `Make match history publicly viewable` button -->
-
 | Title | Description |
 | :-: | :-- |
 | `Game Name` | The name of the match. The default value is `{account name}'s game`. |
 | `Require password to join` | Make the match private. |
 | `Password` | Set a password for the match. Only appears if the `Require password to join` button is enabled. |
+| `Make match history publicly viewable` | Allow players other than match participants to view the match history via direct link. Only appears if the `Require password to join` button is enabled. |
 | `Max Players` | The total number of players (including the host) allowed to join the match. A range from 2 to 16 can be selected, with a default of 8. This can be adjusted later by locking/unlocking player slots. |
 
 Pressing the `1. Start Game` button will create the match with the currently playing song as the beatmap. The `2. Cancel` button brings the player back to the lobby.
@@ -115,7 +116,7 @@ A player can have four different colours in this list, which also mean different
 | Colour | Description |
 | :-: | :-- |
 | **Red (no map)** | The player does not have the beatmap, indicated by a `[no map]` notice until they have downloaded the beatmap. |
-| **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Game_modifier) can be changed in this state. |
+| **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Gameplay/Game_modifier) can be changed in this state. |
 | **Green (ready)** | The player is ready. Game modifiers cannot be changed in this state. The host will be able to start the game after readying, and any ready players will begin the match. |
 | **Light Blue (playing)** | The player is playing, indicated by a `[playing]` notice until the match ends. |
 
@@ -139,7 +140,7 @@ The `Game Name` is the name of the lobby that is visible in match listings in-ga
 
 The beatmap section shows the beatmap to be played in the match. Changing the beatmap using the button above it opens the song selection screen.
 
-The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmapping/Star_rating) for the selected beatmap.
+The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmap/Star_rating) for the selected beatmap.
 
 ::: Infobox
 ![](img/multi-beatmap-info.jpg "Hovering over the beatmap card")
@@ -172,11 +173,11 @@ If the player does not have the beatmap, one of these statuses will be shown:
 ![](img/multi-player-free-mods.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
 :::
 
-This section will show the [game mods](/wiki/Game_modifier) used for this match.
+This section will show the [game mods](/wiki/Gameplay/Game_modifier) used for this match.
 
-The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
+The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
-#### Team mode {#team-mode-match-setup}
+#### Team mode {id=team-mode-match-setup}
 
 *For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
 
@@ -210,7 +211,9 @@ There are four different ways the winner of a match can be decided:
 
 ### Match setup buttons
 
-There are two large wide orange and blue buttons above the [chat console](/wiki/Client/Interface/Chat_console). The orange `Leave Match` button on the left is self-explanatory.
+There are two large wide orange and blue buttons above the [chat console](/wiki/Client/Interface/Chat_console).
+
+The orange `Leave Match` button on the left is self-explanatory. If the match host leave the match, the host will be automatically transferred to the remaining player in slot order. If there is no one in the match, it will automatically close, except for ones made by [`!mp` commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands), which will instead close after 30 minutes.
 
 The blue button is used to control the player ready state and to start the match.
 
@@ -245,9 +248,9 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 #### Health
 
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect).
+When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
-In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score.
+In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
 #### Results
 
@@ -271,6 +274,8 @@ For `Head-to-head` and `Team VS` matches:
 
 For `Tag co-op` and `Tag-team VS`:
 
+| Win condition | Statistics displayed |
+| :-- | :-- |
 | `Score` / `Score v2` | Team score, individual score, judgements |
 | `Accuracy` | Team average accuracy, individual score, judgements |
 | `Combo` | Current combo count, individual score, judgements |
@@ -292,7 +297,7 @@ The colour of each player on the leaderboard while playing indicates the status 
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
 
-### Team mode {#team-mode-gameplay}
+### Team mode {id=team-mode-gameplay}
 
 #### Head-to-head
 
@@ -330,7 +335,7 @@ Blue is on the left and Red is on the right. A crown at the centre moves left an
 
 Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
 
-##### Results {#team-vs-results-screen}
+##### Results {id=team-vs-results-screen}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Team VS results screen")
@@ -368,7 +373,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
+Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole match to end if they fail due to it, even in Tag-team VS. If [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) is used, players can still get two extra lives. However, in Tag-team VS, when a team's health drops to zero, even though the [health bar](/wiki/Client/Interface/Health_bar) will be refilled, the match will judge them as *failed* and end immediately.
 
 ##### Results
 
@@ -384,7 +389,7 @@ No ranked score or performance points are awarded for `Tag co-op` or `Tag-team V
 
 For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen).
+The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), except that individual results can be seen under different tabs for each team.
 
 ## Trivia
 

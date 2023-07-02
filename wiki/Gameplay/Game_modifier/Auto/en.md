@@ -14,8 +14,8 @@ tags:
 
 ![AT mod icon](/wiki/shared/mods/AT.png "Auto (AT) mod icon")
 
-*For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*\
-*Not to be confused with [Autopilot (mod)](/wiki/Game_modifier/Autopilot).*
+*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
+*Not to be confused with [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## About
 
@@ -30,7 +30,7 @@ tags:
 
 *Notice: Enabling the Auto mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Auto** mod is a [game modifier](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
+The **Auto** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
 
 The mod functions exactly like a [replay](/wiki/Gameplay/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 
@@ -48,7 +48,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the Auto mod will actually go beyond 
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss densely-stacked notes (e.g., multiple key presses close together on a hold bar).
+In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss objects in the same column that are overlapping or placed within 1 ms of each other.
 
 ## Trivia
 

@@ -15,7 +15,7 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 
-**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Community/Internet_Relay_Chat) （互联网中继聊天）服务器。
+**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Community/Internet_Relay_Chat) （互联网中继聊天）服务器。
 
 BanchoBot 拥有自己的 [osu! 个人资料](https://osu.ppy.sh/users/3)和一个[推特账号](https://twitter.com/banchoboat)。
 
@@ -136,7 +136,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 !report <用户名> <原因（最好用英文）>
 ```
 
-`!report` 会通知 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
+`!report` 会通知 [Global Moderation Team](/wiki/People/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
 
 ```
 13:10 pippi: !report flyte spamming in #chinese

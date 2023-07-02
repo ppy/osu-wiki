@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # 2009
 
 ## Januari

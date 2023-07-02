@@ -40,7 +40,7 @@ También puedes cerrar y volver a abrir osu! o actualizar osu! para recargar la 
 
 ### ¿Qué son los Sets de skinning?
 
-*Pagina principal: [Criterios de clasificación/Lista de Sets de Skinning](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Pagina principal: [Criterios de clasificación/Lista de Sets de Skinning](/wiki/Ranking_criteria/Skin_set_list)*
 
 En osu!, hay alrededor de 200 elementos personalizables (sin incluir los fotogramas animados de manera individual). Sin embargo, no estas obligado a editar todos ellos. A su vez, podrías simplemente removerlos ya que osu! utilizara las imágenes predeterminadas para los cuales no incluyas.
 
@@ -167,7 +167,7 @@ En adición de usar el formato`.png`, deberías:
 
 ### ¿Qué son los overlay?
 
-Los overlays son elementos que serán situados por encima de otro elemento (el mismo nombre del elemento, pero sin el sufijo `overlay` o `-overlay`). Estos son especiales ya que no serán coloreados ni teñidos. Sin embargo, sólo un pequeño puñado de elementos reciben un overlay (pueden encontrarse en las listas de elementos de la skin). 
+Los overlays son elementos que serán situados por encima de otro elemento (el mismo nombre del elemento, pero sin el sufijo `overlay` o `-overlay`). Estos son especiales ya que no serán coloreados ni teñidos. Sin embargo, solo un pequeño puñado de elementos reciben un overlay (pueden encontrarse en las listas de elementos de la skin).
 
 ### ¿En qué resolución de pantalla debo hacer la skin?
 
@@ -189,7 +189,7 @@ Las imágenes HD son usadas en lugar de la imagen normal en altas resoluciones c
 
 Las imágenes HD cuentan con sus tamaños duplicados. Por ejemplo, la imagen normal del `hitcircle.png` cuenta con una dimensión de 128x128 pixeles. Así que, su imagen en HD `hitcircle@2x.png`, tendrá las dimensiones de 256x256 pixeles.
 
-Cada archivo de imagen tiene una contraparte en HD, incluso todos los fotogramas en una animación cuentan con su contraparte en HD. Como resultado, el tamaño de la carpeta o del archivo aumentará debido a que cuenta con más imágenes de lo normal. 
+Cada archivo de imagen tiene una contraparte en HD, incluso todos los fotogramas en una animación cuentan con su contraparte en HD. Como resultado, el tamaño de la carpeta o del archivo aumentará debido a que cuenta con más imágenes de lo normal.
 
 Todas las imágenes HD también podrán resultar en un mayor tamaño de archivo debido al hecho que el lienzo usado es cuatro veces más grande comparado al normal. Hay esencialmente dos modos de resolución que osu! utiliza. Cada uno de ellos prefiere un conjunto de imágenes. El primer modo es *LowResolution* mientras que el segundo es *HighResolution*.
 

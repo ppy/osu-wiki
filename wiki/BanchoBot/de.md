@@ -14,7 +14,7 @@ tags:
 
 ![BanchoBots Benutzerkarte](img/BanchoBot.jpg "BanchoBots Benutzerkarte")
 
-**BanchoBot** (manchmal auch *Bancho* genannt) ist ein Online-Chat-Bot, der für osu! entwickelt wurde und den Spielern im Chat hilft, indem er spielbezogene Nachrichten (z. B. Anzahl der Plays, wiederholte Versuche, usw.) ansagt und auf bestimmte Befehle reagiert. Er wurde von [Echo](https://osu.ppy.sh/users/431) programmiert und ist der Bereitsteller des [Bancho IRCs](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (manchmal auch *Bancho* genannt) ist ein Online-Chat-Bot, der für osu! entwickelt wurde und den Spielern im Chat hilft, indem er spielbezogene Nachrichten (z. B. Anzahl der Plays, wiederholte Versuche, usw.) ansagt und auf bestimmte Befehle reagiert. Er wurde von ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) programmiert und ist der Bereitsteller des [Bancho IRCs](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot hat auch sein eigenes [osu!-Profil](https://osu.ppy.sh/users/3) und [Twitter-Konto](https://twitter.com/banchoboat).
 
@@ -145,7 +145,7 @@ Es gibt insgesamt 7 Status, die mit dem Befehl `!stats` angezeigt werden können
 !report <Benutzer> <Grund>
 ```
 
-`!report` benachrichtigt das [Globale Moderationsteam](/wiki/People/The_Team/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `wirklich cooler benutzername` `wirklich_cooler_benutzername`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
+`!report` benachrichtigt das [Globale Moderationsteam](/wiki/People/Global_Moderation_Team) über das unangemessene Verhalten eines Benutzers. Wenn ein Benutzer Leerzeichen in seinem Benutzernamen hat, werden diese durch Unterstriche ersetzt (z. B. wird aus `wirklich cooler benutzername` `wirklich_cooler_benutzername`). Um einen Moderator zu melden, kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#support@ppy.sh). Ein Beispiel für die Meldung eines normalen Benutzers durch BanchoBot ist unten dargestellt:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

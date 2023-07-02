@@ -1,8 +1,8 @@
 separator: ", "
 alumni:
   roles:
-    academy: fundador de osu!academy
-    admin: administración
+    academy: fundador de la osu!academy
+    admin: administador
     chat: moderador del chat
     dev: osu!dev
     media: creador de osu!media
@@ -15,17 +15,18 @@ gmt:
     chat: moderación del chat
     forum: moderación del foro
     team: presencia oficial del equipo
-    dev: desarrollador de osu!
+    dev: desarrollo de osu!
     player: soporte al jugador
     support: soporte técnico
-    tournaments: gestor de torneos
+    tournaments: gestión de torneos
     wiki: administración de la wiki
     mapping: moderación de la comunidad de mapping/modding
+    skinning: moderación de la comunidad de skinning
+    leadership: liderazgo de equipo
 nat:
-  areas:
-    communication: comunicación
-    evaluation: evaluación
-    moderation: moderación
+  subgroups:
     structural: estructural
+    evaluation: evaluación
+    leadership: liderazgo
 languages:
   partial: algo de <language>

@@ -9,7 +9,7 @@ no_native_review: true
 
 **Zasłużeni dla społeczności**, to użytkownicy, którzy poświęcili swój czas i energię na stworzenie narzędzi i funkcjonalności, które służą teraz całej społeczności gry. Otrzymali oni odznakę, która upamiętnia ich znaczące działania na rzecz całej społeczności osu!.
 
-W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych członków zespołu, odznaka dla zasłużonych jest przyznawana ochotnikom, którzy z własnej woli przyczynili się do rozwoju gry i społeczności.
+W porównaniu do [Alumni osu!](/wiki/People/osu!_Alumni), czyli byłych członków zespołu, odznaka dla zasłużonych jest przyznawana ochotnikom, którzy z własnej woli przyczynili się do rozwoju gry i społeczności.
 
 ## 2013
 
@@ -32,7 +32,7 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Prowadzenie [paczek beatmap](https://osu.ppy.sh/beatmaps/packs) przez 3 lata, wieloletnie zarządzanie listami wyróżnionych beatmap. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Wieloletnie tworzenie skórek do beatmap oraz wkład w rozwój [tworzenia scenorysów](/wiki/Storyboard). |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Zarządzanie społecznością, moderowanie i ogromny wkład we wczesnym etapie historii gry. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Pierwszy manager społczeności i globalny moderator, ustanowienie wysokich standardów w [moderacji globalnej](/wiki/People/The_Team/Global_Moderation_Team). |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Pierwszy manager społczeności i globalny moderator, ustanowienie wysokich standardów w [moderacji globalnej](/wiki/People/Global_Moderation_Team). |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Pierwszy manager zespołu gry i nominatorów beatmap, samodzielne utworzenie zespołu nominatorów beatmap. |
 
 ## 2015

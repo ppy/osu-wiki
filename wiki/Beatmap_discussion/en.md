@@ -11,7 +11,7 @@ tags:
 
 *See also: [Modding v1](/wiki/Modding/Forum_modding)*
 
-**Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus. When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated as well. The discussion page can be reached by clicking on the `Discussion` button on the info page. The beatmap discussion page consists of a few elements (from top-to-bottom):
+**Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus. When a beatmap is [submitted](/wiki/Beatmapping/Beatmap_submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated as well. The discussion page can be reached by clicking on the `Discussion` button on the info page. The beatmap discussion page consists of a few elements (from top-to-bottom):
 
 - Mode selection
 - Beatmap header
@@ -43,7 +43,7 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
+*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmap header")
 
@@ -62,7 +62,7 @@ You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dr
 Sorting options change the way beatmap discussions are viewed. When an option is chosen, it changes both the modding timeline and the modding section to only include the selected type of post. This is especially useful for seeing pending posts on a discussion page. Different options include:
 
 - `Mine` shows your own posts
-- `Notes` shows any notes by the mapper or [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
+- `Notes` shows any notes by the mapper or [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - `Resolved` shows resolved posts
 - `Pending` shows pending posts
 - `Praises` shows praise and hype posts
@@ -87,7 +87,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 ### Hype train
 
-The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
+The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
 
 ### Nomination status
 
@@ -117,7 +117,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 `Timeline` shows posts at specific points of a difficulty according to the first timestamp placed. Every post in this tab must include a timestamp to be posted. Any timestamps later on will have no influence on post order.
 
-`History` logs all changes to a discussion page in chronological order. Changes are colour-coded with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
+`History` logs all changes to a discussion page in chronological order. Changes are colour-coded with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and other staff to check issues.
 
 ## Submission field
 
@@ -125,7 +125,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 The submission field is where [mods](/wiki/Modding) are written. Once written, the mod must be submitted to the discussion page. This can be done by pressing one of the three type buttons; `Praise`, `Suggestion` or `Problem`.
 
-`Praise` is used for praise and encouragement. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_Criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
+`Praise` is used for praise and encouragement. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
 
 If you post in the `Timeline` tab, you must include a timestamp in your post. If your timestamp is close to another mod, you will have to confirm that it doesn't address the issue you are currently submitting. **Check each post before checking the box!** It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the submission field to scroll with you.
 
@@ -143,7 +143,7 @@ Discussions can be sorted through with the buttons below the `Discussions` title
 
 ### Thumbs up/down
 
-If a modpost was helpful [Kudosu!](/wiki/Modding/Kudosu) can be given. This can be done by anyone except the post creator by giving the post a thumbs up. This is useful for modders as Kudosu! is needed for entry into the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). If this feature is abused, [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), and [GMT](/wiki/People/The_Team/Global_Moderation_Team) members can give a thumbs down to deny any Kudosu! given. If the abuse is done maliciously a penalty can also be given to abusers.
+If a modpost was helpful [Kudosu!](/wiki/Modding/Kudosu) can be given. This can be done by anyone except the post creator by giving the post a thumbs up. This is useful for modders as Kudosu! is needed for entry into the [Beatmap Nominators](/wiki/People/Beatmap_Nominators). If this feature is abused, [BN](/wiki/People/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/People/Global_Moderation_Team) members can give a thumbs down to deny any Kudosu! given. If the abuse is done maliciously a penalty can also be given to abusers.
 
 ### Discussion timeline
 
@@ -151,7 +151,7 @@ The timeline to the left of a discussion shows the timestamp the post addresses.
 
 ### Tags
 
-Tags display [important roles](/wiki/People/The_Team) below a users name. Only roles relevant for the beatmap discussion are shown. These include `MAPPER`, `BN`, `NAT`, `GMT`, and `DEV` members who have more options than a regular user looking at a discussion page.
+Tags display [important roles](/wiki/People/osu!_team) below a users name. Only roles relevant for the beatmap discussion are shown. These include `MAPPER`, `BN`, `NAT`, `GMT`, and `DEV` members who have more options than a regular user looking at a discussion page.
 
 ### Formatting tools
 

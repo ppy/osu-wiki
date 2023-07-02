@@ -22,7 +22,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | :-- | :-- |
 | `Alt` + `F4` | 关闭游戏客户端（无提示），如果在游玩或编辑谱面时会返回歌曲选择界面，osu!direct 时会返回主菜单。 |
 | `Alt` + `↑/↓` | 增大/减小音量，使用左/右键可在整体，音乐，音效之间切换。 |
-| `Ctrl` + `Alt` + `Shift` + `S` | 重新加载当前皮肤，如果在游玩铺面或结算界面时按下，则会在返回选歌界面后重载。 |
+| `Ctrl` + `Alt` + `Shift` + `S` | 重新加载当前皮肤，如果在游玩谱面或结算界面时按下，则会在返回选歌界面后重载。 |
 | `Ctrl` + `F11` | 打开/关闭帧数时间图。按住 `Ctrl` 可以暂停时间图。 |
 | `F7` | 切换帧数限制模式。 |
 | `F8` | 显示/隐藏聊天栏。 |
@@ -68,7 +68,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `F1` | 打开 [游戏模组](/wiki/Game_modifier) 菜单。 |
+| `F1` | 打开 [游戏模组](/wiki/Gameplay/Game_modifier) 菜单。 |
 | `F2` | 随机谱面。 |
 | `Shift` + `F2` | 返回随机前的谱面。 |
 | `F3` | 打开谱面选项。 |
@@ -78,8 +78,8 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/Game_mode/osu!taiko)。 |
 | `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/Game_mode/osu!catch)。 |
 | `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania)。 |
-| `Ctrl` + `Enter` | 使用 [Auto 模组](/wiki/Game_modifier/Auto) 自动播放当前谱面。 |
-| `Ctrl` + `Shift` + `Enter` | 使用 [Cinema 模组](/wiki/Game_modifier/Cinema) 播放当前谱面. |
+| `Ctrl` + `Enter` | 使用 [Auto 模组](/wiki/Gameplay/Game_modifier/Auto) 自动播放当前谱面。 |
+| `Ctrl` + `Shift` + `Enter` | 使用 [Cinema 模组](/wiki/Gameplay/Game_modifier/Cinema) 播放当前谱面. |
 | `Ctrl` + `A` | 打开/关闭 Auto 模组。 |
 | `Ctrl` + `F3` 或者 `Ctrl` + `+` | 提高 osu!mania 下落速度（仅适用于 osu!mania）. |
 | `Ctrl` + `F4` 或者 `Ctrl` + `-` | 降低 osu!mania 下落速度（仅适用于 osu!mania）. |
@@ -93,7 +93,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 ### 游戏模组
 
-*主页面：[游戏模组](/wiki/Game_modifier)*\
+*主页面：[游戏模组](/wiki/Gameplay/Game_modifier)*\
 *注：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*\
 *注：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
@@ -173,7 +173,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `F1` | 切换到 [作曲](/wiki/Client/Beatmap_editor/Compose) 界面。 |
 | `F2` | 切换到 [设计](/wiki/Client/Beatmap_editor/Design) 界面。 |
 | `F3` | 切换到 [Timing](/wiki/Client/Beatmap_editor/Timing) 界面。 |
-| `F4` | 打开 [歌曲设置](/wiki/Client/Beatmap_editor/Song_Setup) 对话框。 |
+| `F4` | 打开 [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup) 对话框。 |
 | `F5` | 进入测试模式。 |
 | `F6` | 打开 Timing 点控制对话框。 |
 | `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框。 |
@@ -266,7 +266,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `Shift` + (`1`，`2`，`3`，`4`，`6`，`7`，`8` 或 `9`) | 将[节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)在 1/1，1/2，1/3，1/4，1/6，1/7，1/8 或 1/9 之间来回切换。 |
+| `Shift` + (`1`，`2`，`3`，`4`，`6`，`7`，`8` 或 `9`) | 将[节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor)在 1/1，1/2，1/3，1/4，1/6，1/7，1/8 或 1/9 之间来回切换。 |
 | `Shift`（拖动时间轴时） | 忽略节拍细分。 |
 | `J` | 将选择的物件向前移动一拍。 |
 | `K` | 将选择的物件向后移动一拍。 |
@@ -282,7 +282,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Ctrl` + `C` | 复制所选素材。 |
 | `Ctrl` + `V` | 在当前位置粘贴所选素材。 *注：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材。 |
-| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/osupixel) 的标准微调所选素材。 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) 的标准微调所选素材。 |
 
 ### Timing
 

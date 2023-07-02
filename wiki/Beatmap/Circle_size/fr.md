@@ -6,9 +6,9 @@ tags:
 
 # Circle size
 
-*Pour les règlements concernant le circle size, voir : [Ranking criteria](/wiki/Ranking_Criteria)*
+*Pour les règlements concernant le circle size, voir : [Ranking criteria](/wiki/Ranking_criteria)*
 
-Le **circle size** (***CS***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui affecte la taille des [objets](/wiki/Hit_object). Les valeurs du circle size vont de 0 à 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor). D'autres valeurs peuvent être utilisées en modifiant manuellement le fichier [`.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) d'une beatmap.
+Le **circle size** (***CS***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui affecte la taille des [objets](/wiki/Gameplay/Hit_object). Les valeurs du circle size vont de 0 à 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor). D'autres valeurs peuvent être utilisées en modifiant manuellement le fichier [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) d'une beatmap.
 
 ## osu!
 
@@ -16,7 +16,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), le circle size modifie la taille des 
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Où `r` est le rayon mesuré en [osu!pixels](/wiki/osu!pixel), et `CS` est la valeur du circle size.
+Où `r` est le rayon mesuré en [osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel), et `CS` est la valeur du circle size.
 
 ## osu!taiko
 
@@ -34,5 +34,5 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le circle size fait référ
 
 Il existe deux mods qui modifient le circle size lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur du CS.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur du CS par 1,3, avec un maximum de 10.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Réduit de moitié la valeur du CS.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplie la valeur du CS par 1,3, avec un maximum de 10.

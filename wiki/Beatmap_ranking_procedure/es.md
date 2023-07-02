@@ -1,8 +1,20 @@
 ---
 no_native_review: true
+tags:
+  - qualification
+  - nomination
+  - nominations
+  - nom
+  - ranking
+  - ranked
+  - calificación
+  - nominación
+  - nominaciones
+  - clasificación
+  - clasificado
 ---
 
-# Procedimiento de clasificación de beatmap
+# Procedimiento de clasificación de beatmaps
 
 *Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank)*
 
@@ -18,11 +30,15 @@ Los nuevos creadores de beatmaps suelen necesitar una gran cantidad de modding p
 
 Antes de enviarse para la clasificación, los beatmaps deben recibir mensajes de [hype](/wiki/Beatmap/Hype) de al menos cinco usuarios diferentes.
 
-## Nominaciones
+## Nominaciones {id=nominations}
 
-Los miembros del grupo [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) son modders experimentados que pueden generar beatmaps clasificables. Su función es garantizar que un beatmap cumpla con los [Criterios de clasificación](/wiki/Ranking_Criteria), así como con sus propios criterios de calidad.
+::: Infobox
+![](img/nomination-progress-beatmapset1857663.png "El estado de clasificación del beatmap se muestra en la página de discusión, con las barras de progreso de promoción y nominación parcialmente llenas.")
+:::
 
-Los miembros del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) también pueden nominar beatmaps, pero esta no es su función principal.
+Una **nominación** es un voto de aprobación, lo que indica que un beatmap está listo para [clasificarse](/wiki/Beatmap/Category#clasificados). Se otorga a los beatmaps completos de calidad suficiente, a juicio del usuario nominador. Como requisito mínimo, estos beatmaps deben seguir los [criterios de clasificación](/wiki/Ranking_criteria) y tener 5 o más [hypes](/wiki/Beatmap/Hype).
+
+Las nominaciones las dan [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), un grupo de modders experimentados. Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) también pueden nominar beatmaps, pero esta no es su función principal.
 
 Se recomienda recibir mods antes de solicitar las nominaciones de BN, pero el único requisito es cinco promociones.
 
@@ -36,12 +52,12 @@ Esta categoría de beatmaps existe para dar a los beatmaps una mayor exposición
 
 Los restablecimientos de nominaciones aseguran que los modders, BN y miembros de NAT verifiquen la versión más reciente de un beatmap antes de que ingrese a la cola de clasificación.
 
-Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de BN o NAT encuentra un problema en un beatmap nominado. Los miembros del [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) también pueden restablecerlos cuando el motivo incluya contenido inapropiado. Si se califica un beatmap cuando se restablecen sus nominaciones, será descalificado y eliminado de la cola de clasificación.
+Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de BN o NAT encuentra un problema en un beatmap nominado. Los miembros del [Equipo de Moderación Global](/wiki/People/Global_Moderation_Team) también pueden restablecerlos cuando el motivo incluya contenido inapropiado. Si se califica un beatmap cuando se restablecen sus nominaciones, será descalificado y eliminado de la cola de clasificación.
 
-Los miembros de BN y NAT a veces [vetan](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmaps que creen que presentan problemas de calidad que no están relacionados con los criterios de clasificación.
+Los miembros de BN y NAT a veces [vetan](/wiki/People/Beatmap_Nominators/Beatmap_Veto) beatmaps que creen que presentan problemas de calidad que no están relacionados con los criterios de clasificación.
 
 ## Clasificados
 
-Los beatmaps que pasaron la etapa de calificación, han completado el proceso de clasificación. Tienen tablas de clasificación de puntuación y recompensan a los jugadores con puntos de rendimiento.
+Los beatmaps que pasaron la etapa de calificación, han completado el proceso de clasificación. Tienen [tablas de clasificación de puntuación](/wiki/Ranking) y recompensan a los jugadores con puntos de rendimiento.
 
 Los beatmaps clasificados solo se desclasifican en circunstancias excepcionales, cuando se descubren problemas poco después de haber alcanzado el estado Clasificado.

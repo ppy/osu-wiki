@@ -6,7 +6,7 @@ no_native_review: true
 
 # Utytułowani użytkownicy
 
-Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/The_Team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
+Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/osu!_team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
 
 ## Według kategorii
 
@@ -94,7 +94,7 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 
 ### Elitarni nominatorzy
 
-Od 2020 roku wkład [nominatorów beatmap](/wiki/People/The_Team/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
+Od 2020 roku wkład [nominatorów beatmap](/wiki/People/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
 
 - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
 - ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)
@@ -126,7 +126,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 
 ### Wyróżnieni artyści
 
-[Wyróżnieni artyści](/wiki/Featured_Artists) z kontami w osu! otrzymują tytuł **Featured Artist** za swój wkład w grę.
+[Wyróżnieni artyści](/wiki/People/Featured_Artists) z kontami w osu! otrzymują tytuł **Featured Artist** za swój wkład w grę.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) i ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) mają tytuł **osu!musician** za swój wcześniejszy wkład w oprawę muzyczną osu! i oficjalne motywy gry. Użytkownik ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) zdecydował po zostaniu wyróżnionym artystą o zatrzymaniu tytułu **osu!mixer**.
 
@@ -193,7 +193,9 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | Użytkownik | Tytuł | Osiągnięcie |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Uzyskanie pierwszego Full Combo bez modyfikatorów rozgrywki na beatmapie [Shotgun Symphony+ \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 15 marca 2023) |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Uzyskanie Full Combo na wszystkich rankingowych beatmapach w trybie osu!taiko (według stanu z 3 listopada 2019) |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 11 sierpnia 2021) |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Nieznane* |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 27 kwietnia 2019) |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Zwycięzca wyzwania [„The Hunt for the Girl in the Forest”](https://osu.ppy.sh/community/forums/topics/662279) |

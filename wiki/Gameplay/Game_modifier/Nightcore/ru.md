@@ -16,8 +16,8 @@ tags:
 ![Значок мода NC](/wiki/shared/mods/NC.png "Значок мода Nightcore (NC)")
 
 *Не стоит путать с [Nightcore (жанр музыки)](https://en.wikipedia.org/wiki/Nightcore).*\
-*См. также: [NC (значения)](/wiki/Disambiguation/NC), [Double Time (мод)](/wiki/Game_modifier/Double_Time)*\
-*Полный список модов: см. [Игровой модификатор](/wiki/Game_modifier)*
+*См. также: [NC (значения)](/wiki/Disambiguation/NC), [Double Time (мод)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
 
@@ -31,13 +31,13 @@ tags:
 - Горячая клавиша по умолчанию: `D` `D` или `Shift`+`D`
 - Описание: `ТЫЦ ТЫЦ ТЫЦ ТЫЦ`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Разновидности: [Double Time](/wiki/Game_modifier/Double_Time)
+- Разновидности: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
 
 ## Описание
 
-**Nightcore** — [игровой модификатор](/wiki/Game_modifier), действующий на карту так же, как и его разновидность, Double Time. Особенность заключается в том, что Nightcore повышает тональность песни и добавляет к ней повторяющуюся аудиодорожку с размером такта 4/4, где на первом и третьем ударе звучит бас-барабан, на втором и четвёртом — хлопки, а каждые четыре такта — тарелка крэш.
+**Nightcore** — [игровой модификатор](/wiki/Gameplay/Game_modifier), действующий на карту так же, как и его разновидность, Double Time. Особенность заключается в том, что Nightcore повышает тональность песни и добавляет к ней повторяющуюся аудиодорожку с размером такта 4/4, где на первом и третьем ударе звучит бас-барабан, на втором и четвёртом — хлопки, а каждые четыре такта — тарелка крэш.
 
-[Множитель очков](/wiki/Game_modifier/Score_multiplier), как и остальные аспекты карты, меняются так же, как при включении Double Time.
+[Множитель очков](/wiki/Gameplay/Game_modifier/Mod_multiplier), как и остальные аспекты карты, меняются так же, как при включении Double Time.
 
 Nightcore работает одинаково во всех режимах игры.
 

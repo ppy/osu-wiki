@@ -4,13 +4,17 @@ tags:
   - supporter
   - supporter tag
   - osu!supporter tag
+  - 支持
+  - 支持者
   - 支持者标签
   - 撒泼特
 ---
 
+<!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
+
 # osu! 支持者
 
-**osu! 支持者**（osu!supporter，也被称为 ***支持者标签***，玩家相传为 ***撒泼特***）是一个授予通过志愿捐款帮助 osu! 发展的玩家的时效性头衔。支持者们会在标签有效期内获得一些装扮或功能性方面的额外功能。但无论现在还是将来，osu! 支持者标签的额外功能不会给游戏内容、玩家水平或计分系统带来任何的优势。
+**osu! 支持者**（osu!supporter，也被称为 ***支持者标签***，玩家相传为 ***撒泼特***）是授予自愿捐款支持 osu! 发展玩家的临时头衔。支持者会在标签有效期内获得一些装扮或功能性方面的额外功能。但无论现在还是将来，osu! 支持者标签的额外功能不会给游戏内容、玩家水平或计分系统带来任何的优势。
 
 可以在 [osu! 支持者商店页面](https://osu.ppy.sh/store/products/supporter-tag)购买支持者标签。
 
@@ -35,7 +39,7 @@ tags:
 ### 用户名颜色
 
 ::: Infobox
-![](img/chat.png "一位 osu! 支持者正在频道中聊天")
+![](img/chat.png "在频道中聊天的 osu! 支持者")
 :::
 
 未过期的支持者们在[聊天窗口](/wiki/Client/Interface/Chat_console)中拥有高亮的黄色用户名。
@@ -46,7 +50,7 @@ tags:
 
 `个人介绍` 区块适合各种情况，比如：
 
-- 用联动横幅或个人信息图表来给你的资料加点料
+- 用联动横幅或个人信息图表来给你的资料加点内容
 - 为玩家们的生涯提供些许建议
 - 展示最爱的谱面，谱师，或者其他重要的东西
 
@@ -55,9 +59,9 @@ tags:
 支持者们可以上传封面来进一步定制他们的个人资料：
 
 - 按下个人资料封面右下角的铅笔图标。
-- 从默认封面中选择一个，或上传自己的封面（其尺寸应为 2400 x 640）。
+- 从默认封面中选择一个，或上传自己的封面（推荐尺寸 2400 x 640）。
 
-支持者标签过期后，封面会被保留，但无法提交更改。
+支持者标签过期后，会保留封面，但无法更改。
 
 ### 一次免费的改名
 
@@ -77,8 +81,8 @@ osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以
 
 支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#排行榜)：
 
-- 按 [Mod](/wiki/Gameplay/Game_modifier) 组合筛选的全球排行榜
-- 国内/区内排行榜
+- 按[模组 (Mod)](/wiki/Gameplay/Game_modifier) 组合筛选的全球排行榜
+- 国家或地区排行榜
 - 以及一个可以和朋友们竞争的好友排行榜
 
 ### 提高限额
@@ -87,7 +91,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `4 + min(Ranked 谱面, 4)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
+| [待定谱面](/wiki/Beatmap/Category#制作中和待定-(Work-in-Progress-and-Pending) | `4 + min(自己的上架谱面数量, 4)`最多 **8** 张[^pending-beatmaps-ref] | `8 + min(自己的上架谱面数量, 12)`最多 **20** 张[^pending-beatmaps-ref] |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 250 | 500 |
 
@@ -104,7 +108,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 | `welcome.wav` | 游戏启动时播放的 "welcome to osu!" 音效 |
 | `seeya.wav` | 游戏关闭时播放的 "see ya next time" 音效 |
 
-获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#main-menu) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
+获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#主菜单) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
 
 ### 额外搜索
 
@@ -115,7 +119,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 支持者们可以使用额外的[谱面搜索](https://osu.ppy.sh/beatmapsets)过滤器：
 
 - 玩过（或没玩过）的谱面
-- 按[成绩](/wiki/Gameplay/Grade)筛选谱面
+- 按[评价](/wiki/Gameplay/Grade)筛选谱面
 
 ### 在 osu! 测试版中进行多人游戏
 
@@ -147,8 +151,8 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 
 交易完成后，收发双方都会在个人资料的 `最近活动` 区块出现一个新的活动：
 
-- 如果第一次获得支持者标签：`{用户名} 成为了 osu! 支持者 - 感谢您的慷慨捐赠！`
-- 如果之前获得过支持者标签：`{用户名} 又一次支持了 osu! - 感谢您的慷慨捐赠！`
+- 如果第一次获得或被其他人赠送支持者标签：`{用户名} 支持了 osu! - 感谢您的慷慨捐赠！`
+- 如果之前获得过或被其他人赠送过支持者标签：`{用户名} 又一次支持了 osu! - 感谢您的慷慨捐赠！`
 - 如果被赠送了支持者标签：`{用户名} 收到了匿名玩家赠送的 osu! 支持者标签！`
 
 此外，收发双方都会收到一封关于购买标签的电子邮件。

@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # History of osu! 2009
 
 ## January

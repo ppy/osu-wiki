@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Fehlerbehebung bei Leistungsproblemen in osu!
 
 osu! gibt sein Bestes, mit vernünftigen Standardeinstellungen zu laufen und warnt dich proaktiv, wenn du etwas tust/ausführst, das die Leistung deines Spiels verringern würde.
@@ -10,6 +14,7 @@ Aufgrund des Umfangs der Hardware, auf der osu! läuft, ist es leider sehr schwe
 - Ist das FPS-Limit auf `Unbegrenzt` gesetzt? Stelle es auf `Optimal` und siehe, ob das etwas hilft. Siehe [die untere Sektion](#unbegrenzt) für mehr Informationen darüber, warum `Unbegrenzt` normalerweise nicht die beste Wahl ist.
 - Läuft das Spiel im Fenster-Modus? Schalte um auf den Vollbildmodus.
 - Hast du deine Treiber aktualisiert (insbesondere die der GPU)? Versuche, das zu tun und schaue, ob sich die Dinge verbessern. Alternativ kannst du auch die Treiber zurücksetzen, wenn du sie vor kurzem aktualisiert hast.
+- Benutzt dein PC NVIDIA Optimus oder eine ähnliche hybride Grafiktechnologie? Wenn dem so ist, versuche, das Spiel auf jeder Grafikkarte laufen zu lassen, um die Leistung zu vergleichen. Es ist recht häufig, dass die integrierte Grafikkarte eine gleichmäßigere Leistung für Spiele wie osu! liefert. Suche nach "Grafikeinstellungen" in Windows und setze osu! zum Experimentieren entweder auf "Energiesparmodus" oder auf "Hohe Leistung".
 
 ## Die Arten von "Lag"
 

@@ -67,7 +67,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `F1` | Membuka menu pemilihan [mod](/wiki/Game_modifier). |
+| `F1` | Membuka menu pemilihan [mod](/wiki/Gameplay/Game_modifier). |
 | `F2` | Memilih beatmap secara acak. |
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
 | `F3` | Membuka jendela pengaturan beatmap. |
@@ -77,8 +77,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Ctrl` + `2` | Mengubah mode permainan ke [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Mengubah mode permainan ke [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Mengubah mode permainan ke [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
 | `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
 | `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
@@ -92,7 +92,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 ## Game modifier
 
-*Laman utama: [Game modifier](/wiki/Game_modifier)*\
+*Laman utama: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
 *Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
 
@@ -172,7 +172,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F1` | Beralih ke tab [Compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Memainkan beatmap pada mode uji (*test mode*). |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
@@ -265,7 +265,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
 | `Shift` (pada saat menyeret suatu objek pada *timeline*) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
 | `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
 | `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
@@ -281,7 +281,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `C` | Menyalin elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel baru akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
 | `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari *layer* yang aktif. |
-| `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Tab Timing
 

@@ -6,9 +6,9 @@ tags:
 
 # Changelog
 
-Le **[changelog](https://osu.ppy.sh/home/changelog)** est une page où l'équipe de développement d'[osu!](/wiki/People/The_Team/Developers) détaille au jour le jour les améliorations, les ajouts et les corrections de bugs apportés au jeu. Toutes les modifications apportées aux versions précédentes sont enregistrées ici à des fins d'archivage.
+Le **[changelog](https://osu.ppy.sh/home/changelog)** est une page où l'équipe de développement d'[osu!](/wiki/People/Developers) détaille au jour le jour les améliorations, les ajouts et les corrections de bugs apportés au jeu. Toutes les modifications apportées aux versions précédentes sont enregistrées ici à des fins d'archivage.
 
-Les changelog pour le site web et osu!(lazer) sont générés automatiquement sur la base des versions GitHub de ces projets, tandis que le reste est maintenu manuellement.
+Les changelog pour le site web et [osu!(lazer)](/wiki/Client/Release_stream/Lazer) sont générés automatiquement sur la base des versions GitHub de ces projets, tandis que le reste est maintenu manuellement.
 
 ## Histoire
 

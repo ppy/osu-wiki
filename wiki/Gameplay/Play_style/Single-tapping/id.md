@@ -13,7 +13,7 @@ tags:
 
 **Single-tapping** adalah gaya tapping pada mode permainan [osu!](/wiki/Game_mode/osu!) yaitu pemain menekan circle, menggeser slider, dan memutar spinner dengan hanya menggunakan satu tombol di keyboard mereka (secara default adalah tombol `Z` atau `X`). Gaya ini paling umum digunakan oleh para pemain dari semua tingkat kesulitan dan yang paling mudah untuk diadaptasi.
 
-Meski namanya *single-tapping*, sebagian besar pemain *single-tap* tidak selalu menekan hanya dengan satu tombol saja. Sebagian besar pemain lebih suka menekan semua secara single-tap kecuali [*stream*](/wiki/Beatmap/Pattern/Stream), [*stack*](/wiki/Mapping_techniques/Stack), dan *burst* yang cepat. Dalam hal ini, pemain akan sering memilih untuk melakukan [*alternate*](/wiki/Play_style/Alternating) dan/atau [*double tap*](/wiki/Play_style/Double_tapping).
+Meski namanya *single-tapping*, sebagian besar pemain *single-tap* tidak selalu menekan hanya dengan satu tombol saja. Sebagian besar pemain lebih suka menekan semua secara single-tap kecuali [*stream*](/wiki/Beatmap/Pattern/osu!/Stream), [*stack*](/wiki/Beatmapping/Mapping_techniques/Stack), dan *burst* yang cepat. Dalam hal ini, pemain akan sering memilih untuk melakukan [*alternate*](/wiki/Gameplay/Play_style/Alternating) dan/atau [*double tap*](/wiki/Gameplay/Play_style/Double_tapping).
 
 ## Argumen
 

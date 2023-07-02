@@ -12,7 +12,7 @@ Links:
 
 ## February
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first lazer build of osu! was released!
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first [lazer](/wiki/Client/Release_stream/Lazer) build of osu! was released!
 
 Links:
 
@@ -57,7 +57,7 @@ Links:
 
 ## June
 
-The osu! team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Client/Options). Somewhere around this month, inside the osu!dev Discord, the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
+The osu! team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Client/Options). Somewhere around this month, inside the [osu! Discord server](/wiki/Community/osu!_Discord_server), the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
 
 Links:
 
@@ -113,7 +113,7 @@ Links:
 
 ## November
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) was announced to be another Featured Artist. peppy opened a forum thread to centralise his thoughts on touchscreens; along with some answers to frequently proposed solutions. The `#osu-performance` channel in the osu!dev Discord server was opened to allow open discussion. The Winter 2017 Fanart Contest was opened.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) was announced to be another Featured Artist. peppy opened a forum thread to centralise his thoughts on touchscreens; along with some answers to frequently proposed solutions. The `#osu-performance` channel in the [osu! Discord server](/wiki/Community/osu!_Discord_server) was opened to allow open discussion. The Winter 2017 Fanart Contest was opened.
 
 Links:
 
@@ -123,7 +123,7 @@ Links:
 
 ## December
 
-The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the lazer version of osu!.
+The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!.
 
 Links:
 

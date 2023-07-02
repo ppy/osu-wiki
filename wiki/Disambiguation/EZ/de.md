@@ -2,7 +2,7 @@
 
 **EZ** kann Folgendes bedeuten:
 
-- Die [Spielmodifikation](/wiki/Game_modifier/Easy).
+- Die [Spielmodifikation](/wiki/Gameplay/Game_modifier/Easy).
 - Die Schwierigkeit einer Beatmap:
   - ![](/wiki/shared/diff/easy-m.png?20211215) EZ in osu!mania.
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy in osu!.

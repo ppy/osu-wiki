@@ -4,7 +4,7 @@ Dans ce guide, vous apprendrez à utiliser des [hitsounds](/wiki/Beatmapping/Hit
 
 ## Obtenir des hitsounds personnalisés
 
-Afin d'utiliser des hitsounds personnalisés dans votre beatmap, vous devez d'abord en avoir ! La [bibliothèque de sons personnalisés](/wiki/Guides/Custom_Hitsound_Library) est une excellente ressource pour obtenir des échantillons de sons, notamment des cymbales, des tambours, des cloches, des sifflets, etc. Sinon, si vous ne trouvez pas ce que vous cherchez, vous pouvez créer vos propres échantillons !
+Afin d'utiliser des hitsounds personnalisés dans votre beatmap, vous devez d'abord en avoir ! La [bibliothèque de sons personnalisés](/wiki/Guides/Custom_hitsound_library) est une excellente ressource pour obtenir des échantillons de sons, notamment des cymbales, des tambours, des cloches, des sifflets, etc. Sinon, si vous ne trouvez pas ce que vous cherchez, vous pouvez créer vos propres échantillons !
 
 Les hitsounds doivent être au format `.wav` ou `.ogg`, car ils n'ont pas de retard de lecture et bouclent correctement. Les fichiers sonores au format `.mp3` ont de légers retards et peuvent ne pas correspondre exactement à la musique que vous essayez de faire résonner. Cependant, ils peuvent encore être utilisés pour certains effets sonores tels que des applaudissements ou des bruits d'ambiance, pour lesquels la taille des fichiers `.wav` ou `.ogg` peut être prohibitive.
 
@@ -39,7 +39,7 @@ Où `<sampleset>` est soit "normal", "soft" ou "drum", et `<sound>` est un des a
 
 ![](img/beatmap-folder-resources.png "Un dossier typique d'une beatmap contenant des hitsounds personnalisés")
 
-Dans l'image ci-dessus, le premier son listé est nommé `soft-hitclap.wav`, et remplacera le hitsound par défaut qui joue lorsqu'un [objet](/wiki/Hit_object) avec le jeu d'échantillon Soft et l'ajout "hitclap" est frappée avec succès. Notez que cela ne sera joué que sur le *jeu d'échantillon sélectionné*. Si votre beatmap utilise d'autres jeu d'échantillons, ils nécessiteront des fichiers hitsound supplémentaires (même si vous avez l'intention d'utiliser exactement le même échantillon sonore), par exemple en ajoutant un `normal-hitclap.wav` tout en utilisant le jeu d'échantillon Normal.
+Dans l'image ci-dessus, le premier son listé est nommé `soft-hitclap.wav`, et remplacera le hitsound par défaut qui joue lorsqu'un [objet](/wiki/Gameplay/Hit_object) avec le jeu d'échantillon Soft et l'ajout "hitclap" est frappée avec succès. Notez que cela ne sera joué que sur le *jeu d'échantillon sélectionné*. Si votre beatmap utilise d'autres jeu d'échantillons, ils nécessiteront des fichiers hitsound supplémentaires (même si vous avez l'intention d'utiliser exactement le même échantillon sonore), par exemple en ajoutant un `normal-hitclap.wav` tout en utilisant le jeu d'échantillon Normal.
 
 ## Appliquer des hitsounds
 

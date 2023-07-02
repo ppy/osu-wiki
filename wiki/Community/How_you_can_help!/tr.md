@@ -45,7 +45,7 @@ osu!, [beatmaplerin](/wiki/Beatmap) dereceli olmaya ve herkes tarafından oynanm
 
 - [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara ve/veya katkıda bulunmak istediklerinize göz atın.
 - [*Beklemede* ya da *Yapım aşamasında*](/wiki/Beatmap/Category#yapım-aşamasında-ve-beklemede) bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
-- Teknik modlamanın temel prensiplerini ve nelerin beatmapleri dereceli yaptığını öğrenmek için [Modlama Rehberini](/wiki/Modding) ve [Derecelendirme Kriterlerini](/wiki/Ranking_Criteria) okuyun.
+- Teknik modlamanın temel prensiplerini ve nelerin beatmapleri dereceli yaptığını öğrenmek için [Modlama Rehberini](/wiki/Modding) ve [Derecelendirme Kriterlerini](/wiki/Ranking_criteria) okuyun.
 - Oyun-içi sohbette bulunan `#mapping` ve `#modreqs` kanallarına katılın ve ister muhabbete dahil olun isterseniz de sadece konuşmaları takip edin.
 - Eğer vaktiniz ve gayretiniz varsa, beatmap yaratıcılarının sizden mod istemesi için bir [Modlama Sırası](https://osu.ppy.sh/community/forums/60) oluşturun.
 
@@ -63,7 +63,7 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 ## osu!'nun geleceğine katkıda bulunun
 
-2017 yılında başlayan osu!(lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
+2017 yılında başlayan [osu!(lazer)](/wiki/Client/Release_stream/Lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
 
 - [osu!(lazer)](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
 - [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.

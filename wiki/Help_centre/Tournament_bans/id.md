@@ -1,3 +1,8 @@
+---
+outdated_since: 23ff06b9061d913c0419e154b759c85b176dfece
+outdated_translation: true
+---
+
 # Larangan turnamen
 
 *Laman utama: [Pusat bantuan](/wiki/Help_centre)*
@@ -8,15 +13,15 @@ Larangan turnamen seringkali tidak dijatuhkan sebagai suatu hukuman yang terpisa
 
 Berhubung turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen yang dijatuhkan akan ditegakkan secara tegas tanpa dapat dinegosiasikan lebih lanjut.
 
-## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara sementara? {#why-temporary}
+## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara sementara? {id=why-temporary}
 
 Kami menjatuhkan larangan turnamen kepada para pemain yang terbukti melakukan pelanggaran berat terhadap [peraturan komunitas](/wiki/Rules) yang berlaku dalam ruang lingkup [turnamen yang didukung secara resmi](/wiki/Tournaments/Official_support) secara umum, bahkan apabila pelanggaran tersebut tidak memengaruhi hasil turnamen yang ada sekalipun.
 
 Sebagai contoh, kami tidak membenarkan tindakan para pemain yang menulis atau menggambar simbol/ujaran kebencian (seperti logo swastika) dalam bentuk apapun dengan *cursor smoke* mereka pada pertandingan yang disiarkan secara langsung.
 
-Di samping itu, para pengguna yang sebelumnya di-*restrict* baru akan dapat [kembali mengikuti turnamen setelah minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons) terhitung dari tanggal pemulihan akun mereka (yang dapat berlaku lebih apabila dirasa perlu oleh [account support team](/wiki/People/The_Team/Account_support_team)).
+Di samping itu, para pengguna yang sebelumnya di-*restrict* baru akan dapat [kembali mengikuti turnamen setelah minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons) terhitung dari tanggal pemulihan akun mereka (yang dapat berlaku lebih apabila dirasa perlu oleh [account support team](/wiki/People/Account_support_team)).
 
-## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara permanen? {#why-permanent}
+## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara permanen? {id=why-permanent}
 
 Kami menjatuhkan larangan turnamen secara permanen kepada para pemain yang terbukti menggunakan program ilegal apapun ataupun memperoleh keuntungan secara tidak adil dalam bentuk apapun dalam turnamen yang didukung secara resmi. Di samping itu, kami juga menjatuhkan hukuman ini kepada mereka yang tertangkap tangan melakukan tindak pelecehan yang tidak dapat ditoleransi lagi.
 
@@ -30,19 +35,19 @@ Untuk lebih jelasnya, berikut merupakan berbagai hal yang dapat membuat seseoran
 - Menyalahgunakan posisi panitia untuk memberikan keuntungan kepada pihak tertentu (seperti memanipulasi jadwal, mengubah komposisi tim, ataupun mendiskualifikasi peserta tertentu secara sepihak)
 - Mengkoordinir gerakan tertentu yang bertujuan untuk menghujat serta melecehkan pemain/panitia dalam kerangka perlakuan yang tidak lagi dapat dipandang sebagai kritik
 
-## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {#appeal}
+## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {id=appeal}
 
 Baik itu sementara ataupun permanen, **kamu tidak dapat mengajukan banding terhadap larangan turnamen yang kamu terima**.
 
-Dalam situasi khusus, [account support team](/wiki/People/The_Team/Account_support_team) kami dapat meninjau ulang kasus tertentu yang memang tim kami rasa perlu untuk diselidiki lebih lanjut dan menyesuaikan masa hukuman yang dijatuhkan.
+Dalam situasi khusus, [account support team](/wiki/People/Account_support_team) kami dapat meninjau ulang kasus tertentu yang memang tim kami rasa perlu untuk diselidiki lebih lanjut dan menyesuaikan masa hukuman yang dijatuhkan.
 
-## Apa yang dapat saya lakukan selagi saya berada dalam masa larangan? {#while-banned}
+## Apa yang dapat saya lakukan selagi saya berada dalam masa larangan? {id=while-banned}
 
 Kamu dapat tetap berpartisipasi pada turnamen komunitas yang tidak berstatus resmi dan tidak melibatkan proses penyaringan peserta (*screening*) selama panitia turnamen yang bersangkutan berkenan dengan keikutsertaanmu.
 
 Meskipun demikian, terlepas dari apakah turnamen tersebut resmi atau tidak, kami berhak untuk menyediakan informasi seputar status larangan turnamenmu kepada panitia turnamen apabila diminta.
 
-## Alasan umum larangan turnamen beserta durasinya {#reasons}
+## Alasan umum larangan turnamen beserta durasinya {id=reasons}
 
 | Alasan larangan turnamen | Durasi | Catatan |
 | :-- | :-- | :-- |

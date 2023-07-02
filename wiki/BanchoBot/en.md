@@ -15,7 +15,7 @@ tags:
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
 
@@ -146,7 +146,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/People/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

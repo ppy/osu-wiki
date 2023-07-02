@@ -92,7 +92,7 @@ outdated_translation: true
 1. osu! Taiko World Cupは国別対抗トーナメントです。
 2. それぞれのラウンドのビートマップはあらかじめ試合が行われる前の日曜日にビートマップ選択者によって告知されます。各試合においてこのビートマップだけが使用可能です。
    - 1つは同点決勝ビートマップです。これは引き分けの場合のみプレイされます。
-   - [Hidden](/wiki/Game_modifier/Hidden)、 [HardRock](/wiki/Game_modifier/Hard_Rock)、 [DoubleTime](/wiki/Game_modifier/Double_Time)、そして自由Mod枠のビートマップもあります。
+   - [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、 [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)、そして自由Mod枠のビートマップもあります。
 3. 試合日程は大会運営者によって決定されます。（以下参照）
 4. スタッフもしくは審判員の手があいていない場合、試合は延期されます。
 5. Failしたプレイヤーのスコアはチームスコアに加算されません。
@@ -179,7 +179,7 @@ outdated_translation: true
 ### ビートマップ群の説明
 
 1. ビートマップ群はグループステージ、決勝トーナメント、準々決勝、準決勝、決勝にそれぞれ1つずつ用意されます。（決勝のWeek 1とWeek 2では同じビートマップ群が使用されます。）
-2. それぞれのビートマップ群は5つの枠で構成されます: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time)そして自由Modです。
+2. それぞれのビートマップ群は5つの枠で構成されます: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)そして自由Modです。
 3. それぞれのビートマップ群は合計19ビートマップで構成されます。
 4. それぞれのビートマップ群には1つ同点決勝ビートマップが含まれます。
 5. NoMod枠は何もModをつけないでプレイしてください。

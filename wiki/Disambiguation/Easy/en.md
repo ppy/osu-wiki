@@ -2,7 +2,7 @@
 
 **Easy** can have multiple meanings:
 
-- The [game modifier](/wiki/Game_modifier/Easy)
+- The [game modifier](/wiki/Gameplay/Game_modifier/Easy)
 - The [difficulty](/wiki/Beatmap/Difficulty) of a beatmap:
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, for osu!.
   - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan, for osu!taiko.

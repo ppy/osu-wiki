@@ -68,7 +68,7 @@ Ces raccourcis fonctionnent partout :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `F1` | Ouvre le menu de sélection des [modificateurs de jeu](/wiki/Game_modifier). |
+| `F1` | Ouvre le menu de sélection des [modificateurs de jeu](/wiki/Gameplay/Game_modifier). |
 | `F2` | Sélectionne aléatoirement une beatmap. |
 | `Shift` + `F2` | Retourne à la beatmap précédemment sélectionnée de manière aléatoire. |
 | `F3` | Ouvre les options de la beatmap. |
@@ -78,8 +78,8 @@ Ces raccourcis fonctionnent partout :
 | `Ctrl` + `2` | Passe en mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Passe en mode de jeu [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Passe en mode de jeu [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Joue la beatmap sélectionnée avec le mod [Auto](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Joue la beatmap sélectionnée avec le mod [Cinema](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Joue la beatmap sélectionnée avec le mod [Auto](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Joue la beatmap sélectionnée avec le mod [Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Active le mod Auto. |
 | `Ctrl` + `F3` ou `Ctrl` + `+` | Augmente la vitesse de défilement d'osu!mania (en mode osu!mania). |
 | `Ctrl` + `F4` ou `Ctrl` + `-` | Diminue la vitesse de défilement d'osu!mania (en mode osu!mania). |
@@ -93,7 +93,7 @@ Ces raccourcis fonctionnent partout :
 
 ### Modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *Note : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.*\
 *Remarque : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
 
@@ -173,7 +173,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `F1` | Passe en mode [compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Passe en mode [design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Passe en mode [timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Entre en mode test. |
 | `F6` | Ouvre la boîte de dialogue des points de contrôle et de synchronisation. |
 | `Ctrl` + `P` | Ajoute un point de timing non hérité à l'horodatage actuel. Si vous n'êtes pas en mode timing, cela ouvrira également le dialogue de timing et de points de contrôle. |
@@ -266,7 +266,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
 | `Shift` (tout en glissant dans la timeline) | Ignore le snapping du diviseur de mesure. |
 | `J` | Recule la sélection d'un diviseur. |
 | `K` | Avance la sélection d'un diviseur. |
@@ -282,7 +282,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `Ctrl` + `C` | Copie le sprite sélectionné. |
 | `Ctrl` + `V` | Colle le sprite à l'horodatage actuel. *Remarque : les sprites collés n'apparaîtront pas dans la liste des calques tant que la beatmap n'aura pas été sauvegardé et rechargé. |
 | `Delete` | Supprime le sprite sélectionné du calque. |
-| `W`, `A`, `S`, `D` | Déplace le sprite sélectionné vers le haut, la gauche, le bas ou la droite, respectivement d'un [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Déplace le sprite sélectionné vers le haut, la gauche, le bas ou la droite, respectivement d'un [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Timing
 

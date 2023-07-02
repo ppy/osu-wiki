@@ -1,6 +1,6 @@
 # Désambiguïsation
 
-Les articles de **désambiguïsation** de l'[osu! wiki](/wiki/Main_Page) mettent en évidence les termes ambigus et expliquent leurs différentes significations.
+Les articles de **désambiguïsation** de l'[osu! wiki](/wiki/Main_page) mettent en évidence les termes ambigus et expliquent leurs différentes significations.
 
 Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour d'autres utilisations"](/wiki/Article_styling_criteria/Formatting#pour-d'autres-utilisations) avec un lien vers sa page de désambiguïsation.
 
@@ -14,11 +14,11 @@ Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
-- [Offset](Offset)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Version](Version)

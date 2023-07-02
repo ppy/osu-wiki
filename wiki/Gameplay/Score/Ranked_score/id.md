@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated_since: 2def7cc20c21aab5c74034c90d6ccd1fa4bd8ca9
 ---
 
 # Skor ranked

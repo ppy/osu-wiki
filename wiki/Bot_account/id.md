@@ -52,7 +52,7 @@ Isi email tersebut harus meliputi hal-hal berikut:
 - Tautan ke kode sumber dan dokumentasi bot tersebut
 - Ringkasan singkat mengenai apa yang bot tersebut lakukan
 
-[Account support team](/wiki/People/The_Team/Account_support_team) akan meninjau pengajuan kamu. Jika pengajuan kamu ditolak, mereka akan memberi tahu kepada kamu alasannya. Jika pengajuan kamu diterima, mereka akan membuatkan akun bot untukmu dan memberi instruksi lebih lanjut mengenai cara penggunaannya.
+[Account support team](/wiki/People/Account_support_team) akan meninjau pengajuan kamu. Jika pengajuan kamu ditolak, mereka akan memberi tahu kepada kamu alasannya. Jika pengajuan kamu diterima, mereka akan membuatkan akun bot untukmu dan memberi instruksi lebih lanjut mengenai cara penggunaannya.
 
 ## Trivia
 

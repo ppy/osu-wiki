@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # Installazione
 
 *Vedi anche: [Installazione/macOS](/wiki/Client/Installation/macOS)*
@@ -18,12 +14,23 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 1. Vai alla [pagina di download](https://osu.ppy.sh/home/download) e scarica l'installer.
 2. Individua ed esegui l'installer.
 3. Mentre l'installer è in esecuzione, c'è un periodo di tempo di 10 secondi che ti permette di scegliere il percorso d'installazione.
-   - Se vuoi cambiarlo, clicca il testo sotto la parola "Hi!" e seleziona il percorso di installazione.
+   - Se vuoi cambiarlo, clicca il testo sotto la parola `Hi!` e seleziona il percorso di installazione.
    - osu! verrà installato in quel percorso quando il timer sarà finito; in caso tu non faccia niente, verrà installato nella cartella AppData.
 4. Quando l'installer avrà finito, osu! si aprirà ed osu!direct scaricherà delle mappe iniziali in automatico.
 5. osu! ti richiederà di registrarti o fare il login.
    - Se hai già un account, esegui il login.
-   - Se devi registrarti, vedi [Registrazione](/wiki/Registration), poi fai il login.
+   - Se devi registrarti, vedi [Registrazione](/wiki/Registration).
+
+## Troubleshooting
+
+Se stai usando Windows 7 a 64-bit, potresti riscontrare delle difficoltà a installare osu! correttamente. Prova a installare la versione 64-bit di .NET Framework, nel caso l'osu!installer non l'abbia già fatto. [Scaricalo da qui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+
+---
+
+**Se l'installer mostra errori quando provi ad installarlo, puoi provare alcune cose:**
+
+- Prova a reinstallare l'ultima versione di .NET Framework. [Puoi trovarlo qui](https://dotnet.microsoft.com/download).
+- Pulisci il tuo PC! Fai una scansione con un antivirus, e pulisci il registro di sistema. Un buon programma per una pulizia generica è CCleaner. Scansiona sia i tuoi file che il registro di sistema. L'installer può fallire se ci sono delle voci di registro provenienti da una copia precedente di osu! ancora presenti nel tuo sistema.
 
 ## Aggiungere beatmap
 
@@ -45,7 +52,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 *Nota: Devi essere un osu!supporter ed avere una connessione internet per usare osu!direct.*
 
-1. Apri osu!, se non l'avessi già fatto.
+1. Apri osu!, e clicca il pulsante osu!direct nella parte destra della schermata principale.
 2. Trova una canzone che ti piacce.
 3. Fai doppio click sulla canzone nella lista o clicca `Download` a destra per scaricarla.
    - Se invece non vuoi scaricare il video, clicca `DL NoVideo`.

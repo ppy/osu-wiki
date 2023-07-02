@@ -2,5 +2,5 @@
 
 **NC** kann Folgendes bedeuten:
 
-- [Nightcore Mod](/wiki/Game_modifier/Nightcore)
+- [Nightcore Mod](/wiki/Gameplay/Game_modifier/Nightcore)
 - [Neue Combo](/wiki/Beatmapping/New_combo)

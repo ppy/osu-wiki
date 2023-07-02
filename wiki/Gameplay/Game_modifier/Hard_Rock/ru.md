@@ -17,7 +17,7 @@ tags:
 
 ![Значок мода HR](/wiki/shared/mods/HR.png "Значок мода Hard Rock (HR)")
 
-*Полный список модов: см. [Игровой модификатор](/wiki/Game_modifier)*
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
 
@@ -33,7 +33,7 @@ tags:
 
 ## Описание
 
-**Hard Rock** — [игровой модификатор](/wiki/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmapping/Approach_rate), [потери здоровья (HP)](/wiki/Beatmapping/Health_drain) и [общей сложности (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
+**Hard Rock** — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmap/Approach_rate), [потери здоровья (HP)](/wiki/Gameplay/Health) и [общей сложности (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
 
 ### osu!
 
@@ -45,9 +45,9 @@ tags:
 
 ### osu!taiko
 
-В [osu!taiko](/wiki/Game_mode/osu!taiko) Hard Rock увеличивает [скорость слайдеров](/wiki/Hit_object/Slider_velocity) и [общую сложность (OD)](/wiki/Beatmapping/Overall_difficulty). Его в osu!taiko используют чаще всего, поскольку он не требует заучивания карты или повышенной скорости нажатий.
+В [osu!taiko](/wiki/Game_mode/osu!taiko) Hard Rock увеличивает [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) и [общую сложность (OD)](/wiki/Beatmap/Overall_difficulty). Его в osu!taiko используют чаще всего, поскольку он не требует заучивания карты или повышенной скорости нажатий.
 
-Число нажатий, необходимое для прохождения спиннеров, увеличивается за счёт повышения OD. Таким образом, с Hard Rock можно набрать больше очков, чем с [Hidden](/wiki/Game_modifier/Hidden). Тем не менее, прирост очков будет незначительным, поскольку каждое нажатие во время спиннера всегда приносит 300 очков — даже меньше, чем разница между `GREAT` и `GOOD` (550 очков на 100x комбо и выше).
+Число нажатий, необходимое для прохождения спиннеров, увеличивается за счёт повышения OD. Таким образом, с Hard Rock можно набрать больше очков, чем с [Hidden](/wiki/Gameplay/Game_modifier/Hidden). Тем не менее, прирост очков будет незначительным, поскольку каждое нажатие во время спиннера всегда приносит 300 очков — даже меньше, чем разница между `GREAT` и `GOOD` (550 очков на 100x комбо и выше).
 
 ### osu!catch
 
@@ -63,14 +63,14 @@ tags:
 
 В [osu!mania](/wiki/Game_mode/osu!mania) потеря здоровья увеличивается на 40%, а окна попаданий становятся меньше примерно на 29%. Скорость появления нот не изменяется, хотя и показывается увеличенной.
 
-Чтобы посчитать ширину окон попаданий после включения HR, их [исходные значения](/wiki/Beatmapping/Overall_difficulty) нужно разделить на 1.4. Окно попаданий для радужной 300 (MAX) не зависит от общей сложности и, как следствие, от Hard Rock и всегда равно ±11.43 мс.
+Чтобы посчитать ширину окон попаданий после включения HR, их [исходные значения](/wiki/Beatmap/Overall_difficulty) нужно разделить на 1.4. Окно попаданий для радужной 300 (MAX) не зависит от общей сложности и, как следствие, от Hard Rock и всегда равно ±11.43 мс.
 
-В [ScoreV2](/wiki/Game_modifier/ScoreV2) используется другой метод расчёта окон попаданий.
+В [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) используется другой метод расчёта окон попаданий.
 
 ## Факты
 
 - Hard Rock назван в честь самой высокой сложности в [Elite Beat Agents](/wiki/iNiS_games), ритм-игре на [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS).
-- Включение Hard Rock убирает [Easy](/wiki/Game_modifier/Easy), и наоборот.
+- Включение Hard Rock убирает [Easy](/wiki/Gameplay/Game_modifier/Easy), и наоборот.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

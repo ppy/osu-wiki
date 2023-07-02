@@ -14,7 +14,7 @@ S'il est utilisé correctement par le créateur de la beatmap, le titre peut ajo
 
 ## Changer le texte du titre
 
-Seuls les membres du [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) et les administrateurs du site peuvent mettre à jour le texte du titre des beatmaps; c'est une option gérée en ligne, elle n'est pas disponible depuis les fichiers de la beatmap. Si vous voulez mettre à jour le titre d'une de vos beatmaps, contactez les personnes de ces groupes.
+Seuls les membres du [NAT](/wiki/People/Nomination_Assessment_Team) et les administrateurs du site peuvent mettre à jour le texte du titre des beatmaps; c'est une option gérée en ligne, elle n'est pas disponible depuis les fichiers de la beatmap. Si vous voulez mettre à jour le titre d'une de vos beatmaps, contactez les personnes de ces groupes.
 
 Quand vous serez en contact avec une de ces personnes, vous devrez leur donner une chaîne de caractères décrivant le contenu et le format du titre. osu! demande que cette chaîne de caractères soit écrit d'une façon spécifique, comme spécifié dans la section suivante.
 

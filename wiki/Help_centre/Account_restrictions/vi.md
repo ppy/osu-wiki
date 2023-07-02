@@ -8,6 +8,9 @@ Khi một tài khoản bị hạn chế, họ sẽ không thể tương tác v�
 
 Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn chế:
 
+- khả năng tham dự sự kiện chính thức
+- khả năng tham dự và hỗ trợ các giải đấu chính thức
+- khả năng tham dự các phòng mutilplayer
 - chat trong game
 - nhắn tin riêng tư
 - đăng lên diễn đàn hay bình luận
@@ -15,12 +18,12 @@ Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn ch
 - cập nhật thông tin hồ sơ
 - thanh toán ở cửa hàng
 
-## Tài khoản tôi bị hạn chế! Tôi phải làm gì? {#what}
+## Tài khoản tôi bị hạn chế! Tôi phải làm gì? {id=what}
 
 Nếu tài khoản bạn bị hạn chế, đừng hoảng hốt. Hãy làm theo các bước sau:
 
 - **Chờ 24 tiếng.** Đôi khi bạn bị hạn chế bởi quy trình tự động nào đó. Chúng tôi luôn kiểm tra các ca hạn chế mới mỗi ngày, xin vui lòng chờ 24 tiếng - nếu bạn bị hạn chế nhầm, thì bạn có thể sẽ được gỡ trong khoảng thời gian đó.
-- **Liên hệ  [đội ngũ hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team) của chúng tôi.** Nếu tài khoản của bạn vẫn bị hạn chế sau khoảng thời gian trên, vui lòng gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) **từ email liên kết với tài khoản** để hỏi thêm chi tiết về việc bị hạn chế. Nhớ ghi kèm tên tài khoản, cùng với bất cứ thông tin gì bạn có thể cung cấp thêm như là lý do bạn nghĩ mình bị hạn chế. Bạn cung cấp càng nhiều thông tin, chúng tôi càng dễ giải quyết vấn đề cho bạn.
+- **Liên hệ  [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) của chúng tôi.** Nếu tài khoản của bạn vẫn bị hạn chế sau khoảng thời gian trên, vui lòng gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) **từ email liên kết với tài khoản** để hỏi thêm chi tiết về việc bị hạn chế. Nhớ ghi kèm tên tài khoản, cùng với bất cứ thông tin gì bạn có thể cung cấp thêm như là lý do bạn nghĩ mình bị hạn chế. Bạn cung cấp càng nhiều thông tin, chúng tôi càng dễ giải quyết vấn đề cho bạn.
 - Nếu bạn chắc chắn rằng mình bị hạn chế oan, vui lòng liên hệ cho chúng tôi ngay lập tức để chúng tôi có thể xử lý vụ việc của bạn.
 
 Nếu tài khoản của bạn bị hạn chế bởi vì vi phạm [nội quy](/wiki/Rules), bạn phải chờ tối thiểu **ba tháng** trước khi có thể xin khiếu nại.
@@ -29,7 +32,7 @@ Nếu tài khoản gốc của bạn chưa bị hạn chế, bạn có thể đ�
 
 Nếu khiếu nại xin gỡ hạn chế của bạn được chấp nhận và đang chơi tự nhiên bị hạn chế lại, đừng hoảng hốt! Hệ thống tự động có thể vô tình đánh dấu bạn, nhưng bạn sẽ được gỡ hạn chế trong 24 tiếng nếu đó thực sự là lý do. Hãy thoải mái gửi email hoặc tweet để chúng tôi để ý và gỡ hạn chế nhanh hơn.
 
-## Tại sao tôi bị hạn chế? {#why}
+## Tại sao tôi bị hạn chế? {id=why}
 
 Có một vài lý do khiến một tài khoản bị hạn chế.
 
@@ -40,15 +43,15 @@ Có một vài lý do khiến một tài khoản bị hạn chế.
 
 Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi yêu cầu bạn phải chờ một khoảng thời gian trước khi xin khiếu nại. Cái này được gọi là *thời gian chờ*, và khoảng thời gian này thay đổi tuỳ vào lỗi bạn vi phạm.
 
-## Tôi có thể làm gì khi đang chờ để khiếu nại? {#while-on-cooldown}
+## Tôi có thể làm gì khi đang chờ để khiếu nại? {id=while-on-cooldown}
 
 - **Tiếp tục tận hưởng game!** Khi tài khoản của bạn bị hạn chế, và bạn đang trong thời gian chờ, bạn vẫn có thể tiếp tục chơi game (miễn là ở tài khoản chính!). Điểm bạn ghi được khi bị hạn chế cũng sẽ được ghi nhận khi bạn được gỡ hạn chế (trừ khi bạn bị rollback).
 - **Giữ thái độ tốt.** Chúng tôi hiểu rằng việc bị hạn chế có thể gây khó chịu, nhưng hãy coi như đây là một cơ hội cho bạn tạm nghỉ, rời xa cộng đồng. Hãy tránh tương tác với cộng đồng trong một vài ngày (bất kể qua Discord, mạng xã hội, hay bất cứ hình thức liên lạc nào khác) để hối cải về hành động bạn đã làm khiến cho tài khoản bị hạn chế.
 - **Đảm bảo bạn tuân thủ nội quy.** Hạn chế dài hạn là hình phạt cho việc phạm quy. Nếu bạn vẫn tái phạm khi bị hạn chế, thời gian chờ để xin khiếu nại sẽ được tính lại về tối thiểu **ba tháng** kể từ lần vi phạm gần đây nhất. Các hành vi được coi là tái phạm bao gồm: tiếp tục gian lận (sáu tháng trong trường hợp này), truy cập tài khoản của người khác, hoặc tạo tài khoản mới để né hạn chế.
-- **Làm theo hướng dẫn của đội ngũ hỗ trợ.** Thời gian chờ 3 tháng là cơ hội để bạn nghỉ và hối cải. Nếu bạn gửi khiếu nại trước khi hết thời hạn này, email của bạn sẽ bị bỏ qua. Nếu bạn không rõ khi nào bạn có thể xin khiếu nại, hay bạn nên chơi trên tài khoản nào (và xin khiếu nại từ cái nào), bạn có thể gửi email để hỏi chúng tôi.
+- **Làm theo hướng dẫn của đội ngũ hỗ trợ.** Thời gian chờ là cơ hội để bạn nghỉ và hối cải. Nếu bạn gửi khiếu nại trước khi hết thời hạn này, email của bạn sẽ bị bỏ qua. Nếu bạn không rõ khi nào bạn có thể xin khiếu nại, hay bạn nên chơi trên tài khoản nào (và xin khiếu nại từ cái nào), bạn có thể gửi email để hỏi chúng tôi.
 - **Đừng e ngại liên lạc chúng tôi khi có câu hỏi.** Miễn là bạn không cố né tránh hình phạt, chúng tôi sẽ vui vẻ trả lời bất cứ câu hỏi nào liên quan đến việc hạn chế tài khoản của bạn!
 
-## Thời gian chờ của tôi đã hết. Khiếu nại thế nào? {#appeal}
+## Thời gian chờ của tôi đã hết. Khiếu nại thế nào? {id=appeal}
 
 Bạn có thể khiếu nại bằng cách gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) có ghi tên tài khoản của bạn. Hãy chắc là bạn gửi khiếu nại từ địa chỉ email liên kết với tài khoản của bạn. Sau khi gửi khiếu nại, hãy chờ phản hồi trong khoảng 1 tuần. Nếu bạn không nhận được phản hồi, hãy liên hệ chúng tôi qua twitter hoặc email - có khả năng chúng tôi chưa nhận được email của bạn.
 
@@ -59,7 +62,7 @@ Khi khiếu nại, chúng tôi mong bạn sẽ đề cập những thứ sau đ�
 - **Bằng cách nào bạn làm điều đó.** Điều này chủ yếu liên quan đến việc gian lận - chúng tôi muốn biết bạn kiếm phần mềm ở đâu, sao bạn biết nó, và liệu nó có còn ở trên máy tính bạn không.
 - **Tại sao chúng tôi nên cho bạn quay lại.** Hầu hết các trường hợp, cái này sẽ liên quan điều hai. Chúng tôi muốn chắc rằng bạn sẽ không tái phạm lần nữa! Hãy hiểu rằng bạn vi phạm càng nhiều trong quá khứ, chúng tôi càng trông đợi nhiều hơn ở mục này.
 
-## Nếu khiếu nại của tôi được chấp nhận? {#appeal-granted}
+## Nếu khiếu nại của tôi được chấp nhận? {id=appeal-granted}
 
 Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu cầu bạn chấp nhận một vài điều tước khi gỡ hạn chế tài khoản của bạn.
 
@@ -68,7 +71,7 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 - **Bạn không nên liên đới với các tài khoản khác** bao gồm chơi ở các máy tính dùng chung (như quán net, ...).
 - **Bất cứ vi phạm lớn nào sẽ khiến bạn bị hạn chế ngay lập tức**. Điều này bao gồm việc bị Im lặng lâu.
 
-Đối với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
+Người trơi trở lại theo tiêu chuẩn cộng đồng cũng sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
 **Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vĩnh viễn khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố gửi) và sẽ không thể được gỡ bỏ, hay giảm đi với bất cứ lý do nào.
 
@@ -76,7 +79,7 @@ Một vài người chơi có thể bị hạn chế lại khi họ bắt đầu
 
 Một vài vi phạm sẽ khiến tài khoản của bạn bị rollback sau khi gỡ hạn chế. Điều này nhằm xoá bỏ các điểm số không hợp lệ được ghi nhận trên tài khoản của bạn **ở mọi chế độ**, bao gồm cả các huy chương và huy hiệu ở hồ sơ. **Số lần chơi và thời gian chơi sẽ không bị thay đổi.**
 
-## Khiếu nại của tôi bị từ chối! {#appeal-denied}
+## Khiếu nại của tôi bị từ chối! {id=appeal-denied}
 
 Đây là một vài lý do mà khiếu nại của bạn bị từ chối.
 
@@ -86,7 +89,7 @@ Một vài vi phạm sẽ khiến tài khoản của bạn bị rollback sau khi
 - **Bạn tiếp tục vi phạm khi đang bị hạn chế.** Không có lý do gì để gỡ hạn chế một người vẫn cố vi phạm kể cả khi đã bị hạn chế. Nếu bạn tiếp tục tái phạm, thời gian chờ sẽ bị hoàn lại kể từ lần phạm quy gần nhất. Trong trường hợp vi phạm nghiêm trọng hoặc tía diễn liên tục, khiếu nại của bạn có thể bị từ chối vĩnh viễn.
 - **Lịch sử vi phạm quá nghiêm trọng.** Trong trường hợp phạm lỗi nghiệm trọng, hoặc người chơi bị hạn chế lần nữa sau khi đã được gỡ hạn chế bởi một lần khiếu nại trước đó, chúng tôi có thể cho rằng trường hợp của bạn là quá nghiêm trọng để có thể quay trở lại game vào thời điểm hiện tại. Nếu bạn thuộc diện này, chúng tôi khuyến nghị bạn nên chờ **một thời gian dài** trước khi khiếu nại, và đảm bảo rằng bạn không vi phạm thêm trong thời gian đó.
 
-## Điều gì xảy ra nếu đây không phải lần đầu tôi khiếu nại? {#subsequent-appeal}
+## Điều gì xảy ra nếu đây không phải lần đầu tôi khiếu nại? {id=subsequent-appeal}
 
 Với hầu hết trường hợp, mỗi lần tài khoản bạn bị hạn chế sẽ gấp đôi thời gian bạn bị hạn chế lần tiếp theo và cả thời gian chờ khiếu nại.
 
@@ -94,7 +97,7 @@ Ví dụ, nếu bạn bị hạn chế do gian lận, quay lại sau khiếu n�
 
 Ghi chú thêm, việc quay lại sau lần vi phạm đầu tiên sẽ trở nên vô cùng khó khăn, vì chúng tôi phải cân nhắc những hành vi trong quá khứ của bạn và việc gỡ hạn chế cho bạn có đáng hay không. Rất ít (nếu có) người chơi trở về thành công sau lần hạn chế thứ ba.
 
-## Email tôi bị bỏ qua / Tôi không nghĩ khiếu nại của tôi được giải quyết thoả đáng {#appeal-review}
+## Email tôi bị bỏ qua / Tôi không nghĩ khiếu nại của tôi được giải quyết thoả đáng {id=appeal-review}
 
 Trong trường hợp bạn nghĩ email của bạn bị đội ngũ hỗ trợ bỏ qua, xin hãy gửi cho chúng tôi một email tới [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) chứa đầy đủ các thông tin dưới đây:
 
@@ -109,7 +112,7 @@ Mong bạn hiểu rằng gửi email tới địa chỉ này chỉ đảm bảo 
 
 **Chúng tôi chỉ phản hồi yêu cầu xem xét/điều tra khiếu nại qua email gửi tới [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Vui lòng không liên lạc với các thành viên của đội ngũ hỗ trợ (hoặc các thành viên của các đội tình nguyện) qua Twitter, Discord, hay bất cứ nền tảng nào khác nhằm lách qua điều khoản này - họ không thể giúp được bạn.
 
-## Lý do hạn chế thường gặp và thời gian chờ {#reasons}
+## Lý do hạn chế thường gặp và thời gian chờ {id=reasons}
 
 | Lý do hạn chế | Thời gian chờ | Chú thích về khiếu nại |
 | :-- | :-- | :-- |

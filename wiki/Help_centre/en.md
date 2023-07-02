@@ -11,7 +11,7 @@ tags:
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help forum](https://osu.ppy.sh/community/forums/5), where someone will be able to help you.
 
-## Sections {#sections}
+## Sections {id=sections}
 
 Choose the section that matches your problem the most to find a suitable solution to the issue.
 
@@ -24,11 +24,12 @@ Choose the section that matches your problem the most to find a suitable solutio
 | [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
 | [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
 | [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons, and cooldowns |
+| [Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrating to the [next major release](/wiki/Client/Release_stream/Lazer) of osu! |
 | [Website](/wiki/Help_centre/Website) | Blocking users, contacting with the support, site appearance |
 
-## Help us help you {#diagnostics}
+## Help us help you {id=diagnostics}
 
-### Log files {#log-files}
+### Log files {id=log-files}
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
 
@@ -45,7 +46,7 @@ If a support team member has asked you for these logs, here's how to get them:
 7. Find the `Logs` directory in the window that opens.
 8. Select the log file required (the support representative will tell you which), and attach it to your support ticket or forum post.
 
-### Event Viewer {#event-viewer}
+### Event Viewer {id=event-viewer}
 
 **Event Viewer is a built in component of Windows which can be used to find crash logs when osu! does not provide you with any. These crash logs can be used to help determine what is causing your issue.**
 
@@ -62,7 +63,7 @@ If a support team member has asked you to find a crash log in Event Viewer, here
 7. Go into the `Details` tab, expand `System` and `Event Data` by clicking on each of them.
 8. Copy the text from there and paste it into your support ticket or forum post.
 
-### Frame Time Graph {#frame-time-graph}
+### Frame Time Graph {id=frame-time-graph}
 
 **The Frame Time Graph is a feature of osu! that can help us gather more useful information on performance issues you may be experiencing.**
 

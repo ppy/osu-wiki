@@ -8,7 +8,7 @@ osu!'daki içeriklerin %100'ü (çoğunlukla "[beatmapler](/wiki/Beatmap)" veya 
 
 osu! asla kâr amacı gütmedi – yüklenen içeriklerin reklamını yapmamak veya bunlardan doğrudan kâr elde etmemek için elimizden geleni yapıyoruz (bu türdeki içerikleri istismar etmemek için), ancak bunun genellikle yeterli görülmediğini de anlıyoruz.
 
-Bu oyunu oyun yapan sanatçıları desteklemek adına elimizden geleni yapmak için, kullanıcı bağışlarından elde edilen fazlalık kaynakları müzik lisanslama çalışmaları için harcıyoruz. [Featured Artist](/wiki/Featured_Artists) programımız kapsamında lisans almak ve farkındalığı yaymak için (mevcut içeriklerde ve yeni benzerlerinde yer alan) sanatçılara ulaşma sürecindeyiz.
+Bu oyunu oyun yapan sanatçıları desteklemek adına elimizden geleni yapmak için, kullanıcı bağışlarından elde edilen fazlalık kaynakları müzik lisanslama çalışmaları için harcıyoruz. [Featured Artist](/wiki/People/Featured_Artists) programımız kapsamında lisans almak ve farkındalığı yaymak için (mevcut içeriklerde ve yeni benzerlerinde yer alan) sanatçılara ulaşma sürecindeyiz.
 
 Featured Artist programımıza katılmak isteyen sanatçılar lisanslama müzakereleri için osu!'yla iletişime geçmeye teşvik edilir.
 
@@ -18,7 +18,7 @@ Bir ritim oyunu olarak, osu!'nun kullanıcı taraflı oluşturulan her bir seviy
 
 Kullanıcılar [beatmap kataloğu](https://osu.ppy.sh/beatmapsets) üzerinden herhangi bir şarkının sanatçısını, başlığını, veya ilgili bir bilgiyi girerek seviyeleri arayabilir ve indirebilirler. Seviye indirmelerinin çoğu bir şarkıyı, kullanıcı tarafından oluşturulan seviyelere ait veriyi, bir arkaplan resmini, ve oyun-içi ses efektlerini içerir.
 
-Seviyeleri gönderirken, oluşturucular [İçerik Kullanım Yönergeleri](/wiki/Rules/Content_Usage_Guidelines) uyarınca tüm unsurların telif hakkı sahiplerinden izin almaya teşvik edilirler.
+Seviyeleri gönderirken, oluşturucular [İçerik Kullanım Yönergeleri](/wiki/Rules/Content_usage_guidelines) uyarınca tüm unsurların telif hakkı sahiplerinden izin almaya teşvik edilirler.
 
 ## Featured Artist lisanslama şartları
 

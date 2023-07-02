@@ -14,3 +14,4 @@ Index page for all of the osu!taiko World Cup series.
 - [osu!taiko World Cup 2020](2020)
 - [osu!taiko World Cup 2021](2021)
 - [osu!taiko World Cup 2022](2022)
+- [osu!taiko World Cup 2023](2023)

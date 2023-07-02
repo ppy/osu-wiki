@@ -21,7 +21,7 @@ Ce serveur est principalement composé de :
 - Salons pour demander du modding, des guest difficulties, des nominations, ou d'autres requêtes liées au mapping.
 - Salons dans lesquels les utilisateurs peuvent poser toute sorte de questions liées au mapping. Des mappeurs expérimentés pourront répondre à ces questions.
 - Un endroit pour partager des modding queues afin d'obtenir plus d'expérience.
-- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - Une liste de références utiles telles que des outils, des proposition de critères de classement ainsi que d'autres serveurs Discord.
 
 ## Staff
@@ -35,4 +35,4 @@ Ce serveur est principalement composé de :
 
 Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité en postant leur profil osu! dans le salon `#arrival` en indiquant quel(s) rôle(s) les intéresse.
 
-![Processus d'authentification](img/auth.jpg "En rejoignant le serveur, les utilisateurs enverront leur profil osu! et demanderont un certain rôle. Un administrateur modifiera alors leur profil en conséquence.")
+![Processus d'authentification](img/auth.jpg?1 "En rejoignant le serveur, les utilisateurs enverront leur profil osu! et demanderont un certain rôle. Un administrateur modifiera alors leur profil en conséquence.")

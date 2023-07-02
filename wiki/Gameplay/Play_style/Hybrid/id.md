@@ -9,15 +9,15 @@ tags:
 
 # Hybrid
 
-**Hybrid** adalah gaya tapping untuk [osu!](/wiki/Game_mode/osu!) yang dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan menggunakan kombinasi dari [*single-tapping*](/wiki/Play_style/Single-tapping) dan [*alternating*](/wiki/Play_style/Alternating). Gaya ini dapat ditemukan dari semua pemain tingkat kemahiran dan keterampilan yang dibutuhkan untuk menggunakannya dapat bervariasi dari berbagai beatmap dan variasi ke variasi.
+**Hybrid** adalah gaya tapping untuk [osu!](/wiki/Game_mode/osu!) yang dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan menggunakan kombinasi dari [*single-tapping*](/wiki/Gameplay/Play_style/Single-tapping) dan [*alternating*](/wiki/Gameplay/Play_style/Alternating). Gaya ini dapat ditemukan dari semua pemain tingkat kemahiran dan keterampilan yang dibutuhkan untuk menggunakannya dapat bervariasi dari berbagai beatmap dan variasi ke variasi.
 
 ## Penggunaan/teknik
 
 *Hybrid* dapat dilakukan dengan berbagai cara:
 
-- Beberapa pemain hybrid menekan [*hit object*](/wiki/Hit_object) dengan menekan antara tombol mereka single-tap (`Z` dan `X` secara default) secara berkala pada beatmap. Sementara juga alternating pada [*stack*](/wiki/Mapping_techniques/Stack) bila memungkinkan.
+- Beberapa pemain hybrid menekan [*hit object*](/wiki/Gameplay/Hit_object) dengan menekan antara tombol mereka single-tap (`Z` dan `X` secara default) secara berkala pada beatmap. Sementara juga alternating pada [*stack*](/wiki/Beatmapping/Mapping_techniques/Stack) bila memungkinkan.
 - Beberapa pemain hybrid menggunakan kombinasi dari alternating dan single-tapping tergantung pada kecepatan sebuah beatmap: beberapa kecepatan lebih mudah untuk detekan dengan singletapping daripada alternating dan banyak pemain hybrid mengakomodasi untuk itu. Kecepatan dimana ini bervariasi dari pemain ke pemain.
-- Beberapa pemain hybrid menggunakan kombinasi dari [*double tapping*](/wiki/Play_style/Double_tapping), *single-tapping*, dan *alternating* dengan sesuka hati. Ini, tentu saja, semua tergantung preferensi pribadi.
+- Beberapa pemain hybrid menggunakan kombinasi dari [*double tapping*](/wiki/Gameplay/Play_style/Double_tapping), *single-tapping*, dan *alternating* dengan sesuka hati. Ini, tentu saja, semua tergantung preferensi pribadi.
 
 ## Argumen
 

@@ -4,7 +4,7 @@ no_native_review: true
 
 # Desambiguación
 
-Artículos de **Desambiguación** en la [wiki de osu!](/wiki/Main_Page) remarca términos ambiguos y explica sus posibles significados.
+Artículos de **Desambiguación** en la [wiki de osu!](/wiki/Main_page) remarca términos ambiguos y explica sus posibles significados.
 
 Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para otros usos"](/wiki/Article_styling_criteria/Formatting#para-otros-usos) con un link a la página de desambiguación.
 
@@ -18,11 +18,11 @@ Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para 
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
-- [Offset](Offset)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Version](Version)

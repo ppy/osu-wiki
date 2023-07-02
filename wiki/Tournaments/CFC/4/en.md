@@ -39,7 +39,7 @@ The Catch French Cup 4 was run by various community members.
 | Mappool selector | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) |
 | Streamer | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/138728), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
+| Commentator | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
 | Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
 | Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
@@ -56,7 +56,7 @@ The Catch French Cup 4 was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| High | ::{ flag=RE }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| High | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | Low | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) |
 | Unseeded | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
 
@@ -64,7 +64,7 @@ The Catch French Cup 4 was run by various community members.
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568) | ::{ flag=RE }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| **A** | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568) | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
 | **B** | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
 | **C** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450) |

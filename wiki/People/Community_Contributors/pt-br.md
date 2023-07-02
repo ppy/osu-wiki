@@ -8,7 +8,7 @@ outdated_translation: true
 
 Os **Colaboradores da Comunidade** são pessoas que assumiram a providenciar serviços a comunidade do osu! a um grande custo a si mesmos - ferramentas e funcionalidades que muitos de nós se dão como garantido hoje em dia. Esses usuários são dados uma insígnia para simbolizar que fizeram algo notável para toda a comunidade.
 
-Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que são membros prévios do osu!team que se aposentaram, insígnias de Colaborador da Comunidade são dadas a freelancers públicos que foram além do chamado do dever para melhorar o osu! e o ambiente da comunidade.
+Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que são membros prévios do osu!team que se aposentaram, insígnias de Colaborador da Comunidade são dadas a freelancers públicos que foram além do chamado do dever para melhorar o osu! e o ambiente da comunidade.
 
 ## 2013
 
@@ -31,7 +31,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ anos de trabalho silencioso incansavelmente lidando com [beatmap packing](https://osu.ppy.sh/beatmaps/packs) e vários anos de gerenciamento de charts de beatmap. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anos após anos de serviço, incluindo projetando a skin original de beatmap, avançando [storyboarding](/wiki/Storyboard) como uma arte e motivação. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gerenciamento de comunidade em seus primórdios, moderação e enorme contribuições ao decorrer de seu tempo. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ter sido o primeiro gerente de comunidade e moderador global, quem consolidou o extramamente alto nível para o [GMT](/wiki/People/The_Team/Global_Moderation_Team) seguir. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ter sido o primeiro gerente de comunidade e moderador global, quem consolidou o extramamente alto nível para o [GMT](/wiki/People/Global_Moderation_Team) seguir. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Ter sido o primeiro gerente de staff, gerente BAT e formando por si só uma equipe elite de moderação de beatmap do zero. |
 
 ## 2015

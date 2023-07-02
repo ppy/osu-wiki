@@ -144,8 +144,8 @@ osu!supporter kann auch an andere Spieler verschenkt werden, indem ihr Nutzernam
 
 Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten:
 
-- `{Benutzername} ist zum osu!supporter geworden - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass der Nutzer osu!supporter erhält.
-- `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war.
+- `{Benutzername} hat osu! unterstützt - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass der Nutzer osu!supporter erhält oder es einer anderen Person schenkt.
+- `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war oder osu!supporter verschenkt hat.
 - `{Benutzername} hat osu!supporter als Geschenk erhalten!`, für den Fall, dass das Tag verschenkt wurde.
 
 Zusätzlich wird der Geschenkgeber und der Empfänger eine E-Mail-Benachrichtigung erhalten, die den Kauf erwähnt.

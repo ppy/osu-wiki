@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2016 logo](img/logo.jpg)
 
-The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu! World Cup.
+The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the seventh instalment of the osu! World Cup.
 
 ## Tournament schedule
 

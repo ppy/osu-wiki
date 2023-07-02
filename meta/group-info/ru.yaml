@@ -21,11 +21,12 @@ gmt:
     tournaments: организация турниров
     wiki: администрирование вики
     mapping: модерация маппинг-сообщества
+    skinning: модерация скиннинг-сообщества
+    leadership: лидерство
 nat:
-  areas:
-    communication: обратная связь
-    evaluation: аттестация номинаторов
-    moderation: модерация
-    structural: организация
+  subgroups:
+    structural: организационные вопросы
+    evaluation: оценка
+    leadership: лидерство
 languages:
   partial: частично <language>

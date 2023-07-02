@@ -2,11 +2,11 @@
 
 The brand identity guidelines is a set of standards for branding osu!-related projects. All use does not require approval.
 
-[Download the design kit here.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) The linked design kit contains some outdated assets. Also note that the included PDF is outdated and this page should be used instead.
+[Download the design kit here](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view). The linked design kit contains some outdated assets. Also note that the included PDF is outdated and this page should be used instead.
 
 ## osu!
 
-The name of the game, osu!, must not be capitalised. The osu! official branding must not use any spaces:
+The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces:
 
 - Game modes: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Projects: `osu!academy`, `osu!talk`

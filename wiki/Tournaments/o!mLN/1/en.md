@@ -59,7 +59,7 @@ The osu!mania LN Tournament was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029), ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061), ::{ flag=FR }:: [AuraahDono](https://osu.ppy.sh/users/10015908), ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) |
-| High | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441), ::{ flag=BY }:: [mvq](https://osu.ppy.sh/users/6283029) |
+| High | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441), ::{ flag=RU }:: [mvq](https://osu.ppy.sh/users/6283029) |
 | Low | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132), ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001), ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006), ::{ flag=FI }:: [-Oreo-](https://osu.ppy.sh/users/5099222), ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) |
 | Unseeded | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607), ::{ flag=PH }:: [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143), ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890), ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
 
@@ -70,7 +70,7 @@ The osu!mania LN Tournament was run by various community members.
 | **A** | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) | ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519) | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132) | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
 | **B** | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) | ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488) | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790) | ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143) |
 | **C** | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) | ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| **D** | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=BY }:: [mvq](https://osu.ppy.sh/users/6283029) | ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957) | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908) |
+| **D** | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=RU }:: [mvq](https://osu.ppy.sh/users/6283029) | ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957) | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908) |
 | **E** | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941) | ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) | ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001) | ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
 | **F** | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) | ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573) |
 | **G** | ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430) | ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) | ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890) |
@@ -261,14 +261,14 @@ Saturday, 13 April 2019:
 | **-Rem-** ::{ flag=ID }:: | **5** | 4 | ::{ flag=TH }:: basicmaime | [#1](https://osu.ppy.sh/community/matches/50961847) |
 | DaDarkDragon ::{ flag=PL }:: | -1 | **0** | ::{ flag=KR }:: **wonder5193** | *win by default* |
 | **\[Crz\]Crysarlene** ::{ flag=ID }:: | **5** | 0 | ::{ flag=PH }:: arge- | [#1](https://osu.ppy.sh/community/matches/50962595) |
-| **Amascite** ::{ flag=GB }:: | **5** | 1 | ::{ flag=BY }:: mvq | [#1](https://osu.ppy.sh/community/matches/50973498) |
+| **Amascite** ::{ flag=GB }:: | **5** | 1 | ::{ flag=RU }:: mvq | [#1](https://osu.ppy.sh/community/matches/50973498) |
 
 Sunday, 14 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **arge-** ::{ flag=PH }:: | **0** | -1 | ::{ flag=PH }:: Shiyui- | *win by default* |
-| mvq ::{ flag=BY }:: | 1 | **5** | ::{ flag=KR }:: **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50996431) |
+| mvq ::{ flag=RU }:: | 1 | **5** | ::{ flag=KR }:: **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50996431) |
 | DaDarkDragon ::{ flag=PL }:: | -1 | **0** | ::{ flag=FR }:: **AuraahDono** | *win by default* |
 | basicmaime ::{ flag=TH }:: | 3 | **5** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50999474) |
 
@@ -287,7 +287,7 @@ Saturday, 6 April 2019:
 | NKEYBOARD ::{ flag=KR }:: | 1 | 4 | ::{ flag=PH }:: **arge-** | [#1](https://osu.ppy.sh/community/matches/50790559) |
 | **basicmaime** ::{ flag=TH }:: | **4** | 1 | ::{ flag=FR }:: AuraahDono | [#1](https://osu.ppy.sh/community/matches/50793099) |
 | **Amascite** ::{ flag=GB }:: | **0** | -1 | ::{ flag=FR }:: Koiidex | *win by default* |
-| Shiyui- ::{ flag=PH }:: | 1 | **4** | ::{ flag=BY }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50800700) |
+| Shiyui- ::{ flag=PH }:: | 1 | **4** | ::{ flag=RU }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50800700) |
 | MillaMaxwelle ::{ flag=FR }:: | -1 | **0** | ::{ flag=PL }:: **DaDarkDragon** | *win by default* |
 
 Sunday, 7 April 2019:
@@ -331,14 +331,14 @@ Sunday, 24 March 2019:
 | C | **Shiyui-** ::{ flag=PH }:: | **0** | -1 | ::{ flag=KR }:: wonder5193 | *win by default* |
 | C | **wonder5193** ::{ flag=KR }:: | **4** | 0 | ::{ flag=TH }:: RuleBlazing | [#1](https://osu.ppy.sh/community/matches/50495811) |
 | C | **RuleBlazing** ::{ flag=TH }:: | **0** | -1 | ::{ flag=PL }:: 8524171514518 | *win by default* |
-| D | X\_Devil ::{ flag=RU }:: | 1 | **4** | ::{ flag=BY }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50496802) |
+| D | X\_Devil ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50496802) |
 | C | 8524171514518 ::{ flag=PL }:: | -1 | **0** | ::{ flag=KR }:: **wonder5193** | *win by default* |
-| D | **mvq** ::{ flag=BY }:: | **4** | 2 | ::{ flag=RU }:: Mage | [#1](https://osu.ppy.sh/community/matches/50500173) |
+| D | **mvq** ::{ flag=RU }:: | **4** | 2 | ::{ flag=RU }:: Mage | [#1](https://osu.ppy.sh/community/matches/50500173) |
 | C | 8524171514518 ::{ flag=PL }:: | -1 | **0** | ::{ flag=PH }:: **Shiyui-** | *win by default* |
 | D | Mage ::{ flag=RU }:: | 1 | **4** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50501756) |
 | C | Shiyui- ::{ flag=PH }:: | 2 | **4** | ::{ flag=PL }:: **RuleBlazing** | [#1](https://osu.ppy.sh/community/matches/50501730) |
 | D | **Mage** ::{ flag=RU }:: | 4 | 2 | ::{ flag=RU }:: X\_Devil | [#1](https://osu.ppy.sh/community/matches/50504850) |
-| D | **andreymc** ::{ flag=BR }:: | **4** | 2 | ::{ flag=BY }:: mvq | [#1](https://osu.ppy.sh/community/matches/50504826) |
+| D | **andreymc** ::{ flag=BR }:: | **4** | 2 | ::{ flag=RU }:: mvq | [#1](https://osu.ppy.sh/community/matches/50504826) |
 
 Friday, 29 March 2019:
 

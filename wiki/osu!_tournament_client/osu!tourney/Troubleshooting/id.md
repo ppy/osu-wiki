@@ -1,6 +1,6 @@
 # Penyelesaian Masalah
 
-*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
+*Halaman utama: [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)*
 
 ## Bagaimana cara membuat klien osu! baru tanpa menghapus klien yang ada?
 
@@ -22,7 +22,7 @@ Gunakan instalasi osu! terbaru.
 ## Latar belakang dari osu!tourney tidak ditampilkan!
 
 Pastikan file latar belakang anda terletak dengan benar di `/osu!/Skins/User/tournament/background.png`.
-Lihat [panduan skinning](/wiki/osu!tourney/Skinning) untuk lebih jelasnya.
+Lihat [panduan skinning](/wiki/osu!_tournament_client/osu!tourney/Skinning) untuk lebih jelasnya.
 
 ## Bagaimana cara membuat osu! dijalankan sebagai klien normal lagi?
 
@@ -35,7 +35,7 @@ Klik nama ruangan di panel hitam bawah sehingga tampak **tebal**. Jika klien mas
 ## Ruangan tidak muncul!
 
 Ada kemungkinan bahwa ruangan anda salah penamaannya atau anda menggunakan akronim yang salah dalam file `tournament.cfg`.
-Pastikan ruangan diberi nama dengan benar mengikuti [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_usage) dengan seksama.
+Pastikan ruangan diberi nama dengan benar mengikuti [panduan penggunaan untuk multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) dengan seksama.
 
 ## Nama-nama tim tidak muncul!
 
@@ -45,7 +45,7 @@ Lihat jawaban sebelumnya.
 
 Kami menyarankan menggunakan [Open Broadcaster Software](https://obsproject.com/), tetapi program streaming lain yang dapat merekam layar juga dapat digunakan.
 
-Resolusi bagian atas osu!tourney dapat dimodifikasi dalam file `tournament.cfg` tetapi secara standar adalah `1280x720`. Pastikan resolusi monitor anda lebih besar dari nilai ini. Lihat [panduan pemasangan](/wiki/osu!tourney/Setup) untuk informasi tentang cara mengubah resolusi.
+Resolusi bagian atas osu!tourney dapat dimodifikasi dalam file `tournament.cfg` tetapi secara standar adalah `1280x720`. Pastikan resolusi monitor anda lebih besar dari nilai ini. Lihat [panduan pemasangan](/wiki/osu!_tournament_client/osu!tourney/Setup) untuk informasi tentang cara mengubah resolusi.
 
 Jangan lupa untuk menyesuaikan pemotongan untuk menghapus panel kendali hitam dari siaran!
 

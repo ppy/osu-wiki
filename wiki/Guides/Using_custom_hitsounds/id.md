@@ -4,7 +4,7 @@ Dalam panduan ini kamu akan belajar bagaimana cara menggunakan [hitsound](/wiki/
 
 ## Mendapatkan hitsound khusus
 
-Agar kamu dapat menggunakan hitsound khusus pada beatmap-mu kamu perlu mendapatkannya terlebih dahulu! [Daftar hitsound khusus](/wiki/Guides/Custom_Hitsound_Library) merupakan sumber yang baik untuk mendapatkan sampel suara seperti simbal, drum, bel, peluit, dan lain lain. Kalau kamu tidak mendapatkan apa yang kamu cari, kamu dapat membuat sampelmu sendiri!
+Agar kamu dapat menggunakan hitsound khusus pada beatmap-mu kamu perlu mendapatkannya terlebih dahulu! [Daftar hitsound khusus](/wiki/Guides/Custom_hitsound_library) merupakan sumber yang baik untuk mendapatkan sampel suara seperti simbal, drum, bel, peluit, dan lain lain. Kalau kamu tidak mendapatkan apa yang kamu cari, kamu dapat membuat sampelmu sendiri!
 
 Berkas hitsound sebaiknya berupa `.wav` atau `.ogg` yang tidak memiliki *playback delay* dan suara dapat di-*loop* secara benar. Berkas suara yang berupa `.mp3` memiliki sedikit *delay* dan mungkin tidak dapat diputar secara sinkron terhadap lagu yang ingin kamu tambahkan hitsound. Namun hitsound yang berformat `.mp3` dapat digunakan untuk efek suara khusus seperti aplaus atau suara *ambient* di mana ukuran berkas `.wav` atau `.ogg` dapat melebihi ukuran yang diregulasi.
 
@@ -39,7 +39,7 @@ di mana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah 
 
 ![](img/beatmap-folder-resources.png "Contoh folder beatmap yang berisi hitsound khusus")
 
-Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound bawaan yang diputar jika sebuah [hit object](/wiki/Hit_object) dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
+Pada gambar yang ditunjukkan di atas, berkas pertama bernama `soft-hitclap.wav` dan akan menggantikan hitsound bawaan yang diputar jika sebuah [hit object](/wiki/Gameplay/Hit_object) dengan sampleset Soft dan addition "hitclap" sukses diklik. Mohon diperhatikan bahwa hitsound ini hanya akan diputar pada *selected sampleset*. Jika beatmap-mu juga menggunakan sampleset yang lain, sampleset tersebut butuh berkas hitsound tambahan (meskipun kamu ingin menggunakan sampel suara yang sama), seperti dengan menambahkan berkas `normal-hitclap.wav` ketika menggunakan sampleset Normal.
 
 ## Menggunakan hitsound khusus
 

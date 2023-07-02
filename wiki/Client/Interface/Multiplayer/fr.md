@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aaa180d2f96e68bb61094382214237cf8bc22555
+---
+
 # Multijoueur
 
 Le **multijoueur** (souvent abrégé en *Multi*) est un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter entre eux ou en équipe sur une beatmap choisie par l'hôte.
@@ -109,7 +114,7 @@ Un joueur peut avoir quatres couleurs différentes dans cette liste, qui ont dif
 | Couleur | Description |
 | :-: | :-- |
 | **Rouge (n'a pas la map)** | Le joueur n'a pas la beatmap, indiqué par un indicateur `[n'a pas la map]` jusqu'à ce qu'il ait téléchargé la beatmap. |
-| **Blanc (pas prêt)** | Le joueur a la beatmap mais n'est pas encore prêt. Les [modificateurs de jeu](/wiki/Game_modifier) peuvent être modifiés dans cet état. |
+| **Blanc (pas prêt)** | Le joueur a la beatmap mais n'est pas encore prêt. Les [modificateurs de jeu](/wiki/Gameplay/Game_modifier) peuvent être modifiés dans cet état. |
 | **Vert (prêt)** | Le joueur est prêt. Les modificateurs de jeu ne peuvent pas être modifiés dans cet état. L'hôte pourra démarrer la partie après avoir cliqué sur "prêt", tous les joueurs prêts vont alors commencer la partie. |
 | **Bleu clair (en jeu)** | Le joueur est en train de jouer, l'indicateur `[en jeu]` est affiché jusqu'à la fin de la partie. |
 
@@ -166,11 +171,11 @@ Si le joueur ne possède pas la beatmap, un des statuts suivants sera affiché :
 ![](img/multi-player-free-mods-fr.jpg "L'écran de sélection de mods en multijoueur, lorsque l'hôte a activé les Mods libres")
 :::
 
-Cette section affichera les [modes de jeu](/wiki/Game_modifier) utilisés pour cette partie.
+Cette section affichera les [modes de jeu](/wiki/Gameplay/Game_modifier) utilisés pour cette partie.
 
-L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
+L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
-#### Mode par équipe {#team-mode-match-setup}
+#### Mode par équipe {id=team-mode-match-setup}
 
 *Pour plus d'information sur les modes par équipe, voir la [section gameplay sur les modes par équipe](#team-mode-gameplay).*
 
@@ -239,7 +244,7 @@ Lorsque que la partie est en train de démarrer, déplacer le curseur vers le ba
 
 #### Santé
 
-Quand la barre de santé d'un joueur s'est entièrement vidée, il peut continuer à jouer, mais le score sera considéré comme un échec et n’apparaîtra pas sur les classements. Le joueur peut revivre s'il remplit entièrement la barre de vie, à moins qu'il n'utilise [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Game_modifier/Perfect).
+Quand la barre de santé d'un joueur s'est entièrement vidée, il peut continuer à jouer, mais le score sera considéré comme un échec et n’apparaîtra pas sur les classements. Le joueur peut revivre s'il remplit entièrement la barre de vie, à moins qu'il n'utilise [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect).
 
 En partie Team VS, avoir échoué à la fin de la beatmap ne permettra pas au score réalisé de contribuer au score total de l'équipe.
 
@@ -265,6 +270,8 @@ Pour des parties en `Head-to-head` et en `Team VS` :
 
 Pour `Tag co-op` et `Tag-team VS`:
 
+| Condition de victoire | Statistiques affichées |
+| :-- | :-- |
 | `Score` / `Score v2` | Score d'équipe, score individuel, jugements |
 | `Accuracy` | Moyenne de précision d'équipe, score individuel, jugements |
 | `Combo` | Combo actuel, score individuel, jugements |
@@ -286,7 +293,7 @@ La couleur de chaque joueur sur le classement en jeu indique le statut du joueur
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur pour passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | Le joueur a quitté la partie, soit en appuyant sur `Échap` deux fois, soit en ayant été déconnecté de [Bancho](/wiki/Bancho_(server)). La couleur du texte passera de blanche à rouge avec `[Quit]` rajouté à la fin. La couleur de la boîte indique le statut du joueur avant de quitter la partie. |
 
-### Type de partie {#team-mode-gameplay}
+### Type de partie {id=team-mode-gameplay}
 
 #### Head-to-head
 
@@ -324,7 +331,7 @@ L'équipe bleue est sur la gauche, et l'équipe rouge est sur la droite. Une cou
 
 Changer d'équipe est possible tant que les joueurs se trouvent sur le lobby. Il n'y a pas de handicap pour une équipe avec moins de membres, et il est possible de commencer une partie avec uniquement une seule équipe.
 
-##### Résultats {#écran-de-résultats-team-vs}
+##### Résultats {id=écran-de-résultats-team-vs}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Écran de résultats Team VS")
@@ -362,7 +369,7 @@ Si un joueur quitte pendant la beatmap, le jeu jouera automatiquement sa partie 
 
 Tous les joueurs partagent la même barre de vie. Si elle se vide entièrement, la partie se termine. En Tag-team VS, chaque équipe possède sa propre barre de vie, et perdre toute sa vie entraînera la défaite de cette équipe.
 
-Les joueurs utilisant les modificateurs de jeu [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Game_modifier/Perfect) causeront la défaite de l'équipe entière s'ils échouent.
+Les joueurs utilisant les modificateurs de jeu [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) causeront la défaite de l'équipe entière s'ils échouent.
 
 ##### Résultats
 

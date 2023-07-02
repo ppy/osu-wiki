@@ -7,7 +7,7 @@ tags:
 
 # Star rating
 
-**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance point](/wiki/Performance_points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih lagu](/wiki/Client/Interface#layar-pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
+**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmap), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance point](/wiki/Performance_points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih lagu](/wiki/Client/Interface#pemilihan-lagu) yang akan dimainkan di klien dan di laman informasi beatmap.
 
 ## Tingkat kesulitan
 
@@ -26,4 +26,4 @@ Pada lokasi yang lain, seperti [AiMod](/wiki/Client/Beatmap_editor/AiMod), tingk
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ dan di atasnya
 
-Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [ranking criteria](/wiki/Ranking_Criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmap.
+Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [ranking criteria](/wiki/Ranking_criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmap.

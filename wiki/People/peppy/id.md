@@ -9,7 +9,7 @@ tags:
 
 # peppy
 
-**peppy** (ditulis dengan huruf "p" kecil) merupakan identitas *online* dari Dean Herbert yang tidak lain merupakan pencipta dan [pengembang](/wiki/People/The_Team/Developers) utama osu!.
+**peppy** (ditulis dengan huruf "p" kecil) merupakan identitas *online* dari Dean Herbert yang tidak lain merupakan pencipta dan [pengembang](/wiki/People/Developers) utama osu!.
 
 ## Tautan-tautan yang terkait
 

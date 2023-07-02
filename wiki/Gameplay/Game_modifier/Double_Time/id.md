@@ -11,8 +11,8 @@ tags:
 
 ![Ikon mod DT](/wiki/shared/mods/DT.png "Ikon mod Double Time (DT)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Kunjungi juga: [Nightcore (mod)](/wiki/Game_modifier/Nightcore)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*Kunjungi juga: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Tentang
 
@@ -26,13 +26,13 @@ tags:
 - Tombol shortcut default: `D`
 - Caption: `Zoooooooooom.`
 - Mode-mode game yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variasi: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Variasi: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## Deskripsi
 
 *Catatan: Cara yang digunakan untuk mempercepat lagu tersebut tidak menaikkan pitch lagunya.*
 
-Mod **Double Time** adalah sebuah [game modifier](/wiki/Game_modifier) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan menaikkan kecepatan tempo (BPM) menjadi 150% (1.5x) dengan memperpendek durasi lagu sebesar 33%, serta meningkatkan [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), dan [health (HP)](/wiki/Gameplay/Health).
+Mod **Double Time** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang meningkatkan kesulitan pada sebuah [beatmap](/wiki/Beatmap) dengan menaikkan kecepatan tempo (BPM) menjadi 150% (1.5x) dengan memperpendek durasi lagu sebesar 33%, serta meningkatkan [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), dan [health (HP)](/wiki/Gameplay/Health).
 
 Double Time sering dianggap sebagai salah satu mod terbaik yang digunakan untuk memperoleh banyak [performance points](/wiki/Performance_points) (PP) pada tingkat kesulitan yang lebih mudah pada mode permainan [osu!](/wiki/Game_mode/osu!).
 
@@ -50,7 +50,7 @@ Pada osu!catch, mod ini dapat meningkatkan hyperdash leniency menjadi lebar, men
 
 - Saat mod Double Time dinyalakan, nilai `Length`, `BPM`, dan `Objects` berwarna merah terang dengan nilai baru yang telah ditingkatkan. (Digambarkan di bawah.)
 - Nilai `Objects` tetap bewarna merah terang walaupun tidak ada perubahan yang terjadi pada nilainya.
-- Nilai `CS`, `AR`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan peningkatan kecil pada nilai mereka. (Digambarkan di bawah.)
+- Nilai `AR`, `OD`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan peningkatan kecil pada nilai mereka. (Digambarkan di bawah.)
 - Penamaaan "Double Time" bisa dikatakan sebagai istilah yang tidak cocok karena mod DT sebenarnya tidak meningkatkan kecepatan lagunya sebesar 2x (200%); mod ini hanya meningkatkan kecepatan beatmap sebesar 1.5x (150%).
 
 ![Perubahan nilai-nilai beatmap akibat pemasangan mod Double Time](img/GM_DT.jpg "Contoh tampilan nilai-nilai beatmap yang telah terubah oleh pemasangan mod Double Time")

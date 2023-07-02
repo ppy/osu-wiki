@@ -12,13 +12,13 @@ tags:
 
 *Not to be confused with [Notelock](/wiki/Gameplay/Judgement/Notelock) or [Mind block](/wiki/Gameplay/Mind_block).*
 
-**Fingerlock** (alternatively spelt as `finger-lock` or `finger lock`) is a term used to describe the sensation of momentarily losing control of one's fingers whilst playing osu!. Although not a term specific to osu!, the term is widely used by players to communicate frustration with plays where a player knows when and where to press a [hit object](/wiki/Hit_object), but inexplicably just doesn't press the key, effectively creating a sensation where said finger feels as if it is "locked" in place. Hence the name, "fingerlock".
+**Fingerlock** (alternatively spelt as `finger-lock` or `finger lock`) is a term used to describe the sensation of momentarily losing control of one's fingers whilst playing osu!. Although not a term specific to osu!, the term is widely used by players to communicate frustration with plays where a player knows when and where to press a [hit object](/wiki/Gameplay/Hit_object), but inexplicably just doesn't press the key, effectively creating a sensation where said finger feels as if it is "locked" in place. Hence the name, "fingerlock".
 
 "Fingerlock" may occasionally be referred to as `wrist lock`, `wristlock`, `wrist-lock`.
 
 ## Causes
 
-*Caution: Fingerlock is **not** a medical condition. Any alleged research or commonly-understood information respective to the osu! community as to its cause and/or long-term effects is **not considered to by scientific**. The osu! community is not qualified to give medical advice; do not use the osu! wiki to diagnose medical conditions.*
+*Caution: Fingerlock is **not** a medical condition. Any alleged research or commonly-understood information respective to the osu! community as to its cause and/or long-term effects is **not considered to be scientific**. The osu! community is not qualified to give medical advice; do not use the osu! wiki to diagnose medical conditions.*
 
 Fingerlock is a common sensation that happens to many veteran osu! players. The common consensus amongst most players is that fingerlock is generally no cause for alarm. However, if a player experiences persistent or painful fingerlock often, it is recommended that that player see a medical professional, as it may be the result of an underlying health condition.
 

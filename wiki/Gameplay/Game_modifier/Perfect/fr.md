@@ -12,8 +12,8 @@ tags:
 
 ![Icône du mod PF](/wiki/shared/mods/PF.png "Icône du mod Perfect (PF)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
-*Voir aussi : [Sudden Death (mod)](/wiki/Game_modifier/Sudden_Death)*
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+*Voir aussi : [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
 ## À propos
 
@@ -23,11 +23,11 @@ tags:
 - Touche de raccourci par défaut : `S` `S` ou `Shift`+`S`
 - Légende : `Un SS sinon rien.`
 - Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante : [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- Variante : [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
 ## Description
 
-Le mod **Perfect** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à aider les joueurs qui cherchent à obtenir une note SS en échouant automatiquement et en réessayant les [beatmaps](/wiki/Beatmap) lorsqu'ils manquent une note ou obtiennent un score sur un [objet](/wiki/Hit_object) autre que 300 ou plus.
+Le mod **Perfect** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à aider les joueurs qui cherchent à obtenir une note SS en échouant automatiquement et en réessayant les [beatmaps](/wiki/Beatmap) lorsqu'ils manquent une note ou obtiennent un score sur un [objet](/wiki/Gameplay/Hit_object) autre que 300 ou plus.
 
 L'une des actions suivantes **entraînera** le redémarrage de la beatmap par le mod Perfect :
 
@@ -48,7 +48,7 @@ Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode)
 ## Le saviez-vous ?
 
 - S'il y a un prologue à sauter, le mod Perfect ne le sautera pas automatiquement parce qu'il utilise la fonctionnalité de redémarrage par opposition à la répétition rapide.
-- Le mod Perfect est une variante du mod [Sudden Death](/wiki/Game_modifier/Sudden_Death).
+- Le mod Perfect est une variante du mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

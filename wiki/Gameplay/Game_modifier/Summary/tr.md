@@ -1,6 +1,6 @@
 # Oyun modifikasyonlarının özeti
 
-*Ana sayfa: [Oyun modifikasyonları](/wiki/Game_modifier)*\
+*Ana sayfa: [Oyun modifikasyonları](/wiki/Gameplay/Game_modifier)*\
 *Not: osu!mania'da kullanılan modifikasyonlar hiçbir zaman skor çarpanını arttırmayacaktır.*
 
 | Mod | İsim (Kısaltma) | Çarpan | İpucu metni |

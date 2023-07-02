@@ -45,7 +45,7 @@ osu! memiliki tim peninjau yang berdedikasi untuk memeriksa apakah beatmap-beatm
 
 - Lihat atau cari daftar [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) untuk artis atau lagu yang kamu suka dan/atau ingin kamu kontribusikan.
 - Mainkan beatmap [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-dan-pending) dan tinggalkan umpan balik di utas diskusi beatmap.
-- Baca [Panduan Modding](/wiki/Modding) dan [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengetahui dasar-dasar teknis modding dan apa yang membuat beatmap rankable.
+- Baca [Panduan Modding](/wiki/Modding) dan [Ranking Criteria](/wiki/Ranking_criteria) untuk mengetahui dasar-dasar teknis modding dan apa yang membuat beatmap rankable.
 - Bergabung dan ikutilah percakapan pada kanal obrolan `#mapping` dan` #modreqs` dalam osu!.
 - Jika kamu punya waktu dan dedikasi untuk osu!, cobalah membuat sebuah utas [Modding Queue](https://osu.ppy.sh/community/forums/60) untuk memberikan tempat bagi para pembuat beatmap meminta mod dari kamu.
 
@@ -63,7 +63,7 @@ Di bawah ini beberapa cara kamu dapat berkontribusi:
 
 ## Berkontribusi untuk masa depan osu!
 
-Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/The_Team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
+Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/osu!_team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
 
 - Membantu proyek [osu!(lazer)](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan kamu juga dapat mewujudkannya!
 - Menjadikan [situs web yang baru](https://github.com/ppy/osu-web) yang lebih baik.

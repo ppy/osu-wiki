@@ -2,7 +2,7 @@
 
 ![](img/logo.png "osu!academy logo")
 
-The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/The_Team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
+The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/osu!_team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 
@@ -14,7 +14,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 
 | No. | Title | Description |
 | :-: | :-- | :-- |
-| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the osu!(lazer) client. |
+| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client. |
 | 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explains how to install osu!, create an account, and download new beatmaps. |
 | 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) goes over the osu! mode, and explains how to adjust gameplay settings. |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) covers the basics of the osu!mania mode, including gameplay, keyboard shortcuts, hit objects, and more. |

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 2c129e5211a4caee7f4b7f2b189c6644b435fbbe
+outdated_translation: true
 ---
 
 # BBCode

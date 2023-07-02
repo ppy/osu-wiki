@@ -15,7 +15,7 @@ L'éditeur de beatmap est séparé en 4 sections qui peuvent être vues dans le 
 
 ## Compose
 
-La création des [hit objects](/wiki/Hit_object) et des autres éléments de jeu est gérée dans l'onglet [Compose](/wiki/Client/Beatmap_editor/Compose). C'est pour cette raison que la plupart des créateurs de beatmap passent le plus de temps dans cet onglet que dans les autres.
+La création des [hit objects](/wiki/Gameplay/Hit_object) et des autres éléments de jeu est gérée dans l'onglet [Compose](/wiki/Client/Beatmap_editor/Compose). C'est pour cette raison que la plupart des créateurs de beatmap passent le plus de temps dans cet onglet que dans les autres.
 
 ## Design
 
@@ -27,7 +27,7 @@ L'onglet [Timing](/wiki/Client/Beatmap_editor/Timing) gère le timing des sectio
 
 ## Song setup
 
-L'onglet [Song setup](/wiki/Client/Beatmap_editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
+L'onglet [Song setup](/wiki/Client/Beatmap_editor/Song_setup) permet de renseigner les [métadonnées](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
 
 ## Autres
 

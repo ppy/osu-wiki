@@ -10,8 +10,6 @@ Official tournaments organised by the osu! team.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-The osu! World Cup is a country-based 4v4 Team VS tournament following double-elimination rule. It is an international event and is usually done yearly with the osu! communities around the world working together to make a tournament to create a competitive nature.
-
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: Taiwan | ::{ flag=NL }:: Netherlands | ::{ flag=KR }:: South Korea |
@@ -26,7 +24,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea |
-| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -44,6 +42,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=BR }:: Brazil |
 | [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=ID }:: Indonesia |
+| [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Germany |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -60,6 +59,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=US }:: United States |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=CN }:: China |
+| [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=IT }:: Italy |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -80,6 +80,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ::{ flag=BR }:: Brazil | ::{ flag=US }:: United States | ::{ flag=MY }:: Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: South Korea | ::{ flag=BR }:: Brazil | ::{ flag=US }:: United States |
+| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: South Korea | ::{ flag=MY }:: Malaysia |
 
 ## Community
 
@@ -105,12 +106,21 @@ Unofficial tournaments/competitions hosted by the communities.
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: South Korea | ::{ flag=RU }:: Russian Federation | ::{ flag=US }:: United States |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Poland | ::{ flag=US }:: United States |
+| 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesia |
+| 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
+
+#### Aetherian's Summer Singles
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
 
 #### Ascaveth Invitational Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Ascaveth Invitational Tournament 2022 | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2022](AIT/2022) | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 
 #### Aus/NZ osu!standard Tournament
 
@@ -205,6 +215,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Old Map Fantasy World Cup](OMF/WC) | 2021-08-14 | 2021-10-03 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=PL }:: Poland |
 
+#### osu! Amateur Solo Indonesia Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Amateur Solo Indonesia Showdown](oASIS/1) | 2023-02-06 | 2023-03-21 | ::{ flag=ID }:: [im a cute bunny](https://osu.ppy.sh/users/12578000) | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) |
+
 #### osu! Asia Oceania Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -217,7 +233,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
-| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 2022-08-19 | 2022-11-06 | - | - | - |
+| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 2022-08-19 | 2022-11-06 | Miyu Archive | RUDOLF ENJOYRS | Diggas in paris |
 
 #### osu! European Tournament
 
@@ -235,6 +251,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+
+#### osu! Romania Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! Romania Tournament 2018 (High Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [Chamosiala](https://osu.ppy.sh/users/1469892) | ::{ flag=RO }:: [vali24dm](https://osu.ppy.sh/users/10398451/) |
+| osu! Romania Tournament 2018 (Low Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
+| osu! Romania Tournament 2019 | 2019-05-24 | 2019-09-14 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [osu! Romania Summer Tournament 2021](o!RT/2021) | 2021-05-24 | 2021-09-12 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -382,6 +407,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 2021-09-13 | 2021-10-31 | Rushia | Surtr S3 | L9 Hamster |
+| [Ulat Cup 2022](UCUP/2022) | 2021-09-13 | 2021-10-31 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
 
 #### Vin-Tana Solo Showdown
 
@@ -403,6 +429,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
+
+#### Yuyuko's Hidden Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Yuyuko's Hidden Cup Season 1 | 2022-05-17 | 2022-07-04 | 都怪幽神 | HD怎么打 | 队名叫有新意的名字 / 请在此处填写队名 |
+| [Yuyuko's Hidden Cup Season 2](YHC/2) | 2022-11-26 | 2023-02-05 | 懒人三项 | 老年娱乐 | 已经结束啦 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -469,6 +502,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: South Korea |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
 
@@ -481,7 +515,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Taiko 2v2 Converted Maps Tourney | 2019-03-23 | 2019-06-01 | Husha Dinámica (::{ flag=CL }:: [Alepat](https://osu.ppy.sh/users/1164931), ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011)) | >o__. (::{ flag=IT }:: [send help](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655)) | En Marche! (::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)) |
+| [Taiko 2v2 Converted Maps Tourney](TCT/v1) | 2019-03-23 | 2019-05-02 | Husha Dinámica (::{ flag=CL }:: [Alepat](https://osu.ppy.sh/users/1164931), ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011)) | >o\_\_. (::{ flag=IT }:: [send help](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655)) | En Marche! (::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)) |
 | [Taiko 2v2 Convert Tourney v2](TCT/v2) | 2020-05-02 | 2020-06-07 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
 | [Taiko 2v2 Convert Tourney v3](TCT/v3) | 2021-05-06 | 2021-06-20 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
 | [Taiko Convert Tournament v4](TCT/v4) | 2022-06-05 | 2022-07-31 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
@@ -573,6 +607,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 2021-08-16 | 2021-10-11 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| [Indonesia Convert Cup Open 2022](ICC/2022) | 2022-10-10 | 2022-11-27 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 
 #### osu! Cup Master
 
@@ -640,6 +675,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
+| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 2022-10-15 | 2022-12-18 | 猫猫面馆 | 黎曼猜想 | 均衡教派 |
 
 #### Mania Beginner's Showdown
 
@@ -670,6 +706,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) | ::{ flag=CN }:: [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 | [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 | [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 2022-01-21 | 2022-03-06 | ::{ flag=CN }:: [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| [osu!mania 4K Chinese National Cup 2022](MCNC/4K2022) | 2022-06-26 | 2022-08-21 | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
 
 #### osu!mania Asian's Champions
 
@@ -695,12 +732,19 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania LN Tournament](o!mLN/1) | 2019-03-23 | 2019-05-04 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
 | [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+| [osu!mania LN Tournament 3](o!mLN/3) | 2022-10-15 | 2022-12-04 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
 
 #### osu!mania South East Asia Champion 2020
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=VN }:: [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ::{ flag=VN }:: [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
+#### MUKASHI FESTIVAL ID
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park](MUKASHI/1) | 2022-12-03 | 2022-12-03 | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
 
 #### Score Attack Showdown
 
@@ -734,6 +778,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
+| [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
 ### Multimode
 
@@ -781,7 +826,7 @@ Unofficial tournaments/competitions hosted by the communities.
 ## See also
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Client used for tournament streaming)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"

@@ -8,7 +8,7 @@ Most technical issues can be resolved by searching or posting in the [Help forum
 
 ## General osu! support
 
-For account issues, problems with payments, ban follow-ups, enquiries about tournaments and **anything related to needing help on osu!**, please contact the [account support team](/wiki/People/The_Team/Account_support_team) by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) (account queries) or [osu@ppy.sh](mailto:osu@ppy.sh) (anything else).
+For account issues, problems with payments, ban follow-ups, enquiries about tournaments and **anything related to needing help on osu!**, please contact the [account support team](/wiki/People/Account_support_team) by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) (account queries) or [osu@ppy.sh](mailto:osu@ppy.sh) (anything else).
 
 ## Contacting peppy
 
