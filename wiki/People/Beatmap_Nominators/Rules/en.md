@@ -81,4 +81,4 @@ Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page
 
 ## Notes
 
-[^multi-keymode]: Multi keymode sets count for 2 nominations in terms of activity.
+[^multi-keymode]: Beatmap sets with multiple keymodes count as 2 nominations for activity purposes.
