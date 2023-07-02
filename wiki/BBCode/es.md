@@ -352,4 +352,4 @@ La etiqueta *encabezado (v2)* es una etiqueta desactualizada que alguna vez se u
 
 ## Referencias
 
-[^imgur-blocked-ip]: [Tuit de @ppy (29/62023)](https://twitter.com/ppy/status/1674439849749913602)
+[^imgur-blocked-ip]: [Tuit de @ppy (29/6/2023)](https://twitter.com/ppy/status/1674439849749913602)
