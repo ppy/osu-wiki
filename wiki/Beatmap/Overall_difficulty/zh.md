@@ -9,11 +9,11 @@ tags:
   - 转盘难度
 ---
 
-# 总体难度 (Overall difficulty)
+# 判定严度 (Overall difficulty)
 
 *关于建议的 OD 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
-**总体难度** (***OD***) 定义在一张[谱面](/wiki/Beatmap)中获得高[准确率](/wiki/Gameplay/Accuracy)的难度。OD 值范围为 0 ~ 10，其中较高的 OD 值会需要更高准确度和精确度。由于准确度对回[血](/wiki/Gameplay/Health)很重要，总体难度也会影响通过谱面的难度。
+**判定严度** (***OD***) 定义在一张[谱面](/wiki/Beatmap)中获得高[准确率](/wiki/Gameplay/Accuracy)的难度。OD 值范围为 0 ~ 10，其中较高的 OD 值会需要更高准确度和精确度。由于准确度对回[血](/wiki/Gameplay/Health)很重要，判定严度也会影响通过谱面的难度。
 
 ## 计时
 
@@ -21,9 +21,9 @@ tags:
 
 注意在 osu! 稳定版中，osu! 和 [osu!taiko](/wiki/Game_mode/osu!taiko) 的打击窗口两边事实上会比公式所述长度短 0.5 毫秒，在 osu!mania 中则会长 0.5 毫秒。这是因为在 osu! 和 osu!taiko 中，如果`打击偏差 < round(打击窗口)`，会认为此次打击在打击窗口内，而在 osu!mania 中，条件是`打击偏差 <= round(打击窗口)`。[^judgement-rounding-ref]
 
-比如，osu!taiko 中 OD 5 下 Great 判定的打击窗口是 ±34.5 毫秒，而不是表中给出的 ±35 毫秒。在 osu!mania 中，MAX 判定的打击窗口是 ±16.5 毫秒，不是表中给出的 ±16 毫秒。
+比如，osu!taiko 中 OD 5 下 Great 判定的打击窗口是 ±34.5 毫秒，而不是表中给出的 ±35 毫秒。在 osu!mania 中，MAX 判定的打击窗口是 ±16.5 毫秒，而非表中给出的 ±16 毫秒。
 
-光标悬停在[选歌页面的谱面信息](/wiki/Client/Interface#谱面信息)上时，可以查看判定的打击窗口，这些值总是准确的。
+光标悬停在[选歌页面的谱面信息](/wiki/Client/Interface#谱面信息)上时，可以看到判定的打击窗口，这些值总是准确的。
 
 ### osu!
 
@@ -61,9 +61,9 @@ the same formula is used in stable -->
 
 ## 滑条和转盘
 
-在 [osu!](/wiki/Game_mode/osu!) 中，只要在 50 的打击窗口内点击，[滑条](/wiki/Gameplay/Hit_object/Slider)都会得到 300 判定。这有时被称作滑条宽限，在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 被移除。
+在 [osu!](/wiki/Game_mode/osu!) 中，只要在 50 的打击窗口内点击，[滑条](/wiki/Gameplay/Hit_object/Slider)就会得到 300 判定。有时将此特性称作滑条宽限，后在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 中被移除。
 
-总体难度也会影响[转盘](/wiki/Gameplay/Hit_object/Spinner)，在于必须旋转更多才能及时填满量计。在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，转盘也会需要更多打击来完成。下列公式定义了完成转盘所需的每秒转数：<!-- TODO: this is probably totally wrong with recent spinner changes -->
+判定严度也会影响[转盘](/wiki/Gameplay/Hit_object/Spinner)，需要旋转更多才能及时填满量计。在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，转盘也会需要更多打击来完成。完成转盘所需的每秒转数由如下公式得出：<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`
@@ -71,18 +71,18 @@ the same formula is used in stable -->
 
 ## 模组效果
 
-以下 4 个[模组](/wiki/Gameplay/Game_modifier)激活时会改变总体难度：
+以下 4 个[模组](/wiki/Gameplay/Game_modifier)在激活时会改变判定严度：
 
 - [Easy](/wiki/Gameplay/Game_modifier/Easy)：将 OD 值减半。
 - [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 OD 值乘上 1.4，最大值为 10。
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：OD 值不受影响，但由于 50% 加速效果，打击窗口缩短 33%。
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：OD 值不受影响，但由于 25% 减速效果，打击窗口延长 33%。
 
-尽管 Half Time 和 Double Time 模组不改变 OD 值，但速度的不同也会导致打击窗口的改变。由于每个分数值的缩放方式不同，与 300 判定相比，DT 会导致 100 和 50 判定的窗口更紧，HT 则使其更宽。
+尽管 Half Time 和 Double Time 模组不改变 OD 值，但速度的不同也会改变打击窗口长度。由于每个分数值对应打击窗口的调整方式不同，与 300 判定相比，DT 会使 100 和 50 判定的窗口更紧，HT 则使其更宽。
 
 ## osu!catch
 
-浏览谱面信息时可以看到总体难度，但不影响游玩。
+在谱面信息内可以看到判定严度，但这个值不影响玩家游玩。
 
 ## 参考
 

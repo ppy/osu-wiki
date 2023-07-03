@@ -2,6 +2,7 @@
 stub: true
 tags:
   - train
+  - hype
   - 推荐
   - 队列
 ---
@@ -16,6 +17,6 @@ tags:
 
 ## 限制
 
-用户最初有 10 次推荐次数，在谱面上使用时会被消耗。每周会回复一次推荐次数。
+用户最初有 10 次推荐次数，推荐谱面时会消耗。每周会回复一次推荐次数。
 
 <!-- TODO: images of the beatmap page and the modding page -->
