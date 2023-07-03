@@ -147,9 +147,9 @@ NAT 领导人的职责是：
 
 ### 机器人账户
 
-| 名字 | 语言 | 所属类别 |
+| 名字 | 所属类别 |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) | 官方团队 |
 
 ## 备注
 

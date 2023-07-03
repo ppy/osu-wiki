@@ -28,6 +28,7 @@ nat:
     structural: structurel
     evaluation: évaluation
     leadership: direction
+    team: présence officielle de l'équipe
 languages:
   partial: un peu de <language>
   partial_vowel_prefix: un peu d'<language> # This key is specific to FR

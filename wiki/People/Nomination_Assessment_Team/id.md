@@ -94,6 +94,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 
 ### Akun bot
 
-| Nama | Bahasa tambahan | Tanggung Jawab Utama |
+| Nama | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) | Official team presence |

@@ -96,4 +96,4 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) | Resmi takım temsilcisi |

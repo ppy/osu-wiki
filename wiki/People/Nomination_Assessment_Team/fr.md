@@ -126,9 +126,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 ### Comptes de bot
 
-| Nom | Langues supplémentaires | Sous-groupe assigné |
+| Nom | Sous-groupe assigné |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) | Présence officielle de l'équipe |
 
 ## Notes
 
