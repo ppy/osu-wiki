@@ -4,8 +4,6 @@ legal: true
 
 # osu! 隐私政策
 
-**上一次翻译更新：2023 年 2 月 3 日**
-
 上一次英文版更新 2021 年 4 月 16 日。[在此查看更改历史](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 除此政策之外，请确保您阅读并了解我们的[服务条款](/wiki/Legal/Terms)。

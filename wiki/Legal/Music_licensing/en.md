@@ -14,7 +14,7 @@ Artists interested in joining the Featured Artist program are encouraged to cont
 
 ## Music usage in osu!
 
-Being a rhythm game, each of osu!'s user-submitted levels are synchronised to the rhythm of a song. 
+Being a rhythm game, each of osu!'s user-submitted levels are synchronised to the rhythm of a song.
 
 Users can search for and download levels from the [beatmap listing](https://osu.ppy.sh/beatmapsets) by inputting a song's artist, title, or other relevant information. Most level downloads include a song, user-created level data, a background image, and gameplay sound effects.
 
