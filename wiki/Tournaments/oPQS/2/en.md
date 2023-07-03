@@ -11,7 +11,7 @@ tags:
 
 ![oPQS banner](img/banner.png)
 
-The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a LAN tournament featuring a *Super Smash Bros.*–styled brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365), where each multiplayer room has four players playing each other in a free-for-all (1v1v1v1), held at [CONQuest PH 2023](https://www.conquestph.com/).
+The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, was a LAN tournament featuring a *Super Smash Bros.*–styled brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365), where each multiplayer room has four players playing each other in a free-for-all (1v1v1v1), held at [CONQuest PH 2023](https://www.conquestph.com/).
 
 ## Tournament schedule
 
@@ -37,7 +37,7 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 ## Organisation
 
-The osu! Philippines Quickfire Showdown 2023 is run by various community members.
+The osu! Philippines Quickfire Showdown 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -49,7 +49,7 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
 | Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Stream operator | ::{ flag=PH }:: [Sharuru](https://osu.ppy.sh/users/3436126), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
 | Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [fafa](https://osu.ppy.sh/users/12372097), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995), ::{ flag=PH }:: [Nathos](https://osu.ppy.sh/users/4785223), ::{ flag=PH }:: [Kageno](https://osu.ppy.sh/users/7246165), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518) |
+| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=PH }:: [Komi Shouko](https://osu.ppy.sh/users/12117146), ::{ flag=PH }:: [-Oblivion](https://osu.ppy.sh/users/18810732), ::{ flag=PH }:: [Sam1Ko](https://osu.ppy.sh/users/24435526) |
 | Programmer | ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=RU }:: [DeadRote](https://osu.ppy.sh/users/7943969) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 
@@ -96,6 +96,27 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
     - ::{ flag=PH }:: [Tsk](https://osu.ppy.sh/users/14389528)
     - ::{ flag=PH }:: [FiddleMinger](https://osu.ppy.sh/users/10300115)
     - ::{ flag=PH }:: [Tonskiii](https://osu.ppy.sh/users/11958707)
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### 2022-06-02 (Day 1)
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
+
+### 2022-06-03 (Day 2)
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246) |
+
 
 ## Mappools
 
