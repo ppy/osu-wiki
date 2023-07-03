@@ -23,7 +23,7 @@ Esta página te dirá cómo hacer que osu! funcione en tu dispositivo Windows. L
 
 ## Solución de problemas
 
-Si estas usando Windows 7 de 64 bits, es posible que tengas dificultades para instalar osu! correctamente. Intenta instalar las versión de 64 bits de .NET Framework, en caso de que no venga con el instalador de osu!. [Descárgalo aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Si estas usando Windows 7 de 64 bits, es posible que tengas dificultades para instalar osu! correctamente. Intenta instalar la versión de 64 bits de .NET Framework, en caso de que no venga con el instalador de osu!. [Descárgalo aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
