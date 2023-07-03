@@ -101,7 +101,7 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
 
 This competition has come to an end and resulted in the following podium:
 
-### 2022-06-02 (Day 1)
+### 2023-06-02 (Day 1)
 
 | Placing | Player |
 | :-: | :-- |
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
 
-### 2022-06-03 (Day 2)
+### 2023-06-03 (Day 2)
 
 | Placing | Player |
 | :-: | :-- |
