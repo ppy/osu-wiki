@@ -117,7 +117,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246) |
 
-
 ## Mappools
 
 ### Finals
