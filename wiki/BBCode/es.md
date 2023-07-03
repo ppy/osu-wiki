@@ -250,7 +250,7 @@ Para obtener una dirección de imagen, uno debe navegar al sitio web en el que s
 
 Aunque las imágenes se pueden obtener desde cualquier lugar, osu! recomienda que los usuarios carguen imágenes en sitios de intercambio de imágenes acreditados como [ImgBB](https://imgbb.com/), ya que algunos sitios web no aprecian los enlaces directos a sus imágenes (también conocidos como «hotlinks»).
 
-*Aviso: Imgur ha bloqueado las IPs del sitio web de osu!, por lo que las nuevas imágenes alojadas allí ya no se pueden mostrar.*[^imgur-blocked-ip]
+*Aviso: Imgur ha bloqueado las IP del sitio web de osu!, por lo que las nuevas imágenes alojadas allí ya no se pueden mostrar.*[^imgur-blocked-ip]
 
 Botón de la barra de herramientas: ![Botón de imagen](img/image.png "Imagen")
 
@@ -352,4 +352,4 @@ La etiqueta *encabezado (v2)* es una etiqueta desactualizada que alguna vez se u
 
 ## Referencias
 
-[^imgur-blocked-ip]: [Tuit de @ppy (29/6/2023)](https://twitter.com/ppy/status/1674439849749913602)
+[^imgur-blocked-ip]: [Tuit por @ppy (29/6/2023)](https://twitter.com/ppy/status/1674439849749913602)
