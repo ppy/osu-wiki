@@ -23,7 +23,7 @@ Esta página te dirá cómo hacer que osu! funcione en tu dispositivo Windows. L
 
 ## Solución de problemas
 
-Si estas usando Windows 7 de 64 bits, es posible que tengas dificultades para instalar osu! correctamente. Intenta instalar la versión de 64 bits de .NET Framework, en caso de que no venga con el instalador de osu!. [Descárgalo aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Si estás usando Windows 7 de 64 bits, es posible que tengas dificultades para instalar osu! correctamente. Intenta instalar la versión de 64 bits de .NET Framework, en caso de que no venga con el instalador de osu!. [Descárgalo aquí](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
@@ -70,7 +70,7 @@ Hay dos formas de agregar beatmaps, a través del sitio web u osu!direct (requie
      1. Ábrelo o arrástralo y suéltalo en osu!.
      2. osu! procesará la skin y lo seleccionará automáticamente para ti.
    - Si la skin está comprimida (usando `.7z`,`.rar`, `.zip`, etc.):
-     1. Extraela.
+     1. Extráela.
      2. Mueve la carpeta de la skin extraída al directorio `Skins` de la ruta de instalación de osu!.
      3. Si osu! se está ejecutando, la skin solo aparecerá en la lista después de presionar `Ctrl` + `Alt` + `Shift` + `S`.
      4. En osu!, ve a las [opciones](/wiki/Client/Options) y busca `Skin`.
