@@ -29,9 +29,9 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, ?? months of osu!supporter, Huion tablet |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, ?? months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, ?? months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 4 months of osu!supporter, Huion tablet |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, 1 months of osu!supporter |
 
 ![](img/badge.png "oPQS23 winner badge")
 
