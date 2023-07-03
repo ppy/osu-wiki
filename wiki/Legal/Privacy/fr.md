@@ -70,7 +70,7 @@ osu! contient un code exécutable qui est utilisé pour détecter l'utilisation 
 - Si l'anti-cheat détermine que vous trichez, ce fait, ainsi que les preuves sous forme de diagnostics et de métadonnées, sont envoyés à nos serveurs pour vérification. Si vous ne trichez pas, aucune donnée anti-cheat ne sera transmise.
 - Même en cas de détection, nous nous efforçons de ne jamais envoyer d'informations en dehors de l'écosystème d'osu! qui pourraient être utilisées pour vous identifier personnellement.
 - Les métadonnées transmises ne sont conservées sur notre serveur que pendant la durée où elles sont utiles. Cette durée est généralement de quelques heures à quelques jours, le temps que nous analysions le contenu transmis.
-- L'analyse est largement automatisée. Les métadonnées transmises ne sont pas accessibles aux membres de l'équipe d'assistance, et doivent être accessibles via une sécurité multicouche. Seuls les administrateurs du serveur de base de données sont en mesure de visualiser les métadonnées. 
+- L'analyse est largement automatisée. Les métadonnées transmises ne sont pas accessibles aux membres de l'équipe d'assistance, et doivent être accessibles via une sécurité multicouche. Seuls les administrateurs du serveur de base de données sont en mesure de visualiser les métadonnées.
 
 Nous respectons et apprécions votre vie privée et ne souhaitons pas imposer la peur aux utilisateurs légitimes par la présence d'un système anti-cheat dans le jeu.
 
