@@ -68,7 +68,7 @@ Hay dos formas de agregar beatmaps, a través del sitio web u osu!direct (requie
 3. Dependiendo de cómo el desollador haya empaquetado su skin, es posible que debas hacer cosas diferentes.
    - Si la skin está usando `.osk`:
      1. Ábrelo o arrástralo y suéltalo en osu!.
-     2. osu! procesará la skin y lo seleccionará automáticamente para ti.
+     2. osu! procesará la skin y la seleccionará automáticamente para ti.
    - Si la skin está comprimida (usando `.7z`,`.rar`, `.zip`, etc.):
      1. Extráela.
      2. Mueve la carpeta de la skin extraída al directorio `Skins` de la ruta de instalación de osu!.
