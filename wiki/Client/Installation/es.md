@@ -14,7 +14,7 @@ Esta página te dirá cómo hacer que osu! funcione en tu dispositivo Windows. L
 1. Ve a la [página de descarga](https://osu.ppy.sh/home/download) y descarga el instalador.
 2. Localiza y ejecuta el instalador.
 3. Mientras se ejecuta el instalador, hay un período de diez segundos que te permite seleccionar la ubicación de instalación.
-   - Si deseas cambiarla, haz clic en el texto debajo de la palabra, «¡Hola!» y selecciona la ubicación de instalación.
+   - Si deseas cambiarla, haz clic en el texto debajo de la palabra «¡Hola!», y selecciona la ubicación de instalación.
    - osu! se instalará en esa ubicación cuando termine el temporizador.
 4. Cuando se complete el instalador, osu! se pondrá en marcha. osu!direct se utilizará para descargar algunos beatmaps de inicio para ti.
 5. osu! te pedirá que inicies sesión o te registres.
