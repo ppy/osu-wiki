@@ -89,7 +89,7 @@ Le riposte a domande frequenti e le soluzioni per problemi comuni si trovano qui
 
 Restrizioni del profilo: [Silenziamento](/wiki/Silence) • [Restrizioni account](/wiki/Help_centre/Account_restrictions)
 
-Fai la tua parte: [Come e in cosa aiutare](/wiki/Community/How_you_can_help!) • [Segnala comportamenti scorretti](/wiki/Reporting_bad_behaviour) • [Segnala abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Segnala gli imbroglioni](/wiki/Reporting_bad_behaviour/Handling_foul_play)
+Fai la tua parte: [Come e in cosa aiutare](/wiki/Community/How_you_can_help!) • [Segnala comportamenti scorretti](/wiki/Reporting_bad_behaviour) • [Segnala abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Segnala i cheater](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -102,7 +102,7 @@ Posti: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_C
 
 [Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Guilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -133,7 +133,7 @@ Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ul
 
 Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository di GitHub di osu!wiki](https://github.com/ppy/osu-wiki).
 
-[Storia di osu!](/wiki/History_of_osu!) • [Storia del Classifiche Online](/wiki/History_of_osu!/Online_rankings) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
+[Storia di osu!](/wiki/History_of_osu!) • [Storia delle Classifiche Online](/wiki/History_of_osu!/Online_rankings) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 
 [Mappa del sito](/wiki/Sitemap) • [Guida per contribuire](/wiki/osu!_wiki/Contribution_guide) • [Criteri di stile degli articoli](/wiki/Article_styling_criteria) • [Criteri di stile delle notizie](/wiki/News_styling_criteria)
 
