@@ -142,12 +142,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danés | Evaluación |
 
-### Cuentas bot
-
-| Nombre | Idiomas adicionales | Categoría asignada |
-| :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
-
 ## Notas
 
 [^task-fuju]: Principalmente maneja los informes de los usuarios y administra las clasificaciones SEV para el modo de juego osu!
