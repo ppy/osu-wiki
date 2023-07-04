@@ -15,7 +15,7 @@ tags:
 
 La **dificultad general** u **overall difficulty** (***OD***) define lo difícil que es lograr una alta [precisión](/wiki/Gameplay/Accuracy) en un [beatmap](/wiki/Beatmap). El valor varía de 0 a 10, donde un OD más alto requerirá más exactitud y precisión. Dado que la precisión es importante para ganar [salud](/wiki/Gameplay/Health), la dificultad general también influye en lo difícil que es pasar un beatmap.
 
-## Tempo
+## Tiempo
 
 Los valores de OD más altos significan ventanas de tiempo más cortas para completar los [objetos](/wiki/Gameplay/Hit_object), tanto en general como en términos de obtener valores altos de [puntuación](/wiki/Gameplay/Score). El error de golpeo máximo permitido para cada objeto en [osu!](/wiki/Game_mode/osu!) y [osu!mania](/wiki/Game_mode/osu!mania), centrado en el tiempo correcto del objeto, se define en las tablas a continuación.
 
@@ -23,7 +23,7 @@ Ten en cuenta que en la versión estable de osu!, las ventanas de golpeo en osu!
 
 Por ejemplo, la ventana de golpeo de un Great en osu!taiko en OD 5 es de ±34.5 ms, en lugar de los ±35 ms que da la tabla. En osu!mania, la ventana de golpeo de un MAX es de ±16.5 ms, no de ±16 ms como sugiere la tabla.
 
-Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#beatmap-information), que siempre mostrará los valores correctos.
+Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#información-del-mapa), que siempre mostrará los valores correctos.
 
 ### osu!
 
