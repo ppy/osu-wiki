@@ -145,6 +145,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 ---
 
 Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
+
 ## Notas
 
 [^task-fuju]: Principalmente maneja los informes de los usuarios y administra las clasificaciones SEV para el modo de juego osu!
