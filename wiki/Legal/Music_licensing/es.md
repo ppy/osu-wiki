@@ -18,7 +18,7 @@ Al ser un juego de ritmo, cada uno de los niveles de osu! enviados por los usuar
 
 Los usuarios pueden buscar y descargar niveles de la [lista de beatmaps](https://osu.ppy.sh/beatmapsets) introduciendo el artista, el título u otra información relevante de la canción. La mayoría de las descargas de niveles incluyen una canción, datos del nivel creado por el usuario, una imagen de fondo y efectos de sonido del juego.
 
-Al enviar niveles, se recomienda a los creadores que obtengan permiso de los titulares de los derechos de autor para todos los recursos, de acuerdo con nuestras [directrices de uso de contenidos](/wiki/Rules/Content_Usage_Guidelines).
+Al enviar niveles, se recomienda a los creadores que obtengan permiso de los titulares de los derechos de autor para todos los recursos, de acuerdo con nuestras [directrices de uso de contenidos](/wiki/Rules/Content_usage_guidelines).
 
 ## Condiciones de licencia para los artistas destacados
 
