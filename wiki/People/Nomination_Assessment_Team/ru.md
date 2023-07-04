@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 405ec41c04df01386e405a65a8440ff8d6a12165
 tags:
   - NAT
   - нат
