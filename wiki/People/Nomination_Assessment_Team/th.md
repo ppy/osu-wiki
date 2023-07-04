@@ -49,12 +49,12 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | จีน | Evaluation, structural |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluation |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluation, structural |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Structural |
@@ -71,7 +71,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluation |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Leadership |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส | Evaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
@@ -87,7 +86,14 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | จีน | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | เวียดนาม | Evaluation |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | สเปน | Evaluation |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | จีน | Evaluation |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | เกาหลี | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluation |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | เดนมาร์ก | Evaluation |
+
+### Bot accounts
+
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
