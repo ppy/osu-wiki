@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Packs Update: July 2023"
+title: "Beatmap Packs Update: New Categories"
 date: 2023-07-05 09:00:00 +0000
 ---
 
