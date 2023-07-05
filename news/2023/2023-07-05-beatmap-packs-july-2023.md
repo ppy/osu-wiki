@@ -13,9 +13,8 @@ I like maps. You like maps. We all like maps.
 For this reason, the mad scientists over at osu! labs have been synthesizing new ways to pump high-quality beatmaps directly into your bloodstream, and their latest creations are sure to excite you!
 
 Introducing three new categories of mappack!
-- Project Loved Packs
-- Tournament Packs
-- Centurion Packs
+
+![](https://chromb.uk/personal/packsbanner2.png)
 
 ---
 
