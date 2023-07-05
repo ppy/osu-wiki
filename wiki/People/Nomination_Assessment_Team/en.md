@@ -144,11 +144,9 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish | Evaluation |
 
-### Bot accounts
+---
 
-| Name | Additional languages | Assigned category |
-| :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+In addition, the [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) bot acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing it to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
 
 ## Notes
 
