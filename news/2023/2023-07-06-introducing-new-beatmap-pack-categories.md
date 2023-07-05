@@ -37,6 +37,6 @@ These packs can be found in the [themed pack listing](https://osu.ppy.sh/beatmap
 
 ---
 
-In addition to all of this, we would like to welcome [Shige-Tori[a]](https://osu.ppy.sh/users/4459449) as the new maintainer of the regular beatmap packs! (may he soon escape spreadsheet hell 🙏)
+In addition to all of this, we would like to welcome [Shige-Tori[a]](https://osu.ppy.sh/users/4459449) as the new maintainer of the regular beatmap packs!
 
 —chromb
