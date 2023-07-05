@@ -243,7 +243,7 @@ Il tag `[img]` viene utilizzato per includere immagini online nei post del forum
 
 Per ottenere un indirizzo immagine, è necessario navigare sul sito web di provenienza, posizionare il mouse sopra l'immagine, fare clic con il tasto destro sull'immagine e selezionare `Copia indirizzo immagine`. Quindi, l'indirizzo dovrebbe essere copiato e incollato tra i tag.
 
-Sebbene le immagini possano essere prese da qualsiasi sito, osu! raccomanda agli utenti di caricare le immagini su siti di condivisione di immagini affidabili come [ImgBB](https://imgbb.com/), poiché alcuni siti web non apprezzano i collegamenti diretti alle loro immagini (anche noti come "hotlinks").
+Sebbene le immagini possano essere prese da qualsiasi sito, osu! raccomanda agli utenti di caricarle su siti di condivisione di immagini affidabili come [ImgBB](https://imgbb.com/), poiché alcuni siti web non apprezzano i collegamenti diretti alle loro immagini (anche noti come "hotlinks").
 
 *Nota: Imgur ha bloccato gli indirizzi IP del sito di osu!, quindi tutte le nuove immagini aggiunte su questo servizio non potranno essere mostrate.*[^imgur-blocked-ip]
 
