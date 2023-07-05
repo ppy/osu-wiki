@@ -50,8 +50,8 @@ Witness osu!'s top players duke it out *in person* for unending glory. (And cool
 | **osu! Scavenger Hunt** | Day 1 | 2023-07-07 (20:00) |
 | **Are You Smarter Than an osu! Player?** | Day 1 | 2023-07-07 (23:00) |
 | **Blitz Jenga** | Day 2 | 2023-07-08 (18:00) |
-| **Reaction Time Buzzer Contest** | Day 2 | 2023-07-09 (02:30) |
-| **Hot Ones Hot Wings Challenge** | Day 2 | 2023-07-09 (04:00) |
+| **Reaction Time Buzzer Contest** | Day 3 | 2023-07-09 (02:30) |
+| **Hot Ones Hot Wings Challenge** | Day 3 | 2023-07-09 (04:00) |
 
 Keep in mind that all times are estimates! This is a live event, so some side events may be excluded due to time constraints.
 
