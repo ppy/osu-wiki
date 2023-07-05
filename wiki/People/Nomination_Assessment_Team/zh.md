@@ -147,6 +147,12 @@ NAT 领导人的职责是：
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估 |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 丹麦语 | 评估 |
 
+### 机器人账户
+
+| 名字 | 语言 | 所属类别 |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+
 ## 备注
 
 [^task-fuju]: 主要负责处理玩家举报，管理 osu! 游戏模式的 SEV 分数
@@ -154,9 +160,3 @@ NAT 领导人的职责是：
 [^task-naxess]: 主要负责维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: 主要负责维护 [NAT/BN 网站](https://bn.mappersguild.com/home)
 [^task-star]: 主要负责给谱面上架标准 (RC) 考试出题
-
-### 机器人账户
-
-| 名字 | 语言 | 所属类别 |
-| :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

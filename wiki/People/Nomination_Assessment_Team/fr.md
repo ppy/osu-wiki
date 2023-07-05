@@ -130,6 +130,8 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
 
+## Notes
+
 [^task-mo]: Gère principalement les discussions internes, les affaires et la documentation
 [^task-naxess]: Maintient principalement [Aiess](https://github.com/Naxesss/Aiess) et [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: Maintient principalement [le site web des NAT/BN](https://bn.mappersguild.com/home)
