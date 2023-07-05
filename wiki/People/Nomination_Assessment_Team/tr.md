@@ -91,3 +91,9 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korece | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danca | Evaluation |
+
+### Bot hesaplar
+
+| İsim | Ek diller | Birincil sorumluluklar |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

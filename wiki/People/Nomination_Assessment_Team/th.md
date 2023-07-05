@@ -91,3 +91,9 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | เกาหลี | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | เดนมาร์ก | Evaluation |
+
+### Bot accounts
+
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

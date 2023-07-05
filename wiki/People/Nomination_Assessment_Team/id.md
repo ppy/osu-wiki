@@ -91,3 +91,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korea | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Denmark | Evaluation |
+
+### Akun bot
+
+| Nama | Bahasa tambahan | Tanggung Jawab Utama |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

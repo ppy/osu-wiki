@@ -144,6 +144,12 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 덴마크어 | 평가위원 |
 
+### Bot accounts
+
+| 이름 | 구사 언어 | 배정 그룹 |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+
 ## 참고
 
 [^task-fuju]: 유저 신고와 osu! 게임 모드의 SEV 등급을 주로 관리합니다.

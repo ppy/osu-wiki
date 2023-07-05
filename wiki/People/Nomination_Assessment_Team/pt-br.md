@@ -91,3 +91,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coreano | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésio | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dinamarquês | Evaluation |
+
+### Contas de bot
+
+| Nome | Línguas adicionais | Responsabilidades primárias |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
