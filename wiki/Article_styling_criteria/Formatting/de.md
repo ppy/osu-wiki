@@ -592,7 +592,7 @@ Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordne
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
 ```markdown
-*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_Criteria#timing)*
+*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Andere osu!-Links
