@@ -8,11 +8,11 @@ Check out the latest and greatest new beatmap pack categories!
 
 ![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/banner.png)
 
-I like maps. You like maps. We all like maps.
+Everyone wants more beatmaps.
 
 For this reason, the mad scientists over at osu! labs have been synthesizing new ways to pump high-quality beatmaps directly into your bloodstream, and their latest creations are sure to excite you!
 
-Introducing three new categories of mappack!
+Introducing the new beatmap pack categories!
 
 ![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/new-beatmap-pack-categories.png)
 
