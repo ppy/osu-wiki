@@ -14,15 +14,13 @@ This **3-day** event from **July 7–9** features **2 major tournaments** and a 
 
 ## Schedule
 
-### Tournaments
-
 | Event | Day | Timestamp (UTC) |
 | --: | :-- | :-- |
 | [**16-player battle royale**](#16-player-battle-royale) | Day 1 | 2023-07-07 (18:00) |
 | [**1v1 double-elimination tournament**](#1v1-double-elimination-tournament) | Day 2 | 2023-07-08 (19:00) |
 | [**1v1 double-elimination tournament**](#1v1-double-elimination-tournament) | Day 3 | 2023-07-09 (17:30) |
 
-#### 16-player battle royale
+### 16-player battle royale
 
 Before diving into the main event, players will be warming up their competitive drives with a **16-player battle royale**!
 
@@ -30,7 +28,7 @@ The LAN setup has 8 computers, so players will be split into two groups of 8. Ea
 
 Once both groups have been narrowed down to a single player, the finalists will face head to head in a **best-of-13 competition!**
 
-#### 1v1 double-elimination tournament
+### 1v1 double-elimination tournament
 
 Everything is on the line for **The Roundtable II**'s main event: a **double-elimination 1v1 tournament**!
 
@@ -45,15 +43,7 @@ Witness osu!'s top players duke it out *in person* for unending glory. (And cool
 
 ### Side events
 
-| Event | Day | Timestamp |
-| --: | :-- | :-- |
-| **osu! Scavenger Hunt** | Day 1 | 2023-07-07 (20:00) |
-| **Are You Smarter Than an osu! Player?** | Day 1 | 2023-07-07 (23:00) |
-| **Blitz Jenga** | Day 2 | 2023-07-08 (18:00) |
-| **Reaction Time Buzzer Contest** | Day 2 | 2023-07-09 (02:30) |
-| **Hot Ones Hot Wings Challenge** | Day 2 | 2023-07-09 (04:00) |
-
-Keep in mind that all times are estimates! This is a live event, so some side events may be excluded due to time constraints.
+While tournaments are the big attractions for this weekend's event, there's more in store! A variety of small events will be hosted in downtime between or after tournament matches, showcasing osu! players in more than their exclusive circle-clicking habitat.
 
 ## Participants
 
