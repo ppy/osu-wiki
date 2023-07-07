@@ -6,7 +6,7 @@ date: 2023-07-06 09:00:00 +0000
 
 The beatmap pack scene is taking off in 2023 with a number of all-new categories and some new talent to boot!
 
-![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/banner.png)
+![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/banner.jpg)
 
 What's the one thing better than a beatmap? *More* beatmaps.
 
