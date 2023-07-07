@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Roundtable II"
-date: 2023-07-06 19:00:00 +0000
+date: 2023-07-07 12:00:00 +0000
 ---
 
 16 of osu!'s fiercest tournament players battle in this year's edition of **The Roundtable**, a major in-person invitational tournament hosted by [BTMC](https://osu.ppy.sh/users/3171691)!
 
-![](/wiki/shared/news/2023-07-06-the-roundtable-ii/banner.jpg)
+![](/wiki/shared/news/2023-07-07-the-roundtable-ii/banner.jpg)
 
 **The Roundtable II** takes the concept behind [last year's prototype tournament](/wiki/Tournaments/The_Roundtable) and raises the bar tenfold.
 
@@ -59,7 +59,7 @@ Keep in mind that all times are estimates! This is a live event, so some side ev
 
 This year's roster features players from all over the globe, along with the highest-calibre commentators that osu! has to offer:
 
-![](/wiki/shared/news/2023-07-06-the-roundtable-ii/roundtable2.jpg)
+![](/wiki/shared/news/2023-07-07-the-roundtable-ii/roundtable2.jpg)
 
 ---
 
