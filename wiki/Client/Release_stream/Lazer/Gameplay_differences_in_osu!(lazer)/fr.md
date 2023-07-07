@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
+---
+
 # Comparaison des fonctionnalités de osu!(lazer)
 
 *Pour une liste plus condensée des fonctionnalités, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#comparaison-des-fonctionnalités)*.
