@@ -44,7 +44,9 @@ To this day, there are only *14* mappers who have reached the incredible milesto
 
 These packs can be found in the [themed pack listing](https://osu.ppy.sh/beatmaps/packs?type=theme), so why not give them a spin?
 
-In addition to the packs, all of the mappers to have achieved this ridiculous milestone have also been granted a *shiny* new profile badge (many thanks to [Tanza3D](https://osu.ppy.sh/users/10379965) for the design)
+In addition to the packs, all of the mappers to have achieved this ridiculous milestone have also been granted an *exquisite* new profile badge (many thanks to [Tanza3D](https://osu.ppy.sh/users/10379965) for the design).
+
+In particular, for their astounding dedication to the creation of beatmaps, the entire team would like to extend utmost ongratulations to ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599), ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) and ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347)!
 
 ---
 
