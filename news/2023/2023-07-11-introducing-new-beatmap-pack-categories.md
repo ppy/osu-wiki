@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Introducing New Beatmap Pack Categories"
-date: 2023-07-06 09:00:00 +0000
+date: 2023-07-11 09:00:00 +0000
 ---
 
 The beatmap pack scene is taking off in 2023 with a number of all-new categories and some new talent to boot!
 
-![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/banner.jpg)
+![](/wiki/shared/news/2023-07-11-introducing-new-beatmap-pack-categories/banner.jpg)
 
 What's the one thing better than a beatmap? *More* beatmaps.
 
@@ -20,7 +20,7 @@ But first, we'd like to welcome some new talent into the beatmap packing busines
 
 Now, let's stop asking questions and take a look at the new beatmap pack categories:
 
-![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/new-beatmap-pack-categories.png)
+![](/wiki/shared/news/2023-07-11-introducing-new-beatmap-pack-categories/new-beatmap-pack-categories.png)
 
 ## Project Loved packs
 
@@ -38,7 +38,7 @@ Give yourself a challenge over at the [tournament pack listing](https://osu.ppy.
 
 ## Centurion packs
 
-![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/centurion-banner.png)
+![](/wiki/shared/news/2023-07-11-introducing-new-beatmap-pack-categories/centurion-banner.png)
 
 To this day, there are only *14* mappers who have reached the incredible milestone of creating **one hundred** (or more) Ranked beatmaps, so after some *light interrogation* of these industrious creators, we're excited to bring you the all-new centurion packs! Each pack represents a selection of a given centurion's most beloved creations, namely the beatmaps they're most proud of making.
 
