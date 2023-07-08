@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Krimek"
-date: 2023-07-08 11:00:00 +0000
+date: 2023-07-08 15:00:00 +0000
 ---
 
 Another resident of the osu! community joins the ranks. Welcome **Krimek** to our Featured Artists!
