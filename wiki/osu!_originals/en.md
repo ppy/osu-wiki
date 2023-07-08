@@ -303,6 +303,21 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Dictate & Spazza17 - Charlie's Perfect Math Class](https://www.youtube.com/watch?v=baAzs6QMeRg)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1799284) | Pool C FreeMod pick (C1) |
 | [kanemiko - Stellar Proximity Shift](https://soundcloud.com/kanemiko/stellar-proximity-shift) | [#1](https://osu.ppy.sh/beatmapsets/1799362) | Pool B FreeMod pick (B1) |
 
+#### ![](/wiki/shared/mode/osu.png) Coul's Scuffed Overskilled 5 Digit Cup
+| :-: | :-: | :-- |
+| [Jeko - ØSU! TUTORIÄL (jeko's "ÆONIC KÄB00M!!!" remix)](https://www.youtube.com/watch?v=u-0rN8dUrBM) | [#1](https://osu.ppy.sh/beatmapsets/2000805) | Quarterfinals Tiebreaker |
+| [Lxchee - //P0NIES|IN|0UTER|SPACE\\](https://soundcloud.com/lxchee/fc-cso5dc-poniesinouterspace) | [#1](https://osu.ppy.sh/beatmapsets/2004695) | Semifinals NM4 |
+| [coµl vs. z u y a - acesoseeker](https://soundcloud.com/coulmusic/acesoseeker) | [#1](https://osu.ppy.sh/beatmapsets/2004696) | Semifinals NM5 |
+| [coµl & Naikou - LLII-3 MiSSiON](https://www.youtube.com/watch?v=ty5sEki5hiI) | [#1](https://osu.ppy.sh/beatmapsets/2004697) | Semifinals Tiebreaker |
+| [satoru ohno - NotSoSafeBoot](https://soundcloud.com/satoruohno/satoruohno-notsosafeboot) | [#1](https://osu.ppy.sh/beatmapsets/2008564) | Finals NM6 |
+| [Naikou & Cedric Milhau - Po5t-m0d3rn_Nostalgia](https://break-trax.bandcamp.com/track/po5t-m0d3rn-nostalgia) | [#1](https://osu.ppy.sh/beatmapsets/2008537) | Finals Tiebreaker |
+| [Naikou - J1407B](https://break-trax.bandcamp.com/track/j1407b) | [#1](https://osu.ppy.sh/beatmapsets/2012614) | Grandfinals NM2 |
+| [roər - ∀NARCHIC LIGHT](https://soundcloud.com/rroer/anarchic-light) | [#1](https://soundcloud.com/rroer/anarchic-light) | Grandfinals NM4 |
+| [Dakshyto - XFADYAMNS](https://soundcloud.com/user-470520450/dakshyto-xfadyamns-fc-cols-scuffed-overskilled-5-digit-cup) | [#1](https://osu.ppy.sh/beatmapsets/2012649) | Grandfinals NM5 |
+| [coµl & thiccarlos - METROgnome](https://soundcloud.com/coulmusic/metrognome) | [#1](https://osu.ppy.sh/beatmapsets/2012654) | Grandfinals NM6 |
+| [Auzenlyxius - ΛnoctisiΛ](https://soundcloud.com/auzenlyxius/anoctisia) | [#1](https://osu.ppy.sh/beatmapsets/2012591) | Grandfinals HR2 |
+| [{UN//KNOWN:ENERGY} - ://C0DE:N#ME AP0110\\:](https://soundcloud.com/break-trax/fc-cso5dc-unknownenergy-c0denme-ap0110) | [#1](https://osu.ppy.sh/beatmapsets/2012652) | Grandfinals Tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) [Coffee Hispanic: Mocha](/wiki/Tournaments/CH/CHM_1)
 
 | Song | Beatmap | Notes |
