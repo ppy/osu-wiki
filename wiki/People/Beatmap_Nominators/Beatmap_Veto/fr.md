@@ -43,8 +43,6 @@ Pour relancer une médiation qui a abouti au rejet d'un veto, un Beatmap Nominat
 
 **Si le veto d'une beatmap est maintenu**, la beatmap ne pourra pas être nominée jusqu'à ce que des changements appropriés soient apportés pour remédier aux problèmes présents.
 
-Pour relancer une médiation qui a abouti à la confirmation d'un veto, il faut soit que le Beatmap Nominator change d'avis, soit que les membres du jury qui ont confirmé le veto changent d'avis au point que le résultat de la médiation aurait été différent. La médiation sera alors relancée avec un nouveau jury sélectionné au hasard.
-
 Une fois les modifications apportées à la beatmap, le Beatmap Nominator qui a exercé son veto sur la beatmap, ainsi que les membres du jury qui l'ont maintenu, seront appelés à vérifier à nouveau la beatmap et à décider individuellement si les problèmes ont été résolus de manière satisfaisante.
 
 ## Contester le veto d'une beatmap
@@ -54,7 +52,10 @@ Si le veto d'une beatmap est maintenu, le mappeur peut demander une autre média
 - La dernière médiation de veto a été conclue depuis au moins un an.
 - La beatmap a actuellement 2 Beatmap Nominators qui sont prêts à la nominer, au cas où le veto serait rejeté plus tard.
 
-Pour demander une nouvelle médiation, le mappeur doit contacter un membre de la NAT du mode de jeu de la beatmap ayant fait l'objet d'un veto. Cette demande doit inclure un lien vers le post de conclusion de la médiation initiale, ainsi que les noms des 2 BN qui sont prêts à nominer la beatmap. La NAT contactera alors les 2 BN, et s'il n'y a pas de problème, la NAT ré-initialisera la médiation avec un nouveau jury sélectionné au hasard.
+Pour demander une nouvelle médiation, le mappeur doit contacter un membre de la NAT du mode de jeu de la beatmap ayant fait l'objet d'un veto. Cette demande doit inclure un lien vers le post de conclusion de la médiation initiale, ainsi que les noms des 2 BN qui sont prêts à nominer la beatmap. La NAT contactera alors les 2 BN, et s'il n'y a pas de problème, la NAT ré-initialisera la médiation avec des conditions spéciales :
+
+- Le jury sera composé de tous les membres de la NAT et des BN du mode de jeu de la beatmap ayant fait l'objet d'un veto.
+- La médiation durera 2 semaines.
 
 **Si le veto est rejeté**, les 2 BN mentionnés ci-dessus peuvent nominer la beatmap. Si ces BN ne sont plus disposés à la nominer, leur position en tant que Beatmap Nominators peut être remise en question.
 

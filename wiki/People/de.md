@@ -19,13 +19,13 @@ Indexseite für Artikel über Personen oder Gruppen.
 - [osu! Alumni](osu!_Alumni)
 - [osu!-Team](osu!_team)
 - [Betreuer des osu!-Wikis](osu!_wiki_maintainers)
-- [osu!monthly-Team](osu!monthly_team)
 
 ## Ehemalig
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
+- [osu!monthly-Team](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Andere

@@ -11,7 +11,7 @@ tags:
 
 ![oPQS banner](img/banner.png)
 
-The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, is a LAN tournament featuring a *Super Smash Bros.*–styled brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365), where each multiplayer room has four players playing each other in a free-for-all (1v1v1v1), held at [CONQuest PH 2023](https://www.conquestph.com/).
+The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as **osu! Philippines Quickfire Showdown 2023 Presented by Huion** for sponsorship reasons, was a LAN tournament featuring a *Super Smash Bros.*–styled brawl format first used in the [Benelux Mania Tournament 2023](https://osu.ppy.sh/community/forums/topics/1615365), where each multiplayer room has four players playing each other in a free-for-all (1v1v1v1), held at [CONQuest PH 2023](https://www.conquestph.com/).
 
 ## Tournament schedule
 
@@ -29,15 +29,15 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, ?? months of osu!supporter, Huion tablet |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, ?? months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, ?? months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 4 months of osu!supporter, Huion tablet |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, 1 month of osu!supporter |
 
 ![](img/badge.png "oPQS23 winner badge")
 
 ## Organisation
 
-The osu! Philippines Quickfire Showdown 2023 is run by various community members.
+The osu! Philippines Quickfire Showdown 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -47,8 +47,10 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
 | Playtester | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=US }:: [SilenceSuzuka](https://osu.ppy.sh/users/7249644), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=PH }:: [xX_MusicMan_Xx](https://osu.ppy.sh/users/5718989), ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
 | Spreadsheet manager | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
 | Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895) |
-| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518) |
+| Stream operator | ::{ flag=PH }:: [Sharuru](https://osu.ppy.sh/users/3436126), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
+| Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [fafa](https://osu.ppy.sh/users/12372097), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995), ::{ flag=PH }:: [Nathos](https://osu.ppy.sh/users/4785223), ::{ flag=PH }:: [Kageno](https://osu.ppy.sh/users/7246165), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=PH }:: [Komi Shouko](https://osu.ppy.sh/users/12117146), ::{ flag=PH }:: [-Oblivion](https://osu.ppy.sh/users/18810732), ::{ flag=PH }:: [Sam1Ko](https://osu.ppy.sh/users/24435526) |
+| Programmer | ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=RU }:: [DeadRote](https://osu.ppy.sh/users/7943969) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 
 ## Links
@@ -95,7 +97,27 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
     - ::{ flag=PH }:: [FiddleMinger](https://osu.ppy.sh/users/10300115)
     - ::{ flag=PH }:: [Tonskiii](https://osu.ppy.sh/users/11958707)
 
-## Mappool
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### 2023-06-02 (day 1)
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
+
+### 2023-06-03 (day 2)
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246) |
+
+## Mappools
 
 ### Finals
 
@@ -155,7 +177,7 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
 
 ### Round of 16
 
-- NoMod
+- No Mod
   1. [Twin-Tails - Twintail Dreamer! (TV Size) [Baka's Twintail Extra]](https://osu.ppy.sh/beatmapsets/1115213#osu/2331868)
   2. [Mitsukiyo - Theme 91 [freeuma]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
   3. [Tarako - Bing Chilling-ish [My Angel Jeremy's Social Credit Grind]](https://osu.ppy.sh/beatmapsets/1820912#osu/3736423)
@@ -197,6 +219,53 @@ The osu! Philippines Quickfire Showdown 2023 is run by various community members
 - Double Time
   1. [Eri Sasaki - Gate of Steiner (xbopost) [Milky-way Crossing]](https://osu.ppy.sh/beatmapsets/1010752#osu/2115799)
   2. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [mithew's Light Insane]](https://osu.ppy.sh/beatmapsets/581787#osu/1478254)
+
+## Match results
+
+### Day 2
+
+#### Finals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| **NathanRam1918** | Yukixo | Lunasen_ | Miggie | **47** - 14 - 24 - 27 | [#1](https://osu.ppy.sh/community/matches/108812832) |
+
+#### Semifinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| bluezenithgames | **Miggie** | Blasy | **Lunasen_** | 15 - **40** - 13 - **44** | [#1](https://osu.ppy.sh/community/matches/108812353) |
+| **NathanRam1918** | -Myhra | **Yukixo** | Kexrus | **45** - 28 - **28** - 11 | [#1](https://osu.ppy.sh/community/matches/108811580) |
+
+#### Quarterfinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| LordGabriel | Dunn | **Lunasen_** | **Kexrus** | 25 - 11 - **43** - **33** | [#1](https://osu.ppy.sh/community/matches/108810865) |
+| **Yukixo** | T-Spin-Double | Segawa Emi | **Blasy** | **41** - 8 - 28 - **35** | [#1](https://osu.ppy.sh/community/matches/108810838) |
+| **Miggie** | Ravel | **-Myhra** | okirema | **53** - 11 - **29** - 19 | [#1](https://osu.ppy.sh/community/matches/108809950) |
+| **NathanRam1918** | CasualHexagons | **bluezenithgames** | OsuSeulgiDragon | **56** - 10 - **28** - 18 | [#1](https://osu.ppy.sh/community/matches/108809952) |
+
+### Day 1
+
+#### Finals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| **Impowster** | rwnd_ | CircIes | fixedbyglue | **44** - 16 - 34 - 18 | [#1](https://osu.ppy.sh/community/matches/108794487) |
+
+#### Semifinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| **CircIes** | xjfn | **fixedbyglue** | rexralph1 | **53** - 19 - **27** - 13 | [#1](https://osu.ppy.sh/community/matches/108793846) |
+| **Impowster** | **rwnd_** | Desmond823 | Nyashwa | **47** - **38** - 13 - 14 | [#1](https://osu.ppy.sh/community/matches/108793043) |
+
+#### Quarterfinals
+
+| Player 1 | Player 2 | Player 3 | Player 4 | Score | Match link |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| **rexralph1** | **Nyashwa** | Geanyl | Buizie | **39** - **34** - 27 - 12 | [#1](https://osu.ppy.sh/community/matches/108792396) |
 
 ## Ruleset
 

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
----
-
 # Hạn chế tài khoản
 
 *Bài báo chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
@@ -13,6 +8,9 @@ Khi một tài khoản bị hạn chế, họ sẽ không thể tương tác v�
 
 Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn chế:
 
+- khả năng tham dự sự kiện chính thức
+- khả năng tham dự và hỗ trợ các giải đấu chính thức
+- khả năng tham dự các phòng mutilplayer
 - chat trong game
 - nhắn tin riêng tư
 - đăng lên diễn đàn hay bình luận
@@ -50,7 +48,7 @@ Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi
 - **Tiếp tục tận hưởng game!** Khi tài khoản của bạn bị hạn chế, và bạn đang trong thời gian chờ, bạn vẫn có thể tiếp tục chơi game (miễn là ở tài khoản chính!). Điểm bạn ghi được khi bị hạn chế cũng sẽ được ghi nhận khi bạn được gỡ hạn chế (trừ khi bạn bị rollback).
 - **Giữ thái độ tốt.** Chúng tôi hiểu rằng việc bị hạn chế có thể gây khó chịu, nhưng hãy coi như đây là một cơ hội cho bạn tạm nghỉ, rời xa cộng đồng. Hãy tránh tương tác với cộng đồng trong một vài ngày (bất kể qua Discord, mạng xã hội, hay bất cứ hình thức liên lạc nào khác) để hối cải về hành động bạn đã làm khiến cho tài khoản bị hạn chế.
 - **Đảm bảo bạn tuân thủ nội quy.** Hạn chế dài hạn là hình phạt cho việc phạm quy. Nếu bạn vẫn tái phạm khi bị hạn chế, thời gian chờ để xin khiếu nại sẽ được tính lại về tối thiểu **ba tháng** kể từ lần vi phạm gần đây nhất. Các hành vi được coi là tái phạm bao gồm: tiếp tục gian lận (sáu tháng trong trường hợp này), truy cập tài khoản của người khác, hoặc tạo tài khoản mới để né hạn chế.
-- **Làm theo hướng dẫn của đội ngũ hỗ trợ.** Thời gian chờ 3 tháng là cơ hội để bạn nghỉ và hối cải. Nếu bạn gửi khiếu nại trước khi hết thời hạn này, email của bạn sẽ bị bỏ qua. Nếu bạn không rõ khi nào bạn có thể xin khiếu nại, hay bạn nên chơi trên tài khoản nào (và xin khiếu nại từ cái nào), bạn có thể gửi email để hỏi chúng tôi.
+- **Làm theo hướng dẫn của đội ngũ hỗ trợ.** Thời gian chờ là cơ hội để bạn nghỉ và hối cải. Nếu bạn gửi khiếu nại trước khi hết thời hạn này, email của bạn sẽ bị bỏ qua. Nếu bạn không rõ khi nào bạn có thể xin khiếu nại, hay bạn nên chơi trên tài khoản nào (và xin khiếu nại từ cái nào), bạn có thể gửi email để hỏi chúng tôi.
 - **Đừng e ngại liên lạc chúng tôi khi có câu hỏi.** Miễn là bạn không cố né tránh hình phạt, chúng tôi sẽ vui vẻ trả lời bất cứ câu hỏi nào liên quan đến việc hạn chế tài khoản của bạn!
 
 ## Thời gian chờ của tôi đã hết. Khiếu nại thế nào? {id=appeal}
@@ -73,7 +71,7 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 - **Bạn không nên liên đới với các tài khoản khác** bao gồm chơi ở các máy tính dùng chung (như quán net, ...).
 - **Bất cứ vi phạm lớn nào sẽ khiến bạn bị hạn chế ngay lập tức**. Điều này bao gồm việc bị Im lặng lâu.
 
-Đối với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
+Người trơi trở lại theo tiêu chuẩn cộng đồng cũng sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
 **Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vĩnh viễn khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố gửi) và sẽ không thể được gỡ bỏ, hay giảm đi với bất cứ lý do nào.
 

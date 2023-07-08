@@ -10,7 +10,7 @@
 
 |  |  |
 | :-- | :-- |
-| Lien d'invitation | <https://discord.gg/FqbDdYN> |
+| Lien d'invitation | <https://discord.gg/maniahub> |
 
 :::
 
@@ -28,8 +28,8 @@ Ce serveur est principalement composé de :
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805) |
-| Modérateurs du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859) |
+| Propriétaire du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (famoss) |
+| Modérateurs du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (famoss), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (tailsdk), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (maxus_), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (popegadget), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (protastic101) |
 
 ## Vérification
 
