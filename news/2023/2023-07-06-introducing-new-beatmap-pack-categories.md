@@ -38,9 +38,13 @@ Give yourself a challenge over at the [tournament pack listing](https://osu.ppy.
 
 ## Centurion packs
 
+![](/wiki/shared/news/2023-07-06-introducing-new-beatmap-pack-categories/centurion-banner.png)
+
 To this day, there are only *14* mappers who have reached the incredible milestone of creating **one hundred** (or more) Ranked beatmaps, so after some *light interrogation* of these industrious creators, we're excited to bring you the all-new centurion packs! Each pack represents a selection of a given centurion's most beloved creations, namely the beatmaps they're most proud of making.
 
 These packs can be found in the [themed pack listing](https://osu.ppy.sh/beatmaps/packs?type=theme), so why not give them a spin?
+
+In addition to the packs, all of the mappers to have achieved this ridiculous milestone have also been granted a *shiny* new profile badge (many thanks to [Tanza3D](https://osu.ppy.sh/users/10379965) for the design)
 
 ---
 
