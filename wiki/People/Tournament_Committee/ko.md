@@ -38,6 +38,6 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
 
-## 알럼나이
+## Alumni
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
