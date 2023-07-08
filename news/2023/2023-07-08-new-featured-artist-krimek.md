@@ -58,7 +58,7 @@ For those out of the loop, playlist leaders earn prizes based on [this cumulativ
 
 ### Cumulative leaderboard updates
 
-<RANKINGS_GO_HERE>
+We're currently reprocessing the last round of Featured Artist playlists after some recent changes to how scoring is handled on osu!(lazer). We expect this to take anywhere from 24-48 hours, so please check back then if you're interested in the results or updates on their progress!
 
 Another playlist will be launched next week for **all modes** (alongside a *highly requested* new Featured Artist), so if you're itching to earn a profile badge of your own while listening to tier tunes, look out for that!
 
