@@ -12,7 +12,7 @@ Avid osu! mapper, former player, and tournament/contest host **Krimek** has expa
 
 **15** songs make up [**Krimek**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/371), including every tune from **Krimek**'s debut album *GALAXY OF MIND/MINE*!
 
-If you're debating whether or not to map one of **Krimek**'s tracks, gain some inspiration through SOMETHING RELATED TO THE ROUNDTABLE TBD:
+If you're debating whether or not to map one of these tracks, gain some inspiration from [ChillierPear](https://osu.ppy.sh/users/9501251) warming up to an intense tournament while vibing to one of **Krimek**'s many chill and soothing soundscapes:
 
 <div align="center">
     <video width="95%" controls>
@@ -58,7 +58,7 @@ For those out of the loop, playlist leaders earn prizes based on [this cumulativ
 
 ### Cumulative leaderboard updates
 
-We're currently reprocessing the last round of Featured Artist playlists after some recent changes to how scoring is handled on osu!(lazer). We expect this to take anywhere from 24-48 hours, so please check back then if you're interested in the results or updates on their progress!
+We're currently reprocessing the last round of Featured Artist playlists after some recent changes to how scoring is handled on osu!(lazer). We expect this to take anywhere from 24–48 hours, so please check back then if you're interested in the results or updates on their progress!
 
 Another playlist will be launched next week for **all modes** (alongside a *highly requested* new Featured Artist), so if you're itching to earn a profile badge of your own while listening to tier tunes, look out for that!
 
