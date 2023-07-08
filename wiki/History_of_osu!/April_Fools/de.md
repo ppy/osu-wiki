@@ -16,7 +16,7 @@ tags:
 
 *Für die gesamte Geschichte von osu!, siehe: [Geschichte von osu!](/wiki/History_of_osu!)*
 
-Jedes Jahr spielt das [osu!-Team](/wiki/People/The_Team) der Community gerne Streiche am 1. April. Dieser Artikel listet alle Aprilscherze auf, die seit 2009 in der osu!-Community veranstaltet wurden.
+Jedes Jahr spielt das [osu!-Team](/wiki/People/osu!_team) der Community gerne Streiche am 1. April. Dieser Artikel listet alle Aprilscherze auf, die seit 2009 in der osu!-Community veranstaltet wurden.
 
 ## 2009
 
@@ -44,13 +44,13 @@ Es gab damals ebenfalls eine Mitteilung von [Ephemeral](https://osu.ppy.sh/users
 
 ### osu!core
 
-"osu!core" ist der Name des osu!-Aprilscherzes 2011. Der Streich führte dazu, dass das Audio jeder einzelnen Beatmap im Stil von [Nightcore-Remixes](https://de.wikipedia.org/wiki/Nightcore) gepitcht und beschleunigt wurde. Obwohl es sich nur um einen Aprilscherz handelte, wurde dieser später Realität als die Mod [Nightcore](/wiki/Game_modifier/Nightcore) als eine tatsächliche [Spielmodifikation](/wiki/Game_modifier) in osu! implementiert wurde.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
+"osu!core" ist der Name des osu!-Aprilscherzes 2011. Der Streich führte dazu, dass das Audio jeder einzelnen Beatmap im Stil von [Nightcore-Remixes](https://de.wikipedia.org/wiki/Nightcore) gepitcht und beschleunigt wurde. Obwohl es sich nur um einen Aprilscherz handelte, wurde dieser später Realität als die Mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) als eine tatsächliche [Spielmodifikation](/wiki/Gameplay/Game_modifier) in osu! implementiert wurde.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ## 2012
 
 ### Mod Flashlight/Hidden auf der Website
 
-Am 1. April 2012 hatte die gesamte osu!-Webseite eine 50%ige Chance pro Seitenaufruf, dass entweder die Mod [Flashlight (FL)](/wiki/Game_modifier/Flashlight) oder die Mod [Hidden (HD)](/wiki/Game_modifier/Hidden) auf der Webseite "aktiviert" war (3/10 für HD, 1/5 für FL). Im Folgenden ist eine moderne Nachbildung des Streiches zu sehen, wie er damals für die Nutzer aussah.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+Am 1. April 2012 hatte die gesamte osu!-Webseite eine 50%ige Chance pro Seitenaufruf, dass entweder die Mod [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) oder die Mod [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) auf der Webseite "aktiviert" war (3/10 für HD, 1/5 für FL). Im Folgenden ist eine moderne Nachbildung des Streiches zu sehen, wie er damals für die Nutzer aussah.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "Wie die Webseite mit der Mod Flashlight ausgesehen hätte")
 
@@ -107,7 +107,7 @@ Am 1. April 2014 wurde das Hauptmenü vorübergehend verändert (unten gezeigt),
 
 ### osu!coins
 
-*Siehe auch: [osu!coin](/wiki/osu!coin)*
+*Siehe auch: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
 
 ![](img/2015-osucoins.png "The osu! coins")
 
@@ -135,11 +135,11 @@ In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode n
 
 *Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
 
-Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand schließlich ein inoffizielles Fanprojekt, das kurz darauf gestartet wurde und das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand schließlich ein inoffizielles Fanprojekt, das kurz darauf gestartet wurde und das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Gameplay/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 ### Tanzender Auto-Mod-Cursor/tanzende pippi
 
-"Tanzende pippi" (auch bekannt als "tanzender Auto-Mod-Cursor") ist der Spitzname für einen der Aprilscherze für 2016, bei dem ein Update  dafür sorgte, dass der Cursor in [Replays](/wiki/Gameplay/Replay) mit der Mod [Auto](/wiki/Game_modifier/Auto) auf pixelgenaue Art und Weise um das aktuelle [Hit-Objekt](/wiki/Hit_object) herumkreiste, bevor das Objekt schließlich zum richtigen Zeitpunkt getroffen wurde, im Gegensatz zu den üblichen roboterhaften und perfekt geraden Bewegungen der Mod Auto. Das zuvorgenannte Update wurde am nächsten Tag durch ein weiteres Update zurückgenommen.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
+"Tanzende pippi" (auch bekannt als "tanzender Auto-Mod-Cursor") ist der Spitzname für einen der Aprilscherze für 2016, bei dem ein Update  dafür sorgte, dass der Cursor in [Replays](/wiki/Gameplay/Replay) mit der Mod [Auto](/wiki/Gameplay/Game_modifier/Auto) auf pixelgenaue Art und Weise um das aktuelle [Hit-Objekt](/wiki/Gameplay/Hit_object) herumkreiste, bevor das Objekt schließlich zum richtigen Zeitpunkt getroffen wurde, im Gegensatz zu den üblichen roboterhaften und perfekt geraden Bewegungen der Mod Auto. Das zuvorgenannte Update wurde am nächsten Tag durch ein weiteres Update zurückgenommen.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
 
 ### Kostenlose osu!supporter-Tags
 
@@ -169,7 +169,7 @@ Für den Aprilscherz 2019 gab es eine etwa 5%ige Chance, den Soundeffekt eines n
 
 ### MillhioreF tritt den Featured Artists bei
 
-[MillhioreF](https://osu.ppy.sh/users/941094) — ein langjähriger osu!-Moderator, Entwickler und Spieler der Mod [Easy](/wiki/Game_modifier/Easy) — wurde am 1. April 2020 in [einem Newsbeitrag](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) als "Mitglied" der [Featured Artists](/wiki/Featured_Artists) unter dem Namen "Millhiore Firianno Biscotti" mit einer Auswahl von fünf Songs für den Start angekündigt:[^irish-fa]
+[MillhioreF](https://osu.ppy.sh/users/941094) — ein langjähriger osu!-Moderator, Entwickler und Spieler der Mod [Easy](/wiki/Gameplay/Game_modifier/Easy) — wurde am 1. April 2020 in [einem Newsbeitrag](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) als "Mitglied" der [Featured Artists](/wiki/People/Featured_Artists) unter dem Namen "Millhiore Firianno Biscotti" mit einer Auswahl von fünf Songs für den Start angekündigt:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -235,15 +235,15 @@ Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, d
 [^osu-coins-forums]: [Forum-Thread von Terriama (19.10.2015) "April Fools"](https://osu.ppy.sh/community/forums/topics/377157)
 [^osu-coins-changelog]: [Kommentar von peppy im Änderungsprotokoll (01.04.2015) in "Cutting Edge 20150401"](https://osu.ppy.sh/comments/121803)
 
-[^osu-vr-news]: [Newsbeitrag von Evrien (1 April 2016) "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
+[^osu-vr-news]: [Newsbeitrag von Evrien (01.04.2016) "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
 [^osu-vr-reddit]: [Reddit-Beitrag von u/Omgforz in r/osugame (02.08.2016) "McOsu Alpha 20 Public release (custom practice client)"](https://www.reddit.com/r/osugame/comments/4vuksd/mcosu_alpha_20_public_release_custom_practice/)
 [^osu-vr-yt]: [YouTube-Video von Omgforz (02.08.2016) "McOsu Alpha 20 (custom practice client +download)"](https://www.youtube.com/watch?v=PCLpOdcMQuc)
 [^osu-vr-gameskinny]: ["What Even Is McOsu? Because It's Not Osu!" auf GameSkinny](https://www.gameskinny.com/mhaa0/what-even-is-mcosu-because-its-not-osu)
 [^osu-vr-mcosu]: ["McKay42/McOsu" auf GitHub](https://github.com/McKay42/McOsu)
 
-[^osu-auto-yt]: [YouTube-Video von HoLLy (31 March 2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
-[^osu-auto-yt-2]: [YouTube-Video von Hubz (7 January 2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
-[^osu-auto-yt-3]: [YouTube-Video von mightyaleks (31 March 2016) - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g)
+[^osu-auto-yt]: [YouTube-Video von HoLLy (31.03.2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
+[^osu-auto-yt-2]: [YouTube-Video von Hubz (07.01.2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
+[^osu-auto-yt-3]: [YouTube-Video von mightyaleks (31.03.2016) - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g)
 [^osu-auto-reddit]: [Reddit-Beitrag von u/osuisgameforweebs in r/osugame (31.03.2016) "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/)
 
 [^supporter-tag-forums]: [Forum-Thread von -AlieN (31.03.2016) "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)

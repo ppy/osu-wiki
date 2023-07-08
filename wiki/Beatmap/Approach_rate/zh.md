@@ -9,7 +9,7 @@ tags:
 
 # 缩圈速度 (Approach rate)
 
-*关于建议的 AR 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_Criteria)。*
+*关于建议的 AR 值，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)。*
 
 **缩圈速度** (***AR***)是一张[谱面](/wiki/Beatmap)的难度设置，定义[打击物件 (hit objects)](/wiki/Gameplay/Hit_object)相对于应被打击或收集时开始渐显的时间。它只存在于 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 模式中。
 

@@ -1,10 +1,12 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
 ---
 
 # Pestaña de Tempo
 
-*También vea: [Cómo timear canciones](/wiki/Guides/How_to_Time_Songs)*
+*También vea: [Cómo timear canciones](/wiki/Guides/How_to_time_songs)*
 
 ![Pantallazo de la pestaña de tempo en el editor](/wiki/shared/timing/Timing_base.jpg)
 

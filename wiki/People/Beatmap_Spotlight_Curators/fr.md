@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-Le **Beatmap Spotlight Curators** (***BSC***) est un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+Les **Beatmap Spotlight Curators** (***BSC***) sont un groupe qui aide à sélectionner des beatmaps de haute qualité pour chaque saison des [Beatmap Spotlights](/wiki/Beatmap_Spotlights). Ils se distinguent par leur badge bleu ardoise de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `BSC`.
 
 ## Devenir un curateur
 
@@ -25,7 +25,7 @@ Le projet Beatmap Spotlights est géré par divers membres de la communauté dan
 | Chef du projet | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Gestionnaire du projet | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-Chaque publication du Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
+Chaque publication des Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
 
 ### Curateurs osu!
 
@@ -33,17 +33,23 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de curat
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
+- ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
 - ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
+- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curateurs osu!taiko
 
 - ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
 - ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
+- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
+- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
@@ -53,7 +59,7 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de curat
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- :: {flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
+- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
@@ -63,9 +69,11 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de curat
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
 - ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
+- ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
-- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
-- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
 - ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
+- ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)
+- ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619)

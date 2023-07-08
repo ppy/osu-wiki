@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 47934ada437bfd285e3fc30cd03fdfe1c83676d9
+---
+
 # Règles pour les Beatmap Nominators
 
 Les règles énumérées ici concernent ce que les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) peuvent et ne peuvent pas faire lorsqu'ils nominent des beatmaps et donnent le ton de la conduite générale attendue de ces utilisateurs. Ces règles sont le résultat d'une discussion au sein de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) et ont pris en compte les commentaires des Beatmap Nominators lors de leur proposition.
@@ -13,7 +18,7 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
 ## Conduite
 
 - **Ne suivez pas les règles ou les amendements non finalisés.**
-- **Respectez en tout temps les [règles de la communauté d'osu!](/wiki/Rules) et le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping).** En tant que Beatmap Nominator, votre comportement doit servir d'exemple positif aux autres membres de la communauté. Si vous enfreignez le code de conduite, vous pouvez être placé en probation temporaire ou, dans des cas extrêmes, être exclu de la liste des Beatmap Nominators.
+- **Respectez en tout temps les [règles de la communauté d'osu!](/wiki/Rules) et le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping).** En tant que Beatmap Nominator, votre comportement doit servir d'exemple positif aux autres membres de la communauté. Si vous enfreignez le code de conduite, vous pouvez être placé en probation temporaire ou, dans des cas extrêmes, être exclu de la liste des Beatmap Nominators.
 - **Ne prenez pas part ou ne participez pas à des commissions rémunérées de modding, de classement ou de beatmapping.** Il ne devrait jamais y avoir de question sur la légitimité ou les motivations des membres de l'équipe d'osu! (BN, NAT ou autre) impliqués dans le [processus de classement](/wiki/Beatmap_ranking_procedure).
 
 ## Activité
@@ -33,13 +38,13 @@ L'activité des Beatmap Nominators est principalement mesurée par les nominatio
 
 Chaque mode a son propre minimum requis pour l'activité mensuelle.
 
-- osu!, osu!taiko, osu!catch : 3 nominations.
-- osu!mania : 2 nominations.
+- osu!, osu!taiko : 3 nominations.
+- osu!catch, osu!mania : 2 nominations.
 - Hybride : 3 nominations, avec au moins 1 par mode de jeu.
 
 ## Nomination
 
-- **Ne pas nominer des beatmaps avec des problèmes majeurs.** Les [critères de classement généraux](/wiki/Ranking_Criteria) ainsi que les critères de classement de tous les modes de jeu s'applique à tous les beatmapsets contenant des difficultés de modes de jeu spécifiques.
+- **Ne pas nominer des beatmaps avec des problèmes majeurs.** Les [critères de classement généraux](/wiki/Ranking_criteria) ainsi que les critères de classement de tous les modes de jeu s'applique à tous les beatmapsets contenant des difficultés de modes de jeu spécifiques.
 - **Ne nominez pas de beatmaps auxquelles vous avez contribué.** Cela inclut toute contribution majeure telle que le mapping, le hitsounding, le storyboarding, le skinning ou l'édition de la slider velocity.
 - **Ne nominez pas une beatmap sans avoir vérifié toutes les difficultés du ou des modes que vous nominez.** Une vérification incorrecte comprend l'exécution d'un outil de modding avant même d'avoir nominé ou téléchargé la beatmap.
 - **Ne nominez pas une beatmap si vous n'êtes pas sûr de quelque chose.** Dans ce cas, demandez de l'aide aux autres Beatmap Nominators avant de prendre une décision précipitée. Cela inclut les modes de jeu avec lesquels vous n'êtes pas familier, de zones grises suspectes, de problèmes de qualité ou de timing complexe.

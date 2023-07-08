@@ -13,7 +13,7 @@ La **Nomination Assessment Team** (***NAT***) est une équipe qui modère les [B
 
 Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur titre d'utilisateur. Ils disposent de droits de modération sur le site web tout comme la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), et peuvent également [nominer](/wiki/Beatmap_ranking_procedure#nominations) et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps tout comme les [membres confirmés](/wiki/People/Beatmap_Nominators#beatmap-nominators-confirmés) des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/Beatmap_Nominators/Expectations) s'appliquent aux membres de la NAT, avec quelques exceptions pour l'activité.
 
-**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
 ***Remarque : Pour signaler une infraction au code de conduite du contributeur ou un mauvais comportement d'un membre de la NAT, veuillez contacter l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -34,7 +34,7 @@ Les évaluateurs sont très demandés en raison du grand nombre de [candidatures
 
 En tant que groupe, les **conseillers** sont chargés de maintenir :
 
-- **La communication** : Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_Criteria) ainsi que d'autres documents.
+- **La communication** : Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_criteria) ainsi que d'autres documents.
 - **Le développement** : Développer et maintenir des outils et des sites web qui aideront à améliorer le processus de classement (tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), ou [le site web des NAT/BN](https://bn.mappersguild.com/home)).
 - **La modération** : Traiter les signalements des utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, tout en traitant les passages en revue du contenu des beatmaps. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
 - **L'entretien divers** : Inclut sans s'y limiter :
@@ -74,60 +74,64 @@ Avant d'ajouter un nouveau conseiller, cet ajout est vérifié avec le reste de 
 
 *Remarque : Tous les membres de la NAT parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 ### osu!
 
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Conseiller[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinois | Évaluateur |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluateur |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluateur |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluateur |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais | Évaluateur |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Évaluateur |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluateur |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluateur |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Conseiller[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Évaluateur |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Conseiller[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluateur |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, serbe | Évaluateur |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Conseiller[^task-uberfazz] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluateur |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Évaluateur |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluateur |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structurel[^task-mo] |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais | Évaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Évaluation |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Néerlandais | Évaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluation, structurel |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structurel[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Évaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structurel[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluation, structurel |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, serbe | Évaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Évaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluation |
 
 ### osu!taiko
 
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluateur |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe | Évaluateur |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Leader |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugais | Évaluateur |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Direction |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugais | Évaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Direction |
 
 ### osu!catch
 
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espagnol, allemand | Évaluateur |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluateur |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espagnol, allemand | Évaluation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation |
 
 ### osu!mania
 
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinois | Évaluateur |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamien | Évaluateur |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluateur |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluateur |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamien | Évaluation |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinois | Évaluation |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coréen | Évaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluation |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danois | Évaluation |
+
+### Comptes de bot
+
+| Nom | Langues supplémentaires | Sous-groupe assigné |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
 
 ## Notes
 
 [^task-mo]: Gère principalement les discussions internes, les affaires et la documentation
 [^task-naxess]: Maintient principalement [Aiess](https://github.com/Naxesss/Aiess) et [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: Maintient principalement [le site web des NAT/BN](https://bn.mappersguild.com/home)
-[^task-uberfazz]: Entre autres, gère les conseillers

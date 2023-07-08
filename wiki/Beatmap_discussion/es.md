@@ -1,221 +1,163 @@
 ---
-outdated_translation: true
-outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+tags:
+  - beatmap discussions
+  - modding V2
+  - MV2
+no_native_review: true
 ---
 
-# Discusión de Beatmaps
+# Discusión del mapa
 
-La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
+*Vea también: [Modding v1](/wiki/Modding/Forum_modding)*
 
-## Presentar un beatmap para la discusión de Beatmap
+La **Discusión del mapa** (también conocida como *Modding v2*) es un sistema para administrar y simplificar el proceso de [modding](/wiki/Modding). Su objetivo es proporcionar una interfaz clara y comprensible, donde se enfoca la mejora de un mapa. Cuando un mapa es [enviado](/wiki/Beatmapping/Beatmap_submission), se crea automáticamente una página de discusión junto con la página de información del mapa. Cuando se actualice el mapa, la página de discusión también se actualizará. Se puede acceder a la página de discusión haciendo clic en el botón `Discusión` en la página de información. La página de discusión del mapa consta de algunos elementos (de arriba a abajo):
 
-### Nuevos beatmaps
+- Selección de modo
+- Encabezado del mapa
+- Menú de dificultad
+- Opciones de clasificación
+- Línea de tiempo visual
+- Estado del mapa
+- Pestañas de modding
+- Campo de envío
+- Discusiones
 
-Los nuevos beatmaps enviados a través del sistema de envío de Beatmaps utilizarán la Discusión de Beatmaps.
+¡Puede seguir nuestras imágenes de [este mapa](https://osu.ppy.sh/beatmapsets/924551/discussion) para familiarizarse con las discusiones de mapas o intentar abrir una página de discusión usted mismo!
 
-### Viejos beatmaps
+## Inicio rápido
 
-Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](https://osu.ppy.sh/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
+Es importante tener en cuenta algunas cosas para usar las páginas de discusión de mapas de manera efectiva:
 
-### Volviendo al antiguo sistema de modding
+- Elija el modo correcto y la dificultad que desea modear.
+- Seleccione la sección adecuada a la que está enviando su modeo.
+- **Solo publique un problema a la vez.** No envíe varios problemas en una sola publicación.
+- Verifique si el problema ya se ha solucionado cuando aparezca la advertencia de publicación similar.
+- Si te gusta el mapa, considera hypearlo para acercarlo a la nominación.
 
-Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que pueden usar el sistema antiguo son aquellos con publicaciones de modificaciónes. Si los beatmaps ya usan la Discusión de Beatmaps, el hilo del foro no tendrá un botón de respuesta, sino que se reemplazará con un botón que redirecciona al panel de Discusión de Beatmaps.
+## Selección de modo
 
-## Accediendo a la pagina de Discusión de Beatmaps
+![](img/mode-selection-ES.png "Selección de modo")
 
-### Mediante new.ppy.sh
+La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás modeando. Solo es posible seleccionar un modo de juego si el mapa tiene una dificultad de ese modo de juego. Esto solo se usa con mapas que contienen múltiples modos de juego; de lo contrario, se establecerá de forma predeterminada en el modo de juego mapeado.
 
-Presiona en el boton `Discusión` en la pagina de informacion del beatmap.
+## Encabezado del mapa
 
-![](img/beatmap-header.png "Pagina de información del beatmap")
+*Para obtener información sobre la configuración de metadatos, vea: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
-### Mediante osu.ppy.sh
+![](img/beatmap-header.png "Encabezado del mapa")
 
-Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pagina, si está actualmente en el sistema de Discusión de Beatmaps.
+El encabezado del mapa muestra el título y el artista proporcionados en el [editor de mapas](/wiki/Client/Beatmap_editor). Al hacer clic en el encabezado del mapa, volverás a la página de información.
 
-## Pagina de Discusión de Beatmaps
+## Menú de dificultad
 
-![](img/discussions.jpg "La parte superior de la pagina de Discusión de Beatmaps")
+![](img/difficulty-menu-ES.png "Menú de dificultad")
 
-### Seleccion de modalidad
+Puedes seleccionar diferentes [dificultades](/wiki/Beatmap/Difficulty) a través del menú desplegable. Esto mostrará todas las dificultades disponibles actualmente, junto con las más antiguas, eliminadas que han tenido sugerencias/problemas. El número que aparece junto al nombre de una dificultad es el número de publicaciones no resueltas en esa dificultad específica. Es importante verificar dos veces este menú antes de enviar cualquier modeo.
 
-![](img/mode-selection.png "Seleccion de modalidad")
+## Opciones de clasificación
 
-Cambia el modo de juego entre osu!, osu!taiko, osu!catch y osu!mania. Solo puedes seleccionar cada modo de juego si el beatmapset tiene una dificultad con dicho modo de juego.
+![](img/sorting-options-ES.png "Para sus necesidades de clasificación")
 
-## Pagina del beatmap / Selección de dificultad
+Las opciones de clasificación cambian la forma en que se ven las discusiones del mapa. Cuando se elige una opción, cambia tanto la línea de tiempo de modeo como la sección de modeo para incluir solo el tipo de publicación seleccionado. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
 
-![](img/difficulty-menu.png "Menu de dificultad")
+- `Mío` muestra sus propias publicaciones
+- `Notas` muestra cualquier nota del mapeador o [Beatmap Nominator](/wiki/People/Beatmap_Nominators)
+- `Resuelto` muestra publicaciones resueltas
+- `Pendiente` muestra publicaciones pendientes
+- `Elogios` muestra publicaciones de elogios y hype
+- `Todo` muestra todas las publicaciones
 
-Al hacer clic en el artista/título del beatmap, volveras a la página de información del Beatmap. Puedes seleccionar una dificultad para modificar usando el menú desplegable. El número que aparece ademas del nombre de dificultad es el número de discusiones pendientes que deben resolverse. **¡Asegúrate de estar en la dificultad correcta antes de enviar modificaciones al beatmap!**
+## Línea de tiempo visual
 
-### Estado de modificaciones
+![](img/visual-timeline-ES.png "Publicaciones de modeo repartidas en la línea de tiempo")
 
-![](img/modding-tabs.jpg "Para sus necesidades de clasificación")
+La línea de tiempo visual muestra todos los modeos creados para una dificultad que usan una marca de tiempo. Al hacer clic en cualquiera de estos, se desplazará hacia abajo hasta el modeo publicado en esa marca de tiempo. Tenga en cuenta que cualquier opción de filtrado cambiará lo que se muestra aquí. La línea de tiempo visual es una herramienta útil para ver cuánto se ha modificado un mapa de un vistazo. Una línea de tiempo apretada significaría que un mapa ya ha recibido mucha atención. La configuración de la dificultad seleccionada también se muestra en la parte superior derecha de la línea de tiempo visual. De izquierda a derecha, describen la `Duración`, `BPM`, `Número de círculos` y `Número de deslizadores` de una dificultad.
 
-Todas las modificaciones a continuación son para la dificultad seleccionada. Al hacer clic en cualquiera de estos, se mostrarán las modificaciones específicas en la línea de tiempo y en la sección de Discusión.
+## Estado del mapa
 
-- Mias: Modificaciones que has constribuido.
-- Resueltas: Modificaciones que el creador ha respondido y marcado como resueltas.
-- Pendientes: Modificaciones que no han sido respondidas o marcadas como resueltas.
-- Elogios: Modificaciones que han sido enviadas como un elogio
-- Todas: Cada sugerencia, problema y elogio publicado en la dificultad del beatmap y la sección general del set del beatmap.
+![](img/beatmap-status-ES.png "¡Contiene información importante!")
 
-### Modificación de la línea de tiempo
+La barra de estado del mapa muestra todo lo relevante para el lugar de un mapa en el [Procedimiento de clasificación del mapa](/wiki/Beatmap_ranking_procedure). Esto incluye:
 
-![](img/visual-timeline.jpg "Modificaciones enviadas, marcas de tiempo")
-
-Esto muestra todas las modificaciones hechas para dicha dificultad que tiene una marca de tiempo. Al hacer clic en estas se desplazará hacia abajo hasta la modificacion publicada en esa marca de tiempo.
-
-## Estado del beatmap
-
-![](img/beatmap-status.jpg "¡Contiene información importante!")
-
-### Creador del beatmap
-
-Este contiene al creador que envió el beatmapset, muestra la fecha de envío y la fecha en que se actualizó el beatmap por última vez.
-
-### Mirar/Dejar de mirar
-
-Esto reemplaza la suscripción de beatmap. Puedes seguir el estado de los beatmaps y los problemas abiertos. Se accede a esta página a través de la página de inicio del sitio web haciendo clic en [`link de la lista de seguimiento de modding`](https://osu.ppy.sh/beatmapsets/watches) ubicado cerca de la parte superior de la página.
+- Tren del hype
+- Información general
+- Botones Ver/Dejar de ver
+- Botón de la página del mapa
 
 ### Tren del Hype
 
-*Nota: ahora debes clic en `Hype` para agregar hype; dar elogios ya no aumentará el hype automáticamente.*
+El tren del hype registra cuántos [hypes](/wiki/Beatmap/Hype) ha recibido un conjunto de mapas. Una vez que se hayan logrado 5 hypes, el mapa de puede ser nominado por los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Los hypes solo se pueden dar yendo a la pestaña `General (Todas las dificultades)`, ya que no funcionará a través de las pestañas `General` o `Línea de tiempo`. Al hacer clic en el botón `Hype`, lo moverá automáticamente a la pestaña correcta.
 
-El tren del hype es similar al anterior sistema de prioridad por estrellas.
+### Estado de nominación
 
-> ¡Agregar elogios aumentará el hype de este beatmap, haciéndolo más visible para la nominación y el ranking!
+La barra de estado de nominación rastrea las nominaciones de un mapa. Una vez que un mapa haya recibido dos nominaciones, será [calificado](/wiki/Beatmap/Category#calificados).
 
-*Nota: Se requiere que los jugadores jueguen una dificultad en el beatmapset para agregar Hype a un beatmap.*
+### Información general
 
-Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o `Linea de Tiempo`.
+La información general muestra al creador del mapa, la fecha de envío y la fecha en que se actualizó por última vez. [Cambios de estado](/wiki/Beatmap), como que un mapa se clasifique, sea amado o abandonado, también se consideran actualizaciones y se mostrarán aquí.
 
-### Nominación
+### Ver/Dejar de ver
 
-Una vez que un beatmap acumule al menos 5 puntos de Hype, el beatmap sera elegible para la nominación. Esto funciona como lo hizo con el sistema de modding anterior. Se requiere que el beatmap tenga 2 nominaciones por los [Nominadores de beatmaps](/wiki/People/Beatmap_Nominators) para pasar al estado de [Calificado](/wiki/Beatmap/Category#qualified).
+Los botones `Ver` y `Dejar de ver` permiten seguir/dejar de seguir los desarrollos de un mapa. Si se sigue un mapa, las nuevas publicaciones y respuestas en la página de discusión de ese mapa crearán notificaciones en la web de osu!. Las suscripciones se pueden administrar a través de la [lista de seguimiento de modeo](https://osu.ppy.sh/beatmapsets/watches), que se puede encontrar a través del menú de la página de inicio.
 
-## Campo de envío de modificaciones
+### Página del mapa
 
-![](img/submission-field.jpg "El lugar donde sucede la magia del modding.")
+El botón `Página del mapa` navegará a la página de información de un mapa. Esto también se puede hacer haciendo clic en el [encabezado del mapa](#encabezado-del-mapa).
 
-### Sección de presentación de modificaciones
+## Pestañas de modeo
 
-Esta es la sección del beatmap al que enviarás tus inquietudes.
+![](img/modding-tabs-ES.png "Pestañas de modeo.")
 
-- `General (Todas las dificultades)`: Problemas generales con el beatmap asi como metadatos y discusión general sobre el beatmapset como un todo. También puedes agregar Hype a un beatmap aquí publicando un comentario con Elogios.
-- `General`: Problemas generales con la dificultad, como la configuración del beatmap y la discusión general sobre la dificultad específica.
-- `Linea de tiempo`: Problemas en ciertos puntos del beatmap. Debe contener una marca de tiempo. La mayoría de las modificaciones terminarán en esta sección.
-- `Historial`: Muestra cuando los problemas que fueron marcados como resueltos. Puedes hacer clic en cualquier problema para saltar a la publicación.
+El modeo se realiza a través de tres pestañas, que separan las publicaciones de diferentes tipos y las dividen en formatos legibles. Además, una cuarta pestaña registra todos los cambios. El número al lado de cada pestaña describe la cantidad de publicaciones que contiene.
 
-![](img/sorting-options.jpg)
+`General (Todas las dificultades)` muestra publicaciones que se aplican a todas las dificultades. Las publicaciones comunes en esta pestaña incluyen metadatos, notas y debates sobre el mapa en su conjunto.
 
-### Campo de Modding
+`General (Nombre de la dificultad)` muestra publicaciones que solo se aplican a la dificultad seleccionada actualmente. Las publicaciones comunes en esta pestaña incluyen la configuración del mapa, los problemas recurrentes y la discusión general sobre la dificultad seleccionada.
 
-![](img/modding-tabs.jpg "Donde ocurre la magia del modding")
+`Línea de tiempo` muestra publicaciones en puntos específicos de una dificultad según la primera marca de tiempo colocada. Cada publicación en esta pestaña debe incluir una marca de tiempo para ser publicada. Cualquier marca de tiempo posterior no tendrá influencia en el orden de publicación.
 
-Aquí es donde escribes tu modificación. Si usa la sección de la Línea de tiempo, debe incluir una marca de tiempo en la publicación. La primera marca de tiempo que se colocará será la marca de tiempo que se muestra en la sección Discusión. Las secciones generales no requieren marcas de tiempo, pero pueden incluirlas.
+`Historial` registra todos los cambios en una página de discusión en orden cronológico. Los cambios están codificados por colores, siendo el verde las publicaciones resueltas y los cambios de estado, el rojo los problemas nuevos después de la nominación y el azul todo lo demás. Al hacer clic en cualquier número de referencia, se saltará a la publicación específica. Esta pestaña no se usa durante el modeo, pero es útil para los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y otro personal para verificar problemas.
 
-### Advertencia de publicación similar
+## Campo de envío
 
-Si tu marca de tiempo enviada a través de la sección Línea de tiempo está cerca de otra modificación ya publicada, deberá confirmar que la modificación no aborda el problema que está enviando actualmente. **¡Por favor revisa el campo de discusión antes de marcar la casilla!**
+![](img/submission-field-ES.png "Donde se escribe el modeo.")
 
-### Tipo de modificación
+El campo de envío es donde se escriben los [modeos](/wiki/Modding). Una vez escrito, el modeo debe enviarse a la página de discusión. Esto se puede hacer presionando uno de los tres botones de tipo; `Elogio`, `Sugerencia` o `Problema`.
 
-![](img/sorting-options.jpg)
+`Elogio` se usa para elogiar y animar. `Sugerencia` se usa para publicaciones que no están directamente en conflicto con ninguna regla. `Problema` se usa para publicaciones que están en conflicto directo con los [Criterios de clasificación](/wiki/Ranking_criteria), o que se consideran intersubjetivamente incorrectas. Una vez que se presiona un botón, el modeo se enviará a la página de discusión.
 
-Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugerencia` o `Problema`. Cada uno es bastante autoexplicativo. **Al hacer clic en esto, enviarás tu modificación. Si cometiste un error o necesitas hacer una edición de tu modificación, busca la publicación en la sección de Discusión.** Puede agregar hype al beatmap presentando elogios en la sección `General (Todas las Dificultades)`.
+Si publica en la pestaña `Línea de tiempo`, debe incluir una marca de tiempo en su publicación. Si su marca de tiempo está cerca de otro modeo, deberá confirmar que no aborda el problema que está enviando actualmente. **¡Revisa cada publicación antes de marcar la casilla!** Puede ser beneficioso `Anclar` el campo de modeo mientras se comprueban otros problemas. Habilitar el anclaje permitirá que el campo de envío se desplace contigo.
 
-### Alfiler
+## Discusiones
 
-Al habilitar el alfiler, el [Campo de modding](#campo-de-modding) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
+![](img/discussions-ES.png "¡Donde se lleva a cabo la discusión!")
 
-## Campo de discusión de modding
+Las discusiones son donde se colocan las publicaciones del [campo de envío](#campo-de-envío) una vez enviadas. Los usuarios que visiten una página de discusión pueden ver las publicaciones realizadas por todos los demás usuarios y podrán participar en la discusión sobre las publicaciones. Esto se hace haciendo clic en los botones `Responder` o `Contestar` debajo de una publicación y escriba una respuesta. Después de terminar una respuesta, al presionar `Enter` o hacer clic en `Responder` se enviará a la discusión.
 
-![](img/discussions.jpg)
+El creador del mapa y los autores de las publicaciones de modeo tienen la capacidad de cerrar problemas con el botón `Marcar como resuelto`. Esto marca que el problema se ha tratado con otros usuarios y lo elimina de la [opción de clasificación](#opciones-de-clasificación) `Pendiente`. Cualquier usuario puede volver a abrir publicaciones de modeo agregando más respuestas a una publicación y haciendo clic en `Responder y reabrir`. Esto se usa cuando los modders se topan con problemas cerrados que no se han solucionado por completo, o cuando un tema necesita más discusión.
 
-### Funciones
+### Clasificación de discusiones
 
-- `Ordenar por`: Ordena las publicaciones por `linea de tiempo` (predeterminado, ordenada por la marca de tiempo dada desde la publicación de la modificación) o `Ultima actualización` (ordenada segun cuando se publicó la publicación)
-- `Contraer todo` y `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
-- Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
-  - Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
-  - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Modding/Kudosu) en sugerencias o problemas**
-  - Solo los miembros del [BN](/wiki/People/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team), y [GMT](/wiki/People/Global_Moderation_Team) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
-- Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
-- Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
-- Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.
-- `Responder`: Responde a la publicación presionando 'Enter' o haciendo clic en 'Responder', mas tarde se enviará tu respuesta.
-- `Marcar como resuelto`: El creador o el publicador de la modificación puede seleccionar esto cuando el problema ha sido abordado y aceptado o denegado
-- `Re abrir una discusión`: Si la publicación necesita más discusión, el creador o el remitente de la modificación puede reabrir el envío respondiendo y desmarcando Resuelto.
+Las discusiones se pueden ordenar con los botones debajo del título `Discusiones`. Inicialmente, las publicaciones de la pestaña `Línea de tiempo` se ordenarán cronológicamente según la primera marca de tiempo proporcionada. Las publicaciones de `General (Todas las dificultades)` y `General (Nombre de la dificultad)` se ordenarán por última actualización. Tenga en cuenta que las [opciones de clasificación](#opciones-de-clasificación) seleccionadas también cambiarán lo que se muestra aquí. Otros botones en la parte superior del campo de discusión que cambian la forma en que se ven las discusiones incluyen `Contraer todo` y `Expandir todo`, que mostrarán/ocultarán las publicaciones respectivamente.
 
-## Hype, Nominación, y Kudosu!
+### Pulgares arriba/abajo
 
-### Hype
+Si una publicación de modeo fue útil, se puede dar [Kudosu!](/wiki/Modding/Kudosu). Esto lo puede hacer cualquier persona, excepto el creador de la publicación, dándole un pulgar hacia arriba. Esto es útil para los modders, ya que el Kudosu! es necesario para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si se abusa de esta función, los miembros del [BN](/wiki/People/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team) y [GMT](/wiki/People/Global_Moderation_Team) pueden rechazar cualquier Kudosu! dado. Si el abuso se hace maliciosamente, también se puede sancionar a los abusadores.
 
-Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la prioridad por estrellas se utilizó anteriormente. Una vez que un beatmapset recibe 5 Hypes, es elegible para la nominación. Ten en cuenta lo siguiente:
+### Línea de tiempo de la discusión
 
-- Cada usuario tiene un suministro limitado de hype (5 por semana para comenzar).
-  - Recuperarás un hype 7 días después de ser utilizado
-  - El Hype solo se puede usar después de jugar a través de una dificultad de un beatmapset.
+La línea de tiempo a la izquierda de una discusión muestra la marca de tiempo a la que se refiere la publicación. Esto solo está disponible en la sección `Línea de tiempo`. De lo contrario, la línea de tiempo de la discusión se dejará en blanco.
 
-### Nominación
+### Etiquetas
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/People/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+Las etiquetas muestran [roles importantes](/wiki/People/osu!_team) debajo del nombre de un usuario. Solo se muestran los roles relevantes para la discusión del mapa. Estos incluyen miembros de `MAPPER`, `BN`, `NAT`, `GMT` y `DEV` que tienen más opciones que un usuario normal que mira una página de discusión.
 
-### Kudosu!
+### Herramientas de formato
 
-Darle pulgar arriba a una sugerencia o problema en el campo de discusión le dará al modificador Kudosu!. La cantidad de votos recibidos determina cuánto Kudosu! el modder reciba. Cualquier usuario que no sea el publicador puede dar pulgar arriba cualquier publicación.
+Los propietarios de una publicación en una página de discusión pueden usar herramientas de formato para facilitar el uso. Esto incluye enlaces permanentes, ediciones y eliminaciones.
 
-*Nota: Estas limitado a 60 votos por hora, mientras que los miembros de BN y NAT no tienen este límite.*
+`Enlace permanente` toma un enlace directo a una publicación. Esto se mostrará como un número de referencia (por ejemplo, `#1234567`) para otros usuarios, en el que se puede hacer clic para pasar rápidamente a la publicación a la que se hace referencia. Esto es especialmente útil cuando se hace referencia a problemas entre publicaciones de modeo.
 
-Actualmente, estos son los umbrales para ganar una cierta cantidad de Kudosu!:
+`Editar` permite a un usuario editar su envío en caso de errores. Esto no está destinado a ser utilizado para responder a los mensajes. Crea una nueva respuesta en su lugar.
 
-- 1 pulgar arriba = 1 Kudosu!
-- 2 pulgares arriba = 2 Kudosu!
-- 5 pulgares arriba = 3 Kudosu!
-
-Los miembros de BN, NAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo.
-
-## Recordatorios
-
-- ¡Elige el modo correcto y la dificultad que deseas modificar!
-- Selecciona la sección adecuada a la que envías tu modificación.
-- **Solo publica un problema a la vez.** ¡No envíe múltiples problemas en una sola publicación!
-- La sección Línea de tiempo requiere al menos una marca de tiempo antes de poder enviar tu publicación.
-- Verifica si el problema ya ha sido abordado si aparece la advertencia de publicación similar.
-- ¿Te gusta el beatmap? ¡Da tu Hype para ayudar al beatmap a acercarse a la nominación!
-- Asegúrate de votar sobre sugerencias y/o problemas, ya que ahora premian con Kudosu! a los modders
-
-## Consejos
-
-- Puedes filtrar las modificaciones usando los botones en el Estado de modificación en la información del Beatmap. Por ejemplo, puedes ver solo las publicaciones pendientes.
-- Puede editar o eliminar tus publicaciones si enviaste una publicación y encontraste un error.
-- Como creador, puedes volver a abrir cualquier problema resuelto anteriormente respondiendo a la publicación y desmarcando Resuelto.
-- Puedes editar la descripción del beatmap utilizando la página de beatmapset. Haz clic en el icono de edición en la parte superior derecha del campo de descripción.
-
-## Guía paso a paso para publicar una modificación
-
-1. Selecciona el modo de juego apropiado en la parte superior de la página del beatmap que deseas modificar (osu!standar, osu!taiko, osu!catch, osu!mania)
-2. Selecciona la dificultad que desea modificar en el menú desplegable. (Fácil, Normal, Difícil, Insano, etc.)
-3. Selecciona la sección en la que desea publicar su modificación (`General (todas las dificultades)`, `General` o `Linea de tiempo`)
-4. Escribe tu modificación en el campo de discusión. Usa una marca de tiempo si estás usando la sección Línea de tiempo. **¡Un problema por publicación!**
-5. Selecciona el tipo de modificación que estás haciendo (`Elogio`,`Sugerencia`, o `Problema`)
-
-¡Tu publicación será enviada! Puede reiniciar en el paso 3 si desea continuar modificando la misma dificultad. No te olvides de darle hype al beatmap si quieres ayudarlo a avanzar para la nominación.
-
-## FAQ
-
-### ¿Podré modificar con el sistema anterior después de que se lance la Discusión de Beatmap?
-
-Debes modificar con el sistema que el creador ha elegido. Si se centran en la Discusión Beatmap, deberas modificar con la Discusión Beatmap. De lo contrario, tus modificaciones pueden pasar desapercibidas.
-
-### ¡No me gusta la discusión de Beatmap! ¿Cómo vuelvo al sistema anterior?
-
-La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema anterior; sin embargo, los beatmaps anteriores a la Discusión de Beatmap con modificaciones, todavía pueden usar el sistema de modding anterior.
-
-## Ver también
-
-- Hilo original del foro: [Guía de discusión de Modding (MV2)](https://osu.ppy.sh/community/forums/topics/650961) por [Lanturn](https://osu.ppy.sh/users/1446665)
-- Video de [pishifat](https://osu.ppy.sh/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/community/forums/topics/662559)
+`Eliminar` permite al remitente eliminar su envío en caso de errores graves. Esta característica está deshabilitada para las publicaciones con discusión para impedir las eliminaciones causadas por discusiones acaloradas.

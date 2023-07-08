@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2023 banner](img/twc2023-banner.jpg)
 
-The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2023** (***TWC 2023***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the thirteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56).
+The osu!taiko World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,185 from [community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,15 +35,18 @@ The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/twc-2023-badge-1st.png "TWC 2023 winner badge") ![](img/twc-2023-badge-2nd.png "TWC 2023 2nd-place badge") ![](img/twc-2023-badge-3rd.png "TWC 2023 3rd-place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2023 is run by various community members.
+The osu!taiko World Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Mappool selector | ::{ flag=GB }:: **[mangomizer](https://osu.ppy.sh/users/1893718)**, ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
 | Mappool playtester | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Mapper | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=DE }:: [Ak1o](https://osu.ppy.sh/users/1600041), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=RU }:: [clockbite](https://osu.ppy.sh/users/16736934), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253), ::{ flag=MN }:: [dtn](https://osu.ppy.sh/users/17630767), ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=BR }:: [flr](https://osu.ppy.sh/users/4689256), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=GB }:: [Grimbow](https://osu.ppy.sh/users/1387762), ::{ flag=SE }:: [Hana Hayashi](https://osu.ppy.sh/users/4601806), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Miniature Lamp](https://osu.ppy.sh/users/9821194), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), ::{ flag=JP }:: [Naryuga](https://osu.ppy.sh/users/522188), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=KR }:: [sendol](https://osu.ppy.sh/users/4433058), ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=US }:: [youtune3](https://osu.ppy.sh/users/6442010), ::{ flag=GB }:: [ZTH](https://osu.ppy.sh/users/5258461) |
 | Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -54,7 +57,6 @@ The osu!taiko World Cup 2023 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2023)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -77,7 +79,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=DE }:: | **Germany** | **[frz](https://osu.ppy.sh/users/6956922)**, [mob w](https://osu.ppy.sh/users/6851789), [Minekuchi](https://osu.ppy.sh/users/9584873), [Xay](https://osu.ppy.sh/users/961417), [Mew](https://osu.ppy.sh/users/2345156), [xMrtn-](https://osu.ppy.sh/users/866297) |
 | ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)**, [Shing\_](https://osu.ppy.sh/users/2211364), [Irone OSU](https://osu.ppy.sh/users/10678230), [Henry\_03](https://osu.ppy.sh/users/17413733), [Iwvi](https://osu.ppy.sh/users/702611), [Takuto271](https://osu.ppy.sh/users/2226395) |
 | ::{ flag=ID }:: | **Indonesia** | **[Joltzzz](https://osu.ppy.sh/users/15436568)**, [Naverlyn](https://osu.ppy.sh/users/14324722), [ImChro](https://osu.ppy.sh/users/7280717), [Lightning Wyvern](https://osu.ppy.sh/users/1533122), [Volta](https://osu.ppy.sh/users/4154071), [Veltlion](https://osu.ppy.sh/users/10999079) |
-| ::{ flag=IT }:: | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [ndrrr](https://osu.ppy.sh/users/4609767), [A-40](https://osu.ppy.sh/users/14510301), [D3kuu](https://osu.ppy.sh/users/7807444), [partyboy95](https://osu.ppy.sh/users/3716665), [Nara Bocchi](https://osu.ppy.sh/users/7722827) |
+| ::{ flag=IT }:: | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [ndrrr](https://osu.ppy.sh/users/4609767), [A-40](https://osu.ppy.sh/users/14510301), [D3kuu](https://osu.ppy.sh/users/7807444), [partyboy95](https://osu.ppy.sh/users/3716665) |
 | ::{ flag=JP }:: | **Japan** | **[ekumea1123](https://osu.ppy.sh/users/9119501)**, [Seren58](https://osu.ppy.sh/users/15252950), [Grape\_Tea](https://osu.ppy.sh/users/9540073), [kotohira\_06](https://osu.ppy.sh/users/22444525), [Nanas3](https://osu.ppy.sh/users/17015562), [kanten\_07](https://osu.ppy.sh/users/11680357) |
 | ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)**, [Huntey](https://osu.ppy.sh/users/14451706), [Piparkuucinsh](https://osu.ppy.sh/users/7453024), [Bezmozglij123](https://osu.ppy.sh/users/20489038), [- k1ryaa](https://osu.ppy.sh/users/17609405) |
 | ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)**, [Atago](https://osu.ppy.sh/users/7011843), [Beesu](https://osu.ppy.sh/users/9117835), [wwww](https://osu.ppy.sh/users/3997162) |
@@ -102,33 +104,65 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv).
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, 15 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T100000&p1=1440&p2=136&p3=33) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=MY }:: Malaysia | [Apr 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T120000&p1=1440&p2=215&p3=122) | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | [Apr 15 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T160000&p1=1440&p2=195&p3=45) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Apr 15 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T180000&p1=1440&p2=37&p3=232) | [^losers-bracket] |
-
-### Sunday, 16 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T030000&p1=1440&p2=263&p3=241) | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 16 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T080000&p1=1440&p2=248&p3=235) | [^winners-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=195&p3=33) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=45&p3=33) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=215&p3=37) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=215&p3=232) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=37) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=232) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=GB }:: United Kingdom | [Apr 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T160000&p1=1440&p2=195&p3=136) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=GB }:: United Kingdom | [Apr 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T160000&p1=1440&p2=45&p3=136) | [^potential-match] |
+![](img/podium.jpg "TWC 2023 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (98 MB)](https://drive.google.com/uc?id=1LFIn2kTwIXtRpeNeTuza0Kh21tNvYhMo)**
+
+- No Mod
+  1. [Sobrem - Super Macaron (4sbet1) \[Super Macaroni\]](https://osu.ppy.sh/beatmapsets/1980775#taiko/4113069)
+  2. [katagiri - Angel's Salad (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/1980692#taiko/4112862)
+  3. [7\_7 feat. kasane vavzed - 7D (7\_7) \[7\_7\]](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017)
+  4. [II-L - EXPLORER-4 (Miniature Lamp) \[Cosmic Cruise\]](https://osu.ppy.sh/beatmapsets/1664805#taiko/3398617)
+  5. [Nile - Snake Pit Mating Frenzy (ikin5050) \[Snake Oni\]](https://osu.ppy.sh/beatmapsets/1980708#taiko/4112907)
+  6. [Raimukun - Firmament Star (rubies87) \[Galactic Ascension\]](https://osu.ppy.sh/beatmapsets/1980788#taiko/4113087)
+- Hidden
+  1. [Riya - Laboratory-18 (woosungko) \[Synthesis (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1814106#taiko/3721620)
+  2. [FRASER EDWARDS - The Harvest (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/1878351#taiko/3866454)
+- Hard Rock
+  1. [Silentroom - Shuu no Hazama (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1980705#taiko/4112897)
+  2. [Rabbit House - Gehenna (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1980698#taiko/4112875)
+- Double Time
+  1. [Camellia - PLANET//SHAPER (Genjuro) \[Fabrication of the Universe\]](https://osu.ppy.sh/beatmapsets/921130#taiko/1923544)
+  2. [MIMI - Toumeika (ler1211) \[Transparent\]](https://osu.ppy.sh/beatmapsets/1980700#taiko/4112881)
+- FreeMod
+  1. [Marmalade butcher - Amanita (sendol) \[X\]](https://osu.ppy.sh/beatmapsets/1720005#taiko/3515099)
+  2. [Thaehan - Overworld (Tasha) \[Muri\]](https://osu.ppy.sh/beatmapsets/545510#taiko/1155694)
+  3. [LV.4 feat. Mawata Spica - Vortex of Sorrow (uone) \[END\]](https://osu.ppy.sh/beatmapsets/1980701#taiko/4112884)
+- Tiebreaker
+  1. **[Gram - Sigrdrifa (Nifty) \[Prose Edda\]](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613)**
+
+### Finals
+
+**[Download the mappack here (76 MB)](https://drive.google.com/uc?id=1sI6l9kokhpOYrkLqdsliW0j9lhh-6ySd)**
+
+- No Mod
+  1. [rN - onostrapha (Cynplytholowazy) \[calamity\]](https://osu.ppy.sh/beatmapsets/1976633#taiko/4103021)
+  2. [Masahiro "Godspeed" Aoki - Twister (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/1441606#taiko/2965671)
+  3. [Aquestion - Umami Blaze (youtune3) \[Infernal Oni\]](https://osu.ppy.sh/beatmapsets/1976814#taiko/4103528)
+  4. [linear ring - Can you hear me? (DEtermination21) \[Waltz of White Noise\]](https://osu.ppy.sh/beatmapsets/1713296#taiko/3500751)
+  5. [BLANKFIELD - The Red and White (Ak1o) \[The Red and Blue\]](https://osu.ppy.sh/beatmapsets/1976559#taiko/4102855)
+  6. [Mono. - ROCKET START (Shamirin\_mzk) \[Kinpatsu Loni\]](https://osu.ppy.sh/beatmapsets/1976801#taiko/4103485)
+- Hidden
+  1. [Marmalade butcher - Mirage Age (Eyenine) \[Image\]](https://osu.ppy.sh/beatmapsets/1520484#taiko/3141358)
+  2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\]](https://osu.ppy.sh/beatmapsets/1977053#taiko/4104127)
+- Hard Rock
+  1. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (sendol) \[Self-Similarity\]](https://osu.ppy.sh/beatmapsets/1612240#taiko/3292583)
+  2. [technoplanet feat. Haruno - End of Fairytale (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976819#taiko/4103534)
+- Double Time
+  1. [technoplanet - Megastructure \[Extended Mix\] (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1499443#taiko/3113038)
+  2. [rejection - Aimai Attitude (feat. Nakamura Sanso) (KTYN) \[Behind the Mind\]](https://osu.ppy.sh/beatmapsets/1261099#taiko/2621461)
+- Free Mod
+  1. [Masahiro "Godspeed" Aoki - Blaze (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976839#taiko/4103593)
+  2. [II-L - SPUTNIK-3 (Horiiizon) \[OUTER SPACE\]](https://osu.ppy.sh/beatmapsets/1596423#taiko/3260555)
+  3. [SOOOO - iiillluuuvvvUUU (4sbet1) \[hhheeellllllOOO\]](https://osu.ppy.sh/beatmapsets/1976827#taiko/4103565)
+- Tiebreaker
+  1. **[BilliumMoto & Dictate - 1KARUGA (HiroK) \[H1roK & u1's 1nner On1\]](https://osu.ppy.sh/beatmapsets/1976834#taiko/4103575)**
 
 ### Semifinals
 
@@ -149,7 +183,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [MuryokuP - Frozen World (ikin5050) \[Northern Lights\]](https://osu.ppy.sh/beatmapsets/1972541#taiko/4093146)
   2. [Imy - Over the limit (Nardoxyribonucleic) \[Limitless Oni\]](https://osu.ppy.sh/beatmapsets/1972545#taiko/4093155)
-- FreeMod
+- Free Mod
   1. [SAMString - Ataraxia (MTNTWarz) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1972547#taiko/4093157)
   2. [Hino Isuka vs. s-don - Glooorious!! (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1972551#taiko/4093161)
   3. [LV.4 - Sentimental Surge (Hana Hayashi) \[Serotonin Syndrome\]](https://osu.ppy.sh/beatmapsets/1972728#taiko/4093466)
@@ -175,7 +209,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [Grant - Weapon (feat. Baum) (rubies87) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1967931#taiko/4081439)
   2. [SECONDWALL - Natsu no Owari (Hivie) \[Rainy Summer\]](https://osu.ppy.sh/beatmapsets/1404425#taiko/2896554)
-- FreeMod
+- Free Mod
   1. [LeaF - Calamity Fortune (DakeDekaane) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1968850#taiko/4083711)
   2. [Zekk - Falling Down feat. Renko x TRIANGLE (Backfire) \[OOni\]](https://osu.ppy.sh/beatmapsets/1969845#taiko/4086680)
   3. [Plum - Mad Piano Party II (tasuke912) \[FM3\]](https://osu.ppy.sh/beatmapsets/1968116#taiko/4082132)
@@ -200,7 +234,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [BlackY - Howling Moon (komasy) \[TWC ver.\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070769)
   2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
-- FreeMod
+- Free Mod
   1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
   2. [Zenpaku - Blast+ feat. DEMONDICE (Burak) \[Odyssey\]](https://osu.ppy.sh/beatmapsets/1963586#taiko/4069758)
   3. [Morimori Atsushi - PUPA (uma Remix) (Lumenite-) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1591364#taiko/4069678)
@@ -225,7 +259,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [Blue Stahli - Blue Stahli (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1576838#taiko/3221023)
   2. [wotoha - Digital Life Hacker (BlackBN) \[Irone's Oni\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3119398)
-- FreeMod
+- Free Mod
   1. [Redside - Sidequest (Maimaing) \[Taikoquest\]](https://osu.ppy.sh/beatmapsets/1959473#taiko/4060309)
   2. [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
   3. [antiPLUR - One Life Left to Live (Nwolf) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
@@ -249,10 +283,66 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [meganeko - Ninox (osu! edit) (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955324#taiko/4049807)
   2. [kakichoco - Hakudou (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955347#taiko/4049875)
-- FreeMod
+- Free Mod
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1jdC5skkPBgeqOuasLkkihnxpDYbBPK7StmmtlL_TF7M/?rm=minimal).
+
+Saturday, 29 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ::{ flag=TW }:: | **7** | 6 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/108221558) |
+
+Sunday, 30 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108242105) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ucXho5aHNBINl73zwoaSd7Lee2d1Bvr5d_DfwaKbfkE?rm=minimal).
+
+Saturday, 22 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/108099877) |
+| United States ::{ flag=US }:: | 0 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108108909) |
+
+Sunday, 23 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108116856) |
+| **Germany** ::{ flag=DE }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/108118899) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-53w_zGOQqp4CvIG4mtgxriyRsbW2OibNKxmVVMRH4s/edit?rm=minimal).
+
+Saturday, 15 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **6** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/107968912) |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/107975514) |
+| **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/107980596) |
+
+Sunday, 16 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ::{ flag=US }:: | 4 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/107987149) |
+| United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107991537) |
+| Italy ::{ flag=IT }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/107993087) |
+| France ::{ flag=FR }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107994018) |
+| **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/107994971) |
 
 ### Quarterfinals
 
@@ -536,8 +626,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

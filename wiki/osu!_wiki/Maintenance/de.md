@@ -2,7 +2,7 @@
 
 *Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*
 
-Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server).
+Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server).
 
 ## Administratoren
 
@@ -26,7 +26,7 @@ Der [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) des osu!-Wikis enth�
 
 Auf GitHub können Änderungsanfragen und Issues mit [Labels](https://github.com/ppy/osu-wiki/labels) gekennzeichnet und klassifiziert werden, die verschiedene Aspekte einer Änderungsanfrage oder Issues darstellen. Labels sind informativ, werden von den Verantwortlichen des osu!-Wikis hinzugefügt und sind typischerweise selbsterklärend. Sie erfordern zwar keine Maßnahmen für den Nutzer, aber rote Labels dienen als Erinnerung oder Aufforderung zum Handeln für andere Betreuer:
 
-- `rule change`: Die Änderung beeinflusst eine bereits existierende Reihe an Regeln, wie die [Ranking-Kriterien](/wiki/Ranking_Criteria) und muss von dem Eigentümer des Bereichs überprüft werden.
+- `rule change`: Die Änderung beeinflusst eine bereits existierende Reihe an Regeln, wie die [Ranking-Kriterien](/wiki/Ranking_criteria) und muss von dem Eigentümer des Bereichs überprüft werden.
 - `blocked`: Die Änderung hat Probleme, die vor dem Fortfahren beseitigt werden müssen, oder hängt von einem anderen Issue ab, das als erstes gelöst werden muss.
 - `needs rebase`: Die Änderungsanfragen hat zu viele, kleine, unstrukturierte Commits, die neu geschrieben und besser formuliert werden müssen. Das wird meistens von den Verantwortlichen kurz vor der Zusammenführung gemacht.
 
@@ -128,7 +128,7 @@ Einige Features sind nicht direkt mit der osu!-Webseite verwandt, können aber n
 
 *Anmerkung: Die Webseite [osu-wiki status](https://osu.wiki/status/de) zeigt eine Liste aller Artikel an, die überarbeitet werden müssen, sortiert nach Kategorie.*
 
-Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) nach Hilfe.
+Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) nach Hilfe.
 
 ### Übersetzungen
 

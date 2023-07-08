@@ -610,7 +610,7 @@
 
 ## 偏移量设置向导
 
-*主页面：[偏移量设置向导](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*主页面：[偏移量设置向导](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 ---
 
@@ -717,7 +717,7 @@
 注意：
 
 - 当在宽屏上游玩带有 4:3 比例的故事板谱面时，会使用此元素。
-- 在作图时，在[歌曲设定](/wiki/Client/Beatmap_editor/Song_Setup)中禁用`宽屏支持`可以使此元素出现。
+- 在作图时，在[歌曲设定](/wiki/Client/Beatmap_editor/Song_setup)中禁用`宽屏支持`可以使此元素出现。
 - 此元素会拉伸以填满所需区域。
 - 在右侧，会水平翻转此元素。
 

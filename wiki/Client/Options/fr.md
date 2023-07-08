@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 02d34f733641b608571184583b32f227216bfb33
+---
+
 # Options
 
 ![Menu des options](img/options_basic-FR.jpg "Menu des options \(barre latérale à gauche\)")
@@ -244,7 +249,7 @@ Le volume principal, le volume de la musique et le volume des effets peuvent êt
 | `Démarrer l'assistant` | Ouvre l'assistant de décalage. | Bouton |  |
 
 - Pour plus de détails sur l'assistant de décalage, voir [Assistant de décalage](/wiki/Client/Options/Offset_Wizard).
-- Pour plus de détails sur l'utilisation de l'assistant de décalage, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Pour plus de détails sur l'utilisation de l'assistant de décalage, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 

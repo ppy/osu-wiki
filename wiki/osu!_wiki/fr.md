@@ -2,7 +2,7 @@
 
 L'**osu! wiki** est une base de données de connaissances open-source écrite et maintenue par des [contributeurs volontaires](https://github.com/ppy/osu-wiki/graphs/contributors). Il contient un large éventail d'informations sur des sujets liés à osu!, à sa communauté et à des activités et concepts connexes. Le wiki sert de source officielle d'information et est considéré comme une documentation de l'histoire d'osu!.
 
-Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!dev](/wiki/Community/osu!dev_Discord_server). Pour savoir comment vous pouvez aider l'osu! wiki, consultez les articles suivants :
+Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!](/wiki/Community/osu!_Discord_server). Pour savoir comment vous pouvez aider l'osu! wiki, consultez les articles suivants :
 
 - [Guide de contribution](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -15,7 +15,7 @@ Les [premières tentatives](https://osu.ppy.sh/community/forums/posts/1175876) d
 
 ## Structure
 
-La porte d'entrée de l'osu! wiki est la [page principale](/wiki/Main_Page), qui est divisée en plusieurs catégories de haut niveau, chacune ayant une description générale et incluant une liste d'articles importants. Les articles non listés sur la page principale, qui sont généralement plus spécifiques, peuvent être atteints soit à partir d'autres pages en utilisant des liens en ligne, soit par le biais de la fonction de recherche du site.
+La porte d'entrée de l'osu! wiki est la [page principale](/wiki/Main_page), qui est divisée en plusieurs catégories de haut niveau, chacune ayant une description générale et incluant une liste d'articles importants. Les articles non listés sur la page principale, qui sont généralement plus spécifiques, peuvent être atteints soit à partir d'autres pages en utilisant des liens en ligne, soit par le biais de la fonction de recherche du site.
 
 Un article individuel décrit un seul terme ou concept et donne un aperçu général des sujets adjacents. Pour mieux illustrer le sujet, il est divisé en sous-sections couvrant différentes parties du terme. Il peut également inclure des captures d'écran pertinentes ou d'autres explications visuelles, ou encore des liens vers d'autres articles sur le sujet.
 

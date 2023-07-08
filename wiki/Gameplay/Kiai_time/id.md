@@ -10,7 +10,7 @@ outdated_translation: true
 
 # Waktu Kiai
 
-*Untuk peraturan seputar penggunaan waktu kiai, lihat: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*Untuk peraturan seputar penggunaan waktu kiai, lihat: [Ranking Criteria](/wiki/Ranking_criteria)*
 
 **Kiai Time** (atau *kiai*) adalah istilah yang diberikan untuk bagian waktu "khusus" untuk membantu menekankan bagian tertentu dari [beatmap](/wiki/Beatmap). Pemain dapat mengetahui jika suatu bagian dari beatmap tersebut adalah bagian waktu kiai jika mereka melihat efek visual tambahan di latar belakang. (seperti, hit circle bercahaya, bintang berterbangan, dan bintang berterjunan).
 

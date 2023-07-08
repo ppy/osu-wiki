@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
+---
+
 # Tab timing
 
-*Kunjungi juga: [Bagaimana cara mengatur waktu lagu](/wiki/Guides/How_to_Time_Songs)*
+*Kunjungi juga: [Bagaimana cara mengatur waktu lagu](/wiki/Guides/How_to_time_songs)*
 
 ![Cuplikan tab timing di dalam editor](/wiki/shared/timing/Timing_base.jpg)
 

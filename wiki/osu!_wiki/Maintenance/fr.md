@@ -2,7 +2,7 @@
 
 *Voir également : [Guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Cet article décrit les aspects techniques ou administratifs de l'osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Cet article décrit les aspects techniques ou administratifs de l'osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Administrateurs
 
@@ -26,7 +26,7 @@ Le [suivi des issues](https://github.com/ppy/osu-wiki/issues) de l'osu! wiki con
 
 Sur GitHub, les pull requests et les issues peuvent être tagués et classés à l'aide de [labels](https://github.com/ppy/osu-wiki/labels), qui montrent différents aspects d'un pull request ou d'un issue. Les labels sont informatifs, définis par les maintainers du wiki, et sont généralement auto-explicatifs. Bien qu'ils ne nécessitent aucune action de la part de l'utilisateur, les labels rouges servent de rappel ou d'appel à l'action pour les autres maintainers :
 
-- `rule change` : le changement affecte un ensemble de règles existant, comme les [critères de classement](/wiki/Ranking_Criteria), et doit être examiné par le propriétaire de la zone.
+- `rule change` : le changement affecte un ensemble de règles existant, comme les [critères de classement](/wiki/Ranking_criteria), et doit être examiné par le propriétaire de la zone.
 - `blocked` : le changement présente des problèmes qui doivent être résolus avant de poursuivre, ou dépend d'un autre problème qui doit être résolu en premier lieu.
 - `needs rebase` : la pull request comporte trop de petits commits non structurés, qui doivent subir un rebase et être mieux formulées ; cette opération est généralement effectuée par les maintainers juste avant la fusion.
 
@@ -128,7 +128,7 @@ Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, ma
 
 *Remarque : le site [osu-wiki status](https://osu.wiki/status/fr) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
 
-Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ### Traductions
 

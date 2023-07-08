@@ -98,7 +98,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 
 | Termo | Significado |
 | :-- | :-- |
-| Miss Rate (Error) | **Esses dois valores representam, respectivamente, o quão precoces e o quão atrasados os seus hits foram, em média**. Quanto mais alto o [OD value](/wiki/Client/Beatmap_editor/Song_Setup) do beatmap jogado, menor terão que ser esses valores para que você se saia bem. |
+| Miss Rate (Error) | **Esses dois valores representam, respectivamente, o quão precoces e o quão atrasados os seus hits foram, em média**. Quanto mais alto o [OD value](/wiki/Client/Beatmap_editor/Song_setup) do beatmap jogado, menor terão que ser esses valores para que você se saia bem. |
 | Unstable Rate | **Esse valor representa o quão consistente foi o seu timing nos hits**. Quanto menor o valor, melhor ainda (os melhores jogadores conseguem atingir abaixo de 100 com frequência). Note que esse índice mede a sua **consistência** e não *precisão*, então consistentemente acertar notas com 15ms de antecedência vale o mesmo que acertar no tempo certo. A fórmula usada é, essencialmente, a variação dos valores do Miss Rate (em milissegundos) multiplicado por 10. |
 
 #### Spin

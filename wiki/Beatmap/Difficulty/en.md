@@ -11,9 +11,9 @@ tags:
 
 *Not to be confused with [Beatmap](/wiki/Beatmap).*
 
-A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/Client/File_formats/Osu_(file_format)). It consists of [hit objects](/wiki/Gameplay/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Beatmapping/Timing_section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmap/Star_rating) usually give enough information to tell how challenging it is.
+A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/Client/File_formats/Osu_(file_format)). It consists of [hit objects](/wiki/Gameplay/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Client/Beatmap_editor/Timing) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmap/Star_rating) usually give enough information to tell how challenging it is.
 
-The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficulties can also be altered by various [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Gameplay/Game_modifier).
+The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficulties can also be altered by various [difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Gameplay/Game_modifier).
 
 From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
@@ -26,9 +26,9 @@ From the auditory perspective, a difficulty can augment the song by providing on
 
 ## Difficulty levels
 
-*See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*See also: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
-These are the typical levels of difficulty that a beatmap can fall under. Specific definitions and requirements of each can be found in their respective mode's [ranking criteria](/wiki/Ranking_Criteria).
+These are the typical levels of difficulty that a beatmap can fall under. Specific definitions and requirements of each can be found in their respective mode's [ranking criteria](/wiki/Ranking_criteria).
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -81,4 +81,4 @@ In some instances, such as [AIMod](/wiki/Client/Beatmap_editor/AiMod), difficult
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ and above
 
-Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_Criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.
+Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.

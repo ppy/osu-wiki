@@ -30,9 +30,9 @@ tags:
 
 与你的 osu! 帐号息息相关的一些问题。阅读下列内容以了解问题的解决方案。
 
-## Supporter {#supporter}
+## Supporter {id=supporter}
 
-### 我已经购买了 supporter，但是还没收到它！ {#missing-supporter}
+### 我已经购买了 supporter，但是还没收到它！ {id=missing-supporter}
 
 **根据你使用的支付服务（PayPal 或 Xsolla），支付结果到达我们这里可能会有些许的延迟。**
 
@@ -42,9 +42,9 @@ tags:
 
 请在邮件中附上你在支付过程中产生的订单信息（PayPal 或 Xsolla 的订单号等）。这可以帮助我们追踪和调查你的订单。
 
-## 帐号限制 {#restriction}
+## 帐号限制 {id=restriction}
 
-### 什么是“帐号限制”模式，具体解释是？ {#what-is-restriction}
+### 什么是“帐号限制”模式，具体解释是？ {id=what-is-restriction}
 
 **处于受限状态的账号，会被暂时或永久限制与社区的互动，包括交流、加入多人游戏、在排行榜上显示自己的成绩。**
 
@@ -54,17 +54,17 @@ tags:
 
 更多关于账户限制和上诉流程的信息，请参阅 *[账号限制](/wiki/Help_centre/Account_restrictions)*
 
-## 禁赛 {#tournament-bans}
+## 禁赛 {id=tournament-bans}
 
-### 什么是禁赛？ {#what-is-tournament-ban}
+### 什么是禁赛？ {id=what-is-tournament-ban}
 
 禁赛——顾名思义就是被禁止参加任何受官方支持的锦标赛。
 
 关于禁赛相关的更多信息，请参见：[禁赛](/wiki/Help_centre/Tournament_bans)
 
-## 登录 {#sign-in}
+## 登录 {id=sign-in}
 
-### 我忘记了我的用户名和密码！ {#lost-access}
+### 我忘记了我的用户名和密码！ {id=lost-access}
 
 **请使用 [找回密码页面](https://osu.ppy.sh/home/password-reset) 来找回你的账号，同时提供你注册账号时所使用的有效邮箱。**
 
@@ -77,7 +77,7 @@ tags:
 - 你能记得的最后一次正常使用账号的日期。
 - 其他任何你认为可能有帮助的证明信息（除了成绩或者回放，那些对我们没有帮助！）。
 
-### 我的账号被盜了！ {#account-theft}
+### 我的账号被盜了！ {id=account-theft}
 
 **尝试使用 [找回密码页面](https://osu.ppy.sh/home/password-reset) 来检测你的账号邮箱还是否可用。**
 
@@ -89,23 +89,23 @@ tags:
 
 请不要在你的邮件中附带成绩或者回放——我们无法通过这些信息核实你是账号的拥有者。
 
-### 我一直收到 “Bancho 用户验证失败” 的消息，这是什么意思？ {#authentication-error}
+### 我一直收到 “Bancho 用户验证失败” 的消息，这是什么意思？ {id=authentication-error}
 
 **当你和我们的服务器之间存在网络问题时，该提示会频繁出现。**
 
 你可以尝试一下方法来解决你的问题：
 
-#### 你的密码是否输入正确？ {#authentication-wrong-password}
+#### 你的密码是否输入正确？ {id=authentication-wrong-password}
 
 如果你忘记了你的密码是什么，你可以使用 [找回密码页面](https://osu.ppy.sh/home/password-reset) 来重置密码
 
-#### 你是否使用代理服务器或 VPN？ {#authentication-vpn}
+#### 你是否使用代理服务器或 VPN？ {id=authentication-vpn}
 
 **关闭它们然后再次连接可能可以解决问题。**
 
 一些 VPN 和代理服务器可能出于某种原因无法在 osu! 使用。
 
-### 我还是收到错误！ {#authentication-unknown-cause}
+### 我还是收到错误！ {id=authentication-unknown-cause}
 
 **我们需要你提供一份 `network.log` 文件来弄清楚为什么上方的方案都不能解决你的问题。**
 
@@ -113,7 +113,7 @@ tags:
 
 在极少数情况下，你可能需要联系你的 Internet 服务提供商（ISP）来询问这些问题。某些 ISP 过去曾在连接到 osu! 时遇到问题，通常是由于路由不佳。
 
-### 网站提示我已经尝试登录很多次！ {#sign-in-throttling}
+### 网站提示我已经尝试登录很多次！ {id=sign-in-throttling}
 
 **这是你多次登录失败后的临时保护措施，请 10-20 分钟后再尝试登录。**
 
@@ -121,7 +121,7 @@ tags:
 
 登录限制会在最多几个小时后解除，这时你可以再次登录。
 
-### 我没有收到任何来自 osu! 的邮件 / 我忘记了我的邮箱！ {#email-issues}
+### 我没有收到任何来自 osu! 的邮件 / 我忘记了我的邮箱！ {id=email-issues}
 
 **这可能说明你的账号所绑定的邮箱地址有问题。**
 
@@ -139,9 +139,9 @@ tags:
 - `sbcglobal.net`
 - `t-online.de`
 
-## 用户名更改 {#name-changes}
+## 用户名更改 {id=name-changes}
 
-### 我可以修改用户名么？ {#change-username}
+### 我可以修改用户名么？ {id=change-username}
 
 **当然可以！**
 
@@ -153,7 +153,7 @@ tags:
 
 如果你改名时弄错了，比如大小写、语法、拼写错误，你可以发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 请求更正。这样的改名是免费的，但是你**必须**通过邮件申请。请记住，我们不会每次都这样做，因此请确保你真的要修改！
 
-### 我可以使用别的玩家的用户名么？ {#take-existing-username}
+### 我可以使用别的玩家的用户名么？ {id=take-existing-username}
 
 **可以，但是有一些前提条件。**
 
@@ -163,17 +163,17 @@ tags:
 
 另外，你不能拿走拥有 [Ranked 谱面](/wiki/Beatmap/Category#上架-(ranked)) 或 [个人资料奖牌](/wiki/Community/Profile_badge) 的玩家的用户名。
 
-### 我可以改回我之前使用的用户名么？ {#revert-username}
+### 我可以改回我之前使用的用户名么？ {id=revert-username}
 
 **可以，但是仍有一些前提条件。**
 
-我们为用户资料卡直接显示的曾用名提供免费恢复。发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
+我们为用户资料卡直接显示的最后一个曾用名提供免费恢复。发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
 
 对任何其他先前名称的更改必须 [通过商店购买](https://osu.ppy.sh/store/products/32)。
 
 我们在一年内对一个账号只接受一次改回用户名的请求，所以请在联系我们之前认真思考一下！
 
-### 我账号的用户名已经被改回去了！ {#why-username-reverted}
+### 我账号的用户名已经被改回去了！ {id=why-username-reverted}
 
 **我们改回你用户名的原因只能是由于你改了一个不恰当的用户名。**
 
@@ -181,15 +181,15 @@ tags:
 
 如果使用的是 osu!supporter 赠送的免费用户名更改，我们不会再提供新的免费改名。
 
-### 我可以移除我的曾用名么？ {#hide-username-history}
+### 我可以移除我的曾用名么？ {id=hide-username-history}
 
 **在某些情况下可以。**
 
 你的个人资料将显示你之前购买的用户名更改，但我们只会有选择地删除可能对你造成问题的用户名。如果你曾使用的用户名中含有个人隐私 (如你的真实姓名) 或者可能（通过其他网站）泄露你的隐私，请发送移除请求邮件至 [accounts@ppy.sh](mailto:accounts@ppy.sh)。
 
-## 其他问题 {#other}
+## 其他问题 {id=other}
 
-### 我账号资料上的国旗是错误的！ {#wrong-flag}
+### 我账号资料上的国旗是错误的！ {id=wrong-flag}
 
 **很抱歉，我们无法为你更改。**
 
@@ -199,7 +199,7 @@ tags:
 
 不管听说过或你认识有人以前成功换过国旗，但请理解我们在任何情况下都不能为你更改。
 
-### 我可以拥有多个账号么？ {#no-multiaccounting}
+### 我可以拥有多个账号么？ {id=no-multiaccounting}
 
 **很遗憾，不行。**
 
@@ -211,7 +211,7 @@ tags:
 
 如果你现在有一个以上的帐号，请联系 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来解决问题。
 
-### 可以重置或者清除我账号上的数据记录么？ {#statistics-reset}
+### 可以重置或者清除我账号上的数据记录么？ {id=statistics-reset}
 
 **还不是时候。**
 
@@ -219,14 +219,14 @@ tags:
 
 这并不意味你可以创建一个新的账号来达到这一目的！多账号（开小号）行为是违反 [规章制度](/wiki/Rules#社区规定) 的，我们将会禁用掉我们注意到的帐号。
 
-### 我可以删除我的账号吗？ {#account-deletion}
+### 我可以删除我的账号吗？ {id=account-deletion}
 
 *关于删除帐号的更多消息，参见：[osu! 隐私政策 § 你的权利和控制](/wiki/Legal/Privacy#您的权利和控制)。*\
 *注意：帐户删除是永久性的，因此无法撤销！*
 
 是的，任何用户可以发邮件至 [privacy@ppy.sh](mailto:privacy@ppy.sh) 请求删除帐号。请记住，删除你的帐户是**永久操作**，这意味着它无法恢复或撤销。删除你的帐号不意味着你可以创建一个新账户，拥有多个帐号违反 [规章制度](/wiki/Rules#社区规定)。这意味着你将无法再使用 osu! 的在线功能。
 
-### 我不想继续玩了，但我不想删除我的账号！ {#account-lock}
+### 我不想继续玩了，但我不想删除我的账号！ {id=account-lock}
 
 任何用户都可以向 [accounts@ppy.sh](mailto:accounts@ppy.sh) 发送邮件，请求**锁定**他们的账号。之后该账号的密码将被打乱、邮箱地址将被清空，该用户将无法访问他的账号。通过这种方式锁定的账号有一周的解锁冷却时间，以防止滥用。
 
@@ -238,7 +238,7 @@ tags:
 
 如果不想访问自己的账号，你可以把邮箱地址和密码改成你永远记不住的随机字符串，然后登出账号。这和锁定基本上是相同的过程。当你准备好重返社区时，用之前的邮箱地址发送邮件至 [accounts@ppy.sh](mailto:accounts@ppy.sh) 请求重置密码即可。
 
-### 我可以在其他玩家登录过的电脑上玩 osu! 么？ {#shared-pc}
+### 我可以在其他玩家登录过的电脑上玩 osu! 么？ {id=shared-pc}
 
 **是的，当然可以。包括像网吧这样的公共电脑上打图。**
 
@@ -246,7 +246,7 @@ tags:
 
 如果你在公共电脑上，请注意你的账号安全。公共电脑是恶意软件的主要目标。
 
-### 我可以获取我所有玩过 / 下载过谱面的列表么？ {#all-played-beatmaps}
+### 我可以获取我所有玩过 / 下载过谱面的列表么？ {id=all-played-beatmaps}
 
 **你可以在网页上看到你所有玩过的谱面。**
 

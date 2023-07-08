@@ -8,7 +8,7 @@ no_native_review: true
 
 # Approach-Rate
 
-*Für empfohlene AR-Werte, siehe: [Ranking-Kriterien](/wiki/Ranking_Criteria)*
+*Für empfohlene AR-Werte, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
 
 **Approach-Rate** (auch **Annäherungsrate** oder ***AR*** genannt) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, die bestimmt, wann [Hit-Objekte](/wiki/Gameplay/Hit_object) im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten, erscheinen. Sie existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
 

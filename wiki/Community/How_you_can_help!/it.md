@@ -42,7 +42,7 @@ osu! ha un team dedicato alla revisione, i [Beatmap Nominators](/wiki/People/Bea
 
 - Guardate o cercate mappe [In Attesa](https://osu.ppy.sh/beatmapsets?s=pending) contenenti artisti o canzoni che ti piacciono e/o a cui vuoi contribuire.
 - Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) e lasciate dei feedback nella sezioni discussioni della beatmap.
-- Leggi la [Guida al Modding](/wiki/Modding) e i [Criteri per il Ranking](/wiki/Ranking_Criteria) per conoscere le basi del modding tecnico e cosa rende una beatmap classificabile.
+- Leggi la [Guida al Modding](/wiki/Modding) e i [Criteri per il Ranking](/wiki/Ranking_criteria) per conoscere le basi del modding tecnico e cosa rende una beatmap classificabile.
 - Unisciti ai canali  `#mapping` e `#modreqs` nella chat in gioco e unisciti al discorso o semplicamente leggi cosa viene scritto.
 - Se hai tempo e dedizione, apri una [Modding Queue](https://osu.ppy.sh/community/forums/60) per dare uno spazio ai creatori di beatmap un posto per richiedere delle mods.
 
@@ -58,7 +58,7 @@ Ecco alcuni dei modi con cui puoi contribuire:
 
 - Sfoglia il forum [Tornei](https://osu.ppy.sh/community/forums/55). I tornei richiedono molto tempo e lavoro per essere organizzati senza alcun intoppo. Puoi aiutare facendo da giudice spettatore in determinati casi.
 - Guarda cosa succede nel forum [Development](https://osu.ppy.sh/community/forums/2); quì è dove si svolgono la maggiorparte dei progetti seri.
-  - Unisciti al [Discord osu!dev](https://discord.gg/ppy)! Anche solamente seguendo e rimanendo aggiornato con lo sviluppo di osu! e i vari progetti è un ottimo modo di rimanere aggiornati.
+  - Unisciti al [server Discord osu!](https://discord.gg/ppy)! Anche solamente seguendo e rimanendo aggiornato con lo sviluppo di osu! e i vari progetti è un ottimo modo di rimanere aggiornati.
 - Unisciti a un [beatmap project](https://osu.ppy.sh/community/forums/53) e scopri quando collaborare con altri può essere divertente!
 - Inizia un tuo progetto o unisciti a quello di qualcun'altro! Che si tratti di riportare in auge la pippi danzante, o solamente fare qualcosa di bello per osu!, tutto è lecito!
   - Controlla la [lista di progetti popolari](/wiki/Community/Projects).

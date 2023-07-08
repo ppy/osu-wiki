@@ -2,7 +2,7 @@
 
 *Véase también: [Guía de contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Este artículo describe aspectos técnicos o administrativos de la osu! wiki. También cubre los procedimientos de mantenimiento, que son necesarios para mantenerlo fresco, tal vez usted pueda ayudar con [uno de ellos](#rutinas). Para todas las discusiones relacionadas con la wiki, use el canal `#osu-wiki` en el [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Este artículo describe aspectos técnicos o administrativos de la osu! wiki. También cubre los procedimientos de mantenimiento, que son necesarios para mantenerlo fresco, tal vez usted pueda ayudar con [uno de ellos](#rutinas). Para todas las discusiones relacionadas con la wiki, use el canal `#osu-wiki` en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Administradores
 
@@ -26,7 +26,7 @@ El [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) de la osu! 
 
 En GitHub, las solicitudes de cambios y los problemas se pueden etiquetar y clasificar mediante etiquetas, que muestran diferentes aspectos de una solicitud de cambios o del problema. Las etiquetas son informativas, establecidas por los mantenedores de la wiki y, por lo general, se explican por sí mismas. Si bien no requieren ninguna acción desde la perspectiva del usuario, las etiquetas rojas sirven como recordatorios o llamados a la acción para otros mantenedores:
 
-- `rule change`: el cambio afecta un conjunto de reglas existente, como los [criterios de clasificación](/wiki/Ranking_Criteria), y debe ser revisado por el propietario del área
+- `rule change`: el cambio afecta un conjunto de reglas existente, como los [criterios de clasificación](/wiki/Ranking_criteria), y debe ser revisado por el propietario del área
 - `blocked`: el cambio tiene problemas que deben resolverse antes de continuar, o depende de otro problema que debe resolverse primero
 - `needs rebase`: la solicitud de cambios tiene demasiados commits pequeños no estructurados, que deben reorganizarse y redactarse de una mejor manera; esto generalmente lo hacen los mantenedores justo antes de la fusión
 
@@ -126,7 +126,7 @@ Algunas características no están directamente relacionadas con el sitio web de
 
 *Nota: el sitio web de [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.*
 
-La wiki depende del apoyo de la comunidad de osu!. Puede ayudar a los mantenedores y otros colaboradores haciendo su parte. Para obtener información sobre cómo hacerlo, lea la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+La wiki depende del apoyo de la comunidad de osu!. Puede ayudar a los mantenedores y otros colaboradores haciendo su parte. Para obtener información sobre cómo hacerlo, lea la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ### Traducciones
 
