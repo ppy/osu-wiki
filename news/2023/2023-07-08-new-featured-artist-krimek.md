@@ -38,7 +38,7 @@ If music production weren't enough, [**Krimek**](https://osu.ppy.sh/users/234507
 
 ### Krimek - The Dark
 
-Try out [this brand new map](https://osu.ppy.sh/beatmapsets/2008599) hosted by [fergas](https://osu.ppy.sh/users/3144542) created specifically for an ongoing tournament!
+Try out [this brand-new map](https://osu.ppy.sh/beatmapsets/2008599) hosted by [fergas](https://osu.ppy.sh/users/3144542) created specifically for an ongoing tournament!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/371/Songs/Krimek%20-%20The%20Dark.mp3">
@@ -60,7 +60,7 @@ For those out of the loop, playlist leaders earn prizes based on [this cumulativ
 
 <RANKINGS_GO_HERE>
 
-Another playlist will be launched next week for **all modes** (alongside a *highly requested* new Featured Artist), so if you're itching to earn profile badge of your own while listening to top tier tunes, look out for that!
+Another playlist will be launched next week for **all modes** (alongside a *highly requested* new Featured Artist), so if you're itching to earn a profile badge of your own while listening to tier tunes, look out for that!
 
 ---
 
