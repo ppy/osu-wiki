@@ -146,7 +146,6 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 ## 참고
 
-[^task-achyoo]: osu! 게임 모드의 veto를 주로 관리합니다.
 [^task-fuju]: 유저 신고와 osu! 게임 모드의 SEV 등급을 주로 관리합니다.
 [^task-mo]: 내부 토론, 사무 및 문서의 처리를 주로 담당합니다.
 [^task-naxess]: [Aiess](https://github.com/Naxesss/Aiess) 및 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)의 유지/보수를 주로 담당합니다.
