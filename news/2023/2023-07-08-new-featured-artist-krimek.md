@@ -52,7 +52,7 @@ Try out [this brand new map](https://osu.ppy.sh/beatmapsets/2008599) hosted by [
 
 [At the start of last month](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists), we launched a batch of [**Featured Artist playlists** in osu!(lazer)](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists) for osu! and osu!mania. Now it's time to showcase the prize-winners!
 
-For those out of the loop, playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/en/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard). More specifically, anyone with 10 total points earns their own shiny profile badge!
+For those out of the loop, playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard). More specifically, anyone with 10 total points earns their own shiny profile badge!
 
 ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
 
