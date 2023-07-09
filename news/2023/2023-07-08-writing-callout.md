@@ -26,6 +26,7 @@ While there are no prerequisites to write for the front page, having knowledge o
 
 - Knowledge of the Markdown language
 - Basic knowledge of GitHub
+- Knowledge of the [news styling criteria](/wiki/News_styling_criteria)
 - A good knowledge of the English language & its grammar
 
 ## More tournament content on the front page
