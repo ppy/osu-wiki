@@ -36,15 +36,15 @@ Much of the discussion this time surrounded a long-debated topic: combo. Specifi
 
 - Directly decreasing the weight of the first few misses in the osu! game mode, since even one miss can have a huge impact on score.
 - Increasing the proportion in which accuracy affects score compared to combo in the osu! game mode. This was based on a [Twitter poll by peppy](https://twitter.com/ppy/status/1670681566547447808).
-- Drastically decreasing the value of high combos and aggressively scaling the combo's influence based on accuracy, for all game modes. This change has been [submitted to GitHub](https://github.com/ppy/osu/pull/24166) already.
+- Drastically decreasing the value of high combos and aggressively scaling combo's influence based on accuracy, for all game modes. This change has been [submitted to GitHub](https://github.com/ppy/osu/pull/24166) already.
 
-There were also some other issues brought up as well:
+There were some other issues brought up as well:
 
 - Hit values for slider ticks and some other judgement types currently don't match osu!(stable), which will be corrected.
-- Slider ends (which currently are almost completely optional to hit), slider hit accuracy and other changes to game mechanics. These will need more discussion.
+- Slider ends (which currently are almost completely optional to hit), slider hit accuracy and other changes to game mechanics have been contentious. These will need more discussion.
 - osu!mania PERFECT judgements are currently required for 100% accuracy, making it an incredibly difficult feat. Also to be discussed separately.
 
-In order to make sensible adjustments, focus should be spent on identifying problematic leaderboards and outlier scores that "feel wrong", to identify underlying issues and experiment with applying adjustments to get those scores closer to expectations.
+In order to make sensible adjustments, focus should be spent on identifying problematic leaderboards and outlier scores that "feel wrong", to identify underlying issues and experiment with applying changes to get those scores closer to expectations.
 
 This is were *you* come in. The osu! team is looking for feedback on what issues the current ScoreV2 system has in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
 
