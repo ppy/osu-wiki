@@ -46,10 +46,10 @@ There were some other issues brought up as well:
 
 In order to make sensible adjustments, focus should be spent on identifying problematic leaderboards and outlier scores that "feel wrong", to identify underlying issues and experiment with applying changes to get those scores closer to expectations.
 
-This is were *you* come in. The osu! team is looking for feedback on what issues the current ScoreV2 system has in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
+This is were *you* come in. We're looking for feedback on what issues the current ScoreV2 system has in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
 
 Keep in mind that there are as many opinions on scoring as there are players, and any adjustments will therefore focus on aligning things "close enough" to fix widely perceived issues, rather than debating over fine details.
 
 [Join the discussion in this forum thread!](LINK)
 
-—Walavouchey
+—osu! team
