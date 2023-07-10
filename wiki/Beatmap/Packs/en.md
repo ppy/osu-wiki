@@ -32,9 +32,9 @@ Beatmap packs are split into 7 categories with a special letter indicator:
 
 ## Importing
 
-1. Extract the downloaded beatmap pack archive. It should contain a lot of [`.osz` files](wiki/Client/File_formats/osz_(file_format)).
+1. Extract the downloaded beatmap pack archive. It should contain a lot of [`.osz` files](/wiki/Client/File_formats/osz_(file_format)).
 2. Move these `.osz` files into the `Songs` folder under the osu! installation directory, or select the files and drag them directly into the game window.
-3. The game should automatically import the beatmaps and delete the original `.osz` files. In case of issues, try pressing `F5` in the [song selection screen](wiki/Client/Interface#Song-select) to reprocess beatmaps.
+3. The game should automatically import the beatmaps and delete the original `.osz` files. In case of issues, try pressing `F5` in the [song selection screen](/wiki/Client/Interface#song-select) to reprocess beatmaps.
 
 ## Alternative downloads
 
