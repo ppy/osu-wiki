@@ -32,11 +32,11 @@ If you want to view the entire discussion, check out the VOD below:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bocgaVISSfg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Much of the discussion this time surrounded a long-debated topic: combo. Specifically, its significant — perhaps too significant — influence on score. These potential changes were discussed:
+Much of the discussion this time surrounded a long-debated topic: combo. Specifically, its significant — perhaps too significant — influence on score. These potential changes for the osu! game mode were discussed:
 
-- Directly decreasing the weight of the first few misses in the osu! game mode, since even one miss can have a huge impact on score.
-- Increasing the proportion in which accuracy affects score compared to combo in the osu! game mode. This was based on a [Twitter poll by peppy](https://twitter.com/ppy/status/1670681566547447808).
-- Drastically decreasing the value of high combos and aggressively scaling combo's influence based on accuracy, for all game modes. This change has been [submitted to GitHub](https://github.com/ppy/osu/pull/24166) already.
+- Directly decreasing the weight of the first few misses, since even one miss can have a huge impact on score.
+- Increasing the proportion in which accuracy affects score compared to combo. This was based on a [Twitter poll by peppy](https://twitter.com/ppy/status/1670681566547447808).
+- Drastically decreasing the value of high combos and aggressively scaling combo's influence based on accuracy. This change has been [submitted to GitHub](https://github.com/ppy/osu/pull/24166) already.
 
 There were some other issues brought up as well:
 
