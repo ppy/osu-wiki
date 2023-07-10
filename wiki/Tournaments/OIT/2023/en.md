@@ -48,8 +48,8 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 | Admin | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
 | Mappool selector | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
 | Mappool helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [Melize](https://osu.ppy.sh/users/10778215), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=KR }:: [cotton\_\_123](https://osu.ppy.sh/users/9823042), ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) |
-| Playtester | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577) |
+| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [Melize](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=KR }:: [cotton\_\_123](https://osu.ppy.sh/users/9823042), ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) |
+| Playtester | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
 | Streamer | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Commentator | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
 | Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Osawa Rurino](https://osu.ppy.sh/users/20160331), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [Kurotei](https://osu.ppy.sh/users/19428674), ::{ flag=ID }:: [BlooMertz](https://osu.ppy.sh/users/24134742), ::{ flag=ID }:: [NotDens](https://osu.ppy.sh/users/17311355), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897),  ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [Smato](https://osu.ppy.sh/users/5616307), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
@@ -89,6 +89,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (193 MB)](https://mappack.yewonkim.tk/download/jE8MBuvr)**
+
+- NoMod
+  1. [KAF - Tatoeba (Rtyzen) \[Light\]](https://osu.ppy.sh/beatmapsets/1850935#osu/3802333)
+  2. [xi - Fiat Lux (knowledgeking) \[Let There Be Light\]](https://osu.ppy.sh/beatmapsets/1764633#osu/3612033)
+  3. [Jimmy Weckl - Get Happy (Saturnalize) \[Festive\]](https://osu.ppy.sh/beatmapsets/1098547#osu/2295195)
+  4. [USAO - Cthugha (Raids) \[Raids x Shinjuko's Flamedweller ft. Celine\]](http://osu.ppy.sh/beatmapsets/2018170#osu/4202376)
+  5. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)  
+- Hidden
+  1. [Uso to Chameleon - Karakuri Destruction (Surgis\_) \[Flake's Ekstreme\]](https://osu.ppy.sh/beatmapsets/1968237#osu/4115109)
+  2. [Yorushika - Matasaburo (Aragon) \[Raijodo & a\_blue's Collab Expert\]](https://osu.ppy.sh/beatmapsets/1566187#osu/3614534)
+  3. [kors k - Insane Techniques (Plasma) \[Yokes' EX\]](https://osu.ppy.sh/beatmapsets/1783252#osu/3664066)  
+- HardRock
+  1. [Komame - Nostalgia feat. GUMI (Suzuaki\_Rin) \[Nostalgic\]](https://osu.ppy.sh/beatmapsets/1891143#osu/3896479)
+  2. [Brandy - Cross Time !! (Leader) \[Muya's XX\]](https://osu.ppy.sh/beatmapsets/973162#osu/2150750)
+  3. [Mitsukiyo - Constant Moderato (araran) \[Pino's Lateran\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3373417)
+- DoubleTime
+  1. [sana - Senpai. (Kyuukai) \[litoluna's Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1384674)
+  2. [seleP - Scarlet Rose (Amamya) \[Heilia's Scarlet Insane\]](https://osu.ppy.sh/beatmapsets/1936956#osu/4090500)
+  3. [Utsu-P - Imperfect Animals (kuyusu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1377324#osu/2861696)
+  4. [Diskoria, Laleilmanino, Eva Celia - C.H.R.I.S.Y.E. (Raids) \[Roses\]](https://osu.ppy.sh/beatmapsets/1853565#osu/3808761)
+- FreeMod
+  1. [The Ritual Aura - Ectoplasm (Mazzerin) \[Synthetic Absolutism - Original\]](https://osu.ppy.sh/beatmapsets/1563639#osu/3193037)
+  2. [kors k - SigSig (AJT) \[Dream\]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298591)
+  3. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  4. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#osu/3853301)
+- Tiebreaker
+  1. **[OctagonCollaboration - The Glorious Octagon of Destiny (FAW) \[f4uz4n's hard ft. raids\]](https://osu.ppy.sh/beatmapsets/2016959#osu/4199136)**
 
 ### Quarterfinals
 
