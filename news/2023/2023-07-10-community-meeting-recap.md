@@ -8,7 +8,7 @@ Catch up on the latest community meeting and participate in discussing the final
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-Last week a [community meeting](/wiki/Community/osu!_community_meetings) was held to discuss how to proceed with scoring in osu!(lazer) with various people in the community.
+About a week ago [community meeting](/wiki/Community/osu!_community_meetings) was held to discuss how to proceed with scoring in osu!(lazer) with various people in the community.
 
 If you missed the [previous meeting](https://www.youtube.com/watch?v=idmI03A8jR8), here's the quick summary of where we have been:
 
