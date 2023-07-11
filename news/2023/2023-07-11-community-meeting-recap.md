@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Meeting Recap"
-date: 2023-07-10 15:00:00 +0000
+date: 2023-07-11 09:00:00 +0000
 ---
 
 Catch up on the latest community meeting and participate in discussing the final evolution of osu!'s scoring system!
