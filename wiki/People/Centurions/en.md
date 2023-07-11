@@ -1,6 +1,6 @@
 # Centurions
 
-Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) [Ranked](/wiki/Beatmap/Category#ranked) [beatmaps](/wiki/Beatmap). Starting from July 2023, their outstanding dedication to the ranking process is recognised through the following rewards:
+Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) [Ranked](/wiki/Beatmap/Category#ranked) [beatmaps](/wiki/Beatmap). Starting from July 2023, their outstanding dedication towards helping make osu! more awesome through beatmaps is recognised through the following rewards:
 
 - The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 - A special Centurion [profile badge](/wiki/Community/Profile_badge).
