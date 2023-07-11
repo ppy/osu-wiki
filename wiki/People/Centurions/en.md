@@ -2,7 +2,7 @@
 
 Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) Ranked beatmaps. Starting from July 2023, their outstanding dedication to the ranking process is recognized through the following rewards:
 
-- The Centurion [beatmap packs](/wiki/en/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the beatmap packs page.
+- The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the beatmap packs page.
 - A special Centurion badge on their profile.
 
 ![Centurion badge](img/centurion.png "Centurion Mapper (100+ Beatmaps Ranked)")
@@ -17,7 +17,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) |  |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12)  |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) |  |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3)  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-10-02](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4)  |
