@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
