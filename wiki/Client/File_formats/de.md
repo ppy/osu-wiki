@@ -31,7 +31,7 @@ Kreiere eine Kopie der Datei und öffne sie mit osu!, um das Archiv zu testen.
 
 ### Verwendung von osu!
 
-Um ein Beatmap-Archiv zu produzieren:
+Um ein Beatmap-Archiv anzulegen:
 
 - Öffne eine Beatmap mit dem [Editor](/wiki/Client/Beatmap_editor).
 - Wähle `Datei` > `Paket exportieren ...` aus dem [oberen Menü](/wiki/Client/Beatmap_editor/Menu).
