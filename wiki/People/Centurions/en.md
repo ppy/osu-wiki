@@ -1,9 +1,9 @@
 # Centurions
 
-Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) Ranked beatmaps. Starting from July 2023, their outstanding dedication to the ranking process is recognized through the following rewards:
+Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) [Ranked](/wiki/Beatmap/Category#ranked) [beatmaps](/wiki/Beatmap). Starting from July 2023, their outstanding dedication to the ranking process is recognised through the following rewards:
 
-- The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the beatmap packs page.
-- A special Centurion badge on their profile.
+- The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+- A special Centurion [profile badge](/wiki/Community/Profile_badge).
 
 ![Centurion badge](img/centurion.png "Centurion Mapper (100+ Beatmaps Ranked)")
 
@@ -28,5 +28,5 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 
 ## Trivia
 
-- The first user to reach 100 Ranked beatmaps was [DJPop](https://osu.ppy.sh/users/2363), on 2010-08-04.
+- The first user to reach 100 Ranked beatmaps was [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
 - On average, it takes approximately **3 years** (around 1166 days) to rank 100 beatmaps.
