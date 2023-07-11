@@ -5,7 +5,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 - The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 - A special Centurion [profile badge](/wiki/Community/Profile_badge).
 
-![Centurion badge](img/centurion.png "Centurion Mapper (100+ Beatmaps Ranked)")
+![Centurion badge](img/centurion.png "Centurion badge (100+ beatmaps ranked)")
 
 ## List of Centurions
 
