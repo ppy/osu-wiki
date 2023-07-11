@@ -4,7 +4,7 @@ title: "Community Meeting Recap"
 date: 2023-07-10 15:00:00 +0000
 ---
 
-Catch up on the latest community meeting and participate in discussing the final changes to osu!(lazer)'s scoring system!
+Catch up on the latest community meeting and participate in discussing the final evolution of osu!'s scoring system!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
@@ -22,7 +22,7 @@ And here's where we are now:
 
 - The discussed changes to mod multipliers for speed adjustment mods have been implemented.
 - Further internal discussion has led to the decision that leaderboards will be either wholly or partially wiped **just once** when the new scoring system is finalised, instead of multiple times.
-- ScoreV2 is now implemented as the current scoring system in osu!(lazer). It will be adjusted **one final time and then locked permanently**. Previous scores will be converted to this system.
+- ScoreV2 is now implemented as the current scoring system in osu!(lazer). It will be adjusted **one final time and then locked permanently**, after which all existing scores will be converted to this system.
 
 It's that last point that motivated this meeting. ScoreV2 has proven to be a better scoring system as it has been used for tournament play for years, but there may be issues that could be addressed. *What* adjustments to make, if any, is the big question.
 
@@ -44,12 +44,14 @@ There were some other issues brought up as well:
 - Slider ends (which currently are almost completely optional to hit), slider hit accuracy and other changes to game mechanics have been contentious. These will need more discussion.
 - osu!mania PERFECT judgements are currently required for 100% accuracy, making it an incredibly difficult feat. Also to be discussed separately.
 
+---
+
 In short, ScoreV2 is the future — or at least an improved version of it. But in order to make sensible adjustments, focus should be spent on identifying problematic leaderboards and outlier scores that "feel wrong", to identify underlying issues and experiment with applying changes to get those scores closer to expectations.
 
 This is were *you* come in. We're looking for feedback on the current ScoreV2 system in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
 
 Keep in mind that there are as many opinions on scoring as there are players, and any adjustments will therefore focus on aligning things "close enough" to fix widely perceived issues, rather than debating over fine details.
 
-A lot of extensive discourse about scoring has been going on for months already, e.g. in [this GitHub thread](https://github.com/ppy/osu/discussions/24104) concerning ScoreV2 as it currently stands. If want to contribute, post your well-thought-out ideas, aggregated survey findings and feedback for other proposals there.
+A lot of extensive discourse about scoring has been going on for months already, e.g. in [this GitHub thread concerning ScoreV2 as it currently stands](https://github.com/ppy/osu/discussions/24104). If want to contribute, post your well-thought-out ideas, aggregated survey findings and feedback for other proposals there.
 
 —osu! team
