@@ -24,9 +24,9 @@ tags:
 
 ## 行为
 
-![编辑时堆叠打击物件会让它们于顶部互相重叠。](img/stacking-editor.jpg "编辑时堆叠打击物件")
+![编辑界面的堆叠打击物件会完全重叠。](img/stacking-editor.jpg "编辑界面的堆叠打击物件")
 
-![然而在游玩时，游戏会为玩家把物件斜向错开。](img/stacking-playtest.jpg "游玩时的堆叠打击物件")
+![然而在游玩界面，为了便于玩家读图，游戏会把物件斜向排开。](img/stacking-playtest.jpg "游玩界面的堆叠打击物件")
 
 堆叠度连同[缩圈速度](/wiki/Beatmap/Approach_rate)控制哪些圆圈和滑条部分被认为是堆叠。[^stacking-algorithm]堆叠由间隔时间不长于 `preempt * StackLeniency` 毫秒的物件组成，其中 `preempt` 是[window width](/wiki/Beatmap/Approach_rate#动画时长)，`StackLeniency` 是从谱面 `.osu` 文件中获取的值。
 
