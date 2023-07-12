@@ -19,7 +19,7 @@
 
 ## 设计 (Design)
 
-[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 提供制作[故事板](/wiki/Storyboard)（随谱面出现的视觉效果）的一种方式。由于故事板常带有复杂效果，需要使用许多故事板命令，谱师也会[利用脚本制作故事板](/wiki/Storyboard/Scripting)取而代之。
+[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 提供制作[故事板](/wiki/Storyboard)（随谱面出现的视觉效果）的一种方式。由于故事板常带有复杂效果，需要使用许多故事板命令，作图者也会[利用脚本制作故事板](/wiki/Storyboard/Scripting)取而代之。
 
 ## 测定时间轴 (Timing)
 
