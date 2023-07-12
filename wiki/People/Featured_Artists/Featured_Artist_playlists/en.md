@@ -39,23 +39,31 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | :-- | :-- |
 | ::{ flag=US }:: **[Trail Mix](https://osu.ppy.sh/users/3328742)** | **13** |
 | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | **10** |
+| ::{ flag=CA }:: **[Vararaup](https://osu.ppy.sh/users/8257675)** | **10** |
+| ::{ flag=BY }:: **[TemaZpro](https://osu.ppy.sh/users/5510197)** | **10** |
+| ::{ flag=DE }:: [Maxe191](https://osu.ppy.sh/users/2184751) | 6 |
 | ::{ flag=SE }:: [Felrion](https://osu.ppy.sh/users/3673083)[^previous-prize] | 5 |
 | ::{ flag=AU }:: [Chef](https://osu.ppy.sh/users/12736534)[^previous-prize] | 5 |
+| ::{ flag=FI }:: [Wolfey-](https://osu.ppy.sh/users/10504284) | 4 |
 | ::{ flag=HU }:: [Lexion](https://osu.ppy.sh/users/5271371)[^previous-prize] | 3 |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | 3 |
+| ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292) | 3 |
 | ::{ flag=US }:: [WillCookie](https://osu.ppy.sh/users/6404488) | 2 |
-| ::{ flag=FI }:: [Wolfey-](https://osu.ppy.sh/users/10504284) | 2 |
 | ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237) | 2 |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 2 |
 | ::{ flag=US }:: [Swiq_](https://osu.ppy.sh/users/11269055) | 1 |
 | ::{ flag=PL }:: [Sowisty](https://osu.ppy.sh/users/6808620) | 1 |
 | ::{ flag=BG }:: [- Frane-](https://osu.ppy.sh/users/7211425) | 1 |
 | ::{ flag=US }:: [razorfruit](https://osu.ppy.sh/users/4470775) | 1 |
-| ::{ flag=US }:: [razorfruit](https://osu.ppy.sh/users/4470775) | 1 |
 | ::{ flag=MX }:: [Reimu-](https://osu.ppy.sh/users/1770700) | 1 |
-| ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292) | 1 |
-| ::{ flag=DE }:: [Maxe191](https://osu.ppy.sh/users/2184751) | 1 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 1 |
 | ::{ flag=US }:: [Junjou](https://osu.ppy.sh/users/7077648) | 1 |
+| ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | 1 |
+| ::{ flag=US }:: [Stoppedpuma](https://osu.ppy.sh/users/12654568) | 1 |
+| ::{ flag=US }:: [this_cord1985](https://osu.ppy.sh/users/19123572) | 1 |
+| ::{ flag=US }:: [Topical Kek](https://osu.ppy.sh/users/14480574) | 1 |
+| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | 1 |
+| ::{ flag=US }:: [Majernja](https://osu.ppy.sh/users/11379588) | 1 |
 
 #### osu!taiko
 
@@ -109,13 +117,20 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | :-- | :-- |
 | ::{ flag=CA }:: **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** | **12** |
 | ::{ flag=TH }:: **[AOMDco](https://osu.ppy.sh/users/21072569)** | **10** |
+| ::{ flag=US }:: **[mashu](https://osu.ppy.sh/users/12028216)** | **10** |
 | ::{ flag=US }:: [[GS]Teo](https://osu.ppy.sh/users/7081478)[^previous-prize] | 5 |
 | ::{ flag=ID }:: [Wishtynite](https://osu.ppy.sh/users/14217379) | 5 |
+| ::{ flag=TH }:: [Monpluk](https://osu.ppy.sh/users/23299675) | 5 |
 | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200)[^previous-prize] | 3 |
 | ::{ flag=KR }:: [leqek](https://osu.ppy.sh/users/1517607) | 3 |
+| ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) | 3 |
+| ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) | 3 |
 | ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737) | 2 |
 | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) | 2 |
 | ::{ flag=CN }:: [SoftC418](https://osu.ppy.sh/users/26856985) | 2 |
+| ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) | 2 |
+| ::{ flag=TH }:: [ZeroKungz](https://osu.ppy.sh/users/23155757) | 2 |
+| ::{ flag=TH }:: [Noobleh](https://osu.ppy.sh/users/11986603) | 2 |
 | ::{ flag=US }:: [Tofivu_](https://osu.ppy.sh/users/9152166) | 1 |
 | ::{ flag=ID }:: [Arzenvald](https://osu.ppy.sh/users/3027421) | 1 |
 | ::{ flag=KR }:: [AAAAFanboy](https://osu.ppy.sh/users/21870287) | 1 |
@@ -126,6 +141,12 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) | 1 |
 | ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436) | 1 |
 | ::{ flag=TH }:: [Guest034838](https://osu.ppy.sh/users/29964877) | 1 |
+| ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) | 1 |
+| ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959) | 1 |
+| ::{ flag=FI }:: [PianoLuigi](https://osu.ppy.sh/users/9665915) | 1 |
+| ::{ flag=ID }:: [Aphelion-](https://osu.ppy.sh/users/8370351) | 1 |
+| ::{ flag=TH }:: [KaiWut](https://osu.ppy.sh/users/19623499) | 1 |
+| ::{ flag=TH }:: [IMaxI](https://osu.ppy.sh/users/29186011) | 1 |
 
 ## Previous playlists
 
@@ -155,7 +176,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 ### June 2023
 
 - 6 beatmaps from May 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
-- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard), with modifications related to scoring algorithm changes as explained in [this announcement](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists)
 
 ## Notes
 
