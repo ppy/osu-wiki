@@ -315,17 +315,17 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Jeko - ØSU! TUTORIÄL (jeko's "ÆONIC KÄB00M!!!" remix)](https://www.youtube.com/watch?v=u-0rN8dUrBM) | [#1](https://osu.ppy.sh/beatmapsets/2000805) | Quarterfinals tiebreaker |
-| [Lxchee - //P0NIES\|IN\|0UTER\|SPACE\\\\](https://soundcloud.com/lxchee/fc-cso5dc-poniesinouterspace) | [#1](https://osu.ppy.sh/beatmapsets/2004695) | Semifinals NM4 |
-| [coµl vs. z u y a - acesoseeker](https://soundcloud.com/coulmusic/acesoseeker) | [#1](https://osu.ppy.sh/beatmapsets/2004696) | Semifinals NM5 |
-| [coµl & Naikou - LLII-3 MiSSiON](https://www.youtube.com/watch?v=ty5sEki5hiI) | [#1](https://osu.ppy.sh/beatmapsets/2004697) | Semifinals tiebreaker |
-| [satoru ohno - NotSoSafeBoot](https://soundcloud.com/satoruohno/satoruohno-notsosafeboot) | [#1](https://osu.ppy.sh/beatmapsets/2008564) | Finals NM6 |
+| [jeko - OSU! TUTORIAL (jeko's "AEONIC KAB00M!!!" remix)](https://www.youtube.com/watch?v=u-0rN8dUrBM) | [#1](https://osu.ppy.sh/beatmapsets/2000805) | Quarterfinals tiebreaker |
+| [Lxchee - //PONIES\|IN\|OUTER\|SPACE\\\\](https://soundcloud.com/lxchee/fc-cso5dc-poniesinouterspace) | [#1](https://osu.ppy.sh/beatmapsets/2004695) | Semifinals NM4 |
+| [coul vs. z u y a - Acesoseeker](https://soundcloud.com/coulmusic/acesoseeker) | [#1](https://osu.ppy.sh/beatmapsets/2004696) | Semifinals NM5 |
+| [coul & Naikou - LLII-3 MiSSiON](https://www.youtube.com/watch?v=ty5sEki5hiI) | [#1](https://osu.ppy.sh/beatmapsets/2004697) | Semifinals tiebreaker |
+| [Satoru Ohno - NotSoSafeBoot](https://soundcloud.com/satoruohno/satoruohno-notsosafeboot) | [#1](https://osu.ppy.sh/beatmapsets/2008564) | Finals NM6 |
 | [Naikou & Cedric Milhau - Po5t-m0d3rn\_Nostalgia](https://break-trax.bandcamp.com/track/po5t-m0d3rn-nostalgia) | [#1](https://osu.ppy.sh/beatmapsets/2008537) | Finals tiebreaker |
-| [Naikou - J1407B](https://break-trax.bandcamp.com/track/j1407b) | [#1](https://osu.ppy.sh/beatmapsets/2012614) | Grand Finals NM2 |
-| [roər - ∀NARCHIC LIGHT](https://soundcloud.com/rroer/anarchic-light) | [#1](https://soundcloud.com/rroer/anarchic-light) | Grand Finals NM4 |
+| [Naikou - J1407b](https://break-trax.bandcamp.com/track/j1407b) | [#1](https://osu.ppy.sh/beatmapsets/2012614) | Grand Finals NM2 |
+| [roer - ANARCHIC LIGHT](https://soundcloud.com/rroer/anarchic-light) | [#1](https://osu.ppy.sh/beatmapsets/2012616) | Grand Finals NM4 |
 | [Dakshyto - XFADYAMNS](https://soundcloud.com/user-470520450/dakshyto-xfadyamns-fc-cols-scuffed-overskilled-5-digit-cup) | [#1](https://osu.ppy.sh/beatmapsets/2012649) | Grand Finals NM5 |
-| [coµl & thiccarlos - METROgnome](https://soundcloud.com/coulmusic/metrognome) | [#1](https://osu.ppy.sh/beatmapsets/2012654) | Grand Finals NM6 |
-| [Auzenlyxius - ΛnoctisiΛ](https://soundcloud.com/auzenlyxius/anoctisia) | [#1](https://osu.ppy.sh/beatmapsets/2012591) | Grand Finals HR2 |
+| [tc (thiccarlos) & coul - METROgnome](https://soundcloud.com/coulmusic/metrognome) | [#1](https://osu.ppy.sh/beatmapsets/2012654) | Grand Finals NM6 |
+| [Auzenlyxius - AnoctisiA](https://soundcloud.com/auzenlyxius/anoctisia) | [#1](https://osu.ppy.sh/beatmapsets/2012591) | Grand Finals HR2 |
 | [{UN//KNOWN:ENERGY} - ://C0DE:N#ME AP0110\\\\:](https://soundcloud.com/break-trax/fc-cso5dc-unknownenergy-c0denme-ap0110) | [#1](https://osu.ppy.sh/beatmapsets/2012652) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Continental Global Taiko Showdown 2021](/wiki/Tournaments/GTS/CGTS_2021)
