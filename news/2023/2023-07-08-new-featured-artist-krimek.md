@@ -64,10 +64,8 @@ Because of this, we've decided to reward users based on their **highest placemen
 
 #### osu!
 
-**Before reprocessing:**
-
-| Playlist rank (before reprocess) | (after reprocess) | User | Points earned | Total points |
-| --: | :-- | :-- | :-- | :-- |
+| Rank (before) | (after) | User | Points earned | Total points |
+| --: | --: | :-- | :-- | :-- |
 | #1 | #3 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) | **10** | **10** |
 | #2 | #2 | ::{ flag=DE }:: [Maxe191](https://osu.ppy.sh/users/2184751) | 5 | 6 |
 | #3 | #1 | ::{ flag=BY }:: [TemaZpro](https://osu.ppy.sh/users/5510197) | **10** | **10** |
