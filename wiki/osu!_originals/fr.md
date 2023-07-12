@@ -300,7 +300,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Gomadare - Resolver](https://www.youtube.com/watch?v=LazTyDAhaDg) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | DT1 des phases de qualification |
 | [HAGISOPH - Trip Coffee](https://www.youtube.com/watch?v=_Ua-OGqu2rQ) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | NM3 des phases de qualification |
 | [Kurubukko - Inner World Monologue](https://soundcloud.com/kurubukko/inner-world-monologue) | [#1](https://osu.ppy.sh/beatmapsets/2023498) | HD1 des phases de qualification |
-| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) | #1 | Thème principal |
+| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Thème principal |
 | [NormalM feat. Usagi Denki - Luminous Entities Lost Heart](https://soundcloud.com/normalmusiccc/luminous-entities-lost-heart-feat-for-coegts-2023-qualifers-fm) | [#1](https://osu.ppy.sh/beatmapsets/2023493) | Force Mod des phases de qualification |
 | [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~](https://soundcloud.com/part-lerts/octagram) | [#1](https://osu.ppy.sh/beatmapsets/2023321) | HD2 des phases de qualification |
 | [Raphlesia - PSYCHO-BOMB](https://soundcloud.com/raphlesia/psycho-bomb) | [#1](https://osu.ppy.sh/beatmapsets/2023470) | NM2 des phases de qualification |
@@ -628,14 +628,14 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Kry.exe - <<SENT://iNEL>>](https://www.youtube.com/watch?v=4WRoaa4LSbM) | [#1](https://osu.ppy.sh/beatmapsets/2023743) | Tiebreaker des Grandes Finales |
 | [nm-y as "Vanquisher" - Chronodivinity](https://www.youtube.com/watch?v=ufswmOcfWAU) | [#1](https://osu.ppy.sh/beatmapsets/2023031) | Tiebreaker des huitième de finale & quarts de finale |
 | Noah - Unwavering Dignity | [#1](https://osu.ppy.sh/beatmapsets/2023572) | Tiebreaker des demi-finales |
-| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] | #1 | Musique de fond du stream |
-| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] | #1 | Musique de fond du stream |
+| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Musique de fond du stream |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Tiebreaker des finales |
 | Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Tiebreaker 1v1 du Battle Royale |
 

@@ -300,7 +300,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Gomadare - Resolver](https://www.youtube.com/watch?v=LazTyDAhaDg) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | Qualifiers DT1 |
 | [HAGISOPH - Trip Coffee](https://www.youtube.com/watch?v=_Ua-OGqu2rQ) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | Qualifiers NM3 |
 | [Kurubukko - Inner World Monologue](https://soundcloud.com/kurubukko/inner-world-monologue) | [#1](https://osu.ppy.sh/beatmapsets/2023498) | Qualifiers HD1 |
-| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) | #1 | Main theme |
+| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Main theme |
 | [NormalM feat. Usagi Denki - Luminous Entities Lost Heart](https://soundcloud.com/normalmusiccc/luminous-entities-lost-heart-feat-for-coegts-2023-qualifers-fm) | [#1](https://osu.ppy.sh/beatmapsets/2023493) | Qualifiers Force Mod |
 | [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~](https://soundcloud.com/part-lerts/octagram) | [#1](https://osu.ppy.sh/beatmapsets/2023321) | Qualifiers HD2 |
 | [Raphlesia - PSYCHO-BOMB](https://soundcloud.com/raphlesia/psycho-bomb) | [#1](https://osu.ppy.sh/beatmapsets/2023470) | Qualifiers NM2 |
@@ -628,14 +628,14 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Kry.exe - <<SENT://iNEL>>](https://www.youtube.com/watch?v=4WRoaa4LSbM) | [#1](https://osu.ppy.sh/beatmapsets/2023743) | Grand Finals tiebreaker |
 | [nm-y as "Vanquisher" - Chronodivinity](https://www.youtube.com/watch?v=ufswmOcfWAU) | [#1](https://osu.ppy.sh/beatmapsets/2023031) | Round of 16 & Quarterfinals tiebreaker |
 | Noah - Unwavering Dignity | [#1](https://osu.ppy.sh/beatmapsets/2023572) | Semifinals tiebreaker |
-| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] | #1 | Livestream BGM |
-| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] | #1 | Livestream BGM |
+| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] |  | Livestream BGM |
+| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Livestream BGM |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Finals tiebreaker |
 | Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Battle Royale 1v1 tiebreaker |
 

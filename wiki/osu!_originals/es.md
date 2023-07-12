@@ -300,7 +300,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Gomadare - Resolver](https://www.youtube.com/watch?v=LazTyDAhaDg) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | Clasificatorias DT1 |
 | [HAGISOPH - Trip Coffee](https://www.youtube.com/watch?v=_Ua-OGqu2rQ) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | Clasificatorias NM3 |
 | [Kurubukko - Inner World Monologue](https://soundcloud.com/kurubukko/inner-world-monologue) | [#1](https://osu.ppy.sh/beatmapsets/2023498) | Clasificatorias HD1 |
-| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) | #1 | Tema principal |
+| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Tema principal |
 | [NormalM feat. Usagi Denki - Luminous Entities Lost Heart](https://soundcloud.com/normalmusiccc/luminous-entities-lost-heart-feat-for-coegts-2023-qualifers-fm) | [#1](https://osu.ppy.sh/beatmapsets/2023493) | Clasificatorias Force Mod |
 | [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~](https://soundcloud.com/part-lerts/octagram) | [#1](https://osu.ppy.sh/beatmapsets/2023321) | Clasificatorias HD2 |
 | [Raphlesia - PSYCHO-BOMB](https://soundcloud.com/raphlesia/psycho-bomb) | [#1](https://osu.ppy.sh/beatmapsets/2023470) | Clasificatorias NM2 |
@@ -628,14 +628,14 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Kry.exe - <<SENT://iNEL>>](https://www.youtube.com/watch?v=4WRoaa4LSbM) | [#1](https://osu.ppy.sh/beatmapsets/2023743) | Desempate de la gran final |
 | [nm-y as "Vanquisher" - Chronodivinity](https://www.youtube.com/watch?v=ufswmOcfWAU) | [#1](https://osu.ppy.sh/beatmapsets/2023031) | Desempate de octavos de final & cuartos de final |
 | Noah - Unwavering Dignity | [#1](https://osu.ppy.sh/beatmapsets/2023572) | Desempate de las semifinales |
-| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] | #1 | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] | #1 | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Desempate de la final |
 | Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Desempate 1v1 de Battle Royale |
 
