@@ -16,32 +16,31 @@ Sfortunatamente, a causa della vastitià di hardware sul quale osu! funziona, è
 
 E' abbastanza difficile fornire supporto quando qualsiasi tipo di problema è ragruppato sotto la parola “lag”, quindi iniziamo col definire alcuni termini per dei scenari specifici.
 
-### Audio stuttering
+### Audio Intermittente
 
-The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. When diagnosing or reporting, it may help to:
+La attuale traccia audio della mappa si riavvolge indietro nel tempo, o si interrompe. Praticamente, quando il gioco lagga, puoi sentirlo nell'audio. Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
 
-- Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
-- Check whether turning on `Audio compatibility mode` in settings helps.
+- Controlla se succede su tutti i dispositivi audio. Se usi degli auricolari USB, prova a connetterli in analogico nel tuo PC.
+- Controlla se abilitare la `Audio compatibility mode` nelle impostazioni aiuta.
 
-### Spike frame
+### Calo di frame
 
-During gameplay, everything on the screen stops for long enough to be detrimental to the gameplay experience. This may happen more than once, at random or at consistent intervals. When diagnosing or reporting, it may help to:
+Durante il gameplay, tutto nello schermo si ferma per abbastanza tempo da compromettere l'esperienza di gioco. Questo potrebbe accadere più di una volta, casualmente oppure ad un intervallo costante. Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
 
-- Count how many times it happens in an average play session.
-- Check whether it always happens.
-- Check how often it happens, and whether it's at a consistent interval.
-- Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows Windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occur, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
+- Conta quante volte accade in una sessione di gioco media.
+- Controlla se succede sempre.
+- Controlla quanto spesso succede, e se è ad un intervallo costante.
+- Controlla se succede subito dopo un riavvio del PC.
+- Prova a chiudere qualsiasi applicazione che mostra un overlay nel gioco (Discord, Steam, NVIDIA Shadowplay, ecc.)
+- Assicurati di avere la [modalità gioco](https://support.xbox.com/it-IT/help/games-apps/game-setup-and-play/use-game-mode-gaming-on-pc) attiva. Permette a Windows di dedicare core e risorse ad osu!.
+- Apri il task manager e ordina la lista (sotto Dettagli) per CPU. Controlla eventuali alti utilizzi di CPU quando avvengono i cali, per esempio da un virus in background o uno scanner di malaware. Puoi anche eseguire osu! in finestra o lasciare il task manager su un secondo display per diagnosticare questa cosa mentre giochi o vedi una mappa in autoplay.
 
-### Input latency
+### Latenza Input
 
-There is a noticeable delay between tapping on the keyboard or moving your mouse or tablet pen, and seeing a resulting action on the screen. When diagnosing or reporting, it may help to:
-
-- Check whether it happens on all input devices, or one specifically.
-- If you are using non-official drivers, try switching to official ones instead.
-- Make sure you are running osu! in exclusive fullscreen mode. Running windowed or borderless adds up to one frame of latency.
+C'è un ritardo notevole tra la pressione della tastiera o muovere il mouse o la penna del tablet, e vedere l'azione risultante a schermo. Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
+- Controlla se questo avviene su tutti i dispositivi di input, o su uno in particolare.
+- Se stai utilizzando dei driver non ufficiali, prova a usare quelli ufficiali.
+- Assicurati di eseguire osu! nella modalità a schermo intero. Eseguire in modalità finestra o senza bordi aggiunge più di un frame di latenza.
 
 ### Loss of control
 
