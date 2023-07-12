@@ -65,6 +65,28 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 - [COE Twitter](https://twitter.com/CavoesOsuEvent)
 - [GTS Twitter](https://twitter.com/GTSosu)
 
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (53 MB)](https://mega.nz/file/GAwRlRRB#Wiy2qfs3Zhy0_N295QW3nWfLyj5FXcijpRKawDaepOo)**
+
+- No Mod
+  1. [ADA - cof (HiroK) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023393#taiko/4214663)
+  2. [Raphlesia - PSYCHO-BOMB (\_Rise) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023470#taiko/4214804)
+  3. [HAGISOPH - Trip Coffee (Cynplytholowazy) [Overdose]](https://osu.ppy.sh/beatmapsets/2023383#taiko/4214652)
+- Hidden
+  1. [Kurubukko - Inner World Monologue (\_yosh) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023498#taiko/4214857)
+  2. [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~ (uone) [Prologue]](https://osu.ppy.sh/beatmapsets/2023321#taiko/4214458)
+- Hard Rock
+  1. [Azurux - Get this drums (roufou) [rollfou style]](https://osu.ppy.sh/beatmapsets/2023371#taiko/4214627)
+  2. [4nzu - Aimgalc Girl (Reslice) (ler1211) [Magical Gril]](https://osu.ppy.sh/beatmapsets/2023508#taiko/4214871)
+- Double Time
+  1. [Gomadare - Resolver (Nwolf) [Bug fixed: SV is gone]](https://osu.ppy.sh/beatmapsets/2023265#taiko/4214288)
+  2. [SiLiS - Bodysnatch (TaikoMom) [Pod People Party]](https://osu.ppy.sh/beatmapsets/2023516#taiko/4214881)
+- Force Mod
+  1. [NormalM feat. Usagi Denki - Luminous Entities Lost Heart (Briesmas) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023493#taiko/4214841)
+
 ## Ruleset
 
 The full detailed rules are viewable in the [COEGTS 2023 rulebook](https://gtsosu.com/public/COEGTS-2023-Rules.pdf).
