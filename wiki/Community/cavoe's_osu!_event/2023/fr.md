@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f95036521b61621d28073f9ececa4321cccf1915
+---
+
 # cavoe's osu! event 2023
 
 ![Bannière COE 2023](img/banner.png)

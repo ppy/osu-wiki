@@ -4,7 +4,7 @@ In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping/
 
 ## Eigene Hitsounds erhalten
 
-Um in deinen Beatmaps eigene Hitsounds zu verwenden, musst du erst einmal welche haben! Die [Bibliothek für selbst erstellte Hitsounds](/wiki/Guides/Custom_Hitsound_Library) ist eine großartige Ressource, um Ton-Samples wie Becken, Trommeln, Glocken, Pfeifen und mehr zu finden. Alternativ kannst du, falls du nicht das findest, was du suchst, auch deine eigenen Samples erstellen!
+Um in deinen Beatmaps eigene Hitsounds zu verwenden, musst du erst einmal welche haben! Die [Bibliothek für selbst erstellte Hitsounds](/wiki/Guides/Custom_hitsound_library) ist eine großartige Ressource, um Ton-Samples wie Becken, Trommeln, Glocken, Pfeifen und mehr zu finden. Alternativ kannst du, falls du nicht das findest, was du suchst, auch deine eigenen Samples erstellen!
 
 Hitsounds sollten in den Formaten `.wav` oder `.ogg` gespeichert sein, da diese keine Wiedervergabeverzögerung haben und sich korrekt wiederholen. Tondateien im Format `.mp3` haben eine leichte Verzögerung und stimmen nicht immer genau mit dem Song, den du bearbeitest, überein. Allerdings können sie für bestimmte Effekte wie Applaus oder Umgebungsgeräusche verwendet werden, bei denen die Formate `.wav` oder `.ogg` untragbar gross sein können.
 

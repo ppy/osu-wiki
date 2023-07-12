@@ -40,7 +40,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 ## Beatmap gönderme kuralları
 
-*Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_Criteria) bakınız.*
+*Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_criteria) bakınız.*
 
 Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Beatmapping/Beatmap_submission) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Client/Beatmap_editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
 

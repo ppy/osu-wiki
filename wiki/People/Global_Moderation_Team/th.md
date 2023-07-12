@@ -14,7 +14,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 **Global Moderation Team (ทีมผู้ดูแล)** (เดิมชื่อ Global Mod Team, Administrators หรือ GreenBAT) โดยทั่วไปเรียกว่า **GMT** เป็นสมาชิกของชุมชนที่มุ่งเน้นในการดูแลผู้เล่นเป็นหลัก รวมถึงประเด็นที่เกี่ยวข้องกับทีม และชุมชนโดยรวม พวกเขาสังเกตได้จากตำแหน่งชื่อผู้ใช้ และสีของ username ซึ่งเป็นสีแดงในเกมและสีเขียวซิตรัสบนฟอรัม
 
-**Global Moderator ทุกคน ได้สาบานที่จะทำตาม[จรรยาบรรณผู้ช่วยเหลือ](/wiki/Rules/Contributor_Code_of_Conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
+**Global Moderator ทุกคน ได้สาบานที่จะทำตาม[จรรยาบรรณผู้ช่วยเหลือ](/wiki/Rules/Contributor_code_of_conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
 
 ## หน้าที่และความรับผิดชอบ
 

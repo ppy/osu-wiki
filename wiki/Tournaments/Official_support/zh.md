@@ -9,8 +9,6 @@ tags:
   - 申牌
   - 比赛
   - 锦标赛
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 官方锦标赛支持
@@ -19,7 +17,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 如果基于社区的锦标赛各项标准均符合官方团队的要求，[osu! 团队](/wiki/People/osu!_team)可以向这些锦标赛酌情提供额外的支持。
 
-文章最后于 2023 年 3 月 22 日 更新。如果有任何疑问或需要问题解答，请在 [osu! Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+文章最后于 2023 年 6 月 19 日 更新。如果有任何疑问或需要问题解答，请在 [osu! Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是通过 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 向[账户支持团队](/wiki/People/Account_support_team)发送邮件。
 
 ## 益处
 
@@ -34,11 +32,13 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 基于社区的锦标赛如果符合以下各项标准，将有资格获得支持：
 
 - 系列锦标赛一年内不能举办超过 2 次。
-- 赛制为双败淘汰赛，规模最小为 16 支队伍。—— [osu! 团队](/wiki/People/osu!_team)可能会提供其他赛制和最小规模标准。如果主办想给非传统赛制或规模的锦标赛申请支持，应联系[tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+- 赛制为双败淘汰赛，规模最小为 16 支队伍。
+  - 如果锦标赛含有小组赛或瑞士轮这样更广泛的赛制，并且在其后的双败淘汰赛中，保证至少有 16 支队伍，也符合要求。
+  - 锦标赛委员会可自行决定是否支持属于其他赛制或符合其他最小规模标准的锦标赛。如果主办想给非传统赛制或规模的锦标赛申请支持，应联系[tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 - 锦标赛帖子**必须**包含一个清晰可见的锦标赛主表格链接，以正常大小的字体显示，作为原帖的最后一部分内容。
   - `https://pif.ephemeral.ink/tournament-reports`
   - 这个举报表格由[锦标赛委员会](/wiki/People/Tournament_Committee)维护。我们鼓励所有玩家——参赛选手或工作人员们在必要时（如果锦标赛违反[期望](#期望)、[其他流程](#其他流程)、[支持标准](#支持标准)的任意一条），立刻通过这个表格举报。
-- 只允许达到特定排名水平的玩家参加，在这些游戏模式中，不允许世界排名水平低于以下的玩家参加：
+- 只允许达到特定排名水平的玩家参加，在这些游戏模式中，不允许世界排名大于（水平低于）以下标准的玩家参加：
   - osu!：100000（10 万）
   - osu!taiko：10000（1 万）
   - osu!catch：5000（5 千）
@@ -50,7 +50,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 首先，支持申请必须在**锦标赛正式开始之前提出**。提出申请的时间提前量没有具体限制，但我们建议提前两到三周发送支持申请，给官方筛查 (Screen) 选手的过程留出时间。
 
-如果你举办的锦标赛符合[支持标准](#支持标准)，可以按照以下的格式向 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 发送电子邮件：
+如果你举办的锦标赛符合[支持标准](#支持标准)，可以按照以下的格式通过 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 向账户支持团队发送邮件。
 
 - 简要描述你的锦标赛。包括锦标赛可能举办的日期、游戏模式和其他概括性的特性。
 - 任何链接：
@@ -104,7 +104,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 - 负责直播、解说、设计的玩家可以参赛。
 - 已经被淘汰的选手可以参加裁判、试图工作，或者给图池展示提供回放。
-- 这里未列出其他工作人员，不得参加带牌赛——如有任何疑问，请联系[tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+- 这里未列出其他工作人员，不得参加带牌赛——如有任何疑问，请通过 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 向账户支持团队发送邮件。
 
 禁赛中的玩家如果想要给任何官方支持的锦标赛提供帮助，应先透露他们的禁赛状态。主办可自行决定是否邀请他们参加直播、解说、设计职位。但因为这些玩家已经一次（或多次）违反了规则，所以我们建议主办再三考虑。除非主办在最初发出支持请求时，请求豁免他们，并且客户支持团队根据玩家的历史记录逐案评估后，这些玩家才有可能担任以上未提到的任何其他职位，否则，不得担任。
 

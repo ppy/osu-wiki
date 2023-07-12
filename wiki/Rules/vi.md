@@ -40,7 +40,7 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 
 ## Nội quy đăng beatmap
 
-*Chú ý: Những nội quy dưới đây áp dụng cho **mọi map đăng lên**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Ranking_Criteria).*
+*Chú ý: Những nội quy dưới đây áp dụng cho **mọi map đăng lên**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Ranking_criteria).*
 
 Những luật này được áp dụng chặt chẽ với mọi beatmap đăng trong game [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Những chủ đề/thảo luận được tạo thông qua osu! client khi một beatmap được đăng qua [editor](/wiki/Client/Beatmap_editor).
 

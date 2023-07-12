@@ -30,7 +30,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 어떠한 문제점에 맞닥뜨리면, 관련된 모든 노트를 선택하고 복사 단축키(`Ctrl` + `C`)를 통해 타임스탬프를 텍스트 형태로 복사합니다. 비트맵 토론 페이지에서 붙여넣기(`Ctrl` + `V`)를 통해 피드백과 관련된 타임스탬프를 표기합니다. `타임라인`탭은 비트맵 안에서 특정 파트에 관한 문제점을 게시하는데 쓰이며, `일반 (해당 난이도)`는 해당 난이도에 대한 전체적인 피드백을, `일반 (전체 난이도)`는 모든 난이도를 통틀어 피드백을 주기 위해 사용됩니다.
 
-모든 모딩 게시글은 문제점을 명시해야하며, 왜 그것이 문제인지, 해결법은 무엇인지 제시하여야 합니다. 올바른 모딩 게시글을 위한 더 자세한 정보를 확인하기 위해선 [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post)을 참고해주세요.
+모든 모딩 게시글은 문제점을 명시해야하며, 왜 그것이 문제인지, 해결법은 무엇인지 제시하여야 합니다. 올바른 모딩 게시글을 위한 더 자세한 정보를 확인하기 위해선 [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post)을 참고해주세요.
 
 비트맵 제작자들은 모딩이 유용하다고 생각했을 경우 모딩 게시글 오른쪽 위의 *엄지척* 버튼을 통해 [쿠도스](/wiki/Modding/Kudosu)를 부여할 수 있습니다. 이 쿠도스 통계는 각 개인 유저 프로필에 기록되며 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)에 지원할 시 일정 수준의 쿠도스가 요구됩니다.
 
@@ -42,4 +42,4 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 매핑에 대한 대안을 제시하는 것은 또 다른 흔한 모딩 게시글의 종류입니다. 비트맵이 현재 상태로도 괜찮아 보이지만, 모더는 또 다른 디자인을 제시하고 설명함으로써 비트맵을 향상시킬 수 있는 방법을 제공합니다.
 
-랭크 목적의 비트맵의 경우, [ranking criteria](/wiki/Ranking_Criteria)를 따르는 것이 필수적으로 요구됩니다. 몇몇 모딩 게시글의 경우 이러한 ranking criteria로부터 발췌한 문제점을 나열합니다.
+랭크 목적의 비트맵의 경우, [ranking criteria](/wiki/Ranking_criteria)를 따르는 것이 필수적으로 요구됩니다. 몇몇 모딩 게시글의 경우 이러한 ranking criteria로부터 발췌한 문제점을 나열합니다.

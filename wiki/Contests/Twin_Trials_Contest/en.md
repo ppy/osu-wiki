@@ -142,7 +142,7 @@ The storyboarding phase prizes will be announced after the beatmapping phase end
 - **Submission must use one of the [selected songs](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase#songs) by [James Landino](https://osu.ppy.sh/beatmaps/artists/39).**
 - **Submission must be in `.osz` format.**
 - **osu!mania beatmaps must be 4K or 7K.** Other key modes are not competitive enough for this contest.
-- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScZjjjyIwR_5phQeu5YhFIcMAm1Psu3vA89GhhJjxA8DuELnQ/viewform?fbzx=-2909660251574194870).**
   - If your country does not support Google Forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
   - Teams must have 2 members.
