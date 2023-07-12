@@ -81,7 +81,6 @@ Playlist rank (before reprocess) | (after reprocess) | User | Points earned | To
 | N/A | #9 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | 1 | 1 |
 | N/A | #10 | ::{ flag=US }:: [Majernja](https://osu.ppy.sh/users/11379588) | 1 | 1 |
 
-
 #### osu!mania
 
 | Playlist rank (before reprocess) | (after reprocess) | User | Points earned | Total points |
