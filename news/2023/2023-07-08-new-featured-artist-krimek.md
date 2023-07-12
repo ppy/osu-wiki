@@ -81,8 +81,8 @@ Because of this, we've decided to reward users based on their **highest placemen
 
 #### osu!mania
 
-| Playlist rank (before reprocess) | (after reprocess) | User | Points earned | Total points |
-| --: | :-- | :-- | :-- | :-- |
+| Rank (before) | (after) | User | Points earned | Total points |
+| --: | --: | :-- | :-- | :-- |
 | #1 | #1 | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) | **10** | **10** |
 | #2 | #2 | ::{ flag=TH }:: [Monpluk](https://osu.ppy.sh/users/23299675) | 5 | 5 |
 | #3 | #5 | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) | 3 | 3 |
