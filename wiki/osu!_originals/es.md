@@ -637,7 +637,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] | #1 | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] | #1 | Música de fondo de la transmisión en vivo |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Desempate de la final |
-| Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Desempate 1v1 de la Battle Royale |
+| Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Desempate 1v1 de Battle Royale |
 
 ### Lanzamientos oficiales del concurso de remixes de canciones
 

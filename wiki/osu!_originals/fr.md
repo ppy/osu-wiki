@@ -637,7 +637,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] | #1 | Musique de fond du stream |
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] | #1 | Musique de fond du stream |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Tiebreaker des finales |
-| Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | 1v1 tiebreaker de la Battle Royale |
+| Tatsh - IMAGE REBORN \~DIVINITY\~ | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Tiebreaker 1v1 du Battle Royale |
 
 ### Concours de remix de musiques officielles
 
