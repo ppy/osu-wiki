@@ -9,7 +9,7 @@ Il **Team di supporto**, conosciuto anche come **Support Team Redux**, sono memb
 Il Team di supporto è responsabile di:
 
 1. Provare e/o confermare segnalazioni di bug per permettere agli sviluppatori di riconoscere i problemi e risolverli.
-2. Oraganizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4) e [Aiuto](https://osu.ppy.sh/community/forums/5) e contrassegnarle come *Risolte*, *Confermate*, *Non Valide*, *Duplicate* e/o *Aggiunte*.
+2. Organizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4) e [Aiuto](https://osu.ppy.sh/community/forums/5) e contrassegnarle come *Risolte*, *Confermate*, *Non Valide*, *Duplicate* e/o *Aggiunte*.
 
 Se qualcuno ha bisogno di assistenza in questi subforum, loro dovrebbero essere i primi a cui bisogna rivolgersi.
 
