@@ -311,6 +311,23 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | pm04034 - cold smoothie coffee | [#1](https://osu.ppy.sh/beatmapsets/1592358) | Tiebreaker des Grandes Finales |
 | pm04034 - Sugary Mocaccino | [#1](https://osu.ppy.sh/beatmapsets/1592198) | NM2 des Grandes Finales |
 
+#### ![](/wiki/shared/mode/osu.png) Coul's Scuffed Overskilled 5 Digit Cup
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [{UN//KNOWN:ENERGY} - ://C0DE:N#ME AP0110\\\\:](https://soundcloud.com/break-trax/fc-cso5dc-unknownenergy-c0denme-ap0110) | [#1](https://osu.ppy.sh/beatmapsets/2012652) | Tiebreaker des Grandes Finales |
+| [Auzenlyxius - AnoctisiA](https://soundcloud.com/auzenlyxius/anoctisia) | [#1](https://osu.ppy.sh/beatmapsets/2012591) | HR2 des Grandes Finales |
+| [coul & Naikou - LLII-3 MiSSiON](https://www.youtube.com/watch?v=ty5sEki5hiI) | [#1](https://osu.ppy.sh/beatmapsets/2004697) | Tiebreaker des demi-finales |
+| [coul vs. z u y a - Acesoseeker](https://soundcloud.com/coulmusic/acesoseeker) | [#1](https://osu.ppy.sh/beatmapsets/2004696) | NM5 des demi-finales |
+| [Dakshyto - XFADYAMNS](https://soundcloud.com/user-470520450/dakshyto-xfadyamns-fc-cols-scuffed-overskilled-5-digit-cup) | [#1](https://osu.ppy.sh/beatmapsets/2012649) | NM5 des Grandes Finales |
+| [jeko - OSU! TUTORIAL (jeko's "AEONIC KAB00M!!!" remix)](https://www.youtube.com/watch?v=u-0rN8dUrBM) | [#1](https://osu.ppy.sh/beatmapsets/2000805) | Tiebreaker des quarts de finale |
+| [Lxchee - //PONIES\|IN\|OUTER\|SPACE\\\\](https://soundcloud.com/lxchee/fc-cso5dc-poniesinouterspace) | [#1](https://osu.ppy.sh/beatmapsets/2004695) | NM4 des demi-finales |
+| [Naikou & Cedric Milhau - Po5t-m0d3rn\_Nostalgia](https://break-trax.bandcamp.com/track/po5t-m0d3rn-nostalgia) | [#1](https://osu.ppy.sh/beatmapsets/2008537) | Tiebreaker des finales |
+| [Naikou - J1407b](https://break-trax.bandcamp.com/track/j1407b) | [#1](https://osu.ppy.sh/beatmapsets/2012614) | NM2 des Grandes Finales |
+| [roer - ANARCHIC LIGHT](https://soundcloud.com/rroer/anarchic-light) | [#1](https://osu.ppy.sh/beatmapsets/2012616) | NM4 des Grandes Finales |
+| [Satoru Ohno - NotSoSafeBoot](https://soundcloud.com/satoruohno/satoruohno-notsosafeboot) | [#1](https://osu.ppy.sh/beatmapsets/2008564) | NM6 des finales |
+| [tc (thiccarlos) & coul - METROgnome](https://soundcloud.com/coulmusic/metrognome) | [#1](https://osu.ppy.sh/beatmapsets/2012654) | NM6 des Grandes Finales |
+
 #### ![](/wiki/shared/mode/taiko.png) [Continental Global Taiko Showdown 2021](/wiki/Tournaments/GTS/CGTS_2021)
 
 | Musique | Beatmap | Notes |
