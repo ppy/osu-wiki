@@ -55,4 +55,4 @@ AR 值取值范围为 0 ~ 10。AR 值越高，打击物件的显示时间就越�
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：AR 值不受影响，但由于 50% 加速效果，打击物件显示在屏幕上的时间缩短 33%。
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：AR 值不受影响，但由于 25% 减速效果，打击物件显示在屏幕上的时间延长 33%。
 
-尽管 Half Time 与 Double Time 不改变 AR 值，但速度的不同也会使 AR 值看上去改变了一般。HT 或 DT 下的 AR 值通常指其感知值。比如，“AR 8 + DT”也可以写作“AR 9.6”。
+尽管 Half Time 与 Double Time 不改变 AR 值，但曲速的不同也会使 AR 值看上去像被改变了一样。HT 或 DT 下的 AR 值通常指其感知值。比如，“AR 8 + DT”也可以写作“AR 9.6”。

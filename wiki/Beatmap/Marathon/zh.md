@@ -12,6 +12,6 @@ stub: true
 
 当时，马拉松图也必须单独命名为 “Marathon”，以跳过谱面提交系统检查，并防止其进入[待定](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))类别。上架时，马拉松谱面会进入[达标](/wiki/Beatmap/Category#达标-(approved))类别而非[上架](/wiki/Beatmap/Category#上架-(ranked))类别，由此表明是马拉松图。此类别之后被弃用，由上架类别替代。
 
-马拉松图的定义后来改变为包含 5 分钟[掉血时间](/wiki/Beatmap/Drain_time)的图，允许[自定义难度命名](/wiki/Ranking_criteria/Difficulty_naming)。直到 2019 年引入更宽松的分布规则前，一直在使用此规则。
+马拉松图的定义后来改变为至少包含 5 分钟[掉血时间](/wiki/Beatmap/Drain_time)的谱面，并且允许[自定义难度命名](/wiki/Ranking_criteria/Difficulty_naming)。直到 2019 年引入更宽松的难度分布规则前，此规则一直被使用。
 
 <!-- TODO: Add links and stuff -->

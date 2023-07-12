@@ -1,7 +1,9 @@
 ---
 tags:
+  - difficulty
   - difficulty set
   - progression
+  - spread
   - 难度集
   - 渐进
 ---

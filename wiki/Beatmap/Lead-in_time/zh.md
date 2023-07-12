@@ -10,7 +10,7 @@ tags:
 
 *另见：[偏移量](/wiki/Offset)*
 
-**导入时间**指的是[谱面](/wiki/Beatmap)的第一个[打击物件](/wiki/Gameplay/Hit_object)前留给玩家的反应时间。[作图者](/wiki/Beatmapping)可以通过编辑[谱面难度](/wiki/Beatmap/Difficulty) [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))的 `AudioLeadIn` 字段来更改，此字段填有以毫秒为单位的导入时间。
+**导入时间**指的是[谱面](/wiki/Beatmap)的第一个[打击物件](/wiki/Gameplay/Hit_object)前留给玩家的反应时间。[谱师](/wiki/Beatmapping)可以通过编辑[谱面难度](/wiki/Beatmap/Difficulty) [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))的 `AudioLeadIn` 字段来更改，此字段填有以毫秒为单位的导入时间。
 
 ## 行为
 
