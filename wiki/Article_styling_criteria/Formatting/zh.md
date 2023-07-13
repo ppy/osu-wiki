@@ -602,7 +602,7 @@ JPG（或者 JPEG）文件格式的扩展名是`.jpg`（或者 `.jpeg`）。
 指向文章章节的 wiki 链接需要使用章节符号 (`§`)。参见以下示例：
 
 ```markdown
-*对于测量时间轴规定，参见：[谱面上架标准 (RC) § 时间轴](/wiki/Ranking_Criteria#timing)*
+*对于测量时间轴规定，参见：[谱面上架标准 (RC) § 时间轴](/wiki/Ranking_criteria#timing)*
 ```
 
 #### 其他 osu! 链接
