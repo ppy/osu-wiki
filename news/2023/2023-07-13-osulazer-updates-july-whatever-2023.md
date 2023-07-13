@@ -24,9 +24,11 @@ Now that our corporate overlords are satisfied, let's jump into what this releas
 - **Gameplay bug fixes.** Some of which include fixing 1 million score being unachievable on some osu!mania maps, skin elements being flipped in osu!catch when the "Floating Fruits" mod is active, and fixing animation timing for osu!taiko.
 - **New osu!taiko hitsounds for the argon skin.** Once again nekodex has blessed our ears with the sweet sounds of taiko drums.
 - **Huge performance improvements.** While we won't go into the specific details, even [peppy](https://osu.ppy.sh/users/2) was shocked by how big the improvements are, and is eager to see what the community thinks of it.
-- **OpenTabletDriver has been updated in-game.** If you didn't know, osu!(lazer) has OpenTabletDriver integrated, meaning you can adjust your tablet settings without having to leave the game or download third party drivers! With this update the game now supports more tablets, and improves support for existing tablets.
+- **OpenTabletDriver has been updated in-game.** If you didn't know, osu!(lazer) has integrated tablet drivers, meaning you can adjust your settings without having to leave the game or download third party drivers! With this update the game now supports more tablets, and improves support for existing tablets.
 
 Unfortunately we were not able to cover everything that has been changed, so we highly suggest that you check out the video digest above, or if you want to look into every nook and cranny that has been changed you can do so via the [changelog](https://osu.ppy.sh/home/changelog/lazer/2023.621.0).
+
+---
 
 If you have not given osu!(lazer) a try yet, we highly encourage you to do so, and share your opinions with the team!
 You can download the latest version of it [here](https://osu.ppy.sh/home/download).
