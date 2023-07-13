@@ -8,7 +8,9 @@ The seasons may change but through it all our love of rice and noodles remains! 
 
 ![](/wiki/Tournaments/MWC/2023_4K/img/mwc4k2023-banner.jpg)
 
-In keeping up with our ongoing efforts to introduce different mechanics for each world cup's format, the osu!mania 4K mappoolers cooked more than just rice and noodles. For the first time ever in a world cup, we are introducing a protect system! Now, you might be asking yourself, what even is a protect? Am I finally going to be able to protect my keyboard from those impossible chordjacks? And you would be wrong... No keyboard will be spared. The main idea behind this system is that each team can exclude *one* beatmap from being banned by either team, effectively "protecting" it. We look forward to seeing how this will change the pick and ban process!
+In keeping up with our ongoing efforts to introduce different mechanics for each world cup's format, the osu!mania 4K mappoolers cooked more than just rice and noodles. For the first time ever in a world cup, we are introducing a protect system!
+
+Now, you might be asking yourself, what even is a protect? Am I finally going to be able to protect my keyboard from those impossible chordjacks? And you would be wrong... No keyboard will be spared. The main idea behind this system is that each team can exclude *one* beatmap from being banned by either team, effectively "protecting" it. We look forward to seeing how this will change the pick and ban process!
 
 For more details, refer to the [osu!mania 4K World Cup 2023 wiki article](/wiki/Tournaments/MWC/2023_4K). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1792305) or at the public [osu! community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
