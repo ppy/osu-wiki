@@ -1,8 +1,3 @@
----
-tags:
-  - game client
----
-
 # Upgrading to lazer
 
 *Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
@@ -15,6 +10,8 @@ The eventual goal is that this version will be released as an update which will 
 
 ## Feature comparison
 
+*For a list of differences regarding game mechanics, see [Client/Release stream/Lazer/Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+
 The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
 
 ### Compatibility and performance
@@ -23,7 +20,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | :-- | :-- | :-- |
 | Windows 8.0 and lower | ![Yes][true] | ![No][false] |
 | macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
-| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
+| DirectX / Metal | ![Partial][partial][^compatibility-mode] | ![Yes][true] |
 | Mobile support | ![No][false] | ![Yes][true] |
 | Multithreaded architecture | ![No][false] | ![Yes][true] |
 | Hardware-accelerated video | ![No][false] | ![Yes][true] |
@@ -31,6 +28,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Custom rulesets (game modes) | ![No][false] | ![Partial][partial][^dll] |
 | De-duped file store | ![No][false] | ![Yes][true][^share-files] |
 | Tablet area adjustment | ![No][false] | ![Yes][true] |
+| Support for many aspect ratios | ![No][false] | ![Yes][true] |
 
 ### UI and skinning
 
@@ -39,22 +37,35 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
 | Song select grouping modes | ![Yes][true] | ![No][false] |
 | In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
+| Dynamic customisable skinning components | ![No][false] | ![Yes][true] |
 
-### Gameplay and skinning
+### Interface
+
+| Feature | stable | lazer |
+| :-- | :-- | :-- |
+| Storyboards in main menu | ![No][false] | ![Yes][true][^supporter] |
+| Hiding difficulties | ![No][false] | ![Yes][true] |
+| First-run setup wizard | ![No][false] | ![Yes][true] |
+| Soft deletion | ![No][false] | ![Yes][true][^soft-deletion] |
+| Immediate setting changes during gameplay | ![No][false] | ![Yes][true] |
+
+### Gameplay
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
-| Difficulty adjust mod | ![No][false] | ![Yes][true][^difficulty-adjust] |
+| Difficulty adjustment | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Mod presets | ![No][false] | ![Yes][true] |
 | Per-mod settings | ![No][false] | ![Yes][true] |
 | New "fun" mods | ![No][false] | ![Yes][true] |
 | Combo colour normalisation[^normalisation] | ![No][false] | ![Yes][true] |
 | Hold for HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
+| Per-beatmap offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
 | osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
+| osu!mania and osu! timing-based note colouring | ![No][false] | ![Yes][true] |
+| Replay seeking | ![No][false] | ![Yes][true] |
+| [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments | ![Yes][true] | ![No][false] |
 
 ### Online systems
 
@@ -66,7 +77,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Medals | ![Yes][true] | ![No][false] |
 | Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Wiki / News / Changelog / Rankings | ![No][false] | ![Yes][true][^online-content] |
+| Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
 | User profiles | ![No][false] | ![Yes][true] |
 | Beatmap listing | ![Partial][partial][^direct-supporter] | ![Yes][true] |
 | Unlimited multiplayer room size | ![No][false][^multi-room-max] | ![Yes][true] |
@@ -82,11 +93,14 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
+| osu! editor | ![Yes][true] | ![Yes][true] |
 | osu!taiko editor | ![No][false] | ![Yes][true] |
 | osu!catch editor | ![No][false] | ![Yes][true] |
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Per-segment slider curve types | ![No][false] | ![Yes][true] |
+| Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
 | Pattern resizing | ![No][false] | ![Yes][true] |
 | Beatmap submission | ![Yes][true] | ![No][false] |
@@ -143,11 +157,13 @@ Scores will show under "recently played" but not in "best performance" yet.
 
 #### If I set a score on lazer, will it give performance points?
 
-Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
+The "recently played" section of profile pages shows scores set in lazer with performance points calculated, and the total amount can be seen when hovering over the regular performance point total.
+
+Additionally, [lazer.ppy.sh](https://lazer.ppy.sh/home), an experimental instance of the osu! website, shows all totals and rankings with lazer scores accounted for.
 
 #### Does lazer use ScoreV2?
 
-Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
+Yes, it uses a scoring system based on it with some adjustments. ScoreV1 scores will be converted in the near future.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -169,7 +185,7 @@ For now, scores of all mod combinations appear on leaderboards. Whether scores w
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
-Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
+Please try applying the "Classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by the Classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
 ### Skinning and UI
 
@@ -217,7 +233,7 @@ Do note that we are already tracking over 1,000 issues of varying priorities, an
 
 #### Why is it called "lazer"?
 
-What is sharper than cutting–edge?
+What is sharper than cutting-edge?
 
 #### Why is it taking so long to become the "main" release?
 
@@ -243,7 +259,8 @@ Some filters in the beatmap listing are still supporter-only.
 
 There are also some additional benefits already:
 
-- Supporters can create playlists that last longer
+- Supporters can create playlists that last longer.
+- Supporters can enable storyboards to play in the main menu.
 
 We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
 
@@ -261,9 +278,8 @@ You're likely thinking of another game.
 
 ### Notes
 
-[^wine]: Using wine.
+[^wine]: Using Wine.
 [^compatibility-mode]: DirectX via compatibility mode.
-[^coming-soon]: Coming soon.
 [^dll]: Manually via `.dll` files.
 [^share-files]: Beatmaps and skins will share files and save on disk space.
 [^gameplay-only]: Gameplay only.
@@ -277,7 +293,9 @@ You're likely thinking of another game.
 [^score-reset-balance]: Scores will be reset to ensure balance.
 [^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
 [^online-content]: Native access to most online content.
-[^direct-supporter]: osu!direct, osu!supporter-only.
+[^direct-supporter]: Via osu!direct, osu!supporter-only.
+[^supporter]: osu!supporter-only.
+[^soft-deletion]: Restore deleted beatmaps and other data from the settings. Deletions only become permanent upon restart.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
@@ -287,7 +305,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
-[^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select.
+[^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
