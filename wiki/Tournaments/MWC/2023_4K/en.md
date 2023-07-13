@@ -86,10 +86,10 @@ The osu!mania 4K World Cup 2023 is run by various community members.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-13. Any attempts to manipulate bracket outcomes or future matchups will result in the immediate disqualification of the player/team from the competition. Examples of manipulative behavior include, but are not limited to:
+13. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player or team from the competition. Examples of manipulative behavior include, but are not limited to:
     - Colluding with other players or teams to force a desired matchup.
     - Deliberately playing poorly to lose a game or match.
-    - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting an easier matchup.
+    - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
 14. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 15. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
@@ -153,10 +153,10 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Teams must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `MWC4K2023: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain must use `!roll` once in the match's chatroom.
-   - The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+2. Each captain must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
+   1. The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+   3. The winner of the `!roll` starts picking the first beatmap of the match.
 3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
