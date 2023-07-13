@@ -39,7 +39,6 @@ Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim d
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
 - ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
 - ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
 - ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
