@@ -42,7 +42,7 @@ I fattori più importanti da considerare sono il comportamento, l'attività, la 
 
 In generale, il team osserverà le persone per diverse settimane o mesi per assicurarsi che siano una valida aggiunta al team. Sii paziente e non esagerare. Non esitare a chiedere a chiunque del GMT qualsiasi domanda riguardante le regole, la segnalazione degli utenti e qualsiasi altra problematica.
 
-### Alcune cose da evitare:
+### Alcune cose da evitare
 
 1. Non chiedere continuamente al GMT della tua posizione come potenziale candidato. Il GMT non cerca di aggiungere persone che contribuiscono solo come mezzo per ottenere qualcosa. Una mentalità altruistica è fondamentale.
 2. Non segnalare ogni piccola cosa nella chat. È importante saper distinguere ciò che vale la pena segnalare da ciò che non lo è.
