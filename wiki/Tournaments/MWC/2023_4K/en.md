@@ -86,10 +86,10 @@ The osu!mania 4K World Cup 2023 is run by various community members.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-13. Any attempts to manipulate bracket outcomes or future matchups will result in the immediate disqualification of the player/team from the competition. Examples of manipulative behavior include, but are not limited to:
+13. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player or team from the competition. Examples of manipulative behavior include, but are not limited to:
     - Colluding with other players or teams to force a desired matchup.
     - Deliberately playing poorly to lose a game or match.
-    - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting an easier matchup.
+    - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
 14. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 15. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
