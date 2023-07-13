@@ -16,7 +16,7 @@ For more details, refer to the [osu!mania 4K World Cup 2023 wiki article](/wiki/
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Jul 13 – July 27 (23:59 UTC) |
+| Registration phase | Jul 13 – Jul 27 (23:59 UTC) |
 | Qualifier showcase | Aug 06 (14:00 UTC) |
 | Qualifier stage | Aug 12 & Aug 13 |
 | Round of 32 | Aug 19 & Aug 20 |
