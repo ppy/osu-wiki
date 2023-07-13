@@ -62,12 +62,12 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 ### Tournament rules
 
 1. The osu!mania 4K World Cup is a country-based 3 versus 3 double-elimination team tournament, played on the osu!mania game mode (4K variant).
-   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria that is adopted.
+   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria adopted.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.
 4. The mappool for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
 5. The match schedules for each round will be announced by the tournament managers on this page, as well as the information sheet, on the Sunday before the matches take place.
-6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 3 participants from each team must be present for the match to begin).
@@ -85,7 +85,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 13. Any attempts to manipulate bracket outcomes or future matchups will result in the immediate disqualification of the player/team from the competition. Examples of manipulative behavior include, but are not limited to:
     - Colluding with other players or teams to force a desired matchup.
     - Deliberately playing poorly to lose a game or match.
@@ -118,7 +118,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
    - **Teams that do not not send their team list by August 3, 2023 (23:59 UTC) will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 4K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, players are required to be placed #5,000 or higher on the osu!mania 4K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
@@ -155,7 +155,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `MWC4K2023: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain will first protect one beatmap from the pool. Captains then proceed to each ban one beatmap from the pool, and they may not ban any of the maps that were protected. The banned beatmaps may not be picked by any team for the entire duration of the match.
 3. Each captain must use `!roll` once in the match's chatroom.
-   - The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be to be banned.
+   - The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
@@ -180,20 +180,20 @@ The osu!mania 4K World Cup 2023 is run by various community members.
    - Round of 16 and Quarterfinals: 15 beatmaps
    - Semifinals and Finals and Grand Finals: 17 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
+5. Possible mod choices for the Free Mod bracket are No Fail, Hidden, Fade In, Flashlight, and Mirror.
 6. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
-7. The tiebreaker will be played under FreeMod conditions, but players will be exempt from the mod requirement.
+7. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
    - **A team that does not pick a time slot by August 10, 2023 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
-5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week the match is to take place on.**
+5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
