@@ -31,7 +31,7 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 - Press and install osu!stream
   - If prompted to key-in the Apple ID and the password, please do so.
 - osu!stream can be played after the download and auto-installation is completed.
-  - It is suggested to read "Adding Beatmaps" section too to get the latest free songs pack. Current download contains only 2 songs.
+  - It is suggested to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
 
 ### USB method
 
