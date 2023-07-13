@@ -5,6 +5,7 @@ tags:
   - MWC4K 2023
   - MWC 4K 2023
 ---
+
 # osu!mania 4K World Cup 2023
 
 ![MWC 4K 2023 banner](img/mwc4k2023-banner.jpg)
