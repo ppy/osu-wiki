@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: June 21, 2023"
-date: 2023-06-22 09:00:00 +0000
+date: 2023-07-13 09:00:00 +0000
 ---
 
 Nothing's better than a brand new osu!(lazer) update on a hot summer day...
