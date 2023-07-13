@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d3592bb35b3055060a588302450b2c9716f9a92f
+---
+
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/osu!_team). Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
