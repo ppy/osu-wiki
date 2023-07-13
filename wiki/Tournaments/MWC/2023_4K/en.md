@@ -5,13 +5,6 @@ tags:
   - MWC4K 2023
   - MWC 4K 2023
 ---
-
-<!--
-add:
-    - {FORUM_THREAD}
-    - image assets
--->
-
 # osu!mania 4K World Cup 2023
 
 ![MWC 4K 2023 banner](img/mwc4k2023-banner.jpg)
@@ -60,7 +53,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 ## Links
 
 - [Register here](https://osu.ppy.sh/community/tournaments/39)
-- [Discussion thread]({FORUM_THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
