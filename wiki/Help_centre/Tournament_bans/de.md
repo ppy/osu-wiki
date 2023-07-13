@@ -32,7 +32,7 @@ Das beinhaltet Situationen wie:
 
 ## Kann ich gegen eine Turniersperre eine Beschwerde einreichen? {id=appeal}
 
-Gegen vorübergehende Turniersperren, die mit dem üblichen Beschwerdeverfahren oder anderen Mitteln verhängt werden, können keine Beschwerden eingereicht werden.
+Gegen vorübergehende Turniersperren, die über die üblichen Beschwerdebedingungen oder anderen Mitteln verhängt werden, können keine Beschwerden eingereicht werden.
 
 Gegen unbefristete Turniersperren darf Einspruch erhoben werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
 
