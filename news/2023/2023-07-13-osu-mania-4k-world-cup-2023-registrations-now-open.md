@@ -45,3 +45,5 @@ The osu!mania 4K World Cup 2023 offers a $2,000 prize pool, along with limited-e
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
 *Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues, send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).*
+
+—LeoFLT
