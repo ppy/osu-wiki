@@ -14,7 +14,7 @@ Les artistes souhaitant participer au programme des Featured Artists sont encour
 
 ## Utilisation de la musique dans osu!
 
-S'agissant d'un jeu de rythme, chacun des niveaux soumis par les utilisateurs d'osu! est synchronisé au rythme d'une musique. 
+S'agissant d'un jeu de rythme, chacun des niveaux soumis par les utilisateurs d'osu! est synchronisé au rythme d'une musique.
 
 Les utilisateurs peuvent chercher et télécharger des niveaux à partir de la [liste des beatmaps](https://osu.ppy.sh/beatmapsets) en saisissant l'artiste, le titre ou toute autre information pertinente. La plupart des téléchargements de niveaux comprennent une musique, des données de niveau créées par l'utilisateur, une image de fond et des effets sonores de jeu.
 

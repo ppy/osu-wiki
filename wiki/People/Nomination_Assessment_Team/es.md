@@ -99,12 +99,12 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Estructural[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluación, estructural[^task-achyoo] |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluación |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluación |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluación |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluación |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés | Evaluación |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluación, estructural[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural[^task-naxess] |
@@ -121,7 +121,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluación |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Liderazgo |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluación |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Liderazgo |
@@ -137,14 +136,18 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluación |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español | Evaluación |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino | Evaluación |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coreano | Evaluación |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danés | Evaluación |
+
+---
+
+Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
 
 ## Notas
 
-[^task-achyoo]: Principalmente maneja la gestión del veto para el modo de juego osu!
 [^task-fuju]: Principalmente maneja los informes de los usuarios y administra las clasificaciones SEV para el modo de juego osu!
 [^task-mo]: Principalmente maneja discusiones internas, asuntos y documentación
 [^task-naxess]: Principalmente mantiene [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
