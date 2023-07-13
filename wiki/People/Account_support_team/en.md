@@ -28,6 +28,7 @@ You should contact this team regarding account-related topics that are out of yo
 - [Loss of access to the email](/wiki/Help_centre/Account#sign-in) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_account).
+- Requests to access the [announcement messages feature](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
