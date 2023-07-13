@@ -374,7 +374,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-23: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **BN** to **Probationary BN**
 - 2023-06-25: Moved [ssapgosu](https://osu.ppy.sh/users/16564480) from **Probationary BN** to **BN**
 
-#### Removals
+#### Removals
 
 - 2023-06-02: Removed [Jonarwhal](https://osu.ppy.sh/users/3653035) from **BN**
 - 2023-06-05: Removed [Protastic101](https://osu.ppy.sh/users/6712747) from **BN**
