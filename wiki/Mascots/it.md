@@ -44,7 +44,7 @@ Mocha è la mascotte di osu!taiko. Inizialmente è stata disegnata durante il [s
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
->Leader della squadra delle cheerleader. Ha un'anima generosa, aiuta chi è in difficoltà confortandoli e lottando per loro.
+> Leader della squadra delle cheerleader. Ha un'anima generosa, aiuta chi è in difficoltà confortandoli e lottando per loro.
 
 一本木龍太 (Ryūta Ippongi) ha raccolto frutta in osu!catch dal 2008 fino al 2014, dove poi è stato sostituito da [Yuzu](#yuzu). È stato creato dalla [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) e faceva parte del vecchio sito web. Compare anche in [Yandere Simulator](https://yanderesimulator.com) come un NPC.
 
