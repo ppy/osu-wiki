@@ -1,4 +1,15 @@
-# Beatmap editor timelines
+---
+tags:
+  - editor
+  - beatmap editor
+  - timeline
+  - 编辑器
+  - 谱面编辑器
+  - 时间线
+  - 时间轴
+---
+
+# 谱面编辑器时间线
 
 In the [beatmap editor](/wiki/Client/Beatmap_editor), there are three different timelines that a mapper may encounter. This article will explain how each of them function.
 

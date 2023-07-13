@@ -1,3 +1,17 @@
+---
+tags:
+  - SB
+  - SB load
+  - load
+  - storyboard
+  - storyboarding
+  - performance
+  - 故事板
+  - 负载
+  - 制作故事板
+  - 性能
+---
+
 # 故事板负载
 
 **SB 负载**（故事板负载的缩写）是[制作故事板](/wiki/Storyboard)时用到的一个参数，指示故事板加载故事板为图形程序带来的负荷大小。这个参数用来估量一帧内整个 640x480 区域需要重新绘制的次数。
