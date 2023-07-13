@@ -1,6 +1,8 @@
 ---
 tags:
   - client trò chơi
+outdated_translation: true
+outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
 ---
 
 # Nâng cấp lên lazer

@@ -591,7 +591,7 @@ Los enlaces de la wiki que apuntan a un subartículo deben incluir el nombre de 
 Los enlaces wiki que apuntan a una sección de un artículo pueden usar el símbolo de signo de sección (`§`). Véase el siguiente ejemplo:
 
 ```markdown
-*Para las reglas de tiempo, véase: [Criterios de clasificación § Tiempo](/wiki/Ranking_Criteria#tiempo)*
+*Para las reglas de tiempo, véase: [Criterios de clasificación § Tiempo](/wiki/Ranking_criteria#tiempo)*
 ```
 
 #### Otros enlaces de osu!
