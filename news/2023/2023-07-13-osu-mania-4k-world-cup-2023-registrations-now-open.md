@@ -8,7 +8,7 @@ The seasons may change but through it all our love of rice and noodles remains! 
 
 ![](/wiki/Tournaments/MWC/2023_4K/img/mwc4k2023-banner.jpg)
 
-In keeping up with our ongoing efforts to introduce different mechanics for each world cup's format, the osu!mania 4K mappoolers cooked more than just rice and noodles. For the first time ever in a world cup, we are introducing a protect system! Now, you might be asking yourself, what even is a protect? Am I finally going to be able to protect my keyboard from thpse impossible chordjacks? And you would be wrong... No keyboard will be spared. The main idea behind this system is that each team can exclude *one* beatmap from being banned by either team, effectively "protecting" it. We look forward to seeing how this will change the pick and ban process!
+In keeping up with our ongoing efforts to introduce different mechanics for each world cup's format, the osu!mania 4K mappoolers cooked more than just rice and noodles. For the first time ever in a world cup, we are introducing a protect system! Now, you might be asking yourself, what even is a protect? Am I finally going to be able to protect my keyboard from those impossible chordjacks? And you would be wrong... No keyboard will be spared. The main idea behind this system is that each team can exclude *one* beatmap from being banned by either team, effectively "protecting" it. We look forward to seeing how this will change the pick and ban process!
 
 For more details, refer to the [osu!mania 4K World Cup 2023 wiki article](/wiki/Tournaments/MWC/2023_4K). You can discuss this event in the [official discussion thread]({FORUM_THREAD}) or at the public [osu! community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
@@ -40,7 +40,7 @@ The osu!mania 4K World Cup 2023 offers a $2,000 prize pool, along with limited-e
 - Teams will be formed by each country's captain *after* the registration phase has concluded.
 - **The deadline for registering is July 27, 23:59 UTC. Make sure to submit yours before then!**
 
-*Notice: you may only participate if your position in the osu!catch global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
+*Notice: you may only participate if your position in the osu!mania 4K global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
