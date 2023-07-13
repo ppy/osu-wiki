@@ -1,6 +1,6 @@
 # 故事板负载
 
-**SB 负载**（故事板负载的缩写）是[制作故事板](/wiki/Storyboard)时用到的一个参数，指示故事板加载故事板为图形程序带来的负荷大小。这个参数It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
+**SB 负载**（故事板负载的缩写）是[制作故事板](/wiki/Storyboard)时用到的一个参数，指示故事板加载故事板为图形程序带来的负荷大小。这个参数用来估量一帧内整个 640x480 区域需要重新绘制的次数。
 
 不使用故事板时，负荷为 1x （640x480 的空间只需要绘制一次）。如果故事板中有单个占用半屏的图像，负荷就是 1.5x；两个完全重合、占用半屏的图像负荷是 2x。
 
@@ -21,34 +21,34 @@
 
 ### 禁用背景图片
 
-默认情况下，谱面选择的背景图像会在整首歌期间显示，即使在前面制作故事板也会如此。This works great if you have a minimalist SB, or if your background image is shown as the background throughout your SB.
+默认情况下，谱面选择的背景图像会在整首歌期间显示，即使在前面制作故事板也会如此。如果你要做极简故事板，或者谱面背景在故事板中也作为背景显示时，这个功能就很好。
 
-However, if you start storyboarding in other backgrounds in front of your background, this is a problem. See, osu! keeps drawing your background even when there's stuff in front of it, and the more layers you have going on, the more that osu! has to process, so if you have hidden layers, you're wasting system resources.
+然而，如果在编写故事板时用到别的背景，这就成了个问题。看看，尽管谱面背景前面有别的东西，osu! 也会一直绘制它。故事板的图层越多，osu! 要处理的就越多，因此隐藏图层的存在就是在浪费系统资源。
 
 所以应该怎么办呢？
 
-osu! has a redundancy-eliminating feature that will automatically disable your background image from displaying throughout the song if you use that same image anywhere in your storyboard. So if your background image is being used as a background for just one "scene" of your storyboard, or if it's part of a slideshow-type deal, just call your image into the SB in the same way as you call all the other images, and everything will be fine.
+osu! 有一个消除冗余的功能，当你在故事板中用到谱面背景图像时，就会在游玩时自动禁止显示谱面背景。因此如果故事板中只有一个“场景”将谱面背景用作背景，或者谱面背景是幻灯片类元素的一部分，只需要像调用其他图像一样调用背景图像即可，一切会正常显示。
 
-But if you're going to have different storyboard elements going on throughout the whole map, and just want to add an image that will show as a background on the song select menu, and as a thumbnail on the website, then what you do is set the image as a background normally, and then add a single line of SB code under the "//Storyboard Layer 0 (Background)" heading of your `.osb` (or `.osu`, if you're doing different things on each difficulty). The line simply calls the background in, and then doesn't do anything with it.
+但如果想要在整张图期间用不同的故事板元素，只想拿一张图像作为选歌界面的背景、网页上的预览图显示，你就需要将此图像正常设置为背景，然后在 `.osb` （或者 `.osu`，如果每个难度的故事板不同）文件的 “//Storyboard Layer 0 (Background)” 标题下加一行故事板代码。这行代码仅仅调用背景图像，不会做别的事情。
 
 **只要将下面一行中 "background.jpg" 用图像文件名替代即可：**
 
 `Sprite,Background,TopLeft,"background.jpg",0,0`
 
-这就成了！你的背景会被纯黑色替代，几乎不需要处理即可绘制。特别是与绘制全屏背景后，然后在其上绘制全屏的黑色.png 相比，这是个巨大的改善！
+这就成了！你的背景会被纯黑色替代，几乎不需要处理即可绘制。特别是与绘制全屏背景后在其上绘制全屏的黑.png 相比，这是个巨大的改善！
 
 ### 避免在图片中出现空白空间
 
-For every png that you use in your storyboard, osu! has to draw the entire thing. Even transparent pixels need to be "drawn," so images with a lot of empty space place a lot of unnecessary stress on the computer. This is an easy one to fix, generally:
+osu! 要完全绘制故事板中用到的每个图像，透明像素也不例外。因此，有大量空白空间的图像会给电脑带来很多不必要的压力。这是一个很容易解决的问题，一般可以这么做：
 
 - **尽可能裁剪图像。**实际上 Photoshop 有一个可以帮你裁剪的工具。只要点击图像 -> 裁剪，程序就会给出几个选项，用于裁去图像边角的空白区域。
 - **利用故事板给出的不同“原点”设置。**假设你有一个头部上下摆动的人物。在大多数帧中，精灵图顶部会有大量空白区域，因为你想要所有帧都连起来，对吧？但如果你将原点设为底部中央，不管精灵图高度多少，总会沿底部对齐。这样你就能消灭顶部的空白区域了。
-- **多个小图可能比一个大图好。** This can be pretty situation-specific, but let's say you have a big sprite that just has five little stars in it. Trimming that sprite might leave a bunch of empty space in the middle. Breaking the sprite into a bunch of little sprites may seem inefficient, but since osu's strain comes from the number of pixels rather than the number of files, it can actually be a big improvement.
-  - Similarly, if you have a full-screen "frame" image, with a big window or screen looking through to the rest of your SB, consider chopping that into 4 images, one for the left side, one for the right side, one for the top, and one for the bottom. Now instead of drawing nearly a full screen's worth of clear pixels, your empty space is actually empty, as only the border is drawn. You probably want to have just a bit of overlap at the corners to avoid gaps appearing when the map is played at certain resolutions, but try to keep the overlap as slim as possible.
+- **多个小图可能比一个大图好。**这一点大多与具体情况有关。现在假设你有一个很大的精灵图，上面只有五颗小星星。剪裁这个图后，中间会留下很大空白。把这样的精灵图分成很多小图看起来效率很低，但由于 osu! 的负荷来自像素数而非文件数，这实际上会是很大的改善。
+  - 类似地，如果你有一张全屏的“帧”图像，透过其中的大窗户或屏幕可以看到故事板的其余部分，就可以考虑将其裁成 4 个图像，左右上下四边各一个。现在由于只会绘制物品边框，而不会绘制几乎全屏的空像素，空白区域实际上什么都没有。你可能想要图像边角有一点重叠，这样可以避免在某些分辨率下游玩谱面时图像间出现间隙，但要让重叠部分尽量小。
 
 ### 别忘了可以用故事板脚本给图片着色
 
-这种效果在故事板中用的并不是很多，因此提到这一点：**看看用脚本编写故事板一文的 "[colour](/wiki/Storyboard/Scripting/Commands#color-/-colour-(c)-command)" 事件代码**。你可以在故事板中，通过在灰阶图或亮色精灵图加上不同颜色来做出很酷的效果。There might be some cases where you're fading in a whole separate background image when you could just change the colour this way, for skies and stuff. Just something to consider.
+这种效果在故事板中用的并不是很多，因此提到这一点：**看看用脚本编写故事板一文的 "[colour](/wiki/Storyboard/Scripting/Commands#color-/-colour-(c)-command)" 事件代码**。你可以在故事板中，通过在灰阶图或亮色精灵图加上不同颜色来做出很酷的效果。有时当你想要让背景单独渐显时，就可以通过这种方式改变天空和其他素材的颜色。这一点也可以考虑一下。
 
 希望这些小提示能对一些人有用。很多人不了解禁用背景这一功能，因此请把这个小技巧告诉别人，尤其是看到他人用黑色空白图像隐藏背景图像时更应如此。
 
