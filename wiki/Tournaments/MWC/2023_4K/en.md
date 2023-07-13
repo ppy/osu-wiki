@@ -153,10 +153,10 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Teams must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `MWC4K2023: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain must use `!roll` once in the match's chatroom.
-   - The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+2. Each captain must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
+   1. The winner of the `!roll` starts protecting one beatmap, followed by the loser of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+   3. The winner of the `!roll` starts picking the first beatmap of the match.
 3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
