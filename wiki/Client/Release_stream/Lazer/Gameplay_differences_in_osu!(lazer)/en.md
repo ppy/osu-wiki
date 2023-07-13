@@ -1,61 +1,12 @@
-# osu!(lazer) feature comparison
+# Gameplay differences in osu!(lazer) 
 
-*For a more condensed list of features, see [Help centre/Upgrading to lazer § Feature comparison](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*For a comparative list of features between lazer and stable, see [Help centre/Upgrading to lazer § Feature comparison](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
 
-This page documents all new and missing features compared to osu!(stable), as well as differences affecting gameplay.
+This page documents differences affecting gameplay in osu!(lazer).
 
-## New features
+## General
 
-- Cross-platform support
-  - Native Windows 8.1+, macOS, Linux, iOS, and Android support, 
-  - Mobile input methods for all game modes
-- Input
-  - Built-in tablet driver
-  - Midi controller support
-  - Gamepad support
-- Redesigned interface
-  - First-run setup wizard
-  - Storyboards in the main menu
-  - Rewind F2
-  - Hiding difficulties
-  - Soft deletion
-  - More screen scaling options
-  - Settings can be changed everywhere and they'll take effect immediately
-  - New statistics in the results and song select screens
-- Website integration for leaderboards, news, wiki, changelog, beatmap listing, beatmap info, and profile pages
-- Lots of new mods
-- Mod customisation options
-- New multiplayer features
-  - New "playlist" feature
-  - Unlimited lobby sizes
-  - Automatic beatmap queues
-- New editor features
-  - Per-segment curve types for sliders
-  - Slider splitting and merging
-  - New "verify" tab
-- Support for custom game modes
-- Gameplay
-  - Two new built-in skins
-  - Replay seeking
-  - Beatmap (local) offset auto-calibration
-- Built-in skin editor with customisable skinning components 
-  - Song density graph
-  - Performance points counter
-  - Unstable rate counter
-  - Longest combo counter
-  - Custom text components, beatmap information displays
-  - Custom static sprites
-  - Judgement counter
-  - Clicks per second counter
-- Snaking out sliders in the osu! mode
-- No black bar behind the playfield in osu!taiko
-- Timing-based note colouring in osu!mania
-
-## Gameplay differences 
-
-### General
-
-#### Song playback ramps up and down when pausing and unpausing
+### Song playback ramps up and down when pausing and unpausing
 
 This makes it harder to continue from a pause in the middle of active gameplay, preventing abuse of pausing to some extent.
 
@@ -66,9 +17,9 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### The Easy mod no longer pauses gameplay when recovering from failure
+### The Easy mod no longer pauses gameplay when recovering from failure
 
-<!-- paragraph? -->
+Instead of pausing gameplay while filling up the health bar, health is restored immediately.
 
 |  |  |
 | :-- | :-: |
@@ -77,7 +28,7 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-#### The health system is different
+### The health system is different
 
 This is mostly due to changes to the judgement system. For example, Geki and Katu judgements do not exist in lazer, which affected health on stable.
 
@@ -88,7 +39,7 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### All game modes use the same grading system
+### All game modes use the same grading system
 
 All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
 
@@ -108,7 +59,7 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Hit window edge calculations do not match stable
+### Hit window edge calculations do not match stable
 
 When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
 
@@ -125,9 +76,30 @@ When a hit lands right at the edge of the hit window, a different judgement may 
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-### osu!
+### Differences in scoring
 
-#### Notelock has been adjusted to be more lenient
+Scoring in lazer will use a system similar to ScoreV2, with all ScoreV1 scores converted into the new system.
+
+There are two interchangeable display modes for scores: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers (similarly to ScoreV2), while classic scoring is the same as standardised, but scaled quadratically with the amount of hit objects in a beatmap (similar to ScoreV1). These can be selected from the settings, with all places where score is displayed in-game changing accordingly.
+
+There are also some differences in how much score each hit object and each judgement is responsible for relative to each other.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | Yes |
+| Classic mod revert support | No |
+| Intentionally changed | Yes |
+| Needs further consideration | Yes |
+
+### Storyboard triggers are not implemented
+
+Some storyboards feature elements that react to player input or health.
+
+![](img/sb-triggers.gif)
+
+## osu!
+
+### Notelock has been adjusted to be more lenient
 
 ![](img/notelock.gif)
 
@@ -140,7 +112,7 @@ Recovering from a miss in dense patterns has been made easier.
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-#### Slider head circles require accuracy when hitting
+### Slider head circles require accuracy when hitting
 
 ![](img/slideracc.gif)
 
@@ -153,7 +125,7 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-#### Slider head circle follows track snaking when not hit
+### Slider head circle follows track snaking when not hit
 
 ![](img/moving-slider-head.gif)
 
@@ -170,7 +142,7 @@ The rationale behind this change is simple: without it, having `Snaking out slid
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Slider ends do not contribute to combo nor cause misses
+### Slider ends do not contribute to combo nor cause misses
 
 Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
 
@@ -183,7 +155,7 @@ From now on slider ends will only affect score and accuracy, but have no effect 
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Missing a slider head causes a miss
+### Missing a slider head causes a miss
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to receive the S grade while having a low max combo.
 
@@ -196,7 +168,7 @@ In lazer, not hitting the slider head will give a MISS judgement for the whole s
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-#### Slider ends do not cause hitsounds when not hit
+### Slider ends do not cause hitsounds when not hit
 
 In stable, slider ends would play their hitsounds even if they were missed, as long as any part of the slider was hit. This has been changed such that hitsounds match inputs 1:1.
 
@@ -207,7 +179,7 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-#### The spinner spin speed cap of 477 RPM has been removed
+### The spinner spin speed cap of 477 RPM has been removed
 
 Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
 
@@ -218,7 +190,7 @@ Instead of a speed cap, spinners now have a score cap. This was done as a simple
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Aspire-like glitched sliders are not supported
+### Aspire-like glitched sliders are not supported
 
 ![](img/aspire-slider.gif)
 
@@ -233,9 +205,9 @@ More discussion and consideration will be needed for how much of Aspire beatmaps
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-### osu!taiko
+## osu!taiko
 
-#### Notes that overlap swells cannot be hit
+### Notes that overlap swells cannot be hit
 
 Some gimmick maps make use of notes that overlap swells.
 
@@ -246,7 +218,7 @@ Some gimmick maps make use of notes that overlap swells.
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-#### Drumrolls do not prevent mashing
+### Drumrolls do not prevent mashing
 
 In stable, drumrolls could not be hit too quickly or too slowly. This restriction has been lifted, just like in ScoreV2.
 
@@ -257,7 +229,7 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### The Flashlight centre is aligned with the hit receptor
+### The Flashlight centre is aligned with the hit receptor
 
 <!-- TODO: comparison image  -->
 
@@ -270,9 +242,9 @@ In stable, the Flashlight centre is offset a bit down and to the right, making m
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-### osu!catch
+## osu!catch
 
-#### Hyperdash generation can be different in some cases
+### Hyperdash generation can be different in some cases
 
 This may lead to inaccurate judgements in replays and increased difficulty.
 
@@ -283,7 +255,7 @@ This may lead to inaccurate judgements in replays and increased difficulty.
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-#### Juice stream generation can be different in some cases
+### Juice stream generation can be different in some cases
 
 This may lead to inaccurate judgements in replays.
 
@@ -294,9 +266,9 @@ This may lead to inaccurate judgements in replays.
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-### osu!mania
+## osu!mania
 
-#### Hold note heads and tails give judgements
+### Hold note heads and tails give judgements
 
 This functions similarly to ScoreV2 in stable.
 
@@ -307,7 +279,7 @@ This functions similarly to ScoreV2 in stable.
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-#### Hold note ticks give score and are responsible for combo breaks
+### Hold note ticks give score and are responsible for combo breaks
 
 In stable, releasing during a hold note body would break combo immediately, but now it only breaks when missing a hold note tick.
 
@@ -320,7 +292,7 @@ This does allow for cheesing (a.k.a. "manipulating") by allowing wrist-jacking w
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Extreme scroll speeds are limited
+### Extreme scroll speeds are limited
 
 <!-- TODO: how exactly -->
 
@@ -333,7 +305,7 @@ Some beatmaps with SV gimmicks like teleports or stops do not look as intended, 
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### The PERFECT judgement hit window scales with OD
+### The PERFECT judgement hit window scales with OD
 
 This used to be a constant ±16 ms regardless of overall difficulty.
 
@@ -344,7 +316,7 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 | Intentionally changed | Yes |
 | Needs further consideration | No? |
 
-#### Converts no longer have different hit windows
+### Converts no longer have different hit windows
 
 Beatmaps converted from the osu! game mode into osu!mania had a set of hit windows that were not affected by OD.
 
@@ -355,7 +327,7 @@ Beatmaps converted from the osu! game mode into osu!mania had a set of hit windo
 | Intentionally changed | Yes |
 | Needs further consideration | No? |
 
-#### Audio rate adjustments affect hit windows in osu!mania
+### Audio rate adjustments affect hit windows in osu!mania
 
 In stable, osu!mania reverts changes to hit windows resulting from applications of DT/HT.
 
@@ -366,7 +338,7 @@ In stable, osu!mania reverts changes to hit windows resulting from applications 
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-#### The Flashlight mod does not have a gradient
+### The Flashlight mod does not have a gradient
 
 <!-- TODO: comparison image  -->
 
@@ -376,69 +348,3 @@ In stable, osu!mania reverts changes to hit windows resulting from applications 
 | Classic mod revert support | No |
 | Intentionally changed | No |
 | Needs further consideration | Yes |
-
-### Scoring, performance points and leaderboards
-
-Scoring in lazer has been simplified with the main benefit of not requiring a replay to recompute. Two interchangeable systems have been added: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers, while classic scoring is similar to standardised, but scaled quadratically with the amount of hit objects in a beatmap. These can be selected from the settings, with all places were score is displayed in-game changing accordingly.
-
-There are also some differences in how much score each hit object and each judgement is responsible for relative to each other.
-
-Features that depend on score such as [score ranking](/wiki/Ranking#score-ranking) and [levels](/wiki/Gameplay/Score/Total_score#level) need further discussion for how they will be affected.
-
-Medals do not get awarded. This is a feature that will be enabled after anti-cheat measures have been implemented, and will need further consideration regarding the change in difficulty of some medals due to other gameplay changes.
-
-Performance points are not integrated into global or beatmap-specific leaderboards, but are instead integrated in a separate version of the website for now: <https://lazer.ppy.sh/>.
-
-### Multiplayer
-
-#### TAG co-op mode is not implemented
-
-This is planned, but no work has been started on this yet.
-
-### Storyboarding
-
-#### The storyboard editor is not implemented
-
-There are [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2) for an upcoming built-in storyboard editor similar to the one in stable, but no work on this has started yet.
-
-#### The trigger system is not implemented
-
-![](img/sb-triggers.gif)
-
-#### Beatmap backgrounds do not have the correct fill mode for 4:3 storyboards
-
-![](img/sb-bg-fill-mode.jpg)
-
-In stable, beatmap backgrounds and storyboards fill the height of the screen. In lazer, backgrounds fill the width of the screen, while storyboards still fill the height.
-
-This discrepancy causes inconsistent fill modes when a storyboard is overlayed on top of an already existing beatmap background.
-
-#### 4:3-only storyboards are not cropped to the intended aspect ratio
-
-![](img/sb-crop.jpg)
-
-Some storyboards are not designed to support anything other than a 4:3 aspect ratio, but storyboards in lazer always render at 16:9.
-
-## Some cosmetic features are missing
-
-These are features that are planned to come back at some point, but have not due to low priority.
-
-- [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments
-- Combo bursts and their associated sounds
-- Countdowns
-- Cursor ripples
-- Non-skinnable components
-  - Gameplay leaderboard
-  - Cutscene skip button
-  - Section fail/pass
-  - Results screen
-  - Song select
-  - Pause menu
-
-## Technical differences
-
-- Open source
-- New user file storage structure
-- `Unlimited` refresh rate setting is renamed to `Basically unlimited` and is limited to 1000 Hz
-- The mouse cursor is always confined in fullscreen mode
-- Support for wider range of aspect ratios

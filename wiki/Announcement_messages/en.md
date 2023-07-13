@@ -19,7 +19,7 @@ An **announcement message** is a special type of message that's intended for sen
 
 ## Eligibility
 
-In order to send and reply to announcement messages through the website, you must be a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://docs.ppy.sh).
+In order to send and reply to announcement messages through the website, you must be a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Filing a request
 
