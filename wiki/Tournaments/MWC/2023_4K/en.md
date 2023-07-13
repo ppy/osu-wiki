@@ -15,7 +15,7 @@ The **osu!mania 4K World Cup 2023** (***MWC 4K 2023***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-07-13 (10:00 UTC)/2023-07-27 (23:59 UTC) |
+| Registration phase | 2023-07-13/2023-07-27 (23:59 UTC) |
 | Qualifier showcase | 2023-08-06 (14:00 UTC) |
 | Qualifier stage | 2023-08-12/2023-08-13 |
 | Round of 32 | 2023-08-19/2023-08-20 |
