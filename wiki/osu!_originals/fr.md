@@ -272,6 +272,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Tiebreaker des Grandes Finales |
 | [ReeK, roer & Rairiku - Kurwature 1869](https://www.youtube.com/watch?v=L4zSAByvNkY) | [#1](https://osu.ppy.sh/beatmapsets/1794825) | Tiebreaker des finales |
 
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) AMG 2022 x #RHYTHMGAMES CFC osu! & osu!catch tournament
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Serena (CV: Makiguchi Mayuki) - DoriDori (takehirotei ''Dream n Believe'' remix)](https://soundcloud.com/takehirotei/doridori-takehirotei-dream-n-believe-remix) | [#1](https://osu.ppy.sh/beatmapsets/1835502), [#2](https://osu.ppy.sh/beatmapsets/1834848) | HD3 des finales (osu!), NM1 des finales (osu!catch) |
+
 #### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament 2022
 
 | Musique | Beatmap | Notes |
@@ -382,6 +388,13 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [Kushper - MENDENIKANOID](https://www.youtube.com/watch?v=hvs6-APcZ8Y) | [#1](https://osu.ppy.sh/beatmapsets/1828651) | NM5 des finales |
 
+#### ![](/wiki/shared/mode/osu.png) DACH Cup 2
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Krimek - The Dark](https://soundcloud.com/krimek/the-dark)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2008599) | NM5 des finales |
+| [Krimek - HyperColor](https://soundcloud.com/krimek/hypercolor)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004618) | FM1 des demi-finales |
+
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
 | Musique | Beatmap | Notes |
@@ -395,6 +408,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Down - Solo Cup](https://open.spotify.com/album/4qMVTbgHvQThqza3pOgvag)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1760520) | FM1 des demi-finales |
 | [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1765192) | FM1 des finales |
 | [Down - Trio Cup](https://open.spotify.com/album/7cWOHX315psZpXDp5jC0at)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1769914) | DT2 des Grandes Finales |
+
+#### ![](/wiki/shared/mode/osu.png) Dynamic Duos 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Krimek - Planet Duo](https://soundcloud.com/krimek/planet-duo)[^fa-catalogue] |  | Musique de fond du stream |
 
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021)
 
@@ -589,6 +608,14 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://soundcloud.com/itsxyris/a-cybernetic-superluminal-apocalyptic-post-war-divination) | [#1](https://osu.ppy.sh/beatmapsets/1814494) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/osu.png) Resurrection Cup 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Krimek - Beneath The Surface](https://soundcloud.com/krimek/beneath-the-surface)[^fa] |  | Musique de fond du stream |
+| [Krimek - Song Of The Submerged](https://soundcloud.com/krimek/song-of-the-submerged)[^fa] |  | Musique de fond du stream |
+| [takehirotei as "Infinite Limit" - The Everlasting Star of Yearning](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-the-everlasting-star-of-yearning) | [#1](https://osu.ppy.sh/beatmapsets/2016077) | Tiebreaker des huitième de finale |
+
 #### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
 
 | Musique | Beatmap | Notes |
@@ -601,6 +628,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Tiebreaker des Grandes Finales |
 | [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Tiebreaker des finales |
+
+#### ![](/wiki/shared/mode/osu.png) Spring Flower Scramble: Wisteria
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [takehirotei - Chocolate Scramble](https://soundcloud.com/takehirotei/chocolate-scramble) | [#1](https://osu.ppy.sh/beatmapsets/1968809) | FM1 des Grandes Finales |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
@@ -705,6 +738,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: |
 | [SDMNE feat. Nam1541 - VOID'S BLOSSOM // - + - // Tragedy\_Eternal](https://soundcloud.com/sdmne/voids-blossom-tragedy_eternal-feat-nam1541) |
 
+#### ![](/wiki/shared/mode/osu.png) MasterMapper 2023
+
+| Musique |
+| :-: |
+| [Krimek - MasterMaker](https://soundcloud.com/krimek/mastermaker)[^fa-catalogue] |
+
 ### Beatmaps créées de façon autonome
 
 *Natteke ft. tieff - Endless Tower* et *Natteke ft. tieff - The Dream* ont été présentés plus tard dans [osu!stream](/wiki/osu!stream).
@@ -740,6 +779,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
 | Jinjin - Midnight Musing | [#1](https://osu.ppy.sh/beatmapsets/1980200) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |
+| [Krimek - Mondlichtzauber](https://soundcloud.com/krimek/mondlichtzauber)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2012618) |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) |
 | Nobuo Uematsu - Battle theme (Clemaister remix) | [#1](https://osu.ppy.sh/beatmapsets/18679) |
