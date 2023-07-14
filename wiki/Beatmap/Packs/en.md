@@ -48,7 +48,6 @@ Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhi
 
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
   - [osuPackSheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) by [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
-
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) (inactive)
   - [osu! Beatmap Packs](http://osu.yas-online.net/) by [nanashirei](https://osu.ppy.sh/users/807630)
 
