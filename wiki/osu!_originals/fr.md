@@ -632,7 +632,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] |  | Musique de fond du stream |
 | [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] |  | Musique de fond du stream |
 | [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] |  | Musique de fond du stream |
-| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Musique de fond du stream |
+| [passchooo - chooo2023\_6 (ft. Jade & Glarses)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Musique de fond du stream |
 | [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] |  | Musique de fond du stream |
 | [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] |  | Musique de fond du stream |
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Musique de fond du stream |
