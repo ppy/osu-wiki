@@ -174,6 +174,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | Gran final NM6 |
 | [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Desempate de las semifinales |
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Gran final NM1 |
+| [nujioh - PSYCHE](https://soundcloud.com/nujioh/psyche) | [#1](https://osu.ppy.sh/beatmapsets/1734235) | Semifinales FM1 |
 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023)
@@ -485,6 +486,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [Down - Chronoportation](https://soundcloud.com/down-910707220/chronoportation)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1955279) | Desempate de la gran final |
+| [AlcheJ - Astrolabe](https://www.youtube.com/watch?v=bX7mkXN7yyE) | [#1](https://osu.ppy.sh/beatmapsets/1955274) | Gran final HD2 |
 
 #### ![](/wiki/shared/mode/taiko.png) LordEnder Global Taiko Showdown 2021
 
@@ -632,7 +634,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [passchooo - chooo2023\_11 (ft. wubz)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_12](https://soundcloud.com/passchooo/chooo2023_12)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_5](https://soundcloud.com/passchooo/chooo2023_5)[^fa] |  | Música de fondo de la transmisión en vivo |
-| [passchooo - chooo2023\_6 (ft. Jade & Glarces)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [passchooo - chooo2023\_6 (ft. Jade & Glarses)](https://soundcloud.com/passchooo/chooo2023_6)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_7 (ft. Synoxa)](https://soundcloud.com/passchooo/chooo2023_7)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_8](https://soundcloud.com/passchooo/chooo2023_8)[^fa] |  | Música de fondo de la transmisión en vivo |
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Música de fondo de la transmisión en vivo |

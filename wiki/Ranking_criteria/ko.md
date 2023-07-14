@@ -11,7 +11,7 @@ outdated_translation: true
 
 이 문서의 규칙과 가이드라인은 [랭킹 크리테리아 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[랭킹 크리테리아 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)*을 참조하세요. 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
-**[매핑 및 모딩에 관한 Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) 및 [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules)도 랭킹 크리테리아의 일부이며, 모든 모드에 적용되는 사실에 유의하시기를 바랍니다.**
+**[매핑 및 모딩에 관한 행동지침](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) 및 [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules)도 랭킹 크리테리아의 일부이며, 모든 모드에 적용되는 사실에 유의하시기를 바랍니다.**
 
 ## 도구
 
