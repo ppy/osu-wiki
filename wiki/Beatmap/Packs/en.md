@@ -1,4 +1,4 @@
-# Beatmap packs
+# Beatmap Packs
 
 A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap). They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 
@@ -44,15 +44,22 @@ It is recommended to directly download beatmap packs from the official beatmap p
 
 ### Mirrors
 
-Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhile, there are also some mirror sites set up by other users for convenience and faster download speed:
+Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhile, there are also some mirror sites set up by other users for convenience:
 
-- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [osuPackSheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) by [Shige-Tori\[a\]](https://osu.ppy.sh/u/4459449)
+
+- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) (inactive)
   - [osu! Beatmap Packs](http://osu.yas-online.net/) by [nanashirei](https://osu.ppy.sh/users/807630)
 
 ### Torrents
 
 To download beatmap packs in bulk instead of one by one manually, use torrenting tools to download them from one of the sites below:
 
+- [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
+  - [Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) by [glukki](https://osu.ppy.sh/users/14285150)
+- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (various DL options included)
+  - [torrent file](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) by [Elessey](https://osu.ppy.sh/users/4925105)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
 - [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
