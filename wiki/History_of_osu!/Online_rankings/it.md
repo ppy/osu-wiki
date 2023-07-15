@@ -10,9 +10,9 @@ tags:
 
 # Cronologia delle classifiche online
 
-Le prime versioni di osu! erano un'esperienza per lo più isolata, senza classifiche online fino al [6 ottobre 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), quando è stato aggiunto il supporto per le classifiche online pubbliche per [osu!](/wiki/Game_mode/osu!). Da allora, tutte le [modalità di gioco](/wiki/Game_mode) hanno ricevuto le proprie [classifiche online](https://osu.ppy.sh/rankings/osu/performance).
+Le prime versioni di osu! erano un'esperienza per lo più isolata fino al [6 ottobre 2007](https://osu.ppy.sh/community/forums/topics/15?n=29), quando è stato aggiunto il supporto per le classifiche online pubbliche per [osu!](/wiki/Game_mode/osu!). Da allora, tutte le [modalità di gioco](/wiki/Game_mode) hanno ricevuto le proprie [classifiche online](https://osu.ppy.sh/rankings/osu/performance).
 
-Numerosi giocatori hanno occupato il primo posto in ogni modalità di gioco con diversi sistemi di classifica. Il sistema attuale utilizzato da tutte le modalità di gioco per le classifiche online è [ppv2](/wiki/Performance_points/ppv2).
+Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con diversi sistemi di classifica. Il sistema attuale utilizzato da tutte le modalità di gioco per le classifiche online è [ppv2](/wiki/Performance_points/ppv2).
 
 ## ![][osu!] osu!
 

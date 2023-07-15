@@ -4,7 +4,7 @@ stub: true
 
 # Kudosu
 
-**Kudosu** è un sistema di ricompense per il [modding](/wiki/Modding). Assegna punti per le risposte corrette dei mod nelle [discussioni delle beatmap](/wiki/Beatmap_discussion). I punti accumulati possono essere visualizzati nella pagina del profilo di un utente.
+**Kudosu** è un sistema di ricompense per il [modding](/wiki/Modding). Assegna punti per le mod risolte nelle [discussioni delle beatmap](/wiki/Beatmap_discussion). I punti accumulati possono essere visualizzati nella pagina del profilo di un utente.
 
 I kudosu vengono assegnati ai post dei mod che sono utili e indicano suggerimenti utili per la beatmap. Se un mapper ritiene che un post di un mod sia utile e affronti un problema valido, può cliccare sul pulsante pollice in su e assegnare il kudosu all'utente che ha postato la mod.
 

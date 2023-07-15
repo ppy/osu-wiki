@@ -9,7 +9,7 @@ stub: true
 La star priority ha due significati:
 
 1. Un metodo per aiutare i Beatmap Nominator a trovare beatmap degne di essere pubblicate e successivamente classificate.
-   - La star priority di una mappa è determinata dal numero di messaggi dei mod che hanno ottenuto kudosu nel [thread della beatmap](/wiki/Modding/Forum_modding), la somma delle stelle kudosu che il set di mappe ha ricevuto.
+   - La star priority di una mappa è determinata dal numero di messaggi delle mod che hanno ottenuto kudosu nel [thread della beatmap](/wiki/Modding/Forum_modding), la somma delle stelle kudosu che il set di mappe ha ricevuto.
    - Una stella kudosu può essere data da qualsiasi utente a qualsiasi beatmap, anche se sparare una stella kudosu ha il prezzo di un kudosu.
    - Il tasso di conversione era in precedenza di tre kudosu per una stella kudosu che aumentava la Star Priority di due.
    - Più alta è la Star Priority, più in alto appare la discussione della beatmap nel sottoforum Works in Progress o Pending.
