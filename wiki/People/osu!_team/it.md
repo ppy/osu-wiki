@@ -27,7 +27,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Sviluppatore osu!web, [Artista in Primo Piano ufficiale di osu!](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Sviluppatore osu!web |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Consigliere della scena Modding e mapping, organizzatore della Guilda dei Mapper, ricercatore degli Artisti in Primo Piano |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Consigliere della scena Modding e mapping, organizzatore della Gilda dei Mapper, ricercatore degli Artisti in Primo Piano |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Governante Generale, manutentore della wiki |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
@@ -59,7 +59,7 @@ Oltre agli utenti riportati qui sopra, il [team di supporto per account](/wiki/P
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Sviluppatore di osu!, creatore degli mm sliders |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Consigliere della scena Modding e mapping |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Sviluppatore di osu! per iPhone |
-| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Sviluppatore di osu!, organizzatore della Guilda dei Mapper |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Sviluppatore di osu!, organizzatore della Gilda dei Mapper |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Designer del forum |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, ragazzo che crea cose straordinarie |
