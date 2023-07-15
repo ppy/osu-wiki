@@ -63,7 +63,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Calibrazione dell'offset per beatmap | ![Parziale][partial][^offset-calibration-stable] | ![Sì][true][^offset-calibration-lazer] |
 | Slider di osu! con scomparsa a serpente | ![No][false] | ![Sì][true][^can-disable] |
 | "Note lock" accogliente per i giocatori di osu! | ![No][false] | ![Sì][true][^note-lock] |
-| Colorazione delle note basata sul tempo per osu!mania ed osu!| ![No][false] | ![Sì][true] |
+| Colorazione delle note basata sul tempo per osu!mania ed osu! | ![No][false] | ![Sì][true] |
 | Ricerca dei replay | ![No][false] | ![Yes][true] |
 | Commenti a scorrimento nei replay in stile [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Yes][true] | ![No][false] |
 
