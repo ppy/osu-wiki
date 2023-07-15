@@ -39,9 +39,34 @@ Check out some of these maps:
 - [osu! map from the video above](https://osu.ppy.sh/beatmapsets/546820) hosted by [Nathan](https://osu.ppy.sh/users/4785223)
 - [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/535179) hosted by [KinomiCandy](https://osu.ppy.sh/users/375143)
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/924882) hosted by [Kukkai](https://osu.ppy.sh/users/7811952)
+- [Brand new osu!taiko map](https://osu.ppy.sh/beatmapsets/2006776) hosted by [ZelLink](https://osu.ppy.sh/users/6752242)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Candy/YUC'e%20-%20Future%20Candy.mp3">
+</audio>
+
+### YUC'e - SPACE INVADER
+
+Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302) or [this new 4K mania map](https://osu.ppy.sh/beatmapsets/2008307) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/372/Sugary%20Galaxy/YUC%27e%20-%20SPACE%20INVADER.mp3">
+</audio>
+
+### YUC'e - Sugary Galaxy
+
+Try out [this map](https://osu.ppy.sh/beatmapsets/2015526) by [Hinsvar](https://osu.ppy.sh/users/1249323) through the newly released osu!(lazer) playlist!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/372/Sugary%20Galaxy/YUC%27e%20-%20Sugary%20Galaxy.mp3">
+</audio>
+
+### YUC'e - PUMP
+
+Word has it that [this multi-mode map](https://osu.ppy.sh/beatmapsets/615870) by [Flare-kun](https://osu.ppy.sh/users/7095286), [this new showcase set](https://osu.ppy.sh/beatmapsets/2023926) by [Daycore](https://osu.ppy.sh/users/5596337), and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1014283) by [Capu](https://osu.ppy.sh/users/2474015) will make your heart... beat faster. Or something like that.
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20PUMP.mp3">
 </audio>
 
 ### YUC'e - Sunset Tea Cup
@@ -58,14 +83,6 @@ Play through [this iconic swing map](https://osu.ppy.sh/beatmapsets/564329) host
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20Sengoku%20HOP.mp3">
-</audio>
-
-### YUC'e - PUMP
-
-Word has it that [this multi-mode map](https://osu.ppy.sh/beatmapsets/615870) by [Flare-kun](https://osu.ppy.sh/users/7095286) and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1014283) by [Capu](https://osu.ppy.sh/users/2474015) will make your heart... beat faster. Or something like that.
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20PUMP.mp3">
 </audio>
 
 ### YUC'e - POISON
