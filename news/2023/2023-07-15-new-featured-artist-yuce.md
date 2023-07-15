@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "New Featured Artist: YUC'e"
-date: 2023-07-15 11:00:00 +0000
+date: 2023-07-15 17:00:00 +0000
 ---
 
 osu!'s Featured Artist library is officially 200% sweeter.
 
 ![](https://assets.ppy.sh/artists/372/header.jpg)
 
-If you've played maps like [Future Candy](https://osu.ppy.sh/beatmapsets/546820), [Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949), or [Magical Mixer](https://osu.ppy.sh/beatmapsets/680338), you know exactly how awesome it is to have **YUC'e** in our catalgoue. And if you haven't played those, we envy your future.
+If you've played maps like [Future Candy](https://osu.ppy.sh/beatmapsets/546820), [Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949), or [Magical Mixer](https://osu.ppy.sh/beatmapsets/680338), you know exactly how awesome it is to have **YUC'e** in our catalogue. And if you haven't played those, we envy your future.
 
 **YUC'e** released their debut album *Future Cake* in 2016, and the osu! community took notice immediately. In the last 7 years, more than 30 maps showcased **YUC'e**'s sound throughout the Ranked and Loved sections, plenty of which have literally *millions* of plays.
 
@@ -18,8 +18,7 @@ Practically every osu! player knows **YUC'e**, so we're happy to announce that *
 
 We've launched a batch of new [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) in *all* game modes! The **top 10 players** in each playlist are eligible to earn some fancy profile badges, as explained [here](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes). For example, [these folks were the winners from the last playlist](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists)!
 
-![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/fapltaiko.png)
-
+![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/fapltaiko.png)\
 ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplcatch.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
 
 That said, there's no better way to experience **YUC'e** than clicking circles for yourself. (So try out the playlists.)
@@ -47,7 +46,7 @@ Check out some of these maps:
 
 ### YUC'e - SPACE INVADER
 
-Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302) or [this new 4K mania map](https://osu.ppy.sh/beatmapsets/2008307) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302) or [this new 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2008307) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Sugary%20Galaxy/YUC%27e%20-%20SPACE%20INVADER.mp3">
@@ -119,7 +118,7 @@ Here's [a Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/559992) hosted by 
 
 ### YUC'e - Magical Mixer
 
-Try out [this multi-million play map](https://osu.ppy.sh/beatmapsets/680338) hosted by [tatemae](https://osu.ppy.sh/users/5223028)!
+Try out [this multi-million-play map](https://osu.ppy.sh/beatmapsets/680338) hosted by [tatemae](https://osu.ppy.sh/users/5223028)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Magical%20Mixer/YUC'e%20-%20Magical%20Mixer.mp3">
@@ -151,7 +150,7 @@ And here's another [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/
 
 ### YUC'e - Cinderella Syndrome
 
-Explore [the first ranked **YUC'e** map](https://osu.ppy.sh/beatmapsets/561693) hosted by [Kibbleru](https://osu.ppy.sh/users/3193504) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1467712) hosted by [KuroRev](https://osu.ppy.sh/users/6581584)!
+Explore [the first Ranked **YUC'e** map](https://osu.ppy.sh/beatmapsets/561693) hosted by [Kibbleru](https://osu.ppy.sh/users/3193504) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1467712) hosted by [KuroRev](https://osu.ppy.sh/users/6581584)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Candy/YUC'e%20-%20Cinderella%20Syndrome.mp3">
