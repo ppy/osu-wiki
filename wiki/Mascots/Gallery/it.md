@@ -14,13 +14,13 @@ needs_cleanup: true
 
 ![Concept art originale di pippi](img/pippi-original-concept.jpg "la concept art di pippi è stata disegnata da Sarumaru.")
 
-![Comboburst predefiniti della prima versione della skin di osu! ](img/pippi-original-comboburst.png "Comboburst predefiniti della prima versione della skin di osu!")
+![Comboburst predefiniti della prima versione della skin di osu!](img/pippi-original-comboburst.png "Comboburst predefiniti della prima versione della skin di osu!")
 
 ![Chibi-pippi (Immagine di intestazione)](img/pippi-original-header.jpg "Chibi-pippi (Immagine di intestazione)")
 
-![Vecchia immagine di errore 404 del vecchio sito web](img/pippi-original-website-404.jpg "Vecchia immagine di errore 404 del vecchio sito web")
+![Immagine di errore 404 del vecchio sito web](img/pippi-original-website-404.jpg "Immagine di errore 404 del vecchio sito web")
 
-![pippi illustrata da Daru](img/pippi-original-installer.jpg "pippi illustrata da Daru (una volta si trovava nel vecchio installer di osu!)")
+![pippi illustrata da Daru](img/pippi-original-installer.jpg "pippi illustrata da Daru (una volta si trovava nell'installer di osu!)")
 
 ![Finestra di dialogo di errore del vecchio client di osu!](img/pippi-original-error.jpg "pippi mastica il biscotto")
 
@@ -109,7 +109,7 @@ Per le fan art con un cameo, consulta:
 
 Per le fan art con le mascotte create dalla community, consulta:
 
-- [Fan Art 6: mascotte osu!taiko ](https://osu.ppy.sh/community/contests/2)
+- [Fan Art 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Natale](https://osu.ppy.sh/community/contests/36)
 - [Fan Art 9: Primavera](https://osu.ppy.sh/community/contests/45)
