@@ -4,9 +4,9 @@ tags:
   - NM
 ---
 
-# Normal mod
+# Mod normale
 
-*See also: [NM (disambiguazione)](/wiki/Disambiguation/NM).*
+*Vedi anche: [NM (disambiguazione)](/wiki/Disambiguation/NM).*
 
 Una **mod normale** (*NM*) è una [mod](/wiki/Modding) che viene fornita senza richiedere alcun lavoro da parte del creatore richiedente. Le mod normali sono tipicamente fatte per ottenere una seconda opinione su una [beatmap](/wiki/Beatmap) per aiutarla a migliorare. Molti modder usano il termine "NM" per distinguerlo dagli scambi [mod per mod](/wiki/Modding/Mod_for_mod).
 
