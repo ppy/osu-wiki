@@ -2,7 +2,7 @@
 
 <!-- ![COE 2023 1v1 osu! Tournamet banner](img/banner.png) -->
 
-The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tournament hosted during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands.
+The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tournament hosted during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the third instalment of the COE tournament series.
 
 ## Tournament schedule
 
