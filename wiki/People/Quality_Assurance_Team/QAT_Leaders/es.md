@@ -1,6 +1,6 @@
 # Líderes del QAT
 
-Tras la salida de [Loctav](https://osu.ppy.sh/users/71366) del manejo de osu! a finales de 2017, el [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) eligió a los **líderes del QAT** para tomar el control del grupo. Esta decisión se tomó porque los miembros del QAT sintieron que Loctav and [Ephemeral](https://osu.ppy.sh/users/102335) tenían demasiado control sobre el grupo, y que el QAT estaría mejor dirigido por sus propios miembros.
+Tras la salida de [Loctav](https://osu.ppy.sh/users/71366) del manejo de osu! a finales de 2017, el [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) eligió a los **líderes del QAT** para tomar el control del grupo. Esta decisión se tomó porque los miembros del QAT sintieron que Loctav y [Ephemeral](https://osu.ppy.sh/users/102335) tenían demasiado control sobre el grupo, y que el QAT estaría mejor dirigido por sus propios miembros.
 
 La votación para los líderes del QAT se manejó a través de una votación de todos los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y miembros del QAT. Los resultados de la votación, que se encuentran [aquí](https://osu.ppy.sh/community/forums/topics/640679), promovieron a [Okoratu](https://osu.ppy.sh/users/1623405) y [JBHyperion](https://osu.ppy.sh/users/4879508) como los primeros líderes del QAT. Su responsabilidad era trabajar con el osu! team para mantener las comunidades de mapping y modding.
 
