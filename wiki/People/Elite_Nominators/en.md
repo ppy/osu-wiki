@@ -1,6 +1,6 @@
 # Elite Nominators
 
-**Elite Nominators** are members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) who went above and beyond the call in order to display an exceptional dedication towards the ranking process and the overall health of the mapping community by standing out as some of the best nominators of their times.
+**Elite Nominators** are members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) who have gone above and beyond the call in order to display an exceptional dedication towards the [ranking process](/wiki/Beatmap_ranking_procedure) and the overall health of the [mapping](/wiki/Beatmapping) community by standing out as some of the best nominators of their times.
 
 Elite Nominators are selected by the Nomination Assessment Team through multiple factors, including but not limited to:
 
@@ -8,20 +8,19 @@ Elite Nominators are selected by the Nomination Assessment Team through multiple
 - Quality of nominated beatmaps
 - Quality of [modding](/wiki/Modding)
 - Amount of [nomination resets](/wiki/Beatmap_ranking_procedure#nomination-resets) received
-- Amount of [Quality Assurance](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) checks
+- Amount of [quality assurance](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) checks
 - Other notable contributions to the mapping community (such as tooling, community events, etc.)
 - Other qualities that make the nominator stand out from the rest
 
 Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019), Elite Nominators are recognised through news posts and are awarded:
 
-- The "Elite Nominator" [user title](/wiki/Community/User_title)
-  - Title lasts until the next Elite Nominators wave and is removed if the user is no longer a Beatmap Nominator
-  - Title increments by 1 for each consecutive year the user is an Elite Nominator
-- A special Elite Nominator [profile badge](/wiki/Community/Profile_badge)
+- The "Elite Nominator" [user title](/wiki/Community/User_title), which lasts for 1 year until the next wave of Elite Nominators or when the user leaves the Beatmap Nominators. In case a user is awarded the title again for consecutive years, the title increments by 1 ("Elite Nominator II", etc.).
+- An Elite Nominator [profile badge](/wiki/Community/Profile_badge), which is permanent.
 
 ![](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator badge")
+## List of Elite Nominators
 
-## 2019
+### 2019
 
 *For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
@@ -41,7 +40,7 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 | ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) | osu!mania |
 | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) | osu!mania |
 
-## 2020
+### 2020
 
 *For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
@@ -59,7 +58,7 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | osu!mania |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | osu!mania |
 
-## 2021
+### 2021
 
 *For the news post, see: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
 
@@ -82,7 +81,7 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | osu!mania |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | osu!mania |
 
-## 2022
+### 2022
 
 *For the news post, see: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
 
