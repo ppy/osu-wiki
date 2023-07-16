@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: July 13, 2023"
-date: 2023-07-13 09:00:00 +0000
+title: "osu!(lazer) Updates: July 16, 2023"
+date: 2023-07-16 12:00:00 +0000
 ---
 
 Nothing's better than a brand new osu!(lazer) update on a hot summer day...
 
-![]()
+![](/wiki/shared/news/2023-07-16-osulazer-updates-july-16-2023/banner.jpg)
 
 This update is **huge**, but before we go on to cover the most important bits and bobs, we are contractually obligated to let you know that osu!(lazer) is the next step in osu!'s development, and you can learn all about it [here](https://www.youtube.com/watch?v=ut_SOreClcc).
 
