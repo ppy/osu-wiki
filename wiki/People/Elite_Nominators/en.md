@@ -7,7 +7,7 @@ Elite Nominators are selected by the Nomination Assessment Team through multiple
 - Amount of [nominations](/wiki/Beatmap_ranking_procedure#nominations)
 - Quality of nominated beatmaps
 - Quality of [modding](/wiki/Modding)
-- Amount of [nomination resets](/wiki/Beatmap_ranking_procedure#nomination-resets) received
+- Amount and [severity](/wiki/People/Nomination_Assessment_Team/SEV_rating) of [nomination resets](/wiki/Beatmap_ranking_procedure#nomination-resets) received
 - Amount of [quality assurance](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) checks
 - Other notable contributions to the mapping community (such as tooling, community events, etc.)
 - Other qualities that make the nominator stand out from the rest
@@ -18,6 +18,7 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 - An Elite Nominator [profile badge](/wiki/Community/Profile_badge), which is permanent.
 
 ![](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator badge")
+
 ## List of Elite Nominators
 
 ### 2019
