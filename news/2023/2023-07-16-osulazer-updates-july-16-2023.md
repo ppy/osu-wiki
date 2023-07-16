@@ -28,7 +28,7 @@ This update is **huge**, but before we go on to cover the most important bits an
   - But wait, what if you wanted just the original and not all of the remixes from the [A Labour of Love contest](/wiki/Contests/A_Labour_of_Love_Contest)? No problem, just add an exclamation point to yell at the game that it has to be *My Love* and nothing else: `"my love"!`.
   - Switching gears, what if you wanted to play along to [YUC'e](https://osu.ppy.sh/beatmaps/artists/372)'s sweet vocals, but were only looking for songs by different artists where YUC'e is mentioned in the title? No problem, because `title=yuc'e` would be all you needed.
 
-Everything can't be covered here in one go of course, so either check out the video above, or if you want to look into every nook and cranny of the latest update, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.621.0).
+Everything can't be covered here in one go of course, so either check out the video above, or if you want to look into every nook and cranny of the latest update, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.716.0).
 
 ---
 
