@@ -15,7 +15,7 @@ La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! ospitato 
 | Evento | Timestamp |
 | --: | :-- |
 | Fase di registrazione | 2013-10-15/2013-10-28 |
-| Disegni dal vivo | 2013-10-31 (16:00 UTC) |
+| Sorteggi in diretta | 2013-10-31 (16:00 UTC) |
 | Fase a gironi | 2013-11-08/2013-11-10 |
 | Ottavi di finale | 2013-11-16/2013-11-17 |
 | Quarti di finale | 2013-11-24 |
@@ -26,7 +26,7 @@ La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! ospitato 
 
 | Piazzamento | Premi |
 | :-: | :-- |
-| ![Corona d'oro](/wiki/shared/crown-gold.png "1° posto") | 6 mesi di osu!supporter, badge per il profilo, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto")
+| ![Corona d'oro](/wiki/shared/crown-gold.png "1° posto") | 6 mesi di osu!supporter, badge per il profilo, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto") |
 | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto") | 3 mesi di osu!supporter |
 | ![Corona di bronzo](/wiki/shared/crown-bronze.png "3° posto") | 1 mese di osu!supporter |
 
@@ -42,7 +42,7 @@ La osu! World Cup 2013 è stata gestita da diversi membri della community.
 | Selezionatore del mappool | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323), ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/495477) |
 | Streamer | ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389), ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) |
 | Commentatore | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=NO }:: [kriers](https://osu.ppy.sh/users/333241), ::{ flag=AU }:: [LaVolpe024](https://osu.ppy.sh/users/597796), ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistico | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| Statistiche | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Link
 
@@ -309,7 +309,6 @@ Sabato 30 Novembre 2013:
 | **Corea del Sud** ::{ flag=KR }:: | **6** | 1 | ::{ flag=GB }:: Regno Unito | [#1](https://osu.ppy.sh/community/matches/3088440) |
 | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=PL }:: Polonia | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
-
 ### Quarti di finali
 
 Domenica 24 Novembre 2013:
@@ -407,7 +406,7 @@ Domenica 10 Novembre 2013:
 
 ### Regole del torneo
 
-1. La osu! World Cup è un torneo a squadre 4v4 basato sul paese.
+1. La osu! World Cup è un torneo a squadre 4v4 tra nazioni.
 2. Le mappe per ogni turno saranno annunciate in anticipo dai selezionatori del mapset la domenica prima dello svolgimento delle partite. Solo queste saranno utilizzate durante le rispettive partite.
    - Una mappa sarà assegnata come spareggio. Questa mappa sarà giocata solo in caso di parità.
    - Ci sarà anche un bracket [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) e FreeMod.
