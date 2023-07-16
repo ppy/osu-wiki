@@ -172,6 +172,26 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
 
+## Elite Nominators
+
+*Startseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+
+Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
+
+- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
+- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
+- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
+- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
+- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
+- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
+- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
+
 ## Gewinner des Aspire-Mapping-Wettbewerbs
 
 Die Aspire-Mapping-Wettbewerbe vergeben als Preis eine spezielle Variante des Elite-Mapper-Titels genannt **Elite Mapper: Aspirant**.
@@ -296,6 +316,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 ## Anmerkungen
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) wurde stattdessen mit dem Titel **Elite Mapper II** ausgezeichnet, da er den den Titel "Elite Mapper" auf zwei verschiedene Arten erfolgreich erworben hat: Das Gewinnen des Wettbewerbs [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) und das Überschreiten der 6-Punkte-Schwelle im neuen [monatlichen Beatmapping-Wettbewerbs](/wiki/Contests/Monthly_Beatmapping_Contest)-System.
+[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) und ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie zwei Jahre in Folge als Elite Nominators betitelt wurden.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) wurde stattdessen mit dem Titel **Elite Mapper II: Aspirant** ausgezeichnet, da er sowohl den [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) als auch den [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) gwonnen hatte.
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) wurde stattdessen mit dem Titel **osu!mixer II** ausgezeichnet, da er sowohl den [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) und den Wettbwerb [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) gewonnen hatte.
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.
