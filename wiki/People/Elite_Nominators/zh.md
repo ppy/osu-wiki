@@ -7,7 +7,7 @@
 - [提名](/wiki/Beatmap_ranking_procedure#nominations)数量
 - 提名的谱面质量
 - [摸图](/wiki/Modding)的质量
-- 收到[提名重置](/wiki/Beatmap_ranking_procedure#nomination-resets)的数量
+- 收到[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)的数量
 - 做出[质量保证](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)检查的数量
 - 对作图社区的其他重大贡献（制作辅助作图的工具、参与举办社区活动等）
 - 让他们与众不同的其他优秀品质
