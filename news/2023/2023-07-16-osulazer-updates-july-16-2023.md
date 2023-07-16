@@ -4,7 +4,7 @@ title: "osu!(lazer) Updates: July 16, 2023"
 date: 2023-07-16 12:00:00 +0000
 ---
 
-Nothing's better than a brand-new osu!(lazer) update on a hot summer day...
+Nothing's better than a brand-new osu!(lazer) update on a hot summer day.
 
 ![](/wiki/shared/news/2023-07-16-osulazer-updates-july-16-2023/banner.jpg)
 
@@ -22,13 +22,13 @@ This update is **huge**, but before we go on to cover the most important bits an
 - **Hotkeys for 90° rotations of selections in the editor.** In some parts of the world, this would be `Ctrl` + `<`/`>` (anticlockwise/clockwise), and in others, `Ctrl` + `,`/`.`. Not rebindable.
 - **Skinnable retry sound and redesigned key counter.** Your custom retry sounds (`pause-retry-click`) from existing skins will now work! If you don't like the new key counter, you can switch back to the old one in the skin layout editor (`Ctrl` + `Shift` + `S`). Or if you like neither, you can also just delete it entirely.
 - **Gameplay bug fixes.** These include fixing 1 million score being unachievable in some osu!mania maps, skin elements being flipped in osu!catch when the "Floating Fruits" mod is active, fixing animation timing for osu!taiko, and a bunch more, including bringing back a bug from osu!(stable).
-- **Huge performance improvements.** The details are too technical to summarise, but even [peppy](https://osu.ppy.sh/users/2) was excited by how big the improvements are.
-- **More search options at song select.** These are not available for online beatmap searches yet (except for searching with quotes, which have been a thing). To explain these, imagine the following scenarios:
+- **Huge performance improvements.** The details are too technical to summarise, but even [peppy](https://osu.ppy.sh/users/2) was excited by how substantial the optimisations are.
+- **More search options at song select.** These are not available for online beatmap searches yet (except for searching with quotes, which have been a thing). To help illustrate how to use these new options, take a moment to imagine the following scenarios:
   - What if you wanted to play maps of the good old *[Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) - My Love*, but you find that searching "my love" gives all kinds of maps where "love" and "my" show up in metadata? No worries, just type `"my love"` in quotes.
   - But wait, what if you wanted just the original and not all of the remixes from the [A Labour of Love contest](/wiki/Contests/A_Labour_of_Love_Contest)? No problem, just add an exclamation point to yell at the game that it has to be *My Love* and nothing else: `"my love"!`.
   - Switching gears, what if you wanted to play along to [YUC'e](https://osu.ppy.sh/beatmaps/artists/372)'s sweet vocals, but were only looking for songs by different artists where YUC'e is mentioned in the title? No problem, because `title=yuc'e` would be all you needed.
 
-Everything can't be covered here in one go of course, so either check out the video above, or if you want to look into every nook and cranny of the latest update, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.716.0).
+Everything can't be covered here in one go of course, so make sure to check out the video above. If you want to look into every nook and cranny of the latest update, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.716.0) for all the details.
 
 ---
 
