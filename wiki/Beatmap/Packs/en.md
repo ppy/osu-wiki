@@ -63,8 +63,6 @@ To download beatmap packs in bulk instead of one by one manually, use torrenting
   - [Torrent file](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) by [Elessey](https://osu.ppy.sh/users/4925105)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [PandoTracker website](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
 
 <!-- TODO: new mirrors -->
 
