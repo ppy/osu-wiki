@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Legal
 
 Página de índice de todos los artículos legales. ¡También puedes encontrar sus enlaces en el pie de página del sitio web de osu!.
