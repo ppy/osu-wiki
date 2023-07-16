@@ -171,24 +171,6 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
 
-## Elite Nominators
-
-Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
-
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
-- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
-- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
-- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
-- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
-
 ## Aspire mapping contest winners
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
