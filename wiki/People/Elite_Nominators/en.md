@@ -6,10 +6,10 @@ Elite Nominators are selected by the Nomination Assessment Team through multiple
 
 - Amount of [nominations](/wiki/Beatmap_ranking_procedure#nominations)
 - Quality of nominated beatmaps
-- Quality of modding
+- Quality of [modding](/wiki/Modding)
 - Amount of [nomination resets](/wiki/Beatmap_ranking_procedure#nomination-resets) received
 - Amount of [Quality Assurance](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) checks
-- Other notable contributions to the mapping community
+- Other notable contributions to the mapping community (such as tooling, community events, etc.)
 - Other qualities that make the nominator stand out from the rest
 
 Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019), Elite Nominators are recognised through news posts and are awarded:
