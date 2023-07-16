@@ -8,7 +8,7 @@ Nothing's better than a brand-new osu!(lazer) update on a hot summer day.
 
 ![](/wiki/shared/news/2023-07-16-osulazer-updates-july-16-2023/banner.jpg)
 
-This update is **huge**, but before we go on to cover the most important bits and bobs, we are contractually obligated to let you know that osu!(lazer) is the next step in osu!'s development, and you can get the a quick run-down on what that means [here](https://www.youtube.com/watch?v=ut_SOreClcc).
+This update is **huge**, but before we go on to cover the most important bits and bobs, we are contractually obligated to let you know that osu!(lazer) is the next step in osu!'s development, and you can get the quick run-down on what that means [here](https://www.youtube.com/watch?v=ut_SOreClcc).
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/RJwK01SN2lg" frameborder="0" allowfullscreen></iframe>
