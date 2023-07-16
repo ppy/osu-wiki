@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
     - BSC
     - beatmap spotlight curator
@@ -8,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-**Beatmap Spotlight Curators** (***BSC***) es un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmaps Destacados](/wiki/Beatmap_Spotlights).
+Los **Beatmap Spotlight Curators** (***BSC***) es un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmaps Spotlights](/wiki/Beatmap_Spotlights). Se distinguen por su insignia del [grupo de usuarios](/wiki/People/User_group) azul pizarra que dice `BSC`.
 
 ## Convertirse en curador
 
@@ -20,14 +18,14 @@ Todos los solicitantes son evaluados en función de su competencia como jugador,
 
 ## Curadores
 
-El proyecto Beatmaps Destacados está a cargo de varios miembros de la comunidad en todos los modos de juego, dirigidos por un líder de proyecto dedicado. La [página del grupo Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) enumera a todos los miembros.
+El proyecto Beatmaps Spotlights está a cargo de varios miembros de la comunidad en todos los modos de juego, dirigidos por un líder de proyecto dedicado. La [página del grupo Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) enumera a todos los miembros.
 
 | Rol | Miembros |
 | :-- | :-- |
 | Lider del proyecto | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Gerente de proyecto | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders are marked in bold.
+Los equipos de curadores dedicados ensamblan cada lanzamiento de Beatmap Spotlights. Los líderes del equipo están marcados en negrita.
 
 ### Curadores de osu!
 
