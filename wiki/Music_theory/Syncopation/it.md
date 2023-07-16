@@ -1,5 +1,5 @@
 ---
-stub: vero
+stub: true
 ---
 
 # Sincope

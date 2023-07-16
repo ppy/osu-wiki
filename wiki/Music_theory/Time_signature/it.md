@@ -1,7 +1,7 @@
 ---
 stub: true
 tag:
-  - spartiti
+  - sheet music
 ---
 
 # Firma del tempo

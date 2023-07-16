@@ -8,7 +8,7 @@ tag:
 
 Un **livello musicale** è una parte della canzone che contiene caratteristiche con un aspetto comune tra loro. Una parte significativa del [beatmapping](/wiki/Beatmapping) in ogni [modalità di gioco](/wiki/Game_mode) consiste nel seguire coerentemente diversi tipi di layer (come percussioni, voci e modelli sonori) e passare da uno all'altro a scopo di enfasi e contrasto.
 
-In genere, un singolo livello in un brano musicale rappresenta un gruppo di strumenti della stessa famiglia o [gamma] (https://en.wikipedia.org/wiki/Range_(musica)), o - in alternativa - voci dello [stesso tipo](https://en.wikipedia.org/wiki/Voice_type). Poiché i livelli sono astratti, possono essere limitati a un solo strumento o a un solo tipo di suono, a seconda del contesto in cui vengono discussi. Altri criteri di suddivisione dei livelli sono i pattern [ritmo](https://it.wikipedia.org/wiki/Ritmo), [melodia](https://it.wikipedia.org/wiki/Polifonia), [armonia](https://it.wikipedia.org/wiki/Armonia) o [altezza](https://en.wikipedia.org/wiki/Pitch_(musica)).
+In genere, un singolo livello in un brano musicale rappresenta un gruppo di strumenti della stessa famiglia o [gamma](https://en.wikipedia.org/wiki/Range_(musica)), o - in alternativa - voci dello [stesso tipo](https://en.wikipedia.org/wiki/Voice_type). Poiché i livelli sono astratti, possono essere limitati a un solo strumento o a un solo tipo di suono, a seconda del contesto in cui vengono discussi. Altri criteri di suddivisione dei livelli sono i pattern [ritmo](https://it.wikipedia.org/wiki/Ritmo), [melodia](https://it.wikipedia.org/wiki/Polifonia), [armonia](https://it.wikipedia.org/wiki/Armonia) o [altezza](https://en.wikipedia.org/wiki/Pitch_(musica)).
 
 ## Mappatura
 

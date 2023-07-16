@@ -1,8 +1,8 @@
 ---
-tag:
+tags:
   - BPM
   - tempo
-  - battiti al minuto
+  - beats per minute
 ---
 
 # Tempo
