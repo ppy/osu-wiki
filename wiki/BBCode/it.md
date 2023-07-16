@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 7076ff93d53765e07a3cfe9ff53bd92582ff540b
----
-
 # BBCode
 
 **BBCode** è un [linguaggio di markup](https://it.wikipedia.org/wiki/Linguaggio_di_markup) che viene usato nei forum di osu! e, più su larga scala, nella stragrande maggioranza dei forum online. Utilizzato per abilitare la formattazione del rich text, è composto da tag che circondano il testo per indicare la formattazione, gli attributi, l'incorporamento e altro. Viene utilizzato in vari luoghi all'interno del sito di osu!, come post del forum, firme, pagine utente e descrizioni delle mappe.
@@ -116,7 +111,7 @@ text
 
 Il tag `[box]` viene utilizzato per nascondere testo e immagini all'interno di un collegamento ipertestuale cliccabile. Cliccando, i contenuti all'interno verranno rivelati in modo simile ad un menu a discesa.
 
-Il testo del collegamento personalizzato è denotato dall'argomento `NOME`. Specificare questo argomento creerà un intestazione all'interno del box utilizzando quell'argomento e regolerà la dimensione del box di conseguenza. Se lasciato non specificato, il tag `[box]` creerà un box senza intestazione all'interno (che non può essere cliccato). L'argomento non utilizza le virgolette (`"`) e gli spazi vuoti potranno essere visualizzati.
+Il testo del collegamento personalizzato è denotato dall'argomento `NOME`. Specificare questo argomento creerà un intestazione all'interno del box utilizzando quell'argomento e regolerà la dimensione del box di conseguenza. Se lasciato non specificato, il tag `[box]` creerà un box senza intestazione all'interno. L'argomento non utilizza le virgolette (`"`) e gli spazi vuoti potranno essere visualizzati.
 
 Il tag viene comunemente utilizzato per nascondere grandi quantità di testo e immagini che possono ingrossare la dimensione di un post sul forum. In particolare in FAQ o post di rilascio [skin](/wiki/Skinning).
 
@@ -248,9 +243,28 @@ Il tag `[img]` viene utilizzato per includere immagini online nei post del forum
 
 Per ottenere un indirizzo immagine, è necessario navigare sul sito web di provenienza, posizionare il mouse sopra l'immagine, fare clic con il tasto destro sull'immagine e selezionare `Copia indirizzo immagine`. Quindi, l'indirizzo dovrebbe essere copiato e incollato tra i tag.
 
-Sebbene le immagini possano essere prese da qualsiasi sito, osu! raccomanda agli utenti di caricare le immagini su siti di condivisione di immagini affidabili come [Imgur](https://ingur.com), poiché alcuni siti web non apprezzano i collegamenti diretti alle loro immagini (anche noti come "hotlinks").
+Sebbene le immagini possano essere prese da qualsiasi sito, osu! raccomanda agli utenti di caricarle su siti di condivisione di immagini affidabili come [ImgBB](https://imgbb.com/), poiché alcuni siti web non apprezzano i collegamenti diretti alle loro immagini (anche noti come "hotlinks").
+
+*Nota: Imgur ha bloccato gli indirizzi IP del sito di osu!, quindi tutte le nuove immagini aggiunte su questo servizio non potranno essere mostrate.*[^imgur-blocked-ip]
 
 Bottone della barra degli strumenti: ![Bottone immagine](img/image.png "Immagine")
+
+### Mappa Immagine
+
+```
+[imagemap]
+URL_IMMAGINE
+X Y LARGHEZZA ALTEZZA REINDIRIZZAMENTO TITOLO
+[/imagemap]
+```
+
+Il tag `[imagemap]` viene utilizzato per integrare uno o più collegamenti ipertestuali in aree rettangolari di un'immagine.
+
+L'immagine, che è incorporata nel sito web, è rappresentata dall'argomento `URL_IMMAGINE`. Deve riferirsi direttamente ad un'immagine ospitata su un sito web.
+
+Per aggiungere un'area cliccabile, dopo l'argomento `URL_IMMAGINE` è necessario inserire una nuova riga contenente la posizione x e y dell'area, la larghezza e l'altezza dell'area e un link a cui reindirizzare. Inoltre, un argomento opzionale `TITOLO` verrà mostrato al passaggio del mouse sull'area, se specificato. Un collegamento può essere specificato con l'argomento `REINDIRIZZAMENTO` o omesso con un `#`. Ogni unità di dimensione (`X`, `Y`, `WIDTH` e `HEIGHT`) è una percentuale (0-100) senza segno di percentuale.
+
+Bottone della barra degli strumenti: ![Bottone Mappa Immagine](img/imagemap.png "Mappa Immagine")
 
 ### YouTube
 
@@ -331,3 +345,8 @@ Il tag *Intestazione (v2)* è un tag obsoleto che una volta veniva utilizzato ne
 - Questo articolo è stato adattato dalla discussione del forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) di [Stefan](https://osu.ppy.sh/users/626907).
 - In passato c'era un bug che consentiva agli utenti di rendere il testo trasparente utilizzando il [tag colore](#colore) e digitando "transparent" dopo il segno d'uguaglianza (`=`).
   - Al momento, il testo tornerà al colore predefinito (bianco) quando ciò accade.
+- Prima dell'aggiunta del tag `Mappa Immagine`, era possibile aggiungere un collegamento ipertestuale ad un'immagine combinando i tag `url` e `img`. Tuttavia, è possibile impostare un solo collegamento ipertestuale per immagine. Ciò richiedeva di tagliare l'immagine originale in più parti (cioè per ogni collegamento un'immagine parziale) e di disporle orizzontalmente una accanto all'altra.
+
+## Riferimenti
+
+[^imgur-blocked-ip]: [Tweet di @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
