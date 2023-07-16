@@ -26,7 +26,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-*Para la publicación de noticia, véase: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
+*Para la publicación del anuncio, véase: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
 
 | Canción |
 | :-: |
@@ -45,7 +45,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 #### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
 
-*Para la publicación de noticia, véase: [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
+*Para la publicación del anuncio, véase: [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
 
 | Canción |
 | :-: |
@@ -54,7 +54,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
-*Para la publicación de noticia, véase: [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
+*Para la publicación del anuncio, véase: [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
 
 Estas canciones son parte del [EP osu! James Landino Collection](https://fanlink.to/osulandino)
 
@@ -79,7 +79,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
-*Para la publicación de noticia, véase: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
+*Para la publicación del anuncio, véase: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
 
 | Canción |
 | :-: |
@@ -87,7 +87,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-*Para la publicación de noticia, véase: [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)*
+*Para la publicación del anuncio, véase: [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)*
 
 | Canción |
 | :-: |
@@ -95,7 +95,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-*Para la publicación de noticia, véase: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
+*Para la publicación del anuncio, véase: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
 
 | Canción |
 | :-: |
@@ -105,7 +105,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
-*Para la publicación de noticia, véase: [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
+*Para la publicación del anuncio, véase: [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
 
 | Canción |
 | :-: |
@@ -121,7 +121,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-*Para la publicación de noticia, véase: [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)*
+*Para la publicación del anuncio, véase: [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)*
 
 | Canción |
 | :-: |
