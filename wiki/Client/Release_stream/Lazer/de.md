@@ -8,6 +8,8 @@ tags:
   - osu lazer
   - osu!(lazer)
   - Spiel-Client
+outdated_translation: true
+outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
 ---
 
 # Updatequelle lazer
