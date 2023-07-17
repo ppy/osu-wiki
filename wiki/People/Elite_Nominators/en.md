@@ -99,6 +99,6 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | osu!catch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | osu!catch |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/7777875) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | osu!mania |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania |
