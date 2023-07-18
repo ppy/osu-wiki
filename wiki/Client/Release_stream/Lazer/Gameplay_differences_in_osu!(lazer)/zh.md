@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
+---
+
 # osu!(lazer) 功能比较
 
 *对于更简略的功能列表，参见： [帮助中心/升级到 lazer § 功能对比](/wiki/Help_centre/Upgrading_to_lazer#功能对比)*

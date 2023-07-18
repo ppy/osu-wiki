@@ -14,7 +14,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 ## 비트맵 카테고리
 
-온라인으로 제출된 비트맵은 최근 활동, 지명 상태, 인기도에 따라 카테고리별로 정렬되게 됩니다.
+온라인으로 제출된 비트맵은 최근 활동, 노미네이션 상태, 인기도에 따라 카테고리별로 정렬되게 됩니다.
 
 - [무덤에 감](#무덤에-감)
 - [보류 중 & 작업 중](#보류-중-&-작업-중)
@@ -31,13 +31,13 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 ### 보류 중 & 작업 중
 
-작업 중(일반적으로 *WIP*로 불립니다)과 보류 중은 비트맵을 처음으로 등록할 때 설정되는 카테고리입니다. 이 카테고리에 있는 비트맵들은 적어도 2명의 [Beatmap Nominators](/wiki/People/Beatmap_Nominators)에 의해 [지명](/wiki/Beatmap_ranking_procedure#지명)되어 [Qualified](#qualified) 카테고리로 이동될 수 있습니다. 이는 보통 [모더](/wiki/Modding/Modder)의 [모딩](/wiki/Modding)을 통해 많은 양의 피드백이 포함됩니다. 보류 중 & 작업 중인 비트맵은 리더보드를 가질 수 없고 사용자 통계에 영향을 끼치지 못합니다. 하지만 여전히 다운로드와 플레이를 할 수 있습니다. 이 비트맵들은 노래 선택 화면에서 물음표 아이콘 (![](/wiki/shared/status/graveyard.png))으로 표기됩니다.
+작업 중(일반적으로 *WIP*로 불립니다)과 보류 중은 비트맵을 처음으로 등록할 때 설정되는 카테고리입니다. 이 카테고리에 있는 비트맵들은 적어도 2명의 [Beatmap Nominators](/wiki/People/Beatmap_Nominators)에 의해 [노미네이트](/wiki/Beatmap_ranking_procedure#노미네이션)되어 [Qualified](#qualified) 카테고리로 이동될 수 있습니다. 이는 보통 [모더](/wiki/Modding/Modder)의 [모딩](/wiki/Modding)을 통해 많은 양의 피드백이 포함됩니다. 보류 중 & 작업 중인 비트맵은 리더보드를 가질 수 없고 사용자 통계에 영향을 끼치지 못합니다. 하지만 여전히 다운로드와 플레이를 할 수 있습니다. 이 비트맵들은 노래 선택 화면에서 물음표 아이콘 (![](/wiki/shared/status/graveyard.png))으로 표기됩니다.
 
 4주간 업데이트된 적이 없으면 자동으로 [무덤에 감](#무덤에-감) 카테고리로 이동됩니다.
 
 ### Qualified
 
-Qualified 카테고리는 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)의 마지막 단계입니다. 이 비트맵이 [랭킹 크리테리아](/wiki/Ranking_criteria)가 요구하는 기준에 적합하다고 판단하는 적어도 두 명의 [Beatmap Nominators](/wiki/People/Beatmap_Nominators)를 통해 지명받게 됩니다.  Qualified 된 맵은 [랭킹 큐](/wiki/Beatmap_ranking_procedure#랭크)에 등록되고, 큐에서 [disqualified](/wiki/Beatmap_ranking_procedure#지명-초기화) 되지 않는다면 마침내 [Ranked](#ranked) 카테고리로 이동됩니다. 이 기간은 자칫 발견되지 않은 결함과 실수를 고칠 수 있는 마지막 보루입니다.
+Qualified 카테고리는 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)의 마지막 단계입니다. 이 비트맵이 [랭킹 크리테리아](/wiki/Ranking_criteria)가 요구하는 기준에 적합하다고 판단하는 적어도 두 명의 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)를 통해 노미네이트를 받게 됩니다. Qualified 된 맵은 [랭킹 대기열](/wiki/Beatmap_ranking_procedure#랭크)에 등록되고, 큐에서 [디스퀄리파이](/wiki/Beatmap_ranking_procedure#노미네이션-초기화)되지 않는다면 마침내 [Ranked](#ranked) 카테고리로 이동됩니다. 이 기간은 자칫 발견되지 않은 결함과 실수를 고칠 수 있는 마지막 보루입니다.
 
 Qualified 비트맵은 리더보드를 가지지만 [퍼포먼스 포인트](/wiki/Performance_points)를 얻을 수 없고, Qualified 상태를 벗어나면 기록된 모든 점수가 사라지게 됩니다. 이 비트맵들은 노래 선택 화면에서 체크 아이콘 (![](/wiki/shared/status/qualified.png)) 으로 표기됩니다.
 
