@@ -13,7 +13,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 
 ## Tournament schedule
 
-### 2022-07-23 (Day 1)
+### 2022-07-23 (day 1)
 
 | Event | Timestamp |
 | --: | :-- |
@@ -23,7 +23,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 | Semifinals | 16:00 - 17:00 (UTC+08) |
 | Finals | 17:00 (UTC+08) |
 
-### 2022-07-24 (Day 2)
+### 2022-07-24 (day 2)
 
 | Event | Timestamp |
 | --: | :-- |
@@ -66,8 +66,8 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
 ## Links
 
 - [News article](https://osu.ppy.sh/home/news/2022-07-21-osu-philippines-conquest-ph-2022)
-- [Challonge brackets (Day 1)](https://challonge.com/oPQS_Day1)
-- [Challonge brackets (Day 2)](https://challonge.com/oPQS_Day2)
+- [Challonge brackets (day 1)](https://challonge.com/oPQS_Day1)
+- [Challonge brackets (day 2)](https://challonge.com/oPQS_Day2)
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
@@ -112,7 +112,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-### 2022-07-23 (Day 1)
+### 2022-07-23 (day 1)
 
 | Placing | Player |
 | :-: | :-- |
@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [rexralph1](https://osu.ppy.sh/users/18499824) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [xXCraigyxD28Xx](https://osu.ppy.sh/users/14916935) |
 
-### 2022-07-24 (Day 2)
+### 2022-07-24 (day 2)
 
 | Placing | Player |
 | :-: | :-- |
