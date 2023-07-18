@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_since: 545f0d9198fbeaae803d1214ffa2ef61cbc26ea1
-outdated_translation: true
----
-
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -18,18 +12,22 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `ar.md` | Arabisch | اَلْعَرَبِيَّةُ |
 | `be.md` | Belarussisch | Беларуская мова |
 | `bg.md` | Bulgarisch | Български |
+| `ca.md` | Katalanisch | Català |
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
 | `de.md` | Deutsch | Deutsch |
 | `el.md` | Griechisch | Ελληνικά |
 | `es.md` | Spanisch | Español |
 | `fi.md` | Finnisch | Suomi |
+| `fil.md` | Filipino | Wikang Filipino |
 | `fr.md` | Französisch | Français |
+| `he.md` | Hebräisch | עִבְרִית |
 | `hu.md` | Ungarisch | Magyar |
 | `id.md` | Indonesisch | Bahasa Indonesia |
 | `it.md` | Italienisch | Italiano |
 | `ja.md` | Japanisch | 日本語 |
 | `ko.md` | Koreanisch | 한국어 |
+| `lt.md` | Litauisch | Lietuvių kalba |
 | `nl.md` | Niederländisch | Nederlands |
 | `no.md` | Norwegisch | Norsk |
 | `pl.md` | Polnisch | Polski |
@@ -38,6 +36,8 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `ro.md` | Rumänisch | Română |
 | `ru.md` | Russisch | Русский |
 | `sk.md` | Slowakisch | Slovenčina |
+| `sl.md` | Slowenisch | Slovenščina |
+| `sr.md` | Serbisch | Српски |
 | `sv.md` | Schwedisch | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Türkisch | Türkçe |
@@ -592,7 +592,7 @@ Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordne
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
 ```markdown
-*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_Criteria#timing)*
+*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Andere osu!-Links
@@ -681,7 +681,7 @@ Der Text in Anführungszeichen (*Titeltext*) sollte zusätzlichen Kontext zum Bi
 
 Wenn ein Bild der einzige Inhalt eines Absatzes ist, dann wird dieses als zentrierter Block angezeigt. Ansonsten liegt es dynamisch im umgebenden Inline-Text.
 
-Blockbilder mit einem Titeltext zeigen den Titeltext als Bildunterschrift unter dem Bild an. Vermeide das Hinzufügen von [HTML-Kommentaren](#kommentare) oder beliebig anderem Text auf derselben Linie wie das Bild, da da dies dazu führt, dass die Unterschrift nicht angezeigt wird.
+Blockbilder mit einem Titeltext zeigen den Titeltext als Bildunterschrift unter dem Bild an. Vermeide das Hinzufügen von [HTML-Kommentaren](#kommentare) oder beliebig anderem Text auf derselben Linie wie das Bild, da dies dazu führt, dass die Unterschrift nicht angezeigt wird.
 
 Blockbilder werden häufig mit einer [Infobox](#infoboxen) zusammen formatiert, um die anfängliche Größe zu reduzieren und sie neben anderen Inhalten zu platzieren:
 
@@ -703,15 +703,15 @@ Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80 %, abhängig
 
 ### Dateigröße
 
-Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80 % reicht dafür meistens aus.
+Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei einer Qualität von 80 % reicht dafür meistens aus.
 
 Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu komprimieren. Benutze bitte den folgenden Befehl für jpeg-archive:
 
-```sh
-jpeg-recompress -am smallfry <Eingabe> <Ausgabe>
+```
+jpeg-recompress -am smallfry <Eingabedatei> <Ausgabedatei>
 ```
 
-Wobei `<Eingabe>` der Dateiname der zu komprimierenden Datei und `<Ausgabe>` der Name der komprimierten Datei ist.
+Alternativ kann auch [ezgif.com](https://ezgif.com/) verwendet werden, um Bilder zu konvertieren und zu optimieren.
 
 ### Dateinamen
 
@@ -767,7 +767,7 @@ Bilder dürfen nicht Teil eines Linktextes sein.
 
 ## Flaggensymbole
 
-Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und sind einem bestimmten Gebiet zugeordnet. Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
+Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und sind einem bestimmten Gebiet zugeordnet. Benutze beim Hinzufügen eines Symbols innerhalb einer Zeile dieses Format:
 
 ```markdown
 ::{ flag=XX }::
@@ -779,7 +779,7 @@ Wobei `XX` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste
 
 Tabellen auf der Webseite unterstützen Titel nur in der ersten Zeile.
 
-Tabellen müssen nicht schön gemacht werden (füge keine extra Leerzeichen ein, um die Abstände gleichmäßig zu machen). Sie müssen einen senkrechten Strich (`|`) auf der linken sowie rechten Seite haben und jede Zelle muss mit einem Leerzeichen auf jeder Seite versehen sein. Leere Zellen müssen einen senkrechten Strich, gefolgt von zwei Leerzeichen, gefolgt von einem weiteren senkrechten Strich haben.
+Tabellen müssen nicht schön gemacht werden (also füge keine extra Leerzeichen ein, um die Abstände gleichmäßig zu machen). Sie müssen einen senkrechten Strich (`|`) auf der linken sowie rechten Seite haben und jede Zelle muss mit einem Leerzeichen auf jeder Seite versehen sein. Leere Zellen müssen aus einem senkrechten Strich, gefolgt von zwei Leerzeichen und einem weiteren senkrechten Strich bestehen.
 
 Die Trennzeichen-Zeile (die nächste Zeile nach den Spaltenüberschriften) darf nur drei Zeichen pro Spalte benutzen (und mit einem Leerzeichen auf jeder Seite versehen sein), die wie folgt aussehen müssen:
 
