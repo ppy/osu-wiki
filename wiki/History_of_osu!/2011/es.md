@@ -4,6 +4,6 @@
 
 Se anunció la osu! wiki, que permite a los usuarios agregar todo tipo de información relacionada con osu!.
 
-Links:
+Enlaces:
 
 - [proyecto osu!wiki](https://osu.ppy.sh/community/forums/topics/68479)
