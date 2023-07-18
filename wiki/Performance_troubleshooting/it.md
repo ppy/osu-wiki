@@ -42,71 +42,71 @@ C'è un ritardo notevole tra la pressione della tastiera o muovere il mouse o la
 - Se stai utilizzando dei driver non ufficiali, prova a usare quelli ufficiali.
 - Assicurati di eseguire osu! nella modalità a schermo intero. Eseguire in modalità finestra o senza bordi aggiunge più di un frame di latenza.
 
-### Loss of control
+### Perdita di Controllo
 
-During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. When diagnosing or reporting, it may help to:
+Durante il gameplay, uno o più dispositivi di input smettono di rispondere. Tutto sullo schermo si muove correttamente ma non è possibile giocare correttamente finchè non si riesce a controllare di nuovo.  Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
 
-- Press `Ctrl` + `F11` to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
+- Premi `Ctrl` + `F11` per vedere il grafico del frame time. Controlla se c'è molto bianco sul grafico quando accade (questo significa che un'altra app o driver sul tuo sistema sta usando troppa CPU time, ritardando l'input).
 
-### Low frame rate
+### Frame rate basso
 
-During gameplay, the frame rate is unable to keep up, resulting in jittery and awkward movement of objects on the screen. This can also result in higher perceived input latency. When diagnosing or reporting, it may help to:
+Durante il gameplay, è impossibile mantenere il frame rate, risultando in movimenti strani e tremolanti degli oggetti sullo schermo. Questo può anche risultare in una percezione della latenza più alta. Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
 
-- Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
-- Make sure you're not forcing VSync on at your display drivers (it should be set to "off" or "application preference").
-- Try changing frame limiter and see if it improves the situation.
-- Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
+- Controlla se succede subito dopo un riavvio del PC.
+- Prova a chiudere qualsiasi applicazione che mostra un overlay nel gioco (Discord, Steam, NVIDIA Shadowplay, ecc.)
+- Assicurati che non stai forzando il VSync dai tuoi drivers grafici (dovrebbe essere impostato su "off" o su "preferenze dell'applicazione").
+- Prova a cambiare il limitatore frame e controlla se la situazione migliora.
+- Assicurati che stai eseguendo osu! in modalità a schermo intero esclusiva (non in senza bordi). Questo migliorerà sempre le performance.
+- Assicurati di avere la [modalità gioco](https://support.xbox.com/it-IT/help/games-apps/game-setup-and-play/use-game-mode-gaming-on-pc) attiva. Permette a Windows di dedicare core e risorse ad osu!.
+- Apri il task manager e ordina la lista (sotto Dettagli) per CPU. Controlla eventuali alti utilizzi di CPU quando avvengono i cali, per esempio da un virus in background o uno scanner di malaware. Puoi anche eseguire osu! in finestra o lasciare il task manager su un secondo display per diagnosticare questa cosa mentre giochi o vedi una mappa in autoplay.
 
-## Frame Limiters
+## Limitatore Frame
 
-osu! offers multiple choices of frame limiters. Each of these have pros and cons. Note that regardless of setting, osu! will limit frame rate at menus to conserve CPU usage.
+osu! offre multiple scelte di limitatori frame. Ciascuno di essi hanno dei pro e dei contro. Nota che indipendentemente dalla scelta, osu! limiterà il frame rate nei menù per conservare l'utilizzo di CPU.
 
 ### VSync
 
-This frame limiter relies on a driver provided vertical synchronising mechanism. It guarantees no screen tearing, but adds 1-2 frames worth of latency due to the requirement of buffering frames before display.
+Questo limitatore frame si basa su un meccanismo di sincronia verticale fornito dal driver. Garantisce che non ci sia lo screen tearing, ma aggiunge 1-2 frame di latenza a causa della necessità di frame di buffering prima  It guarantees no screen tearing, ma aggiunge 1-2 fotogrammi di latenza a causa della necessità di bufferizzare i fotogrammi prima della visualizzazione.
 
-Generally not recommended for 60Hz displays. It can become more useful at refresh rates above 120Hz, but with GSync and FreeSync monitors, the requirement to use VSync to avoid tearing is lifted.
+Generalmente non è raccomandato per i display a 60Hz. Può diventare utile a refresh rate superiori a 120Hz, ma con i monitor con GSync e FreeSync, il requisito dell'uso di VSync per evitare il tearing viene rimosso.
 
-### Power Saving
+### Risparmio Energia
 
-This frame limiter aims to save on power usage while providing a consistent game experience. It will run at 2x monitor refresh rate and attempt to keep a consistent frame pacing.
+Questo limitatore frame mira a salvare il consumo di energia e allo stesso tempo provvedere a un'esperienza di gioco consistente. Verrà eseguito al doppio del refresh rate del monitor e tenterà di mantenere un ritmo di frame costistente.
 
-Recommended for older PCs or for conserving battery on a laptop.
+Raccomandato per PC vecchi o per risparmiare batteria sui laptop.
 
-### Optimal
+### Ottimale
 
-This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960 FPS. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
+Questo limitatore frame tenta di mantenere un frame rate otto volte il tuo refresh rate, con un massimo di 960 FPS. Questo è il limitatore frame raccomandato per gli utenti che non vogliono usare la loro CPU/GPU alle loro estremità, ma allo stesso tempo mantenere alti livelli di performance risultando in una latenza degli input bassa.
 
-Can be preferred to `Unlimited` in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (which can result in spike frames).
+Può essere preferito a `Unlimited` per ridurre il numero di frame renderizzati, a sua volta porta a un minore potenziale per il [garbage collection](https://it.wikipedia.org/wiki/Garbage_collection) overhead (che può risultare in un picco di frame).
 
-### Unlimited
+### Illimitato
 
-This is a frame limiter which does nothing to limit the frame rate. osu! will render as fast as your CPU/GPU can.
+Questo è un frame rate che non fa nulla per limitare il frame rate. osu! renderizzerà This is a frame limiter which does nothing to limit the frame rate. osu! eseguirà il rendering alla velocità massima consentita dalla CPU/GPU.
 
-While this may seem like the best option (and indeed can be, if your hardware can support it), there are a few things you should consider:
+Anche se questa sembra la miglior opzione (ed effettivamente potrebbe esserlo, se il tuo hardware lo supporta), ci sono alcune cose che dovresti considerare:
 
-- By rendering more frames, there’s a higher potential of overhead from [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)).
-- By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
-- GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
+- Renderizzando più frame, c'è un maggior potenziale di overhead dal [garbage collection](https://it.wikipedia.org/wiki/Garbage_collection).
+- Spingendo la tua CPU e GPU al limite, c'è una possibilità di throttle, abbassando la performance generale.
+- Generalmente le GPU non sono fatte per renderizzare più di 1000 frame al secondo, quindi potrebbero accadere comportamenti strani, incluso un abbassamento di performance oppure una latenza più alta che GPUs generally aren’t meant to render 1000+ frames per second, quindi può verificarsi un comportamento inaspettato, tra cui prestazioni inferiori o latenze superiori a quelle altrimenti ottenibili.
 
-Even so, if heat generation and potentially overworking your hardware is not considered an issue, `Unlimited` may be the option that provides you the most stable frame times.
+Tuttavia, se la generazione di calore e il potenziale sovraccarico dell'hardware non sono considerati un problema, `Unlimited` potrebbe essere l'opzione che offre i frame time più stabili.
 
-### Custom
+### Personalizzato
 
-*Notice to Cutting Edge users: changing the value of `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*\
-*Caution: you cannot switch into this setting with the `F7` shortcut in-game, even if you do the steps below: you'll need to switch to `Custom` in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.*
+*Nota per gli utenti Cutting Edge: cambiando il valore di `CustomFrameLimit` su qualsiasi numero superiore a 999, questo verrà ripristinato a 999; su Stable, puoi impostare qualsiasi valore superiore a 1000 senza problemi.*\
+*Attenzione: non puoi passare a questa impostazione con la scorciatoia  `F7` nel gioco, anche se segui le istruzioni qui sotto: dovrai passare a `Personalizzato` dalle impostazioni prima di uscire dal gioco così sarà disponibile la prossima volta che avvii osu!. Altrimenti, dovrai cambiare il `FrameSync` di nuovo manualmente.*
 
-This frame limiter attempts to keep a frame rate equal to your custom preference; however, this is a setting that cannot be changed to within the in-game menu by default.
+Questo limitatore frame cerca di mantenere un frame rate uguale alla tua preferenza; però, questa è un'impostazione che non può essere cambiata dentro il menù di gioco di default.
 
-To change osu!'s custom maximum framerate, you'll need to tweak some values in the config file:
+Per cambiare i framerate massimi personalizzati di osu!, dovrai modificare qualche valore nel file di configurazione:
 
-1. Open your osu! folder by clicking the `Open osu! folder` button in the Options menu, or by navigating to the folder manually. (The default path is `C:\Users\<yourPCusername>\AppData\Local\osu!` for Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` for Mac.)
-2. Close osu!.
-3. Open the `osu!.<yourPCusername>.cfg` file with Notepad or a text editor of your choice.
-4. Find the line `FrameSync = <value>` and change the value to `Custom`.
-5. Find the line `CustomFrameLimit = <value>` and change the value to your preference.
-6. Save the config file. (If you haven't closed osu! in the second step, please do so before saving.)
-7. Re-open the game.
+1. Apri la tua cartella di osu! cliccando su `Apri la cartella osu!` dal menù delle opzioni, o navigando manualmente sulla cartella. (La posizione di default è `C:\Users\<nomeutentesultuoPC>\AppData\Local\osu!` per Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` per Mac.)
+2. Chiudi osu!.
+3. Apri il file `osu!.<nomeutentesultuoPC>.cfg` con il Blocco Note o un editor di testo di tua preferenza.
+4. Trova la riga `FrameSync = <valore>` e cambia il suo valore con `Custom`.
+5. Trova la riga `CustomFrameLimit = <valore>` e cambia il suo valore con la tua preferenza.
+6. Salva il file di configurazione. (Se non hai chiuso osu! al secondo passaggio, fallo ora prima di salvare.)
+7. Riapri il gioco.
