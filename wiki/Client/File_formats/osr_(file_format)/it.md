@@ -19,7 +19,7 @@ Gli offset dei byte non sono inclusi in questa tabella a causa dei valori di lun
 
 | Tipo di dati | Descrizione |
 | :-- | :-- |
-| Byte | Modalità di gioco del replay (0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania).
+| Byte | Modalità di gioco del replay (0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania). |
 | Integer | Versione del gioco al momento della creazione del replay (es. 20131216) |
 | Stringa | hash MD5 di osu! beatmap |
 | Stringa | Nome del giocatore |
@@ -29,22 +29,21 @@ Gli offset dei byte non sono inclusi in questa tabella a causa dei valori di lun
 | Breve | Numero di 50s in standard, frutti piccoli in CTB, 50s in mania |
 | Breve | Numero di Gekis in standard, Max 300s in mania |
 | Breve | Numero di Katus in standard, 200 in mania |
-| Breve | Numero di missioni
+| Breve | Numero di missioni |
 | Integer | Punteggio totale visualizzato nel report dei punteggi |
 | Breve | Combo più grande visualizzata sul report del punteggio |
-| Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione del cursore e nessun cursore finito in anticipo).
+| Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione del cursore e nessun cursore finito in anticipo). |
 | Integro | Mods utilizzati. Vedere di seguito l'elenco dei valori dei moduli. |
-| Stringa | Grafico a barre della vita: coppie separate da virgole u/v, dove u è il tempo in millisecondi della canzone e v è un valore in virgola mobile da 0 a 1 che rappresenta la quantità di vita che si ha in quel momento (0 = la barra della vita è vuota, 1= la barra della vita è piena).
+| Stringa | Grafico a barre della vita: coppie separate da virgole u/v, dove u è il tempo in millisecondi della canzone e v è un valore in virgola mobile da 0 a 1 che rappresenta la quantità di vita che si ha in quel momento (0 = la barra della vita è vuota, 1= la barra della vita è piena). |
 | Lungo | Stampa dell'ora con ([Windows ticks](https://learn.microsoft.com/it-it/dotnet/api/system.datetime.ticks)) |
 | Integer | Lunghezza in byte dei dati di replay compressi |
 | Array di Byte | Dati di replay compressi |
 | Lungo | ID punteggio online |
 | Double | Informazioni aggiuntive sul mod. Presente solo se [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) è abilitato. |
 
-
 **Informazioni Aggiuntive Sulle Mod**
 
-| Mod | Informazioni memorizzate
+| Mod | Informazioni memorizzate |
 | :-- | :-- |
 | Target Practice | Precisione totale di tutti i colpi. Dividere questo valore per il numero di bersagli nella mappa per trovare la precisione visualizzata nel gioco. |
 

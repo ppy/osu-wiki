@@ -8,7 +8,7 @@ La prima riga del file specifica la versione del formato del file. Ad esempio, `
 
 Il contenuto seguente è separato in sezioni, indicate dai titoli delle sezioni tra parentesi quadre.
 
-| Sezione | Descrizione | Tipo di contenuto
+| Sezione | Descrizione | Tipo di contenuto |
 | :-- | :-- | :-- |
 | `[Generale]` | Informazioni generali sulla beatmap | Coppie `chiave: valore' |
 | `[Editor]` | Impostazioni salvate per l'editor della beatmap | `chiave: valore` coppie |
@@ -23,21 +23,21 @@ Il contenuto seguente è separato in sezioni, indicate dai titoli delle sezioni 
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
 
-| Opzione | Tipo di valore | Descrizione | Valore predefinito
+| Opzione | Tipo di valore | Descrizione | Valore predefinito |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | Stringa | Posizione del file audio rispetto alla cartella corrente | |
 | `AudioLeadIn` | Integer | Millisecondi di silenzio prima dell'inizio della riproduzione dell'audio | 0 |
 | `AudioHash` | Stringa | *Deprecated* | |
 | `PreviewTime` | Integer | Tempo in millisecondi in cui deve iniziare l'anteprima audio | -1 |
-| `Countdown` | Integer | Velocità del conto alla rovescia prima del primo oggetto colpito (`0` = nessun conto alla rovescia, `1` = normale, `2` = metà, `3` = doppio) | 1
+| `Countdown` | Integer | Velocità del conto alla rovescia prima del primo oggetto colpito (`0` = nessun conto alla rovescia, `1` = normale, `2` = metà, `3` = doppio) | 1 |
 | `SampleSet` | Stringa | Set di campioni che verrà utilizzato se i punti di temporizzazione non lo sovrascrivono (`Normal`, `Soft`, `Drum`) | Normal |
 | `StackLeniency` | Decimale | [Moltiplicatore](/wiki/Beatmap/Stack_leniency) per la soglia nel tempo in cui gli oggetti colpiti posti vicini si impilano (0-1) | 0,7 |
-| `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0
+| `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 o 1 | Se le interruzioni hanno o meno un effetto letterboxing | 0 |
 | `StoryFireInFront` | 0 o 1 | *Deprecated* | 1 |
 | `UseSkinSprites` | 0 o 1 | Se lo storyboard può usare o meno le immagini della skin dell'utente | 0 |
 | `AlwaysShowPlayfield` | 0 o 1 | *Deprecated* | 0 |
-| `OverlayPosition` | Stringa | Sorteggia l'ordine di sovrapposizione dei cerchi colpiti rispetto ai numeri colpiti (`NoChange` = usa l'impostazione della skin, `Below` = sorteggia le sovrapposizioni sotto i numeri, `Above` = sorteggia le sovrapposizioni sopra i numeri) | NoChange
+| `OverlayPosition` | Stringa | Sorteggia l'ordine di sovrapposizione dei cerchi colpiti rispetto ai numeri colpiti (`NoChange` = usa l'impostazione della skin, `Below` = sorteggia le sovrapposizioni sotto i numeri, `Above` = sorteggia le sovrapposizioni sopra i numeri) | NoChange |
 | `SkinPreference` | Stringa | Skin preferita da utilizzare durante il gioco |
 | `EpilepsyWarning` | 0 o 1 | Se mostrare o meno un avviso sui colori lampeggianti all'inizio della mappa | 0 |
 | `CountdownOffset` | Integer | Tempo in battiti in cui il conto alla rovescia inizia prima del primo oggetto colpito | 0 |
@@ -59,7 +59,7 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 
 ## Metadata
 
-| Opzione | Tipo di valore | Descrizione
+| Opzione | Tipo di valore | Descrizione |
 | :-- | :-- | :-- |
 | `Title` | Stringa | Titolo romanizzato del brano |
 | `TitleUnicode` | Stringa | Titolo del brano |
@@ -74,7 +74,7 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 
 ## Difficulty
 
-| Opzione | Tipo di valore | Descrizione
+| Opzione | Tipo di valore | Descrizione |
 | :-- | :-- | :-- |
 | `HPDrainRate` | Decimale | Impostazione HP (0-10) |
 | `DimensioneCircolo` | Decimale | Impostazione CS (0-10) |
