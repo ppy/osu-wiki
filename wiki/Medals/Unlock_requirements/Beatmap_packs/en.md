@@ -60,7 +60,7 @@
 | Aitsuki Nakuru Pack | Clear all beatmaps bundled in the [Aitsuki Nakuru Pack](https://osu.ppy.sh/beatmaps/packs/A78) beatmap pack. |
 | Omoi Pack | Clear all beatmaps bundled in the [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82) beatmap pack. |
 | Chill Pack | Clear all beatmaps bundled in the [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) beatmap pack. |
-| Rohi Pack | Clear all beatmaps bundled in the [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/) beatmap pack. |
+| Rohi Pack | Clear all beatmaps bundled in the [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) beatmap pack. |
 | Drum & Bass Pack | Clear all beatmaps bundled in the [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T109) beatmap pack. |
 | Mappers' Guild Pack I | Clear all beatmaps bundled in the [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) beatmap pack. |
 | Mappers' Guild Pack II | Clear all beatmaps bundled in the [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) beatmap pack. |

@@ -1,12 +1,12 @@
----
-outdated_translation: true
----
-
 # osu! Alumni
 
-Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città. [Link](https://osu.ppy.sh/groups/16)
+Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città.
 
-| Nomi | Epitaph |
+La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca tutti i membri.
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
+| Nome | Ruoli precedenti |
 | :-- | :-- |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
