@@ -31,7 +31,7 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 - Installiere osu!stream
   - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
-  - Es wird empfohlen, auch das "Beatmaps hinzufügen" Kapitel zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
+  - Es wird empfohlen, auch das Kapitel [Beatmaps hinzufügen](#beatmaps-hinzufügen) zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
 ### Methode über USB
 

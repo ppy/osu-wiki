@@ -1,25 +1,27 @@
----
-outdated_translation: true
----
-
 # Team di supporto
 
-Il **Team di supporto** (conosciuto anche come **Support Team Redux**, da non essere confuso con l'account support team, colloquialmente conosciuto come "Support Team") sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (escludendo [Tornei](https://osu.ppy.sh/community/forums/55) and [Techniche di mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4), and [Aiuto](https://osu.ppy.sh/community/forums/5).
+*Vedi [Team Supporto Account](/wiki/People/Account_support_team) se stai cercando un team per l'amministrazione degli account*
 
-## Responsabilità
+Il **Team di supporto**, conosciuto anche come **Support Team Redux**, sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (escludendo [Tornei](https://osu.ppy.sh/community/forums/55) e [Techniche di mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4), e [Aiuto](https://osu.ppy.sh/community/forums/5).
+
+## Ruoli e Responsabilità
 
 Il Team di supporto è responsabile di:
 
-1. Provare e/o confermare segnalazioni di bug per permettere agli sviluppatori di conoscere i problemi e risolverli.
-2. Oraganizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4) e [Aiuto](https://osu.ppy.sh/community/forums/5) e segnarle come Risolte, Confermate, Invalide, Duplicate e  Aggiunte.
+1. Provare e/o confermare segnalazioni di bug per permettere agli sviluppatori di riconoscere i problemi e risolverli.
+2. Organizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4) e [Aiuto](https://osu.ppy.sh/community/forums/5) e contrassegnarle come *Risolte*, *Confermate*, *Non Valide*, *Duplicate* e/o *Aggiunte*.
 
-Se qualcuno ha bisogno di qualche assistenza in questi subforum, loro dovrebbero essere i primi a cui bisogna rivolgersi.
+Se qualcuno ha bisogno di assistenza in questi subforum, loro dovrebbero essere i primi a cui bisogna rivolgersi.
 
 ## Membri del Team
 
-*Tutti i membri del Team di Supporto parlano Inglese a meno che non sia specificato diversamente. [Pagina del Gruppo del Team di supporto](https://osu.ppy.sh/groups/22).*
+La [Pagina di Gruppo del Team di Supporto](https://osu.ppy.sh/groups/22) ne elenca tutti i membri.
 
-| Name | Languages |
+*Tutti i membri del Team di Supporto parlano Inglese oltre alle lingue elencate qui sotto, se non diversamente indicato.*
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
+| Nome | Lingue |
 | :-- | :-- |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
