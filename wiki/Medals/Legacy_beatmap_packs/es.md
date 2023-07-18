@@ -398,7 +398,7 @@ Mapas:
 
 ## Curiosidades
 
-- El mapa [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), que se incluyó en el Internet Pack (Volumen 1), se destacó por haber sido enviado a la sección [Aprobado](/wiki/Beatmap/Category#approved) a pesar de que solo consta de una sola ruleta. Aunque el mapa fue [eliminado de la lista de mapas aprobados poco después](https://osu.ppy.sh/community/forums/posts/149328), los restos permanecieron en el Internet Pack (Volumen 1) de todos modos.
+- El mapa [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), que se incluyó en el Internet Pack (Volumen 1), se destacó por haber sido enviado a la sección [Aprobado](/wiki/Beatmap/Category#aprobados) a pesar de que solo consta de una sola ruleta. Aunque el mapa fue [eliminado de la lista de mapas aprobados poco después](https://osu.ppy.sh/community/forums/posts/149328), los restos permanecieron en el Internet Pack (Volumen 1) de todos modos.
 
 ## Notas
 
