@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png) 
 
-The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the third instalment of the GB Cup.
+The **GB Cup 2023 Spring** (***GBC 2023 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the third instalment of the GB Cup.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "playoff stage 1st place") | Profile badge (pending), KanonBot profile badge, 100 RMB |
+| ![Gold crown](/wiki/shared/crown-gold.png "playoff stage 1st place") | Profile badge, KanonBot profile badge, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "playoff stage 2nd place") | KanonBot profile badge, 90 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "playoff stage 3rd place") | KanonBot profile badge, 70 RMB |
 | *4th place* | 60 RMB |
@@ -42,9 +42,11 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 | *17th place – 24th place* | 10 RMB |
 | *Full attendance prize* | KanonBot profile badge (all groups), 15 RMB (Group B), 25 RMB (Group A), 35 RMB (Group S), 45 RMB (Group EX) |
 
+![GBC 2023 Spring banner](img/GBC-2023-Spring-badge-1st.png) ![GBC 2023 Spring KanonBot 1st-place badge](img/badge-kanon-1st.png) ![GBC 2023 Spring banner KanonBot 2nd-place badge](img/badge-kanon-2nd.png) ![GBC 2023 Spring KanonBot 3rd-place badge](img/badge-kanon-3rd.png) ![GBC 2023 Spring KanonBot attendance badge](img/badge-kanon-attended.png)
+
 ## Organisation
 
-The GB Cup 2023 Spring is run by the Team GB and various community members.
+The GB Cup 2023 Spring was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -76,7 +78,114 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 | A | ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073), ::{ flag=CN }:: [zhanqiu](https://osu.ppy.sh/users/28521544), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292), ::{ flag=CN }:: [caster1](https://osu.ppy.sh/users/10647542), ::{ flag=CN }:: [[GB]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [Pointless-21](https://osu.ppy.sh/users/15967851), ::{ flag=CN }:: [[GB]smhei](https://osu.ppy.sh/users/20888121), ::{ flag=CN }:: [[GB]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [[GB]Cricute](https://osu.ppy.sh/users/26031439), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [[GB]KosJust1ce](https://osu.ppy.sh/users/31549837), ::{ flag=CN }:: [SwallowablX](https://osu.ppy.sh/users/22212757), ::{ flag=CN }:: [[GB]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [jxy768](https://osu.ppy.sh/users/13133142), ::{ flag=CN }:: [Aeracy](https://osu.ppy.sh/users/15351355), ::{ flag=CN }:: [PaperPlane](https://osu.ppy.sh/users/20763941), ::{ flag=CN }:: [ScientistYunru](https://osu.ppy.sh/users/24431602), ::{ flag=CN }:: [XS-xs](https://osu.ppy.sh/users/19235574), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [ATRI-BOT](https://osu.ppy.sh/users/24324036), ::{ flag=CN }:: [osuOsoiOto](https://osu.ppy.sh/users/16563449), ::{ flag=CN }:: [guangmiao](https://osu.ppy.sh/users/25591696), ::{ flag=CN }:: [Mon3tr_Hikari](https://osu.ppy.sh/users/16639726), ::{ flag=CN }:: [DannyXLee](https://osu.ppy.sh/users/13847712), ::{ flag=US }:: [diamoe](https://osu.ppy.sh/users/16539982), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510), ::{ flag=CN }:: [Chilliness_old](https://osu.ppy.sh/users/28596290), ::{ flag=CN }:: [pxz114](https://osu.ppy.sh/users/27540118), ::{ flag=CN }:: [Ty8669](https://osu.ppy.sh/users/12986326), ::{ flag=CN }:: [VoneRedC](https://osu.ppy.sh/users/27046926), ::{ flag=CN }:: [sackwoman](https://osu.ppy.sh/users/21573696), ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588), ::{ flag=CN }:: [xheijiang](https://osu.ppy.sh/users/16298333), ::{ flag=CN }:: [ayukaS](https://osu.ppy.sh/users/15837357), ::{ flag=CN }:: [PerrynX](https://osu.ppy.sh/users/8781173), ::{ flag=GB }:: [OsuWithLi](https://osu.ppy.sh/users/31424721), ::{ flag=CN }:: [Thornz](https://osu.ppy.sh/users/24858078), ::{ flag=CN }:: [fang666](https://osu.ppy.sh/users/28917056), ::{ flag=CN }:: [[GB] BUKE](https://osu.ppy.sh/users/25035445), ::{ flag=CN }:: [citric acid](https://osu.ppy.sh/users/17312522), ::{ flag=CN }:: [[GB]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [WhiteTenshi](https://osu.ppy.sh/users/14113088), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [IKUN456](https://osu.ppy.sh/users/31511575), ::{ flag=CN }:: [kuranado](https://osu.ppy.sh/users/26253810), ::{ flag=CN }:: [RealF233](https://osu.ppy.sh/users/10363216), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=CN }:: [Zetray](https://osu.ppy.sh/users/25076458), ::{ flag=CN }:: [WuYang-th](https://osu.ppy.sh/users/17379013), ::{ flag=CN }:: [Coevir](https://osu.ppy.sh/users/3171965), ::{ flag=CN }:: [TKYFree](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [herfilex](https://osu.ppy.sh/users/17468554), ::{ flag=CN }:: [fivlier](https://osu.ppy.sh/users/14926274), ::{ flag=CN }:: [ki2317](https://osu.ppy.sh/users/9300088), ::{ flag=CN }:: [suikatac](https://osu.ppy.sh/users/31017287), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [dandai](https://osu.ppy.sh/users/20156332), ::{ flag=CN }:: [shoucan91](https://osu.ppy.sh/users/9383908) |
 | B | ::{ flag=HK }:: [EinsumSK](https://osu.ppy.sh/users/19225053), ::{ flag=CN }:: [ffddase](https://osu.ppy.sh/users/19936490), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [Arodex](https://osu.ppy.sh/users/17743609), ::{ flag=CN }:: [DrHunter](https://osu.ppy.sh/users/19936405), ::{ flag=CN }:: [Fishball233](https://osu.ppy.sh/users/14976830), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [Amenatsu Sanke](https://osu.ppy.sh/users/21101369), ::{ flag=CN }:: [nianchen](https://osu.ppy.sh/users/27658766), ::{ flag=CN }:: [dazade8](https://osu.ppy.sh/users/12196941), ::{ flag=CN }:: [AcidSolution](https://osu.ppy.sh/users/14692538), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [mizuku39](https://osu.ppy.sh/users/28588980), ::{ flag=CN }:: [XFish777](https://osu.ppy.sh/users/12930822), ::{ flag=CN }:: [jhj0107](https://osu.ppy.sh/users/15748421), ::{ flag=CN }:: [kkry](https://osu.ppy.sh/users/15579806), ::{ flag=CN }:: [K01bit0](https://osu.ppy.sh/users/18278262), ::{ flag=CN }:: [oSthing](https://osu.ppy.sh/users/31165170), ::{ flag=SG }:: [Lixtar](https://osu.ppy.sh/users/28535529), ::{ flag=CN }:: [CsAu](https://osu.ppy.sh/users/25746851), ::{ flag=CN }:: [hou654](https://osu.ppy.sh/users/12784062), ::{ flag=CN }:: [Arc865](https://osu.ppy.sh/users/28753069), ::{ flag=CN }:: [pure liubai](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [[GB]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [Luster zj](https://osu.ppy.sh/users/13089750), ::{ flag=CN }:: [Ka_Min](https://osu.ppy.sh/users/16472698), ::{ flag=CN }:: [mloluyu](https://osu.ppy.sh/users/15579132), ::{ flag=HK }:: [Jerry7720](https://osu.ppy.sh/users/28408419), ::{ flag=CN }:: [Misure](https://osu.ppy.sh/users/1949710), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [cizhi](https://osu.ppy.sh/users/32885939), ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [WELUVMYUKA](https://osu.ppy.sh/users/29949157), ::{ flag=CN }:: [Quzy3315](https://osu.ppy.sh/users/28369502), ::{ flag=CN }:: [megumi-kato](https://osu.ppy.sh/users/27797163), ::{ flag=CN }:: [ssxm](https://osu.ppy.sh/users/30161438), ::{ flag=CN }:: [DreamSnow607](https://osu.ppy.sh/users/29437525), ::{ flag=CN }:: [Realice233](https://osu.ppy.sh/users/13838024), ::{ flag=CN }:: [leqingzou](https://osu.ppy.sh/users/28497351), ::{ flag=CN }:: [OVERDUSTFIVA](https://osu.ppy.sh/users/30786316), ::{ flag=CN }:: [Kylin](https://osu.ppy.sh/users/19577682), ::{ flag=CN }:: [heipizhu](https://osu.ppy.sh/users/29319435) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [GB]nyasun |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | StarTemplar |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Miyes |
+
 ## Match results
+
+### Grand Finals 
+
+Saturday, 10 June 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]nyasun** | **7** | 1 | Miyes | [#1](https://osu.ppy.sh/community/matches/108929669) |
+| StarTemplar | 3 | **7** | **[GB]nyasun** | [#2](https://osu.ppy.sh/community/matches/108931620) |
+| **[GB]nyasun** | **7** | 2 | StarTemplar | [#3](https://osu.ppy.sh/community/matches/108932352) |
+
+### Finals 
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=3ag0fa).
+
+Saturday, 3 June 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[Crz]Xinyi2016** | **7** | 2 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108814573) |
+| Miyes | 4 | **7** | **StarTemplar** | [#1](https://osu.ppy.sh/community/matches/108931620) |
+
+Sunday, 4 June 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Crz]Caicium | 3 | **7** | **[GB]nyasun** | [#3](https://osu.ppy.sh/community/matches/108834786) |
+| [Crz]Xinyi2016 | 2 | **7** | **[GB]nyasun** | [#4](https://osu.ppy.sh/community/matches/108835652) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=42d1qk).
+
+Friday, 26 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Paw]Just_MLN | 1 | **6** | **chana** | [#3](https://osu.ppy.sh/community/matches/108676102) |
+
+Saturday, 27 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Mantozi | 5 | **6** | **Kuiiiiteeee** | [#5](https://osu.ppy.sh/community/matches/108694707) |
+| Zyuuu | 3 | **6** | **[Crz]Xinyi2016** | [#4](https://osu.ppy.sh/community/matches/108696890) |
+
+Sunday, 28 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [GB]mmttyy233 | 3 | **6** | **[Crz]Caicium** | [#6](https://osu.ppy.sh/community/matches/108712075) |
+| Kuiiiiteeee | 3 | **6** | **[Crz]Caicium** | [#8](https://osu.ppy.sh/community/matches/108714047) |
+| **StarTemplar** | **6** | 3 | oyama mahiro | [#2](https://osu.ppy.sh/community/matches/108714946) |
+| [GB]nyasun | 1 | **6** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/108715879) |
+| chana | 5 | **6** | **[Crz]Xinyi2016** | [#7](https://osu.ppy.sh/community/matches/108716856) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=7c0pnt).
+
+Tuesday, 16 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[ Classic ]** | **6** | 0 | - Xiaoluoli - | [#9](https://osu.ppy.sh/community/matches/108515071) |
+
+Friday, 19 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mantozi** | **6** | 1 | ATH_1gr | [#6](https://osu.ppy.sh/community/matches/108559230) |
+| [GB]ParasolTree | 3 | **6** | **McButt** | [#11](https://osu.ppy.sh/community/matches/108560099) |
+| **Mantozi** | **6** | 3 | McButt | [#14](https://osu.ppy.sh/community/matches/108560907) |
+
+Saturday, 20 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **StarTemplar** | **6** | 0 | Kuiiiiteeee | [#2](https://osu.ppy.sh/community/matches/108575767) |
+| **Mizum** | **6** | 5 | [GB]QAQlingjiu | [#7](https://osu.ppy.sh/community/matches/108578366) |
+| riunosk | 5 | **6** | **[GB]mmttyy233** | [#10](https://osu.ppy.sh/community/matches/108578427) |
+| **Babibelbleu** | **6** | 3 | Para39 | [#12](https://osu.ppy.sh/community/matches/108578391) |
+| **[Paw]Just_MLN** | **6** | 0 | [GB]Frozen moon | [#5](https://osu.ppy.sh/community/matches/108579063) |
+| **[Paw]Just_MLN** | **6** | 2 | Babibelbleu | [#13](https://osu.ppy.sh/community/matches/108579582) |
+| **Zyuuu** | **6** | 1 | [GB]Burger King | [#8](https://osu.ppy.sh/community/matches/108580447) |
+| **Miyes** | **6** | 3 | [Crz]Xinyi2016 | [#4](https://osu.ppy.sh/community/matches/108581616) |
+
+Sunday, 21 May 2023:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]nyasun** | **6** | 2 | chana | [#1](https://osu.ppy.sh/community/matches/108594972) |
+| Mizum | 2 | **6** | **[GB]mmttyy233** | [#15](https://osu.ppy.sh/community/matches/108579948) |
+| **Zyuuu** | **6** | 3 | [ Classic ] | [#16](https://osu.ppy.sh/community/matches/108601134) |
+| [Crz]Caicium | 5 | **6** | **oyama mahiro** | [#3](https://osu.ppy.sh/community/matches/108601702) |
+
+### Regular stage
 
 Due to the large number of players and matches, the match results will be displayed in the [information spreadsheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi).
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
+---
+
 # 成员
 
 这里是团队人员及其文章的索引页。
@@ -19,13 +24,13 @@
 - [osu! 名人堂 (Alumni)](osu!_Alumni)
 - [osu! 核心成员](The_Team)
 - [osu! wiki 维护者](osu!_wiki_maintainers)
-- [osu! 月刊团队](osu!monthly_team)
 
 ## 过去
 
 - [谱面评估团队 (BAT)](Beatmap_Appreciation_Team)
 - [语言监督部门 (LSD)](Language_Surveillance_Division)
 - [谱面协助团队 (MAT)](Mapping_Assistance_Team)
+- [osu! 月刊团队](osu!monthly_team)
 - [质量保证团队 (QAT)](Quality_Assurance_Team)
 
 ## 其他

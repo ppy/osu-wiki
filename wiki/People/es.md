@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
 ---
 
 # Personas
@@ -23,13 +25,13 @@ Página de índice para artículos sobre personas o grupos.
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
 - [Mantenedores de la osu! wiki](osu!_wiki_maintainers)
-- [Equipo del osu!monthly](osu!monthly_team)
 
 ## Ex
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
+- [Equipo del osu!monthly](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Otro

@@ -1,14 +1,6 @@
 ---
 tags:
   - m2p
-  - m2p#1
-  - m2p#2
-  - m2p#3
-  - m2p#4
-  - m2p 1
-  - m2p 2
-  - m2p 3
-  - m2p 4
   - "m2p: taiko"
 ---
 
@@ -24,7 +16,7 @@ Each iteration of the contest will have a different judge, with different tastes
 
 ## Schedules
 
-Iterations usually happen once every 1 or 2 months, with each iteration's schedule going as follows:
+Iterations usually happen once every 2 or 3 months, with each iteration's schedule going as follows:
 
 | Event | Duration |
 | --: | :-- |
@@ -39,7 +31,7 @@ Alongside the Judging Criteria that each judge will provide, there are some rule
 
 - **All entries must be submitted as `.osz` files.** This is to ensure that the judges are able to download and test the entries without hassle.
 - **All entries must be osu!taiko beatmaps.**
-- **Submissions must include only ONE difficulty,** unless stated otherwise by the judge.
+- **Submissions must include only ONE difficulty that only YOU have created,** unless stated otherwise by the judge.
 - **Songs must not exceed 7 minutes of length.** There will a bit of leeway in cases where the song is really close to the 7 minute mark.
 - **All submissions should abide by the [Ranking Criteria](/wiki/Ranking_criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
 - **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing entries publicly by any means before the results are announced will result in a disqualification, no questions asked.
@@ -64,13 +56,14 @@ The Mapping to Pander: Taiko contest series is run by various community members.
 | [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [Results](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
 | [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ::{ flag=AR }:: [paz08](https://osu.ppy.sh/users/9964420) | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | [Results](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
+| [#5](https://osu.ppy.sh/community/forums/topics/1789253) | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | *TBD* | *TBD* | *TBD* | *TBD* |
 
 ## Rewards
 
 The Mapping to Pander: Taiko contest series rewards its winners with the following prizes:
 
 - **osu!supporter rewards:** Each iteration can have a different amount of osu!supporter to award the winner, or the top 3 in some occasions.
-- **Ranked status:** ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and another Beatmap Nominator will check and nominate the winning entry if the mapper wants to, and **if they get the necessary difficulties to form a rankable spread when needed.**
+- **Ranked status:** ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and another Beatmap Nominator will check and nominate the winning entry if the mapper chooses to, and **if they get the necessary difficulties to form a rankable spread when needed.**
 - **Pander Points:** Each iteration will award points to the top 3 contestants. The points are awarded as follows:
   - **1st place:** 3 points
   - **2nd place:** 2 points
