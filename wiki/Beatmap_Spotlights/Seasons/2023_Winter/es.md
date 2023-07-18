@@ -19,7 +19,7 @@ tags:
 | Sala de lista de juego: Playlist A | 6 dic. - 20 dic. 2022 |
 | Sala de lista de juego: Playlist B | 20 dic. - 3 ene. 2023 |
 | Sala de lista de juego: Playlist C | 3 ene. 2022 - 17 ene. 2023 |
-| Sala de lista de juego: Playlist  A | 17 ene. - 24 ene. 2023 |
+| Sala de lista de juego: Playlist A | 17 ene. - 24 ene. 2023 |
 | Sala de lista de juego: Playlist B | 24 ene. - 31 ene. 2023 |
 | Sala de lista de juego: Playlist C | 31 ene. - 7 feb. 2023 |
 | Conclusión de la temporada | 7 feb. 2023 |
