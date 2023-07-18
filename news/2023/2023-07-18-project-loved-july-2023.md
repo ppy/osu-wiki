@@ -526,4 +526,4 @@ More info about Project Loved can be found on its [wiki page](/wiki/Community/Pr
 
 See you soon! <3
 
-—Hivie
+—Huu & Hivie
