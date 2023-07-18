@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
   3. [IOSYS feat. NJK Record - Miracle-Hinacle (Satellite) [Lunatic]](https://osu.ppy.sh/beatmapsets/1959784#osu/4061000)
   4. [Feryquitous - Friction[!]Function (fanzhen0019) [[i]]](https://osu.ppy.sh/beatmapsets/2012052#osu/4186806)
 - Tiebreaker
- 1. **[Imperial Circus Dead Decadence - Ingaritsu No Togabito, Kyoukaimen-Jou No Unmei. (ItsWinter) [Akogare no Unmei]](https://osu.ppy.sh/beatmapsets/1596665#osu/3260996)**
+  1. **[Imperial Circus Dead Decadence - Ingaritsu No Togabito, Kyoukaimen-Jou No Unmei. (ItsWinter) [Akogare no Unmei]](https://osu.ppy.sh/beatmapsets/1596665#osu/3260996)**
 
 ### Finals
 
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
   3. [SB\_YUNE - Dread of the grave -More fear- (Luscent) [Insane]](https://osu.ppy.sh/beatmapsets/1878532#osu/3866843)
   4. [Justice - D.A.N.C.E. (Mechanizen) [Showcase]](https://osu.ppy.sh/beatmapsets/875221#osu/2200923)
 - Tiebreaker
- 1. **[Toby Fox - THE WORLD REVOLVING (Camellia Remix) (Ilay) [I CAN DO ANYTHING!]](https://osu.ppy.sh/beatmapsets/1585092#osu/3237678)**
+  1. **[Toby Fox - THE WORLD REVOLVING (Camellia Remix) (Ilay) [I CAN DO ANYTHING!]](https://osu.ppy.sh/beatmapsets/1585092#osu/3237678)**
 
 ### Semifinals
 
@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
   3. [ZUN - Magical Storm (ConsumerOfBean) [Beandorn Ultimate Storm]](https://osu.ppy.sh/beatmapsets/1699015#osu/3471572)
   4. [cYsmix - Abandoned Shrine Party (Halfslashed) [Aeril's Lunatic]](https://osu.ppy.sh/beatmapsets/1267252#osu/3064146)
 - Tiebreaker
- 1. **[SAMString - NUMA (Fursum) [Multifarious]](https://osu.ppy.sh/beatmapsets/1570528#osu/3207042)**
+  1. **[SAMString - NUMA (Fursum) [Multifarious]](https://osu.ppy.sh/beatmapsets/1570528#osu/3207042)**
 
 ### Quarterfinals
 
