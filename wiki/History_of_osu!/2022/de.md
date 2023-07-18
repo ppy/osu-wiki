@@ -16,7 +16,7 @@ Auf der Webseite können die Nutzer nun ihre Scores in ihrem Profil anpinnen und
 
 Im Januar eröffnete das osu!-Team eine [Umfrage zu osu!taiko und osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey), um festzustellen, was die Community vom Performance-Punkte-System und dem Sternebewertungssystem erwartet. Die Umfrageergebnisse, [hier für osu!taiko](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm?v=9) und [hier für osu!mania](https://assets.ppy.sh/surveys/2022-pp-mania/viewer.htm?v=2) abrufbar,[^pp-survey] veranlasste später im gleichen Jahr die Bildung eines Gremiums für osu!mania und osu!taiko im [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee).
 
-Das dritte osu! Community Meeting des Jahres am 6. Februar wurde zu verschiedenen Fragen aus der Community abgehalten.[^community-meeting-questions] Am 20. Februar fand das nächste Community-Meeting statt, bei dem es um Mod-Multiplikatoren und Score ging, da osu!(lazer) für einige Mods variierbare rate adjustments<!--Ratenanpassung, irgendetwas mit Inkrement? see https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE/edit --> erlaubte. Beispielsweise kann man Double Time auf 1,01-fache Geschwindigkeit einstellen, anstatt auf nur 1,5-fache wie in stable. Dadurch würden Spieler einen unfairen Vorteil auf den Ranglisten erhalten, da die Spieler trotzdem den unveränderlichen 1,12-fachen Score-Multiplikator erhielten. Infolgedessen wurden Mod-Multiplikatoren temporär deaktiviert. Das osu!-Team möchte in der Zukunft an einer robusteren Lösung arbeiten.[^community-meeting-mod]
+Das dritte osu! Community Meeting des Jahres am 6. Februar wurde zu verschiedenen Fragen aus der Community abgehalten.[^community-meeting-questions] Am 20. Februar fand das nächste Community-Meeting statt, bei dem es um Mod-Multiplikatoren und Score ging, da osu!(lazer) für einige Mods variierbare Geschwindigkeitsanpassungen erlaubte. Beispielsweise kann man Double Time auf 1,01-fache Geschwindigkeit einstellen, anstatt auf nur 1,5-fache wie in stable. Dadurch würden Spieler einen unfairen Vorteil auf den Ranglisten erhalten, da die Spieler trotzdem den unveränderlichen 1,12-fachen Score-Multiplikator erhielten. Infolgedessen wurden Mod-Multiplikatoren temporär deaktiviert. Das osu!-Team möchte in der Zukunft an einer robusteren Lösung arbeiten.[^community-meeting-mod]
 
 osu!(lazer) erhielt die Mod Aim Assist als ein neues Feature, das Hit-Objekte zum Cursor zieht, wodurch im Wesentlichen der Spieler den Cursor weniger bewegen muss.[^aim-assist] Die Mod wurde nach der ersten Umsetzung einen Monat später zu Magnetised umbenannt.[^aim-assist-rename] Des Weiteren wurde die Mod Alternate hinzugefügt, bei der der Spieler beim Treffen von Circles zwischen zwei Tasten *wechseln* muss.[^alternate] Der osu!mania-Spielmodus in osu!(lazer) erhielt eine neue Mod Hold Off, bei der Hold-Notes zu zwei normalen Notes konvertiert werden.[^hold-off]
 
@@ -26,11 +26,11 @@ Nach der ersten Austragung im Mai letzten Jahres gab es einen weiteren Skinning-
 
 Diesen Monat traten [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244), [City Girl](https://osu.ppy.sh/beatmaps/artists/245), [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246), [Raimukun](https://osu.ppy.sh/beatmaps/artists/247), [USAO](https://osu.ppy.sh/beatmaps/artists/248), [Plum](https://osu.ppy.sh/beatmaps/artists/249), [luvlxckdown](https://osu.ppy.sh/beatmaps/artists/250), [Never Say Die Records](https://osu.ppy.sh/beatmaps/artists/251) und [my sound life](https://osu.ppy.sh/beatmaps/artists/252) osu! als Featured Artists bei.
 
-Am 6. März gab es ein weiteres osu! Community Meeting für die Entscheidung, wie Ranglisten und das Anzeigen von Scores gehandhabt werden sollten. Die bereits implementierte Lösung war, in lazer Scores aus stable zusammen mit der Mod Classic anzuzeigen. Noch ungelöst war die Frage nach der Darstellung von lazer-Scores in stable, da die neuen lazer-Scores auf keinen Fall in stable implementiert werden würden und die Angabe solcher Scores in stable daher nur unter gewissen Einschränkungen möglich wäre. Um die Community an diesem Prozess teilhaben zu lassen, wurde eine [Umfrage über Scoreboards in lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics) durchgeführt. Während die Bewahrung der Geschichte eine Priorität war und immer noch ist, wurde die Frage der Aufteilung oder Zusammenlegung der alten und neuen Ranglisten der Community überlassen.[^community-meeting-leaderboard] Das darauf folgende Community-Meeting am 20. März gab einen Einblick in die laufende Entwicklung.[^community-meeting-dev-2]
+Am 6. März gab es ein weiteres osu! Community Meeting für die Entscheidung, wie Ranglisten und das Anzeigen von Scores gehandhabt werden sollten. Die bereits implementierte Lösung war, in lazer Scores aus stable zusammen mit der Mod Classic anzuzeigen. Noch ungelöst war die Frage nach der Darstellung von lazer-Scores in stable, da die neuen Mods in lazer auf keinen Fall in stable implementiert werden würden und die Angabe solcher Scores in stable daher nur unter gewissen Einschränkungen möglich wäre. Um die Community an diesem Prozess teilhaben zu lassen, wurde eine [Umfrage über Scoreboards in lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics) durchgeführt. Während die Bewahrung der Geschichte eine Priorität war und immer noch ist, wurde die Frage der Aufteilung oder Zusammenlegung der alten und neuen Ranglisten der Community überlassen.[^community-meeting-leaderboard] Das darauf folgende Community-Meeting am 20. März gab einen Einblick in die laufende Entwicklung.[^community-meeting-dev-2]
 
 [BTMC](https://osu.ppy.sh/users/3171691) interviewte peppy über die Pläne für osu!(lazer). Die meisten Fragen wurden von der Community gestellt, dazwischen gab es auch einige persönliche Fragen.[^btmc-peppy-interview] Ein wichtiger Punkt war der Stand des Rankingsystems, aber es gab ebenfalls allgemeine Fragen im Bezug auf das Ökosystem von osu! und seine Zukunft.
 
-Die zwei Mods Adaptive Speed and Strict Tracking wurden in osu!(lazer) implementiert. Adaptive Speed verändert die Songgeschwindigkeit, abhängig davon, ob der Treffer früh oder spät war.[^adaptive-speed] Beim Aktivieren der Mod Strict Tracking muss sich der Cursor zu jeder Zeit im Sliderball befinden, um ein Unterbrechen der Combo zu vermeiden.[^strict-tracking]
+Die zwei Mods Adaptive Speed und Strict Tracking wurden in osu!(lazer) implementiert. Adaptive Speed verändert die Songgeschwindigkeit, abhängig davon, ob der Treffer früh oder spät war.[^adaptive-speed] Beim Aktivieren der Mod Strict Tracking muss sich der Cursor zu jeder Zeit im Sliderball befinden, um ein Unterbrechen der Combo zu vermeiden.[^strict-tracking]
 
 ## April
 
@@ -110,7 +110,7 @@ osu!(lazer) erhielt die Mod Freeze Frame, die jeweils nur eine Combo anzeigt, wa
 
 Ein Update auf der osu!-Webseite machte es möglich, den höchsten Rang eines Spielers, den er jemals erreicht hat, anzuzeigen, sobald man mit der Maus über den Spielerrang auf dem Profil fuhr.[^highest-rank]
 
-Für das diesjährige Halloween gab es erneut einen [Fanart-Wettbewerb](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest), bei dem Künstler dazu aufgefordert wurden, die osu!-Maskottchen in gespenstischen Kostümen zu zeichnen. [Dreamxiety](https://osu.ppy.sh/users/13103233) gewann den ersten Platz im Wettbewerb mit 3.749 Stimmen.[^halloween] Eine Einsendung wurde widerrufen, weil sie als zu angsteinflösend angesehen wurde und dem Autor wurde stattdessen ein eigenes Abzeichen verliehen.[^grin-reddit][^grin-twitter][^grin-badge]
+Für das diesjährige Halloween gab es erneut einen [Fanart-Wettbewerb](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest), bei dem Künstler dazu aufgefordert wurden, die osu!-Maskottchen in gruseligen Kostümen zu zeichnen. [Dreamxiety](https://osu.ppy.sh/users/13103233) gewann den ersten Platz im Wettbewerb mit 3.749 Stimmen.[^halloween] Eine Einsendung wurde widerrufen, weil sie als zu angsteinflösend angesehen wurde und dem Autor wurde stattdessen ein eigenes Abzeichen verliehen.[^grin-reddit][^grin-twitter][^grin-badge]
 
 ## November
 
@@ -169,8 +169,8 @@ Im Rahmen des letzten Kunstwettbewerbs des Jahres genannt [New Beginnings](https
 [^community-contributor]: [Newsbeitrag von osu! team (30.06.2022) "Community Contributors: 2021"](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
 
 [^osu-weekly]: [Newsbeitrag von Nyquill (07.06.2017) "osu!weekly #106"](https://osu.ppy.sh/home/news/2017-06-07-osu-weekly-106)
-[^monthly-quiz]: [Newsbeitrag von Soetch, Blushing, Wowcake, 0x84f, and Hubz (01.08.2022) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#monthly-community-quiz)
-[^roundtable-winners]: [Newsbeitrag von Soetch, Blushing, Wowcake, 0x84f, and Hubz (01.08.2022) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#what's-new-in-osu!?)
+[^monthly-quiz]: [Newsbeitrag von Soetch, Blushing, Wowcake, 0x84f, und Hubz (01.08.2022) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#monthly-community-quiz)
+[^roundtable-winners]: [Newsbeitrag von Soetch, Blushing, Wowcake, 0x84f, und Hubz (01.08.2022) "osu!monthly returns, July 2022"](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#what's-new-in-osu!?)
 [^single-tap]: [Pull-Request von tsunyoku (13.07.2022) "Add "Single Tap" mod for osu! ruleset, abstract Alternate & Single Tap into InputBlockingMod"](https://github.com/ppy/osu/pull/19089)
 
 [^coe-osu-infra]: [YouTube-Video von peppy (07.08.2022) ""osu! infrastructure" dev talk at #COE2022"](https://www.youtube.com/watch?v=HVBVqvpFVL4)
@@ -181,7 +181,7 @@ Im Rahmen des letzten Kunstwettbewerbs des Jahres genannt [New Beginnings](https
 [^argon]: [Pull-Request von peppy (19.09.2022) "Add new default "argon" skin"](https://github.com/ppy/osu/pull/20377)
 [^osu-sr-pp]: [Newsbeitrag von osu! pp committee (30.09.2022) "Changes to osu! Star Rating & Performance Points"](https://osu.ppy.sh/home/news/2022-09-30-changes-to-osu-sr-and-pp)
 [^osu-taiko-sr-pp]: [Newsbeitrag von osu!taiko pp committee (28.09.2022) "Changes to osu!taiko Star Rating & Performance Points"](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp)
-[^medals-september]: [Newsbeitrag von 0x84f, Pisapou, and RandomeLoL (02.10.2022) "osu!monthly, September 2022"](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3)
+[^medals-september]: [Newsbeitrag von 0x84f, Pisapou, und RandomeLoL (02.10.2022) "osu!monthly, September 2022"](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3)
 
 [^triangles-results]: [Newsbeitrag von pishifat (06.10.2022) "Results - triangles"](https://osu.ppy.sh/home/news/2022-10-06-results-triangles)
 [^osu-mania-sr-pp]: [Newsbeitrag von osu!mania pp committee (09.10.2022) "Changes to osu!mania Star Rating & Performance Points"](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp)
@@ -196,7 +196,7 @@ Im Rahmen des letzten Kunstwettbewerbs des Jahres genannt [New Beginnings](https
 [^grin-twitter]: [Tweet von xx_aether (29.10.2022)](https://twitter.com/xx_aether/status/1586438659292569600)
 [^grin-badge]: [osu!-Profil von Roro-san](https://osu.ppy.sh/users/11084479)
 
-[^medals-november]: [Newsbeitrag von 0x84f, Junihuhn, Pisapou, and RandomeLoL (01.12.2022) "osu!monthly, November 2022"](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)
+[^medals-november]: [Newsbeitrag von 0x84f, Junihuhn, Pisapou, und RandomeLoL (01.12.2022) "osu!monthly, November 2022"](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)
 
 [^new-beginnings]: [Newsbeitrag von Ephemeral (31.12.2022) "New Beginnings Art Contest: Results"](https://osu.ppy.sh/home/news/2022-12-31-new-beginnings-results)
 [^makeship]: [Newsbeitrag von osu! team (10.12.2022) "Makeship x osu!: Limited Edition Plushies"](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)
