@@ -134,7 +134,7 @@ wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护
 
 *有关翻译及完成度的列表，请参阅：[osu-wiki status](https://osu.wiki/status/zh)*
 
-世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
+世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
 
 如果翻译请求从创建以来已经经过了一周，即使没有熟练使用语言交流的玩家来审核，也可以合并。
 

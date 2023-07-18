@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
+---
+
 # 你真的想要联系 peppy 吗？
 
 哈喽！[peppy](https://osu.ppy.sh/users/2) 理解你迫切地想要和他本人联系的心情，但他要求你首先明白这**不是**你想向他寻求帮助或支持的地方。他一直保持着将osu!支持和个人聊天消息分开来的习惯，并且一个个回复论坛私信的工作量实在太大。因此，他希望你使用下面的选项之一来解决问题：
