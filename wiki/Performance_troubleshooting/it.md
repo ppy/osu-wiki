@@ -38,6 +38,7 @@ Durante il gameplay, tutto nello schermo si ferma per abbastanza tempo da compro
 ### Latenza Input
 
 C'è un ritardo notevole tra la pressione della tastiera o muovere il mouse o la penna del tablet, e vedere l'azione risultante a schermo. Durante la diagnosi o la segnalazione del problema, potrebbe aiutarti:
+
 - Controlla se questo avviene su tutti i dispositivi di input, o su uno in particolare.
 - Se stai utilizzando dei driver non ufficiali, prova a usare quelli ufficiali.
 - Assicurati di eseguire osu! nella modalità a schermo intero. Eseguire in modalità finestra o senza bordi aggiunge più di un frame di latenza.
