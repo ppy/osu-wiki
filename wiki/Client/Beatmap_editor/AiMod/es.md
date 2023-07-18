@@ -68,7 +68,6 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Your beatmap has no background image. | *Se explica por sí mismo* | Encuentre una imagen adecuada y utilícela como imagen de fondo para la dificultad. | Los vídeos no cuentan como imágenes de fondo porque el usuario no está obligado a descargarlos. |
 | File missing:{0} | A tu mapa le faltan ciertos archivos. | Recupere los archivos que faltan o asegúrese de que el mapa no esté tratando de usar archivos que no existen. | |
 
-
 #### Timing
 
 | Mensaje | Explicación | Solución | Notas |
@@ -143,7 +142,6 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Countdown is not allowed in taiko mode. | *Se explica por sí mismo* | Desmarque la opción `Enable countdown` en la pestaña Design de [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | ![](/wiki/shared/mode/taiko.png) solo mapas de osu!taiko. Aunque esta advertencia existe en el juego, AiMod nunca muestra la advertencia ya que osu!taiko no admite temporizadores de cuenta regresiva. |
 | Epilepsy warning is not allowed in taiko mode. | *Se explica por sí mismo* | Desmarque la opción `Display epilepsy warning (storyboard has quick strobing)` en la pestaña Design de [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | ![](/wiki/shared/mode/taiko.png) solo mapas de osu!taiko. Esta advertencia se basa en una regla de los criterios de clasificación arcaica que desde entonces se ha vuelto obsoleta. Por lo tanto, se puede ignorar con seguridad ya que los [criterios de clasificación](/wiki/Ranking_Criteria) actuales exigen que la advertencia de epilepsia sea necesaria para los mapas con vídeos estroboscópicos o storyboards. |
 | Letterboxing is not allowed in taiko mode. | *Se explica por sí mismo* | Desmarque la opción `Letterbox during breaks` en la pestaña Design de [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | ![](/wiki/shared/mode/taiko.png) solo mapas de osu!taiko |
-
 
 #### Mapset
 
