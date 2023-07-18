@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Paquetes de mapas heredados
 
 Los paquetes de mapas han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) allá por 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapeo en general también experimentó un cambio importante desde sus primeros días y, debido a una gran demanda del público, [el 16 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se realizó una revisión importante en numerosos paquetes de mapas para mantenerlos, en su conjunto, relevantes con los tiempos.
