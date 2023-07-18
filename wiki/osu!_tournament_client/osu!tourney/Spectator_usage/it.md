@@ -7,11 +7,11 @@ Ogni finestra di osu! è assegnata a uno slot nella stanza.
 
 ![I giocatori sono assegnati nelle rispettive finestre in base al loro slot nella stanza](img/Osutourneywindows.png)
 
-Affinché il client funzioni correttamente, i giocatori devono occupare gli slot appropriati nella stanza. Per maggiori dettagli, consultare la [guida uso multiplayer](/wiki/osu!tourney/Multiplayer_usage).
+Affinché il client funzioni correttamente, i giocatori devono occupare gli slot appropriati nella stanza. Per maggiori dettagli, consultare la [guida uso multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 ![Pannello di controllo di osu!tourney](img/Osutourneypanel.png)
 
-Il pannello di controllo viene visualizzato nella parte inferiore del client. Di default mostra il nome richiesto affinché le stanze appaiano nel pannello di controllo. Maggiori informazioni sono disponibili nella [guida uso multiplayer](/wiki/osu!tourney/Multiplayer_usage).
+Il pannello di controllo viene visualizzato nella parte inferiore del client. Di default mostra il nome richiesto affinché le stanze appaiano nel pannello di controllo. Maggiori informazioni sono disponibili nella [guida uso multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 La funzionalità di ciascun pulsante è descritta di seguito:
 

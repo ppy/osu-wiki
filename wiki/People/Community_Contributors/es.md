@@ -14,7 +14,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/osu!_Alumni), que son antiguo
 
 | Usuario | Contribuciones |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollo y manteneniendo el [servicio de osu!record](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de video). |
+| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollo y manteneniendo el [servicio de osu!record](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de vídeo). |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hospedaje y mantenimiento de uno de los [espejos de beatmaps](https://osu.yas-online.net/) de más larga duración de osu!. |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [Medallas](/wiki/Medals). |

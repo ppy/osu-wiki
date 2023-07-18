@@ -2,7 +2,7 @@
 
 Das **osu!-Wiki** ist eine Sammlung an öffentlich zugänglichem Wissen, welche von [freiwilligen Mitwirkenden](https://github.com/ppy/osu-wiki/graphs/contributors) betrieben wird. Hier findet sich eine große Breite an Informationen rund um osu!, seine Community sowie verwandte Aktivitäten und Konzepte. Das Wiki dient als offizielle Quelle für Informationen und wird als Dokumentation der Geschichte von osu! angesehen.
 
-Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von Beiträgen, werden im `#osu-wiki`-Kanal des offiziellen [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) besprochen. Um zu lernen, wie du mithelfen kannst, siehe dir folgende Artikel an:
+Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von Beiträgen, werden im `#osu-wiki`-Kanal des offiziellen [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) besprochen. Um zu lernen, wie du mithelfen kannst, siehe dir folgende Artikel an:
 
 - [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide)
 - [Wartung](/wiki/osu!_wiki/Maintenance)
@@ -15,7 +15,7 @@ Der [erste Versuch](https://osu.ppy.sh/community/forums/posts/1175876) eine stru
 
 ## Aufbau
 
-Das Eingangstor zum Wiki ist die [Hauptseite](/wiki/Main_Page), die in mehrere übergeordnete Kategorien eingeteilt ist. Alle Kategorien haben eine allgemeine Beschreibung und beinhalten eine Liste an wichtigen Artikeln. Die Artikel, die nicht auf der Hauptseite zu sehen sind, sind meistens durch Hotlinks oder über die Suchfunktion erreichbar.
+Das Eingangstor zum Wiki ist die [Hauptseite](/wiki/Main_page), die in mehrere übergeordnete Kategorien eingeteilt ist. Alle Kategorien haben eine allgemeine Beschreibung und beinhalten eine Liste an wichtigen Artikeln. Die Artikel, die nicht auf der Hauptseite zu sehen sind, sind meistens durch Hotlinks oder über die Suchfunktion erreichbar.
 
 Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept und gibt einen generellen Überblick über angrenzende Themen. Um den Begriff besser zu verstehen, wird das Thema in mehrere Untersektionen geteilt. Oft sind dort auch Bildschirmaufnahmen und andere Grafiken zur besseren Veranschaulichung abgebildet.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
 

@@ -5,7 +5,6 @@ tags:
   - hint
   - hints
   - 提示
-no_native_review: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -28,7 +27,7 @@ no_native_review: true
 - 按下 `F12` 可以截图哦，拿到好成绩时别忘记了。
 - 你可以通过用[旁观功能](/wiki/Gameplay/Spectating)来观摩其他玩家游戏以得到更多的游戏技巧。按 `F9` 展开玩家列表然后点击你打算旁观的玩家！
 - 如果作者更新了谱面，你可以通过快捷按钮迅速更新到最新版本。
-- Wiki 里有很多很多有用的资讯。[去读读](/wiki/Main_Page)吧。
+- Wiki 里有很多很多有用的资讯。[去读读](/wiki/Main_page)吧。
 - 你知道吗？只要简单地双击或者把 `.osz` 文件拖到 osu! 的游戏窗口中，就能载入新的谱面。
 - 在[成绩界面](/wiki/Client/Interface#结算界面)按下 `F2` ，你可以导出任何一个在线或者本地[回放](/wiki/Gameplay/Replay)。
 - 如果你玩过每张谱面里的节拍，听起来都觉得太早、太晚或太蠢，可以试试在`选项 (Options)` 中调节`全局偏移量 (offset)`。
@@ -62,16 +61,16 @@ no_native_review: true
 - 可以使用[跳](/wiki/Beatmap/Pattern/osu!/Jump)这种排列来强调歌曲中比较重要明显的声音！
 - [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)工具可用于精确计算控制物件之间的距离。可以按住 `Alt` 键来临时启用或禁用它。
 - 尝试在作图，特别是在确定滑条的可击打[节奏](/wiki/Music_theory/Rhythm)时，去跟歌曲中最重要的声音。
-- 屏幕右上角的[`节拍细分`](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)选项，展示了物件将会以何种节奏形式来贴合歌曲。对于大多数歌曲，使用默认的  `1/4` 就可以贴合得很好了。
+- 屏幕右上角的[`节拍细分`](/wiki/Client/Beatmap_editor/Beat_snap_divisor)选项，展示了物件将会以何种节奏形式来贴合歌曲。对于大多数歌曲，使用默认的  `1/4` 就可以贴合得很好了。
 - 如果你在为你的谱面找摸（修改意见），可以去看摸图队列论坛或游戏内的 `#modreqs` 频道内发出求摸请求，也可以去询问你的朋友！
-- 可以在[`歌曲设定`](/wiki/Client/Beatmap_editor/Song_Setup) (`F4`) 的`难度`标签页中，修改例如[掉血速度](/wiki/Beatmap/HP_drain_rate)、[圆圈大小](/wiki/Beatmap/Circle_size)、[缩圈速度](/wiki/Beatmap/Approach_rate)这一类的谱面难度设定参数。
+- 可以在[`歌曲设定`](/wiki/Client/Beatmap_editor/Song_setup) (`F4`) 的`难度`标签页中，修改例如[掉血速度](/wiki/Beatmap/HP_drain_rate)、[圆圈大小](/wiki/Beatmap/Circle_size)、[缩圈速度](/wiki/Beatmap/Approach_rate)这一类的谱面难度设定参数。
 - 书签 (`Ctrl` + `B`) 是一个很好用的工具，它能在编辑器中标记并展示歌曲的变化。许多谱师使用书签来标记歌曲的段落，并辅助提醒自己更改作图风格。
 - 如果你需要更多关于作图的知识，尽量先把网站上的 wiki 读一遍，在 `#modhelp` 里提问，或者在[谱面帮助论坛](https://osu.ppy.sh/community/forums/56)里发帖提问！
 - 你应该要经常[测试](/wiki/Client/Beatmap_editor/Test_mode) (`F5`) 自己的图，这样可以发现并修改其中的问题。
 - 如果你想随意移动物件的位置，可以禁用[`格点锁定`](/wiki/Beatmapping/Grid_snapping)功能。使用 `Ctrl` + 方向键能精确调整物件摆放的位置。
 - 当你的谱面制作完毕，可以求摸，就可以在[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)中上传了！`上传谱面`的按钮能在`文件`选项卡的下拉菜单里找到。
 - 编辑器左上角的音效组和附加音效选项，能为你的物件提供更多的[音效](/wiki/Beatmapping/Hitsound)组合。
-- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 吧！
+- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 吧！
 - 将滑条转换成[连打](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
 - 如果你在转盘后放了物件，确保它们之间有足够的时间间隔，让玩家能辨认并准确击打后面的物件。
 - 能使用[创建多边形圆圈](/wiki/Client/Beatmap_editor/Menu#special-commands.2)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。

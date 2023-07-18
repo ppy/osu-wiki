@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
     - BSC
     - beatmap spotlight curator
@@ -37,7 +39,6 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
 - ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
 - ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
 - ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)

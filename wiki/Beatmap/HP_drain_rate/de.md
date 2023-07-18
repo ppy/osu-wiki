@@ -9,7 +9,7 @@ tags:
 # HP-Drain-Rate
 
 *Für Leben als eine Spielmechanik, siehe: [Gesundheit](/wiki/Gameplay/Health)*\
-*Für Regulierungen rundum die HP-Drain-Rate, siehe: [Ranking-Kriterien](/wiki/Ranking_Criteria)*
+*Für Regulierungen rundum die HP-Drain-Rate, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
 
 Die **Drain-Rate für Lebenspunkte** (***HP***) ist eine Schwierigkeitseinstellung für [Beatmaps](/wiki/Beatmap), die steuert, wie viel [Gesundheit](/wiki/Gameplay/Health) passiv durch [Gesundheitsverlust](/wiki/Gameplay/Health) abfließt. Sie beeinflusst auch, wie stark ein Spieler für das Verfehlen von Noten bestraft wird und wie viel Leben durch das akkurate Treffen von [Hit-Objekten](/wiki/Gameplay/Hit_object) zurückgewonnen wird.
 

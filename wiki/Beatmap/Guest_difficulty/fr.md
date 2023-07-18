@@ -8,7 +8,7 @@ tags:
 
 # Guest difficulties
 
-*Pour les règlements concernant les guest difficulties, voir : [Critères de classement](/wiki/Ranking_Criteria)*
+*Pour les règlements concernant les guest difficulties, voir : [Critères de classement](/wiki/Ranking_criteria)*
 
 Les **guest difficulties**, abrégé en *GD*, sont des [difficultés](/wiki/Beatmap/Difficulty) d'une [beatmap](/wiki/Beatmap) qui ne sont pas créée par l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host). Elles peuvent généralement être identifiées par leur nom de difficulté contenant le nom d'utilisateur du créateur invité.
 

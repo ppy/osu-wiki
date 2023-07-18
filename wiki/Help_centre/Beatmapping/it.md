@@ -17,7 +17,7 @@ tags:
 
 Questa sezione è dedicata ai problemi riguardanti il l'editor delle beatmap e, più in generale,al beatmapping.  
 
-## Come carico/aggiorno la mia mappa? {#upload-beatmap}
+## Come carico/aggiorno la mia mappa? {id=upload-beatmap}
 
 **Puoi farlo tramite l'editor in gioco.**
 
@@ -27,7 +27,7 @@ Questo renderà la tua beatmap disponibile da scaricare agli altri giocatori sul
 
 Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#mappe-abbandonate). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
 
-## L'editor dice che "la beatmap che stai cercando di caricare non è tua!" {#wrong-author}
+## L'editor dice che "la beatmap che stai cercando di caricare non è tua!" {id=wrong-author}
 
 **Questo può succedere nel caso il creatore della beatmap non è stato impostato correttamente nei file della beatmap.**
 
@@ -35,13 +35,13 @@ Nell'editor, clicca `File` nella barra degli strumenti, poi `Apri .osu in Notepa
 
 Nel caso non lo fosse, cambia manualmente la riga per ogni difficoltà della tua beatmap, ricarica la mappa e dovresti essere in grado di caricarla.
 
-Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_Issues).
+Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_issues).
 
-## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {#upload-slots}
+## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {id=upload-slots}
 
 **Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#limiti-aumentati).**
 
-## Come elimino la mia beatmap? {#delete-beatmap}
+## Come elimino la mia beatmap? {id=delete-beatmap}
 
 **Il [team di supporto](/wiki/People/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
 

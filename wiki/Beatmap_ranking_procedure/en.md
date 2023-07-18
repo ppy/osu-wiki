@@ -24,13 +24,13 @@ Newer beatmappers usually need extensive modding to create beatmaps that meet th
 
 Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
-## Nominations {#nominations}
+## Nominations {id=nominations}
 
 ::: Infobox
 ![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
 :::
 
-A **nomination** is a vote of approval, which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality, as judged by the nominating user. As a minimum requirement, these beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
+A **nomination** is a vote of approval, which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality, as judged by the nominating user. As a minimum requirement, these beatmaps must follow the [ranking criteria](/wiki/Ranking_criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
 
 Nominations are given by [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), a group of experienced modders. Members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
 

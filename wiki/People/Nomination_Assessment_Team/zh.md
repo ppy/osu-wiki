@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 405ec41c04df01386e405a65a8440ff8d6a12165
 tags:
  - NAT
  - 审核评估
@@ -10,9 +12,9 @@ tags:
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-他们用户名通常标记为红色。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_group)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
-**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
+**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
 ***注意：如果发现审核评估团队 (NAT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/Account_support_team#support@ppy.sh)并举报。***
 
@@ -34,7 +36,7 @@ tags:
 
 属于**组织** (Structural) 分类的成员主要负责：
 
-- **沟通**：与其他 NAT 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 和其他文件。
+- **沟通**：与其他 NAT 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_criteria) 和其他文件。
 - **开发**：开发并维护能够推进谱面上架流程的工具和网页（比如 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)、[Aiess](https://github.com/Naxesss/Aiess)、[NAT/BN 网站](https://bn.mappersguild.com/home)）。
 - **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
 - **杂项处理**：包括但不限于：
@@ -74,7 +76,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 ## NAT 领导
 
-截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/Modding/Quality_Assurance_Team) 时期使用的[领导](/wiki/Modding/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
+截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 时期使用的[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
 
 目前的 NAT 领导人是 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)。
 
@@ -93,7 +95,7 @@ NAT 领导人的职责是：
 
 *注意：除非特殊说明，所有审核评估团队 (NAT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
+[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_content_considerations)。
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
@@ -102,12 +104,12 @@ NAT 领导人的职责是：
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 组织[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | 评估，组织[^task-achyoo] |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | 评估 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估 |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 | 评估 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估，组织[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 组织[^task-naxess] |
@@ -124,7 +126,6 @@ NAT 领导人的职责是：
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | 领导 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 | 评估 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 领导 |
@@ -140,14 +141,20 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | 评估 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 | 评估 |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 | 评估 |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 | 评估 |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 韩语 | 评估 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估 |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 丹麦语 | 评估 |
+
+### 机器人账户
+
+| 名字 | 语言 | 所属类别 |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
 
 ## 备注
 
-[^task-achyoo]: 主要负责处理 osu! 游戏模式的谱面否决 (Veto) 事务
 [^task-fuju]: 主要负责处理玩家举报，管理 osu! 游戏模式的 SEV 分数
 [^task-mo]: 主要负责处理内部讨论、事务和文档
 [^task-naxess]: 主要负责维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)

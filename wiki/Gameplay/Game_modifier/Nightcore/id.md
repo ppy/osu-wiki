@@ -33,7 +33,7 @@ tags:
 
 Mod **Nightcore** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang berfungsi sama seperti variasinya (Double Time), yang membedakan dengan variannya adalah mod ini meningkatkan nada dan menambahkan sebuah suara drum di latar belakang—dalam timing 4/4—dengan mengikuti urutan beat 1 dan 3 pada drum bass, beat 2 dan 4 pada clap, dan beat 1 setiap 4 measure pada crash.
 
-[Pengali skor](/wiki/Gameplay/Game_modifier/Score_multiplier) untuk mod Nightcore tetaplah sama seperti mod Double Time, dan beatmap tidak akan terpengaruhi selain dari pengaruh yang sudah ada pada mod Double Time.
+[Pengali skor](/wiki/Gameplay/Game_modifier/Mod_multiplier) untuk mod Nightcore tetaplah sama seperti mod Double Time, dan beatmap tidak akan terpengaruhi selain dari pengaruh yang sudah ada pada mod Double Time.
 
 Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 

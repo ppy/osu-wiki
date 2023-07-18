@@ -1,10 +1,15 @@
+---
+outdated_translation: true
+outdated_since: 56bb211d402cccb87387244bd25c0a1ec937c9cc
+---
+
 # osu!monthly
 
 L'**osu!monthly** est un bulletin d'information mensuel géré par l'[équipe de l'osu!monthly](/wiki/People/osu!monthly_team), dont le but est de résumer les différents événements communautaires et officiels, les nouvelles, les annonces, etc. qui ont lieu chaque mois. Le projet a été mené par plusieurs autres groupes de membres de la communauté dans le passé, l'objectif étant toujours le même : informer le joueur moyen des événements précédents et actuels afin de mettre la lumière sur l'ensemble de la communauté d'osu!.
 
 ## Contribuer
 
-L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou contribuer est toujours la bienvenue. Toutes les discussions et l'organisation du projet ont lieu dans le salon `#osu-news` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou contribuer est toujours la bienvenue. Toutes les discussions et l'organisation du projet ont lieu dans le salon `#osu-news` du [serveur Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Histoire
 

@@ -28,7 +28,7 @@
 
 ![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
 
-*主条目：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) / [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)*
+*主条目：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) / [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)*
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**
 
@@ -172,7 +172,7 @@
 
 ![Beat Snap Divisor（osu!mania 版）](img/BEM_BSD.jpg "Beat Snap Divisor（osu!mania 版）")
 
-*主页面：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
+*主页面：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**由于 osu!mania 中的每个物件都非常要求准确性，在 Beat Snap Divisor 的旁边额外加上了原只存在于 Timing 面板的**Time signature（时间标记）**（MM:B）以供作图者参考。当第一个 Timing 区段存在于谱面歌曲档案的*几秒钟之前*，其值可为负数（例如 -8:-3）。
 

@@ -14,6 +14,6 @@ O **Editor de Beatmap** é uma interface grafica do osu! para criação de [Beat
 ## Artigos relacionados
 
 - [Beat Snap Divisor](Beat_Snap_Divisor)
-- [Hitsounds Personalizáveis](/wiki/Guides/Custom_Sample_Overrides)
+- [Hitsounds Personalizáveis](/wiki/Guides/Custom_sample_overrides)
 - [Distance Snap](Distance_snap)
 - [Kiai Time](/wiki/Gameplay/Kiai_time)

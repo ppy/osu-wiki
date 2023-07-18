@@ -1,10 +1,15 @@
+---
+outdated_translation: true
+outdated_since: 56bb211d402cccb87387244bd25c0a1ec937c9cc
+---
+
 # osu!monthly
 
 **osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini merangkum berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya pada setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama: yaitu untuk mengabarkan segala sesuatunya yang terjadi di osu! kepada khalayak umum.
 
 ## Memberikan kontribusi
 
-osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin memberikan kontribusi. Segala diskusi dan perencanaan osu!monthly dilangsungkan pada kanal `#osu-news` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) secara terbuka dan dapat diikuti oleh siapa saja.
+osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin memberikan kontribusi. Segala diskusi dan perencanaan osu!monthly dilangsungkan pada kanal `#osu-news` di [server Discord osu!](/wiki/Community/osu!_Discord_server) secara terbuka dan dapat diikuti oleh siapa saja.
 
 ## Sejarah
 
