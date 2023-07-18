@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 ---
 
 <div class="wiki-main-page__blurb">
@@ -26,7 +28,7 @@ layout: main_page
     
 [인터페이스](/wiki/Client/Interface) • [옵션](/wiki/Client/Options) • [시각적 설정](/wiki/Client/Interface/Visual_settings) • [단축키 참조](/wiki/Client/Keyboard_shortcuts) • [유저 설정 파일](/wiki/Client/Program_files/User_configuration_file) • [프로그램 파일](/wiki/Client/Program_files)
 
-[파일 확장자](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[파일 확장자](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -70,7 +72,7 @@ layout: main_page
 
 osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인으로부터 계속 안전하게 지켜질 수 있도록 절차 및 채팅 규정에 대해 읽어주세요. 
 
-[규칙](/wiki/Rules) • [기여자 Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[규칙](/wiki/Rules) • [기여자 행동지침](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 행동지침](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
 미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_usage_guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_voting_process) • [부적절한 콘텐츠](/wiki/Rules/Explicit_content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_content_rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_content_considerations)
 
@@ -111,9 +113,9 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 많은 유저들이 개발, 유지보수 및 커뮤니티 관리에 도움을 주지 않았더라면 osu!는 불가능했을 것입니다. 그들의 노력, 시간, 그리고 헌신이 osu!를 더욱더 활기차고 발전시킬 수 있게 만들어줍니다.
 
-[osu! 팀](/wiki/People/osu!_team) • [개발자](/wiki/People/Developers) • [공식 아티스트](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [지원 팀](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [비트맵 스포트라이트 큐레이터](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! 팀](/wiki/People/osu!_team) • [개발자](/wiki/People/Developers) • [공식 아티스트](/wiki/People/Featured_Artists) • [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) • [지원 팀](/wiki/People/Support_Team) • [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) • [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved 팀](/wiki/People/Project_Loved_Team) • [비트맵 스포트라이트 큐레이터](/wiki/People/Beatmap_Spotlight_Curators)
 
-[커뮤니티 기여자](/wiki/People/Community_Contributors) • [유저 그룹](/wiki/People/User_group) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
+[커뮤니티 기여자](/wiki/People/Community_Contributors) • [유저 그룹](/wiki/People/User_group) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [센츄리온](/wiki/People/Centurions) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

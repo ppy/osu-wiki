@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 ---
 
 <div class="wiki-main-page__blurb">
@@ -26,7 +28,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Интерфейс](/wiki/Client/Interface) • [Настройки](/wiki/Client/Options) • [Визуальные настройки](/wiki/Client/Interface/Visual_settings) • [Горячие клавиши](/wiki/Client/Keyboard_shortcuts) • [Файл конфигурации](/wiki/Client/Program_files/User_configuration_file) • [Программные файлы](/wiki/Client/Program_files)
 
-[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">

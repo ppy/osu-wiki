@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d3592bb35b3055060a588302450b2c9716f9a92f
+---
+
 # osu! community meetings
 
 Les **osu! community meetings** sont un groupe de discussion organisé par l'[équipe d'osu!](/wiki/People/osu!_team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
