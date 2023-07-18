@@ -7,7 +7,7 @@ Sfortunatamente, a causa della vastitià di hardware sul quale osu! funziona, è
 ## Cose da controllare
 
 - Stai usando una skin? Se si, prova a passare a quella di default e vedere se la situazione migliora. Certe skin potrebbero essere fatte in modo da causare problemi di performance in alcuni o tutti i sistemi.
-- Hai impostato il limitatore FPS a  `Illimitato`? Impostalo su `Optimal` e prova a vedere se ciò aiuta.Vedi [la sezione in fondo](#unlimited) per ulteriori informazioni sul perchè `Unlimited` solitamente non è la migliore scelta.
+- Hai impostato il limitatore FPS a  `Illimitato`? Impostalo su `Optimal` e prova a vedere se ciò aiuta.Vedi [la sezione in fondo](#illimitato) per ulteriori informazioni sul perchè `Unlimited` solitamente non è la migliore scelta.
 - Stai giocando in modalità finestra? Passa a schermo intero.
 - Hai aggiornato i drivers (specialmente la GPU)? Prova a farlo e vedi se le cose migliorano. In alternativa, se li hai aggiornati di recente, prova a eseguire il rollback del software.
 - Il tuo pc usa NVIDIA Optimus o sistemi di grafica ibrida simili? Se si, prova a forzare l'esecuzione del gioco su ciascuna GPU per comparare le performance. E' abbastanza comune che le GPU integrate forniscano performance più consistenti su giochi come osu!. Cerca “Impostazioni grafiche” su Windows e prova ad impostare osu! su “Risparmio Energia” oppure “Performance elevati”.
