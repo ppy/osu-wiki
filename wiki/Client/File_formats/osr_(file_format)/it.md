@@ -29,7 +29,7 @@ Gli offset dei byte non sono inclusi in questa tabella a causa dei valori di lun
 | Breve | Numero di 50s in standard, frutti piccoli in CTB, 50s in mania |
 | Breve | Numero di Gekis in standard, Max 300s in mania |
 | Breve | Numero di Katus in standard, 200 in mania |
-| Breve | Numero di missioni | 
+| Breve | Numero di missioni |
 | Integer | Punteggio totale visualizzato nel report dei punteggi |
 | Breve | Combo più grande visualizzata sul report del punteggio |
 | Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione del cursore e nessun cursore finito in anticipo). |
