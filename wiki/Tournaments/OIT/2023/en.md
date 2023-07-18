@@ -90,6 +90,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Finals (week 1)
+
+**[Download the mappack here! (223 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1130189950973919362/oit2023f.zip)**
+
+- NoMod
+  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
+  2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
+  3. [BlackY feat. Risa Yuzuki - Imitator (Elayue)) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
+  4. [RB.H x lihound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
+  5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
+- Hidden
+  1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
+  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1708547#osu/3592328)
+  3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)  
+- HardRock
+  1. [Imy - Seimei no Tomoshibi (KKipalt) \[Reflection\]](https://osu.ppy.sh/beatmapsets/1276373#osu/2651864)
+  2. [Okui Masami - God Speed (Anxient) \[Torque\]](https://osu.ppy.sh/beatmapsets/1972419#osu/4092879)
+  3. [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
+- DoubleTime
+  1. [Maeda Jun x yanaginagi - Kimi to Iu Shinwa (Sunohara Shun) \[30 days (ft. Crezz)\]](https://osu.ppy.sh/beatmapsets/2022618#osu/4212658)
+  2. [A-One feat. Shihori - Magic Girl !! (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1740099#osu/3557309)
+  3. [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
+  4. [Nisshoku Natsuko - Rogumaropu (Seikatu) \[Collab\]](https://osu.ppy.sh/beatmapsets/666499#osu/1410681)
+- FreeMod
+  1. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
+  2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby) \[Edit\]](https://osu.ppy.sh/beatmapsets/1271938#osu/4167251)
+  3. [Dark PHOENiX - Taketori Hishou (cotton\_\_123) \[Lunatic Princess\]](https://osu.ppy.sh/beatmapsets/1893810#osu/3902585)
+  4. [NIWASHI & taiyo - Nami/Oto you-shi (mezelyus) \[Ubiquitous\]](https://osu.ppy.sh/beatmapsets/1833621#osu/3764329)
+- Tiebreaker
+  1. **[Tokyo.MeltiMelt - the Beautiful Cure (Melize) \[Ave\]](https://osu.ppy.sh/beatmapsets/2027735#osu/4225364)**
+
 ### Semifinals
 
 **[Download the mappack here! (193 MB)](https://mappack.yewonkim.tk/download/jE8MBuvr)**
@@ -199,6 +230,36 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
 
 ## Match results
+
+### Semifinals
+
+Thursday, 13 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109473585) |
+| Lower | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109472911) |
+
+Friday, 14 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109490570) |
+
+Saturday, 15 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/109505402) |
+| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/109506277) |
+| Lower | [DeathHydra](https://osu.ppy.sh/users/7457788) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | [#1](https://osu.ppy.sh/community/matches/109506204) |
+
+Sunday, 16 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/109521317) |
+| Lower | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/109525652) |
 
 ### Quarterfinals
 
