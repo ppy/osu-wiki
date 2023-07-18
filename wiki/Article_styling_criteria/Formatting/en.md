@@ -592,7 +592,7 @@ Wiki links that point to a sub-article should include the parent article's folde
 Wiki links that point to a section of an article may use the section sign symbol (`§`). See the following example:
 
 ```markdown
-*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Other osu! links
