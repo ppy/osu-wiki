@@ -273,6 +273,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Desempate de la gran final |
 | [ReeK, roer & Rairiku - Kurwature 1869](https://www.youtube.com/watch?v=L4zSAByvNkY) | [#1](https://osu.ppy.sh/beatmapsets/1794825) | Desempate de la final |
 
+#### ![](/wiki/shared/mode/taiko.png) Advanced Global Taiko Showdown 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Sparxe vs. takehirotei - Cosmic Fragmentation](https://soundcloud.com/sparxenic/sparxe-vs-takehirotei-cosmic-fragmentation) | [#1](https://osu.ppy.sh/beatmapsets/2027811) | Desempate de la gran final |
+
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) AMG 2022 x #RHYTHMGAMES CFC osu! & osu!catch tournament
 
 | Canción | Beatmap | Notas |
