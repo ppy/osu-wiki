@@ -95,7 +95,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 **[Download the mappack here! (223 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1130189950973919362/oit2023f.zip)**
 
 - NoMod
-  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](hhttps://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
+  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
   2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
   3. [BlackY feat. Risa Yuzuki - Imitator (Elayue)) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
   4. [RB.H x lihound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
