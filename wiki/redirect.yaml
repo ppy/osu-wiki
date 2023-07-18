@@ -2132,3 +2132,7 @@
 "modding/qat_leaders": "People/Quality_Assurance_Team/QAT_Leaders"
 "modding/quality_assurance_team": "People/Quality_Assurance_Team"
 "quality_assurance_team_blog": "People/Quality_Assurance_Team/Quality_Assurance_Team_Blog"
+
+# moved in #9582
+
+"client/release_stream/lazer/feature_comparison": "Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)"

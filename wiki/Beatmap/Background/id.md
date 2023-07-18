@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_translation: true
+outdated_since: 9fe1f9584e5a21cfd544576b4d5f7641f5772629
 tags:
   - bg
 ---
