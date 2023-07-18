@@ -69,7 +69,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 #### 규칙
 
 - **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.**
-- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
+- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
@@ -100,7 +100,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 #### 규칙
 
 - **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.**
-- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
+- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
@@ -140,7 +140,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 #### Rules
 
 - **서로 1/2비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.** 슬라이더 머리나 꼬리는 몸통이 보인다는 가정 하에 예외입니다.
-- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
+- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
@@ -165,7 +165,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 #### 가이드라인
 
 - **서로 1/4비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.** (특히 단순한 Insane 난이도의 경우)
-- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
+- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 - **화면을 가로지르는 [점프](/wiki/Beatmap/Pattern/osu!/Jump) 혹은 노트들끼리 겹치지 않는 [연타](/wiki/Beatmap/Pattern/osu!/Stream)의 사용을 지양하세요.** 이들은 Expert 레벨 이상의 매핑을 위한 기술입니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 - **슬라이더 리버스에 도달한 후 1/2비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
@@ -182,7 +182,7 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 #### 가이드라인
 
-- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
+- **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 
 #### 난이도 세팅 가이드라인
