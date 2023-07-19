@@ -413,7 +413,7 @@ Domenica 10 Novembre 2013:
 3. Il calendario delle partite sarà stabilito dalla Direzione del torneo (vedi sotto).
 4. Se non c'è personale o arbitro disponibile, la partita sarà rinviata.
 5. I punteggi dei giocatori rianimati saranno aggiunti al punteggio totale.
-6. È consentito l'uso [Impostazioni visive](/wiki/Client/Interface/Visual_settings).
+6. È consentito l'uso di [Impostazioni visive](/wiki/Client/Interface/Visual_settings).
 7. Se la partita termina con un pareggio, la partita viene annullata.
 8. Se uno dei giocatori si disconnette, la partita viene annullata. Questo può accadere fino a due volte. Dopo aver superato i due tentativi, i giocatori disconnessi vengono trattati come se se ne fossero andati da soli.
 9. Le mappe non possono essere riutilizzate nella stessa partita, a meno che la partita non sia stata annullata.
