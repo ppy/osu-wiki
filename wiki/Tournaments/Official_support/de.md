@@ -4,8 +4,6 @@ tags:
   - badges
   - badged
   - Abzeichen
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # Offizielle Turnierunterstützung
@@ -14,7 +12,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
-Dieser Artikel wurde zuletzt am 22. März 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 19. Juni 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -29,7 +27,9 @@ Offiziell unterstützte Turniere haben Zugang zu:
 Gefördert werden von der Community betriebene Turniere, die sich an die folgenden strengen Regeln halten:
 
 - Die Turnierserie darf nicht mehr als zweimal pro Jahr stattfinden.
-- Das Turnier muss zumindest als Achtelfinale mit Doppeleliminierungsverfahren betrieben werden — alternative Maßstäbe und Formate können nach alleinigem Ermessen des osu!-Teams zugelassen werden. Die Turnierveranstalter sollten [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren, wenn sie eine Turnierunterstützung für ein nicht traditionelles Turnierformat oder eine nicht traditionelle Turniergröße beantragen.
+- Das Turnier muss zumindest als Achtelfinale mit Doppeleliminierungsverfahren betrieben werden.
+  - Größere Formate, wie beispielsweise Gruppenphasen und das Schweizer System, dürfen eingesetzt werden, solange sie mit mindestens 16 Teams starten und, sofern zutreffend und wenn man nur mit 16 Teams startet, danach zu einem Doppeleliminierungsverfahren übergehen.
+  - Alternative Maßstäbe und Formate können nach alleinigem Ermessen des Turnierkomitees zugelassen werden. Die Turnierveranstalter sollten [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren, wenn sie eine Turnierunterstützung für ein nicht traditionelles Turnierformat oder eine nicht traditionelle Turniergröße beantragen.
 - Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden. Jegliche Verstöße gegen die [Erwartungen](#erwartungen), die [weiteren Prozeduren](#weitere-prozeduren) oder die [Zulassungsvoraussetzungen](#anspruchsberechtigung) sollten gemeldet werden.
@@ -45,7 +45,7 @@ Gefördert werden von der Community betriebene Turniere, die sich an die folgend
 
 Zunächst muss der Antrag auf Unterstützung **lange bevor das Turnier tatsächlich anfängt eingereicht werden.** Dafür gibt es keine genauen Fristen, aber wir empfehlen mindestens zwei bis drei Wochen vor Spielbeginn, um Verzögerungen im Screening-Verfahren zu berücksichtigen.
 
-Wenn dein Turnier die [Zulassungsvoraussetzungen](#anspruchsberechtigung) erfüllt, kannst du mit einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag auf Unterstützung stellen, der folgende Informationen enthalten sollte:
+Wenn dein Turnier die [Zulassungsvoraussetzungen](#anspruchsberechtigung) erfüllt, kannst du mit einer E-Mail an das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag auf Unterstützung stellen, der folgende Informationen enthalten sollte:
 
 - Eine kurze Beschreibung deines Turniers, einschließlich aller geltenden Termine, Spielmodi und anderer geeigneter Merkmale.
 - Jegliche Links zu:
@@ -99,7 +99,7 @@ In Bezug auf die Rolle des Personals gelten folgende Regeln:
 
 - Streamer, Kommentatoren und Grafikdesigner dürfen im Turnier mitspielen.
 - Eliminierte Spieler dürfen sich als Schiedsrichter, Mappool-Spieltester und/oder Replay-Ersteller beteiligen.
-- Mitarbeiter mit hier nicht aufgeführten Rollen dürfen nicht an einem Turnier mit Abzeichen teilnehmen — wenn du irgendwelche Zweifel hast, dann kontaktiere bitte [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Mitarbeiter mit hier nicht aufgeführten Rollen dürfen nicht an einem Turnier mit Abzeichen teilnehmen — wenn du irgendwelche Zweifel hast, dann kontaktiere bitte das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir ermutigen zu sorgfältiger Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal gegen die Regeln verstoßen haben (oder mehrmals). Sie dürfen keine andere Mitarbeiterrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren Geschichte von Fall zu Fall prüfen.
 
