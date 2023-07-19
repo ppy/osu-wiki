@@ -51,19 +51,25 @@ F2 - Rohi Pack.zip
 
 ### 从镜像站下载
 
-目前所有曲包都官方储存在 `packs.ppy.sh`。同时，也有其他用户为了方便与更快的下载速度，建立了镜像站点：
+目前所有曲包都官方储存在 `packs.ppy.sh`。同时，也有其他用户为了方便，建立了镜像站点：
 
-- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - [nanashirei](https://osu.ppy.sh/users/807630) 的 [osu! Beatmap Packs](http://osu.yas-online.net/)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) 的 [Google 表格](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo)
+- 使用 `packs.ppy.sh` 域名前的早期存储站点 ( ~2023.05.07)
+  - [Stefan](https://osu.ppy.sh/users/626907) 的 [MEGA 网盘](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw)
+- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) （不活跃）
+  - [nanashirei](https://osu.ppy.sh/users/807630) 的[镜像网站](http://osu.yas-online.net/)
 
 ### 用 Torrent 下载
 
 如果想要批量下载曲包而非一个个下载它们，你可以使用 Torrent 工具，从以下站点下载：
 
+- [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
+  - [glukki](https://osu.ppy.sh/users/14285150) 的 [Resilio Sync 上的 Torrent 文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
+- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) （包含多种下载选项）
+  - [Elessey](https://osu.ppy.sh/users/4925105) 的 [Torrent 文件](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [- Pandoro](https://osu.ppy.sh/users/2574057) 的 [PandoTracker](https://pandotracker.me)
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) （已关闭）
-  - [Hiramiya](https://osu.ppy.sh/users/1313441) 的 [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm)
+  - [- Pandoro](https://osu.ppy.sh/users/2574057) 的 [PandoTracker 网站](https://pandotracker.me)
 
 <!-- TODO: new mirrors -->
 
