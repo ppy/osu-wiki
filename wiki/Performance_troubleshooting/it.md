@@ -67,7 +67,7 @@ osu! offre multiple scelte di limitatori frame. Ciascuno di essi hanno dei pro e
 
 ### VSync
 
-Questo limitatore frame si basa su un meccanismo di sincronia verticale fornito dal driver. Garantisce che non ci sia lo screen tearing, ma aggiunge 1-2 frame di latenza a causa della necessità di frame di buffering prima  It guarantees no screen tearing, ma aggiunge 1-2 fotogrammi di latenza a causa della necessità di bufferizzare i fotogrammi prima della visualizzazione.
+Questo limitatore frame si basa su un meccanismo di sincronia verticale fornito dal driver. Garantisce che non ci sia lo screen tearing, ma aggiunge 1-2 frame di latenza a causa della necessità di frame di buffering prima.
 
 Generalmente non è raccomandato per i display a 60Hz. Può diventare utile a refresh rate superiori a 120Hz, ma con i monitor con GSync e FreeSync, il requisito dell'uso di VSync per evitare il tearing viene rimosso.
 
