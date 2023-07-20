@@ -127,6 +127,7 @@ Il comando `!where`  mostra la posizione attuale dell'utente inserito. Di predef
 ```
 
 Il comando `!faq` mostra il contenuto di una voce. In alternativa, l'argomento `list` può essere utilizzato per mostrare tutte le voci disponibili. Di predefinito, BanchoBot risponderà in inglese, ma è possibile ricevere una risposta in un'altra lingua anteponendo alla voce il [codice di due lettere](/wiki/Article_styling_criteria/Formatting#locales) della lingua desiderata. Esempi di invio di questo comando sono mostrati di seguito:
+
 ```
 13:03 pippi: !faq peppy
 13:03 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
