@@ -295,7 +295,7 @@ Questo hitsound utilizza le proprietà `hitSound` e `hitSample` dell'oggetto hit
 - **`endTime` (intero):** Tempo di fine dello spinner, in millisecondi dall'inizio dell'audio della beatmap.
 - `x` e `y` non influiscono sugli spinner. Sono predefiniti al centro del campo di gioco, `256,192`.
 
-### Trattenute (solo osu!mania)
+### Note lunghe (solo osu!mania)
 
 *Sintassi degli appigli:* `x,y,time,type,hitSound,endTime:hitSample`
 
@@ -357,7 +357,7 @@ Il campo di gioco di osu!catch utilizza solo l'asse x, quindi `y` non è rilevan
 
 ### osu!mania
 
-Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Holds] (#holds-(osu!mania-only)).
+Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Note lunghe] (#note-lunghe-(solo-osu!mania)).
 
 - I cerchi di hit diventano note normali.
 - I cursori e gli spinner non sono utilizzati in osu!mania.
