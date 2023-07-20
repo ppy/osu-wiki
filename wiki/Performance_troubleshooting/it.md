@@ -59,7 +59,7 @@ Durante il gameplay, è impossibile mantenere il frame rate, risultando in movim
 - Prova a cambiare il limitatore frame e controlla se la situazione migliora.
 - Assicurati che stai eseguendo osu! in modalità a schermo intero esclusiva (non in senza bordi). Questo migliorerà sempre le performance.
 - Assicurati di avere la [modalità gioco](https://support.xbox.com/it-IT/help/games-apps/game-setup-and-play/use-game-mode-gaming-on-pc) attiva. Permette a Windows di dedicare core e risorse ad osu!.
-- Apri il task manager e ordina la lista (sotto Dettagli) per CPU. Controlla eventuali alti utilizzi di CPU quando avvengono i cali, per esempio da un virus in background o uno scanner di malaware. Puoi anche eseguire osu! in finestra o lasciare il task manager su un secondo display per diagnosticare questa cosa mentre giochi o vedi una mappa in autoplay.
+- Apri il task manager e ordina la lista (sotto Dettagli) per CPU. Controlla eventuali alti utilizzi di CPU quando avvengono i cali, per esempio da un virus in background o uno scanner di malware. Puoi anche eseguire osu! in finestra o lasciare il task manager su un secondo display per diagnosticare questa cosa mentre giochi o vedi una mappa in autoplay.
 
 ## Limitatore Frame
 
@@ -91,7 +91,7 @@ Anche se questa sembra la miglior opzione (ed effettivamente potrebbe esserlo, s
 
 - Renderizzando più frame, c'è un maggior potenziale di overhead dal [garbage collection](https://it.wikipedia.org/wiki/Garbage_collection).
 - Spingendo la tua CPU e GPU al limite, c'è una possibilità di throttle, abbassando la performance generale.
-- Generalmente le GPU non sono fatte per renderizzare più di 1000 frame al secondo, quindi potrebbero accadere comportamenti strani, incluso un abbassamento di performance oppure una latenza più alta che GPUs generally aren’t meant to render 1000+ frames per second, quindi può verificarsi un comportamento inaspettato, tra cui prestazioni inferiori o latenze superiori a quelle altrimenti ottenibili.
+- Generalmente le GPU non sono fatte per renderizzare più di 1000 frame al secondo, quindi potrebbero accadere comportamenti strani, come prestazioni ridotte o una maggiore latenza rispetto a quanto altrimenti ottenibile.
 
 Tuttavia, se la generazione di calore e il potenziale sovraccarico dell'hardware non sono considerati un problema, `Unlimited` potrebbe essere l'opzione che offre i frame time più stabili.
 
