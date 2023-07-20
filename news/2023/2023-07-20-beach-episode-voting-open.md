@@ -13,7 +13,7 @@ With **140** sizzling summer entries to smoulder over, it's official — the art
 Don't take our word for it though, see for yourself in this spectacularly summery slideshow summoned forth by the one and only Mr. Fat (pishifat) to an *incredibly* fitting tune known as *V!rtuaresort* by our very own Featured Artist, [seatrus](https://osu.ppy.sh/beatmaps/artists/185):
 
 <div align="center">
-    <video width="90%" controls>
+    <video width="95%" controls>
         <source src="https://assets.ppy.sh/contests/179/beachep-preview.mp4" type="video/mp4" preload="none">
     </video>
 </div>
