@@ -21,7 +21,7 @@ BanchoBot ha anche il proprio [profilo di osu!](https://osu.ppy.sh/users/3) e un
 
 ## Commands
 
-*Per una lista di tutti i comandi del client in-game, consulta: [Chat Console](wiki/Client/Interface/Chat_console#lista-dei-comandi)*
+*Per una lista di tutti i comandi del client in-game, consulta: [Chat Console](/wiki/Client/Interface/Chat_console)*
 
 BanchoBot può rispondere ai comandi dei giocatori attraverso messaggi specifici inseriti nella chat. Tutti i comandi di BanchoBot iniziano con un punto esclamativo (`!`) seguito dal nome del comando, senza differenza tra maiuscole e minuscole (senza spazio tra di loro). Questi comandi possono essere utilizzati nei canali di chat e tramite messaggi privati con BanchoBot.
 
