@@ -33,10 +33,15 @@ While there are no prerequisites to write for the front page, having knowledge o
 
 For the longest time tournaments have been underrepresented on the front page, and we aim to change that going forward.
 
-Along with the presence of the suggestion box, the wiki & news maintainers will be reaching out to tournament hosts who might be on edge about advertising their tournaments on osu!'s front page, and working with interested parties to provide coverage of said tournaments.
+Along with the presence of the suggestion box, tournament hosts can reach out via the ``osu-news`` channel if they wish for their tournament to be advertised on the front page, after which the news team will look at your request and closely work with the tourney committee to make a decision.
+
+The only requirement is that the tournament is [officially supported](/wiki/Tournaments/Official_support) (the longer, the better), however there will be several factors that determine if the tournament can be advertised.
+
+We will also be ramping up coverage for the official World Cups, starting with OWC 2023 coverage through the tournament stages.
+If you are interested in covering any of the World Cups, feel free to reach out as well!
 
 ---
 
-Outro paragraph here
+We are eagerly awaiting your suggestions and hope to see some fresh faces showcase their writing skills with the community!
 
 —0x84f
