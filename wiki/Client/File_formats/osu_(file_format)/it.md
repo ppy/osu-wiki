@@ -357,7 +357,7 @@ Il campo di gioco di osu!catch utilizza solo l'asse x, quindi `y` non è rilevan
 
 ### osu!mania
 
-Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Note lunghe] (#note-lunghe-(solo-osu!mania)).
+Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Note lunghe](#note-lunghe-(solo-osu!mania)).
 
 - I cerchi di hit diventano note normali.
 - I cursori e gli spinner non sono utilizzati in osu!mania.
