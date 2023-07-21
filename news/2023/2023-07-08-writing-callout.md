@@ -6,7 +6,7 @@ date: 2023-07-08 09:00:00 +0000
 
 Ever wanted to contribute to osu!'s front page content? Now is the perfect time to do so!
 
-![]()
+![](/wiki/shared/news/2023-07-08-writing-callout.md/banner.jpg)
 
 After last years' efforts to spice up the front page with a variety of news posts via the [content call forum post](https://osu.ppy.sh/community/forums/topics/1605337?n=1), which led up to [osu!monthly](/wiki/Community/osu%21monthly) making a comeback for its [3rd season](/wiki/Community/osu%21monthly#season-3-(2022%E2%80%93present)) & a series of news posts by [0x84f](https://osu.ppy.sh/users/7944724), we wanted to spread the word further and make contributing more accessible to the community.
 
