@@ -18,6 +18,8 @@ Tablet pencils down everybody! Submissions have been closed, the skins have been
 
 Once you have made up your mind, head on over to the [contest voting page](https://osu.ppy.sh/community/contests/178) and cast your **3 votes**! The voting will be open for **14** days, so there is plenty of time to mull over your choices.
 
+Special thanks to [xootynator](https://osu.ppy.sh/users/3717598) for allowing us to use their artwork for the contest banner!
+
 For more information about the contest, check out our [wiki article](/wiki/Contests/Skinning_Contest/4) and [forum thread](https://osu.ppy.sh/community/forums/topics/1762288). If you wish to meet the contest staff or show your appreciation to our contestants, you are always welcome to join our [Discord server](https://discord.skinship.xyz/)!
 
 —RockRoller
