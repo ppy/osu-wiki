@@ -22,7 +22,7 @@ If you are keen on sharing your writing with the community, the process is incre
 
 If you don't have any ideas currently, there are some already pinned in the channel which you can freely grab and work on.
 
-While there are no prerequisites to write for the front page, having knowledge of the following will make the process easier:
+The only prerequisite is that you should be comfortable with constructive criticism and editorial feedback! We have listed additional points below that will make the process easier, but are not necessary and can be learned on the fly as you work on your project:
 
 - Knowledge of the Markdown language
 - Basic knowledge of GitHub
