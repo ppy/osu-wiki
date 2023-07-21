@@ -6,7 +6,7 @@ date: 2023-07-20 17:00:00 +0000
 
 Summer is the best part of the year to indulge in some nostalgia, so why not join us for a trip down memory lane and vote for the best skins that showcase the past 15 years of osu!?
 
-![]()
+![](/wiki/shared/news/2023-07-20-skinning-contest-icons-of-an-era-voting/banner.jpg)
 
 Tablet pencils down everybody! Submissions have been closed, the skins have been screened, and it is now time for the community to vote on their favourite skins from this iteration of the skinning contest. If you are somehow unaware of this contest and what the theme was, feel free to check out the [announcement news post](/news/2023-05-10-skinning-contest-icons-of-an-era).
 
