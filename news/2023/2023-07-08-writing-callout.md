@@ -8,7 +8,7 @@ Ever wanted to contribute to osu!'s front page content? Now is the perfect time 
 
 ![](/wiki/shared/news/2023-07-08-writing-callout.md/banner.jpg)
 
-After last years' efforts to spice up the front page with a variety of news posts via the [content call forum post](https://osu.ppy.sh/community/forums/topics/1605337?n=1), which led up to [osu!monthly](/wiki/Community/osu!monthly) making a comeback for its [3rd season](/wiki/Community/osu!monthly#season-3-(2022–present)) & a series of news posts by [0x84f](https://osu.ppy.sh/users/7944724), we wanted to spread the word further and make contributing more accessible to the community.
+After last years' efforts to spice up the front page with a variety of news posts via the [content call forum post](https://osu.ppy.sh/community/forums/topics/1605337?n=1), which led up to [osu!monthly](/wiki/Community/osu!monthly) making a comeback for its [3rd season](/wiki/Community/osu!monthly#season-3-(2022–2023)) & a series of news posts by [0x84f](https://osu.ppy.sh/users/7944724), we wanted to spread the word further and make contributing more accessible to the community.
 
 Are you interested in creative writing and want to place your content in front of hundreds of thousands of players, or just have an idea that you would like to see covered on the front page? Then feel free to read below!
 
