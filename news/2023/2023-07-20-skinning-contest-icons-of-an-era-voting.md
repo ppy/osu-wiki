@@ -8,7 +8,7 @@ Summer is the best part of the year to indulge in some nostalgia, so why not joi
 
 ![](/wiki/shared/news/2023-07-20-skinning-contest-icons-of-an-era-voting/banner.jpg)
 
-Tablet pencils down everybody! Submissions have been closed, the skins have been screened, and it is now time for the community to vote on their favourite skins from this iteration of the skinning contest. If you are somehow unaware of this contest and what the theme was, feel free to check out the [announcement news post](/news/2023-05-10-skinning-contest-icons-of-an-era).
+Tablet pencils down everybody! Submissions have been closed, the skins have been screened, and it is now time for the community to vote on their favourite skins from this iteration of the skinning contest. If you are somehow unaware of this contest and what the theme was, feel free to check out the [announcement news post](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era).
 
 **16 talented artists** have put their blood, sweat and tears (mostly sweat) into their creations, come up with some great skin ideas and are now eagerly waiting to receive one of your votes! You can find all **16 entries** on [the completed skins compendium](https://compendium.skinship.xyz/contests/4), we suggest that you download and play the game with all the entries before casting your votes. If you are not interested in downloading every single entry, feel free to check out skin previews by the [skinship](https://skinship.xyz/) team in the embedded playlist below:
 
