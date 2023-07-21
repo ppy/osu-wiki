@@ -61,10 +61,9 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otra cosa no es compatible con la sección Clasificado.
 - **Si más de un modo de teclas es presente en un solo beatmap, las teclas deben ser denominadas en todos los nombres de dificultades. En caso de que no, no se deben de nombrar.**
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución adecuada que contenga un mínimo de 4 dificultades en total.
-  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución adecuada que contenga un mínimo de 3 dificultades en total.
-  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución adecuada que contenga un mínimo de 2 dificultades en total.
-Una distribución de dificultades «adecuada» *para dificultades Insane y más difíciles* se define como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) más bajos como se especifica en los [criterios de dificultades específicas](#dificultades-específicas).
+  - **... menos de 2:30**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Normal, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 4 dificultades en total.
+  - **... entre 2:30 y 3:15**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Hard, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 3 dificultades en total.
+  - **... entre 3:15 y 4:00**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Insane, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 2 dificultades en total.
 
 ### Pautas
 
@@ -202,3 +201,7 @@ Pautas adicionales para dificultades *Insane de 7 teclas*:
 
 - **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.60x y 1.10x.**
+
+## Notas
+
+[^proper-spread]: Una distribución de dificultades «adecuada» *para dificultades Insane y más difíciles* se define como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) más bajos como se especifica en los [criterios de dificultades específicas](#dificultades-específicas).
