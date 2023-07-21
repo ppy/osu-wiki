@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Руководства
 
 Здесь приведён список руководств за авторством разных игроков osu!. Большинство из этих статей было сперва опубликовано в отдельных темах на форуме osu!, а затем викифицировано.
@@ -14,7 +10,7 @@ no_native_review: true
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
 - [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#changing-title-text)
 - [Как изменить исполнителя или название карты](Changing_the_artist_or_title)
-- [Как начать маппинг-проект](Starting_a_beatmap_project)
+- [Как начать свой маппинг-проект?](Starting_a_beatmap_project)
 - [Как решить проблемы с BSS?](BSS_issues)
 - [Настройка оффсета и BPM](Setting_the_offset_on_the_correct_beat)
 - [Настройка тайминга](How_to_time_songs)
@@ -22,7 +18,7 @@ no_native_review: true
 - [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
 - [Скачивание видео с YouTube](Videos_from_YouTube)
-- [Список нестандартных хитсаундов](Custom_sample_overrides)
+- [Нестандартные хитсаунды](Custom_sample_overrides)
 - [Тайминг песен с размером такта #/8](Timing_songs_with_8-signatures)
 - [Теория музыки](/wiki/Music_theory)
 
@@ -30,7 +26,7 @@ no_native_review: true
 
 *Основная статья: [Моддинг](/wiki/Modding)*
 
-- [Как получить мод на свою карту](Getting_your_map_modded)
+- [Как найти моды на свою карту](Getting_your_map_modded)
 - [Руководство по моддингу в osu!mania](osu!mania_modding_guide)
 - [Частые ошибки в моддинге](Common_modding_mistakes)
 
@@ -53,5 +49,5 @@ no_native_review: true
 
 - [Discord Rich Presence](Discord_Rich_Presence)
 - [Как записать реплей в osu!](Recording_osu!)
-- [Как начать стримить osu!](Livestreaming_osu!)
+- [Как настроить стрим по osu!](Livestreaming_osu!)
 - [Решение проблем с OpenGL](OpenGL_support_issues)
