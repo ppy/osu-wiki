@@ -137,7 +137,7 @@ Ogni punto di tempo influenza una porzione specifica della mappa, comunemente ch
 - **`sampleIndex` (Integer):** Indice di campionamento personalizzato per gli oggetti hit. `0` indica gli hitsound predefiniti di osu!
 - **`volume` (Integer):** Percentuale di volume per gli oggetti hit.
 - **`uninherited` (0 o 1):** Se il punto di sincronizzazione è o meno non ereditato.
-- **`effects` (Integer):** Bit flag che conferiscono al punto di sincronizzazione effetti extra. Vedere [la sezione effetti](#Effects).
+- **`effects` (Integer):** Bit flag che conferiscono al punto di sincronizzazione effetti extra. Vedere [la sezione effetti](#effects).
 
 ### Effects
 
