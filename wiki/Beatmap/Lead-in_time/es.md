@@ -13,6 +13,6 @@ La **entrada** es la cantidad de tiempo que da el juego para que los jugadores r
 
 ## Comportamiento
 
-El tiempo de entrada mínimo utilizado automáticamente por osu! es de 1.8 segundos. Con la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) más baja de 0, esta es la cantidad de tiempo que un objeto es visible antes de que necesite ser golpeado. Cualquier [storyboard](/wiki/Storyboard) o video que se reproduzca antes del primer objeto puede extender el tiempo de entrada.
+El tiempo de entrada mínimo utilizado automáticamente por osu! es de 1.8 segundos. Con la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) más baja de 0, esta es la cantidad de tiempo que un objeto es visible antes de que necesite ser golpeado. Cualquier [storyboard](/wiki/Storyboard) o vídeo que se reproduzca antes del primer objeto puede extender el tiempo de entrada.
 
-El uso de una entrada personalizada es requerida para los [criterios de clasificación](/wiki/Ranking_Criteria#general) en caso de que el mapa contenga un aviso de epilepsia que cubra los primeros objetos.
+El uso de una entrada personalizada es requerida para los [criterios de clasificación](/wiki/Ranking_criteria#general) en caso de que el mapa contenga un aviso de epilepsia que cubra los primeros objetos.

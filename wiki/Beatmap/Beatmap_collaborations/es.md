@@ -12,7 +12,7 @@ tags:
 
 ## Descripción
 
-Las colaboraciones de mapas usualmente tienen la palabra «Collab» o varios nombres de usuario adjuntos al nombre de su dificultad o [descripción del mapa](/wiki/Beatmap/Beatmap_description), aunque no es un requisito estricto del [criterio de clasificación](/wiki/Ranking_Criteria). También es común que los colaboradores frecuentes inventen combinaciones de sus nombres de usuario[^name-example] y usarlos constantemente a lo largo de sus carreras de mapping.
+Las colaboraciones de mapas usualmente tienen la palabra «Collab» o varios nombres de usuario adjuntos al nombre de su dificultad o [descripción del mapa](/wiki/Beatmap/Beatmap_description), aunque no es un requisito estricto del [criterio de clasificación](/wiki/Ranking_criteria). También es común que los colaboradores frecuentes inventen combinaciones de sus nombres de usuario[^name-example] y usarlos constantemente a lo largo de sus carreras de mapping.
 
 El proceso de mapeo generalmente comienza con el [anfitrión del mapa](/wiki/Beatmap/Beatmap_host) dividiendo una plantilla de un mapa [pretemporizado](/wiki/Client/Beatmap_editor/Timelines) en varias partes marcándolas en la línea de tiempo usando marcadores de acuerdo con la estructura musical de la canción. Los segmentos relativamente largos, como los versos, generalmente se dividen cada 4 u 8 [compases](/wiki/Music_theory/Measure). Luego, estas partes se asignan a cada colaborador de acuerdo con alguna distribución acordada, como por segmentos pares o impares en el caso de dos mappers.
 

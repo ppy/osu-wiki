@@ -72,7 +72,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -ma
 
 Le débit binaire audio détermine en grande partie la taille du fichier audio. Vous pouvez utiliser [Audacity](https://www.audacityteam.org/) pour modifier le débit binaire de vos fichiers audio.
 
-Les [critères de classement](/wiki/Ranking_Criteria#audio) ont une règle qui stipule que tout ce qui a un débit moyen supérieur à 192 kbps n'est pas autorisé. En outre, tout ce qui est inférieur à 128 kbps est généralement considéré comme étant de faible qualité.
+Les [critères de classement](/wiki/Ranking_criteria#audio) ont une règle qui stipule que tout ce qui a un débit moyen supérieur à 192 kbps n'est pas autorisé. En outre, tout ce qui est inférieur à 128 kbps est généralement considéré comme étant de faible qualité.
 
 ### Utilisation de Audacity
 

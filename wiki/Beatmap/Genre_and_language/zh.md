@@ -14,7 +14,7 @@ tags:
 
 ![谱面展示页上歌曲风格、语言、标签的一张截图](img/beatmap-info.png "歌曲风格与语言都在谱面展示页上列出。")
 
-在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面[元数据](/wiki/Client/Beatmap_editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的一部分。
+在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面[元数据](/wiki/Client/Beatmap_editor/Song_setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的一部分。
 
 除了能在新版客户端 [(lazer 版)](/wiki/Client/Release_stream/Lazer)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
 
@@ -26,7 +26,7 @@ tags:
 
 ## 修改
 
-谱面的歌曲风格与语言能通过在谱面详情处悬停光标，并点击铅笔按钮来修改。修改权限取决于玩家所在的[用户组](/wiki/People/osu!_team#用户组)和[谱面状态](/wiki/Beatmap/Category#现有分类)：
+谱面的歌曲风格与语言能通过在谱面详情处悬停光标，并点击铅笔按钮来修改。修改权限取决于玩家所在的[用户组](/wiki/People/User_group)和[谱面状态](/wiki/Beatmap/Category#现有分类)：
 
 - 谱师可以在谱面处于[制作中 (WIP)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))、[待定 (Pending)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))、[坟场 (Graveyard)](/wiki/Beatmap/Category#坟场-(graveyard)) 状态，且并没有被[提名](/wiki/Beatmap_ranking_procedure#nominations)时修改。
 - [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 可以在谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-(qualified))、制作中 (WIP)、待定 (Pending) 状态时修改。

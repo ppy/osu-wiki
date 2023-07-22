@@ -26,6 +26,6 @@ In some instances, such as [AiMod](/wiki/Client/Beatmap_editor/AiMod), difficult
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ and above
 
-Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_Criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.
+Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.
 
 <!-- TODO: add Star rating calculation formula -->

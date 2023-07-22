@@ -18,25 +18,25 @@ Los mapas inactivos que han estado en esta categoría durante 4 semanas se mueve
 
 ### Calificados
 
-Calificado es la última etapa del [procedimiento de clasificación de mapas](/wiki/Beatmap_ranking_procedure). Estos mapas han sido nominados por al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el mapa cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_Criteria). Mapas puestos en Calificado ingresan a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente será [Clasificado](#clasificados) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones).
+Calificado es la última etapa del [procedimiento de clasificación de mapas](/wiki/Beatmap_ranking_procedure). Estos mapas han sido nominados por al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el mapa cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Mapas puestos en Calificado ingresan a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente será [Clasificado](#clasificados) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones).
 
 Los mapas calificados tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán cuando salga de Calificado. Utilizan el icono de visto (![](/wiki/shared/status/qualified.png)) en la pantalla de selección de canciones.
 
 ### Clasificados
 
-Los mapas clasificados están respaldados como contenido oficial, en el sentido de que han alcanzado o superado los estándares de los [criterios de clasificación](/wiki/Ranking_Criteria). Permiten a los jugadores competir en tablas de clasificación y ganar [puntos de rendimiento](/wiki/Performance_points) al establecer puntajes. Una vez que un mapa ha alcanzado el estado de clasificación, su estado no se puede modificar nuevamente (excepto en casos extraordinarios). Los mapas clasificados utilizan el icono de cheurón doble hacia arriba (![](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones.
+Los mapas clasificados están respaldados como contenido oficial, en el sentido de que han alcanzado o superado los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Permiten a los jugadores competir en tablas de clasificación y ganar [puntos de rendimiento](/wiki/Performance_points) al establecer puntajes. Una vez que un mapa ha alcanzado el estado de clasificación, su estado no se puede modificar nuevamente (excepto en casos extraordinarios). Los mapas clasificados utilizan el icono de cheurón doble hacia arriba (![](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones.
 
 ### Amados
 
 *Para conocer la historia de la categoría Amado, consulte: [Historia de Amado](/wiki/History_of_osu!/History_of_Loved)*
 
-Es posible que los mapas Amados no cumplan con los [criterios de clasificación](/wiki/Ranking_Criteria), pero son *amados* por la comunidad y, por lo tanto, se agregan regularmente en función de los votos de la comunidad en [Proyecto Amado](/wiki/Community/Project_Loved). Tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todos los puntajes se eliminarán si se mueve fuera de Amado (esto generalmente solo sucede a pedido del creador). Los mapas Amados usan el icono del corazón (![](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones.
+Es posible que los mapas Amados no cumplan con los [criterios de clasificación](/wiki/Ranking_criteria), pero son *amados* por la comunidad y, por lo tanto, se agregan regularmente en función de los votos de la comunidad en [Proyecto Amado](/wiki/Community/Project_Loved). Tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todos los puntajes se eliminarán si se mueve fuera de Amado (esto generalmente solo sucede a pedido del creador). Los mapas Amados usan el icono del corazón (![](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones.
 
 ## Historia
 
 ### Aprobados
 
-La categoría de mapas aprobados se usó entre 2008 y 2014 para albergar mapas que superaban los requisitos de longitud y puntuación máxima en versiones anteriores de los [criterios de clasificación](/wiki/Ranking_Criteria), así como mapas raros que infringían otras reglas sobre los criterios.
+La categoría de mapas aprobados se usó entre 2008 y 2014 para albergar mapas que superaban los requisitos de longitud y puntuación máxima en versiones anteriores de los [criterios de clasificación](/wiki/Ranking_criteria), así como mapas raros que infringían otras reglas sobre los criterios.
 
 Los mapas aprobados no afectaron la clasificación de puntuación de un usuario hasta poco después del cambio de la clasificación de puntuación a la clasificación de [puntos de rendimiento](/wiki/Performance_points). Después de este cambio, el estado Aprobado se usó exclusivamente para mapas con más de 6 minutos de [tiempo de drenaje](/wiki/Beatmap/Drain_time).
 

@@ -20,7 +20,7 @@ tags:
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/Osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
+*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/Osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
 
 ## Submisi
 
@@ -53,7 +53,7 @@ Beatmap yang diunggah akan dikelompokkan ke dalam salah satu kategori berikut, y
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Beberapa kategori mengharuskan beatmap untuk tunduk pada [syarat dan ketentuan tertentu](/wiki/Ranking_Criteria) dan memberikan beatmap [papan peringkatnya tersendiri](#papan-peringkat) baik secara sementara maupun permanen. Cara yang paling umum untuk memperoleh papan peringkat ini adalah dengan mengikuti [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure), sedangkan metode lainnya adalah dengan mendorong beatmap ke kategori [Loved](Category#loved).
+Beberapa kategori mengharuskan beatmap untuk tunduk pada [syarat dan ketentuan tertentu](/wiki/Ranking_criteria) dan memberikan beatmap [papan peringkatnya tersendiri](#papan-peringkat) baik secara sementara maupun permanen. Cara yang paling umum untuk memperoleh papan peringkat ini adalah dengan mengikuti [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure), sedangkan metode lainnya adalah dengan mendorong beatmap ke kategori [Loved](Category#loved).
 
 ## Mengunduh beatmap
 

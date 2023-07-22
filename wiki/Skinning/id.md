@@ -5,7 +5,7 @@ hampir tidak mungkin untuk dimainkan.
                                                        
 ## Skinning sets
 
-*Halaman utama: [Daftar Set Skin](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Halaman utama: [Daftar Set Skin](/wiki/Ranking_criteria/Skin_set_list)*
 
 **Hanya untuk beatmap,** jika skin beatmap kamu berisi elemen tunggal dari daftar set di Ranking Criteria, maka harus mengandung beberapa elemen yang lain dalam membuat skin. Hal ini hanya berlaku untuk skin beatmap, tapi untuk beberapa pembuat skin mungkin dapat mempertimbangkan daftar itu juga.
                            

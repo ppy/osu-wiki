@@ -3,7 +3,7 @@ tags:
   - FA
   - фа
 outdated_translation: true
-outdated_since: 608183677c431e44b67eceaf72a2f71c9032fac5
+outdated_since: a7eddce3dec337cee2c62d5a14a0370b827d36cb
 ---
 
 # Featured Artists
@@ -16,7 +16,7 @@ outdated_since: 608183677c431e44b67eceaf72a2f71c9032fac5
 
 Иногда выбор косвенно делает сообщество. Если карты на песни какого-то исполнителя ранкаются и становятся достаточно популярными, то [команда osu!](/wiki/People/osu!_team) может связаться с ним и предложить заключить контракт. Исполнителя могут пригласить для участия в программе Featured Artists и по другим причинам, например, исходя из его ожидаемой популярности среди мапперов.
 
-На большинство песен из базы Featured Artist у osu! есть неэксклюзивные права. Изредка исполнители пишут музыку специально для osu!: в таких случаях около песен стоит пометка *osu! exclusive*.
+На большинство песен из базы Featured Artists у osu! есть неэксклюзивные права. Изредка исполнители пишут музыку специально для osu!: в таких случаях около песен стоит пометка *osu! exclusive*.
 
 Если вы пишете музыку и хотите попасть в программу Featured Artists, см. [Лицензирование музыки для osu!](/wiki/Legal/Music_licensing).
 
@@ -37,10 +37,10 @@ outdated_since: 608183677c431e44b67eceaf72a2f71c9032fac5
 
 ## Применение в сообществе
 
-При создании карт рекомендуется использовать базу Featured Artist. Все загруженные туда песни уже [затаймлены](/wiki/Client/Beatmap_editor/Timing) и разрешены к использованию в osu!, их можно мапать, не беспокоясь о последствиях. Замапанные песни также будут особым образом помечены в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), новом игровом клиенте osu!.
+При создании карт рекомендуется использовать базу Featured Artists. Все загруженные туда песни уже [затаймлены](/wiki/Client/Beatmap_editor/Timing) и разрешены к использованию в osu!, их можно мапать, не беспокоясь о последствиях. Замапанные песни также будут особым образом помечены в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), новом игровом клиенте osu!.
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 
-Для популяризации программы Featured Artist был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/).
+Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server).
 
 Если вы обнаружили какие-то ошибки в затаймленных файлах `.osz` из базы Featured Artists, пожалуйста, сообщите о них в [специальном треде](https://osu.ppy.sh/community/forums/topics/783985).

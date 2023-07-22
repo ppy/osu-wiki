@@ -7,7 +7,7 @@ outdated_since: 1b5403b0be44652b95ae8edbab1f76b09bfb8b38
 
 *Lihat juga: [panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Administrator
 
@@ -31,7 +31,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 
 Di GitHub, pull request dan *issue* dapat ditandai dan diklasifikasikan dengan menggunakan [label](https://github.com/ppy/osu-wiki/labels), yang menunjukkan aspek berbeda dari pull request atau *issue*. Label bersifat informasional, ditetapkan oleh pengelola wiki, dan biasanya cukup jelas. Meskipun tidak memerlukan tindakan dari sudut pandang pengguna, label merah berfungsi sebagai pengingat atau ajakan bertindak untuk pengelola lainnya:
 
-- `rule change`: perubahan memengaruhi seperangkat aturan yang ada, seperti [kriteria ranking](/wiki/Ranking_Criteria), dan perlu ditinjau oleh pemilik area
+- `rule change`: perubahan memengaruhi seperangkat aturan yang ada, seperti [kriteria ranking](/wiki/Ranking_criteria), dan perlu ditinjau oleh pemilik area
 - `blocked`: perubahan memiliki masalah yang harus diselesaikan sebelum melanjutkan, atau tergantung pada masalah lain yang harus diselesaikan terlebih dahulu
 - `needs native review`: terjemahan perlu diperiksa oleh orang yang fasih dalam bahasa masing-masing; sebagai alternatif, selama proses penggabungan itu berarti tidak ada tinjauan seperti itu yang terjadi
 - `needs rebase`: pull request memiliki terlalu banyak *commit* kecil yang tidak terstruktur, yang perlu di-*rebase* dan disusun dengan cara yang lebih baik; ini biasanya dilakukan oleh pengelola tepat sebelum penggabungan
@@ -74,13 +74,13 @@ Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi 
 
 *Catatan: situs web [status osu-wiki](https://osu.wiki/status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
-Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ### Terjemahan
 
 *Untuk daftar terjemahan dan kelengkapannya, lihat: [status osu-wiki](https://osu.wiki/status/en)*
 
-osu! wiki dibaca oleh orang-orang dari seluruh dunia. Untuk membantu komunitas lokal kamu dan menarik pemain, *mapper*, *modder*, dan pengembang baru yang luar biasa ke dalam game, Kamu dapat menerjemahkan artikel bahasa Inggris, atau memperbarui terjemahan yang ada yang tertinggal. Periksa [daftar bahasa](/wiki/Article_styling_criteria/Formatting#locales) yang didukung oleh osu! wiki, dan pastikan terjemahanmu mengikuti prinsip [paritas konten](/wiki/Article_styling_criteria/Writing#content-parity). Jika kamu seorang pembicara yang fasih dan penulis berpengalaman, ambil topik utama seperti artikel tentang [aturan](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) atau [kriteria ranking](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Jika kamu baru memulai karir menulis kamu, pilih artikel kecil untuk menerima bantuan dan bimbingan dari pengulas dan penutur bahasa asli.
+osu! wiki dibaca oleh orang-orang dari seluruh dunia. Untuk membantu komunitas lokal kamu dan menarik pemain, *mapper*, *modder*, dan pengembang baru yang luar biasa ke dalam game, Kamu dapat menerjemahkan artikel bahasa Inggris, atau memperbarui terjemahan yang ada yang tertinggal. Periksa [daftar bahasa](/wiki/Article_styling_criteria/Formatting#locales) yang didukung oleh osu! wiki, dan pastikan terjemahanmu mengikuti prinsip [paritas konten](/wiki/Article_styling_criteria/Writing#content-parity). Jika kamu seorang pembicara yang fasih dan penulis berpengalaman, ambil topik utama seperti artikel tentang [aturan](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) atau [kriteria ranking](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). Jika kamu baru memulai karir menulis kamu, pilih artikel kecil untuk menerima bantuan dan bimbingan dari pengulas dan penutur bahasa asli.
 
 Terjemahan dapat digabungkan tanpa ulasan dari penutur bahasa asli jika sudah lebih dari dua minggu sejak tanggal pembuatannya.
 

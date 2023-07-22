@@ -576,12 +576,12 @@ Keys: 5
   - Notes:
     - This value is forced, if defined.
     - `0` = no splitting / forced SP
-    - Each keycount higher than 1 can be splitted (or merged, if count is higher than 9).
+    - Each keycount higher than 1 can be split (or merged, if count is higher than 9).
 - `StageSeparation:`
-  - Question: What distance should the 2 stages have when splitted?
+  - Question: What distance apart should the 2 stages be when split?
   - Value: *number*
   - Default: `40`
-  - Notes: The distance of the two stages, if split.
+  - Notes: The distance between the two stages, if split.
 - `SeparateScore:`
   - Question: Should the hitburst only be shown on the stage it was scored on?
   - Value: `0` or `1`

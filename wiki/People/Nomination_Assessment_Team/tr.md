@@ -11,7 +11,7 @@ tags:
 
 NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri vardır ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
 
-**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Sorumluluklar
 
@@ -20,7 +20,7 @@ NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt 
 NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
 - **Değerlendirme:** Mevcut Beatmap Aday Göstericilerin ve adayların yeterliliklerini ve aktivitelerini değerlendirme. NAT üyelerinin çoğu bu alt kategorinin iştirakından sorumludur.
-- **Yapısal:** Derecelendirme sürecini çerçeveleyen konuları belgeleme, kuralları ve yönergeleri [derecelendirme kriterleri](/wiki/Ranking_Criteria) doğrultusunda değiştirme, ilgili araçları ve web sayfalarını geliştirme ve sürdürme.
+- **Yapısal:** Derecelendirme sürecini çerçeveleyen konuları belgeleme, kuralları ve yönergeleri [derecelendirme kriterleri](/wiki/Ranking_criteria) doğrultusunda değiştirme, ilgili araçları ve web sayfalarını geliştirme ve sürdürme.
 - **Moderasyon:** Kullanıcı raporlarını işleme alma ve Beatmap Aday Göstericilerin uygunsuz davranışlarını denetleme. Bu alt kategori NAT ve GMT arası ortak bir çalışmadır.
 - **Haberleşme:** Toplantıların oluşturulması ve sunulması dahil, NAT ve mapping/modding topluluğu arasında şeffaflığı kurma.
 
@@ -42,19 +42,19 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 *Not: Tüm NAT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
 
-[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
+[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_content_considerations#resminizin-değerlendirilmesi) rol oynar.
 
 ### osu!
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Çince | Evaluation, structural |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Evaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce | Evaluation |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Felemenkçe | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Evaluation, structural |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Structural |
@@ -71,7 +71,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Evaluation |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Leadership |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portekizce | Evaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
@@ -87,7 +86,14 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Evaluation |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca | Evaluation |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Çince | Evaluation |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korece | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Evaluation |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danca | Evaluation |
+
+### Bot hesaplar
+
+| İsim | Ek diller | Birincil sorumluluklar |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

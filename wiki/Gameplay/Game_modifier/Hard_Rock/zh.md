@@ -13,7 +13,7 @@ tags:
 
 ![HR 模组图标](/wiki/shared/mods/HR.png "Hard Rock (HR) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -29,7 +29,7 @@ tags:
 
 ## 说明
 
-**Hard Rock** [游戏模组](/wiki/Game_modifier)旨在增加[谱面](/wiki/Beatmap)各方面的难度。普遍来说，此模组将[圆圈大小 (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size)增加 30%，将[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)、[掉血速度 (HP)](/wiki/Beatmapping/Health_drain)、[总体难度 (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty)增加 40%。具体情况因不同游戏模式而异。
+**Hard Rock** [游戏模组](/wiki/Gameplay/Game_modifier)旨在增加[谱面](/wiki/Beatmap)各方面的难度。普遍来说，此模组将[圆圈大小 (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size)增加 30%，将[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[掉血速度 (HP)](/wiki/Gameplay/Health)、[总体难度 (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty)增加 40%。具体情况因不同游戏模式而异。
 
 ### osu!
 
@@ -41,9 +41,9 @@ tags:
 
 ### osu!taiko
 
-在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中此模组增加[滑条速率](/wiki/Hit_object/Slider_velocity)与[总体难度 (OD)](/wiki/Beatmapping/Overall_difficulty)。由于只有此模组无需背谱，在增加难度基础上也无需极快的打击速度，它被公认为 osu!taiko 中使用最普遍的模组。
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中此模组增加[滑条速率](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)与[总体难度 (OD)](/wiki/Beatmap/Overall_difficulty)。由于只有此模组无需背谱，在增加难度基础上也无需极快的打击速度，它被公认为 osu!taiko 中使用最普遍的模组。
 
-由于 OD 值增加，完成转盘所需打击数也增加。因此，osu!taiko 中使用此模组可获得的最高分大于使用 [Hidden](/wiki/Game_modifier/Hidden) 模组所得分。
+由于 OD 值增加，完成转盘所需打击数也增加。因此，osu!taiko 中使用此模组可获得的最高分大于使用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组所得分。
 
 然而，由于转盘中每一次击鼓都会得 300 分（甚至小于 `GREAT` 与 `GOOD` 判定间的得分差距，在 100x 及以上连击数时是 550 分），在大多数情况下这并不明显。
 
@@ -61,14 +61,14 @@ tags:
 
 在 [osu!mania](/wiki/Game_mode/osu!mania) 中，掉血速度会增加 40%，计时窗口值会严格约 29%。尽管显示 AR 值增加，也不会影响游玩。
 
-若要计算使用 HR 模组后的计时窗口，需要将[原始计时窗口值](/wiki/Beatmapping/Overall_difficulty)除以 1.4。无论 OD 值如何，彩 300（最高分）的计时窗口值都固定为 ±11.43 毫秒。
+若要计算使用 HR 模组后的计时窗口，需要将[原始计时窗口值](/wiki/Beatmap/Overall_difficulty)除以 1.4。无论 OD 值如何，彩 300（最高分）的计时窗口值都固定为 ±11.43 毫秒。
 
-请注意，在 [ScoreV2](/wiki/Game_modifier/ScoreV2) 中的计算方法与之不同。
+请注意，在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 中的计算方法与之不同。
 
 ## 杂项
 
 - Hard Rock 模组得名于 [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS) 游戏“[Elite Beat Agents](/wiki/iNiS_games)”中的最大难度。
-- 此模组会禁用 [Easy](/wiki/Game_modifier/Easy) 模组，反之亦然。
+- 此模组会禁用 [Easy](/wiki/Gameplay/Game_modifier/Easy) 模组，反之亦然。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

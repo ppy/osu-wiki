@@ -9,7 +9,7 @@ tags:
 
 ![Una captura de pantalla del género, el idioma y las etiquetas en una página de beatmap](img/beatmap-info-ES.png "El género y el idioma se indican en la página del mapa.")
 
-Los [mapas](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) de un mapa.
+Los [mapas](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) de un mapa.
 
 El género y el idioma no tienen ninguna función en el juego, pero estarán disponibles como opciones de búsqueda en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
@@ -21,7 +21,7 @@ El [listado de mapas](https://osu.ppy.sh/beatmapsets) tiene filtros disponibles 
 
 ## Cambiar el género y el idioma de un mapa
 
-El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un mapa. La capacidad para hacerlo está determinada por el [grupo del usuarios](/wiki/People/osu!_team#user-groups) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del mapa:
+El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un mapa. La capacidad para hacerlo está determinada por el [grupo del usuarios](/wiki/People/User_group) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del mapa:
 
 - Los propietarios de los conjuntos de mapas están permitidos cuando el mapa está en la categoría [Trabajo en progreso](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), o [Abandonado](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
 - Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el mapa está en la categoría [Calificado](/wiki/Beatmap/Category#calificados), Trabajo en progreso, o Pendiente.

@@ -19,7 +19,7 @@ Da es sich um ein Rhythmusspiel handelt, sind alle von osu! von Nutzern eingerei
 
 Benutzer können Level in der [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) suchen und herunterladen, indem sie den Künstler eines Songs, den Titel oder andere relevante Informationen eingeben. Die meisten Level zum Herunterladen enthalten einen Song, von Benutzern erstellte Level-Daten, ein Hintergrundbild und Gameplay-Soundeffekte.
 
-Beim Einreichen von Leveln werden Ersteller gebeten, eine Erlaubnis für alle Inhalte von den jeweiligen Rechteinhabern gemäß unseren [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) einzuholen.
+Beim Einreichen von Leveln werden Ersteller gebeten, eine Erlaubnis für alle Inhalte von den jeweiligen Rechteinhabern gemäß unseren [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_usage_guidelines) einzuholen.
 
 ## Lizenzbedingungen für Featured Artists
 

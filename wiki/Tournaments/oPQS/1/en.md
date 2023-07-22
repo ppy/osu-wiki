@@ -13,7 +13,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 
 ## Tournament schedule
 
-### 2022-07-23 (Day 1)
+### 2022-07-23 (day 1)
 
 | Event | Timestamp |
 | --: | :-- |
@@ -23,7 +23,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 | Semifinals | 16:00 - 17:00 (UTC+08) |
 | Finals | 17:00 (UTC+08) |
 
-### 2022-07-24 (Day 2)
+### 2022-07-24 (day 2)
 
 | Event | Timestamp |
 | --: | :-- |
@@ -66,8 +66,8 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
 ## Links
 
 - [News article](https://osu.ppy.sh/home/news/2022-07-21-osu-philippines-conquest-ph-2022)
-- [Challonge brackets (Day 1)](https://challonge.com/oPQS_Day1)
-- [Challonge brackets (Day 2)](https://challonge.com/oPQS_Day2)
+- [Challonge brackets (day 1)](https://challonge.com/oPQS_Day1)
+- [Challonge brackets (day 2)](https://challonge.com/oPQS_Day2)
 - [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
@@ -112,7 +112,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-### 2022-07-23 (Day 1)
+### 2022-07-23 (day 1)
 
 | Placing | Player |
 | :-: | :-- |
@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [rexralph1](https://osu.ppy.sh/users/18499824) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [xXCraigyxD28Xx](https://osu.ppy.sh/users/14916935) |
 
-### 2022-07-24 (Day 2)
+### 2022-07-24 (day 2)
 
 | Placing | Player |
 | :-: | :-- |
@@ -128,7 +128,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [RnJn](https://osu.ppy.sh/users/11580827) |
 
-## Mappool (Day 1)
+## Mappools (day 1)
 
 ### Finals
 
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) [Nyquilfj's Extra]](https://osu.ppy.sh/beatmapsets/720294#osu/1806995)**
 
-## Mappool (Day 2)
+## Mappools (day 2)
 
 ### Finals
 
@@ -278,44 +278,6 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Day 1
-
-#### Finals
-
-| Player 1 | | | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| rexralph1 | 0 | **3** | **Revillica** | [#1](https://osu.ppy.sh/community/matches/102495355) |
-| Awper | 0 | **3** | **xXCraigyxD28Xx** | [#1](https://osu.ppy.sh/community/matches/102495115) |
-
-#### Semifinals
-
-| Player 1 | | | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **rexralph1** | **3** | 2 | Awper | [#1](https://osu.ppy.sh/community/matches/102494079) |
-| **Revillica** | **3** | 1 | xXCraigyxD28Xx | [#1](https://osu.ppy.sh/community/matches/102494726) |
-
-#### Quarterfinals
-
-| Player 1 | | | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| -Hanamaru- | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102493377) |
-| **Awper** | **2** | 0 | 2 and eight | *forfeit* |
-| **Revillica** | **2** | 0 | Leehi | [#1](https://osu.ppy.sh/community/matches/102493628) |
-| **xXCraigyxD28Xx** | **2** | 0 | NathanSS | [#1](https://osu.ppy.sh/community/matches/102493884) |
-
-#### Round of 16
-
-| Player 1 | | | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **-Hanamaru-** | **2** | 0 | [Vik] | [#1](https://osu.ppy.sh/community/matches/102490622) |
-| Buizie | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102491171) |
-| **Awper** | **2** | 1 | Autard_Diab | [#1](https://osu.ppy.sh/community/matches/102491617) |
-| vincent4399 | 0 | **2** | **2 and eight** | [#1](https://osu.ppy.sh/community/matches/102492011) |
-| Random328 | 0 | **2** | **Revillica** | *forfeit* |
-| **Leehi** | **2** | 1 | MarvelWizardKH | [#1](https://osu.ppy.sh/community/matches/102492332) |
-| **xXCraigyxD28Xx** | **2** | 1 | Danimato | [#1](https://osu.ppy.sh/community/matches/102492744) |
-| Takow | 0 | **2** | **NathanSS** | [#1](https://osu.ppy.sh/community/matches/102492940) |
-
 ### Day 2
 
 #### Finals
@@ -353,6 +315,44 @@ This competition has come to an end and resulted in the following podium:
 | Makir0 | 0 | **2** | **Pillows** | [#1](https://osu.ppy.sh/community/matches/102518974) |
 | CasualHexagons | 1 | **2** | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102518936) |
 | **MerpyXD** | **2** | 0 | mechadoodle | [#1](https://osu.ppy.sh/community/matches/102519815) |
+
+### Day 1
+
+#### Finals
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| rexralph1 | 0 | **3** | **Revillica** | [#1](https://osu.ppy.sh/community/matches/102495355) |
+| Awper | 0 | **3** | **xXCraigyxD28Xx** | [#1](https://osu.ppy.sh/community/matches/102495115) |
+
+#### Semifinals
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **rexralph1** | **3** | 2 | Awper | [#1](https://osu.ppy.sh/community/matches/102494079) |
+| **Revillica** | **3** | 1 | xXCraigyxD28Xx | [#1](https://osu.ppy.sh/community/matches/102494726) |
+
+#### Quarterfinals
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Hanamaru- | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102493377) |
+| **Awper** | **2** | 0 | 2 and eight | *forfeit* |
+| **Revillica** | **2** | 0 | Leehi | [#1](https://osu.ppy.sh/community/matches/102493628) |
+| **xXCraigyxD28Xx** | **2** | 0 | NathanSS | [#1](https://osu.ppy.sh/community/matches/102493884) |
+
+#### Round of 16
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **-Hanamaru-** | **2** | 0 | [Vik] | [#1](https://osu.ppy.sh/community/matches/102490622) |
+| Buizie | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102491171) |
+| **Awper** | **2** | 1 | Autard_Diab | [#1](https://osu.ppy.sh/community/matches/102491617) |
+| vincent4399 | 0 | **2** | **2 and eight** | [#1](https://osu.ppy.sh/community/matches/102492011) |
+| Random328 | 0 | **2** | **Revillica** | *forfeit* |
+| **Leehi** | **2** | 1 | MarvelWizardKH | [#1](https://osu.ppy.sh/community/matches/102492332) |
+| **xXCraigyxD28Xx** | **2** | 1 | Danimato | [#1](https://osu.ppy.sh/community/matches/102492744) |
+| Takow | 0 | **2** | **NathanSS** | [#1](https://osu.ppy.sh/community/matches/102492940) |
 
 ## Ruleset
 

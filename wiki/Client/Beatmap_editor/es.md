@@ -1,14 +1,46 @@
 ---
-outdated_translation: true
+no_native_review: true
 ---
 
-# Editor de Beatmap
+# Editor de beatmaps
 
-![Compose editor de osu! (Pantalla Completa)](Compose/img/Compose-ES.jpg "Compose editor de osu! (Pantalla Completa)")
+![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose.jpg)
 
-El **beatmap editor** (editor de beatmap) es una interfaz gráfica en osu! que sirve para crear [beatmaps](/wiki/Beatmap). Está separado en 4 modos:
+*Para atajos de teclado del editor de beatmaps, véase: [Referencia de atajos de teclado § Editor de beatmaps](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
 
-- [Compose](Compose) (Componer): Aquí es donde los [hit objects](/wiki/Gameplay/Hit_object) son puestos y editados. La mayoría del tiempo empleado en el editor pasa aquí.
-- [Design](Design) (Diseño): Aquí es donde el [storyboard](/wiki/Storyboard) es hecho. La mayoría de los [mappers](/wiki/Beatmapping) solo usan el botón "Background Image/Video" aquí.
-- [Timing](Timing) (Tempo): Aquí es donde el [BPM](Timing) y el [offset](/wiki/Offset) de la canción son ingresados. Esta ventana también controla los [hitsounds](/wiki/Beatmapping/Hitsound) si estos no son constantes a lo largo del beatmap.
-- [Song Setup](Song_Setup) (Configuración de la Canción): Aquí es donde una variedad de opciones respecto al beatmap son establecidas. Esto incluye los colores del combo y la configuración de la dificultad.
+El **editor de beatmaps** es la interfaz gráfica del juego de osu! para crear [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) es el acto de crear beatmaps para osu!.
+
+El editor de beatmaps está dividido en cuatro secciones principales que se pueden ver en la esquina superior izquierda del editor:
+
+- Compose
+- Design
+- Timing
+- Song setup
+
+## Compose
+
+[Compose](/wiki/Client/Beatmap_editor/Compose) es donde se crean todos los [objetos](/wiki/Gameplay/Hit_object) y otros elementos relacionados con el juego. La mayoría de los mappers pasan más tiempo en esta pestaña que en todas las demás debido a esto.
+
+## Design
+
+[Design](/wiki/Client/Beatmap_editor/Design) ofrece una forma de hacer [storyboards](/wiki/Storyboard), los efectos visuales que acompañan a los beatmaps. Debido a que los storyboards a menudo tienen efectos complejos que justifican el uso de muchos comandos de storyboards, los mappers también usan [secuencias de comandos de storyboards](/wiki/Storyboard/Scripting) directamente sin ingresar a la pestaña design.
+
+## Timing
+
+[Timing](/wiki/Client/Beatmap_editor/Timing) administra las secciones de tiempo de una canción y controla los hitsounds de un beatmap. Esto es esencial ya que un beatmap necesita una temporización correcta y el feedback adecuado para hacer coincidir la experiencia de juego con el ritmo de una canción.
+
+## Song setup
+
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) completa los [metadatos](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) de un beatmap y otras cosas universales para un [beatmap](/wiki/Beatmap). Esto incluye el título de una canción, el artista, el nombre de la dificultad, los colores de combo, etc.
+
+## Otros
+
+Otros componentes del editor de beatmaps incluyen:
+
+- [AiMod](AiMod): Un sistema automatizado que informa problemas en un beatmap
+- [Divisor de ritmo](Beat_Snap_Divisor): Determina cómo los objetos se ajustan a la línea de tiempo
+- [Distance snap](Distance_snap): El multiplicador que afecta qué tan cerca o lejos se colocan los objetos entre sí
+- [Kiai time](/wiki/Gameplay/Kiai_time): Secciones de temporización especiales que ayudan a enfatizar una parte de un beatmap
+- [Menú](Menu): Te ayuda a navegar por el editor de beatmaps
+- [Carga del SB](SB_Load): Un número que se usa para indicar qué tan exigente es un storyboard
+- [Líneas de tiempo](Timelines): Muestra objetos colocados, descansos y más

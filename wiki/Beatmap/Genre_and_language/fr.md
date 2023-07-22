@@ -10,7 +10,7 @@ tags:
 
 ![Une capture d'écran du genre, de la langue et des tags sur une page de beatmap.](img/beatmap-info-FR.png "Le genre et la langue sont indiqués sur les pages des beatmap.")
 
-Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les musiques. Ils sont considérés comme faisant partie des [métadonnées](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) d'une beatmap.
+Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les musiques. Ils sont considérés comme faisant partie des [métadonnées](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps) d'une beatmap.
 
 Le genre et la langue n'ont pas de fonction dans le jeu, mais seront disponibles comme options de recherche dans [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
@@ -22,7 +22,7 @@ La [liste des beatmaps](https://osu.ppy.sh/beatmapsets) dispose de filtres pour 
 
 ## Changer le genre et la langue d'une beatmap
 
-Le genre et la langue peuvent être modifiés sur le site Web en cliquant sur l'icône en forme de crayon lorsque vous survolez les détails d'une beatmap. Cette possibilité est déterminée par les [groupes d'utilisateurs](/wiki/People/osu!_team#groupes-d'utilisateurs) et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
+Le genre et la langue peuvent être modifiés sur le site Web en cliquant sur l'icône en forme de crayon lorsque vous survolez les détails d'une beatmap. Cette possibilité est déterminée par les [groupes d'utilisateurs](/wiki/People/User_group) et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
 
 - Les propriétaires de beatmaps sont autorisés lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#work-in-progress-et-en-attente), [en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente), ou [cimetière](/wiki/Beatmap/Category#cimetière), et n'a pas de [nominations](/wiki/Beatmap_ranking_procedure#nominations).
 - Les membres de la [Beatmap Nominators](/wiki/People/Beatmap_Nominators) sont autorisés lorsque la beatmap se trouve dans les catégories [qualifiée](/wiki/Beatmap/Category#qualifiée), WIP, ou en attente.

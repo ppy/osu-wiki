@@ -9,7 +9,7 @@ tags:
 
 ![A screenshot of genre, language, and tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
-[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata).
+[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata).
 
 Genre and language have no function in the game, but will be available as search options in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
@@ -21,7 +21,7 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 ## Changing a beatmap's genre and language
 
-Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/osu!_team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
+Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/User_group) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
 
 - Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any [nominations](/wiki/Beatmap_ranking_procedure#nominations).
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmap/Category#qualified), WIP, or Pending categories.
