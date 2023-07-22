@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Summer 2023"
-date: 2023-07-22 11:00:00 +0000
+date: 2023-07-22 14:00:00 +0000
 ---
 
 Ever considered mapping **100** songs at once? Hopefully not, but that's about how many new songs are part of our Featured Artist library.
@@ -80,7 +80,7 @@ If that's not convincing already, you may need to reconsider your preferences.
 
 [![](https://assets.ppy.sh/artists/240/header.jpg)](https://osu.ppy.sh/beatmaps/artists/240)
 
-**Good Kid**'s third EP of hype-filled upbeat rock was released earlier this year (aptly titiled *Good Kid 3*). Since all of their already-licensed songs are already mapped, it only made sense for us to snag **4** of their new tunes.
+**Good Kid**'s third EP of hype-filled upbeat rock was released earlier this year (aptly titled *Good Kid 3*). Since all of their already licensed songs are already mapped, it only made sense for us to snag **4** of their new tunes.
 
 ### Good Kid - Down With The King
 
@@ -152,7 +152,7 @@ Another one of our founding Featured Artists, **KOAN Sound**, is back with **2**
 
 [![](https://assets.ppy.sh/artists/252/header.jpg)](https://osu.ppy.sh/beatmaps/artists/252)
 
-**my sound life** is a side-project of [**solfa**](https://osu.ppy.sh/beatmaps/artists/207), a legend in the realm of visual novel tracks. We've picked up **2** more songs for their listing, including the classic [re:construction](https://osu.ppy.sh/beatmapsets/119431) mapped by [hoLysoup](https://osu.ppy.sh/users/160558) over 10 years ago!
+**my sound life** is a side project of [**solfa**](https://osu.ppy.sh/beatmaps/artists/207), a legend in the realm of visual novel tracks. We've picked up **2** more songs for their listing, including the classic [re:construction](https://osu.ppy.sh/beatmapsets/119431) mapped by [hoLysoup](https://osu.ppy.sh/users/160558) over 10 years ago!
 
 ### my sound life - re:construction
 
@@ -249,7 +249,7 @@ If you thought this was a lot of songs for an individual artist's catalogue upda
 
 [![](https://assets.ppy.sh/artists/138/header.jpg)](https://osu.ppy.sh/beatmaps/artists/138)
 
-Following the release of their latest album *BloodLine*, the composer behind [the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686) is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by [P_O](https://osu.ppy.sh/users/831979)!
+Following the release of their latest album *BloodLine*, the composer behind "[the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686)" is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by [P_O](https://osu.ppy.sh/users/831979)!
 
 ### seleP - Luna: GABBA SIDE
 
@@ -273,7 +273,7 @@ Following the release of their latest album *BloodLine*, the composer behind [th
 
 [![](https://assets.ppy.sh/artists/207/header.jpg)](https://osu.ppy.sh/beatmaps/artists/207)
 
-So uh. This has never happened before. We're adding **over 50** to **solfa**'s library, nearly *tripling* their tracklist, including a bunch of songs with ranked maps that we couldn't pick up before!
+So uh. This has never happened before. We're adding **over 50** to **solfa**'s library, nearly *tripling* their tracklist, including a bunch of songs with Ranked maps that we couldn't pick up before!
 
 If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* or *Koharu Meu* ring a bell (which they obviously do), that means it's time to load up the editor:
 
@@ -398,7 +398,7 @@ If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* o
 
 [![](https://assets.ppy.sh/artists/16/header.jpg)](https://osu.ppy.sh/beatmaps/artists/16)
 
-Featured Artist veteran **Wisp X** strikes back with **3** more tracks! These chill tunes are a divergence from the usual hyper-intense rhythm game track, like [Coffee](https://osu.ppy.sh/beatmapsets/733211) hosted by [Xinnoh](https://osu.ppy.sh/users/4236057). If that sounds like your style, you're in luck.
+Featured Artist veteran **Wisp X** strikes back with **3** more tracks! These chill tunes are a divergence from the usual hyperintense rhythm game track, like [Coffee](https://osu.ppy.sh/beatmapsets/733211) hosted by [Xinnoh](https://osu.ppy.sh/users/4236057). If that sounds like your style, you're in luck.
 
 ### Wisp X - Coffee
 
