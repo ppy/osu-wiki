@@ -1,8 +1,8 @@
-# .osu (formato di file)
+# .osu (file format)
 
 **`.osu`** è un formato di file leggibile dall'uomo contenente informazioni su una beatmap.
 
-## Struttura
+## Structure
 
 La prima riga del file specifica la versione del formato del file. Ad esempio, `osu file format v14` è la versione più recente.
 
@@ -19,7 +19,7 @@ Il contenuto seguente è separato in sezioni, indicate dai titoli delle sezioni 
 | `[Colours]` | Colori della combo e della skin | Coppie `key : value` |
 | `[HitObjects]` Oggetti colpiti | Elenchi separati da virgole |
 
-## Generale
+## General
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
 
@@ -83,7 +83,7 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 | `SliderMultiplier` | Decimale | Velocità base dello slider in centinaia di [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) per battuta |
 | `SliderTickRate` | Decimale | Quantità di ticchettii dello slider per battuta |
 
-## Eventi
+## Events
 
 *Sintassi dell'evento:* `eventType,startTime,eventParams`
 
@@ -91,14 +91,14 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 - **`startTime` (Integer):** Tempo di inizio dell'evento, in millisecondi dall'inizio dell'audio della beatmap. Per gli eventi che non utilizzano un tempo di inizio, il valore predefinito è `0`.
 - **`eventParams` (elenco separato da virgole):** Parametri extra specifici del tipo di evento.
 
-### Sfondi
+### Background
 
 *Sintassi degli sfondi:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (Stringa):** Posizione dell'immagine di sfondo relativa alla directory della beatmap. Di solito il nome del file è circondato da doppi apici, ma non sono obbligatori.
 - **`xOffset` (Integer)** e **`yOffset` (Integer):** Offset in [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) dal centro dello schermo. Ad esempio, un offset di `50,100` fa sì che lo sfondo venga mostrato 50 osu! pixel a destra e 100 osu! pixel in basso dal centro dello schermo. Se l'offset è `0,0`, la sua scrittura è facoltativa.
 
-### Video
+### Videos
 
 *Sintassi del video:* `Video,startTime,filename,xOffset,yOffset`.
 
@@ -106,7 +106,7 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 
 - **`filename` (String)**, **`xOffset` (Integer)** e **`yOffset` (Integer)** si comportano esattamente come negli sfondi.
 
-### Interruzioni
+### Breaks
 
 *Sintassi delle interruzioni:* `2,startTime,endTime`
 
@@ -114,7 +114,7 @@ Queste opzioni sono rilevanti solo quando si aprono le mappe nell'[editor delle 
 
 - **`endTime` (Integer):** Tempo di fine del break, in millisecondi dall'inizio dell'audio della beatmap.
 
-### Storyboard
+### Storyboards
 
 *Per informazioni sulla sintassi degli storyboard, vedere [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
@@ -122,7 +122,7 @@ Gli storyboard possono essere definiti in un file storyboard opzionale separato 
 
 Ogni beatmap può contenere il proprio storyboard specifico per ogni difficoltà, insieme allo storyboard esterno o da solo.
 
-## Punti di Tempo
+## Timing points
 
 Ogni punto di tempo influenza una porzione specifica della mappa, comunemente chiamata "sezione di cronometraggio". Il formato del file `.osu` richiede che siano ordinati in ordine cronologico.
 
@@ -139,7 +139,7 @@ Ogni punto di tempo influenza una porzione specifica della mappa, comunemente ch
 - **`uninherited` (0 o 1):** Se il punto di sincronizzazione è o meno non ereditato.
 - **`effects` (Integer):** Bit flag che conferiscono al punto di sincronizzazione effetti extra. Vedere [la sezione effetti](#effetti).
 
-### Effetti
+### Effetcs
 
 I punti di cronometraggio hanno due effetti extra che possono essere attivati usando i bit 0 e 3 (dal meno significativo al più significativo) dell'intero `effects`:
 
@@ -148,7 +148,7 @@ I punti di cronometraggio hanno due effetti extra che possono essere attivati us
 
 Il resto dei bit è inutilizzato.
 
-### Esempi
+### Examples
 
 ```
 10000,333.33,4,0,0,100,1,1
@@ -166,7 +166,7 @@ Il primo punto di cronometraggio a 10 secondi non è ereditato e imposta:
 
 Il secondo punto di temporizzazione a 12 secondi viene ereditato, cambiando la velocità del cursore a 4x e il campione impostato su drum.
 
-## Colori
+## Colours
 
 Tutte le opzioni di questa sezione rappresentano i colori. Sono terzine di interi 0-255 separati da virgole, che rappresentano le componenti rosse, verdi e blu dei colori.
 
@@ -176,7 +176,7 @@ Tutte le opzioni di questa sezione rappresentano i colori. Sono terzine di inter
 | `SliderTrackOverride` | Colore additivo della traccia del cursore |
 | `SliderBorder` | Colore del bordo del cursore |
 
-## Oggetti hit
+## Hit objects
 
 *Sintassi degli oggetti hit:* `x,y,time,type,hitSound,objectParams,hitSample`
 
@@ -187,7 +187,7 @@ Tutte le opzioni di questa sezione rappresentano i colori. Sono terzine di inter
 - **`objectParams` (Elenco separato da virgole):** Parametri extra specifici del tipo di oggetto.
 - **`hitSample` (elenco separato da due colonne):** Informazioni su quali campioni vengono riprodotti quando l'oggetto viene colpito. È strettamente correlato a `hitSound`; vedere [la sezione hitsounds](#hitsounds). Se non viene scritto, il valore predefinito è `0:0:0:0:`.
 
-### Tipo
+### Type
 
 I tipi di oggetti hit sono memorizzati in un intero a 8 bit, dove ogni bit è un flag con un significato speciale. Il tipo di oggetto hit di base è dato dai bit 0, 1, 3 e 7 (dal meno significativo al più significativo):
 
@@ -201,7 +201,7 @@ I bit rimanenti sono utilizzati per distinguere le nuove combo e per saltare i c
 - 2: Nuova combo
 - 4-6: un intero a 3 bit che specifica quanti colori della combo saltare, se questo oggetto inizia una nuova combo.
 
-### Suoni di impatto
+### Hitsounds
 
 I bit flag `hitSound` determinano quali suoni verranno riprodotti quando l'oggetto viene colpito:
 
@@ -214,7 +214,7 @@ Se non è impostato alcun bit, per impostazione predefinita viene utilizzato l'h
 
 In tutte le modalità, eccetto osu!mania, la proprietà della skin `LayeredHitSounds` forza l'inclusione del suono normale, indipendentemente dall'impostazione del bit 0. È abilitata di default. È abilitata per impostazione predefinita.
 
-#### Campioni di colpi personalizzati
+#### Custom hit samples
 
 L'uso di `hitSample` può personalizzare ulteriormente i suoni riprodotti. Il valore predefinito è `0:0:0:0:` se non viene scritto.
 
@@ -249,11 +249,11 @@ Il file audio viene caricato dalla prima delle seguenti directory che contiene u
 
 Quando viene dato `nomefile`, non viene riprodotto alcun suono aggiuntivo e viene invece riprodotto questo file nella directory beatmap.
 
-### Cerchi di hit
+### Hit circles
 
 I cerchi di hit non hanno `objectParams` aggiuntivi.
 
-### Cursori
+### Cursors
 
 *Sintassi dei cursori:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
@@ -264,7 +264,7 @@ I cerchi di hit non hanno `objectParams` aggiuntivi.
 - **`edgeSounds` (Elenco di interi separati da pipe):** Suoni che vengono riprodotti quando si colpiscono i bordi della curva del cursore. Il primo suono è quello che viene riprodotto quando lo slider viene cliccato per la prima volta e l'ultimo suono è quello che viene riprodotto quando viene colpita la fine dello slider.
 - **`edgeSets` (elenco di stringhe separate da un tubo):** Set di campioni usati per i `edgeSounds`. Ogni insieme è nel formato `normalSet:additionSet`, con lo stesso significato che ha nella sezione hitsounds (#hitsounds).
 
-#### Curve di cursori
+#### Slider curves
 
 Quando si costruiscono le curve per un cursore, si usano `x` e `y` per il primo punto e `curvePoints` per il resto.
 
@@ -282,20 +282,20 @@ Se la `lunghezza' del cursore è più lunga della curva definita, il cursore si 
 
 *Nota: La `lunghezza' del cursore può essere usata per determinare il tempo necessario per completare il cursore. Lunghezza / (moltiplicatore del cursore * 100 * SV) * lunghezza del battito` indica quanti millisecondi occorrono per completare uno scorrimento del cursore (dove `SV` è il moltiplicatore della velocità del cursore dato dal punto di sincronizzazione effettivo ereditato, o `1` se non c'è).
 
-#### Gli hitsound dei cursori
+#### Slider hitsounds
 
 Oltre agli hitsound dei bordi, i cursori hanno anche un hitsound continuo ogni volta che il giocatore si trova nel raggio d'azione del cerchio di inseguimento del cursore. Il file sonoro viene riprodotto in loop per tutto il tempo in cui è attivo.
 
 Questo hitsound utilizza le proprietà `hitSound` e `hitSample` dell'oggetto hit, ma sono supportati solo i suoni normale e fischio. Il nome del file è `<sampleSet>-slider<hitSound><index>.wav`, dove `hitSound` è `slide` per i suoni normali o `whistle` per i suoni fischiati.
 
-### Spinner
+### Spinners
 
 *Sintassi degli spinner:* `x,y,time,type,hitSound,endTime,hitSample`
 
 - **`endTime` (intero):** Tempo di fine dello spinner, in millisecondi dall'inizio dell'audio della beatmap.
 - `x` e `y` non influiscono sugli spinner. Sono predefiniti al centro del campo di gioco, `256,192`.
 
-### Note lunghe (solo osu!mania)
+### Holds (osu!mania only)
 
 *Sintassi degli appigli:* `x,y,time,type,hitSound,endTime:hitSample`
 
@@ -303,7 +303,7 @@ Questo hitsound utilizza le proprietà `hitSound` e `hitSample` dell'oggetto hit
 - `x` determina l'indice della colonna in cui si troverà la presa. È calcolato da `floor(x * columnCount / 512)` e fissato tra `0` e `columnCount - 1`.
 - `y` non influisce sulle prese. Il valore predefinito è il centro del campo di gioco, `192`.
 
-### Esempi
+### Examples
 
 ```
 256,192,11000,21,2
