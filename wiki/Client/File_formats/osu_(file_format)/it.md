@@ -137,9 +137,9 @@ Ogni punto di tempo influenza una porzione specifica della mappa, comunemente ch
 - **`sampleIndex` (Integer):** Indice di campionamento personalizzato per gli oggetti hit. `0` indica gli hitsound predefiniti di osu!
 - **`volume` (Integer):** Percentuale di volume per gli oggetti hit.
 - **`uninherited` (0 o 1):** Se il punto di sincronizzazione è o meno non ereditato.
-- **`effects` (Integer):** Bit flag che conferiscono al punto di sincronizzazione effetti extra. Vedere [la sezione effetti](#effetti).
+- **`effects` (Integer):** Bit flag che conferiscono al punto di sincronizzazione effetti extra. Vedere [la sezione effetti](#Effects).
 
-### Effetcs
+### Effects
 
 I punti di cronometraggio hanno due effetti extra che possono essere attivati usando i bit 0 e 3 (dal meno significativo al più significativo) dell'intero `effects`:
 
@@ -182,7 +182,7 @@ Tutte le opzioni di questa sezione rappresentano i colori. Sono terzine di inter
 
 - **`x` (Integer)** e **`y` (Integer):** Posizione in [pixel](/wiki/Client/Beatmap_editor/osu!_pixel) dell'oggetto.
 - **`time` (Integer):** Tempo in cui l'oggetto deve essere colpito, in millisecondi dall'inizio dell'audio della beatmap.
-- **`type` (Integer):** Bit flag che indicano il tipo di oggetto. Vedere [la sezione tipo](#tipo).
+- **`type` (Integer):** Bit flag che indicano il tipo di oggetto. Vedere [la sezione tipo](#type).
 - **`hitSound` (Integer):** Bit flag che indica l'hitsound applicato all'oggetto. Si veda [la sezione hitsounds](#hitsounds).
 - **`objectParams` (Elenco separato da virgole):** Parametri extra specifici del tipo di oggetto.
 - **`hitSample` (elenco separato da due colonne):** Informazioni su quali campioni vengono riprodotti quando l'oggetto viene colpito. È strettamente correlato a `hitSound`; vedere [la sezione hitsounds](#hitsounds). Se non viene scritto, il valore predefinito è `0:0:0:0:`.
@@ -262,7 +262,7 @@ I cerchi di hit non hanno `objectParams` aggiuntivi.
 - **`slides` (Integer):** Quantità di volte che il giocatore deve seguire la curva dello slider avanti e indietro prima che lo slider sia completo. Può anche essere interpretato come il conteggio delle ripetizioni più uno.
 - **`length` (Decimale):** Lunghezza visiva in [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) del cursore.
 - **`edgeSounds` (Elenco di interi separati da pipe):** Suoni che vengono riprodotti quando si colpiscono i bordi della curva del cursore. Il primo suono è quello che viene riprodotto quando lo slider viene cliccato per la prima volta e l'ultimo suono è quello che viene riprodotto quando viene colpita la fine dello slider.
-- **`edgeSets` (elenco di stringhe separate da un tubo):** Set di campioni usati per i `edgeSounds`. Ogni insieme è nel formato `normalSet:additionSet`, con lo stesso significato che ha nella sezione hitsounds (#hitsounds).
+- **`edgeSets` (elenco di stringhe separate da un tubo):** Set di campioni usati per i `edgeSounds`. Ogni insieme è nel formato `normalSet:additionSet`, con lo stesso significato che ha nella [sezione hitsounds](#hitsounds).
 
 #### Slider curves
 
@@ -357,7 +357,7 @@ Il campo di gioco di osu!catch utilizza solo l'asse x, quindi `y` non è rilevan
 
 ### osu!mania
 
-Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Note lunghe](#note-lunghe-(solo-osu!mania)).
+Analogamente a osu!catch, gli oggetti colpiti in osu!mania non usano `y`. Per determinare la colonna si usa `x`; si veda la sezione [Note lunghe](#holds-(osu!mania-only))..
 
 - I cerchi di hit diventano note normali.
 - I cursori e gli spinner non sono utilizzati in osu!mania.
