@@ -9,23 +9,23 @@ tags:
   - Destacados de temporada
 ---
 
-# Ejecución de prueba de Beatmaps Destacados (Verano 2020)
+# Ejecución de prueba de Beatmaps Spotlights (Verano 2020)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 6 jul. 2020 |
-| Sala temporal: Lista de juego A | 10 jul. - 12 jul. 2020 |
-| Sala temporal: Lista de juego B | 17 jul. - 19 jul. 2020 |
-| Sala temporal: Lista de juego C | 24 jul. - 26 jul. 2020 |
-| Sala temporal: Lista de juego D | 31 jul. - 2 ago. 2020 |
-| Sala temporal: Lista de juego A | 7 ago. - 9 ago. 2020 |
-| Sala temporal: Lista de juego B | 14 ago. - 16 ago. 2020 |
-| Sala temporal: Lista de juego C | 21 ago. - 23 ago. 2020 |
-| Sala temporal: Lista de juego D | 28 ago. - 30 ago. 2020 |
-| Sala temporal: Listas de juego A y B | 4 sept. - 6 sept. 2020 |
-| Sala temporal: Listas de juego C y D | 11 sept. - 13 sept. 2020 |
+| Sala temporal: Playlist A | 10 jul. - 12 jul. 2020 |
+| Sala temporal: Playlist B | 17 jul. - 19 jul. 2020 |
+| Sala temporal: Playlist C | 24 jul. - 26 jul. 2020 |
+| Sala temporal: Playlist D | 31 jul. - 2 ago. 2020 |
+| Sala temporal: Playlist A | 7 ago. - 9 ago. 2020 |
+| Sala temporal: Playlist B | 14 ago. - 16 ago. 2020 |
+| Sala temporal: Playlist C | 21 ago. - 23 ago. 2020 |
+| Sala temporal: Playlist D | 28 ago. - 30 ago. 2020 |
+| Sala temporal: Playlists A y B | 4 sept. - 6 sept. 2020 |
+| Sala temporal: Playlists C y D | 11 sept. - 13 sept. 2020 |
 | Conclusión de la temporada | 14 sept. - 18 sept. 2020 |
 
 ## Salas multijugador semanales
@@ -42,7 +42,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).
-4. La puntuación semanal total visible en la sala temporal se denomina "puntuación semanal".
+4. La puntuación semanal total visible en la sala temporal se denomina «puntuación semanal».
 5. Una vez que concluye una sala temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ### Lista de juego A
@@ -305,7 +305,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -341,7 +341,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!taiko
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -377,7 +377,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!catch
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -413,7 +413,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!mania
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
