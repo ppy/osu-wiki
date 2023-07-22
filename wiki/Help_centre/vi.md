@@ -10,6 +10,7 @@ tags:
   - khó khăn
   - rắc rối
   - bỏ lỡ
+no_native_review: true
 ---
 
 # Trung tâm trợ giúp
