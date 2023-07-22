@@ -44,7 +44,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 # [Editor de beatmaps](/wiki/Client/Beatmap_editor)
 
-Todos los beatmaps de osu! son creados por la imaginación desbordante de su comunidad dinámica. ¿Siempre quisiste compartir tu música favorita con los demás, pero nunca supiste cómo? Familiarizate con el editor integrado y las oportunidades que ofrece.
+Todos los beatmaps de osu! son creados por la imaginación desbordante de su comunidad dinámica. ¿Siempre quisiste compartir tu música favorita con los demás, pero nunca supiste cómo? Familiarízate con el editor integrado y las oportunidades que ofrece.
 
 Secciones: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
