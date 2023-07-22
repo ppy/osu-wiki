@@ -10,10 +10,10 @@ Il contenuto seguente è separato in sezioni, indicate dai titoli delle sezioni 
 
 | Sezione | Descrizione | Tipo di contenuto |
 | :-- | :-- | :-- |
-| `[Generale]` | Informazioni generali sulla beatmap | Coppie `chiave: valore' |
-| `[Editor]` | Impostazioni salvate per l'editor della beatmap | `chiave: valore` coppie |
-| `[Metadata]` | [Informazioni](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) utilizzate per identificare la beatmap | `chiave:valore` coppie |
-| `[Difficoltà]` | [Impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) | coppie `chiave:valore` |
+| `[Generale]` | Informazioni generali sulla beatmap | Coppie `key : value' |
+| `[Editor]` | Impostazioni salvate per l'editor della beatmap | `key : value` coppie |
+| `[Metadata]` | [Informazioni](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) utilizzate per identificare la beatmap | `key:value` coppie |
+| `[Difficoltà]` | [Impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) | coppie `key:value` |
 | `[Eventi]` | Eventi grafici di beatmap e storyboard | Elenchi separati da virgole |
 | `[TimingPoints]` | Punti di cronometraggio e controllo | Elenchi separati da virgole |
 | `[Colours]` | Colori della combo e della skin | Coppie `key : value` |
