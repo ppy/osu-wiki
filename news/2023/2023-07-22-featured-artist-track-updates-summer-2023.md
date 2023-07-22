@@ -14,7 +14,7 @@ Musicians never stop creating new music, so we're here to highlight some tracks 
 
 Skip to any Featured Artists in this article:
 
-- [**BilliumMoto / Dictate**](#billium-moto-and-niu-arx-dictate)
+- [**BilliumMoto / Dictate**](#billiummoto-and-niu-arx-/-dictate)
 - [**ELFENSJóN**](#elfensjon)
 - [**Good Kid**](#good-kid)
 - [**goreshit**](#goreshit)
