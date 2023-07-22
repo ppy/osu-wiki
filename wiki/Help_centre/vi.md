@@ -10,7 +10,6 @@ tags:
   - khó khăn
   - rắc rối
   - bỏ lỡ
-no_native_review: true
 ---
 
 # Trung tâm trợ giúp
@@ -23,7 +22,7 @@ Chọn phần phù hợp với vấn đề của bạn nhất để tìm giải 
 
 | Các phần | Tập trung vấn đề |
 | :-- | :-- |
-| [Tài khoản](/wiki/Help_centre/Account) | người ủng hộ osu!, đăng nhập và khôi phục quyền truy cập, thay đổi tên, dữ liệu hồ sơ |
+| [Tài khoản](/wiki/Help_centre/Account) | Người ủng hộ osu!, đăng nhập và khôi phục quyền truy cập, thay đổi tên, dữ liệu hồ sơ |
 | [Hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) | Tất cả về các hạn chế: tổng quan, quy trình khiếu nại, lý do phổ biến và thời gian chờ đợi |
 | [Beatmap và chỉnh sửa](/wiki/Help_centre/Beatmapping) | Duy trì beatmap của bạn, quyền sở hữu beatmap, vị trí beatmap |
 | [Client](/wiki/Help_centre/Client) | Lỗi và sự cố, lối chơi, kết nối, hiệu suất |
