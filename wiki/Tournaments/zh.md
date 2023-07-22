@@ -81,6 +81,7 @@
 | [osu!mania 7K 世界杯 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 4K 世界杯 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 |
 | [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: 菲律宾 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
+| [osu!mania 4K 世界杯 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
@@ -115,6 +116,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| [Aetherian's Summer Singles 3](AESS/3) | 2023-05-01 | 2023-07-09 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
 #### Ascaveth Invitational Tournament
 
