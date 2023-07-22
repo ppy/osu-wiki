@@ -33,11 +33,11 @@ The only prerequisite is that you should be comfortable with constructive critic
 
 For the longest time tournaments have been underrepresented on the front page, and we aim to change that going forward.
 
-Along with the presence of the suggestion box, tournament hosts can reach out via the ``osu-news`` channel if they wish for their tournament to be advertised on the front page, after which the wiki & news team will look at your request and closely work with the [tournament committee](/wiki/People/Tournament_Committee) to make a decision.
+Tournament hosts can now reach out to the [tournament committee](/wiki/People/Tournament_Committee) through email if they wish for their tournaments to be advertised, and after their review and discussion with the wiki & news team in the ``osu-news`` channel they will inform you with the final decision.
 
 The only requirement is that the tournament is [officially supported](/wiki/Tournaments/Official_support) (the longer, the better), however there will be several factors that determine if the tournament can be advertised.
 
-We will also be ramping up coverage for the official World Cups, starting with OWC 2023 coverage through the tournament stages.
+We will also be ramping up coverage for the official World Cups, starting with OWC 2023 coverage through the tournament stages, starting with Round of 16.
 If you are interested in covering any of the World Cups, feel free to reach out as well!
 
 ---
