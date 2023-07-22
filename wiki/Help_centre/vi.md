@@ -5,6 +5,11 @@ tags:
   - problem
   - trouble
   - missing
+  - giúp đỡ
+  - vấn đề
+  - khó khăn
+  - rắc rối
+  - bỏ lỡ
 ---
 
 # Trung tâm trợ giúp
