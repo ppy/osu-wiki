@@ -7,7 +7,7 @@
 | Nome | Bytes | Descrizione |
 | :-- | :-- | :-- |
 | Byte | 1 | Un singolo valore a 8 bit. |
-| Corto | 2 | Un valore a 2 byte in formato little endian. |
+| Short | 2 | Un valore a 2 byte in formato little endian. |
 | Integer | 4 | Un valore little endian a 4 byte. |
 | Long | 8 | Un valore little endian a 8 byte. |
 | ULEB128 | Variabile | Un intero di lunghezza variabile. Vedere [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
@@ -24,21 +24,21 @@ Gli offset dei byte non sono inclusi in questa tabella a causa dei valori di lun
 | Stringa | hash MD5 di osu! beatmap |
 | Stringa | Nome del giocatore |
 | Stringa | hash MD5 di osu! replay (include alcune proprietà del replay) |
-| Breve | Numero di 300s |
+| Short | Numero di 300s |
 | Short | Numero di 100 in standard, 150 in Taiko, 100 in CTB, 100 in mania |
-| Breve | Numero di 50s in standard, frutti piccoli in CTB, 50s in mania |
-| Breve | Numero di Gekis in standard, Max 300s in mania |
-| Breve | Numero di Katus in standard, 200 in mania |
-| Breve | Numero di missioni |
+| Short | Numero di 50s in standard, frutti piccoli in CTB, 50s in mania |
+| Short | Numero di Gekis in standard, Max 300s in mania |
+| Short | Numero di Katus in standard, 200 in mania |
+| Short | Numero di missioni |
 | Integer | Punteggio totale visualizzato nel report dei punteggi |
-| Breve | Combo più grande visualizzata sul report del punteggio |
+| Short | Combo più grande visualizzata sul report del punteggio |
 | Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione del cursore e nessun cursore finito in anticipo). |
-| Integro | Mods utilizzati. Vedere di seguito l'elenco dei valori dei moduli. |
+| Integer | Mods utilizzati. Vedere di seguito l'elenco dei valori dei moduli. |
 | Stringa | Grafico a barre della vita: coppie separate da virgole u/v, dove u è il tempo in millisecondi della canzone e v è un valore in virgola mobile da 0 a 1 che rappresenta la quantità di vita che si ha in quel momento (0 = la barra della vita è vuota, 1= la barra della vita è piena). |
-| Lungo | Stampa dell'ora con ([Windows ticks](https://learn.microsoft.com/it-it/dotnet/api/system.datetime.ticks)) |
+| Long | Stampa dell'ora con ([Windows ticks](https://learn.microsoft.com/it-it/dotnet/api/system.datetime.ticks)) |
 | Integer | Lunghezza in byte dei dati di replay compressi |
 | Array di Byte | Dati di replay compressi |
-| Lungo | ID punteggio online |
+| Long | ID punteggio online |
 | Double | Informazioni aggiuntive sul mod. Presente solo se [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) è abilitato. |
 
 **Informazioni Aggiuntive Sulle Mod**
