@@ -26,15 +26,14 @@ Curious to know who will grace the series with their presence? We are thrilled t
 
 ![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/1st-ver.jpg)
 
-Now attention to all top 50 players! If you aspire to be part of this series, don't hesitate to reach out to VTX on any platform!. Your participation will make this project larger and give excitement to the adaptation.
+Now attention to all top 50 players! If you aspire to be part of this series, don't hesitate to reach out to [VTX on any platform!.](https://twitter.com/Vortex100k) Your participation will make this project larger and give excitement to the adaptation.
 
 The current team working on this project behind the scenes!:
 
 ![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCC-Team.jpg)
 
-We believe in the power of collaboration and welcome anyone with a talent. If you believe you can elevate this project, If you possess skills that could enhance OCC, we encourage you to reach out to VTX on any platform and join us on this journey.
+We believe in the power of collaboration and welcome anyone with a talent. If you believe you can elevate this project, If you possess skills that could enhance OCC, we encourage you to reach out to [VTX on any platform](https://twitter.com/Vortex100k) and join us on this journey.
 
-Prepare yourselves for an unforgettable adventure as osu! Combat Championship takes center stage.  Stay tuned for further updates on the animated series! (edited)
-14 July 2023
+Prepare yourselves for an unforgettable adventure as osu! Combat Championship takes center stage.  Stay tuned for further updates on the animated series!
 
 —VTX
