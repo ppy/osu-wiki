@@ -16,7 +16,7 @@ Calling all osu! enthusiasts!
 
 For those eager to dive into the manga, head over to Mangadex and start reading now!: [Read OCC Manga on Mangadex](https://mangadex.org/title/f1d50eba-6ace-4490-8439-07692fda3b9c/osu-combat-championship)
 
-But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an animated series!, We have just started episode 1's Production!.
+But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an animated series!, We have just started on episode 1's Production!.
 Prepare for the action-packed episodes each lasting as long as any other anime!
 The OCC animated series will faithfully follow the manga, capturing the essence and excitement of a traditional anime experience.
 
