@@ -504,7 +504,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Grand Finals tiebreaker |
+| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) Korean Rising Taiko Tournament #2
 
