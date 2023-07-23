@@ -550,6 +550,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Musique de la bande-annonce |
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) |  | Tiebreaker des Grandes Finales |
+| [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Thème du générique de fin |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 

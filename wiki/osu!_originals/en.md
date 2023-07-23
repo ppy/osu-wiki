@@ -550,6 +550,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Trailer music |
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) |  | Grand Finals tiebreaker |
+| [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Ending credits scene |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
