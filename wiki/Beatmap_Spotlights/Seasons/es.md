@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporadas de Beatmaps Destacados
+# Temporadas de Beatmaps Spotlights
 
 - [Verano 2020](2020_Summer)
 - [Otoño 2020](2020_Autumn)
