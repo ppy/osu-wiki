@@ -9,6 +9,7 @@ WhiteCat immerse's himself in a once-in-a-lifetime combat-style tournament. The 
 ![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCCnewspostrecent.jpg)
 
 Calling all osu! enthusiasts!
+ 
  Prepare yourselves for a journey like no other as we introduce the highly anticipated osu! Combat Championship (OCC) manga and its thrilling adaptation into an animated series.
 
  Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out
