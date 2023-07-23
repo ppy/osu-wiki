@@ -20,7 +20,7 @@ The **osu!mania 4K World Cup 2023** (***MWC 4K 2023***) is a country-based osu!m
 | Qualifier showcase | 2023-08-06 (14:00 UTC) |
 | Qualifier stage | 2023-08-12/2023-08-13 |
 | Round of 32 | 2023-08-19/2023-08-20 |
-| Round of 16 | 2023-08-26/2023-05-27 |
+| Round of 16 | 2023-08-26/2023-08-27 |
 | Quarterfinals | 2023-09-02/2023-09-03 |
 | Semifinals | 2023-09-09/2023-09-10 |
 | Finals | 2023-09-16/2023-09-17 |
