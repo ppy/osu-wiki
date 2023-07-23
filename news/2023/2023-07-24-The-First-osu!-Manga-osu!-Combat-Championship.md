@@ -6,7 +6,7 @@ date: 2023-07-24 13:00:00 +0000
 
 WhiteCat immerse's himself in a once-in-a-lifetime combat-style tournament. The stakes are high as he battles it out to claim the coveted rank #1 title and have his wishes granted. Soon to be an Animated Series!
 
-![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga:-osu!-Combat-Championship/OCCnewspostrecent.jpg)
+![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCCnewspostrecent.jpg)
 
 Calling all osu! enthusiasts!
  Prepare yourselves for a journey like no other as we introduce the highly anticipated osu! Combat Championship (OCC) manga and its thrilling adaptation into an animated series.
@@ -24,13 +24,13 @@ All of the episodes of the OCC Animated Series will be available exclusively on 
 
 Curious to know who will grace the series with their presence? We are thrilled to feature some of your favorite top players! including:
 
-![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga:-osu!-Combat-Championship/1st-ver.jpg)
+![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/1st-ver.jpg)
 
 Now attention to all top 50 players! If you aspire to be part of this series, don't hesitate to reach out to VTX on any platform!. Your participation will make this project larger and give excitement to the adaptation.
 
 The current team working on this project behind the scenes!:
 
-![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga:-osu!-Combat-Championship/OCC-Team.jpg)
+![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCC-Team.jpg)
 
 We believe in the power of collaboration and welcome anyone with a talent. If you believe you can elevate this project, If you possess skills that could enhance OCC, we encourage you to reach out to VTX on any platform and join us on this journey.
 
