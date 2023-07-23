@@ -1,4 +1,4 @@
-# Tutorials zu Skinning und wichtige Threads
+# Anleitungen zu Skinning und wichtige Threads
 
 Eine Liste an Anleitungen und wichtigen Threads, erstellt von der Community.
 
