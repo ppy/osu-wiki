@@ -2,7 +2,6 @@
 tags:
   - hit objects
 ---
-
 # Note
 
 Le *note* sono elementi con cui il giocatore può interagire durante una [beatmap](/wiki/Beatmap). Ogni [modalità di gioco](/wiki/Game_mode) ha il suo set unico di note che cambia l'esperienza di gioco. Per una panoramica sulle note di ciascuna modalità di gioco, guarda la seguente tabella:
