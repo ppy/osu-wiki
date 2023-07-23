@@ -97,7 +97,7 @@ If that's not convincing already, you may need to reconsider your preferences.
 ### Good Kid - Mimi's Delivery Service
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/240/Good%20Kid%203%2FGood%20Kid%20-%20Mimi%2527s%20Delivery%20Service.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Good%20Kid%203%2FGood%20Kid%20-%20Mimi%27s%20Delivery%20Service.mp3" type="audio/mpeg">
 </audio>
 
 ### Good Kid - Osmosis
