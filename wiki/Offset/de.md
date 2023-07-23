@@ -20,7 +20,7 @@ Je nach Offset wird dieser entweder vom Ersteller der Beatmap eingestellt, vom S
 
 ## Beatmapeinstellungen
 
-*Anmerkung: Die Einleitung des Audios und Video-Offsets können nur durch die [Editierung der Beatmapdatei](/wiki/Client/File_formats/Osu_(file_format)) eingestellt werden.*
+*Anmerkung: Die Einleitung des Audios und Video-Offsets können nur durch die [Editierung der Beatmapdatei](/wiki/Client/File_formats/osu_(file_format)) eingestellt werden.*
 
 - Countdown-Versatz, eine Einstellung, die das Erscheinen des [Countdowns](/wiki/Beatmap/Countdown) vor dem ersten Hit-Objekt verändert. Dies wird in [Takten](/wiki/Music_theory/Beat) gemessen.
 - Audio-Versatz oder [Einleitung des Audios](/wiki/Beatmap/Lead-in_time), eine zusätzliche Verzögerung, bevor die Beatmap beginnt.
