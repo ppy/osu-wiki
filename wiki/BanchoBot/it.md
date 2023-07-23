@@ -6,6 +6,8 @@ tags:
   - announcements
 ---
 
+<!--TODO:
+- add section that lists and explains all the game-related announcements -->
 
 # BanchoBot
 
@@ -53,6 +55,7 @@ Di seguito è riportata una lista di tutti i comandi di BanchoBot:
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
+<!--note for editors: the code block above reflects the exact response from banchobot -->
 
 *Avviso: Il comando `!request` non è più supportato da BanchoBot.*
 
