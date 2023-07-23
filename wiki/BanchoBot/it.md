@@ -6,9 +6,6 @@ tags:
   - announcements
 ---
 
-<!--TODO:
-- add section that lists and explains all the game-related announcements -->
-
 # BanchoBot
 
 *Per altri utilizzi, consulta [Bancho (disambiguazione)](/wiki/Disambiguation/Bancho).*
