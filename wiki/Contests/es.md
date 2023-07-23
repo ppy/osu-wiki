@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: b79c7e6106a93708b711a2ad41407cea5e25a880
 ---
 
 # Concursos

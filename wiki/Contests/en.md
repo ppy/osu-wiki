@@ -235,7 +235,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 
 ### Skin of the Year
 
-**Skin of the Year** is a yearly skinning contest where the community picks the best [completed skins](https://osu.ppy.sh/community/forums/109) that were submitted during the year.
+**Skin of the Year** is a yearly skinning contest where the community picks the best [completed skins](https://osu.ppy.sh/community/forums/109) that were submitted during any given year.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
