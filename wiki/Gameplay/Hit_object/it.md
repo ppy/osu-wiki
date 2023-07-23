@@ -17,4 +17,3 @@ Le *note* sono elementi con cui il giocatore può interagire durante una [beatma
 Dal punto di vista della programmazione, le note lunghe in osu!mania non sono uguali agli slider su osu!, anche se in questa tabella sono stati raggruppati insieme per semplificare. Altri elementi con cui non si interagisce durante il gioco, come la barra della salute o le stelle kiai, sono considerati elementi che migliorano il gioco o parte dell'interfaccia utente.
 
 In osu!, la prossima nota o slider viene evidenziata con una luminosità leggermente più alta rispetto alle altre sul campo di gioco. Tuttavia, l'evidenziazione non sarà più visibile quando la [velocità di avvicinamento](/wiki/Beatmap/Approach_rate) è troppo alta.
-
