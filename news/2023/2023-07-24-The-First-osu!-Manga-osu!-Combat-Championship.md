@@ -31,7 +31,7 @@ Now attention to all top 50 players! If you aspire to be part of this series, do
 
 The current team working on this project behind the scenes!:
 
-![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCCTeamremake.jpg)
+![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCCTEAMremake.jpg)
 
 We believe in the power of collaboration and welcome anyone with a talent. If you believe you can elevate this project, If you possess skills that could enhance OCC, we encourage you to reach out to [VTX on any platform](https://twitter.com/Vortex100k) and join us on this journey.
 
