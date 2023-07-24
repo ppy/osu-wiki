@@ -23,7 +23,7 @@ La versione macOS di osu! è soggetta a piccoli bug di visualizzazione e a un ga
 
 ## Risoluzione dei problemi
 
-Se hai difficoltà ad aprire osu!, i seguenti step potrebbero aiutarti:
+Se hai difficoltà ad aprire osu!, i seguenti passaggi potrebbero aiutarti:
 
 1. Controlla il report generato da *osu!macOS Agent* per eventuali errori.
    - Se stai utilizzando una versione più vecchia di macOS Catalina (precedente o uguale a 10.15.4), dovrai o aggiornare macOS (consigliato) o disabilitare [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
