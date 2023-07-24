@@ -37,7 +37,7 @@ All of the episodes of the OCC Animated Series will be available exclusively on 
   <img width="826" height="1249" src="/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/OCCTEMremakemin.png">
 </p>
 
-**We believe in the power of collaboration and welcome anyone with a talent. If you believe you can elevate this project, If you possess skills that could enhance OCC, we encourage you to reach out to [VTX on any platform](https://twitter.com/Vortex100k) and join us on this journey.**
+**We believe in the power of collaboration and welcome anyone with a talent. If you possess skills that could help with the production of OCC and if you believe you can elevate this project, we strongly encourage that you reach out to [VTX on any platform](https://twitter.com/Vortex100k) and join us on this journey.**
 
 Prepare yourselves for an unforgettable adventure as osu! Combat Championship takes center stage.  Stay tuned for further updates on the animated series!
 
