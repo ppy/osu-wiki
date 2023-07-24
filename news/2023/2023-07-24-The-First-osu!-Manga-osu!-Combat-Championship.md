@@ -17,8 +17,8 @@ WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The s
 
 For those eager to dive into the manga, head over to Mangadex and start **reading now!:** [Read OCC Manga on Mangadex](https://mangadex.org/title/f1d50eba-6ace-4490-8439-07692fda3b9c/osu-combat-championship)
 
-But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an **animated series!**, We have just started on episode 1's Production!.
-Prepare for the action-packed episodes each lasting as long as any other anime!
+But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an **animated series**, and we have just started on episode 1's Production!.
+Prepare for action-packed episodes each lasting as long as the animes you love!
 The OCC animated series will faithfully follow the manga, capturing the essence and excitement of a traditional anime experience.
 
 All of the episodes of the OCC Animated Series will be available exclusively on the [VTX YouTube Channel.](https://www.youtube.com/channel/UC7-9V57omhXSVxX9s809n5A) Stay tuned for its release!
