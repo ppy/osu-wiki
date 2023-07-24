@@ -1,3 +1,8 @@
+---
+outdated_since: dd38e9ad6981cc86179f945188e72f518a6c5a79
+outdated_translation: true
+---
+
 # 锦标赛
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
