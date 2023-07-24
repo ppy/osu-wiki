@@ -25,6 +25,9 @@ All of the episodes of the OCC Animated Series will be available exclusively on 
 
 ## Curious to know who will grace the series with their presence? We are thrilled to feature some of your favorite top players! including:
 
+<p align="center">
+  <img width="460" height="300" src="/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/listthingnew.png">
+</p>
 ![](/wiki/shared/news/2023-07-24-The-First-osu!-Manga-osu!-Combat-Championship/listthingnew.png)
 
 **Now attention to all top 50 players! If you aspire to be part of this series, don't hesitate to reach out to [VTX on any platform!.](https://twitter.com/Vortex100k) Your participation will make this project larger and give excitement to the adaptation.**
