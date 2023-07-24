@@ -111,6 +111,15 @@ The Rising Global Taiko Showdown 2022 was run by various community members.
 | **G** | ::{ flag=US }:: United States A | ::{ flag=CL }:: ::{ flag=AR }:: Colombia/Argentina | ::{ flag=NL }:: Netherlands | ::{ flag=PL }:: Poland |
 | **H** | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia | ::{ flag=TW }:: Taiwan B | ::{ flag=SE }:: Sweden |
 
+## Podium
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**[Deli](https://osu.ppy.sh/users/13563794)**, [auopes](https://osu.ppy.sh/users/11889197), [azari](https://osu.ppy.sh/users/24326387), [magudonope](https://osu.ppy.sh/users/13547517), [Renka](https://osu.ppy.sh/users/4455389)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: **China** (**[ThomasZQY](https://osu.ppy.sh/users/21799255)**, [-nagaTori](https://osu.ppy.sh/users/24660008), [DeepMarine](https://osu.ppy.sh/users/21891421), [UnagiDon](https://osu.ppy.sh/users/2062410), [WLYMinato](https://osu.ppy.sh/users/12703319)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: **Germany A** (**[Zephyte](https://osu.ppy.sh/users/3867109)**, [-Kiro-](https://osu.ppy.sh/users/10893243), [Malox](https://osu.ppy.sh/users/4516252), [ph1](https://osu.ppy.sh/users/22194163), [Yumirin](https://osu.ppy.sh/users/11265571)) |
+
 ## Mappools
 
 ### Grand Finals
