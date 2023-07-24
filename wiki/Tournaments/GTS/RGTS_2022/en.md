@@ -112,6 +112,7 @@ The Rising Global Taiko Showdown 2022 was run by various community members.
 | **H** | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia | ::{ flag=TW }:: Taiwan B | ::{ flag=SE }:: Sweden |
 
 ## Podium
+
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
