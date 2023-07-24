@@ -9,7 +9,7 @@ tags:
 
 ![RGTS 2022 logo](img/logo.jpg)
 
-The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 may participate. It is the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) was a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 may participate. It was the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide doubl
 
 ## Organisation
 
-The Rising Global Taiko Showdown 2022 is run by various community members.
+The Rising Global Taiko Showdown 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -110,6 +110,33 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 | **H** | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia | ::{ flag=TW }:: Taiwan B | ::{ flag=SE }:: Sweden |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/DNY1jb4S#2fnJRCGtbbbnZOEWvu4_ABc0wQzRQouwUvcdYpRUAuI)**
+
+- NoMod
+  1. [UKRampage - Yumenoshima feat. mami (_yosh) \[Dreams born from Ashes (ft. TaikoMom)\]](https://osu.ppy.sh/beatmapsets/1901539#taiko/3920185)
+  2. [Azusa Tadokoro - 1HOPE SNIPER (arcpotato) \[FINAL SHOT\]](https://osu.ppy.sh/beatmapsets/1901540#taiko/3920186)
+  3. [Toromaru - Curiosity (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901350#taiko/3919794)
+  4. [sakuraburst - Glacierfall (Park Remix) (davidminh0111) \[final showdown\]](https://osu.ppy.sh/beatmapsets/1901544#taiko/3920512)
+  5. [So Sus + Konka - Acorn (Faputa) \[Quercus Minuere\]](https://osu.ppy.sh/beatmapsets/1901430#taiko/3919984)
+  6. [D-D-Dice - Abyss Breaker (Cynplytholowazy) \[Spiral Domination\]](https://osu.ppy.sh/beatmapsets/1901349#taiko/3919792)
+- Hidden
+  1. [Ino - Kokeshineko Medore (Megafan) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1901556#taiko/3920221)
+  2. [Camellia - Sage (MTNTWarz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901384#taiko/3919861)
+- HardRock
+  1. [7z + 7_7 - Li77le dippeR (frz) \[Inner onI\]](https://osu.ppy.sh/beatmapsets/1901560#taiko/3920226)
+  2. [Kabocha - Embryo (davidminh0111) \[you plinko\]](https://osu.ppy.sh/beatmapsets/1901562#taiko/3920228)
+- DoubleTime
+  1. [E.G.G. vs. adaptor - Got temporary haven? (Miniature Lamp) \[Oni?\]](https://osu.ppy.sh/beatmapsets/1901563#taiko/3920229)
+  2. [Tatsh - Floating Darkness... feat. Tsukiko (roufou) \[Oni\]](https://osu.ppy.sh/beatmapsets/1901527#taiko/3920165)
+- FreeMod
+  1. [Yooh - Astrum (Yujki) \[Yujki's and Chupalika's Celestial Oni\]](https://osu.ppy.sh/beatmapsets/1901567#taiko/3920237)
+  2. [Mono. - skip&step (Antti) \[Vivid Choreography\]](https://osu.ppy.sh/beatmapsets/1901568#taiko/3920239)
+  3. [F Rabbeat - Be With U (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901348#taiko/3919791)
+- Tiebreaker
+  1. **[blobdash & breakchild - EPiSODES (TaikoMom) \[Cyclothemia\]](https://osu.ppy.sh/beatmapsets/1901573#taiko/3920251)**
 
 ### Finals
 
