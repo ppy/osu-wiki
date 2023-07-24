@@ -31,6 +31,8 @@ The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) was a worldwide doub
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "RGTS 2022 winner badge")
+
 ## Organisation
 
 The Rising Global Taiko Showdown 2022 was run by various community members.
@@ -289,6 +291,36 @@ The Rising Global Taiko Showdown 2022 was run by various community members.
   1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 17 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany A ::{ flag=DE }:: | 3 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105692538) |
+
+Sunday, 18 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/105713002) |
+
+### Finals
+
+Saturday, 10 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States A ::{ flag=US }:: | 4 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105550656) |
+| **South Korea** ::{ flag=KR }:: | **7** | 5 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105553974) |
+
+Sunday, 11 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **7** | 1 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105578904) |
+| Germany A ::{ flag=DE }:: | 2 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/105580427) |
 
 ### Semifinals
 
