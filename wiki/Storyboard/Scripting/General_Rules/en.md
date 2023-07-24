@@ -103,7 +103,7 @@ States after last playtime, if the beatmap had no breaks:
 
 ## Comments
 
-Single-line C-style comments can be added, but be advised they may be removed if the beatmap is saved in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
+Single-line C-style comments can be added, but be advised they may be removed if the beatmap is saved in the in-game editor. By default, there are some to suggest the separation of commands into the four layers.
 
 `// This is a comment.`
 
