@@ -185,7 +185,7 @@ Your profile will show all your previous purchased name changes, but we only sel
 
 If eligible, you can change your account country in the [account settings page](https://osu.ppy.sh/home/account/edit). A user is eligible for a flag change when:
 
-- There is at least 6 months of login data
+- There is at least 6 months of login data since the creation of the account, or since the last flag change
 - At least 4 of the 6 months have logins from the same country
 - The user is not registered for any ongoing tournaments
 
