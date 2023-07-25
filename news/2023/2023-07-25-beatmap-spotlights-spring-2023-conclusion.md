@@ -27,7 +27,7 @@ The voting will remain open for **7 days** from the date of this news post, so m
 
 ## Beatmap Spotlights Spring 2023 final rankings
 
-[Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYzvSpSpLn6-2EOdvQr7dGYdm4kPPjOJa7wRB2_8aWto51uWmrr629HaF25eXQfJIY5sXxHNdJ1miy/pubhtml)
+[Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAIlsoRnXDWrzGUzN2DMNkDbXqzqEk4KJkx4xqcw8je4AiCJ50zP67JjRhvpUKHvdCZmHcF-UsYcGH/pubhtml)
 
 | Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player
 | :-: | :-: | :-- | :-: | :-- | :-: | :-- | :-: | :-- |
