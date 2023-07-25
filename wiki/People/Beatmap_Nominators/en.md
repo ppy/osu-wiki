@@ -66,7 +66,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Korean |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/4086497) | German |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | German |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korean |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
@@ -176,7 +176,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Dutch |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/4610379) | Spanish |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
@@ -230,7 +230,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
-| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/4138746) | Filipino |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | Filipino |
 
 ## History
 

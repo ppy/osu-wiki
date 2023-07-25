@@ -66,7 +66,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 중국어, 일부 프랑스어 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 한국어 |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/4086497) | 독일어 |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 독일어 |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | 한국어 |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 한국어 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 러시아어 |
@@ -176,7 +176,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 한국어 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 네덜란드어 |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/4610379) | 스페인어 |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 스페인어 |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | 인도네시아어 |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 인도네시아어 |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
@@ -230,7 +230,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
-| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/4138746) | 필리핀어 |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | 필리핀어 |
 
 ## 역사
 

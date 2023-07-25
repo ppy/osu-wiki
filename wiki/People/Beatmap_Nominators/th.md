@@ -66,7 +66,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | จีน, ฝรั่งเศส บ้าง |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | เกาหลี |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/4086497) | เยอรมัน |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | เยอรมัน |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | เกาหลี |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | เกาหลี |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | รัสเซีย |
@@ -176,7 +176,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | เกาหลี |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | ดัตช์ |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/4610379) | สเปน |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | สเปน |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | อินโดนีเซีย |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | อินโดนีเซีย |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
@@ -230,7 +230,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
-| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/4138746) | ฟิลิปปินส์ |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | ฟิลิปปินส์ |
 
 ## ประวัติ
 
