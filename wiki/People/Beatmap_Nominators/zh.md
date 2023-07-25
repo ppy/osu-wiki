@@ -65,9 +65,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 汉语，一部分法语 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
-| ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | 汉语，粤语 |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/4086497) | 德语 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | 韩语 |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
@@ -87,6 +85,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | 荷兰语 |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | 波斯尼亚语 |
+| ::{ flag=CA }:: [Terakomari](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
@@ -98,6 +97,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | 葡萄牙语 |
 | ::{ flag=US }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | 日语 |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，一部分瑞典语 |
@@ -128,7 +128,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 汉语，粤语 |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 荷兰语 |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
+| ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | 法语 |
@@ -143,6 +143,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | 韩语 |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | 汉语 |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
 | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | 印度尼西亚语 |
@@ -169,11 +170,12 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 印度尼西亚语 |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 汉语，粤语 |
 | ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | 德语 |
+| ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) | 印度尼西亚语 |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/4610379) | 西班牙语 |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 西班牙语 |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
@@ -184,7 +186,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | 印度尼西亚语 |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | 印度尼西亚语 |
 | ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | 汉语 |
-| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) | 印度尼西亚语 |
+| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |   |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) | 德语 |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | 印度尼西亚语 |
@@ -213,7 +215,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | 葡萄牙语 |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 
 #### osu!catch
@@ -227,7 +228,8 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/4138746) | 菲律宾语 |
+| ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | 菲律宾语 |
 
 ## 历史
 
