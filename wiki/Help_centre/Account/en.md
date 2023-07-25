@@ -11,7 +11,9 @@ tags:
   - device
   - username
   - deletion
-  - flagchange
+  - flag change
+  - change flag
+  - wrong flag
 ---
 
 # Account
