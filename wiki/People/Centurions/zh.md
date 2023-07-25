@@ -2,7 +2,7 @@
 
 百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#上架-(ranked))[谱面](/wiki/Beatmap)的玩家。从 2023 年 7 月开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
 
-- 百夫长[谱面包](/wiki/Beatmap/Packs)：对于玩家上架的每 100 张谱面，谱师可以选择其中 10 张谱面放入谱面包中。这个谱面包可以这些[谱面包列表](https://osu.ppy.sh/beatmaps/packs)的[主题分类](https://osu.ppy.sh/beatmaps/packs?type=theme)中找到并下载。
+- 百夫长[谱面包](/wiki/Beatmap/Packs)：对于玩家上架的每 100 张谱面，谱师可以选择其中 10 张谱面放入谱面包中。这个谱面包可以在[谱面包列表](https://osu.ppy.sh/beatmaps/packs)的[主题分类](https://osu.ppy.sh/beatmaps/packs?type=theme)中找到并下载。
 - 一个特殊的百夫长徽章。
 
 ![百夫长徽章](img/centurion.png "百夫长徽章（上架了 100+ 谱面）")
@@ -29,4 +29,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面的时长平均需要 **3 年**（大约 1166 天）。
+- 总体来说，上架 100 张谱面平均需要 **3 年**（大约 1166 天）。
