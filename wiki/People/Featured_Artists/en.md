@@ -44,7 +44,7 @@ If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, t
 
 ## Featured Artists with osu! accounts
 
-Featured Artists with osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title), and [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
+Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title), and [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
 
 The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
