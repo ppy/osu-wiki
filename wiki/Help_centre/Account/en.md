@@ -11,6 +11,7 @@ tags:
   - device
   - username
   - deletion
+  - flagchange
 ---
 
 # Account
@@ -180,13 +181,13 @@ Your profile will show all your previous purchased name changes, but we only sel
 
 ### The flag/country on my account profile is wrong! {id=wrong-flag}
 
-**Unfortunately, we cannot change this for you.**
+**Yes, but only under certain circumstances.**
 
-The country associated with your osu! profile is based on the geographical location of the connection you used to register the account and is permanently assigned during account creation.
+If eligible, you can change your account country in the [account settings page](https://osu.ppy.sh/home/account/edit). A user is eligible for a flag change when:
 
-In the past, we offered the ability for users to change their account country by providing proof of residence documents, but after countless instances of abuse by unscrupulous players, we were left with no option but to stop offering such services.
-
-Please understand that we cannot adjust this under any circumstances, regardless of people you've heard of or might know who have had it done before.
+- There is at least 6 months of login data
+- At least 4 of the 6 months have logins from the same country
+- The user is not registered for any ongoing tournaments
 
 ### Can I make more than one account? {id=no-multiaccounting}
 
