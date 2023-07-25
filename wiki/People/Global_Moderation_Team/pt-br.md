@@ -67,11 +67,9 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Suporte técnico |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Português, japonês | Moderação de chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Suporte ao jogador, administração da wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio | Moderação da comunidade de mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finlandês, um pouco de sueco | Moderação de chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonês | Moderação de chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Francês | Moderação de chat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinês | Moderação da comunidade de mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderação da comunidade de mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francês, espanhol | Moderação de chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderação de chat, moderação da comunidade de mapping/modding |
@@ -96,7 +94,6 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderação de chat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presença oficial da equipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemão | Administração de torneios |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonês, chinês | Moderação de chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonês | Moderação de chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malaio | Moderação de chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonês | Skinning community moderation |

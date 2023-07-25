@@ -18,7 +18,7 @@ Dieser Artikel listet die verschiedenen Tipps auf, die im Spiel vorkommen und n�
 
 Diese Tipps erscheinen am unteren Rand des [Hauptmenüs](/wiki/Client/Interface#hauptmenü).
 
-- Du kannst neue [Beatmaps](/wiki/Beatmap) importieren, indem du die [.osz-Datei](/wiki/Client/File_formats/Osz_(file_format)) in das Fenster ziehst, im Explorerfenster doppelklickst oder direkt vom Browser aus von osu! öffnen lässt.
+- Du kannst neue [Beatmaps](/wiki/Beatmap) importieren, indem du die [.osz-Datei](/wiki/Client/File_formats/osz_(file_format)) in das Fenster ziehst, im Explorerfenster doppelklickst oder direkt vom Browser aus von osu! öffnen lässt.
 - Du kannst auch durch große Listen von Beatmaps einfach und schnell navigieren, indem du sie mit gedrückter linker Maustaste verschiebst oder mit der rechten Maustaste an einen bestimmten Punkt in der Liste springst.
 - Du kannst überall in osu! `F8` oder `F9` drücken, um den [Chat](/wiki/Client/Interface/Chat_console) zu öffnen.
 - Ein Rechtsklick auf die Beatmap oder ein Klick auf die `Beatmap-Optionen` öffnet ein Menü, mit dem du deine Beatmaps organisieren kannst.

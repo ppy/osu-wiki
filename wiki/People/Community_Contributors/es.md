@@ -125,7 +125,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/osu!_Alumni), que son antiguo
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Trabajo excepcional en soporte al jugador y resolución de problemas |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mantenedor extraordinario del proyecto de Packs de beatmaps |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Desarrollador de innumerables herramientas que han demostrado ser parte integral del ciclo de clasificación moderno |
-| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto Beatmaps destacados |
+| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto Beatmaps Spotlights |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Excelente contribución a través de numerosos proyectos y dominios |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Excelente contribución al GMT y al mantenimiento de torneos |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Líder del equipo Proyecto Amado |

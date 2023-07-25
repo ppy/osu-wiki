@@ -65,6 +65,16 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 - [COE Twitter](https://twitter.com/CavoesOsuEvent)
 - [GTS Twitter](https://twitter.com/GTSosu)
 
+## Participants
+
+| Seed | Members |
+| :-- | :-- |
+| Top | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
+| High | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=FI }:: [MEGAMELA](https://osu.ppy.sh/users/13613362) |
+| Low | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=NL }:: [StrijkIjzer](https://osu.ppy.sh/users/4130926), ::{ flag=PL }:: [Qroissant](https://osu.ppy.sh/users/9511518) |
+| Unseeded | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=NL }:: [Edesto](https://osu.ppy.sh/users/5088562), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=NL }:: [demonking7447](https://osu.ppy.sh/users/11094496) |
+| Eliminated | ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=DE }:: [Musubi](https://osu.ppy.sh/users/9562353) |
+
 ## Mappools
 
 ### Qualifiers
@@ -86,6 +96,12 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
   2. [SiLiS - Bodysnatch (TaikoMom) [Pod People Party]](https://osu.ppy.sh/beatmapsets/2023516#taiko/4214881)
 - Force Mod
   1. [NormalM feat. Usagi Denki - Luminous Entities Lost Heart (Briesmas) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023493#taiko/4214841)
+
+## Match results
+
+### Qualifiers
+
+Detailed statistics for this round can be found on the [GTS website](https://gtsosu.com/coegts/stats#0) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
