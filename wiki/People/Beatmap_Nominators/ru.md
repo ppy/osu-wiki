@@ -66,9 +66,7 @@ tags:
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично французский |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Корейский |
-| ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Китайский, кантонский |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/4086497) | Немецкий |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Корейский |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Корейский |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
@@ -88,6 +86,7 @@ tags:
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Боснийский |
+| ::{ flag=CA }:: [Terakomari](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Литовский |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
@@ -99,6 +98,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
+| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Португальский |
 | ::{ flag=US }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | Японский |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Финский, частично шведский |
@@ -129,7 +129,7 @@ tags:
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Индонезийский |
+| ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Индонезийский |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Русский |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Французский |
@@ -144,6 +144,7 @@ tags:
 | :-- | :-- |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | Китайский |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Китайский |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Корейский |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Китайский |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Китайский |
 | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Индонезийский |
@@ -170,6 +171,7 @@ tags:
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Китайский, кантонский |
 | ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Немецкий |
+| ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) | Индонезийский |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Нидерландский |
@@ -185,7 +187,7 @@ tags:
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Индонезийский |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Индонезийский |
 | ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | Китайский |
-| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) | Индонезийский |
+| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |  |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) | Немецкий |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Индонезийский |
@@ -214,7 +216,6 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Португальский |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 
 #### osu!catch
@@ -228,6 +229,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
+| ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
 | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/4138746) | Филиппинский |
 
 ## История
