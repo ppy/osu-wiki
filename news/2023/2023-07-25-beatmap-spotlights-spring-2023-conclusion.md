@@ -8,11 +8,11 @@ The Spring 2023 season of the Beatmap Spotlights has come to an end⁠, so come 
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-After a tad bit of an overhead, the Spring 2023 season has officially concluded. You can now finally peek your standing in the final rankings and enjoy your shiny profile badge to its fullest!
+After a tad bit of overhead, the Spring 2023 season has officially concluded. You can now finally peek at your standing in the final rankings and enjoy your shiny profile badge to its fullest!
 
 ## Beatmap of the Season - Players' Pick
 
-We're continuing with *Beatmap of the Season - Players' Pick* polls! Combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, we will figure the most outstanding creations covered by Spring 2023 playlists!
+We're continuing with *Beatmap of the Season - Players' Pick* polls! Combined with the [Spotlights curators](/wiki/Beatmap_Spotlights#curators)' picks, we will figure the most outstanding creations covered by Spring 2023 playlists!
 
 The results of both selections will be announced at the launch of the Summer 2023 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
@@ -27,7 +27,7 @@ The voting will remain open for **7 days** from the date of this news post, so m
 
 ## Beatmap Spotlights Spring 2023 final rankings
 
-[Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAIlsoRnXDWrzGUzN2DMNkDbXqzqEk4KJkx4xqcw8je4AiCJ50zP67JjRhvpUKHvdCZmHcF-UsYcGH/pubhtml)
+[**Click here for the full leaderboards of every game mode!**](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAIlsoRnXDWrzGUzN2DMNkDbXqzqEk4KJkx4xqcw8je4AiCJ50zP67JjRhvpUKHvdCZmHcF-UsYcGH/pubhtml)
 
 | Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player |
 | :-: | :-: | :-- | :-: | :-- | :-: | :-- | :-: | :-- |
