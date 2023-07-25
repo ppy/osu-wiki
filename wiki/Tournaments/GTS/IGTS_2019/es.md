@@ -16,15 +16,15 @@ outdated_translation: true
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de Registro | 2019-05-11/2019-05-25 |
-| Stream de Apertura | 2019-06-02 (14:00 UTC) |
-| Fase de Grupos | 2019-06-08/2019-06-09 |
-| Octavos de Final | 2019-06-15/2019-06-22 |
-| Cuartos de Final | 2019-06-22/2019-06-23 |
-| Semifinales | 2019-06-29/2019-06-30 |
-| Finales | 2019-07-06/2019-07-07 |
-| Gran Finales | 2019-07-13/2019-07-14 |
-| All-Stars | 2019-07-13/2019-07-14 |
+| Fase de Registro | 11/5/2019 - 25/5/2019 |
+| Stream de Apertura | 2/6/2019 (14:00 UTC) |
+| Fase de Grupos | 8/6/2019 - 9/6/2019 |
+| Octavos de Final | 15/6/2019 - 22/6/2019 |
+| Cuartos de Final | 22/6/2019 - 23/6/2019 |
+| Semifinales | 29/6/2019 - 30/6/2019 |
+| Finales | 6/7/2019 - 7/7/2019 |
+| Gran Finales | 13/7/2019 - 14/7/2019 |
+| All-Stars | 13/7/2019 - 14/7/2019 |
 
 ## Premios
 
