@@ -5,13 +5,13 @@ outdated_translation: true
 
 # Critères de classement d'osu!
 
-***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Ces **critères de classement d'osu!** définissent les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques au mode [osu!](/wiki/Game_mode/osu!) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Ces **critères de classement d'osu!** définissent les [règles et directives](/wiki/Ranking_criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques au mode [osu!](/wiki/Game_mode/osu!) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
-Les règles et directives globales s'appliquent à tous les types de difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives globales s'appliquent à tous les types de difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent aux beatmaps d'environ 180 BPM avec des signatures temporelles 4/4. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Général
 
@@ -51,11 +51,11 @@ Les règles et directives globales s'appliquent à tous les types de difficulté
 
 ## Spécifique à une difficulté
 
-Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de la difficulté pour lesquelles elles sont listées et ne s'appliquent donc pas à **toutes** les difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_Criteria/Scaling_BPM).
+Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au niveau de la difficulté pour lesquelles elles sont listées et ne s'appliquent donc pas à **toutes** les difficultés d'osu!. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est nettement plus rapide ou plus lente, certaines variables peuvent être différentes, comme indiqué dans [Mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -68,7 +68,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 #### Règles
 
 - **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.**
-- **N'utilisez pas de [flèches d'inversion du slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **N'utilisez pas de [flèches d'inversion du slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de sliderend totalement transparents.
 
 #### Directives
@@ -101,7 +101,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 #### Règles
 
 - **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.**
-- **N'utilisez pas de [flèches d'inversion de slider qui ne suivent pas le chemin du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **N'utilisez pas de [flèches d'inversion de slider qui ne suivent pas le chemin du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents.
 
 #### Directives
@@ -142,7 +142,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 #### Règles
 
 - **Les objets séparés de 1/2 ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.** Les slider heads ou tails entièrement recouvertes par des slider tails sont exemptées, pour autant que leurs slider bodies soient visibles.
-- **N'utilisez pas de [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **N'utilisez pas de [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
   - Les sliders ambigus avec des follow circles qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
@@ -174,7 +174,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 #### Directives
 
 - **Les objets séparés de 1/4 ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement,** surtout sur les difficultés Insane plus simples.
-- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Évitez les [jumps](/wiki/Beatmap/Pattern/osu!/Jump) cross-screen et les [streams](/wiki/Beatmap/Pattern/osu!/Stream) dont les cercles ne se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmapping principalement réservées aux difficultés Expert.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 - **Évitez de recouvrir entièrement les flèches inversées des sliders avec des cercles, des sliders heads ou des sliders tails dans un délai de 1/2 avant que la flèche inversée ne soit atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
@@ -196,7 +196,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Directives
 
-- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
+- **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 
 #### Directives sur les paramètres de difficultés

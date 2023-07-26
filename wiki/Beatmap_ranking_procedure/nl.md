@@ -20,7 +20,7 @@ Beatmaps moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Beatma
 
 ## Nominaties
 
-Leden van de [Beatmapnominators](/wiki/People/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmap voldoet aan de [Rankingcriteria](/wiki/Ranking_Criteria) en aan hun persoonlijke kwaliteitsnormen.
+Leden van de [Beatmapnominators](/wiki/People/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmap voldoet aan de [Rankingcriteria](/wiki/Ranking_criteria) en aan hun persoonlijke kwaliteitsnormen.
 
 Leden van het [Nominatieafwegingsteam](/wiki/People/Nomination_Assessment_Team) (*NAT*) mogen ook beatmaps nomineren, maar dit is niet hun belangrijkste taak.
 

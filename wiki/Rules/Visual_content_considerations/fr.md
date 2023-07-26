@@ -4,7 +4,7 @@ Conformément à la [règle communautaire n°5](/wiki/Rules#règles-communautair
 
 Cela comprend :
 
-- la mise en ligne des beatmaps, **même celles taguées comme [explicites](/wiki/Rules/Explicit_Content)**.
+- la mise en ligne des beatmaps, **même celles taguées comme [explicites](/wiki/Rules/Explicit_content)**.
 - les détails du profil (avatars, images de couverture)
 - toute autre pièce jointe ou lien hypertexte (messages du forum, commentaires, messages de discussion sur une beatmap)
 
@@ -46,7 +46,7 @@ Dans certaines circonstances, des exceptions peuvent s'appliquer pour l'utilisat
 
 ## Faire évaluer votre image
 
-*Voir : [Processus de vote sur le contenu](/wiki/Rules/Content_Voting_Process).*
+*Voir : [Processus de vote sur le contenu](/wiki/Rules/Content_voting_process).*
 
 Les images qui sont utilisées n'importe où sur le site en dehors d'une beatmap (avatars, couvertures de profil, pages d'utilisateur, etc.) ne sont **pas** soumises à la procédure de vote expliquée ci-dessous et peuvent être supprimées à tout moment à la discrétion de la Global Moderation Team.
 

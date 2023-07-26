@@ -22,7 +22,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [อินเทอร์เฟซในเกม](/wiki/Client/Interface) • [การตั้งค่าเกม](/wiki/Client/Options) • [การตั้งค่าเรื่องภาพ](/wiki/Client/Interface/Visual_settings) • [คีย์ลัดต่าง ๆ](/wiki/Client/Keyboard_shortcuts) • [ไฟล์การตั้งค่า](/wiki/Client/Program_files/User_configuration_file) • [ไฟล์ของเกม](/wiki/Client/Program_files)
 
-[รูปแบบไฟล์](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[รูปแบบไฟล์](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -38,9 +38,9 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # [เครื่องมือแก้ไขบีทแมพ](/wiki/Client/Beatmap_editor)
 
-ส่วนต่าง ๆ: [หน้าสร้าง](/wiki/Client/Beatmap_editor/Compose) • [หน้าออกแบบ](/wiki/Client/Beatmap_editor/Design) • [การตั้งค่าจังหวะ](/wiki/Client/Beatmap_editor/Timing) • [การตั้งค่าเพลง](/wiki/Client/Beatmap_editor/Song_Setup)
+ส่วนต่าง ๆ: [หน้าสร้าง](/wiki/Client/Beatmap_editor/Compose) • [หน้าออกแบบ](/wiki/Client/Beatmap_editor/Design) • [การตั้งค่าจังหวะ](/wiki/Client/Beatmap_editor/Timing) • [การตั้งค่าเพลง](/wiki/Client/Beatmap_editor/Song_setup)
 
-ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Client/Beatmap_editor/Distance_snap) • [เมนู](/wiki/Client/Beatmap_editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Client/Beatmap_editor/SB_Load) • [เส้นเวลา](/wiki/Client/Beatmap_editor/Timelines)
+ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Client/Beatmap_editor/Distance_snap) • [เมนู](/wiki/Client/Beatmap_editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Client/Beatmap_editor/SB_load) • [เส้นเวลา](/wiki/Client/Beatmap_editor/Timelines)
 
 [การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Beatmap/Difficulty) • [เทคนิคการทำแมป](/wiki/Beatmapping/Mapping_techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboard#storyboarding)
 
@@ -51,7 +51,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [การอัปโหลด](/wiki/Beatmapping/Beatmap_submission) • [การวิจารณ์บีทแมพ](/wiki/Modding) • [ขั้นตอนการอนุมัติบีทแมพ](/wiki/Beatmap_ranking_procedure) • [กิลด์ของคนสร้างบีทแมพ](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[เกณฑ์การอนุมัติบีทแมพ](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[เกณฑ์การอนุมัติบีทแมพ](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">

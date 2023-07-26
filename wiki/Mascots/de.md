@@ -74,28 +74,28 @@ Agent J war auch in [LuigiHann](https://osu.ppy.sh/users/1079)'s Skin, [Elite Be
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Aiko wurde von [JMC](https://osu.ppy.sh/users/774010) entworfen und war eine der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist ein energiegeladenes Mädchen mit einer Leidenschaft für osu!taiko, auch wenn sie nicht die Beste darin ist! Mit einem Paar modischer "Tabi"-Schuhe und einem Gefolge von pippidon-Accessoires lebt das Maskottchen von einst in diesem temperamentvollen Mädchen weiter. Sie ist mit nur 154 Zentimetern recht klein und wurde am 06.04.1999 geboren.
+Aiko wurde von [JMC](https://osu.ppy.sh/users/774010) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist ein energiegeladenes Mädchen mit einer Leidenschaft für osu!taiko, auch wenn sie nicht die Beste darin ist! Mit einem Paar modischer "Tabi"-Schuhe und einem Gefolge von pippidon-Accessoires lebt das Maskottchen von einst in diesem temperamentvollen Mädchen weiter. Sie ist mit nur 154 Zentimetern recht klein und wurde am 06.04.1999 geboren.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Alisa wurde von [\[ Glitch \]](https://osu.ppy.sh/users/3781400) entworfen und war eine der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Sie spielt osu!taiko schon seit ihrer frühen Kindheit. Wenn sie nicht gerade schläft oder isst, spielt sie osu!taiko oder hat Spaß an Retro-Videospielen!
+Alisa wurde von [\[ Glitch \]](https://osu.ppy.sh/users/3781400) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie spielt osu!taiko schon seit ihrer frühen Kindheit. Wenn sie nicht gerade schläft oder isst, spielt sie osu!taiko oder hat Spaß an Retro-Videospielen!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Chirou wurde von [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler—vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,80 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Chirou wurde von [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler—vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,80 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, auch bekannt als Taikonator 3000, war einer der Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko. Er hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Taikonator, auch bekannt als Taikonator 3000, war einer der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko und wurde von [Lemia-Chan](https://osu.ppy.sh/users/8506749) designt. Taikonator hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Tama wurde von [crystalsuicine](https://osu.ppy.sh/users/9974) entworfen und war mit nur 15 Jahren eine der jüngeren Teilnehmenden am Designwettbewerb für das Maskottchen von osu!taiko (oder doch nicht?). Tama hat eine große Leidenschaft für das Taiko-Trommeln. Und Gewitter. Und vor allem Festivals, auf denen sie jedes Takoyaki aufschnappt, das sie finden kann. Tama ist immer für eine Herausforderung zu haben und verbirgt hinter ihrem jugendlichen Auftreten eine besonders mysteriöse Vergangenheit.
+Tama wurde von [crystalsuicine](https://osu.ppy.sh/users/9974) entworfen und war mit nur 15 Jahren eine der jüngeren Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko (oder doch nicht?). Tama hat eine große Leidenschaft für das Taiko-Trommeln. Und Gewitter. Und vor allem Festivals, auf denen sie jedes Takoyaki aufschnappt, das sie finden kann. Tama ist immer für eine Herausforderung zu haben und verbirgt hinter ihrem jugendlichen Auftreten eine besonders mysteriöse Vergangenheit.

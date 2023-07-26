@@ -5,15 +5,15 @@ outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
 
 # Ranking criteria osu!taiko
 
-***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_criteria).***
 
-**Ranking criteria osu!taiko** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!taiko](/wiki/Game_mode/osu!taiko) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+**Ranking criteria osu!taiko** menjabarkan [aturan dan pedoman](/wiki/Ranking_criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!taiko](/wiki/Game_mode/osu!taiko) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -43,7 +43,7 @@ outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
 
 ## Keseluruhan
 
-Keberlakuan keseluruhan aturan dan pedoman untuk setiap tingkat kesulitan osu!taiko. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk sekitar 180 BPM beatmap dengan 4/4 *time signatures*. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_Criteria/Scaling_BPM).
+Keberlakuan keseluruhan aturan dan pedoman untuk setiap tingkat kesulitan osu!taiko. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk sekitar 180 BPM beatmap dengan 4/4 *time signatures*. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Umum
 
@@ -78,7 +78,7 @@ Pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dib
 
 ## Tingkat kesulitan
 
-Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantum, dan oleh karena itu *tidak berlaku untuk **setiap** kesulitan osu!taiko*. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk  beatmap sekitar 180 BPM. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_Criteria/Scaling_BPM).
+Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantum, dan oleh karena itu *tidak berlaku untuk **setiap** kesulitan osu!taiko*. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk  beatmap sekitar 180 BPM. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 

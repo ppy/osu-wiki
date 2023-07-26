@@ -75,7 +75,7 @@ Les tags sont séparées par des espaces. Il n'est pas nécessaire d'utiliser ce
 
 ![Deux captures d'écran de l'onglet Difficulty. osu!mania diffère des autres modes de jeu.](img/SS_Difficulty.jpg "Onglet Difficulty. La section de droite est pour les beatmaps spécifiques à osu!mania.")
 
-*Remarque : Les [Critères de classement](/wiki/Ranking_Criteria) spécifiques au mode de jeu ont des valeurs de classement qui doivent être utilisées.*
+*Remarque : Les [Critères de classement](/wiki/Ranking_criteria) spécifiques au mode de jeu ont des valeurs de classement qui doivent être utilisées.*
 
 Les paramètres de difficulté de la beatmap ; chaque paramètre affecte différents aspects de la beatmap.
 
@@ -178,7 +178,7 @@ Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](
 
 #### Sample Set Selection
 
-Choisissez d'utiliser globalement les jeux d'échantillons intégrés `Normal`, `Soft`, ou `Drum`. Il est possible d'[activer les surcharges personnalisées](/wiki/Guides/Custom_Sample_Overrides) pour utiliser en priorité les fichiers hitsound dans le dossier de la beatmap pour les hitsounds personnalisés.
+Choisissez d'utiliser globalement les jeux d'échantillons intégrés `Normal`, `Soft`, ou `Drum`. Il est possible d'[activer les surcharges personnalisées](/wiki/Guides/Custom_sample_overrides) pour utiliser en priorité les fichiers hitsound dans le dossier de la beatmap pour les hitsounds personnalisés.
 
 #### Sample Set Volume
 

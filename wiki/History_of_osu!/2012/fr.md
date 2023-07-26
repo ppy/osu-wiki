@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "Le menu principal d'osu! à l'époque")
 
-osu! et sa communauté ont célébré le 5e anniversaire d'osu! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut d'[osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 17/09/2012 T02:00+08:00, qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
+osu! et sa communauté ont célébré le 5e anniversaire d'osu! le 17/09/2012. Pendant cette période, tous les joueurs ont reçu le statut d'[osu!supporter](/wiki/osu!supporter) pendant 24 heures, à partir du 16/09/2012 (18:00 UTC), qui était l'heure de sortie originale d'osu! en 2007. peppy avait l'intention de distribuer une première version d'osu! sous une forme ou une autre pour la célébration, afin que les joueurs puissent faire l'expérience d'osu! à une époque antérieure, là où se trouvaient les racines du programme. Cependant, en raison des différentes versions du fichier `.dll`, peppy n'a pas été en mesure de le faire fonctionner. Il a dit qu'il le ferait fonctionner un jour.
 
 Liens :
 

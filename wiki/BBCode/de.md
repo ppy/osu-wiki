@@ -243,7 +243,9 @@ Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forumsbeiträge
 
 Um an die Bildadresse zu gelangen, muss man auf die Webseite gehen, auf der das Bild ist. Dann muss man mit der Maus über das Bild fahren, einen Rechtsklick auf das Bild machen und `Grafikadresse kopieren` wählen. Anschließend sollte die Adresse zwischen den Tags eingefügt werden.
 
-Obwohl Bilder von überall aus verlinkt werden können, empfiehlt osu!, dass Nutzer Bilder auf seriösen Filehosting-Diensten wie [Imgur](https://imgur.com) hochladen, da manche Webseiten die direkte Verlinkung zu Bildern nicht erlauben (auch bekannt als "Hotlinks").
+Obwohl Bilder von überall aus verlinkt werden können, empfiehlt osu!, dass Nutzer Bilder auf seriösen Filehosting-Diensten wie [ImgBB](https://imgbb.com/) hochladen, da manche Webseiten die direkte Verlinkung zu Bildern nicht erlauben (auch bekannt als "Hotlinks").
+
+*Hinweis: Imgur blockiert IP-Adressen der osu!-Webseite. Das bedeutet, dass dort neu hochgeladene Bilder nicht mehr länger angezeigt werden können.*[^imgur-blocked-ip]
 
 Schaltfläche in der Symbolleiste: ![Button für Bilder](img/image.png "Bild")
 
@@ -344,3 +346,7 @@ Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den
 - Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
 - Bevor das Tag `imagemap` hinzugefügt wurde, war es möglich, einen Hyperlink zu einem Bild hinzuzufügen, indem die Tags `url` und `img` kombiniert wurden. Jedoch kann nur ein Hyperlink pro Bild gesetzt werden. Dazu muss man das Originalbild in mehrere Teile zerschneiden (also für jeden Link ein Teilbild) und diese horizontal nebeneinander anordnen.
+
+## Referenzen
+
+[^imgur-blocked-ip]: [Tweet von @ppy (29.06.2023)](https://twitter.com/ppy/status/1674439849749913602)

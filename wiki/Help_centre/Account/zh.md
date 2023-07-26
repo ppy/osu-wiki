@@ -167,7 +167,7 @@ tags:
 
 **可以，但是仍有一些前提条件。**
 
-我们为用户资料卡直接显示的曾用名提供免费恢复。发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
+我们为用户资料卡直接显示的最后一个曾用名提供免费恢复。发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
 
 对任何其他先前名称的更改必须 [通过商店购买](https://osu.ppy.sh/store/products/32)。
 

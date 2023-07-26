@@ -7,7 +7,7 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 - Extremely and unbearably loud
 - Modified to contain audible clipping or distortion unintended by the artist
 
-Please note that songs with explicit content are [covered by different regulations](/wiki/Rules/Explicit_Content).
+Please note that songs with explicit content are [covered by different regulations](/wiki/Rules/Explicit_content).
 
 ## What classifies as "heavily political" content?
 

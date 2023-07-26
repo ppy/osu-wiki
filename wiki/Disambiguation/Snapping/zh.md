@@ -4,7 +4,7 @@
 
 ## 作图
 
-- [节拍对齐](/wiki/Beatmapping/Snapping)，指打击物件在乐理上一拍的位置，会按[节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)设置自动划分
+- [节拍对齐](/wiki/Beatmapping/Snapping)，指打击物件在乐理上一拍的位置，会按[节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor)设置自动划分
 - [网格对齐](/wiki/Beatmapping/Grid_snapping)，指打击物件在游玩区域的位置
 
 ## 游玩

@@ -14,8 +14,8 @@ tags:
 
 ![AP 模组图标](/wiki/shared/mods/AP.png "Auto Pilot (AP) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*请勿与 [Auto （模组）](/wiki/Game_modifier/Auto) 混淆。*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*请勿与 [Auto （模组）](/wiki/Gameplay/Game_modifier/Auto) 混淆。*
 
 ## 关于
 
@@ -30,10 +30,10 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-**Autopilot** [游戏模组](/wiki/Game_modifier)用于 [osu!](/wiki/Game_mode/osu!) 游戏模式中，会控制光标移动，自动移动到下一个[打击物件](/wiki/Hit_object)的中心，让玩家来点击。使用此模组游玩期间，玩家仅可在暂停屏幕上移动光标。
+**Autopilot** [游戏模组](/wiki/Gameplay/Game_modifier)用于 [osu!](/wiki/Game_mode/osu!) 游戏模式中，会控制光标移动，自动移动到下一个[打击物件](/wiki/Gameplay/Hit_object)的中心，让玩家来点击。使用此模组游玩期间，玩家仅可在暂停屏幕上移动光标。
 
 此模组也会禁用游戏中界面，因此会隐藏[分数](/wiki/Gameplay/Score)、[连击数](/wiki/Beatmapping/Combo)和断连。可以按`Shift`+`Tab` 键重新启用游戏中界面。
 
-除此之外，此模组的每分钟转数（SPM）与 [Spun Out](/wiki/Game_modifier/Spun_Out) 模组相近，玩家无法通过用光标旋转转盘来提高 SPM 值。
+除此之外，此模组的每分钟转数（SPM）与 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组相近，玩家无法通过用光标旋转转盘来提高 SPM 值。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 13083d397dd5ce8b2f27d2617fce72d9aa95f33d
+---
+
 # Évaluations des Beatmap Nominators
 
 Les évaluations de ceux qui demandent à devenir [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) ainsi que des Beatmap Nominators actuels sont effectuées par les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur seront examinés régulièrement. Toutes les évaluations ont lieu sur le [site web de la NAT](https://bn.mappersguild.com/).

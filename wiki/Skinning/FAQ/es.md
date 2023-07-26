@@ -40,7 +40,7 @@ También puedes cerrar y volver a abrir osu! o actualizar osu! para recargar la 
 
 ### ¿Qué son los Sets de skinning?
 
-*Pagina principal: [Criterios de clasificación/Lista de Sets de Skinning](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Pagina principal: [Criterios de clasificación/Lista de Sets de Skinning](/wiki/Ranking_criteria/Skin_set_list)*
 
 En osu!, hay alrededor de 200 elementos personalizables (sin incluir los fotogramas animados de manera individual). Sin embargo, no estas obligado a editar todos ellos. A su vez, podrías simplemente removerlos ya que osu! utilizara las imágenes predeterminadas para los cuales no incluyas.
 

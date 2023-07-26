@@ -4,7 +4,7 @@ In this guide, you will learn how to use custom [hitsounds](/wiki/Beatmapping/Hi
 
 ## Getting custom hitsounds
 
-In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for getting sound samples, including cymbals, drums, bells, whistles, and more. Alternatively, if you can't find what you are looking for, you can make your own samples!
+In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_hitsound_library) is a great resource for getting sound samples, including cymbals, drums, bells, whistles, and more. Alternatively, if you can't find what you are looking for, you can make your own samples!
 
 Hitsounds should be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. Sound files in `.mp3` format have slight delays and may not accurately match up to the song you are trying to hitsound. However, they may still be usable for certain sound effects such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 

@@ -18,7 +18,7 @@ Every BN is reviewed regularly by members of the NAT.
 
 For Nominators on [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/People/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
 
-For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months.
+For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months. If a Beatmap Nominator has passed 2 evaluations in a row without any issues, their evaluations get scheduled every 6 months instead. Any warning will reset the evaluation period back to every 3 months.
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 

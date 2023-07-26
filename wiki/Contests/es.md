@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: b79c7e6106a93708b711a2ad41407cea5e25a880
 ---
 
 # Concursos
@@ -62,7 +64,7 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 
 ### [Aspire](Aspire)
 
-**Aspire** es un concurso de mapeo único en su clase donde los mapeadores participantes son desafiados a crear el mapa más innovador imaginable sin ninguna restricción de los [criterios de clasificación](/wiki/Ranking_Criteria). El concurso anima a los mapeadores a explorar en la medida de lo posible las posibilidades técnicas del juego.
+**Aspire** es un concurso de mapeo único en su clase donde los mapeadores participantes son desafiados a crear el mapa más innovador imaginable sin ninguna restricción de los [criterios de clasificación](/wiki/Ranking_criteria). El concurso anima a los mapeadores a explorar en la medida de lo posible las posibilidades técnicas del juego.
 
 | Concurso No. | Canción | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -233,6 +235,7 @@ En su lanzamiento, el concurso fue nombrado "Best of", ya que la premisa inicial
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) por ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) por ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) por ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) por ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) por ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
+| [#3](/wiki/Contests/Skinning_Contest/3) | [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) por ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) por ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [#1](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results) |
 
 ### [osu!trivium Quiz](osu!trivium_Quiz)
 

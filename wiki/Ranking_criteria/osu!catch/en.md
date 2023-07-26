@@ -1,12 +1,12 @@
 # osu!catch ranking criteria
 
-***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
+***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### General
 
@@ -49,11 +49,11 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

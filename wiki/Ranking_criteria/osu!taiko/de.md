@@ -1,14 +1,14 @@
 # Ranking-Kriterien für osu!taiko
 
-***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_Criteria).***
+***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
 
-Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wiki/Ranking_Criteria#general-terms) fest, die [osu!taiko](/wiki/Game_mode/osu!taiko)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
+Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wiki/Ranking_criteria#general-terms) fest, die [osu!taiko](/wiki/Game_mode/osu!taiko)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
 
 ## Glossar
 
 ### Schwierigkeitsgrade
 
-*Hauptartikel: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Hauptartikel: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
@@ -38,7 +38,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 
 ## Global
 
-Globale Regeln und Richtlinien gelten für alle Arten von osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit etwa 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_Criteria/Scaling_BPM) ausführlich beschrieben.
+Globale Regeln und Richtlinien gelten für alle Arten von osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit etwa 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
 
 ### Allgemein
 
@@ -56,12 +56,13 @@ Alle Regeln sind genau das: **Regeln**. Sie sind **keine** Richtlinien und dürf
   - **...zwischen 3:30 und 4:15 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Muzukashii sein.
   - **...zwischen 4:15 und 5:00 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Oni sein.
   - **[Pausen](/wiki/Beatmap/Break) dürfen mit [Drain-Zeit](/wiki/Beatmap/Drain_time) kombiniert werden, um die oben genannten Grenzwerte zu erreichen.** In der höchsten Schwierigkeitsstufe ist das auf allerhöchstens 30 Sekunden Pause begrenzt. Dies gilt nicht für Schwierigkeitsgrade mit weniger als 30 Sekunden Drain-Zeit.
+- **Lasse keinen Platz zwischen dem Taiko-Spielfeld und dem Hintergrund frei.** Wenn dies der Fall ist, solltest du die letzte Null in der Datei `.osu` in der Zeile `0,0,"name_des_hintergrunds.datei_endung",0,0` unter der Überschrift `[Events]` mit Notepad ändern. Positive Werte senken den Hintergrund, während negative Werte ihn anheben.
 
 #### Richtlinien
 
 In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergewöhnlichen Umstände müssen durch eine ausführliche Erklärung gerechtfertigt sein, warum die Richtlinie ignoriert wurde und warum ihre Beachtung die Gesamtqualität des Werks beeinträchtigen würde.
 
-- **Vermeide es, wesentliche Bereiche des Hintergrunds mit dem Taiko-Spielfeld zu verdecken.** Wenn dies der Fall ist, solltest du die letzte Null in der Datei `.osu` in der Zeile `0,0,"name_des_hintergrunds.datei_endung",0,0` unter der Überschrift `[Events]` mit Notepad ändern. Positive Werte senken den Hintergrund, während negative Werte ihn anheben.
+- **Vermeide es, wesentliche Bereiche des Hintergrunds mit dem Taiko-Spielfeld zu verdecken.**
 - **Wenn die Geschwindigkeit von Slidern verändert wird, sollte diese den Tempoänderungen im Song entsprechen.** Das bedeutet, dass ruhige Teile eines Songs nicht beschleunigt und schnelle Teile nicht verlangsamt werden.
 - **Vermeide es, weiche Änderungen der Slider-Geschwindigkeit in Sektionen mit variabler Taktteilung zu benutzen.** Dadurch wird die Lesbarkeit dieser Taktteilungen beeinträchtigt, daher solltest du die Abweichungen niedrig genug halten, um ein Überlappen zu verhindern.
 - **Vermeide abrupte Änderungen der Slider-Geschwindigkeit innerhalb von Patterns, die bereits überlappen (z. B. 1/4-Streams).** Weiche Änderungen der Slider-Geschwindigkeit sollten in diese Fällen benutzt werden, um sicherzustellen, dass die Patterns lesbar bleiben.
@@ -78,7 +79,7 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 
 ## Abhängig vom Schwierigkeitsgrad
 
-Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_Criteria/Scaling_BPM) ausführlich beschrieben.
+Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
@@ -97,8 +98,8 @@ Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigke
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
-- Allgemeine Schwierigkeit sollte 4 oder weniger sein.
-- HP-Drain-Rate sollte 6 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 6 angepasst werden.
+- Allgemeine Schwierigkeit sollte 3 oder weniger sein.
+- HP-Drain-Rate sollte 8 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 8 angepasst werden, und umgekehrt für eine geringere Notenanzahl.
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -127,8 +128,8 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
-- Allgemeine Schwierigkeit sollte 5 oder weniger sein.
-- HP-Drain-Rate sollte 5 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 5 angepasst werden.
+- Allgemeine Schwierigkeit sollte 4 oder weniger sein.
+- HP-Drain-Rate sollte 7 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 7 angepasst werden, und umgekehrt für eine geringere Notenanzahl.
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -151,14 +152,14 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 #### Richtlinien für die Schwierigkeitseinstellungen
 
 - Allgemeine Schwierigkeit sollte 5 oder weniger sein.
-- HP-Drain-Rate sollte 5 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 5 angepasst werden.
+- HP-Drain-Rate sollte 6 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 6 angepasst werden, und umgekehrt für eine geringere Notenanzahl.
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### Regeln
 
 - **Finisher-Notes dürfen nicht in 1/6 oder schnelleren Patterns in dieser Schwierigkeitsstufe platziert werden.** Die Verwendung von Finisher-Notes ist für das Zielpublikum zu kompliziert.
-- **Finisher-Notes für 1/4-Patterns in dieser Schwierigkeitsstufe dürfen nur am Ende des Patterns platziert werden.** Andere Platzierungen können die Lesbarkeit für das Zielpublikum zu stark beeinträchtigen.
+- **Finisher-Notes für 1/4-Patterns in dieser Schwierigkeitsstufe dürfen nur am Ende des Patterns platziert werden und müssen die entgegengesetzte Farbe der vorhergehenden Note haben.** Andere Platzierungen können die Lesbarkeit für das Zielpublikum zu stark beeinträchtigen.
 - **Noten müssen mindestens einen 1/8-Takt auseinander liegen.** Alles, was schneller ist, ist für das Zielpublikum dieses Schwierigkeitsgrades zu komplex.
 
 #### Richtlinien

@@ -9,7 +9,7 @@ tags:
 
 # Velocidad de aproximación
 
-*Para conocer los valores sugeridos de AR, véase: [Criterios de clasificación](/wiki/Ranking_Criteria)*
+*Para conocer los valores sugeridos de AR, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
 
 La **velocidad de aproximación** (***AR***) es una configuración de dificultad del [beatmap](/wiki/Beatmap) que define cuándo los [objetos](/wiki/Gameplay/Hit_object) empiezan a desvanecerse en relación con cuándo deben ser golpeados o recolectados. Existe solo en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
 

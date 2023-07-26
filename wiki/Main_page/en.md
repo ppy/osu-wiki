@@ -28,7 +28,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 [Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -48,9 +48,9 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarise yourself with the built-in editor and the opportunities it has to offer.
 
-Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
+Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-Components: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
+Components: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
 
 Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
@@ -63,7 +63,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 [Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -72,9 +72,9 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
-[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Content voting process](/wiki/Rules/Content_Voting_Process) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
+Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelines) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content) • [Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
 
 [Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_licensing)
 
@@ -115,7 +115,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 [osu! team](/wiki/People/osu!_team) • [Developers](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community Contributors](/wiki/People/Community_Contributors) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
+[Community Contributors](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -133,7 +133,7 @@ Interact with osu! via other applications and media, or help it grow further.
 
 Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
 
-[History of osu!](/wiki/History_of_osu!) • [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[History of osu!](/wiki/History_of_osu!) • [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
 

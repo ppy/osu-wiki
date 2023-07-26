@@ -14,7 +14,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 **Global Moderation Team (ทีมผู้ดูแล)** (เดิมชื่อ Global Mod Team, Administrators หรือ GreenBAT) โดยทั่วไปเรียกว่า **GMT** เป็นสมาชิกของชุมชนที่มุ่งเน้นในการดูแลผู้เล่นเป็นหลัก รวมถึงประเด็นที่เกี่ยวข้องกับทีม และชุมชนโดยรวม พวกเขาสังเกตได้จากตำแหน่งชื่อผู้ใช้ และสีของ username ซึ่งเป็นสีแดงในเกมและสีเขียวซิตรัสบนฟอรัม
 
-**Global Moderator ทุกคน ได้สาบานที่จะทำตาม[จรรยาบรรณผู้ช่วยเหลือ](/wiki/Rules/Contributor_Code_of_Conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
+**Global Moderator ทุกคน ได้สาบานที่จะทำตาม[จรรยาบรรณผู้ช่วยเหลือ](/wiki/Rules/Contributor_code_of_conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
 
 ## หน้าที่และความรับผิดชอบ
 
@@ -76,11 +76,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | โปรตุเกส, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | ฝรั่งเศส | ผู้ดูแลแชท |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
@@ -105,7 +103,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | ผู้ดูแลแชท |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | มาเลย์ | ผู้ดูแลแชท |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | โปแลนด์ | Skinning community moderation |

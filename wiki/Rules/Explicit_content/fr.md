@@ -4,11 +4,11 @@
 
 Les mappeurs peuvent déclarer si le contenu de leurs beatmap est *explicite* en cochant la case `Contenu explicite` qui se trouve dans le [menu déroulant genre et langue](/wiki/Beatmap/Genre_and_language) sur la liste web de la beatmap correspondant. Cette fonctionnalité a quelques attentes et règles qui définissent son utilisation.
 
-Quelle que soit la nature du contenu audio, assurez-vous qu'il est également conforme aux [règles générales relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules).
+Quelle que soit la nature du contenu audio, assurez-vous qu'il est également conforme aux [règles générales relatives au contenu des musiques](/wiki/Rules/Song_content_rules).
 
 ## Qu'est-ce qui est considéré comme un contenu explicite ?
 
-Le contenu explicite se réfère principalement au **contenu audio d'une beatmap**, surtout en ce qui concerne le thème, le sujet ou l'utilisation *lourde* de langage explicite. Il ne s'applique pas aux éléments visuels d'une beatmap, qui doivent respecter les [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations), ou à tout autre aspect modifiable par l'utilisateur d'une beatmap (comme les tags ou les noms de difficulté d'une beatmap) qui **doivent** respecter les [règles de la communauté d'osu!](/wiki/Rules) comme d'habitude.
+Le contenu explicite se réfère principalement au **contenu audio d'une beatmap**, surtout en ce qui concerne le thème, le sujet ou l'utilisation *lourde* de langage explicite. Il ne s'applique pas aux éléments visuels d'une beatmap, qui doivent respecter les [considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations), ou à tout autre aspect modifiable par l'utilisateur d'une beatmap (comme les tags ou les noms de difficulté d'une beatmap) qui **doivent** respecter les [règles de la communauté d'osu!](/wiki/Rules) comme d'habitude.
 
 D'une manière générale, la plupart des formes de musique peuvent être utilisées dans les beatmaps, à quelques exceptions près, pour autant qu'elles soient tagués de manière appropriée.
 

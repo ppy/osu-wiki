@@ -33,7 +33,7 @@ tags:
 
 ## Описание
 
-**Hard Rock** — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmap/Approach_rate), [потери здоровья (HP)](/wiki/Gameplay/Health) и [общей сложности (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
+**Hard Rock** — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmap/Approach_rate), [потери здоровья (HP)](/wiki/Gameplay/Health) и [общей сложности (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
 
 ### osu!
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 56bb211d402cccb87387244bd25c0a1ec937c9cc
+---
+
 # L'équipe de l'osu!monthly
 
 **L'équipe de l'osu!monthly** gère le bulletin d'information [osu!monthly](/wiki/Community/osu!monthly).

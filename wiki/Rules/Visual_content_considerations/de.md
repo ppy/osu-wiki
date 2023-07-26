@@ -8,7 +8,7 @@ Nach [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! ein
 
 Das beinhaltet:
 
-- eingereichte Beatmaps, **sogar die, die mit [explizit](/wiki/Rules/Explicit_Content) markiert wurden**
+- eingereichte Beatmaps, **sogar die, die mit [explizit](/wiki/Rules/Explicit_content) markiert wurden**
 - Profildetails (Avatare, Titelbilder)
 - jeder andere Anhang oder Hyperlink (Forumsbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
 
@@ -50,7 +50,7 @@ In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendung
 
 ## Dein Bild bewerten lassen
 
-*Siehe: [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_Voting_Process).*
+*Siehe: [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_voting_process).*
 
 Bilder, die überall auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des globalen Moderationsteams entfernt werden.
 

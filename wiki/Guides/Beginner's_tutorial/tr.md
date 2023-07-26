@@ -28,7 +28,7 @@ Fare oynanışı genellikle şunda sorun yaşar:
 
 ### Tablet Oynanışı
 
-Eğer tablet kullanarak oynayacaksanız, tablette rahatça oynayabildiğiniz bir alan seçmeye çalışın. Eğer osu! için bir tablet satın alacaksanız, [Tablet satın alma](/wiki/Guides/Tablet_Purchase) kılavuzunu incelemelisiniz. Ayrıca, birkaç tane ek uç satın alın, zira çabuk bitmeye meyilli oldukları için, özellikle aktif oynanış sırasında, ne zaman ihtiyacınız olacağı belli olmaz. Dairelere tıklamak için tabletin kendisini kullanabilseniz de, oyuncuların çoğu birazdan bahsedeceğimiz gibi klavyelerini kullanır. Tablet oynanışı şunlarda öne çıkar:
+Eğer tablet kullanarak oynayacaksanız, tablette rahatça oynayabildiğiniz bir alan seçmeye çalışın. Eğer osu! için bir tablet satın alacaksanız, [Tablet satın alma](/wiki/Guides/Tablet_purchase) kılavuzunu incelemelisiniz. Ayrıca, birkaç tane ek uç satın alın, zira çabuk bitmeye meyilli oldukları için, özellikle aktif oynanış sırasında, ne zaman ihtiyacınız olacağı belli olmaz. Dairelere tıklamak için tabletin kendisini kullanabilseniz de, oyuncuların çoğu birazdan bahsedeceğimiz gibi klavyelerini kullanır. Tablet oynanışı şunlarda öne çıkar:
 
 - İmleç kaymasız oynanış.
 - Kusursuz hareket ve hız.
@@ -84,7 +84,7 @@ Sürekli nota kaçırmanıza sebep olan bir şey üzerinde pratik yapmaktan çek
 
 ### Üniversal Ofset
 
-*Ana sayfa: [Offset Sihirbazı Nasıl Kullanılır](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Ana sayfa: [Offset Sihirbazı Nasıl Kullanılır](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 osu!'yu oynamak için kullandığınız aygıtlara bağlı olarak, vuruş dairelerinin müziğin ritmine tam olarak uymadığını fark edebilirsiniz. Bunu düzeltmek için, [Ayarlar](/wiki/Client/Options) menüsündeki üniversal ofset değerini değiştirebilirsiniz. Üniversal ofset beatmaplerin ilk notasının ne zaman ortaya çıkacağını (ister daha erken ister daha geç) değiştirir, bu da beatmaptaki diğer bütün notaların aynı miktarda gecikmesine sebep olur. Negatif bir değer notaların biraz daha geç, pozitif bir değer ise daha erken ortaya çıkmalarına sebep olur.
 

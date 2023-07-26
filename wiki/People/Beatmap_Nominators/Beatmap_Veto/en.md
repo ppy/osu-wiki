@@ -43,8 +43,6 @@ In order to re-initiate a mediation which resulted in the dismissal of a veto, a
 
 **If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present.
 
-In order to re-initiate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initiate the mediation with a newly randomly selected jury.
-
 Once changes are made to the beatmap, both the Nominator performing the beatmap veto, as well as the jury members upholding it, will be called to recheck the beatmap and decide individually if the issues have been satisfactorily addressed.
 
 ## Challenging a beatmap veto
@@ -54,7 +52,10 @@ If a beatmap veto is upheld, the mapper may request another mediation if they me
 - The latest veto mediation has been concluded for at least a year.
 - The beatmap currently has 2 Beatmap Nominators who are willing to nominate it, in case the veto is dismissed later.
 
-To request a new mediation, the mapper must contact a member of the NAT corresponding to the game mode of the vetoed beatmap. Said request should include a link to the initial mediation conclusion post and the names of the 2 BNs who are willing to nominate the beatmap. The NAT will then contact the 2 BNs, and if there are no issues, the NAT will re-initiate the mediation with a new randomly selected jury.
+To request a new mediation, the mapper must contact a member of the NAT corresponding to the game mode of the vetoed beatmap. Said request should include a link to the initial mediation conclusion post and the names of the 2 BNs who are willing to nominate the beatmap. The NAT will then contact the 2 BNs, and if there are no issues, the NAT will re-initiate the mediation with special conditions:
+
+- The jury will consist of every member of the BN/NAT corresponding to the game mode of the vetoed beatmap.
+- The mediation will last for 2 weeks.
 
 **If the veto is dismissed**, the 2 BNs mentioned above may nominate the beatmap. If said BNs are no longer willing to nominate, their position as Beatmap Nominators may be questioned as a result.
 

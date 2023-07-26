@@ -2,6 +2,8 @@
 tags:
   - game client
   - client du jeu
+outdated_translation: true
+outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
 ---
 
 # Mise à jour vers lazer

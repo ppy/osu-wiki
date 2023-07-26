@@ -1,12 +1,12 @@
 # osu! ranking criteria
 
-***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
+***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### General
 
@@ -51,11 +51,11 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu! difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu! difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -68,7 +68,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 
 #### Guidelines
@@ -101,7 +101,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 
 #### Guidelines
@@ -142,7 +142,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
   - Ambiguous sliders with follow circles that cover the whole slider path are allowed, assuming the slider borders are straightforward.
 
@@ -174,7 +174,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap),** especially on simpler Insane difficulties.
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Avoid cross screen [jumps](/wiki/Beatmap/Pattern/osu!/Jump) and [streams](/wiki/Beatmap/Pattern/osu!/Stream) whose circles do not [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
@@ -196,7 +196,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty setting guidelines

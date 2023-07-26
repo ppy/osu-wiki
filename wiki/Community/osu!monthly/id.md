@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 56bb211d402cccb87387244bd25c0a1ec937c9cc
+---
+
 # osu!monthly
 
 **osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini merangkum berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya pada setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama: yaitu untuk mengabarkan segala sesuatunya yang terjadi di osu! kepada khalayak umum.
@@ -39,7 +44,7 @@ Informasi lebih lanjut mengenai osu!monthly versi pertama dapat dilihat pada [si
 
 Informasi lebih lanjut mengenai osu!monthly versi kedua dapat dilihat pada [situs web resmi osu!monthly berikut](https://osumonthly.com/), yang juga mengandung informasi seputar tim liputan yang bertugas dan arsip edisi terdahulu.
 
-### Versi ketiga (2022–sekarang)
+### Versi ketiga (2022–2023)
 
 | Judul publikasi | Tanggal rilis |
 | :-- | :-- |

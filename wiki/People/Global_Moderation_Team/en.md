@@ -12,7 +12,7 @@ tags:
 
 The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large. They are distinguished by their citrus green user title, [user group](/wiki/People/User_group) badge that reads `GMT`, and their red in-game username.
 
-**All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+**All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
 ***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -53,7 +53,7 @@ Generally, the team will observe people for several weeks or months to make sure
 
 *Note: All GMT members speak English in addition to the languages listed below, unless noted otherwise.*
 
-The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
@@ -77,11 +77,9 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat moderation |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support, wiki administration |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian | Mapping/modding community moderation |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnish, some Swedish | Chat moderation |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | French | Chat moderation |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Mapping/modding community moderation |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding community moderation |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | French, Spanish | Chat moderation |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, mapping/modding community moderation |
@@ -106,7 +104,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | Chat moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korean, Japanese | Chat moderation |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malay | Chat moderation |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polish | Skinning community moderation |

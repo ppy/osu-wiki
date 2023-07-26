@@ -12,7 +12,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 **Moderatorzy globalni** (ang. Global Moderation Team, GMT) to członkowie społeczności osu!, którzy są odpowiedzialni za moderowanie i rozwiązywanie problemów w społeczności gry.
 
-**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Rules/Contributor_Code_of_Conduct).**
+**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Rules/Contributor_code_of_conduct).**
 
 Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_bad_behaviour/Abuse), by dowiedzieć się więcej.
 
@@ -68,11 +68,9 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, japoński | Moderowanie czatu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Zarządzanie społecznością, zarządzanie wiki osu! |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonezyjski | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fiński, szwedzki (częściowo) | Moderowanie czatu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderowanie czatu |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Francuski | Moderowanie czatu |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francuski, hiszpański | Moderowanie czatu |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
@@ -97,7 +95,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malajski | Moderowanie czatu |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Skinning community moderation |

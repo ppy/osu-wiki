@@ -23,7 +23,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 [Arayüz](/wiki/Client/Interface) • [Seçenekler](/wiki/Client/Options) • [Görsel ayarlar](/wiki/Client/Interface/Visual_settings) • [Kısayol tuşu referansı](/wiki/Client/Keyboard_shortcuts) • [Yapılandırma dosyası](/wiki/Client/Program_files/User_configuration_file) • [Program dosyaları](/wiki/Client/Program_files)
 
-[Dosya formatları](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Dosya formatları](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,9 +39,9 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 # [Beatmap düzenleyici](/wiki/Client/Beatmap_editor)
 
-Kısımlar: [Oluştur](/wiki/Client/Beatmap_editor/Compose) • [Dizayn](/wiki/Client/Beatmap_editor/Design) • [Zamanlama](/wiki/Client/Beatmap_editor/Timing) • [Şarkı kurulumu](/wiki/Client/Beatmap_editor/Song_Setup)
+Kısımlar: [Oluştur](/wiki/Client/Beatmap_editor/Compose) • [Dizayn](/wiki/Client/Beatmap_editor/Design) • [Zamanlama](/wiki/Client/Beatmap_editor/Timing) • [Şarkı kurulumu](/wiki/Client/Beatmap_editor/Song_setup)
 
-Öğeler: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nota ızgara bölücü](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Mesafe aralığı](/wiki/Client/Beatmap_editor/Distance_snap) • [Menü](/wiki/Client/Beatmap_editor/Menu) • [SB yükü](/wiki/Client/Beatmap_editor/SB_Load) • [Zaman çizgileri](/wiki/Client/Beatmap_editor/Timelines)
+Öğeler: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nota ızgara bölücü](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Mesafe aralığı](/wiki/Client/Beatmap_editor/Distance_snap) • [Menü](/wiki/Client/Beatmap_editor/Menu) • [SB yükü](/wiki/Client/Beatmap_editor/SB_load) • [Zaman çizgileri](/wiki/Client/Beatmap_editor/Timelines)
 
 [Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Beatmap/Difficulty) • [Mapleme teknikleri](/wiki/Beatmapping/Mapping_techniques) • [Storyboard oluşturma](/wiki/Storyboard#storyboarding)
 
@@ -52,7 +52,7 @@ Kısımlar: [Oluştur](/wiki/Client/Beatmap_editor/Compose) • [Dizayn](/wiki/C
 
 [Gönderme](/wiki/Beatmapping/Beatmap_submission) • [Modlama](/wiki/Modding) • [Derecelendirme prosedürü](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Derecelendirme kriterleri](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Derecelendirme kriterleri](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">

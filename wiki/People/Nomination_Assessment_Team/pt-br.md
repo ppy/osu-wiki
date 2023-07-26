@@ -11,7 +11,7 @@ A **Equipe de Avaliação de Nomeação** (***NAT***) são os moderadores dos [N
 
 Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário vermelhos. Assim como a [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team) (*GMT*), eles possuem permissões de moderação pelo site e um nome vermelho escuro nos canais de chat do jogo.
 
-**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
+**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_code_of_conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
 Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
@@ -20,7 +20,7 @@ Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo
 Os NAT são responsáveis por uma variedade de tarefas relacionadas a mapping que podem ser separadas em quatro subcategorias:
 
 - **Avaliação:** Avaliar a proficiencia e atividade de ambos Nomeadores de Beatmap e candidatos. A maioria dos membros do NAT são responsáveis em contribuir para essa categoria.
-- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_Criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
+- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
 - **Moderação:** Tratar denúncias de usuário e avaliar comportamento impróprio dos Nomeadores de Beatmap. Essa subcategoria é um trabalho conjunto entre os NAT e os GMT.
 - **Comunicação:** Promover transparência entre os NAT e a comunidade de mapping/modding, incluindo a criação e organização de reuniões.
 
@@ -49,19 +49,20 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinês | Evaluation, structural |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorrusso, russo | Evaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Português | Evaluation |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Holandês | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Evaluation, structural |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinês | Evaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Structural |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonês, chinês | Evaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, sérvio | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Evaluation |
@@ -71,7 +72,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de árabe | Evaluation |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francês, um pouco de italiano | Leadership |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Português | Evaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
@@ -82,12 +82,19 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espanhol, alemão | Evaluation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Evaluation |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
 
 ### osu!mania
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinês | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluation |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Espanhol | Evaluation |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinês | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésio | Evaluation |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dinamarquês | Evaluation |
+
+### Contas de bot
+
+| Nome | Línguas adicionais | Responsabilidades primárias |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

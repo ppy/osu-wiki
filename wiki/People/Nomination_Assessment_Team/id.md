@@ -11,7 +11,7 @@ tags:
 
 Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna merah. Sama seperti [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), mereka mempunyai izin moderasi di seluruh situs dan nama pengguna berwarna merah tua di kanal obrolan in-game.
 
-**Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
+**Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
 ## Tanggung Jawab
 
@@ -20,7 +20,7 @@ Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna m
 NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan menjadi empat subkategori:
 
 - **Evaluasi:** Mengevaluasi kemampuan dan aktivitas dari Beatmap Nominator dan pelamar saat ini. Sebagian besar anggota NAT bertanggung jawab untuk berkontribusi pada subkategori ini.
-- **Struktural:** Mendokumentasikan topik seputar proses ranking, mengubah aturan dan pedoman di [ranking criteria](/wiki/Ranking_Criteria), mengembangkan dan memelihara alat dan situs web terkait.
+- **Struktural:** Mendokumentasikan topik seputar proses ranking, mengubah aturan dan pedoman di [ranking criteria](/wiki/Ranking_criteria), mengembangkan dan memelihara alat dan situs web terkait.
 - **Moderasi:** Menangani laporan dari pengguna dan menilai perilaku yang tidak pantas dari Beatmap Nominator. Subkategori ini adalah upaya bersama antara NAT dan GMT.
 - **Komunikasi:** Mempromosikan transparansi antara NAT dan komunitas mapping/modding, termasuk pembuatan dan penyelenggaraan rapat.
 
@@ -42,26 +42,27 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_content_considerations#menilai-gambar-anda).
 
 ### osu!
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Tionghoa | Evaluation, structural |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusia, Rusia | Evaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Tionghoa | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugis | Evaluation |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Belanda | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluation, structural |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Evaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Structural |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Tionghoa | Evaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polski | Evaluation |
@@ -71,7 +72,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab | Evaluation |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Leadership |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugis | Evaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
@@ -82,12 +82,19 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluation |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
 
 ### osu!mania
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Tionghoa | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnam | Evaluation |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanyol | Evaluation |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Tionghoa | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluation |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dansk | Evaluation |
+
+### Akun bot
+
+| Nama | Bahasa tambahan | Tanggung Jawab Utama |
+| :-- | :-- | :-- |
+| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |

@@ -5,13 +5,13 @@ outdated_since: a704d0375b650c2b6e5ad45a4f30db88719500d4
 
 # Ranking criteria osu!catch
 
-***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_criteria).***
 
-**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Keseluruhan
 
-Keseluruhan aturan dan pedoman berlaku untuk setiap jenis tingkat kesulitan osu!catch. Aturan dan pedoman ritme berlaku untuk beatmap sekitar 180 BPM dengan 4/4 time signature. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan dalam [Penskalaan BPM di ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Keseluruhan aturan dan pedoman berlaku untuk setiap jenis tingkat kesulitan osu!catch. Aturan dan pedoman ritme berlaku untuk beatmap sekitar 180 BPM dengan 4/4 time signature. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan dalam [Penskalaan BPM di ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Umum
 
@@ -54,11 +54,11 @@ Keseluruhan aturan dan pedoman berlaku untuk setiap jenis tingkat kesulitan osu!
 
 ## Tingkat kesulitan
 
-Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantum, dan oleh karena itu *tidak berlaku untuk **setiap** kesulitan osu!catch*. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk beatmap sekitar 180 BPM. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_Criteria/Scaling_BPM).
+Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantum, dan oleh karena itu *tidak berlaku untuk **setiap** kesulitan osu!catch*. Aturan dan pedoman yang berhubungan dengan ritme berlaku untuk beatmap sekitar 180 BPM. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti dijelaskan di dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Nama kesulitan
 
-*Artikel utama: [Penamaan tingkat kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Artikel utama: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

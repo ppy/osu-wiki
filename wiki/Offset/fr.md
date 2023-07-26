@@ -14,13 +14,13 @@ Selon le type de décalage, il est défini par le créateur de la beatmap, perso
 
 ### Mapping
 
-- [Points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("ligne rouge"), le début d'une nouvelle [timing section](/wiki/Beatmapping/Timing_section). Les points de timing se situent à un décalage par rapport au début du fichier audio, mais ce point de timing est parfois appelé "décalage".
-- [Points de timing hérités](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("ligne verte"), une [timing section](/wiki/Beatmapping/Timing_section) qui contrôle des paramètres tels que le [kiai](/wiki/Gameplay/Kiai_time), le [sampleset](/wiki/Beatmapping/Sampleset), la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), et le niveau de volume des hitsounds.
+- [Points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("ligne rouge"), le début d'une nouvelle [timing section](/wiki/Client/Beatmap_editor/Timing). Les points de timing se situent à un décalage par rapport au début du fichier audio, mais ce point de timing est parfois appelé "décalage".
+- [Points de timing hérités](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("ligne verte"), une [timing section](/wiki/Client/Beatmap_editor/Timing) qui contrôle des paramètres tels que le [kiai](/wiki/Gameplay/Kiai_time), le [sampleset](/wiki/Beatmapping/Sampleset), la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), et le niveau de volume des hitsounds.
 - Beatmap offset, le temps entre le début du fichier audio et le premier [downbeat](/wiki/Music_theory/Downbeat) de la chanson, tel que contrôlé par les points de timing.
 
 ## Paramètres de beatmap
 
-*Note : Les décalages de l'introduction et de la vidéo ne sont modifiables que par l'[édition du fichier de la beatmap](/wiki/Client/File_formats/Osu_(file_format)).*
+*Note : Les décalages de l'introduction et de la vidéo ne sont modifiables que par l'[édition du fichier de la beatmap](/wiki/Client/File_formats/osu_(file_format)).*
 
 - Countdown offset, un paramètre qui affecte le temps d'apparition du [compte à rebours](/wiki/Beatmap/Countdown) avant le premier objet, mesuré en [beats](/wiki/Music_theory/Beat).
 - [Lead-in](/wiki/Beatmap/Lead-in_time), une période de délai supplémentaire avant que la beatmap ne commence.

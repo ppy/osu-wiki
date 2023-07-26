@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 ---
 
 <div class="wiki-main-page__blurb">
@@ -26,7 +28,7 @@ layout: main_page
 
 [游戏界面](/wiki/Client/Interface) • [游戏设置](/wiki/Client/Options) • [视觉设置](/wiki/Client/Interface/Visual_settings) • [快捷键](/wiki/Client/Keyboard_shortcuts) • [配置文件](/wiki/Client/Program_files/User_configuration_file) • [目录文件](/wiki/Client/Program_files)
 
-[文件格式](/wiki/Client/File_formats)：[.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[文件格式](/wiki/Client/File_formats)：[.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -46,9 +48,9 @@ layout: main_page
 
 osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大家分享你喜欢的歌却不知道从何下手？来学习一下如何使用游戏内的谱面编辑器吧。
 
-部件：[创作 (Compose)](/wiki/Client/Beatmap_editor/Compose) • [设计 (Design)](/wiki/Client/Beatmap_editor/Design) • [测定时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing) • [歌曲设置 (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup)
+部件：[创作 (Compose)](/wiki/Client/Beatmap_editor/Compose) • [设计 (Design)](/wiki/Client/Beatmap_editor/Design) • [测定时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing) • [歌曲设置 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup)
 
-组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_Load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
+组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
 活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
 
@@ -61,7 +63,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [提交谱面](/wiki/Beatmapping/Beatmap_submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[谱面上架标准 (RC)](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_criteria)：[osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -70,9 +72,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 了解这些让 osu! 社区安全运营的准则，包括歌曲、媒体内容的授权与规范、聊天与论坛规章制度。
 
-[规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_code_of_conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [内容投票流程](/wiki/Rules/Content_Voting_Process) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
+媒体内容规范：[内容使用规范](/wiki/Rules/Content_usage_guidelines) • [内容投票流程](/wiki/Rules/Content_voting_process) • [少儿不宜内容](/wiki/Rules/Explicit_content) • [歌曲内容规范](/wiki/Rules/Song_content_rules) • [视觉内容注意事项](/wiki/Rules/Visual_content_considerations)
 
 [法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [歌曲许可](/wiki/Legal/Music_licensing)
 
@@ -131,7 +133,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
-[osu! 的历史](/wiki/History_of_osu!) • [在线排名历史](/wiki/History_of_osu!/Online_rankings) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
+[osu! 的历史](/wiki/History_of_osu!) • [在线排名历史](/wiki/History_of_osu!/Online_rankings) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
 [网站导航](/wiki/Sitemap) • [wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_styling_criteria)
 
