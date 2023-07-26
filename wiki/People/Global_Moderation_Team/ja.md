@@ -75,11 +75,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | テクニカルサポート |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | ポルトガル語、日本語 | チャットモデレーション |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | プレーヤーサポート、wiki管理者 |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | インドネシア語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | フィンランド語、部分的なスウェーデン語 | チャットモデレーション |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | ポーランド語 | チャットモデレーション |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | フランス語 | チャットモデレーション |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 中国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | フランス語、スペイン語 | チャットモデレーション |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション |
@@ -104,7 +102,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピノ語 | チャットモデレーション |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | ポーランド語 | Skinning community moderation |
