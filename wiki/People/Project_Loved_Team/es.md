@@ -16,7 +16,7 @@ Otros puestos importantes en el Project Loved Team son:
 
 - *Moderadores de contenido*, que se aseguran de que cada beatmap nominado cumpla con las [reglas de contenido de canciones](/wiki/Rules/Song_content_rules) y las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations).
 - *Revisores de descripción*, que verifican las descripciones escritas por los capitanes en busca de errores ortográficos y gramaticales.
-- *Metadata reviewers*, que se aseguran de que los metadatos de los beatmaps nominados sean correctos.
+- *Revisores de metadatos*, que se aseguran de que los metadatos de los beatmaps nominados sean correctos.
 
 La [página de grupo de Project Loved](https://osu.ppy.sh/groups/31) enumera todos los miembros del equipo. En el [sitio web de Project Loved](https://loved.sh/team) se puede encontrar una lista de miembros más detallada para todos los diversos roles dentro del Project Loved Team, así como miembros anteriores.
 
