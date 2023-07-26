@@ -3,6 +3,7 @@ tags:
   - beatmap packs
   - pack
   - 曲包
+  - 谱面包
 ---
 
 # 曲包
@@ -35,7 +36,7 @@ F2 - Rohi Pack.zip
 | **L** | 社区喜爱计划 | 社区在[社区喜爱计划](/wiki/Community/Project_Loved)选出的谱面 |
 | **R** | 聚光灯 | 来自[聚光灯](/wiki/Beatmap_Spotlights)的季度挑战谱面曲包，过去被称为 *Charts* |
 | **T** | 主题 | 基于特别主题的谱面 |
-| **A** | 艺术家/专辑 | 来自特定艺术家或专辑的歌曲 |
+| **A** | 艺术家/专辑 | 谱面内的歌曲来自特定艺术家或他们的专辑 |
 
 ## 导入
 
@@ -60,9 +61,9 @@ F2 - Rohi Pack.zip
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) （不活跃）
   - [nanashirei](https://osu.ppy.sh/users/807630) 的[镜像网站](http://osu.yas-online.net/)
 
-### 用 Torrent 下载
+### 用种子下载
 
-如果想要批量下载曲包而非一个个下载它们，你可以使用 Torrent 工具，从以下站点下载：
+如果你想要批量下载曲包，而非一个个下载它们，可以使用种子工具，并从以下站点下载：
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
   - [glukki](https://osu.ppy.sh/users/14285150) 的 [Resilio Sync 上的 Torrent 文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
