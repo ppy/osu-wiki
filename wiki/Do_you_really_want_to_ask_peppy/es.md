@@ -1,6 +1,6 @@
 # ¿De verdad quieres preguntarle a peppy?
 
-¡Buenos días! peppy entiende tu necesidad de querer contactarlo personalmente, pero te pide que primero entiendas que este **no** es el lugar donde quieres pedirle ayuda o soporte. Él mantiene el soporte de osu! independiente de los mensajes personales y también ve que responder a los MP es bastante difícil de seguir. Por lo tanto, te pide que hagas una de las siguientes opciones:
+¡Buenos días! peppy entiende tu necesidad de querer contactarlo personalmente, pero te pide que primero entiendas que este **no** es el lugar donde quieres pedirle ayuda o soporte. Él mantiene el soporte de osu! independiente de los mensajes personales y también le resulta bastante difícil responder a los MP. Por lo tanto, te pide que hagas una de las siguientes opciones:
 
 ## Soporte técnico
 
