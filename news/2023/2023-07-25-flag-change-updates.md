@@ -34,8 +34,6 @@ Changes like these wouldn't come without some regulations, so before you get all
 - At least 4 of the 6 months have to be logins from only one country location, with no changes from country to country.
 - You must not be registered for any ongoing tournaments.
 
-With some final words from ![peppy](https://osu.ppy.sh/users/2), make sure you are sure of this as once it is done, it cannot be undone.
-
 ---
 
 —Blushing
