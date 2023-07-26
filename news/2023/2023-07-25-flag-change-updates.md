@@ -34,6 +34,8 @@ Changes like these wouldn't come without some regulations, so before you get all
 - At least 4 of the 6 months have to be logins from only one country location, with no changes from country to country.
 - You must not be registered for any ongoing tournaments.
 
+With some final words of advice, once you change your flag you cannot revert it, so make sure you are 100% certain of the change.
+
 ---
 
 —Blushing
