@@ -5,7 +5,7 @@ Esto implica elegir una canción, [temporización](/wiki/Client/Beatmap_editor/T
 
 Los mappers generalmente quieren obtener sus beatmaps [clasificados](/wiki/Beatmap) que consiste en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
-Como osu! Es un juego basado en el ritmo, la canción/música que elijas mapear debe tener un ritmo obvio y constante.
+Como osu! es un juego basado en el ritmo, la canción/música que elijas mapear debe tener un ritmo obvio y constante.
 Intenta evitar canciones que tengan cambios de tempo (o de velocidad) o canciones lentas hasta que tenga más experiencia y estés acostumbrado al beatmapping.
 
 ## Empezar
@@ -23,7 +23,7 @@ Haz clic en la canción, esto abrirá el [editor de beatmaps](/wiki/Client/Beatm
 
 Al crear un nuevo [beatmap](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
-Deberas completar esta información antes de crear otra [dificultad](/wiki/Beatmap/Difficulty).
+Deberás completar esta información antes de crear otra [dificultad](/wiki/Beatmap/Difficulty).
 Esto asegurará que los metadatos sean consistentes en todas las dificultades del conjunto.
 
 Ahora puedes cambiar las opciones en las otras pestañas si lo deseas, pero pueden cambiarse más adelante.
@@ -53,4 +53,4 @@ Es donde puedes colocar visualmente objetos y alternar sus [hitsounds](/wiki/Bea
 *Página principal: [Design](/wiki/Client/Beatmap_editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 La pestaña de diseño del editor de beatmaps es donde puedes establecer la imagen de fondo del beatmap, agregar un vídeo y/o crear un storyboard básico.
-Dependiendo de lo que hagas, puedes usar la pestaña de diseño mucho o nada en absoluto, si llegas a hacer [SBS](/wiki/Storyboard/Scripting) (secuencias de comandos del guión gráfico).
+Dependiendo de lo que hagas, puedes usar la pestaña de diseño mucho o nada en absoluto, si llegas a hacer [SBS](/wiki/Storyboard/Scripting) (secuencias de comandos del storyboard).
