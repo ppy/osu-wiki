@@ -66,12 +66,12 @@ F2 - Rohi Pack.zip
 如果你想要批量下载曲包，而非一个个下载它们，可以使用种子工具，并从以下站点下载：
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
-  - [glukki](https://osu.ppy.sh/users/14285150) 的 [Resilio Sync 上的 Torrent 文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
+  - [glukki](https://osu.ppy.sh/users/14285150) 的 [Resilio Sync 上的种子文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
 - [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) （包含多种下载选项）
-  - [Elessey](https://osu.ppy.sh/users/4925105) 的 [Torrent 文件](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing)
+  - [Elessey](https://osu.ppy.sh/users/4925105) 的[种子文件](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [- Pandoro](https://osu.ppy.sh/users/2574057) 的 [PandoTracker 网站](https://pandotracker.me)
 
 <!-- TODO: new mirrors -->
 
-你需要大量存储空间（与带宽）来用 Torrent 下载所有曲包。
+你需要大量存储空间（与带宽）来用种子下载所有曲包。
