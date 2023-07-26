@@ -8,7 +8,7 @@ Beim [Storyboarding](/wiki/Storyboard) sind **Objekte** Sprites oder Animationen
 
 ## Definition von Objekten
 
-Um eine Instanz von einem Sprite (ein Standbild) oder einer Animation aufzurufen, benutze dazu eine Zeile im Abschnitt `[Events]` in einer .osb- oder .osu-Datei.
+Benutze eine einzelne Zeile im Abschnitt `[Events]` einer .osb oder .osu Datei, um eine Instanz eines Sprites (ein Standbild) oder einer Animation aufzurufen.
 
 | Standbild | Animierte Bilder |
 | :-- | :-- |
