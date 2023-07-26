@@ -60,7 +60,7 @@
 | Aitsuki Nakuru Pack | Pasa todos los mapas incluidos en el paquete de mapas [Aitsuki Nakuru Pack](https://osu.ppy.sh/beatmaps/packs/A78). |
 | Omoi Pack | Pasa todos los mapas incluidos en el paquete de mapas [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82). |
 | Chill Pack | Pasa todos los mapas incluidos en el paquete de mapas [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
-| Rohi Pack | Pasa todos los mapas incluidos en el paquete de mapas [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/). |
+| Rohi Pack | Pasa todos los mapas incluidos en el paquete de mapas [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
 | Drum & Bass Pack | Pasa todos los mapas incluidos en el paquete de mapas [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T109). |
 | Mappers' Guild Pack I | Pasa todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Pasa todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
