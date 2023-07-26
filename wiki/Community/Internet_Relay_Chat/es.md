@@ -45,7 +45,7 @@ De forma predeterminada, muchos clientes de IRC te informan cuando un usuario se
 | [Weechat](https://weechat.org/) | Escribe `/filter add joinquit * irc_join,irc_part,irc_quit *` |
 | [Konversation](https://konversation.kde.org/) | Marca «Hide Join/Part/Nick Events» en `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Consulta [la página de la wiki de KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
-| [mIRC](https://www.mirc.com/) | Ve a mIRC Options (`Tools` -> `Options` o `Alt` + `O`), selecciona `IRC`, haz clic en el botón `Events...` y selecciona `Hide` para uniones y partes |
+| [mIRC](https://www.mirc.com/) | Ve a mIRC Options (`Tools` -> `Options` o `Alt` + `O`), selecciona `IRC`, haz clic en el botón `Events...` y selecciona `Hide` para uniones y partidas |
 | [Quassel IRC](https://quassel-irc.org/) | Haz clic derecho dentro del chat y elige Joins/Parts/Quits en el menú «Hide Events» |
 | [XChat](http://xchat.org/) | Escribe `/set irc_conf_mode 1` |
 
