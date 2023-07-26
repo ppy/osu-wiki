@@ -11,7 +11,7 @@ Intenta evitar canciones que tengan cambios de tempo (o de velocidad) o cancione
 ## Empezar
 
 Para crear un nuevo beatmap, ve al modo de edición y luego arrastra y suelta un archivo de audio en osu!.
-(Alternativamente, puedes moverun archivo de audio en la carpeta `Songs`.)
+(Alternativamente, puedes mover un archivo de audio en la carpeta `Songs`.)
 Esto debería abrirse y dirigirte a la pantalla de edición con tu archivo de audio.
 Tu nueva canción estará disponible en la parte inferior de la lista de canciones, resaltada en púrpura.
 Si no aparece en la selección de la canción por alguna razón, presiona `F5` para restablecer la caché de los beatmaps y debería aparecer.
