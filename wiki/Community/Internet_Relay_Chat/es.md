@@ -19,7 +19,7 @@ Abre la configuración de tu cliente de IRC y completa los valores (es posible q
 - Nombre de usuario: tu nombre de usuario de osu!. Reemplaza los espacios con guiones bajos (por ejemplo, `beppy master 1000` se convierte en `beppy_master_1000`)
 - Contraseña: la contraseña de la [página de configuración de la cuenta](https://osu.ppy.sh/home/account/edit#legacy-api)
 
-*Advertencia: Tu contraseña de IRC es diferente a la contraseña de tu cuenta. **No lo compartas con otros**.*
+*Advertencia: Tu contraseña de IRC es diferente a la contraseña de tu cuenta. **No la compartas con otros**.*
 
 ## Comandos básicos de IRC
 
