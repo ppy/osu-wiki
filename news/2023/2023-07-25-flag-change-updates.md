@@ -8,7 +8,7 @@ Ever felt like you need a flag change? Look no further.
 
 ![](/wiki/shared/news/2023-07-25-flag-change-updates/banner.jpg)
 
-Flag changes have been disabled from the osu! community and from osu! support since December 2021, and for the first time since then they have been reopened — with some minor adjustments.
+The flag change process for the osu! community has been frozen since December 2021, and for the first time since then it has been resumed — with some minor adjustments.
 
 ### Changes
 
@@ -30,9 +30,9 @@ and subsequently, if you do not have the option to change flags it will appear l
 
 Changes like these wouldn't come without some regulations, so before you get all excited and change your flag to somewhere you don't really live in, read below:
 
-- There are 6 months of previous data (meaning you can't make an account and immediately change your flag).
-- At least 4 of the 6 months have logins from only one country location, with no changes from country to country.
-- You are not actively registered for any ongoing tournament.
+- There needs to be 6 months of previous data used to determine your country of residency (meaning you can't make an account and immediately change your flag).
+- At least 4 of the 6 months have to be logins from only one country location, with no changes from country to country.
+- You must not be registered for any ongoing tournaments.
 
 With some final words from ![peppy](https://osu.ppy.sh/users/2), make sure you are sure of this as once it is done, it cannot be undone.
 
