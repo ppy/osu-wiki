@@ -1,6 +1,6 @@
 # Expectativas de los Beatmap Nominators
 
-*Véase también: [Reglas para los Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules)*
+*Véase también: [Reglas para los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules)*
 
 Como figuras centrales en sus respectivas comunidades y osu! en general, los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) tienen un estándar más alto que otros usuarios. Las expectativas enumeradas aquí son el resultado de la discusión dentro del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Si bien no es razonable alinearse perfectamente con estas expectativas, salirse de la línea puede generar advertencias y/o la eliminación de los Beatmap Nominators. Todas las situaciones se juzgan caso por caso según la frecuencia, la gravedad, el impacto y el sentido común.
 
