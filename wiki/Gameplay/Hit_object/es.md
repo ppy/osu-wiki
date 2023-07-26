@@ -6,7 +6,7 @@ tags:
 
 # Objetos
 
-Los *objetos* son elementos donde los jugadores pueden interactuar jugando un [beatmap](/wiki/Beatmap). Cada [modo de juego](/wiki/Game_mode) tiene su propio conjunto único de objetos que cambiaran la experiencia del juego. Para obtener una descripción general de cada modo de juego y sus objetos, consulta la siguiente tabla:
+Los *objetos* son elementos donde los jugadores pueden interactuar jugando un [beatmap](/wiki/Beatmap). Cada [modo de juego](/wiki/Game_mode) tiene su propio conjunto único de objetos que cambiarán la experiencia del juego. Para obtener una descripción general de cada modo de juego y sus objetos, consulta la siguiente tabla:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
