@@ -1,8 +1,3 @@
----
-outdated_since: dd38e9ad6981cc86179f945188e72f518a6c5a79
-outdated_translation: true
----
-
 # Turnamen
 
 Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
@@ -509,6 +504,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Jepang A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: Tiongkok A | ::{ flag=KR }:: Korea Selatan |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 2022-10-10 | 2022-12-18 | ::{ flag=JP }:: Jepang | ::{ flag=CN }:: Tiongkok | ::{ flag=DE }:: Jerman A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament
