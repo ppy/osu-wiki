@@ -181,15 +181,11 @@ Your profile will show all your previous purchased name changes, but we only sel
 
 ## Other issues {id=other}
 
-### The flag/country on my account profile is wrong! {id=wrong-flag}
+### Can I change the flag/country on my account profile? {id=wrong-flag}
 
-**You can change your account country in the [account settings page](https://osu.ppy.sh/home/account/edit)!**
+**Yes, under certain circumstances.**
 
-A user is eligible for a flag change when:
-
-- There is at least 6 months of login data since the creation of the account, or since the last flag change
-- At least 4 of the 6 months have logins from the same country
-- The user is not registered for any ongoing tournaments
+If you have been consistently connecting from a country that differs from your account's country over a long period, you will be prompted to change your account country in the [account settings page](https://osu.ppy.sh/home/account/edit).
 
 ### Can I make more than one account? {id=no-multiaccounting}
 
