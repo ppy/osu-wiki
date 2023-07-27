@@ -10,7 +10,13 @@ When you see this post, you'll know for sure that our latest Summer Seasonal upd
 
 Somewhere in the world right now, it's summer. And it's also (probably) the 27th of July, which so turns out to be an excellent day for a big Summer content drop featuring all your favourite things: art, audio, and achievements.
 
-If you just want to get stuck into the thick of things, open up your game client and hop right in to some new spectacular summery tunes by [Redside](https://osu.ppy.sh/beatmaps/artists/184), one of our very own stupendously talented Featured Artists. This titular track is very aptly named as **beachballs!**, and if you can stop uncontrollably dancing for ten seconds after hearing it, you might notice that it's a summer-tinged spin on the osu! theme song that we all know and love.
+If you just want to get stuck into the thick of things, open up your game client and hop right in to some new spectacular summery tunes by [Redside](https://osu.ppy.sh/beatmaps/artists/184), one of our very own stupendously talented Featured Artists. This titular track is very aptly named as **beachballs!**, and if you can stop uncontrollably dancing for ten seconds after hearing it, you might notice that it's a summer-tinged spin on the osu! theme song that we all know and love:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aGBwDMIbATo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Especially intrepid mappers will also find that the track is now available over on [Redside's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/184), so why not try making a seasonal creation all of your own?
 
 With the mood set, let's delve into the winners from the Beach Episode Art Contest as voted by the community:
 
