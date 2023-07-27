@@ -88,7 +88,7 @@ Much like combing for shells on the beach, you never quite know what you'll find
 
 AND THAT'S NOT ALL!
 
-To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people since Halloween 2017 (or just solve them all in 2 days, that's fine too):
+To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017 (or just solve them all in 2 days, that's fine too):
 
 - **Resurgence**: 
     A flame rekindled. 
