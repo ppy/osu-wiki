@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023 Summer Splash!"
-date: 2023-07-27 11:00:00 +0000
+date: 2023-07-27 12:00:00 +0000
 ---
 
 When you see this post, you'll know for sure that our latest Summer Seasonal update is here! Check out all the details on the Beach Episode Art Contest winners (plus some peppy picks), new Hush-Hush medals, and an all-new main-menu track!
@@ -10,7 +10,7 @@ When you see this post, you'll know for sure that our latest Summer Seasonal upd
 
 Somewhere in the world right now, it's summer. And it's also (probably) the 27th of July, which so turns out to be an excellent day for a big Summer content drop featuring all your favourite things: art, audio, and achievements.
 
-If you just want to get stuck into the thick of things, open up your game client and hop right in to some new spectacular summery tunes by [Redside](https://osu.ppy.sh/beatmaps/artists/184), one of our very own stupendously talented Featured Artists. This bouncy track is very aptly named as ***beachballs!***, and if you can stop uncontrollably dancing for ten seconds after hearing it, you might notice that it's a summer-tinged spin on the osu! theme song that we all know and love:
+If you just want to get stuck into the thick of things, open up your game client and hop right into some new spectacular summery tunes by [Redside](https://osu.ppy.sh/beatmaps/artists/184), one of our very own stupendously talented Featured Artists. This bouncy track is very aptly named as ***beachballs!***, and if you can stop uncontrollably dancing for ten seconds after hearing it, you might notice that it's a summer-tinged spin on the osu! theme song that we all know and love:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aGBwDMIbATo" frameborder="0" allowfullscreen></iframe>
@@ -20,7 +20,7 @@ Especially intrepid mappers will also find that the track is now available over 
 
 With the mood set, let's delve into the winners from the Beach Episode Art Contest as voted by the community:
 
-### Beach Episode Art Contest Winners
+### Beach Episode Art Contest winners
 
 [![](https://assets.ppy.sh/contests/179/banners/RedcXca-banner.jpg)](https://assets.ppy.sh/contests/179/winners/RedcXca.png)
 
@@ -82,7 +82,7 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 **1809** voters shared a peaceful moment with [**Infinity21_EXE**](https://osu.ppy.sh/users/23873884)'s take on Alisa enjoying a picturesque rest by the seaside. Less is often more!
 
-### peppy's Picks
+### peppy's picks
 
 Wrangling code and configuring lasers is hard work, but rest assured, the Dean "peppy" Herbert has taken some time from his schedule to wield the mighty power of The Pick, as is our tradition (sometimes). When we asked to describe his choices, he simply opted to unleash a defensive beam into the ceiling and fled without further explanation.
 
@@ -90,13 +90,13 @@ That's summer for you!
 
 Much like combing for shells on the beach, you never quite know what you'll find when the Picks get involved — that is, unless you open up your game client and go looking! Know that any entry not featured in a banner up above that appears on the main menu was one of peppy's personal picks, and that there are **eight** of them to search for.
 
-### New Hush-Hush Medals
+### New Hush-Hush medals
 
 AND THAT'S NOT ALL!
 
 To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. 
 
-Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017. View them all below, courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/) (who are solving these riddles as we speak, at an alarmingly quick rate actually):
+Dive into some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017. View them all below, courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/) (who are solving these riddles as we speak, at an alarmingly quick rate actually):
 
 ![](https://assets.ppy.sh/media/news/727-medals.jpg)
 
