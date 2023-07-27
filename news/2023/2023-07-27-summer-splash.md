@@ -88,34 +88,13 @@ Much like combing for shells on the beach, you never quite know what you'll find
 
 AND THAT'S NOT ALL!
 
-To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017 (or just solve them all in 2 days, that's fine too):
+To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. 
 
-- **Resurgence**: 
-    A flame rekindled. 
-    *From the ashes, blaze bright.*
-- **Clarity**: 
-    And yet in our memories, you remain crystal clear. 
-    *A distorted reality and our own intersect.*
-- **Autocreation**: 
-    Absolute rule. 
-    *One is all.*
-- **Star Power**: 
-    AND I'LL DO IT AGAIN. 
-    *When an encore just isn't enough.*
-- **Causality**: 
-    Definitely not for casuals. 
-    *Flee from the future.*
-- **Abrogation**: 
-    Endure not the imposition of celestial law. 
-    *Return to whence the rules were first broken.*
-- **Internment**: 
-    Stained in the hues of madness, they rage within a four-walled jail. 
-    *Bask in the shade of an ailing mind.*
-- **Anabasis**: 
-    And what an adventure you had. 
-    *Life is but a journey of the senses.*
+Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017 (or just solve them all in 2 days, that's fine too) courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/): 
 
-Perhaps we've just lost our minds from the summer sun, but we're so confident in the challenge posed by one medal in particular that we're going to spice things up with a seaside bounty:
+![](https://assets.ppy.sh/media/news/727-medals.jpg)
+
+Yes, you read that right - perhaps we've just lost our minds from the summer sun, but we're so confident in the challenge posed by one medal in particular that we're going to spice things up with a seaside bounty:
 
 The very first person to successfully unlock the **Internment** medal will receive the highly-coveted *Medal Hunter* title.
 
