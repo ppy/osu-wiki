@@ -38,7 +38,7 @@ tags:
 
 Sudden Death **не** засчитает поражение, если игрок:
 
-- Не попал в [конец слайдера](/wiki/Gameplay/Hit_object/Slider/Slidertail) (т.е. [слайдербрейкнул (СБшнул)](/wiki/Gameplay/Judgement/Slider_break))
+- Не попал в [конец слайдера](/wiki/Gameplay/Hit_object/Slider/Slidertail) (т.е. [слайдербрейкнул](/wiki/Gameplay/Judgement/Slider_break))
 - Не зажата клавиша при ведении слайдера без слайдер-тиков
 
 Sudden Death не перезапускает карту автоматически, в отличие от мода [Perfect](/wiki/Gameplay/Game_modifier/Perfect). При провале карты будет показан обычный экран поражения.
