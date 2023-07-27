@@ -78,7 +78,7 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 ### peppy's Picks
 
-Wrangling code and configuring lazers is hard work, but rest assured, the Dean "peppy" Herbert has taken some time from his schedule to wield the mighty power of the Pick, as is our (sometimes) tradition. When we asked to describe his choices, he simply opted to unleash a defensive lazer into the ceiling and fled without further explanation.
+Wrangling code and configuring lazers is hard work, but rest assured, the Dean "peppy" Herbert has taken some time from his schedule to wield the mighty power of The Pick, as is our (sometimes) tradition. When we asked to describe his choices, he simply opted to unleash a defensive lazer into the ceiling and fled without further explanation.
 
 That's summer for you!
 
