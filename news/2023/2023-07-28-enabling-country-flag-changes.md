@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Country Flag Change Updates"
+title: "Enabling Country Flag Changes"
 date: 2023-07-28 13:00:00 +0000
 ---
 
@@ -20,4 +20,4 @@ Be careful with that button though — it's not revertable!
 
 Thank you for being patient while this automated system was in the works, because we know a lot of people were asking about flag changes for the past year and a half.
 
-—Walavouchey
+—Blushing & Walavouchey
