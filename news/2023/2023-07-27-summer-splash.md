@@ -125,6 +125,8 @@ That's it! Decipher the clues and unearth any of these eight seaside treasures f
 
 As always, a *huge* thank you goes out to anyone who submitted entries to the Beach Episode Art Contest — it turned out way better than we could've ever hoped for given all the hesitance around the theme in the past. The finalists listed above will all receive 3 months of osu!supporter to spice up their victory, and the top 3 will also receive bespoke profile badges made from their own creations.
 
+[You can also download a zip file containing all the finalist Beach Episode Art Contest entries here!](https://assets.ppy.sh/contests/179/winners/BeachEpisode2023Winners.zip)
+
 From all of us on the osu!team, we hope you've had, are having, or will have a wonderful summer! Good luck in your hunting!
 
 —Ephemeral
