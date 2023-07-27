@@ -24,11 +24,11 @@ With the mood set, let's delve into the winners from the Beach Episode Art Conte
 
 [![](https://assets.ppy.sh/contests/179/banners/RedcXca-banner.jpg)](https://assets.ppy.sh/contests/179/winners/RedcXca.png)
 
-**3003** adherents shed a single tear at the majesty of Alisa and Chirou basking in the cosmic sun that is fat Yoshi. Art Contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) is of course responsible for this artistic achievement, making this their first-ever top voted entry. Congratulations, and well-earned!
+**3003** adherents shed a single tear at the majesty of Alisa and Chirou basking in the cosmic sun that is fat Yoshi. Art contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) is of course responsible for this artistic achievement, making this their first-ever top-voted entry. Congratulations, and well earned!
 
 [![](https://assets.ppy.sh/contests/179/banners/Saeka-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Saeka.png)
 
-[**Saeka**](https://osu.ppy.sh/users/18025047)'s striking rendition of a straw-hatted pippi, Alisa enjoying a popsicle and a suspiciously pale feline mascot enjoying the beach trailed in close behind at **2905** votes, remaining neck-and-neck with first place for most of the contest. So close! The summer vibes are substantial in this one, and you know we love to see it.
+[**Saeka**](https://osu.ppy.sh/users/18025047)'s striking rendition of a straw-hatted pippi, Alisa enjoying a popsicle and a suspiciously pale feline mascot splashing in the water trailed in close behind at **2905** votes, remaining neck and neck with first place for most of the contest. So close! The summer vibes are substantial in this one, and you know we love to see it.
 
 [![](https://assets.ppy.sh/contests/179/banners/LeeNarie-banner.jpg)](https://assets.ppy.sh/contests/179/winners/LeeNarie.png)
 
@@ -36,7 +36,7 @@ With the mood set, let's delve into the winners from the Beach Episode Art Conte
 
 [![](https://assets.ppy.sh/contests/179/banners/KAITO-thighs-banner.jpg)](https://assets.ppy.sh/contests/179/winners/KAITO%20thighs.png)
 
-[**KAITO thighs**](https://osu.ppy.sh/users/13103233) (more likely known as Dreamxiety) makes her return to our Art Contests, casually collecting **2779** votes with a candid shot of pippi, Mocha, and a don all playing around in the surf. Who knew the game mode icons worked so well as a pattern for a ring float?
+[**KAITO thighs**](https://osu.ppy.sh/users/13103233) (more likely known as Dreamxiety) makes her return to our art contests, casually collecting **2779** votes with a candid shot of pippi, Mocha, and a don all playing around in the surf. Who knew the game mode icons worked so well as a pattern for a ring float?
 
 [![](https://assets.ppy.sh/contests/179/banners/Tofumang-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Tofumang.png)
 
@@ -44,11 +44,11 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 [![](https://assets.ppy.sh/contests/179/banners/Sjao-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Sjao.png)
 
-**2507** voters got caught up in the tide of [**Sjao**](https://osu.ppy.sh/users/7295733)'s creation, showcasing a lounging (and sparkling!) pippi in summerwear beneath a shining sun. It really is a battle of the Art Contest regulars this time around!
+**2507** voters got caught up in the tide of [**Sjao**](https://osu.ppy.sh/users/7295733)'s creation, showcasing a lounging (and sparkling!) pippi in summerwear beneath a shining sun. It really is a battle of the art contest regulars this time around!
 
 [![](https://assets.ppy.sh/contests/179/banners/DGen-banner.jpg)](https://assets.ppy.sh/contests/179/winners/DGen.png)
 
-**2329** voters joined [**DGen**](https://osu.ppy.sh/users/13290907)'s pippi for some refreshing treats on the beach, while Chirou and Mocha labor over a sandcastle in the background. There's glamour, there's glitz, and there's the ever-present summer sun. A scintillating entry, indeed!
+**2329** voters joined [**DGen**](https://osu.ppy.sh/users/13290907)'s pippi for some refreshing treats on the beach, while Chirou and Mocha labour over a sandcastle in the background. There's glamour, there's glitz, and there's the ever-present summer sun. A scintillating entry, indeed!
 
 [![](https://assets.ppy.sh/contests/179/banners/Hecatia-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Hecatia.png)
 
@@ -56,7 +56,7 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 [![](https://assets.ppy.sh/contests/179/banners/ksenikust-banner.jpg)](https://assets.ppy.sh/contests/179/winners/ksenikust.png)
 
-[**ksenikust**](https://osu.ppy.sh/users/8938068)'s seriously stylish pippi enchanted **2146** voters with her overwhelming star power and many osu!dachi(tm) branded drinks and accessories. Any resemblances to a tiny squealing Bocchi is purely coincidental.
+[**ksenikust**](https://osu.ppy.sh/users/8938068)'s seriously stylish pippi enchanted **2146** voters with her overwhelming star power and many osu!dachi™-branded drinks and accessories. Any resemblances to a tiny squealing Bocchi are purely coincidental.
 
 [![](https://assets.ppy.sh/contests/179/banners/Type-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Type.png)
 
@@ -64,11 +64,11 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 [![](https://assets.ppy.sh/contests/179/banners/ZunK-banner.jpg)](https://assets.ppy.sh/contests/179/winners/ZunK.png)
 
-**2112** voters couldn't help but smash the like button on [**ZunK**](https://osu.ppy.sh/users/1070783)'s piece portraying pippi, Mocha and Aiko trying to nab the perfect summer shot to put in their scrapbook of memories. W-wait, Aiko wasn't ready! Re-do!
+**2112** voters couldn't help but smash the like button on [**ZunK**](https://osu.ppy.sh/users/1070783)'s piece portraying pippi, Mocha and Aiko trying to nab the perfect summer shot to put in their scrapbook of memories. W-wait, Aiko wasn't ready! Redo!
 
 [![](https://assets.ppy.sh/contests/179/banners/Novarece-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Novarece.png)
 
-**2082** people waited in line to order from [**Novarece**](https://osu.ppy.sh/users/18728833)'s beachside stall featuring a smoothie-toting pippi expertly multitasking while ordering. This begs the question, if you order a set of beatmap pancakes, do they come in a set? We may never know.
+**2082** people waited in line to order from [**Novarece**](https://osu.ppy.sh/users/18728833)'s beachside stall featuring a smoothie-toting pippi expertly multitasking while preparing delicious food and drinks. This begs the question, if you order a set of beatmap pancakes, do they come in a set? We may never know.
 
 [![](https://assets.ppy.sh/contests/179/banners/tehfire-banner.jpg)](https://assets.ppy.sh/contests/179/winners/tehfire.png)
 
@@ -84,7 +84,7 @@ It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/u
 
 ### peppy's Picks
 
-Wrangling code and configuring lasers is hard work, but rest assured, the Dean "peppy" Herbert has taken some time from his schedule to wield the mighty power of The Pick, as is our (sometimes) tradition. When we asked to describe his choices, he simply opted to unleash a defensive beam into the ceiling and fled without further explanation.
+Wrangling code and configuring lasers is hard work, but rest assured, the Dean "peppy" Herbert has taken some time from his schedule to wield the mighty power of The Pick, as is our tradition (sometimes). When we asked to describe his choices, he simply opted to unleash a defensive beam into the ceiling and fled without further explanation.
 
 That's summer for you!
 
@@ -96,13 +96,13 @@ AND THAT'S NOT ALL!
 
 To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. 
 
-Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017 (or just solve them all in 2 days, that's fine too) courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/): 
+Dive in to some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017. View them all below, courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/) (who are solving these riddles as we speak, at an alarmingly quick rate actually):
 
 ![](https://assets.ppy.sh/media/news/727-medals.jpg)
 
-Yes, you read that right - perhaps we've just lost our minds from the summer sun, but we're so confident in the challenge posed by one medal in particular that we're going to spice things up with a seaside bounty:
+Yes, you read that right — perhaps we've just lost our minds from the summer sun, but we're so confident in the challenge posed by one medal in particular that we're going to spice things up with a seaside bounty:
 
-The very first person to successfully unlock the **Internment** medal will receive the highly-coveted *Medal Hunter* title.
+The very first person to successfully unlock the **Internment** medal will receive the highly coveted *Medal Hunter* title.
 
 That's it! Decipher the clues and unearth any of these eight seaside treasures for fun and glory.
 
@@ -112,6 +112,6 @@ As always, a *huge* thank you goes out to anyone who submitted entries to the Be
 
 [You can also download a zip file containing all the finalist Beach Episode Art Contest entries here!](https://assets.ppy.sh/contests/179/winners/BeachEpisode2023Winners.zip)
 
-From all of us on the osu!team, we hope you've had, are having, or will have a wonderful summer! Good luck in your hunting!
+From all of us on the osu! team, we hope you've had, are having, or will have a wonderful summer! Good luck in your hunting!
 
 —Ephemeral
