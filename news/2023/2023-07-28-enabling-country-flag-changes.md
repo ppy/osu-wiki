@@ -18,6 +18,8 @@ However, this has now been changed — if you've been consistently connecting fr
 
 Be careful with that button though — it's not revertable!
 
+---
+
 Thank you for being patient while this automated system was in the works, because we know a lot of people were asking about flag changes for the past year and a half.
 
 —Blushing & Walavouchey
