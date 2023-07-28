@@ -8,7 +8,7 @@ tags:
 
 ![SSSS 3 logo](img/logo.jpg)
 
-The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244). The tournament features a [Suiji-style team matchmaking system](https://osu.ppy.sh/community/forums/topics/1305570), in which players are assigned to a team at random prior to the start of the tournament based on each other's [BWS rank](wiki/Tournaments/Badge-weighted_seeding). It is open to all players from all ten [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank, and is the third iteration of the SEA Summer Suiji Showdown.
+The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244). The tournament features a [Suiji-style team matchmaking system](https://osu.ppy.sh/community/forums/topics/1305570), in which players are assigned to a team at random prior to the start of the tournament based on each other's [BWS rank](/wiki/Tournaments/Badge-weighted_seeding). It is open to all players from all ten [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank, and is the third iteration of the SEA Summer Suiji Showdown.
 
 ## Tournament schedule
 
@@ -598,12 +598,12 @@ Sunday, 11 June 2023:
 2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asia regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
+5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
 6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Team matchmaking
 
-1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) as follows:
+1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) as follows:
    - #1 - #24: Seed S
    - #25 - #48: Seed A
    - #49 - #96: Seed B
