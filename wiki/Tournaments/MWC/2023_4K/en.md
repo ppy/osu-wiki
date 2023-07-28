@@ -105,6 +105,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)** |
 
 Captains are listed in **bold**. Team listings are subject to change until the end of the signup period.
+
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
 ## Ruleset
