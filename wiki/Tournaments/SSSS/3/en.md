@@ -352,7 +352,7 @@ Saturday, 15 July 2023:
 | Lower | **Rumah Makan Padang** | **7** | 5 | hina motor | [#1](https://osu.ppy.sh/community/matches/109522492) |
 | Upper | Schale | 5 | **7** | **maimai** | [#1](https://osu.ppy.sh/community/matches/109507599) |
 | Lower | **blind people** | **7** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/109508192) |
- Lower | **Fuuka Motor** | **7** | 5 | geoguessr | [#1](https://osu.ppy.sh/community/matches/109507591) |
+| Lower | **Fuuka Motor** | **7** | 5 | geoguessr | [#1](https://osu.ppy.sh/community/matches/109507591) |
 
 Sunday, 16 July 2023:
 
@@ -470,6 +470,7 @@ Saturday, 24 June 2023:
 | 3-9 | Spacediver | 2 | **5** | **hina motor** | [#1](https://osu.ppy.sh/community/matches/109165166) |
 
 Sunday, 25 June 2023:
+
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3-7 | blind people | 4 | 4 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109181363) |
@@ -660,11 +661,11 @@ Sunday, 11 June 2023:
    - If a team is missing or otherwise not able to ready their lower seed players for the match, they are still allowed to continue playing with one player disadvantage (2v3) or two players disadvantage (1v3) should they wish to.
 4. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players and teams who are looking to warm up before the match are expected to do so by their own before the match commences.
 5. In a FreeMod pick, each team has to apply at least two unique mod combinations to play the beatmap with. Allowed mods are either NoMod or Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
-    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
-    - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
+   - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
+   - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
 6. The tiebreaking system works as follows:
-    - As the mappool for each stage is tailored so that the tiebreak occurs when there's exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
-    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
+   - As the mappool for each stage is tailored so that the tiebreak occurs when there's exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
+   - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
