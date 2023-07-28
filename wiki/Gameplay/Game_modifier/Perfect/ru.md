@@ -14,8 +14,8 @@ tags:
 
 ![Значок мода PF](/wiki/shared/mods/PF.png "Значок мода Perfect (PF)")
 
-_Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)_\
-_См. также: [Sudden Death (мод)](/wiki/Gameplay/Game_modifier/Sudden_Death)_
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
+*См. также: [Sudden Death (мод)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
 ## Краткая информация
 
