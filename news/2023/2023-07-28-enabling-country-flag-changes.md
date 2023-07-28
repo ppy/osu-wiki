@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enabling Country Flag Changes"
-date: 2023-07-28 13:00:00 +0000
+date: 2023-07-28 03:00:00 +0000
 ---
 
 In need of a flag change? Look no further.
@@ -10,7 +10,7 @@ In need of a flag change? Look no further.
 
 For every player, there is a flag displayed on their profile reflecting their country of residence. This flag is automatically assigned during account creation, is used for country leaderboards and affects eligibility for some country-based tournaments, contests and other events.
 
-Some players may have found themselves in an awkward situation when trying to play for their country while having the wrong flag, perhaps due to moving or having created their account during a trip. In the past, this was rectifiable by contacting the [account support team](/wiki/People/Account_support_team) with proof of residency, but that system was discontinued since December 2021 due to cases of abuse.
+Some players may have found themselves in an awkward situation when trying to play for their country while having the wrong flag, perhaps due to moving or having created their account during a trip. In the past, this was rectifiable by contacting the [account support team](/wiki/People/Account_support_team) with proof of residency, but that system was discontinued since December 2021 due to an uncomfortable amount of personal information being transmitted, as well as regular cases of abuse.
 
 However, this has now been changed — if you've been consistently connecting from a country that differs from the country associated with your account over a long period of time (currently this is 6 months), you will be prompted to change your country flag in the [account settings page](https://osu.ppy.sh/home/account/edit):
 
