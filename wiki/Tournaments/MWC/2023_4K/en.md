@@ -58,6 +58,8 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 ## Participants
 
+|  | Country | Members |
+| :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[C90](https://osu.ppy.sh/users/13858488)** |
 | ::{ flag=AT }:: | **Austria** | **[RealEric](https://osu.ppy.sh/users/16272683)** |
 | ::{ flag=AU }:: | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
