@@ -38,23 +38,23 @@ Como las medallas Hush-Hush están destinadas a ser logros secretos de algún ti
 
 ## Beatmap Spotlights
 
-Las **medallas Beatmap Spotlights** son medallas otorgadas al completar ciertos paquetes de beatmaps lanzados como parte de los [beatmaps destacados mensuales](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de beatmaps destacados correspondiente. Los siguientes mods están permitidos para su uso:
+Las **medallas Beatmap Spotlights** son medallas otorgadas al completar ciertos paquetes de beatmaps lanzados como parte de los [Beatmap Spotlights mensuales](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modos de juego* que se disputan en la tabla de clasificación de Beatmap Spotlights correspondiente. Los siguientes mods están permitidos para su uso:
 
 - [Mods de reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad)
 - [Mods de aumento de dificultad](/wiki/Gameplay/Game_modifier#aumento-de-dificultad)
 - [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), y [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
-Aunque los beatmaps destacados mensuales se suspendieron a partir de abril de 2018 a favor de los [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
+Aunque los Beatmap Spotlights mensuales se suspendieron a partir de abril de 2018 a favor de los [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
 
 ## Seasonal Spotlights
 
-Las **medallas Seasonal Spotlights** son medallas que se otorgan al completar ciertos paquetes de beatmaps lanzados como parte de [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de destacados de temporada correspondiente. Los siguientes mods están permitidos para su uso:
+Las **medallas Seasonal Spotlights** son medallas que se otorgan al completar ciertos paquetes de beatmaps lanzados como parte de [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modos de juego* que se disputan en la tabla de clasificación de Seasonal Spotlights correspondiente. Los siguientes mods están permitidos para su uso:
 
 - [Mods de reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad)
 - [Mods de aumento de dificultad](/wiki/Gameplay/Game_modifier#aumento-de-dificultad)
 - [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), y [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
-Aunque los destacados de temporada se suspendió a principios de 2020 a favor del [actual sistema de beatmaps destacados](/wiki/Beatmap_Spotlights), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
+Aunque Seasonal Spotlights se suspendió a principios de 2020 a favor del [actual sistema de Beatmap Spotlights](/wiki/Beatmap_Spotlights), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
 
 ## Beatmap Challenge Packs
 

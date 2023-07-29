@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 42e4d01ef7de7652219b7110c723462efcb41443
 tags:
   - profile
   - issue

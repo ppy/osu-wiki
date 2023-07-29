@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
----
-
 # Руководства
 
 Здесь приведён список руководств за авторством разных игроков osu!. Большинство из этих статей было сперва опубликовано в отдельных темах на форуме osu!, а затем викифицировано.
@@ -12,43 +6,48 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 
 *Основная статья: [Маппинг](/wiki/Beatmapping)*
 
+- [Гайд по маппингу в osu!mania](osu!mania_mapping_guide)
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
-- [Руководство по редактированию аудио](Audio_Editing)
-- [Как изменить исполнителя или название карты](Changing_the_Artist_or_Title)
-- [Изменение текста заголовка](/wiki/Beatmap/Title_text#changing-title-text)
+- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#changing-title-text)
+- [Как изменить исполнителя или название карты](Changing_the_artist_or_title)
+- [Как начать свой маппинг-проект?](Starting_a_beatmap_project)
+- [Как решить проблемы с BSS?](BSS_issues)
+- [Настройка оффсета и BPM](Setting_the_offset_on_the_correct_beat)
+- [Настройка тайминга](How_to_time_songs)
+- [Пользовательская библиотека хитсаундов](Custom_hitsound_library)
+- [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
-- [Пользовательская библиотека хитсаундов](Custom_Hitsound_Library)
-- [Список нестандартных хитсаундов](Custom_Sample_Overrides)
-- [Настройка тайминга](How_to_Time_Songs)
-- [Гайд по маппингу в osu!mania](osu!mania_Mapping_Guide)
-- [Настройка оффсета и BPM](Setting_the_Offset_on_the_Correct_Beat)
-- [Как начать маппинг-проект](Starting_a_Beatmap_Project)
 - [Скачивание видео с YouTube](Videos_from_YouTube)
+- [Нестандартные хитсаунды](Custom_sample_overrides)
+- [Тайминг песен с размером такта #/8](Timing_songs_with_8-signatures)
+- [Теория музыки](/wiki/Music_theory)
 
 ## Моддинг
 
 *Основная статья: [Моддинг](/wiki/Modding)*
 
-- [Как получить мод на свою карту](Getting_Your_Map_Modded)
+- [Как найти моды на свою карту](Getting_your_map_modded)
+- [Руководство по моддингу в osu!mania](osu!mania_modding_guide)
+- [Частые ошибки в моддинге](Common_modding_mistakes)
 
 ## Игра
 
-- [Туториал для начинающих](Beginner's_Tutorial)
-- [Как использовать мастер настройки оффсета](How_to_Use_the_Offset_Wizard)
-- [Поиск и скачивание карт](Searching_and_Downloading_Beatmaps)
-- [Руководство по покупке планшета](Tablet_Purchase)
+- [Как использовать мастер настройки оффсета](How_to_use_the_Offset_Wizard)
+- [Поиск и скачивание карт](Searching_and_downloading_beatmaps)
+- [Руководство по покупке планшета](Tablet_purchase)
+- [Туториал для начинающих](Beginner's_tutorial)
 
 ## Создание скинов
 
 *Основная статья: [Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)*
 
-- [Как удалить сложный фон на картинке](Cropping_with_Complex_Backgrounds)
-- [Как удалить простой фон на картинке](Cropping_with_Simple_Backgrounds)
-- [Как сделать правильно центрированные спиннеры в скинах](Making_Properly_Centred_Spinners)
+- [Как сделать правильно центрированные спиннеры в скинах](Making_properly_centred_spinners)
+- [Как удалить простой фон на картинке](Cropping_with_simple_backgrounds)
+- [Как удалить сложный фон на картинке](Cropping_with_complex_backgrounds)
 
 ## Разное
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [Как начать стримить osu!](Livestreaming_osu!)
-- [Решение проблем с OpenGL](OpenGL_Support_Issues)
 - [Как записать реплей в osu!](Recording_osu!)
+- [Как настроить стрим по osu!](Livestreaming_osu!)
+- [Решение проблем с OpenGL](OpenGL_support_issues)
