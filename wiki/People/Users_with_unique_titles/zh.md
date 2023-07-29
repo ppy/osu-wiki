@@ -4,7 +4,7 @@
 
 ## 现任世界杯冠军头衔获得者
 
-每年，[官方世界杯](/wiki/Tournaments#official-world-cups)的获胜者都会被授予 **osu!/osu!taiko/osu!catch/osu!mania Champion** 头衔。这个头衔的有效时间将会持续到来年同名世界杯举办。
+每年，[官方世界杯](/wiki/Tournaments#官方世界杯)的获胜者都会被授予 **osu!/osu!taiko/osu!catch/osu!mania Champion** 头衔。这个头衔的有效时间将会持续到来年同名世界杯举办。
 
 拥有 **osu! Champion** 头衔的 [OWC 2022](/wiki/Tournaments/OWC/2022) 冠军：
 
