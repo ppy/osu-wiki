@@ -2,16 +2,16 @@
 
 **.osr** è un formato file contenente informazioni riguardanti un replay di osu!. Per usarlo, la mappa specificata dal file è richiesta nella cartella "Songs".
 
-## Tipo di Dati
+## Tipo di dati
 
 | Nome | Bytes | Descrizione |
 | :-- | :-- | :-- |
 | Byte | 1 | Un singolo valore a 8 bit. |
-| Short | 2 | Un valore a 2 byte in formato little endian. |
+| Short | 2 | Un valore little endian a 2 byte. |
 | Integer | 4 | Un valore little endian a 4 byte. |
 | Long | 8 | Un valore little endian a 8 byte. |
-| ULEB128 | Variabile | Un intero di lunghezza variabile. Vedere [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
-| Stringa | Variabile | Ha tre parti: un singolo byte che può essere 0x00, che indica che le due parti successive non sono presenti, oppure 0x0b (11 decimale), che indica che le due parti successive sono presenti. Se è 0x0b, ci sarà un ULEB128, che rappresenta la lunghezza in byte della stringa seguente, e poi la stringa stessa, codificata in UTF-8. Vedere [UTF-8](https://it.wikipedia.org/wiki/UTF-8) |
+| ULEB128 | Variabile | Un intero di lunghezza variabile. Vedi [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
+| String | Variabile | Ha tre parti; un singolo byte che può essere 0x00, che indica che le due parti successive non sono presenti, oppure 0x0b (11 decimale), che indica che le due parti successive sono presenti. Se è 0x0b, ci sarà un ULEB128, che rappresenta la lunghezza in byte della stringa seguente, e poi la stringa stessa, codificata in UTF-8. Vedi [UTF-8](https://it.wikipedia.org/wiki/UTF-8) |
 
 ## Formato
 
@@ -21,31 +21,31 @@ Gli offset dei byte non sono inclusi in questa tabella a causa dei valori di lun
 | :-- | :-- |
 | Byte | Modalità di gioco del replay (0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania). |
 | Integer | Versione del gioco al momento della creazione del replay (es. 20131216) |
-| Stringa | hash MD5 di osu! beatmap |
-| Stringa | Nome del giocatore |
-| Stringa | hash MD5 di osu! replay (include alcune proprietà del replay) |
-| Short | Numero di 300s |
+| String | hash MD5 della beatmap di osu! |
+| String | Nome del giocatore |
+| String | hash MD5 del replay di osu! (include alcune proprietà del replay) |
+| Short | Numero di 300 |
 | Short | Numero di 100 in standard, 150 in Taiko, 100 in CTB, 100 in mania |
-| Short | Numero di 50s in standard, frutti piccoli in CTB, 50s in mania |
-| Short | Numero di Gekis in standard, Max 300s in mania |
-| Short | Numero di Katus in standard, 200 in mania |
-| Short | Numero di missioni |
+| Short | Numero di 50 in standard, frutti piccoli in CTB, 50 in mania |
+| Short | Numero di Geki in standard, Max 300 in mania |
+| Short | Numero di Katu in standard, 200 in mania |
+| Short | Numero di miss |
 | Integer | Punteggio totale visualizzato nel report dei punteggi |
 | Short | Combo più grande visualizzata sul report del punteggio |
-| Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione del cursore e nessun cursore finito in anticipo). |
-| Integer | Mods utilizzati. Vedere di seguito l'elenco dei valori dei moduli. |
-| Stringa | Grafico a barre della vita: coppie separate da virgole u/v, dove u è il tempo in millisecondi della canzone e v è un valore in virgola mobile da 0 a 1 che rappresenta la quantità di vita che si ha in quel momento (0 = la barra della vita è vuota, 1= la barra della vita è piena). |
-| Long | Stampa dell'ora con ([Windows ticks](https://learn.microsoft.com/it-it/dotnet/api/system.datetime.ticks)) |
+| Byte | Combo perfetta/piena (1 = nessun errore, nessuna interruzione degli slider e nessuno slider finito in anticipo). |
+| Integer | Mod utilizzate. Vedi di seguito l'elenco dei valori delle mod. |
+| String | Grafico della barra della vita: coppie u/v separate da virgole, dove u è il tempo in millisecondi nella canzone e v è il valore di un punto mobile che va da 0 a 1, il quale rappresenta la quantità di vita che si ha in quel momento (0 = la barra della vita è vuota, 1= la barra della vita è piena). |
+| Long | Marca temporale ([Windows ticks](https://learn.microsoft.com/it-it/dotnet/api/system.datetime.ticks)) |
 | Integer | Lunghezza in byte dei dati di replay compressi |
 | Array di Byte | Dati di replay compressi |
 | Long | ID punteggio online |
-| Double | Informazioni aggiuntive sul mod. Presente solo se [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) è abilitato. |
+| Double | Informazioni aggiuntive sulle mod. Presente solo se [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) è abilitato. |
 
 **Informazioni Aggiuntive Sulle Mod**
 
 | Mod | Informazioni memorizzate |
 | :-- | :-- |
-| Target Practice | Precisione totale di tutti i colpi. Dividere questo valore per il numero di bersagli nella mappa per trovare la precisione visualizzata nel gioco. |
+| Target Practice | Precisione totale di tutti i colpi. Dividi questo valore per il numero di bersagli nella mappa per trovare la precisione visualizzata nel gioco. |
 
 I dati rimanenti contengono informazioni sul movimento del mouse e sulla pressione dei tasti in un flusso [LZMA](https://it.wikipedia.org/wiki/Algoritmo_Lempel-Ziv-Markov).
 
@@ -54,9 +54,9 @@ Una volta decompresso, il testo contiene dati separati da virgole. Ogni pezzo de
 | Parte | Tipo di dati | Descrizione |
 | :-- | :-- | :-- |
 | w | Long | Tempo in millisecondi dall'azione precedente |
-| x | Float | Coordinata x del cursore, da 0 a 512 |
-| y | Float | Coordinata y del cursore da 0 a 384 |
-| z | Integer | Combinazione bitwise di tasti/pulsanti del mouse premuti (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 è sempre usato con M1; K2 è sempre usato con M2: 1+4=5; 2+8=10) |
+| x | Float | Coordinata x del cursore, da 0 - 512 |
+| y | Float | Coordinata y del cursore da 0 - 384 |
+| z | Integer | Combinazione bit a bit di tasti/pulsanti del mouse premuti (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 è sempre usato con M1; K2 è sempre usato con M2: 1+4=5; 2+8=10) |
 
 Nei replay impostati sulla versione `20130319` o successiva, il seme RNG intero a 32 bit usato per il punteggio sarà codificato in un frame aggiuntivo del replay alla fine del flusso LZMA, nel formato `-12345|0|0|seed`.
 

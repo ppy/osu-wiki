@@ -4,7 +4,7 @@
 
 | Formato del file | Tipo MIME | Uso |
 | :-- | :-- | :-- |
-| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Archivio delle mappe di osu! |
+| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Archivio delle beatmap di osu! |
 | [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | Archivio delle skin di osu! |
 | [.osu](/wiki/Client/File_formats/osu_(file_format)) | `x-osu-beatmap` | [Difficoltà](/wiki/Beatmap/Difficulty) di osu! |
 | [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) di osu! |
@@ -34,7 +34,7 @@ Per testare l'archivio, fare una copia del file e aprirlo tramite osu!.
 Per produrre un archivio di beatmap:
 
 - Aprire una beatmap tramite l'[editor](/wiki/Client/Beatmap_editor).
-- Dal [menu in alto](/wiki/Client/Beatmap_editor/Menu), selezionare `File` > `Esporta pacchetto...`.
+- Dal [menù in alto](/wiki/Client/Beatmap_editor/Menu), selezionare `File` > `Esporta pacchetto...`.
 - L'archivio `.osz` sarà collocato nella cartella `Exports` all'interno della cartella osu!.
 
 Per produrre un archivio di skin:
