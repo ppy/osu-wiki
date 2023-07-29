@@ -1,11 +1,3 @@
----
-tags:
-  - game client
-  - 游戏客户端
-outdated_translation: true
-outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
----
-
 # 升级到 lazer
 
 *注意：我们仍在调整游戏平衡，开发游戏新机制。目前，**在 lazer 上取得的分数不会永久保存**。*
@@ -18,6 +10,8 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 ## 功能对比
 
+*有关游戏机制的差异列表，请参阅：[osu!(lazer) 功能比较](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+
 下面的表格是 lazer **当前版本**与 stable 功能的对比表。注意这是一个不断变化的目标——最终目标是随着时间推移，实现所有玩家关心的功能。
 
 ### 兼容性和性能
@@ -25,75 +19,92 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
 | Windows 8.0 及更低 | ![支持][true] | ![不支持][false] |
-| macOS / Linux  | ![部分支持][partial][^wine] | ![支持][true] |
-| DirectX / Vulkan | ![部分支持][partial][^compatibility-mode] | ![不支持][false][^coming-soon] |
+| macOS / Linux | ![部分支持][partial][^wine] | ![支持][true] |
+| DirectX / Metal | ![部分支持][partial][^compatibility-mode] | ![支持][true] |
 | 手机端支持 | ![不支持][false] | ![支持][true] |
 | 多线程结构 | ![不支持][false] | ![支持][true] |
 | 视频硬件加速编码 | ![不支持][false] | ![支持][true] |
 | 用户界面 (UI) 缩放 | ![不支持][false] | ![支持][true] |
-| 自定义游戏规则（游戏模式） | ![不支持][false] | ![部分支持][partial][^dll]  |
+| 自定义游戏规则（游戏模式） | ![不支持][false] | ![部分支持][partial][^dll] |
 | 去重文件存储 | ![不支持][false] | ![支持][true][^share-files] |
 | 数位板区域调整 | ![不支持][false] | ![支持][true] |
+| 支持各种宽高比 | ![不支持][false] | ![支持][true] |
 
 ### 用户界面 (UI) 和自定义皮肤
 
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
 | 皮肤支持 | ![支持][true] | ![部分支持][partial][^gameplay-only] |
-| 歌曲选择分组模式 | ![支持][true] | ![不支持][false]  |
-| 游戏内皮肤 / UI 布局编辑 | ![不支持][false] | ![支持][true]  |
+| 歌曲选择分组模式 | ![支持][true] | ![不支持][false] |
+| 游戏内皮肤 / UI 布局编辑 | ![不支持][false] | ![支持][true] |
+| 自定义动态皮肤组件 | ![不支持][false] | ![支持][true] |
 
-### 游玩和自定义皮肤
+### 界面
+
+| Feature | stable | lazer |
+| :-- | :-- | :-- |
+| 主页展示当前谱面的故事板 | ![不支持][false] | ![支持][true][^supporter] |
+| 隐藏难度 | ![不支持][false] | ![支持][true] |
+| 首次启动设置 | ![不支持][false] | ![支持][true] |
+| 软删除 | ![不支持][false] | ![支持][true][^soft-deletion] |
+| 游玩时立即更改并应用设置 | ![不支持][false] | ![支持][true] |
+
+### 游玩
 
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
-| 难度调整 (DA) 模组 | ![No][false] | ![Yes][true][^difficulty-adjust] |
-| 精准的表现分 (pp) 显示 | ![部分支持][partial][^online]  | ![支持][true]  |
-| 模组 (Mods) 预设 | ![不支持][false]  | ![支持][true]  |
-| 精细调整每个模组 | ![不支持][false]  | ![支持][true]  |
-| 新的“娱乐”模组 | ![不支持][false]  | ![支持][true]  |
-| 标准化连击色[^normalisation] | ![不支持][false]  | ![支持][true]  |
-| 按住显示 HUD | ![不支持][false]  | ![支持][true][^hold-for-hud] |
-| 偏移值 (offset) 校准 | ![部分支持][partial][^offset-calibration-stable] | ![支持][true][^offset-calibration-lazer] |
-| 光标拖动 osu! 滑条时，滑条“蛇形”缩回 | ![不支持][false]  | ![支持][true][^can-disable]  |
-| 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false]  | ![支持][true][^note-lock]  |
-| osu!mania 基于时间轴给物件上色 | ![不支持][false]  | ![支持][true]  |
+| 精准的表现分 (pp) 显示 | ![部分支持][partial][^online] | ![支持][true] |
+| 调整谱面难度 | ![No][false] | ![Yes][true][^difficulty-adjust] |
+| 模组 (Mods) 预设 | ![不支持][false] | ![支持][true] |
+| 精细调整每个模组 | ![不支持][false] | ![支持][true] |
+| 新的“娱乐”模组 | ![不支持][false] | ![支持][true] |
+| 标准化连击色[^normalisation] | ![不支持][false] | ![支持][true] |
+| 按住显示 HUD | ![不支持][false] | ![支持][true][^hold-for-hud] |
+| 按谱面校准偏移值 (offset) | ![部分支持][partial][^offset-calibration-stable] | ![支持][true][^offset-calibration-lazer] |
+| 光标拖动 osu! 滑条时，滑条“蛇形”缩回 | ![不支持][false] | ![支持][true][^can-disable] |
+| 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false] | ![支持][true][^note-lock] |
+| osu!mania、osu! 基于时间轴给物件上色 | ![不支持][false] | ![支持][true] |
+| 回放控制 | ![不支持][false] | ![支持][true] |
+| 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动] | ![支持][true] | ![不支持][false] |
 
 ### 线上系统
 
-| 功能  | stable | lazer |
+| 功能 | stable | lazer |
 | :-- | :-- | :-- |
-| 提交分数  | ![支持][true]  | ![部分支持][partial][^score-reset-balance]  |
-| 谱面排行榜  | ![支持][true]  | ![部分支持][partial][^score-reset-isolated] |
-| 主页统计数据  | ![支持][true]  | ![支持][true] |
-| 奖章 (成就) | ![支持][true]  | ![不支持][false] |
-| 表现分 (pp) | ![支持][true]  | ![部分支持][partial][^score-reset-isolated] |
-| 实时聊天  | ![部分支持][partial][^stable-chat] | ![支持][true] |
-| Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false]  | ![支持][true][^online-content]  |
-| 玩家主页  | ![不支持][false]  | ![支持][true] |
-| 谱面列表  | ![部分支持][partial][^direct-supporter]  | ![支持][true] |
-| 无限制的多人游戏房间大小  | ![不支持][false][^multi-room-max] | ![支持][true] |
-| 多人游戏观赛  | ![不支持][false]  | ![支持][true] |
-| 倒计时器  | ![部分支持][partial][^countdown-timers-stable] | ![支持][true][^countdown-timers-lazer]  |
-| 队列模式  | ![不支持][false]  | ![支持][true][^queue-modes] |
-| 多人游戏指令  | ![支持][true]  | ![不支持][false] |
-| 合作模式 (Tag co-op)  | ![支持][true]  | ![不支持][false] |
-| 课题模式 (玩家策划的排行榜) | ![不支持][false]  | ![支持][true] |
-| 更新在官网上改动过的谱面  | ![部分支持][partial][^map-only]  | ![支持][true][^all-files] |
+| 提交分数 | ![支持][true] | ![部分支持][partial][^score-reset-balance] |
+| 谱面排行榜 | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 主页统计数据 | ![支持][true] | ![支持][true] |
+| 奖章 (成就) | ![支持][true] | ![不支持][false] |
+| 表现分 (pp) | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 实时聊天 | ![部分支持][partial][^stable-chat] | ![支持][true] |
+| Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false] | ![支持][true][^online-content] |
+| 玩家主页 | ![不支持][false] | ![支持][true] |
+| 谱面列表 | ![部分支持][partial][^direct-supporter] | ![支持][true] |
+| 无限制的多人游戏房间大小 | ![不支持][false][^multi-room-max] | ![支持][true] |
+| 多人游戏观赛 | ![不支持][false] | ![支持][true] |
+| 倒计时器 | ![部分支持][partial][^countdown-timers-stable] | ![支持][true][^countdown-timers-lazer] |
+| 队列模式 | ![不支持][false] | ![支持][true][^queue-modes] |
+| 多人游戏指令 | ![支持][true] | ![不支持][false] |
+| 合作模式 (Tag co-op) | ![支持][true] | ![不支持][false] |
+| 课题模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
+| 更新在官网上改动过的谱面 | ![部分支持][partial][^map-only] | ![支持][true][^all-files] |
 
 ### 编辑器
 
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
-| osu!taiko 编辑器 | ![不支持][false] | ![支持][true]  |
-| osu!catch 编辑器 | ![不支持][false] | ![支持][true]  |
-| osu!mania 编辑器 | ![支持][true] | ![支持][true]  |
-| 打开一个难度作为参考 | ![支持][true] | ![不支持][false]  |
-| 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true]  |
+| osu! 编辑器 | ![支持][true] | ![支持][true] |
+| osu!taiko 编辑器 | ![不支持][false] | ![支持][true] |
+| osu!catch 编辑器 | ![不支持][false] | ![支持][true] |
+| osu!mania 编辑器 | ![支持][true] | ![支持][true] |
+| 打开一个难度作为参考 | ![支持][true] | ![不支持][false] |
+| 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true] |
+| 分段调整滑条的曲线类型 | ![不支持][false] | ![支持][true] |
+| 分割、合并滑条 | ![不支持][false] | ![支持][true] |
 | 旋转物件 | ![支持][true] | ![部分支持][partial][^editor-precise-rotation] |
-| 调整物件大小 | ![不支持][false] | ![支持][true]  |
-| 提交谱面 | ![支持][true] | ![不支持][false]  |
-| 故事板编辑器 | ![支持][true] | ![不支持][false]  |
+| 调整物件大小 | ![不支持][false] | ![支持][true] |
+| 提交谱面 | ![支持][true] | ![不支持][false] |
+| 故事板编辑器 | ![支持][true] | ![不支持][false] |
 | 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
 
 ## 切换至 lazer 
@@ -146,11 +157,13 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我在 lazer 中获得了成绩，它会提供表现分 (pp) 吗？
 
-这个成绩的表现分 (pp) 早已算出（你能在主页上“最近游玩”部分看到它的表现分），但不会计入你的总表现分 (pp)。
+个人主页上的“最近游玩”部分展示了在 lazer 中获得的成绩，以及计算出的 pp。如果在总 pp 的数字上悬停，你还能看到它们的总和。
+
+另外，试运行的 osu! 网站，[lazer.ppy.sh](https://lazer.ppy.sh/home)，已经展示了所有根据 lazer 成绩计算的总和以及排名。
 
 #### lazer 使用了 ScoreV2 计分？
 
-lazer 目前正使用一种新的计分系统。它和 ScoreV2 类似，但不相同。这个计分系统仍在开发中，我们正在寻求在各种情况下（单人游玩、排行榜、锦标赛）玩家关于这个计分系统的反馈。
+是的，它基于 ScoreV2 运行，并做了一些调整。ScoreV1 的成绩在不久的将来会转换成这套计分系统。
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -220,7 +233,7 @@ lazer 目前正使用一种新的计分系统。它和 ScoreV2 类似，但不�
 
 #### 为什么叫”lazer“？
 
-比刀尖（cutting–edge，意为前沿，又名测试版）更锋利（更先进）的东西是什么？
+比刀尖（cutting-edge，意为前沿，即测试版）更锋利（更先进）的东西是什么？
 
 #### 为什么它转为“主”更新通道花了这么久？
 
@@ -246,7 +259,8 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 还有一些额外的福利：
 
-- 支持者可以在课题模式中创建持续时间更长的课题
+- 支持者可以在课题模式中创建持续时间更长的课题。
+- 支持者能在主菜单播放谱面故事板。
 
 我们确实打算在未来给支持者引入更多的福利，但我们目前着重于尽量多地将功能加至与稳定版相同。因此，最好将购买支持者标签的理由作为...支持游戏开发！
 
@@ -258,15 +272,14 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 按照你常用的方式去做。
 
-#### 游戏内购在哪里？
+#### 我找不到充值入口？
 
-你可能当成其他游戏了。
+你可能把它当成其他游戏了。
 
 ### 备注
 
-[^wine]: 需要使用 wine 虚拟机。
+[^wine]: 需要使用 Wine 虚拟机。
 [^compatibility-mode]: DirectX，又称作兼容模式。
-[^coming-soon]: 敬请期待。
 [^dll]: 需要手动添加 .dll 文件。
 [^share-files]: 谱面和皮肤将共享相同的文件，以节省磁盘空间。
 [^gameplay-only]: 仅游玩支持。
@@ -280,7 +293,9 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^score-reset-balance]: 为了确保平衡，分数将重置。
 [^score-reset-isolated]: 分数将重置，目前与稳定版的分数隔开。
 [^online-content]: 游戏内访问在线内容。
-[^direct-supporter]: osu!direct，仅 osu! 支持者可用。
+[^direct-supporter]: 进入 osu!direct，仅 osu! 支持者可用。
+[^supporter]: 仅 osu! 支持者可用。
+[^soft-deletion]: 在删除时，游戏会临时存储删除的谱面以及其他需要变更的设置数据。只有在游戏重启后，才会永久删除这些数据。
 [^multi-room-max]: 最多 16 个玩家。
 [^map-only]: 只更新谱面文件。
 [^all-files]: 更新所有文件。
@@ -290,7 +305,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^countdown-timers-stable]: 使用指令来倒计时。对局不会自动开始。
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
 [^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
-[^difficulty-adjust]: 直接在歌曲选择界面更改谱面的 CS/AR/OD/HP。
+[^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

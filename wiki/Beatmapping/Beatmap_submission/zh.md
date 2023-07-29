@@ -24,4 +24,4 @@
 
 用户上传的 Pending 谱面集有数量限制。这个限制受用户拥有 Ranked 谱面集的数量以及当前是否为 [osu!supporter](/wiki/osu!supporter) 影响。非 osu!supporter 用户最多可以上传 4 张待处理谱面集，每拥有 1 张 Ranked 谱面集额外增加 1 张（上限为 4 张），至多 8 张。若是 osu!supporter 则增加至最多可以上传 8 张待处理谱面，每个 Ranked 谱面额外增加 1 张（上限为 12 张），至多 20 张。
 
-上传速度受文件的改动影响。若只有 [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) 谱面文件被改动，则只有这一个文件会被处理及上传。若其他文件也被改动，则谱面文件夹中所有文件会被处理及上传。
+上传速度受文件的改动影响。若只有 [`.osu`](/wiki/Client/File_formats/osu_(file_format)) 谱面文件被改动，则只有这一个文件会被处理及上传。若其他文件也被改动，则谱面文件夹中所有文件会被处理及上传。
