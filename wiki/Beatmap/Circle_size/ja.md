@@ -8,7 +8,7 @@ tags:
 
 円のサイズに関する基準は[ランキング基準](/wiki/Ranking_criteria)を参照してください。
 
-**サークルサイズ** (***CS***)は[ヒットオブジェクト](/wiki/Gameplay/Hit_object)のサイズを変更する[ビートマップ](/wiki/Beatmap)の難易度設定です。サークルサイズの範囲は0 ~ 10ですが、[ビートマップエディター](/wiki/Client/Beatmap_editor)で指定できるのは2 ~ 7の範囲です。その他の値は[`.osu`ファイル](/wiki/Client/File_formats/Osu_(file_format))を直接編集してください。
+**サークルサイズ** (***CS***)は[ヒットオブジェクト](/wiki/Gameplay/Hit_object)のサイズを変更する[ビートマップ](/wiki/Beatmap)の難易度設定です。サークルサイズの範囲は0 ~ 10ですが、[ビートマップエディター](/wiki/Client/Beatmap_editor)で指定できるのは2 ~ 7の範囲です。その他の値は[`.osu`ファイル](/wiki/Client/File_formats/osu_(file_format))を直接編集してください。
 
 ## osu!
 

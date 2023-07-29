@@ -9,19 +9,19 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 5 de Beatmaps Destacados (Invierno 2022)
+# Temporada 5 de Beatmaps Spotlights (Invierno 2022)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 15 feb. 2022 |
-| Sala de lista de juego: Lista de juego A | 15 feb. - 1 mar. 2022 |
-| Sala de lista de juego: Lista de juego B | 1 mar. - 15 mar. 2022 |
-| Sala de lista de juego: Lista de juego C | 15 mar. - 29 mar. 2022 |
-| Sala de lista de juego: Lista de juego A | 29 mar. - 5 abr. 2022 |
-| Sala de lista de juego: Lista de juego B | 5 abr. - 12 abr. 2022 |
-| Sala de lista de juego: Lista de juego C | 12 abr. - 19 abr. 2022 |
+| Sala de lista de juego: Playlist A | 15 feb. - 1 mar. 2022 |
+| Sala de lista de juego: Playlist B | 1 mar. - 15 mar. 2022 |
+| Sala de lista de juego: Playlist C | 15 mar. - 29 mar. 2022 |
+| Sala de lista de juego: Playlist A | 29 mar. - 5 abr. 2022 |
+| Sala de lista de juego: Playlist B | 5 abr. - 12 abr. 2022 |
+| Sala de lista de juego: Playlist C | 12 abr. - 19 abr. 2022 |
 | Conclusión de la temporada | 19 abr. 2022 |
 
 ## Salas multijugador semanales
