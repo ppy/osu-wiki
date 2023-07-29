@@ -44,7 +44,7 @@ Plus d'informations sur la première version de l'osu!monthly sont disponibles s
 
 Plus d'informations sur la seconde version de l'osu!monthly sont disponibles sur [le site officiel](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html), qui contient également la liste de l'équipe et les archives de la production.
 
-### Saison 3 (2022–présent)
+### Saison 3 (2022–2023)
 
 | Nom | Date de publication |
 | :-- | :-- |
