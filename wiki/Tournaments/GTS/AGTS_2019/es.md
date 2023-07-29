@@ -16,14 +16,14 @@ outdated_translation: true
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de Registro | 2019-07-07/2019-07-21 |
-| Stream de Apertura | 2019-08-04 (15:00 UTC) |
-| Eliminatorias | 2019-08-10/2019-08-11 |
-| Fase de Grupos | 2019-08-17/2019-08-18 |
-| Cuartos de Final | 2019-08-24/2019-08-25 |
-| Semifinales | 2019-08-31/2019-09-01 |
-| Finales | 2019-09-07/2019-09-08 |
-| Gran Finales | 2019-09-14 |
+| Fase de Registro | 7/7/2019 - 21/7/2019 |
+| Stream de Apertura | 4/8/2019 (15:00 UTC) |
+| Eliminatorias | 10/8/2019 - 11/8/2019 |
+| Fase de Grupos | 17/8/2019 - 18/8/2019 |
+| Cuartos de Final | 24/8/2019 - 25/8/2019 |
+| Semifinales | 31/8/2019 - 1/9/2019 |
+| Finales | 7/9/2019 - 8/9/2019 |
+| Gran Finales | 14/9/2019 |
 
 ## Premios
 

@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
----
-
 # Vuoi veramente chiederlo a peppy?
 
-Ciao! peppy comprende il tuo bisogno di contattarlo personalmente, ma lui chiede che innanzitutto tu capisca che questo **non è** il posto adatto per chiedere aiuto o assistenza. Lui gestisce i messaggi di supporto di osu! separati rispetto a i messaggi personali e inoltre ritiene che sia abbastanza difficile stare dietro ai PM sul forum. Quindi ti chiede che tu segua una delle seguenti opzioni:
+Ciao! peppy comprende il tuo bisogno di contattarlo personalmente, ma lui chiede che innanzitutto tu capisca che questo **non è** il posto adatto per chiedere aiuto o assistenza. Lui gestisce i messaggi di supporto di osu! separati rispetto a i messaggi personali e inoltre ritiene che sia abbastanza difficile stare dietro ai PM. Quindi ti chiede che tu segua una delle seguenti opzioni:
 
-## Supporto Tecnico
+## Supporto tecnico
 
 La maggiorparte dei problemi tecnici possono essere risolti cercando o postando nel [forum Help](https://osu.ppy.sh/community/forums/5). Ci sono molti altri che possono aiutarti con i tuoi problemi, affinché tu possa trovare una soluzione più velocemente rispetto a contattarlo direttamente.
 
