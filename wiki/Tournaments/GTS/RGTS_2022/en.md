@@ -9,7 +9,7 @@ tags:
 
 ![RGTS 2022 logo](img/logo.jpg)
 
-The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 may participate. It is the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) was a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 may participate. It was the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -31,9 +31,11 @@ The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide doubl
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "RGTS 2022 winner badge")
+
 ## Organisation
 
-The Rising Global Taiko Showdown 2022 is run by various community members.
+The Rising Global Taiko Showdown 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -109,7 +111,44 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 | **G** | ::{ flag=US }:: United States A | ::{ flag=CL }:: ::{ flag=AR }:: Colombia/Argentina | ::{ flag=NL }:: Netherlands | ::{ flag=PL }:: Poland |
 | **H** | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia | ::{ flag=TW }:: Taiwan B | ::{ flag=SE }:: Sweden |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**[Deli](https://osu.ppy.sh/users/13563794)**, [auopes](https://osu.ppy.sh/users/11889197), [azari](https://osu.ppy.sh/users/24326387), [magudonope](https://osu.ppy.sh/users/13547517), [Renka](https://osu.ppy.sh/users/4455389)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: **China** (**[ThomasZQY](https://osu.ppy.sh/users/21799255)**, [-nagaTori](https://osu.ppy.sh/users/24660008), [DeepMarine](https://osu.ppy.sh/users/21891421), [UnagiDon](https://osu.ppy.sh/users/2062410), [WLYMinato](https://osu.ppy.sh/users/12703319)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: **Germany A** (**[Zephyte](https://osu.ppy.sh/users/3867109)**, [-Kiro-](https://osu.ppy.sh/users/10893243), [Malox](https://osu.ppy.sh/users/4516252), [ph1](https://osu.ppy.sh/users/22194163), [Yumirin](https://osu.ppy.sh/users/11265571)) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/DNY1jb4S#2fnJRCGtbbbnZOEWvu4_ABc0wQzRQouwUvcdYpRUAuI)**
+
+- NoMod
+  1. [UKRampage - Yumenoshima feat. mami (_yosh) \[Dreams born from Ashes (ft. TaikoMom)\]](https://osu.ppy.sh/beatmapsets/1901539#taiko/3920185)
+  2. [Azusa Tadokoro - 1HOPE SNIPER (arcpotato) \[FINAL SHOT\]](https://osu.ppy.sh/beatmapsets/1901540#taiko/3920186)
+  3. [Toromaru - Curiosity (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901350#taiko/3919794)
+  4. [sakuraburst - Glacierfall (Park Remix) (davidminh0111) \[final showdown\]](https://osu.ppy.sh/beatmapsets/1901544#taiko/3920512)
+  5. [So Sus + Konka - Acorn (Faputa) \[Quercus Minuere\]](https://osu.ppy.sh/beatmapsets/1901430#taiko/3919984)
+  6. [D-D-Dice - Abyss Breaker (Cynplytholowazy) \[Spiral Domination\]](https://osu.ppy.sh/beatmapsets/1901349#taiko/3919792)
+- Hidden
+  1. [Ino - Kokeshineko Medore (Megafan) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1901556#taiko/3920221)
+  2. [Camellia - Sage (MTNTWarz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901384#taiko/3919861)
+- HardRock
+  1. [7z + 7_7 - Li77le dippeR (frz) \[Inner onI\]](https://osu.ppy.sh/beatmapsets/1901560#taiko/3920226)
+  2. [Kabocha - Embryo (davidminh0111) \[you plinko\]](https://osu.ppy.sh/beatmapsets/1901562#taiko/3920228)
+- DoubleTime
+  1. [E.G.G. vs. adaptor - Got temporary haven? (Miniature Lamp) \[Oni?\]](https://osu.ppy.sh/beatmapsets/1901563#taiko/3920229)
+  2. [Tatsh - Floating Darkness... feat. Tsukiko (roufou) \[Oni\]](https://osu.ppy.sh/beatmapsets/1901527#taiko/3920165)
+- FreeMod
+  1. [Yooh - Astrum (Yujki) \[Yujki's and Chupalika's Celestial Oni\]](https://osu.ppy.sh/beatmapsets/1901567#taiko/3920237)
+  2. [Mono. - skip&step (Antti) \[Vivid Choreography\]](https://osu.ppy.sh/beatmapsets/1901568#taiko/3920239)
+  3. [F Rabbeat - Be With U (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1901348#taiko/3919791)
+- Tiebreaker
+  1. **[blobdash & breakchild - EPiSODES (TaikoMom) \[Cyclothemia\]](https://osu.ppy.sh/beatmapsets/1901573#taiko/3920251)**
 
 ### Finals
 
@@ -262,6 +301,36 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
   1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 17 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany A ::{ flag=DE }:: | 3 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105692538) |
+
+Sunday, 18 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/105713002) |
+
+### Finals
+
+Saturday, 10 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States A ::{ flag=US }:: | 4 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105550656) |
+| **South Korea** ::{ flag=KR }:: | **7** | 5 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105553974) |
+
+Sunday, 11 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **7** | 1 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105578904) |
+| Germany A ::{ flag=DE }:: | 2 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/105580427) |
 
 ### Semifinals
 
