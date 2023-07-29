@@ -661,7 +661,7 @@ Sunday, 11 June 2023:
 4. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players and teams who are looking to warm up before the match are expected to do so by their own before the match commences.
 5. In a FreeMod pick, each team has to apply at least two unique mod combinations to play the beatmap with. Allowed mods are either NoMod or Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
-   - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
+   - For balancing reasons, HardRock along with Hidden + HardRock as well as Easy along with Easy + Hidden are not considered as a unique combination.
 6. The tiebreaking system works as follows:
    - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
