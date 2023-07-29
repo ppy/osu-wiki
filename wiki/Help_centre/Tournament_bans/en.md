@@ -52,7 +52,7 @@ Information about your tournament ban status may be provided to tournament organ
 | :-- | :-- | :-- |
 | Player misconduct during an officially supported tournament | 1-2 years |  |
 | Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
-| Multi-accounting or account sharing during an officially supported tournament | Permanent | Will also cause a restriction |
-| Using third-party utilities or other cheating tools during an officially supported tournament | Permanent | Will also cause a restriction |
-| Utilising private/confidential tournament information to gain or confer an unfair advantage | Permanent | May also cause a restriction |
-| Severe abuse towards or harassment of tournament organisers/staff/participants | Permanent | May also cause a restriction |
+| Multi-accounting or account sharing during an officially supported tournament | Indefinite | Will also cause a restriction |
+| Using third-party utilities or other cheating tools during an officially supported tournament | Indefinite | Will also cause a restriction |
+| Utilising private/confidential tournament information to gain or confer an unfair advantage | Indefinite | May also cause a restriction |
+| Severe abuse towards or harassment of tournament organisers/staff/participants | Indefinite | May also cause a restriction |

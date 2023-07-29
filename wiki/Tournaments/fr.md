@@ -81,6 +81,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16/12/2021 | 20/02/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 18/09/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/02/2023 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
+| [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/07/2023 | 24/09/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 ## Tournois communautaires
 
@@ -115,6 +116,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 30/04/2021 | 13/7/2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 06/05/2022 | 23/07/2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| [Aetherian's Summer Singles 3](AESS/3) | 01/05/2023 | 09/07/2023 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
 #### Ascaveth Invitational Tournament
 
@@ -502,6 +504,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26/03/2022 | 08/05/2022 | ::{ flag=JP }:: Japon A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28/05/2022 | 10/07/2022 | ::{ flag=MY }:: Malaisie | ::{ flag=CN }:: Chine A | ::{ flag=KR }:: Corée du Sud |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11/08/2022 | 09/10/2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 10/10/2022 | 18/12/2022 | ::{ flag=JP }:: Japon | ::{ flag=CN }:: Chine | ::{ flag=DE }:: Allemagne A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01/08/2023 | 02/08/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 #### North & South American Taiko Tournament
