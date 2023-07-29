@@ -10,6 +10,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Notes |
 | :-: | :-- |
+| [Redside - beachballs!](https://soundcloud.com/redside100/beachballs)[^fa-catalogue] | Summer 2023 osu! theme |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Current [osu!(lazer)](/wiki/Client/Release_stream/Lazer) main theme |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Christmas/Winter 2017 osu! theme |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | 2015 osu! theme |
@@ -530,6 +531,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Grand Finals NM7 |
+
+#### ![](/wiki/shared/mode/osu.png) [osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [ZxNX+Delaina - False Fairy Tale](https://www.youtube.com/watch?v=0hD2-c-Y2UY)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032331) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
