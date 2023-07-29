@@ -8,7 +8,7 @@ Breakcore extraordinaire **Supire** climbs their way into our Featured Artist li
 
 ![](https://assets.ppy.sh/artists/373/header.jpg)
 
-**Supire** (previously known as **Spire**) composes sounds unlike anything you've ever heard. Whether he's melding high tempo breakcore with calm atmospheres, or he's unleashing ear-shattering bass through his hardcore tunes, **Supire** undoubtedly knows how to craft unforgettable music.
+**Supire** (previously known as **Spire**) composes sounds unlike anything you've ever heard. Whether he's melding high-tempo breakcore with calm atmospheres, or unleashing ear-shattering bass through his hardcore tunes, **Supire** undoubtedly knows how to craft unforgettable music.
 
 **12** of those unforgettable tracks are ready for mapping. Check out [**Supire**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/373) to find pre-timed `.osz`s for all of 'em.
 
