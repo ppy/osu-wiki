@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 405ec41c04df01386e405a65a8440ff8d6a12165
 tags:
  - NAT
  - 审核评估
@@ -148,11 +146,9 @@ NAT 领导人的职责是：
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估 |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 丹麦语 | 评估 |
 
-### 机器人账户
+---
 
-| 名字 | 语言 | 所属类别 |
-| :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 机器人将作为 NAT 的代言人。它不从属于某个玩家，而是在一个帐户下向外传递消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
 
 ## 备注
 
