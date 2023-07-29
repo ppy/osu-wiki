@@ -218,6 +218,7 @@ osu!remix 竞赛将 **osu!mixer** 作为冠军头衔。
 ## osu!trivium 解密竞赛头衔获得者
 
 [osu!trivium 解密竞赛](/wiki/Contests/osu!trivium_Quiz)给获胜队伍或个人颁发了 **osu!trivium Champion** 头衔。该头衔展示持续一年。以下是 2021 年获得头衔的玩家：
+
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621)
 - ::{ flag=US }:: [Codazen](https://osu.ppy.sh/users/18291144)
