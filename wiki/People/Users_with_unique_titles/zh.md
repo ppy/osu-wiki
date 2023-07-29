@@ -323,4 +323,3 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) 因为在[作图月赛 (MBC) #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 和[作图月赛 (MBC): Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)中两次获胜，从而获得了 **Elite Mapper II: Aspirant** 头衔。
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) 因为在 [osu!remix 竞赛 #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) 和 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 竞赛中两次获胜，从而获得了**osu!mixer II** 头衔。
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) 由于在故事板设计中做出卓越贡献，[已经获得了头衔](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)，又在[三角作图竞赛](/wiki/Contests/triangles_Beatmapping_Contest) 中获胜，从而获得了**Elite Storyboarder II** 头衔。
-
