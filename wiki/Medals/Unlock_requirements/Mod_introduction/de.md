@@ -1,4 +1,4 @@
-# Freischaltungsanforderung für Mod Introduction Medaillen
+# Freischaltungsanforderungen für Mod Introduction Medaillen
 
 | Medaillenname | Anforderung |
 | :-- | :-- |
