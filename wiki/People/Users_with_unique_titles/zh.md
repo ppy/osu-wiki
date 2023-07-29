@@ -172,6 +172,7 @@
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
 
 ### 优秀提名者
+
 *主文章：[优秀提名者](/wiki/People/Elite_Nominators)*
 
 自 2020 年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
