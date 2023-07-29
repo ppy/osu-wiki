@@ -44,19 +44,25 @@ It is recommended to directly download beatmap packs from the official beatmap p
 
 ### Mirrors
 
-Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhile, there are also some mirror sites set up by other users for convenience and faster download speed:
+Currently all the beatmap packs are stored officially at `packs.ppy.sh`. Meanwhile, there are also some mirror sites set up by other users for convenience:
 
-- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - [osu! Beatmap Packs](http://osu.yas-online.net/) by [nanashirei](https://osu.ppy.sh/users/807630)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) by [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+- Old Storage before `packs.ppy.sh` domain used ( ~2023.05.07)
+  - [MEGA drive](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) by [Stefan](https://osu.ppy.sh/users/626907)
+- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) (inactive)
+  - [Mirror website](http://osu.yas-online.net/) by [nanashirei](https://osu.ppy.sh/users/807630)
 
 ### Torrents
 
 To download beatmap packs in bulk instead of one by one manually, use torrenting tools to download them from one of the sites below:
 
+- [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
+  - [Resilio Sync torrent file](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) by [glukki](https://osu.ppy.sh/users/14285150)
+- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (various DL options included)
+  - [Torrent file](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) by [Elessey](https://osu.ppy.sh/users/4925105)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
+  - [PandoTracker website](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
 
 <!-- TODO: new mirrors -->
 
