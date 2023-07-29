@@ -47,7 +47,7 @@ The SEA Summer Suiji Showdown 3  is run by various osu! community members from t
 | Playtester | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=ID }:: [SDKO](hhttps://osu.ppy.sh/users/4858555), ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737) |
 | Streamer | ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 | Commentator | ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) |
-| Referee | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=SG }:: [Galeath](https://osu.ppy.sh/users/16626784), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=UK }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=UK }:: [reforna](https://osu.ppy.sh/users/16199365), ::{ flag=CA }:: [YeetMeister47](https://osu.ppy.sh/users/13929880) |
+| Referee | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=SG }:: [Galeath](https://osu.ppy.sh/users/16626784), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=GB }:: [reforna](https://osu.ppy.sh/users/16199365), ::{ flag=CA }:: [YeetMeister47](https://osu.ppy.sh/users/13929880) |
 | Graphic designer | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
@@ -421,7 +421,7 @@ Sunday, 2 July 2023:
 
 #### Overall standings
 
-| Rank | Team name | Points | Wins | Draws | Losses | Maps difference |
+| Rank | Team name | Points | Wins | Draws | Losses | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Schale | 5 | 5 | 0 | 1 | +17 |
 | 2 | kisaki motor | 5 | 5 | 0 | 1 | +16 |
@@ -574,7 +574,7 @@ Sunday, 11 June 2023:
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2)**.
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
@@ -593,9 +593,9 @@ Sunday, 11 June 2023:
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/E4R7kvcUED4r2bSGA).
    - In order to be eligible to play in the tournament, a player must:
-     - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile. ***or***
+     - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asia regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
+2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asian regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
@@ -604,11 +604,11 @@ Sunday, 11 June 2023:
 ### Team matchmaking
 
 1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) as follows:
-   - #1 - #24: Seed S
-   - #25 - #48: Seed A
-   - #49 - #96: Seed B
-   - #97 - #144: Seed C
-2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one Seed S player, one seed A player, two seed B players, and two seed C players respectively.
+   - #1 – #24: Seed S
+   - #25 – #48: Seed A
+   - #49 – #96: Seed B
+   - #97 – #144: Seed C
+2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one seed S player, one seed A player, two seed B players, and two seed C players respectively.
 3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
    - Choosing an inappropriate team name is not allowed.
 
@@ -616,7 +616,7 @@ Sunday, 11 June 2023:
 
 #### Swiss round rules
 
-1. The Swiss round will be commenced over the course of three weeks with a different mappool for each week.
+1. The Swiss round will be held over the course of three weeks with a different mappool for each week.
 2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
 3. Matches in the Swiss round will only be played until either team scores 5 points or that a total of eight maps have been contested (whichever comes first) with **no tiebreakers**.
    - When a match extends to the 4-4 mark, it will be considered as a *draw*.
@@ -626,28 +626,27 @@ Sunday, 11 June 2023:
    - Losing a match: 0 points
 5. The Swiss round standings are determined by (in order):
    - Points accumulated
-   - Maps difference (# of maps won - # of maps lost)
+   - Map difference (# of maps won - # of maps lost)
    - Head-to-head records between the tied teams
    - Number of wins
-   - Sum of wins of the tied team’s opponents
+   - Sum of wins of the tied team's opponents
    - The result of an extra play-off match (if needed)
-6. Forfeiting a match will be treated as an instant loss with -5 maps difference to the forfeiting team's name.   
+6. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.   
 7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
 
 #### Knock-out stage rules
 
 1. The 16 teams who managed to get through from the Swiss round will be matched to each other based on the following system:
-   - The top 4 teams in order will be given the first choice to pick their Round of 16 opponent among the 9th-16th place teams.
-   - The 5th-8th placed teams will then be faced against the unchosen teams based on reverse placement order in the Round of 16.
-2. Teams will compete against each other using the double-elimination system.
-3. The double-elimination system works as follows:
+   - The top 4 teams in order will be given the first choice to pick their Round of 16 opponent among the teams that placed 9th–16th.
+   - The teams that placed 5th–8th will then be faced against the unchosen teams based on reverse placement order in the Round of 16.
+2. Teams will compete against each other using the double-elimination system:
    - Teams who lose in the upper bracket can still play again in the lower bracket.
    - Teams who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the upper bracket will be given a 2-points advantage against the winner of the lower bracket. **There will be no bracket reset in the tournament**.
-4. Players who can compete in the next round are determined by:
+   - In the Grand Final, the winner of the upper bracket will be given a 2-point advantage against the winner of the lower bracket. **There will be no bracket reset in the tournament.**
+3. Players who can compete in the next round are determined by:
    - In the the Round of 16, the Quarterfinals, and the Semifinals, each team needs to win 7 points in order to win a match. (Best of 13)
    - In both of the Finals weeks, excluding the Grand Final match, each team needs to win 8 points in order to win a match. (Best of 15)
-   - In the Grand Final match, each player needs to win 9 points in order to win a match (Best of 17) with the winner of the upper bracket given a 2-points advantage at the start of the match.
+   - In the Grand Final match, each player needs to win 9 points in order to win a match (Best of 17) with the winner of the upper bracket given a 2-point advantage at the start of the match.
    - Whether there are teams who are declared to win the match by default.
    - Whether there are teams who are disqualified from the tournament.
 
@@ -657,14 +656,14 @@ Sunday, 11 June 2023:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
 2. Each team has to ban **one beatmap** prior to the start of the match and **one other beatmap** prior to the third round of picks (that are yet to be banned or picked at that point) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-3. For each map, each team is required to field either **1 Seed B player and 1 Seed C player** or **2 Seed C players** at minimum.
-   - If a team is missing or otherwise not able to ready their lower seed players for the match, they are still allowed to continue playing with one player disadvantage (2v3) or two players disadvantage (1v3) should they wish to.
+3. For each map, each team is required to field either **1 seed B player and 1 seed C player** or **2 seed C players** at minimum.
+   - If a team is missing or otherwise not able to ready their lower seed players for the match, they are still allowed to continue playing at a player disadvantage (2v3 or 1v3) should they wish to.
 4. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players and teams who are looking to warm up before the match are expected to do so by their own before the match commences.
 5. In a FreeMod pick, each team has to apply at least two unique mod combinations to play the beatmap with. Allowed mods are either NoMod or Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
    - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
 6. The tiebreaking system works as follows:
-   - As the mappool for each stage is tailored so that the tiebreak occurs when there's exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
+   - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
