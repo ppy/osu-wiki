@@ -81,11 +81,9 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техподдержка |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Португальский, японский | Модерация чата |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддержка игроков, администрирование вики |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Индонезийский | Модерация маппинг-сообщества |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Финский, частично шведский | Модерация чата |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Французский | Модерация чата |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Китайский | Модерация маппинг-сообщества |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация маппинг-сообщества |
@@ -110,7 +108,6 @@ tags:
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Организация турниров |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Кантонский, китайский | Модерация чата |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Корейский, японский | Модерация чата |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Малайский | Модерация чата |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Польский | Модерация скиннинг-сообщества |

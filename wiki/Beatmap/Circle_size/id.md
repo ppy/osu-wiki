@@ -8,7 +8,7 @@ tags:
 
 *Untuk peraturan seputar circle size, dapat dilihat pada: [Kriteria Ranking](/wiki/Ranking_criteria)*
 
-**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmap) yang memengaruhi ukuran dari [hit objects](/wiki/Gameplay/Hit_object). Nilai Circle size rentangnya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan di dalam [beatmap editor](/wiki/Client/Beatmap_editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing [file `.osu`](/wiki/Client/File_formats/Osu_(file_format)) pada sebuah map.
+**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmap) yang memengaruhi ukuran dari [hit objects](/wiki/Gameplay/Hit_object). Nilai Circle size rentangnya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan di dalam [beatmap editor](/wiki/Client/Beatmap_editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing [file `.osu`](/wiki/Client/File_formats/osu_(file_format)) pada sebuah map.
 
 ## osu!
 

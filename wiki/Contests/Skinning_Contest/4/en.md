@@ -55,6 +55,27 @@ The Skinning Contest #4 is run by various community members.
 - [Discord server](https://discord.skinship.xyz)
 - [Website](https://skinship.xyz)
 
+## Participants
+
+| Skinner | Entry |
+| :-- | :-- |
+| ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) |
+| ::{ flag=PE }:: [Meowscarada](https://osu.ppy.sh/users/25025133) | [Decaplets](https://osu.ppy.sh/community/forums/topics/1775463) |
+| ::{ flag=AU }:: [Saow](https://osu.ppy.sh/users/9782756) | [KEMOMINI EDM SQUAD](https://osu.ppy.sh/community/forums/topics/1791845) |
+| ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [Chirou](https://osu.ppy.sh/community/forums/topics/1792370) |
+| ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) |
+| ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [Granat (GRIS II)](https://osu.ppy.sh/community/forums/topics/1792512) |
+| ::{ flag=VN }:: [Ben_5917](https://osu.ppy.sh/users/6026593) | [Kuro](https://osu.ppy.sh/community/forums/topics/1792854) |
+| ::{ flag=MX }:: [XetThe](https://osu.ppy.sh/users/16274977) | [Artifact](https://osu.ppy.sh/community/forums/topics/1792809) |
+| ::{ flag=US }:: [[LS]Glaxes](https://osu.ppy.sh/users/14444595) | [Rockefeller](https://osu.ppy.sh/community/forums/topics/1792911) |
+| ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | [Taikonator](https://osu.ppy.sh/community/forums/topics/1792655) |
+| ::{ flag=RU }:: [TogiraW](https://osu.ppy.sh/users/20149300) | [Verflucht](https://osu.ppy.sh/community/forums/topics/1792572) |
+| ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [Night of Knights](https://osu.ppy.sh/community/forums/topics/1792553) |
+| ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [We Kicked a Kid (United)](https://osu.ppy.sh/community/forums/topics/1792954) |
+| ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
+
 ## Ruleset
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
