@@ -177,8 +177,6 @@
 
 自 2020 年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
 
-Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
-
 自 2020 年以来，[谱面提名成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
