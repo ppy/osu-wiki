@@ -148,7 +148,7 @@ NAT 领导人的职责是：
 
 ---
 
-此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 机器人将作为 NAT 的代言人。它不从属于某个玩家，而是在一个帐户下向外传递消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而非玩家账号发布消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
 
 ## 备注
 
