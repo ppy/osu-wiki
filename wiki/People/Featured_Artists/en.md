@@ -5,7 +5,7 @@ tags:
 
 # Featured Artists
 
-**Featured Artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in the [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live streams.
+**Featured Artists** (***FA***) are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in the [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live streams.
 
 The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 
@@ -44,7 +44,9 @@ If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, t
 
 ## Featured Artists with osu! accounts
 
-Featured Artists with osu! accounts are given the **Featured Artist** [title](/wiki/Community/User_title) and [user group](/wiki/People/User_group) to show their involvement. The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
+Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
+
+The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
 | User | Artist |
 | :-- | :-- |
