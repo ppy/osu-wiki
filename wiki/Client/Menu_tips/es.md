@@ -21,7 +21,7 @@ Este artículo enumera los diversos consejos que se ven en el juego, que contien
 
 Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/Interface#menú-principal).
 
-- Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/Osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
+- Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
 - Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selección-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
 - Pulsa `F8`/`F9` en cualquier momento para unirte al [chat](/wiki/Client/Interface/Chat_console) de osu!.
 - Haciendo clic derecho en un beatmap o haciendo clic en el botón `Beatmap Options` en el listado de selección de canciones se desplegará un menú que te permite gestionar el beatmap.

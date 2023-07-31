@@ -116,6 +116,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 30.04.2021 | 13.7.2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 06.05.2022 | 23.07.2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| [Aetherian's Summer Singles 3](AESS/3) | 01.05.2023 | 09.07.2023 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
 #### Ascaveth Invitational Tournament
 
@@ -250,8 +251,9 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03.02.2020 | 12.04.2020 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19.06.2023 | 30.07.2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Romania Tournament
 
@@ -503,6 +505,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: Südkorea |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11.08.2022 | 09.10.2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 10.10.2022 | 18.12.2022 | ::{ flag=JP }:: Japan | ::{ flag=CN }:: China | ::{ flag=DE }:: Deutschland A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01.08.2023 | 02.08.2023 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament

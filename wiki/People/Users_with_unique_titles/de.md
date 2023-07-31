@@ -174,6 +174,8 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
+*Startseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
