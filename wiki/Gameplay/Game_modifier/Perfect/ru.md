@@ -44,7 +44,7 @@ tags:
 - Получение `300` за точное попадание по ноте
 - Прохождение слайдера
 - Получение `Rainbow 300`/`MAX score` ([osu!mania](/wiki/Game_mode/osu!mania))
-- Получение `300` очков за попадание (osu!mania)
+- Получение `50`/`100`/`200` очков после [длинной ноты](/wiki/Gameplay/Hit_object) (со [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) модом (osu!mania))
 
 Perfect действует одинаково во всех [игровых режимах](/wiki/Game_mode).
 
