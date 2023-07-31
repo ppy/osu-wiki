@@ -80,21 +80,21 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 ### Finals
 
 - No Mod
-  1. [ITHAQUA - aoi kokoro (\_Rise) [hivie & \_rise's beloved]](https://osu.ppy.sh/beatmapsets/2036468#taiko/4246968)
-  2. [Sot-C - Extra Stage (5_5) [extra soup]](https://osu.ppy.sh/beatmapsets/2036499#taiko/4247052)
+  1. [xi - OBAMA DiVE (blobdash as "blobama" Bootleg) (Cynplytholowazy) [OBAMA DIMENSIONS]](https://osu.ppy.sh/beatmapsets/2036517#taiko/4247073)
+  2. [Ludicin - Onus Regulus (Nwolf) [Against Overwhelming Odds]](https://osu.ppy.sh/beatmapsets/2036523#taiko/4247080)
   3. [Sydosys - Lunar Gateway (Gamelan4) [Molniya-M]](https://osu.ppy.sh/beatmapsets/2036508#taiko/4247062)
-  4. [xi - OBAMA DiVE (blobdash as "blobama" Bootleg) (Cynplytholowazy) [OBAMA DIMENSIONS]](https://osu.ppy.sh/beatmapsets/2036517#taiko/4247073)
-  5. [Ludicin - Onus Regulus (Nwolf) [Against Overwhelming Odds]](https://osu.ppy.sh/beatmapsets/2036523#taiko/4247080)
+  4. [Sot-C - Extra Stage (5_5) [extra soup]](https://osu.ppy.sh/beatmapsets/2036499#taiko/4247052)
+  5. [ITHAQUA - aoi kokoro (\_Rise) [hivie & \_rise's beloved]](https://osu.ppy.sh/beatmapsets/2036468#taiko/4246968)
   6. [LuzeriA - Nbt-Hwt (Mew) [The Pharaoh's Curse]](https://osu.ppy.sh/beatmapsets/2036532#taiko/4247092)
 - Hidden
   1. [kou - Spectrum (Yujki) [Refraction]](https://osu.ppy.sh/beatmapsets/2036533#taiko/4247093)
-  2. [celtix - Niflheimr (Raphalge) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2036540#taiko/4247111)
+  2. [Anfini - Gratia (X a v y) [Grace]](https://osu.ppy.sh/beatmapsets/2036550#taiko/4247123)
 - Hard Rock
   1. [Sparxe - overdaedge3000 (BabySnakes) [3014]](https://osu.ppy.sh/beatmapsets/2036544#taiko/4247115)
-  2. [dev - last remote (Ideal) [^-^]](https://osu.ppy.sh/beatmapsets/2036549#taiko/4247122)
+  2. [celtix - Niflheimr (Raphalge) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2036540#taiko/4247111)
 - Double Time
   1. [takehirotei - Global Disco Showdown (TaikoMom) [Back in Mom's Day]](https://osu.ppy.sh/beatmapsets/2036595#taiko/4247191)
-  2. [Anfini - Gratia (X a v y) [Grace]](https://osu.ppy.sh/beatmapsets/2036550#taiko/4247123)
+  2. [dev - last remote (Ideal) [^-^]](https://osu.ppy.sh/beatmapsets/2036549#taiko/4247122)
 - Force Mod
   1. [N_dog - Dusk in overnight (Ph0eNiiXZ) [Endless Twilight]](https://osu.ppy.sh/beatmapsets/2036555#taiko/4247132)
   2. [Rukadesu & 5KiLOBYTE - ETERNAL (Cynplytholowazy) [FROZEN]](https://osu.ppy.sh/beatmapsets/2036562#taiko/4247139)
