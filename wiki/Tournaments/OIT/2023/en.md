@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2023 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament is open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It is the thirteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) is an Indonesian d
 
 ## Prizes
 
-The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool can be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -35,11 +35,11 @@ The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,0
 
 ![](img/badge.png "OIT 2023 winner badge")
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #13 (2023) is not marked for profit. All contributions and expenses made towards the tournament will be publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #13 (2023) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #13 (2023) was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -87,6 +87,10 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 14 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.47 |
 | 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
 | 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
+
+## Podium
+
+![](img/podium.jpg "OIT 2023 podium")
 
 ## Mappools
 
@@ -261,6 +265,20 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 29 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109737714) |
+
+Sunday, 30 July 2023, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
 
 ### Finals (week 1)
 
