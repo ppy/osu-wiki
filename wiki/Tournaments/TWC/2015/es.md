@@ -17,14 +17,14 @@ El país campeón del torneo anterior es ::{ flag=JP }:: **Japón**.
 
 | Event | Timestamp |
 | :-- | :-- |
-| Fase de Registro | 12 de Enero - 22 Febrero |
-| Duelos en vivo | 28 Febrero 14:00 (UTC+0) |
-| Fase de grupos | 07-08 Marzo 2015 |
-| Fase Dieciseisavos de Final (16avos) | 14-15 Marzo 2015 |
-| Cuartos de Final | 21-22 Marzo 2015 |
-| Semifinales | 28 - 29 Marzo 2015 |
-| Finales (Semana 1) | 04-05 Abril 2015 |
-| Finales (Semana 2) | 11-12 Abril 2015 |
+| Fase de registro | 12/1/2015 - 22/2/2015 |
+| Duelos en vivo | 28/2/2015 (14:00 UTC) |
+| Fase de grupos | 7/3/2015 - 8/3/2015 |
+| Dieciseisavos de final | 14/3/2015 - 15/3/2015 |
+| Cuartos de final | 21/3/2015 - 22/3/2015 |
+| Semifinales | 28/3/2015 - 29/3/2015 |
+| Finales (Semana 1) | 4/4/2015 - 5/4/2015 |
+| Finales (Semana 2) | 12/4/2015 |
 
 ## Premios
 

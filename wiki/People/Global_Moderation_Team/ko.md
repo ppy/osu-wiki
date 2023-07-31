@@ -41,11 +41,9 @@ no_native_review: true
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 기술 지원 |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 플레이어 지원, 위키 관리 |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 인도네시아어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 핀란드어, 일부 스웨덴어 | 채팅 관리 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 프랑스어 | 채팅 관리 |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 중국어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 프랑스어, 스페인어 | 채팅 관리 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
@@ -70,7 +68,6 @@ no_native_review: true
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 필리핀어 | 채팅 관리 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 토너먼트 관리 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | 채팅 관리 |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 한국어, 일본어 | 채팅 관리 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 말레이어 | 채팅 관리 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 폴란드어 | Skinning community moderation |

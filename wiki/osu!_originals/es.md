@@ -10,6 +10,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 | Canción | Notas |
 | :-: | :-- |
+| [Redside - beachballs!](https://soundcloud.com/redside100/beachballs)[^fa-catalogue] | Tema de osu! para verano de 2023 |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Tema principal actual de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Tema de osu! para Navidad/invierno de 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Tema de osu! de 2015 |
@@ -504,7 +505,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Desempate de la gran final |
+| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/taiko.png) Korean Rising Taiko Tournament #2
 
@@ -531,6 +532,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Gran final NM7 |
 
+#### ![](/wiki/shared/mode/osu.png) [osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [ZxNX+Delaina - False Fairy Tale](https://www.youtube.com/watch?v=0hD2-c-Y2UY)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032331) | Desempate de la gran final |
+
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
 | Canción | Beatmap | Notas |
@@ -549,7 +556,8 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Música del tráiler |
-| [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) |  | Desempate de la gran final |
+| [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Desempate de la gran final |
+| [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Canción de los créditos |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 

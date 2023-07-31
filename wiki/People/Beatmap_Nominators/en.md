@@ -48,11 +48,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=TW }:: [_Fast](https://osu.ppy.sh/users/959763) | Chinese |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesian |
 | ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Russian, Belarusian |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Japanese |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Spanish |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | Korean |
@@ -62,17 +62,13 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Spanish |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Korean |
-| ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | Spanish |
-| ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Chinese, Cantonese |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | German |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korean |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
-| ::{ flag=RU }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | Russian |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) |  |
@@ -80,18 +76,17 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  |
 | ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | German |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese |
 | ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Bosnian |
+| ::{ flag=CA }:: [Terakomari](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
@@ -103,15 +98,14 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Portuguese |
 | ::{ flag=US }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | Japanese |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Finnish, some Swedish |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinese, Cantonese |
-| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turkish |
 | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) | Malay |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Portuguese |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | German |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
@@ -125,7 +119,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japanese |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
-| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polish |
 
 #### osu!catch
 
@@ -136,11 +129,10 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Spanish |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinese, Cantonese |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Dutch |
-| ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |
+| ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Indonesian |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russian |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | French |
-| ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) | Polish |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portuguese |
@@ -152,13 +144,13 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | Chinese |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Korean |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chinese |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinese |
 | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonesian |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesian |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Korean |
-| ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korean |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinese |
 | ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) | Korean |
@@ -171,28 +163,34 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | Korean |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
+| ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
+| ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chinese |
+| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesian |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chinese, Cantonese |
-| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | German |
+| ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) | Indonesian |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Dutch |
+| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Korean |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
-| ::{ flag=KR }:: [ssapgosu](https://osu.ppy.sh/users/16564480) | Korean |
 | ::{ flag=ID }:: [SuzumeAyase](https://osu.ppy.sh/users/14190991) | Indonesian |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonesian |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesian |
 | ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | Chinese |
+| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |  |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) | German |
+| ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesian |
 
 ### Probationary Beatmap Nominators
 
@@ -200,35 +198,39 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korean |
-| ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Indonesian |
-| ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172) |  |
+| ::{ flag=US }:: [cjstmdals](https://osu.ppy.sh/users/12572294) | Korean |
+| ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | Chinese |
+| ::{ flag=BR }:: [Kirishima-](https://osu.ppy.sh/users/9234078) | Portuguese |
+| ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Spanish |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | German |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | French |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
+| ::{ flag=US }:: [xBlurinq](https://osu.ppy.sh/users/7540631) |  |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Portuguese |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japanese |
-| ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 
 #### osu!catch
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) |  |
 | ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | Spanish |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chinese |
-| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
-| ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) | Indonesian |
+| ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | Filipino |
 
 ## History
 

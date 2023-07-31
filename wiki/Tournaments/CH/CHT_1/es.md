@@ -14,12 +14,12 @@ La **Coffee Hispanic Tournament** (***CHT***) fue un torneo de osu! de single-el
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de registro | 2019-12-22/2020-01-04 |
-| Eliminatorias | 2020-01-17/2020-01-20 |
-| Octavos de Final | 2020-01-25/2020-01-27 |
-| Cuartos de Final | 2020-01-31/2020-02-03 |
-| Semifinales | 2020-02-07/2020-02-09 |
-| Finales | 2020-02-15/2020-02-17 |
+| Fase de registro | 22/12/2019 - 4/1/2020 |
+| Eliminatorias | 17/1/2020 - 20/1/2020 |
+| Octavos de Final | 25/1/2020 - 27/1/2020 |
+| Cuartos de Final | 31/1/2020 - 3/2/2020 |
+| Semifinales | 7/2/2020 - 9/2/2020 |
+| Finales | 15/2/2020 - 17/2/2020 |
 
 ## Premios
 

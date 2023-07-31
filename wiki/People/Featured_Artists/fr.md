@@ -1,6 +1,8 @@
 ---
 tags:
   - FA
+outdated_translation: true
+outdated_since: 228b9e5a795e41fa9435967cfd407b88216d956c
 ---
 
 # Featured Artists
