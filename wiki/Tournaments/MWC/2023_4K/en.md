@@ -17,7 +17,7 @@ The **osu!mania 4K World Cup 2023** (***MWC 4K 2023***) is a country-based osu!m
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2023-07-13/2023-07-27 (23:59 UTC) |
-| Qualifier showcase | 2023-08-06 (14:00 UTC) |
+| Qualifier showcase | 2023-08-05 (12:30 UTC) |
 | Qualifier stage | 2023-08-12/2023-08-13 |
 | Round of 32 | 2023-08-19/2023-08-20 |
 | Round of 16 | 2023-08-26/2023-08-27 |
@@ -53,9 +53,60 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 ## Links
 
-- [Register here](https://osu.ppy.sh/community/tournaments/39)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[C90](https://osu.ppy.sh/users/13858488)** |
+| ::{ flag=AT }:: | **Austria** | **[RealEric](https://osu.ppy.sh/users/16272683)** |
+| ::{ flag=AU }:: | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)** |
+| ::{ flag=BR }:: | **Brazil** | **[LeMarcinho](https://osu.ppy.sh/users/13347579)** |
+| ::{ flag=CA }:: | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)** |
+| ::{ flag=CH }:: | **Switzerland** | **[Tupidix](https://osu.ppy.sh/users/8655604)** |
+| ::{ flag=CL }:: | **Chile** | **[myucchii](https://osu.ppy.sh/users/10072733)** |
+| ::{ flag=CN }:: | **China** | **[\[Crz\]Reimu](https://osu.ppy.sh/users/14318312)** |
+| ::{ flag=CO }:: | **Colombia** | **[AlexxiTo](https://osu.ppy.sh/users/16711124)** |
+| ::{ flag=CZ }:: | **Czechia** | **[grillroasted](https://osu.ppy.sh/users/18271627)** |
+| ::{ flag=DE }:: | **Germany** | **[ERA medium kek](https://osu.ppy.sh/users/11625617)** |
+| ::{ flag=DK }:: | **Denmark** | **[Lokkoro](https://osu.ppy.sh/users/17638079)** |
+| ::{ flag=ES }:: | **Spain** | **[ERA Guldakh](https://osu.ppy.sh/users/8553078)** |
+| ::{ flag=FI }:: | **Finland** | **[Lovelyn](https://osu.ppy.sh/users/8370443)** |
+| ::{ flag=FR }:: | **France** | **[PatouZ](https://osu.ppy.sh/users/7306522)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Eliminate](https://osu.ppy.sh/users/9169747)** |
+| ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Quotient](https://osu.ppy.sh/users/11313227)** |
+| ::{ flag=HN }:: | **Honduras** | **[\[HD\]Weathersito](https://osu.ppy.sh/users/24167604)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)** |
+| ::{ flag=IT }:: | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)** |
+| ::{ flag=JP }:: | **Japan** | **[jhleetgirl](https://osu.ppy.sh/users/10745260)** |
+| ::{ flag=KR }:: | **South Korea** | **[VanillaLatte](https://osu.ppy.sh/users/10329095)** |
+| ::{ flag=MX }:: | **Mexico** | **[Plutes](https://osu.ppy.sh/users/11188249)** |
+| ::{ flag=MY }:: | **Malaysia** | **[cheewee10](https://osu.ppy.sh/users/4477497)** |
+| ::{ flag=NL }:: | **Netherlands** | **[2fast](https://osu.ppy.sh/users/5183940)** |
+| ::{ flag=NO }:: | **Norway** | **[\[RS\] F4st](https://osu.ppy.sh/users/7676585)** |
+| ::{ flag=PA }:: | **Panama** | **[Bolelo](https://osu.ppy.sh/users/23819962)** |
+| ::{ flag=PE }:: | **Peru** | **[-Lalito898](https://osu.ppy.sh/users/15098503)** |
+| ::{ flag=PH }:: | **Philippines** | **[Silhoueska Elze](https://osu.ppy.sh/users/11517895)** |
+| ::{ flag=PL }:: | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)** |
+| ::{ flag=PR }:: | **Puerto Rico** | **[\[LS\]Jadix](https://osu.ppy.sh/users/19735496)** |
+| ::{ flag=RO }:: | **Romania** | **[Mich\_](https://osu.ppy.sh/users/11784492)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[X\_Devil](https://osu.ppy.sh/users/6694908)** |
+| ::{ flag=SA }:: | **Saudi Arabia** | **[yui -](https://osu.ppy.sh/users/27404774)** |
+| ::{ flag=SE }:: | **Sweden** | **[Emik](https://osu.ppy.sh/users/3350987)** |
+| ::{ flag=SG }:: | **Singapore** | **[sukidayo-](https://osu.ppy.sh/users/16870002)** |
+| ::{ flag=TH }:: | **Thailand** | **[konkawe](https://osu.ppy.sh/users/15665805)** |
+| ::{ flag=TW }:: | **Taiwan** | **[\[-NEinO-\]](https://osu.ppy.sh/users/8630038)** |
+| ::{ flag=UA }:: | **Ukraine** | **[LonBertZend](https://osu.ppy.sh/users/10484445)** |
+| ::{ flag=US }:: | **United States** | **[Nepijin](https://osu.ppy.sh/users/11734610)** |
+| ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)** |
+
+Captains are listed in **bold**. Team listings are subject to change until the end of the sign-up period.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
 ## Ruleset
 
