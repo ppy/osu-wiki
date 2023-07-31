@@ -251,8 +251,9 @@
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Romania Tournament
 
