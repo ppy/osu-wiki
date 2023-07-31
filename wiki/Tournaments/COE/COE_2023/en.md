@@ -27,8 +27,9 @@ The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tourna
 ## Links
 
 - [COE website](https://cavoeboy.com/tournament)
-- [Livestream](https://cavoeboy.com/tournament)
+- [Livestream](https://discord.com/invite/d6ru6PVcSY)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)
+- [COE 1v1 Tournament Discord server](https://discord.gg/zJSTAyAUbW)
 - [COE Twitter](https://twitter.com/CavoesOsuEvent)
 
 ## Participants
