@@ -45,15 +45,15 @@ tags:
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Relax mod removes colour judgement: the correct colour for the note is hit regardless of the colour given. Although the colours of the notes will not be changed.
+В [osu!taiko](/wiki/Game_mode/osu!taiko), Relax не сравнивает цвет ноты, которую Вы нажали: вместо этого, он сам выбирает ноту нужного цвета, необходимо только держать ритм (Цвета нот при этом изменены не будут).
 
-Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while dendens can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed.
+Помимо перечисленного выше, Relax также увеличит время для сбора слайдертиков в драмролле, а дендены можно проходить с любой последовательностью цветов, вместо чередования (как при игре без модов). Вместе с этим будет скрыт анимированный [маскот](/wiki/Mascots).
 
-As opposed to osu!, the Relax mod in osu!taiko *will* display score, combo, and misses.
+В отличие от режима osu!, Relax в osu!taiko *будет* отображать очки, комбо, и промахи.
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Relax mod allows the character to be moved freely at any speed with the mouse or other cursor-moving peripheral.
+В [osu!catch](/wiki/Game_mode/osu!catch), мод Relax позволяет свободно перемещать персонажа с любой скоростью. Управление при этом осуществляется с помощью мыши или другого устройства, способного перемещать курсор.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
