@@ -32,7 +32,7 @@ El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundi
 | ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | Pancarta exclusivo del equipo |
 | ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | Pancarta exclusivo del equipo |
 
-![](img/badge.jpg "Insignia del ganador del AGTS 2019")
+![](img/badge.png "Insignia del ganador del AGTS 2019")
 
 ## Organización
 
