@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6edec2de3cdda25f89d2e660622ee9dd0273118f
+---
+
 # osu!taiko 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
