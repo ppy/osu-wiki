@@ -2,17 +2,17 @@
 
 ***注目：この記事は[一般的なランキング基準](/wiki/Ranking_criteria)の拡張版です。***
 
-osu!catch Ranking Criteria(osu!catch譜面のランク基準)はosu!catch譜面を作成する際に従わなければならない[ルール、ガイドライン](/wiki/Ranking_criteria#general-terms)です。osu!catch譜面をRankedさせるためにはこれらのルールに従う必要があります。いかなる場合でもルールに従わなければなりませんが、ガイドラインについては例外的な状況下において無視することが出来ます。ただし、その場合は何故ガイドラインを無視しないとosu!catch譜面全体の品質に影響を及ぼすのか、具体的な説明が必要となります。
+osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面を作成する際に従わなければならない[ルール、ガイドライン](/wiki/Ranking_criteria#general-terms)です。osu!catch譜面をRankedさせるためにはこれらのルールに従う必要があります。いかなる場合でもルールに従わなければなりませんが、ガイドラインについては例外的な状況下において無視することが出来ます。ただし、その場合は何故ガイドラインを無視しないとosu!catch譜面全体の品質に影響を及ぼすのか、具体的な説明が必要となります。
 
 ## 全体的なルール、ガイドライン (Overall)
 
-あらゆるのosu!catch 譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは、4/4 拍子でBPM180程度の曲に基づいています。曲がかなり速かったり遅かったりする場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
+あらゆるのosu!catch譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは、4/4 拍子でBPM 180程度の曲に基づいています。曲がかなり速かったり遅かったりする場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
 
 ### 一般 (General)
 
 #### ルール (Rules)
 
-- **理論的にはSSができなければならないです。** 基本的に全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[中フルーツ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[小フルーツ](/wiki/Gameplay/Hit_object/Juice_stream#drop)とる事ができる必要です。
+- **理論的にはSSができなければならないです。** 基本的に全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)とる事ができる必要です。
 - **デフォルトスキンを強制使用させない場合、少なくとも二つの[コンボカラー](/wiki/Beatmapping/Combo_colour)を使用する必要があります。** コンボカラーは譜面の画像、ストーリーボード、ビデオと溶け込めはいけません。これはオブジェクトが簡単にプレイヤーに見えるようにし、カスタムスキンのコンボカラーが誤って画像と混ざらないようにするためです。
 - **hitnormalの付いていないキーサウンドは禁止です。** サウンドが曲と完全に調和していれば、打時のフィードバックは聞き取りにくいです。
 - **もし、全ての難易度の[drain time](/wiki/Beatmap/Drain_time)は…**
@@ -24,7 +24,7 @@ osu!catch Ranking Criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 #### ガイドライン (Guidelines)
 
 - **全てのサークルとスライダーは曲の特徴的な音に合わせてください。** 普通に明瞭な音ですが、始まりと終わりの区別がつかない連続音を表すこともあります。
-- **Extendedスライダーテールは、曲の拍子にスナップするように。**曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
+- **Extendedスライダーテールは、曲の拍子にスナップするように。** 曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
 - **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制的に停止して、不快な動きを生じさせる（左の境界線はx:16、右の境界線はx:496）。
 - **[コンボ](/wiki/Beatmapping/Combo)が無理な長さにならないようにしてください。** 捕らえた[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は皿の上に積み重なり、プレイヤーの視界を妨げる可能性があります。スライダーエンド、リピート、[スピナー](/wiki/Gameplay/Hit_object/Spinner)の[バナナ](/wiki/Gameplay/Hit_object/Banana)もフルーツとして計数えることに注意してください。このような事態を避けるために新しいコンボは定期的にするように。
 - **マップに多様性を持たせ、スコアに変動を持たせるために、各難易度に少なくとも一つの[スピナー](/wiki/Gameplay/Hit_object/Spinner)を入れてようにしてください。** しかし、スピナーが曲のどこにも合わないのであれば、無理にスピナーを入れる必要はないです。
@@ -35,17 +35,17 @@ osu!catch Ranking Criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **明度50以下ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)は避けてください。**暗い色は、画像が暗いフルーツの読みやすさに影響します。
 - **気合いタイムを使用する場合は輝度220以上ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)を避けてください。**明るい色は気合いタイム中に明るいパルスを発生させ、目に不快感を与えます。
 
-### Skinning
+### スキン
 
-#### Rules
+#### ルール (Rules)
 
-- **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` and `fruit-catcher-fail.png`.
-- **Custom objects must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
-- **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the [fruits](/wiki/Gameplay/Hit_object/Fruit), 82x103 for the [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and 306x320 for the catcher.
+- **カスタムキャッチャーはv2スキンに含まれる必要があります。** すべてのスキンで正しい表示が保証されます。必要なファイル名は `fruit-catcher-idle.png`、`fruit-catcher-kiai.png`、`fruit-catcher-fail.png` です。
+- **カスタムオブジェクトはすべての必要な要素を含む、グレーの色で必要があります。** イメージがはっきりとされ、良い品質になります。必要な要素は[Skinning/osu!catch](/wiki/Skinning/osu!catch)で見つけることができます。さらに、オーバーレイには透明な要素を使用することを推奨します。
+- **スキン要素は、デフォルトスキンの対応要素と同じサイズである必要があります。** 適切にヒットボックスを表現し、ゲームプレイが変更されないようになります。デフォルトスキンで使用されている現在の寸法は、[フルーツ](/wiki/Gameplay/Hit_object/Fruit)には128x128、[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)には82x103、キャッチャーには306x320です。
 
 #### Guidelines
 
-- **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
+- **カスタムキャッチャーには、スキンセットを完成させるために`lighting.png`要素を追加することが推奨します。** 要素の可視に応じて異なる場合がありますが、追加は任意であり、デフォルトの寸法は184x184です。
 
 ## Difficulty-specific
 
