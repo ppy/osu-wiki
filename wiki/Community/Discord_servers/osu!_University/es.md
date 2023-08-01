@@ -18,7 +18,7 @@
 
 :::
 
-**osu! University** es un servidor de [Discord](https://discord.com) de la comunidad que se enfoca en la discusión sobre cómo mejorar, principalmente en el [modo de juego osu!](/wiki/Game_mode/osu!). Regularmente organiza varios eventos, como entrevistas a los top players, [torneos](/wiki/Tournaments) y estudios relacionados con la mejora, y también es conocido por albergar servicios de coaching pagados.
+**osu! University** es un servidor de [Discord](https://discord.com) de la comunidad que se enfoca en la discusión sobre cómo mejorar, principalmente en el [modo de juego osu!](/wiki/Game_mode/osu!). Regularmente organiza varios eventos, como entrevistas a top players, [torneos](/wiki/Tournaments) y estudios relacionados con la mejora, y también es conocido por albergar servicios de coaching pagados.
 
 El servidor también alberga las bases para el desarrollo, las pruebas, y el soporte del programa [Rewind](https://osu.ppy.sh/community/forums/topics/1451845), que es una herramienta para analizar [repeticiones](/wiki/Gameplay/Replay).
 
@@ -36,8 +36,8 @@ El servidor también alberga las bases para el desarrollo, las pruebas, y el sop
 | 9/8/2021 - 13/8/2021 | Semana de entrevistas con un top player (control de nervios) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG) |
 | 30/8/2021 - 3/9/2021 | Semana de entrevistas con un top player (mindblock) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect) |
 | 27/9/2021 - 1/10/2021 | Semana de entrevistas con un top player (AR alto) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg) |
-| 11/10/2021 - 15/10/2021 | Semana de entrevistas con un top player (estrategia de torneo) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl) |
-| 1/2/2022 - 1/3/2022 | Estudio de la stamina del tapeo | [Documento informativo](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [documento de resultados](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [vídeo de discusión de resultados](https://www.youtube.com/watch?v=BINGyy43T4U) |
+| 11/10/2021 - 15/10/2021 | Semana de entrevistas con un top player (estrategia para torneos) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl) |
+| 1/2/2022 - 1/3/2022 | Estudio de la stamina del tapping | [Documento informativo](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [documento de resultados](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [vídeo de discusión de resultados](https://www.youtube.com/watch?v=BINGyy43T4U) |
 | 20/2/2022 | [Reunión de la comunidad de osu!](/wiki/Community/osu!_community_meetings) #11 | [VOD de YouTube](https://www.youtube.com/watch?v=d66pU5lsHvE), [resumen de noticias](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
 | 6/3/2022 | [Reunión de la comunidad de osu!](/wiki/Community/osu!_community_meetings) #12 | [VOD de YouTube](https://www.youtube.com/watch?v=HimCHAnPCCY), [resumen de noticias](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
 | 20/5/2022 - 22/5/2022 | [osu! Talk Event: Overcoming Obstacles](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |

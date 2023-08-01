@@ -14,13 +14,13 @@
 
 :::
 
-**osu!taiko Modding & Mapping Hub** es un servidor de [Discord](https://discord.com) de la comunidad designado para todos los mapeadores y modders actuales y aspirantes para [osu!taiko](/wiki/Game_mode/osu!taiko). Los usuarios pueden encontrar muchos canales que los ayudan a crecer como mapeadores, o interactuar con la comunidad general de mapeo de osu!taiko.
+**osu!taiko Modding & Mapping Hub** es un servidor de [Discord](https://discord.com) de la comunidad designado para todos los mappers y modders actuales y aspirantes para [osu!taiko](/wiki/Game_mode/osu!taiko). Los usuarios pueden encontrar muchos canales que los ayudan a crecer como mappers, o interactuar con la comunidad general de mapping de osu!taiko.
 
 El servidor consta principalmente de:
 
-- Canales para solicitar mods, dificultades de invitados, nominaciones u otras solicitudes relacionadas con el mapeo.
-- Canales donde los usuarios pueden hacer cualquier pregunta relacionada con el mapeo, en los que encajan mapeadores experimentados para responder dichas preguntas.
-- Un lugar para compartir colas de modeo para ganar más experiencia.
+- Canales para solicitar mods, dificultades de invitados, nominaciones u otras solicitudes relacionadas con el mapping.
+- Canales donde los usuarios pueden hacer cualquier pregunta relacionada con el mapping, en los que encajan mappers experimentados para responder dichas preguntas.
+- Un lugar para compartir colas de modding para ganar más experiencia.
 - Un lugar centralizado para encontrar el estado de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - Una lista de referencias útiles como herramientas, propuestas de RC y otros servidores de Discord.
 

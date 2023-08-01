@@ -21,7 +21,7 @@ tags:
 
 :::
 
-*Aviso: si bien se recomienda trabajar juntos para encontrar las medallas Hush-Hush, encontrarlas por ti mismo también lo es. Tenga en cuenta que el servidor contiene soluciones para las medallas Hush-Hush.*
+*Aviso: si bien se recomienda trabajar juntos para encontrar las medallas Hush-Hush, encontrarlas por ti mismo también lo es. Ten en cuenta que el servidor contiene soluciones para las medallas Hush-Hush.*
 
 **osu! Medal Hunters** es el servidor principal de [Discord](https://discord.com) utilizado por la comunidad de cazadores de medallas, donde la gente habla sobre [medallas](/wiki/Medals) y las [soluciones de las medallas](/wiki/Medals/Unlock_requirements).
 

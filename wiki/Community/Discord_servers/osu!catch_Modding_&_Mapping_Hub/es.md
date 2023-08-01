@@ -14,13 +14,13 @@
 
 :::
 
-**osu!catch Modding & Mapping Hub** es un servidor de [Discord](https://discord.com) de la comunidad designado para todos los mapeadores y modders actuales y aspirantes para [osu!catch](/wiki/Game_mode/osu!catch). Los usuarios pueden encontrar muchos canales que los ayudan a crecer como mapeadores, o interactuar con la comunidad general de mapeo de osu!catch.
+**osu!catch Modding & Mapping Hub** es un servidor de [Discord](https://discord.com) de la comunidad designado para todos los mappers y modders actuales y aspirantes para [osu!catch](/wiki/Game_mode/osu!catch). Los usuarios pueden encontrar muchos canales que los ayudan a crecer como mappers, o interactuar con la comunidad general de mapping de osu!catch.
 
 El servidor consta principalmente de:
 
-- Canales para solicitar mods, dificultades de invitados, nominaciones u otras solicitudes relacionadas con el mapeo.
-- Canales donde los usuarios pueden hacer cualquier pregunta relacionada con el mapeo, en los que encajan mapeadores experimentados para responder dichas preguntas.
-- Un lugar para compartir colas de modeo para ganar más experiencia.
+- Canales para solicitar mods, dificultades de invitados, nominaciones u otras solicitudes relacionadas con el mapping.
+- Canales donde los usuarios pueden hacer cualquier pregunta relacionada con el mapping, en los que encajan mappers experimentados para responder dichas preguntas.
+- Un lugar para compartir colas de modding para ganar más experiencia.
 - Un lugar centralizado para encontrar el estado de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - Una lista de referencias útiles como herramientas, propuestas de RC y otros servidores de Discord.
 
@@ -33,6 +33,6 @@ El servidor consta principalmente de:
 
 ## Verificación
 
-Para acceder a los canales, los usuarios deben verificar su identidad publicando sus perfiles de osu! en el canal `#arrival` e indicando en qué rol(es) están interesados.
+Para acceder a los canales, los usuarios deben verificar su identidad publicando sus perfiles de osu! en el canal `#arrival` e indicando en qué roles están interesados.
 
 ![Proceso de autenticación](img/auth.jpg?1 "Al unirse al servidor, los usuarios publicarán su perfil de osu! y pedirán un determinado rol, y un administrador editará sus perfiles en consecuencia")
