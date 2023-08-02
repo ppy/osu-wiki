@@ -131,7 +131,7 @@ Aktuell können Beatmaps, Skins, Scores, Replays und Sammlungen in lazer importi
 
 #### Wenn ich meine Beatmaps in lazer importiere, verbrauchen sie dann den doppelten Speicherplatz?
 
-Wenn du sowohl lazer als auch stable auf demselben Laufwerk installiert hast, dann werden [harte Links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) verwendet, um den zusätzlichen Speicherplatz einzusparen.
+Wenn du sowohl lazer als auch stable auf demselben Laufwerk installiert hast, dann werden [harte Links](/wiki/Client/Release_stream/Lazer/File_storage#über-harte-links) verwendet, um den zusätzlichen Speicherplatz einzusparen.
 
 In allen anderen Fällen wird die Einbindung von Beatmaps den doppelten Speicherplatz benötigen.
 
