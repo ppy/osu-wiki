@@ -162,8 +162,8 @@ Monday, 31 July 2023:
 
 ### Week 4
 
-Teams with their name on bold are advance to finals.
-Teams with their name crossed out are eliminated.
+Teams with emboldened names advance to finals.
+Teams with names crossed out are eliminated.
 
 | Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
 | --: | :-: | :-: | :-: | :-: | --: |
@@ -181,8 +181,8 @@ Teams with their name crossed out are eliminated.
 
 ### Week 3
 
-Teams with their name on italics are on last chance situation.
-Teams with their name crossed out are eliminated.
+Teams with italicised names are on last chance situation.
+Teams with names crossed out are eliminated.
 
 | Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
 | --: | :-: | :-: | :-: | :-: | --: |
@@ -207,8 +207,8 @@ Teams with their name crossed out are eliminated.
 
 ### Week 2
 
-Teams with their name on italics are on last chance situation.
-Teams with their name crossed out are eliminated.
+Teams with italicised names are on last chance situation.
+Teams with names crossed out are eliminated.
 
 | Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
 | --: | :-: | :-: | :-: | :-: | --: |
@@ -247,7 +247,7 @@ Teams with their name crossed out are eliminated.
 
 ### Week 1
 
-Teams with their name on italics are on last chance situation.
+Teams with italicised names are on last chance situation
 
 | Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
 | --: | :-: | :-: | :-: | :-: | --: |
@@ -339,7 +339,7 @@ Only the top 32 teams advance to the next round.
 
 ### Overall notes
 
-1. SV: Summer Exhibition 2 is a **team tournament**, played on the osu!mania game mode.
+1. SV: Summer Exhibition 2 is an osu!mania **team tournament**.
   - Teams are formed with 2 players each.
 2. The scoring system used will be **ScoreV2**.
 3. There will be a Qualifier Stage, 4 weeks of leaderboard play and a final single elimination stage.
@@ -358,8 +358,8 @@ Only the top 32 teams advance to the next round.
 
 1. The Qualifier pool contains 4 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 2. Teams will select one player to play each map and each player will play two different maps from the mappool.
-3. When joining the lobby they will tell the referee what maps each player will be playing.
-  - Players cant change what maps are they going to play after this.
+3. When joining the lobby, the teams will tell the referee what maps each player will be playing.
+  - From this point, players can't change selected maps.
 4. Each team will have two tries at each map, their best score will count for seeding.
 5. The top 32 seeded teams will advance to the weekly stages.
   - This seeding is done by the sum of all the best scores in each map.
@@ -375,14 +375,14 @@ Only the top 32 teams advance to the next round.
 6. Each player will have three tries at each map, their best score will count for each weekly stage.
 7. Each map will have a leaderboard with the best recorded scores on it, and their placement on those will be used for the overall week placement
 8. Teams advance to the next week stage if they are not eliminated, elimination happens if a team fulfills one of the folowing conditions:
-  - They get 2 "Last Chance" flags, these flags are given by being on the bottom half of the leaderboard each week.
+  - They get 2 "Last Chance" flags, which are given to the teams in the bottom half of the leaderboard each week.
   - They are one of the bottom 4 teams on the leaderboard on a given week.
 9. Top 4 teams on the leaderboard by week 4 advance to finals.
-  - Teams outside of top 4 that dont get eliminated by the end of week 4 are survivors and get a small prize.
+  - Teams outside of top 4 not eliminated by the end of week 4 are considered survivors and get a small prize.
 
 #### Final Stage
 
-1. Teams that advanced to finals will play a small single-elimination bracket.
+1. Teams that advance to finals will play a small single-elimination bracket.
 2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 3. Matches are defined as follows:
   - First place faces Fourth place.
@@ -391,7 +391,7 @@ Only the top 32 teams advance to the next round.
   - Winners of each match will define the Grand Champion of SVSE2.
 4. Teams needs to win 2 sets to win a match, to win a set they need to win 3 maps (best of 5).
 5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
-  - These A and B players cant be swapped for the entire stage.
+  - These A and B players can't be swapped for the entire stage.
 6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
 7. Each team must use `!roll` command at the start of every set in `#multiplayer`.
    - The winner of the `!roll` starts picking first.
