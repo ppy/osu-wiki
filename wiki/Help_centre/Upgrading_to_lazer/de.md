@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Umstellung auf lazer
 
 *Hinweis: Wir sind noch dabei, die Spielbalance und -mechanik zu verbessern. Für den Moment sollten **Scores, die auf lazer erreicht werden, nicht als dauerhaft angesehen werden**.*
