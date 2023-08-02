@@ -4,11 +4,11 @@
 
 | Formato de archivo | Tipo de MIME | Uso |
 | :-- | :-- | :-- |
-| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | archivo de beatmap de osu! |
-| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | archivo de skin de osu! |
-| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | [dificultad](/wiki/Beatmap/Difficulty) de osu! |
-| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | [storyboard](/wiki/Storyboard/Scripting) de osu! |
-| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | [repetición](/wiki/Gameplay/Replay) de osu! |
+| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | archivo de beatmap de osu! |
+| [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | archivo de skin de osu! |
+| [.osu](/wiki/Client/File_formats/osu_(file_format)) | `x-osu-beatmap` | [dificultad](/wiki/Beatmap/Difficulty) de osu! |
+| [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | [storyboard](/wiki/Storyboard/Scripting) de osu! |
+| [.osr](/wiki/Client/File_formats/osr_(file_format)) | `x-osu-replay` | [repetición](/wiki/Gameplay/Replay) de osu! |
 
 ## Creando archivos .osz y .osk
 

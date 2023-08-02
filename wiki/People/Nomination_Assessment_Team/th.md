@@ -49,7 +49,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluation |
@@ -57,11 +56,13 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluation, structural |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | Evaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Structural |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | Evaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | เยอรมัน, เซอร์เบีย | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ | Evaluation |
@@ -81,6 +82,7 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluation |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
 
 ### osu!mania
 
@@ -88,7 +90,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | :-- | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | เวียดนาม | Evaluation |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | จีน | Evaluation |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | เกาหลี | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | เดนมาร์ก | Evaluation |
 
