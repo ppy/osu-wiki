@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2023 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament is open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It is the thirteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) is an Indonesian d
 
 ## Prizes
 
-The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool can be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -35,11 +35,11 @@ The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,0
 
 ![](img/badge.png "OIT 2023 winner badge")
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #13 (2023) is not marked for profit. All contributions and expenses made towards the tournament will be publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #13 (2023) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #13 (2023) was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -88,7 +88,42 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
 | 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
 
+## Podium
+
+![](img/podium.jpg "OIT 2023 podium")
+
 ## Mappools
+
+### Finals (week 2)
+
+**[Download the mappack here! (206 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1133028509200171180/oit2023gf.zip)**
+
+- NoMod
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Blood on the EDGE (SupaV) \[PRIMOGENITOR\]](https://osu.ppy.sh/beatmapsets/2030033#osu/4230323)
+  2. [UNDEAD CORPORATION - Kasha no Sakebu Yoru ni (Cut Ver.) (monzuul) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/2008164#osu/4177202)
+  3. [M2U remixed celas - Legend of Seeker (Celine) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/2027742#osu/4225408)
+  4. [BEMANI Sound Team "L.E.D." - GRAVITON (Ishtiaq) \[Nulspace perihelion\]](https://osu.ppy.sh/beatmapsets/1846696#osu/3793473)
+  5. [sasakure.UK x TJ.hangneil - World Ender (Hey lululu) \[Drop's Beyond\]](https://osu.ppy.sh/beatmapsets/1804812#osu/3819028)  
+- Hidden
+  1. [KikuoHana - God of Longevity (Icekalt) \[Langlebigkeit\]](https://osu.ppy.sh/beatmapsets/1507370#osu/3087337)
+  2. [Shouyu - Redemptor (Digital Universum ver.) (ImpurePug) \[Special\]](https://osu.ppy.sh/beatmapsets/1453412#osu/2988041)
+  3. [Hakushi Hasegawa - Doku (Halgoh) \[Halgoh & Sharu's Symbiotic Torrent\]](https://osu.ppy.sh/beatmapsets/1670363#osu/3411617)  
+- HardRock
+  1. [Various Artists - GIRLS' LEGEND U (lushifer) \[Don't Stop! No, Don't Stop 'til Finish! (2023)\]](https://osu.ppy.sh/beatmapsets/1785665#osu/4145932)
+  2. [SHIKI - BABYLON (Niva) \[Queen of Sheba\]](https://osu.ppy.sh/beatmapsets/2027996#osu/4225948)
+  3. [Hatsuki Yura - Yasou Kagerou (KKipalt) \[nonsquareable\]](https://osu.ppy.sh/beatmapsets/1850954#osu/3802403)
+- DoubleTime
+  1. [Hana - Sakura no Uta (Melize) \[Naruto & Sasuke Collab\]](https://osu.ppy.sh/beatmapsets/2027467#osu/4224716)
+  2. [goreshit - resynth (Gordon) \[amalgamation\]](https://osu.ppy.sh/beatmapsets/1499764#osu/3095034)
+  3. [my sound life - AIR (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1814686#osu/3722666)
+  4. [sekai - Zange Mairi (Yugu) \[Repentance\]](https://osu.ppy.sh/beatmapsets/1176431#osu/2453711)
+- FreeMod
+  1. [Brymir - Hails from the Edge (LMT) \[War Cry\]](https://osu.ppy.sh/beatmapsets/1312066#osu/2719305)
+  2. [MuryokuP - Catastrophe (yaspo) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/1850971#osu/3802467)
+  3. [Mandragora, 4i20 - Evil Away (Ciyus Miapah) \[Evil Here\]](https://osu.ppy.sh/beatmapsets/2027998#osu/4225952)
+  4. [onoken - ZADAMGA (Down) \[Black Seal\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3169730)
+- Tiebreaker
+  1. **[ZxNX+Delaina - False Fairy Tale (Raids) \[The White Rabbit\]](https://osu.ppy.sh/beatmapsets/2027735#osu/4225364)**
 
 ### Finals (week 1)
 
@@ -97,8 +132,8 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 - NoMod
   1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
   2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
-  3. [BlackY feat. Risa Yuzuki - Imitator (Elayue)) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
-  4. [RB.H x lihound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
+  3. [BlackY feat. Risa Yuzuki - Imitator (Elayue) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
+  4. [RB.H x lixound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
   5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
 - Hidden
   1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
@@ -230,6 +265,36 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 29 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109737714) |
+
+Sunday, 30 July 2023, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
+
+### Finals (week 1)
+
+Saturday, 22 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/109619011) |
+| Upper | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/109620970) |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109623175) |
+
+Sunday, 23 July 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109640383) |
 
 ### Semifinals
 
