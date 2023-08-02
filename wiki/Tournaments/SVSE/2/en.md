@@ -36,7 +36,7 @@ The **SV: Summer Exhibition 2** (***SVSE 2***) is a team tournament osu!mania 4-
 
 ## Organisation
 
-The SV: Summer Exhibition is run by various community members.
+The SV: Summer Exhibition 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
