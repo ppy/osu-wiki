@@ -14,46 +14,46 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - **理論的にはSSができなければならないです。** 基本的に全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)とる事ができる必要です。
 - **デフォルトスキンを強制使用させない場合、少なくとも二つの[コンボカラー](/wiki/Beatmapping/Combo_colour)を使用する必要があります。** コンボカラーは譜面の画像、ストーリーボード、ビデオと溶け込めはいけません。これはオブジェクトが簡単にプレイヤーに見えるようにし、カスタムスキンのコンボカラーが誤って画像と混ざらないようにするためです。
-- **hitnormalの付いていないキーサウンドは禁止です。** サウンドが曲と完全に調和していれば、打時のフィードバックは聞き取りにくいです。
+- **hitnormalの付いていない[キーサウンド](wiki/Beatmapping/Hitsound#keysound)は禁止です。** サウンドが曲と完全に調和していれば、打時のフィードバックは聞き取りにくいです。
 - **もし、全ての難易度の[drain time](/wiki/Beatmap/Drain_time)は…**
   - **…2分30秒を下回る場合**、 最低難易度はSaladより難しくは禁止です。
   - **…2分30秒から3分15秒の間に**、 最低難易度はPlatterより難しくは禁止です。
   - **…3分15秒から4分の間に**、 最低難易度はRainより難しくは禁止です。
-  - **上記の閾値を満たすために[drain time](/wiki/Beatmap/Drain_time)と[break time](/wiki/Beatmap/Break)組み合わせることができます。**最高難易度の場合は、break timeは最大30秒に制限しています。30秒以内の譜面は適用されないです。
+  - **上記の閾値を満たすために[drain time](/wiki/Beatmap/Drain_time)と[break time](/wiki/Beatmap/Break)組み合わせることができます。** 最高難易度の場合は、break timeは最大30秒に制限しています。30秒以内の譜面は適用されないです。
 
 #### ガイドライン (Guidelines)
 
 - **全てのサークルとスライダーは曲の特徴的な音に合わせてください。** 普通に明瞭な音ですが、始まりと終わりの区別がつかない連続音を表すこともあります。
 - **Extendedスライダーテールは、曲の拍子にスナップするように。** 曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
-- **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制的に停止して、不快な動きを生じさせる（左の境界線はx:16、右の境界線はx:496）。
+- **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制に停止して、不快な動きを生じさせるです。（左の境界線はx:16、右の境界線はx:496）
 - **[コンボ](/wiki/Beatmapping/Combo)が無理な長さにならないようにしてください。** 捕らえた[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は皿の上に積み重なり、プレイヤーの視界を妨げる可能性があります。スライダーエンド、リピート、[スピナー](/wiki/Gameplay/Hit_object/Spinner)の[バナナ](/wiki/Gameplay/Hit_object/Banana)もフルーツとして計数えることに注意してください。このような事態を避けるために新しいコンボは定期的にするように。
 - **マップに多様性を持たせ、スコアに変動を持たせるために、各難易度に少なくとも一つの[スピナー](/wiki/Gameplay/Hit_object/Spinner)を入れてようにしてください。** しかし、スピナーが曲のどこにも合わないのであれば、無理にスピナーを入れる必要はないです。
-- **[Overall Difficulty](/wiki/Beatmap/Overall_difficulty)は[Approach Rate](/wiki/Beatmap/Approach_rate)と同じであるべきです。** Overall Difficultyはゲームプレイや[スピナー](/wiki/Gameplay/Hit_object/Spinner)のバナナの数に影響しないので、これは単なる標準化された値です。Overall Difficultyは譜面の最高得点にのみ影響します。
-  - 難易度より下の難易度よりも低いApproach Rateを使用している場合、Overall Difficultyは、その難易度より前の最もOverall Difficultyの値と同じべきであります。
+- **[OD](/wiki/Beatmap/Overall_difficulty)は[AR](/wiki/Beatmap/Approach_rate)と同じであるべきです。** ODはゲームプレイや[スピナー](/wiki/Gameplay/Hit_object/Spinner)のバナナの数に影響しないので、これは単なる標準化された値です。ODは譜面の最高得点にのみ影響します。
+  - 難易度より下の難易度よりも低いARを使用している場合、ODは、その難易度より前の最もODの値と同じべきであります。
 - **スライダーの目盛は、曲に合わせて設定する必要があります。** 例えば、1/3スナップしか使わない曲の場合、スライダーの目盛は2や4を使うのは適切ではないです。
 - **どの難易度でも同じスライダーの目盛を使用することです。** これはマッピング設定ではなく音楽の特性だからです。しかし、低い難易度では、曲のリズムに従うことを条件に、新しいプレーヤーに必要な精度を下げるために低いスライダーの目盛を使用することができます。純粋にスコア、コンボ、難易度を上げるために高いスライダーの目盛を使うのはだめです。
-- **明度50以下ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)は避けてください。**暗い色は、画像が暗いフルーツの読みやすさに影響します。
-- **気合いタイムを使用する場合は輝度220以上ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)を避けてください。**明るい色は気合いタイム中に明るいパルスを発生させ、目に不快感を与えます。
+- **明度50以下ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)は避けてください。** 暗い色はフルーツの読みかたは遊びにくいになります。
+- **気合いタイムを使用する場合は輝度220以上ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)を避けてください。** 明るい色は気合いタイム中に明るいパルスを発生させ、目に不快感を与えます。
 
 ### スキン
 
 #### ルール (Rules)
 
-- **カスタムキャッチャーはv2スキンに含まれる必要があります。** すべてのスキンで正しい表示が保証されます。必要なファイル名は `fruit-catcher-idle.png`、`fruit-catcher-kiai.png`、`fruit-catcher-fail.png` です。
-- **カスタムオブジェクトはすべての必要な要素を含む、グレーの色で必要があります。** イメージがはっきりとされ、良い品質になります。必要な要素は[Skinning/osu!catch](/wiki/Skinning/osu!catch)で見つけることができます。さらに、オーバーレイには透明な要素を使用することを推奨します。
+- **カスタムキャッチャーはv2スキンに含まれる必要があります。** すべてのスキンで正しい表示が保証されます。必要なファイルは `fruit-catcher-idle.png`、`fruit-catcher-kiai.png`、`fruit-catcher-fail.png` です。
+- **カスタムオブジェクトはすべての必要な要素を含む、グレーの色で必要があります。** イメージがはっきりとされ、良い品質になるべきです。必要な要素は[Skinning/osu!catch](/wiki/Skinning/osu!catch)で見つけることができます。さらに、オーバーレイには透明な要素を使用することを推奨します。
 - **スキン要素は、デフォルトスキンの対応要素と同じサイズである必要があります。** 適切にヒットボックスを表現し、ゲームプレイが変更されないようになります。デフォルトスキンで使用されている現在の寸法は、[フルーツ](/wiki/Gameplay/Hit_object/Fruit)には128x128、[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)には82x103、キャッチャーには306x320です。
 
-#### Guidelines
+#### ガイドライン (Guidelines)
 
 - **カスタムキャッチャーには、スキンセットを完成させるために`lighting.png`要素を追加することが推奨します。** 要素の可視に応じて異なる場合がありますが、追加は任意であり、デフォルトの寸法は184x184です。
 
-## Difficulty-specific
+## 難易度別 (Difficulty-specific)
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+難易度別のルールとガイドラインは、それらがリストされている難易度レベルにのみ適用されます。**したがって、それらはすべてのosu!catch難易度には適用されません。** リズムに関連するルールとガイドラインは、4/4 拍子でBPM 180程度の曲に基づいています。もし曲が著しく速いか遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳細に説明されています。
 
-### Difficulty names
+### 難易度の名前 (Difficulty names)
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*メイン記事： [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -61,33 +61,33 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### Snapping reference table
-
-| Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
+### スナップ基準表 (Snapping reference Table)
+//cant think of good terms for this lol いい言葉が思いつかないんですおｒｚ
+| 難易度 | 簡単なダッシュ | 早いダッシュ | 簡単なハイパーダッシュ | 早いハイパーダッシュ |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
-| **Salad** | 250 ms or higher | 125-249 ms | - | - |
-| **Platter** | 125 ms or higher | 62-124 ms | 250 ms or higher | 125-249 ms |
-| **Rain** | 125 ms or higher | 62-124 ms | 125 ms or higher | 62-124 ms |
+| **Salad** | 250ミリ秒以上 | 125-249ミリ秒 | - | - |
+| **Platter** | 125ミリ秒以上 | 62-124ミリ秒 | 250ミリ秒以上 | 125-249ミリ秒 |
+| **Rain** | 125ミリ秒以上 | 62-124ミリ秒 | 125ミリ秒以上 | 62-124ミリ秒 |
 | **Overdose** | - | - | - | - |
 
 ### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 
 #### Rules
 
-- **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
-- **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+- **[ダッシュ](/wiki/Gameplay/Dash)や[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)も禁止されています。** これは初心者プレイヤーにとって簡単な始めを保証するためです。そのためには、ダッシュキーを押せずに難易度でSSランクを獲得できるようにテストする必要があります。
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点と終点の間には少なくとも250 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
 
 #### Guidelines
 
-- **[Combos](/wiki/Beatmapping/Combo) should not exceed 8 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly.
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーのテールとリピートを含めて8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **ノート密度は主に1/1のリズムです。** 1/2およびかまたは1/3のリズムは控えめに使ってください。
 
 #### Difficulty setting guidelines
 
-- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 4 and 6.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 2 and 3.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 2 and 3.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間で設定する必要があります。
+- [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間で設定する必要があります。
+- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間で設定する必要があります。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
@@ -111,7 +111,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 6 and 7.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 6 and 7.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 3 and 4.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 2.5 and 3.5.
 
@@ -142,7 +142,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 7 and 8.2.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 7 and 8.2.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 4 and 5.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 4.
 
@@ -169,7 +169,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 7 and 9.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 7 and 9.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 6.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 5.
 
@@ -190,6 +190,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 8 and 10.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 8 and 10.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 6 and 7.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 6.
