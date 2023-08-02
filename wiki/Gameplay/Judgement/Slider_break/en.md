@@ -17,4 +17,4 @@ Slider break will not be triggered if the slider's [tail](/wiki/Gameplay/Hit_obj
 
 ## Gameplay
 
-Slider breaks, by their definition, break the combo, but instead of a miss, the player will receive a [GOOD](/Gameplay/Judgement/osu!). As a result, it's still possible to get the S or silver S [grade](/wiki/Gameplay/Grade) for a play, assuming that all other [accuracy](/wiki/Gameplay/Accuracy) requirements have been met.
+Slider breaks, by their definition, break the combo, but instead of a miss, the player will receive a [GOOD](/wiki/Gameplay/Judgement/osu!). As a result, it's still possible to get the S or silver S [grade](/wiki/Gameplay/Grade) for a play, assuming that all other [accuracy](/wiki/Gameplay/Accuracy) requirements have been met.
