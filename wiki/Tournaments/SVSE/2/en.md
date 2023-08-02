@@ -340,16 +340,16 @@ Only the top 32 teams advance to the next round.
 ### Overall notes
 
 1. SV: Summer Exhibition 2 is an osu!mania **team tournament**.
-  - Teams are formed with 2 players each.
+   - Teams are formed with 2 players each.
 2. The scoring system used will be **ScoreV2**.
 3. There will be a Qualifier Stage, 4 weeks of leaderboard play and a final single elimination stage.
-  - **The maximum number of teams who can advance to the weekly stages is 32**.
-  - **Top 4 teams by the end of week 4 will advance to the final stage**.
+   - **The maximum number of teams who can advance to the weekly stages is 32**.
+   - **Top 4 teams by the end of week 4 will advance to the final stage**.
 4. Every week an "Information Compass" will be released of each map of the pool which will give players important information on the content of each chart.
-  - The Information Compass is a 5x5 grid where the X-Axis represents the chart type bias and the Y-Axis represents the complexity bias.
+   - The Information Compass is a 5x5 grid where the X-Axis represents the chart type bias and the Y-Axis represents the complexity bias.
 5. Mappool will be released on different dates depending of the stage:
-  - **Qualifiers and Final stage**: Mappool will be released one week in advance, right after the mappool showcase.
-  - **Weekly stages**: Mappool will be released every Friday at 0 UTC.
+   - **Qualifiers and Final stage**: Mappool will be released one week in advance, right after the mappool showcase.
+   - **Weekly stages**: Mappool will be released every Friday at 0 UTC.
 6. Maps will be played with [FreeMod](/wiki/Gameplay/Game_modifier#freemod). The only allowed mods are FadeIn, Flashlight, Hidden, and Mirror.
 
 ### Tournament structure
@@ -359,10 +359,10 @@ Only the top 32 teams advance to the next round.
 1. The Qualifier pool contains 4 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 2. Each player will play 2 unique maps of the qualifier mappool.
 3. When joining the lobby, the teams will tell the referee what maps each player will be playing.
-  - From this point, players can't change selected maps.
+   - From this point, players can't change selected maps.
 4. Each team will have two tries at each map, their best score will count for seeding.
 5. The top 32 seeded teams will advance to the weekly stages.
-  - This seeding is done by the sum of all the best scores in each map.
+   - This seeding is done by the sum of all the best scores in each map.
 
 #### Weekly stages
 
@@ -370,30 +370,30 @@ Only the top 32 teams advance to the next round.
 2. Every week 2 maps will be released, one for "Side A" and another for "Side B".
 3. An Information Compass will be released for each of these maps every Monday at 0 UTC.
 4. After the Information Compasses are released, teams will sign up one player to the Side A lobby, and the other for the Side B lobby.
-  - They can do this until Thursday 23:59 UTC.
+   - They can do this until Thursday 23:59 UTC.
 5. On Friday at 0 UTC the maps are uploaded and posted in the server.
 6. Each player will have three tries at each map, their best score will count for each weekly stage.
 7. Each map will have a leaderboard with the best recorded scores on it, and their placement on those will be used for the overall week placement
 8. Teams advance to the next week stage if they are not eliminated, elimination happens if a team fulfills one of the folowing conditions:
-  - They get 2 "Last Chance" flags, which are given to the teams in the bottom half of the leaderboard each week.
-  - They are one of the bottom 4 teams on the leaderboard on a given week.
+   - They get 2 "Last Chance" flags, which are given to the teams in the bottom half of the leaderboard each week.
+   - They are one of the bottom 4 teams on the leaderboard on a given week.
 9. Top 4 teams on the leaderboard by week 4 advance to finals.
-  - Teams outside of top 4 not eliminated by the end of week 4 are considered survivors and get a small prize.
+   - Teams outside of top 4 not eliminated by the end of week 4 are considered survivors and get a small prize.
 
 #### Final Stage
 
 1. Teams that advance to finals will play a small single-elimination bracket.
 2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 3. Matches are defined as follows:
-  - First place faces Fourth place.
-  - Second place faces Third place.
-  - Losers of each match will define the 3rd and 4th places of the tournament.
-  - Winners of each match will define the Grand Champion of SVSE2.
+   - First place faces Fourth place.
+   - Second place faces Third place.
+   - Losers of each match will define the 3rd and 4th places of the tournament.
+   - Winners of each match will define the Grand Champion of SVSE2.
 4. Teams needs to win 2 sets to win a match, to win a set they need to win 3 maps (best of 5).
 5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
-  - These A and B players can't be swapped for the entire stage.
+   - These A and B players can't be swapped for the entire stage.
 6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
 7. Each team must use `!roll` command at the start of every set in `#multiplayer`.
-  - The winner of the `!roll` starts picking first.
-  - The loser of the `!roll` picks second.
+   - The winner of the `!roll` starts picking first.
+   - The loser of the `!roll` picks second.
 8. There wont be bans in this stage.
