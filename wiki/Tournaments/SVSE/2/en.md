@@ -383,17 +383,17 @@ Only the top 32 teams advance to the next round.
 #### Final Stage
 
 1. Teams that advanced to finals will play a small single-elimination bracket.
-1. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
-2. Matches are defined as follows:
+2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
+3. Matches are defined as follows:
   - First place faces Fourth place.
   - Second place faces Third place.
   - Losers of each match will define the 3rd and 4th places of the tournament.
   - Winners of each match will define the Grand Champion of SVSE2.
-3. Teams needs to win 2 sets to win a match, to win a set they need to win 3 maps (best of 5).
-4. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
+4. Teams needs to win 2 sets to win a match, to win a set they need to win 3 maps (best of 5).
+5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
   - These A and B players cant be swapped for the entire stage.
-5. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
-6. Each team must use `!roll` command at the start of every set in `#multiplayer`.
+6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
+7. Each team must use `!roll` command at the start of every set in `#multiplayer`.
    - The winner of the `!roll` starts picking first.
    - The loser of the `!roll` picks second.
-7. There wont be bans in this stage.
+8. There wont be bans in this stage.
