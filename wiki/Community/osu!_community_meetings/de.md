@@ -2,7 +2,7 @@
 
 Die **osu! Community Meetings** sind Diskussionsrunden, die vom [osu!-Team](/wiki/People/osu!_team) veranstaltet werden. Das Hauptziel dieser Treffen ist es, jedem die Möglichkeit zu geben, direkt mit den Entwicklern und den für die Verwaltung der Community verantwortlichen Personen zu sprechen, um Probleme zur Diskussion zu stellen oder weitere Überlegungen einzubringen.
 
-Vor langer Zeit, in der [fernen Vergangenheit des Spiels](https://twitter.com/ppy/status/1169256824052170755), veranstaltete das osu!-Team regelmäßig Community-Treffen, bei denen jeder willkommen war, um zu reden. Bei der heutigen Größe des Spiels ist dies nicht mehr möglich, aber über Discord wurde eine Art Warteschlangensystem eingeführt, in dem Fragen einzeln beantwortet werden können.
+Vor langer Zeit, in der [fernen Vergangenheit des Spiels](https://x.com/ppy/status/1169256824052170755), veranstaltete das osu!-Team regelmäßig Community-Treffen, bei denen jeder willkommen war, um zu reden. Bei der heutigen Größe des Spiels ist dies nicht mehr möglich, aber über Discord wurde eine Art Warteschlangensystem eingeführt, in dem Fragen einzeln beantwortet werden können.
 
 Wenn du daran interessiert bist, Fragen zu stellen, stelle bitte sicher, dass du die weiter unten auf dieser Seite aufgeführten Richtlinien durchgelesen hast.
 
@@ -12,7 +12,7 @@ Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2
 
 Die osu! Community Meetings werden derzeit auf einer Discord Stage im [osu! Discord-Server](https://discord.gg/ppy) gehostet und auf [peppys Twitch-Kanal](https://www.twitch.tv/ppy) zeitgleich ausgestrahlt. Jedes Treffen dauert voraussichtlich etwa eine Stunde.
 
-Die Meetings werden vorher mit Erinnerungen auf [peppys Twitter](https://twitter.com/ppy) angekündigt. Um über diese Treffen bei deren Beginn benachrichtigt zu werden, markiere dich selbst als interessiert mithilfe des Events auf dem [osu! Discord-Server](https://discord.gg/ppy).
+Die Meetings werden vorher mit Erinnerungen auf [peppys Twitter](https://x.com/ppy) angekündigt. Um über diese Treffen bei deren Beginn benachrichtigt zu werden, markiere dich selbst als interessiert mithilfe des Events auf dem [osu! Discord-Server](https://discord.gg/ppy).
 
 Jeder ist herzlich eingeladen, mitzumachen! Wenn du eine Frage hast oder etwas zur Diskussion beitragen möchtest, kannst du auf der Discord Stage die Hand heben, um Dich in die Warteschlange einzureihen, oder eine Nachricht in den entsprechenden Discord-Thread schreiben, wenn Du Dich nicht traust zu sprechen, die dann laut vorgelesen und beantwortet wird. Bevor du eine Frage stellst, solltest du außerdem die folgenden Richtlinien beachten:
 

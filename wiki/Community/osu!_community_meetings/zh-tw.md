@@ -8,7 +8,7 @@ outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
 
 **osu! 社群會議**是由 [osu! 團隊](/wiki/People/osu!_team)隔周舉行的討論會談。主要目的為讓任何人都有機會與開發與社群管理團隊直接對話，並提出問題供討論或進一步考慮。
 
-[很久以前](https://twitter.com/ppy/status/1169256824052170755)，osu! 團隊曾經定期舉辦每個人都可以發言的社群會議，但隨著遊戲規模擴大，此方案不再可行。取而代之的是透過 Discord 實現的隊列系統，將問題個個解決。
+[很久以前](https://x.com/ppy/status/1169256824052170755)，osu! 團隊曾經定期舉辦每個人都可以發言的社群會議，但隨著遊戲規模擴大，此方案不再可行。取而代之的是透過 Discord 實現的隊列系統，將問題個個解決。
 
 如果您有興趣提問，請確實閱讀下方的規範。
 
@@ -18,7 +18,7 @@ outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
 
 目前 osu! 社群會議會在 [osu!dev Discord](https://discord.gg/ppy) 的舞台頻道中舉行，並同時於 [peppy 的 Twitch 頻道](https://www.twitch.tv/ppy)上直播。每場會議的預計時間為一小時。
 
-會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://twitter.com/ppy) 上發佈提醒。若要收到會議開始的通知，請在 [osu!dev Discord 伺服器](https://discord.gg/ppy)中標記活動為有興趣。
+會議通常每兩周召開一次，並提前一天在 [peppy 的 Twitter](https://x.com/ppy) 上發佈提醒。若要收到會議開始的通知，請在 [osu!dev Discord 伺服器](https://discord.gg/ppy)中標記活動為有興趣。
 
 任何人都可以加入！如果您有疑問或是想對討論內容做補充的話，可以在舞台頻道舉手以加入隊列，假如您不方便說話，也可以在 `#community-meetings` 頻道中對應的 Discord 討論串傳送訊息，您的訊息將被唸出並回答。此外，在問問題之前，請先閱讀以下的規範：
 

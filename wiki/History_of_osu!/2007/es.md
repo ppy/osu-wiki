@@ -102,5 +102,5 @@ Las canciones podían ser editadas al ser arrastradas a la ventana de osu!; se a
 
 ## Referencias
 
-[^ouentest]: [Tuit de @ppy (19-06-2019)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]: [Tuit de @ppy (19-06-2019)](https://x.com/ppy/status/1141394137637249025?s=20)
 [^osume]: [Hilo del foro de peppy (28-08-2007) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)

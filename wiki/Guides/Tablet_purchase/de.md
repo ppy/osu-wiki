@@ -16,7 +16,7 @@ Kurz gesagt, Tablets sind ein optionales Gerät, mit dem du das Spiel auf eine a
 
 ### osu!store
 
-*Hinweis: **Der osu!store verkauft keine osu!tablets mehr.*** Zu dem Zeitpunkt [twitterte peppy](https://twitter.com/ppy/status/846190638873767936), dass man nach anderen Alternativen Ausschau halten sollte, sofern man diese Eingabemethode ausprobieren möchte.
+*Hinweis: **Der osu!store verkauft keine osu!tablets mehr.*** Zu dem Zeitpunkt [twitterte peppy](https://x.com/ppy/status/846190638873767936), dass man nach anderen Alternativen Ausschau halten sollte, sofern man diese Eingabemethode ausprobieren möchte.
 
 Mit dem Ziel, den Spielern zu erlauben, ein Tablet auszuprobieren, ohne viel Geld zahlen zu müssen, bot der osu!store einst das osu!tablet an. Es wurde von Huion hergestellt und von flyte entworfen. Die erste Version im Jahr 2013 umfasste das osu!tablet (weiß), ein Stift mit einer Spitze und 3 austauschbaren Spitzen. Allerdings wurde eine AA-Batterie für den Stift benötigt (diese war enthalten, machte den Stift aber schwerer). Die zweite Version im Jahr 2016 enthielt das osu!tablet (schwarz), ein Stift mit einer Spitze und 3 austauschbaren Spitzen. Hier musste der Stift via USB (enthalten) geladen werden.
 

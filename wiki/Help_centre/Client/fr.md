@@ -259,7 +259,7 @@ Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classemen
 
 #### Les serveurs de soumission des scores sont-ils opérationnels ? {id=no-submission-servers}
 
-**La réponse est presque toujours oui, mais vous pouvez vérifier sur le site [osu! server status](https://status.ppy.sh) ou sur le [Twitter @osustatus](https://twitter.com/osustatus) si tout fonctionne bien de notre côté.**
+**La réponse est presque toujours oui, mais vous pouvez vérifier sur le site [osu! server status](https://status.ppy.sh) ou sur le [Twitter @osustatus](https://x.com/osustatus) si tout fonctionne bien de notre côté.**
 
 Si les serveurs sont hors ligne, ne fermez pas osu! jusqu'à ce que nous ayons résolu les problèmes et que les serveurs se remettent en marche. Le jeu essaiera de soumettre à nouveau votre score pendant une heure avant d'abandonner.
 

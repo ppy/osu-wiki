@@ -53,7 +53,7 @@ Las tareas de creación de dificultad otorgan al usuario más puntos si el beatm
 
 *Artículo principal: [Beatmaps de exhibición de artistas destacados](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
-Los miembros de Mappers' Guild también pueden participar en la creación de beatmaps de exhibición para futuros anuncios de artistas destacados. Tras el anuncio del artista destacado correspondiente, estos beatmaps se destacan en la [publicación de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
+Los miembros de Mappers' Guild también pueden participar en la creación de beatmaps de exhibición para futuros anuncios de artistas destacados. Tras el anuncio del artista destacado correspondiente, estos beatmaps se destacan en la [publicación de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://x.com/osugame).
 
 ### Concursos de beatmapping
 

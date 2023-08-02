@@ -14,7 +14,7 @@ tags:
 
 **BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
 
-BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterアカウント](https://twitter.com/banchoboat)を持っています。
+BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterアカウント](https://x.com/banchoboat)を持っています。
 
 ## コマンド
 

@@ -26,7 +26,7 @@ La série de vidéos hebdomadaires de l'osu!mapping s'arrêta en janvier 2019, m
 
 - **[Chaîne YouTube](https://www.youtube.com/user/Pishifat)**
 - [Patreon](https://www.patreon.com/pishifat) (actuellement fermé)
-- [Twitter](https://twitter.com/pishifat)
+- [Twitter](https://x.com/pishifat)
 
 ## Histoire
 

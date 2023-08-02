@@ -24,7 +24,7 @@ tags:
 - [Discord 服务器](https://discord.gg/qbZddFV)
 - [Facebook 群组](https://www.facebook.com/groups/osuuci/)
 - [Twitch 频道](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [Twitter](https://x.com/osuUCI)
 
 ## 成员
 

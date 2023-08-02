@@ -63,7 +63,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 ## Links
 
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/13UTdhZDn14B8pgZ4KY7V5RQsHMt0qCrAeTXZHZ4eCoY/edit?usp=sharing)**
-- [Twitter](https://www.twitter.com/AscavethInv)
+- [X (formerly Twitter)](https://x.com/AscavethInv)
 - [Livestream](https://www.twitch.tv/osuIndonesia)
 - [Challonge](https://challonge.com/AscavethInv)
 

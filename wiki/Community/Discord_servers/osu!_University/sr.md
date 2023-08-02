@@ -12,7 +12,7 @@
 | :-- | :-- |
 | Линк позивнице | <https://discord.gg/QubdHdnBVg> |
 | Twitch канал | [osuuniversity](https://twitch.tv/osuuniversity) |
-| Twitter ID | [@osuuniversity](https://twitter.com/osuuniversity) |
+| Twitter ID | [@osuuniversity](https://x.com/osuuniversity) |
 | Spotify канал | [osu! University](https://open.spotify.com/show/1KJTvGLOmUTnvbZoZGLlMP) |
 | YouTube канал | [osu! University](https://www.youtube.com/c/osuUniversity) |
 

@@ -149,7 +149,7 @@ As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wi
 
 ## 2017
 
-As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
+As announced in a [tweet by peppy](https://x.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
 
 ## 2018
 
@@ -216,7 +216,7 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 [^banchobot-reddit]: [Reddit comment by u/Sakuya_Lv9 in r/osugame (2014-04-02) in "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
 [^banchobot-forums]: [Forum post by Jazz (2013-04-02) in "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215004)
 [^banchobot-forums-2]: [Forum post by Brian OA (Off-Topic) in "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215194)
-[^banchobot-tweet]: [Tweet by @little_2d (2019-06-27)](https://twitter.com/little_2d/status/1144316731407683584)
+[^banchobot-tweet]: [Tweet by @little_2d (2019-06-27)](https://x.com/little_2d/status/1144316731407683584)
 [^banchobot-forums-3]: [Forum post by kingking9 (2013-06-04) in "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2342998)
 [^banchobot-forums-4]: [Forum post by peppy in (2013-06-04) "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2343044)
 

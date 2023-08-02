@@ -14,7 +14,7 @@ tags:
 
 **BanchoBot** (*Bancho* olarak da adlandırılır) oyun-içi sohbette oyun ile ilgili duyuru mesajları göndererek (örn. toplam oynama, tekrarlama sayısı, gibi), ve birtakım komutlara yanıt vererek onlara yardımcı olan osu! için yapılmış bir çevrimiçi sohbet botudur. [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) altyapısının sağlayıcısı ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) tarafından programlanmıştır.
 
-BanchoBot aynı zamanda kendine ait bir [osu! profiline](https://osu.ppy.sh/users/3) ve [Twitter hesabına](https://twitter.com/banchoboat) sahiptir.
+BanchoBot aynı zamanda kendine ait bir [osu! profiline](https://osu.ppy.sh/users/3) ve [Twitter hesabına](https://x.com/banchoboat) sahiptir.
 
 ## Komutlar
 

@@ -150,7 +150,7 @@ Como parte del puñado de bromas del día de los Inocentes de 2016, la [osu! coo
 
 ## 2017
 
-Como se anunció en un [tuit de peppy](https://twitter.com/ppy/status/848021525663842304), no hubo broma del día de los Inocentes para osu! en 2017 debido al desarrollo de la versión [lazer](/wiki/Client/Release_stream/Lazer) del cliente de osu!.
+Como se anunció en un [tuit de peppy](https://x.com/ppy/status/848021525663842304), no hubo broma del día de los Inocentes para osu! en 2017 debido al desarrollo de la versión [lazer](/wiki/Client/Release_stream/Lazer) del cliente de osu!.
 
 ## 2018
 
@@ -217,7 +217,7 @@ El día de los Inocentes de 2021 recicló la misma broma de los dos años anteri
 [^banchobot-reddit]: [Comentario de Reddit por u/Sakuya_Lv9 en r/osugame (02-04-2014) en "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
 [^banchobot-forums]: [Publicación de foro por Jazz (02-04-2013) en "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215004)
 [^banchobot-forums-2]: [Publicación de foro por Brian OA (Off-Topic) en "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215194)
-[^banchobot-tweet]: [Tuit por @little_2d (27-06-2019)](https://twitter.com/little_2d/status/1144316731407683584)
+[^banchobot-tweet]: [Tuit por @little_2d (27-06-2019)](https://x.com/little_2d/status/1144316731407683584)
 [^banchobot-forums-3]: [Publicación de foro por kingking9 (04-06-2013) en "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2342998)
 [^banchobot-forums-4]: [Publicación de foro por peppy en (04-06-2013) "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2343044)
 

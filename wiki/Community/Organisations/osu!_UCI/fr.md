@@ -22,7 +22,7 @@ Voir l'[index des tournois osu! UCI](/wiki/Tournaments/osu!_UCI) pour des articl
 - [Serveur discord](https://discord.gg/qbZddFV)
 - [Groupe Facebook](https://www.facebook.com/groups/osuuci/)
 - [Chaîne Twitch](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [Twitter](https://x.com/osuUCI)
 
 ## Staff
 

@@ -75,7 +75,7 @@ Wieder zugelassene Spieler im Sinne der oben genannten Standardbedingungen sind 
 
 **Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
 
-Der Account einiger Spieler wird vereinzelt wieder eingeschränkt nachdem ihrer Beschwerde Recht gegeben wurde und sie mit dem Spielen begonnen haben. Das ist ein automatischer Prozess und wird generell nach 24 Stunden entfernt. Zögere nicht, Fragen auf Twitter via [@osusupport](https://twitter.com/osusupport) oder durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) zu stellen, falls dir das passiert!
+Der Account einiger Spieler wird vereinzelt wieder eingeschränkt nachdem ihrer Beschwerde Recht gegeben wurde und sie mit dem Spielen begonnen haben. Das ist ein automatischer Prozess und wird generell nach 24 Stunden entfernt. Zögere nicht, Fragen auf Twitter via [@osusupport](https://x.com/osusupport) oder durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) zu stellen, falls dir das passiert!
 
 Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückgesetzt wird. Das soll unrechtmäßige Scores, die von deinem Account aus **über alle Modi hinweg** eingereicht wurden, sowie erhaltene Medaillen und Profilauszeichnungen entfernen. **Die Spielanzahl und die Spielzeit werden nicht verändert.**
 

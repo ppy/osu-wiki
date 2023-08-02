@@ -22,7 +22,7 @@ tags:
 - [Discord 伺服器](https://discord.gg/qbZddFV)
 - [Facebook 群組](https://www.facebook.com/groups/osuuci/)
 - [Twitch 頻道](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [Twitter](https://x.com/osuUCI)
 
 ## 成員
 

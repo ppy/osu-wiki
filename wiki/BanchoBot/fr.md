@@ -17,7 +17,7 @@ tags:
 
 **BanchoBot** (parfois appelé *Bancho*) est un robot de tchat en ligne créé pour osu! qui aide les gens dans le tchat du jeu en annonçant des messages relatifs au jeu (par exemple le nombre total de parties jouées, de tentatives, etc.) et en répondant à certaines commandes. Il a été programmé par ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) et est le fournisseur de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
-BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [compte Twitter](https://twitter.com/banchoboat).
+BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [compte Twitter](https://x.com/banchoboat).
 
 ## Commandes
 

@@ -106,5 +106,5 @@ Músicas podem ser editadas por arrastar elas para a janela do osu!; dicas de fe
 
 ## Referências
 
-[^ouentest]: [post do peppy sobre o início do osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]: [post do peppy sobre o início do osu!](https://x.com/ppy/status/1141394137637249025?s=20)
 [^osume]: [pUpdater (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)

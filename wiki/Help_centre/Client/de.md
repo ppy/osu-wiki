@@ -261,7 +261,7 @@ Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kan
 
 #### Sind die Server zur Einreichung von Scores in Betrieb? {id=no-submission-servers}
 
-**Die Antwort lautet fast immer ja, aber überprüfe den [osu!-Serverstatus](https://status.ppy.sh) oder das [@osustatus Twitter-Konto](https://twitter.com/osustatus), um sicherzugehen, dass alles bei uns reibungslos läuft.**
+**Die Antwort lautet fast immer ja, aber überprüfe den [osu!-Serverstatus](https://status.ppy.sh) oder das [@osustatus Twitter-Konto](https://x.com/osustatus), um sicherzugehen, dass alles bei uns reibungslos läuft.**
 
 Falls die Server offline sind, schließe osu! nicht, bis wir die Probleme gelöst haben und die Server wieder aktiv sind. Das Spiel wird bis zu eine Stunde lang versuchen, deinen Score erneut einzureichen, bevor es aufgibt.
 

@@ -873,7 +873,7 @@ osu!api 的初代版本于 2013 年 7 月 2 日上线。[^api-first-usage]它获
 
 [^api-first-usage]: [peppy 提出的论坛讨论串 "osu!api open beta" (2013-07-02)](https://osu.ppy.sh/community/forums/posts/2403913)
 [^api-praise]: [在 "osu!api open beta" 里提出的论坛帖 (2013-11-02) ](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [@ppy 发送的推特 (2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-v2-2020]: [@ppy 发送的推特 (2020-03-20)](https://x.com/ppy/status/1263083636363948032)
 [^web-api]: [维基百科上的 "Web API"](https://zh.wikipedia.org/wiki/Web_API)
 ```
 

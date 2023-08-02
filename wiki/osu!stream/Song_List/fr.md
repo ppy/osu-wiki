@@ -73,7 +73,7 @@ Ce pack comprend deux musiques de variété différente.
 
 Voir également :
 
-- [Compte Twitter de Bomb Boy](https://twitter.com/BomuBoi)
+- [Compte Twitter de Bomb Boy](https://x.com/BomuBoi)
 - [Site web de daniwellP](https://aidn.jp/)
 
 ## Cranky Pack Vol. 1

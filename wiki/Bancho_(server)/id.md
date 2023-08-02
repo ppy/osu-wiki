@@ -24,4 +24,4 @@ Terkadang, dalam masa pemeliharaannya, server Bancho akan perlu untuk dinyalakan
 
 ## Referensi
 
-[^score-upload-ref]: [Tweet oleh @osustatus (2019-07-30)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tweet oleh @osustatus (2019-07-30)](https://x.com/osustatus/status/1156092746685243392)

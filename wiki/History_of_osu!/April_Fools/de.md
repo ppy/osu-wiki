@@ -151,7 +151,7 @@ Als Teil der Aprilscherze für 2016 drehte sich der [osu!-Cookie](/wiki/Brand_id
 
 ## 2017
 
-Wie in einem [Tweet von peppy](https://twitter.com/ppy/status/848021525663842304) angekündigt, gab es im Jahre 2017 aufgrund der Entwicklung der [Lazer-Version](/wiki/Client/Release_stream/Lazer) des osu!-Clients keinen Aprilscherz.
+Wie in einem [Tweet von peppy](https://x.com/ppy/status/848021525663842304) angekündigt, gab es im Jahre 2017 aufgrund der Entwicklung der [Lazer-Version](/wiki/Client/Release_stream/Lazer) des osu!-Clients keinen Aprilscherz.
 
 ## 2018
 
@@ -218,7 +218,7 @@ Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, d
 [^banchobot-reddit]: [Reddit-Kommentar von u/Sakuya_Lv9 in r/osugame (02.04.2014) in "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
 [^banchobot-forums]: [Forumsbeitrag von Jazz (02.04.2013) in "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215004)
 [^banchobot-forums-2]: [Forumsbeitrag von Brian OA (Off-Topic) in "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215194)
-[^banchobot-tweet]: [Tweet von @little_2d (27.06.2019)](https://twitter.com/little_2d/status/1144316731407683584)
+[^banchobot-tweet]: [Tweet von @little_2d (27.06.2019)](https://x.com/little_2d/status/1144316731407683584)
 [^banchobot-forums-3]: [Forumsbeitrag von kingking9 (04.06.2013) in "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2342998)
 [^banchobot-forums-4]: [Forumsbeitrag von peppy in (04.06.2013) "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2343044)
 

@@ -357,7 +357,7 @@ Tente fechar quaisquer programas extras antes de jogar osu! se você percebeu qu
 
 ##### Os servidores de envio de pontuações estão online?
 
-**A resposta é quase sempre sim, mas cheque o [status de servidor do osu!](https://status.ppy.sh) ou o [@osustatus Twitter](https://twitter.com/osustatus) para ter certeza de que tudo está funcionando tranquilamente no nosso lado.**
+**A resposta é quase sempre sim, mas cheque o [status de servidor do osu!](https://status.ppy.sh) ou o [@osustatus Twitter](https://x.com/osustatus) para ter certeza de que tudo está funcionando tranquilamente no nosso lado.**
 
 Se os servidores estiverem offline, não feche o osu! até que consertemos os problemas e os servidores voltem a funcionar, e então o jogo irá tentar enviar sua pontuação novamente até uma hora após antes que desista.
 
@@ -637,7 +637,7 @@ Depois que todos os arquivos `.osz` dentro do pacote estiverem dentro da pasta S
 
 **A maior parte do tempo, isso é por conta de uma imensa quantidade de tickets vindo para o nosso sistema ao mesmo tempo.**
 
-Você sempre pode enviar uma única resposta para o seu ticket aberto e em andamento perguntando sobre o estado do seu caso, mas tenha certeza de não fazer isso mais do que uma ou duas vezes por semana. Você também pode entrar em contato conosco no Twitter em [@osusupport](https://twitter.com/osusupport) para perguntar sobre seu ticket.
+Você sempre pode enviar uma única resposta para o seu ticket aberto e em andamento perguntando sobre o estado do seu caso, mas tenha certeza de não fazer isso mais do que uma ou duas vezes por semana. Você também pode entrar em contato conosco no Twitter em [@osusupport](https://x.com/osusupport) para perguntar sobre seu ticket.
 
 Em raras ocasiões, tickets de suporte de usuários com um histórico severo podem ser intencionalmente ignorados, mas a equipe irá **sempre** te deixar saber se você não receberá mais uma resposta deles. Se você não recebeu uma notificação como essa, você não precisa se preocupar!
 

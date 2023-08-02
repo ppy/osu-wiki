@@ -53,9 +53,9 @@ Di samping itu, apabila kamu mengetahui nama-nama akun osu! milik orang-orang ya
 
 ### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
-Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik 'Laporkan Tweet'. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
+Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik 'Laporkan Tweet'. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.x.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
 
-Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang sama melalui *browser* atau aplikasi Twitter milikmu. Lihat [panduan Twitter berikut](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
+Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang sama melalui *browser* atau aplikasi Twitter milikmu. Lihat [panduan Twitter berikut](https://help.x.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
 
 Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperkeruh suasana, bisukan (*mute*) orang tersebut. Tindakan ini akan menyembunyikan tweet-tweet mereka dari *timeline*-mu tanpa menghalangi mereka untuk dapat melihat dan mengomentari tweet-tweet yang kamu kirimkan seperti pada umumnya.
 

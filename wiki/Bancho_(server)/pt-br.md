@@ -24,4 +24,4 @@ Durante períodos de manutenção, Bancho é reiniciado algumas vezes. Isso é c
 
 ## Referências
 
-[^score-upload-ref]: [Tweet por @osustatus (2019-07-30)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tweet por @osustatus (2019-07-30)](https://x.com/osustatus/status/1156092746685243392)

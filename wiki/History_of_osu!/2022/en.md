@@ -193,7 +193,7 @@ In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/ne
 [^highest-rank]: [Pull request by cl8n (2022-10-18) "Show highest achieved rank on user profile"](https://github.com/ppy/osu-web/pull/9388)
 [^halloween]: [News post by Ephemeral (2022-10-29) "Halloween 2022 Fanart Contest Results"](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results)
 [^grin-reddit]: [Reddit comment by u/pepppppy in r/osugame (2022-10-30) in "osu seriously booted another submission as “too scary” again"](https://www.reddit.com/r/osugame/comments/yhh6hd/comment/iuh6ii2/)
-[^grin-twitter]: [Tweet by xx_aether (2022-10-29)](https://twitter.com/xx_aether/status/1586438659292569600)
+[^grin-twitter]: [Tweet by xx_aether (2022-10-29)](https://x.com/xx_aether/status/1586438659292569600)
 [^grin-badge]: [Roro-san's osu! profile](https://osu.ppy.sh/users/11084479)
 
 [^medals-november]: [News post by 0x84f, Junihuhn, Pisapou, and RandomeLoL (2022-12-01) "osu!monthly, November 2022"](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)

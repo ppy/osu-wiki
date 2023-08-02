@@ -863,7 +863,7 @@ osu!api의 첫번째 버전은 2013년 7월 2일에 제공되었으며,[^api-fir
 
 [^api-first-usage]: [peppy의 포럼 스레드(2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
 [^api-praise]: ["osu!api open beta" 스레드의 Menchi가 쓴 포럼 글(2013-11-02)](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [@ppy의 트윗(2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-v2-2020]: [@ppy의 트윗(2020-03-20)](https://x.com/ppy/status/1263083636363948032)
 [^web-api]: [위키피디아 "Web API"](https://en.wikipedia.org/wiki/Web_API)
 ```
 

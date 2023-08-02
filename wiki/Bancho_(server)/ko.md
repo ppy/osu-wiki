@@ -24,4 +24,4 @@ tags:
 
 ## 참조
 
-[^score-upload-ref]: [@osustatus의 트윗 (2019-07-30)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [@osustatus의 트윗 (2019-07-30)](https://x.com/osustatus/status/1156092746685243392)

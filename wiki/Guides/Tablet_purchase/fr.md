@@ -16,7 +16,7 @@ En bref, les tablettes sont un dispositif optionnel qui vous permet de jouer d'u
 
 ### osu!store
 
-*Remarque : **L'osu!store ne vend plus d'osu!tablets.*** Pour l'instant, [peppy a tweeté](https://twitter.com/ppy/status/846190638873767936) que si vous voulez essayer cette méthode de saisie, vous pouvez chercher d'autres alternatives.
+*Remarque : **L'osu!store ne vend plus d'osu!tablets.*** Pour l'instant, [peppy a tweeté](https://x.com/ppy/status/846190638873767936) que si vous voulez essayer cette méthode de saisie, vous pouvez chercher d'autres alternatives.
 
 Dans le but d'essayer de permettre aux joueurs d'essayer la méthode de saisie sur tablette sans faire un trou dans leur portefeuille, l'osu!store a un jour proposé la tablette osu!. Elle était fabriquée par Huion et conçue par flyte. La première version en 2013 présentait la osu!tablet (blanche), un stylo avec une plume, 3 plumes remplaçables, mais nécessitait une pile AA pour le stylo (qui était incluse mais alourdissait le stylo). La deuxième version en 2016 présentait l'osu!tablet (noir), un stylo avec une plume, 3 plumes remplaçables, mais le stylo devait être chargé via USB (inclus).
 

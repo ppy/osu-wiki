@@ -8,7 +8,7 @@
 
 ![logo COE](img/logo.png)
 
-[Site web](https://cavoeboy.com/) • [Twitter](https://twitter.com/CavoesOsuEvent) • [YouTube](https://www.youtube.com/@coevent) • [Twitch](https://www.twitch.tv/coevent) • [Discord](https://discord.com/invite/d6ru6PVcSY)
+[Site web](https://cavoeboy.com/) • [Twitter](https://x.com/CavoesOsuEvent) • [YouTube](https://www.youtube.com/@coevent) • [Twitch](https://www.twitch.tv/coevent) • [Discord](https://discord.com/invite/d6ru6PVcSY)
 
 :::
 
@@ -26,7 +26,7 @@
 
 - **[Site web](https://cavoeboy.com/)**
 - [Serveur Discord](https://discord.com/invite/d6ru6PVcSY)
-- [Twitter](https://twitter.com/CavoesOsuEvent)
+- [Twitter](https://x.com/CavoesOsuEvent)
 - [Chaîne YouTube](https://www.youtube.com/@coevent)
 - [chaîne Twitch](https://www.twitch.tv/coevent)
 

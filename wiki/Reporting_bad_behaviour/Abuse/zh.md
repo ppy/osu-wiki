@@ -53,9 +53,9 @@
 
 ### 在包含osu!用户页的推文上
 
-点击推文右上角的三个点，然后点击'举报推文'。请确保跟随指示完成举报。你还可以阅读[Twitter对于滥用行为的举报指示](https://help.twitter.com/en/safety-and-security/report-abusive-behavior)来获得更多信息。
+点击推文右上角的三个点，然后点击'举报推文'。请确保跟随指示完成举报。你还可以阅读[Twitter对于滥用行为的举报指示](https://help.x.com/en/safety-and-security/report-abusive-behavior)来获得更多信息。
 
-举报之后，请点击推文右上角的三个点，屏蔽或者隐藏该人的推文。阅读[Twitter对屏蔽账户的指示](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts)来获得更多信息。
+举报之后，请点击推文右上角的三个点，屏蔽或者隐藏该人的推文。阅读[Twitter对屏蔽账户的指示](https://help.x.com/en/using-twitter/blocking-and-unblocking-accounts)来获得更多信息。
 
 请知悉，在屏蔽某一个Twitter用户之后，对方是可以知道的。如果你担心这样会让事情变得更糟糕，请选择使用隐藏功能。你将不会再看到该人的任何推文，但是他们仍然可以和你的推文互动。
 

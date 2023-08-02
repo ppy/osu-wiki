@@ -23,7 +23,7 @@ Episode baru osu!mapping tidak lagi dirilis secara rutin sejak bulan Januari 201
 
 - **[Kanal Youtube](https://www.youtube.com/user/Pishifat)**
 - [Patreon](https://www.patreon.com/pishifat) (saat ini tidak aktif)
-- [Twitter](https://twitter.com/pishifat)
+- [Twitter](https://x.com/pishifat)
 
 ## Sejarah
 

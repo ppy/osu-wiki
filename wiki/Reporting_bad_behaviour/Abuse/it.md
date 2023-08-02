@@ -57,9 +57,9 @@ In aggiunta, se conosci il nome utente di osu della persona che ti da fastidio, 
 
 ### Su un twitter collegato ad un profilo utente osu!
 
-Clicca i tre puntini nell'angolo in alto a destra del tweet problematico e clicca 'Segnala Tweet". Assicurati di seguire gli avvertimenti e di leggerli attentamente. Potresti anche voler leggere la [Guida di twitter sul segnalare comportamenti di abuso](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) per maggiori informazioni sul procedimento.
+Clicca i tre puntini nell'angolo in alto a destra del tweet problematico e clicca 'Segnala Tweet". Assicurati di seguire gli avvertimenti e di leggerli attentamente. Potresti anche voler leggere la [Guida di twitter sul segnalare comportamenti di abuso](https://help.x.com/en/safety-and-security/report-abusive-behavior) per maggiori informazioni sul procedimento.
 
-Dopodiché, blocca o silenzia l'utetnte in questione cliccando i tre puntini nel angolo in alto a destra del suo tweet (se stai usando il sito web o il client mobile). Consulta la [Guida di Twitter sul bloccare gli account](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) per maggiori informazioni.
+Dopodiché, blocca o silenzia l'utetnte in questione cliccando i tre puntini nel angolo in alto a destra del suo tweet (se stai usando il sito web o il client mobile). Consulta la [Guida di Twitter sul bloccare gli account](https://help.x.com/en/using-twitter/blocking-and-unblocking-accounts) per maggiori informazioni.
 
 Attenzione che la persona vedrà che l'hai bloccata se controllano il tuo profilo Twitter. Se sei preoccupato che questo possa peggiorare il problema da qualche altra parte, silenziali invece. Questo rimuovera i suoi tweet dalla tua timeline e ti impedirà di vedere suoi contenuti, ma gli sarà comunque possibile vedere e commentare su tutti i tuoi tweet.
 

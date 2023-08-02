@@ -103,5 +103,5 @@ Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat di
 
 ## References
 
-[^ouentest]: [Kiriman forum Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]: [Kiriman forum Twitter oleh peppy tentang awal mula osu!](https://x.com/ppy/status/1141394137637249025?s=20)
 [^osume]: [pUpdater (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)

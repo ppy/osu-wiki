@@ -28,7 +28,7 @@ Cette section est consacrée aux problèmes liés au site web d'osu!
 
 **Dans la plupart des cas, cela est dû à un nombre élevé de tickets entrant dans notre système en même temps.**
 
-Vous pouvez toujours envoyer une réponse unique à votre ticket actuellement ouvert pour demander où en est votre dossier, mais veillez à ne pas le faire plus d'une ou deux fois par semaine. Vous pouvez également nous contacter sur Twitter à l'adresse [@osusupport](https://twitter.com/osusupport) pour poser des questions sur votre ticket.
+Vous pouvez toujours envoyer une réponse unique à votre ticket actuellement ouvert pour demander où en est votre dossier, mais veillez à ne pas le faire plus d'une ou deux fois par semaine. Vous pouvez également nous contacter sur Twitter à l'adresse [@osusupport](https://x.com/osusupport) pour poser des questions sur votre ticket.
 
 Dans de rares cas, les tickets d'assistance d'utilisateurs en infraction chronique peuvent être délibérément ignorés, mais l'équipe vous indiquera **toujours** quand elle ne vous répondra plus en premier. Si vous n'avez pas reçu de notification de ce type, vous n'avez pas à vous en inquiéter !
 

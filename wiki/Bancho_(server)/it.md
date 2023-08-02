@@ -23,4 +23,4 @@ Durante i periodi di manutenzione, Bancho viene talvolta riavviato. Questo viene
 
 ## Riferimenti
 
-[^score-upload-ref]: [Tweet di @osustatus (30-07-2019)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tweet di @osustatus (30-07-2019)](https://x.com/osustatus/status/1156092746685243392)

@@ -52,7 +52,7 @@ Les tâches de création d'une difficulté rapportent plus de points à un utili
 
 *Article principale : [Vitrine des beatmaps des Featured Artists](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
-Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les annonces futures des Featured Artists. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mis en évidence dans le [newspost](https://osu.ppy.sh/home/news) et sont souvent promus sur le [@osugame Twitter](https://twitter.com/osugame) également.
+Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les annonces futures des Featured Artists. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mis en évidence dans le [newspost](https://osu.ppy.sh/home/news) et sont souvent promus sur le [@osugame Twitter](https://x.com/osugame) également.
 
 ### Concours de Beatmapping
 

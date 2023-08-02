@@ -62,8 +62,8 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)
 - [GTS Discord server](https://discord.com/invite/3mGC3HB)
-- [COE Twitter](https://twitter.com/CavoesOsuEvent)
-- [GTS Twitter](https://twitter.com/GTSosu)
+- [COE X (formerly Twitter)](https://x.com/CavoesOsuEvent)
+- [GTS X (formerly Twitter)](https://x.com/GTSosu)
 
 ## Mappools
 

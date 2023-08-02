@@ -21,7 +21,7 @@ Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pa
 - [Server Discord](https://discord.gg/qbZddFV)
 - [Grup Facebook](https://www.facebook.com/groups/osuuci/)
 - [Kanal Twitch](https://www.twitch.tv/osuuci)
-- [Akun Twitter](https://twitter.com/osuUCI)
+- [Akun Twitter](https://x.com/osuUCI)
 
 ## Pengurus
 

@@ -16,5 +16,5 @@ tags:
 - [Профиль в osu!](https://osu.ppy.sh/users/2)
 - [Блог разработчика](https://blog.ppy.sh)
 - [GitHub](https://github.com/peppy)
-- [Twitter](https://twitter.com/ppy)
+- [Twitter](https://x.com/ppy)
 - [Twitch](https://www.twitch.tv/ppy)

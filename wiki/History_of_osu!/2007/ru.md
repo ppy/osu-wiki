@@ -98,5 +98,5 @@ osu! зародилась как пробный проект под назван
 
 ## Примечания
 
-[^ouentest]: [Твит @ppy, 19.06.2019](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]: [Твит @ppy, 19.06.2019](https://x.com/ppy/status/1141394137637249025?s=20)
 [^osume]: ["pUpdater (aka osume)", тема от peppy, 28.08.2007](https://osu.ppy.sh/community/forums/topics/4?n=1)

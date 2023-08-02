@@ -98,5 +98,5 @@ Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; l
 
 ## Références
 
-[^ouentest]: [Tweet par @ppy (10/06/2019)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]: [Tweet par @ppy (10/06/2019)](https://x.com/ppy/status/1141394137637249025?s=20)
 [^osume]: [Fil de discussion par peppy (28/08/2007) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)

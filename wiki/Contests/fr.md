@@ -130,7 +130,7 @@ Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs 
 
 ### [A Labour of Love](A_Labour_of_Love_Contest)
 
-**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
+**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://x.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
 | Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne d'argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |

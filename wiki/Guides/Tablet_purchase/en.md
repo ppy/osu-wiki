@@ -16,7 +16,7 @@ In short, tablets are an optional device to let you play the game in a different
 
 ### osu!store
 
-*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
+*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://x.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
 
 With the goal of trying to allow players to try the tablet input method without putting a hole in their wallet, the osu!store once featured the osu!tablet. It was made by Huion and designed by flyte. The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 feature the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 

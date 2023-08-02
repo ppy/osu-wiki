@@ -32,7 +32,7 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 
 - The names of the medals themselves,
 - The medals' brief descriptions, and
-- The *flair texts*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over their corresponding cards.
+- The *flair texts*<!-- https://x.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over their corresponding cards.
 
 As the Hush-Hush medals are meant to be secret achievements of some sort, the unlock requirements are not directly specified; however, players are [welcome to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 

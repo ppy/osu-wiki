@@ -39,7 +39,7 @@ Among the changes and announcements made surrounding beatmap ranking, [a change 
 
 The [osu!news YouTube channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8) to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community.[^osu-weekly-9][^osu-news-welcome]
 
-The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
+The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://x.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
 
 ![](img/osu-keyboard.jpg "The osu! keyboard teased in a tweet by peppy")
 
@@ -101,7 +101,7 @@ The first and only batch of portable osu! install USB sticks (shown below) were 
 
 Required email verification for certain account actions began rolling out on 16 November 2015 in response to recent events at the time involving the compromisation of numerous osu! streamers' accounts.[^ppy-blog-november-17][^ppy-blog-november-19][^osu-weekly-36] The following day, [peppy posted to his blog](https://blog.ppy.sh/post/133395614668/20151117), where he initially announced the change in account security:
 
-> It has come to my attention that over the last few days a lot of osu! livestreamers have been hacked. The common link seems to be that they all had active xsplit accounts (which was hacked in 2013, leaking all passwords). This means that the said users were using the same password across twitch, twitter, osu! and more. First and foremost, if you are doing something like this, LEAVE RIGHT NOW AND CHANGE YOUR PASSWORDS. Get a password manager and set one password per service!
+> It has come to my attention that over the last few days a lot of osu! livestreamers have been hacked. The common link seems to be that they all had active xsplit accounts (which was hacked in 2013, leaking all passwords). This means that the said users were using the same password across twitch, X (formerly Twitter), osu! and more. First and foremost, if you are doing something like this, LEAVE RIGHT NOW AND CHANGE YOUR PASSWORDS. Get a password manager and set one password per service!
 > Even though I am confident that osu! was not involved in the leaking of any details, I am making sure further such attempts will not result in osu! accounts being compromised. Starting yesterday I began rolling out email verification for certain account actions. Going forward, we will also be adding email verification to the game client, but this will require a touch more implementation. Expect it in the near future.
 
 — peppy, "20151117"[^osu-weekly-36]
@@ -142,7 +142,7 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 [^osu-weekly-9]: [News post by Tahsa (2015-05-08) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [YouTube video by osu!news (2015-05-08) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [News post by Tasha (2015-05-30) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
-[^ppy-tweet-osu-keyboards]: [Tweet by @ppy (2015-05-28)](https://twitter.com/ppy/status/603797988742336512)
+[^ppy-tweet-osu-keyboards]: [Tweet by @ppy (2015-05-28)](https://x.com/ppy/status/603797988742336512)
 [^ppy-blog-june-04]: [Blog post by ppy (2015-06-04) "20150604 /Vocal/"](https://blog.ppy.sh/post/120685091453/20150604-vocal)
 [^ppy-blog-june-16]: [Blog post by ppy (2015-06-16) "20150616 /Boxed/"](https://blog.ppy.sh/post/121678619658/20150616-boxed)
 [^ppy-blog-june-17]: [Blog post by ppy (2015-06-17) "20150617"](https://blog.ppy.sh/post/121762218848/20150617)

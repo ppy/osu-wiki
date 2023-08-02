@@ -19,5 +19,5 @@ outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 - **[Уебсайт](https://ppy.sh/)**
 - [ppy блог](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
-- [Twitter](https://twitter.com/ppy)
+- [Twitter](https://x.com/ppy)
 - [Twitch](https://www.twitch.tv/ppy)

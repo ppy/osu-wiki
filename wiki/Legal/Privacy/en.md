@@ -40,7 +40,7 @@ When building up your user profile (which is publicly visible to all other users
 - Your current location
 - Your interests
 - Your occupation
-- Your social media presence (twitter, discord, skype, website)
+- Your social media presence (X (formerly Twitter), discord, skype, website)
 - Your avatar and profile cover images
 - Your signature
 

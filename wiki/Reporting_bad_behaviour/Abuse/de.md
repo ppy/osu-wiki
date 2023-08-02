@@ -53,9 +53,9 @@ Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt,
 
 ### Auf einem Twitter, der mit dem Profil eines osu!-Benutzers verknüpft ist
 
-Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet melden'. Achte darauf, den Anweisungen zu folgen, und lies sie sorgfältig durch. Vielleicht möchtest du auch den [Twitter-Leitfaden zum Melden missbräuchlichen Verhaltens](https://help.twitter.com/de/safety-and-security/report-abusive-behavior) durchblättern, um weitere Informationen über den Prozess zu erhalten.
+Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet melden'. Achte darauf, den Anweisungen zu folgen, und lies sie sorgfältig durch. Vielleicht möchtest du auch den [Twitter-Leitfaden zum Melden missbräuchlichen Verhaltens](https://help.x.com/de/safety-and-security/report-abusive-behavior) durchblättern, um weitere Informationen über den Prozess zu erhalten.
 
-Blockiere anschließend den betreffenden Benutzer oder schalte ihn stumm, indem du auf die drei Punkte oben rechts in seinem Tweet klickst (wenn du die Webseite oder den mobilen Client benutzt). Weitere Informationen findest du im [Twitter-Leitfaden zur Sperrung von Konten](https://help.twitter.com/de/using-twitter/blocking-and-unblocking-accounts).
+Blockiere anschließend den betreffenden Benutzer oder schalte ihn stumm, indem du auf die drei Punkte oben rechts in seinem Tweet klickst (wenn du die Webseite oder den mobilen Client benutzt). Weitere Informationen findest du im [Twitter-Leitfaden zur Sperrung von Konten](https://help.x.com/de/using-twitter/blocking-and-unblocking-accounts).
 
 Sei dir bitte bewusst, dass die Person sehen wird, dass du sie blockiert hast, wenn sie sich dein Twitter-Profil ansieht. Falls du befürchtest, dass dies das Problem an anderer Stelle verschlimmert, schalte sie stattdessen stumm. Dadurch werden ihre Tweets aus deiner Timeline entfernt und du wirst keine weiteren Inhalte von ihr sehen, aber sie kann weiterhin alle von dir erstellten Tweets sehen und kommentieren.
 

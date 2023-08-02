@@ -53,9 +53,9 @@ Junto disso, se você sabe o nome de usuário do osu! da pessoa que está te inc
 
 ### Em um Twitter atrelado a um perfil de usuário do osu!
 
-Clique nos três pontos no canto superior direito do tweet problemático e clique em 'Denunciar Tweet'. Tenha certeza de que você siga as instruções e leia-as cuidadosamente. Você também poderá querer ler [o guia do Twitter em como denunciar um comportamento abusivo](https://help.twitter.com/pt/safety-and-security/report-abusive-behavior) para mais informações.
+Clique nos três pontos no canto superior direito do tweet problemático e clique em 'Denunciar Tweet'. Tenha certeza de que você siga as instruções e leia-as cuidadosamente. Você também poderá querer ler [o guia do Twitter em como denunciar um comportamento abusivo](https://help.x.com/pt/safety-and-security/report-abusive-behavior) para mais informações.
 
-Logo depois, bloqueie ou silencie o usuário em questão clicando nos três pontos no canto superior direito do tweet dele (se você estiver utilizando o site ou o aplicativo de celular). Consulte o [Guia do Twitter em como bloquear contas](https://help.twitter.com/pt/using-twitter/blocking-and-unblocking-accounts) para mais informação.
+Logo depois, bloqueie ou silencie o usuário em questão clicando nos três pontos no canto superior direito do tweet dele (se você estiver utilizando o site ou o aplicativo de celular). Consulte o [Guia do Twitter em como bloquear contas](https://help.x.com/pt/using-twitter/blocking-and-unblocking-accounts) para mais informação.
 
 Por favor tenha em mente que a pessoa irá ver que você bloqueou ela se olharem seu perfil do Twitter. Se você estiver preocupado que isso irá fazer o problema piorar em outro lugar, silencie ela ao invés disso. Isso irá remover os tweets dela da sua linha do tempo e prevenir que você consiga ver qualquer outro tipo de conteúdo dela, mas ela ainda conseguirá ver e comentar em todos os tweets que você fizer.
 

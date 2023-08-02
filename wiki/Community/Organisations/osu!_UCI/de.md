@@ -21,7 +21,7 @@ Siehe den [osu! UCI Turnier-Index](/wiki/Tournaments/osu!_UCI) für Wiki-Artikel
 - [Discord-Server](https://discord.gg/qbZddFV)
 - [Facebook-Gruppe](https://www.facebook.com/groups/osuuci/)
 - [Twitch-Kanal](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [Twitter](https://x.com/osuUCI)
 
 ## Mitglieder
 

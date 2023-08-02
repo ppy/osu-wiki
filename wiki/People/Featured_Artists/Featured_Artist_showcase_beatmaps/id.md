@@ -1,6 +1,6 @@
 # Kumpulan beatmap showcase Featured Artist
 
-Anggota dari [Mappers' Guild](/wiki/Community/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [Featured Artist](/wiki/People/Featured_Artists) osu!. Setelah Featured Artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
+Anggota dari [Mappers' Guild](/wiki/Community/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [Featured Artist](/wiki/People/Featured_Artists) osu!. Setelah Featured Artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://x.com/osugame).
 
 Agar dapat berpartisipasi ke dalam pembuatan beatmap showcase Featured Artist, seorang anggota dari Mappers' Guild wajib menerima salah satu dari [sebuah misteri dengan waktu terbatas](/wiki/Community/Mappers_Guild#quest), dengan memperoleh langsung undangan dari ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), atau bisa dengan mengaktifkan opsi `FA showcase mapper` di dalam [situs Mappers' Guild](https://mappersguild.com/).
 

@@ -75,7 +75,7 @@ Los retornados de apelación bajo los términos estándar anteriores también ti
 
 **Hacer trampa o compartir cuenta durante un torneo oficial o torneo con insignia llevará al veto permanente del usuario en futuros torneos.** Este veto no puede ser apelado (tu correo será ignorado si lo intentas) y no será removido, reducido, o exonerado bajo ninguna circunstancia.
 
-Algunos jugadores pueden ser restringidos otra vez una vez que empiezan a jugar después de que su apelación haya sido aceptada. Este es un proceso automático que generalmente es removido dentro de las siguientes 24 horas. ¡No dudes en hacer preguntas en Twitter a [@osusupport](https://twitter.com/osusupport) o enviar un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) si esto te ocurre a ti!
+Algunos jugadores pueden ser restringidos otra vez una vez que empiezan a jugar después de que su apelación haya sido aceptada. Este es un proceso automático que generalmente es removido dentro de las siguientes 24 horas. ¡No dudes en hacer preguntas en Twitter a [@osusupport](https://x.com/osusupport) o enviar un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) si esto te ocurre a ti!
 
 Algunas infracciones pueden llevar a que tu cuenta sea revertida al levantarse la restricción. Esto se hace para eliminar puntuaciones ilegítimas **en todos los modos**, así como medallas desbloqueadas e insignias de perfil. **Conteo de jugadas y el tiempo de juego no será modificado.**
 

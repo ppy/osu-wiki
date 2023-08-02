@@ -32,7 +32,7 @@ Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) f
 
 - Die Namen der Medaillen selbst,
 - Die kurze Beschreibung der Medaille und
-- Die *Flair-Texte*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> der Medaillen (sofern vorhanden), sichtbar beim Fahren der Maus über die entsprechenden Karten.
+- Die *Flair-Texte*<!-- https://x.com/ephemeralis/status/1068054191602638850 --> der Medaillen (sofern vorhanden), sichtbar beim Fahren der Maus über die entsprechenden Karten.
 
 Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen da draußen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 

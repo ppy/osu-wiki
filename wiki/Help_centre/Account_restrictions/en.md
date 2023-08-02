@@ -53,7 +53,7 @@ If an account has been found to be rightfully restricted, we will ask that the u
 
 ## My cooldown has passed. How do I appeal? {id=appeal}
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email — there is a chance we may not have received it.
+You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on X (formerly Twitter) or by email — there is a chance we may not have received it.
 
 When appealing, we expect the following points to be covered:
 
@@ -75,7 +75,7 @@ Appeal returnees under the standard terms above are also banned from official an
 
 **Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.** This ban cannot be appealed (your email will be ignored if you attempt to) and will not be removed, reduced, or waived under any circumstances.
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
+Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on X (formerly Twitter) at [@osusupport](https://x.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
 Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
 
@@ -110,7 +110,7 @@ All emails sent to the appeal review address will be investigated by a third par
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
-**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy — they cannot help you.
+**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via X (formerly Twitter), Discord, or any other platform in order to circumvent this policy — they cannot help you.
 
 ## Common restriction reasons and cooldowns {id=reasons}
 

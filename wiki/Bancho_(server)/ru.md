@@ -25,4 +25,4 @@ Bancho время от времени перезапускают для обсл
 
 ## Примечания
 
-[^score-upload-ref]: [Твит @osustatus, 30.07.2019](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Твит @osustatus, 30.07.2019](https://x.com/osustatus/status/1156092746685243392)

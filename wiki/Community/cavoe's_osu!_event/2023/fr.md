@@ -26,10 +26,10 @@ Les billets sont actuellement disponibles à l'achat sur le [site web du COE](ht
 - [FAQ](https://cavoeboy.com/faq)
 - [Liste des participants](https://cavoeboy.com/attendees)
 - [Serveur Discord](https://discord.com/invite/d6ru6PVcSY)
-- [Twitter](https://twitter.com/CavoesOsuEvent)
+- [Twitter](https://x.com/CavoesOsuEvent)
 - [Chaîne YouTube](https://www.youtube.com/@coevent)
 - [Chaîne Twitch](https://www.twitch.tv/coevent)
-- [Tweet d'annonce](https://twitter.com/CavoesOsuEvent/status/1600211082370424832)
+- [Tweet d'annonce](https://x.com/CavoesOsuEvent/status/1600211082370424832)
 - [News post d'annonce de vente de billets](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
 
 ## Organisation

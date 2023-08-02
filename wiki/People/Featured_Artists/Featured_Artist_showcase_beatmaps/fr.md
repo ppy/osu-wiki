@@ -1,6 +1,6 @@
 # Beatmaps showcase des Featured Artists
 
-Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Featured Artists](/wiki/People/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).
+Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Featured Artists](/wiki/People/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://x.com/osugame).
 
 Pour participer à la création des beatmaps de Featured Artists, un membre de la Mappers' Guild doit soit accepter une [quête mystère à durée limitée](/wiki/Community/Mappers_Guild#quêtes), soit être directement invité par ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), soit avoir son paramètre `FA showcase mapper` activé dans le [site web de la Mappers' Guild](https://mappersguild.com/).
 

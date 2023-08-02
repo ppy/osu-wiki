@@ -260,7 +260,7 @@ Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat ata
 
 #### Apakah server osu! sedang online? {id=no-submission-servers}
 
-***Server* osu! pada umumnya selalu *online* setiap saat, namun ada kalanya *server* kami sedang *offline* karena satu dan lain hal. Harap periksa [situs web osu! server status](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk mendapatkan perkembangan-perkembangan terkini seputar status *server* kami.**
+***Server* osu! pada umumnya selalu *online* setiap saat, namun ada kalanya *server* kami sedang *offline* karena satu dan lain hal. Harap periksa [situs web osu! server status](https://status.ppy.sh) atau [akun Twitter @osustatus](https://x.com/osustatus) untuk mendapatkan perkembangan-perkembangan terkini seputar status *server* kami.**
 
 Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bersabar hingga server kami kembali *online*. osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika *server* kami telah kembali *online*.
 

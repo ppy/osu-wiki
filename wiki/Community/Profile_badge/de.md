@@ -29,7 +29,7 @@ Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorat
 
 Anstatt die Abzeichen horizontal in einem Container zu stapeln, der sich über die gesamte Seite erstreckte, wurden sie auf der alten Webseite vertikal zwischen dem Benutzernamen und der Landesflagge des Nutzers angeordnet.
 
-Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterte Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) veranschaulichte dies in [einem populären Tweet](https://twitter.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
+Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterte Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) veranschaulichte dies in [einem populären Tweet](https://x.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
 
 ## Trivia
 

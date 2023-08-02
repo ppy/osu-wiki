@@ -24,7 +24,7 @@ This section is dedicated to issues with the osu! website.
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on Twitter at [@osusupport](https://twitter.com/osusupport) to ask about your ticket.
+You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on X (formerly Twitter) at [@osusupport](https://x.com/osusupport) to ask about your ticket.
 
 In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the [support team](/wiki/People/The_Team/Account_support_team) will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 

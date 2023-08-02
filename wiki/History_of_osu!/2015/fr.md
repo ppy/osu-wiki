@@ -40,7 +40,7 @@ Parmi les changements et les annonces faites autour du classement des beatmaps, 
 
 La [chaîne YouTube osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) a mis en ligne sa [première vidéo](https://www.youtube.com/watch?v=KQbudVxEjr8) au public le 8 mai 2015. La chaîne était gérée par différents membres de la communauté et visait à créer des vidéos sur les skins, les tournois, le mapping, les concours et d'autres nouvelles de la communauté.[^osu-weekly-9][^osu-news-welcome]
 
-L'osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été ajouté à l'osu!store le 30 mai 2015, pour environ 40 $ au lancement. Annoncés initialement dans un [tweet de peppy](https://twitter.com/ppy/status/603797988742336512) le 28 mai 2015, il n'y avait que 100 claviers disponibles au lancement, et ils ressemblaient plus à un pavé numérique qu'à un clavier de taille normale.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
+L'osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été ajouté à l'osu!store le 30 mai 2015, pour environ 40 $ au lancement. Annoncés initialement dans un [tweet de peppy](https://x.com/ppy/status/603797988742336512) le 28 mai 2015, il n'y avait que 100 claviers disponibles au lancement, et ils ressemblaient plus à un pavé numérique qu'à un clavier de taille normale.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
 
 ![](img/osu-keyboard.jpg "L'osu! keyboard tease dans un tweet de peppy")
 
@@ -143,7 +143,7 @@ Quelques jours plus tard (19 novembre 2015), peppy a mis à jour les utilisateur
 [^osu-weekly-9]: [Article de news par Tahsa (08/05/2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [Vidéo YouTube par osu!news (08/05/2015) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [Article de news par Tasha (30/05/2015) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
-[^ppy-tweet-osu-keyboards]: [Tweet par @ppy (28/05/2015)](https://twitter.com/ppy/status/603797988742336512)
+[^ppy-tweet-osu-keyboards]: [Tweet par @ppy (28/05/2015)](https://x.com/ppy/status/603797988742336512)
 [^ppy-blog-june-04]: [Post de blog par ppy (04/06/2015) "20150604 /Vocal/"](https://blog.ppy.sh/post/120685091453/20150604-vocal)
 [^ppy-blog-june-16]: [Post de blog par ppy (16/06/2015) "20150616 /Boxed/"](https://blog.ppy.sh/post/121678619658/20150616-boxed)
 [^ppy-blog-june-17]: [Post de blog par ppy (17/06/2015) "20150617"](https://blog.ppy.sh/post/121762218848/20150617)

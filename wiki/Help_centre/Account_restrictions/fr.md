@@ -79,7 +79,7 @@ Les utilisateurs qui sortent d'une restriction dans les conditions standard ci-d
 
 **Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et il ne sera en aucun cas supprimé, réduit ou levé.
 
-Certains joueurs peuvent être de nouveau restreints une fois qu'ils commencent à jouer après l'acceptation de leur appel. Il s'agit d'un processus automatique et sera généralement retiré sous 24 heures. N'hésitez pas à poser des questions sur Twitter à [@osusupport](https://twitter.com/osusupport) ou en envoyant un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) si cela vous arrive !
+Certains joueurs peuvent être de nouveau restreints une fois qu'ils commencent à jouer après l'acceptation de leur appel. Il s'agit d'un processus automatique et sera généralement retiré sous 24 heures. N'hésitez pas à poser des questions sur Twitter à [@osusupport](https://x.com/osusupport) ou en envoyant un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) si cela vous arrive !
 
 Certaines infractions mèneront à un retour en arrière de votre compte une fois la restriction levée. Il permet de supprimer tous les scores illégitimes que vous avez réalisé sur votre compte **dans tous les modes de jeu**, ainsi que les médailles débloquées et les badges du profil. **Le temps de jeu et le nombre de parties jouées ne sera pas modifié.**
 

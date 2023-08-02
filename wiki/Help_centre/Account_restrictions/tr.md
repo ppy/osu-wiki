@@ -77,7 +77,7 @@ Bazı durumlarda, itirazı kabul edilen kişinin resmi ve rozetli turnuvalara he
 
 **Resmi veya rozetli bir turnuva sırasında hile yapmak veya hesap paylaşmak kullanıcının gelecekteki tüm turnuvalardan kalıcı olarak yasaklanmasına yol açacaktır.** Bu yasağa itiraz edilemez (eğer itiraz ederseniz e-postanız görmezden gelinecektir) ve ne olursa olsun kaldırılamaz, azaltılamaz, veya ertelenemez.
 
-Bazı oyuncular itirazları kabul edildikten sonra oynamaya başladıklarında tekrar kısıtlanabilir. Bu otomatik bir işlemdir ve genellikle 24 saat içinde kaldırılır. Eğer sizin başınıza gelirse bize twitterdan [@osusupport](https://twitter.com/osusupport) üzerinden ya da [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine e-posta göndererek soru sormaktan çekinmeyin!
+Bazı oyuncular itirazları kabul edildikten sonra oynamaya başladıklarında tekrar kısıtlanabilir. Bu otomatik bir işlemdir ve genellikle 24 saat içinde kaldırılır. Eğer sizin başınıza gelirse bize twitterdan [@osusupport](https://x.com/osusupport) üzerinden ya da [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine e-posta göndererek soru sormaktan çekinmeyin!
 
 Bazı suçlar, kısıtlamanızın kalkmasıyla birlikte hesabınızdaki bazı değişikliklerin kaldırılmasına sebep olur. Bunlar hesabınızdaki **tüm modlar üzerinden** gönderilmiş olan gayrimeşru skorları, aynı zamanda haksız yere kazanılan madalya ve profil rozetlerini, silmeyi amaçlamaktadır. **Oynama sayısı ve oynama süresinde bir değişiklik yapılmayacaktır.**
 

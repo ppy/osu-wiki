@@ -12,8 +12,8 @@ osu!にはいくつかのTwitterアカウントがあり、それぞれ特定の
 
 | アバター | ハンドル | 説明 |
 | :-: | :-: | :-- |
-| ![osu! アバター](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | ニュースとお知らせの公式ソース。トラフィックの少ない高品質のコンテンツ。 |
-| ![osu!status アバター](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | サイト及びbancho問題の低トラフィック通知を提供します。 |
-| ![Dean Herbert アバター](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | 厳密にはosu!ではありません。関連していますが興味がある人のためにここに残します。ppyの人生の殆どはosu!です。 |
-| ![osu! support アバター](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | アカウント/コミュニティの問題であなたを助けます。 |
-| ![BanchoBoat アバター](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | 物事がうまく行かない時の喜劇の救済。 |
+| ![osu! アバター](img/osugame.jpg) | [@osugame](https://x.com/osugame) | ニュースとお知らせの公式ソース。トラフィックの少ない高品質のコンテンツ。 |
+| ![osu!status アバター](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | サイト及びbancho問題の低トラフィック通知を提供します。 |
+| ![Dean Herbert アバター](img/ppy.jpg?2) | [@ppy](https://x.com/ppy) | 厳密にはosu!ではありません。関連していますが興味がある人のためにここに残します。ppyの人生の殆どはosu!です。 |
+| ![osu! support アバター](img/osusupport.jpg) | [@osusupport](https://x.com/osusupport) | アカウント/コミュニティの問題であなたを助けます。 |
+| ![BanchoBoat アバター](img/banchoboat.jpg) | [@banchoboat](https://x.com/banchoboat) | 物事がうまく行かない時の喜劇の救済。 |

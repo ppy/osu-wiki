@@ -23,4 +23,4 @@ Durant les périodes de maintenance, Bancho est parfois redémarré. Ceci est re
 
 ## Références
 
-[^score-upload-ref]: [Tweet par @osustatus (30/07/2019)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tweet par @osustatus (30/07/2019)](https://x.com/osustatus/status/1156092746685243392)

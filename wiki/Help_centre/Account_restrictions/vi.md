@@ -75,7 +75,7 @@ Người trơi trở lại theo tiêu chuẩn cộng đồng cũng sẽ bị c�
 
 **Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vĩnh viễn khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố gửi) và sẽ không thể được gỡ bỏ, hay giảm đi với bất cứ lý do nào.
 
-Một vài người chơi có thể bị hạn chế lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy trình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://twitter.com/osusupport) hoặc gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu điều này xảy ra với bạn!
+Một vài người chơi có thể bị hạn chế lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy trình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://x.com/osusupport) hoặc gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu điều này xảy ra với bạn!
 
 Một vài vi phạm sẽ khiến tài khoản của bạn bị rollback sau khi gỡ hạn chế. Điều này nhằm xoá bỏ các điểm số không hợp lệ được ghi nhận trên tài khoản của bạn **ở mọi chế độ**, bao gồm cả các huy chương và huy hiệu ở hồ sơ. **Số lần chơi và thời gian chơi sẽ không bị thay đổi.**
 

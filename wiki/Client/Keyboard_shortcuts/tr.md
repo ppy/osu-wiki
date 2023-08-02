@@ -29,7 +29,7 @@ Bu kısayollar her yerde çalışır:
 | `F12` | Ekran görüntüsü al. Ekran görüntüleri dosyasını açmak için iletiye tıkla. |
 | `Shift` + `F12` | Ekran görüntüsü al ve paylaşmak için sunucuya karşıya yükle. Ekran görüntüsü aynı zamanda yerelde de kaydedilecek. Bu ekran görüntünüzü web tarayıcınızda açacak. |
 | `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
-| `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus) sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
+| `Shift` + `F1` | Web tarayıcısında [osu!status](https://x.com/osustatus) sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
 | `Ctrl` + `O` | Ayarlar yan çubuğunu aç. Ana menüde değilseniz offset sihirbazına giremezsiniz. |
 
 ## Ana menü

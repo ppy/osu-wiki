@@ -73,7 +73,7 @@ Dieses Songpaket enthält zwei Songs.
 
 Siehe auch:
 
-- [Twitter-Account von Bomb Boy](https://twitter.com/BomuBoi)
+- [Twitter-Account von Bomb Boy](https://x.com/BomuBoi)
 - [Webseite von daniwellP](https://aidn.jp/)
 
 ## Cranky Pack Vol. 1

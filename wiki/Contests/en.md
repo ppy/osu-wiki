@@ -127,7 +127,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 ### [A Labour of Love](A_Labour_of_Love_Contest)
 
-**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
+**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://x.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold crown][GCrown] (Overall Winner) | ![Silver crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -268,7 +268,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 
 ### [osu! Beatmapping World Championship](oBWC)
 
-<!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
+<!-- Yes, OBWC is not an official contest according to https://x.com/paichiru/status/1408900730149249025 -->
 
 **osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/People/Featured_Artists) library during its runs.
 

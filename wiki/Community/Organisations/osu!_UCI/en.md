@@ -19,7 +19,7 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 - [Discord server](https://discord.gg/qbZddFV)
 - [Facebook group](https://www.facebook.com/groups/osuuci/)
 - [Twitch channel](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [X (formerly Twitter)](https://x.com/osuUCI)
 
 ## Officers
 

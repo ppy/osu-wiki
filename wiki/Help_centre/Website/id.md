@@ -31,7 +31,7 @@ Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutara
 
 **Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang sedang kami proses.**
 
-Apabila kamu ingin mengetahui status tiket layanan dukungan (support ticket) milikmu, kamu dipersilahkan untuk kembali menghubungi tim layanan dukungan kami asalkan masih dalam batas yang sewajarnya. Kamu juga dapat menanyakan hal yang sama melalui akun Twitter [@osusupport](https://twitter.com/osusupport) milik kami.
+Apabila kamu ingin mengetahui status tiket layanan dukungan (support ticket) milikmu, kamu dipersilahkan untuk kembali menghubungi tim layanan dukungan kami asalkan masih dalam batas yang sewajarnya. Kamu juga dapat menanyakan hal yang sama melalui akun Twitter [@osusupport](https://x.com/osusupport) milik kami.
 
 Dalam **kasus-kasus tertentu** yang utamanya melibatkan pelanggaran-pelanggaran berat, tim layanan dukungan kami dapat memberitahukan kamu bahwa tiket layanan dukungan (support ticket) milikmu tidak akan ditindaklanjuti lagi. Apabila kamu merasa tidak pernah melakukan pelanggaran apapun, kamu tidak perlu khawatir dan hanya butuh untuk lebih bersabar!
 

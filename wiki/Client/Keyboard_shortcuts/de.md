@@ -31,7 +31,7 @@ Diese Kürzel können überall verwendet werden:
 | `F12` | Einen Screenshot machen. Klicke auf den Dialog, um den Screenshot-Ordner zu öffnen. |
 | `Shift` + `F12` | Mache ein Screenshot und lade es zum Teilen auf den Server hoch. Der Screenshot wird auch lokal gespeichert. Dies wird den Screenshot in deinem Webbrowser öffnen. |
 | `Einfg` | Das ist der [Boss-Key](https://de.wikipedia.org/wiki/Cheftaste). Minimiere den Spiel-Client in den Benachrichtigungsbereich. Das schaltet das Spiel ebenfalls stumm. |
-| `Shift` + `F1` | Öffne [osu!status](https://twitter.com/osustatus) in deinem Webbrowser. (Nur, wenn ein Verbindungsfehler auftritt.) |
+| `Shift` + `F1` | Öffne [osu!status](https://x.com/osustatus) in deinem Webbrowser. (Nur, wenn ein Verbindungsfehler auftritt.) |
 | `Strg` + `O` | Öffne die Optionen-Seitenleiste. Du kannst nicht in den Offset-Assistenten gelangen, wenn du nicht im Hauptmenü bist. |
 
 ## Hauptmenü

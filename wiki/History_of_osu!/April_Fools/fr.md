@@ -155,7 +155,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, l'[osu! cookie]
 
 ## 2017
 
-Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version [lazer](/wiki/Client/Release_stream/Lazer) du client d'osu!.
+Comme annoncé dans un [Tweet de peppy](https://x.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version [lazer](/wiki/Client/Release_stream/Lazer) du client d'osu!.
 
 ## 2018
 
@@ -222,7 +222,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^banchobot-reddit]: [Commentaire Reddit par u/Sakuya_Lv9 sur r/osugame (02/04/2014) dans "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
 [^banchobot-forums]: [Post du forum par Jazz (04/02/2013) dans "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215004)
 [^banchobot-forums-2]: [Post du forum par Brian OA (Off-Topic) dans "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215194)
-[^banchobot-tweet]: [Tweet par @little_2d (27/06/2019)](https://twitter.com/little_2d/status/1144316731407683584)
+[^banchobot-tweet]: [Tweet par @little_2d (27/06/2019)](https://x.com/little_2d/status/1144316731407683584)
 [^banchobot-forums-3]: [Post du forum par kingking9 (04/06/2013) dans "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2342998)
 [^banchobot-forums-4]: [Post du forum par peppy (04/06/2013) dans "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2343044)
 

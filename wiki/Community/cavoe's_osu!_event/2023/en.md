@@ -30,10 +30,10 @@ Tickets are currently available for purchase at the [COE website](https://cavoeb
 - [FAQ](https://cavoeboy.com/faq)
 - [Attendee list](https://cavoeboy.com/attendees)
 - [Discord server](https://discord.com/invite/d6ru6PVcSY)
-- [Twitter](https://twitter.com/CavoesOsuEvent)
+- [X (formerly Twitter)](https://x.com/CavoesOsuEvent)
 - [YouTube channel](https://www.youtube.com/@coevent)
 - [Twitch channel](https://www.twitch.tv/coevent)
-- [Announcement tweet](https://twitter.com/CavoesOsuEvent/status/1600211082370424832)
+- [Announcement tweet](https://x.com/CavoesOsuEvent/status/1600211082370424832)
 - [Ticket sales announcement news post](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
 
 ## Organisation
@@ -79,4 +79,4 @@ The Global Taiko Showdown team is hosting a 1v1 osu!taiko LAN tournament at the 
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [GTS Discord server](https://discord.com/invite/3mGC3HB)
-- [GTS Twitter](https://twitter.com/GTSosu)
+- [GTS X (formerly Twitter)](https://x.com/GTSosu)

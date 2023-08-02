@@ -59,7 +59,7 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1060035)
 - [Discord server](https://discord.gg/CZp4bNx)
 - [Official website](https://obwc.net/)
-- [Twitter](https://twitter.com/osubwc)
+- [X (formerly Twitter)](https://x.com/osubwc)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/30) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream](https://www.twitch.tv/osubwc)
 

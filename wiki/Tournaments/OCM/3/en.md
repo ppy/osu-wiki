@@ -51,7 +51,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/997764)
 - [Livestream](https://www.twitch.tv/osucupmaster)
 - [Discord server](https://discord.gg/Y9MKD8m)
-- [Twitter](https://twitter.com/CupOsu)
+- [X (formerly Twitter)](https://x.com/CupOsu)
 
 ## Participants
 

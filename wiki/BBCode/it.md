@@ -349,4 +349,4 @@ Il tag *Intestazione (v2)* è un tag obsoleto che una volta veniva utilizzato ne
 
 ## Riferimenti
 
-[^imgur-blocked-ip]: [Tweet di @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
+[^imgur-blocked-ip]: [Tweet di @ppy (2023-06-29)](https://x.com/ppy/status/1674439849749913602)

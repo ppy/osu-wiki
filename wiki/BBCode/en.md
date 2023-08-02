@@ -349,4 +349,4 @@ The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums 
 
 ## References
 
-[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://x.com/ppy/status/1674439849749913602)

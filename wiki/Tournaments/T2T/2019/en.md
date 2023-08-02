@@ -48,7 +48,7 @@ The TAG2 Tournament 2019 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/869513)
 - [TAG Club Discord](https://discord.gg/VKt5kGa)
-- [TAG Club Twitter](https://twitter.com/TAGClub_osu)
+- [TAG Club X (formerly Twitter)](https://x.com/TAGClub_osu)
 - [Challonge](https://challonge.com/T2T_2019)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067)**
 

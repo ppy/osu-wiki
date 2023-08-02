@@ -73,7 +73,7 @@ This song pack features two songs of different variety.
 
 See also:
 
-- [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
+- [Bomb Boy's X (formerly Twitter) account](https://x.com/BomuBoi)
 - [daniwellP's website](https://aidn.jp/)
 
 ## Cranky Pack Vol. 1

@@ -78,7 +78,7 @@ Em alguns casos, um retornando de recurso pode ser banido de torneios oficiais e
 
 **Trapacear ou compartilhar a conta durante um torneio oficial ou com medalha irá resultar com o ban permanente de um usuário de quaisquer torneios por vir.** Esse ban não poderá ser recorrido (seu email será ignorado se tentar) e não será removido, reduzido, ou renunciado em quaisquer circunstâncias.
 
-Alguns jogadores podem acabar sendo restritos novamente depois de começarem a jogar após terem o seu recurso aceito. Isso é um processo automático que geralmente irá ser removido dentro de 24 horas. Não hesite em fazer perguntas no twitter em [@osusupport](https://twitter.com/osusupport) ou por enviando um email para [accounts@ppy.sh](mailto:accounts@ppy.sh) se isso acontecer contigo!
+Alguns jogadores podem acabar sendo restritos novamente depois de começarem a jogar após terem o seu recurso aceito. Isso é um processo automático que geralmente irá ser removido dentro de 24 horas. Não hesite em fazer perguntas no twitter em [@osusupport](https://x.com/osusupport) ou por enviando um email para [accounts@ppy.sh](mailto:accounts@ppy.sh) se isso acontecer contigo!
 
 Algumas ofensas acarretarão em sua conta ser revertida após a remoção da restrição. Elas pretendem remover pontuações ilegítimas que foram submetidas em sua conta **em todos os modos**, assim como todas as medalhas de conquista destrancadas e medalhas de perfil. **O número de mapas jogados e o tempo de jogo não serão modificados.**
 

@@ -129,7 +129,7 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 
 ### [A Labour of Love](A_Labour_of_Love_Contest)
 
-**A Labour of Love** es un concurso basado en equipos que abarca múltiples disciplinas artísticas donde los equipos participantes tienen la tarea de remezclar/reorganizar una canción que ha sido ampliamente conocida en toda la comunidad de osu!, crear un mapa a partir de la canción remezclada, y diseñar una storyboard/video de fondo original como acompañamiento visual de dicho mapa. Como es [indicado por este tuit](https://twitter.com/ppy/status/1333362145224843264), el concurso sigue el modelo de [eventos de THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) y otros concursos similares.
+**A Labour of Love** es un concurso basado en equipos que abarca múltiples disciplinas artísticas donde los equipos participantes tienen la tarea de remezclar/reorganizar una canción que ha sido ampliamente conocida en toda la comunidad de osu!, crear un mapa a partir de la canción remezclada, y diseñar una storyboard/video de fondo original como acompañamiento visual de dicho mapa. Como es [indicado por este tuit](https://x.com/ppy/status/1333362145224843264), el concurso sigue el modelo de [eventos de THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) y otros concursos similares.
 
 | Concurso No. | Canción remezclada | ![Gold crown][GCrown] (Ganador general) | ![Silver crown][SCrown] (Subcampeón general) | Ganador de la votación de la comunidad | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -270,7 +270,7 @@ El objetivo de este concurso es simple: los concursantes deben crear un mapa que
 
 ### [osu! Beatmapping World Championship](oBWC)
 
-<!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
+<!-- Yes, OBWC is not an official contest according to https://x.com/paichiru/status/1408900730149249025 -->
 
 **osu! Beatmapping World Championship** es un concurso de mapeo por equipos en el que los equipos participantes formados por mapeadores del mismo país, región o incluso continente (hasta cierto punto) luchan entre sí con sus habilidades de mapeo en múltiples canciones y fases de mapeo. El concurso es conocido por hacer uso exclusivo de las canciones disponibles en la biblioteca de [Artista destacado](/wiki/People/Featured_Artists) durante su ejecución.
 

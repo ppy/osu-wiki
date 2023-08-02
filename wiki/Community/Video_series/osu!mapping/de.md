@@ -23,7 +23,7 @@ Die regelmäßigen Uploads von osu!mapping endeten im Januar 2019, aber es gibt 
 
 - **[YouTube-Kanal](https://www.youtube.com/user/Pishifat)**
 - [Patreon](https://www.patreon.com/pishifat) (aktuell geschlossen)
-- [Twitter](https://twitter.com/pishifat)
+- [Twitter](https://x.com/pishifat)
 
 ## Geschichte
 

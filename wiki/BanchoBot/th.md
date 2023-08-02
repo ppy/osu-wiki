@@ -18,7 +18,7 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 BanchoBot เขียนขึ้นโดย ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) และ BanchoBot ก็เป็นผู้ให้บริการ [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (ไออาร์ซี)
 
-BanchoBot มีทั้ง [หน้าผู้ใช้ของ osu!](https://osu.ppy.sh/users/3) และ [บัญชีผู้ใช้ทวิตเตอร์](https://twitter.com/banchoboat)
+BanchoBot มีทั้ง [หน้าผู้ใช้ของ osu!](https://osu.ppy.sh/users/3) และ [บัญชีผู้ใช้ทวิตเตอร์](https://x.com/banchoboat)
 
 ## คำสั่ง
 

@@ -12,7 +12,7 @@
 | :-- | :-- |
 | Lien d'invitation | <https://discord.gg/QubdHdnBVg> |
 | Chaîne Twitch | [osuuniversity](https://twitch.tv/osuuniversity) |
-| Identifiant Twitter | [@osuuniversity](https://twitter.com/osuuniversity) |
+| Identifiant Twitter | [@osuuniversity](https://x.com/osuuniversity) |
 | Chaîne Spotify | [osu! University](https://open.spotify.com/show/1KJTvGLOmUTnvbZoZGLlMP) |
 | Chaîne YouTube | [osu! University](https://www.youtube.com/c/osuUniversity) |
 

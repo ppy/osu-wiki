@@ -267,7 +267,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 #### 成绩服务器在正常运行吗？{id=no-submission-servers}
 
-**答案几乎一定是肯定的，但是你可以检查 [osu! 服务器状态页](https://status.ppy.sh) 或者 [@osustatus Twitter](https://twitter.com/osustatus) 来得知是不是我们的锅。**
+**答案几乎一定是肯定的，但是你可以检查 [osu! 服务器状态页](https://status.ppy.sh) 或者 [@osustatus Twitter](https://x.com/osustatus) 来得知是不是我们的锅。**
 
 如果服务器目前不可用，那么在我们修复问题之前，请不要关闭 osu!。osu! 会在至多一个小时内一直尝试提交成绩。
 

@@ -25,4 +25,4 @@ Während Wartungsarbeiten wird Bancho manchmal neugestartet. Dies wird allen Onl
 
 ## Referenzen
 
-[^score-upload-ref]: [Tweet von @osustatus (30.07.2019)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tweet von @osustatus (30.07.2019)](https://x.com/osustatus/status/1156092746685243392)

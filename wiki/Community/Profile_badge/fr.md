@@ -32,7 +32,7 @@ Dans le [client](/wiki/Client) et sur le site web, les badges sont simplement d�
 
 Plutôt que de s'empiler horizontalement dans un conteneur couvrant toute la page, l'ancien site empilait les badges verticalement entre le nom d'utilisateur et le drapeau du pays de l'utilisateur.
 
-Un effet secondaire de cette méthode de mise en page était que la hauteur par défaut, non étendue, des pages des utilisateurs pouvait être augmentée en gagnant plus de badges. Bien qu'involontaire, cette méthode est devenue une blague récurrente dans la communauté des tournois. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) a montré cela dans [un Tweet populaire](https://twitter.com/droombs/status/1036050610687074304), exposant son record du plus grand nombre de badges gagnés au moment de la publication de l'article.
+Un effet secondaire de cette méthode de mise en page était que la hauteur par défaut, non étendue, des pages des utilisateurs pouvait être augmentée en gagnant plus de badges. Bien qu'involontaire, cette méthode est devenue une blague récurrente dans la communauté des tournois. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) a montré cela dans [un Tweet populaire](https://x.com/droombs/status/1036050610687074304), exposant son record du plus grand nombre de badges gagnés au moment de la publication de l'article.
 
 ## Informations supplémentaires
 

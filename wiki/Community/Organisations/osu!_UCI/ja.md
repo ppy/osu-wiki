@@ -19,7 +19,7 @@ tags:
 - [Discordサーバー](https://discord.gg/qbZddFV)
 - [Facebookグループ](https://www.facebook.com/groups/osuuci/)
 - [Twitchチャンネル](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- [Twitter](https://x.com/osuUCI)
 
 ## 役員一覧
 

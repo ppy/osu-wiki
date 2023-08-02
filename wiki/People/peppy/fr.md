@@ -15,5 +15,5 @@ tags:
 - [Page de profil](https://osu.ppy.sh/users/2)
 - [Blog de ppy](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
-- [Twitter](https://twitter.com/ppy)
+- [Twitter](https://x.com/ppy)
 - [Twitch](https://www.twitch.tv/ppy)

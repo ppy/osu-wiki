@@ -16,7 +16,7 @@ The game was first teased through [a cryptic YouTube video](https://www.youtube.
 
 Core development for osu!stream ceased in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) concerning its last release. The source code along with beatmap conversion and testing tools has since been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream), and all previously paid maps are now available for free from the in-game "Store".
 
-In 2023, twelve years after its initial release, osu!stream was finally [ported to Android](https://twitter.com/ppy/status/1613460209703456769) thanks to the efforts of ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) and other open-source contributors.
+In 2023, twelve years after its initial release, osu!stream was finally [ported to Android](https://x.com/ppy/status/1613460209703456769) thanks to the efforts of ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) and other open-source contributors.
 
 ## Installation
 
@@ -58,7 +58,7 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 - **Playable on any iOS devices only.** (for now)
 - Beatmaps are made from scratch.
 - No account needed to download the song packs.
-- Can integrate osu!stream with a Twitter account.
+- Can integrate osu!stream with a X (formerly Twitter) account.
 - High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
 - The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.

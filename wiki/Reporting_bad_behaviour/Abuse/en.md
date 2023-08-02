@@ -51,13 +51,13 @@ Should this abuse continue and the administrators do nothing about it, [please n
 
 In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
 
-### On a Twitter linked to an osu! user's profile
+### On a X (formerly Twitter) linked to an osu! user's profile
 
-Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
+Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [X (formerly Twitter)'s guide on reporting abusive behaviour](https://help.x.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
 
-Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [Twitter's guide on blocking accounts](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) for more information.
+Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [X (formerly Twitter)'s guide on blocking accounts](https://help.x.com/en/using-twitter/blocking-and-unblocking-accounts) for more information.
 
-Please be aware that the person will see you have blocked them if they check your Twitter profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see and comment on all the tweets you make.
+Please be aware that the person will see you have blocked them if they check your X (formerly Twitter) profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see and comment on all the tweets you make.
 
 If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylised bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
 

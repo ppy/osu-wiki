@@ -7,7 +7,7 @@ outdated_since: d3592bb35b3055060a588302450b2c9716f9a92f
 
 Les **osu! community meetings** sont un groupe de discussion organisé par l'[équipe d'osu!](/wiki/People/osu!_team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
 
-Il y a longtemps, dans le [passé du jeu](https://twitter.com/ppy/status/1169256824052170755), l'équipe d'osu! avait l'habitude d'organiser régulièrement des community meetings où tout le monde était invité à parler. Avec l'ampleur du jeu d'aujourd'hui, ce n'est plus possible. Mais grâce à Discord, une sorte de système de file d'attente a été mis en place où les questions peuvent être abordées une par une.
+Il y a longtemps, dans le [passé du jeu](https://x.com/ppy/status/1169256824052170755), l'équipe d'osu! avait l'habitude d'organiser régulièrement des community meetings où tout le monde était invité à parler. Avec l'ampleur du jeu d'aujourd'hui, ce n'est plus possible. Mais grâce à Discord, une sorte de système de file d'attente a été mis en place où les questions peuvent être abordées une par une.
 
 Si vous souhaitez poser des questions, assurez-vous d'avoir lu les directives qui se trouvent ci-dessous.
 
@@ -17,7 +17,7 @@ Actuellement, les osu! community meetings sont présidés par [peppy](https://os
 
 Les osu! community meetings sont actuellement organisés sur le [serveur Discord osu!](https://discord.gg/ppy), et diffusés en simultané sur [la chaîne Twitch de peppy](https://www.twitch.tv/ppy). Chaque meeting dure généralement environ une heure.
 
-Les meetings sont annoncés avec des rappels sur le [compte Twitter de peppy](https://twitter.com/ppy). Pour être informé de ces meetings lorsqu'ils commencent, marquez-vous comme intéressé en utilisant l'événement affiché sur le [serveur Discord osu!](https://discord.gg/ppy).
+Les meetings sont annoncés avec des rappels sur le [compte Twitter de peppy](https://x.com/ppy). Pour être informé de ces meetings lorsqu'ils commencent, marquez-vous comme intéressé en utilisant l'événement affiché sur le [serveur Discord osu!](https://discord.gg/ppy).
 
 Tout le monde est invité à participer ! Si vous avez une question ou quelque chose à ajouter à la discussion, vous pouvez lever la main sur Discord pour rejoindre la file d'attente, ou écrire un message dans le fil de discussion approprié que vous trouverez dans le salon textuel `#community-meetings` si vous n'êtes pas à l'aise pour parler, qui sera lu à haute voix et auquel on répondra. En outre, avant de poser une question, veuillez respecter les directives suivantes :
 

@@ -130,7 +130,7 @@ The following trademarks must be spelt as follows (letter casing must match):
 - `Reddit`
 - `Skype`
 - `Twitch`
-- `Twitter`
+- `X`
 - `YouTube`
 
 Trademarks must not be followed by the trademark or registered trademark symbols.

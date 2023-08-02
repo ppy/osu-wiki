@@ -71,7 +71,7 @@ Community-run tournaments receiving this support are expected to abide by the fo
 - Preserve competitive integrity.
 - Encourage good sportsmanship.
 
-In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like X (formerly Twitter) accounts, Discord servers, and so on.
 
 **The tournament must also abide by the following practices throughout:**
 
