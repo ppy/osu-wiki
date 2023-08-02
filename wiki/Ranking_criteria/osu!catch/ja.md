@@ -12,7 +12,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### ルール (Rules)
 
-- **理論的にはSSができなければならないです。** 基本的に全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)とる事ができる必要です。
+- **理論的にはSSができなければならないです。** 全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)とる事ができる必要です。
 - **デフォルトスキンを強制使用させない場合、少なくとも二つの[コンボカラー](/wiki/Beatmapping/Combo_colour)を使用する必要があります。** コンボカラーは譜面の画像、ストーリーボード、ビデオと溶け込めはいけません。これはオブジェクトが簡単にプレイヤーに見えるようにし、カスタムスキンのコンボカラーが誤って画像と混ざらないようにするためです。
 - **hitnormalの付いていない[キーサウンド](wiki/Beatmapping/Hitsound#keysound)は禁止です。** サウンドが曲と完全に調和していれば、打時のフィードバックは聞き取りにくいです。
 - **もし、全ての難易度の[drain time](/wiki/Beatmap/Drain_time)は…**
@@ -25,7 +25,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - **全てのサークルとスライダーは曲の特徴的な音に合わせてください。** 普通に明瞭な音ですが、始まりと終わりの区別がつかない連続音を表すこともあります。
 - **Extendedスライダーテールは、曲の拍子にスナップするように。** 曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
-- **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制に停止して、不快な動きを生じさせるです。（左の境界線はx:16、右の境界線はx:496）
+- **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制に停止して不快な動きを生じさせるです。（左の境界線はx:16、右の境界線はx:496）
 - **[コンボ](/wiki/Beatmapping/Combo)が無理な長さにならないようにしてください。** 捕らえた[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は皿の上に積み重なり、プレイヤーの視界を妨げる可能性があります。スライダーエンド、リピート、[スピナー](/wiki/Gameplay/Hit_object/Spinner)の[バナナ](/wiki/Gameplay/Hit_object/Banana)もフルーツとして計数えることに注意してください。このような事態を避けるために新しいコンボは定期的にするように。
 - **マップに多様性を持たせ、スコアに変動を持たせるために、各難易度に少なくとも一つの[スピナー](/wiki/Gameplay/Hit_object/Spinner)を入れてようにしてください。** しかし、スピナーが曲のどこにも合わないのであれば、無理にスピナーを入れる必要はないです。
 - **[OD](/wiki/Beatmap/Overall_difficulty)は[AR](/wiki/Beatmap/Approach_rate)と同じであるべきです。** ODはゲームプレイや[スピナー](/wiki/Gameplay/Hit_object/Spinner)のバナナの数に影響しないので、これは単なる標準化された値です。ODは譜面の最高得点にのみ影響します。
@@ -33,7 +33,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **スライダーの目盛は、曲に合わせて設定する必要があります。** 例えば、1/3スナップしか使わない曲の場合、スライダーの目盛は2や4を使うのは適切ではないです。
 - **どの難易度でも同じスライダーの目盛を使用することです。** これはマッピング設定ではなく音楽の特性だからです。しかし、低い難易度では、曲のリズムに従うことを条件に、新しいプレーヤーに必要な精度を下げるために低いスライダーの目盛を使用することができます。純粋にスコア、コンボ、難易度を上げるために高いスライダーの目盛を使うのはだめです。
 - **明度50以下ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)は避けてください。** 暗い色はフルーツの読みかたは遊びにくいになります。
-- **気合いタイムを使用する場合は輝度220以上ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)を避けてください。** 明るい色は気合いタイム中に明るいパルスを発生させ、目に不快感を与えます。
+- **気合いタイムを使用する場合は明度220以上ぐらいの[コンボカラー](/wiki/Beatmapping/Combo_colour)を避けてください。** 明るい色は気合いタイム中に明るいパルスを発生させ、目に不快感を与えます。
 
 ### スキン
 
@@ -80,14 +80,14 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### Guidelines
 
-- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーのテールとリピートを含めて8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
 - **ノート密度は主に1/1のリズムです。** 1/2およびかまたは1/3のリズムは控えめに使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間で設定する必要があります。
-- [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間で設定する必要があります。
-- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間で設定する必要があります。
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間でに設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間でに設定してください。
+- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間でに設定してください。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
