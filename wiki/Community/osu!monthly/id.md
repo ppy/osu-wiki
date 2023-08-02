@@ -44,7 +44,7 @@ Informasi lebih lanjut mengenai osu!monthly versi pertama dapat dilihat pada [si
 
 Informasi lebih lanjut mengenai osu!monthly versi kedua dapat dilihat pada [situs web resmi osu!monthly berikut](https://osumonthly.com/), yang juga mengandung informasi seputar tim liputan yang bertugas dan arsip edisi terdahulu.
 
-### Versi ketiga (2022–sekarang)
+### Versi ketiga (2022–2023)
 
 | Judul publikasi | Tanggal rilis |
 | :-- | :-- |
