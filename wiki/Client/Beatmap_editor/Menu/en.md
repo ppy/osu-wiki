@@ -24,7 +24,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| Test Beatmap (`F5``) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the beatmap, offering to save changes beforehand. |
+| Test Beatmap (`F5`) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the beatmap, offering to save changes beforehand. |
 | Open AiMod (`Ctrl` + `Shift` + `A`) | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 ### Beatmap packaging commands
