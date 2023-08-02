@@ -357,6 +357,12 @@
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+#### SEA Summer Suiji Showdown
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SEA Summer Suiji Showdown 3](SSSS/3) | 2023-06-05 | 2023-07-31 | Schale | Tingyun Motor | maimai |
+
 #### Spanish Showdown
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
