@@ -11,7 +11,7 @@ tags:
   - авто спиннер
 ---
 
-# Spun Out (mod)
+# Spun Out (мод)
 
 ![Значок мода SO](/wiki/shared/mods/SO.png "Значок мода Spun Out (SO)")
 
