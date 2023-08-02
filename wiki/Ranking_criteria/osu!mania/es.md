@@ -1,8 +1,3 @@
----
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
-outdated_translation: true
----
-
 # Criterios de clasificación de osu!mania
 
 ***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_criteria).***
@@ -39,9 +34,9 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Chord**: Dos o más notas presionadas al mismo tiempo.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams que mezclan diferentes tipos de chords.
 - **Grace**: Dos o más notas presionadas en sucesión rápida, generalmente usando snaps de 1/6 o más.
-- **Hand**: Tres notas presionadas al mismo tiempo. Ocasionalmente referida como una "triple".
+- **Hand**: Tres notas presionadas al mismo tiempo. Ocasionalmente referida como una «triple».
 - **Jack**: Tres o más notas consecutivas en la misma columna, usualmente presionada a un ritmo más rápido que las notas aledañas.
-- **Jump**: Dos notas presionadas al mismo tiempo. Ocasionalmente referida como una "doble".
+- **Jump**: Dos notas presionadas al mismo tiempo. Ocasionalmente referida como una «doble».
 - **Jumptrill**: Un trill consistiendo en dos jumps que alternan.
 - **Minijack**: Dos notas consecutivas en la misma columna, usualmente presionadas a un ritmo más rápido que las notas aledañas.
 - **Release**: El final de una nota larga el cual debe soltarse en una cierta ventana de tiempo para poder conseguir el puntaje completo apropiadamente.
@@ -66,10 +61,9 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otra cosa no es compatible con la sección Clasificado.
 - **Si más de un modo de teclas es presente en un solo beatmap, las teclas deben ser denominadas en todos los nombres de dificultades. En caso de que no, no se deben de nombrar.**
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 3 niveles de dificultad por debajo de la dificultad más alta.
-  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 2 niveles de dificultad por debajo de la dificultad más alta.
-  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 1 nivel de dificultad por debajo de la dificultad más alta.
-- Sobre las dificultades Insane y más difícil, una distribución adecuada se define por brechas de dificultad relativa similares a las definidas formalmente entre dificultades más bajas.
+  - **... menos de 2:30**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Normal, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 4 dificultades en total.
+  - **... entre 2:30 y 3:15**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Hard, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 3 dificultades en total.
+  - **... entre 3:15 y 4:00**, la dificultad más baja de cada modo de teclas incluido no puede ser más difícil que un Insane, **O** cada modo de teclas debe proporcionar una distribución adecuada[^proper-spread] que contenga un mínimo de 2 dificultades en total.
 
 ### Pautas
 
@@ -207,3 +201,7 @@ Pautas adicionales para dificultades *Insane de 7 teclas*:
 
 - **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.60x y 1.10x.**
+
+## Notas
+
+[^proper-spread]: Una distribución de dificultades «adecuada» *para dificultades Insane y más difíciles* se define como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) más bajos como se especifica en los [criterios de dificultades específicas](#dificultades-específicas).

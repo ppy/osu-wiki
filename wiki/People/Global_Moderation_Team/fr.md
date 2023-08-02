@@ -79,11 +79,9 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugais, japonais | Modération du tchat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, administration du wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésien | Modération de la communauté modding/mapping |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnois, un peu de suédois | Modération du tchat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du tchat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Français | Modération du tchat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Modération de la communauté modding/mapping |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Français, espagnol | Modération du tchat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Modération du tchat, modération de la communauté modding/mapping |
@@ -108,7 +106,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | Modération du tchat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Modération de la communauté skinning |
