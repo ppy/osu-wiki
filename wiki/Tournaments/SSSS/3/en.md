@@ -8,7 +8,7 @@ tags:
 
 ![SSSS 3 logo](img/logo.jpg)
 
-The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244). The tournament features a [Suiji-style team matchmaking system](https://osu.ppy.sh/community/forums/topics/1305570), in which players are assigned to a team at random prior to the start of the tournament based on each other's [BWS rank](/wiki/Tournaments/Badge-weighted_seeding). It is open to all players from all ten [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank, and is the third iteration of the SEA Summer Suiji Showdown.
+The **SEA Summer Suiji Showdown 3** (***SSSS 3***) was a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244). The tournament featured a [Suiji-style team matchmaking system](https://osu.ppy.sh/community/forums/topics/1305570), in which players were assigned to a team at random prior to the start of the tournament based on each other's [BWS rank](/wiki/Tournaments/Badge-weighted_seeding). It was open to all players from all ten [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank, and was the third iteration of the SEA Summer Suiji Showdown.
 
 ## Tournament schedule
 
@@ -34,11 +34,11 @@ The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-ba
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter for each team member |
 
-![](img/badge.png "SSSS 3 winner badge")
+![](img/badge.png?1 "SSSS 3 winner badge")
 
 ## Organisation
 
-The SEA Summer Suiji Showdown 3  is run by various osu! community members from the South East Asia region and beyond.
+The SEA Summer Suiji Showdown 3 was run by various osu! community members from the South East Asia region and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -87,6 +87,16 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 | Team | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | ::{ flag=SG }:: [Grantorio](https://osu.ppy.sh/users/5623529) | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | ::{ flag=PH }:: [Geanyl](https://osu.ppy.sh/users/10038631) | ::{ flag=MY }:: [Sh1moto](https://osu.ppy.sh/users/4830350) | ::{ flag=MY }:: [GG\_com2016](https://osu.ppy.sh/users/9229968) |
 | Tingyun Motor | ::{ flag=ID }:: **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) | ::{ flag=MY }:: [milo Penguin](https://osu.ppy.sh/users/10702232) | ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) | ::{ flag=SG }:: [CopyPasted](https://osu.ppy.sh/users/9341983) | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) |
 | TTzida | ::{ flag=VN }:: [Tuon](https://osu.ppy.sh/users/6673790) | ::{ flag=MY }:: [iraozm](https://osu.ppy.sh/users/12443104) | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | ::{ flag=SG }:: **[Anderwear](https://osu.ppy.sh/users/14429830)** | ::{ flag=SG }:: [ZIENARD](https://osu.ppy.sh/users/9157643) | ::{ flag=MY }:: [Dreaming-](https://osu.ppy.sh/users/13516784) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Schale** (::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877), ::{ flag=VN }:: [MisonoMika](https://osu.ppy.sh/users/16583941), ::{ flag=SG }:: [hollowknees](https://osu.ppy.sh/users/15195364)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Tingyun Motor** (::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [milo Penguin](https://osu.ppy.sh/users/10702232), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=SG }:: [CopyPasted](https://osu.ppy.sh/users/9341983), ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **maimai** (::{ flag=SG }:: [Eagle5324](https://osu.ppy.sh/users/11987104), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=SG }:: [moroha29](https://osu.ppy.sh/users/9182389), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527), ::{ flag=VN }:: [smthelse](https://osu.ppy.sh/users/13238121)) |
 
 ## Mappools
 
@@ -315,6 +325,20 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   3. [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)     
 
 ## Match results
+
+### Finals (week 2)
+
+Sunday, 30 July 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | maimai | 3 | **8** | **Schale** | [#1](https://osu.ppy.sh/community/matches/109739514) |
+
+Monday, 31 July 2023, Grand Final:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Tingyun Motor | 6 | **9** | **Schale** | [#1](https://osu.ppy.sh/community/matches/109754849) |
 
 ### Finals (week 1)
 
