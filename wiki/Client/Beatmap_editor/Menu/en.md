@@ -221,7 +221,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website (`https://osu.ppy.sh/beatmaps/<BeatmapID>`)|
+| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website (`https://osu.ppy.sh/beatmaps/<BeatmapID>`) |
 | This Beatmap's Thread | Open the beatmap's forum thread. |
 
 ## Help
