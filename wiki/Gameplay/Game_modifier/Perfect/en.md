@@ -33,7 +33,7 @@ Any of the following acts **will cause** the Perfect mod to restart the beatmap:
 - Missing a note
 - Obtaining a GOOD or MEH
 - Failing a spinner
-- Sliderbreaking
+- Dropping a slider's [tail](/wiki/Gameplay/Hit_object/Slider/Slidertail) or doing a [slider break](/wiki/Gameplay/Judgement/Slider_break)
 
 Any of the following acts **will not cause** the Perfect mod to restart the beatmap:
 
@@ -46,8 +46,7 @@ This mod has the same effect across all [game modes](/wiki/Game_mode)
 
 ## Trivia
 
-- If there is a skippable prologue, the Perfect mod will not automatically skip it because it uses restart functionality as opposed to a quick-retry.
-- The Perfect mod is a variant of the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) mod.
+- If there is a skippable prologue, the Perfect mod will not automatically skip it, because it uses restart functionality, as opposed to a quick retry.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
