@@ -7,6 +7,8 @@ tags:
   - mod
   - game modifier
   - PF
+outdated_translation: true
+outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # 퍼펙트 (모드)
