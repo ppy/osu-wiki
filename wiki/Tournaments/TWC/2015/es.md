@@ -6,7 +6,7 @@ tags:
 
 # osu! Taiko World Cup 2015
 
-![Logo de la TWC 2015](img/logo.png)
+![Logotipo de la TWC 2015](img/logo.png)
 
 La **osu! Taiko World Cup 2015** (***TWC 2015***) fue un torneo de osu!taiko por países organizado por el [osu! team](https://osu.ppy.sh/groups/26). Fue la quinta edición de la osu!taiko World Cup.
 
