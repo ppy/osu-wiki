@@ -6,7 +6,7 @@
 
 #### osu! University
 
-![Logotipo del servidor](img/logo.png "Logotipo del servidor osu! University, diseñado por joiechii")
+![Logo del servidor](img/logo.png "Logo del servidor osu! University, diseñado por joiechii")
 
 |  |  |
 | :-- | :-- |
