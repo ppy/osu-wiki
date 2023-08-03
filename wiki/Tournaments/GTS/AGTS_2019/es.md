@@ -7,7 +7,7 @@ tags:
 
 # Advanced Global Taiko Showdown 2019
 
-![Logotipo del AGTS 2019](img/logo.jpg)
+![Logo del AGTS 2019](img/logo.jpg)
 
 El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundial avanzado de osu!taiko de doble eliminación 2 contra 2 por países organizado por ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Fue la primera entrega del Advanced Global Taiko Showdown y forma parte de la serie Global Taiko Showdown.
 
