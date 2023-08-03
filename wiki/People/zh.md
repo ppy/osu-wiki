@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
----
-
 # 成员
 
 这里是团队人员及其文章的索引页。
@@ -12,8 +7,10 @@ outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
 - [账户支持团队](Account_support_team)
 - [谱面审核成员 (BN)](Beatmap_Nominators)
 - [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators)
+- [百夫长](Centurions)
 - [社区贡献者](Community_Contributors)
 - [开发者](Developers)
+- [优秀提名者](Elite_Nominators)
 - [精选艺术家](Featured_Artists)
 - [全局管理团队 (GMT)](Global_Moderation_Team)
 - [审核评估团队 (NAT)](Nomination_Assessment_Team)

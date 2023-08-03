@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-**Beatmap** (atau yang terkadang disebut sebagai *beatmapset*) merupakan kumpulan level permainan ([tingkat kesulitan](#tingkat-kesulitan)) untuk suatu lagu yang di dalamnya tersusun atas berbagai [objek permainan](/wiki/Gameplay/Hit_object). Di samping data seputar level permainan itu sendiri, beatmap juga mengandung berbagai komponen lainnya yang terkemas dalam [arsip .osz](/wiki/Client/File_formats/Osz_(file_format)) sebagai berikut:
+**Beatmap** (atau yang terkadang disebut sebagai *beatmapset*) merupakan kumpulan level permainan ([tingkat kesulitan](#tingkat-kesulitan)) untuk suatu lagu yang di dalamnya tersusun atas berbagai [objek permainan](/wiki/Gameplay/Hit_object). Di samping data seputar level permainan itu sendiri, beatmap juga mengandung berbagai komponen lainnya yang terkemas dalam [arsip .osz](/wiki/Client/File_formats/osz_(file_format)) sebagai berikut:
 
 - berkas lagu yang bersangkutan, yang tersimpan dalam format MP3 atau Ogg.
 - [gambar latar](/wiki/Beatmap/Background) atau video, yang akan muncul dalam area permainan (*playfield*).
@@ -20,7 +20,7 @@ tags:
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/Osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
+*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
 
 ## Submisi
 

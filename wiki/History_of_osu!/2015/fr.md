@@ -74,7 +74,7 @@ Le 26 septembre 2015, [cYsmix](http://cysmix.com/) est devenu l'un des premiers 
 
 ![](img/cysmix-album-cover-1.jpg "La couverture de l'album de cYsmix, la première publication de musiques officielles d'osu!")
 
-Chaque morceau avait son propre fichier [`.osz`](/wiki/Client/File_formats/Osz_(file_format)) pré-timé inclus avec lui et ont été publiés sur [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) le 28 septembre 2015.
+Chaque morceau avait son propre fichier [`.osz`](/wiki/Client/File_formats/osz_(file_format)) pré-timé inclus avec lui et ont été publiés sur [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) le 28 septembre 2015.
 
 En plus de cela, un "open bounty" nommé "Mapping With Rewards" a été créé pour cet événement, qui permettait à quiconque de mapper l'une des musiques mentionnés ci-dessus, de la faire classée, et si c'était assez impressionnant, cette personne recevrait un bounty pour cela. La récompense offerte à l'époque était la suivante : une musique avec le client (pour une période limitée), 50 $ de crédit osu!store, 6 mois de tag supporter et un badge de profil unique. Ce bounty ouvert a été créé pour récompenser les joueurs pour la qualité de leurs beatmaps et pour célébrer les nouvelles musiques sans avoir à subir les inconvénients des concours de mapping traditionnels.[^ppy-blog-sep-mwr]
 

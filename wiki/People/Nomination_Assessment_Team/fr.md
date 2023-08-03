@@ -81,7 +81,6 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structurel[^task-mo] |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais | Évaluation |
@@ -89,11 +88,13 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Néerlandais | Évaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluation, structurel |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Évaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structurel[^task-naxess] |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Évaluation |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | Évaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structurel[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluation, structurel |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, serbe | Évaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Évaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluation |
@@ -113,6 +114,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espagnol, allemand | Évaluation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Évaluation |
 
 ### osu!mania
 
@@ -120,7 +122,6 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamien | Évaluation |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinois | Évaluation |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Coréen | Évaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluation |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danois | Évaluation |
 

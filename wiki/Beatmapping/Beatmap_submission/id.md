@@ -24,4 +24,4 @@ Beatmap akan gagal diunggah jika beatmap tersebut melebihi batas ukuran file ata
 
 Masing-masing pengguna juga memiliki batasan jumlah beatmap yang dapat diunggah pada satu waktu. Batasan tersebut tergantung dari berapa banyak ranked beatmap yang dimilikinya dan apakah mereka memiliki [osu!supporter](/wiki/osu!supporter). Pengguna tanpa osu!supporter memiliki 4 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 4). Sedangkan dengan osu!supporter, ditambah menjadi 8 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 12) jadi total 20.
 
-Kecepatan unggah tergantung dari file apa yang sudah diubah. Jika [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) saja yang diubah, berarti hanya itu saja yang diunggah. Jika aset yang lain diubah, seluruh file pada beatmap folder akan diproses dan diunggah.
+Kecepatan unggah tergantung dari file apa yang sudah diubah. Jika [`.osu`](/wiki/Client/File_formats/osu_(file_format)) saja yang diubah, berarti hanya itu saja yang diunggah. Jika aset yang lain diubah, seluruh file pada beatmap folder akan diproses dan diunggah.
