@@ -7,7 +7,7 @@ tags:
 
 # Advanced Global Taiko Showdown 2019
 
-![Logo del AGTS 2019](img/logo.jpg)
+![Logotipo del AGTS 2019](img/logo.jpg)
 
 El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundial avanzado de osu!taiko de doble eliminación 2 contra 2 por países organizado por ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Fue la primera entrega del Advanced Global Taiko Showdown y forma parte de la serie Global Taiko Showdown.
 
@@ -55,7 +55,7 @@ El Advanced Global Taiko Showdown 2019 fue dirigido por varios miembros de la co
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/931003)
 - [Servidor de Discord GTS](https://discord.gg/3mGC3HB)
-- [Directo](https://www.twitch.tv/gtsosu)
+- [Transmisión en directo](https://www.twitch.tv/gtsosu)
 - [Brackets de Challonge](https://challonge.com/AGTS2019)
 - **[Hoja de estadísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
@@ -401,9 +401,9 @@ Domingo, 18 de agosto de 2019:
 2. Los equipos jugarán primero en una **fase de grupos** y después jugarán en una **fase de doble eliminación**.
 3. El sistema de puntuación que se utilizará es el **Score V2**.
 4. Cualquier jugador que cumpla los requisitos establecidos en la parte de restricciones de rango puede jugar. Dado que el objetivo del torneo es conseguir insignias, algunos jugadores podrían ser rechazados por el osu! staff.
-5. Cualquier miembro del personal, aparte de **administración, selectores de la mappool y árbitros**, está autorizado a jugar.
+5. Cualquier miembro del personal, excepto **administración, selectores de la mappool y árbitros**, puede jugar.
 6. Los jugadores y los miembros del personal deben haber leído este reglamento en su totalidad. (Y asumiremos que lo han hecho durante todo el torneo).
-7. Todos los participantes deben ser respetuosos y mantener una actitud adecuada. No seguir esta regla puede resultar en una prohibición/blacklist del torneo. Esta regla concierne también a todo el personal.
+7. Todos los participantes deben ser respetuosos y mantener una actitud adecuada. No seguir esta regla puede resultar en una prohibición/lista negra del torneo. Esta regla concierne también a todo el personal.
 8. Cualquier cambio en las reglas o imprevisto será anunciado en el hilo y en el servidor de Discord.
 
 ### Restricciones de rango
@@ -440,7 +440,7 @@ Domingo, 18 de agosto de 2019:
    2. Mayor puntuación (número de beatmaps ganados - número de mapas perdidos).
    3. Mayor número de beatmaps ganados.
    4. Ganador del partido jugado previamente entre los equipos empatados.
-7. En la fase de grupos, se considerará «victoria por incomparecencia» la victoria por 4:0, +1.0 de diferencia de puntuación.
+7. En la fase de grupos, se considerará «victoria por ausencia» la victoria por 4:0, +1.0 de diferencia de puntuación.
 8. La condición para ganar en cada fase es
    - Fase de grupos: BO9 (ganar 5 mapas)
    - Cuartos de final: BO11 (ganar 6 mapas)
@@ -450,24 +450,24 @@ Domingo, 18 de agosto de 2019:
 
 1. Habrá 1 mappool para cada una de las siguientes fases: clasificatorias, fase de grupos, cuartos de final, semifinales, finales y gran final.
 2. El bracket de perdedores jugará en el mismo grupo que el bracket de ganadores del mismo fin de semana.
-3. La piscina de las clasificatorias será diferente al resto de rondas, ya que tendrá un formato de 2 mapas NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 mapa DoubleTime.
+3. La pool de las clasificatorias será diferente al resto de rondas, ya que tendrá un formato de 2 mapas NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 mapa DoubleTime.
 4. Cada mappool consta de 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod y Desempate.
 5. Cada mappool constará de 20 mapas.
 6. El tamaño de los brackets Hidden, HardRock, DoubleTime y FreeMod será de 3 en todas las etapas.
 7. El bracket EX se jugará sin mods activados y es la versión más difícil de NoMod, contiene mapas con técnicas de mapeo complicadas, cambios de velocidad, etc.
-8. El grupo FreeMod se juega con FreeMod activado. Cada jugador individual puede elegir **Hidden, HardRock o ambos. Al menos un jugador de cada equipo debe tener al menos un mod activado**.
+8. La pool FreeMod se juega con FreeMod activado. Cada jugador individual puede elegir **Hidden, HardRock o ambos. Al menos un jugador de cada equipo debe tener al menos un mod activado**.
 9. El Tiebreaker se juega en condiciones FreeMod pero no es necesario que al menos un jugador tenga al menos un modo activado.
-10. El mappool de cada etapa se mostrará una semana antes.
+10. El mappool de cada etapa se presentará una semana antes.
 
 ### Instrucciones de programación
 
-1. Cada etapa se celebrará **durante el fin de semana**. (No obstante, se permite programar en otro día si no se encuentra un buen momento durante el fin de semana).
+1. Cada etapa se celebrará **durante el fin de semana**. (No obstante, se permite programar otro día si no se encuentra un buen momento durante el fin de semana).
 2. Se permite que los partidos se solapen si hay árbitros disponibles.
 3. Intentaremos programar lo mejor posible para ajustarnos a las zonas horarias. El horario se dará a conocer el fin de semana anterior de cada etapa.
 4. Las reprogramaciones solo se tendrán en cuenta si ambos equipos acuerdan una hora, esto debe hacerse y notificarse al personal del torneo antes del **jueves a las 23:59 UTC+0** de esa semana concreta en la que se celebra tu partido.
 5. Las reprogramaciones solo podrán ser solicitadas por **el capitán del equipo**.
 
-### Regulaciones de partida
+### Regulaciones del partido
 
 1. Un árbitro creará una sala privada 10 minutos antes del partido. Los capitanes de ambos equipos serán invitados a la sala cuando sea la hora del partido. A continuación, los árbitros o los capitanes invitarán a los demás jugadores a entrar en la sala.
 2. Si no hay personal o árbitro disponible, el partido se aplazará.
@@ -475,10 +475,10 @@ Domingo, 18 de agosto de 2019:
 4. Si ninguno de los dos equipos tiene el mínimo de jugadores requeridos después de 10 minutos, contará como una derrota para ambos equipos en la fase de grupos. En el cuadro de doble eliminación, avanzará el equipo mejor clasificado.
 5. El partido se jugará como TeamVs y ScoreV2 y el nombre de la sala debe ser: «AGTS 2019: (Equipo Rojo) vs (Equipo Azul)».
 6. A cada equipo se le permite un calentamiento, pero debe ser inferior a 4 minutos. Todo el mundo puede entrar en la sala durante el calentamiento.
-7. Cada capitán tiene que prohibir **un beatmap** para ser seleccionado del grupo (aparte del desempate). Estos beatmaps no podrán ser elegidos por ningún equipo en todo el partido.
+7. Cada capitán tiene que prohibir **un beatmap** para ser seleccionado de la pool (aparte del desempate). Estos beatmaps no podrán ser elegidos por ningún equipo en todo el partido.
 8. El capitán de cada equipo tirará con el comando `!roll` en el chat.
-9. El equipo con **la tirada más alta prohibe al segundo y elige primero**. El equipo con **la tirada más baja prohibe al primero y elige segundo**.
-10. La selección del beatmap alternará entonces entre cada capitán seleccionando un beatmap de la piscina de mapas.
+9. El equipo con **la tirada más alta prohibe segundo y elige primero**. El equipo con **la tirada más baja prohibe primero y elige segundo**.
+10. La selección del beatmap alternará entonces entre cada capitán seleccionando un beatmap de la map pool.
 11. Los capitanes podrán elegir libremente de cualquier bracket.
 12. El intercambio de jugadores durante un partido está permitido sin limitaciones.
 13. Si un jugador se desconecta entre los beatmaps y el equipo no puede proporcionar un intercambio, el partido puede retrasarse 10 minutos como máximo.
@@ -495,9 +495,9 @@ All-star es un divertido evento que tendrá lugar el mismo fin de semana que la 
 1. En este evento participarán 12 jugadores. Se decidirán por votación.
 2. Los 12 mejores jugadores jugarán en el all-star. Si hay más de 2 jugadores de un país entre los 12 más votados solo los 2 mejores participarán en el all-star.
 3. Los 2 jugadores más votados serán los capitanes de cada equipo y elegirán en la lista de los siguientes 10 jugadores más votados. El jugador más votado empezará a elegir primero. La votación se hará al estilo «snake draft picking», así es como funcionará: A->B->B->A->A->B->B->A->A->B.
-4. En primer lugar, se celebrarán 2 combates de battle royale 3 contra 3 con un mappool de 12 mapas (2 NM,HR,HD,DT,FM,EX). (EX = mapas más difíciles) Los mapas se eligen al azar con un generador de nombres aleatorios a través de la rueda giratoria.
+4. En primer lugar, se celebrarán 2 partidos de battle royale 3 contra 3 con un mappool de 12 mapas (2 NM,HR,HD,DT,FM,EX). (EX = mapas más difíciles) Los mapas se eligen al azar con un generador de nombres aleatorios a través de la rueda giratoria.
 5. También se celebrará un partido 4 contra 4 con las siguientes reglas:
-   - Mappool de 5 NM, HR, HD, DT, FM, EX, y 1 TB (mismas reglas para mods que los partidos normales).
+   - Mappool de 5 NM, HR, HD, DT, FM, EX, y 1 TB (mismas reglas para mods y partidos normales).
    - No se dispondrá de canalizaciones de mapas.
    - El mod utilizado se elegirá al azar según una tirada (de acuerdo con una tabla) y después se elegirá el mapa.
    - El intercambio de jugadores durante un partido está permitido sin limitaciones.
