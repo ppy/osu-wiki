@@ -16,7 +16,7 @@ El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundi
 | Evento | Marca de tiempo |
 | --: | :-- |
 | Fase de registro | 7/7/2019 - 21/7/2019 |
-| Duelos en vivo | 4/8/2019 (15:00 UTC) |
+| Sorteos en vivo | 4/8/2019 (15:00 UTC) |
 | Clasificatorias | 10/8/2019 - 11/8/2019 |
 | Fase de grupos | 17/8/2019 - 18/8/2019 |
 | Cuartos de final | 24/8/2019 - 25/8/2019 |
@@ -28,9 +28,9 @@ El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundi
 
 | Posición | Premios |
 | :-: | :-- |
-| ![Corona de oro](/wiki/shared/crown-gold.png "Primer lugar") | Insignia de perfil única, pancarta exclusiva del equipo |
-| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | Pancarta exclusivo del equipo |
-| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | Pancarta exclusivo del equipo |
+| ![Corona de oro](/wiki/shared/crown-gold.png "Primer lugar") | Insignia de perfil única, banner exclusivo del equipo |
+| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | Banner exclusivo del equipo |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | Banner exclusivo del equipo |
 
 ![](img/badge.png "Insignia del ganador del AGTS 2019")
 
@@ -96,7 +96,7 @@ El Advanced Global Taiko Showdown 2019 fue dirigido por varios miembros de la co
 
 ## Grupos
 
-| Grupo | Top seed | High seed | Low seed | Unseeded |
+| Grupo | Semilla superior | Semilla alta | Semilla baja | Sin semilla |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=PL }:: Polonia | ::{ flag=RU }:: Federación de Rusia B | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia |
 | **B** | ::{ flag=JP }:: Japón | ::{ flag=AR }:: Argentina | ::{ flag=HK }:: Hong Kong | ::{ flag=CL }:: Chile |
@@ -109,7 +109,7 @@ El Advanced Global Taiko Showdown 2019 fue dirigido por varios miembros de la co
 
 Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
-| Placing | Country |
+| Puesto | País |
 | :-: | :-- |
 | ![Corona de oro](/wiki/shared/crown-gold.png "Primer puesto") | ::{ flag=JP }:: Japón |
 | ![Corona de plata](/wiki/shared/crown-silver.png "Segundo puesto") | ::{ flag=CA }:: Canadá |
@@ -119,7 +119,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Gran final
 
-**[¡Descarga el mappack aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[¡Descarga el paquete de mapas aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   1. [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -148,7 +148,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Finales
 
-**[¡Descarga el mappack aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[¡Descarga el paquete de mapas aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   1. [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -177,7 +177,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Semifinales
 
-**[¡Descarga el mappack aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[¡Descarga el paquete de mapas aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   1. [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -206,7 +206,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Cuartos de final
 
-**[¡Descarga el mappack aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[¡Descarga el paquete de mapas aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   1. [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -234,7 +234,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Fase de grupos
 
-**[¡Descarga el mappack aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[¡Descarga el paquete de mapas aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   1. [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -266,7 +266,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Clasificatorias
 
-**[¡Descarga el mappack aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[¡Descarga el paquete de mapas aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   1. [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -400,7 +400,7 @@ Domingo, 18 de agosto de 2019:
 1. Advanced Global Taiko Showdown es un **torneo por equipos de 2 contra 2** con equipos de **máximo 5 jugadores**.
 2. Los equipos jugarán primero en una **fase de grupos** y después jugarán en una **fase de doble eliminación**.
 3. El sistema de puntuación que se utilizará es el **Score V2**.
-4. Cualquier jugador que cumpla los requisitos establecidos en la parte de restricciones de rango puede jugar. ¡Dado que el objetivo del torneo es conseguir insignias, algunos jugadores podrían ser rechazados por el osu! staff.
+4. Cualquier jugador que cumpla los requisitos establecidos en la parte de restricciones de rango puede jugar. Dado que el objetivo del torneo es conseguir insignias, algunos jugadores podrían ser rechazados por el osu! staff.
 5. Cualquier miembro del personal, aparte de **administración, selectores de la mappool y árbitros**, está autorizado a jugar.
 6. Los jugadores y los miembros del personal deben haber leído este reglamento en su totalidad. (Y asumiremos que lo han hecho durante todo el torneo).
 7. Todos los participantes deben ser respetuosos y mantener una actitud adecuada. No seguir esta regla puede resultar en una prohibición/blacklist del torneo. Esta regla concierne también a todo el personal.
@@ -449,12 +449,12 @@ Domingo, 18 de agosto de 2019:
 ### Instrucciones de la mappool
 
 1. Habrá 1 mappool para cada una de las siguientes fases: clasificatorias, fase de grupos, cuartos de final, semifinales, finales y gran final.
-2. El cuadro de perdedores jugará en el mismo grupo que el cuadro de ganadores del mismo fin de semana.
+2. El bracket de perdedores jugará en el mismo grupo que el bracket de ganadores del mismo fin de semana.
 3. La piscina de las clasificatorias será diferente al resto de rondas, ya que tendrá un formato de 2 mapas NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 mapa DoubleTime.
-4. Cada mappool consta de 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod y Tiebreaker.
+4. Cada mappool consta de 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod y Desempate.
 5. Cada mappool constará de 20 mapas.
 6. El tamaño de los brackets Hidden, HardRock, DoubleTime y FreeMod será de 3 en todas las etapas.
-7. El bracket EX se jugará sin mods activados y es la versión más dura de NoMod, contiene mapas con técnica de mapeo complicada, cambios de velocidad, etc.
+7. El bracket EX se jugará sin mods activados y es la versión más difícil de NoMod, contiene mapas con técnicas de mapeo complicadas, cambios de velocidad, etc.
 8. El grupo FreeMod se juega con FreeMod activado. Cada jugador individual puede elegir **Hidden, HardRock o ambos. Al menos un jugador de cada equipo debe tener al menos un mod activado**.
 9. El Tiebreaker se juega en condiciones FreeMod pero no es necesario que al menos un jugador tenga al menos un modo activado.
 10. El mappool de cada etapa se mostrará una semana antes.
@@ -473,8 +473,8 @@ Domingo, 18 de agosto de 2019:
 2. Si no hay personal o árbitro disponible, el partido se aplazará.
 3. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se puede aplazar el partido es de 10 minutos.
 4. Si ninguno de los dos equipos tiene el mínimo de jugadores requeridos después de 10 minutos, contará como una derrota para ambos equipos en la fase de grupos. En el cuadro de doble eliminación, avanzará el equipo mejor clasificado.
-5. El partido se jugará como TeamVs y ScoreV2 y el nombre de la sala debe ser:  «AGTS 2019: (Equipo Rojo) vs (Equipo Azul)».
-6. A cada equipo se le permite un calentamiento, pero debe ser inferior a 4 minutos. Todo el mundo está permitido en la sala durante los calentamientos.
+5. El partido se jugará como TeamVs y ScoreV2 y el nombre de la sala debe ser: «AGTS 2019: (Equipo Rojo) vs (Equipo Azul)».
+6. A cada equipo se le permite un calentamiento, pero debe ser inferior a 4 minutos. Todo el mundo puede entrar en la sala durante el calentamiento.
 7. Cada capitán tiene que prohibir **un beatmap** para ser seleccionado del grupo (aparte del desempate). Estos beatmaps no podrán ser elegidos por ningún equipo en todo el partido.
 8. El capitán de cada equipo tirará con el comando `!roll` en el chat.
 9. El equipo con **la tirada más alta prohibe al segundo y elige primero**. El equipo con **la tirada más baja prohibe al primero y elige segundo**.
@@ -500,5 +500,5 @@ All-star es un divertido evento que tendrá lugar el mismo fin de semana que la 
    - Mappool de 5 NM, HR, HD, DT, FM, EX, y 1 TB (mismas reglas para mods que los partidos normales).
    - No se dispondrá de canalizaciones de mapas.
    - El mod utilizado se elegirá al azar según una tirada (de acuerdo con una tabla) y después se elegirá el mapa.
-   - El intercambio de jugadores durante una partida está permitido sin limitaciones.
-   - Mismas reglas que en una partida normal para las desconexiones.
+   - El intercambio de jugadores durante un partido está permitido sin limitaciones.
+   - Mismas reglas que en un partido normal para las desconexiones.
