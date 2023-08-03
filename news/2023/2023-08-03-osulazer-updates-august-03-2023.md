@@ -8,7 +8,7 @@ Tune in for the latest batch of various improvements to osu!(lazer)!
 
 ![](/wiki/shared/news/2023-07-16-osulazer-updates-july-16-2023/banner.jpg)
 
-Before we jump straight into the updates, you can also find them in a video format with the video below, presented by [pishifat](https://osu.ppy.sh/users/3178418)!
+Before we jump straight into the updates, you can also find them in a video format below, presented by [pishifat](https://osu.ppy.sh/users/3178418)!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -17,8 +17,8 @@ Before we jump straight into the updates, you can also find them in a video form
 ### Changes
 
 - **Kiai fountains are back!** If the main menu of osu!(lazer) felt dull so far, with this update that is certainly no longer the case! If you are unfamiliar with what the fountains are, they are the bars that react to the music around the osu! cookie.
-- **Various editor improvements.** Various proposed changes and quality of life improvements from stable have been implemented, the biggest one of them being able to export maps made in osu!(lazer) in such a way that they will be compatible with stable!
-- **Gameplay and multiplayer changes.** Things such as fixes for offset calibration and global timing, spinner animations being changed to match inputs, and a toggle for all free mods in multiplayer song select have all been added or fixed.
+- **Various editor improvements.** Proposed changes and quality of life improvements from stable have been implemented, the biggest one of them being able to export maps made in osu!(lazer) in such a way that they will be compatible with stable.
+- **Gameplay and multiplayer changes.** Things such as fixes for offset calibration and global timing, spinner animations being changed to match inputs, and a toggle for all free mods in multiplayer song select have all been fixed or added.
 - **Spectator screen and tournament client additions.** A first pass has been done to the multiplayer spectator screen, with a lot more changes to come. The tournament client has received grid snap for moveable objects (such as the tournament ladder), a counter for absolute score difference near the score bars and general updates to the buttons and layouts.
 - **Performance improvements in song select.** While not going into the too nerdy details, major performance improvements have been done for iOS and Android, as well as some smaller ones for desktop platforms.
 
