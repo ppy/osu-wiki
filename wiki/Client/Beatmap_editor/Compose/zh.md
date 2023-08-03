@@ -1,3 +1,8 @@
+---
+outdated_since: 5a3f6fe8caada3a78eff1bd3c26168a031475e88
+outdated_translation: true
+---
+
 # Compose
 
 ![视窗模式下的 osu! 编辑器 Compose 画面](img/Compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")

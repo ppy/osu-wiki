@@ -1,3 +1,8 @@
+---
+outdated_since: 5a3f6fe8caada3a78eff1bd3c26168a031475e88
+outdated_translation: true
+---
+
 # L'onglet Compose
 
 ![L'onglet Compose pour le mode osu!](img/Compose-FR.png "L'onglet Compose pour le mode osu!")

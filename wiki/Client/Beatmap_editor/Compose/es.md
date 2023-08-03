@@ -1,3 +1,8 @@
+---
+outdated_since: 5a3f6fe8caada3a78eff1bd3c26168a031475e88
+outdated_translation: true
+---
+
 # Componer
 
 ![Editor de composición para osu! en modo ventana](img/Compose.jpg "Editor de composición para osu! en modo ventana")
