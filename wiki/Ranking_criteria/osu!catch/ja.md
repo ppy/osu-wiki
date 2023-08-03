@@ -93,7 +93,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 #### Rules
 
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は禁止されています。** 初心者プレイヤーにとって扱いやすい難易度のステップを確保するためです。
-- **[ダッシュ](/wiki/Gameplay/Dash)の二つのオブジェクトの間には少なくとも125msが必要です。**
+- **[ダッシュ](/wiki/Gameplay/Dash)は二つのオブジェクトの間には少なくとも125msが必要です。**
 - **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
 - **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[歩く](/wiki/Gameplay/Walk)ことがないといけないです**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash)は禁止されています。** 非常に正確なタイミング必要があるので初心者プレイヤーにとっては不当です。
@@ -102,7 +102,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 #### Guidelines
 
 - **すべての距離はプレイヤーに[歩く](/wiki/Gameplay/Walk)と[ダッシュ](/wiki/Gameplay/Dash)を明確に示すべきです。** ダッシュが必要なパターンを簡単に読めるようのことです。
-- **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は違うビートスナップが使用されている場合に連続して使われるべきではありません。** 例えば、1/1のダッシュの後に1/2のダッシュを使うことは避けてください。
+- **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は違うビートスナップに連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)の間に二回以上は使用してはいけません。** 例えば、1/1のダッシュの後に1/2のダッシュを使うことは避けてください。
 - **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンはいけません。**
 - **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に10つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
@@ -118,11 +118,11 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### Rules
 
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) must have at least a 125 ms gap between their two objects.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) cannot be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) of a different beat snap must not be used between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).** For example, a 1/2 hyperdash followed by a 1/4 hyperdash.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other [dashes](/wiki/Gameplay/Dash) or hyperdashes.**
+- **[[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は二つのオブジェクトの間には少なくとも125msが必要です。**
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は個々の[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)やスライダーのリピートには使用できません。** プレイヤーはこのレベルでは必要な精度とコントロールがありませんからスライダーの道を読み取ることに失敗する可能性が多いです
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は違うビートスナップに連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)の間に二回以上は使用してはいけません。** 例えば、1/2のハイパーダッシュの後に1/4のハイパーダッシュを使うことは避けてください。
+- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は他の[ダッシュ](/wiki/Gameplay/Dash)やハイパーダッシュと組み合わせて使用してはいけません。**
 - **[Dashes](/wiki/Gameplay/Dash) must have at least a 62 ms gap between their two objects.**
 - **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
 - **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) can be used up to two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit), provided there isn't a direction change between them.**
