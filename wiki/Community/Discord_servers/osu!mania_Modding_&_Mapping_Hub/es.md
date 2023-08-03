@@ -6,7 +6,7 @@
 
 #### osu!mania Modding & Mapping Hub
 
-![Banner del servidor](img/banner.jpg "Banner del servidor osu!mania Modding & Mapping Hub, diseñado por Leniane")
+![Cartel del servidor](img/banner.jpg "Cartel del servidor osu!mania Modding & Mapping Hub, diseñado por Leniane")
 
 |  |  |
 | :-- | :-- |

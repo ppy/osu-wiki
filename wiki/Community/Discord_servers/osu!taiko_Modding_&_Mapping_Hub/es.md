@@ -6,7 +6,7 @@
 
 #### osu!taiko Modding & Mapping Hub
 
-![Banner del servidor](img/banner.jpg "Banner del servidor osu!taiko Modding & Mapping Hub, diseñado por Jerry")
+![Cartel del servidor](img/banner.jpg "Cartel del servidor osu!taiko Modding & Mapping Hub, diseñado por Jerry")
 
 |  |  |
 | :-- | :-- |
