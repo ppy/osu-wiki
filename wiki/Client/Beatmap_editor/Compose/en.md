@@ -1,167 +1,113 @@
 # Compose tab
 
-![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
+![Compose editor for osu!](img/Compose.jpg "Compose editor for osu!")
 
-![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
+![Compose editor for osu!mania](img/ComposeMania.jpg "Compose editor for osu!mania")
 
-**Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
+**Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and timing sections. This is also the place where players can practice a ranked difficulty and inspect its design skin.
 
-Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
+Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania.
 
 ## Features (osu!)
 
-For a newbie guide: [Beatmapping](/wiki/Beatmapping).
+*For a newbie guide, see: [Beatmapping](/wiki/Beatmapping)*
 
-(Starting from top-down left-right order)
-
-### Top-Left (Hit Objects Timeline)
+### Top-left (Hit objects timeline)
 
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
 
-![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
+![Hit objects timeline](/wiki/shared/BE_NTL.jpg "Timeline for hit objects with respect to Beat Snap Divisor and timestamp")
 
-**Shows the timeline for hit objects with respect to Beat Snap Divisor and timestamp.**
-
-#### Hit Object Timeline
+#### Hit object timeline
 
 | Name | Description |
 | :-- | :-- |
-| `+`/`-` buttons | Increase/Decrease timeline zoom |
-| Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
-| Click on hit object | **Left-Click:** Select / Move hit object against timeline. **Right-Click:** Remove hit object. |
+| `+`/`-` buttons | Increases/Decreases timeline zoom. |
+| Double white vertical lines | Current timestamp with respect to the hit objects timeline. |
+| Click on hit object | `Left click`: Select/Move hit object against timeline. `Right click`: Remove hit object. |
 
-### Top-Right (Beat Snap Divisor)
+### Top-right (Beat Snap Divisor)
 
 ![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
 
-**In layman's's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).**
+| Name | Description |
+| :-- | :-- |
+| [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limits where hit objects can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the hit objects. |
+| `Insert Break Time` | This button will start/stop [break](/wiki/Beatmap/Break) time in current timestamp. |
+| x/y | The current mouse coordinate. |
 
-Hold `Alt` to trigger Distance Snap. The value can range from x0.1–x2.0.
+Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0x.
 
-#### Divisor 1/1
+### Centre-left (Selector)
 
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
-
-- Full Beats
-- White ticks only
-- Best used for Easy difficulty
-
-#### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
-
-- Half Beats
-- Adds red ticks
-
-#### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
-
-- Triplets*
-- Has two purple ticks between each white tick
-- Compound timing
-
-#### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
-
-- Quarter Beats
-- Adds blue ticks, in addition to the red ticks
-- Useful for general mapping
-
-#### Divisor 1/6
-
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
-
-- Double Triplets*
-- Has two purple ticks between each red tick
-- Compound timing
-
-#### Divisor 1/8
-
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
-
-- Eighth Beats
-- Adds yellow ticks, in addition to the red and blue
-
-**Insert Break Time** button will start/stop "Break Time" in current timestamp and **x/y** is current mouse coordinate.
-
-### Centre-Left (Selector)
-
-![Hit Notes Selector](img/BE_HO.jpg "Hit Notes Selector")
-
-**Your construction toolkit, made for DIY (do it yourself).**
-
-**Please note that in osu!, default note hitsounds work differently than in osu!mania.**
-
-- Adding clap on a notes will play `hitclap` + `hitnormal` sound on hit while in osu!mania: will only play `hitclap` sound on hit
+![Hit objects selector](img/BE_HO.jpg "Hit objects selector")
 
 #### Selector
 
-| Buttons / Header (Keyboard Shortcut) | Usage | Description |
+| Buttons/Header (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Sampleset | Auto, Normal, Soft, Drum | This ignore the timing section's Sampleset setting , and add the selected one... e.g. Timing point with **soft 77%**, While this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
-| Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
-| Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
-| Circle (`2`) | **Left/Right-click:** Add/Remove hit circle. | Hit Circle. |
-| Slider (`3`) | **Left/Right-click:** Start/End Slider. Add/Remove sliderpoints (white square). **Left-Click x2:** New curve section (red square). | Slider. |
-| Spinner (`4`) | **Left/Right-click:** Start/End Spinner at current timestamp. | Spinner. Make sure Auto can at least score 2,000 Bonus per Spinner (to prevent the infamous spinner spam/ninja spinner). |
+| `Sampleset` | Auto, Normal, Soft, Drum | This ignores the timing section's sampleset setting, and add the selected one. |
+| `Additions` | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the selected set. |
+| `Select` (`1`) | `Left click`**/drag**: Select/Adjust the objects/sliderpoints location. `Right click`: Remove objects/sliderpoints. `Ctrl` + `Click`: Multiple selection. | Select and modify existing hit objects. |
+| `Circle` (`2`) | `Left click`: Add object. | |
+| `Slider` (`3`) | `Left/Right click`: Start/End slider. Add/Remove sliderpoints. **Double** `Left click`: New curve section. | |
+| `Spinner` (`4`) | `Left/Right click`: Start/End spinner at current timestamp. | |
 
 ### Centre (Playfield)
 
-**Visual representation of mapping based on current timestamp.** Map your design here and your design will appear exactly like you mapped during play. This is WYSIWYG (what you see is what you get) mapping. For text-based (usually for fine-tuning) mapping, you can open the `.osu` file directly using Notepad.
+**Visual representation of mapping based on current timestamp**. Map your design here and your design will appear exactly like you mapped during play.
 
-### Centre-Right (Hitsounds & Assist Tools)
+### Centre-right (Hitsounds & Assist tools)
 
-**List of available subtools complement to the original DIY toolkit.**
+![Hitsounds & Assist tools](img/BE_HSAT.jpg "List of available subtools complement to the toolkit")
 
-![Hitsounds & Assist Tools](img/BE_HSAT.jpg "Hitsounds & Assist Tools")
-
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | **Right-click:** Change current note to next combo colour. | Note combo. This is equivalent to a verse / measure in song / instrument script. An acceptable range is about 5-20. |
+| New Combo (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
 
 #### Hitsounds
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | ("Select" on a Hit note) **Left-Click:** Use whistle sound on this note | Add a whistle sound addition to the selection. |
-| Finish (`E`) | ("Select" on a Hit note) **Left-Click:** Use finish sound on this note | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | ("Select" on a Hit note) **Left-Click:** Use clap sound on this note | Add a clap sound addition to the selection. |
+| Whistle (`W`) | **(Select a hit object)** `Left click`: Use whistle sound on this object | Add a whistle sound addition to the selection. |
+| Finish (`E`) | **(Select a hit object)** `Left click`: Use finish sound on this object | Add a finish (cymbal) sound addition to the selection. |
+| Clap (`R`) | **(Select a hit object)** `Left click`: Use clap sound on this object | Add a clap sound addition to the selection. |
 
-#### Assist Tools
+#### Assist tools
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Grid Snap (`T`) | **`Shift` (Hold):** Temporary toggle. **`Ctrl` (Hold):** Temporary disable angle snapping. | Hit notes will be snapped to the grid by default. |
-| Distance Snap (`Y`) | **`Alt` (Hold):** Temporary toggle. Switch Beat Snap Divisor to Distance Snap **`Alt` + Mousewheel:** Adjust Distance Snap multiplier. | Distance between consecutive hit notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
-| Lock Notes (`L`) | ("Select" on a Hit note) **Left-Click:** Lock this note | Lock selected note to current position and timestamp. |
+| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Notes will be snapped to the grid by default. |
+| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive objects will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
+| `Lock Notes` (`L`) | **(Select a hit object)** `Left click`: Lock this object. | Lock selected object to current position and timestamp. |
 
-### Bottom (Song's Timeline)
+### Bottom (Song's timeline)
 
-![Song's Timeline](img/BE_HSAT.jpg "Song's Timeline")
+![Song's timeline](img/BE_HSAT.jpg "Song's timeline")
 
-At the **bottom-left**, there is the **timestamp** in milliseconds (ms) and **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
+At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
-At the **bottom-centre**, there is a **timeline** with markings and the compulsory music player buttons. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
+At **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
+
+At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 
 #### Colour markers
 
 | Colour | Description |
 | :-- | :-- |
-| Bright White Long | Current test section |
-| Yellow Long | Preview point. |
-| Yellow up | Start of Drain time. |
-| Green up | Inherited Points. (See [Timing Setup](/wiki/Client/Beatmap_editor/Timing)) |
-| Red up | Timing Points. (See Timing Setup) |
-| Blue Down | Bookmark |
+| Bright white long | Current test section. |
+| Yellow long | Preview point. |
+| Yellow up | Start of the [drain time](/wiki/Beatmap/Drain_time). |
+| Green up | Inherited points. *See: [Timing tab](/wiki/Client/Beatmap_editor/Timing)* |
+| Red up | Timing points. *See: [Timing tab](/wiki/Client/Beatmap_editor/Timing)* |
+| Blue down | Bookmark. |
 
 #### Colour Highlights
 
 | Colour | Description |
 | :-- | :-- |
-| Grey | Break Time |
-| Orange | Kiai Time |
+| Grey | [Break](/wiki/Beatmap/Break) time |
+| Orange | [Kiai time](/wiki/Gameplay/Kiai_time) |
 
 #### Bookmarking command
 
@@ -169,134 +115,91 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 | :-- | :-- |
 | `Ctrl` + `B` | Add bookmark at current location. |
 | `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
-| `Ctrl` + `Right Arrow` | Next bookmark. |
-| `Ctrl` + `Left Arrow` | Previous bookmark. |
-
-At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
+| `Ctrl` + `Right arrow` | Next bookmark. |
+| `Ctrl` + `Left arrow` | Previous bookmark. |
 
 ## Features (osu!mania)
 
-(The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
+For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118868) and [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
 
-### Top-Right (Beat Snap Divisor)
+### Top-right (Beat Snap Divisor)
 
-![Beat Snap Divisor (osu!mania ver.)](img/BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
+![Beat Snap Divisor in osu!mania](img/BEM_BSD.jpg "Beat Snap Divisor in osu!mania")
 
 *Main article: [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
-**In layman's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).** Since osu!mania highly prioritise every timing of the notes, **Time signature** (MM:B) from the Timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (-8:-3 for example) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
+**Time signature** (MM:B) from the timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (e.g. -8:-3) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
 
-**Insert Break Time** button will put/stop "Break Time" in current timestamp. Beside the button is the **short sound file name storyboarded to the selected(blue) note**, known as **keysound** (refer to "Sampling" section at the end of this page).
+`Insert Break Time` button will start/stop [break](/wiki/Beatmap/Break) time in current timestamp. Beside the button is the **sound file name storyboarded to the selected note**, known as **keysound**. *Refer to the [Sampling](#sampling) section*.
 
-### Centre-Left (Selector)
+### Centre-left (Selector)
 
-**Your construction toolkit osu!mania ver., made for DIY.**
-
-**Please note that in osu!mania's default notes hitsound works different with Standard/osu!**
-
-- Adding clap on a notes will only play `hitclap` sound instead of `hitclap` + `hitnormal` sound on hit while in osu!mania :
-
-![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
+![Notes selector for osu!mania](img/BEM_HO.jpg "Notes selector for osu!mania")
 
 #### Selector
 
-| Buttons / Header (Keyboard Shortcut) | Usage | Description |
+| Buttons/Header (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Sampleset | Auto, Normal, Soft, Drum | Change the Sampleset ignoring the current one on timing section. Ex : Timing **Drum 66%**, while this Sampleset is **Soft**, will play all related **Soft** sound on the notes like clap , normal , finish, whistle with 66% volume. |
-| Additions | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
-| Select (`1`) | **Left-click/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
-| Circle (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
-| Hold (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
+| `Sampleset` | Auto, Normal, Soft, Drum | Change the sampleset ignoring the current one on timing section. |
+| `Additions` | Auto, Normal, Soft, Drum | Same as above, but overrides the `Sampleset` setting. |
+| `Select` (`1`) | `Left click`**/drag**: Move timestamp and location of a note. `Right click`: Remove note. `Ctrl` **+** `Left click`: Multiple selection. | Select and modify existing notes. |
+| `Circle` (`2`) | `Left click`: Place note. `Right click`: Remove note. | Add note to current column based on mouse position. |
+| `Hold` (`3`) | **Hold** `Left click`: Place hold note and adjust length. **Release on end**: Set hold end | Add hold note to current column based on mouse position. |
 
 ### Centre (Playfield)
 
-![osu!mania playfield](/wiki/shared/BEM_PF.jpg "osu!mania playfield")
+![osu!mania playfield](/wiki/shared/BEM_PF.jpg "Visual representation of mapping based on current timestamp")
 
-**Visual representation of mapping based on current timestamp.**
-
-#### Playfield Boxes
+#### Playfield boxes
 
 | Name | Description |
 | :-- | :-- |
 | Left Box | Notes intensity (Timeline). |
-| Centre | Actual Playfield ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)). |
+| Centre | Actual playfield ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)). |
 
 #### Colour notes
 
 | Name | Description |
 | :-- | :-- |
 | Double white line | Measure |
-| White line | Common Time |
-| Green line | You / [Judgement](/wiki/Gameplay/Judgement) Line |
-| Blue colour | Currently-selected note |
+| White line | Common time |
+| Green line | You/[Judgement](/wiki/Gameplay/Judgement) line |
+| Blue colour | Currently selected note |
 | White/Pink/Yellow colour | Normal notes colour |
 
-#### Divisor 1/1
+### Centre-right (Hitsounds & Assist tools)
 
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
+![Hitsounds & Assist tools](img/BE_HSAT.jpg "List of available subtools complement to the toolkit")
 
-- Full Beats
-- White ticks only
-- Best used for Easy difficulty
-
-#### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
-
-- Half Beats
-- Adds red ticks
-
-#### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
-
-- Triplets
-- Has two purple ticks between each white tick
-- Compound Timing
-
-#### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
-
-- Quarter Beats
-- Adds blue ticks, in addition to the red ticks
-- Useful for general mapping
-
-### Centre-Right (Hitsounds & Assist Tools)
-
-![Hitsounds & Assist Tools](img/BE_HSAT.jpg "Hitsounds & Assist Tools")
-
-**List of available subtools complement to the toolkit.**
-
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | **Right-click:** Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
+| New Combo (`Q`) | `Right click`: Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
 
 #### Hitsounds
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | ("Select" on a Hit note) **Left-Click:** Use whistle sound on this note | Add a whistle sound addition to the selection. |
-| Finish (`E`) | ("Select" on a Hit note) **Left-Click:** Use finish sound on this note | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | ("Select" on a Hit note) **Left-Click:** Use clap sound on this note | Add a clap sound addition to the selection. |
+| Whistle (`W`) | **(Select a note)** `Left click`: Use whistle sound on this note | Add a whistle sound addition to the selection. |
+| Finish (`E`) | **(Select a note)** `Left click`: Use finish sound on this note | Add a finish (cymbal) sound addition to the selection. |
+| Clap (`R`) | **(Select a note)** `Left click`: Use clap sound on this note | Add a clap sound addition to the selection. |
 
-#### Assist Tools
+#### Assist tools
 
-| Button (Keyboard Shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Grid Snap (`T`) | **`Shift` (Hold):** Temporary toggle. **`Ctrl` (Hold):** Temporary disable angle snapping. | Hit notes will be snapped to the grid by default. |
-| Distance Snap (`Y`) | **`Alt` (Hold):** Temporary toggle. Switch Beat Snap Divisor to Distance Snap **`Alt` + Mousewheel:** Adjust Distance Snap multiplier. | Distance between consecutive hit notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
-| Lock Notes (`L`) | ("Select" on a Hit note) **Left-Click:** Lock this note | Lock selected note to current position and timestamp. |
+| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Notes will be snapped to the grid by default. |
+| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
+| `Lock Notes` (`L`) | **(Select a note)** `Left click`: Lock this note | Lock selected note to current position and timestamp. |
 
-For **keysound** (adding SE on hitnotes), select the note and **`Alt` + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder). Refer to "Sampling" section at end of page.
+### Bottom (Song's timeline)
 
-### Bottom (Song Timeline)
+![Song's timeline](/wiki/shared/BE_STL.jpg "Song's timeline")
 
-![Song Timeline](/wiki/shared/BE_STL.jpg "Song Timeline")
+At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
-At **bottom-left**, it shows **timestamp in milliseconds (ms)** and **song duration %**.
+At **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
 
-At **bottom-centre**, it shows the **timeline with markings and the compulsory music player buttons.** For "Test" button, your beatmap will be saved to test the beatmap starting on current timestamp.
+At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 
 #### Bookmarking command
 
@@ -304,48 +207,44 @@ At **bottom-centre**, it shows the **timeline with markings and the compulsory m
 | :-- | :-- |
 | `Ctrl` + `B` | Add bookmark at current location. |
 | `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
-| `Ctrl` + `Right` Arrow | Next bookmark. |
-| `Ctrl` + `Left` Arrow | Previous bookmark. |
-
-At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
+| `Ctrl` + `Right arrow` | Next bookmark. |
+| `Ctrl` + `Left arrow` | Previous bookmark. |
 
 ### Sampling
 
-![Sample pop-up window (Windows 8's ver.)](img/Sample_omc.jpg "Sample pop-up window (Windows 8's ver.)")
+![Sample pop-up window](img/Sample_omc.jpg "Sample pop-up window")
 
-**Sampling** is a process of **adding sound to the note.** To begin, select the note and **`Alt` + Left Click** on the selected note (a pop-up window will be shown with sound samples inside your beatmap folder).
+**Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside your beatmap folder.
 
 #### Sample import
 
-**Left-section** is the **list of sound files you have in the beatmap's folder.**
+**Left-section** is the list of sound files you have in the beatmap's folder.
 
-**Right-section** is **settings for the selected sound file.**
+**Right-section** are settings for the selected sound file.
 
-##### Basics
+##### Basic
 
 | Name | Description |
 | :-- | :-- |
-| CustomSet | **Ignoring** selected custom hitsound in this editor, and apply the **default** hitsound **SET** and volume without using timing point. ( Use basic sample must be enable in order to use this to be able to work as its intended )ex : added soft-hitwhistle77.wav with 90% volume.Note that you must add the whistle to the note manually as well. **Also this feature is not recommended while the normal APPLY function in this editor is easier to be used than this one while both of this basically works the same.** |
-| Volume | How loud you want this sound file be. Use integer value only. ( 8 - 100 ) |
-| Use basic sample | **Ignoring** selected custom hitsound in this editor , and apply only the volume on selected notes.This means , no matter what the notes is about, this feature only changes the selected notes volume.Ex : this can be used to change multiple volume on different notes with different hitsound sample at once or just enhance the default hitsound ignoring any timing point's volume setting. |
+| `CustomSet` | **Ignores** selected custom hitsound in this editor, and applies the **default** hitsound set and volume without using timing point. *Notice: `Use basic sample` must be enabled in order to use this to be able to work as it's intended.* |
+| `Volume` | How loud you want this sound file be. Use only integer values from 8 to 100. |
+| `Use basic sample` | **Ignores** selected custom hitsound in this editor, and applies only the volume on selected notes. This means, no matter what the notes are about, this feature only changes the selected notes volume. |
 
 ##### Buttons
 
 | Name | Description |
 | :-- | :-- |
-| Play | Play the selected sound file |
-| Import | Import the custom sound file from a subfolder inside the beatmap's folder |
-| Delete | **Delete the custom sound file.** To remove the sound file associated with the note, use the "Reset" button. |
-| Apply | Apply this selected custom sound file to this note. |
-| Sample | Put this selected custom sound file to the storyboard with respect to current timestamp. |
-| Sample list | Storyboarded sound files. Refer "Sample event list" below |
-| Reset | Remove the sound file associated with the note |
-| Cancel | Close the window. |
+| `Play` | Play the selected sound file. |
+| `Import` | Import the custom sound file from a subfolder inside the beatmap's folder. |
+| `Delete` | Delete the custom sound file. |
+| `Apply` | Apply this selected custom sound file to this note. |
+| `Sample` | Put this selected custom sound file to the storyboard with respect to current timestamp. |
+| `Sample list` | Storyboarded sound files. *Refer to [Sample event list](#sample-event-list) below* |
+| `Reset` | Remove the sound file associated with the note. |
+| `Cancel` | Closes the window. |
 
 #### Sample event list
 
-**Actual storyboarding**. Click on "Sample list" will summon another window (shown in right-side of the picture) named "Sample event list", which would be this. The two buttons should be self-explanatory (Delete = Delete the selected event. Close = Close the window). **These storyboarded elements will go to the `.osu` file (the selected difficulty).**
+Click on `Sample list` will summon another window named `Sample event list`, which would be this. These storyboarded elements will go to the `.osu` file of the selected difficulty.
 
-The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Seconds:Milliseconds respectively.
-
-**Example:** 1:57:745 kick.wav@100% means at 1 min 57 second 745th millisecond, trigger the "kick.wav" file at 100% volume regardless of condition.
+The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means at 1min 57s 745ms, trigger the `kick.wav` file at 100% volume regardless of condition.
