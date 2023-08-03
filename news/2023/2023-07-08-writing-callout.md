@@ -8,7 +8,7 @@ Ever wanted to contribute to osu!'s front page content? Now is the perfect time 
 
 ![](/wiki/shared/news/2023-07-08-writing-callout.md/banner.jpg)
 
-After last years' efforts to spice up the front page with a variety of news posts via the [content call forum post](https://osu.ppy.sh/community/forums/topics/1605337), which led up to [osu!monthly](/wiki/Community/osu!monthly) making a comeback for its [3rd season](/wiki/Community/osu!monthly#season-3-(2022–2023)) & a series of news posts by [0x84f](https://osu.ppy.sh/users/7944724), we wanted to spread the word further and make contributing more accessible to the community.
+After last years' efforts to spice up the front page with a variety of news posts via the [content call forum post](https://osu.ppy.sh/community/forums/topics/1605337), which led up to [osu!monthly](/wiki/Community/osu!monthly) making a comeback for its [3rd season](/wiki/Community/osu!monthly#season-3-(2022–2023)) and a series of news posts by [0x84f](https://osu.ppy.sh/users/7944724), we wanted to spread the word further and make contributing more accessible to the community.
 
 Are you interested in creative writing and want to place your content in front of hundreds of thousands of players, or just have an idea that you would like to see covered on the front page? Then feel free to read below!
 
@@ -18,7 +18,7 @@ If you have an idea that you think would be a good fit for the front page, you c
 
 ## Writing for the front page
 
-If you are keen on sharing your writing with the community, the process is incredibly simple! Again, you can join the official Discord and share your drafts in the ``osu-news`` channel, where the wiki & news contributors can evaluate your work, give feedback and help you with the process of pushing your work to the front page!
+If you are keen on sharing your writing with the community, the process is incredibly simple! Again, you can join the official Discord and share your drafts in the ``osu-news`` channel, where the wiki and news contributors can evaluate your work, give feedback and help you with the process of pushing your work to the front page!
 
 If you don't have any ideas currently, there are some already pinned in the channel which you can freely grab and work on.
 
@@ -27,15 +27,15 @@ The only prerequisite is that you should be comfortable with constructive critic
 - Knowledge of the Markdown language
 - Basic knowledge of GitHub
 - Knowledge of the [news styling criteria](/wiki/News_styling_criteria)
-- A good knowledge of the English language & its grammar
+- A good knowledge of the English language and its grammar
 
 ## More tournament content on the front page
 
 For the longest time tournaments have been underrepresented on the front page, and we aim to change that going forward.
 
-Tournament hosts can now reach out to the [tournament committee](/wiki/People/Tournament_Committee) through email if they wish for their tournaments to be advertised, and after their review and discussion with the wiki & news team in the ``osu-news`` channel they will inform you with the final decision.
+Tournament hosts can now reach out to the [tournament committee](/wiki/People/Tournament_Committee) through email if they wish for their tournaments to be advertised, and after their review and discussion with the wiki and news team in the ``osu-news`` channel they will inform you with the final decision.
 
-The only requirement is that the tournament is [officially supported](/wiki/Tournaments/Official_support) (the longer, the better), however there will be several factors that determine if the tournament can be advertised.
+The only requirement is that the tournament is [officially supported](/wiki/Tournaments/Official_support) (the longer, the better); however, there will be several factors that determine if the tournament can be advertised.
 
 We will also be ramping up coverage for the official World Cups, starting with OWC 2023 coverage through the tournament stages, starting with Round of 16.
 If you are interested in covering any of the World Cups, feel free to reach out as well!
