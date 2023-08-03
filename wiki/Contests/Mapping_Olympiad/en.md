@@ -17,7 +17,7 @@
 
 *Note: Keep in mind that the ruleset may be subject to change depending on editions' restrictions.*
 
-- Each entry must follow the [Ranking Criteria](/wiki/Ranking_Criteria). Entries violating the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
+- Each entry must follow the [Ranking Criteria](/wiki/Ranking_criteria). Entries violating the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
 - Beatmap submissions must not exceed 15MB.
 - Storyboards will not be considered in the judging process.
 - Usage of custom [hitsounds](/wiki/Beatmapping/Hitsound) is allowed.

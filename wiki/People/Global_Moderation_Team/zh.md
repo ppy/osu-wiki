@@ -14,7 +14,7 @@ tags:
 
 **全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过红色的游戏内名称、柑橘绿的玩家头衔和写着 `GMT` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
-**全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
+**全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
 ***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/Account_support_team#support@ppy.sh)并举报。***
 
@@ -55,7 +55,7 @@ tags:
 
 *注意：除非特殊说明，所有全局管理团队 (GMT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-[全局管理团队 (GMT) 成员列表](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。除了下面提到的领域外，所有全局管理团队 (GMT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
+[全局管理团队 (GMT) 成员列表](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。除了下面提到的领域外，所有全局管理团队 (GMT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_content_considerations)。
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
@@ -79,11 +79,9 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持团队 |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天管理员 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持团队，wiki 管理员 |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 | 作图摸图社群管理员 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 芬兰语，一部分瑞典语 | 聊天管理员 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 法语 | 聊天管理员 |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 作图摸图社群管理员 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 作图摸图社群管理员 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法语，西班牙语 | 聊天管理员 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天管理员，作图摸图社群管理员 |
@@ -108,7 +106,6 @@ tags:
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天管理员 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 聊天管理员 |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天管理员 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 马来语 | 聊天管理员 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 波兰语 | 自定义皮肤社区管理员 |

@@ -244,7 +244,7 @@
 | `偏移量 (Offset) 设置向导` | 打开偏移量设置向导。 | 按钮 |  |
 
 - 对于偏移量设置向导的细节，参见[偏移量设置向导](/wiki/Client/Options/Offset_Wizard)。
-- 对于使用偏移量设置向导的细节，参见[如何使用偏移量设置向导](/wiki/Guides/How_to_Use_the_Offset_Wizard)。
+- 对于使用偏移量设置向导的细节，参见[如何使用偏移量设置向导](/wiki/Guides/How_to_use_the_Offset_Wizard)。
 
 ## 外观
 

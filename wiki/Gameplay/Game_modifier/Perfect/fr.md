@@ -6,6 +6,8 @@ tags:
   - game modifier
   - PF
   - modificateur de jeu
+outdated_translation: true
+outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # Le mod Perfect

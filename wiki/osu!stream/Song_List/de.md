@@ -6,7 +6,7 @@ osu!stream bietet bis zu 45 spielbare Songs, verteilt über mehrere Bundles und 
 
 Im Store-Menü kannst du durch die Liste aller verfügbaren Songpakete scrollen und dir die Beatmap-Vorschau vor dem Herunterladen ansehen. Nach dem Drücken des Buttons `PREVIEW` wirst du in der Lage sein, eine kurze Gameplay-Demo von allen vier Schwierigkeitsgraden in einer Beatmap anzuschauen, wobei diese [in ihrer entsprechenden Stream-Reihenfolge](/wiki/osu!stream#neues-spielsystem) von der leichtesten zur schwersten Stufe angeordnet werden.
 
-So wie osu! heute die [Featured Artists](/wiki/People/Featured_Artists) hat, sind alle im Spiel abrufbaren Songs entweder in Auftrag gegeben worden oder wurden vor ihrer Veröffentlichung lizenziert. Es ist wichtig anzumerken, dass osu!stream-Beatmaps im Dateiformat `.osf2` sind (anstatt [`.osz`](/wiki/Client/File_formats/Osz_(file_format))) und dadurch nicht mit dem regulären osu!-Client kompatibel sind.
+So wie osu! heute die [Featured Artists](/wiki/People/Featured_Artists) hat, sind alle im Spiel abrufbaren Songs entweder in Auftrag gegeben worden oder wurden vor ihrer Veröffentlichung lizenziert. Es ist wichtig anzumerken, dass osu!stream-Beatmaps im Dateiformat `.osf2` sind (anstatt [`.osz`](/wiki/Client/File_formats/osz_(file_format))) und dadurch nicht mit dem regulären osu!-Client kompatibel sind.
 
 ## Gebündelte Songs
 

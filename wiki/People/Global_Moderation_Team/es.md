@@ -16,7 +16,7 @@ tags:
 
 El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
 
-**Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
+**Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
 ***Nota: Para denunciar a un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -57,7 +57,7 @@ Por lo general, el equipo observará a las personas durante varias semanas o mes
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
@@ -79,11 +79,9 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Soporte técnico |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugués, japonés | Moderación del chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Soporte al jugador, administración de la wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesio | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finés, algo de sueco | Moderación del chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Francés | Moderación del chat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino | Moderación de la comunidad de mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francés, español | Moderación del chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
@@ -108,7 +106,6 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemán | Gestión de torneos |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayo | Moderación del chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polaco | Moderación de la comunidad de skinning |

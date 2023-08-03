@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
+---
+
 # Команды и личности
 
 Заглавная статья о различных пользователях и группах.
@@ -19,13 +24,13 @@
 - [osu! Alumni](osu!_Alumni)
 - [Команда osu!](osu!_team)
 - [Администраторы osu! wiki](osu!_wiki_maintainers)
-- [Команда osu!monthly](osu!monthly_team)
 
 ## Неактивные команды
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
+- [Команда osu!monthly](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Разное

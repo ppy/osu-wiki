@@ -92,7 +92,7 @@ Conçue par [pyun](https://osu.ppy.sh/users/981534), Chirou est l'une des partic
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, également connu sous le nom de Taikonator 3000, était l'un des participants au concours de création de mascotte osu!taiko. Pour des raisons inconnues, il a acquis une certaine popularité en tant que blague interne. Ses origines restent un mystère ; malgré cela, il est bien plus unique que les autres mascottes d'osu!taiko et a fait de nombreuses apparitions dans les fanarts de divers utilisateurs.
+Conçu par [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, également connu sous le nom de Taikonator 3000, était l'un des participants au concours de création de mascotte osu!taiko. Pour des raisons inconnues, il a acquis une certaine popularité en tant que blague interne. Ses origines restent un mystère ; malgré cela, il est bien plus unique que les autres mascottes d'osu!taiko et a fait de nombreuses apparitions dans les fanarts de divers utilisateurs.
 
 ### Tama
 

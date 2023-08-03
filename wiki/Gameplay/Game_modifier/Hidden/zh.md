@@ -13,8 +13,8 @@ tags:
 
 ![HD 模组图标](/wiki/shared/mods/HD.png "Hidden (HD) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*请勿与 [Fade In （模组）](/wiki/Game_modifier/Fade_In) 或 [Flashlight （模组）](/wiki/Game_modifier/Flashlight) 混淆。*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
+*请勿与 [Fade In （模组）](/wiki/Gameplay/Game_modifier/Fade_In) 或 [Flashlight （模组）](/wiki/Gameplay/Game_modifier/Flashlight) 混淆。*
 
 ## 关于
 
@@ -31,11 +31,11 @@ tags:
   - ![][osu!catch] `没有缩圈，圆圈渐隐，分数略微提高。`
   - ![][osu!mania]: `物件会在击打之前渐渐隐藏。`
 - 兼容的游戏模式： ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- 变体 (osu!mania): [Fade In](/wiki/Game_modifier/Fade_In)
+- 变体 (osu!mania): [Fade In](/wiki/Gameplay/Game_modifier/Fade_In)
 
 ## 说明
 
-**Hidden** [游戏模组](/wiki/Game_modifier)通过去除缩圈、使[打击物件](/wiki/Hit_object)在出现后渐隐来增加谱面难度。
+**Hidden** [游戏模组](/wiki/Gameplay/Game_modifier)通过去除缩圈、使[打击物件](/wiki/Gameplay/Hit_object)在出现后渐隐来增加谱面难度。
 
 ### osu!
 
@@ -49,7 +49,7 @@ tags:
 
 在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，音符在约半屏处渐隐，需要玩家记忆计时与音符的颜色。然而，滑条和转盘仍然会穿越整个时间线、不会渐隐。在这种情况下，转盘没有指示时间已到的缩圈。
 
-在整体难度较高的谱面中，由于 HR 模组偶尔会让计时窗口太小，此模组被有经验的玩家取代 [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) 模组使用来增加得分。
+在整体难度较高的谱面中，由于 HR 模组偶尔会让计时窗口太小，此模组被有经验的玩家取代 [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组使用来增加得分。
 
 与 osu! 中不同，由于玩家需要记忆下一个音符的颜色，此模组常被认为让玩家更难读谱或更难“适应”。
 
@@ -59,7 +59,7 @@ tags:
 
 在 [osu!catch](/wiki/Game_mode/osu!catch) 中，水果会在约半屏处渐隐。
 
-使用此模组对 osu!catch 难度的影响因谱面而异，但通常认为此模组对[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)不低于 9 的谱面增加难度效果不大。
+使用此模组对 osu!catch 难度的影响因谱面而异，但通常认为此模组对[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)不低于 9 的谱面增加难度效果不大。
 
 ![HD 模组下的 osu!catch 游玩界面](img/HD-catch.jpg "启用 HD 模组时的 osu!catch 游玩界面")
 
@@ -73,9 +73,9 @@ tags:
 
 - Hidden 模组首次出现于 Ouendan 2 中，是日本 DS 系列游戏 [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) （osu! 基于此系列而成）中的第二部。
 - 若使用此模组以 S 或 SS 等级完成谱面，玩家则会获得银 S 或银 SS 等级。
-- 默认情况下，在 [osu!](/wiki/Game_mode/osu!) 中，谱面开头第一个[打击物件](/wiki/Hit_object)的[缩圈](/wiki/Hit_object/Approach_circle)会临时可见，以帮助玩家更好估计点击物件的时机。可以在设置中的`游戏`栏目关闭此功能。
-- 在 osu!mania 中，此模组的变体是 [Fade In](/wiki/Game_modifier/Fade_In) 模组。
-- 当前版本 osu!mania 中 Hidden 模组的前身是单独的 [Fade Out](/wiki/Game_modifier/Fade_Out) 模组。
+- 默认情况下，在 [osu!](/wiki/Game_mode/osu!) 中，谱面开头第一个[打击物件](/wiki/Gameplay/Hit_object)的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)会临时可见，以帮助玩家更好估计点击物件的时机。可以在设置中的`游戏`栏目关闭此功能。
+- 在 osu!mania 中，此模组的变体是 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组。
+- 当前版本 osu!mania 中 Hidden 模组的前身是单独的 [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) 模组。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

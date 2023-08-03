@@ -14,7 +14,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 **Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
 
-**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Rol ve sorumluluklar
 
@@ -54,7 +54,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 *Not: Tüm GMT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
 
-[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
+[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_content_considerations#resminizin-değerlendirilmesi) rol oynar.
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
@@ -76,11 +76,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fince, biraz İsveççe | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Fransızca | Sohbet moderasyonu |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Çince | Mapping/modding topluluk moderasyonu |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Fransızca, İspanyolca | Sohbet moderasyonu |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
@@ -105,7 +103,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Sohbet moderasyonu |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Lehçe | Skinning community moderation |

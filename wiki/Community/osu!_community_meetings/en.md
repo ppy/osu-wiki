@@ -46,7 +46,8 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 | 13 | [March 20, 2022](https://youtu.be/2Cp9rm0rNPQ) | [Meeting notes](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | Development update, various community questions |
 | 14 | [April 3, 2022](https://youtu.be/UWT18LaoeKw) | [Meeting notes](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8) | Scoring survey results reviewing, various community questions |
 | 15<!-- TODO (walavouchey): there's one before this one but the recording is audio-only and there are no notes yet --> | [February 12, 2023](https://youtu.be/idmI03A8jR8) | [Meeting notes](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) | osu!(lazer) game mechanics and balance |
+| 16 | [July 7, 2023](https://youtu.be/bocgaVISSfg) | [Summary news post](https://osu.ppy.sh/home/news/2023-07-11-community-meeting-recap) | Finalising the scoring system in osu!(lazer) |
 
 ## Related links
 
-- [osu!dev Discord server](https://discord.gg/ppy)
+- [osu! Discord server](https://discord.com/invite/ppy)

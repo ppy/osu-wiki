@@ -11,7 +11,7 @@ El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Bea
 
 Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia naranja del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en beatmaps, como [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
-**Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
+**Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
 ***Nota: Para denunciar a un miembro del NAT por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -33,7 +33,7 @@ Los miembros del NAT responsables de esta categoría tienen una gran demanda deb
 
 Los miembros del NAT asignados a la categoría estructural deben mantener:
 
-- **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_Criteria), así como otra documentación.
+- **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_criteria), así como otra documentación.
 - **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web del NAT/BN](https://bn.mappersguild.com/home)).
 - **Moderación**: Manejar los informes de los usuarios y evaluar el comportamiento inapropiado de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
@@ -92,26 +92,27 @@ Los líderes del NAT tienen como objetivo cubrir las siguientes tareas:
 
 *Nota: Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
 ### osu!
 
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Estructural[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluación, estructural[^task-achyoo] |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluación |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluación |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluación |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluación |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés | Evaluación |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluación, estructural[^task-fuju] |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino | Evaluación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural[^task-naxess] |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluación |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Evaluación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluación, estructural[^task-star] |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluación |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluación |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluación |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluación |
@@ -121,7 +122,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluación |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Liderazgo |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluación |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Liderazgo |
@@ -132,19 +132,23 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluación |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluación |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español | Evaluación |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino | Evaluación |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danés | Evaluación |
+
+---
+
+Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
 
 ## Notas
 
-[^task-achyoo]: Principalmente maneja la gestión del veto para el modo de juego osu!
 [^task-fuju]: Principalmente maneja los informes de los usuarios y administra las clasificaciones SEV para el modo de juego osu!
 [^task-mo]: Principalmente maneja discusiones internas, asuntos y documentación
 [^task-naxess]: Principalmente mantiene [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)

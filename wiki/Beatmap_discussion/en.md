@@ -43,7 +43,7 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
+*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmap header")
 
@@ -125,7 +125,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 The submission field is where [mods](/wiki/Modding) are written. Once written, the mod must be submitted to the discussion page. This can be done by pressing one of the three type buttons; `Praise`, `Suggestion` or `Problem`.
 
-`Praise` is used for praise and encouragement. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_Criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
+`Praise` is used for praise and encouragement. `Suggestion` is used for posts which aren't directly in conflict with any rules. `Problem` is used for posts which are in direct conflict with the [Ranking Criteria](/wiki/Ranking_criteria), or which are considered intersubjectively wrong. Once a button is pressed the mod will be submitted to the discussion page.
 
 If you post in the `Timeline` tab, you must include a timestamp in your post. If your timestamp is close to another mod, you will have to confirm that it doesn't address the issue you are currently submitting. **Check each post before checking the box!** It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the submission field to scroll with you.
 

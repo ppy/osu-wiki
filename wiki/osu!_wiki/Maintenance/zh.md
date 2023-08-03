@@ -26,7 +26,7 @@ osu! wiki 的[问题跟踪](https://github.com/ppy/osu-wiki/issues)包含了对�
 
 在 GitHub 上，拉取请求 (PR) 和问题可以使用**标签**来标记和分类，显示拉取请求或问题针对的方向。标签含有提示信息，由 wiki 维护者设置，它的意思通常就是标签名称。虽然从玩家的角度看，不需要按照标签来采取行动，但红色标签可以提醒或者催促其他维护员：
 
-- `规则更改 (rule change)`：这个更改会影响现存的规则，比如[谱面上架标准 (RC)](/wiki/Ranking_Criteria)，需要由负责规则对应区域的管理者审核
+- `规则更改 (rule change)`：这个更改会影响现存的规则，比如[谱面上架标准 (RC)](/wiki/Ranking_criteria)，需要由负责规则对应区域的管理者审核
 - `阻止 (blocked)`：在更改应用前，必须解决更改内包含问题或者需要等待其他问题先解决。
 - `需要变基 (needs rebase)`：这个拉取请求 (PR) 含有大量无结构的提交 (commit)，需要变基并修改提交的措辞——这通常由维护人员在合并前完成。
 
@@ -134,7 +134,7 @@ wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护
 
 *有关翻译及完成度的列表，请参阅：[osu-wiki status](https://osu.wiki/status/zh)*
 
-世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
+世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
 
 如果翻译请求从创建以来已经经过了一周，即使没有熟练使用语言交流的玩家来审核，也可以合并。
 

@@ -40,7 +40,7 @@ Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zá
 
 ## Pravidla odesílání beatmap
 
-*Poznámka: Tato pravidla se vztahují na **všechny odeslané mapy**, nejen hodnocené. Podrobnější pravidla týkající se hodnocených beatmap naleznete v [Kritérii hodnocení](/wiki/Ranking_Criteria).*
+*Poznámka: Tato pravidla se vztahují na **všechny odeslané mapy**, nejen hodnocené. Podrobnější pravidla týkající se hodnocených beatmap naleznete v [Kritérii hodnocení](/wiki/Ranking_criteria).*
 
 Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Tato vlákna/diskuze jsou vytvářeny prostřednictvím osu! klienta, když je beatmap odeslán prostřednictvím [editoru](/wiki/Client/Beatmap_editor).
 

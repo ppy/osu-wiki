@@ -14,7 +14,7 @@ tags:
 
 **Global Moderation Team** (yang sebelumnya dikenal dengan nama Global Mod Team, Administrator, dan GreenBAT), atau yang sering disebut sebagai **GMT**, merupakan para anggota komunitas yang berfokus pada moderasi pemain serta berbagai isu yang berkaitan dengan jajaran staf dan komunitas secara umum. Mereka dapat dikenali dari jabatan dan nama pengguna mereka yang berwarna merah di dalam permainan dan hijau pada forum.
 
-**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
+**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
 
 ***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -55,7 +55,7 @@ Pada umumnya, tim GMT akan mengamati para kandidat yang dianggap berpotensi sela
 
 *Catatan: Kecuali diterakan lebih lanjut, seluruh anggota GMT dapat berbicara Bahasa Inggris di samping bahasa yang tercantum pada nama mereka masing-masing.*
 
-Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
+Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_content_considerations#menilai-gambar-anda).
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |
@@ -77,11 +77,9 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna, administrasi osu!wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia | Moderasi komunitas mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Suomi, sedikit Swedia | Moderasi chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderasi chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Perancis | Moderasi chat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Perancis, Spanyol | Moderasi chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi komunitas mapping/modding |
@@ -106,7 +104,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderasi chat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Tionghoa | Moderasi chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Melayu | Moderasi chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Skinning community moderation |

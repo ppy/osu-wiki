@@ -12,13 +12,13 @@
 
 ### Маппинг
 
-- [«Красный» (ненаследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) — начало новой [тайминг-секции](/wiki/Beatmapping/Timing_section). Тайминг-секции сами по себе тоже называются оффсетами (от англ. *offset* — сдвиг), потому что они смещены относительно начала аудио.
-- [«Зелёный» (наследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) — [тайминг-секция](/wiki/Beatmapping/Timing_section), с помощью которой на отдельном участке карты можно настроить [киаи](/wiki/Gameplay/Kiai_time), [сэмплсет](/wiki/Beatmapping/Sampleset), [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) и уровень громкости хитсаундов.
+- [«Красный» (ненаследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) — начало новой [тайминг-секции](/wiki/Client/Beatmap_editor/Timing). Тайминг-секции сами по себе тоже называются оффсетами (от англ. *offset* — сдвиг), потому что они смещены относительно начала аудио.
+- [«Зелёный» (наследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) — [тайминг-секция](/wiki/Client/Beatmap_editor/Timing), с помощью которой на отдельном участке карты можно настроить [киаи](/wiki/Gameplay/Kiai_time), [сэмплсет](/wiki/Beatmapping/Sampleset), [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) и уровень громкости хитсаундов.
 - Оффсет карты — время от начала аудиофайла до первой [сильной доли](/wiki/Music_theory/Downbeat) в песне, которое измеряется в миллисекундах.
 
 ### Настройки карты
 
-*Примечание: lead-in и сдвиг видео можно настроить только через редактирование [файла `.osu`](/wiki/Client/File_formats/Osu_(file_format)).*
+*Примечание: lead-in и сдвиг видео можно настроить только через редактирование [файла `.osu`](/wiki/Client/File_formats/osu_(file_format)).*
 
 - Сдвиг обратного отсчёта (англ. *countdown offset*) — настройка, контролирующая время появления [обратного отсчёта](/wiki/Beatmap/Countdown) перед первым объектом (измеряется в [музыкальных долях](/wiki/Music_theory/Beat)).
 - [Lead-in](/wiki/Beatmap/Lead-in_time) — дополнительная задержка перед началом карты.

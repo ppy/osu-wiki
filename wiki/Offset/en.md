@@ -14,13 +14,13 @@ Depending on the type of an offset, they are either set by the beatmap creator, 
 
 ### Mapping
 
-- [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("red line"), the start of a new [timing section](/wiki/Beatmapping/Timing_section). Timing points reside at an offset relative to the start of the audio file, but the timing point itself is also sometimes called "offset".
-- [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("green line"), a [timing section](/wiki/Beatmapping/Timing_section) which controls settings such as [kiai](/wiki/Gameplay/Kiai_time), [sampleset](/wiki/Beatmapping/Sampleset), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), and volume level of hitsounds.
+- [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("red line"), the start of a new [timing section](/wiki/Client/Beatmap_editor/Timing). Timing points reside at an offset relative to the start of the audio file, but the timing point itself is also sometimes called "offset".
+- [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("green line"), a [timing section](/wiki/Client/Beatmap_editor/Timing) which controls settings such as [kiai](/wiki/Gameplay/Kiai_time), [sampleset](/wiki/Beatmapping/Sampleset), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), and volume level of hitsounds.
 - Beatmap offset, the amount of time between the start of the audio file and the song's first [downbeat](/wiki/Music_theory/Downbeat), as controlled by timing points.
 
 ## Beatmap settings
 
-*Note: Lead-in and video offsets are only editable through [beatmap file editing](/wiki/Client/File_formats/Osu_(file_format)).*
+*Note: Lead-in and video offsets are only editable through [beatmap file editing](/wiki/Client/File_formats/osu_(file_format)).*
 
 - Countdown offset, a setting which affects the time of appearance of the [countdown](/wiki/Beatmap/Countdown) before the first hit object, measured in [beats](/wiki/Music_theory/Beat).
 - [Lead-in](/wiki/Beatmap/Lead-in_time), an additional period of delay before the beatmap starts.

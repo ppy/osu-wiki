@@ -1,7 +1,8 @@
 ---
-no_native_review: true
 tags:
   - FA
+outdated_translation: true
+outdated_since: 228b9e5a795e41fa9435967cfd407b88216d956c
 ---
 
 # Featured Artists
@@ -41,11 +42,11 @@ Tous les concours de mapping publiés sur la [liste des concours communautaires]
 
 Pour promouvoir le mapping du contenu des artistes, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), qui offre aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont décernés pour la création et le classement de beatmaps, y compris trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/). 
 
-Si un `.osz` préprogrammé de la liste des Featured Artists comporte des erreurs de quelque nature que ce soit, elles peuvent être signalées sur [ce fil de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985). À partir d'[avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps de featured artist sur le salon `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
+Si un `.osz` pré-timé de la liste des Featured Artists comporte des erreurs de quelque nature que ce soit, elles peuvent être signalées sur [ce fil de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985). À partir d'[avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps de Featured Artists dans le salon `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
 
 ## Featured Artists avec un compte osu!
 
-Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/Community/User_title) ainsi que le [groupe utilisateurs](/wiki/People/User_group) **Featured Artist** pour montrer leur implication. La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artists.
+Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/Community/User_title) ainsi que le [groupe d'utilisateurs](/wiki/People/User_group) **Featured Artist** pour montrer leur implication. La [page du groupe des Featured Artists](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artists.
 
 | Utilisateur | Artiste |
 | :-- | :-- |
@@ -68,6 +69,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
+| ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
@@ -78,6 +80,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
+| ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |

@@ -27,7 +27,7 @@ Para modear un beatmap, empieza descargando la versión más reciente y abre su 
 
 Cuando te encuentres con un problema, selecciona los objetos de golpeo que sean relevantes, luego usa el atajo de copiar (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) cualquier línea de tiempo aplicable y tu comentario. La pestaña de la `Línea de tiempo` se usa para problemas con respecto a partes específicas de un beatmap, la pestaña `General (Esta dificultad)` se usa para dar comentarios en secciones largas de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas que se apliquen con todas las dificultades de un beatmap.
 
-Todos los mod posts deben abordar cuál es el problema, porque es un problema, y como arreglarlo. Revise el [Código de conducta para Modding y Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) para más detalles en cómo dar formato a los mod posts.
+Todos los mod posts deben abordar cuál es el problema, porque es un problema, y como arreglarlo. Revise el [Código de conducta para Modding y Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) para más detalles en cómo dar formato a los mod posts.
 
 Los beatmappers regularmente ofrecen [kudosu](/wiki/Modding/Kudosu) a los mod posts que ellos consideren como útiles al cliquear el botón de votar *pulgar arriba*. Esta estadística es rastreada por medio del perfil del usuario y se toma en cuenta al aplicar para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
@@ -39,4 +39,4 @@ Muchos mod posts abordan errores en un beatmap. Por ejemplo, un clap hitsound fa
 
 Proveer maneras alternativas de beatmapping es otro tipo común de mod posts. Mientras parte del beatmap pueda ser aceptable en su forma actual, un modder puede explicar como mejorarlo aún más diseñándolo de manera distinta.
 
-En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_Criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios. 
+En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios. 

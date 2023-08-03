@@ -18,7 +18,7 @@ Dieser Artikel listet die verschiedenen Tipps auf, die im Spiel vorkommen und n�
 
 Diese Tipps erscheinen am unteren Rand des [Hauptmenüs](/wiki/Client/Interface#hauptmenü).
 
-- Du kannst neue [Beatmaps](/wiki/Beatmap) importieren, indem du die [.osz-Datei](/wiki/Client/File_formats/Osz_(file_format)) in das Fenster ziehst, im Explorerfenster doppelklickst oder direkt vom Browser aus von osu! öffnen lässt.
+- Du kannst neue [Beatmaps](/wiki/Beatmap) importieren, indem du die [.osz-Datei](/wiki/Client/File_formats/osz_(file_format)) in das Fenster ziehst, im Explorerfenster doppelklickst oder direkt vom Browser aus von osu! öffnen lässt.
 - Du kannst auch durch große Listen von Beatmaps einfach und schnell navigieren, indem du sie mit gedrückter linker Maustaste verschiebst oder mit der rechten Maustaste an einen bestimmten Punkt in der Liste springst.
 - Du kannst überall in osu! `F8` oder `F9` drücken, um den [Chat](/wiki/Client/Interface/Chat_console) zu öffnen.
 - Ein Rechtsklick auf die Beatmap oder ein Klick auf die `Beatmap-Optionen` öffnet ein Menü, mit dem du deine Beatmaps organisieren kannst.
@@ -28,7 +28,7 @@ Diese Tipps erscheinen am unteren Rand des [Hauptmenüs](/wiki/Client/Interface#
 - Du kannst überall in osu! einen Screenshot aufnehmen, indem du `F12` drückst.
 - Du kannst anderen beim Spielen zusehen, indem du den [Zuschauermodus](/wiki/Gameplay/Spectating) nutzt. Drücke `F9` für die erweiterte Chat-Anzeige und probiere es aus!
 - Wenn eine neue Version einer Beatmap verfügbar ist, wird an Stelle der Online-Rangliste ein Update-Knopf angezeigt, mit dem du die neueste Version herunterladen kannst.
-- Das Wiki beinhaltet viele nützliche Informationen. [Schau doch mal rein!](/wiki/Main_Page)
+- Das Wiki beinhaltet viele nützliche Informationen. [Schau doch mal rein!](/wiki/Main_page)
 - Wusstest du, dass du neue Beatmaps ganz einfach importieren kannst, indem du die Datei doppelklickst oder ins osu!-Fenster ziehst?
 - Auf der [Punkteübersicht](/wiki/Client/Interface#ergebnisanzeige) kannst du mit `F2` ein [Replay](/wiki/Gameplay/Replay) speichern, egal ob du online oder offline gespielt hast.
 - Wenn du das Gefühl hast, dass die Beats in jeder Beatmap zu früh oder zu spät kommen, solltest du versuchen, in den `Optionen` das `universelle Audio-Offset` anzupassen.

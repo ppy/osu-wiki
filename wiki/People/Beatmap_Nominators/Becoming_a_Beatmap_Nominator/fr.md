@@ -9,7 +9,7 @@ Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/Beat
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
-Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
+Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
 
 ## Critères de base
 
@@ -35,8 +35,8 @@ Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absen
 ### Comment sont choisis les potentiels nouveaux Beatmap Nominators
 
 - Les moddeurs seront évalués par les membres de la NAT correspondant au mode de jeu pour lequel ils ont postulé, en tenant compte des critères suivants :
-  - Attitude générale : Le ton des mods et les autres attentes comportementales du [Code de conduite](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), ainsi que le comportement général dans le tchat/forum.
-  - Capacités de modding : Connaissance des [critères de classement](/wiki/Ranking_Criteria) généraux et des critères spécifiques de chaque mode de jeu. Des capacités supplémentaires comme les métadonnées, le timing et d'autres seront également prises en compte.
+  - Attitude générale : Le ton des mods et les autres attentes comportementales du [Code de conduite](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), ainsi que le comportement général dans le tchat/forum.
+  - Capacités de modding : Connaissance des [critères de classement](/wiki/Ranking_criteria) généraux et des critères spécifiques de chaque mode de jeu. Des capacités supplémentaires comme les métadonnées, le timing et d'autres seront également prises en compte.
 - Après l'évaluation de chaque moddeur, une discussion sera faite pour savoir si le moddeur rejoindra les Beatmap Nominators.
 
 ## Cooldowns

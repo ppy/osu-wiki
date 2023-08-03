@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - GMT
   - moderator
@@ -15,9 +14,9 @@ tags:
 
 *Voir aussi : [Mod (désambiguïsation)](/wiki/Disambiguation/Mod).*
 
-La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
+La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur vert agrumes, le badge de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `GMT`, ainsi que leur nom d'utilisateur en rouge dans le jeu.
 
-**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
 ***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -58,7 +57,7 @@ En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou m
 
 *Note : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
-La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
+La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 | Nom | Langues supplémentaires | Domaine d'intérêt |
 | :-- | :-- | :-- |
@@ -67,7 +66,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe |  |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, légèrement allemand |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, un peu de allemand |  |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turc | Modération du tchat |
@@ -76,19 +75,17 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, japonais | Modération du tchat |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Français | Modération du forum |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Modération du forum, support technique |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | légèrement espagnol |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Un peu de espagnol |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugais, japonais | Modération du tchat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, administration du wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésien | Modération de la communauté modding/mapping |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnois, légèrement suédois | Modération du tchat |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnois, un peu de suédois | Modération du tchat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du tchat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Français | Modération du tchat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Modération de la communauté modding/mapping |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Français, espagnol | Modération du tchat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Modération du tchat, modération de la communauté modding/mapping |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malais, légèrement chinois | Modération de la communauté modding/mapping |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malais, un peu de chinois | Modération de la communauté modding/mapping |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonais, chinois, japonais | Modération du tchat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du tchat |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modération du tchat |
@@ -109,7 +106,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | Modération du tchat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Modération de la communauté skinning |
@@ -121,7 +117,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Suédois, espagnol | Modération du tchat |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Français, espagnol | Modération du tchat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonésien | Modération du tchat |
-| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, légèrement vietnamien | Modération du tchat, modération du forum |
+| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat, modération du forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnois | Modération du tchat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Modération du forum, modération du tchat |

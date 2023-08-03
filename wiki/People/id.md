@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
+---
+
 # Orang-orang
 
 Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting dan kelompok-kelompok pengguna khusus yang osu! miliki.
@@ -19,13 +24,13 @@ Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting d
 - [osu! Alumni](osu!_Alumni)
 - [Tim osu!](osu!_team)
 - [Pengelola osu! wiki](osu!_wiki_maintainers)
-- [Tim osu!monthly](osu!monthly_team)
 
 ## Dahulu
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
+- [Tim osu!monthly](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Lain-lain

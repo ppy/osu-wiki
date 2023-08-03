@@ -40,7 +40,7 @@ Aunque los ejemplos enseñados son modelados a partir de contexto de mapping esp
 00:02:000 - Creo que este ritmo no es clasificable.
 ```
 
-**Evita decir o sugerir que algo no es clasificable a menos que los [criterios de clasificación](/wiki/Ranking_Criteria) explícitamente diga que lo es.** Esto puede causar mucha confusión para los nuevos mappers. Si algo no es clasificable, significa que no puede seguir el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure), sin excepciones. Ten cuidado usando esta frase.
+**Evita decir o sugerir que algo no es clasificable a menos que los [criterios de clasificación](/wiki/Ranking_criteria) explícitamente diga que lo es.** Esto puede causar mucha confusión para los nuevos mappers. Si algo no es clasificable, significa que no puede seguir el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure), sin excepciones. Ten cuidado usando esta frase.
 
 ---
 
@@ -165,7 +165,7 @@ aprende a mapear y entonces podré modearlo correctamente
 este mapa se vería increible en la basura
 ```
 
-**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [código de conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) cuando modeas para mantener un ambiente de modding positivo para todos.
+**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) cuando modeas para mantener un ambiente de modding positivo para todos.
 
 ---
 

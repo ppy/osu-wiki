@@ -59,7 +59,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: Korea Selatan | ::{ flag=CN }:: Tiongkok | ::{ flag=US }:: Amerika Serikat |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=CN }:: Tiongkok |
-| [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=IT }:: Italia |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -81,6 +81,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: Korea Selatan | ::{ flag=CN }:: Tiongkok | ::{ flag=MY }:: Malaysia |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: Korea Selatan | ::{ flag=BR }:: Brazil | ::{ flag=US }:: Amerika Serikat |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: Filipina | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
+| [osu!mania 4K World Cup 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | *TBD* | *TBD* | *TBD* |
 
 ## Turnamen komunitas
 
@@ -115,6 +116,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| [Aetherian's Summer Singles 3](AESS/3) | 2023-05-01 | 2023-07-09 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
 #### Ascaveth Invitational Tournament
 
@@ -249,8 +251,9 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [H](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Romania Tournament
 
@@ -353,6 +356,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
+
+#### SEA Summer Suiji Showdown
+
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SEA Summer Suiji Showdown 3](SSSS/3) | 2023-06-05 | 2023-07-31 | Schale | Tingyun Motor | maimai |
 
 #### Spanish Showdown
 
@@ -502,6 +511,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Jepang A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: Tiongkok A | ::{ flag=KR }:: Korea Selatan |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 2022-10-10 | 2022-12-18 | ::{ flag=JP }:: Jepang | ::{ flag=CN }:: Tiongkok | ::{ flag=DE }:: Jerman A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | *TBD* | *TBD* | *TBD* |
 
 #### North & South American Taiko Tournament

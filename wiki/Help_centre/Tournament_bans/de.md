@@ -16,9 +16,9 @@ Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssy
 
 Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [dem minimalen temporären Turnierverbot von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons), welches anhand des Ermessens des [Account-Support-Teams](/wiki/People/Account_support_team) verlängert werden kann.
 
-## Was führt dazu, dass jemand eine permanente Turniersperre erhält? {id=why-permanent}
+## Was führt dazu, dass jemand eine unbefristete Turniersperre erhält? {id=why-permanent}
 
-Jegliche Verwendung von Drittanbieter-Tools zum Schummeln oder andere Methoden, um einen unfairen Vorteil gegenüber anderen Teilnehmern in einem offiziell unterstützten Turnier zu erhalten, wird zu einer dauerhaften Turniersperre führen. In einigen Situationen können auch vor allem exzessive Fälle von Missbrauch eine solche Strafe auslösen.
+Jegliche Verwendung von Drittanbieter-Tools zum Schummeln oder andere Methoden, um einen unfairen Vorteil gegenüber anderen Teilnehmern in einem offiziell unterstützten Turnier zu erhalten, wird zu einer unbefristeten Turniersperre führen. In einigen Situationen können nach dem Ermessen des Support-Teams auch vor allem exzessive Fälle von Missbrauch eine solche Strafe auslösen.
 
 Das beinhaltet Situationen wie:
 
@@ -32,7 +32,11 @@ Das beinhaltet Situationen wie:
 
 ## Kann ich gegen eine Turniersperre eine Beschwerde einreichen? {id=appeal}
 
-Gegen Turniersperren können egal ob temporär oder permanent **keine Beschwerden eingereicht werden**.
+Gegen vorübergehende Turniersperren, die über die üblichen Beschwerdebedingungen oder anderen Mitteln verhängt werden, können keine Beschwerden eingereicht werden.
+
+Gegen unbefristete Turniersperren darf Einspruch erhoben werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
+
+Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufechten, sollte betont werden, dass für eine ernsthafte Aussicht auf Erfolg erhebliche Anstrengungen in der Community außerhalb des Beschwerdeschreibens erwartet werden.
 
 In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
 
