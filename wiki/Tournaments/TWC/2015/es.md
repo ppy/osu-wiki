@@ -15,7 +15,7 @@ La **osu! Taiko World Cup 2015** (***TWC 2015***) fue un torneo de osu!taiko por
 | Evento | Marca de tiempo |
 | :-- | :-- |
 | Fase de registro | 12/1/2015 - 22/2/2015 |
-| Duelos en vivo | 28/2/2015 (14:00 UTC) |
+| Sorteos en vivo | 28/2/2015 (14:00 UTC) |
 | Fase de grupos | 7/3/2015 - 8/3/2015 |
 | Dieciseisavos de final | 14/3/2015 - 15/3/2015 |
 | Cuartos de final | 21/3/2015 - 22/3/2015 |
@@ -31,7 +31,7 @@ La **osu! Taiko World Cup 2015** (***TWC 2015***) fue un torneo de osu!taiko por
 | ![Corona de plata](/wiki/shared/crown-silver.png "Segundo puesto") | 3 meses de osu!supporter, insignia de perfil única |
 | ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer puesto") | 1 mes de osu!supporter, insignia de perfil única |
 
-![](img/badge.jpg "Insignia del ganador del TWC 2015") ![](img/badge2.jpg "Insignia del segundo puesto del TWC 2015") ![](img/badge3.jpg "Insignia del tercer puesto del TWC 2015")
+![](img/badge.jpg "Insignia del ganador de la TWC 2015") ![](img/badge2.jpg "Insignia del segundo puesto de la TWC 2015") ![](img/badge3.jpg "Insignia del tercer puesto de la TWC 2015")
 
 ## Organización
 
@@ -48,7 +48,7 @@ La osu! Taiko World Cup 2015 fue dirigida por varios miembros de la comunidad.
 ## Enlaces
 
 - [Hilo de discusión](https://osu.ppy.sh/community/forums/topics/279723)
-- [Directo](https://www.twitch.tv/osulive)
+- [Transmisión en directo](https://www.twitch.tv/osulive)
 
 ## Participantes
 
@@ -60,7 +60,7 @@ La osu! Taiko World Cup 2015 fue dirigida por varios miembros de la comunidad.
 | ::{ flag=CL }:: | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [-\[Kuroha\]-](https://osu.ppy.sh/users/4193212), [MikuWRS](https://osu.ppy.sh/users/1619547), [Pohm](https://osu.ppy.sh/users/2083934) |
 | ::{ flag=CN }:: | **China** | **[yys428](https://osu.ppy.sh/users/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/users/3672537), [moe moe moe](https://osu.ppy.sh/users/1804904), [Shiki\_nyan](https://osu.ppy.sh/users/345364) |
 | ::{ flag=DK }:: | **Dinamarca** | **[Zheant](https://osu.ppy.sh/users/708656)**, [Broder](https://osu.ppy.sh/users/2507101), [Only1Magma](https://osu.ppy.sh/users/3922957), [TraxieChan](https://osu.ppy.sh/users/455552) |
-| ::{ flag=FI }:: | **Finlandiaia** | **[DarkSylarn](https://osu.ppy.sh/users/4266840)**, [Pelaaja\_X](https://osu.ppy.sh/users/3543051), [zheep](https://osu.ppy.sh/users/1889827) |
+| ::{ flag=FI }:: | **Finlandia** | **[DarkSylarn](https://osu.ppy.sh/users/4266840)**, [Pelaaja\_X](https://osu.ppy.sh/users/3543051), [zheep](https://osu.ppy.sh/users/1889827) |
 | ::{ flag=FR }:: | **Francia** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
 | ::{ flag=DE }:: | **Alemania** | **[Luna](https://osu.ppy.sh/users/588007)**, [\[TaikoSlaxi\]](https://osu.ppy.sh/users/1365973), [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [DarkDunskin](https://osu.ppy.sh/users/98985), [Mew104](https://osu.ppy.sh/users/2345156), [tiamus](https://osu.ppy.sh/users/515277) |
 | ::{ flag=HK }:: | **Hong Kong** | **[KanaRin](https://osu.ppy.sh/users/310747)**, [aabc271](https://osu.ppy.sh/users/155707), [ice man007](https://osu.ppy.sh/users/1926937), [ll-oscar](https://osu.ppy.sh/users/1488736), [john26148853](https://osu.ppy.sh/users/2930055), [ztrike](https://osu.ppy.sh/users/2568493) |
@@ -85,16 +85,16 @@ La osu! Taiko World Cup 2015 fue dirigida por varios miembros de la comunidad.
 | :-- | :-- | :-- | :-- |
 | ::{ flag=AU }:: Australia | ::{ flag=NO }:: Noruega | ::{ flag=IT }:: Italia | ::{ flag=HU }:: Hungría |
 | ::{ flag=SG }:: Singapur | ::{ flag=DK }:: Dinamarca | ::{ flag=SE }:: Suecia | ::{ flag=ID }:: Indonesia |
-| ::{ flag=FI }:: Finlandiaia | ::{ flag=UA }:: Ucrania | ::{ flag=CA }:: Canadá | ::{ flag=CL }:: Chile |
+| ::{ flag=FI }:: Finlandia | ::{ flag=UA }:: Ucrania | ::{ flag=CA }:: Canadá | ::{ flag=CL }:: Chile |
 | ::{ flag=PH }:: Filipinas | ::{ flag=PL }:: Polonia | ::{ flag=AR }:: Argentina | ::{ flag=ES }:: España |
 | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania | ::{ flag=FR }:: Francia | ::{ flag=HK }:: Hong Kong |
 | ::{ flag=TW }:: Taiwán | ::{ flag=CN }:: China | ::{ flag=JP }:: Japón | ::{ flag=US }:: Estados Unidos |
 
-![](img/bracket.jpg "Bracket del TWC 2015")
+![](img/bracket.jpg "Bracket de la TWC 2015")
 
 ## Podio
 
-Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
+Esta competición ha llegado a su fin y ha dado como resultado el siguiente podio:
 
 | Puesto | Equipo |
 | :-: | :-- |
@@ -106,9 +106,9 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 
 ### Final
 
-**Este mappool se utilizó en los finales de la semana 1 y 2.**
+**Este mappool se utilizó en las finales de la semana 1 y 2.**
 
-**[¡Descarga el mappack aquí! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
+**[¡Descarga el paquete de mapas aquí! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
 - NoMod
   1. [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955#taiko/465192)
@@ -138,7 +138,7 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 
 ### Semifinales
 
-**[¡Descarga el mappack aquí! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
+**[¡Descarga el paquete de mapas aquí! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
 - NoMod
   1. [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
@@ -168,7 +168,7 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 
 ### Cuartos de final
 
-**[¡Descarga el mappack aquí! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
+**[¡Descarga el paquete de mapas aquí! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
 - NoMod
   1. [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
@@ -198,7 +198,7 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 
 ### Octavos de final
 
-**[¡Descarga el mappack aquí! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
+**[¡Descarga el paquete de mapas aquí! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
 - NoMod
   1. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721)
@@ -228,7 +228,7 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 
 ### Fase de grupos
 
-**[¡Descarga el mappack aquí! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
+**[¡Descarga el paquete de mapas aquí! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
 - NoMod
   1. [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
@@ -421,19 +421,19 @@ Domingo, 8 de marzo de 2015:
 
 1. La osu! Taiko World Cup es un torneo por equipos basado en países.
 2. Los mapas de cada ronda serán anunciados por el selector de mapas con antelación, el domingo anterior a la celebración de los partidos. Solo estos se utilizarán durante los respectivos partidos.
-   - Se dará un mapa como mapa de desempate. Este mapa solo se jugará en caso de empate.
+   - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
    - También habrá un bracket de [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
-3. El horario de los partidos será resuelto por la dirección del torneo (véase más abajo).
+3. El horario de los partidos será establecido por la dirección del torneo (véase más abajo).
 4. Las puntuaciones de los jugadores que fallen se sumarán a la puntuación del equipo.
 5. Si no hay personal o árbitro disponible, el partido se aplazará.
 6. Se permite el uso de las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings).
 7. Si el partido termina en empate, el partido será anulado.
 8. Si un jugador se desconecta, será tratado como si hubiera fallado el mapa.
-9. Los mapas no se pueden reutilizar en la misma partida a menos que la partida haya sido anulada.
-10. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se puede posponer la partida es de 10 minutos.
+9. Los mapas no se pueden reutilizar en el mismo partido a menos que el partido haya sido anulado.
+10. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se puede posponer el partido es de 10 minutos.
 11. Se permite el intercambio de jugadores durante un partido.
 12. El lag no es una razón válida para anular un mapa.
-13. En la fase de grupos, «Ganar por defecto» se considerará como ganar por 4:0, +1.0 de diferencia de puntuación.
+13. En la fase de grupos, «victoria por ausencia» se considerará como ganar por 4:0, +1.0 de diferencia de puntuación.
 14. Las incidencias inesperadas serán gestionadas por la dirección del torneo.
 15. Cualquier modificación de estas reglas será anunciada.
 
@@ -453,9 +453,9 @@ Domingo, 8 de marzo de 2015:
 4. El número total de equipos es de 32.
    - La cantidad total de equipos depende de la cantidad de inscripciones recibidas.
 5. Todos los equipos formados con éxito serán publicados después de la fase de inscripción.
-6. Los seleccionadores del mapset no podrán participar como jugadores en este torneo.
+6. Los selectores del mapset no podrán participar como jugadores en este torneo.
 
-### Instrucciones de fases
+### Instrucciones de las fases
 
 1. En la primera fase (fase de grupos), los equipos se dividirán en 4 grupos de 6 equipos.
 
@@ -463,14 +463,14 @@ Domingo, 8 de marzo de 2015:
 
 3. La clasificación de cada grupo se determina ordenando los resultados de cada equipo según la siguiente prioridad:
    1. Mayor número de partidos ganados.
-   2. Tener mayor `{(el número de mapas ganados) | (el número de mapas derrotados)}`.
+   2. Tener mayor `{(el número de mapas ganados) | (el número de mapas perdidos)}`.
    3. Mayor número de mapas ganados.
    4. Tener mayor `∑{(diferencia de puntuación total) / (puntuación máxima)}`.
    5. Ganador de la revancha.
 
 4. Los 4 mejores equipos de cada grupo pasarán a las fases eliminatorias.
 
-5. Las siguientes fases son de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al cuadro de perdedores.
+5. Las siguientes fases son de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket de perdedores.
 
 6. Según la [imagen adjunta](/wiki/shared/stages-visual.png), las fases se dividen de la siguiente manera:
 
@@ -483,7 +483,7 @@ Domingo, 8 de marzo de 2015:
    | Gran final | P, Q |
 
 7. **Condiciones para ganar:**
-   - En la fase de grupos, es necesario ganar 4 mapas para ganar un partido. (Al mejor de 7)
+   - En la fase de grupos, necesitas ganar 4 mapas para ganar un partido. (Al mejor de 7)
    - En octavos y cuartos de final, necesitas ganar 5 mapas para ganar un partido. (Al mejor de 9)
    - En semifinales y finales, necesitas ganar 6 mapas para ganar un partido. (Al mejor de 11)
 
@@ -493,11 +493,11 @@ Domingo, 8 de marzo de 2015:
    - Los ajustes de la sala son Taiko, Team-Vs., Condición de victoria: 'Puntuación'. El nombre de la sala debe ser «TWC 2015: TeamBlue vs TeamRed».
    - El equipo mencionado en primer lugar en el nombre de la sala debe ser el equipo azul, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo rojo.
 2. Los jugadores pueden elegir hasta dos mapas de calentamiento. Está prohibido utilizar beatmaps con contenido cuestionable.
-3. Cada capitán puede prohibir que se seleccionen dos beatmaps del grupo. Estos beatmaps no podrán ser elegidos por ningún equipo en toda la partida.
+3. Cada capitán puede prohibir que se seleccionen dos beatmaps del grupo. Estos beatmaps no podrán ser elegidos por ningún equipo en toda el partido.
    - Siempre se deben utilizar ambos vetos.
 4. La selección de beatmaps se alternará entre cada capitán seleccionando un beatmap de la map pool.
 5. Cada capitán debe usar `!roll` una vez en `#multiplayer`.
-   - El ganador del `!roll` empezará a elegir el primer beatmap de la partida.
+   - El ganador del `!roll` empieza a elegir el primer beatmap del partido.
    - El perdedor del `!roll` empieza a prohibir dos beatmaps.
 6. Los capitanes pueden elegir libremente de cualquier grupo.
    - En caso de empate, se debe jugar el mapa de desempate.
@@ -505,13 +505,13 @@ Domingo, 8 de marzo de 2015:
 
 ### Instrucciones de la mappool
 
-1. Habrá 1 mappool para la fase de grupos, 1 mappool para los dieciseisavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales (la semana 1 y la semana 2 usan la misma piscina).
-2. Cada mappool consta de 5 grupos: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
+1. Habrá 1 mappool para la fase de grupos, 1 mappool para los dieciseisavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales (la semana 1 y la semana 2 usan la misma pool).
+2. Cada mappool consta de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
 3. Cada mappool consta de 19 mapas en total.
 4. Cada mappool tiene un desempate.
 5. El bracket de NoMod se jugará sin modos activados.
 6. El bracket de Hidden, HardRock y DoubleTime se jugará con los respectivos modos activados.
-7. El bracket de FreeMod se jugará con FreeMod activado. Cada jugador puede elegir entre Hidden, HardRock o ningún modo.
+7. El bracket de FreeMod se jugará con FreeMod activado. Cada jugador puede elegir entre Hidden, HardRock o ningún mod.
    - Cuando se juegue un mapa FreeMod, al menos 1 jugador de cada equipo debe tener un modo activado.
 8. El desempate se jugará en condiciones FreeMod.
    - Cuando se juegue el desempate, no es necesario que nadie tenga un modo activado.
@@ -521,7 +521,7 @@ Domingo, 8 de marzo de 2015:
 ### Instrucciones de la programación
 
 1. Cada etapa se celebrará en **un único fin de semana**.
-2. Los partidos de la fase de grupos podrán solaparse.
-3. Todas las etapas de doble eliminación se celebrarán el sábado o el domingo.
+2. Los partidos de la fase de grupos pueden solaparse.
+3. Todas las etapas de doble eliminación se llevarán a cabo el sábado o el domingo.
 4. La organización del torneo se encargará de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase.
 5. Los capitanes son responsables de la disponibilidad de su equipo. El mayor tamaño del equipo existe para asegurar que cada equipo pueda proporcionar al menos tres jugadores para cada partido. Si los equipos no pueden aportar tres jugadores para un partido, este se considerará perdido.
