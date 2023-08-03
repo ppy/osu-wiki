@@ -393,7 +393,7 @@ Only the top 32 teams advance to the next round.
 5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
    - These A and B players can't be swapped for the entire stage.
 6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
-7. Each team must use `!roll` command at the start of every set in `#multiplayer`.
+7. Each team must use the `!roll` command at the start of every set in `#multiplayer`.
    - The winner of the `!roll` starts picking first.
    - The loser of the `!roll` picks second.
-8. There wont be bans in this stage.
+8. There will be no bans in this stage.
