@@ -118,17 +118,17 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### Rules
 
-- **[[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は二つのオブジェクトの間には少なくとも125msが必要です。**
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は二つのオブジェクトの間には少なくとも125msが必要です。**
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は個々の[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)やスライダーのリピートには使用できません。** プレイヤーはこのレベルでは必要な精度とコントロールがありませんからスライダーの道を読み取ることに失敗する可能性が多いです
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は違うビートスナップに連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)の間に二回以上は使用してはいけません。** 例えば、1/2のハイパーダッシュの後に1/4のハイパーダッシュを使うことは避けてください。
 - **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
-- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は他の[ダッシュ](/wiki/Gameplay/Dash)やハイパーダッシュと組み合わせて使用してはいけません。**
-- **[Dashes](/wiki/Gameplay/Dash) must have at least a 62 ms gap between their two objects.**
-- **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
-- **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) can be used up to two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit), provided there isn't a direction change between them.**
-- **[Edge dashes](/wiki/Gameplay/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
-- **At least 125 ms must be left between circles/sliders and the start of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
-- **At least 250 ms must be left between circles/sliders and the end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は他の[ダッシュ](/wiki/Gameplay/Dash)や[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)と組み合わせて使用してはいけません。**
+- **[ダッシュ](/wiki/Gameplay/Dash)は二つのオブジェクトの間には少なくとも62msが必要です。**
+- **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は四回を超えて使うのはいけません。**
+- **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)で最大ニ回まで使用できますが、その間に方向の変更がない場合に限ります。**
+- **[Edge dashes](/wiki/Gameplay/Edge_dash)は禁止されています。** 非常に正確なタイミング必要があるので初心者プレイヤーにとっては不当です。
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点の間には少なくとも125 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の終点の間には少なくとも250 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
 
 #### Guidelines
 
