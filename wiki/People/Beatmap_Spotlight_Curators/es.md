@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-Los **Beatmap Spotlight Curators** (***BSC***) es un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmaps Spotlights](/wiki/Beatmap_Spotlights). Se distinguen por su insignia del [grupo de usuarios](/wiki/People/User_group) azul pizarra que dice `BSC`.
+Los **Beatmap Spotlight Curators** (***BSC***) son un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmaps Spotlights](/wiki/Beatmap_Spotlights). Se distinguen por su insignia del [grupo de usuarios](/wiki/People/User_group) azul pizarra que dice `BSC`.
 
 ## Convertirse en curador
 
