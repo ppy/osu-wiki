@@ -77,7 +77,7 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Notes will be snapped to the grid by default. |
+| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Hit objects will be snapped to the grid by default. |
 | `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive objects will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
 | `Lock Notes` (`L`) | **(Select a hit object)** `Left click`: Lock this object. | Lock selected object to current position and timestamp. |
 
