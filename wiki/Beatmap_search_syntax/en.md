@@ -49,7 +49,7 @@ For more granular filtering, you can list specific beatmap fields and how they s
 | `unplayed` | Show only unplayed maps. A comparison with no set value must be used (e.g. `unplayed=`). The comparison itself is ignored. |
 | `speed` | Saved osu!mania scroll speed. The scroll speed is always 0 for unplayed maps, or if the [`Remember osu!mania scroll speed per beatmap`](/wiki/Client/Options#gameplay) option is off. |
 
-## Website[^website-filters]:
+## Website[^website-filters]
 
 | Filter | Description |
 | :-: | :-- |
@@ -68,7 +68,7 @@ For more granular filtering, you can list specific beatmap fields and how they s
 | `created` | Beatmap creation date |
 | `ranked` | Beatmap ranking/approval date |
 
-## osu!(lazer)[^lazer-filters]:
+## osu!(lazer)[^lazer-filters]
 
 | Filter | Description |
 | :-: | :-- |
