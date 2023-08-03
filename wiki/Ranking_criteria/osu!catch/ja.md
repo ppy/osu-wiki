@@ -6,17 +6,17 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 ## 全体的なルール、ガイドライン (Overall)
 
-あらゆるのosu!catch譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは、4/4 拍子でBPM 180程度の曲に基づいています。曲がかなり速かったり遅かったりする場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
+全てのosu!catch譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。曲がかなり速かったり遅かったりする場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
 
 ### 一般 (General)
 
 #### ルール (Rules)
 
-- **理論的にはSSができなければならないです。** 全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、スライダーの中に[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)も[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)とる事ができる必要です。
-- **デフォルトスキンを強制使用させない場合、少なくとも二つの[コンボカラー](/wiki/Beatmapping/Combo_colour)を使用する必要があります。** コンボカラーは譜面の画像、ストーリーボード、ビデオと溶け込めはいけません。これはオブジェクトが簡単にプレイヤーに見えるようにし、カスタムスキンのコンボカラーが誤って画像と混ざらないようにするためです。
+- **SSができなければならないです。** 譜面に現れる全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)と[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)と[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)はとられるようにしないといけません。
+- **デフォルトスキンを強制使用させない場合、[コンボカラー](/wiki/Beatmapping/Combo_colour)を2色以上を使用する必要があります。** コンボカラーは譜面の画像、ストーリーボード、ビデオと溶け込めはいけません。これはオブジェクトが簡単にプレイヤーに見えるようにし、カスタムスキンのコンボカラーが誤って画像と混ざらないようにするためです。
 - **hitnormalの付いていない[キーサウンド](wiki/Beatmapping/Hitsound#keysound)は禁止です。** サウンドが曲と完全に調和していれば、打時のフィードバックは聞き取りにくいです。
 - **もし、全ての難易度の[drain time](/wiki/Beatmap/Drain_time)は…**
-  - **…2分30秒を下回る場合**、 最低難易度はSaladより難しくは禁止です。
+  - **…2分30秒を下回る**、 最低難易度はSaladより難しくは禁止です。
   - **…2分30秒から3分15秒の間に**、 最低難易度はPlatterより難しくは禁止です。
   - **…3分15秒から4分の間に**、 最低難易度はRainより難しくは禁止です。
   - **上記の閾値を満たすために[drain time](/wiki/Beatmap/Drain_time)と[break time](/wiki/Beatmap/Break)組み合わせることができます。** 最高難易度の場合は、break timeは最大30秒に制限しています。30秒以内の譜面は適用されないです。
@@ -24,10 +24,10 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 #### ガイドライン (Guidelines)
 
 - **全てのサークルとスライダーは曲の特徴的な音に合わせてください。** 普通に明瞭な音ですが、始まりと終わりの区別がつかない連続音を表すこともあります。
-- **Extendedスライダーテールは、曲の拍子にスナップするように。** 曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
+- **Extendedスライダーテールは曲の拍子にスナップするように。** 曲がストレートビートを使用している場合は1/4、1/8、1/16を使用してください。同様にスウィングビートならば1/6、1/12を使用してください。これらの違うのスナップがあれば場合は、常に実際のビートに合わせてスナップをすることをしてください。
 - **[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)からの行き先はプレイフィールドの左右の境界近くにある場合には使用しないことです。** キャッチャーがプレイフィールドの境界の壁に当てたときに強制に停止して不快な動きを生じさせるです。（左の境界線はx:16、右の境界線はx:496）
 - **[コンボ](/wiki/Beatmapping/Combo)が無理な長さにならないようにしてください。** 捕らえた[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は皿の上に積み重なり、プレイヤーの視界を妨げる可能性があります。スライダーエンド、リピート、[スピナー](/wiki/Gameplay/Hit_object/Spinner)の[バナナ](/wiki/Gameplay/Hit_object/Banana)もフルーツとして計数えることに注意してください。このような事態を避けるために新しいコンボは定期的にするように。
-- **マップに多様性を持たせ、スコアに変動を持たせるために、各難易度に少なくとも一つの[スピナー](/wiki/Gameplay/Hit_object/Spinner)を入れてようにしてください。** しかし、スピナーが曲のどこにも合わないのであれば、無理にスピナーを入れる必要はないです。
+- **マップに多様性を持たせ、スコアに変動を持たせるために各難易度に少なくとも一つの[スピナー](/wiki/Gameplay/Hit_object/Spinner)を入れてようにしてください。** しかし、スピナーが曲のどこにも合わないのであれば、無理にスピナーを入れる必要はないです。
 - **[OD](/wiki/Beatmap/Overall_difficulty)は[AR](/wiki/Beatmap/Approach_rate)と同じであるべきです。** ODはゲームプレイや[スピナー](/wiki/Gameplay/Hit_object/Spinner)のバナナの数に影響しないので、これは単なる標準化された値です。ODは譜面の最高得点にのみ影響します。
   - 難易度より下の難易度よりも低いARを使用している場合、ODは、その難易度より前の最もODの値と同じべきであります。
 - **スライダーの目盛は、曲に合わせて設定する必要があります。** 例えば、1/3スナップしか使わない曲の場合、スライダーの目盛は2や4を使うのは適切ではないです。
@@ -49,7 +49,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 ## 難易度別 (Difficulty-specific)
 
-難易度別のルールとガイドラインは、それらがリストされている難易度レベルにのみ適用されます。**したがって、それらはすべてのosu!catch難易度には適用されません。** リズムに関連するルールとガイドラインは、4/4 拍子でBPM 180程度の曲に基づいています。もし曲が著しく速いか遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳細に説明されています。
+難易度別のルールとガイドラインは、それらがリストされている難易度レベルにのみ適用されます。**したがって、それらはすべてのosu!catch難易度には適用されません。** リズムに関連するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。もし曲が著しく速いか遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳細に説明されています。
 
 ### 難易度の名前 (Difficulty names)
 
@@ -62,8 +62,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 ### スナップ基準表 (Snapping reference Table)
-//cant think of good terms for this lol いい言葉が思いつかないんですおｒｚ
-| 難易度 | 簡単なダッシュ | 早いダッシュ | 簡単なハイパーダッシュ | 早いハイパーダッシュ |
+| 難易度 | やさしいダッシュ | 難しいダッシュ | やさしいハイパーダッシュ | 難しいハイパーダッシュ |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
 | **Salad** | 250ミリ秒以上 | 125-249ミリ秒 | - | - |
@@ -80,40 +79,40 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### Guidelines
 
-- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
 - **ノート密度は主に1/1のリズムです。** 1/2およびかまたは1/3のリズムは控えめに使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間でに設定してください。
-- [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間でに設定してください。
-- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間でに設定してください。
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間に設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間に設定してください。
+- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間に設定してください。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
 #### Rules
 
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
-- **[Dashes](/wiki/Gameplay/Dash) must have at least a 125 ms gap between their two objects.**
-- **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
-- **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must always be followed by a [walk](/wiki/Gameplay/Walk).**
-- **[Edge dashes](/wiki/Gameplay/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
-- **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は禁止されています。** 初心者プレイヤーにとって扱いやすい難易度のステップを確保するためです。
+- **[ダッシュ](/wiki/Gameplay/Dash)の二つのオブジェクトの間には少なくとも125msが必要です。**
+- **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
+- **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[歩く](/wiki/Gameplay/Walk)ことがないといけないです**
+- **[Edge dashes](/wiki/Gameplay/Edge_dash)は禁止されています。** 非常に正確なタイミング必要があるので初心者プレイヤーにとっては不当です。
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点と終点の間には少なくとも250 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
 
 #### Guidelines
 
-- **All distances should be clear on whether they require the player to [walk](/wiki/Gameplay/Walk) or [dash](/wiki/Gameplay/Dash).** This is to ensure that players can easily recognise patterns that require dashing.
-- **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
-- **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.**
-- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
-- **[Combos](/wiki/Beatmapping/Combo) should not exceed 10 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly.
+- **すべての距離はプレイヤーに[歩く](/wiki/Gameplay/Walk)と[ダッシュ](/wiki/Gameplay/Dash)を明確に示すべきです。** ダッシュが必要なパターンを簡単に読めるようのことです。
+- **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は違うビートスナップが使用されている場合に連続して使われるべきではありません。** 例えば、1/1のダッシュの後に1/2のダッシュを使うことは避けてください。
+- **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンはいけません。**
+- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に10つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **ノート密度は主に1/1と1/2のリズムです。** 1/4およびかまたは1/3のリズムは控えめに使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 6 and 7.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 3 and 4.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 2.5 and 3.5.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は6から7の間に設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は3から4の間に設定してください。
+- [Circle Size](/wiki/Beatmap/Circle_size) は2.5から3.5の間に設定してください。
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
