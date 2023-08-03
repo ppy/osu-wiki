@@ -143,7 +143,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 | `Sampleset` | Auto, Normal, Soft, Drum | Change the sampleset ignoring the current one on timing section. |
 | `Additions` | Auto, Normal, Soft, Drum | Same as above, but overrides the `Sampleset` setting. |
 | `Select` (`1`) | `Left click`**/drag**: Move timestamp and location of a note. `Right click`: Remove note. `Ctrl` **+** `Left click`: Multiple selection. | Select and modify existing notes. |
-| `Circle` (`2`) | `Left click`: Place note. `Right click`: Remove note. | Add note to current column based on mouse position. |
+| `Circle` (`2`) | `Left click`: Place note. | Add note to current column based on mouse position. |
 | `Hold` (`3`) | **Hold** `Left click`: Place hold note and adjust length. **Release on end**: Set hold end | Add hold note to current column based on mouse position. |
 
 ### Centre (Playfield)
