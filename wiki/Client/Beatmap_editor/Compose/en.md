@@ -83,7 +83,7 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ### Bottom (Song's timeline)
 
-![Song's timeline](img/BE_HSAT.jpg "Song's timeline")
+![Song's timeline](/wiki/shared/BE_STL.jpg "Song's timeline")
 
 At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
