@@ -20,7 +20,7 @@ But that's not all! We have an exciting announcement for all anime enthusiasts o
 Prepare for action-packed episodes each lasting as long as the anime you love!
 The OCC animated series will faithfully follow the manga, capturing the essence and excitement of a traditional anime experience.
 
-All of the episodes of the OCC Animated Series will be available exclusively on the [VTX YouTube Channel.](https://www.youtube.com/channel/UC7-9V57omhXSVxX9s809n5A) Stay tuned for its release!
+All of the episodes of the OCC Animated Series will be available exclusively on the [VTX YouTube channel.](https://www.youtube.com/channel/UC7-9V57omhXSVxX9s809n5A) Stay tuned for its release!
 
 ## Curious to know who will grace the series with their presence? We are thrilled to feature some of your favorite top players! including
 
