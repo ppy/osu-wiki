@@ -12,7 +12,7 @@ WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The s
  
  Prepare yourselves for a journey like no other as we introduce the highly anticipated osu! Combat Championship (OCC) manga and its thrilling adaptation into an animated series.
 
- Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out
+ Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out for the ultimate goal: attaining the prestigious rank 1 title and having any wish granted. Get ready to experience exhilarating action sequences, intense rivalries, and delve deeper into our unique spin on the world of osu!.
  for the ultimate goal: attaining the prestigious rank #1 title and having any wish granted. Get ready to experience exhilarating action sequences, intense rivalries, and delve deeper into our unique spin on the world of osu!
 
 For those eager to dive into the manga, head over to Mangadex and start **reading now!:** [Read OCC Manga on Mangadex](https://mangadex.org/title/f1d50eba-6ace-4490-8439-07692fda3b9c/osu-combat-championship)
