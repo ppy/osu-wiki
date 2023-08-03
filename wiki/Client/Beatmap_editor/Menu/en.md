@@ -33,7 +33,7 @@
 | :-- | :-- |
 | Upload Beatmap... (`Ctrl` + `Shift` + `U`) | [Upload](/wiki/Beatmapping/Beatmap_submission) the beatmap to the [Works In Progress](https://osu.ppy.sh/community/forums/10) forum. |
 | Export Package... | Export the beatmap as an [`.osz`](/wiki/Client/File_formats/osz_(file_format)) archive for self-distribution, and open the `Exports` folder that contains it. |
-| Extract Map Package | Extract an `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> beatmap into a temporary folder to override its files during modding. This option is disabled for regular `osz` beatmaps. |
+| Extract Map Package | Extract an `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> beatmap into a temporary folder to override its files during modding.[^osz2-note] |
 | Import from... | **bms/bme:** Open a `.bms`/`.bme` file to be imported as an osu!mania difficulty. |
 
 ### Programmer's commands
@@ -48,7 +48,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| Exit... (`Esc`) | Exit the beatmap editor, suggesting to save recent changes beforehand. This option sometimes *ignores* changes made in the `Design` tab. |
+| Exit... (`Esc`) | Exit the beatmap editor, suggesting to save recent changes beforehand.[^exit-note] |
 
 ## Edit
 
@@ -136,7 +136,7 @@
 | Snaking sliders | Sliders gradually snake out from their starting point. |
 | Hit animations | Animate hit objects as if being clicked during gameplay. |
 | Follow points | Display and animate follow points as if during gameplay. |
-| Stacking | Stack overlaid hit circles as if during gameplay. The stacking behaviour is controlled by the [stack leniency](/wiki/Beatmap/Stack_leniency) setting of the difficulty. |
+| Stacking | Stack overlaid hit circles as if during gameplay.[^stacking-note] |
 
 ## Compose
 
@@ -158,7 +158,7 @@
 | :-- | :-- |
 | Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | Create a regular polygon consisting of several hit circles, using the active beat snap divisor for circle placement. |
 | Convert slider to stream... | Replace the [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) of a selected slider with a [stream](/wiki/Beatmap/Pattern/osu!/Stream) of hit circles. **By object count:** use a specified amount of hit circles. **By distance snap:** use the exact [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) between hit circles. |
-| Enable live mapping mode (`Ctrl` + `Tab`) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to place hit circles or fruits while playing the song in editor. The circles are placed under the cursor, and different hitsounds are applied based on the key pressed. osu!mania maps: use osu!mania keys to place notes while playing song in editor. Notes are placed in the column corresponding to the key pressed. Does not work for sliders/holds. |
+| Enable live mapping mode (`Ctrl` + `Tab`) | Place osu!/osu!taiko [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), osu!catch [fruits](/wiki/Gameplay/Hit_object/Fruit), or osu!mania notes with gameplay keybinds while the song is playing.[^live-mapping-note] |
 | Sample import | Open the [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) window for osu!mania difficulties. |
 
 ## Design
@@ -206,7 +206,7 @@
 | :-- | :-- |
 | Resnap All Notes | Resnap all hit objects of the difficulty according to the active beat snap divisor. |
 | Move all notes in time.. | Move all hit objects by a given amount of milliseconds. |
-| Recalculate Slider Lengths | Resnap [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. Useful if the BPM or [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) has been changed. |
+| Recalculate Slider Lengths | Automatically resnap[^recalculate-lengths-note] all [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. |
 | Delete All Timing Sections | Remove all uninherited and inherited timing sections of the current difficulty. |
 
 ### Preview command
@@ -230,5 +230,14 @@
 
 | Name | Description |
 | :-- | :-- |
-| Show in-game help | Show the help overlay with key bindings and short explanations. Note: does not work anymore. |
+| Show in-game help | Show the help overlay with key bindings and short explanations.[^help-note] |
 | View FAQ... | Open the [Beatmapping](/wiki/Beatmapping) wiki article. |
+
+## Notes
+
+[^osz2-note]: This action is disabled for regular `osz` beatmaps.
+[^exit-note]: This action sometimes *ignores* changes made in the `Design` tab.
+[^stacking-note]: The stacking behaviour is controlled by the [stack leniency](/wiki/Beatmap/Stack_leniency) setting of the difficulty.
+[^live-mapping-note]: osu!, osu!taiko, and osu!catch use the osu!taiko key bindings.
+[^recalculate-lengths-note]: Useful if the BPM or [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) has been changed.
+[^help-note]: This action does not work anymore.
