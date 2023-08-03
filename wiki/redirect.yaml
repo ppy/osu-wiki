@@ -317,7 +317,6 @@
 "make_properly_centered_spinners":        "Guides/Making_Properly_Centered_Spinners"
 "osu!mania_mapping_guide":                "Guides/osu!mania_mapping_guide"
 "recording_osu!":                         "Guides/Recording_osu!"
-"searching_and_downloading_beatmaps":     "Guides/Searching_and_downloading_beatmaps"
 "setting_the_offset_on_the_correct_beat": "Guides/Setting_the_offset_on_the_correct_beat"
 "starting_a_beatmap_project":             "Guides/Starting_a_beatmap_project"
 "tablet_purchase":                        "Guides/Tablet_purchase"
@@ -2137,7 +2136,9 @@
 
 "client/release_stream/lazer/feature_comparison": "Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)"
 
-"search_beatmaps":    "Beatmap_search_syntax"
-"searching_beatmaps": "Beatmap_search_syntax"
-"filter_beatmaps":    "Beatmap_search_syntax"
-"beatmap_search":     "Beatmap_search_syntax"
+"search_beatmaps":                           "Beatmap_search_syntax"
+"searching_beatmaps":                        "Beatmap_search_syntax"
+"filter_beatmaps":                           "Beatmap_search_syntax"
+"beatmap_search":                            "Beatmap_search_syntax"
+"searching_and_downloading_beatmaps":        "Beatmap_search_syntax"
+"guides/searching_and_downloading_beatmaps": "Beatmap_search_syntax"
