@@ -312,6 +312,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [ADA - cof](https://soundcloud.com/ukuposxlnqdh/ada-cof) | [#1](https://osu.ppy.sh/beatmapsets/2023393) | Qualifiers NM1 |
 | [Anfini - Gratia](https://www.youtube.com/watch?v=4Zz5cKpz00k) | [#1](https://osu.ppy.sh/beatmapsets/2036550) | Finals HD2 |
 | [Azurux - Get this drums](https://soundcloud.com/azurux/get-this-drums) | [#1](https://osu.ppy.sh/beatmapsets/2023371) | Qualifiers HR1 |
+| [blobdash - Myosotis Entrance](https://soundcloud.com/blobdash/myosotis-entrance) |  | Cutscene background music |
 | [GTS Sound Team - <<wr/d.:maker>> \~Harmony in Reset\~](https://soundcloud.com/blobdash/wrldmaker) | [#1](https://osu.ppy.sh/beatmapsets/2036571) | Finals tiebreaker |
 | [Gomadare - Resolver](https://www.youtube.com/watch?v=LazTyDAhaDg) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | Qualifiers DT1 |
 | [HAGISOPH - Trip Coffee](https://www.youtube.com/watch?v=_Ua-OGqu2rQ) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | Qualifiers NM3 |
