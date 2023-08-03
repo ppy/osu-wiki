@@ -17,14 +17,14 @@
 
 | Name | Description |
 | :-- | :-- |
-| Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the beatmap. |
-| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the beatmap and reload all files (sprites, sound samples). |
+| Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the difficulty. |
+| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the difficulty and reload all files (sprites, sound samples). |
 
 ### Troubleshoot commands
 
 | Name | Description |
 | :-- | :-- |
-| Test Beatmap (`F5`) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the beatmap, offering to save changes beforehand. |
+| Test Beatmap (`F5`) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the difficulty, offering to save changes beforehand. |
 | Open AiMod (`Ctrl` + `Shift` + `A`) | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 ### Beatmap packaging commands
@@ -190,7 +190,7 @@
 | :-- | :-- |
 | Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
 | Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
-| Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the beatmap will delete these sections if unmodified. |
+| Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the difficulty will delete these sections if unmodified. |
 | Delete Timing Section (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
 | Resnap Current Section | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
 
