@@ -44,7 +44,7 @@ The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tourna
 
 ## Mappools
 
-### Finals
+### Round of 16 & Finals
 
 - No Mod
   1. [Wagakki Band - Tengaku (Shiro) [Uncompressed Fury of a Raging Japanese God]](https://osu.ppy.sh/beatmapsets/336414#osu/816327)
