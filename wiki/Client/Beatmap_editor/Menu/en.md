@@ -33,22 +33,22 @@
 | :-- | :-- |
 | Upload Beatmap... (`Ctrl` + `Shift` + `U`) | [Upload](/wiki/Beatmapping/Beatmap_submission) the beatmap to the [Works In Progress](https://osu.ppy.sh/community/forums/10) forum. |
 | Export Package... | Export the beatmap as an [`.osz`](/wiki/Client/File_formats/osz_(file_format)) archive for self-distribution, and open the `Exports` folder that contains it. |
-| Extract Map Package | Extract an `osz2`<!-- TODO(TicClick: add a link when the article is up)--> beatmap into a temporary folder to override its files during modding. This option is disabled for regular `osz` beatmaps. |
-| Import from... | **bms/bme:** Open a `.bms`/`.bme` file to be imported as osu!mania difficulty. |
+| Extract Map Package | Extract an `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> beatmap into a temporary folder to override its files during modding. This option is disabled for regular `osz` beatmaps. |
+| Import from... | **bms/bme:** Open a `.bms`/`.bme` file to be imported as an osu!mania difficulty. |
 
 ### Programmer's commands
 
 | Name | Description |
 | :-- | :-- |
-| Open Song Folder | Open the beatmap's folder, which contains relevant files. |
-| Open `.osu` in Notepad | Open the beatmap's difficulty file in MS Notepad. |
+| Open Song Folder | Open the beatmap's folder, which contains relevant game files. |
+| Open `.osu` in Notepad | Open the file for the currently selected difficulty in MS Notepad. |
 | Open `.osb` in Notepad | Open the beatmap's [storyboard](/wiki/Storyboard) file in MS Notepad. |
 
 ### Emergency exit command
 
 | Name | Description |
 | :-- | :-- |
-| Exit... (`Esc`) | Exit the beatmap editor, suggesting to save recent changes beforehand. This option sometimes *ignores* the `Design` tab changes. |
+| Exit... (`Esc`) | Exit the beatmap editor, suggesting to save recent changes beforehand. This option sometimes *ignores* changes made in the `Design` tab. |
 
 ## Edit
 
@@ -81,13 +81,13 @@
 
 | Name | Description |
 | :-- | :-- |
-| Reverse Selection (`Ctrl` + `G`) | **Slider:** change the direction to the opposite. **Arbitrary selection:** reorder hit objects in time, making the last one the first, and so on. |
-| Flip Horizontally (`Ctrl` + `H`) | Mirror the selection across the Y axis of the playfield (from left to right, or vice versa). |
-| Flip Vertically (`Ctrl` + `J`) | Mirror the selection across the X axis of the playfield (from up to down, or vice versa). |
-| Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the selection 90° right around the playfield centre. |
-| Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the selection 90° left around the playfield centre. |
+| Reverse Selection (`Ctrl` + `G`) | Reverses the direction of the sliders and reorders hit objects in time, making the last one the first and so on. |
+| Flip Horizontally (`Ctrl` + `H`) | Mirror the selection across the Y axis of the playfield (left and right). |
+| Flip Vertically (`Ctrl` + `J`) | Mirror the selection across the X axis of the playfield (up and down). |
+| Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the selection 90° to the right around the playfield centre. |
+| Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the selection 90° to the left around the playfield centre. |
 | Rotate by... (`Ctrl` + `Shift` + `R`) | Rotate the selection by a custom angle around the playfield or the selection centre. |
-| Scale by... (`Ctrl` + `Shift` + `S`) | Scale the selection by moving its objects further from the playfield or the selection centre, across one or more axis. |
+| Scale by... (`Ctrl` + `Shift` + `S`) | Scale the selection by moving its objects further from the playfield or the selection centre, across one or more axes. |
 
 ### Reset buttons
 
@@ -95,15 +95,15 @@
 | :-- | :-- |
 | Reset selected objects' samples | Remove [hitsound additions](/wiki/Beatmapping/Hitsound) from the selection. |
 | Reset all samples | Remove hitsound additions from all hit objects of the difficulty. |
-| Reset combo colours | Remove all [combo colour overrides](/wiki/Beatmapping/Colourhaxing) from all hit objects of the difficulty. |
+| Reset combo colours | Remove all [combo colour overrides](/wiki/Beatmapping/Colourhaxing) from all hit objects of the current difficulty. |
 | Reset breaks | Reset custom start/end times of all [breaks](/wiki/Beatmap/Break), placing them next to surrounding hit objects. |
 
 ### Nudge commands
 
 | Name | Description |
 | :-- | :-- |
-| Nudge Backward (`J`) | Move the selection one tick backward, based on the active [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor). |
-| Nudge Forward (`K`) | Move the selection one tick forward, based on the active beat snap divisor. |
+| Nudge Backward (`J`) | Move the selection one tick backwards, based on the active [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor). |
+| Nudge Forward (`K`) | Move the selection one tick forwards, based on the active beat snap divisor. |
 
 ## View
 
@@ -130,10 +130,10 @@
 | :-- | :-- |
 | Volume | Adjust the volume level of music or hitsounds. |
 | Grid Level (`G`) | Adjust the coarseness of the playfield [grid](/wiki/Beatmapping/Grid_snapping) used for object [snapping](/wiki/Beatmapping/Snapping). |
-| Show Video/Storyboard | Toggle visibility of the background video or the storyboard. |
+| Show Video/Storyboard | Toggle visibility of the background video and storyboard. |
 | Dim Background | Dim the background in [test mode](/wiki/Client/Beatmap_editor/Test_mode), making hit objects more visible. |
 | Show Sample Name | For osu!mania difficulties, show [keysound samples' names](/wiki/Beatmapping/Hitsound#keysound) attached to the notes. |
-| Snaking sliders | Sliders gradually snake out from their starting point, as if during gameplay. |
+| Snaking sliders | Sliders gradually snake out from their starting point. |
 | Hit animations | Animate hit objects as if being clicked during gameplay. |
 | Follow points | Display and animate follow points as if during gameplay. |
 | Stacking | Stack overlaid hit circles as if during gameplay. The stacking behaviour is controlled by the [stack leniency](/wiki/Beatmap/Stack_leniency) setting of the difficulty. |
@@ -156,10 +156,10 @@
 
 | Name | Description |
 | :-- | :-- |
-| Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | Create a regular polygon consisting of several hit circles, using active beat snap divisor for circle placement. |
-| Convert slider to stream... | Replace the [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) of a selected slider with a [stream](/wiki/Beatmap/Pattern/osu!/Stream) of hit circles. **By object count:** use the exact amount of hit circles. **By distance snap:** use the exact [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) between hit circles. |
+| Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | Create a regular polygon consisting of several hit circles, using the active beat snap divisor for circle placement. |
+| Convert slider to stream... | Replace the [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) of a selected slider with a [stream](/wiki/Beatmap/Pattern/osu!/Stream) of hit circles. **By object count:** use a specified amount of hit circles. **By distance snap:** use the exact [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) between hit circles. |
 | Enable live mapping mode (`Ctrl` + `Tab`) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to place hit circles or fruits while playing the song in editor. The circles are placed under the cursor, and different hitsounds are applied based on the key pressed. osu!mania maps: use osu!mania keys to place notes while playing song in editor. Notes are placed in the column corresponding to the key pressed. Does not work for sliders/holds. |
-| Sample import | Open the [Sample Import](/wiki/Client/Beatmap_editor/Compose#sample-import) window for osu!mania difficulties. |
+| Sample import | Open the [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) window for osu!mania difficulties. |
 
 ## Design
 
@@ -181,7 +181,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| Time Signature | Choose the [signature](/wiki/Music_theory/Time_signature) of the current timing point. For exotic timing, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Time Signature | Select the [time signature](/wiki/Music_theory/Time_signature) for the current timing point, between 4/4 (common) or 3/4 (waltz). For other time signatures, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
 | Metronome Clicks | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#metronome) on the `Timing` tab. |
 
 ### Markers commands
@@ -190,7 +190,7 @@
 | :-- | :-- |
 | Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
 | Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
-| Reset Current Section | Reset [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section, allowing to [re-time](/wiki/Beatmapping/Timing) it. Saving the beatmap will delete the sections without timing settings. |
+| Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the beatmap will delete these sections if unmodified. |
 | Delete Timing Section (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
 | Resnap Current Section | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
 
@@ -206,14 +206,14 @@
 | :-- | :-- |
 | Resnap All Notes | Resnap all hit objects of the difficulty according to the active beat snap divisor. |
 | Move all notes in time.. | Move all hit objects by a given amount of milliseconds. |
-| Recalculate Slider Lengths | Resnap the [ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) of all sliders to the nearest timeline tick, **potentially shortening them** (requires manual rechecking). Useful if the BPM or [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) have been changed. |
-| Delete All Timing Sections | Remove all uninherited and inherited timing sections of the difficulty. |
+| Recalculate Slider Lengths | Resnap [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. Useful if the BPM or [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) has been changed. |
+| Delete All Timing Sections | Remove all uninherited and inherited timing sections of the current difficulty. |
 
 ### Preview command
 
 | Name | Description |
 | :-- | :-- |
-| Set Current Position as Preview Point | Use the current timestamp as the preview point for the [song select](/wiki/Client/Interface#song-select) screen. |
+| Set Current Position as Preview Point | Use the current timestamp as the preview point for the website and [song select](/wiki/Client/Interface#song-select) screen. |
 
 ## Web
 
@@ -221,7 +221,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website (`https://osu.ppy.sh/beatmaps/<BeatmapID>`) |
+| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
 | This Beatmap's Thread | Open the beatmap's forum thread. |
 
 ## Help
@@ -230,5 +230,5 @@
 
 | Name | Description |
 | :-- | :-- |
-| Show in-game help | Show the help overlay with key bindings and short explanations. Note: doesn't work anymore. |
+| Show in-game help | Show the help overlay with key bindings and short explanations. Note: does not work anymore. |
 | View FAQ... | Open the [Beatmapping](/wiki/Beatmapping) wiki article. |
