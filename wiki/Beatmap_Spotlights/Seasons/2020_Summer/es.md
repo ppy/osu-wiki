@@ -9,23 +9,23 @@ tags:
   - Destacados de temporada
 ---
 
-# Ejecución de prueba de Beatmaps Destacados (Verano 2020)
+# Ejecución de prueba de Beatmaps Spotlights (Verano 2020)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 6 jul. 2020 |
-| Sala temporal: Lista de juego A | 10 jul. - 12 jul. 2020 |
-| Sala temporal: Lista de juego B | 17 jul. - 19 jul. 2020 |
-| Sala temporal: Lista de juego C | 24 jul. - 26 jul. 2020 |
-| Sala temporal: Lista de juego D | 31 jul. - 2 ago. 2020 |
-| Sala temporal: Lista de juego A | 7 ago. - 9 ago. 2020 |
-| Sala temporal: Lista de juego B | 14 ago. - 16 ago. 2020 |
-| Sala temporal: Lista de juego C | 21 ago. - 23 ago. 2020 |
-| Sala temporal: Lista de juego D | 28 ago. - 30 ago. 2020 |
-| Sala temporal: Listas de juego A y B | 4 sept. - 6 sept. 2020 |
-| Sala temporal: Listas de juego C y D | 11 sept. - 13 sept. 2020 |
+| Sala temporal: Playlist A | 10 jul. - 12 jul. 2020 |
+| Sala temporal: Playlist B | 17 jul. - 19 jul. 2020 |
+| Sala temporal: Playlist C | 24 jul. - 26 jul. 2020 |
+| Sala temporal: Playlist D | 31 jul. - 2 ago. 2020 |
+| Sala temporal: Playlist A | 7 ago. - 9 ago. 2020 |
+| Sala temporal: Playlist B | 14 ago. - 16 ago. 2020 |
+| Sala temporal: Playlist C | 21 ago. - 23 ago. 2020 |
+| Sala temporal: Playlist D | 28 ago. - 30 ago. 2020 |
+| Sala temporal: Playlists A y B | 4 sept. - 6 sept. 2020 |
+| Sala temporal: Playlists C y D | 11 sept. - 13 sept. 2020 |
 | Conclusión de la temporada | 14 sept. - 18 sept. 2020 |
 
 ## Salas multijugador semanales
@@ -42,40 +42,40 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).
-4. La puntuación semanal total visible en la sala temporal se denomina "puntuación semanal".
+4. La puntuación semanal total visible en la sala temporal se denomina «puntuación semanal».
 5. Una vez que concluye una sala temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ### Lista de juego A
 
 | Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
-| 10/07/2020 (14:00 UTC) | 13/07/2020 (14:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
-| 07/08/2020 (19:00 UTC) | 10/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
-| 04/09/2020 (18:00 UTC) | 07/09/2020 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
+| 10/7/2020 (14:00 UTC) | 13/7/2020 (14:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
+| 7/8/2020 (19:00 UTC) | 10/8/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
+| 4/9/2020 (18:00 UTC) | 7/9/2020 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
 
 ### Lista de juego B
 
 | Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
-| 17/07/2020 (16:00 UTC) | 20/07/2020 (16:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
-| 14/08/2020 (21:00 UTC) | 17/08/2020 (21:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
-| 04/09/2020 (18:00 UTC) | 07/09/2020 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
+| 17/7/2020 (16:00 UTC) | 20/7/2020 (16:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
+| 14/8/2020 (21:00 UTC) | 17/8/2020 (21:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
+| 4/9/2020 (18:00 UTC) | 7/9/2020 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
 
 ### Lista de juego C
 
 | Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
-| 24/07/2020 (15:30 UTC) | 27/07/2020 (15:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
-| 21/08/2020 (20:30 UTC) | 24/08/2020 (20:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
-| 11/09/2020 (19:00 UTC) | 14/09/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
+| 24/7/2020 (15:30 UTC) | 27/7/2020 (15:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
+| 21/8/2020 (20:30 UTC) | 24/8/2020 (20:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
+| 11/9/2020 (19:00 UTC) | 14/9/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
 
 ### Lista de juego D
 
 | Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
-| 31/07/2020 (19:00 UTC) | 03/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
-| 28/08/2020 (19:00 UTC) | 31/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
-| 09/11/2020 (19:00 UTC) | 14/09/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265) |
+| 31/7/2020 (19:00 UTC) | 3/8/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
+| 28/8/2020 (19:00 UTC) | 31/8/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
+| 9/11/2020 (19:00 UTC) | 14/9/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265) |
 
 ## Tablas de clasificación
 
@@ -305,7 +305,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -341,7 +341,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!taiko
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -377,7 +377,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!catch
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 
@@ -413,7 +413,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!mania
 
-*Nota: Puede [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.*
+*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.*
 
 #### Lista de juego A
 

@@ -10,6 +10,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 | Musique | Notes |
 | :-: | :-- |
+| [Redside - beachballs!](https://soundcloud.com/redside100/beachballs)[^fa-catalogue] | Thème d'osu! lors de l'été 2023 |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'[osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Thème d'osu! en 2015 |
@@ -273,6 +274,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Tiebreaker des Grandes Finales |
 | [ReeK, roer & Rairiku - Kurwature 1869](https://www.youtube.com/watch?v=L4zSAByvNkY) | [#1](https://osu.ppy.sh/beatmapsets/1794825) | Tiebreaker des finales |
 
+#### ![](/wiki/shared/mode/taiko.png) Advanced Global Taiko Showdown 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sparxe vs. takehirotei - Cosmic Fragmentation](https://soundcloud.com/sparxenic/sparxe-vs-takehirotei-cosmic-fragmentation) | [#1](https://osu.ppy.sh/beatmapsets/2027811) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) AMG 2022 x #RHYTHMGAMES CFC osu! & osu!catch tournament
 
 | Musique | Beatmap | Notes |
@@ -303,15 +310,32 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [4nzu - Aimgalc Girl (Reslice)](https://www.youtube.com/watch?v=DPavw47ofFA) | [#1](https://osu.ppy.sh/beatmapsets/2023508) | HR2 des phases de qualification |
 | [ADA - cof](https://soundcloud.com/ukuposxlnqdh/ada-cof) | [#1](https://osu.ppy.sh/beatmapsets/2023393) | NM1 des phases de qualification |
+| [Anfini - Gratia](https://www.youtube.com/watch?v=4Zz5cKpz00k) | [#1](https://osu.ppy.sh/beatmapsets/2036550) | HD2 des finales |
 | [Azurux - Get this drums](https://soundcloud.com/azurux/get-this-drums) | [#1](https://osu.ppy.sh/beatmapsets/2023371) | HR1 des phases de qualification |
+| [blobdash - Myosotis Entrance](https://soundcloud.com/blobdash/myosotis-entrance) |  | Musique de fond pendant les cinématiques |
+| [GTS Sound Team - <<wr/d.:maker>> \~Harmony in Reset\~](https://soundcloud.com/blobdash/wrldmaker) | [#1](https://osu.ppy.sh/beatmapsets/2036571) | tiebreaker des finales |
 | [Gomadare - Resolver](https://www.youtube.com/watch?v=LazTyDAhaDg) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | DT1 des phases de qualification |
 | [HAGISOPH - Trip Coffee](https://www.youtube.com/watch?v=_Ua-OGqu2rQ) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | NM3 des phases de qualification |
+| [ITHAQUA - aoi kokoro](https://www.youtube.com/watch?v=eEvWZ-sz9BM) | [#1](https://osu.ppy.sh/beatmapsets/2036468) | NM5 des finales |
 | [Kurubukko - Inner World Monologue](https://soundcloud.com/kurubukko/inner-world-monologue) | [#1](https://osu.ppy.sh/beatmapsets/2023498) | HD1 des phases de qualification |
+| [Lucidin - Onus Regulus](https://soundcloud.com/ludicin/onus-regulus) | [#1](https://osu.ppy.sh/beatmapsets/2036523) | NM2 des finales |
+| [LuzeriA - Nbt-Hwt](https://www.youtube.com/watch?v=MsECl1sXkT8) | [#1](https://osu.ppy.sh/beatmapsets/2036532) | NM6 des finales |
+| [N_dog - Dusk in overnight](https://soundcloud.com/user-721414606/dusk-in-overnight-fromcoegts) | [#1](https://osu.ppy.sh/beatmapsets/2036555) | Force Mod 1 des finales |
 | [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Thème principal |
 | [NormalM feat. Usagi Denki - Luminous Entities Lost Heart](https://soundcloud.com/normalmusiccc/luminous-entities-lost-heart-feat-for-coegts-2023-qualifers-fm) | [#1](https://osu.ppy.sh/beatmapsets/2023493) | Force Mod des phases de qualification |
-| [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~](https://soundcloud.com/part-lerts/octagram) | [#1](https://osu.ppy.sh/beatmapsets/2023321) | HD2 des phases de qualification |
 | [Raphlesia - PSYCHO-BOMB](https://soundcloud.com/raphlesia/psycho-bomb) | [#1](https://osu.ppy.sh/beatmapsets/2023470) | NM2 des phases de qualification |
+| [Rukadesu & 5KiLOBYTE - ETERNAL](https://www.youtube.com/watch?v=zpZddmWpttc) | [#1](https://osu.ppy.sh/beatmapsets/2036562) | Force Mod 2 des finales |
+| [SDMNE - SPIRITUAL-BARRICADE+](https://soundcloud.com/sdmne/sspirtual-barricade) | [#1](https://osu.ppy.sh/beatmapsets/2036566) | Force Mod 3 des finales |
 | [SiLiS - Bodysnatch](https://soundcloud.com/silis/bodysnatch) | [#1](https://osu.ppy.sh/beatmapsets/2023516) | DT2 des phases de qualification |
+| [Sot-C - Extra Stage](https://soundcloud.com/sot-c/coegts-nm4-extra-stage) | [#1](https://osu.ppy.sh/beatmapsets/2036499) | NM4 des finales |
+| [Sparxe - overdaedge3000](https://www.youtube.com/watch?v=x1ZVrgzzeGs) | [#1](https://osu.ppy.sh/beatmapsets/2036544) | HR1 des finales |
+| [Sydosys - Lunar Gateway](https://soundcloud.com/sydosys/lunar-gateway) | [#1](https://osu.ppy.sh/beatmapsets/2036508) | NM3 des finales |
+| [celtix - Niflheimr](https://www.youtube.com/watch?v=mset2iLQ3qw) | [#1](https://osu.ppy.sh/beatmapsets/2036540) | HR2 des finales |
+| [dev - last remote](https://www.youtube.com/watch?v=A5h8G9J-GDo) | [#1](https://osu.ppy.sh/beatmapsets/2036549) | DT2 des finales |
+| [kou - Spectrum](https://soundcloud.com/kou49/spectrum-1) | [#1](https://osu.ppy.sh/beatmapsets/2036533) | HD1 des finales |
+| [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~](https://soundcloud.com/part-lerts/octagram) | [#1](https://osu.ppy.sh/beatmapsets/2023321) | HD2 des phases de qualification |
+| [takehirotei - Global Disco Showdown](https://soundcloud.com/takehirotei/global-disco-showdown) | [#1](https://osu.ppy.sh/beatmapsets/2036595) | DT1 des finales |
+| [xi - OBAMA DiVE (blobdash as "blobama" Bootleg)](https://soundcloud.com/blobdash/obamadive) | [#1](https://osu.ppy.sh/beatmapsets/2036517) | NM1 des finales |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
@@ -498,7 +522,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Tiebreaker des Grandes Finales |
+| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Tiebreaker des Grandes Finales |
 
 #### ![](/wiki/shared/mode/taiko.png) Korean Rising Taiko Tournament #2
 
@@ -525,6 +549,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1819473) | NM7 des Grandes Finales |
 
+#### ![](/wiki/shared/mode/osu.png) [osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [ZxNX+Delaina - False Fairy Tale](https://www.youtube.com/watch?v=0hD2-c-Y2UY)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032331) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
 | Musique | Beatmap | Notes |
@@ -543,6 +573,8 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [tn-shi - Circular Reasoning](https://www.youtube.com/watch?v=JpVBX2__xPM) |  | Musique de la bande-annonce |
+| [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Tiebreaker des Grandes Finales |
+| [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Thème du générique de fin |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 

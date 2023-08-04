@@ -65,7 +65,42 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 - [COE Twitter](https://twitter.com/CavoesOsuEvent)
 - [GTS Twitter](https://twitter.com/GTSosu)
 
+## Participants
+
+| Seed | Members |
+| :-- | :-- |
+| Top | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
+| High | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=FI }:: [MEGAMELA](https://osu.ppy.sh/users/13613362) |
+| Low | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=NL }:: [StrijkIjzer](https://osu.ppy.sh/users/4130926), ::{ flag=PL }:: [Qroissant](https://osu.ppy.sh/users/9511518) |
+| Unseeded | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=NL }:: [Edesto](https://osu.ppy.sh/users/5088562), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=NL }:: [demonking7447](https://osu.ppy.sh/users/11094496) |
+| Eliminated | ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=DE }:: [Musubi](https://osu.ppy.sh/users/9562353) |
+
 ## Mappools
+
+### Finals
+
+- No Mod
+  1. [xi - OBAMA DiVE (blobdash as "blobama" Bootleg) (Cynplytholowazy) [OBAMA DIMENSIONS]](https://osu.ppy.sh/beatmapsets/2036517#taiko/4247073)
+  2. [Ludicin - Onus Regulus (Nwolf) [Against Overwhelming Odds]](https://osu.ppy.sh/beatmapsets/2036523#taiko/4247080)
+  3. [Sydosys - Lunar Gateway (Gamelan4) [Molniya-M]](https://osu.ppy.sh/beatmapsets/2036508#taiko/4247062)
+  4. [Sot-C - Extra Stage (5_5) [extra soup]](https://osu.ppy.sh/beatmapsets/2036499#taiko/4247052)
+  5. [ITHAQUA - aoi kokoro (\_Rise) [hivie & \_rise's beloved]](https://osu.ppy.sh/beatmapsets/2036468#taiko/4246968)
+  6. [LuzeriA - Nbt-Hwt (Mew) [The Pharaoh's Curse]](https://osu.ppy.sh/beatmapsets/2036532#taiko/4247092)
+- Hidden
+  1. [kou - Spectrum (Yujki) [Refraction]](https://osu.ppy.sh/beatmapsets/2036533#taiko/4247093)
+  2. [Anfini - Gratia (X a v y) [Grace]](https://osu.ppy.sh/beatmapsets/2036550#taiko/4247123)
+- Hard Rock
+  1. [Sparxe - overdaedge3000 (BabySnakes) [3014]](https://osu.ppy.sh/beatmapsets/2036544#taiko/4247115)
+  2. [celtix - Niflheimr (Raphalge) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2036540#taiko/4247111)
+- Double Time
+  1. [takehirotei - Global Disco Showdown (TaikoMom) [Back in Mom's Day]](https://osu.ppy.sh/beatmapsets/2036595#taiko/4247191)
+  2. [dev - last remote (Ideal) [^-^]](https://osu.ppy.sh/beatmapsets/2036549#taiko/4247122)
+- Force Mod
+  1. [N_dog - Dusk in overnight (Ph0eNiiXZ) [Endless Twilight]](https://osu.ppy.sh/beatmapsets/2036555#taiko/4247132)
+  2. [Rukadesu & 5KiLOBYTE - ETERNAL (Cynplytholowazy) [FROZEN]](https://osu.ppy.sh/beatmapsets/2036562#taiko/4247139)
+  3. [SDMNE - SPIR!TUAL-BARRICADE+ (MTNTWarz) [-FRONT!ER+]](https://osu.ppy.sh/beatmapsets/2036566#taiko/4247145)
+- Tiebreaker
+  1. **[GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (Cynplytholowazy) [<<catharsis/onus.:expedition>>]](https://osu.ppy.sh/beatmapsets/2036571#taiko/4247150)**
 
 ### Qualifiers
 
@@ -86,6 +121,12 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
   2. [SiLiS - Bodysnatch (TaikoMom) [Pod People Party]](https://osu.ppy.sh/beatmapsets/2023516#taiko/4214881)
 - Force Mod
   1. [NormalM feat. Usagi Denki - Luminous Entities Lost Heart (Briesmas) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023493#taiko/4214841)
+
+## Match results
+
+### Qualifiers
+
+Detailed statistics for this round can be found on the [GTS website](https://gtsosu.com/coegts/stats#0) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
