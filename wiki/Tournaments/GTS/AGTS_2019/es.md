@@ -454,7 +454,7 @@ Domingo, 18 de agosto de 2019:
 4. Cada mappool consta de 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod y Desempate.
 5. Cada mappool constará de 20 mapas.
 6. El tamaño de los brackets Hidden, HardRock, DoubleTime y FreeMod será de 3 en todas las etapas.
-7. El bracket EX se jugará sin mods activados y es la versión más difícil de NoMod, contiene mapas con técnicas de mapeo complicadas, cambios de velocidad, etc.
+7. El bracket EX se jugará sin mods activados y es la versión más difícil de NoMod, contiene mapas con técnicas de mapping complicadas, cambios de velocidad, etc.
 8. La pool FreeMod se juega con FreeMod activado. Cada jugador individual puede elegir **Hidden, HardRock o ambos. Al menos un jugador de cada equipo debe tener al menos un mod activado**.
 9. El Tiebreaker se juega en condiciones FreeMod pero no es necesario que al menos un jugador tenga al menos un modo activado.
 10. El mappool de cada etapa se presentará una semana antes.
