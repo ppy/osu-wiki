@@ -80,7 +80,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 #### Guidelines
 
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に8つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
-- **ノート密度は主に1/1のリズムです。** 1/2およびかまたは1/3のリズムは控えめに使ってください。
+- **ノート密度は主に1/1のリズムです。** 1/2およびかまたは1/3のリズムは偶に使ってください。
 
 #### Difficulty setting guidelines
 
@@ -106,7 +106,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンはいけません。**
 - **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に10つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
-- **ノート密度は主に1/1と1/2のリズムです。** 1/4およびかまたは1/3のリズムは控えめに使ってください。
+- **ノート密度は主に1/1と1/2のリズムです。** 1/4およびかまたは1/3のリズムは偶に使ってください。
 
 #### Difficulty setting guidelines
 
@@ -132,18 +132,18 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 #### Guidelines
 
-- **Strong [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used.** For [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) hyperdashes, a limit of 1.5 times the [trigger distance](/wiki/Beatmapping/Trigger_distance) is recommended. For [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) may be used in conjunction with [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the [trigger distance](/wiki/Beatmapping/Trigger_distance) when followed by a [walk](/wiki/Gameplay/Walk), or 1.1 times the trigger distance when followed by a basic-snapped [dash](/wiki/Gameplay/Dash).
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the [trigger distance](/wiki/Beatmapping/Trigger_distance).
-- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
-- **[Combos](/wiki/Beatmapping/Combo) should not exceed 12 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
+- **大きい距離の[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は使用しないでください。** [やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)の場合はハイパートリガー距離の1.5倍以下が推奨される、[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の場合はトリガー距離の1.3倍以下が推奨しています。
+- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンと組み合わせて使用することができます。** ハイパーダッシュの距離は[歩く](/wiki/Gameplay/Walk)が続く場合なら[トリガー距離](/wiki/Beatmapping/Trigger_distance)離の1.2倍以下、[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)が続く場合はトリガー距離の1.1倍以下です。
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)を続けるべきではないです。** もし使うなら距離はトリガー距離の1.1倍以下です。
+- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に12つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **ノート密度は主に1/2と1/3のリズムです。** 1/4およびかまたは1/6のリズムは偶に使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 7 and 8.2.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 4 and 5.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 4.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は7から8.2の間に設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は4から5の間に設定してください。
+- [Circle Size](/wiki/Beatmap/Circle_size) は3から4の間に設定してください。
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
