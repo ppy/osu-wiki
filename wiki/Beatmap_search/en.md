@@ -7,7 +7,7 @@ tags:
   - website search
 ---
 
-# Beatmap search syntax
+# Beatmap search
 
 *See also: [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)*
 
