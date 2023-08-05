@@ -12,26 +12,26 @@ This guide describes the lines of scripting code that are placed into the .osb o
 
 A [Storyboard object](/wiki/Storyboard/Scripting/Objects) is an instance of a sprite or an animation in a storyboard. Storyboards can also have sound, see the [Audio](/wiki/Storyboard/Scripting/Audio) guide for more details.
 
-The accepted formats for objects are PNG and JPEG. JPEG is lossy, which means it is smaller in file size, but does not save pixel-by-pixel accurately. It also does not support transparency. Therefore, it is good for backgrounds and for square or photo-realistic images. PNG is lossless, which means it retains pixel-by-pixel information, but is of a larger file size than JPEG. It supports transparency, so it is usually the best for foreground objects / text.
+The accepted formats for objects are PNG and JPEG. JPEG is lossy, which means it is smaller in file size, but does not precisely save each pixel. It also does not support transparency. Therefore, it is good for backgrounds and for square or photo-realistic images. PNG is lossless, which means it retains pixel-by-pixel information, but is of a larger file size than JPEG. It supports transparency, so it is usually the best for foreground objects / text.
 
 Animations are done in-engine, so the PNG layer system or animation features should not be used. Instead, save each frame as a separate file and name the files with a decimal number before the extension (e.g., "sample0.png", "sample1.png" for a 2-frame animation "sample.png").
 
 ### Screen size
 
-![Editor screen size. Green is screen size and Red is playarea](img/SBS_SS.jpg "Editor screen size. Green is screen size and Red is playarea")
+![Editor screen size. Green is screen size and Red is play area](img/SBS_SS.jpg "Editor screen size. Green is screen size and Red is play area")
 
-- The editor screen is 640 x 480 pixels.
-  - The general playarea is 510 x 385 pixels.
-- Coordinates are specified with X going to the **right**, Y going **down**, and the origin (0,0) at the upper-left corner of the screen. This is different from traditional Euclidean coordinate systems, but is the same as most computer-graphics systems.
-- Coordinates may be specified to be outside of these boundaries (e.g., for a sprite to come in from off-screen).
-- The coordinates of the cursor will be displayed in the [Design tab](/wiki/Client/Beatmap_editor/Design) of the [Beatmap Editor](/wiki/Client/Beatmap_editor).
+The editor screen is 640 x 480 pixels and the general play area is 510 x 385 pixels.
+
+Coordinates are specified with positive values for `X` going to the **right**, positive values for `Y` going **down**, and the origin (0,0) being placed at the upper-left corner of the screen. This is different from traditional [Euclidean coordinate systems](https://en.wikipedia.org/wiki/Euclidean_space), but is the same as most computer-graphics systems. It is possible to specify coordinates to be outside of these boundaries (e.g., for a sprite to come in from off-screen).
+
+The cursor's coordinates will be displayed in the [Design tab](/wiki/Client/Beatmap_editor/Design) of the [Beatmap Editor](/wiki/Client/Beatmap_editor).
 
 **Editor coordinates:**
 
 | Screen | x | y |
 | :-: | :-: | :-: |
 | Editor | 0–640 | 0–480 |
-| Playarea | 60–570 | 55–440 |
+| Play area | 60–570 | 55–440 |
 
 ### Layers
 
@@ -44,14 +44,14 @@ These are the four storyboard layers, in increasing order of priority:
 - Pass (only displayed if the player is in the "Pass state", see [Game State](#game-state) below)
 - Foreground
 
-Note that the "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
+Note that the "Fail" and "Pass" layers are never on-screen simultaneously, unlike in the design tab.
 
 By default, the preview background (the background visible in [song select](/wiki/Client/Interface#song-select)) specified for the beatmap is placed below all other layers. However, if that same file is referenced as an object in the storyboard, it will disappear immediately after the beatmap loads. It is common to have the beatmap's preview background to be the first object (time-wise and sprite-wise) specified, and to use the "fade out" (brighten) command to "introduce" the background to the audience.
 
 #### Overlapping rules
 
-- Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
-- Objects that overlap in the same layer will be drawn in the order in which they are specified (e.g., if object 1 is specified first in the .osb or .osu file, and then object 2 is as well, but they are both in the same layer, object 2 will appear in front of object 1).
+- Objects that overlap in **different** layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
+- Objects that overlap in the **same** layer will be drawn in the order in which they are specified (e.g., if object 1 is specified first in the .osb or .osu file, and then object 2 is as well, but they are both in the same layer, object 2 will appear in front of object 1).
 - Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [See this example](https://osu.ppy.sh/community/forums/topics/1869?start=469997).
 
 ### Game State
@@ -90,16 +90,16 @@ States after last playtime, if the beatmap had no breaks:
 
 ![Use CTRL+C to copy the timestamp.](img/SBS_Time.jpg "Use CTRL+C to copy the timestamp.")
 
-- Time is measured in milliseconds (1000 ms = 1 second) from the start of the beatmap's main MP3/OGG, including negative values to indicate an intro.
+- Time is measured in milliseconds (1000 ms = 1 second) from the start of the beatmap's main audio file (`.mp3`/`.ogg`), including negative values to indicate an intro.
 - Time in the SB is not dependent upon timing of the beatmap itself (e.g., how many measures there are or beats per minute). Therefore, it is recommended that the beatmap should be reasonably well-timed before storyboarding, as it will be harder to adjust these times later.
-- Time is not constrained to the length of the song. It is possible to have negative values for events before the song starts (an intro), and for values that extend beyond the last playable section or even the end of the MP3/OGG (an outro).
+- Time is not constrained to the length of the song. It is possible to have negative values for events before the song starts (an intro), and for values that extend beyond the last playable section or even the end of the audio file (an outro).
 - When loaded, the beatmap will start from the earliest event specified or from time 0, whichever is earlier.
-  - In the former case, the Skip button will be displayed to the user. Clicking it or pressing `Space` will skip to time 0. The game reverts to normal pre-map skip behaviour (e.g., press skip again to go straight to the countdown — unlike EBA, restarting the beatmap takes you all the way back to the start, not to time 0).
-- The game will transition to the score results screen as soon as the last event occurs, or the user clicks the Skip button or presses `Space`.
+  - In the former case, the `Skip` button will be displayed to the user. Clicking it or pressing `Space` will skip to time 0. The game reverts to normal pre-map skip behaviour (e.g., press `Skip` again to go straight to the countdown — unlike in [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents), where restarting the beatmap takes the player all the way back to the start, not to time 0).
+- The game will transition to the [results screen](/wiki/Client/Interface#results-screen) as soon as the last event occurs, or the user clicks the `Skip` button or presses `Space`.
   - This includes events that are on **BOTH** the Pass/Fail layers, even though only one will be displayed.
     - Example: If the Fail storyboard ends at time 20000 and the Pass storyboard ends at time 25000, the game will wait until time 25000 even if the player is in the Fail State (all objects will disappear). Therefore, it is best to ensure that both Pass and Fail ending variants take the same amount of time to complete.
   - Events will continue even if the user skips to the results screen early, and the audio produced by the storyboard can still be heard.
-- When in the Beatmap Editor's Design tab, the current time in milliseconds is displayed. Press `Ctrl` + `C` to copy the current time to the clipboard.
+- When in the beatmap editor's design tab, the current time in milliseconds is displayed. Press `Ctrl` + `C` to copy the current time to the clipboard.
 
 ## Comments
 
