@@ -20,8 +20,6 @@ Due to different needs in mapping style (osu! is very flexible, allowing much ro
 
 ![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
-#### Hit object timeline
-
 | Name | Description |
 | :-- | :-- |
 | `+`/`-` buttons | Increases/Decreases timeline zoom. |
@@ -67,15 +65,15 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
+| `New Combo` (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
 
 #### Hitsounds
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | **(Select a hit object)** `Left click`: Use whistle sound on this object. | Add a whistle sound addition to the selection. |
-| Finish (`E`) | **(Select a hit object)** `Left click`: Use finish sound on this object. | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | **(Select a hit object)** `Left click`: Use clap sound on this object. | Add a clap sound addition to the selection. |
+| `Whistle` (`W`) | **(Select a hit object)** `Left click`: Use whistle sound on this object. | Add a whistle sound addition to the selection. |
+| `Finish` (`E`) | **(Select a hit object)** `Left click`: Use finish sound on this object. | Add a finish (cymbal) sound addition to the selection. |
+| `Clap` (`R`) | **(Select a hit object)** `Left click`: Use clap sound on this object. | Add a clap sound addition to the selection. |
 
 #### Assist tools
 
@@ -180,15 +178,15 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | `Right click`: Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
+| `New Combo` (`Q`) | `Right click`: Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
 
 #### Hitsounds
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | **(Select a note)** `Left click`: Use whistle sound on this note. | Add a whistle sound addition to the selection. |
-| Finish (`E`) | **(Select a note)** `Left click`: Use finish sound on this note. | Add a finish (cymbal) sound addition to the selection. |
-| Clap (`R`) | **(Select a note)** `Left click`: Use clap sound on this note. | Add a clap sound addition to the selection. |
+| `Whistle` (`W`) | **(Select a note)** `Left click`: Use whistle sound on this note. | Add a whistle sound addition to the selection. |
+| `Finish` (`E`) | **(Select a note)** `Left click`: Use finish sound on this note. | Add a finish (cymbal) sound addition to the selection. |
+| `Clap` (`R`) | **(Select a note)** `Left click`: Use clap sound on this note. | Add a clap sound addition to the selection. |
 
 #### Assist tools
 
@@ -219,11 +217,11 @@ On the **bottom-right**, the **playback rate** can be adjusted by the value of a
 
 ### Sampling
 
-![](img/sample-import.jpg "Sample pop-up window")
-
 **Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside the beatmap folder.
 
 #### Sample import
+
+![](img/sample-import.jpg "Sample import window")
 
 **Left-section** is the list of sound files there are in the beatmap's folder.
 
@@ -252,6 +250,8 @@ On the **bottom-right**, the **playback rate** can be adjusted by the value of a
 
 #### Sample event list
 
+![](img/sample-event-list.jpg "Sample event list window")
+
 Clicking on `Sample list` will summon another window named `Sample event list`. The storyboard elements listed there will be stored in the `.osu` file of the selected difficulty.
 
-The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means at 1min 57s 745ms, triggering the `kick.wav` file at 100% volume regardless of condition.
+The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means that at 1min 57s 745ms, the `kick.wav` will trigger at 100% volume regardless of the conditions.
