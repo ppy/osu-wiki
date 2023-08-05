@@ -1,7 +1,8 @@
 ---
-stub: true
 tags:
   - snaps
+outdated_translation: true
+outdated_since: 00ba527af0c6403fc8b1c0cb2d1780094b6d0407
 ---
 
 # Snapping

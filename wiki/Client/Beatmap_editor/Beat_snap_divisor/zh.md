@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
+---
+
 # 音符时值 (Beat Snap Divisor)
 
 ![](img/beat_snap_divisor.png "谱面编辑器中的节拍细分设置")
