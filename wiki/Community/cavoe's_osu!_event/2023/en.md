@@ -38,8 +38,9 @@ Tickets are currently available for purchase at the [COE website](https://cavoeb
 | Group picture with Dutch people | 2023-08-04 (16:30) |
 | Sushi lunch | 2023-08-05 (12:00–14:30) |
 | Group picture with German people | 2023-08-05 (17:30) |
+| osu!mania 4K World Cup Qualifier showcase | 2023-08-05 (13:00) |
 | 1v1 osu! tournament Semifinals–Grand Finals | 2023-08-05 (16:00–22:00) |
-| End | 2023-08-07 |
+| End | 2023-08-06 |
 
 A more detailed schedule can be found on the [website](https://cavoeboy.com/activities).
 
