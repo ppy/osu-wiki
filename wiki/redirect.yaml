@@ -2119,4 +2119,5 @@
 "guides/searching_and_downloading_beatmaps": "Beatmap_search"
 
 "bsd": "Client/Beatmap_editor/Beat_snap_divisor"
-"client/beatmap_editor/beat_snap": "Beatmapping/Snapping"
+"client/beatmap_editor/beat_snap": "Beatmapping/Beat_snapping"
+"beatmapping/snapping": "Beatmapping/Beat_snapping"
