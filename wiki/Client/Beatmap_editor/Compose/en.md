@@ -85,7 +85,7 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 
 ![](img/song-timeline.jpg "Song's timeline")
 
-On the **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
+On the **bottom-left**, it shows the **timestamp** in milliseconds and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
 On the **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save the beatmap and then allows for playtesting it, starting at the current timestamp.
 
