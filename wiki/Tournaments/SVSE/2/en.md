@@ -8,7 +8,7 @@ tags:
 
 ![SVSE2 logo](img/logo.png)
 
-The **SV: Summer Exhibition 2** (***SVSE 2***) is a team tournament osu!mania 4-key tournament hosted by ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416).
+The **SV: Summer Exhibition 2** (***SVSE 2***) was a team-based osu!mania 4K tournament hosted by ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416).
 
 ## Tournament schedule
 
@@ -20,13 +20,13 @@ The **SV: Summer Exhibition 2** (***SVSE 2***) is a team tournament osu!mania 4-
 | Week 2 stage | 2023-07-01/2023-07-02 |
 | Week 3 stage | 2023-07-08/2023-07-09 |
 | Week 4 stage | 2023-07-15/2023-07-16 |
-| Final stage | 2023-07-29/2023-08-06 |
+| Finals | 2023-07-29/2023-08-06 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 120 USD, profile badge (pending) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 120 USD, profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 80 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 60 USD |
 | *4th place* | 40 USD |
@@ -36,7 +36,7 @@ The **SV: Summer Exhibition 2** (***SVSE 2***) is a team tournament osu!mania 4-
 
 ## Organisation
 
-The SV: Summer Exhibition 2 is run by various community members.
+The SV: Summer Exhibition 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -103,6 +103,17 @@ The SV: Summer Exhibition 2 is run by various community members.
 | vingt-sept | ::{ flag=FR }:: [Satsukel](https://osu.ppy.sh/users/9066390), ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132) |
 | 不玩原神不玩的 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Echo\_XF](https://osu.ppy.sh/users/25630297) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team | Players |
+| :-: | :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **gaki wa oshimai!** | ::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **no we're not boyfriends** | ::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **The Hard Balls** | ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990) |
+| *4th place* | **mlem** | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=PE }:: [Kamikho](https://osu.ppy.sh/users/12664851) |
+
 ## Mappools
 
 ### Final stage
@@ -113,7 +124,7 @@ The SV: Summer Exhibition 2 is run by various community members.
   - [N2 - NULL APOPHENIA (Archaic84) \[Third Stage | Warped Reflection\]](https://osu.ppy.sh/beatmapsets/2031946#mania/4235411)
   - [Laur feat. Mishamo - Let's! Miracle HARDCORE! (awdse22) \[Fourth Stage | Magical SV rescue!!\]](https://osu.ppy.sh/beatmapsets/2032056#mania/4235633)
 - Tiebreaker
-  - [Camellia - GHOUL (Orca-) \[EXTRA STAGE | LAST BREATH OF A SPECTRE;\]](https://osu.ppy.sh/beatmapsets/2031975#mania/4235479)
+  - **[Camellia - GHOUL (Orca-) \[EXTRA STAGE | LAST BREATH OF A SPECTRE;\]](https://osu.ppy.sh/beatmapsets/2031975#mania/4235479)**
 
 ### Week 4 stage
 
@@ -160,12 +171,21 @@ Monday, 31 July 2023:
 | Kamikho ::{ flag=PE }:: | 0 | **3** | ::{ flag=VN }:: **mightyxd** | [#1](https://osu.ppy.sh/community/matches/109770469) |
 | ERA Punish ::{ flag=DE }:: | 0 | **3** | ::{ flag=VN }:: **Lott** | [#1](https://osu.ppy.sh/community/matches/109770747) |
 
+Saturday, 5 August 2023:
+
+| Player A |  |  | Player B | Match Link |
+| --: | :-: | :-: | :-- | :-- |
+| Kamikho ::{ flag=PE }:: | 0 | **3** | ::{ flag=CA }:: **walmart5193** | *win by default* |
+| ERA Punish ::{ flag=DE }:: | 0 | **3** | ::{ flag=US }:: **ERA Basil** | *win by default* |
+| **gyoza_goki** ::{ flag=JP }:: | **3** | 0 | ::{ flag=VN }:: mightyxd | [#1](https://osu.ppy.sh/community/matches/109849609) |
+| ICECAKE ::{ flag=JP }:: | 2 | **3** | ::{ flag=VN }:: **Lott** | [#1](https://osu.ppy.sh/community/matches/109849855) |
+| **gaki wa oshimai!** ::{ flag=JP }:: | **3** | 0 | ::{ flag=VN }:: no we're not boyfriends | [#1](https://osu.ppy.sh/community/matches/109850211) |
+
 ### Week 4
 
-Teams with emboldened names advance to finals.
-Teams with names crossed out are eliminated.
+Teams with emboldened names advance to finals and teams with names crossed out are eliminated.
 
-| Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
+| Position | Team | Side A position | Side B position | Avg. position | Team score |
 | --: | :-: | :-: | :-: | :-: | --: |
 | #1 | **gaki wa oshimai!** | 2 | 3 | 2.5 | 1,989,158 |
 | #2 | **mlem** | 1 | 6 | 3.5 | 1,985,314 |
@@ -181,10 +201,9 @@ Teams with names crossed out are eliminated.
 
 ### Week 3
 
-Teams with italicised names are on last chance situation.
-Teams with names crossed out are eliminated.
+Teams with italicised names are in a last-chance situation and teams with names crossed out are eliminated.
 
-| Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
+| Position | Team | Side A position | Side B position | Avg. position | Team score |
 | --: | :-: | :-: | :-: | :-: | --: |
 | #1 | KuruMi KonbanMi | 3 | 1 | 2 | 1,993,885 |
 | #2 | Makuron de misshon | 5 | 2 | 3.5 | 1,991,461 |
@@ -207,10 +226,9 @@ Teams with names crossed out are eliminated.
 
 ### Week 2
 
-Teams with italicised names are on last chance situation.
-Teams with names crossed out are eliminated.
+Teams with italicised names are in a last-chance situation and teams with names crossed out are eliminated.
 
-| Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
+| Position | Team | Side A position | Side B position | Avg. position | Team score |
 | --: | :-: | :-: | :-: | :-: | --: |
 | #1 | gaki wa oshimai! | 6 | 1 | 3.5 | 1,991,745 |
 | #2 | KuruMi KonbanMi | 5 | 3 | 4 | 1,987,242 |
@@ -247,9 +265,9 @@ Teams with names crossed out are eliminated.
 
 ### Week 1
 
-Teams with italicised names are on last chance situation
+Teams with italicised names are in a last-chance situation
 
-| Position | Team | Side A Position | Side B Position | Avg. Position | Team Score |
+| Position | Team | Side A position | Side B position | Avg. position | Team score |
 | --: | :-: | :-: | :-: | :-: | --: |
 | #1 | gaki wa oshimai! | 1 | 2 | 1.5 | 1,993,091 |
 | #2 | KuruMi KonbanMi | 5 | 1 | 3 | 1,992,218 |
@@ -288,7 +306,7 @@ Teams with italicised names are on last chance situation
 
 Only the top 32 teams advance to the next round.
 
-| Position | Team | Team Score |
+| Position | Team | Team score |
 | --: | :-: | --: |
 | #1 | gaki wa oshimai! | 3,991,097 |
 | #2 | KuruMi KonbanMi | 3,987,369 |
@@ -303,7 +321,7 @@ Only the top 32 teams advance to the next round.
 | #11 | barudak gulanova | 3,879,375 |
 | #12 | :yangu: | 3,878,486 |
 | #13 | Los Simsimi | 3,859,058 |
-| #14 | 25,110,054 | 3,858,455 |
+| #14 | 25110054 | 3,858,455 |
 | #15 | team a | 3,857,094 |
 | #16 | svssy baka | 3,850,488 |
 | #17 | Jouœurs rincés | 3,840,449 |
@@ -337,18 +355,18 @@ Only the top 32 teams advance to the next round.
 
 ## Ruleset
 
-### Overall notes
+### General
 
 1. SV: Summer Exhibition 2 is an osu!mania **team tournament**.
    - Teams are formed with 2 players each.
 2. The scoring system used will be **ScoreV2**.
-3. There will be a Qualifier Stage, 4 weeks of leaderboard play and a final single elimination stage.
+3. There will be a Qualifier stage, 4 weeks of leaderboard play and a final single elimination stage.
    - **The maximum number of teams who can advance to the weekly stages is 32**.
    - **Top 4 teams by the end of week 4 will advance to the final stage**.
 4. Every week an "Information Compass" will be released of each map of the pool which will give players important information on the content of each chart.
-   - The Information Compass is a 5x5 grid where the X-Axis represents the chart type bias and the Y-Axis represents the complexity bias.
+   - The Information Compass is a 5x5 grid where the X-axis represents the chart type bias and the Y-axis represents the complexity bias.
 5. Mappool will be released on different dates depending of the stage:
-   - **Qualifiers and Final stage**: Mappool will be released one week in advance, right after the mappool showcase.
+   - **Qualifiers and Finals**: Mappool will be released one week in advance, right after the mappool showcase.
    - **Weekly stages**: Mappool will be released every Friday at 0 UTC.
 6. Maps will be played with [FreeMod](/wiki/Gameplay/Game_modifier#freemod). The only allowed mods are FadeIn, Flashlight, Hidden, and Mirror.
 
@@ -359,7 +377,7 @@ Only the top 32 teams advance to the next round.
 1. The Qualifier pool contains 4 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 2. Each player will play 2 unique maps of the qualifier mappool.
 3. When joining the lobby, the teams will tell the referee what maps each player will be playing.
-   - From this point, players can't change selected maps.
+   - From this point, players cannot change selected maps.
 4. Each team will have two tries at each map, their best score will count for seeding.
 5. The top 32 seeded teams will advance to the weekly stages.
    - This seeding is done by the sum of all the best scores in each map.
@@ -368,7 +386,7 @@ Only the top 32 teams advance to the next round.
 
 1. There will be 4 weeks of match play.
 2. Every week 2 maps will be released, one for "Side A" and another for "Side B".
-3. An Information Compass will be released for each of these maps every Monday at 0 UTC.
+3. An Information Compass will be released for each of these maps every Monday at 00:00 UTC.
 4. After the Information Compasses are released, teams will sign up one player to the Side A lobby, and the other for the Side B lobby.
    - They can do this until Thursday 23:59 UTC.
 5. On Friday at 0 UTC the maps are uploaded and posted in the server.
@@ -380,18 +398,18 @@ Only the top 32 teams advance to the next round.
 9. Top 4 teams on the leaderboard by week 4 advance to finals.
    - Teams outside of top 4 not eliminated by the end of week 4 are considered survivors and get a small prize.
 
-#### Final Stage
+#### Finals
 
 1. Teams that advance to finals will play a small single-elimination bracket.
 2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
 3. Matches are defined as follows:
-   - First place faces Fourth place.
-   - Second place faces Third place.
+   - First place faces fourth place.
+   - Second place faces third place.
    - Losers of each match will define the 3rd and 4th places of the tournament.
    - Winners of each match will define the Grand Champion of SVSE2.
 4. Teams needs to win 2 sets to win a match, to win a set they need to win 3 maps (best of 5).
 5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
-   - These A and B players can't be swapped for the entire stage.
+   - These A and B players cannot be swapped for the entire stage.
 6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
 7. Each team must use the `!roll` command at the start of every set in `#multiplayer`.
    - The winner of the `!roll` starts picking first.
