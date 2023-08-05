@@ -148,7 +148,7 @@ Sort beatmaps in a certain order.
 
 ![](img/search-bar.jpg)
 
-The search bar allows for filtering difficulties that match some criteria. By default, osu! runs full-text search, only showing results that contain all of the specified words. In addition to that, it's possible to search by [Approach Rate](/wiki/Beatmap/Approach_rate), [star rating](/wiki/Beatmap/Star_rating), and many more values using a set of filters such as `ar=8 stars>=5`.
+The search bar allows for filtering difficulties that match some criteria. By default, osu! runs full-text search, only showing results that contain all of the specified words. In addition to that, it is possible to search by [approach rate](/wiki/Beatmap/Approach_rate), [star rating](/wiki/Beatmap/Star_rating), and many more values using a set of filters such as `ar=8` or `stars>=5`.
 
 To search beatmaps, simply start typing when at the song select screen, making sure to close options and the chat console prior to that.
 
