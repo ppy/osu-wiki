@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: ALLMYFRIENDS"
-date: 2023-08-05 13:00:00 +0000
+date: 2023-08-05 15:00:00 +0000
 ---
 
 **ALLMYFRIENDS** packs our Featured Artist library with new tracks from over **10** talented artists across the rhythm game scene (including some names that we're sure you'll recognise).
