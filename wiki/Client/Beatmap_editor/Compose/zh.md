@@ -5,9 +5,9 @@ outdated_translation: true
 
 # Compose
 
-![视窗模式下的 osu! 编辑器 Compose 画面](img/Compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")
+![视窗模式下的 osu! 编辑器 Compose 画面](img/compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")
 
-![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](img/ComposeMania.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
+![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](img/compose-mania.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
 
 **Compose（作曲）** 是一个在[作图者于](/wiki/Beatmapping) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
 
@@ -19,7 +19,7 @@ outdated_translation: true
 
 ### 左上（物件时间轴）
 
-![物件时间轴](/wiki/shared/BE_NTL.jpg "物件时间轴")
+![物件时间轴](img/objects-timeline.jpg "物件时间轴")
 
 **以 Beat Snap Divsor 和所在时间为基准显示物件的时间轴。**
 
@@ -31,7 +31,7 @@ outdated_translation: true
 
 ### 右上（Beat Snap Divisor）
 
-![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
+![Beat Snap Divisor](img/beat-snap-divisor.jpg "Beat Snap Divisor")
 
 *主条目：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) / [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)*
 
@@ -89,7 +89,7 @@ outdated_translation: true
 
 ### 左边（Selector）
 
-![物件选取](img/BE_HO.jpg "物件选取")
+![物件选取](img/tools.jpg "物件选取")
 
 **你的工具箱，专为 DIY 设计。**
 
@@ -110,7 +110,7 @@ outdated_translation: true
 
 **其他可用的辅助工具。**
 
-![打击音效 & 辅助工具](img/BE_HSAT.jpg "打击音效 & 辅助工具")
+![打击音效 & 辅助工具](img/subtools.jpg "打击音效 & 辅助工具")
 
 | 按钮 （键盘快捷键） | 用途 | 描述 |
 | :-- | :-- | :-- |
@@ -134,7 +134,7 @@ outdated_translation: true
 
 ### 下方（歌曲时间轴）
 
-![歌曲时间轴](img/BE_HSAT.jpg "歌曲时间轴")
+![歌曲时间轴](img/song-timeline.jpg "歌曲时间轴")
 
 在**左下角**显示的是以**毫秒表示的所在时间**和**歌曲长度百分比**。这个百分比会在歌曲开始之前 / 结束之后还有故事板的情况下变成 "Intro" / "Outro"。
 
@@ -175,7 +175,7 @@ outdated_translation: true
 
 ### 右上（Beat Snap Divisor）
 
-![Beat Snap Divisor（osu!mania 版）](img/BEM_BSD.jpg "Beat Snap Divisor（osu!mania 版）")
+![Beat Snap Divisor（osu!mania 版）](img/beat-snap-divisor-mania.jpg "Beat Snap Divisor（osu!mania 版）")
 
 *主页面：[Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
@@ -187,7 +187,7 @@ outdated_translation: true
 
 **你的 osu!mania 版工具包，专为 DIY 设计。**
 
-![物件选取（osu!mania 版）](img/BEM_HO.jpg "物件选取（osu!mania 版）")
+![物件选取（osu!mania 版）](img/tools-mania.jpg "物件选取（osu!mania 版）")
 
 | 按钮 / 标题 （键盘快捷键） | 用途 | 描述 |
 | :-- | :-- | :-- |
@@ -199,7 +199,7 @@ outdated_translation: true
 
 ### 中央（游玩区域）
 
-![osu!mania 游玩区域](/wiki/shared/BEM_PF.jpg "osu!mania 游玩区域")
+![osu!mania 游玩区域](img/playfield-mania.jpg "osu!mania 游玩区域")
 
 **显示现在所在时间的谱面样貌。**
 
@@ -253,7 +253,7 @@ outdated_translation: true
 
 ### 右边（打击音效 & 辅助工具）
 
-![打击音效 & 辅助工具](img/BE_HSAT.jpg "打击音效 & 辅助工具")
+![打击音效 & 辅助工具](img/subtools.jpg "打击音效 & 辅助工具")
 
 **其他可用的辅助工具。**
 
@@ -281,7 +281,7 @@ outdated_translation: true
 
 ### 下方（歌曲时间轴）
 
-![歌曲时间轴](/wiki/shared/BE_STL.jpg "歌曲时间轴")
+![歌曲时间轴](img/song-timeline.jpg "歌曲时间轴")
 
  在**左下角**会**以毫秒显示目前所在时间**及**歌曲长度百分比**。
 
@@ -299,7 +299,7 @@ outdated_translation: true
 
 ### Sampling
 
-![音效视窗（Windows 8 版）](img/Sample_omc.jpg "音效视窗（Windows 8 版）")
+![音效视窗](img/sample-import.jpg "音效视窗")
 
 **Sampling** 是指**在物件上添加音效**的过程。先选取物件然后按下 **`Alt`+左键**即可（会跳出一个列出谱面资料夹下所有音效的视窗）。
 

@@ -1,8 +1,8 @@
 # Compose tab
 
-![Compose editor for osu!](img/Compose.jpg "Compose editor for osu!")
+![](img/compose.jpg "Compose editor for osu!")
 
-![Compose editor for osu!mania](img/ComposeMania.jpg "Compose editor for osu!mania")
+![](img/compose-mania.jpg "Compose editor for osu!mania")
 
 **Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and timing sections. This is also the place where players can practice a ranked difficulty and inspect its design skin.
 
@@ -14,9 +14,7 @@ Due to different needs in mapping style (osu! is very flexible, allowing much ro
 
 ### Top-left (Hit objects timeline)
 
-<!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
-
-![Hit objects timeline](/wiki/shared/BE_NTL.jpg "Timeline for hit objects with respect to Beat Snap Divisor and timestamp")
+![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
 #### Hit object timeline
 
@@ -28,7 +26,7 @@ Due to different needs in mapping style (osu! is very flexible, allowing much ro
 
 ### Top-right (Beat Snap Divisor)
 
-![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
+![](img/beat-snap-divisor.jpg "Beat snap divisor")
 
 | Name | Description |
 | :-- | :-- |
@@ -40,7 +38,7 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ### Centre-left (Selector)
 
-![Hit objects selector](img/BE_HO.jpg "Hit objects selector")
+![](img/tools.jpg "Hit objects selector")
 
 #### Selector
 
@@ -55,11 +53,13 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ### Centre (Playfield)
 
-**Visual representation of mapping based on current timestamp**. Map your design here and your design will appear exactly like you mapped during play.
+![](img/playfield.jpg "Visual representation of the current timestamp")
+
+Map your difficulty here and will appear exactly like you mapped during gameplay.
 
 ### Centre-right (Hitsounds & Assist tools)
 
-![Hitsounds & Assist tools](img/BE_HSAT.jpg "List of available subtools complement to the toolkit")
+![](img/subtools.jpg "List of available subtools")
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
@@ -83,7 +83,7 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ### Bottom (Song's timeline)
 
-![Song's timeline](/wiki/shared/BE_STL.jpg "Song's timeline")
+![](img/song-timeline.jpg "Song's timeline")
 
 At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
@@ -124,7 +124,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 ### Top-right (Beat Snap Divisor)
 
-![Beat Snap Divisor in osu!mania](img/BEM_BSD.jpg "Beat Snap Divisor in osu!mania")
+![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
 
 *Main article: [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
@@ -134,7 +134,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 ### Centre-left (Selector)
 
-![Notes selector for osu!mania](img/BEM_HO.jpg "Notes selector for osu!mania")
+![](img/tools-mania.jpg "Notes selector for osu!mania")
 
 #### Selector
 
@@ -148,7 +148,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 ### Centre (Playfield)
 
-![osu!mania playfield](/wiki/shared/BEM_PF.jpg "Visual representation of mapping based on current timestamp")
+![](img/playfield-mania.jpg "Visual representation of the current timestamp")
 
 #### Playfield boxes
 
@@ -169,7 +169,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 ### Centre-right (Hitsounds & Assist tools)
 
-![Hitsounds & Assist tools](img/BE_HSAT.jpg "List of available subtools complement to the toolkit")
+![](img/subtools.jpg "List of available subtools")
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
@@ -193,7 +193,7 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 
 ### Bottom (Song's timeline)
 
-![Song's timeline](/wiki/shared/BE_STL.jpg "Song's timeline")
+![](img/song-timeline.jpg "Song's timeline")
 
 At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
@@ -212,7 +212,7 @@ At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 
 ### Sampling
 
-![Sample pop-up window](img/Sample_omc.jpg "Sample pop-up window")
+![](img/sample-import.jpg "Sample pop-up window")
 
 **Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside your beatmap folder.
 
