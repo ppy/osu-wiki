@@ -104,6 +104,8 @@ The Global Taiko Showdown team is hosting a 1v1 osu!taiko LAN tournament at the 
 
 *Main page: [COE 2023 1v1 osu! Tournament](/wiki/Tournaments/COE/COE_2023)*
 
+![COE 1v1 osu! Tournament banner](/wiki/Tournaments/COE/COE_2023/img/banner.png)
+
 A 1v1 osu! LAN tournament organised by the COE team.
 
 #### Prizes
