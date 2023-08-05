@@ -26,7 +26,7 @@ The **SV: Summer Exhibition 2** (***SVSE 2***) is a team tournament osu!mania 4-
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 120 USD, profile badge (pending) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 120 USD, profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 80 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 60 USD |
 | *4th place* | 40 USD |
@@ -103,6 +103,17 @@ The SV: Summer Exhibition 2 is run by various community members.
 | vingt-sept | ::{ flag=FR }:: [Satsukel](https://osu.ppy.sh/users/9066390), ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132) |
 | 不玩原神不玩的 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Echo\_XF](https://osu.ppy.sh/users/25630297) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team | Players |
+| :-: | :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **gaki wa oshimai!** | ::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **no we're not boyfriends** | ::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **The Hard Balls** | ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990) |
+| *4th place* | **mlem** | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=PE }:: [Kamikho](https://osu.ppy.sh/users/12664851) |
+
 ## Mappools
 
 ### Final stage
@@ -159,6 +170,16 @@ Monday, 31 July 2023:
 | --: | :-: | :-: | :-- | :-- |
 | Kamikho ::{ flag=PE }:: | 0 | **3** | ::{ flag=VN }:: **mightyxd** | [#1](https://osu.ppy.sh/community/matches/109770469) |
 | ERA Punish ::{ flag=DE }:: | 0 | **3** | ::{ flag=VN }:: **Lott** | [#1](https://osu.ppy.sh/community/matches/109770747) |
+
+Saturday, 5 August 2023:
+
+| Player A |  |  | Player B | Match Link |
+| --: | :-: | :-: | :-- | :-- |
+| Kamikho ::{ flag=PE }:: | 0 | **3** | ::{ flag=CA }:: **walmart5193** | *win by default* |
+| ERA Punish ::{ flag=DE }:: | 0 | **3** | ::{ flag=US }:: **ERA Basil** | *win by default* |
+| **gyoza_goki** ::{ flag=JP }:: | **3** | 0 | ::{ flag=VN }:: mightyxd | [#1](https://osu.ppy.sh/community/matches/109849609) |
+| ICECAKE ::{ flag=JP }:: | 2 | **3** | ::{ flag=VN }:: **Lott** | [#1](https://osu.ppy.sh/community/matches/109849855) |
+| **gaki wa oshimai!** ::{ flag=JP }:: | **3** | 0 | ::{ flag=VN }:: no we're not boyfriends | [#1](https://osu.ppy.sh/community/matches/109850211) |
 
 ### Week 4
 
@@ -303,7 +324,7 @@ Only the top 32 teams advance to the next round.
 | #11 | barudak gulanova | 3,879,375 |
 | #12 | :yangu: | 3,878,486 |
 | #13 | Los Simsimi | 3,859,058 |
-| #14 | 25,110,054 | 3,858,455 |
+| #14 | 25110054 | 3,858,455 |
 | #15 | team a | 3,857,094 |
 | #16 | svssy baka | 3,850,488 |
 | #17 | Jouœurs rincés | 3,840,449 |
@@ -393,7 +414,7 @@ Only the top 32 teams advance to the next round.
 5. Teams will select an "A player" and a "B player", the A player of each team will face each other, similar to the B player on a 1 versus 1 set. These will be the first and second set of the match.
    - These A and B players can't be swapped for the entire stage.
 6. If both teams tie on set points by the end of the second set, a third set will be played, this time a 2 versus 2.
-7. Each team must use the `!roll` command at the start of every set in `#multiplayer`.
+7. Each team must use `!roll` command at the start of every set in `#multiplayer`.
    - The winner of the `!roll` starts picking first.
    - The loser of the `!roll` picks second.
-8. There will be no bans in this stage.
+8. There wont be bans in this stage.
