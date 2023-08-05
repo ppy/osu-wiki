@@ -8,15 +8,15 @@
 ![](img/compose-mania.jpg "Compose editor for osu!mania")
 :::
 
-**Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and timing sections. This is also the place where players can practice a ranked difficulty and inspect its design akin.
+**Compose** is the place where a [mapper](/wiki/Beatmapping) spends most of the time mapping out the design with respect to the timeline after setting the BPM and timing sections. This is also the place where players can practice a ranked difficulty and inspect its design.
 
-Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania.
+Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to a selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania's editor are given their own features section. osu!mania's editor can be easily accessed by setting the difficulty to osu!mania.
 
 ## Features (osu!)
 
-*For a newbie guide, see: [Beatmapping](/wiki/Beatmapping)*
+*For a beginner's guide, see: [Beatmapping](/wiki/Beatmapping)*
 
-### Top-left (Hit objects timeline)
+### Top-left (Hit object timeline)
 
 ![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
@@ -59,7 +59,7 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ![](img/playfield.jpg "Visual representation of the current timestamp")
 
-Map your difficulty here and will appear exactly like you mapped during gameplay.
+Difficulties are mapped here and during gameplay, they will appear exactly like displayed in the editor. For fine-grained mapping, the `.osu` file can be directly edited using a text editor like Notepad.
 
 ### Centre-right (Hitsounds & Assist tools)
 
@@ -67,7 +67,7 @@ Map your difficulty here and will appear exactly like you mapped during gameplay
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
+| New Combo (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
 
 #### Hitsounds
 
@@ -81,19 +81,19 @@ Map your difficulty here and will appear exactly like you mapped during gameplay
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Hit objects will be snapped to the grid by default. |
-| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive objects will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
+| `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporarily disable angle snapping. | Hit objects will be snapped to the grid by default. |
+| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive objects will be snapped based on their rhythmical difference. Best to use while the timeline is paused. |
 | `Lock Notes` (`L`) | **(Select a hit object)** `Left click`: Lock this object. | Lock selected object to current position and timestamp. |
 
 ### Bottom (Song's timeline)
 
 ![](img/song-timeline.jpg "Song's timeline")
 
-At **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
+On the **bottom-left**, it shows the **timestamp** in milliseconds (ms) and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
-At **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
+On the **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save the beatmap and then allows for playtesting it, starting at the current timestamp.
 
-At **bottom-right**, you can adjust the **playback rate** by per quarter value.
+On the **bottom-right**, the **playback rate** can be adjusted by the value of a quarter.
 
 #### Colour markers
 
@@ -195,18 +195,18 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
 | `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporary disable angle snapping. | Notes will be snapped to the grid by default. |
-| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive notes will be snapped based on their rhythmical difference. Best use while the timeline is paused. |
+| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive notes will be snapped based on their rhythmical difference. Best to use while the timeline is paused. |
 | `Lock Notes` (`L`) | **(Select a note)** `Left click`: Lock this note. | Lock selected note to current position and timestamp. |
 
 ### Bottom (Song's timeline)
 
 ![](img/song-timeline.jpg "Song's timeline")
 
-At **bottom-left**, it shows the **timestamp** in milliseconds and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
+On the **bottom-left**, it shows the **timestamp** in milliseconds and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
-At **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save your beatmap then allows you to play test it, starting at the current timestamp.
+On the **bottom-centre**, it shows the **timeline with markings** and the **compulsory music player buttons**. The `Test` button to the right of the timeline will save the beatmap and then allows for playtesting it, starting at the current timestamp.
 
-At **bottom-right**, you can adjust the **playback rate** by per quarter value.
+On the **bottom-right**, the **playback rate** can be adjusted by the value of a quarter.
 
 #### Bookmarking command
 
@@ -221,11 +221,11 @@ At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 
 ![](img/sample-import.jpg "Sample pop-up window")
 
-**Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside your beatmap folder.
+**Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside the beatmap folder.
 
 #### Sample import
 
-**Left-section** is the list of sound files you have in the beatmap's folder.
+**Left-section** is the list of sound files there are in the beatmap's folder.
 
 **Right-section** are settings for the selected sound file.
 
@@ -234,7 +234,7 @@ At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 | Name | Description |
 | :-- | :-- |
 | `CustomSet` | **Ignores** selected custom hitsound in this editor, and applies the **default** hitsound set and volume without using timing point. *Notice: `Use basic sample` must be enabled in order to use this to be able to work as it's intended.* |
-| `Volume` | How loud you want this sound file be. Use only integer values from 8 to 100. |
+| `Volume` | How loud this sound file should be. Use only integer values from 8 to 100. |
 | `Use basic sample` | **Ignores** selected custom hitsound in this editor, and applies only the volume on selected notes. This means, no matter what the notes are about, this feature only changes the selected notes volume. |
 
 ##### Buttons
@@ -252,6 +252,6 @@ At **bottom-right**, you can adjust the **playback rate** by per quarter value.
 
 #### Sample event list
 
-Click on `Sample list` will summon another window named `Sample event list`, which would be this. These storyboarded elements will go to the `.osu` file of the selected difficulty.
+Clicking on `Sample list` will summon another window named `Sample event list`. The storyboard elements listed there will be stored in the `.osu` file of the selected difficulty.
 
-The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means at 1min 57s 745ms, trigger the `kick.wav` file at 100% volume regardless of condition.
+The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means at 1min 57s 745ms, triggering the `kick.wav` file at 100% volume regardless of condition.
