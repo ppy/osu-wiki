@@ -65,9 +65,9 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 | 難易度 | やさしいダッシュ | 難しいダッシュ | やさしいハイパーダッシュ | 難しいハイパーダッシュ |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
-| **Salad** | 250ミリ秒以上 | 125-249ミリ秒 | - | - |
-| **Platter** | 125ミリ秒以上 | 62-124ミリ秒 | 250ミリ秒以上 | 125-249ミリ秒 |
-| **Rain** | 125ミリ秒以上 | 62-124ミリ秒 | 125ミリ秒以上 | 62-124ミリ秒 |
+| **Salad** | 250ms以上 | 125-249ms | - | - |
+| **Platter** | 125ms以上 | 62-124ms | 250ms以上 | 125-249ms |
+| **Rain** | 125ms以上 | 62-124ms | 125ms以上 | 62-124ms |
 | **Overdose** | - | - | - | - |
 
 ### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
@@ -86,7 +86,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は4から6の間に設定してください。
 - [HP](/wiki/Beatmap/HP_drain_rate) は2から3の間に設定してください。
-- [Circle Size](/wiki/Beatmap/Circle_size) は2から3の間に設定してください。
+- [CS](/wiki/Beatmap/Circle_size) は2から3の間に設定してください。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
@@ -112,16 +112,16 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は6から7の間に設定してください。
 - [HP](/wiki/Beatmap/HP_drain_rate) は3から4の間に設定してください。
-- [Circle Size](/wiki/Beatmap/Circle_size) は2.5から3.5の間に設定してください。
+- [CS](/wiki/Beatmap/Circle_size) は2.5から3.5の間に設定してください。
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
 #### Rules
 
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は二つのオブジェクトの間には少なくとも125msが必要です。**
-- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は個々の[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)やスライダーのリピートには使用できません。** プレイヤーはこのレベルでは必要な精度とコントロールがありませんからスライダーの道を読み取ることに失敗する可能性が多いです
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は個々の[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)やスライダーのリピートには使用できません。** プレイヤーはこのレベルでは必要な精度とコントロールがありませんからスライダーの動きを読み取ることに失敗する可能性が多いです
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は違うビートスナップに連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)の間に二回以上は使用してはいけません。** 例えば、1/2のハイパーダッシュの後に1/4のハイパーダッシュを使うことは避けてください。
-- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
+- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は二回を超えて使うのはいけません。**
 - **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は他の[ダッシュ](/wiki/Gameplay/Dash)や[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)と組み合わせて使用してはいけません。**
 - **[ダッシュ](/wiki/Gameplay/Dash)は二つのオブジェクトの間には少なくとも62msが必要です。**
 - **[やさしいダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は四回を超えて使うのはいけません。**
@@ -143,52 +143,51 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は7から8.2の間に設定してください。
 - [HP](/wiki/Beatmap/HP_drain_rate) は4から5の間に設定してください。
-- [Circle Size](/wiki/Beatmap/Circle_size) は3から4の間に設定してください。
+- [CS](/wiki/Beatmap/Circle_size) は3から4の間に設定してください。
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
 #### Rules
 
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) and [dashes](/wiki/Gameplay/Dash) must have at least a 62 ms gap between their two objects.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy-to-follow.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with higher-snapped [dashes](/wiki/Gameplay/Dash) or any other hyperdashes.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used within a slider.**
-- **At least 125 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)と[ダッシュ](/wiki/Gameplay/Dash)は二つのオブジェクトの間には少なくとも62msが必要です。**
+- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)は四回を超えて使うのはいけません。**
+- **[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)はスライダーの中でニ回を超えて使用してはいけません。** なぜならスライダーの動きは簡単に遊びやすいです。
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)は、[難しいダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)や他の[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)と併用してはならないです。**
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)はスライダーの中で使用してはいけません。**
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点と終点の間には少なくとも125 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
 
 #### Guidelines
 
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) should not be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash) with a gap lower than 250ms.**
-- **[Edge dashes](/wiki/Gameplay/Edge_dash) may only be used singularly (not in conjunction with other [dashes](/wiki/Gameplay/Dash) or [hyperdashes](/wiki/Gameplay/Hyperdash)).**
-- **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
-- **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)とスライダーのリピートには使用してはいけません。**
+- **違うビートスナップが使用されている場合は[やさしいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は連続して使用してはいけません。** 例えば、1/1のハイパーダッシュの後に1/2のハイパーダッシュが続く場合は禁止です。
+- **[難しいハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には、[antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow)の[ダッシュ](/wiki/Gameplay/Dash)を使用する場合、250ms以下の間はいけません。**
+- **[Edge dash](/wiki/Gameplay/Edge_dash)は単体だけを使用できます。** 他の[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)と組み合わせてはいけません。
+- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に16つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **ノート密度は主に1/2と1/4か1/3と1/6のリズムです。** 1/8以上のリズムは偶に使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 7 and 9.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 6.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 5.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は7から9の間に設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は5から6の間に設定してください。
+- [CS](/wiki/Beatmap/Circle_size) は3から5の間に設定してください。
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 #### Rules
 
-- **At least 62 ms must be left between circles/sliders and the start of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
-- **At least 125 ms must be left between circles/sliders and the end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
-
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点の間には少なくとも62 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
+- **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の終点の間には少なくとも125 msの余裕を持たせる必要があります。** これは読みやすいをするための措置です。
 #### Guidelines
 
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) should only be used on [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play, and a major penalty to accuracy for little benefit.
-- **1/8 and higher [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used between consecutive object pairs.**
-- **[Edge dashes](/wiki/Gameplay/Edge_dash) may be used with caution for a maximum of three consecutive objects, and should not be used after [hyperdashes](/wiki/Gameplay/Hyperdash).**
-- **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
+- **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)とスライダーリピートで、スライダーの動きが分かりやすいの場合だけで使ってださい。** これはスライダーの動きが無秩序になったり不当に難しくなったりするのを防ぐためです。
+- **連続するオブジェクト対には、1/8以上の[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)を使用するのはいけません。**
+- **[Edge Dash](/wiki/Gameplay/Edge_dash)は最大で三つの連続したオブジェクトに使用できますが、[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)の後には使用しないでください。**
+- **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて皿に16つを超えてはいけません。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
+- **ノート密度は主に1/2と1/4か1/3と1/6のリズムです。** 1/8以上のリズムは偶に使ってください。
 
 #### Difficulty setting guidelines
 
-- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) should be between 8 and 10.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 6 and 7.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 6.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty) は8から10の間に設定してください。
+- [HP](/wiki/Beatmap/HP_drain_rate) は6から7の間に設定してください。
+- [CS](/wiki/Beatmap/Circle_size) は3から6の間に設定してください。
