@@ -42,8 +42,6 @@ Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0
 
 ![](img/tools.jpg "Hit objects selector")
 
-#### Selector
-
 | Buttons/Header (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
 | `Sampleset` | Auto, Normal, Soft, Drum | This ignores the timing section's sampleset setting, and adds the selected one. |
@@ -137,8 +135,6 @@ For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118
 ### Centre-left (Selector)
 
 ![](img/tools-mania.jpg "Notes selector for osu!mania")
-
-#### Selector
 
 | Buttons/Header (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
