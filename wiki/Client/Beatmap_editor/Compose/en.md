@@ -32,7 +32,7 @@ The `+`/`-` buttons facilitate the zooming in and out of the timeline, while the
 | `Insert Break Time` | Add a [break](/wiki/Beatmap/Break) at the current timestamp, stopping the [health drain](/wiki/Gameplay/Health). |
 | x/y | Position of a selected hit object on the playfield. If nothing is selected, the position of the cursor. |
 
-Hold `Alt` to switch the slider to [distance spacing](/wiki/Beatmapping/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
+Hold `Alt` to switch the slider to [distance spacing](/Client/Beatmap_editor/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
 
 ### Hit objects selector
 
