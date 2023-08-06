@@ -20,11 +20,7 @@ While osu!, osu!taiko, and osu!catch share the same editor tools, osu!mania maps
 
 ![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
-| Name | Description |
-| :-- | :-- |
-| `+`/`-` buttons | Increases/Decreases timeline zoom. |
-| Double white vertical lines | Current timestamp with respect to the hit objects timeline. |
-| Click on hit object | `Left click`: Select/Move hit object against timeline. `Right click`: Remove hit object. |
+The `+`/`-` buttons facilitate the zooming in and out of the timeline, while the two white lines indicate the current timestamp. Additionally, the mapper has the ability to interact with objects by using `Left click` to select and move them, and `Right click` to remove them.
 
 ### Beat snap divisor
 
@@ -38,18 +34,18 @@ While osu!, osu!taiko, and osu!catch share the same editor tools, osu!mania maps
 
 Hold `Alt` to switch the slider to [distance spacing](/wiki/Beatmapping/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
 
-### Selector
+### Hit objects selector
 
 ![](img/tools.jpg "Hit objects selector")
 
-| Button (Keyboard shortcut) | Usage | Description |
-| :-- | :-- | :-- |
-| `Sampleset` | | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of an active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
-| `Additions` | | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of an active timing point. |
+| Button (Keyboard shortcut) | Description |
+| :-- | :-- |
+| `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of an active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
+| `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of an active timing point. |
 | `Select` (`1`) | `Left click`**/drag**: Select/Adjust the objects/sliderpoints location. `Right click`: Remove objects/sliderpoints. `Ctrl` + `Click`: Multiple selection. | Select and modify existing hit objects. |
-| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle). | |
-| `Slider` (`3`) | `Left/Right click`: Start/End slider. Add/Remove sliderpoints. **Double** `Left click`: New curve section. | |
-| `Spinner` (`4`) | `Left/Right click`: Start/End spinner at current timestamp. | |
+| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle). |
+| `Slider` (`3`) | `Left/Right click`: Start/End slider. Add/Remove sliderpoints. **Double** `Left click`: New curve section. |
+| `Spinner` (`4`) | `Left/Right click`: Start/End spinner at current timestamp. |
 
 ### Playfield
 
@@ -63,7 +59,7 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `New Combo` (`Q`) | `Right click`: Change current object to next combo colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
+| `New Combo` (`Q`) | `Right click`: Change current object to next [combo](/wiki/Beatmapping/Combo) colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
 
 #### Hitsounds
 
@@ -96,7 +92,7 @@ On the **bottom-right**, the **playback rate** can be adjusted by the value of a
 | Colour | Description |
 | :-- | :-- |
 | White | Current timestamp |
-| Yellow  | Preview point |
+| Yellow | Preview point |
 | Green | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
 | Red | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
 | Blue | Bookmark |
@@ -133,7 +129,7 @@ These are the features of osu!mania, in addition to the previous ones.
 
 Beside the `Insert Break Time` button is the **sound file name storyboarded to the selected note**, known as **keysound**. *Refer to the [Sampling](#sampling) section*
 
-### Selector
+### Notes selector for osu!mania
 
 ![](img/tools-mania.jpg "Notes selector for osu!mania")
 
