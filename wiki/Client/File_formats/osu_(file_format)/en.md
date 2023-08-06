@@ -200,7 +200,7 @@ Hit object type is an 8-bit integer where each bit is a flag with special meanin
 | 4 | 16 | "Colour hax" |
 | 5 | 32 | "Colour hax" |
 | 6 | 64 | "Colour hax" |
-| 7 | 128 | Marks the object as an osu!mania hold note. 
+| 7 | 128 | Marks the object as an osu!mania hold note. |
 
 "Colour hax" is a 3-bit integer specifying how many combo colours to skip. Only relevant if this object starts a new combo.
 
