@@ -59,7 +59,7 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `New Combo` (`Q`) | `Right click`: Change current object to next [combo](/wiki/Beatmapping/Combo) colour. | Hit object combo. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
+| `New Combo` (`Q`) | `Left click` when selecting a hit object or `Right click` in hit object placement. | Change current object to next [combo](/wiki/Beatmapping/Combo) colour. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
 
 #### Hitsounds
 
