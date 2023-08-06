@@ -191,59 +191,18 @@ All options in this section represent colours. They are comma-separated triplets
 
 Hit object type is an 8-bit integer where each bit is a flag with special meaning.
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Bit no.</th>
-      <th align="left">Decimal value</th>
-      <th align="left">Meaning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>1</td>
-      <td>Marks the object as a hit circle</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>Marks the object as a slider</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>4</td>
-      <td>Marks the start of a new combo</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>8</td>
-      <td>Marks the object as a spinner</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>16</td>
-      <td rowspan="3">
-        A 3-bit integer specifying how many combo colours to skip <br> 
-        Only relevant if this object starts a new combo) <br>
-        Commonly referred to as "colour hax"
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>128</td>
-      <td>Marks the object as an osu!mania hold note.</td>
-    </tr>
-  </tbody>
-</table>
+| Bit index | Decimal value | Meaning |
+| :-- | :-- | :-- |
+| 0 | 1 | Marks the object as a hit circle |
+| 1 | 2 | Marks the object as a slider |
+| 2 | 4 | Marks the start of a new combo |
+| 3 | 8 | Marks the object as a spinner  |
+| 4 | 16 | "Colour hax" |
+| 5 | 32 | "Colour hax" |
+| 6 | 64 | "Colour hax" |
+| 7 | 128 | Marks the object as an osu!mania hold note. 
+
+* "Colour hax" - A 3-bit integer specifying how many combo colours to skip. Only relevant if this object starts a new combo.
 
 ### Hitsounds
 
@@ -251,10 +210,10 @@ The `hitSound` bit flags determine which sounds will play when the object is hit
 
 | Bit no. | Decimal value | Meaning |
 | :-- | :-- | :-- |
-| 1 | 1 | Normal |
-| 2 | 2 | Whistle |
-| 3 | 4 | Finish |
-| 4 | 8 | Clap |
+| 0 | 1 | Normal |
+| 1 | 2 | Whistle |
+| 2 | 4 | Finish |
+| 3 | 8 | Clap |
 
 If no bits are set, the normal hitsound is used by default.
 
