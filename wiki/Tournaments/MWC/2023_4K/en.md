@@ -112,28 +112,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Qualifiers
 
-**[Download the mappack here (46 MB)](https://drive.google.com/uc?id=1vX65jeRQ-RoIqEZvHSdK3SYyPhh3F9s8)**
+**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
 
-1. sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]
-<https://osu.ppy.sh/beatmapsets/2039247#mania/4253502>
-2. Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]
-<https://osu.ppy.sh/beatmapsets/2039339#mania/4253751>
-3. xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]
-<https://osu.ppy.sh/beatmapsets/2039240#mania/4253493>
-4. technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]
-<https://osu.ppy.sh/beatmapsets/2039243#mania/4253496>
-5. Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]
-<https://osu.ppy.sh/beatmapsets/2039298#mania/4253649>
-6. Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]
-<https://osu.ppy.sh/beatmapsets/2039253#mania/4253513>
-7. katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]
-<https://osu.ppy.sh/beatmapsets/2039237#mania/4253489>
-8. Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]
-<https://osu.ppy.sh/beatmapsets/2039336#mania/4253740>
-
-## TB
-
-## Mappack link (46 MB): <https://drive.google.com/uc?id=1It6ICfZd_JkRfvZJ6KJ93bqd0piknE9o>
+1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
+2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
+3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
+4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
+5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
+6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
+7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
+8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Ruleset
 
