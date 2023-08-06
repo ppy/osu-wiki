@@ -28,7 +28,7 @@ Dieses Tutorial ist gedacht für alle, die **keine** Videos außerhalb von YouTu
 2. Tippe den Befehl unten ein und drücke `Enter`
 
 ```cmd
-youtube-dl -f bestvideo <Video-Link>
+youtube-dl -f bestvideo <Videolink>
 ```
 
 ![YouTube-Videos mit youtube-dl herunterladen](img/example.jpg "YouTube-Videos mit youtube-dl herunterladen")

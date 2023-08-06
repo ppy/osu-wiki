@@ -373,8 +373,10 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-19: Moved [nanoya](https://osu.ppy.sh/users/12366071) from **Probationary BN** to **BN**
 - 2023-06-23: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **BN** to **Probationary BN**
 - 2023-06-25: Moved [ssapgosu](https://osu.ppy.sh/users/16564480) from **Probationary BN** to **BN**
+- 2023-06-29: Moved [Ucitysm](https://osu.ppy.sh/users/14768693) from **Probationary BN** to **BN**
+- 2023-06-29: Moved [Hidden is fun](https://osu.ppy.sh/users/10449071) from **Probationary BN** to **BN**
 
-#### Removals
+#### Removals
 
 - 2023-06-02: Removed [Jonarwhal](https://osu.ppy.sh/users/3653035) from **BN**
 - 2023-06-05: Removed [Protastic101](https://osu.ppy.sh/users/6712747) from **BN**
@@ -387,6 +389,73 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-28: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
 - 2023-06-28: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **BN**
 - 2023-06-28: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **BN**
+- 2023-06-30: Removed [Creamy Candy](https://osu.ppy.sh/users/9769199) from **BN**
+- 2023-06-30: Removed [lenpai](https://osu.ppy.sh/users/5314573) from **BN**
+
+## July
+
+- 2023-07-01: Moved [nexusqi](https://osu.ppy.sh/users/13822800) from **NAT** to **osu! Alumni**
+- 2023-07-06: Moved [Secre](https://osu.ppy.sh/users/2306637) from **osu! Alumni** to **NAT** 
+- 2023-07-07: Moved [Petal](https://osu.ppy.sh/users/7354729) from **GMT** to **NAT**
+- 2023-07-07: Moved [Noffy](https://osu.ppy.sh/users/1541323) from **osu! Alumni** to **NAT**
+- 2023-07-08: Moved [Garden](https://osu.ppy.sh/users/2849992) from **GMT** to **NAT**
+- 2023-07-09: Removed [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903) from **Project Loved Team**
+- 2023-07-13: Moved [Agatsu](https://osu.ppy.sh/users/5579871) from **NAT** to **osu! Alumni**
+- 2023-07-18: Removed [radar](https://osu.ppy.sh/users/7131099) from **Beatmap Spotlight Curators**
+- 2023-07-18: Removed [radar](https://osu.ppy.sh/users/7131099) from **Project Loved Team**
+- 2023-07-21: Removed [\_underjoy](https://osu.ppy.sh/users/2235750) from **Project Loved Team**
+- 2023-07-21: Moved [FAMoss](https://osu.ppy.sh/users/7707789) from **GMT** to **osu! Alumni**
+- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **Beatmap Spotlight Curators**
+- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **Project Loved Team**
+- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **NAT**
+- 2023-07-24: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **NAT** to **osu! Alumni**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2023-07-01: Added [nexusqi](https://osu.ppy.sh/users/13822800) to **BN**
+- 2023-07-03: Added [Hytex](https://osu.ppy.sh/users/8536263) to **Probationary BN**
+- 2023-07-04: Added [Virtue-](https://osu.ppy.sh/users/6144772) to **BN**
+- 2023-07-05: Added [Protastic101](https://osu.ppy.sh/users/6712747) to **BN**
+- 2023-07-05: Added [Pieter](https://osu.ppy.sh/users/29282944) to **BN**
+- 2023-07-08: Added [Garalulu](https://osu.ppy.sh/users/757783) to **BN**
+- 2023-07-13: Added [Agatsu](https://osu.ppy.sh/users/5579871) to **BN**
+- 2023-07-14: Added [xBlurinq](https://osu.ppy.sh/users/7540631) to **Probationary BN**
+- 2023-07-14: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
+- 2023-07-14: Added [Hey lululu](https://osu.ppy.sh/users/4086497) to **Probationary BN**
+- 2023-07-18: Added [Lasse](https://osu.ppy.sh/users/896613) to **BN**
+- 2023-07-19: Added [-MysticEyes](https://osu.ppy.sh/users/6253266) to **Probationary BN**
+- 2023-07-22: Added [RandomeLoL](https://osu.ppy.sh/users/7080063) to **BN**
+- 2023-07-22: Added [GiGas](https://osu.ppy.sh/users/7300747) to **Probationary BN**
+- 2023-07-23: Added [melleganol](https://osu.ppy.sh/users/16452371) to **Probationary BN**
+- 2023-07-23: Added [cjstmdals](https://osu.ppy.sh/users/12572294) to **Probationary BN**
+- 2023-07-23: Added [chaser01](https://osu.ppy.sh/users/18730172) to **Probationary BN**
+- 2023-07-23: Added [Aeril](https://osu.ppy.sh/users/4334976) to **Probationary BN**
+- 2023-07-23: Added [-White](https://osu.ppy.sh/users/16276548) to **Probationary BN**
+
+#### Moves
+
+- 2023-07-14: Moved [Hugged](https://osu.ppy.sh/users/12589220) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2023-07-03: Removed [Enneya](https://osu.ppy.sh/users/10959501) from **BN**
+- 2023-07-03: Removed [Krisom](https://osu.ppy.sh/users/99269) from **BN**
+- 2023-07-07: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
+- 2023-07-07: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **BN**
+- 2023-07-08: Removed [Garden](https://osu.ppy.sh/users/2849992) from **BN**
+- 2023-07-08: Removed [\_Fast](https://osu.ppy.sh/users/959763) from **BN**
+- 2023-07-12: Removed [SMOKELIND](https://osu.ppy.sh/users/9327302) from **BN**
+- 2023-07-13: Removed [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN**
+- 2023-07-17: Removed [hac](https://osu.ppy.sh/users/17853754) from **Probationary BN**
+- 2023-07-18: Removed [M a r v o l l o](https://osu.ppy.sh/users/5504231) from **BN**
+- 2023-07-18: Removed [Aruel](https://osu.ppy.sh/users/3984370) from **BN**
+- 2023-07-19: Removed [Burak](https://osu.ppy.sh/users/13213075) from **BN**
+- 2023-07-19: Removed [Eriha](https://osu.ppy.sh/users/16320311) from **Probationary BN**
+- 2023-07-21: Removed [Pieter](https://osu.ppy.sh/users/29282944) from **BN**
+- 2023-07-22: Removed [ssapgosu](https://osu.ppy.sh/users/16564480) from **BN**
+- 2023-07-23: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
 
 <!-- last updated with Mimari removed from BN 2023-06-23 20:51 UTC>
 
