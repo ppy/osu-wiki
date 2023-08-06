@@ -34,9 +34,9 @@ The `+`/`-` buttons facilitate the zooming in and out of the timeline, while the
 
 Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_editor/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
 
-### Hit objects selector
+### Hit objects panel
 
-![](img/tools.jpg "Hit objects selector")
+![](img/tools.jpg "Hit objects panel")
 
 | Button (Keyboard shortcut) | Description |
 | :-- | :-- |
@@ -53,9 +53,9 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 Difficulties are mapped here and during gameplay, they will appear exactly like displayed in the editor. For fine-grained mapping, the `.osu` file can be directly edited using a text editor like Notepad.
 
-### Subtools
+### Tools panel
 
-![](img/subtools.jpg "List of available subtools")
+![](img/subtools.jpg "Tools panel")
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
