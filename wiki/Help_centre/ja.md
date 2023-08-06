@@ -5,6 +5,11 @@ tags:
   - problem
   - trouble
   - missing
+  - ヘルプ
+  - 課題
+  - 問題
+  - トラブル
+  - サポート
 ---
 
 # ヘルプセンター
