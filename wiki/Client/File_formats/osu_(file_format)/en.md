@@ -208,7 +208,7 @@ Hit object type is an 8-bit integer where each bit is a flag with special meanin
 
 The `hitSound` bit flags determine which sounds will play when the object is hit:
 
-| Bit no. | Decimal value | Meaning |
+| Bit index | Decimal value | Meaning |
 | :-- | :-- | :-- |
 | 0 | 1 | Normal |
 | 1 | 2 | Whistle |
