@@ -8,13 +8,13 @@
 ![](img/compose-mania.jpg "Compose editor for osu!mania")
 :::
 
-**Compose** is the place where a [mapper](/wiki/Beatmapping) spends most of the time mapping out the design with respect to the timeline after setting the BPM and timing sections. This is also the place where players can practice a ranked difficulty and inspect its design.
+**Compose** is the place where [mappers](/wiki/Beatmapping) spend most of the time working on their own maps after finding their [timing](/wiki/Beatmapping/Timing) settings. It is possible to inspect any map's design by opening it in `Compose` and studying its [patterns](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound) placement, and other aspects. Additionally, any beatmap loaded in the editor can be played and practiced through the [test mode](/wiki/Client/Beatmap_editor/Test_mode).
 
-Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to a selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania's editor are given their own features section. osu!mania's editor can be easily accessed by setting the difficulty to osu!mania.
+While osu!, osu!taiko, and osu!catch share the same editor tools, osu!mania maps are worked on in a different editor mode, due to heavy focus on column-oriented patterns and approaches such as [keysounding](/wiki/Beatmapping/Hitsound#keysound). osu!mania's editor can be easily accessed by changing the difficulty's [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) to `osu!mania`.
 
 ## Features
 
-*For a beginner's guide, see: [Beatmapping](/wiki/Beatmapping)*
+*For a general overview of the mapping activity, see: [Beatmapping](/wiki/Beatmapping)*
 
 ### Hit object timeline
 
@@ -32,22 +32,22 @@ Due to different needs in mapping style (osu! is very flexible, allowing much ro
 
 | Name | Description |
 | :-- | :-- |
-| [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limits where hit objects can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the hit objects. |
-| `Insert Break Time` | This button will start/stop [break](/wiki/Beatmap/Break) time in current timestamp. |
-| x/y | The current mouse coordinate. |
+| [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limit where hit objects can be placed, so that they always fall on the beat. Moving the slider to the right increases the granularity of the hit objects. |
+| `Insert Break Time` | Add a [break](/wiki/Beatmap/Break) at the current timestamp, stopping the [health drain](/wiki/Gameplay/Health). |
+| x/y | Position of a selected hit object on the playfield. If nothing is selected, the position of the cursor. |
 
-Hold `Alt` to trigger **Distance Spacing**. The value can range from 0.1x to 6.0x.
+Hold `Alt` to switch the slider to [distance spacing](/wiki/Beatmapping/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
 
 ### Selector
 
 ![](img/tools.jpg "Hit objects selector")
 
-| Buttons (Keyboard shortcut) | Usage | Description |
+| Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `Sampleset` | Auto, Normal, Soft, Drum | This ignores the timing section's sampleset setting, and adds the selected one. |
-| `Additions` | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the selected set. |
+| `Sampleset` | | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of an active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
+| `Additions` | | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of an active timing point. |
 | `Select` (`1`) | `Left click`**/drag**: Select/Adjust the objects/sliderpoints location. `Right click`: Remove objects/sliderpoints. `Ctrl` + `Click`: Multiple selection. | Select and modify existing hit objects. |
-| `Circle` (`2`) | `Left click`: Add object. | |
+| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle). | |
 | `Slider` (`3`) | `Left/Right click`: Start/End slider. Add/Remove sliderpoints. **Double** `Left click`: New curve section. | |
 | `Spinner` (`4`) | `Left/Right click`: Start/End spinner at current timestamp. | |
 
@@ -78,12 +78,12 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
 | `Grid Snap` (`T`) | **Hold** `Shift`: Temporary toggle. **Hold** `Ctrl`: Temporarily disable angle snapping. | Hit objects will be snapped to the grid by default. |
-| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle. Switch Beat Snap Divisor to Distance Snap. `Alt` **+** `Mousewheel`: Adjust Distance Snap multiplier. | Distance between consecutive objects will be snapped based on their rhythmical difference. Best to use while the timeline is paused. |
-| `Lock Notes` (`L`) | **(Select a hit object)** `Left click`: Lock this object. | Lock selected object to current position and timestamp. |
+| `Distance Snap` (`Y`) | **Hold** `Alt`: Temporary toggle, switching the beat snap divisor tool to distance snap. `Alt` **+** `Mousewheel`: Adjust the distance snap multiplier. | Distance between consecutive objects will be calculated based on their temporal distance. Best to use while the timeline is paused. |
+| `Lock Notes` (`L`) | `Left click`: toggle. | Lock all hit objects to their current positions and timestamps. |
 
-### Song's timeline
+### Song timeline
 
-![](img/song-timeline.jpg "Song's timeline")
+![](img/song-timeline.jpg "Song timeline")
 
 On the **bottom-left**, it shows the **timestamp** in milliseconds and the **song duration** in percent. The percentage may be switched to "intro" or "outro" if there is storyboarding before or after the music.
 
@@ -95,32 +95,31 @@ On the **bottom-right**, the **playback rate** can be adjusted by the value of a
 
 | Colour | Description |
 | :-- | :-- |
-| White (long) | Current timestamp. |
-| Yellow (long tick) | Preview point. |
-| Yellow (up tick) | Start of the [drain time](/wiki/Beatmap/Drain_time). |
-| Green (up tick) | Inherited points. *See: [Timing tab](/wiki/Client/Beatmap_editor/Timing)* |
-| Red (up tick) | Timing points. *See: [Timing tab](/wiki/Client/Beatmap_editor/Timing)* |
-| Blue (down tick) | Bookmarks. |
+| White | Current timestamp |
+| Yellow  | Preview point |
+| Green | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
+| Red | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
+| Blue | Bookmark |
 
-#### Colour highlights
+#### Colour sections
 
 | Colour | Description |
 | :-- | :-- |
-| Grey | [Break](/wiki/Beatmap/Break) time |
+| Grey | [Break](/wiki/Beatmap/Break) |
 | Orange | [Kiai time](/wiki/Gameplay/Kiai_time) |
 
-#### Bookmarking command
+#### Bookmark actions
 
 | Shortcut | Description |
 | :-- | :-- |
-| `Ctrl` + `B` | Adds a bookmark at current location. |
-| `Ctrl` + `Shift` + `B` | Removes the bookmark at current location. |
-| `Ctrl` + `Right arrow` | Moves the current timestamp to the next bookmark. |
-| `Ctrl` + `Left arrow` | Moves the current timestamp to the previous bookmark. |
+| `Ctrl` + `B` | Add a bookmark at current location. |
+| `Ctrl` + `Shift` + `B` | Remove the bookmark at nearby location. |
+| `Ctrl` + `Right arrow` | Move the current timestamp to the next bookmark. |
+| `Ctrl` + `Left arrow` | Move the current timestamp to the previous bookmark. |
 
 ## Features (osu!mania)
 
-For a simple guide, see: [Basics](https://osu.ppy.sh/community/forums/topics/118868) and [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
+*See also: [Basics of the osu!mania mapping](https://osu.ppy.sh/community/forums/topics/118868), [osu!mania keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
 
 These are the features of osu!mania, in addition to the previous ones.
 
