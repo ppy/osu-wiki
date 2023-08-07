@@ -10,6 +10,8 @@
 
 **Compose** is the place where [mappers](/wiki/Beatmapping) spend most of the time working on their own maps after finding their [timing](/wiki/Beatmapping/Timing) settings. It is possible to inspect any map's design by opening it in `Compose` and studying its [patterns](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound) placement, and other aspects. Additionally, any beatmap loaded in the editor can be played and practiced through the [test mode](/wiki/Client/Beatmap_editor/Test_mode).
 
+During gameplay, the difficulty will appear exactly like displayed in the editor, with exception to hit animations and automatic object stacking. To gain fine-grained control over the map, its [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file can be edited directly using a text editor like Notepad.
+
 While osu!, osu!taiko, and osu!catch share the same editor tools, osu!mania maps are worked on in a different editor mode, due to heavy focus on column-oriented patterns and approaches such as [keysounding](/wiki/Beatmapping/Hitsound#keysound). osu!mania's editor can be easily accessed by changing the difficulty's [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) to `osu!mania`.
 
 ## Features
@@ -50,8 +52,6 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 ### Playfield
 
 ![](img/playfield.jpg "Visual representation of the current timestamp")
-
-Difficulties are mapped here and during gameplay, they will appear exactly like displayed in the editor. For fine-grained mapping, the `.osu` file can be directly edited using a text editor like Notepad.
 
 ### Tools panel
 
@@ -125,8 +125,6 @@ These are the features of osu!mania, in addition to the previous ones.
 
 *Main article: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
-**Time signature** (MM:B) from the timing section is added (15:3 = 15th measure 3rd beat) beside the adjustment bar for easier mapper's reference. It can go to negative value (e.g. -8:-3) if the first timing section is a *few seconds away* from the start of the beatmap's song file.
-
 In osu!mania mode, the beat snap divisor area also shows the name and volume level of the sound sample attached to a selected note. Such per-note samples called keysounds are applied using the [`Sample import`](#sample-import) dialog.
 
 ### Hit object panel for osu!mania
@@ -135,8 +133,8 @@ In osu!mania mode, the beat snap divisor area also shows the name and volume lev
 
 | Buttons (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `Sampleset` | Auto, Normal, Soft, Drum | Change the sampleset ignoring the current one on timing section. |
-| `Additions` | Auto, Normal, Soft, Drum | Same as above, but overrides the `Sampleset` setting. |
+| `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
+| `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
 | `Select` (`1`) | `Left click` or `Left drag`: Move timestamp and location of the note. `Right click`: Remove the note. `Ctrl` + `Left click`: Select multiple objects. | Select and modify existing notes. |
 | `Circle` (`2`) | `Left click`: Place a note. | Add a note to the current column based on mouse position. |
 | `Hold` (`3`) | Hold `Left click`: Place a hold note and adjust its length. Release the click to end the note. | Add a hold note to the current column based on mouse position. |
@@ -167,15 +165,13 @@ In osu!mania mode, the beat snap divisor area also shows the name and volume lev
 
 ### Sampling
 
-**Sampling** is the process of adding sound to the note. To begin, select the note and `Alt` **+** `Left click` on the selected note and a pop-up window will be shown with sound samples inside the beatmap folder.
+**Sampling** is the process of adding sound to the note. To add a sample, click a note while holding `Alt` to open a pop-up window with a list of sound samples inside the beatmap folder.
 
 #### Sample import
 
 ![](img/sample-import.jpg "Sample import window")
 
-**Left-section** is the list of sound files there are in the beatmap's folder.
-
-**Right-section** are settings for the selected sound file.
+The left side of the sample import window lists all audio samples from the beatmap folder. They can be applied to selected objects using settings on right side of the window.
 
 ##### Basic
 
@@ -203,5 +199,3 @@ In osu!mania mode, the beat snap divisor area also shows the name and volume lev
 ![](img/sample-event-list.jpg "Sample events list window")
 
 `Sample events list` is a window that shows sound events from the storyboard, which are stored in the difficulty's `.osu` file. The format of every line is `<minutes>:<seconds>:<milliseconds> <filename>@<volume>`.
-
-The coding is `MM:SS:XXX {Sound_file}@{Volume}`, where `MM:SS:XXX` is `Minutes:Seconds:Milliseconds` respectively. **Example**: `1:57:745 kick.wav@100%` means that at 1min 57s 745ms, the `kick.wav` will trigger at 100% volume regardless of the conditions.
