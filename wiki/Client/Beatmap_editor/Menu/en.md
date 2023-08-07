@@ -12,8 +12,8 @@
 | Open Difficulty... | **For Editing:** Quickly switch between difficulties. **For Reference:** ([osu!mania](/wiki/Game_mode/osu!mania) only) Overlay the selected difficulty over the currently opened one. |
 | Save (`Ctrl` + `S`) | Save current changes (both [`.osu`](/wiki/Client/File_formats/osu_(file_format)) and [`.osb`](/wiki/Client/File_formats/osb_(file_format)) |
 | Create a new Difficulty... | Save the current changes as a new difficulty. The old difficulty is preserved to its last saved state when reloaded. |
-| Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the difficulty. |
-| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the difficulty and reload all files (sprites, sound samples). |
+| Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the difficulty and the storyboard. |
+| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the difficulty and the storyboard and reload all files (sprites, sound samples). |
 | Test Beatmap (`F5`) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the difficulty, offering to save changes beforehand. |
 | Open AiMod (`Ctrl` + `Shift` + `A`) | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 | Upload Beatmap... (`Ctrl` + `Shift` + `U`) | [Upload](/wiki/Beatmapping/Beatmap_submission) the beatmap to the [Works In Progress](https://osu.ppy.sh/community/forums/10) forum. |
