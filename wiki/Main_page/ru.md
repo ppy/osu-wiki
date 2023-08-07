@@ -11,7 +11,7 @@ layout: main_page
 
 # Знакомство с игрой
 
-Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5).
+Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5) или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
 
 [Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_centre)
 
@@ -83,7 +83,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Ответы на часто задаваемые вопросы и решения распространённых проблем.
 
-[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/Account_support_team) • [Форум техподдержки](https://osu.ppy.sh/forum/5)
+[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
 Ограничения: [Сайленс](/wiki/Silence) • [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions)
 
