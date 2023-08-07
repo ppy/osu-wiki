@@ -40,10 +40,10 @@
 
 这些规定适用于通过游戏内的[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)提交的谱面。当 osu! 客户端在[编辑器](/wiki/Client/Beatmap_editor)中提交谱面的时候，会创建相应的讨论贴。
 
-1. **确保你拥有谱面内所有内容的使用权。** 包括歌曲、视频、击打音效、图片素材以及其它并不是你原创的内容。如果你不确定，我们为你提供了一个不断扩大的[精选艺术家](https://osu.ppy.sh/beatmaps/artists)曲目库，它们全都被授权在 osu! 中使用。要了解更多信息，请参见：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines)。
+1. **确保你拥有谱面内所有内容的使用权。** 包括歌曲、视频、击打音效、图片素材以及其它并不是你原创的内容。如果你不确定，我们为你提供了一个不断扩大的[精选艺术家](https://osu.ppy.sh/beatmaps/artists)曲目库，它们全都被授权在 osu! 中使用。要了解更多信息，请参见：[内容使用规范](/wiki/Rules/Content_usage_guidelines)。
 2. **[谱面讨论帖内](/wiki/Beatmap_discussion)不要脱离主题。** 这些帖子是专门用来讨论谱面内的问题的。如果你有其它与谱面不相关的问题，请在其他合适的板块中提出。
 3. **不要抄袭他人的成果。** 你不应当在未被授权的情况下上传他人的成果，包括但不限于皮肤和客串谱面。
-4. **遵守[歌曲内容规定](/wiki/Rules/Song_Content_Rules)和[视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)。**
+4. **遵守[歌曲内容规定](/wiki/Rules/Song_content_rules)和[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)。**
 
 ## 当我违反规定时会发生什么？
 
