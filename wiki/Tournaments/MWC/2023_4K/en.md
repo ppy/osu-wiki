@@ -17,7 +17,7 @@ The **osu!mania 4K World Cup 2023** (***MWC 4K 2023***) is a country-based osu!m
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2023-07-13/2023-07-27 (23:59 UTC) |
-| Qualifier showcase | 2023-08-05 (12:30 UTC) |
+| Qualifier showcase | 2023-08-05 (11:00 UTC) |
 | Qualifier stage | 2023-08-12/2023-08-13 |
 | Round of 32 | 2023-08-19/2023-08-20 |
 | Round of 16 | 2023-08-26/2023-08-27 |
@@ -60,7 +60,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[C90](https://osu.ppy.sh/users/13858488)** |
+| ::{ flag=AR }:: | **Argentina** | **[C90](https://osu.ppy.sh/users/13858488)**, [BossPlays](https://osu.ppy.sh/users/7341471), [CatalepsiaX](https://osu.ppy.sh/users/27208738), [Hidrocarburo](https://osu.ppy.sh/users/6384643), [agusgex](https://osu.ppy.sh/users/14132796), [jLuyalb](https://osu.ppy.sh/users/7093698) |
 | ::{ flag=AU }:: | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [-Emptiness-](https://osu.ppy.sh/users/8151295), [\[Iron\]](https://osu.ppy.sh/users/13171482), [anim girl](https://osu.ppy.sh/users/6378800), [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), [oct4](https://osu.ppy.sh/users/10303887) |
 | ::{ flag=AT }:: | **Austria** | **[RealEric](https://osu.ppy.sh/users/16272683)**, [\[HL\]amoun](https://osu.ppy.sh/users/20748215), [AmNotProSike](https://osu.ppy.sh/users/27238908), [ElectroBeaty](https://osu.ppy.sh/users/6500478) |
 | ::{ flag=BR }:: | **Brazil** | **[LeMarcinho](https://osu.ppy.sh/users/13347579)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [DemiFiendSMT](https://osu.ppy.sh/users/20051971), [Netroo](https://osu.ppy.sh/users/13769101), [Miku Meru](https://osu.ppy.sh/users/18943504), [Zergh](https://osu.ppy.sh/users/3181281) |
@@ -75,7 +75,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | ::{ flag=DE }:: | **Germany** | **[ERA medium kek](https://osu.ppy.sh/users/11625617)**, [ERA Punish](https://osu.ppy.sh/users/10615367), [ERA Leo](https://osu.ppy.sh/users/15440118), [Cyaewin](https://osu.ppy.sh/users/10027302), [Lord\_Sp4rtakus](https://osu.ppy.sh/users/14114899), [jkzu123](https://osu.ppy.sh/users/15806513) |
 | ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)**, [babosodeuriel](https://osu.ppy.sh/users/31729635), [KuranteFanBoy](https://osu.ppy.sh/users/28764122), [Votchis](https://osu.ppy.sh/users/14862011) |
 | ::{ flag=HN }:: | **Honduras** | **[\[HD\]Weathersito](https://osu.ppy.sh/users/24167604)**, [\[LS\]Runkus](https://osu.ppy.sh/users/13010686), [\[TMEO\]Calamidas](https://osu.ppy.sh/users/14285542), [--Dani--](https://osu.ppy.sh/users/31426298), [\_ItzSebas\_](https://osu.ppy.sh/users/22514283) |
-| ::{ flag=HK }:: | **Hong Kong** | **[Quotient](https://osu.ppy.sh/users/11313227)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Ricizus](https://osu.ppy.sh/users/10395139)**, [Quotient](https://osu.ppy.sh/users/11313227), [MegMewtwoZ](https://osu.ppy.sh/users/13235067), [osu\_degenstage5](https://osu.ppy.sh/users/11563203), [racksack](https://osu.ppy.sh/users/18111392), [\[Mom\] -So1-](https://osu.ppy.sh/users/18265431) |
 | ::{ flag=ID }:: | **Indonesia** | **[bad hd player](https://osu.ppy.sh/users/13385865)**, [\[Albert\]](https://osu.ppy.sh/users/12689667), [adihza](https://osu.ppy.sh/users/18309106), [Onta\_Bekasi](https://osu.ppy.sh/users/8677684), [RetroEX](https://osu.ppy.sh/users/10540515), [AZKiFanboy](https://osu.ppy.sh/users/5179764) |
 | ::{ flag=IT }:: | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)**, [Veryi](https://osu.ppy.sh/users/13878539), [Bestfast](https://osu.ppy.sh/users/11616192), [gui on mania](https://osu.ppy.sh/users/12421640), [\[SPNG\]faxxed--](https://osu.ppy.sh/users/17051055), [\[SPNG\] Sim0](https://osu.ppy.sh/users/3262821) |
 | ::{ flag=JP }:: | **Japan** | **[CrewK](https://osu.ppy.sh/users/11488604)**, [jhleetgirl](https://osu.ppy.sh/users/10745260), [AMDuskia1996](https://osu.ppy.sh/users/10242062), [ICECAKE](https://osu.ppy.sh/users/16100800), [gyoza\_goki](https://osu.ppy.sh/users/18144664), [9990\_y](https://osu.ppy.sh/users/25588443) |
@@ -96,7 +96,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | ::{ flag=ES }:: | **Spain** | **[ERA Guldakh](https://osu.ppy.sh/users/8553078)**, [ime](https://osu.ppy.sh/users/11649450), [ShiroPeDeFresa](https://osu.ppy.sh/users/16020685), [Enthalpy](https://osu.ppy.sh/users/9552883), [cartografiar](https://osu.ppy.sh/users/16118849), [itsdarious555](https://osu.ppy.sh/users/6809566) |
 | ::{ flag=SE }:: | **Sweden** | **[Emik](https://osu.ppy.sh/users/3350987)**, [Lemmie](https://osu.ppy.sh/users/11700865), [NeonDrakon](https://osu.ppy.sh/users/6315000), [diamondBIaze](https://osu.ppy.sh/users/10553827), [himlavalv](https://osu.ppy.sh/users/15080920), [Parinya](https://osu.ppy.sh/users/7746055) |
 | ::{ flag=CH }:: | **Switzerland** | **[Tupidix](https://osu.ppy.sh/users/8655604)**, [CrashSmash](https://osu.ppy.sh/users/13942150), [HongFanboy](https://osu.ppy.sh/users/16790509), [senkhyu](https://osu.ppy.sh/users/25159471) |
-| ::{ flag=TW }:: | **Taiwan** | **[\[-NEinO-\]](https://osu.ppy.sh/users/8630038)** |
+| ::{ flag=TW }:: | **Taiwan** | **[\[-NEinO-\]](https://osu.ppy.sh/users/8630038)**, [- Such -](https://osu.ppy.sh/users/16081867), [jackyjacky607](https://osu.ppy.sh/users/16191405), [Pdog4ni](https://osu.ppy.sh/users/14581544), [diablorex1234](https://osu.ppy.sh/users/11912607), [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927) |
 | ::{ flag=TH }:: | **Thailand** | **[konkawe](https://osu.ppy.sh/users/15665805)**, [--Pavin--](https://osu.ppy.sh/users/12046267), [parponger](https://osu.ppy.sh/users/28098890), [Monpluk](https://osu.ppy.sh/users/23299675), [AomDCO](https://osu.ppy.sh/users/21072569), [HowToBeIntel](https://osu.ppy.sh/users/6535376) |
 | ::{ flag=UA }:: | **Ukraine** | **[SpookyKraken](https://osu.ppy.sh/users/13356854)**, [Arstz](https://osu.ppy.sh/users/10844754), [LonBertZend](https://osu.ppy.sh/users/10484445), [MISHASUMSKOY](https://osu.ppy.sh/users/26866383), [Not Who You Are](https://osu.ppy.sh/users/7762366), [Supercat935](https://osu.ppy.sh/users/14108520) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Zoobin4](https://osu.ppy.sh/users/10055204)**, [XxNewson1234xX](https://osu.ppy.sh/users/9895650), [binified](https://osu.ppy.sh/users/15760722), [MiniEgg\_23](https://osu.ppy.sh/users/25914360), [CoolDudeYes](https://osu.ppy.sh/users/24780361), [--Dragon--](https://osu.ppy.sh/users/11924624) |
@@ -107,6 +107,21 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 Captains are listed in **bold**. Team listings are subject to change until the end of the sign-up period.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
+
+1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
+2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
+3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
+4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
+5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
+6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
+7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
+8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Ruleset
 
