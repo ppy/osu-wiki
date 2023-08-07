@@ -64,7 +64,7 @@ Difficulties are mapped here and during gameplay, they will appear exactly like 
 #### Hitsounds
 
 | Button (Keyboard shortcut) | Usage |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | `Whistle` (`W`) | (Select a hit object) `Left click`: Use whistle sound on this object. |
 | `Finish` (`E`) | (Select a hit object) `Left click`: Use finish sound on this object. |
 | `Clap` (`R`) | (Select a hit object) `Left click`: Use clap sound on this object. |
