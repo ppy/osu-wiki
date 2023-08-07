@@ -177,7 +177,7 @@ tags:
 ### Июнь 2023
 
 - 6 карт из релизов Featured Artist за май 2023 г., замапанных участниками [Mappers' Guild](/wiki/Community/Mappers_Guild)
-- Распределение призов — по принципу [суммарной таблицы](#суммарной-таблицы); правила выдачи очков отличались — см. [соответствующую новость](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists)
+- Распределение призов — по принципу [суммарной таблицы](#суммарная-таблица); правила выдачи очков отличались — см. [соответствующую новость](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists)
 
 ## Примечания
 
