@@ -38,7 +38,9 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 ### Hit objects panel
 
+::: Infobox
 ![](img/tools.jpg "Hit objects panel")
+:::
 
 | Button (Keyboard shortcut) | Description |
 | :-- | :-- |
@@ -55,7 +57,9 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 ### Tools panel
 
+::: Infobox
 ![](img/subtools.jpg "Tools panel")
+:::
 
 | Button (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
@@ -129,7 +133,9 @@ In osu!mania mode, the beat snap divisor area also shows the name and volume lev
 
 ### Hit object panel for osu!mania
 
+::: Infobox
 ![](img/tools-mania.jpg "Hit object panel for osu!mania")
+:::
 
 | Buttons (Keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
