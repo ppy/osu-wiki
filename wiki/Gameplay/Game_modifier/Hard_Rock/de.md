@@ -45,7 +45,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko) erhöht die Mod Hard Rock die [Slider-
 
 Die benötigte Trefferanzahl zum Abschließen eines Dendens ist durch die größere OD erhöht. Darum ist der maximal mögliche Score für osu!taiko-Schwierigkeitsgrade mit der Mod Hard Rock größer als bei Schwierigkeitsgraden mit der Mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
-Jedoch ist dieser Effekt in den meisten Fällen unbedeutend, da jeder Treffer in einem Denden einen statischen Score von 300 vergibt. Das ist sogar weniger als eine typische Score-Differenz zwischen einem `GREAT`- und einem `GOOD`-Treffer (550 Punkte bei einer 100er Combo oder darüber).
+Jedoch ist dieser Effekt in den meisten Fällen unbedeutend, da jeder Treffer in einem Denden einen statischen Score von 300 vergibt. Das ist sogar weniger als eine typische Score-Differenz zwischen einem GREAT- und einem GOOD-Treffer (550 Punkte bei einer 100er Combo oder darüber).
 
 ### osu!catch
 
@@ -61,7 +61,7 @@ Aufgrund des steilen Anstiegs der Schwierigkeit im Vergleich zu anderen [Spielmo
 
 In [osu!mania](/wiki/Game_mode/osu!mania) ist der HP-Drain um 40 % erhöht und die Timing-Fenster sind etwa 29 % kleiner. Obwohl der AR-Wert als erhöht angezeigt wird, beeinflusst es das Gameplay nicht.
 
-Um die Timing-Fenster zu berechnen, nachdem HR angewendet wurde, muss das [originale Timing-Fenster](/wiki/Beatmap/Overall_difficulty) durch 1,4 geteilt werden. Das Timing-Fenster von `PERFECT` ist unabhängig von der OD festgelegt, was bedeutet, dass das Timing-Fenster eines `PERFECT` mit HR immer ±11,43 ms sein wird.
+Um die Timing-Fenster zu berechnen, nachdem HR angewendet wurde, muss das [originale Timing-Fenster](/wiki/Beatmap/Overall_difficulty) durch 1,4 geteilt werden. Das Timing-Fenster von PERFECT ist unabhängig von der OD festgelegt, was bedeutet, dass das Timing-Fenster eines PERFECT mit HR immer ±11,43 ms sein wird.
 
 Bedenke, dass sich die Berechnungsmethode in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) unterscheidet.
 

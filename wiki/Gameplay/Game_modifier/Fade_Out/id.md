@@ -19,7 +19,7 @@ tags:
 
 - Singkatan: FO
 - Jenis: Peningkat Kesulitan
-- Tombol shortcut: `F` `F` atau `Shift`+`F`
+- Tombol shortcut: `F` `F` atau `Shift` + `F`
 - Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi

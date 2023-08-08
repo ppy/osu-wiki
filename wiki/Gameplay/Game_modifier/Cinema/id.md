@@ -19,7 +19,7 @@ tags:
 - Singkatan: CM
 - Jenis: Spesial
 - Pengali Skor: 1.00x
-- Tombol shortcut: `V` `V` atau `Shift`+`V` (atau tahan `Ctrl`+`Shift` saat sedang memilih sebuah [beatmap](/wiki/Beatmap))
+- Tombol shortcut: `V` `V` atau `Shift` + `V` (atau tahan `Ctrl` + `Shift` saat sedang memilih sebuah [beatmap](/wiki/Beatmap))
 - Mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Deskripsi

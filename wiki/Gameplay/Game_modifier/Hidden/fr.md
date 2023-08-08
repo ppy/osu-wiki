@@ -23,7 +23,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `F`
-  - Touche de raccourci par défaut ([osu!mania](/wiki/Game_mode/osu!mania)) : `F` `F` ou `Shift`+`F`
+  - Touche de raccourci par défaut ([osu!mania](/wiki/Game_mode/osu!mania)) : `F` `F` ou `Shift` + `F`
 - Légende :
   - ![][osu!]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
   - ![][osu!taiko]: `Les notes s'estompent progressivement.`

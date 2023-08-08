@@ -45,7 +45,7 @@ tags:
 
 由于 OD 值增加，完成转盘所需打击数也增加。因此，osu!taiko 中使用此模组可获得的最高分大于使用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组所得分。
 
-然而，由于转盘中每一次击鼓都会得 300 分（甚至小于 `GREAT` 与 `GOOD` 判定间的得分差距，在 100x 及以上连击数时是 550 分），在大多数情况下这并不明显。
+然而，由于转盘中每一次击鼓都会得 300 分（甚至小于 GREAT 与 GOOD 判定间的得分差距，在 100x 及以上连击数时是 550 分），在大多数情况下这并不明显。
 
 ### osu!catch
 
@@ -61,7 +61,7 @@ tags:
 
 在 [osu!mania](/wiki/Game_mode/osu!mania) 中，掉血速度会增加 40%，计时窗口值会严格约 29%。尽管显示 AR 值增加，也不会影响游玩。
 
-若要计算使用 HR 模组后的计时窗口，需要将[原始计时窗口值](/wiki/Beatmap/Overall_difficulty)除以 1.4。无论 OD 值如何，`PERFECT`的计时窗口值都固定为 ±11.43 毫秒。
+若要计算使用 HR 模组后的计时窗口，需要将[原始计时窗口值](/wiki/Beatmap/Overall_difficulty)除以 1.4。无论 OD 值如何，PERFECT的计时窗口值都固定为 ±11.43 毫秒。
 
 请注意，在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 中的计算方法与之不同。
 

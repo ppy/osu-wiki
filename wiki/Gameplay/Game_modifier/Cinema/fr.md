@@ -20,7 +20,7 @@ tags:
 - Abréviation : CM
 - Type : Spécial
 - Multiplicateur de score : 1.00x
-- Touche de raccourci par défaut : `V` `V` ou `Shift`+`V` (ou maintenez `Ctrl`+`Shift` lors de la sélection d'une [beatmap](/wiki/Beatmap))
+- Touche de raccourci par défaut : `V` `V` ou `Shift` + `V` (ou maintenez `Ctrl` + `Shift` lors de la sélection d'une [beatmap](/wiki/Beatmap))
 - Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description

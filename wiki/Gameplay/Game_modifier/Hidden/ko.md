@@ -23,7 +23,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - 기본 단축키: `F`
-  - 기본 단축키 ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` 또는 `Shift`+`F`
+  - 기본 단축키 ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` 또는 `Shift` + `F`
 - 설명:
   - ![][osu!]: `어프로치 서클이 사라지고 노트가 보였다 사라집니다. 이 모드를 켜면 점수에 배수가 붙습니다.`
   - ![][osu!taiko]: `노트가 치기 전에 서서히 사라집니다!`

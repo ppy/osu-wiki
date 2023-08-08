@@ -20,7 +20,7 @@ tags:
 
 - Abréviation : FO
 - Type : Augmentation de la difficulté
-- Touche de raccourci par défaut : `F` `F` ou `Shift`+`F`
+- Touche de raccourci par défaut : `F` `F` ou `Shift` + `F`
 - Modes de jeu compatibles : ![][osu!mania]
 
 ## Description

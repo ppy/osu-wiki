@@ -43,7 +43,7 @@ Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock akan meningkatkan [sl
 
 Ketukan yang dibutuhkan untuk menyelesaikan denden telah ditingkatkan karena peningkatan OD. Oleh karena itu, skor maksimum yang bisa dicapai untuk suatu tingkat kesulitan pada osu!taiko dengan mod Hard Rock lebih besar daripada mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
-Namun, efek ini seringnya tidak signifikan karena setiap hit dalam denden memberikan skor statis 300. Yang mana lebih kecil dari perbedaan skor biasa antara hit `GREAT` dan `GOOD` (550 poin pada 100x kombo atau lebih tinggi).
+Namun, efek ini seringnya tidak signifikan karena setiap hit dalam denden memberikan skor statis 300. Yang mana lebih kecil dari perbedaan skor biasa antara hit GREAT dan GOOD (550 poin pada 100x kombo atau lebih tinggi).
 
 ### osu!catch
 
@@ -59,7 +59,7 @@ Karena mod Hard Rock pada mode osu!catch jauh lebih memengaruhi tingkat kesulita
 
 Pada mode [osu!mania](/wiki/Game_mode/osu!mania), Hard Rock akan meningkatkan nilai HP drain sebesar 40% dan menjadikan timing window yang ada 29% lebih ketat. Meskipun nilai AR juga akan ditampilkan meningkat, hal ini tidak akan mempengaruhi permainan.
 
-Untuk menghitung timing window setelah HR diterapkan, [timing window awal](/wiki/Beatmap/Overall_difficulty) dibagi dengan 1.4. Timing window `PERFECT` tetap tanpa mempedulikan OD, sehingga jendela waktu `PERFECT` dengan HR akan selalu ±11,43ms.
+Untuk menghitung timing window setelah HR diterapkan, [timing window awal](/wiki/Beatmap/Overall_difficulty) dibagi dengan 1.4. Timing window PERFECT tetap tanpa mempedulikan OD, sehingga jendela waktu PERFECT dengan HR akan selalu ±11,43ms.
 
 Perlu diketahui bahwa metode penghitungannya berbeda pada [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 

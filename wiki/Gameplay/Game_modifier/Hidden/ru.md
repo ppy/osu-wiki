@@ -26,7 +26,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Горячая клавиша по умолчанию: `F`
-  - В [osu!mania](/wiki/Game_mode/osu!mania): `F` `F` или `Shift`+`F`
+  - В [osu!mania](/wiki/Game_mode/osu!mania): `F` `F` или `Shift` + `F`
 - Описание:
   - ![][osu!]: `Нот не существует, Нео.`
   - ![][osu!taiko]: `Ноты исчезают прямо перед ударом.`

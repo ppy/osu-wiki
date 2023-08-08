@@ -21,7 +21,7 @@ tags:
 - Pengali skor:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-  - Tombol shortcut default ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` atau `Shift`+`F`
+  - Tombol shortcut default ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` atau `Shift` + `F`
 - Caption:
   - ![][osu!]: `Approach circle serta not-not akan memudar/menghilang perlahan-lahan, namun nilai maksimal Anda akan sedikit bertambah.`
   - ![][osu!taiko]: `Not-not akan menghilang perlahan sebelum anda mengenainya!`

@@ -44,7 +44,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Hard Rock augmente l
 
 Le nombre de coups requis pour terminer un denden est augmenté en raison de l'augmentation de l'OD. Par conséquent, le score maximum possible pour les difficultés d'osu!taiko avec le mod Hard Rock est plus élevé que celui du mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
-Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit dans un denden donne un score statique de 300. Ce qui est encore plus petit que la différence de score typique entre un `GREAT` et un `GOOD` (550 points à 100x combo ou plus).
+Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit dans un denden donne un score statique de 300. Ce qui est encore plus petit que la différence de score typique entre un GREAT et un GOOD (550 points à 100x combo ou plus).
 
 ### osu!catch
 
@@ -60,7 +60,7 @@ En raison de ce pic de difficulté beaucoup plus important que pour les autres [
 
 Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), l'HP drain est augmenté de 40% tandis que la fenêtre de timing est environ 29% plus stricte. Bien que la valeur AR soit affichée comme augmentée, cela n'affecte pas le gameplay.
 
-Pour calculer la fenêtre de timing après l'application du HR, la [fenêtre de timing originale](/wiki/Beatmap/Overall_difficulty) doit être divisée par 1,4. La fenêtre de timing du `PERFECT` est fixe, quel que soit l'OD, ce qui signifie que la fenêtre de timing d'un `PERFECT` avec HR sera toujours de ±11,43 ms.
+Pour calculer la fenêtre de timing après l'application du HR, la [fenêtre de timing originale](/wiki/Beatmap/Overall_difficulty) doit être divisée par 1,4. La fenêtre de timing du PERFECT est fixe, quel que soit l'OD, ce qui signifie que la fenêtre de timing d'un PERFECT avec HR sera toujours de ±11,43 ms.
 
 Notez que la méthode de calcul est différente dans [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 

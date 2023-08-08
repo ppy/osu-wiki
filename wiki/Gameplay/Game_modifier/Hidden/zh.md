@@ -24,7 +24,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - 默认快捷键： `F`
-  - [osu!mania](/wiki/Game_mode/osu!mania) 中的默认快捷键： `F` `F` 或 `Shift`+`F`
+  - [osu!mania](/wiki/Game_mode/osu!mania) 中的默认快捷键： `F` `F` 或 `Shift` + `F`
 - 描述：
   - ![][osu!]: `没有缩圈，圆圈渐隐，分数略微提高。`
   - ![][osu!taiko]: `物件会在击打之前渐渐隐藏。`
