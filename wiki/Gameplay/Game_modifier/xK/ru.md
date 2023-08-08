@@ -33,7 +33,7 @@ tags:
 
 ![Значок мода 1K](/wiki/shared/mods/1K.png "Значок мода 1K") ![Значок мода 2K](/wiki/shared/mods/2K.png "Значок мода 2K") ![Значок мода 3K](/wiki/shared/mods/3K.png "Значок мода 3K") ![Значок мода 4K](/wiki/shared/mods/4K.png "Значок мода 4K") ![Значок мода 5K](/wiki/shared/mods/5K.png "Значок мода 5K") ![Значок мода 6K](/wiki/shared/mods/6K.png "Значок мода 6K") ![Значок мода 7K](/wiki/shared/mods/7K.png "Значок мода 7K") ![Значок мода 8K](/wiki/shared/mods/8K.png "Значок мода 8K") ![Значок мода 9K](/wiki/shared/mods/9K.png "Значок мода 9K")
 
-*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game*modifier)*
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
 
