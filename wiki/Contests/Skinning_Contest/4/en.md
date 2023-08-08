@@ -80,6 +80,12 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
 
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/178).*
+
+![](/wiki/Contests/Skinning_Contest/4/img/podium.jpg "Skinning Contest #4 podium")
+
 ## Ruleset
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
