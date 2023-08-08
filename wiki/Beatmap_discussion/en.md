@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated: true  # see https://github.com/ppy/osu-wiki/pull/9865 for general direction
 tags:
   - beatmap discussions
   - modding V2
