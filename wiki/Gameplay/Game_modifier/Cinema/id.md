@@ -30,7 +30,7 @@ Mod **Cinema** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang 
 
 Karena mod Cinema merupakan variasi dari mod Auto, hitsound yang berasal dari hit object akan tetap terdengar. Namun, elemen tayangan ulang dan layar hasil akan dinonaktifkan bersamaan dengan dim background yang disetel ke 0%.
 
-![Gameplay Auto dan Cinema](img/CM-comparison.jpg "Perbandingan mod Auto (kiri) dan mod Cinema (kanan)") 
+![Gameplay Auto dan Cinema](img/CM-comparison.jpg "Perbandingan mod Auto (kiri) dan mod Cinema (kanan)")
 
 Mod ini memiliki efek yang sama di semua mode permainan.
 

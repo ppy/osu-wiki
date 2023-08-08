@@ -33,7 +33,7 @@ tags:
 
 ## Описание
 
-**Hard Rock** — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmap/Approach_rate), [потери здоровья (HP)](/wiki/Gameplay/Health) и [общей сложности (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
+**Hard Rock** — [игровой модификатор](/wiki/Gameplay/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт уменьшения [размера нот (CS)](/wiki/Beatmap/Circle_size) на 30% и увеличения [скорости появления нот (AR)](/wiki/Beatmap/Approach_rate), [потери здоровья (HP)](/wiki/Beatmap/HP_drain_rate) и [общей сложности (OD)](/wiki/Beatmap/Overall_difficulty) на 40% (в некоторых режимах игры значения могут отличаться).
 
 ### osu!
 
@@ -63,7 +63,7 @@ tags:
 
 В [osu!mania](/wiki/Game_mode/osu!mania) потеря здоровья увеличивается на 40%, а окна попаданий становятся меньше примерно на 29%. Скорость появления нот не изменяется, хотя и показывается увеличенной.
 
-Чтобы посчитать ширину окон попаданий после включения HR, их [исходные значения](/wiki/Beatmap/Overall_difficulty) нужно разделить на 1.4. Окно попаданий для радужной 300 (MAX) не зависит от общей сложности и, как следствие, от Hard Rock и всегда равно ±11.43 мс.
+Чтобы посчитать ширину окон попаданий после включения HR, их [исходные значения](/wiki/Beatmap/Overall_difficulty) нужно разделить на 1.4. Окно попаданий для `PERFECT` не зависит от общей сложности и, как следствие, от Hard Rock и всегда равно ±11.43 мс.
 
 В [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) используется другой метод расчёта окон попаданий.
 

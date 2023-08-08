@@ -9,10 +9,6 @@ tags:
   - modificateur de jeu
 ---
 
-<!-- TODO:
-- add score multiplier, shortcut key, and caption values
-- Add information on when and why the Fade Out mod was removed -->
-
 # Le mod Fade Out
 
 ![Icône du mod FO](/wiki/shared/mods/FO.png "Icône du mod Fade Out (FO)")
