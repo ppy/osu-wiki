@@ -133,7 +133,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
   2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
   3. [BlackY feat. Risa Yuzuki - Imitator (Elayue) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
-  4. [RB.H x lihound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
+  4. [RB.H x lixound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
   5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
 - Hidden
   1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
@@ -278,7 +278,7 @@ Sunday, 30 July 2023, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
+| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
 
 ### Finals (week 1)
 
