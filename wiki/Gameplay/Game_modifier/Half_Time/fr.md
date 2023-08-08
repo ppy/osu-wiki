@@ -18,7 +18,7 @@ tags:
 
 - Abréviation : HT
 - Type : Réduction de la difficulté
-- Multiplicateur de score : 
+- Multiplicateur de score :
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
   - ![][osu!mania]: 0.50x
 - Touche de raccourci par défaut : `E`
