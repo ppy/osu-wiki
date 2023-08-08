@@ -6,7 +6,7 @@ date: 2023-08-05 00:00:00 +0000
 
 Tune in to find out the results for the latest skinning contest, and snag yourself some amazing skins centred around the past 15 years of osu!
 
-![]()
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/banner.jpg)
 
 The community has spoken with **3792** players casting a total of **9981** votes across **16** different top-of-the-notch skins, and out of all entries, the following 3 entries have climbed their way to the podium:
 
@@ -22,13 +22,13 @@ Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.s
 
 Congratulations to thetasigma on their well deserved 3rd place!
 
-[](badgehere)
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge.png)
 
 ## 2nd Place - Everlasting Moment
 
 Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, [Chromasia] was able to win the battle and achieve **2nd** place with their entry!
 
-[Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based off of the background art used in several beatmap sets of [Release Halucination](https://osu.ppy.sh/beatmaps/artists/194)'s Chronostasis. The colour palette is in line with the original art, and that makes this skin very pleasing to use!
+[Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based off of the background art used in several beatmap sets of [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)'s Chronostasis. The colour palette is in line with the original art, and that makes this skin very pleasing to use!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MZHOHYw1ysw" frameborder="0" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ Time stood still as **1058** voters cast their votes, resulting in a very close 
 
 Congratulations to Chromasia on their 2nd place!
 
-[](badgehere)
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge.png)
 
 ## Winner - FOOL MOON NIGHT
 
@@ -50,7 +50,7 @@ Inspired from the 2016 set of ["A FOOL MOON NIGHT"](https://osu.ppy.sh/beatmapse
 
 Congratulations to Spoo for their well-deserved victory!
 
-[](badgehere)
+[](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge.png)
 
 ---
 
