@@ -8,7 +8,7 @@
 ![](img/compose-mania.jpg "Compose editor for osu!mania")
 :::
 
-**Compose** is the place where [mappers](/wiki/Beatmapping) spend most of the time working on their own maps after finding their [timing](/wiki/Beatmapping/Timing) settings. It is possible to inspect any map's design by opening it in `Compose` and studying its [patterns](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound) placement, and other aspects. Additionally, any beatmap loaded in the editor can be played and practiced through the [test mode](/wiki/Client/Beatmap_editor/Test_mode).
+**Compose** is the place where [mappers](/wiki/Beatmapping) spend most of the time working on their own beatmaps after finding their [timing](/wiki/Beatmapping/Timing) settings. It is possible to inspect any beatmap's design by opening it in `Compose` and studying its [patterns](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound) placement, and other aspects. Additionally, any beatmap loaded in the editor can be played and practiced through the [test mode](/wiki/Client/Beatmap_editor/Test_mode).
 
 During gameplay, the difficulty will appear exactly like displayed in the editor, with exception to hit animations and automatic object stacking. To gain fine-grained control over the map, its [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file can be edited directly using a text editor like Notepad.
 
@@ -44,9 +44,9 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 | :-- | :-- |
 | `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
 | `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or sliderpoints. `Right click`: Remove objects or sliderpoints. `Ctrl` + `Click`: Select multiple objects. | Select and modify existing hit objects. |
-| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle). |
-| `Slider` (`3`) | `Left/Right click`: Start/End slider. Add/Remove sliderpoints. Double `Left click`: New curve section. |
+| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` on slider body: Add control point. |
+| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) at the current timestamp. |
+| `Slider` (`3`) | `Left/Right click`: Start/End slider at the current timestamp. `Left click` when placing a slider: Add a control point. |
 | `Spinner` (`4`) | `Left/Right click`: Start/End spinner at the current timestamp. |
 
 ### Playfield
