@@ -44,7 +44,7 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 | :-- | :-- |
 | `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
 | `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` on slider body: Add control point. |
+| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` when selecting a slider: Add control point. |
 | `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) at the current timestamp. |
 | `Slider` (`3`) | `Left/Right click`: Start/End slider at the current timestamp. `Left click` when placing a slider: Add a control point. |
 | `Spinner` (`4`) | `Left/Right click`: Start/End spinner at the current timestamp. |
