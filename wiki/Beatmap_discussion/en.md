@@ -1,4 +1,5 @@
 ---
+outdated: true
 tags:
   - beatmap discussions
   - modding V2
