@@ -130,27 +130,27 @@ Tuesday, 1 August 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AuroraPhasmata** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: demonking7447 | [#1](https://osu.ppy.sh/mp/109785152) |
-| **MEGAMELA** ::{ flag=FI }:: | **5** | 2 | ::{ flag=NL }:: Cookie_Tree | [#1](https://osu.ppy.sh/mp/109785722) |
-| mangomizer ::{ flag=GB }:: | 4 | **5** | ::{ flag=NL }:: **ikin5050** | [#1](https://osu.ppy.sh/mp/109786593) |
-| **Ikkun** ::{ flag=IT }:: | **5** | 3 | ::{ flag=PL }:: Qroissant | [#1](https://osu.ppy.sh/mp/109787561) |
-| **Mazzuli500** ::{ flag=FI }:: | **5** | 0 | ::{ flag=GB }:: aceticke | [#1](https://osu.ppy.sh/mp/109787561) |
-| **Chupalika** ::{ flag=US }:: | **5** | 2 | ::{ flag=NL }:: Krekker | [#1](https://osu.ppy.sh/mp/109789333) |
-| **D3kuu** ::{ flag=IT }:: | **5** | 0 | ::{ flag=NL }:: Edesto | [#1](https://osu.ppy.sh/mp/109789921) |
-| **Drecksackblase** ::{ flag=DE }:: | **5** | 3 | ::{ flag=NL }:: StrijkIjzer | [#1](https://osu.ppy.sh/mp/109791022) |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: demonking7447 | [#1](https://osu.ppy.sh/community/matches/109785152) |
+| **MEGAMELA** ::{ flag=FI }:: | **5** | 2 | ::{ flag=NL }:: Cookie_Tree | [#1](https://osu.ppy.sh/community/matches/109785722) |
+| mangomizer ::{ flag=GB }:: | 4 | **5** | ::{ flag=NL }:: **ikin5050** | [#1](https://osu.ppy.sh/community/matches/109786593) |
+| **Ikkun** ::{ flag=IT }:: | **5** | 3 | ::{ flag=PL }:: Qroissant | [#1](https://osu.ppy.sh/community/matches/109787561) |
+| **Mazzuli500** ::{ flag=FI }:: | **5** | 0 | ::{ flag=GB }:: aceticke | [#1](https://osu.ppy.sh/community/matches/109787561) |
+| **Chupalika** ::{ flag=US }:: | **5** | 2 | ::{ flag=NL }:: Krekker | [#1](https://osu.ppy.sh/community/matches/109789333) |
+| **D3kuu** ::{ flag=IT }:: | **5** | 0 | ::{ flag=NL }:: Edesto | [#1](https://osu.ppy.sh/community/matches/109789921) |
+| **Drecksackblase** ::{ flag=DE }:: | **5** | 3 | ::{ flag=NL }:: StrijkIjzer | [#1](https://osu.ppy.sh/community/matches/109791022) |
 
 Wednesday, 2 August 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=FI }:: MEGAMELA | [#1](https://osu.ppy.sh/mp/109800365) |
-| ikin5050 ::{ flag=NL }:: | 1 | **5** | ::{ flag=IT }:: **Ikkun** | [#1](https://osu.ppy.sh/mp/109800921) |
-| **Mazzuli500** ::{ flag=FI }:: | **5** | 1 | ::{ flag=US }:: Chupalika | [#1](https://osu.ppy.sh/mp/109801615) |
-| **D3kuu** ::{ flag=IT }:: | **5** | 2 | ::{ flag=DE }:: Drecksackblase | [#1](https://osu.ppy.sh/mp/109802526) |
-| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/mp/109803284) |
-| Mazzuli500 ::{ flag=FI }:: | 4 | **5** | ::{ flag=IT }:: **D3kuu** | [#1](https://osu.ppy.sh/mp/109804176) |
-| Ikkun ::{ flag=IT }:: | 4 | **7** | ::{ flag=FI }:: **Mazzuli500** | [#1](https://osu.ppy.sh/mp/109804928) |
-| **AuroraPhasmata** ::{ flag=US }:: | **7** | 1 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/mp/109806593) |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=FI }:: MEGAMELA | [#1](https://osu.ppy.sh/community/matches/109800365) |
+| ikin5050 ::{ flag=NL }:: | 1 | **5** | ::{ flag=IT }:: **Ikkun** | [#1](https://osu.ppy.sh/community/matches/109800921) |
+| **Mazzuli500** ::{ flag=FI }:: | **5** | 1 | ::{ flag=US }:: Chupalika | [#1](https://osu.ppy.sh/community/matches/109801615) |
+| **D3kuu** ::{ flag=IT }:: | **5** | 2 | ::{ flag=DE }:: Drecksackblase | [#1](https://osu.ppy.sh/community/matches/109802526) |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/community/matches/109803284) |
+| Mazzuli500 ::{ flag=FI }:: | 4 | **5** | ::{ flag=IT }:: **D3kuu** | [#1](https://osu.ppy.sh/community/matches/109804176) |
+| Ikkun ::{ flag=IT }:: | 4 | **7** | ::{ flag=FI }:: **Mazzuli500** | [#1](https://osu.ppy.sh/community/matches/109804928) |
+| **AuroraPhasmata** ::{ flag=US }:: | **7** | 1 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/109806593) |
 
 ### Qualifiers
 
