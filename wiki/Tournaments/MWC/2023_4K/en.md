@@ -53,6 +53,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxmrcTQ40eHwqYDAjqfYxher3bkH-uFYBVm0Z6DNHLwll52YUrEA9-gNrxNOX0X5CsCHyDBH9FKxrM/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
 
@@ -104,7 +105,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [YuyukoFangirl](https://osu.ppy.sh/users/10336332), [\_Moqn](https://osu.ppy.sh/users/13675628), [\[LS\]Fluzt](https://osu.ppy.sh/users/23402647), [Konamp](https://osu.ppy.sh/users/27445750) |
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)**, [Lott](https://osu.ppy.sh/users/13821222), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [magnifestio](https://osu.ppy.sh/users/22725724), [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
-Captains are listed in **bold**. Team listings are subject to change until the end of the sign-up period.
+Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
