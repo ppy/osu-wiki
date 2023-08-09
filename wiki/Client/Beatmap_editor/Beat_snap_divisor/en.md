@@ -7,7 +7,7 @@ tags:
 
 ![](img/beat_snap_divisor.png "Beat snap divisor in the editor")
 
-The **beat snap divisor** is a setting that determines the editor's behaviour in quantising [beats](/wiki/Music_theory/Beat), in a process referred to as [beat snapping](/wiki/Client/Beatmap_editor/Beat_snapping). It can be found in the upper-right portion of the editor screen.
+The **beat snap divisor** is a setting that determines the editor's behaviour in quantising [beats](/wiki/Music_theory/Beat), in a process referred to as [beat snapping](/wiki/Beatmapping/Beat_snapping). It can be found in the upper-right portion of the editor screen.
 
 The beat snap divisor corresponds to the granularity of [hit objects](/wiki/Gameplay/Hit_object) on the [timeline](/wiki/Client/Beatmap_editor/Timelines). The divisor is expressed as a fraction of how many parts a beat should be split into; a denser beat snap divisor setting allows for more notes to be placed in the same measure of time, and vice versa.
 
