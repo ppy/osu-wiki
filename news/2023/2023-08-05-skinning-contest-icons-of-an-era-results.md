@@ -14,7 +14,7 @@ The community has spoken with **3792** players casting a total of **9981** votes
 
 **1022** quaver retry spammers decided [thetasigma](https://osu.ppy.sh/users/6234482)'s [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) was worthy of their votes, netting themselves the **3rd** place!
 
-Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.sh/beatmapsets/873811#osu/1859185) beatmap set, this skin fully embodies the set's background and incorporates the universe theme across the entire skin. The song selection screen is beautifully done with various planets and stars floating about, and even [Stardust](https://vocaloid.fandom.com/wiki/Xingchen) from the original background makes an appearance across several gameplay screens.
+Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.sh/beatmapsets/873811#osu/1859185) beatmap set, this skin fully embodies the set's background and incorporates the universe theme across the entire skin. The song selection screen is beautifully done with various planets and stars floating about, and even [Stardust](https://vocaloid.fandom.com/wiki/Xingchen) from the original background makes an appearance across several gameplay screens. Congratulations to thetasigma for achieving 3rd place!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dVbEeRi0y_A" frameborder="0" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.s
 
 Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, [Chromasia](https://osu.ppy.sh/users/7306251) was able to win the battle and achieve **2nd** place with their entry!
 
-[Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based off of the background art used in several beatmap sets of [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)'s Chronostasis. The colour palette is in line with the original art, and that makes this skin very pleasing to use!
+[Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based off of the background art used in several beatmap sets of [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)'s Chronostasis. The colour palette is in line with the original art, and that makes this skin very pleasing to use! Congratulations to Chromasia on their 2nd place!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MZHOHYw1ysw" frameborder="0" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ Time stood still as **1058** voters cast their votes, resulting in a very close 
 
 [Spoo](https://osu.ppy.sh/users/11805037) was not a *fool* when they chose their theme (which somehow again includes a universe/space theme), because this skin stands head and shoulders above all other entries with a mind-blowing **1303** votes!
 
-Inspired from the 2016 set of ["A FOOL MOON NIGHT"](https://osu.ppy.sh/beatmapsets/524026#osu/1186901) by The Koxx, [Spoo's entry](https://osu.ppy.sh/community/forums/topics/1775136?n=1) completely blew the minds of the community by hand drawing **everything** in the style of the original background. The quality of this skin is impeccable, and the **1st** place is absolutely deserved.
+Inspired from the 2016 set of ["A FOOL MOON NIGHT"](https://osu.ppy.sh/beatmapsets/524026#osu/1186901) by The Koxx, [Spoo's entry](https://osu.ppy.sh/community/forums/topics/1775136?n=1) completely blew the minds of the community by hand drawing **everything** in the style of the original background. The quality of this skin is impeccable, and the **1st** place is absolutely deserved. Congratulations to Spoo for their well-deserved victory!
 
  <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/tYEMQL28rqg" frameborder="0" allowfullscreen></iframe>
