@@ -28,7 +28,7 @@
 | ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Try the future scoring system. ** UNRANKED **` |
 | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][osu!]: 1.00x |  |
 
-## Multiplicateurs de score pour le mod xK 
+## Multiplicateurs de score pour le mod xK
 
 *Attention : Ce tableau n'affecte que les beatmaps convertis d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania !*.
 
