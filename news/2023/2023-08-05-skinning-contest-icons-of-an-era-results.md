@@ -20,13 +20,11 @@ Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.s
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dVbEeRi0y_A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Congratulations to thetasigma on their well deserved 3rd place!
-
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge.png)
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png)
 
 ## 2nd Place - Everlasting Moment
 
-Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, [Chromasia] was able to win the battle and achieve **2nd** place with their entry!
+Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, [Chromasia](https://osu.ppy.sh/users/7306251) was able to win the battle and achieve **2nd** place with their entry!
 
 [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based off of the background art used in several beatmap sets of [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)'s Chronostasis. The colour palette is in line with the original art, and that makes this skin very pleasing to use!
 
@@ -34,9 +32,7 @@ Time stood still as **1058** voters cast their votes, resulting in a very close 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MZHOHYw1ysw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Congratulations to Chromasia on their 2nd place!
-
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge.png)
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png)
 
 ## Winner - FOOL MOON NIGHT
 
@@ -48,9 +44,7 @@ Inspired from the 2016 set of ["A FOOL MOON NIGHT"](https://osu.ppy.sh/beatmapse
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/tYEMQL28rqg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Congratulations to Spoo for their well-deserved victory!
-
-[](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge.png)
+![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge@2x.png)
 
 ---
 
