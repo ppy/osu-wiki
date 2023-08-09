@@ -317,7 +317,6 @@
 "make_properly_centered_spinners":        "Guides/Making_Properly_Centered_Spinners"
 "osu!mania_mapping_guide":                "Guides/osu!mania_mapping_guide"
 "recording_osu!":                         "Guides/Recording_osu!"
-"searching_and_downloading_beatmaps":     "Guides/Searching_and_downloading_beatmaps"
 "setting_the_offset_on_the_correct_beat": "Guides/Setting_the_offset_on_the_correct_beat"
 "starting_a_beatmap_project":             "Guides/Starting_a_beatmap_project"
 "tablet_purchase":                        "Guides/Tablet_purchase"
@@ -580,7 +579,6 @@
 
 "quality_assurance_team":          "People/Quality_Assurance_Team"
 "qat":                             "People/Quality_Assurance_Team"
-"people/quality_assurance_team":   "People/Quality_Assurance_Team"
 "people/qat":                      "People/Quality_Assurance_Team"
 "qat_blog":                           "People/Quality_Assurance_Team/Quality_Assurance_Team_Blog"
 "people/quality_assurance_team/blog": "People/Quality_Assurance_Team/Quality_Assurance_Team_Blog"
@@ -597,13 +595,13 @@
 "st":                              "People/Support_Team"
 "str":                             "People/Support_Team"
 
-"osu!_staff": "People/The_Team"
-"osu!team":   "People/The_Team"
-"osu!_team":  "People/The_Team"
-"staff":      "People/The_Team"
-"team":       "People/The_Team"
-"team_osu!":  "People/The_Team"
-"the_team":   "People/The_Team"
+"osu!_staff": "People/osu!_team"
+"osu!team":   "People/osu!_team"
+"osu!_team":  "People/osu!_team"
+"staff":      "People/osu!_team"
+"team":       "People/osu!_team"
+"team_osu!":  "People/osu!_team"
+"the_team":   "People/osu!_team"
 
 "dev":       "People/Developers"
 "devs":      "People/Developers"
@@ -1109,20 +1107,6 @@
 "how_to_run_osu!_on_your_mac_without_using_boot_camp":        "Client/Installation/macOS"
 "guides/how_to_run_osu!_on_your_mac_without_using_boot_camp": "Client/Installation/macOS"
 
-# Reorganized People directory
-"people/beatmap_nominators":                              "People/Beatmap_Nominators"
-"people/beatmap_nominators/beatmap_veto":                 "People/Beatmap_Nominators/Beatmap_Veto"
-"people/beatmap_nominators/becoming_a_beatmap_nominator": "People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator"
-"people/beatmap_nominators/general_information":          "People/Beatmap_Nominators/General_Information"
-"people/beatmap_nominators/rules":                        "People/Beatmap_Nominators/Rules"
-"people/developers":                                      "People/Developers"
-"people/global_moderation_team":                          "People/Global_Moderation_Team"
-"people/language_moderators":                             "People/Global_Moderation_Team#grouped-by-languages-moderated"
-"people/nomination_assessment_team":                      "People/Nomination_Assessment_Team"
-"people/osu!_alumni":                                     "People/osu!_Alumni"
-"people/project_loved_team":                              "People/Project_Loved_Team"
-"people/support_team":                                    "People/Support_Team"
-
 # Moved parts of the Ranking Criteria to sitewide rules
 "ranking_criteria/code_of_conduct":               "Rules/Code_of_conduct_for_modding_and_mapping"
 "ranking_criteria/song_content_rules":            "Rules/Song_content_rules"
@@ -1130,6 +1114,7 @@
 
 # Moved Language Moderators to a section under Global Moderation Team
 "people/the_team/global_moderation_team/language_moderators": "People/Global_Moderation_Team#grouped-by-languages-moderated"
+"people/language_moderators":                                 "People/Global_Moderation_Team#grouped-by-languages-moderated"
 
 # Grouped osu! Riverside LAN tournaments
 "tournaments/male": "Tournaments/osu!_Riverside/MALE"
@@ -1977,16 +1962,6 @@
 "staff_log/2020":                   "People/Staff_log/2020"
 "staff_log/2021":                   "People/Staff_log/2021"
 "staff_log/2022":                   "People/Staff_log/2022"
-"people/staff_log":                 "People/Staff_log"
-"people/staff_log/2014":            "People/Staff_log/2014"
-"people/staff_log/2015":            "People/Staff_log/2015"
-"people/staff_log/2016":            "People/Staff_log/2016"
-"people/staff_log/2017":            "People/Staff_log/2017"
-"people/staff_log/2018":            "People/Staff_log/2018"
-"people/staff_log/2019":            "People/Staff_log/2019"
-"people/staff_log/2020":            "People/Staff_log/2020"
-"people/staff_log/2021":            "People/Staff_log/2021"
-"people/staff_log/2022":            "People/Staff_log/2022"
 
 "contributing_code_of_conduct":     "Rules/Contributor_code_of_conduct"
 "contributor_code_of_conduct":      "Rules/Contributor_code_of_conduct"
@@ -2136,3 +2111,9 @@
 # moved in #9582
 
 "client/release_stream/lazer/feature_comparison": "Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)"
+
+"search_beatmaps":                           "Beatmap_search"
+"searching_beatmaps":                        "Beatmap_search"
+"filter_beatmaps":                           "Beatmap_search"
+"searching_and_downloading_beatmaps":        "Beatmap_search"
+"guides/searching_and_downloading_beatmaps": "Beatmap_search"

@@ -24,7 +24,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Tombol shortcut default: `D` `D` atau `Shift`+`D`
+- Tombol shortcut default: `D` `D` atau `Shift` + `D`
 - Caption: `uguuuuuuuu`
 - Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variasi: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
