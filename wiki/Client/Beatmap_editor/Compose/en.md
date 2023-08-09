@@ -1,28 +1,26 @@
 # Compose tab
 
 ::: Infobox
-![](img/compose.jpg "Compose editor for osu!")
+![](img/compose.jpg "Compose tab for osu!")
 :::
 
 ::: Infobox
-![](img/compose-mania.jpg "Compose editor for osu!mania")
+![](img/compose-mania.jpg "Compose tab for osu!mania")
 :::
 
-**Compose** is the place where [mappers](/wiki/Beatmapping) spend most of the time working on their own beatmaps after finding their [timing](/wiki/Beatmapping/Timing) settings. It is possible to inspect any beatmap's design by opening it in `Compose` and studying its [patterns](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound) placement, and other aspects. Additionally, any beatmap loaded in the editor can be played and practiced through the [test mode](/wiki/Client/Beatmap_editor/Test_mode).
+The [beatmap editor](/wiki/Client/Beatmap_editor)'s **compose tab** is the place where [mappers](/wiki/Beatmapping) spend most of their time working on beatmaps after adjusting [timing](/wiki/Beatmapping/Timing) settings. [Hit object patterns](/wiki/Beatmap/Pattern), [hitsounds](/wiki/Beatmapping/Hitsound), and other aspects of beatmap design can be inspected in this tab.
 
-During gameplay, the difficulty will appear exactly like displayed in the editor, with exception to hit animations and automatic object stacking. To gain fine-grained control over the map, its [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file can be edited directly using a text editor like Notepad.
-
-While osu!, osu!taiko, and osu!catch share the same editor tools, osu!mania maps are worked on in a different editor mode, due to heavy focus on column-oriented patterns and approaches such as [keysounding](/wiki/Beatmapping/Hitsound#keysound). osu!mania's editor can be easily accessed by changing the difficulty's [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) to `osu!mania`.
+The editor shares the same tools between osu!, osu!taiko, and osu!catch, while osu!mania has a specific compose tab layout more suitable for the game mode. It can be accessed by changing the difficulty's [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) to `osu!mania`.
 
 ## Features
 
-*For a general overview of the mapping activity, see: [Beatmapping](/wiki/Beatmapping)*
+*For a general overview of the mapping process, see: [Beatmapping](/wiki/Beatmapping)*
 
 ### Hit object timeline
 
 ![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
-The `+`/`-` buttons facilitate the zooming in and out of the timeline, while the two white lines indicate the current timestamp. Additionally, the mapper has the ability to interact with objects by using `Left click` to select and move them, and `Right click` to remove them.
+The timeline can be zoomed in and out with the `+`/`-` buttons to the left, or alternatively scrolling with the `Alt` key held. The two white lines in the middle indicate the current timestamp. Additionally, hit objects on the timeline can be selected and moved around with the left mouse button, or removed by right-clicking.
 
 ### Beat snap divisor
 
@@ -30,40 +28,40 @@ The `+`/`-` buttons facilitate the zooming in and out of the timeline, while the
 
 | Name | Description |
 | :-- | :-- |
-| [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limit where hit objects can be placed, so that they always fall on the beat. Moving the slider to the right increases the granularity of the hit objects. |
-| `Insert Break Time` | Add a [break](/wiki/Beatmap/Break) at the current timestamp, stopping the [health drain](/wiki/Gameplay/Health). |
-| x/y | Shows the position of a selected hit object on the playfield. If nothing is selected, shows the position of the cursor. |
+| [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limit the amount of timeline ticks that determine which subdivisions of a beat hit objects can be placed on. Moving the slider to the right increases the granularity of timeline ticks. |
+| `Insert Break Time` | Add a [break](/wiki/Beatmap/Break) at the current timestamp. |
+| x/y | Shows the position of a selected hit object on the playfield, or if nothing is selected, the position of the cursor. |
 
 Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_editor/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
 
-### Hit objects panel
+### Left toolbar
 
-![](img/tools.jpg "Hit objects panel")
+![](img/tools.jpg "Left toolbar")
 
-| Button (Keyboard shortcut) | Description |
+| Button (keyboard shortcut) | Description |
 | :-- | :-- |
 | `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
 | `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
 | `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` when selecting a slider: Add control point. |
 | `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) at the current timestamp. |
-| `Slider` (`3`) | `Left/Right click`: Start/End slider at the current timestamp. `Left click` when placing a slider: Add a control point. |
-| `Spinner` (`4`) | `Left/Right click`: Start/End spinner at the current timestamp. |
+| `Slider` (`3`) | `Left`/`Right click`: Start or end slider at the current timestamp. `Left click` when placing a slider: Add a control point. |
+| `Spinner` (`4`) | `Left`/`Right click`: Start or end spinner at the current timestamp. |
 
 ### Playfield
 
 ![](img/playfield.jpg "Visual representation of the current timestamp")
 
-### Tools panel
+### Right toolbar
 
-![](img/subtools.jpg "Tools panel")
+![](img/subtools.jpg "Right toolbar")
 
-| Button (Keyboard shortcut) | Usage | Description |
+| Button (keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
 | `New Combo` (`Q`) | `Left click` when selecting a hit object or `Right click` in hit object placement. | Change current object to next [combo](/wiki/Beatmapping/Combo) colour. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
 
 #### Hitsounds
 
-| Button (Keyboard shortcut) | Usage |
+| Button (keyboard shortcut) | Usage |
 | :-- | :-- |
 | `Whistle` (`W`) | (Select a hit object) `Left click`: Use whistle sound on this object. |
 | `Finish` (`E`) | (Select a hit object) `Left click`: Use finish sound on this object. |
@@ -71,7 +69,7 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 #### Assist tools
 
-| Button (Keyboard shortcut) | Usage | Description |
+| Button (keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
 | `Grid Snap` (`T`) | Hold `Shift`: Temporary toggle. | Hit objects will be snapped to the grid by default. |
 | `Distance Snap` (`Y`) | Hold `Alt`: Temporary toggle, switching the beat snap divisor tool to distance snap. `Alt` + `Mouse wheel`: Adjust the distance snap multiplier. | Distance between consecutive objects will be calculated based on their temporal distance. Best to use while the timeline is paused. |
@@ -81,11 +79,11 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 ![](img/song-timeline.jpg "Song timeline")
 
-The timestamp in the bottom left corner has the `<minutes>:<seconds>:<milliseconds>` format and shows the current position within the song. If clicked, it opens a small pop-up window for copying or pasting [objects' timestamps](/wiki/Modding/Timestamp) for quick selection and navigation. Next to the timestamp is the song progress percentage, which may be replaced with `intro` or `outro` if the storyboard starts before or ends after the music.
+The current position in the song is shown on the bottom left in the format of `<minutes>:<seconds>:<milliseconds>`. When clicked, it opens a small pop-up window for copying or pasting [object timestamps](/wiki/Modding/Timestamp) for quick selection and navigation. Next to the timestamp is the song progress percentage, displaying `intro` or `outro` when outside the range of the music track due to [storyboard](/wiki/Storyboard) presence.
 
-The central area contains the timeline with markings and music control buttons. The `Test` button to the right of the timeline will suggest saving the beatmap and start playtesting it from the current timestamp. If hovered, the timeline will display buttons for working with bookmarks.
+The central area contains the timeline with markings and music control buttons. When hovered, additional buttons for working with bookmarks appear. The `Test` button to the right of the timeline allows for testing the beatmap from the current point in time.
 
-On the bottom-right, the playback rate can be adjusted by the value of a quarter.
+On the bottom right, the playback rate can be set to 25%, 50%, 75%, or 100%.
 
 #### Colour markers
 
@@ -109,58 +107,60 @@ On the bottom-right, the playback rate can be adjusted by the value of a quarter
 | Shortcut | Description |
 | :-- | :-- |
 | `Ctrl` + `B` | Add a bookmark at the current location. |
-| `Ctrl` + `Shift` + `B` | Remove the bookmark at nearby location. |
+| `Ctrl` + `Shift` + `B` | Remove the nearest bookmark (less than 2 seconds away). |
 | `Ctrl` + `Right arrow` | Go to the next bookmark. |
 | `Ctrl` + `Left arrow` | Go to the previous bookmark. |
 
 ## Features (osu!mania)
 
-*See also: [Basics of the osu!mania mapping](https://osu.ppy.sh/community/forums/topics/118868), [osu!mania keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+*For osu!mania mapping tutorials on the forum, see: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
 
-These are the features of osu!mania, in addition to the previous ones.
+The osu!mania-specific editor has some differences compared to the other game modes, which are covered in this section.
 
 ### Beat snap divisor
 
-![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
-
 *Main article: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
-In osu!mania mode, the beat snap divisor area also shows the name and volume level of the sound sample attached to a selected note. Such per-note samples called keysounds are applied using the [`Sample import`](#sample-import) dialog.
+![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
 
-### Hit object panel for osu!mania
+In osu!mania, the beat snap divisor area also shows the name and volume level of the sound sample attached to a selected note. Such per-note samples called keysounds are applied using the [`Sample import`](#sample-import) dialogue.
+
+### Left toolbar
 
 ![](img/tools-mania.jpg "Hit object panel for osu!mania")
 
-| Buttons (Keyboard shortcut) | Usage | Description |
-| :-- | :-- | :-- |
+| Button (keyboard shortcut) | Usage |
+| :-- | :-- |
 | `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
 | `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Move timestamp and location of the note. `Right click`: Remove the note. `Ctrl` + `Left click`: Select multiple objects. | Select and modify existing notes. |
-| `Circle` (`2`) | `Left click`: Place a note. | Add a note to the current column based on mouse position. |
-| `Hold` (`3`) | Hold `Left click`: Place a hold note and adjust its length. Release the click to end the note. | Add a hold note to the current column based on mouse position. |
+| `Select` (`1`) | `Left click` or `Left drag`: Move timestamp and location of the note. `Right click`: Remove the note. `Ctrl` + `Left click`: Select multiple objects. |
+| `Circle` (`2`) | `Left click`: Place a note. |
+| `Hold` (`3`) | Hold `Left click`: Place a hold note and adjust its length. Release the click to end the note. |
 
 ### Playfield
 
 ![](img/playfield-mania.jpg "Visual representation of the current timestamp")
 
-#### Playfield boxes
+#### Sections
 
 | Name | Description |
 | :-- | :-- |
-| Left Box | Note density (Timeline) |
-| Centre | Actual playfield overlaid with [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| Left | Note density (Timeline) |
+| Centre | The playfield, overlaid on top of [beat snap](/wiki/Client/Beatmap_editor/Beat_snap_divisor) lines |
 
-#### Lines and note colours
+#### Colours
+
+*See also: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
 | Line colour | Description |
 | :-- | :-- |
 | Double white | Full measure |
-| White | Common time |
+| White | A [beat](/wiki/Music_theory/Beat) |
 | Green | Current timestamp / [Judgement](/wiki/Gameplay/Judgement) line |
 
 | Note colour | Description |
 | :-- | :-- |
-| Blue | Selected note(s) |
+| Blue | Selected notes |
 | White/Pink/Yellow | Unselected note colours |
 
 ### Sampling
@@ -171,15 +171,15 @@ In osu!mania mode, the beat snap divisor area also shows the name and volume lev
 
 ![](img/sample-import.jpg "Sample import window")
 
-The left side of the sample import window lists all audio samples from the beatmap folder. They can be applied to selected objects using settings on right side of the window.
+The left side of the sample import window lists all audio samples from the beatmap folder. They can be applied to selected objects using the settings on right side of the window.
 
 ##### Basic
 
 | Name | Description |
 | :-- | :-- |
-| `CustomSet` | Apply default hitsound set and volume without using these of the current timing point. Ignores the left-side sample selection. *Note: For this action to work properly, `Use basic sample` must be enabled.* |
+| `CustomSet` | Apply default hitsound set and volume without using those of the current timing point, ignoring the left-side sample selection. *Note that for this action to work properly, `Use basic sample` must be enabled.* |
 | `Volume` | How loud this sound file should be. Use only integer values from 8 to 100. |
-| `Use basic sample` | **Ignores** selected custom hitsound in this editor, and applies only the volume on selected notes. This means, no matter what the notes are about, this feature only changes the selected notes volume. |
+| `Use basic sample` | Only apply volume or custom sampleset changes on selected notes. |
 
 ##### Buttons
 
@@ -187,7 +187,7 @@ The left side of the sample import window lists all audio samples from the beatm
 | :-- | :-- |
 | `Play` | Play selected sample. |
 | `Import` | Add more samples to the beatmap folder from other locations. |
-| `Delete` | Delete the selected sample's file, **irreversibly**. |
+| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
 | `Apply` | Apply selected sample to the selected note. |
 | `Sample` | Add selected sample as a storyboard event at the current timestamp. |
 | `Sample list` | Display [sound events in the storyboard](#sample-events-list). |
@@ -196,6 +196,8 @@ The left side of the sample import window lists all audio samples from the beatm
 
 #### Sample events list
 
+*See also: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
+
 ![](img/sample-event-list.jpg "Sample events list window")
 
-`Sample events list` is a window that shows sound events from the storyboard, which are stored in the difficulty's `.osu` file. The format of every line is `<minutes>:<seconds>:<milliseconds> <filename>@<volume>`.
+`Sample events list` is a window that shows sound events from the storyboard, which are stored in the difficulty's `.osu` or the beatmap's `.osb` file.
