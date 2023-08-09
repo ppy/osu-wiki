@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - BN
   - BNG
@@ -12,7 +10,7 @@ tags:
 
 *См. также: [правила для номинаторов](Rules), [ожидания от номинаторов](Expectations), [общая информация](General_Information), [как стать номинатором](Becoming_a_Beatmap_Nominator)*
 
-**Номинаторы** (также ***BN***, ***БН***) — группа пользователей, занимающихся [номинированием карт на ранк](/wiki/Beatmap_ranking_procedure). Их имена имеют фиолетовый цвет на форуме и в [обсуждениях карт](/wiki/Beatmap_discussion).
+**Номинаторы** (также ***BN***, ***БН***) — группа пользователей, занимающихся [номинированием карт на ранк](/wiki/Beatmap_ranking_procedure). Титулы номинаторов имеют фиолетовый цвет на форуме и в [обсуждениях карт](/wiki/Beatmap_discussion), а также у них есть [значок группы](/wiki/People/User_group) с надписью `BN`.
 
 ## Роли и обязанности
 
