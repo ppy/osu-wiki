@@ -23,7 +23,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - 기본 단축키: `F`
-  - 기본 단축키 ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` 또는 `Shift`+`F`
+  - 기본 단축키 ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` 또는 `Shift` + `F`
 - 설명:
   - ![][osu!]: `어프로치 서클이 사라지고 노트가 보였다 사라집니다. 이 모드를 켜면 점수에 배수가 붙습니다.`
   - ![][osu!taiko]: `노트가 치기 전에 서서히 사라집니다!`
@@ -56,7 +56,7 @@ osu!랑은 다르게 일반적으로 히든 모드는 플레이어들에게 다�
 
 ### osu!catch
 
-[osu!catch](/wiki/Game_mode/osu!catch) 에서는, 히든 모드가 화면 중간에 내려오는 과일들을 희미하게 만듭니다.. 
+[osu!catch](/wiki/Game_mode/osu!catch) 에서는, 히든 모드가 화면 중간에 내려오는 과일들을 희미하게 만듭니다.
 
 히든 모드 사용에 관련하여 osu!catch 에서의 체감 난이도 영향은 비트맵마다 다르지만, [일반적으로 원이 생기고 사라지기 까지 걸리는 시간(AR)](/wiki/Beatmap/Approach_rate)의 값이 9 이상인 비트맵에서는 체감 난이도 차이가 거의 없다고 여겨집니다.
 
@@ -72,7 +72,7 @@ osu!랑은 다르게 일반적으로 히든 모드는 플레이어들에게 다�
 
 - 히든 모드는 [아자! 싸워라! 응원단](https://ko.wikipedia.org/wiki/오쓰!_싸워라!_응원단)의 2번째 일본 DS 게임인 응원단 2 시리즈(osu!가 기반으로 한 게임)에서 처음 등장했습니다.
 - 만약 이 모드를 켠 상태로 비트맵을 클리어 하여 S 또는 SS 등급을 얻었다면, 랭크가 은색으로 표시됩니다.
-- 기본적으로, [osu!](/wiki/Game_mode/osu!)의 비트맵을 플레이할 때, 플레이어가 첫 [히트 오브젝트](/wiki/Gameplay/Hit_object)를 잘 칠 수 있도록 [어프로치 서클](/wiki/Gameplay/Hit_object/Approach_circle)이 일시적으로 표시됩니다. `게임 플레이` 옵션에서 끌 수 있습니다.
+- 기본적으로, [osu!](/wiki/Game_mode/osu!)의 비트맵을 플레이할 때, 플레이어가 첫 [히트 오브젝트](/wiki/Gameplay/Hit_object)를 잘 칠 수 있도록 [어프로치 서클](/wiki/Gameplay/Hit_object/Approach_circle)이 일시적으로 표시됩니다. `게임 플레이` [옵션](/wiki/Client/Options)에서 끌 수 있습니다.
 - osu!mania 에서는 이 모드가 페이드 인 모드와 같은 계열에 있습니다.
 - osu!mania 에서의 현재 히든 모드는 과거에 [페이드 아웃](/wiki/Gameplay/Game_modifier/Fade_Out) 이었습니다.
 
