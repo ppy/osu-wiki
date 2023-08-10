@@ -52,6 +52,6 @@ Penjelasan mendetail tentang arena permainan kedua dapat ditemukan di [halaman o
 
 ### Trivia
 
-- Mod Co-op diperkenalkan pada 5 Maret 2015
+- Mod Co-op diperkenalkan pada 5 Maret 2015.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
