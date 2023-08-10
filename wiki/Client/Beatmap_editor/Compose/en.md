@@ -42,10 +42,10 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 | :-- | :-- |
 | `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
 | `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` when selecting a slider: Add control point. |
+| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` when selecting a slider: Add [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
 | `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) at the current timestamp. |
-| `Slider` (`3`) | `Left`/`Right click`: Start or end slider at the current timestamp. `Left click` when placing a slider: Add a control point. |
-| `Spinner` (`4`) | `Left`/`Right click`: Start or end spinner at the current timestamp. |
+| `Slider` (`3`) | `Left`/`Right click`: Start or end a [slider](/wiki/Gameplay/Hit_object/Slider) at the current timestamp. `Left click` when placing a slider: Add a control point. |
+| `Spinner` (`4`) | `Left`/`Right click`: Start or end a [spinner](/wiki/Gameplay/Hit_object/Spinner) at the current timestamp. |
 
 ### Playfield
 
@@ -57,22 +57,22 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 | Button (keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `New Combo` (`Q`) | `Left click` when selecting a hit object or `Right click` in hit object placement. | Change current object to next [combo](/wiki/Beatmapping/Combo) colour. This is equivalent to a verse in song script. An acceptable range is about 5–20. |
+| `New Combo` (`Q`) | `Left click` when selecting a hit object or `Right click` in hit object placement. | Start a new [combo](/wiki/Beatmapping/Combo) from the current object (roughly equivalent to a verse in song script). |
 
 #### Hitsounds
 
 | Button (keyboard shortcut) | Usage |
 | :-- | :-- |
-| `Whistle` (`W`) | (Select a hit object) `Left click`: Use whistle sound on this object. |
-| `Finish` (`E`) | (Select a hit object) `Left click`: Use finish sound on this object. |
-| `Clap` (`R`) | (Select a hit object) `Left click`: Use clap sound on this object. |
+| `Whistle` (`W`) | `Left click`: Apply a whistle sound to selection. |
+| `Finish` (`E`) | `Left click`: Apply a finish sound to selection. |
+| `Clap` (`R`) | `Left click`: Apply a clap sound to selection. |
 
 #### Assist tools
 
 | Button (keyboard shortcut) | Usage | Description |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | Hold `Shift`: Temporary toggle. | Hit objects will be snapped to the grid by default. |
-| `Distance Snap` (`Y`) | Hold `Alt`: Temporary toggle, switching the beat snap divisor tool to distance snap. `Alt` + `Mouse wheel`: Adjust the distance snap multiplier. | Distance between consecutive objects will be calculated based on their temporal distance. Best to use while the timeline is paused. |
+| `Grid Snap` (`T`) | Hold `Shift`: Temporary toggle. | Snap objects [to the grid](/wiki/Beatmapping/Grid_snapping) while moving. |
+| `Distance Snap` (`Y`) | Hold `Alt`: Temporary toggle, switching the beat snap divisor tool to distance snap. `Alt` + `Mouse wheel`: Adjust the distance snap multiplier. | Calculate the [distance](/wiki/Client/Beatmap_editor/Distance_snap) between consecutive objects based on their temporal distance. Best to use while the timeline is paused. |
 | `Lock Notes` (`L`) | `Left click`: toggle. | Lock all hit objects to their current positions and timestamps. |
 
 ### Song timeline
@@ -81,7 +81,7 @@ Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_edito
 
 The current position in the song is shown on the bottom left in the format of `<minutes>:<seconds>:<milliseconds>`. When clicked, it opens a small pop-up window for copying or pasting [object timestamps](/wiki/Modding/Timestamp) for quick selection and navigation. Next to the timestamp is the song progress percentage, displaying `intro` or `outro` when outside the range of the music track due to [storyboard](/wiki/Storyboard) presence.
 
-The central area contains the timeline with markings and music control buttons. When hovered, additional buttons for working with bookmarks appear. The `Test` button to the right of the timeline allows for testing the beatmap from the current point in time.
+The central area contains the timeline with markings and music control buttons. When hovered, additional buttons for working with bookmarks appear. The `Test` button to the right of the timeline allows for [testing the beatmap](/wiki/Client/Beatmap_editor/Test_mode) from the current point in time.
 
 On the bottom right, the playback rate can be set to 25%, 50%, 75%, or 100%.
 
