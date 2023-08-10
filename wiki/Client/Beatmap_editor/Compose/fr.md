@@ -21,7 +21,7 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
 ### En haut à gauche (La Timeline des objets)
 
-![La Timeline des objets](/wiki/shared/objects-timeline.jpg "La Timeline des objets")
+![La Timeline des objets](img/objects-timeline.jpg "La Timeline des objets")
 
 **Affiche la timeline des objets par rapport au Beat Snap Divisor et à l'horodatage.**
 
@@ -40,52 +40,6 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).**
 
 Maintenez la touche `Alt` pour déclencher le Distance Snap. La valeur peut être comprise entre x0.1 et x2.0.
-
-### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches seulement
-- A utiliser de préférence pour la difficulté facile.
-
-### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/BSD_1_2.jpg "Diviseur 1/2")
-
-- Demi-temps
-- Ajoute des ticks rouges
-
-### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/BSD_1_3.jpg "Diviseur 1/3")
-
-- Triplets *
-- A deux ticks violettes entre chaque ticks blanche
-- Timing composé
-
-### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/BSD_1_4.jpg "Diviseur 1/4")
-
-- Quarts de temps
-- Ajoute les ticks bleues, en plus des ticks rouges
-- Utile pour le mapping.
-
-### Diviseur 1/6
-
-![Diviseur 1/6](/wiki/shared/BSD_1_6.jpg "Diviseur 1/6")
-
-- Double Triplets *
-- A deux ticks violettes entre chaque ticks rouge
-- Timing composé
-
-### Diviseur 1/8
-
-![Diviseur 1/8](/wiki/shared/BSD_1_8.jpg "Diviseur 1/8")
-
-- Huitième temps
-- Ajoute des ticks jaunes, en plus des ticks rouges et bleues
 
 Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage actuel et **x/y** sont les coordonnées actuelles de la souris.
 
@@ -233,37 +187,6 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Ligne verte | Vous/Ligne de [jugement](/wiki/Gameplay/Judgement) |
 | Couleur bleue | Note actuellement sélectionnée |
 | Couleur blanche/rose/jaune | Couleur normale des notes |
-
-#### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/1_1_m.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches uniquement
-- A utiliser de préférence pour les difficultés faciles
-
-#### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/1_2_m.jpg "Diviseur 1/2")
-
-- Demi battements
-- Ajoute des ticks rouges
-
-#### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/1_3_m.jpg "Diviseur 1/3")
-
-- Triplés
-- A deux ticks violettes entre chaque tick blanche
-- Timing composé
-
-#### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/1_4_m.jpg "Diviseur 1/4")
-
-- Quarts de battements
-- Ajoute des ticks bleues, en plus des ticks rouges.
-- Utile pour le mapping en général
 
 ### Au centre à droite (Hitsounds & Outils d'assistance)
 
