@@ -21,7 +21,7 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
 ### En haut à gauche (La Timeline des objets)
 
-![La Timeline des objets](/wiki/shared/objects-timeline.jpg "La Timeline des objets")
+![La Timeline des objets](img/objects-timeline.jpg "La Timeline des objets")
 
 **Affiche la timeline des objets par rapport au Beat Snap Divisor et à l'horodatage.**
 
@@ -187,37 +187,6 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Ligne verte | Vous/Ligne de [jugement](/wiki/Gameplay/Judgement) |
 | Couleur bleue | Note actuellement sélectionnée |
 | Couleur blanche/rose/jaune | Couleur normale des notes |
-
-#### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/1_1_m.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches uniquement
-- A utiliser de préférence pour les difficultés faciles
-
-#### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/1_2_m.jpg "Diviseur 1/2")
-
-- Demi battements
-- Ajoute des ticks rouges
-
-#### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/1_3_m.jpg "Diviseur 1/3")
-
-- Triplés
-- A deux ticks violettes entre chaque tick blanche
-- Timing composé
-
-#### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/1_4_m.jpg "Diviseur 1/4")
-
-- Quarts de battements
-- Ajoute des ticks bleues, en plus des ticks rouges.
-- Utile pour le mapping en général
 
 ### Au centre à droite (Hitsounds & Outils d'assistance)
 
