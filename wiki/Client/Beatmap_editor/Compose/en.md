@@ -154,7 +154,7 @@ In osu!mania, the beat snap divisor area also shows the name and volume level of
 
 | Line colour | Description |
 | :-- | :-- |
-| Double white | Full measure |
+| White (thick) | Full measure |
 | White | A [beat](/wiki/Music_theory/Beat) |
 | Green | Current timestamp / [Judgement](/wiki/Gameplay/Judgement) line |
 
