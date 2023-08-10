@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
----
-
 # Internet Relay Chat
 
 *Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -23,7 +18,7 @@ outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
 - Порт: `6667` (по умолчанию)
 - SSL: выключено
 - Имя пользователя: ваш ник в osu!. Пробелы нужно заменить на подчёркивания (например `beppy_master_1000` вместо `beppy master 1000`)
-- Пароль нужно взять со страницы [IRC Authentication](https://osu.ppy.sh/p/irc)
+- Пароль нужно взять из [настроек профиля](https://osu.ppy.sh/home/account/edit#legacy-api)
 
 *Внимание: во-первых, пароль для IRC и пароль от аккаунта — это разные вещи. Во-вторых, **никому не давайте пароль от IRC — он позволяет общаться от вашего имени**.*
 
@@ -65,7 +60,7 @@ outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
 
 ### У меня появляется ошибка «Bad Authentication Token»
 
-1. Убедитесь, что вы вводите пароль со страницы [IRC Authentication](https://osu.ppy.sh/p/irc), и что в него не попал лишний символ.
+1. Убедитесь, что вы вводите пароль, взятый из [настроек профиля](https://osu.ppy.sh/home/account/edit#legacy-api), и что в него не попал лишний символ.
 2. Убедитесь, что вы заменили все пробелы в своём нике на подчёркивания (`This_Username` вместо `This Username`).
 
 ### Я могу взять себе другой ник?

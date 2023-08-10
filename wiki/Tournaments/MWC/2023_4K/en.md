@@ -53,8 +53,10 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxmrcTQ40eHwqYDAjqfYxher3bkH-uFYBVm0Z6DNHLwll52YUrEA9-gNrxNOX0X5CsCHyDBH9FKxrM/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/125) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -104,7 +106,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [YuyukoFangirl](https://osu.ppy.sh/users/10336332), [\_Moqn](https://osu.ppy.sh/users/13675628), [\[LS\]Fluzt](https://osu.ppy.sh/users/23402647), [Konamp](https://osu.ppy.sh/users/27445750) |
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)**, [Lott](https://osu.ppy.sh/users/13821222), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [magnifestio](https://osu.ppy.sh/users/22725724), [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
-Captains are listed in **bold**. Team listings are subject to change until the end of the sign-up period.
+Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
@@ -112,28 +114,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Qualifiers
 
-**[Download the mappack here (46 MB)](https://drive.google.com/uc?id=1vX65jeRQ-RoIqEZvHSdK3SYyPhh3F9s8)**
+**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
 
-1. sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]
-<https://osu.ppy.sh/beatmapsets/2039247#mania/4253502>
-2. Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]
-<https://osu.ppy.sh/beatmapsets/2039339#mania/4253751>
-3. xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]
-<https://osu.ppy.sh/beatmapsets/2039240#mania/4253493>
-4. technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]
-<https://osu.ppy.sh/beatmapsets/2039243#mania/4253496>
-5. Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]
-<https://osu.ppy.sh/beatmapsets/2039298#mania/4253649>
-6. Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]
-<https://osu.ppy.sh/beatmapsets/2039253#mania/4253513>
-7. katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]
-<https://osu.ppy.sh/beatmapsets/2039237#mania/4253489>
-8. Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]
-<https://osu.ppy.sh/beatmapsets/2039336#mania/4253740>
-
-## TB
-
-## Mappack link (46 MB): <https://drive.google.com/uc?id=1It6ICfZd_JkRfvZJ6KJ93bqd0piknE9o>
+1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
+2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
+3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
+4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
+5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
+6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
+7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
+8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Ruleset
 

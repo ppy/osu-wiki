@@ -28,7 +28,7 @@ tags:
 
 ## Description
 
-Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à augmenter la difficulté de la plupart des aspects d'une [beatmap](/wiki/Beatmap). Il atteint généralement cet objectif en augmentant le [circle size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) de 30%, l'[approach rate (AR)](/wiki/Beatmap/Approach_rate) de 40%, le [health drain (HP)](/wiki/Gameplay/Health) de 40% et l'[overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) de 40%, bien que les détails varient pour chaque mode de jeu.
+Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à augmenter la difficulté de la plupart des aspects d'une [beatmap](/wiki/Beatmap). Il atteint généralement cet objectif en augmentant le [circle size (CS)](/wiki/Beatmap/Circle_size) de 30%, l'[approach rate (AR)](/wiki/Beatmap/Approach_rate) de 40%, le [health drain (HP)](/wiki/Beatmap/HP_drain_rate) de 40% et l'[overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) de 40%, bien que les détails varient pour chaque mode de jeu.
 
 ### osu!
 
@@ -44,7 +44,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Hard Rock augmente l
 
 Le nombre de coups requis pour terminer un denden est augmenté en raison de l'augmentation de l'OD. Par conséquent, le score maximum possible pour les difficultés d'osu!taiko avec le mod Hard Rock est plus élevé que celui du mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
-Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit dans un denden donne un score statique de 300. Ce qui est encore plus petit que la différence de score typique entre un `GREAT` et un `GOOD` (550 points à 100x combo ou plus).
+Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit dans un denden donne un score statique de 300. Ce qui est encore plus petit que la différence de score typique entre un GREAT et un GOOD (550 points à 100x combo ou plus).
 
 ### osu!catch
 
@@ -60,13 +60,13 @@ En raison de ce pic de difficulté beaucoup plus important que pour les autres [
 
 Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), l'HP drain est augmenté de 40% tandis que la fenêtre de timing est environ 29% plus stricte. Bien que la valeur AR soit affichée comme augmentée, cela n'affecte pas le gameplay.
 
-Pour calculer la fenêtre de timing après l'application du HR, la [fenêtre de timing originale](/wiki/Beatmap/Overall_difficulty) doit être divisée par 1,4. La fenêtre de timing du Rainbow 300 (MAX) est fixe, quel que soit l'OD, ce qui signifie que la fenêtre de timing d'un MAX avec HR sera toujours de ±11,43 ms.
+Pour calculer la fenêtre de timing après l'application du HR, la [fenêtre de timing originale](/wiki/Beatmap/Overall_difficulty) doit être divisée par 1,4. La fenêtre de timing du PERFECT est fixe, quel que soit l'OD, ce qui signifie que la fenêtre de timing d'un PERFECT avec HR sera toujours de ±11,43 ms.
 
 Notez que la méthode de calcul est différente dans [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 
 ## Le saviez-vous ?
 
-- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/iNiS_games)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS)."
+- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/iNiS_games)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS).
 - Le mod Hard Rock annulera le mod [Easy](/wiki/Gameplay/Game_modifier/Easy) et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

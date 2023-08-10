@@ -1,8 +1,3 @@
----
-outdated_since: 545f0d9198fbeaae803d1214ffa2ef61cbc26ea1
-outdated_translation: true
----
-
 # Оформление статей
 
 *См. также: [Содержание статей](/wiki/Article_styling_criteria/Writing)*
@@ -692,7 +687,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 jpeg-recompress -am smallfry <input> <output>
 ```
 
-В команде выше `<input>` — путь к оригинальной картинке, `<output>` — путь, куда сохранять сжатый результат.
+Помимо `jpeg-recompress`, конвертировать и оптимизировать изображения можно через сервис [ezgif.com](https://ezgif.com/).
 
 ### Имена изображений
 
