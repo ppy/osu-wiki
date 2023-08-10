@@ -156,16 +156,16 @@ In osu!mania, the beat snap divisor area also shows the name and volume level of
 | :-- | :-- |
 | White (thick) | Full measure |
 | White | A [beat](/wiki/Music_theory/Beat) |
-| Green | Current timestamp / [Judgement](/wiki/Gameplay/Judgement) line |
+| Green | Current timestamp / [judgement](/wiki/Gameplay/Judgement) line |
 
 | Note colour | Description |
 | :-- | :-- |
 | Blue | Selected notes |
-| White/Pink/Yellow | Unselected note colours |
+| White/pink/yellow | Unselected note colours |
 
 ### Sampling
 
-**Sampling** is the process of adding sound to the note. To add a sample, click a note while holding `Alt` to open a pop-up window with a list of sound samples inside the beatmap folder.
+**Sampling** is the process of adding sound samples to individual notes. To add a sample, click a note while holding `Alt` to open a pop-up window with a list of available sound samples.
 
 #### Sample import
 
