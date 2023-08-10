@@ -4,30 +4,34 @@ title: "osu!(lazer) Updates: August 3, 2023"
 date: 2023-08-03 00:00:00 +0000
 ---
 
-Tune in for the latest batch of various improvements to osu!(lazer)!
+Tune in for the latest batch of improvements the game!
 
 ![](/wiki/shared/news/2023-07-16-osulazer-updates-july-16-2023/banner.jpg)
 
-Before we jump straight into the updates, you can also find them in a video format below, presented by [pishifat](https://osu.ppy.sh/users/3178418)!
+Before we jump straight into the updates, you can also find them in a video format below, presented by [pishifat](https://osu.ppy.sh/users/3178418), [peppy](https://osu.ppy.sh/users/2) and *a few other guests*:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/IShBf1xuRho" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Changes
 
-- **Kiai fountains are back!** If the main menu of osu!(lazer) felt dull so far, with this update that is certainly no longer the case! If you are unfamiliar with what the fountains are, they are the bars that react to the music around the osu! cookie.
-- **Various editor improvements.** Proposed changes and quality of life improvements from stable have been implemented, the biggest one of them being able to export maps made in osu!(lazer) in such a way that they will be compatible with stable.
-- **Gameplay and multiplayer changes.** Things such as fixes for offset calibration and global timing, spinner animations being changed to match inputs, and a toggle for all free mods in multiplayer song select have all been fixed or added.
-- **Spectator screen and tournament client additions.** A first pass has been done to the multiplayer spectator screen, with a lot more changes to come. The tournament client has received grid snap for moveable objects (such as the tournament ladder), a counter for absolute score difference near the score bars and general updates to the buttons and layouts.
-- **Performance improvements in song select.** While not going into the too nerdy details, major performance improvements have been done for iOS and Android, as well as some smaller ones for desktop platforms.
+- **Tournament client improvements.** This is a special mode the client can be launched in which provides real-time graphics and statistics for tournament streams. Perhaps the most notable change for tournament watchers is a score difference counter near the score bars, but there were lots of general updates and improvements to the usability of tournament setup tools.
+- **Kiai fountains are back!** If the main menu of osu!(lazer) felt dull so far, with this update that is certainly no longer the case! If you are unfamiliar with what the fountains are, they are the flurry of particles that spew out from the sides of the screen during kiai sections in the menu.
+- **Stable-compatible beatmap exports.** If you didn't want to map in osu!(lazer) before, maybe today is the day that changes. You can now use the new slider curve types while mapping and export them in a format that the good old client understands.
+- **Gameplay and multiplayer changes.** Offset drift issues should be fixed, per-beatmap offset calibration now applies to all difficulties at once, spinners now spin faster, and there's now a quick toggle for enabling all free mods when selecting maps in multiplayer.
+- **Storyboard rendering fixes when spectating in multiplayer.** Some storyboards would previously render as transparent, which could cause all kinds of jank when spectating. Not anymore.
+- **Cyclical selection for overlapping objects in the editor.** This one is easiest understood by example: got a stack of 8 circles, but want to select the 3rd one from the top? Just click the stack 3 times. This was a feature in the skin editor which has now been ported over.
+- **Major performance improvements on mobile devices.** This is a big one. On iOS and Android, performance should be at least *doubled*. Maybe an app store release isn't far off?
 
-Do you want to know *everything* about the latest update, even all of those nerdy details we just mentioned? Well you are in luck, the full list of changes are up on the [changelog](yeahsoonTM)! If you are interested in more of a video digest, the embed video above will suit you just right.
+Do you want to know *everything* about the latest update, even all of those nerdy details we just mentioned? Well you are in luck, the full list of changes are up on the [changelog](yeahsoonTM)!
+
+You may also watch the above video above, and notice that it was recorded at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event/2023) last week. Another thing you may notice is that some of the optimisations and changes in this update were specifically made to help deliver the best experience for the [osu! tournament](/wiki/Tournaments/COE/COE_2023) played entirely in osu!(lazer) during the event.
 
 ---
 
-It's 2023, and you still don't know what osu!(lazer) is!? Now is the perfect time to catch up with this [excellent video](https://www.youtube.com/watch?v=ut_SOreClcc) on the [official YouTube channel](https://www.youtube.com/@osugame).
+It's 2023, and you still don't know what osu!(lazer) is? Now is the perfect time to catch up with this [quick primer](https://www.youtube.com/watch?v=ut_SOreClcc) on the [osu! YouTube channel](https://www.youtube.com/@osugame).
 
-If you are just looking for a download link, you can find the latest release [here](https://osu.ppy.sh/home/download). Have fun!
+If you are just looking for a download link, you can find the latest release [here](https://osu.ppy.sh/home/download) or by clicking the update notification in-game. Have fun!
 
 —0x84f
