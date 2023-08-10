@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Icons of an Era - Results"
-date: 2023-08-10 19:00:00 +0000
+date: 2023-08-10 15:00:00 +0000
 ---
 
 Tune in to find out the results for the latest skinning contest, and snag yourself some amazing skins centred around the past 15 years of osu!
