@@ -20,7 +20,7 @@ Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.s
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dVbEeRi0y_A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Unfortunately for thetasigma, they were unable to get their [2nd win in a row](/wiki/Contests/Skinning_Contest/3#podium), but by now they have become a household name in the skinning community by repeatedly creating top-of-the-line skins, regardless of the theme. Congratulations on the 3rd place!
+Unfortunately for thetasigma, they were unable to get their [2nd win in a row](/wiki/Contests/Skinning_Contest/3#podium), but by now they have become a household name in the skinning community by repeatedly creating top-of-the-line skins, regardless of the theme. Congratulations on the 3rd place and a new badge to illuminate their profile!
 
 ![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png)
 
@@ -34,7 +34,7 @@ Time stood still as **1058** voters cast their votes, resulting in a very close 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MZHOHYw1ysw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Considering the fact that this is the 2nd ever skin created by Chromasia for an official skinning contest, we are very impressed with the quality of their work and cannot wait to see what else they have to offer. Congratulations on the 2nd place!
+We are very impressed with the quality of their work and cannot wait to see what else they have to offer. Congratulations on the 2nd place and, now etched on their profile, a timeless memory.
 
 ![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png)
 
@@ -48,7 +48,7 @@ Inspired from the [2016 map of *A FOOL MOON NIGHT*](https://osu.ppy.sh/beatmapse
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/tYEMQL28rqg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Spoo is also someone who has only had 2 entries for an official contest, however the effort they put into this skin blew everything else out of the water, as apparent by the 300 vote gap between 1st and 2nd place. Congratulations on your very well deserved first victory!
+And of course, such lunacy is awarded with a badge that stares right into your soul.
 
 ![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge@2x.png)
 
