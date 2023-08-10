@@ -41,52 +41,6 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
 Maintenez la touche `Alt` pour déclencher le Distance Snap. La valeur peut être comprise entre x0.1 et x2.0.
 
-### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches seulement
-- A utiliser de préférence pour la difficulté facile.
-
-### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/BSD_1_2.jpg "Diviseur 1/2")
-
-- Demi-temps
-- Ajoute des ticks rouges
-
-### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/BSD_1_3.jpg "Diviseur 1/3")
-
-- Triplets *
-- A deux ticks violettes entre chaque ticks blanche
-- Timing composé
-
-### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/BSD_1_4.jpg "Diviseur 1/4")
-
-- Quarts de temps
-- Ajoute les ticks bleues, en plus des ticks rouges
-- Utile pour le mapping.
-
-### Diviseur 1/6
-
-![Diviseur 1/6](/wiki/shared/BSD_1_6.jpg "Diviseur 1/6")
-
-- Double Triplets *
-- A deux ticks violettes entre chaque ticks rouge
-- Timing composé
-
-### Diviseur 1/8
-
-![Diviseur 1/8](/wiki/shared/BSD_1_8.jpg "Diviseur 1/8")
-
-- Huitième temps
-- Ajoute des ticks jaunes, en plus des ticks rouges et bleues
-
 Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage actuel et **x/y** sont les coordonnées actuelles de la souris.
 
 ### Au centre à gauche (Sélecteur)

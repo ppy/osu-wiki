@@ -41,52 +41,6 @@ Para una guía de novatos: [Beatmapping](/wiki/Beatmapping).
 
 Mant `Alt` para activar el Divisor de ritmo. El valor puede variar de x0.1 a x2.0.
 
-### Divisor 1/1
-
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
-
-- Beats enteros
-- Solo marcas blancas
-- Mejor utilizado para la dificultad fácil
-
-### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
-
-- Medios Beats
-- Agrega marcas rojas
-
-### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
-
-- Tresillo*
-- Tiene dos marcas de color púrpura entre cada marca blanca
-- Tiempo compuesto
-
-### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
-
-- Cuatro beats
-- Agrega marcas azules, además de las marcas rojas
-- Útil para el mapeo general
-
-### Divisor 1/6
-
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
-
-- Tresillo doble*
-- Tiene dos marcas de color púrpura entre cada marca roja
-- Tiempo compuesto
-
-### Divisor 1/8
-
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
-
-- Ocho beats
-- Agrega marcas amarillas, además de las rojas y azules
-
 El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la marca de tiempo actual y **x / y** es la coordenada actual del mouse.
 
 ### Centro izquierda (Selector)
@@ -233,37 +187,6 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | Línea Verde | Tú / Linea de [juicio](/wiki/Gameplay/Judgement) |
 | Color Azul | Nota seleccionada actualmente |
 | Color Blanco/Rosa/Amarillo | Color de notas normales |
-
-#### Divisor 1/1
-
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
-
-- Beats enteros
-- Solo marcas blancas
-- Mejor utilizado para la dificultad fácil
-
-#### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
-
-- Medios Beats
-- Agrega marcas rojas
-
-#### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
-
-- Tresillo*
-- Tiene dos marcas de color púrpura entre cada marca blanca
-- Tiempo compuesto
-
-#### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
-
-- Cuatro beats
-- Agrega marcas azules, además de las marcas rojas
-- Útil para el mapeo general
 
 ### Centro derecha (Sonidos de Golpeo y Herramientas de Ayuda)
 

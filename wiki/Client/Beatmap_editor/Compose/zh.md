@@ -39,52 +39,6 @@ outdated_translation: true
 
 按着 `Alt` 可以启用 [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap)。这个数值可为 x0.1 至 x2.0。
 
-#### 时值 1/1
-
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
-
-- 四分音符
-- 只有白色线条
-- 在简单难度中经常使用
-
-#### 时值 1/2
-
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
-
-- 八分音符
-- 在两根白色线条中间多了一根红色线条
-
-#### 时值 1/3
-
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
-
-- 十二分音符*
-- 在两根白色线条中间多了两根紫色线条
-- 复合节奏
-
-#### 时值 1/4
-
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
-
-- 十六分音符
-- 在两根红色线条中间多了一根蓝色线条
-- 普遍用于作图
-
-#### 时值 1/6
-
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
-
-- 二十四分音符*
-- 在两根红色线条中间多了两根紫色线条
-- 复合节奏
-
-#### 时值 1/8
-
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
-
-- 三十二分音符
-- 在红和蓝色线条中间多了一根黄色线条
-
 **Insert Break Time（插入休息时间** 按钮可以在目前位置上开始 / 中止休息时间；而 x / y 则是目前游标的所在位置。
 
 ### 左边（Selector）
@@ -219,37 +173,6 @@ outdated_translation: true
 | 绿色线条 | 你所在的时间 / [判定](/wiki/Gameplay/Judgement)线 |
 | 蓝色 | 已选取的物件 |
 | 白色、粉红色、黄色 | 一般物件 |
-
-#### 时值 1/1
-
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
-
-- 四分音符
-- 只有白色线条
-- 在简单难度中经常使用
-
-#### 时值 1/2
-
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
-
-- 八分音符
-- 在两根白色线条中间多了一根红色线条
-
-#### 时值 1/3
-
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
-
-- 十二分音符
-- 在两根白色线条中间多了两根紫色线条
-- 复合节奏
-
-#### 时值 1/4
-
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
-
-- 十六分音符
-- 在两根红色线条中间多了一根蓝色线条
-- 普遍用于作图
 
 ### 右边（打击音效 & 辅助工具）
 
