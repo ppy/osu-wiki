@@ -58,7 +58,6 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/125) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
-
 ## Participants
 
 |  | Country | Members |
