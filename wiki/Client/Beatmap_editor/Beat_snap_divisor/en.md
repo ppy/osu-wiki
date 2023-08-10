@@ -13,20 +13,20 @@ The beat snap divisor corresponds to the granularity of [hit objects](/wiki/Game
 
 ## Supported divisors
 
-The beatmap editor supports eleven different beat snap divisor settings:
+The beatmap editor supports eleven different beat snap divisor settings, ranging from 1/1 to 1/16.
 
-| Divisor | Tick colour | Visual | Comments |
-| :-- | :-- | :-- | :-- |
-| 1/1 | White | ![](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor") | Full beat length |
-| 1/2 | Red | ![](/wiki/shared/BSD_1_2.jpg "1/2 snap divisor in the osu!/osu!taiko/osu!catch editor") |  |
-| 1/3 | Purple | ![](/wiki/shared/BSD_1_3.jpg "1/3 snap divisor in the osu!/osu!taiko/osu!catch editor") | One third of a beat, or a triplet |
-| 1/4 | Blue | ![](/wiki/shared/BSD_1_4.jpg "1/4 snap divisor in the osu!/osu!taiko/osu!catch editor") | One quarter of a beat |
-| 1/5 | Yellow | ![](img/1_5_snap_divisor.png "1/5 snap divisor in the osu!/osu!taiko/osu!catch editor") | Extremely uncommon |
-| 1/6 | Purple | ![](/wiki/shared/BSD_1_6.jpg "1/6 snap divisor in the osu!/osu!taiko/osu!catch editor") | Double triplet (one sixth of a beat) |
-| 1/7 | Yellow | ![](img/1_7_snap_divisor.png "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor") | Extremely uncommon |
-| 1/8 | Yellow | ![](/wiki/shared/BSD_1_8.jpg "1/8 snap divisor in the osu!/osu!taiko/osu!catch editor") |  |
-| 1/9 | Yellow | ![](img/1_9_snap_divisor.png "1/9 snap divisor in the osu!/osu!taiko/osu!catch editor") | Extremely uncommon |
-| 1/12 | Grey | ![](img/1_12_snap_divisor.png "1/12 snap divisor in the osu!/osu!taiko/osu!catch editor") | Extremely uncommon |
-| 1/16 | Grey | ![](img/1_16_snap_divisor.png "1/16 snap divisor in the osu!/osu!taiko/osu!catch editor") | Uncommon |
+1/1 (full beat), 1/2 (half of a beat), and 1/4 (quarter of a beat) are the most widespread divisors due to the majority of songs being composed accordingly. Divisors such as 1/3 (triplets) and 1/6 (double triplets) are often used when mapping waltz songs, where a single beat is divided into three or six equal parts. The rest of the beat snap divisor settings are uncommon and should be used with caution: unless a song or its section is composed specifically using non-standard beat lengths, a rare divisor such as 1/5, or 1/16, is typically a sign of incorrect beatmap [timing](/wiki/Beatmapping/Timing). 
 
-Uncommon divisor settings should be used with caution: unless a song or its section is composed specifically using non-standard beat lengths, a non-widespread beat divisor such as 1/5, or 1/8, is typically a sign of incorrect beatmap [timing](/wiki/Beatmapping/Timing). 
+| Divisor | Tick colour | Visual |
+| :-- | :-- | :-- |
+| 1/1 | White | ![](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in hit object timeline") |
+| 1/2 | Red | ![](/wiki/shared/BSD_1_2.jpg "1/2 snap divisor in hit object timeline") |
+| 1/3 | Purple | ![](/wiki/shared/BSD_1_3.jpg "1/3 snap divisor in hit object timeline") |
+| 1/4 | Blue | ![](/wiki/shared/BSD_1_4.jpg "1/4 snap divisor in hit object timeline") |
+| 1/5 | Yellow | ![](img/1_5_snap_divisor.png "1/5 snap divisor in hit object timeline") |
+| 1/6 | Purple | ![](/wiki/shared/BSD_1_6.jpg "1/6 snap divisor in hit object timeline") |
+| 1/7 | Yellow | ![](img/1_7_snap_divisor.png "1/7 snap divisor in hit object timeline") |
+| 1/8 | Yellow | ![](/wiki/shared/BSD_1_8.jpg "1/8 snap divisor in hit object timeline") |
+| 1/9 | Yellow | ![](img/1_9_snap_divisor.png "1/9 snap divisor in hit object timeline") |
+| 1/12 | Grey | ![](img/1_12_snap_divisor.png "1/12 snap divisor in hit object timeline") |
+| 1/16 | Grey | ![](img/1_16_snap_divisor.png "1/16 snap divisor in hit object timeline") |
