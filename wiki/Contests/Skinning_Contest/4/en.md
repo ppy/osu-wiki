@@ -20,7 +20,7 @@ The above banner features [Kleinne Lui's](https://osu.ppy.sh/users/27725651) ent
 | Announcement | 2023-05-10 |
 | Submission phase | 2023-05-10/2023-07-14 |
 | Voting phase | 2023-07-21/2023-08-04 |
-| Results | DO THIS B4 MERGE |
+| Results | 2023-08-10 |
 
 ## Prizes
 
@@ -53,7 +53,7 @@ The Skinning Contest #4 is run by various community members.
 - **[Contest page](https://osu.ppy.sh/community/contests/178)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era)
 - [Voting news post](https://osu.ppy.sh/home/news/2023-07-21-skinning-contest-icons-of-an-era-voting)
-- Results news post
+- [Results news post](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1762288)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 - [Discord server](https://discord.skinship.xyz)
