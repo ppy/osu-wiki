@@ -15,8 +15,6 @@ The beat snap divisor corresponds to the granularity of [hit objects](/wiki/Game
 
 The beatmap editor supports eleven different beat snap divisor settings, ranging from 1/1 to 1/16.
 
-1/1 (full beat), 1/2 (half of a beat), and 1/4 (quarter of a beat) are the most widespread divisors due to the majority of songs being composed accordingly. Divisors such as 1/3 (triplets) and 1/6 (double triplets) are often used when mapping waltz songs, where a single beat is divided into three or six equal parts. The rest of the beat snap divisor settings are uncommon and should be used with caution: unless a song or its section is composed specifically using non-standard beat lengths, a rare divisor such as 1/5, or 1/16, is typically a sign of incorrect beatmap [timing](/wiki/Beatmapping/Timing). 
-
 | Divisor | Tick colour | Visual |
 | :-- | :-- | :-- |
 | 1/1 | White | ![](img/1_1_snap_divisor.jpg "1/1 snap divisor in hit object timeline") |
@@ -30,3 +28,7 @@ The beatmap editor supports eleven different beat snap divisor settings, ranging
 | 1/9 | Yellow | ![](img/1_9_snap_divisor.png "1/9 snap divisor in hit object timeline") |
 | 1/12 | Grey | ![](img/1_12_snap_divisor.png "1/12 snap divisor in hit object timeline") |
 | 1/16 | Grey | ![](img/1_16_snap_divisor.png "1/16 snap divisor in hit object timeline") |
+
+1/1 (full beat), 1/2 (half of a beat), and 1/4 (quarter of a beat) are the most widespread divisors due to the majority of songs being composed with more dense rhythms. Divisors such as 1/3 (triplets) and 1/6 (double triplets) are often used when mapping waltz songs, where a single beat is divided into three or six equal parts.
+
+The rest of the beat snap divisor settings are uncommon and should be used with caution: unless a song or a section in it is composed specifically using non-standard beat lengths, a rare divisor such as 1/5 or 1/16 is typically a sign of incorrect beatmap [timing](/wiki/Beatmapping/Timing). 1/16 in particular, however, is typically used for buzz sliders<!-- todo: link -->.
