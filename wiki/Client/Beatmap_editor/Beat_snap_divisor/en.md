@@ -19,14 +19,14 @@ The beatmap editor supports eleven different beat snap divisor settings, ranging
 
 | Divisor | Tick colour | Visual |
 | :-- | :-- | :-- |
-| 1/1 | White | ![](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in hit object timeline") |
-| 1/2 | Red | ![](/wiki/shared/BSD_1_2.jpg "1/2 snap divisor in hit object timeline") |
-| 1/3 | Purple | ![](/wiki/shared/BSD_1_3.jpg "1/3 snap divisor in hit object timeline") |
-| 1/4 | Blue | ![](/wiki/shared/BSD_1_4.jpg "1/4 snap divisor in hit object timeline") |
+| 1/1 | White | ![](img/1_1_snap_divisor.jpg "1/1 snap divisor in hit object timeline") |
+| 1/2 | Red | ![](img/1_2_snap_divisor.jpg "1/2 snap divisor in hit object timeline") |
+| 1/3 | Purple | ![](img/1_3_snap_divisor.jpg "1/3 snap divisor in hit object timeline") |
+| 1/4 | Blue | ![](img/1_4_snap_divisor.jpg "1/4 snap divisor in hit object timeline") |
 | 1/5 | Yellow | ![](img/1_5_snap_divisor.png "1/5 snap divisor in hit object timeline") |
-| 1/6 | Purple | ![](/wiki/shared/BSD_1_6.jpg "1/6 snap divisor in hit object timeline") |
+| 1/6 | Purple | ![](img/1_6_snap_divisor.jpg "1/6 snap divisor in hit object timeline") |
 | 1/7 | Yellow | ![](img/1_7_snap_divisor.png "1/7 snap divisor in hit object timeline") |
-| 1/8 | Yellow | ![](/wiki/shared/BSD_1_8.jpg "1/8 snap divisor in hit object timeline") |
+| 1/8 | Yellow | ![](img/1_8_snap_divisor.jpg "1/8 snap divisor in hit object timeline") |
 | 1/9 | Yellow | ![](img/1_9_snap_divisor.png "1/9 snap divisor in hit object timeline") |
 | 1/12 | Grey | ![](img/1_12_snap_divisor.png "1/12 snap divisor in hit object timeline") |
 | 1/16 | Grey | ![](img/1_16_snap_divisor.png "1/16 snap divisor in hit object timeline") |

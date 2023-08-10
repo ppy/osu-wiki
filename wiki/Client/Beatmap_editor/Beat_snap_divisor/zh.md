@@ -13,7 +13,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/1 音符时值
 
-![](/wiki/shared/BSD_1_1b.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/1 音符时值")
+![](img/1_1_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/1 音符时值")
 
 ![](/wiki/shared/1_1_m.jpg "在 osu!mania 编辑器中的 1/1 音符时值")
 
@@ -23,7 +23,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/2 音符时值
 
-![](/wiki/shared/BSD_1_2.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/2 音符时值")
+![](img/1_2_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/2 音符时值")
 
 ![](/wiki/shared/1_2_m.jpg "在 osu!mania 编辑器中的 1/2 音符时值")
 
@@ -31,7 +31,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/3 音符时值
 
-![](/wiki/shared/BSD_1_3.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/3 音符时值")
+![](img/1_3_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/3 音符时值")
 
 ![](/wiki/shared/1_3_m.jpg "在 osu!mania 编辑器中的 1/3 音符时值")
 
@@ -41,7 +41,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/4 音符时值
 
-![](/wiki/shared/BSD_1_4.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/4 音符时值")
+![](img/1_4_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/4 音符时值")
 
 ![](/wiki/shared/1_4_m.jpg "在 osu!mania 编辑器中的 1/4 音符时值")
 
@@ -61,7 +61,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/6 音符时值
 
-![](/wiki/shared/BSD_1_6.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/6 音符时值")
+![](img/1_6_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/6 音符时值")
 
 ![](/wiki/shared/1_6_m.jpg "在 osu!mania 编辑器中的 1/6 音符时值")
 
@@ -81,7 +81,7 @@ outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
 
 ## 1/8 音符时值
 
-![](/wiki/shared/BSD_1_8.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/8 音符时值")
+![](img/1_8_snap_divisor.jpg "在 osu!/osu!taiko/osu!catch 编辑器中的 1/8 音符时值")
 
 ![](/wiki/shared/1_8_m.jpg "在 osu!mania 编辑器中的 1/8 音符时值")
 
