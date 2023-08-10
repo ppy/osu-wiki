@@ -419,8 +419,8 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [Krimek - The Dark](https://soundcloud.com/krimek/the-dark)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2008599) | Finals NM5 |
 | [Krimek - HyperColor](https://soundcloud.com/krimek/hypercolor)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004618) | Semifinals FM1 |
-| [Kushper - Versailles](https://soundcloud.com/kushper/versailles) | [#1](https://osu.ppy.sh/beatmapsets/2008600#osu/4178416) | Finals NM2 |
-| [Nagiha - Ignitensity](https://soundcloud.com/nagiha/ign) | [#1](https://osu.ppy.sh/beatmapsets/2012097#osu/4186897) | Grand Finals HD3 |
+| [Kushper - Versailles](https://soundcloud.com/kushper/versailles) | [#1](https://osu.ppy.sh/beatmapsets/2008600) | Finals NM2 |
+| [Nagiha - Ignitensity](https://soundcloud.com/nagiha/ign) | [#1](https://osu.ppy.sh/beatmapsets/2012097) | Grand Finals HD3 |
 
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
