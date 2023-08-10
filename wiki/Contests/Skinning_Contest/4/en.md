@@ -30,7 +30,7 @@ The above banner features [Kleinne Lui's](https://osu.ppy.sh/users/27725651) ent
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
 
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge@2x.png "Skinning Contest #4 winner badge") ![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png "Skinning Contest #4 2nd-place badge") ![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png "Skinning Contest #4 3rd-place badge")
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/1st_badge@2x.png "Skinning Contest #4 winner badge") ![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png "Skinning Contest #4 2nd-place badge") ![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png "Skinning Contest #4 3rd-place badge")
 
 ## Organisation
 
