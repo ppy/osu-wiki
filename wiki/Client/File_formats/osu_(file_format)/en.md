@@ -183,37 +183,33 @@ All options in this section represent colours. They are comma-separated triplets
 - **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) of the object.
 - **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
-- **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsounds section](#hitsounds).
+- **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsound section](#hitsounds).
 - **`objectParams` (Comma-separated list):** Extra parameters specific to the object's type.
 - **`hitSample` (Colon-separated list):** Information about which samples are played when the object is hit. It is closely related to `hitSound`; see [the hitsounds section](#hitsounds). If it is not written, it defaults to `0:0:0:0:`.
 
 ### Type
 
-Hit object type is an 8-bit integer where each bit is a flag with special meaning.
+The hit object's type parameter is an 8-bit integer where each bit is a flag with special meaning.
 
-| Bit index | Decimal value | Meaning |
-| :-- | :-- | :-- |
-| 0 | 1 | Marks the object as a hit circle |
-| 1 | 2 | Marks the object as a slider |
-| 2 | 4 | Marks the start of a new combo |
-| 3 | 8 | Marks the object as a spinner  |
-| 4 | 16 | "Colour hax" |
-| 5 | 32 | "Colour hax" |
-| 6 | 64 | "Colour hax" |
-| 7 | 128 | Marks the object as an osu!mania hold note. |
-
-"Colour hax" is a 3-bit integer specifying how many combo colours to skip. Only relevant if this object starts a new combo.
+| Bit index | Meaning |
+| :-- | :-- |
+| 0 | Marks the object as a hit circle |
+| 1 | Marks the object as a slider |
+| 2 | Marks the start of a new combo |
+| 3 | Marks the object as a spinner  |
+| 4, 5, 6 | A 3-bit integer specifying how many combo colours to skip, a practice referred to as "colour hax". Only relevant if the object starts a new combo. |
+| 7 | Marks the object as an osu!mania hold note. |
 
 ### Hitsounds
 
 The `hitSound` bit flags determine which sounds will play when the object is hit:
 
-| Bit index | Decimal value | Meaning |
-| :-- | :-- | :-- |
-| 0 | 1 | Normal |
-| 1 | 2 | Whistle |
-| 2 | 4 | Finish |
-| 3 | 8 | Clap |
+| Bit index | Meaning |
+| :-- | :-- |
+| 0 | Normal |
+| 1 | Whistle |
+| 2 | Finish |
+| 3 | Clap |
 
 If no bits are set, the normal hitsound is used by default.
 
