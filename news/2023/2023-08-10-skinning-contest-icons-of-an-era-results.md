@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skinning Contest: Icons of an Era - Results"
-date: 2023-08-05 00:00:00 +0000
+date: 2023-08-10 19:00:00 +0000
 ---
 
 Tune in to find out the results for the latest skinning contest, and snag yourself some amazing skins centred around the past 15 years of osu!
 
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/banner.jpg)
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/banner.jpg)
 
 The community has spoken with **3792** players casting a total of **9981** votes across **16** different top-of-the-notch skins, and out of all entries, the following 3 have climbed their way to the podium:
 
@@ -22,7 +22,7 @@ Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.s
 
 Unfortunately for thetasigma, they were unable to get their [2nd win in a row](/wiki/Contests/Skinning_Contest/3#podium), but by now they have become a household name in the skinning community by repeatedly creating top-of-the-line skins, regardless of the theme. Congratulations on the 3rd place and a new badge to illuminate their profile!
 
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png)
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png)
 
 ## 2nd Place - Everlasting Moment
 
@@ -36,7 +36,7 @@ Time stood still as **1058** voters cast their votes, resulting in a very close 
 
 We are very impressed with the quality of their work and cannot wait to see what else they have to offer. Congratulations on the 2nd place and, now etched on their profile, a timeless memory.
 
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png)
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png)
 
 ## Winner - FOOL MOON NIGHT
 
@@ -50,7 +50,7 @@ Inspired from the [2016 map of *A FOOL MOON NIGHT*](https://osu.ppy.sh/beatmapse
 
 And of course, such lunacy is awarded with a badge that stares right into your soul.
 
-![](/wiki/shared/news/2023-08-05-skinning-contest-icons-of-an-era-results/1st_badge@2x.png)
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/1st_badge@2x.png)
 
 ---
 
