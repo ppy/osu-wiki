@@ -33,7 +33,6 @@
 ## Игра
 
 - [Как использовать мастер настройки оффсета](How_to_use_the_Offset_Wizard)
-- [Поиск и скачивание карт](Searching_and_downloading_beatmaps)
 - [Руководство по покупке планшета](Tablet_purchase)
 - [Туториал для начинающих](Beginner's_tutorial)
 

@@ -25,7 +25,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Touche de raccourci par défaut : `D` `D` ou `Shift`+`D`
+- Touche de raccourci par défaut : `D` `D` ou `Shift` + `D`
 - Légende : `uguuuu~`
 - Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante : [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
