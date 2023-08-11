@@ -9,22 +9,22 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 3 de Beatmaps Destacados (Invierno 2021)
+# Temporada 3 de Beatmaps Spotlights (Invierno 2021)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 18 ene. 2021 |
-| Sala temporal: Lista de juego A | 18 ene. - 25 ene. 2021 |
-| Sala temporal: Lista de juego B | 25 ene. - 1 feb. 2021 |
-| Sala temporal: Lista de juego C | 1 feb. - 8 feb. 2021 |
-| Sala temporal: Lista de juego D | 8 feb. - 15 feb. 2021 |
+| Sala temporal: Playlist A | 18 ene. - 25 ene. 2021 |
+| Sala temporal: Playlist B | 25 ene. - 1 feb. 2021 |
+| Sala temporal: Playlist C | 1 feb. - 8 feb. 2021 |
+| Sala temporal: Playlist D | 8 feb. - 15 feb. 2021 |
 | Descanso | 15 feb. - 22 feb. 2021 |
-| Sala temporal: Lista de juego A | 22 feb. - 1 mar. 2021 |
-| Sala temporal: Lista de juego B | 1 mar. - 8 mar. 2021 |
-| Sala temporal: Lista de juego C | 8 mar. - 15 mar. 2021 |
-| Sala temporal: Lista de juego D | 15 mar. - 22 mar. 2021 |
+| Sala temporal: Playlist A | 22 feb. - 1 mar. 2021 |
+| Sala temporal: Playlist B | 1 mar. - 8 mar. 2021 |
+| Sala temporal: Playlist C | 8 mar. - 15 mar. 2021 |
+| Sala temporal: Playlist D | 15 mar. - 22 mar. 2021 |
 | Conclusión de la temporada | 22 mar. 2021 |
 
 ## Salas multijugador semanales
