@@ -16,11 +16,13 @@ The **COE 2023 1v1 osu! Tournament** was a 1v1 single-elimination osu! LAN tourn
 
 ## Prizes
 
+The COE 2023 1v1 osu! Tournament offered a cash prize pool of 2,500 € courtesy of the osu! team as well as keyboards provided by [Wooting](https://wooting.io/).
+
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Wooting 60HE keyboard, 1,200 EUR |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Wooting 60HE keyboard, 800 EUR |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Wooting 60HE keyboard, 500 EUR |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Wooting 60HE keyboard, 1,200 € |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Wooting 60HE keyboard, 800 € |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Wooting 60HE keyboard, 500 € |
 
 <!-- ## Organisation -->
 
