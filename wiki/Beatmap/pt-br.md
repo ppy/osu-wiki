@@ -9,7 +9,7 @@ no_native_review: true
 
 # Beatmap
 
-Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jogo ([dificuldades](#dificuldade)) que são compostos por vários [*hit objects*](/wiki/Gameplay/Hit_object) e quase sempre apresentam uma única música. Ele também inclui outros componentes, todos compactados em um arquivo com a [extensão `.osz`](/wiki/Client/File_formats/Osz_(file_format)):
+Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jogo ([dificuldades](#dificuldade)) que são compostos por vários [*hit objects*](/wiki/Gameplay/Hit_object) e quase sempre apresentam uma única música. Ele também inclui outros componentes, todos compactados em um arquivo com a [extensão `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - a própria música, armazenada em formato MP3 ou Ogg.
 - [imagens de fundo](/wiki/Beatmap/Background), ou um vídeo, agindo como um campo de jogo.
@@ -23,7 +23,7 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 
 *Artigo principal: [Dificuldade](/wiki/Beatmap/Difficulty)*
 
-Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/Client/File_formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmap/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
+Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/Client/File_formats/osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmap/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
 
 ## Envio
 

@@ -7,8 +7,10 @@
 - [账户支持团队](Account_support_team)
 - [谱面审核成员 (BN)](Beatmap_Nominators)
 - [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators)
+- [百夫长](Centurions)
 - [社区贡献者](Community_Contributors)
 - [开发者](Developers)
+- [优秀提名者](Elite_Nominators)
 - [精选艺术家](Featured_Artists)
 - [全局管理团队 (GMT)](Global_Moderation_Team)
 - [审核评估团队 (NAT)](Nomination_Assessment_Team)
@@ -19,13 +21,13 @@
 - [osu! 名人堂 (Alumni)](osu!_Alumni)
 - [osu! 核心成员](The_Team)
 - [osu! wiki 维护者](osu!_wiki_maintainers)
-- [osu! 月刊团队](osu!monthly_team)
 
 ## 过去
 
 - [谱面评估团队 (BAT)](Beatmap_Appreciation_Team)
 - [语言监督部门 (LSD)](Language_Surveillance_Division)
 - [谱面协助团队 (MAT)](Mapping_Assistance_Team)
+- [osu! 月刊团队](osu!monthly_team)
 - [质量保证团队 (QAT)](Quality_Assurance_Team)
 
 ## 其他

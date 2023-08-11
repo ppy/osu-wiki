@@ -5,7 +5,7 @@ tags:
 
 # Featured Artists
 
-**Featured Artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in the [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live streams.
+**Featured Artists** (***FA***) are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in the [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live streams.
 
 The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 
@@ -44,7 +44,9 @@ If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, t
 
 ## Featured Artists with osu! accounts
 
-Featured Artists with osu! accounts are given the **Featured Artist** [title](/wiki/Community/User_title) and [user group](/wiki/People/User_group) to show their involvement. The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
+Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
+
+The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
 | User | Artist |
 | :-- | :-- |
@@ -67,6 +69,7 @@ Featured Artists with osu! accounts are given the **Featured Artist** [title](/w
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
+| ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
@@ -77,6 +80,7 @@ Featured Artists with osu! accounts are given the **Featured Artist** [title](/w
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
+| ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |

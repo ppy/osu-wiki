@@ -30,7 +30,7 @@ tags:
 
 Mod **Autopilot** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) untuk [osu!](/wiki/Game_mode/osu!) yang akan mengontrol pergerakan kursor dan secara sistematis berpindah tepat ke tengah [hit object](/wiki/Gameplay/Hit_object) berikutnya, dan menyerahkan tapping kepada pemain. Saat bermain dengan menggunakan mod Autopilot, pemain tidak akan bisa menggerakkan kursor mereka, kecuali mereka sedang berada di layar jeda (pause).
 
-Mod Autopilot juga menonaktifkan antarmuka in-game sehingga [skor](/wiki/Gameplay/Score), [kombo](/wiki/Beatmapping/Combo), dan miss menjadi tidak terlihat, meskipun hal tersebut dapat diaktifkan kembali dengan menekan tombol `Shift`+`Tab`.
+Mod Autopilot juga menonaktifkan antarmuka in-game sehingga [skor](/wiki/Gameplay/Score), [kombo](/wiki/Beatmapping/Combo), dan miss menjadi tidak terlihat, meskipun hal tersebut dapat diaktifkan kembali dengan menekan tombol `Shift` + `Tab`.
 
 Selain itu, nilai spins per minute (SPM) yang dilakukan oleh mod Autopilot juga sama seperti spin per minute yang dilakukan oleh mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out). Dengan demikian, pemain tidak dapat meningkatkan SPM dengan cara memutar spinner menggunakan kursor mereka.
 

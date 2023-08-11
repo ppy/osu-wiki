@@ -1,35 +1,26 @@
----
-outdated_translation: true
----
+# Come usare la Taratura Guidata dell'Offset 
 
-# How to use the offset wizard (Bahasa Indonesia)
+*Vedi anche: [Taratura Guidata dell'Offset](/wiki/Client/Options/Offset_Wizard) e [Offset universale](/wiki/Offset/Universal_offset)*
 
-*[Clicca per tornare ad Offset Audio Universale](/wiki/Client/Options/Offset_Wizard)*
+Se gli [hitsound](/wiki/Beatmapping/Hitsound) non risultano sincronizzati con la musica in ogni beatmap che giochi, molto probabilmente dovrai cambiare il tuo [offset universale](/wiki/Offset/Universal_offset). Il modo più facile per farlo è utilizzando la **Taratura Guidata dell'Offset**.
 
-## Offset Universale
+Segui i seguenti passaggi per regolare il tuo offset universale utilizzando la Taratura Guidata dell'Offset.
 
-L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. Puoi trovare questa opzione sotto [Opzioni](/wiki/Client/Options).
+## Aprire l'Offset Wizard
 
-## Impostare L'Offset Universale
+1. Apri osu!.
+2. Vai al menù `Opzioni`, o premi `Ctrl` + `O`.
+3. Cerca "offset" nella barra di ricerca rapida, e premi sul pulsante `Taratura guidata dell'offset`.
 
-Per impostarlo correttamente, segui questa procedura:
+La procedura di taratura guidata dell'offset inizierà, riproducendo un brano precedentemente riprodotto, mentre delle barre verdi verticali scorreranno sullo schermo orizzontalmente. Si potrà udire anche un metronomo, per tenere il ritmo.
 
-1. Vai sulle opzioni e disattiva il Volume degli effetti a 0%.
-2. Scarica [questa](https://osu.ppy.sh/beatmapsets/4659) beatmap.
-3. Trovala nella tua lista delle beatmap.
-4. Premi F3 e 5.
-5. Scorri un po con il tuo mouse, poi vai all'inizio della beatmap.
-6. Clicca sul pulsante "Test".
-7. Ascolta il ritmo, vedi quando dovresti premere i cerchi.
-8. Ricomincia, chiudi gli occhi e premi a ritmo; clicca per circa 16 volte.
-9. Apri gli occhi e guarda se i millisecondi sono troppo in anticipo o troppo in ritardo.
-10. Vai nelle opzioni e imposta il tuo Offset Universale -X se è troppo in ritardo e X se è troppo presto.
-11. Ripeti i punti 2-9 di nuovo, questa volta il valore del ritardo/anticipo dovrebbe essere minore.
-12. Ripedi il decimo punto finchè la differenza diventa davvero piccola (all'incirca di 4ms).
-13. Divertiti a premere *effettivamente* a ritmo!
+## Tarare l'offset universale
 
-## Nota
+1. Ascolta attentamente la musica e il metronomo contemporaneamente.
+2. Inizia a regolare l'offset universale su o giù, usando le corrispondenti freccette, o la rotellina del mouse.
+   - Se gli hitsound ti sembrano troppo in anticipo rispetto alla musica, dovrai *diminuire* il tuo offset universale.
+   - Se gli hitsound ti sembrano troppo in ritardo rispetto alla musica, dovrai *aumentare* il tuo offset universale.
+3. Modificalo fin quando il ritmo del metronomo e la musica non combaciano perfettamente, aiutandoti con le barre che scorrono sullo schermo.
+4. Una volta calibrato l'offset universale con successo, premi il pulsante `Indietro` in basso a sinistra dello schermo per uscire dalla procedura di Taratura Guidata dell'Offset.
 
-Cambiando le impostazioni video a schermo intero o vice versa (lo schermo intero è raccomandato per il minore ritardo di input) può richiedere la ricalibratura dell'offset. E' raccomandato il volume degli effetti impostato a 0%, perchè potrebbe essere in ritardo, dunque, potrebbe rovinare le cose. Non è accertato se funziona correttamente per DT/NC.
-
-Questa informazione è per la modalità [osu!standard](/wiki/Game_mode/osu!), perciò altre modalità come [osu!taiko](/wiki/Game_mode/osu!taiko) o [osu!mania](/wiki/Game_mode/osu!mania) potrebbe richiedere offset differenti.
+Se il metronomo ti sembra troppo veloce o troppo lento per la musica, potresti voler abilitare il `Mezzo tick` o il `Doppio tick` in alto a sinistra dello schermo per facilitare le cose.

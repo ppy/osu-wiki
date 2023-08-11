@@ -68,7 +68,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 
 #### Guidelines
@@ -101,7 +101,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 
 #### Guidelines
@@ -142,7 +142,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
   - Ambiguous sliders with follow circles that cover the whole slider path are allowed, assuming the slider borders are straightforward.
 
@@ -174,7 +174,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap),** especially on simpler Insane difficulties.
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Avoid cross screen [jumps](/wiki/Beatmap/Pattern/osu!/Jump) and [streams](/wiki/Beatmap/Pattern/osu!/Stream) whose circles do not [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognise the reverse arrow.
@@ -196,7 +196,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty setting guidelines

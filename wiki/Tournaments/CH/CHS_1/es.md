@@ -14,13 +14,13 @@ La **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! de doble-elimi
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de registro | 2020-07-05/2020-07-26 |
-| Eliminatorias | 2020-08-06/2020-08-09 |
-| Octavos de Final | 2020-08-15/2020-08-17 |
-| Cuartos de Final | 2020-08-22/2020-08-26 |
-| Semifinales | 2020-08-29/2020-08-31 |
-| Finales | 2020-09-04/2020-09-06 |
-| Grandes Finales | 2020-09-12/2020-09-13 |
+| Fase de registro | 5/7/2020 - 26/7/2020 |
+| Eliminatorias | 6/8/2020 - 9/8/2020 |
+| Octavos de Final | 15/8/2020 - 17/8/2020 |
+| Cuartos de Final | 22/8/2020 - 26/8/2020 |
+| Semifinales | 29/8/2020 - 31/8/2020 |
+| Finales | 4/9/2020 - 6/9/2020 |
+| Grandes Finales | 12/9/2020 - 13/9/2020 |
 
 ## Premios
 
