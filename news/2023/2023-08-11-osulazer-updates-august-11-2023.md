@@ -22,7 +22,7 @@ Before we jump straight into the updates, you can also find them in a video form
 - **Gameplay and multiplayer changes.** Offset drift issues should be fixed, per-beatmap offset calibration now applies to all difficulties at once, spinners now spin faster, and there's now a quick toggle for enabling all free mods when selecting maps in multiplayer.
 - **Storyboard rendering fixes when spectating in multiplayer.** Some storyboards would previously render as transparent, which could cause all kinds of jank when spectating. Not anymore.
 - **Cyclical selection for overlapping objects in the editor.** This one is easiest understood by example: got a stack of 8 circles, but want to select the 3rd one from the top? Just click the stack 3 times. This was a feature in the skin editor which has now been ported over.
-- **Major performance improvements on mobile devices.** This is a big one. On iOS and Android, performance should be at least *doubled*. Maybe an app store release isn't far off?
+- **Major performance improvements on mobile devices.** This is a big one. On iOS (and maybe next release on Android), performance should be at least *doubled*. Maybe an app store release isn't far off?
 
 Do you want to know *everything* about the latest update, even all of those nerdy details we just mentioned? Well you are in luck, the full list of changes are up on the [changelog](yeahsoonTM)!
 
