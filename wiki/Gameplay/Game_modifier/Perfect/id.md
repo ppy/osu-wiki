@@ -5,6 +5,8 @@ tags:
   - mod
   - game modifier
   - PF
+outdated_translation: true
+outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # Perfect (mod)
@@ -33,7 +35,7 @@ Hal-hal berikut akan **menyebabkan** mod Perfect untuk mengulangi betamap:
 - Meleset dalam mengenai sebuah not
 - Mendapatkan sebuah `100` atau `50`
 - Gagal menyelesaikan sebuah spinner sepenuhnya
-- *Sliderbreaking* 
+- *Sliderbreaking*
 
 Hal-hal berikut **tidak akan** menyebabkan mod Perfect untuk mengulangi beatmap:
 
@@ -42,7 +44,7 @@ Hal-hal berikut **tidak akan** menyebabkan mod Perfect untuk mengulangi beatmap:
 - Mendapatkan skor Rainbow 300/MAX ([osu!mania](/wiki/Game_mode/osu!mania))
 - Mendapatkan sebuah nilai skor 300 (osu!mania)
 
-Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode)
+Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode).
 
 ## Trivia
 

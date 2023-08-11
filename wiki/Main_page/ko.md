@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 ---
 
 <div class="wiki-main-page__blurb">
@@ -115,7 +113,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 [osu! 팀](/wiki/People/osu!_team) • [개발자](/wiki/People/Developers) • [공식 아티스트](/wiki/People/Featured_Artists) • [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) • [지원 팀](/wiki/People/Support_Team) • [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) • [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved 팀](/wiki/People/Project_Loved_Team) • [비트맵 스포트라이트 큐레이터](/wiki/People/Beatmap_Spotlight_Curators)
 
-[커뮤니티 기여자](/wiki/People/Community_Contributors) • [유저 그룹](/wiki/People/User_group) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [센츄리온](/wiki/People/Centurions) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
+[커뮤니티 기여자](/wiki/People/Community_Contributors) • [엘리트 노미네이터](/wiki/People/Elite_Nominators) • [유저 그룹](/wiki/People/User_group) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [센츄리온](/wiki/People/Centurions) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -24,7 +24,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - 默认快捷键： `F`
-  - [osu!mania](/wiki/Game_mode/osu!mania) 中的默认快捷键： `F` `F` 或 `Shift`+`F`
+  - [osu!mania](/wiki/Game_mode/osu!mania) 中的默认快捷键： `F` `F` 或 `Shift` + `F`
 - 描述：
   - ![][osu!]: `没有缩圈，圆圈渐隐，分数略微提高。`
   - ![][osu!taiko]: `物件会在击打之前渐渐隐藏。`
@@ -73,7 +73,7 @@ tags:
 
 - Hidden 模组首次出现于 Ouendan 2 中，是日本 DS 系列游戏 [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) （osu! 基于此系列而成）中的第二部。
 - 若使用此模组以 S 或 SS 等级完成谱面，玩家则会获得银 S 或银 SS 等级。
-- 默认情况下，在 [osu!](/wiki/Game_mode/osu!) 中，谱面开头第一个[打击物件](/wiki/Gameplay/Hit_object)的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)会临时可见，以帮助玩家更好估计点击物件的时机。可以在设置中的`游戏`栏目关闭此功能。
+- 默认情况下，在 [osu!](/wiki/Game_mode/osu!) 中，谱面开头第一个[打击物件](/wiki/Gameplay/Hit_object)的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)会临时可见，以帮助玩家更好估计点击物件的时机。可以在[设置](/wiki/Client/Options)中的`游戏`栏目关闭此功能。
 - 在 osu!mania 中，此模组的变体是 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组。
 - 当前版本 osu!mania 中 Hidden 模组的前身是单独的 [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) 模组。
 

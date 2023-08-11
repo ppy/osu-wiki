@@ -32,7 +32,6 @@
 
 ## 游玩
 
-- [如何搜索并下载谱面](Searching_and_Downloading_Beatmaps)
 - [如何使用偏移量设置向导](How_to_Use_the_Offset_Wizard)
 - [数位板购买指南](Tablet_Purchase)
 - [新手教程](Beginner's_Tutorial)
