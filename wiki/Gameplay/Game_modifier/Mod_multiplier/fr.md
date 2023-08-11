@@ -10,7 +10,7 @@ tags:
 # Le mod multiplier
 
 *À ne pas confondre avec [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
-*Voir également : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+*Voir également : [Modificateurs de partie](/wiki/Gameplay/Game_modifier)*
 
 ## Description
 
