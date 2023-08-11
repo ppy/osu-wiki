@@ -11,7 +11,7 @@ Tune in for the latest batch of improvements the game!
 Before we jump straight into the updates, you can also find them in a video format below, presented by [pishifat](https://osu.ppy.sh/users/3178418), [peppy](https://osu.ppy.sh/users/2) and *a few other guests*:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/IShBf1xuRho" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JLqhjygGDYI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Changes
