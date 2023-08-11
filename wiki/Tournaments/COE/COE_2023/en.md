@@ -16,7 +16,7 @@ The **COE 2023 1v1 osu! Tournament** was a 1v1 single-elimination osu! LAN tourn
 
 ## Prizes
 
-The COE 2023 1v1 osu! Tournament offered a cash prize pool of 2,500 € courtesy of the osu! team as well as keyboards provided by [Wooting](https://wooting.io/).
+The COE 2023 1v1 osu! Tournament offered a total cash prize pool of 2,500 €, including a contribution of 1,000 € from the osu! team, as well as keyboards provided by [Wooting](https://wooting.io/).
 
 | Placing | Prize(s) |
 | :-: | :-- |
