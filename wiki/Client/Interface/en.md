@@ -144,49 +144,13 @@ Sort beatmaps in a certain order.
 
 ### Search
 
+*Main article: [Beatmap search](/wiki/Beatmap_search)*
+
 ![](img/search-bar.jpg)
 
-*Note: You cannot have the chat console or the options sidebar open if you want to search. Otherwise, anything you type will be perceived as chat text or as an options search query.*
+The search bar allows for filtering difficulties that match some criteria. By default, osu! runs full-text search, only showing results that contain all of the specified words. In addition to that, it is possible to search by [approach rate](/wiki/Beatmap/Approach_rate), [star rating](/wiki/Beatmap/Star_rating), and many more values using a set of filters such as `ar=8` or `stars>=5`.
 
-Only beatmaps that match the criteria of your search will be shown. By default, any search will be matched against the beatmaps' artists, titles, creators, and tags.
-
-In addition to searching these fields, you can use filters to search through other metadata by combining one of the supported filters with a comparison to a value (for example, `ar=9`).
-
-Supported filters:
-
-| Filter | Description |
-| :-: | :-- |
-| `artist` | Name of the artist |
-| `creator` | Name of the beatmap creator |
-| `title` | Name of the track |
-| `difficulty` | Name of the beatmap difficulty |
-| `ar` | [Approach Rate](/wiki/Beatmap/Approach_rate) |
-| `cs` | [Circle Size](/wiki/Beatmap/Circle_size) |
-| `od` | [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) |
-| `hp` | [HP drain rate](/wiki/Beatmap/HP_drain_rate) |
-| `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
-| `star`, `stars` | [Star rating](/wiki/Beatmap/Star_rating) |
-| `bpm` | Beats per minute |
-| `length` | Length in seconds |
-| `drain` | [Drain time](/wiki/Beatmap/Drain_time) in seconds |
-| `mode` | Game mode. This can be one of `osu`, `taiko`, `catch`, or `mania`, or `o`/`t`/`c`/`m` for short. |
-| `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
-| `played` | Time since last played in days |
-| `unplayed` | Shows only unplayed maps. A comparison with no set value must be used (e.g. `unplayed=`). The comparison itself is ignored. |
-| `speed` | Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [`Remember osu!mania scroll speed per beatmap`](/wiki/Client/Options#gameplay) option is off. |
-
-Supported comparisons:
-
-| Comparison | Description |
-| :-: | :-- |
-| `=` or `==` | Equal to |
-| `!=` | Not equal to |
-| `<` | Less than |
-| `>` | Greater than |
-| `<=` | Less than or equal to |
-| `>=` | Greater than or equal to |
-
-You may also enter a difficulty or beatmap ID number in your search to get a single result.
+To search beatmaps, simply start typing when at the song select screen (without the options or chat panel open).
 
 ### Rankings
 

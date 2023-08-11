@@ -36,7 +36,6 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 
 - [初心者向けチュートリアル](Beginner's_Tutorial)
 - [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
-- [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)
 
 ## スキニング
