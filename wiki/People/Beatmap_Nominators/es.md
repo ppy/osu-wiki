@@ -232,6 +232,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 
 ## Historia
 
-- Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
+- Los Beatmap Nominators fueron previamente llamados el [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
 - El 22 de agosto de 2014, el BAT dejó de ser considerado parte del personal del equipo. Esto revocó su habilidad para poder moderar el chat y su nombre rojo de los foros y dentro del juego.
 - El 1 de febrero de 2015, el equipo se cambió de *Beatmap Appreciation Team* a *Beatmap Nomination Group*, luego fue ajustado a Beatmap Nominators que conocemos hoy en día.

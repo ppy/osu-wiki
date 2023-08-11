@@ -35,7 +35,7 @@ Ce mod a le même effet dans tous les modes de jeu.
 
 ## Le saviez-vous ?
 
-- Le mod ScoreV2 a été introduit dans le build du 22 février 2017 [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
+- Le mod ScoreV2 a été introduit dans le build du 22 février 2017 [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
