@@ -24,7 +24,7 @@ Before we jump straight into the updates, you can also find them in a video form
 - **Cyclical selection for overlapping objects in the editor.** This one is easiest understood by example: got a stack of 8 circles, but want to select the 3rd one from the top? Just click the stack 3 times. This was a feature in the skin editor which has now been ported over.
 - **Major performance improvements on mobile devices.** This is a big one. On iOS (and maybe next release on Android), performance should be at least *doubled*. Maybe an app store release isn't far off?
 
-Do you want to know *everything* about the latest update, even all of those nerdy details we just mentioned? Well you are in luck, the full list of changes are up on the [changelog](yeahsoonTM)!
+Do you want to know *everything* about the latest update, even all of those nerdy details we just mentioned? Well you are in luck, the full list of changes are up on the [changelog](https://osu.ppy.sh/home/changelog/lazer/2023.811.0)!
 
 You may also watch the above video above, and notice that it was recorded at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event/2023) last week. Another thing you may notice is that some of the optimisations and changes in this update were specifically made to help deliver the best experience for the [osu! tournament](/wiki/Tournaments/COE/COE_2023) played entirely in osu!(lazer) during the event.
 
