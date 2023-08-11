@@ -1,10 +1,18 @@
 # Community Contributors
 
-![](/wiki/shared/contributor.jpg "Contributor badge")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+:::
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves — tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
 Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+
+Contributors who registered their accounts during an older era of the game have the [original badge design](#history) on their profile, while newer contributors receive a more colourful variant.
 
 <!-- The "Contributions" column of recent years comes from text in the linked news posts. Don't use the text on the badge itself, and don't edit any wording (besides links, etc.) -clayton -->
 
@@ -213,3 +221,13 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previou
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Outstanding contribution to the osu! IRL events and tournament scene |
+
+## History
+
+During 2018, the old contributor badge was redesigned due to not matching the new website's colour scheme.
+
+![1st design change comparison](img/design-change-1.png)
+
+The design was then changed once again on 21 July 2023, this time split into two versions of the old design, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
+
+![2nd design change comparison](img/design-change-2.png)
