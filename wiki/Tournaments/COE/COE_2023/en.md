@@ -2,7 +2,7 @@
 
 ![COE 2023 1v1 osu! Tournament banner](img/banner.png)
 
-The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the third instalment of the COE tournament series.
+The **COE 2023 1v1 osu! Tournament** was a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the third instalment of the COE tournament series.
 
 ## Tournament schedule
 
@@ -27,6 +27,7 @@ The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tourna
 ## Links
 
 - **[Information sheet](https://docs.google.com/spreadsheets/d/1FWwSZUFR5y2FUd2anISsCner7V8YYItCK9olnmMLyOw/edit#gid=0)**
+- [Challonge bracket](https://challonge.com/COE2023)
 - [COE website](https://cavoeboy.com/tournament)
 - [Livestream](https://discord.com/invite/d6ru6PVcSY)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)
@@ -41,6 +42,16 @@ The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tourna
 | 17–32 | ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=FR }:: [MBAPPEEEEEEEEEE](https://osu.ppy.sh/users/7657831), ::{ flag=FR }:: [CharleLee](https://osu.ppy.sh/users/10434787), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=DK }:: [Polle](https://osu.ppy.sh/users/13218204), ::{ flag=LV }:: [Rimuru](https://osu.ppy.sh/users/9269034), ::{ flag=FR }:: [Hifkil](https://osu.ppy.sh/users/4301976), ::{ flag=IT }:: [kiirochii](https://osu.ppy.sh/users/6387149), ::{ flag=NL }:: [Manievat](https://osu.ppy.sh/users/6744123), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=FR }:: [Lexonox](https://osu.ppy.sh/users/7640581) |
 | 33–48 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556), ::{ flag=DE }:: [Th1](https://osu.ppy.sh/users/15441612), ::{ flag=FI }:: [Xepei](https://osu.ppy.sh/users/11479551), ::{ flag=DK }:: [SobuTheOne](https://osu.ppy.sh/users/13872272), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=FR }:: [Arakii](https://osu.ppy.sh/users/6133101), ::{ flag=DE }:: [-Vid](https://osu.ppy.sh/users/8105655), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=FR }:: [TotorPotate](https://osu.ppy.sh/users/18323396), ::{ flag=PL }:: [\_demo](https://osu.ppy.sh/users/3556891), ::{ flag=UA }:: [magnatagamer123](https://osu.ppy.sh/users/7587763), ::{ flag=AT }:: [z10a](https://osu.ppy.sh/users/18153252), ::{ flag=DE }:: [iFakeRz](https://osu.ppy.sh/users/5281485), ::{ flag=HU }:: [Glasswave](https://osu.ppy.sh/users/5442931), ::{ flag=IS }:: [Arni](https://osu.ppy.sh/users/7189845), ::{ flag=FR }:: [Thundur](https://osu.ppy.sh/users/4141918) |
 | *N/A* | ::{ flag=GB }:: [Akolibed](https://osu.ppy.sh/users/9269034), ::{ flag=BG }:: [Anniee](https://osu.ppy.sh/users/12457399), ::{ flag=DE }:: [Bazuso](https://osu.ppy.sh/users/11726139), ::{ flag=DK }:: [Bertilber](https://osu.ppy.sh/users/13175328), ::{ flag=FR }:: [BProd](https://osu.ppy.sh/users/11345747), ::{ flag=DE }:: [ByeDreamZ](https://osu.ppy.sh/users/10332811), ::{ flag=DK }:: [ckhrix](https://osu.ppy.sh/users/10049665), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=IT }:: [Denay](https://osu.ppy.sh/users/15941539), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=NL }:: [Julskills](https://osu.ppy.sh/users/18204934), ::{ flag=DE }:: [Katharsis](https://osu.ppy.sh/users/10212942), ::{ flag=SE }:: [LelleOne](https://osu.ppy.sh/users/22237693), ::{ flag=IL }:: [Lindeks](https://osu.ppy.sh/users/28655737), ::{ flag=ES }:: [M4rti\_](https://osu.ppy.sh/users/17018032), ::{ flag=CH }:: [Mebura](https://osu.ppy.sh/users/15324900), ::{ flag=BE }:: [Meersu](https://osu.ppy.sh/users/6311605), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=RO }:: [origin on osu](https://osu.ppy.sh/users/15095811), ::{ flag=DE }:: [ramonTV](https://osu.ppy.sh/users/17018890), ::{ flag=DE }:: [Raptide](https://osu.ppy.sh/users/8268978), ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143), ::{ flag=FI }:: [Seva](https://osu.ppy.sh/users/10615940), ::{ flag=DE }:: [Shiragi](https://osu.ppy.sh/users/8788898), ::{ flag=FR }:: [Speykious](https://osu.ppy.sh/users/19553508), ::{ flag=GB }:: [Stormur](https://osu.ppy.sh/users/19364028), ::{ flag=SE }:: [Svizza](https://osu.ppy.sh/users/9894718), ::{ flag=NL }:: [Xella37](https://osu.ppy.sh/users/11783890), ::{ flag=FR }:: [XiaoMyMommy](https://osu.ppy.sh/users/11129041), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=BE }:: [Z3nix](https://osu.ppy.sh/users/18124611) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [cat burger](https://osu.ppy.sh/users/11380904) |
 
 ## Mappools
 
@@ -83,6 +94,36 @@ The **COE 2023 1v1 osu! Tournament** is a 1v1 single-elimination osu! LAN tourna
   2. [HuMeR - ChaserXX (KKipalt) [KKip's Another]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
 
 ## Match results
+
+### Finals
+
+Friday, 4 August 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **criller** ::{ flag=DE }:: | **4** | 0 | ::{ flag=DE }:: ZeitFrost | [#1](https://osu.ppy.sh/multiplayer/rooms/398959) |
+| Bubbleman ::{ flag=GB }:: | 2 | **4** | ::{ flag=SM }:: **chihuahua** | [#1](https://osu.ppy.sh/multiplayer/rooms/398830) |
+| **cat burger** ::{ flag=DK }:: | **4** | 3 | ::{ flag=DE }:: Sh3rg\_ | [#1](https://osu.ppy.sh/multiplayer/rooms/398981) |
+| FlasTEH ::{ flag=FR }:: | 3 | **4** | ::{ flag=FI }:: **Amasetic** | [#1](https://osu.ppy.sh/multiplayer/rooms/398768) |
+| akarinya ::{ flag=DE }:: | 1 | **4** | ::{ flag=DE }:: **yary** | [#1](https://osu.ppy.sh/multiplayer/rooms/398793) |
+| **Cracento** ::{ flag=US }:: | **4** | 2 | ::{ flag=DE }:: Fleh | [#1](https://osu.ppy.sh/multiplayer/rooms/399026) |
+| **FlyingTuna** ::{ flag=KR }:: | **4** | 1 | ::{ flag=NO }:: Melvr | [#1](https://osu.ppy.sh/multiplayer/rooms/398906) |
+| **ninerik** ::{ flag=NO }:: | **4** | 2 | ::{ flag=BR }:: zubs | [#1](https://osu.ppy.sh/multiplayer/rooms/398874) |
+| **criller** ::{ flag=DE }:: | **4** | 3 | ::{ flag=SM }:: **chihuahua** | [#1](https://osu.ppy.sh/multiplayer/rooms/399059) |
+| **cat burger** ::{ flag=DK }:: | **4** | 2 | ::{ flag=FI }:: Amasetic | [#1](https://osu.ppy.sh/multiplayer/rooms/399114) |
+| yary ::{ flag=DE }:: | 1 | **4** | ::{ flag=US }:: **Cracento** | [#1](https://osu.ppy.sh/multiplayer/rooms/399143) |
+| **FlyingTuna** ::{ flag=KR }:: | **4** | 3 | ::{ flag=NO }:: ninerik | [#1](https://osu.ppy.sh/multiplayer/rooms/399498) |
+
+Saturday, 5 August 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=DK }:: cat burger | [#1](https://osu.ppy.sh/multiplayer/rooms/399550) |
+| Cracento ::{ flag=US }:: | 1 | **5** | ::{ flag=KR }:: **FlyingTuna** | [#1](https://osu.ppy.sh/multiplayer/rooms/399574) |
+| **cat burger** ::{ flag=DK }:: | **5** | 2 | ::{ flag=US }:: Cracento | [#1](https://osu.ppy.sh/multiplayer/rooms/399700) |
+| **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=KR }:: FlyingTuna | [#1](https://osu.ppy.sh/multiplayer/rooms/399751) |
+
+### Qualifiers
 
 ![Qualifier results 1–16](img/results-qf-1.png)
 
