@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
+---
+
 # Mitwirkende der Community
 
 ![Contributor-Abzeichen](/wiki/shared/contributor.jpg "Contributor-Abzeichen")
