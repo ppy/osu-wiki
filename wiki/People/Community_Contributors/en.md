@@ -230,6 +230,6 @@ During 2018, the old contributor badge was redesigned due to not matching the ne
 
 ![1st design change comparison](img/design-change-1.png)
 
-The design was then changed once again on 21 July 2023, this time split into two versions of the old design, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
+The design was changed again on 21 July 2023, this time split into two versions of the initial design, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
 
 ![2nd design change comparison](img/design-change-2.png)
