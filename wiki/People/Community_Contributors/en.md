@@ -1,11 +1,11 @@
 # Community Contributors
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
 :::
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves — tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.

@@ -6,11 +6,11 @@ outdated_translation: true
 # Topluluk İştirakçileri
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
 :::
 
 **Topluluk İştirakçileri** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.

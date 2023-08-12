@@ -6,11 +6,11 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 # Contribuidores de la comunidad
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
 :::
 
 Los **contribuidores de la comunidad** son aquellas personas que, a un gran coste para sí mismas, se han encargado de proporcionar servicios a la comunidad de osu!, creando herramientas y funcionalidades que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.

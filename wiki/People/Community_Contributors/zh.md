@@ -6,11 +6,11 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 # 社区贡献者
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
 :::
 
 **社区贡献者** 是对那些主动向 osu! 社区投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的徽章。这个徽章代表着他们曾为整个社区做出了显著的贡献。

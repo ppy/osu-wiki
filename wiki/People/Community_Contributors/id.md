@@ -6,11 +6,11 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 # Kontributor komunitas
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
 :::
 
 **Kontributor komunitas** (*community contributor*) merupakan  para tokoh komunitas yang telah banyak meluangkan waktunya untuk melayani komunitas osu! atas kemauan diri mereka sendiri, terutama yang terkait dengan berbagai hal dan fitur yang sering dianggap remeh namun berguna hingga sekarang. Mereka dianugerahkan lencana khusus sebagai tanda bukti atas kontribusi mereka yang telah berdampak besar bagi seisi komunitas.
