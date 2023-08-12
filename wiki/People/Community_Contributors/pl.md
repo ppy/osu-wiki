@@ -5,7 +5,13 @@ no_native_review: true
 
 # Zasłużeni dla społeczności
 
-![](/wiki/shared/contributor.jpg "Odznaka zasłużonych dla społeczności")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+:::
 
 **Zasłużeni dla społeczności**, to użytkownicy, którzy poświęcili swój czas i energię na stworzenie narzędzi i funkcjonalności, które służą teraz całej społeczności gry. Otrzymali oni odznakę, która upamiętnia ich znaczące działania na rzecz całej społeczności osu!.
 

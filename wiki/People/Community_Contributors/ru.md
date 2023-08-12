@@ -5,7 +5,13 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 
 # Выдающиеся участники сообщества
 
-![](/wiki/shared/contributor.jpg "Значок участника")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-v3-1.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-v3-2.png "New era contributor badge")
+:::
 
 **Выдающиеся участники сообщества** (англ. *community contributors*) — это люди, добровольно вложившие в развитие сообщества много времени и сил. Благодаря им остальные игроки могут пользоваться фичами и инструментами, которые уже прочно вошли в обиход. У всех выдающихся участников есть значок в профиле, показывающий, что они реализовали или совершили что-то очень значимое.
 
