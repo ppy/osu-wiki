@@ -28,8 +28,8 @@ Ce serveur est principalement composé de :
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599) |
-| Administrateurs | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#1111) |
+| Propriétaire du serveur | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (@ascendance) |
+| Administrateurs | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (@rastei), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (@ascendance), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (@bastian9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) (@deif), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (@greaper), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (@jbhyperion), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (@jemzuu), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (@secrectb), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (@guille) |
 
 ## Vérification
 

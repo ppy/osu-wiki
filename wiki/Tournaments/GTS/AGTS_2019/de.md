@@ -58,7 +58,7 @@ Der Advanced Global Taiko Showdown 2019 wurde von verschiedenen Mitgliedern der 
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - [Challonge-Übersicht](https://challonge.com/AGTS2019)
-- **[Statistiken](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- **[Statistiken](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Teilnehmer
 
@@ -398,7 +398,7 @@ Sonntag, 18. August 2019:
 
 ### Generelle Regeln
 
-1. Dies ist ein **2 gegen 2 Team Turnier** mit Teams aus bis zu **5 Spielern.**
+1. Dies ist ein **2 gegen 2 Team Turnier** mit Teams aus bis zu **5 Spielern**.
 2. Die Teams werden erst in einer **Gruppenphase** und dann in einer **Doppeleliminierungsrunde** spielen.
 3. Das Berwertungssystem wird **Score V2** sein.
 4. Jeder Spieler, der die Rangvoraussetzungen erfüllt, darf mitspielen. Weil das Turnier einen Banner auszeichnet, kann es sein, dass manche Spieler vom osu!-Team abgelehnt werden.
@@ -409,8 +409,8 @@ Sonntag, 18. August 2019:
 
 ### Rangvoraussetzungen
 
-1. Du musst während der Registrierung zwischen Rang **#500** und **#3,500** sein. Das heißt, dass du so lange in dem Bereich bleiben musst, **bis die Registrierungsphase abgeschlossen ist.**
-2. Du darfst während des gesamten **Turnieres nicht höher als Rang #400 sein.** Solltest du dieses Limit überschreiten, wirst du disqualifiziert.
+1. Du musst während der Registrierung zwischen Rang **#500** und **#3,500** sein. Das heißt, dass du so lange in dem Bereich bleiben musst, **bis die Registrierungsphase abgeschlossen ist**.
+2. Du darfst während des gesamten **Turnieres nicht höher als Rang #400 sein**. Solltest du dieses Limit überschreiten, wirst du disqualifiziert.
 3. Du musst dich mit der Länderflagge deines Profils registrieren.
 4. Du musst dem Discord-Server des Turniers beitreten.
 
@@ -422,7 +422,7 @@ Sonntag, 18. August 2019:
 4. Das Turnierpersonal kann Spieler ablehnen, wenn sie denken, dass jemand nicht in die Kategorie des Turniers passt.
 5. Dieses Jahr erlauben wir 2 Teams pro Land unter folgenden Regelungen:
    - Es gibt **6 oder mehr Spieler** die sich für ein Land registriert haben.
-   - Jedes Team muss **mindestens 3 Spieler haben.**
+   - Jedes Team muss **mindestens 3 Spieler haben**.
 6. Der Kapitän der Teams hat die Verantwortung die Mannschaftsaufstellung auszuwählen, außer:
    1. Es gibt 5 Spieler oder weniger von einem Land. Diese Spieler werden ein Team für ihr Land bilden. In anderen Fällen wird er derjenige sein, der folgende Entscheidungen trifft:
    2. Falls es mehr als 6 Spieler für ein Land gibt, wird das Team in 2 einzelne Teams aufgeteilt. Dies sollte schnell geschehen, um ausreichend Zeit zu haben, einen Kapitän auszuwählen und die Spiele schnell vorbereiten zu können.
@@ -456,7 +456,7 @@ Sonntag, 18. August 2019:
 5. Jeder Mappool enthält 20 Beatmaps.
 6. Die Größe der Hidden-, HardRock, DoubleTime und FreeMod-Stapel beträgt 3 in allen Etappen.
 7. Der EX-Stapel wird ohne Mods gespielt und ist die schwierigere Version von NoMod. EX-Beatmaps beinhalten weniger geläufige Mappingstile, Geschwindigkeitsänderungen, etc.
-8. Der FreeMod-Stapel kann mit **Hidden, HardRock oder beiden** Mods gespielt werden. **Mindestens ein Spieler pro Team muss eine Mod auswählen.**
+8. Der FreeMod-Stapel kann mit **Hidden, HardRock oder beiden** Mods gespielt werden. **Mindestens ein Spieler pro Team muss eine Mod auswählen**.
 9. Der Tiebreaker wird wie eine FreeMod-Beatmap behandelt. Hier muss allerdings kein Spieler eine Mod auswählen.
 10. Der Mappool für jede Phase wird eine Woche vorher bekanntgegeben.
 
@@ -478,7 +478,7 @@ Sonntag, 18. August 2019:
 6. Jedes Team darf eine Beatmap zum Aufwärmen wählen, die maximal 4 Minuten lang sein darf. Diese dürfen von allen Spielern beider Teams gespielt werden.
 7. Jeder Spielführer muss **eine Beatmap** aus dem Mappool (abgesehen vom Tiebreaker) bannen. Diese Beatmaps dürfen dann im gesamten Match von keinem der beiden Teams gewählt werden.
 8. Am Anfangen rollen beide Spielführer mit Hilfe des Befehls `!roll` im Chat.
-9. Das Team mit der **höheren Zahl bannt als Zweites und darf dann als erstes eine Beatmap auswählen.** Das Team mit der **niedrigeren Zahl bannt zuerst und darf dann als Zweites eine Beatmap auswählen.**
+9. Das Team mit der **höheren Zahl bannt als Zweites und darf dann als erstes eine Beatmap auswählen**. Das Team mit der **niedrigeren Zahl bannt zuerst und darf dann als Zweites eine Beatmap auswählen**.
 10. Danach wählen die Spielführer abwechselnd eine Beatmap aus dem Mappool aus.
 11. Dabei darf frei aus diesem gewählt werden.
 12. Es darf frei zwischen Spielern gewechselt werden.

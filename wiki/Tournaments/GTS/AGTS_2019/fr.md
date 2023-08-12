@@ -57,7 +57,7 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 - [Serveur Discord du GTS](https://discord.gg/3mGC3HB)
 - [Diffusion en direct](https://www.twitch.tv/gtsosu)
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Participants
 
@@ -397,9 +397,9 @@ Dimanche 18 août 2019 :
 
 ### Règles générales
 
-1. Ce tournoi se joue en **équipes de deux (2) contre deux (2),** avec des équipes de **maximum 5 joueurs.**
-2. Les équipes vont tout d'abord jouer dans une **phase de groupes,** et ensuite jouer dans un**arbre à double élimination.**
-3. Le système de score sera **Score V2.**
+1. Ce tournoi se joue en **équipes de deux (2) contre deux (2),** avec des équipes de **maximum 5 joueurs**.
+2. Les équipes vont tout d'abord jouer dans une **phase de groupes,** et ensuite jouer dans un**arbre à double élimination**.
+3. Le système de score sera **Score V2**.
 4. N'importe quel joueur remplissant les conditions d'inscriptions est autorisé à jouer. Ce tournoi étant prévu pour avoir un badge, certains joueurs peuvent être refusés par le staff d'osu!.
 5. N'importe quel membre du staff mis à part les **organisateurs, mapsetters et arbitres** peut jouer.
 6. Les joueurs et le staff doivent avoir lu les règles dans leur entièreté (et nous partirons du principe que vous les avez lues, pendant le tournoi).
@@ -408,20 +408,20 @@ Dimanche 18 août 2019 :
 
 ### Restrictions
 
-1. Vous devez être entre le rang #500 et #3,500 au classement général pendant la phase d'inscriptions. Vous devez rester dans cette limite **jusqu'à la fin des inscriptions.**
-2. Vous n'êtes pas autorisé à aller au-delà du rang **#400 général pendant le tournoi.** Si vous dépassez cette limite, vous serez **disqualifié.**
+1. Vous devez être entre le rang #500 et #3,500 au classement général pendant la phase d'inscriptions. Vous devez rester dans cette limite **jusqu'à la fin des inscriptions**.
+2. Vous n'êtes pas autorisé à aller au-delà du rang **#400 général pendant le tournoi**. Si vous dépassez cette limite, vous serez **disqualifié**.
 3. Vous devez vous inscrire avec le drapeau du pays présent sur votre profil de joueur.
 4. Vous devez rejoindre le serveur Discord du tournoi.
 
 ### Inscription au tournoi et Créations des équipes
 
-1. Pour pouvoir vous inscrire au tournoi, vous devez remplir les critères cités dans la section **[Restrictions](#restrictions) de rang.**
+1. Pour pouvoir vous inscrire au tournoi, vous devez remplir les critères cités dans la section **[Restrictions](#restrictions) de rang**.
 2. Les joueurs s'inscrivent individuellement. Quand leur inscription sera acceptée, ils reçevront également le rôle de leur pays.
 3. Le premier capitaine de l'équipe sera choisi par le personnel du tournoi et constituera l'alignement de tous les joueurs du pays par osu! forum PM.
 4. Le staff peut refuser un joueur si il estime que ses capacités ne collent pas au niveau du tournoi.
 5. Cette année, il est autorisé d'avoir deux (2) équipes, à certaines conditions:
    - Il y a **six (6) joueurs ou plus** inscrits pour un pays.
-   - Chaque équipe doit compter **au moins trois (3) joueurs.**
+   - Chaque équipe doit compter **au moins trois (3) joueurs**.
 6. La règle précédente implique donc plusieurs possibilités lors de la création des équipes:
    1. Si cinq (5) joueurs ou moins sont inscrits pour un pays, ces joueurs vont former l'équipe qui représentera leur pays. Si il y a dix (10) inscrits ou plus pour un pays, seul les dix (10) meilleurs joueurs, classés en fonction de leur rang à la fin des inscriptions, seront retenus pour former les équipes.
    2. Si il y a entre six (6) et dix (10) joueurs (après avoir gardé les dix (10) meilleurs en terme de rang) inscrits pour leur pays, les joueurs de ce pays auront plusieurs jours (date précisée dans une future annonce) pour décider de la répartition des joueurs dans chaque équipe. Il est recommendé de trouver un arrangement aussi vite que possible pour, par la suite, désigner le capitaine d'équipe, qui pourra planifier et préparer vos matchs rapidement.
@@ -455,17 +455,17 @@ Dimanche 18 août 2019 :
 5. Chaque mappool sera composé de 20 beatmaps.
 6. La taille du pool pour les mods Hidden, Hard Rock et DoubleTime sera de deux (2) et 3 pour le pool Freemod, peu importe l'étape du tournoi.
 7. La catégorie de beatmaps EX sera jouée sans aucun mod actif, et est une version plus complexe des beatmaps NoMod, les beatmaps contenant des patterns trompeurs, des changements de vitesse, etc...
-8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
+8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence**.
 9. Le Tiebreaker sera joué au même titre que les beatmaps en Freemod, à l'exception que vous n'êtes pas obligé d'avoir un mod actif.
 10. Le mappool pour chaque étape sera dévoilé en direct une semaine avant le début des matchs sur ledit pool.
 
 ### Instructions des plannifications de matchs
 
-1. Chaque étape se joueura **pendant le weekend.** (il est cependant autorisé de plannifier votre match un autre jour, dans le cas où les deux équipes ne parviennent pas à trouver un temps convenable pendant le weekend).
+1. Chaque étape se joueura **pendant le weekend**. (il est cependant autorisé de plannifier votre match un autre jour, dans le cas où les deux équipes ne parviennent pas à trouver un temps convenable pendant le weekend).
 2. Les matchs peuvent se cheuvaucher, si des arbitres sont disponibles.
 3. Nous essayerons de plannifier les matchs en fonction du fuseau horaire de chaque équipe. Le planning sera donné aux joueurs la semaine précédant l'étape suivante (par exemple, le planning des Finales sera donné après que la phase de demi-finales se soit conclue).
 4. Les changements d'horaires de matchs ne seront pris en considération que si les deux équipes trouvent un horaire, cette démarche doit être faite le **Jeudi à 23:59 UTC+0** la semaine où le match aura lieu.
-5. Les changements d'horaires ne peuvent être effectués que par **un capitaine d'équipe.**
+5. Les changements d'horaires ne peuvent être effectués que par **un capitaine d'équipe**.
 
 ### Déroulement des matchs
 
@@ -477,7 +477,7 @@ Dimanche 18 août 2019 :
 6. Chaque équipe aura le droit à une beatmap d'échauffement, mais celle-ci ne peut pas dépasser quatre (4) minutes. Tout le monde peut être dans le salon pendant les beatmaps de chauffe.
 7. Chaque capitaine doit bannir **une (1) beatmap** choisie dans le mappool (à part le Tiebreaker). Ces beatmaps ne peuvent pas être choisies par la suite par les deux équipes pendant toute la durée du match.
 8. Le capitaine de chaque équipe devra tirer un nombre au sort en utilisant la commande `!roll` dans le tchat du salon privé.
-9. L'équipe avec le **le plus haut nombre bannira en deuxième et choisira la première beatmap jouée.** L'équipe avec **le plus bas nombre bannira en deuxième et choisira la deuxième beatmap jouée.**
+9. L'équipe avec le **le plus haut nombre bannira en deuxième et choisira la première beatmap jouée**. L'équipe avec **le plus bas nombre bannira en deuxième et choisira la deuxième beatmap jouée**.
 10. La sélection des beatmaps sera à partir de là faite en alternance entre les deux équipes, jusqu'à ce qu'une équipe remplisse la condition de victoire.
 11. Les capitaines peuvent choisir librement les beatmaps (par exemple, il peut choisir une beatmap jouée en HR, et rechoisir une beatmap jouée en HR lorsque son équipe doit à nouveau choisir une beatmap à jouer).
 12. Les équipes peuvent remplacer leurs joueurs entre chaque beatmap, à leur volonté.
