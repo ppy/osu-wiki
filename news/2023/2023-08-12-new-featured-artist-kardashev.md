@@ -12,7 +12,7 @@ Merging death metal with shoegaze (and a heap of other flavours), **Kardashev** 
 
 **12** mind-altering tracks can be found on [**Kardashev**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/375), including a few beatmap templates that combine certain intro/outro tracks, like [*The Approaching Atonement* + *Silvered Shadows*](https://osu.ppy.sh/beatmapsets/1889320). Feel free to start mapping any of these insanely dense songs (at your own risk).
 
-Speaking of hopeless cries for salvation, we asked [A L E P H](https://osu.ppy.sh/users/6735738) to play the infamous spaced-stream beatmap [*Cellar of Ghosts*](https://osu.ppy.sh/beatmapsets/1804362) at COE. See how that went for yourself:
+Speaking of hopeless cries for salvation, we asked [A L E P H](https://osu.ppy.sh/users/6735738) to play the infamous spaced-stream beatmap [Cellar of Ghosts](https://osu.ppy.sh/beatmapsets/1804362) at [COE](/wiki/Community/cavoe's_osu!_event/2023). See how that went for yourself:
 
 <div align="center">
     <video width="95%" controls>
