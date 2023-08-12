@@ -222,7 +222,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Outstanding contribution to the osu!taiko mapping scene via utility development |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Outstanding contribution to the osu! IRL events and tournament scene |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Outstanding contribution to osu! IRL events and the tournament scene |
 
 ## History
 
