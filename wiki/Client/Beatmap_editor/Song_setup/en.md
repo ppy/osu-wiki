@@ -1,165 +1,72 @@
 # Song setup window
 
-Song Setup is the fourth section of the [Beatmap Editor](/wiki/Client/Beatmap_editor). It contains metadata and general beatmap configuration settings.
+The **song setup** window is the fourth section of the [beatmap editor](/wiki/Client/Beatmap_editor), which includes beatmap metadata, difficulty and design settings, as well as other miscellaneous options.
 
 ## General
 
-### Song and Map Metadata
+![](img/SS_General.jpg "An example of a difficulty with completed metadata")
 
-*See also: [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")*
-
-![A completed Song Setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
-
-These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmap.
-
-Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source).
-
-#### Artist
-
-**The band, singer, composer, or group that performed or created the song.** Normally, this is automatically taken from the MP3 file's metadata, but double-check for proper spelling and punctuation.
-
-*Notice: Anime or game titles belong in the [Source](#source) field. Vocaloid or company names belong in the [Tags](#tags) field.*
-
-Foreign/Eastern names should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency).
-
-This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [Anime News Network](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
-
-##### Romanised Artist
-
-**The romanised name of the artist.** This should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency). This field will only become available if Unicode characters are used in the [Artist](#artist) field.
-
-#### Title
-
-**The song title.** Normally, this is automatically taken from the MP3 file's metadata, but double-check to ensure proper spelling and punctuation.
-
-##### Romanised Title
-
-**The romanised name of the song.** This field will only become available if Unicode characters are used in the [Title](#title) field.
-
-#### Beatmap Creator
-
-**The beatmap creator's username.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
-
-*Notice: The usernames of [Guest Creators](/wiki/Beatmap/Guest_difficulty) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
-
-#### Difficulty
-
-**The name of the beatmap, in other words, the difficulty's name.** The dropdown contains the preset names of `Easy`, `Normal`, `Hard`, and `Insane`. The creator can select one of the preset names from the dropdown menu or type one in. While it is good to be creative, do try to make the difficulty names very clear as to which difficulty they represent. Ambiguous difficulty names will annoy players and are unrankable.
-
-This field can also be used to indicate that it is a guest difficulty (e.g. "Larto's Hard").
-
-#### Source
-
-**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs.
-
-If the song is from an anime, a video game, or is famous for its use in a movie or TV program; then the title of that source should be added in this field. If otherwise, this field should be left empty.
-
-*Notice: This is not to be used for album titles, those belong in the [Tags](#tags) field.*
-
-Not every song needs something on the source field. The source is only for songs that are from something (e.g. a video game or an anime). Regular rock and pop songs can have this field be left empty. Other relevant information should be entered on the [Tags](#tags) field such as album title or subgenre information.
-
-#### Tags
-
-**A list of keywords to help with search queries.** Commonly, tags should include album names, guest creator usernames, company names, and other terms that may be used by users when searching for beatmaps. If the beatmap has collaboration elements (such as storyboarding) done by other users, their usernames should be added to this field.
-
-Tags are separated with spaces. It is not necessary to use this field as other metadata from the other fields are used to help query beatmaps; however, it is greatly appreciated for users trying to find a specific beatmap.
+`General` provides information which helps players not only find the beatmap, but also know a bit more about the song itself. The metadata specified here must be taken from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source) and, if a beatmap is going through the [ranking procedure](/wiki/Beatmap_ranking_procedure), follow the [ranking criteria](/wiki/Ranking_criteria#metadata).
+ 
+| Field | Meaning |
+| :-- | :-- |
+| `Artist` | The band, singer, composer, or the group that performed or created the song. |
+| `Romanised Artist` | The artist's romanised name. *Note: only editable when `Artist` contains Unicode characters.* |
+| `Title` | The song's title. |
+| `Romanised Title` | The song's romanised name. *Note: only editable when `Title` contains Unicode characters.* |
+| `Beatmap Creator` | Username of the [beatmap host](/wiki/Beatmap/Beatmap_host). Authors of the [guest difficulties](/wiki/Beatmap/Guest_difficulty) should be specified in tags instead. |
+| `Difficulty` | Name of the difficulty, which should reflect its contents. May indicate [guest participation](/wiki/Beatmap/Guest_difficulty), be [standardised](/wiki/Ranking_criteria/Difficulty_naming), or [custom](/wiki/Ranking_criteria#rules.1). |
+| `Source` | (Optional) The song's origin media, such as a video game, or a movie. |
+| `Tags` | Keywords for search, separated by spaces. May contain anything relevant to the beatmap or the song, such as the album name, guest mappers' names, or genre. |
 
 ## Difficulty
 
-![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
+*Note: The game mode-specific [ranking criteria](/wiki/Ranking_criteria) contain recommended settings for every difficulty level.*
 
-*Notice: The game mode-specific [Ranking Criteria](/wiki/Ranking_criteria) have rankable values that should be used.*
+![Two screenshots of the Difficulty tab. osu!mania differs from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
 
-The beatmap's difficulty settings; each setting affects different aspects of the beatmap.
+`Difficulty` contains base settings hinting how hard and skill-demanding a beatmap generally is for players, both objectively and subjectively. All values listed here may be affected by [game modifiers](/wiki/Gameplay/Game_modifier) which reduce or increase difficulty. The common notation to represent a difficulty setting and its value is the setting's abbreviation, followed by the value, such as `CS 4` for a beatmap with the corresponding circle size.
 
-*Note: Holding down `Shift` allows for a precise 0.1 value adjustment over the standard 1 value adjustment.*
-
-The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a circle size of 4 and HP drain rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an approach rate of -2.
+By holding down `Shift`, it's possible to adjust the values with the 0.1 precision, as opposed to the standard step of 1.
 
 ### HP drain rate
 
-HP drain rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
+*Main article: [Health](/wiki/Beatmap/HP_drain_rate)*
 
-In osu! and osu!catch, this also affects the [Passive HP](/wiki/Client/Interface/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
-
-*Note: More HP is recovered with [Geki](/wiki/Gameplay/Judgement/Geki) and [Katu](/wiki/Gameplay/Judgement/Katu) hit scores, which can be given from the last hit object in a combo.*
+HP drain rate (HP) determines the amount of health recovery or damage from accurate or mistimed [hits](/wiki/Gameplay/Judgement). In osu! and osu!catch, it also affects the rate of [passive health drain](/wiki/Beatmap/HP_drain_rate). Higher values provide lower health recovery with higher punishment.
 
 ### Circle size
 
+*Main article: [Circle size](/wiki/Beatmap/Circle_size)*
+
 ![Overview of various circle sizes](img/Circle_sizes.png "Overview of various circle sizes")
 
-*Note: This option is visible in osu!taiko, but it does not do anything that affects gameplay.*
+Circle size (CS) determines the size of hit objects in osu! and osu!catch, while not affecting osu!taiko gameplay. Higher values will make hit objects smaller; while the editor limits CS to a 2 to 7 range, it's possible to overcome the limitation by manually editing the difficulty's [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file.
 
-Circle size, commonly abbreviated as CS, exists only in osu! and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
-
-Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod.
-
-Setting the CS value to something less than 2 or greater than 7 can be done by manually editing the `.osu` file.
-
-#### Key Count
-
-Key Count, also known as Keys, replaces the [circle size](#circle-size) metric for [osu!mania-specific](#mode-specific) beatmaps. Key Count is self-explanatory; it defines the key count that is used. The values range from 1 to 9 keys.
-
-Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
+For [osu!mania-specific](#mode-specific) beatmaps, the circle size setting is replaced with the key count (keys, or simply K), which defines the number of the playfield columns. Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
 ### Approach rate
 
 *Main page: [Approach rate](/wiki/Beatmap/Approach_rate)*
 
-![Detailed AR chart](/wiki/shared/ARTable.jpg "Detailed AR chart")
+Approach rate (AR) indicates how long osu! and osu!catch hit objects stay on the screen from the moment they appear until the time to tap/collect. Higher values mean shorter periods of visibility and less reaction time to plan ahead. 
 
-*Note: This option is visible in osu!taiko and osu!mania, but it does not do anything that affects gameplay. This is mainly because both use a scroll speed, which is based on BPM (beats per minute).*
-
-Approach rate, commonly abbreviated as AR, exists only in osu! and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
-
-Higher approach rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower approach rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
-
----
-
-The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
-
-There are four mods that alters the approach rate timing when activated:
-
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the AR value. (e.g. AR10→AR5)
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, this causes circles to stay on screen 33% milliseconds shorter.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
-
-While Half Time and Double Time does not change the actual given AR value, the speed difference leads to an apparent AR change, as low as AR-5 or as high as AR11. In the AR chart provided, those apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number between 0 and 10. Note that AR levels scale by 120ms for below AR5 and 150ms for above AR5.
+osu!taiko and osu!mania are not affected by the approach rate changes — instead, both modes use scroll speed as alternative, which is based on the song's [tempo](/wiki/Music_theory/Tempo) and [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
 
 ### Overall difficulty
 
-*Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*
+*Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
+*Note: On the beatmap page, overall difficulty is listed as Accuracy.*
 
-![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, the shown OD values are only valid for the hit windows of 300s, and would be different for 100s and 50s.")
+Overall difficulty (OD) is responsible for the sizes of hit windows, which define how difficult it is to achieve high accuracy. Higher OD values mean shorter timing windows requiring more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap.
 
-*Note: The above table applies for the osu! game mode only.*\
-*Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
-
-Overall difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10, where higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and in terms of getting the highest score value from the hit object.
-
-In osu!, the timing system does not allow an object to be hit until the previous object has either been hit and received a judgement, or missed after the hit window has passed. If the hit windows are too long, the object's hit window may overlap with the previous one. During this time, the object is "locked" and any hit will not count. This is informally called "notelock" in osu!, or "column locking" or "cbrushing" in osu!mania. For further details and examples, see the [article on notelock](/wiki/Gameplay/Judgement/Notelock). Because of this, it is advised not to use low OD values in high-BPM maps.
+Low OD values on osu! maps with high [tempo](/wiki/Music_theory/Tempo) may cause adjacent hit windows to overlap and enforce [notelock](/wiki/Gameplay/Judgement/Notelock), preventing objects from being hit until earlier hit windows are fully processed. As a result, missing a single note will trigger a cascade failure and make the player fail the beatmap.
 
 Additional effects of increasing OD in each game mode:
 
 - osu!: Spinners must be spun more to fill up the gauge, up to the point of becoming nearly impossible to clear on time.
-- osu!taiko: The denden (spinner) requires more hits to clear.
+- osu!taiko: Spinners<!-- TODO: it's a denden, but we don't have an article about it --> require more hits to clear.
 - osu!mania and osu!catch are not affected by OD.
-
-To calculate hit windows, see the formulas from the [article on overall difficulty](/wiki/Beatmap/Overall_difficulty).
-
----
-
-At OD 0, a player can get a hit score of 300 at less than 79.5ms away from exactly hitting it on-time. On the other end of the scale, OD 10 requires being less than 19.5ms away for the same hit score of 300.
-
-There are four mods which alter overall difficulty timing when activated:
-
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the OD value.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% speed increase this effectively causes hit windows to be 33% shorter.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% speed decrease, this effectively causes hit windows to be 33% longer.
-
-While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod, HR, and EZ (on the left side); the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 
 ## Audio
 
