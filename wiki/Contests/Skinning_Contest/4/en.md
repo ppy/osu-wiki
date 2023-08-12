@@ -19,8 +19,8 @@ The above banner features [Kleinne Lui's](https://osu.ppy.sh/users/27725651) ent
 | --: | :-- |
 | Announcement | 2023-05-10 |
 | Submission phase | 2023-05-10/2023-07-14 |
-| Voting phase | 2 weeks starting from a separate news post |
-| Results | *TBD* |
+| Voting phase | 2023-07-21/2023-08-04 |
+| Results | 2023-08-10 |
 
 ## Prizes
 
@@ -29,6 +29,8 @@ The above banner features [Kleinne Lui's](https://osu.ppy.sh/users/27725651) ent
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
+
+![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/1st_badge@2x.png "Skinning Contest #4 winner badge") ![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/2nd_badge@2x.png "Skinning Contest #4 2nd-place badge") ![](/wiki/shared/news/2023-08-10-skinning-contest-icons-of-an-era-results/3rd_badge@2x.png "Skinning Contest #4 3rd-place badge")
 
 ## Organisation
 
@@ -50,6 +52,8 @@ The Skinning Contest #4 is run by various community members.
 
 - **[Contest page](https://osu.ppy.sh/community/contests/178)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era)
+- [Voting news post](https://osu.ppy.sh/home/news/2023-07-21-skinning-contest-icons-of-an-era-voting)
+- [Results news post](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1762288)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 - [Discord server](https://discord.skinship.xyz)
@@ -75,6 +79,12 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [We Kicked a Kid (United)](https://osu.ppy.sh/community/forums/topics/1792954) |
 | ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/178).*
+
+![](/wiki/Contests/Skinning_Contest/4/img/podium.jpg "Skinning Contest #4 podium")
 
 ## Ruleset
 
