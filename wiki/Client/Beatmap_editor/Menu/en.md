@@ -2,9 +2,7 @@
 
 ## File
 
-::: Infobox
 ![File menu](img/M_File.jpg "File menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -27,9 +25,7 @@
 
 ## Edit
 
-::: Infobox
 ![Edit menu](img/M_Edit.jpg "Edit menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -57,9 +53,7 @@
 
 ## View
 
-::: Infobox
 ![View menu](img/M_View.jpg "View menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -82,9 +76,7 @@
 
 *Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
 
-::: Infobox
 ![Compose menu](img/M_Compose.jpg "Compose menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -100,9 +92,7 @@
 
 *Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
 
-::: Infobox
 ![Design menu](img/M_Design.jpg "Design menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -112,9 +102,7 @@
 
 *Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
-::: Infobox
 ![Timing menu](img/M_Timing.jpg "Timing menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -134,9 +122,7 @@
 
 ## Web
 
-::: Infobox
 ![Web menu](img/M_Web.jpg "Web menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
@@ -145,9 +131,7 @@
 
 ## Help
 
-::: Infobox
 ![Help menu](img/M_Help.jpg "Help menu")
-:::
 
 | Name | Description |
 | :-- | :-- |
