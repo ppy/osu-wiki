@@ -48,7 +48,7 @@ And here's [one more osu!taiko map](https://osu.ppy.sh/beatmapsets/1832856) also
 
 We have something to tell you. Come closer. You don't want to miss this. Okay, here it goes: ᵗʰᵉʳᵉ ᵃʳᵉ ᵐᵒʳᵉ **ᴷᵃʳᵈᵃˢʰᵉᵛ** ᵇᵉᵃᵗᵐᵃᵖ ᵗᵉᵐᵖˡᵃᵗᵉˢ [ʰᵉʳᵉ](https://osu.ppy.sh/beatmaps/artists/375)·
 
-The current batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) close in **3 days**! Whoever's in the **top 10** by the end of August 15 earns progress towards a profile badge, so if you're looking for a shiny addition to your user page, this could be it.
+The current batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) closes in **3 days**! Whoever's in the **top 10** by the end of August 15 earns progress towards a profile badge, so if you're looking for a shiny addition to your user page, this could be it.
 
 Stay tuned for another artist next weekend!
 
