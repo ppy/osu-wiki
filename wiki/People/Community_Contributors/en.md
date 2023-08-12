@@ -226,11 +226,11 @@ Contributors who registered their accounts during an older era of the game have 
 
 ## History
 
-During February 2018, the old contributor badge by [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]
+During February 2018, the old contributor badge by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]
 
 ![1st design change comparison](img/design-change-1.png)
 
-Due to a lack of "soul",[^redesign-reasons] the design was changed again on 21 July 2023. This time the initial design was refreshed by [RBRat3](https://osu.ppy.sh/users/307202) and split into two versions, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
+Due to a lack of "soul",[^redesign-reasons] the design was changed again on 21 July 2023. This time the initial design was refreshed by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) and split into two versions, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
 
 ![2nd design change comparison](img/design-change-2.png)
 
