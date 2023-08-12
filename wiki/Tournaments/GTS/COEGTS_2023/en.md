@@ -75,6 +75,16 @@ cavoe's osu! event Global Taiko Showdown 2023 was run by various community membe
 | Unseeded | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=NL }:: [Edesto](https://osu.ppy.sh/users/5088562), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=NL }:: [demonking7447](https://osu.ppy.sh/users/11094496) |
 | Eliminated | ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=DE }:: [Musubi](https://osu.ppy.sh/users/9562353) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
+
 ## Mappools
 
 ### Finals
@@ -213,16 +223,6 @@ The full detailed rules are viewable in the [COEGTS 2023 rulebook](https://gtsos
 5. Between each map there is a short break of 120 seconds during which the next map must be picked. If a player does not pick a map during that timespan, the referee will pick a random map from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
 6. Rounds with disconnects within 30 seconds or 25% of the beatmap length, whichever happens first, may be replayed at the discretion of the referee, as long as the problem is clearly communicated in time.
 7. Should a map end in a draw, the beatmap will be replayed before moving on to the next pick.
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
 
 ### Mappools
 
