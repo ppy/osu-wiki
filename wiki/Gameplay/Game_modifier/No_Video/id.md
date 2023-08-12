@@ -7,9 +7,6 @@ tags:
   - game modifier
 ---
 
-<!-- TODO:
-- add score multiplier, caption, and shortucut key values -->
-
 # No Video (mod)
 
 ![Ikon mod NV](/wiki/shared/mods/NV.png "Ikon mod No Video (NV)")

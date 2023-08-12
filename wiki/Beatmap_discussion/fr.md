@@ -4,6 +4,7 @@ tags:
   - modding V2
   - MV2
   - discussion de la beatmap
+outdated: true
 ---
 
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->

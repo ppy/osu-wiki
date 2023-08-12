@@ -8,10 +8,6 @@ tags:
   - game modifier
 ---
 
-<!-- TODO:
-- add score multiplier, shortcut key, and caption values
-- Add information on when and why the Fade Out mod was removed -->
-
 # Fade Out (mod)
 
 ![Ikon mod FO](/wiki/shared/mods/FO.png "Ikon mod Fade Out (FO)")
@@ -23,7 +19,7 @@ tags:
 
 - Singkatan: FO
 - Jenis: Peningkat Kesulitan
-- Tombol shortcut: `F` `F` atau `Shift`+`F`
+- Tombol shortcut: `F` `F` atau `Shift` + `F`
 - Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi
