@@ -4,7 +4,7 @@
 
 ![Jugabilidad de osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interfaz de osu!taiko")
 
-osu!taiko es un modo de juego en osu! que emprende *algunos* elementos del juego de ritmo japonés, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujín)(lanzado como [Taico: Drum Master](http://en.wikipedia.com/wiki/Taiko:_Drum_Master) en América del Norte).
+*osu!taiko* es un modo de juego en *osu!* que incorpora *algunos* elementos del juego de ritmo japonés *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsuj%C3%ADn)* (lanzado como *[Taiko: Drum Master](http://en.wikipedia.com/wiki/Taiko:_Drum_Master)* en América del Norte).
 
 
 ## ![](/wiki/shared/mode/taiko.png) El Gameplay
@@ -33,9 +33,9 @@ Para los jugadores con experiencia previa en *Taiko no Tatsujin*:
   - Si hay un elemento de storyboard, ocupará todo el espacio de pantalla disponible excepto las partes importantes para el juego.
 
 
-Para los recién llegados al modo osu!taiko, la pantalla está dividida en dos secciones diferentes: la sección superior contiene los elementos de juego, mientras que la sección inferior muestra una imagen o un video del beatmap. En la sección superior, se encuentra la barra de salud, que a diferencia de otros modos de juego, comienza vacía y debe llenarse al menos hasta el 50% o la mitad para pasar la dificultad. En la parte superior central, debajo de la barra de salud, se encuentra un tambor taiko en el lado izquierdo y una cinta transportadora móvil que lleva los objetos a golpear de derecha a izquierda, pasando por un círculo blanco doble que sirve como círculo de juicio cerca del tambor taiko. Encima del tambor taiko se encuentra la mascota animada del taiko, que reaccionará en función del juicio recibido, junto con cambios de color de fondo en la parte superior. Por último, en la parte superior derecha se muestra la puntuación, precisión y temporizador del beatmap.
+Para los recién llegados al modo *osu!taiko*, la pantalla se divide en dos secciones diferentes: la sección superior contiene los elementos de juego, mientras que la sección inferior muestra una imagen o un video del beatmap. En la sección superior, se encuentra la barra de salud, que a diferencia de otros modos de juego, comienza vacía y debe llenarse al menos hasta el 50% o la mitad para pasar la dificultad. En la parte superior central, debajo de la barra de salud, se encuentra un tambor taiko en el lado izquierdo y una cinta transportadora móvil que lleva los objetos a golpear de derecha a izquierda, pasando por un círculo blanco doble que sirve como círculo de juicio cerca del tambor taiko. Encima del tambor taiko se encuentra la mascota animada del taiko, que reaccionará en función del juicio recibido, junto con cambios de color de fondo en la parte superior. Por último, en la parte superior derecha se muestran la puntuación, precisión y el temporizador del beatmap.
 
-Por favor, ten en cuenta que en osu!taiko, la disminución de la salud está desactivada, por lo que solo los objetos a golpear afectarán la barra de salud. La combinación no se romperá al jugar en un campo vacío. A diferencia de osu!, la celebración por alcanzar ciertos hitos de combinación ocurre cada 50 golpes consecutivos. La puntuación base se incrementará después de alcanzar una combinación múltiplo de 10, pero se detendrá en 100 (límite máximo de la mejora de la puntuación). Si la combinación se rompe, la mejora vuelve al valor base. Durante el Kiai Time, cada golpe exitoso otorgará al jugador un 20% más de puntos sobre la cantidad de puntuación actual. La puntuación obtenida por un golpe se puede ver debajo de la precisión en la esquina superior derecha en color rojo.
+Por favor, ten en cuenta que en *osu!taiko*, la disminución de la salud está desactivada, por lo que solo los objetos a golpear afectarán la barra de salud. La combinación no se romperá al jugar en un campo vacío. A diferencia de *osu!*, la celebración por alcanzar ciertos hitos de combinación ocurre cada 50 golpes consecutivos. La puntuación base se incrementará después de alcanzar una combinación múltiplo de 10, pero se detendrá en 100 (límite máximo de la mejora de la puntuación). Si la combinación se rompe, la mejora vuelve al valor base. Durante el Kiai Time, cada golpe exitoso otorgará al jugador un 20% más de puntos sobre la cantidad de puntuación actual. La puntuación obtenida por un golpe se puede ver debajo de la precisión en la esquina superior derecha en color rojo.
 
 #### Notas de Taiko
 
@@ -43,7 +43,7 @@ Por favor, ten en cuenta que en osu!taiko, la disminución de la salud está des
 
 Cada nota de taiko (o nota, para abreviar) aparecerá como un círculo rojo o azul pálido. Esos círculos coloreados se llaman Don (notas rojas) y Katu (notas azules), respectivamente.
 
-Si es una pequeña nota roja, presiona el botón asignado a la porción interna del tambor taiko o golpea la gran área plana (centro) del *TaTaCon*. Si es una pequeña nota azul, presiona el botón asignado al anillo exterior del tambor taiko o golpea los lados del *TaTaCon*. Si la nota es un círculo GRANDE, presiona o golpea ambos, ya sea el tambor interno o externo, dependiendo del color de la nota para obtener el doble de puntos (un solo golpe correcto otorgará un solo punto en su lugar).
+Si es una pequeña nota roja, presiona el botón asignado a la porción interna del tambor taiko o golpea la gran área plana (centro) del *TaTaCon*. Si es una pequeña nota azul, presiona el botón asignado al anillo exterior del tambor taiko o golpea los lados del *TaTaCon*. Si la nota es un círculo GRANDE, presiona o golpea ambos, ya sea el tambor interno o externo, dependiendo del color de la nota, para obtener el doble de puntos (un solo golpe correcto otorgará un solo punto en su lugar).
 
 Las notas deben ser presionadas o golpeadas en el pequeño círculo blanco de juicio junto al tambor. Golpear el color incorrecto o ambos colores rojo y azul al mismo tiempo será considerado un fallo.
 
@@ -55,14 +55,13 @@ Presiona el tambor interno (o externo) de manera continua para obtener puntos ha
 
 Los rodillos de tambor pueden ser ignorados sin penalización de salud, ya que no recuperan la barra de salud en absoluto. Sin embargo, se perderán los posibles puntos obtenidos del rodillo de tambor. Cada golpe exitoso en el pequeño círculo de golpe otorga una puntuación estática de 300.
 
-
 #### Dendens/Shaker
 
 ![Spinner de Taiko](/wiki/shared/Taiko_spinner.jpg "Spinner de osu!taiko (denden)")
 
-Haga clic en el tambor interior y exterior ** en orden** (como rojo, azul, rojo, azul, tinto, azul...) hasta que el contador de denden alcance 0. El color de comienzo no importa (se permite comenzar con el azul si se desea), y no completarlo incurrirá en una sanción por falta de salud, pero sin interrupción de combo. Tocar el mismo color no disminuirá el contador de denden, hasta que se golpee un color diferente en su lugar.
+Haga clic en el tambor interior y exterior **en orden** (como rojo, azul, rojo, azul, rojo, azul...) hasta que el contador de denden alcance 0. El color de comienzo no importa (se permite comenzar con el azul si se desea), y no completarlo incurrirá en una sanción por falta de salud, pero sin interrupción de combo. Tocar el mismo color no disminuirá el contador de denden, hasta que se golpee un color diferente en su lugar.
 
-No incrementa el contador de combo, y no recupera la barra de salud de ninguna manera. Cada golpe de denden exitoso solo da una puntuación estática de 300, y la finalización del denden dará una nota de nota perfecta (GREAT).
+No incrementa el contador de combo, ni recupera la barra de salud de ninguna manera. Cada golpe de denden exitoso solo otorga una puntuación estática de 300, y la finalización del denden dará una nota de nota perfecta (GREAT).
 
 ## Estilos de Juego
 
@@ -87,7 +86,7 @@ El controlador de tambor *TaTaCon* fue creado principalmente para las versiones 
 
 ## Puntuación
 
-[La puntuación en osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) es una suma ponderada de múltiples componentes del gameplay. Depende del siguiente:
+[La puntuación en *osu!taiko*](/wiki/Gameplay/Score/ScoreV1/osu!taiko) es una suma ponderada de varios componentes del gameplay. Depende de lo siguiente:
 
 - [Juicio](/wiki/Gameplay/Judgement/osu!taiko) determina el valor de puntuación de base de un objeto golpeado (300, 100, or 0 in case of a miss). El valor de las notas regulares y grandes depende del momento del golpe, mientras que el valor base de cada otro objeto es constante
 - [Precisión](/wiki/Gameplay/Accuracy#osu!taiko) depende del juicio y muestra cuán precisos son los hits. Las presiones tardías o tempranas de las llaves, así como las fallas, disminuyen la precisión general.
@@ -96,7 +95,7 @@ El controlador de tambor *TaTaCon* fue creado principalmente para las versiones 
 
 Además de dar puntuación, cada objeto eliminado llena una pequeña parte de la [barra de salud](/wiki/Client/Interface/Health_bar), que debe ser al menos **50% lleno** para que un jugador pueda pasar un beatmap.
 
-Después de completar un beatmap, la puntuación se asigna a un [grade](/wiki/Gameplay/Grade#osu!Taiko), una breve evaluación de la exactitud en forma de una sola letra. Una SS de oro o plata denota 100% de precisión, y todo lo demás, de S a D, depende de la cantidad de 300s, 100s y fallas.
+Después de completar un beatmap, la puntuación se asigna a un [grado](/wiki/Gameplay/Grade#osu!Taiko), una breve evaluación de la exactitud en forma de una sola letra. Una SS de oro o plata denota un 100% de precisión, y todo lo demás, desde S hasta D, depende de la cantidad de 300s, 100s y fallos.
 
 ## Skinning
 
@@ -141,6 +140,6 @@ También tenga en cuenta que se dan 1/6 tambores si se utilizó la tasa de tick 
 ![El logo de osu!taiko en los modos especiales.](img/Taiko_logo.jpg "Logo de Taiko en el Modo Especial.")
 
 
-- La `Use Taiko skin for Taiko mode` en la barra lateral de Opciones en la sección de piel utilizará los elementos de la piel de la carpeta `taiko` cuando juegue en osu!Taiko, independientemente de los elementos taiko de la piel actual. La carpeta usada para mantener *[Taiko por LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* piel, que se puede descargar desde el ahora depreciado `osume.exe` (un osu! ¡Actualiza cuando os! Necesita actualizar) en la pestaña `Skin`.
+- La opción `Usar skin Taiko para modo Taiko` en la barra lateral de Opciones en la sección de skins utilizará los elementos de la carpeta `taiko` cuando juegue en *osu!taiko*, independientemente de los elementos taiko de la skin actual. La carpeta usada para mantener la piel *[Taiko por LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, que se puede descargar desde el ahora desaprobado `osume.exe` (un archivo de actualización de osu! cuando sea necesario actualizar) en la pestaña `Skin`.
 - El primer beatmap clasificado que contiene al menos un osu!la dificultad de taiko es [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
 - ¡Primer clasificado OSU!beatmap es [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
