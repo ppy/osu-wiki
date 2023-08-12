@@ -16,9 +16,11 @@ Contributors who registered their accounts during an older era of the game have 
 
 <!-- The "Contributions" column of recent years comes from text in the linked news posts. Don't use the text on the badge itself, and don't edit any wording (besides links, etc.) -clayton -->
 
-## 2013
+## Listing
 
-### August
+### 2013
+
+#### August
 
 *For the forum thread, see: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
@@ -40,9 +42,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
-## 2015
+### 2015
 
-### March
+#### March
 
 | User | Contributions |
 | :-- | :-- |
@@ -50,9 +52,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Outstanding contribution to the osu! wiki |
 | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank & osu!Post development |
 
-## 2016
+### 2016
 
-### January
+#### January
 
 *For the news post, see: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
@@ -67,7 +69,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - osu! Twitch bot toolkit development |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Beatmap recommendation bot development |
 
-### March
+#### March
 
 *For the news post, see: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
@@ -75,7 +77,7 @@ Contributors who registered their accounts during an older era of the game have 
 | :-- | :-- |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
 
-### November
+#### November
 
 *For the news post, see: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
@@ -91,9 +93,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Outstanding contribution to community affairs |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Outstanding contribution to moderation, organisation and management |
 
-## 2017
+### 2017
 
-### December
+#### December
 
 *For the news post, see: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
@@ -120,9 +122,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
-## 2019
+### 2019
 
-### February
+#### February
 
 *For the news post, see: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
@@ -152,9 +154,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Outstanding contribution to the Community Mentorship Program |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!(lazer) project |
 
-## 2020
+### 2020
 
-### February
+#### February
 
 *For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
@@ -182,9 +184,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the Mappers' Guild and Beatmap Nominators |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Outstanding contribution to osu! open source projects |
 
-## 2021
+### 2021
 
-### March
+#### March
 
 *For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
@@ -198,9 +200,9 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Outstanding contribution to scoring maintenance and development |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Outstanding contribution to the World Cups and community tournament scene |
 
-## 2022
+### 2022
 
-### June
+#### June
 
 *For the news post, see: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
