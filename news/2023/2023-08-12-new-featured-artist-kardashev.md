@@ -6,7 +6,7 @@ date: 2023-08-12 13:00:00 +0000
 
 Your fingers quiver as **Kardashev** engulfs our Featured Artist library.
 
-![](https://assets.ppy.sh/artists/375/header.jpeg)
+![](https://assets.ppy.sh/artists/375/header.jpg)
 
 Merging death metal with shoegaze (and a heap of other flavours), **Kardashev** has been outputting a distinctly atmospheric style of metal for over a decade. And as of today, that sound is officially part of osu!.
 
@@ -15,7 +15,7 @@ Merging death metal with shoegaze (and a heap of other flavours), **Kardashev** 
 Speaking of hopeless cries for salvation, we asked [A L E P H](https://osu.ppy.sh/users/6735738) to play the infamous spaced-stream beatmap [*Cellar of Ghosts*](https://osu.ppy.sh/beatmapsets/1804362) at COE. See how that went for yourself:
 
 <div align="center">
-    <video width="85%" controls>
+    <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/375/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
@@ -41,7 +41,7 @@ If you'd rather smash fingers on both of your hands, [this osu!taiko map](https:
 And here's [one more osu!taiko map](https://osu.ppy.sh/beatmapsets/1832856) also by [Heaxys](https://osu.ppy.sh/users/5671417)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/375/The%20Almanac/Kardashev%20-%20Beside%20Cliffs%20and%20Chasms.mp3">
+    <source src="https://assets.ppy.sh/artists/375/The%20Almanac/Kardashev%20-%20Behind%20Leaves%20And%20Vines.mp3">
 </audio>
 
 ---
