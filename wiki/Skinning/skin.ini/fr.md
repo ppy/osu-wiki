@@ -1,6 +1,7 @@
 ---
 outdated_translation: true
 ---
+
 # skin.ini
 
 *Voir également : [skin.ini/Modèle](/wiki/Skinning/skin.ini/Blank)*
