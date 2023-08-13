@@ -216,31 +216,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 - Tiebreaker
   1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
 
-## Mappools
-
-### Round of 32
-
-**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
-
-- Rice
-  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
-  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
-  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
-  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
-  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
-- Hybrid
-  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
-  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
-- Long Note
-  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
-  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
-  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
-- SV
-  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
-  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
-- Tiebreaker
-  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
-
 ### Qualifiers
 
 **[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
