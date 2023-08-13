@@ -115,7 +115,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Saturday, 19 August 2023
 
-| Team A | Team B | Match time | Twitch stream | 
+| Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Singapore ::{ flag=SG }:: | ::{ flag=AU }:: Australia | [Aug 19 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230819T100000&p1=1440&p2=236&p3=57) | [osulive](https://twitch.tv/osulive) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=TW }:: Taiwan | [Aug 19 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230819T110000&p1=1440&p2=108&p3=241) | [osulive](https://twitch.tv/osulive) |
@@ -127,7 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Sunday, 20 August 2023
 
-| Team A | Team B | Match time | Twitch stream | 
+| Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=VE }:: Venezuela | [Aug 20 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T030000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
 | Japan ::{ flag=JP }:: | ::{ flag=CO }:: Colombia | [Aug 20 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T040000&p1=1440&p2=248&p3=41) | [osulive](https://twitch.tv/osulive) |
