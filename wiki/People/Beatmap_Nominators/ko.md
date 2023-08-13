@@ -130,6 +130,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | 인도네시아어 |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
+| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | 스페인어 |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 러시아어 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
@@ -162,7 +163,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | 한국어 |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
-| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | 스페인어 |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | 중국어 |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |

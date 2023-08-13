@@ -128,6 +128,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chino, cantonés |
 | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Indonesio |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
+| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | Español |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Ruso |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
@@ -160,7 +161,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
-| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | Español |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chino |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |

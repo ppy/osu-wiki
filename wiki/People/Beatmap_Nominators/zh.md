@@ -129,6 +129,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 汉语，粤语 |
 | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
+| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | 西班牙语 |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
@@ -161,7 +162,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
-| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | 西班牙语 |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | 汉语 |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |

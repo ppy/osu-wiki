@@ -130,6 +130,7 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Indonesia |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
+| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | Spanyol |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Rusia |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
@@ -162,7 +163,6 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | Korea |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
-| ::{ flag=AR }:: [Hareimu](https://osu.ppy.sh/users/4138746) | Spanyol |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Tionghoa |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) |  |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
