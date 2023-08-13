@@ -388,7 +388,7 @@ osu! organises the commands with a heading command. Which may look like this `[G
 - `ScorePrefix:`
   - Question: What prefix is used for the score numbers?
   - Value: text *(path/filename prefix)*
-  - Default: `combo`
+  - Default: `score`
 - `ScoreOverlap:`
   - Question: By how many pixels should the score numbers overlap?
   - Value: *integer*
