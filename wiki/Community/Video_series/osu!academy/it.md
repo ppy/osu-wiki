@@ -45,7 +45,7 @@ La serie principale di osu!academy serve come introduzione generale all'ampio mo
 | 25 | *Video rimosso* | *N/A* |
 | 26 | [Chiudere il Gioco](https://www.youtube.com/watch?v=y61v2QCHlpY) | [ztrot](https://osu.ppy.sh/users/6347) spiega come chiudere osu!. |
 | 27 | [Mapping di difficoltà ospite](https://www.youtube.com/watch?v=nXWA1Qh9bT8) | [ztrot](https://osu.ppy.sh/users/6347) illustra il concetto di mapping di difficoltà ospite e spiega come creare collaborazioni di beatmap con altri utenti. |
-| 28 | [Fondamenti del Forum](https://www.youtube.com/watch?v=PEZFOM8NKtw) | [ztrot](https://osu.ppy.sh/users/6347) illustra i forum di osu! e presenta le regole vigenti. |
+| 28 | [Fondamenti del Forum](https://www.youtube.com/watch?v=PEZFOM8NKtw) | [ztrot](https://osu.ppy.sh/users/6347) illustra i forum di osu! e presenta le regole in vigore. |
 | 29 | [Fondamenti dello Storyboarding](https://www.youtube.com/watch?v=uvCRwcyJ4TA) | [ztrot](https://osu.ppy.sh/users/6347) presenta il concetto di storyboard e dimostra l'uso degli strumenti di trasformazione disponibili nell'editor. |
 | 30 | [Fondamenti dello Storyboarding 2](https://www.youtube.com/watch?v=EvICgPuOylk) | [ztrot](https://osu.ppy.sh/users/6347) spiega come creare animazioni nell'editor di storyboard. |
 | 31 | [Mapping di difficoltà ospite e limiti dei contributi](https://www.youtube.com/watch?v=s2ZK4o8V5tI) | [ztrot](https://osu.ppy.sh/users/6347) presenta le regole di classificazione, le linee guida relative alle collaborazioni ed alle difficoltà ospite per le beatmap. |
