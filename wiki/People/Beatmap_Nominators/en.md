@@ -70,7 +70,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | German |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korean |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
-| ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |  
+| ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) |  |
@@ -114,7 +114,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
 | ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 | ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |  |
-| ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
+| ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japanese |
