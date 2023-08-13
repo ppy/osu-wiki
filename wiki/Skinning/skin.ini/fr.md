@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # skin.ini
 
 *Voir également : [skin.ini/Modèle](/wiki/Skinning/skin.ini/Blank)*
@@ -402,7 +398,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 - `ComboPrefix:`
   - Question : Quel préfixe est utilisé pour les numéros de combo ?
   - Valeur : texte *(préfixe du chemin/du nom de fichier)*
-  - Par défaut : `score`
+  - Par défaut : `combo`
 - `ComboOverlap:`
   - Question : De combien de pixels les numéros des combos doivent-ils se chevaucher ?
   - Valeur : *entier*
