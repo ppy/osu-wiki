@@ -62,6 +62,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
 ### スナップ基準表 (Snapping reference table)
+
 | 難易度 | 低スナップダッシュ | 高スナップダッシュ | 低スナップハイパーダッシュ | 高スナップハイパーダッシュ |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
@@ -178,6 +179,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の始点の間には少なくとも62 msの余裕を持たせる必要があります。** これは可読性を保証するためです。
 - **サークル/スライダーと[スピナー](/wiki/Gameplay/Hit_object/Spinner)の終点の間には少なくとも125 msの余裕を持たせる必要があります。** これは可読性を保証するためです。
+
 #### ガイドライン (Guidelines)
 
 - **[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)はスライダーの動きが分かりやすい場合のみ、[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)とスライダーリピートで使用してください。** これは、スライダーの動きが無秩序で不適当に難しくすることは、プレーを不快にさせ、精度に大きなペナルティを与える割には、メリットが少ないためです。
