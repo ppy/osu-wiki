@@ -88,7 +88,7 @@ Additional effects of increasing OD in each game mode:
 
 `Colours` allows for configuring the [combo colours](/wiki/Beatmapping/Combo_colour) and the playfield's background colour, in case the beatmap is missing the [background](/wiki/Beatmap/Background) image or video.
 
-During gameplay, the colours of hit objects will cycle in the specified order by default, changing on every [new combo](/wiki/Beatmapping/New_combo). As a result, it's important to not only synchronize combos with the song, but also to pick combo colours that compliment the background and make the hit objects well-readable.
+During gameplay, the colours of hit objects will cycle in the specified order by default, changing on every [new combo](/wiki/Beatmapping/New_combo). As a result, it's important to not only synchronize combos with the song, but also to pick combo colours that compliment the background and make the hit objects well-readable. It is also possible to manually define the order of colours during mapping, which is called [colourhaxing](/wiki/Beatmapping/Colourhaxing).
 
 The combo colours only take effect in osu! and osu!catch.
 
