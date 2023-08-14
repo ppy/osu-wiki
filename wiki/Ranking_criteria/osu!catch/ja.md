@@ -104,7 +104,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **すべての距離について[ウォーク](/wiki/Gameplay/Walk)または[ダッシュ](/wiki/Gameplay/Dash)であるかを、プレイヤーに明示ください。** ダッシュが必要なパターンを容易に認識できるようにするためです。
 - **[低スナップダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は異なるスナップの連続する[フルーツ](/wiki/Gameplay/Hit_object/Fruit)との間で、二回以上使用しないでください。** 例えば、1/1のダッシュの後に1/2のダッシュを使用することは避けてください。
 - **[高スナップダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[アンチフロー](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンを使用しないでください。**
-- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[スピナートラップ](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて10を超えないようにしてください。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
 - **ノート密度は主に1/1と1/2のリズムを使用してください。** 1/4や1/3のリズムは慎重に使用してください。
 
@@ -135,7 +135,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **強い[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)は使用しないでください。** [低スナップダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)の場合はトリガー距離の1.5倍以下、[高スナップハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の場合はトリガー距離の1.3倍以下が推奨されます。
 - **[低スナップハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)は[アンチフロー](/wiki/Beatmapping/Mapping_techniques/Antiflow)パターンと組み合わせて使用することができます。** もし使う場合、ハイパーダッシュの距離は[ウォーク](/wiki/Gameplay/Walk)が続く場合なら[トリガー距離](/wiki/Beatmapping/Trigger_distance)の1.2倍以下、[低スナップダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)が続く場合はトリガー距離の1.1倍以下が推奨されます。
 - **[高スナップハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後には[アンチフロー](/wiki/Beatmapping/Mapping_techniques/Antiflow)を続けるべきではありません。** もし使う場合、距離はトリガー距離の1.1倍以下にしてください。
-- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[スピナートラップ](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて12を超えないようにしてください。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
 - **ノート密度は主に1/2と1/3のリズムを使用してください。** 1/4や1/6のリズムは慎重に使用してください。
 
@@ -162,7 +162,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 - **異なるスナップが使用されている場合は、[低スナップハイパーダッシュ](/wiki/Gameplay/Dash_snapping#basic-snapped)を連続して使用しないでください。** 例えば、1/1のハイパーダッシュの後に1/2のハイパーダッシュが続く場合です。
 - **[高スナップハイパーダッシュ](/wiki/Gameplay/Dash_snapping#higher-snapped)の後に250ms以下の[アンチフロー](/wiki/Beatmapping/Mapping_techniques/Antiflow)[ダッシュ](/wiki/Gameplay/Dash)を使用しないでください。**
 - **[エッジダッシュ](/wiki/Gameplay/Edge_dash)は単体でのみ使用できます。** 他の[ダッシュ](/wiki/Gameplay/Dash)と[ハイパーダッシュ](/wiki/Gameplay/Hyperdash)を組み合わせないでください。
-- **[Spinner trap](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
+- **[スピナートラップ](/wiki/Gameplay/Spinner_trap)は使用しないでください。**
 - **[コンボ](/wiki/Beatmapping/Combo)は、スライダーテールとリピートを含めて16を超えないようにしてください。** [スピナー](/wiki/Gameplay/Hit_object/Spinner)は例外です。
 - **ノート密度は主に1/2と1/4か1/3と1/6を使用してください。** 1/8以上のリズムは慎重に使用してください。
 
