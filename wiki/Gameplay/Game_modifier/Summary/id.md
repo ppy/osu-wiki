@@ -2,11 +2,6 @@
 
 *Halaman utama: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
-<!-- READ BEFORE EDITING:
-- Mods are listed in order of appearance on the Mod Selection screen.
-  - osu! is treated as the default and will be displayed before osu!mania specific mods; with exception to "experimental" mods.
-  - SV2, TP, and DC are listed last because they are considered "experimental". -->
-
 *Catatan: Semua mod yang digunakan pada osu!mania tidak akan pernah meningkatkan pengali skor.*
 
 | Mod | Nama (Singkatan.) | Pengali | Caption |

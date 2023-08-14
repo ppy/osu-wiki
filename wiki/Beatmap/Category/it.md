@@ -1,6 +1,6 @@
 # Categorie di beatmap
 
-Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività , stato della [nominazione](/wiki/Beatmap_ranking_procedure#qualification) e popolarità.
+Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività, stato della [nominazione](/wiki/Beatmap_ranking_procedure#qualification) e popolarità.
 
 ## Categorie presenti
 
@@ -8,7 +8,7 @@ Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base
 
 La categoria "Mappe abbandonate" è un luogo dove risiedono le beatmap abbandonate dai loro [hosts](/wiki/Beatmap/Beatmap_host). Queste mappe non hanno classifiche, ma possono ancora essere scaricate e giocate e continuano a [contribuire alle statistiche di gioco](#statistiche-delle-mappe-non-classificate). Utilizzano l'icona del punto interrogativo (![](/wiki/shared/status/graveyard.png)) nella [schermata di selezione dei brani](/wiki/Client/Interface#song-select).
 
-Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatmap in lavorazione e in attesa](#mappe-in-lavorazione-e-in-attesa) quando non viene aggiornata per 4 settimane. L'autore può far rivivere la beatmap (cioè riportarla [In attesa](#mappe-in-lavorazione-e-in-attesa)) aggiornandola tramite il [sistema di caricamento delle beatmap](/wiki/Beatmapping/Beatmap_submission). Una beatmap nelle abbandonate non conta per il [limite totale di caricamento](/wiki/osu!supporter#limiti-aumentati) di un mappatore , ma per riportarla in vita è necessario uno slot libero in sospeso.
+Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatmap in lavorazione e in attesa](#mappe-in-lavorazione-e-in-attesa) quando non viene aggiornata per 4 settimane. L'autore può rianimare la beatmap (cioè riportarla [In attesa](#mappe-in-lavorazione-e-in-attesa)) aggiornandola tramite il [sistema di caricamento delle beatmap](/wiki/Beatmapping/Beatmap_submission). Una beatmap nelle abbandonate non conta per il [limite totale di caricamento](/wiki/osu!supporter#limiti-aumentati) di un mappatore, ma per riportarla in vita è necessario uno slot libero in sospeso.
 
 ### Mappe in lavorazione e in attesa
 
