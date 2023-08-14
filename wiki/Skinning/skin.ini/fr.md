@@ -398,7 +398,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 - `ComboPrefix:`
   - Question : Quel préfixe est utilisé pour les numéros de combo ?
   - Valeur : texte *(préfixe du chemin/du nom de fichier)*
-  - Par défaut : `combo`
+  - Par défaut : `score`
 - `ComboOverlap:`
   - Question : De combien de pixels les numéros des combos doivent-ils se chevaucher ?
   - Valeur : *entier*
