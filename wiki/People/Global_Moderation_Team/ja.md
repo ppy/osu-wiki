@@ -1,6 +1,9 @@
 ---
 tags:
   - GMT
+  - moderator
+  - moderators
+  - chat mod
   - モデレーター
   - チャットモデレーター
 outdated_translation: true

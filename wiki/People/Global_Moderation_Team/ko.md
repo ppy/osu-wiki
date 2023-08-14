@@ -1,6 +1,11 @@
 ---
 outdated_translation: true
 no_native_review: true
+tags:
+  - GMT
+  - moderator
+  - moderators
+  - chat mod
 ---
 
 # 글로벌 모더레이션 팀
