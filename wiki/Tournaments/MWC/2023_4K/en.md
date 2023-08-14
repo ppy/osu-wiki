@@ -139,6 +139,44 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Brazil ::{ flag=BR }:: | ::{ flag=SE }:: Sweden | [Aug 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T170000&p1=1440&p2=45&p3=239) | [osulive](https://twitch.tv/osulive) |
 | Mexico ::{ flag=MX }:: | ::{ flag=GB }:: United Kingdom | [Aug 20 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T180000&p1=1440&p2=155&p3=136) | [osulive](https://twitch.tv/osulive) |
 
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
+
+- Rice
+  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
+  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
+  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
+  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
+  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
+- Hybrid
+  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
+  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
+- Long Note
+  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
+  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
+  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
+- SV
+  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
+  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
+- Tiebreaker
+  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
+
+### Qualifiers
+
+**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
+
+1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
+2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
+3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
+4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
+5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
+6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
+7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
+8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
+
 ## Match results
 
 ### Qualifiers
@@ -190,44 +228,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #41 | ::{ flag=PA }:: Panama | 40.145 | 2,595,515 |
 | #42 | ::{ flag=HN }:: Honduras | *DNP* | *DNP* |
 | #42 | ::{ flag=SA }:: Saudi Arabia | *DNP* | *DNP* |
-
-## Mappools
-
-### Round of 32
-
-**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
-
-- Rice
-  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
-  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
-  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
-  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
-  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
-- Hybrid
-  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
-  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
-- Long Note
-  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
-  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
-  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
-- SV
-  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
-  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
-- Tiebreaker
-  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
-
-### Qualifiers
-
-**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
-
-1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
-2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
-3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
-4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
-5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
-6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
-7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
-8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Ruleset
 
