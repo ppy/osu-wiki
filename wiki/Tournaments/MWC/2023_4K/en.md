@@ -47,7 +47,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | Mappool playtester | ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=TH }:: [nanonbandusty](https://osu.ppy.sh/users/15543726), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155) |
 | Mapper | ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=CN }:: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=US }:: [Halogen\-](https://osu.ppy.sh/users/169992), ::{ flag=CL }:: [hna](https://osu.ppy.sh/users/12335541), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=CA }:: [Pizza69](https://osu.ppy.sh/users/25285704), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 | SV mapper/helper | ::{ flag=FR }:: **[Paturages](https://osu.ppy.sh/users/1375479)**, ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=BR }:: [Halo\-](https://osu.ppy.sh/users/7572142), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [Eliminate294](https://osu.ppy.sh/users/29830557), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -139,6 +139,44 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Brazil ::{ flag=BR }:: | ::{ flag=SE }:: Sweden | [Aug 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T170000&p1=1440&p2=45&p3=239) | [osulive](https://twitch.tv/osulive) |
 | Mexico ::{ flag=MX }:: | ::{ flag=GB }:: United Kingdom | [Aug 20 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T180000&p1=1440&p2=155&p3=136) | [osulive](https://twitch.tv/osulive) |
 
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
+
+- Rice
+  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
+  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
+  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
+  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
+  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
+- Hybrid
+  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
+  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
+- Long Note
+  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
+  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
+  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
+- SV
+  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
+  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
+- Tiebreaker
+  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
+
+### Qualifiers
+
+**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
+
+1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
+2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
+3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
+4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
+5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
+6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
+7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
+8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
+
 ## Match results
 
 ### Qualifiers
@@ -190,44 +228,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #41 | ::{ flag=PA }:: Panama | 40.145 | 2,595,515 |
 | #42 | ::{ flag=HN }:: Honduras | *DNP* | *DNP* |
 | #42 | ::{ flag=SA }:: Saudi Arabia | *DNP* | *DNP* |
-
-## Mappools
-
-### Round of 32
-
-**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
-
-- Rice
-  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
-  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
-  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
-  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
-  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
-- Hybrid
-  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
-  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
-- Long Note
-  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
-  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
-  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
-- SV
-  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
-  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
-- Tiebreaker
-  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
-
-### Qualifiers
-
-**[Download the mappack here (46 MB)](https://packs.ppy.sh/P218%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Qualifiers.zip)**
-
-1. [sakuraburst - sha (Cut Ver.) (Paturages) \[Stage 1: blake\]](https://osu.ppy.sh/beatmapsets/2039247#mania/4253502)
-2. [Frums - ultra-blazures (Cut Ver.) (aeoliancarp) \[Stage 2: amalgam\]](https://osu.ppy.sh/beatmapsets/2039339#mania/4253751)
-3. [xi - Tenimuhou (Cut Ver.) (elexire) \[Stage 3: Absolute\]](https://osu.ppy.sh/beatmapsets/2039240#mania/4253493)
-4. [technoplanet feat. Haruno - End of Fairytale (Raveille) \[Stage 4: Parable\]](https://osu.ppy.sh/beatmapsets/2039243#mania/4253496)
-5. [Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Toaph Daddy) \[Stage 5: Overjoy\]](https://osu.ppy.sh/beatmapsets/2039298#mania/4253649)
-6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
-7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
-8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Ruleset
 
