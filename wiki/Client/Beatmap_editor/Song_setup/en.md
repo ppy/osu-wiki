@@ -16,24 +16,24 @@ The **song setup** window is the fourth section of the [beatmap editor](/wiki/Cl
 | `Romanised Title` | The song's romanised name. *Note: only editable when `Title` contains Unicode characters.* |
 | `Beatmap Creator` | Username of the [beatmap host](/wiki/Beatmap/Beatmap_host). Authors of the [guest difficulties](/wiki/Beatmap/Guest_difficulty) should be specified in tags instead. |
 | `Difficulty` | Name of the difficulty, which should reflect its contents. May indicate [guest participation](/wiki/Beatmap/Guest_difficulty), be [standardised](/wiki/Ranking_criteria/Difficulty_naming), or [custom](/wiki/Ranking_criteria#rules.1). |
-| `Source` | (Optional) The song's origin media, such as a video game, or a movie. |
+| `Source` | (Optional) The song's origin media, such as a video game or a movie. |
 | `Tags` | Keywords for search, separated by spaces. May contain anything relevant to the beatmap or the song, such as the album name, guest mappers' names, or genre. |
 
 ## Difficulty
 
 *Note: The game mode-specific [ranking criteria](/wiki/Ranking_criteria) contain recommended settings for every difficulty level.*
 
-![Two screenshots of the Difficulty tab. osu!mania differs from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
+![Two screenshots of the Difficulty tab. osu!mania differs from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. This dialogue window is different for osu!mania-specific difficulties, as shown on the right.")
 
-`Difficulty` contains base settings hinting how hard and skill-demanding a beatmap generally is for players, both objectively and subjectively. All values listed here may be affected by [game modifiers](/wiki/Gameplay/Game_modifier) which reduce or increase difficulty. The common notation to represent a difficulty setting and its value is the setting's abbreviation, followed by the value, such as `CS 4` for a beatmap with the corresponding circle size.
+`Difficulty` contains settings that affect how hard and skill-demanding a beatmap generally is for players, where higher values increase difficulty. All values listed here may be affected by certain [game modifiers](/wiki/Gameplay/Game_modifier). These settings are commonly referred to by their abbreviation followed by their value, such as "CS 4" for a beatmap with the corresponding circle size.
 
-By holding down `Shift`, it's possible to adjust the values with the 0.1 precision, as opposed to the standard step of 1.
+The values can be adjusted with 0.1x precision by holding `Shift`, as opposed to the standard step of 1.
 
 ### HP drain rate
 
 *Main article: [Health](/wiki/Beatmap/HP_drain_rate)*
 
-HP drain rate (HP) determines the amount of health recovery or damage from accurate or mistimed [hits](/wiki/Gameplay/Judgement). In osu! and osu!catch, it also affects the rate of [passive health drain](/wiki/Beatmap/HP_drain_rate). Higher values provide lower health recovery with higher punishment.
+HP drain rate (HP) determines the amount of health recovery or damage from accurate or mistimed [hits](/wiki/Gameplay/Judgement). In osu! and osu!catch, it also affects the rate of [passive health drain](/wiki/Beatmap/HP_drain_rate). Higher values provide lower health recovery with higher punishments.
 
 ### Circle size
 
@@ -41,7 +41,7 @@ HP drain rate (HP) determines the amount of health recovery or damage from accur
 
 ![Overview of various circle sizes](img/Circle_sizes.png "Overview of various circle sizes")
 
-Circle size (CS) determines the size of hit objects in osu! and osu!catch, while not affecting osu!taiko gameplay. Higher values will make hit objects smaller; while the editor limits CS to a 2 to 7 range, it's possible to overcome the limitation by manually editing the difficulty's [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file.
+Circle size (CS) determines the size of hit objects in osu! and osu!catch. Higher values will make hit objects smaller. While the editor limits CS to a 2 to 7 range, it's possible to overcome the limitation by manually editing the difficulty's [`.osu`](/wiki/Client/File_formats/osu_(file_format)) file. Circle size has no effect in osu!taiko.
 
 For [osu!mania-specific](#mode-specific) beatmaps, the circle size setting is replaced with the key count (keys, or simply K), which defines the number of the playfield columns. Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
@@ -58,7 +58,7 @@ osu!taiko and osu!mania are not affected by the approach rate changes — instea
 *Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
 *Note: On the beatmap page, overall difficulty is listed as Accuracy.*
 
-Overall difficulty (OD) is responsible for the sizes of hit windows, which define how difficult it is to achieve high accuracy. Higher OD values mean shorter timing windows requiring more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap.
+Overall difficulty (OD) is responsible for the sizes of hit windows, which define how difficult it is to achieve high accuracy. Higher OD values mean shorter timing windows, requiring more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap.
 
 Low OD values on osu! maps with high [tempo](/wiki/Music_theory/Tempo) may cause adjacent hit windows to overlap and enforce [notelock](/wiki/Gameplay/Judgement/Notelock), disabling objects until earlier hit windows are fully processed. As a result, missing a single note will trigger a cascade failure and make the player fail the beatmap.
 
@@ -88,7 +88,7 @@ Additional effects of increasing OD in each game mode:
 
 `Colours` allows for configuring the [combo colours](/wiki/Beatmapping/Combo_colour) and the playfield's background colour, in case the beatmap is missing the [background](/wiki/Beatmap/Background) image or video.
 
-During gameplay, the colours of hit objects will cycle in the specified order, changing on every [new combo](/wiki/Beatmapping/New_combo). As a result, it's important to not only synchronize combos with the song, but also to pick combo colours that compliment the background and make the hit objects well-readable.
+During gameplay, the colours of hit objects will cycle in the specified order by default, changing on every [new combo](/wiki/Beatmapping/New_combo). As a result, it's important to not only synchronize combos with the song, but also to pick combo colours that compliment the background and make the hit objects well-readable.
 
 The combo colours only take effect in osu! and osu!catch.
 
@@ -127,7 +127,7 @@ The combo colours only take effect in osu! and osu!catch.
 
 The stack leniency is an osu!-specific setting, which affects the behaviour of stacked objects. Normally, [sliders](/wiki/Gameplay/Hit_object/Slider) and [circles](/wiki/Gameplay/Hit_object/Hit_circle) that are close in time will automatically [stack](/wiki/Beatmapping/Mapping_techniques/Stack) and slightly shift if placed in the same spot. This is done to help players better see [overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) objects.
 
-The stack leniency value controls the maximum amount of time between objects, after which they will not be stacked. It is best left at its default value of `7`.
+The stack leniency value controls the maximum amount of time between objects, after which they will not be stacked. Higher values will allow objects with longer timeline gaps to stack with each other.
 
 ### Mode-specific
 
