@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
   - chat mod
+outdated_translation: true
+outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ---
 
 # Team di Moderazione Globale
