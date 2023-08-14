@@ -14,7 +14,7 @@ tags:
 
 **Playfield** is a portion of the game window where [hit objects](/wiki/Gameplay/Hit_object) and [storyboard sprites](/wiki/Storyboard/Scripting/Objects) are usually placed. On screen resolutions with the 4:3 aspect ratio, the playfield is partially covered with [interface](/wiki/Client/Interface) elements such as leaderboard, key counter, or [replay](/wiki/Gameplay/Replay) controls.
 
-Typically, the playfield contains a [background](/wiki/Beatmap/Background) image, video, or the storyboard, but mappers can also choose a placeholder colour for when the beatmap doesn't have any background. During gameplay, it's possible to dim the playfield using the [visual settings](/wiki/Client/Interface/Visual_settings) panel, so that it's easier to see hit objects.
+Typically, the playfield contains a [background](/wiki/Beatmap/Background) image, video, or a storyboard, but mappers can also choose a placeholder colour for when the beatmap doesn't have any background. During gameplay, it's possible to dim the playfield using the [visual settings](/wiki/Client/Interface/Visual_settings) panel, so that it's easier to see hit objects.
 
 ## Gameplay
 
