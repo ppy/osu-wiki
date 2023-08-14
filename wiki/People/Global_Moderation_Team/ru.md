@@ -8,8 +8,6 @@ tags:
   - модератор
   - модератор чата
   - модераторы
-outdated_translation: true
-outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ---
 
 # Команда глобальной модерации
@@ -98,7 +96,7 @@ outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, организация турниров |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация маппинг-сообщества |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский, китайский |  |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский, китайский | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Вьетнамский | Модерация чата |
@@ -176,3 +174,4 @@ outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ## Примечания
 
 [^task-Azer]: Хотя Azer и не является модератором, его добавили в эту группу ради технических возможностей, необходимых для организации и управления osu! World Cup.
+[^task-mangomizer]: Хотя mangomizer и не является модератором, его добавили в эту группу ради технических возможностей, необходимых для доступа ко внутренним форумам.
