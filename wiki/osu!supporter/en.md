@@ -85,7 +85,7 @@ osu! offers more relaxed limits on various online features to supporters:
 | :-- | :-: | :-: |
 | [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
 | Online beatmap favourites | 100 | 1000 |
-| Friend count | 250 | 500 |
+| Friend count | 500 | 1000 |
 
 Additionally, bearers of osu!supporter are granted more lenient beatmap download limits.
 

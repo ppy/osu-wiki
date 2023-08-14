@@ -85,7 +85,7 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 | :-- | :-: | :-: |
 | [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `4 + min(beatmaps classées, 4)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
 | Beatmap favorites en ligne | 100 | 1000 |
-| Nombre d'amis | 250 | 500 |
+| Nombre d'amis | 500 | 1000 |
 
 De plus, les détenteurs d'osu!supporter bénéficient de limites de téléchargement de beatmap plus souples.
 
