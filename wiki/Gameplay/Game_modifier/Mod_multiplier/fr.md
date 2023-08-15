@@ -9,13 +9,9 @@ tags:
   - score
 ---
 
-<!--Outdated because the math and formula to the score multiplier is wrong. Spawned from issue #4448-->
-
 # Multiplicateur de score
 
 *Voir également : [Modificateur de jeu](/wiki/Gameplay/Game_modifier)*
-
-<!-- TBA: Not to be confused with: [Combo](link) -->
 
 ## Description
 
@@ -27,4 +23,4 @@ Toutefois, si plusieurs mods sont activés, la valeur du multiplicateur de score
 
 ## Le saviez-vous ?
 
-- osu! arrondissait en dessous le multiplicateur de score au centième le plus proche jusqu'à ce qu'un patch corrige le problème d'arrondi en arrondissant au dessus seulement si la valeur des millièmes est de 0.005 ou plus. 
+- osu! arrondissait en dessous le multiplicateur de score au centième le plus proche jusqu'à ce qu'un patch corrige le problème d'arrondi en arrondissant au dessus seulement si la valeur des millièmes est de 0.005 ou plus.

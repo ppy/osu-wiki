@@ -21,7 +21,7 @@ no_native_review: true
 
 - 別名：FO
 - 類型：提高難度
-- 預設快捷鍵：`F` `F` 或 `Shift`+`F`
+- 預設快捷鍵：`F` `F` 或 `Shift` + `F`
 - 適用的遊戲模式：![][osu!mania]
 
 ## 說明

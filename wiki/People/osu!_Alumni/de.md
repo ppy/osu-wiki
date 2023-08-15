@@ -175,7 +175,6 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=TR }:: [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | GMT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |

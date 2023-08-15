@@ -33,7 +33,7 @@ Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 
 ## Trivia
 
-- Mod ScoreV2 diperkenalkan pada 22 Februari 2017 (22/02/2017) versi [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
+- Mod ScoreV2 diperkenalkan pada 22 Februari 2017 (22/02/2017) versi [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
