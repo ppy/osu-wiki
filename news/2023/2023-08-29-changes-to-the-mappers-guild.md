@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changes to the Mappers' Guild
-date: 2023-07-16 00:00:00 +0000
+date: 2023-08-29 00:00:00 +0000
 ---
 
 The doors are wide open. Contribute to Featured Artist mapping and earn some cool stuff in the process through the **Mappers' Guild**!
@@ -16,7 +16,7 @@ This article covers new additions to the **Mappers' Guild** since [our last upda
 
 - [Priority quests](#priority-quests)
 - [Ranked map requirement lifted](#ranked-maps-requirement-lifted)
-- [Various changes](#various-changes)
+- [Smaller changes](#smaller-changes)
 - [Major contributors to Featured Artist mapping](#major-contributors)
 
 ## Priority quests
@@ -29,46 +29,40 @@ These new-style quests function differently from normal quests too. Here are the
 
 - **Anyone can participate in priority quests.** Unlike normal quests, you don't need to claim priority quests in advance.
 - **Quests are tiered by difficulty:**
-  - Tier 1 ![bronze icon](https://mappersguild.com/images/bronze-small.png) (easiest, most common)
-  - Tier 2 ![silver icon](https://mappersguild.com/images/silver-small.png)
-  - Tier 3 ![gold icon](https://mappersguild.com/images/gold-small.png)
-  - Tier 4 ![platinum icon](https://mappersguild.com/images/platinum-small.png) (hardest, least common)
-- Depending on the quest's win condition, **multiple users can earn prizes for the same quest**.
-- **Maps can be added to priority quests until the deadline is met or a prize-winner is selected.** This also depends on the quest's win condition!
+  - Tier 1 ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png) (easiest, most common, and lowest reward)
+  - Tier 2 ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
+  - Tier 3 ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+  - Tier 4 ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png) (hardest, least common, and highest reward)
+- Depending on the quest's completion conditions, **multiple users can earn prizes for the same quest**.
+- **Priority quests don't last forever.** Maps can be added to priority quests until a deadline is met or a beatmap completes the quest.
 
-Just to give you a clearer idea of how these work, here's an example of a quest straight from the [**priority quests listing**](https://mappersguild.com/missions):
-
-<IMAGE GOES HERE>
-
-If you're still confused about how priority quests work, the [**priority quests listing**](https://mappersguild.com/missions) explains everything in more detail than this article!
+Check out these new quests from the [**priority quests listing**](https://mappersguild.com/missions). It explains basically everything that we can't fit in this article!
 
 ### Priority quest rewards
 
-As the name implies, these quests are **higher priority** than ordinary quests, and we're offering some special rewards to compensate!
+As the name implies, these quests are a bit more special than ordinary quests, and we're offering some special rewards in turn!
 
-To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](/wiki/Community/Mappers_Guild#rewards). This is handled with a complicated points-based system, which you can read about [here](LINK) if you're really invested.
+To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](/wiki/Community/Mappers_Guild#rewards). This is handled with a complicated points-based system, which you can read about [here](https://mappersguild.com) if you're really invested.
 
 ![Mappers' Guild profile badges](/wiki/Community/Mappers_Guild/img/mg-badges.png)
 
-On top of that, anyone who completes a priority quest also receives a **customised physical prize** based on a pattern in their winning beatmap!
+On top of that, anyone who completes a priority quest also receives a **customised keychain** based on a pattern in their winning beatmap!
 
-<div align="center">
-    <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
-    </video>
-</div>
+![keychain](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg)
+
+Depending on your country, shipping this may be difficult or impossible. [pishifat](https://osu.ppy.sh/users/3178418) (the dude writing this article) will be creating and shipping these individually, so don't expect the same efficiency as a professional production studio. :)
 
 And on top of *all of that*, we're also offering a new profile badge to anyone who completes 3+ priority quests.
 
-![Priority quest badge](LINK)
+![Priority quest badge](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/questbadge.png)
 
-The [**priority quests listing**](https://mappersguild.com/missions) will always have a few active quests running at any given time, so participate in whichever you're interested in!
+The [**priority quests listing**](https://mappersguild.com/missions) details more about prizes and will always have a few active quests running at any given time, so participate in whichever you're interested in!
 
 ## Ranked map requirement lifted
 
 Previously, you needed **at least 3 Ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
 
-As of today, **anyone can participate in the Mappers' Guild**!
+As of this change, **anyone can participate in the Mappers' Guild**!
 
 This includes:
 
@@ -78,7 +72,7 @@ This includes:
 
 If you're a newer mapper looking to get started with the Mappers' Guild, feel free to ask questions in the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel!
 
-## Various changes
+## Smaller changes
 
 Most changes to the Mappers' Guild aren't too glamorous. Here's a few highlights from the past year:
 
