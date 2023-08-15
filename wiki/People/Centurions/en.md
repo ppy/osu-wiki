@@ -13,7 +13,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | :-- | :-- | :-- | :-- |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-27](https://osu.ppy.sh/beatmapsets/935244) |  |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) |  |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
