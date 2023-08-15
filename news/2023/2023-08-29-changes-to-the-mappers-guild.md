@@ -15,7 +15,7 @@ The **Mappers' Guild** is a community of mappers who create maps from the [Featu
 This article covers new additions to the **Mappers' Guild** since [our last update](https://osu.ppy.sh/home/news/2022-07-25-mappers-guild-updates). Skip to any section you're interested in:
 
 - [Priority quests](#priority-quests)
-- [Ranked map requirement lifted](#ranked-maps-requirement-lifted)
+- [Ranked maps requirement lifted](#ranked-maps-requirement-lifted)
 - [Smaller changes](#smaller-changes)
 - [Major contributors to Featured Artist mapping](#major-contributors)
 
@@ -58,7 +58,7 @@ And on top of *all of that*, we're also offering a new profile badge to anyone w
 
 The [**priority quests listing**](https://mappersguild.com/missions) details more about prizes and will always have a few active quests running at any given time, so participate in whichever you're interested in!
 
-## Ranked map requirement lifted
+## Ranked maps requirement lifted
 
 Previously, you needed **at least 3 Ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
 
