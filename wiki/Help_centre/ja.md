@@ -10,6 +10,7 @@ tags:
   - 問題
   - トラブル
   - サポート
+no_native_review: true
 ---
 
 # ヘルプセンター
