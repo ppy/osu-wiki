@@ -73,7 +73,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania) dient die Mod Hidden als das Gegenstü
 
 - Die Mod Hidden wurde erstmals in Ouendan 2 veröffentlicht, welches das zweite japanische DS-Spiel in der Serie [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) ist (die Serie, auf der osu! basiert).
 - Wenn eine Beatmap erfolgreich mit der Note S oder SS und der aktivierten Mod Hidden abgeschlossen wird, dann erhält man stattdessen die Silbervariante der Note.
-- Standardmäßig ist in [osu!](/wiki/Game_mode/osu!) der [Approach-Circle](/wiki/Gameplay/Hit_object/Approach_circle) des ersten [Hit-Objekts](/wiki/Gameplay/Hit_object) beim Start der Beatmap temporär sichtbar, um den Spielern zu helfen, besser abzuschätzen, wann sie das Hit-Objekt antippen müssen. Das kann in den Einstellungen unter `Gameplay` deaktiviert werden.
+- Standardmäßig ist in [osu!](/wiki/Game_mode/osu!) der [Approach-Circle](/wiki/Gameplay/Hit_object/Approach_circle) des ersten [Hit-Objekts](/wiki/Gameplay/Hit_object) beim Start der Beatmap temporär sichtbar, um den Spielern zu helfen, besser abzuschätzen, wann sie das Hit-Objekt antippen müssen. Das kann in den [Einstellungen](/wiki/Client/Options) unter `Gameplay` deaktiviert werden.
 - In osu!mania ist die Mod Hidden eine Variante der Mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 - Die aktuelle Version der Mod Hidden in osu!mania war früher eine separate Mod namens [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out).
 
