@@ -25,7 +25,6 @@ function _docker() {
   docker run \
     --volume ${osu_wiki_root}:${container_workdir}/ \
     --volume ${container_workdir}/node_modules \
-    --volume /usr/local/bin \
     --workdir ${container_workdir} osu-wiki bash -c "$*"
 }
 
