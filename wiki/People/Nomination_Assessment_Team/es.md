@@ -103,15 +103,15 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluación |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluación |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés | Evaluación |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés | Evaluación |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluación, estructural[^task-fuju] |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino | Evaluación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluación |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Evaluación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural[^task-pishifat] |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino | Evaluación |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluación, estructural[^task-star] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluación |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluación |
@@ -122,6 +122,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluación |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Liderazgo |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluación |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Liderazgo |
