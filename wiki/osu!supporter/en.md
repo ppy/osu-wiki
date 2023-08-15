@@ -6,6 +6,8 @@ tags:
 
 # osu!supporter
 
+![osu!supporter promotional image](img/supporter-eyecatch.jpg)
+
 **osu!supporter** (or the ***osu!supporter tag***) is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present. The extra features from osu!supporter do not give any advantage in gameplay, performance, or score, and never will.
 
 The osu!supporter tag may be obtained from the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag).
@@ -126,10 +128,6 @@ Supporters may access multiplayer from builds on the early access "cutting edge"
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases, and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support).
 
 ## Getting osu!supporter
-
-::: Infobox
-![](img/store-product.jpg?2 "osu!supporter product banner from the osu!store")
-:::
 
 To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with the number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.
 
