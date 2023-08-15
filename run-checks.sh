@@ -25,7 +25,7 @@ function _docker() {
   docker run \
     --volume ${osu_wiki_root}:${container_workdir}/ \
     --volume ${container_workdir}/node_modules \
-    --workdir ${container_workdir} osu-wiki "$@"
+    --workdir ${container_workdir} osu-wiki bash -c "$*"
 }
 
 function _test_wrapper() {
@@ -64,7 +64,7 @@ function main() {
       --)
         shift
         _build_container
-        _docker $@
+        _docker "$@"
         exit $?
         ;;
       *|-*|--*)
