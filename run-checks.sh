@@ -87,7 +87,9 @@ function main() {
       # Changes that are not committed (staged + unstaged + untracked), but without deleted files
       git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
       # Changes committed so far (may overlap with the above)
-      git diff --no-renames --name-only --diff-filter=d ${first_commit_hash}^
+      if [[ -n ${first_commit_hash} ]]; then
+        git diff --no-renames --name-only --diff-filter=d ${first_commit_hash}^
+      fi
     )
   )
 
