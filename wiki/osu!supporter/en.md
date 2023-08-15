@@ -51,7 +51,7 @@ The `me!` section may be a good place for:
 Supporters can further customise their profile by setting a cover image:
 
 - Press the pencil icon in the lower right corner of the cover placeholder.
-- Select a new cover from a few predefined options, or upload your own image (its dimensions should be 2400x640).
+- Select a new cover from a few predefined options, or upload a custom image (its dimensions should be 2400x640).
 
 Once osu!supporter expires, the cover will remain, but cannot be changed.
 
@@ -137,9 +137,15 @@ Afterwards, click `Add to Cart` to put the supporter tag into the osu!store shop
 
 ### Gifting osu!supporter
 
-osu!supporter may also be gifted to another player by entering their username into the grey box below the user card. More people can be added by going back to the store page and repeating the process.
+::: Infobox
+![](img/profile-gift-supporter.png "Dropdown menu button on a profile page for gifting someone osu!supporter")
+:::
 
-### Conclusion
+osu!supporter may also be gifted to another player by entering their username below the user card, or by clicking `Gift supporter tag` on their profile page. More people can be added by going back to the store page or someone else's profile and repeating the process.
+
+The recipient is not notified of who gave them the tag, but when gifting osu!supporter, an optional message can be attached to be sent alongside the notification email.
+
+### Confirmation
 
 After the transaction is completed, there will be a new event in the `Recent Activity` section in the profile of both the giver and the recipient:
 
@@ -147,8 +153,8 @@ After the transaction is completed, there will be a new event in the `Recent Act
 - `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter or gifted it before.
 - `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
-Additionally, both the giver and the recipient will receive e-mail notifications mentioning the purchase.
+Additionally, both the giver and the recipient will receive email notifications mentioning the purchase.
 
 ## References
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)
+[^pending-beatmaps-ref]: [Forum post by peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)
