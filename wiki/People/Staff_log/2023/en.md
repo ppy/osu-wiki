@@ -472,8 +472,8 @@ Abbreviations for user groups are used throughout this log:
 - 2023-08-06: Added [Silhoueska Elze](https://osu.ppy.sh/users/11517895) to **Project Loved Team**
 - 2023-08-06: Added [elexire](https://osu.ppy.sh/users/9206093) to **Project Loved Team**
 - 2023-08-09: Added [Ryuusei Aika](https://osu.ppy.sh/users/7777875) to **NAT**
-- 2023-08-02: Added [mangomizer](https://osu.ppy.sh/users/1893718) to **GMT**
-- 2023-08-09: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
+- 2023-08-11: Added [mangomizer](https://osu.ppy.sh/users/1893718) to **GMT**
+- 2023-08-11: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
 
 ### Beatmap Nominators
 
