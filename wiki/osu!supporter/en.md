@@ -151,6 +151,8 @@ After the transaction is completed, there will be a new event in the `Recent Act
 - `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter or gifted it before.
 - `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
+The giver can also hide this event from their own profile by ticking `Hide all osu!supporter tags in this order from my activity` during checkout. This is useful for gifting anonymously because it prevents the recipient from cross-checking profile activity.
+
 Additionally, both the giver and the recipient will receive email notifications mentioning the purchase.
 
 ## References
