@@ -44,7 +44,7 @@ As the name implies, these quests are a bit more special than ordinary quests, a
 
 To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](/wiki/Community/Mappers_Guild#rewards). This is handled with a complicated points-based system, which you can read about [here](https://mappersguild.com) if you're really invested.
 
-![Mappers' Guild profile badges](/wiki/Community/Mappers_Guild/img/mg-badges.png)
+![Tier 1 badge](https://assets.ppy.sh/profile-badges/mg2018-1star.png) ![Tier 2 badge](https://assets.ppy.sh/profile-badges/mg2018-2star.png) ![Tier 3 badge](https://assets.ppy.sh/profile-badges/mg2018-3star.png) ![Tier 4 badge](https://assets.ppy.sh/profile-badges/mg2018-4star.png)
 
 On top of that, anyone who completes a priority quest also receives a **customised keychain** based on a pattern in their winning beatmap!
 
@@ -80,9 +80,9 @@ Most changes to the Mappers' Guild aren't too glamorous. Here's a few highlights
 
 Up until now, modders would earn 1 [Mappers' Guild point](/wiki/Community/Mappers_Guild#rewards) for each map they mod.
 
-Some [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have requested modding points to scale according to beatmap length, since anyone who nominates a beatmap is guaranteed to have modded the full mapset.
+Some [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have requested their points for modding to scale according to beatmap length, since anyone who nominates a beatmap is guaranteed to have modded the full mapset.
 
-That said, anyone who nominated a Mappers' Guild beatmap has earned modding points relative to their modding efforts. This includes cases when a user forgot to add themselves as a modder too!
+That said, anyone who nominated a Mappers' Guild beatmap has earned points relative to their modding efforts. This includes cases when a user forgot to add themselves as a modder too!
 
 ### Notifications and invites removed
 
