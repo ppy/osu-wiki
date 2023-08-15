@@ -66,12 +66,12 @@ Bottone della barra degli strumenti: ![Bottone Barrato](img/strike.png "Barrato"
 ### Colore
 
 ```
-[color=CODICE_HEX]testo[/color]
+[color=#CODICE_HEX]testo[/color]
 ```
 
 *Per un elenco di tutti i nomi dei colori, vedi [Nomi dei colori X11](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
 
-Il tag `[color]` viene utilizzato per formattare il testo attraverso vari tipi di colori. Il tag utilizza il [formato esadecimale](https://it.wikipedia.org/wiki/Colori_Web#Tripletta_esadecimale) per specificare il colore, anche se può essere specificato anche attraverso i nomi dei colori HTML come "red" (rosso) o "green" (verde). Per specificare, sostituire l'argomento `CODICE_HEX` con il codice HEX o il nome HTML corrispondente al colore desiderato.
+Il tag `[color]` viene utilizzato per formattare il testo attraverso vari tipi di colori. Il tag utilizza il [formato esadecimale](https://it.wikipedia.org/wiki/Colori_Web#Tripletta_esadecimale) per specificare il colore, anche se può essere specificato anche attraverso i nomi dei colori HTML come "red" (rosso) o "green" (verde). Per specificare, sostituire l'argomento `#CODICE_HEX` con il codice HEX o il nome HTML corrispondente al colore desiderato.
 
 L'argomento sopracitato non utilizza le virgolette (`"`), e non ha un colore predefinito. Se non viene specificato alcun argomento o se vengono utilizzate le virgolette, il tag non verrà analizzato come tag BBCode.
 
