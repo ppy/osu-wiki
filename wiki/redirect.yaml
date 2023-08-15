@@ -1090,15 +1090,6 @@
 "visual_setting":              "Client/Interface/Visual_settings"
 "vs":                          "Client/Interface/Visual_settings"
 
-# TODO: These redirects block access to index pages. They can be brought back
-# after a change on osu-web allows for page subtitles to use redirects.
-# see https://github.com/ppy/osu-wiki/pull/1764#issuecomment-431350801
-#
-# "tournaments/owc": "Tournaments#-osu!-world-cup"
-# "tournaments/twc": "Tournaments#-taiko-world-cup"
-# "tournaments/cwc": "Tournaments#-catch-the-beat-world-cup"
-# "tournaments/mwc": "Tournaments#-osu!mania-world-cup"
-
 # Moved IGTS to GTS directory
 "tournaments/igts":      "Tournaments/GTS"
 "tournaments/igts/2018": "Tournaments/GTS/IGTS_2018"
