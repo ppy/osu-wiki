@@ -28,8 +28,8 @@ Ce serveur est principalement composé de :
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (famoss) |
-| Modérateurs du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (famoss), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (tailsdk), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (maxus_), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (popegadget), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (protastic101) |
+| Propriétaire du serveur | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_) |
+| Modérateurs du serveur | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) (@decku), ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) (@guise_3538), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk) |
 
 ## Vérification
 

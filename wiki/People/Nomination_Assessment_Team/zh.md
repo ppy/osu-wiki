@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 405ec41c04df01386e405a65a8440ff8d6a12165
 tags:
  - NAT
  - 审核评估
@@ -108,15 +106,15 @@ NAT 领导人的职责是：
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | 评估 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估 |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 | 评估 |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 | 评估 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估，组织[^task-fuju] |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 评估 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 组织[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 评估 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估 |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 评估 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 组织[^task-pishifat] |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 汉语 | 评估 |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估，组织[^task-star] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 评估 |
@@ -127,6 +125,7 @@ NAT 领导人的职责是：
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | 领导 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 | 评估 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 领导 |
@@ -148,11 +147,9 @@ NAT 领导人的职责是：
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估 |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 丹麦语 | 评估 |
 
-### 机器人账户
+---
 
-| 名字 | 语言 | 所属类别 |
-| :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而非玩家账号发布消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
 
 ## 备注
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
+---
+
 # Benutzeroberfläche
 
 Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie den Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:

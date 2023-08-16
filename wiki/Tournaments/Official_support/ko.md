@@ -11,7 +11,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2023년 6월 19일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해[계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
+이 문서는 2023년 6월 19일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
 
 ## 혜택
 
@@ -84,7 +84,7 @@ tags:
 - 토너먼트와 관련된 모든 멀티플레이어 매치 로비는 "!mp make" 명령으로 생성되어야 합니다. 결과는 원래 있던 토너먼트 포럼 게시물에 링크되어있는 외부 소스에 명확하고 접근할 수 있는 형식으로 공개적으로 제공되어야 합니다.
 - 모든 규칙 변경 사항은 모든 참가자에게 명확하게 전달되어야 합니다. [위에서](#토너먼트) 언급한 모든 기대치를 유지해야만 합니다.
 
-토너먼트가 종료될 경우, 토너먼트 호스트는 계정 지원팀[tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 다음 사항을 보내 주세요:
+토너먼트가 종료될 경우, 토너먼트 호스트는 계정 지원팀 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 다음 사항을 보내 주세요:
 
 - 해당 배지 수령인 목록 (토너먼트 우승자라고도 합니다).
 - 적합하게 디자인된 배지 ([아래를 참고해주세요](#프로필-배지)).
