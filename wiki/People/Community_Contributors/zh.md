@@ -220,7 +220,7 @@
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 对通过开发实用程序对 osu!taiko 作图领域的杰出贡献 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 现实活动和锦标赛领域的杰出贡献 |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 线下活动和锦标赛领域的杰出贡献 |
 
 ## 历史
 
