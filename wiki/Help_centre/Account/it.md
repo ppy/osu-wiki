@@ -212,7 +212,7 @@ Questo non significa che puoi fare un nuovo account per fare la stessa cosa! Ave
 *Per ulteriori informazioni sulla cancellazione dell'account, vedi: [informativa sulla privacy di osu! § I tuoi diritti e il tuo controllo](/wiki/Legal/Privacy#your-rights-and-control)
 *Attenzione: La cancellazione dell'account è permanente e non può essere annullata!
 
-Sì, qualsiasi utente può richiedere la cancellazione del proprio account inviando un'e-mail a [privacy@ppy.sh](mailto:privacy@ppy.sh). Tieni presente che la cancellazione dell'account è **definitiva**, ovvero non può essere annullata o revocata. Cancellare il tuo account non significa poterne creare uno nuovo, poiché avere più account è contro le [regole](/wiki/Rules#community-rules). Ciò significa che non sarà più possibile utilizzare nessuna delle funzioni online di osu!
+Sì, qualsiasi utente può richiedere la cancellazione del proprio account inviando un'e-mail a [privacy@ppy.sh](mailto:privacy@ppy.sh). Tieni presente che la cancellazione dell'account è **definitiva**, ovvero non può essere annullata o revocata. Cancellare il tuo account non significa poterne creare uno nuovo, poiché avere più account è contro le [regole](/wiki/Rules#regole-della-community). Ciò significa che non sarà più possibile utilizzare nessuna delle funzioni online di osu!
 
 ### Non voglio continuare a giocare, ma non voglio che il mio account venga eliminato! {id=account-lock}
 
