@@ -2,12 +2,11 @@
 tags:
   - supporter tag
   - osu!supporter tag
-no_native_review: true
 ---
 
-<!--The strings on the website on line 150 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
-
 # osu!supporter
+
+![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)
 
 **osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarne lo sviluppo. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
 
@@ -54,7 +53,7 @@ La sezione `me!` può essere un buon posto per:
 I supporter possono personalizzare ulteriormente il loro profilo impostando un'immagine di copertina:
 
 - Premere l'icona a forma di matita nell'angolo in basso a destra del posto riservato alla copertina.
-- Selezionare una nuova copertina tra alcune opzioni predefinite o caricare la propria immagine (le sue dimensioni dovrebbero essere 2400x640).
+- Selezionare una nuova copertina tra alcune opzioni predefinite o caricare un'immagine personalizzata (le sue dimensioni dovrebbero essere 2400x640).
 
 Una volta che l'osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
 
@@ -130,28 +129,32 @@ La durata rimanente dell'osu!supporter, insieme all'ammontare totale dei contrib
 
 ## Ottenere osu!supporter
 
-::: Infobox
-![](img/store-product.jpg?2 "Banner prodotto osu!supporter nell'osu!store")
-:::
-
 Per ottenere osu!supporter, visita la sua pagina del [negozio](https://osu.ppy.sh/store/products/supporter-tag) e regola la durata del tag supporter utilizzando il cursore o i pulsanti con il numero di mesi. Tutti i prezzi sono in dollari statunitensi (USD) e non includono possibili commissioni del sistema di pagamento.
 
 Successivamente, fai clic su `Aggiungi al carrello` per inserire il tag supporter nel carrello dell' osu!store. Per completare l'acquisto, vai al [carrello](https://osu.ppy.sh/store/cart) e fai clic su `Paga`, quindi segui le istruzioni visualizzate.
 
 ### Regalare osu!supporter
 
-osu!supporter può anche essere regalato ad un altro giocatore inserendo il loro nome utente nella casella grigia sotto la scheda utente. Altre persone possono essere aggiunte tornando alla pagina del negozio e ripetendo la procedura.
+::: Infobox
+![](img/profile-gift-supporter.png "Pulsante nel menù a tendina su una pagina di profilo per regalare osu!supporter a qualcuno")
+:::
 
-### Conclusioni
+osu!supporter può anche essere regalato ad un altro giocatore inserendo il loro nome utente sotto la scheda utente, o cliccando `Regala osu!supporter` sul loro profilo. Altre persone possono essere aggiunte tornando alla pagina del negozio o al profilo di qualcun'altro e ripetendo la procedura.
+
+Il destinatario non è notificato su chi gli ha donato il tag, ma regalando osu!supporter, c'è la possibilità di allegare un messaggio opzionale da inviare accanto all'email di notifica.
+
+### Conferma
 
 Una volta che la transazione è stata completata, sarà presente un evento nella sezione `Attività recenti` del profilo del compratore e del ricevente:
 
 - `{nome utente} ha supportato osu! - grazie per la tua generosità!` se l'utente ha acquistato o regalato per la prima volta osu!supporter.
 - `{nome utente} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!` se l'utente ha già acquistato o regalato osu!supporter in precedenza.
-- `{note utente} ha ricevuto in regalo l'osu!supporter!` nel caso il tag sia stato regalato.
+- `{nome utente} ha ricevuto in regalo l'osu!supporter!` nel caso il tag sia stato regalato.
+
+Il donatore può anche nascondere quest'evento dal proprio profilo, selezionando la casella `Nascondi tutti i tag osu!supporter in questo ordine dalla mia attività` durante il checkout. Questo è utile per regalare in modo anonimo, poiché impedisce al destinatario di controllare l'attività del profilo altrui.
 
 In più, sia il compratore che il ricevente riceveranno una notifica via e-mail per l'acquisto.
 
 ## Riferimenti
 
-[^pending-beatmaps-ref]: [Aumentare il numero di slot per le beatmap in attesa](https://osu.ppy.sh/community/forums/posts/8294132)
+[^pending-beatmaps-ref]: [Post del forum di peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)
