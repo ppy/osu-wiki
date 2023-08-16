@@ -10,7 +10,7 @@
 
 |  |  |
 | :-- | :-- |
-| Einladungslink | <https://discord.gg/maniahub> |
+| Einladungslink | <https://discord.gg/xX9r5GTQAp> |
 
 :::
 
