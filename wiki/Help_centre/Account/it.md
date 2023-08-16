@@ -141,7 +141,7 @@ Se hai acquistato (o ti hanno regalato) un [supporter tag](https://osu.ppy.sh/ho
 
 In un qualsiasi successivo momento, puoi acquistare un [cambio nome utente](https://osu.ppy.sh/store/products/32) per cambiare il tuo nome utente in quasiasi cosa tu voglia. Però, ogni cambiamento diventerà progressivamente più costoso — il secondo costerà $8 USD, il terzo $16 USD, e così via, fino alla soglia di $100 USD. Facciamo questo per prevenire che le persone cambino il loro nome in rapida successione.
 
-Nota che i nomi utente devono rispettare le nostre [Regole della community](/wiki/Rules#community-rules) in quanto non devono essere generalmente offensivi nei confronti degli altri utenti, eccessivamente provocatori o comunque offensivi in qualsiasi modo. In aggiunta, nomi untente che impersonano o assumono le identità di figure pubbliche di spicco (come celebrità, politici, ecc.) non sono consentiti e verranno forzatamente ripristinati quando ne veniamo a conoscenza.
+Nota che i nomi utente devono rispettare le nostre [Regole della community](/wiki/Rules#regole-della-community) in quanto non devono essere generalmente offensivi nei confronti degli altri utenti, eccessivamente provocatori o comunque offensivi in qualsiasi modo. In aggiunta, nomi untente che impersonano o assumono le identità di figure pubbliche di spicco (come celebrità, politici, ecc.) non sono consentiti e verranno forzatamente ripristinati quando ne veniamo a conoscenza.
 
 Se si tratta solo di piccole modifiche di capitalizzazione o di grammatica/ortografia, puoi mandare un'email a [accounts@ppy.sh](mailto:accounts@ppy.sh) per richiedere un cambio nome grauito per risolvere questi problemi. Non ti addebiteremo alcun costo per questo tipo di modifiche del nome, ma **DEVI** effettuarlo tramite un'e-mail al team di supporto. Ricordati che lo faremo un limitato numero di volte, quindi assicurati che tu lo voglia davvero!
 
@@ -153,7 +153,7 @@ Se un giocatore non ha effettuato l'accesso per almeno 6 mesi e non ha mai gioca
 
 Se quel giocatore **HA** delle partite giocate in qualsiasi modalità, una [funzione non lineare](https://www.desmos.com/calculator/b89siyv9j8) viene usato per calcolare quanto tempo extra si aggiunge a quei 6 mesi. Questo è per prevenire Questo per evitare che le persone rubino i nomi utente dei giocatori attivi o recentemente ritirati.
 
-Inoltre, nomi utente di giocatore con [mappe classificate](/wiki/Beatmap/Category#ranked) o [badge nel profilo](/wiki/Community/Profile_badge) non potranno essere usati.
+Inoltre, nomi utente di giocatore con [mappe classificate](/wiki/Beatmap/Category#classificate) o [badge nel profilo](/wiki/Community/Profile_badge) non potranno essere usati.
 
 ### È possibile cambiare il mio nome o tornare al mio vecchio nome utente? {id=revert-username}
 
@@ -205,7 +205,7 @@ Se al momento hai più di un account, contatta [accounts@ppy.sh](mailto:accounts
 
 Stiamo valutando la possibilità di effettuare acquisti extra di "azzeramento del punteggio" dal osu!store per i giocatori più accaniti che non desiderano altro che la perfezione nelle proprie statistiche, ma allo stato attuale non possiamo cancellare le statistiche di un account per te.
 
-Questo non significa che puoi fare un nuovo account per fare la stessa cosa! Avere account multipli è contro le [regole](/wiki/Rules#community-rules), e disabiliteremo qualsiasi account di questo tipo che ci venga segnalato.
+Questo non significa che puoi fare un nuovo account per fare la stessa cosa! Avere account multipli è contro le [regole](/wiki/Rules#regole-della-community), e disabiliteremo qualsiasi account di questo tipo che ci venga segnalato.
 
 ### Posso cancellare il mio account? {id=account-deletion}
 
