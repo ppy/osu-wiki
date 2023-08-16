@@ -1,11 +1,11 @@
 # 社区贡献者
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-old-era.png "旧时代社区贡献者徽章")
+![旧时代社区贡献者徽章](/wiki/shared/contributor-old-era.png "旧时代社区贡献者徽章")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-new-era.png "新生代社区贡献者徽章")
+![新生代社区贡献者徽章](/wiki/shared/contributor-new-era.png "新生代社区贡献者徽章")
 :::
 
 **社区贡献者** 是对那些主动向 osu! 社区投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的徽章。这个徽章代表着他们曾为整个社区做出了显著的贡献。
