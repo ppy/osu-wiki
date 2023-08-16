@@ -15,7 +15,7 @@ tags:
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*.\
 *À ne pas confondre avec le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).*
 
-## À propos 
+## À propos
 
 - Abréviation : FL
 - Type : Augmentation de la difficulté

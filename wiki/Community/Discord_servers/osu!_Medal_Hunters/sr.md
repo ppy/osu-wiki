@@ -31,10 +31,10 @@ tags:
 
 | Role | Корисник (Discord ID) |
 | :-- | :-- |
-| Власник сервера | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151) |
-| Админ сервера | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
-| Менаџер заједнице и админ сервера | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
-| Модератор сервера | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
+| Власник сервера | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (@megamix_craft) |
+| Админ сервера | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (@tanza3d), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (@mulraf) |
+| Менаџер заједнице и админ сервера | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (@megamix_craft), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (@chromb), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (@remyria) |
+| Модератор сервера | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (@bento69) |
 
 ## Верификација
 

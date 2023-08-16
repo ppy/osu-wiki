@@ -58,7 +58,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 - [Server do Discord do AGTS](https://discord.gg/zbHVzvF)
 - [Canal de transmissão](https://www.twitch.tv/gtsosu)
 - [Suportes do Challonge](https://challonge.com/AGTS2019)
-- **[Página de estatísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- **[Página de estatísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Participantes
 
@@ -380,9 +380,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Regras Gerais
 
-1. Este é um **torneio de times 2v2** com times de **5 jogadores no máximo.**
-2. Os times jogarão inicialmente em uma **fase de grupos** e depois entrarão em **chaves de eliminação dupla.**
-3. O Sistema de Pontuação utilizado será **Score V2.**
+1. Este é um **torneio de times 2v2** com times de **5 jogadores no máximo**.
+2. Os times jogarão inicialmente em uma **fase de grupos** e depois entrarão em **chaves de eliminação dupla**.
+3. O Sistema de Pontuação utilizado será **Score V2**.
 4. Qualquer jogador que tenha os requisitos necessários mencionados nas restrições de rank tem permissão para jogar. Já que temos a intenção de conseguir um badge para este torneio, alguns jogadores podem ser recusados pela equipe do Osu!
 5. Qualquer membro da equipe organizadora do torneio com exceção dos **Organizadores, Mappoolers e Juízes** pode jogar.
 6. Jogadores e membros da equipe organizadora do torneio devem ler essa lista de regras por completo (e nós vamos assumir que você assim o fez durante todo o torneio).
@@ -391,8 +391,8 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 ### Restrições de Rank
 
-1. Você deve estar entre os ranks #500 - #3,500 durante as inscrições. Isso significa que você deve estar nesse limite de rank **até o final das inscrições.**
-2. Não é permitido subir acima do **rank #400 durante o torneio.** Caso ultrapasse esse limite, você será desqualificado.
+1. Você deve estar entre os ranks #500 - #3,500 durante as inscrições. Isso significa que você deve estar nesse limite de rank **até o final das inscrições**.
+2. Não é permitido subir acima do **rank #400 durante o torneio**. Caso ultrapasse esse limite, você será desqualificado.
 3. Você deve se inscrever com o país registrado no seu perfil.
 4. Você deve entrar no server do Discord do torneio.
 
@@ -404,7 +404,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 4. A equipe organizadora pode recusar o jogador caso julgue que sua habilidade não se encaixa no torneio.
 5. Este ano estamos permitindo 2 times por país sob certas condições:
    - Devem haver **6 ou mais jogadores** inscritos para um país.
-   - Cada time deve ter **pelo menos 3 jogadores.**
+   - Cada time deve ter **pelo menos 3 jogadores**.
 6. O capitão escolhido pela equipe organizadora do torneio é responsável em escolher a escalação de cada time, a não ser que:
    1. Tenham 5 jogadores ou menos inscritos para um país. Esses jogadores formarão um time representando seu país. Em outros casos, ele decidirá como acontecerá, por exemplo:
    2. No caso de haverem mais de 6 jogadores incritos para um país, a escalação deve ser separada para que 2 times sejam formados. É recomendado que seja feito um acordo o mais rápido possível para então decidir quem será o capitão e assim, sendo possível marcar datas e preparar suas partidas mais rapidamente.
@@ -438,17 +438,17 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 5. A mappool da Fase de Grupos terá 14 beatmaps, Oitavas de final e Quartas de final terá 15 beatmaps, Semifinais, Finais e Grande Final terão uma mappool de 16 beatmaps.
 6. As chaves de Hidden, HardRock e DoubleTime terão 2 beatmaps e a chave de FreeMod terá 3 beatmaps em todas as fases.
 7. A modalidade EX será jogada sem nenhum mod ativado e é a versão mais difícil do NoMod, contém beatmaps com técnicas de mapping complicadas, mudanças de velocidade, etc.
-8. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado.**
+8. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado**.
 9. O Tiebraker é jogado sob as mesmas condições do FreeMod, mas não é necessário que pelo menos um jogador tenha no mínimo um mod ativado.
 10. A mappool de cada fase será exibida uma semana anterior as partidas.
 
 ### Instruções para agendamento
 
-1. Todas as fases acontecerão **durante finais de semana.** (Entretanto, é permitido agendar para outro dia caso não tenha um bom horário no final de semana.)
+1. Todas as fases acontecerão **durante finais de semana**. (Entretanto, é permitido agendar para outro dia caso não tenha um bom horário no final de semana.)
 2. Diferentes partidas podem acontecer ao mesmo tempo se houverem juízes disponíveis.
 3. Tentaremos agendar as partidas para que encaixem da melhor forma possível com os fuso horários. A programação será liberada na semana anterior a cada fase.
 4. Reagendamentos só serão considerados caso ambos os times decidam um horário, o que deve ser feito e a equipe de organização do torneio deve ser notificada antes de **Quinta-feira às 23:59 UTC+0** na semana específica que acontecerá sua partida.
-5. Reagendamentos só podem ser requisitados por um **capitão.**
+5. Reagendamentos só podem ser requisitados por um **capitão**.
 
 ### Regulamentos da Partida
 
@@ -460,7 +460,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 6. Cada time tem direito a um warm-up, o qual deve ter 4 minutos ou menos. Todos podem estar na sala durante os warm-ups.
 7. Cada capitão deve banir **um beatmap** selecionado da mappool (com exceção do Tiebreaker). Estes beatmaps não podem ser escolhidos por qualquer time durante toda a partida.
 8. O capitão de cada time rolará um comando `!roll` no chat.
-9. O time com **maior roll realizará o segundo banimento e terá a primeira escolha.** O time com **menor roll terá o primeiro banimento e realizará a segunda escolha.**
+9. O time com **maior roll realizará o segundo banimento e terá a primeira escolha**. O time com **menor roll terá o primeiro banimento e realizará a segunda escolha**.
 10. Seleção de beatmaps alternará então entre cada capitão selecionando um beatmap da mappool.
 11. Capitães podem escolher livremente de qualquer chave.
 12. A troca de jogadores durante a partida é permitida sem nenhuma restrição.

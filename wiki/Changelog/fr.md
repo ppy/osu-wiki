@@ -2,6 +2,8 @@
 tags:
   - history
   - histoire
+outdated_translation: true
+outdated_since: 5a98d627b0d81c69ab200df06feb80432ce7b24b
 ---
 
 # Changelog
