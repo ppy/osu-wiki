@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - GMT
   - moderator
@@ -16,7 +14,7 @@ tags:
 
 *См. также: [Мод (значения)](/wiki/Disambiguation/Mod).*
 
-**Команда глобальной модерации** (ранее — администраторы, неформально — «зелёные BAT»), или **GMT**, — группa пользователей, которые следят за поведением игроков в сообществе osu!, а также решают различные связанные с этим проблемы. Модераторы отличаются от остальных пользователей наличием титула и ника, который имеет цитрусовый цвет на форуме и кирпично-красный — в клиенте osu!.
+**Команда глобальной модерации** (ранее — администраторы, неформально — «зелёные BAT»), или **GMT**, — группa пользователей, которые следят за поведением игроков в сообществе osu!, а также решают различные связанные с этим проблемы. Модераторы отличаются от остальных пользователей наличием титула цитрусового цвета, [значка группы](/wiki/People/User_group) с подписью `GMT`, и красно-кирпичного ника в клиенте osu!.
 
 **Модераторы обязаны не только соблюдать [правила игры](/wiki/Rules), но и следовать [кодексу профессиональной этики](/wiki/Rules/Contributor_code_of_conduct).**
 
@@ -64,6 +62,7 @@ tags:
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Модерация маппинг-сообщества |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский |  |
@@ -85,6 +84,7 @@ tags:
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Французский | Модерация чата |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/4598899) | Индонезийский | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Малайский, частично китайский | Модерация маппинг-сообщества |
@@ -96,6 +96,7 @@ tags:
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, организация турниров |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация маппинг-сообщества |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский, китайский | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Вьетнамский | Модерация чата |
@@ -103,6 +104,7 @@ tags:
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Индонезийский | Модерация чата |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Французский | Модерация чата |
+| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Португальский, испанский | Модерация чата |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Немецкий | Модерация маппинг-сообщества |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
@@ -159,7 +161,7 @@ tags:
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
@@ -172,3 +174,4 @@ tags:
 ## Примечания
 
 [^task-Azer]: Хотя Azer и не является модератором, его добавили в эту группу ради технических возможностей, необходимых для организации и управления osu! World Cup.
+[^task-mangomizer]: Хотя mangomizer и не является модератором, его добавили в эту группу ради технических возможностей, необходимых для доступа ко внутренним форумам.

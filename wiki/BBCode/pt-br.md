@@ -72,12 +72,12 @@ Botão na barra de formatação: ![Tachado](img/strike.png "Tachado")
 ### Cores
 
 ```
-[color=HEXCODE]texto[/color]
+[color=#HEXCODE]texto[/color]
 ```
 
 *Para uma lista com todas as cores, veja [Nomes de cores no X11](https://pt.wikipedia.org/wiki/Nomes_de_cores_no_X11#Tabelas_de_nome_de_cores)*
 
-A tag `[color]` é usada para estilizar um texto através de colorações de letras. A tag usa o formato de [código HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) para especificar a cor, embora também possam ser especificadas através de nomes de cor em HTML como "red" ou "green". Para utilizar, substitua o argumento `HEXCODE` com a cor correspondente em código HEX ou por seu nome em HTML.
+A tag `[color]` é usada para estilizar um texto através de colorações de letras. A tag usa o formato de [código HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) para especificar a cor, embora também possam ser especificadas através de nomes de cor em HTML como "red" ou "green". Para utilizar, substitua o argumento `#HEXCODE` com a cor correspondente em código HEX ou por seu nome em HTML.
 
 O argumento mencionado anteriormente não aceita aspas (`"`) e não possui uma cor padrão. Se o argumento não for especificado ou se aspas forem utilizadas, a tag não será processada como uma tag de BBCode.
 
