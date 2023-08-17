@@ -1,4 +1,6 @@
-<!-- TODO: check grammar/style -->
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style
+---
 
 # osu!taiko
 
