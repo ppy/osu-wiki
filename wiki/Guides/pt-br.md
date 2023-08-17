@@ -36,7 +36,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 - [Tutorial de Iniciante](Beginner's_Tutorial)
 - [Como utilizar o Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Pesquisando e Baixando Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Compra de Tablet](Tablet_Purchase)
 
 ## Skinning

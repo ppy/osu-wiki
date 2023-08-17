@@ -71,12 +71,12 @@ Bouton de la barre d'outils : ![Strike button](img/strike.png "Barré")
 ### Couleur
 
 ```
-[color=HEXCODE]texte[/color]
+[color=#HEXCODE]texte[/color]
 ```
 
 *Pour une liste de tous les noms de couleurs, voir [Noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS)*
 
-La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
+La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `#HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
 
 L'argument mentionné ci-dessus ne prend pas de guillemets (`"`), et n'a pas de couleur par défaut. Si aucun argument n'est spécifié, ou si des guillemets sont utilisés, la balise ne sera pas analysée comme une balise BBCode.
 

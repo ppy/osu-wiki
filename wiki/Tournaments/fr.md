@@ -251,8 +251,9 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03/02/2020 | 12/04/2020 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04/01/2021 | 28/03/2021 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/02/2022 | 03/04/2022 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04/01/2021 | 28/03/2021 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/02/2022 | 03/04/2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19/06/2023 | 30/07/2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Romania Tournament
 
@@ -355,6 +356,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Royal Danish osu!Cup 2018](RDOC/2018) | 15/09/2018 | 28/10/2018 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 22/02/2020 | 05/04/2020 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 01/07/2020 | 27/09/2020 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
+
+#### SEA Summer Suiji Showdown
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SEA Summer Suiji Showdown 3](SSSS/3) | 05/06/2023 | 31/07/2023 | Schale | Tingyun Motor | maimai |
 
 #### Spanish Showdown
 
@@ -504,7 +511,8 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26/03/2022 | 08/05/2022 | ::{ flag=JP }:: Japon A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28/05/2022 | 10/07/2022 | ::{ flag=MY }:: Malaisie | ::{ flag=CN }:: Chine A | ::{ flag=KR }:: Corée du Sud |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11/08/2022 | 09/10/2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
-| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01/08/2023 | 02/08/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 10/10/2022 | 18/12/2022 | ::{ flag=JP }:: Japon | ::{ flag=CN }:: Chine | ::{ flag=DE }:: Allemagne A |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01/08/2023 | 02/08/2023 | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
 
 #### North & South American Taiko Tournament
 

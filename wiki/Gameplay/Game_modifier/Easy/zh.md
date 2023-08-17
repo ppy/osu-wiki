@@ -39,7 +39,7 @@ tags:
 
 ### osu!
 
-在 [osu!](/wiki/Game_mode/osu!) 中，此模组将[圆圈大小 (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size)、[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[整体难度 (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty)与[掉血速度 (HP)](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate)减半。
+在 [osu!](/wiki/Game_mode/osu!) 中，此模组将[圆圈大小 (CS)](/wiki/Beatmap/Circle_size)、[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[整体难度 (OD)](/wiki/Beatmap/Overall_difficulty)与[掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate)减半。
 
 ![EZ 模组下的 osu! 游玩界面](img/EZ-comparison-osu.jpg "osu! 中正常游玩（左图）与启用 Easy 模组（右图）的比较")
 

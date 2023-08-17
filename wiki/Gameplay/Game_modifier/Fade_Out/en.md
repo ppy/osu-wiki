@@ -23,7 +23,7 @@ tags:
 
 - Abbreviation: FO
 - Type: Difficulty Increase
-- Default shortcut key: `F` `F` or `Shift`+`F`
+- Default shortcut key: `F` `F` or `Shift` + `F`
 - Compatible game modes: ![][osu!mania]
 
 ## Description

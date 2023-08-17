@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
+---
+
 # 界面
 
 本文将解释关于使用 osu! 游戏客户端的方法，你需要了解的所有事情。在这里，你会找到关于歌曲选择页面、排行榜显示与结果屏幕的信息。当启动客户端时，你会看到如下界面：
