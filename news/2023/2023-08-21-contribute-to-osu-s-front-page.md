@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Contribute to osu!'s News Content"
-date: 2023-07-08 09:00:00 +0000
+title: "Contribute to osu!'s Front Page"
+date: 2023-08-21 15:00:00 +0000
 ---
 
 Looking for news? We're looking too!
 
-![](/wiki/shared/news/2023-07-08-writing-callout/banner.jpg)
+![](/wiki/shared/news/2023-08-21-contribute-to-osu-s-front-page/banner.jpg)
 
 Let's talk about the thing you're reading this very moment. If you're new to the game, welcome! These are semi-regular posts highlighting news about osu!, including updates, events, contests, showcases and more.
 
 They are written mostly by members of the [osu! team](/wiki/People/osu!_team), but you may have noticed a sizeable portion authored by none other than people like you. Let's have a look:
 
-![](/wiki/shared/news/2023-07-08-writing-callout/news-post-distribution-over-time.png)
+![](/wiki/shared/news/2023-08-21-contribute-to-osu-s-front-page/news-post-distribution-over-time.png)
 
 Needless to say, [concerns](https://github.com/ppy/osu-wiki/issues/2433) have been [echoed](https://github.com/ppy/osu-web/issues/7685) about how much space the [Featured Artist initiative](https://osu.ppy.sh/beatmaps/artists) has taken up on the news feed, even though the growth has been exciting. While the onboarding of artists has [slowed down since the end of March](https://osu.ppy.sh/home/news/2023-03-25-new-featured-artist-ashrount#featured-artist-release-schedule-update), we could still do better in breaking up the monotony.
 
@@ -59,6 +59,6 @@ Naturally, we're also looking to give the World Cups more coverage as well. If y
 
 Here are some more fancy graphs:
 
-![](/wiki/shared/news/2023-07-08-writing-callout/news-post-publication-time-distribution.png)
+![](/wiki/shared/news/2023-08-21-contribute-to-osu-s-front-page/news-post-publication-time-distribution.png)
 
 —0x84f
