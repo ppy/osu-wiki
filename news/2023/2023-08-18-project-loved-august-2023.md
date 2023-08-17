@@ -44,10 +44,10 @@ We don't have any more news to share regarding Project Loved, so let's get into 
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## osu!
 
