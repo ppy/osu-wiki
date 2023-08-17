@@ -115,7 +115,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Saturday, 19 August 2023
 
-| Team A | Team B | Match time | Twitch stream | 
+| Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=MY }:: Malaysia | [Aug 19 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230819T090000&p1=1440&p2=102&p3=122) | [osulive](https://twitch.tv/osulive) |
 | Singapore ::{ flag=SG }:: | ::{ flag=AU }:: Australia | [Aug 19 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230819T100000&p1=1440&p2=236&p3=57) | [osulive](https://twitch.tv/osulive) |
@@ -128,7 +128,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Sunday, 20 August 2023
 
-| Team A | Team B | Match time | Twitch stream | 
+| Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=VE }:: Venezuela | [Aug 20 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T030000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
 | Philippines ::{ flag=PH }:: | ::{ flag=FI }:: Finland | [Aug 20 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230820T110000&p1=1440&p2=145&p3=101) | [osulive](https://twitch.tv/osulive) |
