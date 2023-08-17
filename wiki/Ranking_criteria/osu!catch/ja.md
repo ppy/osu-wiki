@@ -6,7 +6,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 ## 全体的なルール、ガイドライン (Overall)
 
-全てのosu!catch譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。曲が大幅に速い、または遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
+全てのosu!catch譜面には全体的なルールとガイドラインがあります。リズムに関するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。曲が大幅に速い、または遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/Ranking_criteria/Scaling_BPM)で詳しく説明しています。
 
 ### 一般 (General)
 
@@ -14,7 +14,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 - **理論上SS可能でなければなりません。** つまり、譜面に現れる全ての[フルーツ](/wiki/Gameplay/Hit_object/Fruit)、[ドロップ](/wiki/Gameplay/Hit_object/Juice_stream#drop)、[ドロップレット](/wiki/Gameplay/Hit_object/Juice_stream#droplet)を必ずキャッチできなければなりません。
 - **各ビートマップは、デフォルトスキンを強制しない場合、[コンボカラー](/wiki/Beatmapping/Combo_colour)を少なくとも異なる2色以上使用する必要があります。** コンボカラーはどのような場合でも、譜面の背景、ストーリーボード、ビデオと混ざってはいけません。これはオブジェクトを簡単にプレイヤーから視認できるようにし、カスタムスキンのコンボカラーが誤って背景と混ざらないようにするためです。
-- **hitnormalの付いていない[キーサウンド](wiki/Beatmapping/Hitsound#keysound)を使用してはいけません。** サウンドが曲と完全に調和していると、打時のフィードバックが聞き取りにくいためです。
+- **hitnormalの付いていない[キーサウンド](/wiki/Beatmapping/Hitsound#keysound)を使用してはいけません。** サウンドが曲と完全に調和していると、打時のフィードバックが聞き取りにくいためです。
 - **もし、各難易度の[drain time](/wiki/Beatmap/Drain_time)が…**
   - **…2分30秒を下回る場合**、 最低難易度はSaladより難しくできません。
   - **…2分30秒から3分15秒の間の場合**、 最低難易度はPlatterより難しくできません。
@@ -49,7 +49,7 @@ osu!catch ranking criteria(osu!catch譜面のランク基準)はosu!catch譜面�
 
 ## 難易度別 (Difficulty-specific)
 
-難易度別のルールとガイドラインは、それぞれの難易度レベルにのみ適用されます。**したがって、それらはすべてのosu!catch難易度に適用されるわけではありません。** リズムに関連するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。曲が大幅に速い、または遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/ja/Ranking_criteria/Scaling_BPM)で詳細に説明されています。
+難易度別のルールとガイドラインは、それぞれの難易度レベルにのみ適用されます。**したがって、それらはすべてのosu!catch難易度に適用されるわけではありません。** リズムに関連するルールとガイドラインは4/4拍子でBPM 180程度の曲に基づいています。曲が大幅に速い、または遅い場合は、[Ranking CriteriaにおけるBPMのスケーリング](/wiki/Ranking_criteria/Scaling_BPM)で詳細に説明されています。
 
 ### 難易度の名前 (Difficulty names)
 
