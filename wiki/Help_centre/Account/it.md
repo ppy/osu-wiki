@@ -137,7 +137,7 @@ Infine, siamo a conoscenza che alcuni provider non accettano mail automatiche da
 
 **Si, assolutamente!**
 
-Se hai acquistato (o ti hanno regalato) un [tag supporter ](https://osu.ppy.sh/home/support) in qualsiasi momento, puoi cambiare il tuo nome utente per **una** volta gratuitamente. Questo cambio di nome utente può essere riscattato nella pagina dell'[osu!store](https://osu.ppy.sh/store/products/32).
+Se hai acquistato (o ti hanno regalato) un [tag supporter](https://osu.ppy.sh/home/support) in qualsiasi momento, puoi cambiare il tuo nome utente per **una** volta gratuitamente. Questo cambio di nome utente può essere riscattato nella pagina dell'[osu!store](https://osu.ppy.sh/store/products/32).
 
 In un qualsiasi successivo momento, puoi acquistare un [cambio nome utente](https://osu.ppy.sh/store/products/32) per cambiare il tuo nome utente in quasiasi cosa tu voglia. Però, ogni cambiamento diventerà progressivamente più costoso — il secondo costerà $8 USD, il terzo $16 USD, e così via, fino alla soglia di $100 USD. Facciamo questo per prevenire che le persone cambino il loro nome in rapida successione.
 
