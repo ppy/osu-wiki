@@ -22,9 +22,7 @@ Animations are done in-engine, so the PNG layer system or animation features sho
 
 The editor screen is 640 x 480 pixels and the general play area is 510 x 385 pixels.
 
-Coordinates are specified with positive values for `X` going to the **right**, positive values for `Y` going **down**, and the origin (0,0) being placed at the upper-left corner of the screen. This is different from traditional [Euclidean coordinate systems](https://en.wikipedia.org/wiki/Euclidean_space), but is the same as most computer-graphics systems. It is possible to specify coordinates to be outside of these boundaries (e.g., for a sprite to come in from off-screen).
-
-The cursor's coordinates will be displayed in the [Design tab](/wiki/Client/Beatmap_editor/Design) of the [Beatmap Editor](/wiki/Client/Beatmap_editor).
+Coordinates are specified with positive values for `X` going to the **right**, positive values for `Y` going **down**, and the origin (0,0) being placed at the upper-left corner of the screen. It is possible to specify coordinates to be outside of these boundaries (e.g., for a sprite to come in from off-screen).
 
 **Editor coordinates:**
 
@@ -66,14 +64,14 @@ States during **playtime** ("draining time", when the player is expected to clic
 
 - Pass State if this is the first colour combo or if the previous colour combo ended with a Geki/Elite Beat! (all 300s in the colour combo).
 - Fail State otherwise. Note that there is no state for just Katu/Beat!, unlike in the DS games (which had three states).
-  - In [Taiko](/wiki/Game_mode/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
-  - In [Catch the Beat](/wiki/Game_mode/osu!catch), this is always the state that the previous break was. The first playable section will always be Pass State.
+  - In [osu!taiko](/wiki/Game_mode/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
+  - In [osu!catch](/wiki/Game_mode/osu!catch), this is always the state that the previous break was. The first playable section will always be Pass State.
 
 States during **break time** (between playtime segments):
 
 - Pass State if the HP bar ended above half in the last playtime section (i.e., the "O" symbol appears).
 - Fail State otherwise (i.e., the "X" symbol appears).
-  - In [Taiko](/wiki/Game_mode/osu!taiko), if it reaches certain quota at a certain time. Refer to the two examples below,
+  - In [osu!taiko](/wiki/Game_mode/osu!taiko), if it reaches certain quota at a certain time. Refer to the two examples below,
     - Example A: Getting a 96.5% accuracy while the HP bar is still at 40% will give a Pass instead of a Fail.
     - Example B: Getting too many 100s in about 30 notes and getting a D while the HP bar is still at around 30% will result in a Fail instead of a Pass (in this case, refer to [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
