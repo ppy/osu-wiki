@@ -15,15 +15,15 @@ La **osu! World Cup 2020** (***OWC 2020***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2020-09-24/2020-10-08 |
-| Exhibición de la fase de clasificación | 2020-10-17 (14:00 UTC+0) |
-| Fase de clasificación | 2020-10-24/2020-10-25 |
-| Dieciseisavos de final | 2020-10-31/2020-11-01 |
-| Octavos de final | 2020-11-07/2020-11-08 |
-| Cuartos de final | 2020-11-14/2020-11-15 |
-| Semifinales | 2020-11-21/2020-11-22 |
-| Finales | 2020-11-28/2020-11-29 |
-| Gran Final | 2020-12-05/2020-12-06 |
+| Fase de registración | 24/9/2020 - 8/10/2020 |
+| Exhibición de la fase de clasificación | 17/10/2020 (14:00 UTC+0) |
+| Fase de clasificación | 24/10/2020 - 25/10/2020 |
+| Dieciseisavos de final | 31/10/2020 - 1/11/2020 |
+| Octavos de final | 7/11/2020 - 8/11/2020 |
+| Cuartos de final | 14/11/2020 - 15/11/2020 |
+| Semifinales | 21/11/2020 - 22/11/2020 |
+| Finales | 28/11/2020 - 29/11/2020 |
+| Gran Final | 5/12/2020 - 6/12/2020 |
 
 ## Premios
 

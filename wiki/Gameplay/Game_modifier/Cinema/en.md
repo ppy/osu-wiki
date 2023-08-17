@@ -19,7 +19,7 @@ tags:
 - Abbreviation: CM
 - Type: Special
 - Score Multiplier: 1.00x
-- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmap))
+- Default shortcut key: `V` `V` or `Shift` + `V` (or hold `Ctrl` + `Shift` when selecting a [beatmap](/wiki/Beatmap))
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description

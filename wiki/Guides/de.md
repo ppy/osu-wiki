@@ -32,7 +32,6 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 ## Spielen
 
-- [Wie man nach Beatmaps sucht und diese herunterlädt](Searching_and_Downloading_Beatmaps)
 - [Wie man den Offset-Assistenten benutzt](How_to_Use_the_Offset_Wizard)
 - [Ratgeber für den Kauf von Tablets](Tablet_Purchase)
 - [Anfängertutorial](Beginner's_Tutorial)

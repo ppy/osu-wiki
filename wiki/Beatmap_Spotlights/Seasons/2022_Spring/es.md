@@ -9,19 +9,19 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 6 de Beatmaps Destacados (Primavera 2022)
+# Temporada 6 de Beatmaps Spotlights (Primavera 2022)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 22 may. 2022 |
-| Sala de lista de juego: Lista de juego A | 22 may. - 5 jun. 2022 |
-| Sala de lista de juego: Lista de juego B | 5 jun. - 19 jun. 2022 |
-| Sala de lista de juego: Lista de juego C | 19 jun. - 3 jul. 2022 |
-| Sala de lista de juego: Lista de juego A | 3 jul. - 10 jul. 2022 |
-| Sala de lista de juego: Lista de juego B | 10 jul. - 17 jul. 2022 |
-| Sala de lista de juego: Lista de juego C | 17 jul. - 24 jul. 2022 |
+| Sala de lista de juego: Playlist A | 22 may. - 5 jun. 2022 |
+| Sala de lista de juego: Playlist B | 5 jun. - 19 jun. 2022 |
+| Sala de lista de juego: Playlist C | 19 jun. - 3 jul. 2022 |
+| Sala de lista de juego: Playlist A | 3 jul. - 10 jul. 2022 |
+| Sala de lista de juego: Playlist B | 10 jul. - 17 jul. 2022 |
+| Sala de lista de juego: Playlist C | 17 jul. - 24 jul. 2022 |
 | Conclusión de la temporada | 24 jul. 2022 |
 
 ## Salas multijugador semanales
