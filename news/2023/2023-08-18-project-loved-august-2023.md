@@ -517,7 +517,7 @@ If you want to see more difficult chordstreams like this in Loved, be sure to su
 
 [naotyu- - L99](https://osu.ppy.sh/beatmapsets/1427458#mania) by [hoo9030](https://osu.ppy.sh/users/7466406)\
 240 BPM, 2:25 | 3.95★, 5.15★, 6.10★\
-The \[EX Challenge [0.95x Rate\]] difficulty is *not* being nominated for Loved.\
+The \[EX Challenge \[0.95x Rate\]\] difficulty is *not* being nominated for Loved.\
 *description written by [-NoName-](https://osu.ppy.sh/users/10400730)*
 
 We have some easier chordjacks for you this month with [L99](https://osu.ppy.sh/beatmapsets/1427458) by [hoo9030](https://osu.ppy.sh/users/7466406)!
