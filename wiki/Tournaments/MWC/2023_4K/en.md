@@ -151,7 +151,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
   3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
   4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
-  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/3866627)
+  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/4267958)
 - Hybrid
   1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
   2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
