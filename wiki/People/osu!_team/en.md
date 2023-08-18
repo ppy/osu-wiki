@@ -62,12 +62,12 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! developer, provider of IRC integration for in-game chat, site maintainer |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Community leader |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Former [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/QAT_Leaders) leader |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Original site designer, hosting provider in the early days |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, community leader |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, former Quality Assurance Team leader, community manager |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to the default skin and icon set |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Community leader |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Former Nomination Assessment Team leader |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Modding and mapping scene advisor |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
