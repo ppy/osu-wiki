@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: August 2023"
-date: 2023-08-18 14:00:00 +0000
+date: 2023-08-18 14:30:00 +0000
 ---
 
 Summer might be coming to an end, but Project Loved returns to keep the good times going!
