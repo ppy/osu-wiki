@@ -17,23 +17,33 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | World Cup organiser and administrator |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organiser and administrator |
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Moderator, technical support |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Moderator, technical support |
+| ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! developer, general housekeeper |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Modding and mapping scene advisor |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! developer |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Nomination Assessment Team leader](/wiki/People/Nomination_Assessment_Team#nat-leadership), radar's secretary |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organiser and administrator |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Tournament support, Featured Artist outreach |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Featured Artist outreach, World Cup secretary |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! developer, technical support |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organiser, Featured Artist outreach |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Modding and mapping scene advisor |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | General housekeeper, wiki maintainer |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [Nomination Assessment Team leader](/wiki/People/Nomination_Assessment_Team#nat-leadership), Hivie's secretary |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Moderator, wiki maintainer |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
+| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! infrastructure developer |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament support |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | General housekeeper, broom sweeper |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Moderation and community advisor |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Wiki maintainer, news editor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 In addition to the above, the [account support team](/wiki/People/Account_support_team) is there to help with what is beyond the reach.
@@ -44,10 +54,12 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Audio designer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Audio designer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organiser and administrator |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | General housekeeper, community manager |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! developer, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
+| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Storyboard developer |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organizer |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
@@ -60,11 +72,12 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Modding and mapping scene advisor |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Moderator |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Forum designer |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Flappy bird developer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! and pp developer |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Modding and mapping scene advisor |
