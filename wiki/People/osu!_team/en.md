@@ -77,7 +77,7 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Original [pippi](/wiki/Mascots#pippi) concept and artwork designer |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Flappy bird developer |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) developer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! and [performance points](/wiki/Performance_points) developer |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), modding and mapping scene advisor |
