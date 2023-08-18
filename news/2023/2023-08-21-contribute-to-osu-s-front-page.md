@@ -8,7 +8,7 @@ Looking for news? We're looking too!
 
 ![](/wiki/shared/news/2023-08-21-contribute-to-osu-s-front-page/banner.jpg)
 
-Let's talk about the thing you're reading this very moment. If you're new to the game, welcome! These are semi-regular posts highlighting news about osu!, including updates, events, contests, showcases and more.
+Let's talk about the thing you're reading this very moment. If you're new to the game, welcome! These are semiregular posts highlighting news about osu!, including updates, events, contests, showcases and more.
 
 They are written mostly by members of the [osu! team](/wiki/People/osu!_team), but you may have noticed a sizeable portion authored by none other than people like you. Let's have a look:
 
@@ -18,11 +18,11 @@ Needless to say, [concerns](https://github.com/ppy/osu-wiki/issues/2433) have be
 
 Last year, there was a [call to the community](https://osu.ppy.sh/community/forums/topics/1605337) to spice up the front page with more variety, which led up to [osu!monthly](/wiki/Community/osu!monthly) making a comeback for its [3rd season](/wiki/Community/osu!monthly#season-3-(2022–2023)) (in news post form instead of forum posts) and a few interesting news articles here and there, but we want to spread the word further and make contributing more accessible to the community.
 
-Are you interested in creative writing and want to share it with the playerbase, or just have an idea that you would like to see covered on the front page? Then feel free to read on below!
+Are you interested in creative writing and want to share it with the player base, or just have an idea that you would like to see covered on the front page? Then feel free to read on below!
 
 ## Suggesting ideas
 
-If you have an idea that you think would be a good fit for the front page, you can now submit them via this anonymous [suggestion box](https://docs.google.com/forms/d/e/1FAIpQLSeuv9heFjBX_NPDzpMvV2ORaNllHtzWKRDmk5IqSMEWvc-SNw/viewform)! Once submitted, the responses will be reviewed and promising ideas will be put up for anyone take up and write in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy).
+If you have an idea that you think would be a good fit for the front page, you can now submit them via this anonymous [suggestion box](https://docs.google.com/forms/d/e/1FAIpQLSeuv9heFjBX_NPDzpMvV2ORaNllHtzWKRDmk5IqSMEWvc-SNw/viewform)! Once submitted, the responses will be reviewed and promising ideas will be put up for anyone to take up and write in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy).
 
 In theory, anything could go in that box, but let's outline a few potential candidates to draw from:
 
@@ -41,7 +41,7 @@ Of course, you can also get in touch directly via Discord.
 
 If you are keen on sharing your writing with the community, the process is incredibly simple!
 
-The `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy) is the place to reach out about anything news-related. If you just have an itch to write but don't have something specific in mind, there is a pinned list in `#osu-news` with news topics that you can freely pick up. Just make sure to give a heads up so people know what's already being worked on.
+The `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy) is the place to reach out about anything news-related. If you just have an itch to write but don't have something specific in mind, there is a pinned list in `#osu-news` with news topics that you can freely pick up. Just make sure to give a heads-up, so people know what's already being worked on.
 
 The only prerequisite is that you should be comfortable with constructive criticism and editorial feedback (and be fairly confident in writing)! While review takes place on GitHub, having an account is not required. Take a look at the [news styling criteria](/wiki/News_styling_criteria) to get started.
 
