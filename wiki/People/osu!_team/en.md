@@ -53,7 +53,7 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | Name | Role |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderator |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderator, community advisor |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Audio designer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organiser and administrator |
