@@ -64,7 +64,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=CA }:: [Maxe191](https://osu.ppy.sh/users/2184751) | **10** | **16** |
+| #1 | ::{ flag=DE }:: [Maxe191](https://osu.ppy.sh/users/2184751) | **10** | **16** |
 | #2 | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) | 5 | 5 |
 | #3 | ::{ flag=HK }:: [AbbeyChan6203](https://osu.ppy.sh/users/20971891) | 3 | 3 |
 | #4 | ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292) | 2 | 5 |
@@ -117,7 +117,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | #6 | ::{ flag=JP }:: [Mi0117](https://osu.ppy.sh/users/15501680) | 1 | 1 |
 | #7 | ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) | 1 | 1 |
 | #8 | ::{ flag=US }:: [netzoid](https://osu.ppy.sh/users/25673755) | 1 | 1 |
-| #9 | ::{ flag=TH }:: [IMaxI](https://osu.ppy.sh/users/29186011) | 1 | 2 |
+| #9 | ::{ flag=US }:: [IMaxI](https://osu.ppy.sh/users/29186011) | 1 | 2 |
 | #10 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) | 1 | 2 |
 
 ---
