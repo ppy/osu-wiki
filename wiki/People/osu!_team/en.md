@@ -46,7 +46,9 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Wiki maintainer, news editor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-In addition to the above, the [account support team](/wiki/People/Account_support_team) is there to help with what is beyond the reach.
+The [account support team](/wiki/People/Account_support_team) is also there to help with what is beyond reach.
+
+In addition to the core osu! team, there are [many other volunteer teams](/wiki/People) which keep the game running.
 
 ## Inactive core team members
 
