@@ -21,7 +21,7 @@ La [lista beatmap](https://osu.ppy.sh/beatmapsets) ha filtri disponibili per gen
 
 ## Cambiare il genere e la lingua di una beatmap
 
-Il genere e la lingua possono essere cambiati sul sito cliccando sull'icona a forma di matita tenendo il mouse sui dettagli della beatmap. L'abilità di fare ciò è determinata dai [gruppi di utenti](/wiki/People/User_group) dell'utente e dalla [categoria](/wiki/Beatmap/Category/#categorie-presenti) della beatmap:
+Il genere e la lingua possono essere cambiati sul sito cliccando sull'icona a forma di matita tenendo il mouse sui dettagli della beatmap. L'abilità di fare ciò è determinata dai [gruppi di utenti](/wiki/People/User_group) dell'utente e dalla [categoria](/wiki/Beatmap/Category#categorie-presenti) della beatmap:
 
 - I proprietari del set di mappe sono abilitati quando la beatmap è nelle categorie [WIP](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa), [In attesa](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa), o  [Abbandonate](/wiki/Beatmap/Category#mappe-abbandonate), e non ha alcuna [nomina](/wiki/Beatmap_ranking_procedure#nominations).
 - I [Beatmap nominators](/wiki/People/Beatmap_Nominators) sono abilitati quando la beatmap è nelle categorie [Qualificate](/wiki/Beatmap/Category#qualified), WIP, o In attesa.
@@ -37,7 +37,7 @@ Una beatmap non può ricevere [nomine](/wiki/Beatmap_ranking_procedure#nominatio
 | Non specificato | Nessun brano applicabile. Questo genere è un segnaposto fin quando ne viene impostato uno appropriato. |
 | Videogiochi | Creato per o reso famoso da un videogioco. Anche usato per arrangiamenti e remix di quei brani. |
 | Anime | Creato per o reso famoso da un anime o simili. |
-| Rock |  Principalmente incentrato su chitarre, batteria, e basso, tipicamente "basato su una fondazione di ritmi semplici non sincopati" e caratterizzato da "esibizioni dal vivo e un'attenzione su temi seri e progressivi" ([*Musica rock* su Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
+| Rock | Principalmente incentrato su chitarre, batteria, e basso, tipicamente "basato su una fondazione di ritmi semplici non sincopati" e caratterizzato da "esibizioni dal vivo e un'attenzione su temi seri e progressivi" ([*Musica rock* su Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
 | Pop | Prominente nella cultura pop,  composto per essere orecchiabile attraverso l'uso di strutture semplici e ritornelli o melodie ripetuti. |
 | Altro | Non appartenente a nessuno dei generi elencati. |
 | Novità | Comico o inusuale. In osu!, questa categoria include principalmente brani come YouTube Poop, Niconico MAD, e musica meme. |
