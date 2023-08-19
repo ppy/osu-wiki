@@ -56,7 +56,7 @@ Those songs are only the tip of the iceberg. Scroll through [**soowamisu**'s Fea
 
 In [**YUC'e**'s Featured Artist announcement](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists), we announced another batch of [**Featured Artist playlists** in osu!(lazer)](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora#featured-artist-playlists) for osu! and osu!mania. Now it's time to showcase the prize-winners!
 
-[At the start of last month](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce#featured-artist-playlists), we launched a batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/en/People/Featured_Artists/Featured_Artist_playlists). Those finished just a few days ago, so we're here to announce the results!
+[At the start of last month](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce#featured-artist-playlists), we launched a batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists). Those finished just a few days ago, so we're here to announce the results!
 
 Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard). Anyone with 10 total points earns a profile badge for their respective mode:
 
