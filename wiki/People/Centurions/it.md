@@ -1,13 +1,13 @@
 # Centurioni
 
-I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della creazione di **cento** (o più) [beatmap](/wiki/Beatmap) [classificate](/wiki/Beatmap/Category#classificate). A partire da luglio 2023, la loro straordinaria dedizione nel contribuire a rendere osu! ancor più eccezionale attraverso le beatmap è riconosciuta con le seguenti ricompense:
+I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della creazione di **cento** (o più) [beatmap](/wiki/Beatmap) [classificate](/wiki/Beatmap/Category#classificate). A partire da luglio 2023, la loro straordinaria dedizione nel contribuire a rendere osu! migliore attraverso le beatmap è riconosciuta con le seguenti ricompense:
 
 - I [pacchetti di beatmap](/wiki/Beatmap/Packs) dei Centurioni: per ogni 100 beatmap classificate, il mapper avrà la possibilità di selezionare 10 beatmap da includere in un pacchetto di beatmap, che sarà disponibile per il download nella [categoria temi](https://osu.ppy.sh/beatmaps/packs?type=theme) della [lista dei pacchetti di beatmap](https://osu.ppy.sh/beatmaps/packs).
 - Uno speciale [badge del profilo](/wiki/Community/Profile_badge) dei Centurioni.
 
 ![Badge dei Centurioni](img/centurion.png "Badge dei Centurioni (100+ beatmap classificate)")
 
-## Lista di Centurioni
+## Lista dei Centurioni
 
 | Nome | 1° beatmap classificata | 100° beatmap classificata | Pacchetti dei centurioni |
 | :-- | :-- | :-- | :-- |
@@ -29,4 +29,4 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Tra tutti i centurioni, ci vogliono approssimativamente **3 anni** (circa 1166 giorni) per classificare 100 beatmap in media.
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3 anni** (circa 1166 giorni) per classificare 100 beatmap.
