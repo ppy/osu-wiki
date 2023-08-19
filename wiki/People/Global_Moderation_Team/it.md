@@ -4,8 +4,6 @@ tags:
   - moderator
   - moderators
   - chat mod
-outdated_translation: true
-outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ---
 
 # Team di Moderazione Globale
@@ -96,7 +94,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandese | Moderazione della chat |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portoghese, spagnolo | Moderazione della chat, organizzazione tornei |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Tedesco | Moderazione della community del mapping/modding |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, cinese |  |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, cinese | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portoghese | Moderazione della community del mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Sviluppo di osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamita | Moderazione della chat |
@@ -176,3 +174,5 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 ## Notes
 
 [^task-Azer]: Anche se Azer non fa effettivamente parte del GMT, fa parte del gruppo utenti per una questione tecnica. Infatti, necessita di permessi da GMT in quanto organizzatore dell'OWC.
+
+ [^task-mangomizer]: Pur non facendo effettivamente parte del GMT, mangomizer fa parte del gruppo di utenti per motivi tecnici, in quanto necessita di permessi di livello GMT per accedere ai forum interni.
