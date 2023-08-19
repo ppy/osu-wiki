@@ -24,7 +24,7 @@ La [lista beatmap](https://osu.ppy.sh/beatmapsets) ha filtri disponibili per gen
 Il genere e la lingua possono essere cambiati sul sito cliccando sull'icona a forma di matita tenendo il mouse sui dettagli della beatmap. L'abilità di fare ciò è determinata dai [gruppi di utenti](/wiki/People/User_group) dell'utente e dalla [categoria](/wiki/Beatmap/Category#categorie-presenti) della beatmap:
 
 - I proprietari del set di mappe sono abilitati quando la beatmap è nelle categorie [WIP](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa), [In attesa](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa), o  [Abbandonate](/wiki/Beatmap/Category#mappe-abbandonate), e non ha alcuna [nomina](/wiki/Beatmap_ranking_procedure#nominations).
-- I [Beatmap nominators](/wiki/People/Beatmap_Nominators) sono abilitati quando la beatmap è nelle categorie [Qualificate](/wiki/Beatmap/Category#qualified), WIP, o In attesa.
+- I [Beatmap nominators](/wiki/People/Beatmap_Nominators) sono abilitati quando la beatmap è nelle categorie [Qualificate](/wiki/Beatmap/Category#qualificate), WIP, o In attesa.
 - I membri del [Project Loved Team](/wiki/People/Project_Loved_Team) sono abilitati quando la beatmap è nella categoria [Amate](/wiki/Beatmap/Category#amate).
 - I membri del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) e del [Global Moderation Team](/wiki/People/Global_Moderation_Team) sono abilitati per tutte le categorie.
 

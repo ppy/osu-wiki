@@ -4,7 +4,7 @@
 
 ## Usi e informazioni
 
-Descrizioni famose di beatmap [rankate](/wiki/Beatmap/Category#ranked) spesso includono i seguenti:
+Descrizioni famose di beatmap [rankate](/wiki/Beatmap/Category#classificate) spesso includono i seguenti:
 
 - Una lista di tutte le [difficoltà ospiti](/wiki/Beatmap/Guest_difficulty) e i loro creatori
 - Informazioni che aiuterebbero un giocatore a decidere se scaricare la beatmap
@@ -12,7 +12,7 @@ Descrizioni famose di beatmap [rankate](/wiki/Beatmap/Category#ranked) spesso in
 
 ### Immagini
 
-Molte descrizioni di beatmap contengono almeno un'immagine (spesso una [GIF](https://en.wikipedia.org/wiki/GIF) animata di qualche tipo), utilizzata per esprimere e illustrare o il creatore, la musica e/o la beatmap in modo accattivante. Possono anche fungere da titolo o intestazione per aggiungere stile e qualità. Per imparare come aggiungere un'immagine, consulta la [sezione degli articoli di BBCode sulle immagini](/wiki/BBCode#images).
+Molte descrizioni di beatmap contengono almeno un'immagine (spesso una [GIF](https://en.wikipedia.org/wiki/GIF) animata di qualche tipo), utilizzata per esprimere e illustrare o il creatore, la musica e/o la beatmap in modo accattivante. Possono anche fungere da titolo o intestazione per aggiungere stile e qualità. Per imparare come aggiungere un'immagine, consulta la [sezione degli articoli di BBCode sulle immagini](/wiki/BBCode#immagini).
 
 ### Sezioni difficoltà
 

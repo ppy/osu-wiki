@@ -51,7 +51,7 @@ Una beatmap inviata appartiene a una delle seguenti categorie, che possono cambi
 - [Approvate](Category#approvate)
 - [Amate](Category#amate)
 
-Alcune categorie hanno dei [criteri di invio](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#leaderboards) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#amate).
+Alcune categorie hanno dei [criteri di invio](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#classifiche) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#amate).
 
 ## Scaricare le beatmap
 
