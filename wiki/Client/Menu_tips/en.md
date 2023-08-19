@@ -16,7 +16,7 @@ This article lists all the various tips seen in the game, which contain useful a
 
 These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-menu).
 
-- Add new [beatmaps](/wiki/Beatmap) to osu! by simply dragging the [`.osz` file](/wiki/Client/File_formats/Osz_(file_format)) into the window, double-clicking it in Windows Explorer, or choosing "open" when downloading in your browser.
+- Add new [beatmaps](/wiki/Beatmap) to osu! by simply dragging the [`.osz` file](/wiki/Client/File_formats/osz_(file_format)) into the window, double-clicking it in Windows Explorer, or choosing "open" when downloading in your browser.
 - You can efficiently navigate large lists of beatmaps in [song select](/wiki/Client/Interface#song-select) by holding left-mouse to drag the list, or right-mouse to quick-seek.
 - Press `F8`/`F9` anywhere in game to join osu! [chat](/wiki/Client/Interface/Chat_console)!
 - Right-clicking on a beatmap or clicking the `Beatmap Options` button in the song select will show a menu that will allow you to manage the beatmap.

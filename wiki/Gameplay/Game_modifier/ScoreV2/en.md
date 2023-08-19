@@ -27,13 +27,13 @@ tags:
 *Notice: Enabling the ScoreV2 mod will result in an unranked play.*\
 *For information regarding the ScoreV2 scoring system, see: [ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
-The **ScoreV2** mod is a mod that uses the prototype ScoreV2 value system instead of the current scoring system for each respective [game mode](/wiki/Game_mode). In a nutshell, the ScoreV2 system attempts to scale all [hit object](/wiki/Gameplay/Hit_object) scoring values to a hard limit of 1 million at 1.00 Score Multiplier (excluding bonus spinner values in [osu!](/wiki/Game_mode/osu!), dendens in [osu!taiko](/wiki/Game_mode/osu!taiko), and collected bananas in [osu!catch](/wiki/Game_mode/osu!catch).
+The **ScoreV2** mod is a mod that uses the prototype ScoreV2 value system instead of the current scoring system for each respective [game mode](/wiki/Game_mode). In a nutshell, the ScoreV2 system attempts to scale all [hit object](/wiki/Gameplay/Hit_object) scoring values to a hard limit of 1 million at 1.00 Score Multiplier (excluding bonus spinner values in [osu!](/wiki/Game_mode/osu!), dendens in [osu!taiko](/wiki/Game_mode/osu!taiko), and collected bananas in [osu!catch](/wiki/Game_mode/osu!catch)).
 
 This mod has the same effect across all game modes.
 
 ## Trivia
 
-- The ScoreV2 mod was introduced in the February 22 (2017-02-22) build [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
+- The ScoreV2 mod was introduced in the February 22 (2017-02-22) build [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

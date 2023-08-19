@@ -6,7 +6,7 @@ Les skins peuvent être utilisés pour optimiser le gameplay, car beaucoup d'ent
 
 ## Comment utiliser un skin personnalisé
 
-Les skins peuvent être soit [créés à partir de rien](/wiki/Skinning), soit téléchargés en tant que [fichier `.osk`](/wiki/Client/File_formats/Osk_(file_format)) et importés dans le jeu. Pour importer un fichier `.osk`, il suffit de de l'ouvrir avec osu!, ou de le glisser-déposer dans le jeu. Si le fichier téléchargé est au format `.zip` ou `.rar`, extrayez-le. Le dossier résultant qui contient le fichier `skin.ini` peut alors être déplacé dans le dossier `Skins` de votre installation d'osu!.
+Les skins peuvent être soit [créés à partir de rien](/wiki/Skinning), soit téléchargés en tant que [fichier `.osk`](/wiki/Client/File_formats/osk_(file_format)) et importés dans le jeu. Pour importer un fichier `.osk`, il suffit de de l'ouvrir avec osu!, ou de le glisser-déposer dans le jeu. Si le fichier téléchargé est au format `.zip` ou `.rar`, extrayez-le. Le dossier résultant qui contient le fichier `skin.ini` peut alors être déplacé dans le dossier `Skins` de votre installation d'osu!.
 
 ## Collections de skins populaires
 
