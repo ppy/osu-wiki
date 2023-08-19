@@ -17,11 +17,6 @@ Gli oggetti da cliccare di una difficoltà compongono [pattern](/wiki/Beatmap/Pa
 
 Dalla prospettiva uditiva, una difficoltà può arricchire il brano fornendo uno o più set di campioni audio, o "hitsounds" che fungono da ulteriore feedback sonoro.
 
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
-
 [Le componenti visive](/wiki/Beatmap) di una difficoltà, a differenza dei suoi pattern, offrono un'esperienza ausiliaria durante il gameplay e possono essere disattivate nell'overlay [visual settings](/wiki/Client/Interface/Visual_settings) per la maggior parte. Mentre alcune di queste, come le [storyboard](/wiki/Storyboard) o [skin personalizzate](/wiki/Skinning), appartengono alla beatmap come un tutt'uno, la maggior parte delle componenti visive possono variare per difficoltà (ad esempio le sezioni di [kiai](/wiki/Gameplay/Kiai_time) e i [colori della combo](/wiki/Beatmapping/Combo_colour)).
 
 ## Livelli di difficoltà

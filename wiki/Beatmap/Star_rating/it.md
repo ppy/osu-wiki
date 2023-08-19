@@ -27,5 +27,3 @@ In alcuni casi, come [AIMod](/wiki/Client/Beatmap_editor/AiMod), la difficoltà 
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ and above
 
 Da notare che, sebbene i livelli di difficoltà previsti per la maggior parte delle beatmap corrispondano ai colori o alle fasce di livello loro assegnate, alcuni potrebbero variare significativamente a causa di determinati fattori. Per questo motivo, i [criteri di classificazione](/wiki/Ranking_criteria) offrono regole più definitive per determinare il livello di difficoltà effettivo e la distribuzione di una beatmap, indipendentemente dalla sua valutazione in stelle.
-
-<!-- TODO: add Star rating calculation formula -->

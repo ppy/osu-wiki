@@ -10,8 +10,6 @@ Un **pattern** è un piccolo set di [oggetti da colpire](/wiki/Gameplay/Hit_obje
 
 ## Tipi di pattern comuni
 
-<!-- TODO: add more -->
-
 ### osu!
 
 - [Jump](osu!/Jump)

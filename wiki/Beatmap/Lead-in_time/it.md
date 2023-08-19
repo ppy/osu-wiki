@@ -13,6 +13,6 @@ Il **tempo di entrata** è la quantità di tempo che il gioco da al giocatore pe
 
 ## Comportamento
 
-Il tempo di entrata minimo usato automaticamente da osu! è 1.8 secondi. Con la [velocità di approccio](/wiki/Beatmap/Approach_rate) di 0, questa è la quantità di tempo in cui un oggetto da colpire è visibile prima di dover essere colpito. Qualsiasi [storyboard](/wiki/Storyboard) o video riprodotti prima della prima nota potrebbe estendere il tempo di entrata.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/master/osu!/GameModes/Play/Player.cs#L1342-L1351 -->
+Il tempo di entrata minimo usato automaticamente da osu! è 1.8 secondi. Con la [velocità di approccio](/wiki/Beatmap/Approach_rate) di 0, questa è la quantità di tempo in cui un oggetto da colpire è visibile prima di dover essere colpito. Qualsiasi [storyboard](/wiki/Storyboard) o video riprodotti prima della prima nota potrebbe estendere il tempo di entrata.
 
 Utilizzare un tempo di entrata personalizzato è richiesto dai [criteri di classificazione](/wiki/Ranking_criteria#general) nel caso in cui la beatmap contenga un annuncio sull'epilessia che copre i primi oggetti da colpire.

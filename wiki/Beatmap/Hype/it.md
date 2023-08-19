@@ -15,5 +15,3 @@ Le beatmap hanno bisogno di almeno 5 hype (una barra completa dell'hype train) p
 ## Limite
 
 Gli utenti iniziano con 10 hype, che si consumano quando usati sulle beatmap. Ciascun hype torna disponibile dopo una settimana.
-
-<!-- TODO: images of the beatmap page and the modding page -->

@@ -12,7 +12,7 @@ tags:
 
 **Perdita HP** (***HP***) è un'impostazione di difficoltà di una [beatmap](/wiki/Beatmap) che controlla quanta [salute](/wiki/Gameplay/Health) viene persa passivamente a causa del [tasso di perdita HP](/wiki/Gameplay/Health). Influenza anche quanto un giocatore viene penalizzato a causa delle note mancate e quanta salute viene recuperata colpendo in modo accurato gli [oggetti](/wiki/Gameplay/Hit_object).
 
-L'HP varia da 0 a 10, dove 10 è il massimo della penalità e 0 il minimo.<!-- TODO: quantify what the value actually means -->
+L'HP varia da 0 a 10, dove 10 è il massimo della penalità e 0 il minimo.
 
 ## Effetti delle mod
 

@@ -28,8 +28,6 @@ Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/o
 
 Gli autori di beatmap possono [inviare](/wiki/Beatmapping/Beatmap_submission) le loro creazioni alla pubblica [lista delle beatmap](https://osu.ppy.sh/beatmapsets). Sebbene ogni beatmap sia attribuita a [una singola persona](/wiki/Beatmap/Beatmap_host), spesso si tratta di un lavoro comune: alcune difficoltà possono essere mappate da altre persone che lavorano [in collaborazione](/wiki/Beatmap/Beatmap_collaborations) o [separatamente](/wiki/Beatmap/Guest_difficulty).
 
-<!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
-
 Dopo l'invio, una beatmap acquisisce ulteriori campi di metadati, come la descrizione, la lingua, il genere e il segnalatore di contenuto esplicito, i quali possono essere modificati dall'autore stesso della beatmap sul sito web. La beatmap acquisisce anche il [testo del titolo](/wiki/Beatmap/Title_text), il cui aspetto può essere modificato con l'aiuto del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
 
 ### Identificazione
@@ -94,8 +92,6 @@ I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire 
 I primi 500 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
 
 ### Charts e Spotlights
-
-<!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Articolo principale: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 

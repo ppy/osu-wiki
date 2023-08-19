@@ -14,7 +14,7 @@ La **Dimensione cerchi** (***CS per Circle Size***) è un'impostazione di diffic
 
 In [osu!](/wiki/Game_mode/osu!), la dimensione cerchi cambia la grandezza dei [cerchi](/wiki/Gameplay/Hit_object/Hit_circle) e degli [slider](/wiki/Gameplay/Hit_object/Slider), con risultato a valori più alti, oggetti da cliccare più piccoli. Gli [spinner](/wiki/Gameplay/Hit_object/Spinner) non sono influenzati dalla dimensione cerchi. La dimensione effettiva dei cerchi è calcolata attraverso la seguente formula:
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
+`r = 54.4 - 4.48 * CS`
 
 Dove `r` è il raggio misurato in [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel), e `CS` è il valore della dimensione cerchi.
 

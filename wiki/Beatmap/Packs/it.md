@@ -58,6 +58,4 @@ Per scaricare i pacchetti di beatmap in un unico blocco, invece che uno per uno 
 - [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (chiuso)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) di [Hiramiya](https://osu.ppy.sh/users/1313441)
 
-<!-- TODO: new mirrors -->
-
 È necessario molto spazio (e larghezza di banda) per torrentare tutti questi pacchetti.

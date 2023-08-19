@@ -34,10 +34,6 @@ Le finestre di colpo per i giudizi possono essere visualizzate passando col mous
 
 ### osu!taiko
 
-<!-- reference: https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Taiko/Scoring/TaikoHitWindows.cs#L12-L14
-and https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs#L56-L61
-the same formula is used in stable -->
-
 | Punteggio | Finestra di colpo (ms) |
 | --: | :-- |
 | Great |  `35 - (35 - 50) * (5 - OD) / 5` se OD < 5, `35 + (20 - 35) * (OD - 5) / 5` se OD > 5, altrimenti `35` |
@@ -60,7 +56,7 @@ Se il giocatore colpisce al di fuori della finestra di colpo dei 50, verrà cons
 
 In [osu!](/wiki/Game_mode/osu!), gli [slider](/wiki/Gameplay/Hit_object/Slider) ricompensano con 300 a patto che vengano colpiti entro la finestra di colpo dei 50. Questo viene a volte chiamato tolleranza slider e viene rimosso in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 
-La difficoltà generale influisce anche sugli [spinner](/wiki/Gameplay/Hit_object/Spinner), i quali richiedono più giri per riempire l'indicatore in tempo. In [osu!taiko](/wiki/Game_mode/osu!taiko), anche i denden hanno bisogno di più colpi per essere superati. Il numero di giri al secondo necessari per superare uno spinner è definito dalla seguente formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
+La difficoltà generale influisce anche sugli [spinner](/wiki/Gameplay/Hit_object/Spinner), i quali richiedono più giri per riempire l'indicatore in tempo. In [osu!taiko](/wiki/Game_mode/osu!taiko), anche i denden hanno bisogno di più colpi per essere superati. Il numero di giri al secondo necessari per superare uno spinner è definito dalla seguente formula:
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`

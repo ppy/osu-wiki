@@ -6,8 +6,6 @@ tags:
 
 # Testo del titolo della beatmap
 
-<!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
-
 ![Screenshot del gameplay di osu! con il testo del titolo visibile](img/liquid-title-text.jpg "Il testo del titolo per \"Rostik - Liquid (Paul Rosenthal Remix)\" viene mostrato subito dopo l'inizio della beatmap.")
 
 Il **testo del titolo** appare in alto al centro dello schermo durante l'esecuzione di una beatmap. Di solito, mostra l'artista e il titolo del brano all'inizio della mappa, ma il creatore della mappa può cambiare il testo come preferisce. Può anche modificare la formattazione del testo e il momento in cui viene visualizzato.

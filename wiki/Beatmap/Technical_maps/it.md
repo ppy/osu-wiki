@@ -10,8 +10,6 @@ tags:
 
 # Mappe tecniche
 
-<!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
-
 *Nota: Ai fini di questo articolo, il termine "mappa tech" verrà trattato come un termine ombrello che include tutte queste definizioni.*
 
 **Mappe tecniche** (spesso abbreviato in "mappe tech") è un termine che non ha una definizione chiara e condivisa dall'intera community di osu!. A seconda dell'utente, il termine "mappa tech" può essere ampio come una [beatmap](/wiki/Beatmap) che contiene semplicemente [pattern](/wiki/Beatmap/Pattern) non generici, o specifico come una beatmap densa di [note](/wiki/Gameplay/Hit_object) e contenente molti [slider](/wiki/Gameplay/Hit_object/Slider) irregolari che cambiano rapidamente e drasticamente velocità (spesso ad alta intensità).
@@ -57,6 +55,3 @@ Buoni esempi di mappe tech che rientrano in questa definizione sono [Silentroom 
 ![Forme di slider irregolari (MARENOL)](img/irregular_slider.jpg "Forme di slider irregolari (Slider SV)")
 
 Buoni esempi di mappe tech che rientrano in questa definizione sono [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) e [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
-
-<!--Some other sections that would be cool to add:
-- A "History" section would be pretty cool. But idk how feasible this would be. -->
