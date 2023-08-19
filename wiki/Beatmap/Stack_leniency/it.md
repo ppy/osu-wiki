@@ -16,7 +16,7 @@ tags:
 
 **La tolleranza di sovrapposizione** è un paramentro delle [beatmap](/wiki/Beatmap) che controlla la formazione di [pile](/wiki/Beatmapping/Mapping_techniques/Stack) di [cerchi](/wiki/Gameplay/Hit_object/Hit_circle) e [slider](/wiki/Gameplay/Hit_object/Slider) nella modalità di gioco di [osu!](/wiki/Game_mode/osu). Una bassa tolleranza di sovrapposizione riduce il tempo massimo dopo il quale gli [oggetti da colpire](/wiki/Gameplay/Hit_object) non vengono più posizionati nella stessa pila; allo stesso modo, una tolleranza di sovrapposizione maggiore raggrupperà oggetti piazzati più distanti nel tempo.
 
-La tolleranza di sovrapposizione può essere modificata dalla scheda `Advanced` della sezione [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) dell'[editor delle beatmap](/wiki/Client/Beatmap_editor). Mentre i valori visualizzati nell'editor vanno da `0` a `10`, essi corrispondono all'intervallo `0.0`–`1.0` del parametro `StackLeniency` nei [file `.osu`](/wiki/Client/File_formats/Osu_(file_format)).
+La tolleranza di sovrapposizione può essere modificata dalla scheda `Advanced` della sezione [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) dell'[editor delle beatmap](/wiki/Client/Beatmap_editor). Mentre i valori visualizzati nell'editor vanno da `0` a `10`, essi corrispondono all'intervallo `0.0`–`1.0` del parametro `StackLeniency` nei [file `.osu`](/wiki/Client/File_formats/osu_(file_format)).
 
 ## Comportamento
 

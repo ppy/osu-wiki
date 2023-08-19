@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioco ([difficoltà](#difficoltà)) che sono composti da vari [oggetti da colpire](/wiki/Gameplay/Hit_object) e rappresentano quasi sempre un singolo brano. Include anche altri componenti, tutti racchiusi in un archivio con [estensione `.osz`](/wiki/Client/File_formats/Osz_(file_format)):
+Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioco ([difficoltà](#difficoltà)) che sono composti da vari [oggetti da colpire](/wiki/Gameplay/Hit_object) e rappresentano quasi sempre un singolo brano. Include anche altri componenti, tutti racchiusi in un archivio con [estensione `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - il brano stesso, in formato MP3 o Ogg.
 - [Immagini di sfondo]( /wiki/Beatmap/Background), o un video, che fungono da campo di gioco.
@@ -20,7 +20,7 @@ Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioc
 
 *Articolo principale: [Difficoltà](/wiki/Beatmap/Difficulty)*
 
-Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/Osu_(file_format)) che descrive il posizionamento degli oggetti da colpire, degli hitsound e degli effetti speciali come le [sezioni kiai](/wiki/Gameplay/Kiai_time). Contiene anche [impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e altri parametri che influenzano direttamente il gameplay. Le difficoltà di una beatmap hanno strutture diverse e a volte possono essere giocate in una sola [modalità di gioco](/wiki/Game_mode). Il sistema di [valutazione in stelle](/wiki/Beatmap/Star_rating) è usato per visualizzare i requisiti di abilità di una difficoltà.
+Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/osu_(file_format)) che descrive il posizionamento degli oggetti da colpire, degli hitsound e degli effetti speciali come le [sezioni kiai](/wiki/Gameplay/Kiai_time). Contiene anche [impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e altri parametri che influenzano direttamente il gameplay. Le difficoltà di una beatmap hanno strutture diverse e a volte possono essere giocate in una sola [modalità di gioco](/wiki/Game_mode). Il sistema di [valutazione in stelle](/wiki/Beatmap/Star_rating) è usato per visualizzare i requisiti di abilità di una difficoltà.
 
 ## Invio
 

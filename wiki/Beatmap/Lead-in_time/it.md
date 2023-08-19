@@ -9,7 +9,7 @@ tags:
 
 *Vedi anche: [Offset](/wiki/Offset)*
 
-Il **tempo di entrata** è la quantità di tempo che il gioco da al giocatore per reagire prima della prima [nota](/wiki/Gameplay/Hit_object) di una [beatmap](/wiki/Beatmap). Questo può essere personalizzato dai  [mapper](/wiki/Beatmapping) modificando il campo `AudioLeadIn` nel [file `.osu`](/wiki/Client/File_formats/Osu_(file_format)) della [difficoltà della beatmap](/wiki/Beatmap/Difficulty), il quale contiene la durata del tempo di entrata in millisecondi.
+Il **tempo di entrata** è la quantità di tempo che il gioco da al giocatore per reagire prima della prima [nota](/wiki/Gameplay/Hit_object) di una [beatmap](/wiki/Beatmap). Questo può essere personalizzato dai  [mapper](/wiki/Beatmapping) modificando il campo `AudioLeadIn` nel [file `.osu`](/wiki/Client/File_formats/osu_(file_format)) della [difficoltà della beatmap](/wiki/Beatmap/Difficulty), il quale contiene la durata del tempo di entrata in millisecondi.
 
 ## Comportamento
 
