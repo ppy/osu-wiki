@@ -16,6 +16,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | NAT |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | BAT |
@@ -79,6 +80,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ::{ flag=AR }:: [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | BAT |
 | ::{ flag=DE }:: [Ezoda](https://osu.ppy.sh/users/1231180) | Pomoc techniczna |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | GMT |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | QAT, NAT |
 | ::{ flag=SG }:: [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | QAT, NAT |
@@ -173,10 +175,10 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | Moderator czatu, GMT |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | NAT |
 | ::{ flag=TR }:: [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | GMT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Programista gry |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
@@ -224,6 +226,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | GMT |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | NAT |
 | ::{ flag=CN }:: [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
 | ::{ flag=RU }:: [stymlice](https://osu.ppy.sh/users/5122436) | GMT |
 | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | BAT |

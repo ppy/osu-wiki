@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a338c1129483f656838881edc9c3b2b2b817a3cb
+---
+
 # Menü des Beatmap-Editors
 
 ## Datei

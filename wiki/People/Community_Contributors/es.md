@@ -1,6 +1,17 @@
+---
+outdated_translation: true
+outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
+---
+
 # Contribuidores de la comunidad
 
-![Medalla de contribuidor](/wiki/shared/contributor.jpg "Medalla de contribuidor")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 Los **contribuidores de la comunidad** son aquellas personas que, a un gran coste para sí mismas, se han encargado de proporcionar servicios a la comunidad de osu!, creando herramientas y funcionalidades que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
@@ -125,7 +136,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/osu!_Alumni), que son antiguo
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Trabajo excepcional en soporte al jugador y resolución de problemas |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mantenedor extraordinario del proyecto de Packs de beatmaps |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Desarrollador de innumerables herramientas que han demostrado ser parte integral del ciclo de clasificación moderno |
-| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto Beatmaps destacados |
+| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto Beatmaps Spotlights |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Excelente contribución a través de numerosos proyectos y dominios |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Excelente contribución al GMT y al mantenimiento de torneos |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Líder del equipo Proyecto Amado |

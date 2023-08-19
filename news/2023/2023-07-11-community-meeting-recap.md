@@ -48,7 +48,7 @@ There were some other issues brought up as well:
 
 In short, ScoreV2 is the future — or at least an improved version of it. But in order to make sensible adjustments, focus should be spent on identifying problematic leaderboards and outlier scores that "feel wrong", to identify underlying issues and experiment with applying changes to get those scores closer to expectations.
 
-This is were *you* come in. We're looking for feedback on the current ScoreV2 system in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
+This is where *you* come in. We're looking for feedback on the current ScoreV2 system in order to nail down any remaining issues. The coming months will see the last steps taken to lock in scoring and make scores permanent in the new client.
 
 Keep in mind that there are as many opinions on scoring as there are players, and any adjustments will therefore focus on aligning things "close enough" to fix widely perceived issues, rather than debating over fine details.
 

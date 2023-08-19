@@ -18,13 +18,13 @@ La **osu! World Cup 2013** (***OWC 2013***) fue un torneo organizado por el [Ger
 
 | Evento | Marca de tiempo |
 | :-- | :-- |
-| Fase de registración | 15-28 Oct 2013 |
-| Sorteos | 31 Oct 2013 16:00 UTC+0 |
-| Fase de grupos | 8-10 Nov 2013 |
-| Octavos de final | 16-17 Nov 2013 |
-| Cuartos de final | 23-24 Nov 2013 |
-| Semifinales | 30 Nov - 1 Dic 2013 |
-| Final/3er puesto | 7-8 Dic 2013 |
+| Fase de registo | 15/10/2013 - 28/10/2013 |
+| Sorteos | 31/10/2013 (16:00 UTC) |
+| Fase de grupos | 8/11/2013 - 10/11/2013 |
+| Octavos de final | 16/11/2013 - 17/11/2013 |
+| Cuartos de final | 21/11/2013 |
+| Semifinales | 30/11/2013 |
+| Final/3er puesto | 7/12/2013 - 8/12/2013 |
 
 ## Premios
 

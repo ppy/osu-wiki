@@ -15,14 +15,14 @@ La **osu! World Cup 2014** (***OWC 2014***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2014-10-02/2014-10-26 |
-| Sorteos | 2014-11-01 (14:00 UTC) |
-| Fase de grupos | 2014-11-08/2014-11-09 |
-| Octavos de final | 2014-11-16 |
-| Cuartos de final | 2014-11-22/2014-11-23 |
-| Semifinales | 2014-11-29/2014-11-30 |
-| Finales semana 1 | 2014-12-06 |
-| Finales semana 2 | 2014-12-13 |
+| Fase de registración | 2/10/2014 - 26/10/2014 |
+| Sorteos | 1/11/2014 (14:00 UTC) |
+| Fase de grupos | 8/11/2014 - 9/11/2014 |
+| Octavos de final | 16/11/2014 |
+| Cuartos de final | 22/11/2014 - 23/11/2014 |
+| Semifinales | 29/11/2014 - 30/11/2014 |
+| Finales semana 1 | 6/12/2014 |
+| Finales semana 2 | 13/12/2014 |
 
 ## Premios
 

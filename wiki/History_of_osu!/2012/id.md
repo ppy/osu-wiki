@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "Menu utama osu! pada saat itu")
 
-osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama waktu ini, semua pemain diberikan status [osu!supporter](/wiki/osu!supporter) selama 24 jam, dimulai pada 2012-09-17T02:800+08:00, yang merupakan waktu rilis orisinal osu! Pada tahun 2007. peppy memiliki ide untuk mendistribusikan versi awal osu! dalam beberapa bentuk atau lainnya sebagai bentuk perayaan, jadi pemain dapat mengalami langsung osu! dari masa sebelumnya, di mana akar dari program itu. Namun, karena versi file `.dll` berbeda, peppy tidak dapat membuatnya berfungsi. peppy mengatakan dia akan mendapatkannya suatu hari nanti.
+osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama waktu ini, semua pemain diberikan status [osu!supporter](/wiki/osu!supporter) selama 24 jam, dimulai pada 2012-09-16 (18:00 UTC), yang merupakan waktu rilis orisinal osu! Pada tahun 2007. peppy memiliki ide untuk mendistribusikan versi awal osu! dalam beberapa bentuk atau lainnya sebagai bentuk perayaan, jadi pemain dapat mengalami langsung osu! dari masa sebelumnya, di mana akar dari program itu. Namun, karena versi file `.dll` berbeda, peppy tidak dapat membuatnya berfungsi. peppy mengatakan dia akan mendapatkannya suatu hari nanti.
 
 Tautan terkait:
 
