@@ -3,6 +3,7 @@
 Trang chỉ mục cho những bài viết về những người hay nhóm.
 
 ## Hiện tại
+
 - [Đội ngũ hỗ trợ tài khoản](Account_support_team)
 - [Người đề cử beatmap](Beatmap_Nominators)
 - [Người tuyển chọn điểm sáng beatmap](Beatmap_Spotlight_Curators)
@@ -22,6 +23,7 @@ Trang chỉ mục cho những bài viết về những người hay nhóm.
 - [Những người bảo trì osu! wiki](osu!_wiki_maintainers)
 
 ## Cũ
+
 - [Đội ngũ Đánh giá Beatmap](Beatmap_Appreciation_Team)
 - [Bộ phận giám sát Ngôn ngữ](Language_Surveillance_Division)
 - [Đội ngũ hỗ trợ Mapping](Mapping_Assistance_Team)
@@ -29,6 +31,7 @@ Trang chỉ mục cho những bài viết về những người hay nhóm.
 - [Đội ngũ đảm bảo chất lượng](Quality_Assurance_Team)
 
 ## Khác
+
 - [peppy](peppy)
 - [Nhật ký nhân viên](Staff_log)
 - [Nhóm người dùng](User_group)
