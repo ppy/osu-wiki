@@ -25,7 +25,7 @@ A living, breathing collection of breakcore samples (a.k.a. **soowamisu**) is no
 Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1999116) hosted by [Kyouren](https://osu.ppy.sh/users/2013571)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20.vaporcore.mp3">
 </audio>
 
 ### soowamisu - floating architecture of an abstract heaven
@@ -33,19 +33,19 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1999116) h
 Or attempt [this recently Ranked map](https://osu.ppy.sh/beatmapsets/1988496) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20floating%20architecture%20of%20an%20abstract%20heaven.mp3">
 </audio>
 
 ### soowamisu - ethereal cyber grind
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20ethereal%20cyber%20grind.mp3">
 </audio>
 
 ### soowamisu - shinjuku
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20shinjuku.mp3">
 </audio>
 
 ---
