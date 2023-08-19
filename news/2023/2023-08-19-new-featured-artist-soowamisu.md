@@ -16,7 +16,7 @@ A living, breathing collection of breakcore samples (a.k.a. **soowamisu**) is no
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/376/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/376/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -96,7 +96,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | --: | :-- | :-- | :-- |
 | #1 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | **10** | **10** |
 | #2 | ::{ flag=VN }:: [[ Primakien ]](https://osu.ppy.sh/users/23941998) | 5 | 9 |
-| #3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)[^previous-prize] | 3 | 9 |
+| #3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 3 | 9 |
 | #4 | ::{ flag=BR }:: [Predominador](https://osu.ppy.sh/users/4568537) | 2 | 5 |
 | #5 | ::{ flag=PL }:: [-Filow-](https://osu.ppy.sh/users/3157472) | 2 | 2 |
 | #6 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 1 | **11** |
