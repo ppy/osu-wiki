@@ -32,4 +32,4 @@ The [beatmap editor](/wiki/Client/Beatmap_editor)'s grid is 512x384 osupixels. T
 
 ## Storyboard
 
-The coordinate system used in the storyboarding engine is slightly different: the playfield covers the whole screen and has the size of 640x480 pixels. The origin point (0, 0) is in the top left corner, while the bottom right corner is (640, 480). In contrast with osupixels, when storyboard sprites are scaled, one [texture pixel](https://en.wikipedia.org/wiki/Texel_(graphics)) corresponds to one screen pixel at 1024x768 resolution.
+The coordinate system used in the storyboarding engine is slightly different: the playfield covers the whole screen and has the size of 640x480 pixels. The top left corner's coordinates are (0, 0), while the bottom right corner's coordinates are (640, 480). In contrast with osupixels, when storyboard sprites are scaled, one [texture pixel](https://en.wikipedia.org/wiki/Texel_(graphics)) corresponds to one screen pixel at 1024x768 resolution.
