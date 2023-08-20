@@ -51,6 +51,6 @@ If you're ready to sign up, you can fill out the sign-up form in English [here](
 
 ---
 
-in case you know anyone who is interested in improving their skills in a language (or learning a new one), please consider sharing this event with them! This event will work best with as many sign-ups as possible, so we hope to see you all join us next month for the first edition of OLEX.
+In case you know anyone who is interested in improving their skills in a language (or learning a new one), please consider sharing this event with them! This event will work best with as many sign-ups as possible, so we hope to see you all join us next month for the first edition of OLEX.
 
 —DigitalHypno
