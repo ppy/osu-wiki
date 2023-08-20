@@ -6,6 +6,7 @@ tags:
   - single tap
   - singletap
   - play style
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 ---
 
 # Single-tapping
