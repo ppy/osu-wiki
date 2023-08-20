@@ -26,7 +26,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- 默认快捷键： `D` `D` 或 `Shift`+`D`
+- 默认快捷键： `D` `D` 或 `Shift` + `D`
 - 描述： `洞次打次洞次打次~`
 - 兼容的游戏模式： ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 变体： [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
