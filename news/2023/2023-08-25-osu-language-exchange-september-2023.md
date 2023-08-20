@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu! Language Exchange: September 2023"
-date: 2023-08-20 20:00:00 +0000
+date: 2023-08-25 20:00:00 +0000
 ---
 
 The best way to learn a new language is to use it, and what better way to use a language than to make some new friends?
 
-![](/wiki/shared/news/2023-08-20-osu-language-exchange-september-2023/banner.jpg)
+![](/wiki/shared/news/2023-08-25-osu-language-exchange-september-2023/banner.jpg)
 
 osu! Language Exchange (OLEX) is an event where you can meet people to help you practice the languages you're learning and take your language skills to the next level. The event will last from **September 1–30, 2023** and take place in the **[osu! University Discord server](https://discord.com/invite/QubdHdnBVg)**. After filling out the **[sign-up form](https://forms.gle/GiZUvqu4XQtjidMt5)**, you will be matched in groups of 2 to 4 with people who speak the language you want to learn and are currently learning a language that you speak.
 
