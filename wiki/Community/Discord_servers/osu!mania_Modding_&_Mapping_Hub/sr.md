@@ -10,7 +10,7 @@
 
 |  |  |
 | :-- | :-- |
-| Линк позивнице | <https://discord.gg/maniahub> |
+| Линк позивнице | <https://discord.gg/xX9r5GTQAp> |
 
 :::
 
