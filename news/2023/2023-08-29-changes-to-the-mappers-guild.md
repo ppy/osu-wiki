@@ -15,13 +15,13 @@ The **Mappers' Guild** is a community of mappers who create maps from the [Featu
 This article covers new additions to the **Mappers' Guild** since [our last update](https://osu.ppy.sh/home/news/2022-07-25-mappers-guild-updates). Skip to any section you're interested in:
 
 - [Priority quests](#priority-quests)
-- [Ranked maps requirement lifted](#ranked-maps-requirement-lifted)
+- [Ranked map requirement lifted](#ranked-map-requirement-lifted)
 - [Smaller changes](#smaller-changes)
 - [Major contributors to Featured Artist mapping](#major-contributors)
 
 ## Priority quests
 
-[**Quests**](https://mappersguild.com/quests) allow mappers to collaborate on simple objectives tied to each Featured Artist, like *"Create and rank at least 2 mapsets of songs by `artist`, each hosted by a different user."*
+[**Quests**](https://mappersguild.com/quests) allow mappers to collaborate on simple objectives tied to each Featured Artist, like *"Create and rank at least 2 mapsets of songs by `artist`, each hosted by a different user"*.
 
 [**Priority quests**](https://mappersguild.com/missions) take that a step further, offering more complex objectives that aren't necessarily tied to one Featured Artist's music!
 
@@ -36,13 +36,13 @@ These new-style quests function differently from normal quests too. Here are the
 - Depending on the quest's completion conditions, **multiple users can earn prizes for the same quest**.
 - **Priority quests don't last forever.** Maps can be added to priority quests until a deadline is met or a beatmap completes the quest.
 
-Check out these new quests from the [**priority quests listing**](https://mappersguild.com/missions). It explains basically everything that we can't fit in this article!
+Check out these new quests from the [**priority quest listing**](https://mappersguild.com/missions). It explains basically everything that we can't fit in this article!
 
 ### Priority quest rewards
 
 As the name implies, these quests are a bit more special than ordinary quests, and we're offering some special rewards in turn!
 
-To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](/wiki/Community/Mappers_Guild#rewards). This is handled with a complicated points-based system, which you can read about [here](https://mappersguild.com) if you're really invested.
+To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](/wiki/Community/Mappers_Guild#rewards). This is handled with a complicated point-based system, which you can read about [here](https://mappersguild.com) if you're really invested.
 
 ![Tier 1 badge](https://assets.ppy.sh/profile-badges/mg2018-1star.png) ![Tier 2 badge](https://assets.ppy.sh/profile-badges/mg2018-2star.png) ![Tier 3 badge](https://assets.ppy.sh/profile-badges/mg2018-3star.png) ![Tier 4 badge](https://assets.ppy.sh/profile-badges/mg2018-4star.png)
 
@@ -56,9 +56,9 @@ And on top of *all of that*, we're also offering a new profile badge to anyone w
 
 ![Priority quest badge](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/questbadge.png)
 
-The [**priority quests listing**](https://mappersguild.com/missions) details more about prizes and will always have a few active quests running at any given time, so participate in whichever you're interested in!
+The [**priority quest listing**](https://mappersguild.com/missions) details more about prizes and will always have a few active quests running at any given time, so participate in whichever you're interested in!
 
-## Ranked maps requirement lifted
+## Ranked map requirement lifted
 
 Previously, you needed **at least 3 Ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
 
@@ -102,9 +102,9 @@ Instead of completely locking users out of quests, the party leader can now comp
 
 A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and [SMOKELIND](https://osu.ppy.sh/users/9327302), who focused on total Ranked maps instead.)
 
-There's absolutely no way we could highlight every beatmap/quest, but we *can* shout out some of the **Mappers' Guild**'s top contributors. Each of these users contributed 5 or more ranked beatmaps since November 2020: <!-- this will need to be updated again later -->
+There's absolutely no way we could highlight every beatmap/quest, but we *can* shout out some of the **Mappers' Guild**'s top contributors. Each of these users contributed 5 or more Ranked beatmaps since November 2020: <!-- this will need to be updated again later -->
 
-| User | Modes | Beatmaps Ranked | Difficulties Ranked |
+| User | Modes | Ranked beatmaps | Ranked difficulties |
 | :-- | :-- | :-- | :-- |
 | [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 12 | 48 |
 | [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 7 | 43 |
