@@ -43,7 +43,7 @@ If you submit at least 10 progress logs, you will be given a special *Linguist* 
 
 ---
 
-Interested in joining, but feel like you might not have enough time? No worries! The [sign-up form](https://forms.gle/GiZUvqu4XQtjidMt5) will ask you for your availability so you can take the event at your own pace.
+Interested in joining, but feel like you might not have enough time? No worries! The [sign-up form](https://forms.gle/GiZUvqu4XQtjidMt5) will ask you for your availability, so you can take the event at your own pace.
 
 If you'd like to share this event with someone in a different language, you can find translated versions of this news post at the bottom of the English forum post [here](https://osu.ppy.sh/community/forums/topics/1808561).
 
@@ -51,6 +51,6 @@ If you're ready to sign up, you can fill out the sign-up form in English [here](
 
 ---
 
-If you know anyone who is interested in improving their skills in a language (or learning a new one), please consider sharing this event with them! This event will work best with as many sign-ups as possible, so we hope to see you all join us next month for the first edition of OLEX.
+in case you know anyone who is interested in improving their skills in a language (or learning a new one), please consider sharing this event with them! This event will work best with as many sign-ups as possible, so we hope to see you all join us next month for the first edition of OLEX.
 
 —DigitalHypno
