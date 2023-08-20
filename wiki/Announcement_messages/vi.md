@@ -19,13 +19,13 @@ Một **tin nhắn thông báo** là một loại tin nhắn đặc biệt đư�
 - Có thể vượt qua cài  `chặn tin nhắn riêng tư từ những người không có trên danh sách bạn bè của bạn.`
 - Chỉ có những người có thể gửi tin nhắn thông báo có thể trả lời được chúng
 
-- ## Điều kiện
+## Điều kiện
 
-- Để được gửi và trả lời các tin nhắn thông báo qua trang web, bạn cần phải là một thành viên của [Đội ngũ kiểm duyệt](/wiki/People/Global_Moderation_Team), [Đội ngũ khảo sát đề cử](/wiki/People/Nomination_Assessment_Team), hay Thông báo [nhóm người dùng](/wiki/People/User_group). Dù vậy, chỉ có những thành viên của thông báo nhóm người dùng được phép gửi tin nhắn thông báo qua [API osu! v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Để được gửi và trả lời các tin nhắn thông báo qua trang web, bạn cần phải là một thành viên của [Đội ngũ kiểm duyệt](/wiki/People/Global_Moderation_Team), [Đội ngũ khảo sát đề cử](/wiki/People/Nomination_Assessment_Team), hay Thông báo [nhóm người dùng](/wiki/People/User_group). Dù vậy, chỉ có những thành viên của thông báo nhóm người dùng được phép gửi tin nhắn thông báo qua [API osu! v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
-- ### Điền một yêu cầu
+### Điền một yêu cầu
 
-- Bạn có thể điền một yêu cầu để tham gia nhóm thông báo người dùng bằng cách gửi một email đến [accounts@ppy.sh](mailto:accounts@ppy.sh) với chủ để `Yêu cầu nhóm thông báo người dùng`. Cái này cần phải được gửi từ địa chỉ email được gắn với tài khoản osu! của bạn.
+Bạn có thể điền một yêu cầu để tham gia nhóm thông báo người dùng bằng cách gửi một email đến [accounts@ppy.sh](mailto:accounts@ppy.sh) với chủ để `Yêu cầu nhóm thông báo người dùng`. Cái này cần phải được gửi từ địa chỉ email được gắn với tài khoản osu! của bạn.
 
 Thân của email phải có thứ này:
 
