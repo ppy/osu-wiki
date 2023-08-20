@@ -13,7 +13,7 @@ tags:
 
 ![COEGTS 2023 banner](img/banner.png)
 
-**cavoe's osu! event Global Taiko Showdown 2023** (***COEGTS 2023***) is a 1v1 single-elimination osu!taiko LAN tournament hosted by ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the first instalment of cavoe's osu! event's Global Taiko Showdown and the first offline tournament in the Global Taiko Showdown series.
+**cavoe's osu! event Global Taiko Showdown 2023** (***COEGTS 2023***) was a 1v1 single-elimination osu!taiko LAN tournament hosted by ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the first instalment of cavoe's osu! event's Global Taiko Showdown and the first offline tournament in the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The main mappool will be showcased on COE's stage. All stages and mappool showca
 
 ## Organisation
 
-cavoe's osu! event Global Taiko Showdown 2023 is run by various community members.
+cavoe's osu! event Global Taiko Showdown 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -74,6 +74,16 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
 | Low | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=NL }:: [StrijkIjzer](https://osu.ppy.sh/users/4130926), ::{ flag=PL }:: [Qroissant](https://osu.ppy.sh/users/9511518) |
 | Unseeded | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=NL }:: [Edesto](https://osu.ppy.sh/users/5088562), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=NL }:: [demonking7447](https://osu.ppy.sh/users/11094496) |
 | Eliminated | ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=DE }:: [Musubi](https://osu.ppy.sh/users/9562353) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
 
 ## Mappools
 
@@ -123,6 +133,34 @@ cavoe's osu! event Global Taiko Showdown 2023 is run by various community member
   1. [NormalM feat. Usagi Denki - Luminous Entities Lost Heart (Briesmas) [Inner Oni]](https://osu.ppy.sh/beatmapsets/2023493#taiko/4214841)
 
 ## Match results
+
+### Finals
+
+Tuesday, 1 August 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: demonking7447 | [#1](https://osu.ppy.sh/community/matches/109785152) |
+| **MEGAMELA** ::{ flag=FI }:: | **5** | 2 | ::{ flag=NL }:: Cookie_Tree | [#1](https://osu.ppy.sh/community/matches/109785722) |
+| mangomizer ::{ flag=GB }:: | 4 | **5** | ::{ flag=NL }:: **ikin5050** | [#1](https://osu.ppy.sh/community/matches/109786593) |
+| **Ikkun** ::{ flag=IT }:: | **5** | 3 | ::{ flag=PL }:: Qroissant | [#1](https://osu.ppy.sh/community/matches/109787561) |
+| **Mazzuli500** ::{ flag=FI }:: | **5** | 0 | ::{ flag=GB }:: aceticke | [#1](https://osu.ppy.sh/community/matches/109787561) |
+| **Chupalika** ::{ flag=US }:: | **5** | 2 | ::{ flag=NL }:: Krekker | [#1](https://osu.ppy.sh/community/matches/109789333) |
+| **D3kuu** ::{ flag=IT }:: | **5** | 0 | ::{ flag=NL }:: Edesto | [#1](https://osu.ppy.sh/community/matches/109789921) |
+| **Drecksackblase** ::{ flag=DE }:: | **5** | 3 | ::{ flag=NL }:: StrijkIjzer | [#1](https://osu.ppy.sh/community/matches/109791022) |
+
+Wednesday, 2 August 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=FI }:: MEGAMELA | [#1](https://osu.ppy.sh/community/matches/109800365) |
+| ikin5050 ::{ flag=NL }:: | 1 | **5** | ::{ flag=IT }:: **Ikkun** | [#1](https://osu.ppy.sh/community/matches/109800921) |
+| **Mazzuli500** ::{ flag=FI }:: | **5** | 1 | ::{ flag=US }:: Chupalika | [#1](https://osu.ppy.sh/community/matches/109801615) |
+| **D3kuu** ::{ flag=IT }:: | **5** | 2 | ::{ flag=DE }:: Drecksackblase | [#1](https://osu.ppy.sh/community/matches/109802526) |
+| **AuroraPhasmata** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/community/matches/109803284) |
+| Mazzuli500 ::{ flag=FI }:: | 4 | **5** | ::{ flag=IT }:: **D3kuu** | [#1](https://osu.ppy.sh/community/matches/109804176) |
+| Ikkun ::{ flag=IT }:: | 4 | **7** | ::{ flag=FI }:: **Mazzuli500** | [#1](https://osu.ppy.sh/community/matches/109804928) |
+| **AuroraPhasmata** ::{ flag=US }:: | **7** | 1 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/109806593) |
 
 ### Qualifiers
 

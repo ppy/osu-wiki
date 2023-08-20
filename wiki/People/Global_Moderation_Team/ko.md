@@ -1,6 +1,11 @@
 ---
 outdated_translation: true
 no_native_review: true
+tags:
+  - GMT
+  - moderator
+  - moderators
+  - chat mod
 ---
 
 # 글로벌 모더레이션 팀
@@ -24,6 +29,7 @@ no_native_review: true
 | 이름 | 언어 | 주요 활동 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 독일어 | 채팅 관리 |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 헝가리어 | 채팅 관리 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 |  |
@@ -45,6 +51,7 @@ no_native_review: true
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 프랑스어 | 채팅 관리 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 매핑/모딩 커뮤니티 관리 |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/4598899) | 인도네시아어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 프랑스어, 스페인어 | 채팅 관리 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 말레이어, 일부 중국어 | 매핑/모딩 커뮤니티 관리 |
@@ -56,6 +63,7 @@ no_native_review: true
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | 핀란드어 | 채팅 관리 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 포르투갈어, 스페인어 | 채팅 관리, 토너먼트 관리 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 독일어 | 매핑/모딩 커뮤니티 관리 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 광둥어, 중국어 |  |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | 포르투갈어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 개발 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 베트남어 | 채팅 관리 |
@@ -63,6 +71,7 @@ no_native_review: true
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스어 | 채팅 관리 |
+| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 포르투갈어, 스페인어 | 채팅 관리 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 독일어, 세르비아어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 필리핀어 | 채팅 관리 |
@@ -119,7 +128,7 @@ no_native_review: true
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |

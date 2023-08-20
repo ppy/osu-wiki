@@ -105,15 +105,15 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가위원 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가위원 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가위원 |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 네덜란드어 | 평가위원 |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 네덜란드어 | 평가위원 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 중국어 | 평가위원 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 평가위원 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | 평가위원 |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | 평가위원 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 중국어 | 평가위원 |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 평가위원 |
@@ -124,6 +124,7 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가위원 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가위원 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 리더 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가위원 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |

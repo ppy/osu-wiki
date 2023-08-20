@@ -85,13 +85,13 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 - Ważne:
   - Używaj sporadycznie. Nadużycie tego znacznika może utrudnić czytanie i powodować dyskomfort dla oczu.
   - Jeżeli wybierzesz już jakiś kolor, upewnij się, że nie zlewa się on z tłem.
-  - Atrybut `HEXCODE` nie może znajdować się w cudzysłowach.
+  - Atrybut `#HEXCODE` nie może znajdować się w cudzysłowach.
 - Składnia:
-  - `HEXCODE` to kolor w systemie szesnastkowym bądź nazwa koloru.
+  - `#HEXCODE` to kolor w systemie szesnastkowym bądź nazwa koloru.
     - Określając w systemie szesnastkowym, kolor składa się z sześciu znaków (0 - 9, A - F) poprzedzonych znakiem `#`.
     - Określając słownie, nazwa koloru musi być rozpoznawana w języku HTML.
   ```
-  [color=HEXCODE] ... [/color]
+  [color=#HEXCODE] ... [/color]
   ```
 
 Sprawdź [listę kolorów HTML](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart), aby dowiedzieć się więcej.

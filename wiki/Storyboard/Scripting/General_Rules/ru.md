@@ -1,3 +1,10 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
+<!--There is the example image showing a storyboard file missing. To update this article, please check also if there are other things missing besides the changes on the wiki status page.-->
+
 # Storyboard Scripting General Rules
 
 Эта страница и остальные части справки описывают код скрипта, расположенный в секции \[Events\]. Если скрипт вписан в файл с расширением .osb, он будет работать во всех сложностях; если в файл .osu, то только для данной сложности.

@@ -4,7 +4,13 @@ outdated_translation: true
 
 # Colaboradores da Comunidade
 
-![](/wiki/shared/contributor.jpg "Contributor badge")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 Os **Colaboradores da Comunidade** são pessoas que assumiram a providenciar serviços a comunidade do osu! a um grande custo a si mesmos - ferramentas e funcionalidades que muitos de nós se dão como garantido hoje em dia. Esses usuários são dados uma insígnia para simbolizar que fizeram algo notável para toda a comunidade.
 
