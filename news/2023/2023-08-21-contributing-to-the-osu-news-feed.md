@@ -10,7 +10,7 @@ Looking for news? We're looking too!
 
 Let's talk about the thing you're reading this very moment. If you're new to the game, welcome! These are semiregular posts highlighting news about osu!, including updates, events, contests, showcases and more.
 
-They are written mostly by members of the [osu! team](/wiki/People/osu!_team), but you may have noticed a sizeable portion authored by none other than people like you. Let's have a look:
+They are written mostly by members of the [osu! team](/wiki/People/osu!_team), but you may have noticed a sizeable portion authored by none other than people like you:
 
 ![](/wiki/shared/news/2023-08-21-contributing-to-the-osu-news-feed/news-post-distribution-over-time.png)
 
@@ -33,9 +33,9 @@ In theory, anything could go in that box, but let's outline a few potential cand
 - People to interview (other than peppy)
 - A piece of osu! history
 - Topics to spark community-wide discussion around
-- Anything of general community interest or niche but interesting
+- Anything niche but interesting or of general community interest
 
-Of course, you can also get in touch directly via Discord.
+Of course, you may also get in touch directly via Discord.
 
 ## Writing for the front page
 
@@ -47,9 +47,9 @@ The only prerequisite is that you should be comfortable with constructive critic
 
 ## Tournaments
 
-Tournaments are of specific interest with regards to news coverage, which has been lacking in terms of making people aware of not only their on-goings, but also their conclusions.
+Tournaments are of specific interest regarding news coverage, which has been lacking in terms of making people aware of not only their on-goings, but also their conclusions.
 
-Tournament hosts wishing to advertise on the front page should email the [tournament committee](/wiki/People/Tournament_Committee) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), who will review its suitability for the front page along with the news team.
+Tournament hosts wishing to advertise on the front page should email the [tournament committee](/wiki/People/Tournament_Committee) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), who will review its suitability for the front page along with the news team. The specific requirements are still being worked on, but will be published on [this wiki page](/wiki/Tournaments/Official_support). (Bookmark [this forum post](https://osu.ppy.sh/community/forums/topics/1715676) for updates on that.)
 
 If you're not a host but know of a tournament that you think should be featured, the [suggestion box](https://docs.google.com/forms/d/e/1FAIpQLSeuv9heFjBX_NPDzpMvV2ORaNllHtzWKRDmk5IqSMEWvc-SNw/viewform) mentioned above is the place to send it.
 
