@@ -106,43 +106,43 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 
 | User | Modes | Ranked beatmaps | Ranked difficulties |
 | :-- | :-- | :-- | :-- |
-| [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 12 | 48 |
-| [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 7 | 43 |
-| [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 9 | 40 |
-| [KyeX](https://osu.ppy.sh/users/15118934) | osu!taiko | 5 | 27 |
-| [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!mania, osu!, osu!taiko | 7 | 25 |
-| [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch | 5 | 24 |
-| [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 5 | 23 |
-| [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 9 | 23 |
-| [Deif](https://osu.ppy.sh/users/318565) | osu!catch | 5 | 20 |
-| [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko | 4 | 17 |
-| [Verti](https://osu.ppy.sh/users/10674528) | osu!catch | 3 | 16 |
-| [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko | 4 | 16 |
-| [Ayesha Altugle](https://osu.ppy.sh/users/1125647) | osu! | 2 | 15 |
-| [AJT](https://osu.ppy.sh/users/3181083) | osu! | 5 | 15 |
-| [Garden](https://osu.ppy.sh/users/2849992) | osu! | 3 | 14 |
-| [allein](https://osu.ppy.sh/users/6221637) | osu! | 4 | 14 |
-| [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko | 3 | 14 |
-| [Kukkai](https://osu.ppy.sh/users/7811952) | osu!catch | 2 | 14 |
-| [PandaHero](https://osu.ppy.sh/users/1233255) | osu! | 4 | 13 |
-| [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!catch, osu!taiko | 3 | 13 |
-| [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko | 3 | 13 |
-| [Boaz](https://osu.ppy.sh/users/13302996) | osu!taiko | 5 | 13 |
-| [Alchyr](https://osu.ppy.sh/users/4993032) | osu!taiko | 5 | 12 |
-| [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch | 3 | 12 |
-| [frozz](https://osu.ppy.sh/users/7891266) | osu! | 2 | 12 |
-| [Down](https://osu.ppy.sh/users/4694602) | osu! | 3 | 12 |
-| [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko | 1 | 12 |
-| [M a r v o l l o](https://osu.ppy.sh/users/5504231) | Storyboarder, osu! | 2 | 11 |
-| [Nytrocide_](https://osu.ppy.sh/users/11327918) | osu! | 3 | 11 |
-| [eiri-](https://osu.ppy.sh/users/3388410) | osu!taiko | 2 | 10 |
-| [Daycore](https://osu.ppy.sh/users/5596337) | osu! | 3 | 10 |
-| [DeviousPanda](https://osu.ppy.sh/users/4966334) | osu! | 2 | 10 |
-| [Eyenine](https://osu.ppy.sh/users/1259391) | osu!taiko | 2 | 10 |
-| [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko | 4 | 10 |
-| [-NoName-](https://osu.ppy.sh/users/10400730) | osu!mania | 2 | 10 |
-| [BlackBN](https://osu.ppy.sh/users/6291741) | osu!catch, osu!taiko | 2 | 10 |
-| [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu! | 6 | 6 |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 12 | 48 |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 7 | 43 |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 9 | 40 |
+| ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | osu!taiko | 5 | 27 |
+| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!mania, osu!, osu!taiko | 7 | 25 |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch | 5 | 24 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 5 | 23 |
+| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 9 | 23 |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch | 5 | 20 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko | 4 | 17 |
+| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | osu!catch | 3 | 16 |
+| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko | 4 | 16 |
+| ::{ flag=PH }:: [Ayesha Altugle](https://osu.ppy.sh/users/1125647) | osu! | 2 | 15 |
+| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | osu! | 5 | 15 |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | osu! | 3 | 14 |
+| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | osu! | 4 | 14 |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko | 3 | 14 |
+| ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | osu!catch | 2 | 14 |
+| ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255) | osu! | 4 | 13 |
+| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!catch, osu!taiko | 3 | 13 |
+| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko | 3 | 13 |
+| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | osu!taiko | 5 | 13 |
+| ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | osu!taiko | 5 | 12 |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch | 3 | 12 |
+| ::{ flag=ID }:: [frozz](https://osu.ppy.sh/users/7891266) | osu! | 2 | 12 |
+| ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | osu! | 3 | 12 |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko | 1 | 12 |
+| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | Storyboarder, osu! | 2 | 11 |
+| ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918) | osu! | 3 | 11 |
+| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | osu!taiko | 2 | 10 |
+| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! | 3 | 10 |
+| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | osu! | 2 | 10 |
+| ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) | osu!taiko | 2 | 10 |
+| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko | 4 | 10 |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | osu!mania | 2 | 10 |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!catch, osu!taiko | 2 | 10 |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu! | 6 | 6 |
 
 While these folks may be in the spotlight, there's a lot of other people in the **Mappers' Guild** who contribute too. If you're one of them, thanks for the help!
 
