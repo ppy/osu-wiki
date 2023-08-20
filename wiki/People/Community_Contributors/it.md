@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
----
-
 # Collaboratori della Comunità
 
 ::: Infobox
@@ -17,11 +12,15 @@ I **Collaboratori della Comunità** sono le persone che hanno preso l'iniziativa
 
 Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della Comunità é dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della comunità.
 
+I collaboratori che hanno registrato il loro account in un'epoca precedente del gioco hanno il [design originale del badge](#storia) sul loro profilo, mentre i collaboratori più recenti ricevono una variante più colorata.
+
 Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
-## 2013
+## Elenco
 
-### Agosto
+### 2013
+
+#### Agosto
 
 *Per il thread sul forum, vedi: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
@@ -43,9 +42,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | E' stato il primo gestore dello staff e gestore dei BAT e ha creato un team di moderazione beatmap d'elite dal nulla. |
 
-## 2015
+### 2015
 
-## Marzo
+#### Marzo
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -53,9 +52,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Straordinario Contributo alla osu! wiki. |
 | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Ha sviluppato osu!Rank e osu!Post |
 
-## 2016
+### 2016
 
-## Gennaio
+#### Gennaio
 
 *Per il post, vedi: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
@@ -70,7 +69,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=PL }:: [Hatsu](https://osu.ppy.sh/users/322480) | Mikuia.tv - sviluppo di bot per twitch |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Sviluppo del bot che consiglia beatmap |
 
-### Marzo
+#### Marzo
 
 *Per il post, vedi: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
@@ -78,7 +77,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | :-- | :-- |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Anni di sostegno e miglioramento della qualità del mapping, fornendo assistenza in molte occasioni per aiutare a risolvere vari problemi della comunità. |
 
-### Novembre
+#### Novembre
 
 *Per il post, vedi: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
@@ -94,9 +93,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Contributo eccezionale alla comunità |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Contributo eccezionale nella moderazione, organizzazione e la gestione della comunità |
 
-## 2017
+### 2017
 
-### Dicembre
+#### Dicembre
 
 *Per il post, vedi: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
@@ -123,9 +122,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sforzi eccezionali nel mandare avanti il progetto osu! wiki con molte revisioni, rielaborazioni e revisioni |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | Caposaldo del progetto osu! wiki ed eccezionali contributi nel corso gli anni |
 
-## 2019
+### 2019
 
-### Febbraio
+#### Febbraio
 
 *Per il post, vedi: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
@@ -155,9 +154,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Eccezionali contributi al Programma Community Mentorship |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Eccezionali contributi al progetto osu!(lazer) |
 
-## 2020
+### 2020
 
-### Febbraio
+#### Febbraio
 
 *Per il post, vedi: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
@@ -185,9 +184,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Eccezionali contributi alla Mappers' Guild e Beatmap Nominators |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Eccezionali contributi ai progetti open source di osu! |
 
-## 2021
+### 2021
 
-### Marzo
+#### Marzo
 
 *Per il post, vedi: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
@@ -201,9 +200,9 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Eccezionali contributi al mantenimento e lo sviluppo dei punteggi |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Eccezionali contributi ai World Cup e alla scena torneistica della comunità |
 
-## 2022
+### 2022
 
-### Giugno
+#### Giugno
 
 *Per il post, vedi: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
@@ -224,3 +223,17 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Eccezionali contributi alla scena torneistica di osu! e ai World Cup |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Eccezionali contributi alla scena torneistica di osu! e ai World Cup |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Eccezionali contributi a eventi dal vivo di osu! e alla scena torneistica |
+
+## Storia
+
+A febbraio 2018, il vecchio badge del collaboratore di ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) è stato ridisegnato da ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) perché non si adattava allo schema di colori del nuovo sito web.[^redesign-reasons]
+
+![Confronto della prima modifica](img/design-change-1.png)
+
+A causa di una mancanza di "anima",[^redesign-reasons] il design fu cambiato di nuovo il 21 luglio 2023. Questa volta il design iniziale è stato aggiornato da ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) e diviso in due versioni, in cui i collaboratori più anziani (con un ID utente inferiore a 4.000.000) sono tornati all'originale, mentre quelli più recenti hanno ricevuto una variante più colorata.
+
+![Confronto della seconda modifica](img/design-change-2.png)
+
+## Riferimenti
+
+[^redesign-reasons]: [Messaggi su Discord di Walavouchey e RBRat3 (2023-08-12) in #osu-wiki in osu!](https://discord.com/channels/188630481301012481/218677502141399041/1139836832381673524)
