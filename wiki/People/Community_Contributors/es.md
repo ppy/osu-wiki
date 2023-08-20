@@ -14,6 +14,8 @@ No debe confundirse con [osu! Alumni](/wiki/People/osu!_Alumni), que son antiguo
 
 Los contribuidores que registraron sus cuentas durante una era anterior del juego tienen el [diseño de insignia original](#historia) en su perfil, mientras que los contribuidores más nuevos reciben una variante más colorida.
 
+## Listado
+
 ### 2013
 
 #### Agosto
