@@ -222,7 +222,6 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Excelente contribución a la escena de torneos y eventos IRL de osu! |
 
-
 ## Historia
 
 Durante febrero de 2018, la antigua insignia de contribuidor de ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) fue rediseñada por flyte ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) debido a que no coincidía con el esquema de colores del nuevo sitio web.[^redesign-reasons]
