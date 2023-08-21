@@ -38,7 +38,7 @@ Die Befüllung wird dem Spieler mit dem Ready-Sound (`readysound.wav`) signalisi
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size), die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate), die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) und die [HP-Drain](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate) um die Hälfte.
+In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/wiki/Beatmap/Circle_size), die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate), die [allgemeine Schwierigkeit (OD)](/wiki/Beatmap/Overall_difficulty) und die [HP-Drain (HP)](/wiki/Beatmap/HP_drain_rate) um die Hälfte.
 
 ![EZ Gameplay in osu!](img/EZ-comparison-osu.jpg "Vergleich in osu! zwischen einem regulären Spiel (links) und einem Spiel, bei dem die Mod Easy aktiviert ist (rechts)")
 

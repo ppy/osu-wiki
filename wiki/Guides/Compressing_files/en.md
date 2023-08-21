@@ -143,7 +143,7 @@ ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
-- `-c:a libvorbis`: Specify that the audio should be encoded using the LAME MP3 encoder
+- `-c:a libvorbis`: Specify that the audio should be encoded using the libvorbis encoder
 - `-q:a 5`: Use the same variable bit rate range as in the Audacity example, **where a higher number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate
 - `-vn -sn`: Remove video and subtitles if present
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present

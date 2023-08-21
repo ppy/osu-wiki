@@ -66,12 +66,12 @@ Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "
 ### Farbe
 
 ```
-[color=HEXCODE]Text[/color]
+[color=#HEXCODE]Text[/color]
 ```
 
 *Für eine Liste aller Farbkodierungen, siehe [X11 Farbkodierung](https://de.abcdef.wiki/wiki/X11_color_names)*
 
-Das Tag `[color]` wird benutzt, um Text mit unterschiedlichen Webfarben zu gestalten. Es wird das [Hexadezimalsystem](https://de.wikipedia.org/wiki/Webfarbe#RGB-Farbraum) verwendet, um die Farbe zu spezifizieren. Die Farbe kann aber auch durch HTML-Farbnamen, wie z. B. "red" oder "green" notiert werden. Um dem Text eine Farbe zu geben, ersetze das Argument `HEXCODE` mit einem Hexadezimal- oder HTML-Farbcode.
+Das Tag `[color]` wird benutzt, um Text mit unterschiedlichen Webfarben zu gestalten. Es wird das [Hexadezimalsystem](https://de.wikipedia.org/wiki/Webfarbe#RGB-Farbraum) verwendet, um die Farbe zu spezifizieren. Die Farbe kann aber auch durch HTML-Farbnamen, wie z. B. "red" oder "green" notiert werden. Um dem Text eine Farbe zu geben, ersetze das Argument `#HEXCODE` mit einem Hexadezimal- oder HTML-Farbcode.
 
 Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und hat keinen Standardwert. Wenn kein Wert festgelegt wurde oder wenn Anführungszeichen benutzt werden, dann wird das Tag nicht als BBCode-Tag verarbeitet.
 
