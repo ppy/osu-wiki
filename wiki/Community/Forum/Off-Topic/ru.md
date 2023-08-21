@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
----
-
 # Оффтоп
 
 [**Off-Topic**](https://osu.ppy.sh/community/forums/52) (оффтоп, сокращенно ***OT***) — это форум, не имеющий конкретной тематики. Треды в нём могут как менять тему, так и включать несколько тем одновременно. Темы обсуждения могут быть самыми разными: повседневная жизнь, мнения об игре, ролевые игры, шутки и мета-контент, бессмыслица — в общем, всё что угодно.
@@ -79,10 +74,10 @@ Tad the Tadpole (*Головастик Тед*) - это шуточный тре
 
 ## Примечания
 
-[^ot-suggestion]: [Separate sub-forum for self perpetuating threads?](https://osu.ppy.sh/community/forums/posts/80316)
-[^ot-announcement]: [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/topics/10180)
-[^ot-old-name]: [Mis-quote The Person Above You](https://osu.ppy.sh/community/forums/posts/132900)
-[^ot-derailing-games]: [Last person to see the 20 USD via Paypal thread](https://osu.ppy.sh/community/forums/posts/313614)
-[^ot-rename]: [a](https://osu.ppy.sh/community/forums/posts/316732)
-[^ot-dancing-girls]: [OT's Oldest Mystery: Dancing Anime Girls](https://osu.ppy.sh/community/forums/topics/1525770)
-[^ot-rules-official]: [Aug 17 2022 capture of osu!'s official rules](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+[^ot-suggestion]: [Пост от lukewarmholiday в теме «Separate sub-forum for self perpetuating threads?», 30.01.2009](https://osu.ppy.sh/community/forums/posts/80316)
+[^ot-announcement]: [«Forum Games moved to new forum», тема от peppy, 20.02.2009](https://osu.ppy.sh/community/forums/topics/10180)
+[^ot-old-name]: [Пост от kuwarudo в теме «Mis-quote The Person Above You», 31.05.2009](https://osu.ppy.sh/community/forums/posts/132900)
+[^ot-derailing-games]: [Пост от Powerdrone в теме «Last person to see the 20 USD via Paypal thread», 03.02.2010](https://osu.ppy.sh/community/forums/posts/313614)
+[^ot-rename]: [Пост от Derekku в теме «a», 06.02.2010](https://osu.ppy.sh/community/forums/posts/316732)
+[^ot-dancing-girls]: [«OT's Oldest Mystery: Dancing Anime Girls», тема от abraker, 20.02.2022](https://osu.ppy.sh/community/forums/topics/1525770)
+[^ot-rules-official]: [«Rules — osu! wiki», Wayback Machine, 17.08.2017](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)

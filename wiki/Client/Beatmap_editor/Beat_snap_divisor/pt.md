@@ -10,7 +10,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 ### Divisor 1/1
 
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
+![Divisor 1/1](img/1_1_snap_divisor.jpg "Divisor 1/1")
 
 - {Nome}
 - Apenas ticks brancos
@@ -18,14 +18,14 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 ### Divisor 1/2
 
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
+![Divisor 1/2](img/1_2_snap_divisor.jpg "Divisor 1/2")
 
 - {Nome}
 - Adicionado ticks vermelhos
 
 ### Divisor 1/3
 
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
+![Divisor 1/3](img/1_3_snap_divisor.jpg "Divisor 1/3")
 
 - {Nome}
 - dois ticks roxos entre dois ticks brancos
@@ -33,7 +33,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 ### Divisor 1/4
 
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
+![Divisor 1/4](img/1_4_snap_divisor.jpg "Divisor 1/4")
 
 - {Nome}
 - adicionados ticks azuis além dos ticks vermelhos
@@ -41,7 +41,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 ### Divisor 1/6
 
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
+![Divisor 1/6](img/1_6_snap_divisor.jpg "Divisor 1/6")
 
 - {Nome}
 - dois ticks roxos ao redor do tick vermelhos
@@ -49,7 +49,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 ### Divisor 1/8
 
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
+![Divisor 1/8](img/1_8_snap_divisor.jpg "Divisor 1/8")
 
 - {Nome}
 - Adicionado ticks amarelos além dos ticks azuis e vermelhos

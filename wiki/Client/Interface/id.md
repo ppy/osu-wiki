@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
+---
+
 # Tampilan antarmuka
 
 Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan antarmuka klien permainan osu! dan berbagai fiturnya, mulai dari layar pemilihan lagu, tampilan peringkat, hingga layar hasil permainan. Pada saat osu! pertama kali terbuka, kamu akan disambut dengan layar berikut:

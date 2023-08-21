@@ -173,6 +173,8 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 
 ## Elite Nominators
 
+*Main page: [Elite Nominators](/wiki/People/Elite_Nominators)*
+
 Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)

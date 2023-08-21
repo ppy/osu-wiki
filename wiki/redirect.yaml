@@ -1,17 +1,17 @@
-"asc":                           "Article_Styling_Criteria"
-"asg":                           "Article_Styling_Criteria"
-"asc/images":                    "Article_Styling_Criteria#images"
-"asg/images":                    "Article_Styling_Criteria#images"
-"wiki_styling_criteria":         "Article_Styling_Criteria"
-"wsc":                           "Article_Styling_Criteria"
+"asc":                           "Article_styling_criteria"
+"asg":                           "Article_styling_criteria"
+"asc/images":                    "Article_styling_criteria#images"
+"asg/images":                    "Article_styling_criteria#images"
+"wiki_styling_criteria":         "Article_styling_criteria"
+"wsc":                           "Article_styling_criteria"
 
-"beatmap_discussions":         "Beatmap_Discussion"
-"modding_discussion":          "Beatmap_Discussion"
-"modding_discussions":         "Beatmap_Discussion"
-"modding_v2":                  "Beatmap_Discussion"
-"modding/v2":                  "Beatmap_Discussion"
-"moddingv2":                   "Beatmap_Discussion"
-"mv2":                         "Beatmap_Discussion"
+"beatmap_discussions":         "Beatmap_discussion"
+"modding_discussion":          "Beatmap_discussion"
+"modding_discussions":         "Beatmap_discussion"
+"modding_v2":                  "Beatmap_discussion"
+"modding/v2":                  "Beatmap_discussion"
+"moddingv2":                   "Beatmap_discussion"
+"mv2":                         "Beatmap_discussion"
 
 "modding_v1":                  "Modding/Forum_modding"
 "modding/v1":                  "Modding/Forum_modding"
@@ -79,13 +79,13 @@
 "difficulties":                      "Beatmap/Difficulty"
 
 "community_mentorship_program": "Community/Community_Mentorship_Program"
-"AW":                           "Community/Forum/Abandoned_Wasteland"
+"aw":                           "Community/Forum/Abandoned_Wasteland"
 "abandoned_wasteland":          "Community/Forum/Abandoned_Wasteland"
 "forum":                        "Community/Forum"
 "forums":                       "Community/Forum"
 "modding_queue":                "Community/Forum/Modding_Queues"
 "modding_queues":               "Community/Forum/Modding_Queues"
-"OT":                           "Community/Forum/Off-Topic"
+"ot":                           "Community/Forum/Off-Topic"
 "off-topic":                    "Community/Forum/Off-Topic"
 "offtopic":                     "Community/Forum/Off-Topic"
 "osu!_community_meetings":      "Community/osu!_community_meetings"
@@ -249,8 +249,8 @@
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
 "peppy":                       "People/peppy"
-"restricted_mode":             "Help_Centre/Account_Restrictions"
-"restricted":                  "Help_Centre/Account_Restrictions"
+"restricted_mode":             "Help_centre/Account_restrictions"
+"restricted":                  "Help_centre/Account_restrictions"
 "sample_set":                  "Beatmapping/Sampleset"
 "skins":                       "Skin"
 "skinner":                     "Skinning/Skinner"
@@ -278,7 +278,7 @@
 "touchscreen":                 "Gameplay/Input_device/Graphics_tablet"
 "touhosu!":                    "History_of_osu!/April_Fools#touhosu!"
 "touhousu!":                   "History_of_osu!/April_Fools#touhosu!"
-"Glossary/Touhosu!":           "History_of_osu!/April_Fools#touhosu!"
+"glossary/touhosu!":           "History_of_osu!/April_Fools#touhosu!"
 "wip":                         "Beatmap/Category#work-in-progress-and-pending"
 "work_in_progress":            "Beatmap/Category#work-in-progress-and-pending"
 
@@ -288,10 +288,10 @@
 "bss_issues":                             "Guides/BSS_issues"
 "beatmap_submission_system_issues":       "Guides/BSS_issues"
 "changing_the_artist_or_title":           "Guides/Changing_the_artist_or_title"
-"guides/collab_information":              "Beatmap/Beatmap_collaboration"
-"collab_information":                     "Beatmap/Beatmap_collaboration"
-"collab_info":                            "Beatmap/Beatmap_collaboration"
-"compressing_files":                      "Guides/Compressing_Files"
+"guides/collab_information":              "Beatmap/Beatmap_collaborations"
+"collab_information":                     "Beatmap/Beatmap_collaborations"
+"collab_info":                            "Beatmap/Beatmap_collaborations"
+"compressing_files":                      "Guides/Compressing_files"
 "cropping_with_complex_backgrounds":      "Guides/Cropping_with_complex_backgrounds"
 "cropping_with_simple_backgrounds":       "Guides/Cropping_with_simple_backgrounds"
 "custom_hit_sound_library":               "Guides/Custom_hitsound_library"
@@ -313,25 +313,24 @@
 "livestreaming_osu!":                     "Guides/Livestreaming_osu!"
 "live_streaming":                         "Guides/Livestreaming_osu!"
 "livestreaming":                          "Guides/Livestreaming_osu!"
-"making_properly_centered_spinners":      "Guides/Making_Properly_Centered_Spinners"
-"make_properly_centered_spinners":        "Guides/Making_Properly_Centered_Spinners"
+"making_properly_centered_spinners":      "Guides/Making_properly_centred_spinners"
+"make_properly_centered_spinners":        "Guides/Making_properly_centred_spinners"
 "osu!mania_mapping_guide":                "Guides/osu!mania_mapping_guide"
 "recording_osu!":                         "Guides/Recording_osu!"
-"searching_and_downloading_beatmaps":     "Guides/Searching_and_downloading_beatmaps"
 "setting_the_offset_on_the_correct_beat": "Guides/Setting_the_offset_on_the_correct_beat"
 "starting_a_beatmap_project":             "Guides/Starting_a_beatmap_project"
 "tablet_purchase":                        "Guides/Tablet_purchase"
 "buying_a_tablet":                        "Guides/Tablet_purchase"
 "videos_from_youtube":                    "Guides/Videos_from_YouTube"
 
-"guides/changing_the_title_text":         "Beatmap/Title_Text#changing-title-text"
-"changing_the_title_text":                "Beatmap/Title_Text#changing-title-text"
+"guides/changing_the_title_text":         "Beatmap/Title_text#changing-title-text"
+"changing_the_title_text":                "Beatmap/Title_text#changing-title-text"
 
 # Moved in #6790 due to #6198
 "ranking_criteria/timing_songs_with_8-signatures": "Guides/Timing_songs_with_8-signatures"
 
-"help_center":                 "Help_Centre"
-"help":                        "Help_Centre"
+"help_center":                 "Help_centre"
+"help":                        "Help_centre"
 
 "hoo":                          "History_of_osu!"
 "hoo/1":                        "History_of_osu!/2007"
@@ -381,10 +380,10 @@
 "legal/music_licencing":       "Legal/Music_licensing"
 
 "mascot":                      "Mascots"
-"pippi":                       "Mascots#-pippi"
-"yuzu":                        "Mascots#-yuzu"
-"maria":                       "Mascots#-maria"
-"mocha":                       "Mascots#-mocha"
+"pippi":                       "Mascots#pippi"
+"yuzu":                        "Mascots#yuzu"
+"maria":                       "Mascots#maria"
+"mocha":                       "Mascots#mocha"
 "ryūta_ippongi":               "Mascots#ryūta-ippongi"
 "ryūta":                       "Mascots#ryūta-ippongi"
 "ryuuta":                      "Mascots#ryūta-ippongi"
@@ -398,15 +397,15 @@
 "pyun":                        "Mascots#pyun"
 "mascot/gallery":              "Mascots/Gallery"
 
-"nsc":      "News_Styling_Criteria"
-"asc/news": "News_Styling_Criteria"
-"asg/news": "News_Styling_Criteria"
+"nsc":      "News_styling_criteria"
+"asc/news": "News_styling_criteria"
+"asg/news": "News_styling_criteria"
 
 "medal":                           "Medals"
 "achievements":                    "Medals"
 "achievement":                     "Medals"
-"achievements/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"
-"beatmap_packs_0916":              "Medals/Legacy_Beatmap_Packs"
+"achievements/beatmap_packs_0916": "Medals/Legacy_beatmap_packs"
+"beatmap_packs_0916":              "Medals/Legacy_beatmap_packs"
 
 "modded":                      "Modding"
 
@@ -417,10 +416,10 @@
 
 "replay":                      "Gameplay/Replay"
 
-"keyboard_bindings":           "Client/Options/Keyboard_Bindings"
-"keyboard_binding":            "Client/Options/Keyboard_Bindings"
-"key_bindings":                "Client/Options/Keyboard_Bindings"
-"key_binding":                 "Client/Options/Keyboard_Bindings"
+"keyboard_bindings":           "Client/Options/Keyboard_bindings"
+"keyboard_binding":            "Client/Options/Keyboard_bindings"
+"key_bindings":                "Client/Options/Keyboard_bindings"
+"key_binding":                 "Client/Options/Keyboard_bindings"
 "offset_wizard":               "Client/Options/Offset_Wizard"
 
 "osu!_file_format":                    "Client/File_formats"
@@ -476,7 +475,7 @@
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
 "owcg":                                             "osu!_wiki/Contribution_guide"
-"osu!_wiki/Contribution_guide/Common_Issues":       "osu!_wiki/Contribution_guide/Best_practices"
+"osu!_wiki/contribution_guide/common_issues":       "osu!_wiki/Contribution_guide/Best_practices"
 "osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Best_practices"
 "owcg/common_issues":                               "osu!_wiki/Contribution_guide/Best_practices"
 "github.dev":                                       "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
@@ -486,10 +485,10 @@
 "owcg/github_desktop":                              "osu!_wiki/Contribution_guide/GitHub_Desktop"
 
 # moved in #6138
-"osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
-"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Best_practices"
-"osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
-"osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
+"osu!_wiki_contribution_guide":                       "osu!_wiki/Contribution_guide"
+"osu!_wiki_contribution_guide/common_issues":         "osu!_wiki/Contribution_guide/Best_practices"
+"osu!_wiki_contribution_guide/github_desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
+"osu!_wiki_contribution_guide/github_web_interface":  "osu!_wiki/Contribution_guide/GitHub_web-based_editor"
 
 "people/beatmap_nominator":              "People/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/Beatmap_Nominators"
@@ -580,7 +579,6 @@
 
 "quality_assurance_team":          "People/Quality_Assurance_Team"
 "qat":                             "People/Quality_Assurance_Team"
-"people/quality_assurance_team":   "People/Quality_Assurance_Team"
 "people/qat":                      "People/Quality_Assurance_Team"
 "qat_blog":                           "People/Quality_Assurance_Team/Quality_Assurance_Team_Blog"
 "people/quality_assurance_team/blog": "People/Quality_Assurance_Team/Quality_Assurance_Team_Blog"
@@ -597,13 +595,13 @@
 "st":                              "People/Support_Team"
 "str":                             "People/Support_Team"
 
-"osu!_staff": "People/The_Team"
-"osu!team":   "People/The_Team"
-"osu!_team":  "People/The_Team"
-"staff":      "People/The_Team"
-"team":       "People/The_Team"
-"team_osu!":  "People/The_Team"
-"the_team":   "People/The_Team"
+"osu!_staff": "People/osu!_team"
+"osu!team":   "People/osu!_team"
+"osu!_team":  "People/osu!_team"
+"staff":      "People/osu!_team"
+"team":       "People/osu!_team"
+"team_osu!":  "People/osu!_team"
+"the_team":   "People/osu!_team"
 
 "dev":       "People/Developers"
 "devs":      "People/Developers"
@@ -612,9 +610,9 @@
 "osu!_dev":  "People/Developers"
 "osu!_devs": "People/Developers"
 
-"pp":                          "Performance_Points"
-"ppv1":                        "Performance_Points/ppv1"
-"ppv2":                        "Performance_Points/ppv2"
+"pp":                          "Performance_points"
+"ppv1":                        "Performance_points/ppv1"
+"ppv2":                        "Performance_points/ppv2"
 
 "game_modes/external_ports": "Community/Projects"
 "external_ports": "Community/Projects"
@@ -705,19 +703,19 @@
 "sign_up":                     "Registration"
 "signing_up":                  "Registration"
 
-"reporting_bad_behavior":                     "Reporting_Bad_Behaviour"
-"bad_behaviour":                              "Reporting_Bad_Behaviour"
-"report":                                     "Reporting_Bad_Behaviour"
-"reporting":                                  "Reporting_Bad_Behaviour"
-"abuse":                                      "Reporting_Bad_Behaviour/Abuse"
-"reporting_abuse":                            "Reporting_Bad_Behaviour/Abuse"
-"report_abuse":                               "Reporting_Bad_Behaviour/Abuse"
-"handling_foul_play":                         "Reporting_Bad_Behaviour/Handling_Foul_Play"
-"foul_play":                                  "Reporting_Bad_Behaviour/Handling_Foul_Play"
-"handling_cheating":                          "Reporting_Bad_Behaviour/Handling_Foul_Play"
-"handling_cheaters":                          "Reporting_Bad_Behaviour/Handling_Foul_Play"
-"cheating":                                   "Reporting_Bad_Behaviour/Handling_Foul_Play"
-"cheaters":                                   "Reporting_Bad_Behaviour/Handling_Foul_Play"
+"reporting_bad_behavior":                     "Reporting_bad_behaviour"
+"bad_behaviour":                              "Reporting_bad_behaviour"
+"report":                                     "Reporting_bad_behaviour"
+"reporting":                                  "Reporting_bad_behaviour"
+"abuse":                                      "Reporting_bad_behaviour/Abuse"
+"reporting_abuse":                            "Reporting_bad_behaviour/Abuse"
+"report_abuse":                               "Reporting_bad_behaviour/Abuse"
+"handling_foul_play":                         "Reporting_bad_behaviour/Handling_foul_play"
+"foul_play":                                  "Reporting_bad_behaviour/Handling_foul_play"
+"handling_cheating":                          "Reporting_bad_behaviour/Handling_foul_play"
+"handling_cheaters":                          "Reporting_bad_behaviour/Handling_foul_play"
+"cheating":                                   "Reporting_bad_behaviour/Handling_foul_play"
+"cheaters":                                   "Reporting_bad_behaviour/Handling_foul_play"
 
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
@@ -910,15 +908,16 @@
 
 "brp": "Beatmap_ranking_procedure"
 
-"tournament_drawing":          "Tournament_Drawings"
+"tournament_drawing":          "Tournament_drawings"
 
-"tmc":                            "Tournament_Management_Commands"
+"tmc":                            "osu!_tournament_client/osu!tourney/Tournament_management_commands"
+"tournament_management_commands": "osu!_tournament_client/osu!tourney/Tournament_management_commands"
 
 "tournament_support":          "Tournaments/Official_support"
 "tournaments_support":         "Tournaments/Official_support"
 "cpot": "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
-"owc":                         "Tournaments#-osu!-world-cup"
+"owc":                         "Tournaments#osu!-world-cup"
 "owc1":                        "Tournaments/OWC/1"
 "owc_1":                       "Tournaments/OWC/1"
 "owc/1":                       "Tournaments/OWC/1"
@@ -947,7 +946,7 @@
 "owc_2018":                    "Tournaments/OWC/2018"
 "owc/2018":                    "Tournaments/OWC/2018"
 
-"twc":                         "Tournaments#-taiko-world-cup"
+"twc":                         "Tournaments#taiko-world-cup"
 "twc2011":                     "Tournaments/TWC/2011"
 "twc_2011":                    "Tournaments/TWC/2011"
 "twc/2011":                    "Tournaments/TWC/2011"
@@ -970,7 +969,7 @@
 "twc_2018":                    "Tournaments/TWC/2018"
 "twc/2018":                    "Tournaments/TWC/2018"
 
-"cwc":                         "Tournaments#-catch-the-beat-world-cup"
+"cwc":                         "Tournaments#catch-the-beat-world-cup"
 "cwc2014":                     "Tournaments/CWC/2014"
 "cwc_2014":                    "Tournaments/CWC/2014"
 "cwc/2014":                    "Tournaments/CWC/2014"
@@ -987,16 +986,16 @@
 "cwc_2018":                    "Tournaments/CWC/2018"
 "cwc/2018":                    "Tournaments/CWC/2018"
 
-"mwc":                         "Tournaments#-osu!mania-world-cup"
+"mwc":                         "Tournaments#osu!mania-world-cup"
 "mwc2014":                     "Tournaments/MWC/2014"
 "mwc_2014":                    "Tournaments/MWC/2014"
 "mwc/2014":                    "Tournaments/MWC/2014"
 "mwc2015":                     "Tournaments/MWC/2015"
 "mwc_2015":                    "Tournaments/MWC/2015"
 "mwc/2015":                    "Tournaments/MWC/2015"
-"mwc2016":                     "Tournaments#-osu!mania-world-cup"
-"mwc_2016":                    "Tournaments#-osu!mania-world-cup"
-"mwc/2016":                    "Tournaments#-osu!mania-world-cup"
+"mwc2016":                     "Tournaments#osu!mania-world-cup"
+"mwc_2016":                    "Tournaments#osu!mania-world-cup"
+"mwc/2016":                    "Tournaments#osu!mania-world-cup"
 "mwc4k2016":                   "Tournaments/MWC/2016_4K"
 "mwc_4k_2016":                 "Tournaments/MWC/2016_4K"
 "mwc/4k_2016":                 "Tournaments/MWC/2016_4K"
@@ -1031,19 +1030,19 @@
 "osu!_tag_team_multiplayer_tournament": "Tournaments/oTTMT"
 "ottmt":                                "Tournaments/oTTMT"
 
-"anzt":    "Tournaments#-aus/nz-osu!standard-tournament"
+"anzt":    "Tournaments#aus/nz-osu!standard-tournament"
 "anzt_5s": "Tournaments/ANZT/2018_Summer"
 "anzt/5s": "Tournaments/ANZT/2018_Summer"
 
-"ats":      "Tournaments#-asian-taiko-showdown"
-"ats_2018": "Tournaments/ATS/2018_Summer"
-"ats/2018": "Tournaments/ATS/2018_Summer"
+"ats":      "Tournaments#asian-oceanic-taiko-showdown"
+"ats_2018": "Tournaments/AOTS/ATS_2018"
+"ats/2018": "Tournaments/AOTS/ATS_2018"
 
-"cfc":      "Tournaments/CFC#-catch-french-cup"
+"cfc":      "Tournaments/CFC#catch-french-cup"
 "cfc_2018": "Tournaments/CFC/2018"
 "cfc/2018": "Tournaments/CFC/2018"
 
-"cmt_4k":      "Tournaments#-chinese-osu!mania-4k-tournament"
+"cmt_4k":      "Tournaments#chinese-osu!mania-4k-tournament"
 "cmt_4k_2017": "Tournaments/CMT_4K/2017"
 "cmt/4k_2017": "Tournaments/CMT_4K/2017"
 "cmt/4k/2017": "Tournaments/CMT_4K/2017"
@@ -1052,37 +1051,37 @@
 "cmt/4k_2018": "Tournaments/CMT_4K/2018"
 "cmt/4k/2018": "Tournaments/CMT_4K/2018"
 
-"ophst":      "Tournaments#-osu!philippines-summer-tournament"
+"ophst":      "Tournaments#osu!philippines-summer-tournament"
 "ophst2018":  "Tournaments/oPHST/2018"
 "ophst_2018": "Tournaments/oPHST/2018"
 "ophst/2018": "Tournaments/oPHST/2018"
 
-# "ozt":    "Tournaments#-osu!-z-tournament"
+# "ozt":    "Tournaments#osu!-z-tournament"
 "ozt_2018": "Tournaments/OZT/2018"
 "ozt/2018": "Tournaments/OZT/2018"
 
-"rmoti":   "Tournaments#-rapid-monthly-osu!-tournament-invitationals"
+"rmoti":   "Tournaments#rapid-monthly-osu!-tournament-invitationals"
 "rmoti2":  "Tournaments/RMoTI/2"
 "rmoti_2": "Tournaments/RMoTI/2"
 "rmoti/2": "Tournaments/RMoTI/2"
 
-"soft":   "Tournaments#-springtime-osu!mania-free-for-all-tournament"
+"soft":   "Tournaments#springtime-osu!mania-free-for-all-tournament"
 "soft3":  "Tournaments/SOFT/3"
 "soft_3": "Tournaments/SOFT/3"
 "soft/3": "Tournaments/SOFT/3"
 
-"sst":      "Tournaments#-ss-tournament"
+"sst":      "Tournaments#ss-tournament"
 "sst2018":  "Tournaments/SST/2018"
 "sst_2018": "Tournaments/SST/2018"
 "sst/2018": "Tournaments/SST/2018"
 
-"thom_cup":   "Tournaments#-the-heptakey-osu!mania-cup"
+"thom_cup":   "Tournaments#the-heptakey-osu!mania-cup"
 "thom_cup1":  "Tournaments/THOM_CUP/1"
 "thom_cup_1": "Tournaments/THOM_CUP/1"
 "thom_cup/1": "Tournaments/THOM_CUP/1"
 
-"cjb":         "Tournaments#-CJB-osu!mania-4K-Tournament"
-"cjb_4k":      "Tournaments#-CJB-osu!mania-4K-Tournament"
+"cjb":         "Tournaments#CJB-osu!mania-4K-Tournament"
+"cjb_4k":      "Tournaments#CJB-osu!mania-4K-Tournament"
 "cjb/2018":    "Tournaments/CJB_4K/2018"
 "cjb_2018":    "Tournaments/CJB_4K/2018"
 "cjb_4k/2018": "Tournaments/CJB_4K/2018"
@@ -1090,15 +1089,6 @@
 
 "visual_setting":              "Client/Interface/Visual_settings"
 "vs":                          "Client/Interface/Visual_settings"
-
-# TODO: These redirects block access to index pages. They can be brought back
-# after a change on osu-web allows for page subtitles to use redirects.
-# see https://github.com/ppy/osu-wiki/pull/1764#issuecomment-431350801
-#
-# "tournaments/owc": "Tournaments#-osu!-world-cup"
-# "tournaments/twc": "Tournaments#-taiko-world-cup"
-# "tournaments/cwc": "Tournaments#-catch-the-beat-world-cup"
-# "tournaments/mwc": "Tournaments#-osu!mania-world-cup"
 
 # Moved IGTS to GTS directory
 "tournaments/igts":      "Tournaments/GTS"
@@ -1109,20 +1099,6 @@
 "how_to_run_osu!_on_your_mac_without_using_boot_camp":        "Client/Installation/macOS"
 "guides/how_to_run_osu!_on_your_mac_without_using_boot_camp": "Client/Installation/macOS"
 
-# Reorganized People directory
-"people/beatmap_nominators":                              "People/Beatmap_Nominators"
-"people/beatmap_nominators/beatmap_veto":                 "People/Beatmap_Nominators/Beatmap_Veto"
-"people/beatmap_nominators/becoming_a_beatmap_nominator": "People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator"
-"people/beatmap_nominators/general_information":          "People/Beatmap_Nominators/General_Information"
-"people/beatmap_nominators/rules":                        "People/Beatmap_Nominators/Rules"
-"people/developers":                                      "People/Developers"
-"people/global_moderation_team":                          "People/Global_Moderation_Team"
-"people/language_moderators":                             "People/Global_Moderation_Team#grouped-by-languages-moderated"
-"people/nomination_assessment_team":                      "People/Nomination_Assessment_Team"
-"people/osu!_alumni":                                     "People/osu!_Alumni"
-"people/project_loved_team":                              "People/Project_Loved_Team"
-"people/support_team":                                    "People/Support_Team"
-
 # Moved parts of the Ranking Criteria to sitewide rules
 "ranking_criteria/code_of_conduct":               "Rules/Code_of_conduct_for_modding_and_mapping"
 "ranking_criteria/song_content_rules":            "Rules/Song_content_rules"
@@ -1130,6 +1106,7 @@
 
 # Moved Language Moderators to a section under Global Moderation Team
 "people/the_team/global_moderation_team/language_moderators": "People/Global_Moderation_Team#grouped-by-languages-moderated"
+"people/language_moderators":                                 "People/Global_Moderation_Team#grouped-by-languages-moderated"
 
 # Grouped osu! Riverside LAN tournaments
 "tournaments/male": "Tournaments/osu!_Riverside/MALE"
@@ -1396,19 +1373,19 @@
 
 
 # Moved "Beatmap_Packs_0916" to "Legacy_Beatmap_Packs"
-"medals/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"
+"medals/beatmap_packs_0916": "Medals/Legacy_beatmap_packs"
 # Moved "osu!tourney/Prizes" to "Tournaments/Official_support"
 "osu!tourney/prizes": "Tournaments/Official_support"
 
 # Moved "Guides/Making_Properly_Centered_Spinners" to "Guides/Making_properly_centred_spinners"
-"Guides/Making_Properly_Centered_Spinners" : "Guides/Making_properly_centred_spinners"
+"guides/making_properly_centered_spinners" : "Guides/Making_properly_centred_spinners"
 
 # new category created in #6627
 "game_client":                      "Client"
 "beatmap_editor":                   "Client/Beatmap_editor"
 "beatmap_editor/aimod":             "Client/Beatmap_editor/AiMod"
 "beatmap_editor/beat_snap_divisor": "Client/Beatmap_editor/Beat_snap_divisor"
-"beatmap_editor/beat_snap":         "Client/Beatmap_editor/Beat_snap"
+"beatmap_editor/beat_snap":         "Beatmapping/Beat_snapping"
 "beatmap_editor/compose":           "Client/Beatmap_editor/Compose"
 "beatmap_editor/design":            "Client/Beatmap_editor/Design"
 "beatmap_editor/distance_snap":     "Client/Beatmap_editor/Distance_snap"
@@ -1757,7 +1734,7 @@
 "mapping_techniques/stack":         "Beatmapping/Mapping_techniques/Stack"
 
 "tde":                              "Beatmapping/Mapping_techniques/Time-distance_equality"
-"beat_spacing":                     "Beatmapping/Mapping_Techniques/Time-distance_equality"
+"beat_spacing":                     "Beatmapping/Mapping_techniques/Time-distance_equality"
 "time-distance_equality":           "Beatmapping/Mapping_techniques/Time-distance_equality"
 "mapping_techniques/time-distance_equality": "Beatmapping/Mapping_techniques/Time-distance_equality"
 
@@ -1927,7 +1904,7 @@
 "slider":                           "Gameplay/Hit_object/Slider"
 "sliders":                          "Gameplay/Hit_object/Slider"
 "hit_object/slider":                "Gameplay/Hit_object/Slider"
-"slider_tick_rate":                 "Gameplay/Hit_object/Slider/Slider_tick_rate"
+"slider_tick_rate":                 "Beatmapping/Slider_tick_rate"
 "spinner":                          "Gameplay/Hit_object/Spinner"
 "spinners":                         "Gameplay/Hit_object/Spinner"
 "hit_object/spinner":               "Gameplay/Hit_object/Spinner"
@@ -1977,16 +1954,6 @@
 "staff_log/2020":                   "People/Staff_log/2020"
 "staff_log/2021":                   "People/Staff_log/2021"
 "staff_log/2022":                   "People/Staff_log/2022"
-"people/staff_log":                 "People/Staff_log"
-"people/staff_log/2014":            "People/Staff_log/2014"
-"people/staff_log/2015":            "People/Staff_log/2015"
-"people/staff_log/2016":            "People/Staff_log/2016"
-"people/staff_log/2017":            "People/Staff_log/2017"
-"people/staff_log/2018":            "People/Staff_log/2018"
-"people/staff_log/2019":            "People/Staff_log/2019"
-"people/staff_log/2020":            "People/Staff_log/2020"
-"people/staff_log/2021":            "People/Staff_log/2021"
-"people/staff_log/2022":            "People/Staff_log/2022"
 
 "contributing_code_of_conduct":     "Rules/Contributor_code_of_conduct"
 "contributor_code_of_conduct":      "Rules/Contributor_code_of_conduct"
@@ -2136,3 +2103,13 @@
 # moved in #9582
 
 "client/release_stream/lazer/feature_comparison": "Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)"
+
+"search_beatmaps":                           "Beatmap_search"
+"searching_beatmaps":                        "Beatmap_search"
+"filter_beatmaps":                           "Beatmap_search"
+"searching_and_downloading_beatmaps":        "Beatmap_search"
+"guides/searching_and_downloading_beatmaps": "Beatmap_search"
+
+"bsd": "Client/Beatmap_editor/Beat_snap_divisor"
+"client/beatmap_editor/beat_snap": "Beatmapping/Beat_snapping"
+"beatmapping/snapping": "Beatmapping/Beat_snapping"

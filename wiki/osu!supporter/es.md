@@ -2,6 +2,8 @@
 tags:
   - supporter tag
   - osu!supporter tag
+outdated_translation: true
+outdated_since: 4d8cf437cadc19ef38923c11bf958399886062bb
 ---
 
 # osu!supporter
@@ -85,7 +87,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 | :-- | :-: | :-: |
 | [Beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
 | Beatmaps favoritos | 100 | 1000 |
-| Amigos | 250 | 500 |
+| Amigos | 500 | 1000 |
 
 Adicionalmente, los usuarios con osu!supporter tienen límites de descarga de beatmaps menos estrictos.
 

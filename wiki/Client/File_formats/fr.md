@@ -4,17 +4,17 @@
 
 | Format de fichier | Type MIME | Utilisation |
 | :-- | :-- | :-- |
-| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! beatmap archive |
-| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! skin archive |
-| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [difficulty](/wiki/Beatmap/Difficulty) |
-| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [storyboard](/wiki/Storyboard/Scripting) |
-| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | osu! [replay](/wiki/Gameplay/Replay) |
+| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | osu! beatmap archive |
+| [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | osu! skin archive |
+| [.osu](/wiki/Client/File_formats/osu_(file_format)) | `x-osu-beatmap` | osu! [difficulty](/wiki/Beatmap/Difficulty) |
+| [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | osu! [storyboard](/wiki/Storyboard/Scripting) |
+| [.osr](/wiki/Client/File_formats/osr_(file_format)) | `x-osu-replay` | osu! [replay](/wiki/Gameplay/Replay) |
 
 ## Création des fichiers .osz et .osk
 
 Les fichiers `.osz` et `.osk` sont des archives contenant respectivement des beatmaps et des skins. Leur contenu est automatiquement extrait par osu! lors de leur ouverture et de skinning respectivement :
 
-- Les fichiers `.osz` sont extraits dans le répertoire `Songs` 
+- Les fichiers `.osz` sont extraits dans le répertoire `Songs`
 - Les fichiers `.osk` sont extraits dans le répertoire `Skins`.
 
 Savoir comment faire un skin ou une archive de beatmap via osu! rendra vos œuvres plus accessibles aux autres utilisateurs.

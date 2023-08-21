@@ -1,6 +1,17 @@
+---
+outdated_translation: true
+outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
+---
+
 # Mitwirkende der Community
 
-![Contributor-Abzeichen](/wiki/shared/contributor.jpg "Contributor-Abzeichen")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 Die **Community-Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
+---
+
 # Apa kamu benar-benar ingin bertanya kepada peppy?
 
 Hai! peppy memahami keinginan kamu untuk menghubunginya secara pribadi, tetapi dia meminta kamu untuk memahami terlebih dahulu bahwa ini **bukan** tempat yang kamu inginkan untuk meminta bantuan atau layanan dukungan padanya. Dia memisahkan keperluan layanan dukungan osu! dari pesan pribadi dan mengalami kesulitan menjawab semua pesan pribadi dari forum. Karena itu, dia memintamu untuk melakukan salah satu opsi berikut untuk menghubunginya:

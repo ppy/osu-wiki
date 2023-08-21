@@ -1,25 +1,24 @@
 ---
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+no_native_review: true
 ---
 
 # Comité de torneos
 
-El **comité de torneos** es un panel de organizadores y ayudantes expertos y establecidos en la escena del torneo.
+El **comité de torneos** es un panel de organizadores y ayudantes expertos y establecidos en la escena de los torneos.
 
 Sus responsabilidades incluyen:
 
-- Gestión de informes desde el [formulario de informes de torneos](https://pif.ephemeral.ink/tournament-reports)
-- Observar la escena general del torneo y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
-- Revisar regularmente la página de [soporte oficial del torneo](/wiki/Tournaments/Official_support) para revisiones cuando sea necesario
+- Gestión de reportes desde el [formulario de reportes para torneos](https://pif.ephemeral.ink/tournament-reports)
+- Observar la escena general de los torneos y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
+- Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para revisiones cuando sea necesario
 
-El panel se anunció por primera vez al público el 22 de julio de 2021 a través del canal `#tournaments` en el [servidor de Discord osu!dev](https://discord.com/invite/ppy) en respuesta al rápido crecimiento de la escena de torneos de la comunidad en osu!.
+El panel se anunció por primera vez al público el 22 de julio de 2021 a través del canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) en respuesta al rápido crecimiento de la escena de los torneos de la comunidad en osu!.
 
 ## ¿Cómo puedo ayudar a contribuir?
 
-¡Puedes ayudar al comité del torneo al continuar organizando excelentes torneos! Si tiene algún problema o inquietud con respecto a cualquier aspecto de un torneo de la comunidad, lo alentamos a que nos lo comunique a través del formulario de informes del torneo.
+¡Puedes ayudar al comité de torneos al continuar organizando excelentes torneos! Si tienes algún problema o inquietud con respecto a cualquier aspecto de un torneo de la comunidad, te alentamos a que nos lo comuniques a través del formulario de reportes para torneos.
 
-Aquellos que estén interesados en unirse al comité de torneos pueden expresarnos su interés enviándonos un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Se espera que los candidatos exitosos tengan una amplia experiencia en la escena del torneo, ya sea como jugador o personal.
+Aquellos que estén interesados en unirse al comité de torneos pueden expresarnos su interés enviándonos un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh), donde las solicitudes se envían al comité. Se espera que los candidatos exitosos tengan una amplia experiencia en la escena de los torneos, ya sea como jugador o personal.
 
 ## Miembros
 
