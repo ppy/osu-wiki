@@ -4,6 +4,8 @@ tags:
   - 10K
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # 10K (mod)

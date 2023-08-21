@@ -8,6 +8,9 @@ tags:
   - AO
   - mod
   - game modifier
+  - partida automática
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Auto (mod)

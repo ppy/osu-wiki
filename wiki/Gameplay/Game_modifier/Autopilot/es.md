@@ -6,6 +6,8 @@ tags:
   - AP
   - mod
   - game modifiers
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Autopilot (mod)
@@ -30,7 +32,7 @@ tags:
 
 El mod **Autopilot** es un [modificador de juego](/wiki/Gameplay/Game_modifier) para el modo de juego [osu!](/wiki/Game_mode/osu!) que tomará el control del movimiento del cursor y se moverá sistemáticamente al centro exacto del próximo [objeto](/wiki/Gameplay/Hit_object), dejando el toque al jugador. Durante una partida con el mod Autopilot activado, el jugador no podrá mover el cursor, a menos que esté en la pantalla de pausa.
 
-El mod Autopilot también deshabilita la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), el [combo](/wiki/Beatmapping/Combo) y los fallos, aunque esto se puede volver a habilitar presionando `Mayús`+`Tab`.
+El mod Autopilot también deshabilita la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), el [combo](/wiki/Beatmapping/Combo) y los fallos, aunque esto se puede volver a habilitar presionando `Mayús` + `Tab`.
 
 Además, el valor de giros por minuto (SPM) realizado por el mod Autopilot es similar a los giros por minuto realizados por el mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), por lo que el jugador no puede aumentar el SPM girando la ruleta con su cursor.
 

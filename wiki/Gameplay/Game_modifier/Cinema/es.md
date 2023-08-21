@@ -5,6 +5,8 @@ tags:
   - CM
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Cinema (mod)
@@ -19,7 +21,7 @@ tags:
 - Abreviatura: CM
 - Tipo: Especial
 - Multiplicador de puntuación: 1.00x
-- Tecla de acceso directo predeterminada: `V` `V` o `Shift`+`V` (o mantenga presionada `Ctrl`+`Shift` al seleccionar un [beatmap](/wiki/Beatmap))
+- Tecla de acceso directo predeterminada: `V` `V` o `Shift` + `V` (o mantén presionado `Ctrl` + `Shift` al seleccionar un [beatmap](/wiki/Beatmap))
 - Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Descripción
@@ -30,7 +32,7 @@ El mod **Cinema** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que
 
 Debido a que el mod Cinema es una variación del mod Auto, los hitsounds causados por los objetos aún se escucharán. Aunque los elementos de la repetición y la pantalla de resultados se desactivarán junto con la atenuación del fondo configurada en 0 %.
 
-![Jugabilidad de Auto contra Cinema](/wiki/Gameplay/Game_modifier/Cinema/img/CM-comparison.jpg "Comparación del mod Auto (izquierda) con el mod Cinema (derecha)")
+![Jugabilidad de Auto contra Cinema](/wiki/Gameplay/Game_modifier/Cinema/img/CM-comparison.jpg "Comparación del mod Auto (izquierda) contra el mod Cinema (derecha)")
 
 Este mod tiene el mismo efecto en todos los modos de juego.
 

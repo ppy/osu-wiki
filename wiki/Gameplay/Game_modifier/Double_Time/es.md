@@ -5,6 +5,8 @@ tags:
   - DT
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Double Time (mod)

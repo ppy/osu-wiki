@@ -5,6 +5,8 @@ tags:
   - Easy
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Easy (mod)
@@ -59,7 +61,7 @@ En [osu!catch](/wiki/Game_mode/osu!catch), los efectos son los mismos que en osu
 
 A pesar de usar solo un eje, el tamaño más grande de las frutas y la velocidad de caída más lenta pueden hacer que se agrupen, creando los mismos problemas comunes con la dificultad que en osu!.
 
-![Jugabilidad de EZ](/wiki/Gameplay/Game_modifier/Easy/img/EZ-comparison-catch.jpg "Comparación entre una partida normal (izquierda) frente a una partida con el mod activado (derecha) en osu!catch")
+![Jugabilidad de EZ](/wiki/Gameplay/Game_modifier/Easy/img/EZ-comparison-catch.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod activado (derecha) en osu!catch")
 
 ### osu!mania
 

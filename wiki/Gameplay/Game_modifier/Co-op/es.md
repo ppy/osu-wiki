@@ -8,6 +8,9 @@ tags:
   - mod
   - game modifier
   - playing with a friend
+  - modificador de juego
+  - modificador del juego
+  - jugar con un amigo
 ---
 
 # Co-op (mod)
@@ -33,7 +36,7 @@ El mod **Co-op** es un [modificador de juego](/wiki/Gameplay/Game_modifier) para
 
 ![Comparación del juego con Co-op en un beatmap específico de osu!mania](/wiki/Gameplay/Game_modifier/Co-op/img/CP-comparison-mania-specific-beatmap.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod Co-op activado (derecha) en un beatmap específico de osu!mania")
 
-![Comparación del juego con Co-op en un beatmap convertido a osu!mania](/wiki/Gameplay/Game_modifier/Co-op/img/CP-comparison-converted-beatmap.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod Co-op activado (derecha) en un beatmap convertido a osu!mania")
+![Comparación del juego con Co-op en un beatmap convertido a osu!mania](/wiki/Gameplay/Game_modifier/Co-op/img/CP-comparison-converted-beatmap.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod Co-op activado (derecha) en un beatmap convertido de osu!mania")
 
 ### Multiplicador de puntuación
 
@@ -52,6 +55,6 @@ Puedes encontrar una explicación detallada sobre el segundo campo de juego en [
 
 ### Curiosidades
 
-- El mod Co-op se introdujo el 5 de marzo de 2015
+- El mod Co-op se introdujo el 5 de marzo de 2015.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
