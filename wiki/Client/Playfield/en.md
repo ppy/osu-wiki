@@ -1,6 +1,10 @@
 ---
 tags:
   - play field
+  - game field
+  - gamefield
+  - gamepixel
+  - game pixel
   - osupixel
   - osu!pixel
   - osu! pixel
@@ -22,9 +26,9 @@ The **playfield** is a portion of the game window where [hit objects](/wiki/Game
 ![](img/playfield-854x480.png "The osu! window (purple) with the playfield (blue), 16:9 aspect ratio.")
 :::
 
-The playfield's coordinate system uses resolution-independent units called **osu! pixels**, such that an osu! pixel is equivalent to a pixel when osu! is running at a 640x480 resolution. On higher resolutions, the visual size of osu! pixels stays the same.
+The playfield's coordinate system uses resolution-independent units called **game pixels**, or osu! pixels, such that a game pixel is equivalent to a pixel when osu! is running at a 640x480 resolution. On higher resolutions, the visual size of game pixels stays the same.
 
-The [beatmap editor](/wiki/Client/Beatmap_editor)'s grid is 512x384 osu! pixels.
+The [beatmap editor](/wiki/Client/Beatmap_editor)'s grid is 512x384 game pixels.
 
 | Playfield top left | Playfield bottom right | Playfield centre |
 | :-- | :-- | :-- |
@@ -43,4 +47,4 @@ The coordinate system used for storyboards has a slightly different origin point
 | **4:3** | (0, 0) | (640, 480) | (320, 240) | 640x480 |
 | **16:9** | (-107, 0) | (747, 480) | (320, 240) | 854x480 |
 
-To convert a position in playfield coordinates to storyboard coordinates, add the offset vector (64, 56), which is the the position of the playfield's top-left corner in storyboard coordinates.
+To convert a position in playfield coordinates to storyboard coordinates, add the offset vector (64, 56), which is the position of the playfield's top-left corner in storyboard coordinates.
