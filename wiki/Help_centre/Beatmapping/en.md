@@ -39,6 +39,14 @@ If you are still having issues or want more information on this, have a read thr
 
 **The number of slots available depends on the number of ranked maps you have. For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
+## My beatmap has been stolen or re-uploaded by another user without my consent, and I want the infringing copy to be taken down! {id=report-stolen-beatmap}
+
+**Please file a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](https://osu.ppy.sh/legal/en/Copyright).**
+
+Stolen beatmaps are treated as a form of copyright infringement, and as such, their removal is subject to legal procedures. 
+
+Please do **not** file your report using either [the in-game `!report` command](/wiki/Reporting_bad_behaviour#in-game-chat) or [the osu! website](/wiki/Reporting_bad_behaviour#website), as members of the [NAT](https://osu.ppy.sh/wiki/en/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) who handle these reports are not equipped to address legal matters.
+
 ## How can I delete my beatmap? {id=delete-beatmap}
 
 **The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
