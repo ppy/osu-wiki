@@ -27,7 +27,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `<` | Menor que |
 | `>` | Mayor que |
 | `<=` | Menor que o igual que |
-| `>=` | Mayor qué o igual que |
+| `>=` | Mayor que o igual que |
 
 ## Cliente
 
