@@ -27,7 +27,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 프로젝트 및 커뮤니티 유지 관리자, 공식 아티스트 지원 |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 디자인 책임자, Creative Cloud 상시 감시자 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 개발자 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 메니저 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 매니저 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 월드컵 주최자 및 관리자 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [공식 아티스트](/wiki/People/Featured_Artists) 지원, 월드컵 비서 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 개발자, 기술적 지원 |
@@ -46,29 +46,30 @@ tags:
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 인프라 개발자 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 총괄 관리자, 토너먼트 보조 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 총괄 관리자, 빗자루 청소부 |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) 리더, 비트맵 스포트라이트 메니저, Hivie의 비서 |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) 리더, 비트맵 스포트라이트 매니저, Hivie의 비서 |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | 위키 관리자, 뉴스 에디터 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 멸종 위기종 |
 
 상기 인원 이외에도, [계정 지원팀](/wiki/People/Account_support_team)이 손에 닿지 않는 부분에 대해 도움을 드리고 있습니다.
 
-핵심 osu! 팀 이외에도, 게임을 계속 운영하기 위해 [많은 자원 봉사 팀들](/wiki/People)이 있습니다.
+핵심 osu! 팀 이외에도, 게임을 계속 운영하기 위한 [많은 자원봉사 팀](/wiki/People)이 있습니다.
 
 ## 활동 중이 아닌 팀원들
 
 | 이름 | 역할 |
 | :-- | :-- |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 총괄 관리자 및 도우미, Chibi 아티스트. |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 총괄 관리자 및 도우미, Chibi 아티스트 |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | 모더레이터, 커뮤니티 자문가 |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 오디오 디자이너, [공식 아티스트](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!페인터 |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 월드컵 주최자 및 관리자 |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 총괄 관리자, 커뮤니티 매니저 |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | 스토리보드 개발자 |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자. |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자 |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, osz2 및 p2p 백엔드 제공자 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
-| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 원본 사이트 디자이너, 초기 호스팅 공급자. |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 원본 사이트 디자이너, 초기 호스팅 공급자 |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 월드컵 주최자 및 관리자 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 월드컵 주최자 및 관리자, 전 QAT 리더, 커뮤니티 매니저 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 특별한 스킨 디자이너, 기본 스킨 및 아이콘 기여자 |
