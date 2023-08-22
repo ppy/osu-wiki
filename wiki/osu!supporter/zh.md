@@ -8,13 +8,13 @@ tags:
   - 支持者
   - 支持者标签
   - 撒泼特
-outdated_translation: true
-outdated_since: 4d8cf437cadc19ef38923c11bf958399886062bb
 ---
 
 <!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu! 支持者
+
+![osu!supporter 宣传页](img/supporter-eyecatch.jpg)
 
 **osu! 支持者**（osu!supporter，也被称为 ***支持者标签***，玩家相传为 ***撒泼特***）是授予自愿捐款支持 osu! 发展玩家的临时头衔。支持者会在标签有效期内获得一些装扮或功能性方面的额外功能。但无论现在还是将来，osu! 支持者标签的额外功能不会给游戏内容、玩家水平或计分系统带来任何的优势。
 
@@ -61,7 +61,7 @@ outdated_since: 4d8cf437cadc19ef38923c11bf958399886062bb
 支持者们可以上传封面来进一步定制他们的个人资料：
 
 - 按下个人资料封面右下角的铅笔图标。
-- 从默认封面中选择一个，或上传自己的封面（推荐尺寸 2400 x 640）。
+- 从默认封面中选择一个，或上传自定义封面（推荐尺寸 2400 x 640）。
 
 支持者标签过期后，会保留封面，但无法更改。
 
@@ -123,7 +123,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 - 玩过（或没玩过）的谱面
 - 按[评价](/wiki/Gameplay/Grade)筛选谱面
 
-### 在 osu! 测试版中进行多人游戏
+### 在 osu! 测试版中游玩多人游戏
 
 支持者们可以在抢先体验的“测试版”更新源中使用多人游戏功能。
 
@@ -137,19 +137,21 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 ## 获得 osu! 支持者标签
 
-::: Infobox
-![](img/store-product.jpg?2 "在 osu! 商店中的 osu! 支持者产品横幅")
-:::
-
 要购买 osu! 支持者标签，请前往 [osu! 支持者商店页](https://osu.ppy.sh/store/products/supporter-tag)，拖动下方的滑块或点击显示特定月份数的按钮可以调整支持者标签的时长。所有价格都是以美元（USD）为单位，不包括支付系统可能产生的手续费。
 
 确认期限和账户后，点击 `添加到购物车` 将选择好的支持者标签添加到 osu! 商店的购物车。前往 [购物车](https://osu.ppy.sh/store/cart)点击 `结账`，跟随接下来的屏幕上的步骤完成购买。
 
 ### 赠送 osu! 支持者标签
 
-osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方框中输入他们的用户名后添加至购物车即可。想要一次赠送多位玩家请返回商店页面并重复刚刚的操作即可。
+::: Infobox
+![](img/profile-gift-supporter.png "如果想要给他人赠送 osu! 支持者，可以点击对方主页的下拉菜单按钮")
+:::
 
-### 收尾
+osu! 支持者标签可以赠送给其他玩家，可以在玩家名片下的灰色方框中输入他们的用户名，也可以点击通过点击对方主页上的`赠送支持者标签`赠送。如果想要一次赠送多位玩家，可以逐次访问对方的主页，并重复刚刚的操作即可。
+
+收到支持者的玩家，不会知道赠送者是谁。但是赠送者在赠送的时候，可以在通知对方的电子邮件中附加一些想说的话。
+
+### 确认
 
 交易完成后，收发双方都会在个人资料的 `最近活动` 区块出现一个新的活动：
 
@@ -161,4 +163,4 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 
 ## 参考
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)
+[^pending-beatmaps-ref]: [扩大玩家可以拥有的待定谱面位 (Increase the number of pending beatmap slots)](https://osu.ppy.sh/community/forums/posts/8294132)
