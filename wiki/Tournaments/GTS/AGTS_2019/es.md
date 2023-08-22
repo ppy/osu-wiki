@@ -3,69 +3,66 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.jpg)
+![Logo del AGTS 2019](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo de osu!taiko por equipos basados en países de doble eliminación dos-contra-dos organizado por ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Esta fue la segunda edición de Intermediate Global Taiko Showdown.
+El **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo mundial avanzado de osu!taiko de doble eliminación 2 contra 2 por países organizado por ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Fue la primera entrega del Advanced Global Taiko Showdown y forma parte de la serie Global Taiko Showdown.
 
-## Horarios del Torneo
+## Calendario del torneo
 
-| Evento | Fechas |
+| Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de Registro | 7/7/2019 - 21/7/2019 |
-| Stream de Apertura | 4/8/2019 (15:00 UTC) |
-| Eliminatorias | 10/8/2019 - 11/8/2019 |
-| Fase de Grupos | 17/8/2019 - 18/8/2019 |
-| Cuartos de Final | 24/8/2019 - 25/8/2019 |
+| Fase de registro | 7/7/2019 - 21/7/2019 |
+| Sorteos en vivo | 4/8/2019 (15:00 UTC) |
+| Clasificatorias | 10/8/2019 - 11/8/2019 |
+| Fase de grupos | 17/8/2019 - 18/8/2019 |
+| Cuartos de final | 24/8/2019 - 25/8/2019 |
 | Semifinales | 31/8/2019 - 1/9/2019 |
 | Finales | 7/9/2019 - 8/9/2019 |
-| Gran Finales | 14/9/2019 |
+| Gran Final | 14/9/2019 |
 
 ## Premios
 
-| Puestos | Premio(s) |
+| Posición | Premios |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo |
-| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | Banner de equipo exclusivo |
-| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | Banner de equipo exclusivo |
+| ![Corona de oro](/wiki/shared/crown-gold.png "Primer lugar") | Insignia de perfil única, banner exclusivo del equipo |
+| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | Banner exclusivo del equipo |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | Banner exclusivo del equipo |
 
-![Medalla para el ganador de AGTS 2019](img/badge.png)
+![](img/badge.png "Insignia del ganador del AGTS 2019")
 
 ## Organización
 
-Advanced Global Taiko Showdown 2019 fue realizado por varios miembros de la comunidad, distribuyendo las variadas labores en ciertos campos de responsabilidades.
+El Advanced Global Taiko Showdown 2019 fue dirigido por varios miembros de la comunidad.
 
-| Posición | Miembro(s) |
+| Posición | Miembros |
 | :-- | :-- |
-| Administración | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Selectores de Mapas | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
-| Árbitros | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Streamers | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Comentaristas | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Diseñadore | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Estadistas | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
-| Traductores | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Editor de Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Desarrolladors | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Gerente | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Selector de la mappool | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
+| Árbitro | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| Streamer | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
+| Comentarista | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| Diseñador | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Estadístico | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
+| Traductor | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Desarollador | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Editor de la wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Enlaces
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/931003)
-- [AGTS Servidor de Discord](https://discord.gg/zbHVzvF)
-- [Livestream](https://www.twitch.tv/gtsosu)
-- [Challonge brackets](https://challonge.com/AGTS2019)
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- [Servidor de Discord GTS](https://discord.gg/3mGC3HB)
+- [Transmisión en directo](https://www.twitch.tv/gtsosu)
+- [Brackets de Challonge](https://challonge.com/AGTS2019)
+- **[Hoja de estadísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Participantes
 
 |  | País | Miembros |
 | :-: | :-: | :-- |
-| ::{ flag=DE }:: | **Alemania A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
-| ::{ flag=DE }:: | **Alemania B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
 | ::{ flag=AR }:: | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
 | ::{ flag=AU }:: | **Australia** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
 | ::{ flag=AT }:: | **Austria** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [morth1](https://osu.ppy.sh/users/7246874), [Der Katze](https://osu.ppy.sh/users/7645997), [kBocaj](https://osu.ppy.sh/users/11453341), [Amane](https://osu.ppy.sh/users/6821436) |
@@ -73,13 +70,10 @@ Advanced Global Taiko Showdown 2019 fue realizado por varios miembros de la comu
 | ::{ flag=CA }:: | **Canadá** | **[beary605](https://osu.ppy.sh/users/2198070)**, [iceandele](https://osu.ppy.sh/users/1740540), [Player-](https://osu.ppy.sh/users/3724819), [rubies87](https://osu.ppy.sh/users/4949934), [DuckyDoom](https://osu.ppy.sh/users/3153062) |
 | ::{ flag=CL }:: | **Chile** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Adimoc](https://osu.ppy.sh/users/6757492), [-NaNdo-](https://osu.ppy.sh/users/1934382) |
 | ::{ flag=CN }:: | **China** | **[\[sACRIFICe\]](https://osu.ppy.sh/users/6294200)**, [super mario fan](https://osu.ppy.sh/users/8263525), [Flandre sca](https://osu.ppy.sh/users/10324309), [-OvO-](https://osu.ppy.sh/users/12208924), [Nisoquo](https://osu.ppy.sh/users/12345370) |
-| ::{ flag=KR }:: | **Corea del Sur** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**, [bbj0920](https://osu.ppy.sh/users/87546), [yuhuna_kor](https://osu.ppy.sh/users/13046017), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [TRAtOrTs](https://osu.ppy.sh/users/12481695) |
 | ::{ flag=EC }:: | **Ecuador** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [Arkano036](https://osu.ppy.sh/users/5899577), [Etsu](https://osu.ppy.sh/users/3442319) |
-| ::{ flag=ES }:: | **España** | **[naliem](https://osu.ppy.sh/users/3252709)**, [RuinedChicken](https://osu.ppy.sh/users/7983713), [Machango](https://osu.ppy.sh/users/7180552), [Nara\_NB](https://osu.ppy.sh/users/3593992) |
-| ::{ flag=US }:: | **Estados Unidos A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
-| ::{ flag=US }:: | **Estados Unidos B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| ::{ flag=PH }:: | **Filipinas** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
 | ::{ flag=FR }:: | **Francia** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| ::{ flag=DE }:: | **Alemania A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
+| ::{ flag=DE }:: | **Alemania B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
 | ::{ flag=HK }:: | **Hong Kong** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
 | ::{ flag=ID }:: | **Indonesia A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
 | ::{ flag=ID }:: | **Indonesia B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
@@ -87,40 +81,45 @@ Advanced Global Taiko Showdown 2019 fue realizado por varios miembros de la comu
 | ::{ flag=MY }:: | **Malasia** | **[Bedwyr Aorta](https://osu.ppy.sh/users/10875855)**, [Megumin-Sama](https://osu.ppy.sh/users/6201335), [Minisora](https://osu.ppy.sh/users/9627666), [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
 | ::{ flag=MX }:: | **México** | **[Iojioji](https://osu.ppy.sh/users/1346121)**, [ZaveryK](https://osu.ppy.sh/users/10913397), [L\_CORTES\_01](https://osu.ppy.sh/users/12548363) |
 | ::{ flag=NL }:: | **Países Bajos** | **[Krekker](https://osu.ppy.sh/users/8265940)**, [Hypello](https://osu.ppy.sh/users/1594036), [jesse-98](https://osu.ppy.sh/users/502722), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
+| ::{ flag=PH }:: | **Filipinas** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
 | ::{ flag=PL }:: | **Polonia** | **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [-Jamu-](https://osu.ppy.sh/users/2271556), [Wolfgang](https://osu.ppy.sh/users/7184324), [fafik99](https://osu.ppy.sh/users/1787011) |
+| ::{ flag=RU }:: | **Federación de Rusia A** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**, [Akonine](https://osu.ppy.sh/users/7774222), [pavlukivan](https://osu.ppy.sh/users/8321579), [CrowWhite](https://osu.ppy.sh/users/8638977), [TwinT](https://osu.ppy.sh/users/9976154) |
+| ::{ flag=RU }:: | **Federación de Rusia B** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**, [JW-Dash](https://osu.ppy.sh/users/5285786), [oserry](https://osu.ppy.sh/users/11973082), [Starger](https://osu.ppy.sh/users/3398715), [Crysally](https://osu.ppy.sh/users/7792131) |
+| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **Escandinavia** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**, [1794766](https://osu.ppy.sh/users/1794766), [Mills](https://osu.ppy.sh/users/7234023), [KatLeNeko](https://osu.ppy.sh/users/10183710), [mammasutter](https://osu.ppy.sh/users/11830625) |
+| ::{ flag=KR }:: | **Corea del Sur** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**, [bbj0920](https://osu.ppy.sh/users/87546), [yuhuna_kor](https://osu.ppy.sh/users/13046017), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [TRAtOrTs](https://osu.ppy.sh/users/12481695) |
+| ::{ flag=ES }:: | **España** | **[naliem](https://osu.ppy.sh/users/3252709)**, [RuinedChicken](https://osu.ppy.sh/users/7983713), [Machango](https://osu.ppy.sh/users/7180552), [Nara\_NB](https://osu.ppy.sh/users/3593992) |
+| ::{ flag=TW }:: | **Taiwán** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Hatsuse](https://osu.ppy.sh/users/697007), [nw9v4g46](https://osu.ppy.sh/users/2169329), [david649713](https://osu.ppy.sh/users/1390823) |
 | ::{ flag=GB }:: ::{ flag=PT }:: | **Reino Unido/Portugal** | **[Metzo](https://osu.ppy.sh/users/10633982)**, [w1ll](https://osu.ppy.sh/users/11406987), [Ali161102](https://osu.ppy.sh/users/7582420), [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
-| ::{ flag=RU }:: | **Rusia A** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**, [Akonine](https://osu.ppy.sh/users/7774222), [pavlukivan](https://osu.ppy.sh/users/8321579), [CrowWhite](https://osu.ppy.sh/users/8638977), [TwinT](https://osu.ppy.sh/users/9976154) |
-| ::{ flag=RU }:: | **Rusia B** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**, [JW-Dash](https://osu.ppy.sh/users/5285786), [oserry](https://osu.ppy.sh/users/11973082), [Starger](https://osu.ppy.sh/users/3398715), [Crysally](https://osu.ppy.sh/users/7792131) |
-| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **Scandinavia** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**, [1794766](https://osu.ppy.sh/users/1794766), [Mills](https://osu.ppy.sh/users/7234023), [KatLeNeko](https://osu.ppy.sh/users/10183710), [mammasutter](https://osu.ppy.sh/users/11830625) |
-| ::{ flag=TW }:: | **Taiwan** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Hatsuse](https://osu.ppy.sh/users/697007), [nw9v4g46](https://osu.ppy.sh/users/2169329), [david649713](https://osu.ppy.sh/users/1390823) |
+| ::{ flag=US }:: | **Estados Unidos A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
+| ::{ flag=US }:: | **Estados Unidos B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
 | ::{ flag=VE }:: | **Venezuela** | **[Nutellitah](https://osu.ppy.sh/users/10613075)**, [JessiChan](https://osu.ppy.sh/users/1368025) |
 
 ## Grupos
 
-| Grupo | Top seed | High seed | Low seed | Unseeded |
+| Grupo | Semilla superior | Semilla alta | Semilla baja | Sin semilla |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=PL }:: Polonia | ::{ flag=RU }:: Rusia B | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia |
+| **A** | ::{ flag=PL }:: Polonia | ::{ flag=RU }:: Federación de Rusia B | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia |
 | **B** | ::{ flag=JP }:: Japón | ::{ flag=AR }:: Argentina | ::{ flag=HK }:: Hong Kong | ::{ flag=CL }:: Chile |
-| **C** | ::{ flag=NL }:: Países Bajos | ::{ flag=FR }:: Francia | ::{ flag=MX }:: México | ::{ flag=TW }:: Taiwan |
-| **D** | ::{ flag=US }:: Estados Unidos A | ::{ flag=RU }:: Rusia A | ::{ flag=US }:: Estados Unidos B | ::{ flag=BR }:: Brasil |
-| **E** | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania A | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: Scandinavia | ::{ flag=VE }:: Venezuela |
+| **C** | ::{ flag=NL }:: Países Bajos | ::{ flag=FR }:: Francia | ::{ flag=MX }:: México | ::{ flag=TW }:: Taiwán |
+| **D** | ::{ flag=US }:: Estados Unidos A | ::{ flag=RU }:: Federación de Rusia A | ::{ flag=US }:: Estados Unidos B | ::{ flag=BR }:: Brasil |
+| **E** | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania A | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: Escandinavia | ::{ flag=VE }:: Venezuela |
 | **F** | ::{ flag=CA }:: Canadá | ::{ flag=GB }:: ::{ flag=PT }:: Reino Unido/Portugal | ::{ flag=ID }:: Indonesia A | ::{ flag=ID }:: Indonesia B |
 
 ## Podio
 
-Esta competencia ha llegado a su fin y los acreedores al podio son los siguientes:
+Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
-| Posición | País |
+| Puesto | País |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=JP }:: Japón |
-| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | ::{ flag=CA }:: Canadá |
-| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | ::{ flag=RU }:: Rusia A |
+| ![Corona de oro](/wiki/shared/crown-gold.png "Primer puesto") | ::{ flag=JP }:: Japón |
+| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo puesto") | ::{ flag=CA }:: Canadá |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer puesto") | ::{ flag=RU }:: Federación de Rusia A |
 
-## Paquetes de Mapa
+## Mappools
 
-### Gran Finales
+### Gran final
 
-**[Descarga el paquete de mapas aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[¡Descarga el paquete de mapas aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   1. [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -144,12 +143,12 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
   1. [P\*Light - NINJA IS DEAD IIDX ver. (Tofu1222) \[Skylish's Corpse Inner Oni\]](https://osu.ppy.sh/beatmapsets/590032#taiko/1628026)
   2. [ginkiha - eastward (yuzu\_\_rinrin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/630364#taiko/1332295)
   3. [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/614179#taiko/1295723)
-- Tiebreaker
+- Desempate
   1. **[Venetian Snares - My Love Is A Bulldozer (Nifty) \[Destructive Lust\]](https://osu.ppy.sh/beatmapsets/773337#taiko/1625609)**
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[¡Descarga el paquete de mapas aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   1. [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -173,12 +172,12 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
   1. [Kobaryo - Night Of Core (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/807072#taiko/1693948)
   2. [xi - Longinus (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963975#taiko/2018175)
   3. [IOSYS - Border of extacy (Karaoke Ver) (eiri-) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/819351#taiko/1717859)
-- Tiebreaker
+- Desempate
   1. **[Meshuggah - Bleed (frukoyurdakul) \[Drain\]](https://osu.ppy.sh/beatmapsets/638550#taiko/1354578)**
 
 ### Semifinales
 
-**[Descarga el paquete de mapas aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[¡Descarga el paquete de mapas aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   1. [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -202,12 +201,12 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
   1. [OISHII - COCOA WATERSLIDE (-OvO-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/912064#taiko/1905708)
   2. [Seiryu - Critical Crystal (Sayaka-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/138311#taiko/345483)
   3. [ITO KASHITARO - Yuudachi no Ribbon (Skull Kid) \[Ribbon\]](https://osu.ppy.sh/beatmapsets/577827#taiko/1223186)
-- Tiebreaker
+- Desempate
   1. **[Loctek - Summer CarnivaL (Metzo) \[CarnivaL Oni\]](https://osu.ppy.sh/beatmapsets/942014#taiko/1967051)**
 
-### Cuartos de Final
+### Cuartos de final
 
-**[Descarga el paquete de mapas aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[¡Descarga el paquete de mapas aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   1. [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -230,12 +229,12 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
   1. [ParagonX9 - Defection (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/582351#taiko/1232379)
   2. [Camellia feat. Nanahira - Bassdrop freaks (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/299747#taiko/672384)
   3. [P\*Light feat.Nanahira - Rainbow (P\*Light Remix) (Y O U T A) \[On the Sky\]](https://osu.ppy.sh/beatmapsets/536720#taiko/1137587)
-- Tiebreaker
+- Desempate
   1. **[Various Artists - International OTOMAD's 6 (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424276#taiko/916603)**
 
-### Fase de Grupos
+### Fase de grupos
 
-**[Descarga el paquete de mapas aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[¡Descarga el paquete de mapas aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   1. [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -262,12 +261,12 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
   1. [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Tyistiana) \[Blacken's Inner Oni\]](https://osu.ppy.sh/beatmapsets/818296#taiko/1753169)
   2. [DJ Sharpnel - Exciting Hyper Highspeed Star (Lunaii) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/920447#taiko/1922244)
   3. [OISHII - UP UP MT. CAKE (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/664795#taiko/1406933)
-- Tiebreaker
+- Desempate
   1. **[kamome sano - future gazer (kmsn\_UKHC\_remix) (taiko\_maniac1811) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/372637#taiko/816175)**
 
-### Eliminatorias
+### Clasificatorias
 
-**[Descarga el paquete de mapas aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[¡Descarga el paquete de mapas aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   1. [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -279,209 +278,227 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 - DoubleTime
   1. [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
-## Resultado de las partidas
+## Resultados de los partidos
 
-### Gran Finales
+### Gran final
 
-| Sábado, 2019-09-14 |  |  |  |  |
+Sábado, 14 de septiembre de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Japón** ::{ flag=JP }:: | **7** | 1 | ::{ flag=CA }:: Canadá | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finales
 
-| Sábado, 2019-09-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **Japón** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: Rusia A | [#1](https://osu.ppy.sh/community/matches/54674122) |
+Sábado, 7 de septiembre de 2019:
 
-| Domingo, 2019-09-08 |  |  |  |  |
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
+| --: | :-: | :-: | :-- | :-- |
+| **Japón** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: Federación de Rusia A | [#1](https://osu.ppy.sh/community/matches/54674122) |
+
+Domingo, 8 de septiembre de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Corea del Sur ::{ flag=KR }:: | 4 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54691282) |
-| Rusia A ::{ flag=RU }:: | 2 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54706574) |
+| Federación de Rusia A ::{ flag=RU }:: | 2 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Semifinales
 
-| Sábado, 2019-08-31 |  |  |  |  |
+Sábado, 31 de agosto de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia A ::{ flag=ID }:: | 4 | **7** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/54504410) |
-| **Rusia A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
+| **Federación de Rusia A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentina ::{ flag=AR }:: | 4 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Domingo, 2019-09-01 |  |  |  |  |
+Domingo, 1 de septiembre de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
-| Taiwan ::{ flag=TW }:: | 1 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54521624) |
+| Taiwán ::{ flag=TW }:: | 1 | **7** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Países Bajos ::{ flag=NL }:: | 6 | **7** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/54530786) |
 | Indonesia A ::{ flag=ID }:: | 3 | **7** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
-### Cuartos de Final
+### Cuartos de final
 
-| Sábado, 2019-08-24 |  |  |  |  |
+Sábado, 24 de agosto de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ::{ flag=AR }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
+| Argentina ::{ flag=AR }:: | 5 | **6** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Alemania A ::{ flag=DE }:: | 0 | **6** | ::{ flag=ID }:: **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
 | **Japón** ::{ flag=JP }:: | **6** | 0 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/54317042) |
-| **Rusia A** ::{ flag=RU }:: | **6** | 2 | ::{ flag=RU }:: Rusia B | [#1](https://osu.ppy.sh/community/matches/54317274) |
+| **Federación de Rusia A** ::{ flag=RU }:: | **6** | 2 | ::{ flag=RU }:: Federación de Rusia B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canadá ::{ flag=CA }:: | 4 | **6** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/54318662) |
 | Polonia ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
-| **Canadá** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Rusia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| **Canadá** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Federación de Rusia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Domingo, 2019-08-25 |  |  |  |  |
+Domingo, 25 de agosto de 2019:
+
+| Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | --: | :-: | :-: | :-- | :-- |
-| Corea del Sur ::{ flag=KR }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
-| Países Bajos ::{ flag=NL }:: | 2 | **6** | ::{ flag=RU }:: **Rusia A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
+| Corea del Sur ::{ flag=KR }:: | 3 | **6** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/54334906) |
+| Países Bajos ::{ flag=NL }:: | 2 | **6** | ::{ flag=RU }:: **Federación de Rusia A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
 | **Corea del Sur** ::{ flag=KR }:: | **6** | 0 | ::{ flag=DE }:: Alemania A | [#1](https://osu.ppy.sh/community/matches/54346891) |
 | **Países Bajos** ::{ flag=NL }:: | **6** | 0 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/54349753) |
 | Polonia ::{ flag=PL }:: | 0 | **6** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/54360101) |
 
-### Fase de Grupos
+### Fase de grupos
 
-| Grupo | Sábado, 2019-08-17 |  |  |  |  |
+Sábado, 17 de agosto de 2019:
+
+| Grupo | Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C4 | México ::{ flag=MX }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
+| C4 | México ::{ flag=MX }:: | 2 | **5** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | Estados Unidos B ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **Estados Unidos A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
-| A1 | **Rusia B** ::{ flag=RU }:: | **5** | 3 | ::{ flag=PH }:: Filipinas | [#1](https://osu.ppy.sh/community/matches/54141466) |
+| A1 | **Federación de Rusia B** ::{ flag=RU }:: | **5** | 3 | ::{ flag=PH }:: Filipinas | [#1](https://osu.ppy.sh/community/matches/54141466) |
 | F5 | **Indonesia B** ::{ flag=ID }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Reino Unido/Portugal | [#1](https://osu.ppy.sh/community/matches/54142329) |
-| D1 | **Rusia A** ::{ flag=RU }:: | **5** | 2 | ::{ flag=US }:: Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/54143643) |
-| A5 | Malasia ::{ flag=MY }:: | 3 | **5** | ::{ flag=RU }:: **Rusia B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
-| C5 | **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/54146452) |
+| D1 | **Federación de Rusia A** ::{ flag=RU }:: | **5** | 2 | ::{ flag=US }:: Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/54143643) |
+| A5 | Malasia ::{ flag=MY }:: | 3 | **5** | ::{ flag=RU }:: **Federación de Rusia B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
+| C5 | **Taiwán** ::{ flag=TW }:: | **5** | 0 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/54146452) |
 | A6 | Filipinas ::{ flag=PH }:: | 1 | **5** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/54146455) |
-| E6 | Scandinavia ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | 0 | **5** | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/54147726) |
+| E6 | Escandinavia ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | 0 | **5** | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/54147726) |
 | C1 | **Francia** ::{ flag=FR }:: | **5** | 3 | ::{ flag=MX }:: México | [#1](https://osu.ppy.sh/community/matches/54149300) |
 | C6 | México ::{ flag=MX }:: | 1 | **5** | ::{ flag=NL }:: **Países Bajos** | [#1](https://osu.ppy.sh/community/matches/54151830) |
-| E1 | **Alemania A** ::{ flag=DE }:: | **5** | 1 | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
+| E1 | **Alemania A** ::{ flag=DE }:: | **5** | 1 | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: Escandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
 | B5 | Chile ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canadá** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Reino Unido/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Grupo | Domingo, 2019-08-18 |  |  |  |  |
+Domingo, 18 de agosto de 2019:
+
+| Grupo | Equipo 1 |  |  | Equipo 2 | Enlace del partido |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonesia A ::{ flag=ID }:: | 3 | **5** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chile ::{ flag=CL }:: | 0 | **5** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/54160233) |
 | B1 | **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/54160229) |
 | B3 | **Japón** ::{ flag=JP }:: | **5** | 3 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/54161382) |
 | B4 | Hong Kong ::{ flag=HK }:: | 0 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/54161391) |
-| F2 | Indonesia B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Canadá** | -win by default- |
+| F2 | Indonesia B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Canadá** | *victoria por ausencia* |
 | B6 | Hong Kong ::{ flag=HK }:: | 1 | **5** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/54165254) |
 | F4 | **Indonesia A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/54168881) |
-| A3 | **Polonia** ::{ flag=PL }:: | **5** | 1 | ::{ flag=RU }:: Rusia B | [#1](https://osu.ppy.sh/community/matches/54168865) |
-| D5 | Brasil ::{ flag=BR }:: | 2 | **5** | ::{ flag=RU }:: **Rusia A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
+| A3 | **Polonia** ::{ flag=PL }:: | **5** | 1 | ::{ flag=RU }:: Federación de Rusia B | [#1](https://osu.ppy.sh/community/matches/54168865) |
+| D5 | Brasil ::{ flag=BR }:: | 2 | **5** | ::{ flag=RU }:: **Federación de Rusia A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
 | A4 | **Filipinas** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MY }:: Malasia | [#1](https://osu.ppy.sh/community/matches/54170118) |
-| C2 | Taiwan ::{ flag=TW }:: | 0 | **5** | ::{ flag=NL }:: **Países Bajos** | [#1](https://osu.ppy.sh/community/matches/54169919) |
-| E2 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Corea del Sur** | -win by default- |
+| C2 | Taiwán ::{ flag=TW }:: | 0 | **5** | ::{ flag=NL }:: **Países Bajos** | [#1](https://osu.ppy.sh/community/matches/54169919) |
+| E2 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Corea del Sur** | *victoria por ausencia* |
 | E3 | **Corea del Sur** ::{ flag=KR }:: | **5** | 2 | ::{ flag=DE }:: Alemania A | [#1](https://osu.ppy.sh/community/matches/54171395) |
 | F1 | Reino Unido/Portugal ::{ flag=GB }:: ::{ flag=PT }:: | 4 | **5** | ::{ flag=ID }:: **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | Malasia ::{ flag=MY }:: | 0 | **5** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/54171560) |
-| D3 | Estados Unidos A ::{ flag=US }:: | 2 | **5** | ::{ flag=RU }:: **Rusia A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
+| D3 | Estados Unidos A ::{ flag=US }:: | 2 | **5** | ::{ flag=RU }:: **Federación de Rusia A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **Países Bajos** ::{ flag=NL }:: | **5** | 1 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/54173902) |
 | D4 | Estados Unidos B ::{ flag=US }:: | 4 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/54175298) |
-| E4 | **Scandinavia** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | -win by default- |
-| E5 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Alemania A** | -win by default- |
+| E4 | **Escandinavia** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | *victoria por ausencia* |
+| E5 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Alemania A** | *victoria por ausencia* |
 | D2 | **Brasil** ::{ flag=BR }:: | **5** | 3 | ::{ flag=US }:: Estados Unidos A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
-## Reglas
+## Set de reglas
 
-### Reglas Generales
+### Reglas generales
 
-1. Este es un torneo **2v2 por equipos**, con equipos de **máximo 5 jugadores.**
-2. Los equipos jugarán primero en una **fase de grupos** y luego en un **formato de doble llave con doble eliminación.**
-3. Se usará el sistema de puntación **Score V2.**
-4. Cualquier jugador que cumpla con los requerimientos de ranking podrá ingresar. Cabe recalcar que este torneo espera tener una medalla de perfil, así que algunos jugadores podrían ser descalificados por el osu staff.
-5. Cualquier miembro del staff exceptuando **Organizadores, Mappoolers (Selectores de Mapas) y Réferis** podrán participar.
-6. Se asumirá que los jugadores y el staff han leído las reglas durante todo el torneo. ¡Asegúrense de hacerlo!
-7. Todos los participantes deben ser respetuosos y mantener una actitud apropiada. No seguir estas reglas puede llevar a un baneo del torneo y estar dentro de la ''lista negra'' del mismo. Esta regla incluye al staff también.
-8. Todo tipo de cambio inesperado será avisado en este hilo y en el servidor de Discord.
+1. Advanced Global Taiko Showdown es un **torneo por equipos de 2 contra 2** con equipos de **máximo 5 jugadores**.
+2. Los equipos jugarán primero en una **fase de grupos** y después jugarán en una **fase de doble eliminación**.
+3. El sistema de puntuación que se utilizará es el **Score V2**.
+4. Cualquier jugador que cumpla los requisitos establecidos en la parte de restricciones de rango puede jugar. Dado que el objetivo del torneo es conseguir insignias, algunos jugadores podrían ser rechazados por el osu! staff.
+5. Cualquier miembro del personal, excepto **administración, selectores de la mappool y árbitros**, puede jugar.
+6. Los jugadores y los miembros del personal deben haber leído este reglamento en su totalidad. (Y asumiremos que lo han hecho durante todo el torneo).
+7. Todos los participantes deben ser respetuosos y mantener una actitud adecuada. No seguir esta regla puede resultar en una prohibición/lista negra del torneo. Esta regla concierne también a todo el personal.
+8. Cualquier cambio en las reglas o imprevisto será anunciado en el hilo y en el servidor de Discord.
 
-### Restricciones de Ranking
+### Restricciones de rango
 
-1. Debes estar entre los ranks #500 - #3,500 durante el período de registro. Este significa que debes estar en este rango hasta que termine el período de registro. Cabe recalcar que se será estricto con esta regla. Si te pasas de un rank (#501) o estás a menos de uno (#3501) cuando este período se acabe y se revisen los ranks, lamentablemente serás eliminado.
-2. No está permitido rankear por encima de #400 durante el torneo (después que el período de registro se haya acabado). Si se incumple esta regla, serás descalificado.
-3. Deberás registrate para el país al cual le debes la bandera en tu perfil.
-4. Debes unirte al servidor de Discord Del torneo.
+1. Debes estar dentro de los rangos #500 - #3500 durante las inscripciones. Esto significa que tienes que estar en este rango **hasta el final de las inscripciones**.
+2. No se te permite subir de rango más allá de **#400 durante el torneo**. Si superas este límite serás descalificado.
+3. Debes inscribirte con la bandera del país de tu perfil.
+4. Debes unirte al servidor de Discord del torneo.
 
-### Registro y creación de equipos
+### Registro en el torneo y creación de equipos
 
-1. Para participar tienes que es estar dentro de las **[Restricciones de Ranking](#restricciones-de-ranking)**, ubicadas en la sección con el mismo nombre.
-2. Los jugadores se registrarán individualmente. Cuando sean aceptados, se les otorgará un rol de país.
-3. El primer capitán del equipo (por defecto) será escogido por el staff del torneo, y se le enviará la lista de los jugadores disponibles para formar el equipo por mensaje privado de Discord.
-4. El staff puede rechazar a un jugador si se considera que el jugador tiene un nivel de habilidad que no esté acorde al torneo
-5. Este año aceptaremos dos equipos por país con ciertas condiciones:
-   - Hay **6 o más jugadores** registrados de un país.
-   - Cada equipo debe tener **al menos 3 jugadores.**
-6. El capitán escogido por el staff del torneo estará a cargo de escoger el roster (formación) del equipo, a menos que:
-   1. Hay 5 jugadores o menos registrados de un país. Esos jugadores formarán un equipo para representar a aquél país. En otros caso, el capitán será el que decida cómo se dividirán:
-   2. En caso de que haya más de 6 jugadores registrados por país, el roster deberá ser separado para que formen 2 equipos. Es recomendable establecer un acuerdo lo más rápido posible para así decidir el capitán y ser capaces de preparse para sus partidas y posibles propuestas de cambios de horario.
-   3. Si los jugadores no llegan a un acuerdo, los equipos serán divididos por ranking, con los de mayor rank en un equipo y los de menor en otro.
-7. El capitán será el responsable de los posibles cambios de horario si se necesita de uno, y tendrá que asegurarse de la presencia de sus compañeros en las partidas.
+1. Para participar es necesario cumplir los criterios indicados en la parte de **[restricciones de rango](#restricciones-de-rango)**.
+2. Los jugadores se inscriben individualmente. Cuando se acepte su registro, obtendrán un rol del país en el servidor de Discord.
+3. El primer capitán del equipo será elegido por el personal del torneo, y se le enviará la lista de todos los jugadores del país por MP del foro de osu!.
+4. El personal puede rechazar a un jugador si considera que la habilidad del jugador no encaja con el torneo.
+5. Este año permitimos 2 equipos por país bajo ciertas condiciones:
+   - Hay **6 o más jugadores** inscritos para un país.
+   - Cada equipo debe tener al menos 3 jugadores.
+6. El capitán elegido por el personal del torneo es el encargado de elegir la lista de equipo, a menos que:
+   1. Hay 5 jugadores o menos inscritos por un país, esos jugadores formarán el equipo que represente a su país. En los demás casos, será él quien decida cómo se hará.
+   2. En caso de que haya más de 6 jugadores inscritos por un país, la lista deberá separarse para formar 2 equipos. Se recomienda ponerse de acuerdo lo antes posible para luego decidir el capitán y poder programar y preparar sus partidos rápidamente.
+   3. En caso de que los jugadores no se pongan de acuerdo, serán clasificados por pp y puestos en los 2 equipos con al menos 3 miembros en cada uno de ellos con los mejores en un primer equipo y los más bajos en el segundo.
+7. El capitán será quien reprograme un partido si es necesario y se asegurará de que sus compañeros estén presentes en los partidos.
 
-### Regulaciones de etapa
+### Reglamento de la etapa
 
-1. Hay 7 etapas en este torneo: Eliminatorias, Fase de Grupos, Octavos de Final, Cuartos de final, Semifinales, Finales y Grandes Finales.
-2. Los equipos serán separados por seeds. Se les asignará sus seeds con el promedio de cada mapa jugado en las Eliminatorias.
-3. n caso de que hayan más de 32 equipos, solo el top 32 de las eliminatorias formarán parte del torneo.
-4. Los equipos serán distribuidos en **8 grupos de 4 equipos** durante los drawings show, que sucederá el Domingo 11 de Agosto.
-5. En la fase de grupos todos los equipos se enfrentarán a cada uno. Los **mejores 2 equipos del grupo** avanzarán a la siguiente etapa.
-6. Los rankings de cada grupo serán determinados por los resultados del rendimiento de cada equipo de la siguiente forma:
-   1. Más partidas ganadas.
-   2. Mayor (#de mapas ganados - #de mapas perdidos) puntaje.
-   3. Mayor cantidad de mapas ganados.
-   4. Ganador de la partida anterior entre los equipos empatados.
-7. En fase de grupos, "Win by Default" (abreviatura, WBD, significa perder por defecto/ausencia) será considera como una victoria (para el equipo que sí se presentó) de 4:0, y con un +1.00 de diferencia de puntaje.
-8. Las condiciones para ganar en cada etapa son:
-   - Fase de Grupos: Mejor de 9 (ganar 5 mapas)
-   - Octavos de final, Cuartos de final y Rondas 1 y 2 de Llave de perdedor: Mejor de 11 (ganar 6 mapas).
-   - Semifinales, Finales, Gran Finales y Rondas 3 y 4 de Llave de perdedor: Mejor de 13 (Ganar 7 mapas).
+1. En este torneo hay seis etapas: las clasificatorias, la fase de grupos, los cuartos de final, las semifinales, las finales y la gran final.
+2. El equipo será cabeza de serie con la media de sus rangos en cada mapa durante la ronda de clasificatorias.
+3. En caso de que haya más de 32 equipos inscritos, solo los 24 mejores de las clasificatorias pasarán al resto del torneo.
+4. Los equipos se sortearán en **6 grupos de 4** equipos durante un espectáculo de sorteos que tendrá lugar el domingo 11 de agosto.
+5. En la fase de grupos, todos los equipos de cada grupo se enfrentarán entre sí. Los **mejores 2 equipos** salen de los grupos y avanzan a la fase clasificatoria.
+6. La clasificación de cada grupo se determina ordenando los resultados de cada equipo según la siguiente prioridad:
+   1. Mayor número de partidos ganados.
+   2. Mayor puntuación (número de beatmaps ganados - número de mapas perdidos).
+   3. Mayor número de beatmaps ganados.
+   4. Ganador del partido jugado previamente entre los equipos empatados.
+7. En la fase de grupos, se considerará «victoria por ausencia» la victoria por 4:0, +1.0 de diferencia de puntuación.
+8. La condición para ganar en cada fase es
+   - Fase de grupos: BO9 (ganar 5 mapas)
+   - Cuartos de final: BO11 (ganar 6 mapas)
+   - Semifinales, finales y gran final: BO13 (ganar 7 mapas)
 
-### Los grupos de mapas
+### Instrucciones de la mappool
 
-1. Habra 1 mappool por cada etapa: Eliminatorias, Fase de Grupos, Octavos de Final, Cuartos de final, Semifinales, Finales y Grandes Finales.
-2. Las Rondas de LP serán jugadas con el mismo mappool de la Ronda original de la misma semana.
-3. El mappool de las Eliminatorias será diferente al resto de rondas, pues será constituído por el siguiente formato: 2 NoMod , 1 Hidden, 1 HardRock y 1 Double Time.
-4. Cada mappool consiste en 7 tipos: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker (mapa para desempate).
-5. El mappool consiste en 20 mapas.
-6. La cantidad de mapas de Hidden, HardRock and DoubleTime será de 2, y 3 para FreeMod en todas las etapas.
-7. Los mapas EX serán jugados sin ningún mod, y es una versión mucho más difícil de los No Mod. Los EX suelen ser mapas muy técnicos, rápidos, etc, que requieren de especial práctica.
-8. Los mapas FreeMod serán jugados con "Mods libres" activado. Cada jugador podrá colocarse **Hidden, HardRock o ambos mods. Al menos uno de los jugadores deberá tener un mod puesto (no pueden jugar ambos sin mod).**
-9. El Tiebraker será jugado con los Mods activados pero no es necesario colocarse un mod, y no es obligación que al menos uno de los jugadores utilice un mod.
-10. El mappool de cada etapa será presentado y publicado uan semana antes.
+1. Habrá 1 mappool para cada una de las siguientes fases: clasificatorias, fase de grupos, cuartos de final, semifinales, finales y gran final.
+2. El bracket de perdedores jugará en el mismo grupo que el bracket de ganadores del mismo fin de semana.
+3. La pool de las clasificatorias será diferente al resto de rondas, ya que tendrá un formato de 2 mapas NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 mapa DoubleTime.
+4. Cada mappool consta de 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod y Desempate.
+5. Cada mappool constará de 20 mapas.
+6. El tamaño de los brackets Hidden, HardRock, DoubleTime y FreeMod será de 3 en todas las etapas.
+7. El bracket EX se jugará sin mods activados y es la versión más difícil de NoMod, contiene mapas con técnicas de mapping complicadas, cambios de velocidad, etc.
+8. La pool FreeMod se juega con FreeMod activado. Cada jugador individual puede elegir **Hidden, HardRock o ambos. Al menos un jugador de cada equipo debe tener al menos un mod activado**.
+9. El Tiebreaker se juega en condiciones FreeMod pero no es necesario que al menos un jugador tenga al menos un modo activado.
+10. El mappool de cada etapa se presentará una semana antes.
 
-### Instrucciones de horarios
+### Instrucciones de programación
 
-1. Cada etapa se llevará a cabo **durante el fin de semana.** (aunque también está permitido cambiar el horario a otro día si ambos equipos no logran coincidir un fin de semana)
-2. Las partidas podrán suceder al mismo tiempo si hay un árbitro disponible.
-3. Trataremos de hacer los mejores horarios que estén de acuerdo con las zonas horarias. Estos saldrán una semana antes del comienzo de la etapa.
-4. Los cambios de horario serán considerados únicamente si ambos equipos están de acuerdo con ello. Todo cambio tendrá que ser notificado al staff del torneo antes de las **00:00 UTC de cada Jueves** durante la semana que tu partida se dará a cabo.
-5. os cambios de horario solo podrán ser pedidos por **los capitanes.**
+1. Cada etapa se celebrará **durante el fin de semana**. (No obstante, se permite programar otro día si no se encuentra un buen momento durante el fin de semana).
+2. Se permite que los partidos se solapen si hay árbitros disponibles.
+3. Intentaremos programar lo mejor posible para ajustarnos a las zonas horarias. El horario se dará a conocer el fin de semana anterior de cada etapa.
+4. Las reprogramaciones solo se tendrán en cuenta si ambos equipos acuerdan una hora, esto debe hacerse y notificarse al personal del torneo antes del **jueves a las 23:59 UTC+0** de esa semana concreta en la que se celebra tu partido.
+5. Las reprogramaciones solo podrán ser solicitadas por **el capitán del equipo**.
 
-### Regulaciones de partida
+### Regulaciones del partido
 
-1. Una sala privada será creada 10 minutos antes de la partida por un árbitro. Ambos capitanes servicios invitados a la sala cuando sea tiempo. Luego los capitanes o los árbitros invitarán al resto de jugadores a la sala.
-2. Si no hay ningún árbitro o miembro del staff disponible, la partida será pospuesta.
-3. Si menos del mínimo de jugadores requeridos para la partida atiende, el tiempo máximo que la misma puede ser pospuesta es 10 minutos.
-4. Si ninguno de los dos equipos tiene suficientes jugadores después de 10 minutos del tiempo original de inicio de partida, contará como una pérdida para ambos equipos en la Fase de Grupos. En las siguientes etapas, el equipo con mayor seed (rank) avanzará de etapa.
-5. Las partidas serán jugadas en un formato de TeamVs y con ScoreV2, y el nombre de la sala deberá ser del siguiente formato: "AGTS2019: (Team Red) vs (Team Blue)".
-6. Cada equipo tendran el derecho de jugar un mapa de calentamiento, menor a 4 minutos. Todos los jugadores del equipo serán permitidos dentro de la sala durante los calentamientos.
-7. Cada capitán debe banear **un beatmap** a seleccionar (aparte del Tiebreaker). Estos mapas no serán permitidos de escoger por el resto de la partida.
-8. Los capitanes de cada equipo deberán "lanzar los dados" (roll) con el comando `!roll` en el chat.
-9. El equipo con el **el roll más alto baneará segundo y escogerá primero.** El equipo con **el roll más bajo baneará primero y escogerá segundo.**
-10. A partir de eso, el proceso de selección de mapas alternará entre los dos capitanes de cada equipo.
-11. Los capitanes podrán escoger cualquier mapa que no esté baneado de cualquier bracket.
-12. El cambio de jugadores durante la partida está permitido sin ningún tipo de restricción y/o límite.
-13. Si un jugador se desconecta durante la partida y equipo no posee otro jugador para reemplazarlo, el máximo tiempo de espera es de 10 minutos.
-14. Si un jugador se desconecta durante un mapa, será considerado como si hubiese fallado el mismo.
-15. Las deconexiones que se den antes de pasar 30 segundos del mapa pueden ser re-jugadas. Esto solo está permitido una vez por equipo.
-16. Los puntajes fallidos no serán añadidos al puntaje de equipo.
-17. Si un mapa termina en empate, el juego será anulado y el mapa se volverá a jugar.
-18. En caso de empate (por ejemplo, ambos equipos llevan 4 mapas ganados en una partida de mejor de 9), el Tiebreaker será jugado.
+1. Un árbitro creará una sala privada 10 minutos antes del partido. Los capitanes de ambos equipos serán invitados a la sala cuando sea la hora del partido. A continuación, los árbitros o los capitanes invitarán a los demás jugadores a entrar en la sala.
+2. Si no hay personal o árbitro disponible, el partido se aplazará.
+3. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se puede aplazar el partido es de 10 minutos.
+4. Si ninguno de los dos equipos tiene el mínimo de jugadores requeridos después de 10 minutos, contará como una derrota para ambos equipos en la fase de grupos. En el cuadro de doble eliminación, avanzará el equipo mejor clasificado.
+5. El partido se jugará como TeamVs y ScoreV2 y el nombre de la sala debe ser: «AGTS 2019: (Equipo Rojo) vs (Equipo Azul)».
+6. A cada equipo se le permite un calentamiento, pero debe ser inferior a 4 minutos. Todo el mundo puede entrar en la sala durante el calentamiento.
+7. Cada capitán tiene que prohibir **un beatmap** para ser seleccionado de la pool (aparte del desempate). Estos beatmaps no podrán ser elegidos por ningún equipo en todo el partido.
+8. El capitán de cada equipo tirará con el comando `!roll` en el chat.
+9. El equipo con **la tirada más alta prohibe segundo y elige primero**. El equipo con **la tirada más baja prohibe primero y elige segundo**.
+10. La selección del beatmap alternará entonces entre cada capitán seleccionando un beatmap de la map pool.
+11. Los capitanes podrán elegir libremente de cualquier bracket.
+12. El intercambio de jugadores durante un partido está permitido sin limitaciones.
+13. Si un jugador se desconecta entre los beatmaps y el equipo no puede proporcionar un intercambio, el partido puede retrasarse 10 minutos como máximo.
+14. Si un jugador se desconecta, será tratado como si hubiera fallado el mapa.
+15. Los jugadores que se desconecten en los 30 segundos siguientes al inicio del beatmap podrán volver a emparejarse. Esto solo se permite una vez por equipo.
+16. Las puntuaciones de los jugadores que fallan no se suman a la puntuación del equipo.
+17. Si el beatmap termina en empate, la partida será anulada y se volverá a jugar el mapa.
+18. En caso de empate a puntos (ejemplo: 4-4 en BO9), se elige el desempate.
 
-### Reglas de All-star
+### Reglas del all-star
 
-All-star es un evento especial que se llevará a cabo en la semana de las Grandes Finales! Demostrará a los mejores jugadores del torneo jugando y compitiendo entre ellos en dos diferentes tipos de partidas.
+All-star es un divertido evento que tendrá lugar el mismo fin de semana que la gran final. En él se enfrentarán los mejores jugadores del torneo en dos tipos de partidos diferentes.
 
-1. 12 jugadores participarán en este evento. Serán escogidos mediante votaciones.
-2. Los top 12 de las votaciones participarán en el evento y los top 2 serán los capitanes de cada equipo. Si hay más de 2 jugadores de un mismo país dentro de los 12 más votados, solo los mejores 2 formarán parte de este evento.
-3. Los capitanes escogerán a los integrantes de su equipo que estén dentro de los 10 restantes de lo más votados. El 2ndo jugador más votado escogerá primero.
-4. 2 partidas con formato de battle royale 3vs3 con una lista de mapas de 12 (2NM, HR, DD, DT, FM y EX) tomarán a cabo primero. (EX = mapas más difíciles de los acostumbrado) Los mapas serán escogidos aleatoriamente por una rueda de la suerte.
-5. Una partida 4 vs 4 también se llevará a cabo con las siguientes reglas:
-   - Paquete de mapas de 5 NM,HR,HD,DT,FM,EX y 1 TB (Las reglas de mods de las partidas normales aplican aquí también).
-   - No bans. Los bans están prohibidos.
-   - Los mods serán escogidos aleatoriamente por un `!roll` (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
-   - El cambio de jugadores está permitido sin limitaciones durante toda la partida.
-   - Mismas reglas de desconexión que en las reglas normales aplican.
+1. En este evento participarán 12 jugadores. Se decidirán por votación.
+2. Los 12 mejores jugadores jugarán en el all-star. Si hay más de 2 jugadores de un país entre los 12 más votados solo los 2 mejores participarán en el all-star.
+3. Los 2 jugadores más votados serán los capitanes de cada equipo y elegirán en la lista de los siguientes 10 jugadores más votados. El jugador más votado empezará a elegir primero. La votación se hará al estilo «snake draft picking», así es como funcionará: A->B->B->A->A->B->B->A->A->B.
+4. En primer lugar, se celebrarán 2 partidos de battle royale 3 contra 3 con un mappool de 12 mapas (2 NM,HR,HD,DT,FM,EX). (EX = mapas más difíciles) Los mapas se eligen al azar con un generador de nombres aleatorios a través de la rueda giratoria.
+5. También se celebrará un partido 4 contra 4 con las siguientes reglas:
+   - Mappool de 5 NM, HR, HD, DT, FM, EX, y 1 TB (mismas reglas para mods y partidos normales).
+   - No se dispondrá de canalizaciones de mapas.
+   - El mod utilizado se elegirá al azar según una tirada (de acuerdo con una tabla) y después se elegirá el mapa.
+   - El intercambio de jugadores durante un partido está permitido sin limitaciones.
+   - Mismas reglas que en un partido normal para las desconexiones.

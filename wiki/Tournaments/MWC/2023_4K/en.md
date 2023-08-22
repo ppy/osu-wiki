@@ -46,8 +46,8 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 | Mappool selector | ::{ flag=US }:: **[-mint-](https://osu.ppy.sh/users/8976576)**, ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479) |
 | Mappool playtester | ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=TH }:: [nanonbandusty](https://osu.ppy.sh/users/15543726), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155) |
 | Mapper | ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=CN }:: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=US }:: [Halogen\-](https://osu.ppy.sh/users/169992), ::{ flag=CL }:: [hna](https://osu.ppy.sh/users/12335541), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=CA }:: [Pizza69](https://osu.ppy.sh/users/25285704), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| SV mapper/helper | ::{ flag=FR }:: **[Paturages](https://osu.ppy.sh/users/1375479)**, ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=BR }:: [Halo\-](https://osu.ppy.sh/users/7572142), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Commentator | *TBA* |
+| SV mapper/helper | ::{ flag=FR }:: **[Paturages](https://osu.ppy.sh/users/1375479)**, ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -56,6 +56,8 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxmrcTQ40eHwqYDAjqfYxher3bkH-uFYBVm0Z6DNHLwll52YUrEA9-gNrxNOX0X5CsCHyDBH9FKxrM/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/125) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K_2023)
 
 ## Participants
 
@@ -109,7 +111,83 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
+## Match schedule: Round of 16
+
+### Saturday, 26 August 2023
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Aug 26 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T100000&p1=1440&p2=248&p3=236) | [osulive](https://twitch.tv/osulive) |
+| Philippines ::{ flag=PH }:: | ::{ flag=ES }:: Spain | [Aug 26 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T110000&p1=1440&p2=145&p3=141) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | [Aug 26 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T120000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) |
+| Finland ::{ flag=FI }:: | ::{ flag=RU }:: Russian Federation | [Aug 26 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T130000&p1=1440&p2=101&p3=166) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=HK }:: Hong Kong | [Aug 26 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T150000&p1=1440&p2=45&p3=102) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=CA }:: Canada | [Aug 26 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T160000&p1=1440&p2=108&p3=188) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Aug 26 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T180000&p1=1440&p2=263&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Venezuela ::{ flag=VE }:: | ::{ flag=MX }:: Mexico | [Aug 26 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230826T200000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 27 August 2023
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Colombia ::{ flag=CO }:: | ::{ flag=AU }:: Australia | [Aug 27 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T040000&p1=1440&p2=41&p3=57) | [osulive](https://twitch.tv/osulive) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=TH }:: Thailand | [Aug 27 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T100000&p1=1440&p2=95&p3=28) | [osulive](https://twitch.tv/osulive) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=IT }:: Italy | [Aug 27 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T110000&p1=1440&p2=241&p3=215) | [osulive](https://twitch.tv/osulive) |
+| Sweden ::{ flag=SE }:: | ::{ flag=MY }:: Malaysia | [Aug 27 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T120000&p1=1440&p2=239&p3=122) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Aug 27 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) |
+| Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Aug 27 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T160000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) |
+| Argentina ::{ flag=AR }:: | ::{ flag=NL }:: Netherlands | [Aug 27 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T170000&p1=1440&p2=51&p3=16) | [osulive](https://twitch.tv/osulive) |
+| Ukraine ::{ flag=UA }:: | ::{ flag=PE }:: Peru | [Aug 27 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230827T180000&p1=1440&p2=367&p3=131) | [osulive](https://twitch.tv/osulive) |
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (147 MB)](https://packs.ppy.sh/P220%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2016.zip)**
+
+- Rice
+  1. [IV OF SPADES - Come Inside My Heart (Sped Up Ver.) (bad hd player) \[Boundaries 1.05x (158bpm)\]](https://osu.ppy.sh/beatmapsets/1943116#mania/4242933)
+  2. [Falcom Sound Team jdk - Infinity Rage (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1637362#mania/3341549)
+  3. [Falcom Sound Team jdk - Lift-off! (lemonguy) \[Valimar x1.05\]](https://osu.ppy.sh/beatmapsets/2034984#mania/4242761)
+  4. [OSTER project - innocent revolver (Mipha-) \[WirryWoo & bmah's Challenge 1.05x (163bpm)\]](https://osu.ppy.sh/beatmapsets/2048077#mania/4276109)
+  5. [felys feat. Yoko Natsukawa - Celsus (0DZ0) \[Extra 1.05x (173bpm)\]](https://osu.ppy.sh/beatmapsets/2048071#mania/4276098)
+  6. [Reizoko Cj - Happy Arnold=) (hi19hi19) \[Nice To Meet You=)\]](https://osu.ppy.sh/beatmapsets/2040243#mania/4256058)
+- Hybrid
+  1. [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (\[Crz\]FolAH1217) \[Bittersweet (edit 1.1x)\]](https://osu.ppy.sh/beatmapsets/2044480#mania/4267194)
+  2. [BlackY fused with WAiKURO - Alea jacta est! (xi Remix) \[Short Edit\] (HowToPlayLN) \[Terminus\]](https://osu.ppy.sh/beatmapsets/2047935#mania/4275868)
+  3. [nitro - amygdata (-mint-) \[synapse\]](https://osu.ppy.sh/beatmapsets/2048073#mania/4276105)
+- Long Note
+  1. [sasakure.UK + UKRampage - FUTURE EVE feat. Hatsune Miku (Hytex) \[METAVERSE\]](https://osu.ppy.sh/beatmapsets/2048074#mania/4276106)
+  2. [Seiryu - AO-Infinity (-mint-) \[Everlasting\]](https://osu.ppy.sh/beatmapsets/2048072#mania/4276104)
+  3. [Toromaru - Deorbit (elexire) \[Asynchrony\]](https://osu.ppy.sh/beatmapsets/2048064#mania/4276082)
+- SV
+  1. [Getty - Mr. Scratch Man (Cut Ver.) (AlexDunk) \[:mr.skullman:\]](https://osu.ppy.sh/beatmapsets/2048067#mania/4276089)
+  2. [Yunosuke feat. Sennzai - Komplexe (notapplicable) \[Kurohime's Counterattack\]](https://osu.ppy.sh/beatmapsets/2048005#mania/4275989)
+- Tiebreaker
+  1. **[Frums - of Ambrosia (-mint-) \[4K Elixir\]](https://osu.ppy.sh/beatmapsets/1900478#mania/3917445)**
+
+### Round of 32
+
+**[Download the mappack here (101 MB)](https://packs.ppy.sh/P219%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
+
+- Rice
+  1. [Kugimiya Rie - Hajimete Shimasho! (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1999823#mania/4157435)
+  2. [DJ Sharpnel - LITTLE GOD CH@NNEL (LeiN-) \[Laevateinn Sword 1.15x (217bpm)\]](https://osu.ppy.sh/beatmapsets/2022076#mania/4211268)
+  3. [cosMo@BousouP - Hopeful Frontier!!! (Mipha-) \[bmah's Challenge\]](https://osu.ppy.sh/beatmapsets/2044090#mania/4266250)
+  4. [STAYC - POPPY (Cut Ver.) (hna) \[Lover\]](https://osu.ppy.sh/beatmapsets/2044114#mania/4266308)
+  5. [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size) (Shoegazer) \[WOODCHITA\]](https://osu.ppy.sh/beatmapsets/1874786#mania/4267958)
+- Hybrid
+  1. [ARM - Water Lily (elexire) \[Lotus (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266313)
+  2. [Jun Kuroda - Cybernetics (RuleBlazing) \[Risky Algorithm 1.1x\]](https://osu.ppy.sh/beatmapsets/2044116#mania/4266311)
+- Long Note
+  1. [GFRIEND - Tarot Cards (fvrex) \[Predetermined Fate\]](https://osu.ppy.sh/beatmapsets/2044079#mania/4266234)
+  2. [Lime - 8bit Voyager (Toaph Daddy) \[Rocketeer\]](https://osu.ppy.sh/beatmapsets/2044115#mania/4266309)
+  3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
+- SV
+  1. [NewJeans - OMG (ZSunder remix) (RuleBlazing) \[rabbit\]](https://osu.ppy.sh/beatmapsets/2044122#mania/4266321)
+  2. [Tanchiky - ULTRA SYNERGY MATRIX (H1Pur) \[ICBM\]](https://osu.ppy.sh/beatmapsets/2044125#mania/4266332)
+- Tiebreaker
+  1. **[ikaruga\_nex - SICK ROCK CRAZY (-mint-) \[NOW LET ME SEE YOU DROP IT\]](https://osu.ppy.sh/beatmapsets/2044131#mania/4266340)**
 
 ### Qualifiers
 
@@ -123,6 +201,88 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 6. [Camellia - onslaught -Retaliation of Bahamut- (guden) \[Stage 6: Massacre\]](https://osu.ppy.sh/beatmapsets/2039253#mania/4253513)
 7. [katagiri - AMEN KATAGIRI GENERATION (-mint-) \[Stage 7: Revival\]](https://osu.ppy.sh/beatmapsets/2039237#mania/4253489)
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
+
+## Match results
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1zrEQoKY8FULXYRhIxs5pKUn4L30Tvc3Kbrx85CyEBTg/edit?rm=minimal).
+
+Saturday, 19 August 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/110064568) | [#1](https://www.twitch.tv/videos/1902951645) |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/110064993) | [#1](https://www.twitch.tv/videos/1902951645?t=0h38m34s) |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/110065554) | [#1](https://www.twitch.tv/videos/1902951645?t=1h9m24s) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/110066205) | [#1](https://www.twitch.tv/videos/1902951645?t=1h41m4s) |
+| **Spain** ::{ flag=ES }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/110066881) | [#1](https://www.twitch.tv/videos/1902939533) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/110066824) | [#1](https://www.twitch.tv/videos/1902951645?t=2h14m34s) |
+| **Vietnam** ::{ flag=VN }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/110068138) | [#1](https://www.twitch.tv/videos/1902995807) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/110068488) | [#1](https://www.twitch.tv/videos/1903004517) |
+
+Sunday, 20 August 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | [#1](https://osu.ppy.sh/community/matches/110077941) | [#1](https://www.twitch.tv/videos/1903633246) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/110082166) | [#1](https://www.twitch.tv/videos/1903791701) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/110082731) | [#1](https://www.twitch.tv/videos/1903791701?t=0h37m10s) |
+| **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/110086957) | [#1](https://www.twitch.tv/videos/1904224585) |
+| Peru ::{ flag=PE }:: | 2 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/110087037) | [#1](https://www.twitch.tv/videos/1904226490) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/110087783) | [#1](https://www.twitch.tv/videos/1904224585?t=0h40m18s) |
+| **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/110088553) | [#1](https://www.twitch.tv/videos/1904224585?t=1h19m29s) |
+| Mexico ::{ flag=MX }:: | 3 | **5** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/110089553) | [#1](https://www.twitch.tv/videos/1904224585?t=1h53m41s) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/10cHUoOHx4uAI-tNsVLTyOVLSFldaG8yg7IRzgbOXNEU/edit?rm=minimal).
+
+| Seed | Country | rating sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | :-- | :-- |
+| #1 | ::{ flag=KR }:: South Korea | 2.69 | 2,978,429 |
+| #2 | ::{ flag=US }:: United States | 2.795 | 2,980,163 |
+| #3 | ::{ flag=JP }:: Japan | 4.35 | 2,976,461 |
+| #4 | ::{ flag=PH }:: Philippines | 5.805 | 2,971,789 |
+| #5 | ::{ flag=BR }:: Brazil | 5.97 | 2,970,409 |
+| #6 | ::{ flag=ID }:: Indonesia | 6.935 | 2,963,358 |
+| #7 | ::{ flag=CL }:: Chile | 7.01 | 2,969,126 |
+| #8 | ::{ flag=VN }:: Vietnam | 8.595 | 2,966,144 |
+| #9 | ::{ flag=TH }:: Thailand | 9.36 | 2,959,041 |
+| #10 | ::{ flag=CN }:: China | 9.37 | 2,966,153 |
+| #11 | ::{ flag=CA }:: Canada | 10.915 | 2,959,954 |
+| #12 | ::{ flag=HK }:: Hong Kong | 11.865 | 2,953,057 |
+| #13 | ::{ flag=ES }:: Spain | 15.225 | 2,952,472 |
+| #14 | ::{ flag=SG }:: Singapore | 15.845 | 2,948,277 |
+| #15 | ::{ flag=PE }:: Peru | 16.025 | 2,944,132 |
+| #16 | ::{ flag=MX }:: Mexico | 16.74 | 2,942,984 |
+| #17 | ::{ flag=GB }:: United Kingdom | 18.085 | 2,933,748 |
+| #18 | ::{ flag=FR }:: France | 19.02 | 2,938,687 |
+| #19 | ::{ flag=AU }:: Australia | 19.705 | 2,924,902 |
+| #20 | ::{ flag=RU }:: Russian Federation | 20.08 | 2,924,817 |
+| #21 | ::{ flag=MY }:: Malaysia | 20.92 | 2,932,322 |
+| #22 | ::{ flag=IT }:: Italy | 21.33 | 2,922,791 |
+| #23 | ::{ flag=PL }:: Poland | 21.995 | 2,904,610 |
+| #24 | ::{ flag=NL }:: Netherlands | 23.49 | 2,908,577 |
+| #25 | ::{ flag=AR }:: Argentina | 23.77 | 2,899,815 |
+| #26 | ::{ flag=DE }:: Germany | 25.05 | 2,909,806 |
+| #27 | ::{ flag=TW }:: Taiwan | 26.045 | 2,880,408 |
+| #28 | ::{ flag=SE }:: Sweden | 26.61 | 2,901,906 |
+| #29 | ::{ flag=FI }:: Finland | 27.61 | 2,895,313 |
+| #30 | ::{ flag=CO }:: Colombia | 28.38 | 2,853,744 |
+| #31 | ::{ flag=UA }:: Ukraine | 29.47 | 2,866,572 |
+| #32 | ::{ flag=VE }:: Venezuela | 32.09 | 2,846,653 |
+| #33 | ::{ flag=RO }:: Romania | 32.785 | 2,808,878 |
+| #34 | ::{ flag=CH }:: Switzerland | 34.44 | 2,811,460 |
+| #35 | ::{ flag=GT }:: Guatemala | 34.78 | 2,723,176 |
+| #36 | ::{ flag=DK }:: Denmark | 35.575 | 2,815,193 |
+| #37 | ::{ flag=PR }:: Puerto Rico | 36.68 | 2,788,363 |
+| #38 | ::{ flag=NO }:: Norway | 36.915 | 2,740,152 |
+| #39 | ::{ flag=CZ }:: Czechia | 37.88 | 2,759,092 |
+| #40 | ::{ flag=AT }:: Austria | 38.655 | 2,755,957 |
+| #41 | ::{ flag=PA }:: Panama | 40.145 | 2,595,515 |
+| #42 | ::{ flag=HN }:: Honduras | *DNP* | *DNP* |
+| #42 | ::{ flag=SA }:: Saudi Arabia | *DNP* | *DNP* |
 
 ## Ruleset
 
@@ -254,8 +414,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
-   - **A team that does not pick a time slot by August 10, 2023 (23:59 UTC) will be considered disqualified.**
+2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
+   - **Teams that do not pick a time slot by August 10, 2023 (23:59 UTC) will be disqualified from the competition.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
@@ -264,3 +424,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
