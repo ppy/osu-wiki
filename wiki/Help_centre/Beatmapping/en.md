@@ -45,7 +45,7 @@ If you are still having issues or want more information on this, have a read thr
 
 Stolen beatmaps are treated as a form of copyright infringement, and as such, their removal is subject to legal procedures. 
 
-Please do **not** file your report using either [the in-game `!report` command](/wiki/Reporting_bad_behaviour#in-game-chat) or [the osu! website](/wiki/Reporting_bad_behaviour#website), as members of the [NAT](https://osu.ppy.sh/wiki/en/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) who handle these reports are not equipped to address legal matters.
+Please do **not** file your report using either [the in-game `!report` command](/wiki/Reporting_bad_behaviour#in-game-chat) or [the osu! website](/wiki/Reporting_bad_behaviour#website), as members of the [NAT](/wiki/People/Nomination_Assessment_Team) and [GMT](/wiki/People/Global_Moderation_Team) who handle these reports are not equipped to handle legal matters.
 
 ## How can I delete my beatmap? {id=delete-beatmap}
 
