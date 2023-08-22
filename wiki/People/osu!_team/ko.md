@@ -82,7 +82,7 @@ tags:
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, 멋진 물건 제작자 - 기상천외한 남자 |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 오리지널 [pippi](/wiki/Mascots#pippi) 컨셉트와 원화 디자이너 |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 초창기 커뮤니티 매니저 및 리더, Meeting Minutes와 자주 묻는 질문 창시자 |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 개발자
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 개발자 |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! 및 [퍼포먼스 포인트](/wiki/Performance_points) 개발자 |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 매니저, 커뮤니티 자문가, 공식 아티스트 지원 |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [공식 아티스트](https://osu.ppy.sh/beatmaps/artists/22), 모딩 및 매핑 자문가 |
