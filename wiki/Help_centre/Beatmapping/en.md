@@ -33,7 +33,7 @@ In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the 
 
 If it isn't, manually change it for every difficulty in your beatmap, reload the beatmap, and you should be able to submit it.
 
-If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
+If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_issues).
 
 ## I am an osu!supporter, but I don't have 20 pending slots! {id=upload-slots}
 
