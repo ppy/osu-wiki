@@ -76,8 +76,8 @@ tags:
 osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以在主菜单点击屏幕右侧垂直的 `osu!direct` 标识进入。除了一个内置的谱面列表，osu!direct 还提供其他不需要切出游戏就可以下载新谱面的方式：
 
 - 如果聊天窗口中的谱面链接指向 osu! 网页的谱面，可以直接在游戏内弹出下载提示
-- 可以在[多人游戏](/wiki/Client/Interface/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内[可选设置](/wiki/Client/Options#integration)
-- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#alerts-and-privacy)
+- 可以在[多人游戏](/wiki/Client/Interface/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内的[可选设置](/wiki/Client/Options#关联)
+- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#提示与隐私)
 
 ### 额外排行榜
 
@@ -110,7 +110,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 | `welcome.wav` | 游戏启动时播放的 "welcome to osu!" 音效 |
 | `seeya.wav` | 游戏关闭时播放的 "see ya next time" 音效 |
 
-获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#主菜单) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
+获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#主菜单) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#主菜单)。
 
 ### 额外搜索
 
