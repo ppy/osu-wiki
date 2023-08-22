@@ -1,6 +1,8 @@
 ---
 tags:
   - DS
+outdated_translation: true
+outdated_since: 840467763787a24ac46bdd12d99af1cba9701e49
 ---
 
 # Distance snap

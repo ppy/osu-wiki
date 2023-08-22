@@ -4,6 +4,8 @@ tags:
   - osu!pixel
   - coordinate system
   - sistema de coordenadas
+outdated_translation: true
+outdated_since: 1d7369f5a10f8a4a105ce72a2f89879a62c08912
 ---
 
 # osupixel
