@@ -26,7 +26,7 @@ The **playfield** is a portion of the game window where [hit objects](/wiki/Game
 ![](img/playfield-854x480.png "The osu! window (purple) with the playfield (blue), 16:9 aspect ratio.")
 :::
 
-The playfield's coordinate system uses resolution-independent units called **game pixels**, or osu! pixels, such that a game pixel is equivalent to a pixel when osu! is running at a 640x480 resolution. On higher resolutions, the visual size of game pixels stays the same.
+The playfield's coordinate system uses resolution-independent units called **game pixels**, or osu! pixels, such that a game pixel is equivalent to a pixel when osu! is running at a 640x480 resolution. On higher resolutions, the visual size of game pixels stays the same. The playfield is slightly shifted vertically, placed 8 game pixels lower than the window's centre.
 
 The [beatmap editor](/wiki/Client/Beatmap_editor)'s grid is 512x384 game pixels.
 
