@@ -78,6 +78,8 @@ At 2022's [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), one of
 
 osu!(lazer) received an additional feature, making it possible to create mod presets from the mod select screen that save mod combinations and their settings.[^presets]
 
+[0x84f](https://osu.ppy.sh/users/7944724) held an interview together with [nekodex](https://osu.ppy.sh/users/102) about the sound design in osu!(lazer) and how audio for menus and buttons is produced, for which nekodex is responsible.[^nekodex-sound]
+
 ## September
 
 [Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305), and [Feint](https://osu.ppy.sh/beatmaps/artists/306) joined osu! as Featured Artists.
@@ -175,6 +177,7 @@ In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/ne
 
 [^coe-osu-infra]: [YouTube video by peppy (2022-08-07) ""osu! infrastructure" dev talk at #COE2022"](https://www.youtube.com/watch?v=HVBVqvpFVL4)
 [^presets]: [Pull request by bdach (2022-08-07) "Add mod preset column to solo mod select overlay"](https://github.com/ppy/osu/pull/19622)
+[^nekodex-sound]: [News post by 0x84f (2022-08-31) "The Sound Design of osu!(lazer)"](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer)
 
 [^15-anniversary-results]: [News post by Ephemeral (2022-09-15) "15th Anniversary Art Contest Results"](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results)
 [^15-celebration]: [YouTube video by 2th - osu! Archive (2022-09-18) "[Live] ppy | celebrating 15 years of osu! {09-17-2022}"](https://www.youtube.com/watch?v=xEfXbNbkIvw)
