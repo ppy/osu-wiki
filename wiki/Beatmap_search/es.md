@@ -52,7 +52,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
 | `played` | Tiempo desde la última partida en días |
 | `unplayed` | Mostrar solo mapas no jugados. Se debe utilizar una comparación sin valor establecido (p. ej. `unplayed=`). La comparación en sí se ignora. |
-| `speed` | Velocidad de desplazamiento de osu!manía guardada. La velocidad de desplazamiento siempre es 0 para mapas no jugados o si la opción [`Recordar la velocidad de desplazamiento de cada mapa en osu!mania`](/wiki/Client/Options#juego) está desactivada. |
+| `speed` | Velocidad de desplazamiento de osu!mania guardada. La velocidad de desplazamiento siempre es 0 para mapas no jugados o si la opción [`Recordar la velocidad de desplazamiento de cada mapa en osu!mania`](/wiki/Client/Options#juego) está desactivada. |
 
 ## Sitio web[^website-filters]
 
