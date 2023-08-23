@@ -152,7 +152,7 @@ Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sekti
 - `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war oder osu!supporter verschenkt hat.
 - `{Benutzername} hat osu!supporter als Geschenk erhalten!`, für den Fall, dass das Tag verschenkt wurde.
 
-Der Schenkende kann dieses Event auf ihrem eigenen Profil verbergen, indem während der Bezahlung `Alle osu!supporter-Tags in dieser Bestellung aus meiner Aktivität ausblenden` aktiviert wird. Dies ist nützlich für anonyme Geschenke, weil es verhindert, dass der Empfänger die Profilaktivität abgleichen kann.
+Der Schenkende kann dieses Event auf seinem eigenen Profil verbergen, indem während der Bezahlung `Alle osu!supporter-Tags in dieser Bestellung aus meiner Aktivität ausblenden` aktiviert wird. Dies ist nützlich für anonyme Geschenke, weil es verhindert, dass der Empfänger die Profilaktivität abgleichen kann.
 
 Zusätzlich wird der Schenkende und der Empfänger eine E-Mail-Benachrichtigung erhalten, die den Kauf erwähnt.
 
