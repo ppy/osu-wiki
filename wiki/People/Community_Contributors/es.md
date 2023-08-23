@@ -60,9 +60,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | :-- | :-- |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundación de la [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + contribuidor de las noticias |
-| ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Presencia excepcional de moderación (10k+ asesinatos) |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación (10k+ asesinatos) |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (30k+ asesinatos) |
+| ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Presencia excepcional de moderación (10k+ víctimas) |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación (10k+ víctimas) |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (30k+ víctimas) |
 | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Desarrollo de revolucionarias utilidades de storyboarding (SGL) |
 | ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - Desarrollo del kit de herramientas de bots de osu! en Twitch |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Desarrollo del bot de recomendación de beatmaps |
