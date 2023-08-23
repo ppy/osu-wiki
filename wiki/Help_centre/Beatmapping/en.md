@@ -41,7 +41,7 @@ If you are still having issues or want more information on this, have a read thr
 
 ## My beatmap/content has been re-uploaded by another user without my consent, and I want the infringing copy to be taken down! {id=report-content-dmca}
 
-**Please file a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](https://osu.ppy.sh/legal/en/Copyright).**
+**Please file a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](/Legal/Copyright).**
 
 Any kind of content uploaded without permission can be handled as copyright infringement if the original owner so wishes. Requesting removal requires a legal procedure in order to ensure fair proceedings.
 
