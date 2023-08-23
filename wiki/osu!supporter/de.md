@@ -3,11 +3,11 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
-outdated_translation: true
-outdated_since: 4d8cf437cadc19ef38923c11bf958399886062bb
 ---
 
 # osu!supporter
+
+![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)
 
 **osu!supporter** (oder das ***osu!supporter-Tag***) ist ein zeitlich begrenzter Titel, der Spielern verliehen wird, die osu! durch eine freiwillige Geldspende unterstützen, um das Spiel zu fördern. Unterstützer erhalten eine handvoll kosmetischer und technischer Vorteile, von denen die meisten nur aktiv sind, wenn der Titel vorhanden ist. Die zusätzlichen Funktionen von osu!supporter geben keinen Vorsprung im Gameplay, in der Leistung oder dem Erreichen von Scores und werden es auch nie.
 
@@ -54,9 +54,9 @@ Die `ich!`-Seite könnte ein guter Platz sein für:
 Unterstützer können des Weiteren ihr Profil durch ein Titelbild anpassen:
 
 - Klicke auf das Stiftsymbol in der rechten, unteren Ecke des Cover-Platzhalters.
-- Wähle ein neues Titelbild aus den vorgegebenen Optionen oder lade dein eigenes Bild hoch (die Dimensionen sollten 2400 x 640 sein).
+- Wähle ein neues Titelbild aus den vorgegebenen Optionen oder lade ein eigenes Bild hoch (die Dimensionen sollten 2400 x 640 sein).
 
-Sobald osu!supporter ausläuft wird das Titelbild bestehen bleiben, kann aber nicht geändert werden.
+Sobald osu!supporter ausläuft, wird das Titelbild bestehen bleiben, kann aber nicht mehr geändert werden.
 
 ### Eine kostenlose Änderung des Benutzernamens
 
@@ -130,19 +130,21 @@ Die restliche osu!supporter-Dauer sowie die Gesamtzahl an Beiträgen, Tag-Käufe
 
 ## osu!supporter kaufen
 
-::: Infobox
-![](img/store-product.jpg?2 "osu!supporter-Produktbanner aus dem osu!store")
-:::
-
 Um osu!supporter zu kaufen, besuche die [osu!supporter-Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag) und passe die Dauer des Supporter-Tags mit Hilfe des Schiebereglers oder den Buttons mit der darunter befindlichen Anzahl an Monaten an. Alle Preise sind in United States Dollar (USD) angegeben und enthalten keine möglichen Gebühren für das Bezahlungssystem.
 
 Klicke danach auf `Zum Warenkorb hinzufügen`, um das Supporter-Tag in den osu!store-Einkaufswagen zu legen. Gehe zum Abschluss des Kaufs zum [Einkaufswagen](https://osu.ppy.sh/store/cart) und klicke `Zur Kasse`, dann folge den Anweisungen auf dem Bildschirm.
 
 ### osu!supporter verschenken
 
-osu!supporter kann auch an andere Spieler verschenkt werden, indem ihr Nutzername in die graue Box unter der Benutzerkarte eingegeben wird. Weitere Personen können hinzugefügt werden, indem man zur Shop-Seite zurückgeht und den Prozess wiederholt.
+::: Infobox
+![](img/profile-gift-supporter-DE.png "Dropdown-Menü auf einer Profilseite, um osu!supporter an jemanden zu verschenken")
+:::
 
-### Abschluss
+osu!supporter kann auch an andere Spieler verschenkt werden, indem ihr Nutzername in die graue Box unter der Benutzerkarte eingegeben wird, oder indem auf den Button `Verschenke ein osu!supporter-Tag` auf ihrer Profilseite geklickt wird. Weitere Personen können hinzugefügt werden, indem man zur Shop-Seite oder zum Profil eines Spielers zurückgeht und den Prozess wiederholt.
+
+Der Empfänger wird nicht darüber informiert, wer ihm das Tag gab, aber beim Verschenken von osu!supporter kann eine optionale Nachricht angehängt werden, die zusammen mit der E-Mail-Benachrichtigung versendet wird.
+
+### Bestätigung
 
 Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten:
 
@@ -150,8 +152,10 @@ Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sekti
 - `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war oder osu!supporter verschenkt hat.
 - `{Benutzername} hat osu!supporter als Geschenk erhalten!`, für den Fall, dass das Tag verschenkt wurde.
 
-Zusätzlich wird der Geschenkgeber und der Empfänger eine E-Mail-Benachrichtigung erhalten, die den Kauf erwähnt.
+Der Schenkende kann dieses Event auf ihrem eigenen Profil verbergen, indem während der Bezahlung `Alle osu!supporter-Tags in dieser Bestellung aus meiner Aktivität ausblenden` aktiviert wird. Dies ist nützlich für anonyme Geschenke, weil es verhindert, dass der Empfänger die Profilaktivität abgleichen kann.
+
+Zusätzlich wird der Schenkende und der Empfänger eine E-Mail-Benachrichtigung erhalten, die den Kauf erwähnt.
 
 ## Referenzen
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Forumsbeitrag von peppy (14.09.2021) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
