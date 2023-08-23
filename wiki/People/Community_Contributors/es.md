@@ -170,7 +170,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Excelente contribución al proyecto Mentorship |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Excelente contribución al proyecto Mentorship |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Excelente contribución a la organización y moderación de la World Cup |
-| ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | Excelente contribución e inquebrantable a la comunidad de osu! |
+| ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | Excelente e inquebrantable contribución a la comunidad de osu! |
 | ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) | Excelente contribución a la osu! World Cup |
 | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | Excelente contribución a la osu! World Cup |
 | ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | Excelente contribución a la escena de torneos de osu!mania |
