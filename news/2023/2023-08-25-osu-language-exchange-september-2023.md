@@ -31,7 +31,7 @@ This is the part where you share stories, play games together, and help each oth
 
 ## Achievements
 
-Throughout the event, there will be achievements for you to complete that require you to do different activities with your language exchange partners. Some examples include having a certain amount of conversations, writing a certain amount of short stories, or even doing cooking streams in call with your language partners. The full list of achievements can be found on the event's [forum post](https://osu.ppy.sh/community/forums/topics/1808561).
+Throughout the event, there will be achievements for you to complete that require you to do different activities with your language exchange partners. Some examples include having a certain amount of conversations, writing a certain amount of short stories, or even collaborating on a beatmap with your language partners. The full list of achievements can be found on the event's [forum post](https://osu.ppy.sh/community/forums/topics/1808561).
 
 These achievements are designed to give you some activities to do, but your achievements will not be checked by the event staff and there will be no prizes for completing them. Have fun!
 
