@@ -12,7 +12,7 @@ In order to be considered a completionist, a player must play every existing Ran
 
 ## Confirmed completionists
 
-| Player | Game mode | Date of completion | Total played beatmaps |
+| Player | Game mode | Date of completion | Total played difficulties |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | ![](/wiki/shared/mode/osu.png) | 2019-04-27 | 60,845 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | ![](/wiki/shared/mode/taiko.png) | 2019-11-03 | 8,841 |
