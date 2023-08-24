@@ -546,10 +546,9 @@ Keys: 5
   - Notes:
     - This is the hint for when the keys should be pressed.
 - `LightFramePerSecond:`
-  - Question: *unknown*
-  - Value: *unknown*
-  - Notes:
-    - May be obsolete.
+  - Question: How many frames should be displayed by the StageLight that depend on this value in one second?
+  - Value: *integer*
+  - Default: *unknown*
 - `SpecialStyle:`
   - Question: What SpecialStyle is used for this keycount if available?
   - Value: `0`, `1`, or `2`
