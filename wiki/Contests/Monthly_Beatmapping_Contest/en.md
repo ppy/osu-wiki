@@ -63,6 +63,8 @@ For each submission, the sum of categories is a judge's *raw score*. A judge's *
 
 A submission's score is the sum of each judge's *final score*. Scores are determined this way to avoid variations in score ranges between judges, as popularised by the [Pending Cup](/wiki/Contests#pending-cup).
 
+Judging criteria may differ between game modes.
+
 ### Voting
 
 Due to potential vote manipulation and low voter turnout, the "Voting" aspect of the MBC has been replaced with "Judging" from June 2020 onwards. Community vote may return if those problems can be solved!
@@ -108,11 +110,14 @@ The Monthly Beatmapping Contest rewards users with *[contest points](/wiki/Conte
 - **Judging runner-up:** 1 point
 - **Screening crew's #1 pick:** 1 point
 
+These numbers may vary depending on how many submissions the contest receives. Check [the wiki article](/wiki/Contests/Contest_points) for details.
+
 Contest points reward users at certain thresholds:
 
 - **Profile badges** are attainable at 2, 4, and 6 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
 - ***Elite Mapper* forum title** is attainable at 6 points.
-- One month of **osu!supporter** is rewarded for each point a user earns. This can be used by the winner or gifted to someone else.
+
+Additionally, a **Mappers' Guild keychain** is optionally rewarded to the judging winner of each month's contest. Its design is based on the winning beatmap.
 
 Participants who are in the [Mappers' Guild](/wiki/Community/Mappers_Guild) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and judging (1). These values are unrelated to MBC points.
 

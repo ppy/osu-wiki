@@ -80,7 +80,7 @@ Contest points reward users at certain thresholds:
 
 ![](/wiki/shared/news/2023-09-04-monthly-beatmapping-contest-september-2023/elitemapper.png)
 
-- **Mappers' Guild keychain** is rewarded to the judging winner of each month's contest. Its design is based on your beatmap!
+Additionally, a **Mappers' Guild keychain** is optionally rewarded to the judging winner of each month's contest. Its design is based on your beatmap!
 
 ![](LINK)
 
