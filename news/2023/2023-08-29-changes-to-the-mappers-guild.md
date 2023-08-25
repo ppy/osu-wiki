@@ -105,14 +105,14 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | User | Modes | Ranked beatmaps | Ranked difficulties |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 15 | 65 |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 7 | 43 |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | osu!taiko, osu!mania | 7 | 43 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 9 | 40 |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!, osu!catch | 10 | 31 |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch, osu! | 7 | 29 |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!, osu!catch | 7 | 29 |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 10 | 28 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko | 6 | 27 |
 | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | osu!taiko | 5 | 27 |
-| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!mania, osu!, osu!taiko | 7 | 25 |
+| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!, osu!taiko, osu!mania | 7 | 25 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 5 | 24 |
 | ::{ flag=TR }:: [skolodojko](https://osu.ppy.sh/users/11716851) | osu!taiko | 3 | 17 |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | osu!catch | 3 | 16 |
@@ -130,12 +130,12 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918) | osu! | 4 | 14 |
 | ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255) | osu! | 4 | 13 |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! | 3 | 13 |
-| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!catch, osu!taiko | 3 | 13 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!catch, osu!taiko | 3 | 13 |
+| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!taiko, osu!catch | 3 | 13 |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko, osu!catch | 3 | 13 |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko | 3 | 13 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! | 3 | 12 |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch | 3 | 12 |
-| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | Storyboarder, osu! | 2 | 12 |
+| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | osu!, Storyboarder | 2 | 12 |
 | ::{ flag=ID }:: [frozz](https://osu.ppy.sh/users/7891266) | osu! | 2 | 12 |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | osu! | 3 | 12 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | osu!taiko | 2 | 12 |
@@ -150,7 +150,7 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) | osu!taiko | 2 | 10 |
 | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko | 4 | 10 |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | osu!mania | 2 | 10 |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | osu!catch, osu! | 3 | 10 |
+| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | osu!, osu!catch | 3 | 10 |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu! | 8 | 8 |
 
 While these folks may be in the spotlight, there's a lot of other people in the [**Mappers' Guild**](/wiki/Community/Mappers_Guild) who contribute too. If you're one of them, thanks for the help!
