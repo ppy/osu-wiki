@@ -489,7 +489,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament 5
 
-| Canción | Beatmap | Notas |
+| Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [SiLiS - Yukisarashi](https://soundcloud.com/silis/yukisarashi) | [#1](https://osu.ppy.sh/beatmapsets/2048433) | HD3 des Grandes Finales |
 
