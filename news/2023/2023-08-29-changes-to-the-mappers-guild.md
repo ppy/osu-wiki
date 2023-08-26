@@ -135,7 +135,7 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko | 3 | 13 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! | 3 | 12 |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch | 3 | 12 |
-| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | osu!, Storyboarder | 2 | 12 |
+| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | osu!, storyboarder | 2 | 12 |
 | ::{ flag=ID }:: [frozz](https://osu.ppy.sh/users/7891266) | osu! | 2 | 12 |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | osu! | 3 | 12 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | osu!taiko | 2 | 12 |
