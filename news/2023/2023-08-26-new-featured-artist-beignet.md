@@ -46,7 +46,7 @@ Here's [another osu! map](https://osu.ppy.sh/beatmapsets/2031418) hosted by [Nac
 
 ### beignet - Maple Trick
 
-And here's [a brand new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+And here's [a brand-new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
 
 <audio controls>
     <source src="LINK">
@@ -64,7 +64,7 @@ Enjoy one last [osu! map](https://osu.ppy.sh/beatmapsets/2050540) hosted by [Sto
 
 [**beignet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/377) has even more songs to choose from. Sift through the templates for your favourite and start mapping already.
 
-New to mapping? Not sure what to do next? Here's an idea: post in [this forum thread](https://osu.ppy.sh/community/forums/topics/287145) to receive feedback on your map! This is meant specifically for users who have **0 ranked maps** (...which most likely includes you).
+New to mapping? Not sure what to do next? Here's an idea: post in [this forum thread](https://osu.ppy.sh/community/forums/topics/287145) to receive feedback on your map! This is meant specifically for users who have **0 Ranked maps** (...which most likely includes you).
 
 Stick around next week for a long-awaited artist reveal, alongside a new batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists)!
 
