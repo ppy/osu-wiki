@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: beignet"
-date: 2023-08-26 11:00:00 +0000
+date: 2023-08-26 12:00:00 +0000
 ---
 
 [YUC'e](https://osu.ppy.sh/beatmaps/artists/372) and [Aice room / Nor](https://osu.ppy.sh/beatmaps/artists/360) return to expand our Featured Artist library under the joint alias **beignet**!
@@ -25,7 +25,7 @@ Everyone plays osu! in their own distinct way. While at [COE](/wiki/Community/ca
 Enjoy [the map from the video above](https://osu.ppy.sh/beatmapsets/2030991) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/377/Stevia/beignet%20-%20Sign.mp3">
 </audio>
 
 ### beignet - Mizutama
@@ -33,7 +33,7 @@ Enjoy [the map from the video above](https://osu.ppy.sh/beatmapsets/2030991) hos
 If you're not a fan of clicking circles, maybe try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1009290) hosted by [Yuemiao](https://osu.ppy.sh/users/4493348)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Mizutama.mp3">
 </audio>
 
 ### beignet - Mint Comet
@@ -41,7 +41,7 @@ If you're not a fan of clicking circles, maybe try [this osu!taiko map](https://
 Here's [another osu! map](https://osu.ppy.sh/beatmapsets/2031418) hosted by [Nachmark](https://osu.ppy.sh/users/17584310)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Mint%20Comet.mp3">
 </audio>
 
 ### beignet - Maple Trick
@@ -49,7 +49,7 @@ Here's [another osu! map](https://osu.ppy.sh/beatmapsets/2031418) hosted by [Nac
 And here's [a brand-new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Maple%20Trick.mp3">
 </audio>
 
 ### beignet - S'more
@@ -57,7 +57,7 @@ And here's [a brand-new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) h
 Enjoy one last [osu! map](https://osu.ppy.sh/beatmapsets/2050540) hosted by [Stompy_](https://osu.ppy.sh/users/16429579)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20S_more.mp3">
 </audio>
 
 ---
