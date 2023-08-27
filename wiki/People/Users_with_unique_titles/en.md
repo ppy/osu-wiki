@@ -274,7 +274,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Awarded by ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) in late 2008 for reaching rank #104 in 1 week, as a reference to [*The World Ends with You*](https://en.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Played all Ranked osu! maps as of 27 April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Won [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
-| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of disco | Achieved the maximum possible score on [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) for an unbeatable #1 leaderboard spot |
+| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Achieved the maximum possible score on [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) for an unbeatable #1 leaderboard spot |
 
 ## Contributors
 
