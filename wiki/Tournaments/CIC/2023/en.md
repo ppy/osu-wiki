@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2023 Banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup (Open) 2023** (***CIC 2023***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877). The tournament was open to all players from Southeast Asia and Oceania with a playcount of 3,000 and global rank of #5000 in osu!catch. It was the eleventh iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup (Open) 2023** (***CIC 2023***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877). The tournament was open to all players from Southeast Asia and Oceania with at least playcount of 3,000 and global rank of #5000 in osu!catch. It was the eleventh iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -43,6 +43,7 @@ CIC 2023 was run by various osu! community members predominantly hailing from In
 | Host | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | Mappool Selector | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
 | Custom mapper | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) |
+| Mappool Tester| ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096), ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627), ::{ flag=CL }:: [XisK](https://osu.ppy.sh/users/3835436), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626)|
 | Streamer | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
 | Commentator | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=US   }:: [004](https://osu.ppy.sh/users/9228388), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422)|
 | Referee | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
@@ -63,10 +64,11 @@ Listed below are players who qualified into the Round of 32 along with their res
 
 | Seed | Members |
 | :-- | :-- |
-| 1-8 | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/16271283) \| ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) \| ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) \| ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) \| ::{ flag=ID }:: [Keisuu](https://osu.ppy.sh/users/3856673) \| ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) \| ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) \| ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422)
-| 9-16 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) \| ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) \| ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) \| ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858) \| ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693) \| ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) \| ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) \| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986)
-| 17-24 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) \| ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121) \| ::{ flag=AU }:: [Andogs](https://osu.ppy.sh/users/4599191) \| ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684) \| ::{ flag=MY }:: [Kagari](https://osu.ppy.sh/users/3366264) \| ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098) \| ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653) \| ::{ flag=MY }:: [davidbeh_97](https://osu.ppy.sh/users/4101818)
-| 25-32 | ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687) \| ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) \| ::{ flag=ID }:: [Strict_Lane](https://osu.ppy.sh/users/24810703) \| ::{ flag=TH }:: [Yosaf](https://osu.ppy.sh/users/12128203) \| ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) \| ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231) \| ::{ flag=SG }:: [NoBadgetGuy](https://osu.ppy.sh/users/28498328) \| ::{ flag=ID }:: [nurjavier](https://osu.ppy.sh/users/8535534)
+| 1-8 | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/16271283), ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148), ::{ flag=ID }:: [Keisuu](https://osu.ppy.sh/users/3856673), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422)
+| 9-16 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870), ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054)[^failed-screening], ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157)[^failed-screening], ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772)
+| 17-24 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=ID }:: [Kageyama - Kun-](https://osu.ppy.sh/users/8154659)[^failed-screening], ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=AU }:: [Andogs](https://osu.ppy.sh/users/4599191), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=MY }:: [Kagari](https://osu.ppy.sh/users/3366264)
+| 25-32 | ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=MY }:: [davidbeh_97](https://osu.ppy.sh/users/4101818), ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687), ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968), ::{ flag=ID }:: [Strict_Lane](https://osu.ppy.sh/users/24810703), ::{ flag=TH }:: [Yosaf](https://osu.ppy.sh/users/12128203), ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880)
+| 33-37 | ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231)[^player-replacement], ::{ flag=SG }:: [NoBadgetGuy](https://osu.ppy.sh/users/28498328)[^player-replacement], ::{ flag=ID }:: [nurjavier](https://osu.ppy.sh/users/8535534)[^player-replacement], ::{ flag=ID }:: [Kasen-](https://osu.ppy.sh/users/3995789), ::{ flag=ID }:: [Pischok](https://osu.ppy.sh/users/15507280)
 
 ## Podium
 
@@ -432,22 +434,22 @@ Sunday, 23 July 2023:
 
 1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, each player is required to have at least 3000 osu!catch playcounts and #5000 global rank on their profile.
-   - Each player is required to have the one of Southeast Asia or Oceania flag displayed on their profile.
-2. To ensure valid and serious registrations, every registered player will be checked in detail by the Tournament Management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
+   - Each player is required to have the one of the Southeast Asia or Oceania flag displayed on their profile.
+2. Each registered player must pass the screening process conducted by osu!tournament staff.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management once the screening result has been conducted.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Qualifiers rules
 
-1. In the Qualifiers stage, all players will be playing by themselves in a qualifier lobby. All players have to choose which time works best for them based on an all of the qualifier lobbies in [WyBin](https://wybin.xyz/tournaments/cico2023/schedule#qualifiers).
-2. In the lobby, the player will play through the entire mappool in the order given on the mappool sheet. This means you will playthrough the NM maps, HD maps, HR maps, DT maps, and EZ maps.
-3. All players will playthrough the pool once. All players are allowed for the 2nd playhrough after they have played the entire mappool.
-4. For the 2nd playthrough the players are allowed to skip the beatmaps(the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
+1. In the Qualifiers stage, all players will be playing by themselves in a qualifier lobby. All players have to choose which time works best for them based on pre-determined qualifier lobbies in [WyBin](https://wybin.xyz/tournaments/cico2023/schedule#qualifiers).
+2. In the lobby, the players will play through the entire mappool in the order given on the mappool sheet. This means you will play through all of the NM maps, HD maps, HR maps, DT maps, and EZ maps.
+3. All players will play through the pool once. All players are allowed to play for the 2nd play through after they have played the entire mappool.
+4. For the 2nd play through the players are allowed to skip the beatmaps (the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
 5. The highest score of both playthroughs will be used
 6. Players are **not allowed** to ban maps in the Qualifiers.
 7. In between maps, all players have 120 seconds to ready up.
-6. Rankings of each player are determined by sorting the results of each individual player's performance.
-7. Top 32 players will advance to the Knock-out stage.
+8. Rankings of each player are determined by sorting the results of each individual player's performance.
+9. Top 32 players will advance to knock-out stage if they are deemed to be eligible to compete based on the screening result. Otherwise, the players deemed ineligible will be substituted with those who finished rank 33 or below in the qualifier result.
 
 ### Knock-out stage rules 
 
@@ -477,3 +479,8 @@ Sunday, 23 July 2023:
    - This rule does not apply in the Qualifiers.
 3. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod based on the player's choice**.
 4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+
+## Notes
+
+[^failed-screening]: Players who failed the screening phase.
+[^player-replacement]: Replacement for the aforementioned players.
