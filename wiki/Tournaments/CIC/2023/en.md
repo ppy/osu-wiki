@@ -60,15 +60,16 @@ CIC 2023 was run by various osu! community members predominantly hailing from In
 
 ## Participants
 
-Listed below are players who qualified into the Round of 32 along with their respective country and rank placement.
+Listed below are the players who qualified for the Round of 32, along with their respective country and seed placement based on [qualifiers result](https://wybin.xyz/tournaments/cico2023/stats#qualifiers).
 
 | Seed | Members |
 | :-- | :-- |
 | 1-8 | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/16271283), ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148), ::{ flag=ID }:: [Keisuu](https://osu.ppy.sh/users/3856673), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422)
-| 9-16 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870), ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054)[^failed-screening], ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157)[^failed-screening], ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772)
-| 17-24 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=ID }:: [Kageyama - Kun-](https://osu.ppy.sh/users/8154659)[^failed-screening], ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=AU }:: [Andogs](https://osu.ppy.sh/users/4599191), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=MY }:: [Kagari](https://osu.ppy.sh/users/3366264)
-| 25-32 | ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=MY }:: [davidbeh_97](https://osu.ppy.sh/users/4101818), ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687), ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968), ::{ flag=ID }:: [Strict_Lane](https://osu.ppy.sh/users/24810703), ::{ flag=TH }:: [Yosaf](https://osu.ppy.sh/users/12128203), ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880)
-| 33-37 | ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231)[^player-replacement], ::{ flag=SG }:: [NoBadgetGuy](https://osu.ppy.sh/users/28498328)[^player-replacement], ::{ flag=ID }:: [nurjavier](https://osu.ppy.sh/users/8535534)[^player-replacement], ::{ flag=ID }:: [Kasen-](https://osu.ppy.sh/users/3995789), ::{ flag=ID }:: [Pischok](https://osu.ppy.sh/users/15507280)
+| 9-16 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870), ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772), ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986)
+| 17-24 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=AU }:: [Andogs](https://osu.ppy.sh/users/4599191), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=MY }:: [Kagari](https://osu.ppy.sh/users/3366264), ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=MY }:: [davidbeh_97](https://osu.ppy.sh/users/4101818)
+| 25-32 | ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687), ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968), ::{ flag=ID }:: [Strict_Lane](https://osu.ppy.sh/users/24810703), ::{ flag=TH }:: [Yosaf](https://osu.ppy.sh/users/12128203), ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880), ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231)[^player-replacement], ::{ flag=SG }:: [NoBadgetGuy](https://osu.ppy.sh/users/28498328)[^player-replacement], ::{ flag=ID }:: [nurjavier](https://osu.ppy.sh/users/8535534)[^player-replacement]
+
+See the [players list](https://wybin.xyz/tournaments/cico2023/players) for a list of all initial players.
 
 ## Podium
 
@@ -444,7 +445,7 @@ Sunday, 23 July 2023:
 1. In the Qualifiers stage, all players will be playing by themselves in a qualifier lobby. All players have to choose which time works best for them based on pre-determined qualifier lobbies in [WyBin](https://wybin.xyz/tournaments/cico2023/schedule#qualifiers).
 2. In the lobby, the players will play through the entire mappool in the order given on the mappool sheet. This means you will play through all of the NM maps, HD maps, HR maps, DT maps, and EZ maps.
 3. All players will play through the pool once. All players are allowed to play for the 2nd play through after they have played the entire mappool.
-4. For the 2nd play through the players are allowed to skip the beatmaps (the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
+4. For the 2nd play through, the players are allowed to skip the beatmaps (the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
 5. The highest score of both playthroughs will be used
 6. Players are **not allowed** to ban maps in the Qualifiers.
 7. In between maps, all players have 120 seconds to ready up.
@@ -482,5 +483,4 @@ Sunday, 23 July 2023:
 
 ## Notes
 
-[^failed-screening]: Players who failed the screening phase.
-[^player-replacement]: Replacement for the aforementioned players.
+[^player-replacement]: Replacement for players who failed the screening phase.
