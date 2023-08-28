@@ -18,6 +18,7 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12)  |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [2017-04-14](https://osu.ppy.sh/beatmapsets/540867) | [2023-08-23](https://osu.ppy.sh/beatmapsets/1852680) |  |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
@@ -31,4 +32,4 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3,5 anni** (circa 1293 giorni) per classificare 100 beatmap.
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3,5 anni** (circa 1292 giorni) per classificare 100 beatmap.
