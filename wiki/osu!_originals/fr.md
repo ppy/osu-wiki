@@ -411,15 +411,15 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| Aethoro - Inertia Split[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2044069) | Runoff Bracket HR2 |
-| Axya - Again, Weeping Brilliantly | [#1](https://osu.ppy.sh/beatmapsets/2051621) | Knockout 2 HR1 |
-| [CS4W - EX-ris](https://soundcloud.com/yusuke-7328/ex-ris) | [#1](https://osu.ppy.sh/beatmapsets/2047988) | Knockout 1 Pool B NM3 |
-| Kabocha - Draw me a map, Let me feel the tap[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051856) | Knockout 2 NM3 |
-| [MYUKKE. - Unknown Amnasia](https://soundcloud.com/myukke/unknown-amnasia-from-corsace-open-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2047990) | Knockout 1 Pool A HR1 |
+| Aethoro - Inertia Split[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2044069) | HR2 des Runoff Bracket |
+| Axya - Again, Weeping Brilliantly | [#1](https://osu.ppy.sh/beatmapsets/2051621) | HR2 des Knockout 2 |
+| [CS4W - EX-ris](https://soundcloud.com/yusuke-7328/ex-ris) | [#1](https://osu.ppy.sh/beatmapsets/2047988) | NM3 des Knockout 1 Pool B |
+| Kabocha - Draw me a map, Let me feel the tap[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051856) | NM3 des Knockout 2 |
+| [MYUKKE. - Unknown Amnasia](https://soundcloud.com/myukke/unknown-amnasia-from-corsace-open-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2047990) | HR1 des Knockout 1 Pool A |
 | [polysha - Where the Spirits Go On](https://soundcloud.com/polysha/where)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051816) | Tiebreaker des Knockout 2 |
 | [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili](https://soundcloud.com/sadkeyboardguy/waking-shadows) | [#1](https://osu.ppy.sh/beatmapsets/2048051) | Tiebreaker des Knockout 1 |
-| [TAG - Astral Stranger](https://www.youtube.com/watch?v=dPTCUJY2q3o) | [#1](https://osu.ppy.sh/beatmapsets/2048029) | Knockout 1 Pool C HR2 |
-| unfeeling - necrosis of warm memories | [#1](https://osu.ppy.sh/beatmapsets/2040003) | Round Robin FM1 |
+| [TAG - Astral Stranger](https://www.youtube.com/watch?v=dPTCUJY2q3o) | [#1](https://osu.ppy.sh/beatmapsets/2048029) | HR2 des Knockout 1 Pool C |
+| unfeeling - necrosis of warm memories | [#1](https://osu.ppy.sh/beatmapsets/2040003) | FM1 des Round Robin |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
