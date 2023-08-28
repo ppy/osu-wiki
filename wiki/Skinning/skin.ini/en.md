@@ -546,7 +546,7 @@ Keys: 5
   - Notes:
     - This is the hint for when the keys should be pressed.
 - `LightFramePerSecond:`
-  - Question: How many frames should be displayed by the StageLight that depend on this value in one second?
+  - Question: How many frames should be displayed by the `StageLight` animation in one second?
   - Value: *integer*
   - Default: *unknown*
 - `SpecialStyle:`
