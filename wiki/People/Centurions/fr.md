@@ -4,7 +4,7 @@ no_native_review: true
 
 # Centurions
 
-Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de création de plus de **cent** [beatmaps](/wiki/Beatmap) [classé](/wiki/Beatmap/Category#classée). À partir de juillet 2023, leur dévouement exceptionnel à rendre osu! meilleure grâce aux beatmaps est reconnu par les récompenses suivantes :
+Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de création de plus de **cent** [beatmaps](/wiki/Beatmap) [classé](/wiki/Beatmap/Category#classée). À partir du [11 juillet 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), leur dévouement exceptionnel à rendre osu! meilleure grâce aux beatmaps est reconnu par les récompenses suivantes :
 
 - Le [pack de beatmaps](/wiki/Beatmap/Packs) Centurion : pour 100 beatmaps classés, le mappeur aura la possibilité de sélectionner 10 beatmaps à inclure dans un pack de beatmaps, qui sera disponible en téléchargement dans la [catégorie thèmes](https://osu.ppy.sh/beatmaps/packs?type=theme) de la [liste de packs de beatmaps](https://osu.ppy.sh/beatmaps/packs).
 - Un [badge de profil](/wiki/Community/Profile_badge) Centurion.
