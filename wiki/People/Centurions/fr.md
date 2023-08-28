@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Centurions
 
 Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de création de plus de **cent** [beatmaps](/wiki/Beatmap) [classé](/wiki/Beatmap/Category#classée). À partir de juillet 2023, leur dévouement exceptionnel à rendre osu! meilleure grâce aux beatmaps est reconnu par les récompenses suivantes :
