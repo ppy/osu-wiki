@@ -11,6 +11,7 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 
 | Nome | 1° beatmap classificata | 100° beatmap classificata | Pacchetti dei centurioni |
 | :-- | :-- | :-- | :-- |
+| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-27](https://osu.ppy.sh/beatmapsets/935244) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
@@ -18,6 +19,7 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12)  |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [2017-04-14](https://osu.ppy.sh/beatmapsets/540867) | [2023-08-23](https://osu.ppy.sh/beatmapsets/1852680) |  |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3)  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-10-02](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4)  |
@@ -29,4 +31,4 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3 anni** (circa 1166 giorni) per classificare 100 beatmap.
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3,5 anni** (circa 1293 giorni) per classificare 100 beatmap.
