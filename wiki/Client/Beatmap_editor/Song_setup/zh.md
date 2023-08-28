@@ -1,3 +1,8 @@
+---
+outdated_since: baf8b5755cc947b56054ec563e0f99d0a43bae4b
+outdated_translation: true
+---
+
 # 歌曲设置 (Song Setup) 窗口
 
 歌曲设置是[谱面编辑器](/wiki/Client/Beatmap_editor)中的第四个部分，包含了对元数据和谱面普遍配置项的设置。
@@ -229,8 +234,6 @@
 - `Letterbox during breaks`：在谱面休息时段期间显示[黑色边框 (letterboxes)](https://en.wikipedia.org/wiki/Letterboxing_(filming))。此选项通常默认启用，但不允许在 osu!mania 专谱中使用。
 
 ### 皮肤 (Skinning)
-
-![Skinning 标签页截图](img/SS_Skin_eg.jpg "Skinning 标签页")
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
