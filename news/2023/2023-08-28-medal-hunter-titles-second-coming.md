@@ -28,4 +28,10 @@ But, despite all the challenges the community was still determined to find the s
 
 But suddenly, the very last hint was dropped, and after reading it, UberFazz figured exactly what they need to do. Shortly after trying their idea, UberFazz successfully got **Internment** medal and received the "**Medal Hunter**" title, after more than a month since medal release!
 
+UberFazz would like to give massive thanks to all those that participated in this event. They say that without the osu! medal hunting community, this would have never transpired. There were very incredibly close guesses that barely undershot the medal solution, but UberFazz was the one that made that final push and emerged as the ultimate victor for Internment and its medal hunter title.
+
+According to Ephemeral and most of the medal hunting community, this is a masterwork of a Hush-Hush medal which sets a great example for what medals set out to be. If you wish to entertain yourself with fun unique challenges that give you shiny medallions that show on your profile, please, by all means, consider becoming a medal hunter. Furthermore, if you do not know the solution to a medal such as this one, consider following the footsteps medal hunters must take for every new Hush-Hush medal that comes out. Ephemeral and the osu!team go out of their way to make medals the community goes crazy over. So much so, that there is a chance that the next medal batches may have medals specifically made for lazer! Does being a medal hunter seem like something that could spark your interest? Do you believe you can crack medals as creatively sophisticated as this one? If so, don't hesitate to give it a shot!
+
+As a final note, we are truly grateful to every medal hunter for your contributions to solving Internment during the past month, we wouldn't have achieved it without you! Thanks and see you next time!
+
 —MegaMix_Craft & Tomy
