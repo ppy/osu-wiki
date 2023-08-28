@@ -9,6 +9,8 @@ tags:
   - 오스 팀
   - 스태프
   - 오스 스태프
+outdated_translation: true
+outdated_since: 6b280c8bceae0f3d6fd6d62fb8e47f060a632106
 ---
 
 # osu! 팀

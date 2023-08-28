@@ -4,7 +4,7 @@ title: "osu!(lazer) Updates: August 11, 2023"
 date: 2023-08-11 20:00:00 +0000
 ---
 
-Tune in for the latest batch of improvements the game!
+Tune in for the latest batch of improvements to the game!
 
 ![](/wiki/shared/news/2023-08-11-osulazer-updates-august-11-2023/banner.jpg)
 

@@ -433,10 +433,13 @@ Abbreviations for user groups are used throughout this log:
 - 2023-07-23: Added [chaser01](https://osu.ppy.sh/users/18730172) to **Probationary BN**
 - 2023-07-23: Added [Aeril](https://osu.ppy.sh/users/4334976) to **Probationary BN**
 - 2023-07-23: Added [-White](https://osu.ppy.sh/users/16276548) to **Probationary BN**
+- 2023-07-25: Added [fayew](https://osu.ppy.sh/users/12498861) to **Probationary BN**
+- 2023-07-29: Added [Mimari](https://osu.ppy.sh/users/14339830) to **BN**
 
 #### Moves
 
 - 2023-07-14: Moved [Hugged](https://osu.ppy.sh/users/12589220) from **Probationary BN** to **BN**
+- 2023-07-28: Moved [Stompy\_](https://osu.ppy.sh/users/16429579) from **BN** to **Probationary BN**
 
 #### Removals
 
@@ -456,6 +459,58 @@ Abbreviations for user groups are used throughout this log:
 - 2023-07-21: Removed [Pieter](https://osu.ppy.sh/users/29282944) from **BN**
 - 2023-07-22: Removed [ssapgosu](https://osu.ppy.sh/users/16564480) from **BN**
 - 2023-07-23: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
+- 2023-07-30: Removed [Tystiana](https://osu.ppy.sh/users/1421452) from **BN**
+
+## August
+
+- 2023-08-02: Added [-NoName-](https://osu.ppy.sh/users/10400730) to **GMT**
+- 2023-08-02: Added [Ilham](https://osu.ppy.sh/users/3057154) to **GMT**
+- 2023-08-04: Added [MegaMix\_Craft](https://osu.ppy.sh/users/18152711) to **Project Loved Team**
+- 2023-08-05: Moved [Nukrid](https://osu.ppy.sh/users/2307484) from **osu! Alumni** to **GMT**
+- 2023-08-06: Added [YuEast 2018](https://osu.ppy.sh/users/13953619) to **Project Loved Team**
+- 2023-08-06: Added [SunApple](https://osu.ppy.sh/users/11817622) to **Project Loved Team**
+- 2023-08-06: Added [Silhoueska Elze](https://osu.ppy.sh/users/11517895) to **Project Loved Team**
+- 2023-08-06: Added [elexire](https://osu.ppy.sh/users/9206093) to **Project Loved Team**
+- 2023-08-09: Added [Ryuusei Aika](https://osu.ppy.sh/users/7777875) to **NAT**
+- 2023-08-11: Added [mangomizer](https://osu.ppy.sh/users/1893718) to **GMT**
+- 2023-08-11: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2023-08-01: Added [wwwww](https://osu.ppy.sh/users/8434466) to **Probationary BN**
+- 2023-08-02: Added [\_gt](https://osu.ppy.sh/users/8301957) to **Probationary BN**
+- 2023-08-02: Added [enneya](https://osu.ppy.sh/users/10959501) to **BN**
+- 2023-08-02: Added [Alter-](https://osu.ppy.sh/users/8301957) to **Probationary BN**
+- 2023-08-02: Added [\[GB\]Rick](https://osu.ppy.sh/users/8301957) to **Probationary BN**
+- 2023-08-06: Added [Nao Tomori](https://osu.ppy.sh/users/5364763) to **BN**
+- 2023-08-08: Added [Venix](https://osu.ppy.sh/users/5999631) to **Probationary BN**
+- 2023-08-08: Added [MeAqua tete](https://osu.ppy.sh/users/5645691) to **Probationary BN**
+- 2023-08-08: Added [Embo](https://osu.ppy.sh/users/10045409) to **Probationary BN**
+- 2023-08-08: Added [Cris-](https://osu.ppy.sh/users/6175280) to **Probationary BN**
+- 2023-08-09: Added [Scotty](https://osu.ppy.sh/users/11085809) to **Probationary BN**
+- 2023-08-09: Added [superstore](https://osu.ppy.sh/users/16755693) to **Probationary BN**
+- 2023-08-09: Added [Kohno Marika](https://osu.ppy.sh/users/7633130) to **Probationary BN**
+- 2023-08-11: Added [vrnl](https://osu.ppy.sh/users/4799788) to **BN**
+- 2023-08-11: Added [\[Zeth\]](https://osu.ppy.sh/users/9912966) to **BN**
+
+#### Moves
+
+- 2023-08-01: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **BN** to **Probationary BN**
+- 2023-08-01: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
+- 2023-08-02: Moved [Hareimu](https://osu.ppy.sh/users/4138746) from **Probationary BN** to **BN**
+- 2023-08-06: Moved [Hytex](https://osu.ppy.sh/users/8536263) from **Probationary BN** to **BN**
+- 2023-08-11: Moved [Kirishima-](https://osu.ppy.sh/users/9234078) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2023-08-03: Removed [Buschan](https://osu.ppy.sh/users/16505281) from **BN**
+- 2023-08-03: Removed [D0UG](https://osu.ppy.sh/users/13806900) from **BN**
+- 2023-08-04: Removed [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) from **BN**
+- 2023-08-09: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **BN**
+- 2023-08-09: Removed [Natsuko](https://osu.ppy.sh/users/8266817) from **BN**
+- 2023-08-10: Removed [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN**
 
 <!-- last updated with Mimari removed from BN 2023-06-23 20:51 UTC>
 
