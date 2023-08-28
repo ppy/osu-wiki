@@ -487,6 +487,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://soundcloud.com/rurinn/dawn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1988498) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament 5
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [SiLiS - Yukisarashi](https://soundcloud.com/silis/yukisarashi) | [#1](https://osu.ppy.sh/beatmapsets/2048433) | Grand Finals HD3 |
+
 #### ![](/wiki/shared/mode/osu.png) [GST:LIVE 2022](/wiki/Tournaments/GSTLIVE/22)
 
 | Song | Beatmap | Notes |
@@ -655,6 +661,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Krimek - Revival Of A New Master](https://krimek.bandcamp.com/track/revival-of-a-new-master)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2028363) | Finals NM4 |
 | [Krimek - Song Of The Submerged](https://soundcloud.com/krimek/song-of-the-submerged)[^fa] |  | Livestream BGM |
 | [MYUKKE. - Friendly Gigant Fire](https://soundcloud.com/myukke/friendly-gigant-fire-from-resurrection-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032460) | Grand Finals FM2 |
+| [NormalM - Luas na Gaoithe: IU](https://soundcloud.com/normalmusiccc/luas-na-gaoithe-iu) | [#1](https://osu.ppy.sh/beatmapsets/2012273) | Round of 32 tiebreaker |
 | [Raytoly - C.r.y.s.t.a.l-A.x.i.s-P.r.o.t.o.t.y.p.e](https://www.youtube.com/watch?v=_x5mhHXyQ5g) | [#1](https://osu.ppy.sh/beatmapsets/2028374) | Finals HD3 |
 | [takehirotei as "Infinite Limit" - The Everlasting Star of Yearning](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-the-everlasting-star-of-yearning) | [#1](https://osu.ppy.sh/beatmapsets/2016077) | Round of 16 tiebreaker |
 | [tn-shi vs. AZALI - to dust thou shalt return](https://www.youtube.com/watch?v=6_tfys0CP4k) | [#1](https://osu.ppy.sh/beatmapsets/2032508) | Grand Finals FM4 |

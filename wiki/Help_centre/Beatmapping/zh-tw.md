@@ -15,6 +15,8 @@ tags:
   - 編輯器
   - 狀態
   - 警告
+outdated_translation: true
+outdated_since: 8c67d7c7c1262ef3610f033799e7bc73113618d3
 ---
 
 # 製譜和編輯器
