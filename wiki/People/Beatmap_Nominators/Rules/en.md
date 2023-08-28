@@ -20,8 +20,8 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 - **Activity requirements for your respective game mode(s) must be met.** Activity over the last 90 days will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated.
   - **Falling below 60 days worth of nominations in a 90 day period will result in a removal when activity is checked.** For example, an osu! BN with less than 6 nominations in a 90 day period will be removed.
-  - **Falling below the 90 day requirements with more than 60 days worth of nominations will result in an activity warning.** 
-  - When warned for activity, minimum activity requirements for your respective game mode(s) must be met over the course of one month. 
+  - **Falling below the 90 day requirements with more than 60 days' worth of nominations will result in an activity warning.**
+  - When warned for activity, minimum activity requirements for your respective game mode(s) must be met over the course of one month.
   - Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
 - Beatmap Nominators are expected to stay below a maximum number of nominations over any 90-day period, with each mode having its own nomination cap. Exceeding this amount will lead to a warning, followed by a removal if they fail to manage their activity accordingly.
   - osu!, osu!catch, osu!mania: 75 unique nominations.
@@ -33,9 +33,18 @@ Beatmap Nominator activity is primarily measured by nominations. Resetting beatm
 
 Each mode has its own required minimum for monthly activity.
 
-- osu!, osu!taiko: 3 nominations.
-- osu!catch, osu!mania: 2 nominations.
-- Hybrid: 3 nominations, with at least 1 per proficient game mode.
+| Game mode | Requirement |
+| :-- | :-- |
+| osu!, osu!taiko | 3 nominations |
+| osu!catch, osu!mania[^multi-key-mode] | 2 nominations |
+| Hybrid | 3 nominations, with at least 1 per proficient game mode |
+
+Probationary Beatmap Nominators are expected to meet different activity requirements in order to better showcase their capabilities to the NAT, and if they fail to do so in their first month of probation, their probation will automatically be extended by another month in order to allow them to meet said requirements.
+
+| Game mode | Requirement |
+| :-- | :-- |
+| osu, osu!taiko | 6 nominations |
+| osu!catch, osu!mania[^multi-key-mode] | 4 nominations |
 
 ## Nomination
 
@@ -73,3 +82,7 @@ Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page
 - **You can veto a nominated/qualified beatmap by posting the issues you think need to be addressed before reaching Ranked status in the form of problems in the respective modding discussion.** This will reset all nominations the beatmap has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 - **Do not veto for unrankables.** Unrankables imply that no other nominator should nominate and that the mapper has no other choice but to fix it, in the same way an upheld veto works.
 - **Do not nominate vetoed beatmaps.** The only exception is if the respective vetoing nominator agrees to that action. A beatmap can have its veto dismissed if the mapper or vetoing nominator requests a mediation and the jury decides that the veto is unnecessary or detrimental.
+
+## Notes
+
+[^multi-key-mode]: Beatmaps with multiple key modes count as 2 nominations for activity purposes.

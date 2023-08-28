@@ -102,19 +102,20 @@ NAT 领导人的职责是：
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 组织[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | 评估，组织[^task-achyoo] |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | 评估 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估 |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 | 评估 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估，组织[^task-fuju] |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 评估 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 组织[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 评估 |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估 |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 评估 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 组织[^task-pishifat] |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 汉语 | 评估 |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估，组织[^task-star] |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | 评估 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 评估 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估 |
@@ -135,19 +136,23 @@ NAT 领导人的职责是：
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估 |
 
 ### osu!mania
 
 | 名字 | 语言 | 所属类别 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | 评估 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 | 评估 |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 | 评估 |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 | 评估 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估 |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 丹麦语 | 评估 |
+
+---
+
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而非玩家账号发布消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
 
 ## 备注
 
-[^task-achyoo]: 主要负责处理 osu! 游戏模式的谱面否决 (Veto) 事务
 [^task-fuju]: 主要负责处理玩家举报，管理 osu! 游戏模式的 SEV 分数
 [^task-mo]: 主要负责处理内部讨论、事务和文档
 [^task-naxess]: 主要负责维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)

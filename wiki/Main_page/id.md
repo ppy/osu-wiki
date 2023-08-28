@@ -28,7 +28,7 @@ osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! m
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
-[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -111,11 +111,11 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Orang-orang](/wiki/People)
   
-osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk terus tumbuh dan berkembang seiring waktu.
+osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk terus tumbuh dan berkembang.
 
 [Tim inti](/wiki/People/osu!_team) • [Developer](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Kelompok pengguna](/wiki/People/User_group) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_group) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -2,7 +2,7 @@
 
 Das **osu!-Wiki** ist eine Sammlung an öffentlich zugänglichem Wissen, welche von [freiwilligen Mitwirkenden](https://github.com/ppy/osu-wiki/graphs/contributors) betrieben wird. Hier findet sich eine große Breite an Informationen rund um osu!, seine Community sowie verwandte Aktivitäten und Konzepte. Das Wiki dient als offizielle Quelle für Informationen und wird als Dokumentation der Geschichte von osu! angesehen.
 
-Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von Beiträgen, werden im `#osu-wiki`-Kanal des offiziellen [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) besprochen. Um zu lernen, wie du mithelfen kannst, siehe dir folgende Artikel an:
+Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von Beiträgen, werden im Kanal `#osu-wiki` des offiziellen [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) besprochen. Um zu lernen, wie du mithelfen kannst, siehe dir folgende Artikel an:
 
 - [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide)
 - [Wartung](/wiki/osu!_wiki/Maintenance)
@@ -17,7 +17,7 @@ Der [erste Versuch](https://osu.ppy.sh/community/forums/posts/1175876) eine stru
 
 Das Eingangstor zum Wiki ist die [Hauptseite](/wiki/Main_page), die in mehrere übergeordnete Kategorien eingeteilt ist. Alle Kategorien haben eine allgemeine Beschreibung und beinhalten eine Liste an wichtigen Artikeln. Die Artikel, die nicht auf der Hauptseite zu sehen sind, sind meistens durch Hotlinks oder über die Suchfunktion erreichbar.
 
-Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept und gibt einen generellen Überblick über angrenzende Themen. Um den Begriff besser zu verstehen, wird das Thema in mehrere Untersektionen geteilt. Oft sind dort auch Bildschirmaufnahmen und andere Grafiken zur besseren Veranschaulichung abgebildet.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
+Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept und gibt einen generellen Überblick über angrenzende Themen. Um den Begriff besser zu verstehen, wird das Thema in mehrere Untersektionen geteilt. Oft sind dort auch Bildschirmaufnahmen und andere Grafiken zur besseren Veranschaulichung abgebildet.
 
 Übersetzungen in verschiedenen Sprachen sind für einige Artikel verfügbar. Sie werden von Mitgliedern der Community erstellt und die Auswahl an Sprachen ist nur durch die [Sprachenliste](/wiki/Article_styling_criteria/Formatting#locales) begrenzt, die die Webseite unterstützt.
 
@@ -25,7 +25,7 @@ Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept un
 
 Bei der Entwicklung des Wikis wurde immer die Zugänglichkeit berücksichtigt: Bearbeitungen und Übersetzungen können (und sollen) von jedem gemacht werden, der Kenntnisse in der entsprechenden Sprache aufweist. Der Quellcode für die Artikel wird auf dem [GitHub-Repository](https://github.com/ppy/osu-wiki) gespeichert und von Mitwirkenden durch [die Erstellung von Änderungsvorschlägen (Pull-Requests)](/wiki/osu!_wiki/Contribution_guide) aktualisiert. Im Anschluss werden die Vorschläge bewertet und von [Verantwortlichen](/wiki/People/osu!_wiki_maintainers) genehmigt.
 
-Die Artikel sind nach dem ["GitHub-flavoured Markdown"](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) gestaltet. Zusätzlich implementiert die Webseite eigene nützliche Features, wie zum Beispiel Verlinkungen, eine Titelseite oder Verbesserungen bei der Formatierung.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
+Die Artikel sind nach dem ["GitHub-flavoured Markdown"](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) gestaltet. Zusätzlich implementiert die Webseite eigene nützliche Features, wie zum Beispiel Verlinkungen, eine Titelseite oder Verbesserungen bei der Formatierung.
 
 Artikel werden nach den [Gestaltungskriterien](/wiki/Article_styling_criteria) des osu!-Wikis gehalten, was bedeutet, dass sie in einer neutralen Sprache geschrieben sind und allgemeinen Formatierungsregeln folgen. Manche Artikel dienen als Liste für häufig gestellte Fragen (FAQ) für ein Thema und verwenden Umgangssprache. Übersetzungen folgen dem Paritätsprinzip für den Inhalt und haben dieselben Formatierungsregeln.
 

@@ -28,7 +28,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 [Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
+[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -115,7 +115,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 [osu! team](/wiki/People/osu!_team) • [Developers](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community Contributors](/wiki/People/Community_Contributors) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
+[Community Contributors](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
