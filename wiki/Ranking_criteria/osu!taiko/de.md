@@ -93,7 +93,7 @@ Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigke
 - **1/1-Patterns sollten nicht länger als 7 Noten sein.** Alles, was länger ist, ist für Anfänger wahrscheinlich zu anstrengend. Auf solche Patterns sollte eine Pause folgen.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 2/1, 4/1 oder langsameren Rhythmen bestehen.** Die gelegentliche Verwendung von 1/1-Rhythmen ist in Ordnung.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/2 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
-- **Nach 16/1 bis 20/1 kontinuierlichem Mapping sollte mindestens eine Pause eingefügt werden, die 3/1 oder länger ist.** Seltenere Ruhezeiten sind akzeptabel, wenn das Tempo der Musik Pausen kontraintuitiv macht oder wenn der durchgehend gemappte Teil insgesamt nachsichtiger zum Spieler ist.
+- **Nach 32/1 bis 36/1 kontinuierlichem Mapping sollte mindestens eine Pause eingefügt werden, die 3/1 oder länger ist.** Seltenere Ruhezeiten sind akzeptabel, wenn das Tempo der Musik Pausen kontraintuitiv macht oder wenn der durchgehend gemappte Teil insgesamt nachsichtiger zum Spieler ist.
 - **Die Slider-Geschwindigkeit darf mit Bedacht verändert werden.** Änderungen sollten nur für Abschnitte mit unterschiedlichem Tempo erfolgen und die Slider-Geschwindigkeit sollte nicht drastisch variieren.
 
 #### Richtlinien für die Schwierigkeitseinstellungen
@@ -118,7 +118,7 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 - **1/2-Patterns sollten nicht länger als 7 Noten sein.** Alles, was länger ist, ist für Anfänger vermutlich zu anstrengend.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 1/1, 2/1 oder langsameren Rhythmen bestehen.** Die gelegentliche Verwendung von 1/2-Rhythmen ist in Ordnung.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/2 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
-- **Nach 16/1 bis 20/1 kontinuierlichem Mapping sollte mindestens eine Pause eingefügt werden, die 2/1 oder länger ist.** Seltenere Ruhezeiten sind akzeptabel, wenn das Tempo der Musik Pausen kontraintuitiv macht oder wenn der durchgehend gemappte Teil insgesamt nachsichtiger zum Spieler ist.
+- **Nach 32/1 bis 36/1 kontinuierlichem Mapping sollte mindestens eine Pause eingefügt werden, die 2/1 oder länger ist.** Seltenere Ruhezeiten sind akzeptabel, wenn das Tempo der Musik Pausen kontraintuitiv macht oder wenn der durchgehend gemappte Teil insgesamt nachsichtiger zum Spieler ist.
 - **Die Slider-Geschwindigkeit darf geringfügig verändert werden.**
 
 Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkeitsstufe* einer Beatmap verwendet wird, muss sie ebenfalls diese Richtlinien befolgen:

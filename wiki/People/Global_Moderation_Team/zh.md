@@ -6,13 +6,11 @@ tags:
   - chat mod
   - 管理员
   - 版主
-outdated_translation: true
-outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ---
 
 # 全局管理团队 (GMT)
 
-*参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
+*参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)*
 
 **全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过红色的游戏内名称、柑橘绿的玩家头衔和写着 `GMT` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
@@ -98,7 +96,7 @@ outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天管理员 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 葡萄牙语，西班牙语 | 聊天管理员，锦标赛管理员 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 作图摸图社群管理员 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 |  |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 作图摸图社群管理员 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 贡献者 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 越南语 | 聊天管理员 |
@@ -176,3 +174,4 @@ outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ## 备注
 
 [^task-Azer]: 虽然 Azer 不属于全局管理团队 (GMT)，但从技术上来说，由于组织世界杯需要 GMT 级别的权限，也将他纳入了团队组。
+[^task-mangomizer]: 虽然 mangomizer 不属于全局管理团队 (GMT)，但从技术上来说，由于访问内部论坛需要 GMT 级别的权限，也将他纳入了团队组。
