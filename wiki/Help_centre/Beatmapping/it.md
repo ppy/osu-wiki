@@ -9,6 +9,8 @@ tags:
   - warning
   - caricare
   - attenzione
+outdated_translation: true
+outdated_since: 8c67d7c7c1262ef3610f033799e7bc73113618d3
 ---
 
 # Beatmapping e l'Editor
