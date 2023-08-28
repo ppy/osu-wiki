@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Packs de beatmaps
 
 Un **pack de beatmap** est une archive compressée contenant des [beatmaps](/wiki/Beatmap). Ils peuvent être trouvés sur la [liste des beatmaps packs](https://osu.ppy.sh/beatmaps/packs).
