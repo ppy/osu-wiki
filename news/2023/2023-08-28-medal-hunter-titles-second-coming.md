@@ -17,6 +17,12 @@ In order to obtain such a desirable title, you had to be the first player to fin
 
 The community was trying their best to *hunt* for the solution, but after an enormous number of attempts that they thought would surely work, insanity started creeping in, and hope was slowly starting to fade. *On this journey of basking in the shade of an ailing mind*, the community had received various hints, including a video recorded by one of medal hunters at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), featuring [peppy](https://osu.ppy.sh/users/2) himself!
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/media/news/coe_video_with_peppy.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 Within the first few days of the medal releasing, medal hunters were very quick to piece together that the hues were hinting at RGB to some capacity, but nobody knew in what way. From there, medal hunters set out to find how to input various RGB values in game, but nothing seemed to be working. In the worst of medal hunters' struggles, half of them entered full Sherlock Holmes mode during the 2nd week of the hunt, relying more on insanity than logic and drowning the discussion threads with abominations of theories. Some were genuinely good theories that Ephemeral would take note of, and others... well, let's just say Pac-Man theory.
 
 But, despite all the challenges the community was still determined to find the solution. One of them was [UberFazz](https://osu.ppy.sh/users/8646059), who was going back and forth, seeking for the way to get this medal. At first they assumed it would be achieving 16,777,216 score, because that's how many possible colors there are in RGB. Another guess of theirs was to interact with osu! website to find a hidden message somewhere on it, which would then lead to a solution. They were also told by one of developers they had insanely close guesses multiple times, but that was just not enough...
