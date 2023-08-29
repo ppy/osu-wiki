@@ -13,6 +13,8 @@ tags:
   - 槽位
   - 状态
   - 警告
+outdated_translation: true
+outdated_since: 8c67d7c7c1262ef3610f033799e7bc73113618d3
 ---
 
 # 作图与编辑器
