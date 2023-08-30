@@ -11,7 +11,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y nodejs npm
 
 WORKDIR /osu-wiki
 COPY package.json package-lock.json scripts/requirements.txt /osu-wiki/
-RUN npm install
+RUN npm install && npm install -g osu-wiki
 RUN pip3 install -r requirements.txt
 
 # Prevent git from refusing to work in a repository with "dubious ownership".
