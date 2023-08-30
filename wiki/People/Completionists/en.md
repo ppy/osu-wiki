@@ -1,8 +1,14 @@
+---
+tags:
+  - osu!completionist
+  - completionist
+---
+
 # Completionists
 
 **Completionists** are players who have completed every [Ranked](/wiki/Beatmap/Category#ranked) [beatmap](/wiki/Beatmap) of a given [game mode](/wiki/Game_mode). Because the amount of Ranked beatmaps increases every day, this feat becomes progressively more difficult to achieve.
 
-As of August 2023, this achievement is recognised through a [profile badge](/wiki/Community/Profile_badge)
+As of August 2023, this achievement is recognised through a [profile badge](/wiki/Community/Profile_badge):
 
 ![osu!](img/osu.png "osu! completionist badge") ![osu!taiko](img/taiko.png "osu!taiko completionist badge") ![osu!catch](img/catch.png "osu!catch completionist badge") ![osu!mania](img/mania.png "osu!mania completionist badge")
 
@@ -22,6 +28,6 @@ In order to be considered a completionist, a player must play every existing Ran
 
 ## Trivia
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) was awarded the [user title](/wiki/Community/User_title) "*The First Completionist*" for being the first player to ever achieve this feat.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) was awarded the user title "*Drum Decimator*" for scoring full combos on every Ranked osu!taiko beatmap, alongside being the first osu!taiko completionist.
-- Prior to August 2023, players used to earn an "*osu!completionist*" user title, which was discontinued in favour of profile badges.
+- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) was awarded the [user title](/wiki/Community/User_title) *The First Completionist* for being the first player to ever achieve this feat.
+- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) was awarded the user title *Drum Decimator* for scoring full combos on every Ranked osu!taiko beatmap, alongside being the first osu!taiko completionist.
+- Prior to August 2023, players used to earn an *osu!completionist* user title, which was discontinued in favour of profile badges.
