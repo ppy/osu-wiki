@@ -29,6 +29,8 @@ But, despite all the challenges the community was still determined to find the s
 
 But suddenly, the very last hint was dropped, and after reading it, UberFazz figured exactly what they need to do. Shortly after trying their idea, UberFazz successfully got **Internment** medal and received the "**Medal Hunter**" title, after more than a month since the medal's release!
 
+![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/uberfazz_profile.png)
+
 UberFazz would like to give massive thanks to all those that participated in this event. They say that without the osu! medal hunting community, this would have never transpired. There were very incredibly close guesses that barely undershot the medal solution, but UberFazz was the one that made that final push and emerged as the ultimate victor for Internment and its medal hunter title.
 
 According to Ephemeral and most of the medal hunting community, this is a masterwork of a Hush-Hush medal which sets a great example for what medals set out to be.
