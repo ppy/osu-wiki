@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 6116038f573d130ce31be263162ff71d45b0b441
----
-
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
