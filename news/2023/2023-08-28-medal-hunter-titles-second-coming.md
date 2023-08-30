@@ -9,7 +9,7 @@ The legendary "**Medal Hunter**" title came back once again challenging every pl
 ![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/banner.jpg)
 
 [Medals](/wiki/Medals) are osu! achievements which are given for achieving certain goals, and the last batch of medals was quite exciting.
-On 2023-07-27, alongside new [Hush-Hush medals](/wiki/Medals#hush-hush), [Ephemeral](https://osu.ppy.sh/users/102335) made a [news post](https://osu.ppy.sh/home/news/2023-07-27-summer-splash) in which he announced the "**Medal Hunter**" title coming back once again.
+On July 27th, 2023, alongside new [Hush-Hush medals](/wiki/Medals#hush-hush), [Ephemeral](https://osu.ppy.sh/users/102335) made a [news post](https://osu.ppy.sh/home/news/2023-07-27-summer-splash) in which he announced the "**Medal Hunter**" title coming back once again.
 
 "**Medal Hunter**" is a [unique user title](/wiki/People/Users_with_unique_titles), which is given for being the first player to unlock an extremely hard to solve Hush-Hush medal. The [previous "**Medal Hunter**" title](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) has been given out nearly **6 years ago**, which definitely made it even more interesting.
 
@@ -18,7 +18,7 @@ In order to obtain such a desirable title, you had to be the first player to fin
 The community was trying their best to *hunt* for the solution, but after an enormous number of attempts that they thought would surely work, insanity started creeping in, and hope was slowly starting to fade. *On this journey of basking in the shade of an ailing mind*, the community had received various hints, including a video recorded by one of medal hunters at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), featuring [peppy](https://osu.ppy.sh/users/2) himself!
 
 <div align="center">
-  <video width="95%" controls>
+  <video width="50%" controls>
     <source src="https://assets.ppy.sh/media/news/coe_video_with_peppy.mp4" type="video/mp4" preload="none">
   </video>
 </div>
