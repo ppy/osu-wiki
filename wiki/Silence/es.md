@@ -14,7 +14,7 @@ Los usuarios silenciados por los moderadores no pueden hacer lo siguiente:
 - Publicar en cualquiera de los foros de osu!
 - Dejar comentarios en cualquier lugar del sitio web (noticias, registro de cambios, beatmaps)
 - Participar en [discusiones de beatmaps](/wiki/Beatmap_discussion)
-- Editar los detalles del perfil (p. ej. avatar, sección «¡yo!»)
+- Editar los detalles del perfil (p. ej. avatar, sección «¡yo!», etc.)
 - Enviar y actualizar beatmaps
 - Participar en juegos [multijugador](/wiki/Client/Interface/Multiplayer)
 
