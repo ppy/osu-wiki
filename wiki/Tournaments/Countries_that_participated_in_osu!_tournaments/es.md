@@ -1,17 +1,11 @@
----
-no_native_review: true
----
-
 # Países que participaron en torneos de osu!
 
-Este artículo enumera los países que han participado en torneos oficiales de [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), y [osu!mania](/wiki/Game_mode/osu!mania). También proporciona las clasificaciones de los equipos que han llegado al top 3.
+Este artículo enumera los países que han participado en torneos oficiales de [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) y [osu!mania](/wiki/Game_mode/osu!mania). También proporciona las clasificaciones de los equipos que han llegado al top 3.
 
 *Nota: No se tienen en cuenta los torneos oficiales que permitían equipos que no representaban a países.*\
-*Nota: No se tienen en cuenta los equipos mixtos (por ejemplo, Argentina-Columbia).*
+*Nota: No se tienen en cuenta los equipos mixtos (p. ej. Argentina-Colombia).*
 
 ## Clasificaciones
-
-<!-- last update: CWC 2022 (Registration phase)-->
 
 ### Clasificación general
 
@@ -142,8 +136,8 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=PH }:: Filipinas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PL }:: Polonia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PT }:: Portugal | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=RO }:: Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=RU }:: Federación Rusa | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RO }:: Rumanía | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RU }:: Federación de Rusia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SG }:: Singapur | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SK }:: Eslovaquia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -195,7 +189,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=PH }:: Filipinas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PL }:: Polonia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PT }:: Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=RU }:: Federación Rusa | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RU }:: Federación de Rusia | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SG }:: Singapur | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=ES }:: España | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
@@ -249,8 +243,8 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=PH }:: Filipinas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PL }:: Polonia | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PT }:: Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ::{ flag=RO }:: Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ::{ flag=RU }:: Federación Rusa | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RO }:: Rumanía | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=RU }:: Federación de Rusia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SA }:: Arabia Saudita | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=SG }:: Singapur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -305,8 +299,8 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=PH }:: Filipinas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PL }:: Polonia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=PT }:: Portugal | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ::{ flag=RO }:: Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ::{ flag=RU }:: Federación Rusa | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RO }:: Rumanía | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=RU }:: Federación de Rusia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SG }:: Singapur | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=ES }:: España | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
