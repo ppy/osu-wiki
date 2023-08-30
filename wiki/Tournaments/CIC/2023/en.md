@@ -28,9 +28,9 @@ The **Catch the Beat Indonesia Cup (Open) 2023** (***CIC 2023***) was a double-e
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st Place") | 50% of the raised prize pool, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd Place") | 35% of the raised prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd Place") | 15% of the raised prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 35% of the raised prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the raised prize pool |
 
 ![](img/badge.png "CIC 2023 Winner Badge")
 
