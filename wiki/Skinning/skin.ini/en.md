@@ -398,7 +398,7 @@ osu! organises the commands with a heading command. Which may look like this `[G
 - `ComboPrefix:`
   - Question: What prefix is used for the combo numbers?
   - Value: text *(path/filename prefix)*
-  - Default: `combo`
+  - Default: `score`
 - `ComboOverlap:`
   - Question: By how many pixels should the combo numbers overlap?
   - Value: *integer*
@@ -546,10 +546,9 @@ Keys: 5
   - Notes:
     - This is the hint for when the keys should be pressed.
 - `LightFramePerSecond:`
-  - Question: *unknown*
-  - Value: *unknown*
-  - Notes:
-    - May be obsolete.
+  - Question: How many frames should be displayed by the `StageLight` animation in one second?
+  - Value: *integer*
+  - Default: *unknown*
 - `SpecialStyle:`
   - Question: What SpecialStyle is used for this keycount if available?
   - Value: `0`, `1`, or `2`
