@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
 # Storyboard Scripting General Rules
 
 ![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
