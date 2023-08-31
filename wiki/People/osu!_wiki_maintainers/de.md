@@ -14,7 +14,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktiv** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inaktiv |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inaktiv | Spanisch |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inaktiv | Deutsch |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inaktiv | Deutsch |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inaktiv |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inaktiv | Deutsch |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktiv** | Japanisch |
