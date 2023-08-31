@@ -8,7 +8,7 @@ tags:
 
 **Completionists** are players who have completed every [Ranked](/wiki/Beatmap/Category#ranked) [beatmap](/wiki/Beatmap) of a given [game mode](/wiki/Game_mode). Because the amount of Ranked beatmaps increases every day, this feat becomes progressively more difficult to achieve.
 
-As of August 2023, this achievement is recognised through a [profile badge](/wiki/Community/Profile_badge):
+As of September 2023, this achievement is recognised through a [profile badge](/wiki/Community/Profile_badge):
 
 ![osu!](img/osu.png "osu! completionist badge") ![osu!taiko](img/taiko.png "osu!taiko completionist badge") ![osu!catch](img/catch.png "osu!catch completionist badge") ![osu!mania](img/mania.png "osu!mania completionist badge")
 
