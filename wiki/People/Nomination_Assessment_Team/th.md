@@ -53,15 +53,15 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluation |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ | Evaluation |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluation, structural |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | Evaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Structural |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | Evaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน | Evaluation |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
@@ -72,6 +72,7 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluation |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluation |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Leadership |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส | Evaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |

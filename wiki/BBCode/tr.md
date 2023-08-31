@@ -69,12 +69,12 @@ Araç çubuğu butonu: ![Üstü çizili butonu](img/strike.png "Üstü çizili")
 ### Renk
 
 ```
-[color=HEXCODE]metin[/color]
+[color=#HEXCODE]metin[/color]
 ```
 
 *Tüm renk adlarının bir listesi için, bakınız: [X11 renk adları](https://tr.wikipedia.org/wiki/X11_renk_adlar%C4%B1)*
 
-`[color]` etiketi metni pek çok türdeki web-güvenli renklerle biçimlendirmek için kullanılır. Bu etiket rengi belirtmek için [HEX kodu](https://tr.wikipedia.org/wiki/Web_renkleri#%C3%9C%C3%A7l%C3%BC_Hex) formatını kullanır, ancak bu renkler aynı zamanda "red" (kırmızı) veya "green" (yeşil) gibi HTML renk isimleriyle de belirtilebilir. Belirtmek için `HEXCODE` argümanı yerine ilgili rengin HEX kodunu veya HTML ismini yazmanız yeterlidir. 
+`[color]` etiketi metni pek çok türdeki web-güvenli renklerle biçimlendirmek için kullanılır. Bu etiket rengi belirtmek için [HEX kodu](https://tr.wikipedia.org/wiki/Web_renkleri#%C3%9C%C3%A7l%C3%BC_Hex) formatını kullanır, ancak bu renkler aynı zamanda "red" (kırmızı) veya "green" (yeşil) gibi HTML renk isimleriyle de belirtilebilir. Belirtmek için `#HEXCODE` argümanı yerine ilgili rengin HEX kodunu veya HTML ismini yazmanız yeterlidir. 
 
 Yukarıda belirtilen argüman tırnak işareti (`"`) içermez, ve herhangi bir varsayılan renge sahip değildir. Eğer herhangi bir argüman belirtilmemişse, ya da tırnak işareti kullanılmışsa, bu etiket bir BBCode etiketi olarak algılanmayacaktır.
 
