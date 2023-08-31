@@ -41,9 +41,9 @@ CIC 2023 was run by various osu! community members predominantly hailing from In
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
-| Mappool Selector | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Mappool selector | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
 | Custom mapper | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) |
-| Mappool Tester | ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096), ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627), ::{ flag=CL }:: [XisK](https://osu.ppy.sh/users/3835436), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) |
+| Mappool tester | ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096), ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627), ::{ flag=CL }:: [XisK](https://osu.ppy.sh/users/3835436), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) |
 | Streamer | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
 | Commentator | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=US   }:: [004](https://osu.ppy.sh/users/9228388), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) |
 | Referee | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
@@ -52,7 +52,7 @@ CIC 2023 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main Website](https://wybin.xyz/tournaments/cico2023/home)**
+- **[Main website](https://wybin.xyz/tournaments/cico2023/home)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1777079?n=1)
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/cico2023)
@@ -69,7 +69,7 @@ Listed below are the players who qualified for the Round of 32, along with their
 | 17-24 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=AU }:: [Andogs](https://osu.ppy.sh/users/4599191), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=MY }:: [Kagari](https://osu.ppy.sh/users/3366264), ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=MY }:: [davidbeh_97](https://osu.ppy.sh/users/4101818) |
 | 25-32 | ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687), ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968), ::{ flag=ID }:: [Strict_Lane](https://osu.ppy.sh/users/24810703), ::{ flag=TH }:: [Yosaf](https://osu.ppy.sh/users/12128203), ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880), ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231)[^player-replacement], ::{ flag=SG }:: [NoBadgetGuy](https://osu.ppy.sh/users/28498328)[^player-replacement], ::{ flag=ID }:: [nurjavier](https://osu.ppy.sh/users/8535534)[^player-replacement] |
 
-See the [players list](https://wybin.xyz/tournaments/cico2023/players) for a list of all initial players.
+See the [participants list](https://wybin.xyz/tournaments/cico2023/players) for a list of all initial participants.
 
 ## Podium
 
@@ -442,7 +442,7 @@ Sunday, 23 July 2023:
 
 ### Qualifiers rules
 
-1. In the Qualifiers stage, all players will be playing by themselves in a qualifier lobby. All players have to choose which time works best for them based on pre-determined qualifier lobbies in [WyBin](https://wybin.xyz/tournaments/cico2023/schedule#qualifiers).
+1. In the Qualifiers stage, all players will be playing by themselves in a qualifier lobby. All players have to choose which time works best for them based on pre-determined qualifier lobbies by Tournament Manager in [WyBin](https://wybin.xyz/tournaments/cico2023/schedule#qualifiers).
 2. In the lobby, the players will play through the entire mappool in the order given on the mappool sheet. This means you will play through all of the NM maps, HD maps, HR maps, DT maps, and EZ maps.
 3. All players will play through the pool once. All players are allowed to play for the 2nd play through after they have played the entire mappool.
 4. For the 2nd play through, the players are allowed to skip the beatmaps (the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
