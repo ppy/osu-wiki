@@ -18,13 +18,20 @@ In order to be considered a completionist, a player must play every existing Ran
 
 ## Confirmed completionists
 
-| Player | Game mode | Date of completion | Total played difficulties |
-| :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | ![](/wiki/shared/mode/osu.png) | 2019-04-27 | 60,845 |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | ![](/wiki/shared/mode/taiko.png) | 2019-11-03 | 8,841 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | ![](/wiki/shared/mode/osu.png) | 2021-08-11 | 82,298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | ![](/wiki/shared/mode/osu.png) | 2023-03-15 | 97,668 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | ![](/wiki/shared/mode/taiko.png) | 2023-08-14 | 22,170 |
+### osu!
+
+| Player | Date of completion | Total played difficulties |
+| :-- | :-- | :-- |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 2019-04-27 | 60,845 |
+| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 2021-08-11 | 82,298 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 2023-03-15 | 97,668 |
+
+### osu!taiko
+
+| Player | Date of completion | Total played difficulties |
+| :-- | :-- | :-- |
+| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 2019-11-03 | 8,841 |
+| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 2023-08-14 | 22,170 |
 
 ## Trivia
 
