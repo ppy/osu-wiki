@@ -75,7 +75,7 @@ The osu!mania Malaysia Tournament 3 was run by various community members.
 | #1,118 | ::{ flag=MY }:: [256](https://osu.ppy.sh/users/30419111) |
 | #1,695 | ::{ flag=MY }:: [9919149](https://osu.ppy.sh/users/7972439/mania) |
 | #1,935 | ::{ flag=MY }:: [Ju1nY11](https://osu.ppy.sh/users/14743871) |
-| #2,088 | ::{ flag=MY }:: [[RGK]Cheoky29](https://osu.ppy.sh/users/14901072) |
+| #2,088 | ::{ flag=MY }:: [\[RGK\]Cheoky29](https://osu.ppy.sh/users/14901072) |
 | #2,260 | ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028) |
 | #2,542 | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) |
 | #2,736 | ::{ flag=MY }:: [StyGix](https://osu.ppy.sh/users/7745408) |
