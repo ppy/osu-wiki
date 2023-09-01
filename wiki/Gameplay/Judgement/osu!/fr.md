@@ -55,7 +55,7 @@ Il existe d'autres particularités concernant l'influence des sliders dans les [
 
 ### Spinners
 
-Chaque [spinner](/wiki/Gameplay/Hit_object/Spinner) a un nombre défini de spins nécessaires pour le compléter. Ce nombre dépend de la [difficulté globale](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) de la beatmap. La vitesse de rotation du spinner est calculée en fonction du cursor velocity et ne correspond pas nécessairement au nombre de fois où le spinner a spin.
+Chaque [spinner](/wiki/Gameplay/Hit_object/Spinner) a un nombre défini de spins nécessaires pour le compléter. Ce nombre dépend de la [difficulté globale](/wiki/Beatmap/Overall_difficulty#sliders-et-spinners) de la beatmap. La vitesse de rotation du spinner est calculée en fonction du cursor velocity et ne correspond pas nécessairement au nombre de fois où le spinner a spin.
 
 | Jugement | Spins requis[^demi-spins] |
 | :-: | :-- |
