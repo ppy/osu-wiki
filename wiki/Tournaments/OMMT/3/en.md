@@ -294,7 +294,7 @@ Saturday, 5 August 2023:
 | --: | :-: | :-: | :-- | :-- |
 | StyGix ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **StyGix** | *win by default* |
 | **Tosai\_** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: YtAlbin0 | [#1](https://osu.ppy.sh/community/matches/109845410) |
-| **xxxxxx2800** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: JayLye | [#1](https://osu.ppy.sh/mp/109849361) |
+| **xxxxxx2800** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: JayLye | [#1](https://osu.ppy.sh/community/matches/109849361) |
 | **Tosai\_** ::{ flag=MY }:: | **7** | 0 | ::{ flag=MY }:: 9919149 | [#1](https://osu.ppy.sh/community/matches/109851068) |
 
 ### Semifinals
@@ -319,7 +319,7 @@ Sunday, 30 July 2023:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **xxxxxx2800** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: StyGix | [#1](https://osu.ppy.sh/mp/109750957) |
+| **xxxxxx2800** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: StyGix | [#1](https://osu.ppy.sh/community/matches/109750957) |
 | **9919149** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: RedCatzzButReal | [#1](https://osu.ppy.sh/community/matches/109753026) |
 
 ### Quarterfinals
@@ -335,7 +335,7 @@ Friday, 21 July 2023:
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YtAlbin0** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Jugemu-Jugemu | [#1](https://osu.ppy.sh/community/matches/109604305) |
-| **kaijunchang7628** ::{ flag=MY }:: | **6** | 5 | ::{ flag=MY }:: Kzon | [#1](https://osu.ppy.sh/mp/109606008) |
+| **kaijunchang7628** ::{ flag=MY }:: | **6** | 5 | ::{ flag=MY }:: Kzon | [#1](https://osu.ppy.sh/community/matches/109606008) |
 
 Saturday, 22 July 2023:
 
@@ -343,12 +343,12 @@ Saturday, 22 July 2023:
 | --: | :-: | :-: | :-- | :-- |
 | **YtAlbin0** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: kaijunchang7628 | [#1](https://osu.ppy.sh/community/matches/109615287) |
 | **Evirir** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: DiarrheaEnjoyer | [#1](https://osu.ppy.sh/community/matches/109617125) |
-| **xxxxxx2800** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: ReJust | [#1](https://osu.ppy.sh/mp/109618545) |
+| **xxxxxx2800** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: ReJust | [#1](https://osu.ppy.sh/community/matches/109618545) |
 | **RedCatzzButReal** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: xyyyyyy | [#1](https://osu.ppy.sh/community/matches/109618992) |
 | VASD Player ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **PurpleLune** | **win by default* |
 | **Drysilas** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: XxTheJKxX | [#1](https://osu.ppy.sh/community/matches/109620051) |
 | **Tosai\_** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: \[MR\]Myina | [#1](https://osu.ppy.sh/community/matches/109621316) |
-| **LloydTTG** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: Aleppie | [#1](https://osu.ppy.sh/mp/109622360) |
+| **LloydTTG** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: Aleppie | [#1](https://osu.ppy.sh/community/matches/109622360) |
 | **9919149** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: cirinoes | [#1](https://osu.ppy.sh/community/matches/109623120) |
 
 Sunday, 23 July 2023:
