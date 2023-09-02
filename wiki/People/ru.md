@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
+---
+
 # Команды и личности
 
 Заглавная статья о различных пользователях и группах.
