@@ -14,7 +14,7 @@ As of September 2023, this achievement is recognised through a [profile badge](/
 
 ## Completion criteria
 
-In order to be considered a completionist, a player must play every existing Ranked beatmap of a given game mode without using the [No Fail (NF) mod](/wiki/Gameplay/Game_modifier/No_Fail), nor [special mods](/wiki/Gameplay/Game_modifier#special). This does not include converted beatmaps for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania). For osu!mania, only 4K and 7K beatmaps are considered for completion.
+In order to be considered a completionist, a player must pass every existing Ranked beatmap of a given game mode without using the [No Fail (NF) mod](/wiki/Gameplay/Game_modifier/No_Fail) nor any [special mods](/wiki/Gameplay/Game_modifier#special). This does not include converted beatmaps for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania). For osu!mania, only 4K and 7K beatmaps are considered for completion.
 
 ## Confirmed completionists
 
