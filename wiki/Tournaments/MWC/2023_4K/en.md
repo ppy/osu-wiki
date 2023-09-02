@@ -133,23 +133,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T040000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T040000&p1=1440&p2=155&p3=236) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Sep 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T100000&p1=1440&p2=102&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=57&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=IT }:: Italy | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=57&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=GB }:: United Kingdom | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=95&p3=136) |  | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=ES }:: Spain | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=102&p3=141) |  | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=33&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=33&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=166&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=166&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=IT }:: Italy | [Sep 3 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T140000&p1=1440&p2=95&p3=215) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Philippines ::{ flag=PH }:: | ::{ flag=BR }:: Brazil | [Sep 3 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T140000&p1=1440&p2=145&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=NL }:: Netherlands | [Sep 3 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T160000&p1=1440&p2=188&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [Sep 3 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T160000&p1=1440&p2=155&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=ES }:: Spain | [Sep 3 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T170000&p1=1440&p2=131&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=DE }:: Germany | [Sep 3 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T170000&p1=1440&p2=131&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Semifinals | mappool showcase | [Sep 3 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
 
@@ -240,6 +229,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 2 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/110276466) | [#1](https://www.twitch.tv/videos/1915244507) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/110278521) | [#1](https://www.twitch.tv/videos/1915245239) |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/110279274) | [#1](https://www.twitch.tv/videos/1915247587) |
+| Spain ::{ flag=ES }:: | 2 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/110281016) | [#1](https://www.twitch.tv/videos/1915250092) |
+| **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/110281465) | [#1](https://www.twitch.tv/videos/1915253307) |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/110282149) | [#1](https://www.twitch.tv/videos/1915250092?t=0h52m10s) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/110283943) | [#1](https://www.twitch.tv/videos/1915254129) |
+| **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/110283947) | [#1](https://www.twitch.tv/videos/1915251168) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/110289986) |  |
 
 ### Round of 16
 
