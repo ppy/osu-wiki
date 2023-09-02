@@ -12,11 +12,9 @@ As of September 2023, this achievement is recognised through a [profile badge](/
 
 ![osu!](img/osu.png?20230902 "osu! completionist badge") ![osu!taiko](img/taiko.png?20230902 "osu!taiko completionist badge") ![osu!catch](img/catch.png?20230902 "osu!catch completionist badge") ![osu!mania](img/mania.png?20230902 "osu!mania completionist badge")
 
-## Completion criteria
-
-In order to be considered a completionist, a player must pass every existing Ranked beatmap of a given game mode without using the [No Fail (NF) mod](/wiki/Gameplay/Game_modifier/No_Fail) nor any [special mods](/wiki/Gameplay/Game_modifier#special). This does not include converted beatmaps for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania). For osu!mania, only 4K and 7K beatmaps are considered for completion.
-
 ## Confirmed completionists
+
+These people have been verified by the osu! team as completionists:
 
 ### osu!
 
@@ -36,5 +34,5 @@ In order to be considered a completionist, a player must pass every existing Ran
 ## Trivia
 
 - ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) was awarded the [user title](/wiki/Community/User_title) *The First Completionist* for being the first player to ever achieve this feat.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) was awarded the user title *Drum Decimator* for scoring full combos on every Ranked osu!taiko beatmap, alongside being the first osu!taiko completionist.
-- Prior to August 2023, players used to earn an *osu!completionist* user title, which was discontinued in favour of profile badges.
+- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) was awarded the user title *Drum Decimator* for being the first osu!taiko completionist and scoring full combos on every Ranked osu!taiko beatmap.
+- Prior to September 2023, players used to earn an *osu!completionist* user title, which was discontinued in favour of profile badges.
