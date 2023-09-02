@@ -84,7 +84,7 @@ Try out [another new beatmap](https://osu.ppy.sh/beatmapsets/2035357) hosted by 
 
 All of **C-Show**'s tunes are pre-timed and ready for mapping. All you have to do is click some buttons on your big rectangle (or small rectangle if you're reading from a phone), starting with [this link to **C-Show**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/378)!
 
-It's no secret that mapping can be difficult to get into. If you're struggling to take the first steps, maybe check out the [Mappers' Guild](https://osu.ppy.sh/wiki/Community/Mappers_Guild) for some ways to get involved alongside other new mappers!
+It's no secret that mapping can be difficult to get into. If you're struggling to take the first steps, maybe check out the [Mappers' Guild](/wiki/Community/Mappers_Guild) for some ways to get involved alongside other new mappers!
 
 Stay tuned for another Featured Artist next week.
 
