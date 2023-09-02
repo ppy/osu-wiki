@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: C-Show"
-date: 2023-09-02 11:00:00 +0000
+date: 2023-09-02 20:00:00 +0000
 ---
 
 osu!'s red carpet unrolls for **C-Show**, our latest Featured Artist!
@@ -37,7 +37,7 @@ Wondering how **C-Show** translates to circles and sliders? [Ekoro](https://osu.
 Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/305938) hosted by [Avena](https://osu.ppy.sh/users/2198472) or [this brand-new set](https://osu.ppy.sh/beatmapsets/2031865) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20Rocking%20to%20the%20Beat.mp3">
 </audio>
 
 ### C-Show - WorkaHolic
@@ -45,7 +45,7 @@ Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/305938
 Check out [the first Ranked **C-Show** map](https://osu.ppy.sh/beatmapsets/77441) hosted by [Agka](https://osu.ppy.sh/users/64811)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20WorkaHolic.mp3">
 </audio>
 
 ### C-Show - AImee feat. Aitsuki Nakuru
@@ -53,7 +53,7 @@ Check out [the first Ranked **C-Show** map](https://osu.ppy.sh/beatmapsets/77441
 Experience [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2044626) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2047648) hosted by [Virtue-](https://osu.ppy.sh/users/6144772)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Make%20Some%20Noise%20for%20Mr%E2%80%8B.%E2%80%8BC/C-Show%20-%20AImee%20feat.%20Aitsuki%20Nakuru.mp3">
 </audio>
 
 ### C-Show - War Machine
@@ -61,7 +61,7 @@ Experience [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2044626) ho
 Or attempt [this Loved map](https://osu.ppy.sh/beatmapsets/503580) hosted by [ProfessionalBox](https://osu.ppy.sh/users/3250792)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20War%20Machine.mp3">
 </audio>
 
 ### C-Show - Make Some Noise for Mr.C
@@ -69,7 +69,7 @@ Or attempt [this Loved map](https://osu.ppy.sh/beatmapsets/503580) hosted by [Pr
 Make some noise (specifically with your keyboard) while playing [this map](https://osu.ppy.sh/beatmapsets/1305940) hosted by [MaridiuS](https://osu.ppy.sh/users/4496961)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Make%20Some%20Noise%20for%20Mr%E2%80%8B.%E2%80%8BC/C-Show%20-%20Make%20Some%20Noise%20for%20Mr.C.mp3">
 </audio>
 
 ### C-Show feat. Ishizawa Yukari - Border Line
@@ -77,7 +77,7 @@ Make some noise (specifically with your keyboard) while playing [this map](https
 Try out [another new beatmap](https://osu.ppy.sh/beatmapsets/2035357) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20Border%20Line.mp3">
 </audio>
 
 ---
