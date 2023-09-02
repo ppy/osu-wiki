@@ -20,7 +20,7 @@ If you want to actually *experience* some of what **C-Show** has to offer, a new
 
 ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
-This round of playlists covers **osu!**, **osu!taiko**, and **osu!mania**. We'll aim to have osu!catch ready next time! See the full rewards explanation [here](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes), and [check out the winners from the last round](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists).
+This round of playlists covers **osu!**, **osu!taiko** (tomorrow), and **osu!mania**. We'll aim to have osu!catch ready next time! See the [full explanation of the rewards here](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes) and [check out the winners from the last round here](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists).
 
 ---
 
@@ -34,7 +34,7 @@ Wondering how **C-Show** translates to circles and sliders? [Ekoro](https://osu.
 
 ### C-Show - Rocking to the Beat
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/305938) hosted by [Avena](https://osu.ppy.sh/users/2198472) or [this brand new set](https://osu.ppy.sh/beatmapsets/2031865) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/305938) hosted by [Avena](https://osu.ppy.sh/users/2198472) or [this brand-new set](https://osu.ppy.sh/beatmapsets/2031865) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
 
 <audio controls>
     <source src="LINK">
