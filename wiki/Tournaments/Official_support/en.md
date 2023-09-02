@@ -27,8 +27,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than two times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum.
-  - Larger formats, such as group stages and swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact tournaments@ppy.sh if they are seeking to receive tournament support for a non-traditional tournament format or size.
+  - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
@@ -40,7 +40,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
-## Requesting Support
+## Requesting support
 
 To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
 
@@ -110,7 +110,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 At the account support team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
-## Other Procedures
+## Other procedures
 
 ### Tournament screening
 
@@ -141,7 +141,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
-### Profile Badges
+### Profile badges
 
 Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two weeks after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
 
@@ -197,7 +197,7 @@ Please consult the following examples of acceptable banner designs:
 
 Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
-## Frequently Asked Questions
+## FAQ
 
 ### If a user has not yet played any matches, can they join the staff? {id=no-play-join-staff}
 

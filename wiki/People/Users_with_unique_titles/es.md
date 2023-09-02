@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
+---
+
 # Usuarios con títulos únicos
 
 Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones.La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
@@ -172,6 +177,8 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
 
 ## Elite Nominators
+
+*Pagina principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
 
 Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
 

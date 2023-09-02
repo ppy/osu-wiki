@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - profile
   - issue
@@ -12,6 +11,9 @@ tags:
   - device
   - username
   - deletion
+  - flag change
+  - change flag
+  - wrong flag
   - Profil
   - Problem
   - Einschränkung
@@ -20,6 +22,8 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
+  - Flagge ändern
+  - Falsche Flagge
 ---
 
 # Account
@@ -187,15 +191,11 @@ Dein Profil wird alle deine vorher gekauften Namensänderungen anzeigen, aber wi
 
 ## Andere Probleme {id=other}
 
-### Die Flagge/das Land auf meinem Profil ist falsch! {id=wrong-flag}
+### Kann ich die Flagge/das Land auf meinem Profil ändern? {id=wrong-flag}
 
-**Leider können wir das nicht für dich ändern.**
+**Ja, unter bestimmten Umständen.**
 
-Das mit deinem osu!-Profil verknüpfte Land basiert auf der geographischen Lage der Verbindung, die du benutzt hast, als du deinen Account registriert hast. Das Land wird deinem Account dauerhaft zugewiesen.
-
-In der Vergangenheit haben wir unseren Spielern die Möglichkeit gegeben, die Flagge ihres Accounts ändern zu können, sofern sie Beweise für ihren Aufenthalt liefern konnten. Nach etlichen Fällen von Missbrauch durch skrupellose Spieler hatten wir keine andere Wahl als dieses Angebot einzustellen.
-
-Bitte habe Verständnis, dass wir dies unter keinen Umständen ändern können, ungeachtet der Leute, von denen du gehört hast oder die du kennst, bei denen es funktioniert hat.
+Wenn du dich über einen längeren Zeitraum hinweg immer wieder von einem Land aus verbunden hast, das sich von dem Land deines Accounts unterscheidet, wirst du dazu aufgefordert, das Land deines Kontos in den [Accounteinstellungen](https://osu.ppy.sh/home/account/edit) zu ändern.
 
 ### Kann ich mehr als einen Account erstellen? {id=no-multiaccounting}
 

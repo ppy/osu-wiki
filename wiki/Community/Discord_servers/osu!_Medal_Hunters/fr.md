@@ -32,10 +32,10 @@ Un grand nombre de chasseurs de médailles travaillent ensemble afin de trouver 
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151) |
-| Administrateurs du serveur | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
-| Community managers et administrateurs du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
-| Modérateur du serveur | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
+| Propriétaire du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (@megamix_craft) |
+| Administrateurs du serveur | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (@tanza3d), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (@mulraf) |
+| Community managers et administrateurs du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (@megamix_craft), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (@chromb), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (@remyria) |
+| Modérateur du serveur | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (@bento69) |
 
 ## Vérification
 

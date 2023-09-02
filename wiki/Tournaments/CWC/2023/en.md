@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2023 banner](img/cwc2023-banner.jpg)
 
-The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2023** (***CWC 2023***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
+The osu!catch World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,231.22 from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,16 +35,18 @@ The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2023-badge-1st.png "CWC 2023 winner badge") ![](img/cwc2023-badge-2nd.png "CWC 2023 2nd-place badge") ![](img/cwc2023-badge-3rd.png "CWC 2023 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2023 is run by various community members.
+The osu!catch World Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
 | Mappool playtester | ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=CN }:: [Coevir](https://osu.ppy.sh/users/3171965), ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=HK }:: [Latifah-sama](https://osu.ppy.sh/users/1226238), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768),  ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
-| Mapper | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
+| Mapper | ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=FR }:: [Emiru](https://osu.ppy.sh/users/3306180), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589),  ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
 | Commentator | ::{ flag=IS }:: [Ash Ketchum](https://osu.ppy.sh/users/7297777), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -52,11 +54,11 @@ The osu!catch World Cup 2023 is run by various community members.
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBYHOykPfOx6doMljKcQfjyrXmdVjEflIV2hpHJpH1uoDhk7OpE84QHIYG0oO8MytJ4RtrME9qJ_JF/pubhtml)
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1QwtsUUDxfhHoXG5fJb6hrWYiBIMa_LnH)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/CWC_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/115) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
 
 ## Participants
 
@@ -104,20 +106,9 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 24 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jun 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230624T170000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 25 June 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=IT }:: Italy | [Jun 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T130000&p1=1440&p2=235&p3=215) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Jun 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230625T140000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals-potential] |
+![](img/cwc2023-podium.jpg "CWC 2023 podium")
 
 ## Mappools
 
@@ -306,6 +297,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Rh9jgncktYogyI9dTSELQqXBcldbESpvVFnT5d9JNLA/edit?rm=minimal).
+
+Friday, 23 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/109153239) | [#1](https://www.twitch.tv/videos/1854050976) | [^losers_finals] |
+
+Sunday, 25 June 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/109181821) | [#1](https://www.twitch.tv/videos/1855620476) | [^grand_finals] |
+| United States ::{ flag=US }:: | 4 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/109183237) | [#1](https://www.twitch.tv/videos/1855620476?t=1h21m3s) | [^bracket_reset] |
 
 ### Finals
 
@@ -634,5 +642,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^grand-finals-potential]: Grand Finals match
-[^losers-bracket]: Losers bracket Finals match
+[^losers_finals]: Losers bracket Finals match
+[^grand_finals]: Grand Finals match
+[^bracket_reset]: Grand Finals bracket reset match

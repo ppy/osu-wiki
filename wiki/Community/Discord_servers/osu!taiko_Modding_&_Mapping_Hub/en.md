@@ -28,8 +28,8 @@ The server mainly consists of:
 
 | Role | User (Discord handle) |
 | :-- | :-- |
-| Server Owner | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001) |
-| Server Moderators | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (Capu#4171), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (Dusk#8170), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (solar#5193), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (Yasuho#1512) |
+| Server Owner | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (@radar) |
+| Server Moderators | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (@capu.), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (@underscoredusk), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (@hvnlymoon), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (@radar), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (@yasuho) |
 
 ## Verification
 

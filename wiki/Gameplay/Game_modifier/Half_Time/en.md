@@ -17,7 +17,7 @@ tags:
 
 - Abbreviation: HT
 - Type: Difficulty Reduction
-- Score Multiplier: 
+- Score Multiplier:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
   - ![][osu!mania]: 0.50x
 - Default shortcut key: `E`

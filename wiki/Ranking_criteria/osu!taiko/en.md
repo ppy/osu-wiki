@@ -56,12 +56,13 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Muzukashii.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
+- **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
 #### Guidelines
 
 Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
-- **Avoid covering essential parts of the background with the taiko playfield.** If this happens, consider altering the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
+- **Avoid covering essential parts of the background with the taiko playfield.**
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.
 - **Avoid using smooth slider velocity changes over sections which include variable snapping.** Doing so impacts the readability of these snappings, so keep the variation low enough to avoid overlapping.
 - **Avoid abrupt slider velocity changes within patterns that already overlap (e.g. 1/4 streams).** Smooth slider velocity changes should be used in these cases to ensure that the patterns stay readable.
@@ -92,13 +93,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+- **At least 1 rest moment that is 3/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be 4 or less.
-- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
+- Overall Difficulty should be 3 or less.
+- HP Drain Rate should be 8 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 8, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -117,7 +118,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 2/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+- **At least 1 rest moment that is 2/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
@@ -127,8 +128,8 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 4 or less.
+- HP Drain Rate should be 7 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 7, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -136,11 +137,11 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Finisher notes must not be used in any 1/4 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
 - **Notes must be at least 1/6 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
+- **1/4 patterns must not be longer than five notes.** Anything longer is too straining for the target audience of this difficulty level.
 
 #### Guidelines
 
 - **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
-- **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **At least 1 rest moment that is 3/2 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using at least 3 consecutive rest moments that are 1/1 is an acceptable substitute if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
@@ -151,14 +152,14 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6, and vice versa for lower note counts.
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### Rules
 
 - **Finisher notes must not be used in any 1/6 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
-- **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern.** Placements other than this can disturb the readability for the audience at this level.
+- **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern and be of the opposite colour than its preceding note.** Placements other than this can disturb the readability for the audience at this level.
 - **Notes must be at least 1/8 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines
