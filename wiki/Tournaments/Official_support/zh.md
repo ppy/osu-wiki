@@ -10,7 +10,7 @@ tags:
   - 比赛
   - 锦标赛
 outdated_translation: true
-outdated_since:
+outdated_since: 141bb474c0239508b0bedd7143031cde4d3f861f
 ---
 
 # 官方锦标赛支持
