@@ -21,7 +21,7 @@ Players can earn mode-specific profile badges as per the **cumulative leaderboar
 
 ### Cumulative leaderboard
 
-As of June 2023, prizes are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding [September 2022](#september-2022) and [March 2023](#march-2023).
+As of June 2023, the above badges are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding [September 2022](#september-2022) and [March 2023](#march-2023).
 
 #### Base scoring
 
