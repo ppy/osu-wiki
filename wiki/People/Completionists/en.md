@@ -10,11 +10,11 @@ tags:
 
 As of September 2023, this achievement is recognised through a [profile badge](/wiki/Community/Profile_badge):
 
-![osu!](img/osu.png "osu! completionist badge") ![osu!taiko](img/taiko.png "osu!taiko completionist badge") ![osu!catch](img/catch.png "osu!catch completionist badge") ![osu!mania](img/mania.png "osu!mania completionist badge")
+![osu!](img/osu.png?20230902 "osu! completionist badge") ![osu!taiko](img/taiko.png?20230902 "osu!taiko completionist badge") ![osu!catch](img/catch.png?20230902 "osu!catch completionist badge") ![osu!mania](img/mania.png?20230902 "osu!mania completionist badge")
 
 ## Completion criteria
 
-In order to be considered a completionist, a player must play every existing Ranked beatmap of a given game mode with no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction). This does not include converted beatmaps for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania). For osu!mania, only 4K and 7K beatmaps are considered for completion.
+In order to be considered a completionist, a player must play every existing Ranked beatmap of a given game mode without using the [No Fail (NF) mod](/wiki/Gameplay/Game_modifier/No_Fail), nor [special mods](/wiki/Gameplay/Game_modifier#special). This does not include converted beatmaps for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania). For osu!mania, only 4K and 7K beatmaps are considered for completion.
 
 ## Confirmed completionists
 
