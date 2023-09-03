@@ -141,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Semifinals
 
-**[Download the mappack here (162 MB)]()**
+**[Download the mappack here (162 MB)](https://packs.ppy.sh/P222%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Semifinals.zip)**
 
 - Rice
   1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (YuEast 2018) \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/2055295#mania/4294646)
