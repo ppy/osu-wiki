@@ -20,7 +20,7 @@ If you want to actually *experience* some of what **C-Show** has to offer, a new
 
 ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
-This round of playlists covers **osu!**, **osu!taiko** (tomorrow), and **osu!mania**. We'll aim to have osu!catch ready next time! See the [full explanation of the rewards here](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes) and [check out the winners from the last round here](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists).
+This round of playlists covers **osu!**, **osu!taiko**, and **osu!mania**. We'll aim to have osu!catch ready next time! See the [full explanation of the rewards here](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes) and [check out the winners from the last round here](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists).
 
 ---
 
