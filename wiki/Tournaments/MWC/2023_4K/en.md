@@ -141,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Semifinals
 
-**[Download the mappack here (162 MB, *temporary link*)](https://leoflt.com/s/uJid)**
+**[Download the mappack here (162 MB)](https://packs.ppy.sh/P222%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Semifinals.zip)**
 
 - Rice
   1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (YuEast 2018) \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/2055295#mania/4294646)
@@ -152,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   6. [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Shoegazer) \[Extreme\]](https://osu.ppy.sh/beatmapsets/873192#mania/3019182)
   7. [Frums - Mdrqnxtagon (Matthia) \[Crystalline 1.05x\]](https://osu.ppy.sh/beatmapsets/2053448#mania/4289276)
 - Hybrid
-  1. [Kayuki - Kangokurakuou (guden) \[Efflorescence\] *(temporary link)*](https://leoflt.com/s/N39t)
+  1. [Kayuki - Kangokurakuou (guden) \[Efflorescence\]](https://osu.ppy.sh/beatmapsets/2055331#mania/4294725)
   2. [Camellia - Looking for Edge of Ground (Cut Ver.) (-mint-) \[Isekai\]](https://osu.ppy.sh/beatmapsets/2055289#mania/4294631)
   3. [Spire - Libidinem (\[Crz\]FolAH1217) \[Fragmentation (cut)\]](https://osu.ppy.sh/beatmapsets/2055280#mania/4294616)
 - Long Note
@@ -164,7 +164,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   1. [ZxNX as "Delaina" - End Me (Phukiir) \[CHOKE\]](https://osu.ppy.sh/beatmapsets/2055294#mania/4294644)
   2. [litmus\* - Showdown (NovaSagittarii) \[a chair and six crt tvs in a dimly lit room\]](https://osu.ppy.sh/beatmapsets/2055296#mania/4294649)
 - Tiebreaker
-  1. **[Frums - HALL (guden) \[NULL\] *(temporary link)*](https://leoflt.com/s/e7V2)**
+  1. **[Frums - HALL (guden) \[NULL\]](https://osu.ppy.sh/beatmapsets/2055332#mania/4294726)**
 
 ### Quarterfinals
 
