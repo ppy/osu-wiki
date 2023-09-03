@@ -141,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Semifinals
 
-**[Download the mappack here (162 MB)](https://packs.ppy.sh/P222%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Semifinals.zip)**
+**[Download the mappack here (162 MB)]()**
 
 - Rice
   1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (YuEast 2018) \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/2055295#mania/4294646)
@@ -157,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   3. [Spire - Libidinem (\[Crz\]FolAH1217) \[Fragmentation (cut)\]](https://osu.ppy.sh/beatmapsets/2055280#mania/4294616)
 - Long Note
   1. [Kairiki bear - Lemming-ming feat. flower (\[Crz\]Crysarlene) \[Dissonance\]](https://osu.ppy.sh/beatmapsets/2055279#mania/4294615)
-  2. [yuikonnu & ayaponzu\* - Super Nuko World (Cut Ver.) (YuEast 2018) \[nyanya x1.05\]](https://osu.ppy.sh/beatmapsets/2055293#mania/4294640)
+  2. [yuikonnu & ayaponzu\* - Super Nuko World (Cut Ver.) (YuEast 2018) \[nyanya x1.10\]](https://osu.ppy.sh/beatmapsets/2055293#mania/4294641)
   3. [DJ TECHNORCH feat. Uchuu\*Kurage - Konno Hiori no konjiki teigen (lemonguy) \[Another x1.05\]](https://osu.ppy.sh/beatmapsets/2055075#mania/4294101)
   4. [youman feat. MEIKA HIME - Lostalgie (Cut Ver.) (-mint-) \[Pseudanthia 1.15x\]](https://osu.ppy.sh/beatmapsets/2055291#mania/4294634)
 - SV
