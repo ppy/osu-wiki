@@ -22,7 +22,7 @@ These people have been verified by the osu! team as completionists:
 | :-- | :-- | :-- |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 2019-04-27 | 60,845 |
 | ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 2021-08-11 | 82,298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 2023-03-15 | 97,668 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 2023-03-12 | 99,842 |
 
 ### osu!taiko
 
