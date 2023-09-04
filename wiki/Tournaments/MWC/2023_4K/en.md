@@ -111,47 +111,60 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 2 September 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Vietnam ::{ flag=VN }:: | ::{ flag=AU }:: Australia | [Sep 2 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T090000&p1=1440&p2=95&p3=57) | *TBD* | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Sep 2 (Sat) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T103000&p1=1440&p2=33&p3=166) | *TBD* | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [Sep 2 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T130000&p1=1440&p2=235&p3=28) | *TBD* | [^winners-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=NL }:: Netherlands | [Sep 2 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T140000&p1=1440&p2=236&p3=16) | *TBD* | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=MY }:: Malaysia | [Sep 2 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T150000&p1=1440&p2=195&p3=122) | *TBD* | [^losers-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=DE }:: Germany | [Sep 2 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T163000&p1=1440&p2=141&p3=37) | *TBD* | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=IT }:: Italy | [Sep 2 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T180000&p1=1440&p2=136&p3=215) | *TBD* | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=MX }:: Mexico | [Sep 2 (Sat) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T193000&p1=1440&p2=188&p3=155) | *TBD* | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 2 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230902T210000&p1=1440&p2=263&p3=232) | *TBD* | [^winners-bracket] |
-
-### Sunday, 3 September 2023
+### Saturday, 9 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PE }:: Peru | [Sep 3 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T030000&p1=1440&p2=102&p3=131) | *TBD* | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T040000&p1=1440&p2=188&p3=236) | *TBD* | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T040000&p1=1440&p2=155&p3=236) | *TBD* | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=GB }:: United Kingdom | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=95&p3=136) | *TBD* | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=IT }:: Italy | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=95&p3=215) | *TBD* | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=57&p3=136) | *TBD* | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=IT }:: Italy | [Sep 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T120000&p1=1440&p2=57&p3=215) | *TBD* | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=ES }:: Spain | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=102&p3=141) | *TBD* | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=102&p3=37) | *TBD* | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=33&p3=195) | *TBD* | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=33&p3=122) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=166&p3=195) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=166&p3=122) | *TBD* | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T130000&p1=1440&p2=248&p3=108) | *TBD* | [^winners-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=BR }:: Brazil | [Sep 3 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T143000&p1=1440&p2=145&p3=45) | *TBD* | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=NL }:: Netherlands | [Sep 3 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T160000&p1=1440&p2=188&p3=16) | *TBD* | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [Sep 3 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T160000&p1=1440&p2=155&p3=16) | *TBD* | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=ES }:: Spain | [Sep 3 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T170000&p1=1440&p2=131&p3=141) | *TBD* | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=DE }:: Germany | [Sep 3 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230903T170000&p1=1440&p2=131&p3=37) | *TBD* | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Sep 9 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T080000&p1=1440&p2=108&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T100000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Sep 9 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T123000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 9 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T140000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=VN }:: Vietnam | [Sep 9 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T153000&p1=1440&p2=232&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 10 September 2023
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Sep 10 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T020000&p1=1440&p2=263&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Sep 10 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T080000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 10 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T080000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=VN }:: Vietnam | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=102&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=VN }:: Vietnam | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=102&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (162 MB)](https://packs.ppy.sh/P222%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Semifinals.zip)**
+
+- Rice
+  1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (YuEast 2018) \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/2055295#mania/4294646)
+  2. [goreshit - thinking of you (Shoegazer) \[eternity 1.2x (272bpm)\]](https://osu.ppy.sh/beatmapsets/1749736#mania/3770381)
+  3. [LV.4 feat. Chiaki Iwasaki - B.O.L. (hna) \[Revolution\]](https://osu.ppy.sh/beatmapsets/2055265#mania/4294594)
+  4. [Remo-con - Matt Silver (elexire) \[Vermillion 1.05x (153bpm)\]](https://osu.ppy.sh/beatmapsets/2055306#mania/4294670)
+  5. [Terminal 11 - I'm In No Mood For This (Halogen-) \[Apathy\]](https://osu.ppy.sh/beatmapsets/2055287#mania/4294628)
+  6. [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Shoegazer) \[Extreme\]](https://osu.ppy.sh/beatmapsets/873192#mania/3019182)
+  7. [Frums - Mdrqnxtagon (Matthia) \[Crystalline 1.05x\]](https://osu.ppy.sh/beatmapsets/2053448#mania/4289276)
+- Hybrid
+  1. [Kayuki - Kangokurakuou (guden) \[Efflorescence\]](https://osu.ppy.sh/beatmapsets/2055331#mania/4294725)
+  2. [Camellia - Looking for Edge of Ground (Cut Ver.) (-mint-) \[Isekai\]](https://osu.ppy.sh/beatmapsets/2055289#mania/4294631)
+  3. [Spire - Libidinem (\[Crz\]FolAH1217) \[Fragmentation (cut)\]](https://osu.ppy.sh/beatmapsets/2055280#mania/4294616)
+- Long Note
+  1. [Kairiki bear - Lemming-ming feat. flower (\[Crz\]Crysarlene) \[Dissonance\]](https://osu.ppy.sh/beatmapsets/2055279#mania/4294615)
+  2. [yuikonnu & ayaponzu\* - Super Nuko World (Cut Ver.) (YuEast 2018) \[nyanya x1.10\]](https://osu.ppy.sh/beatmapsets/2055293#mania/4294641)
+  3. [DJ TECHNORCH feat. Uchuu\*Kurage - Konno Hiori no konjiki teigen (lemonguy) \[Another x1.05\]](https://osu.ppy.sh/beatmapsets/2055075#mania/4294101)
+  4. [youman feat. MEIKA HIME - Lostalgie (Cut Ver.) (-mint-) \[Pseudanthia 1.15x\]](https://osu.ppy.sh/beatmapsets/2055291#mania/4294634)
+- SV
+  1. [ZxNX as "Delaina" - End Me (Phukiir) \[CHOKE\]](https://osu.ppy.sh/beatmapsets/2055294#mania/4294644)
+  2. [litmus\* - Showdown (NovaSagittarii) \[a chair and six crt tvs in a dimly lit room\]](https://osu.ppy.sh/beatmapsets/2055296#mania/4294649)
+- Tiebreaker
+  1. **[Frums - HALL (guden) \[NULL\]](https://osu.ppy.sh/beatmapsets/2055332#mania/4294726)**
 
 ### Quarterfinals
 
@@ -240,6 +253,36 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1GTrzQGdYoRs0Zz2bEgZ2vMZ1ZWVFQJtEVelXrm3N4hk/edit?rm=minimal).
+
+Saturday, 2 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/110276466) | [#1](https://www.twitch.tv/videos/1915244507) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/110278521) | [#1](https://www.twitch.tv/videos/1915245239) |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/110279274) | [#1](https://www.twitch.tv/videos/1915247587) |
+| Spain ::{ flag=ES }:: | 2 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/110281016) | [#1](https://www.twitch.tv/videos/1915250092) |
+| **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/110281465) | [#1](https://www.twitch.tv/videos/1915253307) |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/110282149) | [#1](https://www.twitch.tv/videos/1915250092?t=0h52m10s) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/110283943) | [#1](https://www.twitch.tv/videos/1915254129) |
+| **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/110283947) | [#1](https://www.twitch.tv/videos/1915251168) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/110289986) | [#1](https://www.twitch.tv/videos/1915769214) |
+| **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/110290873) | [#1](https://www.twitch.tv/videos/1915769214?t=0h37m45s) |
+
+Sunday, 3 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **6** | 2 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/110294603) | [#1](https://www.twitch.tv/videos/1915821631) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/110297919) | [#1](https://www.twitch.tv/videos/1916107957) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/110299873) | [#1](https://www.twitch.tv/videos/1916087038?t=0h43m49s) |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/110299874) | [#1](https://www.twitch.tv/videos/1916087038) |
+| **Japan** ::{ flag=JP }:: | **6** | 3 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/110299948) | [#1](https://www.twitch.tv/videos/1916109239) |
+| Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/110300777) | [#1](https://www.twitch.tv/videos/1916109239?t=1h0m42s) |
 
 ### Round of 16
 
