@@ -263,6 +263,8 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 
 ## Gameplay-related
 
+*See also: [Completionists](/wiki/People/Completionists)*
+
 These players were awarded their respective titles through either a crazy gameplay achievement or completion of a specific challenge.
 
 | User | Title | Achievement |
