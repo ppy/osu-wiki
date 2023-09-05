@@ -28,7 +28,7 @@ Después de silenciar a un usuario, se mostrará una alerta en lugar del campo d
 
 ## Apelar un silencio
 
-Si crees que te silenciaron injustamente, comunicate con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#accounts@ppy.sh) a través de [accounts@ppy.sh](mailto:accounts@ppy.sh) para impugnar el silencio. Asegúrate de hacerlo desde el correo electrónico vinculado a tu cuenta de osu!; menciona tu nombre de usuario de osu!, así como la fecha y hora aproximada en que te silenciaron.
+Si crees que te silenciaron injustamente, comunícate con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#accounts@ppy.sh) a través de [accounts@ppy.sh](mailto:accounts@ppy.sh) para impugnar el silencio. Asegúrate de hacerlo desde el correo electrónico vinculado a tu cuenta de osu!; menciona tu nombre de usuario de osu!, así como la fecha y hora aproximada en que te silenciaron.
 
 ## Razones comunes para los silencios
 
