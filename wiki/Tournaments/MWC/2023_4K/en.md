@@ -119,7 +119,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 9 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T010000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T113000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Sep 9 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T123000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=108&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
@@ -132,6 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | --: | :-- | :-- | :-: | :-: |
 | Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Sep 10 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T113000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=VN }:: Vietnam | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=102&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
