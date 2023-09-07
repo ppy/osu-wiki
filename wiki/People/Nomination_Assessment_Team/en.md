@@ -31,7 +31,7 @@ NAT members responsible for this category are in high demand due to the sheer vo
 
 ### Structural
 
-NAT members assigned to the structural category are not responsible for any specific game mode, despite being allowed to nominate beatmap from their previous mode. They are required to maintain:
+NAT members assigned to the structural category are not responsible for any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode. They are required to maintain:
 
 - **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_criteria) as well as other documentation.
 - **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
@@ -92,11 +92,11 @@ Before conducting a category change, the addition is sanity checked with the res
 
 Once an NAT member chooses to depart from the team, they may be granted the following benefits depending on the circumstances:
 
-- **[osu! Alumni](/wiki/People/osu!_Alumni) status**: this is granted to members who were part of the team for at least 1 year, or have significantly contributed to the team in a shorter period of time.
+- **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: this is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
 - **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the NAT, under the same conditions as osu! Alumni status.
 - **Internal access**: In special cases, members may be granted continued access to the internal NAT discussion channel depending on their past contributions and the likelihood of them having positive impact in future discussions. This privilege may be revoked if the member is inactive in discussions or is causing issues.
 
-Users who currently have internal access are:
+Former NAT members who currently have internal access are:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
@@ -176,7 +176,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 ### Structural
 
-The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmap from their previous mode.
+The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode.
 
 - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163): Handling internal discussions, affairs, and documentation
 - ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817): [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance
@@ -186,16 +186,16 @@ The following NAT members are exclusively responsible for structural tasks, and 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507): BN Mentorship organisation
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882): Handling user reports and osu! SEV ratings
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882): Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating)
 - ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992): Handling content reports
 - ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776): [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976): NAT Leadership, NAT/BN website development, handling osu!taiko SEV ratings
 - ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323): BN events organisation
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063): [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development
-- ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453): Ranking criteria test maintenance
+- ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453): [Ranking criteria test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) maintenance
 - ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666): osu!mania MV plugin development
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926): Handling user reports
 
 ---
 
-In addition, the [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) bot acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing it to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
+In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.

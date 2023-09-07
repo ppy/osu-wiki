@@ -47,7 +47,7 @@ Beatmap Nominators are granted the following benefits:
 
 ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 
-- **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: Beatmap Nominators who exceptionally perform at their craft are eligible to be awarded the yearly Elite Nominator status.
+- **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: Beatmap Nominators who perform exceptionally at their craft are eligible to be awarded the yearly Elite Nominator [user title](/wiki/Community/User_title).
 
 ## Team members
 
