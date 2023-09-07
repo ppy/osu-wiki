@@ -55,7 +55,6 @@ Global Moderators are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT, starting from 3.
-
   ![3 year badge](https://assets.ppy.sh/profile-badges/GMT3y.png "3 year GMT badge") ![4 year badge](https://assets.ppy.sh/profile-badges/GMT4y.png "4 year GMT badge") ![5 year badge](https://assets.ppy.sh/profile-badges/GMT5y.png "5 year GMT badge")
 
 ## Departure from the team
