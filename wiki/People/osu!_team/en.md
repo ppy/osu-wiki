@@ -19,7 +19,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organiser and administrator |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), technical support |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Moderator, technical support |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), technical support |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! developer |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, [Featured Artist](/wiki/People/Featured_Artists) outreach |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
@@ -33,18 +33,18 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Moderator, modding and mapping scene advisor |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), modding and mapping scene advisor |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, Featured Artist outreach |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leader |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Moderator, [wiki maintainer](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [NAT](/wiki/People/Nomination_Assessment_Team) leader |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [wiki maintainer](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! infrastructure developer |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament support |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | General housekeeper, broom sweeper |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) leader, Beatmap Spotlights manager, Hivie's secretary |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Wiki maintainer, news editor |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) leader, [Beatmap Spotlights](/wiki/Beatmap_Spotlights) manager, Hivie's secretary |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki maintainer](/wiki/People/osu!_wiki_maintainers), news editor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 The [account support team](/wiki/People/Account_support_team) is also there to help with what is beyond reach.
@@ -56,7 +56,7 @@ In addition to the core osu! team, there are [many other volunteer teams](/wiki/
 | Name | Role |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderator, community advisor |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderator](/wiki/People/Global_Moderation_Team), community advisor |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Audio designer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organiser and administrator |
@@ -68,7 +68,7 @@ In addition to the core osu! team, there are [many other volunteer teams](/wiki/
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Former [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) leader |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Original site designer, hosting provider in the early days |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, former QAT leader, community manager |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, former [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) leader, community manager |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to the default skin and icon set |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Former NAT leader |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
