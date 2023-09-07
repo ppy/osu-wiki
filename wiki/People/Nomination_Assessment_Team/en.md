@@ -63,7 +63,7 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 
 NAT members are granted the following benefits:
 
-- **[osu!supporter](/wiki/osu!supporter)**: Unlimited osu!supporter for the duration of their membership.
+- **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
 
 ![1 year badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")

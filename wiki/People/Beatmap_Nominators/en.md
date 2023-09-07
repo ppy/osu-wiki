@@ -38,7 +38,7 @@ When a Beatmap Nominator is placed on probation, they cannot be placed on probat
 
 Beatmap Nominators are granted the following benefits:
 
-- **[osu!supporter](/wiki/osu!supporter)**: Unlimited osu!supporter for the duration of their membership.
+- **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their group membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been a BN.
 
 ![1 year badge](https://assets.ppy.sh/profile-badges/BN1y.png "1 year BN badge") ![2 year badge](https://assets.ppy.sh/profile-badges/BN2y.jpg "2 year BN badge") ![3 year badge](https://assets.ppy.sh/profile-badges/BN3y.jpg "3 year BN badge") ![4 year badge](https://assets.ppy.sh/profile-badges/BN4y.jpg "4 year BN badge") ![5 year badge](https://assets.ppy.sh/profile-badges/BN5y.jpg "5 year BN badge")
