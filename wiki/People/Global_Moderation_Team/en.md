@@ -49,6 +49,22 @@ Generally, the team will observe people for several weeks or months to make sure
 3. Do not answer other people's questions without knowing whether said answer is correct or not, particularly on the forums. Suggestions are welcome, but misinforming people is not helpful to anyone. If you do not know the solution to a problem, let someone else answer and learn from them.
 4. Do not overdo things. The team looks for consistent contribution, not an overloaded amount. This is known to burn people out and make them lose patience and commitment. Take it easy!
 
+## Benefits
+
+Global moderators are granted the following benefits:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Unlimited osu!supporter for the duration of their membership.
+- **Tenure badges**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT.
+
+![3 year badge](https://assets.ppy.sh/profile-badges/GMT3y.png "3 year GMT badge") ![4 year badge](https://assets.ppy.sh/profile-badges/GMT4y.png "4 year GMT badge") ![5 year badge](https://assets.ppy.sh/profile-badges/GMT5y.png "5 year GMT badge")
+
+## Departure from the team
+
+Once an Global Moderator chooses to depart from the team, they may be granted the following rewards depending on the circumstances:
+
+- **[osu! Alumni](/wiki/People/osu!_Alumni) status**: this is granted to members who were part of the team for at least 1 year, or have significantly contributed to the team in a shorter period of time.
+- **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the GMT, under the same conditions as osu! Alumni status.
+
 ## Team members
 
 *Note: All GMT members speak English in addition to the languages listed below, unless noted otherwise.*
