@@ -54,7 +54,7 @@ Generally, the team will observe people for several weeks or months to make sure
 Global moderators are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Unlimited osu!supporter for the duration of their membership.
-- **Tenure badges**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT.
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT.
 
 ![3 year badge](https://assets.ppy.sh/profile-badges/GMT3y.png "3 year GMT badge") ![4 year badge](https://assets.ppy.sh/profile-badges/GMT4y.png "4 year GMT badge") ![5 year badge](https://assets.ppy.sh/profile-badges/GMT5y.png "5 year GMT badge")
 

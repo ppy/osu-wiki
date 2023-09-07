@@ -64,11 +64,11 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 NAT members are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Unlimited osu!supporter for the duration of their membership.
-- **Tenure badges**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
 
 ![1 year badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")
 
-- **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badges**: A profile badge that's awarded when reaching certain nomination count milestones.
+- **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge that's awarded when reaching certain nomination count milestones.
 
 ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 
