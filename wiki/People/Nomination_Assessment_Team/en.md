@@ -101,7 +101,10 @@ Former NAT members who currently have internal access are:
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+The current NAT leaders are:
+
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsibilities
 
