@@ -1,6 +1,6 @@
 # osu!(lazer) 功能变化
 
-*如果想要比较 lazer 和 stable 的功能列表，请参见： [帮助中心/升级到 lazer § 功能对比](https://osu.ppy.sh/wiki/zh/Help_centre/Upgrading_to_lazer#功能对比)。*
+*如果想要比较 lazer 和 stable 的功能列表，请参见： [帮助中心/升级到 lazer § 功能对比](/wiki/Help_centre/Upgrading_to_lazer#功能对比)。*
 
 这篇文章记录了 osu!(lazer) 所有新增与变化的功能，以及这些变化对游玩造成的影响效果。
 
