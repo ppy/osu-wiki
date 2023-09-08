@@ -2,8 +2,8 @@
 stub: true
 ---
 
-# Recalculate slider lengths
+# 重新计算滑条长度
 
-**Recalculate slider lengths** is a command under the `Timing` tab in the [beatmap editor](/wiki/Client/Beatmap_editor). Usage of this is suggested after a [BPM](/wiki/Music_theory/Tempo) change is made if the [beatmap](/wiki/Beatmap) already has [sliders](/wiki/Gameplay/Hit_object/Slider).
+**重新计算滑条长度**是[谱面编辑器](/wiki/Client/Beatmap_editor)中 `Timing` 标签页下的一条命令。如果[谱面](/wiki/Beatmap)已经有[滑条](/wiki/Gameplay/Hit_object/Slider)，建议在改变 [BPM](/wiki/Music_theory/Tempo) 后使用此命令。
 
-This command will automatically adjust the length of every slider in the beatmap to the new BPM. Although most creators recommended checking every slider and adjusting its length manually, due to this tool's inaccurate and systematic nature.
+此命令会按新的 BPM 自动调整谱面中所有滑条的长度。尽管如此，由于此工具本质上不精确且是系统化的，许多制图者都推荐检查每个滑条，并手动调整其长度。
