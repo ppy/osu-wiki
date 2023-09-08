@@ -176,7 +176,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 ### Structural
 
-The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode.
+The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode:
 
 | User | Task |
 | :-- | :-- |
