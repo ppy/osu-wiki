@@ -101,7 +101,10 @@ Former NAT members who currently have internal access are:
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+The current NAT leaders are:
+
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsibilities
 
@@ -189,7 +192,7 @@ The following NAT members are primarily evaluators, but also contribute to struc
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [NAT/BN website](https://bn.mappersguild.com), handling osu!taiko [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [NAT/BN website](https://bn.mappersguild.com) development, handling osu!taiko [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | [Ranking criteria test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) maintenance |
