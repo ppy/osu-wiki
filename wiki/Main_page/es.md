@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 6116038f573d130ce31be263162ff71d45b0b441
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ Bienvenido a la osu! wiki, la base de conocimientos de código abierto que conti
 
 # Para empezar
 
-Artículos y guías importantes que te ayudarán a sumergirte en osu!. En caso de que algo salga mal o parezca incierto, visite el [foro de ayuda](https://osu.ppy.sh/forum/5).
+Artículos y guías importantes que te ayudarán a sumergirte en osu!. En caso de que algo salga mal o parezca incierto, visita el [foro de ayuda](https://osu.ppy.sh/forum/5).
 
 [Reglas](/wiki/Rules) • [Instalación](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_centre)
 
@@ -37,7 +39,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 [Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Puntuación](/wiki/Gameplay/Score) • [Repetición](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objeto](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Puntuación](/wiki/Gameplay/Score) • [Repetición](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -57,7 +59,7 @@ Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki
 
 # Envío y clasificación de beatmaps
 
-La clasificación es el proceso de obtener una tabla de clasificación para un beatmap, lo que lo hace más popular y reconocido. Descubre lo que se necesita para recorrer este camino y cómo aumentar sus posibilidades de éxito a través de las revisiones de tu beatmap, así como los procedimientos de control de calidad y el proceso de clasificación.
+La clasificación es el proceso de obtener una tabla de clasificación para un beatmap, lo que lo hace más popular y reconocido. Descubre lo que se necesita para recorrer este camino y cómo aumentar tus posibilidades de éxito a través de las revisiones de beatmaps, así como los procedimientos de control de calidad y el proceso de clasificación.
 
 [Envío](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -81,7 +83,7 @@ Regulación de medios: [Pautas de uso de contenido](/wiki/Rules/Content_usage_gu
 
 # Ayuda
 
-Las respuestas a las preguntas más frecuentes y las soluciones a los problemas comunes se pueden encontrar aquí.
+Respuestas a preguntas frecuentes y soluciones a problemas comunes se pueden encontrar aquí.
 
 [Centro de ayuda](/wiki/Help_centre) • [Solución de problemas de rendimiento](/wiki/Performance_troubleshooting) • [Equipo de soporte de cuentas](/wiki/People/Account_support_team) • [Foro de ayuda](https://osu.ppy.sh/forum/5)
 
@@ -94,13 +96,13 @@ Haz tu parte: [Cómo y en qué ayudar](/wiki/Community/How_you_can_help!) • [R
 
 # Comunidad y proyectos
 
-La interacción social es una de las principales cosas que impulsan a los jugadores de osu! en todo el mundo. ¡Explora las actividades y concursos, ponte en contacto con otros o ayuda a organizar el próximo gran evento!
+La interacción social es una de las principales cosas que impulsan a los jugadores de osu! en todo el mundo. ¡Explora las actividades y concursos, ponte en contacto con otros, o ayuda a organizar el próximo gran evento!
 
 Lugares: [Foro](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Servidores de Discord](/wiki/Community/Discord_servers)
 
-[Torneos](/wiki/Tournaments) • [Beatmaps destacados](/wiki/Beatmap_Spotlights) • [Concursos](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+[Torneos](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concursos](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones de la comunidad de osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -111,7 +113,7 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, mantenimiento y gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Featured Artists](/wiki/People/Featured_Artists) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
 [Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupo de usuarios](/wiki/People/User_group) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
