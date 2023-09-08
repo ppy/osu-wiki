@@ -51,7 +51,7 @@ Generally, the team will observe people for several weeks or months to make sure
 
 ## Benefits
 
-Global moderators are granted the following benefits:
+Global Moderators are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT, starting from 3.
