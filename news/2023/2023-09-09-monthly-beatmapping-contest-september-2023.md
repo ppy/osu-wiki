@@ -82,7 +82,7 @@ Contest points reward users at certain thresholds:
 
 ![](/wiki/shared/news/2020-02-20-monthly-beatmapping-contest-1-results/mbc-badge-1.png)
 
-- ***Elite Mapper* forum title** is attainable at 6 points.
+- ***Elite Mapper* [user title](/wiki/Community/User_title)** is attainable at 6 points.
 
 ![](/wiki/shared/news/2023-09-04-monthly-beatmapping-contest-september-2023/elitemapper.png)
 
