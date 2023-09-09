@@ -14,10 +14,11 @@ The legendary "**Medal Hunter**" title came back once again challenging every pl
 
 In order to obtain such a desirable title, you had to be the first player to find the solution for the **Internment** medal and unlock it. **Internment** is a Hush-Hush medal added in the last batch, being so hint-based that developers found unlocking it worth a title. Speaking of hint and sub-hint (referenced as flairs by Ephemeral), they are "Stained in the hues of madness, they rage within a four-walled jail." and "Bask in the shade of an ailing mind." respectively. And while only one player could get a shiny "**Medal Hunter**" text under their username, many still have decided to team up with others on the [Medal Hunters Discord server](https://discord.gg/8qpNTs6)!
 
-But before we get to community's attempts to solve it, here are some details they knew from the beginning: 
-* The medal is only visible in osu!standard profile, so it's std-only, meaning you can't get it in other gamemodes; 
-* If the medal is map-specific, meaning it can only be done on specific mapset(s) - it has to be Featured Artist song; 
-* The medal is in a Hush-Hush (Expert) category, which means no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) (or [special mods](/wiki/Gameplay/Game_modifier#special)) are allowed.
+But before we get to community's attempts to solve it, here are some details they knew from the beginning:
+
+- The medal is only visible in osu!standard profile, so it's std-only, meaning you can't get it in other gamemodes; 
+- If the medal is map-specific, meaning it can only be done on specific mapset(s) - it has to be Featured Artist song; 
+- The medal is in a Hush-Hush (Expert) category, which means no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) (or [special mods](/wiki/Gameplay/Game_modifier#special)) are allowed.
 
 Within the first few minutes of the medal releasing, players immediately noticed both hints and especially the medal icon referenced theyaremanycolors. Ever since the beginning of this medal's release, medal hunters knew the medal involved that map. From there, medal hunters were very quick to piece together that the hues from medal hint/flair are hinting at RGB to some capacity, but nobody knew in what way, and players were less focused on the subhint which ended up being the final crucial puzzle piece.
 
