@@ -70,8 +70,8 @@ Any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least
 
 The Monthly Beatmapping Contest rewards users with [contest points](/wiki/Contests/Contest_points) based on their placements:
 
-- **Judging winner:** 2 points
-- **Judging runner-up:** 1 point
+- **Winner:** 2 points
+- **Runner-up:** 1 point
 - **Screening crew's #1 pick:** 1 point
 
 These numbers may vary depending on how many submissions the contest receives. Check [the wiki article](/wiki/Contests/Contest_points) for details.
@@ -86,7 +86,7 @@ Contest points reward users at certain thresholds:
 
 ![](/wiki/shared/news/2023-09-04-monthly-beatmapping-contest-september-2023/elitemapper.png)
 
-Additionally, a **Mappers' Guild keychain** is optionally rewarded to the judging winner of each month's contest. Its design is based on your beatmap!
+Additionally, a **Mappers' Guild keychain** is optionally rewarded to the winner of each month's contest. Its design is based on your beatmap!
 
 ![keychain](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg)
 
