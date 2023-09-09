@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on June 19, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on September 2, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -102,7 +102,7 @@ With regards to staff roles, the following rules apply:
 
 Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
-Anyone whose conduct results in a tournament losing its official support may not fulfill the same roles in, nor be the host or admin of, another badged tournament for at least 4 months.
+At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
 ### Players
 
