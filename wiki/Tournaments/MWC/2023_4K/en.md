@@ -241,8 +241,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here]().
-
 Saturday, 9 September 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
