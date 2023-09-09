@@ -8,18 +8,16 @@ The legendary "**Medal Hunter**" title came back once again challenging every pl
 
 ![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/banner.jpg)
 
-[Medals](/wiki/Medals) are osu! achievements which are given for achieving certain goals, and the last batch of medals was quite exciting.
-On July 27th, 2023, alongside new [Hush-Hush medals](/wiki/Medals#hush-hush), [Ephemeral](https://osu.ppy.sh/users/102335) made a [news post](https://osu.ppy.sh/home/news/2023-07-27-summer-splash) in which he announced the "**Medal Hunter**" title coming back once again.
+[Medals](/wiki/Medals) are osu! achievements which are given for achieving certain goals, and the last batch of medals was quite exciting. On July 27th, 2023, alongside new [Hush-Hush medals](/wiki/Medals#hush-hush), [Ephemeral](https://osu.ppy.sh/users/102335) made a [news post](https://osu.ppy.sh/home/news/2023-07-27-summer-splash) in which he announced the "**Medal Hunter**" title coming back once again.
 
 "**Medal Hunter**" is a [unique user title](/wiki/People/Users_with_unique_titles), which is given for being the first player to unlock an extremely hard to solve Hush-Hush medal. The [previous "**Medal Hunter**" title](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) has been given out nearly **6 years ago**, which definitely made it even more interesting.
 
-In order to obtain such a desirable title, you had to be the first player to find the solution for the **Internment** medal and unlock it. **Internment** is a Hush-Hush medal added in the last batch, being so hint-based that developers found unlocking it worth a title. Speaking of hint and sub-hint (referenced as flairs by Ephemeral), they are "Stained in the hues of madness, they rage within a four-walled jail." and "Bask in the shade of an ailing mind." respectively.
-And while only one player could get a shiny "**Medal Hunter**" text under their username, many still have decided to team up with others on the [Medal Hunters Discord server](https://discord.gg/8qpNTs6)!
+In order to obtain such a desirable title, you had to be the first player to find the solution for the **Internment** medal and unlock it. **Internment** is a Hush-Hush medal added in the last batch, being so hint-based that developers found unlocking it worth a title. Speaking of hint and sub-hint (referenced as flairs by Ephemeral), they are "Stained in the hues of madness, they rage within a four-walled jail." and "Bask in the shade of an ailing mind." respectively. And while only one player could get a shiny "**Medal Hunter**" text under their username, many still have decided to team up with others on the [Medal Hunters Discord server](https://discord.gg/8qpNTs6)!
 
 But before we get to community's attempts to solve it, here are some details they knew from the beginning: 
-The medal is only visible in osu!standard profile, so it's std-only, meaning you can't get it in other gamemodes; 
-If the medal is map-specific, meaning it can only be done on specific mapset(s) - it has to be Featured Artist song; 
-The medal is in a Hush-Hush (Expert) category, which means no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) (or [special mods](/wiki/Gameplay/Game_modifier#special)) are allowed.
+* The medal is only visible in osu!standard profile, so it's std-only, meaning you can't get it in other gamemodes; 
+* If the medal is map-specific, meaning it can only be done on specific mapset(s) - it has to be Featured Artist song; 
+* The medal is in a Hush-Hush (Expert) category, which means no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) (or [special mods](/wiki/Gameplay/Game_modifier#special)) are allowed.
 
 Within the first few minutes of the medal releasing, players immediately noticed both hints and especially the medal icon referenced theyaremanycolors. Ever since the beginning of this medal's release, medal hunters knew the medal involved that map. From there, medal hunters were very quick to piece together that the hues from medal hint/flair are hinting at RGB to some capacity, but nobody knew in what way, and players were less focused on the subhint which ended up being the final crucial puzzle piece.
 
@@ -35,12 +33,13 @@ The community was trying their best to *hunt* for the solution, but after an eno
   </video>
 </div>
 
-peppy said the solution may need to be altered because it depends on something that could be changed in the future. The only two possibilities were lazer and site. For those that guessed site and thought difficulty colors, they used the hint to their fullest of potentials. There was a downside to this hint though. While peppy basically confirmed this theory about diff's colors being correct, medal hunters also got a little mislead.
+The biggest hint was peppy saying the solution may need to be altered because it depends on something that could be changed in the future. The only two possibilities were osu!(lazer) and the website. For those that guessed website and thought difficulty colors, they used the hint to it's fullest extent. There was a downside to this hint though. While peppy basically confirmed this theory about difficulty colors being correct, medal hunters also got a little mislead.
+
 After peppy said anyone, including new players would be able to get it, they started to believe it can't be performed on a difficulty higher than 4 star, which was completely wrong and resulted in community taking much more time to solve it. That subhint mentioning "Bask in the shade of an ailing mind", referring to basking in the **RGB** shades of an **Insane** diff in particular was completely ignored, because newcomers to osu! would not be able to get this medal.
 
 With a lot of guesses and such an insane 2 hints, 1 being slightly misleading, half of medal hunters entered full Sherlock Holmes mode with the possibilities of the solution, relying more on insanity than logic and drowning the discussion threads with abominations of theories. Some were genuinely good theories that Ephemeral would take note of, and others... well, let's just say Pac-Man theory.
 
-![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/pacman_theory.png)
+![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/pacman_theory.jpg)
 
 But, despite all the challenges the community was still determined to find the solution. One of them was [UberFazz](https://osu.ppy.sh/users/8646059), who was going back and forth, seeking for the way to get this medal. At first, they assumed it would be achieving 16,777,216 (256 to the 3rd power) score, because that's how many possible colors there are in RGB. Another guess of theirs was to interact with the osu! website to find a hidden message somewhere on it, which would then lead to a solution. They were also told by one of developers they had insanely close guesses multiple times, but that was just not enough...
 
@@ -52,7 +51,7 @@ But suddenly, after more than 3 weeks, the very last hint was dropped by [Repfle
 
 After giving it more tests which crossed out grades from the equation and being celinsane diff specific, the community was finally ready to present the full solution to **Internment** medal:
 
-On any "Insane" difficulty (4.0\* - 5.29\*) of Frums - theyaremanycolors, set three plays in a row that have combos equal to the R, G, and B values of the difficulty indicator (on the osu! website) for the map you are playing. The possible combinations are as follows:
+On any "Insane" difficulty (4.0\* - 5.29\*) of [Frums - theyaremanycolors](https://osu.ppy.sh/beatmapsets/1416051#osu/3022086), set three plays in a row that have combos equal to the R, G, and B values of the difficulty indicator (on the osu! website) for the map you are playing. The possible combinations are as follows:
 
 | Play | Combo ([vanchanicalinsane](https://osu.ppy.sh/beatmapsets/1416051#osu/3022086)) | Combo ([celinsane](https://osu.ppy.sh/beatmapsets/1533352#osu/4052455)) |
 | --- | --- | --- |
