@@ -25,10 +25,10 @@ Next month's contest will feature **osu!taiko** and **osu!catch**.
 
 ## Timeline
 
-- [**Beatmapping (3 weeks):**](#beatmapping) Contest is announced and beatmappers create their entries.
-- [**Screening (1.5 weeks):**](/wiki/Contests/Monthly_Beatmapping_Contest#screening) Entries are evaluated by experienced beatmappers. If there aren't many entries, this will be skipped in favour of a longer judging period.
-- [**Judging (1.5 weeks):**](/wiki/Contests/Monthly_Beatmapping_Contest#judging) Top entries from screening are judged in detail by a different crew of experienced beatmappers.
-- [**Rewards (~2 months from now):**](#rewards) Winners are announced at the start of another MBC.
+- **[Beatmapping](#beatmapping) (3 weeks):** Contest is announced and beatmappers create their entries.
+- **[Screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) (1.5 weeks):** Entries are evaluated by experienced beatmappers. If there aren't many entries, this will be skipped in favour of a longer judging period.
+- **[Judging](/wiki/Contests/Monthly_Beatmapping_Contest#judging) (1.5 weeks):** Top entries from screening are judged in detail by a different crew of experienced beatmappers.
+- **[Rewards](#rewards) (~2 months from now):** Winners are announced at the start of another MBC.
 
 ## Beatmapping
 
@@ -42,7 +42,7 @@ That's why we're adding **limitations** to this contest!
 
 This month's osu! limitation: **all sliders must be curved.**
 
-More specifically, *every segment of a slider must be curved.* Here's some visual examples to clear things up:
+More specifically, *every segment of a slider must be curved*. Here's some visual examples to clear things up:
 
 ![](/wiki/shared/news/2023-09-04-monthly-beatmapping-contest-september-2023/limitexample.png)
 
@@ -64,7 +64,7 @@ Feel free to cut longer songs to a length that's easier to map. [Talk to pishifa
 
 #### osu!mania
 
-Any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least 4 minutes is eligible for this contest! [This search criteria](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&length%5Bgte%5D=240) includes every song that's 4 minutes or longer, so your song must be in this list!
+Any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least 4 minutes is eligible for this contest! [This search filter](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&length%5Bgte%5D=240) includes every song that's 4 minutes or longer, so your song must be in this list!
 
 ## Rewards
 
@@ -101,10 +101,10 @@ Ready to map? Good. Here's what you need to keep in mind:
   - **osu!mania:** song must be at least 4 minutes.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
-- **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalized.**
+- **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
 
-Note that all submissions will be anonymized before they're reviewed by screeners/judges to avoid bias. During this process, storyboards and backgrounds may be removed.
+Note that all submissions will be anonymised before they're reviewed by screeners/judges to avoid bias. During this process, storyboards and backgrounds may be removed.
 
 ---
 
