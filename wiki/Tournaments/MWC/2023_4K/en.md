@@ -259,7 +259,7 @@ Saturday, 9 September 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Philippines ::{ flag=PH }:: | 4 | **6** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/110374746) | [#1](https://www.twitch.tv/videos/1920796820) |
+| Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/110374746) | [#1](https://www.twitch.tv/videos/1920796820) |
 
 ### Quarterfinals
 
