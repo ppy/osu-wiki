@@ -48,6 +48,7 @@ But suddenly, after more than 3 weeks, the very last hint was dropped by [Repfle
 And after giving it more tests which crossed out grades from the equation and being celinsane diff specific, the community was finally ready to present the full solution to **Internment** medal:
 
 On any "Insane" difficulty (4.0\* - 5.29\*) of Frums - theyaremanycolors, set three plays in a row that have combos equal to the R, G, and B values of the difficulty indicator (on the osu! website) for the map you are playing. The possible combinations are as follows:
+
 | Play | Combo ([vanchanicalinsane](https://osu.ppy.sh/beatmapsets/1416051#osu/3022086)) | Combo ([celinsane](https://osu.ppy.sh/beatmapsets/1533352#osu/4052455)) |
 | --- | --- | --- |
 | 1st | 255x | 243x |
