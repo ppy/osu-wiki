@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: September 2023"
-date: 2023-09-04 02:00:00 +0000
+date: 2023-09-09 18:00:00 +0000
 ---
 
-This classic contest is here for a comeback! See if you have what it takes to take home the gold and make your way towards the coveted Elite Mapper title.
+This classic contest makes a comeback yet again! See if you have what it takes to take home the gold and make your way towards the coveted Elite Mapper title.
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -16,12 +16,12 @@ Let's break it down:
 
 ## Game modes
 
-This month's contest is open to **osu!** and **osu!XXXXX** mappers.
+This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](LINK)
-- [osu!xxxx contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/184)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/185)
 
-Next month's contest will feature **osu!YYYY** and **osu!ZZZZ**.
+Next month's contest will feature **osu!taiko** and **osu!catch**.
 
 ## Timeline
 
@@ -32,19 +32,11 @@ Next month's contest will feature **osu!YYYY** and **osu!ZZZZ**.
 
 ## Beatmapping
 
-### Songs
-
-Any song listed on [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) is eligible for this contest!
-
-Feel free to cut longer songs to a more reasonable length if needed. Talk to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) if you need help with that!
-
 ### Limitation
 
 Creating a quality beatmap is a solid goal, but true creativity comes when your tools are restricted.
 
 That's why we're adding **limitations** to this contest!
-
-A limitation is simply an extra rule your map needs to follow. If we didn't have this, anyone could just submit an already-completed map to the contest, and that'd be pretty boring.
 
 #### osu! limitation
 
@@ -56,9 +48,23 @@ More specifically, *every segment of a slider must be curved.* Here's some visua
 
 Part of the judging criteria involves how you handle the limitation, so keep that in mind if you're creating [sliders that are *technically curved* yet look exactly like straight sliders](/wiki/shared/news/2023-09-04-monthly-beatmapping-contest-september-2023/technicality.png).
 
-#### osu!xxx limitation
+#### osu!mania limitation
 
-stuff goes here
+osu!mania's contest hosts opted for a more song-focused limitation: **your beatmap's song must be at least *4 minutes*!**
+
+Your biggest struggle might be finding a song packed with enough variation to make a cool beatmap. Luckily, there's *a lot* of songs to choose from:
+
+### Songs
+
+#### osu!
+
+Any song listed on [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) is eligible for this contest!
+
+Feel free to cut longer songs to a length that's easier to map. [Talk to pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) if you need help with that!
+
+#### osu!mania
+
+Any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least 4 minutes is eligible for this contest! [This search criteria](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&length%5Bgte%5D=240) includes every song that's 4 minutes or longer, so your song must be in this list!
 
 ## Rewards
 
@@ -82,17 +88,17 @@ Contest points reward users at certain thresholds:
 
 Additionally, a **Mappers' Guild keychain** is optionally rewarded to the judging winner of each month's contest. Its design is based on your beatmap!
 
-![](LINK)
+![keychain](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg)
 
-(If you're interested in getting these keychains outside of a contest situation, check out [recent changes to the Mappers' Guild](LINK)!)
+If you're interested in receiving these keychains outside of a contest situation, check out [these recent changes to the Mappers' Guild](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild)!
 
 ## Rules
 
 Ready to map? Good. Here's what you need to keep in mind:
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - osu!: every segment of a slider must be curved.
-  - osu!xxxx: xxxx
+  - **osu!:** every segment of a slider must be curved.
+  - **osu!mania:** song must be at least 4 minutes.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalized.**
@@ -104,9 +110,9 @@ Note that all submissions will be anonymized before they're reviewed by screener
 
 And... that's it! When you're ready to submit your map, head to the relevant page below:
 
-- [osu! contest listing](LINK)
-- [](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/184)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/185)
 
-Have fun mapping!
+Submissions are open 'til the end of the month. Have fun mapping!
 
-—pishifat
+—pishifat, RandomeLoL
