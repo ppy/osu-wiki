@@ -119,9 +119,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 9 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T010000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T113000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=108&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=108&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Chile ::{ flag=CL }:: | ::{ flag=VN }:: Vietnam | [Sep 9 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T153000&p1=1440&p2=232&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Sep 9 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T160000&p1=1440&p2=263&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
 
@@ -254,6 +252,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 9 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Philippines ::{ flag=PH }:: | 4 | **6** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/110374746) | [#1](https://www.twitch.tv/videos/1920796820) |
 
 ### Quarterfinals
 
