@@ -10,7 +10,7 @@ This classic contest makes a comeback yet again! See if you have what it takes t
 
 Let's be honest: the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) isn't anything special — but that may be what makes it so valuable.
 
-This is a plain 'n' simple mapping contest, allowing mappers to show off their talents! (...and earn some [prizes](#prizes) along the way.)
+This is a plain 'n' simple mapping contest, allowing mappers to show off their talents! (...and earn some [prizes](#rewards) along the way.)
 
 Let's break it down:
 
