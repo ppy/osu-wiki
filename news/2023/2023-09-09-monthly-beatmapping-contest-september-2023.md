@@ -50,7 +50,7 @@ Part of the judging criteria involves how you handle the limitation, so keep tha
 
 #### osu!mania limitation
 
-osu!mania's contest hosts opted for a more song-focused limitation: **your beatmap's song must be at least *4 minutes*!**
+osu!mania's contest hosts opted for a more song-focused limitation: **your beatmap's [drain time](/wiki/Beatmap/Drain_time) must be at least *4 minutes*!**
 
 Your biggest struggle might be finding a song packed with enough variation to make a cool beatmap. Luckily, there's *a lot* of songs to choose from:
 
@@ -64,7 +64,7 @@ Feel free to cut longer songs to a length that's easier to map. [Talk to pishifa
 
 #### osu!mania
 
-Any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least 4 minutes is eligible for this contest! [This search filter](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&length%5Bgte%5D=240) includes every song that's 4 minutes or longer, so your song must be in this list!
+Due to [osu!mania's limitation](#osu!mania-limitation) this month, any [Featured Artist](https://osu.ppy.sh/beatmaps/artists) song that is at least 4 minutes is eligible for this contest! [This search filter](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&length%5Bgte%5D=240) includes every song that's 4 minutes or longer, so your song must be in this list!
 
 ## Rewards
 
@@ -98,7 +98,7 @@ Ready to map? Good. Here's what you need to keep in mind:
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!:** every segment of a slider must be curved.
-  - **osu!mania:** song must be at least 4 minutes.
+  - **osu!mania:** your beatmap's [drain time](/wiki/Beatmap/Drain_time) must be at least 4 minutes.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
