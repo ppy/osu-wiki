@@ -110,7 +110,7 @@ The Monthly Beatmapping Contest rewards users with *[contest points](/wiki/Conte
 - **Runner-up:** 1 point
 - **Screening crew's #1 pick:** 1 point
 
-These numbers may vary depending on how many submissions the contest receives. Check [the wiki article](/wiki/Contests/Contest_points) for details.
+These numbers may vary depending on how many submissions the contest receives. Check [the contest point article](/wiki/Contests/Contest_points) for details.
 
 Contest points reward users at certain thresholds:
 
