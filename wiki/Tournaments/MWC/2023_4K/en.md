@@ -113,27 +113,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ## Match schedule: Semifinals
 
-### Saturday, 9 September 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 9 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T010000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 9 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T113000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Sep 9 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T130000&p1=1440&p2=108&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=VN }:: Vietnam | [Sep 9 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T153000&p1=1440&p2=232&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Sep 9 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230909T160000&p1=1440&p2=263&p3=248) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
-
 ### Sunday, 10 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Sep 10 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T113000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=VN }:: Vietnam | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=102&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=VN }:: Vietnam | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=102&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finals | mappool showcase | [Sep 10 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
@@ -260,6 +246,10 @@ Saturday, 9 September 2023:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/110374746) | [#1](https://www.twitch.tv/videos/1920796820) |
+| **Thailand** ::{ flag=TH }:: | **7** | 6 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/110380554) | [#1](https://www.twitch.tv/videos/1921140746) |
+| **Indonesia** ::{ flag=ID }:: | **7** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/110381909) | [#1](https://www.twitch.tv/videos/1921140746?t=1h23m31s) |
+| **Chile** ::{ flag=CL }:: | **7** | 6 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/110384206) | [#1](https://www.twitch.tv/videos/1921272921) |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/110384840) | [#1](https://www.twitch.tv/videos/1921272040) |
 
 ### Quarterfinals
 
@@ -545,7 +535,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
