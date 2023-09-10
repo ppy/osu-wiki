@@ -38,7 +38,7 @@ Check out [this osu!mania 4K map of **Kommisar**'s latest tune](https://osu.ppy.
 
 ### Rock Candy - Interstellar Retribution
 
-Or if you're not a LN master, [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/376267) hosted by [ExVeemon](https://osu.ppy.sh/users/1249224) might be a better choice.
+Or if you're not an LN master, [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/376267) hosted by [ExVeemon](https://osu.ppy.sh/users/1249224) might be a better choice.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/379/Songs/Rock%20Candy%20-%20Interstellar%20Retribution.mp3">
