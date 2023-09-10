@@ -147,7 +147,7 @@ The rationale behind this change is simple: without it, having `Snaking out slid
 
 Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
 
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no miss score always signifies a full combo.
+From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no-miss score always signifies a full combo.
 
 |  |  |
 | :-- | :-: |
