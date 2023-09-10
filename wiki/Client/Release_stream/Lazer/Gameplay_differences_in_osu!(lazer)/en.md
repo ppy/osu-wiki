@@ -182,11 +182,9 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 ### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at 477 RPM.
 
-The score cap is determined by the total score that can be obtained by spinning the entire spinner with 477 RPM.
-
-That means you can spin the entire spinner at 477 RPM to get the highest score, or spin at a higher speed to finish spinner early, but you can still only get the score which spin the entire spinner at 477 RPM.
+This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
 
 |  |  |
 | :-- | :-: |
