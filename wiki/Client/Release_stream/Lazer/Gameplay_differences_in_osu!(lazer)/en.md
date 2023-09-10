@@ -327,25 +327,3 @@ Beatmaps converted from the osu! game mode into osu!mania had a set of hit windo
 | Classic mod revert support | No |
 | Intentionally changed | Yes |
 | Needs further consideration | No? |
-
-### Audio rate adjustments affect hit windows in osu!mania
-
-In stable, osu!mania reverts changes to hit windows resulting from applications of DT/HT.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
-### The Flashlight mod does not have a gradient
-
-<!-- TODO: comparison image  -->
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
