@@ -184,6 +184,10 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
 
+The score cap is determined by the total score that can be obtained by spinning the entire spinner with 477 RPM.
+
+That means you can spin the entire spinner at 477 RPM to get the highest score, or spin at a higher speed to finish spinner early, but you can still only get the score which spin the entire spinner at 477 RPM.
+
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
