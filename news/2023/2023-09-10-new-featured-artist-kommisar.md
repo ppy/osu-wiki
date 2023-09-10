@@ -8,7 +8,7 @@ date: 2023-09-10 16:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/379/header.jpg)
 
-**Kommisar** has been around on osu! for a *long time*, both as [an osu! player](https://osu.ppy.sh/users/773405) and a musician. Their first song to make an impact on osu! was [this classic April Fools' joke](https://osu.ppy.sh/beatmapsets/28222) from 2011, followed by the infamous stream map [Chipstream](https://osu.ppy.sh/beatmapsets/104784) half a decade later. Earlier today, **Kommisar** made an unexpected return to osu! through an [osu! original](/wiki/osu%21_originals) in [this year's MWC 4K](/wiki/Tournaments/MWC/2023_4K)!
+**Kommisar** has been around on osu! for a *long time*, both as [an osu! player](https://osu.ppy.sh/users/773405) and a musician. Their first song to make an impact on osu! was [this classic April Fools' joke](https://osu.ppy.sh/beatmapsets/28222) from 2011, followed by the infamous stream map [Chipstream](https://osu.ppy.sh/beatmapsets/104784) half a decade later. Earlier today, **Kommisar** made an unexpected return to osu! through an [osu! original](/wiki/osu!_originals) in [this year's MWC 4K](/wiki/Tournaments/MWC/2023_4K)!
 
 **10** tunes produced almost entirely with a Game Boy music sequencer are here to stay. Check 'em out from [**Kommisar**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/379)!
 
@@ -30,7 +30,7 @@ Give your best attempt on [this stream-packed map](https://osu.ppy.sh/beatmapset
 
 ### Kommisar - Clover
 
-Check out [this osu!mania 4K map of **Kommisar**'s latest tune](LINK) hosted by [lemonguy](https://osu.ppy.sh/users/4693052)!
+Check out [this osu!mania 4K map of **Kommisar**'s latest tune](https://osu.ppy.sh/beatmapsets/2058816) hosted by [lemonguy](https://osu.ppy.sh/users/4693052)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/379/Songs/Kommisar%20-%20Clover.mp3">
