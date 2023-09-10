@@ -147,7 +147,7 @@ The rationale behind this change is simple: without it, having `Snaking out slid
 
 Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
 
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that an S grade always signifies a full combo.
+From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no miss score always signifies a full combo.
 
 |  |  |
 | :-- | :-: |
@@ -158,7 +158,7 @@ From now on slider ends will only affect score and accuracy, but have no effect 
 
 ### Missing a slider head causes a miss
 
-Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to receive the S grade while having a low max combo.
+Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to receive a no miss score while having a low max combo.
 
 In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
 
