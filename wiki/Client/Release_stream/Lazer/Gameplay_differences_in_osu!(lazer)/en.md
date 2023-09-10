@@ -50,7 +50,8 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 | A | At least 90% accuracy |
 | B | At least 80% accuracy |
 | C | At least 70% accuracy |
-| D | Anything else |
+| D | Anything else with passed score |
+| F | Failed score |
 
 |  |  |
 | :-- | :-: |
