@@ -25,7 +25,7 @@ It's been over a month since [COE](/wiki/Community/cavoe's_osu!_event/2023) ende
 Give your best attempt on [this stream-packed map](https://osu.ppy.sh/beatmapsets/104784) hosted by [vipto](https://osu.ppy.sh/users/838877) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/288544) hosted by [BBB](https://osu.ppy.sh/users/3824172)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/379/Songs/Kommisar%20-%20Chipstream.mp3">
 </audio>
 
 ### Kommisar - Clover
@@ -33,7 +33,7 @@ Give your best attempt on [this stream-packed map](https://osu.ppy.sh/beatmapset
 Check out [this osu!mania 4K map of **Kommisar**'s latest tune](LINK) hosted by [lemonguy](https://osu.ppy.sh/users/4693052)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/379/Songs/Kommisar%20-%20Clover.mp3">
 </audio>
 
 ### Rock Candy - Interstellar Retribution
@@ -41,7 +41,7 @@ Check out [this osu!mania 4K map of **Kommisar**'s latest tune](LINK) hosted by 
 Or if you're not a LN master, [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/376267) hosted by [ExVeemon](https://osu.ppy.sh/users/1249224) might be a better choice.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/379/Songs/Rock%20Candy%20-%20Interstellar%20Retribution.mp3">
 </audio>
 
 ---
