@@ -134,7 +134,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Finals
 
-**[Download the mappack here (162 MB)](https://packs.ppy.sh/P223%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Finals.zip)**
+**[Download the mappack here (153 MB)](https://packs.ppy.sh/P223%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Finals.zip)**
 
 - Rice
   1. [sasakure.UK - Bokura no 16bit Warz (Hylotl) \[1 0 0 0 0\]](https://osu.ppy.sh/beatmapsets/1996732#mania/4149957)
