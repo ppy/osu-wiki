@@ -1,6 +1,6 @@
 # Compression des fichiers
 
-Chaque beatmap a une [limite de taille de fichier](/wiki/Beatmapping/Beatmap_submission#limitations) déterminée par sa longueur totale, et tout contenu [vidéo](/wiki/Ranking_criteria#video-and-background) et [audio](/wiki/Ranking_criteria#audio) doit respecter les exigences en matière de format, de résolution et de débit binaire.
+Chaque beatmap a une [limite de taille de fichier](/wiki/Beatmapping/Beatmap_submission#limites) déterminée par sa longueur totale, et tout contenu [vidéo](/wiki/Ranking_criteria#video-and-background) et [audio](/wiki/Ranking_criteria#audio) doit respecter les exigences en matière de format, de résolution et de débit binaire.
 
 Ce guide vous aidera à faire passer votre beatmap en dessous de cette limite et à répondre à ces exigences.
 
