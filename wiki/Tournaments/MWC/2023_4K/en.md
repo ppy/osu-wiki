@@ -111,18 +111,53 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/4624beb19d9e806ed905ab1718c079c2#file-mwc4k-2023-player-list-csv).
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Sunday, 10 September 2023
+### Saturday, 16 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 10 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T033000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Sep 10 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T113000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Sep 10 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T140000&p1=1440&p2=108&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finals | mappool showcase | [Sep 10 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230910T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 16 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T110000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Sep 16 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T150000&p1=1440&p2=45&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 17 September 2023
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 17 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T110000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T110000&p1=1440&p2=28&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T140000&p1=1440&p2=248&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Thailand ::{ flag=TH }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T150000&p1=1440&p2=28&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (153 MB)](https://packs.ppy.sh/P223%20-%20osu%21mania%204K%20World%20Cup%202023%3A%20Finals.zip)**
+
+- Rice
+  1. [sasakure.UK - Bokura no 16bit Warz (Hylotl) \[1 0 0 0 0\]](https://osu.ppy.sh/beatmapsets/1996732#mania/4149957)
+  2. [katagiri - STRONG 280 (Toaph Daddy) \[DESTRUCTION PUNCH\]](https://osu.ppy.sh/beatmapsets/1759474#mania/3600992)
+  3. [Falcom Sound Team jdk - Desert After Tears (lemonguy) \[Inferno x1.1\]](https://osu.ppy.sh/beatmapsets/1599384#mania/3266500)
+  4. [siromaru + cranky - conflict (guden) \[Prasueno\]](https://osu.ppy.sh/beatmapsets/2058788#mania/4303024)
+  5. [Terminal 11 - Braindead (Pizza69) \[Metastasis 1.05x\]](https://osu.ppy.sh/beatmapsets/2058879#mania/4303210)
+  6. [MAXIMUM THE HORMONE - What's up, people?! (Cut Ver.) (-mint-) \[Outburst\]](https://osu.ppy.sh/beatmapsets/2007678#mania/4176510)
+  7. [Camellia - overcomplexification ("Quaternion" Long ver.) (0DZ0) \[convolution (cut)\]](https://osu.ppy.sh/beatmapsets/2058875#mania/4303205)
+- Hybrid
+  1. [MisoilePunch - Makear (guden) \[Ar'alkthyn\]](https://osu.ppy.sh/beatmapsets/2058789#mania/4303025)
+  2. [VINCENT GANATCH - GENE \~A mix\~ (lemonguy) \[Another x1.05\]](https://osu.ppy.sh/beatmapsets/2058822#mania/4303097)
+  3. [kanemiko - Cold Fusion (-mint-) \[Catalyst (cut 1.05x)\]](https://osu.ppy.sh/beatmapsets/2058817#mania/4303090)
+- Long Note
+  1. [TUYU - Anoyo-iki no Bus ni Notte Saraba. (Raveille) \[To the other side. 1.1x\]](https://osu.ppy.sh/beatmapsets/2058811#mania/4303080)
+  2. [Masayoshi Oishi - Kamiari Algorithm (katagiri Bootleg) (YuEast 2018) \[kami x1.10\]](https://osu.ppy.sh/beatmapsets/2058829#mania/4303115)
+  3. [CHUBAY - FataL EntanglemEnt (-mint-) \[Acute\]](https://osu.ppy.sh/beatmapsets/2058819#mania/4303094)
+  4. [Kommisar - Clover (lemonguy) \[LN Master\]](https://osu.ppy.sh/beatmapsets/2058816#mania/4303089)
+- SV
+  1. [Yooh - Elemental Ethnic (TheFunk) \[Savage Vortex\]](https://osu.ppy.sh/beatmapsets/2058808#mania/4303108)
+  2. [ColBreakz - 100.000 (Cut Ver.) (BlackyDay) \[Marvelous\]](https://osu.ppy.sh/beatmapsets/2058830#mania/4303120)
+- Tiebreaker
+  1. **[D-D-Dice vs. siromaru - Catch the Glory (Toaph Daddy) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/2058832#mania/4303123)**
 
 ### Semifinals
 
@@ -241,6 +276,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ### Semifinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1meOFMiIXiDLaQ0mbuyYFp_Nv0btdUho9C51N7lLgios/edit?rm=minimal).
+
 Saturday, 9 September 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
@@ -250,6 +287,14 @@ Saturday, 9 September 2023:
 | **Indonesia** ::{ flag=ID }:: | **7** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/110381909) | [#1](https://www.twitch.tv/videos/1921140746?t=1h23m31s) |
 | **Chile** ::{ flag=CL }:: | **7** | 6 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/110384206) | [#1](https://www.twitch.tv/videos/1921272921) |
 | **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/110384840) | [#1](https://www.twitch.tv/videos/1921272040) |
+
+Sunday, 10 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/110394501) | [#1](https://www.twitch.tv/videos/1921758061) |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/110399024) | [#1](https://www.twitch.tv/videos/1921970556) |
+| **Indonesia** ::{ flag=ID }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/110401118) | [#1](https://www.twitch.tv/videos/1922067694) |
 
 ### Quarterfinals
 
@@ -535,6 +580,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
