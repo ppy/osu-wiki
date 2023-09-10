@@ -4,8 +4,6 @@ tags:
   - badges
   - badged
   - Abzeichen
-outdated_since: ae3ae7ae1471e52888da024965dc18d2d62518d3
-outdated_translation: true
 ---
 
 # Offizielle Turnierunterstützung
@@ -14,7 +12,7 @@ outdated_translation: true
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
-Dieser Artikel wurde zuletzt am 19. Juni 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 2. September 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -105,7 +103,7 @@ In Bezug auf die Rolle des Personals gelten folgende Regeln:
 
 Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir ermutigen zu sorgfältiger Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal gegen die Regeln verstoßen haben (oder mehrmals). Sie dürfen keine andere Mitarbeiterrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren Geschichte von Fall zu Fall prüfen.
 
-Jeder, dessen Verhalten dazu führt, dass das Turnier seine offizielle Unterstützung verliert, darf mindestens 4 Monate lang nicht dieselbe Rolle in einem anderen Turnier mit Abzeichen spielen oder dessen Veranstalter sein.
+Mitarbeiter, deren Verhalten direkt dazu führt, dass das Turnier seine offizielle Unterstützung verliert, dürfen im Ermessen des Support-Teams mindestens 4 Monate lang nicht dieselbe Rolle in einem anderen Turnier mit Abzeichen übernehmen oder deren Veranstalter sein. Falls diese Auszeit für einen Nutzer gilt, wird dieser direkt vom [Turnier-Team](mailto:tournaments@ppy.sh) informiert.
 
 ### Spieler
 
