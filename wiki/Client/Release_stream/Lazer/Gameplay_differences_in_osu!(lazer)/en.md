@@ -331,3 +331,14 @@ Beatmaps converted from the osu! game mode into osu!mania had a set of hit windo
 | Classic mod revert support | No |
 | Intentionally changed | Yes |
 | Needs further consideration | No? |
+
+### The Flashlight mod does not have a gradient
+
+![](img/mania-flashlight.gif)
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | No |
+| Classic mod revert support | No |
+| Intentionally changed | No |
+| Needs further consideration | Yes |
