@@ -1,8 +1,3 @@
----
-outdated_since: 32f38c0c44294abb0d0513bf930652d62bbc0258
-outdated_translation: true
----
-
 # Turnierkomitee
 
 Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene.
@@ -29,7 +24,6 @@ Diejenigen, die an einer Mitarbeit im Turnierkomitee interessiert sind, können 
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
@@ -40,4 +34,5 @@ Diejenigen, die an einer Mitarbeit im Turnierkomitee interessiert sind, können 
 ## Alumni
 
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
