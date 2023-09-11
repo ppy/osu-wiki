@@ -61,9 +61,9 @@
 
 ### 判定区间边缘与 stable 不同
 
-When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
+当物件的点击时间正好位于判定区间的边缘时，不同的客户端版本可能会给出不一样的判定。
 
-| 游戏模式 | 比较 （stable） | 比较 (lazer) | 比较 (lazer 回放模式) |
+| 游戏模式 | 比较（stable） | 比较 (lazer) | 比较 (lazer 回放模式) |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 | osu!taiko | `abs(round(hit error)) < floor(hit window)`，使用 `<=` 的 miss 区间除外 | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
