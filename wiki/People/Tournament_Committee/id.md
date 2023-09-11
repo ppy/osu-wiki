@@ -24,7 +24,6 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 ## Anggota
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
@@ -40,4 +39,5 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Alumni
 
+- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
