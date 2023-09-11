@@ -8,7 +8,7 @@
 
 ### 在暂停和恢复播放时，歌曲播放速率会逐渐降低或升高
 
-这确保了在持续的游玩过程中，暂停后立即恢复会比较困难，从而防止了玩家滥用暂停功能。
+这使在游玩时中途暂停后继续更加困难，在一定程度上可以防止玩家滥用暂停功能。
 
 |  |  |
 | :-- | :-: |
@@ -63,10 +63,10 @@
 
 When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
 
-| 游戏模式 | 比较 （稳定版） | 比较 (lazer) | 比较 (lazer 回放模式) |
+| 游戏模式 | 比较 （stable） | 比较 (lazer) | 比较 (lazer 回放模式) |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`，使用 `<=`的 miss 区间除外 | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
+| osu!taiko | `abs(round(hit error)) < floor(hit window)`，使用 `<=` 的 miss 区间除外 | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 | osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 
 |  |  |
@@ -116,7 +116,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ![](img/slideracc.gif)
 
-出于历史原因，在 lazer 之前，玩家点击滑条头时，只要判定在 50/MEH 的区间内，就可以获得完美的分数。但是这种设定不太符合一款音乐节奏游戏的定位。向前看，点击滑条头的判定会更严格。
+出于历史原因，在 lazer 之前，玩家点击滑条头时，只要判定在 50/MEH 的区间内，就可以获得完美的分数。但是这种设定不太符合一款音乐节奏游戏的定位。展望未来，点击滑条头的判定会更严格。
 
 | :-- | :-: |
 | 旧版本不兼容 | 是 |
