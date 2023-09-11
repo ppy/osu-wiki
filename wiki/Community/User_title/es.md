@@ -22,7 +22,7 @@ tags:
 
 Un **título de usuario** es una etiqueta corta en la página de perfil de un usuario establecida por el [osu! team](/wiki/People/osu!_team). La mayoría de los títulos indican la pertenencia a un [grupo de usuarios](/wiki/People/User_group), pero algunos usuarios han obtenido [títulos más únicos](/wiki/People/Users_with_unique_titles) por logros o contribuciones específicas.
 
-El color del título de un usuario es el mismo que el color del usuario, que también suele establecerse por la pertenencia a un grupo. Si el usuario no tiene un color establecido, el título es blanco.
+El color del título de un usuario es el mismo que el color del usuario, que también suele establecerse por la pertenencia a un grupo. Si el usuario no tiene un color establecido, el título será blanco.
 
 ## Historia
 
