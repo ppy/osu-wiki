@@ -80,6 +80,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `artist` | Nombre del artista |
 | `title` | Nombre de la canción |
 | `creator` | Nombre del creador de la dificultad |
+| `difficulty` | Nombre de la dificultad del beatmap |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Tamaño del circulo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
