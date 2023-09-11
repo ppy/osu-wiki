@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
----
-
 # Usuarios con títulos únicos
 
 Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones.La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
@@ -266,6 +261,8 @@ Estos storyboarders recibieron el título de **Elite Storyboarder** por demostra
 
 ## Relacionados con el juego
 
+*Véase también: [Completacionistas](/wiki/People/Completionists)*
+
 Estos jugadores recibieron sus respectivos títulos a través de un logro de juego loco o al completar un desafío específico.
 
 | Usuario | Título | Logro |
@@ -276,7 +273,9 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 11 de agosto de 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Otorgado por ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) a finales de 2008 por alcanzar el puesto 104 en 1 semana, como referencia a [*The World Ends with You*](https://es.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! hasta el 27 de abril de 2019 |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganó [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Girl in the Forest*](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Internment*](https://twitter.com/osugame/status/1696007320663359800?s=20) |
+| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Logró la puntuación máxima posible en [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) para obtener un lugar imbatible en el puesto #1 en la tabla de clasificación |
 
 ## Contribuidores
 
