@@ -1,3 +1,8 @@
+---
+outdated_since: 32f38c0c44294abb0d0513bf930652d62bbc0258
+outdated_translation: true
+---
+
 # 토너먼트 위원회
 
 **토너먼트 위원회**는 토너먼트 현장에서 안정적이고 숙련된 주최자와 헬퍼로 구성된 위원회입니다.
