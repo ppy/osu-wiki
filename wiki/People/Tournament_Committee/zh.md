@@ -24,7 +24,6 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ## 成员
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
@@ -40,4 +39,5 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 ## 已退休
 
+- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
