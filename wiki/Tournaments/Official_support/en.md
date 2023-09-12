@@ -81,7 +81,6 @@ In addition, all promotional material or any services associated with a tourname
 - A dedicated referee must be present, or if appropriate permission for automated software has been granted and is being used to assist, available to be summoned with minimal delay (2-5 minutes) during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Every match within the same stage should be held in a consistent format. For example, bracket matches should all be played either synchronously or asynchronously, but not both.
-  - Previously, asynchronous matches were disallowed entirely. This is no longer the case.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
@@ -93,7 +92,7 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 #### Referee bots/automation
 
-The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meets the requirements listed below:
+The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meet the requirements listed below:
 
 - The bot/automation must be made publicly and functionally available as an open-source repository.
 - The bot/automation must be attached to and run from a singular [bot account](/wiki/Bot_account), following all stipulations and requirements listed therein.
