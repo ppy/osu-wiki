@@ -183,7 +183,7 @@ Examples of exceptional tournaments that have met these expectations:
 - [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
 - [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
 
-### Requesting extra visibility support (main-menu banners and news posts)
+### Requesting in-game banner and news post support
 
 Long-running community tournaments may qualify for additional support to enhance their visibility to the playerbase, namely receiving main-menu banners in-game and publication via news posts on the osu! website.
 
