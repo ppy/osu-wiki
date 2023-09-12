@@ -190,7 +190,8 @@ Long-running community tournaments may qualify for additional support to enhance
 The minimum requirements to request in-game or website advertising support are as follows:
 
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
-- The tournament has successfully run for *at least* two badged iterations in the past, or have a staffing team that the Tournament Committee considers reasonably experienced.
+- The tournament has successfully run for *at least* two badged iterations in the past.
+  - Exceptions can be made at the discretion of the osu! team and the Tournament Committee based on any number of factors, such as size, scope, reach, and supporting team size of a given tournament. A good example of this kind of exception would be an event like the Roundtable.
 - The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
 - Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
 - You are able to provide the schedule of the matches and livestreams ahead of time.
