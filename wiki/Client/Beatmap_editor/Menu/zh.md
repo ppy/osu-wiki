@@ -108,8 +108,8 @@
 | :-- | :-- |
 | 节拍类型 | 选择当前计时点对应的节拍类型：4/4 （常见）或 3/4 （华尔兹）。对于其他节拍类型，请使用 [Timing 设置窗口](/wiki/Client/Beatmap_editor/Timing)。 |
 | 节拍器 | 启用/禁用 `Timing` 标签页上[节拍器](/wiki/Client/Beatmap_editor/Timing#节拍器)的滴答声。 |
-| 添加 Timing 区间（即红线） (`Ctrl` + `P`) | 添加新的[非继承区间（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点红线)。 |
-| 添加继承区间（即绿线） (`Ctrl` + `Shift` + `P`) | 添加新的[继承区间（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点绿线)。 |
+| 添加 Timing 区间（即红线） (`Ctrl` + `P`) | 添加新的[非继承区间（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)。 |
+| 添加继承区间（即绿线） (`Ctrl` + `Shift` + `P`) | 添加新的[继承区间（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)。 |
 | 重置当前区间 | 重置当前非继承区间的 [BPM](/wiki/Music_theory/Tempo) 与[偏移量](/wiki/Offset)设置，以便[重新测定时间轴](/wiki/Beatmapping/Timing)。如果不修改区间参数即保存谱面，则会删除这些区间。 |
 | 删除 Timing 区间 (`Ctrl` + `I`) | 删除当前计时区间（红线、绿线都会删除） |
 | 重新对齐当前 Timing 区间 | 以当前的测定时间轴设置为准，[重新对齐](/wiki/Beatmapping/Snapping)当前区间的所有打击物件。 |
