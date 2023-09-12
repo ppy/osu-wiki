@@ -183,32 +183,33 @@ Tutte le opzioni di questa sezione rappresentano i colori. Sono terzine di inter
 - **`x` (Integer)** e **`y` (Integer):** Posizione in [pixel](/wiki/Client/Beatmap_editor/osu!_pixel) dell'oggetto.
 - **`time` (Integer):** Tempo in cui l'oggetto deve essere colpito, in millisecondi dall'inizio dell'audio della beatmap.
 - **`type` (Integer):** Bit flag che indicano il tipo di oggetto da cliccare. Vedi [la sezione tipi](#tipi).
-- **`hitSound` (Integer):** Bit flag che indica l'hitsound applicato all'oggetto. Si veda [la sezione hitsounds](#hitsounds).
+- **`hitSound` (Integer):** Bit flag che indica l'hitsound applicato all'oggetto. Si veda [la sezione hitsound](#hitsounds).
 - **`objectParams` (Elenco separato da virgole):** Parametri extra specifici del tipo di oggetto.
 - **`hitSample` (elenco separato da due colonne):** Informazioni su quali campioni vengono riprodotti quando l'oggetto viene colpito. È strettamente correlato a `hitSound`; vedere [la sezione hitsounds](#hitsounds). Se non viene scritto, il valore predefinito è `0:0:0:0:`.
 
 ### Tipi
 
-I tipi di oggetti da colpire sono memorizzati in un integer a 8 bit, dove ogni bit è un flag con un significato speciale. Il tipo di oggetto da colpire di base è dato dai bit 0, 1, 3 e 7 (dal meno significativo al più significativo):
+Il parametro del tipo di oggetto da colpire è un integer a 8 bit, dove ogni bit è un flag con un significato speciale.
 
-- 0: Cerchio
-- 1: Cursore
-- 3: Spinner
-- 7: osu!mania hold
-
-I bit rimanenti sono utilizzati per distinguere le nuove combo e per saltare i colori delle combo (comunemente chiamato "colour hax"):
-
-- 2: Nuova combo
-- 4-6: un intero a 3 bit che specifica quanti colori della combo saltare, se questo oggetto inizia una nuova combo.
+| Indice di bit | Significato |
+| :-- | :-- |
+| 0 | Segna l'oggetto come cerchio |
+| 1 | Segna l'oggetto come slider |
+| 2 | Segna l'inizio di una nuova combo |
+| 3 | Segna l'oggetto come spinner  |
+| 4, 5, 6 | Un integer a 3 bit che specifica quanti colori della combo saltare, una pratica alla quale ci si riferisce con "colour hax". Rilevante solo se l'oggetto inizia una nuova combo |
+| 7 | Segna l'oggetto come nota lunga di osu!mania |
 
 ### Hitsounds
 
 I bit flag `hitSound` determinano quali suoni verranno riprodotti quando l'oggetto viene colpito:
 
-- 0: Normale
-- 1: Fischio
-- 2: Fine
-- 3: Battito di mani
+| Bit index | Meaning |
+| :-- | :-- |
+| 0 | Normal |
+| 1 | Whistle |
+| 2 | Finish |
+| 3 | Clap |
 
 Se non è impostato alcun bit, per impostazione predefinita viene utilizzato l'hitsound normale.
 
