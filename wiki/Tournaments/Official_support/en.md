@@ -226,7 +226,7 @@ Please do not submit a main menu banner with your original request — you will 
 While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
 
 - Only news posts advertising registrations and recapping of **final** results are presently permitted.
-- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (aka a in-person meetup).
+- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (aka an in-person meetup).
 
 Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
 
