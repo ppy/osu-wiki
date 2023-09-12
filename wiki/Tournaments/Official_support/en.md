@@ -95,7 +95,7 @@ Once the tournament has concluded, the tournament organisers will need to submit
 The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meet the requirements listed below:
 
 - The bot/automation must be made publicly and functionally available as an open-source repository.
-- The bot/automation must be attached to and run from a singular [bot account](/wiki/Bot_account), following all stipulations and requirements listed therein.
+- The bot/automation should abide by the expectations laid out in the [bot account](/wiki/Bot_account) for general in-game use. Referee-related tools and software can be run directly from a user's own account.
 - If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
 - Where a bot/automation workflow is present, any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
