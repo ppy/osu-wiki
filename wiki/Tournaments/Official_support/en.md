@@ -78,7 +78,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present, or if appropriate permission for automated software has been granted and is being used to assist, available to be summoned with minimal delay (<2 minutes) during every match. Players cannot "self-ref".
+- A dedicated referee must be present, or if appropriate permission for automated software has been granted and is being used to assist, available to be summoned with minimal delay (2-5 minutes) during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Every match within the same stage should be held in a consistent format. For example, bracket matches should all be played either synchronously or asynchronously, but not both.
   - Previously, asynchronous matches were disallowed entirely. This is no longer the case.
