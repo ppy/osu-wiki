@@ -143,6 +143,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | CES League osu! Tournament | 2019-12-02 | 2020-01-19 | ;w; | kirundy | TeamNameIn1v1Xd |
 | [CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
 
+#### COE 1v1 Tournament
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-01-17 | 2022-02-17 | okinamo | Malteser | cat burger |
+| [COE 1v1 Tournament 2023](COE/COE_2023) | 2023-07-14 | 2023-08-05 | criller | FlyingTuna | cat burger |
+
 #### Coffee Hispanic
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |

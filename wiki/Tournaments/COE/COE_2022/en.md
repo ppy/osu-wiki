@@ -23,13 +23,13 @@ The **COE 1v1 Tournament 2022** (***COE1v12022***) was an international open-ran
 
 ## Prizes
 
-The COE 1v1 Tournament 2022 offered a $1,000 cash prize pool and limited edition merch.
+The COE 1v1 Tournament 2022 offered a 1,000 € cash prize pool, including a contribution of 1,000 € from the osu! team, and limited edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500 €, exclusive COE merchandise, custom physical trophy, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 350 €, exclusive COE merchandise |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150 €, exclusive COE merchandise |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1000 €, exclusive COE merchandise, custom physical trophy, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 700 €, exclusive COE merchandise |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 300 €, exclusive COE merchandise |
 
 ![](img/coe-1v1-2022.png "COE 1v1 Tournament 2022 winner badge")
 
