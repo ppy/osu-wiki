@@ -78,7 +78,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present, or if appropriate permission for automated software has been granted and is being used to assist, available to be summoned with minimal delay (2-5 minutes) during every match. Players cannot "self-ref".
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2-5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
@@ -196,7 +196,7 @@ The minimum requirements to request in-game or website advertising support are a
 - You are able to provide the schedule of the matches and livestreams ahead of time.
 - Your tournament streams or otherwise shares its results in clear and legible English.
 
-If you satisfy the above criteria, you may make a request for extra visibility support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
+If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
 We recommend sending any such requests as early as possible to allow time for consideration.
 
