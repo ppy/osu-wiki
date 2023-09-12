@@ -96,8 +96,8 @@ Once the tournament has concluded, the tournament organisers will need to submit
 The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meets the requirements listed below:
 
 - The bot/automation must be made publicly and functionally available as an open-source repository.
-- The bot/automation must be attached to and run from a singular [Bot account](/wiki/Bot_account), following all stipulations and requirements listed therein.
-- If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2-5 minutes), and able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
+- The bot/automation must be attached to and run from a singular [bot account](/wiki/Bot_account), following all stipulations and requirements listed therein.
+- If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
 - Where a bot/automation workflow is present, any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 Approval for the use of referee bots/automation **must** be granted by the osu! support team. In addition, this approval is required for **every individual instance where a referee bot/automation is used.** We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
@@ -176,7 +176,7 @@ Badge images that do not meet these standards will be refused with given reasoni
 
 In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
 
-Note: podium finishing/finalist badge prizes are only awarded if the tournament in question does not have any restrictions in place for participation, such as being limited to a specific rank range or a specific geographic region.
+Note that badge prizes for the top three finalists will only be considered for tournaments without any restrictions in place for participation, such as being limited to a specific rank range or a specific geographic region.
 
 Examples of exceptional tournaments that have met these expectations:
 
@@ -186,7 +186,9 @@ Examples of exceptional tournaments that have met these expectations:
 
 ### Requesting extra visibility support (main-menu banners and news posts)
 
-Long-running community tournaments may qualify for additional support to enhance their visibility to the playerbase, such as receiving main-menu banners in-game and publication via news posts on the osu! website. The minimum requirements to request in-game advertising are as follows:
+Long-running community tournaments may qualify for additional support to enhance their visibility to the playerbase, namely receiving main-menu banners in-game and publication via news posts on the osu! website.
+
+The minimum requirements to request in-game or website advertising support are as follows:
 
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
 - The tournament has successfully run for *at least* two badged iterations in the past, or have a staffing team that the Tournament Committee considers reasonably experienced.
@@ -226,7 +228,7 @@ Please do not submit a main menu banner with your original request — you will 
 While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
 
 - Only news posts advertising registrations and recapping of **final** results are presently permitted.
-- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (aka an in-person meetup).
+- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
 
 Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
 
