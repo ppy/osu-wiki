@@ -40,4 +40,4 @@ Estas personas han sido verificadas por el osu! team como completacionistas:
 
 - ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) recibió el [título de usuario](/wiki/Community/User_title) *The First Completionist* por ser el primer jugador en lograr esta hazaña.
 - ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) recibió el título de usuario *Drum Decimator* por ser el primer completacionista de osu!taiko y conseguir combos completos en cada beatmap de osu!taiko clasificado.
-- Antes de septiembre de 2023, los jugadores solían ganar el título de usuario *osu!completionist*, que se suspendió en favor de las insignias de perfil.
+- Antes de septiembre de 2023, los jugadores solían ganar el título de usuario *osu!completionist*, que se descontinuó en favor de las insignias de perfil.
