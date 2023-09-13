@@ -14,7 +14,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Membuat post pada forum osu!
 - Berkomentar pada situs web osu! (baik itu pada laman berita, riwayat perubahan, maupun info beatmap)
 - Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_discussion)
-- Menyunting rincian profilnya masing-masing (semisal mengganti avatar atau mengubah isi bagian "me!")
+- Menyunting rincian profilnya masing-masing (semisal mengganti avatar, mengubah isi bagian "me!", dll.)
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Client/Interface/Multiplayer)
 
@@ -36,8 +36,8 @@ Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap h
 
 Berikut merupakan tindakan-tindakan yang dapat menyebabkan seseorang terkena *silence* pada umumnya:
 
-- Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` atau laman diskusi beatmap, komentar, dan lain-lain), yang meliputi — namun tidak terbatas pada — mengirimkan spam, berceloteh yang tidak sewajarnya, berperilaku rasis, dan lain sebagainya
-- Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya)
+- Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` atau laman diskusi beatmap, komentar, dll.), yang meliputi — namun tidak terbatas pada — mengirimkan spam, berceloteh yang tidak sewajarnya, berperilaku rasis, dll.
+- Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya).
 
 Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_centre/Account_restrictions) oleh tim kami tanpa harus di-*silence* terlebih dahulu.
 
