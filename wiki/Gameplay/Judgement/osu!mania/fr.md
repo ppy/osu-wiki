@@ -15,11 +15,11 @@ Ils sont généralement désignés par la valeur de leur score (sauf pour les mi
 | ![](/wiki/shared/judgement/osu!mania/mania-hit50.png) | MEH | 50 | 16.67% | `151 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit0.png) | MISS | 0 | 0% | `188 - 3 × OD` |
 
-La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré à l'intérieur d'une fenêtre de hit si `erreur de hit ≤ erreur de hit maximum`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
+La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) (overall difficulty) de la beatmap. Un hit est considéré à l'intérieur d'une fenêtre de hit si `erreur de hit ≤ erreur de hit maximum`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
 
 L'erreur de hit est arrondie et les valeurs maximales d'erreur de hit sont tronquées à l'entier le plus proche, ce qui signifie que les fenêtres peuvent être jusqu'à 0,5 ms plus longues ou plus courtes de part et d'autre par rapport à ce que les formules suggèrent.
 
-Les beatmaps convertis à partir du mode osu! ( alias *converts*) utilisent des fenêtres de hits différentes :
+Les beatmaps converties à partir du mode osu! ( alias *converts*) utilisent des fenêtres de hits différentes :
 
 | Nom | Erreur de hit maximale (ms) |
 | :-: | :-- |
@@ -45,9 +45,9 @@ Les hold notes reçoivent un jugement en fonction du moment de l'appui sur la to
 | Jugement | Conditions requises |
 | :-: | :-- |
 | PERFECT | Erreur de hit au début ≤ erreur maximum pour un PERFECT × 1.2 **ET** erreur de hit combinée ≤ erreur maximale pour un PERFECT × 2.4 |
-| GREAT | Erreur de hit au début ≤ erreur maximum pour un for GREAT × 1.1 **AND** erreur de hit combinée ≤ erreur maximale pour un GREAT × 2.2 |
-| GOOD | Erreur de hit au début ≤ erreur maximum pour un GOOD **AND** erreur de hit combinée ≤ erreur maximale pour un GOOD × 2 |
-| OK | Erreur de hit au début ≤ erreur maximum pour un OK **AND** erreur de hit combinée ≤ erreur maximale pour un OK × 2 |
+| GREAT | Erreur de hit au début ≤ erreur maximum pour un for GREAT × 1.1 **ET** erreur de hit combinée ≤ erreur maximale pour un GREAT × 2.2 |
+| GOOD | Erreur de hit au début ≤ erreur maximum pour un GOOD **ET** erreur de hit combinée ≤ erreur maximale pour un GOOD × 2 |
+| OK | Erreur de hit au début ≤ erreur maximum pour un OK **ET** erreur de hit combinée ≤ erreur maximale pour un OK × 2 |
 | MEH | Tout le reste tant que ce n'est pas un miss |
 | MISS | Ne pas avoir appuyé sur la touche depuis le début de la fenêtre MEH jusqu'au bout, ou jusqu'à la fin de la fenêtre OK. |
 
