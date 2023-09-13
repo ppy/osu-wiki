@@ -125,9 +125,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 17 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T110000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T110000&p1=1440&p2=28&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T133000&p1=1440&p2=28&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T140000&p1=1440&p2=248&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T140000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Thailand ::{ flag=TH }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T150000&p1=1440&p2=28&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
