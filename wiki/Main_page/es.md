@@ -1,3 +1,7 @@
+---
+layout: main_page
+---
+
 <div class="wiki-main-page__blurb">
 Bienvenido a la osu! wiki, la base de conocimientos de código abierto que contiene una amplia gama de información relacionada con osu!, un juego de ritmo gratuito.
 </div>
