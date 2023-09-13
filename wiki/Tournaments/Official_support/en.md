@@ -78,7 +78,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2-5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
@@ -95,11 +95,11 @@ Once the tournament has concluded, the tournament organisers will need to submit
 The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meet the requirements listed below:
 
 - The bot/automation must be made publicly and functionally available as an open-source repository.
-- The bot/automation should abide by the expectations laid out in the [bot account](/wiki/Bot_account) for general in-game use. Referee-related tools and software can be run directly from a user's own account.
+- The bot/automation should abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software can be run directly from a user's own account.
 - If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
 - Where a bot/automation workflow is present, any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
-Approval for the use of referee bots/automation **must** be granted by the osu! support team. In addition, this approval is required for **every individual instance where a referee bot/automation is used.** We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
+Approval for the use of referee bots/automation **must** be granted by the osu! support team. In addition, this approval is required for **every individual instance where a referee bot/automation is used**. We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
 
 ### Staff
 
