@@ -13,7 +13,7 @@ Ils sont généralement désignés par la valeur de leur score (sauf pour les mi
 | ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 × OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
-La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré comme étant à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximale`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
+La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) (overall difficulty) de la beatmap. Un hit est considéré comme étant à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximale`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
 
 L'erreur de hit est arrondie et les valeurs de l'erreur de hit maximale sont tronquées à l'entier le plus proche, ce qui signifie que les fenêtres peuvent être jusqu'à 1,5 ms plus courtes de part et d'autre par rapport à ce que les formules suggèrent.
 
@@ -37,7 +37,7 @@ Un [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) est jugé avec une mention
 
 ### Sliders
 
-Les [sliders](/wiki/Gameplay/Hit_object/Slider) sont constitués de plusieurs parties : la [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), la [slider tail](/wiki/Gameplay/Hit_object/Slider/Slidertail), les [sliders ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), et les [sliders repeats](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). Le slider dans son ensemble est jugé en fonction du nombre de parties que le joueur a hit, comme indiqué ci-dessous :
+Les [sliders](/wiki/Gameplay/Hit_object/Slider) sont constitués de plusieurs parties : le [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), le [slider tail](/wiki/Gameplay/Hit_object/Slider/Slidertail), les [sliders ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), et les [sliders repeats](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). Le slider dans son ensemble est jugé en fonction du nombre de parties que le joueur a hit, comme indiqué ci-dessous :
 
 | Jugement | Pourcentage de réussite du slider |
 | :-: | :-- |
@@ -46,11 +46,11 @@ Les [sliders](/wiki/Gameplay/Hit_object/Slider) sont constitués de plusieurs pa
 | MEH | Au moins un élément du slider |
 | MISS | 0% |
 
-Il suffit que la slider head soit touchée dans la fenêtre de hit de la MEH pour que le hit soit réussi. Cependant, si [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision de la slider head est également prise en compte, le jugement reçu pour l'ensemble du slider étant limité au maximum à celui reçu pour la slider head.
+Il suffit que le slider head soit touché dans la fenêtre de hit de la MEH pour que le hit soit réussi. Cependant, si [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision du slider head est également prise en compte, le jugement reçu pour l'ensemble du slider étant limité au maximum à celui reçu pour le slider head.
 
 Il existe d'autres particularités concernant l'influence des sliders dans les [combos](/wiki/Gameplay/Combo_(score_multiplier)) :
 
-- Hit la slider head trop tôt (avant la fenêtre MEH), miss un slider tick, ou un repeat n'entraîne pas un MISS, mais causera un [combo break](/wiki/Gameplay/Judgement/Combobreak). Les autres parties du slider peuvent toujours être hit si une touche est maintenue enfoncée. C'est ce qu'on appelle familièrement un [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- Hit le slider head trop tôt (avant la fenêtre MEH), miss un slider tick, ou un repeat n'entraîne pas un MISS, mais causera un [combo break](/wiki/Gameplay/Judgement/Combobreak). Les autres parties du slider peuvent toujours être hit si une touche est maintenue enfoncée. C'est ce qu'on appelle familièrement un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 - Miss le slider end n'entraîne pas un MISS, mais n'incrémentera pas le combo.
 
 ### Spinners
@@ -78,7 +78,7 @@ Si un spinner est très court, le nombre de spins requis peut être calculé com
 L'algorithme de jugement du spinner a été considérablement modifié dans la [mise à jour Stable 20190513.2](https://osu.ppy.sh/home/changelog/stable40/20190513.2). Les différences sont les suivantes :
 
 - La différence entre OK et MEH, ainsi qu'entre MEH et GREAT, était égale à un demi spin, ce qui rendait les jugements non-MISS beaucoup plus difficiles à réaliser.
-- Le fait que les spinners soient trop courts peut les avoir empêchés d'être complètement clear.
+- Le fait que les spinners soient trop courts a pu les empêcher d'être complètement clear.
 - Tous les spinners ont eu besoin d'un demi-spin de plus pour terminer.
 
 Les replays effectuées avant le 10 mai 2019 (date à laquelle le changement a été [introduit dans la version Cutting Edge](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1)) utilisent cet ancien algorithme plutôt que celui qui est actuellement en vigueur.
