@@ -24,7 +24,7 @@ Die Änderungsliste unterstützt neben Markdown-Formatierung auch Medien wie sta
 ![](img/changelog-web-2007.png "Die Änderungsliste auf der Webseite im Jahr 2007")
 :::
 
-Das Änderungsprotokoll wurde von peppy am 11. September 2007 in einem dafür gedachten Forum-Thread mit dem Titel "[Official Development Changelog](https://osu.ppy.sh/community/forums/topics/15)" gestartet, in dem er wesentliche Änderungen und Fehlerbehebungen auflisten und manchmal Einblicke in anstehende Pläne geben würde.
+Das Änderungsprotokoll wurde von [peppy](/wiki/People/peppy) am 11. September 2007 in einem dafür gedachten Forum-Thread mit dem Titel "[Official Development Changelog](https://osu.ppy.sh/community/forums/topics/15)" gestartet, in dem er wesentliche Änderungen und Fehlerbehebungen auflisten und manchmal Einblicke in anstehende Pläne geben würde.
 
 ::: Infobox
 ![](img/changelog-osume-2013.png "Änderungsliste im osu! updater (2013)")
