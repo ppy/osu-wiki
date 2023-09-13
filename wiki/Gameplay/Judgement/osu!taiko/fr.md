@@ -10,9 +10,9 @@ Un **jugement**, ou **résultat de hit** (hit result), est le résultat de l'int
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50% | `120 - 8 × OD` si OD ≤ 5, et `110 - 6 × OD` si OD ≥ 5 |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | `135 - 8 × OD` si OD ≤ 5, et `120 - 5 × OD` si OD ≥ 5 |
 
-La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximum`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre. La fenêtre MISS compare par exception `erreur de hit ≤ erreur de hit maximum` à la place.
+La fenêtre de hit dépend de la [difficulté globale (OD)](/wiki/Beatmap/Overall_difficulty) (overall difficulty) de la beatmap. Un hit est considéré à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximum`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre. La fenêtre MISS compare par exception `erreur de hit ≤ erreur de hit maximum` à la place.
 
-L'erreur de hit est arrondie et les valeurs maximales d'erreur de hit sont arrondie à l'entier le plus proche, ce qui signifie que pour les GREAT et les OK, les fenêtres peuvent être jusqu'à 1,5 ms plus courtes des deux côtés, tandis que les fenêtres de miss peuvent être jusqu'à 0,5 ms plus courtes ou plus large des deux côtés, par rapport à ce que les formules suggèrent.
+L'erreur de hit est arrondie et les valeurs maximales d'erreur de hit sont arrondies à l'entier le plus proche, ce qui signifie que pour les GREAT et les OK, les fenêtres peuvent être jusqu'à 1,5 ms plus courtes des deux côtés, tandis que les fenêtres de miss peuvent être jusqu'à 0,5 ms plus courtes ou plus large des deux côtés, par rapport à ce que les formules suggèrent.
 
 ## Mécaniques de jugement
 
@@ -26,7 +26,7 @@ Les notes larges peuvent être hit avec deux touches de la bonne couleur en mêm
 
 Les drum rolls donnent 300 points (360 pendant le [kiai time](/wiki/Gameplay/Kiai_time)), tandis que les large drum rolls donnent 720 points (864 pendant le kiai time), par tick de drum roll effectué dans le bon timing.
 
-Un hit trop rapide ou trop lent empêchera la collecte des ticks. Les limites sont environ de hit deux fois plus vite que les ticks apparaissent et de hit plus lentement que tout les 5 ticks.
+Un hit trop rapide ou trop lent empêchera la collecte des ticks. Les limites des hits sont à peu près deux fois plus rapides que l'apparition des ticks, et plus lentes que tous les 5 ticks.
 
 Avec [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) activé, les drum rolls donnent également des jugements en fonction du nombre de ticks :
 
