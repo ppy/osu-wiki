@@ -9,6 +9,7 @@ Index page for articles about people or groups.
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
 - [Centurions](Centurions)
 - [Community Contributors](Community_Contributors)
+- [Completionists](Completionists)
 - [Developers](Developers)
 - [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)

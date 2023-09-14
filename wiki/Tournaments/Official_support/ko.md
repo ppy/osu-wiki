@@ -3,6 +3,8 @@ tags:
   - badge
   - badges
   - badged
+outdated_since: ae3ae7ae1471e52888da024965dc18d2d62518d3
+outdated_translation: true
 ---
 
 # 공식적인 토너먼트 지원
@@ -44,7 +46,7 @@ tags:
 
 토너먼트 지원 요청은 **토너먼트가 실제로 시작되기 한참 전에 이루어져야 합니다.** 이에 대해 구체적인 사항은 없지만, 심사 과정이 지연되는 것을 고려하면 토너먼트 시작 2~3주 전이 권장됩니다.
 
-토너먼트가 [자격 기준](#자격)을 충족할 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 아래의 내용과 함께 메일을 보내주세요. 
+토너먼트가 [자격 기준](#자격)을 충족할 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 아래의 내용과 함께 메일을 보내주세요.
 
 - 토너먼트 일정, 게임모드, 대회 진행 방법 등을 포함한 토너먼트에 대해 간략한 설명
 - 아래 목록의 링크가 필요합니다:
@@ -177,7 +179,7 @@ User4,Team2,1234567
 - 토너먼트가 거의 끝나갈 때 (예시: 토너먼트가 32강에서 시작해서 준결승일 때).
 - 경기 및 실시간 스트리밍 일정을 미리 제공해주어야 합니다.
 
-위의 경우를 충족하는 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내 메인메뉴 배너 지원을 요청할 수 있습니다. 
+위의 경우를 충족하는 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내 메인메뉴 배너 지원을 요청할 수 있습니다.
 
 배너 이미지는 다음과 같은 표준을 준수해야 합니다:
 
