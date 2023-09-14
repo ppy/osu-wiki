@@ -293,7 +293,7 @@ Sunday, 10 September 2023:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/110394501) | [#1](https://www.twitch.tv/videos/1921758061) |
-| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/110399024) | [#1](https://www.twitch.tv/videos/1921970556) |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/110399024) | [#1](https://www.twitch.tv/videos/1925191800) |
 | **Indonesia** ::{ flag=ID }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/110401118) | [#1](https://www.twitch.tv/videos/1922067694) |
 
 ### Quarterfinals
