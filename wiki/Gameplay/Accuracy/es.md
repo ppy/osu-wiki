@@ -23,7 +23,7 @@ Referencia para un círculo:
 
 ![Precisión = (número de GREAT + 0.5 \* número de GOOD) / (número de GREAT + número de GOOD + número de fallos)](img/accuracy_taiko_updated.png "Fórmula de precisión para osu!taiko")
 
-En osu!taiko, la precisión se calcula tomando la suma de la precisión de la nota (qué tan cerca estuvo de tocar la nota a tiempo) dividida por el número total de notas anotadas hasta el momento. Las precisiones de las notas están etiquetadas como GREAT (良) (cuenta como 100 %), GOOD (可) (cuenta como 50 %) (mitad), y MISS/BAD (不可) (cuenta como 0 %, lo que también rompe el combo). Los redobles de tambor y los spinners no influyen en la precisión.
+En osu!taiko, la precisión se calcula tomando la suma de la precisión de la nota (qué tan cerca estuvo de tocar la nota a tiempo) dividiéndola por el número total de notas anotadas hasta el momento. Las precisiones de las notas están etiquetadas como GREAT (良) (cuenta como 100 %), GOOD (可) (cuenta como 50 %) (mitad), y MISS/BAD (不可) (cuenta como 0 %, lo que también rompe el combo). Los redobles de tambor y los spinners no influyen en la precisión.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
