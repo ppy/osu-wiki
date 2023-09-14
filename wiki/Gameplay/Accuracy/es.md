@@ -80,7 +80,7 @@ Debido a la forma en que se implementan los mods [DT](/wiki/Gameplay/Game_modifi
 
 ### Giros
 
-*Nota: Los giros solo se usa para el modo de juego [osu!](/wiki/Game_mode/osu!).*
+*Nota: El giro solo es usado para el modo de juego [osu!](/wiki/Game_mode/osu!).*
 
 Además de la precisión, en el mismo texto emergente también se ve alguna información sobre los spinners.
 
