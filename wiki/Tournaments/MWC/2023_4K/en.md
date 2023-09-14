@@ -118,7 +118,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 16 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T110000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Sep 16 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T150000&p1=1440&p2=45&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Sep 16 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T160000&p1=1440&p2=45&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 17 September 2023
 
@@ -293,7 +293,7 @@ Sunday, 10 September 2023:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/110394501) | [#1](https://www.twitch.tv/videos/1921758061) |
-| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/110399024) | [#1](https://www.twitch.tv/videos/1921970556) |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/110399024) | [#1](https://www.twitch.tv/videos/1925191800) |
 | **Indonesia** ::{ flag=ID }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/110401118) | [#1](https://www.twitch.tv/videos/1922067694) |
 
 ### Quarterfinals
