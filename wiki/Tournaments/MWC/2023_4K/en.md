@@ -118,7 +118,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 16 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T110000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Sep 16 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T150000&p1=1440&p2=45&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Sep 16 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230916T160000&p1=1440&p2=45&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 17 September 2023
 
