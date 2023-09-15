@@ -32,7 +32,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), modding and mapping scene advisor |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, [Featured Artist](/wiki/People/Featured_Artists) outreach |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [NAT](/wiki/People/Nomination_Assessment_Team) leader |

@@ -33,7 +33,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Encargado general, asesor de moderación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Asesor de la escena de modding y mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de la osu!web, [artista destacado oficial de osu!](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de la osu!web |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de la osu!web |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Asesor de la escena de modding y mapping, organizador de Mappers' Guild, divulgación de artistas destacados |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Asesor de la escena de modding y mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Encargado general, mantenedor de la wiki |

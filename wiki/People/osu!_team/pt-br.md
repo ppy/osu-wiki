@@ -27,7 +27,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desenvolvedor do osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Faxineiro geral, orientador de moderação |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desenvolvedor do osu!web, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desenvolvedor do osu!web |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desenvolvedor do osu!web |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Orientador dos cenários de modding e mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Orientador dos cenários de modding e mapping, organizador da Mappers' Guild, caçador de Featured Artist |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Faxineiro geral, zelador da wiki |

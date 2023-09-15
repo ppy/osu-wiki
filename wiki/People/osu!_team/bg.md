@@ -32,7 +32,7 @@ tags:
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web разработчик |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Пазител на общност, съветник по модериране |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web разработчик, [официален osu! представен автор](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web разработчик |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web разработчик |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Съветник за редакции и създаване на бийтмапове |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Съветник за редакции и създаване на бийтмапове, организира съюза на създателите, ненадминат представен автор |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Пазител на общност, поддържа wiki |

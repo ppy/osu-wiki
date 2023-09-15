@@ -32,7 +32,7 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang b
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Pengasuh umum, penasihat bidang moderasi komunitas |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Penasihat bidang modding dan mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! (osu!web) |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! (osu!web) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang mapping dan modding, pengelola Mappers' Guild, koordinator program Featured Artist |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |

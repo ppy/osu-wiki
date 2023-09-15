@@ -33,7 +33,7 @@ osu! 的開發工作由 osu! 的製作者 ::{ flag=AU }:: **[peppy](https://osu.
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
-- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 

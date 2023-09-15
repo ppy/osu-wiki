@@ -30,7 +30,7 @@ Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web geliştiricisi |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Ev genel idarecisi, moderasyon danışmanı |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web geliştiricisi, [resmi osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web geliştiricisi |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web geliştiricisi |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Modlama ve mapleme danışmanı |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modlama ve mapleme danışmanı, Mappers' Guild organizatörü, Featured Artist'lerle iletişim |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Ev genel idarecisi, wiki idarecisi |

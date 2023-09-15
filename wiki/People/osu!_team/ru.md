@@ -31,7 +31,7 @@ outdated_since: 6b280c8bceae0f3d6fd6d62fb8e47f060a632106
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Советник по вопросам модерации, смотритель за порядком |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Советник по вопросам моддинга и маппинга |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, [официальный Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Разработчик osu!web |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Разработчик osu!web |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Советник по вопросам моддинга и маппинга, организатор Mappers' Guild, менеджер по связям с Featured Artist |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Советник по вопросам моддинга и маппинга |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Смотритель за порядком, хранитель вики |

@@ -32,7 +32,7 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](h
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
-- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 

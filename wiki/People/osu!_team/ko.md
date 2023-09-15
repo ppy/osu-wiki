@@ -38,7 +38,7 @@ tags:
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 총괄 관리자, 중재 자문가 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 모딩 및 매핑 자문가 |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web 개발자, [공식 아티스트](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 모더레이터, 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 모딩 및 매핑 자문가, Mappers' Guild 주최자, 공식 아티스트 지원 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 모딩 및 매핑 자문가 |

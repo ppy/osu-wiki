@@ -28,7 +28,7 @@ Personerna nedan är kärnan i **osu! teamet**och är främst ansvariga för att
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web utvecklare |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Allmän housekeeper, moderationsrådgivare |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web utvecklare, [officiell osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web utvecklare |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web utvecklare |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Modding och mapping scenrådgivare |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modding och mapping scenrådgivare, Mappers' Guild organiserare, Featured Artist outreach |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Allmän housekeeper, wiki underhållare |

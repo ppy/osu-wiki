@@ -28,7 +28,7 @@ Użytkownicy wymienieni poniżej należą do **zespołu osu!** i są odpowiedzal
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Programista strony internetowej |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Pomoc ogólna, doradca moderacji |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Programista strony internetowej, [wyrózniony artysta](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Programista strony internetowej |
+| ::{ flag=XX }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Programista strony internetowej |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Doradca sceny tworzenia beatmap |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Doradca sceny tworzenia beatmap, organizator gildii twórców, kontakt z wyróżnionymi artystami |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Pomoc ogólna, zarządzanie wiki |
