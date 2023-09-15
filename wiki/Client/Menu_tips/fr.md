@@ -20,7 +20,7 @@ Cet article répertorie toutes les différentes astuces qui apparaissent dans le
 
 Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client/Interface#menu-principal).
 
-- Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/Osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
+- Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
 - Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
 - Appuyez sur `F8`/`F9` partout dans le jeu pour déployer la fenêtre de [chat](/wiki/Client/Interface/Chat_console) !
 - Accédez aux options d'une beatmap en faisant un clic droit dessus ou en cliquant sur `Beatmaps Options` dans l'écran de sélection.
@@ -30,7 +30,7 @@ Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client
 - Faites une capture d'écran en appuyant sur `F12`.
 - Regardez les autres jouer en passant en [mode spectateur](/wiki/Gameplay/Spectating) ! Appuyez sur `F9`, cliquez sur un joueur puis sur « Observer le joueur » et admirez !
 - Si une beatmap a été mise à jour, vous pourrez télécharger la dernière version instantanément en cliquant sur le bouton qui apparaîtra.
-- Le wiki contient énormément d'informations utiles. Prenez le temps de [le lire](/wiki/Main_Page), vous apprendrez beaucoup de choses sur osu!
+- Le wiki contient énormément d'informations utiles. Prenez le temps de [le lire](/wiki/Main_page), vous apprendrez beaucoup de choses sur osu!
 - Saviez-vous que vous pouvez importer de nouvelles beatmaps simplement en double-cliquant sur un fichier `.osz` ? Vous pouvez également le glisser-déposer dans la fenêtre du jeu.
 - Exportez un [replay](/wiki/Gameplay/Replay) dans le dossier Replays d'osu!, qu'il ait été réalisé en ligne ou non, en appuyant sur `F2` dans l'[écran de résultat](/wiki/Client/Interface#écran-des-résultats).
 - Si vous trouvez que le son est décalé sur toutes les beatmaps que vous jouez, essayez d'ajuster le `Décalage Audio` dans le menu des `Options`.

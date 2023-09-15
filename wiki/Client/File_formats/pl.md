@@ -17,7 +17,7 @@ outdated_translation: true
 
 | Format | Korzystanie |
 | :-- | :-- |
-| [.osu][Osu Link] | [Kompozycja](/wiki/Client/Beatmap_editor/Compose), [Rytmika](/wiki/Client/Beatmap_editor/Timing), [Ustawienia piosenki](/wiki/Client/Beatmap_editor/Song_Setup). |
+| [.osu][Osu Link] | [Kompozycja](/wiki/Client/Beatmap_editor/Compose), [Rytmika](/wiki/Client/Beatmap_editor/Timing), [Ustawienia piosenki](/wiki/Client/Beatmap_editor/Song_setup). |
 | [.osb][Osb Link] | [Projekt](/wiki/Client/Beatmap_editor/Design). |
 
 ### Powtórka
@@ -75,8 +75,8 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
    - Wybierz skórkę, którą chcesz i kliknij na "Eksportuj jako .osk".
    - Plik .osk zostanie wyprodukowany i umieszczony w folderze "Exports".
 
-[Osz Link]: /wiki/Client/File_formats/Osz_(file_format)
-[Osk Link]: /wiki/Client/File_formats/Osk_(file_format)
-[Osu Link]: /wiki/Client/File_formats/Osu_(file_format)
-[Osb Link]: /wiki/Client/File_formats/Osb_(file_format)
-[Osr Link]: /wiki/Client/File_formats/Osr_(file_format)
+[Osz Link]: /wiki/Client/File_formats/osz_(file_format)
+[Osk Link]: /wiki/Client/File_formats/osk_(file_format)
+[Osu Link]: /wiki/Client/File_formats/osu_(file_format)
+[Osb Link]: /wiki/Client/File_formats/osb_(file_format)
+[Osr Link]: /wiki/Client/File_formats/osr_(file_format)

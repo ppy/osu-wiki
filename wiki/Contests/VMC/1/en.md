@@ -51,7 +51,7 @@ All participating mappers received constructive feedback from some of the most w
 - **Submissions must be for the osu! ruleset only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Submissions must use one of the [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
-- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Submissions must not be publicly revealed until after the results are announced.**
 - **Excluding metadata, submissions must not include anything that could reveal your identity.** Metadata will be anonymised before submissions are relayed to judges.
 - **Collaborations are not allowed**. This is a solo contest.

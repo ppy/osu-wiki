@@ -6,7 +6,7 @@
 
 ## Behaviour
 
-Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags. 
+Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags.
 
 Users, who wish to combine formatting onto a single section of text, can do so by placing BBCode tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
 
@@ -66,12 +66,12 @@ Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 ### Colour
 
 ```
-[color=HEXCODE]text[/color]
+[color=#HEXCODE]text[/color]
 ```
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
 
-The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
+The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `#HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
 The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no argument is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
 
@@ -243,7 +243,9 @@ The `[img]` tag is used to include online images into osu! forum posts. To use t
 
 In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [ImgBB](https://imgbb.com/), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+
+*Notice: Imgur has blocked the IPs of the osu! website, so new images hosted there can no longer be displayed.*[^imgur-blocked-ip]
 
 Toolbar button: ![Image button](img/image.png "Image")
 
@@ -344,3 +346,7 @@ The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums 
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
+
+## References
+
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)

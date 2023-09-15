@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a338c1129483f656838881edc9c3b2b2b817a3cb
+---
+
 # Menü des Beatmap-Editors
 
 ## Datei
@@ -156,7 +161,7 @@ Interessante Dinge.
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
 | Gitter-Ausrichtung (`T`) | Erlaubt das Einrasten der Hit-Objekte in Bezug auf die jeweilige Gitterlinie. |
 

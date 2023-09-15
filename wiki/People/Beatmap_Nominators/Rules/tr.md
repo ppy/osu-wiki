@@ -18,7 +18,7 @@ Bu beklentilerle ters düşen tekrarlı davranışlar Aday Gösterme Denetleme T
 ## Davranış
 
 - **Tamamlanmamış kuralları veya kural tasarılarını dikkate almayın.**
-- **[osu! Topluluk Kurallarına](/wiki/Rules) ve [Modlama ve Mapleme Etik Davranış Kurallarına](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) her daim uyun.** Bir Beatmap Aday Gösterici olarak, sergilediğiniz davranış topluluğun diğer üyelerine olumlu bir örnek oluşturmalıdır. Etik Davranış Kurallarının ihlali sizin geçici olarak deneme sürecine yerleştirilmenize, veya olağanüstü durumlarda, Beatmap Aday Göstericilerden kaldırılmanıza sebep olabilir.
+- **[osu! Topluluk Kurallarına](/wiki/Rules) ve [Modlama ve Mapleme Etik Davranış Kurallarına](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) her daim uyun.** Bir Beatmap Aday Gösterici olarak, sergilediğiniz davranış topluluğun diğer üyelerine olumlu bir örnek oluşturmalıdır. Etik Davranış Kurallarının ihlali sizin geçici olarak deneme sürecine yerleştirilmenize, veya olağanüstü durumlarda, Beatmap Aday Göstericilerden kaldırılmanıza sebep olabilir.
 - **Ücretli modlama, derecelendirme VEYA beatmap oluşturma komisyonlarında yer almayın ya da bunlara katılmayın.** Derecelendirme sürecinde "resmi" osu! ekip üyelerinin (BN, NAT veya diğerleri) meşrutiyeti ya da arzuları söz konusu olmamalıdır.
 
 ## Aktivite

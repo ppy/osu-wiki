@@ -27,7 +27,7 @@
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_Setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-meta-data) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
 
 ## Прочие компоненты
 

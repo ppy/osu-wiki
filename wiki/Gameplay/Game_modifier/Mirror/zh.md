@@ -12,7 +12,7 @@ tags:
 
 ![MR 模组图标](/wiki/shared/mods/MR.png "Mirror (MR) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -23,7 +23,7 @@ tags:
 
 ## 说明
 
-**Mirror** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过将 osu!mania 中的音符沿虚拟的 Y 轴进行轴对称实现这一点，帮助惯用左手的玩家游玩原来以惯用右手为准而编写的[谱面](/wiki/Beatmap)。换而言之，它“镜像”了音符。具体来讲，音符的镜像效果如下：
+**Mirror** [游戏模组](/wiki/Gameplay/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过将 osu!mania 中的音符沿虚拟的 Y 轴进行轴对称实现这一点，帮助惯用左手的玩家游玩原来以惯用右手为准而编写的[谱面](/wiki/Beatmap)。换而言之，它“镜像”了音符。具体来讲，音符的镜像效果如下：
 
 ![MR 模组游玩界面](img/MR-comparison-mania.jpg "osu!mania 中正常游玩（左图）与启用 Mirror 模组（右图）的比较")
 

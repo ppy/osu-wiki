@@ -11,15 +11,15 @@ There are 20 questions on the test and users are expected to select all correct 
 Test questions are pulled from a large pool of questions sorted by category. The following categories appear in the test:
 
 - [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules): 5 questions
-- [Mapping and Modding Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 question
-- [General Ranking Criteria](/wiki/Ranking_Criteria#general) (*RC*): 1 question
-- [Spread RC](/wiki/Ranking_Criteria#beatmap): 1 question
-- [Metadata RC](/wiki/Ranking_Criteria#metadata): 1 question
-- [Timing RC](/wiki/Ranking_Criteria#timing): 1 question
-- [Audio RC](/wiki/Ranking_Criteria#audio): 1 question
-- [Video and Background RC](/wiki/Ranking_Criteria#video-and-background): 1 question
-- [Skinning RC](/wiki/Ranking_Criteria#skinning): 1 question
-- [Storyboarding RC](/wiki/Ranking_Criteria#storyboarding)
+- [Mapping and Modding Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 question
+- [General Ranking Criteria](/wiki/Ranking_criteria#general) (*RC*): 1 question
+- [Spread RC](/wiki/Ranking_criteria#beatmap): 1 question
+- [Metadata RC](/wiki/Ranking_criteria#metadata): 1 question
+- [Timing RC](/wiki/Ranking_criteria#timing): 1 question
+- [Audio RC](/wiki/Ranking_criteria#audio): 1 question
+- [Video and Background RC](/wiki/Ranking_criteria#video-and-background): 1 question
+- [Skinning RC](/wiki/Ranking_criteria#skinning): 1 question
+- [Storyboarding RC](/wiki/Ranking_criteria#storyboarding)
 - Mode-specific RC: 4 questions specific to the game mode applied to (osu!, osu!taiko, osu!catch, osu!mania)
 
 There is no threshold for passing or failing the BN test, however it's generally accepted that a score above 15 is good, a score between 12.5 and 15 is mediocre, and any scores lower are concerning.

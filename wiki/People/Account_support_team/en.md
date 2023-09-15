@@ -28,13 +28,14 @@ You should contact this team regarding account-related topics that are out of yo
 - [Loss of access to the email](/wiki/Help_centre/Account#sign-in) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_account).
+- Requests to access the [announcement messages feature](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
 *Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Concerns about a moderator's misbehaviour.
-- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
+- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct).
 - [Payment issues](/wiki/Help_centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_centre/Client#online-features).
 

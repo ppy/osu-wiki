@@ -14,7 +14,7 @@ tags:
 
 **Global Moderation Team** (yang sebelumnya dikenal dengan nama Global Mod Team, Administrator, dan GreenBAT), atau yang sering disebut sebagai **GMT**, merupakan para anggota komunitas yang berfokus pada moderasi pemain serta berbagai isu yang berkaitan dengan jajaran staf dan komunitas secara umum. Mereka dapat dikenali dari jabatan dan nama pengguna mereka yang berwarna merah di dalam permainan dan hijau pada forum.
 
-**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
+**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
 
 ***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -55,11 +55,12 @@ Pada umumnya, tim GMT akan mengamati para kandidat yang dianggap berpotensi sela
 
 *Catatan: Kecuali diterakan lebih lanjut, seluruh anggota GMT dapat berbicara Bahasa Inggris di samping bahasa yang tercantum pada nama mereka masing-masing.*
 
-Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
+Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation Team](https://osu.ppy.sh/groups/4). Selain dari area fokus yang tertera di bawah ini, seluruh anggota GMT juga berperan aktif dalam [peninjauan konten visual dan audio yang terdapat pada beatmap](/wiki/Rules/Visual_content_considerations#menilai-gambar-anda).
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbia |  |
@@ -77,12 +78,11 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna, administrasi osu!wiki |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia | Moderasi komunitas mapping/modding |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Suomi, sedikit Swedia | Moderasi chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderasi chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Perancis | Moderasi chat |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderasi komunitas mapping/modding |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/4598899) | Indonesia | Moderasi komunitas mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Perancis, Spanyol | Moderasi chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi komunitas mapping/modding |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Melayu, sedikit Tionghoa | Moderasi komunitas mapping/modding |
@@ -94,6 +94,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Suomi | Moderasi chat |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugis, Spanyol | Moderasi chat, manajemen turnamen |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi komunitas mapping/modding |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kanton, Tionghoa |  |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portugis | Moderasi komunitas mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Pengembangan osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnam | Moderasi chat |
@@ -101,12 +102,12 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonesia | Moderasi chat |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis | Moderasi chat |
+| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugis, Spanyol | Moderasi chat |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Jerman, Serbia | Moderasi chat, moderasi komunitas mapping/modding |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderasi chat |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Tionghoa | Moderasi chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Melayu | Moderasi chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Skinning community moderation |
@@ -158,7 +159,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |

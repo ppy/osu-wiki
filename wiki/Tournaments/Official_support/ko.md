@@ -3,8 +3,8 @@ tags:
   - badge
   - badges
   - badged
+outdated_since: ae3ae7ae1471e52888da024965dc18d2d62518d3
 outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 공식적인 토너먼트 지원
@@ -13,7 +13,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2023년 3월 22일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내주세요.
+이 문서는 2023년 6월 19일에 마지막으로 업데이트되었습니다. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
 
 ## 혜택
 
@@ -28,7 +28,9 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 커뮤니티 운영 토너먼트가 공식적인 지원을 받기 위한 조건은 다음과 같습니다:
 
 - 토너먼트 시리즈는 1년에 2번을 넘겨서 열리지 말아야 합니다.
-- 토너먼트는 최소한 16강 더블 엘리미네이션으로 진행되어야 합니다. — 다른 규모나 포맷은 osu! 팀의 재량으로 허용될 수 있습니다. 호스트는 보편적이지 않은 규모/포맷으로 토너먼트 지원을 받으려는 경우는 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 먼저 연락해야 합니다.
+- 토너먼트는 최소한 16강 더블 엘리미네이션으로 진행되어야 합니다
+  - 그룹 스테이지 및 스위스 브라켓과 같은 더 큰 포맷 역시, 최소 16팀이 참여한다는 조건 하에 사용이 가능합니다. 16팀만으로 진행한다면 후에 더블 엘리미네이션 브라켓이 진행되어야 합니다.
+  - 대체되는 스케일 및 포맷은 토너먼트 위원회의 단독 재량에 따라 허용될 수 있습니다. 보편적이지 않은 규모/포맷으로 토너먼트 지원을 받으려면 호스트가 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 연락해야 합니다.
 - 토너먼트 포럼 글 맨 끝에는 **무조건** 보통 크기 이상의 글꼴로 명확하게 볼 수 있게 [토너먼트 신고 양식](https://pif.ephemeral.ink/tournament-reports) 링크를 게시해야 합니다.
   - `https://pif.ephemeral.ink/tournament-reports`
   - 이 신고 양식은 [토너먼트 위원회](/wiki/People/Tournament_Committee)에서 관리합니다. 플레이어, 혹은 스태프를 포함하여 누구든지 필요한 경우 해당 신고 설문을 사용하도록 권장됩니다. 토너먼트에 대한 [기대치](#기대치), [기타 진행 과정](#기타-진행-과정) 또는 [자격 사항](#자격)에 위반사항이 있다면 바로 신고해야 합니다.
@@ -44,7 +46,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 토너먼트 지원 요청은 **토너먼트가 실제로 시작되기 한참 전에 이루어져야 합니다.** 이에 대해 구체적인 사항은 없지만, 심사 과정이 지연되는 것을 고려하면 토너먼트 시작 2~3주 전이 권장됩니다.
 
-토너먼트가 [자격 기준](#자격)을 충족할 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 아래의 내용과 함께 메일을 보내주세요. 
+토너먼트가 [자격 기준](#자격)을 충족할 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 아래의 내용과 함께 메일을 보내주세요.
 
 - 토너먼트 일정, 게임모드, 대회 진행 방법 등을 포함한 토너먼트에 대해 간략한 설명
 - 아래 목록의 링크가 필요합니다:
@@ -84,7 +86,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 - 토너먼트와 관련된 모든 멀티플레이어 매치 로비는 "!mp make" 명령으로 생성되어야 합니다. 결과는 원래 있던 토너먼트 포럼 게시물에 링크되어있는 외부 소스에 명확하고 접근할 수 있는 형식으로 공개적으로 제공되어야 합니다.
 - 모든 규칙 변경 사항은 모든 참가자에게 명확하게 전달되어야 합니다. [위에서](#토너먼트) 언급한 모든 기대치를 유지해야만 합니다.
 
-토너먼트가 종료될 경우, 토너먼트 호스트는 계정 지원팀[tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 다음 사항을 보내 주세요:
+토너먼트가 종료될 경우, 토너먼트 호스트는 계정 지원팀 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)에 다음 사항을 보내 주세요:
 
 - 해당 배지 수령인 목록 (토너먼트 우승자라고도 합니다).
 - 적합하게 디자인된 배지 ([아래를 참고해주세요](#프로필-배지)).
@@ -177,7 +179,7 @@ User4,Team2,1234567
 - 토너먼트가 거의 끝나갈 때 (예시: 토너먼트가 32강에서 시작해서 준결승일 때).
 - 경기 및 실시간 스트리밍 일정을 미리 제공해주어야 합니다.
 
-위의 경우를 충족하는 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내 메인메뉴 배너 지원을 요청할 수 있습니다. 
+위의 경우를 충족하는 경우, [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 메일을 보내 메인메뉴 배너 지원을 요청할 수 있습니다.
 
 배너 이미지는 다음과 같은 표준을 준수해야 합니다:
 

@@ -18,25 +18,25 @@ Les beatmaps inactives qui se trouvent dans cette catégorie depuis 4 semaines s
 
 ### Qualifiée
 
-La catégorie **qualifié** est la dernière étape de la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure). Ces beatmaps ont été désignées par au moins deux [Beatmap Nominators](/wiki/People/Beatmap_Nominators) qui se sont assurés que la beatmap répondait aux [critères de classement](/wiki/Ranking_Criteria). Les beatmaps classées dans la catégorie Qualifiée entrent dans une [file d'attente de classement](/wiki/Beatmap_ranking_procedure/Ranking_queue), et seront finalement [classées](#classée) si elles ne sont pas [disqualifiées](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) de la file d'attente. Cette période sert de dernière ligne de défense pour corriger les défauts et les erreurs qui ont pu se glisser dans la file d'attente.
+La catégorie **qualifié** est la dernière étape de la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure). Ces beatmaps ont été désignées par au moins deux [Beatmap Nominators](/wiki/People/Beatmap_Nominators) qui se sont assurés que la beatmap répondait aux [critères de classement](/wiki/Ranking_criteria). Les beatmaps classées dans la catégorie Qualifiée entrent dans une [file d'attente de classement](/wiki/Beatmap_ranking_procedure/Ranking_queue), et seront finalement [classées](#classée) si elles ne sont pas [disqualifiées](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) de la file d'attente. Cette période sert de dernière ligne de défense pour corriger les défauts et les erreurs qui ont pu se glisser dans la file d'attente.
 
 Les beatmaps qualifiées ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés lorsqu'elles ne seront plus qualifiées. Elles utilisent l'icône de vérification (![](/wiki/shared/status/qualified.png)) dans l'écran de sélection des beatmaps.
 
 ### Classée
 
-La catégorie **classée** correspond aux beatmaps qui sont considérées comme du contenu officiel, dans le sens où elles ont atteintes ou dépassées les normes des [critères de classement](/wiki/Ranking_Criteria). Elles permettent aux joueurs de s'affronter dans les classements et de gagner des [points de performance](/wiki/Performance_points) en établissant des scores. Une fois qu'une beatmap a atteint le statut classé, son statut ne peut plus être modifié (sauf cas exceptionnel). Les beatmaps classées utilisent l'icône du double chevron vers le haut (![](/wiki/shared/status/ranked.png)) dans l'écran de sélection des beatmaps.
+La catégorie **classée** correspond aux beatmaps qui sont considérées comme du contenu officiel, dans le sens où elles ont atteintes ou dépassées les normes des [critères de classement](/wiki/Ranking_criteria). Elles permettent aux joueurs de s'affronter dans les classements et de gagner des [points de performance](/wiki/Performance_points) en établissant des scores. Une fois qu'une beatmap a atteint le statut classé, son statut ne peut plus être modifié (sauf cas exceptionnel). Les beatmaps classées utilisent l'icône du double chevron vers le haut (![](/wiki/shared/status/ranked.png)) dans l'écran de sélection des beatmaps.
 
 ### Loved
 
 *Pour l'histoire de la catégorie Loved, voir : [Histoire de Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-La catégorie **loved** correspond aux beatmaps qui ne peuvent pas répondre aux [critères de classement](/wiki/Ranking_Criteria), mais elles sont *aimées* par la communauté et sont donc régulièrement ajoutées en fonction des votes de la communauté dans le [Project Loved](/wiki/Community/Project_Loved). Elles ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés si elles ne sont plus Loved (cela ne se produit généralement qu'à la demande du créateur). Les beatmaps Loved utilisent l'icône de cœur (![](/wiki/shared/status/loved.png)) dans l'écran de sélection des beatmaps.
+La catégorie **loved** correspond aux beatmaps qui ne peuvent pas répondre aux [critères de classement](/wiki/Ranking_criteria), mais elles sont *aimées* par la communauté et sont donc régulièrement ajoutées en fonction des votes de la communauté dans le [Project Loved](/wiki/Community/Project_Loved). Elles ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés si elles ne sont plus Loved (cela ne se produit généralement qu'à la demande du créateur). Les beatmaps Loved utilisent l'icône de cœur (![](/wiki/shared/status/loved.png)) dans l'écran de sélection des beatmaps.
 
 ## Histoire
 
 ### Approuvée
 
-La catégorie **approuvé** a été utilisée entre 2008 et 2014 pour héberger les beatmaps qui dépassaient la longueur et le score maximum requis dans les anciennes versions des [critères de classement](/wiki/Ranking_Criteria), ainsi que les rares beatmaps qui enfreignaient d'autres règles des critères.
+La catégorie **approuvé** a été utilisée entre 2008 et 2014 pour héberger les beatmaps qui dépassaient la longueur et le score maximum requis dans les anciennes versions des [critères de classement](/wiki/Ranking_criteria), ainsi que les rares beatmaps qui enfreignaient d'autres règles des critères.
 
 Les beatmaps approuvées n'ont pas eu d'incidence sur le classement des scores d'un utilisateur jusqu'à peu après le passage du classement des scores à celui des [points de performance](/wiki/Performance_points). À la suite de ce changement, le statut "Approuvée" a été utilisé exclusivement pour les beatmaps comportant plus de 6 minutes de [temps de drain](/wiki/Beatmap/Drain_time).
 

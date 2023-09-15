@@ -2,8 +2,6 @@
 tags:
   - техподдержка
   - служба поддержки
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # Служба поддержки
@@ -14,7 +12,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 ## Как связаться
 
-**Единственный** способ связи — электронное письмо на английском на один из следующих адресов: [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh) или [privacy@ppy.sh](mailto:privacy@ppy.sh). Личности тех, кто имеет доступ к данным адресам, содержатся в тайне, чтобы этих людей не доставали просто так.
+**Единственный** способ связи — электронное письмо на английском на один из следующих адресов: [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh) или [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Личности тех, кто имеет доступ к данным адресам, содержатся в тайне, чтобы этих людей не доставали просто так.
 
 Обычно служба поддержки рассматривает обращения в течение нескольких дней. Если вам не отвечают больше недели, спросите о состоянии обращения в уже ведущейся переписке.
 
@@ -36,13 +34,14 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 - [Потеря доступа к почте](/wiki/Help_centre/Account#sign-in), привязанной к аккаунту osu!, или утрата самого аккаунта.
 - [Незначительные изменения ника](/wiki/Help_centre/Account#change-username) (или откат уже сделанных).
 - Регистрация [бот-аккаунта](/wiki/Bot_account).
+- Доступ к [рассылке оповещений](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
 *Примечание: если вы хотите пожаловаться на домогательства или крайне неприемлемое поведение со стороны другого пользователя (в том числе модератора), см. [Жалобы на приставания](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Жалобы на поведение модератора.
-- Жалобы на модератора, не соблюдающего [Кодекс поведения волонтёра](/wiki/Rules/Contributor_Code_of_Conduct).
+- Жалобы на модератора, не соблюдающего [Кодекс поведения волонтёра](/wiki/Rules/Contributor_code_of_conduct).
 - [Проблемы с оплатой](/wiki/Help_centre/Account#supporter) заказов из [osu!store](https://osu.ppy.sh/store/listing).
 - Технические проблемы, которые не удалось или нельзя решить через [форум техподдержки](https://osu.ppy.sh/community/forums/5), например, [проблемы с подключением](/wiki/Help_centre/Client#online-features).
 
@@ -50,3 +49,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 - [Обработка персональных данных](/wiki/Legal/Privacy#оператор-данных) и вопросы, связанные с конфиденциальностью.
 - **Окончательное** [удаление аккаунта](/wiki/Legal/Privacy#права-и-контроль-над-данными).
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- Просьбы и вопросы, связанные с [официальной поддержкой турниров](/wiki/Tournaments/Official_support) (проводятся консультации с [турнирным комитетом](/wiki/People/Tournament_Committee)).

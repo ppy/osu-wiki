@@ -12,6 +12,8 @@ tags:
   - place
   - éditeur
   - avertissement
+outdated_translation: true
+outdated_since: 8c67d7c7c1262ef3610f033799e7bc73113618d3
 ---
 
 # Beatmapping et Éditeur
@@ -38,7 +40,7 @@ Dans l'éditeur, cliquez sur `Fichier` dans le menu, puis sur `Ouvrir le fichier
 
 Si ce n'est pas le cas, changez-le manuellement pour chaque difficulté de votre beatmap, rechargez la beatmap, et vous devriez pouvoir la publier.
 
-Si vous rencontrez toujours des problèmes ou si vous souhaitez plus d'informations à ce sujet, consultez la page [Problèmes avec le BSS](/wiki/Guides/BSS_Issues).
+Si vous rencontrez toujours des problèmes ou si vous souhaitez plus d'informations à ce sujet, consultez la page [Problèmes avec le BSS](/wiki/Guides/BSS_issues).
 
 ## Je suis un osu!supporter mais je n'ai pas 20 emplacements en attente ! {id=upload-slots}
 

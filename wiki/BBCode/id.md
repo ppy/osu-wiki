@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 22e9dc764023926abc7249b185da7c1028cf7882
 ---
 
 <!--The imagemap button was added to the toolbar in osu-web#9972. When updating this article, keep in mind translating the new "Help" string on Crowdin and updating the editor.jpg file.-->
@@ -72,12 +74,12 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 ### Colour
 
 ```
-[color=KODE HEX]teks[/color]
+[color=#KODE HEX]teks[/color]
 ```
 
 *Untuk daftar nama warna yang didukung oleh tag ini, kunjungi laman [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*.
 
-Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `KODE HEX` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
+Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `#KODE HEX` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
 
 Argumen warna pada tag ini tidak ditulis dengan tanda kutip (`"`) serta tidak memiliki nilai *default*. Apabila argumen ini dikosongkan atau apabila warna yang ada ditulis dengan tanda kutip, tag ini tidak akan diuraikan sebagai tag BBCode yang sah.
 

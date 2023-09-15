@@ -14,7 +14,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 **Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
 
-**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Rol ve sorumluluklar
 
@@ -54,11 +54,12 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 *Not: Tüm GMT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
 
-[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
+[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_content_considerations#resminizin-değerlendirilmesi) rol oynar.
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Macarca | Sohbet moderasyonu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça |  |
@@ -76,12 +77,11 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fince, biraz İsveççe | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Fransızca | Sohbet moderasyonu |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Çince | Mapping/modding topluluk moderasyonu |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/4598899) | Endonezce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Fransızca, İspanyolca | Sohbet moderasyonu |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malayca, biraz Çince | Mapping/modding topluluk moderasyonu |
@@ -93,6 +93,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portekizce, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Mapping/modding topluluk moderasyonu |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince |  |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamca | Sohbet moderasyonu |
@@ -100,12 +101,12 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Endonezce | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca | Sohbet moderasyonu |
+| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portekizce, İspanyolca | Sohbet moderasyonu |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Sohbet moderasyonu |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Lehçe | Skinning community moderation |
@@ -157,7 +158,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
