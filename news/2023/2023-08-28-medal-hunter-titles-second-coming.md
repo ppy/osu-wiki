@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Medal Hunter\" Title's Second Coming"
+title: "The Hunt for Internment"
 date: 2023-08-28 03:00:00 +0000
 ---
 
