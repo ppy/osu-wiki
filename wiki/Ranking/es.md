@@ -17,19 +17,19 @@ La **clasificación** (alternativamente llamada «tablas de clasificación») es
 
 Todas las clasificaciones, excepto la clasificación individual de beatmaps, se pueden acceder pasando el cursor sobre el menú `clasificaciones` en el encabezado del sitio web. Para las clasificaciones individuales de beatmaps, se pueden encontrar en su página de información del beatmap.
 
-## Clasificación de puntos de rendimiento
+## Clasificación por puntos de rendimiento
 
 *Véase también: [Puntos de rendimiento](/wiki/Performance_points)*
 
-La clasificación de puntos de rendimiento describe el nivel de habilidad de un jugador en comparación con otros jugadores. Esta tabla de clasificación se determina por el número total de puntos de rendimiento que tiene un jugador individual, y se puede ver en el perfil de un jugador y en las [tablas de rendimiento](https://osu.ppy.sh/rankings/osu/performance).
+La clasificación por puntos de rendimiento describe el nivel de habilidad de un jugador en comparación con otros jugadores. Esta tabla de clasificación se determina por el número total de puntos de rendimiento que tiene un jugador individual, y se puede ver en el perfil de un jugador y en las [tablas de rendimiento](https://osu.ppy.sh/rankings/osu/performance).
 
-## Clasificación de puntuación
+## Clasificación por puntuación
 
-La clasificación de puntuación compara la puntuación total de los jugadores y los enumera en consecuencia. Ocupar un lugar destacado en esta clasificación requiere un gran compromiso de tiempo, pero se necesita relativamente menos habilidad mecánica que en la clasificación de puntos de rendimiento.
+La clasificación por puntuación compara la puntuación total de los jugadores y los enumera en consecuencia. Ocupar un lugar destacado en esta clasificación requiere un gran compromiso de tiempo, pero se necesita relativamente menos habilidad mecánica que en la clasificación por puntos de rendimiento.
 
-## Clasificación de Kudosu
+## Clasificación por Kudosu
 
-La clasificación de Kudosu compara los [Kudosu](/wiki/Modding/Kudosu) acumulados por los usuarios y los enumera en consecuencia. Esta clasificación no requiere habilidades de juego, ya que los Kudosu se obtienen como parte del [proceso de modding](/wiki/Modding).
+La clasificación por Kudosu compara el [Kudosu](/wiki/Modding/Kudosu) acumulado por los usuarios y los enumera en consecuencia. Esta clasificación no requiere habilidades de juego, ya que el Kudosu se obtiene como parte del [proceso de modding](/wiki/Modding).
 
 ## Clasificación de Spotlights
 
@@ -39,6 +39,6 @@ Las clasificaciones de Spotlights son tablas de clasificación de tiempo limitad
 
 Las clasificaciones de beatmaps comparan las puntuaciones de los jugadores entre sí en beatmaps individuales. Aparecen una vez que una beatmap ha sido [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados), [aprobado](/wiki/Beatmap/Category#aprobados), o Amado. Las ocho mejores puntuaciones se muestran sin necesidad de desplazarse, y si el jugador tiene una de las 50 mejores puntuaciones, la pantalla se desplazará automáticamente hasta su puntuación. Las clasificaciones en primer lugar se pueden ver en la página de perfil de un usuario.
 
-## Clasificación de países
+## Clasificación por países
 
-La clasificación de países se basan en los puntos de rendimiento de los jugadores de un país.
+La clasificación por países se basan en los puntos de rendimiento de los jugadores de un país.
