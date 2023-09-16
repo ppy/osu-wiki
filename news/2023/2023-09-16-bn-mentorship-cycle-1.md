@@ -8,17 +8,17 @@ Ever aspired to be one of the pillars that hold the Ranked section together? Now
 
 ![](/wiki/shared/news/banners/bn-mentorship.jpg)
 
-Those who are keen on following news related to mapping and the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have seen some suspicious bubblings related to a certain project that looks to give people an alternative way of learning modding and potentially becoming a Beatmap Nominator — with a [prototype cycle](https://twitter.com/osu_nat/status/1637312140057927681) for it ran in April and May earlier this year.
+Those who are keen on following news related to mapping and the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have seen some suspicious bubblings related to a certain project that looks to give people an alternative way of learning modding and potentially becoming a Beatmap Nominator — with a [prototype cycle](https://twitter.com/osu_nat/status/1637312140057927681) for it having run in April and May earlier this year.
 
-After extensive feedback gathered from the test phase, and as said in the title above, we're proud to open sign-ups for the first official cycle of the BN Mentorship Program!
+After extensive feedback gathered from the test phase, we're proud to open sign-ups for the first official cycle of the BN Mentorship Program!
 
 But wait, you ask… What the *Haitch E. Double Hockey Sticks* is this "BN Mentorship Program"?
 
-It's a modding course ran by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (us, the authors of this post) designed to get a modder's knowledge and skill up to what we consider to be the standard skill level of a BN. Partaking in the course will have you learn how to use the essential software, the big ranking rules you need to get acquainted with, as well as lots, and we mean *lots* of modding sessions to forge your skills in practice.
+It's a modding course run by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (us, the authors of this post) designed to get a modder's knowledge and skill up to what we consider to be the standard skill level of a BN. Partaking in the course will have you learn how to use the essential software, the most important ranking rules you need to get acquainted with, as well as lots, and we mean *lots* of modding sessions to forge your skills with practice.
 
 Unlike the prototype cycle, the mentors will be picking the mentees this time around. We'll take into consideration your previous BN applications (if you've had any), your recent mods and activity, if you have the required 200 *[kudosu!](/wiki/Modding/Kudosu)* to be a candidate, as well as your general *vibe*. Don't be discouraged if you don't get picked, as this is built to be a cyclical thing, which means there's always the next cycle to look forward to.
 
-To clarify, this program does not replace a regular application. You can still join in the old-fashioned way, this is just an alternative for people who are interested in improving or have some trouble with any particular topic when applying, and often feel stuck in the current system — struggling to move onto the next level.
+To clarify, this program does not replace a regular application. You can still join in the old-fashioned way, but this is just an alternative for people who are interested in improving or have some trouble with any particular topic when applying, and often feel stuck in the current system — struggling to move onto the next level.
 
 ---
 
