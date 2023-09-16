@@ -33,7 +33,9 @@ The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!m
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) |  |  |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) |  |  |
 
-Sign-ups will be open until **September 26th**, and you can sign up **[>>>>>HERE<<<<<](https://forms.gle/YCPNaGSMEXmyDtvKA)**. Please read the form carefully, and only sign up if you're available and willing to attend and commit to classes for the duration of the course.
+**[Click here to sign up!](https://forms.gle/YCPNaGSMEXmyDtvKA)**
+
+Sign-ups will be open until **September 26th**. Please read the form carefully, and only sign up if you're available and willing to attend and commit to classes for the duration of the course.
 
 See you there!
 
