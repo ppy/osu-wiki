@@ -16,6 +16,8 @@ This time around, the bounty was set for a particular Hush-Hush medal in the lat
 
 Said hints are of course incredibly cryptic: *"stained in the hues of madness, they rage within a four-walled jail"* and *"bask in the shade of an ailing mind"*.
 
+**This article gradually reveals a solution to the *Internment* medal. If you want to search for the solution yourself, you can use the above information and skip the rest of this news post for now.**
+
 With the fires of discovery lit in the hearts of medal aficionados across the globe, the [Medal Hunters' Discord server](https://discord.gg/8qpNTs6) huddled together and decided to pool their efforts to see one of their number made the latest **Medal Hunter**.
 
 But before we get to community's attempts to solve it, here's some details they knew from the beginning from their familiarity with previous medals:
