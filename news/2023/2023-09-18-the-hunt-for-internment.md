@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Hunt for Internment"
-date: 2023-08-28 03:00:00 +0000
+date: 2023-09-18 09:00:00 +0000
 ---
 
 Just what is a **Medal Hunter**, and what was the big deal recently about some new medal? Find out today in this sneak peek into the madness!
 
-![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/banner.jpg)
+![](/wiki/shared/news/2023-09-18-the-hunt-for-internment/banner.jpg)
 
 [Medals](/wiki/Medals) are achievements which are given for accomplishing certain gameplay goals. You've probably already achieved a few and might not even know why! Rest assured, this is (mostly) by design, because their solutions are kept under wraps. New medals are added every now and then, and on 727 day (as in, the 27th of July) a little while ago, a set of all-new [Hush-Hush medals](/wiki/Medals#hush-hush) were released as part of the [Summer Splash update](https://osu.ppy.sh/home/news/2023-07-27-summer-splash). Most notably of all, a bounty for the "**Medal Hunter**" title was announced for the first time in several years.
 
@@ -52,7 +52,7 @@ After peppy said anyone (including new players) would likely be able to get *Int
 
 The theories continued to become wilder in the wake of these hints, with many prospective medal hunters entering full Sherlock Holmes mode at the ever-increasing possibilities posed to them. In a twist of hilarity, they began relying more on insanity than logic and soon, discussion threads were drowned out with countless threads spouting some... *interesting* theories. Some were so utterly deranged that the medal team "took note" of them for future designs, and others... well, let's just introduce you to the wonder that is the Pac-Man theory:
 
-![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/pacman_theory.jpg)
+![](/wiki/shared/news/2023-09-18-the-hunt-for-internment/pacman_theory.jpg)
 
 But, despite all the challenges, the community was still determined to find the solution. One such participant, a fellow by the name of [UberFazz](https://osu.ppy.sh/users/8646059) had donned his fattest thinking cap, suggesting one theory of achieving 16,777,216 score, because that's how many possible colours there are with RGB values (255³). Another guess of theirs was to interact with the osu! website to find a hidden message somewhere on it, which would then lead to a solution. They were also informed by one of the developers that they had insanely close guesses multiple times, but it was all just not enough...
 
@@ -64,7 +64,7 @@ His new theory was to set scores with particular combo counts that relate to the
 
 After a tense fifteen minutes as UberFazz conjured the requisite three scores into existence, an elated gasp ran through the Medal Hunters server as he found himself the first recipient of the **Internment** medal and the second-ever "**Medal Hunter**" title, after more than a month since the medal's release!
 
-![](/wiki/shared/news/2023-08-28-medal-hunter-titles-second-coming/uberfazz_profile.png)
+![](/wiki/shared/news/2023-09-18-the-hunt-for-internment/uberfazz_profile.png)
 
 Despite the title being awarded to only one person, the solution belonged to every participant in spirit. After some scientific elimination of any existing theories, the community was finally ready to present the full solution to **Internment** medal:
 
