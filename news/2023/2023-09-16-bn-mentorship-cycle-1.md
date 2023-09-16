@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "BN Mentorship: Cycle 1 Sign-ups Open"
-date: 2023-09-16 16:00:00 +0000
+date: 2023-09-16 23:00:00 +0000
 ---
 
 Ever aspired to be one of the pillars that hold the Ranked section together? Now's your chance to make that dream a reality!
 
-![](/wiki/shared/news/banners/bn-mentorship.jpg)
+![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
 Those who are keen on following news related to mapping and the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have seen some suspicious bubblings related to a certain project that looks to give people an alternative way of learning modding and potentially becoming a Beatmap Nominator — with a [prototype cycle](https://twitter.com/osu_nat/status/1637312140057927681) for it having run in April and May earlier this year.
 
@@ -33,7 +33,7 @@ The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!m
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) |  |  |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) |  |  |
 
-**[Click here to sign up!](https://forms.gle/YCPNaGSMEXmyDtvKA)**
+[![application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/YCPNaGSMEXmyDtvKA)
 
 Sign-ups will be open until **September 26th**. Please read the form carefully, and only sign up if you're available and willing to attend and commit to classes for the duration of the course.
 
