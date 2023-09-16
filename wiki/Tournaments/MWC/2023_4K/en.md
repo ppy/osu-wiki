@@ -126,9 +126,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 17 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T133000&p1=1440&p2=28&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T140000&p1=1440&p2=248&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Sep 17 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T140000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=BR }:: Brazil | [Sep 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T150000&p1=1440&p2=28&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Grand Finals | mappool showcase | [Sep 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230917T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
 
@@ -273,6 +271,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Match results
+
+### Finals
+
+Saturday, 16 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Japan ::{ flag=JP }:: | 6 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/110479629) | [#1](https://www.twitch.tv/videos/1926996943) |
+| Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/110484408) | [#1](https://www.twitch.tv/videos/1927139174) |
 
 ### Semifinals
 
@@ -580,7 +587,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
