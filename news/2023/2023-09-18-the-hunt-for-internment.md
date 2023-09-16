@@ -82,6 +82,8 @@ And now, after this great struggle, UberFazz would like to give massive thanks t
 
 With this herculean task of colours and insanity behind them, the medal hunting community couldn't help but agree that *Internment* truly was a challenge worthy of the title.
 
+---
+
 If you wish to entertain yourself with fun unique challenges that give you shiny medallions to proudly display on your profile, please, by all means, consider becoming a medal hunter. Furthermore, if you do not know the solution to a medal such as this one, consider following the footsteps medal hunters must take for every new Hush-Hush medal that comes out. [Ephemeral](https://osu.ppy.sh/users/102335) and the osu! team go out of their way to make medals the community can go crazy over. So much so, that there is a chance that the next medal batches may have medals specifically made for osu!(lazer)!
 
 Does being a medal hunter seem like something that could spark your interest? Do you believe you can crack medals as creatively sophisticated as this one? If so, don't hesitate to give it a shot!
