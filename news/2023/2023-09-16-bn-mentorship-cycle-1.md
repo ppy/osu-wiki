@@ -22,7 +22,7 @@ To clarify, this program does not replace a regular application. You can still j
 
 ---
 
-This cycle is expected to last from **September 30th** to **December 19th**, and we'll start taking sign-ups… right now! (assuming you aren't some fancy future human-lizard hybrid reading this in the future).
+This cycle is expected to last from **September 30th** to **December 19th**, and we'll start taking sign-ups... right now! (assuming you aren't some fancy future human-lizard hybrid reading this in the future).
 
 The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!mania**. Here's the list of the available mentors for each mode:
 
