@@ -12,7 +12,7 @@ tags:
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
-Dieser Artikel wurde zuletzt am 2. September 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 13. September 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -20,7 +20,7 @@ Offiziell unterstützte Turniere haben Zugang zu:
 
 - einem speziellen [Screening-Verfahren](#turnier-screening), um Benutzer mit ernsthaften Integritätsverstößen am Spielen zu hindern.
 - [Profilabzeichen-Preise](#profilabzeichen) für Erstplatzierte.
-- Potenzielle Erwägung für eine [Bannerwerbung im Hauptmenü](#unterstützung-von-bannern-im-hauptmenü-beantragen) während bedeutender Spiele
+- Potenzielle Erwägung für eine [Bannerwerbung im Hauptmenü](#werbung-durch-banner-im-spiel-und-in-newsbeiträgen-beantragen) während bedeutender Spiele
 
 ## Anspruchsberechtigung
 
@@ -79,9 +79,9 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 - Alle registrierten Teilnehmer müssen vor Spielbeginn vom Account-Support-Team überprüft werden.[^play-commence] Siehe [Turnier-Screening](#turnier-screening) für mehr Details.
 - Wenn ein Nutzer die Kriterien zum Registrieren erfüllt (falls vorhanden), darf das Turnier keinen an der Teilnahme hindern, der das Screening-Verfahren besteht, außer es werden zahlreiche Beweise gegen den Teilnehmer öffentlich vorgelegt und das Account-Support-Team stimmt zu.
   - Dazu gehört, dass Spieler, die als absichtliche Verlierer wahrgenommen werden (*Sandbagging*), vom Spiel ausgeschlossen werden. Sollten Veranstalter berechtigte Bedenken über die Anwesenheit solcher Spieler haben, die die Wettbewerbsintegrität des Turniers beeinflussen, können sie das Problem mit Hilfe des [Meldeformulars für Turniere](https://pif.ephemeral.ink/tournament-reports) an das [Turnierkomitee](/wiki/People/Tournament_Committee) für eine Einzelfallüberprüfung melden.
-- Ein engagierter Schiedsrichter muss bei jedem Match präsent sein. Spieler können nicht selbst Schiedsrichter sein.
+- Ein fest zugeordneter Schiedsrichter muss bei jedem Match anwesend sein oder innerhalb eines minimalen Zeitraums zur Verfügung stehen (2 bis 5 Minuten), wenn eine entsprechende Genehmigung für automatisierte Software eingeholt wurde und zur Unterstützung eingesetzt wird. Spieler können nicht selbst Schiedsrichter sein.
   - Der Einsatz von Bots ist für die Qualifizierungsphase gestattet, sofern dies von einem Mitarbeiter beaufsichtigt wird.
-- Asynchrone Spiele sind unter keinen Umständen erlaubt. Alle teilnehmenden Teams müssen zur geplanten Spielzeit anwesend sein.
+- Jedes Spiel innerhalb derselben Gruppen- oder Qualifikationsrunde sollte in einem einheitlichen Format sein. In einem Turnier, das zum Beispiel eine Qualifikationsphase und ein Doppeleliminierungsverfahren verwendet, sollten alle Entscheidungsspiele entweder synchron oder asynchron gespielt werden, aber nicht beides.
 - Alle Mehrspieler-Spiele, die für das Turnier relevant sind, müssen mit dem Befehl `!mp make` erstellt werden, damit sie nicht verfallen. Die Ergebnisse müssen aufgenommen und im originalen Forumsbeitrag (oder auf einer externen Quelle, die im Forumsbeitrag verlinkt wird) in einem klaren Format öffentlich zugänglich gemacht werden.
 - Alle Regeländerungen sollten allen Teilnehmern klar und deutlich mitgeteilt werden. Diese Regeln sollten die [oben genannten](#turniere) Erwartungen erfüllen.
 
@@ -90,6 +90,17 @@ Sobald das Turnier beendet ist, müssen die Turnierveranstalter die folgenden In
 - Eine Liste von geeigneten Abzeichenempfängern (auch bekannt als die Gewinner deines Turniers).
 - Ein angemessen gestaltetes Abzeichen ([siehe unten](#profilabzeichen)).
 - Einen Link zu einem öffentlich einsehbaren Katalog des Turnierspielplans.
+
+#### Schiedsrichterbots/Automatisierung
+
+Die Verwendung von Bots/Automatisierung (im Folgenden kurz Bot), um die Durchführung von offiziell unterstützten Turnierspielen zu erleichtern, ist *mit einigen Vorbehalten* zulässig, um ihren innovativen Charakter einzubeziehen, solange die entsprechende Software/der entsprechende Arbeitsablauf die nachstehend aufgeführten Anforderungen erfüllt:
+
+- Der Bot muss öffentlich zugänglich und quelloffen verfügbar sein.
+- Der Bot sollte sich für die allgemeine Nutzung im Spiel an die für [Bot-Accounts](/wiki/Bot_account) festgelegten Erwartungen halten. Hilfsmittel und Software für Schiedsrichter kann direkt auf dem eigenen Account des Nutzers betrieben werden.
+- Wenn ein Bot als Schiedsrichter eingesetzt wird, muss ein menschlicher Schiedsrichter immer innerhalb eines angemessenen Zeitraums (2 bis 5 Minuten) verfügbar sein, um auf Hilfeanfragen von Teilnehmern reagieren zu können. Ebenfalls muss er per Fernzugriff über einen Chatbefehl in der Lobby des Spiels selbst erreichbar sein (wir empfehlen `!panic` als ein globales Alias dafür).
+- An Stellen, an denen ein Bot vorhanden ist, sollten alle laufenden Lobbys mit minimaler Beeinträchtigung manuell von einem menschlichen Schiedsrichter übernommen werden können, wobei auch alle früheren Spiel- und Chatprotokolle erhalten bleiben.
+
+Die Genehmigung für den Einsatz von Schiedsrichterbots **muss** vom osu!-Support-Team erteilt werden. Des Weiteren ist diese Genehmigung für **jedes individuelle Mal erforderlich, bei dem ein Schiedsrichterbot eingesetzt wird**. Wir gehen davon aus, dass einige dieser Anforderungen in Zukunft gelockert werden können, da sich die Technologie dieser Bots weiterentwickelt und die Erfahrung mit ihrer Nutzung wächst.
 
 ### Personal
 
@@ -100,6 +111,7 @@ In Bezug auf die Rolle des Personals gelten folgende Regeln:
 - Streamer, Kommentatoren und Grafikdesigner dürfen im Turnier mitspielen.
 - Eliminierte Spieler dürfen sich als Schiedsrichter, Mappool-Spieltester und/oder Replay-Ersteller beteiligen.
 - Mitarbeiter mit hier nicht aufgeführten Rollen dürfen nicht an einem Turnier mit Abzeichen teilnehmen — wenn du irgendwelche Zweifel hast, dann kontaktiere bitte das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Alle Mitarbeiter, die in irgendeiner Weise an der Durchführung eines Turniers beteiligt sind, dürfen zum jeweiligen Zeitpunkt nicht gesperrt sein.
 
 Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir ermutigen zu sorgfältiger Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal gegen die Regeln verstoßen haben (oder mehrmals). Sie dürfen keine andere Mitarbeiterrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren Geschichte von Fall zu Fall prüfen.
 
@@ -107,7 +119,9 @@ Mitarbeiter, deren Verhalten direkt dazu führt, dass das Turnier seine offiziel
 
 ### Spieler
 
-Von Teilnehmern in offiziell unterstützten Turnieren wird erwartet, dass sie sich zu jedem Zeitpunkt an die [osu! Community-Regeln](/wiki/Rules) halten, unabhängig von ihrem Rang, Errungenschaften oder andere Leistungen. Von ihnen wird ebenfalls erwartet, dass sie alle Freiwilligen, die an der Ausrichtung eines Turniers beteiligt sind, mit Respekt behandeln und nicht absichtlich versuchen, ihre Zeit zu verschwenden oder anderweitig mit ihren Aktionen die Durchführung eines Turniers übermäßig zu erschweren.
+Von Teilnehmern in offiziell unterstützten Turnieren wird erwartet, dass sie sich zu jedem Zeitpunkt an die [osu! Community-Regeln](/wiki/Rules) halten, unabhängig von ihrem Rang, ihren Errungenschaften oder anderen Leistungen. Von ihnen wird ebenfalls erwartet, dass sie alle Freiwilligen, die an der Ausrichtung eines Turniers beteiligt sind, mit Respekt behandeln und nicht absichtlich versuchen, ihre Zeit zu verschwenden oder anderweitig mit ihren Aktionen die Durchführung eines Turniers übermäßig zu erschweren.
+
+Des Weiteren wird von den Spielern erwartet, dass sie an einem bestimmten Turnier *hinreichend teilgenommen* haben, um sich für etwaige Preise zu qualifizieren — sich einfach als Mitglied eines Siegerteams zu qualifizieren ist nicht ausreichend.
 
 Nach dem Ermessen des Account-Support-Teams können beleidigenden Spielern abhängig von der Schwere ihres Verhaltens zeitlich befristete oder dauerhafte Turniersperren erteilt werden. Wiederholungstäter riskieren eine permanente Turniersperre oder eine Einschränkung zu bekommen.
 
@@ -144,7 +158,7 @@ Nur Spieler, die am Turnier teilnehmen **oder** die im Laufe des Turniers als Er
 
 ### Profilabzeichen
 
-Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Profilabzeichenpreise müssen spätestens zwei Wochen nach der Beendigung des Turniers beantragt werden. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
+Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Profilabzeichenpreise müssen spätestens zwei Monate nach der Beendigung des Turniers beantragt werden. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
 
 Bilder für Profilabzeichen müssen die folgenden Standards einhalten:
 
@@ -162,23 +176,35 @@ Abzeichenbilder, die diese Standards nicht erfüllen, werden mit angegebener Beg
 
 In äußerst seltenen Fällen kann einem Turnier das Privileg gewährt werden, den drei besten Finalisten Abzeichen zu verleihen. Ein Turnier, das diese Auszeichnung erhält, wird für die Erreichung des höchsten Levels an Produktionsqualität und Organisation anerkannt — dies wird exklusiv im Ermessen des osu!-Teams ausgeteilt. Wenn du glaubst, dass dein Turnier die Erwartungen erfüllt, um diese Auszeichnung zu erhalten, kannst du sie bei der initialen Abzeichenanfrage anfragen.
 
+Bedenke, dass Abzeichenpreise für die drei besten Finalisten nur für Turniere ohne Teilnahmebedingungen in Betracht gezogen werden, also zum Beispiel keine Beschränkung auf einen bestimmten Rangbereich oder eine explizite geographische Region.
+
 Beispiele für außergewöhnliche Turniere, die diese Erwartungen erfüllt haben:
 
 - [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
 - [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
 - [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
 
-### Unterstützung von Bannern im Hauptmenü beantragen
+### Werbung durch Banner im Spiel und in Newsbeiträgen beantragen
 
-Langjährige Turniere von der Community können sich für Banner im Hauptmenü des Spiels qualifizieren. Es liegt an dem Ermessen des osu!-Teams zu entscheiden, ob dein Turnier im Spiel beworben werden kann, da es viele Faktoren zu beachten gibt. Die minimalen Anforderungen für die Beantragung von Werbung im Spiel sind wie folgt:
+Langjährige Turniere von der Community können sich für zusätzliche Unterstützung qualifizieren, um ihre Reichweite in der Spielergemeinschaft zu erhöhen, sprich Banner im Hauptmenü des Spiels und Öffentlichkeitsarbeit durch Newsbeiträge auf der osu!-Webseite.
+
+Die minimalen Anforderungen für die Beantragung von Werbung im Spiel oder auf der Webseite sind wie folgt:
 
 - Dein Turnier erfüllt die [Zulassungskriterien für anwendbare Turniere](#anspruchsberechtigung).
 - Das Turnier wurde in der Vergangenheit *mindestens* zweimal erfolgreich betrieben.
+  - Ausnahmen können im Ermessen des osu!-Teams und des Turnierkomitees basierend auf einer variablen Anzahl an Faktoren gemacht werden, wie die Größe, der Umfang, die Reichweite und die Größe des unterstützenden Teams eines bestimmten Turniers. Ein gutes Beispiel für eine solche Ausnahme wäre eine Veranstaltung wie "The Roundtable".
 - Die Livestreams deines aktuellen Turniers haben durchschnittlich eine angemessene Zahl an Zuschauern für irgendeinen Spielmodus, der darin gezeigt wird. Von populäreren Modi (wie osu!) wird für die Qualifizierung eine höhere durchschnittliche Zuschauerzahl erwartet.
 - Dein Turnier nähert sich dem Ende (z. B. ist dein Turnier im Viertelfinale oder darüber und ist als Sechzehntelfinale gestartet).
 - Du bist in der Lage, den Terminplan der Matches und Livestreams vorzeitig zur Verfügung zu stellen.
+- Dein Turnier streamt oder teilt seine Ergebnisse in verständlichem und lesbaren Englisch.
 
-Wenn du die oben genannten Kriterien erfüllst, kannst du durch das Senden einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag für einen Banner im Hauptmenü stellen. Das Bannerbild muss die folgenden Standards erfüllen:
+Wenn du die oben genannten Kriterien erfüllst, kannst du durch das Senden einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag auf Unterstützung stellen. Dieser Antrag sollte die grundlegende Geschichte deines Turniers und seinen Einfluss auf die Community enthalten, wenn du diese Art von Unterstützung noch nicht erhalten hast. Bitte beachte, dass diese zusätzliche Unterstützung unter keinen Umständen garantiert wird und die Vergabe im alleinigen Ermessen des osu!-Teams liegt.
+
+Wir empfehlen, solche Anfragen so früh wie möglich einzureichen, damit genügend Bedenkzeit bleibt.
+
+#### Banner im Hauptmenü
+
+Bannerbilder im Hauptmenü müssen die folgenden Standards erfüllen:
 
 - Die eingereichte Datei muss im Format **PNG** sein.
 - Die Breite darf nicht größer als **1000 px** sein. Kleinere Breiten sind in Ordnung.
@@ -197,6 +223,17 @@ Bitte beachte die folgenden akzeptierten Bannerdesigns:
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
 Bitte reiche kein Hauptmenübanner zusammen mit deinem originalen Antrag ein — du wirst dazu aufgefordert und zu dieser Sektion weitergeleitet, wenn du hierzu berechtigt bist.
+
+#### Newsbeiträge
+
+Obwohl Werbung und das Teilen der Ergebnisse deines Turniers über Newsbeiträge erlaubt ist, gibt es zusätzliche Anforderungen, die berücksichtigt werden müssen:
+
+- Derzeit sind nur Newsbeiträge erlaubt, die für die Anmeldung werben und die **finalen** Ergebnisse kurz zusammenfassen.
+- Wenn dein Turnier auf eine spezifische Region begrenzt ist, können dafür nur Newsbeiträge veröffentlicht werden, wenn es sich um ein LAN handelt (also ein persönliches Treffen).
+
+Von den Turnieren wird erwartet, dass sie auf diese Weise ihre eigenen schriftlichen Beiträge bereitstellen, und die für das Verfassen dieser Beiträge verantwortlichen Personen sollten sich an die redaktionellen Standards halten, wie in [Kriterien für die Gestaltung von Neuigkeiten](/wiki/News_styling_criteria) beschrieben.
+
+Zukünftige Newsbeiträge sollten rechtzeitig eingereicht werden und werden sowohl vom Turnierkomitee als auch vom osu!-Newsteam auf Angemessenheit geprüft.
 
 ## Häufig gestellte Fragen
 
