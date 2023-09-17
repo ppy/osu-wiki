@@ -92,9 +92,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ERA Leo |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | TsukiyaWhiskers |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | sorgenfresser |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DE }:: ERA Leo |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DE }:: TsukiyaWhiskers |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: sorgenfresser |
 
 ## Mappools
 
