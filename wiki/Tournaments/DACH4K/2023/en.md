@@ -64,8 +64,8 @@ The DACH 4k Championship 2023 is run by various community members.
 
 | Seed | Player |
 | :-- | :-- |
-| 1 |  ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) |
-| 2 |  ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) |
+| 1 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) |
+| 2 | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) |
 | 3 | ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
 | 4 | ::{ flag=DE }:: [Akurazi](https://osu.ppy.sh/users/30232155) |
 | 5 | ::{ flag=DE }:: [Niko_Plays](https://osu.ppy.sh/users/9409456) |
@@ -99,6 +99,7 @@ This competition has come to an end and resulted in the following podium:
 ## Mappools
 
 ### Grand Finals
+
 - Rice
   1. [katagiri - #WE_STILL_LOVE_PERFUME (\[GS\]hina) \[#Stream_Simp@231\]](https://osu.ppy.sh/beatmapsets/1747360#mania/3574130)
   2. [Sugarcult - Memory (Satoko Hojo) \[Hard 1.1x (184bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1963347#mania/4069272)
@@ -123,6 +124,7 @@ This competition has come to an end and resulted in the following podium:
   1. **[Kou! & TBN - Charge-Parity Violations (EimitMaggi999) \[Beyond the Standard Model\]](https://osu.ppy.sh/beatmapsets/2040707#mania/4257346)**
 
 ### Finals
+
 - Rice
   1. [Sewerslvt - Looming.Sorrow.Descent ([GS]Antunder) \[loved.scared.depressed 1.3x \[227.5bpm\]\]](https://osu.ppy.sh/beatmapsets/1487206#mania/3049122)
   2. [DJ Encore feat. Engelina - Open Your Eyes (Jole) \[nerfed 1.2x (168bpm)\]](https://osu.ppy.sh/beatmapsets/1450567#mania/2982289)
@@ -249,7 +251,7 @@ Saturday, 6 August 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Akurazi ::{ flag=DE }:: | 6 | 0 | ::{ flag=DE }:: Blacku1 | [#1](https://osu.ppy.sh/mp/109849374) | - |
+| Akurazi ::{ flag=DE }:: | 6 | 0 | ::{ flag=DE }:: Blacku1 | [#1](https://osu.ppy.sh/community/matches/109849374) | - |
 
 Sunday, 7 August 2023:
 
@@ -319,8 +321,8 @@ Sunday, 16 July 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Niko_Plays ::{ flag=DE }:: | 5 | 3 | ::{ flag=DE }:: datnonameboi | [#1](https://osu.ppy.sh/mp/109525579) | [#1](https://www.youtube.com/watch?v=Pw6j4wcqWNA) |
-| TsukiyaWhiskers ::{ flag=DE }:: | 5 | 2 | ::{ flag=DE }:: Spongybit | [#1](https://osu.ppy.sh/mp/109526481) | [#1](https://youtu.be/Pw6j4wcqWNA?si=fJF5CBeOsy6N7WCS&t=3571) |
+| Niko_Plays ::{ flag=DE }:: | 5 | 3 | ::{ flag=DE }:: datnonameboi | [#1](https://osu.ppy.sh/community/matches/109525579) | [#1](https://www.youtube.com/watch?v=Pw6j4wcqWNA) |
+| TsukiyaWhiskers ::{ flag=DE }:: | 5 | 2 | ::{ flag=DE }:: Spongybit | [#1](https://osu.ppy.sh/community/matches/109526481) | [#1](https://youtu.be/Pw6j4wcqWNA?si=fJF5CBeOsy6N7WCS&t=3571) |
 
 Monday, 17 July 2023:
 
@@ -328,9 +330,10 @@ Monday, 17 July 2023:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Takedown05 ::{ flag=DE }:: | 2 | 5 | ::{ flag=DE }:: sorgenfresser | [#1](https://osu.ppy.sh/community/matches/109542432) | [#1](https://www.youtube.com/watch?v=dhEVkKV2ezI) |
 
-
 ## Ruleset
+
 ### General
+
 1. *DACH 4k Championship 2023* is an osu!maina 4k 1v1 double-elimination tournament. All matches are played with Scorev2.
 2. All Maps will be played under FreeMod conditions, only `NF` , `HD` , `FL` , `FI` and `MR` are allowed.
 3. All registed player will be play Qualifier first, top 32 players will advanced to double-elimination bracket. called "KO stage".
@@ -339,6 +342,7 @@ Monday, 17 July 2023:
 5. Repeated toxic behaviour or cheating will be banned from the tournament.
 
 ### Registration
+
 1. Only players who have the following national flags , or others things could prove they lived in following countries would allowed to play in this tournament.
    - Germany
    - Austria
