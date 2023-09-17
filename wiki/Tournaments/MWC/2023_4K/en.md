@@ -137,8 +137,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   2. [Falcom Sound Team jdk - Believe It!! (lemonguy) \[Eclipse x1.05\]](https://osu.ppy.sh/beatmapsets/1638926#mania/3345153)
   3. [DJ SHARPNEL - SHINE!! (Shoegazer) \[Sakurakou!! 1.35x (273bpm)\]](https://osu.ppy.sh/beatmapsets/1446657#mania/2979765)
   4. [Camellia - Shinsha / HgS (Cut Ver.) (-mint-) \[Techno Music Techno Music Techno Music Techno Music\]](https://osu.ppy.sh/beatmapsets/2062237#mania/4311929)
-  5. [Frums - END OF SYSTEM (Pizza69) \[END OF PIZZA 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/2062001#mania/4311169)
-  6. [Shoji Meguro - Last Surprise (elexire) \[Ska's howing 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/2062238#mania/4311930)
+  5. [Frums - END OF SYSTEM (Pizza69, M0nkeyz) \[END OF PIZZA 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/2062001#mania/4311169)
+  6. [Shoji Meguro - Last Surprise (Ska) \[Ska's howing 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/2062238#mania/4311930)
   7. [Aquellex - Cortex Charger (Halogen-) \[Electrocution\]](https://osu.ppy.sh/beatmapsets/2062236#mania/4311928)
 - Hybrid
   1. [xi - APOCALYPSE RAY (lemonguy) \[EXCEED\]](https://osu.ppy.sh/beatmapsets/2045249#mania/4269128)
@@ -150,10 +150,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
   3. [wa. - Mugen houyou (-mint-) \[Impermanence\]](https://osu.ppy.sh/beatmapsets/1991601#mania/4138053)
   4. [lapix - Born 2 Lose (guden) \[inhumanly;\]](https://osu.ppy.sh/beatmapsets/2062247#mania/4311951)
 - SV
-  1. [Eliminate - MULA (Cut & Sped Up Ver.) (arccat) \[Patcat's Root of All Evil\]](https://osu.ppy.sh/beatmapsets/2062251#mania/4311956)
+  1. [Eliminate - MULA (Cut & Sped Up Ver.) (arccat, Paturages) \[Patcat's Root of All Evil\]](https://osu.ppy.sh/beatmapsets/2062251#mania/4311956)
   2. [Kolaa & Mestie - Digibuprofen (Paturages) \[Lauren\]](https://osu.ppy.sh/beatmapsets/2062256#mania/4311995)
 - Tiebreaker
-  1. **[Camellia - Parallel Universe Shifter (-mint-) \[Quantum Field Disruption\]](https://osu.ppy.sh/beatmapsets/2062263#mania/4312004)**
+  1. **[Camellia - Parallel Universe Shifter (-mint-, Toaph Daddy, elexire, guden, MyZterioN-, lemonguy, [Crz]Crysarlene, Abraxos, aquellex, 0DZ0, BilliumMoto) \[Quantum Field Disruption\]](https://osu.ppy.sh/beatmapsets/2062263#mania/4312004)**
 
 ### Finals
 
