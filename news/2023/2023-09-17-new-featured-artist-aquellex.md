@@ -10,7 +10,7 @@ We recently discovered an **Aquellex**-shaped hole in our Featured Artists libra
 
 If you're still itching for more chiptune after [last week's Featured Artist announcement](https://osu.ppy.sh/home/news/2023-09-10-new-featured-artist-kommisar), **Aquellex** is here to satisfy.
 
-**Aquellex** is no stranger to rhythm games. They've been a presence for years throughout the VSRG sphere, and here on osu!, that trend continues.**Aquellex**'s evergrowing talent for crafting densely-packed chiptune tracks was first appreciated by the osu!mania community, so it's only fitting that they were revealed as a Featured Artist through [Cortex Charger](https://osu.ppy.sh/beatmapsets/2062236) — an [osu! original](/wiki/osu!_originals) created specifically for the grand finals of [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K)!
+**Aquellex** is no stranger to rhythm games. They've been a presence for years throughout the VSRG sphere, and here on osu!, that trend continues. **Aquellex**'s evergrowing talent for crafting densely-packed chiptune tracks was first appreciated by the osu!mania community, so it's only fitting that they were revealed as a Featured Artist through [Cortex Charger](https://osu.ppy.sh/beatmapsets/2062236) — an [osu! original](/wiki/osu!_originals) created specifically for the grand finals of the [2023 osu!mania 4K World Cup](/wiki/Tournaments/MWC/2023_4K)!
 
 **9** top-tier tracks are now in your hands. Pick up a beatmap template for your favourite track from [**Aquellex**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/380) and start mapping already.
 
