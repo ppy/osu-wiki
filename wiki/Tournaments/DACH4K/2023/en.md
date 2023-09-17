@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 - Rice
-  1. [DJ SHARPNEL - FAKE PROMISE (Shoegazer) \[Eternity\]]([BeatmapLink](https://osu.ppy.sh/beatmapsets/1441640#mania/3348225))
+  1. [DJ SHARPNEL - FAKE PROMISE (Shoegazer) \[Eternity\]](https://osu.ppy.sh/beatmapsets/1441640#mania/3348225)
   2. [Kordhell - LAND OF FIRE (DannyPX)\[INCINERATE\]](https://osu.ppy.sh/beatmapsets/1837223#mania/3772363)
   3. [Raon - Queen Fox (IceDynamix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1904909#mania/3929340)
   4. [in love with a ghost - trans rights (\[GS\]Rose) \[effervescent\]](https://osu.ppy.sh/beatmapsets/1756319#mania/3596006)
