@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
+---
+
 # 成员
 
 这里是团队人员及其文章的索引页。
