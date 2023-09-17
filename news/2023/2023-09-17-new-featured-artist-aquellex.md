@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Aquellex"
-date: 2023-09-17 15:00:00 +0000
+date: 2023-09-17 16:00:00 +0000
 ---
 
 We recently discovered an **Aquellex**-shaped hole in our Featured Artists library. It's fixed now.
