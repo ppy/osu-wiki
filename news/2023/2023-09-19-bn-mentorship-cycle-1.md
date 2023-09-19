@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BN Mentorship: Cycle 1 Sign-ups Open"
-date: 2023-09-19 10:00:00 +0000
+date: 2023-09-19 16:00:00 +0000
 ---
 
 Ever aspired to be one of the pillars that hold the Ranked section together? Now's your chance to make that dream a reality!
@@ -22,7 +22,7 @@ To clarify, this program does not replace a regular application. You can still j
 
 ---
 
-This cycle is expected to last from **September 30th** to **December 19th**, and we'll start taking sign-ups... right now! (assuming you aren't some fancy future human-lizard hybrid reading this in the future).
+This cycle is expected to last from **October 2nd** to **December 23rd**, and we'll start taking sign-ups... right now! (assuming you aren't some fancy future human-lizard hybrid reading this in the future).
 
 The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!mania**. Here's the list of the available mentors for each mode:
 
@@ -35,7 +35,7 @@ The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!m
 
 [![application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/YCPNaGSMEXmyDtvKA)
 
-Sign-ups will be open until **September 26th**. Please read the form carefully, and only sign up if you're available and willing to attend and commit to classes for the duration of the course.
+Sign-ups will be open until **September 30th**. Please read the form carefully, and only sign up if you're available and willing to attend and commit to classes for the duration of the course.
 
 See you there!
 
