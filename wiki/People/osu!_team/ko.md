@@ -28,7 +28,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 프로젝트 및 커뮤니티 유지 관리자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 디자인 책임자, Creative Cloud 상시 감시자 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 개발자 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 메니저 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 매니저 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [공식 아티스트](/wiki/People/Featured_Artists) 지원, [월드컵](/wiki/Tournaments#official-world-cups) 비서 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 개발자, 기술적 지원 |
@@ -39,7 +39,7 @@ tags:
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [모더레이터](/wiki/People/Global_Moderation_Team), 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! 유튜브 채널](https://www.youtube.com/@osugame) 호스트, [Mappers' Guild](/wiki/Community/Mappers_Guild) 주최자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [NAT](/wiki/People/Nomination_Assessment_Team) 리더 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [모더레이터](/wiki/People/Global_Moderation_Team), [위키 관리자](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 총괄 관리자 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 개발자, osu!mania 애호가, 버그 관련 담당자 |
@@ -47,7 +47,7 @@ tags:
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 인프라 개발자 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 총괄 관리자, 토너먼트 보조 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 총괄 관리자, 빗자루 청소부 |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) 리더, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 메니저, Hivie의 비서 |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) 리더, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 매니저, Hivie의 비서 |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [위키 관리자](/wiki/People/osu!_wiki_maintainers), 뉴스 편집자 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 멸종 위기종 |
 
@@ -62,7 +62,7 @@ tags:
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 총괄 관리자 및 도우미, Chibi 아티스트. |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [모더레이터](/wiki/People/Global_Moderation_Team), 커뮤니티 자문가 |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 오디오 디자이너, [공식 아티스트](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!페인터 |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 총괄 관리자, 커뮤니티 매니저 |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | [스토리보드](/wiki/Storyboard) 개발자 |
@@ -74,7 +74,7 @@ tags:
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자, 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더, 커뮤니티 매니저 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 특별한 스킨 디자이너, 기본 스킨 및 아이콘 기여자 |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 전 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더 |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 전 [NAT](/wiki/People/Nomination_Assessment_Team) 리더 |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu! 개발자, mm 슬라이더 창시자 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 개발자 |
