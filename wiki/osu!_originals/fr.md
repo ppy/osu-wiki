@@ -407,6 +407,20 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | HD3 des Grandes Finales |
 | [VINXIS - Awaken](https://soundcloud.com/vinxis/awaken)[^fa] |  | Musique de fond du stream |
 
+#### ![](/wiki/shared/mode/osu.png) Corsace Open 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Aethoro - Inertia Split](https://serenhaide.bandcamp.com/track/aethoro-inertia-split)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2044069) | HR2 des Runoff Bracket |
+| [Axya - Again, Weeping Brilliantly](https://soundcloud.com/coredepaint/corsace-open-2023axya-again-weeping-billiantly) | [#1](https://osu.ppy.sh/beatmapsets/2051621) | HR2 des Knockout 2 |
+| [CS4W - EX-ris](https://soundcloud.com/yusuke-7328/ex-ris) | [#1](https://osu.ppy.sh/beatmapsets/2047988) | NM3 des Knockout 1 Pool B |
+| [Kabocha - Draw me a map, Let me feel the tap](https://serenhaide.bandcamp.com/track/draw-me-a-map-let-me-feel-the-tap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051856) | NM3 des Knockout 2 |
+| [MYUKKE. - Unknown Amnasia](https://soundcloud.com/myukke/unknown-amnasia-from-corsace-open-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2047990) | HR1 des Knockout 1 Pool A |
+| [polysha - Where the Spirits Go On](https://soundcloud.com/polysha/where)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051816) | Tiebreaker des Knockout 2 |
+| [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili](https://soundcloud.com/sadkeyboardguy/waking-shadows) | [#1](https://osu.ppy.sh/beatmapsets/2048051) | Tiebreaker des Knockout 1 |
+| [TAG - Astral Stranger](https://www.youtube.com/watch?v=dPTCUJY2q3o) | [#1](https://osu.ppy.sh/beatmapsets/2048029) | HR2 des Knockout 1 Pool C |
+| [unfeeling - necrosis of warm memories](https://serenhaide.bandcamp.com/track/unfeeling-necrosis-of-warm-memories) | [#1](https://osu.ppy.sh/beatmapsets/2040003) | FM1 des Round Robin |
+
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
 | Musique | Beatmap | Notes |
