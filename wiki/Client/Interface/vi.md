@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Giao diện
 
 Bài viết này giải thích tất cả mọi thứ bạn cần biết về cách sử dụng client osu!. Tại đây bạn sẽ tìm thấy thông tin về màn hình chọn map, bảng xếp hạng cũng như màn hình kết quả. Khi mở client trò chơi, bạn có thể nhìn thấy giao diện như sau:
