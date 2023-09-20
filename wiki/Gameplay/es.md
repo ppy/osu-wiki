@@ -22,7 +22,7 @@
 - [Pass](/wiki/Gameplay/Pass)
 - [Tiempo de juego](/wiki/Beatmap/Play_time)
 - [Repetición](/wiki/Gameplay/Replay)
-- [Puntación](/wiki/Gameplay/Score)
+- [Puntuación](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Espectar](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
