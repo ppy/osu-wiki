@@ -1,0 +1,20 @@
+name: GitHub Task List Checker
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - edited
+jobs:
+  task-list-checker:
+    runs-on: ubuntu-latest
+    permissions:
+      statuses: write  # required for https://docs.github.com/rest/commits/statuses#create-a-commit-status
+    steps:
+      - name: Check for incomplete task list items
+        uses: Shopify/task-list-checker@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
