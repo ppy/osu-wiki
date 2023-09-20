@@ -63,7 +63,7 @@ Los líderes del equipo se enfrentarán a los miembros del NAT inactivos o a los
 
 Los miembros del NAT reciben los siguientes beneficios:
 
-- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura mientras dure su membresía en el equipo.
+- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el equipo.
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que lleva en el NAT.
   ![Insignia de 1 año en el NAT](https://assets.ppy.sh/profile-badges/QAT1y.png "Insignia de 1 año en el NAT") ![Insignia de 2 años en el NAT](https://assets.ppy.sh/profile-badges/QAT2y.jpg "Insignia de 2 años en el NAT") ![Insignia de 3 años en el NAT](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Insignia de 3 años en el NAT") ![Insignia de 4 años en el NAT](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Insignia de 4 años en el NAT") ![Insignia de 5 años en el NAT](https://assets.ppy.sh/profile-badges/QAT5y.jpg "Insignia de 5 años en el NAT")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominaciones)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.

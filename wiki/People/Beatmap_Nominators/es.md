@@ -38,7 +38,7 @@ Cuando un Beatmap Nominator se pone en período de prueba, no se le puede volver
 
 Los Beatmap Nominators reciben los siguientes beneficios:
 
-- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura mientras dure su membresía en el grupo.
+- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el grupo.
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
   ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.jpg "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.jpg "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.jpg "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.jpg "Insignia de BN de 5 años")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominaciones)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
