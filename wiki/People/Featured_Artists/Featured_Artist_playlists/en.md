@@ -19,11 +19,11 @@ Players can earn mode-specific profile badges as per the **cumulative leaderboar
 
 ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
-### Cumulative leaderboard
+## Cumulative leaderboard
 
-As of June 2023, prizes are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding [September 2022](#september-2022) and [March 2023](#march-2023).
+As of June 2023, the above badges are awarded to any user who achieves 10 points in a **cumulative leaderboard** spanning Featured Artist playlists. Scores in different Featured Artist playlists carry over between playlists, excluding [September 2022](#september-2022) and [March 2023](#march-2023).
 
-#### Base scoring
+### Base scoring
 
 | Playlist leaderboard rank | Points |
 | :-- | :-- |
@@ -33,7 +33,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | 4–5th | 2 |
 | 6–10th | 1 |
 
-#### osu!
+### osu!
 
 | User | Points |
 | :-- | :-- |
@@ -71,7 +71,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725) | 1 |
 | ::{ flag=US }:: [Leebs](https://osu.ppy.sh/users/7636779) | 1 |
 
-#### osu!taiko
+### osu!taiko
 
 | User | Points |
 | :-- | :-- |
@@ -104,7 +104,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | ::{ flag=IN }:: [CheesedToMeet](https://osu.ppy.sh/users/12309983) | 1 |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 1 |
 
-#### osu!catch
+### osu!catch
 
 | User | Points |
 | :-- | :-- |
@@ -130,7 +130,7 @@ As of June 2023, prizes are awarded to any user who achieves 10 points in a **cu
 | ::{ flag=US }:: [poi4](https://osu.ppy.sh/users/7299865) | 1 |
 | ::{ flag=MK }:: [MysticalTeaPot](https://osu.ppy.sh/users/25198181) | 1 |
 
-#### osu!mania
+### osu!mania
 
 | User | Points |
 | :-- | :-- |

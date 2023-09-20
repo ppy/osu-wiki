@@ -157,6 +157,7 @@ outdated_translation: true
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
+| ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | BAT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
