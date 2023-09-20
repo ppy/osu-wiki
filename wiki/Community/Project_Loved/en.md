@@ -15,7 +15,7 @@ To submit a beatmap for Loved, please visit the [beatmap submission page](https:
 - [osu!catch submissions](https://loved.sh/submissions/fruits)
 - [osu!mania submissions](https://loved.sh/submissions/mania)
 
-Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category:
+Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category.
 
 ## Eligibility
 
