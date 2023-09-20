@@ -42,6 +42,14 @@ Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies 
 
 **Die Zahl der verfügbaren Slots hängt von der Zahl der gerankten Beatmaps ab, die du hast. Für mehr Details, siehe [osu!supporter § Erhöhte Grenzwerte](/wiki/osu!supporter#erhöhte-grenzwerte).**
 
+## Meine Beatmap/Inhalte wurden von einem anderen Nutzer ohne meine Zustimmung erneut hochgeladen und ich möchte, dass die unrechtmäßige Kopie entfernt wird! {id=report-content-dmca}
+
+**Bitte sende wie in der [osu!-Urheberrechtsrichtlinie](/wiki/Legal/Copyright) beschrieben einen DMCA-Antrag an [copyright@ppy.sh](mailto:copyright@ppy.sh).**
+
+Jede Art von Inhalt, der ohne Genehmigung hochgeladen wird, kann als Urheberrechtsverletzung behandelt werden, wenn der ursprüngliche Eigentümer dies wünscht. Der Antrag auf Entfernung erfordert ein rechtliches Verfahren, um eine faire Vorgehensweise zu gewährleisten.
+
+Bitte reiche Meldungen **weder** über [den Befehl `!report` im Spiel](/wiki/Reporting_bad_behaviour#chat-im-spiel) **noch** [die osu!-Webseite](/wiki/Reporting_bad_behaviour#webseite) ein, da Mitglieder des [NATs](/wiki/People/Nomination_Assessment_Team) und des [GMTs](/wiki/People/Global_Moderation_Team), die diese Mitteilungen verwalten, nicht in der Lage dazu sind, Rechtsfragen zu bearbeiten.
+
 ## Wie kann ich meine Beatmap löschen? {id=delete-beatmap}
 
 **Das [Support-Team](/wiki/People/Account_support_team) nimmt keine Anfragen an, um hochgeladene Beatmaps manuell zu löschen.**

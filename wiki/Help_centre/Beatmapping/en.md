@@ -33,11 +33,19 @@ In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the 
 
 If it isn't, manually change it for every difficulty in your beatmap, reload the beatmap, and you should be able to submit it.
 
-If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
+If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_issues).
 
 ## I am an osu!supporter, but I don't have 20 pending slots! {id=upload-slots}
 
 **The number of slots available depends on the number of ranked maps you have. For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
+
+## My beatmap/content has been re-uploaded by another user without my consent, and I want the infringing copy to be taken down! {id=report-content-dmca}
+
+**Please file a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](/wiki/Legal/Copyright).**
+
+Any kind of content uploaded without permission can be handled as copyright infringement if the original owner so wishes. Requesting removal requires a legal procedure in order to ensure fair proceedings.
+
+Please do **not** file a report using either [the in-game `!report` command](/wiki/Reporting_bad_behaviour#in-game-chat) or [the osu! website](/wiki/Reporting_bad_behaviour#website), as members of the [NAT](/wiki/People/Nomination_Assessment_Team) and [GMT](/wiki/People/Global_Moderation_Team) who manage these reports are not equipped to handle legal matters.
 
 ## How can I delete my beatmap? {id=delete-beatmap}
 
