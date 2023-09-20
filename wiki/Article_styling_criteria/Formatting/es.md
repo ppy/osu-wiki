@@ -44,7 +44,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `tr.md` | Turco | Türkçe |
 | `uk.md` | Ucraniano | Українська мова |
 | `vi.md` | Vietnamita | Tiếng Việt |
-| `zh.md` | Chino (Simplificado) | 简体中文 |
+| `zh.md` | Chino simplificado | 简体中文 |
 | `zh-tw.md` | Chino tradicional (Taiwán) | 繁體中文（台灣） |
 
 *Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la versión en inglés.*
@@ -668,7 +668,7 @@ Hay dos tipos de enlaces de imagen: en línea y de referencia. Ejemplos:
 
 Las imágenes deben usar el estilo de enlace en línea. Las definiciones de enlaces de referencia deben colocarse al final del artículo.
 
-Todas las imágenes de bloque en la página (que no tienen nada más en la misma línea) se combinan en una sola galería, en la que se puede navegar usando íconos de flecha en ambos lados de la pantalla, atajos de teclado o deslizamientos de pantalla en dispositivos móviles
+Todas las imágenes de bloque en la página (que no tienen nada más en la misma línea) se combinan en una sola galería, en la que se puede navegar usando íconos de flecha en ambos lados de la pantalla, atajos de teclado o deslizando la pantalla.
 
 ### Título y texto alternativo
 
