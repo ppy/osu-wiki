@@ -44,7 +44,7 @@ Listed below are the properly supported locales for the wiki:
 | `tr.md` | Turkish | Türkçe |
 | `uk.md` | Ukrainian | Українська мова |
 | `vi.md` | Vietnamese | Tiếng Việt |
-| `zh.md` | Chinese (Simplified) | 简体中文 |
+| `zh.md` | Simplified Chinese | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
@@ -669,7 +669,7 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes.
 
 ### Alternative and title text
 
