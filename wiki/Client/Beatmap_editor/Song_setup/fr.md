@@ -235,8 +235,6 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée �
 
 ### Skinning
 
-![Capture d'écran de l'onglet Skinning](img/SS_Skin_eg.jpg "Onglet Skinning")
-
 La liste déroulante `Preferred Skin` est utilisée pour définir le skin préféré pour la beatmap. L'utilisation de cette option suppose que le joueur possède le skin que vous souhaitez qu'il utilise. Cependant, si le joueur n'a pas le skin, une notification apparaîtra pour le joueur, indiquant que le skin demandé est manquant, mais que le skin actuel du joueur sera utilisé à la place. Par défaut, `User's preference (No Change)` est utilisé.
 
 Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatmap. Comme la plupart des créateurs le feront à la place, cette option est rarement utilisée, sauf si elle permet de réduire la taille du fichier ou si elle fait partie d'un projet d'une beatmap, où le skin peut être fourni sur la page du projet elle-même.

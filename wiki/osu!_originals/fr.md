@@ -171,7 +171,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| 7\_7 - Meriba[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744973) | NM2 des Grandes Finales |
+| [7\_7 - Meriba](https://osu.ppy.sh/beatmaps/artists/tracks?artist=7_7&query=Meriba)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744973) | NM2 des Grandes Finales |
 | [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | NM6 des Grandes Finales |
 | [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Tiebreaker des demi-finales |
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | NM1 des Grandes Finales |
@@ -182,11 +182,11 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| 7\_7 feat. kasane vavzed - 7D[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | NM3 des Grandes Finales |
-| Aquestion - Umami Blaze[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | NM3 des finales |
-| Gram - Sigrdrifa[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Tiebreaker des Grandes Finales |
-| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | FM3 des Grandes Finales |
-| Toromaru - Sleight of Hand[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | NM2 des demi-finales |
+| [7\_7 feat. kasane vavzed - 7D](https://soundcloud.com/7_7-nananana/feat-kasane-vavzes-7d)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | NM3 des Grandes Finales |
+| [Aquestion - Umami Blaze](https://osu.ppy.sh/beatmaps/artists/tracks?artist=A%3F&query=Umami%20Blaze)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | NM3 des finales |
+| [Gram - Sigrdrifa](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Gram&query=Sigrdrifa)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Tiebreaker des Grandes Finales |
+| [LV.4 feat. Mawata Spica - Vortex of Sorrow](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Vortex%20of%20Sorrow)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | FM3 des Grandes Finales |
+| [Toromaru - Sleight of Hand](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Sleight%20of%20Hand)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | NM2 des demi-finales |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
@@ -206,9 +206,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [Halv vs. kuro - Evreka](https://soundcloud.com/halvsan/halv-vs-kuro-evreka)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Tiebreaker des Grandes Finales |
 | [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011522) | NM1 des Grandes Finales |
-| LV.4 - Chemical diving[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | HR1 des finales |
+| [LV.4 - Chemical diving](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Chemical%20diving)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | HR1 des finales |
 | [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | HD3 des demi-finales |
-| Toromaru - Erinyes[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | HR3 des quarts de finale |
+| [Toromaru - Erinyes](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Erinyes)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | HR3 des quarts de finale |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
@@ -407,6 +407,20 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | HD3 des Grandes Finales |
 | [VINXIS - Awaken](https://soundcloud.com/vinxis/awaken)[^fa] |  | Musique de fond du stream |
 
+#### ![](/wiki/shared/mode/osu.png) Corsace Open 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Aethoro - Inertia Split](https://serenhaide.bandcamp.com/track/aethoro-inertia-split)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2044069) | HR2 des Runoff Bracket |
+| [Axya - Again, Weeping Brilliantly](https://soundcloud.com/coredepaint/corsace-open-2023axya-again-weeping-billiantly) | [#1](https://osu.ppy.sh/beatmapsets/2051621) | HR2 des Knockout 2 |
+| [CS4W - EX-ris](https://soundcloud.com/yusuke-7328/ex-ris) | [#1](https://osu.ppy.sh/beatmapsets/2047988) | NM3 des Knockout 1 Pool B |
+| [Kabocha - Draw me a map, Let me feel the tap](https://serenhaide.bandcamp.com/track/draw-me-a-map-let-me-feel-the-tap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051856) | NM3 des Knockout 2 |
+| [MYUKKE. - Unknown Amnasia](https://soundcloud.com/myukke/unknown-amnasia-from-corsace-open-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2047990) | HR1 des Knockout 1 Pool A |
+| [polysha - Where the Spirits Go On](https://soundcloud.com/polysha/where)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2051816) | Tiebreaker des Knockout 2 |
+| [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili](https://soundcloud.com/sadkeyboardguy/waking-shadows) | [#1](https://osu.ppy.sh/beatmapsets/2048051) | Tiebreaker des Knockout 1 |
+| [TAG - Astral Stranger](https://www.youtube.com/watch?v=dPTCUJY2q3o) | [#1](https://osu.ppy.sh/beatmapsets/2048029) | HR2 des Knockout 1 Pool C |
+| [unfeeling - necrosis of warm memories](https://serenhaide.bandcamp.com/track/unfeeling-necrosis-of-warm-memories) | [#1](https://osu.ppy.sh/beatmapsets/2040003) | FM1 des Round Robin |
+
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
 | Musique | Beatmap | Notes |
@@ -426,7 +440,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| HowToPlayLN - Eternal Bliss | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Pick LN des finales |
+| [HowToPlayLN - Eternal Bliss](https://howtoplayln.bandcamp.com/track/eternal-bliss) | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Pick LN des finales |
 
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
@@ -486,6 +500,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://soundcloud.com/rurinn/dawn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1988498) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament 5
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [SiLiS - Yukisarashi](https://soundcloud.com/silis/yukisarashi) | [#1](https://osu.ppy.sh/beatmapsets/2048433) | HD3 des Grandes Finales |
 
 #### ![](/wiki/shared/mode/osu.png) [GST:LIVE 2022](/wiki/Tournaments/GSTLIVE/22)
 
@@ -648,9 +668,18 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
+| [7\_7 - Watch Your Back](https://www.youtube.com/watch?v=C49g7mOk-_I)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2024209) | Tiebreaker des demi-finales |
+| [celtix - Neural Shatter](https://www.youtube.com/watch?v=bVTgU-MtKJw) | [#1](https://osu.ppy.sh/beatmapsets/2020185) | Tiebreaker des quarts de finale |
+| [Kagetora. - The enormous](https://soundcloud.com/kagetora0610/the-enormous) | [#1](https://osu.ppy.sh/beatmapsets/2032518) | Tiebreaker des Grandes Finales |
 | [Krimek - Beneath The Surface](https://soundcloud.com/krimek/beneath-the-surface)[^fa] |  | Musique de fond du stream |
+| [Krimek - Revival Of A New Master](https://krimek.bandcamp.com/track/revival-of-a-new-master)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2028363) | NM4 des finales |
 | [Krimek - Song Of The Submerged](https://soundcloud.com/krimek/song-of-the-submerged)[^fa] |  | Musique de fond du stream |
+| [MYUKKE. - Friendly Gigant Fire](https://soundcloud.com/myukke/friendly-gigant-fire-from-resurrection-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032460) | FM2 des Grandes Finales |
+| [NormalM - Luas na Gaoithe: IU](https://soundcloud.com/normalmusiccc/luas-na-gaoithe-iu) | [#1](https://osu.ppy.sh/beatmapsets/2012273) | Tiebreaker des 32e de finale |
+| [Raytoly - C.r.y.s.t.a.l-A.x.i.s-P.r.o.t.o.t.y.p.e](https://www.youtube.com/watch?v=_x5mhHXyQ5g) | [#1](https://osu.ppy.sh/beatmapsets/2028374) | HD3 des finales |
 | [takehirotei as "Infinite Limit" - The Everlasting Star of Yearning](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-the-everlasting-star-of-yearning) | [#1](https://osu.ppy.sh/beatmapsets/2016077) | Tiebreaker des huitième de finale |
+| [tn-shi vs. AZALI - to dust thou shalt return](https://www.youtube.com/watch?v=6_tfys0CP4k) | [#1](https://osu.ppy.sh/beatmapsets/2032508) | FM4 des Grandes Finales |
+| [Xyris - Reikoku Assassins](https://soundcloud.com/itsxyris/reikoku-assassins-from-resurrection-cup-2023-finals-tb) | [#1](https://osu.ppy.sh/beatmapsets/2028400) | Tiebreaker des finales |
 
 #### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
 

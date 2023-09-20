@@ -1749,10 +1749,12 @@
 
 "recalc":                           "Client/Beatmap_editor/Recalculate_slider_lengths"
 
-"osu!pixel":                        "Client/Beatmap_editor/osu!_pixel"
-"osu!_pixel":                       "Client/Beatmap_editor/osu!_pixel"
-"osupixel":                         "Client/Beatmap_editor/osu!_pixel"
-"osu_pixel":                        "Client/Beatmap_editor/osu!_pixel"
+"osu!pixel":                        "Client/Playfield"
+"osu!_pixel":                       "Client/Playfield"
+"osupixel":                         "Client/Playfield"
+"osu_pixel":                        "Client/Playfield"
+"client/beatmap_editor/osu!_pixel": "Client/Playfield"
+"playfield":                        "Client/Playfield"
 
 "user_title":                       "Community/User_title"
 
