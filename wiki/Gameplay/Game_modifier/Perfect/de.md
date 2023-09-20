@@ -6,7 +6,6 @@ tags:
   - game modifier
   - PF
   - Spielmodifikation
-no_native_review: true
 ---
 
 # Perfect (Mod)
@@ -30,14 +29,14 @@ no_native_review: true
 
 Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Gameplay/Hit_object) eine andere Beurteilung als GREAT erzielt wurde.
 
-Eine der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
+Jede der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 
 - eine Note verfehlen
 - ein OK oder MEH erzielen
 - einen Spinner nicht bestehen
 - das [Ende eines Sliders](/wiki/Gameplay/Hit_object/Slider/Slidertail) verfehlen oder einen [Sliderbreak](/wiki/Gameplay/Judgement/Slider_break) hervorrufen
 
-Eine der folgenden Handlungen **wird nicht dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
+Jede der folgenden Handlungen **wird nicht dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 
 - ein GREAT erzielen
 - einen Spinner vervollständigen
