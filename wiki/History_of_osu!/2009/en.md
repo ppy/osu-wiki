@@ -90,7 +90,7 @@ As of 6 September, all [Taiko scores were reset](https://osu.ppy.sh/community/fo
 
 ## October
 
-A new ranking info screen was added which layed the groundwork for the later implemented ranking chart system.[^stable-b1077][^custom-changelog]
+A new ranking info screen was added which laid the groundwork for the ranking chart system implemented at a later point.[^stable-b1077][^custom-changelog]
 
 The 10,000th beatmap was submitted, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) by [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
 
