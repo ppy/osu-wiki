@@ -13,7 +13,7 @@ Ils sont généralement désignés par la valeur de leur score (sauf pour les mi
 | ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 × OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
-La fenêtre de hit dépend de l'[overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré comme étant à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximale`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
+La fenêtre de hit dépend de [l'overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré comme étant à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximale`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
 
 L'erreur de hit est arrondie et les valeurs de l'erreur de hit maximale sont tronquées à l'entier le plus proche, ce qui signifie que les fenêtres peuvent être jusqu'à 1,5 ms plus courtes de part et d'autre par rapport à ce que les formules suggèrent.
 
