@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: f00e5007efca470a764ec669efe59fe02bf4db8b
 tags:
   - NAT
 ---
