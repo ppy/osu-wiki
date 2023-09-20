@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
- **osu! 월드컵 2022** (***OWC 2022***)는 [osu! team](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 13번째의 Osu! 월드컵이기도 합니다.
+ **osu! 월드컵 2022** (***OWC 2022***)는 [osu! team](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 13번째의 osu! 월드컵이기도 합니다.
 
 ## 토너먼트 기간
 
@@ -42,7 +42,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 
 | 직책 | 멤버 목록 |
 | :-- | :-- |
-| 토너먼트 매니저 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| 매니저 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | 맵풀 셀렉터 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 맵풀 퀄리티 보증 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
 | 맵풀 플레이테스터 | ::{ flag=US }:: [\-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [chezbananas](https://osu.ppy.sh/users/7941423), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=CA }:: [i need top 727](https://osu.ppy.sh/users/6701656), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [NinjaFish](https://osu.ppy.sh/users/4819811), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=CA }:: [Stoof](https://osu.ppy.sh/users/4916057), ::{ flag=US }:: [theez](https://osu.ppy.sh/users/4230827), ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
@@ -117,7 +117,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
 
-## 포디엄
+## 시상대
 
 ![](img/podium.jpg "OWC 2022 podium")
 
@@ -565,7 +565,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 12. 플레이어는 경기를 지연없이 원활하게 진행해야 하는 의무가 있습니다. 토너먼트 매니저는 플레이어 측이 과도하게 경기를 지연할 경우 패널티를 적용할 수 있습니다. 반칙으로 경기를 방해하거나, 경기를 지연시키거나, 기타 부적절하고 고의적인 행위는 엄격히 금지되며, 이에 따라 처벌을 받게 됩니다.
 13. 모든 플레이어와 스태프는 존중받아야 합니다. 심판과 토너먼트 매니저의 지시를 따라야 합니다. 최종적으로 표시된 결정은 이의를 제기할 수 없습니다.
 14. 모든 멀티플레이 채팅은 [osu! 규칙](/wiki/Rules)을 지켜야 하며, 이는 경기가 진행되는 모든 멀티플레이 채팅에 적용됩니다.
-    - 채팅 규칙을 위반하면 침묵이 발생할 수 있습니다. 침묵된 플레이어는 멀티플레이 매치에 참가할 수 없으며, 해당 처벌 기간동안 교체되어야 합니다.
+    - 채팅 규칙을 위반하면 사일런스가 발생할 수 있습니다. 사일런스된 플레이어는 멀티플레이 매치에 참가할 수 없으며, 해당 처벌 기간동안 교체되어야 합니다.
 15. 토너먼트 규칙 위반에 대한 처벌은 다음을 포함하지만 이에 국한되지는 않습니다:
     - 하나의 비트맵에서 특정 플레이어를 제외합니다.
     - 전체 경기에서 특정 플레이어를 제외합니다.
@@ -599,7 +599,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 ### 퀄리파이어 규칙
 
 1. 퀄리파이어 스테이지에선 모든 팀이 맵풀 셀렉터가 설계한 특정 맵풀에서 플레이하게 됩니다.
-2. 맵풀에는 No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)이 포함됩니다. 프리모드는 해당 스테이지에선 존재하지 않습니다.
+2. 맵풀에는 No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)이 포함됩니다. Freemod는 해당 스테이지에선 존재하지 않습니다.
 3. 퀄리파이어에선 다음과 같이 11개의 비트맵으로 구성됩니다:
    - No Mod: 4개의 비트맵
    - Hidden: 2개의 비트맵
@@ -632,12 +632,12 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 
 1. 심판은 예정된 경기 시간 10분 전에 멀티 플레이어 방을 만들게 됩니다. 해당 기간 동안 팀은 로비에 참여해야 합니다.
    - 로비설정은 `Game mode: "osu!"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`이여야 하며, 방 이름은 `OWC2022: ({Red Team}) VS ({Blue Team})`이여야 합니다. 방 이름에 첫번째로 언급된 팀이 레드 팀이며, 두번째로 언급된 팀이 블루 팀이여야 합니다.
-2. 32강 and 16강에선 **한개의 비트맵**을 밴하게 되며, 쿼터파이널부터 **두개의 비트맵**으로 늘어나게 됩니다. 각 팀은  No Mod를 제외한 같은 모드를 2개 이상 밴할 수 없습니다. 이 비트맵은 경기가 진행되는 동안 어느 팀에서도 선택할 수 없습니다.
+2. 32강과 16강에선 **한개의 비트맵**을 밴하게 되며, 쿼터파이널부터 **두개의 비트맵**으로 늘어나게 됩니다. 각 팀은  No Mod를 제외한 같은 모드를 2개 이상 밴할 수 없습니다. 해당 비트맵은 경기가 진행되는 동안 어느 팀에서도 선택할 수 없습니다.
 3. 각 캡틴은 `!roll`을 채팅으로 한번씩 사용하게 됩니다.
    - `!roll`의 승자는 먼저 **픽**하게될 팀을 결정하게 됩니다.
    - 팀은 제한 없이 더블픽이 가능합니다. (즉, 2개이상의 동일한 모드 맵풀을 연속적으로 선택하는 경우를 의미합니다.)
    - !roll`의 패자는 먼저 **밴**하게될 팀을 결정하게 됩니다.
-   - **쿼터파이널부터, 첫번째로 밴하는 팀이 1개를 금지하고, 두번째에 밴하는 팀이 2개를 금지한뒤 다시 첫번째 팀에서 1개를 금지하게 됩니다.**
+   - **쿼터파이널부터, 첫번째로 밴하는 팀이 1개를 밴하고, 두번째에 밴하는 팀이 2개를 밴한뒤 다시 첫번째 팀에서 1개를 밴하게 됩니다.**
 4. 밴이 결정되면, 양 팀은 차례대로 맵풀에서 비트맵을 픽하게 됩니다.
 5. 팀은 비트맵을 픽하는데 2분, 클라이언트에서 '준비' 버튼을 누르는데 2분의 시간이 주어집니다. 팀이 각 행동에서 더 많은 시간을 소비하는 경우, 다음과 같은 절차가 이뤄집니다.
    - 첫번째의 경우:
@@ -646,7 +646,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
      - 픽 타이머의 경우: `!roll X`를 사용하여 무작위 맵을 픽하게 됩니다. 여기서 X의 수는 타이브레이커와 밴이 된 맵을 제외한 비트맵의 수입니다.
      - 준비 타이머의 경우: 심판은 로비의 인원과 관계없이 `!mp start 10` 명령어를 입력하며, 초과하는 각 팀에 플레이어에 대해선 상단부터 `!mp kick`을 사용하게 됩니다. 즉, 팀마다 처음으로 유효한 팀원들이 강제로 선택됩니다. 그러한 경우, 게임의 결과는 그대로 받아들여져야 합니다.
      - 반복적으로 위반하는 경우, 토너먼트 매니저로부터 추가 제재를 받을 수 있습니다.
-6. 각 팀은 밴/픽/준비시간에 추가시간이 부여되는 타임아웃을 한번 받게 됩니다.  *타임아웃은 선택 사항입니다.*
+6. 각 팀은 밴/픽시간에 2분의 추가시간이 부여되는 타임아웃을 한번 사용할 수 있습니다.  *타임아웃은 선택 사항입니다.*
    - 양 팀의 주장이 동의할경우, 타이브레이커에서 타임아웃을 요청할 수 있습니다.
 
 ### 맵풀 정보
@@ -654,10 +654,10 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 1. 모든 스테이지에는 고유한 맵풀이 있습니다
 2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있습니다.
 3. 맵풀별 비트맵의 개수는 다음과 같습니다:
-   - 퀄리파이어: 11개의 맵풀
-   - 32강과 16강: 15개의 맵풀
+   - 퀄리파이어: 11개의 비트맵
+   - 32강과 16강: 15개의 비트맵
    - 쿼터파이널, 세미파이널, 파이널, 그랜드 파이널: 20개의 비트맵
-4. Hidden, Hard Rock, Double Time 모드는 모든 플레이어가 해당 모드를 활성화한 상태로 시작합니다.
+4. Hidden, Hard Rock, Double Time은 모든 플레이어가 해당 모드를 활성화한 상태로 시작합니다.
 5. Nofail 모드는 모든 맵풀에 적용하게 됩니다
 6. Freemod에선 모드를 자유롭게 선택할 수 있습니다.
    - 가능한 모드 선택은 Hidden, Hard Rock, and Hidden + Hard Rock 입니다.
@@ -670,10 +670,10 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여려명의 커뮤
 2. 퀄리파이어의 경우, 토너먼트 매니저가 제안한 특정 시간에 진행하게 됩니다. 각 팀은 플레이하고 싶은 시간대를 선택할 수 있습니다.
    - **2022년 10월 13일 목요일 23:59 UTC까지 시간을 선택하지 않은 팀은 대회에서 실격됩니다.**
 3. 모든 브라켓 스테이지는 토요일 00:00부터 일요일 19:00 UTC까지 진행합니다.
-4. 경기 일정은 토너먼트 매니저가 관리하게 됩니다. 일정은 스테이지 첫 경기전 일요일에 공개되며, 토너먼트 매니저는 플레이어들의 시간대를 존중하는 스케쥴을 할려고 노력할 것입니다.
+4. 경기 일정은 토너먼트 매니저가 관리하게 됩니다. 일정은 스테이지 첫 경기전 일요일에 공개되며, 토너먼트 매니저는 플레이어들의 시간대를 존중하는 스케줄을 할려고 노력할 것입니다.
    - 쿼터파이널 또는 그 이후에 캡틴은 그 다음주에 특정 시간대가 불가능한 경우, 토너먼트 매니저에게 알릴 수 있습니다.
 5. **일정 변경은 양 팀이 경기가 진행되는 주의 수요일 23:59 UTC 전에 각 팀이 동의하고 이를 토너먼트 매니저에게 알린 경우에만 고려됩니다.**
    - 경기는 해당 주의 **토요일, 19:00 UTC**을 넘겨서는 일정 변경이 되지 않을 수 있습니다.
    - **꼭 필요한 경우가 아니라면 일정 변경을 요청하지 마세요. 토너먼트 매니저는 요청을 거부할 권리를 보유합니다.**
    - 어떠한 경우에도 기한을 넘긴 일정 변경 요청은 허용되지 않습니다.
-6. 캡틴은 팀이 가능한지에 대해 확인해야할 책임이 있습니다.
+6. 캡틴은 팀이 가능한지에 대해 확인해야 할 책임이 있습니다.
