@@ -33,7 +33,7 @@ Listed below are the properly supported locales for the wiki:
 | `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
 | `pt.md` | Portuguese | Português |
-| `pt-br.md` | Portuguese (Brazil) | Português (Brasil) |
+| `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
 | `sk.md` | Slovak | Slovenčina |

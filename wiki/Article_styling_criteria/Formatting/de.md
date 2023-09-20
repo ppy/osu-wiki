@@ -32,7 +32,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `no.md` | Norwegisch | Norsk |
 | `pl.md` | Polnisch | Polski |
 | `pt.md` | Portugiesisch | Português |
-| `pt-br.md` | Portugiesisch (Brasil) | Português (Brasil) |
+| `pt-br.md` | Brasilianisches Portugiesisch | Português (Brasil) |
 | `ro.md` | Rumänisch | Română |
 | `ru.md` | Russisch | Русский |
 | `sk.md` | Slowakisch | Slovenčina |

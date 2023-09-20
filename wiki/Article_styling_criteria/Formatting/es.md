@@ -33,7 +33,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `no.md` | Noruego | Norsk |
 | `pl.md` | Polaco | Polski |
 | `pt.md` | Portugués | Português |
-| `pt-br.md` | Portugués (Brasil) | Português (Brasil) |
+| `pt-br.md` | Portugués brasileño | Português (Brasil) |
 | `ro.md` | Rumano | Română |
 | `ru.md` | Ruso | Русский |
 | `sk.md` | Eslovaco | Slovenčina |

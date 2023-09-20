@@ -34,7 +34,7 @@
 | `no.md` | Норвежский | Norsk |
 | `pl.md` | Польский | Polski |
 | `pt.md` | Португальский | Português |
-| `pt-br.md` | Португальский (Бразилия) | Português (Brasil) |
+| `pt-br.md` | Бразильский португальский | Português (Brasil) |
 | `ro.md` | Румынский | Română |
 | `ru.md` | Русский | Русский |
 | `sk.md` | Словацкий | Slovenčina |
