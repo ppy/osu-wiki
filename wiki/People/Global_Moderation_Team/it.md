@@ -49,6 +49,21 @@ In generale, il team osserverà le persone per diverse settimane o mesi per assi
 3. Non rispondere alle domande degli altri senza essere sicuro che la risposta sia corretta, soprattutto sui forum. Le proposte sono ben accette, ma fornire informazioni sbagliate non è utile a nessuno. Se non conosci la soluzione a un problema, lascia che qualcun altro risponda e impara da loro.
 4. Non esagerare. Il team cerca un contributo costante, non un sovraccarico di lavoro. Questo può portare le persone a esaurirsi, perdere pazienza e impegno. Prendila con calma!
 
+## Benefici
+
+Ai Moderatori Globali sono concessi i seguenti benefici:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Un tag osu!supporter valido per l'intera durata della permanenza nel team.
+- **Badge di permanenza**: Un [badge del profilo](/wiki/Community/Profile_badge) che mostra per quanti anni l'utente ha fatto parte del GMT, a partire da 3.
+  ![Badge dei 3 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT3y.png "Badge dei 3 anni nel GMT") ![Badge dei 4 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT4y.png "Badge dei 4 anni nel GMT") ![Badge dei 5 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT5y.png "Badge dei 5 anni nel GMT")
+
+## Uscita dal team
+
+Una volta che un Moderatore Globale sceglie di lasciare il team, gli possono essere concessi i seguenti premi a seconda delle circostanze:
+
+- **Titolo utente [osu! Alumni](/wiki/People/osu!_Alumni)**: Questo è concesso ai membri che hanno fatto parte del team per almeno 1 anno o che hanno apportato contributi significativi all'interno del team durante un periodo più breve.
+- **osu!supporter**: Ai membri viene assegnato un tag osu!supporter che dura il doppio del tempo trascorso nel GMT, alle stesse condizioni del titolo osu! Alumni.
+
 ## Membri del Team
 
 *Nota: Tutti i membri del GMT parlano inglese oltre alle lingue elencate di seguito, a meno che non sia diversamente specificato.*
