@@ -18,7 +18,7 @@ tags:
 ## Übersicht
 
 - Abkürzung: PF
-- Typ: Verringerung der Schwierigkeit
+- Typ: Erhöhung der Schwierigkeit
 - Score-Multiplikator: 1,00x
 - Standard-Tastenkürzel: `S` `S` oder `Shift` + `S`
 - Untertitel: `SS oder verschwinde!`
