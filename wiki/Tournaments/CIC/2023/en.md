@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2023 Banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup (Open) 2023** (***CIC 2023***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877). The tournament was open to all players from Southeast Asia and Oceania with at least playcount of 3,000 and global rank of #5000 in osu!catch. It was the eleventh iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup (Open) 2023** (***CIC 2023***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877). The tournament was open to all players from Southeast Asia and Oceania with at least playcount of 3,000 and global rank of #5,000 in osu!catch. It was the eleventh iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -434,9 +434,9 @@ Sunday, 23 July 2023:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, each player is required to have at least 3000 osu!catch playcounts and #5000 global rank on their profile.
-   - Each player is required to have the one of the Southeast Asia or Oceania flag displayed on their profile.
-2. Each registered player must pass the screening process conducted by osu!tournament staff.
+   - In order to be eligible to play in the tournament, each player is required to have at least 3,000 osu!catch playcount and #5,000 global rank on their profile.
+   - Each player is required to have one of the Southeast Asia or Oceania flags displayed on their profile.
+2. Each registered player must pass the screening process conducted by osu! tournament staff.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management once the screening result has been conducted.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
@@ -448,9 +448,9 @@ Sunday, 23 July 2023:
 4. For the 2nd play through, the players are allowed to skip the beatmaps (the order will remain the same, see above). However if another player in your qualifier lobby wants to play the beatmap you just skipped, you are gonna have to wait for them to finish playing the map.
 5. The highest score of both playthroughs will be used
 6. Players are **not allowed** to ban maps in the Qualifiers.
-7. In between maps, all players have 120 seconds to ready up.
+7. Between maps, all players have 120 seconds to ready up.
 8. Rankings of each player are determined by sorting the results of each individual player's performance.
-9. Top 32 players will advance to knock-out stage if they are deemed to be eligible to compete based on the screening result. Otherwise, the players deemed ineligible will be substituted with those who finished rank 33 or below in the qualifier result.
+9. Top 32 players will advance to the knock-out stage if they are deemed to be eligible to compete based on the screening result. Otherwise, the players deemed ineligible will be substituted with those who finished rank 33 or below in the qualifier result.
 
 ### Knock-out stage rules 
 
