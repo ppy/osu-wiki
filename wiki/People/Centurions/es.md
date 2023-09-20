@@ -2,14 +2,14 @@
 
 Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#clasificados). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
 
-- Los [paquetes de beatmaps](/wiki/Beatmap/Packs) Centurion: por cada 100 beatmaps clasificados, el mapper tendrá la oportunidad de seleccionar 10 beatmaps para incluirlos en un paquete de beatmaps, que estará disponible para descargar en la [categoría de temas](https://osu.ppy.sh/beatmaps/packs?type=theme) del [listado de paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs).
-- Una [insignia de perfil](/wiki/Community/Profile_badge) Centurion especial.
+- Los [paquetes de beatmaps](/wiki/Beatmap/Packs) de centuriones: por cada 100 beatmaps clasificados, el mapper tendrá la oportunidad de seleccionar 10 beatmaps para incluirlos en un paquete de beatmaps, que estará disponible para descargar en la [categoría de temas](https://osu.ppy.sh/beatmaps/packs?type=theme) del [listado de paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs).
+- Una [insignia de perfil](/wiki/Community/Profile_badge) de centurión especial.
 
 ![Insignia de centurión](img/centurion.png "Insignia de centurión (100+ beatmaps clasificados)")
 
 ## Lista de centuriones
 
-| Nombre | Primer beatmap clasificado | Centésimo beatmap clasificado | Paquetes Centurion |
+| Nombre | Primer beatmap clasificado | Centésimo beatmap clasificado | Paquetes de centurión |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [6/11/2019](https://osu.ppy.sh/beatmapsets/1057765) | [23/8/2023](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [27/2/2009](https://osu.ppy.sh/beatmapsets/5396) | [10/12/2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10) |
