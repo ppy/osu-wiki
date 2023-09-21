@@ -22,13 +22,13 @@ For more details, refer to the [osu! World Cup 2023 wiki article](/wiki/Tourname
 | Round of 32 | Oct 28 & Oct 29 |
 | Round of 16 | Nov 04 & Nov 05 |
 | Quarterfinals | Nov 11 & Nov 12 |
-| Semiinals | Nov 18 & Nov 19 |
+| Semifinals | Nov 18 & Nov 19 |
 | Finals | Nov 25 & Nov 26 |
 | Grand Finals | Dec 02 & Dec 03 |
 
 ## Prizes
 
-The osu! World Cup 2023 offeres a $5,000 cash prize pool and limited-edition merch!
+The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merch!
 
 - **1st:** 48% of the prize pool, single-run merch, profile badge, **osu! Champion** user title for one year
 - **2nd:** 32% of the prize pool, single-run merch, profile badge
@@ -38,7 +38,7 @@ The osu! World Cup 2023 offeres a $5,000 cash prize pool and limited-edition mer
 
 **[Click here!](https://osu.ppy.sh/community/tournaments/41)**
 
-Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is September 5, 23:59 UTC. Make sure to submit yours before then!**
+Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is October 5, 23:59 UTC. Make sure to submit yours before then!**
 
 *Notice: you may only participate if your position in the osu! global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
