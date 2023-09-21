@@ -51,7 +51,7 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/40)**
+- **[Sign up here](https://osu.ppy.sh/community/tournaments/41)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1823846)
 - [Livestream](https://www.twitch.tv/osulive)
 
