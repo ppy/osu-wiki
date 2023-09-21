@@ -155,7 +155,7 @@ It is recommended to check the technical information of re-encoded audio and vid
 
 ### Using MediaInfo
 
-MediaInfo is very easy to use. After installing, open the file with MediaInfo and the technical information about that file will appear.
+[MediaInfo](https://mediaarea.net/en/MediaInfo) is very easy to use. After installing, open the file with MediaInfo and the technical information about that file will appear.
 
 1. Right-click any file and select MediaInfo from the context menu, or use `File` -> `Open` -> `Open file(s)...` in MediaInfo.
 2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.
