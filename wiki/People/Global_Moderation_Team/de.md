@@ -5,8 +5,6 @@ tags:
   - moderators
   - chat mod
   - Moderatoren
-outdated_translation: true
-outdated_since: 898057448ca36c10fc6138d351de305c52a01517
 ---
 
 # Globales Moderationsteam
@@ -52,9 +50,24 @@ Generell wird das Team Menschen über mehrere Wochen oder Monate hinweg beobacht
 3. Beantworte nicht Fragen von anderen, ohne dass du weißt, ob deine Antwort korrekt ist oder nicht; insbesondere in den Foren. Vorschläge sind willkommen, aber das Herausgeben von Falschinformationen hilft keinem. Wenn du die Lösung für ein Problem nicht kennst, dann lasse jemand anderes antworten und lerne von ihm.
 4. Mache nicht zu viel. Das Team schaut auf einen konsistenten Beitrag und nicht auf eine überladene Menge. Es ist bekannt, dass das Menschen die Geduld und das Engagement verlieren lässt. Nur keine Hektik!
 
+## Vorteile
+
+Globale Moderatoren erhalten die folgenden Vorzüge:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Ein osu!supporter-Tag, das für die Dauer der Mitgliedschaft im Team gilt.
+- **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Anzahl der Jahre anzeigt, die die Person im GMT war (beginnend mit 3).
+  ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png "GMT-Abzeichen für 5 Jahre")
+
+## Ausscheiden aus dem Team
+
+Sobald ein globaler Moderator sich dazu entscheidet, das Team zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
+
+- **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dies wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
+- **osu!supporter**: Mitglieder bekommen ein osu!supporter-Tag, das doppelt so lange ist wie ihre Zeit im GMT (mit denselben Bedingungen wie bei osu! Alumni).
+
 ## Teammitglieder
 
-*Anmerkung: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
+*Anmerkung: Alle Mitglieder aus dem GMT sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
 Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen).
 
@@ -95,7 +108,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finnisch | Chat-Moderation |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugiesisch, Spanisch | Chat-Moderation, Verwaltung von Turnieren |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Deutsch | Moderation der Mapping-/Modding-Community |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch |  |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!-Entwicklung |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamesisch | Chat-Moderation |
@@ -173,3 +186,4 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 ## Anmerkungen
 
 [^task-Azer]: Azer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er als Organisator des World Cups Berechtigungen auf GMT-Ebene benötigt.
+[^task-mangomizer]: mangomizer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
----
-
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -269,7 +264,9 @@ Diese Storyboarder haben den Titel **Elite Storyboarder** dafür überreicht bek
 
 ## Auf das Spiel bezogen
 
-Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte Errungenschaft im Spiel oder durch Abschluss einer spezifischen  Herausforderung vergeben.
+*Siehe auch: [Completionists](/wiki/People/Completionists)*
+
+Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte Errungenschaft im Spiel oder durch Abschluss einer spezifischen Herausforderung vergeben.
 
 | Benutzer | Titel | Errungenschaft |
 | :-- | :-- | :-- |
@@ -279,7 +276,9 @@ Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte 
 | ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 11. August 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Spielte alle gerankten osu!-Beatmaps ab dem 27. April 2019 |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Gewann [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | War die [erste Person, die die Medaille *The Girl in the Forest* freischaltete](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | War die [erste Person, die die Medaille *Internment* freischaltete](https://twitter.com/osugame/status/1696007320663359800) |
+| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Erreichte den maximal möglichen Punktestand auf [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) für einen unschlagbaren ersten Platz auf der Rangliste |
 
 ## Mitwirkende
 
