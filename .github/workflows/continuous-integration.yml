@@ -118,8 +118,9 @@ jobs:
               echo "::warning::Unexpected GitHub API response (attempt ${i}/${MAX_ATTEMPTS}): ${API_RESPONSE}"
             else
               FIRST_PR_COMMIT_HASH=$( echo "${API_RESPONSE}" | jq -r '.[0].sha' )
-              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH && exit 0
+              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH
+              exit $?
             fi
           done
-          echo "::warning::Failed to read the hash of the PR's first commit -- please re-run the check"
+          echo "::warning::Failed to read the hash of the PR's first commit -- please check why that happened"
           exit 1
