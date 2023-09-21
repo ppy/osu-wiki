@@ -20,13 +20,13 @@ The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament 
 | Round of 32 | 2023-10-28/2023-10-29 |
 | Round of 16 | 2023-11-04/2023-11-05 |
 | Quarterfinals | 2023-11-11/2023-11-12 |
-| Semiinals | 2023-11-18/2023-11-19 |
+| Semifinals | 2023-11-18/2023-11-19 |
 | Finals | 2023-11-25/2023-11-26 |
 | Grand Finals | 2023-12-02/2023-12-03 |
 
 ## Prizes
 
-The osu! World Cup 2023 offeres a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
