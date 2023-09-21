@@ -125,23 +125,6 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-### Slider head circle follows track snaking when not hit
-
-![](img/moving-slider-head.gif)
-
-When a slider reaches its start time, the slider head will begin to move along the slider track, moving the actual hit target with it. This compares to stable, where the hit target remains at the original location.
-
-This kind of makes sense when you look at it, but adds complexity to computing gameplay (and potentially adds replay errors, especially with higher OD values and slider velocity).
-
-The rationale behind this change is simple: without it, having `Snaking out sliders` enabled becomes very awkward to visualise when a player hits late. Do you leave the original circle in place and delay the outward snaking? How does it catch up to the actual location of the slider ball if so? And on the contrary, if you do not delay the snaking, do you leave the head circle detached from the slider (please no)?
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
-
 ### Slider ends do not contribute to combo nor cause misses
 
 Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
