@@ -36,9 +36,9 @@ The osu! World Cup 2023 offeres a $5,000 cash prize pool and limited-edition mer
 
 ## How do I register?
 
-- **[Click here!](https://osu.ppy.sh/community/tournaments/41)**
-- Teams will be formed by each country's captain *after* the registration phase has concluded.
-- **The deadline for registering is September 5, 23:59 UTC. Make sure to submit yours before then!**
+**[Click here!](https://osu.ppy.sh/community/tournaments/41)**
+
+Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is September 5, 23:59 UTC. Make sure to submit yours before then!**
 
 *Notice: you may only participate if your position in the osu! global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
