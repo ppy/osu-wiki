@@ -34,6 +34,17 @@ New members of the Beatmap Nominators begin with a one month long probation peri
 
 When a Beatmap Nominator is placed on probation, they cannot be placed on probation again for the same reason for roughly one year. For example, if a Beatmap Nominator is placed on probation for poor behaviour, they will be removed from the Beatmap Nominators if they exhibit the same poor behaviour again recently, even if they are a full Beatmap Nominator during the second infringement.
 
+## Benefits
+
+Beatmap Nominators are granted the following benefits:
+
+- **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their group membership.
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been a BN.
+  ![1 year BN badge](https://assets.ppy.sh/profile-badges/BN1y.png "1 year BN badge") ![2 year BN badge](https://assets.ppy.sh/profile-badges/BN2y.jpg "2 year BN badge") ![3 year BN badge](https://assets.ppy.sh/profile-badges/BN3y.jpg "3 year BN badge") ![4 year BN badge](https://assets.ppy.sh/profile-badges/BN4y.jpg "4 year BN badge") ![5 year BN badge](https://assets.ppy.sh/profile-badges/BN5y.jpg "5 year BN badge")
+- **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
+  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
+- **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: Beatmap Nominators who perform exceptionally at their craft are eligible to be awarded the yearly Elite Nominator [user title](/wiki/Community/User_title).
+
 ## Team members
 
 The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.

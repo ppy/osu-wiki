@@ -31,7 +31,7 @@ NAT members responsible for this category are in high demand due to the sheer vo
 
 ### Structural
 
-NAT members assigned to the structural category are required to maintain:
+NAT members assigned to the structural category are not responsible for any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode. They are required to maintain:
 
 - **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_criteria) as well as other documentation.
 - **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
@@ -57,6 +57,19 @@ Each month, the NAT members are required to submit a summary of their activity i
 
 The team leaders will confront inactive NAT members, or members who fail to provide a summary in a timely manner. If an appropriate resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
 
+## Benefits
+
+**See also: [Departure from the NAT](#departure-from-the-nat)**
+
+NAT members are granted the following benefits:
+
+- **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
+  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")
+- **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
+  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
+- **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
+
 ## Promotion to the NAT
 
 Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or a former NAT member still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to a multitude of NAT responsibilities is usually the basis for being promoted.
@@ -71,11 +84,27 @@ NAT members who show proficiency in the structural tasks outlined above, to the 
 
 Before conducting a category change, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the concerned member will then be subject to different activity expectations depending on their specific situation. If their contribution towards structural tasks is considered lacklustre or unnecessary at some later point, again as judged by the NAT leaders, then they will be moved back to the evaluation category.
 
+## Departure from the NAT
+
+Once an NAT member chooses to depart from the team, they may be granted the following benefits depending on the circumstances:
+
+- **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: this is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
+- **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the NAT, under the same conditions as osu! Alumni status.
+- **Internal access**: In special cases, members may be granted continued access to the internal NAT discussion channel depending on their past contributions and the likelihood of them having positive impact in future discussions. This privilege may be revoked if the member is inactive in discussions or is causing issues.
+
+Former NAT members who currently have internal access are:
+
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
+- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+
 ## NAT Leadership
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+The current NAT leaders are:
+
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsibilities
 
@@ -96,64 +125,80 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
-### osu!
+### Evaluation
 
-| Name | Additional languages | Assigned category |
-| :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural[^task-mo] |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, Russian | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German | Evaluation, Structural[^task-fuju] |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Evaluation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural[^task-naxess] |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese | Evaluation |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, Structural[^task-star] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
+#### osu!
 
-### osu!taiko
+| Name | Additional languages |
+| :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, Russian |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
-| Name | Additional languages | Assigned category |
-| :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+#### osu!taiko
 
-### osu!catch
+| Name | Additional languages |
+| :-- | :-- |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
 
-| Name | Additional languages | Assigned category |
-| :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
+#### osu!catch
 
-### osu!mania
+| Name | Additional languages |
+| :-- | :-- |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 
-| Name | Additional languages | Assigned category |
-| :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish | Evaluation |
+#### osu!mania
+
+| Name | Additional languages |
+| :-- | :-- |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish, Catalan |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
+
+### Structural
+
+The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode:
+
+| User | Task |
+| :-- | :-- |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [NAT/BN website](https://bn.mappersguild.com) development |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
+
+The following NAT members are primarily evaluators, but also contribute to structural tasks:
+
+| User | Task |
+| :-- | :-- |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [NAT/BN website](https://bn.mappersguild.com) development, handling osu!taiko [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | [Ranking criteria test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) maintenance |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Handling user reports |
 
 ---
 
-In addition, the [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) bot acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing it to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
-
-## Notes
-
-[^task-fuju]: Mainly handles user reports and managing SEV ratings for the osu! game mode
-[^task-mo]: Mainly handles internal discussions, affairs, and documentation
-[^task-naxess]: Mainly maintains [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
-[^task-pishifat]: Mainly maintains [the NAT/BN website](https://bn.mappersguild.com/home)
-[^task-star]: Mainly maintains the ranking criteria test questions
+In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.

@@ -43,7 +43,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `tr.md` | Türkisch | Türkçe |
 | `uk.md` | Ukrainisch | Українська мова |
 | `vi.md` | Vietnamesisch | Tiếng Việt |
-| `zh.md` | Chinesisch (Vereinfacht) | 简体中文 |
+| `zh.md` | Vereinfachtes Chinesisch | 简体中文 |
 | `zh-tw.md` | Traditionelles Chinesisch (Taiwan) | 繁體中文（台灣） |
 
 *Anmerkung: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
@@ -669,7 +669,7 @@ Es gibt zwei Arten von Bildlinks: Inline und als Verweis. Beispiele:
 
 Bilder sollten den Inline-Stil verwenden. Definitionen für Verweise müssen am Ende des Artikels platziert werden.
 
-Alle Blockbilder auf der Seite (die nichts anderes in der gleichen Zeile haben) werden in eine einzige Galerie kombiniert, die mit den beiden Pfeilen am Rand des Bildschirms, Tastenkürzeln oder Bildschirmwischen auf mobilen Geräten bedient werden kann<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+Alle Blockbilder auf der Seite (die nichts anderes in der gleichen Zeile haben) werden in eine einzige Galerie kombiniert, die mit den beiden Pfeilen am Rand des Bildschirms, Tastenkürzeln oder Bildschirmwischen bedient werden kann.
 
 ### Alternative und Titeltexte
 

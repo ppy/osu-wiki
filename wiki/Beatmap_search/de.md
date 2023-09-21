@@ -57,6 +57,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `artist` | Name des Künstlers |
 | `featured_artist` | Kennung eines [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Name des Beatmap-Erstellers |
+| `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
 | `ar` | [Approach-Rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle-Size](/wiki/Beatmap/Circle_size) |
 | `od` | [Allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) |
