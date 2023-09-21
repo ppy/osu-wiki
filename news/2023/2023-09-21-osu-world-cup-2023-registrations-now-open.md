@@ -17,9 +17,9 @@ For more details, refer to the [osu! World Cup 2023 wiki article](/wiki/Tourname
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | Sep 21 – Oct 05 |
-| Qualifier showcase | Sep 15 (14:00 UTC) |
-| Qualifier stage | Sep 21 & Sep 22 |
-| Round of 32 | Sep 28 & Sep 29 |
+| Qualifier showcase | Oct 15 (14:00 UTC) |
+| Qualifier stage | Oct 21 & Oct 22 |
+| Round of 32 | Oct 28 & Oct 29 |
 | Round of 16 | Nov 04 & Nov 05 |
 | Quarterfinals | Nov 11 & Nov 12 |
 | Semiinals | Nov 18 & Nov 19 |
