@@ -111,7 +111,7 @@ jobs:
           for (( i=1; i<=MAX_ATTEMPTS; i++ )); do
             # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
             API_RESPONSE=$(
-              curl --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+              curl -sS --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
                 ${{ github.event.pull_request.commits_url }}?per_page=1
             )
             if [[ 'array' != $( echo "${API_RESPONSE}" | jq -r 'type' ) ]]; then
