@@ -8,11 +8,11 @@ on:
       - reopened
       - synchronize
       - edited
+permissions:
+  statuses: write
 jobs:
   task-list-checker:
     runs-on: ubuntu-latest
-    permissions:
-      statuses: write  # required for https://docs.github.com/rest/commits/statuses#create-a-commit-status
     steps:
       - name: Check for incomplete task list items
         uses: Shopify/task-list-checker@main
