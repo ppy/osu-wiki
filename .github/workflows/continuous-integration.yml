@@ -10,6 +10,8 @@ on:
       - synchronize
       - edited
 
+permissions: {}
+
 jobs:
   ci:
     name: changed files
