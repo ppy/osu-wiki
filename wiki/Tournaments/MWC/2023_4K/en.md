@@ -117,13 +117,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T120000&p1=1440&p2=235&p3=108) |  | [^losers-grand-finals] |
+| South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T130000&p1=1440&p2=235&p3=108) |  | [^losers-grand-finals] |
 
 ### Sunday, 24 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T150000&p1=1440&p2=263&p3=235) |  | [^grand-final] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 24 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T033000&p1=1440&p2=263&p3=235) |  | [^grand-final] |
 | United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T150000&p1=1440&p2=263&p3=108) |  | [^grand-final] |
 
 ## Mappools
