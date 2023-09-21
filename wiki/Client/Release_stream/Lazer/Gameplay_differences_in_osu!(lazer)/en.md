@@ -303,7 +303,7 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 
 ### Converts no longer have different hit windows
 
-In stable, Beatmaps converted from the osu! game mode into osu!mania had [different hit windows](/wiki/Gameplay/Judgement/osu!mania).
+In stable, beatmaps converted from the osu! game mode into osu!mania had [different hit windows](/wiki/Gameplay/Judgement/osu!mania).
 
 |  |  |
 | :-- | :-: |
