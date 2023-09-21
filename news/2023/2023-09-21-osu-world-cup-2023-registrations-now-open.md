@@ -34,7 +34,6 @@ The osu! World Cup 2023 offeres a $5,000 cash prize pool and limited-edition mer
 - **2nd:** 32% of the prize pool, single-run merch, profile badge
 - **3rd:** 20% of the prize pool, single-run merch, profile badge
 
-
 ## How do I register?
 
 - **[Click here!](https://osu.ppy.sh/community/tournaments/41)**
