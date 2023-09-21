@@ -12,4 +12,4 @@ El termino también es utilizado por muchas otras comunidades en línea para des
 
 ## Causas de los chokes
 
-Una característica clave de un choke es su aleatoriedad y rendimiento inconsistente. Esto excluye fallos regulares o específicos de un patrón o la [rotura de un slider](/wiki/Gameplay/Judgement/Slider_break), que generalmente están vinculados con el nivel de habilidad de un jugador o de cómo se está construido el beatmap. Los chokes usualmente son causados por el estrés mental y los nervios excesivos durando el juego, así como por una fatiga general.
+Una característica clave de un choke es su aleatoriedad y rendimiento inconsistente. Esto excluye fallos regulares o específicos de un patrón o [sliderbreaks](/wiki/Gameplay/Judgement/Slider_break), que generalmente están vinculados con el nivel de habilidad de un jugador o de cómo está construido el beatmap. Los chokes usualmente son causados por el estrés mental y los nervios excesivos durante el juego, así como por una fatiga general.
