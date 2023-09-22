@@ -15,7 +15,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
 - **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners do not allow adequate spin time.
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
-- **All actively clicked parts of objects must have at least one audible hitsound that does not blend with the song.** Players do not receive enough feedback otherwise. Using keysounds as hitnormal without other distinct additional hitsounds, for example, is not allowed.
+- **All actively clicked parts of objects must have at least one audible hitsound that does not blend with the song.** Players do not receive enough feedback otherwise. Using keysounds as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
