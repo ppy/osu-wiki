@@ -25,10 +25,10 @@ The **Yuyuko's Hidden Cup Season 3** (***YHC S3***) was a team-based 4v4 double-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | USD 4.8 per player, an unofficial badge |
-| ![Gold crown](/wiki/shared/crown-silver.png "2nd place") | USD 3.4 per player |
-| ![Gold crown](/wiki/shared/crown-bronze.png "3rd place") | USD 2 per player |
-| *the MVP of the tournament* | 1 month of osu!supporter |
-| *the Coach of winner team* | 1 month of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | USD 3.4 per player |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | USD 2 per player |
+| *the most valuable person of the tournament (MVP)* | 1 month of osu!supporter |
+| *the coach of winner team* | 1 month of osu!supporter |
 | *the MVP of the tournament (under 3200 pp)* | 1 month of osu!supporter |
 
 ![](img/badge.png "YHCS3 badge")
@@ -210,19 +210,19 @@ This competition has come to an end and resulted in the following podium:
 2. Beatmap scoring is based on ScoreV2.
 3. Based on the number of registration, **the size for a team is 7 players**.
 4. The beatmap list for each next round will be announced by the mappool selectors on the official live stream, on the weekend (Friday 12:00 - Monday 23:00) after the matches take place.
-5. The default match schedules for each round will be announced by the tournament managers in the information (main) sheet, on Sunday before the last matches take place. the captain could have a discussion with the opponent and confirm the match time, before Saturday 00:00 in the week.
-6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+5. The default match schedules for each round will be announced by the tournament managers in the information (main) sheet, on Sunday before the last matches take place. The captain may have a discussion with the opponent and confirm the match time before Saturday 00:00 on the same week.
+6. Use of the Visual Settings panel to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a win by default will be declared for the side with the most members present.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin). 
-8. Exchanging players between games is allowed without limitations.
+8. Replacing players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
     - "Lag spikes" are not considered a valid reason to rematch a beatmap.
     - The roster for each team during a rematch must remain the same as the original run. If that is not possible, e.g. by virtue of a technical issue that prevents a player from entering the lobby, both teams will be allowed to swap rosters.
     - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 11. If a player disconnects mid-game, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen, must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
       - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
@@ -231,8 +231,8 @@ This competition has come to an end and resulted in the following podium:
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 13. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
-14. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+14. The multiplayer chatrooms abide by the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be replaced for the duration of the punishment.
 15. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
@@ -256,7 +256,7 @@ This competition has come to an end and resulted in the following podium:
 2. The sum of player cost should be 6.7 - 7.3 (including boundary values).
 3. Please try to keep the cost within a reasonable threshold. If out of limit, staff will take action.
 4. If a team formed successfully, the captain could send the team name and team flag to the staff.
-   - The team flag and team name should comply with [osu! community rules](/wiki/Rules). sexualized, trolling, insulting, derogatory, personal, and political attack team name or team flag is not allowed.
+   - The team flag and team name should comply with [osu! community rules](/wiki/Rules). Sexualized, trolling, insulting, derogatory, personally and/or politically offensive team names and flags are not allowed.
    - Recommended team flag size: 270 * 180px, PNG file format.
 5. The staff will intervene and complete the team formation task of the players who fail to form a team before the group match pool showcase.
 6. In general, the player with the **highest cost** in the team should hold the position of captain. If other players in the team want to be the captain, they need to obtain the consent of the captain to be replaced and the staff.
@@ -287,7 +287,7 @@ This competition has come to an end and resulted in the following podium:
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
-     - The team will receive a verbal warning from the referee
+     - The team will receive a verbal warning from the referee.
    - On subsequent occurrences:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
@@ -320,4 +320,4 @@ This competition has come to an end and resulted in the following podium:
    - Matches may not be scheduled to any time beyond **Sunday, 22:00 UTC+8** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
-5. Captains and Coaches are responsible for their team's availability.
+5. Captains and coaches are responsible for their team's availability.
