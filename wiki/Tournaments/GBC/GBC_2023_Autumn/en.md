@@ -8,9 +8,9 @@ tags:
 
 # GB Cup 2023 Autumn
 
-![GBC 2023 Autumn Banner](img/GBC-2023-Autumn-Banner.png)
+![GBC 2023 Autumn banner](img/GBC-2023-Autumn-Banner.png)
 
-The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft-based osu!mania 4-key tournament hosted by Team GB. It was the fourth instalment of the GB Cup.
+The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It was the fourth instalment of the GB Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft-based 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBA* |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBA* |
 | *4th place* | *TBA* |
-| *5-8th place* | *TBA* |
-| *9-16th place* | *TBA* |
-| *17-21st place* | *TBA* |
-| *22-24th place* | *TBA* |
+| *5–8th place* | *TBA* |
+| *9–16th place* | *TBA* |
+| *17–21st place* | *TBA* |
+| *22–24th place* | *TBA* |
 
 ## Organisation
 
-The GB Cup 2023 Autumn is run by the Team GB and various community members.
+The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -62,23 +62,23 @@ The GB Cup 2023 Autumn is run by the Team GB and various community members.
 
 ## Links
 
-- [Discussion thread EN](https://osu.ppy.sh/community/forums/topics/1824052?n=1)
-- [Discussion thread CN](https://osu.ppy.sh/community/forums/topics/1824055?n=1)
+- [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1824052?n=1)
+- [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1824055?n=1)
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
-- [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
-- [GBC discord Server](https://discord.gg/kR4hJnPs)
+- [GBC QQ group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
+- [GBC Discord server](https://discord.gg/kR4hJnPs)
 - [Information spreadsheet](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=BB08J2)
 
 ## Ruleset
 
 ### Tournament rules
 
-1. The GB Cup 2023 Autumn is a captain draft-based team tournament, played on the `osu!mania` game mode.
+1. The GB Cup 2023 Autumn is a captain draft–based team tournament, played in the osu!mania game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.
-2. The GB Cup 2023 Autumn is divided into three stages: qualifier, regular phase and elimination phase.
-3. Beatmap scoring is based on `Score V2`.
+2. The GB Cup 2023 Autumn is divided into three stages: Qualifier, the regular phase and the elimination phase.
+3. Beatmap scoring is based on Score V2.
 4. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
 5. The match schedules for each round will be announced by the host on this page, as well as the information sheet, on the Sunday before the matches take place.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
@@ -98,12 +98,12 @@ The GB Cup 2023 Autumn is run by the Team GB and various community members.
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
       - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-11. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
+11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
 12. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-procedures) for details.
 13. **The size for a team is 5.**
     - This might change depending on the amount of registrations.
-14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly, the referee has the final interpretation of the match.
+14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly at the interpretation of the referee.
 15. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
 16. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the time being.
@@ -118,14 +118,14 @@ The GB Cup 2023 Autumn is run by the Team GB and various community members.
 19. Referees may allow, at their discretion, lower or higher tolerances for timers.
 20. The host may request liveplays or recordings of individual players or teams at any point.
 21. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
-22. According to the rules of Official Tournament support, for the players that suspected to have behaviors like "sandbagging" or "fake match", the host have rights to raise the issue to the Tournament Committee for a case-by-case review.
+22. Players who are suspected of undermining the competitive integrity of the tournament, such as by *sandbagging* or *match fixing*, may be reported to the [Tournament Committee](/wiki/People/Tournament_Committee) for case-by-case review.
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form]()** to register. 
-   - Player need to choose a zone according to their chatting software, includes discord zone and QQ zone. Both zones will have independent drafting phase and regular stage.
-   - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this discord server](https://discord.gg/kR4hJnPs) after register, according their choice in registration.
-   - Player need to declare the time zone in registration. We just recommend players in Asia to regist. **There are no forced geographical limitations for this tournament, but player need to ensure that it is available to play in weekend 7pm-10pm (UTC+8), or they may not been selected in drafting phase**. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/13179234/c366/)** to register. 
+   - Players need to choose a zone according to their chat software, i.e. the Discord zone or QQ zone. Both the QQ zone and Discord zone will have an independent drafting phase and regular stage.
+   - Players **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/kR4hJnPs) after register, according to their choice during registration.
+   - **There are no forced geographical limitations for this tournament, but players need to ensure they are available to play in the weekend 19:00–22:00 (UTC+8), or they may not be selected during the drafting phase.**
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
@@ -136,30 +136,29 @@ The GB Cup 2023 Autumn is run by the Team GB and various community members.
 ### Qualifier instructions
 
 1. In the Qualifier stage, all players will play a specific mappool designed by the mappool selectors and mappool helpers.
-   - All players will be ranked in the Qualifier together. Based on the total number of applicants, the organizer will allow the top `TBA` players in the Qualifier to enter the draft phase, and the other players will be eliminated. If a promoted player quits, subsequent player can replace him/her.
+   - All players will be ranked in the Qualifier together. Based on the total number of applicants, the organiser will allow a number of top players from the Qualifiers to enter the drafting phase, and the other players will be eliminated. If a qualified player quits, they may be replaced by someone else.
 2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules, organised as such:
    - Rice: 3 beatmaps
    - LN 2 beatmaps
    - Hybrid: 2 beatmaps
    - SV: 1 beatmap
-3. Players will play the mappool at least once (and up to twice) at a designated time. Their best combined score will be the final result.
-   - Best combined score means totals of each beatmaps best score.
+3. Players will play the mappool at least once (and up to twice) at a designated time. Their best combined score, meaning the total of each beatmap's best score, will be the final result.
 4. The mappool will be played in the following order: SV1, RC1, RC2, RC3, LN1, LN2, HB1, HB2. Players may not ask to play the pool in any other order.
    - Player may skip playing any beatmap on their second run.
-5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
+5. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
 6. We suggest players not to broadcast or share their results to avoid seed manipulation.
-7. Qualifier stage's result will using to seeding and choosen captains.
-   - Higher scores lead to a higher chance to be picked during drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
+7. Qualifier stage results will be used for seeding and for choosing captains.
+   - Higher scores lead to a higher chance to be picked during the drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
 8. Some best-performance players will advance to drafting phase.
    - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
-9. Players will use same multi rooms if they select same time to play qualifier. It is prohibited to abort a match with the reason of technical problem. With this situation, the score will be recorded normally.
+9. Players will use same multiplayer rooms if they select same time to play the Qualifiers. It is prohibited to abort a match with the reason of a technical problem, in which case the score will be recorded as is.
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to form teams , called *Drafting phase*. Both zones will have their independent drafting. All the unpicked player will be eliminated from the tournament.
-2. Following the drafting phase, a swiss stage will be played in both zones, called the *Regular stage*. There will be `16` teams advance in total, and the others get eliminated from the tournament.
-3. Following the Regular stage, the Elimination stage will be played, called *Playoffs*. Top 8 teams in regular stage will get into winner bracket, other teams will get into loser bracket.
-4. All the losing team in loser bracket will be eliminated from the tournament, the last team will be the winner.
+1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both zones will have independent drafting phases. All unpicked players will be eliminated from the tournament.
+2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in total, and the others get eliminated from the tournament.
+3. Following the regular stage, the elimination stage will be played, called *playoffs*. The top 8 teams from the regular stage will advance to a winner bracket, other teams will get into loser bracket.
+4. All losing teams in the loser bracket will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
 
