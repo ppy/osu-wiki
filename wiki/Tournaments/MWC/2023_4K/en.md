@@ -622,7 +622,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^showmatch]: Grand Finals showmatch — Best-performing players from eliminated teams play against each other
+[^showmatch]: Grand Finals showmatch — best-performing players from eliminated teams play against each other
 [^losers-grand-finals]: Losers bracket Grand Finals match
 [^grand-final]: Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
