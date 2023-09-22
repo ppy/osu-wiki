@@ -643,7 +643,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement)](https://soundcloud.com/indekkusu/pallet-rearrangement) |  | Canción de los créditos |
 | [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms) | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Técnicas de la gran final |
 
-#### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2022
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko Malaysian Tournament 2022](/wiki/Tournaments/OTMT/2022)
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
