@@ -8,7 +8,7 @@ tags:
 
 # GBC 2023 秋季赛
 
-![GBC 2023 Autumn Banner](img/GBC-2023-Autumn-Banner.png)
+![GBC 2023 Autumn banner](img/GBC-2023-Autumn-Banner.png)
 
 **GBC 2023 秋季赛** (***GB 杯 2023 秋季赛***) 是由 GB 组织主办的 3v3 队长选秀制 osu!mania4k 项目赛事。本届比赛是 GBC 系列赛事的第四届正式比赛。
 
@@ -62,23 +62,23 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 链接
 
-- [论坛讨论帖 英文](https://osu.ppy.sh/community/forums/topics/1824052?n=1)
-- [论坛讨论帖 中文](https://osu.ppy.sh/community/forums/topics/1824055?n=1)
+- [论坛讨论帖 (英文)](https://osu.ppy.sh/community/forums/topics/1824052?n=1)
+- [论坛讨论帖 (中文)](https://osu.ppy.sh/community/forums/topics/1824055?n=1)
 - 直播间
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
-- [比赛 discord 服务器](https://discord.gg/kR4hJnPs)
+- [比赛 Discord 服务器](https://discord.gg/kR4hJnPs)
 - [赛事信息表格](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=BB08J2)
 
 ## 规则
 
 ### 比赛规则
 
-1. GB 杯 2023 秋季赛是队长选秀制团体赛，使用的是 `osu!mania` 游戏模式。
+1. GB 杯 2023 秋季赛是队长选秀制团体赛，使用的是 osu!mania 游戏模式。
    - 比赛预设是 3v3 的赛制,可能会随报名人数的变化而调整。
 2. GB 杯 2023 秋季赛分为资格赛、常规赛、淘汰赛，共三个阶段。
-3. 谱面计分方式采用 `Score V2`。
+3. 谱面计分方式采用 Score V2。
 4. 主办方会在比赛开始前的上个周日于主舞台发布图池。
 5. 主办方会在比赛开始前的上个周日提前预设好每轮的比赛的日程（队伍双方可以申请调整）。
 6. 允许使用皮肤或者修改显示设定禁用故事板及打击音效.
@@ -113,17 +113,17 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
     - 整队判负
     - 本届比赛取消比赛资格
     - 系列赛取消比赛资格
-    - 系列赛和osu官方社区比赛禁赛，直至申诉通过
-19. 裁判可以根据情况调整timer的长度。
+    - 系列赛和 osu! 官方社区比赛禁赛，直至申诉通过
+19. 裁判可以根据情况调整 timer 的长度。
 20. 主办方有权要求选手开启直播或录像。
 21. 主办方保留修改规则的权利，任何类似修改将会提前宣布。
-22. 根据官方规定，针对拥有假赛或者放水嫌疑的比赛行为，主办方将会整理信息之后上报给osu!竞赛委员会，官方将会有专人审核并处理这类事件。
+22. 根据官方规定，针对拥有假赛或者放水嫌疑的比赛行为，主办方将会整理信息之后上报给 osu! 竞赛委员会，官方将会有专人审核并处理这类事件。
 
 ### 比赛报名
 
-1. 请私信告知主办方并**填写 [报名表]()**来进行报名。
+1. 请私信告知主办方并**填写 [报名表](https://wj.qq.com/s2/13179234/c366/)**来进行报名。
    - 选手报名时将会根据使用的社交软件选择参加的赛区，包括QQ区和discord区。两个赛区将单独进行选人和常规赛。
-   - 报名后的选手**必须**根据报名时的选择加入[此 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)或加入[此 discord 服务器](https://discord.gg/kR4hJnPs)。
+   - 报名后的选手**必须**根据报名时的选择加入[此 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)或加入[此 Discord 服务器](https://discord.gg/kR4hJnPs)。
    - 选手在报名时必须声明自己的时区。我们推荐亚洲的选手进行报名。**本届赛事并不严格限制地区，但请报名选手保证能够在UTC+8的周末晚7点-10点进行正常比赛，否则可能会在选人阶段被筛除**。
 2. 主办方会手动审核所有报名选手来确保可行性和严肃性。
    - 选手不得在 12 个月内有违反 [osu! 社区规则](/wiki/Rules)的记录。
@@ -135,7 +135,7 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 ### 资格赛介绍
 
 1. 资格赛阶段中，每个选手需要游玩 8 张由图池管理员定制的谱面组成的图池。
-   - 资格赛所有的选手将一同进行资格赛排名，根据总报名人数，主办方会允许资格赛排名前 `TBA` 的选手进入选秀阶段，其他选手将被淘汰。如果晋级选手出现退赛情况，后续的选手可以递补。
+   - 资格赛所有的选手将一同进行资格赛排名，根据总报名人数，主办方会允许资格赛排名靠前的选手进入选秀阶段，其他选手将被淘汰。如果晋级选手出现退赛情况，后续的选手可以递补。
 2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
    - Rice: 3 张
    - LN: 2 张
@@ -267,4 +267,4 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 脚注
 
-[^bu]: Ranking based on opponents' performance. (`all opponents' wins - all opponents' losses`)
+[^bu]: 所有对手的净胜场和
