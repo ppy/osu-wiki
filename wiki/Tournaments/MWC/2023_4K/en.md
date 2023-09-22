@@ -53,7 +53,7 @@ The osu!mania 4K World Cup 2023 is run by various community members.
 
 ## Links
 
-- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxmrcTQ40eHwqYDAjqfYxher3bkH-uFYBVm0Z6DNHLwll52YUrEA9-gNrxNOX0X5CsCHyDBH9FKxrM/pubhtml)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1WecO9oKqjhV2y77XsRhUjs_d9nHwE45pnW_TsYruel4/edit?rm=minimal)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/125) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
@@ -117,14 +117,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T130000&p1=1440&p2=235&p3=108) |  | [^losers-grand-finals] |
+| South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T130000&p1=1440&p2=235&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-grand-finals] |
+| All-stars Red | All-stars Blue | [Sep 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 24 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 24 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T033000&p1=1440&p2=263&p3=235) |  | [^grand-final] |
-| United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T150000&p1=1440&p2=263&p3=108) |  | [^grand-final] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 24 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T033000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-final] |
+| United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T150000&p1=1440&p2=263&p3=108) | [osulive](https://twitch.tv/osulive) | [^grand-final] |
 
 ## Mappools
 
@@ -621,6 +622,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^showmatch]: Grand Finals showmatch — Best-performing players from eliminated teams play against each other
 [^losers-grand-finals]: Losers bracket Grand Finals match
 [^grand-final]: Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
