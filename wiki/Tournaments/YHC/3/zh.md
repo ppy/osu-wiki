@@ -27,8 +27,8 @@ tags:
 | 名次 | 奖励 |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "第一名") | 队内每个玩家 35 元人民币（大约价值 USD 4.8）、一个非官方的主页奖牌 |
-| ![Gold crown](/wiki/shared/crown-silver.png "第二名") | 队内每个玩家 25 元人民币（大约价值 USD 3.4）                 |
-| ![Gold crown](/wiki/shared/crown-bronze.png "第三名") | 队内每个玩家 15 元人民币（大约价值 USD 2） |
+| ![Silver crown](/wiki/shared/crown-silver.png "第二名") | 队内每个玩家 25 元人民币（大约价值 USD 3.4）                 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "第三名") | 队内每个玩家 15 元人民币（大约价值 USD 2） |
 | *整场比赛的 MVP* | 1 个月的 osu! 支持者 |
 | *冠军队伍的教练* | 1 个月的 osu! 支持者 |
 | *整场比赛中，pp 小于 3200 的 MVP* | 1 个月的 osu! 支持者 |
