@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
- **osu! 월드컵 2022** (***OWC 2022***)는 [osu! team](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 13번째의 osu! 월드컵이기도 합니다.
+ **osu! 월드컵 2022** (***OWC 2022***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 13번째 osu! 월드컵이기도 합니다.
 
 ## 토너먼트 일정
 
@@ -19,8 +19,8 @@ tags:
 | 퀄리파이어 기간 | 2022-10-15/2022-10-16 |
 | 32강 | 2022-10-22/2022-10-23 |
 | 16강 | 2022-10-29/2022-10-30 |
-| 쿼터파이널 | 2022-11-05/2022-11-06 |
-| 세미파이널 | 2022-11-12/2022-11-13 |
+| 8강 | 2022-11-05/2022-11-06 |
+| 준결승 | 2022-11-12/2022-11-13 |
 | 파이널 | 2022-11-19/2022-11-20 |
 | 그랜드 파이널 | 2022-11-26/2022-11-27 |
 
@@ -30,11 +30,11 @@ osu! 월드컵 2022는 최소 $5000의 상금과 한정판 굿즈가 제공됩�
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 
-![](img/badge-1st.jpg "OWC 2022 winner badge") ![](img/badge-2nd.jpg "OWC 2022 2nd place badge") ![](img/badge-3rd.jpg "OWC 2022 3rd place badge")
+![](img/badge-1st.jpg "OWC 2022 우승 배지") ![](img/badge-2nd.jpg "OWC 2022 2위 배지") ![](img/badge-3rd.jpg "OWC 2022 3위 배지")
 
 ## 조직
 
@@ -46,7 +46,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 | 맵풀 셀렉터 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 맵풀 퀄리티 보증 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
 | 맵풀 플레이테스터 | ::{ flag=US }:: [\-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [chezbananas](https://osu.ppy.sh/users/7941423), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=CA }:: [i need top 727](https://osu.ppy.sh/users/6701656), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [NinjaFish](https://osu.ppy.sh/users/4819811), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=CA }:: [Stoof](https://osu.ppy.sh/users/4916057), ::{ flag=US }:: [theez](https://osu.ppy.sh/users/4230827), ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
-| 커스텀 매퍼 | ::{ flag=GB }:: [\-Mo\-](https://osu.ppy.sh/users/2202163), ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=RU }:: [Alvearia](https://osu.ppy.sh/users/6248691), ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=US }:: [Elcheer](https://osu.ppy.sh/users/4420014), ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342), ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573), ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923), ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087), ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=US }:: [ItsWinter](https://osu.ppy.sh/users/6381153), ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506), ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377), ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=BR }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=KR }:: [Nakagawa\-Kanon](https://osu.ppy.sh/users/87065), ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=FR }:: [Raijodo](https://osu.ppy.sh/users/13400075), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=CA }:: [Serenhaide](https://osu.ppy.sh/users/10466315), ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=FI }:: [verychill](https://osu.ppy.sh/users/10132936), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| 매퍼 | ::{ flag=GB }:: [\-Mo\-](https://osu.ppy.sh/users/2202163), ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=RU }:: [Alvearia](https://osu.ppy.sh/users/6248691), ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=US }:: [Elcheer](https://osu.ppy.sh/users/4420014), ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342), ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573), ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923), ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087), ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=US }:: [ItsWinter](https://osu.ppy.sh/users/6381153), ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506), ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377), ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=BR }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=KR }:: [Nakagawa\-Kanon](https://osu.ppy.sh/users/87065), ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=FR }:: [Raijodo](https://osu.ppy.sh/users/13400075), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=CA }:: [Serenhaide](https://osu.ppy.sh/users/10466315), ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=FI }:: [verychill](https://osu.ppy.sh/users/10132936), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 해설 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | 심판 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | 통계 | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -55,8 +55,8 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1645682)
 - [실시간 방송](https://www.twitch.tv/osulive)
-- [챌론지 대진표](https://challonge.com/OWC_22)
-- [승부예측 페이지](https://pickem.hwc.hr/tournaments/100) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
+- [Challonge 대진표](https://challonge.com/OWC_22)
+- [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/100) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
 - [정보 스프레드시트](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYxmXVoTl0pXz3Xk3cDl3PqtH_9vNHGt0GzaJkJ6Ss2wCYSoWppYK-BK6Dr51bZXVdZOakHLpxqZbU/pubhtml)
 
 ## 플레이어 목록
@@ -185,7 +185,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 - Tiebreaker
   1. **[Sunless Rise - Ghosts of the Past (ItsWinter) \[Winter & CallieCube's Breaking Point (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1884827#osu/3880731)**
 
-### 세미파이널
+### 준결승
 
 **[맵팩은 여기서 다운로드가 가능합니다 (180 MB)](https://drive.google.com/uc?id=1S7rSQcelhONeDEKPKyctDLtFAC6y2Ou6)**
 
@@ -216,7 +216,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 - Tiebreaker
   1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (Realazy) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1880652#osu/3871800)**
 
-### 쿼터파이널
+### 8강
 
 **[맵팩은 여기서 다운로드가 가능합니다 (173 MB)](https://drive.google.com/uc?id=1baNCKwNFgbH1SI4jn_ayyKiMkZ1edqWJ)**
 
@@ -356,7 +356,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 | **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/105179952) |
 | Poland ::{ flag=PL }:: | 3 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105186246) |
 
-### 세미파이널
+### 준결승
 
 자세한 통계는 [링크](https://docs.google.com/spreadsheets/d/19lvGbyiVteBzv3eHQbv1iF966tfng_FnE1yDBoA3l00)에서 확인할 수 있습니다.
 
@@ -384,7 +384,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 | --: | :-: | :-: | :-- | :-- |
 | **Romania** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105134869) |
 
-### 쿼터파이널
+### 8강
 
 자세한 통계는 [링크](https://docs.google.com/spreadsheets/d/1MnVEHWTadyiCH-GefJkJfqO6YmdYaQZT38Z2c8yWnAo)에서 확인할 수 있습니다.
 
@@ -534,7 +534,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 | #52 | ::{ flag=HR }:: Croatia | 3.841 |
 | #53 | ::{ flag=CH }:: Switzerland | 3.385 |
 
-## Ruleset
+## 규칙
 
 ### 토너먼트 규칙
 
@@ -618,26 +618,26 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 ### 스테이지 규칙
 
 1. 퀄리파이어 이후에, 더블 엘리미네이션 브라켓을 진행하게 됩니다. 승자조에 속한 팀은 승리할 경우 계속 승자조에 남게 되고, 패배한 팀은 패자조로 이동하게 됩니다. 패자조에서 패배할 경우 해당팀은 탈락하게 됩니다.
-2. 패자조에 있는 팀은 쿼터파이널부터 매주 주말마다 최대 2개의 경기를 치러야 합니다.
+2. 패자조에 있는 팀은 8강부터 매주 주말마다 최대 2개의 경기를 치러야 합니다.
 
 ### 승리 조건
 
 - 퀄리파이어에선, 더블 엘리미네이션 브라켓에 진출하기 위해서 시드를 배정받는 상위 32개 팀에 들어야 합니다.
-- 32강과 16강에선, 매치에서 5승을 하면 승리하게 됩니다. (best of 9).
-- 쿼터파이널과 세미파이널에선, 매치에서 6승을 하면 승리하게 됩니다. (best of 11).
-- 파이널과 그랜드 파이널에선, 매치에서 7승을 하면 승리하게 됩니다. (best of 13).
+- 32강과 16강에선, 매치에서 5승을 하면 승리하게 됩니다. (9판 5선승).
+- 8강과 준결승에선, 매치에서 6승을 하면 승리하게 됩니다. (11판 6선승).
+- 파이널과 그랜드 파이널에선, 매치에서 7승을 하면 승리하게 됩니다. (13판 7선승).
   - *참고: 그랜드 파이널 매치의 경우, 승자조에 있었던 팀이 토너먼트에서 우승하기 위해선 하나의 "세트" 즉, best of 13 매치에서 한번을 승리해야 합니다. 단, 패자조에 속해있던 팀은 2세트를 이겨야 합니다.*
 
 ### 경기 규칙
 
 1. 심판은 예정된 경기 시간 10분 전에 멀티 플레이어 방을 만들게 됩니다. 해당 기간 동안 팀은 로비에 참여해야 합니다.
    - 로비설정은 `Game mode: "osu!"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`이여야 하며, 방 이름은 `OWC2022: ({Red Team}) VS ({Blue Team})`이여야 합니다. 방 이름에 첫번째로 언급된 팀이 레드 팀이며, 두번째로 언급된 팀이 블루 팀이여야 합니다.
-2. 32강과 16강에선 **한개의 비트맵**을 밴하게 되며, 쿼터파이널부터 **두개의 비트맵**으로 늘어나게 됩니다. 각 팀은  No Mod를 제외한 같은 모드를 2개 이상 밴할 수 없습니다. 해당 비트맵은 경기가 진행되는 동안 어느 팀에서도 선택할 수 없습니다.
+2. 32강과 16강에선 **한개의 비트맵**을 밴하게 되며, 8강부터 **두개의 비트맵**으로 늘어나게 됩니다. 각 팀은  No Mod를 제외한 같은 모드를 2개 이상 밴할 수 없습니다. 해당 비트맵은 경기가 진행되는 동안 어느 팀에서도 선택할 수 없습니다.
 3. 각 캡틴은 `!roll`을 채팅으로 한번씩 사용하게 됩니다.
    - `!roll`의 승자는  **픽**의 순서를 결정할 수 있습니다.
    - 팀은 제한 없이 더블픽이 가능합니다. (즉, 2개이상의 동일한 모드 맵풀을 연속적으로 선택하는 경우를 의미합니다.)
    - `!roll`의 패자는 **밴**의 순서를 결정할 수 있습니다.
-   - **쿼터파이널부터, 첫번째로 밴하는 팀이 1개를 밴하고, 두번째에 밴하는 팀이 2개를 밴한뒤 다시 첫번째 팀에서 1개를 밴하게 됩니다.**
+   - **8강부터, 첫번째로 밴하는 팀이 1개를 밴하고, 두번째에 밴하는 팀이 2개를 밴한뒤 다시 첫번째 팀에서 1개를 밴하게 됩니다.**
 4. 밴이 결정되면, 양 팀은 차례대로 맵풀에서 비트맵을 픽하게 됩니다.
 5. 팀은 비트맵을 픽하는데 2분, 클라이언트에서 '준비' 버튼을 누르는데 2분의 시간이 주어집니다. 팀이 각 행동에서 더 많은 시간을 소비하는 경우, 다음과 같은 절차가 이뤄집니다.
    - 첫번째의 경우:
@@ -656,7 +656,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 3. 맵풀별 비트맵의 개수는 다음과 같습니다:
    - 퀄리파이어: 11개의 비트맵
    - 32강과 16강: 15개의 비트맵
-   - 쿼터파이널, 세미파이널, 파이널, 그랜드 파이널: 20개의 비트맵
+   - 8강, 준결승, 파이널, 그랜드 파이널: 20개의 비트맵
 4. Hidden, Hard Rock, Double Time은 모든 플레이어가 해당 모드를 활성화한 상태로 시작합니다.
 5. Nofail 모드는 모든 맵풀에 적용하게 됩니다
 6. Freemod에선 모드를 자유롭게 선택할 수 있습니다.
@@ -666,12 +666,12 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러명의 커뮤
 
 ### 스케줄 정보
 
-1. 각 스테이지는 **하나의 주말**에 진행됩니다.
+1. 각 스테이지는 **주말 마다** 진행됩니다.
 2. 퀄리파이어의 경우, 토너먼트 매니저가 제공한 특정 시간에 진행하게 됩니다. 각 팀은 플레이하고 싶은 시간대를 선택할 수 있습니다.
    - **2022년 10월 13일 목요일 23:59 UTC까지 시간을 선택하지 않은 팀은 대회에서 실격됩니다.**
 3. 모든 브라켓 스테이지는 토요일 00:00부터 일요일 19:00 UTC까지 진행합니다.
 4. 경기 일정은 토너먼트 매니저가 관리하게 됩니다. 일정은 스테이지 첫 경기전 일요일에 공개되며, 토너먼트 매니저는 플레이어들의 시간대를 존중하는 스케줄을 할려고 노력할 것입니다.
-   - 쿼터파이널 또는 그 이후에 캡틴은 그 다음주에 특정 시간대가 불가능한 경우, 토너먼트 매니저에게 알릴 수 있습니다.
+   - 8강 또는 그 이후에 캡틴은 그 다음주에 특정 시간대가 불가능한 경우, 토너먼트 매니저에게 알릴 수 있습니다.
 5. **일정 변경은 양 팀이 경기가 진행되는 주의 수요일 23:59 UTC 전에 각 팀이 동의하고 이를 토너먼트 매니저에게 알린 경우에만 고려됩니다.**
    - 경기는 해당 주의 **일요일, 19:00 UTC**을 넘겨서는 일정 변경이 되지 않을 수 있습니다.
    - **꼭 필요한 경우가 아니라면 일정 변경을 요청하지 마세요. 토너먼트 매니저는 요청을 거부할 권리를 보유합니다.**
