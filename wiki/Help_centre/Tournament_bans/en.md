@@ -8,7 +8,7 @@ Tournament bans are very rarely handed out on their own, but generally speaking 
 
 Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
 
-## What causes someone to receive a temporary tournament ban? {#why-temporary}
+## What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
 Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in an infringement outside of the competitive play setting.
 
@@ -16,9 +16,9 @@ As a real-world example, such behaviour would include drawing or writing hate sy
 
 All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
 
-## What causes someone to receive a permanent tournament ban? {#why-permanent}
+## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
-Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in a permanent tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment.
+Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in an indefinite tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment at the discretion of the support team.
 
 This includes situations like:
 
@@ -30,25 +30,29 @@ This includes situations like:
 - Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
 - Organising targeted abuse campaigns towards participants or organisers well outside the realm of criticism
 
-## Can I appeal a tournament ban? {#appeal}
+## Can I appeal a tournament ban? {id=appeal}
 
-Whether temporary or permanent, **tournament bans cannot be appealed**.
+Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
+
+Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
+
+Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
 
 In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
-## What can I do while tournament-banned? {#while-banned}
+## What can I do while tournament-banned? {id=while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
 
 Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
 
-## Common tournament ban reasons and durations {#reasons}
+## Common tournament ban reasons and durations {id=reasons}
 
 | Tournament ban reason | Duration | Notes |
 | :-- | :-- | :-- |
 | Player misconduct during an officially supported tournament | 1-2 years |  |
 | Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
-| Multi-accounting or account sharing during an officially supported tournament | Permanent | Will also cause a restriction |
-| Using third-party utilities or other cheating tools during an officially supported tournament | Permanent | Will also cause a restriction |
-| Utilising private/confidential tournament information to gain or confer an unfair advantage | Permanent | May also cause a restriction |
-| Severe abuse towards or harassment of tournament organisers/staff/participants | Permanent | May also cause a restriction |
+| Multi-accounting or account sharing during an officially supported tournament | Indefinite | Will also cause a restriction |
+| Using third-party utilities or other cheating tools during an officially supported tournament | Indefinite | Will also cause a restriction |
+| Utilising private/confidential tournament information to gain or confer an unfair advantage | Indefinite | May also cause a restriction |
+| Severe abuse towards or harassment of tournament organisers/staff/participants | Indefinite | May also cause a restriction |

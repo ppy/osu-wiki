@@ -4,7 +4,7 @@ Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
-Si necesita ayuda para hacer una contribución o desea una revisión de su solicitud de cambios, envíe un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server) y un mantenedor u otro colaborador le responderá (todos los mantenedores saben inglés).
+Si necesita ayuda para hacer una contribución o desea una revisión de su solicitud de cambios, envíe un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) y un mantenedor u otro colaborador le responderá (todos los mantenedores saben inglés).
 
 ## Mantenedores de la wiki
 
@@ -14,7 +14,7 @@ Si necesita ayuda para hacer una contribución o desea una revisión de su solic
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Activo** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Activo** | Japonés |
@@ -35,6 +35,7 @@ Curadores, editores y aprobadores de todas las [publicaciones de noticias](https
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
 ## Mantenedores pasados
 

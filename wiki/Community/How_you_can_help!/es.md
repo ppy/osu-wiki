@@ -42,7 +42,7 @@ osu! tiene un equipo dedicado de revisores, los [Beatmap Nominators](/wiki/Peopl
 
 - Mira o busca en la lista de [beatmaps pendientes](https://osu.ppy.sh/beatmapsets?s=pending) cualquier artista o canción que le guste y/o quieras contribuir.
 - Juega beatmaps en los estados [*Pending* o *Work-in-progress*](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y deja tus comentarios en la página de discusión del beatmap.
-- Lee la [guía de modding](/wiki/Modding) y los [criterios de clasificación](/wiki/Ranking_Criteria) para conocer los conceptos básicos del modding técnico y qué hace que un beatmap sea clasificable.
+- Lee la [guía de modding](/wiki/Modding) y los [criterios de clasificación](/wiki/Ranking_criteria) para conocer los conceptos básicos del modding técnico y qué hace que un beatmap sea clasificable.
 - Únete a los canales `#mapping` y `#modreqs` en el chat del juego y únete a la conversación o simplemente síguelos.
 - Si tienes el tiempo y la dedicación, crea una [cola de modding](https://osu.ppy.sh/community/forums/60) para que los creadores de beatmaps tengan un lugar para solicitarte mods.
 
@@ -58,7 +58,7 @@ A continuación se presentan algunas de las formas en que puedes contribuir:
 
 - Navega por el foro [Tournaments](https://osu.ppy.sh/community/forums/55). Los torneos requieren mucho tiempo y trabajo para organizarse sin contratiempos, y puedes ayudar siendo un juez espectador en algunos casos.
 - Ve lo que está pasando en el foro [Development](https://osu.ppy.sh/community/forums/2); aquí es donde suceden los proyectos más serios.
-  - ¡Únete al [Discord osu!dev](https://discord.gg/ppy)! ¡Incluso simplemente siguiendo y manteniéndose actualizado con el desarrollo de osu! y proyectos es una buena manera de mantenerse informado.
+  - ¡Únete al [servidor de Discord osu!](https://discord.gg/ppy)! ¡Incluso simplemente siguiendo y manteniéndose actualizado con el desarrollo de osu! y proyectos es una buena manera de mantenerse informado.
 - ¡Únete a un [proyecto de beatmap](https://osu.ppy.sh/community/forums/53) y aprende lo divertido que puede ser colaborar con otros!
 - ¡Comienza tu propio proyecto o únete a alguien más! Ya sea traer de vuelta a pippi bailando, o simplemente hacer algo genial para osu!, ¡cualquier cosa es aceptada!
   - Consulta una [lista de proyectos populares](/wiki/Community/Projects).

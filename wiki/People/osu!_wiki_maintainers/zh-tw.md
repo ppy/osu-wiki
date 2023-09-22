@@ -8,7 +8,7 @@ outdated_translation: true
 
 維護者會定期查看[議題追蹤頁](https://github.com/ppy/osu-wiki/issues)及審核貢獻者的 Pull Request。與其他貢獻者不同，維護者能夠編輯 Pull Request 並合併至儲存庫的 `master` 分支中，使變更正式上線。
 
-如果您在編輯時需要協助、或是您的 Pull Request 需要審核，請至 [osu!dev Discord 伺服器](/wiki/Community/osu!dev_Discord_server)的 `#osu-wiki` 頻道傳送訊息，維護者或其他貢獻者將會回覆 (請用英文撰寫)。
+如果您在編輯時需要協助、或是您的 Pull Request 需要審核，請至 [osu! Discord 伺服器](/wiki/Community/osu!_Discord_server)的 `#osu-wiki` 頻道傳送訊息，維護者或其他貢獻者將會回覆 (請用英文撰寫)。
 
 <!-- changed "all maintainers know English" to "please ask your question in english"-->
 
@@ -22,7 +22,7 @@ outdated_translation: true
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **活躍** | - |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | **活躍** | - |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 非活躍 | 西班牙語 |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | 非活躍 | 德語 |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | 非活躍 | 德語 |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | 非活躍 | - |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | 非活躍 | 德語 |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **活躍** | 日語 |
@@ -42,6 +42,7 @@ outdated_translation: true
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
 ## 過去的維護者
 

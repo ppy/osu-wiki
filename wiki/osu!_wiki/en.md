@@ -2,7 +2,7 @@
 
 The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered as a documentation of the history of osu!.
 
-All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
+All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu! Discord server](/wiki/Community/osu!_Discord_server). To learn how you can help the osu! wiki, check the following articles:
 
 - [Contribution guide](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -15,7 +15,7 @@ The [first attempts](https://osu.ppy.sh/community/forums/posts/1175876) of creat
 
 ## Structure
 
-The gateway to the osu! wiki is the [main page](/wiki/Main_Page), which is divided into several high-level categories, each having a general description and including a list of important articles. The articles not listed on the main page, which are typically more specific, can be reached either from other pages using inline links, or through the search feature of the website.
+The gateway to the osu! wiki is the [main page](/wiki/Main_page), which is divided into several high-level categories, each having a general description and including a list of important articles. The articles not listed on the main page, which are typically more specific, can be reached either from other pages using inline links, or through the search feature of the website.
 
 An individual article describes a single term or concept and gives a general overview on adjacent topics. To better illustrate the subject, it is divided into subsections covering different parts of the term. It may also include relevant screenshots or other visual explanations, or link to other articles on the topic.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
 

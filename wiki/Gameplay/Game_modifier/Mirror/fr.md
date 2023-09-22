@@ -5,9 +5,6 @@ tags:
   - MR
 ---
 
-<!-- TODO:
-- [ ] add images -->
-
 # Le mod Mirror
 
 ![Icône du mod MR](/wiki/shared/mods/MR.png "Icône du mod Mirror (MR)")

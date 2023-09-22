@@ -52,6 +52,6 @@ A detailed explanation about the second playfield can be found under [Game mode/
 
 ### Trivia
 
-- The Co-op mod was introduced on March 5, 2015
+- The Co-op mod was introduced on March 5, 2015.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

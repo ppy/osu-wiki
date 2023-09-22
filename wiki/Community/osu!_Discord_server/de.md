@@ -1,36 +1,64 @@
 ---
 tags:
   - development
+  - osu!dev
   - Softwareentwicklung
-outdated_translation: true
-outdated_since: ab2ef808dac39e172a7f370857bf9a3d8084be44
 ---
 
-# osu!dev Discord-Server
+# osu! Discord-Server
 
-**osu!dev** ist der offizielle [Discord](https://discordapp.com)-Server, um an den Open-Source und Community-Projekten von osu! zu arbeiten. Das ist das Forum, um mit dem [osu!-Team](/wiki/People/osu!_team) in Kontakt zu treten und an der Entwicklung teilzunehmen.
+Der **osu! Discord-Server**, vorher bekannt als **osu!dev**, ist der offizielle [Discord-Server](https://discord.com/) von osu! für entwicklungsrelevante Themen. Der Server dient als Sammelplatz, um an den Open-Source und Community-Projekten von osu! zu arbeiten und diese zu diskutieren. Das ist der wichtigste Ort, um an der Entwicklung teilzunehmen und mit dem [osu!-Team](/wiki/People/osu!_team) in Kontakt zu treten.
 
 Der dauerhafte Einladungslink lautet <https://discord.gg/ppy>.
 
 Wer neu auf dem Server ist, kann sich gerne im Kanal `#introductions` vorstellen. Das ist jedoch keine Voraussetzung, um mit dem Rest des Servers zu interagieren.
 
-## Projekte
+## Kanäle
 
-Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
+Der osu! Discord-Server verfügt über eine Reihe von Kanälen, von denen sich viele auf die Entwicklung eines oder zweier spezifischer Projekte konzentrieren.
 
-| Projekt | Kanal |
+### Allgemein
+
+| Kanal | Beschreibung |
 | :-- | :-- |
-| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmap/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_mode/osu!taiko) Star Rating und Performance-Punkte | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_mode/osu!catch) Star Rating und Performance-Punkte | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_mode/osu!mania) Star Rating und Performance-Punkte | `#difficulty-mania` |
-| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu!-Wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! Community Meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
+| `#welcome` | Server-Informationen |
+| `#introduction` | Selbstvorstellung |
+| `#general` | Allgemeine Diskussionen und Fehlerbehebungen bezogen auf osu! |
+
+### Client / Web
+
+| Kanal | Beschreibung |
+| :-- | :-- |
+| `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
+| `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
+| `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
+| `#github-feed` | Event-Feed für verschiedene [ppy-Repositories auf GitHub](https://github.com/ppy) |
+| `Meetings` (Stage-Kanal) | [osu! Community Meetings](/wiki/Community/osu!_community_meetings) und Besprechungen über den Entwicklungsfortschritt |
+
+### Diffcalc
+
+| Kanal | Beschreibung |
+| :-- | :-- |
+| `#difficulty-osu` | Berechnung der [Sternebewertung](/wiki/Beatmap/Star_rating) und [Performance-Punkte](/wiki/Performance_points) von [osu!](/wiki/Game_mode/osu!) |
+| `#difficulty-taiko` | Berechnung der Sternebewertung und Performance-Punkte von [osu!taiko](/wiki/Game_mode/osu!taiko) |
+| `#difficulty-catch` | Berechnung der Sternebewertung und Performance-Punkte von [osu!catch](/wiki/Game_mode/osu!catch) |
+| `#difficulty-mania` | Berechnung der Sternebewertung und Performance-Punkte von [osu!mania](/wiki/Game_mode/osu!mania) |
+
+### Community
+
+| Kanal | Beschreibung |
+| :-- | :-- |
+| `#featured-artists` | Erstellung von Beatmaps, Projekten und Playlists rund um [Featured Artists](/wiki/People/Featured_Artists) |
+| `#mappers-guild` | [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| `#osu-spotlights` | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| `#osu-wiki` | [osu!-Wiki](/wiki/osu!_wiki) |
+| `#osu-news` | [osu!monthly](/wiki/Community/osu!monthly) und allgemeine Berichterstattung für Neuigkeiten |
+| `#osu-loved` | [Project Loved](/wiki/Community/Project_Loved) |
+| `#tournaments` | [Turniere](/wiki/Tournaments) und [offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) |
+| `#community-meetings` | [osu! Community Meetings](/wiki/Community/osu!_community_meetings) |
+
+### Archiviert
+
+| Kanal | Beschreibung |
+| :-- | :-- |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) und das [Beatmap-Rankingsystem](/wiki/Beatmap_ranking_procedure) |

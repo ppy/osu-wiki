@@ -4,7 +4,7 @@
 
 관리자는 보통 GitHub의 [문제 보고](https://github.com/ppy/osu-wiki/issues)를 확인하며, 기여자가 신청한 Pull Request를 검토합니다. 다른 기여자들과는 다르게 관리자는 Pull Request를 수정할 수 있으며, 문서를 해당 위키 문서의 `master` 브랜치에 추가시키고, 변화된 부분을 공개하는 역할을 담당합니다.
 
-만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
+만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu! 디스코드 서버](/wiki/Community/osu!_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
 
 ## 위키 관리자
 
@@ -16,7 +16,7 @@
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **활동 중** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 활동 중이 아님 | 스페인어 |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | 활동 중이 아님 | 독일어 |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | 활동 중이 아님 | 독일어 |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | 활동 중이 아님 |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | 활동 중이 아님 | 독일어 |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **활동 중** | 일본어 |
@@ -37,6 +37,7 @@
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
 ## 전 관리자
 

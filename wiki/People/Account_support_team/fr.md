@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Équipe de support aux comptes
 
 *Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/Support_Team)*
@@ -34,7 +39,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 *Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
-- Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Rules/Contributor_Code_of_Conduct).
+- Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Rules/Contributor_code_of_conduct).
 - [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
 - Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#online-features).
 

@@ -89,7 +89,7 @@ Para supporter akan dapat menikmati berbagai fitur online yang osu! tawarkan sec
 | :-- | :-: | :-: |
 | [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) | `4 + min(jumlah beatmap Ranked, 4)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
 | Beatmap favorit | 100 | 1000 |
-| Teman | 250 | 500 |
+| Teman | 500 | 1000 |
 
 Di samping itu, para supporter juga akan dapat menikmati batas unduhan yang lebih longgar secara umum.
 

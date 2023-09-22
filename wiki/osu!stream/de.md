@@ -6,7 +6,7 @@
 
 **osu!stream** ist eine spezielle Version von osu!, die für tragbare Geräte mit [iOS](https://de.wikipedia.org/wiki/IOS_(Betriebssystem)) und [Android](https://de.wikipedia.org/wiki/Android_(Betriebssystem)) produziert wurde. Es kann kostenlos aus dem [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) und dem [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android) heruntergeladen werden.
 
-Im Gegensatz zum normalen osu! enthält osu!stream ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Im Gegensatz zum normalen osu! enthält osu!stream ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu!-Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 ## Geschichte
 
@@ -31,7 +31,7 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 - Installiere osu!stream
   - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
-  - Es wird empfohlen, auch das "Beatmaps hinzufügen" Kapitel zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
+  - Es wird empfohlen, auch das Kapitel [Beatmaps hinzufügen](#beatmaps-hinzufügen) zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
 ### Methode über USB
 
@@ -48,8 +48,8 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 **Versichere dich, dass das iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
 
 - Öffne osu!stream.
-- Drücke auf das osu! Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
-- Drücke die "Store" Leiste
+- Drücke auf das osu!-Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
+- Drücke die "Store"-Leiste
   - Alternativ kannst du auch in der "Play" Sektion auf "Download more songs!" drücken.
 - Wähle ein gewünschtes Paket aus.
 
@@ -68,7 +68,7 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ### Neues Spielsystem
 
-**Anmerkung:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
+**Anmerkung:** Teste die neuen Spielelemente im "Tutorial"-Bildschirm.
 
 #### Fingerführungsanzeige
 
@@ -128,7 +128,7 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 
-Die Hintergrundfrabe ist grün.
+Die Hintergrundfarbe ist grün.
 
 #### Streammodus
 
@@ -347,7 +347,7 @@ Das Folgende reduziert die Lebensleiste:
 - Nicht im Follow-Circle eines Sliders bleiben.
 - Einen Hold-Circle nicht halten, bis er explodiert.
 - Einen Spinner nicht drehen.
-- Einen Spinner nicht mit einer "Clear" Nachricht vervollständigen.
+- Einen Spinner nicht mit einer "Clear"-Nachricht vervollständigen.
 
 Im Gegensatz zu anderen Versionen von osu! reduziert sich die Lebensleiste hier nicht von selbst.
 
@@ -373,6 +373,6 @@ Meistens im Hauptmenü und im Tutorial zu hören.
 ## Links
 
 - [Offizielle Webseite](http://www.osustream.com) (nicht mehr aktuell)
-- [Diskussionsforum (osu! Webseite)](https://osu.ppy.sh/community/forums/79)
+- [Diskussionsforum (osu!-Webseite)](https://osu.ppy.sh/community/forums/79)
 - [GitHub Repository](https://github.com/ppy/osu-stream)
 - [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/)

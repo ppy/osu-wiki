@@ -29,7 +29,7 @@
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_Setup)は、ビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)や[ビートマップ](/wiki/Beatmap)に共通するその他の事項を入力します。これには、曲のタイトル、アーティスト、難易度名、コンボカラーなどが含まれます。
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup)は、ビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)や[ビートマップ](/wiki/Beatmap)に共通するその他の事項を入力します。これには、曲のタイトル、アーティスト、難易度名、コンボカラーなどが含まれます。
 
 ## その他
 

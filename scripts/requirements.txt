@@ -1,1 +1,1 @@
-osu-wiki-tools==1.1.3
+osu-wiki-tools==1.1.4

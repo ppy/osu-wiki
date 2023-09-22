@@ -46,7 +46,7 @@ osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被�
 
 - 找一找，或者在 [Pending 谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
 - 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 的谱面，并且在讨论页面给出你的反馈。
-- 阅读一下[摸图指南](/wiki/Modding)和[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 来了解摸图的技术基础和 Ranked 谱面的必备要素。
+- 阅读一下[摸图指南](/wiki/Modding)和[谱面上架标准 (RC)](/wiki/Ranking_criteria) 来了解摸图的技术基础和 Ranked 谱面的必备要素。
 - 加入游戏聊天中的 `#mapping` 和 `#modreqs` 频道，参与进讨论当中，或者看看别人在说什么。
 - 如果你有足够的时间和心力，你还可以提供一个[摸图列表](https://osu.ppy.sh/community/forums/60)，让谱师们请求你进行摸图的地方。
 
@@ -62,7 +62,7 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 - 浏览 [Tournaments](https://osu.ppy.sh/community/forums/55) 板块。比赛需要投入大量时间精力，一丝不苟的准备。有些时候你也可以加入，作为旁观者裁判来提供帮助。
 - 看看 [Development](https://osu.ppy.sh/community/forums/2) 板块的近况，这里是大多数专业认真项目聚集且实现的地方。
-  - 加入 [osu!dev Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
+  - 加入 [osu! Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
 - 加入一个[谱面项目](https://osu.ppy.sh/community/forums/53)，享受与他人协作所碰撞出的欢乐火花！
 - 自己开始一个新项目，或者加入其他人的项目！无论是带回来 dancing pippi，亦或是为 osu! 做点很酷的新东西，一切都没有问题！
   - 看看[人气项目列表](/wiki/Community/Projects)。

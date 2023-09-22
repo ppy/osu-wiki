@@ -2,7 +2,7 @@
 
 **osu! wiki** adalah basis pengetahuan sumber terbuka yang ditulis dan dikelola oleh [kontributor sukarelawan](https://github.com/ppy/osu-wiki/graphs/contributors). osu! wiki berisi berbagai informasi tentang topik yang terkait dengan osu!, komunitasnya, dan aktivitas serta konsep terkait. Wiki berfungsi sebagai sumber informasi resmi dan sebagai dokumentasi sejarah osu!.
 
-Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
+Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
 
 - [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide)
 - [Pemeliharaan](/wiki/osu!_wiki/Maintenance)
@@ -15,7 +15,7 @@ Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan art
 
 ## Struktur
 
-Pintu gerbang ke osu! wiki adalah [halaman utama](/wiki/Main_Page), yang dibagi menjadi beberapa kategori tingkat tinggi, masing-masing memiliki deskripsi umum dan mengandung daftar artikel penting. Artikel yang tidak terdaftar di halaman utama, yang biasanya lebih spesifik, dapat dijangkau baik dari halaman lain menggunakan tautan dalam artikel atau melalui fitur pencarian situs web.
+Pintu gerbang ke osu! wiki adalah [halaman utama](/wiki/Main_page), yang dibagi menjadi beberapa kategori tingkat tinggi, masing-masing memiliki deskripsi umum dan mengandung daftar artikel penting. Artikel yang tidak terdaftar di halaman utama, yang biasanya lebih spesifik, dapat dijangkau baik dari halaman lain menggunakan tautan dalam artikel atau melalui fitur pencarian situs web.
 
 Sebuah artikel menjelaskan satu istilah atau konsep dan memberikan gambaran umum tentang topik lain yang relevan. Agar lebih baik dalam menggambarkan sebuah subjek, artikel dibagi menjadi sub-bagian yang mencakup bagian yang berbeda dari subjek tersebut. Artikel juga dapat mencakup tangkapan layar yang relevan atau penjelasan visual lainnya, atau tautan ke artikel lain tentang topik tersebut.
 

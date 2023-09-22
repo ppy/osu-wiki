@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-The **Beatmap Spotlight Curators** (***BSC***) is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+The **Beatmap Spotlight Curators** (***BSC***) is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights). They are distinguished by their slate blue [user group](/wiki/People/User_group) badge that reads `BSC`.
 
 ## Becoming a curator
 
@@ -37,7 +37,6 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
 - ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
 - ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
 - ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
@@ -52,7 +51,6 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
 - ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
 ### osu!catch curators
@@ -61,7 +59,6 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
 - ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
@@ -73,7 +70,6 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 - ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)

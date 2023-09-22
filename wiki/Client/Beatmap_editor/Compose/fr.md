@@ -1,8 +1,13 @@
+---
+outdated_since: 5a3f6fe8caada3a78eff1bd3c26168a031475e88
+outdated_translation: true
+---
+
 # L'onglet Compose
 
-![L'onglet Compose pour le mode osu!](img/Compose-FR.png "L'onglet Compose pour le mode osu!")
+![L'onglet Compose pour le mode osu!](img/compose.jpg "L'onglet Compose pour le mode osu!")
 
-![L'onglet Compose pour le mode osu!mania](img/ComposeMania-FR.png "L'onglet Compose pour le mode osu!mania")
+![L'onglet Compose pour le mode osu!mania](img/compose-mania.jpg "L'onglet Compose pour le mode osu!mania")
 
 L'onglet **Compose** est l'endroit où un [mappeur](/wiki/Beatmapping) passe la plupart du temps à dessiner sa conception en fonction de la timeline après avoir défini les sections BPM et Timing. C'est aussi l'endroit où les joueurs peuvent s'entraîner à une difficulté classée et inspecter sa conception, un peu comme dans le mode Entraînement de DDR.
 
@@ -16,9 +21,7 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
 ### En haut à gauche (La Timeline des objets)
 
-<!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
-
-![La Timeline des objets](/wiki/shared/BE_NTL.jpg "La Timeline des objets")
+![La Timeline des objets](img/objects-timeline.jpg "La Timeline des objets")
 
 **Affiche la timeline des objets par rapport au Beat Snap Divisor et à l'horodatage.**
 
@@ -32,65 +35,19 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
 ### En haut à droite (Le Beat Snap Divisor)
 
-![Beat Snap Divisor](img/BE_BSD-FR.png "Beat Snap Divisor")
+![Beat Snap Divisor](img/beat-snap-divisor.jpg "Beat Snap Divisor")
 
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).**
 
 Maintenez la touche `Alt` pour déclencher le Distance Snap. La valeur peut être comprise entre x0.1 et x2.0.
 
-### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches seulement
-- A utiliser de préférence pour la difficulté facile.
-
-### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/BSD_1_2.jpg "Diviseur 1/2")
-
-- Demi-temps
-- Ajoute des ticks rouges
-
-### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/BSD_1_3.jpg "Diviseur 1/3")
-
-- Triplets *
-- A deux ticks violettes entre chaque ticks blanche
-- Timing composé
-
-### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/BSD_1_4.jpg "Diviseur 1/4")
-
-- Quarts de temps
-- Ajoute les ticks bleues, en plus des ticks rouges
-- Utile pour le mapping.
-
-### Diviseur 1/6
-
-![Diviseur 1/6](/wiki/shared/BSD_1_6.jpg "Diviseur 1/6")
-
-- Double Triplets *
-- A deux ticks violettes entre chaque ticks rouge
-- Timing composé
-
-### Diviseur 1/8
-
-![Diviseur 1/8](/wiki/shared/BSD_1_8.jpg "Diviseur 1/8")
-
-- Huitième temps
-- Ajoute des ticks jaunes, en plus des ticks rouges et bleues
-
 Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage actuel et **x/y** sont les coordonnées actuelles de la souris.
 
 ### Au centre à gauche (Sélecteur)
 
-![Sélecteur de notes](img/BE_HO-FR.png "Sélecteur de notes")
+![Sélecteur de notes](img/tools.jpg "Sélecteur de notes")
 
-**Votre boîte à outils de construction, faite pour vous**
+**Votre boîte à outils de construction, faite pour vous.**
 
 **Veuillez noter que dans le mode de jeu osu!, les hitsounds des notes par défaut fonctionnent différemment que dans osu!mania.**
 
@@ -115,7 +72,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 **Liste des sous-outils disponibles en complément de la boîte à outils originale.**
 
-![Hitsounds & Outils d'assistance](img/BE_HSAT-FR.png "Hitsounds & Outils d'assistance")
+![Hitsounds & Outils d'assistance](img/subtools.jpg "Hitsounds & Outils d'assistance")
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
@@ -139,7 +96,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 ### En bas à gauche (Timeline de la musique)
 
-![Timeline de la musique](img/BE_HSAT.jpg "Timeline de la musique")
+![Timeline de la musique](img/song-timeline.jpg "Timeline de la musique")
 
 En **bas à gauche**, il y a le **timestamp** en millisecondes (ms) et la **durée de la musique** en pourcentage. Le pourcentage peut être changé en "intro" ou "outro" s'il y a du storyboarding avant ou après la musique.
 
@@ -180,23 +137,23 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 ### En haut à droite (Beat Snap Divisor)
 
-![Beat Snap Divisor (osu!mania)](img/BEM_BSD-FR.png "Beat Snap Divisor (osu!mania)")
+![Beat Snap Divisor (osu!mania)](img/beat-snap-divisor-mania.jpg "Beat Snap Divisor (osu!mania)")
 
-*Article principal  : [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
+*Article principal  : [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier musique de la beatmap.
 
-Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **[keysound](#l'échantillonnage)**
+Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **keysound**
 
 ### Au centre à gauche (Sélecteur)
 
-**Votre boîte à outils de construction pour osu!mania, faite pour vous**
+**Votre boîte à outils de construction pour osu!mania, faite pour vous.**
 
 **Veuillez noter que les notes d'hitsound par défaut d'osu!mania fonctionnent différemment avec le mode osu!**
 
 - L'ajout d'un clap sur une note ne jouera que le son `hitclap` au lieu du son `hitclap` + `hitnormal` lors de la frappe dans osu!mania :
 
-![Sélecteur de notes (osu!mania)](img/BEM_HO-FR.png "Sélecteur de notes (osu!mania)")
+![Sélecteur de notes (osu!mania)](img/tools-mania.jpg "Sélecteur de notes (osu!mania)")
 
 #### Sélecteur
 
@@ -206,11 +163,11 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Additions | Auto, Normal, Soft, Drum | Même chose que ci-dessus, MAIS les réglages des additions écrasent les réglages du sampleset. Exemple : Timing **Drum 55%**, Sampleset **Soft**, alors que cette Additions est **Normal**, jouera tous les sons **Normal** sur les notes comme clap, normal, finish, whistle avec un volume de 55%. |
 | Select (`1`) | **Clic gauche/glisser :** Déplacement de l'horodatage et de l'emplacement d'une note. **Clic droit :** Supprimer la note. **`Ctrl` + Clic :** Sélection multiple. | Sélectionne et modifie les notes existantes. |
 | Circle (`2`) | **Clic gauche/droit :** Placer/supprimer la note. | Ajoute une note à la colonne actuelle en fonction de la position de la souris. |
-| Hold (`3`) | **Clic gauche (maintenu) :** Place une hold note et ajuste la longueur. **Relâcher à la fin: ** Définit la longueur de la hold note | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
+| Hold (`3`) | **Clic gauche (maintenu) :** Place une hold note et ajuste la longueur. **Relâcher à la fin :** Définit la longueur de la hold note | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
 
 ### Centre (Terrain de jeu)
 
-![Terrain de jeu (osu!mania)](/wiki/shared/BEM_PF.jpg "Terrain de jeu (osu!mania)")
+![Terrain de jeu (osu!mania)](img/playfield-mania.jpg "Terrain de jeu (osu!mania)")
 
 **Représentation visuelle de la beatmap basée sur l'horodatage actuel.**
 
@@ -219,7 +176,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Nom | Description |
 | :-- | :-- |
 | Boîte gauche | Intensité des notes (Timeline). |
-| Centre | Terrain de jeu actuel ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)). |
+| Centre | Terrain de jeu actuel ([Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)). |
 
 #### Colour notes
 
@@ -231,40 +188,9 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Couleur bleue | Note actuellement sélectionnée |
 | Couleur blanche/rose/jaune | Couleur normale des notes |
 
-#### Diviseur 1/1
-
-![Diviseur 1/1](/wiki/shared/1_1_m.jpg "Diviseur 1/1")
-
-- Battements complets
-- Ticks blanches uniquement
-- A utiliser de préférence pour les difficultés faciles
-
-#### Diviseur 1/2
-
-![Diviseur 1/2](/wiki/shared/1_2_m.jpg "Diviseur 1/2")
-
-- Demi battements
-- Ajoute des ticks rouges
-
-#### Diviseur 1/3
-
-![Diviseur 1/3](/wiki/shared/1_3_m.jpg "Diviseur 1/3")
-
-- Triplés
-- A deux ticks violettes entre chaque tick blanche
-- Timing composé
-
-#### Diviseur 1/4
-
-![Diviseur 1/4](/wiki/shared/1_4_m.jpg "Diviseur 1/4")
-
-- Quarts de battements
-- Ajoute des ticks bleues, en plus des ticks rouges.
-- Utile pour le mapping en général
-
 ### Au centre à droite (Hitsounds & Outils d'assistance)
 
-![Hitsounds & Outils d'assistance](img/BE_HSAT.jpg "Hitsounds & Outils d'assistance")
+![Hitsounds & Outils d'assistance](img/subtools.jpg "Hitsounds & Outils d'assistance")
 
 **Liste des sous-outils disponibles en complément de la boîte à outils.**
 
@@ -288,11 +214,11 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Passe du Beat Snap Divisor à la Distance Snap **`Alt` + Molette de la souris :** Ajuster le multiplicateur de distance de Snap. | La distance entre des notes consécutives sera snappé en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
-Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#l'échantillonnage)
+Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à L'échantillonnage
 
 ### En bas (Timeline de la musique)
 
-![Timeline de la musique](/wiki/shared/BE_STL.jpg "Timeline de la musique")
+![Timeline de la musique](img/song-timeline.jpg "Timeline de la musique")
 
 En **bas à gauche**, il indique **l'horodatage en millisecondes (ms)** et **la durée de la musique en %**.
 
@@ -311,7 +237,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 ### L'échantillonnage
 
-![Exemple de fenêtre pop-up (version Windows 8)](img/Sample_omc.jpg "Exemple de fenêtre pop-up (version Windows 8)")
+![Exemple de fenêtre pop-up](img/sample-import.jpg "Exemple de fenêtre pop-up")
 
 **L'échantillonnage** est un processus qui consiste à **ajouter du son à la note**. Pour commencer, sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap).
 
@@ -338,7 +264,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 | Delete | **Supprime le fichier sonore personnalisé.** Pour supprimer le fichier sonore associé à la note, utilisez le bouton "Reset". |
 | Apply | Applique le fichier sonore personnalisé sélectionné à cette note. |
 | Sample | Place ce fichier sonore personnalisé sélectionné dans le storyboard en respectant l'horodatage actuel. |
-| Sample list | [Fichiers sonores storyboardé](#exemple-de-liste-d'événements) |
+| Sample list | Fichiers sonores storyboardé |
 | Reset | Supprime le fichier son associé à la note |
 | Cancel | Ferme la fenêtre. |
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - hit objects
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9921
 ---
 
 <!-- TODO: should also have articles for each hit object -->
@@ -9,7 +10,7 @@ tags:
 
 # Hit object
 
-*Hit objects* are elements which players can interact with during gameplay of a [beatmap](/wiki/Beatmap). Each [gamemode](/wiki/Game_mode) has its own unique set of hit objects which changes the gameplay experience. For an overview of each gamemode's hit objects, see the following table:
+*Hit objects* are elements which players can interact with during gameplay of a [beatmap](/wiki/Beatmap). Each [game mode](/wiki/Game_mode) has its own unique set of hit objects which changes the gameplay experience. For an overview of each game mode's hit objects, see the following table:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |

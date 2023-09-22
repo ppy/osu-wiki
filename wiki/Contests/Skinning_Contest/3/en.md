@@ -28,6 +28,8 @@ The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinnin
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
 
+![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/soumetsu.png "Skinning Contest #3 winner badge") ![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/ralsei.png "Skinning Contest #3 2nd place badge") ![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/grapes.png "Skinning Contest #3 3rd place badge")
+
 ## Organisation
 
 The Skinning Contest #3 is run by various community members.
@@ -114,7 +116,7 @@ The Skinning Contest #3 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
-## Challenge: Chromatic Alteration {#challenge}
+## Challenge: Chromatic Alteration {id=challenge}
 
 **The colour palettes of all skin submissions must be limited to the visible spectrum of the following types of colour vision deficiencies**:
 

@@ -36,7 +36,7 @@ Catatan:
 
 ## Aspire
 
-Aspire adalah sebuah kontes beatmapping dengan satu pengecualian khusus, mereka tidak terikat pada [Ranking Criteria](/wiki/Ranking_Criteria).
+Aspire adalah sebuah kontes beatmapping dengan satu pengecualian khusus, mereka tidak terikat pada [Ranking Criteria](/wiki/Ranking_criteria).
 
 | Nomor Kontes | Beatmap | Mode | Mapper | Hasil | Skor |
 | :-: | :-- | :-: | :-- | :-- | :-- |

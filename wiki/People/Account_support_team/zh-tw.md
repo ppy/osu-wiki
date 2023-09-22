@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # 帳號支援團隊
@@ -38,7 +40,7 @@ no_native_review: true
 *提醒：若要檢舉任何玩家 (包括管理員) 的極端不當行為或性騷擾，請見[檢舉性騷擾](/wiki/Reporting_bad_behaviour/Abuse)。*
 
 - 對於管理員不當行為的疑慮。
-- 對於管理員觸犯了[貢獻者行為準則](/wiki/Rules/Contributor_Code_of_Conduct)的疑慮。
+- 對於管理員觸犯了[貢獻者行為準則](/wiki/Rules/Contributor_code_of_conduct)的疑慮。
 - [osu!store](https://osu.ppy.sh/store/listing) 的[付款問題](/wiki/Help_centre/Account#supporter)。
 - 無法或尚未在[幫助論壇](https://osu.ppy.sh/community/forums/5)獲得解決的技術性問題，例如[連線異常](/wiki/Help_centre/Client#online-features)。
 

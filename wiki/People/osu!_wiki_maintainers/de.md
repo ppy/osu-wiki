@@ -4,7 +4,7 @@ Die **Leiter des osu!-Wikis** pflegen das [osu!-Wiki](/wiki/osu!_wiki) über sei
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge (Pull-Requests) von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Vorschläge bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
 
-Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
+Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
 
 ## Wiki-Betreuer
 
@@ -14,7 +14,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktiv** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inaktiv |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inaktiv | Spanisch |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inaktiv | Deutsch |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inaktiv | Deutsch |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inaktiv |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inaktiv | Deutsch |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktiv** | Japanisch |
@@ -35,6 +35,7 @@ Kuratoren, Redakteure und Prüfer für alle [News-Beiträge](https://osu.ppy.sh/
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
 ## Frühere Betreuer
 

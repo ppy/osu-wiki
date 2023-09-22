@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d3592bb35b3055060a588302450b2c9716f9a92f
+---
+
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/osu!_team). Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
@@ -10,15 +15,15 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 ## Cara berpartisipasi
 
-Pertemuan komunitas osu! saat ini diselenggarakan pada Discord Stage yang ada di [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan secara langsung pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Seluruh sesi pertemuan biasanya berlangsung selama satu jam.
+Pertemuan komunitas osu! saat ini diselenggarakan pada Discord Stage yang ada di [server Discord osu!](https://discord.gg/ppy) dan disiarkan secara langsung pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Seluruh sesi pertemuan biasanya berlangsung selama satu jam.
 
-Setiap pertemuan akan diumumkan pada [server Discord osu!dev](https://discord.gg/ppy) yang disertai dengan tweet pengingat pada [akun Twitter peppy](https://twitter.com/ppy). Untuk mendapat notifikasi seputar pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada event yang bersangkutan.
+Setiap pertemuan akan diumumkan pada [server Discord osu!](https://discord.gg/ppy) yang disertai dengan tweet pengingat pada [akun Twitter peppy](https://twitter.com/ppy). Untuk mendapat notifikasi seputar pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada event yang bersangkutan.
 
 Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord di *channel* `#community-meetings` jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
 
 - Rencanakan poin pembicaraanmu sebelumnya dan buat poinmu seringkas mungkin.
 - Cobalah untuk mengangkat isu yang memengaruhi komunitas secara keseluruhan, bukan yang hanya menyangkut seputar dirimu saja.
-- Verifikasi akun pada server osu!dev tidak diwajibkan, namun hal ini dapat memperbesar kemungkinan pertanyaanmu untuk dapat dipilih pada sesi tanya-jawab yang ada.
+- Verifikasi akun pada server osu! tidak diwajibkan, namun hal ini dapat memperbesar kemungkinan pertanyaanmu untuk dapat dipilih pada sesi tanya-jawab yang ada.
 
 Tujuan dari pedoman di atas adalah agar masing-masing pertanyaan tidak memakan waktu lebih dari 5 menit untuk dibahas. Oleh karenanya, mohon dipahami bahwa pertanyaan yang sudah pernah dijawab atau yang terlalu umum tidak akan ditanggapi lebih lanjut.
 
@@ -49,4 +54,4 @@ Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Adapun
 
 ## Tautan terkait
 
-- [Discord osu!dev](https://discord.gg/ppy)
+- [Server Discord osu!](https://discord.gg/ppy)

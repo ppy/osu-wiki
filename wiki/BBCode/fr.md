@@ -1,5 +1,5 @@
 ---
-outdated_since: 2c129e5211a4caee7f4b7f2b189c6644b435fbbe
+outdated_since: 7076ff93d53765e07a3cfe9ff53bd92582ff540b
 outdated_translation: true
 ---
 
@@ -71,12 +71,12 @@ Bouton de la barre d'outils : ![Strike button](img/strike.png "Barré")
 ### Couleur
 
 ```
-[color=HEXCODE]texte[/color]
+[color=#HEXCODE]texte[/color]
 ```
 
 *Pour une liste de tous les noms de couleurs, voir [Noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS)*
 
-La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
+La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `#HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
 
 L'argument mentionné ci-dessus ne prend pas de guillemets (`"`), et n'a pas de couleur par défaut. Si aucun argument n'est spécifié, ou si des guillemets sont utilisés, la balise ne sera pas analysée comme une balise BBCode.
 
@@ -148,7 +148,21 @@ Les citations longues sont généralement utilisées dans des écrits plus forme
 
 ![Bouton de réponse aux citations](img/quotereply.png)
 
+### Code en ligne
+
+*Ne pas confondre avec [Bloc de codes](#bloc-de-codes).*
+
+```
+[c]text[/c]
+```
+
+La balise `[c]` permet de mettre en évidence du texte en ligne dans une police monospace. Sur le site d'osu!, le texte sera formaté avec une boîte grise autour de lui. Contrairement aux [blocs de codes](#bloc-de-codes), la balise ne peut être placée que sur une seule ligne.
+
+Dans les forums d'osu!, il est utilisé afin de mettre en avant, par exemple des raccourcis clavier ou des descriptions de boutons.
+
 ### Bloc de codes
+
+*Ne pas confondre avec [Code en ligne](#code-en-ligne).*
 
 ```
 [code]
