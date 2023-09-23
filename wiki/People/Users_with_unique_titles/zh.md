@@ -276,7 +276,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | 在 2008 年末，他在一周之内达到了 #104 名次，头衔由 ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) 颁发。请参见：[*美妙世界*](https://mzh.moegirl.org.cn/%E7%BE%8E%E5%A6%99%E4%B8%96%E7%95%8C) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了 osu! 全部上架谱面。 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [第一个解锁 *The Girl in the Forest* 奖章的玩家](https://osu.ppy.sh/community/forums/topics/662279) |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800?s=20) |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | 在 [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) 中获取了不可战胜的理论最大分数，占据了排行榜 #1 |
 
 ### 贡献者
