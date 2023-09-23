@@ -56,6 +56,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `artist` | Name of the artist |
 | `featured_artist` | Identifier of a [Featured Artist](/wiki/People/Featured_Artists) entry |
 | `creator` | Name of the difficulty creator |
+| `difficulty` | Name of the beatmap difficulty |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
