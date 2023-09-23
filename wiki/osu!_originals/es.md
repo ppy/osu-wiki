@@ -610,7 +610,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Desempate de la gran final |
 | [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Canción de los créditos |
 
-#### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysian Tournament 3](/wiki/Tournaments/OMMT/3)
+#### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysia Tournament 3](/wiki/Tournaments/OMMT/3)
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
