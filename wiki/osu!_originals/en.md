@@ -610,6 +610,13 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Grand Finals tiebreaker |
 | [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Ending credits scene |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysian Tournament 3](/wiki/Tournaments/OMMT/3)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - Veil of Maya](https://soundcloud.com/indekkusu/veil-of-maya) | [#1](https://osu.ppy.sh/beatmapsets/2040476) | Grand Finals tiebreaker |
+| [SiLiS - Asagao Acid Square](https://soundcloud.com/silis/asagao-acid-square) | [#1](https://osu.ppy.sh/beatmapsets/2040480) | Grand Finals RC5 |
+
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
 | Song | Beatmap | Notes |
@@ -663,6 +670,13 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [SAMString - NUMA](https://soundcloud.com/samstring/numa)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1570528) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/taiko.png) Nanahira Taiko Cup 2
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| breakchild - Nanahira Smackdown | [#1](https://osu.ppy.sh/beatmapsets/2044650) | Grand Finals HR2 |
+| [Nanahira - Petals (HowToPlayLN's Arrangement)](https://soundcloud.com/indekkusu/nanahira-petals-howtoplaylns-arrangement) | [#1](https://osu.ppy.sh/beatmapsets/2044644) | Grand Finals HR1 |
 
 #### ![](/wiki/shared/mode/osu.png) North America Tournament 2023
 
@@ -748,6 +762,15 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Livestream BGM |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Finals tiebreaker |
 | Tatsh - IMAGE REBORN -DIVINITY- | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Battle Royale 1v1 tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) Vietnamese Nationals Mania Championship 2023 - Oblitus Requiem
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - remembrance; image of him before departure](https://soundcloud.com/indekkusu/remembrance-image-of-him-before-departure) | [#1](https://osu.ppy.sh/beatmapsets/2028818) | Quarterfinals LN1 |
+| [Polarin - Ambivalence before VIOLET EYES :. <ultima_resistatio>](https://soundcloud.com/polarin0/ambivalence-before-violet-eyes-ultima_resistatio) | [#1](https://osu.ppy.sh/beatmapsets/2041029) | Grand Finals RC3 |
+| [t404:null - Oblitus Requiem \\\\against the forsaken legacy//](https://soundcloud.com/t404null/oblitus-requiem) | [#1](https://osu.ppy.sh/beatmapsets/2041165) | Grand Finals tiebreaker |
+| [The Musical Ghost vs. arc.sys - Re:Define ~beyond the divine ordeal~](https://soundcloud.com/the-musical-ghost/tmg-vs-arcsys-redefine-beyond-the-divine-ordeal-for-vnmc-finals-tiebreaker-2023) | [#1](https://osu.ppy.sh/beatmapsets/2036991) | Finals tiebreaker |
 
 ### Official song remix contest releases
 
@@ -853,6 +876,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |
 | happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |
 | [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |
+| [HowToPlayLN - Pr3dator](https://soundcloud.com/indekkusu/pr3dator) | [#1](https://osu.ppy.sh/beatmapsets/1663728) |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
 | Jinjin - Midnight Musing | [#1](https://osu.ppy.sh/beatmapsets/1980200) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |

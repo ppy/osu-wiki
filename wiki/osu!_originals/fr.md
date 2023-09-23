@@ -610,6 +610,13 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Tiebreaker des Grandes Finales |
 | [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Thème du générique de fin |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysian Tournament 3](/wiki/Tournaments/OMMT/3)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - Veil of Maya](https://soundcloud.com/indekkusu/veil-of-maya) | [#1](https://osu.ppy.sh/beatmapsets/2040476) | Tiebreaker des Grandes Finales |
+| [SiLiS - Asagao Acid Square](https://soundcloud.com/silis/asagao-acid-square) | [#1](https://osu.ppy.sh/beatmapsets/2040480) | RC5 des Grandes Finales |
+
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
 | Musique | Beatmap | Notes |
@@ -663,6 +670,13 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [SAMString - NUMA](https://soundcloud.com/samstring/numa)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1570528) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/taiko.png) Nanahira Taiko Cup 2
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| breakchild - Nanahira Smackdown | [#1](https://osu.ppy.sh/beatmapsets/2044650) | HR2 des Grandes Finales |
+| [Nanahira - Petals (HowToPlayLN's Arrangement)](https://soundcloud.com/indekkusu/nanahira-petals-howtoplaylns-arrangement) | [#1](https://osu.ppy.sh/beatmapsets/2044644) | HR2 des Grandes Finales |
 
 #### ![](/wiki/shared/mode/osu.png) North America Tournament 2023
 
@@ -748,6 +762,15 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [passchooo - chooo2023\_9](https://soundcloud.com/passchooo/chooo2023_9)[^fa] |  | Musique de fond du stream |
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Tiebreaker des finales |
 | Tatsh - IMAGE REBORN -DIVINITY- | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Tiebreaker 1v1 du Battle Royale |
+
+#### ![](/wiki/shared/mode/mania.png) Vietnamese Nationals Mania Championship 2023 - Oblitus Requiem
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - remembrance; image of him before departure](https://soundcloud.com/indekkusu/remembrance-image-of-him-before-departure) | [#1](https://osu.ppy.sh/beatmapsets/2028818) | LN1 des quarts de finale |
+| [Polarin - Ambivalence before VIOLET EYES :. <ultima_resistatio>](https://soundcloud.com/polarin0/ambivalence-before-violet-eyes-ultima_resistatio) | [#1](https://osu.ppy.sh/beatmapsets/2041029) | RC3 des Grandes Finales |
+| [t404:null - Oblitus Requiem \\\\against the forsaken legacy//](https://soundcloud.com/t404null/oblitus-requiem) | [#1](https://osu.ppy.sh/beatmapsets/2041165) | Tiebreaker des Grandes Finales |
+| [The Musical Ghost vs. arc.sys - Re:Define ~beyond the divine ordeal~](https://soundcloud.com/the-musical-ghost/tmg-vs-arcsys-redefine-beyond-the-divine-ordeal-for-vnmc-finals-tiebreaker-2023) | [#1](https://osu.ppy.sh/beatmapsets/2036991) | Tiebreaker des finales |
 
 ### Concours de remix de musiques officielles
 
@@ -853,6 +876,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |
 | happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |
 | [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |
+| [HowToPlayLN - Pr3dator](https://soundcloud.com/indekkusu/pr3dator) | [#1](https://osu.ppy.sh/beatmapsets/1663728) |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
 | Jinjin - Midnight Musing | [#1](https://osu.ppy.sh/beatmapsets/1980200) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |
