@@ -5,7 +5,7 @@
 `skin.ini` 是几乎可以在所有皮肤文件夹中找到的初始化文件。
 此文件会定义 osu! 显示特定皮肤元素的方式。
 
-**注意：**`skin.ini` 中的参数区分大小写，请确保拼写与大小写格式正确！
+**注意：** `skin.ini` 中的参数区分大小写，请确保拼写与大小写格式正确！
 
 ## 版本
 
@@ -320,56 +320,56 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
     - 当禁用谱面皮肤或使用皮肤默认颜色时，会使用此参数。
     - 如果定义了此颜色，则会第七个出现。
 - `InputOverlayText:`
-  - 问题：What colour should the numbers on the input keys be tinted in?
+  - 问题：输入按键上的数字应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`0,0,0`
   - 备注：
-    - 这是for [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch) only。
-    - This tints the numbers shown on the input overlay.
+    - 此参数仅适用于 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch)。
+    - 这是显示在输入覆盖层上数字的颜色。
 - `MenuGlow:`
-  - 问题：What colour should the spectrum bars in the main menu be coloured in?
+  - 问题：主菜单的频谱条应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`0,78,155`
   - 备注：
-    - [osu!supporter](/wiki/osu!supporter) required
+    - 需要 [osu!支持者](/wiki/osu!supporter)
 - `SliderBall:`
-  - 问题：What colour should the default sliderball be coloured in?
+  - 问题：默认滑条球应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`2,170,255`
   - 备注：
-    - 这是for [osu!](/wiki/Game_mode/osu!)。
-    - Default sliderball's colour if tinting is disabled in [options](/wiki/Client/Options).
+    - 此参数仅适用于 [osu!](/wiki/Game_mode/osu!)。
+    - 如果在[设置](/wiki/Client/Options)中禁用着色，则会使用默认滑条球的颜色。
 - `SliderBorder:`
-  - 问题：the sliderborders?应该使用什么颜色？
+  - 问题：滑条外缘应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`255,255,255`
   - 备注：
-    - 这是for [osu!](/wiki/Game_mode/osu!) only。
+    - 此参数仅适用于 [osu!](/wiki/Game_mode/osu!)。
 - `SliderTrackOverride:`
-  - 问题：What colour should all sliderbodies be coloured in?
+  - 问题：所有滑条体应该使用什么颜色？
   - 值：*RGB*
-  - 默认值：*use current combo colour*
+  - 默认值：*使用当前串的颜色*
   - 备注：
-    - 这是for [osu!](/wiki/Game_mode/osu!) only。
-    - Using this will make all slider track colours the same.
+    - 此参数仅适用于 [osu!](/wiki/Game_mode/osu!)。
+    - 如果使用此参数，则所有滑条路径的颜色都会完全相同。
 - `SongSelectActiveText:`
-  - 问题：What colour should the text of the active panel be tinted in?
+  - 问题：活跃面板的文字应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`0,0,0`
 - `SongSelectInactiveText:`
-  - 问题：What colour should the text of the inactive panels be tinted in?
+  - 问题：不活跃面板的文字应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`255,255,255`
 - `SpinnerBackground:`
-  - 问题：What colour should be added to the spinner-background?
+  - 问题：应该给 spinner-background 元素添加什么颜色？
   - 值：*RGB*
   - 默认值：`100,100,100`
 - `StarBreakAdditive:`
-  - 问题：What colour should be added to star2 during breaks?
+  - 问题：休息时段期间，应该给 star2 元素添加什么颜色？
   - 值：*RGB*
   - 默认值：`255,182,193`
   - 备注：
-    - colour of `star2` during breaks
+    - 休息时段期间 `star2` 的颜色
 
 ## \[Fonts\]
 
@@ -434,12 +434,12 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
 
 **备注：**
 
-- If you want to fully customise the osu!mania stage, use skin version `2.5` 或 higher.
-- Commands that are asking where to position something horizontally are based on a height of 480 pixels.
-- When a command is depend on the total number of keys:
-  - using too many and the extras are ignored.
-  - not using enough and the missing values will use default values.
-- **Each keycount *must* start a new section**, it should look like this (but with actual commands):
+- 如果你想要完全自定义 osu!mania 舞台，请使用 `2.5` 及以上的皮肤版本。
+- 对于询问某物水平位置的参数，应以 480 像素的高度为基准。
+- 当参数依赖于总键数时：
+  - 当填入的值过多，冗余的值会被忽略。
+  - 当填入的值不足，缺失的值会使用默认值。
+- **每个不同的键数都*必须*另起新小节**，看上去应该这样（但要有真实参数）：
 
 ```
 ...
@@ -477,209 +477,209 @@ Keys: 5
   - 备注：
     - 每个键数的设置**都需要**此参数。
 - `ColumnStart:`
-  - 问题：最左列放在哪里？
+  - 问题：从哪里开始放置最左列？
   - 值：*数字*
   - 默认值：`136`
 - `ColumnRight:`
-  - 问题：列最多可以绘制到哪一点？
+  - 问题：列最多可以绘制到哪里？
   - 值：*数字*
   - 默认值：`19`
 - `ColumnSpacing:`
-  - 问题：列之间的距离分别是多少？
-  - 值：comma-split list with numbers
+  - 问题：列与列之间的距离分别是多少？
+  - 值：逗号分隔的数字列表
   - 默认值：`0`
   - 备注：
-    - This is the spacing **between** the columns
-    - The gap will be transparent.
+    - 这是列与列**之间**的间距。
+    - 列与列间的间隔透明。
 - `ColumnWidth:`
   - 问题：每一列的宽度分别是多少？
-  - 值：comma-split list with numbers
+  - 值：逗号分隔的数字列表
   - 默认值：`30`
   - 备注：
-    - It is suggested to keep this thin if high keycounts 或 wide keys are used.
+    - 如果使用的键数较大或按键较宽，建议使参数值较小。
 - `ColumnLineWidth:`
-  - 问题：列间分隔线分别有多宽？
-  - 值：comma-split list with numbers
+  - 问题：列与列间的分隔线宽度分别是多少？
+  - 值：逗号分隔的数字列表
   - 默认值：`2`
 - `BarlineHeight:`
-  - 问题：小节线有多宽？
+  - 问题：小节线的宽度是多少？
   - 值：*数字*
   - 默认值：`1.2`
 - `LightingNWidth:`
-  - 问题：Which widths should `LightingN` use for all columns individually?
-  - 值：*comma-split list with numbers*
+  - 问题：每一列 `LightingN` 的宽度分别是多少？
+  - 值：*逗号分隔的数字列表*
   - 默认值：*（空）*
 - `LightingLWidth:`
-  - 问题：Which widths should `LightingL` use for all columns individually?
-  - 值：*comma-split list with numbers*
+  - 问题：每一列 `LightingL` 的宽度分别是多少？
+  - 值：*逗号分隔的数字列表*
   - 默认值：*（空）*
 - `WidthForNoteHeightScale:`
-  - 问题：Which height should all notes have if columns have individual widths?
+  - 问题：如果列宽不同，所有音符的高度应该是多少？
   - 值：*数字*
   - 备注：
-    - If not defined, the height scale of the smallest column width is used
+    - 如果没有定义此参数，则会使用与最小列宽成正比的高度。
 - `HitPosition:`
-  - 问题：On which height should the [judgement](/wiki/Gameplay/Judgement) line be drawn at?
+  - 问题：[判定](/wiki/Gameplay/Judgement)线绘制的高度应该是多少？
   - 值：整数
   - 默认值：`402`
   - 备注：
-    - `StageHint`, `LightingN`, and `LightingL` are drawn at this position
+    - `StageHint`、`LightingN` 和 `LightingL` 都会绘制在此位置
 - `LightPosition:`
   - 问题：游玩区域闪光绘制的高度应该是多少？
   - 值：*整数*
   - 默认值：`413`
   - 备注：
-    - 这是only for `StageLight`。
+    - 此参数只适用于 `StageLight`。
 - `ScorePosition:`
   - 问题：打击结果出现位置的高度应该是多少？
   - 值：*整数*
   - 备注：
-    - The hitbursts will be vertically centred on the stage.
+    - 打击结果位于舞台上垂直居中的位置。
 - `ComboPosition:`
   - 问题：连击计数器出现的高度应该是多少？
   - 值：*整数*
   - 备注：
-    - The combo counter will be vertically centred on the stage.
+    - 连击计数器位于舞台上垂直居中的位置。
 - `JudgementLine:`
   - 问题：StageHint 上方是否应该再绘制一条线？
   - 值：`0` 或 `1`
   - 备注：
-    - 这是the hint for when the keys should be pressed。
+    - 这是指示按下按键时机的提示线。
 - `LightFramePerSecond:`
-  - 问题：*unknown*
-  - 值：*unknown*
+  - 问题：*未知*
+  - 值：*未知*
   - 备注：
-    - May be obsolete.
+    - 可能已被弃用。
 - `SpecialStyle:`
-  - 问题：What SpecialStyle is used for this keycount if available?
+  - 问题：如果可用，此键数该如何使用特殊键？
   - 值：`0`, `1`, 或 `2`
   - 默认值：`0`
   - 备注：
-    - `0` = none
-    - `1` = (left (SP) 或 outer (DP) lane)
-    - `2` = (right (SP) 或 inner (DP) lane)
-    - For even keycounts, more than 4.
-    - For DP, the centre between the stages is used for determining positions.
+    - `0` = 无
+    - `1` = （左侧 (SP) 或 外侧 (DP) 键位）
+    - `2` = （右侧 (SP) 或 内侧 (DP) 键位）
+    - 此参数适用于大于 4 的偶数键数。
+    - 对于 DP 模式，两个舞台间的正中央处用于决定位置。
 - `ComboBurstStyle:`
-  - 问题：On what side should the comboburst appear?
+  - 问题：连击提示图应该出现在哪一侧？
   - 值：`0`, `1`, 或 `2`
   - 默认值：`1`
   - 备注：
     - `0` = `Left`
     - `1` = `Right`
     - `2` = `Both`（随机）
-    - You can use the words 或 values, both are accepted.
-    - Combobursts will be flipped on the right stage half.
+    - 你可以用单词或数值，两者都会被接受。
+    - 出现在舞台右侧的连击提示图会被左右翻转。
 - `SplitStages:`
-  - 问题：Should the stage be split into 2 stages?
+  - 问题：将舞台一分为二吗？
   - 值：`0` 或 `1`
   - 备注：
-    - This value is forced, if defined.
-    - `0` = no splitting / forced SP
-    - Each keycount higher than 1 can be splitted (或 merged, if count is higher than 9).
+    - 如果定义了此参数，就必须赋一个值。
+    - `0` = 不分割 / 强制使用 SP
+    - 键数大于 1 时会分割舞台（如果键数大于 9 时，则会合并起来）。
 - `StageSeparation:`
-  - 问题：What distance should the 2 stages have when splitted?
+  - 问题：当舞台被分割时，两个舞台间的间距应该是多少？
   - 值：*数字*
   - 默认值：`40`
-  - 备注： The distance of the two stages, if split.
+  - 备注：当舞台被分割时，两个舞台间的距离。
 - `SeparateScore:`
-  - 问题：Should the hitburst only be shown on the stage it was scored on?
+  - 问题：打击结果应该只显示在得分的舞台上吗？
   - 值：`0` 或 `1`
   - 默认值：`1`
   - 备注：
-    - `0` = shows on both stages at the same time
-    - `1` = shows when hit on specific stage
-    - For DP, each stage gets shown its own judgement 或 of both stages
+    - `0` = 在两个舞台上同时显示
+    - `1` = 只显示在打击的舞台上
+    - 对于 DP 模式，每个舞台可以单独显示各自的判定，也可以两个舞台同时显示。
 - `KeysUnderNotes:`
-  - 问题：Should the keys be covered by notes when passing them?
+  - 问题：当音符经过按键时，按键应该被音符覆盖吗？
   - 值：`0` 或 `1`
   - 默认值：`0`
   - 备注：
-    - should be used depending on note and key designs.
+    - 应该参照音符与按键的设计使用此参数。
 - `UpsideDown:`
-  - 问题：Should the stage always be upside down?
+  - 问题：舞台应该上下颠倒吗？
   - 值：`0` 或 `1`
   - 默认值：`0`
   - 备注：
-    - Act like DDR/StepMania?
+    - 仿效 DDR/StepMania 的行为？
 - `KeyFlipWhenUpsideDown:`
-  - 问题：Should **all** of the keys be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，**所有**按键都应该上下翻转吗？
   - 值：`0` 或 `1`
   - 默认值：`1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - This applies for all columns.
+    - 此参数对所有列都适用。
 - `KeyFlipWhenUpsideDown#:`
-  - 问题：Should the **specified column's** key be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，**指定列的**按键应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - This applies for the specified column.
-    - Replace `#` with a valid column index (from 0 to 17).
+    - 此参数用于指定列。
+    - 将 `#` 换成有效的列数（从 0 到 17）。
 - `NoteFlipWhenUpsideDown:`
-  - 问题：Should all of the notes be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，所有音符应该上下翻转吗？
   - 值：`0` 或 `1`
   - 默认值：`1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - This applies for all columns.
+    - 此参数对所有列都适用。
 - `KeyFlipWhenUpsideDown#D:`
-  - 问题：Should 此列的 pressed key be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，指定列按下的按键应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - This applies for the specified column's pressed key state.
+    - 此参数用于指定列已按下按键的状态。
 - `NoteFlipWhenUpsideDown#:`
-  - 问题：Should 此列的 note be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，指定列的音符应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - 此元素是每列特有的。 (for notes)
+    - 此元素（对于音符）是每列特有的。
 - `NoteFlipWhenUpsideDown#H:`
-  - 问题：Should 此列的 hold note head be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，指定列的长按音符头应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - 此元素是每列特有的。 (for head parts)
+    - 此元素（对于音符头部）是每列特有的。
 - `NoteFlipWhenUpsideDown#L:`
-  - 问题：Should 此列的 hold note body be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，指定列的长按音符体应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - 此元素是每列特有的。 (for length parts)
+    - 此元素（对于音符主体）是每列特有的。
 - `NoteFlipWhenUpsideDown#T:`
-  - 问题：Should 此列的 hold note tail be flipped when the stage is flipped?
+  - 问题：当舞台上下颠倒时，指定列的长按音符尾应该上下翻转吗？
   - 值：`0` 或 `1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - 此元素是每列特有的。 (for tail parts)
+    - 此元素（对于音符尾部）是每列特有的。
 - `NoteBodyStyle:`
-  - 问题：What style should be used for all hold note bodies?
+  - 问题：所有长按音符体应该使用什么样式？
   - 值：`0`, `1`, 或 `2`
   - 默认值：`1`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - All columns.
+    - 适用于所有列。
 - `NoteBodyStyle#:`
-  - 问题：What style should be used for all hold note bodies?
+  - 问题：指定列的长按音符体应该使用什么样式？
   - 值：`0`, `1`, 或 `2`
   - 备注：
     - 皮肤版本需要高于 `2.5`。
-    - 此元素是每列特有的。 (for notes)
+    - 此元素（对于音符）是每列特有的。
 - `Colour#:`
-  - 问题：此列的 lane?应该使用什么颜色？
+  - 问题：指定列的背景应该使用什么颜色？
   - 值：*RGB(a)*
   - 默认值：`0,0,0,255`
   - 备注：
-    - For the specific column's background.
-    - `#` starts at `1`
+    - 用于指定列的背景。
+    - `#` 从 `1` 开始。
 - `ColourLight#:`
-  - 问题：此列的 lighting?应该使用什么颜色？
+  - 问题：指定列的闪光应该使用什么颜色？
   - 值：*RGB*
   - 默认值：`55,255,255`
   - 备注：
-    - 此元素是每列特有的。 (StageLight).
-    - `#` starts at `1`
+    - 此元素 (StageLight) 是每列特有的。
+    - `#` 从 `1` 开始。
 - `ColourColumnLine:`
   - 问题：列与列间的分隔线应该使用什么颜色？
   - 值：*RGB(a)*
@@ -713,32 +713,32 @@ Keys: 5
   - 备注：
     - 这是断连时连击计数器的颜色。
 - `KeyImage#:`
-  - 问题：此列未按下按键图像的文件名是什么？
+  - 问题：指定列未按下按键图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列未按下按键的图像。
 - `KeyImage#D:`
-  - 问题：此列已按下按键图像的文件名是什么？
+  - 问题：指定列已按下按键图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列已按下按键的图像。
 - `NoteImage#:`
-  - 问题：此列音符图像的文件名是什么？
+  - 问题：指定列音符图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列音符的图像。
 - `NoteImage#H:`
-  - 问题：此列的长按音符头图像的文件名是什么？
+  - 问题：指定列的长按音符头图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列长按音符头的图像。
 - `NoteImage#L:`
-  - 问题：此列的长按音符体图像的文件名是什么？
+  - 问题：指定列的长按音符体图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列长按音符体的图像。
 - `NoteImage#T:`
-  - 问题：此列的长按音符尾图像的文件名是什么？
+  - 问题：指定列的长按音符尾图像的文件名是什么？
   - 值：文本 *（图像路径）*
   - 备注：
     - 这是指定列长按音符尾的图像。
