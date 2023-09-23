@@ -191,7 +191,7 @@ The following NAT members are primarily evaluators, but also contribute to struc
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV Plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | [Ranking criteria test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) maintenance |
