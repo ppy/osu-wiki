@@ -132,7 +132,6 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
@@ -145,7 +144,6 @@ NAT 领导人的职责是：
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语，法语 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 |
 
 #### osu!taiko
 
@@ -182,7 +180,7 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [NAT/BN 网站](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
@@ -193,7 +191,7 @@ NAT 领导人的职责是：
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 处理玩家举报和 [SEV 分数](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT 领导，开发 [NAT/BN 网站](https://bn.mappersguild.com)，处理 osu!taiko [SEV 分数](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 组织 BN 大型活动 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | 维护 [RC 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) |
