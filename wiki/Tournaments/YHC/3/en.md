@@ -15,7 +15,7 @@ The **Yuyuko's Hidden Cup Season 3** (***YHC S3***) was a team-based 4v4 double-
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2023-06-01/2023-06-15 |
-| Drawings | 2023-06-16 (20:00 UTC+08) |
+| Drawings | 2023-06-16 (20:00 UTC+8) |
 | Elimination stage 1 | 2023-06-16/2023-06-25 |
 | Elimination stage 2 | 2023-06-26/2023-07-09 |
 | Elimination stage 3 | 2023-07-10/2023-07-29 |
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 1. The Yuyuko's Hidden Cup Season 3 is a entertainment-oriented double elimination 4v4 team tournament, played on the osu! game mode.
 2. Beatmap scoring is based on ScoreV2.
 3. Based on the number of registration, **the size for a team is 7 players**.
-4. The beatmap list for each next round will be announced by the mappool selectors on the official live stream, on the weekend (Friday 12:00 - Monday 23:00) after the matches take place.
+4. The beatmap list for each next round will be announced by the mappool selectors on the official live stream, on the weekend (Friday 12:00 UTC+8 - Monday 23:00 UTC+8) after the matches take place.
 5. The default match schedules for each round will be announced by the tournament managers in the information (main) sheet, on Sunday before the last matches take place. The captain may have a discussion with the opponent and confirm the match time before Saturday 00:00 on the same week.
 6. Use of the Visual Settings panel to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
@@ -313,7 +313,7 @@ This competition has come to an end and resulted in the following podium:
 ### Scheduling information
 
 1. Each stage will be held on **a single or double weekend**.
-2. All bracket stages will be held between Wednesday 00:00 and Sunday 22:00 UTC+8.
+2. All bracket stages will be held between Wednesday 00:00 UTC+8 and Sunday 22:00 UTC+8.
 3. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday after the last matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones and time favors.
    - In addition, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
 4. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament managers, before Friday 23:59 UTC+8 of the week the match is to take place on.**
