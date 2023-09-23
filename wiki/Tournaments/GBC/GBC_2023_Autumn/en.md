@@ -229,8 +229,9 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
    - Picks and bans should be sent in the same message. If the ban is delayed, or the message causes a disagreement or misunderstanding, the referee has the right to ignore the ban.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player, and 2 minutes to get ready. 
-   - A team can request a timeout when they are picking a map. The timeout lasts 3 minutes and will be used after the map pick timer.
+   - A team can request a timeout when they are picking a map. The timeout lasts 2 minutes and will be used after the map pick timer.
    - No matter which team needs to timeout after their pick, it can only allowed with the consent of both captains.
+   - The tactical timeout may be called on a tiebreaker.
 7. If a team takes more time than allowed, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee.
@@ -240,8 +241,6 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
      - For map picks, a random map will be chosen from the mappool using `!roll X`, where X is the number of maps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer, the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the host.
-8. Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
-   - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 
 ### Mappool instructions
 
