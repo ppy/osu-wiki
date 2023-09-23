@@ -8,7 +8,7 @@ tags:
 
 # GBC 2023 秋季赛
 
-![GBC 2023 Autumn banner](img/GBC-2023-Autumn-Banner.png)
+![GBC 2023 Autumn banner](img/banner.png)
 
 **GBC 2023 秋季赛** (***GB 杯 2023 秋季赛***) 是由 GB 组织主办的 3v3 队长选秀制 osu!mania 4k 项目赛事。本届比赛是 GBC 系列赛事的第四届正式比赛。
 

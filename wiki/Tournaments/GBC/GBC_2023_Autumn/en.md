@@ -8,7 +8,7 @@ tags:
 
 # GB Cup 2023 Autumn
 
-![GBC 2023 Autumn banner](img/GBC-2023-Autumn-Banner.png)
+![GBC 2023 Autumn banner](img/banner.png)
 
 The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It was the fourth instalment of the GB Cup.
 
