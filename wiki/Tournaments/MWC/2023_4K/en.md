@@ -113,19 +113,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 
 ## Match schedule: Grand Finals
 
-### Saturday, 23 September 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T130000&p1=1440&p2=235&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-grand-finals] |
-| All-stars Red | All-stars Blue | [Sep 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230923T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
 ### Sunday, 24 September 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 24 (Sun) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T033000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-final] |
-| United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230924T150000&p1=1440&p2=263&p3=108) | [osulive](https://twitch.tv/osulive) | [^grand-final] |
 
 ## Mappools
 
@@ -297,6 +289,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 8. [Kou! - Xuasar Charge (0DZ0) \[Stage 8: A Sea of Stars\]](https://osu.ppy.sh/beatmapsets/2039336#mania/4253740)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 23 September 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/110580928) | [#1](https://www.twitch.tv/videos/1933061220) |
 
 ### Finals
 
@@ -622,8 +622,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^showmatch]: Grand Finals showmatch — best-performing players from eliminated teams play against each other
-[^losers-grand-finals]: Losers bracket Grand Finals match
 [^grand-final]: Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
