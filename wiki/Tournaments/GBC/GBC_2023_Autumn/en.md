@@ -166,8 +166,8 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - Drafting order will also be declared by the host.
    - Captains are selected by performance and preference.
    - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
+   - The drafting phase for the two divisions will be held separately, and the number of teams will be determined by the number of players who have passed the Qualifier round in corresponding division.
 2. Captains decide their team members during the drafting phase.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captain gets to choose 4 players.
    - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
