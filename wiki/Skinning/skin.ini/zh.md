@@ -1,6 +1,6 @@
 # skin.ini
 
-*另见： [skin.ini / 空白 skin.ini 文件](/wiki/Skinning/skin.ini/Blank)*
+*另见：[skin.ini / 空白 skin.ini 文件](/wiki/Skinning/skin.ini/Blank)*
 
 `skin.ini` 是几乎可以在所有皮肤文件夹中找到的初始化文件。
 此文件会定义 osu! 显示特定皮肤元素的方式。
@@ -20,7 +20,7 @@
 
 - 打击圈的数字是打击爆炸效果的一部分。
 - 打击闪光 (`lighting.png`) 会大范围扩大。
-- 旧样式转盘 (`spinner-circle.png`、 `spinner-background.png` 和 `spinner-metre.png`)。
+- 旧样式转盘 (`spinner-circle.png`、`spinner-background.png` 和 `spinner-metre.png`)。
 - 会叠加分段的倒计时图像。
 - 选歌界面底栏图像较小（最大高度 87px）。
 - 休息时段末尾显示未着色的 play-warningarrow。
@@ -33,7 +33,7 @@
 
 - 高清皮肤。
   - 在皮肤元素中使用 `@2x.png` 后缀，可以让 osu! 知道皮肤元素的质量较高。
-- 新样式转盘 (`spinner-middle.png`、 `spinner-middle2.png`、 `spinner-top.png`、 `spinner-bottom.png` 和 `spinner-glow.png`)。
+- 新样式转盘 (`spinner-middle.png`、`spinner-middle2.png`、`spinner-top.png`、`spinner-bottom.png` 和 `spinner-glow.png`)。
 - 倒计时阵列图像取代了分段图像。
   - 现在倒计时元素居中。
 - 打击圈的数字不再是打击爆炸效果的一部分。
@@ -81,14 +81,14 @@
 
 - 添加参数：
   - `KeyFlipWhenUpsideDown` 和 `NoteFlipWhenUpsideDown`
-  - `NoteBodyStyle` （拉伸、从顶部叠加、从底部叠加）
+  - `NoteBodyStyle`（拉伸、从顶部叠加、从底部叠加）
   - `LightingNWidth` 和 `LightingLWidth`
 
 ### 2.6
 
 **允许按类别自定义箭头的皮肤**
 
-- 添加了 `arrow-generic.png`、 `arrow-warning.png` 和 `arrow-pause.png`。
+- 添加了 `arrow-generic.png`、`arrow-warning.png` 和 `arrow-pause.png`。
 - 删除了 `play-warningarrow.png`。
 
 ### 2.7
@@ -123,7 +123,7 @@
 
 ### 1 和 0
 
-*省流： `0 = 否`， `1 = 是`*
+*省流：`0 = 否`，`1 = 是`*
 
 一些参数只接受布尔值（`真`或`假`）。自定义皮肤时，osu! 只会将 `1` 识别为`真`，将 `0` 识别为`假`。
 
@@ -556,8 +556,8 @@ Keys: 5
   - 默认值：`0`
   - 备注：
     - `0` = 无
-    - `1` = （左侧 (SP) 或 外侧 (DP) 键位）
-    - `2` = （右侧 (SP) 或 内侧 (DP) 键位）
+    - `1` =（左侧 (SP) 或 外侧 (DP) 键位）
+    - `2` =（右侧 (SP) 或 内侧 (DP) 键位）
     - 此参数适用于大于 4 的偶数键数。
     - 对于 DP 模式，两个舞台间的正中央处用于决定位置。
 - `ComboBurstStyle:`
