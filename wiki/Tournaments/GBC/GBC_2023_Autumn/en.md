@@ -123,7 +123,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 ### Tournament registration
 
 1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/13179234/c366/)** to register. 
-   - Players need to choose a zone according to their chat software, i.e. the Discord zone or QQ zone. Both the QQ zone and Discord zone will have an independent drafting phase and regular stage.
+   - Players need to choose a division according to their chat software, i.e. the Discord division or QQ division. Both the QQ division and Discord division will have an independent drafting phase and regular stage.
    - Players **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/kR4hJnPs) after register, according to their choice during registration.
    - **There are no forced geographical limitations for this tournament, but players need to ensure they are available to play in the weekend 19:00–22:00 (UTC+8), or they may not be selected during the drafting phase.**
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
@@ -155,7 +155,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both zones will have independent drafting phases. All unpicked players will be eliminated from the tournament.
+1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
 2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in total, and the others get eliminated from the tournament.
 3. Following the regular stage, the elimination stage will be played, called *playoffs*. The top 8 teams from the regular stage will advance to a winner bracket, other teams will get into loser bracket.
 4. All losing teams in the loser bracket will be eliminated from the tournament and the last team will be the winner.
@@ -169,12 +169,12 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
-4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
+4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captain gets to choose 4 players.
    - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
    - During phase 2 and 4, picks start in *decreasing* order, from the 24th to the 1st captain.
-   - *this might change depending on the number of incoming registrations.*
+   - *This might change depending on the number of incoming registrations.*
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
-   - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
+   - If the captain does not pick a player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
@@ -187,10 +187,10 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 ### Regular phase instructions
 
-1. The Regular phase will be divided into two division, the Asia Division using `Discord`, and the China Division using `QQ`.
-   - Players can choose the division and participate in the team of the corresponding match division. Players must ensure that they can use the chat tool of the corresponding match division and keep the message open.
+1. The regular phase will be divided into two division, the Asia division using Discord, and the China division using QQ.
+   - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
 2. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same match record will face each other.
-   - The two divisions will compete separately to determine a specified number of teams to enter the Elimination phase, the number of teams in each division to enter the Elimination phase is determined by the number of registrations, and the total number of teams in the two divisions is fixed to `16` teams into the Elimination phase.
+   - The two divisions will compete separately to determine a specified number of teams to enter the elimination phase. The number of teams in each division to enter the elimination phase is determined by the number of registrations, and the total number of teams in the two divisions is fixed to 16 teams into the elimination phase.
 3. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
@@ -200,39 +200,38 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - Fewest beatmaps lost
    - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
-4. The top 16 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
+4. The top 16 teams will advanced to the playoff stage, while the remaining players get eliminated from the tournament.
    - This means that teams with a record of 3-X will advance to the next stage, while teams with a record of X-3 will be eliminated.
    - Also, teams with a record of 2-2 will have the chance to advance by ranking in the top 16.
    - Teams with a record 3-0 or 0-3 need not play round 4, as they have already advanced or gotten eliminated.
-5. The results from the Regular stage will also be used for seeding teams.
+5. The results from the regular stage will also be used for seeding teams.
 
 ### Win conditions
 
-- In the Qualifier stage, player need to ranking high enough to advanced.
-- In drafting phase, player need to being picked into a team or become captains to advanced.
-- In the Regular stage, teams need to win 6 maps to win a match (best of 11).
-- In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
+- In the Qualifier stage, players need to rank high enough to advance.
+- In the drafting phase, players need to be picked into a team or become captains to advance.
+- In the regular stage, teams need to win 6 maps to win a match (best of 11).
+- In Quarterfinals, Semifinals, and Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match procedures
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2023 Autumn: ({TeamRed}) vs ({TeamBlue})`.
-   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain can protect **one beatmap** from the pool. These beatmaps can not be banned. Then each captain can ban **one beatmap** from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
+   - The team mentioned first in the room name must be the red team, and the team mentioned second in the room name must be the blue team.
+2. Each captain can protect **one beatmap** from the pool. These beatmaps cannot be banned. Then, each captain can ban **one beatmap** from the pool. These beatmaps cannot be picked by any team for the entire duration of the match.
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team. First pick team will also protect first, the others will ban first.
-5. After each pick, both captains **may** ban **one** of the opposing team members from playing the beatmap in a match, **except during tiebreakers**. A player cannot be banned during a match until they have played one beatmap.
+   - The winner of the `!roll` may choose to pick first or ban first in the match. The other choice will be used by loser of the roll. The team who picks first will also protect first, and the others will ban first.
+5. After each pick, both captains **may** ban **one** of the opposing team members from playing the beatmap in a match, **except during tiebreakers**.
    - Any player can only be banned like this **once** per match.
    - Only players who have already played in the match can be banned.
    - The team that picks beatmaps first cannot ban players during the first 2 rounds.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
-   - Map picking and ban should be sent in the same message, if the ban is delayed, or the message cause a disagreement or misunderstanding, the referee has the right to ignore the ban.
+   - Picks and bans should be sent in the same message. If the ban is delayed, or the message causes a disagreement or misunderstanding, the referee has the right to ignore the ban.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player, and 2 minutes to get ready. 
-   - A team can request a timeout when they are picking map. The timeout lasts 3 minutes and will be used after the map pick timer.
-   - No matter which team needs to timeout after pick map, it can only allowed with the consent of both captains.
+   - A team can request a timeout when they are picking a map. The timeout lasts 3 minutes and will be used after the map pick timer.
+   - No matter which team needs to timeout after their pick, it can only allowed with the consent of both captains.
 7. If a team takes more time than allowed, the procedures adopted will be as follows:
-   - Picking beatmaps and banning players should be sent **using a single message**. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
    - For the first occurrence:
      - The team will receive a verbal warning from the referee.
    - On subsequent occurrences:
@@ -248,16 +247,15 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 1. There will be five separate mappools. *This might change depending on the number of incoming registrations.*
    - Qualifiers will use a separate mappool.
-   - Regular stage Round 1 and Round 2 use mappool \#1.
-   - Regular stage Round 3 and Round 4 use mappool \#2.
-   - Round of 16 and Quarterfinals use mappool \#3.
-   - Semifinals and Finals use mappool \#4.
-   - This might change.
+   - Regular stage round 1 and round 2 use mappool #1.
+   - Regular stage round 3 and round 4 use mappool #2.
+   - Quarterfinals and Semifinals use mappool #3.
+   - Finals and Grand Finals use mappool #4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
-   - Mappool \#1 & \#2: 15 beatmaps
-   - Mappool \#3 & \#4: 17 beatmaps.
+   - Mappool #1 & #2: 15 beatmaps
+   - Mappool #3 & #4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for the FreeMod bracket are `NoFail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 6. The tiebreaker will be played under FreeMod conditions.
@@ -266,15 +264,13 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each player is free to choose a time slot in which they want to play.
-   - **Players that don't pick a time slot by Wednesday, 11 October 23:59 UTC+8 will be disqualified from the competition.**
+   - **Players that do not pick a time slot by Wednesday, 11 October 23:59 UTC+8 will be disqualified from the competition.**
 3. All matches will be held between Friday 18:00 and Sunday 23:59 (UTC+8).
-   - Rescheduling a match to a weekday is only permitted if **both** teams request and agree to it.
+   - Rescheduling a match to a weekday is only permitted if absolutely necessary, **both** teams request and agree to it, and staff members are available.
 4. Scheduling will be handled by the host. Schedules will be released on the Sunday before the first match of the stage. The host will try to create a schedule that respects all participants' preferences.
    - Please inform the host before Sunday if you expect a specific time slot to be unavailable in the following week. The host will try to accommodate all wishes, but makes no promises.
 5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament staff, before Wednesday 23:59 UTC+8 of the week the match is to take place on.**
    - Reschedules may only be requested by a team captain.
-   - Matches may not be scheduled to any time beyond **Sunday, 23:59 UTC+8** of the week they are to be played at.
-     - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 6. Captains are responsible for their team's availability.
 
