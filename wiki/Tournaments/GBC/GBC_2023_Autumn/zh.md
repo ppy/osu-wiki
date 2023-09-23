@@ -14,7 +14,7 @@ tags:
 
 ## 比赛日程
 
-| Event | Timestamp |
+| 事件 | 时间 |
 | --: | :-- |
 | 报名阶段 | 2023-09-22/2023-10-08 (13:59 UTC) |
 | 资格赛图池展示 | 2023-10-08 (14:00 UTC) |
@@ -48,7 +48,7 @@ tags:
 
 GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
-| Position | Member(s) |
+| 职位 | 成员 |
 | :-- | :-- |
 | 主办方 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131) |
