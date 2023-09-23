@@ -245,7 +245,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Aquellex - Cortex Charger](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Aquellex&query=%22Cortex%20Charger%22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062236) | RC7 des Grandes Finales |
 | BilliumMoto - LIGHT LEFT BEHIND[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2062241) | HB3 des Grandes Finales |
 | [Camellia - Parallel Universe Shifter](https://www.youtube.com/watch?v=BZy_c83SQck)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2062263) | Tiebreaker des Grandes Finales |
-| [Kommisar - Clover](https://soundcloud.com/kommisar/osumania-4k-world-cup-finals-original-clover)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2058816) | LN4 des finales |
+| [Kommisar - Clover](https://soundcloud.com/kommisar/osumania-4k-world-cup-finals-original-clover)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2058816) | LN4 des finales |
 | LV.4 feat. Chiaki Iwasaki - B.O.L.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055265) | RC3 des demi-finales |
 | [Frums - HALL](https://soundcloud.com/frums/hall)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055332) | Tiebreaker des demi-finales |
 | Toromaru - Deorbit[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2048064) | LN3 des seizièmes de finale |
