@@ -186,7 +186,7 @@ The following NAT members are primarily evaluators, but also contribute to struc
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | handling osu!taiko [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Handling osu!taiko [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
