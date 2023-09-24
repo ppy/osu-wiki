@@ -7,9 +7,9 @@ tags:
 
 # DACH 4k Championship 2023
 
-![DACH 4k Championship 2023 Banner](img/DACH4K-2023-banner.png)
+![DACH 4k Championship 2023 banner](img/DACH4K-2023-banner.png)
 
-The **DACH 4k Championship 2023** (***DACH4K***) was a DACH-Region based osu!mania 4K tournament hosted by ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617). It was the first instalment of the DACH 4k Championship.
+The **DACH 4k Championship 2023** (***DACH4K 2023***) was an osu!mania 4K tournament hosted by ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617) for players in the DACH region (::{ flag=DE }:: Germany, ::{ flag=AT }:: Austria, and ::{ flag=CH }:: Switzerland). It was the first instalment of the DACH 4k Championship.
 
 ## Tournament schedule
 
@@ -28,36 +28,36 @@ The **DACH 4k Championship 2023** (***DACH4K***) was a DACH-Region based osu!man
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge, Custom Banner and 6 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, custom banner, and 6 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
-![winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 Winner profile badge") 
+![DACH4K 2023 winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 winner badge") 
 
 ## Organisation
 
-The DACH 4k Championship 2023 is run by various community members.
+The DACH 4k Championship 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617) |
 | Co-Host | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) |
-| Mappoolers / Mappers | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) , ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266),  ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) |
-| Playtesters / Replay Makers | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375) , ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=MY }:: [ERA Nanachi](https://osu.ppy.sh/users/25604245) , ::{ flag=ES }:: [ERA Minikrimi](https://osu.ppy.sh/users/15186865) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
+| Mappooler / mapper | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) , ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266),  ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) |
+| Playtester / replay maker | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375) , ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=MY }:: [ERA Nanachi](https://osu.ppy.sh/users/25604245) , ::{ flag=ES }:: [ERA Minikrimi](https://osu.ppy.sh/users/15186865) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
 | Referee | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) |
-| Streamers | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622)  |
-| Commentators | ::{ flag=DE }::  [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) , ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) ,  ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) ,  ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
-| GFX Design | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DK }:: [ERA Urrk](https://osu.ppy.sh/users/11539225) |
+| Streamer | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622)  |
+| Commentator | ::{ flag=DE }::  [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) , ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) ,  ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) ,  ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
+| Graphic designer | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DK }:: [ERA Urrk](https://osu.ppy.sh/users/11539225) |
 | Sheeter | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
-| Wiki Editor | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| Custom Songs | ::{ flag=DE }::  [XaverXD](https://osu.ppy.sh/users/12448575) |
+| Wiki editor | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
+| Musician | ::{ flag=DE }::  [XaverXD](https://osu.ppy.sh/users/12448575) |
 
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1_kdRz3tguBdxhJtogsunlw4JKeAU7YMaV8QiGoCG16Y/)
-- [Stats sheet](https://docs.google.com/spreadsheets/d/1k3-HHhDco5j05QM44TbciF8-AxRaJqP3cTAMbUoQme8/edit#gid=0)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/1k3-HHhDco5j05QM44TbciF8-AxRaJqP3cTAMbUoQme8/edit#gid=0)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1777155?n=1)
-- [Discord Server](https://discord.gg/gwcYfvZ36E)
+- [Discord server](https://discord.gg/gwcYfvZ36E)
 - [Livestreams](https://www.twitch.tv/vsrg_)
 - [VODs](https://www.youtube.com/channel/UCkRua2lSn6tl6aMmpJK-0Tw)
 
@@ -245,7 +245,7 @@ Friday, 5 August 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| ERA Leo ::{ flag=DE }:: | 4 | **6** | ::{ flag=DE }:: **TsukiyaWhiskers** | [#1](https://osu.ppy.sh/community/matches/109836329) | - |
+| ERA Leo ::{ flag=DE }:: | 4 | **6** | ::{ flag=DE }:: **TsukiyaWhiskers** | [#1](https://osu.ppy.sh/community/matches/109836329) |  |
 | **sorgenfresser** ::{ flag=DE }:: | **6** | 3 | ::{ flag=DE }:: ERA Punish | [#1](https://osu.ppy.sh/community/matches/109837330) |  |
 
 Saturday, 6 August 2023:
@@ -335,32 +335,32 @@ Monday, 17 July 2023:
 
 ### General
 
-1. *DACH 4k Championship 2023* is an osu!maina 4k 1v1 double-elimination tournament. All matches are played with Scorev2.
-2. All Maps will be played under FreeMod conditions, only `NF` , `HD` , `FL` , `FI` and `MR` are allowed.
-3. All registed player will be play Qualifier first, top 32 players will advanced to double-elimination bracket. called "KO stage".
-   - Advanced players will be scale down to 16 if not enough register.
-4. Reschedules will only be accepted if both players **and** staff team agreement , posted in the Discord server before Friday 0:00 (UTC+2). If reschedule posted after this time , it won't be accepted.
-5. Repeated toxic behaviour or cheating will be banned from the tournament.
+1. DACH 4k Championship 2023 is an osu!mania 4K 1v1 double-elimination tournament. All matches are played with ScoreV2.
+2. All maps will be played under FreeMod conditions: only NF , HD , FL , FI and MR are allowed.
+3. All registered players will be play the Qualifiers first, where the top 32 players will advance to the double-elimination bracket. called the *KO stage*.
+   - The number of qualified players will be scaled down to 16 if not enough people register.
+4. Reschedules will only be accepted if both players **and** the staff team agree, and the request is posted in the Discord server before Friday 00:00 (UTC+2). Reschedule requests after this time will not be accepted.
+5. Repeated toxic behaviour or cheating will result in a ban from the tournament.
 
 ### Registration
 
-1. Only players who have the following national flags , or others things could prove they lived in following countries would allowed to play in this tournament.
+1. Only players who have the following national flags or who can prove they live in the following countries are allowed to play in this tournament:
    - Germany
    - Austria
    - Switzerland
-2. Players's mania 4k rank should between 1000 ~ 40000 at registration phase.
-3. every player should join the Discord server , this makes it easier to reach the player and ensures that he/she gets all current information.
-4. All staff members except streamers, commentators and graphic designers are not allowed to participate in this tournament as a player.
+2. All players' osu!mania 4K rank should be between #1,000 and #40,000 during the registration phase.
+3. Every player should join the Discord server. This makes it easier to reach the player and ensures they receive current information.
+4. All staff members except streamers, commentators, and graphic designers are not allowed to participate in this tournament as players.
 
 ### Match procedure
 
 #### Qualifier
 
-1. Each player may sign up into qualifier lobby in advace.
-   - if none of default lobby suit for players, players can request an custom lobby before Monday 0:00 (UTC+2) on qualifier week. 
-2. 15 minutes before the qualifier starts, players will be made aware of the qualifier via the ref. 5 minutes before the actual start, players will be invited to the lobby.
-3. In the lobby, all qualifier maps will be played 2 times in a row, with an optional 5 minute break between each run.
-4. Maps in qualifiers stage will be:
+1. Each player may sign up into a Qualifier lobby in advance.
+   - If none of the default lobbies are suitable, players can request a custom lobby before Monday 00:00 (UTC+2) on the week of the Qualifiers. 
+2. 15 minutes before the Qualifier starts, players will be made aware of the Qualifier via the referee. 5 minutes before the start, players will be invited to the lobby.
+3. In the lobby, all Qualifier maps will be played 2 times in a row, with an optional 5-minute break between each run.
+4. Maps in the Qualifiers stage will be:
    - Stage 1: SV
    - Stage 2: RC Acc
    - Stage 3: LN
@@ -369,14 +369,14 @@ Monday, 17 July 2023:
 
 #### KO stage
 
-1. 15 minutes before the match starts, players are made aware of the match via the ref and asked for their warm-ups.
-2. 5 minutes before the actual start, players are invited to the lobby. Once both players are in the lobby, the warm-ups will be played.
+1. 15 minutes before the match starts, players are made aware of the match via the referee and asked for their warm-ups.
+2. 5 minutes before the start, players are invited to the lobby. Once both players are in the lobby, the warm-ups will be played.
    - The maximum drain time of warm-ups is 3 minutes.
-3. After the warm-ups , both players enter the `!roll` command. Player with the higher number may decide whether to protect a map first, banned one second and pick one first or vice versa.
-   - Protect : This map may no longer be banned for this match.
-   - Ban : This map may no longer be picked for this match.
-   - Pick : A player says a map that is in the current map pool, which is then played.
-4. After protects and bans are determined, each player has 2 minutes to pick a map, if this time is exceeded, a map that is still left is picked randomly. When both players are ready, the map is started with a 10 second timer.
-5. Each player has the option of a 2 minute time-out during each match.
-6. If a player disconnects in the first 30 seconds of the map, the map may be repeated, this only allowed once for each player per match. If a player is disconnected after 30 seconds or it happend twice , Player will lose this map.
-7. A player wins the match if the required number of points is reached, if both players are one point away from winning the match the tiebreaker is played, otherwise it may not be picked.
+3. After the warm-ups , both players enter the `!roll` command. The player with the higher number may decide whether to protect a map first, ban second, and pick first, or vice versa.
+   - Protect: The map may no longer be banned during the match.
+   - Ban: The map may no longer be picked during the match.
+   - Pick: A player picks a map from the current mappool, which is then played.
+4. After protects and bans are determined, each player has 2 minutes to pick a map. If this time is exceeded, a map that is still left is picked randomly. When both players are ready, the map is started with a 10-second timer.
+5. Each player has the option of a 2-minute time-out during each match.
+6. If a player disconnects within the first 30 seconds of the map, the map may be replayed. This only allowed once for each player per match. If a player disconnects after 30 seconds or it happens twice, the player will lose the map.
+7. A player wins the match if the required number of points is reached. If both players are one point away from winning the match, the tiebreaker is played, otherwise it may not be picked.
