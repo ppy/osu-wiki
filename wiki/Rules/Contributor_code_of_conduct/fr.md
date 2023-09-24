@@ -2,7 +2,7 @@
 
 ## Notre engagement
 
-En tant que membres, contributeur·trice·s et dirigeant·e·s, nous nous engageons à faire de la participation à notre communauté une expérience sans harcèlement, quel que soit l'âge, la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique, les caractéristiques sexuelles, l'identité et l'expression de genre,  le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la race, la religion,  ou l'identité et l'orientation sexuelle.
+En tant que membres, contributeur·trice·s et dirigeant·e·s, nous nous engageons à faire de la participation à notre communauté une expérience sans harcèlement, quel que soit l'âge, la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique, les caractéristiques sexuelles, l'identité et l'expression de genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la race, la religion, ou l'identité et l'orientation sexuelle.
 
 Nous nous engageons à agir et interagir de manière à contribuer à une communauté ouverte, accueillante, diversifiée, inclusive et saine.
 
@@ -13,8 +13,8 @@ Exemples de comportements qui contribuent à créer un environnement positif :
 - Faire preuve d'empathie et de bienveillance envers les autres
 - Être respectueux des opinions, points de vue et expériences divergents
 - Donner et recevoir avec grâce les critiques constructives
--  Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
--  Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
+- Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
+- Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
 
 Exemples de comportements inacceptables :
 
@@ -61,8 +61,7 @@ Les dirigeant·e·s de communauté suivront ces directives d'application sur l'i
 
 **Impact communautaire** : un non-respect par un seul incident ou une série d'actions.
 
-**Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement.
-Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée. 
+**Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement. Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée. 
 Cela comprend le fait d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes comme les médias sociaux. Le non-respect de ces conditions peut entraîner un bannissement temporaire ou permanent.
 
 ### 3. Bannissement temporaire
@@ -80,7 +79,7 @@ Le non-respect de ces conditions peut entraîner un bannissement permanent.
 
 ## Attributions
 
-Ce code de conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, disponible à [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+Ce code de conduite est adapté du [Contributor Covenant][homepage], version 2.0, disponible à [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
 
 Les Directives d'application ont été inspirées par le [Code of conduct enforcement ladder][Mozilla CoC] de Mozilla.
 
