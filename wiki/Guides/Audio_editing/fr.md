@@ -53,7 +53,7 @@ Installez et ouvrez Audacity, puis suivez les étapes suivantes :
    1. `Mode de débit binaire` : `Préréglage`
    2. `Qualité` : `Moyen, 145-185 kbps`
 10. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
-   - Vous pouvez également renommer le fichier.
+     - Vous pouvez également renommer le fichier.
 11. Cliquez sur `Enregistrer` et une boîte de dialogue apparaîtra pour saisir les métadonnées.
 12. Cliquez sur `OK` lorsque vous avez fini d'entrer les métadonnées.
 
