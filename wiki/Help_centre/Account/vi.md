@@ -153,7 +153,7 @@ Nếu bạn đã mua (hoặc được tặng) một [supporter tag](https://osu.
 
 Tại một lúc nào đó sau này, bạn có thể phải mua [đổi tên người dùng](https://osu.ppy.sh/store/products/32) để đổi tên người dùng thành bất cứ thứ gì bạn muốn. Tuy nhiên, mỗi lần đổi sẽ dần trở nên đắt hơn - lần thứ hai sẽ tốn $8 USD, lần thứ ba $16 USD, và cứ tiếp tục, cho đến tối đa $100 USD. Chúng tôi làm như vậy để ngăn mọi người lạm dụng hệ thống để đổi tên của họ liên tục.
 
-Xin lưu ý rằng tên người dùng phải tuân thủ [nội quy cộng đồng](/wiki/Rules#community-rules) mà tên không gây phản cảm rộng rãi cho người khác, trêu trọc quá mức hoặc mặt khác khiêu khích bất cứ cách nào. Thêm vào đó, tên người dùng mà mạo danh hoặc chiếm lấy danh tính của nhân vật công chúng lớn (như là người nổi tiếng, chính trị gia, v.v.) không được chấp nhận và sẽ bị bắt buộc hoàn về tên cũ nếu chúng tôi tìm thấy.
+Xin lưu ý rằng tên người dùng phải tuân thủ [nội quy cộng đồng](/wiki/Rules#nội-quy-cộng-đồng) mà tên không gây phản cảm rộng rãi cho người khác, trêu trọc quá mức hoặc mặt khác khiêu khích bất cứ cách nào. Thêm vào đó, tên người dùng mà mạo danh hoặc chiếm lấy danh tính của nhân vật công chúng lớn (như là người nổi tiếng, chính trị gia, v.v.) không được chấp nhận và sẽ bị bắt buộc hoàn về tên cũ nếu chúng tôi tìm thấy.
 
 Nếu bạn chỉ cần thay đổi một chút về cách viết hoa hoặc thay đổi ngữ pháp/chính tả, bạn có thể email [accounts@ppy.sh](mailto:accounts@ppy.sh) để yêu cầu một lần đổi tên miễn phí để sửa những vấn đề trên. Chúng tôi sẽ không tính phí bạn cho loại đổi tên này, nhưng bạn **PHẢI** làm nó qua email hỗ trợ. Nhớ rằng chúng tôi chỉ thực hiện điều này một số lần giới hạn, cho nên hãy chắc chắn là bạn cần nó!
 
@@ -217,14 +217,14 @@ Nếu bạn hiện tại đang có hơn một tài khoản, vui lòng liên hệ
 
 Chúng tôi đang cân nhắc thêm mua 'reset điểm' trong osu!store cho người chơi thật sự hardcore, những người không cần gì ngoài sự hoàn hảo, nhưng với hiện tại, chúng tôi không thể xoá sạch số liệu tài khoản cho bạn.
 
-Đây không phải là bạn có thể tạo tài khoản mới để làm điều như thế! Có nhiều tài khoản là vi phạm [Nội quy](/wiki/Rules#community-rules), và chúng tôi sẽ vô hiệu hoá các tài khoản mà chúng tôi để ý đến.
+Đây không phải là bạn có thể tạo tài khoản mới để làm điều như thế! Có nhiều tài khoản là vi phạm [Nội quy](/wiki/Rules#nội-quy-cộng-đồng), và chúng tôi sẽ vô hiệu hoá các tài khoản mà chúng tôi để ý đến.
 
 ### Tôi có thể xoá tài khoản không? {id=account-deletion}
 
 *Để biết thêm thông tin về việc xoá tài khoản, xem [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*\
 *Lưu ý: Xoá tài khoản là vĩnh viễn, vì vậy không thể hoàn tác!*
 
-Vâng, bất cứ người dùng nào có thể yêu cầu xoá tài khoản bằng cách gửi email cho [privacy@ppy.sh](mailto:privacy@ppy.sh). Nhớ rằng xoá tài khoản của bạn là **cuối cùng**, nghĩa là nó không thể bị đảo ngược hoặc hoàn tác. Xoá tài khoản của bạn không có nghĩa là bạn có thể tạo tài khoản mới, vì có nhiều tài khoản vi phạm [nội quy](/wiki/Rules#community-rules). Điều này nghĩa là bạn sẽ không thể sử dụng các tính năng online của osu!.
+Vâng, bất cứ người dùng nào có thể yêu cầu xoá tài khoản bằng cách gửi email cho [privacy@ppy.sh](mailto:privacy@ppy.sh). Nhớ rằng xoá tài khoản của bạn là **cuối cùng**, nghĩa là nó không thể bị đảo ngược hoặc hoàn tác. Xoá tài khoản của bạn không có nghĩa là bạn có thể tạo tài khoản mới, vì có nhiều tài khoản vi phạm [nội quy](/wiki/Rules#nội-quy-cộng-đồng). Điều này nghĩa là bạn sẽ không thể sử dụng các tính năng online của osu!.
 
 ### Tôi không còn muốn chơi nữa, nhưng tôi không muốn tài khoản bị xoá! {id=account-lock}
 
