@@ -12,9 +12,9 @@ tags:
 
 Una **difficoltà ospite**, o abbreviato *GD per Guest Difficulty*, è una [difficoltà](/wiki/Beatmap/Difficulty) di una [beatmap](/wiki/Beatmap) non creata dall'[host](/wiki/Beatmap/Beatmap_host). Di solito può essere identificata dal suo nome, contenente quello dell'ospite.
 
-Nonostante non sia necessario, avere difficoltà ospiti può essere un beneficio in molte occasioni in quanto queste spesso presentano stili di mapping completamente diversi l'una dall'altra, ciò diversifica il set di mappe, e aiuta a ridurre il burnout da mapping. Le difficoltà ospiti sono più comunemente richieste attraverso i messaggi privati tra i mapper, tuttavia questo potrebbe avvenire in altri modi, come il canale `#mapping` in gioco o le [code di modding](/wiki/Community/Forum/Modding_Queues).
+Nonostante non sia necessario, avere difficoltà ospiti può essere un beneficio in molte occasioni in quanto queste spesso presentano stili di mapping completamente diversi l'una dall'altra. Ciò diversifica il set di mappe, e aiuta a ridurre il burnout da mapping. Le difficoltà ospiti sono più comunemente richieste attraverso i messaggi privati tra i mapper, tuttavia questo potrebbe avvenire in altri modi, come il canale `#mapping` in gioco o le [code di modding](/wiki/Community/Forum/Modding_Queues).
 
-Le difficoltà ospiti sono da non confondere con le difficoltà che presentano più mapper, che sono invece conosciute come [collabs](/wiki/Beatmap/Beatmap_collaborations).
+Si noti che le difficoltà ospiti non vanno confuse con le difficoltà che presentano più mapper, che sono invece conosciute come [collabs](/wiki/Beatmap/Beatmap_collaborations).
 
 ## Dominio
 

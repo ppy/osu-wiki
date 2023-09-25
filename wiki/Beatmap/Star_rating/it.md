@@ -7,7 +7,7 @@ tags:
 
 # Valutazione in stelle
 
-La **valutazione in stelle** (***SR per Star Rating***) descrive la difficoltà di una [beatmap](/wiki/Beatmap), la quale è automaticamente calcolata dal client di osu!. La valutazione in stelle gioca un ruolo importante nell'assegnazione dei [punti performance](/wiki/Performance_points). Questo numero può essere visto sulla [schermata di selezione dei brani](/wiki/Client/Interface#song-select) e sulla pagina di info delle beatmap.
+La **valutazione in stelle** (***SR per Star Rating***) descrive la difficoltà di una [beatmap](/wiki/Beatmap), la quale è automaticamente calcolata dal client di osu!. La valutazione in stelle gioca un ruolo importante nell'assegnazione dei [punti performance](/wiki/Performance_points). Questo numero può essere visto nella [schermata di selezione dei brani](/wiki/Client/Interface#song-select) e sulla pagina di info della beatmap.
 
 ## Difficoltà
 

@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioco ([difficoltà](#difficoltà)) che sono composti da vari [oggetti da colpire](/wiki/Gameplay/Hit_object) e rappresentano quasi sempre un singolo brano. Include anche altri componenti, tutti racchiusi in un archivio con [estensione `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioco ([difficoltà](#difficoltà)) che sono composti da vari [oggetti](/wiki/Gameplay/Hit_object) e rappresentano quasi sempre un singolo brano. Include anche altri componenti, tutti racchiusi in un archivio con [estensione `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - il brano stesso, in formato MP3 o Ogg.
 - [Immagini di sfondo]( /wiki/Beatmap/Background), o un video, che fungono da campo di gioco.
@@ -20,7 +20,7 @@ Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioc
 
 *Articolo principale: [Difficoltà](/wiki/Beatmap/Difficulty)*
 
-Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/osu_(file_format)) che descrive il posizionamento degli oggetti da colpire, degli hitsound e degli effetti speciali come le [sezioni kiai](/wiki/Gameplay/Kiai_time). Contiene anche [impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e altri parametri che influenzano direttamente il gameplay. Le difficoltà di una beatmap hanno strutture diverse e a volte possono essere giocate in una sola [modalità di gioco](/wiki/Game_mode). Il sistema di [valutazione in stelle](/wiki/Beatmap/Star_rating) è usato per visualizzare i requisiti di abilità di una difficoltà.
+Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/osu_(file_format)) che descrive il posizionamento degli oggetti, degli hitsound e degli effetti speciali come le [sezioni kiai](/wiki/Gameplay/Kiai_time). Contiene anche [impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e altri parametri che influenzano direttamente il gameplay. Le difficoltà di una beatmap hanno strutture diverse e a volte possono essere giocate in una sola [modalità di gioco](/wiki/Game_mode). Il sistema di [valutazione in stelle](/wiki/Beatmap/Star_rating) è usato per visualizzare i requisiti di abilità di una difficoltà.
 
 ## Invio
 
@@ -51,7 +51,7 @@ Una beatmap inviata appartiene a una delle seguenti categorie, che possono cambi
 - [Approvate](Category#approvate)
 - [Amate](Category#amate)
 
-Alcune categorie hanno dei [criteri di invio](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#classifiche) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#amate).
+Alcune categorie hanno dei [criteri di classificazione](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#classifiche) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#amate).
 
 ## Scaricare le beatmap
 
@@ -82,7 +82,7 @@ Esistono anche fonti secondarie di beatmap, che non sono **né controllate né g
 
 ### Classifiche
 
-I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire di livello a livello globale](/wiki/Performance_points) e [competere tra loro](/wiki/Ranking). osu! ha diversi tipi di classifiche specifiche per le beatmap, tutte, tranne la prima, disponibili solo per gli [osu!supporter](/wiki/osu!supporter):
+I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire di posizioni globalmente](/wiki/Performance_points) e [competere tra loro](/wiki/Ranking). osu! ha diversi tipi di classifiche specifiche per le beatmap, tutte, tranne la prima, disponibili solo per gli [osu!supporter](/wiki/osu!supporter):
 
 - Classifica globale, che funziona su tutta la base di giocatori attivi;
 - Classifica globale per ogni combinazione di [modificatori di gioco](/wiki/Gameplay/Game_modifier);

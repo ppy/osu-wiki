@@ -10,11 +10,11 @@ tags:
 
 *Per valori di OD consigliati, vedi: [Criteri di classificazione](/wiki/Ranking_criteria)*
 
-La **difficoltà generale** (***OD per Overall Difficulty***) definisce quanto è difficile ottenere una [precisione](/wiki/Gameplay/Accuracy) elevata su una [beatmap](/wiki/Beatmap). Il valore varia da 0 a 10, dove OD più alta richiede maggiore precisione e accuratezza. Poiché la precisione è importante per riguadagnare [salute](/wiki/Gameplay/Health), la difficoltà generale influenza anche la difficoltà di superare una beatmap senza fallire.
+La **difficoltà generale** (***OD per Overall Difficulty***) definisce quanto è difficile ottenere una [precisione](/wiki/Gameplay/Accuracy) elevata su una [beatmap](/wiki/Beatmap). Il valore varia da 0 a 10, dove OD più alta richiede maggiore precisione e accuratezza. Poiché la precisione è importante per riguadagnare [salute](/wiki/Gameplay/Health), la difficoltà generale diminuisce la probabilità di superare una beatmap senza fallire.
 
 ## Tempismo
 
-Valori più alti di OD risultano in finestre di tempo più brevi per colpire le [note](/wiki/Gameplay/Hit_object), sia in generale che per ottenere [punteggi](/wiki/Gameplay/Score) elevati. L'errore massimo consentito per ogni oggetto da colpire in [osu!](/wiki/Game_mode/osu!) e [osu!mania](/wiki/Game_mode/osu!mania), centrato sul tempo corretto della nota, è definito dalle tabelle seguenti.
+Valori più alti di OD risultano in finestre di tempo più brevi per colpire le [note](/wiki/Gameplay/Hit_object), sia in generale che per ottenere [punteggi](/wiki/Gameplay/Score) elevati. L'errore massimo consentito per ogni oggetto da colpire in [osu!](/wiki/Game_mode/osu!) e [osu!mania](/wiki/Game_mode/osu!mania), centrato sul tempo corretto della nota, è definito dalle tabelle qui sotto.
 
 Da notare che nella versione stabile di osu!, le finestre di colpo in osu! e [osu!taiko](/wiki/Game_mode/osu!taiko) possono effettivamente essere fino a 0.5 ms più corte su entrambi i lati rispetto a quanto suggerito dalle formule, mentre in osu!mania fino a 0,5 ms più lunghe su entrambi i lati. Questo perché in osu! e osu!taiko, un colpo è considerato all'interno di una finestra di colpo se `hit error < round(hit window)`, mentre in osu!mania se `hit error <= round(hit window)`.[^judgement-rounding-ref]
  
@@ -68,10 +68,10 @@ Ci sono quattro [mod](/wiki/Gameplay/Game_modifier) che alterano la difficoltà 
 
 - [Easy](/wiki/Gameplay/Game_modifier/Easy): Dimezza il valore di OD.
 - [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Moltiplica il valore di OD per 1.4, fino a un massimo di 10.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): Il valore di OD non viene influenzato, ma a causa dell'aumento del 50% della velocità di gioco, le finestre di colpo sono più corte del 33%.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): Il valore di OD non viene influenzato, ma a causa della diminuzione del 25% della velocità di gioco, le finestre di colpo sono più grandi del 33%.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): Il valore di OD non viene influenzato, ma a causa dell'aumento del 50% della velocità di gioco, le finestre di colpo sono il 33% più piccole.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): Il valore di OD non viene influenzato, ma a causa della diminuzione del 25% della velocità di gioco, le finestre di colpo sono il 33% più grandi.
 
-Mentre Half Time e Double Time non cambiano il valore di OD, la differenza di velocità porta a una variazione nelle finestre di colpo. Poiché la scalatura è diversa per ogni valore di punteggio, DT fa sì che le finestre per 100 e 50 diventino più strette del solito rispetto a 300, mentre HT, al contrario, le fa diventare più tolleranti.
+Mentre Half Time e Double Time non cambiano il valore di OD, la differenza di velocità porta ad una variazione nelle finestre di colpo. Poiché la scalatura è diversa per ogni valore di punteggio, DT fa sì che le finestre per 100 e 50 diventino più strette del solito rispetto a 300, mentre HT, al contrario, le fa diventare più tolleranti.
 
 ## osu!catch
 

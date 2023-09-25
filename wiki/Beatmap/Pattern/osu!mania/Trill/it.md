@@ -24,4 +24,4 @@ L'altro tipo, **split trill**, richiede che ogni chord sia giocato con due mani.
 
 ![](img/splittrill.png)
 
-Per osu!mania 4K, questi sono gli unici tipi di **chordtrill**. Per questo motivo, è più probabile che il termine **chordtrill** venga usato nelle modalità di tasti più alte.
+Per osu!mania 4K, questi sono gli unici tipi di **chordtrill**. Per questo motivo, è più probabile che il termine **chordtrill** venga usato nelle modalità con più tasti.

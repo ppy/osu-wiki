@@ -31,7 +31,7 @@ Una beatmap appena inviata avrà il testo del titolo impostato a `[size:20,bold:
 | `bold` | Se la riga sarà o meno in grassetto. Un valore di 1 significa grassetto, mentre qualsiasi altro valore significa non grassetto. | 1 |
 | `color` | Il colore della riga, formattato come `R.G.B`, dove ogni componente del colore va da 0 a 255. | 255.255.255 |
 | `hold` | Per quanto tempo la riga verrà visualizzata prima di iniziare la dissolvenza, in millisecondi. | *Cambia per riga* |
-| `size` | La dimensione del carattere della riga, in [punti](https://en.wikipedia.org/wiki/Point_(typography)). | 40 |
+| `size` | La dimensione del carattere della riga, in [punti](https://it.wikipedia.org/wiki/Punto_tipografico). | 40 |
 | `time` | Il momento del brano in cui questa riga inizierà ad apparire, in millisecondi. | *Cambia per riga* |
 | `wait` | Un ritardo supplementare prima che la riga appaia, in millisecondi. | 500 |
 

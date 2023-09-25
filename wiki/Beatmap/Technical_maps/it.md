@@ -50,8 +50,8 @@ Buoni esempi di mappe tech che rientrano in questa definizione sono [Silentroom 
 - Slider SV
 - Pattern difficili da leggere (spesso descritti come aventi uno "scorrimento" duro) (esempio mostrato di seguito)
 
-![Pattern difficile da leggere (Camelia)](img/difficult_to_read_beatmap.jpg "Pattern difficile da leggere")
+![Pattern difficile da leggere (Camellia)](img/difficult_to_read_beatmap.jpg "Pattern difficile da leggere")
 
 ![Forme di slider irregolari (MARENOL)](img/irregular_slider.jpg "Forme di slider irregolari (Slider SV)")
 
-Buoni esempi di mappe tech che rientrano in questa definizione sono [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) e [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+Buoni esempi di mappe tech che rientrano in questa definizione sono [Camellia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) e [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).

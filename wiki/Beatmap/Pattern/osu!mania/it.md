@@ -4,7 +4,7 @@ stub: true
 
 # Pattern di osu!mania
 
-Pagina di indice per i tipi di [pattern](..) specifici di [osu!mania](/wiki/Game_mode/osu!mania).
+Pagina indice per i tipi di [pattern](..) specifici di [osu!mania](/wiki/Game_mode/osu!mania).
 
 - [Chord](Chord)
 - [Stream](Stream)

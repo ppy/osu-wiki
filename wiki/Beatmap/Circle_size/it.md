@@ -8,7 +8,7 @@ tags:
 
 *Per le normative sulla dimensione cerchi, vedi: [Criteri di classificazione](/wiki/Ranking_criteria)*
 
-La **Dimensione cerchi** (***CS per Circle Size***) è un'impostazione di difficoltà delle [beatmap](/wiki/Beatmap) che influenza la dimensione degli [oggetti da colpire](/wiki/Gameplay/Hit_object). I valori della dimensione cerchi variano da 0 a 10, ma solo cifre comprese tra 2 e 7 possono essere scelte nell'[editor delle beatmap](/wiki/Client/Beatmap_editor). Altri valori possono essere utilizzati modificando manualmente il [file `.osu`](/wiki/Client/File_formats/osu_(file_format)) di una mappa.
+La **Dimensione cerchi** (***CS per Circle Size***) è un'impostazione di difficoltà delle [beatmap](/wiki/Beatmap) che influenza la dimensione degli [oggetti](/wiki/Gameplay/Hit_object). I valori della dimensione cerchi variano da 0 a 10, ma solo cifre comprese tra 2 e 7 possono essere scelte nell'[editor delle beatmap](/wiki/Client/Beatmap_editor). Altri valori possono essere utilizzati modificando manualmente il [file `.osu`](/wiki/Client/File_formats/osu_(file_format)) di una beatmap.
 
 ## osu!
 
@@ -30,7 +30,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), la dimensione cerchi determina la gra
 
 In [osu!mania](/wiki/Game_mode/osu!mania), la dimensione cerchi si riferisce al numero di tasti.
 
-## Mod effects
+## Effetti delle mod
 
 Ci sono due mod che alterano la dimensione cerchi quando sono attivate:
 

@@ -4,7 +4,7 @@ tags:
   - song compilations
 ---
 
-# Song compilation
+# Compilation di brani
 
 Una **compilation di brani** è una collezione di tre o più brani, interi o parziali, che di solito hanno un genere, artista o altro tema in comune.
 

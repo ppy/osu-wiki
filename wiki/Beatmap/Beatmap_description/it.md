@@ -1,12 +1,12 @@
 # Descrizione beatmap
 
-**La descrizione beatmap** è una piccola area sotto la pagina di una [beatmap](/wiki/Beatmap) che da informazioni sulla beatmap ai giocatori utilizzando [BBCode](/wiki/BBCode). Solitamente, evidenzia alcuni fatti riguardanti la beatmap che il suo creatore ha ritenuto abbastanza importanti, o viene utilizzata per pubblicizzare altri progetti di mapping.
+**La descrizione beatmap** è una piccola area sotto la pagina di una [beatmap](/wiki/Beatmap) che fornisce informazioni sulla beatmap ai giocatori utilizzando [BBCode](/wiki/BBCode). Solitamente, evidenzia alcuni fatti riguardanti la beatmap che il suo creatore ha ritenuto abbastanza importanti, o viene utilizzata per pubblicizzare altri progetti di mapping.
 
 ## Usi e informazioni
 
-Descrizioni famose di beatmap [rankate](/wiki/Beatmap/Category#classificate) spesso includono i seguenti:
+Descrizioni famose di beatmap [classificate](/wiki/Beatmap/Category#classificate) spesso includono i seguenti:
 
-- Una lista di tutte le [difficoltà ospiti](/wiki/Beatmap/Guest_difficulty) e i loro creatori
+- Una lista di tutte le [difficoltà ospiti](/wiki/Beatmap/Guest_difficulty) ed i loro mapper
 - Informazioni che aiuterebbero un giocatore a decidere se scaricare la beatmap
 - Una lista delle modifiche, o storico dei cambiamenti
 
@@ -16,6 +16,6 @@ Molte descrizioni di beatmap contengono almeno un'immagine (spesso una [GIF](htt
 
 ### Sezioni difficoltà
 
-Una *sezione difficoltà* è un elenco di tutte le difficoltà degli ospiti (spesso accompagnate dalle rispettive icone) e dei loro creatori, situata nella descrizione della beatmap. È prevalentemente utilizzata per attribuire il credito ai creatori delle mappe.
+Una *sezione difficoltà* è un elenco di tutte le difficoltà degli ospiti (spesso accompagnate dalle rispettive icone) e dei loro creatori, situata nella descrizione della beatmap. È prevalentemente utilizzata per attribuire notorietà ai mapper delle difficoltà.
 
 Le icone delle difficoltà si possono trovare nell'articolo [Difficoltà](/wiki/Beatmap/Difficulty).

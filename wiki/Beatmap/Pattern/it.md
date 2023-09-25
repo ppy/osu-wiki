@@ -6,7 +6,7 @@ tags:
 
 # Pattern
 
-Un **pattern** è un piccolo set di [oggetti da colpire](/wiki/Gameplay/Hit_object) in una [beatmap](/wiki/Beatmap), arrangiati in maniera significativa.
+Un **pattern** è un piccolo set di [oggetti](/wiki/Gameplay/Hit_object) in una [beatmap](/wiki/Beatmap), posizionati in maniera significativa.
 
 ## Tipi di pattern comuni
 

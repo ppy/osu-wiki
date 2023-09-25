@@ -10,4 +10,4 @@ Il **tempo di gioco** (***Drain Time***) si riferisce alla durata totale di una 
 
 Beatmap con tempi di gioco molto lunghi vengono tipicamente chiamate *[maratone](/wiki/Beatmap/Marathon)* a causa della resistenza oltre la norma necessaria per essere completate.
 
-La pagina di info delle beatmap sul sito calcola il tempo di gioco (etichettata `Lunghezza drenaggio`) basato solo sul tempo di inizio degli oggetti da cliccare, quindi se l'ultimo oggetto della mappa è uno [slider](/wiki/Gameplay/Hit_object/Slider) o uno [spinner](/wiki/Gameplay/Hit_object/Spinner), il tempo di gioco verrà mostrato in modo scorretto.
+La pagina di info delle beatmap sul sito calcola il tempo di gioco (etichettata `Lunghezza drenaggio`) basato solo sul tempo di inizio degli oggetti da cliccare. Quindi, se l'ultimo oggetto della mappa è uno [slider](/wiki/Gameplay/Hit_object/Slider) o uno [spinner](/wiki/Gameplay/Hit_object/Spinner), il tempo di gioco verrà mostrato in modo errato.
