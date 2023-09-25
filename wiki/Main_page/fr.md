@@ -26,7 +26,7 @@ En tant que guide du monde du rythme, des battements et des flashs, osu! a beauc
 
 [Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Paramètres visuels](/wiki/Client/Interface/Visual_settings) • [Références des raccourcis claviers](/wiki/Client/Keyboard_shortcuts) • [Fichier de configuration de l'utilisateur](/wiki/Client/Program_files/User_configuration_file) • [Fichiers de programmes](/wiki/Client/Program_files)
 
-[Formats de fichiers](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
+[Formats de fichiers](/wiki/Client/File_formats) : [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -35,7 +35,7 @@ En tant que guide du monde du rythme, des battements et des flashs, osu! a beauc
 
 Tout ce qui concerne le fait de cliquer sur des cercles, de frapper des tambours, d'attraper des fruits et de jouer du synthétiseur : les éléments clés, les concepts, les mécanismes et le jeu compétitif.
 
-[Modes de jeu](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Modes de jeu](/wiki/Game_mode) : [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [Beatmap](/wiki/Beatmap) • [Difficulté](/wiki/Beatmap/Difficulty) • [Objets](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Médailles](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
@@ -74,7 +74,7 @@ Découvrez les procédures et les règlements qui assurent la sécurité d'osu! 
 
 Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines) • [Processus de vote sur le contenu](/wiki/Rules/Content_voting_process) • [Contenu explicite](/wiki/Rules/Explicit_content) • [Règles générales relatives au contenu des musiques](/wiki/Rules/Song_content_rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations)
 
-[Pages Légal](/wiki/Legal): [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_licensing)
+[Pages Légal](/wiki/Legal) : [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
