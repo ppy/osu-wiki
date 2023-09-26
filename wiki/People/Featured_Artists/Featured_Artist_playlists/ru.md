@@ -2,6 +2,8 @@
 tags:
   - FA
   - фа
+outdated_translation: true
+outdated_since: 03819c02be8f01a63192d9106b897da5aa47ae40
 ---
 
 # Плейлисты Featured Artist

@@ -1,6 +1,8 @@
 ---
 outdated_translation: true
 outdated_since: 5a1e2c2ae2f648b38d0342af3f72864dd1285c70
+tags:
+  - vcc
 ---
 
 # 视觉内容注意事项
