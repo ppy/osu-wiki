@@ -286,6 +286,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [Sydosys - MALEVOLENT VORTEX](https://www.youtube.com/watch?v=IiRuU6X0d14) | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/taiko.png) \_gt's Taiko All Rounder Tournament
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Sparxe - Dark Vortex | [#1](https://osu.ppy.sh/beatmapsets/1704359) | HR1 des Grandes Finales |
+
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
 | Musique | Beatmap | Notes |
@@ -624,6 +630,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [HowToPlayLN - Veil of Maya](https://soundcloud.com/indekkusu/veil-of-maya) | [#1](https://osu.ppy.sh/beatmapsets/2040476) | Tiebreaker des Grandes Finales |
 | [SiLiS - Asagao Acid Square](https://soundcloud.com/silis/asagao-acid-square) | [#1](https://osu.ppy.sh/beatmapsets/2040480) | RC5 des Grandes Finales |
 
+#### ![](/wiki/shared/mode/osu.png) osu! New Zealand Open 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sparxe - Doom Grotto](https://soundcloud.com/sparxenic/doom-grotto) | [#1](https://osu.ppy.sh/beatmapsets/1943821) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
 | Musique | Beatmap | Notes |
@@ -894,6 +906,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1727804) |
 | [Porter Robinson & Madeon - Shelter (happy30 Remix)](https://open.spotify.com/album/0hgYsO1FgdGq5now2QjVUn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/527621) |
 | [Rabbit House - Muspelheim](https://soundcloud.com/dksslqj/muspelheim)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/815126) |
+| [Sparxe - Comma, ~ Imi to Kouzou no Bunri](https://soundcloud.com/sparxenic/comma) | [#1](https://osu.ppy.sh/beatmapsets/1785711) |
+| [Sparxe - GigaChad's Crazily Insane Jungle Adventure](https://sparxe.bandcamp.com/track/gigachads-crazily-insane-jungle-adventure) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3167303) |
+| [Sparxe - Missed Me](https://soundcloud.com/sparxenic/missed-me) | [#1](https://osu.ppy.sh/beatmapsets/1930206) |
+| [Sparxe - RNG (Random Noise Generation)](https://sparxe.bandcamp.com/track/rng-random-noise-generation) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3141876) |
+| [Sparxe - Suiji-San](https://sparxe.bandcamp.com/track/suiji-san) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3154702) |
+| [Sparxe - Transmission Event Alpha](https://sparxe.bandcamp.com/track/transmission-event) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3129680) |
 | Syrsa - Desolated | [#1](https://osu.ppy.sh/beatmapsets/6615) |
 | Syrsa - Mad Machine | [#1](https://osu.ppy.sh/beatmapsets/6610) |
 | [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) |
