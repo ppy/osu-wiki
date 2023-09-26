@@ -432,50 +432,50 @@ Detailed statistics for this round can be found in [this spreadsheet](https://do
 
 ## Ruleset
 
-Every staff and player must respect each other, follow the [osu! community rules](/wiki/Rules), and do not discuss sensitive topics (example: religion, politics) and anything that could be offensive to others. This is a friendly 1v1 4k national tournament and not the place for such discussions. If a player breaks any of the osu! community rules, they will be punished. Tournament staff have the right to punish players that show repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chat room, the official Discord server, or the official Twitch channel chatroom.
+All staff members and players must respect each other, follow the [osu! community rules](/wiki/Rules). Do not discuss sensitive topics (example: religion, politics) and anything that could be offensive to others. This is a friendly 1v1 4K national tournament and not the place for such discussions. If a player breaks any of the osu! community rules, they will be punished. The tournament staff has the right to punish players who show repeated and excessive toxic behaviour towards any staff member, player, or spectator in either match multiplayer chat rooms, the official Discord server, or the official Twitch channel chat room.
 
 Punishments for violating the osu! community rules include:
 
 - Declaring the match as forfeited, or as a win by default for the other player.
 - Disqualification from the entire tournament.
 
-### Qualifiers procedure
+### Qualifier procedure
 
-1. The referee will notify the player 10-15 minutes before the lobby is scheduled to start. Once all the players are present or another 10 minutes have passed since the scheduled time, the lobby will start.
-2. Players will play the mappool in order from Stage 1-5 twice. After the first cycle, players will be given a 5 minute break before continuing with the 2nd cycle which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
+1. The referee will notify the player 10–15 minutes before the lobby is scheduled to start. Once all the players are present or another 10 minutes have passed since the scheduled time, the lobby will start.
+2. Players will play the mappool in order from stage 1–5 twice. After the first cycle, players will be given a 5-minute break before continuing with the 2nd cycle which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
 
 ### Match procedure
 
 1. The referee will notify players 10 minutes before the match is scheduled to start. Once the players are ready, they must notify the referee to be invited into the lobby.
-2. Protecting & Banning:
-   - Players will be required to roll for **protecting and banning maps** for a total of **protecting 2 maps and banning 1 map**. The player with the highest roll will be allowed to protect a map of their choice first, as well as being able to ban first. Don't hesitate to ask any questions related to this procedure in the Discord server.
+2. Protecting and banning:
+   - Players will be required to roll for **protecting and banning maps** for a total of **protecting 2 maps and banning 1 map**. The player with the highest roll will be allowed to protect a map of their choice first, as well as being able to ban first. Do not hesitate to ask any questions related to this procedure in the Discord server.
    - A player **cannot** protect 2 maps of the same type (example: if player 1 protects hb1, they can no longer protect any other remaining hybrids). This rule applies to each person individually.
-3. During the protect/ban/pick phases each player will be given 2 minutes to choose their maps. If players end up taking too long, the referee will roll a number corresponding to the number of maps in the mappool, excluding TB (example: the mappool has 11 maps, so the referee will `!roll 10`), to randomly choose a map for them. This is to ensure that a match doesn't take too long.
-4. Each player will receive one "timeout" of two minutes per match, to be used as extra time to pick a beatmap or to rest. The timeout may only be used by the player who picks the next map, the only exception being during tiebreaker scenarios, where both players are given a two minute timeout regardless.
+3. During the protect/ban/pick phases each player will be given 2 minutes to choose their maps. If players end up taking too long, the referee will roll a number corresponding to the number of maps in the mappool, excluding TB (example: the mappool has 11 maps, so the referee will `!roll 10`), to randomly choose a map for them. This is to ensure that a match does not take too long.
+4. Each player will receive one "timeout" of two minutes per match, to be used as extra time to pick a beatmap or to rest. The timeout may only be used by the player who picks the next map, the only exception being during tiebreaker scenarios, where both players are given a two-minute timeout regardless.
 5. Players cannot pick or use provocative warm-up maps. This is to ensure that the livestream is family friendly to watch. Players are not required to play a warm-up map, but if desired, the warm-up maps must be sent to the referee at least 5 minutes before the match begins (the earlier, the better).
 6. Duration of warm up maps must be under 4 minutes. There is no limit on star rating.
 
 ### Additional procedure
 
 1. Players can reschedule to a later qualifiers lobby if they missed their scheduled lobby.
-2. In case of a situation where a player doesn't show up on time, the match will be delayed by 10 minutes. If the player still does not show up, the other player present will automatically be declared the winner of the match. To avoid this, please check schedules properly and, if necessary, do an emergency reschedule beforehand with a valid reason.
-3. If a disconnection happens within 30 seconds or first 25% after the map starts, the referee has the option to abort and restart the map. Lag isn't a reason to restart the match.
+2. In case of a situation where a player does not show up on time, the match will be delayed by 10 minutes. If the player still does not show up, the other player present will automatically be declared the winner of the match. To avoid this, please check schedules properly and, if necessary, do an emergency reschedule beforehand with a valid reason.
+3. If a disconnection happens within 30 seconds or first 25% after the map starts, the referee has the option to abort and restart the map. Lag is not a valid reason to restart the match.
 4. Visual mods such as HD, FL, FI, and MR, along with NF mod, are allowed. Meanwhile, EZ and HR mod are not allowed.
 5. If a player does not cooperate with the referee, or intentionally stalls the match, they will receive a warning. If the problem persists, the host has the power to end the match and decide the winner on the spot.
 6. The host has discretion to resolve any situations not listed here as they see fit.
 
 ### Schedules
 
-The Tournament staff will be responsible for scheduling all matches and informing players of their individual schedules. If a player is not happy or comfortable with the schedule, they will have the option to request a reschedule. For more details, refer to the tournament's Discord server.
+The tournament staff will be responsible for scheduling all matches and informing players of their individual schedules. If a player is not happy or comfortable with the schedule, they will have the option to request a reschedule. For more details, refer to the tournament's Discord server.
 
 The tournament staff will do their best to schedule every match according to each player's preferred time to play.
 
-- If no referee is available during match, the match shall be delayed.
+- If no referee is available during the match, the match shall be delayed.
 - If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
 - If no commentators are available to follow the match, but streamers are, the match will still be broadcasted without commentary.
 
 ### Extra
 
-1. Please note that the staff will try their best to broadcast every match. If two matches happen at the same time, the following options are prioritized:
+1. Please note that the staff will try their best to broadcast every match. If two matches happen at the same time, the following options are prioritised:
    - The scheduled match over rescheduled matches.
    - The winner bracket match over the lower bracket match.
