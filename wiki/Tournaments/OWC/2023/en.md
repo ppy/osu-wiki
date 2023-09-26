@@ -121,7 +121,8 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 6 players registered to have the chance to play the Qualifier stage.
-5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, streamers, and statisticians.
+   - If any of the roles listed are playing in the tournament, the tournament managers must ensure that they do not have access to any priviledged data, such as Qualifiers score information or mappool information, ahead of time.
 
 ### Qualifier instructions
 
