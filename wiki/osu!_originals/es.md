@@ -252,6 +252,13 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 ### Lanzamientos de torneos administrados por la comunidad
 
+#### ![](/wiki/shared/mode/catch.png) 4 Digit Catch World Cup 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| 004 - Monumental Crash | [#1](https://osu.ppy.sh/beatmapsets/2048282) | Semifinales HD1 |
+| [kanemiko - comet casting capsule ("catching celestial clusters" Long Version)](https://kanemiko.bandcamp.com/track/comet-casting-capsule-catching-celestial-clusters-long-version) | [#1](https://osu.ppy.sh/beatmapsets/2048282) | Desempate de la gran final |
+
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
 
 | Canción | Beatmap | Notas |
