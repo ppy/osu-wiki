@@ -258,7 +258,7 @@ Sunday, 7 August 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Akurazi ::{ flag=DE }:: | 0 | -1 | ::{ flag=DE }:: sorgenfresser | *Win by default* |  |
+| Akurazi ::{ flag=DE }:: | 0 | -1 | ::{ flag=DE }:: sorgenfresser | *win by default* |  |
 
 ### Semifinals
 
@@ -272,13 +272,13 @@ Saturday, 29 July 2023:
 | **Era Walk-** ::{ flag=DE }:: | **6** | 1 | ::{ flag=DE }:: datnonameboi | [#1](https://osu.ppy.sh/community/matches/109738729) |  |
 | Niko_Plays ::{ flag=DE }:: | 5 | **6** | ::{ flag=DE }:: **araciumhd** | [#1](https://osu.ppy.sh/community/matches/109740606) |  |
 | **Blacku1** ::{ flag=DE }:: | **6** | 1 | ::{ flag=DE }:: d3lt3x | [#1](https://osu.ppy.sh/community/matches/109740590) |  |
-| **ERA Leo** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Akurazi | *Win by default* |  |
+| **ERA Leo** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Akurazi | *win by default* |  |
 
 Sunday, 30 July 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Blacku1** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Era Walk- | *Win by default* |  |
+| **Blacku1** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Era Walk- | *win by default* |  |
 | **TsukiyaWhiskers** ::{ flag=DE }:: | **6** | 1 | ::{ flag=DE }:: sorgenfresser | [#1](https://osu.ppy.sh/community/matches/109757386) | [#1](https://www.youtube.com/watch?v=KgX-E0MaBTo) |
 | araciumhd ::{ flag=DE }:: | 4 | **6** | ::{ flag=DE }:: **ERA Punish** | [#1](https://osu.ppy.sh/community/matches/109758315) | [#1](https://youtu.be/KgX-E0MaBTo?si=KMsClhO76liHP3eX&t=3303) |
 
@@ -298,9 +298,9 @@ Sunday, 23 July 2023:
 
 | Player 1 |  |  | Player 2 | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **d3lt3x** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Vincus | *Win by default* |  |
+| **d3lt3x** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Vincus | *win by default* |  |
 | ReimBuch ::{ flag=DE }:: | 3 | **5** | ::{ flag=DE }:: **Takedown05** | [#1](https://osu.ppy.sh/community/matches/109640201) | [#1](https://www.youtube.com/watch?v=-ZsLLSYssC8) |
-| **TsukiyaWhiskers** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Era Walk- | *Win by default* |  |
+| **TsukiyaWhiskers** ::{ flag=DE }:: | **0** | -1 | ::{ flag=DE }:: Era Walk- | *win by default* |  |
 | Spongybit ::{ flag=DE }:: | 2 | **5** | ::{ flag=DE }:: **araciumhd** | [#1](https://osu.ppy.sh/community/matches/109641289) |  |
 | **ERA Leo** ::{ flag=DE }:: | **5** | 4 | ::{ flag=DE }:: ERA Punish | [#1](https://osu.ppy.sh/community/matches/109642894) | [#1](https://www.youtube.com/watch?v=B03vmSNu7uA) |
 
@@ -316,7 +316,7 @@ Saturday, 15 July 2023:
 | Akurazi ::{ flag=DE }:: | 5 | 2 | ::{ flag=DE }:: \[GE\] Arthur | [#1](https://osu.ppy.sh/community/matches/109507105) | [#1](https://www.youtube.com/watch?v=ffk5jBd9WcU) |
 | araciumhd ::{ flag=DE }:: | 2 | 5 | ::{ flag=DE }:: Era Walk- | [#1](https://osu.ppy.sh/community/matches/109509050) | [#1](https://www.youtube.com/watch?v=lSJXuKrdynQ) |
 | Blacku1 ::{ flag=DE }:: | 5 | 3 | ::{ flag=DE }:: ReimBuch | [#1](https://osu.ppy.sh/community/matches/109511999) | [#1](https://www.youtube.com/watch?v=R9IuGUEvpMI) |
-| ERA Leo ::{ flag=DE }:: | 0 | -1 | ::{ flag=DE }:: d3lt3x | *Win by default* |  |
+| ERA Leo ::{ flag=DE }:: | 0 | -1 | ::{ flag=DE }:: d3lt3x | *win by default* |  |
 
 Sunday, 16 July 2023:
 
