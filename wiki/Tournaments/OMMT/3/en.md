@@ -30,9 +30,9 @@ The **osu!mania Malaysia Tournament 3** (***OMMT 3***) was a Malaysian double-el
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, MYR150 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | MYR100 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | MYR50 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, MYR 150 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | MYR 100 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | MYR 50 |
 
 ![](img/badge.jpg "OMMT 3 winner badge")
 
