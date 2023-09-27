@@ -36,7 +36,7 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 
 As the Hush-Hush medals are meant to be secret achievements of some sort, the unlock requirements are not directly specified; however, players are [welcome to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
-Hush-Hush also has its sub-category called "Hush-Hush (Expert)" the difference of which is medals in it don't allow any [difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods usage.
+There is also has a subcategory called "Hush-Hush (Expert)". The difference is that medals in it do not allow usage of any [difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods.
 
 ## Beatmap Spotlights
 
