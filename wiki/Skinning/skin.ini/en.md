@@ -109,13 +109,7 @@ If your skin folder does not contain a `skin.ini` file, it will default to this 
 
 ### User
 
-**Not a version, but always force [latest](#latest)**
-
-- **Never** use this method when distribute skins!
-- The skin folder **must** be named `User`.
-- Use this method if you only want to change a few things (e.g. cursor or numbers, etc).
-- Does not require the `skin.ini` file.
-- This folder will always force `Version: latest`
+This is not version, but a special skin that is created when the default skin is modified, e.g. by dragging in a custom menu background into the game window (with [osu!supporter](/wiki/osu!supporter#extra-skinnable-elements)) or when attempting to modify osu!mania keybinds for the default skin from the options. It always uses the latest skin version.
 
 ## Notes
 
