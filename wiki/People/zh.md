@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
----
-
 # 成员
 
 这里是团队人员及其文章的索引页。
@@ -14,6 +9,7 @@ outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
 - [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators)
 - [百夫长](Centurions)
 - [社区贡献者](Community_Contributors)
+- [全收集者](Completionists)
 - [开发者](Developers)
 - [优秀提名者](Elite_Nominators)
 - [精选艺术家](Featured_Artists)

@@ -14,7 +14,7 @@ The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-09-21/2023-10-05 |
+| Registration phase | 2023-09-21/2023-10-05 (23:59 UTC) |
 | Qualifier showcase | 2023-10-15 (14:00 UTC) |
 | Qualifier stage | 2023-10-21/2023-10-22 |
 | Round of 32 | 2023-10-28/2023-10-29 |
@@ -41,17 +41,18 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/2709574), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
-| Mappool quality assurance | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=CN }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
+| Mappool quality assurance | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | Mappool playtester | *TBA* |
 | Mapper | *TBA* |
 | Commentator | *TBA* |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Statistician | *TBA* |
+| Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/41)**
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E?rm=minimal)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1823846)
 - [Livestream](https://www.twitch.tv/osulive)
 
@@ -120,7 +121,8 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 6 players registered to have the chance to play the Qualifier stage.
-5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
+   - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
 
@@ -173,7 +175,7 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the tournament managers.
 6. In the case of a team starting a map with less than the optimal number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, i.e. only player additions are allowed.
-7. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, protect, pick, or ready for a beatmap. *The tactical timeout is optional.*
+7. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional.*
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 
 ### Mappool information
