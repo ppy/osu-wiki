@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: bc58fc8015786b327197f7b56b49a71d5fe8895e
 tags:
   - BN
   - BNG
@@ -36,6 +34,17 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 新加入的 BN 都会有一个月的见习期。如果他们的提名顺利，行为合规，则他们会在[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)通过后晋升为正式成员。反之，他们的见习期会再加一个月，甚至被开除。
 
 在 BN 因为犯下错误被降级成见习成员后，如果他们在大约一年内再次犯下了类似的错误，则会被开除。比如，某位 BN 因为不良行为而被降级成见习成员，无论他们是否度过见习期而成功返回正式成员小组，只要在一年内再犯，就会被直接开除。
+
+## 特权
+
+BN 可获得以下特权：
+
+- **[osu! 支持者](/wiki/osu!supporter)**：获得一个时长等于任期的 osu! 支持者标签。
+- **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
+  ![1 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN1y.png "1 年 BN 奖牌") ![2 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN2y.jpg "2 年 BN 奖牌") ![3 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN3y.jpg "3 年 BN 奖牌") ![4 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN4y.jpg "4 年 BN 奖牌") ![5 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN5y.jpg "5 年 BN 奖牌")
+- **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
+  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 次提名奖牌")
+- **[优秀提名者](/wiki/People/Elite_Nominators)资格**：如果 BN 在提名谱面方面表现出色，可以获得年度优秀提名者[玩家头衔](/wiki/Community/User_title)。
 
 ## 团队成员
 
