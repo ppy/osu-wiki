@@ -271,6 +271,14 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
 
+#### osu!mania Malaysia Tournament
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Malaysia Tournament | 2021-05-14 | 2021-06-27 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 2022-05-27 | 2022-07-10 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 2023-07-01 | 2023-08-13 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+
 #### osu! South East Asia Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
@@ -680,6 +688,12 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159) |
+
+#### DACH 4K Championship
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [DACH 4K Championship 2023](DACH4K/2023) | 2023-07-03 | 2023-08-13 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
 
 #### GB Cup
 
