@@ -27,7 +27,7 @@ During [COE](/wiki/Community/cavoe's_osu!_event/2023) two months ago, we glued [
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521) hosted by [nebuwua](https://osu.ppy.sh/users/14729352) for yourself!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/382/1914/The Blind Leading The Blind/1914 - Arrival. The Meuse-Argonne.mp3">
+    <source src="https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - Arrival. The Meuse-Argonne.mp3">
 </audio>
 
 ### 1914 - FN .380 ACP#19074
@@ -35,7 +35,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521
 Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by [MANi](https://osu.ppy.sh/users/12006447) and [morphne](https://osu.ppy.sh/users/12927633)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/382/1914/Where Fear And Weapons Meet/1914 - FN .380 ACP#19074.mp3">
+    <source src="https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - FN .380 ACP#19074.mp3">
 </audio>
 
 ### 1914 - Don't Tread on Me (Harlem Hellfighters)
@@ -43,7 +43,7 @@ Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by
 Surpass the 8-star barrier with [this map](https://osu.ppy.sh/beatmapsets/1899983) hosted by [monzuul](https://osu.ppy.sh/users/15599657)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/382/1914/Where Fear And Weapons Meet/1914 - Don_t Tread on Me (Harlem Hellfighters).mp3">
+    <source src="https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - Don_t Tread on Me (Harlem Hellfighters).mp3">
 </audio>
 
 ---
