@@ -1,6 +1,6 @@
 # 处理作弊行为
 
-*主文章：[举报不当行为](/wiki/Reporting_bad_behaviour).*
+*主文章：[举报不当行为](/wiki/Reporting_bad_behaviour)。*
 
 ## 为什么我的账号处于限制状态？
 
