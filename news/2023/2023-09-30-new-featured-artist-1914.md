@@ -8,13 +8,13 @@ date: 2023-09-30 11:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/382/header.jpg)
 
-Some musicans create music inspired by their favorite artists or genres. Ukranian metal band **1914**, however, creates music inspired by the chaos and terror behind World War I.
+Some musicians create music inspired by their favourite artists or genres. Ukrainian metal band **1914**, however, creates music inspired by the chaos and terror behind World War I.
 
 7-star marathon maps like [FN .380 ACP#19074](https://osu.ppy.sh/beatmapsets/1736332) and [Arrival. The Meuse-Argonne](https://osu.ppy.sh/beatmapsets/1734521) have provided a new battleground for the highest tier of circle clickers. As of today, even more of **1914**'s songs are joining the ranks!
 
 More specifically, **7** masterfully crafted stories (featuring intense metal backing) can be found on [**1914**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/382).
 
-During [COE](/wiki/Community/cavoe's_osu!_event/2023) last month, we glued [etn](https://osu.ppy.sh/users/4581069) to a chair and forced him to full combo the climax of [Arrival. The Meuse-Argonne](https://osu.ppy.sh/beatmapsets/1734521). Check that out (along with the rest of these previews):
+During [COE](/wiki/Community/cavoe's_osu!_event/2023) two months ago, we glued [etn](https://osu.ppy.sh/users/4581069) to a chair and forced him to full combo the climax of [Arrival. The Meuse-Argonne](https://osu.ppy.sh/beatmapsets/1734521). Check that out (along with the rest of these previews):
 
 <div align="center">
     <video width="95%" controls>
@@ -50,7 +50,7 @@ Surpass the 8-star barrier with [this map](https://osu.ppy.sh/beatmapsets/189998
 
 Make history for yourself by crafting the next mapping masterpiece with a tune from [**1914**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/382)!
 
-Or if you'd rather show off your circle clicking competency, there's **2 more days** until the ongoing batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) ends! If you're in the top 10 when it's over, you could earn yourself a [slick profile badge](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes)!
+Or if you'd rather show off your circle clicking competency, there are **2 more days** until the ongoing batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) ends! If you're in the top 10 when it's over, you could earn yourself a [slick profile badge](/wiki/People/Featured_Artists/Featured_Artist_playlists#prizes)!
 
 Aaaaand that's all for now. Stay tuned for another Featured Artist next weekend!
 
