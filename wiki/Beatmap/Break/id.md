@@ -4,8 +4,8 @@ tags:
   - break time
   - rest
   - rest time
-  outdated_translation: true
-  outdated_since: 2070de1a812bbf985e696a679d917f61edf5bd67
+outdated_since: 2070de1a812bbf985e696a679d917f61edf5bd67
+outdated_translation: true
 ---
 
 # Break
