@@ -26,6 +26,14 @@ As you've (hopefully) seen already, [**Aquellex**](https://osu.ppy.sh/beatmaps/a
     <source src="LINK" type="audio/mpeg">
 </audio>
 
+### [LV.4 feat. Chiaki Iwasaki](https://osu.ppy.sh/beatmapsets/2055265)
+
+4 in a row. That's how many osu! originals [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) has designed for osu!'s World Cups, the latest of which is [this Long Note pick](https://osu.ppy.sh/beatmapsets/2055265) by [_underjoy](https://osu.ppy.sh/users/2235750)!
+
+<audio controls>
+    <source src="LINK" type="audio/mpeg">
+</audio>
+
 ### [BilliumMoto - LIGHT LEFT BEHIND](https://osu.ppy.sh/beatmapsets/2062241)
 
 Back on his home turf, [**BilliumMoto**](https://osu.ppy.sh/beatmaps/artists/38) contributed to the Grand Finals mappool with [this Hybrid pick](https://osu.ppy.sh/beatmapsets/2062241) mapped by [-mint-](https://osu.ppy.sh/users/8976576)!
@@ -34,27 +42,9 @@ Back on his home turf, [**BilliumMoto**](https://osu.ppy.sh/beatmaps/artists/38)
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/users/8976576)
-
-This collaboration between over 10 mappers served as the tiebreaker climax to this year's MWC 4K Grand Finals, and subsequently, it was also a climax to 10 years of osu!mania world cups!
-
-If you're looking for an undeniable challenge, try [the hardest 4K Ranked map to date](https://osu.ppy.sh/beatmapsets/2062263) hosted by [**Camellia**](https://osu.ppy.sh/beatmaps/artists/31)'s biggest fan [-mint-](https://osu.ppy.sh/users/8976576)!
-
-<audio controls>
-    <source src="LINK" type="audio/mpeg">
-</audio>
-
 ### [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2058816)
 
 Just like **Aquellex** earlier, [**Kommisar**](https://osu.ppy.sh/beatmaps/artists/379) debuted as a Featured Artist through this year's MWC 4K too! Experience even more chiptune through [this map](https://osu.ppy.sh/beatmapsets/2058816) by [lemonguy](https://osu.ppy.sh/users/4693052) from the Long Note slot of the Finals mappool!
-
-<audio controls>
-    <source src="LINK" type="audio/mpeg">
-</audio>
-
-### [LV.4 feat. Chiaki Iwasaki](https://osu.ppy.sh/beatmapsets/2055265)
-
-4 in a row. That's how many osu! originals [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) has designed for osu!'s World Cups, the latest of which is [this Long Note pick](https://osu.ppy.sh/beatmapsets/2055265) by [_underjoy](https://osu.ppy.sh/users/2235750)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -71,6 +61,16 @@ Just like **Aquellex** earlier, [**Kommisar**](https://osu.ppy.sh/beatmaps/artis
 ### [Toromaru - Deorbit](https://osu.ppy.sh/beatmapsets/2048064)
 
 [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279) proved that electro jazz fits rhythm games yet again through the song behind [this map](https://osu.ppy.sh/beatmapsets/2048064) by [elexire](https://osu.ppy.sh/users/9206093)! Unlike everything above, this Long Note map is *actually* playable by the average person, so give it a try.
+
+<audio controls>
+    <source src="LINK" type="audio/mpeg">
+</audio>
+
+### [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/users/8976576)
+
+This collaboration between over 10 mappers served as the tiebreaker climax to this year's MWC 4K Grand Finals, and subsequently, it was also a climax to 10 years of osu!mania world cups!
+
+If you're looking for an undeniable challenge, try [the hardest 4K Ranked map to date](https://osu.ppy.sh/beatmapsets/2062263) hosted by [**Camellia**](https://osu.ppy.sh/beatmaps/artists/31)'s biggest fan [-mint-](https://osu.ppy.sh/users/8976576)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
