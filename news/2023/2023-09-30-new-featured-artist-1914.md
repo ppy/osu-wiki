@@ -35,7 +35,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521
 Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by [MANi](https://osu.ppy.sh/users/12006447) and [morphne](https://osu.ppy.sh/users/12927633)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - FN .380 ACP#19074.mp3">
+    <source src="https://assets.ppy.sh/artists/382/Where%20Fear%20And%20Weapons%20Meet/1914%20-%20FN%20.380%20ACP%2319074.mp3">
 </audio>
 
 ### 1914 - Don't Tread on Me (Harlem Hellfighters)
