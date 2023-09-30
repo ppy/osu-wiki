@@ -7,6 +7,8 @@ tags:
   - temps de pause
   - repos
   - temps de repos
+  outdated_translation: true
+  outdated_since: 2070de1a812bbf985e696a679d917f61edf5bd67
 ---
 
 # Pause
