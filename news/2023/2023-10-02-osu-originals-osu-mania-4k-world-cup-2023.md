@@ -66,7 +66,7 @@ Just like **Aquellex** earlier, [**Kommisar**](https://osu.ppy.sh/beatmaps/artis
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/users/8976576)
+### [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/beatmapsets/2062263)
 
 This collaboration between over 10 mappers served as the tiebreaker climax to this year's MWC 4K Grand Finals, and subsequently, it was also a climax to 10 years of osu!mania world cups!
 
