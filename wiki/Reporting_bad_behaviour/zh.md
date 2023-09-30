@@ -9,7 +9,7 @@ osu! 拥有一支维护游戏及其社区环境干净安全的[管理员团队](
 | 侵权性质 | 举报方法 |
 | :-- | :-- |
 | 在私信中电信诈骗或网络钓鱼 | 发送常规举报 |
-| 私信中的其他侵犯性/不适当内容 | **不举报**：可以直接[拉黑玩家](/wiki/Client/Interface/Chat_console#commands-list)。如果想永久拉黑，请使用[设置](/wiki/Client/Options)内的游戏内黑名单，或是在他们的个人主页上点击拉黑按钮。 |
+| 私信中的其他侵犯性/不适当内容 | **不举报**：可以直接[拉黑玩家](/wiki/Client/Interface/Chat_console#命令列表)。如果想永久拉黑，请使用[设置](/wiki/Client/Options)内的游戏内黑名单，或是在他们的个人主页上点击拉黑按钮。 |
 | [BN](/wiki/People/Beatmap_Nominators) 的不当行为 | 通过 [NAT/BN 管理](https://bn.mappersguild.com/reports)网站，向 [NAT](/wiki/People/Nomination_Assessment_Team) 举报 |
 | [NAT](/wiki/People/Nomination_Assessment_Team) 或 [GMT](/wiki/People/Global_Moderation_Team) 的不当行为 | 通过 [support@ppy.sh](mailto:support@ppy.sh) 邮箱向[账号支持团队](/wiki/People/Account_support_team)举报 |
 | 性虐待或极端不当行为 | 参见[举报骚扰](/wiki/Reporting_bad_behaviour/Abuse) |
