@@ -20,7 +20,7 @@ Check everything out:
 
 ### [Aquellex - Cortex Charger](https://osu.ppy.sh/beatmapsets/2062236)
 
-As you've (hopefully) seen already, [**Aquellex**](https://osu.ppy.sh/beatmaps/artists/380) debuted as a Featured Artist during the MWC 4K Grand Finals mappool showcase through [this Rice-focused beatmap](https://osu.ppy.sh/beatmapsets/2062236) created by [Halogen](https://osu.ppy.sh/users/169992)!
+As you've (hopefully) seen already, [**Aquellex**](https://osu.ppy.sh/beatmaps/artists/380) debuted as a Featured Artist during the MWC 4K Grand Finals mappool showcase through [this Rice-focused beatmap](https://osu.ppy.sh/beatmapsets/2062236) created by [Halogen-](https://osu.ppy.sh/users/169992)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -28,7 +28,7 @@ As you've (hopefully) seen already, [**Aquellex**](https://osu.ppy.sh/beatmaps/a
 
 ### [LV.4 feat. Chiaki Iwasaki](https://osu.ppy.sh/beatmapsets/2055265)
 
-4 in a row. That's how many osu! originals [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) has designed for osu!'s World Cups, the latest of which is [this Long Note pick](https://osu.ppy.sh/beatmapsets/2055265) by [_underjoy](https://osu.ppy.sh/users/2235750)!
+4 in a row. That's how many osu! originals [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) has designed for osu!'s World Cups, the latest of which is [this Long Note pick](https://osu.ppy.sh/beatmapsets/2055265) by [hna](https://osu.ppy.sh/users/2235750) and [-mint-](https://osu.ppy.sh/users/8976576)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -52,7 +52,7 @@ Just like **Aquellex** earlier, [**Kommisar**](https://osu.ppy.sh/beatmaps/artis
 
 ### [Frums - HALL](https://osu.ppy.sh/beatmapsets/2055332)
 
-[**Frums**](https://osu.ppy.sh/beatmaps/artists/68) is here to make piano smashers scream. Play [the Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/2055332) hosted by [guden](https://osu.ppy.sh/users/11626065)!
+[**Frums**](https://osu.ppy.sh/beatmaps/artists/68) is here to make piano smashers scream. Play [the Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/2055332) by [guden](https://osu.ppy.sh/users/11626065) and [-mint-](https://osu.ppy.sh/users/8976576)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
