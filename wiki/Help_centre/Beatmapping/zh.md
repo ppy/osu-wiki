@@ -45,11 +45,11 @@ tags:
 
 **你拥有的可用谱面槽位取决于你的上架 (Ranked) 谱面数量。参见：[osu! 支持者 § 提高限额](/wiki/osu!supporter#提高限额)。
 
-## 我的谱面/内容被其他玩家在未经我允许的前提下重新上传了，我想要删除侵权的拷贝！ {id=report-content-dmca}
+## 我的谱面/内容被其他玩家在未经我允许的前提下重新上传了，我要求删除侵权的拷贝！ {id=report-content-dmca}
 
 **请根据 [osu! 版权政策](/wiki/Legal/Copyright)，向 [copyright@ppy.sh](mailto:copyright@ppy.sh) 发送 DMCA 声明文件。**
 
-如果原作者想要维权，则任何未经原作者允许重新上传的内容都是侵权行为。为了确保诉讼的程序公正，移除侵权的文件要求需要走合法的程序，
+如果原作者愿意，则任何未经原作者允许重新上传的内容，都可认定为侵权。为了确保诉讼的程序公正，请求移除侵权的文件需要走合法的程序。
 
 请**不要**通过[游戏内 `!report` 指令](/wiki/Reporting_bad_behaviour#游戏内聊天)或 [osu! 网站](/wiki/Reporting_bad_behaviour#网站)来举报。处理举报的 [NAT](/wiki/People/Nomination_Assessment_Team) 和 [GMT](/wiki/People/Global_Moderation_Team) 成员无权处理这些维权的事务。
 
