@@ -41,4 +41,3 @@ Un effet secondaire de cette méthode de mise en page était que la hauteur par 
 :::
 
 - Les deux premiers badges ont été attribués à ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) et à ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour avoir [gagné le *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
-- Les badges peuvent renvoyer à d'autres pages web pour plus de contexte, mais aucun n'utilise actuellement cette fonctionnalité.

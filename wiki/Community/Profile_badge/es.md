@@ -43,4 +43,3 @@ Un efecto secundario de este esquema de diseño fue que la altura predeterminada
 :::
 
 - Las dos primeras insignias de perfil se otorgaron a ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) y ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) el 6 de septiembre de 2009 [por ganar el *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
-- Las insignias pueden vincularse a otras páginas web para obtener más contexto, pero actualmente ninguna utiliza esta función.
