@@ -30,4 +30,4 @@ Le kiai time est le plus souvent utilisé pour la partie la plus intense d'une m
 
 ## Références
 
-[^taiko-roots] : [Vidéo YouTube de Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)
+[^taiko-roots]: [Vidéo YouTube de Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)
