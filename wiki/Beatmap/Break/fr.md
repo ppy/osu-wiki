@@ -17,4 +17,4 @@ Les **pauses** sont des sections d'une [beatmap](/wiki/Beatmap) qui n'ont aucun 
 
 Selon les [paramètres](/wiki/Client/Beatmap_editor/Song_setup) activés, des letterboxes peuvent apparaître lorsqu'une pause est initiée. En outre, un graphique et un son de réussite ou d'échec peuvent apparaître pour indiquer si le joueur s'en sort bien ou non. Cela n'apparaîtra que s'il y a suffisamment de temps pour que l'animation s'affiche.
 
-![Capture d'écran d'une passe de section de pause](img/Section_pass.jpg "Passe de section")
+![Capture d'écran d'une section réussi sur l'écran de pause](img/Section_pass.jpg "Section réussi") ![Capture d'écran d'un section miss sur l'écran de pause](img/Section_fail.jpg "Section miss")
