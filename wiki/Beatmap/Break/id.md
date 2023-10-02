@@ -14,4 +14,4 @@ outdated_translation: true
 
 Tergantung pada [pengaturan](/wiki/Client/Beatmap_editor/Song_setup) yang aktif, kotak hitam (*letterbox*) dapat muncul ketika waktu break dimulai. Selain itu, indikator pass atau fail dalam bentuk grafis dan audio dapat muncul untuk memberitahu pemain apakah mereka bermain dengan baik atau tidak. Fitur ini hanya akan muncul apabila terdapat cukup waktu.
 
-![Tangkapan layar dari umpan bagian istirahat.](img/Section_pass.jpg "Umpan bagian")
+![Tangkapan layar dari umpan bagian istirahat.](img/Section_pass.jpg "Bagian lulus") ![Capture d'écran d'un section miss sur l'écran de pause](img/Section_fail.jpg "Bagian gagal")
