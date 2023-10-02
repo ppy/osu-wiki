@@ -8,7 +8,7 @@ tags:
 
 # Genre und Sprache
 
-![Ein Screenshot des Genres, der Sprache und die Tags auf einer Beatmap-Seite](img/beatmap-info-DE.png "Genre und Sprache werden auf Beatmap-Seiten angezeigt.")
+![Ein Screenshot des Genres, der Sprache und der Tags auf einer Beatmap-Seite](img/beatmap-info-DE.png "Genre und Sprache werden auf Beatmap-Seiten angezeigt.")
 
 [Beatmaps](/wiki/Beatmap), die auf die Webseite hochgeladen werden, haben Felder für das **Genre** und die **Sprache**, um bei der Kategorisierung von Songs zu helfen. Sie werden als Teil der [Metadaten](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) einer Beatmap angesehen.
 
@@ -22,7 +22,7 @@ Die [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) hat Filter für das Gen
 
 ## Das Genre und die Sprache einer Beatmap ändern
 
-Das Genre und die Sprache kann auf der Webseite geändert werden, indem man mit dem Mauszeiger über die Details einer Beatmap fährt und dabei auf das Bleistiftsymbol klickt. Dabei bestimmen die [Benutzergruppe](/wiki/People/User_group) des Nutzers und die [Kategorie](/wiki/Beatmap/Category#aktuelle-kategorien) der Beatmap die jeweiligen Rechte:
+Das Genre und die Sprache können auf der Webseite geändert werden, indem man mit dem Mauszeiger über die Details einer Beatmap fährt und auf das Bleistiftsymbol klickt. Dabei bestimmen die [Benutzergruppe](/wiki/People/User_group) des Nutzers und die [Kategorie](/wiki/Beatmap/Category#aktuelle-kategorien) der Beatmap die jeweiligen Rechte:
 
 - Beatmap-Eigentümer dürfen das, wenn sich die Beatmap in der Kategorie [WIP](/wiki/Beatmap/Category#work-in-progress-und-ausstehend), [Ausstehend](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) oder [Friedhof](/wiki/Beatmap/Category#friedhof) befindet und keine [Nominierungen](/wiki/Beatmap_ranking_procedure#nominations) hat.
 - [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dürfen das, wenn sich die Beatmap in der Kategorie [Qualifiziert](/wiki/Beatmap/Category#qualifiziert), WIP oder Ausstehend befindet.
@@ -44,10 +44,10 @@ Eine Beatmap kann nicht [nominiert](/wiki/Beatmap_ranking_procedure#nominations)
 | Novelty | Lustig oder ungewöhnlich. In osu! beinhaltet diese Kategorie hauptsächlich Songs wie "YouTube Poops", "Niconico MADs" und Meme-Musik. |
 | Hip-Hop | Stilisierte rhythmische Musik, die häufig das Rappen begleitet und manchmal Samples oder Bassaufnahmen verwendet ([*Hip-Hop* auf Wikipedia](https://de.wikipedia.org/wiki/Hip-Hop)). |
 | Electronic | Digital oder mit elektronischen Instrumenten komponiert. |
-| Metal | Ausdrucksstarker Sound mit lauten, verzerrten E-Gitarren und Bässen sowie schnellen oder rasanten Schlagzeugrhythmen. |
+| Metal | Ausdrucksstarker Sound mit lauten, verzerrten E-Gitarren und Bässen sowie schnellen Schlagzeugrhythmen. |
 | Klassik | Formal, auf der Grundlage fortgeschrittener Musiktheorie strukturiert und in der alten westlichen Kultur verwurzelt oder von ihr inspiriert. |
-| Folk | Traditionell oder persönlich, leger und die Identität einer Kultur oder einer Gruppe von Menschen widerspiegelnd. |
-| Jazz | Der Schwerpunkt liegt auf Improvisation und das Entlehnen afrikanischer und kubanischer Rhythmen. Enthält typischerweise Pianos und Instrumente aus Marschkapellen. |
+| Folk | Traditionell oder persönlich, locker und die Identität einer Kultur oder einer Gruppe von Menschen widerspiegelnd. |
+| Jazz | Der Schwerpunkt liegt auf Improvisation und dem Entlehnen afrikanischer und kubanischer Rhythmen. Enthält typischerweise Pianos und Instrumente aus Marschkapellen. |
 
 ## Liste der Sprachen
 
