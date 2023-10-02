@@ -1,8 +1,3 @@
----
-outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
-outdated_translation: true
----
-
 # Medaillen
 
 **Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **314** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
@@ -40,6 +35,8 @@ Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) f
 - Die *Flair-Texte*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> der Medaillen (sofern vorhanden), sichtbar beim Fahren der Maus über die entsprechenden Karten.
 
 Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen da draußen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+Es gibt auch eine Unterkategorie namens "Hush-Hush (Expert)". Der Unterschied ist, dass für die dortigen Medaillen keine [speziellen](/wiki/Gameplay/Game_modifier#sonstige) Mods oder Mods, die die [Schwierigkeit reduzieren](/wiki/Gameplay/Game_modifier#einfacher), aktiviert sein dürfen.
 
 ## Beatmap Spotlights
 
