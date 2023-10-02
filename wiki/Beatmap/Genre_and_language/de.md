@@ -24,10 +24,10 @@ Die [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) hat Filter für das Gen
 
 Das Genre und die Sprache können auf der Webseite geändert werden, indem man mit dem Mauszeiger über die Details einer Beatmap fährt und auf das Bleistiftsymbol klickt. Dabei bestimmen die [Benutzergruppe](/wiki/People/User_group) des Nutzers und die [Kategorie](/wiki/Beatmap/Category#aktuelle-kategorien) der Beatmap die jeweiligen Rechte:
 
-- Beatmap-Eigentümer dürfen das, wenn sich die Beatmap in der Kategorie [WIP](/wiki/Beatmap/Category#work-in-progress-und-ausstehend), [Ausstehend](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) oder [Friedhof](/wiki/Beatmap/Category#friedhof) befindet und keine [Nominierungen](/wiki/Beatmap_ranking_procedure#nominations) hat.
-- [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dürfen das, wenn sich die Beatmap in der Kategorie [Qualifiziert](/wiki/Beatmap/Category#qualifiziert), WIP oder Ausstehend befindet.
-- Mitglieder des [Project Loved Teams](/wiki/People/Project_Loved_Team) dürfen das, wenn sich die Beatmap in der Kategorie [Loved](/wiki/Beatmap/Category#loved) befindet.
-- Mitglieder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) und des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) dürfen das für alle Kategorien.
+- Beatmap-Eigentümer dürfen Änderungen vornehmen, wenn sich die Beatmap in der Kategorie [WIP](/wiki/Beatmap/Category#work-in-progress-und-ausstehend), [Ausstehend](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) oder [Friedhof](/wiki/Beatmap/Category#friedhof) befindet und keine [Nominierungen](/wiki/Beatmap_ranking_procedure#nominations) hat.
+- [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dürfen Änderungen vornehmen, wenn sich die Beatmap in der Kategorie [Qualifiziert](/wiki/Beatmap/Category#qualifiziert), WIP oder Ausstehend befindet.
+- Mitglieder des [Project Loved Teams](/wiki/People/Project_Loved_Team) dürfen Änderungen vornehmen, wenn sich die Beatmap in der Kategorie [Loved](/wiki/Beatmap/Category#loved) befindet.
+- Mitglieder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) und des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) dürfen Änderungen in allen Kategorien vornehmen.
 
 Eine Beatmap kann nicht [nominiert](/wiki/Beatmap_ranking_procedure#nominations) werden, wenn die Sprache oder das Genre auf `Nicht angegeben` eingestellt ist.
 
