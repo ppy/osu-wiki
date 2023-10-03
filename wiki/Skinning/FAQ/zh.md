@@ -1,12 +1,12 @@
 # 自定义皮肤 FAQ
 
-This article is about frequently answered skinning questions.
+这篇文章主要解决自定义皮肤相关的常见问题。
 
 ## 新手入门
 
 ### 自定义皮肤是什么？
 
-Skinning is a simple image changing mechanism that osu! will load upon selecting a skin in the options. Putting a skin together is easy, but creating the assets for it is a little more difficult to achieve.
+自定义皮肤指的是一种简单的图像改变机制，在设置中选中一款皮肤时，osu! 会加载这些图像。组装皮肤很容易，但制作皮肤所需的资源就有些难以实现了。
 
 ### 有人可以制作那个节目或游戏的皮肤吗？
 
@@ -18,13 +18,13 @@ Skinning is a simple image changing mechanism that osu! will load upon selecting
 
 首先，不要在论坛里问这样的问题，否则你的帖子大概率会被删。其次，你最好去找那个人要。他/她可能会给你，但并非总是如此。
 
-### 我可以使用别人皮肤中的自定义元素吗？
+### 可以使用别人皮肤中的自定义元素吗？
 
 Yes, you can use skinning elements from other skins. These are called "mixed skins" or "skin mashups". However, **you are not allowed post these on the skinning subforum with or without permission!** You could, however, post them in your signature or me! userpage.
 
 The only exception to this are sounds, as they are typically harder to make. These can be used from other skins, even without explicit permission from the original skinner. It would, however, be nice of you to credit the original skinner.
 
-### 我的皮肤文件夹应该包含什么？
+### 皮肤文件夹里应该包含什么？
 
 When developing your skin, you can put anything in the skinning folder, including other folders. osu! will simply ignore them, so you can keep your `.xcf` or `.psd` files in the same folder to edit them later if needed.
 
@@ -32,7 +32,7 @@ When releasing your skin, however, you should remove such files to keep the file
 
 Do note, however, the folder called `taiko` (case-insensitive) is reserved for osu!taiko skins which will override all of the osu!taiko elements (and some interface elements when playing an osu!taiko beatmap).
 
-### 我该如何在 osu! 中重新加载皮肤？
+### 如何在 osu! 中重新加载皮肤？
 
 You will need to have your skin selected, then press this keystroke to reload a skin in osu! is `Ctrl` + `Alt` + `Shift` + `S`.
 
@@ -46,21 +46,21 @@ In osu!, there are over 200 skinnable elements (not including the individual ani
 
 That being said, a skinning set (defined by the Ranking Criteria) basically states which elements must be skinned if one of them in the set were skinned. For example, the player using your skin may not like it if you had only skinned only half of the default numbers and left the others as to use their defaults. However, this only strictly applies to beatmap skinning but you may want to take this into account for you own skin.
 
-### Is an edited skin a mixed skin?
+### 改编版皮肤算是混合版皮肤吗？
 
 Edited skins are considered mixed. Thus, they cannot be posted in any subforums.
 
-### Can I remake a skin that someone else made?
+### 可以重制别人制作的皮肤吗？
 
 Yes, you can have a similar skin theme as someone else who might have done it before you. However, you must make the assets yourself and, obviously, don't copy the assets from the other skin you are trying to remake.
 
-### Why isn't there a database for skins, like beatmaps?
+### 为什么没有类似于谱面数据库的皮肤数据库？
 
 There are some third-party projects that try to do this already. However, the skinning database is already planned. For more details, see [ppy/osu-web#61 - Skin System](https://github.com/ppy/osu-web/issues/61).
 
 ## 分享
 
-### 我该如何分享自己的皮肤？
+### 如何分享自己的皮肤？
 
 First, before you share your skin, make sure you have removed other files that are not used. These can be default images and sounds, extra folders, non-image files (except for the `skin.ini` file). Once this is complete, you will need to export your skin as an `.osk` file. With this file, you can upload it then post about it in the skinning subforum.
 
@@ -72,37 +72,37 @@ First, before you share your skin, make sure you have removed other files that a
 6. Take the `.osk` file with your skin's name and upload it
 7. You can now share it!
 
-### Can I post a mixed skin in the skinning subforums?
+### 可以在皮肤子论坛里发布混合版皮肤吗？
 
 No, you are not allowed to post a mixed skin in any subforums. The same thing applies for edited skins as well.
 
-#### Where can I post my mixed skin?
+#### 可以在哪里发布混合版皮肤？
 
 You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins), or anywhere else outside of the osu! forums.
 
-### Can I post a skin remake?
+### 可以发布重制版皮肤吗？
 
 Yes, skin remakes are not considered to be mixed. So you can post these, as long as none of the assets were copied or duplicated from another skin (in which, it would be considered mixed).
 
-### Can I post R15 skins in the skinning subforums?
+### 可以在皮肤子论坛里发布 R15 皮肤吗？
 
 **可以，如果要发布的话，你必须在论坛帖上添加警告。** R15 皮肤可能包括但不限于以下内容：
 
-- suggestive or visible underwear
-- swimsuits and/or bikinis
-- characters with revealing or skimpy clothing
+- 暗示性或暴露性的内衣
+- 泳装和/或比基尼
+- 身着暴露性、轻薄衣物的人物
 
 To add this warning, simply prefix `[R15]` to your thread post title and write a notice at the top of the post itself.
 
-### Can I post R18 skins in the skinning subforums?
+### 可以在皮肤子论坛里发布 R18 皮肤吗？
 
 **不行，禁止在 osu! 中发布含有 R18 内容的皮肤。就这样。**
 
-If you post your R18 skin anywhere in the osu! community, be aware that you will be punished for that. On the other hand, if you release it outside the osu! community walls, nobody will hunt you down. R18 skins may include but not limited to:
+如果你在 osu! 社区中发布 R18 皮肤，请小心因此收到惩罚。从另一方面讲，如果你在 osu! 社区范围外发布，没人会追究你。R18 皮肤可能包括但不限于以下内容：
 
-- nudity
-- near-nudity
-- sexual references
+- 裸体
+- 接近裸体
+- 提及性相关内容
 - 暴力
 - 药品滥用
 
@@ -111,31 +111,31 @@ If you post your R18 skin anywhere in the osu! community, be aware that you will
 If you don't know how to make friendly looking thread, you can use this template.
 
 ```
-[centre][size=150][color=#cc5288]{Name of the skin}[/color][/size]
+[centre][size=150][color=#cc5288]{皮肤名称}[/color][/size]
 
-[size=150]{Write a short 1-3 sentence description of your skin here}[/size]
+[size=150]{在这里写 1-3 句话，简要描述你的皮肤}[/size]
 
 [box=Screenshots]
 [size=150]Song selection
-[img]https://example.com/image-link-here.png[/img]
+[img]https://example.com/图片链接.png[/img]
 Mod selection menu
-[img]https://example.com/image-link-here.png[/img]
+[img]https://example.com/图片链接.png[/img]
 Ranking screen
-[img]https://example.com/image-link-here.png[/img]
+[img]https://example.com/图片链接.png[/img]
 osu! gameplay
-[img]https://example.com/image-link-here.png[/img][/size][/box]
-[url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
+[img]https://example.com/图片链接.png[/img][/size][/box]
+[url=https://example.com/皮肤下载链接.osk]Download link[/url][/centre]
 ```
 
 It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or imgur to upload them.
 
 ## skin.ini
 
-### What is skin.ini?
+### skin.ini 是什么？
 
-*Main page: [skin.ini](/wiki/Skinning/skin.ini)*
+*主页面：[skin.ini](/wiki/Skinning/skin.ini)*
 
-### What is v1.0 and v2.0+?
+### v1.0 和 v2.0+ 是什么？
 
 Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/Skinning/skin.ini#versions).
 
@@ -151,11 +151,11 @@ The hierarchy of the sound formats that osu! will use is as follows:
 2. `.mp3`
 3. `.ogg`
 
-Basically, osu! will prefer `.wav` files because these can loop short sounds better than `.mp3` or `.ogg`.
+基本上，osu! 会优先使用 `.wav` 文件。与 `.mp3` 和 `.ogg` 文件相比，`.wav` 文件更适合用于循环播放短时长的声音。
 
 ## 图像
 
-### What format should the images be in?
+### 应该使用什么格式的图像？
 
 In most cases, images must use the `.png` format. However, the `menu-background.jpg` element must use `.jpg` extension.
 
@@ -165,11 +165,11 @@ In addition to using the `.png` format, you should:
   - Do note, however, that some transparency in certain sections of an image is required to properly align specific elements.
 - Compress images whenever possible. Compressing usually removes unnecessary info about blank pixels and reduces the file sizes dramatically.
 
-### What are overlays?
+### 什么是覆盖层？
 
 Overlays are elements that will be placed on top of another element (the same element name but without the `overlay` or `-overlay` suffix). These are a bit special in that they will not be coloured or tinted. However, only a small handful of elements are given an overlay (they can be found in the skin elements lists).
 
-### What window resolution should I skin?
+### 应该基于哪种分辨率制作皮肤？
 
 Since osu! can be played using different window resolutions, some skinning elements may either overlap or be placed farther apart than anticipated. This means that not all elements will stretch or scale themselves to fit the game window resolution.
 
@@ -183,7 +183,7 @@ It is best to keep the following resolutions in mind while skinning.
 
 Images will be adjusted by the game itself to fit resolutions derivating from the ones mentioned above. Most of them will be rescaled to fit the playfield or repositioned on different aspect ratios.
 
-### HD images
+### HD 图像
 
 HD images are used in place of the normal images on higher resolutions, when present. Compared to normal images, HD images look much sharper and cleaner on these larger resolutions. They get scaled by the game automatically to fit the resolution used. **Resolutions supporting HD images begin at a minimum of 800 pixels in height**. HD images are tagged with the `@2x` suffix in their file names. For example: `cursor@2x.png`.
 
@@ -196,7 +196,7 @@ All HD images may also be bigger in filesize due to the fact that the canvas siz
 - LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
 - HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)
 
-### Ranking screen hit score hierarchy
+### 结算屏幕打击结果层次结构
 
 The ranking screen preferences the static version of skinning elements over the animationed ones. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
 
@@ -214,7 +214,7 @@ However, the osu!mania ranking screen is an exception to this. That is, if an an
 
 ## 动画
 
-### How do I animate an element?
+### 如何给元素添加动画？
 
 First, check the elements listing to see if the element you want to animate can actually be animated. If it can, then you can begin animating it. To do this, you will need to have each frame of the animation be separate images. When this is done, name each frame the element name, followed by a hyphen (`-`), then a an index count (starting at 0). Repeat this for the rest of the frames.
 
@@ -224,7 +224,7 @@ For example, if you are trying to animate `scorebar-colour.png`, name the first 
 
 The animation frame rates for each element are inconsistent. Some use a value defined in the skin.ini file, some use the client's defined value, while others are based on the BPM (beats per minute) of the beatmap. Due to this, animating skinning elements is trial-and-error (see the next section for methods on solving this).
 
-### My animation is playing too fast/slow, how do I fix it?
+### 动画速度太快/太慢了，该如何修复？
 
 If your animation is too fast/slow, you have two ways to fix it:
 
@@ -236,59 +236,59 @@ If your animation is too fast/slow, you have two ways to fix it:
 
 ## 自定义皮肤
 
-### How do I make a long cursortrail?
+### 如何让光标拖出长轨迹？
 
 You will need the `cursormiddle.png` element to be present in your skin. If you do not want it, use a transparent image.
 
-### I deleted an element, but it's still there! How do I remove it?
+### 我删除了一个元素，但它仍然出现！我该如何去掉它？
 
 If you want to remove an element, you must use a transparent image in place of the element you want removed. Then [reload your skin](#我该如何在-osu-中重新加载皮肤).
 
-#### How do I delete the lighting after tapping on an object?
+#### 如何去掉点击物件后出现的闪光？
 
 There are two ways to do this:
 
 - Disable `Hit Lighting` in the [options](/wiki/Client/Options).
 - Use a transparent image called `lighting.png` in your skin.
 
-##### I meant the particles after clicking!
+##### 我想去掉点击后出现的粒子！
 
 For the particles, simply remove the `particle50.png`, `particle100.png`, and `particle300.png` files. You do not need a transparent image for these three.
 
-#### How do I remove the slider end circle?
+#### 如何去掉滑条尾的圆圈？
 
 Add a transparent file called `sliderendcircle.png` to your skin.
 
-#### How do I hide the 300 hit scores?
+#### 如何隐藏 300 分的打击结果？
 
-Add a transparent file for these filenames:
+添加透明图像，文件名如下：
 
 - `hit300-0.png`
 - `hit300g-0.png`
 - `hit300k-0.png`
 
-### How do I add a background in main menu?
+### 如何给主菜单设置背景？
 
 You must have [osu!supporter](/wiki/osu!supporter) to see the background image in the main menu. To quickly change them, you can drag and drop a `.png` or `.jpg` image osu! (in the main menu). This will overwrite the current one from your selected skin's folder.
 
-### What does the @2x do?
+### @2x 是干什么的？
 
-*主页面：[HD 图像](#hd-images)*
+*主页面：[HD 图像](#hd-图像)*
 
-### My taiko drums are in the wrong position!
+### 皮肤里的太鼓位置不对！
 
 Open the [skin.ini](/wiki/Skinning/skin.ini) file and change the `Version` to `2.1` or higher.
 
-### How do I change the combo colours?
+### 如何改变 combo 颜色？
 
-*Main page: [skin.ini](/wiki/Skinning/skin.ini#[colours])*
+*主页面：[skin.ini](/wiki/Skinning/skin.ini#[colours])*
 
-### How do I disable one or more hitsounds?
+### 如何禁用打击音效？
 
 There are three different types of hitsounds using these three prefixes: `normal`, `soft`, and `drum`. All of these has a suffix: `-hitnormal`, `-hitwhistle`, `-hitfinish`, and `-hitclap`.
 
 To disable them, find the ones you do not like and replace it with another sound.
 
-### I use dots instead of numbers, but when I get to the 10th combo, two dots appear!
+### 我用点取代了数字，但在第 10 个 combo 的时候，会出现两个点！
 
 To fix this, you need to change the `HitCircleOverlap` value to the width of the image used for the default numbers. For example, if your the skinned element size is 60x70 pixels (width by height), the value should be 60.
