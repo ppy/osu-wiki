@@ -37,7 +37,7 @@ Una beatmap non può ricevere [nomine](/wiki/Beatmap_ranking_procedure#nominatio
 | Non specificato | Nessun brano applicabile. Questo genere è un segnaposto fin quando ne viene impostato uno appropriato. |
 | Videogiochi | Creato per o reso famoso da un videogioco. Anche usato per arrangiamenti e remix di quei brani. |
 | Anime | Creato per o reso famoso da un anime o simili. |
-| Rock | Principalmente incentrato su chitarre, batteria, e basso, tipicamente "basato su una fondazione di ritmi semplici non sincopati" e caratterizzato da "esibizioni dal vivo e un'attenzione su temi seri e progressivi" ([*Musica rock* su Wikipedia](https://it.wikipedia.org/wiki/Rock#Caratteristiche)). |
+| Rock | Principalmente incentrato su chitarre, batteria, e basso, tipicamente "basato su una fondazione di ritmi semplici sincopati" e caratterizzato da "esibizioni dal vivo e un'attenzione su temi seri e progressivi" ([*Musica rock* su Wikipedia](https://it.wikipedia.org/wiki/Rock#Caratteristiche)). |
 | Pop | Prominente nella cultura pop,  composto per essere orecchiabile attraverso l'uso di strutture semplici e ritornelli o melodie ripetuti. |
 | Altro | Non appartenente a nessuno dei generi elencati. |
 | Novità | Comico o inusuale. In osu!, questa categoria include principalmente brani come YouTube Poop, Niconico MAD, e musica meme. |
