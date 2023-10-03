@@ -2,6 +2,8 @@
 stub: true
 tags:
   - FC
+outdated_translation: true
+outdated_since: a60c43d582052f143b0e97e1494041cc3b8bd5b7
 ---
 
 # フルコンボ
