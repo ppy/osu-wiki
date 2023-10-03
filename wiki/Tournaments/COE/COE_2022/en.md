@@ -17,13 +17,13 @@ The **COE 1v1 Tournament 2022** (***COE1v12022***) was an international open-ran
 | Registration phase | 2022-07-01/2022-07-15 |
 | Qualifier showcase | 2022-07-17 (18:00 UTC) |
 | Qualifier stage | 2022-07-22/2022-07-24 |
-| LAN Pool Showcase | 2022-07-24 (20:00 UTC) |
-| LAN Tournament Day 1 | 2022-08-05 |
-| LAN Tournament Day 2 | 2022-08-06 |
+| LAN pool showcase | 2022-07-24 (20:00 UTC) |
+| LAN tournament day 1 | 2022-08-05 |
+| LAN tournament day 2 | 2022-08-06 |
 
 ## Prizes
 
-The COE 1v1 Tournament 2022 offered a 1,000 € cash prize pool, including a contribution of 1,000 € from the osu! team, and limited edition merch.
+The COE 1v1 Tournament 2022 offered a 1,000 € cash prize pool, including a contribution of 1,000 € from the osu! team, and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -174,33 +174,33 @@ Friday, 5 August 2022:
 
 ### Tournament information
 
-1. This tournament is an osu!standard 1v1 tournament with no rank restriction, all matches will be played with scorev2.
-2. All tournament proceedings will take place within the tournament server and website, registrations will be handled exclusively through OAuth. Players who have registered will be displayed under "registrations."
-3. **Participation in the tournament is contingent upon event attendance, if you are not attending COE 2022 you may not participate.**
-4. The tournament will have an open qualifiers which will determine the top 16 players, these top 16 will then compete at the event on-stage.
-5. The open qualifiers will take place online, players will have 2 chances on each map in the pool, the higher score of the 2 plays will be taken for seeding.
-6. The mappool for the open qualifier will consist of: **4 NM | 2 HD | 2 HR | 2 DT**
-7. Please be aware that even though this tournament is open-rank, the mappools are designed around a high level of skill for competition, please ensure you are able to at least pass 6.5* maps otherwise you may not be able to play the qualifiers mappool.
-8. The bracket stage of the tournament will take place during the final weekend of the event, please ensure that you have a ticket for at least the weekend days in order to participate.
-9. The bracket stage mappool will consist of: **6 NM | 3 HD | 3 HR | 4 DT | 1 TB**, there will be no freemod.
-10. All matches on LAN will be played as a **Best of 9.**
+1. This tournament is an osu! 1v1 tournament with no rank restriction, where all matches will be played with ScoreV2.
+2. All tournament proceedings will take place within the tournament server and website. Registrations will be handled exclusively through OAuth. Players who have registered will be displayed under "registrations".
+3. **Participation in the tournament is contingent upon event attendance. If you are not attending COE 2022 you may not participate.**
+4. The tournament will have an open qualifiers which will determine the top 16 players, who will then compete at the event on stage.
+5. The open qualifiers will take place online. Players will have 2 chances on each map in the pool and the higher score of the 2 plays will be taken for seeding.
+6. The mappool for the open qualifier will consist of: **4 NM, 2 HD, 2 HR, 2 DT**.
+7. Please be aware that even though this tournament is open-rank, the mappools are designed around a high level of skill for competition. Please ensure you are able to at least pass 6.5* maps, otherwise you may not be able to play the qualifier mappool.
+8. The bracket stage of the tournament will take place during the final weekend of the event. Please ensure that you have a ticket for at least the weekend days in order to participate.
+9. The bracket stage mappool will consist of: **6 NM, 3 HD, 3 HR, 4 DT, 1 TB**. There will be no Free Mod maps.
+10. All matches on LAN will be played as a **Best of 9**.
 
 ### Tournament rules
 
-1. There will be 2 mappools, one will be used for an online qualification round prior to the event. The other will be showcased and played live on stage by the top 16 qualifying players.
-2. Matches will take place consecutively, starting at the times listed under "schedule," any changes to these times will be announced at the event.
+1. There will be 2 mappools: one used for an online qualification round prior to the event, and another that will be showcased and played live on stage by the top 16 qualifying players.
+2. Matches will take place consecutively, starting at the times listed under "schedule". Any changes to these times will be announced at the event.
 3. All qualification lobbies must have a dedicated referee present at all times.
-4. Custom skin elements must not be used to alter core gameplay elements or mechanics, staff reserves the exclusive right to request further proof of legitimacy upon suspicion of foul play.
-5. **All bracket stage matches will begin with both players rolling, the loser of the roll will be the first one to *protect* a map of their choice, the winner of the roll will select first pick or first ban, the loser of the roll will select the remaining options by default. For example (roll winner chooses first pick, the roll loser will select between first or second ban).**
-6. A map protection is a map than can not be removed in the ban phase following rolls, each player will have 2 protects, one before the first ban and one following the first ban.
-7. Each player will have 2 bans, these will alternate in the pre-selected order after rolls.
+4. Custom skin elements must not be used to alter core gameplay elements or mechanics. Staff reserves the exclusive right to request further proof of legitimacy upon suspicion of foul play.
+5. All bracket stage matches will begin with both players rolling. The loser of the roll will be the first one to *protect* a map of their choice, the winner of the roll will select first pick or first ban, and the loser of the roll will select the remaining options by default. For example, if the roll winner chooses first pick, the roll loser will select between first or second ban.
+6. A map protection is a map than cannot be removed in the ban phase, following rolls. Each player will have 2 protects: one before the first ban and one following the first ban.
+7. Each player will have 2 bans. These will alternate in a pre-selected order after rolls.
 8. If a map ends in a draw it will be nullified and the beatmap replayed, herein called a rematch.
-9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-10. **Participation is contingent on punctuality, if a player is not present on stage at match time they will be given a forfeit loss, no exceptions.**
+9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
+10. **Participation is contingent on punctuality. If a player is not present on stage at match time they will be given a forfeit loss, no exceptions.**
 11. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-12. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+12. All players and staff must be treated with respect. Instructions of the referees and the tournament management are to be followed. Decisions labelled as final are not to be objected.
 13. The multiplayer chatrooms underlie the osu! community rules. All chat rules apply to the multiplayer chatrooms, too.
-14. **The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.**
+14. The tournament management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Win conditions
 
