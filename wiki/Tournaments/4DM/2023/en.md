@@ -99,8 +99,8 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 | ::{ flag=MY }:: | **Malaysia** | **[-Einar-](https://osu.ppy.sh/users/8782656)**, [JayLye](https://osu.ppy.sh/users/14892447), [Cryolien](https://osu.ppy.sh/users/1626983), [Tosai_](https://osu.ppy.sh/users/3760209), [StyGix](https://osu.ppy.sh/users/7745408), [Ju1nY11](https://osu.ppy.sh/users/14743871) |
 | ::{ flag=MX }:: | **Mexico** | **[\[TK\]Martin_22](https://osu.ppy.sh/users/9653729)**, [Shadow_GM](https://osu.ppy.sh/users/19554046), [Dex uwu](https://osu.ppy.sh/users/12084755), [\[-Elliot-\]](https://osu.ppy.sh/users/29716889), [Andromeda btw](https://osu.ppy.sh/users/14629669), [\[LS\]rudify](https://osu.ppy.sh/users/16425015) |
 | ::{ flag=NL }:: | **Netherlands** | **[2fast](https://osu.ppy.sh/users/5183940)**, [samuelhklumpers](https://osu.ppy.sh/users/10945523), [Tyronixfanboy](https://osu.ppy.sh/users/16999311), [Ready Perfectly](https://osu.ppy.sh/users/10944966), [Freek](https://osu.ppy.sh/users/9630674), [Saemitsu](https://osu.ppy.sh/users/14262789) |
-| ::{ flag=NZ }:: | **New Zealand** |**[Prismal Gaming](https://osu.ppy.sh/users/25689815)**, [jrny](https://osu.ppy.sh/users/11328112), [Zed0x](https://osu.ppy.sh/users/12136108), [troydogape679](https://osu.ppy.sh/users/24534806), [IslandMan](https://osu.ppy.sh/users/28045758) |
-| ::{ flag=NI }:: | **Nicaragua** | **[BlenkchL](https://osu.ppy.sh/users/15714839)**, [_ZaFkieL_](https://osu.ppy.sh/users/11372299), [ArtTrits55](https://osu.ppy.sh/users/22508663), [KevinRJF](https://osu.ppy.sh/users/14309000), [LLB_BBX](https://osu.ppy.sh/users/26133850), [RiRinST](https://osu.ppy.sh/users/17113003) |
+| ::{ flag=NZ }:: | **New Zealand** | **[Prismal Gaming](https://osu.ppy.sh/users/25689815)**, [jrny](https://osu.ppy.sh/users/11328112), [Zed0x](https://osu.ppy.sh/users/12136108), [troydogape679](https://osu.ppy.sh/users/24534806), [IslandMan](https://osu.ppy.sh/users/28045758) |
+| ::{ flag=NI }:: | **Nicaragua** | **[BlenkchL](https://osu.ppy.sh/users/15714839)**, [\_ZaFkieL\_](https://osu.ppy.sh/users/11372299), [ArtTrits55](https://osu.ppy.sh/users/22508663), [KevinRJF](https://osu.ppy.sh/users/14309000), [LLB_BBX](https://osu.ppy.sh/users/26133850), [RiRinST](https://osu.ppy.sh/users/17113003) |
 | ::{ flag=PE }:: | **Peru** | **[Kamikho](https://osu.ppy.sh/users/12664851)**, [Sp3ctro](https://osu.ppy.sh/users/18344249), [AkemiWaton](https://osu.ppy.sh/users/22660023), [Itz_cuy](https://osu.ppy.sh/users/17797442), [samu3lg](https://osu.ppy.sh/users/22630679), [\[ Defuu- \]](https://osu.ppy.sh/users/25129861) |
 | ::{ flag=PH }:: | **Philippines** | **[ERA Frossno](https://osu.ppy.sh/users/17480973)**, [Dyei](https://osu.ppy.sh/users/23643731), [iid3rp](https://osu.ppy.sh/users/23274559), [ManiaDegengod](https://osu.ppy.sh/users/13193798), [\[LS\]Tenshi](https://osu.ppy.sh/users/18520056), [DiamondGenius75](https://osu.ppy.sh/users/19107638) |
 | ::{ flag=PL }:: | **Poland** | **[Mr_adamello](https://osu.ppy.sh/users/7420894)**, [SitekX](https://osu.ppy.sh/users/3840946), [PoweR_LendzeR](https://osu.ppy.sh/users/2894654), [Paraxia](https://osu.ppy.sh/users/14001000), [bagjettka](https://osu.ppy.sh/users/18338179), [MemePaladin399](https://osu.ppy.sh/users/16116021) |
@@ -431,7 +431,6 @@ Sunday, Januuary 22, 2023:
 | **France** ::{ flag=FR}:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/106412562) |
 | **Brazil** ::{ flag=BR}:: | **5** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/106412677) |
 | **United Kingdom** ::{ flag=GB}:: | **5** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/106413780) |
-
 
 ### Qualifiers
 
