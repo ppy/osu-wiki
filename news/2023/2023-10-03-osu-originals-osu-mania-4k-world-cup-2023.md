@@ -26,6 +26,8 @@ As you've (hopefully) seen already, [**Aquellex**](https://osu.ppy.sh/beatmaps/a
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex%20-%20Cortex%20Charger.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### [LV.4 feat. Chiaki Iwasaki - B.O.L.](https://osu.ppy.sh/beatmapsets/2055265)
 
 4 in a row. That's how many osu! originals [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) has designed for osu!'s World Cups, the latest of which is [this Long Note pick](https://osu.ppy.sh/beatmapsets/2055265) by [hna](https://osu.ppy.sh/users/2235750) and [-mint-](https://osu.ppy.sh/users/8976576)!
