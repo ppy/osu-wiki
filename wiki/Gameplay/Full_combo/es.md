@@ -13,4 +13,4 @@ La comunidad considera ampliamente que las puntuaciones que perdieron el combo s
 
 ![Captura de pantalla de las puntuaciones del combo completo y del combo roto](img/combo-comparison.png "La puntuación más alta es un combo completo y la puntuación más baja es un combo roto.")
 
-Debido al [efecto del multiplicador de combo](/wiki/Gameplay/Combo_multiplier_effect), los combos completos otorgarán la mayor [puntuación](/wiki/Gameplay/Score) en los [modos de juego](/wiki/Game_mode) [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!catch](/wiki/Game_mode/osu!catch).
+Debido a que la [puntuación](/wiki/Gameplay/Score) de un objeto individual en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch) depende en gran medida del multiplicador del combo y es prácticamente ilimitada, los combos completos suelen otorgar la mayor puntuación en estos modos de juego.
