@@ -71,8 +71,8 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 - [Livestream](https://www.twitch.tv/4digitmwc)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/104) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Spreadsheets
-  - **[Master](https://docs.google.com/spreadsheets/d/1Bx9iESgLlLqxVarV_Oq75V67WH-n-3OY6SFi1eAH2bI/edit?rm=minimal)**
-  - [Statistics](https://docs.google.com/spreadsheets/d/1kzi1CAdh56pcj6Gy-YVmPZBRF7sMqu9QLH6rtyZ_lII/edit?rm=minimal)
+   - **[Master](https://docs.google.com/spreadsheets/d/1Bx9iESgLlLqxVarV_Oq75V67WH-n-3OY6SFi1eAH2bI/edit?rm=minimal)**
+   - [Statistics](https://docs.google.com/spreadsheets/d/1kzi1CAdh56pcj6Gy-YVmPZBRF7sMqu9QLH6rtyZ_lII/edit?rm=minimal)
 
 ## Participants
 
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
    1. [Aire - Get Down (AlexDunk) \[:touchsvgrass:\]](https://osu.ppy.sh/beatmapsets/1939427#mania/4009815)
    2. [Frequent - Alpha State (Cut Ver.) (arccat) \[Anamnesis\]](https://osu.ppy.sh/beatmapsets/1748927#mania/4009371)
 - Tiebreaker
-   1. [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (doctormango) \[doppelganger in the elysium fields\]](https://osu.ppy.sh/beatmapsets/1939380#mania/4009689)
+   1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (doctormango) \[doppelganger in the elysium fields\]](https://osu.ppy.sh/beatmapsets/1939380#mania/4009689)**
 
 ### Semifinals
 
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
    1. [Alkome - Trust It (Claren) \[Trust me, there are SVs\]](https://osu.ppy.sh/beatmapsets/1935441#mania/3999979)
    2. [Avans - All In (RuleBlazing) \[croissant is the diffname\]](https://osu.ppy.sh/beatmapsets/1935432#mania/3999964)
 - Tiebreaker
-   1. [Amuro vs. Killer - Mei (Camellia's "Yomigae" Remix) (Seiran-) \[Eternities\]](https://osu.ppy.sh/beatmapsets/1827115#mania/3749678)
+   1. **[Amuro vs. Killer - Mei (Camellia's "Yomigae" Remix) (Seiran-) \[Eternities\]](https://osu.ppy.sh/beatmapsets/1827115#mania/3749678)**
 
 ### Quarterfinals
 
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
    1. [PSYQUI - Concentration (Cut Ver.) (Paturages) \[Juice\]](https://osu.ppy.sh/beatmapsets/1931485#mania/3990217)
    2. [Haywyre - Back and Forth (RuleBlazing) \[Reversive\]](https://osu.ppy.sh/beatmapsets/1931366#mania/3989898)
 - Tiebreaker
-   1. [Rabbit House - Divine Ordeal (TheFunk) \[Woodworks (4DM2023 edit)\]](https://osu.ppy.sh/beatmapsets/1931432#mania/3990073)
+   1. **[Rabbit House - Divine Ordeal (TheFunk) \[Woodworks (4DM2023 edit)\]](https://osu.ppy.sh/beatmapsets/1931432#mania/3990073)**
 
 ### Round of 16
 
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
    1. [android52 - Like This (Paturages) \[SV Like This\]](https://osu.ppy.sh/beatmapsets/1927522#mania/3980498)
    2. [Blue Archive - GIVE ME CHOCO (RuleBlazing) \[Lovely Valentine\]](https://osu.ppy.sh/beatmapsets/1927511#mania/3980450)
 - Tiebreaker
-   1. [Arch Echo - To the moon (Nezu-) \[Stellar\]](https://osu.ppy.sh/beatmapsets/1657643#mania/3977098)
+   1. **[Arch Echo - To the moon (Nezu-) \[Stellar\]](https://osu.ppy.sh/beatmapsets/1657643#mania/3977098)**
 
 ### Round of 32
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
    1. [Kakeru - Progress (cut ver.) (HowToPlayLN) \[wokrs (sv)\]](https://osu.ppy.sh/beatmapsets/1923542#mania/3970874)
    2. [Kana Nishino - Sweet Dreams (11t dnb mix) (Paturages) \[Martin Luther King\]](https://osu.ppy.sh/beatmapsets/1923685#mania/3971246)
 Tiebreaker
-   1. [Camellia - New Era (Eclipse-) \[Forgotten Legacy\]](https://osu.ppy.sh/beatmapsets/1923684#mania/3971245)
+   1. **[Camellia - New Era (Eclipse-) \[Forgotten Legacy\]](https://osu.ppy.sh/beatmapsets/1923684#mania/3971245)**
 
 ### Qualifiers
 
@@ -435,8 +435,8 @@ Sunday, Januuary 22, 2023:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1kzi1CAdh56pcj6Gy-YVmPZBRF7sMqu9QLH6rtyZ_lII/edit?rm=minimal)
-- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of maps played in the mappool`
+- More detailed qualifier results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1kzi1CAdh56pcj6Gy-YVmPZBRF7sMqu9QLH6rtyZ_lII/edit?rm=minimal)
+- Average rank was determined by `Σ(position earned when playing the Qualifiers mappool) / amount of maps played in the mappool`
 - Ties in average rank were broken by total scores
 - Only the top 32 teams proceeded to the brackets
 

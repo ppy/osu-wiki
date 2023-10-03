@@ -388,7 +388,7 @@ Sunday, 16 January 2022:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1ahkEH9dOcpeAWHYfpUOKo_0AjD_aIOYzmsa8fKfGBAs/edit?rm=minimal)
-- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of maps played in the mappool`
+- Average rank was determined by `Σ(position earned when playing the Qualifiers mappool) / amount of maps played in the mappool`
 - Ties in average rank were broken by total scores
 - Only the top 32 teams proceeded to the brackets
 
