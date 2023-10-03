@@ -58,7 +58,7 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 | Commentator | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=US }:: [\[Crz\]Mitter](https://osu.ppy.sh/users/14551764), ::{ flag=US }:: [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ::{ flag=US }:: [\[GS\]linc](https://osu.ppy.sh/users/12093536), ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [-Sparky-](https://osu.ppy.sh/users/3187959), ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375), ::{ flag=AU }:: [aiemasu](https://osu.ppy.sh/users/16954929), ::{ flag=US }:: [A kiwi](https://osu.ppy.sh/users/19587411), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=PL }:: [Bexi](https://osu.ppy.sh/users/11548612), ::{ flag=US }:: [CompNebula](https://osu.ppy.sh/users/18418917), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ::{ flag=KR }:: [DHLEE727](https://osu.ppy.sh/users/3428908), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=US }:: [ERA PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=FI }:: [Fisu](https://osu.ppy.sh/users/12545346), ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684), ::{ flag=US }:: [FullCombro](https://osu.ppy.sh/users/12045149), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=NZ }:: [Robeats](https://osu.ppy.sh/users/19446399), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Steeeven](https://osu.ppy.sh/users/15503384), ::{ flag=SG }:: [sukidayo-](https://osu.ppy.sh/users/16870002), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=FI }:: [Tre](https://osu.ppy.sh/users/10024264), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
 | Designer | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki writer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Pick'em manager | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 | Fantasy League manager | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
 
@@ -68,8 +68,11 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 - [4DM Discord server](https://discord.gg/W2MQ647)
 - [4DM Youtube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [4DM2023 trailer](https://www.youtube.com/watch?v=dkDgvkmCEQg)
-- [Player registration form](https://forms.gle/hhTmPVZjvbuDx7QSA)
 - [Livestream](https://www.twitch.tv/4digitmwc)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/104) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- Spreadsheets
+  - **[Master](https://docs.google.com/spreadsheets/d/1Bx9iESgLlLqxVarV_Oq75V67WH-n-3OY6SFi1eAH2bI/edit?rm=minimal)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/1kzi1CAdh56pcj6Gy-YVmPZBRF7sMqu9QLH6rtyZ_lII/edit?rm=minimal)
 
 ## Participants
 
