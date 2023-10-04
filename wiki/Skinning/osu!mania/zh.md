@@ -1,10 +1,10 @@
 # osu!mania 皮肤自定义
 
-Since v2.5+, skinners are now able to fully customise the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognise if one chooses to not use the `skin.ini` for further customisation.
+从 v2.5+ 版本开始，皮肤制作者可以使用 [skin.ini](/wiki/Skinning/skin.ini) 文件完全自定义 osu!mania 的音符与舞台。下面列出了在不使用 `skin.ini` 进一步自定义的情况下，osu! 可以识别出的元素。
 
 ## 打击结果提示
 
-*另见：[Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
+*另见：[自定义皮肤/FAQ § 结算屏幕打击结果层次结构](/wiki/Skinning/FAQ#结算屏幕打击结果层次结构)*
 
 ---
 
@@ -19,8 +19,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit0-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ---
 
@@ -35,8 +35,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit50-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ---
 
@@ -51,8 +51,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit100-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ---
 
@@ -67,8 +67,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit200-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ---
 
@@ -83,8 +83,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit300-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ---
 
@@ -99,8 +99,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 备注：
 
 - 动画文件名：`mania-hit300g-{n}.png`.
-- This element has a fixed looped animation of 60 FPS.
-- If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
+- 此元素的动画循环播放，速度固定为 60 FPS。
+- 如果使用自定义路径，结算屏幕则会使用皮肤根目录中的文件，而非指定路径中的文件。
 
 ## 连击提示图
 
@@ -114,9 +114,9 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- To have multiple combobursts, use: `comboburst-mania-{n}.png`.
+- 如果要设置多个连击提示图，请使用：`comboburst-mania-{n}.png`。
   - One of the images in the set will appear when a combo milestone is met.
-- osu!mania-specific combobursts
+- 仅限 osu!mania 使用。
 - This can be disabled in the [options](/wiki/Client/Options).
 - Unlike osu! and osu!catch's combobursts, all edges of this imageset should not be clipped.
 
@@ -132,8 +132,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the idle state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键未按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
 ---
 
@@ -147,8 +147,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the pressed state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
 ---
 
@@ -162,8 +162,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the idle state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键未按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
 ---
 
@@ -177,8 +177,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the pressed state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
 ---
 
@@ -192,8 +192,8 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the idle state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键未按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
 ---
 
@@ -207,10 +207,10 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This is the pressed state.
-- This element gets stretched or compressed to fit the column width.
+- 此元素对应按键按下时的状态。
+- 为了适合列宽，会拉伸或压缩此元素。
 
-## Notes
+## 音符
 
 `mania-note1.png`
 
@@ -431,7 +431,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
 
-## Stage
+## 舞台
 
 `mania-stage-left.png`
 
@@ -527,11 +527,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 备注：
 
-- This element should point downwards.
+- 箭头应该指向下方。
   - This image is automatically flipped horizontally if the stage is upside down.
 - This element is always seen before the map starts, if there is enough time.
 
-### Lighting
+### 闪光
 
 `lightingL.png`
 
