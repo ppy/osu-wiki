@@ -4,9 +4,9 @@ needs_cleanup: true
 
 <!-- TODO: needs explanation -->
 
-# Skinning history
+# 历史皮肤元素
 
-The skinning elements listed here are no longer in use.
+本文列出的皮肤元素已不再被使用。
 
 ## 界面
 
@@ -16,12 +16,12 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | Centre | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- This element was seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
-- This element was considered to be a bug and was removed from being skinnable.
+- 可以在谱面回放失败时或旁观时（缓冲、暂停、失败期间）看到此元素。
+- 此元素被认为是 bug，从可自定义元素中被移除。
 
 ---
 
@@ -31,11 +31,11 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | Centre | 1366x768 |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 1366x768 |
 
 备注：
 
-- This element was removed and was replaced with `menu-background.jpg`.
+- 此元素被移除，用 `menu-background.jpg` 取代。
 
 ---
 
@@ -50,7 +50,7 @@ The skinning elements listed here are no longer in use.
 备注：
 
 - 此元素由于未知原因被删除。
-- This button opens the beatmap options menu for the individual beatmaps. You can still access this menu by right clicking on a beatmap during song selection.
+- 这个按钮会打开每张谱面的设置菜单。在选歌界面中右键点击谱面，仍然可以打开此菜单。
 
 ---
 
@@ -107,7 +107,7 @@ The skinning elements listed here are no longer in use.
 备注：
 
 - 此元素由于未知原因被删除。
-- Ability to skin this element is not verified, but assumed.
+- 此元素能否自定义被假定，但未经确认。
 
 ---
 
@@ -121,7 +121,7 @@ The skinning elements listed here are no longer in use.
 
 备注：
 
-- This element was skinnable for a single day as part of the 2015 April fools joke.
+- 此元素作为 2015 年的愚人节玩笑，在当天是可以自定义的。
 
 ---
 
@@ -149,13 +149,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -165,13 +165,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -181,13 +181,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -197,13 +197,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -213,13 +213,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -229,13 +229,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -245,13 +245,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -261,13 +261,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -277,13 +277,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -293,13 +293,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -309,13 +309,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ---
 
@@ -325,13 +325,13 @@ The skinning elements listed here are no longer in use.
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![否][false] | ![是][true] | Normal | （未知） | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （未知） | - |
 
 备注：
 
-- This element was removed with the Stable (Fallback) stream.
-- Exclusively for Stable (Fallback) stream.
-- Must be enabled in the [options](/wiki/Client/Options) to see.
+- 此元素连同稳定版（回退）更新通道被删除。
+- 此元素仅限稳定版（回退）版本使用。
+- 在[设置](/wiki/Client/Options)中启用后才可见。
 
 ## osu!
 
@@ -339,13 +339,13 @@ The skinning elements listed here are no longer in use.
 
 ![](img/hitcircleoverlay.png)
 
-*For full details, see [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*对于所有细节，参见：[hitcircleoverlay.png](/wiki/Skinning/osu!#打击圈)。*
 
 备注：
 
-- Animation name: `hitcircleoverlay-{n}.png`
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- 动画文件名：`hitcircleoverlay-{n}.png`
+- 动画帧率：2 FPS（最高为 4 FPS）。
+  - 帧率受 half time 与 double time/nightcore 游戏模组影响。
 
 ---
 
@@ -353,13 +353,13 @@ The skinning elements listed here are no longer in use.
 
 ![](img/sliderstartcircleoverlay.png)
 
-*For full details, see [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*对于所有细节，参见：[sliderstartcircleoverlay.png](/wiki/Skinning/osu!#打击圈)。*
 
 备注：
 
-- Animation name: `sliderstartcircleoverlay-{n}.png`
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- 动画文件名：`sliderstartcircleoverlay-{n}.png`
+- 动画帧率：2 FPS（最高为 4 FPS）。
+  - 帧率受 half time 与 double time/nightcore 游戏模组影响。
 
 ---
 
@@ -367,50 +367,50 @@ The skinning elements listed here are no longer in use.
 
 ![](img/sliderendcircleoverlay.png)
 
-*For full details, see [sliderendcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*对于所有细节，参见：[sliderendcircleoverlay.png](/wiki/Skinning/osu!#打击圈)。*
 
 备注：
 
-- Animation name: `sliderendcircleoverlay-{n}.png`
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
+- 动画文件名：`sliderendcircleoverlay-{n}.png`
+- 动画帧率：2 FPS（最高为 4 FPS）。
+  - 帧率受 half time 与 double time/nightcore 游戏模组影响。
 
 ## .ini
 
 `#k.ini`
 
-Separate .ini files for all different mania keymodes.
+osu!mania 不同键数模式单独的 .ini 文件。
 
 备注：
 
-- These elements were merged with the skin.ini file.
+- 这些文件后来与 skin.ini 文件合并了。
 
 ---
 
 `SliderStyle:`
 
-- Question: What style should the sliders use?
-- Value: `1` / `2`
-- Default: `2`
+- 问题：使用哪种滑条样式？
+- 值：`1` / `2`
+- 默认值：`2`
 
 备注：
 
-- **Stable (Fallback) stream only**
-- `1` = Segmented tracks
-- `2` = Gradient tracks
+- **仅限稳定版（回退）版本**
+- `1` = 分段轨迹
+- `2` = 渐变轨迹
 
 ---
 
 `SliderBallFrames:`
 
-- Question: How many frames do you have for the sliderball animation?
-- Value: *positive integer*
-- Default: *(empty)*
+- 问题：滑条球动画一共有多少帧？
+- 值：*正整数*
+- 默认值：*（空）*
 
 备注：
 
-- This is for [osu!](/wiki/Game_mode/osu!) only.
-- This is slider velocity dependent
+- 仅适用于 [osu!](/wiki/Game_mode/osu!)。
+- 取决于滑条速率。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

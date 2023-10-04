@@ -36,11 +36,11 @@
 
 你要先选中自己的皮肤，然后按下 `Ctrl` + `Alt` + `Shift` + `S` 快捷键，在 osu! 中重新加载皮肤。
 
-你也可以退出You can also exit and reopen osu! or start the updater to reload the skin, but it usually is much quicker to use the four-keystroke combination to reload the skin in osu!
+你也可以在退出后重新启动 osu!，或者启动更新工具来重新加载皮肤，但在 osu! 中使用快捷键通常快得多！
 
 ### 皮肤组列表是什么？
 
-*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
+*主页面：[Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
 
 In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
 

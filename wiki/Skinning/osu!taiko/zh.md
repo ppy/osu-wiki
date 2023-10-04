@@ -1,4 +1,4 @@
-# osu!taiko skinning
+# osu!taiko 皮肤自定义
 
 You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Client/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
@@ -10,11 +10,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![是][true] | Normal | BottomLeft | - |
+| 所有 | ![是][true]（见备注） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- Animation name: `pippidonclear{n}.png`.
+- 动画文件名：`pippidonclear{n}.png`.
   - You can only skin up 7 frames (from 0 to 6).
   - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
   - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
@@ -29,11 +29,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![是][true] | Normal | BottomLeft | - |
+| 所有 | ![是][true]（见备注） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- Animation name: `pippidonfail{n}.png`.
+- 动画文件名：`pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Gameplay/Kiai_time).
@@ -46,11 +46,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![是][true] | Normal | BottomLeft | - |
+| 所有 | ![是][true]（见备注） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- Animation name: `pippidonidle{n}.png`.
+- 动画文件名：`pippidonidle{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
@@ -62,11 +62,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![是][true] | Normal | BottomLeft | - |
+| 所有 | ![是][true]（见备注） | ![是][true] | 普通模式 | 底部左侧 | - |
 
 备注：
 
-- Animation name: `pippidonkiai{n}.png`.
+- 动画文件名：`pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays during [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
@@ -79,11 +79,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `taiko-hit0-{n}.png`.
+- 动画文件名：`taiko-hit0-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -94,11 +94,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `taiko-hit100-{n}.png`.
+- 动画文件名：`taiko-hit100-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -109,11 +109,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `taiko-hit100k-{n}.png`.
+- 动画文件名：`taiko-hit100k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -124,11 +124,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `taiko-hit300-{n}.png`.
+- 动画文件名：`taiko-hit300-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -139,11 +139,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `taiko-hit300k-{n}.png`.
+- 动画文件名：`taiko-hit300k-{n}.png`.
 - If animated, default effect from static images will not be disabled.
 
 ---
@@ -154,12 +154,12 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false]（见备注） | ![否][false] | Normal | Centre | - |
+| 所有 | ![否][false]（见备注） | ![否][false] | 普通模式 | 中心 | - |
 
 备注：
 
 - Can be animated, but only the zeroth frame will be used.
-  - Animation name: `taiko-hit300g-{n}.png`
+  - 动画文件名：`taiko-hit300g-{n}.png`
 - This image is only used on the ranking screen (instead of `taiko-hit300k.png`).
 
 ## Notes
@@ -170,7 +170,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Multiplicative | Centre | 118x118 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
 备注：
 
@@ -189,11 +189,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | 118x118 |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
 备注：
 
-- Animation name: `taikobigcircleoverlay-{n}.png`.
+- 动画文件名：`taikobigcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at combo 50
@@ -208,7 +208,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Multiplicative | Centre | 118x118 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | 中心 | 118x118 |
 
 备注：
 
@@ -224,11 +224,11 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | 118x118 |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | 118x118 |
 
 备注：
 
-- Animation name: `taikohitcircleoverlay-{n}.png`.
+- 动画文件名：`taikohitcircleoverlay-{n}.png`.
   - 2 frames only (`0` and `1`)
   - animation speed depends on BPM
     - animation starts at 50 combo
@@ -242,7 +242,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Normal | Centre | 126x126 |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | 126x126 |
 
 备注：
 
@@ -257,7 +257,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false]（见备注） | Multiplicative | Centre | - |
+| 所有 | ![否][false] | ![否][false]（见备注） | 相乘模式 | 中心 | - |
 
 备注：
 
@@ -273,7 +273,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Additive | Centre | - |
+| 所有 | ![否][false] | ![是][true] | 相加模式 | 中心 | - |
 
 备注：
 
@@ -290,7 +290,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true]（见备注） | Normal | TopLeft | 776x162 |
+| 所有 | ![否][false] | ![是][true]（见备注） | 普通模式 | TopLeft | 776x162 |
 
 备注：
 
@@ -307,7 +307,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | TopLeft | 776x162 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | TopLeft | 776x162 |
 
 备注：
 
@@ -325,7 +325,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false]（见备注） | ![是][true] | Normal | Bottom | - |
+| 所有 | ![否][false]（见备注） | ![是][true] | 普通模式 | 底部 | - |
 
 备注：
 
@@ -342,7 +342,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 181x200 |
+| 所有 | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 181x200 |
 
 备注：
 
@@ -358,8 +358,8 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | Max width: 56px |
-| v2.1+ | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 90x200 |
+| v1 - v2.0 | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | Max width: 56px |
+| v2.1+ | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 90x200 |
 
 备注：
 
@@ -376,8 +376,8 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | Max width: 72px |
-| v2.1+ | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 90x200 |
+| v1 - v2.0 | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | Max width: 72px |
+| v2.1+ | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 90x200 |
 
 备注：
 
@@ -394,8 +394,8 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 843x200 |
-| v2.1+ | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 1024x200 |
+| v1.0 - v2.0 | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 843x200 |
+| v2.1+ | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 1024x200 |
 
 备注：
 
@@ -414,8 +414,8 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 843x200 |
-| v2.1+ | ![否][false] | ![否][false]（见备注） | Normal | TopLeft | 1024x200 |
+| v1.0 - v2.0 | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 843x200 |
+| v2.1+ | ![否][false] | ![否][false]（见备注） | 普通模式 | TopLeft | 1024x200 |
 
 备注：
 
@@ -435,7 +435,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Multiplicative | TopLeft | 1x128 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 1x128 |
 
 备注：
 
@@ -451,7 +451,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Multiplicative | TopLeft | 64x128 |
+| 所有 | ![否][false] | ![是][true] | 相乘模式 | TopLeft | 64x128 |
 
 备注：
 
@@ -466,7 +466,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Normal | Centre | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
@@ -481,7 +481,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![是][true] | Normal | Centre | - |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
@@ -495,7 +495,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false]（见备注） | Normal | Centre | - |
+| 所有 | ![否][false] | ![否][false]（见备注） | 普通模式 | 中心 | - |
 
 备注：
 
@@ -511,7 +511,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false]（见备注） | Normal | Centre | - |
+| 所有 | ![否][false] | ![否][false]（见备注） | 普通模式 | 中心 | - |
 
 备注：
 

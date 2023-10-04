@@ -1,10 +1,10 @@
-# osu!mania skinning
+# osu!mania 皮肤自定义
 
 Since v2.5+, skinners are now able to fully customise the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognise if one chooses to not use the `skin.ini` for further customisation.
 
-## Hit Bursts
+## 打击结果提示
 
-*See also: [Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
+*另见：[Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 
@@ -14,11 +14,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit0-{n}.png`.
+- 动画文件名：`mania-hit0-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
@@ -30,11 +30,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit50-{n}.png`.
+- 动画文件名：`mania-hit50-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
@@ -46,11 +46,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit100-{n}.png`.
+- 动画文件名：`mania-hit100-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
@@ -62,11 +62,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit200-{n}.png`.
+- 动画文件名：`mania-hit200-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
@@ -78,11 +78,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit300-{n}.png`.
+- 动画文件名：`mania-hit300-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
@@ -94,15 +94,15 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![是][true] | Normal | Centre | - |
+| 所有 | ![是][true] | ![是][true] | 普通模式 | 中心 | - |
 
 备注：
 
-- Animation name: `mania-hit300g-{n}.png`.
+- 动画文件名：`mania-hit300g-{n}.png`.
 - This element has a fixed looped animation of 60 FPS.
 - If a custom path is used, the ranking screen will use the file in the root directory instead of the pathed skinning element.
 
-## Comboburst
+## 连击提示图
 
 `comboburst-mania.png`
 
@@ -110,7 +110,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false]（见备注） | ![是][true] | Normal | BottomLeft | Max height: 768px |
+| 所有 | ![否][false]（见备注） | ![是][true] | 普通模式 | 底部左侧 | Max height: 768px |
 
 备注：
 
@@ -120,7 +120,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 - This can be disabled in the [options](/wiki/Client/Options).
 - Unlike osu! and osu!catch's combobursts, all edges of this imageset should not be clipped.
 
-## Keys
+## 按键
 
 `mania-key1.png`
 
@@ -128,7 +128,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -143,7 +143,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -158,7 +158,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -173,7 +173,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -188,7 +188,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -203,7 +203,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Bottom | 50x107 |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部 | 50x107 |
 
 备注：
 
@@ -218,11 +218,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note1-{n}.png`.
+- 动画文件名：`mania-note1-{n}.png`.
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -235,11 +235,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note2-{n}.png`.
+- 动画文件名：`mania-note2-{n}.png`.
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -252,11 +252,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-noteS-{n}.png`.
+- 动画文件名：`mania-noteS-{n}.png`.
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -271,11 +271,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note1H-{n}.png`.
+- 动画文件名：`mania-note1H-{n}.png`.
 - By default, this is also the tail part.
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
@@ -291,11 +291,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note2H-{n}.png`.
+- 动画文件名：`mania-note2H-{n}.png`.
 - By default, this is also the tail part.
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
@@ -311,11 +311,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-noteSH-{n}.png`.
+- 动画文件名：`mania-noteSH-{n}.png`.
 - By default, this is also the tail part.
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
@@ -331,11 +331,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true]（见备注） | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note1L-{n}.png`.
+- 动画文件名：`mania-note1L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -348,11 +348,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true]（见备注） | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note2L-{n}.png`.
+- 动画文件名：`mania-note2L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -365,11 +365,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true]（见备注） | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true]（见备注） | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-noteSL-{n}.png`.
+- 动画文件名：`mania-noteSL-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
@@ -380,11 +380,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note1T-{n}.png`.
+- 动画文件名：`mania-note1T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
 - By default, these elements are flipped for skin versions `2.5` and up.
@@ -399,11 +399,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-note2T-{n}.png`.
+- 动画文件名：`mania-note2T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
 - By default, these elements are flipped for skin versions `2.5` and up.
@@ -418,11 +418,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
-- Animation name: `mania-noteST-{n}.png`.
+- 动画文件名：`mania-noteST-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
 - By default, these elements are flipped for skin versions `2.5` and up.
@@ -439,7 +439,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | BottomRight | Max height: 768px |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部右侧 | Max height: 768px |
 
 备注：
 
@@ -454,7 +454,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | BottomRight | Max height: 768px |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 底部右侧 | Max height: 768px |
 
 备注：
 
@@ -467,12 +467,12 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Normal | Bottom | - |
+| 所有 | ![是][true] | ![否][false] | 普通模式 | 底部 | - |
 
 备注：
 
 - This element is 0.625x smaller than the stage width.
-- Animation name: `mania-stage-bottom-{n}.png`.
+- 动画文件名：`mania-stage-bottom-{n}.png`.
 - Shown on the bottom (or top, if the stage is upside down) of the stage(s).
 - This element will not be stretched to fit the stage width!
 - This element should be skinned for a 480px playfield height.
@@ -486,11 +486,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Multiplicative | Bottom | Max height: 768px |
+| 所有 | ![是][true] | ![否][false] | 相乘模式 | 底部 | Max height: 768px |
 
 备注：
 
-- Animation name: `mania-stage-light-{n}.png`.
+- 动画文件名：`mania-stage-light-{n}.png`.
 - This element is the lighting for the columns when the key is pressed.
 - This element is placed underneath the notes.
 - By default, tinted white.
@@ -506,7 +506,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Centre | - |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 中心 | - |
 
 备注：
 
@@ -523,7 +523,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![否][false] | ![否][false] | Normal | Centre | - |
+| 所有 | ![否][false] | ![否][false] | 普通模式 | 中心 | - |
 
 备注：
 
@@ -539,11 +539,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Additive | Centre | - |
+| 所有 | ![是][true] | ![否][false] | 相加模式 | 中心 | - |
 
 备注：
 
-- Animation name: `lightingL-{n}.png`.
+- 动画文件名：`lightingL-{n}.png`.
 - This element is the lighting for the long notes.
 - This image is flipped horizontally if the stage is upside down.
 - This element is positioned where the centre of the judgement line crosses the centre of a lane.
@@ -556,11 +556,11 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![是][true] | ![否][false] | Additive | Centre | - |
+| 所有 | ![是][true] | ![否][false] | 相加模式 | 中心 | - |
 
 备注：
 
-- Animation name: `lightingN-{n}.png`.
+- 动画文件名：`lightingN-{n}.png`.
 - This element is the lighting for the single notes (and tail notes).
 - This image is flipped horizontally if the stage is upside down.
 - This element is positioned where the centre of the judgement line crosses the centre of a lane.
