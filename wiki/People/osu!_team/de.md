@@ -18,6 +18,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Berater für die Modding- und Mapping-Szene |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Organisator und Verwalter des [World Cups](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisator und Verwalter des [World Cups](/wiki/Tournaments#offizielle-world-cups) |
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), technische Unterstützung |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), technische Unterstützung |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu!-Entwickler |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Projekt- und Community-Betreuer, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
@@ -30,7 +31,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) |  osu!web Entwickler |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Allgemeiner Hausmeister, Moderationsberater |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Berater für die Modding- und Mapping-Szene |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) |  osu!web Entwickler, [osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) |  osu!web Entwickler, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) |  osu!web Entwickler |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), Berater für die Modding- und Mapping-Szene |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Moderator des [osu! YouTube-Kanals](https://www.youtube.com/@osugame), [Mappers' Guild](/wiki/Community/Mappers_Guild) Organisator, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
