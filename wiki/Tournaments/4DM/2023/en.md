@@ -284,13 +284,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, February 25, 2023:
+Saturday, 25 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Singapore** ::{ flag=SG}:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/107049442) |
 
-Saturday, March 4, 2023:
+Saturday, 4 March 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -299,7 +299,7 @@ Saturday, March 4, 2023:
 
 ### Finals
 
-Saturday, February 18, 2023:
+Saturday, 18 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -307,7 +307,7 @@ Saturday, February 18, 2023:
 | **Brazil** ::{ flag=BR}:: | **7** | 5 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/106913987) |
 | **Canada** ::{ flag=CA}:: | **7** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106915788) |
 
-Sunday, February 19, 2023:
+Sunday, 19 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -315,7 +315,7 @@ Sunday, February 19, 2023:
 
 ### Semifinals
 
-Saturday, February 11, 2023:
+Saturday, 11 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -324,7 +324,7 @@ Saturday, February 11, 2023:
 | **Malaysia** ::{ flag=MY}:: | **6** | 5 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106784340) |
 | **Hong Kong** ::{ flag=HK}:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106785408) |
 
-Sunday, February 12, 2023:
+Sunday, 12 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -335,14 +335,14 @@ Sunday, February 12, 2023:
 
 ### Quarterfinals
 
-Friday, February 3, 2023:
+Friday, 3 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ::{ flag=ID}:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106628599) |
 | Netherlands ::{ flag=NL}:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/106635054) |
 
-Saturday, February 4, 2023:
+Saturday, 4 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -353,7 +353,7 @@ Saturday, February 4, 2023:
 | **Germany** ::{ flag=DE}:: | **6** | 2 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/106661572) |
 | **United Kingdom** ::{ flag=GB}:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106664011) |
 
-Sunday, February 5, 2023:
+Sunday, 5 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -368,13 +368,13 @@ Sunday, February 5, 2023:
 
 ### Round of 16
 
-Friday, January 27, 2023:
+Friday, 27 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ::{ flag=BR}:: | **5** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/106504552) |
 
-Saturday, January 28, 2023:
+Saturday, 28 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -386,7 +386,7 @@ Saturday, January 28, 2023:
 | Netherlands ::{ flag=NL}:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/106528056) |
 | **Malaysia** ::{ flag=MY}:: | **5** | 2 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106517258) |
 
-Sunday, January 29, 2023:
+Sunday, 29 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -401,14 +401,14 @@ Sunday, January 29, 2023:
 
 ### Round of 32
 
-Friday, January 20, 2023:
+Friday, 20 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ::{ flag=MY}:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/106361064) |
 | **Germany** ::{ flag=DE}:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/106364412) |
 
-Saturday, January 21, 2023:
+Saturday, 21 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -419,7 +419,7 @@ Saturday, January 21, 2023:
 | **United States** ::{ flag=US}:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/106389025) |
 | **Peru** ::{ flag=PE}:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106395404) |
 
-Sunday, Januuary 22, 2023:
+Sunday, 22 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
