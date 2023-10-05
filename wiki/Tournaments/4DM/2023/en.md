@@ -288,14 +288,14 @@ Saturday, 25 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Singapore** ::{ flag=SG}:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/107049442) |
+| **Singapore** ::{ flag=SG }:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/107049442) |
 
 Saturday, 4 March 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| China ::{ flag=CN}:: | 5 | **7** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/107170387) |
-| Singapore ::{ flag=SG}:: | 2 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107172136) |
+| China ::{ flag=CN }:: | 5 | **7** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/107170387) |
+| Singapore ::{ flag=SG }:: | 2 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107172136) |
 
 ### Finals
 
@@ -303,15 +303,15 @@ Saturday, 18 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Singapore ::{ flag=SG}:: | 6 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/106912106) |
-| **Brazil** ::{ flag=BR}:: | **7** | 5 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/106913987) |
-| **Canada** ::{ flag=CA}:: | **7** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106915788) |
+| Singapore ::{ flag=SG }:: | 6 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/106912106) |
+| **Brazil** ::{ flag=BR }:: | **7** | 5 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/106913987) |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106915788) |
 
 Sunday, 19 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Brazil ::{ flag=BR}:: | 6 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/106941933) |
+| Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/106941933) |
 
 ### Semifinals
 
@@ -319,19 +319,19 @@ Saturday, 11 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Peru ::{ flag=PE}:: | 4 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/106776465) |
-| **United States** ::{ flag=US}:: | **6** | 2 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106777030) |
-| **Malaysia** ::{ flag=MY}:: | **6** | 5 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106784340) |
-| **Hong Kong** ::{ flag=HK}:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106785408) |
+| Peru ::{ flag=PE }:: | 4 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/106776465) |
+| **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106777030) |
+| **Malaysia** ::{ flag=MY }:: | **6** | 5 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106784340) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106785408) |
 
 Sunday, 12 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ::{ flag=CN}:: | **6** | 4 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/106799652) |
-| **Hong Kong** ::{ flag=HK}:: | **6** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106801621) |
-| **Malaysia** ::{ flag=MY}:: | **6** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106808316) |
-| **Singapore** ::{ flag=SG}:: | **6** | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106810812) |
+| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/106799652) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106801621) |
+| **Malaysia** ::{ flag=MY }:: | **6** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106808316) |
+| **Singapore** ::{ flag=SG }:: | **6** | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106810812) |
 
 ### Quarterfinals
 
@@ -339,32 +339,32 @@ Friday, 3 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Indonesia ::{ flag=ID}:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106628599) |
-| Netherlands ::{ flag=NL}:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/106635054) |
+| Indonesia ::{ flag=ID }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106628599) |
+| Netherlands ::{ flag=NL }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/106635054) |
 
 Saturday, 4 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Philippines ::{ flag=PH}:: | 5 | **6** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/106646406) |
-| Poland ::{ flag=PL}:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/106649638) |
-| **Thailand** ::{ flag=TH}:: | **6** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/106650307) |
-| **France** ::{ flag=FR}:: | **6** | 2 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106659854) |
-| **Germany** ::{ flag=DE}:: | **6** | 2 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/106661572) |
-| **United Kingdom** ::{ flag=GB}:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106664011) |
+| Philippines ::{ flag=PH }:: | 5 | **6** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/106646406) |
+| Poland ::{ flag=PL }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/106649638) |
+| **Thailand** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/106650307) |
+| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106659854) |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/106661572) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106664011) |
 
 Sunday, 5 February 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ::{ flag=CN}:: | **6** | 3 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/106667930) |
-| Sweden ::{ flag=SE}:: | 3 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106673626) |
-| **Vietnam** ::{ flag=VN}:: | **6** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106675348) |
-| **Thailand** ::{ flag=TH}:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/106676684) |
-| **Canada** ::{ flag=CA}:: | **6** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/106678686) |
-| Malaysia ::{ flag=MY}:: | 2 | **6** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/106678684) |
-| Germany ::{ flag=DE}:: | 2 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/106678785) |
-| **Singapore** ::{ flag=SG}:: | **6** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106680089) |
+| **China** ::{ flag=CN }:: | **6** | 3 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/106667930) |
+| Sweden ::{ flag=SE }:: | 3 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106673626) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106675348) |
+| **Thailand** ::{ flag=TH }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/106676684) |
+| **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/106678686) |
+| Malaysia ::{ flag=MY }:: | 2 | **6** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/106678684) |
+| Germany ::{ flag=DE }:: | 2 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/106678785) |
+| **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106680089) |
 
 ### Round of 16
 
@@ -372,32 +372,32 @@ Friday, 27 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brazil** ::{ flag=BR}:: | **5** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/106504552) |
+| **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/106504552) |
 
 Saturday, 28 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nicaragua ::{ flag=NI}:: | 1 | **5** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/106529387) |
-| Turkey ::{ flag=TR}:: | 0 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/106518488) |
-| Ireland ::{ flag=IE}:: | 0 | **5** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/106515861) |
-| Australia ::{ flag=AU}:: | 1 | **5** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/106508357) |
-| **China** ::{ flag=CN}:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/106516136) |
-| Netherlands ::{ flag=NL}:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/106528056) |
-| **Malaysia** ::{ flag=MY}:: | **5** | 2 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106517258) |
+| Nicaragua ::{ flag=NI }:: | 1 | **5** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/106529387) |
+| Turkey ::{ flag=TR }:: | 0 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/106518488) |
+| Ireland ::{ flag=IE }:: | 0 | **5** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/106515861) |
+| Australia ::{ flag=AU }:: | 1 | **5** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/106508357) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/106516136) |
+| Netherlands ::{ flag=NL }:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/106528056) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 2 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/106517258) |
 
 Sunday, 29 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Chile** ::{ flag=CL}:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/106548475) |
-| Colombia ::{ flag=CO}:: | 1 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106533550) |
-| Denmark ::{ flag=DK}:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/106540269) |
-| Italy ::{ flag=IT}:: | 3 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/106542917) |
-| **Singapore** ::{ flag=SG}:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/106542538) |
-| Thailand ::{ flag=TH}:: | 3 | **5** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/106533254) |
-| **Canada** ::{ flag=CA}:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106548413) |
-| **Hong Kong** ::{ flag=HK}:: | **5** | 2 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/106537827) |
+| **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/106548475) |
+| Colombia ::{ flag=CO }:: | 1 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106533550) |
+| Denmark ::{ flag=DK }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/106540269) |
+| Italy ::{ flag=IT }:: | 3 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/106542917) |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/106542538) |
+| Thailand ::{ flag=TH }:: | 3 | **5** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/106533254) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106548413) |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/106537827) |
 
 ### Round of 32
 
@@ -405,32 +405,32 @@ Friday, 20 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Malaysia** ::{ flag=MY}:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/106361064) |
-| **Germany** ::{ flag=DE}:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/106364412) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/106361064) |
+| **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/106364412) |
 
 Saturday, 21 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ::{ flag=HK}:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/106374991) |
-| **Indonesia** ::{ flag=ID}:: | **5** | 2 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106378841) |
-| **China** ::{ flag=CN}:: | **5** | 0 | ::{ flag=IE }:: Ireland | [#1](https://osu.ppy.sh/community/matches/106382651) |
-| Mexico ::{ flag=MX}:: | 2 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/106387689) |
-| **United States** ::{ flag=US}:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/106389025) |
-| **Peru** ::{ flag=PE}:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106395404) |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/106374991) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106378841) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=IE }:: Ireland | [#1](https://osu.ppy.sh/community/matches/106382651) |
+| Mexico ::{ flag=MX }:: | 2 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/106387689) |
+| **United States** ::{ flag=US }:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/106389025) |
+| **Peru** ::{ flag=PE }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106395404) |
 
 Sunday, 22 January 2023:
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Philippines** ::{ flag=PH}:: | **5** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106402539) |
-| **Netherlands** ::{ flag=NL}:: | **5** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/106403977) |
-| **Thailand** ::{ flag=TH}:: | **5** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106407471) |
-| **Singapore** ::{ flag=SG}:: | **5** | 0 | ::{ flag=NI }:: Nicaragua | [#1](https://osu.ppy.sh/community/matches/106408907) |
-| **Canada** ::{ flag=CA}:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/106411245) |
-| **France** ::{ flag=FR}:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/106412562) |
-| **Brazil** ::{ flag=BR}:: | **5** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/106412677) |
-| **United Kingdom** ::{ flag=GB}:: | **5** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/106413780) |
+| **Philippines** ::{ flag=PH }:: | **5** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106402539) |
+| **Netherlands** ::{ flag=NL }:: | **5** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/106403977) |
+| **Thailand** ::{ flag=TH }:: | **5** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106407471) |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=NI }:: Nicaragua | [#1](https://osu.ppy.sh/community/matches/106408907) |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/106411245) |
+| **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/106412562) |
+| **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/106412677) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/106413780) |
 
 ### Qualifiers
 
