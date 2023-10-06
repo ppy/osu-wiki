@@ -14,7 +14,7 @@ Si necesita ayuda para hacer una contribución o desea una revisión de su solic
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Activo** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Activo** | Japonés |

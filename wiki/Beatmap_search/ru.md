@@ -59,6 +59,7 @@ tags:
 | `artist` | Название исполнителя |
 | `featured_artist` | Идентификатор исполнителя из программы [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Ник автора сложности |
+| `difficulty` | Название сложности |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
