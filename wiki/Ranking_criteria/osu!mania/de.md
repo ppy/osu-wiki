@@ -1,3 +1,8 @@
+---
+outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
+outdated_translation: true
+---
+
 # Ranking-Kriterien für osu!mania
 
 ***Hinweis: Dieser Artikel ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
