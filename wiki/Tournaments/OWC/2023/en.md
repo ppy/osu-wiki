@@ -51,10 +51,10 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/41)**
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E?rm=minimal)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1823846)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/130) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Ruleset
 
