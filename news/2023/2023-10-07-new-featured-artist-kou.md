@@ -12,7 +12,7 @@ Composing with a self-proclaimed "undefined" style, **Kou!**'s works combine mor
 
 These songs are unlike anything you've heard before, and **6** of them are up for grabs from [**Kou!**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/383)!
 
-Need a sample of **Kou!**'s musical dexterity? (Hint: the correct answer is *yes*.) Take a peek at [Akolibed](https://osu.ppy.sh/users/9269034) as he tries an 8-star map live at [COE](/wiki/Community/cavoe's_osu!_event/2023)!
+Need a sample of **Kou!**'s musical dexterity? (Hint: the correct answer is *yes*.) Take a peek at [Accolibed](https://osu.ppy.sh/users/9269034) as he tries an 8-star map live at [COE](/wiki/Community/cavoe's_osu!_event/2023)!
 
 <div align="center">
     <video width="85%" controls>
