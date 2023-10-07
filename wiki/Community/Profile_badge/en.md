@@ -38,4 +38,4 @@ A side effect of this layout scheme was that the default, non-expanded height of
 :::
 
 - The first two profile badges were awarded to ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) and ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) on 6 September, 2009, for [winning *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).<!-- TODO: The changelog entry for badges being added is also on the same day, and should be mentioned. are these available online anywhere to link to? -clayton -->
-- Badges can link to other web pages for more context, but none currently use this feature.
+- Badges can link to other web pages for more context, like a tournament's forum page or a wiki entry.

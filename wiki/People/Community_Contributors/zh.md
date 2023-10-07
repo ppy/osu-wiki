@@ -1,49 +1,48 @@
----
-outdated_translation: true
-outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
----
-
 # 社区贡献者
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+![旧时代社区贡献者徽章](/wiki/shared/contributor-old-era.png "旧时代社区贡献者徽章")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+![新生代社区贡献者徽章](/wiki/shared/contributor-new-era.png "新生代社区贡献者徽章")
 :::
 
 **社区贡献者** 是对那些主动向 osu! 社区投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的徽章。这个徽章代表着他们曾为整个社区做出了显著的贡献。
 
-与社区贡献者相比，与 [osu! 名人堂](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu! 团队成员，社区贡献者徽章则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
+与社区贡献者相比，与 [osu! 名人堂](/wiki/People/osu!_Alumni)不同的是，后者纪念的是曾经的 osu! 团队成员，社区贡献者徽章则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
 
-## 2013
+在游戏旧时代注册帐户的贡献者会拥有[原始徽章设计](#历史)，而新生代贡献者拥的徽章设计则是一个更加丰富多彩的变体。
 
-### 八月
+## 名单
+
+### 2013
+
+#### 八月
 
 *参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092) (将 .osr 回放文件录制成视频) |
+| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092)（将 .osr 回放文件录制成视频） |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/) |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | 无数的客户端图像设计贡献及其它 |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals) 的美术设计 |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals)的美术设计 |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](https://osu.ppy.sh/community/forums/topics/55305) 这个最受欢迎的第三方摸图工具 |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于6位管理人员的工作量），并且几乎以一己之力在高峰时段管理 #osu 频道 (9000以上用户) |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 OWC） |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 #osu 频道（9000 名以上用户） |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) |  开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
-| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理 |
+| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs)以及数年对月度新谱面排名竞赛的管理 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboard)作为艺术和作图动力的发展 |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样 |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
-## 2015
+### 2015
 
-### 三月
+#### 三月
 
 | 玩家 | 贡献 |
 | :-- | :-- |
@@ -51,15 +50,15 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | 对 osu! wiki 的杰出贡献 |
 | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank 和 osu!Post 的开发 |
 
-## 2016
+### 2016
 
-### 一月
+#### 一月
 
 *参见新闻报道： [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | 建立 [osu!学院](/wiki/Community/Video_series/osu!academy) |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | 建立 [osu! 学院](/wiki/Community/Video_series/osu!academy) |
 | ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | 帮助撰写 osu!weekly 和新闻 |
 | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | 杰出摸图贡献（10k+ 次） |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 杰出摸图贡献（10k+ 次） |
@@ -68,7 +67,7 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - osu! twitch 机器人工具的开发者 |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | 谱面修改建议机器人的开发者 |
 
-### 三月
+#### 三月
 
 *参见新闻报道： [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
@@ -76,7 +75,7 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | :-- | :-- |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | 多年坚持并提高作图绘制质量，在许多场合提供了帮助，以帮助解决社区中的各种问题。 |
 
-### 十一月
+#### 十一月
 
 *参见新闻报道： [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
@@ -92,9 +91,9 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 在社区事务中做出了杰出贡献 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 在社区事务、组织活动、摸图方面做出了杰出贡献 |
 
-## 2017
+### 2017
 
-### 十二月
+#### 十二月
 
 *参见新闻报道：[Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
@@ -121,9 +120,9 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | 通过大量的修订、重写和复核推动了 osu! wiki 发展 |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | 作为 osu! wiki 项目的领头羊，多年来对其做出了巨大贡献 |
 
-## 2019
+### 2019
 
-### 二月
+#### 二月
 
 *参见新闻报道：[Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
@@ -153,9 +152,9 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | 对社区指导计划的杰出贡献 |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | 对 osu!(lazer) 计划的杰出贡献 |
 
-## 2020
+### 2020
 
-### 二月
+#### 二月
 
 *参见新闻报道：[Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
@@ -183,9 +182,9 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | 对 Mappers's Guild 和 BN 的杰出贡献 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | 对 osu! 开源项目的杰出贡献 |
 
-## 2021
+### 2021
 
-### 三月
+#### 三月
 
 *参见新闻报道：[Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
@@ -199,9 +198,9 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | 对计分维护和开发的杰出贡献 |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | 对世界杯和社区锦标赛领域的杰出贡献 |
 
-## 2022
+### 2022
 
-### 六月
+#### 六月
 
 *参见新闻报道：[Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
@@ -212,7 +211,7 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | 对 osu!(lazer) 和 osu!framework 开发的杰出贡献 |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | 对 osu! 表现分（PP）开发和维护的杰出贡献 |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | 对 osu! 表现分（PP）开发的杰出贡献 |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 对 osu! 表现分（PP）开发和振兴 Flashlight mod的杰出贡献 |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 对 osu! 表现分（PP）开发和振兴 Flashlight Mod 的杰出贡献 |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | 对 osu!wiki 计划的杰出贡献 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 对 osu!wiki 计划的杰出贡献 |
 | ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | 对 macOS 技术支持的杰出贡献 |
@@ -221,4 +220,18 @@ outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 对通过开发实用程序对 osu!taiko 作图领域的杰出贡献 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 现实活动和锦标赛领域的杰出贡献 |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 线下活动和锦标赛领域的杰出贡献 |
+
+## 历史
+
+2018 年 2 月，由于与新网站的配色方案不匹配 ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) 重新设计了 ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) 的旧社区贡献者徽章。[^redesign-reasons]
+
+![第一代徽章设计变化](img/design-change-1.png)
+
+由于缺乏 “灵魂”[^redesign-reasons]，徽章设计于 2023 年 7 月 21 日再次作出更改。这次 ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) 优化了最初的设计，并将其分为两个版本，其中老用户（用户 ID 低于 4,000,000 的用户）的徽章设计恢复为了最初的模样，而属于新用户的徽章设计则更加丰富多彩。
+
+![第二代徽章设计变化](img/design-change-2.png)
+
+## 参考
+
+[^redesign-reasons]: [Walavouchey 和 RBRat3 在 osu! Discord 服务器中的 #osu-wiki 频道消息 (2023-08-12)](https://discord.com/channels/188630481301012481/218677502141399041/1139836832381673524)
