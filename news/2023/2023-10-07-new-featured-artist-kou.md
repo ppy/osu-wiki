@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "New Featured Artist: Kou!"
-date: 2023-10-07 11:00:00 +0000
+date: 2023-10-07 17:00:00 +0000
 ---
 
 osu!'s Featured Artist catalogue has been missing one thing until now: **Kou!**
 
 ![](https://assets.ppy.sh/artists/383/header.jpg)
 
-Composing with a self-proclaimed "undefined" style, **Kou!**'s works combine more genres and subgenres than any sane person can reasonably identify — High-Speed Dubstep, J-core, Hitech, Chiptune, Oriental, Uptempo, Hardcore, Speedcore... we'll stop the list there.
+Composing with a self-proclaimed "undefined" style, **Kou!**'s works combine more genres and subgenres than any sane person can reasonably identify — high-speed dubstep, J-core, hitech, chiptune, oriental, uptempo, hardcore, speedcore... we'll stop the list there.
 
 These songs are unlike anything you've heard before, and **6** of them are up for grabs from [**Kou!**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/383)!
 
