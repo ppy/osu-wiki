@@ -56,6 +56,73 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/130) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Zydan](https://osu.ppy.sh/users/9393446)** |
+| ::{ flag=AU }:: | **Australia** | **[mrekk](https://osu.ppy.sh/users/7562902)** |
+| ::{ flag=AT }:: | **Austria** | **[Nekoyase](https://osu.ppy.sh/users/10981997)** |
+| ::{ flag=BY }:: | **Belarus** | **[KortezR](https://osu.ppy.sh/users/6433474)** |
+| ::{ flag=BE }:: | **Belgium** | **[Hanori](https://osu.ppy.sh/users/7078544)** |
+| ::{ flag=BR }:: | **Brazil** | **[Coreanmaluco](https://osu.ppy.sh/users/3149577)** |
+| ::{ flag=KH }:: | **Cambodia** | **[Sambath](https://osu.ppy.sh/users/6511038)** |
+| ::{ flag=CA }:: | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
+| ::{ flag=CL }:: | **Chile** | **[Intercambing](https://osu.ppy.sh/users/2546001)** |
+| ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)** |
+| ::{ flag=CO }:: | **Colombia** | **[Ninther4](https://osu.ppy.sh/users/3291562)** |
+| ::{ flag=HR }:: | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
+| ::{ flag=CZ }:: | **Czechia** | **[Sigmund Fraud](https://osu.ppy.sh/users/3198446)** |
+| ::{ flag=DK }:: | **Denmark** | **[Marco Poio](https://osu.ppy.sh/users/10650901)** |
+| ::{ flag=EE }:: | **Estonia** | **[Ancenthe](https://osu.ppy.sh/users/4479041)** |
+| ::{ flag=FI }:: | **Finland** | **[Freezd](https://osu.ppy.sh/users/6524603)** |
+| ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
+| ::{ flag=DE }:: | **Germany** | **[criller](https://osu.ppy.sh/users/8116659)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[shion](https://osu.ppy.sh/users/10829419)** |
+| ::{ flag=HU }:: | **Hungary** | **[Lexion](https://osu.ppy.sh/users/5271371)** |
+| ::{ flag=IN }:: | **India** | **[\_Cyan](https://osu.ppy.sh/users/10250612)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Fuma](https://osu.ppy.sh/users/1501956)** |
+| ::{ flag=IL }:: | **Israel** | **[PaintedKoala](https://osu.ppy.sh/users/10056419)** |
+| ::{ flag=IT }:: | **Italy** | **[Ryuzaki](https://osu.ppy.sh/users/7165477)** |
+| ::{ flag=JP }:: | **Japan** | **[Invoker](https://osu.ppy.sh/users/5326197)** |
+| ::{ flag=KZ }:: | **Kazakhstan** | **[Plombire](https://osu.ppy.sh/users/15656399)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[ZdefLT](https://osu.ppy.sh/users/9455803)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Chiyuu](https://osu.ppy.sh/users/8226107)** |
+| ::{ flag=MX }:: | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
+| ::{ flag=MN }:: | **Mongolia** | **[seegii](https://osu.ppy.sh/users/4659319)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Manievat](https://osu.ppy.sh/users/6744123)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Zoomer](https://osu.ppy.sh/users/6600930)** |
+| ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
+| ::{ flag=PA }:: | **Panama** | **[Counter Strike](https://osu.ppy.sh/users/5136821)** |
+| ::{ flag=PE }:: | **Peru** | **[\[MG\]Arnold24x24](https://osu.ppy.sh/users/2291265)** |
+| ::{ flag=PH }:: | **Philippines** | **[enri](https://osu.ppy.sh/users/8640970)** |
+| ::{ flag=PL }:: | **Poland** | **[maliszewski](https://osu.ppy.sh/users/12408961)** |
+| ::{ flag=PT }:: | **Portugal** | **[MakiDonalds](https://osu.ppy.sh/users/11610772)** |
+| ::{ flag=RO }:: | **Romania** | **[badeu](https://osu.ppy.sh/users/1473890)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Chicony](https://osu.ppy.sh/users/5199332)** |
+| ::{ flag=SA }:: | **Saudi Arabia** | **[Zesdash](https://osu.ppy.sh/users/5965797)** |
+| ::{ flag=SG }:: | **Singapore** | **[Tebi](https://osu.ppy.sh/users/5407620)** |
+| ::{ flag=SK }:: | **Slovakia** | **[Tikef](https://osu.ppy.sh/users/9149213)** |
+| ::{ flag=ZA }:: | **South Africa** | **[Frostwizard](https://osu.ppy.sh/users/6764293)** |
+| ::{ flag=KR }:: | **South Korea** | **[Nopekjk](https://osu.ppy.sh/users/4585186)** |
+| ::{ flag=ES }:: | **Spain** | **[M A N O L O](https://osu.ppy.sh/users/12296128)** |
+| ::{ flag=SE }:: | **Sweden** | **[scylla](https://osu.ppy.sh/users/9405745)** |
+| ::{ flag=CH }:: | **Switzerland** | **[-Spartan](https://osu.ppy.sh/users/5783061)** |
+| ::{ flag=TW }:: | **Taiwan** | **[\_Fast](https://osu.ppy.sh/users/959763)** |
+| ::{ flag=TH }:: | **Thailand** | **[- Phantasma -](https://osu.ppy.sh/users/1427407)** |
+| ::{ flag=TR }:: | **Turkey** | **[Shinkiro](https://osu.ppy.sh/users/6093148)** |
+| ::{ flag=UA }:: | **Ukraine** | **[dench](https://osu.ppy.sh/users/10073635)** |
+| ::{ flag=AE }:: | **United Arab Emirates** | **[FGChamp](https://osu.ppy.sh/users/12637617)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
+| ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)** |
+| ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)** |
+| ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 13 October 2023**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
+
 ## Ruleset
 
 ### Tournament rules
@@ -115,7 +182,7 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by Thursday, 12 October 2023 (23:59 UTC) will be disqualified from the competition.**
+   - **Teams that do not not send their team list by Friday, 13 October 2023 (23:59 UTC) will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
