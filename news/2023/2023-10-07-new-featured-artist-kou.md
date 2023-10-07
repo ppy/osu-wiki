@@ -46,7 +46,7 @@ If you're still in the marathon mood, here's [another osu!mania masterpiece](htt
 
 ### Kou! - Youkaikakushi Nijyusekai
 
-Through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1699711) hosted by [paz08](https://osu.ppy.sh/users/9964420), **Kou!** has reached the Ranked category in every game mode!
+Through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1699711) hosted by [paz08](https://osu.ppy.sh/users/9964420), **Kou!** has reached the Ranked category in every game mode! (Feel free to check out [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/2023486) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636) too!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/383/Songs/Kou!%20-%20Youkaikakushi%20Nijyusekai.mp3">
