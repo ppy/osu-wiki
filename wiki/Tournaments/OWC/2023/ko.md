@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: a24d578d52109c603cfbcff43b5c08f45eeffa7a
 tags:
   - OWC
   - OWC2023
@@ -51,9 +53,10 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 링크
 
-- **[등록은 여기에서 가능합니다.](https://osu.ppy.sh/community/tournaments/41)**
+- [정보 스프레드시트](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E?rm=minimal)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1823846)
 - [실시간 방송](https://www.twitch.tv/osulive)
+- [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
 
 ## 규칙
 
