@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Линк позивнице | <https://discord.gg/8RJBXe8> |
+| Линк позивнице | <https://discord.gg/osutaiko> |
+| Алтернативни линк позивнице | <https://discord.gg/8RJBXe8> |
 
 :::
 

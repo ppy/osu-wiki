@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Invite link | <https://discord.gg/8RJBXe8> |
+| Invite link | <https://discord.gg/osutaiko> |
+| Alternative invite link | <https://discord.gg/8RJBXe8> |
 
 :::
 

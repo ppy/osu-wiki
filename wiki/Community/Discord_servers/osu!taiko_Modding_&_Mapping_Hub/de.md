@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Einladungslink | <https://discord.gg/8RJBXe8> |
+| Einladungslink | <https://discord.gg/osutaiko> |
+| Alternativer Einladungslink | <https://discord.gg/8RJBXe8> |
 
 :::
 
