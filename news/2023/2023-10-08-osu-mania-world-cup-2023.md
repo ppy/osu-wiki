@@ -3,6 +3,7 @@ layout: post
 title: "osu!mania 4K World Cup 2023 Concludes"
 date: 2023-10-08 21:00:00 +0000
 ---
+
 The osu!mania 4K World Cup concluded as fast as it started. Get up to speed with the tournament's most memorable highlights!
 
 It is with great pleasure that the 10th edition of the osu!mania 4K World Cup has met its expectations. Since its first edition in [2014](/wiki/Tournaments/MWC/2014), users all across the globe have been able to showcase the best of the best players their countries were able to produce! Ever since then, the game and community has evolved quite a lot. The 10th edition of the tournament is a culmination of everyone's efforts.
@@ -29,7 +30,7 @@ Most importantly, thank you - the reader - for supporting the players, the staff
 
 Unfortunately, a quick summary alone isn't enough to *really* showcase how impressive this year's tournament was. We've prepared a bunch of highlights that we wish to be remembered for a long time!
 
-### From underdogs to top dogs.
+### From underdogs to top dogs
 
 To everyone's surprised, we had quite a team stand out in this year's podium, and that is Indonesia! This is the first time they've managed to reach the podium in 4K. They were last seen in the 7K mania World Cup of 2017. This is an achievement worth celebrating for all of their team's fans - congratulations!
 
@@ -136,6 +137,7 @@ We've interviewed a couple active and well-known players in the tournament commu
 > **Nepijin:** We had a very solid team last year in 4K MWC 2022, and that team had a lot of influence in the creation of this year’s team, particularly with regards to our rice capabilities. From there, what we needed was an all-rounded team that can take on any adversity, and I think we succeeded in creating that.
 
 ### bad hd player
+
 *And here we have the captain of Team Indonesia, bad hd player a.k.a. Reyi! This is Indonesia’s first time reaching the podium. Let’s go back all the way, before the qualifier round even started – at that time, did you expect your team to make it to top 3? What was the original aim for your team, and did it change over the course of the tournament? What about when your team was knocked down to the lower bracket by Japan?*
 
 > **bad hd player:** Our primary goal ever since 2021 was to get top 6. Our attitude was essentially to make sure everyone does their best, even with some mistakes. During the match against Japan, we all expected to lose against them, but that did not stop us from trying our best. After going down to the losers bracket, we were extremely confident going up against Hong Kong and Chile, and both teams fought extremely well.
