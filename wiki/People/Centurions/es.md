@@ -1,3 +1,8 @@
+---
+outdated_since: ea2cbc1d0f6c8a3784930ea14f3efdfb048868e0
+outdated_translation: true
+---
+
 # Centuriones
 
 Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#clasificados). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
@@ -27,9 +32,10 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [11/12/2018](https://osu.ppy.sh/beatmapsets/879904) | [20/3/2023](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2)  |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/9/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [13/12/2015](https://osu.ppy.sh/beatmapsets/373858) | [29/8/2018](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [12/07/2019](https://osu.ppy.sh/beatmapsets/965596) | [07/10/2023](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18)  |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [9/3/2009](https://osu.ppy.sh/beatmapsets/5417) | [8/3/2012](https://osu.ppy.sh/beatmapsets/44666) |  |
 
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **3 años y medio** (alrededor de 1292 días) clasificar 100 beatmaps en promedio.
+- Entre todos los centuriones, toma aproximadamente **3 años y medio** (alrededor de 1306 días) clasificar 100 beatmaps en promedio.
