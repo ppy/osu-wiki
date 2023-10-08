@@ -99,13 +99,56 @@ Along the way, we paid witness to some of the most impressively consistent and c
 We've interviewed a couple active and well-known players in the tournament community.
 
 ### myucchii
+*Hello myucchii! Thank you so much for taking the time to do this quick interview with us. Let’s just cut straight to the chase. First things first: let’s talk about the tiebreaker between Chile and Vietnam. Walk us through what was going on in your mind, how you felt before, during, and after.*
+
+> **myucchii:** The match against Vietnam was overall very stressful to me. Even though I was feeling good, and the team was performing very well, we weren't getting the points we were expecting to get in the match. I was also really nervous because this was my first time getting into the semifinals. We ended up getting to the tiebreaker, and I never checked the scoreboard at any point; I was only focused on comboing and trying my hardest to get my team to win. The moment I saw the final message from the referee, saying that we won the match, was probably one of the best moments I've ever experienced in my entire osu!mania career as a player, to the point where I cried because of how happy I was. Every time I scroll through my maps in the osu! menu and see HALL, I just think of that moment.
+
+*Your team managed to snatch an impressive top 8 run, making it to the second round of Semifinals. Do you think that placement is “accurate”, for lack of a better term?*
+
+> **myucchii:** Honestly, the teams’ placement this year was very fair. Going into this tournament, we thought the difficulty increase in the mappools could potentially give us more of a chance to put up a good fight against the top few teams, and I’d say that we succeeded, particularly on the LN and hybrid maps.
+
+*Tell us about your vision of the future for Team Chile. Do you have plans to continue to coach or develop players from your team to eventually reach the podium?*
+
+> **myucchii:** I’ve always had plans to continue assisting in fostering the competitive 4K environment within the Chilean community. I’m very glad to already have been able to assist players along their journeys and witness their potential manifest in real time; for instance, MyAngelKokomi and [LS]bambi fnf, who had never even played in 4K MWC before, proved themselves to be two of the most capable tournament players Team Chile has seen. With them and even more players on the horizon, top 3 feels ever so slightly closer. It’s still my ultimate goal to achieve in this game, and I won’t ever stop trying to encourage my fellow Chilean players to share in that dream.
+
+*Any closing thoughts?*
+
+> **myucchii:** 4K MWC 2023 was very memorable to me; it was by far the best tournament I’ve taken part in, and I cannot express my gratitude enough for the mappoolers, referees, casters, and everyone else on the staff team for making this such an incredible experience. You all deserve the world and more credit for your work through this tedious process, which will always have a place in my heart forever. Thank you so much.
 
 ### Nepijin
+*Congratulations to Team United States on the first place in 4K MWC 2023! Nepijin, you’ve been playing in 4K MWC since 2021, as well as taking the leadership role as Team Captain for the past two years. You must have had quite the journey to get here; how are you feeling?*
+
+> **Nepijin:** I’m extremely ecstatic! Winning MWC has been a dream of mine ever since I started this game. From the very beginning, I’ve had a flame inside me to be one of the greats, and MWC always reignited it. To me, this win is a dream come true and a reflection of my growth as a player.
+
+*How has playing in 4K MWC for the last 3 years shaped your outlook on the game itself?*
+
+> **Nepijin:** Playing in 4K MWC, and osu!mania tournaments overall, has made this game a lot more enjoyable, because they’re just so much fun. But this dream coming true has made me find success in my passion to help others find their spark. There is so much beauty in seeing how people get so inspired, and that passion carries on. If there’s one thing I want people to take away from this, it’s this: I hope you can all create your own path, and to find those passions in your life.
+
+*To many of us with a trained eye in these sorts of things, it’s very apparent that a lot of thought was put into the formation of six players that make up Team United States. Let’s talk about that: what sort of factors did you have to take into account?*
+
+> **Nepijin:** We had a very solid team last year in 4K MWC 2022, and that team had a lot of influence in the creation of this year’s team, particularly with regards to our rice capabilities. From there, what we needed was an all-rounded team that can take on any adversity, and I think we succeeded in creating that.
+
+### bad hd player
+*And here we have the captain of Team Indonesia, bad hd player a.k.a. Reyi! This is Indonesia’s first time reaching the podium. Let’s go back all the way, before the qualifier round even started – at that time, did you expect your team to make it to top 3? What was the original aim for your team, and did it change over the course of the tournament? What about when your team was knocked down to the lower bracket by Japan?*
+
+> **bad hd player:** Our primary goal ever since 2021 was to get top 6. Our attitude was essentially to make sure everyone does their best, even with some mistakes. During the match against Japan, we all expected to lose against them, but that did not stop us from trying our best. After going down to the losers bracket, we were extremely confident going up against Hong Kong and Chile, and both teams fought extremely well.
+
+*Describe how you felt during the Finals weekend. After a close call with Brazil that went to a tiebreaker, and a 7-4 win against Thailand, your team fought valiantly to secure a top 3 position. What was the general atmosphere among your team? Were you feeling nervous, or excited, or a mix of both?*
+
+> **bad hd player:** Finals weekend was an absolute rollercoaster of emotions for me, and my teammates probably felt the same way. However, we didn't want to go down without a fight. One key moment of that match was our 500-point victory on Hybrid 2 (GENE ~A mix~ by lemonguy), which ultimately boosted our collective mental state going into the tiebreaker, and we came out victorious.
+
+*How did you feel after winning against Thailand, knowing you had just secured a podium spot?*
+
+> **bad hd player:** During the Thailand match, we were very confident in taking them down, which in general made us very excited going into the match. Despite the slip-ups, we were able to keep our stamina intact and away from fatigue and secured our victory. The feeling of getting a podium spot in an osu! World Cup has been indescribable; it’s a spot very few osu! players can even reach.
+
+*Any closing thoughts?*
+
+> **bad hd player:** I’m going to be completely honest: I did cry after winning against Brazil. That really showed me how much this game means to me, and how close it is to my heart. Many people will dismiss this and say, “it’s just a game”, but I think they are forgetting the whole process that goes into it. The players that play in an osu! World Cup not only demonstrate that they are good at the game, but also show their months- or years-long dedication put into it. We should give props to everyone that put in their all for the osu!mania World Cup; they all deserve as much love and care as the countries in the podium spot.
 
 ## End word
 We'd like to have a final round of applause for everyone who was involved into making this possible. We really hope to see you guys next year. The sky is the limit! And while 10 years have passed, the tournament's ambitions will only keep increasing. Special thanks to the staff team for blowing everyone's expectations out of the water.
 
-If you'd like to know more, all of the tournament's relevant information can be found on (its-wiki-page-here), alongside all the statistics and details for all data nerds out there. For now, we close another chapter in this tournament's history. We hope the up-and-coming *osu! World Cup 2023* gets to be as amazing as this year mania's edition has been.
+If you'd like to know more, all the tournament's relevant information can be found on (its-wiki-page-here), alongside all the statistics and details for all data nerds out there. For now, we close another chapter in this tournament's history. We hope the up-and-coming *osu! World Cup 2023* gets to be as amazing as this year mania's edition has been.
 
 See you around!
 
