@@ -271,6 +271,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 21.03.2020 | 17.05.2020 | somaymalaycapcay | adventure timers | we will 操你妈 |
 
+#### osu!mania Malaysia Tournament
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Malaysia Tournament | 14.05.2021 | 27.06.2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 27.05.2022 | 10.07.2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 01.07.2023 | 13.08.2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+
 #### osu! South East Asia Tournament
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -681,6 +689,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 24.06.2017 | 06.08.2017 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 10.09.2018 | 25.11.2018 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159) |
+
+#### DACH 4K Championship
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [DACH 4K Championship 2023](DACH4K/2023) | 03.07.2023 | 13.08.2023 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
 
 #### GB Cup
 

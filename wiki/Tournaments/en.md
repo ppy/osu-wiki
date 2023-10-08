@@ -682,6 +682,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159) |
 
+#### DACH 4K Championship
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [DACH 4K Championship 2023](DACH4K/2023) | 2023-07-03 | 2023-08-13 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
+
 #### GB Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -745,6 +751,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!mania LN Tournament](o!mLN/1) | 2019-03-23 | 2019-05-04 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
 | [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 | [osu!mania LN Tournament 3](o!mLN/3) | 2022-10-15 | 2022-12-04 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
+
+#### osu!mania Malaysia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Malaysia Tournament | 2021-05-14 | 2021-06-27 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 2022-05-27 | 2022-07-10 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 2023-07-01 | 2023-08-13 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
 
 #### osu!mania South East Asia Champion 2020
 
