@@ -8,7 +8,7 @@ The rules of the game are rapidly changing, with even more revisions in the maki
 
 ![](/wiki/shared/news/2023-10-08-osulazer-updates-october-8/banner.jpg)
 
-Considering these updates now come every two weeks instead of every month (in case you hadn't noticed), you're probably wondering how there is still so many changes to summarise. We wonder that ourselves, too.
+Considering these updates now come every two weeks instead of every month (in case you hadn't noticed), you're probably wondering how there are still so many changes to summarise. We wonder that ourselves, too.
 
 View or read the summary below:
 
