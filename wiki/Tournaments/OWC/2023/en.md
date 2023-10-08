@@ -74,7 +74,7 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)**, [lolol234](https://osu.ppy.sh/users/5791401), [lolol233](https://osu.ppy.sh/users/11375105), [Crystal](https://osu.ppy.sh/users/1646397), [My Angel Anzu](https://osu.ppy.sh/users/4896825), [z980838928](https://osu.ppy.sh/users/1355695), [SurvivorX4](https://osu.ppy.sh/users/12585048), [MidC](https://osu.ppy.sh/users/20461077) |
 | ::{ flag=CO }:: | **Colombia** | **[Ninther4](https://osu.ppy.sh/users/3291562)** |
 | ::{ flag=HR }:: | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
-| ::{ flag=CZ }:: | **Czechia** | **[Sigmund Fraud](https://osu.ppy.sh/users/3198446)** |
+| ::{ flag=CZ }:: | **Czechia** | **[Sigmund Fraud](https://osu.ppy.sh/users/3198446)**, [CutoNaito](https://osu.ppy.sh/users/8064649), [Dejvi](https://osu.ppy.sh/users/11635349), [LaBron Jayms](https://osu.ppy.sh/users/3853840), [Masox](https://osu.ppy.sh/users/9422204), [olamin](https://osu.ppy.sh/users/9694973), [VilaZ](https://osu.ppy.sh/users/5155680), [zabloink](https://osu.ppy.sh/users/4605548) |
 | ::{ flag=DK }:: | **Denmark** | **[Polle](https://osu.ppy.sh/users/13218204)** |
 | ::{ flag=EE }:: | **Estonia** | **[Ancenthe](https://osu.ppy.sh/users/4479041)** |
 | ::{ flag=FI }:: | **Finland** | **[Freezd](https://osu.ppy.sh/users/6524603)** |
@@ -97,7 +97,7 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=NZ }:: | **New Zealand** | **[buffcorreII](https://osu.ppy.sh/users/11141578)** |
 | ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)**, [-GN](https://osu.ppy.sh/users/895581), [amae koromo](https://osu.ppy.sh/users/6888972), [antonyw](https://osu.ppy.sh/users/12959983), [Melvr](https://osu.ppy.sh/users/9211924), [ninerik](https://osu.ppy.sh/users/10549880), [papercandle](https://osu.ppy.sh/users/12353810), [Pinguinzi](https://osu.ppy.sh/users/9414229) |
 | ::{ flag=PA }:: | **Panama** | **[Counter Strike](https://osu.ppy.sh/users/5136821)**, [Ramon 2](https://osu.ppy.sh/users/11562243), [raetia](https://osu.ppy.sh/users/6033536), [Daniel11PTY](https://osu.ppy.sh/users/16535905), [Bakiii](https://osu.ppy.sh/users/6790430), [Sirny](https://osu.ppy.sh/users/18962732), [ne0craft](https://osu.ppy.sh/users/17545095) |
-| ::{ flag=PE }:: | **Peru** | **[\[MG\]Arnold24x24](https://osu.ppy.sh/users/2291265)** |
+| ::{ flag=PE }:: | **Peru** | **[Hasaki](https://osu.ppy.sh/users/9037054)** |
 | ::{ flag=PH }:: | **Philippines** | **[enri](https://osu.ppy.sh/users/8640970)**, [hyeok2044](https://osu.ppy.sh/users/8472976), [NathanRam1918](https://osu.ppy.sh/users/4734703), [Xyloz](https://osu.ppy.sh/users/12040280), [C6 Venti](https://osu.ppy.sh/users/9642774), [Impowster](https://osu.ppy.sh/users/13484596), [Miggie](https://osu.ppy.sh/users/12028437), [zonelouise](https://osu.ppy.sh/users/1492995) |
 | ::{ flag=PL }:: | **Poland** | **[maliszewski](https://osu.ppy.sh/users/12408961)** |
 | ::{ flag=PT }:: | **Portugal** | **[MakiDonalds](https://osu.ppy.sh/users/11610772)** |
@@ -109,11 +109,11 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=ZA }:: | **South Africa** | **[Frostwizard](https://osu.ppy.sh/users/6764293)** |
 | ::{ flag=KR }:: | **South Korea** | **[Nopekjk](https://osu.ppy.sh/users/4585186)** |
 | ::{ flag=ES }:: | **Spain** | **[M A N O L O](https://osu.ppy.sh/users/12296128)** |
-| ::{ flag=SE }:: | **Sweden** | **[scylla](https://osu.ppy.sh/users/9405745)** |
+| ::{ flag=SE }:: | **Sweden** | **[scylla](https://osu.ppy.sh/users/9405745)**, [Reedkatt](https://osu.ppy.sh/users/8335950), [Andros](https://osu.ppy.sh/users/9072586), [Zpinxx](https://osu.ppy.sh/users/9818947), [Jageko](https://osu.ppy.sh/users/5798349), [Fejlan](https://osu.ppy.sh/users/8150535), [Grippeh](https://osu.ppy.sh/users/11749569), [TOnyrino](https://osu.ppy.sh/users/7338010) |
 | ::{ flag=CH }:: | **Switzerland** | **[-Spartan](https://osu.ppy.sh/users/5783061)** |
 | ::{ flag=TW }:: | **Taiwan** | **[\_Fast](https://osu.ppy.sh/users/959763)** |
 | ::{ flag=TH }:: | **Thailand** | **[Lesperry](https://osu.ppy.sh/users/18092331)**, [-Kedama](https://osu.ppy.sh/users/12147277), [minecrafter](https://osu.ppy.sh/users/9389213), [chests](https://osu.ppy.sh/users/14806365), [Deppyforce](https://osu.ppy.sh/users/5286213), [\_Arigato](https://osu.ppy.sh/users/9317938), [\[ Freeze \]](https://osu.ppy.sh/users/15296720), [\[ Master \]](https://osu.ppy.sh/users/12130906) |
-| ::{ flag=TR }:: | **Turkey** | **[Shinkiro](https://osu.ppy.sh/users/6093148)** |
+| ::{ flag=TR }:: | **Turkey** | **[Raikouhou](https://osu.ppy.sh/users/8007528)**, [Shinkiro](https://osu.ppy.sh/users/6093148), [gilraen](https://osu.ppy.sh/users/9256771), [Clutchx](https://osu.ppy.sh/users/14958380), [Mikatsu](https://osu.ppy.sh/users/6612642), [LyeRR](https://osu.ppy.sh/users/13068741), [Orkay](https://osu.ppy.sh/users/9321674), [Ievi-](https://osu.ppy.sh/users/14684430) |
 | ::{ flag=UA }:: | **Ukraine** | **[magnatagamer123](https://osu.ppy.sh/users/7587763)**, [dench](https://osu.ppy.sh/users/10073635), [POMAH](https://osu.ppy.sh/users/11794209), [o\_q](https://osu.ppy.sh/users/16139008), [P0MAH](https://osu.ppy.sh/users/8274648), [RafGPio](https://osu.ppy.sh/users/13705417), [Unavel](https://osu.ppy.sh/users/18781432), [TAPAC](https://osu.ppy.sh/users/10394538) |
 | ::{ flag=AE }:: | **United Arab Emirates** | **[Ailes Grises](https://osu.ppy.sh/users/10916561)** |
 | ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
