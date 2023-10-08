@@ -18,13 +18,13 @@ View or read the summary below:
 
 ### Changes
 
-- **Lower maximum required spinner RPM cap based on Overall Difficulty.** The maximum achievable bonus score is now calculated based on a few reference RPM values, the fastest being 430 RPM at OD 10. This basically makes getting the maximum possible score on spinners easier for everyone.
+- **Lower maximum required spinner RPM cap based on Overall Difficulty.** The maximum achievable bonus score (when "completing" a spinner) is now calculated based on a few reference RPM values, the fastest being 430 RPM at OD 10. This basically makes getting the maximum possible score on spinners easier for everyone.
 
-| OD | Clear RPM (unchanged) | Completion RPM (stable) | Completion RPM (lazer) |
-| :-: | --: | --: | --: |
-| 0 | 90 | 477 | 250 |
-| 5 | 150 | 477 | 380 |
-| 10 | 225 | 477 | 430 |
+| Value | OD 0 | OD 5 | OD 10 |
+| :-- | --: | --: | --: |
+| Clear RPM | 90 | 150 | 225 |
+| Completion RPM (stable) | 477 | 477 | 477 |
+| Completion RPM (lazer) | 250 | 380 | 430 |
 
 - **Extended information on mod icons.** The Double Time and Half Time icons (as well as their pitch-changing variants) now directly show custom speed changes, making the mods easy to visually compare on leaderboards without needing to hover over their icons.
 - **Design changes for the argon skin.** The health bar is redesigned (and will not be as wide as it is now by default in the future) and an outline was added to slider reverse arrows.
