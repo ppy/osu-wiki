@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Code de conduite Contributor Covenant
 
 ## Notre engagement
