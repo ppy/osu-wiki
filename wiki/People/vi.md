@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mọi người
 
 Trang chỉ mục cho những bài viết về những người hay nhóm.
@@ -9,6 +13,7 @@ Trang chỉ mục cho những bài viết về những người hay nhóm.
 - [Người tuyển chọn điểm sáng beatmap](Beatmap_Spotlight_Curators)
 - [Các đội trưởng](Centurions)
 - [Cộng tác viên cộng đồng](Community_Contributors)
+- [Những người hoàn thành game](Completionists)
 - [Lập trình viên](Developers)
 - [Người đề cử ưu tú](Elite_Nominators)
 - [Nghệ sĩ nổi bật](Featured_Artists)
