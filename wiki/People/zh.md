@@ -9,6 +9,7 @@
 - [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators)
 - [百夫长](Centurions)
 - [社区贡献者](Community_Contributors)
+- [全收集者](Completionists)
 - [开发者](Developers)
 - [优秀提名者](Elite_Nominators)
 - [精选艺术家](Featured_Artists)

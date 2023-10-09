@@ -1,148 +1,151 @@
 ---
-outdated_since: 96cf49c598294957efd202a00af9e7814a41cdfd
-outdated_translation: true
+no_native_review: true
 ---
 
-# Guide de l'édition audio
+# Guide d'édition audio
 
-[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
+[l'osu!academy](/wiki/Community/Video_series/osu!academy) a abordé ce sujet dans [l'Episode 15 : Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode explique également comment installer et utiliser Audacity avec la possibilité d'exporter des fichiers `.mp3` de LAME.
 
-Cet article sert de guide pour vous aider à effectuer des modifications mineures sur vos fichiers audio à des fins de beatmapping. En le développant, vous pouvez aider les autres beatmappers à créer des fichiers audio adaptés à tous les besoins.
+Cet article sert de guide pour vous aider à apporter des modifications mineures à vos fichiers audio pour les besoins du beatmapping. En le développant, vous pouvez aider les autres beatmappeurs à créer des fichiers audio adaptés à leurs besoins.
 
-*Ce n'est pas le logiciel que vous ne pouvez utiliser, mais plutôt les listes de ceux qui les ont ajoutées ici. Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, veuillez les ajouter.*
+*Il ne s'agit en aucun cas des logiciels que vous pouvez utiliser, mais plutôt de ceux qui ont été ajoutés ici. Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, n'hésitez pas à les ajouter.*
 
-## Audacity (et LAME)
+## Audacity
 
-[Audacity](https://www.audacityteam.org/download) est un logiciel libre d'édition et d'enregistrement audio. Pour l'utiliser correctement pour `.mp3`, vous devez utiliser LAME.
+[Audacity](https://www.audacityteam.org/download) est un logiciel d'édition et d'enregistrement audio libre et gratuit. Il utilise la bibliothèque d'encodage [LAME](https://lame.sourceforge.io) pour pouvoir exporter du son au format MP3. Il est intégré à Audacity sous Windows et macOS.
 
-[LAME](https://lame.sourceforge.io) est une bibliothèque d'encodage `.mp3` qui permettra à Audacity d'exporter des fichiers sonores au format `.mp3` tout en utilisant différents débits binaires. Pour installer LAME sur Audacity, reportez-vous à la page [Audacity wiki](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html).
+Les utilisateurs de Linux doivent se référer au [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) pour plus d'informations, car certaines distributions Linux peuvent ne pas fournir LAME lors de l'installation d'Audacity, mais la plupart le font.
 
-### Diminution du débit binaire
+### Diminuer le débit binaire
 
-Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
+*Pour plus d'informations sur la compression en général, voir [Compression des fichiers](/wiki/Guides/Compressing_files)*
 
-1. Ouvrez le fichier `.mp3` sur lequel vous voulez réduire le débit binaire.
-2. Appuyez sur `Ctrl` + `Shift` + `E`, ou
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Export Audio...`.
-3. Remplacez "Enregistrer comme type :" par `MP3 Files`
-4. Dans les "Options de format", cliquez sur `Moyen` comme mode de débit binaire.
-5. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
-6. Cliquez sur `Save`.
+Installez et ouvrez Audacity, puis suivez les étapes suivantes :
+
+1. Ouvrez le fichier `.mp3` dont vous voulez réduire le débit.
+2. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
+   1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
+3. Dans les `Options de format`, modifiez les paramètres suivants : 
+   1. `Mode de débit binaire` : `Préréglage`
+   2. `Qualité` : `Moyen, 145-185 kbps`
+4. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+   - Vous pouvez également renommer le fichier.
+5. Cliquez sur `Enregistrer` et une boîte de dialogue apparaîtra pour saisir les métadonnées.
+6. Cliquez sur `OK` lorsque vous avez fini d'entrer les métadonnées.
 
 ### Bouclage
 
-Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
+Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 
-1. Ouvrez le fichier `.mp3` que vous voulez mettre en boucle.
-2. Cliquez et glissez pour mettre en évidence les parties que vous souhaitez mettre en boucle.
-   - Rarement, ce serait le début de la fin de la musique.
-   - Parfois, le refrain ou le refrain est le meilleur moyen de faire un looping.
+1. Ouvrez le fichier `.mp3` que vous voulez boucler.
+2. Cliquez et faites glisser pour mettre en évidence les parties que vous souhaitez boucler.
+   - Rarement, il s'agit du début à la fin de la musique.
+   - Parfois, c'est dans le refrain que le bouclage est le plus efficace.
 3. Appuyez sur `Ctrl` + `C`, ou
-   1. Cliquez sur `Edit`
-   2. Cliquez sur `Copy`
+   1. Cliquez sur `Édition`
+   2. Cliquez sur `Copier`
 4. Trouvez un endroit où vous pouvez mettre en boucle la partie que vous avez copiée.
-   - Cela pourrait être la fin de la partie que vous aviez soulignée.
+   - Il pourrait s'agir de la fin de la partie que vous aviez mise en évidence.
 5. Appuyez sur `Ctrl` + `V`, ou
-   1. Cliquez sur `Edit`
-   2. Cliquez sur `Paste`
-6. Jouez toute la musique et assurez-vous que la boucle sonne bien.
-7. Répétez l'opération si nécessaire.
-8. Appuyez sur `Ctrl` + `Shift` + `E`, ou
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Export Audio...`.
-9. Remplacez "Enregistrer comme type :" par `MP3 Files`
-10. Dans les "Options de format", cliquez sur Le mode `Moyen` est le mode de débit binaire.
-11. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-    - Vous pouvez aussi renommer le fichier.
-12. Cliquez sur `Save`.
+   1. Cliquez sur `Édition`
+   2. Cliquez sur `Coller`
+6. Lisez l'ensemble de la musique et assurez-vous que la boucle fonctionne bien.
+7. Répéter l'opération autant que nécessaire.
+8. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
+   1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
+9. Dans les `Options de format`, modifiez les paramètres suivants : 
+   1. `Mode de débit binaire` : `Préréglage`
+   2. `Qualité` : `Moyen, 145-185 kbps`
+10. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+    - Vous pouvez également renommer le fichier.
+11. Cliquez sur `Enregistrer` et une boîte de dialogue apparaîtra pour saisir les métadonnées.
+12. Cliquez sur `OK` lorsque vous avez fini d'entrer les métadonnées.
 
-### Cultures
+### Recadrer
 
-Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
+Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 
-1. Ouvrez le fichier `.mp3` que vous voulez cultiver.
+1. Ouvrez le fichier `.mp3` que vous souhaitez recadrer.
 2. Cliquez et faites glisser pour mettre en évidence les parties que vous souhaitez recadrer.
-   - Ce devrait être le long outro que vous ne voulez pas cartographier.
-3. Appuyez sur `Supprimer`.
+   - Il peut s'agir d'un long outro que vous ne voulez pas mapper.
+3. Appuyez sur la touche `Suppr`.
 4. Cliquez et faites glisser les 3 à 5 dernières secondes vers la fin.
-5. Cliquez sur `Effect`.
-6. Cliquez sur `Fade Out`.
-7. Appuyez sur `Ctrl` + `Shift` + `E`, or
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Export Audio...`.
-8. Remplacez "Enregistrer comme type :" par `MP3 Files`
-9. Dans les "Options de format", cliquez sur `Moyen` comme mode de débit binaire.
-10. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-    - Vous pouvez aussi renommer le fichier.
-11. Cliquez sur `Save`.
+5. Cliquez sur `Effets`.
+6. Cliquez sur `Fading`, puis sur `Fondu en fermeture`.
+7. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
+   1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
+8. Dans les `Options de format`, modifiez les paramètres suivants : 
+   1. `Mode de débit binaire` : `Préréglage`
+   2. `Qualité` : `Moyen, 145-185 kbps`
+9. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+   - Vous pouvez également renommer le fichier.
+10. Cliquez sur `Enregistrer` et une boîte de dialogue apparaîtra pour saisir les métadonnées.
+11. Cliquez sur `OK` lorsque vous avez fini d'entrer les métadonnées.
 
 ## mp3DirectCut
 
-[mp3DirectCut](https://mpesch3.de) est un logiciel d'édition audio gratuit.
-Cet outil est recommandé lorsque vous souhaitez seulement augmenter/réduire le volume ou recadrer l'audio car il ne vous oblige pas à réencoder l'audio, ce qui signifie moins de pertes de qualité.
+[mp3DirectCut](https://mpesch3.de) est un logiciel d'édition audio gratuit qui permet d'éditer directement les fichiers MP3 sans réencodage, ce qui évite souvent une perte de qualité. Il est recommandé lorsqu'il s'agit d'augmenter ou de réduire le volume ou de recadrer l'audio.
 
 ### Bouclage
 
 Installez et ouvrez mp3DirectCut, puis suivez les étapes suivantes :
 
 1. Ouvrez le fichier `.mp3` que vous voulez mettre en boucle.
-2. Cliquez et glissez pour mettre en évidence les parties que vous souhaitez mettre en boucle.
-   - Rarement, ce serait le début de la fin de la musique.
-   - Parfois, le refrain ou le refrain est le meilleur moyen de faire un looping.
+2. Cliquez et faites glisser pour mettre en évidence les parties que vous souhaitez boucler.
+   - Rarement, il s'agit du début à la fin de la musique.
+   - Parfois, c'est dans le refrain que le bouclage est le plus efficace.
 3. Appuyez sur `Ctrl` + `C`, ou
-   1. Cliquez sur `Edit`
-   2. Cliquez sur `Copy`
+   1. Cliquez sur `Édition`.
+   2. Cliquez sur `Copier`
 4. Trouvez un endroit où vous pouvez mettre en boucle la partie que vous avez copiée.
-   - Cela pourrait être la fin de la partie que vous aviez soulignée.
-5. Appuyer sur `Ctrl` + `V`, ou
-   1. Cliquez sur `Edit`
-   2. Cliquez sur `Paste`
-6. Jouez toute la musique et assurez-vous que la boucle sonne bien.
-7. Répétez l'opération si nécessaire.
+   - Il pourrait s'agir de la fin de la partie que vous aviez mise en évidence.
+5. Appuyez sur `Ctrl` + `V`, ou
+   1. Cliquez sur `Édition`
+   2. Cliquez sur `Coller`
+6. Lisez l'ensemble de la musique et assurez-vous que la boucle fonctionne bien.
+7. Répéter l'opération si nécessaire.
 8. Appuyez sur `Ctrl` + `W`, ou
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Save complete audio...`.
-9. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
-10. Cliquez sur `Save`.
+   1. Cliquez sur `Fichier`.
+   2. Cliquez sur `Sauvegarder tout ...`.
+9. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+   - Vous pouvez également renommer le fichier.
+10. Cliquez sur `Enregistrer`.
 
-### Cultures
+### Recadrer
 
 Installez et ouvrez mp3DirectCut, puis suivez les étapes suivantes :
 
-1. Ouvrez le fichier `.mp3` que vous voulez cultiver.
+1. Ouvrez le fichier `.mp3` que vous souhaitez recadrer.
 2. Cliquez et faites glisser pour mettre en évidence les parties que vous souhaitez recadrer.
-   - Ce devrait être le long outro que vous ne voulez pas cartographier.
-3. Appuyez sur `Delete`.
+   - Il peut s'agir d'un long outro que vous ne voulez pas mapper.
+3. Appuyez sur la touche `Suppr`.
 4. Cliquez et faites glisser les 3 à 5 dernières secondes vers la fin.
 5. Appuyez sur `Ctrl` + `F`, ou
-   1. Cliquez sur `Edit`.
-   2. Cliquez sur `Simple fade to/from position`.
+   1. Cliquez sur `Edition`.
+   2. Cliquez sur `Fondu simple`.
 6. Appuyez sur `Ctrl` + `W`, ou
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Save complete audio...`.
-7. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
-8. Cliquez sur `Save`.
+   1. Cliquez sur `Fichier`.
+   2. Cliquez sur `Sauvegarder tout ...`.
+7. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+   - Vous pouvez également renommer le fichier.
+8. Cliquez sur `Enregistrer`.
 
-### Ajustement du volume
+### Régler le volume
 
 Installez et ouvrez mp3DirectCut, puis suivez les étapes suivantes :
 
-1. Ouvrez le fichier `.mp3` que vous voulez ajuster.
+1. Ouvrez le fichier `.mp3` que vous souhaitez ajuster le volume.
 2. Appuyez sur `Ctrl` + `A` pour tout sélectionner.
 3. Appuyez sur `Ctrl` + `G`, ou
-   1. Cliquez sur `Edit`
-   2. Cliquez sur `Gain...`
-4. Cochez la case `Verrouiller les sliders`.
-5. Prenez le slider de gauche et abaissez-le.
-   - Le dB (décibels) auquel vous le réglez variera, essayez simplement différents volumes jusqu'à ce que vous obteniez le bon résultat.
-6. Lorsque vous êtes satisfait, Appuyez sur `OK`.
+   1. Cliquez sur `Edition`
+   2. Cliquez sur `Gain...`.
+4. Cochez la case `Lier les curseurs`.
+5. Prenez le curseur de gauche et abaissez-le.
+   - La valeur en dB (décibels) à laquelle vous la réglez varie, essayez plusieurs volumes jusqu'à ce que vous obteniez le bon résultat.
+6. Lorsque vous êtes satisfait, appuyez sur `OK`.
 7. Appuyez sur `Ctrl` + `W`, ou
-   1. Cliquez sur `File`.
-   2. Cliquez sur `Save complete audio...`.
-8. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
-9. Cliquez sur `Save`.
+   1. Cliquez sur `Fichier`.
+   2. Cliquez sur `Sauvegarder tout ...`.
+8. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
+   - Vous pouvez également renommer le fichier.
+9. Cliquez sur `Enregistrer`.

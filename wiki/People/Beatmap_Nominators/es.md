@@ -34,6 +34,17 @@ Los nuevos miembros de Beatmap Nominators comienzan con un período de prueba de
 
 Cuando un Beatmap Nominator se pone en período de prueba, no se le puede volver a poner en período de prueba por el mismo motivo durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto en período de prueba por mala conducta, será eliminado de Beatmap Nominators si exhibe la misma mala conducta nuevamente recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
+## Beneficios
+
+Los Beatmap Nominators reciben los siguientes beneficios:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el grupo.
+- **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
+  ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.jpg "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.jpg "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.jpg "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.jpg "Insignia de BN de 5 años")
+- **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominaciones)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
+  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2023 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "Insignia de 1000 nominaciones")
+- **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los Beatmap Nominators que se desempeñen excepcionalmente en su oficio son elegibles para recibir el [título de usuario](/wiki/Community/User_title) Elite Nominator.
+
 ## Miembros del equipo
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
