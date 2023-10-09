@@ -1,3 +1,8 @@
+---
+outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
+outdated_translation: true
+---
+
 # Medaglie
 
 Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **314** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).

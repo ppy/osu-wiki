@@ -3,7 +3,11 @@ tags:
   - genres
   - languages
   - metadata
+outdated_translation: true
+outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 ---
+
+<!--The citation in the rock genre was changed from unsyncopated to syncopated. When updating this article, please make sure if this needs to be adjusted here.-->
 
 # Aliran dan bahasa
 

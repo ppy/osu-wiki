@@ -7,6 +7,8 @@ tags:
   - badges de profil
   - badge d'utilisateur
   - badges d'utilisateur
+outdated_since: e6a6193741a1b4512b211bc4957bd79b0e0395f6
+outdated_translation: true
 ---
 
 # Badge de profil
