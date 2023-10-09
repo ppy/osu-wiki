@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
----
-
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常由[玩家组](/wiki/People/User_group)决定，但是出于其他原因，以下列出的玩家，因为做出了卓越贡献或成就，或是做出过某些 osu! 标志性的历史事件，从而获得了特殊头衔。
@@ -40,14 +35,14 @@ outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
 - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-拥有 **osu!mania 4K Champion** 头衔的 [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) 冠军：
+拥有 **osu!mania 4K Champion** 头衔的 [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) 冠军：
 
-- ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095)
-- ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)
-- ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661)
-- ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
-- ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
-- ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
+- ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268)
+- ::{ flag=US }:: [cafesito](https://osu.ppy.sh/users/7794488)
+- ::{ flag=US }:: [Hello\_Son](https://osu.ppy.sh/users/17308009)
+- ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)
+- ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
+- ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
 拥有 **osu!mania 7K Champion** 头衔的 [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) 冠军：
 
@@ -126,6 +121,7 @@ outdated_since: 0c632eb836db2ff8a3ae85d3e658a6e983979d6f
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 
 ### 官方作图竞赛冠军
 
@@ -268,6 +264,8 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 
 ### 与游玩相关
 
+*S参见：[全收集者](/wiki/People/Completionists)*
+
 这些玩家通过完成了疯狂的游戏成就或完成特定高难度挑战而赢得了头衔。
 
 | 玩家 | 头衔 | 事迹 |
@@ -278,7 +276,9 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | 截至 2021 年 8 月 11 日，游玩了 osu! 全部上架谱面。 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | 在 2008 年末，他在一周之内达到了 #104 名次，头衔由 ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) 颁发。请参见：[*美妙世界*](https://mzh.moegirl.org.cn/%E7%BE%8E%E5%A6%99%E4%B8%96%E7%95%8C) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了 osu! 全部上架谱面。 |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) 冠军 |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [第一个解锁 *The Girl in the Forest* 奖章的玩家](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800) |
+| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | 在 [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) 中获取了不可战胜的理论最大分数，占据了排行榜 #1 |
 
 ### 贡献者
 
