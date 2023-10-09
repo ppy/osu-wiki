@@ -60,7 +60,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 *최종 업데이트 날짜는 2023년 10월 8일입니다*
 
-|  | 국가 | 구성원 |
+|  | 국가 | 멤버 |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
 | ::{ flag=AU }:: | **Australia** | **[Dumii](https://osu.ppy.sh/users/3068044)**, [mrekk](https://osu.ppy.sh/users/7562902), [ASecretBox](https://osu.ppy.sh/users/7341183), [CS2](https://osu.ppy.sh/users/9938943), [Cyo](https://osu.ppy.sh/users/8195473), [JGLF](https://osu.ppy.sh/users/10665363), [oslash](https://osu.ppy.sh/users/13228917), [Zyntex](https://osu.ppy.sh/users/11806306) |
@@ -121,7 +121,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [-PloX](https://osu.ppy.sh/users/6404583), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Shikke](https://osu.ppy.sh/users/5382216), [El Milanga](https://osu.ppy.sh/users/12264918) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [Another Guy](https://osu.ppy.sh/users/4540667), [baoo](https://osu.ppy.sh/users/11021073), [Phan Dinh Tung](https://osu.ppy.sh/users/12130373), [Tonnisdk](https://osu.ppy.sh/users/10890712), [\[Boy\]DaLat](https://osu.ppy.sh/users/8266808), [Hoaq](https://osu.ppy.sh/users/7696512), [walle](https://osu.ppy.sh/users/8431549) |
 
-캡틴은 **볼드체**로 표시되어 있습니다. 개별적인 팀 구성은 **2023년 10월 13일 금요일**까지 변경될 수 있습니다.
+캡틴은 **굵은 글씨체**로 표시되어 있습니다. 개별적인 팀 구성은 **2023년 10월 13일 금요일**까지 변경될 수 있습니다.
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼수 있습니다.
 
@@ -129,7 +129,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ### 토너먼트 규칙
 
-1. osu! 월드컵은 osu! 게임 모드에서 진행하는  4 vs 4 팀 더블 엘리미네이션 토너먼트입니다.
+1. osu! 월드컵은 osu! 게임 모드에서 진행하는 4 vs 4 팀 더블 엘리미네이션 토너먼트입니다.
    - **만약** 프로필에 표시된 국가에서 유효한 팀을 만들기 위한 인원이 부족하여 팀을 구성할 수 없는 경우, 프로필 국기에 표시되는 보호령, 주권 국가 또는 다른 국가와 밀접하게 관련된 영토 혹은 국가로 플레이가 가능합니다. 채택된 기준에 대한 내용은 [이 문서](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories)를 참조해 주세요.
 2. 점수 시스템은 ScoreV2를 사용합니다.
 3. 팀에는 최소 6명이 있어야 하고, 8명을 넘지 말아야 합니다.
@@ -184,7 +184,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
    - 캡틴은 팀 목록에서 자신을 제외할 수 있습니다.
    - 캡틴은 자신의 조건에 따라 플레이어의 적성을 측정하기 위해 "선발전"을 시행하고 조정할 수 있습니다.
    - 캡틴은 언제든지 자신의 역할을 다른 예비 팀원에게 임명할 수 있습니다. 임명된 후에는 새로운 주장만이 다른 플레이어에게 주장을 임명할 수 있습니다.
-   - **2023년 10월 13일 금요일 23:59 UTC까지 팀 목록을 보내지 않는 팀은 대회에서 실격됩니다.** 
+   - **2023년 10월 13일 금요일(23:59 UTC)까지 팀 목록을 보내지 않는 팀은 대회에서 실격됩니다.** 
 3. 유효한 등록을 보장하기 위해, 잠재적인 모든 플레이어는 [계정 지원 팀](/wiki/People/Account_support_team)에 의해 [토너먼트 스크리닝](/wiki/Tournaments/Official_support#토너먼트-스크리닝)과 비슷하게 수동으로 검증을 받게 됩니다.
    - 등록된 모든 유저는 해당 국가의 후보 목록에 기록됩니다.
    - 목록에 성공적으로 등록되기 위해선, 플레이어는 osu! 게임 모드에서 세계랭킹 5,000위 이상을 기록해야 합니다. 또한 [osu! 규칙](/wiki/Rules)을 12개월간 위반한 적이 없어야 합니다.
