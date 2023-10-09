@@ -27,9 +27,10 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [2018-12-11](https://osu.ppy.sh/beatmapsets/879904) | [2023-03-20](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2)  |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [2015-12-13](https://osu.ppy.sh/beatmapsets/373858) | [2018-08-29](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [2019-07-12](https://osu.ppy.sh/beatmapsets/965596) | [2023-10-07](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18)  |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [2009-03-09](https://osu.ppy.sh/beatmapsets/5417) | [2012-03-08](https://osu.ppy.sh/beatmapsets/44666) |  |
 
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3,5 anni** (circa 1292 giorni) per classificare 100 beatmap.
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **3,6 anni** (circa 1306 giorni) per classificare 100 beatmap.
