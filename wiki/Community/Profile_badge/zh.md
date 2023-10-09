@@ -8,6 +8,8 @@ tags:
   - 牌子
   - 奖牌
   - 狗牌
+outdated_since: e6a6193741a1b4512b211bc4957bd79b0e0395f6
+outdated_translation: true
 ---
 
 # 主页奖牌
