@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Mọi người
 
 Trang chỉ mục cho những bài viết về những người hay nhóm.
