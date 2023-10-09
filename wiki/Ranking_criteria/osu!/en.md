@@ -15,8 +15,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
 - **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners do not allow adequate spin time.
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
-- **Do not use [keysounds](/wiki/Beatmapping/Hitsound#keysound) without hitnormal support.** Players do not receive enough feedback otherwise.
-- **If a hitsound is used as hitnormal, ensure it does not blend with the song.** Players do not receive enough feedback otherwise.
+- **All actively clicked parts of objects must have at least one audible [hitsound](/wiki/Beatmapping/Hitsound) that does not blend with the song.** Players do not receive enough feedback otherwise. Using [keysounds](/wiki/Beatmapping/Hitsound#keysound) as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
@@ -143,7 +142,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 - **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
-- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
   - Ambiguous sliders with follow circles that cover the whole slider path are allowed, assuming the slider borders are straightforward.
 
 #### Guidelines
@@ -168,7 +167,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Rules
 
-- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
   - Ambiguous sliders with follow circles that cover the whole slider path are allowed, assuming the slider borders are straightforward.
 
 #### Guidelines
@@ -191,7 +190,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Rules
 
-- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
   - The slider path is allowed to be ambiguous if the cursor can stay inside the slider's follow circle without any movement away from the slider head.
 
 #### Guidelines
