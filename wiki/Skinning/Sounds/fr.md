@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning des sons
 
 Les formats `.wav`, `.mp3`, et/ou `.ogg` sont valables pour les sons.
