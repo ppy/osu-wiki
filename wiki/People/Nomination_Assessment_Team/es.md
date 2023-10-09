@@ -129,7 +129,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
@@ -142,7 +141,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
 
 #### osu!taiko
 
@@ -179,18 +177,19 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web del NAT/BN](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de BN](https://bn.mappersguild.com) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo del NAT |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Manejo de las [valuaciones de SEV](/wiki/People/Nomination_Assessment_Team/SEV_rating) de osu!taiko |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del BN Mentorship |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Manejo de reportes de usuarios y las [valuaciones de SEV](/wiki/People/Nomination_Assessment_Team/SEV_rating) de osu! |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Manejo de reportes de contenido |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web del NAT/BN](https://bn.mappersguild.com), manejo de las [valuaciones de SEV](/wiki/People/Nomination_Assessment_Team/SEV_rating) de osu!taiko |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | Mantenimiento de la [prueba de los criterios de clasificación](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) |
