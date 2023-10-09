@@ -9,6 +9,8 @@ tags:
   - insignias de perfil
   - insignia de usuario
   - insignias de usuario
+outdated_since: e6a6193741a1b4512b211bc4957bd79b0e0395f6
+outdated_translation: true
 ---
 
 # Insignia de perfil
