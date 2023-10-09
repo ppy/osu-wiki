@@ -446,6 +446,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Yuyuko's Hidden Cup Season 1 | 17/5/2022 | 4/7/2022 | 都怪幽神 | HD怎么打 | 队名叫有新意的名字 / 请在此处填写队名 |
 | [Yuyuko's Hidden Cup Season 2](YHC/2) | 26/11/2022 | 5/2/2023 | 懒人三项 | 老年娱乐 | 已经结束啦 |
+| [Yuyuko's Hidden Cup Season 3](YHC/3) | 1/6/2023 | 29/7/2023 | 鲭西何时无缘进路 | 天使纷扰 | 我倒杯水 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -681,6 +682,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 24/6/2017 | 6/8/2017 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 10/9/2018 | 25/11/2018 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159) |
 
+#### DACH 4K Championship
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [DACH 4K Championship 2023](DACH4K/2023) | 3/7/2023 | 13/8/2023 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
+
 #### GB Cup
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
@@ -745,6 +752,14 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [osu!mania LN Tournament 2](o!mLN/2) | 13/6/2020 | 2/8/2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 | [osu!mania LN Tournament 3](o!mLN/3) | 15/10/2022 | 4/12/2022 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
 
+#### osu!mania Malaysia Tournament
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Malaysia Tournament | 14/5/2021 | 27/6/2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 27/5/2022 | 10/7/2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 1/7/2023 | 13/8/2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+
 #### osu!mania South East Asia Champion 2020
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
@@ -791,7 +806,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/9/2020 | 6/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/3/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
-### Multimode
+### Multimodo
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
