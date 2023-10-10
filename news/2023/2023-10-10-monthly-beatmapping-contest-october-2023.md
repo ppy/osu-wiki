@@ -65,7 +65,6 @@ Contest points reward users at certain thresholds:
 
 ![](/wiki/shared/news/2020-02-20-monthly-beatmapping-contest-1-results/mbc-badge-1.png)
 
-
 Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg) is optionally rewarded to the winner of each month's contest. Its design is based on your beatmap!
 
 ## Rules
