@@ -36,7 +36,7 @@ Given osu!taiko mapping is pretty limited to begin with, this contest is opting 
 
 #### osu!catch
 
-osu!catch is taking a much simpler approach: **your beatmap must be 5.00 stars or higher.**
+osu!catch is taking a much simpler approach: **your beatmap's star rating must be 5.00 stars or higher.**
 
 Apparently the winners of some previous osu!catch contests have been *Rain* difficulties that competed against a bunch of *Overdose* difficulties, so this limitation aims to bring all submissions to an expert-oriented skill level.
 
@@ -72,6 +72,9 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 If you're looking for a lawless contest, wait for the next [Aspire](https://osu.ppy.sh/wiki/en/Contests/Aspire). In the meantime, pay attention:
 
+- **Submissions must follow the month's beatmapping [limitation](#limitation):**
+  - **osu!taiko:** your beatmap's song must be 240 BPM or faster.
+  - **osu!catch:** your beatmap's star rating must be 5.00 stars or higher.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
