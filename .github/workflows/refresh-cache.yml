@@ -1,9 +1,9 @@
 name: refresh node_modules cache
 
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    # Runs at 00:20 on day 1 and 15 of every month
+    - cron: '20 0 1,15 * *'
 
 jobs:
   cache-node-modules:
