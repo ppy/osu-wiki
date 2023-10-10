@@ -12,8 +12,8 @@ For those out of the loop, the [Monthly Beatmapping Contest](/wiki/Contests/Mont
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/186)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/187)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/187)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/188)
 
 Next month will feature a new contest for **osu!** and **osu!mania**, along with the results for [September's contest](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023) (which is currently being judged)!
 
@@ -70,7 +70,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-If you're looking for a lawless contest, wait for the next [Aspire](https://osu.ppy.sh/wiki/en/Contests/Aspire). In the meantime, pay attention:
+If you're looking for a lawless contest, wait for the next [Aspire](/wiki/Contests/Aspire). In the meantime, pay attention:
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!taiko:** your beatmap's song must be 240 BPM or faster.
@@ -87,8 +87,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 That's enough reading. Create your mapping masterpiece, then upload it to one of these pages:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/186)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/187)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/187)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/188)
 
 You have until **the end of October** to submit your entry. Good luck and have fun mapping!
 
