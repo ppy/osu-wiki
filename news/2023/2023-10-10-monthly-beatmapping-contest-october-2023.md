@@ -15,7 +15,7 @@ This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/186)
 - [osu!catch contest listing](https://osu.ppy.sh/community/contests/187)
 
-Next month's contest will feature a new contest for **osu!** and **osu!mania**, along with the results for [September's contests](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023)!
+Next month will feature a new contest for **osu!** and **osu!mania**, along with the results for [September's contest](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023) (which is currently being judged)!
 
 ## Timeline
 
@@ -26,9 +26,27 @@ Next month's contest will feature a new contest for **osu!** and **osu!mania**, 
 
 ## Beatmapping
 
+### Limitation
+
+To keep things fresh, every MBC has a *limitation* that requires mappers to compete on an similar playing field!
+
+#### osu!taiko
+
+Given osu!taiko mapping is pretty limited to begin with, this contest is opting for a more song-oriented challenge: **your beatmap's song must be 240 BPM or faster.**
+
+#### osu!catch
+
+osu!catch is taking a much simpler approach: **your beatmap must be 5.00 stars or higher.**
+
+Apparently the winners of some previous osu!catch contests have been *Rain* difficulties that competed against a bunch of *Overdose* difficulties, so this limitation aims to bring all submissions to an expert-oriented skill level.
+
 ### Songs
 
-Any song listed on [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) is eligible for this contest! Feel free to cut songs as needed.
+Any song listed on [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) is eligible for this contest!
+
+If you're mapping osu!taiko, ensure that your song is [**at least 240 BPM**](https://osu.ppy.sh/beatmaps/artists/tracks?is_default_sort=true&sort=update_desc&bpm%5Bgte%5D=240), as outlined in the [limitation above](#limitation).
+
+And of course, if you'd rather not map a long song, feel free to cut it to a shorter length!
 
 ## Rewards
 
