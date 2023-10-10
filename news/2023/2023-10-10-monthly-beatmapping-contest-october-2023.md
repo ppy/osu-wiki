@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: October 2023"
-date: 2023-10-02 19:00:00 +0000
+date: 2023-10-10 19:00:00 +0000
 ---
 
-Rumor has it that you're the world's #1 mapper. If you're an osu!taiko or osu!catch mapper, it's time to prove it.
+Rumors say that you're the world's #1 mapper. Now's your chance to prove it.
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -25,8 +25,6 @@ Next month's contest will feature a new contest for **osu!** and **osu!mania**, 
 - **[Rewards](#rewards) (~2 months from now):** Winners are announced at the start of another MBC.
 
 ## Beatmapping
-
-[pending input from hosts]
 
 ### Songs
 
