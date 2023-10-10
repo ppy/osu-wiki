@@ -60,7 +60,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 *최종 업데이트 날짜는 2023년 10월 10일입니다*
 
-|  | Country | Members |
+|  | 국가 | 멤버 |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[R1cho](https://osu.ppy.sh/users/13065919)**, [Pipipupu997](https://osu.ppy.sh/users/20120615), [Bomilk](https://osu.ppy.sh/users/7081596), [Amuro](https://osu.ppy.sh/users/7119659), [BTG4](https://osu.ppy.sh/users/10659233), [Pein](https://osu.ppy.sh/users/2212941), [Kagami](https://osu.ppy.sh/users/10459580), [slynna](https://osu.ppy.sh/users/10099005) |
 | ::{ flag=AU }:: | **Australia** | **[Dumii](https://osu.ppy.sh/users/3068044)** |
