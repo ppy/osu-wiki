@@ -1,6 +1,7 @@
 ---
 tags:
   - usergroup
+  - Nutzergruppe
 ---
 
 # Benutzergruppe
