@@ -14,7 +14,7 @@ Reminiscing aside, let's recall the present shall we? We would like to use this 
 
 ## Summary
 
-![](/wiki/shared/news/2023-10-08-osu-mania-world-cup-2023/mwc4k2023_podium.jpg)
+![](/wiki/Tournaments/MWC/2023_4K/img/mwc4k2023-podium@2x.jpg)
 
 First and foremost, congratulations to the United States of America for standing atop the podium! This is the second time they managed to reach the coveted 1st place spot since 2015. Suffice to say, the team — although with different rosters — has participated ever since the tournament's humble beginnings. This feat cannot be understated, and despite the multiple frustrations reaching 2nd and 3rd place multiple times, they managed to snatch the gold medal from everyone else!
 
