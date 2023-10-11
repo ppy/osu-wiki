@@ -243,12 +243,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Aquellex - Cortex Charger](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Aquellex&query=%22Cortex%20Charger%22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062236) | Grand Finals RC7 |
-| BilliumMoto - LIGHT LEFT BEHIND[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2062241) | Grand Finals HB3 |
-| [Camellia - Parallel Universe Shifter](https://www.youtube.com/watch?v=BZy_c83SQck)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2062263) | Grand Finals tiebreaker |
+| BilliumMoto - LIGHT LEFT BEHIND[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062241) | Grand Finals HB3 |
+| [Camellia - Parallel Universe Shifter](https://www.youtube.com/watch?v=BZy_c83SQck)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062263) | Grand Finals tiebreaker |
 | [Kommisar - Clover](https://soundcloud.com/kommisar/osumania-4k-world-cup-finals-original-clover)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2058816) | Finals LN4 |
-| LV.4 feat. Chiaki Iwasaki - B.O.L.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055265) | Semifinals RC3 |
-| [Frums - HALL](https://soundcloud.com/frums/hall)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055332) | Semifinals tiebreaker |
-| Toromaru - Deorbit[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2048064) | Round of 16 LN3 |
+| LV.4 feat. Chiaki Iwasaki - B.O.L.[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2055265) | Semifinals RC3 |
+| [Frums - HALL](https://soundcloud.com/frums/hall)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2055332) | Semifinals tiebreaker |
+| Toromaru - Deorbit[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2048064) | Round of 16 LN3 |
 
 ### Community-run tournament releases
 
@@ -508,7 +508,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Finals tiebreaker |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Round of 128 FM3 |
 | [katagiri - Bootleg Heaven](https://www.youtube.com/watch?v=7a2k9yvExv4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | Finals NM6 |
-| [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Quarterfinals FM1 |
+| [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Quarterfinals FM1 |
 | [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Quarterfinals tiebreaker |
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Round of 32 NM1 |
 | [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 |
