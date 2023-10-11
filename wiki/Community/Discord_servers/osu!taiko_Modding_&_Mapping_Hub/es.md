@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Enlace de invitación | <https://discord.gg/8RJBXe8> |
+| Enlace de invitación | <https://discord.gg/osutaiko> |
+| Enlace de invitación alternativo | <https://discord.gg/8RJBXe8> |
 
 :::
 
@@ -28,11 +29,11 @@ El servidor consta principalmente de:
 
 | Rol | Usuario (identificador de Discord) |
 | :-- | :-- |
-| Propietario del servidor | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (@radar) |
-| Moderadores del servidor | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (@capu.), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (@underscoredusk), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (@hvnlymoon), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (@radar), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (@yasuho) |
+| Propietario del servidor | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie) |
+| Moderadores del servidor | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) (@arcsine), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (@underscoredusk), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (@hvnlymoon), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) (@meiqth), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (@yasuho) |
 
 ## Verificación
 
 Para acceder a los canales, los usuarios deben verificar su identidad con sus cuentas de osu! usando [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Mensaje de autenticación de AxerBot](img/auth.jpg "Al unirse al servidor, AxerBot le pedirá al usuario que verifique su identidad con su perfil de osu! usando OAuth2.")
+![Mensaje de autenticación de AxerBot](img/auth.png "Al unirse al servidor, AxerBot le pedirá al usuario que verifique su identidad con su perfil de osu! usando OAuth2.")
