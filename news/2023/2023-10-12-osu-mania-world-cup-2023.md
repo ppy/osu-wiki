@@ -8,7 +8,7 @@ The osu!mania 4K World Cup concluded as fast as it started. Get up to speed with
 
 ![](/wiki/Tournaments/MWC/2023_4K/img/mwc4k2023-banner.jpg)
 
-It is with great pleasure that the 10th edition of the osu!mania 4K World Cup has met its expectations. Since its first edition in [2014](/wiki/Tournaments/MWC/2014), users all across the globe have been able to showcase the best of the best players their countries were able to produce! Ever since then, the game and community has evolved quite a lot. The 10th edition of the tournament is a culmination of everyone's efforts.
+After many fierce battles between keyboard smashers during the months of August and September, it is with great pleasure we can announce that the 10th edition of the osu!mania 4K World Cup has been a resounding success. Since its first edition in [2014](/wiki/Tournaments/MWC/2014), players all across the globe have been able to cheer for the the best of the best players their countries were able to offer! Ever since then, the game and community has evolved quite a lot. The 10th edition of the tournament is a culmination of everyone's efforts.
 
 Reminiscing aside, let's recall the present shall we? We would like to use this opportunity to focus on the players of today while thanking the efforts of the community of yesteryear!
 
