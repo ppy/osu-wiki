@@ -54,41 +54,41 @@ We'd like to reserve a special spot for the following matches, so they will hope
 
 ### Round of 16
 
-#### Vietnam ::{ flag=VN }:: vs. ::{ flag=TH }:: Thailand
+#### ::{ flag=VN }:: Vietnam vs. ::{ flag=TH }:: Thailand
 
 With these teams facing off, having seeded 8th and 9th in the Qualifiers respectively, Vietnam vs. Thailand was the most anticipated match of the Round of 16. After numerous break points and close calls on both ends, it came to a tiebreaker on [of Ambrosia](https://osu.ppy.sh/beatmapsets/1900478#mania/3917445), a smörgåsbord of rhythmically complex and technical patterns for 6 minutes. The scoreline was absurdly close during the entire map, but Thailand pulled through and secured their win, with [--Pavin--](https://osu.ppy.sh/users/12046267) getting a full combo.
 
-#### Chile ::{ flag=CL }:: vs. ::{ flag=CN }:: China
+#### ::{ flag=CL }:: Chile vs. ::{ flag=CN }:: China
 
 This round also featured an absurd 999.8k score from [myucchii](https://osu.ppy.sh/users/10072733) on [Lift-off!](https://osu.ppy.sh/beatmapsets/2034984#mania/4242761) at 1.05x rate. With only 7 300s and no other bad judgments being hit, the accuracy rounded up to 100.00% on ScoreV2, a feat that has never been seen in MWC at any point in history. This is probably the only map in the tournament where an achievement like this is even close to viable, with it having been the easiest chordjack map in all the pools; but such a score is impressive nonetheless.
 
 ### Quarterfinals
 
-#### Philippines ::{ flag=PH }:: vs. ::{ flag=BR }:: Brazil
+#### ::{ flag=PH }:: Philippines vs. ::{ flag=BR }:: Brazil
 
 Two powerhouses of the osu!mania scene, Philippines and Brazil, first clashed with each other in the Quarterfinals winners' bracket, bringing top-notch performances and high tension among the audience and players, where points were determined by singular slip-ups. At the end of an intense back-and-forth, Brazil emerged as the more consistent team, dethroning Philippines with a score of 6–3.
 
-#### South Korea ::{ flag=KR }:: vs. ::{ flag=TH }:: Thailand
+#### ::{ flag=KR }:: South Korea vs. ::{ flag=TH }:: Thailand
 
 With a final score of 6–4, Korea narrowly avoided a tiebreaker scenario against Thailand by a mere 72 points on [Baka Mitai](https://osu.ppy.sh/beatmapsets/2051835#mania/4284906). The cracks truly began to show during this match, where the team that obtained the highest seed in Qualifiers began to show glaring vulnerabilities, which were eventually taken advantage of in the Finals and Grand Finals matches by the United States.
 
 ### Semifinals
 
-#### Thailand ::{ flag=TH }:: vs. ::{ flag=CN }:: China
+#### ::{ flag=TH }:: Thailand vs. ::{ flag=CN }:: China
 
 Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from [[GB]nyasun](https://osu.ppy.sh/users/16277321), Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated. 
 
-#### Chile ::{ flag=CL }:: vs. ::{ flag=VN }:: Vietnam
+#### ::{ flag=CL }:: Chile vs. ::{ flag=VN }:: Vietnam
 
 Emerging as dark horses in this tournament, Chile and Vietnam faced off in a fight to the death for the top 6. In this match, Chile took a strong stand in LNs, while Vietnam attempted to exploit Chile's inconsistencies in SV and hybrids, leading them to a heated tiebreaker where Chile turned the tables against Vietnam in the last 2 seconds of the match. The match isn't over until it truly is!
 
-#### United States ::{ flag=US }:: vs. ::{ flag=JP }:: Japan
+#### ::{ flag=US }:: United States vs. ::{ flag=JP }:: Japan
 
 Every tournament player knows that a jack pick demands the most brazen of nerves, and the best performances possible. It can't get any more obvious with Japan barely winning their pick on [Matt Silver](https://osu.ppy.sh/beatmapsets/2055306#mania/4294670) against the United States, by the literal meager difference of **1 POINT**, a first ever in osu!mania history!
 
 ### Finals
 
-#### Japan ::{ flag=JP }:: vs. ::{ flag=TH }:: Thailand & Brazil ::{ flag=BR }:: vs. ::{ flag=ID }:: Indonesia
+#### ::{ flag=JP }:: Japan vs. ::{ flag=TH }:: Thailand & ::{ flag=BR }:: Brazil vs. ::{ flag=ID }:: Indonesia
 
 And what would have been the Finals without their historical tiebreaker matches?
 
@@ -96,7 +96,7 @@ Thailand cooked up their next show as they went to their third tiebreaker in MWC
 
 But this week, they were also joined by the pair of Brazil and Indonesia. After a triple 982k-score performance from Indonesia on [Clover](https://osu.ppy.sh/beatmapsets/2058816#mania/4303089), Brazil winning by a tiny score gap of 507 points on [Braindead](https://osu.ppy.sh/beatmapsets/2058879#mania/4303210), and Indonesia recovering from a 3–6 deficit, the two titans faced off on the tiebreaker, with Indonesia securing top 4 in the end!
 
-#### South Korea ::{ flag=KR }:: vs. ::{ flag=US }:: United States
+#### ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States
 
 As eternal rivals in the osu!mania competitive scene, the well-rounded South Korean team first met a rice-invincible United States high up the hill climb, in the winners' bracket Finals, and further boasted their capabilities in a tense battle of wills. 
 
@@ -106,13 +106,13 @@ Despite the outstanding performances in this historical matchup, a few unfortuna
 
 ### Grand Finals
 
-#### South Korea ::{ flag=KR }:: vs. ::{ flag=ID }:: Indonesia
+#### ::{ flag=KR }:: South Korea vs. ::{ flag=ID }:: Indonesia
 
 And finally, it was down to the last of the showdowns, with South Korea and Indonesia fighting to determine who would move on to face the United States in the championship match, but it seemed like the physical demands of this last pool had caught up to the Indonesians, as they were met with the towering consistency advantage from the Korean team, leading them to the end of their run, a 3rd-place finish with South Korea claiming a 7–0 sweep, moving on to face the United States once more in a final duel.
 
 Despite the final team scoring, there were many impressive scores being set by both teams, including bad hd player's 0-miss run and gaesol's full combo on [Mugen houyou](https://osu.ppy.sh/beatmapsets/1991601#mania/4138053). Well done to Indonesia for their podium finish, and for putting up their best fight possible.
 
-#### United States ::{ flag=US }:: vs. ::{ flag=KR }:: South Korea
+#### ::{ flag=US }:: United States vs. ::{ flag=KR }:: South Korea
 
 South Korea, initially defeated by the United States in the Finals weekend, rose to the occasion once more, hoping not only to exact revenge against the Americans, but also to reclaim their title as the 4K MWC Champions. On the other hand, the United States sought to claim their second MWC Champion title after a long-awaited 8 years.
 
