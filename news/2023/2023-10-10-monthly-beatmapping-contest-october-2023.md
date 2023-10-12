@@ -34,6 +34,9 @@ To keep things fresh, every MBC has a *limitation* that requires mappers to comp
 
 Given osu!taiko mapping is pretty limited to begin with, this contest is opting for a more song-oriented challenge: **your beatmap's song must be 240 BPM or faster.**
 
+- If your song contains variable BPM, the most common BPM must be 240 or higher.
+- Using "Double BPM" mapping where the song's BPM is half the beatmap's intended BPM is allowed, as long as the latter is 240 or higher.
+
 #### osu!catch
 
 osu!catch is taking a much simpler approach: **your beatmap's star rating must be 5.00 stars or higher.**
