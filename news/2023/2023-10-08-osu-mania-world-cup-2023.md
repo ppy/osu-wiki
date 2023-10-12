@@ -18,7 +18,11 @@ Reminiscing aside, let's recall the present shall we? We would like to use this 
 
 First and foremost, congratulations to the United States of America for standing atop the podium! This is the second time they managed to reach the coveted 1st-place spot since 2015. Suffice to say, the team — although with different rosters — has participated ever since the tournament's humble beginnings. This feat cannot be understated, and despite the multiple frustrations reaching 2nd and 3rd place multiple times, they managed to snatch the gold medal from everyone else!
 
-Why is this a big feat, you may ask? Getting first place isn't easy, that much is obvious; but meeting the former 4K World Champion in the tournament's decisive Grand Finals match? *~Now that's scary\~*. For those who missed it, we suggest [checking the VOD of the match](https://www.twitch.tv/videos/1933741044) at your own leisure!
+Why is this a big feat, you may ask? Getting first place isn't easy, that much is obvious; but meeting the former 4K World Champion in the tournament's decisive Grand Finals match? *~Now that's scary\~.* For those who missed it, we suggest [checking the VOD of the match](https://www.twitch.tv/videos/1933741044) at your own leisure:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=1933741044&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 Regardless of the outcome, this tournament was full of surprises to everyone. You could feel the tension in the air in every match. Every map, every note, every millisecond counted. Even for the high calibre a tournament series such as the World Cup strives for, expectations were not only met, but surpassed. All teams gave their best, and their efforts were not for naught. Their display of skills will always be looked at in awe!
 
@@ -51,6 +55,8 @@ Nowadays, it's easy to compare the differences. The difficulty has sharply incre
 One of the most important parts of competition is the performance of its participants. We had quite the amount of nerve-wracking matches this year — nerves so tense you could play violin with them!
 
 We'd like to reserve a special spot for the following matches, so they will hopefully be forever remembered.
+
+**Links to all VODs** can be found in the [wiki article](/wiki/Tournaments/MWC/2023_4K#match-results).
 
 ### Round of 16
 
