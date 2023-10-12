@@ -35,7 +35,7 @@ To keep things fresh, every MBC has a *limitation* that requires mappers to comp
 Given osu!taiko mapping is pretty limited to begin with, this contest is opting for a more song-oriented challenge: **your beatmap's song must be 240 BPM or faster.**
 
 - If your song contains variable BPM, the most common BPM must be 240 or higher.
-- Using "Double BPM" mapping where the song's BPM is half the beatmap's intended BPM is allowed, as long as the latter is 240 or higher.
+- A beatmap with double the rhythm density of an ordinary map (e.g. [1/8 rhythm functions like usual 1/4 rhythm](https://osu.ppy.sh/beatmapsets/2011128)) is allowed, so long as the song's doubled BPM is 240 or higher.
 
 #### osu!catch
 
