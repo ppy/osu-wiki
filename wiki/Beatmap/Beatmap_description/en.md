@@ -16,6 +16,6 @@ Many beatmap descriptions contain at least one image (often an animated [GIF](ht
 
 ### Crediting guest mappers
 
-Beatmap descriptions usually list all guest difficulties (often alongside their respective icons) and their creators. This is done to credit the guest mappers.
+Beatmap descriptions usually list all guest difficulties (often alongside their respective icons) and their creators to credit the guest mappers.
 
 The difficulty icons can be found in the [Difficulty](/wiki/Beatmap/Difficulty) article.
