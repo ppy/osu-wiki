@@ -55,9 +55,9 @@ jobs:
         uses: actions/cache@v3
         with:
           path: node_modules
-          key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: install remark
+      - name: 'if cache is outdated: install node.js dependencies'
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
@@ -111,15 +111,16 @@ jobs:
           for (( i=1; i<=MAX_ATTEMPTS; i++ )); do
             # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
             API_RESPONSE=$(
-              curl --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+              curl -sS --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
                 ${{ github.event.pull_request.commits_url }}?per_page=1
             )
             if [[ 'array' != $( echo "${API_RESPONSE}" | jq -r 'type' ) ]]; then
               echo "::warning::Unexpected GitHub API response (attempt ${i}/${MAX_ATTEMPTS}): ${API_RESPONSE}"
             else
               FIRST_PR_COMMIT_HASH=$( echo "${API_RESPONSE}" | jq -r '.[0].sha' )
-              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH && exit 0
+              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH
+              exit $?
             fi
           done
-          echo "::warning::Failed to read the hash of the PR's first commit -- please re-run the check"
+          echo "::warning::Failed to read the hash of the PR's first commit -- please check why that happened"
           exit 1

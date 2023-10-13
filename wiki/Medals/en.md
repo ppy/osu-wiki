@@ -36,6 +36,8 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 
 As the Hush-Hush medals are meant to be secret achievements of some sort, the unlock requirements are not directly specified; however, players are [welcome to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
+There is also a subcategory called "Hush-Hush (Expert)". The difference is that medals in it do not allow usage of any [difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods.
+
 ## Beatmap Spotlights
 
 **Beatmap Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four game mode packs* that are being contested on the corresponding Beatmap Spotlights ranking chart. The following mods are permitted for use:

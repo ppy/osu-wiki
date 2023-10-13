@@ -6,9 +6,6 @@ tags:
   - game modifier
   - PF
   - Spielmodifikation
-no_native_review: true
-outdated_translation: true
-outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # Perfect (Mod)
@@ -21,7 +18,7 @@ outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ## Übersicht
 
 - Abkürzung: PF
-- Typ: Verringerung der Schwierigkeit
+- Typ: Erhöhung der Schwierigkeit
 - Score-Multiplikator: 1,00x
 - Standard-Tastenkürzel: `S` `S` oder `Shift` + `S`
 - Untertitel: `SS oder verschwinde!`
@@ -30,28 +27,27 @@ outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 
 ## Beschreibung
 
-Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Gameplay/Hit_object) eine andere Punktzahl als 300 erzielt wurde.
+Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Gameplay/Hit_object) eine andere Beurteilung als GREAT erzielt wurde.
 
-Eine der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
+Jede der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 
 - eine Note verfehlen
-- eine `100` oder `50` erzielen
+- ein OK oder MEH erzielen
 - einen Spinner nicht bestehen
-- Sliderbreaking
+- das [Ende eines Sliders](/wiki/Gameplay/Hit_object/Slider/Slidertail) verfehlen oder einen [Sliderbreak](/wiki/Gameplay/Judgement/Slider_break) hervorrufen
 
-Eine der folgenden Handlungen **wird nicht dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
+Jede der folgenden Handlungen **wird nicht dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 
-- eine `300` erzielen
+- ein GREAT erzielen
 - einen Spinner vervollständigen
-- den Score Rainbow 300/MAX ([osu!mania](/wiki/Game_mode/osu!mania)) erzielen
-- den Score-Wert 300 (osu!mania) erzielen
+- PERFECT erzielen ([osu!mania](/wiki/Game_mode/osu!mania))
+- MEH/OK/GOOD am Anfang/Ende einer langen Note in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) erzielen ([osu!mania](/wiki/Game_mode/osu!mania))
 
 Diese Mod hat denselben Effekt in allen [Spielmodi](/wiki/Game_mode).
 
 ## Trivia
 
 - Wenn es einen überspringbaren Prolog gibt, dann wird die Mod Perfect diesen nicht automatisch überspringen, da sie die Neustartfunktion anstatt Quick-Retry verwendet.
-- Die Mod Perfect ist eine Variante der Mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

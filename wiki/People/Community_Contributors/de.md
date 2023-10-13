@@ -1,25 +1,24 @@
----
-outdated_translation: true
-outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
----
-
 # Mitwirkende der Community
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+![Altes Contributor-Abzeichen](/wiki/shared/contributor-old-era.png "Altes Contributor-Abzeichen")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+![Neues Contributor-Abzeichen](/wiki/shared/contributor-new-era.png "Neues Contributor-Abzeichen")
 :::
 
 Die **Community-Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
 
 Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community-Contributor-Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community-Umgebung eingesetzt haben.
 
-## 2013
+Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registrierten, haben das [originale Abzeichendesign](#geschichte) auf ihrem Profil und neuere Mitwirkende erhalten eine buntere Variante.
 
-### August
+## Auflistung
+
+### 2013
+
+#### August
 
 *Für den Forumsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
@@ -41,9 +40,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Der erste Community-Manager und globaler Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Der erste Team-Manager sowie BAT-Manager, der damals alleine ein elitäres Moderationsteam für Beatmaps aus dem Nichts gegründet hat. |
 
-## 2015
+### 2015
 
-### März
+#### März
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -51,9 +50,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Herausragende Beiträge zum osu!-Wiki |
 | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Entwicklung von osu!Rank & osu!Post |
 
-## 2016
+### 2016
 
-### Januar
+#### Januar
 
 *Für den Newsbeitrag, siehe: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
@@ -68,7 +67,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Entwicklung von Mikuia.tv - ein Toolkit für osu!-Twitchbots |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Entwicklung eines Beatmap-Empfehlungsbots |
 
-### März
+#### März
 
 *Für den Newsbeitrag, siehe: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
@@ -76,7 +75,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | :-- | :-- |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Jahrelanges Engagement für die Aufrechterhaltung und Verbesserung der Qualität des Mappings, das bei zahlreichen Gelegenheiten zur Lösung verschiedener Probleme in der Community beigetragen hat. |
 
-### November
+#### November
 
 *Für den Newsbeitrag, siehe: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
@@ -92,9 +91,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Herausragender Beitrag zu Community-Angelegenheiten |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Herausragender Beitrag zu Moderation, Organisation und Management |
 
-## 2017
+### 2017
 
-### Dezember
+#### Dezember
 
 *Für den Newsbeitrag, siehe: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
@@ -121,9 +120,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Hervorragender Einsatz bei der Förderung des osu!-Wiki-Projekts mit unzähligen Überarbeitungen, Nacharbeiten und Überprüfungen |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | Stützpfeiler des osu!-Wiki-Projekts und herausragender Beitrag über die Jahre hinweg |
 
-## 2019
+### 2019
 
-### Februar
+#### Februar
 
 *Für den Newsbeitrag, siehe: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
@@ -153,9 +152,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Herausragender Beitrag zum Mentorenprogramm |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Herausragender Beitrag zum osu!(lazer)-Projekt |
 
-## 2020
+### 2020
 
-### Februar
+#### Februar
 
 *Für den Newsbeitrag, siehe: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
@@ -183,9 +182,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Herausragende Beiträge für die Mappers' Guild und Beatmap Nominatoren |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Herausragende Beiträge zu Open-Source-Projekten für osu! |
 
-## 2021
+### 2021
 
-### März
+#### März
 
 *Für den Newsbeitrag, siehe: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
@@ -199,9 +198,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Herausragende Beiträge zur Wartung und Entwicklung des Scorings |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Herausragende Beiträge zu den World Cups und Community-Turnieren |
 
-## 2022
+### 2022
 
-### Juni
+#### Juni
 
 *Für den Newsbeitrag, siehe: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
@@ -222,3 +221,17 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere M
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Herausragende Beiträge zu osu! IRL-Events und zur Turnierszene |
+
+## Geschichte
+
+Im Februar 2018 wurde das alte Contributor-Abzeichen von ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) von ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) neu gestaltet, da es nicht zum Farbschema der neuen Webseite passte.[^redesign-reasons]
+
+![Vergleich der 1. Designänderung](img/design-change-1.png)
+
+Aufgrund einer vollkommenen "Gefühllosigkeit"[^redesign-reasons] wurde das Design am 21. Juli 2023 erneut geändert. Dieses Mal wurde der ursprüngliche Entwurf von ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) überarbeitet und in zwei Versionen aufgeteilt, wobei ältere Mitwirkende (mit einer Nutzer-ID unter 4.000.000) das Original beibehielten und neuere Mitwirkende eine buntere Variante erhielten.
+
+![Vergleich der 2. Designänderung](img/design-change-2.png)
+
+## Referenzen
+
+[^redesign-reasons]: [Discord-Nachrichten von Walavouchey und RBRat3 (12.08.2023) in #osu-wiki in osu!](https://discord.com/channels/188630481301012481/218677502141399041/1139836832381673524)
