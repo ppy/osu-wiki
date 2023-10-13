@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
+---
+
 # Deskripsi beatmap
 
 **Deskripsi beatmap** adalah area kecil yang berada di bawah halaman [beatmap](/wiki/Beatmap) yang memberikan informasi tentang beatmap tersebut kepada pemain dengan menggunakan format [BBCode](/wiki/BBCode). Deskripsi beatmap biasanya digunakan untuk menambahkan informasi tentang beatmap yang dianggap penting oleh pembuatnya atau digunakan untuk mempromosikan proyek mapping lainnya.
