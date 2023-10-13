@@ -145,7 +145,7 @@ Los nombres de las carpetas solo deben usar estos caracteres:
 
 ### Nombre de los archivos de artículos
 
-El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
+El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés.
 
 ### Artículos de índice
 
@@ -890,9 +890,9 @@ La cita en bloque se limita a citar a alguien o algo. De lo contrario, no debe u
 —rrtyui
 ```
 
-## Corte temático
+## Pausa temática
 
-El corte temático (también conocida como regla o línea horizontal) debe usarse con moderación. Algunos usos del corte temático pueden incluir (pero no se limitan a):
+La pausa temática (también conocida como corte temático, regla o línea horizontal) debe usarse con moderación. Algunos usos de la pausa temática pueden incluir (pero no se limitan a):
 
 - separar las imágenes del texto
 - separar varias imágenes que se suceden
