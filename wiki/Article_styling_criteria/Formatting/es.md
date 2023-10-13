@@ -521,7 +521,7 @@ El texto preformateado (también conocido como bloques de código) debe delimita
 
 ## Enlaces
 
-*Véase también: [Notas al pie](#notas-al-pie)
+*Véase también: [Notas al pie](#notas-al-pie)*
 
 Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos.
 
@@ -604,7 +604,7 @@ La URL de la barra de direcciones del navegador web debe copiarse tal como está
 
 Todos los nombres de usuario deben estar vinculados en la primera aparición. Otras ocurrencias son opcionales, pero deben ser consistentes a lo largo de todo el artículo para todos los nombres de usuario. Si es difícil determinar la identificación del usuario, se puede omitir.
 
-Al vincular a un perfil de usuario, se debe utilizar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{username}`) para obtener el ID del usuario.
+Al vincular a un perfil de usuario, se debe utilizar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{nombre de usuario}`) para obtener el ID del usuario.
 
 El texto del enlace de usuario debe ser el nombre actual del usuario.
 
