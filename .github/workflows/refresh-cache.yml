@@ -1,0 +1,41 @@
+name: refresh node_modules cache
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  cache-node-modules:
+    name: update cache
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          sparse-checkout: '.'
+
+      - name: set up Node.js
+        id: setup-node
+        uses: actions/setup-node@v3
+        with:
+          cache: npm
+          node-version: 16
+
+      - name: check node_modules cache
+        id: cache-node-modules
+        uses: actions/cache/restore@v3
+        with:
+          path: node_modules
+          lookup-only: true
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+
+      - name: 'if cache is outdated: install node_modules'
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: 'if cache is outdated: save cache'
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v3
+        with:
+          path: node_modules
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
