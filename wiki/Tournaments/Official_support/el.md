@@ -7,9 +7,9 @@ tags:
 
 # Επίσημη υποστήριξη τουρνουά
 
-*Για την υποστήριξη του ανταγωνισμού των beatmap, βλέπετε: [Επίσημη υποστήριξη των ανταγωνισμών beatmap](/wiki/Contests/Official_support).*
+*Για την υποστήριξη του διαγωνισμού χαρτογράφησης των beatmap βλέπετε: [Επίσημος διαλωνισμός χαρτογράφησης beatmap](/wiki/Contests/Official_support).*
 
-[osu! team](/wiki/People/osu!_team) ομάδα τρέχει ένα πρόγραμμα που παρέχει πρόσθετη υποστήριξη τηρώντας ορισμένες προσδοκίες.
+Η [osu! team](/wiki/People/osu!_team) ομάδα τρέχει ένα πρόγραμμα όπου μπορεί να επιλέζει διαγωισμούς τρεχούμενους από τη κοινότητα που παρέχει πρόσθετη υποστήριξη τηρώντες προσδοκίες.
 
 Αυτό το άρθρο τελευταία ανανεώθηκε στις 12 Σεπτεμβρίου του 2023. Για οτιδήποτε ερωτήματα και διασαφηνίσεις, παρακαλούμε να αναφερθείτε στο `#tournaments` κανάλι στο [osu! Discord server](https://discord.com/invite/ppy) ή να στείλετε email στο [Account Support Team](/wiki/People/Account_support_team) μέσω [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
