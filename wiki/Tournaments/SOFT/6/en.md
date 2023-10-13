@@ -32,7 +32,7 @@ The **Springtime osu!mania Free-for-all Tournament 6** (***SOFT 6***) was a 1v1 
 
 ## Prizes
 
-The Springtime osu!mania Free-for-all Tournament 6 offered a $250 minimum cash prize pool!
+The Springtime osu!mania Free-for-all Tournament 6 offered a $260 cash prize pool!
 
 | Placing | Prize(s) |
 | :-: | :-- |
