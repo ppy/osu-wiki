@@ -24,7 +24,7 @@ tags:
 
 ## Descripción
 
-*Nota: Activar el mod Target Practice resultará en una partida sin clasificar.*
+*Aviso: Activar el mod Target Practice resultará en una partida sin clasificar.*
 
 El mod **Target Practice** es un [modificador de juego](/wiki/Gameplay/Game_modifier) experimental que elimina todos los [objetos](/wiki/Gameplay/Hit_object) asignados y los reemplaza con un conjunto simplificado y consistente de «objetivos».
 
@@ -37,6 +37,6 @@ El uso del mod es principalmente para divertirse, pero también se puede usar pa
 ## Curiosidades
 
 - El mod Target Practice usará los [colores de combo](/wiki/Beatmapping/Combo_colour) que están marcados en la carpeta [skin.ini](/wiki/Skinning/skin.ini) actual del jugador.
-- Al fallar una partida con el mod Target Practice activado, el jugador será llevado a la pantalla de clasificación, en lugar de a una pantalla de fallado.
+- Al fallar una partida con el mod Target Practice activado, el jugador será llevado a la pantalla de clasificación, en lugar de a una pantalla de fallo.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

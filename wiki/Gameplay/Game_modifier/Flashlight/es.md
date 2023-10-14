@@ -45,7 +45,7 @@ El mod Flashlight es ampliamente considerado por muchos como el mod más difíci
 
 ### osu!taiko
 
-En [osu!taiko](/wiki/Game_mode/osu!taiko), la posición del área visible se fija en el área de golpeo. Y de manera similar a osu!, el área visible se reduce a medida que aumenta el combo: se reduce en combos de 100x y 200x y vuelve a su tamaño original si el combo se rompe.
+En [osu!taiko](/wiki/Game_mode/osu!taiko), la posición del área visible se fija en el área de golpeo. Y de manera similar a osu!, el área visible se reduce a medida que aumenta el combo: se reduce en combos de 100x y 200x, y vuelve a su tamaño original si el combo se rompe.
 
 ![Jugabilidad de FL en taiko](/wiki/Gameplay/Game_modifier/Flashlight/img/FL-taiko.jpg "Jugabilidad de osu!taiko con el mod Flashlight activado")
 

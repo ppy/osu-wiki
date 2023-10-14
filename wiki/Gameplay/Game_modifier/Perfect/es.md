@@ -19,35 +19,34 @@ tags:
 - Abreviatura: PF
 - Tipo: Aumento de dificultad
 - Multiplicador de puntuación: 1.00x
-- Tecla de acceso directo predeterminada: `S` `S` o `Shift`+`S`
+- Tecla de acceso directo predeterminada: `S` `S` o `Shift` + `S`
 - Descripción: `SS o nada.`
 - Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
 ## Descripción
 
-El mod **Perfect** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo ayudar a los jugadores que buscan una calificación SS fallando automáticamente y reintentando [beatmaps](/wiki/Beatmap) si el jugador pierde una nota u obtiene una puntuación en un [objeto de impacto](/wiki/Gameplay/Hit_object) que no sea 300.
+El mod **Perfect** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo ayudar a los jugadores que buscan obtener un grado SS, reiniciando automáticamente los [beatmaps](/wiki/Beatmap) si el jugador falla una nota o recibe cualquier juicio en un [objeto](/wiki/Gameplay/Hit_object) distinto a GREAT.
 
-Cualquiera de los siguientes actos **provocará** que el mod Perfect reinicie el beatmap:
+Cualquiera de las siguientes acciones **provocará** que el mod Perfect reinicie el beatmap:
 
-- Falta una nota
-- Obtener un `100` o `50`
-- Fallar una ruleta
-- Sliderbreaker
+- Fallar una nota
+- Obtener un OK o MEH
+- Fallar un spinner
+- Perder la [cola](/wiki/Gameplay/Hit_object/Slider/Slidertail) de un slider o [romper un slider](/wiki/Gameplay/Judgement/Slider_break)
 
-Cualquiera de los siguientes actos **no hará que** el mod Perfect reinicie el beatmap:
+Cualquiera de las siguientes acciones **no provocará** que el mod Perfect reinicie el beatmap:
 
-- Obtención de un `300`
-- Completar una ruleta
-- Obtener una puntuación Rainbow 300/MAX ([osu!mania](/wiki/Game_mode/osu!mania))
-- Obtener un valor de puntuación de 300 (osu!mania)
+- Obtener un GREAT
+- Completar un spinner
+- Obtener un PERFECT ([osu!mania](/wiki/Game_mode/osu!mania))
+- Obtener un MEH/OK/GOOD en la cabeza/cola de una nota larga en [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) ([osu!mania](/wiki/Game_mode/osu!mania))
 
-Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode)
+Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode).
 
 ## Curiosidades
 
-- Si hay un prólogo que se puede omitir, el mod Perfect no lo omitirá automáticamente porque utiliza la funcionalidad de reinicio en lugar de un reintento rápido.
-- El mod Perfect es una variante del mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
+- Si hay un prólogo que se puede omitir, el mod Perfect no lo omitirá automáticamente, ya que utiliza la funcionalidad de reinicio en lugar de una repetición rápida.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -22,8 +22,8 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Tecla de acceso directo predeterminada: `F`
-  - Tecla de acceso directo predeterminada ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` o `Shift`+`F`
-- Descripcion:
+  - Tecla de acceso directo predeterminada ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` o `Shift` + `F`
+- Descripción:
   - ![][osu!]: `Obtén más puntuación jugando sin círculos de proximidad y con elementos que desaparecen.`
   - ![][osu!taiko]: `¡Las notas desaparecen antes de que las toques!`
   - ![][osu!catch] `Obtén más puntuación jugando sin círculos de proximidad y con elementos que desaparecen.`

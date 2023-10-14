@@ -19,7 +19,7 @@ tags:
 
 - Abreviatura: FO
 - Tipo: Aumento de dificultad
-- Tecla de acceso directo predeterminada: `F` `F` o `Shift`+`F`
+- Tecla de acceso directo predeterminada: `F` `F` o `Shift` + `F`
 - Modos de juego compatibles: ![][osu!mania]
 
 ## Descripción

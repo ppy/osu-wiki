@@ -30,7 +30,7 @@ El mod **Fade In** es un [modificador de juego](/wiki/Gameplay/Game_modifier) pa
 
 La velocidad a la que las notas se desvanecen se basa en el combo, con un combo más alto, las notas se desvanecen más tarde y permanecen invisibles por más tiempo. Es decir, las notas se desvanecen más y más tarde cuanto más alto un jugador aumenta su combo.
 
-El tamaño de desvanecimiento solo se detiene cuando se alcanza un hito de combo de 500x (momento en el que cubre aproximadamente el 70 % del campo de juego). Si un combo se interrumpe en algún momento, el tamaño de desvanecimiento volverá a ser 0x el tamaño del combo (que es aproximadamente el 20 % del campo de juego).
+El tamaño de desvanecimiento solo se detiene cuando se alcanza un hito de combo de 500x (momento en el que cubre aproximadamente el 70 % del campo de juego). Si un combo se interrumpe en algún momento, el tamaño de desvanecimiento volverá a ser 0x (que es aproximadamente el 20 % del campo de juego).
 
 ![Comparaciones de jugabilidad con FI](/wiki/Gameplay/Game_modifier/Fade_In/img/FI-combo-comparison-mania.jpg "Jugabilidad con el mod Fade In en combo 89x (arriba a la izquierda), en combo 332x (arriba centro), en combo 513x (arriba a la derecha/abajo a la izquierda), y en combo 900x (abajo a la derecha) en osu!mania")
 
