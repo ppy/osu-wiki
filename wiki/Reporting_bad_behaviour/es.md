@@ -1,6 +1,6 @@
 # Reportar mala conducta
 
-osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtalo utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.
+osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtala utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.
 
 Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente reportes no válidos pueden correr el riesgo de ser [silenciados](/wiki/Silence).
 
