@@ -15,7 +15,7 @@ Eine **Ankündigungsnachricht** ist eine besondere Nachricht, die an mehrere Nut
 Die Hauptunterschiede zwischen Ankündigungsnachrichten und normalen Nachrichten sind:
 
 - Die maximale Länge von 1024 statt 450 Zeichen
-- Markdown-Syntax[^note-images] kann zum Formatieren einer Ankündigungsnachricht verwendet werden
+- Verwendung von Markdown-Syntax[^note-images] zur Formatierung
 - Gleichzeitige Zustellung an mehrere Nutzer
 - Die Möglichkeit, die Einstellung `Blockiere Nachrichten von Benutzern, die nicht in deiner Freundesliste sind` zu umgehen
 - Nur Nutzer, die Ankündigungsnachrichten versenden dürfen, können auf Ankündigungsnachrichten antworten
@@ -51,7 +51,7 @@ Anschließend kann die Ankündigung mit dem Button `Erstellen` versendet werden.
 - Die [grundlegende Implementierung](https://github.com/ppy/osu-web/pull/8418) des neuen Ankündigungssystems wurde am 26. Januar 2022 zur Webseite hinzugefügt. Diese Implementierung umfasste nur die Nutzergruppe "announce" und die Möglichkeit, Ankündigungsnachrichten per API zu versenden. Die Benutzeroberfläche auf der Webseite und die Erlaubnis für Moderatoren, Ankündigungen zu versenden, wurden am 01. Juni 2022 [hinzugefügt](https://github.com/ppy/osu-web/pull/8747).
 - Die Nutzergruppe "announce" hat die Gruppen-ID 47, kein Gruppenabzeichen und keine eigene Gruppenfarbe. Die Nutzerliste ist privat.
 
-## Anmerkung
+## Anmerkungen
 
 [^note-images]: Bilder können in Ankündigungsnachrichten nicht verwendet werden.
 [^note-group]: Der Begriff "Ankündigungsgruppe" wird als Abkürzung für die [Nutzergruppe](/wiki/People/User_group) namens "announce" bzw. die Ankündigungsnutzergruppe verwendet. Diese Gruppe existiert nur, um die Berechtigung zum Versenden von Ankündigungsnachrichten zu verteilen.
