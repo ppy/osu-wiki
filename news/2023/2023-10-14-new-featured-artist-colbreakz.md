@@ -14,7 +14,7 @@ Any osu! player with a background in *Geometry Dash* may have heard **ColBreakz*
 
 **18** of those iconic songs are now part of [**ColBreakz**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/384)!
 
-Begin your mapping session with a bit of inspiration. Here's [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) mapped by [Hinsvar](https://osu.ppy.sh/users/1249323) and showcasing how lazer handles rate changing mods, followed by a bunch of other song previews:
+Begin your mapping session with a bit of inspiration. Here's [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) mapped by [Hinsvar](https://osu.ppy.sh/users/1249323) showcasing how osu!(lazer) handles rate-changing mods, followed by a bunch of other song previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -40,7 +40,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2072833) hosted b
 
 ### ColBreakz - 2011
 
-Or check out [this soon-to-be-classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
+Or check out [this soon-to-be classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
 
 <audio controls>
     <source src="LINK">
