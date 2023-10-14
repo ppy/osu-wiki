@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
+---
+
 # Descripción del mapa
 
 La **descripción del mapa** es un área pequeña debajo de la página de un [mapa](/wiki/Beatmap) que brinda a los jugadores información sobre el mapa usando [BBCode](/wiki/BBCode). Por lo general, destaca algunos datos sobre el mapa que su creador consideró lo suficientemente importante, o se usa para publicitar otros proyectos de mapping.
