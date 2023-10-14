@@ -8,9 +8,9 @@ EDM legend **ColBreakz** drops into our Featured Artist catalogue!
 
 ![](https://assets.ppy.sh/artists/384/header.jpg)
 
-More than a decade has passed since **ColBreakz** started producing EDM sensations, so it's about time he's officially part of osu!.
+More than a decade has passed since **ColBreakz** started experimenting with electronic music, so it's about time he's officially part of osu!.
 
-Any osu! player with a background in *Geometry Dash* may have heard **ColBreakz** through *10.000* — a tune that's been a staple in that community since 2016. While **ColBreakz** doesn't have an extensive history on osu! (yet), we're sure his iconic style will make that change VERY soon.
+Any osu! player with a background in *Geometry Dash* may have heard **ColBreakz** through *10.000* — a tune that's been a staple in that community since 2016. While **ColBreakz** doesn't have an extensive history on osu! yet, we're sure his iconic style will make that change VERY soon.
 
 **18** of those iconic songs are now part of [**ColBreakz**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/384)!
 
@@ -39,6 +39,8 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2072833) hosted b
 </audio>
 
 ### ColBreakz - 2011
+
+Or check out [this soon-to-be-classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
 
 <audio controls>
     <source src="LINK">
