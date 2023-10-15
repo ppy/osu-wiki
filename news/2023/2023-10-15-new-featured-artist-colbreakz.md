@@ -27,7 +27,7 @@ Begin your mapping session with a bit of inspiration. Here's [ColBreakz & Vizzen
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2052201) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/384/Remember/ColBreakz%20_%20Vizzen%20-%20Remember.mp3">
 </audio>
 
 ### Protolizard & ColBreakz - Nevermind
@@ -35,7 +35,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2052201
 Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2072833) hosted by [Ainer](https://osu.ppy.sh/users/13371424)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/384/Nevermind/Protolizard%20_%20ColBreakz%20-%20Nevermind.mp3">
 </audio>
 
 ### ColBreakz - 2011
@@ -43,7 +43,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2072833) hosted b
 Or check out [this soon-to-be classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/384/2011/ColBreakz%20-%202011.mp3">
 </audio>
 
 ---
