@@ -11,7 +11,7 @@ tags:
 
 An **announcement message** is a special type of message that's intended for sending longer and formatted messages to multiple users at once. The key differences between announcement messages and regular chat messages are:
 
-- The 1024 character limit instead of 450
+- A 1024 character limit instead of 450
 - Markdown syntax support[^note-images] for text formatting
 - Delivery to multiple users at once
 - Ability to bypass the `block private messages from people not on your friends list` setting
@@ -19,7 +19,7 @@ An **announcement message** is a special type of message that's intended for sen
 
 ## Eligibility
 
-Sending and replying to announcement messages through the website requires membership in either the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Sending and replying to announcement messages through the website requires membership in the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Filing a request
 
