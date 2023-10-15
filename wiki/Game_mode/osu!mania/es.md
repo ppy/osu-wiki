@@ -52,7 +52,7 @@ El **escalado de BPM** es el antiguo sistema de escalado predeterminado que se u
 
 ![Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM`](img/Mania_Scale.png "Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM` en la barra lateral de opciones")
 
-La velocidad de desplazamiento **fija** es el nuevo sistema que cumple con una velocidad de desplazamiento constante junto con los BPM actuales. [Una introducción muy simple hecho por Blazier el 29 de octubre de 2014 (29-10-2014) sobre el escalado fijo](https://osu.ppy.sh/community/forums/topics/254145).
+La velocidad de desplazamiento **fija** es el nuevo sistema que cumple con una velocidad de desplazamiento constante junto con los BPM actuales. [Una introducción muy simple hecho por Blazier el 29 de octubre de 2014 (29/10/2014) sobre el escalado fijo](https://osu.ppy.sh/community/forums/topics/254145).
 
 Hay que notar que los dos sistemas de escalado son afectados por la subida/bajada de velocidad por los cambios de BPM, con los cambios llendo desde drásticos (usualmente para BPM escalando para altos BPM con notas veloces; muy bajo BPM para escalados fijos con notas condensadas) a menores (usualmente escalados fijos en la mayoría del espectro de BPM) dependiendo de las configuraciones usadas en el Cambio de Velocidad.
 
