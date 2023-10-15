@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: ColBreakz"
-date: 2023-10-15 09:00:00 +0000
+date: 2023-10-15 02:50:00 +0000
 ---
 
 EDM legend **ColBreakz** drops into our Featured Artist catalogue!
@@ -18,7 +18,7 @@ Begin your mapping session with a bit of inspiration. Here's [ColBreakz & Vizzen
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/384/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/384/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
