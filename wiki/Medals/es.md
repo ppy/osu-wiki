@@ -1,8 +1,3 @@
----
-outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
-outdated_translation: true
----
-
 # Medallas
 
 Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **314** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
@@ -40,6 +35,8 @@ Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar haza
 - Los *flair texts* de las medallas (si las hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
 
 Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas en ella no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) ni [especial](/wiki/Gameplay/Game_modifier#especial).
 
 ## Beatmap Spotlights
 
