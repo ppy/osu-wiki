@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - badges
   - profile badges
@@ -9,8 +8,6 @@ tags:
   - insignias de perfil
   - insignia de usuario
   - insignias de usuario
-outdated_since: e6a6193741a1b4512b211bc4957bd79b0e0395f6
-outdated_translation: true
 ---
 
 # Insignia de perfil
@@ -45,4 +42,4 @@ Un efecto secundario de este esquema de diseño fue que la altura predeterminada
 :::
 
 - Las dos primeras insignias de perfil se otorgaron a ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) y ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) el 6 de septiembre de 2009 [por ganar el *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
-- Las insignias pueden vincularse a otras páginas web para obtener más contexto, pero actualmente ninguna utiliza esta función.
+- Las insignias pueden vincularse a otras páginas web para obtener más contexto, como la página del foro de un torneo o una entrada de la wiki.
