@@ -39,14 +39,14 @@ Die wichtigsten Faktoren für die Entscheidung sind Verhalten, Aktivität, Verst
 1. Beweise dein gutes Verhalten durch höflichen und respektvollen Umgang mit anderen Nutzern. Es ist essenziell, deinen Account frei von Stummschaltungen oder Verstößen zu halten.
 2. Demonstriere deine Aktivität durch die Teilnahme am Chat und/oder in den Foren. [Melde Fehlverhalten](/wiki/Reporting_bad_behaviour) und Probleme, beantworte Fragen und hilf anderen mit Problemen.
 3. Habe ein gutes Verständnis [der Regeln](/wiki/Rules) und wie diese angewendet werden. Du solltest wissen, was in osu! akzeptabel ist und was nicht.
-4. Sei geduldig. Das GMT fügt nicht spontan Mitglieder hinzu, die ein paar Tage geholfen haben. Das GMT braucht Zeit, um jemanden zu bewerten – seine Persönlichkeit, mit was er helfen kann, seine Aktivität usw.
+4. Sei geduldig. Das GMT fügt nicht spontan Mitglieder hinzu, die ein paar Tage geholfen haben. Das GMT braucht Zeit, um jemanden zu bewerten – seine Persönlichkeit, womit er helfen kann, seine Aktivität usw.
 
-Generell wird das Team Kandidaten über mehrere Wochen oder Monate hinweg beobachten, um sicher zu gehen, dass diese gut ins Team passen. Bitte sei geduldig und schieße nicht über das Ziel hinaus. Du darfst den globalen Moderatoren gerne Fragen zu Regeln, dem Melden von Spielern und anderen Problemen stellen.
+Generell wird das Team Kandidaten über mehrere Wochen oder Monate hinweg beobachten, um sicherzugehen, dass diese gut ins Team passen. Bitte sei geduldig und schieße nicht über das Ziel hinaus. Du darfst den globalen Moderatoren gerne Fragen zu Regeln, dem Melden von Spielern und anderen Problemen stellen.
 
 ### Einige Dinge, die du nicht machen solltest
 
 1. Frage das GMT nicht ständig, ob du als potenzieller Kandidat geeignet bist. Das GMT möchte niemanden hinzufügen, der nur zum Selbstzweck beiträgt. Deine Herangehensweise sollte nicht eigennützig sein.
-2. Melde nicht jede Kleinigkeit im Chat. Du solltest unterscheiden können, was gemeldet werde sollte und was nicht.
+2. Melde nicht jede Kleinigkeit im Chat. Du solltest unterscheiden können, was gemeldet werden sollte und was nicht.
 3. Beantworte keine Fragen, wenn du dir mit der Antwort nicht sicher bist. Das gilt vor allem in den Foren. Vorschläge sind willkommen, aber das Verbreiten von Falschinformationen hilft niemandem. Wenn du die Lösung für ein Problem nicht kennst, dann lasse jemand anderen antworten und lerne von ihm.
 4. Mache nicht zu viel. Das Team sucht nicht nach übermäßig vielen, sondern nach regelmäßigen Beiträgen. Es ist bekannt, dass Kandidaten sonst ihre Geduld und ihr Engagement verlieren. Nur keine Hektik!
 
