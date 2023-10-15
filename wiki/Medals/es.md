@@ -36,7 +36,7 @@ Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar haza
 
 Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
-También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas en ella no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) ni [especial](/wiki/Gameplay/Game_modifier#especial).
+También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas en ella no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o [especiales](/wiki/Gameplay/Game_modifier#especiales).
 
 ## Beatmap Spotlights
 
