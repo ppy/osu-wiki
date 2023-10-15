@@ -44,7 +44,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | 맵풀 셀렉터 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | 맵풀 퀄리티 보증 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 맵풀 플레이테스터 | ::{ flag=CZ }:: [Avenito](https://osu.ppy.sh/users/7415910), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=BR }:: [Mystia](https://osu.ppy.sh/users/4277702), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) |
-| 매퍼 | *TBA* |
+| 매퍼 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 해설 | *TBA* |
 | 심판 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | 통계 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -121,6 +121,28 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 캡틴은 **굵은 글씨체**로 표시되어 있습니다.
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼수 있습니다.
+
+## 맵풀 목록
+
+### 퀄리파이어
+
+**[맵팩은 여기서 다운로드가 가능합니다 (69 MB MB)](https://packs.ppy.sh/P225%20-%20osu!%20World%20Cup%202023%3A%20Qualifiers.zip)**
+
+- No Mod
+  1. [Omoi - Greenlights Serenade (kowari) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2075261#osu/4344435)
+  2. [FRASER EDWARDS - Alone (-Kemsyt) \[Legend\]](https://osu.ppy.sh/beatmapsets/2075267#osu/4344451)
+  3. [Kabocha feat. Sennzai - Morphobia (Rtyzen) \[Blue Wings\]](https://osu.ppy.sh/beatmapsets/2075262#osu/4344441)
+  4. [Zekk - Vespera (Down) \[Twilight\]](https://osu.ppy.sh/beatmapsets/2075263#osu/4344442)
+- Hidden
+  1. [Yunosuke - GLAZ (Pho) \[LOCK\]](https://osu.ppy.sh/beatmapsets/2075277#osu/4344469)
+  2. [SECONDWALL - Natsu no Owari (Zelq) \[Expert feat. Heroine\]](https://osu.ppy.sh/beatmapsets/2075254#osu/4344423)
+- Hard Rock
+  1. [Nekrogoblikon - Row (Dada) \[woo\]](https://osu.ppy.sh/beatmapsets/2075247#osu/4344412)
+  2. [Umeboshi Chazuke - Banana! DX Choco Crepe! (Nakano Itsuki) \[banana\]](https://osu.ppy.sh/beatmapsets/2075266#osu/4344450)
+- Double Time
+  1. [JOYLESS - Dream (netnesanya) \[garf\]](https://osu.ppy.sh/beatmapsets/2075279#osu/4344474)
+  2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
+  3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## 규칙
 
