@@ -5,7 +5,7 @@
 
 ## Configuraciones regionales
 
-A continuación se enumeran las configuraciones regionales compatibles con la wiki:
+A continuación se enumeran las configuraciones regionales compatibles correctamente con la wiki:
 
 | Nombre del archivo | Nombre local | Escritura nativa |
 | :-- | :-- | :-- |
@@ -33,7 +33,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `no.md` | Noruego | Norsk |
 | `pl.md` | Polaco | Polski |
 | `pt.md` | Portugués | Português |
-| `pt-br.md` | Portugués brasileño | Português (Brasil) |
+| `pt-br.md` | Portugués (Brasil) | Português (Brasil) |
 | `ro.md` | Rumano | Română |
 | `ru.md` | Ruso | Русский |
 | `sk.md` | Eslovaco | Slovenčina |
@@ -55,7 +55,7 @@ El formato de serialización debe colocarse en la parte superior del archivo. Es
 
 ### Artículos que necesitan ayuda
 
-*Nota: Evite traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
+*Nota: Evita traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
 
 La etiqueta `needs_cleanup` puede ser agregada a los artículos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
 
@@ -67,7 +67,7 @@ Al agregar esta etiqueta a un artículo, también se deben agregar [comentarios]
 
 ### Artículos obsoletos
 
-*Nota: Evite traducir artículos en inglés con esta etiqueta. Si el artículo en inglés tiene esta etiqueta, la traducción también debe tener esta etiqueta.*
+*Nota: Evita traducir artículos en inglés con esta etiqueta. Si el artículo en inglés tiene esta etiqueta, la traducción también debe tener esta etiqueta.*
 
 Los artículos en inglés pueden quedar obsoletos cuando el contenido que contienen es erróneo o irrelevante. Estos deben recibir una etiqueta `outdated`, que debe escribirse como se muestra a continuación:
 
@@ -119,7 +119,7 @@ no_native_review: true
 
 *Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
 
-Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
+Los títulos de los artículos deben estar en singular y usar mayúsculas y minúsculas. Véase el [artículo Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
 
 Los títulos de los artículos deben coincidir con el nombre de la carpeta en la que se encuentran (los espacios se pueden reemplazar los guiones bajos (`_`) cuando corresponda). Si el nombre de la carpeta cambia, el título del artículo debe cambiarse para que coincida y viceversa.
 
@@ -145,7 +145,7 @@ Los nombres de las carpetas solo deben usar estos caracteres:
 
 ### Nombre de los archivos de artículos
 
-El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
+El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección Configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés.
 
 ### Artículos de índice
 
@@ -183,7 +183,7 @@ Los comentarios HTML<!-- TODO explain HTML comments --> deben usarse para marcar
 
 ### Secuencia de final de línea
 
-*Precaución: Cargar archivos Markdown usando `CRLF` (retorno de carro y salto de línea) a través de GitHub hará que esos archivos usen `CRLF`. Para evitar esto, establezca el final de línea en `LF` (salto de línea) antes de cargar.*
+*Precaución: Cargar archivos Markdown usando `CRLF` (retorno de carro y salto de línea) a través de GitHub hará que esos archivos usen `CRLF`. Para evitar esto, establece el final de línea en `LF` (salto de línea) antes de cargar.*
 
 Los archivos Markdown deben registrarse usando la secuencia de fin de línea `LF`.
 
@@ -289,7 +289,7 @@ Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. 
 
 En muchos casos, puede ser más adecuado incrustar notas de navegación o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
 
-## Enfatizando
+## Enfatizado
 
 ### Negrita
 
@@ -330,7 +330,7 @@ El texto vinculado aparece en un color diferente que ya proporciona énfasis y, 
 Sin embargo, esto no se aplica si la obra a la que se hace referencia no es la única parte del enlace:
 
 ```markdown
-[El beatmap de Voltaeyx de *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) acumuló una popularidad considerable en 2018 debido a sus patrones de sliders superpuestos únicos.
+El [beatmap de Voltaeyx *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) acumuló una popularidad considerable en 2018 debido a sus patrones de sliders superpuestos únicos.
 ```
 
 El tipo de construcción anterior debe usarse con moderación y no debe usarse en lugares con muchos enlaces, como tablas o listas.
@@ -365,16 +365,16 @@ Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es
 Es posible redefinir el identificador de una sección, que se utiliza para enlazar directamente con ella. Los identificadores personalizados deben utilizarse en caso de que los generados automáticamente sean demasiado largos o contengan signos de puntuación complicados o imágenes:
 
 ```markdown
-## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {id=apelación}
+## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {id=appeal}
 
-## Motivos comunes de restricción y tiempos de espera {id=razones-comunes}
+## Varios ejemplos de la jugabilidad de osu! {id=osu!-gameplay}
 ```
 
-Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Utilícela con moderación:
+Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Úsala con moderación:
 
 ```markdown
 > Eso es todo! ¡Estás en camino de convertirte en un campeón del ritmo!
-{id=frase-del-tutorial}
+{id=tutorial-quote}
 ```
 
 ## Listas
@@ -383,7 +383,7 @@ Las listas no deben superar los 4 niveles de sangría y no deben tener una líne
 
 En las listas anexas, las viñetas o los números deben alinearse con el contenido de los elementos de sus listas principales.
 
-El siguiente ejemplo se realizó incorrectamente (tome nota del espacio antes de la viñeta):
+El siguiente ejemplo se hizo incorrectamente (fíjate en el espacio antes de la viñeta):
 
 ```markdown
 1. Volar una cometa
@@ -399,7 +399,7 @@ El siguiente ejemplo se hizo correctamente:
 
 ### Con viñetas
 
-Las listas con viñetas deben usar un guion (`-`). Estos deben ir seguidos de un espacio. (Ejemplo que se muestra a continuación)
+Las listas con viñetas deben usar un guion (`-`). Estos deben ir seguidos de un espacio. (Ejemplo mostrado a continuación).
 
 ```markdown
 - osu!
@@ -420,11 +420,11 @@ Los números en una lista numerada deben incrementarse para representar su paso.
 
 ```markdown
 1. Descarga el instalador de osu!.
-2. Ejecute el instalador.
-   1. Para cambiar la ubicación de instalación, haga clic en el texto debajo de la barra de progreso.
-   2. El instalador le pedirá una nueva ubicación, elija la carpeta de instalación.
+2. Ejecuta el instalador.
+   1. Para cambiar la ubicación de instalación, haz clic en el texto debajo de la barra de progreso.
+   2. El instalador te pedirá una nueva ubicación, elige la carpeta de instalación.
 3. osu! se iniciará una vez que se complete la instalación.
-4. Inicie sesión.
+4. Inicia sesión.
 ```
 
 ### Mixtas
@@ -433,16 +433,16 @@ La combinación de listas numeradas y con viñetas debe hacerse con moderación.
 
 ```markdown
 1. Descarga una skin de los foros.
-2. Cargue el archivo de la skin en osu!
-   - Si el archivo es un `.zip`, descomprímalo y mueva el contenido a la carpeta `Skins/` (que se encuentra en su carpeta de instalación de osu!).
-   - Si el archivo es `.osk`, ábralo en su escritorio o arrástrelo y suéltelo en el cliente del juego.
+2. Carga el archivo de la skin en osu!.
+   - Si el archivo es un `.zip`, descomprímelo y mueve el contenido a la carpeta `Skins/` (que se encuentra en tu carpeta de instalación de osu!).
+   - Si el archivo es `.osk`, ábrelo en tu escritorio o arrástralo y suéltalo en el cliente del juego.
 3. Abre osu!, si no está abierto, y selecciona la skin en las opciones.
-   - Es posible que esto se haya completado si abrió el archivo `.osk` o lo arrastró y soltó en el cliente del juego.
+   - Es posible que esto se haya completado si abriste el archivo `.osk` o lo arrastraste y soltaste en el cliente del juego.
 ```
 
 ## Código
 
-La marca para el código es una marca grave (`` ` ``). Para poner marcas graves en el código, utilice marcas graves dobles. Si la marca grave está al principio o al final, rellénela con un espacio. (Ejemplo que se muestra a continuación.)
+El marcado para el código es un acento grave (`` ` ``). Para poner acentos graves dentro del código, usa dos para abrirlo y cerrarlo. Si el acento grave está al principio o al final, rodéalo con un espacio. (Ejemplo mostrado a continuación).
 
 ```markdown
 `` ` ``
@@ -451,29 +451,29 @@ La marca para el código es una marca grave (`` ` ``). Para poner marcas graves 
 
 ### Teclas del teclado
 
-*Aviso: cuando denote la letra en sí, y no la tecla del teclado, use comillas en su lugar.*
+*Aviso: cuando denote la letra en sí, y no la tecla del teclado, usa comillas en su lugar.*
 
-Cuando represente las teclas del teclado, use letras mayúsculas para caracteres individuales y mayúsculas y minúsculas para los modificadores. Use el símbolo más (`+`) (sin código) para representar combinaciones de teclas. (Ejemplo que se muestra a continuación.)
+Al representar teclas del teclado, usa letras mayúsculas para caracteres individuales y mayúsculas y minúsculas para los modificadores. Usa el símbolo más (`+`) (sin código) para representar combinaciones de teclas. (Ejemplo mostrado a continuación).
 
 ```markdown
 pippi se escribe con una «p» minúscula como peppy.
 
-Presione `Ctrl` + `O` para abrir el cuadro de diálogo abierto.
+Presiona `Ctrl` + `O` para abrir el cuadro de diálogo abierto.
 ```
 
-Cuando represente un espacio o la barra espaciadora, use `` `Espacio` ``.
+Al representar un espacio o la barra espaciadora, usa `` `Espacio` ``.
 
 ### Texto de botones y menús
 
-Al copiar el texto de un menú o botón, las mayúsculas y minúsculas deben copiarse tal como aparecen. (Ejemplo que se muestra a continuación.)
+Al copiar el texto de un menú o botón, las mayúsculas y minúsculas deben copiarse tal como aparecen. (Ejemplo mostrado a continuación).
 
 ```markdown
-El botón `osu!direct` está visible en el menú principal en el lado derecho, si tiene una etiqueta activa de osu!supporter.
+El botón `osu!direct` está visible en el menú principal en el lado derecho, si tienes una etiqueta activa de osu!supporter.
 ```
 
 ### Nombre de carpetas y directorios
 
-Al copiar el nombre de una carpeta o directorio, las mayúsculas y minúsculas deben copiarse tal como aparecen, pero prefiera las rutas en minúsculas cuando sea posible. Las rutas de directorio no deben ser absolutas (es decir, no deben comenzar el nombre del directorio desde la letra de la unidad o desde la carpeta raíz). (Ejemplo que se muestra a continuación.)
+Al copiar el nombre de una carpeta o un directorio, las mayúsculas y minúsculas deben copiarse tal como aparecen, pero prefiere las rutas en minúsculas cuando sea posible. Las rutas de directorio no deben ser absolutas (es decir, no deben comenzar el nombre del directorio desde la letra de la unidad o desde la carpeta raíz). (Ejemplo mostrado a continuación).
 
 ```markdown
 osu! se instala en la carpeta `AppData/Local` de forma predeterminada, a menos que se especifique lo contrario durante la instalación.
@@ -481,25 +481,25 @@ osu! se instala en la carpeta `AppData/Local` de forma predeterminada, a menos q
 
 ### Palabras clave y comandos
 
-Al copiar una palabra clave o un comando, las mayúsculas y minúsculas deben copiarse tal como aparecen o como alguien normalmente las escribiría. Si corresponde, prefiera letras minúsculas. (Ejemplo que se muestra a continuación.)
+Al copiar una palabra clave o un comando, las mayúsculas y minúsculas deben copiarse tal como aparecen o como alguien normalmente las escribiría. Si corresponde, prefiere letras minúsculas. (Ejemplo mostrado a continuación).
 
 ```markdown
 A partir de ahora, los comandos `Name` y `Author` en el archivo de configuración de la skin (`skin.ini`) no hacen nada.
 ```
 
-### Nombre de archivos
+### Nombre de los archivos
 
-Al copiar el nombre de un archivo, las mayúsculas y minúsculas deben copiarse tal como aparecen. Si corresponde, prefiera letras minúsculas. (Ejemplo que se muestra a continuación.)
+Al copiar el nombre de un archivo, las mayúsculas y minúsculas deben copiarse tal como aparecen. Si corresponde, prefiere letras minúsculas. (Ejemplo mostrado a continuación).
 
 ```markdown
-Para jugar a osu!, haga doble clic en el icono `osu!.exe`.
+Para jugar a osu!, haz doble clic en el icono `osu!.exe`.
 ```
 
 ### Extensiones de archivo
 
 *Aviso: Los formatos de archivo (que no deben confundirse con las extensiones de archivo) deben escribirse en mayúsculas sin el punto prefijo (`.`).*
 
-Las extensiones de archivo deben tener como prefijo un punto (`.`) y deben ir seguidas de la extensión del archivo en minúsculas. (Ejemplo que se muestra a continuación.)
+Las extensiones de archivo deben tener como prefijo un punto (`.`) y deben ir seguidas de la extensión del archivo en minúsculas. (Ejemplo mostrado a continuación).
 
 ```markdown
 El formato de archivo JPG (o JPEG) tiene la extensión `.jpg` (o `.jpeg`).
@@ -507,23 +507,25 @@ El formato de archivo JPG (o JPEG) tiene la extensión `.jpg` (o `.jpeg`).
 
 ### Canales de chat
 
-Al copiar el nombre de un canal de chat, comience con un hash (`#`), seguido del nombre del canal en minúsculas. (Ejemplo que se muestra a continuación.)
+Al copiar el nombre de un canal de chat, comienza con una almohadilla (`#`), seguido del nombre del canal en minúsculas. (Ejemplo mostrado a continuación).
 
 ```markdown
-`#lobby` es donde puede anunciar su sala multijugador.
+`#lobby` es donde puedes anunciar tu sala multijugador.
 ```
 
 ## Texto preformateado (bloques de código)
 
 *Aviso: El resaltado de sintaxis para texto preformateado aún no está implementado en el sitio web.*
 
-El texto preformateado (también conocido como bloques de código) debe delimitarse con tres marcas graves. Deben establecer el identificador de idioma para el resaltado de sintaxis.
+El texto preformateado (también conocido como bloques de código) debe delimitarse con tres acentos graves. Deben establecer el identificador de idioma para el resaltado de sintaxis.
 
 ## Enlaces
 
+*Véase también: [Notas al pie](#notas-al-pie)*
+
 Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos.
 
-El siguiente es un ejemplo de ambos estilos en línea:
+Lo siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
 [Modificador de juego](/wiki/Gameplay/Game_modifier)
@@ -531,12 +533,12 @@ El siguiente es un ejemplo de ambos estilos en línea:
 <https://osu.ppy.sh/home>
 ```
 
-El siguiente es un ejemplo del estilo de referencia:
+Lo siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador de juego][enlace de modificadores de juego]
+[Modificador de juego][enlace a modificadores de juego]
 
-[enlace de modificadores de juego]: /wiki/Game_modifier
+[enlace a modificadores de juego]: /wiki/Game_modifier
 ```
 
 ---
@@ -545,7 +547,7 @@ Los enlaces deben usar el estilo en línea si solo se les hace referencia una ve
 
 ### Enlaces internos
 
-*Aviso: Los enlaces internos se refieren a enlaces que permanecen dentro del dominio `https://osu.ppy.sh/`.*
+*Aviso: Los enlaces internos se refieren a los enlaces que permanecen dentro del dominio `https://osu.ppy.sh/`.*
 
 #### Enlaces de la wiki
 
@@ -565,15 +567,15 @@ Entre los malos ejemplos se incluyen los siguientes:
 ```markdown
 [Criterios de estilo del artículo](/wiki/ASC)
 [Desarrolladores](/wiki/Developers/)
-[Desarrolladores](/wiki/Developers/#desarrolladores-del-cliente del-juego)
+[Desarrolladores](/wiki/Developers/#desarrolladores-del-cliente-del-juego)
 ```
 
 Entre los buenos ejemplos se incluyen los siguientes:
 
 ```markdown
-[Criterios de estilo del artículo](/wiki/Article_styling_criteria)
+[Criterios de estilo para artículos](/wiki/Article_styling_criteria)
 [Desarrolladores](/wiki/People/Developers)
-[Desarrolladores](/wiki/People/Developers#desarrolladores-del-cliente del-juego)
+[Desarrolladores](/wiki/People/Developers#desarrolladores-del-cliente-del-juego)
 ```
 
 ##### Enlaces a subartículos
@@ -591,24 +593,24 @@ Los enlaces de la wiki que apuntan a un subartículo deben incluir el nombre de 
 Los enlaces wiki que apuntan a una sección de un artículo pueden usar el símbolo de signo de sección (`§`). Véase el siguiente ejemplo:
 
 ```markdown
-*Para las reglas de tiempo, véase: [Criterios de clasificación § Tiempo](/wiki/Ranking_criteria#tiempo)*
+*Para las reglas de tiempo, véase: [Criterios de clasificación § Temporización](/wiki/Ranking_criteria#temporización)*
 ```
 
 #### Otros enlaces de osu!
 
-La URL de la barra de direcciones de su navegador web debe copiarse tal como está cuando se vincula a otras páginas web de osu!. Se debe conservar la parte `https://osu.ppy.sh` de la URL.
+La URL de la barra de direcciones del navegador web debe copiarse tal como está cuando se vincula a otras páginas web de osu!. Se debe conservar la parte `https://osu.ppy.sh` de la URL.
 
 ##### Perfiles de usuario
 
 Todos los nombres de usuario deben estar vinculados en la primera aparición. Otras ocurrencias son opcionales, pero deben ser consistentes a lo largo de todo el artículo para todos los nombres de usuario. Si es difícil determinar la identificación del usuario, se puede omitir.
 
-Al vincular a un perfil de usuario, se debe utilizar el número de identificación del usuario. Use el nuevo sitio web (`https://osu.ppy.sh/users/{username}`) para obtener el ID del usuario.
+Al vincular a un perfil de usuario, se debe utilizar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{nombre de usuario}`) para obtener el ID del usuario.
 
 El texto del enlace de usuario debe ser el nombre actual del usuario.
 
 ##### Dificultades
 
-Siempre que enlace a una sola dificultad, use este formato como texto del enlace:
+Siempre que enlace a una sola dificultad, usa este formato como texto del enlace:
 
 ```
 {artista} - {título} ({creador}) [{nombre_de_la_dificultad}]
@@ -624,13 +626,13 @@ El nombre de la dificultad se puede dejar fuera del texto del enlace, pero hacer
 
 ##### Beatmaps
 
-Siempre que enlace a un beatmap, utilice este formato como texto del enlace:
+Siempre que enlace a un beatmap, usa este formato como texto del enlace:
 
 ```
 {artista} - {título} ({creador})
 ```
 
-Todas las URL de beatmap deben tener el formato siguiente:
+Todas las URL de los beatmaps deben tener el siguiente formato:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
@@ -638,11 +640,11 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 ### Enlaces externos
 
-*Aviso: Los enlaces externos se refieren a enlaces que van fuera del dominio `https://osu.ppy.sh/`.*
+*Aviso: Enlaces externos se refiere a los enlaces que salen del dominio `https://osu.ppy.sh/`.*
 
-Se debe utilizar el protocolo `https`, a menos que el sitio no lo admita. Los enlaces externos deben ser un enlace limpio y directo a una fuente confiable. La URL de la barra de direcciones de su navegador web debe copiarse tal como está cuando se vincula a otras páginas externas.
+Se debe utilizar el protocolo `https`, a menos que el sitio no lo admita. Los enlaces externos deben ser un enlace limpio y directo a una fuente confiable. La URL de la barra de direcciones de tu navegador web debe copiarse tal como está cuando se vincula a otras páginas externas.
 
-No hay diferencias visuales entre los enlaces web externos y osu!. Debido a esto, el nombre del sitio web debe incluirse en el texto del título. Vea el siguiente ejemplo:
+No hay diferencias visuales entre los enlaces web externos y osu!. Debido a esto, el nombre del sitio web debe incluirse en el texto del título. Véase el siguiente ejemplo:
 
 ```markdown
 *Para más información sobre teoría musical, véase: [Teoría musical](https://es.wikipedia.org/wiki/Teoría_musical)*
@@ -655,7 +657,7 @@ Hay dos tipos de enlaces de imagen: en línea y de referencia. Ejemplos:
 **Estilo en línea:**
 
 ```markdown
-![Corona dorada](/wiki/shared/crown-gold.png "1er lugar")
+![Corona dorada](/wiki/shared/crown-gold.png "Primer lugar")
 ```
 
 **Estilo de referencia:**
@@ -663,7 +665,7 @@ Hay dos tipos de enlaces de imagen: en línea y de referencia. Ejemplos:
 ```markdown
 ![Corona dorada][GCrown]
 
-[GCrown]: /wiki/shared/crown-gold.png "1er lugar"
+[GCrown]: /wiki/shared/crown-gold.png "Primer lugar"
 ```
 
 Las imágenes deben usar el estilo de enlace en línea. Las definiciones de enlaces de referencia deben colocarse al final del artículo.
@@ -674,15 +676,15 @@ Todas las imágenes de bloque en la página (que no tienen nada más en la misma
 
 El texto en el primer par de corchetes (*texto alternativo*) debe describir la imagen literalmente. Lo utilizan los lectores de pantalla o cuando la imagen no se carga. Se puede omitir si es idéntico al texto del título o si la imagen se incluye solo con fines decorativos.
 
-El texto entre comillas (*texto del título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como información sobre herramientas al pasar el ratón sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
+El texto entre comillas (*texto de título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como tooltip al pasar el ratón sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
 
 ### Visualización
 
 Si una imagen es el único contenido de un párrafo, se muestra como un recuadro centrado. De lo contrario, fluye con el texto en línea que la rodea.
 
-Las imágenes de bloque con texto de título muestran el texto del título como una leyenda debajo de la imagen. Evite agregar [comentarios HTML](#comentarios) o cualquier otro texto en la misma línea que la imagen, ya que esto hará que la leyenda no se reproduzca.
+Las imágenes en bloque con texto de título muestran el texto de título como una leyenda debajo de la imagen. Evita agregar [comentarios HTML](#comentarios) o cualquier otro texto fuera del texto de título, ya que esto hará que la leyenda no se reproduzca.
 
-Las imágenes de bloque suelen combinarse con el formato [ficha](#fichas) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
+Las imágenes en bloque suelen combinarse con el formato [caja de información](#cajas-de-información) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
 
 ```markdown
 ::: Infobox
@@ -694,31 +696,31 @@ Las imágenes de bloque suelen combinarse con el formato [ficha](#fichas) para r
 
 Las imágenes del sitio web se almacenan en caché durante un máximo de 60 días. La imagen almacenada en caché se compara con la URL del enlace de la imagen.
 
-Al actualizar una imagen, cambie el nombre de la imagen o agregue una cadena de consulta a la URL. En ambos casos, todas las traducciones vinculadas a la imagen actualizada también deben actualizarse.
+Al actualizar una imagen, cambia el nombre de la imagen o agrega una cadena de consulta a la URL. En ambos casos, todas las traducciones vinculadas a la imagen actualizada también deben actualizarse.
 
 ### Formatos y calidad
 
-Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, utilice el formato PNG en su lugar. Si la imagen contiene una animación, se puede utilizar el formato GIF; sin embargo, esto debe usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
+Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el programa). Si la imagen contiene transparencias o tiene texto que debe ser legible, usa el formato PNG en su lugar. Si la imagen contiene una animación, se puede usar el formato GIF; sin embargo, estos deben usarse con moderación, ya que pueden tardar más en cargarse o pueden ser más grandes que el [tamaño máximo del archivo](#tamaño-del-archivo).
 
 ### Tamaño del archivo
 
-Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % de calidad casi siempre está por debajo del límite de tamaño.
+Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % de calidad casi siempre está por debajo del límite de tamaño.
 
-Todas las imágenes deben optimizarse tanto como sea posible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, use el siguiente comando para jpeg-archive:
+Todas las imágenes deben optimizarse tanto como sea posible. Utiliza [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, usa el siguiente comando para jpeg-archive:
 
 ```
 jpeg-recompress -am smallfry <entrada> <salida>
 ```
 
-Alternativamente, [ezgif.com](https://ezgif.com/) se puede utilizar para convertir y optimizar imágenes.
+Alternativamente, [ezgif.com](https://ezgif.com/) se puede usar para convertir y optimizar imágenes.
 
-### Nombre de archivos
+### Nombre de los archivos
 
 *Aviso: Las extensiones de archivo deben usar letras minúsculas, de lo contrario, ¡no se cargarán!*
 
-Use guiones (`-`) cuando espacie las palabras. Al nombrar una imagen, el nombre del archivo debe ser significativo o descriptivo pero breve.
+Usa guiones (`-`) para espaciar las palabras. Al nombrar una imagen, el nombre del archivo debe ser significativo o descriptivo pero breve.
 
-Las imágenes deben colocarse en una carpeta llamada `img` debajo de la carpeta del artículo. Las imágenes que se utilizan en varios artículos deben almacenarse en la carpeta `/wiki/shared`.
+Las imágenes deben colocarse en una carpeta llamada `img` bajo la carpeta del artículo. Las imágenes que se utilizan en varios artículos deben almacenarse en la carpeta `/wiki/shared`.
 
 ### Ancho máximo de imagen
 
@@ -726,13 +728,13 @@ El ancho máximo de la imagen del sitio web es el ancho del cuerpo del artículo
 
 ### Anotaciones de imágenes
 
-Al anotar imágenes, utilice *Torus Regular*. Para los caracteres chinos, coreanos y japoneses, utilice *Microsoft YaHei*.
+Para anotar imágenes, usa *Torus Regular*. Para los caracteres chinos, coreanos y japoneses, usa *Microsoft YaHei*.
 
 Se debe evitar anotar las imágenes, ya que es difícil para los traductores (y otros editores) editarlas.
 
 #### Traducir imágenes anotadas
 
-Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guion, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
+Para traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guion, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
 
 - `hardrock-mod-vs-easy-mod.jpg` para inglés
 - `hardrock-mod-vs-easy-mod-DE.jpg` para alemán
@@ -744,9 +746,9 @@ Todas las capturas de pantalla del juego deben realizarse en la versión estable
 
 #### Configuración del cliente del juego
 
-*Nota: Si no desea cambiar su configuración actual para la wiki, puede mover su `osu!.<UsuariodelPC>.cfg` fuera de la carpeta de osu! y volver a moverlo más tarde.*
+*Nota: Si no quieres cambiar tu configuración actual para la wiki, puedes mover tu `osu!.<UsuarioDelOrdenador>.cfg` fuera de la carpeta de osu! y volver a moverlo más tarde.*
 
-Debe establecer estas configuraciones antes de tomar una captura de pantalla del cliente del juego (se supone que las configuraciones que no se indican a continuación son las predeterminadas):
+Debes establecer estas configuraciones antes de tomar una captura de pantalla del cliente del juego (se supone que las configuraciones que no se indican a continuación son las predeterminadas):
 
 - Seleccionar idioma: `English`
 - Mostrar datos de canciones en su idioma original: `Habilitado`
@@ -758,7 +760,7 @@ Debe establecer estas configuraciones antes de tomar una captura de pantalla del
 - Mostrar botones en pantalla: `Habilitado`
 - Skin actual: `Default` (primera opción)
 
-*Aviso para los traductores: Si está traduciendo un artículo que contiene capturas de pantalla del juego, puede configurar el idioma del cliente del juego al idioma en el que está traduciendo.*
+*Aviso para los traductores: Si estás traduciendo un artículo que contiene capturas de pantalla del juego, puedes configurar el idioma del cliente del juego al idioma en el que está traduciendo.*
 
 ### Enlaces de imágenes
 
@@ -766,17 +768,19 @@ Las imágenes no deben formar parte del texto de un enlace.
 
 ## Iconos de banderas
 
-Los íconos de la bandera usan el código de dos letras (en mayúsculas) para coincidir con un territorio determinado. Al agregar una bandera en línea, use este formato:
+Los íconos de la bandera usan el código de dos letras (en mayúsculas) para coincidir con un territorio determinado. Al agregar una bandera en línea, usa este formato:
 
 ```markdown
 ::{ flag=XX }::
 ```
 
+Donde `XX` es el código del país de dos letras de la [ISO 3166-2](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2) para la bandera.
+
 ## Tablas
 
 Las tablas del sitio web solo admiten encabezamientos en la primera fila.
 
-Las tablas no deben embellecerse (es decir, no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y otra barra vertical (`|`).
+Las tablas no deben embellecerse (es decir, no se deben rellenar las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho, y el texto de cada celda debe estar rellenado con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y otra barra vertical (`|`).
 
 La fila delimitadora (la siguiente línea después del encabezamiento de la tabla) debe usar solo tres caracteres por columna (y debe completarse con un espacio en ambos lados), que debe verse como uno de los siguientes:
 
@@ -791,33 +795,35 @@ El siguiente es un ejemplo de cómo debería verse una tabla:
 ```markdown
 | Equipo «Picturesque» rojo | Puntuación | Equipo «Statuesque» azul | Promedio de estrellas de los beatmaps |
 | :-- | :-: | --: | :-- |
-| **peppy** | 5 - 2 | pippi | 9.3 estrellas |
-| Aiko | 1 - 6 | **Alisa** | 4.2 estrellas |
-| Ryūta | 3 - 4 | **Yuzu** | 5.1 estrellas |
-| **Taikonator** | 7 - 0 | Tama | 13.37 estrellas |
+| **peppy** | 5 - 2 | pippi | 9,3 estrellas |
+| Aiko | 1 - 6 | **Alisa** | 4,2 estrellas |
+| Ryūta | 3 - 4 | **Yuzu** | 5,1 estrellas |
+| **Taikonator** | 7 - 0 | Tama | 13,37 estrellas |
 | Maria | No participó | Mocha |  |
 ```
 
-## Fichas
+## Cajas de información
 
-Una ficha es un bloque de ancho fijo que se alinea al lado derecho del artículo. Puede contener una imagen relevante, que explica el texto circundante, o un bloque de navegación que enlaza con otros artículos de la misma categoría.
+Una caja de información (también conocida como *ficha*) es un bloque de ancho fijo que se alinea al lado derecho del artículo. Puede contener una imagen relevante, que explica el texto circundante, o un bloque de navegación que enlaza con otros artículos de la misma categoría.
 
-Ejemplo de uso, representado a la derecha:
+Ejemplo de uso, representado a la derecha (o arriba, en pantallas estrechas):
 
 ::: Infobox
-![](/wiki/shared/mods/SD.png "Icono de mod Sudden Death")
+![](/wiki/shared/mods/SD.png "Icono del mod Sudden Death")
 :::
 
 ```markdown
 ::: Infobox
-![](/wiki/shared/mods/SD.png "Icono de mod Sudden Death")
+![](/wiki/shared/mods/SD.png "Icono del mod Sudden Death")
 :::
 ```
 
-Las fichas deben usarse con precaución en los siguientes casos:
+Las cajas de información deben usarse con precaución en los siguientes casos:
 
 - Secciones cortas: el encabezamiento de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
 - Varias imágenes a la vez: en su lugar, use fichas individuales para un mejor diseño.
+
+Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de información. Estos no aparecen en la tabla de contenidos y cualquier valor inferior es demasiado grande. Es posible que sea necesario omitir cualquier [error de comprobación de IC](/wiki/osu!_wiki/Maintenance#comprobaciones-de-ic) debido a esto.
 
 ## Notas al pie
 
@@ -825,9 +831,9 @@ Las notas al pie son notas cortas ubicadas al final de la página. Se utilizan p
 
 En la osu! wiki, las notas al pie se implementan usando una sintaxis especial (`[^identificador]`). Las notas al pie pueden usar cualquier identificador, pero se representarán automáticamente como superíndices con números crecientes en el orden de su primera aparición. Las traducciones no deben modificar los identificadores de las notas al pie.
 
-Las referencias a pie de página se colocan directamente después de las palabras, frases u oraciones que explican, sin espacio entre ellas. Estas referencias deben colocarse después de la puntuación, excepto los paréntesis, cuando correspondan al contenido interior, y los guiones.
+Las referencias al pie se colocan directamente después de las palabras, frases u oraciones que explican, sin espacio entre ellas. Estas referencias deben colocarse después de la puntuación, excepto los paréntesis, cuando correspondan al contenido interior y las rayas.
 
-Las notas a pie de página en sí deben colocarse en un encabezamiento separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezamiento utilizado puede ser `Referencias`, `Notas` o `Notas y referencias`.
+Las notas al pie en sí deben colocarse en un encabezamiento separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezamiento utilizado puede ser `Referencias`, `Notas` o `Notas y referencias`.
 
 Ejemplos de uso correcto:
 
@@ -850,7 +856,7 @@ Cuando corresponda, las referencias deben especificar el autor, la fecha, el ser
 Ejemplos:
 
 ```markdown
-La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-first-usage] Recibió elogios de la crítica por parte de los usuarios.[^api-praise] Una nueva versión de API, lanzada varios años después, contiene muchas más capacidades.[^api-v2-2020] El control de versiones de puntos finales es común entre las API web.[^web-api]
+La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-first-usage] Recibió elogios de la crítica por parte de los usuarios.[^api-praise] Una nueva versión de la API, lanzada varios años después, contiene muchas más capacidades.[^api-v2-2020] El control de versiones de puntos finales es común entre las API web.[^web-api]
 
 ## Referencias
 
@@ -884,9 +890,9 @@ La cita en bloque se limita a citar a alguien o algo. De lo contrario, no debe u
 —rrtyui
 ```
 
-## Corte temático
+## Pausa temática
 
-El corte temático (también conocida como regla o línea horizontal) debe usarse con moderación. Algunos usos de la pausa temática pueden incluir (pero no se limitan a):
+La pausa temática (también conocida como corte temático, regla o línea horizontal) debe usarse con moderación. Algunos usos de la pausa temática pueden incluir (pero no se limitan a):
 
 - separar las imágenes del texto
 - separar varias imágenes que se suceden
