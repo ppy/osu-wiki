@@ -20,4 +20,4 @@ tags:
 
 # Authentische Beatmap
 
-Eine **authentische [Beatmap](/wiki/Beatmap)** ahmt ein Level aus den [iNiS-Spielen](/wiki/iNiS_games) nach. Der Begriff kommt aus einer Zeit, zu der [Mapping](/wiki/Beatmapping) stark von iNiS inspiriert wurde. Heutzutage hat der Begriff "authentisch" wenig Bedeutung, weil Mapper sich nicht von den originalen Spielen, sondern von anderen Mappern inspirieren lassen.
+Eine **authentische [Beatmap](/wiki/Beatmap)** ahmt ein Level aus den [iNiS-Spielen](/wiki/iNiS_games) nach. Der Begriff kommt aus einer Zeit, in der das [Mapping](/wiki/Beatmapping) stark von iNiS inspiriert war. Heutzutage hat der Begriff "authentisch" weniger Bedeutung, da Mapper sich nicht von den originalen Spielen, sondern von anderen Mappern inspirieren lassen.
