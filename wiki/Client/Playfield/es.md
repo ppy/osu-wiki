@@ -17,7 +17,7 @@ tags:
 
 # Campo de juego
 
-El **campo de juego** es una parte de la ventana del juego donde se colocan los [objetos](/wiki/Gameplay/Hit_object). En resoluciones de pantalla con una relación de aspecto de 4:3, el campo de juego está parcialmente cubierto con elementos de [interfaz](/wiki/Client/Interface), como la tabla de clasificación, el contador de claves o los controles de [repetición](/wiki/Gameplay/Replay).
+El **campo de juego** es una parte de la ventana del juego donde se colocan los [objetos](/wiki/Gameplay/Hit_object). En resoluciones de pantalla con una relación de aspecto de 4:3, el campo de juego está parcialmente cubierto con elementos de la [interfaz](/wiki/Client/Interface), como la tabla de clasificación, el contador de teclas o los controles de [repetición](/wiki/Gameplay/Replay).
 
 ## Gameplay
 
