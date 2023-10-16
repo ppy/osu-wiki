@@ -41,8 +41,8 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-]https://osu.ppy.sh/users/4980256), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Mappool Selector | ::{ flag=US }:: [Alter-]https://osu.ppy.sh/users/4980256), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957). ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool Selector | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957). ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Charters and Testers | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Referee | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=PH }:: [RinatoPotato](https://osu.ppy.sh/users/23743034), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
 | Streamer | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=SE }:: [Logg54vs](https://osu.ppy.sh/users/8684540), ::{ flag=US }:: [Male Parent](https://osu.ppy.sh/users/8985153) |
@@ -131,167 +131,167 @@ This competition ended with the following podium:
 **[You may download the mappack here](https://drive.google.com/file/d/1NgVbulF1E4VGoJq4y53lCSpEOYCi6zC2/view?usp=sharing)**
 
 - Rice
-  1. [syatten - aliceblue (roko100789) \[Alice is a cutie\]](https://osu.ppy.sh/beatmaps/3633299)
-  2. [callasoiled - My Druggy First Kiss (SurfChu85) \[sp3 cut (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337195)
-  3. [SP-# - tinnitus (taba2) \[Another\]](https://osu.ppy.sh/beatmaps/4269214)
-  4. [corok-Bb - Signager (SurfChu85) \[eh (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337203)
-  5. [sasakure.UK - Merry Christmas Mr.Lawrence (SurfChu85) \[i_10 (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337204)
-  6. [Cait Sith - Area -> Idea (SurfChu85) \[sl_7 (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337205)
-  7. [Sheena Ringo - Kouzen no Himitsu (Irone OSU) \[Irresistible Aroma\]](https://osu.ppy.sh/beatmaps/4337128)
+  1. [syatten - aliceblue (roko100789) \[Alice is a cutie\]](https://osu.ppy.sh/beatmapsets/1774440#mania/3633299)
+  2. [callasoiled - My Druggy First Kiss (SurfChu85) \[sp3 cut (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072487#mania/4337195)
+  3. [SP-# - tinnitus (taba2) \[Another\]](https://osu.ppy.sh/beatmapsets/2045302#mania/4269214)
+  4. [corok-Bb - Signager (SurfChu85) \[eh (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072491#mania/4337203)
+  5. [sasakure.UK - Merry Christmas Mr.Lawrence (SurfChu85) \[i_10 (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072492#mania/4337204)
+  6. [Cait Sith - Area -> Idea (SurfChu85) \[sl_7 (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072493#mania/4337205)
+  7. [Sheena Ringo - Kouzen no Himitsu (Irone OSU) \[Irresistible Aroma\]](https://osu.ppy.sh/beatmapsets/2072449#mania/4337128)
 - LN
-  1. [Nanahira - cache cache (Nananana) \[ribbon ribbon\]](https://osu.ppy.sh/beatmaps/2129773)
-  2. [Freestyle - Please Tell Me Why (Wilben_Chan) \[I LOVE U\]](https://osu.ppy.sh/beatmaps/1808096)
-  3. [bbangsami - Ladymade coreSTAR ~LMS Hardcore remix~ (MapleSyrup-) \[Dreaming Heart\]](https://osu.ppy.sh/beatmaps/4337114)
-  4. [Mitsukiyo - Dream Leaf (Leeju) \[Leeju's 7K Sacred Forest\]](https://osu.ppy.sh/beatmaps/3999951)
-  5. [Nego_tiator x Jinguu kaname x Avtorica - Inori ame no ayame (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmaps/4337107)
+  1. [Nanahira - cache cache (Nananana) \[ribbon ribbon\]](https://osu.ppy.sh/beatmapsets/1017620#mania/2129773)
+  2. [Freestyle - Please Tell Me Why (Wilben_Chan) \[I LOVE U\]](https://osu.ppy.sh/beatmapsets/864566#mania/1808096)
+  3. [bbangsami - Ladymade coreSTAR ~LMS Hardcore remix~ (MapleSyrup-) \[Dreaming Heart\]](https://osu.ppy.sh/beatmapsets/2072441#mania/4337114)
+  4. [Mitsukiyo - Dream Leaf (Leeju) \[Leeju's 7K Sacred Forest\]](https://osu.ppy.sh/beatmapsets/1935424#mania/3999951)
+  5. [Nego_tiator x Jinguu kaname x Avtorica - Inori ame no ayame (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/2072438#mania/4337107)
 - Hybrid
-  1. [LhoU - Renaissance (SurfChu85) \[Venus (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337207)
-  2. [Ramenbot - Ramen is God (Makiba) \[Stage 3: Hybrid Tonkotsu Ramen\]](https://osu.ppy.sh/beatmaps/3501734)
-  3. [Camellia - NEURO-CLOUD-9 (SurfChu85) \[neuron activation: Hybrid (MALT edit)\]](https://osu.ppy.sh/beatmaps/4337194)
+  1. [LhoU - Renaissance (SurfChu85) \[Venus (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072495#mania/4337207)
+  2. [Ramenbot - Ramen is God (Makiba) \[Stage 3: Hybrid Tonkotsu Ramen\]](https://osu.ppy.sh/beatmapsets/1713698#mania/3501734)
+  3. [Camellia - NEURO-CLOUD-9 (SurfChu85) \[neuron activation: Hybrid (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072486#mania/4337194)
 - Tiebreaker
-  1. [SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]](https://osu.ppy.sh/beatmaps/4337392)
+  1. [SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]](https://osu.ppy.sh/beatmapsets/2072564#mania/4337392)
 
 ### Finals
 
 **[You may download the mappack here](https://drive.google.com/file/d/1_oMGLNHhgJBG5KbQtnIE5V4ahuMZgzd2/view?usp=sharing)**
 
 - Rice
-  1. [Colorful Sounds Port - ETERNAL DRAIN (Jinjin) \[Jinjin's Delayanother Lv.8\]](https://osu.ppy.sh/beatmaps/1672616)
-  2. [DJ Sharpnel - SHINE!! (Illumnus) \[Hard\]](https://osu.ppy.sh/beatmaps/2161974)
-  3. [tokiwa - Abyssal sky of Indicolite (Makiba) \[Makibother\]](https://osu.ppy.sh/beatmaps/4329383)
-  4. [syatten - The sinking world (SurfChu85) \[drown (MALT edit)\]](https://osu.ppy.sh/beatmaps/4329393)
-  5. [Igorrr, Ruby My dear - Alain (SurfChu85) \[wizardoffail's Greyhound (MALT edit)\]](https://osu.ppy.sh/beatmaps/4329395)
-  6. [polysha - It's "alice" dream (Makiba) \[Makibother\]](https://osu.ppy.sh/beatmaps/4329381)
-  7. [DJ Genki - Area11 (Mashiro-Fang) \[Another\]](https://osu.ppy.sh/beatmaps/2191646)
+  1. [Colorful Sounds Port - ETERNAL DRAIN (Jinjin) \[Jinjin's Delayanother Lv.8\]](https://osu.ppy.sh/beatmapsets/796517#mania/1672616)
+  2. [DJ Sharpnel - SHINE!! (Illumnus) \[Hard\]](https://osu.ppy.sh/beatmapsets/1034029#mania/2161974)
+  3. [tokiwa - Abyssal sky of Indicolite (Makiba) \[Makibother\]](https://osu.ppy.sh/beatmapsets/2048530#mania/4329383)
+  4. [syatten - The sinking world (SurfChu85) \[drown (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2069186#mania/4329393)
+  5. [Igorrr, Ruby My dear - Alain (SurfChu85) \[wizardoffail's Greyhound (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2069188#mania/4329395)
+  6. [polysha - It's "alice" dream (Makiba) \[Makibother\]](https://osu.ppy.sh/beatmapsets/2069181#mania/4329381)
+  7. [DJ Genki - Area11 (Mashiro-Fang) \[Another\]](https://osu.ppy.sh/beatmapsets/1048544#mania/2191646)
 - LN
-  1. [Nekomata Okayu & Ookami Mio - Otona no Okite (tastydumpl1ng) \[7k Insane\]](https://osu.ppy.sh/beatmaps/4329349)
-  2. [Astolsko - Witchery interlude (SurfChu85) \[Arcane\]](https://osu.ppy.sh/beatmaps/4329328)
-  3. [Magnus Palsson - Potential for Anything (Cut Ver.) (lenpai) \[turkey\]](https://osu.ppy.sh/beatmaps/3067468)
-  4. [ano - Smile Agenai (lenpai) \[milo mcflurry\]](https://osu.ppy.sh/beatmaps/4329304)
-  5. [CINDERELLA MASTER jewelries! - Susume*Otome ~jewel parade~ (lenpai) \[7k - hard lvl 37\]](https://osu.ppy.sh/beatmaps/4331244)
+  1. [Nekomata Okayu & Ookami Mio - Otona no Okite (tastydumpl1ng) \[7k Insane\]]()
+  2. [Astolsko - Witchery interlude (SurfChu85) \[Arcane\]](https://osu.ppy.sh/beatmapsets/2069151#mania/4329328)
+  3. [Magnus Palsson - Potential for Anything (Cut Ver.) (lenpai) \[turkey\]](https://osu.ppy.sh/beatmapsets/1495430#mania/3067468)
+  4. [ano - Smile Agenai (lenpai) \[milo mcflurry\]](https://osu.ppy.sh/beatmapsets/2069141#mania/4329304)
+  5. [CINDERELLA MASTER jewelries! - Susume*Otome ~jewel parade~ (lenpai) \[7k - hard lvl 37\]](https://osu.ppy.sh/beatmapsets/2069964#mania/4331244)
 - Hybrid
-  1. [Wonderlands x Showtime - TONDEMO-WONDERZ (JuHaa) \[o'\]](https://osu.ppy.sh/beatmaps/3263666)
-  2. [James Landino - Shiba Paradise (lenpai) \[Insane\]](https://osu.ppy.sh/beatmaps/4092861)
-  3. [Joji - SLOW DANCING IN THE DARK (sankansuki) \[in the dark\]](https://osu.ppy.sh/beatmaps/4145757)
+  1. [Wonderlands x Showtime - TONDEMO-WONDERZ (JuHaa) \[o'\]](https://osu.ppy.sh/beatmapsets/1598037#mania/3263666)
+  2. [James Landino - Shiba Paradise (lenpai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1972411#mania/4092861)
+  3. [Joji - SLOW DANCING IN THE DARK (sankansuki) \[in the dark\]](https://osu.ppy.sh/beatmapsets/1994874#mania/4145757)
 - Tiebreaker
-  1. [Camellia - SLIME INCIDENT (pwhk) \[RUNAWAY MOULD\]](https://osu.ppy.sh/beatmaps/4329307)
+  1. [Camellia - SLIME INCIDENT (pwhk) \[RUNAWAY MOULD\]](https://osu.ppy.sh/beatmapsets/2069143#mania/4329307)
 
 ### Semifinals
 
 **[You may download the mappack here](https://drive.google.com/file/d/1sxRp77ZsBmpElVZyuLQ6H5q8PnfGPkYb/view?usp=sharing)**
 
 - Rice
-  1. [AAAA - A (pwhk) \[Another\]](https://osu.ppy.sh/beatmaps/4322024)
-  2. [Xeon - Dream of Winds (Kawawa) \[BMS LV.04 wawather [Stream]\]](https://osu.ppy.sh/beatmaps/1344803)
-  3. [Niji no Conquistador - Summer to Kimi Watashi nari!! (lenpai) \[NemoChan <3\]](https://osu.ppy.sh/beatmaps/4322067)
-  4. [Ino(chronoize) - Neko no Te Karita Girl (lenpai) \[Virtual [edit]\]](https://osu.ppy.sh/beatmaps/4322076)
-  5. [Tarolabo & Sakuzyo - Nemuri no Hanataba (Kawawa) \[BMS LV.06 wawather Zero LN!!\]](https://osu.ppy.sh/beatmaps/3116704)
-  6. [NIWASHI - Playing with Ruby (Cut Ver.) (Critical_Star) \[Piano\]](https://osu.ppy.sh/beatmaps/4321964)
+  1. [AAAA - A (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2065967#mania/4322024)
+  2. [Xeon - Dream of Winds (Kawawa) \[BMS LV.04 wawather [Stream]\]](https://osu.ppy.sh/beatmapsets/633675#mania/1344803)
+  3. [Niji no Conquistador - Summer to Kimi Watashi nari!! (lenpai) \[NemoChan <3\]](https://osu.ppy.sh/beatmapsets/2065986#mania/4322067)
+  4. [Ino(chronoize) - Neko no Te Karita Girl (lenpai) \[Virtual [edit]\]](https://osu.ppy.sh/beatmapsets/2065988#mania/4322076)
+  5. [Tarolabo & Sakuzyo - Nemuri no Hanataba (Kawawa) \[BMS LV.06 wawather Zero LN!!\]](https://osu.ppy.sh/beatmapsets/1523061#mania/3116704)
+  6. [NIWASHI - Playing with Ruby (Cut Ver.) (Critical_Star) \[Piano\]](https://osu.ppy.sh/beatmapsets/2065937#mania/4321964)
 - LN
-  1. [Kirara Magic feat. Shion - Floating Star (Irone OSU) \[Floating Wishes (Cut & Edit)\]](https://osu.ppy.sh/beatmaps/4322056)
-  2. [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmaps/2239631)
-  3. [IM Chang Jung - I hate Trot (TakJun) \[SingerJun\]](https://osu.ppy.sh/beatmaps/4321828)
-  4. [xi - .357 Magnum (Makiba) \[Bullet\]](https://osu.ppy.sh/beatmaps/4322449)
+  1. [Kirara Magic feat. Shion - Floating Star (Irone OSU) \[Floating Wishes (Cut & Edit)\]](https://osu.ppy.sh/beatmapsets/1694266#mania/4322056)
+  2. [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
+  3. [IM Chang Jung - I hate Trot (TakJun) \[SingerJun\]](https://osu.ppy.sh/beatmapsets/1894883#mania/4321828)
+  4. [xi - .357 Magnum (Makiba) \[Bullet\]](https://osu.ppy.sh/beatmapsets/2066142#mania/4322449)
 - Hybrid
-  1. [BlackY feat. Risa Yuzuki - HaruTsugeKoChou (Wonki) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/2572652)
-  2. [Jun Kuroda - Lily (\_Rokii) \[Lilium\]](https://osu.ppy.sh/beatmaps/2162518)
-  3. [Cansol - Happily Ever After (JuHaa) \[Be Happy o_<\]](https://osu.ppy.sh/beatmaps/3112695)
-  1. [t+pazolite - Ultrasonic Anthem (ExNeko) \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmaps/3959555)
+  1. [BlackY feat. Risa Yuzuki - HaruTsugeKoChou (Wonki) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1237688#mania/2572652)
+  2. [Jun Kuroda - Lily (\_Rokii) \[Lilium\]](https://osu.ppy.sh/beatmapsets/1034305#mania/2162518)
+  3. [Cansol - Happily Ever After (JuHaa) \[Be Happy o_<\]](https://osu.ppy.sh/beatmapsets/1520415#mania/3112695)
 - Tiebreaker
+  1. [t+pazolite - Ultrasonic Anthem (ExNeko) \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmapsets/1918758#mania/3959555)
 
 ### Quarterfinals
 
 **[You may download the mappack here](https://drive.google.com/file/d/1JHLBf2M91LDe-h7ocePYzYMnA-5BXfGf/view?usp=sharing)**
 
 - Rice
-  1. [uynet - Mach space journey (yahweh) \[Insane\]](https://osu.ppy.sh/beatmaps/2769816)
-  2. [Jonas Munk Lindbo - Lunar (yahweh) \[Tanuki City\]](https://osu.ppy.sh/beatmaps/2753040)
-  3. [Mattias Westlund - Over the Northern Mountains (pwhk) \[Legend\]](https://osu.ppy.sh/beatmaps/4313956)
-  4. [Tedjimo TomigY - Edelweiss (lenpai) \[SP ANOTHER [edit]\]](https://osu.ppy.sh/beatmaps/4313958)
-  5. [Lafale - Hydreripia (tyrcs) \[Insane\]](https://osu.ppy.sh/beatmaps/3850895)
-  6. [AOiRO_Manbow - Kirby SDX Ending (W-L-K Edit) (ExPew) \[Another\]](https://osu.ppy.sh/beatmaps/861637)
+  1. [uynet - Mach space journey (yahweh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1337065#mania/2769816)
+  2. [Jonas Munk Lindbo - Lunar (yahweh) \[Tanuki City\]](https://osu.ppy.sh/beatmapsets/1328997#mania/2753040)
+  3. [Mattias Westlund - Over the Northern Mountains (pwhk) \[Legend\]](https://osu.ppy.sh/beatmapsets/2062733#mania/4313956)
+  4. [Tedjimo TomigY - Edelweiss (lenpai) \[SP ANOTHER [edit]\]](https://osu.ppy.sh/beatmapsets/2062734#mania/4313958)
+  5. [Lafale - Hydreripia (tyrcs) \[Insane\]](https://osu.ppy.sh/beatmapsets/1871578#mania/3850895)
+  6. [AOiRO_Manbow - Kirby SDX Ending (W-L-K Edit) (ExPew) \[Another\]](https://osu.ppy.sh/beatmapsets/393040#mania/861637)
 - LN
-  1. [Neko Hacker - Sigh (feat. wotoha) (SurfChu85) \[zoning out\]](https://osu.ppy.sh/beatmaps/4313959)
-  2. [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmaps/1640175)
-  3. [shadow_bling - Crush Alcohol (Makiba) \[Makibother (MALT edit)\]](https://osu.ppy.sh/beatmaps/4314233)
-  4. [Phyrnna - A Joyful Snowfall (SurfChu85) \[An Invigorating Flurry\]](https://osu.ppy.sh/beatmaps/3869814)
+  1. [Neko Hacker - Sigh (feat. wotoha) (SurfChu85) \[zoning out\]](https://osu.ppy.sh/beatmapsets/2062735#mania/4313959)
+  2. [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmapsets/780862#mania/1640175)
+  3. [shadow_bling - Crush Alcohol (Makiba) \[Makibother (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2062870#mania/4314233)
+  4. [Phyrnna - A Joyful Snowfall (SurfChu85) \[An Invigorating Flurry\]](https://osu.ppy.sh/beatmapsets/1879772#mania/3869814)
 - Hybrid
-  1. [Junk - Life is PIANO ([ A v a l o n ]) \[Another\]](https://osu.ppy.sh/beatmaps/1985074)
-  2. [Little V Mills - John Cena Theme Djent Cover (Mage) \[Cena\]](https://osu.ppy.sh/beatmaps/971751)
-  3. [Junk - Qualia (Mashiro-Fang) \[mia-'s 7K MX\]](https://osu.ppy.sh/beatmaps/430351)
+  1. [Junk - Life is PIANO ([ A v a l o n ]) \[Another\]](https://osu.ppy.sh/beatmapsets/950534#mania/1985074)
+  2. [Little V Mills - John Cena Theme Djent Cover (Mage) \[Cena\]](https://osu.ppy.sh/beatmapsets/453091#mania/971751)
+  3. [Junk - Qualia (Mashiro-Fang) \[mia-'s 7K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/430351)
 - Tiebreaker
-  1. [Rigel Theatre - Lurie (Irone OSU) \[Wanderer in the Mystic Plain\]](https://osu.ppy.sh/beatmaps/4313949)
+  1. [Rigel Theatre - Lurie (Irone OSU) \[Wanderer in the Mystic Plain\]](https://osu.ppy.sh/beatmapsets/2062730#mania/4313949)
 
 ### Round of 16
 
 **[You may download the mappack here](https://drive.google.com/file/d/1fRnlfa-UhS9XsQ61E9eDSYKh0CYEldi2/view?usp=sharing)**
 
 - Rice
-  1. [7mai - Boxel Adventure (SurfChu85) \[sl_0 (MALT Edit)\]](https://osu.ppy.sh/beatmaps/4304087)
-  2. [r - Baby (pwhk) \[Newborn\]](https://osu.ppy.sh/beatmaps/4304109)
-  3. [ZOC - Chu-pri (lenpai) \[Chu~shite!\]](https://osu.ppy.sh/beatmaps/4304091)
-  4. [Phantasma - Decipher (spoonguy) \[Fase 2: Prisma\]](https://osu.ppy.sh/beatmaps/2481055)
-  5. [Chilldive - Oekaki (pwhk) \[Another\]](https://osu.ppy.sh/beatmaps/4304100)
+  1. [7mai - Boxel Adventure (SurfChu85) \[sl_0 (MALT Edit)\]](https://osu.ppy.sh/beatmapsets/2059279#mania/4304087)
+  2. [r - Baby (pwhk) \[Newborn\]](https://osu.ppy.sh/beatmapsets/2059290#mania/4304109)
+  3. [ZOC - Chu-pri (lenpai) \[Chu~shite!\]](https://osu.ppy.sh/beatmapsets/2059282#mania/4304091)
+  4. [Phantasma - Decipher (spoonguy) \[Fase 2: Prisma\]](https://osu.ppy.sh/beatmapsets/1190789#mania/2481055)
+  5. [Chilldive - Oekaki (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2059288#mania/4304100)
 - LN
-  1. [nyamura - you are my curse (lenpai) \[hard\]](https://osu.ppy.sh/beatmaps/4304089)
-  2. [DM DOKURO - sanctuary (SurfChu85) \[submerged\]](https://osu.ppy.sh/beatmaps/3296826)
-  3. [SHK - Super Fantasy (SurfChu85) \[snapshot\]](https://osu.ppy.sh/beatmaps/4304085)
+  1. [nyamura - you are my curse (lenpai) \[hard\]](https://osu.ppy.sh/beatmapsets/2059280#mania/4304089)
+  2. [DM DOKURO - sanctuary (SurfChu85) \[submerged\]](https://osu.ppy.sh/beatmapsets/1614805#mania/3296826)
+  3. [SHK - Super Fantasy (SurfChu85) \[snapshot\]](https://osu.ppy.sh/beatmapsets/2059277#mania/4304085)
 - Hybrid
-  1. [Memme - Marionette (JuHaa) \[Footprint\]](https://osu.ppy.sh/beatmaps/2859551)
-  2. [Mizuki - Ni Zhan Zai Yun Lin Wo Shu De Che Di (Irone OSU) \[7K Dizziness\]](https://osu.ppy.sh/beatmaps/3616980)
-  3. [penoreri - Lancelot ~Flame of the Rebellion~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmaps/4261082)
+  1. [Memme - Marionette (JuHaa) \[Footprint\]](https://osu.ppy.sh/beatmapsets/1383084#mania/2859551)
+  2. [Mizuki - Ni Zhan Zai Yun Lin Wo Shu De Che Di (Irone OSU) \[7K Dizziness\]](https://osu.ppy.sh/beatmapsets/1766981#mania/3616980)
+  3. [penoreri - Lancelot ~Flame of the Rebellion~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/1922309#mania/4261082)
 - Tiebreaker
-  1. [YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmaps/4304086)
+  1. [YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmapsets/2059278#mania/4304086)
   
 ### Round of 32
 
 **[You may download the mappack here](https://drive.google.com/file/d/1rcBbA6PQwIUrnrTeCoSLX_AJ3SgZzj7T/view?usp=sharing)**
 
 - Rice
-  1. [jun - KIMONO PRINCESS (Leeju) \[Leeju's 7K Moonshine\]](https://osu.ppy.sh/beatmaps/4295911)
-  2. [Plum - Terrasphere (tastydumpl1ng) \[water cube\]](https://osu.ppy.sh/beatmaps/4295783)
-  3. [xi - Finder keepers (Roasted Chicken) \[Hard\]](https://osu.ppy.sh/beatmaps/3254702)
-  4. [AAAA - Bokurano Tabi wa Dokomademo (TakJun) \[HomieJun\]](https://osu.ppy.sh/beatmaps/4294152)
+  1. [jun - KIMONO PRINCESS (Leeju) \[Leeju's 7K Moonshine\]](https://osu.ppy.sh/beatmapsets/2055823#mania/4295911)
+  2. [Plum - Terrasphere (tastydumpl1ng) \[water cube\]](https://osu.ppy.sh/beatmapsets/2055765#mania/4295783)
+  3. [xi - Finder keepers (Roasted Chicken) \[Hard\]](https://osu.ppy.sh/beatmapsets/1587660#mania/3254702)
+  4. [AAAA - Bokurano Tabi wa Dokomademo (TakJun) \[HomieJun\]](https://osu.ppy.sh/beatmapsets/1493703#mania/4294152)
 - LN
-  1. [Azari (ft Yura) - Be My Guest (Alter-) \[Witch\]](https://osu.ppy.sh/beatmaps/4273340)
-  2. [Uruha Rushia - Ghost in a Flower (yhsh edit) (MapleSyrup-) \[Hard\]](https://osu.ppy.sh/beatmaps/3706854)
+  1. [Azari (ft Yura) - Be My Guest (Alter-) \[Witch\]](https://osu.ppy.sh/beatmapsets/2047040#mania/4273340)
+  2. [Uruha Rushia - Ghost in a Flower (yhsh edit) (MapleSyrup-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1794091#mania/3706854)
 - Hybrid
-  1. [Randy Mortimer - Penguin (Pinnacle Remix) (Loebad434) \[HD\]](https://osu.ppy.sh/beatmaps/1158171)
-  2. [ensou feat. GUMI - COMA (spoonguy) \[Hard\]](https://osu.ppy.sh/beatmaps/459424)
-  3. [Not Secured, Loose Ends - Shinjuku Cinema Connection (kaishiki) (lenpai) \[Hard\]](https://osu.ppy.sh/beatmaps/2620595)
+  1. [Randy Mortimer - Penguin (Pinnacle Remix) (Loebad434) \[HD\]](https://osu.ppy.sh/beatmapsets/546571#mania/1158171)
+  2. [ensou feat. GUMI - COMA (spoonguy) \[Hard\]](https://osu.ppy.sh/beatmapsets/193344#mania/459424)
+  3. [Not Secured, Loose Ends - Shinjuku Cinema Connection (kaishiki) (lenpai) \[Hard\]](https://osu.ppy.sh/beatmapsets/1165141#mania/2620595)
 - Tiebreaker
-  1. [Kirameki*Unforent - Kiseki=Startune (2020ver.) (lenpai) \[Shooting Star\]](https://osu.ppy.sh/beatmaps/3026999)
+  1. [Kirameki*Unforent - Kiseki=Startune (2020ver.) (lenpai) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/1475018#mania/3026999)
 
 ### Play-offs
 
 **[You may download the mappack here](https://drive.google.com/file/d/1PBl64_zZDsbM5OhMVe4iW30I0n8puXVw/view?usp=sharing)**
 
 - Rice
-  1. [Fvrwvrd - Speedcore Sonata (Critical_Star) \[Hard\]](https://osu.ppy.sh/beatmaps/4275212)
-  2. [SHIKI - Jade Star (-NoName-) \[Hyper\]](https://osu.ppy.sh/beatmaps/3368111)
-  3. [Io - Lv.0 (SurfChu85) \[beginnings\]](https://osu.ppy.sh/beatmaps/4286248)
-  4. [cycasin - Luminous Descent (Alter-) \[Gothcore (nerfed)\]](https://osu.ppy.sh/beatmaps/4285796)
+  1. [Fvrwvrd - Speedcore Sonata (Critical_Star) \[Hard\]](https://osu.ppy.sh/beatmapsets/2047669#mania/4275212)
+  2. [SHIKI - Jade Star (-NoName-) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1649612#mania/3368111)
+  3. [Io - Lv.0 (SurfChu85) \[beginnings\]](https://osu.ppy.sh/beatmapsets/2052193#mania/4286248)
+  4. [cycasin - Luminous Descent (Alter-) \[Gothcore (nerfed)\]](https://osu.ppy.sh/beatmapsets/2052037#mania/4285796)
 - LN
-  1. [Silentroom - Agito (pwhk) \[Normal\]](https://osu.ppy.sh/beatmaps/4286691)
-  2. [Go Ichinose, Junichi Masuda, Morikazu Aoki, Hitomi Sato - Surf (Makiba) \[Magikarp\]](https://osu.ppy.sh/beatmaps/4285828)
+  1. [Silentroom - Agito (pwhk) \[Normal\]](https://osu.ppy.sh/beatmapsets/2052394#mania/4286691)
+  2. [Go Ichinose, Junichi Masuda, Morikazu Aoki, Hitomi Sato - Surf (Makiba) \[Magikarp\]](https://osu.ppy.sh/beatmapsets/1939649#mania/4285828)
 - Hybrid
-  1. [AJURIKA - HARD BRAIN (Alter-) \[psycho\]](https://osu.ppy.sh/beatmaps/4285724)
-  2. [FUWAMOCO - YOASOBI / KAIBUTSU (Cover) (Alter-) \[Monster\]](https://osu.ppy.sh/beatmaps/4285762)
-  3. [Sword of Justice - Battle Ground (pporse) \[Hard\]](https://osu.ppy.sh/beatmaps/616451)
+  1. [AJURIKA - HARD BRAIN (Alter-) \[psycho\]](https://osu.ppy.sh/beatmapsets/2052006#mania/4285724)
+  2. [FUWAMOCO - YOASOBI / KAIBUTSU (Cover) (Alter-) \[Monster\]](https://osu.ppy.sh/beatmapsets/2052023#mania/4285762)
+  3. [Sword of Justice - Battle Ground (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/271087#mania/616451)
 - Tiebreaker
-  1. [ke-ji feat. Nanahira - Ange du Blanc Pur (MapleSyrup-) \[speedrun collab owo\]](https://osu.ppy.sh/beatmaps/4286269)
+  1. [ke-ji feat. Nanahira - Ange du Blanc Pur (MapleSyrup-) \[speedrun collab owo\]](https://osu.ppy.sh/beatmapsets/2052203#mania/4286269)
 
 ### Qualifiers
 
 **[You may download the mappack here](https://drive.google.com/file/d/1xwX-RdcxCr8uGnnfat5SZ8leOQ-BU75k/view?usp=sharing)**
 
-1. [The Nouns - conch (yukina meng) \[Stage 1: Doggies\]](https://osu.ppy.sh/beatmaps/4275544)
-2. [SHK - Salut d'amour (SurfChu85) \[Stage 2: Embrace\]](https://osu.ppy.sh/beatmaps/4275543)
-3. [tn-shi - Annihilation in F# Minor (Alter-) \[Stage 3: Curse\]](https://osu.ppy.sh/beatmaps/4275541)
-4. [Zame - Don't Ever Forget (Makiba) \[Stage 4: Rollout\]](https://osu.ppy.sh/beatmaps/4275751)
-5. [Memme - Acid Burst (Leeju) \[Stage 5: Contamination\]](https://osu.ppy.sh/beatmaps/4276782)
+1. [The Nouns - conch (yukina meng) \[Stage 1: Doggies\]](https://osu.ppy.sh/beatmapsets/2047808#mania/4275544)
+2. [SHK - Salut d'amour (SurfChu85) \[Stage 2: Embrace\]](https://osu.ppy.sh/beatmapsets/2047814#mania/4275543)
+3. [tn-shi - Annihilation in F# Minor (Alter-) \[Stage 3: Curse\]](https://osu.ppy.sh/beatmapsets/2047812#mania/4275541)
+4. [Zame - Don't Ever Forget (Makiba) \[Stage 4: Rollout\]](https://osu.ppy.sh/beatmapsets/2047869#mania/4275751)
+5. [Memme - Acid Burst (Leeju) \[Stage 5: Contamination\]](https://osu.ppy.sh/beatmapsets/2048404#mania/4276782)
 
-### Match Results
+## Match Results
 
 ### Grand Finals
 
