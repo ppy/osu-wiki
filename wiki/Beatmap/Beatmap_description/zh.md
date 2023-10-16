@@ -1,10 +1,10 @@
 # 谱面介绍
 
-**谱面介绍**是[谱面](/wiki/Beatmap)页下的一个小区域，使用 [BBCode](/wiki/BBCode) 向玩家提供关于此谱面的信息。它通常强调谱面制作者认为足够重要的一些事实，或者用来宣传其他作图项目。
+**谱面介绍**是[谱面](/wiki/Beatmap)页下的一个小区域，并使用 [BBCode](/wiki/BBCode) 向玩家提供关于此谱面的信息。它通常强调谱面制作者认为足够重要的一些事实，或者用来宣传其他作图项目。
 
 ## 使用与信息
 
-[上架 (ranked)](/wiki/Beatmap/Category#上架-(ranked))谱面的流行说明通常包含以下要素：
+大多数[上架 (ranked)](/wiki/Beatmap/Category#上架-(ranked)) 分类的谱面介绍会包含以下要素：
 
 - 所有[客串难度](/wiki/Beatmap/Guest_difficulty)及其制作者的列表
 - 帮助玩家决定是否想要下载谱面的信息
