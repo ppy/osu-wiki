@@ -242,7 +242,7 @@ This competition ended with the following podium:
   3. [penoreri - Lancelot ~Flame of the Rebellion~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/1922309#mania/4261082)
 - Tiebreaker
   1. [YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmapsets/2059278#mania/4304086)
-  
+
 ### Round of 32
 
 **[You may download the mappack here](https://drive.google.com/file/d/1rcBbA6PQwIUrnrTeCoSLX_AJ3SgZzj7T/view?usp=sharing)**
