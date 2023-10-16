@@ -125,7 +125,7 @@
 [spoilerbox]文本[/spoilerbox]
 ```
 
-*剧透框* 是一类特殊的，不包含 `NAME` 参数的 BBCode 折叠框标签。剧透框的名称总是 `SPOILER`。剧透框有专属的标签 (`[spoilerbox]`)，但是功能上与 BBCode [折叠框](#box)完全一致。
+*剧透框* 是一类特殊的，不包含 `NAME` 参数的 BBCode 折叠框标签。剧透框的名称总是 `SPOILER`。剧透框有专属的标签 (`[spoilerbox]`)，但是功能上与 BBCode [折叠框](#折叠框)完全一致。
 
 ### 引用
 
