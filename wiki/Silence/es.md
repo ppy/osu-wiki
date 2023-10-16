@@ -32,9 +32,9 @@ Si crees que te silenciaron injustamente, comunícate con el [equipo de soporte 
 
 ## Razones comunes para los silencios
 
-*Precaución: Participar en un «comportamiento inapropiado» en mensajes privados no está en contra de las reglas, a menos que dicho comportamiento inapropiado se entregue a destinatarios que no quieran o no lo consientan. Si se reporta, se impondrán las sanciones correspondientes.*
+*Precaución: Participar en una «conducta inapropiada» en mensajes privados no está en contra de las reglas, a menos que dicha conducta inapropiada se entregue a destinatarios que no quieran o no lo consientan. Si se reporta, se impondrán las sanciones correspondientes.*
 
-- Comportamiento inapropiado en chats o foros públicos (p. ej. `#multiplayer`, discusiones de beatmap, comentarios, etc.), incluyendo  —pero no limitado a— spam, chat sin sentido, racismo, etc.
+- Conducta inapropiada en chats o foros públicos (p. ej. `#multiplayer`, discusiones de beatmaps, comentarios, etc.), incluyendo —pero no limitado a— spam, chat sin sentido, racismo, etc.
 - Subir o publicar contenido inapropiado a través de otros medios (p. ej. avatares de perfil, envío de beatmaps, detalles de perfil, biografía de la página de usuario, banner, etc.).
 
 La duración de un silencio puede variar según la gravedad de la infracción. Los silencios se pueden acumular uno encima de otro, agregando más tiempo para cada uno. Ten en cuenta que si una ofensa es lo suficientemente grave, o si un jugador es reincidente, puede resultar en una [restricción de cuenta](/wiki/Help_centre/Account_restrictions) en lugar de un silencio.

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: f5e559a24ef9b2e83d05ab9d906d510d616236c9
 tags:
   - announce
   - announce usergroup
