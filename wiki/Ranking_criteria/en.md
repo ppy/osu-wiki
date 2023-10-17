@@ -93,7 +93,7 @@ Important to understand before using:
   - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an [osu! original](/wiki/osu!_originals)), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **The `featured artist` tag must only be added to tracks listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** The tag is used to describe whether a track is licensed by osu!.
+- **The `featured artist` tag must be used for tracks listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists) and for such tracks only.** The tag is used to describe whether a track is licensed by osu!.
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
 - **Song [genre and language](/wiki/Beatmap/Genre_and_language) must be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 
