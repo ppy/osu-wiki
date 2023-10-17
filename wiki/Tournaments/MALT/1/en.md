@@ -141,7 +141,7 @@ This competition ended with the following podium:
 - LN
   1. [Nanahira - cache cache (Nananana) \[ribbon ribbon\]](https://osu.ppy.sh/beatmapsets/1017620#mania/2129773)
   2. [Freestyle - Please Tell Me Why (Wilben_Chan) \[I LOVE U\]](https://osu.ppy.sh/beatmapsets/864566#mania/1808096)
-  3. [bbangsami - Ladymade coreSTAR ~LMS Hardcore remix~ (MapleSyrup-) \[Dreaming Heart\]](https://osu.ppy.sh/beatmapsets/2072441#mania/4337114)
+  3. [bbangsami - Ladymade coreSTAR \~LMS Hardcore remix\~ (MapleSyrup-) \[Dreaming Heart\]](https://osu.ppy.sh/beatmapsets/2072441#mania/4337114)
   4. [Mitsukiyo - Dream Leaf (Leeju) \[Leeju's 7K Sacred Forest\]](https://osu.ppy.sh/beatmapsets/1935424#mania/3999951)
   5. [Nego_tiator x Jinguu kaname x Avtorica - Inori ame no ayame (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/2072438#mania/4337107)
 - Hybrid
@@ -168,7 +168,7 @@ This competition ended with the following podium:
   2. [Astolsko - Witchery interlude (SurfChu85) \[Arcane\]](https://osu.ppy.sh/beatmapsets/2069151#mania/4329328)
   3. [Magnus Palsson - Potential for Anything (Cut Ver.) (lenpai) \[turkey\]](https://osu.ppy.sh/beatmapsets/1495430#mania/3067468)
   4. [ano - Smile Agenai (lenpai) \[milo mcflurry\]](https://osu.ppy.sh/beatmapsets/2069141#mania/4329304)
-  5. [CINDERELLA MASTER jewelries! - Susume*Otome ~jewel parade~ (lenpai) \[7k - hard lvl 37\]](https://osu.ppy.sh/beatmapsets/2069964#mania/4331244)
+  5. [CINDERELLA MASTER jewelries! - Susume*Otome \~jewel parade\~ (lenpai) \[7k - hard lvl 37\]](https://osu.ppy.sh/beatmapsets/2069964#mania/4331244)
 - Hybrid
   1. [Wonderlands x Showtime - TONDEMO-WONDERZ (JuHaa) \[o'\]](https://osu.ppy.sh/beatmapsets/1598037#mania/3263666)
   2. [James Landino - Shiba Paradise (lenpai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1972411#mania/4092861)
@@ -239,7 +239,7 @@ This competition ended with the following podium:
 - Hybrid
   1. [Memme - Marionette (JuHaa) \[Footprint\]](https://osu.ppy.sh/beatmapsets/1383084#mania/2859551)
   2. [Mizuki - Ni Zhan Zai Yun Lin Wo Shu De Che Di (Irone OSU) \[7K Dizziness\]](https://osu.ppy.sh/beatmapsets/1766981#mania/3616980)
-  3. [penoreri - Lancelot ~Flame of the Rebellion~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/1922309#mania/4261082)
+  3. [penoreri - Lancelot \~Flame of the Rebellion\~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/1922309#mania/4261082)
 - Tiebreaker
   1. [YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmapsets/2059278#mania/4304086)
 
@@ -299,13 +299,13 @@ Saturday, 14 October 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| nanonbandusty ::{ flag=TH}:: | 5 | **7** | ::{ flag=US }:: **RhymesWithMash** | [#1](https://osu.ppy.sh/community/matches/110869365) |
+| nanonbandusty ::{ flag=TH }:: | 5 | **7** | ::{ flag=US }:: **RhymesWithMash** | [#1](https://osu.ppy.sh/community/matches/110869365) |
 
 Sunday, 15 October 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Axelerrixx** ::{ flag=CA}:: | **7** | 0 | ::{ flag=US }:: RhymesWithMash | [#1](https://osu.ppy.sh/community/matches/110897500) |
+| **Axelerrixx** ::{ flag=CA }:: | **7** | 0 | ::{ flag=US }:: RhymesWithMash | [#1](https://osu.ppy.sh/community/matches/110897500) |
 
 ### Finals
 
@@ -313,15 +313,15 @@ Saturday, 7 October 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Silhoueska Elze ::{ flag=PH}:: | 1 | **7** | ::{ flag=MY }:: **Kzon** | [#1](https://osu.ppy.sh/community/matches/110777656) |
-| **RhymesWithMash** ::{ flag=US}:: | **7** | 3 | ::{ flag=FR }:: CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/110783358) |
+| Silhoueska Elze ::{ flag=PH }:: | 1 | **7** | ::{ flag=MY }:: **Kzon** | [#1](https://osu.ppy.sh/community/matches/110777656) |
+| **RhymesWithMash** ::{ flag=US }:: | **7** | 3 | ::{ flag=FR }:: CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/110783358) |
 
 Sunday, 8 October 2023: 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kzon ::{ flag=MY}:: | 1 | **7** | ::{ flag=US }:: **RhymesWithMash** | [#1](https://osu.ppy.sh/community/matches/110789914) |
-| **Axelerrixx** ::{ flag=CA}:: | **7** | 4 | ::{ flag=TH }:: nanonbandusty | [#1](https://osu.ppy.sh/community/matches/110796809) |
+| Kzon ::{ flag=MY }:: | 1 | **7** | ::{ flag=US }:: **RhymesWithMash** | [#1](https://osu.ppy.sh/community/matches/110789914) |
+| **Axelerrixx** ::{ flag=CA }:: | **7** | 4 | ::{ flag=TH }:: nanonbandusty | [#1](https://osu.ppy.sh/community/matches/110796809) |
 
 ### Semifinals
 
@@ -329,19 +329,19 @@ Saturday, 30 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **CharlisMadCut** ::{ flag=FR}:: | **6** | 0 | ::{ flag=AU }:: Orcanos | [#1](https://osu.ppy.sh/community/matches/110677584) |
-| **PouletFurtif** ::{ flag=FR}:: | **6** | 1 | ::{ flag=FR }:: Exilfaker | [#1](https://osu.ppy.sh/community/matches/110680979) |
-| **Kzon** ::{ flag=MY}:: | **6** | 0 | ::{ flag=BH }:: Unitori- | *win by default* |
-| **Delta386** ::{ flag=US}:: | **6** | 0 | ::{ flag=US }:: ERA Jungle | [#1](https://osu.ppy.sh/community/matches/110688152) |
+| **CharlisMadCut** ::{ flag=FR }:: | **6** | 0 | ::{ flag=AU }:: Orcanos | [#1](https://osu.ppy.sh/community/matches/110677584) |
+| **PouletFurtif** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: Exilfaker | [#1](https://osu.ppy.sh/community/matches/110680979) |
+| **Kzon** ::{ flag=MY }:: | **6** | 0 | ::{ flag=BH }:: Unitori- | *win by default* |
+| **Delta386** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: ERA Jungle | [#1](https://osu.ppy.sh/community/matches/110688152) |
 
 Sunday, 1 October 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nanonbandusty** ::{ flag=TH}:: | **6** | 1 | ::{ flag=PH }:: Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/110695796) |
-| PouletFurtif ::{ flag=FR}:: | 3 | **6** | ::{ flag=MY }:: **Kzon** | [#1](https://osu.ppy.sh/community/matches/110699301) |
-| **Axelerrixx** ::{ flag=CA}:: | **6** | 2 | ::{ flag=US }:: RhymesWithMash | [#1](https://osu.ppy.sh/community/matches/110701472) |
-| Delta386 ::{ flag=US}:: | 1 | **6** | ::{ flag=FR }:: **CharlisMadCut** | [#1](https://osu.ppy.sh/community/matches/110701478) |
+| **nanonbandusty** ::{ flag=TH }:: | **6** | 1 | ::{ flag=PH }:: Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/110695796) |
+| PouletFurtif ::{ flag=FR }:: | 3 | **6** | ::{ flag=MY }:: **Kzon** | [#1](https://osu.ppy.sh/community/matches/110699301) |
+| **Axelerrixx** ::{ flag=CA }:: | **6** | 2 | ::{ flag=US }:: RhymesWithMash | [#1](https://osu.ppy.sh/community/matches/110701472) |
+| Delta386 ::{ flag=US }:: | 1 | **6** | ::{ flag=FR }:: **CharlisMadCut** | [#1](https://osu.ppy.sh/community/matches/110701478) |
 
 ### Quarterfinals
 
@@ -349,27 +349,27 @@ Saturday, 23 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Japeynius ::{ flag=SG}:: | 4 | **6** | ::{ flag=US }:: **Playboi Carti** | [#1](https://osu.ppy.sh/community/matches/110577781) |
-| Lazurent ::{ flag=UA}:: | 0 | **6** | ::{ flag=TH }:: **--Pavin--** | *win by default* |
-| Ziquids ::{ flag=NO}:: | 0 | **6** | ::{ flag=SG }:: **\[Crz\]howardong** | *win by default* |
-| **Unitori-** ::{ flag=BH}:: | **6** | 1 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/110580854) |
-| **Exilfaker** ::{ flag=FR}:: | **6** | 5 | ::{ flag=CN }:: Nene Sakura | [#1](https://osu.ppy.sh/community/matches/110580860) |
-| **ERA Jungle** ::{ flag=US}:: | **6** | 4 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/110586099) |
+| Japeynius ::{ flag=SG }:: | 4 | **6** | ::{ flag=US }:: **Playboi Carti** | [#1](https://osu.ppy.sh/community/matches/110577781) |
+| Lazurent ::{ flag=UA }:: | 0 | **6** | ::{ flag=TH }:: **--Pavin--** | *win by default* |
+| Ziquids ::{ flag=NO }:: | 0 | **6** | ::{ flag=SG }:: **\[Crz\]howardong** | *win by default* |
+| **Unitori-** ::{ flag=BH }:: | **6** | 1 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/110580854) |
+| **Exilfaker** ::{ flag=FR }:: | **6** | 5 | ::{ flag=CN }:: Nene Sakura | [#1](https://osu.ppy.sh/community/matches/110580860) |
+| **ERA Jungle** ::{ flag=US }:: | **6** | 4 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/110586099) |
 
 Sunday, 24 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shikitashi ::{ flag=CL}:: | 5 | **6** | ::{ flag=AU }:: **Orcanos** | [#1](https://osu.ppy.sh/community/matches/110592682) |
-| **Silhoueska Elze** ::{ flag=PH}:: | **6** | 4 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/110593236) |
-| **nanonbandusty** ::{ flag=TH}:: | **6** | 2 | ::{ flag=FR }:: CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/110597689) |
-| \[Crz\]howardong ::{ flag=SG}:: | 5 | **6** | ::{ flag=FR }:: **Exilfaker** | [#1](https://osu.ppy.sh/community/matches/110597759) |
-| **Orcanos** ::{ flag=AU}:: | **6** | 2 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/110597692) |
-| **Qosu_** ::{ flag=MY}:: | **6** | 3 | ::{ flag=CN }:: SHABEST | [#1](https://osu.ppy.sh/community/matches/110600114) |
-| **Unitori-** ::{ flag=BH}:: | **6** | 5 | ::{ flag=US }:: Playboi Carti | [#1](https://osu.ppy.sh/community/matches/110601094) |
-| **Axelerrixx** ::{ flag=CA}:: | **6** | 2 | ::{ flag=MY }:: Kzon | [#1](https://osu.ppy.sh/community/matches/110602163) |
-| **ERA Jungle** ::{ flag=US}:: | **6** | 0 | ::{ flag=MY }:: Qosu_ | *win by default* |
-| **RhymesWithMash** ::{ flag=US}:: | **6** | 0 | ::{ flag=FR }:: PouletFurtif | [#1](https://osu.ppy.sh/community/matches/110607039) |
+| Shikitashi ::{ flag=CL }:: | 5 | **6** | ::{ flag=AU }:: **Orcanos** | [#1](https://osu.ppy.sh/community/matches/110592682) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **6** | 4 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/110593236) |
+| **nanonbandusty** ::{ flag=TH }:: | **6** | 2 | ::{ flag=FR }:: CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/110597689) |
+| \[Crz\]howardong ::{ flag=SG }:: | 5 | **6** | ::{ flag=FR }:: **Exilfaker** | [#1](https://osu.ppy.sh/community/matches/110597759) |
+| **Orcanos** ::{ flag=AU }:: | **6** | 2 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/110597692) |
+| **Qosu_** ::{ flag=MY }:: | **6** | 3 | ::{ flag=CN }:: SHABEST | [#1](https://osu.ppy.sh/community/matches/110600114) |
+| **Unitori-** ::{ flag=BH }:: | **6** | 5 | ::{ flag=US }:: Playboi Carti | [#1](https://osu.ppy.sh/community/matches/110601094) |
+| **Axelerrixx** ::{ flag=CA }:: | **6** | 2 | ::{ flag=MY }:: Kzon | [#1](https://osu.ppy.sh/community/matches/110602163) |
+| **ERA Jungle** ::{ flag=US }:: | **6** | 0 | ::{ flag=MY }:: Qosu_ | *win by default* |
+| **RhymesWithMash** ::{ flag=US }:: | **6** | 0 | ::{ flag=FR }:: PouletFurtif | [#1](https://osu.ppy.sh/community/matches/110607039) |
 
 ### Round of 16
 
@@ -377,27 +377,27 @@ Saturday, 16 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| loleur361 ::{ flag=FR}:: | 3 | **5** | ::{ flag=CN }:: **Nene Sakura** | [#1](https://osu.ppy.sh/community/matches/110481152) |
-| **PotassiumF** ::{ flag=AU}:: | **5** | 0 | ::{ flag=FR }:: poketoine | [#1](https://osu.ppy.sh/community/matches/110482135) |
-| **CharlisMadCut** ::{ flag=FR}:: | **5** | 0 | ::{ flag=BH }:: Unitori- | *win by default* |
-| **Silhoueska Elze** ::{ flag=PH}:: | **5** | 0 | ::{ flag=FR }:: Exilfaker | [#1](https://osu.ppy.sh/community/matches/110485582) |
-| **RhymesWithMash** ::{ flag=US}:: | **5** | 0 | ::{ flag=MY }:: Qosu_ | [#1](https://osu.ppy.sh/community/matches/110486125) |
+| loleur361 ::{ flag=FR }:: | 3 | **5** | ::{ flag=CN }:: **Nene Sakura** | [#1](https://osu.ppy.sh/community/matches/110481152) |
+| **PotassiumF** ::{ flag=AU }:: | **5** | 0 | ::{ flag=FR }:: poketoine | [#1](https://osu.ppy.sh/community/matches/110482135) |
+| **CharlisMadCut** ::{ flag=FR }:: | **5** | 0 | ::{ flag=BH }:: Unitori- | *win by default* |
+| **Silhoueska Elze** ::{ flag=PH }:: | **5** | 0 | ::{ flag=FR }:: Exilfaker | [#1](https://osu.ppy.sh/community/matches/110485582) |
+| **RhymesWithMash** ::{ flag=US }:: | **5** | 0 | ::{ flag=MY }:: Qosu_ | [#1](https://osu.ppy.sh/community/matches/110486125) |
 
 Sunday, 17 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Orcanos** ::{ flag=AU}:: | **5** | 3 | ::{ flag=US }:: yellowbadbeast | [#1](https://osu.ppy.sh/community/matches/110492851) |
-| annbee ::{ flag=HK}:: | 1 | **5** | ::{ flag=US }:: **Playboi Carti** | [#1](https://osu.ppy.sh/community/matches/110495616) |
-| joune ::{ flag=RU}:: | 0 | **5** | ::{ flag=SG }:: **\[Crz\]howardong** | *win by default* |
-| Holo the Wise ::{ flag=CA}:: | 3 | **5** | ::{ flag=TH }:: **--Pavin--** | [#1](https://osu.ppy.sh/community/matches/110499217) |
-| **nanonbandusty** ::{ flag=TH}:: | **5** | 1 | ::{ flag=SG }:: Japeynius | [#1](https://osu.ppy.sh/community/matches/110499221) |
-| Maxus ::{ flag=ID}:: | 2 | **5** | ::{ flag=CN }:: **SHABEST** | [#1](https://osu.ppy.sh/community/matches/110500908) |
-| **Kzon** ::{ flag=MY}:: | **5** | 0 | ::{ flag=CL }:: Shikitashi | [#1](https://osu.ppy.sh/community/matches/110502784) |
-| Musty ::{ flag=FR}:: | 2 | **5** | ::{ flag=DE }:: **ERA Sirbeyy** | [#1](https://osu.ppy.sh/community/matches/110503998) |
-| **Axelerrixx** ::{ flag=CA}:: | **5** | 0 | ::{ flag=UA }:: Lazurent | [#1](https://osu.ppy.sh/community/matches/110504926) |
-| ERA Jungle ::{ flag=US}:: | 2 | **5** | ::{ flag=FR }:: **PouletFurtif** | [#1](https://osu.ppy.sh/community/matches/110506008) |
-| **Delta386** ::{ flag=US}:: | **5** | 0 | ::{ flag=NO }:: Ziquids | [#1](https://osu.ppy.sh/community/matches/110507027) |
+| **Orcanos** ::{ flag=AU }:: | **5** | 3 | ::{ flag=US }:: yellowbadbeast | [#1](https://osu.ppy.sh/community/matches/110492851) |
+| annbee ::{ flag=HK }:: | 1 | **5** | ::{ flag=US }:: **Playboi Carti** | [#1](https://osu.ppy.sh/community/matches/110495616) |
+| joune ::{ flag=RU }:: | 0 | **5** | ::{ flag=SG }:: **\[Crz\]howardong** | *win by default* |
+| Holo the Wise ::{ flag=CA }:: | 3 | **5** | ::{ flag=TH }:: **--Pavin--** | [#1](https://osu.ppy.sh/community/matches/110499217) |
+| **nanonbandusty** ::{ flag=TH }:: | **5** | 1 | ::{ flag=SG }:: Japeynius | [#1](https://osu.ppy.sh/community/matches/110499221) |
+| Maxus ::{ flag=ID }:: | 2 | **5** | ::{ flag=CN }:: **SHABEST** | [#1](https://osu.ppy.sh/community/matches/110500908) |
+| **Kzon** ::{ flag=MY }:: | **5** | 0 | ::{ flag=CL }:: Shikitashi | [#1](https://osu.ppy.sh/community/matches/110502784) |
+| Musty ::{ flag=FR }:: | 2 | **5** | ::{ flag=DE }:: **ERA Sirbeyy** | [#1](https://osu.ppy.sh/community/matches/110503998) |
+| **Axelerrixx** ::{ flag=CA }:: | **5** | 0 | ::{ flag=UA }:: Lazurent | [#1](https://osu.ppy.sh/community/matches/110504926) |
+| ERA Jungle ::{ flag=US }:: | 2 | **5** | ::{ flag=FR }:: **PouletFurtif** | [#1](https://osu.ppy.sh/community/matches/110506008) |
+| **Delta386** ::{ flag=US }:: | **5** | 0 | ::{ flag=NO }:: Ziquids | [#1](https://osu.ppy.sh/community/matches/110507027) |
 
 ### Round of 32
 
@@ -405,27 +405,27 @@ Saturday, 9 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **nanonbandusty** ::{ flag=TH}:: | **4** | 0 | ::{ flag=FR }:: Musty | [#1](https://osu.ppy.sh/community/matches/110380860) |
-| **Lazurent** ::{ flag=UA}:: | **4** | 0 | ::{ flag=SG }:: \[Crz\]howardong | *win by default* |
-| **Qosu_** ::{ flag=MY}:: | **4** | 0 | ::{ flag=FR }:: poketoine | [#1](https://osu.ppy.sh/community/matches/110382792) |
-| Nene Sakura ::{ flag=CN}:: | 1 | **4** | ::{ flag=CL }:: **Shikitashi** | [#1](https://osu.ppy.sh/community/matches/110383805) |
+| **nanonbandusty** ::{ flag=TH }:: | **4** | 0 | ::{ flag=FR }:: Musty | [#1](https://osu.ppy.sh/community/matches/110380860) |
+| **Lazurent** ::{ flag=UA }:: | **4** | 0 | ::{ flag=SG }:: \[Crz\]howardong | *win by default* |
+| **Qosu_** ::{ flag=MY }:: | **4** | 0 | ::{ flag=FR }:: poketoine | [#1](https://osu.ppy.sh/community/matches/110382792) |
+| Nene Sakura ::{ flag=CN }:: | 1 | **4** | ::{ flag=CL }:: **Shikitashi** | [#1](https://osu.ppy.sh/community/matches/110383805) |
 
 Sunday, 10 September, 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **RhymesWithMash** ::{ flag=US}:: | **4** | 0 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/110393494) |
-| Annbee ::{ flag=HK}:: | 3 | **4** | ::{ flag=US }:: **ERA Jungle** | [#1](https://osu.ppy.sh/community/matches/110393556) |
-| **Silhoueska Elze** ::{ flag=PH}:: | **4** | 2 | ::{ flag=AU }:: Orcanos | [#1](https://osu.ppy.sh/community/matches/110398040) |
-| **Ziquids** ::{ flag=NO}:: | **4** | 1 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/110398655) |
-| **Japeynius** ::{ flag=SG}:: | **4** | 2 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/110400193) |
-| **CharlisMadCut** ::{ flag=FR}:: | **4** | 0 | ::{ flag=ID }:: Maxus | [#1](https://osu.ppy.sh/community/matches/110400192) |
-| **Kzon** ::{ flag=MY}:: | **4** | 1 | ::{ flag=FR }:: loleur361 | [#1](https://osu.ppy.sh/community/matches/110401079) |
-| **Unitori-** ::{ flag=BH}:: | **4** | 2 | ::{ flag=CN }:: SHABEST | [#1](https://osu.ppy.sh/community/matches/110401250) |
-| yellowbadbeast ::{ flag=US}:: | 2 | **4** | ::{ flag=FR }:: **Exilfaker** | [#1](https://osu.ppy.sh/community/matches/110404134) |
-| **Delta386** ::{ flag=US}:: | **4** | 1 | ::{ flag=CA }:: Holo the Wise | [#1](https://osu.ppy.sh/community/matches/110405028) |
-| **Axelerrixx** ::{ flag=CA}:: | **4** | 0 | ::{ flag=RU }:: joune | [#1](https://osu.ppy.sh/community/matches/110404959) |
-| **PouletFurtif** ::{ flag=FR}:: | **4** | 0 | ::{ flag=US }:: Playboi Carti | *win by default* |
+| **RhymesWithMash** ::{ flag=US }:: | **4** | 0 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/110393494) |
+| Annbee ::{ flag=HK }:: | 3 | **4** | ::{ flag=US }:: **ERA Jungle** | [#1](https://osu.ppy.sh/community/matches/110393556) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **4** | 2 | ::{ flag=AU }:: Orcanos | [#1](https://osu.ppy.sh/community/matches/110398040) |
+| **Ziquids** ::{ flag=NO }:: | **4** | 1 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/110398655) |
+| **Japeynius** ::{ flag=SG }:: | **4** | 2 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/110400193) |
+| **CharlisMadCut** ::{ flag=FR }:: | **4** | 0 | ::{ flag=ID }:: Maxus | [#1](https://osu.ppy.sh/community/matches/110400192) |
+| **Kzon** ::{ flag=MY }:: | **4** | 1 | ::{ flag=FR }:: loleur361 | [#1](https://osu.ppy.sh/community/matches/110401079) |
+| **Unitori-** ::{ flag=BH }:: | **4** | 2 | ::{ flag=CN }:: SHABEST | [#1](https://osu.ppy.sh/community/matches/110401250) |
+| yellowbadbeast ::{ flag=US }:: | 2 | **4** | ::{ flag=FR }:: **Exilfaker** | [#1](https://osu.ppy.sh/community/matches/110404134) |
+| **Delta386** ::{ flag=US }:: | **4** | 1 | ::{ flag=CA }:: Holo the Wise | [#1](https://osu.ppy.sh/community/matches/110405028) |
+| **Axelerrixx** ::{ flag=CA }:: | **4** | 0 | ::{ flag=RU }:: joune | [#1](https://osu.ppy.sh/community/matches/110404959) |
+| **PouletFurtif** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Playboi Carti | *win by default* |
 
 ### Play-offs
 
@@ -433,27 +433,27 @@ Saturday, 2 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Crz\]howardong** ::{ flag=SG}:: | **4** | 2 | ::{ flag=VE }:: Shiro_122 | [#1](https://osu.ppy.sh/community/matches/110276170) |
-| **ERA Sirbeyy** ::{ flag=DE}:: | **4** | 1 | ::{ flag=GT }:: Votchis | [#1](https://osu.ppy.sh/community/matches/110282113) |
-| **PotassiumF** ::{ flag=AU}:: | **4** | 0 | ::{ flag=BE }:: Theangeloflie | [#1](https://osu.ppy.sh/community/matches/110282845) |
-| **SHABEST** ::{ flag=CN}:: | **4** | 0 | ::{ flag=IQ }:: The_SMasher_sni | [#1](https://osu.ppy.sh/community/matches/110284789) |
-| **loleur361** ::{ flag=FR}:: | **4** | 3 | ::{ flag=IT }:: Lorak_80 | [#1](https://osu.ppy.sh/community/matches/110285832) |
-| **Exilfaker** ::{ flag=FR}:: | **4** | 2 | ::{ flag=ID }:: Mipha- | [#1](https://osu.ppy.sh/community/matches/110285872) |
-| **ERA Jungle** ::{ flag=US}:: | **4** | 0 | ::{ flag=SE }:: Logg45vs | *win by default* |
+| **\[Crz\]howardong** ::{ flag=SG }:: | **4** | 2 | ::{ flag=VE }:: Shiro_122 | [#1](https://osu.ppy.sh/community/matches/110276170) |
+| **ERA Sirbeyy** ::{ flag=DE }:: | **4** | 1 | ::{ flag=GT }:: Votchis | [#1](https://osu.ppy.sh/community/matches/110282113) |
+| **PotassiumF** ::{ flag=AU }:: | **4** | 0 | ::{ flag=BE }:: Theangeloflie | [#1](https://osu.ppy.sh/community/matches/110282845) |
+| **SHABEST** ::{ flag=CN }:: | **4** | 0 | ::{ flag=IQ }:: The_SMasher_sni | [#1](https://osu.ppy.sh/community/matches/110284789) |
+| **loleur361** ::{ flag=FR }:: | **4** | 3 | ::{ flag=IT }:: Lorak_80 | [#1](https://osu.ppy.sh/community/matches/110285832) |
+| **Exilfaker** ::{ flag=FR }:: | **4** | 2 | ::{ flag=ID }:: Mipha- | [#1](https://osu.ppy.sh/community/matches/110285872) |
+| **ERA Jungle** ::{ flag=US }:: | **4** | 0 | ::{ flag=SE }:: Logg45vs | *win by default* |
 
 Sunday, 3 September 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| TPColor ::{ flag=US}:: | 3 | **4** | ::{ flag=RU }:: **joune** | [#1](https://osu.ppy.sh/community/matches/110296802) |
-| **Orcanos** ::{ flag=AU}:: | **4** | 1 | ::{ flag=BE }:: Reilyy | [#1](https://osu.ppy.sh/community/matches/110297822) |
-| **--Pavin--** ::{ flag=TH}:: | **4** | 3 | ::{ flag=PL }:: Seemoon | [#1](https://osu.ppy.sh/community/matches/110299852) |
-| **Musty** ::{ flag=FR}:: | **4** | 1 | ::{ flag=PH }:: \[KN\]Lordieee | [#1](https://osu.ppy.sh/community/matches/110300648) |
-| Nqinn ::{ flag=ID}:: | 0 | **4** | ::{ flag=ID }:: **Maxus** | *win by default* |
-| **Shikitashi** ::{ flag=CL}:: | **4** | 0 | ::{ flag=PH }:: c_latte | [#1](https://osu.ppy.sh/community/matches/110301855) |
-| **Playboi Carti** ::{ flag=US}:: | **4** | 2 | ::{ flag=ID }:: -Yubi- | [#1](https://osu.ppy.sh/community/matches/110302480) |
-| **Holo the Wise** ::{ flag=CA}:: | **4** | 0 | ::{ flag=US }:: Mables | [#1](https://osu.ppy.sh/community/matches/110305062) |
-| Evaluation ::{ flag=US}:: | 1 | **4** | ::{ flag=FR }:: **poketoine** | *win by default* |
+| TPColor ::{ flag=US }:: | 3 | **4** | ::{ flag=RU }:: **joune** | [#1](https://osu.ppy.sh/community/matches/110296802) |
+| **Orcanos** ::{ flag=AU }:: | **4** | 1 | ::{ flag=BE }:: Reilyy | [#1](https://osu.ppy.sh/community/matches/110297822) |
+| **--Pavin--** ::{ flag=TH }:: | **4** | 3 | ::{ flag=PL }:: Seemoon | [#1](https://osu.ppy.sh/community/matches/110299852) |
+| **Musty** ::{ flag=FR }:: | **4** | 1 | ::{ flag=PH }:: \[KN\]Lordieee | [#1](https://osu.ppy.sh/community/matches/110300648) |
+| Nqinn ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **Maxus** | *win by default* |
+| **Shikitashi** ::{ flag=CL }:: | **4** | 0 | ::{ flag=PH }:: c_latte | [#1](https://osu.ppy.sh/community/matches/110301855) |
+| **Playboi Carti** ::{ flag=US }:: | **4** | 2 | ::{ flag=ID }:: -Yubi- | [#1](https://osu.ppy.sh/community/matches/110302480) |
+| **Holo the Wise** ::{ flag=CA }:: | **4** | 0 | ::{ flag=US }:: Mables | [#1](https://osu.ppy.sh/community/matches/110305062) |
+| Evaluation ::{ flag=US }:: | 1 | **4** | ::{ flag=FR }:: **poketoine** | *win by default* |
 
 ### Qualifiers
 
