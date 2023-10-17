@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - devs
   - osu!dev
@@ -11,13 +9,13 @@ tags:
 
 # Desarrolladores
 
-Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [equipo de osu!](/wiki/People/osu!_team).
+Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [osu! team](/wiki/People/osu!_team).
 
-Desarrolladores de osu! se pueden reconocer por sus colores de usuario rosa y los títulos de usuario "osu!dev" o "osu!team".
+Los desarrolladores de osu! se pueden reconocer por sus títulos usuario rosados «osu!dev» o «osu!team», y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `DEV`.
 
 ## Miembros del equipo
 
-La [página del grupo Desarrolladores](https://osu.ppy.sh/groups/11) enumera todos los miembros del equipo.
+La [página del grupo Developers](https://osu.ppy.sh/groups/11) enumera todos los miembros del equipo.
 
 El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)**, el creador de osu!.
 
@@ -28,7 +26,7 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](h
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Desarrolladores del sitio web y del servidor
+### Desarrolladores del sitio web
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
@@ -40,7 +38,7 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](h
 
 - ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
 
-### Administradores de la comunidad
+### Gerente de la comunidad
 
 - ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
