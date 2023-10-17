@@ -238,7 +238,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `ranked` | `ranked` oder `gerankt` |
 | `qualified` | `qualified` oder `qualifiziert` |
 | `loved` | `loved` oder `geliebt` |
-| `approved` | `approved` oder `bestätigt` |
+| `approved` | `approved` |
 | `overall difficulty` | `Allgemeine Schwierigkeit` |
 | `medal` | `Medaille` |
 
