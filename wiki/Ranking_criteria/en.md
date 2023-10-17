@@ -42,7 +42,7 @@ Important to understand before using:
 ### Guidelines
 
 - **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
-  - Beatmaps using AI-generated backgrounds should instead credit them as such in the description.
+  - AI-generated media in beatmaps should explicitly be attributed as being AI-generated, not illustrated or otherwise. This is to prevent misrepresentation of the creation process involved.
 - **Directly re-using your own Ranked difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
