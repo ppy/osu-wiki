@@ -126,7 +126,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ### Qualifiers
 
-**[Download the mappack here (69 MB MB)](https://packs.ppy.sh/P225%20-%20osu!%20World%20Cup%202023%3A%20Qualifiers.zip)**
+**[Download the mappack here (69 MB)](https://packs.ppy.sh/P225%20-%20osu!%20World%20Cup%202023%3A%20Qualifiers.zip)**
 
 - No Mod
   1. [Omoi - Greenlights Serenade (kowari) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2075261#osu/4344435)
