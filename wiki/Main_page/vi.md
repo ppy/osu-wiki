@@ -52,7 +52,7 @@ Các phần chính: [Biên soạn (Compose)](/wiki/Client/Beatmap_editor/Compose
 
 Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
 
-Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Beatmapping/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#storyboarding) • [Tạo Skin](/wiki/Skinning)
+Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Beatmapping/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#làm-storyboard) • [Tạo Skin](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
