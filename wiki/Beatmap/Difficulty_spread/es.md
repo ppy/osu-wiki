@@ -8,7 +8,7 @@ tags:
 
 # Distribución de dificultad
 
-Una **distribución de dificultad** es un conjunto de [dificultades](/wiki/Beatmap/Difficulty) en un [beatmap](/wiki/Beatmap) dentro de algún rango de valores de la [calificación de estrellas](/wiki/Beatmap/Star_rating).
+Una **distribución de dificultad** es un conjunto de [dificultades](/wiki/Beatmap/Difficulty) en un [beatmap](/wiki/Beatmap) dentro de algún rango de valores de la [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
 Los beatmaps [clasificados](/wiki/Beatmap/Category#ranked) tienen varios requisitos respecto a la distribución de dificultades según los [criterios de clasificación](/wiki/Ranking_criteria):
 

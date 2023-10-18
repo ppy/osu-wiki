@@ -8,20 +8,20 @@ tags:
   - Destacados de temporada
 ---
 
-# Beatmap Spotlights Temporada 9 (Primavera 2023)
+# Temporada 9 de Beatmap Spotlights (Primavera 2023)
 
 ## Cronograma
 
 | Evento | Fecha |
 | :-- | :-- |
-| Inicio de temporada | 19 de abril de 2023 |
-| Sala de juego: Playlist A | 19 de abril - 3 de mayo de 2023 |
-| Sala de juego: Playlist B | 3 de mayo - 17 de mayo de 2023 |
-| Sala de juego: Playlist C | 17 de mayo - 31 de mayo de 2023 |
-| Sala de juego: Playlist A | 31 de mayo - 7 de junio de 2023 |
-| Sala de juego: Playlist B | 7 de junio - 14 de junio de 2023 |
-| Sala de juego: Playlist C | 14 de junio - 21 de junio de 2023 |
-| Conclusión de la temporada | 21 de junio de 2023 |
+| Inicio de la temporada | 19 abr. 2023 |
+| Sala de juego: Playlist A | 19 abr. - 3 may. 2023 |
+| Sala de juego: Playlist B | 3 may. - 17 may. 2023 |
+| Sala de juego: Playlist C | 17 may. - 31 may. 2023 |
+| Sala de juego: Playlist A | 31 may. - 7 jun. 2023 |
+| Sala de juego: Playlist B | 7 jun. - 14 jun. 2023 |
+| Sala de juego: Playlist C | 14 jun. - 21 jun. 2023 |
+| Conclusión de la temporada | 21 jun. 2023 |
 
 ## Salas multijugador semanales
 
@@ -38,7 +38,7 @@ A partir de ahora, para unirse a las salas multijugador semanales es necesario q
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
 4. Una vez que concluye una sala de juego, la puntuación clasificada semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
-## Listas de reproducción
+## Listas de juego
 
 ### osu!
 
