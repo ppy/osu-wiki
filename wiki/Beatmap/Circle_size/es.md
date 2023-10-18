@@ -8,9 +8,9 @@ tags:
 
 # Tamaño del circulo
 
-*Para conocer las regulaciones relativas al tamaño del circulo, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+*Para conocer las regulaciones relativas al tamaño del círculo, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
 
-El **tamaña del circulo** (***CS***) es una configuración de dificultad de un [beatmap](/wiki/Beatmap) que afecta el tamaño de los [objetos](/wiki/Gameplay/Hit_object). Los valores del tamaño del círculo varían de 0 a 10, pero solo se pueden elegir valores de 2 a 7 en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Se pueden usar otros valores editando manualmente el [archivo `.osu`](/wiki/Client/File_formats/osu_(file_format)) de un mapa.
+El **tamaño del círculo** (***CS***) es una configuración de dificultad de un [beatmap](/wiki/Beatmap) que afecta el tamaño de los [objetos](/wiki/Gameplay/Hit_object). Los valores del tamaño del círculo varían de 0 a 10, pero solo se pueden elegir valores de 2 a 7 en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Se pueden usar otros valores editando manualmente el [archivo `.osu`](/wiki/Client/File_formats/osu_(file_format)) de un mapa.
 
 ## osu!
 
