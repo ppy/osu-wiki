@@ -19,12 +19,12 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Apelaciones de restricciones impuestas a su cuenta](/wiki/Help_centre/Account_restrictions), que incluyen:
+- [Apelaciones de restricciones impuestas a tu cuenta](/wiki/Help_centre/Account_restrictions), que incluyen:
   - silencios;
   - eliminaciones de contenido del perfil;
   - eliminaciones de beatmaps;
   - eliminación de comentarios y publicaciones en el foro.
-- Instancias de mala conducta que [quieres admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
+- Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
 - [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#inicio-de-sesión) vinculado a tu cuenta de osu!, o cuando tu cuenta es robada.
 - [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#cambios-de-nombre).
 - [Registros de cuentas bot](/wiki/Bot_account).
