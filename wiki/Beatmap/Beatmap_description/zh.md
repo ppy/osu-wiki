@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
+---
+
 # 谱面介绍
 
 **谱面介绍**是[谱面](/wiki/Beatmap)页下的一个小区域，使用 [BBCode](/wiki/BBCode) 向玩家提供关于此谱面的信息。它通常强调谱面制作者认为足够重要的一些事实，或者用来宣传其他作图项目。

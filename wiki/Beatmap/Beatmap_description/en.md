@@ -14,8 +14,8 @@ Popular descriptions of [ranked](/wiki/Beatmap/Category#ranked) beatmaps often i
 
 Many beatmap descriptions contain at least one image (often an animated [GIF](https://en.wikipedia.org/wiki/GIF) of some sort) which is used to express and illustrate either the creator, song, and/or beatmap in a flashy way. They can also serve as a title or header to add flair and quality. To learn how to add an image, check out the [BBCode article's section on images](/wiki/BBCode#images).
 
-### Difficulty sections
+### Crediting guest mappers
 
-A *difficulty section* is a list of all guest difficulties (often alongside with the respective icons) and their creators located in a beatmap description. It is mostly used to credit the guest mappers.
+Beatmap descriptions usually list all guest difficulties (often alongside their respective icons) and their creators to credit the guest mappers.
 
 The difficulty icons can be found in the [Difficulty](/wiki/Beatmap/Difficulty) article.
