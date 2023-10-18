@@ -32,7 +32,7 @@ Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar haza
 
 - Los nombres de las medallas en sí,
 - Las breves descripciones de las medallas, y
-- Los *flair texts* de las medallas (si las hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
+- Los *flair texts* de las medallas (si los hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
 
 Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
