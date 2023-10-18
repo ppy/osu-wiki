@@ -17,7 +17,7 @@ The **osu!mania Apprentice-level 7K Tournament** (***MALT***) was a 1v1 country-
 | Registration phase | 2023-07-22/2023-08-06 (15:59 UTC) |
 | Qualifiers showcase | 2023-08-20 (14:00 UTC) |
 | Qualifiers | 2023-08-26/2023-08-27 |
-| Play-offs | 2023-09-02/2023-09-03 |
+| Playoffs | 2023-09-02/2023-09-03 |
 | Round of 32 | 2023-09-09/2023-09-10 |
 | Round of 16 | 2023-09-16/2023-09-17 |
 | Quarterfinals |  2023-09-23/2023-09-24 |
@@ -43,7 +43,7 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | :-- | :-- |
 | Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Mappool selector | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957). ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Charter or testplayer | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Charter or testplayer | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [\[LS\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Referee | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=PH }:: [RinatoPotato](https://osu.ppy.sh/users/23743034), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
 | Streamer | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=SE }:: [Logg54vs](https://osu.ppy.sh/users/8684540), ::{ flag=US }:: [Male Parent](https://osu.ppy.sh/users/8985153) |
 | Commentator | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=FR }:: [Baguette2Pain](https://osu.ppy.sh/users/11818585), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=ID }:: [Mipha](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895). ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
@@ -128,7 +128,7 @@ This competition ended with the following podium:
 
 ### Grand Finals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1NgVbulF1E4VGoJq4y53lCSpEOYCi6zC2/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1NgVbulF1E4VGoJq4y53lCSpEOYCi6zC2/view?usp=sharing)**
 
 - Rice
   1. [syatten - aliceblue (roko100789) \[Alice is a cutie\]](https://osu.ppy.sh/beatmapsets/1774440#mania/3633299)
@@ -149,11 +149,11 @@ This competition ended with the following podium:
   2. [Ramenbot - Ramen is God (Makiba) \[Stage 3: Hybrid Tonkotsu Ramen\]](https://osu.ppy.sh/beatmapsets/1713698#mania/3501734)
   3. [Camellia - NEURO-CLOUD-9 (SurfChu85) \[neuron activation: Hybrid (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072486#mania/4337194)
 - Tiebreaker
-  1. **[SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]]**(https://osu.ppy.sh/beatmapsets/2072564#mania/4337392)
+  1. **[SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]](https://osu.ppy.sh/beatmapsets/2072564#mania/4337392)**
 
 ### Finals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1_oMGLNHhgJBG5KbQtnIE5V4ahuMZgzd2/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1_oMGLNHhgJBG5KbQtnIE5V4ahuMZgzd2/view?usp=sharing)**
 
 - Rice
   1. [Colorful Sounds Port - ETERNAL DRAIN (Jinjin) \[Jinjin's Delayanother Lv.8\]](https://osu.ppy.sh/beatmapsets/796517#mania/1672616)
@@ -178,13 +178,13 @@ This competition ended with the following podium:
 
 ### Semifinals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1sxRp77ZsBmpElVZyuLQ6H5q8PnfGPkYb/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1sxRp77ZsBmpElVZyuLQ6H5q8PnfGPkYb/view?usp=sharing)**
 
 - Rice
   1. [AAAA - A (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2065967#mania/4322024)
-  2. [Xeon - Dream of Winds (Kawawa) \[BMS LV.04 wawather [Stream]\]](https://osu.ppy.sh/beatmapsets/633675#mania/1344803)
+  2. [Xeon - Dream of Winds (Kawawa) \[BMS LV.04 wawather \[Stream\]\]](https://osu.ppy.sh/beatmapsets/633675#mania/1344803)
   3. [Niji no Conquistador - Summer to Kimi Watashi nari!! (lenpai) \[NemoChan <3\]](https://osu.ppy.sh/beatmapsets/2065986#mania/4322067)
-  4. [Ino(chronoize) - Neko no Te Karita Girl (lenpai) \[Virtual [edit]\]](https://osu.ppy.sh/beatmapsets/2065988#mania/4322076)
+  4. [Ino(chronoize) - Neko no Te Karita Girl (lenpai) \[Virtual \[edit\]\]](https://osu.ppy.sh/beatmapsets/2065988#mania/4322076)
   5. [Tarolabo & Sakuzyo - Nemuri no Hanataba (Kawawa) \[BMS LV.06 wawather Zero LN!!\]](https://osu.ppy.sh/beatmapsets/1523061#mania/3116704)
   6. [NIWASHI - Playing with Ruby (Cut Ver.) (Critical_Star) \[Piano\]](https://osu.ppy.sh/beatmapsets/2065937#mania/4321964)
 - LN
@@ -201,13 +201,13 @@ This competition ended with the following podium:
 
 ### Quarterfinals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1JHLBf2M91LDe-h7ocePYzYMnA-5BXfGf/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1JHLBf2M91LDe-h7ocePYzYMnA-5BXfGf/view?usp=sharing)**
 
 - Rice
   1. [uynet - Mach space journey (yahweh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1337065#mania/2769816)
   2. [Jonas Munk Lindbo - Lunar (yahweh) \[Tanuki City\]](https://osu.ppy.sh/beatmapsets/1328997#mania/2753040)
   3. [Mattias Westlund - Over the Northern Mountains (pwhk) \[Legend\]](https://osu.ppy.sh/beatmapsets/2062733#mania/4313956)
-  4. [Tedjimo TomigY - Edelweiss (lenpai) \[SP ANOTHER [edit]\]](https://osu.ppy.sh/beatmapsets/2062734#mania/4313958)
+  4. [Tedjimo TomigY - Edelweiss (lenpai) \[SP ANOTHER \[edit\]\]](https://osu.ppy.sh/beatmapsets/2062734#mania/4313958)
   5. [Lafale - Hydreripia (tyrcs) \[Insane\]](https://osu.ppy.sh/beatmapsets/1871578#mania/3850895)
   6. [AOiRO_Manbow - Kirby SDX Ending (W-L-K Edit) (ExPew) \[Another\]](https://osu.ppy.sh/beatmapsets/393040#mania/861637)
 - LN
@@ -216,7 +216,7 @@ This competition ended with the following podium:
   3. [shadow_bling - Crush Alcohol (Makiba) \[Makibother (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2062870#mania/4314233)
   4. [Phyrnna - A Joyful Snowfall (SurfChu85) \[An Invigorating Flurry\]](https://osu.ppy.sh/beatmapsets/1879772#mania/3869814)
 - Hybrid
-  1. [Junk - Life is PIANO ([ A v a l o n ]) \[Another\]](https://osu.ppy.sh/beatmapsets/950534#mania/1985074)
+  1. [Junk - Life is PIANO (\[ A v a l o n \]) \[Another\]](https://osu.ppy.sh/beatmapsets/950534#mania/1985074)
   2. [Little V Mills - John Cena Theme Djent Cover (Mage) \[Cena\]](https://osu.ppy.sh/beatmapsets/453091#mania/971751)
   3. [Junk - Qualia (Mashiro-Fang) \[mia-'s 7K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/430351)
 - Tiebreaker
@@ -224,7 +224,7 @@ This competition ended with the following podium:
 
 ### Round of 16
 
-**[You may download the mappack here](https://drive.google.com/file/d/1fRnlfa-UhS9XsQ61E9eDSYKh0CYEldi2/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1fRnlfa-UhS9XsQ61E9eDSYKh0CYEldi2/view?usp=sharing)**
 
 - Rice
   1. [7mai - Boxel Adventure (SurfChu85) \[sl_0 (MALT Edit)\]](https://osu.ppy.sh/beatmapsets/2059279#mania/4304087)
@@ -245,7 +245,7 @@ This competition ended with the following podium:
 
 ### Round of 32
 
-**[You may download the mappack here](https://drive.google.com/file/d/1rcBbA6PQwIUrnrTeCoSLX_AJ3SgZzj7T/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1rcBbA6PQwIUrnrTeCoSLX_AJ3SgZzj7T/view?usp=sharing)**
 
 - Rice
   1. [jun - KIMONO PRINCESS (Leeju) \[Leeju's 7K Moonshine\]](https://osu.ppy.sh/beatmapsets/2055823#mania/4295911)
@@ -262,9 +262,9 @@ This competition ended with the following podium:
 - Tiebreaker
   1. **[Kirameki*Unforent - Kiseki=Startune (2020ver.) (lenpai) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/1475018#mania/3026999)**
 
-### Play-offs
+### Playoffs
 
-**[You may download the mappack here](https://drive.google.com/file/d/1PBl64_zZDsbM5OhMVe4iW30I0n8puXVw/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1PBl64_zZDsbM5OhMVe4iW30I0n8puXVw/view?usp=sharing)**
 
 - Rice
   1. [Fvrwvrd - Speedcore Sonata (Critical_Star) \[Hard\]](https://osu.ppy.sh/beatmapsets/2047669#mania/4275212)
@@ -283,7 +283,7 @@ This competition ended with the following podium:
 
 ### Qualifiers
 
-**[You may download the mappack here](https://drive.google.com/file/d/1xwX-RdcxCr8uGnnfat5SZ8leOQ-BU75k/view?usp=sharing)**
+**[Download the mappack here](https://drive.google.com/file/d/1xwX-RdcxCr8uGnnfat5SZ8leOQ-BU75k/view?usp=sharing)**
 
 1. [The Nouns - conch (yukina meng) \[Stage 1: Doggies\]](https://osu.ppy.sh/beatmapsets/2047808#mania/4275544)
 2. [SHK - Salut d'amour (SurfChu85) \[Stage 2: Embrace\]](https://osu.ppy.sh/beatmapsets/2047814#mania/4275543)
@@ -427,7 +427,7 @@ Sunday, 10 September, 2023:
 | **Axelerrixx** ::{ flag=CA }:: | **4** | 0 | ::{ flag=RU }:: joune | [#1](https://osu.ppy.sh/community/matches/110404959) |
 | **PouletFurtif** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Playboi Carti | *win by default* |
 
-### Play-offs
+### Playoffs
 
 Saturday, 2 September 2023:
 
@@ -457,43 +457,43 @@ Sunday, 3 September 2023:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1WZMBWnq-Mv-n791tDTASkQQZNsHOpgP3xCn98vBZdm4/edit?rm=minimal)
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1WZMBWnq-Mv-n791tDTASkQQZNsHOpgP3xCn98vBZdm4/edit?rm=minimal).
 
 ## Ruleset
 
 ### General Rules
 
-- Players who are ranked #1000 to #40000 in the osu!mania 7K-only rankings were the only ones allowed to join the tournament. Player-Staff eligibility rules for officially-supported tournaments also apply.
-- Score V2 was be used.
-- The following mods were allowed: Fade In (FI), Hidden (HD), Flashlight (FL), Mirror (MR), No Fail (NF).
+- Players who are ranked #1,000 to #40,000 in the osu!mania 7K-only rankings are the only ones allowed to join the tournament. Player–staff eligibility rules for officially supported tournaments also apply.
+- The scoring system used is ScoreV2.
+- The following mods are allowed: Fade In (FI), Hidden (HD), Flashlight (FL), Mirror (MR), No Fail (NF).
 
 ### Round Overview
 
 #### Qualifier Stage
 
-- Mappools were constructed to have 5 maps, consisting of 2 Rice-based, 2 LN-based, and 1 Hybrid.
-- Players were scheduled to a multiplayer room according to their availability.
-- Each player got 2 attempts at each map, where only the best attempt for each map will count
-- Each map had its own leaderboard, and each player's overall seed was determined by the average of these ranks. The top 48 players of the qualifiers proceeded to the next rounds.
-- The top 16 players immediately advanced to the Bracket Stage. Players seeded from 17 to 48 had to participate in the play-offs.
+- Mappools are constructed to have 5 maps: 2 rice-based, 2 LN-based, and 1 hybrid.
+- Players are scheduled to a multiplayer room according to their availability.
+- Each player has 2 attempts at each map, where only the best attempt for each map will count.
+- Each map has its own leaderboard, and each player's overall seed is determined by the average of these ranks. The top 48 players of the Qualifiers proceeds to the next rounds.
+- The top 16 players immediately advance to the bracket stage. Players seeded from 17 to 48 had to participate in the playoffs.
 
-#### Play-offs
+#### Playoffs
 
-- Players who were participating in this round had to face each other in a one-on-one Best of 7 match.
-- Match ups were determined by this formula: ``65 - seed``. (This meant that seed 17 faced seed 48, 18 vs 47, and so on)
-- Mappool Size was determined as follows: 4 Rice-based, 2 LN-based, 3 Hybrids, 1 Tiebreaker
-- Winners from the play-offs took the final 16 slots in the Bracket Stage. The losers were eliminated.
+- Players participating in this round are to face each other in a one-on-one best-of-7 match.
+- Matchups are determined by this formula: ``65 - seed``. (This means that seed 17 faces seed 48, 18 vs 47, and so on.)
+- The mappool size is determined as follows: 4 rice-based, 2 LN-based, 3 hybrids, 1 tiebreaker.
+- Winners from the playoffs take the final 16 slots in the bracket stage. The losers are eliminated.
 
-#### Bracket Stage
+#### Bracket stage
 
-- Players were seeded into a double-elimination bracket. They comprise of the Top 16 from the qualifiers and the winners from the Play-offs to top up the remaining 16 slots.
-- Mappool Sizes and Best of Format for each round were given as follows:
-  - Round of 32 (Best of 7) - 4 Rice-based, 2 LN-based, 3 Hybrids, 1 Tiebreaker
-  - Round of 16 (Best of 9) - 5 Rice-based, 3 LN-based, 3 Hybrids, 1 Tiebreaker
-  - Quarterfinals and Semifinals (Best of 11)- 6 Rice-based, 4 LN-based, 3 Hybrids, 1 Tiebreaker
-  - Finals and Grand Finals (Best of 13) - 7 Rice-based, 5 LN-based, 3 Hybrids, 1 Tiebreaker
+- Players are seeded into a double-elimination bracket. They comprise of the top 16 from the Qualifiers and the winners from the playoffs to top up the remaining 16 slots.
+- Mappool sizes and best-of format for each round are given as follows:
+  - Round of 32 (best-of-7) - 4 rice-based, 2 LN-based, 3 hybrids, 1 tiebreaker.
+  - Round of 16 (best-of-9) - 5 rice-based, 3 LN-based, 3 hybrids, 1 tiebreaker.
+  - Quarterfinals and Semifinals (best-of-11)- 6 rice-based, 4 LN-based, 3 hybrids, 1 tiebreaker.
+  - Finals and Grand Finals (best-of-13) - 7 rice-based, 5 LN-based, 3 hybrids, 1 tiebreaker.
 
-### Match Rules
+### Match rules
 
 - The multiplayer room will be created and invites sent to players 5–10 minutes prior to the match start time.
 - If a player is more than 10 minutes late to the for their match, the player inside the MP room will be declared the winner. If neither player appears, the player with the higher seed will be considered the winner.
