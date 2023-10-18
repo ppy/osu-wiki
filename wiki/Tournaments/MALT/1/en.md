@@ -8,7 +8,7 @@ tags:
 
 ![MALT logo](img/logo.jpg)
 
-The **osu!mania Apprentice-level 7K Tournament** (***MALT***) was a 1v1 country-independent rank-restricted osu!mania 7-key tournament. It was aimed towards players who are not yet at the top level, but wants to experience tournament play.
+The **osu!mania Apprentice-level 7K Tournament** (***MALT***) was a 1v1 country-independent rank-restricted osu!mania 7-key tournament. It was aimed towards players who are not yet at the top level, but want to experience tournament play.
 
 ## Tournament Schedule
 
@@ -42,24 +42,24 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Mappool Selector | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957). ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Charters and Testers | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Mappool selector | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957). ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Charter or testplayer | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Referee | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=PH }:: [RinatoPotato](https://osu.ppy.sh/users/23743034), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
 | Streamer | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=SE }:: [Logg54vs](https://osu.ppy.sh/users/8684540), ::{ flag=US }:: [Male Parent](https://osu.ppy.sh/users/8985153) |
 | Commentator | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=FR }:: [Baguette2Pain](https://osu.ppy.sh/users/11818585), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=ID }:: [Mipha](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895). ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| GFX and Design | ::{ flag=EC }:: [iSmileZ](https://osu.ppy.sh/users/10081404), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=EC }:: [iSmileZ](https://osu.ppy.sh/users/10081404), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Statistician | ::{ flag=NL }:: [2fast](https://osu.ppy.sh/users/5183940), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1796801)
 - [Livestream](https://www.twitch.tv/surfchu85)
-- [VOD Archive](https://www.youtube.com/playlist?list=PLG_VJPfLMAZ2upqmkW7KMV0gDkkwbI7Di)
+- [VOD archive](https://www.youtube.com/playlist?list=PLG_VJPfLMAZ2upqmkW7KMV0gDkkwbI7Di)
 - [MALT Discord server](https://discord.gg/Uzzq9x93Yz)
 - [Challonge](https://challonge.com/osu_MALT)
 - Spreadsheets
   - [Master](https://docs.google.com/spreadsheets/d/1MFAImGm6o4CGiJpMR4g8XuzCRtqn3U9VX_qMTQBXU2M/edit?rm=minimal)
-  - [Statistics]( https://docs.google.com/spreadsheets/d/1WZMBWnq-Mv-n791tDTASkQQZNsHOpgP3xCn98vBZdm4/edit?rm=minimal)
+  - [Statistics](https://docs.google.com/spreadsheets/d/1WZMBWnq-Mv-n791tDTASkQQZNsHOpgP3xCn98vBZdm4/edit?rm=minimal)
 
 ## Participants
 
@@ -149,7 +149,7 @@ This competition ended with the following podium:
   2. [Ramenbot - Ramen is God (Makiba) \[Stage 3: Hybrid Tonkotsu Ramen\]](https://osu.ppy.sh/beatmapsets/1713698#mania/3501734)
   3. [Camellia - NEURO-CLOUD-9 (SurfChu85) \[neuron activation: Hybrid (MALT edit)\]](https://osu.ppy.sh/beatmapsets/2072486#mania/4337194)
 - Tiebreaker
-  1. [SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]](https://osu.ppy.sh/beatmapsets/2072564#mania/4337392)
+  1. **[SDMNE - VOID'S BLOSSOM // - + - // Tragedy_Eternal (Leeju) \[Blooming / + / Emptiness\]]**(https://osu.ppy.sh/beatmapsets/2072564#mania/4337392)
 
 ### Finals
 
@@ -174,7 +174,7 @@ This competition ended with the following podium:
   2. [James Landino - Shiba Paradise (lenpai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1972411#mania/4092861)
   3. [Joji - SLOW DANCING IN THE DARK (sankansuki) \[in the dark\]](https://osu.ppy.sh/beatmapsets/1994874#mania/4145757)
 - Tiebreaker
-  1. [Camellia - SLIME INCIDENT (pwhk) \[RUNAWAY MOULD\]](https://osu.ppy.sh/beatmapsets/2069143#mania/4329307)
+  1. **[Camellia - SLIME INCIDENT (pwhk) \[RUNAWAY MOULD\]](https://osu.ppy.sh/beatmapsets/2069143#mania/4329307)**
 
 ### Semifinals
 
@@ -197,7 +197,7 @@ This competition ended with the following podium:
   2. [Jun Kuroda - Lily (\_Rokii) \[Lilium\]](https://osu.ppy.sh/beatmapsets/1034305#mania/2162518)
   3. [Cansol - Happily Ever After (JuHaa) \[Be Happy o_<\]](https://osu.ppy.sh/beatmapsets/1520415#mania/3112695)
 - Tiebreaker
-  1. [t+pazolite - Ultrasonic Anthem (ExNeko) \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmapsets/1918758#mania/3959555)
+  1. **[t+pazolite - Ultrasonic Anthem (ExNeko) \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmapsets/1918758#mania/3959555)**
 
 ### Quarterfinals
 
@@ -220,7 +220,7 @@ This competition ended with the following podium:
   2. [Little V Mills - John Cena Theme Djent Cover (Mage) \[Cena\]](https://osu.ppy.sh/beatmapsets/453091#mania/971751)
   3. [Junk - Qualia (Mashiro-Fang) \[mia-'s 7K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/430351)
 - Tiebreaker
-  1. [Rigel Theatre - Lurie (Irone OSU) \[Wanderer in the Mystic Plain\]](https://osu.ppy.sh/beatmapsets/2062730#mania/4313949)
+  1. **[Rigel Theatre - Lurie (Irone OSU) \[Wanderer in the Mystic Plain\]](https://osu.ppy.sh/beatmapsets/2062730#mania/4313949)**
 
 ### Round of 16
 
@@ -241,7 +241,7 @@ This competition ended with the following podium:
   2. [Mizuki - Ni Zhan Zai Yun Lin Wo Shu De Che Di (Irone OSU) \[7K Dizziness\]](https://osu.ppy.sh/beatmapsets/1766981#mania/3616980)
   3. [penoreri - Lancelot \~Flame of the Rebellion\~ (YyottaCat) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/1922309#mania/4261082)
 - Tiebreaker
-  1. [YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmapsets/2059278#mania/4304086)
+  1. **[YUC'e - Cappuccino -DJ Noriken Remix- (SurfChu85) \[MakiLeeChu's Milk Foam\]](https://osu.ppy.sh/beatmapsets/2059278#mania/4304086)**
 
 ### Round of 32
 
@@ -260,7 +260,7 @@ This competition ended with the following podium:
   2. [ensou feat. GUMI - COMA (spoonguy) \[Hard\]](https://osu.ppy.sh/beatmapsets/193344#mania/459424)
   3. [Not Secured, Loose Ends - Shinjuku Cinema Connection (kaishiki) (lenpai) \[Hard\]](https://osu.ppy.sh/beatmapsets/1165141#mania/2620595)
 - Tiebreaker
-  1. [Kirameki*Unforent - Kiseki=Startune (2020ver.) (lenpai) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/1475018#mania/3026999)
+  1. **[Kirameki*Unforent - Kiseki=Startune (2020ver.) (lenpai) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/1475018#mania/3026999)**
 
 ### Play-offs
 
@@ -279,7 +279,7 @@ This competition ended with the following podium:
   2. [FUWAMOCO - YOASOBI / KAIBUTSU (Cover) (Alter-) \[Monster\]](https://osu.ppy.sh/beatmapsets/2052023#mania/4285762)
   3. [Sword of Justice - Battle Ground (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/271087#mania/616451)
 - Tiebreaker
-  1. [ke-ji feat. Nanahira - Ange du Blanc Pur (MapleSyrup-) \[speedrun collab owo\]](https://osu.ppy.sh/beatmapsets/2052203#mania/4286269)
+  1. **[ke-ji feat. Nanahira - Ange du Blanc Pur (MapleSyrup-) \[speedrun collab owo\]](https://osu.ppy.sh/beatmapsets/2052203#mania/4286269)**
 
 ### Qualifiers
 
@@ -495,10 +495,10 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 ### Match Rules
 
-- The multiplayer room will be created and invites sent to players 5-10 minutes prior to the match start time.
+- The multiplayer room will be created and invites sent to players 5–10 minutes prior to the match start time.
 - If a player is more than 10 minutes late to the for their match, the player inside the MP room will be declared the winner. If neither player appears, the player with the higher seed will be considered the winner.
 - Each player will be allowed to select 1 map as a warmup. Warmups must be uploaded to the osu! servers and cannot exceed 4 minutes in length.
-- Players are required to choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the !roll command. The player with the lower roll bans first and the player with the higher roll picks first. Players will alternate picks until a match winner is decided.
-- If both players are tied on match point (e.g. 3-3 score in a Best-of-7), the players will play the tiebreaker map of the pool to determine the winner.
-- Players are given 2 minutes to ban/pick maps when it is their turn. Failure to do so means that the referee will ban/pick at random in behalf of the player.
-- Players are eligible to use a 2 minute tactical time out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
+- Players are required to choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the `!roll` command. The player with the lower roll bans first and the player with the higher roll picks first. Players will alternate picks until a match winner is decided.
+- If both players are tied on match point (e.g. 3–3 score in a best-of-7 match), the players will play the tiebreaker map of the pool to determine the winner.
+- Players are given 2 minutes to ban/pick maps when it is their turn. Failure to do so means that the referee will ban/pick at random on behalf of the player.
+- Players are eligible to use a 2-minute tactical timeout once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
