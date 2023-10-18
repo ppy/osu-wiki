@@ -25,24 +25,24 @@ tags:
 
 ## Salas multijugador semanales
 
-A partir de ahora, para unirse a las salas multijugador semanales es necesario que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
+A partir de ahora, para unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-1. Cada 2 semanas de una temporada, se abre una sala de juego única. Todos pueden participar durante toda la semana.
-   - Después de la primera ola de salas, las listas de reproducción se abrirán nuevamente semanalmente.
-2. Cada sala de juego proporciona una lista de reproducción predefinida de beatmaps.
-   - Cada lista de reproducción contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de reproducción se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de reproducción se vuelve a jugar una vez durante una temporada.
-3. Dentro de una sala de juego, todos compiten por una tabla de clasificación específica de la sala.
-   - Solo los mejores resultados de puntuación en cada beatmap dentro de la sala se juego se resumen para crear una puntuación clasificada semanal para cada jugador.
-   - Cada beatmap de una lista de reproducción cuenta igualmente para la puntuación de la tabla de clasificación.
+1. Cada 2 semanas de una temporada, se abre una sola sala de juego. Todos pueden participar durante toda la semana.
+   - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
+2. Cada sala de juego proporciona una lista de juego predefinida de beatmaps.
+   - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se vuelve a jugar una vez durante una temporada.
+3. Dentro de una sala de juego, todos compiten en una tabla de clasificación específica de la sala.
+   - Solo los mejores resultados de puntuación en cada beatmap dentro de la sala de juego se resumen para crear una puntuación clasificada semanal para cada jugador.
+   - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
-4. Una vez que concluye una sala de juego, la puntuación clasificada semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
+4. Una vez que concluye la sala de juego, la puntuación clasificada semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ## Listas de juego
 
 ### osu!
 
-#### Lista de reproducción A (Nostalgia)
+#### Lista de juego A (Nostalgia)
 
 - [Outkast - Hey Ya! (Lesjuh) \[Hey Lesjuh!\]](https://osu.ppy.sh/beatmapsets/10605#osu/42654), sugerido por [Lefafel](https://osu.ppy.sh/users/2295850)
 - [La Cataline - Fade (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/38348#osu/122780), sugerido por [Zelq](https://osu.ppy.sh/users/8953955)
@@ -56,7 +56,7 @@ A partir de ahora, para unirse a las salas multijugador semanales es necesario q
 
 ### osu!taiko
 
-#### Lista de reproducción A (Nostalgia)
+#### Lista de juego A (Nostalgia)
 
 - [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/148397#taiko/369596), sugerido por [uone](https://osu.ppy.sh/users/5321719)
 - [M2U - Gypsy Tronic (lepidopodus) \[lepidon! - Muzukashii\]](https://osu.ppy.sh/beatmapsets/100445#taiko/332289), sugerido por [uone](https://osu.ppy.sh/users/5321719)
@@ -70,7 +70,7 @@ A partir de ahora, para unirse a las salas multijugador semanales es necesario q
 
 ### osu!catch
 
-#### Lista de reproducción A (Nostalgia)
+#### Lista de juego A (Nostalgia)
 
 - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404), sugerido por [wonjae](https://osu.ppy.sh/users/5032045)
 - [Rita - Hajimari no Toki (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/91485#fruits/247642), sugerido por [wwwww](https://osu.ppy.sh/users/8434466)
@@ -84,7 +84,7 @@ A partir de ahora, para unirse a las salas multijugador semanales es necesario q
 
 ### osu!mania
 
-#### Lista de reproducción A (Nostalgia)
+#### Lista de juego A (Nostalgia)
 
 - [8284 vs wa. - Adularescence (Marirose) \[5K Hyper\]](https://osu.ppy.sh/beatmapsets/337035#mania/745762), sugerido por [Protastic101](https://osu.ppy.sh/users/6712747)
 - [AKINO from bless4 - MIIRO (Ayachi-) \[\[4K\] Poi\]](https://osu.ppy.sh/beatmapsets/288794#mania/652299), sugerido por [Crumpey](https://osu.ppy.sh/users/3518705)
