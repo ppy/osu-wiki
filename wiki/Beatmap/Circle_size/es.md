@@ -6,7 +6,7 @@ tags:
   - conteo de teclas
 ---
 
-# Tamaño del circulo
+# Tamaño del círculo
 
 *Para conocer las regulaciones relativas al tamaño del círculo, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
 
