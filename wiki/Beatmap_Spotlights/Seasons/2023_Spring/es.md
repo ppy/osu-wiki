@@ -4,7 +4,7 @@ tags:
   - Ranking Charts
   - Seasonal Spotlights
   - gráficos
-  - Gráficos de clasificación
+  - Tablas de clasificación
   - Destacados de temporada
 ---
 
