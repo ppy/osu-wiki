@@ -1,7 +1,3 @@
----
-legal: true
----
-
 <!-- Note for translators: This article exists only to comply with Japanese law, and it does not need to be translated into any language other than Japanese. -->
 
 # The following information is disclosed based on Article 11 of the "Act on Specified Commercial Transactions"
