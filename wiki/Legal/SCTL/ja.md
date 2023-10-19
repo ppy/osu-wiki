@@ -24,7 +24,7 @@ ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
 以下のいずれかのお支払い方法をご利用いただけます。
 
-クレジットカード、現金払い、 Paypal（ペイパル）、Docomo（ドコモ）、 NetCash（ ネットキャッシュ）、 BitCash（ビットキャッシュ）
+クレジットカード、現金払い、Paypal（ペイパル）、Docomo（ドコモ）、NetCash（ネットキャッシュ）、BitCash（ビットキャッシュ）
 
 ## キャンセル
 
