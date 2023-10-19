@@ -32,6 +32,6 @@ We accept cancellation and refund requests per customer's discretion. Please con
 
 ## Contact
 
-Help and support: </wiki/Main_page>
+Help and support: </wiki/Help_centre/Account>
 Email: [support@ppy.sh](mailto:support@ppy.sh)
 Business hours: 24/7
