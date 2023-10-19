@@ -28,7 +28,7 @@ Credit card, cash payment, Paypal, Docomo, NetCash, BitCash
 
 ## Cancellation:
 
-We accept cancellation and refund requests per customer's discretion. Please contact accounts@ppy.sh.
+We accept cancellation and refund requests per customer's discretion. Please contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Contact:
 

@@ -28,7 +28,7 @@ Director: Dean Herbert
 
 ## キャンセル:
 
-お客様のご都合による、キャンセル及び返金のリクエストを受けができます。accounts@ppy.sh までお問い合わせください。
+お客様のご都合による、キャンセル及び返金のリクエストを受けができます。[accounts@ppy.sh](mailto:accounts@ppy.sh) までお問い合わせください。
 
 ## お問い合わせ先:
 
