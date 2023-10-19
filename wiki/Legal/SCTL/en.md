@@ -30,6 +30,6 @@ We accept cancellation and refund requests per customer's discretion. Please con
 
 ## Contact
 
-Help and support: <https://osu.ppy.sh/wiki/en/Help_centre/Account>
-Email: [support@ppy.sh](mailto:support@ppy.sh)
+Help and support: <https://osu.ppy.sh/wiki/en/Help_centre/Account>\
+Email: [support@ppy.sh](mailto:support@ppy.sh)\
 Business hours: 24/7
