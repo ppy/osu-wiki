@@ -10,3 +10,4 @@ Indexseite für alle juristischen Artikel. Ihre Links sind auch in der Fußzeile
 - [Musiklizenzierung](Music_licensing)
 - [Datenschutzerklärung](Privacy)
 - [Nutzungsbedingungen](Terms)
+- [SCTL](SCTL)

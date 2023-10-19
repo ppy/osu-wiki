@@ -21,6 +21,6 @@ Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terda
 
 ### Bagian tingkat kesulitan
 
-Bagian tingkat kesulitan merupakan daftar dari semua guest difficulty, yang juga disertakan ikon di sampingnya, beserta kreatornya yang terletak pada deskripsi beatmap. Bagian tingkat kesulitan kebanyakan digunakan untuk memberikan reputasi untuk guest mapper. 
+Bagian tingkat kesulitan merupakan daftar dari semua guest difficulty, yang juga disertakan ikon di sampingnya, beserta kreatornya yang terletak pada deskripsi beatmap. Bagian tingkat kesulitan kebanyakan digunakan untuk memberikan reputasi untuk guest mapper.
 
 Ikon tingkat kesulitan dapat ditemukan di dalam artikel [Tingkat kesulitan](/wiki/Beatmap/Difficulty).
