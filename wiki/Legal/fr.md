@@ -6,3 +6,4 @@ Page d'index pour tous les articles juridiques. Leurs liens se trouvent égaleme
 - [Licence musicale d'osu!](Music_licensing)
 - [Politique de confidentialité d'osu!](Privacy)
 - [Conditions d'utilisation d'osu!](Terms)
+- [SCTL](SCTL)
