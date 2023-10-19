@@ -29,7 +29,7 @@ Nutzer können einen Antrag zum Beitritt der Ankündigungsgruppe stellen, indem 
 
 Der Textkörper der E-Mail sollte Folgendes beinhalten:
 
-- Den osu!-Nutzernamen
+- Den osu!-Nutzernamen des Bewerbers
 - Eine kurze Erklärung, wofür die Berechtigung zum Versenden von Ankündigungsnachrichten benötigt wird
 - Wie häufig Ankündigungsnachrichten versendet werden sollen
 
