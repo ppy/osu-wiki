@@ -14,7 +14,7 @@ ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
 ## 販売事業者の運営責任者:
 
-Director: Dean Herbert
+代表者: Dean Herbert
 
 ## 販売価格:
 
