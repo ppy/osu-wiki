@@ -278,7 +278,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 ### 备注
 
-[^wine]: 需要使用 Wine 虚拟机。
+[^wine]: 需要使用 Wine。
 [^compatibility-mode]: DirectX，又称作兼容模式。
 [^dll]: 需要手动添加 .dll 文件。
 [^share-files]: 谱面和皮肤将共享相同的文件，以节省磁盘空间。
