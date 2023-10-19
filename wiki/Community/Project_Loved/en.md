@@ -17,6 +17,8 @@ To submit a beatmap for Loved, please visit the [beatmap submission page](https:
 
 Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category.
 
+Creators of said beatmaps are also able to request them to be removed from the Loved category by reaching out to a [Project Loved Team](https://osu.ppy.sh/groups/31) member or by posting in `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). The removal process will take a minimum of 1 week and creator will receive a follow-up when it is finished.
+
 ## Eligibility
 
 There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Each game mode has its own specific criteria for Loved beatmap nomination and priority, but all modes follow these rules:
