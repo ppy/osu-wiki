@@ -21,10 +21,8 @@ jobs:
 
       - name: detect changed files
         run: |
-          INTERESTING_FILES=$(
-            # Changes committed to this PR so far
-            git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
-          )
+          # Changes committed to this PR so far
+          INTERESTING_FILES=$( git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ )
 
           # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
           # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
