@@ -32,6 +32,6 @@ ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
 ## お問い合わせ先
 
-https://osu.ppy.sh/wiki/ja/Main_page
-メール : [support@ppy.sh](mailto:support@ppy.sh)
+ヘルプとサポート: https://osu.ppy.sh/wiki/ja/Main_page
+メール: [support@ppy.sh](mailto:support@ppy.sh)
 営業時間: 24時間年中無休
