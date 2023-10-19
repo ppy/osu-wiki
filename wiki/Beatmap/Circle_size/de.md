@@ -13,7 +13,7 @@ Die **Circle Size** (***CS***) ist eine Schwierigkeitseinstellung einer [Beatmap
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!) bestimmt die Circle Size die Größe der [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) und [Sliders](/wiki/Gameplay/Hit_object/Slider). Je höher der CS-Wert ist, desto kleiner sind die Hit-Objekte. Die [Spinner](/wiki/Gameplay/Hit_object/Spinner)-Größe wird nicht von der Circle Size beeinflusst. Die folgende Formel berechnet die Größe der Hit-Circles:
+In [osu!](/wiki/Game_mode/osu!) bestimmt die Circle Size die Größe der [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) und [Sliders](/wiki/Gameplay/Hit_object/Slider). Je höher der CS-Wert ist, desto kleiner sind die Hit-Objekte. Die [Spinner](/wiki/Gameplay/Hit_object/Spinner)-Größe wird nicht von der Circle Size beeinflusst. Die Größe der Hit-Circles wird durch folgende Formel bestimmt:
 
 `r = 54.4 - 4.48 * CS`
 
@@ -25,7 +25,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko) hat die Circle Size keine Auswirkungen
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch) bestimmt die Circle Size die Größe des Catchers und der Fruits.
+In [osu!catch](/wiki/Game_mode/osu!catch) bestimmt die Circle Size die Größe des Catchers und der [Fruits](/wiki/Gameplay/Hit_object/Fruit).
 
 ## osu!mania
 
