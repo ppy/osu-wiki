@@ -1,3 +1,8 @@
+---
+outdated_since: 7c9dcf68279a8926ebc772ee3f62e05dc2eaf77e
+outdated_translation: true
+---
+
 # osu! 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
