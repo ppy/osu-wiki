@@ -26,7 +26,7 @@ Sería favorable hacer cursos intensivos de todos los comandos utilizando imáge
 
 **Muestra la línea de tiempo para las transformaciones del objeto seleccionado.**
 
-![Línea de tiempo del storyboard](/wiki/shared/SE_STM-ES.png "Línea de tiempo del storyboard")
+![Línea de tiempo del storyboard](img/SE_STM-ES.png "Línea de tiempo del storyboard")
 
 #### Línea de tiempo
 
@@ -151,7 +151,7 @@ Reproduce el beatmap. El final del storyboarding requiere secuencias de comandos
 - No hay soporte para efectos de sonido, esto no es un gran problema ya que los efectos de sonido pueden distraer a los jugadores, especialmente si están cerca de [objetos](/wiki/Gameplay/Hit_object). El uso de efectos de sonido debe ser realizado únicamente por mappers avanzados y con la guía de un BAT.
 - No hay soporte para [loop](/wiki/Storyboard/Scripting/Compound_Commands) o [trigger](/wiki/Storyboard/Scripting/Compound_Commands).
 - No hay comandos [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands).
-- La coordenada del sprite es *siempre* 320,240. Deberá usar el comando Move una vez para configurar la ubicación (no se requiere punto final).
+- La coordenada del sprite es *siempre* 320,240. Deberás usar el comando Move una vez para configurar la ubicación (no se requiere punto final).
   - Si *también* estás haciendo [secuencias de comandos](/wiki/Storyboard/Scripting), necesitarás *leer una línea adicional* por cada objeto realizado en la pestaña Design.
 
 ## Fuentes
