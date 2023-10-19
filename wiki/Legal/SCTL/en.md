@@ -4,33 +4,33 @@ legal: true
 
 # The following information is disclosed based on Article 11 of the "Act on Specified Commercial Transactions"
 
-## Name of the seller:
+## Name of the seller
 
 ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
-## Location of the seller:
+## Location of the seller
 
 41 Gregory Street, Wembley, WA, 6014, Australia
 
-## Manager of the seller:
+## Manager of the seller
 
 Director: Dean Herbert
 
-## Sales price:
+## Sales price
 
 Please check the purchase page on the site.
 
-## Payment methods:
+## Payment methods
 
 You can use any of the following payment methods:
 
 Credit card, cash payment, Paypal, Docomo, NetCash, BitCash
 
-## Cancellation:
+## Cancellation
 
 We accept cancellation and refund requests per customer's discretion. Please contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Contact:
+## Contact
 
 https://osu.ppy.sh/wiki/ja/Main_page
 Email: [support@ppy.sh](mailto:support@ppy.sh)
