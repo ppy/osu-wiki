@@ -32,7 +32,6 @@ WhiteCat: WhiteCat exudes an air of aloofness, often carrying a sense of tension
 
 mrekk: A true businessman, willing to go to any lengths to secure profits and success. He seldom finds time or inclination for frivolous pursuits, such as relationships or family, as his primary focus is on strengthening his business. His unwavering desire for profit is rooted in a profound fear of poverty, stemming from a childhood trauma that has left a lasting impact.
 
-
 [![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/umbreEcard.png)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 Umbre: On the surface, he's a bit of a jokester, often cracking light-hearted quips at WhiteCat and creating a generally pleasant atmosphere. He serves as an exceptionally effective mentor, stepping into the role of WhiteCat's brother-figure after the loss of BlackDog and helping to nurture him into the state he's in today. Umbre suffers an internal struggle, torn between being Umbre the player or Umbre the brother. Nonetheless, his kind-hearted nature prevails, leading him to make the decision to guide WhiteCat to heights he could never have imagined.
