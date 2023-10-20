@@ -17,7 +17,7 @@ Bot-Accounts können nur über den [Bewerbungsprozess](#einen-bot-account-erstel
 
 Der Hauptunterschied zwischen persönlichen und Bot-Accounts besteht in den Bandbreitenbeschränkungen, die bei der Versendung von [Chat](/wiki/Client/Interface/Chat_console)-Nachrichten gelten. Bot-Accounts haben höhere Grenzwerte, um zu ermöglichen, dass ihre Dienste mit mehr Nutzern interagieren können, ohne Gefahr zu laufen, dass der Account [stumm geschaltet](/wiki/Silence) wird:
 
-- Persönliche Accounts können alle 5 Sekunden 10 Nachrichten senden
+- Persönliche Accounts können alle 10 Sekunden 20 Nachrichten senden
 - Bot-Accounts können alle 60 Sekunden 300 Nachrichten senden
 
 Diese Beschränkungen gelten nur für private Nachrichten, `#multiplayer` und `#spectator`. Bot-Accounts dürfen in anderen Kanälen keine Nachrichten senden, auch keine unaufgeforderten privaten Nachrichten.

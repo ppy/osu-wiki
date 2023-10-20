@@ -17,7 +17,7 @@ Gli account bot possono essere creati esclusivamente su [richiesta](#creazione-d
 
 La differenza principale tra gli account personali e gli account bot è nei limiti di velocità che si applicano a loro quando si inviano messaggi in [chat](/wiki/Client/Interface/Chat_console). Gli account bot hanno limiti meno stringenti per consentire ai loro servizi di interagire con più utenti senza il rischio che l'account venga [silenziato](/wiki/Silence):
 
-- Gli account personali possono inviare 10 messaggi ogni 5 secondi
+- Gli account personali possono inviare 20 messaggi ogni 10 secondi
 - Gli account bot possono inviare 300 messaggi ogni 60 secondi
 
 Questi limiti si applicano solo ai messaggi privati, `#multiplayer` e `#spectator`. Gli account bot non sono autorizzati a inviare messaggi in altri canali, né messaggi privati non richiesti.
