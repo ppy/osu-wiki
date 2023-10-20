@@ -66,7 +66,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.**
 - **Each difficulty's name must denote its [playstyle](#common-terms), but only if its key count is above 10 or multiple playstyles are present in the beatmap.**
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
-- **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.**
+- **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
   - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
@@ -211,4 +211,5 @@ Additional guidelines for *7 key Insane* difficulties:
 
 ## Notes
 
+[^n-plus-1]: The "N+1" setting currently has no function, and is only regulated in the ranking criteria to support future use cases. It is currently undetermined how key counts 10 or above will be treated by this setting, so for now it must not be enabled in those cases.
 [^proper-spread]: A "proper" spread *for difficulties Insane and harder* is defined as a spread with gaps in difficulty similar to those between lower [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) as specified in the [difficulty-specific criteria](#difficulty-specific).
