@@ -35,7 +35,7 @@
 *참고: 모더레이터를 포함하여 극단적인 행동 또는 성 관련 사례를 신고하려는 경우, [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse)를 참고해 주세요.*
 
 - 모더레이터의 잘못된 행동에 대한 우려.
-- 모더레이터가 [기여자 행동 강령](/wiki/Rules/Contributor_code_of_conduct)을 위반하는 것에 대한 우려.
+- 모더레이터가 [기여자 서약 행동강령](/wiki/Rules/Contributor_code_of_conduct)을 위반하는 것에 대한 우려.
 - [osu! store](https://osu.ppy.sh/store/listing)에서 주문한 [결제 관련 문제](/wiki/Help_centre/Account#supporter).
 - [연결 문제](/wiki/Help_centre/Client#online-features)와 같이 [Help 포럼](https://osu.ppy.sh/community/forums/5)에서 해결할 수 없거나 해결되지 않은 기술 문제.
 
