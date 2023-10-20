@@ -25,7 +25,7 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 - **Standard playstyle**: The most common type of playstyle for key counts 10 or below, where no column is of particular significance, and the player is expected to control each key with a unique finger.
   - Examples of standard playstyles: 4K, 7K, 10K
   - Examples of non-standard playstyles: 7K+1, 10K2S, 14K DP
-- **N+1 playstyle**: A specific type of playstyle where the leftmost column is mapped independently from the rest of the columns, which otherwise form a standard playstyle.
+- **N+1 playstyle**: A specific type of playstyle where the leftmost column is mapped independently from the rest of the columns, which otherwise form a standard playstyle. Playstyles may also be considered "N+2" if they add a second independently-mapped column.
 - **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
