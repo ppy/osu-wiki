@@ -64,8 +64,9 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.**
-- **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
-- **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
+- **Each difficulty's name must denote its [playstyle](#common-terms), but only if its key count is above 10 or multiple playstyles are present in the beatmap.**
+- **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
+- **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.**
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
   - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
