@@ -1,7 +1,3 @@
----
-legal: true
----
-
 # 以下の情報は、「特定商取引に関する法律」第11条に基づき、表示されます。
 
 ## 販売事業者名
@@ -24,7 +20,7 @@ ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
 以下のいずれかのお支払い方法をご利用いただけます。
 
-クレジットカード、現金払い、 Paypal（ペイパル）、Docomo（ドコモ）、 NetCash（ ネットキャッシュ）、 BitCash（ビットキャッシュ）
+クレジットカード、現金払い、Paypal（ペイパル）、Docomo（ドコモ）、NetCash（ネットキャッシュ）、BitCash（ビットキャッシュ）
 
 ## キャンセル
 
@@ -32,6 +28,6 @@ ppy Pty Ltd ACN 163 593 413 a.t.f. Dean Herbert Family Trust
 
 ## お問い合わせ先
 
-ヘルプとサポート: <https://osu.ppy.sh/wiki/ja/Help_centre/Account>
-メール: [support@ppy.sh](mailto:support@ppy.sh)
+ヘルプとサポート: <https://osu.ppy.sh/wiki/ja/Help_centre/Account>\
+メール: [support@ppy.sh](mailto:support@ppy.sh)\
 営業時間: 24時間年中無休

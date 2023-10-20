@@ -29,9 +29,9 @@ El **campo de juego** es una parte de la ventana del juego donde se colocan los 
 ![](img/playfield-854x480.png "La ventana de osu! (morada) con el campo de juego (azul), relación de aspecto 16:9.")
 :::
 
-El sistema de coordenadas del campo de juego utiliza unidades independientes de la resolución llamadas **píxeles del juego** u osu! pixels, de modo que un píxel del juego equivale a un píxel cuando osu! se ejecuta a una resolución de 640×480. En resoluciones más altas, el tamaño visual de los píxeles del juego sigue siendo el mismo. El campo de juego está ligeramente desplazado verticalmente, colocado 8 píxeles del juego por debajo del centro de la ventana.
+El sistema de coordenadas del campo de juego utiliza unidades independientes de la resolución llamadas **píxeles del juego** u osu! pixels, de modo que un píxel del juego equivale a un píxel cuando osu! se ejecuta a una resolución de 640x480. En resoluciones más altas, el tamaño visual de los píxeles del juego sigue siendo el mismo. El campo de juego está ligeramente desplazado verticalmente, colocado 8 píxeles del juego por debajo del centro de la ventana.
 
-La cuadrícula del [editor de beatmaps](/wiki/Client/Beatmap_editor) es de 512×384 píxeles del juego.
+La cuadrícula del [editor de beatmaps](/wiki/Client/Beatmap_editor) es de 512x384 píxeles del juego.
 
 | Campo de juego (arriba a la izquierda) | Campo de juego (abajo a la derecha) | Campo de juego (centro) |
 | :-- | :-- | :-- |
@@ -47,7 +47,7 @@ El sistema de coordenadas utilizado para los storyboards tiene un punto de orige
 
 | Relación de aspecto | Pantalla (arriba a la izquierda) | Pantalla (abajo a la derecha) | Pantalla (centro) | Dimensiones dentro de los límites |
 | :-- | :-- | :-- | :-- | :-- |
-| **4:3** | (0, 0) | (640, 480) | (320, 240) | 640×480 |
-| **16:9** | (-107, 0) | (747, 480) | (320, 240) | 854×480 |
+| **4:3** | (0, 0) | (640, 480) | (320, 240) | 640x480 |
+| **16:9** | (-107, 0) | (747, 480) | (320, 240) | 854x480 |
 
 Para convertir una posición en coordenadas del campo de juego en coordenadas del storyboard, agrega el vector de desplazamiento (64, 56), que es la posición de la esquina superior izquierda del campo de juego en las coordenadas del storyboard.
