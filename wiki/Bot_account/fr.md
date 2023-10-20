@@ -17,7 +17,7 @@ Les comptes bot ne peuvent être créés que via [un formulaire d'inscription](#
 
 La différence principale entre les comptes personnels et les comptes bot se situe dans la limite de messages qu'ils peuvent envoyer dans le [tchat](/wiki/Client/Interface/Chat_console). Les comptes bot ont de plus grandes limites pour permettre à leurs services d'interagir avec plusieurs utilisateurs en même temps sans risques de voir leur compte [réduit au silence](/wiki/Silence) :
 
-- Les comptes personnels peuvent envoyer 10 messages toutes les 5 secondes
+- Les comptes personnels peuvent envoyer 20 messages toutes les 10 secondes
 - Les comptes bot peuvent envoyer 300 messages toutes les 60 secondes
 
 Ces limitations s'appliquent uniquement dans les messages privés, et dans les salons `#multiplayer`, et `#spectator`. Les comptes bot ne sont pas autorisés à envoyer des messages dans les autres salons, ni de messages privés non sollicités.
