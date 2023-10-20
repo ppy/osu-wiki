@@ -3,14 +3,14 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
-  - gráficos
+  - tablas
   - Tablas de clasificación
   - Destacados de temporada
 ---
 
 # Temporada 9 de Beatmap Spotlights (Primavera 2023)
 
-## Cronograma
+## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |

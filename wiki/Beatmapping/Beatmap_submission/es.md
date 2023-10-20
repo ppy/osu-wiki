@@ -1,12 +1,12 @@
 # Envío
 
-Los [beatmaps](/wiki/Beatmap) se pueden enviar al sitio web de osu! a través del [editor dentro del juego](/wiki/Client/Beatmap_editor). Enviar un beatmap le permite recibir atención de otros usuarios y potencialmente ingresar a las categorías [clasificado](/wiki/Beatmap/Category#ranked) o [amado](/wiki/Beatmap/Category#loved).
+Los [beatmaps](/wiki/Beatmap) se pueden enviar al sitio web de osu! a través del [editor dentro del juego](/wiki/Client/Beatmap_editor). Enviar un beatmap le permite recibir atención de otros usuarios y potencialmente ingresar a las categorías [clasificado](/wiki/Beatmap/Category#clasificados) o [amado](/wiki/Beatmap/Category#amados).
 
 ![](img/bss_warning-ES.png "Pantalla del sistema de envío de beatmaps")
 
 Al seleccionar `Subir mapa...` del menú desplegable `Archivo` en el editor (atajo: `Ctrl` + `Shift` + `U`) se abrirá la ventana del **sistema de envío de beatmaps** (***BSS***). Inicialmente, esto enumera recursos para ayudar a los usuarios a hacer preguntas relacionadas con el mapeo, encontrar [comentarios](/wiki/Modding) para sus beatmaps y garantizar que sus mapas sean adecuados para la clasificación. Si tiene problemas al utilizar el BSS, véase la guía [problemas del BSS](/wiki/Guides/BSS_issues).
 
-Si el beatmap que está subiendo un usuario aún no está en el sitio web de osu!, la ventana del BSS indicará cuántas veces más puede publicar un usuario. Si el beatmap está nominado, la ventana advierte que la nominación se restablecerá por actualizar el beatmap. Si el beatmap está en el [cementerio](/wiki/Beatmap/Category#graveyard), la ventana advierte que el beatmap se elevará a la categoría pendiente.
+Si el beatmap que está subiendo un usuario aún no está en el sitio web de osu!, la ventana del BSS indicará cuántas veces más puede publicar un usuario. Si el beatmap está nominado, la ventana advierte que la nominación se restablecerá por actualizar el beatmap. Si el beatmap está en el [cementerio](/wiki/Beatmap/Category#abandonados), la ventana advierte que el beatmap se elevará a la categoría pendiente.
 
 ## Opciones de envío
 
