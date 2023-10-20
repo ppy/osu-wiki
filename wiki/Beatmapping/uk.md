@@ -1,7 +1,7 @@
 # Мапінг
 
 **Мапінг** (також бітмапінг) - це процес створення [бітмап](/wiki/Beatmap) в osu! для проходження гравцями.
-Мапінг охоплює вибір пісні, налаштування [таймінгу](/wiki/Client/Beatmap_editor/Timing), розміщення [об'єктів](/wiki/Gameplay/Hit_object), та (вибірково) [скіннінг](/wiki/Skinning) і [сторібординг](/wiki/Storyboard#storyboarding).
+Мапінг охоплює вибір пісні, налаштування [таймінгу](/wiki/Client/Beatmap_editor/Timing), розміщення [об'єктів](/wiki/Gameplay/Hit_object), та (вибірково) [скінінг](/wiki/Skinning) і [сторібординг](/wiki/Storyboard#storyboarding).
 
 Зазвичай мапери намагаються отримати [рейтинговий](/wiki/Beatmap) статус для своєї бітмапи, який отримується під час [процедури рейтингу бітмапи](/wiki/Beatmap_ranking_procedure).
 
