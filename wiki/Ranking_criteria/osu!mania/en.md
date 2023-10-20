@@ -19,7 +19,7 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 ### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical slices of the [playfield](/wiki/Game_mode/osu!mania#playfield) where notes are placed. Note that [editor timestamps](/wiki/Modding/Timestamp) refer to columns by their [zero-indexed](https://en.wikipedia.org/wiki/Zero-based_numbering "\"Zero-based numbering\" on Wikipedia") position starting from the left.
+- **Column**: Vertical lanes of the [playfield](/wiki/Game_mode/osu!mania#playfield) where notes are placed. Note that [editor timestamps](/wiki/Modding/Timestamp) refer to columns by their zero-indexed position starting from the left.
 - **Key mode**: The number of columns present in a difficulty.
 - **Playstyle**: A mapper's intended style of [key bindings](/wiki/Game_mode/osu!mania#controls) or hand positions used to play a difficulty.
 - **Standard playstyle**: The most common type of playstyle for key counts 10 or below, where no column is of particular significance, and the player is expected to control each key with a unique finger.
