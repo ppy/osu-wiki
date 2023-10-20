@@ -37,7 +37,7 @@ Nếu như bạn đang cân nhắc yêu cầu, đội ngũ hỗ trợ yêu cầu
 - Bot chú ý đến hạn chế tài khoản cá nhân
 - Bot không gửi bất kỳ tin nhắn nào đến kênh công khai
 - Bot không gửi bất kỳ tin nhắn riêng tư không được yêu cầu
-- Bot giúp ích cho khán giả rộng rãi trong cộng đồng osu! 
+- Bot giúp ích cho khán giả rộng rãi trong cộng đồng osu!
 
 ### Gửi yêu cầu
 
