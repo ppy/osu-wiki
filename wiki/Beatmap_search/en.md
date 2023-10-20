@@ -67,6 +67,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `created` | Beatmap creation date |
+| `updated` | Beatmap last update date |
 | `ranked` | Beatmap ranking/approval date |
 
 ## Client (lazer)[^lazer-filters]
@@ -114,5 +115,5 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 
 ## References
 
-[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/67c59d69fcdbd07d44984707058bc1193535898f/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
