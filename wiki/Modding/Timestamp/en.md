@@ -15,7 +15,7 @@ Copying (`Ctrl` + `C`) a selection of hit objects in the editor will put a times
 Timestamp syntax: `<minutes>:<seconds>:<milliseconds> (<combo numbers>)`\
 Link syntax: `osu://edit/<timestamp>`
 
-`minutes` and `seconds` are padded with zeroes to 2 digits, and `milliseconds` is padded to 3. `combo numbers` are optional and separated by commas.
+`minutes` and `seconds` are padded with zeroes to 2 digits, and `milliseconds` is padded to 3. [`combo numbers`](/wiki/Beatmapping/Combo) are optional and separated by commas.
 
 [osu!mania](/wiki/Game_mode/osu!mania) hit objects in timestamps use a `<milliseconds>|<column>` format instead of a combo number. `column` refers to the zero-indexed position of the column starting from the left of the [playfield](/wiki/Game_mode/osu!mania#playfield).
 
