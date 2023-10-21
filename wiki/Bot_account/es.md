@@ -51,7 +51,7 @@ Envía un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) con el
 
 El cuerpo del correo electrónico debe contener lo siguiente:
 
-- Tu nombre de usuario osu! (donde has estado ejecutando el bot)
+- Tu nombre de usuario de osu! (donde has estado ejecutando el bot)
 - El nombre de usuario que quieres dar a la cuenta del bot
 - La fecha en la que empezaste a ejecutar el bot
 - Un enlace al código fuente y a la documentación
