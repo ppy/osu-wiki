@@ -8,9 +8,7 @@ tags:
 
 ![COE 2023 banner](img/banner.png)
 
-**cavoe's osu! event 2023** (***COE 2023***) is an osu! convention hosted at **Brabanthallen in 's-Hertogenbosch (Den Bosch), Netherlands**. It is the fifth instalment of cavoe's osu! event.
-
-Tickets are currently available for purchase at the [COE website](https://cavoeboy.com/). This page will be updated as more information becomes available.
+**cavoe's osu! event 2023** (***COE 2023***) was an osu! convention hosted at **Brabanthallen in 's-Hertogenbosch (Den Bosch), Netherlands**. It was the fifth instalment of cavoe's osu! event.
 
 ## Schedule
 
@@ -43,14 +41,9 @@ Tickets are currently available for purchase at the [COE website](https://cavoeb
 | 1v1 osu! tournament Semifinals–Grand Finals | 2023-08-05 (16:00–22:00) |
 | End | 2023-08-06 |
 
-A more detailed schedule can be found on the [website](https://cavoeboy.com/activities).
-
 ## Links
 
 - **[Website](https://cavoeboy.com/)**
-- **[Schedule](https://cavoeboy.com/activities)**
-- [FAQ](https://cavoeboy.com/faq)
-- [Attendee list](https://cavoeboy.com/attendees)
 - [Discord server](https://discord.com/invite/d6ru6PVcSY)
 - [Twitter](https://twitter.com/CavoesOsuEvent)
 - [YouTube channel](https://www.youtube.com/@coevent)
@@ -58,7 +51,7 @@ A more detailed schedule can be found on the [website](https://cavoeboy.com/acti
 
 ## Organisation
 
-COE 2023 is run by various community members and partnered organisations.
+COE 2023 was run by various community members and partnered organisations.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -80,7 +73,7 @@ COE 2023 is run by various community members and partnered organisations.
 
 ![COEGTS 2023 banner](/wiki/Tournaments/GTS/COEGTS_2023/img/banner.png)
 
-The Global Taiko Showdown team is hosting a 1v1 osu!taiko LAN tournament at the event, with a fully custom-made mappool complete with original compositions for each beatmap. osu!taiko players of any rank may participate, so long as they can attend for the duration of the tournament.
+The Global Taiko Showdown team hosted a 1v1 osu!taiko LAN tournament at the event, with a fully custom-made mappool complete with original compositions for each beatmap. osu!taiko players of any rank were able participate, so long as they could attend for the duration of the tournament.
 
 #### Prizes
 
@@ -149,7 +142,3 @@ A 1v1 osu! LAN tournament organised by the COE team.
 | Pub quiz | July 31 (20:00) | A trivia quiz hosted by ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |
 | *CS:GO* Wingman tournament | August 3 (16:00–19:00) | A *CS:GO* tournament by COE and WoozPC in the Wingman game mode |
 | Karaoke | August 3 (19:00) | An event where anyone can pick up the microphone and sing songs together with everyone |
-
-### Group pictures
-
-Group pictures will be taken featuring everyone willing and attending COE, on August 4 (16:00). Right after, there will be a group picture with only Dutch people, then on August 5 (17:30), another one with only German people.
