@@ -49,9 +49,9 @@ Important to understand before using:
 
 ## Beatmap
 
-### Rules
-
 *Note: Each [osu!mania](/wiki/Game_mode/osu!mania) [playstyle](osu!mania#common-terms) is considered to be a separate game mode throughout this section.*
+
+### Rules
 
 - **All game modes within a beatmap must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Beatmap/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
 - **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_criteria/osu!mania) ranking criteria for more information.
