@@ -55,7 +55,7 @@ Hay algunas peculiaridades adicionales en la forma en que los sliders influyen e
 
 ### Spinners
 
-Cada [spinner](/wiki/Gameplay/Hit_object/Spinner) tiene un número determinado de giros necesarios para completarlo. Este número depende de la [dificultad general](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) del beatmap. La velocidad de rotación del spinner se calcula en función de la velocidad del cursor y no se corresponde necesariamente con el número de veces que el cursor ha girado alrededor del spinner.
+Cada [spinner](/wiki/Gameplay/Hit_object/Spinner) tiene un número determinado de giros necesarios para completarlo. Este número depende de la [dificultad general](/wiki/Beatmap/Overall_difficulty#sliders-y-spinners) del beatmap. La velocidad de rotación del spinner se calcula en función de la velocidad del cursor y no se corresponde necesariamente con el número de veces que el cursor ha girado alrededor del spinner.
 
 | Juicio | Giros requeridos[^half-spins] |
 | :-: | :-- |
