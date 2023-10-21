@@ -26,4 +26,4 @@ jobs:
 
             See the [contribution guide](https://osu.ppy.sh/wiki/en/osu%21_wiki/Contribution_guide) for more information.
 
-            All changes are run through [continuous integration checks](https://osu.ppy.sh/wiki/en/osu%21_wiki/Maintenance#ci-checks), which provide automatic detection for common errors. If you need help with decrypting CI check error messages, or with any other issues, ask in the `#osu-wiki` channel on the [osu!dev Discord server](https://discord.com/invite/ppy).
+            All changes are run through [continuous integration checks](https://osu.ppy.sh/wiki/en/osu%21_wiki/Maintenance#ci-checks), which provide automatic detection of common errors. If you need help with decrypting CI check error messages, or with any other issues, ask in the `#osu-wiki` channel on the [osu! Discord server](https://discord.com/invite/ppy).
