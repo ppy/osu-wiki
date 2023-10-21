@@ -5,7 +5,7 @@ tags:
   - shaking notes
   - notas bloqueadas
   - notas temblorosas
-  - agitando notas
+  - notas agitadoras
 ---
 
 # Notelock
