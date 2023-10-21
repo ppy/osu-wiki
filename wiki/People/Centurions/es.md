@@ -1,8 +1,3 @@
----
-outdated_since: ea2cbc1d0f6c8a3784930ea14f3efdfb048868e0
-outdated_translation: true
----
-
 # Centuriones
 
 Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#clasificados). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
@@ -38,4 +33,4 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **3 años y medio** (alrededor de 1306 días) clasificar 100 beatmaps en promedio.
+- Entre todos los centuriones, toma aproximadamente **3,6 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1306 días) clasificar 100 beatmaps en promedio.
