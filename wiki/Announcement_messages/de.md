@@ -37,7 +37,7 @@ Das [Account-Support-Team](/wiki/People/Account_support_team) wird den Antrag pr
 
 ## Ankündigungsnachrichten versenden
 
-Um eine Chatankündigung zu versenden, muss zuerst die [Chatseite](https://osu.ppy.sh/community/chat) geöffnet und auf den Button `Ankündigung erstellen` geklickt werden. Dann können der Chatkanal, die Beschreibung (optional), die Empfängerliste und der Nachrichteninhalt eingegeben werden. Anschließend kann die Ankündigung mit dem Button `Erstellen` versendet werden.
+Um eine Ankündigungsnachricht zu versenden, muss zuerst die [Chatseite](https://osu.ppy.sh/community/chat) geöffnet und auf den Button `Ankündigung erstellen` geklickt werden. Dann können der Chatkanal, die Beschreibung (optional), die Empfängerliste und der Nachrichteninhalt eingegeben werden. Anschließend kann die Ankündigung mit dem Button `Erstellen` versendet werden.
 
 ![Seite zum Erstellen von Ankündigungen](img/page.jpg "Die Seite zum Erstellen von Ankündigungen")
 
