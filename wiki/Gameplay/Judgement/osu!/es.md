@@ -50,7 +50,7 @@ La cabeza del slider solo necesita ser golpeada dentro de la ventana de golpeo d
 
 Hay algunas peculiaridades adicionales en la forma en que los sliders influyen en el [combo](/wiki/Gameplay/Combo_(score_multiplier)):
 
-- Tocar la cabeza del slider demasiado pronto (antes de la ventana de golpeo de MEH), saltarse una marca del slider, o saltarse un repetidor no incurre en un MISS, pero causará una [rotura del combo](/wiki/Gameplay/Judgement/Combobreak). Las otras partes del slider pueden seguir siendo golpeadas si se mantiene pulsada una tecla. Esto se conoce coloquialmente como [rotura del slider](/wiki/Gameplay/Judgement/Slider_break).
+- Tocar la cabeza del slider demasiado pronto (antes de la ventana de golpeo de MEH), saltarse una marca del slider, o saltarse un repetidor no incurre en un MISS, pero causará una [rotura del combo](/wiki/Gameplay/Judgement/Combobreak). Las otras partes del slider pueden seguir siendo golpeadas si se mantiene pulsada una tecla. Esto se conoce coloquialmente como [slider break](/wiki/Gameplay/Judgement/Slider_break).
 - Perder el final del slider no incurre en un MISS, pero no incrementará el combo.
 
 ### Spinners
