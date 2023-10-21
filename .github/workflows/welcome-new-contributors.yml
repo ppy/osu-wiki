@@ -19,7 +19,7 @@ jobs:
 
             - Make sure you've read [this self-check checklist](https://osu.ppy.sh/wiki/en/osu%21_wiki/Contribution_guide#self-check).
             - Translations that have not been reviewed by a native speaker will be merged after a minimum of 1 week. If there are no reviewers for your language, please mention it explicitly.
-            - Refrain from continually updating the branch with `master` yourself. A [maintainer](https://osu.ppy.sh/wiki/People/osu%21_wiki_maintainers) will do this before merging anyway.
+            - Refrain from spamming the `Update branch` button. A [maintainer](https://osu.ppy.sh/wiki/People/osu%21_wiki_maintainers) will do this before merging anyway.
             - Apply review suggestions in batches from the `Files changed` tab like this:
 
               ![Demo GIF](https://user-images.githubusercontent.com/36758269/214177263-b6ead137-e7e0-43a0-9aec-00f81894ebf7.gif)
