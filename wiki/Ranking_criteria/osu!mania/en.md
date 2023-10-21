@@ -68,9 +68,9 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
 - **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
-  - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
-  - **...between 3:15 and 4:00**, the lowest difficulty of each included key mode cannot be harder than an Insane, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 2 difficulties in total.
+  - **...lower than 2:30**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than a Normal, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
+  - **...between 2:30 and 3:15**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than a Hard, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
+  - **...between 3:15 and 4:00**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than an Insane, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 2 difficulties in total.
 
 ### Guidelines
 
@@ -92,7 +92,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-*Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
+*[Key mode](#common-terms)-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes or [playstyles](#common-terms) should apply these guidelines when applicable.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
