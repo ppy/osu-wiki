@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
+---
+
 # Deskripsi beatmap
 
 **Deskripsi beatmap** adalah area kecil yang berada di bawah halaman [beatmap](/wiki/Beatmap) yang memberikan informasi tentang beatmap tersebut kepada pemain dengan menggunakan format [BBCode](/wiki/BBCode). Deskripsi beatmap biasanya digunakan untuk menambahkan informasi tentang beatmap yang dianggap penting oleh pembuatnya atau digunakan untuk mempromosikan proyek mapping lainnya.
@@ -16,6 +21,6 @@ Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terda
 
 ### Bagian tingkat kesulitan
 
-Bagian tingkat kesulitan merupakan daftar dari semua guest difficulty, yang juga disertakan ikon di sampingnya, beserta kreatornya yang terletak pada deskripsi beatmap. Bagian tingkat kesulitan kebanyakan digunakan untuk memberikan reputasi untuk guest mapper. 
+Bagian tingkat kesulitan merupakan daftar dari semua guest difficulty, yang juga disertakan ikon di sampingnya, beserta kreatornya yang terletak pada deskripsi beatmap. Bagian tingkat kesulitan kebanyakan digunakan untuk memberikan reputasi untuk guest mapper.
 
 Ikon tingkat kesulitan dapat ditemukan di dalam artikel [Tingkat kesulitan](/wiki/Beatmap/Difficulty).
