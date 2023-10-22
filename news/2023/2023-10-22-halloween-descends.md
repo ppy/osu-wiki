@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2023 Descends"
-date: 2023-10-22 14:00:00 +0000
+date: 2023-10-22 19:00:00 +0000
 ---
 
 By the ineffable will of the Dean "peppy" Herbert, we are having Halloween right this very moment — so come check out the winners from the Halloween 2023 Fanart Contest, soon to be featured in a game client near you!
