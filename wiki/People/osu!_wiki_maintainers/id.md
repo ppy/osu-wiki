@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6eeace43eccbf3065cd57518491087eea626486d
+---
+
 # Pengelola osu! wiki
 
 Para **pengelola osu! wiki** mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori GitHub osu! wiki](https://github.com/ppy/osu-wiki).

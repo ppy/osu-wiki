@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6eeace43eccbf3065cd57518491087eea626486d
+---
+
 # osu! 위키 관리자
 
 **osu! 위키 관리자**는 [GitHub 프로젝트 저장소](https://github.com/ppy/osu-wiki)를 통해 [osu! 위키](/wiki/osu!_wiki)를 관리합니다.

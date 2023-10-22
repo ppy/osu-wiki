@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6eeace43eccbf3065cd57518491087eea626486d
+---
+
 # Maintainers de l'osu! wiki
 
 Les **maintainers de l'osu! wiki** maintiennent l'[osu! wiki](/wiki/osu!_wiki) via son [dépôt de projet sur GitHub](https://github.com/ppy/osu-wiki).

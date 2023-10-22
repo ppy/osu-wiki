@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6eeace43eccbf3065cd57518491087eea626486d
+---
+
 # Betreuer des osu!-Wikis
 
 Die **Leiter des osu!-Wikis** pflegen das [osu!-Wiki](/wiki/osu!_wiki) über sein [GitHub-Repository](https://github.com/ppy/osu-wiki).
