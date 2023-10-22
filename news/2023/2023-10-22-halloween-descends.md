@@ -38,7 +38,7 @@ We expect this one will end up on a lot of people's desktops!
 
 [![](https://assets.ppy.sh/contests/186/banners/ZunK.jpg)](https://assets.ppy.sh/contests/186/winners/ZunK.png)
 
-**1791** voters applauded the lady of the castle at [**ZunK**](https://osu.ppy.sh/users/1070783)'s behest, whom conjured a particularly impish pippi toting a monocle in a fancy gothic-inspired Halloween dress. Can she keep getting away with raising the candy taxes? With a look like that, the answer is yes, and we wouldn't have it any other way.
+**1791** voters applauded the lady of the castle at [**ZunK**](https://osu.ppy.sh/users/1070783)'s behest, who conjured a particularly impish pippi toting a monocle in a fancy gothic-inspired Halloween dress. Can she keep getting away with raising the candy taxes? With a look like that, the answer is yes, and we wouldn't have it any other way.
 
 [![](https://assets.ppy.sh/contests/186/banners/Scissors_Mori.jpg)](https://assets.ppy.sh/contests/186/winners/Scissors_Mori.png)
 
@@ -46,11 +46,11 @@ We expect this one will end up on a lot of people's desktops!
 
 [![](https://assets.ppy.sh/contests/186/banners/1_zero.jpg)](https://assets.ppy.sh/contests/186/winners/1_zero.png)
 
-Behold! **1547** voter-bats circled the spooky manor depicted by [**1 zero**](https://osu.ppy.sh/users/7440794), where a witch pippi and an animal-girl jiangshi Mocha prowl looking for delicious candy treats! A terrifying ghostly feline stands guard with his broom, ready to sweep spirits and scores both.
+Behold! **1547** voter bats circled the spooky manor depicted by [**1 zero**](https://osu.ppy.sh/users/7440794), where a witch pippi and an animal girl jiangshi Mocha prowl looking for delicious candy treats! A terrifying ghostly feline stands guard with his broom, ready to sweep spirits and scores both.
 
 [![](https://assets.ppy.sh/contests/186/banners/Amplui.jpg)](https://assets.ppy.sh/contests/186/winners/Amplui.png)
 
-[**Amplui**](https://osu.ppy.sh/users/24820805) wowed **1545** voters with their vivaciously vibrant and nefariously neon demon pippi! Eating an entire box of highlighter pens has never seemed to attractive until now! We're all but certain this one is really going to draw eyes in-game — a real eye-catcher for sure!
+[**Amplui**](https://osu.ppy.sh/users/24820805) wowed **1545** voters with their vivaciously vibrant and nefariously neon demon pippi! Eating an entire box of highlighter pens has never seemed so attractive until now! We're all but certain this one is really going to draw eyes in-game — a real eye-catcher for sure!
 
 [![](https://assets.ppy.sh/contests/186/banners/SuperSSun.jpg)](https://assets.ppy.sh/contests/186/winners/SuperSSun.png)
 
@@ -58,11 +58,11 @@ Behold! **1547** voter-bats circled the spooky manor depicted by [**1 zero**](ht
 
 [![](https://assets.ppy.sh/contests/186/banners/MinMin_9s.jpg)](https://assets.ppy.sh/contests/186/winners/MinMin_9s.png)
 
-**1375** voters were wowed by [**MinMin_9s**](https://osu.ppy.sh/users/7140649)'s beautifully simplistic take on a cutesy witch pippi accompanied by her bedsheet-ghost retinue of Mocha and Aiko. The pigtails sticking out of the sheet is simply genius. Why didn't we think of that?!
+**1375** voters were wowed by [**MinMin_9s**](https://osu.ppy.sh/users/7140649)'s beautifully simplistic take on a cutesy witch pippi accompanied by her bed sheet ghost retinue of Mocha and Aiko. The pigtails sticking out of the sheet is simply genius. Why didn't we think of that?!
 
 [![](https://assets.ppy.sh/contests/186/banners/RedcXca.jpg)](https://assets.ppy.sh/contests/186/winners/RedcXca.png)
 
-Fanart contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) returns as a finalist once again, and can now proudly claim 'I maid this'. Because they put Yuzu in a maid dress, and we're frankly astonished by how well it works. Alisa in a bunny suit is also present, as well as a guest cameo from the ever-popular Doraemon for reasons we're not even going to pretend to understand, plus several trollface skull decorations. There's more hidden in this piece to boot, but I've got too many *tasks* to do to list them. 
+Fanart contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) returns as a finalist once again, and can now proudly claim "I maid this", because they put Yuzu in a maid dress, and we're frankly astonished by how well it works. Alisa in a bunny suit is also present, as well as a guest cameo from the ever-popular Doraemon for reasons we're not even going to pretend to understand, plus several trollface skull decorations. There's more hidden in this piece to boot, but I've got too many *tasks* to do to list them. 
 
 Sure is cloudy tonight, isn't it?
 
@@ -94,7 +94,7 @@ Normal Chirou. Orange Chirou. Evil Chirou. [**nhyogu**](https://osu.ppy.sh/users
 
 [![](https://assets.ppy.sh/contests/186/banners/Christi_Anna.jpg)](https://assets.ppy.sh/contests/186/winners/Christi_Anna.png)
 
-[**Christi_Anna**](https://osu.ppy.sh/users/11016739) gathered forth an assembly of mascots most stylish, including pippi, Chirou, Yuzu, the warring twins (Mani and Mari) plus Mocha and a don to enjoy some candelit Halloween festivities. Look at the cat!
+[**Christi_Anna**](https://osu.ppy.sh/users/11016739) gathered forth an assembly of mascots most stylish, including pippi, Chirou, Yuzu, the warring twins (Mani and Mari) plus Mocha and a don to enjoy some candlelit Halloween festivities. Look at the cat!
 
 [![](https://assets.ppy.sh/contests/186/banners/Amythenia.jpg)](https://assets.ppy.sh/contests/186/winners/Amythenia.png)
 
@@ -106,7 +106,7 @@ Normal Chirou. Orange Chirou. Evil Chirou. [**nhyogu**](https://osu.ppy.sh/users
 
 [![](https://assets.ppy.sh/contests/186/banners/The_Seraph.jpg)](https://assets.ppy.sh/contests/186/winners/The_Seraph.png)
 
-[**The Seraph**](https://osu.ppy.sh/users/30000000) plays a dangerous game with pippi, Mocha, Mari and Chirou all engaged in spooky ouija board readings. Mocha is being a bit of a wuss, but when the board spelled out 'HARUMAC--' only moments ago, can you really blame her?
+[**The Seraph**](https://osu.ppy.sh/users/30000000) plays a dangerous game with pippi, Mocha, Mari and Chirou all engaged in spooky ouija board readings. Mocha is being a bit of a wuss, but when the board spelled out "HARUMAC—" only moments ago, can you really blame her?
 
 *Fun extra fact: The Seraph is our 30 millionth user! You don't see that every day!*
 
@@ -116,6 +116,6 @@ A huge thank you to everyone who took the time to send in art or spend their vot
 
 [**You can download a zip file containing all of the Halloween 2023 Finalists and peppy's Picks in full size here!**](https://assets.ppy.sh/contests/186/Halloween2023Finalists.zip)
 
-From all of us here at the osu!team, we wish you a happy Halloween! Enjoy!
+From all of us here at the osu! team, we wish you a happy Halloween! Enjoy!
 
 —Ephemeral
