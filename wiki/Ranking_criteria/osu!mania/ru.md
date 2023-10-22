@@ -1,3 +1,8 @@
+---
+outdated_since: b08642863d40d9706e2d02b3cd3ba8e9e1850cf8
+outdated_translation: true
+---
+
 # Критерии ранкинга osu!mania
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_criteria).***

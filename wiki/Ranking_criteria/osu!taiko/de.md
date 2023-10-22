@@ -1,3 +1,8 @@
+---
+outdated_since: b08642863d40d9706e2d02b3cd3ba8e9e1850cf8
+outdated_translation: true
+---
+
 # Ranking-Kriterien für osu!taiko
 
 ***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
