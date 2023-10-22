@@ -20,7 +20,7 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 ## Glossaire
 
-### Termes généraux
+### Termes courants
 
 - **Règles :** Elle sont tout simplement : **des règles**. Elles ne sont **pas** des directives et ne peuvent **en aucun cas** être enfreintes.
 - **Directives :** Les directives peuvent être ignorées dans des circonstances **exceptionnelles**. Ces circonstances exceptionnelles doivent être justifiées par une explication complète de la raison pour laquelle la directive a été ignorée et pourquoi le fait de la suivre nuira à la qualité globale de la création.
