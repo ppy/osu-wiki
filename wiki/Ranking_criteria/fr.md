@@ -2,7 +2,7 @@
 
 *Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
 
-Cet ensemble de **critères de classement** définit les [règles et directives](#termes-généraux) que les [beatmaps](/wiki/Beatmap) doivent suivre pour progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement** définit les [règles et directives](#termes-courants) que les [beatmaps](/wiki/Beatmap) doivent suivre pour progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 Les modifications des règles et des directives de ce document sont proposées et discutées sur le [Forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Voir le post du forum *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* pour obtenir de l'aide sur la façon de contribuer. Notez que les modifications de la langue, de la grammaire ou de l'organisation de ce document peuvent ne pas être postées sur le forum tant qu'elles ne changent pas le sens des règles ou des directives.
 
