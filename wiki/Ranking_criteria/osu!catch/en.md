@@ -65,11 +65,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 | Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
 | :-- | :-- | :-- | :-- | :-- |
-| **Cup** | - | - | - | - |
-| **Salad** | 250 ms or slower | 125-249 ms | - | - |
-| **Platter** | 125 ms or slower | 62-124 ms | 250 ms or slower | 125-249 ms |
-| **Rain** | 125 ms or slower | 62-124 ms | 125 ms or slower | 62-124 ms |
-| **Overdose** | - | - | - | - |
+| **Salad** | 250 ms or slower | 125–249 ms |  |  |
+| **Platter** | 125 ms or slower | 62–124 ms | 250 ms or slower | 125–249 ms |
+| **Rain** | 125 ms or slower | 62–124 ms | 125 ms or slower | 62–124 ms |
 
 ### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 
