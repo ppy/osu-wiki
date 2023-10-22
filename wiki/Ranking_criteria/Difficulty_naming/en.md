@@ -42,14 +42,14 @@ These difficulty names are the most commonly used for each game mode.
 
 ### Widely accepted alternatives
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose
 
 ## Difficulty naming schemes from other games
 
