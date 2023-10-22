@@ -50,7 +50,7 @@ Los plátanos pueden ser ignorados sin penalización de salud. Sin embargo, pued
 
 ![Hiperfrutas, y el catcher realizando un hyperdash al recolectar una hiperfruta anterior](/wiki/shared/Catch_hyperfruits.jpg "Hiperfrutas de osu!catch")
 
-Las hiperfrutas son frutas especiales que aparecen para asistir al atrapador en la captura de la siguiente fruta cuando se considera que con el dash normal es imposible capturarla en un tiempo estrictamente asignado. Todas las hiperfrutas presentan un distintivo color rojo que rodea la propia hiperfruta por defecto.
+Las hiperfrutas son frutas especiales que aparecen para asistir al catcher en la captura de la siguiente fruta cuando se considera que con el dash normal es imposible capturarla en un tiempo estrictamente asignado. Todas las hiperfrutas presentan un distintivo color rojo que rodea a la propia hiperfruta por defecto.
 
 Recolectar la hiperfruta mejorará el dash del catcher a un *hyperdash* (lo suficientemente rápido como para atrapar la siguiente fruta), lo que lo hará brillar en rojo, y dejará un *rastro temporal* rojo en el punto de recolección hasta que la siguiente fruta sea atrapada o caiga, momento en el cual el catcher volverá a la normalidad.
 
@@ -68,7 +68,7 @@ Recolectar la hiperfruta mejorará el dash del catcher a un *hyperdash* (lo sufi
 - Presionar y mantener la tecla `Mayús izq` (D) con una de las teclas de flecha hará que el catcher haga un *dash* en esa dirección a velocidad x2.0 (indicado con un **brillo** del catcher).
 - Como opción alternativa, presiona y mantén presionado el botón izquierdo del ratón (D) para activar el dash.
 
-La ubicación del cursor en el juego no es relevante durante una partida normal. Si se activa el modificador [Relax](/wiki/Gameplay/Game_modifier/Relax), el control del atrapador será asumido por el cursor en el juego. No obstante, el juego no otorgará una clasificación cuando el modificador Relax esté activado (pues esto anula el desafío principal de osu!catch: la velocidad de captura fija y el control del plato de captura).
+La ubicación del cursor en el juego no es relevante durante una partida normal. Si se activa el mod [Relax](/wiki/Gameplay/Game_modifier/Relax), el control del atrapador será asumido por el cursor en el juego. No obstante, el juego no otorgará una clasificación cuando el mod Relax esté activado (pues esto anula el desafío principal de osu!catch: la velocidad de captura fija y el control del plato de captura).
 
 ## Puntuación
 
@@ -76,9 +76,9 @@ La [puntuación en osu!catch](/wiki/Gameplay/Score/ScoreV1/osu!catch) es una sum
 
 - El [juicio](/wiki/Gameplay/Judgement) proporciona valores de puntuación fijos para cada objeto atrapado, sin depender de la precisión de golpeo.
 - El [combo](/wiki/Gameplay/Combo_(score_multiplier)) es un multiplicador de puntuación: completar un objeto contribuye más a la puntuación total cuando el combo es alto y viceversa. En osu!catch, el combo puede ser [roto](/wiki/Gameplay/Judgement/Combobreak) por fallar una fruta o una gota, que también disminuye la [salud](/wiki/Gameplay/Health).
-- La [presición](/wiki/Gameplay/Accuracy#osu!catch) muestra cuantos objetos fueron capturados en total. Las gotitas disminuyen la precisión cuando se fallan, pero no rompen el combo.
+- La [precisión](/wiki/Gameplay/Accuracy#osu!catch) muestra cuántos objetos fueron capturados en total. Las gotitas disminuyen la precisión cuando se fallan, pero no rompen el combo.
 
-Después de completar un beatmap, a la puntuación se le asigna a un [grado](/wiki/Gameplay/Grade#osu!catch), una breve evaluación de la presición en forma de una sola letra. Una SS dorada o plateada denota una precisión del 100 %, y todo lo demás, de S a D, depende de la cantidad de objetos fallados.
+Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki/Gameplay/Grade#osu!catch), una breve evaluación de la precisión en forma de una sola letra. Una SS dorada o plateada denota una precisión del 100 %, y todo lo demás, de S a D, depende de la cantidad de objetos fallados.
 
 ## Skinning
 
@@ -93,7 +93,7 @@ Después de completar un beatmap, a la puntuación se le asigna a un [grado](/wi
 - La velocidad de la corriente de jugo es similar a la velocidad de las bolas del slider.
 - El spinner crea una lluvia de plátanos.
 
-**Notas:** Los hiperfructos se generan automáticamente.
+**Notas:** Las hiperfrutas se generan automáticamente.
 
 ## Curiosidades
 
