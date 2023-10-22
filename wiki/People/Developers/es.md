@@ -84,7 +84,7 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 
 ## Contribuidores retirados
 
-A continuación se enumeran los usuarios que abandonaron los esfuerzos de desarrollo en curso y siguieron adelante.
+A continuación se enumeran los usuarios que abandonaron el esfuerzo de desarrollo en curso y siguieron adelante.
 
 | Usuario | Rol |
 | :-- | :-- |
