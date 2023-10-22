@@ -54,7 +54,7 @@ Behold! **1547** voter-bats circled the spooky manor depicted by [**1 zero**](ht
 
 [![](https://assets.ppy.sh/contests/186/banners/SuperSSun.jpg)](https://assets.ppy.sh/contests/186/winners/SuperSSun.png)
 
-**1437** voters supported [**SuperSSun**](https://osu.ppy.sh/users/6972778) stupendous sketch, showcasing several spooky mascots in all of their artbook glory! It's wonderful to see artists continually playing with new styles and approaches like this, and we're looking forward to seeing what both this artist and many more to come make with their incredible creativity!
+**1437** voters supported [**SuperSSun**](https://osu.ppy.sh/users/6972778)'s stupendous sketch, showcasing several spooky mascots in all of their artbook glory! It's wonderful to see artists continually playing with new styles and approaches like this, and we're looking forward to seeing what both this artist and many more to come make with their incredible creativity!
 
 [![](https://assets.ppy.sh/contests/186/banners/MinMin_9s.jpg)](https://assets.ppy.sh/contests/186/winners/MinMin_9s.png)
 
@@ -84,7 +84,7 @@ UHHHHHH BRANES. [**AyoLie**](https://osu.ppy.sh/users/29186645) DREW ZOMBIE PIPP
 
 ## peppy's Picks
 
-Long ago before time was counted, the Dean "peppy" Herbert once uttered deep within the hallowed crypts (of our internal Discord server) that there were too many good entries and not enough votes to go around. For thousands of years (approximately eleven seconds, we counted) did he contemplate, before deciding that he would pick a selection of his favorite entries to join our finalists on the main menu anyway. We've since discovered that if you gave him triple the number of ordinary votes, he'd still run out of them somehow.
+Long ago before time was counted, the Dean "peppy" Herbert once uttered deep within the hallowed crypts (of our internal Discord server) that there were too many good entries and not enough votes to go around. For thousands of years (approximately eleven seconds, we counted) did he contemplate, before deciding to invoke his coveted power of *The Pick*, and select his favorite entries to join our finalists on the main menu anyway. We've since discovered that if you gave him triple the number of ordinary votes, he'd still run out of them somehow.
 
 Thus, the Picks were born. And now, we all benefit.
 
