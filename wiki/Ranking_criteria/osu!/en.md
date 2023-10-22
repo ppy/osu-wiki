@@ -18,7 +18,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **All actively clicked parts of objects must have at least one audible [hitsound](/wiki/Beatmapping/Hitsound) that does not blend with the song.** Players do not receive enough feedback otherwise. Using [keysounds](/wiki/Beatmapping/Hitsound#keysound) as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
+  - **...shorter than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
