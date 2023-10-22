@@ -8,7 +8,7 @@ tags:
 
 ![BQT6 logo](img/logo.png)
 
-The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). This is the sixth instalment of the BQT.
+The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). This is the sixth installment of the BQT.
 
 ## Tournament schedule
 
@@ -101,23 +101,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 | **ronos inc.** | ::{ flag=BR }:: **[Doczera-](https://osu.ppy.sh/users/8155626)**, ::{ flag=BR }:: [minimundos](https://osu.ppy.sh/users/16768757), ::{ flag=US }:: [ShorkBork](https://osu.ppy.sh/users/9364519), ::{ flag=BR }:: [AriMaki](https://osu.ppy.sh/users/2129975), ::{ flag=BR }:: [Mestre](https://osu.ppy.sh/users/11227346) |
 | **Pls Enjoy Game** | ::{ flag=GB }:: **[Velyro](https://osu.ppy.sh/users/16765307)**, ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=NZ }:: [Decayed](https://osu.ppy.sh/users/18821604), ::{ flag=KR }:: [Hoper22](https://osu.ppy.sh/users/16193374), ::{ flag=NZ }:: [Pegwin](https://osu.ppy.sh/users/19990127) |
 
-## Podium
-
-This competition has ended and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
-
 ## Mappools
-
-### Grand Finals
-
-### Finals
-
-### Semifinals
 
 ### Quarterfinals
 
@@ -224,56 +208,6 @@ This competition has ended and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals
-
-Saturday, 11 4 November 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-Sunday, 12 4 November 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-### Finals
-
-Saturday, 4 November 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-Sunday, 4 November 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-### Semifinals
-
-Saturday, 28 October 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-Sunday, 29 October 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-### Quarterfinals
-
-Saturday, 21 October 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-
-Sunday, 22 October 2023:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-
-
 ### Round of 16
 
 Saturday, 14 October 2023:
@@ -344,7 +278,7 @@ Sunday, 8 October 2023:
 8. There will be a bracket reset in the Grand Finals if necessary
 9. Semifinals, Finals, and Grand Finals will be streamed. Other matches will TBD depending on the streamers' availability.
 10. All match times are in UTC. Find your own time zone here if you're unsure what UTC you're in.
-11. Only BQT Refs, Streamers, and Casters are allowed to play in the tournament, but they are referee, they can't ref their own match.
+11. Only BQT Refs, Streamers, and Casters are allowed to play in the tournament, but they are referees, they can't ref their own match.
 12. 6 Digit badged players are ALLOWED to participate.
 13. Team Supporter!
    - **Pros:**
@@ -353,13 +287,13 @@ Sunday, 8 October 2023:
    - Being a team player and giving helpful knowledge to provide them a good experience in the tournament scene.
 
    - **Cons:**
-   - Can’t be a these following roles: admin, referee, mappool team, and player.
+   - Can’t be one of following roles: admin, referee, mappool team, and player.
    - At any point in time, the team captain can remove you as a Team Supporter.
 
    - **Other Helpful Information:**
    - Any rank is allowed to be a Team Supporter!
    - No incentive! Just wanting to give back to the osu! Community! You're like a coach or guidance for their tournament experience!
-   - If we know you're being offensive, aggressive, and rude to your and others teams, you'll get 2 warnings and last one would be a ban from the server. Positive Vibes Only!
+   - If we know you're being offensive, aggressive, and rude to your and others teams, you'll get 2 warnings and the last one would be a ban from the server. Positive Vibes Only!
 
 ### Qualifier instructions
 
@@ -383,11 +317,11 @@ Sunday, 8 October 2023:
 9. **Double picking is NOT ALLOWED**, except for NoMods. For example, Team 1 can't pick HR1 then pick HR2 on their next turn. They can pick HR1, DT1, then they can pick HR2.
 10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 UNLESS a score is provided. AN ABORT IS ALLOWED ONCE PER TEAM, PER MATCH.
 11. NoFail will be enforced on every map.
-12. Freemod rules : Each players in a team must have an unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR . EZ = 1.8x (with potentially HD)
+12. Freemod rules : Each players in a team must have a unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR . EZ = 1.8x (with potentially HD)
 13. Players are not required to take any mods on the tiebreaker. However, they are allowed to without penalty.
 
 ### Scheduling instructions
 
-1. Every weeks, the administrators will create reschedule channels in Discord for each matches. Both teams of each matches will cooperate to find a time and date for their matches then post on their channel.
+1. Every week, the administrators will create reschedule channels in Discord for each matches. Both teams of each match will cooperate to find a time and date for their matches then post on their channel.
 2. For loser bracket potential rounds, the deadline to reschedule their first match is by Thursday each week, and the deadline to reschedule their second match is by Friday each week.
 3. Administrators has the right to decline reschedule requests as well help the teams to reschedule their matches.
