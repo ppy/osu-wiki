@@ -192,9 +192,9 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 The following difficulty names are common alternatives and additions to the default difficulty names:
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: in a default Kantan-Futsuu-Muzukashii-Oni-Inner Oni spread, it refers to the lowest level of difficulty that's below Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can be used as a substitute for Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy.
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard.
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane.
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert.
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert.
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan.
