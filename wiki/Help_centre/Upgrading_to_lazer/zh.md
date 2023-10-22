@@ -65,7 +65,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false] | ![支持][true][^note-lock] |
 | osu!mania、osu! 基于时间轴给物件上色 | ![不支持][false] | ![支持][true] |
 | 回放控制 | ![不支持][false] | ![支持][true] |
-| 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动] | ![支持][true] | ![不支持][false] |
+| 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动 | ![支持][true] | ![不支持][false] |
 
 ### 线上系统
 
