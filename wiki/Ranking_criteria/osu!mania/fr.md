@@ -1,6 +1,6 @@
 # Critères de classement d'osu!mania
 
-***Note : Cet article est une extension des [Critères de classement généraux](/wiki/Ranking_criteria).***
+***Note : Cet article est une extension des [critères de classement généraux](/wiki/Ranking_criteria).***
 
 Cet ensemble de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
@@ -205,4 +205,4 @@ Directives supplémentaires pour les difficultés *7 keys Insane* :
 
 ## Notes
 
-[^spread-approprié]: Une répartition "correcte" *pour les difficultés Insane et plus difficile* est définie comme une répartition avec des écarts de difficultés similaires à ceux entre les [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) inférieurs, comme spécifié dans les [critères spécifiques à la difficulté](#spécifique-à-une-difficulté).
+[^spread-approprié]: Une répartition "correcte" *pour les difficultés Insane et plus difficile* est définie comme une répartition avec des écarts de difficultés similaires à ceux entre les [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) inférieurs, comme spécifié dans les [critères spécifiques à la difficulté](#spécifique-à-une-difficulté).
