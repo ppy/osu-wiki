@@ -11,7 +11,7 @@ tags:
 
 An **announcement message** is a special type of message that's intended for sending longer and formatted messages to multiple users at once. The key differences between announcement messages and regular chat messages are:
 
-- The 1024 character limit instead of 450
+- A 1024 character limit instead of 450
 - Markdown syntax support[^note-images] for text formatting
 - Delivery to multiple users at once
 - Ability to bypass the `block private messages from people not on your friends list` setting
@@ -19,22 +19,22 @@ An **announcement message** is a special type of message that's intended for sen
 
 ## Eligibility
 
-In order to send and reply to announcement messages through the website, you must be a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Sending and replying to announcement messages through the website requires membership in the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Filing a request
 
-You can file a request to join the announce user group by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Announce Usergroup Request`. This must be sent from the email address attached to your osu! account.
+Anyone can file a request to join the announce user group by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Announce Usergroup Request`. This must be sent from the email address attached to the user's osu! account.
 
 The body of the email should contain the following:
 
-- Your osu! username
-- An explanation outlining your reason for needing announcement messages, and how frequently you will be using them.
+- The requester's osu! username.
+- An explanation outlining the reason for needing announcement messages, and how frequently they will be used.
 
-The [account support team](/wiki/People/Account_support_team) will review the request and inform you of their decision.
+The [account support team](/wiki/People/Account_support_team) will review the request and inform the user of their decision.
 
 ## Sending announcement messages
 
-In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and your message. Finally, click the `create` button to send the announcement.
+In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and the intended message. Finally, click the `create` button to send the announcement.
 
 ![Announcement creation page](img/page.jpg "The announcement creation page")
 

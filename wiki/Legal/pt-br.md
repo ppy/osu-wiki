@@ -10,3 +10,4 @@ Página índice para todos os artigos legais. Seus links também podem ser encon
 - [Licenciamento musical em osu!](Music_licensing)
 - [Política de privacidade de osu!](Privacy)
 - [Termos de Serviço de osu!](Terms)
+- [SCTL](SCTL)
