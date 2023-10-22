@@ -20,7 +20,7 @@ Somehow, you managed, and we now have our latest Halloween 2023 seasonal backgro
 
 **2420** voters fell prey to the enchanting charms of contest veteran [**mocapixel**](https://osu.ppy.sh/users/11596939)'s witch pippi! It was clear from the opening hours of the contest that this piece was going to hold a lead — and *hold it did*, with hundreds of votes practically the entire time. A stunning combination of colour work and magical magnificence really captures that quintessential Halloween feeling, all while remaining easy to look at.
 
-Speaking of charms, the 4th time is it for mocapixel, who earns their first top-voted finalist place with flying colours! Quite literally, in this case, because you know, witches, brooms, so on... ahem. Congratulations!
+Speaking of charms, the 4th time turned out to be it for mocapixel, who earns their first top-voted finalist place with flying colours! Quite literally, in this case, because you know, witches, brooms, so on... ahem. Congratulations!
 
 [![](https://assets.ppy.sh/contests/186/banners/P4ndemonium.jpg)](https://assets.ppy.sh/contests/186/winners/P4ndemonium.png)
 
