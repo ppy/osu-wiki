@@ -70,11 +70,9 @@ Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantu
 
 | Kesulitan | Snap dash dasar | Snap dash tinggi | Snap hyperdash dasar | Snap hyperdash tinggi |
 | :-- | :-- | :-- | :-- | :-- |
-| **Cup** | - | - | - | - |
-| **Salad** | 250 ms atau lebih tinggi | 125-249 ms | - | - |
-| **Platter** | 125 atau lebih tinggi | 62-124 ms | 250 ms atau lebih tinggi | 125-249 ms |
-| **Rain** | 125 ms atau lebih tinggi | 62-124 ms | 125 ms atau lebih tinggi | 62-124 ms |
-| **Overdose** | - | - | - | - |
+| **Salad** | 250 ms atau lebih tinggi | 125–249 md |  |  |
+| **Platter** | 125 ms atau lebih tinggi | 62–124 md | 250 ms atau lebih tinggi | 125–249 md |
+| **Rain** | 125 ms atau lebih tinggi | 62–124 md | 125 ms atau lebih tinggi | 62–124 md |
 
 ### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 

@@ -1,6 +1,6 @@
 # Dash snapping
 
-Dans [osu!catch](/wiki/Game_mode/osu!catch), tous les [dashes](/wiki/Gameplay/Dash) et [hyperdashes](/wiki/Gameplay/Hyperdash) peuvent être classés en deux types de snapping différents : basic-snapped ou higher-snapped. 
+Dans [osu!catch](/wiki/Game_mode/osu!catch), tous les [dashes](/wiki/Gameplay/Dash) et [hyperdashes](/wiki/Gameplay/Hyperdash) peuvent être classés en deux types de snapping différents : basic-snapped ou higher-snapped.
 
 ## Basic-snapped
 
@@ -14,8 +14,6 @@ Le terme **higher-snapped** est utilisé pour tout [dash](/wiki/Gameplay/Dash) o
 
 | Difficulté | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
 | :-- | :-- | :-- | :-- | :-- |
-| **Cup** | - | - | - | - |
-| **Salad** | 250 ms ou plus | 125-249 ms | - | - |
-| **Platter** | 125 ms ou plus | 62-124 ms | 250 ms ou plus | 125-249 ms |
-| **Rain** | 125 ms ou plus | 62-124 ms | 125 ms ou plus | 62-124 ms |
-| **Overdose** | - | - | - | - |
+| **Salad** | 250 ms ou plus | 125–249 ms |  |  |
+| **Platter** | 125 ms ou plus | 62–124 ms | 250 ms ou plus | 125–249 ms |
+| **Rain** | 125 ms ou plus | 62–124 ms | 125 ms ou plus | 62–124 ms |

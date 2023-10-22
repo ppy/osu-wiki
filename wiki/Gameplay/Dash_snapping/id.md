@@ -12,10 +12,8 @@ Istilah **higher-snapped** digunakan untuk semua [dash](/wiki/Gameplay/Dash) ata
 
 ## Tabel referensi snapping
 
-| Tingkat kesulitan | Dash basic-snapped | Dash higher-snapped | Hyperdash basic-snapped | Hyperdash higher-snapped |
+| Kesulitan | Snap dash dasar | Snap dash tinggi | Snap hyperdash dasar | Snap hyperdash tinggi |
 | :-- | :-- | :-- | :-- | :-- |
-| **Cup** | - | - | - | - |
-| **Salad** | 250 ms atau lebih tinggi | 125-249 md | - | - |
-| **Platter** | 125 ms atau lebih tinggi | 62-124 md | 250 ms atau lebih tinggi | 125-249 md |
-| **Rain** | 125 ms atau lebih tinggi | 62-124 md | 125 ms atau lebih tinggi | 62-124 md |
-| **Overdose** | - | - | - | - |
+| **Salad** | 250 ms atau lebih tinggi | 125–249 md |  |  |
+| **Platter** | 125 ms atau lebih tinggi | 62–124 md | 250 ms atau lebih tinggi | 125–249 md |
+| **Rain** | 125 ms atau lebih tinggi | 62–124 md | 125 ms atau lebih tinggi | 62–124 md |

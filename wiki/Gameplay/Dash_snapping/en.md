@@ -14,8 +14,6 @@ The term **higher-snapped** is used for any [dash](/wiki/Gameplay/Dash) or [hype
 
 | Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
 | :-- | :-- | :-- | :-- | :-- |
-| **Cup** | - | - | - | - |
-| **Salad** | 250 ms or higher | 125-249 ms | - | - |
-| **Platter** | 125 ms or higher | 62-124 ms | 250 ms or higher | 125-249 ms |
-| **Rain** | 125 ms or higher | 62-124 ms | 125 ms or higher | 62-124 ms |
-| **Overdose** | - | - | - | - |
+| **Salad** | 250 ms or higher | 125–249 ms |  |  |
+| **Platter** | 125 ms or higher | 62–124 ms | 250 ms or higher | 125–249 ms |
+| **Rain** | 125 ms or higher | 62–124 ms | 125 ms or higher | 62–124 ms |
