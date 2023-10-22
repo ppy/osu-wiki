@@ -4,7 +4,7 @@ title: "Project Loved: October 2023"
 date: 2023-10-22 09:00:00 +0000
 ---
 
-Surrender to the spirits of Halloween with some spooky Loved picks 👻🎃
+Surrender to the spirits of Halloween with some spooky Loved picks! 👻🎃
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
