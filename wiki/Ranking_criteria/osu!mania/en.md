@@ -33,7 +33,7 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 - **Bracket**: A pattern that involves multiple trills using columns near each other.
 - **Chord**: Two or more notes pressed at the same time.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams that mix different types of chords.
-- **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
+- **Grace**: Two or more notes pressed in rapid succession, generally using 1/6 or faster rhythm.
 - **Hand**: Three notes pressed at the same time. Occasionally referred to as a "triple".
 - **Jack**: Three or more consecutive notes in the same column, usually pressed at a faster pace than surrounding notes.
 - **Jump**: Two notes pressed at the same time. Occasionally referred to as a "double".
@@ -98,7 +98,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **HP and OD values should not be higher than 7.**
-- **Note snappings of consecutive 1/4 and higher should not be used.** Slower rhythms are more appropriate for this difficulty level.
+- **Rhythms of consecutive 1/4 or faster should not be used.** Slower rhythms are more appropriate for this difficulty level.
 - **Long notes should be held for at least one beat.** Faster release timing is too difficult for players of this level.
 - **Long note releases should be at least one beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Objects should not be placed during a 1/1 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
@@ -119,7 +119,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **HP and OD values should not be higher than 7.5.**
-- **Note snappings of consecutive 1/6 and above should not be used.** Slower rhythms are more appropriate for this difficulty level.
+- **Rhythms of consecutive 1/6 or faster should not be used.** Slower rhythms are more appropriate for this difficulty level.
 - **Long notes should be held for at least 1/2 of a beat.** Faster release timing is too difficult for players of this level.
 - **Long note releases should be at least 1/2 of a beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Objects should not be placed during a 1/2 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
@@ -149,7 +149,7 @@ Additional guidelines for *7 key Normal* difficulties:
 #### Guidelines
 
 - **HP and OD values should not be higher than 8.**
-- **Note snappings of consecutive 1/8 and higher should not be used.** These can be too physically demanding for players of this level. An exception to this guideline would be the usage of 3 grace notes that are at higher-end snaps (1/8, 1/12 and 1/16) as they are only used to accentuate gracing sounds.
+- **Rhythms of consecutive 1/8 or faster should not be used.** These can be too physically demanding for players of this level. An exception to this guideline would be the usage of 3 grace notes that are at higher-end snaps (1/8, 1/12 and 1/16) as they are only used to accentuate gracing sounds.
 - **Long streams of 1/4 notes should include, at minimum, a 1/2 pause where natural to implement after every musical phrase.** These can be too physically demanding for players of this level.
 - **Chords within 1/4 streams should be at least 1/1 beat apart from each other.** More dense usage of chords is too difficult for players of this skill level.
 - **Avoid using chords in the middle of 1/6 streams.** However, Using a chord at the beginning or end of a stream is fine.
@@ -168,7 +168,7 @@ Additional guidelines for *4 key Hard* difficulties:
 Additional guidelines for *7 key Hard* difficulties:
 
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
-- **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
+- **Keep chord distance in a chordstream at a 1/1 or longer interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
@@ -177,7 +177,7 @@ Additional guidelines for *7 key Hard* difficulties:
 
 - **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
 - **Avoid using split rolls or any kind of complicated 1/8 streams lasting longer than 4 beats.** Streams of this type of snap are hard to execute and should only be used if the song warrants it.
-- **Avoid using 1/6 or higher snap long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
+- **Avoid using 1/6 or faster rhythms in long note streams.** These are very hard to hit and release because of their very short length. Use regular notes in place of streams instead.
 - **Long-term slider velocity changes should be between 0.70x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalised and 1/2 of a beat or more when normalised.**
 

@@ -66,9 +66,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 | Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
-| **Salad** | 250 ms or higher | 125-249 ms | - | - |
-| **Platter** | 125 ms or higher | 62-124 ms | 250 ms or higher | 125-249 ms |
-| **Rain** | 125 ms or higher | 62-124 ms | 125 ms or higher | 62-124 ms |
+| **Salad** | 250 ms or slower | 125-249 ms | - | - |
+| **Platter** | 125 ms or slower | 62-124 ms | 250 ms or slower | 125-249 ms |
+| **Rain** | 125 ms or slower | 62-124 ms | 125 ms or slower | 62-124 ms |
 | **Overdose** | - | - | - | - |
 
 ### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
@@ -161,11 +161,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) should not be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash) with a gap lower than 250ms.**
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash) with a gap shorter than 250ms.**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) may only be used singularly (not in conjunction with other [dashes](/wiki/Gameplay/Dash) or [hyperdashes](/wiki/Gameplay/Hyperdash)).**
 - **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
+- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 and faster patterns should be used sparingly.
 
 #### Difficulty setting guidelines
 
@@ -183,10 +183,10 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) should only be used on [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play, and a major penalty to accuracy for little benefit.
-- **1/8 and higher [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used between consecutive object pairs.**
+- **1/8 and faster [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used between consecutive object pairs.**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) may be used with caution for a maximum of three consecutive objects, and should not be used after [hyperdashes](/wiki/Gameplay/Hyperdash).**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
-- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
+- **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 and faster patterns should be used sparingly.
 
 #### Difficulty setting guidelines
 
