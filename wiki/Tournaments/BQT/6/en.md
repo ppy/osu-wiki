@@ -174,7 +174,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
   1. [BEMANI Sound Team "Yvya" - Vitrum (Lince Cosmico) \[MarcoBrolo's Another\]](https://osu.ppy.sh/beatmapsets/1581126#osu/3250589)
   2. [ThxSoMch - SPIT IN MY FACE! (Alumetri) \[riot's hyper\]](https://osu.ppy.sh/beatmapsets/1890877#osu/3896553)
 - HardRock
-  1. [kessoku band - Seishun Complex (_kotachi_) \[Surac's Insane\]](https://osu.ppy.sh/beatmapsets/1863866#osu/3891356)
+  1. [kessoku band - Seishun Complex (\_kotachi\_) \[Surac's Insane\]](https://osu.ppy.sh/beatmapsets/1863866#osu/3891356)
   2. [SHK - Holic (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/377869#osu/829598)
 - DoubleTime
   1. [FELT - Goldrop (Lust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/204927#osu/483882)
