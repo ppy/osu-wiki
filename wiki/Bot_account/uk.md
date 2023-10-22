@@ -1,5 +1,10 @@
 ---
 tags:
+  - bot accounts
+  - chat bot
+  - chat bots
+  - IRC bot
+  - IRC bots
   - бот акаунти
   - бот-акаунти
   - чат бот
