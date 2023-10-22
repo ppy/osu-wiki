@@ -40,6 +40,17 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
+### Widely accepted alternatives
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy.
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan.
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard.
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane.
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert.
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert.
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose.
+
 ## Difficulty naming schemes from other games
 
 Mapsets of songs that originated from other rhythm games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
@@ -185,16 +196,3 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
-
-## Widely accepted alternatives
-
-The following difficulty names are common alternatives and additions to the default difficulty names:
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose.
