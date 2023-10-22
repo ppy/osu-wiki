@@ -45,7 +45,6 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 - ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -54,7 +53,6 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
