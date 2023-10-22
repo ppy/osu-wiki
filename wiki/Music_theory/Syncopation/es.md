@@ -8,7 +8,7 @@ La **síncopa** es la acentuación o el énfasis regular de notas que normalment
 
 Como un ejemplo simple, la [dificultad Insane de fanzhen0019 de *Chasers - Lost*](https://osu.ppy.sh/beatmapsets/151114#osu/372628) contiene patrones de [sliders](/wiki/Gameplay/Hit_object/Slider) con [sliderheads](/wiki/Gameplay/Hit_object/Slider/Sliderhead) tanto en ritmo como fuera de ritmo.
 
-Algunos de los patrones de slider, como el primero, siguen la melodía del sintetizador que se sincopa contra las patadas de batería, aterrizando en marcas rojas de la línea de tiempo:
+Algunos de los patrones de slider, como el primero, siguen la melodía del sintetizador que se sincopa con los golpes de la batería, aterrizando en marcas rojas de la línea de tiempo:
 
 ![Ejemplo de slidersheads siguiendo un ritmo sincopado](img/syncopated-sliders.png)
 

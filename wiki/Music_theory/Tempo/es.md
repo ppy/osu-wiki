@@ -15,7 +15,7 @@ tags:
 ![Captura de pantalla del indicador de PPM en la página de información del beatmap](img/beatmap-info.png "El tempo de la canción, igual a 187, puede verse en la esquina superior de la página de información del beatmap")
 :::
 
-El **tiempo** se refiere a la velocidad de una canción. Suele medirse en **pulsos por minuto** (***PPM***), es decir, el número de [pulsos musicales enteros](/wiki/Music_theory/Beat) que hay en un minuto de canción. Por ejemplo, un tempo de 60 pulsos por minuto significa un pulso por segundo, mientras que un tempo de 120 pulsos por minuto es el doble de rápido, lo que significa dos pulsos cada segundo. El tempo afecta directamente a muchos aspectos del juego, como la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), o el [kiai time](/wiki/Gameplay/Kiai_time) estroboscópico. Las páginas de información Beatmap muestran el tempo junto a un símbolo de [metrónomo](https://es.wikipedia.org/wiki/Metrónomo), un dispositivo utilizado por los músicos que ayuda a tocar con un pulso regular.
+El **tempo** se refiere a la velocidad de una canción. Suele medirse en **pulsos por minuto** (***PPM***), es decir, el número de [pulsos musicales enteros](/wiki/Music_theory/Beat) que hay en un minuto de canción. Por ejemplo, un tempo de 60 pulsos por minuto significa un pulso por segundo, mientras que un tempo de 120 pulsos por minuto es el doble de rápido, lo que significa dos pulsos cada segundo. El tempo afecta directamente a muchos aspectos del juego, como la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) o el efecto estroboscópico durante el [kiai time](/wiki/Gameplay/Kiai_time). Las páginas de información de los beatmaps muestran el tempo junto a un símbolo de [metrónomo](https://es.wikipedia.org/wiki/Metrónomo), un dispositivo utilizado por los músicos que ayuda a tocar con un pulso regular.
 
 ## Jugabilidad
 
@@ -25,7 +25,7 @@ Muchos elementos de osu! basan sus tiempos en el tempo de la canción actual:
 - [Velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) base en la velocidad de desplazamiento por defecto de [osu!](/wiki/Game_mode/osu!) y [osu!mania](/wiki/Game_mode/osu!mania)
 - Frecuencia de los pulsos del [kiai time](/wiki/Gameplay/Kiai_time)
 - Parpadeos del [menú principal](/wiki/Client/Interface#main-menu), latidos de la [osu! cookie](/wiki/Client/Interface/Cookie), y estallidos de estrellas en la [pantalla de selección de canciones](/wiki/Client/Interface#song-select)
-- Velocidad de [cuenta atrás](/wiki/Beatmap/Countdown)
+- Velocidad de la [cuenta atrás](/wiki/Beatmap/Countdown)
 
 ## Beatmapping
 
