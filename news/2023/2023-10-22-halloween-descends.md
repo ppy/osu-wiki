@@ -98,7 +98,7 @@ Normal Chirou. Orange Chirou. Evil Chirou. [**nhyogu**](https://osu.ppy.sh/users
 
 [![](https://assets.ppy.sh/contests/186/banners/Amythenia.jpg)](https://assets.ppy.sh/contests/186/winners/Amythenia.png)
 
-[**Amythenia**](https://osu.ppy.sh/users/19931859)'s witch pippi blazes along the latest experimental osu! mania key mode, which is so long that it quite literally comes from the moon. We did the math, and it'd be about *20.666 billion keys*, assuming the average width of a piano key. That's a lot of keys, almost enough to match the amount of cute going on in this piece. There's a pumpkin don too!
+[**Amythenia**](https://osu.ppy.sh/users/19931859)'s witch pippi blazes along the latest experimental osu!mania key mode, which is so long that it quite literally comes from the moon. We did the math, and it'd be about *28 billion keys*, assuming the average width of a piano key. That's a lot of keys, almost enough to match the amount of cute going on in this piece. There's a pumpkin don too!
 
 [![](https://assets.ppy.sh/contests/186/banners/sleepysheeps.jpg)](https://assets.ppy.sh/contests/186/winners/sleepysheeps.png)
 
