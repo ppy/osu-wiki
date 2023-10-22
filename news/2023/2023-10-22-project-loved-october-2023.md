@@ -269,7 +269,7 @@ Let's play now! Have fun! <3
 175 BPM, 2:21 | 7.12★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
-[Tomoya Ohtani - Bomb Rush Blush Remix](https://osu.ppy.sh/beatmapsets/1098787#taiko/2295642) is a 175 BPM unconventional tech challenge from mapping legend [tasuke912](https://osu.ppy.sh/users/2774767), notably also being the first map of the [17th Taiko Dan](https://osu.ppy.sh/beatmaps/2295719). *Bomb Rush Blush Remix* derives its difficulty from the variety of patterning, featuring a mixture of common and fairly unusual 1/6 patterns, with the majority of these being in long and dense streams. With several of those 1/6 patterns needing to be hit in short succession, this is an excellent map to practise various types of 1/6 patterning you wouldn't typically see and is a very fun challenge!
+[Tomoya Ohtani - Bomb Rush Blush Remix](https://osu.ppy.sh/beatmapsets/1098787#taiko/2295642) is a 175 BPM unconventional tech challenge from mapping legend [tasuke912](https://osu.ppy.sh/users/2774767), notably also being the first map of the [17th Taiko Dan](https://osu.ppy.sh/beatmapsets/1098825#taiko/2295719). *Bomb Rush Blush Remix* derives its difficulty from the variety of patterning, featuring a mixture of common and fairly unusual 1/6 patterns, with the majority of these being in long and dense streams. With several of those 1/6 patterns needing to be hit in short succession, this is an excellent map to practise various types of 1/6 patterning you wouldn't typically see and is a very fun challenge!
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1609660.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
