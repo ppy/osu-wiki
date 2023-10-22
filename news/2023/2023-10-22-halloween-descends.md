@@ -84,7 +84,7 @@ UHHHHHH BRANES. [**AyoLie**](https://osu.ppy.sh/users/29186645) DREW ZOMBIE PIPP
 
 ## peppy's Picks
 
-Long ago before time was counted, the Dean "peppy" Herbert once uttered deep within the hallowed crypts (of our internal Discord server) that there were too many good entries and not enough votes to go around. For thousands of years (approximately eleven seconds, we counted) did he contemplate, before deciding to invoke his coveted power of *The Pick*, and select his favorite entries to join our finalists on the main menu anyway. We've since discovered that if you gave him triple the number of ordinary votes, he'd still run out of them somehow.
+Long ago before time was counted, the Dean "peppy" Herbert once uttered deep within the hallowed crypts (of our internal Discord server) that there were too many good entries and not enough votes to go around. For thousands of years (approximately eleven seconds, we counted) did he contemplate, before deciding to invoke his coveted power of *The Pick*, and select his favourite entries to join our finalists on the main menu anyway. We've since discovered that if you gave him triple the number of ordinary votes, he'd still run out of them somehow.
 
 Thus, the Picks were born. And now, we all benefit.
 
