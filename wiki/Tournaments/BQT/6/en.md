@@ -103,7 +103,9 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Mappools
 
-### Quarterfinals
+### Semi Finals
+
+### Quarter Finals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1CIKuOYMVF8Oip6in5ofT7xrz6HdIHYY8?usp=drive_link)**
 
@@ -207,6 +209,18 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
   
 
 ## Match results
+
+### Quarter Finals
+
+Saturday, 21 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+
+Sunday, 22 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 
 ### Round of 16
 
