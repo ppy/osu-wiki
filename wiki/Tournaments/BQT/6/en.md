@@ -137,7 +137,7 @@ This competition has ended and resulted in the following podium:
 - HardRock
   1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[coco's Expert\]](https://osu.ppy.sh/beatmapsets/902425#osu/2034145)
   2. [ginkiha - EOS (Cytusine) \[Extra\]](https://osu.ppy.sh/beatmapsets/1754349#osu/3590175)
-  3. [tarolabo - eth ken (DeviousPanda) \[zetera's insane\]](https://osu.ppy.sh/beatmapsets/1765453#osu/3646485)1569814#osu/4040094)
+  3. [tarolabo - eth ken (DeviousPanda) \[zetera's insane\]](https://osu.ppy.sh/beatmapsets/1765453#osu/3646485)
 - DoubleTime
   1. [Gakuen Seikatsu-bu - Friend Shitai (Doormat) \[Cloud's Insane\]](https://osu.ppy.sh/beatmapsets/368566#osu/833485)
   2. [orangentle - HAELEQUIN (Gamu) \[alacat's Light Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/667843)
