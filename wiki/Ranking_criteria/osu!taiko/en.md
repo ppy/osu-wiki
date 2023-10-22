@@ -32,7 +32,7 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - **Snapping:** Timeline tick where an object is placed.
 - **Variable snapping:** A combination of multiple different ways to snap notes within a short span of time due to the song's fluctuating nature at that point.
 - **Slider velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Smooth slider velocity changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
+- **Smooth slider velocity changes:** A mechanic that enables gradual transition between two different slider velocities. Transition notes with varying slider velocities are used to achieve this effect.
 - **Improvisation:** Having more notes than the actual song is providing.
 - **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
 
