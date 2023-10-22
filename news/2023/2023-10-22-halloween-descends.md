@@ -24,7 +24,7 @@ Speaking of charms, the 4th time is it for mocapixel, who earns their first top-
 
 [![](https://assets.ppy.sh/contests/186/banners/P4ndemonium.jpg)](https://assets.ppy.sh/contests/186/winners/P4ndemonium.png)
 
-[**P4ndemonium**](https://osu.ppy.sh/users/6639059)'s devilish pippi tricked  **2152** voters into yielding their precious stars! Complete with holographic graffiti sporting mode motifs and more, this bewinged mascot was clearly going places: specifically straight to second. Could this be the beginning of a new Project Loved costume for our most beloved mascot? Because that sure is a lot of hearts she's stolen...
+[**P4ndemonium**](https://osu.ppy.sh/users/6639059)'s devilish pippi tricked **2152** voters into yielding their precious stars! Complete with holographic graffiti sporting mode motifs and more, this bewinged mascot was clearly going places: specifically straight to second. Could this be the beginning of a new Project Loved costume for our most beloved mascot? Because that sure is a lot of hearts she's stolen...
 
 [![](https://assets.ppy.sh/contests/186/banners/tehfire.jpg)](https://assets.ppy.sh/contests/186/winners/tehfire.png)
 
@@ -76,7 +76,7 @@ Decoration is the name of the game in [**Triantafyllia**](https://osu.ppy.sh/use
 
 [![](https://assets.ppy.sh/contests/186/banners/AyoLie.jpg)](https://assets.ppy.sh/contests/186/winners/AyoLie.png)
 
-UHHHHHH BRANES. [**AyoLie**](https://osu.ppy.sh/users/29186645) DREW ZOMBIE PIPPI. ZOMBIE MOCHA TOO. UUUURRRRRR. **1115** VOTERS LIKE VERY MUCH. BRAAAAANES.  Also, a cute Chirou's chilling too. We're not entirely sure if she's a disembodied head or not, but we're going to pretend she is, because you know, Halloween. Wonderful piece!
+UHHHHHH BRANES. [**AyoLie**](https://osu.ppy.sh/users/29186645) DREW ZOMBIE PIPPI. ZOMBIE MOCHA TOO. UUUURRRRRR. **1115** VOTERS LIKE VERY MUCH. BRAAAAANES. Also, a cute Chirou's chilling too. We're not entirely sure if she's a disembodied head or not, but we're going to pretend she is, because you know, Halloween. Wonderful piece!
 
 [![](https://assets.ppy.sh/contests/186/banners/Haru34_old.jpg)](https://assets.ppy.sh/contests/186/winners/Haru34_old.png)
 
