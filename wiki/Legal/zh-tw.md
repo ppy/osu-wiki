@@ -6,3 +6,4 @@
 - [osu! 音樂授權](Music_licensing)
 - [osu! 隱私政策](Privacy)
 - [osu! 服務條款](Terms)
+- [SCTL](SCTL)
