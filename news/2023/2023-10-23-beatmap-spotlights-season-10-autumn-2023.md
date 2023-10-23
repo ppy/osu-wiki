@@ -18,7 +18,7 @@ If you still don't have any idea about what this *Beatmap Spotlights* thing coul
 
 To participate in the Beatmap Spotlights, go grab yourself the latest version of the osu!(lazer) client from this [download page](https://osu.ppy.sh/home/download).
 
-Once you're done installing and logging into your account, head on over to the `playlists` tab in the `play` section and find the Spotlights lobbies, denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner. 
+Once you're done installing and logging into your account, head on over to the `playlists` tab in the `play` section and find the Spotlights lobbies, denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner.
 
 Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — and it'll be whatever game mode you played last on osu!(lazer) by default.
 
@@ -40,12 +40,34 @@ A big thanks for each of you that put a hand up to help with selecting those!
 
 ### osu!
 
+After a long and fierce battle, osu! ended up with a tie. Therefore, we've got two winners for this particular vote!
+
+![](/wiki/shared/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023/7380.jpg)
+
+**[Caramell - Caramelldansen (Speedycake Remix) [LESJUH DIFFICULTY]](https://osu.ppy.sh/beatmapsets/7380#osu/43423)**, mapped by [Lesjuh](https://osu.ppy.sh/users/44308)\
+*primarily suggested by [Zelq](https://osu.ppy.sh/users/8953955)*\
+*described by [Venix](https://osu.ppy.sh/users/5999631)*\
+*amazing lyrics provided by courtesy of [Ephemeral](https://osu.ppy.sh/users/102335)*
+
+Did somebody mention the word *nostalgic*? Couldn't go further than this one certain LESJUH DIFFICULTY.
+
+Despite it's technically perceived age, Lesjuh's creation aged like wine and remains vital, hooking, and a significant achievement both gameplay- and mapping-wise with its timeless flow and rhythm usage, all coalescing into a drowning and challenging experience.
+
+13 years down the line, one couldn't tell it's really *that old* if not for the *eccentric* song choice, taking us straight to a different era. Let's all dance together to the rhythm of Caramelldansen!
+
+*I wonder, are you ready to join us now*\
+*Hands in the air we will show you how*\
+*Come and try, Lesjuh will be your guide*\
+*So come and move your hips sing oh-wa-ah-ah*\
+*Look at Spotlights clips do it la la la*\
+*You and me can play this classic beat*
+
 ![](/wiki/shared/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023/29691.jpg)
 
 **[Hatsune Miku - With a Dance Number [0108 style]](https://osu.ppy.sh/beatmapsets/29691#osu/98415)**, mapped by [val0108](https://osu.ppy.sh/users/243917)\
 *primarily suggested and described by [Nowaie](https://osu.ppy.sh/users/5428909)*
 
-This absolute classic may not be the most stellar piece of mapping execution-wise these days but the fun aspects of the map still hit a relatively strong home run after 12 years. 
+This absolute classic may not be the most stellar piece of mapping execution-wise these days but the fun aspects of the map still hit a relatively strong home run after 12 years.
 
 Handling the speed of the guitar solos and Miku spitting some bars may still not be for the faint of heart but val0108's distinct mapping style still manages to make this challenge a fun ride for any player at any skill level. This map is jam-packed with alternating patterns and crazy sliders while being as approachable as possible. So take a stroll down the memory lanes and have some fun, with a dance number.
 
@@ -57,7 +79,7 @@ Handling the speed of the guitar solos and Miku spitting some bars may still not
 *primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
 *described by [meiqth](https://osu.ppy.sh/users/12565402)*
 
-This season, our players decided to nominate BlackBN's simple mapping of *Camellia feat. Nanahira - POLKAMANIA* as their favourite. 
+This season, our players decided to nominate BlackBN's simple mapping of *Camellia feat. Nanahira - POLKAMANIA* as their favourite.
 
 When the harder difficulties on this set prove too difficult with their interpretation of the song's complex rhythm, this Muzukashii provides a light at the end of the tunnel by keeping all the song has to offer at a manageable difficulty for our learning players. Finding a solid balance between uncommon rhythm and the players' intuition, this map follows the song's offbeat and varying rhythms in a sense that'll give a fun and unique playing experience to an inexperienced player!
 
@@ -68,7 +90,7 @@ When the harder difficulties on this set prove too difficult with their interpre
 **[Halozy - Genryuu Kaiko [Distorted Scythe]](https://osu.ppy.sh/beatmapsets/253969#fruits/582801)**, mapped by [CLSW](https://osu.ppy.sh/users/531253)\
 *primarily suggested and described by [SadEgg](https://osu.ppy.sh/users/10278243)*
 
-Truly a spectacle of a map, *Genryuu Kaiko* comes to mind to many as one of the many greats of osu!catch. Whether you're a rookie or a fruit catching veteran, you've probably heard about this map before. 8 years after its original release, this map has become a staple among profiles past and present and for the advancement of catch mapping overall. Whether it be streams, anti-flow, wiggles, or hyper chains, this map has it all without making it seem too out of place. Every section flows as smooth as water dripping off of a distorted scythe. 
+Truly a spectacle of a map, *Genryuu Kaiko* comes to mind to many as one of the many greats of osu!catch. Whether you're a rookie or a fruit catching veteran, you've probably heard about this map before. 8 years after its original release, this map has become a staple among profiles past and present and for the advancement of catch mapping overall. Whether it be streams, anti-flow, wiggles, or hyper chains, this map has it all without making it seem too out of place. Every section flows as smooth as water dripping off of a distorted scythe.
 
 Boasting the history of catch over its shoulders such as the catch pp record multiple times, CLSW created a fruitful masterpiece that this game mode has come to love and enjoy.
 
@@ -83,7 +105,7 @@ Boasting the history of catch over its shoulders such as the catch pp record mul
 
 This map could be considered the cornerstone of some modern jumpstream maps within the osu!mania community itself. It features intense jumptrills and smooth jumpstreams for a very well rounded experience!
 
-Even after a whopping 8 years of this map being submitted, it's still played and loved by many, seen as a comfort map to return to when the grind becomes exhausting. If you haven't played such an iconic map yet, I encourage you to go ahead and play a piece of osu!mania's history! 
+Even after a whopping 8 years of this map being submitted, it's still played and loved by many, seen as a comfort map to return to when the grind becomes exhausting. If you haven't played such an iconic map yet, I encourage you to go ahead and play a piece of osu!mania's history!
 
 ### Full Players' Pick voting results
 
