@@ -126,7 +126,7 @@ The percentage values may vary a little depending on the game mode and/or partic
 
 The Rhythm Incarnate tier threshold is picked manually based on the season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
-## Spring Season 2023 first playlists
+## Autumn Season 2023 first playlists
 
 ### osu!
 
