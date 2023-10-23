@@ -32,7 +32,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/2078554#os
 
 ### Will Stetson - Koala
 
-Or try mapping [the VOCALOID version](https://assets.ppy.sh/artists/385/Koala/Will%20Stetson%20-%20Koala%20(Self%20Cover).oszs)!
+Or try mapping [the VOCALOID version](https://assets.ppy.sh/artists/385/Koala/Will%20Stetson%20-%20Koala.osz)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/385/Koala/Will Stetson - Koala.mp3">
