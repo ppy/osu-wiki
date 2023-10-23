@@ -39,7 +39,7 @@
 | Integer | Довжина стиснутих даних повтору в байтах |
 | Byte Array | Стиснуті дані повтору |
 | Long | ID онлайн-скору |
-| Double | Додаткова інформація про моди. Наявна тільки якщо [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) активовано. |
+| Double | Додаткова інформація про моди. Наявна тільки якщо мод [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) активован. |
 
 **Додаткова інформація про моди:**
 
