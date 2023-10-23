@@ -205,9 +205,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1iih6qvAYpCakmdZcnFoB_XGxBm4WDBYNNeo-81PcKGc?rm=minimal).
 
 | Seed | Country | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
-| :-: | :-- | :-- | :-- |
+| :-: | :-- | --: | --: |
 | #1 | ::{ flag=KR }:: South Korea | 10.341 | 3,459,368 |
-| #2 | ::{ flag=PL }:: Poland | 10.33 | 3,461,296 |
+| #2 | ::{ flag=PL }:: Poland | 10.330 | 3,461,296 |
 | #3 | ::{ flag=US }:: United States | 10.166 | 3,394,857 |
 | #4 | ::{ flag=RU }:: Russian Federation | 9.552 | 3,201,004 |
 | #5 | ::{ flag=PH }:: Philippines | 9.416 | 3,159,424 |
@@ -237,21 +237,21 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #29 | ::{ flag=NL }:: Netherlands | 6.621 | 2,201,197 |
 | #30 | ::{ flag=TH }:: Thailand | 6.565 | 2,193,178 |
 | #31 | ::{ flag=AR }:: Argentina | 6.309 | 2,140,036 |
-| #32 | ::{ flag=KZ }:: Kazakhstan | 6.14 | 2,086,765 |
+| #32 | ::{ flag=KZ }:: Kazakhstan | 6.140 | 2,086,765 |
 | #33 | ::{ flag=MY }:: Malaysia | 6.031 | 2,041,506 |
-| #34 | ::{ flag=IL }:: Israel | 5.79 | 1,930,594 |
+| #34 | ::{ flag=IL }:: Israel | 5.790 | 1,930,594 |
 | #35 | ::{ flag=DK }:: Denmark | 5.764 | 1,923,570 |
 | #36 | ::{ flag=HU }:: Hungary | 5.618 | 1,906,952 |
 | #37 | ::{ flag=BE }:: Belgium | 5.584 | 1,880,677 |
 | #38 | ::{ flag=UY }:: Uruguay | 5.515 | 1,873,738 |
 | #39 | ::{ flag=PT }:: Portugal | 5.495 | 1,855,838 |
 | #40 | ::{ flag=BY }:: Belarus | 5.431 | 1,807,011 |
-| #41 | ::{ flag=EE }:: Estonia | 5.18 | 1,744,546 |
+| #41 | ::{ flag=EE }:: Estonia | 5.180 | 1,744,546 |
 | #42 | ::{ flag=VN }:: Vietnam | 5.169 | 1,745,088 |
 | #43 | ::{ flag=AT }:: Austria | 5.155 | 1,742,198 |
 | #44 | ::{ flag=CZ }:: Czechia | 5.074 | 1,729,518 |
 | #45 | ::{ flag=SA }:: Saudi Arabia | 4.967 | 1,668,352 |
-| #46 | ::{ flag=LV }:: Latvia | 4.94 | 1,655,513 |
+| #46 | ::{ flag=LV }:: Latvia | 4.940 | 1,655,513 |
 | #47 | ::{ flag=LT }:: Lithuania | 4.558 | 1,537,059 |
 | #48 | ::{ flag=KH }:: Cambodia | 4.166 | 1,432,747 |
 | #49 | ::{ flag=AE }:: United Arab Emirates | 4.101 | 1,420,705 |
@@ -261,8 +261,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #53 | ::{ flag=SK }:: Slovakia | 3.362 | 1,114,713 |
 | #54 | ::{ flag=ZA }:: South Africa | 3.349 | 1,141,540 |
 | #55 | ::{ flag=CH }:: Switzerland | 3.199 | 1,068,495 |
-| #56 | ::{ flag=HR }:: Croatia | 2.892 | 0,969,311 |
-| #57 | ::{ flag=IN }:: India | 2.69 | 0,892,297 |
+| #56 | ::{ flag=HR }:: Croatia | 2.892 | 969,311 |
+| #57 | ::{ flag=IN }:: India | 2.690 | 892,297 |
 
 ## Ruleset
 
