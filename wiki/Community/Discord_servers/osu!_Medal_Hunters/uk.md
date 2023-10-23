@@ -2,6 +2,8 @@
 tags:
   - medals
   - medal hunting
+  - медалі
+  - полювання за медалями
 ---
 
 # Discord-сервер osu! Medal Hunters
