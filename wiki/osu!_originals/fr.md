@@ -311,11 +311,11 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [Sparxe vs. takehirotei - Cosmic Fragmentation](https://soundcloud.com/sparxenic/sparxe-vs-takehirotei-cosmic-fragmentation) | [#1](https://osu.ppy.sh/beatmapsets/2027811) | Tiebreaker des Grandes Finales |
 
-#### ![](/wiki/shared/mode/taiko.png) Advanced Global Taiko Showdown 2023
+#### ![](/wiki/shared/mode/osu.png) Aim Cup 3
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Sparxe vs. takehirotei - Cosmic Fragmentation](https://soundcloud.com/sparxenic/sparxe-vs-takehirotei-cosmic-fragmentation) | [#1](https://osu.ppy.sh/beatmapsets/2027811) | Tiebreaker des Grandes Finales |
+| [Sydosys - VANISH](https://soundcloud.com/sydosys/vanish) | [#1](https://osu.ppy.sh/beatmapsets/2066413) | Tiebreaker des Grandes Finales |
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) AMG 2022 x #RHYTHMGAMES CFC osu! & osu!catch tournament
 
