@@ -67,9 +67,9 @@
 1. 打开 osu!
 2. 打开设置侧栏。
 3. 加载你的皮肤。
-4. 点击 `Export as .osk`。
-5. From there osu! will open a window for your exported skin.
-6. Take the `.osk` file with your skin's name and upload it
+4. 点击 `导出 .osk`。
+5. 在此之后，osu! 会打开新窗口，显示导出的皮肤文件。
+6. 将 `.osk` 文件重命名为你的皮肤名，然后上传。
 7. 现在就可以分享了！
 
 ### 可以在皮肤子论坛里发布混合版皮肤吗？
@@ -137,9 +137,9 @@ osu! gameplay
 
 ### v1.0 和 v2.0+ 是什么？
 
-Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/Skinning/skin.ini#版本).
+Skin v1.0 是早期皮肤样式，从启动游戏的皮肤支持开始，到 2013 年 3 月一直在使用。在此之后，skin v2.0 发布，带来了一批全新的皮肤元素，也进行了一些改动。若要浏览皮肤更新日志，请见[skin.ini 文章的版本小节](/wiki/Skinning/skin.ini#版本)。
 
-It may not seem important to denote which version to use, but understand that some older features may not be available in the latest version of skinning and vice versa.
+版本的选择也许看起来不太重要，但要明白，旧版皮肤的某些功能可能在最新版本皮肤中不可用，反之亦然。
 
 ## 音频
 
@@ -151,7 +151,7 @@ osu! 所使用的声音格式层次结构如下：
 2. `.mp3`
 3. `.ogg`
 
-基本上，osu! 会优先使用 `.wav` 文件。因为与 `.mp3` 和 `.ogg` 文件相比，`.wav` 文件更适合用于循环播放短时长的声音。
+osu! 基本会优先使用 `.wav` 文件，因为与 `.mp3` 和 `.ogg` 文件相比，`.wav` 文件更适合用于循环播放短时长的声音。
 
 ## 图像
 
@@ -159,78 +159,78 @@ osu! 所使用的声音格式层次结构如下：
 
 大多数情况下，图像必须使用 `.png` 格式，但 `menu-background.jpg` 元素必须使用 `.jpg` 格式。
 
-In addition to using the `.png` format, you should:
+除了要使用 `.png` 格式外，你还应该：
 
-- Trim or crop your images whenever possible. The osu!client will render every pixel of an image which will result in a bigger workload!
-  - Do note, however, that some transparency in certain sections of an image is required to properly align specific elements.
-- Compress images whenever possible. Compressing usually removes unnecessary info about blank pixels and reduces the file sizes dramatically.
+- 尽可能优化或裁剪图像。osu! 客户端会渲染图像的每个像素，图像较大会增大工作负载！
+  - 但请注意，图像的一定区域需要使用透明像素，来与特定元素正确对齐。
+- 尽可能压缩图像。压缩过程通常会除去透明像素相关的不必要信息，明显减小文件大小。
 
 ### 什么是覆盖层？
 
-Overlays are elements that will be placed on top of another element (the same element name but without the `overlay` or `-overlay` suffix). These are a bit special in that they will not be coloured or tinted. However, only a small handful of elements are given an overlay (they can be found in the skin elements lists).
+覆盖层指的是置于其他元素（元素名相同，但没有 `overlay` 或 `-overlay` 后缀）上层的元素。一点特别之处在于，覆盖层不会着色。但只有少数元素有覆盖层（可在皮肤元素列表中找到）。
 
 ### 应该基于哪种分辨率制作皮肤？
 
-Since osu! can be played using different window resolutions, some skinning elements may either overlap or be placed farther apart than anticipated. This means that not all elements will stretch or scale themselves to fit the game window resolution.
+由于可以使用不同的窗口分辨率游玩 osu!，某些皮肤元素与理想情况相比可能会重叠，也可能距离变大。这意味着并非所有元素都会拉伸、缩放以契合游戏窗口的分辨率。
 
-It is best to keep the following resolutions in mind while skinning.
+在制作皮肤时，最好留意以下分辨率。
 
-- 1024x768 (4:3, standard game resolution, the game is based on it)
-- 2048x1536 (4:3, standard game resolution in HD scaling)
-- 1366x768 (16:9, standard game widescreen resolution)
-- 2732x1536 (16:9, standard game widescreen resolution in HD scaling)
-- 1920x1080 (16:9, standard HD resolution)
+- 1024x768（4:3，标准游戏分辨率，游戏基于此分辨率设计）
+- 2048x1536（4:3，HD 缩放下的标准游戏分辨率）
+- 1366x768（16:9，标准宽屏游戏分辨率）
+- 2732x1536（16:9，HD 缩放下的标准宽屏游戏分辨率）
+- 1920x1080（16:9，标准 HD 分辨率）
 
-Images will be adjusted by the game itself to fit resolutions derivating from the ones mentioned above. Most of them will be rescaled to fit the playfield or repositioned on different aspect ratios.
+如果分辨率与上文列出的都不符，游戏则会调整图像，以契合分辨率。大多数元素会为了契合游玩区域而重新缩放，也会以不同的宽高比重新调整位置。
 
 ### HD 图像
 
-HD images are used in place of the normal images on higher resolutions, when present. Compared to normal images, HD images look much sharper and cleaner on these larger resolutions. They get scaled by the game automatically to fit the resolution used. **Resolutions supporting HD images begin at a minimum of 800 pixels in height**. HD images are tagged with the `@2x` suffix in their file names. For example: `cursor@2x.png`.
+当存在时，HD 图像用来在较高分辨率下取代常规图像。与常规图像相比，HD 图像在较高分辨率下看起来更锐利清晰。游戏会根据所用分辨率自动缩放这些图像。**支持 HD 图像的分辨率，其高度至少为 800 像素**。HD 图像的文件名带有 `@2x` 后缀标记。比如：`cursor@2x.png`。
 
-HD images have doubled dimension sizes. For example: the normal `hitcircle.png` sprite has the dimension sizes of 128x128 pixels. Thus, its HD sprite, `hitcircle@2x.png`, would have the dimension sizes of 256x256 pixels.
+HD 图像在尺寸上是加倍的。比如：常规的 `hitcircle.png` 精灵图尺寸为 128x128 像素。因此其 HD 精灵图 `hitcircle@2x.png` 的尺寸将是 256x256 像素。
 
-Every sprite has an HD counterpart, even all frames in an animation can have HD counterparts. As a result, the filesize of the folder or archive will increase due to having more images than normal.
+每个精灵图都可以有 HD 副本，甚至所有动画帧都是如此。由于图像数量比常规情况下更多，文件夹或压缩文件的大小会因此增加。
 
-All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes osu! is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
+事实上与常规精灵图相比，HD 图像的画布尺寸要大 4 倍，因此其文件大小可能也会更大。osu! 基本使用的分辨率模式共有两种，每种模式各偏好使用一种图像。两种模式分别是 *LowResolution* 和 *HighResolution*。
 
-- LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
-- HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)
+- LowResolution 模式使用常规图像，忽略 HD 图像（也被称作 SD 分辨率皮肤）。
+- HighResolution 模式优先使用 HD 图像。如果 HD 图像不可用，则使用常规图像作为备选项（也被称作 HD 分辨率皮肤）。
 
 ### 结算屏幕打击结果层次结构
 
-The ranking screen preferences the static version of skinning elements over the animationed ones. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
+与动画元素相比，结算屏幕优先使用静态皮肤元素。也就是说，如果一个元素同时存在动画与静态两个版本，则层次结构如下：
 
 1. 静态图像。
 2. 动画的第零帧。
 3. 默认图像。
 
-However, the osu!mania ranking screen is an exception to this. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
+然而，osu!mania 的结算屏幕是例外。也就是说，如果一个元素同时存在动画与静态两个版本，则层次结构如下：
 
 1. 皮肤根目录中动画的第零帧。
 2. 皮肤根目录中的静态图像。
 3. 默认图像。
 
-*Notice: In osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
+*注：在 osu!mania 中，osu! 会忽略 `skin.ini` 文件中指定的路径，只会使用根目录（加载皮肤元素的文件夹）中的图像。*
 
 ## 动画
 
 ### 如何给元素添加动画？
 
-First, check the elements listing to see if the element you want to animate can actually be animated. If it can, then you can begin animating it. To do this, you will need to have each frame of the animation be separate images. When this is done, name each frame the element name, followed by a hyphen (`-`), then a an index count (starting at 0). Repeat this for the rest of the frames.
+首先查阅元素列表，看看目标元素能不能使用动画。如果可以的话，你就可以开始制作动画了。为此，你需要让动画的每一帧各对应一个静态图像。在此之后，将每一帧的名称改为元素名，后加连字符（`-`），然后带上序号（从 0 开始）。其余帧方法同上。
 
-For example, if you are trying to animate `scorebar-colour.png`, name the first frame `scorebar-colour-0.png`, then the second one `scorebar-colour-1.png`, then the third one `scorebar-colour-2.png`, and repeat for the rest.
+比如，如果你想给 `scorebar-colour.png` 添加动画，就要将第一帧命名为 `scorebar-colour-0.png`，第二帧是 `scorebar-colour-1.png`，然后第三帧是 `scorebar-colour-2.png`，以此类推。
 
-*Note: Not all elements have a hyphen (`-`) between the name and the frame number. Check the elements listing for animation names.*
+*注：并非所有元素的名称与帧叙述间都有连字符（`-`）。对于动画名称，请查阅元素列表。*
 
-The animation frame rates for each element are inconsistent. Some use a value defined in the skin.ini file, some use the client's defined value, while others are based on the BPM (beats per minute) of the beatmap. Due to this, animating skinning elements is trial-and-error (see the next section for methods on solving this).
+各个元素动画的帧率不一致。一些元素用的是 skin.ini 文件中定义的数值，有些用的是客户端定义的值，而其余的基于谱面的 BPM（每分钟拍数）。因此，给皮肤元素添加动画是个反复试错的过程（对于解决此问题的方法，参见下一节）。
 
 ### 动画速度太快/太慢了，该如何修复？
 
 当你的动画速度太快或太慢时，有两种方式可以修复：
 
 1. 如果动画速度太快，可以将总帧数加倍（如果速度太慢，可以将其减半）
-   - 比如，e.g. frame 0 and 1 are the same picture (so picture will last 2 frames), frame 2 and 3 are second picture, etc.
-   - This will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow.
+   - 比如，使第零帧与第一帧显示相同图像（这样此图像会持续显示 2 帧），第二帧与第三帧显示第二张图像，以此类推。
+   - 这种方法会让动画稍微变慢（或变快）；但动画的播放速度仍然一致，也就意味着即使你调整了一个动画的速度，可能有别的动画速度仍然偏快（偏慢）。
 2. 使用 `skin.ini` 中的 `AnimationFramerate` 参数。
    - 这个参数影响所有动画，但某些动画除外（比如 `pippidon`、`hitcircleoverlay`）。
 
