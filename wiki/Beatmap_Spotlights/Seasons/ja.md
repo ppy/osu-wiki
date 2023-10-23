@@ -17,4 +17,3 @@ tags:
 - [Winter 2023](2023_Winter)
 - [Spring 2023](2023_Spring)
 - [Autumn 2023](2023_Autumn)
-
