@@ -44,7 +44,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | 圖池篩選 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | 圖池品管 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 圖池測試 | ::{ flag=CZ }:: [Avenito](https://osu.ppy.sh/users/7415910), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=BR }:: [Mystia](https://osu.ppy.sh/users/4277702), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) |
-| 譜面師 | ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| 譜面師 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 賽評 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{flag=CA}:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{flag=GB}:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{flag=AU}:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | 裁判 | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | 統計 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -122,7 +122,61 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 完整報名名單可以查看 [這裡](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
+## 賽程： 32 強
+
+### 2023 年 10 月 28 日, 星期六
+
+| A 隊 | B 隊 | 比賽時間 | 直播 |
+| --: | :-- | :-- | :-: |
+| 印尼 ::{ flag=ID }:: | ::{ flag=UA }:: 烏克蘭 | [10/28 (六) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T100000&p1=1440&p2=108&p3=367) | [osulive](https://twitch.tv/osulive) |
+| 香港 ::{ flag=HK }:: | ::{ flag=FI }:: 芬蘭 | [10/28 (六) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T110000&p1=1440&p2=102&p3=101) | [osulive](https://twitch.tv/osulive) |
+| 澳洲 ::{ flag=AU }:: | ::{ flag=TW }:: 臺灣 | [10/28 (六) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T120000&p1=1440&p2=57&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 中國 ::{ flag=CN }:: | ::{ flag=JP }:: 日本 | [10/28 (六) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T130000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) |
+| 俄羅斯 ::{ flag=RU }:: | ::{ flag=NL }:: 荷蘭 | [10/28 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T140000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) |
+| 英國 ::{ flag=GB }:: | ::{ flag=TR }:: 土耳其 | [10/28 (六) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T150000&p1=1440&p2=136&p3=19) | [osulive](https://twitch.tv/osulive) |
+| 菲律賓 ::{ flag=PH }:: | ::{ flag=MX }:: 墨西哥 | [10/28 (六) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T160000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
+| 波蘭 ::{ flag=PL }:: | ::{ flag=AR }:: 阿根廷 | [10/28 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
+| 法國 ::{ flag=FR }:: | ::{ flag=BR }:: 巴西 | [10/28 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
+
+### 2023 年 10 月 29 日, 星期日
+
+| A 隊 | B 隊 | 比賽時間 | 直播 |
+| --: | :-- | :-- | :-: |
+| 美國 ::{ flag=US }:: | ::{ flag=TH }:: 泰國 | [10/29 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T040000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
+| 義大利 ::{ flag=IT }:: | ::{ flag=NZ }:: 紐西蘭 | [10/29 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
+| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SG }:: 新加坡 | [10/29 (日) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T110000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
+| 韓國 ::{ flag=KR }:: | ::{ flag=KZ }:: 哈薩克 | [10/29 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
+| 德國 ::{ flag=DE }:: | ::{ flag=ES }:: 西班牙　| [10/29 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T160000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=NO }:: 挪威 | [10/29 (日) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T170000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
+| 智利 ::{ flag=CL }:: | ::{ flag=SE }:: 瑞典 | [10/29 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
+
 ## 圖池
+
+### 32 強
+
+**[圖池懶人包 (161 MB)](https://packs.ppy.sh/P226%20-%20osu%21%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
+
+- No Mod
+  1. [Kominami Yasuha - 3355411 (Arsalan) \[1122411\]](https://osu.ppy.sh/beatmapsets/2078743#osu/4352819)
+  2. [Camellia - R U Still xxxx? (riot1133) \[planetary decomposition\]](https://osu.ppy.sh/beatmapsets/2078745#osu/4352824)
+  3. [frederic - Junkie (elicz1) \[Addiction\]](https://osu.ppy.sh/beatmapsets/2078299#osu/4351786)
+  4. [Mitsukiyo - Rolling Beat (too) \[osu!ph Collab Expert\]](https://osu.ppy.sh/beatmapsets/1367155#osu/3332588)
+- Hidden
+  1. [cygnus - Darkness Parade (KnightC0re) \[Dogura Magura\]](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
+  2. [Will Stetson - KOALA (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/2078554#osu/4352324)
+- Hard Rock
+  1. [Akitsuki Fuuka CV:Lynn - Fair wind (Zero\_wind) \[cRyo&xsrs's Extreme\]](https://osu.ppy.sh/beatmapsets/587541#osu/1414172)
+  2. [Silentroom - Nhelv (Monarch) \[Extra\]](https://osu.ppy.sh/beatmapsets/731259#osu/2020374)
+- Double Time
+  1. [senya - Koborezu no Negaigoto (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/2078730#osu/4352790)
+  2. [TWOFIVE - Unlimited R (Dada) \[Genocide Cutter\]](https://osu.ppy.sh/beatmapsets/1867027#osu/3840580)
+  3. [Enter Shikari - Wall (Hectic) \[piroshki's Insane\]](https://osu.ppy.sh/beatmapsets/1012220#osu/2149694)
+- Free Mod
+  1. [storyteller(cosMo x GAiA) feat. IA, Kagamine Rin - Anti the EuphoriaHOLiC (SaltyLucario) \[Extreme\]](https://osu.ppy.sh/beatmapsets/546102#osu/2583501)
+  2. [Sore - Setengah Lima (ScubDomino) \[Sudirman, 1998.\]](https://osu.ppy.sh/beatmapsets/2078335#osu/4351866)
+  3. [ALI - Dance You, Matilda (Mordred) \[Tonight I Dance to You\]](https://osu.ppy.sh/beatmapsets/2078757#osu/4352856)
+- Tiebreaker
+  1. **[Lulickma & Loctek - 21st (Megafan) \[10101\]](https://osu.ppy.sh/beatmapsets/1525478#osu/3121101)**
 
 ### 預選賽
 
@@ -144,12 +198,78 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
   2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
+## 比賽結果
+
+### 預選賽
+
+預選賽的最終排名如下 [表格](https://docs.google.com/spreadsheets/d/1iih6qvAYpCakmdZcnFoB_XGxBm4WDBYNNeo-81PcKGc?rm=minimal).
+
+| 排名 | 國家 | %MAX 總分[^qualifiers-seeding] | 平均分數[^qualifiers-tiebreaker] |
+| :-: | :-- | --: | --: |
+| #1 | ::{ flag=KR }:: 韓國 | 10.341 | 3,459,368 |
+| #2 | ::{ flag=PL }:: 波蘭 | 10.330 | 3,461,296 |
+| #3 | ::{ flag=US }:: 美國 | 10.166 | 3,394,857 |
+| #4 | ::{ flag=RU }:: 俄羅斯 | 9.552 | 3,201,004 |
+| #5 | ::{ flag=PH }:: 菲律賓 | 9.416 | 3,159,424 |
+| #6 | ::{ flag=DE }:: 德國 | 9.386 | 3,145,592 |
+| #7 | ::{ flag=AU }:: 澳洲 | 9.272 | 3,130,240 |
+| #8 | ::{ flag=GB }:: 英國 | 8.936 | 2,958,103 |
+| #9 | ::{ flag=ID }:: 印尼 | 8.916 | 2,981,512 |
+| #10 | ::{ flag=CL }:: 智利 | 8.721 | 2,938,185 |
+| #11 | ::{ flag=CA }:: 加拿大 | 8.635 | 2,900,683 |
+| #12 | ::{ flag=RO }:: 羅馬尼亞 | 8.496 | 2,851,873 |
+| #13 | ::{ flag=HK }:: 香港 | 8.401 | 2,822,615 |
+| #14 | ::{ flag=IT }:: 義大利 | 8.248 | 2,796,035 |
+| #15 | ::{ flag=FR }:: 法國 | 8.105 | 2,710,515 |
+| #16 | ::{ flag=CN }:: 中國 | 8.048 | 2,677,555 |
+| #17 | ::{ flag=JP }:: 日本 | 7.801 | 2,621,866 |
+| #18 | ::{ flag=BR }:: 巴西 | 7.653 | 2,574,445 |
+| #19 | ::{ flag=NZ }:: 紐西蘭 | 7.599 | 2,558,399 |
+| #20 | ::{ flag=FI }:: 芬蘭 | 7.356 | 2,471,287 |
+| #21 | ::{ flag=SG }:: 新加坡 | 7.303 | 2,432,193 |
+| #22 | ::{ flag=NO }:: 挪威 | 7.193 | 2,403,118 |
+| #23 | ::{ flag=SE }:: 瑞典 | 7.158 | 2,435,093 |
+| #24 | ::{ flag=UA }:: 烏克蘭 | 7.107 | 2,397,044 |
+| #25 | ::{ flag=TR }:: 土耳其 | 6.982 | 2,366,035 |
+| #26 | ::{ flag=TW }:: 臺灣 | 6.837 | 2,318,130 |
+| #27 | ::{ flag=ES }:: 西班牙 | 6.773 | 2,264,142 |
+| #28 | ::{ flag=MX }:: 墨西哥 | 6.656 | 2,237,655 |
+| #29 | ::{ flag=NL }:: 荷蘭 | 6.621 | 2,201,197 |
+| #30 | ::{ flag=TH }:: 泰國 | 6.565 | 2,193,178 |
+| #31 | ::{ flag=AR }:: 阿根廷 | 6.309 | 2,140,036 |
+| #32 | ::{ flag=KZ }:: 哈薩克 | 6.140 | 2,086,765 |
+| #33 | ::{ flag=MY }:: 馬來西亞 | 6.031 | 2,041,506 |
+| #34 | ::{ flag=IL }:: 以色列 | 5.790 | 1,930,594 |
+| #35 | ::{ flag=DK }:: 丹麥 | 5.764 | 1,923,570 |
+| #36 | ::{ flag=HU }:: 匈牙利 | 5.618 | 1,906,952 |
+| #37 | ::{ flag=BE }:: 比利時 | 5.584 | 1,880,677 |
+| #38 | ::{ flag=UY }:: 烏拉圭 | 5.515 | 1,873,738 |
+| #39 | ::{ flag=PT }:: 葡萄牙 | 5.495 | 1,855,838 |
+| #40 | ::{ flag=BY }:: 白俄羅斯 | 5.431 | 1,807,011 |
+| #41 | ::{ flag=EE }:: 愛沙尼亞 | 5.180 | 1,744,546 |
+| #42 | ::{ flag=VN }:: 越南 | 5.169 | 1,745,088 |
+| #43 | ::{ flag=AT }:: 奧地利 | 5.155 | 1,742,198 |
+| #44 | ::{ flag=CZ }:: 捷克 | 5.074 | 1,729,518 |
+| #45 | ::{ flag=SA }:: 沙烏地阿拉伯 | 4.967 | 1,668,352 |
+| #46 | ::{ flag=LV }:: 拉脫維亞 | 4.940 | 1,655,513 |
+| #47 | ::{ flag=LT }:: 立陶宛 | 4.558 | 1,537,059 |
+| #48 | ::{ flag=KH }:: 柬埔寨 | 4.166 | 1,432,747 |
+| #49 | ::{ flag=AE }:: 阿拉伯聯合大公國 | 4.101 | 1,420,705 |
+| #50 | ::{ flag=CO }:: 哥倫比亞 | 4.053 | 1,353,254 |
+| #51 | ::{ flag=MN }:: 蒙古 | 4.003 | 1,359,885 |
+| #52 | ::{ flag=PA }:: 巴拿馬 | 3.398 | 1,145,791 |
+| #53 | ::{ flag=SK }:: 斯洛伐克 | 3.362 | 1,114,713 |
+| #54 | ::{ flag=ZA }:: 南非 | 3.349 | 1,141,540 |
+| #55 | ::{ flag=CH }:: 瑞士 | 3.199 | 1,068,495 |
+| #56 | ::{ flag=HR }:: 克羅埃西亞 | 2.892 | 969,311 |
+| #57 | ::{ flag=IN }:: 印度 | 2.690 | 892,297 |
+
 ## 規則
 
 ### 比賽規則
 
-1. osu! World Cup 由國家為隊伍，以 4 隊 4 進行雙敗淘汰賽，比賽將進行 STD 模式
-   - **如果**玩家所屬的國家或地區 (個人頁面上的國家) 無法派出一定數量的隊員，可以選擇為來自受保護國或主權國家管轄的國家或地區進行比賽，詳細請參閱 [這裡](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories)。
+1. osu! World Cup 由國家為隊伍，以 4 隊 4 進行雙敗淘汰賽，比賽將進行 STD 模式。
+   - **如果**玩家所屬的國家或地區 (個人頁面上的國家) 無法派出一定數量的隊員，可以選擇為來自受保護國或主權國家管轄的國家或地區進行比賽，詳細請參閱 [這裡](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories)。曾代表其他國家參賽的玩家可以上一次的國家報名。
 2. 計分方式採用 ScoreV2 。
 3. 每一支隊伍至少要有 6 個隊員，最多 8 個隊員。
 4. 每一輪的圖池將會在賽程前一個星期日於官方直播公布。
@@ -217,10 +337,10 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 1. 預選賽將會由工作人員提供專用圖池.
 2. 該圖池會有四個部分：No Mod、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、及 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)。預選賽不會有 FreeMod 與 Tiebreaker。
 3. 圖池有 11 張譜面，組成如下：
-   - No Mod: 4 張譜面
-   - Hidden: 2 張譜面
-   - Hard Rock: 2 張譜面
-   - Double Time: 3 張譜面
+   - No Mod： 4 張譜面
+   - Hidden： 2 張譜面
+   - Hard Rock： 2 張譜面
+   - Double Time： 3 張譜面
 4. 每支隊伍會在指定時段內打兩輪圖池，取隊伍整體較高分的成績做為種子排序。
 5. 譜面順序將依照這個頁面上的排序進行。
    - 進行第二輪時，可以跳過任何一張譜面。
@@ -259,8 +379,8 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
      - 裁判會口頭警告該隊伍；此外，裁判可能會當成隊伍使用技術暫停。
      - 若超時 15 秒還未選出譜面時，裁判將按照以下流程進行。
    - 累犯:
-     - 強制選圖: 將會使用 `!roll X` 來進行隨機選圖，X 會是圖池中排除被禁用及選過後剩餘的圖，不包含 Tiebreaker。
-     - 強制開始: 無論房間內有多少選手，裁判將使用 `!mp start 10` 指令，並使用 `!mp kick` 從上到下的順序排除多餘選手 （在房間前四個位置且在正確隊伍位置的選手才予以計分）。結果將照正常方式計算。
+     - 強制選圖： 將會使用 `!roll X` 來進行隨機選圖，X 會是圖池中排除被禁用及選過後剩餘的圖，不包含 Tiebreaker。
+     - 強制開始： 無論房間內有多少選手，裁判將使用 `!mp start 10` 指令，並使用 `!mp kick` 從上到下的順序排除多餘選手 （在房間前四個位置且在正確隊伍位置的選手才予以計分）。結果將照正常方式計算。
      - 累犯者可能會被主辦方進一步懲處。
 6. 若隊伍發生不可抗力因素導致比賽開始前無法湊齊選手，該隊伍有權在比賽進行前補上剩餘選手，但原來的選手名單不可變更（意即僅能加入）。
 7. 每支隊伍有一次 "技術暫停" 可供禁圖、選圖即開始前使用。*非必須*
@@ -278,7 +398,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 5. 失敗的分數給予計分。所以每一張譜面將會強制開啟 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 。
    - 不遵照指示導致整隊失敗的情況，將會判該譜面落敗。
 6. FreeMod 圖池會啟用 "Free Mods"，選手可以選擇需要的 Mod 。
-   - 可選擇的 Mod 為 Hidden、Hard Rock、Hidden+Hard Rock.
+   - 可選擇的 Mod 為 Hidden、Hard Rock、Hidden+Hard Rock。
    - **進行 FreeMod 圖池時、必須要有一個隊員單選 Hidden，與一個隊員選擇 Hard Rock 或 Hidden+Hard Rock。其餘的選手可以不選擇 Mod 。**
 7. Tiebreaker 時會在 FreeMod 的條件下進行，但可以不選擇 Mod 。
 
@@ -287,11 +407,16 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 1. 每一輪的賽程將會在 **一週內** 結束。
 2. 預選賽將由主辦方提供比賽時間表，每一個隊伍可以從該時間表選擇想打的時間。
    - **若沒有在 10 月 19 日 星期四 (23:59 UTC) 之前選擇，將會取消參賽資格。**
-3. 所有比賽會在星期六的 00:00 及星期日 19:00 UTC 之間進行.
+3. 所有比賽會在星期六的 00:00 及星期日 19:00 UTC 之間進行。
 4. 主辦方會負責安排賽程。 賽程將會在該輪第一場比賽之前的星期日公布。比賽時間會盡量配合參賽者的時區安排。
    - 八強賽與之後的比賽，隊伍若有希望的比賽時間或是想避免的時間，隊長可以做為代表通知主辦方。
 5. **若有調整比賽時間的需要，須雙方隊伍已溝通並同意且須在比賽當週的星期三 (23:59 UTC) 之前通知主辦方。**
-   - 每一輪的所有比賽將會在當週 **星期日 (19:00 UTC)** 之前進行完畢。.
+   - 每一輪的所有比賽將會在當週 **星期日 (19:00 UTC)** 之前進行完畢。
    - **若非必要，請不要提出調整比賽時間的請求。主辦方有權拒絕請求。**
    - 若超過申請要求的時間提出，將不被接受。
 6. 隊長須負責隊伍的事務。
+
+## Notes
+
+[^qualifiers-seeding]: 使用主流的種子排序方式
+[^qualifiers-tiebreaker]: 當兩隊同分時採用 Tiebreaker 的分數
