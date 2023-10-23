@@ -26,7 +26,7 @@ Changing game modes is as simple as clicking one of the four mode icons at the t
 
 ### The end of the gimmick era
 
-After some of successful gimmick season runs, we decided that it's time to move on as they became too limiting or challenging to implement for certain game modes. Rather than forcing new and unimaginative themes, we would like to make a return to the good ol' classic three-playlist format filled with great beatmapping creations testing a wide variety of skills and fitting to all kind of nieches.
+After some of successful gimmick season runs, we decided that it's time to move on as they became too limiting or challenging to implement for certain game modes. Rather than forcing new and unimaginative themes, we would like to make a return to the good ol' classic three-playlist format filled with great beatmapping creations testing a wide variety of skills and fitting to all kind of niches.
 
 That being said, we are planning to experiment a little with the shape of Beatmap Spotlights as is, so take this rather as a tactical step back to prepare for a big step forward coming along with the future seasons!
 
