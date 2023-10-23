@@ -20,7 +20,7 @@ outdated_translation: true
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | 非活躍 | - |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **活躍** | - |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **活躍** | 阿拉伯 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **活躍** | 阿拉伯文 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | **活躍** | - |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 非活躍 | 西班牙語 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | 非活躍 | 德語 |
