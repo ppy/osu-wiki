@@ -146,7 +146,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | 義大利 ::{ flag=IT }:: | ::{ flag=NZ }:: 紐西蘭 | [10/29 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SG }:: 新加坡 | [10/29 (日) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T110000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
 | 韓國 ::{ flag=KR }:: | ::{ flag=KZ }:: 哈薩克 | [10/29 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
-| 德國 ::{ flag=DE }:: | ::{ flag=ES }:: 西班牙　| [10/29 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T160000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
+| 德國 ::{ flag=DE }:: | ::{ flag=ES }:: 西班牙 | [10/29 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T160000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 加拿大 ::{ flag=CA }:: | ::{ flag=NO }:: 挪威 | [10/29 (日) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T170000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
 | 智利 ::{ flag=CL }:: | ::{ flag=SE }:: 瑞典 | [10/29 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
 
