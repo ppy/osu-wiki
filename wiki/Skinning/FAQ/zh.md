@@ -6,7 +6,7 @@
 
 ### 自定义皮肤是什么？
 
-自定义皮肤指的是一种简单的图像改变机制，在设置中选中一款皮肤时，osu! 会加载这些图像。组装皮肤很容易，但制作皮肤所需的资源就有些难以实现了。
+自定义皮肤指的是一种简单的图像改变机制，在设置里选中一款皮肤时，osu! 会使用这种机制，加载皮肤中的图像。组装皮肤很容易，但制作皮肤所需的资源就有点困难了。
 
 ### 有人可以制作那个节目或游戏的皮肤吗？
 
@@ -16,21 +16,21 @@
 
 ### 我看到有人用的皮肤，该从哪里获取？
 
-首先，不要在论坛里问这样的问题，否则你的帖子大概率会被删。其次，你最好去找那个人要。他/她可能会给你，但并非总是如此。
+首先，不要在论坛里问这样的问题，否则你的帖子大概率会被删。其次，你最好去找那个人要。那个人可能会给你，但并非总是如此。
 
 ### 可以使用别人皮肤中的自定义元素吗？
 
-是的，你可以使用其他皮肤中的元素，这样的皮肤被称作“混合版皮肤”。然而，**无论是否得到许可，都不允许在皮肤子论坛中发布混合版皮肤！**但你可以写在个性签名或 me! 页面上。
+是的，你可以使用其他皮肤中的元素，制作出的皮肤叫做“混合版皮肤”。然而，**无论是否得到许可，都不允许在皮肤子论坛中发布混合版皮肤！**但你可以把皮肤链接写在个性签名或 me! 页面上。
 
-唯一的例外是声音，因为制作它们通常更难。你可以使用其他皮肤中的声音，即使原作者没有明确许可也行。但如果你去感谢原作者，那也是很好的事情。
+唯一的例外是声音，因为制作它们通常更难。你可以使用其他皮肤中的声音，即使原作者没有明确许可也行。但去感谢原作者的话就很好。
 
-### 皮肤文件夹里应该包含什么？
+### 皮肤文件夹里应该有什么东西？
 
 制作自己的皮肤时，你可以在皮肤文件夹里放任何东西，别的文件夹也可以。osu! 会直接忽略无关文件，这样你就可以在同一文件夹中保存 `.xcf` 或 `.psd` 文件，以便日后编辑需要。
 
-但是，你在发布皮肤时应该删除这类文件，以缩小皮肤文件大小。如果你恰巧在使用模板皮肤，请删掉没有修改的元素，因为 osu! 会自动处理缺失的元素。
+但是，你在发布皮肤时应该删除这类文件，这样可以缩小皮肤文件的大小。如果你恰巧在使用模板皮肤，请删掉没有修改的元素，因为 osu! 会自动处理缺失的元素。
 
-尽管允许放任何东西，但也要注意，`taiko`（区分大小写）文件夹是专门为 osu!taiko 皮肤保留的，会覆盖 osu!taiko 中的所有元素（以及游玩 osu!taiko 谱面时的某些界面元素）。
+尽管文件夹里允许放任何东西，但也要注意，`taiko`（区分大小写）文件夹是专门为 osu!taiko 皮肤保留的，会覆盖 osu!taiko 中的所有元素（以及游玩 osu!taiko 谱面时的某些界面元素）。
 
 ### 如何在 osu! 中重新加载皮肤？
 
@@ -40,11 +40,11 @@
 
 ### 皮肤组列表是什么？
 
-*主页面：[Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
+*主页面：[谱面上架标准/皮肤组列表](/wiki/Ranking_criteria/Skin_set_list)*
 
-In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
+在 osu! 中有超过 200 个元素支持自定义（每个元素的动画帧除外），但你并不需要都进行自定义。其实，你可以直接删掉不想自定义的元素，osu! 会自动使用默认的元素图像。
 
-That being said, a skinning set (defined by the Ranking Criteria) basically states which elements must be skinned if one of them in the set were skinned. For example, the player using your skin may not like it if you had only skinned only half of the default numbers and left the others as to use their defaults. However, this only strictly applies to beatmap skinning but you may want to take this into account for you own skin.
+也就是说，（谱面上架标准定义的）皮肤组基本上指出了在自定义皮肤组中的一个元素后，必须一起自定义的元素。比如，如果你在皮肤中只自定义了一半默认数字，其余的用了默认图像，玩家可能会不喜欢。尽管皮肤组只严格适用于谱面皮肤，但你也许想为自己的皮肤考虑这一点。
 
 ### 改编版皮肤算是混合版皮肤吗？
 
@@ -52,7 +52,7 @@ That being said, a skinning set (defined by the Ranking Criteria) basically stat
 
 ### 可以重制别人制作的皮肤吗？
 
-是的，你可以制作与他人相似的皮肤。但你必须自己制作资源，并且你显然不能don't copy the assets from the other skin you are trying to remake.
+是的，你可以制作与他人相似的皮肤。但你必须自己制作资源，显然也不能直接抄袭原皮肤的资源。
 
 ### 为什么没有类似于谱面数据库的皮肤数据库？
 
@@ -62,27 +62,27 @@ That being said, a skinning set (defined by the Ranking Criteria) basically stat
 
 ### 如何分享自己的皮肤？
 
-First, before you share your skin, make sure you have removed other files that are not used. These can be default images and sounds, extra folders, non-image files (except for the `skin.ini` file). Once this is complete, you will need to export your skin as an `.osk` file. With this file, you can upload it then post about it in the skinning subforum.
+在分享皮肤前，首先确保你已经删除了不使用的文件，可以是默认图像与声音、多余的文件夹以及非图像文件（`skin.ini` 文件除外）。在此之后，你需要将皮肤导出为 `.osk` 文件。这样你可以上传此文件，然后在皮肤子论坛里发帖。
 
-1. Open osu!
-2. Open the options sidebar.
-3. Load your skin.
-4. Click `Export as .osk`.
+1. 打开 osu!
+2. 打开设置侧栏。
+3. 加载你的皮肤。
+4. 点击 `Export as .osk`。
 5. From there osu! will open a window for your exported skin.
 6. Take the `.osk` file with your skin's name and upload it
-7. You can now share it!
+7. 现在就可以分享了！
 
 ### 可以在皮肤子论坛里发布混合版皮肤吗？
 
-No, you are not allowed to post a mixed skin in any subforums. The same thing applies for edited skins as well.
+不行，不允许在任何子论坛里发布混合版皮肤。改编版皮肤也是如此。
 
 #### 可以在哪里发布混合版皮肤？
 
-You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins), or anywhere else outside of the osu! forums.
+你可以用到 me! 用户页面、个性签名、[/r/osuskins reddit 子区](https://www.reddit.com/r/OsuSkins)，或者 osu! 论坛外的其他地方。
 
 ### 可以发布重制版皮肤吗？
 
-是的，重制版皮肤不算是混合版。因此你可以去发布，只要没有与其他皮肤as long as none of the assets were copied or duplicated from another skin (in which, it would be considered mixed).
+是的，重制版皮肤不算是混合版。因此你可以去发布，只要没有抄袭其他皮肤或与之重复的资源即可，否则认定为重制版。
 
 ### 可以在皮肤子论坛里发布 R15 皮肤吗？
 
@@ -248,16 +248,16 @@ The animation frame rates for each element are inconsistent. Some use a value de
 
 有两种方法：
 
-- Disable `Hit Lighting` in the [options](/wiki/Client/Options).
-- Use a transparent image called `lighting.png` in your skin.
+- 在[设置](/wiki/Client/Options) 中禁用`打击闪光`。
+- 在皮肤中使用名为 `lighting.png` 的透明图像。
 
 ##### 我想去掉点击后出现的粒子！
 
-For the particles, simply remove the `particle50.png`, `particle100.png`, and `particle300.png` files. You do not need a transparent image for these three.
+要去掉例子，只需删除 `particle50.png`、`particle100.png` 和 `particle300.png` 这三个文件即可，不需要使用透明图像。
 
 #### 如何去掉滑条尾的圆圈？
 
-在皮肤中添加名为Add a transparent file called `sliderendcircle.png` to your skin.
+在皮肤中添加名为 `sliderendcircle.png` 的透明图像。
 
 #### 如何隐藏 300 分的打击结果？
 
@@ -269,7 +269,7 @@ For the particles, simply remove the `particle50.png`, `particle100.png`, and `p
 
 ### 如何给主菜单设置背景？
 
-你必须拥有 [osu! 支持者](/wiki/osu!supporter)标签，才能在主菜单中看到自定义的背景图像。要想快速改变背景，你可以将 `.png` 或 `.jpg` 格式的图像文件拖放进 osu!（主菜单）中。这张图像会覆盖This will overwrite the current one from your selected skin's folder.
+你必须拥有 [osu! 支持者](/wiki/osu!supporter)标签，才能在主菜单中看到自定义的背景图像。要想快速改变背景，你可以将 `.png` 或 `.jpg` 格式的图像文件拖放进 osu!（主菜单）中。这张图像会覆盖所选皮肤文件夹中的背景图像。
 
 ### @2x 是干什么的？
 
@@ -291,4 +291,4 @@ For the particles, simply remove the `particle50.png`, `particle100.png`, and `p
 
 ### 我用点取代了数字，但在第 10 个 combo 的时候，出现了两个点！
 
-To fix this, you need to change the `HitCircleOverlap` value to the width of the image used for the default numbers. For example, if your the skinned element size is 60x70 pixels (width by height), the value should be 60.
+要修复这个问题，你就要将 `HitCircleOverlap` 的数值改成默认数字图像的宽度。比如，自定义元素图像的尺寸是 60x70 像素（宽度乘高度），这个值就应该设置成 60。
