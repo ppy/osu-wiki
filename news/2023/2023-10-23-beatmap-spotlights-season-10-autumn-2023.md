@@ -57,7 +57,7 @@ Handling the speed of the guitar solos and Miku spitting some bars may still not
 *primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
 *described by [meiqth](https://osu.ppy.sh/users/12565402)*
 
-This season, our players decided to nominate BlackBN's simple mapping of *Camellia feat. Nanahira - POLKAMANIA* [BLACK'S MUZUKASHII] as their favorite. 
+This season, our players decided to nominate BlackBN's simple mapping of *Camellia feat. Nanahira - POLKAMANIA* as their favorite. 
 
 When the harder difficulties on this set prove too difficult with their interpretation of the song's complex rhythm, this Muzukashii provides a light at the end of the tunnel by keeping all the song has to offer at a manageable difficulty for our learning players. Finding a solid balance between uncommon rhythm and the players' intuition, this map follows the song's offbeat and varying rhythms in a sense that'll give a fun and unique playing experience to an inexperienced player!
 
