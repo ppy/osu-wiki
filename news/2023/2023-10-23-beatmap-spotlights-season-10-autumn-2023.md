@@ -51,7 +51,7 @@ After a long and fierce battle, osu! ended up with a tie. Therefore, we've got t
 
 Did somebody mention the word *nostalgic*? Couldn't go further than this one certain LESJUH DIFFICULTY.
 
-Despite it's technically perceived age, Lesjuh's creation aged like wine and remains vital, hooking, and a significant achievement both gameplay- and mapping-wise with its timeless flow and rhythm usage, all coalescing into a drowning and challenging experience.
+Despite its technically perceived age, Lesjuh's creation aged like fine wine and remains vital, hooking, and a significant achievement both gameplay- and mapping-wise with its timeless flow and rhythm usage, all coalescing into a drowning and challenging experience.
 
 13 years down the line, one couldn't tell it's really *that old* if not for the *eccentric* song choice, taking us straight to a different era. Let's all dance together to the rhythm of Caramelldansen!
 
