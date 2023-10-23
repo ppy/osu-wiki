@@ -75,7 +75,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
-| ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
+| ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
@@ -84,6 +84,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
+| ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -96,6 +97,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (membre de) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
