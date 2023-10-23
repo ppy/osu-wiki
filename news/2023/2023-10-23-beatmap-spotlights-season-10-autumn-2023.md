@@ -4,11 +4,11 @@ title: "Beatmap Spotlights Season 10: Autumn 2023"
 date: 2023-10-23 18:00:00 +0000
 ---
 
-You heard it right, the Beatmap Spotlights are back with the **10th Season**! As moody as autumn days can get, wake up and compete on the best beatmapping creations of last months right now!
+You heard it right, the Beatmap Spotlights are back with its **10th Season**! With how moody autumn days can get, you can fix that by competing on the best beatmapping creations of last months right now!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-After a bit of a breathing break to sort some of management surrounding Beatmap Spotlights, we'd like to announce that we are back with the **10th season of Beatmap Spotlights**. With Autumn 2023 season starting, we'd like to thank you for staying with us for 2-digit amount of iterations over the years of playlist-oriented history of Beatmap Spotlights! Even though this season will remain rather regular, we are preparing some bigger-schema changes for the next ones so stay prepared for that!
+After a bit of a breathing break to sort out some of the management challenges surrounding Beatmap Spotlights, we'd like to announce that we are back with the **10th season of Beatmap Spotlights**. With Autumn 2023 season starting, we'd like to thank you for staying with us for 2-digit amount of iterations over the years of playlist-oriented history of Beatmap Spotlights! Even though this season will remain rather regular, we are preparing some bigger-scheme changes for the next ones, so stay prepared for that!
 
 If you just can't wait to try everything out, **the Beatmap Spotlights lobbies are now open for play NOW on osu!(lazer)**, so go get involved and start setting scores.
 
@@ -16,7 +16,7 @@ If you still don't have any idea about what the entire Beatmap Spotlights thing 
 
 ## How do I participate in the Beatmap Spotlights?
 
-To participate in the Beatmap Spotlights, download the latest version of the osu!(lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, go grab yourself the latest version of the osu!(lazer) client from this [download page](https://osu.ppy.sh/home/download).
 
 Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner. 
 
@@ -28,7 +28,7 @@ Changing game modes is as simple as clicking one of the four mode icons at the t
 
 After some of successful gimmick season runs, we decided that it's time to move on as they became too limiting or challenging to implement for certain game modes. Rather than forcing new and unimaginative themes, we would like to make a return to the good ol' classic three-playlist format filled with great beatmapping creations testing a wide variety of skills and fitting to all kind of nieches.
 
-That being said, we are planning to experiment a little with the shape of Beatmap Spotlights as-is so take this rather as a tactic step-back to place a big one forward coming along with the future seasons!
+That being said, we are planning to experiment a little with the shape of Beatmap Spotlights as-is, so take this rather as a tactical step-back to prepare for a big step forward coming along with the future seasons!
 
 ## Beatmap of the Season: Results
 
@@ -180,13 +180,13 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 
 This season was rather a calm one when it comes to amount of the faces swapping around, we've got some huge qualitative-level changes to announce though!
 
-[Crumpey](https://osu.ppy.sh/users/3518705), after long years of involvement in Beatmap Spotlights as a osu!mania team leader, will be taking official manager position from now on, helping the project achieve its goals in bigger schema. [meiqth](https://osu.ppy.sh/users/12565402) will also take over osu!taiko team leadership, replacing [Hivie](https://osu.ppy.sh/users/14102976) on that position.
+[Crumpey](https://osu.ppy.sh/users/3518705), after long years of involvement in Beatmap Spotlights as an osu!mania team leader, will be taking an official manager position from now on, helping the project achieve its long-term goals. [meiqth](https://osu.ppy.sh/users/12565402) will additionally take over osu!taiko team leadership, replacing [Hivie](https://osu.ppy.sh/users/14102976) on that position.
 
-We will also be saying farwell to [Axer](https://osu.ppy.sh/users/7299864), who served as a curator for osu!taiko game mode, thanks for your hard efforts!
+We will also be saying farewell to [Axer](https://osu.ppy.sh/users/7299864), who served as a dedicated and passionate osu!taiko curator for the past 2.5 years. Thank you for your hard efforts!
 
 ## The future
 
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) (`#beatmap-spotlights` channel) and we will keep note of every suggestion, so please let us know how you feel about things.
+What do *you* want to see happen for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) (`#beatmap-spotlights` channel) and we will keep note of every suggestion, so please let us know how you feel about things.
 
 We do hope you enjoyed the Spring Season 2023 Spotlights, and, of course, we do hope that you'll enjoy the Winter Season even more!
 
