@@ -153,7 +153,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 ### osu!
 
 - [Parquet Courts - Total Football (Wispy) \[Hesitant Hard\]](https://osu.ppy.sh/beatmapsets/1965534#osu/4075719), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
-- [zts - Touhou Suimusou ~phantasmagoria~ (tokiko) \[Credits\]](https://osu.ppy.sh/beatmapsets/1381715#osu/2854888), suggested by [KnightCore](https://osu.ppy.sh/users/2320682)
+- [zts - Touhou Suimusou \~phantasmagoria\~ (tokiko) \[Credits\]](https://osu.ppy.sh/beatmapsets/1381715#osu/2854888), suggested by [KnightCore](https://osu.ppy.sh/users/2320682)
 - [Pierce The Veil - Caraphernelia (AirinCat) \[Airin's Insane\]](https://osu.ppy.sh/beatmapsets/1915250#osu/4026919), suggested by [rHO](https://osu.ppy.sh/users/1629553)
 - [ANNA TSUCHIYA inspi' NANA(BLACK STONES) - rose (PandaHero) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/1474104#osu/3025347), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
 - [Kendrick Lamar - m.A.A.d city (feat. MC Eiht) (jamesjan3) \[A trip down memory lane\]](https://osu.ppy.sh/beatmapsets/1879010#osu/3868198), suggested by [DeviousPanda](https://osu.ppy.sh/users/4966334)
@@ -172,7 +172,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [KOAN Sound - Chilli Daddy (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1318794#taiko/2732016), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
 - [Annabel - wormhole (doulph) \[reflection of a broken world.\]](https://osu.ppy.sh/beatmapsets/1726067#taiko/3527454), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
 - [Shogo Nomura - egoist (ZTH) \[Chaos\]](https://osu.ppy.sh/beatmapsets/1915102#taiko/3950909), suggested by [meiqth](https://osu.ppy.sh/users/12565402)
-- [Rish feat. Choko - Punai Punai Gensou ~Punai Punai in Wonderland~ (Faputa) \[Fapu's Punai\]](https://osu.ppy.sh/beatmapsets/1906400#taiko/3933416), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
+- [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (Faputa) \[Fapu's Punai\]](https://osu.ppy.sh/beatmapsets/1906400#taiko/3933416), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
 
 ### osu!catch
 
@@ -181,7 +181,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [zts - miragecoordinator (Deif) \[Memoirs\]](https://osu.ppy.sh/beatmapsets/1464008#fruits/3007160), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
 - [Ito Kanako - Tsuisou no Despair (Hareimu) \[zerokt & Reimu's Despair\]](https://osu.ppy.sh/beatmapsets/1955050#fruits/4049187), suggested by [radar](https://osu.ppy.sh/users/7131099)
 - [Sound Souler - Absent Color (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1583461#fruits/3234073), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
-- [Jea - snows ~Soshite Kiseki~ (Rocma) \[rains\]](https://osu.ppy.sh/beatmapsets/1960673#fruits/4063222), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
+- [Jea - snows \~Soshite Kiseki\~ (Rocma) \[rains\]](https://osu.ppy.sh/beatmapsets/1960673#fruits/4063222), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
 - [URBANGARDE - KIMI WA OKUMAGASO (JBHyperion) \[Untouchable\]](https://osu.ppy.sh/beatmapsets/1779476#fruits/3644367), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Yousei Teikoku - Kuraki Sekai no Doukoku (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471258#fruits/3020466), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
 - [Frums - Pictured as Perfect and Plus (wwwww) \[Team Canada A's Conformity\]](https://osu.ppy.sh/beatmapsets/1897431#fruits/3910633), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
@@ -194,7 +194,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [KARUT - Shooting Athletes (Seulgi) \[\[7K\] Ready, Get Set, GO!\]](https://osu.ppy.sh/beatmapsets/1956332#mania/4052625), suggested by [MadBricktree](https://osu.ppy.sh/users/4790958)
 - [Autopsy Protcol - Akai (pencil's Hardtechno Bootleg) (AHHHHHHHHHHHHHH) \[\[4K\] Thrash\]](https://osu.ppy.sh/beatmapsets/1432750#mania/2948731), suggested by [YuEast 2018](https://osu.ppy.sh/users/13953619)
 - [Jaroslav Beck - $100 Bills (Camellia's "215$-Step" Remix) (Nezu-) \[\[4K\] ONE MILLION DOLLAH\]](https://osu.ppy.sh/beatmapsets/1941767#mania/4016349), suggested by [Seulgi](https://osu.ppy.sh/users/4918394)
-- [penoreri - Lancelot ~Flame of the Rebellion~ (Amiichii) \[\[4K\] LNCELOT\]](https://osu.ppy.sh/beatmapsets/1306461#mania/4144490), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
+- [penoreri - Lancelot \~Flame of the Rebellion\~ (Amiichii) \[\[4K\] LNCELOT\]](https://osu.ppy.sh/beatmapsets/1306461#mania/4144490), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
 - [Silentroom vs. Frums - Aegleseeker ("Afterworld" Full Version) (Blocko) \[\[7K\] Extra\]](https://osu.ppy.sh/beatmapsets/1868798#mania/3886482), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
 - [MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES (Salty Mermaid) \[\[6K\] Until the End of Eternity\]](https://osu.ppy.sh/beatmapsets/1591530#mania/3250519), suggested by [Ilham](https://osu.ppy.sh/users/3057154)
 
