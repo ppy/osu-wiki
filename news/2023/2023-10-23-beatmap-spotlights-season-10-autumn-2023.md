@@ -10,7 +10,7 @@ You heard it right, the Beatmap Spotlights are back with its **10th Season**! Wi
 
 After a bit of a breathing break to sort out some of the management challenges surrounding Beatmap Spotlights, we'd like to announce that we are back with the **10th season of Beatmap Spotlights**. With Autumn 2023 season starting, we'd like to thank you for staying with us for 2-digit amount of iterations over the years of playlist-oriented history of Beatmap Spotlights! Even though this season will remain rather regular, we are preparing some bigger-scheme changes for the next ones, so stay prepared for that!
 
-If you just can't wait to try everything out, **the Beatmap Spotlights lobbies are now open for play NOW on osu!(lazer)**, so go get involved and start setting scores.
+If you just can't wait to try everything out, **the Beatmap Spotlights lobbies are open for play *NOW* on osu!(lazer)**, so go get involved and start setting scores.
 
 If you still don't have any idea about what the entire Beatmap Spotlights thing could be, just read on below to find out how to jump into the world of playlist-oriented competition now:
 
