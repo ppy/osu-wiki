@@ -32,7 +32,7 @@ That being said, we are planning to experiment a little with the shape of Beatma
 
 ## Beatmap of the Season: Results
 
-As always, we would like you to introduce you to the best maps of each game mode according to the spotlights competitors of Spring Season 2023.
+As always, we would like to introduce you to the best maps of each game mode according to the spotlights competitors of Spring Season 2023.
 
 The creator of each winning entry will be awarded with **3 months of osu!supporter** for their hard efforts.
 
