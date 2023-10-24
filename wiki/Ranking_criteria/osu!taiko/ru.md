@@ -1,3 +1,8 @@
+---
+outdated_since: 3a1958422c9763281ddcc1f317b172efebbd2d0e
+outdated_translation: true
+---
+
 # Критерии ранкинга osu!taiko
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_criteria).***
