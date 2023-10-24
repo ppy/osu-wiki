@@ -105,6 +105,35 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ### Semi Finals
 
+**[Download the mappack here!](https://drive.google.com/drive/folders/1pQSCWEwtIO-2o69_LNg4tWSmRdq8w_5Z?usp=sharing)**
+
+- NoMod
+  1. [Falcom Sound Team jdk - Don't be Defeated by a Friend! (Deca) \[cocowari's Abyss feat. Moete\]](https://osu.ppy.sh/beatmapsets/1557286#osu/3534472)
+  2. [SOUND HOLIC feat. YURiCa - WITCH HUNT ([Crz]Makii) \[The Forgiven Rebellion\]](https://osu.ppy.sh/beatmapsets/1822830#osu/4020280)
+  3. [Tsukuyomi - Tsuki ga Michiru (Raijodo) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1867271#osu/3875735)
+  4. [Street - Hestia (GYGY) \[0pp's Aqua Extra\]](https://osu.ppy.sh/beatmapsets/1707295#osu/3598884)
+  5. [Gram - Nibelungen (xidorn) \[lungaspeeding\]](https://osu.ppy.sh/beatmapsets/1783116#osu/3651733)
+  6. [Ryu* - Rondo Alla Turca (Ryu* Remix) (-Tynamo) \[Expert\]](https://osu.ppy.sh/beatmapsets/1364962#osu/2823660)
+- Hidden
+  1. [THE BINARY - Hana ni Ame o, Kimi ni Uta o (NeonLights) \[Nines' Extra\]](https://osu.ppy.sh/beatmapsets/1186593#osu/2522270)
+  2. [Kashi Moimi feat. Kafu - Cat Loving (rollpan) \[LOVE\]](https://osu.ppy.sh/beatmapsets/1936064#osu/4001532)
+  3. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix (My Angel Azusa) \[Extra\]](https://osu.ppy.sh/beatmapsets/514980#osu/1093661)
+- HardRock
+  1. [SID - Ranbu no Melody (\_EpicDisaster\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/1942413#osu/4027174)
+  2. [ALiCE'S EMOTiON - Lorelei (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/829950#osu/1738984)
+  3. [MYUKKE. - Boudica (Sweets) \[Water\]](https://osu.ppy.sh/beatmapsets/1733692#osu/3543498)
+- DoubleTime
+  1. [Kicco - Amazing sky (Misure) \[Eternal Sky\]](https://osu.ppy.sh/beatmapsets/526167#osu/1116546)
+  2. [IOSYS feat. NJK Record - Miracle-Hinacle (Hinacle) \[Collab\]](https://osu.ppy.sh/beatmapsets/50454#osu/155049)
+  3. [lical - nyctalopia (FlatPaper) \[hard\]](https://osu.ppy.sh/beatmapsets/1971703#osu/4091132)
+  4. [Ceres Fauna - Let Me Stay Here (Gweon Sua) \[A Fairy Tale For Saplings\]](https://osu.ppy.sh/beatmapsets/1766945#osu/3616922)
+- FreeMod
+  1. [Slax - Sugar Loli (smolship) \[Expert\]](https://osu.ppy.sh/beatmapsets/1894197#osu/3903479)
+  2. [Electric Six - Gay Bar (Lutschkas) \[just anime peeps in a bar\]](https://osu.ppy.sh/beatmapsets/2078871#osu/4353076)
+  3. [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)
+- Tiebreaker
+  1. **[FantasticPlanets - Jekyll & Hyde (Wishkey) \[Abyss\]](https://osu.ppy.sh/beatmapsets/910518#osu/1899986)**
+
 ### Quarter Finals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1CIKuOYMVF8Oip6in5ofT7xrz6HdIHYY8?usp=drive_link)**
@@ -216,11 +245,27 @@ Saturday, 21 October 2023:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
+| **dilf cup 2** | **6** | 2 | fumo belvedere | [#1](https://osu.ppy.sh/community/matches/110967292) |
+| Power Rangers | 2 | **6** | **Misfits of a new era** | [#1](https://osu.ppy.sh/community/matches/110968672) |
+| CookedCookiesSquared | 4 | **6** | **sorry 6 digits** | [#1](https://osu.ppy.sh/community/matches/110970692) |
+| **floppy** | **6** | 0 | Washed Cats c: | [#1](https://osu.ppy.sh/community/matches/110972115) |
+| **Adik** | **6** | 4 | ronos inc. | [#1](https://osu.ppy.sh/community/matches/110972961) |
+| **5 Tonatious' on Bonk** | **6** | 2 | EFT2: Nuke Singapore | [#1](https://osu.ppy.sh/community/matches/110973143) |
+| osuheimer | 4 | **6** | **Nya~ 2.0** | [#1](https://osu.ppy.sh/community/matches/110975539) |
+| Pls Enjoy Game | 0 | **6** | **3x Andy on a bench** | [#1](https://osu.ppy.sh/community/matches/110978906) |
+| **Circle Dodgers CTeam** | **6** | 3 | Mika's Cake Roll | [#1](https://osu.ppy.sh/community/matches/110978905) |
+| **:holaaaaaaa:** | **6** | 0 | little batos | [#1](https://osu.ppy.sh/community/matches/110979767) |
+| **Circle Dodgers CTeam** | **6** | 1 | 3x Andy on a bench | [#1](https://osu.ppy.sh/community/matches/110980122) |
 
 Sunday, 22 October 2023:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
+| **Adik** | **6** | 3 | Misfits of a new era | [#1](https://osu.ppy.sh/community/matches/110986940) |
+| **sorry 6 digits** | **6** | 1 | floppy | [#1](https://osu.ppy.sh/community/matches/110989139) |
+| KAZAKHSTAN | 2 | **6** | **abbeychan fanclub** | [#1](https://osu.ppy.sh/community/matches/110990945) |
+| **Baguette Askim** | **6** | 4 | -_- | [#1](https://osu.ppy.sh/community/matches/110991950) |
+| Nya~ 2.0 | 3 | **6** | **:holaaaaaaa:** | [#1](https://osu.ppy.sh/community/matches/110995829) |
 
 ### Round of 16
 
