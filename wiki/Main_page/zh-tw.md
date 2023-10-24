@@ -99,7 +99,7 @@ no_native_review: true
 
 社交互動是推動世界各地的 osu! 玩家的事情之一。探索各類活動及競賽，與他人交流，或是協助籌辦活動！
 
-平台：[Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord 伺服器](/wiki/Community/Discord_servers)
+平台：[論壇](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord 伺服器](/wiki/Community/Discord_servers)
 
 [錦標賽](/wiki/Tournaments) • [圖譜聚光燈](/wiki/Beatmap_Spotlights) • [製圖競賽](/wiki/Contests) • [社群師徒計畫](/wiki/Community/Community_Mentorship_Program)
 
