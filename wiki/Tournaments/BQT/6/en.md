@@ -340,6 +340,7 @@ Sunday, 8 October 2023:
 11. Only BQT Refs, Streamers, and Casters are allowed to play in the tournament, but they are referees, they can't ref their own match.
 12. 6 Digit badged players are ALLOWED to participate.
 13. Team Supporter!
+
    - **Pros:**
 
      - ONE Team Supporter per team is allowed to join warmups during matches.
@@ -350,7 +351,7 @@ Sunday, 8 October 2023:
 
      - Can’t be one of following roles: admin, referee, mappool team, and player.
      - At any point in time, the team captain can remove you as a Team Supporter.
-     
+
    - **Other Helpful Information:**
 
      - Any rank is allowed to be a Team Supporter!
