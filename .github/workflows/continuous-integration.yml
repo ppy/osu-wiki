@@ -21,14 +21,8 @@ jobs:
 
       - name: detect changed files
         run: |
-          INTERESTING_FILES=$(
-            sort -u < <(
-              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
-              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
-              # Changes committed so far (may overlap with the above)
-              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
-            )
-          )
+          # Changes committed to this PR so far
+          INTERESTING_FILES=$( git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ )
 
           # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
           # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
