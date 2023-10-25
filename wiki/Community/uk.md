@@ -1,33 +1,29 @@
----
-outdated_translation: true
-outdated_since: 5f10ef5c2d3a1926ac10d4b6e48fa574eb4ca2ae
----
-
 # Спільнота
 
-Ця сторінка описує як гравцям можна зв'язатися один з одним.
-Якщо ви шукаєте як можна допомогти, але не знаєте звідки почати, прочитайте [How you can help!](/wiki/Community/How_you_can_help!)
+Ця сторінка описує, як гравці можуть зв'язуватись один з одним.
+Якщо ви шукаєте, чим можна допомогти, але не знаєте, звідки почати, прочитайте [Чим ви можете допомогти!](/wiki/Community/How_you_can_help!)
 
 ## Місця
 
+- [Discord-сервери спільноти](/wiki/Community/Discord_servers)
 - [Форум](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Діскорд сервер osu!](/wiki/Community/osu!_Discord_server)
-- [Discord-сервери спiльноти](/wiki/Community/Discord_servers)
+- [Discord-сервер osu!](/wiki/Community/osu!_Discord_server)
 - [Офлайн організації](/wiki/Community/Organisations)
 
 ## Проекти
 
 *Також: [Список проектів](/wiki/Community/Projects)*
 
-- [Наставницька программа](/wiki/Community/Community_Mentorship_Program)
-- [Гільдія маперів](/wiki/Community/Mappers_Guild)
-- [Вікі](/wiki/osu!_wiki)
-- [Project Loved](/wiki/Community/Project_Loved)
+- [Наставницька программа спільноти](/wiki/Community/Community_Mentorship_Program)
+- [Гільдія Маперів](/wiki/Community/Mappers_Guild)
+- [osu! вікі](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
+- [Проєкт "Улюблені"](/wiki/Community/Project_Loved)
 
 ## Події\Ресурси
 
-- [Зустріч спільноти osu!](/wiki/Community/osu!_community_meetings)
+- [Зустрічі спільноти osu!](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 - [Відео](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)

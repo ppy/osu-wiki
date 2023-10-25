@@ -17,7 +17,7 @@ Bot accounts can only be created via an [application process](#creating-a-bot-ac
 
 The main difference between personal accounts and bot accounts is in the rate limits that apply to them when sending [chat](/wiki/Client/Interface/Chat_console) messages. Bot accounts have higher limits to allow their services to interact with more users without risk of having the account [silenced](/wiki/Silence):
 
-- Personal accounts can send 20 messages every 10 seconds
+- Personal accounts can send 10 messages every 5 seconds
 - Bot accounts can send 300 messages every 60 seconds
 
 These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels, nor any unsolicited private messages.

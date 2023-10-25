@@ -20,7 +20,7 @@ Les nouveaux venus sur le serveur sont encouragés à se présenter dans le salo
 | Salon | Description |
 | :-- | :-- |
 | `#welcome` | Informations sur le serveur |
-| `#introduction` | Présentation de soi |
+| `#introductions` | Présentation de soi |
 | `#general` | Discussion générale et dépannage liés à osu! |
 
 ### Client / Web

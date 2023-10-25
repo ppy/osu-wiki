@@ -17,7 +17,7 @@ Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). 
 
 Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas jumlah pengiriman pesan dalam [obrolan](/wiki/Client/Interface/Chat_console). Akun bot memiliki batas jumlah pengiriman pesan yang lebih tinggi supaya layanan mereka dapat berinteraksi dengan lebih banyak pengguna tanpa risiko membuat akun tersebut [di-silence](/wiki/Silence):
 
-- Akun pribadi dapat mengirim 20 pesan per 10 detik
+- Akun pribadi dapat mengirim 10 pesan per 5 detik
 - Akun bot dapat mengirim 300 pesan per 60 detik
 
 Batas jumlah pengiriman ini hanya berlaku untuk pesan pribadi, `#multiplayer`, dan `#spectator`. Akun bot tidak diperbolehkan mengirim pesan di kanal lain, begitu pula dengan mengirimkan pesan pribadi tanpa seizin pengguna.
