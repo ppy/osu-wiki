@@ -19,7 +19,7 @@ tags:
 | :-- | :-- |
 | [계정](/wiki/Help_centre/Account) | osu! 서포터, 로그인 및 액세스 복구, 이름 변경, 프로필 데이터 |
 | [계정 제한](/wiki/Help_centre/Account_restrictions) | 제한에 대한 모든 것: 개요, 항소 절차, 일반적인 사유 및 쿨다운 기간 |
-| [비트매핑 및 편집자](/wiki/Help_centre/Beatmapping) | 비트맵의 유지, 소유권, 슬롯 |
+| [비트매핑 및 편집자](/wiki/Help_centre/Beatmapping) | 비트맵의 관리, 소유권, 슬롯 |
 | [클라이언트](/wiki/Help_centre/Client) | 버그 및 충돌, 게임 플레이, 연결, 성능 |
 | [설치 및 회원가입](/wiki/Help_centre/Installation_and_registration) | 게임 다운로드, 계정 만들기 |
 | [스토어](/wiki/Help_centre/Store) | 굿즈, osu!go, osu!keyboard, osu!tablet |
