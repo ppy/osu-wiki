@@ -10,17 +10,17 @@ The 25th cycle of the Community Mentorship program is on its way! Get ready to d
 
 The Community Mentorship program serves as a place for upcoming mappers, modders, and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
 
-Up until recently, the program didn't have a good way to consistently provide engagement for beginners that didn't get picked up by a mentor. We're hoping to improve on this with a few new Discord forum channels:
+Up until recently, the program didn't have a good way to consistently provide engagement for beginners that weren't picked up by a mentor. We're hoping to improve on this with a few new Discord forum channels:
 
 - Roast before Post: A way to rotate getting feedback between those that are also willing to give it. You "Roast" someone's work and then get to "Post" your own! Simple and effective. If you find yourself struggling to find input on something you've made, this could be the place you've been looking for.
 
-- Mapping Discussion: A place to discuss virtually anything related to mapping, for those who'd rather whip up a quick Discord thread than a forum post.
+- **Mapping Discussion**: A place to discuss virtually anything related to mapping, for those who'd rather whip up a quick Discord thread than a forum post.
 
 With all of this, and some other small changes, we are also finally sharing our public invite link! You can join our discord [here](https://discord.gg/EvHqwvD), try out our new features and let us know how we can further build on them.
 
 We're not done here though, since we're also opening Mentor Signups for the next Winter Cycle.
 
-If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the forum announcement and [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1837647?n=1), you'll be able to apply right away. If you're only just getting started and are eager to hone your skills, then signing up as a mentee might be what you need!
+If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1837647?n=1), you'll be able to apply right away. If you're only just getting started and are eager to hone your skills, then signing up as a mentee might be what you need!
 
 ---
 
@@ -32,7 +32,7 @@ For this following cycle, the timeline is as follows (all opening and closing da
 
 Throughout this cycle, the organization team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
-If you or are a friend are curious about the rules and which mentors you can apply for, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1837647?n=1) for more information.
+If you or a friend are curious about the rules and which mentors you can apply for, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1837647?n=1) for more information.
 
 Otherwise: [Join our discord!](https://discord.gg/EvHqwvD)
 
