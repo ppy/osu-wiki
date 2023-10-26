@@ -26,5 +26,10 @@
         "remark-preset-lint-markdown-style-guide": "5.1.2",
         "vfile-reporter-github-action": "^1.0.0",
         "vfile-reporter-position": "github:TicClick/vfile-reporter-position#update-vfile-message-v3"
+    },
+    "overrides": {
+        "mdast-util-gfm-table": {
+            "markdown-table": "file:../../meta/remark/markdown-table"
+        }
     }
 }

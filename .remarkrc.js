@@ -10,7 +10,7 @@ export default {
   plugins: [
     'preset-lint-markdown-style-guide',
     ['frontmatter', {type: 'yaml', marker: '-'}],
-    ['gfm', {singleTilde: false, tablePipeAlign: false}],
+    ['gfm', {singleTilde: false}],
     ['lint-definition-case', false],
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-newline'],
