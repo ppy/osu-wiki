@@ -10,7 +10,7 @@ The 25th cycle of the Community Mentorship program is on its way! Get ready to d
 
 The Community Mentorship program serves as a place for upcoming mappers, modders, and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
 
-Up until recently, the program didn't have a good way to consistently provide engagement for beginners that don't get picked by a mentor. We're hoping to improve on this with a few new discord forum channels:
+Up until recently, the program didn't have a good way to consistently provide engagement for beginners that don't get picked up by a mentor. We're hoping to improve on this with a few new discord forum channels:
 
 - Roast before Post: A way to rotate getting feedback between those that are also willing to give it. You "Roast" someone's work and then get to "Post" your own! Simple and effective. If you find yourself struggling to find input on something you've made, this could be the place you've been looking for.
 
