@@ -12,7 +12,7 @@ The Community Mentorship program serves as a place for upcoming mappers, modders
 
 Up until recently, the program didn't have a good way to consistently provide engagement for beginners that weren't picked up by a mentor. We're hoping to improve on this with a few new Discord forum channels:
 
-- Roast before Post: A way to rotate getting feedback between those that are also willing to give it. You "Roast" someone's work and then get to "Post" your own! Simple and effective. If you find yourself struggling to find input on something you've made, this could be the place you've been looking for.
+- **Roast before Post**: A way to rotate getting feedback between those that are also willing to give it. You "Roast" someone's work and then get to "Post" your own! Simple and effective. If you find yourself struggling to find input on something you've made, this could be the place you've been looking for.
 
 - **Mapping Discussion**: A place to discuss virtually anything related to mapping, for those who'd rather whip up a quick Discord thread than a forum post.
 
