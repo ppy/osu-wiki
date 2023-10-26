@@ -129,27 +129,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Indonesia ::{ flag=ID }:: | ::{ flag=UA }:: Ukraine | [Oct 28 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T100000&p1=1440&p2=108&p3=367) | [osulive](https://twitch.tv/osulive) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=FI }:: Finland | [Oct 28 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T110000&p1=1440&p2=102&p3=101) | [osulive](https://twitch.tv/osulive) |
-| Australia ::{ flag=AU }:: | ::{ flag=TW }:: Taiwan | [Oct 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T120000&p1=1440&p2=57&p3=241) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Oct 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T130000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Netherlands | [Oct 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T140000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=TR }:: Turkey | [Oct 28 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T150000&p1=1440&p2=136&p3=19) | [osulive](https://twitch.tv/osulive) |
-| Philippines ::{ flag=PH }:: | ::{ flag=MX }:: Mexico | [Oct 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T160000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Oct 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=SE }:: Chile | [Oct 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=TH }:: United States | [Oct 28 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
+| Poland ::{ flag=PL }:: | ::{ flag=AR }:: Poland | [Oct 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=TR }:: United Kingdom | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
+| France ::{ flag=FR }:: | ::{ flag=BR }:: France | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 29 October 2023
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Oct 29 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T040000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Italy ::{ flag=IT }:: | ::{ flag=NZ }:: New Zealand | [Oct 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Romania ::{ flag=RO }:: | ::{ flag=SG }:: Singapore | [Oct 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T110000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
-| South Korea ::{ flag=KR }:: | ::{ flag=KZ }:: Kazakhstan | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
-| Germany ::{ flag=DE }:: | ::{ flag=ES }:: Spain | [Oct 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T160000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=NO }:: Norway | [Oct 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T170000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=SE }:: Sweden | [Oct 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
+| Philippines ::{ flag=PH }:: | ::{ flag=MX }:: Philippines | [Oct 29 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T050000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
+| Australia ::{ flag=AU }:: | ::{ flag=TW }:: Australia | [Oct 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=57&p3=241) | [osulive_2](https://twitch.tv/osulive_2) |
+| Italy ::{ flag=IT }:: | ::{ flag=NZ }:: Italy | [Oct 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=UA }:: Indonesia | [Oct 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T120000&p1=1440&p2=108&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
+| South Korea ::{ flag=KR }:: | ::{ flag=KZ }:: South Korea | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Russian Federation | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=166&p3=16) |  |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=FI }:: Hong Kong | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=102&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
+| China ::{ flag=CN }:: | ::{ flag=JP }:: China | [Oct 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=33&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
+| Romania ::{ flag=RO }:: | ::{ flag=SG }:: Romania | [Oct 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
+| Germany ::{ flag=DE }:: | ::{ flag=ES }:: Germany | [Oct 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T150000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
+| Canada ::{ flag=CA }:: | ::{ flag=NO }:: Canada | [Oct 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
