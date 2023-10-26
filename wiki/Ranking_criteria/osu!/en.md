@@ -54,7 +54,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
