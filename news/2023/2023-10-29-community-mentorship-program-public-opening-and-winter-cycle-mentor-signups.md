@@ -14,7 +14,7 @@ Up until recently, the program didn't have a good way to consistently provide en
 
 - Roast before Post: A way to rotate getting feedback between those that are also willing to give it. You "Roast" someone's work and then get to "Post" your own! Simple and effective. If you find yourself struggling to find input on something you've made, this could be the place you've been looking for.
 
-- Mapping Discussion: A place to discuss virtually anything mapping, for those who'd rather whip up a quick discord thread than a forum post.
+- Mapping Discussion: A place to discuss virtually anything related to mapping, for those who'd rather whip up a quick Discord thread than a forum post.
 
 With all of this, and some other small changes, we are also finally sharing our public invite link! You can join our discord [here](https://discord.gg/EvHqwvD), try out our new features and let us know how we can further build on them.
 
