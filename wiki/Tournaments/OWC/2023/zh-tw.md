@@ -14,15 +14,15 @@ tags:
 
 | 內容 | 日期 |
 | --: | :-- |
-| 報名 | 2023-09-21/2023-10-05 (23:59 UTC) |
-| 預選賽圖池公布 | 2023-10-15 (14:00 UTC) |
-| 預選賽 | 2023-10-21/2023-10-22 |
-| 32強賽 | 2023-10-28/2023-10-29 |
-| 16強賽 | 2023-11-04/2023-11-05 |
-| 8強賽 | 2023-11-11/2023-11-12 |
-| 準決賽 | 2023-11-18/2023-11-19 |
-| 決賽 | 2023-11-25/2023-11-26 |
-| 總決賽 | 2023-12-02/2023-12-03 |
+| 報名 | 2023 年 9 月 21日 至 2023 年 10 月 5 日 (23:59 UTC) |
+| 預選賽圖池公布 | 2023 年 10 月 15 日 (14:00 UTC) |
+| 預選賽 | 2023 年 10 月 21 日 / 2023 年 10 月 22 日 |
+| 32強賽 | 2023 年 10 月 28 日 / 2023 年 10 月 29 日 |
+| 16強賽 | 2023 年 11 月 04 日 / 2023 年 11 月 05 日 |
+| 8強賽 | 2023 年 11 月 11 日 / 2023 年 11 月 12 日 |
+| 準決賽 | 2023 年 11 月 18 日 / 2023 年 11 月 19 日 |
+| 決賽 | 2023 年 11 月 25 日 / 2023 年 11 月 26 日 |
+| 總決賽 | 2023 年 12 月 02 日 / 2023 年 12 月 03 日 |
 
 ## 獎項
 
@@ -129,27 +129,27 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |
 | --: | :-- | :-- | :-: |
-| 印尼 ::{ flag=ID }:: | ::{ flag=UA }:: 烏克蘭 | [10/28 (六) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T100000&p1=1440&p2=108&p3=367) | [osulive](https://twitch.tv/osulive) |
-| 香港 ::{ flag=HK }:: | ::{ flag=FI }:: 芬蘭 | [10/28 (六) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T110000&p1=1440&p2=102&p3=101) | [osulive](https://twitch.tv/osulive) |
-| 澳洲 ::{ flag=AU }:: | ::{ flag=TW }:: 臺灣 | [10/28 (六) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T120000&p1=1440&p2=57&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 中國 ::{ flag=CN }:: | ::{ flag=JP }:: 日本 | [10/28 (六) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T130000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) |
-| 俄羅斯 ::{ flag=RU }:: | ::{ flag=NL }:: 荷蘭 | [10/28 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T140000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) |
-| 英國 ::{ flag=GB }:: | ::{ flag=TR }:: 土耳其 | [10/28 (六) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T150000&p1=1440&p2=136&p3=19) | [osulive](https://twitch.tv/osulive) |
-| 菲律賓 ::{ flag=PH }:: | ::{ flag=MX }:: 墨西哥 | [10/28 (六) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T160000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
-| 波蘭 ::{ flag=PL }:: | ::{ flag=AR }:: 阿根廷 | [10/28 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| 法國 ::{ flag=FR }:: | ::{ flag=BR }:: 巴西 | [10/28 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
+| 智利 ::{ flag=CL }:: | ::{ flag=SE }:: 瑞典 | [10 月 28 日 (六) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
+| 美國 ::{ flag=US }:: | ::{ flag=TH }:: 泰國 | [10 月 28 日 (六) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
+| 波蘭 ::{ flag=PL }:: | ::{ flag=AR }:: 阿根廷 | [10 月 28 日 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
+| 英國 ::{ flag=GB }:: | ::{ flag=TR }:: 土耳其 | [10 月 28 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
+| 巴西 ::{ flag=FR }:: | ::{ flag=BR }:: 巴西 | [10 月 28 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
 
 ### 2023 年 10 月 29 日, 星期日
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |
 | --: | :-- | :-- | :-: |
-| 美國 ::{ flag=US }:: | ::{ flag=TH }:: 泰國 | [10/29 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T040000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 義大利 ::{ flag=IT }:: | ::{ flag=NZ }:: 紐西蘭 | [10/29 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SG }:: 新加坡 | [10/29 (日) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T110000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 韓國 ::{ flag=KR }:: | ::{ flag=KZ }:: 哈薩克 | [10/29 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
-| 德國 ::{ flag=DE }:: | ::{ flag=ES }:: 西班牙 | [10/29 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T160000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
-| 加拿大 ::{ flag=CA }:: | ::{ flag=NO }:: 挪威 | [10/29 (日) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T170000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 智利 ::{ flag=CL }:: | ::{ flag=SE }:: 瑞典 | [10/29 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
+| 菲律賓 ::{ flag=PH }:: | ::{ flag=MX }:: 墨西哥 | [10 月 29 日 (日) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T050000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
+| 澳洲 ::{ flag=AU }:: | ::{ flag=TW }:: 臺灣 | [10 月 29 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=57&p3=241) | [osulive_2](https://twitch.tv/osulive_2) |
+| 義大利 ::{ flag=IT }:: | ::{ flag=NZ }:: 紐西蘭 | [10 月 29 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
+| 印尼 ::{ flag=ID }:: | ::{ flag=UA }:: 烏克蘭 | [10 月 29 日 (日) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T120000&p1=1440&p2=108&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
+| 韓國 ::{ flag=KR }:: | ::{ flag=KZ }:: 哈薩克 | [10 月 29 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
+| 俄羅斯 ::{ flag=RU }:: | ::{ flag=NL }:: 荷蘭 | [10 月 29 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=166&p3=16) |  |
+| 香港 ::{ flag=HK }:: | ::{ flag=FI }:: 芬蘭 | [10 月 29 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=102&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
+| 中國 ::{ flag=CN }:: | ::{ flag=JP }:: 日本 | [10 月 29 日 (日) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=33&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
+| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SG }:: 新加坡 | [10 月 29 日 (日) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
+| 德國 ::{ flag=DE }:: | ::{ flag=ES }:: 西班牙 | [10 月 29 日 (日) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T150000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=NO }:: 挪威 | [10 月 29 日 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
 
 ## 圖池
 
