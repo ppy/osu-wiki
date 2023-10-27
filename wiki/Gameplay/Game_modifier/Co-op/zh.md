@@ -33,7 +33,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名。*
 
-**Co-op** 模组 [osu!mania](/wiki/Game_mode/osu!mania) 专用的[游戏模组](/wiki/Gameplay/Game_modifier)，会根据当前的 *x*K 设置（例如 7K -> 7K + 7K = 14K）引入第二个游玩区域，使用第二套控制设置。对于 osu!mania 特定[谱面](/wiki/Beatmap)，则会将 *x* 个按键均分（例如 7K -> 4K + 3K = 7K）。
+**Co-op** 模组是 [osu!mania](/wiki/Game_mode/osu!mania) 专用的[游戏模组](/wiki/Gameplay/Game_modifier)，会根据当前的 *x*K 设置（例如 7K -> 7K + 7K = 14K）引入第二个游玩区域，使用第二套控制设置。对于 osu!mania 特定[谱面](/wiki/Beatmap)，则会将 *x* 个按键均分（例如 7K -> 4K + 3K = 7K）。
 
 ![osu!mania 专谱中 Co-op 模组下的游玩比较](img/CP-comparison-mania-specific-beatmap.jpg "osu!mania 专谱中，正常游玩（左图）与启用 Co-op 模组（右图）的比较")
 
