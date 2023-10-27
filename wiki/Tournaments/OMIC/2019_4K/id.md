@@ -227,7 +227,7 @@ Minggu, 4 Agustus 2019:
 
 Sabtu, 10 Agustus 2019:
 
-| Player 1  |  |  | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Yamada Kitaro](https://osu.ppy.sh/users/7670805) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53967434) |
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | [#1](https://osu.ppy.sh/community/matches/53968412) |
