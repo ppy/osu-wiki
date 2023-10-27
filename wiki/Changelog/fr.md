@@ -1,5 +1,6 @@
 ---
 tags:
+  - change log
   - history
   - histoire
 outdated_translation: true
