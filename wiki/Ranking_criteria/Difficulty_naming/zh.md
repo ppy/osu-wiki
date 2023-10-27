@@ -1,3 +1,8 @@
+---
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
+---
+
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -8,7 +13,7 @@
 
 *注意：曾经谱师制作长度很长歌曲的谱面并上传时，被允许使用特殊的难度名称 **Marathon** 。这个名称现在没有特殊含义，一般只在歌曲特别长的谱面或歌曲混编谱面内使用。*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy（简单）
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal（普通）
@@ -16,15 +21,15 @@
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane（疯狂）
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert（专家）
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni（里鬼）
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni（里鬼）
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -32,7 +37,7 @@
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
