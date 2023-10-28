@@ -151,7 +151,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 | ::{ flag=ID }:: [Wishtynite](https://osu.ppy.sh/users/14217379) | 7 |
 | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) | 7 |
 | ::{ flag=US }:: [[GS]Teo](https://osu.ppy.sh/users/7081478)[^previous-prize] | 5 |
-| ::{ flag=RU }:: [0143](https://osu.ppy.sh/users/32695517) | 5 |
+| ::{ flag=US }:: [0143](https://osu.ppy.sh/users/32695517) | 5 |
 | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200)[^previous-prize] | 5 |
 | ::{ flag=KR }:: [leqek](https://osu.ppy.sh/users/1517607) | 3 |
 | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) | 3 |
