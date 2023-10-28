@@ -8,7 +8,7 @@ Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base
 
 La categoria "Mappe abbandonate" è un luogo dove risiedono le beatmap abbandonate dai loro [hosts](/wiki/Beatmap/Beatmap_host). Queste mappe non hanno classifiche, ma possono ancora essere scaricate e giocate e continuano a [contribuire alle statistiche di gioco](#statistiche-delle-mappe-non-classificate). Utilizzano l'icona del punto interrogativo (![](/wiki/shared/status/graveyard.png)) nella [schermata di selezione dei brani](/wiki/Client/Interface#song-select).
 
-Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatmap in lavorazione e in attesa](#mappe-in-lavorazione-e-in-attesa) quando non viene aggiornata per 4 settimane. L'autore può rianimare la beatmap (cioè riportarla [In attesa](#mappe-in-lavorazione-e-in-attesa)) aggiornandola tramite il [sistema di caricamento delle beatmap](/wiki/Beatmapping/Beatmap_submission). Una beatmap nelle abbandonate non conta per il [limite totale di caricamento](/wiki/osu!supporter#limiti-aumentati) di un mappatore, ma per riportarla in vita è necessario uno slot libero in sospeso.
+Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatmap in lavorazione e in attesa](#mappe-in-lavorazione-e-in-attesa) quando non viene aggiornata per 4 settimane. L'autore può rianimare la beatmap (cioè riportarla nella categoria [In attesa](#mappe-in-lavorazione-e-in-attesa)) aggiornandola tramite il [sistema di caricamento delle beatmap](/wiki/Beatmapping/Beatmap_submission). Una beatmap abbandonata non conta per il [limite totale di caricamento](/wiki/osu!supporter#limiti-aumentati) di un mapper, ma per rianimarla è necessario almeno uno slot libero.
 
 ### Mappe in lavorazione e in attesa
 
@@ -28,7 +28,7 @@ Le beatmap classificate sono approvate come contenuto ufficiale, nel senso che h
 
 *Per la storia della categoria Amate vedere: [Storia delle beatmap Amate](/wiki/History_of_osu!/History_of_Loved)*.
 
-Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_criteria), ma sono *amate* dalla comunità e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amati (di solito questo avviene solo su richiesta del creatore). Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
+Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_criteria), ma sono *amate* dalla community e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amate (di solito questo avviene solo su richiesta del creatore). Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
 
 ## Storia
 
@@ -36,13 +36,13 @@ Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ran
 
 La categoria delle beatmap approvate è stata utilizzata tra il 2008 e il 2014 per ospitare le beatmap che superavano i requisiti di lunghezza e punteggio massimo previsti dalle vecchie versioni dei [criteri di classificazione](/wiki/Ranking_criteria), oltre a rare beatmap che infrangevano altre regole dei criteri.
 
-Le beatmap approvate non hanno influenzato la classifica per punteggio degli utenti fino a poco dopo il passaggio a quella per [punti performance](/wiki/Performance_points). In seguito a questo cambiamento, lo stato di "Approvato" è stato utilizzato esclusivamente per le beatmap con più di 6 minuti di [tempo di gioco](/wiki/Beatmap/Drain_time).
+Le beatmap approvate non hanno influenzato la classifica per punteggio degli utenti fino a poco dopo il passaggio a quella per [punti performance](/wiki/Performance_points). In seguito a questo cambiamento, lo stato di "Approvata" è stato utilizzato esclusivamente per le beatmap con più di 6 minuti di [tempo di gioco](/wiki/Beatmap/Drain_time).
 
 Le beatmap approvate utilizzano l'icona della spunta (![](/wiki/shared/status/approved.png)) nella schermata di selezione dei brani e funzionano come le beatmap classificate.
 
-### Appearizione della categoria Qualificate
+### Apparizione della categoria Qualificate
 
-La categoria [Qualificate](#qualificate) è stata introdotta nell'agosto 2014 durante la [Ristrutturazione del BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) per dare maggiore visibilità alle beatmap appena classificate. Se una beatmap Qualificata fosse stata squalificata e spostata di nuovo in attesa, non avrebbe avuto alcun impatto sulle statistiche dei giocatori, perché la categoria stessa era stata progettata per dare punteggi transitori fin dall'inizio. Le aspettative preimpostate si sono dimostrate corrette e si è ridotto notevolmente il feedback negativo della comunità nei confronti delle declassificazioni.
+La categoria [Qualificate](#qualificate) è stata introdotta nell'agosto 2014 durante la [Ristrutturazione del BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) per dare maggiore visibilità alle beatmap appena classificate. Se una beatmap Qualificata fosse stata squalificata e spostata di nuovo nella categoria in attesa, non avrebbe avuto alcun impatto sulle statistiche dei giocatori, perché la categoria stessa era stata progettata per dare punteggi transitori fin dall'inizio. Le aspettative preimpostate si sono dimostrate corrette e si è ridotto notevolmente il feedback negativo della comunità nei confronti delle declassificazioni.
 
 ### Statistiche delle mappe non classificate
 

@@ -29,7 +29,7 @@ The server mainly consists of:
 | Role | User (Discord handle) |
 | :-- | :-- |
 | Server Owner | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_) |
-| Server Moderators | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) (@decku), ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) (@guise_3538), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk) |
+| Server Moderators | ::{ flag=UK }:: [epic man 2](https://osu.ppy.sh/users/14566000) (@epicman2), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk), ::{ flag=AU }:: [zyletinee](https://osu.ppy.sh/users/18971387) (@zyletinee) |
 
 ## Verification
 
