@@ -101,7 +101,7 @@ La organización y planificación de Project Loved se realiza principalmente en 
 
 Además de los canales de discusión mencionados arriba, hay servidores dedicados a cada modo de juego:
 
-- [Servidor de Discord de Project Loved osu! ](https://discord.gg/gn58Uk5sTE)
-- [Servidor de Discord de Project Loved osu!taiko ](https://discord.com/invite/GhfjtZ6)
-- [Servidor de Discord de Project Loved osu!catch ](https://discord.gg/phgtyS4UCh)
-- [Servidor de Discord de Project Loved osu!mania ](https://discord.gg/Ededv7m)
+- [Servidor de Discord de Project Loved osu!](https://discord.gg/gn58Uk5sTE)
+- [Servidor de Discord de Project Loved osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Servidor de Discord de Project Loved osu!catch](https://discord.gg/phgtyS4UCh)
+- [Servidor de Discord de Project Loved osu!mania](https://discord.gg/Ededv7m)
