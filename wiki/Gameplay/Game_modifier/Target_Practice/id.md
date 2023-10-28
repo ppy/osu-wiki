@@ -7,7 +7,7 @@ tags:
   - game modifier
   - cutting edge
 outdated_translation: true
-outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3  
+outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 ---
 
 # Target Practice (mod)
