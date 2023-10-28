@@ -57,7 +57,7 @@ Cada mes, los mapas son elegidos acorde a 9 categorías, con el objetivo de aseg
 | Small Spectacles | Mapas sobresalientes según los capitanes, jugado menos de 5,000 veces. |
 | Daredevil Difficulties | Mapas conocidos por su extrema dificultad, nominados con el objetivo de fomentar la competición entre los mejores jugadores. |
 | Ranked Rejects | Mapas con el formato adecuado para la sección de Clasificados que nunca lo alcanzaron. |
-| Gameplay Gimmicks | Mapas con jugabilidad fuera de lo convencional, usualmente a través del storyboard o mecánicas comunes de los mapas tipo "Aspire".  |
+| Gameplay Gimmicks | Mapas con jugabilidad fuera de lo convencional, usualmente a través del storyboard o mecánicas comunes de los mapas tipo "Aspire". |
 | Meme Monstrosities | Mapas populares por su contenido humorístico o con un foco en la cultura local de una comunidad específica. |
 | Second Shots | Mapas que fueron rechazados en votaciones anteriores, recibiendo una segunda oportunidad |
 | Chill Champions | Mapas apropiados para jugadores casuales, sin dificultades superior a 5 estrellas. |
