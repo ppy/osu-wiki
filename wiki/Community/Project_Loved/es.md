@@ -10,10 +10,10 @@ Los miembros del Project Loved Team llamados **capitanes** regularmente nominan 
 
 Para sugerir un mapa a la categoría Amados, puedes hacerlo desde el [formulario para enviar un mapa](https://loved.sh/submit) a la página de Project Loved. Tu sugerencia será añadida a la lista de su respectivo modo de juego junto a las demás. Abajo están las listas de sugerencias para cada modo de juego.
 
-- [sugerencias para osu!](https://loved.sh/submissions/osu)
-- [sugerencias para osu!taiko](https://loved.sh/submissions/taiko)
-- [sugerencias para osu!catch](https://loved.sh/submissions/fruits)
-- [sugerencias para osu!mania](https://loved.sh/submissions/mania)
+- [Sugerencias para osu!](https://loved.sh/submissions/osu)
+- [Sugerencias para osu!taiko](https://loved.sh/submissions/taiko)
+- [Sugerencias para osu!catch](https://loved.sh/submissions/fruits)
+- [Sugerencias para osu!mania](https://loved.sh/submissions/mania)
 
 Los mapas nominados son publicados en el [foro de Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el mapa sea Amado o no. Los mapas que alcancen el 80% de los votos "Si" al final de las encuestas seran promovidos a la categoría de Amados.
 
