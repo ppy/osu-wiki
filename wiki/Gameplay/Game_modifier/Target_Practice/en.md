@@ -26,11 +26,17 @@ tags:
 
 *Notice: Enabling the Target Practice mod will result in an unranked play.*
 
-The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) that removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified and consistent set of "targets".
+The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified and consistent set of "targets". Due to this mod's nature, The mod is used mostly for fun, but can also be helpful to players that want to improve themselves, for they can use it to practice maintaining a consistent tempo and improving hit accuracy.
 
-During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
+During a play with the Target Practice mod enabled, the health bar and accuracy will not be shown. The player will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 
-The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo.
+The gameplay will automatically come to an end upon getting a MISS. The accuracy will be given basing on previous hits, along with a grade. The meaning of different grades is similar to that in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+
+## Targets
+
+The targets can be considered as a special type of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), which don't have numbers on top of them. The score and the total accuracy are affected by the position and timing of a hit. Generally, the closer the hit position is to the centre of the target and the more accurate the timing is, the more score can get from a hit, vice versa. The highest score obtained from a "target" is 250 points, which needs the player to tap the target at the centre and the exactly correct time.
+
+Based on the beatmap's timing settings, the "targets" are divided into groups per two [full beats](/wiki/Music_theory/Beat), and the distance between targets in a group is identical, while the one between two groups gradually increase, which is consistent throughout all beatmaps.
 
 ![TP Gameplay](img/TP-gameplay.jpg "osu! gameplay with the Target Practice mod enabled")
 
