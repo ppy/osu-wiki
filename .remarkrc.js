@@ -40,6 +40,10 @@ export default {
     ['lint-ordered-list-marker-value', 'ordered'],
     ['lint-osu-links'],
     ['lint-osu-wiki-links'],
+    ['lint-table-cell-padding', false],
     ['lint-table-pipe-alignment', false],
+    ['osu/lint-table-align-style'],
+    ['osu/lint-table-cell-padding'],
+    ['osu/lint-table-no-missing-cells'],
   ],
 };
