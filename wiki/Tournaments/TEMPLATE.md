@@ -124,12 +124,12 @@ If the mappool doesn't use a standard ModType pool structure, alternative titles
 
 Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 
-<!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
-| Team 1 |  |  | Team 2 | Match link |
+<!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Notes | -->
+| Team 1 |  |  | Team 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **WINNER** ::{ flag=CODE }:: | **SCORE** | SCORE | ::{ flag=CODE }:: LOSER | [#1](MatchLink) |
-| LOSER ::{ flag=CODE }:: | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ::{ flag=CODE }:: **WINNER** | *win by default* |
-| TEAM_A ::{ flag=CODE }:: | 0 | 0 | ::{ flag=CODE }:: TEAM_B | *nullified* |
+| **WINNER** ::{ flag=CODE }:: | **SCORE** | SCORE | ::{ flag=CODE }:: LOSER | [Match](MatchLink) <!-- Include any links or info relevant to the match, such as the match history, livestream recording, etc. --> |
+| LOSER ::{ flag=CODE }:: | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ::{ flag=CODE }:: **WINNER** | *Win by default* |
+| TEAM_A ::{ flag=CODE }:: | 0 | 0 | ::{ flag=CODE }:: TEAM_B | *Nullified* |
 
 ## Ruleset
 
