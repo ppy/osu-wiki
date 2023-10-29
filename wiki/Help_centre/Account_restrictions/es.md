@@ -1,4 +1,4 @@
-# Restricciones de la cuenta
+# Restricciones de cuenta
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
 
