@@ -152,7 +152,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [Nov 5 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T160000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
 | Germany ::{ flag=DE }:: | ::{ flag=CA }:: Canada | [Nov 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) |
 
-
 ## Mappools
 
 ### Round of 16
