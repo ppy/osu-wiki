@@ -1,3 +1,7 @@
+---
+no_native_review: true # since 08b5cd869b6e404b0861dc7747b72bd232909352
+---
+
 # Nâng cấp lên lazer
 
 *Lưu ý: Chúng tôi vẫn đang tìm hiểu về sự cân bằng và cơ chế trò chơi. Bây giờ, **những điểm số được ghi trên lazer sẽ không tồn tại mãi mãi**.*
