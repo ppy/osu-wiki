@@ -196,13 +196,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 Saturday, 28 October 2023:
 
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
-| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
-| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
-| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
-| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
+| Team A |  |  | Team B | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [Match](https://osu.ppy.sh/community/matches/111062319), [VOD](https://www.twitch.tv/videos/1962215601 "Livestream recording on Twitch") |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [Match](https://osu.ppy.sh/community/matches/111063878), [VOD](https://www.twitch.tv/videos/1962257068 "Livestream recording on Twitch") |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [Match](https://osu.ppy.sh/community/matches/111072298), [VOD](https://www.twitch.tv/videos/1962618853 "Livestream recording on Twitch") |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: Turkey | [Match](https://osu.ppy.sh/community/matches/111073334), [VOD](https://www.twitch.tv/videos/1962709043?t=0h55m18s "Livestream recording on Twitch") |
+| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **Brazil** | [Match](https://osu.ppy.sh/community/matches/111073335), [VOD](https://www.twitch.tv/videos/1962709043 "Livestream recording on Twitch") |
 
 ### Qualifiers
 
