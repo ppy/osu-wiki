@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 계정 제한
 
 *메인 페이지: [Help centre](/wiki/Help_centre)*
