@@ -12,7 +12,7 @@ Pagina di indice per gli articoli su persone o gruppi.
 - [Completisti](Completionists)
 - [Sviluppatori](Developers)
 - [Elite Nominators](Elite_Nominators)
-- [Artisti in Evidenza](Featured_Artists)
+- [Artisti in Primo Piano](Featured_Artists)
 - [Team di Moderazione Globale](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Comitato Punti Performance](Performance_Points_Committee)
@@ -21,7 +21,7 @@ Pagina di indice per gli articoli su persone o gruppi.
 - [Comitato dei Tornei](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
-- [Mantenitori della osu! wiki](osu!_wiki_maintainers)
+- [Manutentori della osu! wiki](osu!_wiki_maintainers)
 
 ## Passati
 
