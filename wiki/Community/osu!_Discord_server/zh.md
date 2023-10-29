@@ -22,7 +22,7 @@ osu! Discord 服务器有许多频道，多数频道都围绕着一两个特定�
 | 频道 | 描述 |
 | :-- | :-- |
 | `#welcome` | 服务器信息 |
-| `#introduction` | 自我介绍 |
+| `#introductions` | 自我介绍 |
 | `#general` | 与 osu! 相关的常规讨论和排障 |
 
 ### 客户端 / Web

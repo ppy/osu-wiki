@@ -14,7 +14,7 @@
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni（里鬼）
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni（里鬼）
 
 ### 游戏物件
 
