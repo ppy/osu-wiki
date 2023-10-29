@@ -126,16 +126,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ## Match schedule: Round of 32
 
-### Saturday, 28 October 2023
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=SE }:: Sweden | [Oct 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Oct 28 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Oct 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=TR }:: Turkey | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
-| France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 29 October 2023
 
 | Team A | Team B | Match time | Twitch stream |
@@ -200,7 +190,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
   2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
-## Results
+## Match results
+
+### Round of 32
+
+Saturday, 28 October 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
+| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
 
 ### Qualifiers
 
