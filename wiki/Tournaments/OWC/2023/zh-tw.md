@@ -30,9 +30,9 @@ tags:
 
 | 名次 | 獎賞 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠軍") | 48% 的獎金、限量發行獎品、個人頁面獎章、一年的 **osu! Champion** 個人稱號 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亞軍") | 32% 的獎金、限量發行獎品、個人頁面獎章 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季軍") | 20% 的獎金、限量發行獎品、個人頁面獎章 |
+| ![冠軍](/wiki/shared/crown-gold.png "冠軍") | 48% 的獎金、限量發行獎品、個人頁面獎章、一年的 **osu! Champion** 個人稱號 |
+| ![亞軍](/wiki/shared/crown-silver.png "亞軍") | 32% 的獎金、限量發行獎品、個人頁面獎章 |
+| ![季軍](/wiki/shared/crown-bronze.png "季軍") | 20% 的獎金、限量發行獎品、個人頁面獎章 |
 
 ## 組織
 
