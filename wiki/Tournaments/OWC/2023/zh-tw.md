@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2023
 
-![OWC 2023 banner](img/owc2023-banner.jpg)
+![OWC 2023 橫幅](img/owc2023-banner.jpg)
 
 **osu! World Cup 2023** (***OWC 2023***) 是一個以國家為隊伍的 osu! 世界賽，由 [osu! team](/wiki/People/osu!_team) 主辦，這次為該比賽的第十四屆。
 
@@ -196,7 +196,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 2023 年 10 月 28 日, 星期六：
 
-| A 隊 |  |  | B 隊 | Match link | VOD link |
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **智利** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: 瑞典 | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
 | **美國** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: 泰國 | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
