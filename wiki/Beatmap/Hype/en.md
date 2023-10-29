@@ -14,6 +14,6 @@ Beatmaps need at least 5 hype (one complete bar of the hype train) to be eligibl
 
 ## Limit
 
-Users start with 10 hypes, and they are consumed when used on beatmaps. Each hype takes a week to become available again.
+Users start with 10 hypes. Each hype independently takes a week to recharge after being used on a beatmap, meaning all hypes are available again after one week.
 
 <!-- TODO: images of the beatmap page and the modding page -->
