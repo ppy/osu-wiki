@@ -6,16 +6,16 @@
 
 Los beatmaps son promovidos a la categoría Amados por un proceso de nominación y votación.
 
-Los miembros del Project Loved Team son llamados **capitanes** y nominan regularmente beatmaps para un modo de juego específico. Estos casi siempre vienen de las sugerencias de la comunidad.
+Los miembros del Project Loved Team son llamados **capitanes** y nominan regularmente beatmaps para un modo de juego específico. Estos beatmaps casi siempre son sugeridos por la comunidad.
 
-Para sugerir un beatmap a la categoría Amados, puedes hacerlo desde la [página de envío de beatmaps](https://loved.sh/submit) de la página del Project Loved. Tu sugerencia será añadida a la lista de su respectivo modo de juego junto a las demás. Abajo están las listas de sugerencias para cada modo de juego.
+Para sugerir un beatmap a la categoría Amados, puedes hacerlo desde la [página de envío de beatmaps](https://loved.sh/submit) de la página del Project Loved. Tu sugerencia será añadida a la lista de su respectivo modo de juego junto a las demás. A continuación se encuentran las listas donde se pueden ver estas sugerencias:
 
 - [Sugerencias para osu!](https://loved.sh/submissions/osu)
 - [Sugerencias para osu!taiko](https://loved.sh/submissions/taiko)
 - [Sugerencias para osu!catch](https://loved.sh/submissions/fruits)
 - [Sugerencias para osu!mania](https://loved.sh/submissions/mania)
 
-Los beatmaps nominados son publicados en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea Amado o no. Los mapas que alcancen el 80 % de los votos «Si» al final de las encuestas seran promovidos a la categoría Amados.
+Los beatmaps nominados son publicados en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea Amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría Amados.
 
 Los creadores de estos beatmaps pueden enviar una petición para eliminarlos de la categoría Amados a cualquier miembro del [Project Loved Team](https://osu.ppy.sh/groups/31) o escribiendo un mensaje en el canal `#osu-loved` del [servidor de Discord osu!](https://discord.gg/ppy). El proceso de eliminación tomará al menos una semana y su creador recibirá un mensaje de confirmación cuando se haya realizado.
 
@@ -48,15 +48,15 @@ A partir de febrero de 2023, los beatmaps del modo de juego osu! considerados pa
 
 #### Categorización
 
-Cada mes, los beatmaps son elegidos acorde a 9 categorías, con el objetivo de asegurar variedad de beatmaps en cada selección de los capitanes.
+Cada mes, los beatmaps son elegidos acorde a 9 categorías, con el objetivo de asegurar una variedad de beatmaps en cada selección de los capitanes.
 
 | Categoría | Descripción |
 | :-: | :-- |
-| Popular Playcounts | Beatmaps populares en la comunidad, jugado al menos 100 000 veces. |
+| Popular Playcounts | Beatmaps populares en la comunidad, jugados al menos 100 000 veces. |
 | Outstanding Oldies | Beatmaps enviados hace más de seis años. |
 | Small Spectacles | Beatmaps sobresalientes según los capitanes, jugado menos de 5000 veces. |
 | Daredevil Difficulties | Beatmaps conocidos por su extrema dificultad, nominados con el objetivo de fomentar la competición entre los mejores jugadores. |
-| Ranked Rejects | Beatmaps con el formato adecuado para la categoría Clasificados que nunca lo alcanzaron. |
+| Ranked Rejects | Beatmaps con una distribución completa que siguen los criterios de clasificación, pero que nunca alcanzaron el estado clasificado. |
 | Gameplay Gimmicks | Beatmaps con jugabilidad fuera de lo convencional, usualmente a través de storyboard o mapping tipo Aspire. |
 | Meme Monstrosities | Beatmaps populares por su contenido humorístico o con un foco en la cultura local de una comunidad específica. |
 | Second Shots | Beatmaps que fueron rechazados en votaciones anteriores, recibiendo una segunda oportunidad |
