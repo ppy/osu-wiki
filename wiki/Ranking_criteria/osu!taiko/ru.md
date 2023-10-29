@@ -1,3 +1,8 @@
+---
+outdated_since: 3a1958422c9763281ddcc1f317b172efebbd2d0e
+outdated_translation: true
+---
+
 # Критерии ранкинга osu!taiko
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_criteria).***
@@ -14,7 +19,7 @@
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### Геймплей
 
