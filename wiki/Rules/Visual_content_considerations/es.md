@@ -10,11 +10,11 @@ Según la [regla de la comunidad n.º 5](/wiki/Rules#community-rules), todo el c
 
 Esto incluye:
 
-- beatmaps enviados, **incluso aquellos etiquetados como [explícito](/wiki/Rules/Explicit_content)**
+- beatmaps enviados, **incluso aquellos etiquetados como [explícitos](/wiki/Rules/Explicit_content)**
 - detalles del perfil (avatares, imágenes de portada)
 - cualquier otro archivo adjunto o hipervínculo (publicaciones en foros, comentarios, publicaciones en discusiones de beatmaps)
 
-Con el fin de mantener las cosas lo más limpias posible, la regla comunitaria 5 se aplica a cualquier cosa que pueda considerarse razonablemente «cuestionable».
+Con el fin de mantener las cosas lo más limpias posible, la quinta regla de la comunidad se aplica a cualquier cosa que pueda considerarse razonablemente «cuestionable».
 
 ## Cosas importantes a considerar
 
@@ -37,7 +37,7 @@ En caso de duda, trata de adaptarte a los valores colectivos compartidos por la 
 - **representaciones de contenido político, cultural, religioso o social deliberadamente incendiario**
 - **imágenes que representen comportamientos suicidas o autolesivos, incluida la preparación o intentos inminentes**
 
-Además, las imágenes o los elementos visuales que puedan considerarse razonablemente de mala calidad (ya sea en cuanto a la calidad objetiva de la imagen o a la composición/creación subjetiva) también podrán no utilizarse en un beatmap en los casos en que no estén directamente relacionados con ningún tema relevante.
+Además, las imágenes o los elementos visuales que puedan considerarse razonablemente de mala calidad (ya sea en cuanto a la calidad objetiva de la imagen o a la composición/creación subjetiva) también podrán no usarse en un beatmap en los casos en que no estén directamente relacionados con ningún tema relevante.
 
 ## Excepciones
 
@@ -54,9 +54,9 @@ En determinadas circunstancias, pueden aplicarse algunas excepciones para el uso
 
 *Véase: [Proceso de votación de contenido](/wiki/Rules/Content_voting_process).*
 
-Las imágenes que se utilizan en cualquier parte del sitio fuera de un beatmap (avatares, portadas de perfiles, páginas de usuario, etc.) **no** están sujetas al procedimiento de votación que se explica a continuación y pueden eliminarse en cualquier momento a discreción del Global Moderation Team.
+Las imágenes que se usan en cualquier parte del sitio fuera de un beatmap (avatares, portadas de perfiles, páginas de usuario, etc.) **no** están sujetas al procedimiento de votación que se explica a continuación y pueden eliminarse en cualquier momento a discreción del Global Moderation Team.
 
-Si no estás seguro acerca de una imagen que se incluirá en un beatmap de alguna manera, **envía una solicitud a través de [la página de envíos de informes de los Beatmap Nominators](https://bn.mappersguild.com/reports).** La imagen será sometida a votación que deberá ser aprobada por una mayoría considerable, o será automáticamente denegada.
+Si no estás seguro acerca de una imagen que se incluirá en un beatmap de alguna manera, **envía una solicitud a través de [la página de envíos de reportes de los Beatmap Nominators](https://bn.mappersguild.com/reports).** La imagen será sometida a votación que deberá ser aprobada por una mayoría considerable, o será automáticamente denegada.
 
 **El resultado de cualquier votación es definitivo**, a menos que la imagen se altere significativamente en un intento de resolver cualquier elemento potencialmente problemático que surja durante la discusión.
 
