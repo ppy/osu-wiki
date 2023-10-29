@@ -55,8 +55,8 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 - [討論串](https://osu.ppy.sh/community/forums/topics/1823846)
 - [直播](https://www.twitch.tv/osulive)
 - [賽事預測](https://pickem.hwc.hr/tournaments/130) 由 ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) 提供
-- [以行動支持隊伍](https://osu.ppy.sh/store/products/1219)
 - [賽程對陣圖](https://challonge.com/OWC_2023)
+- [以行動支持隊伍](https://osu.ppy.sh/store/products/1219)
 
 ## 參賽者
 
