@@ -332,14 +332,12 @@ Sunday, 8 October 2023:
 3. All matches will be done under the `Team Vs` setting and the [ScoreV2](https://osu.ppy.sh/wiki/en/Gameplay/Score#scorev2) scoring system.
 4. Although the tournament doesn't exercise a strict rank restriction, players must have been participated before in BQT1, BQT2, BQT3, BQT4, or BQT5 in order to be eligible.
 5. Players are required to be in the Discord for the duration of the tournament as long as their team is participating in the tournament.
-6. BQT1-5 players are eligible to play in BQT6.
-7. The tournament will be conducted in seven stages, namely Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals.
-8. There will be a bracket reset in the Grand Finals if necessary.
-9. All matches from the Semifinals onwards will be streamed. Other matches are also subject to be streamed depending on the streamers' availability.
-10. All match times are in UTC. Find your own time zone here if you're unsure what UTC you're in.
-11. Referees, streamers, and match casters are allowed to play in the tournament. However, referees may not self-referee their own match.
-12. 6 Digit badged players are ALLOWED to participate.
-13. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
+6. The tournament will be conducted in seven stages, namely Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals.
+7. There will be a bracket reset in the Grand Finals if necessary.
+8. All matches from the Semifinals onwards will be streamed. Other matches are also subject to be streamed depending on the streamers' availability.
+9. All match times are in UTC. Find your own time zone here if you're unsure what UTC you're in.
+10. Referees, streamers, and match casters are allowed to play in the tournament. However, referees may not self-referee their own match.
+11. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
 
    - **Pros:**
 
