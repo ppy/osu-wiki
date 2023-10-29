@@ -68,7 +68,7 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
-          python-version: 3.x
+          python-version: '3.11'
 
       - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt
