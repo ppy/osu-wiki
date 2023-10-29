@@ -53,7 +53,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

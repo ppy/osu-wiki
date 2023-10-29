@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
 ---
 
 # 難度命名
@@ -12,7 +14,7 @@ no_native_review: true
 
 *提示：**Marathon** 這個特殊的難度名稱在過去可以讓製譜者上傳更長的圖譜，因此經常用在只有一個難度的圖譜集中。如今此名稱已無特殊含義，只被用於特別長的圖譜及歌曲合輯。*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy　(簡單)
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal (普通)
@@ -20,15 +22,15 @@ no_native_review: true
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane (瘋狂)
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert (專家)
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan (簡單)
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu (普通)
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii (困難)
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni (鬼)
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni (裏鬼)
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni (裏鬼)
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -36,7 +38,7 @@ no_native_review: true
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

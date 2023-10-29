@@ -18,8 +18,8 @@ En cliquant sur les badges, vous accéderez à la liste des groupes respectifs, 
 | ID | Badge | Nom | Description |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Surveille les forums et le tchat en jeu |
-| 7 | [![NAT](/wiki/shared/group/NAT.png)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Gère les Beatmap Nominators |
-| 11 | [![DEV](/wiki/shared/group/DEV.png)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Rendent le jeu génial en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs |
+| 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Gère les Beatmap Nominators |
+| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Rendent le jeu génial en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Utilisateurs connus pour leur contribution par le passé et qui ont tourné la page |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support Team](/wiki/People/Support_Team) | Aide et assistance |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Des utilisateurs qui se surpassent pour assurer la qualification des beatmaps |
