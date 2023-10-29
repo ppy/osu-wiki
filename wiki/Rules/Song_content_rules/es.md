@@ -11,7 +11,7 @@ Ten en cuenta que las canciones con contenido explícito están [cubiertas por r
 
 ## ¿Qué se clasifica como contenido «fuertemente político»?
 
-Con el fin de mantener un juego sobre el ritmo estrictamente sobre el ritmo y de acuerdo con la [regla de la comunidad](/wiki/Rules#community-rules) #3, el contenido que la administración considere excesivamente político no está permitido.
+Con el fin de mantener un juego sobre el ritmo estrictamente sobre el ritmo y de acuerdo con la [regla de la comunidad](/wiki/Rules#community-rules) n.º 3, el contenido que la administración considere excesivamente político no está permitido.
 
 No nos adherimos a ningún «final» particular de un espectro político: osu! es estrictamente apolítico y queremos que la gente se divierta, no que inicie rencillas o riñas sobre política.
 
