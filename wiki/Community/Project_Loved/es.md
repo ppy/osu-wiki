@@ -32,7 +32,7 @@ Aunque muchos beatmaps Pendientes y en Trabajo en progreso cumplen con estos cri
 
 Los beatmaps que entran a la categoría Amados requieren seguir unas cuantas reglas extra:
 
-- [Algunos puntos de la seccion Metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata):
+- [Algunos puntos de la sección Metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata):
   - El título, artista y origen de la canción deben ser correctos en todos los casos.
   - Las etiquetas del beatmap deben nombrar a todos los contribuidores (creadores de dificultades de invitado, storyboarders, etc.).
 - [Reglas del contenido de las canciones](/wiki/Rules/Song_content_rules)
@@ -40,7 +40,7 @@ Los beatmaps que entran a la categoría Amados requieren seguir unas cuantas reg
 
 Adicionalmente, con el fin de mantener la calidad de audio en un nivel razonable, los archivos de audio deben tener una tasa de bits de al menos 128 kbps.
 
-Cualquier problema con estas reglas suele ser solucionado mientras el beatmap esta en su período de votación.
+Cualquier problema con estas reglas suele ser solucionado mientras el beatmap está en su período de votación.
 
 ### Criterios específicos de osu!
 
@@ -74,11 +74,11 @@ Para cualquier consulta sobre qué va en cada categoría, contacta un capitán d
 - **El beatmap debe estar fuera de las categorías Calificados, Clasificados o Aprobados.** Idealmente, un mapa no debería apuntar a entrar a la categoría Clasificados y Amados al mismo tiempo, ya que son mutualmente exclusivos.
 **El beatmap debe haberse enviado al menos un año antes de su nominación a Amados, con la excepción de los mapas que rompen los criterios de clasificación con su concepto.** No se recomienda publicar un beatmap con el objetivo de entrar en la categoría Amados cuando la categoría Clasificados es una mejor opción. Las excepciones suelen incluir usos de sliderator, mapas Aspire, mapas con mecánicas de juego en el storyboard, etc.
 - **El beatmap debe tener al menos 30 favoritos.** Este es un límite mínimo para indicar la existencia de una reacción positiva por parte de la comunidad hacia el beatmap. Se recomienda no coordinar grupos para aumentar los favoritos, aunque los capitanes no pueden verificar si esto ocurre.
-- **Todas las personas involucradas en el beatmap deben estar de acuerdo con que entre en Amados.** Esto incluye a los creadores de dificultades de invitado y a los creadores de hitsounds, skins y storyboards. Si cualquier usuario involucrado en el beatmap esta en desacuerdo con que su contribución sea parte de Amados, esta debe ser eliminada del beatmap tras su nominación.
+- **Todas las personas involucradas en el beatmap deben estar de acuerdo con que entre en Amados.** Esto incluye a los creadores de dificultades de invitado y a los creadores de hitsounds, skins y storyboards. Si cualquier usuario involucrado en el beatmap está en desacuerdo con que su contribución sea parte de Amados, esta debe ser eliminada del beatmap tras su nominación.
 - **El anfitrión del beatmap no puede estar restringido.** En el caso de que los creadores de dificultades de invitado estén restringidos, los capitanes tendrán la última palabra en cuanto a permitirlos o no tras ser nominados.
-- **Es posible pasar al menos una de las dificultades del beatmap.** Las tablas de clasificación no tienen sentido en beatmaps en los que es imposible enviar una puntuación. Por esta razón, también son prohibidos los beatmaps que son relevantes solo por una dificultad imposible de pasar, incluso si tienen otras dificultades. Si el mapa tiene una dificultad imposible de pasar, una nueva dificultad que elimine los elementos problemáticos debe ser incluida, de preferencia reemplazando la original.
+- **Es posible pasar al menos una de las dificultades del beatmap.** Las tablas de clasificación no tienen sentido en beatmaps en los que es imposible enviar una puntuación. Por esta razón, también son prohibidos los beatmaps que son relevantes solo por una dificultad imposible de pasar, incluso si tienen otras dificultades. Si el mapa tiene una dificultad imposible de pasar, una nueva dificultad que elimine los elementos problemáticos debe ser incluida, de preferencia, reemplazando la original.
 - **Cada dificultad del beatmap debe tener un mínimo de 20 segundos de duración.** Esto es más bajo que el mínimo de 30 segundos que se aplica en los criterios de clasificación, con el objetivo de ser más flexibles.
-- **Un beatmap debe tener al menos alguna contribución de la persona que lo publica.** Esto evita de manera específica las «compilaciones de beatmaps», las cuales incluso con el permiso del creador original, no representan el contenido original exhibido en la categoría Amados.
+- **Un beatmap debe tener al menos alguna contribución de la persona que lo publica.** Esto evita de manera específica las «compilaciones de beatmaps», las cuales, incluso con el permiso del creador original, no representan el contenido original exhibido en la categoría Amados.
 - **La temporización del beatmap no debe tener un impacto negativo en la jugabilidad.** A diferencia de los criterios de clasificación, que requieren una temporización precisa para todos los beatmaps, hay una pequeña flexibilidad para canciones complejas. Si estás inseguro de si la temporización de un beatmap es apropiada, puedes contactar a alguno de los capitanes.
 - **Los beatmaps cuyos conceptos dependen del storyboard no deben ser fácilmente explotables por los jugadores a través de editar archivos.** Esto es evaluado caso a caso para asegurar una competición justa para aquellos que juegan el beatmap de la manera prevista. Los problemas pueden ser mitigados usando una tasa de aproximación de 0, haciendo que las notas invisibles se sientan más naturales, a la vez que puedes hacer el storyboard de manera específica para la dificultad usando el archivo `.osu` en lugar del `.osb`. 
 
@@ -86,7 +86,7 @@ Para cualquier consulta sobre qué va en cada categoría, contacta un capitán d
 
 **Las pautas pueden ignorarse en circunstancias excepcionales.** Estas circunstancias excepcionales deben justificarse mediante una explicación exhaustiva de por qué se ha ignorado la pauta y por qué no ignorarla interferirá con la calidad general de la creación.
 
-- **Todas las reglas y pautas de los criterios de clasificación que no han sido explícitamente mencionadas aquí se consideran pautas.** La aplicación de estas ocurre dependiendo del caso durante el proceso de nominación a Amados, por lo que el creador será contactado en caso de cualquier cambio requerido. Ten en cuenta que contar con dificultades para cada nivel no es necesario excepto en la categoría de *Ranked Rejects*.
+- **Todas las reglas y pautas de los criterios de clasificación que no han sido explícitamente mencionadas aquí se consideran pautas.** La aplicación de estas ocurre dependiendo del caso durante el proceso de nominación a Amados, por lo que el creador será contactado en caso de cualquier cambio requerido. Ten en cuenta que contar con dificultades para cada nivel no es necesario, excepto en la categoría de *Ranked Rejects*.
 - **Los metadatos del beatmap deben ser tan precisos como sea posible.** Los beatmaps que son nominados a Amados pasan por una comprobación final por parte de miembros especializados de la comunidad. Tener unos metadatos correctos ayuda a encontrar el beatmap fácilmente. Ante cualquier duda, contacta a un capitán de Project Loved.
 - **Los puntos de tiempo no heredados deben ser iguales en todas las dificultades de un mapa.** Esto se puede ignorar en el caso de ciertas mecánicas de juego que involucran cambiar el PPM, velocidad del slider u otros factores que no son relevantes en todas las dificultades.
 - **Todas las dificultades del beatmap deben estar terminadas.** Esto significa completar de principio a fin la canción, excluyendo secciones irrelevantes como intros u outros. Por ejemplo, en una canción de 5 minutos con múltiples dificultades, si las dificultades Hard y Extra duran 4:30, la dificultad Insane no puede durar solo 1 minuto. Si todas las dificultades tienen una gran porción de la cancion sin mapear, el archivo de audio debe ser recortado de manera acorde.
