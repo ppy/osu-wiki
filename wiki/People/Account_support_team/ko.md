@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 계정 지원팀
 
 *특정 포럼을 중재하는 팀의 경우, 다음을 참조하세요: [서포트 팀](/wiki/People/Support_Team)*
