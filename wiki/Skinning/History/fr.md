@@ -1,11 +1,10 @@
 ---
-outdated_since: 7f11c0debbe18e861931071cd38678a1ff0118e9
-outdated_translation: true
+needs_cleanup: true
 ---
 
-# L'histoire du skinning
+# L'Historique du skinning
 
-Les éléments de skinning présentés ici ne sont plus utilisables.
+Les éléments de skinning listés ici ne sont plus utilisés.
 
 ## Interface
 
@@ -13,14 +12,14 @@ Les éléments de skinning présentés ici ne sont plus utilisables.
 
 ![](img/menu-osu.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Remarques :
 
-- Cet élément était visible à la fin d'un replay d'une partie perdue ou en observant un joueur (pendant les chargements ou si le joueur met la partie en pause ou échoue).
-- Cet élément était considéré comme un bug et n'est plus skinnable.
+- Cet élément a été observé à la fin d'un replay miss d'une beatmap ou en tant que spectateur (lors de la mise en mémoire tampon, de la pause ou du miss).
+- Cet élément a été considéré comme un bug et a été retiré du skinning.
 
 ---
 
@@ -28,9 +27,9 @@ Remarques :
 
 ![](img/playfield.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 1366x768 |
+| Tous | ![Non][false] | ![Oui][true] | Normal | Centre | 1366x768 |
 
 Remarques :
 
@@ -42,14 +41,14 @@ Remarques :
 
 ![](img/selection-selectoptions.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément a été supprimé pour des raisons inconnues.
-- Ce bouton ouvre les options de beatmaps sur une beatmap individuelle. Vous pouvez toujours accéder à ces options en faisant un clic droit sur la beatmap sur l'écran de sélection de beatmap.
+- Cet élément a été supprimé pour une raison indéterminée.
+- Ce bouton ouvrait le menu des options de la beatmap pour les beatmaps individuels. Vous pouvez toujours accéder à ce menu en cliquant avec le bouton droit de la souris sur une beatmap pendant la sélection de la musique.
 
 ---
 
@@ -57,13 +56,13 @@ Remarques :
 
 ![](img/selection-selectoptions-over.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément a été supprimé en même temps que `selection-selectoptions.png`
+- Cet élément a été supprimé avec `selection-selectoptions.png`
 
 ---
 
@@ -71,13 +70,13 @@ Remarques :
 
 ![](img/volume-bg.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément a été supprimé pour des raisons inconnues.
+- Cet élément a été supprimé pour une raison indéterminée.
 
 ---
 
@@ -85,13 +84,13 @@ Remarques :
 
 ![](img/volume-bg-effect.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément a été supprimé pour des raisons inconnues.
+- Cet élément a été supprimé pour une raison indéterminée.
 
 ---
 
@@ -99,14 +98,14 @@ Remarques :
 
 ![](img/volume-bar.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément a été supprimé pour des raisons inconnues.
-- La possibilité de skinner cet élément n'est pas certifiée, mais supposée.
+- Cet élément a été supprimé pour une raison indéterminée.
+- La possibilité de skinner cet élément n'a pas été vérifiée, mais présumée.
 
 ---
 
@@ -114,13 +113,31 @@ Remarques :
 
 ![](img/coin.png)
 
-| Peut être animé | Skinnable sur la beatmap |
+| Possibilité de l'animer | Skinnable sur les beatmaps |
 | :-: | :-: |
 | ![Non][false] | ![Non][false] |
 
 Remarques :
 
-- Cet élément était skinnable pendant le jour du poisson d'avril de 2015.
+- Cet élément a été skinnable pendant une seule journée dans le cadre du poisson d'avril 2015.
+
+---
+
+`menu-charts-click.wav`
+
+Remarques :
+
+- L'échantillon joué en cliquant sur `Charts` dans le menu principal.
+
+---
+
+`menu-charts-hover.wav`
+
+Remarques :
+
+- L'échantillon joué en passant la souris sur `Charts` dans le menu principal.
+
+---
 
 ### FPS
 
@@ -128,15 +145,15 @@ Remarques :
 
 ![](img/fps-0.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -144,15 +161,15 @@ Remarques :
 
 ![](img/fps-1.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -160,15 +177,15 @@ Remarques :
 
 ![](img/fps-2.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -176,15 +193,15 @@ Remarques :
 
 ![](img/fps-3.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -192,15 +209,15 @@ Remarques :
 
 ![](img/fps-4.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -208,15 +225,15 @@ Remarques :
 
 ![](img/fps-5.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -224,15 +241,15 @@ Remarques :
 
 ![](img/fps-6.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -240,15 +257,15 @@ Remarques :
 
 ![](img/fps-7.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -256,15 +273,15 @@ Remarques :
 
 ![](img/fps-8.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -272,15 +289,15 @@ Remarques :
 
 ![](img/fps-9.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -288,15 +305,15 @@ Remarques :
 
 ![](img/fps-comma.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ---
 
@@ -304,15 +321,15 @@ Remarques :
 
 ![](img/fps-fps.png)
 
-| Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
+| Versions | Possibilité de l'animer | Skinnable sur les beatmaps | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
+| Tous | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
 
 Remarques :
 
-- Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
-- Exclusivement pour le canal de mise à jour Stable (Fallback).
-- Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+- Cet élément a été supprimé avec la version Stable (Fallback).
+- Exclusivement pour la version Stable (Fallback).
+- Doit être activé dans les [options](/wiki/Client/Options) pour être visible.
 
 ## osu!
 
@@ -320,13 +337,13 @@ Remarques :
 
 ![](img/hitcircleoverlay.png)
 
-*Pour plus de détails, voir [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Pour plus de détails, voir [hitcircleoverlay.png](/wiki/Skinning/osu!#cercles).*
 
 Remarques :
 
 - Nom de l'animation : `hitcircleoverlay-{n}.png`
-- Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+- Fréquence de l'animation : 2 FPS (4 FPS max).
+  - Cette fréquence est affecté par les mods Half Time et Double Time/Nightcore
 
 ---
 
@@ -334,13 +351,13 @@ Remarques :
 
 ![](img/sliderstartcircleoverlay.png)
 
-*Pour plus de détails, voir [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Pour plus de détails, voir [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#cercles).*
 
 Remarques :
 
 - Nom de l'animation : `sliderstartcircleoverlay-{n}.png`
-- Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+- Fréquence de l'animation : 2 FPS (4 FPS max).
+  - Cette fréquence est affecté par les mods Half Time et Double Time/Nightcore
 
 ---
 
@@ -348,19 +365,19 @@ Remarques :
 
 ![](img/sliderendcircleoverlay.png)
 
-*Pour plus de détails, voir [sliderendcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Pour plus de détails, voir [sliderendcircleoverlay.png](/wiki/Skinning/osu!#cercles).*
 
 Remarques :
 
 - Nom de l'animation : `sliderendcircleoverlay-{n}.png`
-- Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+- Fréquence de l'animation : 2 FPS (4 FPS max).
+  - Cette fréquence est affecté par les mods Half Time et Double Time/Nightcore
 
 ## .ini
 
 `#k.ini`
 
-Fichiers .ini séparés pour chaque nombre de touches en mania.
+Fichiers .ini séparés pour tous les keymodes d'osu!mania.
 
 Remarques :
 
@@ -372,26 +389,26 @@ Remarques :
 
 - Question : Quel style les sliders doivent-ils utiliser ?
 - Valeur : `1` / `2`
-- Par défaut : `2`
+- Valeur par défaut : `2`
 
 Remarques :
 
-- **Uniquement pour le canal de mise à jour Stable (Fallback)**
-- `1` = Segmenté
-- `2` = Dégradé
+- **Version Stable (Fallback) uniquement**
+- `1` = Pistes segmentées
+- `2` = Pistes gradué
 
 ---
 
 `SliderBallFrames:`
 
-- Question : Combien d'images utilisez-vous pour l'animation de la sliderball ?
-- Valeur : *nombre positif*
-- Par défaut : *(vide)*
+- Question : Combien d'images voulez-vous pour l'animation du sliderball ?
+- Valeur : *nombre entier positif*
+- Valeur par défaut : *(vide)*
 
 Remarques :
 
-- Cela ne concerne que le mode de jeu [osu!](/wiki/Game_mode/osu!).
-- Cela dépend de la slider velocity
+- Ce paramètre est réservé à [osu!](/wiki/Game_mode/osu!).
+- Il dépend de la vitesse du slider
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
