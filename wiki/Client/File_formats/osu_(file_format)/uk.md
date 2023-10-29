@@ -21,8 +21,6 @@
 
 ## Загальний
 
-<!-- TODO: this is missing some functional options that are leftover from very old file formats -->
-
 | Опція | Тип змінної | Опис | Значення за замовчуванням |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Локація аудіо-файлу відносно поточної папки |  |
@@ -335,9 +333,6 @@
 - Повторюється раз
 - Має довжину в 310.123 osu!-пікселів
 - Має хітсаунд whistle на початку і хітсаунд whistle з набором soft у кінці
-<!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
-
-also there is no info about how they convert to other game modes from an osu! beatmap -->
 
 ### osu!taiko
 
