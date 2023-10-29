@@ -8,7 +8,7 @@ tags:
 
 ![BQT6 logo](img/logo.png)
 
-The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). This is the sixth installment of the BQT.
+The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). It is the sixth installment of the BQT tournament series.
 
 ## Tournament schedule
 
@@ -103,7 +103,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Mappools
 
-### Semi Finals
+### Semifinals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1pQSCWEwtIO-2o69_LNg4tWSmRdq8w_5Z?usp=sharing)**
 
@@ -134,7 +134,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 - Tiebreaker
   1. **[FantasticPlanets - Jekyll & Hyde (Wishkey) \[Abyss\]](https://osu.ppy.sh/beatmapsets/910518#osu/1899986)**
 
-### Quarter Finals
+### Quarterfinals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1CIKuOYMVF8Oip6in5ofT7xrz6HdIHYY8?usp=drive_link)**
 
@@ -239,7 +239,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Match results
 
-### Quarter Finals
+### Quarterfinals
 
 Saturday, 21 October 2023:
 
@@ -328,18 +328,18 @@ Sunday, 8 October 2023:
 ### Tournament rules
 
 1. This is an International 2v2 • osu!standard tournament
-2. Minimum number of players per team is 2, with a maximum of 4
-3. Matches will be Team Vs and use ScoreV2
-4. Rank range for the tournament: Open Rank (Must been a player in BQT1, BQT2, BQT3, BQT4, BQT5 to be eligible)
-5. Players are required to be in the discord for the duration of the tournament until their team is completely eliminated.
+2. Teams are required to have 2 to 4 team members each in order to participate.
+3. All matches will be done under the `Team Vs` setting and the [ScoreV2](https://osu.ppy.sh/wiki/en/Gameplay/Score#scorev2) scoring system.
+4. Although the tournament doesn't exercise a strict rank restriction, players must have been participated before in BQT1, BQT2, BQT3, BQT4, or BQT5 in order to be eligible.
+5. Players are required to be in the Discord for the duration of the tournament as long as their team is participating in the tournament.
 6. BQT1-5 players are eligible to play in BQT6.
-7. This tournament will have Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals
-8. There will be a bracket reset in the Grand Finals if necessary
-9. Semifinals, Finals, and Grand Finals will be streamed. Other matches will TBD depending on the streamers' availability.
+7. The tournament will be conducted in seven stages, namely Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals.
+8. There will be a bracket reset in the Grand Finals if necessary.
+9. All matches from the Semifinals onwards will be streamed. Other matches are also subject to be streamed depending on the streamers' availability.
 10. All match times are in UTC. Find your own time zone here if you're unsure what UTC you're in.
-11. Only BQT Refs, Streamers, and Casters are allowed to play in the tournament, but they are referees, they can't ref their own match.
+11. Referees, streamers, and match casters are allowed to play in the tournament. However, referees may not self-referee their own match.
 12. 6 Digit badged players are ALLOWED to participate.
-13. Team Supporter!
+13. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
 
    - **Pros:**
 
@@ -360,31 +360,31 @@ Sunday, 8 October 2023:
 
 ### Qualifier instructions
 
-1. Qualifiers will be played to determine who QUALIFIES (TOP 32) as well as TEAM SEEDING
-2. Every team must have **AT LEAST 2 members** present to their qualifier session to be eligible. If you have a 3rd/4th player in your team, they may sub in for the map they're playing for.
-3. Set Times for Qualifier Lobbies will be shown on Mainsheet. Each team may only REGISTER for ONE LOBBY.
-4. If you miss your scheduled lobby, you may choose a different lobby as long as there is still space.
-5. If your team CANNOT meet at any of the scheduled times, please DM/Ping @Admin to arrange a custom lobby, however this cannot be guaranteed based on the schedules of staff.
+1. Qualifiers will be played to determine who QUALIFIES (TOP 32) as well as TEAM SEEDING.
+2. Each team must have **AT LEAST 2 members** present in their qualifier session to participate. Extra players may be substituted in and out freely from the lobby in between the maps.
+3. Set times for Qualifier Lobbies will be shown on the Main Sheet. Each team may only REGISTER for ONE LOBBY.
+4. If a team misses their scheduled lobby, the captain of the team may register the team for a different lobby as long as there is still another lobby available.
+5. If a team CANNOT meet at any of the scheduled times, please DM/Ping @Admin to arrange a custom lobby. Please note that the custom lobbies are not guaranteed as they are based on staff availability.
 6. If a player disconnects during the first 30 seconds of the map, that specific player must stay at the end of the lobby and replay that map by themselves.
 
 ### Match instructions
 
 1. Matches are made approximately 5-10 MINUTES before the matches are scheduled to start.
-2. (Team 1) vs (Team 2) = Team 1 must be in Slot 1-2 (Red Team Color) | Team 2 must be in Slot 3-4 (Blue Team Color)
+2. All match lobbies will be named `(Team 1) vs (Team 2)`, with players from Team 1 playing in slots #1 and #2 (Red Team) and players from Team 2 playing in slots #3 and #4 (Blue Team).
 3. If there are less than 2 players from either team WITHIN THE LOBBY, there is a 15 minute grace period provided to allow them to join; **10 minutes - team lose ban**, **15 minute - FF**. The team with the most players within the lobby by the 15 minute mark will win by default. If both teams have only one player present on each side and both of their 2nd teammate doesn't show up by the 15 minute grace period, it'll be FF on both sides.
 4. There will be **NO WARMUPS** this season, so please warmup before your match.
 5. Each team will use `!roll` for the banning and picking phase. The winner of the roll will get to **choose pick order/ban order** The loser of the roll will get to choose between the unchosen options. For Example... If Team 1 rolls 100 and Team 2 rolls 50... Team 1 wants to choose ban order & they may choose ban first or second...Then that leaves Team 2 to choose from pick order. They may choose to pick first or second.
-6. 1 BAN ALLOWED PER TEAM. This rule is applied up to RO16. Afterwards, 2 BANS ALLOWED PER TEAM (ABBA). **Double Banning Mods are not allowed**, except for NoMods.
+6. There will be 1 BAN PER TEAM on matches up to RO16, and 2 BANS PER TEAM (ABBA format) on matches from Quarterfinals onwards. **Each team may not ban two maps from the same mod pool in a match**, except for NoMod maps.
 7. Each team will be allowed 60 seconds to ban their map. When 2 bans are enabled, teams are **NOT allowed to ban from the same mod** (NM is the exception). For example, Team 1 can't ban both HD1 and HD2 during their banning phase.
 8. Picks will happen in alternating order after the previous map is finished. Each team has 120 seconds to pick their map. If a map is not picked by 120 seconds, the pick will go to the other team.
-9. **Double picking is NOT ALLOWED**, except for NoMods. For example, Team 1 can't pick HR1 then pick HR2 on their next turn. They can pick HR1, DT1, then they can pick HR2.
+9. **Picking maps from the same mod pool consecutively in a match is NOT ALLOWED**, except for NoMod maps. For example, when a team picks HR1, they can't pick HR2 in their next turn. They had to pick something else first (e.g. DT1) before they can pick HR2.
 10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 UNLESS a score is provided. AN ABORT IS ALLOWED ONCE PER TEAM, PER MATCH.
 11. NoFail will be enforced on every map.
 12. Freemod rules : Each players in a team must have a unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR . EZ = 1.8x (with potentially HD)
-13. Players are not required to take any mods on the tiebreaker. However, they are allowed to without penalty.
+13. Players are not required to take any mods on the tiebreaker map. However, playing the tiebreaker map with mods is not prohibited.
 
 ### Scheduling instructions
 
-1. Every week, the administrators will create reschedule channels in Discord for each matches. Both teams of each match will cooperate to find a time and date for their matches then post on their channel.
+1. Each week, the Tournament Management will create a scheduling-specific channels in the Discord server for every match. Both teams may cooperate to find an alternative time and date for their match in the corresponding channel.
 2. For loser bracket potential rounds, the deadline to reschedule their first match is by Thursday each week, and the deadline to reschedule their second match is by Friday each week.
-3. Administrators has the right to decline reschedule requests as well help the teams to reschedule their matches.
+3. The Tournament Management has the right to decline reschedule requests as well as to offer an optimal match time for the teams.
