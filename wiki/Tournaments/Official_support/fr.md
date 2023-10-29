@@ -8,7 +8,7 @@ tags:
 
 # Support officielle aux tournois
 
-*Pour la prise en charge du concours de beatmapping, voir : [Assistance au concours officiel de beatmapping](/wiki/Contests/Official_support).*
+*Pour la prise en charge du concours de beatmapping, voir l'article : [Support au concours officiel de beatmapping](/wiki/Contests/Official_support).*
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
