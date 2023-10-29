@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ffc2b62f3415a9a54a838e55c845a7a0bcd8d681
 stub: true
 tags:
   - train
