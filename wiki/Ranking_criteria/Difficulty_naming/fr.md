@@ -1,3 +1,8 @@
+---
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
+---
+
 # Noms des difficultés
 
 Le but de la dénomination des difficultés est d'informer les joueurs de la difficulté d'une beatmap. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression de la difficulté, vous pouvez utiliser tout type de schéma souhaité.
@@ -8,37 +13,37 @@ Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de j
 
 *Remarque : Le nom de difficulté spécial **Marathon** a historiquement permis aux mappeurs de soumettre des beatmaps de musiques plus longues, et est donc devenu populaire pour les beatmaps à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les musiques très longues ou les compilations de musiques.*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ## Noms des difficultés d'autres jeux
 
