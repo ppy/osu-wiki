@@ -3,7 +3,7 @@ tags:
   - OWC
   - OWC2023
 outdated_translation: true
-outdated_since:
+outdated_since: 15dd212ac9af9530c2aa43e15efde1eadadd25d5
 ---
 
 # osu! World Cup 2023
