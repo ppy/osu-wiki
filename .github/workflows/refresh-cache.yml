@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          sparse-checkout: '.'
+          # meta/remark contains linked packages
+          sparse-checkout: meta/remark
 
       - name: set up Node.js
         id: setup-node

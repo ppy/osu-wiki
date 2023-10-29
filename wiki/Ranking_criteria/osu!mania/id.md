@@ -13,7 +13,7 @@ outdated_translation: true
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
+*Artikel utama: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

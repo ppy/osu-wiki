@@ -1,7 +1,6 @@
 ---
+no_native_review: true
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -54,7 +53,7 @@ Các phần chính: [Biên soạn (Compose)](/wiki/Client/Beatmap_editor/Compose
 
 Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
 
-Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Beatmapping/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#storyboarding) • [Tạo Skin](/wiki/Skinning)
+Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Beatmapping/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#làm-storyboard) • [Tạo Skin](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,11 +99,11 @@ Bổn phận của bạn: [Cách mà bạn có thể giúp!](/wiki/Community/How
 
 Tương tác xã hội là một trong những điều đã thúc đẩy người chơi osu! trên toàn thế giới. Khám phá các hoạt động và cuộc thi, liên hệ với những người khác hoặc giúp tổ chức sự kiện lớn tiếp theo!
 
-Vị trí: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+Vị trí: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Máy chủ Discord](/wiki/Community/Discord_servers)
 
 [Giải đấu](/wiki/Tournaments) • [Tiêu điểm Beatmap](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Giúp đỡ nhau trong cộng đồng](/wiki/Community/Community_Mentorship_Program)
 
-[Dự án](/wiki/Community/Projects) • [Nghệ sĩ](/wiki/People/Featured_Artists) • [Dự án Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [Học viện osu!](/wiki/Community/Video_series/osu!academy) • [Mapping osu!](/wiki/Community/Video_series/osu!mapping) • [Trò chuyện osu!](/wiki/Community/Video_series/osu!talk)
+[Dự án](/wiki/Community/Projects) • [Hội Mapper](/wiki/Community/Mappers_Guild) • [Dự án Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [Học viện osu!](/wiki/Community/Video_series/osu!academy) • [Mapping osu!](/wiki/Community/Video_series/osu!mapping) • [osu! hằng tháng](/wiki/Community/osu!monthly) • [Trò chuyện osu!](/wiki/Community/Video_series/osu!talk)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -115,9 +114,9 @@ Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! có lẽ sẽ không thể thực hiện được nếu không có sự trợ giúp, bảo trì và quản lý cộng đồng của người dùng: những nỗ lực, thời gian và sự cống hiến của họ giúp trò chơi tồn tại và thịnh vượng.
 
-[Đội ngũ phát triển](/wiki/People/osu!_team): [Những nhà phát triển (DEV)](/wiki/People/Developers) • [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ hỗ trợ](/wiki/People/Support_Team) • [Đội ngũ đánh giá đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team)
+[Đội ngũ phát triển](/wiki/People/osu!_team): [Những nhà phát triển (DEV)](/wiki/People/Developers) • [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ hỗ trợ](/wiki/People/Support_Team) • [Đội ngũ đánh giá đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Những người tuyển chọn điểm sáng beatmap(BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Đội ngũ chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee)
+[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người đề cử ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_group) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Các đội trưởng](/wiki/People/Centurions) • [Những người hoàn thành game](/wiki/People/Completionists) • [Đội ngũ chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -135,7 +134,7 @@ Tương tác với osu! thông qua các ứng dụng và phương tiện khác, 
 
 Cũng như hầu hết mọi thứ ở đây, osu! wiki được viết và duy trì bởi các tình nguyện viên. Đề xuất cải tiến, báo cáo vấn đề hoặc thậm chí viết bài viết của riêng bạn tại [Github của osu-wiki](https://github.com/ppy/osu-wiki).
 
-[Lịch sử của osu!](/wiki/History_of_osu!) • [Lịch sử của osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Lịch sử của mapping và modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Cá tháng Tư](/wiki/History_of_osu!/April_Fools)
+[Lịch sử của osu!](/wiki/History_of_osu!) • [Lịch sử xếp hạng trực tuyến](/wiki/History_of_osu!/Online_rankings) • [Lịch sử của osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Lịch sử của mapping và modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Cá tháng Tư](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Hướng dẫn đóng góp](/wiki/osu!_wiki/Contribution_guide) • [Tiêu chí tạo bài viết](/wiki/Article_styling_criteria) • [Tiêu chí tạo tin tức](/wiki/News_styling_criteria)
 
