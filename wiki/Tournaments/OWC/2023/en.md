@@ -190,8 +190,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
   2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
-## Results
-
 ## Match results
 
 ### Round of 32
