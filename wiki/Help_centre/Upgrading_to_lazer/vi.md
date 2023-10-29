@@ -24,7 +24,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | :-- | :-- | :-- |
 | Windows 8.0 trở xuống | ![Có][true] | ![Không][false] |
 | macOS / Linux | ![Có một phần][partial][^wine] | ![Có][true] |
-| DirectX / Metal | ![Có một phần][partial][^compatibility-mode] | ![Có][true][^coming-soon] |
+| DirectX / Metal | ![Có một phần][partial][^compatibility-mode] | ![Có][true] |
 | Hỗ trợ điện thoại | ![Không][false] | ![Có][true] |
 | Kiến trúc đa luồng | ![Không][false] | ![Có][true] |
 | Video sử dụng tăng tốc phần cứng | ![Không][false] | ![Có][true] |
