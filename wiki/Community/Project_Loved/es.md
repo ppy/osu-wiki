@@ -70,7 +70,7 @@ Para cualquier consulta sobre qué va en cada categoría, contacta un capitán d
 
 **Todas las reglas son exactamente eso: reglas.** No son pautas y no pueden romperse bajo ninguna circunstancia.
 
-- **El beatmap debe cumplir con las [reglas de envío de beatmaps](/wiki/Rules#beatmap-submission-rules).**
+- **El beatmap debe cumplir con las [reglas de envío de beatmaps](/wiki/Rules#reglas-de-envío-de-mapas).**
 - **El beatmap debe estar fuera de las categorías Calificados, Clasificados o Aprobados.** Idealmente, un mapa no debería apuntar a entrar a la categoría Clasificados y Amados al mismo tiempo, ya que son mutualmente exclusivos.
 **El beatmap debe haberse enviado al menos un año antes de su nominación a Amados, con la excepción de los mapas que rompen los criterios de clasificación con su concepto.** No se recomienda publicar un beatmap con el objetivo de entrar en la categoría Amados cuando la categoría Clasificados es una mejor opción. Las excepciones suelen incluir usos de sliderator, mapas Aspire, mapas con mecánicas de juego en el storyboard, etc.
 - **El beatmap debe tener al menos 30 favoritos.** Este es un límite mínimo para indicar la existencia de una reacción positiva por parte de la comunidad hacia el beatmap. Se recomienda no coordinar grupos para aumentar los favoritos, aunque los capitanes no pueden verificar si esto ocurre.
