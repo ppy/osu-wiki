@@ -1,8 +1,5 @@
 ---
-tags:
-  - client trò chơi
-outdated_translation: true
-outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
+no_native_review: true # since 08b5cd869b6e404b0861dc7747b72bd232909352
 ---
 
 # Nâng cấp lên lazer
@@ -17,6 +14,8 @@ Mục tiêu cuối cùng là phiên bản này sẽ thay thế hoàn toàn phiê
 
 ## So sánh các tính năng
 
+*Để biết danh sách những khác biệt về cơ chế trò chơi, xem [Sự khác biệt về lối chơi trong osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+
 Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so với ổn định. Lưu ý rằng đây là một mục tiêu không cố định — mục tiêu cuối cùng là thực hiện tất cả những tính năng mà người dùng quan tâm.
 
 ### Khả năng tương thích và hiệu suất
@@ -25,7 +24,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | :-- | :-- | :-- |
 | Windows 8.0 trở xuống | ![Có][true] | ![Không][false] |
 | macOS / Linux | ![Có một phần][partial][^wine] | ![Có][true] |
-| DirectX / Vulkan | ![Có một phần][partial][^compatibility-mode] | ![Không][false][^coming-soon] |
+| DirectX / Metal | ![Có một phần][partial][^compatibility-mode] | ![Có][true] |
 | Hỗ trợ điện thoại | ![Không][false] | ![Có][true] |
 | Kiến trúc đa luồng | ![Không][false] | ![Có][true] |
 | Video sử dụng tăng tốc phần cứng | ![Không][false] | ![Có][true] |
@@ -33,6 +32,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | Các bộ quy tắc tuỳ chỉnh (các chế độ chơi) | ![Không][false] | ![Có phầnphần][partial][^dll] |
 | Kho lưu trữ tệp không trùng lặp | ![Không][false] | ![Có][true][^share-files] |
 | Điều chỉnh vùng bảng vẽ | ![Không][false] | ![Có][true] |
+| Hỗ trợ nhiều tỷ lệ khung hình | ![Không][false] | ![Có][true] |
 
 ### Giao diện người dùng và tạo skin
 
@@ -40,23 +40,36 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | :-- | :-- | :-- |
 | Hỗ trợ skin | ![Có][true] | ![Có một phần][partial][^gameplay-only] |
 | Các chế độ nhóm bài hát | ![Có][true] | ![Không][false] |
-| Skin trong trò chơi / Chỉnh sửa bố cục giao diện người dùng | ![Không][false] | [true] |
+| Skin trong trò chơi / Chỉnh sửa bố cục giao diện người dùng | ![Không][false] | ![Có][true] |
+| Các thành phần skin có thể tuỳ chỉnh động | ![Không][false] | ![Có][true] |
 
-### Gameplay và skin
+### Giao diện
+
+| Tính năng | ổn định | lazer |
+| :-- | :-- | :-- |
+| Storyboards trong menu chính | ![Không][false] | ![Có][true][^supporter] |
+| Ẩn độ khó | ![Không][false] | ![Có][true] |
+| Trình hướng dẫn thiết lập lần chạy đầu tiên | ![Không][false] | ![Có][true] |
+| Xoá tạm thời | ![Không][false] | ![Có][true][^soft-deletion] |
+| Thay đổi cài đặt ngay lập tức trong khi chơi | ![Không][false] | ![Có][true] |
+
+### Gameplay
 
 | Tính năng | ổn định | lazer |
 | :-- | :-- | :-- |
 | Hiển thị điểm hiệu suất chính xác | ![Có một phần][partial][^online] | ![Có][true] |
-| Mod điều chỉnh độ khó | ![Không][false] | ![][true][^difficulty-adjust] |
+| Điều chỉnh độ khó | ![Không][false] | ![][true][^difficulty-adjust] |
 | Các mod cài đặt trước | ![Không][false] | ![Có][true] |
 | Các cài đặt mod | ![Không][false] | ![Có][true] |
 | Các mod "vui" | ![Không][false] | ![Có][true] |
 | Chuẩn hóa màu combo[^normalisation] | ![Không][false] | ![Có][true] |
 | Giữ để HUD | ![Không][false] | ![Có][true][^hold-for-hud] |
-| Căn chỉnh độ lệch | ![Có một phần][partial][^offset-calibration-stable] | ![Có][true][^offset-calibration-lazer] |
+| Căn chỉnh độ lệch cho mỗi beatmap | ![Có một phần][partial][^offset-calibration-stable] | ![Có][true][^offset-calibration-lazer] |
 | Thanh trượt osu! "di chuyển như con rắn" khi đang kéo | ![Không][false] | ![Có][true][^can-disable] |
 | "Notelock" thân thiện với người dùng | ![Không][false] | ![Có][true][^note-lock] |
-| Tô màu các nốt osu!mania theo thời gian | ![Không][false] | ![Có][true] |
+| Tô màu các nốt osu!mania và osu! theo thời gian | ![Không][false] | ![Có][true] |
+| Tua replay | ![Không][false] | ![Có][true] |
+| Bình luận replay cuộn kiểu [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Có][true] | ![Không][false] |
 
 ### Các hệ thống online
 
@@ -68,7 +81,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | Các huân chương | ![Có][true] | ![Không][false] |
 | Điểm hiệu suất | ![Có][true] | ![Có một phần][partial][^score-reset-isolated] |
 | Trò chuyện thời gian thực | ![Có một phần][partial][^stable-chat] | ![Có][true] |
-| Wiki / Tin tức / Nhật kí thay đổi / Xếp hạng | ![Không][false] | ![Có][true][^online-content] |
+| Wiki / tin tức / nhật kí thay đổi / xếp hạng | ![Không][false] | ![Có][true][^online-content] |
 | Hồ sơ người dùng | ![Không][false] | ![Có][true] |
 | Danh sách beatmap | ![Có một phần][partial][^direct-supporter] | ![Có][true] |
 | Phòng multiplayer không giới hạn | ![Không][false][^multi-room-max] | ![Có][true] |
@@ -84,11 +97,14 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 
 | Tính năng | ổn định | lazer |
 | :-- | :-- | :-- |
+| Trình chỉnh sửa osu! | ![Có][true] | ![Có][true] |
 | Trình chỉnh sửa osu!taiko | ![Không][false] | ![Có][true] |
 | Trình chỉnh sửa osu!catch | ![Không][false] | ![Có][true] |
 | Trình chỉnh sửa osu!mania | ![Có][true] | ![Có][true] |
 | Mở các beatmap dưới dạng tài liệu tham khảo | ![Có][true] | ![Không][false] |
 | Tốc độ slider của mỗi vật thể / âm lượng | ![Không][false] | ![Có][true] |
+| Các loại đường cong slider trên mỗi đoạn | ![Không][false] | ![Có][true] |
+| Tách rời và hợp nhất slider | ![Không][false] | ![Có][true] |
 | Xoay vật thể | ![Có][true] | ![Có một phần][partial][^editor-precise-rotation] |
 | Đổi kích thước vật thể | ![Không][false] | ![Có][true] |
 | Nộp beatmap | ![Có][true] | ![Không][false] |
@@ -145,11 +161,13 @@ Tuy nhiên, hiện tại có thể xuất điểm số và beatmap riêng lẻ t
 
 #### Nếu tôi ghi điểm trên lazer, nó có cho điểm hiệu suất không?
 
-Điểm sẽ được tính điểm hiệu suất (bạn có thể thấy điểm này trong phần "đã chơi gần đây" trong hồ sơ của mình), nhưng điểm này sẽ chưa đóng góp vào tổng giá trị.
+Phần "đã chơi gần đây" của trang hồ sơ hiển thị điểm số được chơi trên lazer với điểm hiệu suất được tính, và tổng số có thể được nhìn thấy khi di chuột qua tổng điểm hiệu suất thông thường.
+
+Ngoài ra, [lazer.ppy.sh](https://lazer.ppy.sh/home), một phiên bản thử nghiệm của trang web osu!, hiển thị tất cả các tổng số và thứ hạng với điểm lazer được tính.
 
 #### Lazer có sử dụng ScoreV2 không?
 
-Lazer hiện đang sử dụng điểm thử nghiệm mới tương tự như ScoreV2 nhưng không giống nhau. Điều này vẫn đang được phát triển và chúng tôi đang tìm kiếm thêm phản hồi về cảm giác của nó trong các bối cảnh khác nhau (chơi một mình, bảng xếp hạng, giải đấu, v.v.)
+Có, nó sử dụng hệ thống tính điểm dựa trên nó với một số điều chỉnh. Điểm ScoreV1 sẽ được quy đổi trong thời gian tới.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -171,7 +189,7 @@ Hiện tại, điểm số của tất cả các kết hợp mod xuất hiện t
 
 #### Tôi không thích cơ chế gameplay mới. Tôi có thể khôi phục cơ chế gameplay cũ như ở phiên bản ổn định không?
 
-Vui lòng thử mod "cổ điển", mod này sẽ khôi phục phần lớn những cơ chế cũ mà bạn đã quen. Ngoài ra, hãy đảm bảo rằng bạn đã kiểm tra các cài đặt do mod cổ điển cung cấp, vì nó sẽ cho phép bạn tuỳ chỉnh thêm trải nghiệm của mình và cũng hiểu những thay đổi nào đang được áp dụng (vì tất cả chúng đều được liệt kê ở đó).
+Vui lòng thử mod "Cổ điển", mod này sẽ khôi phục phần lớn những cơ chế cũ mà bạn đã quen. Ngoài ra, hãy đảm bảo rằng bạn đã kiểm tra các cài đặt do mod Cổ điển cung cấp, vì nó sẽ cho phép bạn tuỳ chỉnh thêm trải nghiệm của mình và cũng hiểu những thay đổi nào đang được áp dụng (vì tất cả chúng đều được liệt kê ở đó).
 
 ### Tạo skin và giao diện người dùng
 
@@ -245,7 +263,8 @@ Một số bộ lọc trong danh sách beatmap vẫn chỉ dành cho người h�
 
 Ngoài ra còn có một số lợi ích bổ sung:
 
-- Những người ủng hộ có thể tạo playlist kéo dài lâu hơn
+- Những người ủng hộ có thể tạo playlist kéo dài lâu hơn.
+- Những người ủng hộ có thể bật storyboards để phát trong menu chính.
 
 Chúng tôi dự định sẽ xem xét các lợi ích mới trong tương lai, nhưng trọng tâm của chúng tôi hiện tại là tính năng tương đương với bản ổn định, vì vậy vui lòng sử dụng giao dịch mua thẻ người ủng hộ của bạn như một cách để... hỗ trợ sự phát triển của trò chơi!
 
@@ -263,9 +282,8 @@ Có vẻ như bạn đang nghĩ về một trò chơi khác.
 
 ### Ghi chú
 
-[^wine]: Sử dụng wine.
+[^wine]: Sử dụng Wine.
 [^compatibility-mode]: DirectX thông qua chế độ tương thích.
-[^coming-soon]: Sắp có.
 [^dll]: Thủ công thông qua các tệp `.dll`.
 [^share-files]: Beatmap và skin sẽ chia sẻ tệp và tiết kiệm dung lượng ổ đĩa.
 [^gameplay-only]: Chỉ riêng gameplay.
@@ -280,6 +298,8 @@ Có vẻ như bạn đang nghĩ về một trò chơi khác.
 [^score-reset-isolated]: Điểm số sẽ được đặt lại, hiện đang bị cô lập khỏi điểm số ổn định.
 [^online-content]: Truy cập gốc vào hầu hết nội dung trực tuyến.
 [^direct-supporter]: osu!direct, dành riêng cho osu!supporter.
+[^supporter]: dành riêng cho osu!supporter.
+[^soft-deletion]: Khôi phục các beatmap đã xóa và dữ liệu khác từ cài đặt. Việc xóa chỉ trở thành vĩnh viễn khi khởi động lại.
 [^multi-room-max]: Tối đa 16 người chơi.
 [^map-only]: Chỉ riêng map.
 [^all-files]: Tất cả các tệp.
@@ -289,7 +309,7 @@ Có vẻ như bạn đang nghĩ về một trò chơi khác.
 [^countdown-timers-stable]: Đặt đếm ngược bằng lệnh, không bắt đầu tự động.
 [^countdown-timers-lazer]: Đặt bộ đếm ngược từ giao diện người dùng trò chơi để tự động bắt đầu trận đấu.
 [^queue-modes]: Bật để cho phép bất kỳ ai trong phòng "xếp hàng" beatmap, hay còn gọi là "xoay tua chủ phòng" (host rotate).
-[^difficulty-adjust]: Thay đổi trực tiếp CS/AR/OD/HP của một beatmap từ nơi chọn bài hát.
+[^difficulty-adjust]: Thay đổi trực tiếp CS/AR/OD/HP của một beatmap từ nơi chọn bài hát thông qua mod Điều chỉnh độ khó.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

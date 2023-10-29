@@ -124,17 +124,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 32강
-
-### 2023년 10월 28일 토요일
-
-| Team A | Team B | 매치 시간 | 트위치 생방송 |
-| --: | :-- | :-- | :-: |
-| 칠레 ::{ flag=CL }:: | ::{ flag=SE }:: 스웨덴 | [Oct 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 미국 ::{ flag=US }:: | ::{ flag=TH }:: 태국 | [Oct 28 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=AR }:: 아르헨티나 | [Oct 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| 영국 ::{ flag=GB }:: | ::{ flag=TR }:: 튀르키예 | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
-| 프랑스 ::{ flag=FR }:: | ::{ flag=BR }:: 브라질 | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
+## 경기 일정 : 32강
 
 ### 2023년 10월 29일 일요일
 
@@ -200,7 +190,19 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
-## 결과
+## 경기 결과
+
+### 32강
+
+2023년 10월 28일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **칠레** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: 스웨덴 | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
+| **미국** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: 태국 | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
+| **폴란드** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
+| **영국** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: 튀르키예 | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
+| 프랑스 ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **브라질** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
 
 ### 퀄리파이어
 
