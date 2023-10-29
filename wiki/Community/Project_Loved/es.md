@@ -35,8 +35,8 @@ Los beatmaps que entran a la categoría Amados requieren seguir unas cuantas reg
 - [Algunos puntos de la sección Metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata):
   - El título, artista y origen de la canción deben ser correctos en todos los casos.
   - Las etiquetas del beatmap deben nombrar a todos los contribuidores (creadores de dificultades de invitado, storyboarders, etc.).
-- [Reglas del contenido de las canciones](/wiki/Rules/Song_content_rules)
-- [Consideraciones sobre el contenido visual](/wiki/Rules/Visual_content_considerations)
+- [Reglas del contenido de canciones](/wiki/Rules/Song_content_rules)
+- [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
 
 Adicionalmente, con el fin de mantener la calidad de audio en un nivel razonable, los archivos de audio deben tener una tasa de bits de al menos 128 kbps.
 
