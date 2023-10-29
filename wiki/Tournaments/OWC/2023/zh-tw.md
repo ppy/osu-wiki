@@ -1,4 +1,6 @@
 ---
+outdated_since: 7e2b95804f908dc0bff9ad27a2b60c72e3b6803b
+outdated_translation: true
 tags:
   - OWC
   - OWC2023
