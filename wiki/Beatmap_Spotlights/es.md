@@ -57,9 +57,9 @@ La tabla de clasificación estacional resume los resultados de puntuación clasi
 
 ### Recompensas
 
-Las recompensas se distribuyen a los ganadores de la sala de lista de juego, los creadores de las selecciones del Beatmap of the Season y todos los participantes presentes en la tabla de clasificación de la temporada.
+Las recompensas se distribuyen a los ganadores de la sala de la lista de juego, los creadores de las selecciones del Beatmap of the Season y todos los participantes presentes en la tabla de clasificación de la temporada.
 
-Los 10 mejores jugadores de cada sala de lista de juego recibirán **1 semana de [osu!supporter](/wiki/osu!supporter)**.
+Los 10 mejores jugadores de cada sala de la lista de juego recibirán **1 semana de [osu!supporter](/wiki/osu!supporter)**.
 
 Después de la conclusión de cada temporada, se abren votaciones para el *Beatmap of the Season*, donde los jugadores y curadores pueden elegir cada uno un mapa ganador para cada modo de juego, con un total de 8. Las obras ganadoras se anuncian al inicio de la próxima temporada y sus creadores recibirán **3 meses de [osu!supporter](/wiki/osu!supporter)**.
 
