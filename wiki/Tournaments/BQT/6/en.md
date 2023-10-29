@@ -329,7 +329,7 @@ Sunday, 8 October 2023:
 
 1. This is an International 2v2 • osu!standard tournament
 2. Teams are required to have 2 to 4 team members each in order to participate.
-3. All matches will be done under the `Team Vs` setting and the [ScoreV2](/wiki/en/Gameplay/Score#scorev2) scoring system.
+3. All matches will be done under the `Team Vs` setting and the [ScoreV2](/wiki/Gameplay/Score#scorev2) scoring system.
 4. Although the tournament doesn't exercise a strict rank restriction, players must have been participated before in BQT1, BQT2, BQT3, BQT4, or BQT5 in order to be eligible.
 5. Players are required to be in the Discord for the duration of the tournament as long as their team is participating in the tournament.
 6. The tournament will be conducted in seven stages, namely Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals.
