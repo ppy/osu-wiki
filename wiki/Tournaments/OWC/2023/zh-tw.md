@@ -126,16 +126,6 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## 賽程： 32 強
 
-### 2023 年 10 月 28 日, 星期六
-
-| A 隊 | B 隊 | 比賽時間 | 直播 |
-| --: | :-- | :-- | :-: |
-| 智利 ::{ flag=CL }:: | ::{ flag=SE }:: 瑞典 | [10 月 28 日 (六) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 美國 ::{ flag=US }:: | ::{ flag=TH }:: 泰國 | [10 月 28 日 (六) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 波蘭 ::{ flag=PL }:: | ::{ flag=AR }:: 阿根廷 | [10 月 28 日 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| 英國 ::{ flag=GB }:: | ::{ flag=TR }:: 土耳其 | [10 月 28 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
-| 巴西 ::{ flag=FR }:: | ::{ flag=BR }:: 巴西 | [10 月 28 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
-
 ### 2023 年 10 月 29 日, 星期日
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |
@@ -201,6 +191,18 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## 比賽結果
+
+### 32 強
+
+2023 年 10 月 28 日, 星期六：
+
+| A 隊 |  |  | B 隊 | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **智利** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: 瑞典 | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
+| **美國** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: 泰國 | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
+| **波蘭** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: 阿根廷 | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
+| **英國** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
+| 法國 ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **巴西** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
 
 ### 預選賽
 
