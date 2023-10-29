@@ -6,7 +6,7 @@ tags:
 
 # Consideraciones de contenido visual
 
-Según la [regla de la comunidad n.º 5](/wiki/Rules#community-rules), todo el contenido visual enviado o subido a osu! debe considerarse apropiado para un juego para todas las edades.
+Según la [regla de la comunidad n.º 5](/wiki/Rules#reglas-de-la-comunidad), todo el contenido visual enviado o subido a osu! debe considerarse apropiado para un juego para todas las edades.
 
 Esto incluye:
 
