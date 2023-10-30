@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2023
 
-![OWC 2023 banner](img/owc2023-banner.jpg)
+![OWC 2023 bannerq](img/owc2023-banner.jpg)
 
 **osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
 
@@ -30,9 +30,9 @@ osu! 월드컵 2023은 최소 $5000의 상금과 한정판 굿즈가 제공됩�
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
+| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 
 ## 조직
 
