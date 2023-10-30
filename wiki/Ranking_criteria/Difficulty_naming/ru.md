@@ -1,3 +1,8 @@
+---
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
+---
+
 # Названия сложностей
 
 Цель названия — дать игроку понять, с каким примерно уровнем сложности он имеет дело. В этой статье перечислены основные схемы наименований сложностей, к которым со временем пришли мапперы. Воспринимайте их как разумную рекомендацию, а не обязательное требование: сложностям можно давать какие угодно названия, если они характеризуют содержание, и если по ним заметно повышение уровня сложности.
@@ -8,7 +13,7 @@
 
 *Примечание: название **Marathon** раньше использовалось при маппинге долгих песен, потому что только с ним можно было опубликовать карту соответствующего размера. Со временем ограничение было снято, но название прижилось, поэтому его традиционно используют для маппинга очень долгих песен или компиляций.*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -16,15 +21,15 @@
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -32,7 +37,7 @@
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
