@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2023
 
-![OWC 2023 bannerq](img/owc2023-banner.jpg)
+![OWC 2023 배너](img/owc2023-banner.jpg)
 
 **osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
 
