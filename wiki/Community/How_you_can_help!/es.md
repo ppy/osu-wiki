@@ -8,7 +8,7 @@ A continuación se presentan algunas de las formas en que puedes ayudar en la co
 
 [La wiki](https://github.com/ppy/osu-wiki) es nuestra base de conocimientos oficial que contiene todo lo relacionado con osu!. Y como tal, la wiki siempre está buscando más contribuidores para ayudar a mantener el sitio actualizado con nuevos conocimientos o traducciones.
 
-Si eres nuevo a la osu! wiki, puedes leer más sobre esto en la [guía de contribución a la osu! wiki](/wiki/osu!_wiki/Contribution_guide).
+Si eres nuevo en la osu! wiki, puedes leer más sobre esto en la [guía de contribución a la osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Ayuda a mantener osu! amigable y seguro
 
@@ -67,15 +67,15 @@ A continuación se presentan algunas de las formas en que puedes contribuir:
 
 Iniciado en 2017, el proyecto [osu!(lazer)](/wiki/Client/Release_stream/Lazer) es el enfoque actual [del osu! team](/wiki/People/osu!_team), junto con el nuevo sitio web, ¡que es lo que ves hoy! Si quieres ayudar a que estos proyectos sean aún mejores y acercarnos al futuro de osu!, hay varias cosas que puedes hacer, pero a continuación se incluyen algunos ejemplos:
 
-- Ayudando con el proyecto [osu!(lazer)](https://github.com/ppy/osu). ¡Hay tanto que implementar en la nueva versión de osu!, ¡y tú puedes ayudar a que esto suceda!
+- Ayudando con el proyecto [osu!(lazer)](https://github.com/ppy/osu). ¡Hay tanto que implementar en la nueva versión de osu!, y tú puedes ayudar a que esto suceda!
 - Haz que el [sitio web](https://github.com/ppy/osu-web) sea aún mejor.
 
 ## ¡Evita ser negativo! ¡Haz feliz a la gente!
 
 Hay un viejo dicho que dice que debes convertirte en parte de la solución, no del problema. Simplemente siguiendo este viejo dicho, estarías ayudando a osu! haciendo de la comunidad un lugar más brillante. La gente siempre se quejará, pero todavía hay muchas formas en las que puedes ayudar a mejorar el estado de ánimo en la comunidad:
 
-- Sed amigables unos con otros; la vida es demasiado corta para discutir.
-- [Reporta a los tramposos cuando los veas](/wiki/Reporting_bad_behaviour/Handling_foul_play). Por favor, no te quejes de ellos a través de otros medios, ya que un simple `!report <apodo> seems to be cheating` puede solucionar tus problemas en cuestión de minutos u horas.
+- Sé amigable con los demás; la vida es demasiado corta para discutir.
+- [Reporta a los tramposos cuando los veas](/wiki/Reporting_bad_behaviour/Handling_foul_play). Por favor, no te quejes de ellos a través de otros medios, ya que un simple `!report <nombre de usuario> seems to be cheating` puede solucionar tus problemas en cuestión de minutos u horas.
 - Esfuérzate por mediar en situaciones negativas y convertirlas en resultados positivos.
 
-**Si bien este artículo no puede cubrir cuánto más puedes ayudar a la comunidad de osu!, ¡simplemente jugar el juego también puede hacer que osu! sea aún más increíble!**
+**Si bien este artículo no puede cubrir cuánto más puedes ayudar a la comunidad de osu!, ¡el simple hecho de jugar también puede hacer que osu! sea aún más increíble!**

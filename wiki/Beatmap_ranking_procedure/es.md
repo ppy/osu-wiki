@@ -39,7 +39,7 @@ Una **nominación** es un voto de aprobación, lo que indica que un beatmap est�
 
 Las nominaciones las dan los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), un grupo de modders experimentados. Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) también pueden nominar beatmaps, pero esta no es su función principal.
 
-Se recomienda recibir mods antes de solicitar nominaciones de BN, pero el único requisito es cinco promociones.
+Se recomienda recibir mods antes de solicitar nominaciones de BN, pero el único requisito previo son cinco hypes.
 
 ## Calificación
 
@@ -49,7 +49,7 @@ Esta categoría de beatmaps existe para dar a los beatmaps una mayor exposición
 
 ## Restablecimientos de nominaciones
 
-Los restablecimientos de nominaciones aseguran que los modders, BN y miembros de NAT verifiquen la versión más reciente de un beatmap antes de que ingrese a la cola de clasificación.
+Los restablecimientos de nominaciones aseguran que los modders, BN y miembros del NAT verifiquen la versión más reciente de un beatmap antes de que ingrese a la cola de clasificación.
 
 Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de BN o NAT encuentra un problema en un beatmap nominado. Los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) también pueden restablecerlos cuando el motivo incluya contenido inapropiado. Si se califica un beatmap cuando se restablecen sus nominaciones, será descalificado y eliminado de la cola de clasificación.
 

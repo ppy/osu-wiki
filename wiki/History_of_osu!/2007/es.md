@@ -32,7 +32,7 @@ A finales de Julio, el sistema de menú fue cambiado para añadir un poco de est
 
 ## Agosto
 
-El menú principal fue actualizado con un nuevo diseño, y el editor recibió un montón de nuevas funcionalidades, incluyendo un soporte para copiar y pegar. Se agregaron la pestaña de menú y el menú contextual, lo que hace que las funciones del editor sean más accesibles que antes; los deslizadores fueron más ampliamente compatibles con [tics](/wiki/Gameplay/Hit_object/Slider/Slider_tick) presentes; [apilamiento](/wiki/Beatmapping/Mapping_techniques/Stack) de los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) estaban presentes; las puntuaciones locales más altas recibieron un mejor soporte; y el formato de archivo `.osu` se revisó y renovó por completo, pero incluyó la conversión de archivos más antiguos al nuevo formato.
+El menú principal fue actualizado con un nuevo diseño, y el editor recibió un montón de nuevas funcionalidades, incluyendo un soporte para copiar y pegar. Se agregaron la pestaña de menú y el menú contextual, lo que hace que las funciones del editor sean más accesibles que antes; los sliders fueron más ampliamente compatibles con [tics](/wiki/Gameplay/Hit_object/Slider/Slider_tick) presentes; [apilamiento](/wiki/Beatmapping/Mapping_techniques/Stack) de los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) estaban presentes; las puntuaciones locales más altas recibieron un mejor soporte; y el formato de archivo `.osu` se revisó y renovó por completo, pero incluyó la conversión de archivos más antiguos al nuevo formato.
 
 ![](img/2007-08_01.jpg "Pantalla para seleccionar canciones en el modo juego")
 
