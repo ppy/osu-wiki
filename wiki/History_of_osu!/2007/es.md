@@ -18,7 +18,7 @@ osu! comenzó como una prueba de concepto llamada "ouentest".[^ouentest] La prim
 
 ![](img/2007-07_03.jpg "Más juegos de prueba")
 
-![](img/2007-07_04.jpg "Círculos de golpeo")
+![](img/2007-07_04.jpg "Círculos")
 
 A finales de Julio, el sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización de ritmo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Client/Beatmap_editor/Compose) actualmente).
 
@@ -32,7 +32,7 @@ A finales de Julio, el sistema de menú fue cambiado para añadir un poco de est
 
 ## Agosto
 
-El menú principal fue actualizado con un nuevo diseño, y el editor recibió un montón de nuevas funcionalidades, incluyendo un soporte para copiar y pegar. Se agregaron la pestaña de menú y el menú contextual, lo que hace que las funciones del editor sean más accesibles que antes; los deslizadores fueron más ampliamente compatibles con [tics](/wiki/Gameplay/Hit_object/Slider/Slider_tick) presentes; [apilamiento](/wiki/Beatmapping/Mapping_techniques/Stack) de los [círculos de golpeo](/wiki/Gameplay/Hit_object/Hit_circle) estaban presentes; las puntuaciones locales más altas recibieron un mejor soporte; y el formato de archivo `.osu` se revisó y renovó por completo, pero incluyó la conversión de archivos más antiguos al nuevo formato.
+El menú principal fue actualizado con un nuevo diseño, y el editor recibió un montón de nuevas funcionalidades, incluyendo un soporte para copiar y pegar. Se agregaron la pestaña de menú y el menú contextual, lo que hace que las funciones del editor sean más accesibles que antes; los deslizadores fueron más ampliamente compatibles con [tics](/wiki/Gameplay/Hit_object/Slider/Slider_tick) presentes; [apilamiento](/wiki/Beatmapping/Mapping_techniques/Stack) de los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) estaban presentes; las puntuaciones locales más altas recibieron un mejor soporte; y el formato de archivo `.osu` se revisó y renovó por completo, pero incluyó la conversión de archivos más antiguos al nuevo formato.
 
 ![](img/2007-08_01.jpg "Pantalla para seleccionar canciones en el modo juego")
 
@@ -92,7 +92,7 @@ El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado
 
 ![](img/2007-11_03.jpg "Probando el uso de IRC")
 
-El [Sistema de envío de Beatmaps](/wiki/Beatmapping/Beatmap_submission) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo el estado de mapas [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y [Clasificados](/wiki/Beatmap/Category#clasificados) lo que ayudó a organizar la creciente y rápida colección de mapas subidos por los usuarios. El chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor [IRC](/wiki/Community/Internet_Relay_Chat) estándar (sin [Bancho](/wiki/Bancho_(server)); el chat extendido era visible; los avatares y las estadísticas básicas se mostraban en el juego mediante una comunicación basada en http; también se agregaron controles de audio al menú principal, que reproducía una canción aleatoria al inicio; las [repeticiones](/wiki/Gameplay/Replay) podian ser vistas, tanto para las puntuaciones locales como para las jugadas en línea. Los jugadores pueden espectar a otros (los datos de los espectadores se enviaban sin procesar a través de IRC).
+El [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo el estado de mapas [pendientes](/wiki/Beatmap/Category#trabajo-en-progreso-y-pendientes) y [clasificados](/wiki/Beatmap/Category#clasificados) lo que ayudó a organizar la creciente y rápida colección de mapas subidos por los usuarios. El chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor [IRC](/wiki/Community/Internet_Relay_Chat) estándar (sin [Bancho](/wiki/Bancho_(server))); el chat extendido era visible; los avatares y las estadísticas básicas se mostraban en el juego mediante una comunicación basada en http; también se agregaron controles de audio al menú principal, que reproducía una canción aleatoria al inicio; las [repeticiones](/wiki/Gameplay/Replay) podian ser vistas, tanto para las puntuaciones locales como para las jugadas en línea. Los jugadores pueden espectar a otros (los datos de los espectadores se enviaban sin procesar a través de IRC).
 
 ## Diciembre
 

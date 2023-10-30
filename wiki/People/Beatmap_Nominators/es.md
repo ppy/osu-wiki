@@ -12,7 +12,7 @@ Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps]
 
 ## Roles y responsabilidades
 
-Los miembros de Beatmap Nominators son responsables principalmente de [modear](/wiki/Modding) [beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y aprobarlos en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que acudir en busca de consejos o solicitudes sobre cualquier cosa relacionada con el mapping o el modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si siente que un mapa nominado tiene problemas que deben solucionarse y que no son violaciones directas de los criterios de clasificación.
+Los miembros de Beatmap Nominators son responsables principalmente de [modear](/wiki/Modding) [beatmaps pendientes](/wiki/Beatmap/Category#trabajo-en-progreso-y-pendientes) y aprobarlos en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que acudir en busca de consejos o solicitudes sobre cualquier cosa relacionada con el mapping o el modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si siente que un mapa nominado tiene problemas que deben solucionarse y que no son violaciones directas de los criterios de clasificación.
 
 Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mappers, esforzándose por mejorar constantemente su oficio, como se describe en [el artículo Expectativas de los Beatmap Nominators](Expectations).
 
