@@ -1,6 +1,6 @@
 # L'histoire d'osu! en 2007
 
-Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2007. Un grand merci à [Sinistro](https://osu.ppy.sh/users/5530) pour avoir aidé a compiler le contenu pour les années 2007 et 2008. 
+Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2007. Un grand merci à [Sinistro](https://osu.ppy.sh/users/5530) pour avoir aidé a compiler le contenu pour les années 2007 et 2008.
 
 ![](img/2007.jpg)
 
@@ -16,7 +16,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La 
 
 ![](img/2007-07_04.jpg "Cercles")
 
-À la fin du mois de juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée avec une balle orange non animée et quelques courbes. Le beat snapping a été ajouté à l'éditeur, ainsi qu'une timeline, et une interface d'édition plus esthétique (similaire à celle visible dans l'onglet [Compose](/wiki/Client/Beatmap_editor/Compose) d'aujourd'hui). 
+À la fin du mois de juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée avec une balle orange non animée et quelques courbes. Le beat snapping a été ajouté à l'éditeur, ainsi qu'une timeline, et une interface d'édition plus esthétique (similaire à celle visible dans l'onglet [Compose](/wiki/Client/Beatmap_editor/Compose) d'aujourd'hui).
 
 ![](img/2007-07_05.jpg "L'éditeur")
 
