@@ -2,6 +2,7 @@
 tags:
   - CS
   - key count
+  - keycount
   - размер нот
 ---
 

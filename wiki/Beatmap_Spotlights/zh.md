@@ -53,7 +53,7 @@ tags:
    - 在另一周重复的歌单中将只计算**最佳的“周 Ranked 谱面总分”**，覆盖较低总分。
 3. 排行榜会在每轮歌单结算后更新。
    - 玩家不会得知其确切的赛季排行榜排名或得分。他们只会被分配到各自的段位当中。
-   - 排行榜会在 [osu! 社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H) 的 `#osu-spotlights` 频道和下一轮的大厅聊天窗口中公布。
+   - 排行榜会在 [osu! 社区 Discord 服务器](https://discord.com/invite/0Vxo9AsejDkGlk3H) 的 `#osu-spotlights` 频道和下一轮的大厅聊天窗口中公布。
 
 ### 段位奖励
 
@@ -110,8 +110,8 @@ tags:
 聚光灯的当前状态是高度实验性的，可以根据玩家的反应随时更改。所以目前最重要的是收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所有玩家在这里留下他们的意见和反馈：
 
 - [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1189626)
-- [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H) 中的 `#beatmap-spotlights` 频道
-- [osu!dev](https://discord.gg/ppy) 中的 `#osu-spotlights` 频道
+- [社区 Discord 服务器](https://discord.com/invite/0Vxo9AsejDkGlk3H) 中的 `#beatmap-spotlights` 频道
+- [osu!](https://discord.com/invite/ppy) 中的 `#osu-spotlights` 频道
 
 ## 历史
 
