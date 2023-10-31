@@ -10,7 +10,7 @@ tags:
 
 # Cola de clasificación de beatmaps
 
-La **cola de clasificación** gestiona el movimiento de [beatmaps](/wiki/Beatmap) de [calificado](/wiki/Beatmap/Category#calificados) a [clasificado](/wiki/Beatmap/Category#clasificados). Cada día, 10 beatmaps de cada [modo de juego](/wiki/Game_mode) pueden pasar de calificado a clasificado, siempre y cuando hayan estado en calificado durante al menos 7 días. La hora del día en que se clasifican los beatmaps es aleatoria.
+La **cola de clasificación** gestiona el movimiento de [beatmaps](/wiki/Beatmap) de [calificados](/wiki/Beatmap/Category#calificados) a [clasificados](/wiki/Beatmap/Category#clasificados). Cada día, 10 beatmaps de cada [modo de juego](/wiki/Game_mode) pueden pasar de calificados a clasificados, siempre y cuando hayan estado en calificados durante al menos 7 días. La hora del día en que se clasifican los beatmaps es aleatoria.
 
 ## Descalificación y recalificación
 
