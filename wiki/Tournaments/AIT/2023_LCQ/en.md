@@ -251,7 +251,7 @@ Saturday, 14 October 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110871694) |
 | Lower | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/110876209) |
-| Lower |  **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | *win by default* |
+| Lower | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | *win by default* |
 
 Sunday, 15 October 2023:
 
