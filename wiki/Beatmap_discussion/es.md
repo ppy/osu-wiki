@@ -7,11 +7,11 @@ tags:
 outdated: true
 ---
 
-# Discusión del beatmap
+# Discusión de beatmaps
 
 *Véase también: [Modding v1](/wiki/Modding/Forum_modding)*
 
-La **discusión del beatmap** (también conocida como *Modding v2*) es un sistema para administrar y simplificar el proceso de [modding](/wiki/Modding). Su objetivo es proporcionar una interfaz clara y comprensible, donde se enfoca la mejora de un beatmap. Cuando un beatmap es [enviado](/wiki/Beatmapping/Beatmap_submission), se crea automáticamente una página de discusión junto con la página de información del beatmap. Cuando se actualice el beatmap, la página de discusión también se actualizará. Se puede acceder a la página de discusión haciendo clic en el botón `Discusión` en la página de información. La página de discusión del beatmap consta de algunos elementos (de arriba a abajo):
+La **discusión de beatmaps** (también conocida como *Modding v2*) es un sistema para administrar y simplificar el proceso de [modding](/wiki/Modding). Su objetivo es proporcionar una interfaz clara y comprensible, donde se enfoca la mejora de un beatmap. Cuando un beatmap es [enviado](/wiki/Beatmapping/Beatmap_submission), se crea automáticamente una página de discusión junto con la página de información del beatmap. Cuando se actualice el beatmap, la página de discusión también se actualizará. Se puede acceder a la página de discusión haciendo clic en el botón `Discusión` en la página de información. La página de discusión del beatmap consta de algunos elementos (de arriba a abajo):
 
 - Selección de modo
 - Encabezado del beatmap
