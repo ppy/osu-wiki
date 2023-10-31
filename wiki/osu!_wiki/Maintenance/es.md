@@ -79,7 +79,7 @@ Los puntos finales en los encabezamientos normalmente no ocurren porque los enca
 
 ##### Regla de remark lint [`heading-increment`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-heading-increment) de Markdown
 
-Normalmente, los niveles de encabezamiento solo deben aumentar uno a la vez. Para las [fichas](/wiki/Article_styling_criteria/Formatting#fichas), solo se permiten los niveles de encabezamiento 4 y 5, lo que puede entrar en conflicto con esta regla.
+Normalmente, los niveles de encabezamiento solo deben aumentar uno a la vez. Para las [cajas de información](/wiki/Article_styling_criteria/Formatting#cajas-de-información), solo se permiten los niveles de encabezamiento 4 y 5, lo que puede entrar en conflicto con esta regla.
 
 ```markdown
 # Lista de los mappers favoritos de peppy

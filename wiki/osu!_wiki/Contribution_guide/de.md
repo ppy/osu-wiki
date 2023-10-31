@@ -1,6 +1,6 @@
 # Beitragsleitfaden des osu!-Wikis
 
-Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
+Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#self-check).
 
 Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 

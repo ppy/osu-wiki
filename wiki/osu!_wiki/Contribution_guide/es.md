@@ -4,7 +4,7 @@ no_native_review: true
 
 # Guía de contribución a la osu! wiki
 
-¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#autocomprobación).
+¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#self-check).
 
 No se espera que los nuevos colaboradores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
 
@@ -61,7 +61,7 @@ Si nadie lo ha revisado al cabo de un par de días, intente lo siguiente:
 - Para obtener ayuda con la traducción, consulte un par de solicitudes de cambios fusionadas para su idioma y póngase en contacto con sus revisores y/o autores ([ejemplo de consulta de GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ES])).
 - ¡Pide a tus amigos un vistazo rápido!
 
-Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automáticas](/wiki/osu!_wiki/Maintenance#comprobaciones-de-ic) que garantizan que sus cambios sigan el estilo común de la wiki y no tengan errores de formato. Para ver su estado, abra la pestaña `Actions` de su solicitud de cambios y siga los mensajes de diagnóstico debajo de los errores, si los hay.
+Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automáticas](/wiki/osu!_wiki/Maintenance#ci-checks) que garantizan que sus cambios sigan el estilo común de la wiki y no tengan errores de formato. Para ver su estado, abra la pestaña `Actions` de su solicitud de cambios y siga los mensajes de diagnóstico debajo de los errores, si los hay.
 
 ## Fusión
 
