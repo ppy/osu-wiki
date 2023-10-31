@@ -266,7 +266,7 @@ Saturday, 7 October 2023:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | [#1](https://osu.ppy.sh/community/matches/110774274) |
-| Upper |  **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | *win by default* |
+| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | *win by default* |
 
 Sunday, 8 October 2023:
 
@@ -374,9 +374,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    - Players who lose in the upper bracket can still play again in the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Finals, instead of the usual bracket reset system, the remaining players will be competing in the following bracket:
-   
    ![Modified Grand Finals bracket](img/gf-bracket.png)
-
    - The winner of the matches `GF-1` and `NGF-2` will qualify into Ascaveth Invitational Tournament 2023.   
 4. Players who can compete in the next round are determined by:
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
