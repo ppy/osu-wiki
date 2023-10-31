@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# osu! patterns
+# osu!-Pattern
 
 Indexseite für [osu!](/wiki/Game_mode/osu!)-spezifische [Pattern](..)-Arten.
 
