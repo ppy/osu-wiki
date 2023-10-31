@@ -40,7 +40,7 @@ Según el [[RC]], esto está prohibido.
 
 Al agregar redirecciones para un artículo nuevo o existente, tenga en cuenta que deben ser concisos y diseñados para el uso real.
 
-### Comprobaciones de IC
+### Comprobaciones de IC {id=ci-checks}
 
 El repositorio de la osu! wiki usa [integración continua](https://docs.github.com/en/actions/guides/about-continuous-integration) (IC, *CI en inglés*) para verificar automáticamente las solicitudes de cambios entrantes en busca de varios errores comunes. La lista de comprobaciones se configura en el archivo [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
