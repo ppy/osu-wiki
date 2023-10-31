@@ -26,7 +26,7 @@ Die Artikel des osu!-Wikis werden auf [GitHub][osu_wiki] gespeichert. Um etwas b
   - [GitHubs webbasierter Editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, keine Installation erforderlich).
   - [GitHub-Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, bietet mehr Kontrolle).
 
-## Selbstüberprüfung
+## Selbstüberprüfung {id=self-check}
 
 Nachdem du mit der Bearbeitung fertig bist, nehme dir genug Zeit, deine Arbeit Korrektur zu lesen. Gehe über die folgende Checkliste:
 
@@ -46,7 +46,7 @@ Nachdem die Änderungen doppelt überprüft, in die Versionshistorie aufgenommen
 2. Klicke auf den Button `Contribute↓` und wähle `Open pull request`.
 3. Fülle die Details laut [Bewährte Methoden § Eine Änderungsanfrage erstellen](/wiki/osu!_wiki/Contribution_guide/Best_practices#eine-änderungsanfrage-erstellen) aus und klicke auf `Create pull request`.
 
-## Überprüfung
+## Überprüfung {id=review}
 
 Alle Änderungen des osu!-Wikis werden moderiert. Während dieser Phase weisen andere Mitwirkende auf mögliche Fehler und Möglichkeiten, diese zu beheben, hin. Das geschieht entweder über Freiform oder indem sie direkt Bearbeitungen an der Änderungsanfrage vorschlagen. Wie auch mit anderen Begutachtungen musst du dich mit den Kommentaren auseinandersetzen, indem du die [Vorschläge anwendest](/wiki/osu!_wiki/Contribution_guide/Best_practices#vorschläge-anwenden) oder indem du erklärst, warum du die Dinge lieber so lässt, wie sie sind.
 

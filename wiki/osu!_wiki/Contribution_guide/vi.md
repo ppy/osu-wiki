@@ -26,7 +26,7 @@ Các bài viết osu! wiki được lưu trữ trên [GitHub][osu_wiki]. Để �
   - [GitHub chỉnh sửa trên web](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (trực tuyến, không cần cài đặt).
   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ngoại tuyến, có nhiều tính năng hơn).
 
-## Tự kiểm tra
+## Tự kiểm tra {id=self-check}
 
 Khi bạn đã chỉnh sửa xong, dành một chút thời gian để đọc thử thành quả của bạn. Làm theo các mục sau:
 
@@ -46,7 +46,7 @@ Sau khi sự thay đổi đã được kiểm tra, thực hiện, và đẩy và
 2. Bấm `Contribute↓` và bấm `Open pull request`.
 3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở ra một yêu cầu (a pull request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#mở-ra-một-yêu-cầu-(a-pull-request)) và bấm `Create pull request`.
 
-## Đánh giá
+## Đánh giá {id=review}
 
 Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#sửa-sót-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
 

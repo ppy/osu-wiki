@@ -26,7 +26,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
   - 온라인에서 단일 파일을 수정할 수 있는 [GitHub 웹 인터페이스](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)
   - 오프라인에서 유연한 편집을 할 수 있는 [GitHub 데스크톱](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)
 
-## 검토
+## 검토 {id=self-check}
 
 수정을 마친 후, 시간이 걸리더라도 작업한 내용을 검토해 주세요. 빠르게 확인할 수 있는 항목들은 다음과 같습니다:
 
@@ -46,7 +46,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 2. `Contribute↓` 버튼을 누르고 `Open pull request`를 선택하세요.
 3. [모범 사례 § Pull Request 열기](/wiki/osu!_wiki/Contribution_guide/Best_practices#pull-request-열기)를 참조하여 자세한 내용을 채우고 `Create pull request`를 클릭하세요.
 
-## 리뷰
+## 리뷰 {id=review}
 
 osu! wiki의 모든 변경 사항은 관리됩니다. 이 단계에서 다른 협력자들은 가능한 한 실수들을 찾아내어 수정할 방향을 자유롭게 제시하거나 Pull Request를 이용하여 직접적으로 제안합니다. 그러므로 다른 협력자들의 리뷰와 같이 [제안을 적용](/wiki/osu!_wiki/Contribution_guide/Best_practices#리뷰-적용하기)을 했는지, 아니면 어째서 이대로 유지하려 하는지 설명을 댓글에 적어 나타낼 필요가 있습니다.
 

@@ -26,7 +26,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
   - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
   - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
 
-## 自我检查
+## 自我检查 {id=self-check}
 
 当你完成编辑后，请花一些时间校对你的工作。浏览以下快速清单：
 
@@ -46,7 +46,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 2. 点击 `Contribute↓` 按钮，并选择 `提出拉取请求 (Open pull request)`。
 3. 根据 [最好方法 § 提出拉取请求 (Pull Request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#提出拉取请求-(pull-request)) 填写详情，之后点击 `创建拉取请求 (Create pull request)`。
 
-## 审查
+## 审查 {id=review}
 
 所有在 osu! wiki 上做出的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在拉取请求 (PR) 中编辑。和同行评审一样，你需要[应用他们的建议](/wiki/osu!_wiki/Contribution_guide/Best_practices#应用审核中提到的修改)，或者解释你不想修改的原因。
 

@@ -30,7 +30,7 @@ Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribu
   - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
 
-## Autocomprobación
+## Autocomprobación {id=self-check}
 
 Cuando haya terminado de editar, tómese un tiempo para revisar su trabajo. Revise la siguiente lista de verificación rápida:
 
@@ -50,7 +50,7 @@ Después de que los cambios se verifiquen dos veces, se confirmen y se envíen a
 2. Haga clic en el botón `Contribute↓` y seleccione `Open pull request`.
 3. Complete los detalles de acuerdo con [Buenas prácticas § Abrir una solicitud de cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#abrir-una-solicitud-de-cambios) y haga clic en `Create pull request`.
 
-## Revisión
+## Revisión {id=review}
 
 Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma gratuita o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debe abordar los comentarios [aplicando las revisiones](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-revisiones) o explicando por qué prefiere mantener las cosas como están.
 
