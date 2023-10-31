@@ -4,7 +4,7 @@ Estas reglas son la base sobre la cual ayudamos a mantener la comunidad de osu! 
 
 ## Reglas de la comunidad
 
-1. **Cada jugador solo puede tener *UNA* cuenta, siempre**. La *primera* cuenta que crees al registrarte será tu única cuenta osu! desde el momento de su creación y para siempre. Esta cuenta eres TÚ. No es de nadie más —ni de tu hermano, ni de tu madre, ni de tu hermana, ni de tu amigo—, eres TÚ. No compartas tu cuenta con nadie más. No podrás crear una nueva si pierdes el acceso a ella. Mantenla a salvo.
+1. **Cada jugador solo puede tener *UNA* cuenta, siempre**. La *primera* cuenta que crees al registrarte será tu única cuenta de osu! desde el momento de su creación y para siempre. Esta cuenta eres TÚ. No es de nadie más —ni de tu hermano, ni de tu madre, ni de tu hermana, ni de tu amigo—, eres TÚ. No compartas tu cuenta con nadie más. No podrás crear una nueva si pierdes el acceso a ella. Mantenla a salvo.
 2. **Juega limpio**. Utilizar utilidades de terceros de cualquier tipo para obtener algún tipo de ventaja no está bien. Esto incluye cosas como programas de macros, programas de ayuda a la puntería, modificación de la escala de tiempo, y así sucesivamente. Si un programa hace algo que deberías hacer tú mismo para ayudarte a jugar, ¡no está bien!
 3. **Sé bueno con los demás**. El acoso u otros antagonismos no tienen cabida en la comunidad de osu!. Estamos aquí para hacer clic en círculos, golpear tambores, atrapar fruta y pulsar hasta dieciocho teclas a la vez, no para ser idiotas los unos con los otros.
 4. **No seas imbécil**. Si en algún momento dudas de si estás incumpliendo esta regla, probablemente lo estés haciendo.

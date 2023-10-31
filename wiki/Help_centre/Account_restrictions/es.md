@@ -4,7 +4,7 @@
 
 Una restricción es un tiempo fuera en la comunidad forzada a cuentas que exihiben comportamiento anormal, sospechoso o que rompe las reglas.
 
-Cuando una cuenta es restringida, es incapaz de interactuar con la comunidad hasta que la restricción sea levantada. Los jugadores restringidos pueden seguir jugando el juego, descargar beatmaps y subir puntuaciones, pero tu perfil será invisible para los demás.
+Cuando una cuenta es restringida, es incapaz de interactuar con la comunidad hasta que la restricción sea levantada. Los jugadores restringidos pueden seguir jugando el juego, descargar beatmaps y subir puntuaciones, pero su perfil será invisible para los demás.
 
 Las siguientes funciones están desactivadas para las cuentas restringidas:
 
@@ -36,8 +36,8 @@ Si recientemente tu apelación fue aceptada y eres restringido después de jugar
 
 Hay varias razones por las cuales una cuenta puede ser restringida.
 
-- **No es tu primera cuenta.** Las multicuentas están en contra de las reglas. Cualquier cuenta que no sea la cuenta original de un jugador será permanentemente restringida, pero su cuenta original en el mayor de los casos seguirá abierta y el jugador es alentado a seguir jugando en ella. Si el uso de multicuentas es severo o abusivo, un silenciamiento puede ser aplicado a su cuenta original como una advertencia para parar que haga nuevas, y si el uso de multicuentas continúa se aplicará una restricción a la cuenta principal. Si tu cuenta es restringida y sabes que tienes otras cuentas, por favor no continúes accediendo a las cuentas restringidas que tienes y continúa jugando en tu cuenta original. Si tienes problemas para accesar o verificarla, por favor, envía un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) para que así podamos ayudar a que recupere el acceso a ella.
-- **Has permitido que alguien juegue en tu cuenta.** Compartir cuentas también va en contra de las reglas. Si permites que alguien más juegue en tu cuenta, será restringida, y al otro jugador probablemente reciba un silenciamiento o una restricción en su cuenta. Si esto sucedió accidentalmente, por favor, háganoslo saber lo antes posible enviándonos un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh).
+- **No es tu primera cuenta.** Las multicuentas están en contra de las reglas. Cualquier cuenta que no sea la cuenta original de un jugador será permanentemente restringida, pero su cuenta original en el mayor de los casos seguirá abierta y el jugador es alentado a seguir jugando en ella. Si el uso de multicuentas es severo o abusivo, un silenciamiento puede ser aplicado a su cuenta original como una advertencia para parar que haga nuevas, y si el uso de multicuentas continúa se aplicará una restricción a la cuenta principal. Si tu cuenta es restringida y sabes que tienes otras cuentas, por favor no continúes accediendo a las cuentas restringidas que tienes y continúa jugando en tu cuenta original. Si tienes problemas para accesar o verificarla, por favor, envía un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) para que así podamos ayudarte a que recuperes el acceso a ella.
+- **Has permitido que alguien juegue en tu cuenta.** Compartir cuentas también va en contra de las reglas. Si permites que alguien más juegue en tu cuenta, será restringida, y al otro jugador probablemente reciba un silenciamiento o una restricción en su cuenta. Si esto sucedió accidentalmente, por favor, háznoslo saber lo antes posible enviándonos un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Hiciste trampa.** Usar programas de terceros, macros o cualquier forma de ventaja injusta dará como resultado una restricción inmediata.
 - **Otros casos.** El equipo de cuentas se reserva el derecho de restringir una cuenta por casos que no están cubiertos por las tres razones anteriores.
 
