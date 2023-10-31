@@ -34,7 +34,7 @@ A continuación se describe cómo puedes comenzar a ayudar a otros en el foro:
 - Lee las publicaciones ancladas en los foros para conocer las reglas específicas del subforo y cualquier información útil que pueda haber allí.
 - Usa el botón `Marcar foro como leído` en la parte superior.
 - Sigue cualquier hilo nuevo, lee cada uno y ayuda cuando puedas; puedes usar los íconos de no leído para asegurarte de mantenerte al día.
-- Lee las [guías disponibles](/wiki/Guides) para pulir tu conocimiento sobre osu!. Si las guías allí no te satisfacen, entonces puedes intentar contribuir a ellas!
+- Lee las [guías disponibles](/wiki/Guides) para pulir tu conocimiento sobre osu!. ¡Si las guías allí no te satisfacen, entonces puedes intentar contribuir a ellas!
 
 ## ¡Ayuda a revisar/modear beatmaps!
 

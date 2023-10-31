@@ -43,7 +43,7 @@ Usuarios con un osu!supporter activo aparecerán de un amarillo brillante en el 
 
 ### Sección del perfil editable
 
-Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo lo llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
+Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo la llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
 
 La sección `¡yo!` puede ser un buen lugar para:
 
