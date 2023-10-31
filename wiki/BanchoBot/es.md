@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - bancho
   - server bot
@@ -144,7 +143,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 !report <usuario> <motivo>
 ```
 
-`!report` notifica al [Global Moderation Team](/wiki/People/Global_Moderation_Team) sobre la conducta inapropiada de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplácelos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar a un moderador, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
+`!report` notifica al [Global Moderation Team](/wiki/People/Global_Moderation_Team) sobre la conducta inapropiada de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplázalos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar a un moderador, comunícate con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
