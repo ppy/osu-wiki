@@ -351,7 +351,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    - ::{ flag=ID } **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher*)
    - ::{ flag=ID } **[Fuma](https://osu.ppy.sh/users/1501956)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher*)
 5. Testplayers, referees, custom mappers, and mappool selectors may also not participate as players in this tournament.
-6. By registering into the tournament, the player acknowledges that they are willing and able to participate in the upcoming Ascaveth Invitational Tournament 2023 should they qualify from the Last Chance Qualifier.
+6. By registering, the player acknowledges that they are willing and able to participate in the upcoming Ascaveth Invitational Tournament 2023 in person should they qualify from the Last Chance Qualifier.
 
 ### Round-specific rules
 
