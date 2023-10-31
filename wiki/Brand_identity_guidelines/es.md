@@ -21,37 +21,37 @@ Para todos los demás términos, osu! debe tener un espacio entre osu! y el sust
 - `osu! client`
 - `osu! wiki`
 
-## Logotipo de la osu! cookie
+## Logo de la osu! cookie
 
 ### Restricciones de uso de la galleta
 
 #### Color único
 
-![](img/usage-single-colour.png "Logotipo de osu! de un solo color")
+![](img/usage-single-colour.png "Logo de osu! de un solo color")
 
-Esta es la versión de un solo color del logotipo de la osu! cookie. Esta versión del logotipo es muy versátil y se puede adaptar a muchos estilos de diseño.
+Esta es la versión de un solo color del logo de la osu! cookie. Esta versión del logo es muy versátil y se puede adaptar a muchos estilos de diseño.
 
-Usa el archivo original como base y no cree el logotipo desde cero.
+Usa el archivo original como base y no crees el logo desde cero.
 
 #### Color completo
 
-![](img/usage-full-colour.png "Logotipo de osu! a color completo")
+![](img/usage-full-colour.png "Logo de osu! a color completo")
 
-Esta es la versión a todo color del logotipo de la osu! cookie. La sutil sombra paralela es parte del logotipo a todo color.
+Esta es la versión a todo color del logo de la osu! cookie. La sutil sombra paralela es parte del logo a todo color.
 
-Usa el logotipo tal como se proporciona en el kit de diseño sin ninguna modificación.
+Usa el logo tal como se proporciona en el kit de diseño sin ninguna modificación.
 
 ### Área de espacio libre
 
-![](img/clear-space-area.png "Ejemplo de márgenes alrededor del logotipo de osu!")
+![](img/clear-space-area.png "Ejemplo de márgenes alrededor del logo de osu!")
 
 Por favor, dale a la galleta un respiro. Usa la «o» de «osu!» como la medida del espacio.
 
 ### Restricciones de uso de la galleta de un solo color
 
-Dado que osu! está impulsado por la comunidad, el logotipo de la osu! cookie está diseñado para ser simple y versátil; se puede adaptar a muchos diseños con facilidad. No hay una restricción de color estricta para el color de la galleta.
+Dado que osu! está impulsado por la comunidad, el logo de la osu! cookie está diseñado para ser simple y versátil; se puede adaptar a muchos diseños con facilidad. No hay una restricción de color estricta para el color de la galleta.
 
-![](img/restrictions-good-single.png "Modificaciones válidas del logotipo de osu! de un solo color")
+![](img/restrictions-good-single.png "Modificaciones válidas del logo de osu! de un solo color")
 
 - La galleta debe estar afilada en todo momento.
 - Puedes usar cualquier color para la galleta.
@@ -60,7 +60,7 @@ Dado que osu! está impulsado por la comunidad, el logotipo de la osu! cookie es
 
 ---
 
-![](img/restrictions-bad-single.png "Modificaciones no válidas del logotipo de osu! de un solo color")
+![](img/restrictions-bad-single.png "Modificaciones no válidas del logo de osu! de un solo color")
 
 - **No** cambies la relación de aspecto de la galleta.
 - **No** gires la galleta. La galleta debe alinearse con la orientación del medio o el ojo del lector al leer.
@@ -69,7 +69,7 @@ Dado que osu! está impulsado por la comunidad, el logotipo de la osu! cookie es
 - **No** cambies el tamaño de ningún elemento de la galleta de forma independiente.
 - **No** modifiques ningún elemento de la galleta.
 - **No** reorganices ninguno de los elementos de la galleta.
-- La galleta debe estar bien afilada en todo momento. Si es parte de una obra de arte, coloca otro logotipo nítido en algún lugar de la obra de arte.
+- La galleta debe estar bien afilada en todo momento. Si es parte de una obra de arte, coloca otro logo nítido en algún lugar de la obra de arte.
 - **No** apliques ningún efecto elegante o de mal gusto en la galleta.
 - **No** coloques ningún elemento adicional dentro de la galleta.
 - **No** apliques contornos a la galleta. Usa un color de galleta diferente.
@@ -77,9 +77,9 @@ Dado que osu! está impulsado por la comunidad, el logotipo de la osu! cookie es
 
 ### Restricciones de uso de la galleta a color completo
 
-Dado que osu! está impulsado por la comunidad, el logotipo de la osu! cookie está diseñado para ser simple y versátil; se puede adaptar a muchos diseños con facilidad. Usa el logotipo tal como está, sin ninguna modificación. Todas las restricciones aplicadas a la galleta de un solo color también se aplican a la galleta de todo color.
+Dado que osu! está impulsado por la comunidad, el logo de la osu! cookie está diseñado para ser simple y versátil; se puede adaptar a muchos diseños con facilidad. Usa el logo tal como está, sin ninguna modificación. Todas las restricciones aplicadas a la galleta de un solo color también se aplican a la galleta de todo color.
 
-![](img/restrictions-bad-full.png "Modificaciones no válidas del logotipo de osu! a color completo")
+![](img/restrictions-bad-full.png "Modificaciones no válidas del logo de osu! a color completo")
 
 - **No** uses la galleta anterior.
 - **No** uses un tono diferente de rosa.
