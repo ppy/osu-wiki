@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -32,7 +31,7 @@ tags:
 
 A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-1. Las salas estarán abiertos durante toda la semana.
+1. Las salas estarán abiertas durante toda la semana.
 2. La lista de juego ahora también incluirá mods.
    - Los mapas con mods son duplicados del original y su propósito es desafiar a los jugadores experimentados.
    - No habrá mods disponibles para el modo osu!taiko debido a limitaciones de lazer en esta temporada.
