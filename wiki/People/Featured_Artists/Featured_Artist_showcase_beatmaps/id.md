@@ -655,7 +655,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 - **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (2023-02-04)
   - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) diurus oleh ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
-- **[ Updates: Liquicity](https://osu.ppy.sh/home/news/2023-02-08-featured-artist-track-updates-liquicity)** (2023-02-08)
+- **[Liquicity](https://osu.ppy.sh/home/news/2023-02-08-featured-artist-track-updates-liquicity)** (2023-02-08)
   - (![][osu!]) [Dan Dakota - Stood In The Dark (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1888924) diurus oleh ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
 - **[Cinamoro](https://osu.ppy.sh/home/news/2023-02-11-new-featured-artist-cinamoro)** (2023-02-11)
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) diurus oleh ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)

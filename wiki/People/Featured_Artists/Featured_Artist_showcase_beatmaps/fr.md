@@ -655,7 +655,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 
 - **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (04/02/2023)
   - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) organisé par ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
-- **[ Updates: Liquicity](https://osu.ppy.sh/home/news/2023-02-08-featured-artist-track-updates-liquicity)** (08/02/2023)
+- **[Liquicity](https://osu.ppy.sh/home/news/2023-02-08-featured-artist-track-updates-liquicity)** (08/02/2023)
   - (![][osu!]) [Dan Dakota - Stood In The Dark (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1888924) organisé par ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
 - **[Cinamoro](https://osu.ppy.sh/home/news/2023-02-11-new-featured-artist-cinamoro)** (11/02/2023)
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) organisé par ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
