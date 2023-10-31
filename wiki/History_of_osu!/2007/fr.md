@@ -6,7 +6,7 @@ Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2
 
 ## Juillet
 
-osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) [^osume] pour prendre en charge les mises à jour à la dernière version.
+osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`)[^osume] pour prendre en charge les mises à jour à la dernière version.
 
 ![](img/2007-07_01.jpg "Sélection de musiques")
 
@@ -34,7 +34,7 @@ Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonct
 
 ![](img/2007-08_02.jpg "Évolution graphique des frappes")
 
-Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Gameplay/Combo_fire), de la barre de [vie (ou HP)](/wiki/Gameplay/Health), de la trainée du curseur, et des sliders plus beaux. À ce stade, osu! possède une humble collection d'environ 10 beatmaps, créées par l'équipe de test composée d'environ 5 personnes.
+Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Gameplay/Combo_fire), de la barre de [vie](/wiki/Gameplay/Health), de la trainée du curseur, et des sliders plus beaux. À ce stade, osu! possède une humble collection d'environ 10 beatmaps, créées par l'équipe de test composée d'environ 5 personnes.
 
 ![](img/2007-08_03.jpg "Menu de sélection de musiques pour l'éditeur")
 
@@ -44,19 +44,19 @@ Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Gameplay/C
 
 ![](img/2007-09.jpg)
 
-Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les forums ont été établis, et hébergés sur le domaine de peppy (`ppy.sh`). L'attention du public a été gagnée via un [article](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) sur le site [bemanistyle](http://bemanistyle.com) qui a fait quelques intéressés dans les habitués de jeux de rythme.
+Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les forums ont été établis, et hébergés sur le domaine de peppy (`ppy.sh`). L'attention du public a été gagnée via un [article](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) sur le site [bemanistyle](http://bemanistyle.com/) qui a fait quelques intéressés dans les habitués de jeux de rythme.
 
 ![](img/2007-09_01.jpg "Création de sliders dans l'éditeur")
 
 ![](img/2007-09_02.jpg "Menu principal")
 
-![](img/2007-09_03.jpg "Spinner \(basé sur la version DS d'ouendan\)")
+![](img/2007-09_03.jpg "Spinner (basé sur la version DS d'ouendan)")
 
 ![](img/2007-09_04.jpg "Écran de résultat")
 
 ![](img/2007-09_05.jpg "Annonce sur un site de jeux-vidéo")
 
-Peu après la sortie publique, les premiers [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) *(EZ)* et [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) *(NF)*, ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
+Peu après la sortie publique, les premiers [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) et [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -76,13 +76,13 @@ La version 2 de `pUpdater`(`osume`) a été publiée, prenant en charge des tél
 
 ## Novembre
 
-Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Gameplay/Game_modifier/No_Video) et [Hidden](/wiki/Gameplay/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône ou la fenêtre d'osu!.
+Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Gameplay/Game_modifier/No_Video) et [Hidden](/wiki/Gameplay/Game_modifier/Hidden) ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône ou la fenêtre d'osu!.
 
-![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
+![](img/no_video.png "No Video (v1)") ![](img/hidden.png "Hidden (v1)")
 
 ---
 
-![](img/2007-11_01.jpg "Menu principal \(Noyé dans les étoiles !\)")
+![](img/2007-11_01.jpg "Menu principal (Noyé dans les étoiles !)")
 
 ![](img/2007-11_02.jpg "Écran de connexion")
 
