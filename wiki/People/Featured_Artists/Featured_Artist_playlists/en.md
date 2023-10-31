@@ -188,7 +188,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 
 ## Previous playlists
 
-For full playlist details, see the [multiplayer rooms listing](https://osu.ppy.sh/multiplayer/rooms/latest).
+For full playlist details, see the [multiplayer room listing](https://osu.ppy.sh/multiplayer/rooms/latest).
 
 ### June 2022
 
