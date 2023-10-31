@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 3 de Beatmaps Spotlights (Invierno 2021)
+# Temporada 3 de Beatmap Spotlights (Invierno 2021)
 
 ## Calendario
 

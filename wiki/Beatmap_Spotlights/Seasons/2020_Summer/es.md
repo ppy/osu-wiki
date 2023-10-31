@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Ejecución de prueba de Beatmaps Spotlights (Verano 2020)
+# Ejecución de prueba de Beatmap Spotlights (Verano 2020)
 
 ## Calendario
 

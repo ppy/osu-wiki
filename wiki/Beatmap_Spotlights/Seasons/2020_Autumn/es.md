@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 2 de Beatmaps Spotlights (Otoño 2020)
+# Temporada 2 de Beatmap Spotlights (Otoño 2020)
 
 ## Calendario
 

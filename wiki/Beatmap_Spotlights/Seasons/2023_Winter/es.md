@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 8 de Beatmaps Spotlights (Invierno 2023)
+# Temporada 8 de Beatmap Spotlights (Invierno 2023)
 
 ## Calendario
 

@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 5 de Beatmaps Spotlights (Invierno 2022)
+# Temporada 5 de Beatmap Spotlights (Invierno 2022)
 
 ## Calendario
 

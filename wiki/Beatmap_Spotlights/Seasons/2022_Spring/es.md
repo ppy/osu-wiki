@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 6 de Beatmaps Spotlights (Primavera 2022)
+# Temporada 6 de Beatmap Spotlights (Primavera 2022)
 
 ## Calendario
 

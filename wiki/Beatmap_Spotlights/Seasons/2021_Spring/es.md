@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 4 de Beatmaps Spotlights (Primavera 2021)
+# Temporada 4 de Beatmap Spotlights (Primavera 2021)
 
 ## Calendario
 

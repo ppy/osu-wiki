@@ -8,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 7 de Beatmaps Spotlights (Verano 2022)
+# Temporada 7 de Beatmap Spotlights (Verano 2022)
 
 ## Calendario
 
