@@ -14,7 +14,7 @@ tags:
 
 ![Tarjeta de usuario de BanchoBot](img/BanchoBot.jpg "Tarjeta de usuario de BanchoBot")
 
-BanchoBot (algunas veces denominado *Bancho*) es un bot de chat en línea creado para osu! que ayuda a las personas en el chat del juego anunciando mensajes relacionados con el juego (por ejemplo, jugadas totales, reintentos, etc.) y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+BanchoBot (algunas veces llamado *Bancho*) es un bot de chat en línea creado para osu! que ayuda a las personas en el chat del juego anunciando mensajes relacionados con el juego (por ejemplo, jugadas totales, reintentos, etc.) y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot también tiene su propio [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat).
 
