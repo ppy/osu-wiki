@@ -191,6 +191,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 ### June 2022
 
 - 8 beatmaps
+- All game modes
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) mod required
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 3 players in each playlist
@@ -198,6 +199,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 ### July 2022
 
 - 5 beatmaps
+- All game modes
 - 15 allowed attempts across all playlist items
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 0.5% of players in each playlist
@@ -210,11 +212,31 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 ### March 2023
 
 - Top 8 beatmaps from the [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest) with separate prizing
+- All game modes
 
-### June 2023
+### May 2023
 
 - 6 beatmaps from May 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
-- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard), with modifications related to scoring algorithm changes as explained in [this announcement](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists)
+- Only applicable to osu! and osu!mania game modes
+- [Prizes awarded](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) as per the [cumulative leaderboard](#cumulative-leaderboard), with modifications related to scoring algorithm changes as explained in the results announcement
+
+### June/July 2023
+
+- 6 beatmaps from June and July 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- All game modes
+- [Prizes awarded](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) as per the [cumulative leaderboard](#cumulative-leaderboard)
+
+### August 2023
+
+- 6 beatmaps from August 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- Only applicable to osu!, osu!taiko, and osu!mania game modes
+- [Prizes awarded](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) as per the [cumulative leaderboard](#cumulative-leaderboard)
+
+### September/October 2023
+
+- 6 beatmaps from September and October 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- All game modes
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard).
 
 ## Notes
 
