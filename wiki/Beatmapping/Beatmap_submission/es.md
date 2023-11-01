@@ -6,7 +6,7 @@ Los [beatmaps](/wiki/Beatmap) se pueden enviar al sitio web de osu! a través de
 
 Al seleccionar `Subir mapa...` del menú desplegable `Archivo` en el editor (atajo: `Ctrl` + `Shift` + `U`) se abrirá la ventana del **sistema de envío de beatmaps** (***BSS***). Inicialmente, esto enumera recursos para ayudar a los usuarios a hacer preguntas relacionadas con el mapping, encontrar [comentarios](/wiki/Modding) para sus beatmaps y garantizar que sus mapas sean adecuados para clasificar. Si tiene problemas al utilizar el BSS, véase la guía [problemas del BSS](/wiki/Guides/BSS_issues).
 
-Si el beatmap que está subiendo un usuario aún no está en el sitio web de osu!, la ventana del BSS indicará cuántas veces más puede publicar un usuario. Si el beatmap está nominado, la ventana advierte que la nominación se restablecerá por actualizar el beatmap. Si el beatmap está en el [cementerio](/wiki/Beatmap/Category#abandonados), la ventana advierte que el beatmap se elevará a la categoría pendiente.
+Si el beatmap que está subiendo un usuario aún no está en el sitio web de osu!, la ventana del BSS indicará cuántas veces más puede publicar un usuario. Si el beatmap está nominado, la ventana advierte que la nominación se restablecerá por actualizar el beatmap. Si el beatmap está en el [cementerio](/wiki/Beatmap/Category#abandonados), la ventana advierte que el beatmap se elevará a la categoría pendientes.
 
 ## Opciones de envío
 
