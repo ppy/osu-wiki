@@ -36,12 +36,12 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666) |
+| Organiser | ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666) |
 | Administrator | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=DE }:: [Lutschkas](https://osu.ppy.sh/users/14760962) |
 | Referee | ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [Ari-](https://osu.ppy.sh/users/19650134), ::{ flag=VN }:: [BCraftMG](https://osu.ppy.sh/users/13456818), ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=CA }:: [f0rtify](https://osu.ppy.sh/users/9438087), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=SG }:: [Galeath](https://osu.ppy.sh/users/16626784), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659), ::{ flag=US }:: [MokkingJay](https://osu.ppy.sh/users/15229290), ::{ flag=DE }:: [jojo_flower](https://osu.ppy.sh/users/28236847), ::{ flag=VN }:: [Khavid](https://osu.ppy.sh/users/12881880), ::{ flag=DE }:: [Lutschkas](https://osu.ppy.sh/users/14760962), ::{ flag=CA }:: [Noobie_Potato](https://osu.ppy.sh/users/15174655), ::{ flag=US }:: [\[Hirai Momo\]](https://osu.ppy.sh/users/17491844), ::{ flag=DE }:: [Raff2201](https://osu.ppy.sh/users/14679069), ::{ flag=GB }:: [reforna](https://osu.ppy.sh/users/16199365), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=DE }:: [XardasIG4](https://osu.ppy.sh/users/12442952) |
 | Mappool selector | ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=US }:: [Ari-](https://osu.ppy.sh/users/19650134), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659) |
 | Mapper | ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=US }:: [aundy](https://osu.ppy.sh/users/19028240), ::{ flag=US }:: [KingBaxter](https://osu.ppy.sh/users/14396453),::{ flag=US }:: [MyAngelTeio](https://osu.ppy.sh/users/16731028),::{ flag=PH }:: [Raburauza](https://osu.ppy.sh/users/8648178),::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187),::{ flag=US }:: [Yoanie](https://osu.ppy.sh/users/15789449) |
-| PlayTester | ::{ flag=US }:: [chickenuget](https://osu.ppy.sh/users/17004901), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=CA }:: [f0rtify](https://osu.ppy.sh/users/9438087), ::{ flag=US }:: [Yoanie](https://osu.ppy.sh/users/15789449) |
+| Playtester | ::{ flag=US }:: [chickenuget](https://osu.ppy.sh/users/17004901), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=CA }:: [f0rtify](https://osu.ppy.sh/users/9438087), ::{ flag=US }:: [Yoanie](https://osu.ppy.sh/users/15789449) |
 | Streamer | ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=US }:: [Ari-](https://osu.ppy.sh/users/19650134), ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666), ::{ flag=CA }:: [Englishtems](https://osu.ppy.sh/users/20620793), ::{ flag=DE }:: [Lutschkas](https://osu.ppy.sh/users/14760962), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009) |
 | Commentator | ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=SG }:: [MyAngelJamesz](https://osu.ppy.sh/users/28415860), ::{ flag=SG }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666), ::{ flag=CA }:: [Englishtems](https://osu.ppy.sh/users/20620793), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=MY }:: [FaZe_Rakuen](https://osu.ppy.sh/users/13668175), ::{ flag=SG }:: [Galeath](https://osu.ppy.sh/users/16626784), ::{ flag=US }:: [MokkingJay](https://osu.ppy.sh/users/15229290), ::{ flag=VN }:: [Khavid](https://osu.ppy.sh/users/12881880), ::{ flag=CA }:: [Noobie_Potato](https://osu.ppy.sh/users/15174655), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=DE }:: [XardasIG4](https://osu.ppy.sh/users/12442952) |
 | Designer | ::{ flag=BE }:: [iblue](https://osu.ppy.sh/users/9184180) |
@@ -54,7 +54,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 - [BQT Discord server](https://discord.gg/BQTTournaments)
 - [Livestream](https://twitch.tv/BQTTournaments)
 - [Challonge bracket](https://challonge.com/BQT6)
-- **[Statistic sheet](https://docs.google.com/spreadsheets/d/13pInwF2uk7lC3NT1Q2KAMz9EqlVUXt_3LUZUL6C69Xo/edit?usp=sharing)**
+- **[Statistics spreadsheet](https://docs.google.com/spreadsheets/d/13pInwF2uk7lC3NT1Q2KAMz9EqlVUXt_3LUZUL6C69Xo/edit?usp=sharing)**
 
 ## Participants
 
@@ -327,15 +327,15 @@ Sunday, 8 October 2023:
 
 ### Tournament rules
 
-1. This is an International 2v2 • osu!standard tournament
+1. This is an international 2v2 osu! tournament.
 2. Teams are required to have 2 to 4 team members each in order to participate.
 3. All matches will be done under the `Team Vs` setting and the [ScoreV2](/wiki/Gameplay/Score#scorev2) scoring system.
 4. Although the tournament doesn't exercise a strict rank restriction, players must have been participated before in BQT1, BQT2, BQT3, BQT4, or BQT5 in order to be eligible.
-5. Players are required to be in the Discord for the duration of the tournament as long as their team is participating in the tournament.
+5. Players are required to be in the Discord server for the duration of the tournament as long as their team is participating in the tournament.
 6. The tournament will be conducted in seven stages, namely Qualifiers ➔ RO32 ➔ RO16 ➔ Quarterfinals ➔ Semifinals ➔ Finals ➔ Grand Finals.
 7. There will be a bracket reset in the Grand Finals if necessary.
 8. All matches from the Semifinals onwards will be streamed. Other matches are also subject to be streamed depending on the streamers' availability.
-9. All match times are in UTC. Find your own time zone here if you're unsure what UTC you're in.
+9. All match times are displayed in UTC format, so make sure you're doing the correct conversion to your time zone.
 10. Referees, streamers, and match casters are allowed to play in the tournament. However, referees may not self-referee their own match.
 11. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
 
@@ -347,42 +347,42 @@ Sunday, 8 October 2023:
 
    - **Cons:**
 
-     - Can’t be one of following roles: admin, referee, mappool team, and player.
-     - At any point in time, the team captain can remove you as a Team Supporter.
+     - A Team Supporter cannot be part of the following roles: administrator, referee, mappool selector, mapper, and player.
+     - At any point in time, the team captain can remove a Team Supporter from the team.
 
    - **Other Helpful Information:**
 
      - Any rank is allowed to be a Team Supporter!
-     - No incentive! Just wanting to give back to the osu! Community! You're like a coach or guidance for their tournament experience!
-     - If we know you're being offensive, aggressive, and rude to your and others teams, you'll get 2 warnings and the last one would be a ban from the server. Positive Vibes Only!
+     - There's no direct incentive to the role, as it's just a way to give back to the osu! community. You'd be like a coach or an advisor for the team!
+     - If you're being offensive, aggressive, or rude to your and other teams, you'll get a warning, and getting 3 warnings would result in a ban from the server. Positive vibes only!
 
 ### Qualifier instructions
 
-1. Qualifiers will be played to determine who QUALIFIES (TOP 32) as well as TEAM SEEDING.
+1. Qualifiers will be played to determine who qualifies to the top 32, as well as team seeding.
 2. Each team must have **AT LEAST 2 members** present in their qualifier session to participate. Extra players may be substituted in and out freely from the lobby in between the maps.
-3. Set times for Qualifier Lobbies will be shown on the Main Sheet. Each team may only REGISTER for ONE LOBBY.
+3. Set times for Qualifier lobbies will be shown on the main sheet. Each team may only register for **one** lobby.
 4. If a team misses their scheduled lobby, the captain of the team may register the team for a different lobby as long as there is still another lobby available.
-5. If a team CANNOT meet at any of the scheduled times, please DM/Ping @Admin to arrange a custom lobby. Please note that the custom lobbies are not guaranteed as they are based on staff availability.
+5. If a team cannot meet at any of the scheduled times, please DM/ping an admin to arrange a custom lobby. Please note that custom lobbies may not be guaranteed as they are based on staff availability.
 6. If a player disconnects during the first 30 seconds of the map, that specific player must stay at the end of the lobby and replay that map by themselves.
 
 ### Match instructions
 
-1. Matches are made approximately 5-10 MINUTES before the matches are scheduled to start.
+1. Match lobbies are made approximately 5-10 minutes before the matches are scheduled to start.
 2. All match lobbies will be named `(Team 1) vs (Team 2)`, with players from Team 1 playing in slots #1 and #2 (Red Team) and players from Team 2 playing in slots #3 and #4 (Blue Team).
-3. If there are less than 2 players from either team WITHIN THE LOBBY, there is a 15 minute grace period provided to allow them to join; **10 minutes - team lose ban**, **15 minute - FF**. The team with the most players within the lobby by the 15 minute mark will win by default. If both teams have only one player present on each side and both of their 2nd teammate doesn't show up by the 15 minute grace period, it'll be FF on both sides.
-4. There will be **NO WARMUPS** this season, so please warmup before your match.
-5. Each team will use `!roll` for the banning and picking phase. The winner of the roll will get to **choose pick order/ban order** The loser of the roll will get to choose between the unchosen options. For Example... If Team 1 rolls 100 and Team 2 rolls 50... Team 1 wants to choose ban order & they may choose ban first or second...Then that leaves Team 2 to choose from pick order. They may choose to pick first or second.
-6. There will be 1 BAN PER TEAM on matches up to RO16, and 2 BANS PER TEAM (ABBA format) on matches from Quarterfinals onwards. **Each team may not ban two maps from the same mod pool in a match**, except for NoMod maps.
-7. Each team will be allowed 60 seconds to ban their map. When 2 bans are enabled, teams are **NOT allowed to ban from the same mod** (NM is the exception). For example, Team 1 can't ban both HD1 and HD2 during their banning phase.
+3. If there are less than 2 players from either team in the lobby, a 15-minute grace period will be provided to allow the rest of the players to join. After 10 minutes, the team loses their ban privileges. After 15 minutes, the team would forfeit and the team with the most players in the lobby will win by default. If both teams have only one player present on each side and the 15-minute grace period is over, both sides would forfeit.
+4. There will be **no warmups** during matches in this season, so please warm up properly before your match.
+5. Each team will use `!roll` for the banning and picking phase. The winner of the roll will get to **choose pick order/ban order** The loser of the roll will get to choose between the leftover options. For Example, if Team 1 rolls 100 and Team 2 rolls 50, Team 1 can choose ban order where they may choose ban first or second. Then that leaves Team 2 to choose pick order, where they may choose to pick first or second.
+6. There will be **one** ban per team on matches up to RO16, and **two** bans per team (ABBA format) on matches from Quarterfinals onwards. **Each team may not ban two maps from the same mod pool in a match**, except for NoMod maps.
+7. Each team will be allowed up to 60 seconds to choose their banned pick(s). 
 8. Picks will happen in alternating order after the previous map is finished. Each team has 120 seconds to pick their map. If a map is not picked by 120 seconds, the pick will go to the other team.
-9. **Picking maps from the same mod pool consecutively in a match is NOT ALLOWED**, except for NoMod maps. For example, when a team picks HR1, they can't pick HR2 in their next turn. They had to pick something else first (e.g. DT1) before they can pick HR2.
+9. **Picking maps from the same mod pool consecutively in a match is not allowed**, except for NoMod maps. For example, when a team picks HR1, they can't pick HR2 in their next turn. They had to pick something else first (e.g. DT1) before they can pick HR2.
 10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 UNLESS a score is provided. AN ABORT IS ALLOWED ONCE PER TEAM, PER MATCH.
 11. NoFail will be enforced on every map.
-12. Freemod rules : Each players in a team must have a unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR . EZ = 1.8x (with potentially HD)
-13. Players are not required to take any mods on the tiebreaker map. However, playing the tiebreaker map with mods is not prohibited.
+12. When playing FreeMod, each player in a team must have a unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR. EZ = 1.8x (with potentially HD)
+13. Players are not required to take any mods on the tiebreaker map. However, playing the tiebreaker map with mods is allowed.
 
 ### Scheduling instructions
 
-1. Each week, the Tournament Management will create a scheduling-specific channels in the Discord server for every match. Both teams may cooperate to find an alternative time and date for their match in the corresponding channel.
+1. Each week, the organisation team will create scheduling-specific channels in the Discord server for every match. Both teams may cooperate to find an alternative time and date for their match in the corresponding channel.
 2. For loser bracket potential rounds, the deadline to reschedule their first match is by Thursday each week, and the deadline to reschedule their second match is by Friday each week.
-3. The Tournament Management has the right to decline reschedule requests as well as to offer an optimal match time for the teams.
+3. The organisation team has the right to decline reschedule requests as well as to offer an optimal match time for the teams.
