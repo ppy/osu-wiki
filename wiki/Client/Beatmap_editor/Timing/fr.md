@@ -80,7 +80,7 @@ L'onglet timing peut être ouvert en appuyant sur la touche `F3` et permet d'acc
 Pour effectuer rapidement des changements plus ou moins importants, utilisez les modificateurs ci-dessous :
 
 |  | Tempo | Décalage | Vitesse du slider |
-| :-- | :--: | :--: | :--: |
+| :-- | :-: | :-: | :-: |
 | `Ctrl` + click souris | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | Défaut | 1 BPM | 2 ms | 10 osu! pixels |
 | `Shift` + click souris | 5 BPM | 10 ms | - |
