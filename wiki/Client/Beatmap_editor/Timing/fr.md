@@ -65,7 +65,7 @@ Les points de timing hérités ont une couleur verte sur la ligne de temps et da
 
 ## Vue principale
 
-![Capture d'écran de l'onglet timing dans l'éditeur](/wiki/shared/timing/Timing_base-FR.jpg)
+![Capture d'écran de l'onglet timing dans l'éditeur](/wiki/shared/timing/Timing_base-FR.jpg?1)
 
 L'onglet timing peut être ouvert en appuyant sur la touche `F3` et permet d'accéder rapidement aux paramètres suivants :
 
@@ -87,7 +87,7 @@ Pour effectuer rapidement des changements plus ou moins importants, utilisez les
 
 ### Métronome
 
-![](metronome-FR.png "Le métronome d'osu! de l'onglet timing")
+![](img/metronome-FR.png?1 "Le métronome d'osu! de l'onglet timing")
 
 Le métronome, situé en haut à droite de l'onglet timing, permet de trouver rapidement des réglages de timing approximatifs. Les valeurs initiales de BPM et de décalage de la musique peuvent être trouvées en tapant plusieurs fois sur la touche `T` ou en cliquant sur le bouton `Tapez ici !` sur le beat de la musique.
 
