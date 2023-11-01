@@ -13,11 +13,11 @@ tags:
   - paste timing
   - línea roja
   - offset rojo
-  - punto de timing rojo
+  - punto de tiempo rojo
   - offset no heredado
   - línea verde
   - offset verde
-  - punto de timing verde
+  - punto de tiempo verde
   - configuración de timing
   - copiar timing
   - pegar timing
