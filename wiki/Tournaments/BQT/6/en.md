@@ -103,6 +103,37 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here!](https://drive.google.com/drive/folders/1SXumLV7OosSb-x0c9HGGRocB8MMZHUkH?usp=drive_link)**
+
+- NoMod
+  1. [Kito Akari - Desire Again (Amateurre) \[Flame Haze's Extra\]](https://osu.ppy.sh/beatmapsets/1368404#osu/3643054)
+  2. [Kuki Akumu - Ki ga Kurutta Noise (Ari-) \[Less Emotions\]](https://osu.ppy.sh/beatmapsets/2082545#osu/4361353)
+  3. [ORESAMA - OPEN THE WORLDS (flake) \[MOPH'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1880608#osu/3973593)
+  4. [Eagle - S!ck (Heilia) \[!\]](https://osu.ppy.sh/beatmapsets/1286316#osu/2670817)
+  5. [DJ Genki vs Gram - Einherjar Joker (nautzz) \[gaming\]](https://osu.ppy.sh/beatmapsets/1357139#osu/2808550)
+  6. [x0o0x_ - * (yanaginagi1) \[my testplayers are dead (buff)\]](https://osu.ppy.sh/beatmapsets/1880780#osu/3872021)
+- Hidden
+  1. [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
+  2. [CustomiZ - COOLEST (TV Size) (Spork Lover) \[EX\]](https://osu.ppy.sh/beatmapsets/520373#osu/1563518)
+  3. [LeaF - Monkey Business -Satire mix- (waefwerf) \[Extra\]](https://osu.ppy.sh/beatmapsets/1221791#osu/2541432)
+- HardRock
+  1. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Yogurtt's Abyss\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877774)
+  2. [Suigetsu Yamato - Fuujin Shoujo (Suigetsu Yamato Remix) (ktgster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/647546#osu/1371758)
+  3. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Feiri's Another\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3022593)
+- DoubleTime
+  1. [mimimemeMIMI - Mr. Darling (xHappy-) \[Lost's Insane\]](https://osu.ppy.sh/beatmapsets/992737#osu/2076057)
+  2. [Hanazono Mei - Kurenai Fubuki (Nao Tomori) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1549881#osu/3167236)
+  3. [senya - Nagori Tori (Momovely) \[Collab\]](https://osu.ppy.sh/beatmapsets/195808#osu/464496)
+  4. [Pegboard Nerds - Heartbit (feat. Tia Simone) (Altai) \[insane.exe\]](https://osu.ppy.sh/beatmapsets/1557716#osu/3182051)
+- FreeMod
+  1. [PUP - Mabu (Hobbes2) \[Extreme\]](https://osu.ppy.sh/beatmapsets/762836#osu/1603957)
+  2. [A.SAKA - Nanatsu Issenzakura (yf_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
+  3. [void - Valedict (Low) \[Extra\]](https://osu.ppy.sh/beatmapsets/207883#osu/489707)
+- Tiebreaker
+  1. **[MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES (Sotarks) \[AVERSION\]](https://osu.ppy.sh/beatmapsets/1205697#osu/2510640)**
+
 ### Semifinals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1pQSCWEwtIO-2o69_LNg4tWSmRdq8w_5Z?usp=sharing)**
@@ -238,6 +269,36 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
   
 
 ## Match results
+
+### Semifinals
+
+Thursday, 26 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **5 Tonatious' on Bonk** | **6** | 5 | dilf cup 2 | [#1](https://osu.ppy.sh/community/matches/111036698) |
+
+Saturday, 28 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **EFT2: Nuke Singapore** | **6** | 5 | Circle Dodgers CTeam | [#1](https://osu.ppy.sh/community/matches/111069137) |
+| KAZAKHSTAN | 1 | **6** | **Adik** | [#1](https://osu.ppy.sh/community/matches/111071257) |
+| **abbeychan fanclub** | **6** | 1 | Baguette Askim | [#1](https://osu.ppy.sh/community/matches/111072779) |
+
+Sunday, 29 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -_- | 2 | **6** | **sorry 6 digits** | [#1](https://osu.ppy.sh/community/matches/111080525) |
+| **sorry 6 digits** | **6** | 0 | Adik | [#1](https://osu.ppy.sh/community/matches/111083025) |
+| **fumo belvedere** | **6** | 2 | :holaaaaaaa: | [#1](https://osu.ppy.sh/community/matches/111087150) |
+
+Tuesday, 31 October 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| fumo belvedere | 5 | **6** | **EFT2: Nuke Singapore** | [#1](https://osu.ppy.sh/community/matches/111114479) |
 
 ### Quarterfinals
 
