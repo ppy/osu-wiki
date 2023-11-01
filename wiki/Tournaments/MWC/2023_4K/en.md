@@ -56,6 +56,7 @@ The osu!mania 4K World Cup 2023 was run by various community members.
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1WecO9oKqjhV2y77XsRhUjs_d9nHwE45pnW_TsYruel4/edit?rm=minimal)
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1D0lgiieYly9SPb0522c3EimkwDqb07Z9)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1792305)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/125) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
@@ -289,6 +290,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/462
 ## Match results
 
 ### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1xmZBVo5_7lV7VubjsAzFkxyDEtwBNKMj66N0R3deF_M/edit?rm=minimal).
 
 Saturday, 23 September 2023:
 

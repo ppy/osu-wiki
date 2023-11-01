@@ -156,7 +156,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }::  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 | [Corgi Cup: September 2016](CC/2) | 2016-08-05 | 2016-09-11 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | [Corgi Cup III: April 2017](CC/3) | 2017-03-03 | 2017-04-30 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 | [Corgi Cup IV: September 2017](CC/4) | 2017-08-18 | 2017-10-29 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |

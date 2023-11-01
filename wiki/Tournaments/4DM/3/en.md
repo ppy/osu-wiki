@@ -413,7 +413,7 @@ Sunday, 31 January 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
-- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank was determined by `Σ(position earned when playing the qualifiers mappool) / amount of Qualifiers mappool`
 - Only the top 32 team proceeded to the Group Stage
 
 | Seed | Team | Average rank |

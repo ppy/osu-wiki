@@ -37,7 +37,7 @@ A beatmap is unable to be [nominated](/wiki/Beatmap_ranking_procedure#nomination
 | Unspecified | No songs are applicable. This genre is a placeholder until a proper one is set. |
 | Video Game | Made for or made popular by a video game. This is also used for arrangements and remixes of those songs. |
 | Anime | Made for or made popular by an anime or similar medium. |
-| Rock | Mostly focusing on guitars, drums, and bass, typically "built on a foundation of simple unsyncopated rhythms" and characterised by "live performance and a focus on serious and progressive themes" ([*Rock music* on Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
+| Rock | Mostly focusing on guitars, drums, and bass, typically "built on a foundation of simple syncopated rhythms" and characterised by "live performance and a focus on serious and progressive themes" ([*Rock music* on Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
 | Pop | Prominent in pop culture, and composed to be catchy by use of simple structure and repeated choruses or melodies. |
 | Other | Not belonging to any of the listed genres. |
 | Novelty | Comical or unusual. In osu!, this category primarily includes songs like YouTube Poops, Niconico MADs, and meme music. |

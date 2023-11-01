@@ -19,17 +19,18 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [23/10/2017](https://osu.ppy.sh/beatmapsets/659371) | [9/7/2022](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [10/4/2019](https://osu.ppy.sh/beatmapsets/921130) | [27/8/2022](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [9/3/2020](https://osu.ppy.sh/beatmapsets/1112834) | [28/8/2023](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [12/11/2015](https://osu.ppy.sh/beatmapsets/335145) | [29/4/2019](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12)  |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [14/4/2017](https://osu.ppy.sh/beatmapsets/540867) | [23/8/2023](https://osu.ppy.sh/beatmapsets/1852680) |  |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [12/11/2015](https://osu.ppy.sh/beatmapsets/335145) | [29/4/2019](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [14/4/2017](https://osu.ppy.sh/beatmapsets/540867) | [23/8/2023](https://osu.ppy.sh/beatmapsets/1852680) | [#1](https://osu.ppy.sh/beatmaps/packs/TM17) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [13/3/2017](https://osu.ppy.sh/beatmapsets/542755) | [31/8/2019](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
-| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [9/12/2017](https://osu.ppy.sh/beatmapsets/623924) | [24/11/2020](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3)  |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/6/2017](https://osu.ppy.sh/beatmapsets/598791) | [2/10/2022](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4)  |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [11/12/2018](https://osu.ppy.sh/beatmapsets/879904) | [20/3/2023](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2)  |
+| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [9/12/2017](https://osu.ppy.sh/beatmapsets/623924) | [24/11/2020](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/6/2017](https://osu.ppy.sh/beatmapsets/598791) | [2/10/2022](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [11/12/2018](https://osu.ppy.sh/beatmapsets/879904) | [20/3/2023](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/9/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [13/12/2015](https://osu.ppy.sh/beatmapsets/373858) | [29/8/2018](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [12/7/2019](https://osu.ppy.sh/beatmapsets/965596) | [7/10/2023](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [9/3/2009](https://osu.ppy.sh/beatmapsets/5417) | [8/3/2012](https://osu.ppy.sh/beatmapsets/44666) |  |
 
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **3 años y medio** (alrededor de 1292 días) clasificar 100 beatmaps en promedio.
+- Entre todos los centuriones, toma aproximadamente **3,6 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1306 días) clasificar 100 beatmaps en promedio.

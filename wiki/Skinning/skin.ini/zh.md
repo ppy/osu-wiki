@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 88bae6563ada2e646937bfe145079a5186337c7b
----
-
 # skin.ini
 
 *另见：[skin.ini / 空白 skin.ini 文件](/wiki/Skinning/skin.ini/Blank)*
@@ -114,13 +109,9 @@ outdated_since: 88bae6563ada2e646937bfe145079a5186337c7b
 
 ### User
 
-**并不是皮肤版本，但总会强制使用 [latest](#latest) 版本**
+这并不是皮肤的版本名，而是在游戏默认皮肤被修改时，会创建的一个特殊皮肤文件夹。比如，玩家将自定义背景图片拖入游戏窗口（需要玩家拥有 [osu! 支持者](/wiki/osu!supporter#额外皮肤元素)）时或是玩家在设置里修改了默认皮肤的 osu!mania 键位绑定时。
 
-- 请**不要**在发布皮肤时使用此版本！
-- 皮肤文件夹名**必须**为 `User`。
-- 如果你只想改变几个元素（比如光标、数字等等），就可以使用此方法。
-- 不需要 `skin.ini` 文件。
-- 此文件夹总会强制设置 `Version: latest`。
+如果皮肤文件夹内的皮肤使用了 `User` 名称，则游戏会无视 `skin.ini` 或其他任何自定义的皮肤版本，总是使用 latest 版本。
 
 ## 备注
 

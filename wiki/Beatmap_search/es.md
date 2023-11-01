@@ -40,7 +40,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `title` | Nombre de la canción |
 | `difficulty` | Nombre de la dificultad del beatmap |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
-| `cs` | [Tamaño del circulo](/wiki/Beatmap/Circle_size) |
+| `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
 | `hp` | [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
@@ -62,7 +62,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `featured_artist` | Identificador de la entrada del [artista destacado](/wiki/People/Featured_Artists) |
 | `creator` | Nombre del creador de la dificultad |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
-| `cs` | [Tamaño del circulo](/wiki/Beatmap/Circle_size) |
+| `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) |
 | `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
@@ -71,6 +71,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
 | `created` | Fecha de creación del beatmap |
+| `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
 
 ## Cliente (lazer)[^lazer-filters]
@@ -82,7 +83,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `creator` | Nombre del creador de la dificultad |
 | `difficulty` | Nombre de la dificultad del beatmap |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
-| `cs` | [Tamaño del circulo](/wiki/Beatmap/Circle_size) |
+| `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) |
 | `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
@@ -119,5 +120,5 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 
 ## Referencias
 
-[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/67c59d69fcdbd07d44984707058bc1193535898f/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
