@@ -1,6 +1,6 @@
 # Editor de beatmaps
 
-![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose-ES.png)
+![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose-ES.jpg)
 
 *Para atajos de teclado del editor de beatmaps, véase: [Referencia de atajos de teclado § Editor de beatmaps](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
 
