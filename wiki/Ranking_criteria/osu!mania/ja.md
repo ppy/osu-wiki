@@ -13,7 +13,7 @@ outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
 
 ### 難易度名
 
-*メイン記事: [難易度のネーミング](/wiki/Ranking_criteria/Difficulty_naming)*
+*メイン記事: [難易度名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

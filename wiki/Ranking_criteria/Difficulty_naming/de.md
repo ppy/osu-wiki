@@ -1,3 +1,8 @@
+---
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
+---
+
 # Benennung von Schwierigkeitsgraden
 
 Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwierig eine Beatmap ist. Dieser Artikel listet allgemeine Konventionen sowie andere Alternativen auf, die sich im Laufe der Jahre angesammelt haben. Solange die Namen der Schwierigkeitsstufen jedoch beschreibend sind und die Anforderungen klar angeben, darfst du jede beliebige Art von Schema verwenden.
@@ -8,7 +13,7 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 *Hinweis: Der spezielle Name für den Schwierigkeitsgrad **Marathon** erlaubte Mappern früher Beatmaps mit längeren Songs einzureichen und wurde somit für Beatmapsets mit nur einer Schwierigkeitsstufe populär. Heute hat der Name keine besondere Bedeutung und wird typischerweise nur für sehr lange Songs oder Zusammenstellungen mehrerer Songs genutzt.*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -16,15 +21,15 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -32,7 +37,7 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

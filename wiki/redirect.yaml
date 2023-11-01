@@ -416,10 +416,10 @@
 
 "replay":                      "Gameplay/Replay"
 
-"keyboard_bindings":           "Client/Options/Keyboard_bindings"
-"keyboard_binding":            "Client/Options/Keyboard_bindings"
-"key_bindings":                "Client/Options/Keyboard_bindings"
-"key_binding":                 "Client/Options/Keyboard_bindings"
+"keyboard_bindings":           "Client/Keyboard_shortcuts"
+"keyboard_binding":            "Client/Keyboard_shortcuts"
+"key_bindings":                "Client/Keyboard_shortcuts"
+"key_binding":                 "Client/Keyboard_shortcuts"
 "offset_wizard":               "Client/Options/Offset_Wizard"
 
 "osu!_file_format":                    "Client/File_formats"
@@ -1410,7 +1410,7 @@
 "shortcut_key_reference":           "Client/Keyboard_shortcuts"
 "options":                          "Client/Options"
 "glossary/ignore_list":             "Client/Options/Ignore_list"
-"options/keyboard_bindings":        "Client/Options/Keyboard_bindings"
+"options/keyboard_bindings":        "Client/Keyboard_shortcuts"
 "options/offset_wizard":            "Client/Options/Offset_Wizard"
 "osu!_program_files":               "Client/Program_files"
 "osu!_program_files/user_configuration_file": "Client/Program_files/User_configuration_file"
@@ -2115,3 +2115,7 @@
 "bsd": "Client/Beatmap_editor/Beat_snap_divisor"
 "client/beatmap_editor/beat_snap": "Beatmapping/Beat_snapping"
 "beatmapping/snapping": "Beatmapping/Beat_snapping"
+
+# deleted in #10217
+
+"client/options/keyboard_bindings":          "Client/Keyboard_shortcuts"
