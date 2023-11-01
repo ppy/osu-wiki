@@ -8,7 +8,7 @@ Ephemeral, joining the game in August of 2009, has taken an active part in the d
 
 ![](meow)
 
-On October 28th the [osu! Medal Hunters](https://discord.gg/8qpNTs6) [Discord](https://discord.com/) server staff hosted an interview with [Ephemeral](https://osu.ppy.sh/users/102335), and this newspost will highlight best of questions that were asked here! If you wish to view full event recording, you may do so [here](https://youtu.be/OHWbFpPoTJI).
+On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with [Ephemeral](https://osu.ppy.sh/users/102335), and this newspost will highlight some of the best questions that were asked here! If you wish to view the recording of the full event, you may do so [here](https://youtu.be/OHWbFpPoTJI).
 
 And so, without further hesitations, let's dive right into it, starting up with a small introduction:
 
@@ -75,7 +75,7 @@ My workout routine is sit on a chair like a shrimp for like 18 hours a day.
 
 **Do you plan to make more meme-related medals?**
 
-If I can put a meme medal in that makes sense - I will at any given opportunity. It's just that you have to be careful when you put those in that you're not forcing the joke. I was worried a bit with 727 that it would be kind of like, you're beating a dead horse, but it's so timeless at this point.
+If I can put a meme medal in that makes sense, I will at any given opportunity. It's just that you have to be careful when you put those in that you're not forcing the joke. I was worried a bit with 727 that it would be kind of like, you're beating a dead horse, but it's so timeless at this point.
 
 **Why can't you test medals?**
 
@@ -95,10 +95,10 @@ Aeon was inspired by one of my favorite songs, which is also the first beatmap I
 
 **You have such a way with words, and occasionally have us pull out a dictionary to figure out what the medal was even called. Where do you come up with these?**
 
-I wish I could tell you, but it seems to be a `me` thing, I don't know, I just play a lot of games that involve words like that, and I consume a lot of content. Like, I read fuckloads of books, like fantasy books.
+I wish I could tell you, but it seems to be a *me* thing, I don't know, I just play a lot of games that involve words like that, and I consume a lot of content. Like, I read fuckloads of books, like fantasy books.
 
 ---
 
-That's it for the highlighted questions! As a reminder, you can watch a full recording of this interview in the video linked above. Hope you enjoyed it, and... **see you next time**!
+That's it for the highlighted questions! As a reminder, you can watch a full recording of this interview [here](https://youtu.be/OHWbFpPoTJI). Hope you enjoyed it, and... **see you next time**!
 
 —MegaMix_Craft
