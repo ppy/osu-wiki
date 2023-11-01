@@ -12,7 +12,7 @@ tags:
 ![](/wiki/shared/editor/editor-draw-distsnap.png "El icono de la herramienta ajuste de distancia")
 :::
 
-La **igualdad tiempo-distancia** es una [técnica de mapping](/wiki/Beatmapping/Mapping_techniques) de [osu!](/wiki/Game_mode/osu!) donde el espacio entre [objetos](/wiki/Gameplay/Hit_object) en el campo de juego es proporcional al tiempo entre ellos. En el editor de beatmaps, se puede aplicar usando la herramienta [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), que mantiene la proporción según el multiplicador de espaciado de distancia.
+La **igualdad de tiempo-distancia** es una [técnica de mapping](/wiki/Beatmapping/Mapping_techniques) de [osu!](/wiki/Game_mode/osu!) donde el espacio entre [objetos](/wiki/Gameplay/Hit_object) en el campo de juego es proporcional al tiempo entre ellos. En el editor de beatmaps, se puede aplicar usando la herramienta [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), que mantiene la proporción según el multiplicador de espaciado de distancia.
 
 ## Uso
 
@@ -30,4 +30,4 @@ Aunque la igualdad de tiempo-distancia rara vez se utiliza en el sentido exacto 
 
 ## Notas
 
-[^rc-note]: La igualdad tiempo-distancia está presente como una pauta en los [criterios de clasificación de osu!](/wiki/Ranking_criteria/osu!) para Easy y Normal.
+[^rc-note]: La igualdad de tiempo-distancia está presente como una pauta en los [criterios de clasificación de osu!](/wiki/Ranking_criteria/osu!) para Easy y Normal.
