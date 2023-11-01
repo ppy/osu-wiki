@@ -18,7 +18,7 @@ I am some guy named Ephemeral, who has been doing osu! things for like, 14 years
 
 **How and why did you join the osu!team?**
 
-Once upon a time, there was some guy and he made a very bad map, insisting that his map was good. I saw this map and for some reason ketchup's attitude really irked me, so I posted what I guess would be the equivalent of a "mania mod post" in 2009. That kind of got me infamous in the community, because I tore his map to bits, and then I think six months later I was nominated to the [BAT](/wiki/People/Beatmap_Appreciation_Team) at the time, so that was where it all kind of began. 
+Once upon a time, there was some guy and he made a very bad map, insisting that his map was good. I saw this map and for some reason their attitude really irked me, so I posted what I guess would be the equivalent of a "mania mod post" in 2009. That kind of got me infamous in the community, because I tore his map to bits, and then I think six months later I was nominated to the [BAT](/wiki/People/Beatmap_Appreciation_Team) at the time, so that was where it all kind of began. 
 I did BAT work for about six months and then decided I hated it, so I just started doing moderation stuff instead, and then I kind of just stuck around and helped out with a whole bunch of early teams, like the [MAT](/wiki/People/Mapping_Assistance_Team).
 
 **So how did you start doing medal stuff?**
