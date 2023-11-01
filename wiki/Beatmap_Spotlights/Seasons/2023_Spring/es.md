@@ -31,7 +31,7 @@ A partir de ahora, para unirse a las salas multijugador semanales requiere que l
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
 2. Cada sala de juego proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se vuelve a jugar una vez durante una temporada.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
 3. Dentro de una sala de juego, todos compiten en una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la sala de juego se resumen para crear una puntuación clasificada semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.

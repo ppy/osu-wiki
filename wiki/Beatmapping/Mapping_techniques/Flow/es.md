@@ -10,7 +10,7 @@ tags:
 
 # Flow
 
-**Flow** es un concepto de mapeo que describe patrones de movimiento naturales e intuitivos del cursor de un jugador durante el juego. El flow, o la falta del mismo, está relacionado con el [modo de juego osu!](/wiki/Game_mode/osu!) debido a su campo de juego bidimensional. Utilizando la gran variedad de [patrones](/wiki/Beatmap/Pattern) y formas posibles de los sliders en los beatmaps, los mappers pueden dirigir el cursor de un jugador por el campo de juego de varias maneras, produciendo diferentes efectos en la experiencia de juego.
+El **flow** es un concepto de mapping que describe patrones de movimiento naturales e intuitivos del cursor de un jugador durante el juego. El flow, o la falta del mismo, está relacionado con el [modo de juego osu!](/wiki/Game_mode/osu!) debido a su campo de juego bidimensional. Usando la gran variedad de [patrones](/wiki/Beatmap/Pattern) y formas posibles de los sliders en los beatmaps, los mappers pueden dirigir el cursor de un jugador por el campo de juego de varias maneras, produciendo diferentes efectos en la experiencia de juego.
 
 El flow se considera una cuestión **subjetiva** y a menudo obstinada debido a cómo los diferentes mappers y jugadores diseñan o perciben el movimiento. Algunos aspectos del flow pueden afectar el juego en diferentes grados dependiendo del [dispositivo de entrada](/wiki/Gameplay/Input_device) del jugador, como la [tableta gráfica](/wiki/Gameplay/Input_device/Graphics_tablet) o el [ratón](/wiki/Gameplay/Input_device/Mouse), o la habilidad o experiencia adquirida por el jugador.
 
@@ -32,15 +32,15 @@ Otra forma de movimiento natural es la repetición. Los patrones con movimientos
 
 ### Implicaciones visuales
 
-Para hacer que un beatmap se vea y se sienta más natural, los mappers pueden usar sliders con diferentes formas que refuerzan la dirección de movimiento sugerida. Dado que no es necesario seguir perfectamente los cuerpos de los sliders, ya que el cursor solo necesita alcanzar los [tics del slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick), se pueden ajustar y doblar de muchas maneras sin afectar el movimiento requerido para completarlos. Esto permite que las formas de los sliders complementen una trayectoria de movimiento existente o ayuden al jugador a elegir una nueva trayectoria de movimiento.
+Para hacer que un beatmap se vea y se sienta más natural, los mappers pueden usar sliders con diferentes formas que refuerzan la dirección de movimiento sugerida. Dado que no es necesario seguir perfectamente los cuerpos de los sliders, ya que el cursor solo necesita alcanzar las [marcas del slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick), se pueden ajustar y doblar de muchas maneras sin afectar el movimiento requerido para completarlos. Esto permite que las formas de los sliders complementen una trayectoria de movimiento existente o ayuden al jugador a elegir una nueva trayectoria de movimiento.
 
 ## Aplicación
 
-En los beatmaps, se pueden utilizar diferentes tipos de flow para expresar diferentes aspectos de la música.
+En los beatmaps, se pueden usar diferentes tipos de flow para expresar diferentes aspectos de la música.
 
-Por ejemplo, el flow suave se puede contrastar con el movimiento antinatural para demostrar diferencias en la intensidad de una canción durante los momentos clave. Por otro lado, la repetición se utiliza habitualmente para mostrar una parte repetida de una canción.
+Por ejemplo, el flow suave se puede contrastar con el movimiento antinatural para demostrar diferencias en la intensidad de una canción durante los momentos clave. Por otro lado, la repetición se usa habitualmente para mostrar una parte repetida de una canción.
 
-Debido a la subjetividad del flow y la cantidad de posibles patrones de movimiento del cursor, no existe un consenso claro sobre cómo se debe utilizar mejor el flow en el mapeo.
+Debido a la subjetividad del flow y la cantidad de posibles patrones de movimiento del cursor, no existe un consenso claro sobre cómo se debe usar mejor el flow en el mapping.
 
 ## Véase también
 
@@ -50,4 +50,4 @@ Debido a la subjetividad del flow y la cantidad de posibles patrones de movimien
 
 ## Notas
 
-[^circular-flow]: Para los jugadores que usan un mouse, el movimiento circular aplicado en la misma dirección durante demasiado tiempo se considera demasiado repetitivo e incómodo debido al mouse drift.
+[^circular-flow]: Para los jugadores que usan un ratón, el movimiento circular aplicado en la misma dirección durante demasiado tiempo se considera demasiado repetitivo e incómodo debido al mouse drift.
