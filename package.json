@@ -1,30 +1,36 @@
 {
-    "private": true,
-    "name": "osu-wiki",
-    "description": "home of the osu! wiki",
-    "repository": "github:ppy/osu-wiki",
-    "type": "module",
-    "dependencies": {
-        "remark-cli": "11.0.0",
-        "remark-frontmatter": "4.0.1",
-        "remark-gfm": "3.0.1",
-        "remark-lint-final-newline": "2.1.1",
-        "remark-lint-hard-break-style": "github:cl8n/remark-lint-hard-break-style",
-        "remark-lint-linebreak-style": "3.1.1",
-        "remark-lint-no-duplicate-definitions": "3.1.1",
-        "remark-lint-no-duplicate-headings-in-section": "3.1.1",
-        "remark-lint-no-heading-content-indent": "4.1.1",
-        "remark-lint-no-heading-indent": "4.1.1",
-        "remark-lint-no-heading-like-paragraph": "3.1.1",
-        "remark-lint-no-html": "3.1.1",
-        "remark-lint-no-missing-blank-lines": "3.1.1",
-        "remark-lint-no-tabs": "3.1.1",
-        "remark-lint-no-undefined-references": "4.1.1",
-        "remark-lint-no-unused-definitions": "3.1.1",
-        "remark-lint-osu-links": "github:cl8n/remark-lint-osu-links",
-        "remark-lint-osu-wiki-links": "github:MegaApplePi/remark-lint-osu-wiki-links",
-        "remark-preset-lint-markdown-style-guide": "5.1.2",
-        "vfile-reporter-github-action": "^1.0.0",
-        "vfile-reporter-position": "github:TicClick/vfile-reporter-position#update-vfile-message-v3"
+  "private": true,
+  "name": "osu-wiki",
+  "description": "home of the osu! wiki",
+  "repository": "github:ppy/osu-wiki",
+  "type": "module",
+  "dependencies": {
+    "remark-cli": "11.0.0",
+    "remark-frontmatter": "4.0.1",
+    "remark-gfm": "3.0.1",
+    "remark-lint-final-newline": "2.1.1",
+    "remark-lint-hard-break-style": "github:cl8n/remark-lint-hard-break-style",
+    "remark-lint-linebreak-style": "3.1.1",
+    "remark-lint-no-duplicate-definitions": "3.1.1",
+    "remark-lint-no-duplicate-headings-in-section": "3.1.1",
+    "remark-lint-no-heading-content-indent": "4.1.1",
+    "remark-lint-no-heading-indent": "4.1.1",
+    "remark-lint-no-heading-like-paragraph": "3.1.1",
+    "remark-lint-no-html": "3.1.1",
+    "remark-lint-no-missing-blank-lines": "3.1.1",
+    "remark-lint-no-tabs": "3.1.1",
+    "remark-lint-no-undefined-references": "4.1.1",
+    "remark-lint-no-unused-definitions": "3.1.1",
+    "remark-lint-osu-links": "github:cl8n/remark-lint-osu-links",
+    "remark-lint-osu-wiki-links": "github:MegaApplePi/remark-lint-osu-wiki-links",
+    "remark-osu": "^0.1.0",
+    "remark-preset-lint-markdown-style-guide": "5.1.2",
+    "vfile-reporter-github-action": "^1.0.0",
+    "vfile-reporter-position": "github:TicClick/vfile-reporter-position#update-vfile-message-v3"
+  },
+  "overrides": {
+    "mdast-util-gfm-table": {
+      "markdown-table": "file:../../meta/remark/markdown-table"
     }
+  }
 }
