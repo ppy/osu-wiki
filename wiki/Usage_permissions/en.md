@@ -402,10 +402,10 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | Artist                                                                               | Status                              | Notes                                                                                                                                  |
 | :----------------------------------------------------------------------------------- | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
 | a_hisa                                                                               | ![][partial] [^explicit-permission] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or via [Bandcamp](https://a-hisa.bandcamp.com/). |
-| [HoneyComeBear ![][FA]](https://osu.ppy.sh/beatmaps/artists/319)                     | ![][partial] [^fa-only-audio]       |                                                                                                                                        |
-| [Jun Kuroda ![][FA]](https://osu.ppy.sh/beatmaps/artists/124)                        | ![][partial] [^fa-only-audio]       |                                                                                                                                        |
-| [kanemiko ![][FA]](https://osu.ppy.sh/beatmaps/artists/367)                          | ![][partial] [^fa-only-audio]       |                                                                                                                                        |
-| [Morimori Atsushi ![][FA]](https://osu.ppy.sh/beatmaps/artists/108)                  | ![][partial] [^fa-only-audio]       |                                                                                                                                        |
+| [HoneyComeBear ![][FA]](https://osu.ppy.sh/beatmaps/artists/319)                     | ![][partial] [^allowed-exception]   | Do not use or upload tracks that are not available on the creator's Featured Artist listing.                                           |
+| [Jun Kuroda ![][FA]](https://osu.ppy.sh/beatmaps/artists/124)                        | ![][partial] [^allowed-exception]   | Do not use or upload tracks that are not available on the creator's Featured Artist listing.                                           |
+| [kanemiko ![][FA]](https://osu.ppy.sh/beatmaps/artists/367)                          | ![][partial] [^allowed-exception]   | Do not use or upload tracks that are not available on the creator's Featured Artist listing.                                           |
+| [Morimori Atsushi ![][FA]](https://osu.ppy.sh/beatmaps/artists/108)                  | ![][partial] [^allowed-exception]   | Do not use or upload tracks that are not available on the creator's Featured Artist listing.                                           |
 | [Yuyoyuppe / DJ'TEKINA//SOMETHING  ![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] [^allowed-exception]   | Tracks from or themed around *Touhou* should not be uploaded or used.                                                                  |
 
 ### Disallowed
@@ -435,7 +435,6 @@ If it is unclear whether a visual artist allows their work to be used on other p
 [^monstercat-gold]: This artist is licensed in cooperation with [Monstercat](https://osu.ppy.sh/beatmaps/artists/255), and users may be able to obtain external media usage rights via a [Monstercat Gold](https://www.monstercat.com/gold) subscription. Please consult their site for specific details on this license.
 [^allowed-audio]: All Featured Artist tracks available on an artist's listing are allowed for use.
 [^explicit-permission]: Requires explicit permission from artist per individual use. See Notes column for more information.
-[^fa-only-audio]: Do not use or upload tracks that are not available on the creator's Featured Artist listing.
 [^allowed-exception]: Allowed, with exceptions. See the Notes column for more information.
 [^disallowed-audio]: No tracks are allowed to be uploaded or used.
 
