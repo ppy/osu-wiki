@@ -49,7 +49,7 @@ There also was a beatmap pack medal that was meant to be for Porter beatmap pack
 
 **What's your favourite medal?**
 
-Probably Internment at this point. That was very-very fun to watch for me to be honest. It's cool when a medal has that much impact, because a lot of the time medals we released people just get in the first 18 hours, and then once the solution is on Osekai they forget about it.
+Probably [Internment](https://osu.ppy.sh/home/news/2023-09-18-the-hunt-for-internment) at this point. That was very-very fun to watch for me to be honest. It's cool when a medal has that much impact, because a lot of the time medals we released people just get in the first 18 hours, and then once the solution is on Osekai they forget about it.
 
 **Are there plans for challenge packs in other gamemodes?**
 
@@ -77,7 +77,7 @@ If I can put a meme medal in that makes sense, I will at any given opportunity. 
 
 **Why can't you test medals?**
 
-I can't test this on my account, because the one time I did - you scraped it immediately, so I can't do that.
+I can't test this on my account, because the one time I did - medal hunters scraped it immediately, so I can't do that.
 
 **Do you think we could do something like an entire playerbase medal, like hit a billion notes in December?**
 
@@ -85,11 +85,11 @@ Yeah, I think so.
 
 **How was Aeon (Hush-Hush Medal) thought of?**
 
-Aeon was inspired by one of my favorite songs, which is also the first beatmap I ever submitted.
+Aeon was inspired by one of my favorite songs, which is also [the first beatmap](https://osu.ppy.sh/beatmapsets/8000) I ever submitted.
 
 **You have such a way with words, and occasionally have us pull out a dictionary to figure out what the medal was even called. Where do you come up with these?**
 
-I wish I could tell you, but it seems to be a *me* thing, I don't know, I just play a lot of games that involve words like that, and I consume a lot of content. Like, I read fuckloads of books, like fantasy books.
+I wish I could tell you, but it seems to be a *me* thing, I don't know, I just play a lot of games that involve words like that, and I consume a lot of content. Like, I read loads of books, like fantasy books.
 
 ---
 
