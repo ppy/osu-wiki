@@ -8,13 +8,13 @@ tags:
 
 ## Opt-in
 
-If you are an artist and wish to have your stance regarding whether osu! users may make use of your work known publicly or privately, please feel free to reach out to either [the osu! support team via email](mailto:support@ppy.sh) or any member of the [osu!team](/wiki/People/osu!team) with as much information as possible regarding what work you may want to allow or disallow.
+If you are an artist and wish to add or update your entry on this listing, please feel free to reach out to our [music licencing team](mailto:music@ppy.sh).
 
 ## Audio
 
 All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are approved for use in the creation of osu! beatmaps. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
 
-**Important note**: external media (such as gameplay videos submitted to sites like YouTube, livestreams) is subject to different licensing requirements that must be negotiated in most circumstances with the artist themselves. Some artists have broad permissions or allowances for external media and we have made best efforts to include this information where appropriate, but please ensure you double-check using primary sources like the artist's own sites/platforms.
+**Important note**: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please do your due diligence when broadcasting gameplay to an audience.
 
 | Artist                                   | Status                               | Exceptions                                                  | Notes                                                                                                               |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -169,7 +169,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | I love you Orchestra             ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/117)  |
 | IAHN                             ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/3)    |
 | iFeature                         ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/210)  |
-| Igorr                                    | 🔴 **Disallowed**                   |                                                             |                                                                                                                     |
+| Igorrr                                    | 🔴 **Disallowed**                   |                                                             |                                                                                                                     |
 | II-L                             ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/172)  |
 | Imperial Circus Dead Decadence   ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/35)   |
 | Imy                              ![][FA] | 🟢 Allowed                          |                                                             | Officially licensed songs can be found at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/99)   |
