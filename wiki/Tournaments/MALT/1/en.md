@@ -474,13 +474,13 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Mappools are constructed to have 5 maps: 2 rice-based, 2 LN-based, and 1 hybrid.
 - Players are scheduled to a multiplayer room according to their availability.
 - Each player has 2 attempts at each map, where only the best attempt for each map will count.
-- Each map has its own leaderboard, and each player's overall seed is determined by the average of these ranks. The top 48 players of the Qualifiers proceeds to the next rounds.
+- Each map has its own leaderboard, and each player's overall seed is determined by the average of these ranks. The top 48 players of the Qualifiers proceed to the next rounds.
 - The top 16 players immediately advance to the bracket stage. Players seeded from 17 to 48 had to participate in the playoffs.
 
 #### Playoffs
 
 - Players participating in this round are to face each other in a one-on-one best-of-7 match.
-- Matchups are determined by this formula: ``65 - seed``. (This means that seed 17 faces seed 48, 18 vs 47, and so on.)
+- Matchups are determined by this formula: `65 - seed`. (This means that seed 17 faces seed 48, 18 vs. 47, and so on.)
 - The mappool size is determined as follows: 4 rice-based, 2 LN-based, 3 hybrids, 1 tiebreaker.
 - Winners from the playoffs take the final 16 slots in the bracket stage. The losers are eliminated.
 
@@ -488,10 +488,10 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 - Players are seeded into a double-elimination bracket. They comprise of the top 16 from the Qualifiers and the winners from the playoffs to top up the remaining 16 slots.
 - Mappool sizes and best-of format for each round are given as follows:
-  - Round of 32 (best-of-7) - 4 rice-based, 2 LN-based, 3 hybrids, 1 tiebreaker.
-  - Round of 16 (best-of-9) - 5 rice-based, 3 LN-based, 3 hybrids, 1 tiebreaker.
-  - Quarterfinals and Semifinals (best-of-11)- 6 rice-based, 4 LN-based, 3 hybrids, 1 tiebreaker.
-  - Finals and Grand Finals (best-of-13) - 7 rice-based, 5 LN-based, 3 hybrids, 1 tiebreaker.
+  - Round of 32 (best of 7): 4 rice-based, 2 LN-based, 3 hybrids, 1 tiebreaker.
+  - Round of 16 (best of 9): 5 rice-based, 3 LN-based, 3 hybrids, 1 tiebreaker.
+  - Quarterfinals and Semifinals (best of 11): 6 rice-based, 4 LN-based, 3 hybrids, 1 tiebreaker.
+  - Finals and Grand Finals (best of 13): 7 rice-based, 5 LN-based, 3 hybrids, 1 tiebreaker.
 
 ### Match rules
 
