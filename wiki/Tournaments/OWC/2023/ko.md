@@ -126,6 +126,12 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 경기 일정 : 16강
 
+### 2023년 11월 3일 금요일
+
+| Team A | Team B | 매치 시간 | 트위치 생방송 |
+| --: | :-- | :-- | :-: |
+| 필리핀 ::{ flag=PH }:: | ::{ flag=RO }:: 루마니아 | [Nov 3 (Fri) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231103T140000&p1=1440&p2=145&p3=49) | [osulive](https://twitch.tv/osulive) |
+
 ### 2023년 11월 4일 토요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |
