@@ -1,6 +1,6 @@
 # GitHub 桌面客户端
 
-*这篇文章是[父页面](/wiki/osu!_wiki/Contribution_guide)内容的后续*，并假设你要使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使你在本地工作，你仍然需要访问 GitHub 来开 Pull Requests，使你的修改生效。
+*此文章是[这篇主文章](/wiki/osu!_wiki/Contribution_guide)内容的后续*，并假设你要使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使你在本地工作，你仍然需要访问 GitHub 来提出拉取请求 (Pull Requests)，并应用你的修改。
 
 ## 安装 GitHub Desktop
 
@@ -11,7 +11,7 @@
 
 ## 克隆
 
-1. 点击 `Clone a repository`。
+1. 点击 `克隆仓库 (Clone a repository)`。
 
 2. 这里会列出你的仓库；选择 `osu-wiki` 仓库。
 
@@ -19,7 +19,7 @@
 
    ![](img/github-desktop-select-repo.jpg)
 
-4. 点击 `Clone`。耐心等待一会儿，克隆时间取决于你的网络状况。
+4. 点击 `克隆 (Clone)`。耐心等待一会儿，克隆时间取决于你的网络状况。
 
 5. 下一步：[创建分支](#创建分支)。
 
@@ -30,7 +30,7 @@
 - 分支会将逻辑上不同的更改隔离开来：你可以同时处理多篇文章，它们可以分开接受审查与合并。
 - 当你的更改不在 `master` 分支上时，你可以[安全进行同步](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))，不会出现合并冲突。
 
-1. 点击菜单顶部的 `Current branch` 下拉菜单。
+1. 点击菜单顶部的 `当前分支 (Current branch)` 下拉菜单。
 
 2. 输入分支名，建议使用你所做更改的概要信息。比如，如果你在编辑 `Forums` 文章，分支名就可以取作 `update-forums`。
 
@@ -82,11 +82,11 @@
 
    ![](img/github-desktop-first-commit.jpg "首次提交")
 
-7. 点击蓝色的 `Commit to` 按钮。提交成功后，如果你还有其他要提交的文件，回到第 4 步。
+7. 点击蓝色的 `提交到... (Commit to)` 按钮。提交成功后，如果你还有其他要提交的文件，回到第 4 步。
 
    ![](img/github-desktop-second-commit.jpg "第二次提交")
 
-8. 完成提交后，点击最上面的 `Publish branch` 按钮。
+8. 完成提交后，点击最上面的 `发布分支 (Publish branch)` 按钮。
 
    ![](img/github-desktop-push.jpg)
 
