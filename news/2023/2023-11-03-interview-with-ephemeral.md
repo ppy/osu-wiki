@@ -83,7 +83,7 @@ I can't test this on my account, because the one time I did - you scraped it imm
 
 Yeah, I think so.
 
-**How was medal Aeon thought of?**
+**How was Aeon (Hush-Hush Medal) thought of?**
 
 Aeon was inspired by one of my favorite songs, which is also the first beatmap I ever submitted.
 
