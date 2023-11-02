@@ -37,9 +37,9 @@ tags:
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, ¥150 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, ¥150 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, ¥120 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫 bot 缎带，¥150 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫 bot 缎带，¥150 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫 bot 缎带，¥120 |
 | *殿军* | ¥90 |
 | *第 5-6 名* | ¥75 |
 | *第 7-8 名* | ¥60 |
@@ -49,35 +49,35 @@ tags:
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |
-| *冠军* | ¥200 CNY |
-| *亚军* | ¥150 CNY |
-| *季军* | ¥100 CNY |
-| *第 7-8 名* | ¥75 CNY |
-| *第 9-24 名* | ¥50 CNY |
-| *其他所有入选的选手* | ¥20 CNY |
+| *冠军* | ¥200 |
+| *亚军* | ¥150 |
+| *季军* | ¥100 |
+| *第 7-8 名* | ¥75 |
+| *第 9-24 名* | ¥50 |
+| *其他所有入选的选手* | ¥20 |
 
 ### Discord 赛区
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | Profile badge, ¥150 CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥150 CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | ¥120 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，¥150 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥150 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | ¥120 |
 | *殿军* | ¥90 |
 | *第 5-6 名* | ¥75 |
 | *第 7-8 名* | ¥60 |
 | *第 9-12 名* | ¥45 |
 | *第 13-16 名* | ¥30 |
-| *每场常规赛比赛胜利* | 6$ |
+| *每场常规赛比赛胜利* | $6 |
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |
-| *冠军* | 16$ |
-| *亚军* | 13$ |
-| *季军* | 10$ |
-| *第 4-8 名* | 8$ |
-| *第 9-16 名* | 6$ |
-| *其他所有入选的选手* | 2$ |
+| *冠军* | $16 |
+| *亚军* | $13 |
+| *季军* | $10 |
+| *第 4-8 名* | $8 |
+| *第 9-16 名* | $6 |
+| *其他所有入选的选手* | $2 |
 
 ## 组织
 

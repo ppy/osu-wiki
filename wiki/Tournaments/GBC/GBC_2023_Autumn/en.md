@@ -68,20 +68,20 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *7–8th place* | ¥60 CNY |
 | *9–12th place* | ¥45 CNY |
 | *13–16st place* | ¥30 CNY |
-| Every Winning Match in Regular Stage | 6$ |
+| Every Winning Match in Regular Stage | $6 |
 
 | Qualifier Placing | Prizes |
 | :-: | :-- |
-| *1st place* | 16$ |
-| *2nd place* | 13$ |
-| *3rd place* | 10$ |
-| *4-8th place* | 8$ |
-| *9–16th place* | 6$ |
-| *All the other qualified players* | 2$ |
+| *1st place* | $16 |
+| *2nd place* | $13 |
+| *3rd place* | $10 |
+| *4-8th place* | $8 |
+| *9–16th place* | $6 |
+| *All the other qualified players* | $2 |
 
 ## Organisation
 
-The GB Cup 2022 Autumn was run by the Team GB and various community members.
+The GB Cup 2023 Autumn was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
