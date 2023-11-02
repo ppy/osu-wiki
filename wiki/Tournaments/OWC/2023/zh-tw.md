@@ -131,26 +131,26 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | A 隊 | B 隊 | 比賽時間 | 直播 |
 | --: | :-- | :-- | :-: |
 | 泰國 ::{ flag=TH }:: | ::{ flag=NZ }:: 紐西蘭 | [11 月 4 日 (六) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T100000&p1=1440&p2=28&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 哈薩克 ::{ flag=KZ }:: | ::{ flag=JP }:: 日本 | [11 月 4 日 (六) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T110000&p1=1440&p3=248) | [osulive](https://twitch.tv/osulive) |
-| 土耳其 ::{ flag=TR }:: | ::{ flag=ID }:: 印尼 | [11 月 4 日 (六) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T120000&p1=1440&p2=19&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 臺灣 ::{ flag=TW }:: | ::{ flag=SE }:: 瑞典 | [11 月 4 日 (六) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T130000&p1=1440&p2=241&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 荷蘭 ::{ flag=NL }:: | ::{ flag=FI }:: 芬蘭 | [11 月 4 日 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T140000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
+| 韓國 ::{ flag=KR }:: | ::{ flag=CN }:: 中國 | [11 月 4 日 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T140000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) |
 | 西班牙 ::{ flag=ES }:: | ::{ flag=NO }:: 挪威 | [11 月 4 日 (六) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T150000&p1=1440&p2=141&p3=187) | [osulive](https://twitch.tv/osulive) |
+| 荷蘭 ::{ flag=NL }:: | ::{ flag=FI }:: 芬蘭 | [11 月 4 日 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T170000&p1=1440&p2=16&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
 | 阿根廷 ::{ flag=AR }:: | ::{ flag=FR }:: 法國 | [11 月 4 日 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T170000&p1=1440&p2=51&p3=195) | [osulive](https://twitch.tv/osulive) |
-| 美國 ::{ flag=US }:: | ::{ flag=IT }:: 義大利 | [11 月 4 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T180000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) |
+| 德國 ::{ flag=DE }:: | ::{ flag=CA }:: 加拿大 | [11 月 4 日 (六) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T180000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) |
 
 ### 2023 年 11 月 5 日, 星期日
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |
 | --: | :-- | :-- | :-: |
-| 澳洲 ::{ flag=AU }:: | ::{ flag=CL }:: 智利 | [11 月 5 日 (日) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T030000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) |
 | 墨西哥 ::{ flag=MX }:: | ::{ flag=SG }:: 新加坡 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 韓國 ::{ flag=KR }:: | ::{ flag=CN }:: 中國 | [11 月 5 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T100000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) |
+| 澳洲 ::{ flag=AU }:: | ::{ flag=CL }:: 智利 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive_2](https://twitch.tv/osulive_2) |
+| 土耳其 ::{ flag=TR }:: | ::{ flag=ID }:: 印尼 | [11 月 5 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 俄羅斯 ::{ flag=RU }:: | ::{ flag=HK }:: 香港 | [11 月 5 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
+| 哈薩克 ::{ flag=KZ }:: | ::{ flag=JP }:: 日本 | [11 月 5 日 (日) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
 | 菲律賓 ::{ flag=PH }:: | ::{ flag=RO }:: 羅馬尼亞 | [11 月 5 日 (日) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p2=145&p3=49) | [osulive](https://twitch.tv/osulive) |
 | 英國 ::{ flag=GB }:: | ::{ flag=UA }:: 烏克蘭 | [11 月 5 日 (日) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T150000&p1=1440&p2=136&p3=367) | [osulive](https://twitch.tv/osulive) |
-| 波蘭 ::{ flag=PL }:: | ::{ flag=BR }:: 巴西 | [11 月 5 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T160000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
-| 德國 ::{ flag=DE }:: | ::{ flag=CA }:: 加拿大 | [11 月 5 日 (日) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 美國 ::{ flag=US }:: | ::{ flag=IT }:: 義大利 | [11 月 5 日 (日) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) |
+| 波蘭 ::{ flag=PL }:: | ::{ flag=BR }:: 巴西 | [11 月 5 日 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T190000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
 
 ## 圖池
 
