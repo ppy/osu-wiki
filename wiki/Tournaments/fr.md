@@ -156,7 +156,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Corgi Cup: June 2016](CC/1) | 02/06/2016 | 19/06/2016 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }::  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: June 2016](CC/1) | 02/06/2016 | 19/06/2016 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 | [Corgi Cup: September 2016](CC/2) | 05/08/2016 | 11/09/2016 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | [Corgi Cup III: April 2017](CC/3) | 03/03/2017 | 30/04/2017 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 | [Corgi Cup IV: September 2017](CC/4) | 18/08/2017 | 29/10/2017 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |

@@ -36,6 +36,8 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 for each team member |
 | *4th-8th place* | 1 month of osu!supporter for each team member |
 
+![](img/badge.jpg "4DM4 winner badge")
+
 ## Staff
 
 The 4 Digit osu!mania World Cup 4 was run by various community members.
@@ -386,7 +388,7 @@ Sunday, 16 January 2022:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1ahkEH9dOcpeAWHYfpUOKo_0AjD_aIOYzmsa8fKfGBAs/edit?rm=minimal)
-- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of maps played in the mappool`
+- Average rank was determined by `Σ(position earned when playing the Qualifiers mappool) / amount of maps played in the mappool`
 - Ties in average rank were broken by total scores
 - Only the top 32 teams proceeded to the brackets
 
