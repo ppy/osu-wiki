@@ -20,7 +20,7 @@ The **osu!mania Apprentice-level 7K Tournament** (***MALT***) was a 1v1 country-
 | Playoffs | 2023-09-02/2023-09-03 |
 | Round of 32 | 2023-09-09/2023-09-10 |
 | Round of 16 | 2023-09-16/2023-09-17 |
-| Quarterfinals |  2023-09-23/2023-09-24 |
+| Quarterfinals | 2023-09-23/2023-09-24 |
 | Semifinals | 2023-09-30/2023-10-01 |
 | Finals | 2023-10-07/2023-10-08 |
 | Grand Finals | 2023-10-14/2023-10-15 |
