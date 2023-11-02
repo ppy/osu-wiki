@@ -126,6 +126,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ## Match schedule: Round of 16
 
+### Friday, 3 November 2023
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Philippines ::{ flag=PH }:: | ::{ flag=RO }:: Romania | [Nov 3 (Fri) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231103T140000&p1=1440&p2=145&p3=49) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 4 November 2023
 
 | Team A | Team B | Match time | Twitch stream |
