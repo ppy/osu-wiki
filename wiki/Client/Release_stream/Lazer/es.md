@@ -11,7 +11,7 @@ tags:
   - cliente de juego
 ---
 
-# Lanzamiento de lazer
+# Canal de lanzamiento lazer
 
 *Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
 *Para obtener una lista de cambios en las mecánicas del juego, véase: [Diferencias de jugabilidad en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
@@ -37,7 +37,7 @@ El proyecto comenzó a mediados de 2015[^peppy-2017] como un nuevo diseño para 
 
 Las versiones preliminares se subieron en el [blog de diseño](https://osunext.tumblr.com/) de flyte a partir de 2016.
 
-La implementación del diseño y las nuevas características planificadas utilizando el código base de estable resultó ser difícil o incluso casi imposible debido a la carga técnica. Como tal, se comenzó a trabajar en una reescritura completa del cliente a principios de 2016 y se publicó un primer lanzamiento en GitHub el 12 de febrero de 2017, que contenía una implementación mínima del juego del modo de juego osu! y los nuevos diseños de menú.
+La implementación del diseño y las nuevas características planificadas utilizando el código base de stable resultó ser difícil o incluso casi imposible debido a la deuda técnica. Como tal, se comenzó a trabajar en una reescritura completa del cliente a principios de 2016 y se publicó un primer lanzamiento en GitHub el 12 de febrero de 2017, que contenía una implementación mínima del juego del modo de juego osu! y los nuevos diseños de menú.
 
 Un framework para el juego se mantiene simultáneamente como un proyecto separado, el [osu!framework](https://github.com/ppy/osu-framework), que incluye componentes e infraestructura generales de nivel inferior que pueden ser útiles en otros juegos o aplicaciones.
 
