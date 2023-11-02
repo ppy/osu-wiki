@@ -6,11 +6,11 @@ tags:
 
 # Hype
 
-Jede [ausstehende](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) [Beatmap](/wiki/Beatmap) hat einen **Hype-Train**, der grob zeigt, wie viele Spieler am [Ranking](/wiki/Beatmap/Category#ranked) der Beatmap interessiert sind. Nutzer können spezielle [Beatmapdiskussionen](/wiki/Beatmap_discussion) im Tab `Generell (alle Schwierigkeitsstufen)` erstellen und die Option `Hype!` verwenden, um zum Hype-Train beizutragen.
+Jede [ausstehende](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) [Beatmap](/wiki/Beatmap) hat einen **Hype-Train**, der grob zeigt, wie viele Spieler daran interessiert sind, dass die Beatmap [gerankt](/wiki/Beatmap/Category#ranked) wird. Nutzer können spezielle [Beatmap-Diskussionen](/wiki/Beatmap_discussion) im Tab `Generell (alle Schwierigkeitsstufen)` erstellen und die Option `Hype!` verwenden, um zum Hype-Train beizutragen.
 
 ## Ranking-Voraussetzung
 
-Beatmaps müssen mindestens 5 Hypes (eine ganze Leiste an Hype-Train) sammeln, um für eine [Nominierung](/wiki/Beatmap_ranking_procedure#nominations) infrage zu kommen.
+Beatmaps benötigen mindestens 5 Hypes (eine vollständige Leiste des Hype-Trains), um für eine [Nominierung](/wiki/Beatmap_ranking_procedure#nominations) infrage zu kommen.
 
 ## Limit
 
