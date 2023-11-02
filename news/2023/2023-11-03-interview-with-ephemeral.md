@@ -31,7 +31,7 @@ So I think at that point I started getting them in order, and once we had them a
 
 **What are your thoughts on the current state of medals?**
 
-Overall I think the past couple of releases, the last release in particular came out fantastic, I'm very happy with it. 
+Overall I think the past couple of releases, the [the last release](https://osu.ppy.sh/home/news/2023-07-27-summer-splash) in particular came out fantastic, I'm very happy with it. 
 I think they are getting better, but I think with operating at like maybe 20% of what medals will ultimately end up being when they're fully finished being implemented in lazer, because it is very limited what we can do with them at the moment. And lazer will pull back a lot of those limitations and criteria that realistically would not be possible in stable.
 
 **How do you come up with ideas for new medals?**
@@ -45,7 +45,7 @@ We've planned to add multiplayer medals for a long time, and I have so many idea
 **Are there any rejected medal ideas that you're willing to share?**
 
 Skylord almost ended up there actually, which some people probably might suggest that it should still be there, you know, because it's really-really hard. 
-There also was a beatmap pack medal that was meant to be for Porter beatmap pack, but I don't recall if we signed Porter. I think we almost had Porter aboard as a Featured Artist, because he was in the same label that features Virtual Self. But I think it fell through and we haven't really pursued it since.
+There also was a beatmap pack medal that was meant to be for Porter beatmap pack, but I don't recall if we [signed](/wiki/People/Featured_Artists#selection) [Porter Robinson](https://en.wikipedia.org/wiki/Porter_Robinson). I think we almost had Porter aboard as a Featured Artist, but I think it fell through and we haven't really pursued it since.
 
 **What's your favourite medal?**
 
@@ -58,10 +58,6 @@ Yep, absolutely. Once we get people willing to tutor us on the maps that would b
 **Any updates on the next batch of medals?**
 
 There may still be some coming out before the end of the year, maybe. They have not been made yet, but we would like to and it would be a big pack if it were to release and if it does not release this year it'll be early next year. And when I say big pack, I mean like all four modes. Really want to start getting all the modes in on it.
-
-**Any more HalfTime medals?**
-
-I figured people were tired of those after Aeon, so we haven't really thought about any since.
 
 **Any more plans for Loved map required medals?**
 
@@ -81,17 +77,13 @@ If I can put a meme medal in that makes sense, I will at any given opportunity. 
 
 **Why can't you test medals?**
 
-I can't test this shit on my account, because the one time I did - you fuckers scraped it immediately, so I can't do that.
-
-**Which medal is worth the most internal score?**
-
-`Skylord`, `Beast Mode`, `Is This Real Life?` and `Final Boss` are all 1,000.
+I can't test this on my account, because the one time I did - you scraped it immediately, so I can't do that.
 
 **Do you think we could do something like an entire playerbase medal, like hit a billion notes in December?**
 
 Yeah, I think so.
 
-**How was Aeon thought of?**
+**How was medal Aeon thought of?**
 
 Aeon was inspired by one of my favorite songs, which is also the first beatmap I ever submitted.
 
