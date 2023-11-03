@@ -273,7 +273,7 @@ Las categorías en el panel de clasificación son las siguientes:
 
 | Categoría | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `General` | Tu posición en la tabla de clasificación del mapa. Ten en cuenta que las puntuaciones con [mods](/wiki/Gameplay/Game_modifier) también aparecen en esta misma tabla de clasificación. | Tu [clasificación global](/wiki/Ranking#performance-points-ranking) contra todos en el mundo. |
+| `General` | Tu posición en la tabla de clasificación del mapa. Ten en cuenta que las puntuaciones con [mods](/wiki/Gameplay/Game_modifier) también aparecen en esta misma tabla de clasificación. | Tu [clasificación global](/wiki/Ranking#clasificación-por-puntos-de-rendimiento) contra todos en el mundo. |
 | [`Precisión`](/wiki/Gameplay/Accuracy) | Con qué precisión jugaste el beatmap. Esto solo se cuenta cuando superas tu puntuación anterior. | Un promedio ponderado de la precisión de tus mejores puntuaciones. |
 | `Max Combo` | El combo más largo en el mapa que jugaste. | El combo más largo de todos los beatmaps que hayas jugado. |
 | [`Puntuación rankeada`](/wiki/Gameplay/Score/Ranked_score) | Tu [mejor resultado](/wiki/Gameplay/Score/Ranked_score) en el beatmap. | La cantidad de puntos obtenidos de todos los beatmaps clasificados que hayas jugado alguna vez, contando cada mapa exactamente una vez. |
