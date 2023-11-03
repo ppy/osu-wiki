@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Interview with Ephemeral"
+title: "The Followpoint: Ephemeral, The Man Behind The Medals"
 date: 2023-11-03 00:00:00 +0000
 ---
 
 Come join us to delve into the science and magnets behind medals with Ephemeral, osu!'s strongest seagull!
 
-![](meow)
+![](/wiki/shared/news/2023-11-03-the-followpoint-ephemeral-the-man-behind-the-medals/banner.jpg)
+
+Welcome to **The Followpoint**, a brand new series of interview-style newsposts (and podcasts), with a different guest each release! This time around we were joined by [Ephemeral](https://osu.ppy.sh/users/102335), the swole seagull who is in charge of all the magic behind medals!
 
 Ephemeral, joining the game in August 2009, has taken an active part in the development of osu!, hitting a large amount of milestones in the game. He has made one of the game's most popular beatmaps, acted as a key role in the development of the Mapping Assistance Team (MAT), and even developed many key features in the game that are still used today! Presently, he has a role of a Community Manager. A few medal hunters decided to organize an interview, which anyone could attend to ask any and all questions their souls had, as well as learn more about this well-accomplished community member.
 
-On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with [Ephemeral](https://osu.ppy.sh/users/102335), and this newspost will highlight some of the best questions that were asked here! If you wish to view the recording of the full event, you may do so [here](https://youtu.be/OHWbFpPoTJI) (**This video reveals solutions to multiple medals. If you want to search for their solutions yourself, you may want to hold off on watching the video for now.**).
+On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with Ephemeral, and this newspost will highlight some of the best questions that were asked here! If you wish to view the recording of the full event, you may do so [here](https://youtu.be/OHWbFpPoTJI) (**This video reveals solutions to multiple medals. If you want to search for their solutions yourself, you may want to hold off on watching the video for now.**).
 
 And so, without further hesitation, let's dive right into it, starting up with a small introduction:
 
