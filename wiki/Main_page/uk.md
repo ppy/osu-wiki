@@ -1,8 +1,5 @@
 ---
-no_native_review: true
 layout: main_page
-outdated_translation: true
-outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -20,7 +17,7 @@ outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 
 [Правила](/wiki/Rules) • [Встановлення](/wiki/Client/Installation) • [Реєстрація](/wiki/Registration) • [Центр Допомоги](/wiki/Help_centre)
 
-[Консоль чату](/wiki/Client/Interface/Chat_console) • [БанчоБот](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Гайди](/wiki/Guides) • [Глосарій](/wiki/Sitemap)
+[Консоль чату](/wiki/Client/Interface/Chat_console) • [БанчоБот](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Керівництва](/wiki/Guides) • [Глосарій](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -79,7 +76,7 @@ outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 
 Регуляції медіа: [Рекомендації використання вмісту](/wiki/Rules/Content_usage_guidelines) • [Процес голосування за вміст](/wiki/Rules/Content_voting_process) • [Відвертий вміст](/wiki/Rules/Explicit_content) • [Правила вмісту пісень](/wiki/Rules/Song_content_rules) • [Міркування щодо візуального вмісту](/wiki/Rules/Visual_content_considerations)
 
-[Легальні сторінки](/wiki/Legal): [Правила використання](/wiki/Legal/Terms) • [Приватність](/wiki/Legal/Privacy) • [Авторське право (DMCA)](/wiki/Legal/Copyright) • [Ліцензування музики](/wiki/Legal/Music_licensing)
+[Юридичні сторінки](/wiki/Legal): [Правила використання](/wiki/Legal/Terms) • [Приватність](/wiki/Legal/Privacy) • [Авторське право (DMCA)](/wiki/Legal/Copyright) • [Ліцензування музики](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -88,7 +85,7 @@ outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 
 Відповіді на часті запитання і вирішення загальновідомих проблем можна знайти тут.
 
-[Центр допомоги](/wiki/Help_centre) • [Вирішення проблем з продуктивністю гри](/wiki/Performance_troubleshooting) • [Команда підтримки акаунту](/wiki/People/Account_support_team) • [Форум допомги](https://osu.ppy.sh/forum/5)
+[Центр допомоги](/wiki/Help_centre) • [Вирішення проблем з продуктивністю гри](/wiki/Performance_troubleshooting) • [Команда підтримки акаунтів](/wiki/People/Account_support_team) • [Форум допомоги](https://osu.ppy.sh/forum/5)
 
 Обмеження профілю: [Заглушення](/wiki/Silence) • [Обмеження акаунту](/wiki/Help_centre/Account_restrictions)
 
@@ -114,11 +111,11 @@ outdated_since: 889c43d4d7c9c7183038cbbf59736ca729ee07e1
 
 # [Люди](/wiki/People)
 
-osu! не існувала би без допомоги великої кількості користувачів, які займаються розробкою, підтримкою і менеджментом спільноти: їх зусилля, час та відданість, роблять гру живою та процвітаючою.
+osu! не існувала би без допомоги великої кількості користувачів, які допомагають з розробкою, підтримкою і менеджментом спільноти: їх зусилля, час та відданість, роблять гру живою та процвітаючою.
 
-[Команда osu!](/wiki/People/osu!_team): [Розробники](/wiki/People/Developers) • [Команда Глобальних Модераторів](/wiki/People/Global_Moderation_Team) • [Команда Підтримки](/wiki/People/Support_Team) • [Команда Оцінки Номінацій](/wiki/People/Nomination_Assessment_Team) • [Бітмап Номінатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Проекту "Улюблені"](/wiki/People/Project_Loved_Team) • [Куратори Демонстрації Бітмап](/wiki/People/Beatmap_Spotlight_Curators)
+[Команда osu!](/wiki/People/osu!_team): [Розробники](/wiki/People/Developers) • [Рекомендовані Виконавці](/wiki/People/Featured_Artists) • [Команда Глобальних Модераторів](/wiki/People/Global_Moderation_Team) • [Команда Підтримки](/wiki/People/Support_Team) • [Команда Оцінки Номінацій](/wiki/People/Nomination_Assessment_Team) • [Бітмап Номінатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Проекту "Улюблені"](/wiki/People/Project_Loved_Team) • [Куратори Демонстрації Бітмап](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Група користувачів](/wiki/People/User_group) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
+[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Єлітні Номінатори](/wiki/People/Elite_Nominators) • [Група користувачів](/wiki/People/User_group) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Центуріони](/wiki/People/Centurions) • [Завершальники](/wiki/People/Completionists) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -127,18 +124,18 @@ osu! не існувала би без допомоги великої кіль�
 
 Взаємодійте з osu! через інші застосунки та медіа, або допомжіть їй зростати далі.
 
-[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації щодо ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Про вікі та мета-сторінки
 
-Майже як і все інше тут, osu! вікі написана і підтримується волонтерами. Порадьте покращення, повідомте про помилку, або навіть напишіть власну статтю на [osu-wiki GitHub репозиторії](https://github.com/ppy/osu-wiki).
+Як і майже все інше тут, osu! вікі написана і підтримується волонтерами. Запропонуйте покращення, повідомте про помилку, або навіть напишіть власну статтю у [osu-wiki GitHub репозиторії](https://github.com/ppy/osu-wiki).
 
-[Історія osu!](/wiki/History_of_osu!) • [Онлайн історія ранкінгу](/wiki/History_of_osu!/Online_rankings) • [Історія osu! вікі](/wiki/History_of_osu!/osu!_wiki) • [Іторія мапінгу і модингу](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Квітневі Дурні](/wiki/History_of_osu!/April_Fools)
+[Історія osu!](/wiki/History_of_osu!) • [Історія онлайн ранкінгу](/wiki/History_of_osu!/Online_rankings) • [Історія osu! вікі](/wiki/History_of_osu!/osu!_wiki) • [Історія мапінгу і модингу](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Квітневі Дурні](/wiki/History_of_osu!/April_Fools)
 
-[Карта сайту](/wiki/Sitemap) • [Гайд по внеску](/wiki/osu!_wiki/Contribution_guide) • [Критерії стилізації статтей](/wiki/Article_styling_criteria) • [Критерії стилізації новин](/wiki/News_styling_criteria)
+[Карта сайту](/wiki/Sitemap) • [Гайд по внескам](/wiki/osu!_wiki/Contribution_guide) • [Критерії стилізації статтей](/wiki/Article_styling_criteria) • [Критерії стилізації новин](/wiki/News_styling_criteria)
 
 </div>
 </div>

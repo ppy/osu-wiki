@@ -550,7 +550,7 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 #### Wiki links
 
-All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
+All links that point to a wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
 
 ```markdown
 [FAQ](/wiki/FAQ)

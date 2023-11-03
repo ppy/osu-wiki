@@ -36,6 +36,8 @@ Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) f
 
 Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen da draußen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
+Es gibt auch eine Unterkategorie namens "Hush-Hush (Expert)". Der Unterschied ist, dass für die dortigen Medaillen keine [speziellen](/wiki/Gameplay/Game_modifier#sonstige) Mods oder Mods, die die [Schwierigkeit reduzieren](/wiki/Gameplay/Game_modifier#einfacher), aktiviert sein dürfen.
+
 ## Beatmap Spotlights
 
 **Beatmap Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [monatlichen Beatmap-Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeinem der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der Beatmap-Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:

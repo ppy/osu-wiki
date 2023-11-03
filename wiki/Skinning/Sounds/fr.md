@@ -1,11 +1,10 @@
 ---
-outdated_since: 7f11c0debbe18e861931071cd38678a1ff0118e9
-outdated_translation: true
+no_native_review: true
 ---
 
 # Skinning des sons
 
-`.wav`, `.mp3`, et/ou `.ogg` sont des formats valides pour les sons.
+Les formats `.wav`, `.mp3`, et/ou `.ogg` sont valables pour les sons.
 
 ## Interface
 
@@ -13,39 +12,39 @@ outdated_translation: true
 
 `heartbeat.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe sur l'osu!cookie dans le menu principal.
+- Ce son est joué lorsque la souris se trouve sur le osu!cookie dans le menu principal.
 
 ---
 
 `seeya.wav`
 
-- Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
-- Ce son est joué lors de la fermeture du client d'osu!
-- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
+- Le tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour modifier.
+- Ce son est joué lors de la fermeture du client osu!.
+- Cela peut être désactivé dans les [options](/wiki/Client/Options).
 
 ---
 
 `welcome.wav`
 
-- Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
-- Ce son est joué au démarrage du client d'osu!.
-- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
+- Le tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour modifier.
+- Ce son est joué lors de l'ouverture du client osu!.
+- Cela peut être désactivé dans les [options](/wiki/Client/Options).
 
 ### Touches
 
 `key-confirm.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lors de l'envoi d'un message dans le tchat.
 
 ---
-    
+
 `key-delete.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lors de la suppression du texte d'un message dans le tchat.
 
@@ -53,15 +52,15 @@ Notes :
 
 `key-movement.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lors du changement de position du curseur de texte.
+- Ce son est joué lors du changement de position du curseur lors de la saisie de texte.
 
 ---
 
 `key-press-1.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'on appuie sur une touche pour le tchat, la recherche, l'édition, etc.
 
@@ -69,7 +68,7 @@ Notes :
 
 `key-press-2.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'on appuie sur une touche pour le tchat, la recherche, l'édition, etc.
 
@@ -77,7 +76,7 @@ Notes :
 
 `key-press-3.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'on appuie sur une touche pour le tchat, la recherche, l'édition, etc.
 
@@ -85,7 +84,7 @@ Notes :
 
 `key-press-4.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'on appuie sur une touche pour le tchat, la recherche, l'édition, etc.
 
@@ -93,7 +92,7 @@ Notes :
 
 `back-button-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur le bouton retour.
 
@@ -101,7 +100,7 @@ Notes :
 
 `check-on.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lors de l'activation d'une case à cocher ou de l'activation d'un mod.
 
@@ -109,7 +108,7 @@ Notes :
 
 `check-off.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lors de la désactivation d'une case à cocher ou de la désactivation d'un mod.
 
@@ -117,23 +116,23 @@ Notes :
 
 `click-close.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lors de la fermeture d'un onglet de tchat.
+- Ce son est joué lors de la fermeture d'un onglet sur un tchat.
 
 ---
 
 `click-short-confirm.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque vous cliquez pour confirmer un bouton ou une option de la liste déroulante, lorsque vous ouvrez ou fermez le tchat, lorsque vous passez d'un onglet de tchat à un autre ou lorsque vous changez de groupe.
+- Ce son est joué lorsque l'on clique pour confirmer un bouton ou une option de la liste déroulante, que l'on ouvre ou ferme un tchat, que l'on passe d'un onglet sur un tchat à l'autre ou que l'on change de groupe.
 
 ---
 
 `menuback.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `menu-back` ou que l'on revient à l'écran précédent.
 
@@ -141,7 +140,7 @@ Notes :
 
 `menuhit.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lors de la confirmation d'une sélection qui change d'écran.
 
@@ -149,31 +148,23 @@ Notes :
 
 `menu-back-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Back` dans le menu principal.
 
 ---
 
-`menu-charts-click.wav`
-
-Notes :
-
-- Ce son est joué lorsque l'on clique sur `Charts` dans le menu principal.
-
----
-
 `menu-direct-click.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorque l'on clique sur `osu!direct` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `osu!direct` dans le menu principal.
 
 ---
 
 `menu-edit-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Edit` dans le menu principal.
 
@@ -181,7 +172,7 @@ Notes :
 
 `menu-exit-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Exit` dans le menu principal.
 
@@ -189,7 +180,7 @@ Notes :
 
 `menu-freeplay-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Solo` dans le menu principal.
 
@@ -197,7 +188,7 @@ Notes :
 
 `menu-multiplayer-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Multiplayer` dans le menu principal.
 
@@ -205,15 +196,15 @@ Notes :
 
 `menu-options-click.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué en lorsque l'on clique sur `Options` dans le menu principal.
+- Ce son est joué lorsque l'on clique sur `Options` dans le menu principal.
 
 ---
 
 `menu-play-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Play` dans le menu principal.
 
@@ -221,7 +212,7 @@ Notes :
 
 `pause-back-click.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque l'on clique sur `Back to Menu` dans le menu de pause.
 
@@ -229,137 +220,129 @@ Notes :
 
 `pause-continue-click.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque l'on clique sur `Continue` dans le menu pause.
+- Ce son est joué lorsque l'on clique sur `Continue` dans le menu de pause.
 
 ---
 
 `pause-retry-click.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque l'on clique sur `Retry` dans le menu pause.
+- Ce son est joué lorsque l'on clique sur `Retry` dans le menu de pause.
 
 ---
 
 `select-expand.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lors de la sélection d'une musique, de la sélection d'une beatmap, de l'ouverture de listes déroulantes, de l'ouverture d'onglets de tchat.
+- Ce son est joué lors du passage à la sélection d'une musique, de la sélection d'une beatmap, de l'ouverture de boîtes déroulantes, de l'ouverture d'onglets sur un tchat.
 
 ---
 
 `select-difficulty.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lors de la sélection de la difficulté d'une beatmap.
+- Ce son est joué lors de la sélection d'une difficulté sur une beatmap.
 
 ---
 
 `shutter.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué quand une capture d'écran est prise.
+- Ce son est joué lorsqu'une capture d'écran est prise.
 
 ### Survol
 
 `back-button-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton de retour.
+- Ce son est joué lorsque le curseur survole le bouton Back.
 
 ---
 
 `click-short.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus de toutes les cases sélectionnables, à l'exception des beatmaps ou des boutons de l'écran principal.
+- Ce son est joué lorsque le curseur survole toutes les cases sélectionnables, à l'exception des beatmaps et des boutons de l'écran principal.
 
 ---
 
 `menuclick.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus survole des difficultés.
+- Ce son est joué lorsque l'on survole les difficultés.
 
 ---
 
 `menu-back-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Back dans le menu principal.
-
----
-
-`menu-charts-hover.wav`
-
-Notes :
-
-- Ce son est joué lorsque le curseur passe au-dessus des graphiques dans le menu principal.
+- Ce son est joué lorsque l'on survole le bouton Back dans le menu principal.
 
 ---
 
 `menu-direct-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Direct dans le menu principal.
+- Ce son est joué lorsqu'on l'on survole le bouton Direct dans le menu principal.
 
 ---
 
 `menu-edit-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Edit dans le menu principal.
+- Ce son est joué lorsque l'on survole le bouton Edit dans le menu principal.
 
 ---
 
 `menu-exit-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Exit dans le menu principal.
+- Ce son est joué lorsque l'on survole le bouton Exit dans le menu principal.
 
 ---
 
 `menu-freeplay-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Solo dans le menu principal.
+- Ce son est joué lorsqu'on l'on survole le bouton Solo dans le menu principal.
 
 ---
 
 `menu-multiplayer-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Multiplayer dans le menu principal.
+- Ce son est joué lorsque l'on survole le bouton Multiplayer dans le menu principal.
 
 ---
 
 `menu-options-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Options dans le menu principal.
+- Ce son est joué lorsque l'on survole le bouton Options dans le menu principal.
 
 ---
 
 `menu-play-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Play dans le menu principal.
+- Ce son est émis lorsqu'on l'on survole le bouton Play dans le menu principal.
 
 ---
 
@@ -369,55 +352,55 @@ Notes :
 
 `pause-back-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Back dans le menu pause.
+- Ce son est joué lorsque l'on survole le bouton Back to Menu dans le menu de pause.
 
 ---
 
 `pause-continue-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Continue dans le menu pause.
+- Ce son est joué lorsque l'on survole le bouton Continue dans le menu de pause.
 
 ---
 
 `pause-retry-hover.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le curseur passe au-dessus du bouton Retry dans le menu pause.
+- Ce son est joué lorsque l'on survole le bouton Retry dans le menu pause.
 
-### Glissement
+### Glisser
 
 `sliderbar.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lors du changement d'options via un slider.
+- Ce son est joué lors de la modification d'une option par le biais d'un curseur.
 
 ---
 
 `whoosh.wav`
 
-Notes :
+Remarques :
 
-- Pour l'instant, cette fonction est désactivée.
+- Pour le moment, cette fonction est désactivée.
 
 ### Multi
 
 `match-confirm.wav`
 
-Notes :
+Remarques :
 
-- Ce son joué lorsque tous les joueurs sont prêts.
+- Ce son est joué lorsque tous les joueurs sont prêts.
 
 ---
 
 `match-join.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'un joueur rejoint une salle.
 
@@ -425,7 +408,7 @@ Notes :
 
 `match-leave.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'un joueur quitte une salle.
 
@@ -433,7 +416,7 @@ Notes :
 
 `match-notready.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'un joueur n'est plus prêt à jouer.
 
@@ -441,7 +424,7 @@ Notes :
 
 `match-ready.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsqu'un joueur est prêt à jouer.
 
@@ -449,32 +432,32 @@ Notes :
 
 `match-start.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque le match commence.
-- Il s'agit également du son des [notifications dans le tchat](/wiki/Client/Interface/Chat_console/Highlight).
+- Il s'agit également du son [de mention dans le tchat](/wiki/Client/Interface/Chat_console/Highlight).
 
 ### Métronome
 
 `metronomelow.wav`
 
-Notes :
+Remarques :
 
-- Dans l'éditeur de beatmaps, ce son est joué pour les petits ticks blancs ; cependant, l'éditeur de beatmaps n'utilise que les sons par défaut.
-- Malgré ce qui précède, cela peut être skinné pour l'assistant de décalage et les bananes en osu!catch (le pitch augmente à chaque banane attrapée).
+- Dans l'éditeur de beatmaps, ce son est joué pour les petits ticks blancs ; cependant, l'éditeur de beatmaps n'utilisera que les sons par défaut.
+- Malgré ce qui précède, il est possible de le skinner pour l'assistant de décalage audio et les bananes en osu!catch (le pitch augmente pour chaque banane attrapée).
 
 ## Gameplay
 
 Les sons de gameplay suivants sont tous skinnables dans les beatmaps.
 
-### Countdown
+### Compte à rebours
 
 `count.wav`
 
-Notes :
+Remarques :
 
 - Cela remplace les sons `count{n}s` (si un seul son est souhaité).
-- C'est également le métronome pour le mod target practice.
+- Il s'agit également du métronome pour le mod target practice.
 
 ---
 
@@ -500,261 +483,261 @@ Notes :
 
 `comboburst.wav`
 
-Notes :
+Remarques :
 
-- Pour des sons multiples, utilisez `comboburst-{n}.wav`.
-- Dans le [skin.ini](/wiki/Skinning/skin.ini), si `CustomComboBurstSounds` est réglé sur `1`, `comboburst-{n}.wav` doit être utilisé.
+- Pour inclure plusieurs sons, utilisez `comboburst-{n}.wav`.
+- Dans le fichier [skin.ini](/wiki/Skinning/skin.ini), si `CustomComboBurstSounds` est réglé sur `1`, `comboburst-{n}.wav` doit être utilisé.
 
 ---
 
 `combobreak.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué lorsque le joueur casse un combo de 20 ou plus.
+- Se son est joué lorsque le joueur interrompt un combo de 20 ou plus.
 
 ---
 
 `failsound.wav`
 
-Notes :
+Remarques :
 
-- Échec d'une beatmap à n'importe quel moment.
-- Ce son ne devrait pas durer plus longtemps que l'animation d'échec (environ 5 secondes).
-- L'utilisation d'un long fichier audio aura un impact sur les performances du client, car elle est chargée à chaque fois que vous jouez une beatmap, même si vous n'échouez jamais. Elle n'est pas censée dépasser quelques kilo-octets.
+- Perdre à une carte à n'importe quel moment.
+- Elle n'est pas destinée à durer plus longtemps que l'animation de miss (environ 5 secondes).
+- L'utilisation d'une longue piste audio aura un impact sur les performances du client, car elle est chargée à chaque fois que vous jouez une beatmap, même si vous n'échouez jamais. Elle n'est pas censée dépasser quelques kilo-octets.
 
 ---
 
 `sectionpass.wav`
 
-Notes :
+Remarques :
 
-- Ce son se joue à mi-chemin d'une pause avec plus de la moitié des HP.
+- A la moitié d'une pause, il reste beaucoup de HP.
 
 ---
 
 `sectionfail.wav`
 
-Notes :
+Remarques :
 
-- Ce son se joue à mi-chemin d'une pause avec moins de la moitié des HP.
+- A la moitié d'une pause, il ne reste que peu de HP.
 
 ### Écrans de jeu
 
 `applause.wav`
 
-Notes :
+Remarques :
 
-- Sur l'écran de résultats après avoir terminé une beatmap
-- Doit être formaté en `.mp3` ou `.ogg` dans les beatmaps visant le classement.
-- L'utilisation d'un fichier audio long aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
+- Sur l'écran de classement après avoir clear une carte.
+- Doit être formaté comme `.mp3` ou `.ogg` dans les beatmaps visant le classement.
+- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne doit pas dépasser quelques kilo-octets.
 
 ---
 
 `pause-loop.wav`
 
-Notes :
+Remarques :
 
 - Ce son est joué lorsque le jeu est en pause.
-- Ce son est joué en boucle.
-- S'arrête si vous cliquez sur une autre fenêtre ou sur le bureau.
-- L'utilisation d'un fichier audio long aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
+- Ce son est mis en boucle.
+- S'éteint lorsque le client n'est plus au premier plan.
+- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne doit pas dépasser quelques kilo-octets.
 
 ### Hitsounds
 
-Le délai d'attente des sons ne devrait pas dépasser 5 millisecondes, à moins qu'ils n'aient un but particulier.
+Les hitsounds ne doivent pas avoir un délai supérieur à 5 millisecondes, sauf s'ils ont une fonction particulière.
 
 #### Drum set
 
 `drum-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
 
 ---
 
 `drum-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
 
 ---
 
 `drum-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
 
 ---
 
 `drum-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
 
 ---
 
 `drum-slidertick.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
 
 ---
 
 `drum-sliderslide.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 ---
 
 `drum-sliderwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 #### Normal set
 
 `normal-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `normal-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `normal-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `normal-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `normal-slidertick.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `normal-sliderslide.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 ---
 
 `normal-sliderwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 #### Soft set
 
 `soft-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `soft-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `soft-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `soft-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `soft-slidertick.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `soft-sliderslide.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 ---
 
 `soft-sliderwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
-- Ce son est joué en boucle.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
+- Ce son est mis en boucle.
 
 #### Spinner set
 
 `spinnerspin.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué en boucle.
-- Ce son peut moduler de ~500 hz à 80000 hz.
-  - Pour désactiver cela, mettez `SpinnerFrequencyModulate` à `0`.
+- Ce son est mis en boucle.
+- Ce son peut être modulé de ~500 hz à 80000 hz.
+  - Pour désactiver cette fonction, réglez le paramètre `SpinnerFrequencyModulate` à `0`.
 
 ---
 
 `spinnerbonus.wav`
 
-Notes :
+Remarques :
 
-- Ce son est joué chaque fois que vous obtenez 1000 points bonus pendant un spinner.
+- Ce son est joué à chaque fois que vous obtenez 1000 points de bonus grâce aux spinners.
 
 #### Spécifique à osu!taiko
 
@@ -762,98 +745,98 @@ Notes :
 
 `taiko-normal-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-normal-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-normal-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-normal-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `N:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `N:C1` sur les skins des beatmaps.
 
 ##### Soft set
 
 `taiko-soft-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-soft-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-soft-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ---
 
 `taiko-soft-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `S:C1` sur les skins des beatmaps.
+- Mappé comme un hitsound `S:C1` sur les skins des beatmaps.
 
 ##### Drum set
 
 `taiko-drum-hitnormal.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué uniquement lorsqu'il est mappé et inclus.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Il n'est joué que lorsqu'il est mappé et paramétré.
 
 ---
 
 `taiko-drum-hitclap.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué uniquement lorsqu'il est mappé et inclus.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Il n'est joué que lorsqu'il est mappé et paramétré.
 
 ---
 
 `taiko-drum-hitfinish.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué uniquement lorsqu'il est mappé et inclus.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Il n'est joué que lorsqu'il est mappé et paramétré.
 
 ---
 
 `taiko-drum-hitwhistle.wav`
 
-Notes :
+Remarques :
 
-- Mappé en tant que `D:C1` sur les skins des beatmaps.
-- Ce son est joué uniquement lorsqu'il est mappé et inclus.
+- Mappé comme un hitsound `D:C1` sur les skins des beatmaps.
+- Il n'est joué que lorsqu'il est mappé et paramétré.

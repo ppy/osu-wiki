@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 7 de Beatmaps Spotlights (Verano 2022)
+# Temporada 7 de Beatmap Spotlights (Verano 2022)
 
 ## Calendario
 
@@ -32,8 +31,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
 2. Cada sala de lista de juego proporciona una lista de juego predeterminada de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se reproduce una vez durante una temporada.
-3. Dentro de una sala de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala de lista de juego, todos compiten en una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la lista de juego se resumen para crear una puntuación semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
@@ -41,7 +40,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 
 ## Listas de juego
 
-### osu! (dirigido por [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (dirigida por [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Lista de juego A (reading hell)
 
@@ -55,7 +54,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377), sugerido por [Omgforz](https://osu.ppy.sh/users/578943)
 - [a\_hisa - Pudding Funfair (Pennek) \[MERRY-GO-ROUND\]](https://osu.ppy.sh/beatmapsets/993369#osu/2077273), sugerido por [DeviousPanda](https://osu.ppy.sh/users/4966334)
 
-### osu!taiko (dirigido por [Hivie](https://osu.ppy.sh/users/14102976))
+### osu!taiko (dirigida por [Hivie](https://osu.ppy.sh/users/14102976))
 
 #### Lista de juego A (reading hell)
 
@@ -69,7 +68,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Zekk - Foresight (woosungko) \[Prescience\]](https://osu.ppy.sh/beatmapsets/1726306#taiko/3527937), sugerido por [Hivie](https://osu.ppy.sh/users/14102976)
 - [Culprate & Au5 - Impulse (Megafan) \[Creativity\]](https://osu.ppy.sh/beatmapsets/1726063#taiko/3527450), sugerido por [\[Zeth\]](https://osu.ppy.sh/users/9912966)
 
-### osu!catch (dirigido por [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (dirigida por [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Lista de juego A (reading hell)
 
@@ -83,7 +82,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [in love with a ghost - trans rights (JBHyperion) \[overdose\]](https://osu.ppy.sh/beatmapsets/1744475#fruits/3567709), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 - [S-C-U - NANAHOSHI (ZiRoX) \[Ladybug\]](https://osu.ppy.sh/beatmapsets/1557240#fruits/3181226), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 
-### osu!mania (dirigido por [Crumpey](https://osu.ppy.sh/users/3518705))
+### osu!mania (dirigida por [Crumpey](https://osu.ppy.sh/users/3518705))
 
 #### Lista de juego A (reading hell)
 
@@ -94,5 +93,5 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Camellia - Tojita Sekai (\[Crz\]Alleyne) \[\[4K\] The fake sky covers a closed world...\]](https://osu.ppy.sh/beatmapsets/1150451#mania/2401514), sugerido por [Protastic101](https://osu.ppy.sh/users/6712747)
 - [Camellia - Fly Wit Me (Leniane) \[\[4K\] Ascension\]](https://osu.ppy.sh/beatmapsets/1267752#mania/2634707), sugerido por [Hydria](https://osu.ppy.sh/users/808176)
 - [T-SQUARE SUPER BAND SPECIAL - JAPANESE SOUL BROTHERS (Cut & Live Ver.) (Ska) \[\[4K\] 35th Anniversary | Part 2\]](https://osu.ppy.sh/beatmapsets/1683567#mania/3466516), sugerido por [Hydria](https://osu.ppy.sh/users/808176)
-- [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[\[7K\] Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499), picked as a result of popular vote amongst Curators
+- [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[\[7K\] Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499), elegido como resultado del voto popular entre los curadores
 - [Camellia - OOPARTS (AWMRone) \[\[6K\] OOccultism\]](https://osu.ppy.sh/beatmapsets/1608837#mania/3285125), sugerido por [Antalf](https://osu.ppy.sh/users/8793773)

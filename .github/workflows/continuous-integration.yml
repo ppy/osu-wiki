@@ -21,14 +21,8 @@ jobs:
 
       - name: detect changed files
         run: |
-          INTERESTING_FILES=$(
-            sort -u < <(
-              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
-              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
-              # Changes committed so far (may overlap with the above)
-              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
-            )
-          )
+          # Changes committed to this PR so far
+          INTERESTING_FILES=$( git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ )
 
           # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
           # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
@@ -55,9 +49,9 @@ jobs:
         uses: actions/cache@v3
         with:
           path: node_modules
-          key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: install remark
+      - name: 'if cache is outdated: install node.js dependencies'
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
@@ -74,7 +68,7 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
-          python-version: 3.x
+          python-version: '3.11'
 
       - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt
