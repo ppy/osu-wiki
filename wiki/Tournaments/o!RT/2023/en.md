@@ -377,12 +377,12 @@ Saturday, July 29, 2023:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| \_Nino\_ ::{ flag=RO }:: | 3 | **5** | ::{ flag=RO }:: **bossuromaniei** | [#1](placeholder) |
-| **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Ficus Akishida | [#1](placeholder) |
-| Teikem ::{ flag=RO }:: | 2 | **5** | ::{ flag=RO }:: **cristi2708** | [#1](placeholder) |
+| \_Nino\_ ::{ flag=RO }:: | 3 | **5** | ::{ flag=RO }:: **bossuromaniei** | [#1](https://osu.ppy.sh/community/matches/109734462) |
+| **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Ficus Akishida | [#1](https://osu.ppy.sh/community/matches/109736812) |
+| Teikem ::{ flag=RO }:: | 2 | **5** | ::{ flag=RO }:: **cristi2708** | [#1](https://osu.ppy.sh/community/matches/109737553) |
 | Asio_ ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: Martin23 | win by default |
-| **r0botonic** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: kRionik | [#1](placeholder) |
-| **_Silvian** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: KeitoChan | [#1](placeholder) |
+| **r0botonic** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: kRionik | [#1](https://osu.ppy.sh/community/matches/109740687) |
+| **_Silvian** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: KeitoChan | [#1](https://osu.ppy.sh/community/matches/109741596) |
 
 Sunday, July 30, 2023:
 
