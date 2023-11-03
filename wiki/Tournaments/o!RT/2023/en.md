@@ -293,7 +293,7 @@ Sunday, August 20, 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: badeu | [#1](<https://osu.ppy.sh/community/matches/110086027)> |
+| **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: badeu | [#1](https://osu.ppy.sh/community/matches/110086027) |
 
 Monday, August 21, 2023:
 
