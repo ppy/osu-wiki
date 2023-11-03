@@ -266,6 +266,193 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+Sunday, September 4, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **SatonoDiamond** ::{ flag=RO }:: | **7** | 6 | ::{ flag=RO }:: eternum | [#1](https://osu.ppy.sh/community/matches/103564521) |
+| **badeu** ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: SatonoDiamond | [#1](https://osu.ppy.sh/community/matches/103568698) |
+
+### Finals
+
+Friday, August 19, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lucrise** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Howlpleb | [#1](https://osu.ppy.sh/community/matches/103183213) |
+
+Saturday, August 20, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **eternum** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Kehest | [#1](https://osu.ppy.sh/community/matches/103205369) |
+| **badeu** ::{ flag=RO }:: | **7** | 6 | ::{ flag=RO }:: SatonoDiamond | [#1](https://osu.ppy.sh/community/matches/103209392) |
+
+Sunday, August 21, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **eternum** ::{ flag=RO }:: | **7** | 5 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/103238836) |
+
+### Semi-Finals
+
+Thursday, August 11, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Lalisa ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **cristi2708** | win by default |
+
+Friday, August 12, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Chiu ::{ flag=RO }:: | 2 | **6** | ::{ flag=RO }:: **HowlPleb** | [#1](https://osu.ppy.sh/community/matches/103017709) |
+
+Saturday, August 13, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **SatonoDiamond** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: eternum | [#1](https://osu.ppy.sh/community/matches/103038659) |
+| **LuchiBuchi** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: ent | [#1](https://osu.ppy.sh/community/matches/103042554) |
+
+Sunday, August 14, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kehest** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: Ninja Fail | [#1](https://osu.ppy.sh/community/matches/103060490) |
+| Lucrise ::{ flag=RO }:: | 4 | **6** | ::{ flag=RO }:: **badeu** | [#1](https://osu.ppy.sh/community/matches/103068759) |
+| cristi2708 ::{ flag=RO }:: | 0 | **6** | ::{ flag=RO }:: **Kehest** | [#1](https://osu.ppy.sh/community/matches/103070121) |
+
+Monday, August 15, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LuchiBuchi ::{ flag=RO }:: | 4 | **6** | ::{ flag=RO }:: HowlPleb | [#1](https://osu.ppy.sh/community/matches/103091589) |
+
+### Quarter-Finals
+
+Friday, August 5, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| gadzzaa ::{ flag=RO }:: | 5 | **6** | ::{ flag=RO }:: **A-XLE** | [#1](https://osu.ppy.sh/community/matches/102907509) |
+| **ent** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: My Angel vuru | [#1](https://osu.ppy.sh/community/matches/102910970) |
+
+Saturday, August 6, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Slato ::{ flag=RO }:: | 4 | **6** | ::{ flag=RO }:: **_Silvian** | [#1](https://osu.ppy.sh/community/matches/3129534) |
+| **L9 MATEIUT** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RO }:: Nature angel | [#1](https://osu.ppy.sh/community/matches/102865322) |
+| **Ninja Fail** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: [dUwUb] | win by default |
+| **Shrikyun** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: zhuqing | [#1](https://osu.ppy.sh/community/matches/102868254) |
+| **HowlPleb** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Acey Pacey | [#1](https://osu.ppy.sh/community/matches/102871509) |
+
+Sunday, August 7, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **eternum** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: LuchiBuchi | [#1](https://osu.ppy.sh/community/matches/102888162) |
+| **SatonoDiamond** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Chiu | [#1](https://osu.ppy.sh/community/matches/102888162) |
+| _Silvian ::{ flag=RO }:: | 4 | **6** | ::{ flag=RO }:: **ent** | [#1](https://osu.ppy.sh/community/matches/102889290) |
+| **cristi2708** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Paato | [#1](https://osu.ppy.sh/community/matches/102889322) |
+| **badeu** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Lalisa | win by default |
+| **cristi2708** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Shrikyun | [#1](https://osu.ppy.sh/community/matches/102894628) |
+| **Lucrise** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RO }:: Kehest | [#1](https://osu.ppy.sh/community/matches/102896013) |
+| **HowlPleb** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: A-XLE | [#1](https://osu.ppy.sh/community/matches/102895993) |
+
+Monday, August 8, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ninja Fail** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: L9 MATEIUT | [#1](https://osu.ppy.sh/community/matches/102912478) |
+
+### Round of 16
+
+Friday, July 29, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **My Angel vuru** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Mely06 | win by default |
+| Teikem ::{ flag=RO }:: | 0 | **5** | ::{ flag=RO }:: **zhuqing** | [#1](https://osu.ppy.sh/community/matches/102655662) |
+| **Kehest** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: HowlPleb | [#1](https://osu.ppy.sh/community/matches/102662441) |
+
+Saturday, July 30, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Deephjk ::{ flag=RO }:: | 1 | **5** | ::{ flag=RO }:: **Paato** | [#1](https://osu.ppy.sh/community/matches/102679002) |
+| **Lalisa** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Slato | win by default |
+
+Sunday, July 31, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Florin_Kon ::{ flag=RO }:: | 1 | **5** | ::{ flag=RO }:: **_Silvian** | [#1](https://osu.ppy.sh/community/matches/102708181) |
+| **SatonoDiamond** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: L9 MATEIUT | [#1](https://osu.ppy.sh/community/matches/102709392) |
+| **Acey Pacey** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: KoleciAlexandru | win by default |
+| **Lucrise** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: gadzzaa | [#1](https://osu.ppy.sh/community/matches/102713259) |
+| AlexBelea ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **A-XLE** | win by default |
+| **eternum** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Shrikyun | [#1](https://osu.ppy.sh/community/matches/102712211) |
+| **Chiu** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: Ninja Fail | [#1](https://osu.ppy.sh/community/matches/102714628) |
+| cristi2708 ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **LuchiBuchi** | [#1](https://osu.ppy.sh/community/matches/102714655) |
+
+Monday, August 1, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| IIANTONIOII ::{ flag=RO }:: | 1 | **5** | ::{ flag=RO }:: **Nature angel** | [#1](https://osu.ppy.sh/community/matches/102729708) |
+| bossuromaniei ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **[dUwUb]** | [#1](https://osu.ppy.sh/community/matches/102733704) |
+
+Tuesday, August 2, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **badeu** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: ent | [#1](https://osu.ppy.sh/community/matches/102762955) |
+
+### Round of 32
+
+Friday, July 22, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lalisa** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: IIANTONIOII | [#1](https://osu.ppy.sh/community/matches/103091589) |
+| **Lucrise** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: Deephjk | [#1](https://osu.ppy.sh/community/matches/102466171) |
+| **badeu** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: bossuromaniei | [#1](https://osu.ppy.sh/community/matches/102476109) |
+
+Saturday, July 23, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Nature angel ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **Slato** | win by default |
+| **SatonoDiamond** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Florin_Kon | [#1](https://osu.ppy.sh/community/matches/102496068) |
+| KoleciAlexandru ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **Shrikyun** | [#1](https://osu.ppy.sh/community/matches/102495918) |
+| **ent** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: [dUwUb] | [#1](https://osu.ppy.sh/community/matches/102497051) |
+| **Kehest** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Teikem | [#1](https://osu.ppy.sh/community/matches/102498516) |
+| **HowlPleb** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: jhuqing | [#1](https://osu.ppy.sh/community/matches/102500074) |
+| **L9 MATEIUT** ::{ flag=RO }:: | **5** | 4 | ::{ flag=RO }:: _Silvian | [#1](https://osu.ppy.sh/community/matches/102502711) |
+| **LuchiBuchi** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: A-XLE | [#1](https://osu.ppy.sh/community/matches/102504942) |
+
+Sunday, July 24, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cristi2708** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: AlexBelea | win by default |
+| **eternum** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Acey Pacey | [#1](https://osu.ppy.sh/community/matches/102525662) |
+| Paato ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **gadzzaa** | [#1](https://osu.ppy.sh/community/matches/102528193) |
+
+Monday, July 25, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ninja Fail ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **Mely06** | [#1](https://osu.ppy.sh/community/matches/102552989) |
+
+Tuesday, July 26, 2022:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Chiu ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: **My Angel vuru** | [#1](https://osu.ppy.sh/community/matches/102580242) |
+
 ## Ruleset
 
 ### General rules
