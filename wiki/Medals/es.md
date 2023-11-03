@@ -20,9 +20,9 @@ Las **medallas Dedication** son medallas otorgadas al alcanzar ciertos objetivos
 
 ## Mod Introduction
 
-*Véase también: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Véase también: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
-Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados) con su correspondiente [modificador de juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Tenga en cuenta, sin embargo, que si los jugadores juegan con múltiples modificadores de juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador de juego para esa jugada.
+Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados) con su correspondiente [modificador del juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Sin embargo, ten en en cuenta que si los jugadores juegan con múltiples modificadores del juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador del juego para esa jugada.
 
 Todas las medallas de introducción a mods se pueden desbloquear en cualquier [modo de juego](/wiki/Game_mode), a menos que se especifique lo contrario.
 
@@ -36,7 +36,7 @@ Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar haza
 
 Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
-También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas en ella no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o [especiales](/wiki/Gameplay/Game_modifier#especiales).
+También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas que contiene no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o [especial](/wiki/Gameplay/Game_modifier#especiales).
 
 ## Beatmap Spotlights
 
