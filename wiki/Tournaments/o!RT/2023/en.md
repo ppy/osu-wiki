@@ -52,7 +52,7 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1772675?n=1)
 - [Livestream](https://www.twitch.tv/osuromania)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1_VjqjnSC6WfbnqgwhSr_RWKROM4wW7u3EJyi9sFs5ss/edit#gid=340794063)
-- [Bracket]()
+- [Bracket](https://challonge.com/ORST2023)
 
 ## Participants
 
@@ -69,19 +69,155 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: []() |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: []() |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: []() |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
+
+![o!RST 2023 podium](img/podium.png)
 
 ## Mappools
 
 ### Grand Finals
 
+**[Download the mappack here! (154MB)](https://drive.google.com/file/d/1epT4Qjys7qN-ck4iy2pdjaFMJx2h7e1V/view)**
+
+- NoMod
+  1. [Alestorm - Shipwrecked [CAMO'S KEELHAULED]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802256)
+  2. [Plum - Tempest [Cyclogenesis]](https://osu.ppy.sh/beatmapsets/1544570#osu/3157129)
+  3. [Cranky vs. HiTECH NINJA - HiT! HiT! HiT! [GREETINGS FROM HELL]](https://osu.ppy.sh/beatmapsets/1176223#osu/2453247)
+  4. [kors k vs. Camellia - The Rolling [song is nice though]](https://osu.ppy.sh/beatmapsets/688576#osu/1457148)
+  5. [AAAA vs. Frums - beepbit * futures [fast * forward]](https://osu.ppy.sh/beatmapsets/1633221#osu/3333700)
+  6. [II-L - VOSTOK-6 [Beyond]](https://osu.ppy.sh/beatmapsets/1380791#osu/2852981)
+- Hidden
+  1. [Alestorm - Keelhauled [GIVE NO QUARTER]](https://osu.ppy.sh/beatmapsets/1537993#osu/3144568)
+  2. [cordelia - Endless Flap [bans HD2]](https://osu.ppy.sh/beatmapsets/2048616#osu/4277201)
+  3. [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix [Bittersweet Surrender]](https://osu.ppy.sh/beatmapsets/663519#osu/1478117)
+  4. [TOMOSUKE - Macuilxochitl [Flower]](https://osu.ppy.sh/beatmapsets/1621894#osu/3311346)
+- HardRock
+  1. [BUTAOTOME - Mesen [EXPERT]](https://osu.ppy.sh/beatmapsets/865750#osu/1810154)
+  2. [DJ Totoriott - Chloe [Mystery]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
+  3. [BEMANI Sound Team "Sota Fujimori" - OZONE [Crack]](https://osu.ppy.sh/beatmapsets/1466924#osu/3012571)
+  4. [xi - Beatrice [esu x iljaaz's Extreme]](https://osu.ppy.sh/beatmapsets/1801967#osu/3698095)
+- DoubleTime
+  1. [Wakeshima Kanon - Tsukinami [Onlybiscuit's Extra]](https://osu.ppy.sh/beatmapsets/896080#osu/1924025)
+  2. [-45 - yoshikawa45 vs. siesta45 Battle of HongKong [Para Bellum]](https://osu.ppy.sh/beatmapsets/1889111#osu/3890692)
+  3. [LADYBABY - Nippon Manju [TheMefisto's Insane]](https://osu.ppy.sh/beatmapsets/910392#osu/2053770)
+  4. [inabakumori - Lagtrain [Repetition]](https://osu.ppy.sh/beatmapsets/1313664#osu/2722655)
+- Tiebreaker
+  1. [ZxNX+Delaina - False Fairy Tale [The White Rabbit]](https://osu.ppy.sh/beatmapsets/2032331#osu/4351761)
+
+### Finals
+
+**[Download the mappack here! (167MB)](https://drive.google.com/file/d/1_nHsVXCEDupugNhzCCOb-NziJ9WJn2dm/view)**
+
+### Semi-Finals
+
+**[Download the mappack here! (125MB)](https://drive.google.com/file/d/1-0OjSV0eqTUC3TUIBLhzG3zzGtgRpRoJ/view)**
+
+### Quarter-Finals
+
+**[Download the mappack here! (142MB)](https://drive.google.com/file/d/1z3URi-h3ueWOxNYdGw0g_AHnw7Jniymq/view)**
+
+### Round of 16
+
+**[Download the mappack here! (97MB)](https://drive.google.com/file/d/1-zgElhRN_AyhMexdk2SzmBmSvmJxkFhx/view)**
+
+### Round of 32
+
+**[Download the mappack here! (MB)]()**
+
+### Qualifiers
+
+**[Download the mappack here! (71MB)](https://drive.google.com/file/d/1fbqRKbfmed0pDuU4srHvRBQcsr4kC9Fy/view)**
+
 ## Match results
 
 ### Grand Finals
 
+Saturday, August 26, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| badeu ::{ flag=RO }:: | 3 | **7** | ::{ flag=RO }:: **Lucrise** | [#1](https://osu.ppy.sh/community/matches/110176505) |
+
+Monday, August 28, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **etn** ::{ flag=RO }:: | **7** | 3 | Lucrise ::{ flag=RO }:: | [#1](https://osu.ppy.sh/community/matches/110209499) |
+
+### Finals
+
+Saturday, August 19, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lucrise** ::{ flag=RO }:: | **7** | 1 | ::{ flag=RO }:: _Silvian | [#1](https://osu.ppy.sh/community/matches/110070237) |
+| Razei ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: Shrikyun | win by default |
+
+Sunday, August 20, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: badeu | [#1](<https://osu.ppy.sh/community/matches/110086027)> |
+
+Monday, August 21, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Shrikyun ::{ flag=RO }:: | 0 | **7** | ::{ flag=RO }:: **Lucrise** | [#1](https://osu.ppy.sh/community/matches/110101938) |
+
+### Semi-Finals
+
+Saturday, August 12, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Shrikyun** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Ficus Akishida | [#1](https://osu.ppy.sh/community/matches/109958375) |
+| **r0botonic** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: AlexBelea | [#1](https://osu.ppy.sh/community/matches/109958667) |
+| **_Silvian** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: HowlPleb | [#1](https://osu.ppy.sh/community/matches/109961308) |
+| **roliy** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Kehest | [#1](https://osu.ppy.sh/community/matches/109962808) |
+
+Sunday, August 13, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| badeu ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Razei | win by default |
+| **Shrikyun** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: roliy | [#1](https://osu.ppy.sh/community/matches/109975490) |
+| **etn** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/109977573) |
+| **_Silvian** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RO }:: r0botonic | [#1](https://osu.ppy.sh/community/matches/109979280) |
+
+### Quarter-Finals
+
+Thursday, August 3, 2023:
+
+Saturday, August 5, 2023:
+
+Sunday, August 6, 2023:
+
+Monday, August 7, 2023:
+
+Tuesday, August 8, 2023:
+
+### Round of 16
+
+Friday, July 28, 2023:
+
+Saturday, July 29, 2023:
+
+Sunday, July 30, 2023:
+
+Monday, July 31, 2023:
+
+### Round of 32
+
+Friday, July 21, 2023:
+
+Saturday, July 22, 2023:
+
+Sunday, July 23, 2023:
+
+Monday, July 24, 2023:
 
 ## Ruleset
 
@@ -142,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappools
 
 1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have about the same difficulty as the Round of 16 mappool.
-2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and a Tiebreaker on which [FreeMod]() rules will apply. The only exception is the qualifier stage which will not feature a Tiebreaker map.
+2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and a Tiebreaker on which [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules will apply. The only exception is the qualifier stage which will not feature a Tiebreaker map.
 3. On the Tiebreaker both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.
 4. EZ mod will have a multiplier of 1x (The score obtained in the lobby will be multiplied by 2).
 5. The number of maps in each round for each mod bracket will be as follows:

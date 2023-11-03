@@ -33,7 +33,6 @@ The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination o
 
 ![](img/badge.png "RoCup 2022 winner badge")
 
-
 ## Organisation
 
 The Romanian osu! Cup 2022 was run by various community members:
@@ -81,8 +80,6 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Grand Finals
-
-
 
 ## Ruleset
 
@@ -143,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappools
 
 1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have about the same difficulty as the Round of 16 mappool.
-2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and a Tiebreaker on which [FreeMod]() rules will apply. The only exception is the qualifier stage which will not feature a Tiebreaker map.
+2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and a Tiebreaker on which [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules will apply. The only exception is the qualifier stage which will not feature a Tiebreaker map.
 3. On the Tiebreaker both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.
 4. EZ mod will have a multiplier of 1x (The score obtained in the lobby will be multiplied by 2).
 5. The number of maps in each round for each mod bracket will be as follows:
