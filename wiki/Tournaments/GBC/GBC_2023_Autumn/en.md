@@ -33,9 +33,9 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 
 ## Prizes
 
-### QQ Division
+### QQ division
 
-| Team Placing | Prizes |
+| Team placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, ¥150 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥150 CNY |
@@ -45,9 +45,9 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *7–8th place* | ¥60 CNY |
 | *9–12th place* | ¥45 CNY |
 | *13–16st place* | ¥30 CNY |
-| Every Winning Match in Regular Stage | ¥50 CNY |
+| *For every match won in the regular stage* | ¥50 CNY |
 
-| Qualifier Placing | Prizes |
+| Qualifier placing | Prizes |
 | :-: | :-- |
 | *1st place* | ¥200 CNY |
 | *2nd place* | ¥150 CNY |
@@ -56,9 +56,9 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *9–24th place* | ¥50 CNY |
 | *All the other qualified players* | ¥20 CNY |
 
-### Discord Division
+### Discord division
 
-| Team Placing | Prizes |
+| Team placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, ¥150 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ¥150 CNY |
@@ -68,28 +68,28 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *7–8th place* | ¥60 CNY |
 | *9–12th place* | ¥45 CNY |
 | *13–16st place* | ¥30 CNY |
-| Every Winning Match in Regular Stage | $6 |
+| *For every match won in the regular stage* | $6 |
 
-| Qualifier Placing | Prizes |
+| Qualifier placing | Prizes |
 | :-: | :-- |
 | *1st place* | $16 |
 | *2nd place* | $13 |
 | *3rd place* | $10 |
-| *4-8th place* | $8 |
+| *4–8th place* | $8 |
 | *9–16th place* | $6 |
 | *All the other qualified players* | $2 |
 
 ## Organisation
 
-The GB Cup 2023 Autumn was run by the Team GB and various community members.
+The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131) |
-| SV Mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VE }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| Custom Mapper | *TBA* |
+| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VE }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| Custom mapper | *TBA* |
 | Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
@@ -109,7 +109,7 @@ The GB Cup 2023 Autumn was run by the Team GB and various community members.
 
 ## Participants
 
-### QQ Division
+### QQ division
 
 | # | Team | Members |
 | :-: | :-- | :-- |
@@ -138,7 +138,7 @@ The GB Cup 2023 Autumn was run by the Team GB and various community members.
 | Q23 | **再奖励一把大天空** | ::{ flag=CN }:: **[Yurucawaii](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=CN }:: [Tempest_WH](https://osu.ppy.sh/users/16039216), ::{ flag=CN }:: [CLLbin](https://osu.ppy.sh/users/11837219), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764) |
 | Q24 | **猫猫统治世界** | ::{ flag=CN }:: **[Carpihat](https://osu.ppy.sh/users/10085090)**, ::{ flag=CN }:: [Akermo](https://osu.ppy.sh/users/14934242), ::{ flag=CN }:: [\[GB\]Azukisan](https://osu.ppy.sh/users/5378805), ::{ flag=CN }:: [superSSS](https://osu.ppy.sh/users/4315477), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517) |
 
-### Discord Division
+### Discord division
 
 | # | Team | Members |
 | :-: | :-- | :-- |
@@ -211,7 +211,7 @@ The GB Cup 2023 Autumn was run by the Team GB and various community members.
 ### Tournament registration
 
 1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/13179234/c366/)** to register. 
-   - Players need to choose a division according to their chat software, i.e. the Discord division or QQ division. Both the QQ division and Discord division will have an independent tournament, but use same mapppool.
+   - Players need to choose a division according to their chat software, i.e. the Discord division or QQ division. The QQ division and Discord division will each have an independent tournament, but use same mappool.
    - Players **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/kR4hJnPs) after register, according to their choice during registration.
    - **There are no forced geographical limitations for this tournament, but players need to ensure they are available to play in the weekend 19:00–22:00 (UTC+8), or they may not be selected during the drafting phase.**
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
@@ -245,7 +245,7 @@ The GB Cup 2023 Autumn was run by the Team GB and various community members.
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
 2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in total, and the others get eliminated from the tournament.
-3. Following the regular stage, the elimination stage will be played in both zones, called *playoffs*. The top 8 teams from the regular stage will advance to a winner bracket, other teams will get into loser bracket.
+3. Following the regular stage, the elimination stage will be played in both divisions, called *playoffs*. The top 8 teams from the regular stage will advance to a winner bracket, other teams will get into loser bracket.
 4. All losing teams in the loser bracket will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
@@ -275,7 +275,7 @@ The GB Cup 2023 Autumn was run by the Team GB and various community members.
 
 ### Regular phase instructions
 
-1. The regular phase will be divided into two division, the Discord division and the QQ division.
+1. The regular phase will be divided into two divisions, the Discord division and the QQ division.
    - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
 2. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same match record will face each other.
    - The number of teams in each division to enter the elimination phase is determined by the number of registrations.
