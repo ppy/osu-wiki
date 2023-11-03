@@ -21,7 +21,7 @@ Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan
 
 ## Nama-nama tingkat kesulitan
 
-*Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
+*Lihat juga: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
 Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [*ranking criteria*](/wiki/Ranking_criteria) masing-masing mode permainan.
 
@@ -32,7 +32,6 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -40,8 +39,7 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -50,7 +48,6 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -59,7 +56,6 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Star rating
 

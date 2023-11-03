@@ -1,8 +1,3 @@
----
-outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
-outdated_translation: true
----
-
 # Medaglie
 
 Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **314** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).
@@ -33,13 +28,15 @@ Tutte le Medaglie di Introduzione Alle Mod possono essere sbloccate in qualunque
 
 ## Hush-Hush
 
-Le **medaglie Hush-Hush** sono medaglie "segrete" ottenute compiendo azioni molto specifiche, che non vengono esplicitamente dette al giocatore (da qui proviene il nome). Queste azioni possono variare da completare una beatmap in particolari circostanze a stabilire una giocata con una combinazione di mod inusuale. Nonostante la loro natura segreta, ci sono degli indizi nascosti in giro per aiutare tutti i collezionistsi di medaglie curiosi nella loro ricerca come segue: 
+Le **medaglie Hush-Hush** sono medaglie "segrete" ottenute compiendo azioni molto specifiche, che non vengono esplicitamente dette al giocatore (da qui proviene il nome). Queste azioni possono variare da completare una beatmap in particolari circostanze a stabilire una giocata con una combinazione di mod inusuale. Nonostante la loro natura segreta, ci sono degli indizi nascosti in giro per aiutare tutti i collezionistsi di medaglie curiosi nella loro ricerca come segue:
 
 - Il nome della medaglia in sé,
 - Le brevi descrizioni delle medaglie,
 - I loro *testi a comparsa*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> (se ci sono), visibili passando sopra l'emblema con il cursore.
 
 Siccome le medaglie Hush-Hush sono fatte per essere obiettivi segreti, i requisiti per sbloccarle non sono vengono direttamente rivelati al pubblico; ad ogni modo, i giocatori possono [collaborare per capire insieme un modo per ottenere tutte le medaglie Hush-Hush qui](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+Esiste anche una sottocategoria chiamata "Hush-Hush (Expert)". La differenza è che le medaglie in essa contenute non consentono l'uso di alcuna mod per la [riduzione della difficoltà](/wiki/Gameplay/Game_modifier#difficulty-reduction) o [speciale](/wiki/Gameplay/Game_modifier#special).
 
 ## Beatmap Spotlight
 

@@ -20,7 +20,7 @@ outdated_translation: true
 
 ## 難易度レベル
 
-*こちらも参照してください: [難易度の命名](/wiki/Ranking_criteria/Difficulty_naming)*
+*こちらも参照してください: [難易度名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 これらはビートマップの代表的な難易度です。それぞれの具体的な定義や要件は、それぞれのモードの[ランキング基準](/wiki/Ranking_criteria)に記載されています。
 
@@ -31,7 +31,6 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -39,8 +38,7 @@ outdated_translation: true
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -49,7 +47,6 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -58,7 +55,6 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## 星評価
 
