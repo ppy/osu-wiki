@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 8 de Beatmaps Spotlights (Invierno 2023)
+# Temporada 8 de Beatmap Spotlights (Invierno 2023)
 
 ## Calendario
 
@@ -32,8 +31,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
 2. Cada sala de lista de juego proporciona una lista de juego predeterminada de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se reproduce una vez durante una temporada.
-3. Dentro de una sala de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala de lista de juego, todos compiten en una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la lista de juego se resumen para crear una puntuación semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
@@ -41,7 +40,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 
 ## Listas de juego
 
-### osu! (dirigido por [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (dirigida por [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Lista de juego A (precision)
 
@@ -55,7 +54,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Kamisama Club - No. 5 (dsco) \[Capital\]](https://osu.ppy.sh/beatmapsets/1626872#osu/3321406), sugerido por [Riot](https://osu.ppy.sh/users/4256461)
 - [Foxblood - Bittersweet (Osatia) \[Insaner\]](https://osu.ppy.sh/beatmapsets/710922#osu/1777714), sugerido por [Lefafel](https://osu.ppy.sh/users/2295850)
 
-### osu!taiko (dirigido por [Hivie](https://osu.ppy.sh/users/14102976))
+### osu!taiko (dirigida por [Hivie](https://osu.ppy.sh/users/14102976))
 
 #### Lista de juego A (precision)
 
@@ -69,7 +68,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Cyte - idk Kagamine Rin well (Ideal) \[idk Inner Onis well\]](https://osu.ppy.sh/beatmapsets/1282733#taiko/2666309), sugerido por [\[Zeth\]](https://osu.ppy.sh/users/9912966)
 - [BilliumMoto & Miyolophone - IX's Shadow (rubies87) \[Umbra\]](https://osu.ppy.sh/beatmapsets/1827828#taiko/3751292), sugerido por [Nifty](https://osu.ppy.sh/users/4956097)
 
-### osu!catch (dirigido por [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (dirigida por [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Lista de juego A (precision)
 
@@ -83,7 +82,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [xi - Parousia (Deif) \[Lost Judgement\]](https://osu.ppy.sh/beatmapsets/1789435#fruits/3666569), sugerido por [WadBot](https://osu.ppy.sh/users/14571181)
 - [CustomiZ - COOLEST (TV Size) (Greaper) \[GREAPER'S OVERDOSE\]](https://osu.ppy.sh/beatmapsets/1258175#fruits/2615583), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 
-### osu!mania (dirigido por [Crumpey](https://osu.ppy.sh/users/3518705))
+### osu!mania (dirigida por [Crumpey](https://osu.ppy.sh/users/3518705))
 
 #### Lista de juego A (precision)
 

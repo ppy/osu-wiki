@@ -8,13 +8,13 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### Gameplay
 
@@ -52,9 +52,9 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Futsuu.
-  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Muzukashii.
-  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Oni.
+  - **...lower than 3:30**, the lowest difficulty cannot be harder than a Futsuu.
+  - **...between 3:30 and 4:15**, the lowest difficulty cannot be harder than a Muzukashii.
+  - **...between 4:15 and 5:00**, the lowest difficulty cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 - **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
