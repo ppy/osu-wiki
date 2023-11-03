@@ -56,12 +56,12 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 
 ## Participants
 
-| Seed | Players |
-| :-- | :-- |
-| 1-8 |  |
-| 9-16 |  |
-| 17-24 |  |
-| 25-32 |  |
+| Seed   | Players                                                                                           |
+| :--    | :--                                                                                               |
+| 1-8    | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=RO }:: [Razei](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [Shrikyun](https://osu.ppy.sh/users/21644645), ::{ flag=RO }:: [_Silvian](https://osu.ppy.sh/users/8511882), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [Chiu](https://osu.ppy.sh/users/3148900) |
+| 9-16   | ::{ flag=RO }:: [roliy](https://osu.ppy.sh/users/9578404), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000), ::{ flag=RO }:: [KeitoChan](https://osu.ppy.sh/users/10569381), ::{ flag=RO }:: [HowlPleb](https://osu.ppy.sh/users/15995105), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [Ficus Akishida](https://osu.ppy.sh/users/10345787), ::{ flag=RO }:: [gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [Korinna](https://osu.ppy.sh/users/13603871) |
+| 17-24  | ::{ flag=RO }:: [AlexBelea](https://osu.ppy.sh/users/19430137), ::{ flag=RO }:: [IIANTONIOII](https://osu.ppy.sh/users/12274213), ::{ flag=RO }:: [Martin23](https://osu.ppy.sh/users/9315365), ::{ flag=RO }:: [ent](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [Nature angel](https://osu.ppy.sh/users/16555513), ::{ flag=RO }:: [zhuqing](https://osu.ppy.sh/users/14575641), ::{ flag=RO }:: [bossuromaniei](https://osu.ppy.sh/users/19994316), ::{ flag=RO }:: [kRionik](https://osu.ppy.sh/users/15324096) |
+| 25-32  | ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417), ::{ flag=RO }:: [\_Nino\_](https://osu.ppy.sh/users/8925010), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=RO }:: [valked](https://osu.ppy.sh/users/28694940), ::{ flag=RO }:: [Teikem](https://osu.ppy.sh/users/16357854), ::{ flag=RO }:: [Asio_](https://osu.ppy.sh/users/19906166), ::{ flag=RO }:: [Luminous Sky](https://osu.ppy.sh/users/4429612), ::{ flag=RO }:: [AkakiKN](https://osu.ppy.sh/users/12875343) |
 
 ## Podium
 
@@ -110,23 +110,157 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (167MB)](https://drive.google.com/file/d/1_nHsVXCEDupugNhzCCOb-NziJ9WJn2dm/view)**
 
+- NoMod
+  1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite [Extra]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  2. [Raimukun - Arachne [Resurrection]](https://osu.ppy.sh/beatmapsets/2024121#osu/4216118)
+  3. [Machine Girl - Infinite Potentiality (Cut Ver.) [extraordinaire]](https://osu.ppy.sh/beatmapsets/1719598#osu/3514241)
+  4. [Camellia vs Akira Complex - Railgun Roulette (VIP) [Neil x Sharu, Syzygy]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  5. [Inferi - Onslaught of the Covenant [Expert]](https://osu.ppy.sh/beatmapsets/1764590#osu/3611958)
+  6. [MANY THANKS! feat. Setsunan - Banka [Extreme]](https://osu.ppy.sh/beatmapsets/1939593#osu/4010164)
+- Hidden
+  1. [Yousei Teikoku - Ranshou Aion [Paradise]](https://osu.ppy.sh/beatmapsets/1492639#osu/3059613)
+  2. [kors k - SigSig [Yokes' Hidden Expert]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298593)
+  3. [Unlucky Morpheus - Majotachi no Shanikusai [AdveNt's Master Spark]](https://osu.ppy.sh/beatmapsets/1890758#osu/3903974)
+  4. [II-L feat. amelie xoxo - THE EARTH [Zeta: Non-trivial]](https://osu.ppy.sh/beatmapsets/1889101#osu/3900737)
+- HardRock
+  1. [UNISON SQUARE GARDEN - Chaos ga Kiwamaru [some soccer anime i guess]](https://osu.ppy.sh/beatmapsets/1914935#osu/3950576)
+  2. [Ampzer - Lotus [-PC's Extra]](https://osu.ppy.sh/beatmapsets/1848627#osu/3797495)
+  3. [Dirtyphonics - Night Ride [Ultimate Drift]](https://osu.ppy.sh/beatmapsets/1621891#osu/3311337)
+  4. [NIWASHI & taiyo - Nami/Oto you-shi [Ubiquitous]](https://osu.ppy.sh/beatmapsets/1833621#osu/3764329)
+- DoubleTime
+  1. [Charlie Puth - Light Switch [Click Clack]](https://osu.ppy.sh/beatmapsets/1712086#osu/3498454)
+  2. [senya - Shunkan Everlasting [Lunatic]](https://osu.ppy.sh/beatmapsets/1981457#osu/4114463)
+  3. [beatMARIO - Night of Knights [Kotori's Extreme]](https://osu.ppy.sh/beatmapsets/352570#osu/828940)
+  4. [KOTOKO - Wing my Way [Endless Sky]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268)
+- Tiebreaker
+  1. [SAMString - NUMA [Multifarious]](https://osu.ppy.sh/beatmapsets/1570528#osu/3207042)
+
 ### Semi-Finals
 
 **[Download the mappack here! (125MB)](https://drive.google.com/file/d/1-0OjSV0eqTUC3TUIBLhzG3zzGtgRpRoJ/view)**
+
+- NoMod
+  1. [Mami Kawada - Serment [Pledges]](https://osu.ppy.sh/beatmapsets/1833913#osu/3764941)
+  2. [PYKAMIA - Fantasia Sonata Mirror [FINAL]](https://osu.ppy.sh/beatmapsets/1883456#osu/3877754)
+  3. [otetsu - Meiteki Cybernetics [Raijodo x kuyusu's Extra (MYT Edit)]](https://osu.ppy.sh/beatmapsets/1570535#osu/3207056)
+  4. [Silentroom - Nhelv [Eureka]](https://osu.ppy.sh/beatmapsets/744182#osu/1569152)
+  5. [The Ritual Aura - Ectoplasm [Synthetic Absolutism - Original]](https://osu.ppy.sh/beatmapsets/1563639#osu/3193037)
+  6. [connsome - flat by second [Another]](https://osu.ppy.sh/beatmapsets/1633261#osu/3333760)
+- Hidden
+  1. [Kaf - Kako o Kurau [Penitence]](https://osu.ppy.sh/beatmapsets/1575602#osu/3216819)
+  2. [Cranky - The Five [Short Edit] [Five]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840)
+  3. [Reku Mochizuki - VEZZELiX [ripita]](https://osu.ppy.sh/beatmapsets/1567516#osu/3200583)
+  4. [ave;new feat. Shirasawa Rie - MAYBE ROSY KISS -HARD dRESS STYLE- [MAYBE POSSIBLE]](https://osu.ppy.sh/beatmapsets/169650#osu/410858)
+- HardRock
+  1. [Akatsuki Records - KOISHI ~ Koishi Infinity ~ [Stacked]](https://osu.ppy.sh/beatmapsets/1062030#osu/2223872)
+  2. [zakuro - Tasogare no Odoriba [Dance]](https://osu.ppy.sh/beatmapsets/1800829#osu/3691977)
+  3. [Pegboard Nerds x MisterWives - Coffins [Neil x LCFC's Conflux]](https://osu.ppy.sh/beatmapsets/823272#osu/1725369)
+  4. [NIWASHI - Harder Than Diamond [Down's Extra]](https://osu.ppy.sh/beatmapsets/1884920#osu/3880947)
+- DoubleTime
+  1. [sana - Senpai. [litoluna's Insane]](https://osu.ppy.sh/beatmapsets/637706#osu/1384674)
+  2. [Down - Trio Cup [Lunatic]](https://osu.ppy.sh/beatmapsets/1769914#osu/3623164)
+  3. [ALiCE'S EMOTiON - Voice [Sakura Lunatic]](https://osu.ppy.sh/beatmapsets/2040705#osu/4257344)
+  4. [Mark Keali'i Ho'omalu & Kamehameha Schools Children's Chorus - Hawaiian Roller Coaster Ride [Beyond the Horizon]](https://osu.ppy.sh/beatmapsets/1525457#osu/3121051)
+- Tiebreaker
+  1. [Down - Chosun [Dragon]](https://osu.ppy.sh/beatmapsets/1833547#osu/3764203)
 
 ### Quarter-Finals
 
 **[Download the mappack here! (142MB)](https://drive.google.com/file/d/1z3URi-h3ueWOxNYdGw0g_AHnw7Jniymq/view)**
 
+- NoMod
+  1. [Yuki Hayashi - Concept no Tatakai [NZ no Tatakai]](https://osu.ppy.sh/beatmapsets/1698769#osu/3471158)
+  2. [Aether Realm - Tarot [Final Stand]](https://osu.ppy.sh/beatmapsets/1291247#osu/2680248)
+  3. [hitorie - NONSENSE [Gochisousama]](https://osu.ppy.sh/beatmapsets/1963004#osu/4068544)
+  4. [MYTK - Senkyou [Orientalism (feat. Altai)]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623950)
+  5. [goreshit - Satori De Pon! [Terror]](https://osu.ppy.sh/beatmapsets/1550807#osu/3169031)
+  6. [john - Utage [Dabbe's Hidden Insane]](https://osu.ppy.sh/beatmapsets/1842709#osu/3802071)
+- Hidden
+  1. [BAND-MAID - RINNE [REINCARNATION]](https://osu.ppy.sh/beatmapsets/1193063#osu/2485993)
+  2. [Hana - Kuukirikigaku Shoujo to Shounen no Uta [Mirash & Delis' Collab Extra]](https://osu.ppy.sh/beatmapsets/1164291#osu/2744118)
+  3. [lapix - shime (Extended Mix) [Collab]](https://osu.ppy.sh/beatmapsets/1144604#osu/2389811)
+  4. [Tokyo Jihen - Sounan [deca & fuju's expert]](https://osu.ppy.sh/beatmapsets/1512583#osu/3168251)
+- HardRock
+  1. [Yorushika - Replicant [Everybody out there is a replica]](https://osu.ppy.sh/beatmapsets/1225062#osu/2547849)
+  2. [Se-U-Ra - Qlifact -another- [Icekalt's Extra]](https://osu.ppy.sh/beatmapsets/1224699#osu/2577517)
+  3. [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla [Kujinn's Drip]](https://osu.ppy.sh/beatmapsets/1246447#osu/2590758)
+  4. [$UICIDEBOY$ x GETTER - CHAMPION OF DEATH [EXTRA x MIZUJIN]](https://osu.ppy.sh/beatmapsets/1935146#osu/4036813)
+- DoubleTime
+  1. [Takigawa Alisa - Season [Insane]](https://osu.ppy.sh/beatmapsets/1029865#osu/2153468)
+  2. [-45 - System Sun [Insane]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
+  3. [yanaginagi - Tokohana [Heilia & Atipir's Platonic Collab Insane]](https://osu.ppy.sh/beatmapsets/1798429#osu/3689495)
+  4. [Post Malone, Swae Lee - Sunflower [Insane]](https://osu.ppy.sh/beatmapsets/1450998#osu/3014599)
+- Tiebreaker
+  1. [King Gizzard & The Lizard Wizard - Robot Stop [REDLIGHT (VIP)]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767)
+
 ### Round of 16
 
 **[Download the mappack here! (97MB)](https://drive.google.com/file/d/1-zgElhRN_AyhMexdk2SzmBmSvmJxkFhx/view)**
 
+- NoMod
+  1. [LiSA - Tsumibito [Spiral of Emotions]](https://osu.ppy.sh/beatmapsets/1180614#osu/2461785)
+  2. [Raimukun - Nyarlathotep's Dreamland [Arctic Allegro]](https://osu.ppy.sh/beatmapsets/2012214#osu/4187144)
+  3. [Anba, Fokushi, saint, Lollia, Tsubame - Portrait of the Pirate F [Anata wa shinji raremasu ka?]](https://osu.ppy.sh/beatmapsets/852450#osu/1781806)
+  4. [Raphlesia & BilliumMoto - My Love [Our Expert]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868387)
+  5. [Noah - Heavenly caress [Days of Future Past]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
+  6. [Death Grips - I've Seen Footage [Dada's Special Extra]](https://osu.ppy.sh/beatmapsets/1875441#osu/3859444)
+- Hidden
+  1. [Rita - deficiency [collapse]](https://osu.ppy.sh/beatmapsets/1267545#osu/2634223)
+  2. [Sheena Ringo - Open Secret [Oba]](https://osu.ppy.sh/beatmapsets/1729856#osu/3535284)
+  3. [ak+q - Ignotus [Expert]](https://osu.ppy.sh/beatmapsets/997209#osu/2085958)
+- HardRock
+  1. [Icon For Hire - Cynics & Critics [Extreme]](https://osu.ppy.sh/beatmapsets/296017#osu/664851)
+  2. [Aitsuki Nakuru - Daisan no Shinzou [nakuru]](https://osu.ppy.sh/beatmapsets/1833750#osu/3764586)
+  3. [Function Phantom - Variable [Deluxe]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
+- DoubleTime
+  1. [Vaundy - Hadaka no Yuusha [FuJu's Insane]](https://osu.ppy.sh/beatmapsets/1669880#osu/3424169)
+  2. [Hatsune Miku - Oshiete!! Mahou no Lyric [Insane]](https://osu.ppy.sh/beatmapsets/40669#osu/128931)
+  3. [CHON - Splash [-Kemsyt & Orkay's Insane]](https://osu.ppy.sh/beatmapsets/1570536#osu/3384390)
+- Tiebreaker
+  1. [DJ SHARPNEL - FAKE PROMISE [NISEMONO]](https://osu.ppy.sh/beatmapsets/1604660#osu/3276769)
+
 ### Round of 32
 
-**[Download the mappack here! (MB)]()**
+**[Download the mappack here! (137MB)](https://drive.google.com/file/d/1_EWLhbs2DfBw2UIJpEkJFXskn1680vxz/view?usp=sharing)**
+
+- NoMod
+  1. [Suzuki Konomi - Sky Blue OASIS [Shining]](https://osu.ppy.sh/beatmapsets/1379578#osu/2850709)
+  2. [Xi - Youyoumu ~ Run or Dash [Extra]](https://osu.ppy.sh/beatmapsets/1782703#osu/3650832)
+  3. [Tsukuyomi - Tsuki ga Michiru [Collab Extra]](https://osu.ppy.sh/beatmapsets/1867271#osu/3875735)
+  4. [Middle Idol - Insight [Do Not Fall!]](https://osu.ppy.sh/beatmapsets/1794345#osu/3677660)
+  5. [LeaF - Kyouki Ranbu [Extreme (OD9)]](https://osu.ppy.sh/beatmapsets/1369440#osu/3414749)
+  6. [maki - whiteland calm [Another]](https://osu.ppy.sh/beatmapsets/1740250#osu/3557551)
+- Hidden
+  1. [Rib - Tsukiakari [Yudragen's Expert]](https://osu.ppy.sh/beatmapsets/1688783#osu/3623311)
+  2. [kobasolo - Haru ni Yuraredo Kimi Omou (feat. Kopi) [insane]](https://osu.ppy.sh/beatmapsets/1235937#osu/2577821)
+  3. [Eagle - S!ck [!]](https://osu.ppy.sh/beatmapsets/1286316#osu/2670817)
+- HardRock
+  1. [Alisa Kozhikina - Gravity - Zero [Freedom]](https://osu.ppy.sh/beatmapsets/694185#osu/1640908)
+  2. [Sakuzyo - Erlung [Precision Dance (Corsace Ver.)]](https://osu.ppy.sh/beatmapsets/1824709#osu/3744532)
+  3. [USAO - Knight Rider [Hanori's Extra]](https://osu.ppy.sh/beatmapsets/1550327#osu/3182347)
+- DoubleTime
+  1. [Yousei Teikoku - Torikago [Insane]](https://osu.ppy.sh/beatmapsets/412140#osu/974072)
+  2. [dj TAKA - Colors -sasakure.UK Futurelogic Remix- [Hyper]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
+  3. [CHiCO with HoneyWorks - Sekai wa Koi ni Ochiteiru [Confession]](https://osu.ppy.sh/beatmapsets/549977#osu/1526271)
+- Tiebreaker
+  1. [Nakamura Meiko - Core of Spark [Dash the Heart]](https://osu.ppy.sh/beatmapsets/798420#osu/1676639)
 
 ### Qualifiers
+
+- NoMod
+  1. [Jin feat. MARiA from GARNiDELiA - daze [Let's "Excitement"]](https://osu.ppy.sh/beatmapsets/620132#osu/1307021)
+  2. [m108 - XIII Charlotte [yumenother]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+  3. [POP ART TOWN - i [IROHAKE'S EXTRA]](https://osu.ppy.sh/beatmapsets/1635846#osu/3371358)
+  4. [EmoCo. - This Club is Not 4 U [#3: Seolv's Expert]](https://osu.ppy.sh/beatmapsets/1282123#osu/2663018)
+- Hidden
+  1. [Toyama Nao - Wagon [Departure]](https://osu.ppy.sh/beatmapsets/1669004#osu/3408413)
+  2. [happy30 - As the wind blows [Kyouren x Ascended's Extra]](https://osu.ppy.sh/beatmapsets/1881739#osu/3893986)
+- HardRock
+  1. [YUC'e - Cinderella Syndrome [Affection]](https://osu.ppy.sh/beatmapsets/561693#osu/1187506)
+  2. [ALI - Wild Side [Ayyrage's Another]](https://osu.ppy.sh/beatmapsets/1109683#osu/2371970)
+- DoubleTime
+  1. [Spira Spica - Sansan Days [KoldNoodl's Insane]](https://osu.ppy.sh/beatmapsets/1671373#osu/3423393)
+  2. [Nekrogoblikon - Killing Time (and Space) [Insane]](https://osu.ppy.sh/beatmapsets/1536045#osu/3140773)
 
 **[Download the mappack here! (71MB)](https://drive.google.com/file/d/1fbqRKbfmed0pDuU4srHvRBQcsr4kC9Fy/view)**
 
@@ -191,33 +325,119 @@ Sunday, August 13, 2023:
 
 Thursday, August 3, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| KeitoChan ::{ flag=RO }:: | 3 | **6** | ::{ flag=RO }:: **Korinna** | [#1](https://osu.ppy.sh/community/matches/109815675) |
+
 Saturday, August 5, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AlexBelea** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/109846805) |
+| **ent** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: bossuromaniei | [#1](https://osu.ppy.sh/community/matches/109847281) |
+| **gadzzaa** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Nature angel | [#1](https://osu.ppy.sh/community/matches/109849176) |
+| **Ficus Akishida** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: kRionik | win by default |
+| **HowlPleb** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: IIANTONIOII | [#1](https://osu.ppy.sh/community/matches/109850801) |
+| Chiu ::{ flag=RO }:: | 5 | **6** | ::{ flag=RO }:: **Martin23** | [#1](https://osu.ppy.sh/community/matches/109852747) |
+| **Kehest** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: cristi2708 | [#1](https://osu.ppy.sh/community/matches/109853856) |
 
 Sunday, August 6, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lucrise** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Shrikyun | [#1](https://osu.ppy.sh/community/matches/109864225) |
+| **Razei** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: _Silvian | [#1](https://osu.ppy.sh/community/matches/109864876) |
+| **Kehest** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: gadzzaa | [#1](https://osu.ppy.sh/community/matches/109866325) |
+| **HowlPleb** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: ent | [#1](https://osu.ppy.sh/community/matches/109868902) |
+| Martin23 ::{ flag=RO }:: | 4 | **6** | ::{ flag=RO }:: **AlexBelea** | [#1](https://osu.ppy.sh/community/matches/109869666) |
+| **badeu** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: r0botonic | [#1](https://osu.ppy.sh/community/matches/109869716) |
+
 Monday, August 7, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Korinna ::{ flag=RO }:: | 3 | **6** | ::{ flag=RO }:: **Ficus Akishida** | [#1](https://osu.ppy.sh/community/matches/109885773) |
+
 Tuesday, August 8, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **etn** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: roliy | [#1](https://osu.ppy.sh/community/matches/109896716) |
 
 ### Round of 16
 
 Friday, July 28, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AkakiKN ::{ flag=RO }:: | 1 | **5** | ::{ flag=RO }:: **Korinna** | [#1](https://osu.ppy.sh/community/matches/109723960) |
+| **etn** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: AlexBelea | [#1](https://osu.ppy.sh/community/matches/109724716) |
+
 Saturday, July 29, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \_Nino\_ ::{ flag=RO }:: | 3 | **5** | ::{ flag=RO }:: **bossuromaniei** | [#1](placeholder) |
+| **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Ficus Akishida | [#1](placeholder) |
+| Teikem ::{ flag=RO }:: | 2 | **5** | ::{ flag=RO }:: **cristi2708** | [#1](placeholder) |
+| Asio_ ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: Martin23 | win by default |
+| **r0botonic** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: kRionik | [#1](placeholder) |
+| **_Silvian** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: KeitoChan | [#1](placeholder) |
 
 Sunday, July 30, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Paato ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: kRionik | win by default |
+| **Lernaeus** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: zhuqing | win by default |
+| **badeu** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: gadzzaa | [#1](https://osu.ppy.sh/community/matches/109753712) |
+| valked ::{ flag=RO }:: | 2 | **5** | ::{ flag=RO }:: **Nature angel** | [#1](https://osu.ppy.sh/community/matches/109754628) |
+| Chiu ::{ flag=RO }:: | 2 | **5** | ::{ flag=RO }:: **roliy** | [#1](https://osu.ppy.sh/community/matches/109757400) |
+
 Monday, July 31, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Shrikyun** ::{ flag=RO }:: | **5** | 3 | ::{ flag=RO }:: HowlPleb | [#1](https://osu.ppy.sh/community/matches/109772524) |
+| **Lucrise** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: ent | [#1](https://osu.ppy.sh/community/matches/109774726) |
 
 ### Round of 32
 
 Friday, July 21, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **badeu** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Luminous Sky | [#1](https://osu.ppy.sh/community/matches/109606700) |
+
 Saturday, July 22, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **etn** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: AkakiKN | [#1](https://osu.ppy.sh/community/matches/109621251) |
+| **HowlPleb** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: Nature angel | [#1](https://osu.ppy.sh/community/matches/109622059) |
+| **gadzzaa** ::{ flag=RO }:: | **5** | 4 | ::{ flag=RO }:: IIANTONIOII | [#1](https://osu.ppy.sh/community/matches/109623094) |
+| **Ficus Akihida** ::{ flag=RO }:: | **5** | 4 | ::{ flag=RO }:: Martin23 | [#1](https://osu.ppy.sh/community/matches/109626300) |
+| **KeitoChan** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: zhuqing | [#1](https://osu.ppy.sh/community/matches/109627934) |
 
 Sunday, July 23, 2023:
 
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Asio_ | [#1](https://osu.ppy.sh/community/matches/109638301) |
+| **roliy** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: kRionik | [#1](https://osu.ppy.sh/community/matches/109640366) |
+| **r0botoic** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: \_Nino\_ | [#1](https://osu.ppy.sh/community/matches/109641136) |
+| cristi2708 ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **ent** | [#1](https://osu.ppy.sh/community/matches/109641374) |
+| **_Silvian** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/109642053) |
+
 Monday, July 24, 2023:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kehest** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: bossuromaniei | [#1](https://osu.ppy.sh/community/matches/109653565) |
+| **Lucrise** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Teikem | [#1](https://osu.ppy.sh/community/matches/109655844) |
+| **Chiu** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: Paato | [#1](https://osu.ppy.sh/community/matches/109657517) |
+| **Shrikyun** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: valked | [#1](https://osu.ppy.sh/community/matches/109659241) |
+| Korinna ::{ flag=RO }:: | 4 | **5** | ::{ flag=RO }:: **AlexBelea** | [#1](https://osu.ppy.sh/community/matches/109659502) |
 
 ## Ruleset
 

@@ -77,6 +77,191 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+**[Download the mappack here! (157MB)](https://files.catbox.moe/zw5sb7.zip)**
+
+- NoMod
+  1. [Roselia - Break your desire [Confrontation with Limit]](placeholder)
+  2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu [Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - OWC]](placeholder)
+  3. [Xceon feat. Mayumi Morinaga - Shakunetsu no Utopia [DJ Command Mix] [Normal]](placeholder)
+  4. [Hakushi Hasegawa - Doku [Halgoh & Sharu's Symbiotic Torrent]](placeholder)
+  5. [katagiri - Nyan-Nyan Naughty Night [Showdown]](placeholder)
+  6. [onoken - ZADAMGA [Black Seal]](placeholder)
+- Hidden
+  1. [umu. - humanly [MirashMyMommy Collab]](placeholder)
+  2. [daisan - Deepsea Moonlight [YOKES' EXPERT]](placeholder)
+  3. [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL [oh no my brain is kill]](placeholder)
+  4. [ETIA. - Nihonshiki Koukaku-OukaRanman- [Black Another]](placeholder)
+- HardRock
+  1. [nano - Bull's Eye [Aria]](placeholder)
+  2. [Ax feat. Natsukawa Yoko - Sakimori Renka [EX]](placeholder)
+  3. [raito - Blood Drain -Again- [Halgoh's Etherlite Shift]](placeholder)
+  4. [PUP - DVP [HOBBES2'S EXTREME]](placeholder)
+- DoubleTime
+  1. [Feint - Reprise [Insane]](placeholder)
+  2. [Fractal Dreamers - Gardens Under A Spring Sky [Otomahua's Collab Another]](placeholder)
+  3. [Akatsuki Records - Adieu, to this Lively Graveyard [KIRBY REMIX DELUXE EDITION]](placeholder)
+  4. [-45 - Shoujo-tachi no Majogari [Accusation]](placeholder)
+- Tiebreaker
+  1. [Yooh - RPG [Divinity]](placeholder)
+
+### Finals
+
+**[Download the mappack here! (131MB)](https://files.catbox.moe/6v6bdc.zip)**
+
+- NoMod
+  1. [wowaka - Unhappy Refrain [EX Extreme]](placeholder)
+  2. [Demetori - Fuujin Shoujo [Stage 4]](placeholder)
+  3. [ayaponzu* - Justice Monster [Judgement]](placeholder)
+  4. [BEMANI Sound Team "Expander" - STOIC HYPOTHESIS [the realazy method]](placeholder)
+  5. [cosMo@bousouP feat. Hatsune Miku, GUMI - COLORFUL VOICE [Colorful]](placeholder)
+  6. [Down - Ekoro [Extra]](placeholder)
+- Hidden
+  1. [KikuoHana - Nagaiki no Kamisama [Icekalt's Extra]](placeholder)
+  2. [Daisuke Hasegawa - Uragirimono no Requiem [Gang Star]](placeholder)
+  3. [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) [Beisu Doroppu]](placeholder)
+  4. [P4koo - Forbidden Light [ak74 & Garden's Ultra]](placeholder)
+- HardRock
+  1. [TRUE - Soundscape [Melody]](placeholder)
+  2. [AU - Infinite of nuclear fusion ~Mugen no Taiyou Shinkou~ [Cellina's Extra]](placeholder)
+  3. [MYUKKE. - re[in]flaw [in[co]rect]](placeholder)
+  4. [Drumsound & Bassline Smith - Through The Night feat. Tom Cane [Extra]](placeholder)
+- DoubleTime
+  1. [Wakeshima Kanon - Foul Play ni Kurari [First Love]](placeholder)
+  2. [REDALiCE - Great Nano Desu* [Insane]](placeholder)
+  3. [Utada Hikaru - One Last Kiss [Insane]](placeholder)
+  4. [Dimrain47 - Revolutions [Harder]](placeholder)
+- Tiebreaker
+  1. [WAGAMAMA RAKIA - SURVIVE [I Continue Walking In Hopes Of Another Tomorrow]](placeholder)
+
+### Semi-Finals
+
+**[Download the mappack here! (125MB)](https://files.catbox.moe/0wmq7p.zip)**
+
+- NoMod
+  1. [Aice5 - Be with you [Leaf's Promiss]](placeholder)
+  2. [Aoi - guardina [futur]](placeholder)
+  3. [KINEMA106 - N.M.W [NO MORE WAR]](placeholder)
+  4. [MYUKKE. - ViViTAL MONO [Perennial 2022]](placeholder)
+  5. [Thousand Leaves - Temptation [Alice]](placeholder)
+  6. [NIWASHI - Sapphire On Fire [Expert]](placeholder)
+- Hidden
+  1. [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai [Expert]](placeholder)
+  2. [BUTAOTOME - Towa no Maigo [It was all a dream]](placeholder)
+  3. [Krewella x Diskord - Beggars (Consouls Remix) [Neil x Ameth's Conflux]](placeholder)
+  4. [Hashimoto Miyuki - Yume Miru Mama ni Koi o Shite [Heilia's Extra Koi]](placeholder)
+- HardRock
+  1. [LiSA - Tsumibito [Desire]](placeholder)
+  2. [TOMOSUKE x Jazzin'park - LANA - Kiroku No Kakera (sasakure.UK Framework Remix) - [Fragments in Time]](placeholder)
+  3. [Halogen - U Got That (Camellia's Neurofunk Bootleg) [Real's Extra]](placeholder)
+  4. [Co Shu Nie - Budou [Autumn Blizace]](placeholder)
+- DoubleTime
+  1. [HoneyWorks - Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora) [I LOVE <3]](placeholder)
+  2. [Sayuri - Tsuki to Hanataba [Insane]](placeholder)
+  3. [Rina Sawayama - XS [yaspo's XS]](placeholder)
+  4. [Kozato - Tsuki -Yue- [el psy congroo]](placeholder)
+- Tiebreaker
+  1. [Ariabl'eyeS - Symmetric Rose [Above The Clear Sky]](placeholder)
+
+### Quarter-Finals
+
+**[Download the mappack here! (119MB)](https://drive.google.com/file/d/1hQpKn7au0AYxxKABqHk7hGjoqujXEcLm/view)**
+
+- NoMod
+  1. [LiSA - ID [IGNITION]](placeholder)
+  2. [Prim - Koisuru*Uchuu Sensou!! [<3]](placeholder)
+  3. [MIOYAMAZAKI - Byoushin Zenkai Girl [Collab Expert]](placeholder)
+  4. [Zekk - Freefall [Dive]](placeholder)
+  5. [Diceros Bicornis - ReviveR [the third]](placeholder)
+  6. [Down - DeviousPanda [Gordon's Expert]](placeholder)
+- Hidden
+  1. [TERRA - EDEN [Collab Extra]](placeholder)
+  2. [ALiCE'S EMOTiON - Lorelei [Listen to my voice and come find me]](placeholder)
+  3. [Rain Man Ft. Sirah - Visionary (Consouls DnB Edit) [Na na na na...]](placeholder)
+  4. [HiTECH NINJA - Modelista [Beyond Lv.10]](placeholder)
+- HardRock
+  1. [Ahomushi - Koko wa Doko [DoKo]](placeholder)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B [Another]](placeholder)
+  3. [sakuraburst - SELF DESTRUCT [EXTRA]](placeholder)
+  4. [mafumafu - Moudoku ga Osou [Heart Attack]](placeholder)
+- DoubleTime
+  1. [Yukinoshita Yukino (CV.Hayami Saori) & Yuigahama Yui (CV.Touyama Nao) - Everyday World [Kibbleru's Insane]](placeholder)
+  2. [Endorfin. - Raindrop Caffe Latte [Insane]](placeholder)
+  3. [KNOWER - Overtime [Plaudible's Insane]](placeholder)
+  4. [GaMetal - Level 1 (Silver Surfer) [Alien]](placeholder)
+- Tiebreaker
+  1. [Oreore-Usagi - Reset My Refrain [Reset]](placeholder)
+
+### Round of 16
+
+**[Download the mappack here! (105MB)](https://files.catbox.moe/ykt1gt.zip)**
+
+- NoMod
+  1. [sweet ARMS - Blade of Hope [Eternal Promise]](placeholder)
+  2. [m108 - \* Crow Solace \* [FOUR DIMENSIONS]](placeholder)
+  3. [Nanahoshi Kangengakudan - BUILD AND SCRAP [V.A.S]](placeholder)
+  4. [Expander - diagram [Elite Mapper Regou]](placeholder)
+  5. [LeaF - NANO DEATH!!!!! [(*>w<)/]](placeholder)
+  6. [OSTER project - piano x forte [Fortissimo]](placeholder)
+- Hidden
+  1. [Camellia feat. Nanahira - Hakuraku [Nyquilfj's Collab]](placeholder)
+  2. [AKINO from bless4 - Just Moving On Now [Naosse's Insane]](placeholder)
+  3. [YUC'e - Future Candy (Xignality Remix) (Cut Ver.) [Extra]](placeholder)
+- HardRock
+  1. [Killswitch Engage - My Curse [Broken Love]](placeholder)
+  2. [Sota Fujimori - Mother Ship [EXTREME]](placeholder)
+  3. [DWMw - Shirayama Hime no Kami [Insane]](placeholder)
+- DoubleTime
+  1. [sana - Kokuhaku Rival Sengen [Kibboo's Insane]](placeholder)
+  2. [doriko - Romeo and Cinderella [Light Insane]](placeholder)
+  3. [Hatsuki Yura - Ganbare! Koi no Hana [Shore's Insane]](placeholder)
+- Tiebreaker
+  1. [TRakker - Trail of Dust [Stardust]](placeholder)
+
+### Round of 32
+
+**[Download the mappack here! (110MB)](https://files.catbox.moe/ds1382.zip)**
+
+- NoMod
+  1. [sweet ARMS - Trust in you [Keada's Extra]](placeholder)
+  2. [seatrus x Se-U-Ra - Weiss Schwarz [Monochrome]](placeholder)
+  3. [Sota Fujimori - DANCE ALL NIGHT [Pho's Extra]](placeholder)
+  4. [Culprate & Joe Ford - Gaucho [Extra]](placeholder)
+  5. [UNDEAD CORPORATION - Bleed, hate, curse, and die [Bleed]](placeholder)
+  6. [qfeileadh - breathe [Expert]](placeholder)
+- Hidden
+  1. [Seiryu - BLUE DRAGON [grumd's Extra]](placeholder)
+  2. [ZUN - Year-Round Absorbed Curiosity [Insane]](placeholder)
+  3. [Ryu* - Sakura Reflection (MYTK Remix) [Another]](placeholder)
+- HardRock
+  1. [Sasaki Sayaka - Marine Blue ni Sotte [Yomi's Extra]](placeholder)
+  2. [Yooh - Dynasty [HalLoWeeN's EXHAUST]](placeholder)
+  3. [Rin - Moriya set 08 ReEdit ~ Youkai no Yama [pishi's Lunatic]](placeholder)
+- DoubleTime
+  1. [Misawa Aki - Nostalgia [Nostalgia]](placeholder)
+  2. [Shihori - Day Breaker [Insane orion]](placeholder)
+  3. [Megpoid GUMI - Silver Bullet [Rin]](placeholder)
+- Tiebreaker
+  1. [Chitose Haru & Kumagai Eri - Perfect Free [VINxlni's Duet]](placeholder)
+
+### Qualifiers
+
+**[Download the mappack here! (58MB)](https://files.catbox.moe/femnog.zip)**
+
+- NoMod
+  1. [PassCode - Ray [Lyrien's Extra]](placeholder)
+  2. [Xi - Densetsu no Sabori Shinigami ~ Make a quick escape [Cellina & TD's Collab Extra]](placeholder)
+  3. [Kagemori Michiru (CV: Morohoshi Sumire) - Ready to [tanuki]](placeholder)
+  4. [Camellia feat. Nanahira - POLKAMANIA [LASSE'S POLKANOTHER]](placeholder)
+- Hidden
+  1. [DJ'TEKINA//SOMETHING - You need fxxkin'anthem (Powerless Remix) [Finale]](placeholder)
+  2. [Cle - Broken Moon Remix [hvick225's Ex Stage]](placeholder)
+- HardRock
+  1. [Polskie Stronnictwo Ludowe - Czlowiek jest najwazniejszy [Waldemar Pawlak]](placeholder)
+  2. [Lix - Labyrinth -Black Trance Mix- v2.0 [Six King Labyrinth]](placeholder)
+- DoubleTime
+  1. [Chata - Harukaze Dance [flowers]](placeholder)
+  2. [Fred V - Already Disappeared [Insane]](placeholder)
+
 ## Match results
 
 ### Grand Finals
