@@ -222,7 +222,7 @@ Activa el botón de `Co-op mode` para forzar el modificador del juego *Co-Op* cu
   - Por ejemplo, para un beatmap 4K, usando los modificadores 2K y Co-Op no incurrirá en alguna reducción de puntaje.
   - Respectivamente, para un beatmap 5K, usar un modificador 5K tampoco incurrirá en alguna reducción de puntaje.
   - Usar el modificador xK o Co-Op en beatmaps específicos de osu!mania tampoco incurrirá en alguna reducción de puntaje.
-- La mascota de osu!mania es [Maria](/wiki/Mascots#mani-&-mari).
+- La mascota de osu!mania es [Mari](/wiki/Mascots#mani-&-mari).
 - Cuando [Auto](/wiki/Gameplay/Game_modifier/Auto) juega el beatmap, el nombre del jugador será *osu!topus*.
 
 ### Historia
