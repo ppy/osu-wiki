@@ -55,4 +55,4 @@ Hay cuatro mods que alteran la velocidad de aproximación cuando se activan:
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): El valor de AR no se ve afectado, pero debido al aumento del 50 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % menos de tiempo.
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): El valor de AR no se ve afectado, pero debido a la disminución del 25 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % más de tiempo.
 
-Si bien Half Time y Double Time no cambian el valor de AR, la diferencia de velocidad conduce a un cambio aparente de AR. Las AR de HT/DT se denominan comúnmente en términos de su valor percibido. Por ejemplo, «AR 8 + DT» también se puede escribir como «AR 9,6».
+Si bien Half Time y Double Time no cambian el valor de AR, la diferencia de velocidad conduce a un cambio aparente de AR. El valor de AR de HT/DT se denomina comúnmente en términos de su valor percibido. Por ejemplo, «AR 8 + DT» también se puede escribir como «AR 9,6».
