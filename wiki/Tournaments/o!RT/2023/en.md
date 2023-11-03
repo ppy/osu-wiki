@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (137MB)](https://drive.google.com/file/d/1_EWLhbs2DfBw2UIJpEkJFXskn1680vxz/view?usp=sharing)**
+**[Download the mappack here! (137MB)](https://drive.google.com/file/d/1_EWLhbs2DfBw2UIJpEkJFXskn1680vxz/view)**
 
 - NoMod
   1. [Suzuki Konomi - Sky Blue OASIS [Shining]](https://osu.ppy.sh/beatmapsets/1379578#osu/2850709)
