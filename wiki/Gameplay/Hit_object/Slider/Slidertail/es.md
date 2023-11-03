@@ -1,13 +1,12 @@
 ---
-no_native_review: true
 stub: true
 tags:
   - sliderend
   - final del slider
   - cola del slider
-  - deslizador
+  - slider
 ---
 
 # Slidertail
 
-La *slidertail* o **sliderend**, se refiere a la parte final de un [slider](/wiki/Gameplay/Hit_object/Slider) donde el jugador puede soltar la tecla presionada después de haber seguido un [sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody). Las slidertail solo se encuentran en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!). Los slidertail pueden ser completamente visibles como un círculo o invisibles como parte del sliderbody, dependiendo de la versión que esté usando su [skin](/wiki/Skin). El color de los slidertail está determinado por los colores de combo usados por los mapeadores de un beatmap.
+**Sliderend** o la *cola del slider*, se refiere a la parte final de un [slider](/wiki/Gameplay/Hit_object/Slider) donde el jugador puede soltar la tecla presionada después de haber seguido el [cuerpo del slider](/wiki/Gameplay/Hit_object/Slider/Sliderbody). Las colas de los sliders solo se encuentran en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!). Las colas de los sliders pueden ser completamente visibles como un círculo o invisibles como parte del cuerpo, dependiendo de la versión que está usando tu [skin](/wiki/Skin). El color de las colas de los sliders están determinadas por los colores del combo usados por los mappers de un beatmap.
