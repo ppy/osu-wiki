@@ -5,7 +5,7 @@ tags:
   - camino del slider
   - ruta del slider
   - cuerpo del slider
-  - deslizador
+  - slider
 ---
 
 # Sliderbody
