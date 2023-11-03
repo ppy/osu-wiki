@@ -27,7 +27,7 @@ Consulte la infografía y las fórmulas a continuación para obtener una descrip
                                         X = golpe/recolectado
              p r e e m p t              ↓
 ├───────────────────────┬───────────────┤
-0 %     aparición        100 % opacidad
+0%       aparición        100% opacidad
 ```
 
 El objeto empezará a aparecer cuando `X - preemt` con:
