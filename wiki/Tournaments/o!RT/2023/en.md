@@ -278,7 +278,7 @@ Monday, August 28, 2023:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **etn** ::{ flag=RO }:: | **7** | 3 | Lucrise ::{ flag=RO }:: | [#1](https://osu.ppy.sh/community/matches/110209499) |
+| **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/110209499) |
 
 ### Finals
 
