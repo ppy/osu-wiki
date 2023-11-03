@@ -15,4 +15,4 @@ Los beatmaps necesitan al menos 5 hypes (una barra completa del tren del hype) p
 
 ## Límite
 
-Los usuarios comienzan con 10 hypes. Cada hype de forma independiente tarda una semana en recargarse después de usarse en un beatmap, lo que significa que todos los hypes están disponibles nuevamente después de una semana.
+Los usuarios comienzan con 10 hypes, y se consumen cuando se usan en beatmaps. Cada hype tarda una semana en volver a estar disponible.
