@@ -2,11 +2,11 @@
 no_native_review: true
 ---
 
-# Historia de amado 
+# Historia de Amado 
 
 La categoría de mapa [Amado](/wiki/Beatmap/Category#amados) actualmente está administrada por el [Project Loved](/wiki/Community/Project_Loved). Sin embargo, esto no siempre fue así. Project Loved es el tercer sistema principal que ha promovido mapas a Amado; antes de ella, existían otros métodos para hacerlo, así como largos periodos de estancamiento de la categoría de Amados.
 
-## Solicitud de función (febrero de 2015)
+## Solicitud de función (feb. 2015)
 
 El 2 de febrero de 2015, se publicó la solicitud de función *[Nueva categoría de mapa para buenos conjuntos de mapas no clasificados](https://osu.ppy.sh/community/forums/topics/293841)*. Detalló otra forma fuera del [proceso de clasificación](/wiki/Beatmap_ranking_procedure) para que los mapas tuvieran tablas de clasificación, y rápidamente ganó fuerza a medida que los jugadores mostraban su preocupación por el hecho de que el proceso de clasificación se volviera demasiado estricto y no permitiera que algunos mapas albergaran competencia.
 
@@ -14,7 +14,7 @@ Otra razón por la que esta solicitud se hizo popular es que mapas muy poco conv
 
 A fines de 2016, esta solicitud de función tenía la segunda mayor cantidad de estrellas en la historia del foro con casi 13 000 de prioridad.
 
-## Votación comunitaria (octubre de 2016 - enero de 2017)
+## Votación de la comunidad (oct. 2016 - ene. 2017)
 
 Cuando [Amado se creó por primera vez](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), tenía como objetivo abordar todo en la solicitud de función. Las encuestas fueron abiertas por ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) en los foros donde cualquiera podía ayudar a decidir qué mapas se convertirían en Amados. Los detalles del sistema de votación se explicaron en la publicación de noticia *[Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)*.
 
@@ -22,7 +22,7 @@ Las rondas iniciales de votación tuvieron un gran éxito ya que la comunidad di
 
 Tras los comentarios recibidos durante la cuarta ronda y en [una encuesta general sobre el estado de Amado](https://osu.ppy.sh/community/forums/topics/529407) abierta aproximadamente un mes antes, Ephemeral (y otros miembros del equipo de osu!) decidieron que las votaciones en este formato no serían sostenibles a largo plazo. Apoyó firmemente la idea de usar los favoritos como una métrica para decidir qué mapas se admitirían en Amado.
 
-## Prioridad de estrellas y favoritos (enero de 2017 - junio de 2017)
+## Prioridad de estrellas y favoritos (ene. 2017 - jun. 2017)
 
 Solo unas pocas semanas después de la cuarta ronda de votación de la comunidad, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) publicó [un anuncio](https://osu.ppy.sh/community/forums/topics/549835) que describe el próximo sistema de admisión de Mapas para Amado. En lugar de incluir un conjunto selecto de mapas en las encuestas, todos los mapas se volvieron elegibles para Amado, siempre que tuvieran al menos 30 favoritos y 100 [prioridad de estrellas (SP)](/wiki/Modding/Star_priority).
 
@@ -32,7 +32,7 @@ En el transcurso de la permanencia de este sistema, algunos de los nuevos mapas 
 
 Ephemeral publicó algunas actualizaciones más adelante en su hilo del foro, pero no se tomó ninguna medida y Amado quedó inactivo durante junio de 2017.
 
-## Elección del capitán y Project Loved (septiembre de 2017 - presente)
+## Elección del capitán y Project Loved (sept. 2017 - presente)
 
 El [segundo episodio del programa de entrevistas *Coffee Hour* de osu!](https://www.youtube.com/watch?v=JYLITcBYkC4) presentó a ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802), ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335), y ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) discutiendo el pasado y el futuro de Amado. Cerca del final, Ephemeral sugirió que la votación original de la comunidad podría recuperarse de alguna forma, ya que a la comunidad parecía gustarle más que el sistema de prioridad de estrellas y favoritos, siempre que la selección de mapas fuera buena. La pregunta de cómo elegir esos mapas quedó sin respuesta en este programa.
 

@@ -27,13 +27,13 @@ tags:
 *Peringatan: Menggunakan mod ScoreV2 akan membuat unranked play.*\
 *Untuk informasi mengenai sistem skoring ScoreV2, kunjungi: [ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
-Mod **ScoreV2** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang menggunakan sistem nilai prototipe ScoreV2 sebagai gantinya dari sistem skoring yang digunakan sekarang pada setiap [mode permainan](/wiki/Game_mode). Singkatnya, sistem ScoreV2 mengukur semua nilai skor [hit object](/wiki/Gameplay/Hit_object) ke batas total skor 1 juta pada pengali skor 1.00x (dikecualikan untuk nilai bonus spinner pada [osu!](/wiki/Game_mode/osu!), denden pada [osu!taiko](/wiki/Game_mode/osu!taiko), dan banana yang dikumpulkan pada [osu!catch](/wiki/Game_mode/osu!catch).
+Mod **ScoreV2** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang menggunakan sistem nilai prototipe ScoreV2 sebagai gantinya dari sistem skoring yang digunakan sekarang pada setiap [mode permainan](/wiki/Game_mode). Singkatnya, sistem ScoreV2 mengukur semua nilai skor [hit object](/wiki/Gameplay/Hit_object) ke batas total skor 1 juta pada pengali skor 1.00x (dikecualikan untuk nilai bonus spinner pada [osu!](/wiki/Game_mode/osu!), denden pada [osu!taiko](/wiki/Game_mode/osu!taiko), dan banana yang dikumpulkan pada [osu!catch](/wiki/Game_mode/osu!catch)).
 
 Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 
 ## Trivia
 
-- Mod ScoreV2 diperkenalkan pada 22 Februari 2017 (22/02/2017) versi [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
+- Mod ScoreV2 diperkenalkan pada 22 Februari 2017 (22/02/2017) versi [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

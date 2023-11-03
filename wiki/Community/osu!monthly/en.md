@@ -35,7 +35,7 @@ More information about the first version of the osu!monthly may be found on [JJ'
 
 More information about the second version of the osu!monthly may be found on [the official website](https://osumonthly.com/), which also contains the team listing and production archives.
 
-### Season 3 (2022–present)
+### Season 3 (2022–2023)
 
 | Name | Date of publication |
 | :-- | :-- |

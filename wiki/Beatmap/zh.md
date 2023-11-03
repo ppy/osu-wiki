@@ -10,7 +10,7 @@ tags:
 
 # 谱面
 
-**谱面**（有时候又叫做*谱面集*）通常是一组游戏关卡（称为[难度](#难度)）的集合。每个难度均包含各种各样的[击打物件](/wiki/Gameplay/Hit_object)；此外，绝大多数情况下，谱面中的所有难度均面向一首歌曲。谱面将打包在 [`.osz` 后缀](/wiki/Client/File_formats/Osz_(file_format))的压缩文件中，除上述难度外，还包含如下组件：
+**谱面**（有时候又叫做*谱面集*）通常是一组游戏关卡（称为[难度](#难度)）的集合。每个难度均包含各种各样的[击打物件](/wiki/Gameplay/Hit_object)；此外，绝大多数情况下，谱面中的所有难度均面向一首歌曲。谱面将打包在 [`.osz` 后缀](/wiki/Client/File_formats/osz_(file_format))的压缩文件中，除上述难度外，还包含如下组件：
 
 - 以 MP3 或 Ogg 格式存储的歌曲本身。
 - [背景图片](/wiki/Beatmap/Background)或背景视频，用来装饰游玩区域。
@@ -24,7 +24,7 @@ tags:
 
 *主页面：[难度](/wiki/Beatmap/Difficulty)*
 
-*难度*是一个描述了打击物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
+*难度*是一个描述了打击物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
 
 ## 提交
 

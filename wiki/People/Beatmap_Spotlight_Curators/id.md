@@ -53,7 +53,6 @@ Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim d
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
 - ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
 ### Kurator osu!catch
@@ -62,7 +61,6 @@ Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim d
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
 - ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
@@ -74,7 +72,6 @@ Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim d
 - ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 - ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)

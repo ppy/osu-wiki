@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
+---
+
 # Voulez-vous vraiment demander à peppy ?
 
 Bonjour ! peppy comprend votre envie de le contacter personnellement, mais il vous demande d'abord de comprendre que ce n'est **pas** l'endroit où vous pouvez lui demander de l'aide ou du soutien. Il sépare le support d'osu! des messages personnels et trouve qu'il est difficile de répondre aux MP du forum. Il vous demande donc de choisir l'une des options suivantes :

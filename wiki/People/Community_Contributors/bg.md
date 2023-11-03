@@ -6,7 +6,13 @@ outdated_translation: true
 
 # Сътрудници на общност
 
-![](/wiki/shared/contributor.jpg "Contributor badge")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 **Сътрудниците на общност** са хората, които за своя сметка осигуряват поддръжка към osu! обществото на висока за тях цена - отделеното време, средства и функции, които много от нас смятат за даденост в днешно време. Тези потребители получават значка обозначаваща забележителния им принос към цялото общество.
 

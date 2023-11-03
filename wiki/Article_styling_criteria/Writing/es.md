@@ -23,9 +23,9 @@ Hay algunos casos en los que se permite que el contenido difiera:
 
 Hay dos registros de lenguaje en la wiki: neutral e informal.
 
-El registro neutral es el predeterminado en el wiki.
+El registro neutral es el predeterminado en la wiki.
 
-El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_centre).
+El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro son [preguntas frecuentes](/wiki/FAQ) y [centro de ayuda](/wiki/Help_centre).
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
@@ -136,7 +136,7 @@ Ejemplo:
 17 de septiembre de 2007
 ```
 
-El formato de fecha `DD/MM/AAAA` solo debe usarse en tablas.
+El formato de fecha `D/M/AAAA` solo debe usarse en tablas.
 
 ### Formato de hora
 

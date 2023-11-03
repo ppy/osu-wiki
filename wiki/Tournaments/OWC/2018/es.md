@@ -15,14 +15,14 @@ La **osu! World Cup 2018** (***OWC 2018***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2018-10-13/2018-10-26 |
-| Sorteos | 2018-11-04 (14:00 UTC) |
-| Fase de grupos | 2018-11-10/2018-11-11 |
-| Octavos de final | 2018-11-17/2018-11-18 |
-| Cuartos de final | 2018-11-24/2018-11-25 |
-| Semifinales | 2018-12-01/2018-12-02 |
-| Finales semana 1 | 2018-12-08/2018-12-09 |
-| Finales semana 2 | 2018-12-15/2018-12-16 |
+| Fase de registración | 13/10/2018 - 26/10/2018 |
+| Sorteos | 4/11/2018 (14:00 UTC) |
+| Fase de grupos | 10/11/2018 - 11/11/2018 |
+| Octavos de final | 17/11/2018 - 18/11/2018 |
+| Cuartos de final | 24/11/2018 - 25/11/2018 |
+| Semifinales | 1/12/2018 - 2/12/2018 |
+| Finales semana 1 | 8/12/2018 - 9/12/2018 |
+| Finales semana 2 | 15/12/2018 - 16/12/2018 |
 
 ## Premios
 

@@ -27,7 +27,7 @@ tags:
 
 ## Deskripsi
 
-**Hard Rock** merupakan [mod](/wiki/Gameplay/Game_modifier) yang berfungsi untuk meningkatkan tingkat kesulitan suatu [beatmap](/wiki/Beatmap). Mod ini akan memperkecil ukuran [circle size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size) senilai 30% serta meningkatkan [approach rate (AR)](/wiki/Beatmap/Approach_rate), [health drain (HP)](/wiki/Gameplay/Health), dan [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) yang aktif senilai 40%, dengan nilai yang berbeda-beda untuk setiap mode permainan.
+**Hard Rock** merupakan [mod](/wiki/Gameplay/Game_modifier) yang berfungsi untuk meningkatkan tingkat kesulitan suatu [beatmap](/wiki/Beatmap). Mod ini akan memperkecil ukuran [circle size (CS)](/wiki/Beatmap/Circle_size) senilai 30% serta meningkatkan [approach rate (AR)](/wiki/Beatmap/Approach_rate), [health drain (HP)](/wiki/Beatmap/HP_drain_rate), dan [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) yang aktif senilai 40%, dengan nilai yang berbeda-beda untuk setiap mode permainan.
 
 ### osu!
 
@@ -43,7 +43,7 @@ Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock akan meningkatkan [sl
 
 Ketukan yang dibutuhkan untuk menyelesaikan denden telah ditingkatkan karena peningkatan OD. Oleh karena itu, skor maksimum yang bisa dicapai untuk suatu tingkat kesulitan pada osu!taiko dengan mod Hard Rock lebih besar daripada mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
-Namun, efek ini seringnya tidak signifikan karena setiap hit dalam denden memberikan skor statis 300. Yang mana lebih kecil dari perbedaan skor biasa antara hit `GREAT` dan `GOOD` (550 poin pada 100x kombo atau lebih tinggi).
+Namun, efek ini seringnya tidak signifikan karena setiap hit dalam denden memberikan skor statis 300. Yang mana lebih kecil dari perbedaan skor biasa antara hit GREAT dan GOOD (550 poin pada 100x kombo atau lebih tinggi).
 
 ### osu!catch
 
@@ -59,13 +59,13 @@ Karena mod Hard Rock pada mode osu!catch jauh lebih memengaruhi tingkat kesulita
 
 Pada mode [osu!mania](/wiki/Game_mode/osu!mania), Hard Rock akan meningkatkan nilai HP drain sebesar 40% dan menjadikan timing window yang ada 29% lebih ketat. Meskipun nilai AR juga akan ditampilkan meningkat, hal ini tidak akan mempengaruhi permainan.
 
-Untuk menghitung timing window setelah HR diterapkan, [timing window awal](/wiki/Beatmap/Overall_difficulty) dibagi dengan 1.4. Timing window Rainbow 300 (MAX) tetap tanpa mempedulikan OD, sehingga jendela waktu MAX dengan HR akan selalu ±11,43ms.
+Untuk menghitung timing window setelah HR diterapkan, [timing window awal](/wiki/Beatmap/Overall_difficulty) dibagi dengan 1.4. Timing window PERFECT tetap tanpa mempedulikan OD, sehingga jendela waktu PERFECT dengan HR akan selalu ±11,43ms.
 
 Perlu diketahui bahwa metode penghitungannya berbeda pada [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2).
 
 ## Trivia
 
-- Nama mod Hard Rock diambil dari nama tingkat kesulitan tertinggi yang ada permainan "[Elite Beat Agents](/wiki/iNiS_games)" yang dirilis pada konsol [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS),
+- Nama mod Hard Rock diambil dari nama tingkat kesulitan tertinggi yang ada permainan "[Elite Beat Agents](/wiki/iNiS_games)" yang dirilis pada konsol [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS).
 - Penggunaan mod Hard Rock akan menonaktifkan mod [Easy](/wiki/Gameplay/Game_modifier/Easy) dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

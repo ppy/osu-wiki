@@ -1,8 +1,3 @@
----
-outdated_since: c49f99355af5396e56b08e0f32184568e6a617a4
-outdated_translation: true
----
-
 # Условия получения медалей Beatmap Packs
 
 | Название медали | Условие |
@@ -58,6 +53,15 @@ outdated_translation: true
 | Sound Souler | Пройти все карты из подборки [Sound Souler Pack](https://osu.ppy.sh/beatmaps/packs/2038). |
 | Teminite | Пройти все карты из подборки [Teminite Pack](https://osu.ppy.sh/beatmaps/packs/2042). |
 | VINXIS | Пройти все карты из подборки [VINXIS Pack](https://osu.ppy.sh/beatmaps/packs/2041). |
+| Touhou Pack | Пройти все карты из подборки [Touhou Pack](https://osu.ppy.sh/beatmaps/packs/T106). |
+| ginkiha Pack | Пройти все карты из подборки [ginkiha Pack](https://osu.ppy.sh/beatmaps/packs/A75). |
+| Vocaloid Pack | Пройти все карты из подборки [Vocaloid Pack](https://osu.ppy.sh/beatmaps/packs/T107). |
+| Maduk Pack | Пройти все карты из подборки [Maduk Pack](https://osu.ppy.sh/beatmaps/packs/A77). |
+| Aitsuki Nakuru Pack | Пройти все карты из подборки [Aitsuki Nakuru Pack](https://osu.ppy.sh/beatmaps/packs/A78). |
+| Omoi Pack | Пройти все карты из подборки [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82). |
+| Chill Pack | Пройти все карты из подборки [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
+| Rohi Pack | Пройти все карты из подборки [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
+| Drum & Bass Pack | Пройти все карты из подборки [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T109). |
 | Mappers' Guild Pack I | Пройти все карты из подборки [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Пройти все карты из подборки [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
 | Mappers' Guild Pack III | Пройти все карты из подборки [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689). |

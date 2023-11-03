@@ -1,3 +1,8 @@
+---
+tags:
+  - vcc
+---
+
 # Visual content considerations
 
 As per [Community Rule #5](/wiki/Rules#community-rules), all visual content submitted or uploaded to osu! must be considered as appropriate for an all-ages game.

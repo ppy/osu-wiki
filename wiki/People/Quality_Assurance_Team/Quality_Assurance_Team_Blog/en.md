@@ -1,6 +1,6 @@
 # Quality Assurance Team Blog
 
-The **[Quality Assurance Team Blog](http://osuqat.tumblr.com)**, commonly referred to as the *QAT Blog*, was a semi-regular blog written by members of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team). Beginning in August of 2016, they discussed not only the activities of the QAT, but a variety of other topics spanning osu! gameplay, mapping, modding and the game/community as a whole.
+The **[Quality Assurance Team Blog](https://osuqat.tumblr.com/)**, commonly referred to as the *QAT Blog*, was a semi-regular blog written by members of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team). Beginning in August of 2016, they discussed not only the activities of the QAT, but a variety of other topics spanning osu! gameplay, mapping, modding and the game/community as a whole.
 
 In September of 2017, the QAT blog was discontinued in favour of the *QAT Gazette* series which was posted on the [news feed](https://osu.ppy.sh/home/news). All earlier posts on the blog were retroactively ported to osu!news afterwards.
 

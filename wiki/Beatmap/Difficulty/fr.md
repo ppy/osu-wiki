@@ -15,7 +15,7 @@ tags:
 
 *À ne pas confondre avec [Beatmap](/wiki/Beatmap).*
 
-La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Gameplay/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Client/Beatmap_editor/Timing) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmap/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
+La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/Client/File_formats/osu_(file_format)). Il est composé d'[objets](/wiki/Gameplay/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Client/Beatmap_editor/Timing) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmap/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
 
 Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_setup#difficulté) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
 
@@ -25,7 +25,7 @@ Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses 
 
 ## Niveaux de difficulté
 
-*Voir aussi : [Nom de la difficulté](/wiki/Ranking_criteria/Difficulty_naming)*
+*Voir aussi : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
 
 Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et exigences spécifiques de chacun d'entre eux se trouvent dans les [critères de classement](/wiki/Ranking_criteria) de leur mode respectif.
 
@@ -36,7 +36,6 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -44,8 +43,7 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -54,7 +52,6 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -63,7 +60,6 @@ Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et e
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Difficulté et star rating
 

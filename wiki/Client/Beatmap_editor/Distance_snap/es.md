@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 840467763787a24ac46bdd12d99af1cba9701e49
+---
+
 # Ajuste de distancia
 
 ![Un ejemplo de lo que hace exactamente el espaciado de ritmo.](img/Beatspacing.jpg "Un ejemplo de lo que hace exactamente el espaciado de ritmo.")

@@ -41,7 +41,7 @@ tags:
 
 ### osu!
 
-В [osu!](/wiki/Game_mode/osu!) при включении Easy вдвое снижаются [размер кругов (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size), [скорость появления нот (AR)](/wiki/Beatmap/Approach_rate), [общая сложность (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty) и [потеря здоровья (HP)](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate).
+В [osu!](/wiki/Game_mode/osu!) при включении Easy вдвое снижаются [размер кругов (CS)](/wiki/Beatmap/Circle_size), [скорость появления нот (AR)](/wiki/Beatmap/Approach_rate), [общая сложность (OD)](/wiki/Beatmap/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Beatmap/HP_drain_rate).
 
 ![Геймплей osu! с EZ](img/EZ-comparison-osu.jpg "Сравнение игрового процесса osu! до активации Easy (слева) и после (справа)")
 

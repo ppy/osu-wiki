@@ -597,7 +597,7 @@ Les liens Wiki qui pointent vers un sous-article doivent inclure le nom du dossi
 Les liens Wiki qui pointent vers une section d'un article peuvent utiliser le symbole du signe de section (`§`). Voir l'exemple suivant :
 
 ```markdown
-*Pour les règles de timing, voir : [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*Pour les règles de timing, voir : [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Autres liens osu!

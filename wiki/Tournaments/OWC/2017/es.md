@@ -15,13 +15,13 @@ La **osu! World Cup 2017** (***OWC 2017***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2017-10-13/2017-10-29 |
-| Sorteos | 2017-11-12 (14:00 UTC) |
-| Fase de grupos | 2017-11-18/2017-11-19 |
-| Octavos de final | 2017-11-25/2017-11-26 |
-| Cuartos de final | 2017-12-02/2017-12-03 |
-| Semifinales | 2017-12-09/2017-12-10 |
-| Finales | 2017-12-15/2017-12-17 |
+| Fase de registración | 13/10/2017 - 29/10/2017 |
+| Sorteos | 12/11/2017 (14:00 UTC) |
+| Fase de grupos | 18/11/2017 - 19/11/2017 |
+| Octavos de final | 25/11/2017 - 26/11/2017 |
+| Cuartos de final | 2/12/2017 - 3/12/2017 |
+| Semifinales | 9/12/2017 - 10/12/2017 |
+| Finales | 15/12/2017 - 17/12/2017 |
 
 ## Premios
 

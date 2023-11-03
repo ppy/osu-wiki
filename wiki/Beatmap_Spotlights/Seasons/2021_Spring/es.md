@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,22 +8,22 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 4 de Beatmaps Destacados (Primavera 2021)
+# Temporada 4 de Beatmap Spotlights (Primavera 2021)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 29 abr. 2021 |
-| Sala temporal: Lista de juego A | 3 may. - 10 may. 2021 |
-| Sala temporal: Lista de juego B | 10 may. - 17 may. 2021 |
-| Sala temporal: Lista de juego C | 17 may. - 24 may. 2021 |
-| Sala temporal: Lista de juego D | 24 may. - 31 may. 2021 |
+| Sala temporal: Playlist A | 3 may. - 10 may. 2021 |
+| Sala temporal: Playlist B | 10 may. - 17 may. 2021 |
+| Sala temporal: Playlist C | 17 may. - 24 may. 2021 |
+| Sala temporal: Playlist D | 24 may. - 31 may. 2021 |
 | Descanso | 31 may. - 7 jun. 2021 |
-| Sala temporal: Lista de juego A | 7 jun. - 14 jun. 2021 |
-| Sala temporal: Lista de juego B | 14 jun. - 21 jun. 2021 |
-| Sala temporal: Lista de juego C | 21 jun. - 28 jun. 2021 |
-| Sala temporal: Lista de juego D | 28 jun. - 5 jul. 2021 |
+| Sala temporal: Playlist A | 7 jun. - 14 jun. 2021 |
+| Sala temporal: Playlist B | 14 jun. - 21 jun. 2021 |
+| Sala temporal: Playlist C | 21 jun. - 28 jun. 2021 |
+| Sala temporal: Playlist D | 28 jun. - 5 jul. 2021 |
 | Conclusión de la temporada | 5 jul. 2021 |
 
 ## Salas multijugador semanales
@@ -36,8 +35,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 2. Cada sala multijugador temporal proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego es un subconjunto de la lista completa de beatmaps seleccionados para la temporada actual.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se reproduce 3 veces durante una temporada.
-3. Dentro de una sala temporal, todos compiten por una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala temporal, todos compiten en una tabla de clasificación específica de la sala.
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).

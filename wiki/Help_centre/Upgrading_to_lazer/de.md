@@ -1,9 +1,5 @@
 ---
-tags:
-  - game client
-  - Spiel-Client
-outdated_translation: true
-outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
+no_native_review: true
 ---
 
 # Umstellung auf lazer
@@ -18,6 +14,8 @@ Das Ziel ist, dass diese Version als Update veröffentlicht wird, das die besteh
 
 ## Vergleich der Funktionen
 
+*Für eine liste der Unterschiede in den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+
 Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer im Vergleich zu stable. Beachte, dass sich die Übersicht fortlaufend ändert — im Laufe der Zeit ist das Endziel die Umsetzung aller Features, die den Spielern wichtig sind.
 
 ### Kompatibilität und Leistung
@@ -26,7 +24,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | :-- | :-- | :-- |
 | Windows 8.0 und niedriger | ![Ja][true] | ![Nein][false] |
 | macOS / Linux | ![Teilweise][partial][^wine] | ![Ja][true] |
-| DirectX / Vulkan | ![Teilweise][partial][^compatibility-mode] | ![Nein][false][^coming-soon] |
+| DirectX / Metal | ![Teilweise][partial][^compatibility-mode] | ![Ja][true] |
 | Unterstützung für mobile Geräte | ![Nein][false] | ![Ja][true] |
 | Multithreading-Architektur | ![Nein][false] | ![Ja][true] |
 | Hardware-beschleunigtes Video | ![Nein][false] | ![Ja][true] |
@@ -34,6 +32,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Eigene Rulesets (Spielmodi) | ![Nein][false] | ![Teilweise][partial][^dll] |
 | Deduplizierter Dateispeicher | ![Nein][false] | ![Ja][true][^share-files] |
 | Anpassung des Tablet-Bereichs | ![Nein][false] | ![Ja][true] |
+| Unterstützung für viele Seitenverhältnisse | ![Nein][false] | ![Ja][true] |
 
 ### UI und Skinning
 
@@ -42,22 +41,35 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Skin-Unterstützung | ![Ja][true] | ![Teilweise][partial][^gameplay-only] |
 | Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Nein][false] |
 | Skin im Spiel / Bearbeitung des UI-Layouts | ![Nein][false] | ![Ja][true] |
+| Dynamische, anpassbare Skinning-Komponenten | ![Nein][false] | ![Ja][true] |
 
-### Gameplay und Skinning
+### Interface
+
+| Feature | stable | lazer |
+| :-- | :-- | :-- |
+| Storyboards im Hauptmenü | ![Nein][false] | ![Ja][true][^supporter] |
+| Schwierigkeitsgrade ausblenden | ![Nein][false] | ![Ja][true] |
+| Einrichtungsassistent für den ersten Start | ![Nein][false] | ![Ja][true] |
+| Temporäre Löschung | ![Nein][false] | ![Ja][true][^soft-deletion] |
+| Unmittelbare Einstellungsänderungen während dem Spiel | ![Nein][false] | ![Ja][true] |
+
+### Gameplay
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Akkurate Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
-| Mod zum Anpassen der Schwierigkeit | ![Nein][false] | ![Ja][true][^difficulty-adjust] |
+| Anpassung der Schwierigkeit | ![Nein][false] | ![Ja][true][^difficulty-adjust] |
 | Mod-Voreinstellungen | ![Nein][false] | ![Ja][true] |
 | Einstellungen für Mods | ![Nein][false] | ![Ja][true] |
 | Neue "spaßige" Mods | ![Nein][false] | ![Ja][true] |
 | Combo-Farbennormalisierung[^normalisation] | ![Nein][false] | ![Ja][true] |
 | Halten für HUD | ![Nein][false] | ![Ja][true][^hold-for-hud] |
-| Offset-Kalibrierung | ![Teilweise][partial][^offset-calibration-stable] | ![Ja][true][^offset-calibration-lazer] |
+| Offset-Kalibrierung pro Beatmap | ![Teilweise][partial][^offset-calibration-stable] | ![Ja][true][^offset-calibration-lazer] |
 | osu!-Slider "schlängeln" sich beim Halten | ![Nein][false] | ![Ja][true][^can-disable] |
 | Spielerfreundliches "Notelock" | ![Nein][false] | ![Ja][true][^note-lock] |
-| Zeitabhängige Einfärbung von Notes in osu!mania | ![Nein][false] | ![Ja][true] |
+| Zeitabhängige Einfärbung von Noten in osu! und osu!mania | ![Nein][false] | ![Ja][true] |
+| In Replays vor-/zurückspringen | ![Nein][false] | ![Ja][true] |
+| Durchlaufende Replay-Kommentare wie bei [Niconico](https://de.wikipedia.org/wiki/Nico_Nico_Douga) | ![Ja][true] | ![Nein][false] |
 
 ### Online-Systeme
 
@@ -85,11 +97,14 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
+| osu!-Editor | ![Ja][true] | ![Ja][true] |
 | osu!taiko-Editor | ![Nein][false] | ![Ja][true] |
 | osu!catch-Editor | ![Nein][false] | ![Ja][true] |
 | osu!mania-Editor | ![Ja][true] | ![Ja][true] |
 | Öffne einen Schwierigkeitsgrad als Referenz | ![Ja][true] | ![Nein][false] |
-| SV / Lautstärke pro Objekt | ![Nein][false] | ![Ja][true] |
+| Anpassen der SV / Lautstärke pro Objekt | ![Nein][false] | ![Ja][true] |
+| Festlegen des Kurventyps von Slidern pro Segment | ![Nein][false] | ![Ja][true] |
+| Aufsplittung und Zusammenführung von Slidern | ![Nein][false] | ![Ja][true] |
 | Pattern-Rotation | ![Ja][true] | ![Teilweise][partial][^editor-precise-rotation] |
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
 | Beatmap-Einreichung | ![Ja][true] | ![Nein][false] |
@@ -116,7 +131,7 @@ Aktuell können Beatmaps, Skins, Scores, Replays und Sammlungen in lazer importi
 
 #### Wenn ich meine Beatmaps in lazer importiere, verbrauchen sie dann den doppelten Speicherplatz?
 
-Wenn du sowohl lazer als auch stable auf demselben Laufwerk installiert hast, dann werden [harte Links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) verwendet, um den zusätzlichen Speicherplatz einzusparen.
+Wenn du sowohl lazer als auch stable auf demselben Laufwerk installiert hast, dann werden [harte Links](/wiki/Client/Release_stream/Lazer/File_storage#über-harte-links) verwendet, um den zusätzlichen Speicherplatz einzusparen.
 
 In allen anderen Fällen wird die Einbindung von Beatmaps den doppelten Speicherplatz benötigen.
 
@@ -146,11 +161,13 @@ Scores werden unter "Neuliche Plays" angezeigt, aber noch nicht in "Beste Perfor
 
 #### Wenn ich einen Score in lazer erreiche, wird es dafür dann Performance-Punkte geben?
 
-Für Scores werden die Performance-Punkte bereits berechnet (du kannst das in der Sektion "Neuliche Plays" deines Profils erkennen), aber sie tragen noch nicht zum Gesamtwert bei.
+Der Abschnitt der kürzlichen Spiele auf der Profilseite zeigt die in lazer erreichten Scores mit den berechneten Performance-Punkten an. Die Gesamtanzahl wird dargestellt, sobald man mit der Maus über die Gesamtzahl der regulären Performance-Punkte fährt.
+
+Des Weiteren gibt [lazer.ppy.sh](https://lazer.ppy.sh/home), eine experimentelle Version der osu!-Webseite, alle Punktestände und Ranglisten unter Berücksichtigung von Scores aus lazer an.
 
 #### Verwendet lazer ScoreV2?
 
-Lazer verwendet aktuell eine neue, experimentelle Score-Implementierung, die ähnlich zu ScoreV2 ist, aber nicht die gleiche. Diese Funktion befindet sich noch in der Entwicklung und wir sind auf der Suche nach weiteren Rückmeldungen darüber, wie sie sich in verschiedenen Kontexten anfühlt (Einzelspielermodus, Ranglisten, Turniere etc.).
+Ja, es nutzt ein mit einigen Anpassungen darauf basierendes Punktesystem. Scores aus ScoreV1 werden in naher Zukunft konvertiert.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -246,7 +263,8 @@ Einige Filter in der Beatmap-Auflistung sind nur für Supporter.
 
 Es gibt bereits einige zusätzliche Vorteile:
 
-- Supporter können Playlists erstellen, die länger halten
+- Supporter können Playlists erstellen, die länger halten.
+- Supporter können Storyboards im Hauptmenü spielen lassen.
 
 Wir beabsichtigen, in Zukunft neue Vorteile in das Spiel zu bringen, aber unser Fokus liegt nun auf der Feature-Parität mit stable, also nutze bitte den Kauf deines Supporter-Tags als Möglichkeit, um... die Entwicklung des Spiels voranzutreiben!
 
@@ -264,9 +282,8 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 
 ### Anmerkungen
 
-[^wine]: Mit wine.
+[^wine]: Mit Wine.
 [^compatibility-mode]: DirectX über den Kompatibilitätsmodus.
-[^coming-soon]: Demnächst verfügbar.
 [^dll]: Manuell durch `.dll`-Dateien.
 [^share-files]: Beatmaps und Skins teilen sich Dateien, um Speicherplatz einzusparen.
 [^gameplay-only]: Nur Gameplay.
@@ -280,7 +297,9 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^score-reset-balance]: Scores werden zurückgesetzt, um Fairness zu gewährleisten.
 [^score-reset-isolated]: Scores werden zurückgesetzt, aktuell sind sie von Scores auf stable isoliert.
 [^online-content]: Eingebauter Zugang zu den meisten Online-Inhalten.
-[^direct-supporter]: osu!direct, nur für osu!supporter.
+[^direct-supporter]: Über osu!direct, nur für osu!supporter.
+[^supporter]: nur für osu!supporter.
+[^soft-deletion]: Stelle gelöschte Beatmaps und andere Daten in den Einstellungen wieder her. Löschoperationen sind erst beim Verlassen des Spiels unumkehrbar.
 [^multi-room-max]: Maximal 16 Spieler.
 [^map-only]: Nur die Beatmap.
 [^all-files]: Alle Dateien.
@@ -290,7 +309,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^countdown-timers-stable]: Stelle einen Countdown mit einem Befehl ein, kein automatischer Start.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
 [^queue-modes]: Aktiviere diese Option, damit jeder in einer Lobby neue Beatmaps in die Warteschlange stellen kann, auch bekannt als "host rotate".
-[^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl.
+[^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

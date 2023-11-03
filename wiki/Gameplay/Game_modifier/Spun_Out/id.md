@@ -20,7 +20,7 @@ tags:
 - Tipe: Special
 - Pengali Skor: 0.90x
 - Tombol shortcut default: `C`
-- Caption: `Putaran (spinner) akan diselesaikan secara otomatis.` 
+- Caption: `Putaran (spinner) akan diselesaikan secara otomatis.`
 - Mode permainan yang cocok: ![][osu!]
 
 ## Deskripsi

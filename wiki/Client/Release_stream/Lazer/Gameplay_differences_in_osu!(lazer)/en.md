@@ -125,28 +125,11 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-### Slider head circle follows track snaking when not hit
-
-![](img/moving-slider-head.gif)
-
-When a slider reaches its start time, the slider head will begin to move along the slider track, moving the actual hit target with it. This compares to stable, where the hit target remains at the original location.
-
-This kind of makes sense when you look at it, but adds complexity to computing gameplay (and potentially adds replay errors, especially with higher OD values and slider velocity).
-
-The rationale behind this change is simple: without it, having `Snaking out sliders` enabled becomes very awkward to visualise when a player hits late. Do you leave the original circle in place and delay the outward snaking? How does it catch up to the actual location of the slider ball if so? And on the contrary, if you do not delay the snaking, do you leave the head circle detached from the slider (please no)?
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
-
 ### Slider ends do not contribute to combo nor cause misses
 
 Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
 
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that an S grade always signifies a full combo.
+From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no-miss score always signifies a full combo.
 
 |  |  |
 | :-- | :-: |
@@ -157,7 +140,7 @@ From now on slider ends will only affect score and accuracy, but have no effect 
 
 ### Missing a slider head causes a miss
 
-Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to receive the S grade while having a low max combo.
+Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
 In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
 
@@ -181,7 +164,9 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 ### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at 477 RPM.
+
+This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
 
 |  |  |
 | :-- | :-: |
@@ -318,7 +303,7 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 
 ### Converts no longer have different hit windows
 
-Beatmaps converted from the osu! game mode into osu!mania had a set of hit windows that were not affected by OD.
+In stable, beatmaps converted from the osu! game mode into osu!mania had [different hit windows](/wiki/Gameplay/Judgement/osu!mania).
 
 |  |  |
 | :-- | :-: |
@@ -327,20 +312,9 @@ Beatmaps converted from the osu! game mode into osu!mania had a set of hit windo
 | Intentionally changed | Yes |
 | Needs further consideration | No? |
 
-### Audio rate adjustments affect hit windows in osu!mania
-
-In stable, osu!mania reverts changes to hit windows resulting from applications of DT/HT.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
 ### The Flashlight mod does not have a gradient
 
-<!-- TODO: comparison image  -->
+![](img/mania-flashlight.gif)
 
 |  |  |
 | :-- | :-: |

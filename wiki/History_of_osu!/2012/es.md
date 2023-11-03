@@ -8,7 +8,7 @@ no_native_review: true
 
 ![](img/2012-09_01.jpg "El menú principal de osu! en ese momento")
 
-osu! y su comunidad celebraron el 5to cumpleaños de osu! el 17 de septiembre de 2012. Durante este tiempo, a todos los jugadores se les otorgó el estado de [osu!supporter](/wiki/osu!supporter) durante 24 horas, a partir del 17-09-2012T02:00+08:00, que era el tiempo de lanzamiento original de osu! en 2007. peppy tenía la intención de distribuir una versión anterior de osu! de una forma u otra para la celebración, para que los jugadores puedan experimentar osu! de una época anterior, donde estaban las raíces del programa. Sin embargo, debido a las diferentes versiones del archivo `.dll`, peppy no pudo hacerlo funcionar. Ha dicho que lo hará funcionar algún día.
+osu! y su comunidad celebraron el 5to cumpleaños de osu! el 17 de septiembre de 2012. Durante este tiempo, a todos los jugadores se les otorgó el estado de [osu!supporter](/wiki/osu!supporter) durante 24 horas, a partir del 16/9/2012 (18:00 UTC), que era el tiempo de lanzamiento original de osu! en 2007. peppy tenía la intención de distribuir una versión anterior de osu! de una forma u otra para la celebración, para que los jugadores puedan experimentar osu! de una época anterior, donde estaban las raíces del programa. Sin embargo, debido a las diferentes versiones del archivo `.dll`, peppy no pudo hacerlo funcionar. Ha dicho que lo hará funcionar algún día.
 
 Links:
 

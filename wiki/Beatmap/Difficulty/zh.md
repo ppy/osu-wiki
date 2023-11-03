@@ -15,7 +15,7 @@ tags:
 
 *请勿与[谱面（Beatmap）](/wiki/Beatmap)相混淆。*
 
-谱面中的**难度**是一个以[`.osu` 后缀名](/wiki/Client/File_formats/Osu_(file_format))文本文件存储的游戏关卡。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Client/Beatmap_editor/Timing)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Gameplay/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmap/Star_rating)足以显示难度所具有的挑战性。
+谱面中的**难度**是一个以[`.osu` 后缀名](/wiki/Client/File_formats/osu_(file_format))文本文件存储的游戏关卡。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Client/Beatmap_editor/Timing)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Gameplay/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmap/Star_rating)足以显示难度所具有的挑战性。
 
 据游戏模式、游玩难度、音乐的旋律及给人带来感觉的不同，难度中击打物件所组成的[排列](/wiki/Beatmap/Pattern)不尽相同。谱师可以通过调整多种[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定(difficulty))或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier) 来影响谱面的实际游玩难度。
 
@@ -41,7 +41,6 @@ tags:
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -49,8 +48,7 @@ tags:
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -59,7 +57,6 @@ tags:
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -68,7 +65,6 @@ tags:
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## 谱面星级
 

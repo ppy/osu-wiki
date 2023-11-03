@@ -58,7 +58,7 @@ Este mes se dieron a conocer una gran cantidad de mods nuevos: [Flashlight](/wik
 
 ## Octubre
 
-Se avanzó en la implementación de OpenGL y el próximo debut del modo de juego ([Catch the Beat](/wiki/Game_mode/osu!catch), en un entorno de prueba privado. Muchas de las partes internas de osu! fueron reescritas, lo que equivale a más de 4,000 líneas de código completamente renovado para hacer que los modos de juego sean más modulares para que los modos futuros puedan agregarse más fácilmente. Debido a estos grandes cambios, no hubo lanzamiento público en octubre.
+Se avanzó en la implementación de OpenGL y el próximo debut del modo de juego ([Catch the Beat](/wiki/Game_mode/osu!catch)), en un entorno de prueba privado. Muchas de las partes internas de osu! fueron reescritas, lo que equivale a más de 4000 líneas de código completamente renovado para hacer que los modos de juego sean más modulares para que los modos futuros puedan agregarse más fácilmente. Debido a estos grandes cambios, no hubo lanzamiento público en octubre.
 
 ## Noviembre
 
@@ -66,7 +66,7 @@ Se avanzó en la implementación de OpenGL y el próximo debut del modo de juego
 
 Noviembre vio la introducción de un nuevo modo de juego, Catch the Beat. Debutó la compatibilidad con OpenGL, lo que permitió a osu! poder ejecutarse en la mayoría de los sistemas. Otras características nuevas de esta actualización incluyeron compatibilidad con la lista de amigos en el juego, pestañas de chat privado, un nuevo tutorial/[asistente de compensación](/wiki/Client/Options/Offset_Wizard) y osu!direct (un descargador de mapas en el juego para supporters).
 
-Debido a que las personas con una gran cantidad de mapas se quejaron del tiempo de carga de osu!, peppy pasó incontables días optimizando todo lo posible, lo que resultó en un aumento de rendimiento casi inconmensurable en una escala (más de 9,000). Los tiempos de carga de más de un minuto se redujeron a solo milisegundos.
+Debido a que las personas con una gran cantidad de mapas se quejaron del tiempo de carga de osu!, peppy pasó incontables días optimizando todo lo posible, lo que resultó en un aumento de rendimiento casi inconmensurable en una escala (más de 9000). Los tiempos de carga de más de un minuto se redujeron a solo milisegundos.
 
 ## Diciembre
 

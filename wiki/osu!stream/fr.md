@@ -31,7 +31,7 @@ En 2023, douze ans après sa sortie initiale, osu!stream a finalement été [imp
 - Appuyez et installez osu!stream
   - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, faites-le.
 - osu!stream peut être joué une fois le téléchargement et l'auto-installation terminés.
-  - Il est suggéré de lire également la section "Ajouter des beatmaps" pour obtenir le dernier pack de musiques gratuites. Le téléchargement actuel ne contient que 2 musiques.
+  - Il est suggéré de lire également la section [Ajouter des beatmaps](#ajouter-des-beatmaps) pour obtenir le dernier pack de musiques gratuites. Le téléchargement actuel ne contient que 2 musiques.
 
 ### Méthode USB
 

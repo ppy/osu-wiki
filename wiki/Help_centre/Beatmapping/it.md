@@ -41,6 +41,14 @@ Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitia
 
 **Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#limiti-aumentati).**
 
+## Un altro utente ha ri-caricato un/a contenuto/beatmap di mia proprietà senza il mio consenso, e voglio che la copia che viola i diritti venga rimossa! {id=report-content-dmca}
+
+**Per favore, compila un reclamo DMCA all'indirizzo di posta elettronica [copyright@ppy.sh](mailto:copyright@ppy.sh) come da [policy sul copyright di osu!](/wiki/Legal/Copyright).**
+
+Qualsiasi tipo di contenuto caricato senza permesso può essere gestito come violazione dei diritti d'autore (copyright) se il proprietario originale lo desidera. Per richiedere la rimozione è necessaria una procedura legale al fine di garantire un procedimento equo.
+
+Si prega di **non** inviare segnalazioni usando [il comando `!report` in gioco](/wiki/Reporting_bad_behaviour#in-game-chat) o [il sito web di osu!](/wiki/Reporting_bad_behaviour#website), poiché i membri del [NAT](/wiki/People/Nomination_Assessment_Team) e del [GMT](/wiki/People/Global_Moderation_Team), i quali gestiscono le segnalazioni inviate in questo modo, non sono dotati delle competenze necessarie per gestire questioni legali.
+
 ## Come elimino la mia beatmap? {id=delete-beatmap}
 
 **Il [team di supporto](/wiki/People/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**

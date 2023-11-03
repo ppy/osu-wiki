@@ -28,7 +28,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Горячая клавиша по умолчанию: `D` `D` или `Shift`+`D`
+- Горячая клавиша по умолчанию: `D` `D` или `Shift` + `D`
 - Описание: `ТЫЦ ТЫЦ ТЫЦ ТЫЦ`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Разновидности: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)

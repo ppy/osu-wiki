@@ -1,3 +1,7 @@
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
+---
+
 # Accuracy
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->

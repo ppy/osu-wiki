@@ -44,7 +44,7 @@ Listed below are the properly supported locales for the wiki:
 | `tr.md` | Turkish | Türkçe |
 | `uk.md` | Ukrainian | Українська мова |
 | `vi.md` | Vietnamese | Tiếng Việt |
-| `zh.md` | Chinese (Simplified) | 简体中文 |
+| `zh.md` | Simplified Chinese | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
@@ -550,7 +550,7 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 #### Wiki links
 
-All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
+All links that point to a wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -592,7 +592,7 @@ Wiki links that point to a sub-article should include the parent article's folde
 Wiki links that point to a section of an article may use the section sign symbol (`§`). See the following example:
 
 ```markdown
-*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Other osu! links
@@ -669,7 +669,7 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes.
 
 ### Alternative and title text
 

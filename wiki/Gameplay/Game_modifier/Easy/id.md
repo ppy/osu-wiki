@@ -20,7 +20,7 @@ tags:
 - Jenis: Pengurang Kesulitan
 - Pengali Skor: 0.50x
 - Tombol shortcut: `Q`
-- Deskripsi: 
+- Deskripsi:
   - ![][osu!]: `Mengurangi tingkat kesulitan keseluruhan - lingkaran membesar, HP drain yang lebih kecil, timing window yang lebih toleran, dan lainnya!`
   - ![][osu!taiko]: `Mengurangi tingkat kesulitan map secara umum - not bergerak lebih lambat, serta membutuhkan tingkat akurasi yang lebih rendah.`
   - ![][osu!catch]: `Mengurangi tingkat kesulitan keseluruhan - lingkaran membesar, HP drain yang lebih kecil, timing window yang lebih toleran, dan lainnya!`
@@ -37,7 +37,7 @@ Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengi
 
 ### osu!
 
-Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Client/Beatmap_editor/Song_setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_setup#overall-difficulty), dan [HP drain](/wiki/Client/Beatmap_editor/Song_setup#hp-drain-rate) (HP).
+Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Beatmap/Circle_size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), dan [HP drain (HP)](/wiki/Beatmap/HP_drain_rate).
 
 ![Gameplay EZ pada standard](img/EZ-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
 

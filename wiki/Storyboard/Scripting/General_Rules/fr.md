@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
 # Règles générales pour le storyboarding
 
 ![Un exemple de script en .osb.](img/SBS_Base.jpg "Un exemple de script en .osb.")

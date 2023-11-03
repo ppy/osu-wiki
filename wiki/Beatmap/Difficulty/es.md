@@ -15,7 +15,7 @@ tags:
 
 *No debe confundirse con [Mapa](/wiki/Beatmap).*
 
-La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Client/Beatmap_editor/Timing) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
+La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Client/Beatmap_editor/Timing) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
 
 Los objetos de una dificultad componen [patrones](/wiki/Beatmap/Pattern), que también varían según el modo de juego y establecen el tono para la apariencia general de cómo se debe jugar una dificultad. La jugabilidad de las dificultades del mapa también se puede modificar mediante varias [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) establecidas por el autor del mapa o alternadas por [modificadores del juego](/wiki/Gameplay/Game_modifier).
 
@@ -36,7 +36,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -44,8 +43,7 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -54,7 +52,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -63,7 +60,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Dificultad y clasificación por estrellas
 

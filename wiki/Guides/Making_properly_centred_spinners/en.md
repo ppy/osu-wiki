@@ -2,13 +2,13 @@
 
 [*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
-This guide is probably hard to understand for people with little experience with gimp/photoshop. This guide assumes you know how to (and are able to) turn on/off layers, as well as find some things on your own. If you have questions, you can forum PM and I'll try to help. I'm no good at actually generating content, though, just editing someone else's work.
+This guide is probably hard to understand for people with little experience with GIMP/Photoshop. This guide assumes you know how to (and are able to) turn on/off layers, as well as find some things on your own.
 
 ## How to make symmetrical spinners
 
 It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centred.
 
-First open up your image editor, in this guide [GIMP](https://gimp.org) will be used, since it's free.
+First open up your image editor, in this guide [GIMP](https://gimp.org/) will be used, since it's free.
 
 Make a new document. The template skin is 666x666, and while it's safe to go over that limit, **spinners can cause lots of lag on slow computers, so it's best to make it under that limit**. Make the document 664x664, so that when we are done, we can pad the edges with transparency, which lets osu! know that it can anti-alias the border, rather than make it a straight edge.
 

@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln ([Schwierigkeitsgrade](#schwierigkeitsgrad)), die verschiedene [Hit-Objekte](/wiki/Gameplay/Hit_object) beinhaltet und fast immer einen einzigen Song repräsentiert. Sie enthält ebenfalls andere Komponenten, die alle zusammen in ein Archiv mit [der Erweiterung `.osz`](/wiki/Client/File_formats/Osz_(file_format)) gepackt werden:
+Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln ([Schwierigkeitsgrade](#schwierigkeitsgrad)), die verschiedene [Hit-Objekte](/wiki/Gameplay/Hit_object) beinhaltet und fast immer einen einzigen Song repräsentiert. Sie enthält ebenfalls andere Komponenten, die alle zusammen in ein Archiv mit [der Erweiterung `.osz`](/wiki/Client/File_formats/osz_(file_format)) gepackt werden:
 
 - der Song selbst, gespeichert in den Formaten MP3 oder Ogg.
 - [Hintergrundbilder](/wiki/Beatmap/Background) oder ein Video, das als Spielfeld agiert.
@@ -20,7 +20,7 @@ Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln 
 
 *Hauptartikel: [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)*
 
-Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/Osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
+Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
 
 ## Einreichen
 

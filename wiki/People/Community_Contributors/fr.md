@@ -1,6 +1,17 @@
+---
+outdated_translation: true
+outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
+---
+
 # Contributeurs de la communauté
 
-![](/wiki/shared/contributor.jpg "Badge Contributor")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des services à la communauté d'osu! à grands frais pour eux-mêmes - des outils et des fonctionnalités que beaucoup d'entre nous prennent pour acquis aujourd'hui. Ces utilisateurs reçoivent un badge pour indiquer qu'ils ont fait quelque chose de remarquable pour l'ensemble de la communauté.
 

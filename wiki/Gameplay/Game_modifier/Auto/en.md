@@ -52,7 +52,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect p
 
 ## Trivia
 
-- When watching an Auto replay, the username displayed in the leaderboard will be "osu!."
+- When watching an Auto replay, the username displayed in the leaderboard will be "osu!".
 - After watching an Auto replay, the mod will deselect itself and the user will be forced to reselect the mod if they wish to watch the replay again. This will happen whether or not the replay is watched all the way through.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

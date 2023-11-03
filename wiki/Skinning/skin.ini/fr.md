@@ -1,3 +1,8 @@
+---
+outdated_since: 07485c571fe235c2b0540c0c723fcac805bb6929
+outdated_translation: true
+---
+
 # skin.ini
 
 *Voir également : [skin.ini/Modèle](/wiki/Skinning/skin.ini/Blank)*

@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficulties](#difficulty)) that are composed of various [hit objects](/wiki/Gameplay/Hit_object) and almost always represent a single song. It also includes other components, all packed in an archive with [the `.osz` extension](/wiki/Client/File_formats/Osz_(file_format)):
+A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficulties](#difficulty)) that are composed of various [hit objects](/wiki/Gameplay/Hit_object) and almost always represent a single song. It also includes other components, all packed in an archive with [the `.osz` extension](/wiki/Client/File_formats/osz_(file_format)):
 
 - the song itself, stored in MP3 or Ogg format.
 - [background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
@@ -20,7 +20,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 
 *Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-A *difficulty* is a file with [the `.osu` extension](/wiki/Client/File_formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmap/Star_rating) system is used to visualise a difficulty's skill requirement.
+A *difficulty* is a file with [the `.osu` extension](/wiki/Client/File_formats/osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmap/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 

@@ -26,7 +26,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- 기본 단축키: `D` `D` 또는 `Shift`+`D`
+- 기본 단축키: `D` `D` 또는 `Shift` + `D`
 - 설명: `꺄아아아아아아아아!!`
 - NC를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 같은 계열의 모드: [더블 타임](/wiki/Gameplay/Game_modifier/Double_Time)

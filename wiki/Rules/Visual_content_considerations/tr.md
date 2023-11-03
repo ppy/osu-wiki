@@ -1,5 +1,7 @@
 ---
 outdated_translation: true
+tags:
+  - vcc
 ---
 
 # Görsel içerik hususları

@@ -17,3 +17,4 @@ Index page for all of the osu!mania World Cup series.
 - [osu!mania 7K World Cup 2022](2022_7K)
 - [osu!mania 4K World Cup 2022](2022_4K)
 - [osu!mania 7K World Cup 2023](2023_7K)
+- [osu!mania 4K World Cup 2023](2023_4K)

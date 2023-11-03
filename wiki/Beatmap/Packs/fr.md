@@ -1,46 +1,71 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
-# Beatmap packs
+# Packs de beatmaps
 
-<!-- TODO : nouveaux types de packs, nouveaux miroirs -->
+Un **pack de beatmap** est une archive compressée contenant des [beatmaps](/wiki/Beatmap). Ils peuvent être trouvés sur la [liste des beatmaps packs](https://osu.ppy.sh/beatmaps/packs).
 
-Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/Beatmap/Category#approuvée)).
+Il convient de noter que les packs ont une taille moyenne d'environ 100 Mo et qu'ils contiennent toutes les données disponibles sur la beatmap, y compris les vidéos.
 
-Il est à noter que la plupart des packs ont :
+## Nom du fichier
 
-- Environ ~100MB (Taiko/osu!mania) ou ~200MB (-/Approuvé)
-- Contient des vidéos (si inclus)
+Le nom de fichier d'un pack est basé sur son contenu, sa catégorie et l'ordre de téléchargement. Par exemple, dans un pack de beatmap nommé :
+
+```
+F2 - Rohi Pack.zip
+```
+
+`F2` signifie le deuxième pack dans la catégorie Featured Artist, tandis que `Rohi Pack` fait référence au nom du pack indiqué sur la [liste des beatmaps packs](https://osu.ppy.sh/beatmaps/packs/F2). Ce pack ne contient que les chansons de [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
+
+Certains packs de beatmaps, en particulier dans la catégorie Standard, sont également numérotés par ordre d'envoi. Par exemple, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) est le 1000ème pack contenant des beatmaps [classé](/wiki/Beatmap/Category#classée) pour le mode de jeu [osu!](/wiki/Game_mode/osu!).
 
 ## Catégories
 
-Les packs Beatmaps sont divisés en 4 catégories :
+Les packs de beatmaps sont divisés en 7 catégories avec un indicateur pour les différencier :
 
-| Catégorie | Types de Beatmap |
-| :-- | :-- |
-| Standard | musiques classées ou approuvées |
-| Chart | bimensuel Chart challenge songs |
-| Thème | Thème général des musiques |
-| Basé sur l'Artiste/Album | Basé sur l'Artiste/Album |
+| Indicateur | Catégorie | Type de beatmap |
+| :-: | :-- | :-- |
+| **S** | Standard | Beatmaps [classé](/wiki/Beatmap/Category#classée) ou [approuvé](/wiki/Beatmap/Category#approuvée) |
+| **F** | Featured Artist | Chansons venant des [Featured Artists](/wiki/People/Featured_Artists) |
+| **T** | Tournoi | Mappools des tournois |
+| **L** | Project Loved | Beatmaps choisies par la communauté du [Project Loved](/wiki/Community/Project_Loved) |
+| **R** | Spotlights | Packs de beatmaps défis saisonniers du programme [Beatmap Spotlights](/wiki/Beatmap_Spotlights), anciennement connu sous le nom de *Charts* |
+| **T** | Thème | Beatmaps basés sur un thème particulier |
+| **A** | Artiste/Album | Chansons d'artistes ou d'albums spécifiques |
 
-## Compléter votre liste de musiques
+## Importation
 
-C'est pour ceux qui veulent vraiment *compléter votre liste de musiques* (et pas seulement télécharger vos musiques préférées).
+1. Extrayez l'archive du pack de beatmap téléchargée. Elle devrait contenir un grand nombre de [fichiers `.osz`](/wiki/Client/File_formats/osz_(file_format)).
+2. Déplacez ces fichiers `.osz` dans le dossier `Songs` du répertoire d'installation d'osu! ou sélectionnez les fichiers et glissez-les directement dans la fenêtre du jeu.
+3. Le jeu devrait automatiquement importer les beatmaps et supprimer les fichiers `.osz` originaux. En cas de problème, essayez d'appuyer sur `F5` dans l'[écran de sélection des chansons](/wiki/Client/Interface#song-select) pour retraiter les beatmaps.
 
-Gardez à l'esprit que vous aurez besoin de beaucoup d'espace numérique pour stocker ces beatmaps. Comme les packs de beatmap (et les torrents) se téléchargent aussi avec la vidéo et d'autres éléments skinables de beatmap.
+## Téléchargements alternatifs
 
-### Liste des paquets Beatmap
+*Attention : osu! ne peut pas garantir que les fichiers provenant de sources non officielles sont sûrs, à jour ou complets.*
 
-Téléchargez tous les packs de beatmaps (-/Approuvé/Taiko/osu!mania) de la catégorie **Standard** et nulle part ailleurs. Les packs de beatmaps (-/Approuvé/Taiko/osu!mania) contiendront toutes les musiques des 3 autres catégories.
+Il est recommandé de télécharger directement les packs de beatmap depuis la liste officielle des packs. Cependant, si vous avez des difficultés à télécharger des packs à partir de là, il y a deux alternatives.
 
-Les packs de beatmaps peuvent être trouvés et téléchargés à partir de la : [page collection de beatmaps](https://osu.ppy.sh/beatmaps/packs).
+### Miroirs
 
-### Télécharger via Torrent
+Actuellement, tous les packs de beatmap sont stockés officiellement sur `packs.ppy.sh`. Il existe également des sites miroirs mis en place par d'autres utilisateurs pour des raisons de commodité :
 
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Feuille de calcul Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) par [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+- Ancien stockage avant l'utilisation du domaine `packs.ppy.sh`. (~07/05/2023)
+  - [Lecteur MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) par [Stefan](https://osu.ppy.sh/users/626907)
+- [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) (inactive)
+  - [Site miroir](http://osu.yas-online.net/) par [nanashirei](https://osu.ppy.sh/users/807630)
+
+### Torrents
+
+Pour télécharger des packs de beatmap en masse plutôt qu'un par un manuellement, utilisez des outils de torrenting pour les télécharger depuis l'un des sites ci-dessous :
+
+- [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
+  - [Fichier torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) par [glukki](https://osu.ppy.sh/users/14285150)
+- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (diverses options de téléchargements incluses)
+  - [Fichier torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) par [Elessey](https://osu.ppy.sh/users/4925105)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [PandoTracker](https://pandotracker.me) par [- Pandoro](https://osu.ppy.sh/users/2574057)
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (fermé)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) par [Hiramiya](https://osu.ppy.sh/users/1313441)
+  - [Site web PandoTracker](https://pandotracker.me) par [- Pandoro](https://osu.ppy.sh/users/2574057)
 
-Vous aurez besoin de beaucoup d'espace (et de bande passante) pour télécharger avec torrent tous ces packs.
+Vous aurez besoin de beaucoup d'espace (et de bande passante) pour télécharger via torrent tous les packs.

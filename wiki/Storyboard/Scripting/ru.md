@@ -2,7 +2,7 @@
 
 ![Скриншот сценария сториборда, открытого в "Code - OSS"](img/osb-example.png "Пример сценария сториборда (.osb)")
 
-**Скриптинг** (англ. *storyboard scripting*) — процесс создания [сторибордов](/wiki/Storyboard) путём редактирования файлов [`.osb`](/wiki/Client/File_formats/Osb_(file_format)) и [`.osu`](/wiki/Client/File_formats/Osu_(file_format)). В этих файлах описываются изображения и эффекты, которые [клиент osu!](/wiki/Client) должен отрисовать во время игры.
+**Скриптинг** (англ. *storyboard scripting*) — процесс создания [сторибордов](/wiki/Storyboard) путём редактирования файлов [`.osb`](/wiki/Client/File_formats/osb_(file_format)) и [`.osu`](/wiki/Client/File_formats/osu_(file_format)). В этих файлах описываются изображения и эффекты, которые [клиент osu!](/wiki/Client) должен отрисовать во время игры.
 
 Скриптинг — отличная альтернатива [встроенному редактору сторибордов](/wiki/Client/Beatmap_editor/Design), когда требуется точность или повышенная сложность. С помощью текстовых редакторов — например, [блокнота](https://ru.wikipedia.org/wiki/Блокнот_(программа)), [Notepad++](https://www.notepad-plus-plus.org/) или [Visual Studio Code](https://code.visualstudio.com/), — сторибордеры могут вписывать точные параметры [объектов](Objects) и [команд](Commands) вместо того, чтобы накликивать их в визуальном редакторе. Кроме того, многие сторибордеры [пишут собственные программы](https://ru.wikipedia.org/wiki/Программирование) для генерации сторибордов, которые было бы крайне сложно сделать вручную.
 

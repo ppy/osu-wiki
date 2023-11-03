@@ -21,7 +21,7 @@ Enlaces:
 
 ## Marzo
 
-Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Destacados coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
+Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Spotlights coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
 
 Enlaces:
 

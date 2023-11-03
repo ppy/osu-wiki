@@ -3,6 +3,8 @@ tags:
   - Mapper's Guild
   - MG
   - Gremio
+outdated_translation: true
+outdated_since: 5d13db18f6598dfcac714de1a6c8e76d6a728980
 ---
 
 # Mappers' Guild

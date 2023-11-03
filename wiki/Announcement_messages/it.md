@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: f5e559a24ef9b2e83d05ab9d906d510d616236c9
 no_native_review: true
 tags:
   - announce
@@ -22,7 +24,7 @@ Un **messaggio di annuncio** è un tipo speciale di messaggio utilizzato con lo 
 
 ## Eleggibilità
 
-Per inviare e rispondere ai messaggi di annuncio attraverso il sito web, è necessario essere un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team), del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), o del [gruppo di utenti](/wiki/People/User_group) per gli annunci. Tuttavia, solo i membri del gruppo di utenti per gli annunci possono inviare annunci in chat attraverso l'[osu! API v2](https://docs.ppy.sh).
+Per inviare e rispondere ai messaggi di annuncio attraverso il sito web, è necessario essere un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team), del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), o del [gruppo di utenti](/wiki/People/User_group) per gli annunci. Tuttavia, solo i membri del gruppo di utenti per gli annunci possono inviare annunci in chat attraverso l'[osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Presentare una richiesta
 

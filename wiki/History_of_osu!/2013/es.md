@@ -67,7 +67,7 @@ Links:
 
 - [Esta semana (mes) en osu! – blog de ppy](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
 - [El fin del MAT](https://osu.ppy.sh/community/forums/topics/129165)
-- [Lanzamiento público de osu! (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
+- [Lanzamiento público de osu! (9/2007)](https://osu.ppy.sh/community/forums/topics/130144)
 
 ## Mayo
 
@@ -130,9 +130,9 @@ Links:
 
 ![](img/2013-12_01.jpg "Aparición especial en la Comic Fiesta 2013")
 
-[peppy fue confirmado para la Comic Fiesta 2013 en Malasia los días 21 y 22 de diciembre en el centro de la ciudad de Kuala Lumpur](https://osu.ppy.sh/community/forums/topics/163121). Para el día 1 (21-12-2013), osu! se mostró como un evento de escenario, demostrando el juego en cuatro modos de juego diferentes (osu!, Taiko, Catch the Beat y osu!mania). Para el día 2 (22-12-2013), peppy da una idea de osu! junto con sus futuros planes de actualización en la sala de paneles y mostró la osu!tablet para que el público la probara.
+[peppy fue confirmado para la Comic Fiesta 2013 en Malasia los días 21 y 22 de diciembre en el centro de la ciudad de Kuala Lumpur](https://osu.ppy.sh/community/forums/topics/163121). Para el día 1 (21/12/2013), osu! se mostró como un evento de escenario, demostrando el juego en cuatro modos de juego diferentes (osu!, Taiko, Catch the Beat y osu!mania). Para el día 2 (22/12/2013), peppy da una idea de osu! junto con sus futuros planes de actualización en la sala de paneles y mostró la osu!tablet para que el público la probara.
 
-Uno de los temas candentes de debate en este momento era que peppy estaba creando un nuevo modo de juego y lo estaba probando como una prueba de concepto (probando si es jugable, competitivo o lo suficientemente flexible). Algunos jugadores especulan que fue [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (esquivando el infierno de balas, es decir, lo contrario a [Catch the Beat](/wiki/Game_mode/osu!catch)). Al momento de escribir, no se descubrió mucha información sobre el nuevo modo de juego. [Un vídeoclip sobre la charla estaba en el blog de ppy.](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
+Uno de los temas candentes de debate en este momento era que peppy estaba creando un nuevo modo de juego y lo estaba probando como una prueba de concepto (probando si es jugable, competitivo o lo suficientemente flexible). Algunos jugadores especulan que fue [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (esquivando el infierno de balas, es decir, lo contrario a [Catch the Beat](/wiki/Game_mode/osu!catch)). Al momento de escribir, no se descubrió mucha información sobre el nuevo modo de juego. [Un videoclip sobre la charla estaba en el blog de ppy.](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 
 Links:
 

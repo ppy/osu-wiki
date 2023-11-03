@@ -12,7 +12,7 @@ Todo el sistema de [puntos de rendimiento (pp)](/wiki/Performance_points) se inh
 
 El 1 de marzo de 2014, el rediseño del sistema de puntos de rendimiento realizado por Tom94 en los meses anteriores estaba listo para su puesta en marcha para [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), y [osu!mania](/wiki/Game_mode/osu!mania) como el sistema de clasificación oficial para esos modos, junto con un recordatorio de que el sistema actual aún no estaba terminado al 100%, y aún se necesitaban más comentarios de los jugadores.[^all-game-modes]
 
-A medida que se expandieron los elementos de [skinning](/wiki/Skinning), el elemento `playfield.jpg` quedó en desuso y se reemplazó por uno nuevo genérico que no es modificable. `playfield.jpg` era un elemento que permitía a los skinners usar cualquier imagen como fondo predeterminado de un mapa si no se proporcionaba uno. Esta funcionalidad se introdujo más tarde en forma de `menu-background.jpg`, que cambió tanto la pantalla principal como los fondos predeterminados del campo de juego.[^change-background][^skinning]<!--date needed-->
+A medida que se expandieron los elementos de [skinning](/wiki/Skinning), el elemento `playfield.jpg` quedó en desuso y se reemplazó por uno nuevo genérico que no es modificable. `playfield.jpg` era un elemento que permitía a los skinners usar cualquier imagen como fondo predeterminado de un mapa si no se proporcionaba uno. Esta funcionalidad se introdujo más tarde en forma de `menu-background.jpg`, que cambió tanto la pantalla principal como los fondos predeterminados del campo de juego.[^change-background][^skinning]
 
 ![](img/2014-03_01.jpg "Fondo predeterminado para mapas sin fondos especificados")
 
@@ -30,19 +30,19 @@ El 21 de agosto de 2014, se publicó una [noticia](https://osu.ppy.sh/home/news/
 
 ## Octubre
 
-Octubre trajo un puñado de nuevas incorporaciones al juego base, incluida una nueva pantalla de inicio de sesión y un nuevo sistema para desplazarse en [osu!mania](/wiki/Game_mode/osu!mania) basado en el BPM del mapa, nuevas secuencias de introducción y salida, y un tema musical personalizado que se reproduciría al inicio (a diferencia de un mapa aleatorio).<!--citation needed-->
+Octubre trajo un puñado de nuevas incorporaciones al juego base, incluida una nueva pantalla de inicio de sesión y un nuevo sistema para desplazarse en [osu!mania](/wiki/Game_mode/osu!mania) basado en el BPM del mapa, nuevas secuencias de introducción y salida, y un tema musical personalizado que se reproduciría al inicio (a diferencia de un mapa aleatorio).
 
-Además, [peppy](https://osu.ppy.sh/users/2) también lanzó la compilación "osu!test" (ahora conocida como "Cutting Edge") para todos los jugadores, a diferencia de solo los [osu!supporters](https://osu.ppy.sh/home/support) en un intento de ayudar en los esfuerzos de depuración.<!--citation needed-->
+Además, [peppy](https://osu.ppy.sh/users/2) también lanzó la compilación "osu!test" (ahora conocida como "Cutting Edge") para todos los jugadores, a diferencia de solo los [osu!supporters](https://osu.ppy.sh/home/support) en un intento de ayudar en los esfuerzos de depuración.
 
 ## Referencias
 
-[^ranking-maintenance]: [Publicación de noticia de osu! por peppy (20-01-2014) "Mantenimiento de clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-[^new-perf-ranking]: [Publicación de noticia de osu! por Tom94 (26-01-2014) "Nueva clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
+[^ranking-maintenance]: [Publicación de noticia de osu! por peppy (20/1/2014) "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+[^new-perf-ranking]: [Publicación de noticia de osu! por Tom94 (26/1/2014) "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
 [^pp-article]: [Artículo de la osu! wiki "Puntos de rendimiento"](/wiki/Performance_points)
-[^all-game-modes]: [Publicación de noticia de osu! por Tom94 (01-03-2014) "Clasificación de rendimiento para todos los modos de juego"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
-[^change-background]: [Comentario del foro de osu! (problemas resueltos) por Pawsu (20-12-2015) "[resuelto] Cómo cambiar todos los fondos de mapa"](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
-[^skinning]: [Artículo de la osu! wiki "Historia del Skinning"](/wiki/Skinning/History)
-[^fanart]: [Publicación de noticia de osu! por LuigiHann (03-04-2014) "¡El primer concurso mensual de fanart de osu! finaliza esta semana!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
-[^fanart-results]: [Publicación de noticia de osu! por LuigiHann (21-05-2014) "¡Resultados del primer concurso oficial de fanarts de osu!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
-[^download]: [Publicación de noticia de osu! por peppy (18-06-2014) "Restricciones de descarga eliminadas"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-[^bat]: [Publicación de noticia de osu! por Ephemeral (21-08-2014) "Reestructuración del BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+[^all-game-modes]: [Publicación de noticia de osu! por Tom94 (1/3/2014) "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+[^change-background]: [Comentario del foro de osu! (problemas resueltos) por Pawsu (20/12/2015) "[resolved] How to change all beatmap backgrounds"](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
+[^skinning]: [Artículo de la osu! wiki "Historia de skinning"](/wiki/Skinning/History)
+[^fanart]: [Publicación de noticia de osu! por LuigiHann (3/4/2014) "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
+[^fanart-results]: [Publicación de noticia de osu! por LuigiHann (21/5/2014) "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
+[^download]: [Publicación de noticia de osu! por peppy (18/6/2014) "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+[^bat]: [Publicación de noticia de osu! por Ephemeral (21/8/2014) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)

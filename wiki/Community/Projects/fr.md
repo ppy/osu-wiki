@@ -231,8 +231,6 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 - [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470)—Calcule le nombre de pp bonus d'un utilisateur.
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
-- haitai—Conditions de déblocage pour les [médailles](/wiki/Medals) d'osu!.
-  - [Site](http://haitai.jp/)
 - [Osekai](https://osu.ppy.sh/community/forums/topics/1427698)—Un projet open-source dédié à la création de sites web fortement liés à osu!, comme la liste [des conditions de déblocage des médailles](/wiki/Medals/Unlock_requirements) ou des classements alternatifs.
   - [GitHub](https://github.com/Osekai/osekai) | [Site](https://osekai.net/)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230)—Calcule le score nécessaire pour atteindre un certain niveau.

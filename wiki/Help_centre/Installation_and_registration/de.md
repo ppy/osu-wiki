@@ -15,7 +15,7 @@ tags:
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
 
-Dieser Abschhnitt beschäftigt sich mit Problemen bei der Installation von osu! und dem Erstellen deines eigenen Accounts.
+Dieser Abschnitt beschäftigt sich mit Problemen bei der Installation von osu! und dem Erstellen deines eigenen Accounts.
 
 ## Installation {id=installation}
 

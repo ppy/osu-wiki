@@ -32,7 +32,6 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Playing
 
-- [How to search for and download beatmaps](Searching_and_Downloading_Beatmaps)
 - [How to use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Tablet purchase guide](Tablet_Purchase)
 - [Tutorial for beginners](Beginner's_Tutorial)

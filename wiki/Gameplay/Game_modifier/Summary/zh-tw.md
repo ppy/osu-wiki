@@ -6,11 +6,6 @@ no_native_review: true
 
 *主頁面：[Mod](/wiki/Gameplay/Game_modifier)*
 
-<!-- READ BEFORE EDITING:
-- Mods are listed in order of appearance on the Mod Selection screen.
-  - osu!standard is treated as the default and will be displayed before osu!mania specific mods; with exception to "experimental" mods.
-  - SV2, TP, and DC are listed last because they are considered "experimental". -->
-
 *提醒：在 osu!mania 啟用任何 Mod 都不會有分數加成。*
 
 | Mod | 名稱 (縮寫) | 加成 | 註解 |

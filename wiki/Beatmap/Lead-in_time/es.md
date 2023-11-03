@@ -9,7 +9,7 @@ tags:
 
 *Vea también: [Compensación](/wiki/Offset)*
 
-La **entrada** es la cantidad de tiempo que da el juego para que los jugadores reaccionen antes del primer [objeto](/wiki/Gameplay/Hit_object) de un [mapa](/wiki/Beatmap). Este puede ser personalizado por los [mapeadores](/wiki/Beatmapping) editando el campo `AudioLeadIn` en el [archivo `.osu`](/wiki/Client/File_formats/Osu_(file_format)) en una [dificultad del mapa](/wiki/Beatmap/Difficulty), que contiene la duración de la entrada en milisegundos.
+La **entrada** es la cantidad de tiempo que da el juego para que los jugadores reaccionen antes del primer [objeto](/wiki/Gameplay/Hit_object) de un [mapa](/wiki/Beatmap). Este puede ser personalizado por los [mapeadores](/wiki/Beatmapping) editando el campo `AudioLeadIn` en el [archivo `.osu`](/wiki/Client/File_formats/osu_(file_format)) en una [dificultad del mapa](/wiki/Beatmap/Difficulty), que contiene la duración de la entrada en milisegundos.
 
 ## Comportamiento
 

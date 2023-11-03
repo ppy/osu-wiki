@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0fcccdc4ce529778d14579ab3728ca5c1819d06c
+---
+
 # .osu (文件格式)
 
 **`.osu`** 是一种简单易懂的，用于存储 osu! 谱面难度信息的文件格式。

@@ -1,3 +1,8 @@
+---
+outdated_since: 7c9dcf68279a8926ebc772ee3f62e05dc2eaf77e
+outdated_translation: true
+---
+
 # osu! 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
@@ -15,8 +20,7 @@
 - **物件在 4:3 游玩比例下不能超出屏幕。** 即使物件只有一部分超出屏幕，也会造成读图困难。请测试你的谱面来确认合规。
 - **转盘必须足够长，在开启 Auto 模组时，能至少转出 1000 奖励分。** 更短的转盘不能给玩家提供足够的旋转时长。
 - **谱面必须设置至少两种不同的连击 (Combo) 颜色，除非强制使用默认皮肤。** 任何情况下，连击颜色组不能与谱面的背景图片、故事板、背景视频相混淆。这能保证玩家可以看清所有物件，并避免这些物件凑巧与背景元素相混淆。
-- **请勿在 hitnormal 音效较弱时使用[键盘音](/wiki/Beatmapping/Hitsound#keysound)。** 否则玩家不能获得足够的反馈。
-- **请确保 hitnormal 音效不会与歌曲内的音色过于相似。** 否则玩家不能获得足够的反馈。
+- **所有需要玩家主动点击的物件部分必须至少含有一个足够响、能让玩家听到、不会与歌曲混淆的[音效](/wiki/Beatmapping/Hitsound)。** 否则玩家不能获得足够的反馈。比如，禁止在 hitnormal 音效较弱时，在 hitnormal 中使用[键盘音](/wiki/Beatmapping/Hitsound#keysound)。
 - **请确保 osu! 难度的转谱不会破坏其他模式的星数或 pp 系统。** 在某些情况下，部分 `.osu` 文件转换为其他模式的谱面时会错误地格式化，导致转谱显示出与实际难度不匹配的星数，游玩后也会获得与实际难度不匹配的 pp。
 - **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)...**
   - **...小于 3:30，则最低难度必须低于或等于 Normal。**
@@ -68,7 +72,7 @@
 #### 规定
 
 - **相隔小于等于 1 拍 (1/1) 的物件禁止完全[重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)。**
-- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
+- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
 - **所有滑条必须有清晰可辨的滑条路径。** 不能使用互相重叠的复杂扭曲滑条，以免玩家读图困难。为了确保使用了隐藏滑条尾圆圈皮肤的玩家顺利读图，滑条尾必须清晰易读。
 
 #### 准则
@@ -101,7 +105,7 @@
 #### 规定
 
 - **相隔小于等于 1 拍 (1/1) 的物件禁止完全[重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)。**
-- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
+- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
 - **所有滑条必须有清晰可辨的滑条路径。** 不能使用互相重叠的复杂扭曲滑条，以免玩家读图困难。为了确保使用了隐藏滑条尾圆圈皮肤的玩家顺利读图，滑条尾必须清晰易读。
 
 #### 准则
@@ -142,7 +146,7 @@
 #### 规定
 
 - **相隔小于等于 1/2 拍的物件禁止完全[重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)。** 若滑条路径清晰可见，也允许滑条尾与其他滑条头尾完全重叠。
-- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
+- **禁止使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
 - **所有滑条必须有清晰可辨的滑条路径。** 不能使用互相重叠的复杂扭曲滑条，以免玩家读图困难。为了确保使用了隐藏滑条尾圆圈皮肤的玩家顺利读图，滑条尾必须清晰易读。
   - 允许使用跟随圈 (follow circle) 在游玩时，全程覆盖整个路径的复杂扭曲滑条。此时可认为滑条边界依旧是清晰明显的。
 
@@ -174,7 +178,7 @@
 #### 准则
 
 - **相隔 1/4 拍或者更短的物件不应完全[重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)。** 尤其是在相对简单的 Insane 难度中。
-- **避免使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
+- **避免使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
 - **避免圆圈之间不[重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)的全屏[跳](/wiki/Beatmap/Pattern/osu!/Jump)和大间距[连打](/wiki/Beatmap/Pattern/osu!/Stream)。** 它们主要是 Expert 级别的难度特有的作图手法。
 - **不推荐使用滑条点音效。** 若要使用它们，则需平衡它们的音量(即：比常规的音效轻很多)。非常响，特别是仅仅用了一两次的滑条点音效，会非常违和。
 - **避免折返箭头被前后 1/2 拍的物件完全遮挡。** 这给予玩家足够的反应时间来读出折返箭头。
@@ -196,7 +200,7 @@
 
 #### 准则
 
-- **避免使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
+- **避免使用[箭头方向与滑条返回路径明显不同的折返滑条](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)。** 这种箭头容易让玩家弄错滑条的实际折返方向。
 - **不推荐使用滑条点音效。** 若要使用它们，则需平衡它们的音量(即：比常规的音效轻很多)。非常响，特别是仅仅用了一两次的滑条点音效，会非常违和。
 
 #### 难度设定准则

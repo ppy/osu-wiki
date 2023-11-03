@@ -176,6 +176,7 @@ no_native_review: true
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | 聊天室管理員 |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT、支援團隊 |
+| ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | BAT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |

@@ -5,7 +5,7 @@
 
 “故事板”（Storyboard，简称 sb）是附加在谱面中的一系列动画背景，一般情况下起到装饰作用，有时候也用于指导游戏进行。故事板可以由图片，动画，声音等多部分组成，不过一般情况下都是以图片为主。故事板主要是为了让谱面看起来更华丽，更吸引玩家。这个功能的灵感来源于游戏[押忍！战斗！应援团](/wiki/Disambiguation/Ouendan)。故事板还能根据玩家的表现呈现不同的内容。
 
-故事板通常在谱面文件夹中独立为一份[`.osb` 文件](/wiki/Client/File_formats/Osb_(file_format))，或储存于[`.osu` 文件](/wiki/Client/File_formats/Osu_(file_format))内的 `[Event]` 条目下。因此，可以为[谱面](/wiki/Beatmap)中的不同难度创建对应的故事板。
+故事板通常在谱面文件夹中独立为一份[`.osb` 文件](/wiki/Client/File_formats/osb_(file_format))，或储存于[`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))内的 `[Event]` 条目下。因此，可以为[谱面](/wiki/Beatmap)中的不同难度创建对应的故事板。
 
 ## 制作故事板
 

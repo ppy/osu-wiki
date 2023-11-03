@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
 ---
 
 # Interfaz

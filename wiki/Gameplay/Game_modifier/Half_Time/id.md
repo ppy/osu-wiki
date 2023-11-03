@@ -17,7 +17,7 @@ tags:
 
 - Singkatan: HT
 - Tipe: Pengurang Kesulitan
-- Pengali Skor: 
+- Pengali Skor:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
   - ![][osu!mania]: 0.50x
 - Tombol Shortcut Default: `E`

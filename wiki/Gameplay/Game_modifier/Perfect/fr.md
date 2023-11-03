@@ -6,6 +6,8 @@ tags:
   - game modifier
   - PF
   - modificateur de jeu
+outdated_translation: true
+outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # Le mod Perfect
@@ -43,7 +45,7 @@ L'une des actions suivantes **ne fera pas** redémarrer la beatmap par le mod Pe
 - Obtention d'un score Rainbow 300/MAX dans le mode ([osu!mania](/wiki/Game_mode/osu!mania))
 - Obtention d'un score de 300 (dans le mode osu!mania)
 
-Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode)
+Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode).
 
 ## Le saviez-vous ?
 

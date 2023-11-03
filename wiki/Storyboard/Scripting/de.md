@@ -2,7 +2,7 @@
 
 ![Screenshot eines Storyboard-Skripts, geöffnet in "Code - OSS"](img/osb-example.png "Beispiel eines Storyboard-Skripts (.osb)")
 
-**Storyboard-Scripting** ist der Bearbeitungsprozess von [osu!-Storyboards](/wiki/Storyboard) über ihre [`.osb`](/wiki/Client/File_formats/Osb_(file_format)) und [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) Dateien. Diese Dateien definieren Bilder und Effekte, die der [Spiel-Client](/wiki/Client) in Hintergrundanimationen während dem Spiel anzeigt.
+**Storyboard-Scripting** ist der Bearbeitungsprozess von [osu!-Storyboards](/wiki/Storyboard) über ihre [`.osb`](/wiki/Client/File_formats/osb_(file_format)) und [`.osu`](/wiki/Client/File_formats/osu_(file_format)) Dateien. Diese Dateien definieren Bilder und Effekte, die der [Spiel-Client](/wiki/Client) in Hintergrundanimationen während dem Spiel anzeigt.
 
 Scripting ist eine gängige Alternative zum [Storyboard-Editor](/wiki/Client/Beatmap_editor/Design) des Spiel-Clients, sobald es um Präzision oder Komplexität geht. Mit einem Text-Editor wie beispielsweise [Notepad](https://de.wikipedia.org/wiki/Microsoft_Editor "\"Microsoft Editor\" auf Wikipedia"), [Notepad++](https://www.notepad-plus-plus.org/) oder [Visual Studio Code](https://code.visualstudio.com/) können Storyboarder die exakten Werte von [Objekten](Objects) und [Befehlen](Commands) verändern, anstatt die Bildschirmsteuerung zu verwenden. Viele Storyboarder nutzen auch die [Programmierung](https://de.wikipedia.org/wiki/Programmierung), um Storyboard-Dateien zu erstellen, die manuell nur schwer anzufertigen wären.
 

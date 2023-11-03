@@ -20,7 +20,7 @@ Cet article répertorie toutes les différentes astuces qui apparaissent dans le
 
 Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client/Interface#menu-principal).
 
-- Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/Osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
+- Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
 - Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
 - Appuyez sur `F8`/`F9` partout dans le jeu pour déployer la fenêtre de [chat](/wiki/Client/Interface/Chat_console) !
 - Accédez aux options d'une beatmap en faisant un clic droit dessus ou en cliquant sur `Beatmaps Options` dans l'écran de sélection.

@@ -64,8 +64,8 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | *20/12/2008* | 05/03/2009  | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415)  |
-| ::{ flag=PL }:: [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 05/03/2009  | 06/03/2009  | [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[2\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
+| ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | *20/12/2008* | 05/03/2009 | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415) |
+| ::{ flag=PL }:: [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 05/03/2009 | 06/03/2009 | [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[2\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
 | ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | 06/03/2009 | 16/03/2009 | [\[1\]](https://web.archive.org/web/20090306053814/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/10683) |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 16/03/2009 | 18/03/2009 | [\[1\]](https://osu.ppy.sh/community/forums/topics/11064) |
 | ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | 18/03/2009 | 11/04/2009 | [\[1\]](https://web.archive.org/web/20090318132653/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/11064) |
@@ -142,7 +142,7 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 10/05/2012 | 16/05/2012 | [\[1\]](https://web.archive.org/web/20120513043426/http://osu.ppy.sh/p/playerranking) |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 16/05/2012 | 17/05/2012 | [\[1\]](https://hiphotos.baidu.com/5231jing/pic/item/51216639b13533fa0fd0a793a8d3fd1f40345b2d.jpg) |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 17/05/2012 | 05/06/2012 | [\[1\]](https://web.archive.org/web/20120517131511/http://osu.ppy.sh/p/playerranking) |
-| ::{ flag=PL }:: [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 05/06/2012 | 28/11/2012 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828)  |
+| ::{ flag=PL }:: [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 05/06/2012 | 28/11/2012 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828) |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 28/11/2012 | 28/11/2012 | [\[1\]](https://web.archive.org/web/20210421133539/https://cafe.naver.com/ofclove?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D19485218%2526page%3D12%2526menuid%3D2%2526inCafeSearch%3Dtrue%2526searchBy%3D1%2526query%3D1%25EC%259C%2584%2526includeAll%3D%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526articleid%3D76562%2526referrerAllArticles%3Dfalse%2526commentFocus%3Dtrue) |
 | ::{ flag=PL }:: [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 28/11/2012 | 30/11/2012 | [\[1\]](https://web.archive.org/web/20210421133539/https://cafe.naver.com/ofclove?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D19485218%2526page%3D12%2526menuid%3D2%2526inCafeSearch%3Dtrue%2526searchBy%3D1%2526query%3D1%25EC%259C%2584%2526includeAll%3D%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526articleid%3D76562%2526referrerAllArticles%3Dfalse%2526commentFocus%3Dtrue) |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 30/11/2012 | *16/01/2013* | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp) |
@@ -166,7 +166,7 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) | *24/11/2013* | 20/01/2014 | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/) |
-| *Vacant* | 20/01/2014 | 27/01/2014 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
+| *Vacant* | 20/01/2014 | 27/01/2014 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance) |
 | ::{ flag=JP }:: [rrtyui](https://osu.ppy.sh/users/352328) | 27/01/2014 | 20/06/2014 | [\[1\]](https://osu.ppy.sh/community/forums/topics/181850) [\[2\]](https://web.archive.org/web/20140209113240/https://osu.ppy.sh/p/pp) [\[3\]](https://ameobea.me/osutrack/user/rrtyui/) |
 | ::{ flag=KR }:: [sayonara-bye](https://osu.ppy.sh/users/713266) | 20/06/2014 | 17/08/2014 | [\[1\]](https://web.archive.org/web/20140626074730/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/sayonara-bye/) [\[3\]](https://osu.ppy.sh/community/forums/topics/219054) [\[4\]](https://web.archive.org/web/20210213224518/https://old.reddit.com/r/osugame/comments/28j2pi/sayonarabye_passed_snowwhite_in_pp/) |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 17/08/2014 | *06/02/2015* | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
@@ -204,7 +204,7 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 | ::{ flag=KR }:: [firebat92 (*AngeLMegumin*)](https://osu.ppy.sh/users/1777162) | 11/10/2016 | 18/10/2016 | [\[1\]](https://web.archive.org/web/20161011005428/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/firebat92) |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 18/10/2016 | 20/10/2016 | [\[1\]](https://web.archive.org/web/20161018110255/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) |
 | ::{ flag=KR }:: [firebat92 (*Angelsim*)](https://osu.ppy.sh/users/1777162) | 20/10/2016 | 21/10/2016 | [\[1\]](https://web.archive.org/web/20210119085415/https://old.reddit.com/r/osugame/comments/58gmoh/angelsims_back_to_1/) |
-| ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 21/10/2016 | 21/10/2016 |  [\[1\]](https://web.archive.org/web/20161021090628/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) |
+| ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 21/10/2016 | 21/10/2016 | [\[1\]](https://web.archive.org/web/20161021090628/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) |
 | ::{ flag=KR }:: [firebat92 (*Angelsim*)](https://osu.ppy.sh/users/1777162) | 21/10/2016 | 23/10/2016 | [\[1\]](https://web.archive.org/web/20161021202725/https://osu.ppy.sh/p/pp) [\[2\]](https://web.archive.org/web/20210119085512/https://old.reddit.com/r/osugame/comments/58muhj/angelsim_is_now_1_again/) |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 23/10/2016 | *21/01/2018* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 

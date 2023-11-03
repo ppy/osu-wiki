@@ -8,13 +8,13 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### Gameplay
 
@@ -52,9 +52,9 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Futsuu.
-  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Muzukashii.
-  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Oni.
+  - **...lower than 3:30**, the lowest difficulty cannot be harder than a Futsuu.
+  - **...between 3:30 and 4:15**, the lowest difficulty cannot be harder than a Muzukashii.
+  - **...between 4:15 and 5:00**, the lowest difficulty cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 - **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
@@ -93,7 +93,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+- **At least 1 rest moment that is 3/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
@@ -118,7 +118,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 2/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+- **At least 1 rest moment that is 2/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
@@ -137,11 +137,11 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Finisher notes must not be used in any 1/4 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
 - **Notes must be at least 1/6 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
+- **1/4 patterns must not be longer than five notes.** Anything longer is too straining for the target audience of this difficulty level.
 
 #### Guidelines
 
 - **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
-- **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **At least 1 rest moment that is 3/2 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using at least 3 consecutive rest moments that are 1/1 is an acceptable substitute if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.

@@ -20,7 +20,7 @@ Depending on the type of an offset, they are either set by the beatmap creator, 
 
 ## Beatmap settings
 
-*Note: Lead-in and video offsets are only editable through [beatmap file editing](/wiki/Client/File_formats/Osu_(file_format)).*
+*Note: Lead-in and video offsets are only editable through [beatmap file editing](/wiki/Client/File_formats/osu_(file_format)).*
 
 - Countdown offset, a setting which affects the time of appearance of the [countdown](/wiki/Beatmap/Countdown) before the first hit object, measured in [beats](/wiki/Music_theory/Beat).
 - [Lead-in](/wiki/Beatmap/Lead-in_time), an additional period of delay before the beatmap starts.

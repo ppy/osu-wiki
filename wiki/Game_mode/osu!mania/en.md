@@ -1,4 +1,6 @@
-<!-- TODO: check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away -->
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away
+---
 
 # osu!mania
 

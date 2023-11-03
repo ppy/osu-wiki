@@ -3,6 +3,7 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
+outdated: true
 ---
 
 # Diskusi beatmap

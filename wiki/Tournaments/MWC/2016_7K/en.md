@@ -45,6 +45,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ::{ flag=PL }:: [-Kamikaze-](https://osu.ppy.sh/users/2124783), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) |
+| Mapper | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) |
 | Streamer | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentator | ::{ flag=US }:: [Azlynn](https://osu.ppy.sh/users/7016667), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=SG }:: [DJNightmare](https://osu.ppy.sh/users/70909), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |

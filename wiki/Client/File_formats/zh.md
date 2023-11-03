@@ -4,11 +4,11 @@
 
 | 文件格式 | 媒体类型 (MIME type) | 用途 |
 | :-- | :-- | :-- |
-| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
-| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
-| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
-| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
-| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
+| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
+| [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
+| [.osu](/wiki/Client/File_formats/osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
+| [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
+| [.osr](/wiki/Client/File_formats/osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
 
 ## 创建 .osz 和 .osk 文件
 

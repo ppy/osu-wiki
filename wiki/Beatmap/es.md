@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego ([dificultades](#dificultad)) que se componen de varios [objetos](/wiki/Gameplay/Hit_object) y casi siempre representan una sola canción. También incluye otros componentes, todos empaquetados en un archivo con [la extensión .osz](/wiki/Client/File_formats/Osz_(file_format)):
+Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego ([dificultades](#dificultad)) que se componen de varios [objetos](/wiki/Gameplay/Hit_object) y casi siempre representan una sola canción. También incluye otros componentes, todos empaquetados en un archivo con [la extensión .osz](/wiki/Client/File_formats/osz_(file_format)):
 
 - la canción en sí, almacenada en formato MP3 u OGG.
 - [imágenes de fondo](/wiki/Beatmap/Background) o un vídeo, actuando como campo de juego.
@@ -20,7 +20,7 @@ Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego
 
 *Artículo principal: [Dificultad](/wiki/Beatmap/Difficulty)*
 
-Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/Osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
+Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
 
 ## Envío
 

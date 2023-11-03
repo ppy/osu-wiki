@@ -14,13 +14,13 @@ La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por pa
 
 | Evento | Fecha y Hora |
 | --: | :-- |
-| Inscripciones | 11-20 Abr 2014 |
-| Sorteos | 3 May 2014 (14:00 UTC) |
-| Fase de grupos | 17 May 2014 |
-| Octavos de final | 24 May 2014 |
-| Cuartos de final | 1 Jun 2014 |
-| Semifinales | 8 Jun 2014 |
-| Final | 15 Jun 2014 |
+| Inscripciones | 11/4/2014 - 20/4/2014 |
+| Sorteos | 3/5/2014 (14:00 UTC) |
+| Fase de grupos | 17/5/2014 |
+| Octavos de final | 24/5/2014 |
+| Cuartos de final | 1/6/2014 |
+| Semifinales | 8/6/2014 |
+| Final | 15/6/2014 |
 
 ## Premios
 

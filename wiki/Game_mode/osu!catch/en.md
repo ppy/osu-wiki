@@ -1,4 +1,6 @@
-<!-- TODO: needs a grammar/style check -->
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, needs a grammar/style check
+---
 
 # osu!catch
 

@@ -17,7 +17,7 @@ tags:
 
 这些提示出现在[主菜单](/wiki/Client/Interface#主菜单)的正下方。
 
-- 添加新[谱面](/wiki/Beatmap)的方法： 把 [`.osz` 文件](/wiki/Client/File_formats/Osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
+- 添加新[谱面](/wiki/Beatmap)的方法： 把 [`.osz` 文件](/wiki/Client/File_formats/osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
 - 当你在有大量谱面的[选歌界面](/wiki/Client/Interface#选歌界面)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。

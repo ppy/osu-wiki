@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
+---
+
 # Interface
 
 Cet article explique tout ce que vous devez savoir sur l'utilisation du client d'osu!. Vous y trouverez des informations sur l'écran de sélection des beatmaps, l'affichage des classements ainsi que l'écran des résultats. Lorsque vous démarrez le client, vous pouvez voir l'écran suivant :

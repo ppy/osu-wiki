@@ -22,7 +22,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Default shortcut key: `F`
-  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` or `Shift`+`F`
+  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` or `Shift` + `F`
 - Caption:
   - ![][osu!]: `Play with no approach circles and fading notes for a slight score advantage.`
   - ![][osu!taiko]: `The notes fade out before you hit them!`
@@ -71,7 +71,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inver
 
 - The Hidden mod debuted in Ouendan 2, which was the second Japanese DS game in the [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) series (the series that osu! is based on).
 - If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
-- By default, in [osu!](/wiki/Game_mode/osu!) the first [hit object](/wiki/Gameplay/Hit_object)'s [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) will be temporarily visible at the start of a map so as to help players better gauge when to tap said hit object. This may be turned off in the Options under `Gameplay`.
+- By default, in [osu!](/wiki/Game_mode/osu!) the first [hit object](/wiki/Gameplay/Hit_object)'s [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) will be temporarily visible at the start of a map so as to help players better gauge when to tap said hit object. This may be turned off in the [options](/wiki/Client/Options) under `Gameplay`.
 - In osu!mania, the Hidden mod is a variant of the [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod.
 - The current version of the Hidden mod in osu!mania used to be a separate mod called [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out).
 

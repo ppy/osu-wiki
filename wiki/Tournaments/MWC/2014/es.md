@@ -12,14 +12,14 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 | Evento | Marca de tiempo |
 | :-- | :-- |
-| Inscripciones | 1-20 Jul 2014 |
-| Sorteos | 2 Ago 2014 |
-| Fase de grupos (4K) | 9-10 Ago 2014 |
-| Fase de grupos (7K) | 16-17 Ago 2014 |
-| Octavos de final | 23-24 Ago 2014 |
-| Cuartos de final | 31 Ago 2014 |
-| Semifinales | 7 Sep 2014 |
-| Final/3er puesto | 14 Sep 2014 |
+| Inscripciones | 1/7/2014 - 20/7/2014 |
+| Sorteos | 2/8/2014 |
+| Fase de grupos (4K) | 9/8/2014 - 10/8/2014 |
+| Fase de grupos (7K) | 16/8/2014 - 17/8/2014 |
+| Octavos de final | 23/8/2014 - 24/8/2014 |
+| Cuartos de final | 31/8/2014 |
+| Semifinales | 7/9/2014 |
+| Finales | 14/9/2014 |
 
 ## Premios
 

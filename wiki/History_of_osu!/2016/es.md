@@ -10,7 +10,7 @@ no_native_review: true
 
 ## Febrero
 
-**En febrero se agregaron dos artículos nuevos a la osu!store: la osu! taza y el osu! go.** La primera era una taza de café típica con diseños personalizados de osu! en ella ($15 USD en el lanzamiento), mientras que el último era una memoria USB precargada con el cliente de osu!, capaz de jugar osu! directamente de él ($50 USD en el lanzamiento).[^osu-weekly-48][^osu-go-post]<!--dates missing-->
+**En febrero se agregaron dos artículos nuevos a la osu!store: la osu! taza y el osu! go.** La primera era una taza de café típica con diseños personalizados de osu! en ella ($15 USD en el lanzamiento), mientras que el último era una memoria USB precargada con el cliente de osu!, capaz de jugar osu! directamente de él ($50 USD en el lanzamiento).[^osu-weekly-48][^osu-go-post]
 
 ![](img/osu-mug-osu-go.jpg "La osu! taza con un diseño chibi de pippi (izquierda) y el osu!go (derecha)")
 
@@ -38,7 +38,7 @@ Además, en respuesta a la reacción violenta de la comunidad, Ephemeral prometi
 
 ## Abril
 
-**El panel de modeo en el nuevo sitio web de osu! (new.ppy.sh) se puso en marcha para pruebas públicas el 11 de abril de 2016**. Sin embargo, la prueba solo estuvo disponible para [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) y [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Según [Loctav](https://osu.ppy.sh/users/71366), la idea principal del panel era dividir los problemas en publicaciones separadas y luego discutirlas individualmente para facilitar el seguimiento de los problemas y como parte de los pasos hacia la implementación del tan esperado "Modding V2".[^mv2-feedback-thread]<!--wayback snapshot broken-->
+**El panel de modeo en el nuevo sitio web de osu! (new.ppy.sh) se puso en marcha para pruebas públicas el 11 de abril de 2016**. Sin embargo, la prueba solo estuvo disponible para [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) y [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Según [Loctav](https://osu.ppy.sh/users/71366), la idea principal del panel era dividir los problemas en publicaciones separadas y luego discutirlas individualmente para facilitar el seguimiento de los problemas y como parte de los pasos hacia la implementación del tan esperado "Modding V2".[^mv2-feedback-thread]
 
 **Se agregaron nuevos diseños de medallas a osu! el 14 de abril de 2016.**[^medals-showcase-yt] Pretendían estar más en línea con la filosofía de diseño de "[osu!next](https://osunext.tumblr.com/about)" que se usó en el [nuevo cliente de osu!](/wiki/Client/Release_stream/Lazer) (nombre en código "lazer") y en el nuevo sitio web.[^osu-weekly-57][^apr-15-changelog]
 
@@ -78,7 +78,7 @@ La recepción de la comunidad hacia este cambio fue en general mayormente positi
 
 **El 18 de julio de 2016 se anunció un nuevo concurso que desafiaba a la comunidad a crear un nuevo diseño de mascota para osu!taiko que reemplazaría a pippidon, la antigua mascota.** El diseño del ganador del concurso sería aceptado formalmente como la mascota oficial de osu!taiko, recibiría un título de usuario de **osu!artist**, 12 meses de osu!supporter y $50 USD de crédito en la osu!store. La fecha límite establecida para las inscripciones fue el 16 de agosto de 2016 (00:00 UTC).[^news-osu-mascot-design-contest]
 
-**Los cambios en la forma en que se otorgaron los premios para los torneos se realizaron y anunciaron el 24 de julio de 2016.** Debido a la creciente cantidad de torneos administrados por la comunidad que comenzaron en ese momento, el equipo de osu! consideró que un sistema de créditos que pudieran intercambiarse por tags de osu!supporter sería más útil y más fácil de seguir para los planificadores del torneo y los jugadores. Los créditos otorgados a los concursantes se registrarían en una Hoja de Google proporcionada.[^osu-weekly-70]<!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
+**Los cambios en la forma en que se otorgaron los premios para los torneos se realizaron y anunciaron el 24 de julio de 2016.** Debido a la creciente cantidad de torneos administrados por la comunidad que comenzaron en ese momento, el equipo de osu! consideró que un sistema de créditos que pudieran intercambiarse por tags de osu!supporter sería más útil y más fácil de seguir para los planificadores del torneo y los jugadores. Los créditos otorgados a los concursantes se registrarían en una Hoja de Google proporcionada.[^osu-weekly-70]
 
 ## Agosto
 
@@ -151,32 +151,32 @@ A pesar de las primeras adiciones, se recordó a los usuarios que el nuevo estad
 
 ## Referencias
 
-[^osu-weekly-47]: [Publicación de noticia por Nyquill (09-02-2016) "osu!weekly #47"](https://osu.ppy.sh/home/news/2016-02-09-osuweekly-47)
+[^osu-weekly-47]: [Publicación de noticia por Nyquill (9/2/2016) «osu!weekly #47»](https://osu.ppy.sh/home/news/2016-02-09-osuweekly-47)
 [^jan-28-changelog]: [Registro de cambios de Cutting Edge 20160128](https://osu.ppy.sh/home/changelog/cuttingedge/20160128)
-[^mapset-restructure-proposal]: [Hilo del foro por ztrot (13-02-2016) "Reestructuración de Mapset y Spread (Propuesta)"](https://osu.ppy.sh/community/forums/topics/420223)
-[^meet-ephemeral]: [Publicación de blog por ppy (17-02-2016) "¡Conoce a Ephemeral!"](https://blog.ppy.sh/post/139478794378/meet-ephemeral)
-[^mv2-timeline-doc]: [Documento de Google por Ephemeral (17-02-2016) "Cronología de los eventos relacionados con los cambios recientes"](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
-[^osu-weekly-48]: [Publicación de noticia por Nyquill (16-02-2016) "osu!weekly #48"](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
-[^osu-go-post]: [Hilo del foro por DW10 (26-02-2016) "¿osu!go no vale la pena?"](https://osu.ppy.sh/community/forums/topics/425108)
-[^meeting-notes-2016-feb]: [Publicación de blog por ppy (01-03-2016) "Notas de la reunión 02-2016"](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
-[^mv2-feedback-thread]: [Hilo del foro por Loctab (11-04-2016) "Modding v2: Panel de modeo - Hilo de retroalimentación"](https://osu.ppy.sh/community/forums/topics/442285)
-[^osu-weekly-57]: [Publicación de noticia por Nyquill (20-04-2016) "osu!weekly #57"](https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57)
+[^mapset-restructure-proposal]: [Hilo del foro por ztrot (13/2/2016) «Mapset and Spread Restructure (Proposed)»](https://osu.ppy.sh/community/forums/topics/420223)
+[^meet-ephemeral]: [Publicación de blog por ppy (17/2/2016) «Meet Ephemeral!»](https://blog.ppy.sh/post/139478794378/meet-ephemeral)
+[^mv2-timeline-doc]: [Documento de Google por Ephemeral (17/2/2016) «Timeline of Events Surrounding Recent Changes»](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
+[^osu-weekly-48]: [Publicación de noticia por Nyquill (16/2/2016) «osu!weekly #48»](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+[^osu-go-post]: [Hilo del foro por DW10 (26/2/2016) «osu!go not worth it?»](https://osu.ppy.sh/community/forums/topics/425108)
+[^meeting-notes-2016-feb]: [Publicación de blog por ppy (9/3/2016) «2016-02 meeting notes»](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
+[^mv2-feedback-thread]: [Hilo del foro por Loctab (11/4/2016) «Modding v2: Modding Panel - Feedback Thread»](https://osu.ppy.sh/community/forums/topics/442285)
+[^osu-weekly-57]: [Publicación de noticia por Nyquill (20/4/2016) «osu!weekly #57»](https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57)
 [^apr-15-changelog]: [Registro de cambios de Cutting Edge 20160415](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
-[^medals-showcase-yt]: [Video de YouTube por Acrith (20-04-2016) "osu! | ¿Cómo se ven las medallas? (Animaciones) | Logros 20/04/2016"](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
-[^news-maria]: [Publicación de noticia por Ephemeral (20-04-2016) "¡Conoce a María, la nueva mascota de osu!mania!"](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
-[^qat-changes-post]: [Hilo del foro por Loctav (25-04-2016) "Cambios en el Equipo de Garantía de Calidad"](https://osu.ppy.sh/community/forums/topics/447417)
-[^news-circles-remix-contest]: [Publicación de noticia por Tasha (06-05-2016) "Concurso de remezcla de osu! 'circles!'"](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
-[^early-bird-contributors]: [Publicación de blog por ppy (18-05-2016) "Colaboradores anticipados"](https://blog.ppy.sh/post/144539340703/early-bird-contributors)
-[^ppy-tweet-may-31]: [Tuit de @ppy (31-05-2016)](https://twitter.com/ppy/status/737529593184149504)
-[^news-mwr-bounties]: [Publicación de noticia por Ephemeral (01-06-2016) "Mapeo con recompensas #1 - ¡Recompensas completadas!"](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
-[^ppy-tweet-june-09]: [Tuit de @ppy (09-06-2016)](https://twitter.com/ppy/status/741107246965235713)
-[^osu-weekly-65]: [Publicación de noticia por Nyquill (24-06-2016) "osu!weekly #65"](https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65)
-[^news-osu-mascot-design-contest]: [Publicación de noticia por deadbeat (18-07-2016) "Concurso de diseño de mascotas de osu!"](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
-[^osu-weekly-70]: [Publicación de noticia por deadbeat (07-08-2016) "osu!weekly #70"](https://osu.ppy.sh/home/news/2016-08-07-osuweekly-70)
-[^news-hush-hush-medals]: [Publicación de noticia por Ephemeral (17-08-2016) "¡Nuevas medallas Hush-Hush!"](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
-[^news-circles-remix-contest-results]: [Publicación de noticia por Ephemeral (29-08-2016) "Concurso osu!remix #1: Resultados"](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
-[^news-taiko-mascot-voting]: [Publicación de noticia por deadbeat (22-08-2016) "Votación de la mascota de osu!taiko"](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
-[^news-taiko-mascot-voting-results]: [Publicación de noticia por Ephemeral (21-09-2016) "Resultados de la votación de la comunidad de la mascota de osu!taiko"](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
-[^news-gmt-applications]: [Publicación de noticia por shARPII (15-10-2016) "Aplicaciones para GMT ahora abiertas"](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
-[^news-loved]: [Publicación de noticia por Ephemeral (17-10-2016) "Aquí viene el amor"](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
-[^news-loved-2]: [Publicación de noticia por Ephemeral (21-10-2016-10-21) "¡Muestra tu amor!"](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
+[^medals-showcase-yt]: [Vídeo de YouTube por Acrith (20/4/2016) «osu! | How medals looks like? (Animations) | Achievements 20/04/2016»](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
+[^news-maria]: [Publicación de noticia por Ephemeral (20/4/2016) «Meet Maria - osu!mania's new mascot!»](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
+[^qat-changes-post]: [Hilo del foro por Loctav (25/4/2016) «Changes to the Quality Assurance Team»](https://osu.ppy.sh/community/forums/topics/447417)
+[^news-circles-remix-contest]: [Publicación de noticia por Tasha (6/5/2016) «osu! "circles!" Remix Contest»](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
+[^early-bird-contributors]: [Publicación de blog por ppy (18/5/2016) «Early-bird contributors»](https://blog.ppy.sh/post/144539340703/early-bird-contributors)
+[^ppy-tweet-may-31]: [Tuit por @ppy (31/5/2016)](https://twitter.com/ppy/status/737529593184149504)
+[^news-mwr-bounties]: [Publicación de noticia por Ephemeral (1/6/2016) «Mapping With Rewards #1 - Bounties Complete!»](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
+[^ppy-tweet-june-09]: [Tuit por @ppy (9/6/2016)](https://twitter.com/ppy/status/741107246965235713)
+[^osu-weekly-65]: [Publicación de noticia por Nyquill (24/6/2016) «osu!weekly #65»](https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65)
+[^news-osu-mascot-design-contest]: [Publicación de noticia por deadbeat (18/7/2016) «osu! mascot design contest»](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
+[^osu-weekly-70]: [Publicación de noticia por deadbeat (7/8/2016) «osu!weekly #70»](https://osu.ppy.sh/home/news/2016-08-07-osuweekly-70)
+[^news-hush-hush-medals]: [Publicación de noticia por Ephemeral (17/8/2016) «New Hush-Hush Medals!»](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
+[^news-circles-remix-contest-results]: [Publicación de noticia por Ephemeral (29/8/2016) «osu!remix contest #1: Results»](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
+[^news-taiko-mascot-voting]: [Publicación de noticia por deadbeat (22/8/2016) «osu!taiko mascot voting»](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
+[^news-taiko-mascot-voting-results]: [Publicación de noticia por Ephemeral (21/9/2016) «osu!taiko Mascot Community Vote Results»](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
+[^news-gmt-applications]: [Publicación de noticia por shARPII (15/10/2016) «GMT Applications Now Open»](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
+[^news-loved]: [Publicación de noticia por Ephemeral (17/10/2016) «Here Comes the Love»](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
+[^news-loved-2]: [Publicación de noticia por Ephemeral (21/10/2016) «Show Your Love!»](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)

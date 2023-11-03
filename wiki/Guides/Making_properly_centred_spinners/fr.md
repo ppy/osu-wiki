@@ -2,13 +2,13 @@
 
 [*How to make spinners symmetrical* par : ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
-Ce guide est probablement difficile à comprendre pour les personnes ayant peu d'expérience avec gimp/photoshop. Ce guide suppose que vous savez (et êtes capable) d'activer/désactiver les calques, ainsi que de trouver certaines choses par vous-même. Nous ne sommes pas bon pour générer du contenu, cependant, juste pour éditer le travail de quelqu'un d'autre.
+Ce guide est probablement difficile à comprendre pour les personnes ayant peu d'expérience avec GIMP/Photoshop. Ce guide suppose que vous savez (et êtes capable) d'activer/désactiver les calques, ainsi que de trouver certaines choses par vous-même.
 
 ## Comment créer des spinners symétriques
 
 C'est fatiguant de voir des spinner bancales. S'il vous plaît, si vous voulez faire un spinner, assurez-vous qu'il soit parfaitement centré.
 
-Ouvrez d'abord votre éditeur d'images. Dans ce guide, nous utiliserons [GIMP](https://gimp.org), car il est gratuit.
+Ouvrez d'abord votre éditeur d'images. Dans ce guide, nous utiliserons [GIMP](https://gimp.org/), car il est gratuit.
 
 Créez un nouveau document. L'apparence du modèle est de 666x666, et bien qu'il soit possible de dépasser cette limite, les **spinners peuvent causer beaucoup de retard sur les ordinateurs lents, il est donc préférable de ne pas dépasser cette limite**. Faites le document 664x664, de sorte que lorsque nous aurons terminé, nous pourrons remplir les bords avec de la transparence, ce qui permet à osu! de savoir qu'il peut anti-aliaser le bord, plutôt que de le faire avec un bord droit.
 

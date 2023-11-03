@@ -24,7 +24,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Default shortcut key: `D` `D` or `Shift`+`D`
+- Default shortcut key: `D` `D` or `Shift` + `D`
 - Caption: `uguuuuuuuu`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variant: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)

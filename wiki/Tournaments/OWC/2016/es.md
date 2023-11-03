@@ -15,14 +15,14 @@ La **osu! World Cup 2016** (***OWC 2016***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2016-10-02/2016-10-16 |
-| Sorteos | 2016-11-04 (12:00 UTC) |
-| Fase de grupos | 2016-11-12/2016-11-13 |
-| Octavos de final | 2016-11-19 |
-| Cuartos de final | 2016-11-26 |
-| Semifinales | 2016-12-03/2016-12-04 |
-| Finales semana 1 | 2016-12-10/2016-12-11 |
-| Finales semana 2 | 2016-12-18 |
+| Fase de registración | 2/10/2016 - 16/10/2016 |
+| Sorteos | 4/11/2016 (12:00 UTC) |
+| Fase de grupos | 12/11/2016 - 13/11/2016 |
+| Octavos de final | 19/11/2016 |
+| Cuartos de final | 26/11/2016 |
+| Semifinales | 3/12/2016 - 4/12/2016 |
+| Finales semana 1 | 10/12/2016 - 11/12/2016 |
+| Finales semana 2 | 18/12/2016 |
 
 ## Premios
 

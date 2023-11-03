@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/2026, also, could probably be restructured/reformatted to read like ScoreV1/osu!
 ---
 
 # osu!catch scoring system

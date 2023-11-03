@@ -12,6 +12,8 @@ tags:
   - слайдер брейк
   - комбо брейк
   - комбобрейк
+outdated_translation: true
+outdated_since: 932c9f3453cde49a1d311d8409e6a5e2bfafae7d
 ---
 
 # Слайдербрейк

@@ -1,6 +1,7 @@
 ---
 tags:
   - hit objects
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9921
 ---
 
 <!-- TODO: should also have articles for each hit object -->

@@ -10,7 +10,7 @@ tags:
 
 # 全局管理团队 (GMT)
 
-*参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
+*参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)*
 
 **全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过红色的游戏内名称、柑橘绿的玩家头衔和写着 `GMT` 的[用户组徽章](/wiki/People/User_group)认出他们。
 
@@ -51,6 +51,21 @@ tags:
 3. 不要在自己不知道答案是否正确的时候回答问题，特别是在论坛上。提出建议是好的，但误导人可没有任何好处。如果你不知道如何解决问题，请让其他人回答并向他们学习。
 4. 不要做得太过火。团队需要你持之以恒地贡献，而不需要超负荷地支出。众所周知，这会让你精疲力尽，变得失去耐心和违反承诺。放轻松！
 
+## 特权
+
+全局管理员们可以获得以下特权：
+
+- **[osu! 支持者](/wiki/osu!supporter)**：获得一个时长等于任期的 osu! 支持者标签。
+- **职位奖牌**：从第 3 年开始，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
+  ![3 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT3y.png "3 年 GMT 奖牌") ![4 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT4y.png "4 年 GMT 奖牌") ![5 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT5y.png "5 年 GMT 奖牌")
+
+## 离开全局管理团队 (GMT)
+
+如果全局管理员选择卸任，他们将根据以下情况获得特权：
+
+- **[osu! 名人堂](/wiki/People/osu!_Alumni) 玩家头衔**：授予给在团队中至少任职 1 年，或是在短时间内为团队做出重大贡献的成员。
+- **osu! 支持者**：与获得名人堂头衔的条件相同，他们将获得 2 倍任职于全局管理团队时长的 osu! 支持者标签。
+
 ## 团队成员
 
 *注意：除非特殊说明，所有全局管理团队 (GMT) 成员除了下列语言以外还可以使用英语进行交流。*
@@ -62,6 +77,7 @@ tags:
 | 名字 | 语言 | 专职范围 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | 作图摸图社群管理员 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利语 | 聊天管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞尔维亚语 |  |
@@ -79,12 +95,11 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持团队 |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天管理员 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持团队，wiki 管理员 |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 | 作图摸图社群管理员 |
 | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 芬兰语，一部分瑞典语 | 聊天管理员 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 法语 | 聊天管理员 |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 作图摸图社群管理员 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 作图摸图社群管理员 |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/4598899) | 印度尼西亚语 | 作图摸图社群管理员 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法语，西班牙语 | 聊天管理员 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天管理员，作图摸图社群管理员 |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 马来语，一部分汉语 | 作图摸图社群管理员 |
@@ -96,6 +111,7 @@ tags:
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天管理员 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 葡萄牙语，西班牙语 | 聊天管理员，锦标赛管理员 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 作图摸图社群管理员 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 作图摸图社群管理员 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 贡献者 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 越南语 | 聊天管理员 |
@@ -103,12 +119,12 @@ tags:
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 作图摸图社群管理员 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 | 聊天管理员 |
+| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天管理员 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 作图摸图社群管理员 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天管理员，作图摸图社群管理员 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天管理员 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 聊天管理员 |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天管理员 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 马来语 | 聊天管理员 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 波兰语 | 自定义皮肤社区管理员 |
@@ -160,7 +176,7 @@ tags:
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
@@ -173,3 +189,4 @@ tags:
 ## 备注
 
 [^task-Azer]: 虽然 Azer 不属于全局管理团队 (GMT)，但从技术上来说，由于组织世界杯需要 GMT 级别的权限，也将他纳入了团队组。
+[^task-mangomizer]: 虽然 mangomizer 不属于全局管理团队 (GMT)，但从技术上来说，由于访问内部论坛需要 GMT 级别的权限，也将他纳入了团队组。

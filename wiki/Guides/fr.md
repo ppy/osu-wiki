@@ -36,7 +36,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 ## Playing
 
-- [Comment chercher et télécharger des beatmaps](Searching_and_Downloading_Beatmaps)
 - [Comment utiliser l'assistant de décalage](How_to_Use_the_Offset_Wizard)
 - [Guide d'achat d'une tablette](Tablet_Purchase)
 - [Tutoriel pour débutants](Beginner's_Tutorial)

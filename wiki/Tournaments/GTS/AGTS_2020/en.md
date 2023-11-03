@@ -129,7 +129,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | **B** | ::{ flag=JP }:: Japan | ::{ flag=RU }:: Russian Federation | ::{ flag=BR }:: Brazil | ::{ flag=CL }:: Chile |
 | **C** | ::{ flag=CN }:: China A | ::{ flag=TW }:: Taiwan | ::{ flag=CR }:: ::{ flag=PE }:: Hispanic Alliance B | ::{ flag=KZ }:: Kazakhstan |
 | **D** | ::{ flag=HK }:: Hong Kong | ::{ flag=MX }:: Mexico | ::{ flag=GR }:: Greece | ::{ flag=TH }:: Thailand |
-| **E** | ::{ flag=SG }:: Singapore | ::{ flag=AR }:: Argentina | ::{ flag=MY }:: Malaysia | ::{ flag=US }:: Unites States B |
+| **E** | ::{ flag=SG }:: Singapore | ::{ flag=AR }:: Argentina | ::{ flag=MY }:: Malaysia | ::{ flag=US }:: United States B |
 | **F** | ::{ flag=CA }:: Canada | ::{ flag=ID }:: Indonesia A | ::{ flag=ID }:: Indonesia B | ::{ flag=CN }:: China B |
 | **G** | ::{ flag=FR }:: France | ::{ flag=NL }:: Netherlands B | ::{ flag=KR }:: South Korea B | ::{ flag=AR }:: Argentina B |
 | **H** | ::{ flag=KR }:: South Korea A | ::{ flag=GB }:: United Kingdom | ::{ flag=EC }:: ::{ flag=CO }:: Hispanic Alliance A | ::{ flag=AU }:: Australia |

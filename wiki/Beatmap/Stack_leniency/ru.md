@@ -26,7 +26,7 @@ tags:
 
 **Stack leniency** — параметр [карты](/wiki/Beatmap), отвечающий в режиме [osu!](/wiki/Game_mode/osu!) за формирование автоматических [стеков](/wiki/Beatmapping/Mapping_techniques/Stack) (стопок) из [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider). Низкое значение stack leniency уменьшает промежуток времени, после которого osu! перестаёт объединять [игровые объекты](/wiki/Gameplay/Hit_object) в стек. По аналогии, высокое значение stack leniency заставит osu! объединять в стек объекты, между которыми проходит больше времени.
 
-Значение stack leniency можно поменять в [редакторе карт](/wiki/Client/Beatmap_editor), открыв окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) и перейдя на вкладку `Advanced`. Несмотря на то, что там показан диапазон от `0` до `10`, соответствующий параметр `StackLeniency` в [файле `.osu`](/wiki/Client/File_formats/Osu_(file_format)) будет изменяться от `0` до `1.0`.
+Значение stack leniency можно поменять в [редакторе карт](/wiki/Client/Beatmap_editor), открыв окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) и перейдя на вкладку `Advanced`. Несмотря на то, что там показан диапазон от `0` до `10`, соответствующий параметр `StackLeniency` в [файле `.osu`](/wiki/Client/File_formats/osu_(file_format)) будет изменяться от `0` до `1.0`.
 
 ## Поведение
 

@@ -1,6 +1,6 @@
 # Medals
 
-**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **300** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **314** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -35,6 +35,8 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 - The *flair texts*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over their corresponding cards.
 
 As the Hush-Hush medals are meant to be secret achievements of some sort, the unlock requirements are not directly specified; however, players are [welcome to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+There is also a subcategory called "Hush-Hush (Expert)". The difference is that medals in it do not allow usage of any [difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods.
 
 ## Beatmap Spotlights
 
