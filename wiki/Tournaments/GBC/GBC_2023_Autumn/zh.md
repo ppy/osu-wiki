@@ -342,7 +342,7 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
    - 图池 1 & 图池 2: 15 张
    - 图池 3 & 图池 4: 17 张
 4. 除资格赛图池之外，每个图池包含一张TB决胜局谱面，也将在 FreeMod 条件下游玩。
-5. Freemod 允许的 mod 包括 `NoFail`, `Hidden`, `FadeIn`, `Flashlight`, 和 `Mirror。`
+5. Freemod 允许的 mod 包括 `NoFail`, `Hidden`, `FadeIn`, `Flashlight`, 和 `Mirror`。
 6. 决胜图将会在 Freemod 条件下进行。
 
 ### 日程信息
