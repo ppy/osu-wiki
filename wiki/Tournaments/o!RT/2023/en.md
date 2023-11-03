@@ -31,7 +31,7 @@ The **osu! Romania Summer Tournament 2023** (***o!RST 2023***) was a 1v1 double 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 42.3€ |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 21.2€ |
 
-![](img/badge.png "RoCup 2022 winner badge")
+![](img/badge.png "o!RST 2023 winner badge")
 
 ## Organisation
 
