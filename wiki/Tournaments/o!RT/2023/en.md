@@ -270,13 +270,13 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, August 26, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badeu ::{ flag=RO }:: | 3 | **7** | ::{ flag=RO }:: **Lucrise** | [#1](https://osu.ppy.sh/community/matches/110176505) |
 
 Monday, August 28, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/110209499) |
 
@@ -284,20 +284,20 @@ Monday, August 28, 2023:
 
 Saturday, August 19, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lucrise** ::{ flag=RO }:: | **7** | 1 | ::{ flag=RO }:: _Silvian | [#1](https://osu.ppy.sh/community/matches/110070237) |
 | Razei ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: Shrikyun | win by default |
 
 Sunday, August 20, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **etn** ::{ flag=RO }:: | **7** | 3 | ::{ flag=RO }:: badeu | [#1](<https://osu.ppy.sh/community/matches/110086027)> |
 
 Monday, August 21, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Shrikyun ::{ flag=RO }:: | 0 | **7** | ::{ flag=RO }:: **Lucrise** | [#1](https://osu.ppy.sh/community/matches/110101938) |
 
@@ -305,7 +305,7 @@ Monday, August 21, 2023:
 
 Saturday, August 12, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shrikyun** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Ficus Akishida | [#1](https://osu.ppy.sh/community/matches/109958375) |
 | **r0botonic** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: AlexBelea | [#1](https://osu.ppy.sh/community/matches/109958667) |
@@ -314,7 +314,7 @@ Saturday, August 12, 2023:
 
 Sunday, August 13, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badeu ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Razei | win by default |
 | **Shrikyun** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: roliy | [#1](https://osu.ppy.sh/community/matches/109975490) |
@@ -325,13 +325,13 @@ Sunday, August 13, 2023:
 
 Thursday, August 3, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | KeitoChan ::{ flag=RO }:: | 3 | **6** | ::{ flag=RO }:: **Korinna** | [#1](https://osu.ppy.sh/community/matches/109815675) |
 
 Saturday, August 5, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AlexBelea** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/109846805) |
 | **ent** ::{ flag=RO }:: | **6** | 3 | ::{ flag=RO }:: bossuromaniei | [#1](https://osu.ppy.sh/community/matches/109847281) |
@@ -343,7 +343,7 @@ Saturday, August 5, 2023:
 
 Sunday, August 6, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lucrise** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Shrikyun | [#1](https://osu.ppy.sh/community/matches/109864225) |
 | **Razei** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: _Silvian | [#1](https://osu.ppy.sh/community/matches/109864876) |
@@ -354,13 +354,13 @@ Sunday, August 6, 2023:
 
 Monday, August 7, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Korinna ::{ flag=RO }:: | 3 | **6** | ::{ flag=RO }:: **Ficus Akishida** | [#1](https://osu.ppy.sh/community/matches/109885773) |
 
 Tuesday, August 8, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **etn** ::{ flag=RO }:: | **6** | 4 | ::{ flag=RO }:: roliy | [#1](https://osu.ppy.sh/community/matches/109896716) |
 
@@ -368,14 +368,14 @@ Tuesday, August 8, 2023:
 
 Friday, July 28, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | AkakiKN ::{ flag=RO }:: | 1 | **5** | ::{ flag=RO }:: **Korinna** | [#1](https://osu.ppy.sh/community/matches/109723960) |
 | **etn** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: AlexBelea | [#1](https://osu.ppy.sh/community/matches/109724716) |
 
 Saturday, July 29, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_Nino\_ ::{ flag=RO }:: | 3 | **5** | ::{ flag=RO }:: **bossuromaniei** | [#1](https://osu.ppy.sh/community/matches/109734462) |
 | **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Ficus Akishida | [#1](https://osu.ppy.sh/community/matches/109736812) |
@@ -386,7 +386,7 @@ Saturday, July 29, 2023:
 
 Sunday, July 30, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Paato ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: kRionik | win by default |
 | **Lernaeus** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: zhuqing | win by default |
@@ -396,7 +396,7 @@ Sunday, July 30, 2023:
 
 Monday, July 31, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shrikyun** ::{ flag=RO }:: | **5** | 3 | ::{ flag=RO }:: HowlPleb | [#1](https://osu.ppy.sh/community/matches/109772524) |
 | **Lucrise** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: ent | [#1](https://osu.ppy.sh/community/matches/109774726) |
@@ -405,13 +405,13 @@ Monday, July 31, 2023:
 
 Friday, July 21, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **badeu** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Luminous Sky | [#1](https://osu.ppy.sh/community/matches/109606700) |
 
 Saturday, July 22, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **etn** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: AkakiKN | [#1](https://osu.ppy.sh/community/matches/109621251) |
 | **HowlPleb** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: Nature angel | [#1](https://osu.ppy.sh/community/matches/109622059) |
@@ -421,7 +421,7 @@ Saturday, July 22, 2023:
 
 Sunday, July 23, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Razei** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Asio_ | [#1](https://osu.ppy.sh/community/matches/109638301) |
 | **roliy** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: kRionik | [#1](https://osu.ppy.sh/community/matches/109640366) |
@@ -431,7 +431,7 @@ Sunday, July 23, 2023:
 
 Monday, July 24, 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kehest** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: bossuromaniei | [#1](https://osu.ppy.sh/community/matches/109653565) |
 | **Lucrise** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Teikem | [#1](https://osu.ppy.sh/community/matches/109655844) |
