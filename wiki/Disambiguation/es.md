@@ -20,5 +20,5 @@ Un artículo regular, si tiene un título similar, tiene que usar la [nota «Par
 - [Puntuación](Score)
 - [Snapping](Snapping)
 - [Estrella](Star)
-- [Timing](Timing)
+- [Tiempo](Timing)
 - [Versión](Version)
