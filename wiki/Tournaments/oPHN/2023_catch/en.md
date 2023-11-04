@@ -50,20 +50,20 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1838943)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1bKGo_m20nMbZBQykQ8ygcAQI5Y-lryKpIHL35DwBT2M/edit?rm=minimal#gid=2025526631)
 - [Twitch](https://www.twitch.tv/osuliveph)
-- [Youtube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
 ## Rulesets
 
 ### General rules
 
-- Score V2 will be used
+- Score V2 will be used.
 - NoFail will be enforced regardless of the mod being used per map.
 
 ### Qualifier stage
 
 - There will be 5 maps, consisting of 2 NoMod, 1 Hidden, 1 HardRock and 1 DoubleTime.
 - Players will be scheduled to a multiplayer room according to their availability.
-- Each player will get 2 attempts at each map, only the best attempt for each map will count
+- Each player will get 2 attempts at each map, only the best attempt for each map will count.
 - Each map will have its own leaderboard, and each player's overall seed will be determined by the average of these ranks.
 - The top 16 players advance to the Bracket Stage.
 
@@ -88,8 +88,8 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 - Players can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the !roll command. The player with the lower roll bans first and the player with the higher roll picks first. Players will alternate picks until a match winner is decided.
 - If both players are tied on match point (e.g. 4-4 score in a Best-of-9), the players will play the tiebreaker map of the pool to determine the winner.
 - Players are given 2 minutes to ban/pick maps when it is their turn. Failure to do so means that the referee will ban/pick at random in behalf of the player.
-- Players are eligible to use a 2 minute tactical time out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
+- Players are eligible to use a 2-minute tactical time out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
 
 ### Player eligibility
 
-**Players who are ranked #5000 and above in the osu!catch global rankings will be allowed to join the tournament. Additionally, players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament.**
+Players who are ranked #5000 and above in the osu!catch global rankings will be allowed to join the tournament. Additionally, players who currently have (or had at some point since their account's creation) the Philippine flag on their profile, or players who do not have the Philippine flag on their profiles but can present a proof of their Philippine citizenship to the tournament staff are the only ones allowed to join the tournament.
