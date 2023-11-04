@@ -1,18 +1,18 @@
 # Usage permissions
 
-osu! is centered around being able to freely make and share creations with one another. It is important to ensure that you have the appropriate permissions to use any other creator's work in your own creations, and that all such work is properly attributed.
+osu! is centred around being able to freely make and share creations with one another. It is important ensure that appropriate permissions have been acquired to use any other creator's work in new creations, and that all such work is properly attributed.
 
 ## Opt-in
 
-If you are an artist and wish to add or update your entry on this listing, please feel free to reach out to our [music licencing team](mailto:music@ppy.sh).
+For artists wishing to add or update their entry on this listing, please feel free to reach out to the osu! music licensing team at [music@ppy.sh](mailto:music@ppy.sh).
 
 ## Audio
+
+*Notice: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please exercise due diligence when broadcasting gameplay to an audience.*
 
 This section details which artists are willing to allow use of their audio works in osu!, and under what conditions (where appropriate).
 
 All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are approved for use in the creation of osu! beatmaps. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
-
-**Important note**: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please do your due diligence when broadcasting gameplay to an audience.
 
 ### Allowed
 
@@ -405,7 +405,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
-|  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or via [Bandcamp](https://a-hisa.bandcamp.com/). |
+|  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
@@ -430,13 +430,13 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 Visual works refer to elements like beatmap backgrounds and are commonly retrieved from sites like Pixiv.
 
-In many cases, a visual artist will make it immediately apparent if they permit the use of their work elsewhere.  All visual works should be properly attributed and provide an appropriate link-back to their source. If a direct link cannot be used for whatever reason, another link that points to the visual artist's primary presence on their most active platform should be used instead.
+In many cases, a visual artist will make it immediately apparent if they permit the use of their work elsewhere. All visual works should be properly attributed including appropriate links to their source. If a direct link cannot be used for whatever reason, another link that points to the visual artist's primary presence on their most active platform should be used instead.
 
-If it is unclear whether a visual artist allows their work to be used on other platforms, we recommend not making use of any until appropriate usage conditions can be confirmed with them individually.
+If it is unclear whether a visual artist allows their work to be used on other platforms, none should be used until appropriate usage conditions can be confirmed with them individually.
 
 ## Notes
 
-[^monstercat-gold]: This artist is licensed in cooperation with [Monstercat](https://osu.ppy.sh/beatmaps/artists/255), and users may be able to obtain external media usage rights via a [Monstercat Gold](https://www.monstercat.com/gold) subscription. Please consult their site for specific details on this license.
+[^monstercat-gold]: This artist is licensed in cooperation with [Monstercat](https://osu.ppy.sh/beatmaps/artists/255), and users may be able to obtain external media usage rights via a [Monstercat Gold](https://www.monstercat.com/gold) subscription. Please consult their site for specific details on this licence.
 
 [FA]: /wiki/shared/group/FA.png "Featured Artist"
 [true]: /wiki/shared/true.png "Allowed"
