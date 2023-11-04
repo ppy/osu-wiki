@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 8951e9fef0bc292f2b085b7c3a400db936392e49
+outdated_translation: true
 ---
 
 # 解鎖條件
