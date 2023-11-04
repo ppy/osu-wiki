@@ -166,6 +166,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | Dieciseisavos de final HD1 |
+| Toromaru - Ebb Tide[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | Octavos de final FM1 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 

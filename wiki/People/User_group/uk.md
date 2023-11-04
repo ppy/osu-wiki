@@ -17,8 +17,8 @@ tags:
 | ID | Значок | Назва | Опис |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Слідкують за форумами та ігровим чатом |
-| 7 | [![NAT](/wiki/shared/group/NAT.png)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Управляють Номінаторами Бітмап |
-| 11 | [![DEV](/wiki/shared/group/DEV.png)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Роблять гру чудовою, додаючи нові функції та виправляючи помилки |
+| 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Управляють Номінаторами Бітмап |
+| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Роблять гру чудовою, додаючи нові функції та виправляючи помилки |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Ті, хто відомий своїми внесками, але пішли з посади |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support Team](/wiki/People/Support_Team) | Допомога та асистування |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Користувачі, які роблять надзвичайні зусилля, щоб переконатися, що бітмапи будуть кваліфіковані. |

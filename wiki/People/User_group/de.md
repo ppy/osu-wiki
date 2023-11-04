@@ -17,8 +17,8 @@ Ein Klick auf die Abzeichen führt zu den jeweiligen Gruppenlisten, während die
 | ID | Abzeichen | Name | Beschreibung |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Globales Moderationsteam](/wiki/People/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den Spiel-Chat |
-| 7 | [![NAT](/wiki/shared/group/NAT.png)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Verwaltung der Beatmap Nominators |
-| 11 | [![DEV](/wiki/shared/group/DEV.png)](https://osu.ppy.sh/groups/11) | [Entwickler](/wiki/People/Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Fehler beheben |
+| 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Verwaltung der Beatmap Nominators |
+| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Entwickler](/wiki/People/Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Fehler beheben |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Diejenigen, die für ihre Beiträge bekannt sind und inzwischen weitergezogen sind |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support-Team](/wiki/People/Support_Team) | Hilfe und Unterstützung |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Sorgen dafür, dass Beatmaps den Status "qualifiziert" erlangen |
