@@ -4,22 +4,22 @@
 
 **AiMod** es una herramienta incluida en el [editor de beatmaps](/wiki/Client/Beatmap_editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
-Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un beatmap, este no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
+Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un beatmap, este no es un reemplazo para el [modding](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad de un mapa o resolver problemas complejos como pobres [patrones](/wiki/Beatmap/Pattern) o [temporizaciones](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, y después pedirle a otro [modder](/wiki/Modding/Modder).
 
 El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad de mapping y los [criterios de clasificación](/wiki/Ranking_criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
 ## Pestañas
 
-- **All:** Junta los ítems de todas las demás pestañas.
-- **Compose:** Estos problemas son generalmente por el posicionamiento de objetos. Quizás debas marcar la casilla de «Check distance snap» para que estas alertas aparezcan (esta acción podría causar lag, dependiendo de la duración/tamaño del beatmap).
-- **Design:** Estos problemas son generalmente causados por problemas de la interfaz, tales como imagen de fondo, storyboards, etc.
-- **Timing:** Cuando estos problemas aparecen, revisa la línea de tiempo porque algo está probablemente fuera de lugar.
-- **Meta:** Cuando estos problemas aparecen, revisa los ajustes de la canción.
-- **Mapset:** Estos problemas afectan al conjunto de mapas en su totalidad.
+- **All**: Agrupa los elementos de todas las demás pestañas.
+- **Compose**: Estos problemas son generalmente por la colocación de objetos. Es posible que tengas que marcar la casilla de «Check distance snap» para que estas alertas aparezcan (esta acción podría causar lag, dependiendo de la duración/tamaño del beatmap).
+- **Design**: Estos problemas son generalmente causados por problemas de la interfaz, tales como imagen de fondo, storyboards, etc.
+- **Timing**: Cuando estos problemas aparezcan, revisa la línea de tiempo porque probablemente algo está fuera de lugar.
+- **Meta**: Cuando estos problemas aparezcan, revisa los ajustes de la canción.
+- **Mapset**: Estos problemas afectan al conjunto de mapas en su totalidad.
 
 ## Mensajes
 
-*Nota: Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.*
+*Nota: Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.*
 
 ### Informativo
 
