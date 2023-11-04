@@ -135,7 +135,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | Turkey ::{ flag=TR }:: | ::{ flag=ID }:: Indonesia | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=SE }:: Sweden | [Nov 5 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive](https://twitch.tv/osulive) |
-| Kazakhstan ::{ flag=KZ }:: | ::{ flag=JP }:: Japan | [Nov 5 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
+| Kazakhstan ::{ flag=KZ }:: | ::{ flag=JP }:: Japan | [Nov 5 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p3=248) | [osulive](https://twitch.tv/osulive) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=UA }:: Ukraine | [Nov 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T150000&p1=1440&p2=136&p3=367) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Nov 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) |
 | Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [Nov 5 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T190000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
@@ -219,6 +219,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 ### Round of 16
 
 Friday, 3 November 2023:
+
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/111152642) | [#1](https://www.twitch.tv/videos/1967584249) |
