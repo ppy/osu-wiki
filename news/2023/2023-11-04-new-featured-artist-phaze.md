@@ -8,7 +8,7 @@ Our newest Featured Artist **PHAZE** steps into the virtual spotlight!
 
 ![](https://assets.ppy.sh/artists/387/header.jpg)
 
-**PHAZE** is a three-piece international band specializing in the internet's ever-expansive landscape. Mixing anime-inspired Japanese vocals with genres like electro swing, rock, and pop, **PHAZE**'s sound reaches throughout the VR scene via live virtual events and the VRChat scene.
+**PHAZE** is a three-piece international band specialising in the internet's ever-expansive landscape. Mixing anime-inspired Japanese vocals with genres like electro swing, rock, and pop, **PHAZE**'s sound reaches throughout VR spheres via live virtual events and the VRChat scene.
 
 **5** fresh tunes have been slammed onto [**PHAZE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/387), all pre-timed for your next mapping session (which should be right now).
 
