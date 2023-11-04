@@ -8,7 +8,7 @@ tags:
 
 ![PHNS2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2023 (osu!)** (***PHNS 2023***) was a one-on-one, osu! tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2023 - osu!** (***PHNS 2023***) was a one-on-one, osu! tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **osu! Philippines Nationals 2023 (osu!)** (***PHNS 2023***) was a one-on-on
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 (osu!) was ran by various community members.
+The osu! Philippines Nationals 2023 - osu! was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -49,11 +49,11 @@ The osu! Philippines Nationals 2023 (osu!) was ran by various community members.
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1682639)
-- [Challonge](https://challonge.com/phns2023)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1682639)
+- [Challonge bracket](https://challonge.com/phns2023)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1v4AzszSodaaUZMSN4Y3nmI6Mxv1uCyYzWVKqaCdbVDM/edit?rm=minimal#gid=0)
-- [Twitch](https://www.twitch.tv/osuliveph)
-- [Youtube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
+- [Youtube livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
 ## Participants
 
@@ -144,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand finals
+### Grand Finals
 
 - No Mod
   1. [Risa Yuzuki - Filia no Rashinban feat. cosMo@BousouP (Anastaxia) [Ataraxia]](https://osu.ppy.sh/beatmapsets/1939858#osu/4010812)
@@ -315,7 +315,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

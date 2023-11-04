@@ -4,11 +4,11 @@ tags:
   - PHNT 2023
 ---
 
-# osu! Philippines Nationals 2023 - osu!mania 4K/7K
+# osu! Philippines Nationals 2023 - osu!taiko
 
 ![PHNT2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2023 (osu!taiko)** (***PHNT 2023***) was a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2023 - osu!taiko** (***PHNT 2023***) was a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **osu! Philippines Nationals 2023 (osu!taiko)** (***PHNT 2023***) was a one-
 | Quarterfinals | 2023-08-12/2023-08-13 |
 | Semifinals | 2023-08-19/2023-08-20 |
 | Finals | 2023-09-02/2023-09-03 |
-| Grand finals | 2023-09-09/2023-09-10 |
+| Grand Finals | 2023-09-09/2023-09-10 |
 
 ## Prizes
 
@@ -30,7 +30,7 @@ The **osu! Philippines Nationals 2023 (osu!taiko)** (***PHNT 2023***) was a one-
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 - osu!taiko was ran by various community members.
+The osu! Philippines Nationals 2023 - osu!taiko was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -42,15 +42,15 @@ The osu! Philippines Nationals 2023 - osu!taiko was ran by various community mem
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Coequal](https://osu.ppy.sh/users/14167247), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1783046)
-- [Challonge](https://challonge.com/phnt2023)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1783046)
+- [Challonge bracket](https://challonge.com/phnt2023)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1DP10RlG7IYNxJHt5uwPIC-GUreUs29i4uXWiPB8aOzs/edit?usp=sharing)
-- [Twitch Livestream](https://www.twitch.tv/osutaikoph)
+- [Twitch livestream](https://www.twitch.tv/osutaikoph)
 
 ## Participants
 

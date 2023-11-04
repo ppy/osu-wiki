@@ -8,7 +8,7 @@ tags:
 
 ![PHNT2022 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) was a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 - osu!taiko** (***PHNT 2022***) was a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) was a one-
 | Quarterfinals | 2022-08-06/2022-08-07 |
 | Semifinals | 2022-08-13/2022-08-14 |
 | Finals | 2022-08-20/2022-08-21 |
-| Grand finals | 2022-08-27/2022-08-28 |
+| Grand Finals | 2022-08-27/2022-08-28 |
 
 ## Prizes
 
@@ -32,7 +32,7 @@ The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) was a one-
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 - osu!taiko was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!taiko was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -43,16 +43,16 @@ The osu! Philippines Nationals 2022 - osu!taiko was ran by various community mem
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=SG }:: [Rycy](https://osu.ppy.sh/users/7394522), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ::{ flag=PH }:: [Qwertythanzip](https://osu.ppy.sh/users/16277295), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [snappyguy](https://osu.ppy.sh/users/9396986), ::{ flag=PH }:: [Syntoxical](https://osu.ppy.sh/users/18105116) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=PH }:: [snappyguy](https://osu.ppy.sh/users/9396986), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1596143)
-- [Challonge](https://challonge.com/PHNT2022)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1596143)
+- [Challonge bracket](https://challonge.com/PHNT2022)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1WxUpZM5r_e9qSG6ekUlKrssYCFryCP3vmBRJ_nj-yT0/)
-- [Twitch Livestream](https://www.twitch.tv/osuliveph)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
 
 ## Participants
 

@@ -8,7 +8,7 @@ tags:
 
 ![PHNM2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2023 (osu!mania 4K)** (***PHNM 2023***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2023 - osu!mania 4K/7K** (***PHNM 2023***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **osu! Philippines Nationals 2023 (osu!mania 4K)** (***PHNM 2023***) was a o
 | Quarterfinals | 2022-08-06/2022-08-07 |
 | Semifinals | 2022-08-13/2022-08-14 |
 | Finals | 2022-08-20/2022-08-21 |
-| Grand finals | 2022-08-27/2022-08-28 |
+| Grand Finals | 2022-08-27/2022-08-28 |
 
 ## Prizes
 
@@ -30,26 +30,26 @@ The **osu! Philippines Nationals 2023 (osu!mania 4K)** (***PHNM 2023***) was a o
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 - osu!mania 4K was ran by various community members.
+The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Mappool selector 4K | ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| Mappool selector 7K | ::{ flag=PH }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MadBrickTree](https://osu.ppy.sh/users/4790958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool selector (4K) | ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| Mappool selector (7K) | ::{ flag=PH }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MadBrickTree](https://osu.ppy.sh/users/4790958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Referee | ::{ flag=PH }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Sam1Ko](https://osu.ppy.sh/users/24435526), ::{ flag=PH }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [PorkisGreat](https://osu.ppy.sh/users/10756322) |
 | Streamer | ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=PH }:: [bonkmi](https://osu.ppy.sh/users/21148690) |
 | Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [My Angel Venti](https://osu.ppy.sh/users/16391523), ::{ flag=PH }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [MyukaMyMommy](https://osu.ppy.sh/users/12297375), ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906), ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ::{ flag=PH }:: [Znow](https://osu.ppy.sh/users/15513303), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=PH }:: [Argefangirl](https://osu.ppy.sh/users/13132585) |
 | Statistician | ::{ flag=PH }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=PH }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1753995)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1753995)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1IX6zcUxxW-VVJx6KdJm3eqxVM2bOBA5lD14K-tvfKas/)
-- [Twitch](https://www.twitch.tv/osuliveph)
-- [Youtube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
+- [YouTube livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
 ## Participants (osu!mania 4K)
 
@@ -111,7 +111,7 @@ The osu! Philippines Nationals 2023 - osu!mania 4K was ran by various community 
 - ::{ flag=AU }:: [shorts](https://osu.ppy.sh/users/8021372)
 - ::{ flag=PH }:: [shadowkun-](https://osu.ppy.sh/users/13450837)
 
-## Poduim
+## Podium
 
 This competition has come to an end and resulted in the following podium:
 
@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand finals
+#### Grand Finals
 
 - Rice
   1. [Luze - Love Song [Black Dorna] (Valedict) [Heartfelt 1.05x (365bpm)]](https://osu.ppy.sh/beatmapsets/1796541#mania/3682631)
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand finals
+#### Grand Finals
 
 - Rice
   1. [ZUN - Phantasm Machine ~ Phantom Factory (spoonguy) [1.1x]](https://osu.ppy.sh/beatmapsets/1280519#mania/2659951)
@@ -391,7 +391,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand finals
+#### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -408,7 +408,7 @@ This competition has come to an end and resulted in the following podium:
 | Vulpsi ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **[KN]Puddles** | *win by default* |
 | Dyei ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **bojii the rock** | [#1](https://osu.ppy.sh/community/matches/109278242) |
 
-#### Semiinals
+#### Semifinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -449,7 +449,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand finals
+#### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

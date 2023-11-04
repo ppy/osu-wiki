@@ -8,7 +8,7 @@ tags:
 
 ![PHNM2022 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 - osu!mania 4K/7K** (***PHNM 2022***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -32,27 +32,29 @@ The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was 
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 - osu!mania was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool Selector 4K | ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [[GS]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool Selector 7K | ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool selector (4K) | ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [[GS]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| Mappool selector (7K) | ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625) |
 | Commentator | ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=PH }:: [[KN]Frossno](https://osu.ppy.sh/users/17480973), ::{ flag=PH }:: [[KN]hana](https://osu.ppy.sh/users/14371401), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [[KN]Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=PH }:: [[KN]Lordieee](https://osu.ppy.sh/users/10010130), ::{ flag=PH }:: [MCJze](https://osu.ppy.sh/users/14559339), ::{ flag=PH }:: [[KN]Melancholy](https://osu.ppy.sh/users/11306351), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Steeeven](https://osu.ppy.sh/users/15503384), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [Jianshyy](https://osu.ppy.sh/users/9178563), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [Jianshyy](https://osu.ppy.sh/users/9178563), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1560227)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1560227)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1_wM5fumI4LpKtIxio0evxpkts3XLCuaQrhX-YWQKbUI/)
-- [Twitch Livestream](https://www.twitch.tv/osuliveph)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
 
-## Participants (osu!mania 4K)
+## Participants
+
+### osu!mania 4K
 
 - ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815)
 - ::{ flag=PH }:: [Vulpsi](https://osu.ppy.sh/users/12584420)
@@ -112,7 +114,7 @@ The osu! Philippines Nationals 2022 - osu!mania was ran by various community mem
 - ::{ flag=PH }:: [KnfeConcorde](https://osu.ppy.sh/users/18390445)
 - ::{ flag=PH }:: [SZ20](https://osu.ppy.sh/users/28352929)
 
-## Participants (osu!mania 7K)
+### osu!mania 7K
 
 - ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
 - ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)
@@ -462,7 +464,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[KN\]Puddles ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **4Kenn** | [#1](https://osu.ppy.sh/community/matches/102123427) |
-| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | :: { flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331) |
+| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331) |
 | Apol- ::{ flag=PH }:: | 4 | **7** | ::{ flag=PH }:: **Silicosis** | [#1](https://osu.ppy.sh/community/matches/102125135) |
 | **4Kenn** ::{ flag=PH }:: | **7** | 1 | ::{ flag=PH }:: Silicosis | [#1](https://osu.ppy.sh/community/matches/102153285) |
 
@@ -624,29 +626,29 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### Tournament organization
+### Tournament organisation
 
-#### Gamemode and introduction
+#### Game mode and introduction
 
-As the tournament name implies, this is an osu!mania tournament set up as a national championships for the Philippine osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
+As the tournament name implies, this is an osu!mania tournament set up as a national championships for the Philippines osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
 
 #### General eligibility rules
 
-Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament. Staff Members who are NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role are permitted to join the tournament.
+Players who currently have (or had at some point since account creation) the Philippines' flag on their profile or players who do not have the Philippines' flag on their profiles but can present a proof of their Philippine citizenship to the staff are the only ones allowed to join the tournament. Staff members who are **not** referees, mappool selectors, hosts, nor part of any management role are permitted to join the tournament.
 
 #### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
 
-- Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
-- Group Stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
+- Qualification stage: 6 song mappool, no winning condition, no tiebreaker song
+- Group stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
 - Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
 - Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
 - Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 
 The tournament is played 1 player versus 1 player
 
-Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, Score v2 is implemented.
+Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, ScoreV2 is implemented.
 
 #### Qualification process
 
@@ -656,24 +658,24 @@ The qualification round will have a 6-song mappool that widely varies in skillse
 
 All six notecharts will be created by the mappool selectors and/or special guest notecharters and will be unreleased prior to the tournament qualification stage, to provide zero opportunity for advantage through familiarity.
 
-All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score.
+All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate the final score.
 
-Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match.
+Players will be organised into groups based on their availability. Because qualification is not a process that involves 1-on-1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match.
 
-Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
+Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n, n being the number of players in the qualification stage.
 
-Players are discouraged from disclosing, streaming, or discussing their qualifier round scores in public until after the results are finalized. This is to make sure that all of the players will give it their all and avoid seed manipulation.
+Players are discouraged from disclosing, streaming, or discussing their qualifier round scores in public until after the results are finalised. This is to make sure that all players will give their all and to avoid seed manipulation.
 
 #### Group stage
 
-After the Qualification stage, the remaining players will be divided into 4 different pots based on their qualification seed. These pots will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group through a live draw.
+After the qualification stage, the remaining players will be divided into 4 different pots based on their qualification seed. These pots will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the group stage) are then formed by randomly selecting one player from each seed group through a live draw.
 
 The number of players in each pot are as follows:
 
-- For the 4K Division, there will be 8 players per pot, corresponding to 8 groups in total.
-- For the 7K Division, there will be 6 players per pot, corresponding to 6 groups in total.
+- For the 4K division, there will be 8 players per pot, corresponding to 8 groups in total.
+- For the 7K division, there will be 6 players per pot, corresponding to 6 groups in total.
 
-The players will then be subject to two rounds of matches. In the first round, the Group Stage will have 2 matches per group:
+The players will then be subject to two rounds of matches. In the first round, the group stage will have 2 matches per group:
 
 - The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage as the Group Winner. The loser of this match will play in the second round of Group Stage.
 - The second match is a match between the Bottom seed and Low seed. The winner of this match will get to play in the second round of Group Stage. The loser of this match will be eliminated from the tournament.

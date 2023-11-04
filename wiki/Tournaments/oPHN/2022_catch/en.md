@@ -8,7 +8,7 @@ tags:
 
 ![PHNC2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!catch)** (***PHNC 2022***) was a one-on-one, osu!catch tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 - osu!catch** (***PHNC 2022***) was a one-on-one, osu!catch tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -20,19 +20,19 @@ The **osu! Philippines Nationals 2022 (osu!catch)** (***PHNC 2022***) was a one-
 | Quarterfinals | 2022-04-16/2022-04-17 |
 | Semifinals | 2022-04-23/2022-04-24 |
 | Finals | 2022-04-30/2022-05-01 |
-| Grand finals | 2022-05-07/2022-05-08 |
+| Grand Finals | 2022-05-07/2022-05-08 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3,100 Philippine Pesos |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,550 Philippine Pesos |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 775 Philippine Pesos |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3,100 Philippine pesos |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,550 Philippine pesos |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 775 Philippine pesos |
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 - osu!catch was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!catch was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -46,11 +46,11 @@ The osu! Philippines Nationals 2022 - osu!catch was ran by various community mem
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1527761)
-- [Challonge](https://challonge.com/phnc2022)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1527761)
+- [Challonge bracket](https://challonge.com/phnc2022)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1MYhGrnaSJf7wx554-_tnUjAJQOPQ7pudcDbSt3NToQY/edit?usp=sharing)
-- [Twitch Livestream](https://www.twitch.tv/osuliveph)
-- [Youtube Livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
+- [YouTube livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
 ## Participants
 
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappool
 
-### Grand finals
+### Grand Finals
 
 - No Mod
   1. [t+pazolite - Ultrasonic Anthem (Kobaryo's FTN-Remix) (Emiru) [Unfathomable Hymn]](https://osu.ppy.sh/beatmapsets/1301143#fruits/2698790)
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker 
   1. [Silentroom - Nhelv (Bunnrei) [Aftermath]](https://osu.ppy.sh/beatmapsets/1755429#fruits/3592362)
 
-## Finals
+### Finals
 
 - No Mod
   1. [hololive IDOL PROJECT - BLUE CLAPPER (Secre) [CLAP YOUR HANDS]](https://osu.ppy.sh/beatmapsets/1418431#fruits/2922402)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -261,44 +261,41 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 - ScoreV2 will be used for this tournament.
-- Players are allowed to join the 10 minutes before the scheduled match.
+- Players are allowed to join 10 minutes before the scheduled match.
 - Players cannot nullify a beatmap under any circumstances
-- Players will be given 10 minutes to join the lobby, failing to show up will result to win by default(WBD).
-- The first 30 seconds of the match can be aborted by the referee if any unfortunate event happen in player's end such as sudden internet disconnections or blackout this is only allowed once in a match per player/participants and they will be given 3 minutes to get back in order to restart the round.
-- Players are allowed to join the 10 minutes before the scheduled match.
-- Players cannot nullify a beatmap under any circumstances
-- Players will be given 10 minutes to join the lobby, failing to show up will result to win by default(WBD).
+- Players will be given 10 minutes to join the lobby, and failing to show up will result in a win by default (WBD).
+- A match may be aborted by a referee if any mishaps happen during the first 30 seconds of a match, such as for sudden internet disconnections or blackouts. This is only allowed once in a match per player and they will be given 3 minutes to get back in order to restart the round.
 
 ### Qualifier guidelines
 
-- In order to advance to the knockout stage, Players need to accumulate enough scores for each mod bracket in order to be able to proceed to knockout stage.
-- Participants will be split into lobbies with different time within the day.
-- Participants has the discretion to change their lobbies 2 days before the start of the qualifiers.
-- As the qualifiers on each lobby starts, the map pool will traverse in this pattern:
-  - NM 1 > HD 1 > HR 1 > DT 1 > NM 2 > HD 2 > HR 2 > DT 2
-- 2 Rotations will occur per each session.
-- If a tied overall qualifier scores occurred, the seeding of each involved player will based on their current performance points as of the day when the qualifiers started
+- In order to advance to the knockout stage, players need to accumulate enough scores for each mod bracket.
+- Participants will be split into lobbies for different times during the day.
+- Participants have the discretion to change their lobbies 2 days before the start of the Qualifiers.
+- As the Qualifiers on each lobby starts, the mappool will follow this pattern:
+  - NM 1 -> HD 1 -> HR 1 -> DT 1 -> NM 2 -> HD 2 -> HR 2 -> DT 2
+- 2 rotations will occur per each session.
+- In case of ties in Qualifier scores, the seeding of affected players will be based on their current performance points as of the day when the Qualifiers started.
 
 ### Knockout guidelines
 
-- Knockouts will be double eliminations, this means there will be losers bracket, and each players are twice to beat.
-- Game sizes on each stages are the following:
+- Knockouts will be double eliminations, which means there will be losers' bracket, and each player needs to lose twice in order to be eliminated.
+- Match conditions for each stage are as follows:
 
-| Round Stage | Best of | First to |
+| Stage | Best of | First to |
 | :-- | :-- | :-- |
 | Round of 16 | 7 | 4 |
 | Quarterfinals | 7 | 4 |
 | Semifinals | 9 | 5 |
 | Finals | 9 | 5 |
-| Grandfinals | 11 | 6 |
+| Grand Finals | 11 | 6 |
 
-- When a Player quits the match, They will be given 5 minutes to go back to the match lobby, failing to comply will result to a disqualification.
+- When a player quits a match, they will be given 5 minutes to go back to the match lobby. Failing to do so will result to a disqualification.
 - Players are only allowed to ban 1 map per match.
-- Players who gets the highest roll will pick first, otherwise ban first.
+- Players who get the highest roll will pick first, and their opponent will ban first.
 
 ### Mappool format
 
-The mappool format for qualifiers that this tournament will be using will be the following:
+#### Qualifiers
 
 | Mappool bracket | Maps |
 | :-- | :-- |
@@ -307,7 +304,7 @@ The mappool format for qualifiers that this tournament will be using will be the
 | Hard Rock (HR) | 2 |
 | Double Time (DT) | 2 |
 
-The mappool format for knockouts will use this format throughout the rounds:
+#### Knockout stage
 
 | Mappool bracket | Maps |
 | :-- | :-- |
@@ -319,13 +316,13 @@ The mappool format for knockouts will use this format throughout the rounds:
 
 ### Mod usage rules
 
-- **Players are required to use No Fail mod before starting the matches.**
-- Tie Breaker will be played with NoMod. The use of HD mod will be allowed.
-- At any map, players are not allowed to use the following mods:
+- **Players are required to enable No Fail before starting matches.**
+- The tiebreaker will be played with No Mod, but the use of Hidden will be allowed.
+- During any map, players are not allowed to use the following mods:
   - Easy
   - Half Time
   - Sudden Death/Perfect
   - Flashlight
   - Relax
   - Auto
-- When playing either Double Time or HardRock maps, players are allowed to pick Hidden mod.
+- When playing either Double Time or Hard Rock maps, players are allowed to pick the Hidden mod.
