@@ -247,6 +247,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
+**[Download the mappack here! (71MB)](https://drive.google.com/file/d/1fbqRKbfmed0pDuU4srHvRBQcsr4kC9Fy/view)**
+
 - NoMod
   1. [Jin feat. MARiA from GARNiDELiA - daze [Let's "Excitement"]](https://osu.ppy.sh/beatmapsets/620132#osu/1307021)
   2. [m108 - XIII Charlotte [yumenother]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
@@ -261,8 +263,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [Spira Spica - Sansan Days [KoldNoodl's Insane]](https://osu.ppy.sh/beatmapsets/1671373#osu/3423393)
   2. [Nekrogoblikon - Killing Time (and Space) [Insane]](https://osu.ppy.sh/beatmapsets/1536045#osu/3140773)
-
-**[Download the mappack here! (71MB)](https://drive.google.com/file/d/1fbqRKbfmed0pDuU4srHvRBQcsr4kC9Fy/view)**
 
 ## Match results
 
