@@ -215,23 +215,6 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## 比賽結果
-## Match results
-
-### Round of 16
-
-Detailed statistics for this round can be found [here]().
-
-Saturday, 4 November 2023:
-
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **泰國** ::{ flag=TH }:: | **5** | 4 | ::{ flag=NZ }:: 紐西蘭 | [#1](https://osu.ppy.sh/community/matches/111165133) | [#1](https://www.twitch.tv/videos/1968375051) |
-| **韓國** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: 中國 | [#1](https://osu.ppy.sh/community/matches/111167951) | [#1](https://www.twitch.tv/videos/1968543637) |
-| 西班牙 ::{ flag=ES }:: | 0 | **5** | ::{ flag=NO }:: **挪威** | [#1](https://osu.ppy.sh/community/matches/111168903) | [#1](https://www.twitch.tv/videos/1968543637?t=00h47m36s) |
-| 荷蘭 ::{ flag=NL }:: | 0 | **5** | ::{ flag=FI }:: **芬蘭** | [#1](https://osu.ppy.sh/community/matches/111170809) | [#1](https://www.twitch.tv/videos/1968663146) |
-| 阿根廷 ::{ flag=AR }:: | 0 | **5** | ::{ flag=FR }:: **法國** | [#1](https://osu.ppy.sh/community/matches/111170821) | [#1](https://www.twitch.tv/videos/1968714286) |
-| 德國 ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/111171785) | [#1](https://www.twitch.tv/videos/1968714286?t=00h35m49s) |
-
 
 ### 16 強
 
