@@ -12,7 +12,7 @@ tags:
 
 ![](img/notelock.gif "Un ejemplo del notelock: la segunda nota es inaccesible")
 
-El **notelock**, o **bloqueo de nota**, es un término informal para la mecánica del juego [osu!](/wiki/Game_mode/osu!), el cual puede evitar que un jugador elimine un objeto. Esto pasa si **dos** condiciones se cumplen al mismo tiempo:
+El **notelock** o **bloqueo de nota**, es un término informal para la mecánica del juego [osu!](/wiki/Game_mode/osu!), el cual puede evitar que un jugador elimine un objeto. Esto pasa si **dos** condiciones se cumplen al mismo tiempo:
 
 1. Las [ventanas de tiempo](/wiki/Beatmap/Overall_difficulty#tiempo) de dos objetos se superponen.
 2. El primer objeto de los dos aún no ha sido juzgado (acertado o fallado).
@@ -23,7 +23,7 @@ Cuando se produce el notelock, el círculo se sacudirá. Esto no sucede con desl
 
 ## Causa
 
-El notelock es parte del sistema de la ventana de tempo de osu!, y sucede cuando la ventana de tiempo de dos objetos se superponen. Esto ocurre con mayor frecuencia en beatmaps con valores bajos de [OD](/wiki/Beatmap/Overall_difficulty) o valores altos de [PPM](/wiki/Music_theory/Tempo), ya que en estos casos son más frecuentes la superposición en la ventana de tiempo.
+El notelock es parte del sistema de la ventana de tempo de osu!, y sucede cuando la ventana de tiempo de dos objetos se superponen. Esto ocurre con mayor frecuencia en beatmaps con valores bajos de [OD](/wiki/Beatmap/Overall_difficulty) o valores altos de [BPM](/wiki/Music_theory/Tempo), ya que en estos casos son más frecuentes la superposición en la ventana de tiempo.
 
 Dado que regularmente los objetos en los beatmaps de osu! están destinados a borrarse en orden cronológico, el rechazo de golpes causados por el notelock, generalmente juega un papel positivo como:
 
@@ -32,4 +32,4 @@ Dado que regularmente los objetos en los beatmaps de osu! están destinados a bo
 
 ## Prevención
 
-Desde la perspectiva de un mapper, el notelock se puede evitar, si se elige cuidadosamente el valor del OD de una [dificultad](/wiki/Beatmap/Difficulty) de acuerdo a su densidad y PPM. En beatmaps con PPM de 200 o más, es recomendable usar un OD de 5 o más. Para un desglose más detallado, consulta la guía «[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)».
+Desde la perspectiva de un mapper, el notelock se puede evitar, si se elige cuidadosamente el valor del OD de una [dificultad](/wiki/Beatmap/Difficulty) de acuerdo a su densidad y BPM. En beatmaps con BPM de 200 o más, es recomendable usar un OD de 5 o más. Para un desglose más detallado, consulta la guía «[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)».
