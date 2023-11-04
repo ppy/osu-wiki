@@ -4,7 +4,7 @@ title: "The First osu! Manga: osu! Combat Championship"
 date: 2023-10-21 13:00:00 +0000
 ---
 
-WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted.
+WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted!
 
 ![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/OCCnewspostrecent.jpg)
 
@@ -12,7 +12,7 @@ WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The s
 
 Prepare yourselves for a journey like none other, as we introduce the highly anticipated **osu! Combat Championship** (OCC) manga!
 
- Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out for the ultimate goal: attaining the prestigious rank 1 title and having any wish granted. Get ready to experience exhilarating art, intense rivalries, and delve deeper into our unique spin on the world of osu!.
+Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out for the ultimate goal: attaining the prestigious rank 1 title and having any wish granted. Get ready to experience exhilarating art, intense rivalries, and delve deeper into our unique spin on the world of osu!.
 
 For those eager to dive into the manga and skip the introductions, simply click the button below to head over to Mangadex and start reading.
 
