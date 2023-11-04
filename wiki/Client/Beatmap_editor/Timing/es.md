@@ -18,55 +18,55 @@ tags:
   - línea verde
   - offset verde
   - punto de tiempo verde
-  - configuración de timing
-  - copiar timing
-  - pegar timing
+  - configuración de temporización
+  - copiar temporización
+  - pegar temporización
 ---
 
 # Pestaña de timing
 
-*Para obtener una guía de timing, véase: [Cómo timear canciones](/wiki/Guides/How_to_time_songs)*\
+*Para obtener una guía de temporización, véase: [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)*\
 *Véase también: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** es la pestaña del [editor de beatmaps](/wiki/Client/Beatmap_editor) para cambiar y configurar el timing de un [beatmap](/wiki/Beatmap), lo cual es esencial para la representación correcta de la canción. Contiene configuraciones y herramientas relacionadas con el timing, y también una [ventana dedicada](#panel-de-configuración-de-timing) para trabajar con múltiples [puntos de tiempo](#puntos-de-tiempo), tanto para la representación de estructuras musicales como para el diseño de beatmaps.
+**Timing** es la pestaña del [editor de beatmaps](/wiki/Client/Beatmap_editor) para cambiar y configurar la temporización de un [beatmap](/wiki/Beatmap), la cual es esencial para la representación correcta de la canción. Contiene configuraciones y herramientas relacionadas con la temporización, y también una [ventana dedicada](#panel-de-configuración-de-la-temporización) para trabajar con múltiples [puntos de tiempo](#puntos-de-tiempo), tanto para la representación de estructuras musicales como para el diseño de beatmaps.
 
 ## Puntos de tiempo
 
 *Véase también: [Offset](/wiki/Offset)*
 
-En el [mapping](/wiki/Beatmapping), un *punto de tiempo*, coloquialmente llamado *offset*, es una forma de aplicar configuraciones comunes, como [timing](/wiki/Beatmapping/Timing), multiplicadores de la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), o [hitsounds](/wiki/Beatmapping/Hitsound) y sus respectivos volúmenes, a una sección específica de un beatmap. En osu!, hay dos tipos de puntos de timing.
+En el [mapping](/wiki/Beatmapping), un *punto de tiempo*, coloquialmente llamado *offset*, es una forma de aplicar configuraciones comunes, como [temporización](/wiki/Beatmapping/Timing), multiplicadores de la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), o [hitsounds](/wiki/Beatmapping/Hitsound) y sus respectivos volúmenes, a una sección específica de un beatmap. En osu!, hay dos tipos de puntos de tiempo.
 
 ### Puntos de tiempo no heredados
 
 ::: Infobox
-![](img/uninherited-points.png "Varios puntos de tiempo no heredados ubicados en el panel de configuración de timing")
+![](img/uninherited-points.png "Varios puntos de tiempo no heredados ubicados en el panel de configuración de la temporización")
 :::
 
-Un punto de tiempo **no heredado** tiene su propia configuración de timing. Varios de estos puntos se usan para representar cambios de tiempo en la canción, como el [tempo](/wiki/Music_theory/Tempo), irregularidades de ritmo o diferentes [signaturas de compás](/wiki/Music_theory/Time_signature). Agregar un nuevo punto de tiempo no heredado reinicia el metrónomo, lo que hace que cuente los pulsos a partir del offset del punto de tiempo, especificado en milisegundos.
+Un punto de tiempo **no heredado** tiene su propia configuración de temporización. Varios de estos puntos se usan para representar cambios de tiempo en la canción, como el [tempo](/wiki/Music_theory/Tempo), irregularidades de ritmo o diferentes [signaturas de compás](/wiki/Music_theory/Time_signature). Agregar un nuevo punto de tiempo no heredado reinicia el metrónomo, lo que hace que cuente los pulsos a partir del offset del punto de tiempo, especificado en milisegundos.
 
 Además de eso, los puntos de tiempo no heredados se pueden usar para omitir líneas de compás en [osu!taiko](/wiki/Game_mode/osu!taiko) o [osu!mania](/wiki/Game_mode/osu!mania).
 
-Los puntos de tiempo no heredados tienen un color rojo en la línea de tiempo inferior y en el [panel de configuración de timing](#panel-de-configuración-de-timing). Debido a esto, a menudo se les llama «offsets rojos» o «líneas rojas».
+Los puntos de tiempo no heredados tienen un color rojo en la línea de tiempo inferior y en el [panel de configuración de la temporización](#panel-de-configuración-de-la-temporización). Debido a esto, a menudo se les llama «offsets rojos» o «líneas rojas».
 
 ### Puntos de tiempo heredados
 ::: Infobox
 ![](img/inherited-points.png "Varios puntos de tiempo heredados con diferentes configuraciones de kiai, volumen y multiplicador de la velocidad del slider")
 :::
 
-Un punto de tiempo **heredado** usa la configuración de timing actualmente activa, *heredándola* del punto de tiempo anterior. Los puntos de tiempo heredados se utilizan para los siguientes propósitos:
+Un punto de tiempo **heredado** usa la configuración de temporización actualmente activa, *heredándola* del punto de tiempo anterior. Los puntos de tiempo heredados se utilizan para los siguientes propósitos:
 
 - Cambiar la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Controlar el volumen de los [hitsounds](/wiki/Beatmapping/Hitsound)
 - Cambiar entre los [conjuntos de muestras](/wiki/Beatmapping/Sampleset) activos de los hitsounds
 - Activar o desactivar el [kiai time](/wiki/Gameplay/Kiai_time)
 
-Los puntos de tiempo heredados tienen un color verde en la línea de tiempo inferior y en el [panel de configuración de timing](#panel-de-configuración-de-timing). Debido a esto, a menudo se les llama «offsets verdes» o «líneas verdes».
+Los puntos de tiempo heredados tienen un color verde en la línea de tiempo inferior y en el [panel de configuración de la temporización](#panel-de-configuración-de-la-temporización). Debido a esto, a menudo se les llama «offsets verdes» o «líneas verdes».
 
 ## Vista principal
 
 ![Captura de pantalla de la pestaña timing en el editor](img/Timing_base-ES.png)
 
-La pestaña de timing se puede abrir presionando `F3` y proporciona acceso rápido a las siguientes configuraciones:
+La pestaña de temporización se puede abrir presionando `F3` y proporciona acceso rápido a las siguientes configuraciones:
 
 | Nombre | Significado |
 | :-- | :-- |
@@ -88,20 +88,20 @@ Para realizar cambios mayores o menores rápidamente, utiliza los siguientes mod
 
 ![](img/metronome-ES.png "El metrónomo de osu! desde la pestaña timing")
 
-El metrónomo, que se encuentra en la esquina superior derecha de la pestaña timing, ayuda a encontrar rápidamente configuraciones de timing aproximadas. Los BPM iniciales y los valores del offset de la canción se pueden encontrar tocando repetidamente `T` o haciendo clic en el botón `¡Pulsa aquí!` al ritmo de la canción.
+El metrónomo, que se encuentra en la esquina superior derecha de la pestaña timing, ayuda a encontrar rápidamente configuraciones de temporización aproximadas. Los BPM iniciales y los valores del offset de la canción se pueden encontrar tocando repetidamente `T` o haciendo clic en el botón `¡Pulsa aquí!` al ritmo de la canción.
 
 La parte visual del metrónomo está adaptada a la [signatura de compás](/wiki/Music_theory/Time_signature) más común, 4/4. La primera sección denota el [tiempo fuerte](/wiki/Music_theory/Downbeat) y parpadea en verde, mientras que las secciones restantes parpadean en blanco en cada pulso de los [compases](/wiki/Music_theory/Measure) de la canción. Las signaturas poco comunes, como 7/4, añaden destellos adicionales, pero el tamaño del metrónomo no cambia.
 
-## Panel de configuración de timing
+## Panel de configuración de la temporización
 
-![Captura de pantalla del panel de configuración de timing](/wiki/shared/timing/TimingSetup.png)
+![Captura de pantalla del panel de configuración de la temporización](/wiki/shared/timing/TimingSetup.png)
 
-El panel de configuración de timing, también llamado `Timing and Control Points`, es una ventana emergente que se puede abrir presionando `F6`. Contiene varias pestañas para trabajar con diferentes opciones de puntos de tiempo, como timing, [hitsounds](/wiki/Beatmapping/Hitsound), volúmenes, [conjuntos de muestras](/wiki/Beatmapping/Sampleset) o efectos especiales.
+El panel de configuración de la temporización, también llamado `Timing and Control Points`, es una ventana emergente que se puede abrir presionando `F6`. Contiene varias pestañas para trabajar con diferentes opciones de puntos de tiempo, como temporización, [hitsounds](/wiki/Beatmapping/Hitsound), volúmenes, [conjuntos de muestras](/wiki/Beatmapping/Sampleset) o efectos especiales.
 
 ### Seleccionar y compartir
 
-Todos los cambios en el panel de timing solo se aplican a los puntos de tiempo seleccionados.
+Todos los cambios en el panel de temporización solo se aplican a los puntos de tiempo seleccionados.
 
 - Para seleccionar múltiples puntos de tiempo arbitrarios, mantén presionada la tecla `Ctrl` mientras haces clic en ellos
 - Para seleccionar varios puntos de tiempo seguidos, haz clic en el primero y luego haz clic en el último mientras mantienes presionada la tecla `Shift`
-- Para **copiar o pegar puntos de tiempo desde y hacia el panel de timing**, usa los atajos predeterminados de tu sistema operativo, como `Ctrl` + `C` y `Ctrl` + `V`
+- Para **copiar o pegar puntos de tiempo desde y hacia el panel de temporización**, usa los atajos predeterminados de tu sistema operativo, como `Ctrl` + `C` y `Ctrl` + `V`
