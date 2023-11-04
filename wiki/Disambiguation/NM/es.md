@@ -2,7 +2,7 @@
 
 **NM** puede tener diferentes significados:
 
-- Un [modeo normal](/wiki/Modding/Normal_mod)
+- Un [mod Normal](/wiki/Modding/Normal_mod)
 - La [dificultad](/wiki/Beatmap/Difficulty) de un beatmap:
   - ![](/wiki/shared/diff/normal-m.png?20211215) NM, para osu!mania.
   - ![](/wiki/shared/diff/normal-o.png?20211215) Normal, para osu!.
