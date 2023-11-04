@@ -130,8 +130,8 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |
 | --: | :-- | :-- | :-: |
-| 墨西哥 ::{ flag=MX }:: | ::{ flag=SG }:: 新加坡 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 澳洲 ::{ flag=AU }:: | ::{ flag=CL }:: 智利 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive_2](https://twitch.tv/osulive_2) |
+| 墨西哥 ::{ flag=MX }:: | ::{ flag=SG }:: 新加坡 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| 澳洲 ::{ flag=AU }:: | ::{ flag=CL }:: 智利 | [11 月 5 日 (日) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) |
 | 土耳其 ::{ flag=TR }:: | ::{ flag=ID }:: 印尼 | [11 月 5 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 俄羅斯 ::{ flag=RU }:: | ::{ flag=HK }:: 香港 | [11 月 5 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 臺灣 ::{ flag=TW }:: | ::{ flag=SE }:: 瑞典 | [11 月 5 日 (日) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive_2](https://twitch.tv/osulive_2) |

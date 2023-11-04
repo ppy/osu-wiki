@@ -130,8 +130,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Mexico ::{ flag=MX }:: | ::{ flag=SG }:: Singapore | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive](https://twitch.tv/osulive) |
-| Australia ::{ flag=AU }:: | ::{ flag=CL }:: Chile | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive_2](https://twitch.tv/osulive_2) |
+| Mexico ::{ flag=MX }:: | ::{ flag=SG }:: Singapore | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| Australia ::{ flag=AU }:: | ::{ flag=CL }:: Chile | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) |
 | Turkey ::{ flag=TR }:: | ::{ flag=ID }:: Indonesia | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=SE }:: Sweden | [Nov 5 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive](https://twitch.tv/osulive) |

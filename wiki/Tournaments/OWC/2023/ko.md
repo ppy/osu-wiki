@@ -130,8 +130,8 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |
 | --: | :-- | :-- | :-: |
-| 멕시코 ::{ flag=MX }:: | ::{ flag=SG }:: 싱가포르 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CL }:: 칠레 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive_2](https://twitch.tv/osulive_2) |
+| 멕시코 ::{ flag=MX }:: | ::{ flag=SG }:: 싱가포르 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CL }:: 칠레 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) |
 | 튀르키예 ::{ flag=TR }:: | ::{ flag=ID }:: 인도네시아 | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 러시아 ::{ flag=RU }:: | ::{ flag=HK }:: 홍콩 | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 대만 ::{ flag=TW }:: | ::{ flag=SE }:: 스웨덴 | [Nov 5 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive_2](https://twitch.tv/osulive_2) |
