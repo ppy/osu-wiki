@@ -16,8 +16,8 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 ### Allowed
 
-|  | Artist | Status |
-| :-: | :-- | :-- |
+| Artist |  | Status |
+| :-- | :-- | :-- |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/297) | [-45](https://osu.ppy.sh/beatmaps/artists/297) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/382) | [1914](https://osu.ppy.sh/beatmaps/artists/382) | ![][true] |
@@ -403,8 +403,8 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 ### Exceptions
 
-|  | Artist | Status | Notes |
-| :-: | :-- | :-- | :-- |
+| Artist |  | Status | Notes |
+| :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or via [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
