@@ -434,6 +434,8 @@ In many cases, a visual artist will make it immediately apparent if they permit 
 
 If it is unclear whether a visual artist allows their work to be used on other platforms, we recommend not making use of any until appropriate usage conditions can be confirmed with them individually.
 
+## Notes
+
 [^monstercat-gold]: This artist is licensed in cooperation with [Monstercat](https://osu.ppy.sh/beatmaps/artists/255), and users may be able to obtain external media usage rights via a [Monstercat Gold](https://www.monstercat.com/gold) subscription. Please consult their site for specific details on this license.
 
 [^allowed-audio]: All Featured Artist tracks available on an artist's listing are allowed for use.
