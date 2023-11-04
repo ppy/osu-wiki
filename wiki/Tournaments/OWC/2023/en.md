@@ -126,17 +126,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ## Match schedule: Round of 16
 
-### Saturday, 4 November 2023
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=NZ }:: New Zealand | [Nov 4 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T100000&p1=1440&p2=28&p3=264) | [osulive](https://twitch.tv/osulive) |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Nov 4 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T140000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) |
-| Spain ::{ flag=ES }:: | ::{ flag=NO }:: Norway | [Nov 4 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T150000&p1=1440&p2=141&p3=187) | [osulive](https://twitch.tv/osulive) |
-| Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Nov 4 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T170000&p1=1440&p2=16&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
-| Argentina ::{ flag=AR }:: | ::{ flag=FR }:: France | [Nov 4 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T170000&p1=1440&p2=51&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Germany ::{ flag=DE }:: | ::{ flag=CA }:: Canada | [Nov 4 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231104T180000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 5 November 2023
 
 | Team A | Team B | Match time | Twitch stream |
@@ -147,7 +136,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=SE }:: Sweden | [Nov 5 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive](https://twitch.tv/osulive) |
 | Kazakhstan ::{ flag=KZ }:: | ::{ flag=JP }:: Japan | [Nov 5 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
-| Philippines ::{ flag=PH }:: | ::{ flag=RO }:: Romania | [Nov 5 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p2=145&p3=49) | [osulive](https://twitch.tv/osulive) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=UA }:: Ukraine | [Nov 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T150000&p1=1440&p2=136&p3=367) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Nov 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) |
 | Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [Nov 5 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T190000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
@@ -227,6 +215,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## Match results
+
+### Round of 16
+
+Friday, 3 November 2023:
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/111152642) | [#1](https://www.twitch.tv/videos/1967584249) |
+
+Saturday, 4 November 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Thailand** ::{ flag=TH }:: | **5** | 4 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/111165133) | [#1](https://www.twitch.tv/videos/1968375051) |
+| **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/111167951) | [#1](https://www.twitch.tv/videos/1968543637) |
+| Spain ::{ flag=ES }:: | 0 | **5** | ::{ flag=NO }:: **Norway** | [#1](https://osu.ppy.sh/community/matches/111168903) | [#1](https://www.twitch.tv/videos/1968543637?t=00h47m36s) |
+| Netherlands ::{ flag=NL }:: | 0 | **5** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/111170809) | [#1](https://www.twitch.tv/videos/1968663146) |
+| Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/111170821) | [#1](https://www.twitch.tv/videos/1968714286) |
+| Germany ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/111171785) | [#1](https://www.twitch.tv/videos/1968714286?t=00h35m49s) |
 
 ### Round of 32
 
