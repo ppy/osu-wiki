@@ -204,7 +204,7 @@ Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki
 
 ### Editor específico de osu!mania
 
-![El editor de osu!mania](img/Editor_Mania-ES.png "Editor específico de osu!mania")
+![El editor de osu!mania](img/Editor_Mania-ES.jpg "Editor específico de osu!mania")
 
 Para acceder al editor específico de osu!mania, cambia el beatmap a uno específico de osu!mania en las configuraciones de la canción bajo la pestaña de Advanced.
 Ten en cuenta que el beatmap se limitará solo a osu!mania cuando en las configuraciones se hayan cambiado desde *All* a *osu!mania*.
