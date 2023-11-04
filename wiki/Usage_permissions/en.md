@@ -16,415 +16,415 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 ### Allowed
 
-| Artist | Status |
-| :- | :- |
-| [\*namirin ![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] [^allowed-audio] |
-| [-45 ![][FA]](https://osu.ppy.sh/beatmaps/artists/297) | ![][true] [^allowed-audio] |
-| [1914 ![][FA]](https://osu.ppy.sh/beatmaps/artists/382) | ![][true] [^allowed-audio] |
-| [2ToneDisco ![][FA]](https://osu.ppy.sh/beatmaps/artists/157) | ![][true] [^allowed-audio] |
-| [3R2 / DJ Mashiro ![][FA]](https://osu.ppy.sh/beatmaps/artists/187) | ![][true] [^allowed-audio] |
-| [69 de 74 ![][FA]](https://osu.ppy.sh/beatmaps/artists/268) | ![][true] [^allowed-audio] |
-| [7\_7 ![][FA]](https://osu.ppy.sh/beatmaps/artists/356) | ![][true] [^allowed-audio] |
-| [:Poin7less ![][FA]](https://osu.ppy.sh/beatmaps/artists/275) | ![][true] [^allowed-audio] |
-| [A-One ![][FA]](https://osu.ppy.sh/beatmaps/artists/168) | ![][true] [^allowed-audio] |
-| [A.SAKA ![][FA]](https://osu.ppy.sh/beatmaps/artists/253) | ![][true] [^allowed-audio] |
-| [A? ![][FA]](https://osu.ppy.sh/beatmaps/artists/173) | ![][true] [^allowed-audio] |
-| [AAAA ![][FA]](https://osu.ppy.sh/beatmaps/artists/301) | ![][true] [^allowed-audio] |
-| [ABSOLUTE CASTAWAY ![][FA]](https://osu.ppy.sh/beatmaps/artists/179) | ![][true] [^allowed-audio] |
-| [Abuse ![][FA]](https://osu.ppy.sh/beatmaps/artists/294) | ![][true] [^allowed-audio] |
-| [Aether ![][FA]](https://osu.ppy.sh/beatmaps/artists/191) | ![][true] [^allowed-audio] |
-| [Aethoro ![][FA]](https://osu.ppy.sh/beatmaps/artists/153) | ![][true] [^allowed-audio] |
-| [Aethral ![][FA]](https://osu.ppy.sh/beatmaps/artists/259) | ![][true] [^allowed-audio] |
-| [Æther Realm ![][FA]](https://osu.ppy.sh/beatmaps/artists/47) | ![][true] [^allowed-audio] |
-| [Agressor Bunx ![][FA]](https://osu.ppy.sh/beatmaps/artists/164) | ![][true] [^allowed-audio] |
-| [Aice room ![][FA]](https://osu.ppy.sh/beatmaps/artists/360) | ![][true] [^allowed-audio] |
-| [Aiobahn ![][FA]](https://osu.ppy.sh/beatmaps/artists/166) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Aitsuki Nakuru ![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] [^allowed-audio] |
-| [Aiyru ![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] [^allowed-audio] |
-| [Akira Complex ![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | ![][true] [^allowed-audio] |
-| [ALEPH ![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] [^allowed-audio] |
-| [Alestorm ![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] [^allowed-audio] |
-| [Alkome ![][FA]](https://osu.ppy.sh/beatmaps/artists/195) | ![][true] [^allowed-audio] |
-| [Allegaeon ![][FA]](https://osu.ppy.sh/beatmaps/artists/264) | ![][true] [^allowed-audio] |
-| [ALLMYFRIENDS ![][FA]](https://osu.ppy.sh/beatmaps/artists/374) | ![][true] [^allowed-audio] |
-| [Amidst ![][FA]](https://osu.ppy.sh/beatmaps/artists/151) | ![][true] [^allowed-audio] |
-| [Andora ![][FA]](https://osu.ppy.sh/beatmaps/artists/363) | ![][true] [^allowed-audio] |
-| [Andromedik ![][FA]](https://osu.ppy.sh/beatmaps/artists/177) | ![][true] [^allowed-audio] |
-| [Andy Gillion ![][FA]](https://osu.ppy.sh/beatmaps/artists/302) | ![][true] [^allowed-audio] |
-| [Annabel ![][FA]](https://osu.ppy.sh/beatmaps/artists/234) | ![][true] [^allowed-audio] |
-| [antiPLUR / Internet Death Machine ![][FA]](https://osu.ppy.sh/beatmaps/artists/24) | ![][true] [^allowed-audio] |
-| [Aoi ![][FA]](https://osu.ppy.sh/beatmaps/artists/183) | ![][true] [^allowed-audio] |
-| [Aquellex ![][FA]](https://osu.ppy.sh/beatmaps/artists/380) | ![][true] [^allowed-audio] |
-| [aran ![][FA]](https://osu.ppy.sh/beatmaps/artists/282) | ![][true] [^allowed-audio] |
-| [Archspire ![][FA]](https://osu.ppy.sh/beatmaps/artists/256) | ![][true] [^allowed-audio] |
-| [Ardolf ![][FA]](https://osu.ppy.sh/beatmaps/artists/263) | ![][true] [^allowed-audio] |
-| [ARForest ![][FA]](https://osu.ppy.sh/beatmaps/artists/95) | ![][true] [^allowed-audio] |
-| [Ariabl'eyeS ![][FA]](https://osu.ppy.sh/beatmaps/artists/93) | ![][true] [^allowed-audio] |
-| [Ashrount ![][FA]](https://osu.ppy.sh/beatmaps/artists/352) | ![][true] [^allowed-audio] |
-| [Ata ![][FA]](https://osu.ppy.sh/beatmaps/artists/309) | ![][true] [^allowed-audio] |
-| [Atavistia ![][FA]](https://osu.ppy.sh/beatmaps/artists/237) | ![][true] [^allowed-audio] |
-| [Au5 ![][FA]](https://osu.ppy.sh/beatmaps/artists/312) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Avizura ![][FA]](https://osu.ppy.sh/beatmaps/artists/198) | ![][true] [^allowed-audio] |
-| [Beach Bunny ![][FA]](https://osu.ppy.sh/beatmaps/artists/277) | ![][true] [^allowed-audio] |
-| [beignet ![][FA]](https://osu.ppy.sh/beatmaps/artists/377) | ![][true] [^allowed-audio] |
-| [Ben Briggs ![][FA]](https://osu.ppy.sh/beatmaps/artists/11) | ![][true] [^allowed-audio] |
-| [bill wurtz ![][FA]](https://osu.ppy.sh/beatmaps/artists/236) | ![][true] [^allowed-audio] |
-| [Billain ![][FA]](https://osu.ppy.sh/beatmaps/artists/46) | ![][true] [^allowed-audio] |
-| [BilliumMoto ![][FA]](https://osu.ppy.sh/beatmaps/artists/38) | ![][true] [^allowed-audio] |
-| [BlackY ![][FA]](https://osu.ppy.sh/beatmaps/artists/150) | ![][true] [^allowed-audio] |
-| [BLANKFIELD ![][FA]](https://osu.ppy.sh/beatmaps/artists/80) | ![][true] [^allowed-audio] |
-| [Blind Guardian ![][FA]](https://osu.ppy.sh/beatmaps/artists/284) | ![][true] [^allowed-audio] |
-| [BLOOD CODE ![][FA]](https://osu.ppy.sh/beatmaps/artists/115) | ![][true] [^allowed-audio] |
-| [BLOOD STAIN CHILD ![][FA]](https://osu.ppy.sh/beatmaps/artists/126) | ![][true] [^allowed-audio] |
-| [Blue Stahli ![][FA]](https://osu.ppy.sh/beatmaps/artists/65) | ![][true] [^allowed-audio] |
-| [Boom Kitty ![][FA]](https://osu.ppy.sh/beatmaps/artists/233) | ![][true] [^allowed-audio] |
-| [Bossfight ![][FA]](https://osu.ppy.sh/beatmaps/artists/119) | ![][true] [^allowed-audio] |
-| [Boxplot ![][FA]](https://osu.ppy.sh/beatmaps/artists/154) | ![][true] [^allowed-audio] |
-| [C-Show ![][FA]](https://osu.ppy.sh/beatmaps/artists/378) | ![][true] [^allowed-audio] |
-| [Camellia ![][FA]](https://osu.ppy.sh/beatmaps/artists/31) | ![][true] [^allowed-audio] |
-| [Carpool Tunnel ![][FA]](https://osu.ppy.sh/beatmaps/artists/42) | ![][true] [^allowed-audio] |
-| [CHON ![][FA]](https://osu.ppy.sh/beatmaps/artists/354) | ![][true] [^allowed-audio] |
-| [Chroma ![][FA]](https://osu.ppy.sh/beatmaps/artists/215) | ![][true] [^allowed-audio] |
-| [Cinamoro ![][FA]](https://osu.ppy.sh/beatmaps/artists/341) | ![][true] [^allowed-audio] |
-| [CircusP ![][FA]](https://osu.ppy.sh/beatmaps/artists/78) | ![][true] [^allowed-audio] |
-| [City Girl ![][FA]](https://osu.ppy.sh/beatmaps/artists/245) | ![][true] [^allowed-audio] |
-| [ColBreakz ![][FA]](https://osu.ppy.sh/beatmaps/artists/384) | ![][true] [^allowed-audio] |
-| [Corsace ![][FA]](https://osu.ppy.sh/beatmaps/artists/381) | ![][true] [^allowed-audio] |
-| [Cranky ![][FA]](https://osu.ppy.sh/beatmaps/artists/23) | ![][true] [^allowed-audio] |
-| [Creo ![][FA]](https://osu.ppy.sh/beatmaps/artists/36) | ![][true] [^allowed-audio] |
-| [Cres. ![][FA]](https://osu.ppy.sh/beatmaps/artists/147) | ![][true] [^allowed-audio] |
-| [Crywolf ![][FA]](https://osu.ppy.sh/beatmaps/artists/321) | ![][true] [^allowed-audio] |
-| [Culprate ![][FA]](https://osu.ppy.sh/beatmaps/artists/29) | ![][true] [^allowed-audio] |
-| [cute girls doing cute things ![][FA]](https://osu.ppy.sh/beatmaps/artists/105) | ![][true] [^allowed-audio] |
-| [cygnus ![][FA]](https://osu.ppy.sh/beatmaps/artists/359) | ![][true] [^allowed-audio] |
-| [cYsmix ![][FA]](https://osu.ppy.sh/beatmaps/artists/2) | ![][true] [^allowed-audio] |
-| [dark cat ![][FA]](https://osu.ppy.sh/beatmaps/artists/6) | ![][true] [^allowed-audio] |
-| [Darkney ![][FA]](https://osu.ppy.sh/beatmaps/artists/290) | ![][true] [^allowed-audio] |
-| [DGK ![][FA]](https://osu.ppy.sh/beatmaps/artists/229) | ![][true] [^allowed-audio] |
-| [Dimrain47 ![][FA]](https://osu.ppy.sh/beatmaps/artists/134) | ![][true] [^allowed-audio] |
-| [Disasterpeace ![][FA]](https://osu.ppy.sh/beatmaps/artists/81) | ![][true] [^allowed-audio] |
-| [Disko Warp ![][FA]](https://osu.ppy.sh/beatmaps/artists/44) | ![][true] [^allowed-audio] |
-| [DJ Genki / Gram ![][FA]](https://osu.ppy.sh/beatmaps/artists/295) | ![][true] [^allowed-audio] |
-| [DJ Raisei ![][FA]](https://osu.ppy.sh/beatmaps/artists/204) | ![][true] [^allowed-audio] |
-| [Down ![][FA]](https://osu.ppy.sh/beatmaps/artists/350) | ![][true] [^allowed-audio] |
-| [Dual Alter World ![][FA]](https://osu.ppy.sh/beatmaps/artists/111) | ![][true] [^allowed-audio] |
-| [Dustvoxx ![][FA]](https://osu.ppy.sh/beatmaps/artists/386) | ![][true] [^allowed-audio] |
-| [E0ri4 ![][FA]](https://osu.ppy.sh/beatmaps/artists/322) | ![][true] [^allowed-audio] |
-| [Ekcle ![][FA]](https://osu.ppy.sh/beatmaps/artists/326) | ![][true] [^allowed-audio] |
-| [ELFENSJóN ![][FA]](https://osu.ppy.sh/beatmaps/artists/69) | ![][true] [^allowed-audio] |
-| [Emille's Moonlight Serenade ![][FA]](https://osu.ppy.sh/beatmaps/artists/160) | ![][true] [^allowed-audio] |
-| [EmoCosine ![][FA]](https://osu.ppy.sh/beatmaps/artists/246) | ![][true] [^allowed-audio] |
-| [Empty Peperoncino ![][FA]](https://osu.ppy.sh/beatmaps/artists/145) | ![][true] [^allowed-audio] |
-| [Ensou ![][FA]](https://osu.ppy.sh/beatmaps/artists/320) | ![][true] [^allowed-audio] |
-| [EPICA ![][FA]](https://osu.ppy.sh/beatmaps/artists/100) | ![][true] [^allowed-audio] |
-| [Erik McClure ![][FA]](https://osu.ppy.sh/beatmaps/artists/125) | ![][true] [^allowed-audio] |
-| [Etherwood ![][FA]](https://osu.ppy.sh/beatmaps/artists/335) | ![][true] [^allowed-audio] |
-| [Euchaeta ![][FA]](https://osu.ppy.sh/beatmaps/artists/333) | ![][true] [^allowed-audio] |
-| [Extra Terra ![][FA]](https://osu.ppy.sh/beatmaps/artists/143) | ![][true] [^allowed-audio] |
-| [Exyl ![][FA]](https://osu.ppy.sh/beatmaps/artists/285) | ![][true] [^allowed-audio] |
-| [F-777 ![][FA]](https://osu.ppy.sh/beatmaps/artists/60) | ![][true] [^allowed-audio] |
-| [False Noise ![][FA]](https://osu.ppy.sh/beatmaps/artists/52) | ![][true] [^allowed-audio] |
-| [FATE GEAR ![][FA]](https://osu.ppy.sh/beatmaps/artists/216) | ![][true] [^allowed-audio] |
-| [Feint ![][FA]](https://osu.ppy.sh/beatmaps/artists/306) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Fellowship ![][FA]](https://osu.ppy.sh/beatmaps/artists/332) | ![][true] [^allowed-audio] |
-| [fiend ![][FA]](https://osu.ppy.sh/beatmaps/artists/156) | ![][true] [^allowed-audio] |
-| [Fleshgod Apocalypse ![][FA]](https://osu.ppy.sh/beatmaps/artists/170) | ![][true] [^allowed-audio] |
-| [Fractal ![][FA]](https://osu.ppy.sh/beatmaps/artists/313) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Fractal Dreamers ![][FA]](https://osu.ppy.sh/beatmaps/artists/15) | ![][true] [^allowed-audio] |
-| [FRASER EDWARDS ![][FA]](https://osu.ppy.sh/beatmaps/artists/339) | ![][true] [^allowed-audio] |
-| [Fred V & Grafix ![][FA]](https://osu.ppy.sh/beatmaps/artists/180) | ![][true] [^allowed-audio] |
-| [Frums ![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | ![][true] [^allowed-audio] |
-| [Fuki ![][FA]](https://osu.ppy.sh/beatmaps/artists/114) | ![][true] [^allowed-audio] |
-| [garlagan ![][FA]](https://osu.ppy.sh/beatmaps/artists/212) | ![][true] [^allowed-audio] |
-| [Genkaku Aria ![][FA]](https://osu.ppy.sh/beatmaps/artists/358) | ![][true] [^allowed-audio] |
-| [Geoxor ![][FA]](https://osu.ppy.sh/beatmaps/artists/133) | ![][true] [^allowed-audio] |
-| [Getty ![][FA]](https://osu.ppy.sh/beatmaps/artists/128) | ![][true] [^allowed-audio] |
-| [ginkiha ![][FA]](https://osu.ppy.sh/beatmaps/artists/72) | ![][true] [^allowed-audio] |
-| [glass beach ![][FA]](https://osu.ppy.sh/beatmaps/artists/113) | ![][true] [^allowed-audio] |
-| [GLORYHAMMER ![][FA]](https://osu.ppy.sh/beatmaps/artists/311) | ![][true] [^allowed-audio] |
-| [Good Kid ![][FA]](https://osu.ppy.sh/beatmaps/artists/240) | ![][true] [^allowed-audio] |
-| [goreshit ![][FA]](https://osu.ppy.sh/beatmaps/artists/57) | ![][true] [^allowed-audio] |
-| [Grant ![][FA]](https://osu.ppy.sh/beatmaps/artists/281) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Grynpyret ![][FA]](https://osu.ppy.sh/beatmaps/artists/159) | ![][true] [^allowed-audio] |
-| [GYZE ![][FA]](https://osu.ppy.sh/beatmaps/artists/148) | ![][true] [^allowed-audio] |
-| [Halv ![][FA]](https://osu.ppy.sh/beatmaps/artists/368) | ![][true] [^allowed-audio] |
-| [Hamu ![][FA]](https://osu.ppy.sh/beatmaps/artists/289) | ![][true] [^allowed-audio] |
-| [happy30 ![][FA]](https://osu.ppy.sh/beatmaps/artists/317) | ![][true] [^allowed-audio] |
-| [HARDCORE UTOPIA ![][FA]](https://osu.ppy.sh/beatmaps/artists/205) | ![][true] [^allowed-audio] |
-| [Harumaki Gohan ![][FA]](https://osu.ppy.sh/beatmaps/artists/197) | ![][true] [^allowed-audio] |
-| [Haywyre ![][FA]](https://osu.ppy.sh/beatmaps/artists/230) | ![][true] [^allowed-audio] |
-| [HEAD PHONES PRESIDENT ![][FA]](https://osu.ppy.sh/beatmaps/artists/238) | ![][true] [^allowed-audio] |
-| [Helblinde ![][FA]](https://osu.ppy.sh/beatmaps/artists/5) | ![][true] [^allowed-audio] |
-| [High Tea Music ![][FA]](https://osu.ppy.sh/beatmaps/artists/26) | ![][true] [^allowed-audio] |
-| [Hinkik ![][FA]](https://osu.ppy.sh/beatmaps/artists/315) | ![][true] [^allowed-audio] |
-| [Hino Isuka ![][FA]](https://osu.ppy.sh/beatmaps/artists/272) | ![][true] [^allowed-audio] |
-| [Hybrid Minds ![][FA]](https://osu.ppy.sh/beatmaps/artists/310) | ![][true] [^allowed-audio] |
-| [Hyper Potions ![][FA]](https://osu.ppy.sh/beatmaps/artists/85) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [HyuN ![][FA]](https://osu.ppy.sh/beatmaps/artists/33) | ![][true] [^allowed-audio] |
-| [I love you Orchestra ![][FA]](https://osu.ppy.sh/beatmaps/artists/117) | ![][true] [^allowed-audio] |
-| [IAHN ![][FA]](https://osu.ppy.sh/beatmaps/artists/3) | ![][true] [^allowed-audio] |
-| [iFeature ![][FA]](https://osu.ppy.sh/beatmaps/artists/210) | ![][true] [^allowed-audio] |
-| [II-L ![][FA]](https://osu.ppy.sh/beatmaps/artists/172) | ![][true] [^allowed-audio] |
-| [Imperial Circus Dead Decadence ![][FA]](https://osu.ppy.sh/beatmaps/artists/35) | ![][true] [^allowed-audio] |
-| [Imy ![][FA]](https://osu.ppy.sh/beatmaps/artists/99) | ![][true] [^allowed-audio] |
-| [in love with a ghost ![][FA]](https://osu.ppy.sh/beatmaps/artists/257) | ![][true] [^allowed-audio] |
-| [Inferi ![][FA]](https://osu.ppy.sh/beatmaps/artists/43) | ![][true] [^allowed-audio] |
-| [Innocent Key ![][FA]](https://osu.ppy.sh/beatmaps/artists/323) | ![][true] [^allowed-audio] |
-| [Irreversible Mechanism ![][FA]](https://osu.ppy.sh/beatmaps/artists/135) | ![][true] [^allowed-audio] |
-| [James Landino ![][FA]](https://osu.ppy.sh/beatmaps/artists/39) | ![][true] [^allowed-audio] |
-| [Joe Ford ![][FA]](https://osu.ppy.sh/beatmaps/artists/109) | ![][true] [^allowed-audio] |
-| [JOYLESS ![][FA]](https://osu.ppy.sh/beatmaps/artists/267) | ![][true] [^allowed-audio] |
-| [Junk ![][FA]](https://osu.ppy.sh/beatmaps/artists/365) | ![][true] [^allowed-audio] |
-| [Kabocha ![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] [^allowed-audio] |
-| [kaitendaentai ![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] [^allowed-audio] |
-| [kakichoco ![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] [^allowed-audio] |
-| [kanone ![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] [^allowed-audio] |
-| [Kanpyohgo ![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] [^allowed-audio] |
-| [Kardashev ![][FA]](https://osu.ppy.sh/beatmaps/artists/375) | ![][true] [^allowed-audio] |
-| [KASHIWA Daisuke ![][FA]](https://osu.ppy.sh/beatmaps/artists/343) | ![][true] [^allowed-audio] |
-| [katagiri ![][FA]](https://osu.ppy.sh/beatmaps/artists/176) | ![][true] [^allowed-audio] |
-| [Kenneyon ![][FA]](https://osu.ppy.sh/beatmaps/artists/351) | ![][true] [^allowed-audio] |
-| [Kikuo ![][FA]](https://osu.ppy.sh/beatmaps/artists/314) | ![][true] [^allowed-audio] |
-| [KINEMA106 ![][FA]](https://osu.ppy.sh/beatmaps/artists/222) | ![][true] [^allowed-audio] |
-| [KIRA ![][FA]](https://osu.ppy.sh/beatmaps/artists/27) | ![][true] [^allowed-audio] |
-| [kiraku ![][FA]](https://osu.ppy.sh/beatmaps/artists/101) | ![][true] [^allowed-audio] |
-| [Kitazawa Kyouhei ![][FA]](https://osu.ppy.sh/beatmaps/artists/165) | ![][true] [^allowed-audio] |
-| [Klayton / Celldweller ![][FA]](https://osu.ppy.sh/beatmaps/artists/56) | ![][true] [^allowed-audio] |
-| [KNOWER ![][FA]](https://osu.ppy.sh/beatmaps/artists/48) | ![][true] [^allowed-audio] |
-| [KOAN Sound ![][FA]](https://osu.ppy.sh/beatmaps/artists/49) | ![][true] [^allowed-audio] |
-| [Kobaryo ![][FA]](https://osu.ppy.sh/beatmaps/artists/96) | ![][true] [^allowed-audio] |
-| [Kola Kid ![][FA]](https://osu.ppy.sh/beatmaps/artists/67) | ![][true] [^allowed-audio] |
-| [Kommisar ![][FA]](https://osu.ppy.sh/beatmaps/artists/379) | ![][true] [^allowed-audio] |
-| [Kou! ![][FA]](https://osu.ppy.sh/beatmaps/artists/383) | ![][true] [^allowed-audio] |
-| [Koven ![][FA]](https://osu.ppy.sh/beatmaps/artists/293) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Krimek ![][FA]](https://osu.ppy.sh/beatmaps/artists/371) | ![][true] [^allowed-audio] |
-| [Kuba Oms ![][FA]](https://osu.ppy.sh/beatmaps/artists/13) | ![][true] [^allowed-audio] |
-| [kuro ![][FA]](https://osu.ppy.sh/beatmaps/artists/369) | ![][true] [^allowed-audio] |
-| [Kurokotei ![][FA]](https://osu.ppy.sh/beatmaps/artists/58) | ![][true] [^allowed-audio] |
-| [Kurubukko ![][FA]](https://osu.ppy.sh/beatmaps/artists/217) | ![][true] [^allowed-audio] |
-| [La prière ![][FA]](https://osu.ppy.sh/beatmaps/artists/174) | ![][true] [^allowed-audio] |
-| [LandRoot ![][FA]](https://osu.ppy.sh/beatmaps/artists/327) | ![][true] [^allowed-audio] |
-| [LeaF ![][FA]](https://osu.ppy.sh/beatmaps/artists/73) | ![][true] [^allowed-audio] |
-| [LEAF XCEED Music Division ![][FA]](https://osu.ppy.sh/beatmaps/artists/88) | ![][true] [^allowed-audio] |
-| [Lexurus ![][FA]](https://osu.ppy.sh/beatmaps/artists/208) | ![][true] [^allowed-audio] |
-| [Liar-soft ![][FA]](https://osu.ppy.sh/beatmaps/artists/283) | ![][true] [^allowed-audio] |
-| [Lifetheory ![][FA]](https://osu.ppy.sh/beatmaps/artists/122) | ![][true] [^allowed-audio] |
-| [LilyPichu ![][FA]](https://osu.ppy.sh/beatmaps/artists/325) | ![][true] [^allowed-audio] |
-| [Lime / Kankitsu ![][FA]](https://osu.ppy.sh/beatmaps/artists/116) | ![][true] [^allowed-audio] |
-| [linear ring ![][FA]](https://osu.ppy.sh/beatmaps/artists/213) | ![][true] [^allowed-audio] |
-| [Liquicity ![][FA]](https://osu.ppy.sh/beatmaps/artists/340) | ![][true] [^allowed-audio] |
-| [litmus\* / Ester ![][FA]](https://osu.ppy.sh/beatmaps/artists/201) | ![][true] [^allowed-audio] |
-| [Loki / Thaehan ![][FA]](https://osu.ppy.sh/beatmaps/artists/7) | ![][true] [^allowed-audio] |
-| [love solfege ![][FA]](https://osu.ppy.sh/beatmaps/artists/171) | ![][true] [^allowed-audio] |
-| [LukHash ![][FA]](https://osu.ppy.sh/beatmaps/artists/12) | ![][true] [^allowed-audio] |
-| [Lundy ![][FA]](https://osu.ppy.sh/beatmaps/artists/203) | ![][true] [^allowed-audio] |
-| [luvlxckdown ![][FA]](https://osu.ppy.sh/beatmaps/artists/250) | ![][true] [^allowed-audio] |
-| [LV.4 ![][FA]](https://osu.ppy.sh/beatmaps/artists/214) | ![][true] [^allowed-audio] |
-| [m108 ![][FA]](https://osu.ppy.sh/beatmaps/artists/161) | ![][true] [^allowed-audio] |
-| [Maduk ![][FA]](https://osu.ppy.sh/beatmaps/artists/235) | ![][true] [^allowed-audio] |
-| [Mage ![][FA]](https://osu.ppy.sh/beatmaps/artists/258) | ![][true] [^allowed-audio] |
-| [Magnetude ![][FA]](https://osu.ppy.sh/beatmaps/artists/94) | ![][true] [^allowed-audio] |
-| [Mameyudoufu ![][FA]](https://osu.ppy.sh/beatmaps/artists/209) | ![][true] [^allowed-audio] |
-| [Marmalade butcher ![][FA]](https://osu.ppy.sh/beatmaps/artists/220) | ![][true] [^allowed-audio] |
-| [Masahiro "Godspeed" Aoki ![][FA]](https://osu.ppy.sh/beatmaps/artists/136) | ![][true] [^allowed-audio] |
-| [Massive New Krew ![][FA]](https://osu.ppy.sh/beatmaps/artists/318) | ![][true] [^allowed-audio] |
-| [Matduke ![][FA]](https://osu.ppy.sh/beatmaps/artists/219) | ![][true] [^allowed-audio] |
-| [MDK ![][FA]](https://osu.ppy.sh/beatmaps/artists/61) | ![][true] [^allowed-audio] |
-| [Mediks ![][FA]](https://osu.ppy.sh/beatmaps/artists/346) | ![][true] [^allowed-audio] |
-| [meganeko ![][FA]](https://osu.ppy.sh/beatmaps/artists/75) | ![][true] [^allowed-audio] |
-| [METAROOM ![][FA]](https://osu.ppy.sh/beatmaps/artists/206) | ![][true] [^allowed-audio] |
-| [Michael Cera Palin ![][FA]](https://osu.ppy.sh/beatmaps/artists/182) | ![][true] [^allowed-audio] |
-| [Mili ![][FA]](https://osu.ppy.sh/beatmaps/artists/331) | ![][true] [^allowed-audio] |
-| [MIMI ![][FA]](https://osu.ppy.sh/beatmaps/artists/77) | ![][true] [^allowed-audio] |
-| [Minstrel ![][FA]](https://osu.ppy.sh/beatmaps/artists/349) | ![][true] [^allowed-audio] |
-| [miraie ![][FA]](https://osu.ppy.sh/beatmaps/artists/162) | ![][true] [^allowed-audio] |
-| [MisoilePunch ![][FA]](https://osu.ppy.sh/beatmaps/artists/239) | ![][true] [^allowed-audio] |
-| [MisomyL ![][FA]](https://osu.ppy.sh/beatmaps/artists/243) | ![][true] [^allowed-audio] |
-| [Mitsuki / RINYA ![][FA]](https://osu.ppy.sh/beatmaps/artists/262) | ![][true] [^allowed-audio] |
-| [Mitsukiyo ![][FA]](https://osu.ppy.sh/beatmaps/artists/292) | ![][true] [^allowed-audio] |
-| [Mono. ![][FA]](https://osu.ppy.sh/beatmaps/artists/307) | ![][true] [^allowed-audio] |
-| [Monstercat ![][FA]](https://osu.ppy.sh/beatmaps/artists/255) | ![][true] [^allowed-audio] |
-| [MOtOLOiD ![][FA]](https://osu.ppy.sh/beatmaps/artists/19) | ![][true] [^allowed-audio] |
-| [MuryokuP / Powerless ![][FA]](https://osu.ppy.sh/beatmaps/artists/120) | ![][true] [^allowed-audio] |
-| [MUZZ ![][FA]](https://osu.ppy.sh/beatmaps/artists/261) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [my sound life ![][FA]](https://osu.ppy.sh/beatmaps/artists/252) | ![][true] [^allowed-audio] |
-| [MYLK ![][FA]](https://osu.ppy.sh/beatmaps/artists/62) | ![][true] [^allowed-audio] |
-| [MYUKKE. ![][FA]](https://osu.ppy.sh/beatmaps/artists/121) | ![][true] [^allowed-audio] |
-| [Nakanojojo ![][FA]](https://osu.ppy.sh/beatmaps/artists/25) | ![][true] [^allowed-audio] |
-| [nanobii ![][FA]](https://osu.ppy.sh/beatmaps/artists/10) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Nashimoto Ui ![][FA]](https://osu.ppy.sh/beatmaps/artists/298) | ![][true] [^allowed-audio] |
-| [Native Construct ![][FA]](https://osu.ppy.sh/beatmaps/artists/50) | ![][true] [^allowed-audio] |
-| [Natsume Itsuki ![][FA]](https://osu.ppy.sh/beatmaps/artists/189) | ![][true] [^allowed-audio] |
-| [Ne Obliviscaris ![][FA]](https://osu.ppy.sh/beatmaps/artists/86) | ![][true] [^allowed-audio] |
-| [Neko Hacker ![][FA]](https://osu.ppy.sh/beatmaps/artists/266) | ![][true] [^allowed-audio] |
-| [nekodex ![][FA]](https://osu.ppy.sh/beatmaps/artists/1) | ![][true] [^allowed-audio] |
-| [Nekrogoblikon ![][FA]](https://osu.ppy.sh/beatmaps/artists/53) | ![][true] [^allowed-audio] |
-| [Never Say Die ![][FA]](https://osu.ppy.sh/beatmaps/artists/251) | ![][true] [^allowed-audio] |
-| [Nile ![][FA]](https://osu.ppy.sh/beatmaps/artists/260) | ![][true] [^allowed-audio] |
-| [NILFRUITS ![][FA]](https://osu.ppy.sh/beatmaps/artists/278) | ![][true] [^allowed-audio] |
-| [Nitro Fun ![][FA]](https://osu.ppy.sh/beatmaps/artists/299) | ![][true] [^allowed-audio] |
-| [niu arx ![][FA]](https://osu.ppy.sh/beatmaps/artists/21) | ![][true] [^allowed-audio] |
-| [NIWASHI ![][FA]](https://osu.ppy.sh/beatmaps/artists/228) | ![][true] [^allowed-audio] |
-| [Noisestorm ![][FA]](https://osu.ppy.sh/beatmaps/artists/324) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Noisia ![][FA]](https://osu.ppy.sh/beatmaps/artists/84) | ![][true] [^allowed-audio] |
-| [NOISZ ![][FA]](https://osu.ppy.sh/beatmaps/artists/286) | ![][true] [^allowed-audio] |
-| [nora2r ![][FA]](https://osu.ppy.sh/beatmaps/artists/141) | ![][true] [^allowed-audio] |
-| [Numtack05 ![][FA]](https://osu.ppy.sh/beatmaps/artists/90) | ![][true] [^allowed-audio] |
-| [nyankobrq ![][FA]](https://osu.ppy.sh/beatmaps/artists/330) | ![][true] [^allowed-audio] |
-| [O2i3 ![][FA]](https://osu.ppy.sh/beatmaps/artists/74) | ![][true] [^allowed-audio] |
-| [OISHII ![][FA]](https://osu.ppy.sh/beatmaps/artists/17) | ![][true] [^allowed-audio] |
-| [Omoi ![][FA]](https://osu.ppy.sh/beatmaps/artists/104) | ![][true] [^allowed-audio] |
-| [onumi ![][FA]](https://osu.ppy.sh/beatmaps/artists/32) | ![][true] [^allowed-audio] |
-| [orangentle / Yu\_Asahina ![][FA]](https://osu.ppy.sh/beatmaps/artists/118) | ![][true] [^allowed-audio] |
-| [Origami Angel ![][FA]](https://osu.ppy.sh/beatmaps/artists/269) | ![][true] [^allowed-audio] |
-| [Our Stolen Theory ![][FA]](https://osu.ppy.sh/beatmaps/artists/200) | ![][true] [^allowed-audio] |
-| [ovEnola ![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] [^allowed-audio] |
-| [P4koo ![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] [^allowed-audio] |
-| [Panda Eyes ![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] [^allowed-audio] |
-| [passchooo ![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] [^allowed-audio] |
-| [Pegboard Nerds ![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Phantom Sage ![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] [^allowed-audio] |
-| [Plum ![][FA]](https://osu.ppy.sh/beatmaps/artists/249) | ![][true] [^allowed-audio] |
-| [polysha ![][FA]](https://osu.ppy.sh/beatmaps/artists/146) | ![][true] [^allowed-audio] |
-| [Ponchi ![][FA]](https://osu.ppy.sh/beatmaps/artists/271) | ![][true] [^allowed-audio] |
-| [Pratanallis ![][FA]](https://osu.ppy.sh/beatmaps/artists/175) | ![][true] [^allowed-audio] |
-| [PTB10 ![][FA]](https://osu.ppy.sh/beatmaps/artists/227) | ![][true] [^allowed-audio] |
-| [PUP ![][FA]](https://osu.ppy.sh/beatmaps/artists/79) | ![][true] [^allowed-audio] |
-| [Rabbit House ![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] [^allowed-audio] |
-| [Raimukun ![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] [^allowed-audio] |
-| [Rameses B ![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Receptor ![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] [^allowed-audio] |
-| [Redside ![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] [^allowed-audio] |
-| [rejection ![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] [^allowed-audio] |
-| [Reku Mochizuki ![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | ![][true] [^allowed-audio] |
-| [Release Hallucination ![][FA]](https://osu.ppy.sh/beatmaps/artists/194) | ![][true] [^allowed-audio] |
-| [Rezonate ![][FA]](https://osu.ppy.sh/beatmaps/artists/300) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Ricky Montgomery ![][FA]](https://osu.ppy.sh/beatmaps/artists/54) | ![][true] [^allowed-audio] |
-| [Rin / Function Phantom ![][FA]](https://osu.ppy.sh/beatmaps/artists/14) | ![][true] [^allowed-audio] |
-| [RiraN ![][FA]](https://osu.ppy.sh/beatmaps/artists/40) | ![][true] [^allowed-audio] |
-| [Risa Yuzuki ![][FA]](https://osu.ppy.sh/beatmaps/artists/211) | ![][true] [^allowed-audio] |
-| [Rish ![][FA]](https://osu.ppy.sh/beatmaps/artists/181) | ![][true] [^allowed-audio] |
-| [Rising Sun Traxx ![][FA]](https://osu.ppy.sh/beatmaps/artists/41) | ![][true] [^allowed-audio] |
-| [Ritorikal ![][FA]](https://osu.ppy.sh/beatmaps/artists/305) | ![][true] [^allowed-audio] |
-| [Rivers of Nihil ![][FA]](https://osu.ppy.sh/beatmaps/artists/63) | ![][true] [^allowed-audio] |
-| [Riya ![][FA]](https://osu.ppy.sh/beatmaps/artists/241) | ![][true] [^allowed-audio] |
-| [rN ![][FA]](https://osu.ppy.sh/beatmaps/artists/190) | ![][true] [^allowed-audio] |
-| [Rohi ![][FA]](https://osu.ppy.sh/beatmaps/artists/82) | ![][true] [^allowed-audio] |
-| [Rootkit ![][FA]](https://osu.ppy.sh/beatmaps/artists/280) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Ruby My Dear ![][FA]](https://osu.ppy.sh/beatmaps/artists/370) | ![][true] [^allowed-audio] |
-| [Rusty K ![][FA]](https://osu.ppy.sh/beatmaps/artists/87) | ![][true] [^allowed-audio] |
-| [S3RL ![][FA]](https://osu.ppy.sh/beatmaps/artists/9) | ![][true] [^allowed-audio] |
-| [Sable Hills ![][FA]](https://osu.ppy.sh/beatmaps/artists/103) | ![][true] [^allowed-audio] |
-| [SAMString ![][FA]](https://osu.ppy.sh/beatmaps/artists/273) | ![][true] [^allowed-audio] |
-| [satella ![][FA]](https://osu.ppy.sh/beatmaps/artists/231) | ![][true] [^allowed-audio] |
-| [Satyr ![][FA]](https://osu.ppy.sh/beatmaps/artists/328) | ![][true] [^allowed-audio] |
-| [Se-U-Ra ![][FA]](https://osu.ppy.sh/beatmaps/artists/112) | ![][true] [^allowed-audio] |
-| [seatrus ![][FA]](https://osu.ppy.sh/beatmaps/artists/185) | ![][true] [^allowed-audio] |
-| [SEBii ![][FA]](https://osu.ppy.sh/beatmaps/artists/186) | ![][true] [^allowed-audio] |
-| [SECONDWALL ![][FA]](https://osu.ppy.sh/beatmaps/artists/137) | ![][true] [^allowed-audio] |
-| [seleP ![][FA]](https://osu.ppy.sh/beatmaps/artists/138) | ![][true] [^allowed-audio] |
-| [Sennzai ![][FA]](https://osu.ppy.sh/beatmaps/artists/110) | ![][true] [^allowed-audio] |
-| [Sephid ![][FA]](https://osu.ppy.sh/beatmaps/artists/196) | ![][true] [^allowed-audio] |
-| [Seraph ![][FA]](https://osu.ppy.sh/beatmaps/artists/225) | ![][true] [^allowed-audio] |
-| [Sewerslvt ![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] [^allowed-audio] |
-| [Shadren ![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] [^allowed-audio] |
-| [Shawn Wasabi ![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] [^allowed-audio] |
-| [Silentroom ![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] [^allowed-audio] |
-| [siqlo ![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] [^allowed-audio] |
-| [siromaru ![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] [^allowed-audio] |
-| [Sobrem ![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] [^allowed-audio] |
-| [solfa ![][FA]](https://osu.ppy.sh/beatmaps/artists/207) | ![][true] [^allowed-audio] |
-| [SOOOO ![][FA]](https://osu.ppy.sh/beatmaps/artists/30) | ![][true] [^allowed-audio] |
-| [soowamisu ![][FA]](https://osu.ppy.sh/beatmaps/artists/376) | ![][true] [^allowed-audio] |
-| [Sound piercer ![][FA]](https://osu.ppy.sh/beatmaps/artists/334) | ![][true] [^allowed-audio] |
-| [Sound Souler ![][FA]](https://osu.ppy.sh/beatmaps/artists/70) | ![][true] [^allowed-audio] |
-| [Stars Hollow ![][FA]](https://osu.ppy.sh/beatmaps/artists/353) | ![][true] [^allowed-audio] |
-| [Station Earth / Blue Marble ![][FA]](https://osu.ppy.sh/beatmaps/artists/66) | ![][true] [^allowed-audio] |
-| [Stonebank ![][FA]](https://osu.ppy.sh/beatmaps/artists/254) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Street ![][FA]](https://osu.ppy.sh/beatmaps/artists/89) | ![][true] [^allowed-audio] |
-| [Supire ![][FA]](https://osu.ppy.sh/beatmaps/artists/373) | ![][true] [^allowed-audio] |
-| [SWORD OF JUSTICE ![][FA]](https://osu.ppy.sh/beatmaps/artists/348) | ![][true] [^allowed-audio] |
-| [Sylvir / sakuraburst ![][FA]](https://osu.ppy.sh/beatmaps/artists/8) | ![][true] [^allowed-audio] |
-| [Symholic ![][FA]](https://osu.ppy.sh/beatmaps/artists/130) | ![][true] [^allowed-audio] |
-| [Synthion ![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | ![][true] [^allowed-audio] |
-| [T & Sugah ![][FA]](https://osu.ppy.sh/beatmaps/artists/188) | ![][true] [^allowed-audio] |
-| [Tanchiky ![][FA]](https://osu.ppy.sh/beatmaps/artists/144) | ![][true] [^allowed-audio] |
-| [Task Horizon ![][FA]](https://osu.ppy.sh/beatmaps/artists/97) | ![][true] [^allowed-audio] |
-| [Tasty ![][FA]](https://osu.ppy.sh/beatmaps/artists/221) | ![][true] [^allowed-audio] |
-| [technoplanet ![][FA]](https://osu.ppy.sh/beatmaps/artists/193) | ![][true] [^allowed-audio] |
-| [Tedjimo yomigY ![][FA]](https://osu.ppy.sh/beatmaps/artists/223) | ![][true] [^allowed-audio] |
-| [Teminite ![][FA]](https://osu.ppy.sh/beatmaps/artists/64) | ![][true] [^allowed-audio] |
-| [Tenchio ![][FA]](https://osu.ppy.sh/beatmaps/artists/265) | ![][true] [^allowed-audio] |
-| [tephe ![][FA]](https://osu.ppy.sh/beatmaps/artists/361) | ![][true] [^allowed-audio] |
-| [Thank You Scientist ![][FA]](https://osu.ppy.sh/beatmaps/artists/83) | ![][true] [^allowed-audio] |
-| [The Flashbulb ![][FA]](https://osu.ppy.sh/beatmaps/artists/37) | ![][true] [^allowed-audio] |
-| [The Gentle Men ![][FA]](https://osu.ppy.sh/beatmaps/artists/142) | ![][true] [^allowed-audio] |
-| [tieff ![][FA]](https://osu.ppy.sh/beatmaps/artists/34) | ![][true] [^allowed-audio] |
-| [Tiny Waves ![][FA]](https://osu.ppy.sh/beatmaps/artists/131) | ![][true] [^allowed-audio] |
-| [tokiwa ![][FA]](https://osu.ppy.sh/beatmaps/artists/202) | ![][true] [^allowed-audio] |
-| [Tokyo Machine ![][FA]](https://osu.ppy.sh/beatmaps/artists/276) | ![][true] [^allowed-audio] [^monstercat-gold] |
-| [Tokyo.MeltiMelt ![][FA]](https://osu.ppy.sh/beatmaps/artists/308) | ![][true] [^allowed-audio] |
-| [Toromaru ![][FA]](https://osu.ppy.sh/beatmaps/artists/279) | ![][true] [^allowed-audio] |
-| [Trial & Error ![][FA]](https://osu.ppy.sh/beatmaps/artists/20) | ![][true] [^allowed-audio] |
-| [True North ![][FA]](https://osu.ppy.sh/beatmaps/artists/344) | ![][true] [^allowed-audio] |
-| [tsunamix ![][FA]](https://osu.ppy.sh/beatmaps/artists/329) | ![][true] [^allowed-audio] |
-| [Umeboshi Chazuke ![][FA]](https://osu.ppy.sh/beatmaps/artists/98) | ![][true] [^allowed-audio] |
-| [UNDEAD CORPORATION ![][FA]](https://osu.ppy.sh/beatmaps/artists/45) | ![][true] [^allowed-audio] |
-| [URBANGARDE ![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] [^allowed-audio] |
-| [USAO ![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] [^allowed-audio] |
-| [Vansire ![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] [^allowed-audio] |
-| [Vektor ![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] [^allowed-audio] |
-| [Venetian Snares ![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] [^allowed-audio] |
-| [VINXIS ![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] [^allowed-audio] |
-| [Virtual Self ![][FA]](https://osu.ppy.sh/beatmaps/artists/28) | ![][true] [^allowed-audio] |
-| [Voicians ![][FA]](https://osu.ppy.sh/beatmaps/artists/59) | ![][true] [^allowed-audio] |
-| [Vorso ![][FA]](https://osu.ppy.sh/beatmaps/artists/303) | ![][true] [^allowed-audio] |
-| [Waterflame ![][FA]](https://osu.ppy.sh/beatmaps/artists/291) | ![][true] [^allowed-audio] |
-| [Whispered ![][FA]](https://osu.ppy.sh/beatmaps/artists/347) | ![][true] [^allowed-audio] |
-| [Wiklund ![][FA]](https://osu.ppy.sh/beatmaps/artists/192) | ![][true] [^allowed-audio] |
-| [Will Stetson ![][FA]](https://osu.ppy.sh/beatmaps/artists/385) | ![][true] [^allowed-audio] |
-| [WINTERHORDE ![][FA]](https://osu.ppy.sh/beatmaps/artists/337) | ![][true] [^allowed-audio] |
-| [Wisp X ![][FA]](https://osu.ppy.sh/beatmaps/artists/16) | ![][true] [^allowed-audio] |
-| [wotoha ![][FA]](https://osu.ppy.sh/beatmaps/artists/178) | ![][true] [^allowed-audio] |
-| [Xanthochroid ![][FA]](https://osu.ppy.sh/beatmaps/artists/152) | ![][true] [^allowed-audio] |
-| [xi ![][FA]](https://osu.ppy.sh/beatmaps/artists/727) | ![][true] [^allowed-audio] |
-| [yaseta ![][FA]](https://osu.ppy.sh/beatmaps/artists/342) | ![][true] [^allowed-audio] |
-| [Yokomin ![][FA]](https://osu.ppy.sh/beatmaps/artists/355) | ![][true] [^allowed-audio] |
-| [Yooh ![][FA]](https://osu.ppy.sh/beatmaps/artists/218) | ![][true] [^allowed-audio] |
-| [YUC'e ![][FA]](https://osu.ppy.sh/beatmaps/artists/372) | ![][true] [^allowed-audio] |
-| [yuki. ![][FA]](https://osu.ppy.sh/beatmaps/artists/4) | ![][true] [^allowed-audio] |
-| [yukitani ![][FA]](https://osu.ppy.sh/beatmaps/artists/167) | ![][true] [^allowed-audio] |
-| [Yunosuke ![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] [^allowed-audio] |
-| [YUZUKINGDOM ![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] [^allowed-audio] |
-| [Zekk ![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | ![][true] [^allowed-audio] |
-| [Zenpaku ![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] [^allowed-audio] |
-| [Zomboy ![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] [^allowed-audio] |
-| [ZxNX ![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] [^allowed-audio] |
+|  | Artist | Status |
+| :-: | :-- | :-- |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/297) | [-45](https://osu.ppy.sh/beatmaps/artists/297) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/382) | [1914](https://osu.ppy.sh/beatmaps/artists/382) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/157) | [2ToneDisco](https://osu.ppy.sh/beatmaps/artists/157) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/187) | [3R2 / DJ Mashiro](https://osu.ppy.sh/beatmaps/artists/187) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/268) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/356) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/275) | [:Poin7less](https://osu.ppy.sh/beatmaps/artists/275) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/168) | [A-One](https://osu.ppy.sh/beatmaps/artists/168) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/253) | [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/173) | [A?](https://osu.ppy.sh/beatmaps/artists/173) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/301) | [AAAA](https://osu.ppy.sh/beatmaps/artists/301) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/179) | [ABSOLUTE CASTAWAY](https://osu.ppy.sh/beatmaps/artists/179) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/294) | [Abuse](https://osu.ppy.sh/beatmaps/artists/294) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/191) | [Aether](https://osu.ppy.sh/beatmaps/artists/191) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/153) | [Aethoro](https://osu.ppy.sh/beatmaps/artists/153) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/259) | [Aethral](https://osu.ppy.sh/beatmaps/artists/259) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/47) | [Æther Realm](https://osu.ppy.sh/beatmaps/artists/47) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/164) | [Agressor Bunx](https://osu.ppy.sh/beatmaps/artists/164) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/360) | [Aice room](https://osu.ppy.sh/beatmaps/artists/360) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/166) | [Aiobahn](https://osu.ppy.sh/beatmaps/artists/166) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | [Alestorm](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/195) | [Alkome](https://osu.ppy.sh/beatmaps/artists/195) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/264) | [Allegaeon](https://osu.ppy.sh/beatmaps/artists/264) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/374) | [ALLMYFRIENDS](https://osu.ppy.sh/beatmaps/artists/374) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/151) | [Amidst](https://osu.ppy.sh/beatmaps/artists/151) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/363) | [Andora](https://osu.ppy.sh/beatmaps/artists/363) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/177) | [Andromedik](https://osu.ppy.sh/beatmaps/artists/177) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/302) | [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/234) | [Annabel](https://osu.ppy.sh/beatmaps/artists/234) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/24) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/183) | [Aoi](https://osu.ppy.sh/beatmaps/artists/183) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/380) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/282) | [aran](https://osu.ppy.sh/beatmaps/artists/282) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/256) | [Archspire](https://osu.ppy.sh/beatmaps/artists/256) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/263) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/95) | [ARForest](https://osu.ppy.sh/beatmaps/artists/95) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/93) | [Ariabl'eyeS](https://osu.ppy.sh/beatmaps/artists/93) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/352) | [Ashrount](https://osu.ppy.sh/beatmaps/artists/352) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/309) | [Ata](https://osu.ppy.sh/beatmaps/artists/309) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/237) | [Atavistia](https://osu.ppy.sh/beatmaps/artists/237) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/312) | [Au5](https://osu.ppy.sh/beatmaps/artists/312) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/198) | [Avizura](https://osu.ppy.sh/beatmaps/artists/198) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/277) | [Beach Bunny](https://osu.ppy.sh/beatmaps/artists/277) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/377) | [beignet](https://osu.ppy.sh/beatmaps/artists/377) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/11) | [Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/236) | [bill wurtz](https://osu.ppy.sh/beatmaps/artists/236) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/46) | [Billain](https://osu.ppy.sh/beatmaps/artists/46) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/38) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/150) | [BlackY](https://osu.ppy.sh/beatmaps/artists/150) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/80) | [BLANKFIELD](https://osu.ppy.sh/beatmaps/artists/80) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/284) | [Blind Guardian](https://osu.ppy.sh/beatmaps/artists/284) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/115) | [BLOOD CODE](https://osu.ppy.sh/beatmaps/artists/115) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/126) | [BLOOD STAIN CHILD](https://osu.ppy.sh/beatmaps/artists/126) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/65) | [Blue Stahli](https://osu.ppy.sh/beatmaps/artists/65) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/233) | [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/119) | [Bossfight](https://osu.ppy.sh/beatmaps/artists/119) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/154) | [Boxplot](https://osu.ppy.sh/beatmaps/artists/154) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/378) | [C-Show](https://osu.ppy.sh/beatmaps/artists/378) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/31) | [Camellia](https://osu.ppy.sh/beatmaps/artists/31) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/42) | [Carpool Tunnel](https://osu.ppy.sh/beatmaps/artists/42) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/354) | [CHON](https://osu.ppy.sh/beatmaps/artists/354) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/215) | [Chroma](https://osu.ppy.sh/beatmaps/artists/215) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/341) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/78) | [CircusP](https://osu.ppy.sh/beatmaps/artists/78) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/245) | [City Girl](https://osu.ppy.sh/beatmaps/artists/245) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/384) | [ColBreakz](https://osu.ppy.sh/beatmaps/artists/384) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/381) | [Corsace](https://osu.ppy.sh/beatmaps/artists/381) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/23) | [Cranky](https://osu.ppy.sh/beatmaps/artists/23) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/36) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/147) | [Cres.](https://osu.ppy.sh/beatmaps/artists/147) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/321) | [Crywolf](https://osu.ppy.sh/beatmaps/artists/321) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/29) | [Culprate](https://osu.ppy.sh/beatmaps/artists/29) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/105) | [cute girls doing cute things](https://osu.ppy.sh/beatmaps/artists/105) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/359) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/2) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/6) | [dark cat](https://osu.ppy.sh/beatmaps/artists/6) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/290) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/229) | [DGK](https://osu.ppy.sh/beatmaps/artists/229) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/134) | [Dimrain47](https://osu.ppy.sh/beatmaps/artists/134) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/81) | [Disasterpeace](https://osu.ppy.sh/beatmaps/artists/81) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/44) | [Disko Warp](https://osu.ppy.sh/beatmaps/artists/44) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/295) | [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/204) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/350) | [Down](https://osu.ppy.sh/beatmaps/artists/350) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/111) | [Dual Alter World](https://osu.ppy.sh/beatmaps/artists/111) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/386) | [Dustvoxx](https://osu.ppy.sh/beatmaps/artists/386) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/322) | [E0ri4](https://osu.ppy.sh/beatmaps/artists/322) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/326) | [Ekcle](https://osu.ppy.sh/beatmaps/artists/326) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/69) | [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/160) | [Emille's Moonlight Serenade](https://osu.ppy.sh/beatmaps/artists/160) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/246) | [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/145) | [Empty Peperoncino](https://osu.ppy.sh/beatmaps/artists/145) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/320) | [Ensou](https://osu.ppy.sh/beatmaps/artists/320) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/100) | [EPICA](https://osu.ppy.sh/beatmaps/artists/100) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/125) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/335) | [Etherwood](https://osu.ppy.sh/beatmaps/artists/335) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/333) | [Euchaeta](https://osu.ppy.sh/beatmaps/artists/333) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/143) | [Extra Terra](https://osu.ppy.sh/beatmaps/artists/143) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/285) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/60) | [F-777](https://osu.ppy.sh/beatmaps/artists/60) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/52) | [False Noise](https://osu.ppy.sh/beatmaps/artists/52) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/216) | [FATE GEAR](https://osu.ppy.sh/beatmaps/artists/216) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/306) | [Feint](https://osu.ppy.sh/beatmaps/artists/306) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/332) | [Fellowship](https://osu.ppy.sh/beatmaps/artists/332) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/156) | [fiend](https://osu.ppy.sh/beatmaps/artists/156) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/170) | [Fleshgod Apocalypse](https://osu.ppy.sh/beatmaps/artists/170) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/313) | [Fractal](https://osu.ppy.sh/beatmaps/artists/313) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/15) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/339) | [FRASER EDWARDS](https://osu.ppy.sh/beatmaps/artists/339) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/180) | [Fred V & Grafix](https://osu.ppy.sh/beatmaps/artists/180) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/114) | [Fuki](https://osu.ppy.sh/beatmaps/artists/114) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/212) | [garlagan](https://osu.ppy.sh/beatmaps/artists/212) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/358) | [Genkaku Aria](https://osu.ppy.sh/beatmaps/artists/358) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/133) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/128) | [Getty](https://osu.ppy.sh/beatmaps/artists/128) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/72) | [ginkiha](https://osu.ppy.sh/beatmaps/artists/72) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/113) | [glass beach](https://osu.ppy.sh/beatmaps/artists/113) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/311) | [GLORYHAMMER](https://osu.ppy.sh/beatmaps/artists/311) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/240) | [Good Kid](https://osu.ppy.sh/beatmaps/artists/240) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/57) | [goreshit](https://osu.ppy.sh/beatmaps/artists/57) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/281) | [Grant](https://osu.ppy.sh/beatmaps/artists/281) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/159) | [Grynpyret](https://osu.ppy.sh/beatmaps/artists/159) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/148) | [GYZE](https://osu.ppy.sh/beatmaps/artists/148) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/368) | [Halv](https://osu.ppy.sh/beatmaps/artists/368) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/289) | [Hamu](https://osu.ppy.sh/beatmaps/artists/289) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/317) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/205) | [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/197) | [Harumaki Gohan](https://osu.ppy.sh/beatmaps/artists/197) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/230) | [Haywyre](https://osu.ppy.sh/beatmaps/artists/230) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/238) | [HEAD PHONES PRESIDENT](https://osu.ppy.sh/beatmaps/artists/238) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/5) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/26) | [High Tea Music](https://osu.ppy.sh/beatmaps/artists/26) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/315) | [Hinkik](https://osu.ppy.sh/beatmaps/artists/315) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/272) | [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/310) | [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/85) | [Hyper Potions](https://osu.ppy.sh/beatmaps/artists/85) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/33) | [HyuN](https://osu.ppy.sh/beatmaps/artists/33) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/117) | [I love you Orchestra](https://osu.ppy.sh/beatmaps/artists/117) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/3) | [IAHN](https://osu.ppy.sh/beatmaps/artists/3) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/210) | [iFeature](https://osu.ppy.sh/beatmaps/artists/210) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/172) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/35) | [Imperial Circus Dead Decadence](https://osu.ppy.sh/beatmaps/artists/35) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/99) | [Imy](https://osu.ppy.sh/beatmaps/artists/99) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/257) | [in love with a ghost](https://osu.ppy.sh/beatmaps/artists/257) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/43) | [Inferi](https://osu.ppy.sh/beatmaps/artists/43) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/323) | [Innocent Key](https://osu.ppy.sh/beatmaps/artists/323) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/135) | [Irreversible Mechanism](https://osu.ppy.sh/beatmaps/artists/135) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/39) | [James Landino](https://osu.ppy.sh/beatmaps/artists/39) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/109) | [Joe Ford](https://osu.ppy.sh/beatmaps/artists/109) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/267) | [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/365) | [Junk](https://osu.ppy.sh/beatmaps/artists/365) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | [kakichoco](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | [kanone](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/375) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/343) | [KASHIWA Daisuke](https://osu.ppy.sh/beatmaps/artists/343) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/176) | [katagiri](https://osu.ppy.sh/beatmaps/artists/176) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/351) | [Kenneyon](https://osu.ppy.sh/beatmaps/artists/351) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/314) | [Kikuo](https://osu.ppy.sh/beatmaps/artists/314) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/222) | [KINEMA106](https://osu.ppy.sh/beatmaps/artists/222) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/27) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/101) | [kiraku](https://osu.ppy.sh/beatmaps/artists/101) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/165) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/56) | [Klayton / Celldweller](https://osu.ppy.sh/beatmaps/artists/56) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/48) | [KNOWER](https://osu.ppy.sh/beatmaps/artists/48) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/49) | [KOAN Sound](https://osu.ppy.sh/beatmaps/artists/49) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/96) | [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/67) | [Kola Kid](https://osu.ppy.sh/beatmaps/artists/67) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/379) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/383) | [Kou!](https://osu.ppy.sh/beatmaps/artists/383) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/293) | [Koven](https://osu.ppy.sh/beatmaps/artists/293) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/371) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/13) | [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/369) | [kuro](https://osu.ppy.sh/beatmaps/artists/369) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/58) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/217) | [Kurubukko](https://osu.ppy.sh/beatmaps/artists/217) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/174) | [La prière](https://osu.ppy.sh/beatmaps/artists/174) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/327) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/73) | [LeaF](https://osu.ppy.sh/beatmaps/artists/73) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/88) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/208) | [Lexurus](https://osu.ppy.sh/beatmaps/artists/208) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/283) | [Liar-soft](https://osu.ppy.sh/beatmaps/artists/283) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/122) | [Lifetheory](https://osu.ppy.sh/beatmaps/artists/122) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/325) | [LilyPichu](https://osu.ppy.sh/beatmaps/artists/325) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/116) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/213) | [linear ring](https://osu.ppy.sh/beatmaps/artists/213) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/340) | [Liquicity](https://osu.ppy.sh/beatmaps/artists/340) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/201) | [litmus\* / Ester](https://osu.ppy.sh/beatmaps/artists/201) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/7) | [Loki / Thaehan](https://osu.ppy.sh/beatmaps/artists/7) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/171) | [love solfege](https://osu.ppy.sh/beatmaps/artists/171) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/12) | [LukHash](https://osu.ppy.sh/beatmaps/artists/12) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/203) | [Lundy](https://osu.ppy.sh/beatmaps/artists/203) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/250) | [luvlxckdown](https://osu.ppy.sh/beatmaps/artists/250) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/214) | [LV.4](https://osu.ppy.sh/beatmaps/artists/214) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/161) | [m108](https://osu.ppy.sh/beatmaps/artists/161) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/235) | [Maduk](https://osu.ppy.sh/beatmaps/artists/235) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/258) | [Mage](https://osu.ppy.sh/beatmaps/artists/258) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/94) | [Magnetude](https://osu.ppy.sh/beatmaps/artists/94) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/209) | [Mameyudoufu](https://osu.ppy.sh/beatmaps/artists/209) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/220) | [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/136) | [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/318) | [Massive New Krew](https://osu.ppy.sh/beatmaps/artists/318) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/219) | [Matduke](https://osu.ppy.sh/beatmaps/artists/219) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/61) | [MDK](https://osu.ppy.sh/beatmaps/artists/61) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/346) | [Mediks](https://osu.ppy.sh/beatmaps/artists/346) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/75) | [meganeko](https://osu.ppy.sh/beatmaps/artists/75) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/206) | [METAROOM](https://osu.ppy.sh/beatmaps/artists/206) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/182) | [Michael Cera Palin](https://osu.ppy.sh/beatmaps/artists/182) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/331) | [Mili](https://osu.ppy.sh/beatmaps/artists/331) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/77) | [MIMI](https://osu.ppy.sh/beatmaps/artists/77) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/349) | [Minstrel](https://osu.ppy.sh/beatmaps/artists/349) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/162) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/239) | [MisoilePunch](https://osu.ppy.sh/beatmaps/artists/239) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/243) | [MisomyL](https://osu.ppy.sh/beatmaps/artists/243) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/262) | [Mitsuki / RINYA](https://osu.ppy.sh/beatmaps/artists/262) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/292) | [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/307) | [Mono.](https://osu.ppy.sh/beatmaps/artists/307) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/255) | [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/19) | [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/120) | [MuryokuP / Powerless](https://osu.ppy.sh/beatmaps/artists/120) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/261) | [MUZZ](https://osu.ppy.sh/beatmaps/artists/261) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/252) | [my sound life](https://osu.ppy.sh/beatmaps/artists/252) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/62) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/121) | [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/25) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/10) | [nanobii](https://osu.ppy.sh/beatmaps/artists/10) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/298) | [Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/50) | [Native Construct](https://osu.ppy.sh/beatmaps/artists/50) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/189) | [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/86) | [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/266) | [Neko Hacker](https://osu.ppy.sh/beatmaps/artists/266) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/1) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/53) | [Nekrogoblikon](https://osu.ppy.sh/beatmaps/artists/53) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/251) | [Never Say Die](https://osu.ppy.sh/beatmaps/artists/251) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/260) | [Nile](https://osu.ppy.sh/beatmaps/artists/260) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/278) | [NILFRUITS](https://osu.ppy.sh/beatmaps/artists/278) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/299) | [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/21) | [niu arx](https://osu.ppy.sh/beatmaps/artists/21) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/228) | [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/324) | [Noisestorm](https://osu.ppy.sh/beatmaps/artists/324) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/84) | [Noisia](https://osu.ppy.sh/beatmaps/artists/84) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/286) | [NOISZ](https://osu.ppy.sh/beatmaps/artists/286) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/141) | [nora2r](https://osu.ppy.sh/beatmaps/artists/141) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/90) | [Numtack05](https://osu.ppy.sh/beatmaps/artists/90) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/330) | [nyankobrq](https://osu.ppy.sh/beatmaps/artists/330) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/74) | [O2i3](https://osu.ppy.sh/beatmaps/artists/74) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/17) | [OISHII](https://osu.ppy.sh/beatmaps/artists/17) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/104) | [Omoi](https://osu.ppy.sh/beatmaps/artists/104) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/32) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/118) | [orangentle / Yu\_Asahina](https://osu.ppy.sh/beatmaps/artists/118) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/269) | [Origami Angel](https://osu.ppy.sh/beatmaps/artists/269) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/200) | [Our Stolen Theory](https://osu.ppy.sh/beatmaps/artists/200) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/249) | [Plum](https://osu.ppy.sh/beatmaps/artists/249) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/146) | [polysha](https://osu.ppy.sh/beatmaps/artists/146) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/271) | [Ponchi](https://osu.ppy.sh/beatmaps/artists/271) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/175) | [Pratanallis](https://osu.ppy.sh/beatmaps/artists/175) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/227) | [PTB10](https://osu.ppy.sh/beatmaps/artists/227) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/79) | [PUP](https://osu.ppy.sh/beatmaps/artists/79) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/194) | [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/300) | [Rezonate](https://osu.ppy.sh/beatmaps/artists/300) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/54) | [Ricky Montgomery](https://osu.ppy.sh/beatmaps/artists/54) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/14) | [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/40) | [RiraN](https://osu.ppy.sh/beatmaps/artists/40) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/211) | [Risa Yuzuki](https://osu.ppy.sh/beatmaps/artists/211) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/181) | [Rish](https://osu.ppy.sh/beatmaps/artists/181) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/41) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/305) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/63) | [Rivers of Nihil](https://osu.ppy.sh/beatmaps/artists/63) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/241) | [Riya](https://osu.ppy.sh/beatmaps/artists/241) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/190) | [rN](https://osu.ppy.sh/beatmaps/artists/190) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/82) | [Rohi](https://osu.ppy.sh/beatmaps/artists/82) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/280) | [Rootkit](https://osu.ppy.sh/beatmaps/artists/280) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/370) | [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/87) | [Rusty K](https://osu.ppy.sh/beatmaps/artists/87) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/9) | [S3RL](https://osu.ppy.sh/beatmaps/artists/9) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/103) | [Sable Hills](https://osu.ppy.sh/beatmaps/artists/103) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/273) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/231) | [satella](https://osu.ppy.sh/beatmaps/artists/231) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/328) | [Satyr](https://osu.ppy.sh/beatmaps/artists/328) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/112) | [Se-U-Ra](https://osu.ppy.sh/beatmaps/artists/112) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/185) | [seatrus](https://osu.ppy.sh/beatmaps/artists/185) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/186) | [SEBii](https://osu.ppy.sh/beatmaps/artists/186) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/137) | [SECONDWALL](https://osu.ppy.sh/beatmaps/artists/137) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/138) | [seleP](https://osu.ppy.sh/beatmaps/artists/138) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/110) | [Sennzai](https://osu.ppy.sh/beatmaps/artists/110) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/196) | [Sephid](https://osu.ppy.sh/beatmaps/artists/196) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/225) | [Seraph](https://osu.ppy.sh/beatmaps/artists/225) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/207) | [solfa](https://osu.ppy.sh/beatmaps/artists/207) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/30) | [SOOOO](https://osu.ppy.sh/beatmaps/artists/30) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/376) | [soowamisu](https://osu.ppy.sh/beatmaps/artists/376) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/334) | [Sound piercer](https://osu.ppy.sh/beatmaps/artists/334) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/70) | [Sound Souler](https://osu.ppy.sh/beatmaps/artists/70) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/353) | [Stars Hollow](https://osu.ppy.sh/beatmaps/artists/353) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/66) | [Station Earth / Blue Marble](https://osu.ppy.sh/beatmaps/artists/66) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/254) | [Stonebank](https://osu.ppy.sh/beatmaps/artists/254) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/89) | [Street](https://osu.ppy.sh/beatmaps/artists/89) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/373) | [Supire](https://osu.ppy.sh/beatmaps/artists/373) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/348) | [SWORD OF JUSTICE](https://osu.ppy.sh/beatmaps/artists/348) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/8) | [Sylvir / sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/130) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/188) | [T & Sugah](https://osu.ppy.sh/beatmaps/artists/188) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/144) | [Tanchiky](https://osu.ppy.sh/beatmaps/artists/144) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/97) | [Task Horizon](https://osu.ppy.sh/beatmaps/artists/97) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/221) | [Tasty](https://osu.ppy.sh/beatmaps/artists/221) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/193) | [technoplanet](https://osu.ppy.sh/beatmaps/artists/193) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/223) | [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/64) | [Teminite](https://osu.ppy.sh/beatmaps/artists/64) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/265) | [Tenchio](https://osu.ppy.sh/beatmaps/artists/265) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/361) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/83) | [Thank You Scientist](https://osu.ppy.sh/beatmaps/artists/83) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/37) | [The Flashbulb](https://osu.ppy.sh/beatmaps/artists/37) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/142) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/34) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/131) | [Tiny Waves](https://osu.ppy.sh/beatmaps/artists/131) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/202) | [tokiwa](https://osu.ppy.sh/beatmaps/artists/202) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/276) | [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276) | ![][true] [^monstercat-gold] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/308) | [Tokyo.MeltiMelt](https://osu.ppy.sh/beatmaps/artists/308) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/279) | [Toromaru](https://osu.ppy.sh/beatmaps/artists/279) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/20) | [Trial & Error](https://osu.ppy.sh/beatmaps/artists/20) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/344) | [True North](https://osu.ppy.sh/beatmaps/artists/344) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/329) | [tsunamix](https://osu.ppy.sh/beatmaps/artists/329) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/98) | [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/45) | [UNDEAD CORPORATION](https://osu.ppy.sh/beatmaps/artists/45) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/28) | [Virtual Self](https://osu.ppy.sh/beatmaps/artists/28) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/59) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/303) | [Vorso](https://osu.ppy.sh/beatmaps/artists/303) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/291) | [Waterflame](https://osu.ppy.sh/beatmaps/artists/291) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/347) | [Whispered](https://osu.ppy.sh/beatmaps/artists/347) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/192) | [Wiklund](https://osu.ppy.sh/beatmaps/artists/192) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/385) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/337) | [WINTERHORDE](https://osu.ppy.sh/beatmaps/artists/337) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/16) | [Wisp X](https://osu.ppy.sh/beatmaps/artists/16) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/178) | [wotoha](https://osu.ppy.sh/beatmaps/artists/178) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/152) | [Xanthochroid](https://osu.ppy.sh/beatmaps/artists/152) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/727) | [xi](https://osu.ppy.sh/beatmaps/artists/727) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/342) | [yaseta](https://osu.ppy.sh/beatmaps/artists/342) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/355) | [Yokomin](https://osu.ppy.sh/beatmaps/artists/355) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/218) | [Yooh](https://osu.ppy.sh/beatmaps/artists/218) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/372) | [YUC'e](https://osu.ppy.sh/beatmaps/artists/372) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/4) | [yuki.](https://osu.ppy.sh/beatmaps/artists/4) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/167) | [yukitani](https://osu.ppy.sh/beatmaps/artists/167) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | [YUZUKINGDOM](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] |
 
 ### Exceptions
 
-| Artist | Status | Notes |
-| :- | :- | :- |
-| a\_hisa | ![][partial] [^explicit-permission] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or via [Bandcamp](https://a-hisa.bandcamp.com/). |
-| [HoneyComeBear ![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] [^allowed-exception] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [Jun Kuroda ![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] [^allowed-exception] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [kanemiko ![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] [^allowed-exception] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [Morimori Atsushi ![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] [^allowed-exception] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [Yuyoyuppe / DJ'TEKINA//SOMETHING  ![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] [^allowed-exception] | Tracks from or themed around *Touhou* should not be uploaded or used. |
+|  | Artist | Status | Notes |
+| :-: | :-- | :-- | :-- |
+|  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or via [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING ](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Tracks from or themed around *Touhou* should not be uploaded or used. |
 
 ### Disallowed
 
 | Artist | Status |
-| :- | :- |
-| 40mP | ![][false] [^disallowed-audio] |
-| ak+q | ![][false] [^disallowed-audio] |
-| Draw the Emotional | ![][false] [^disallowed-audio] |
-| Enter Shikari | ![][false] [^disallowed-audio] |
-| EZFG | ![][false] [^disallowed-audio] |
-| Hatsuki Yura | ![][false] [^disallowed-audio] |
-| Igorrr | ![][false] [^disallowed-audio] |
-| Kozato | ![][false] [^disallowed-audio] |
-| NOMA | ![][false] [^disallowed-audio] |
+| :-- | :-- |
+| 40mP | ![][false] |
+| ak+q | ![][false] |
+| Draw the Emotional | ![][false] |
+| Enter Shikari | ![][false] |
+| EZFG | ![][false] |
+| Hatsuki Yura | ![][false] |
+| Igorrr | ![][false] |
+| Kozato | ![][false] |
+| NOMA | ![][false] |
 
 ## Visual
 
@@ -437,14 +437,6 @@ If it is unclear whether a visual artist allows their work to be used on other p
 ## Notes
 
 [^monstercat-gold]: This artist is licensed in cooperation with [Monstercat](https://osu.ppy.sh/beatmaps/artists/255), and users may be able to obtain external media usage rights via a [Monstercat Gold](https://www.monstercat.com/gold) subscription. Please consult their site for specific details on this license.
-
-[^allowed-audio]: All Featured Artist tracks available on an artist's listing are allowed for use.
-
-[^explicit-permission]: Requires explicit permission from artist per individual use. See Notes column for more information.
-
-[^allowed-exception]: Allowed, with exceptions. See the Notes column for more information.
-
-[^disallowed-audio]: No tracks are allowed to be uploaded or used.
 
 [FA]: /wiki/shared/group/FA.png "Featured Artist"
 [true]: /wiki/shared/true.png "Allowed"
