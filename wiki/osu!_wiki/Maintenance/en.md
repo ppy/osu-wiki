@@ -42,7 +42,7 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 <!-- TODO: should probably briefly mention external links https://github.com/ppy/osu-web/issues/8086 and footnotes https://github.com/ppy/osu-wiki/issues/4911#issuecomment-893959588 once they are implemented -->
 
-### CI checks
+### CI checks {id=ci-checks}
 
 The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file.
 
