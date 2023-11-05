@@ -168,7 +168,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | Dieciseisavos de final HD1 |
 | [Down - Kizan](https://www.youtube.com/watch?v=DbTE0qJw5Vw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085347) | Desempate de cuartos de final |
 | MYUKKE. - Mach Roger[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | Cuartos de final NM4 |
-| Sydosys - Wandered | [#1](https://osu.ppy.sh/beatmapsets/2085296) | Cuartos de final NM3 |
+| [Sydosys - Wandered](https://soundcloud.com/sydosys/wandered) | [#1](https://osu.ppy.sh/beatmapsets/2085296) | Cuartos de final NM3 |
 | Toromaru - Ebb Tide[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | Octavos de final FM1 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
