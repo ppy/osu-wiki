@@ -120,108 +120,108 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1vB6DOjlbMvZ3nWQamDcGFV0cSxnYwN94/view?usp%3Dshare_link)**
 
 - FreeMod
-  1. [Shiraishi - True Millennium Queen \[Kawawa's \[BMS wawather LV.23\] (edit)\]](https://osu.ppy.sh/beatmaps/4009611)
-  2. [Tatsh - IMAGE -MATERIAL-  (Cut Ver.) \[-ESCAPE- \]](https://osu.ppy.sh/beatmaps/4009601)
-  3. [seatrus - Querasis \[Silex\]](https://osu.ppy.sh/beatmaps/4009596)
-  4. [CROOVE - Aquaris \[Renderer\]](https://osu.ppy.sh/beatmaps/2353030)
-  5. [Chroma - Dont Fight The Music \[Start Battle\]](https://osu.ppy.sh/beatmaps/4009614)
-  6. [sasakure.UK VS Anayama Daisuke - ANU \[Satori's END (tyrcs Edit)\]](https://osu.ppy.sh/beatmaps/4009624)
-  7. [Billain - Autonomous (Cut Ver.) \[auto is fun asdfasdf\]](https://osu.ppy.sh/beatmaps/4009632)
-  8. [Cait Sith - Schrodinger no neko \[Superpositionoodle\]](https://osu.ppy.sh/beatmaps/3404893)
-  9. [Rabbit House & Evin ak - optimal solution \[Ideal Ending (212BPM) (MCNC edit)\]](https://osu.ppy.sh/beatmaps/4009537)
-  10. [Yunomi - Game Over (feat. TORIENA) \[crazy\]](https://osu.ppy.sh/beatmaps/4006432)
-  11. [KikuoHana - Desert Theater \[Borderless Illusion (230BPM)\]](https://osu.ppy.sh/beatmaps/4009612)
-  12. [lapix - Artificial Human \[SCP\]](https://osu.ppy.sh/beatmaps/3924687)
-  13. [u-z feat. cherica - Corrupting Wonderland \[Alice in Wonderland\]](https://osu.ppy.sh/beatmaps/3652328)
-  14. [ina - IMAWANOKIWA \[I wanted to see your future\]](https://osu.ppy.sh/beatmaps/3472994)
-  15. [ProjectG - Theme \[Abstraction\]](https://osu.ppy.sh/beatmaps/4009627)
-  16. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmaps/4009588)
+  1. [Shiraishi - True Millennium Queen \[Kawawa's \[BMS wawather LV.23\] (edit)\]](https://osu.ppy.sh/beatmapsets/1939340#mania/4009611)
+  2. [Tatsh - IMAGE -MATERIAL-  (Cut Ver.) \[-ESCAPE- \]](https://osu.ppy.sh/beatmapsets/1939336#mania/4009601)
+  3. [seatrus - Querasis \[Silex\]](https://osu.ppy.sh/beatmapsets/1939334#mania/4009596)
+  4. [CROOVE - Aquaris \[Renderer\]](https://osu.ppy.sh/beatmapsets/1126160#mania/2353030)
+  5. [Chroma - Dont Fight The Music \[Start Battle\]](https://osu.ppy.sh/beatmapsets/1939342#mania/4009614)
+  6. [sasakure.UK VS Anayama Daisuke - ANU \[Satori's END (tyrcs Edit)\]](https://osu.ppy.sh/beatmapsets/1939347#mania/4009624)
+  7. [Billain - Autonomous (Cut Ver.) \[auto is fun asdfasdf\]](https://osu.ppy.sh/beatmapsets/1939352#mania/4009632)
+  8. [Cait Sith - Schrodinger no neko \[Superpositionoodle\]](https://osu.ppy.sh/beatmapsets/1228719#mania/3404893)
+  9. Rabbit House & Evin ak - optimal solution \[Ideal Ending (212BPM) (MCNC edit)\]
+  10. [Yunomi - Game Over (feat. TORIENA) \[crazy\]](https://osu.ppy.sh/beatmapsets/1938084#mania/4006432)
+  11. [KikuoHana - Desert Theater \[Borderless Illusion (230BPM)\]](https://osu.ppy.sh/beatmapsets/1939341#mania/4009612)
+  12. [lapix - Artificial Human \[SCP\]](https://osu.ppy.sh/beatmapsets/1903538#mania/3924687)
+  13. [u-z feat. cherica - Corrupting Wonderland \[Alice in Wonderland\]](https://osu.ppy.sh/beatmapsets/1783408#mania/3652328)
+  14. [ina - IMAWANOKIWA \[I wanted to see your future\]](https://osu.ppy.sh/beatmapsets/1699647#mania/3472994)
+  15. [ProjectG - Theme \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1939349#mania/4009627)
+  16. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)
 - TieBreaker
-  1. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmaps/4009588)
+  1. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)
 
 ### Finals
 
 **[Download the mappack here! (221 MB)](https://drive.google.com/file/d/1HmDge1B8bJtyUkK1JdqW0IF3JpCFwmo9/view?usp%3Dshare_link)**
 
 - FreeMod
-  1. [Fvrwvrd - Extra Credit on The Extratone Test! VICTORY ROYALE!!! (Stan Schwank) \[Winner Winner Chicken Dinner\]](https://osu.ppy.sh/beatmaps/3999812)
-  2. [cosMo@Bousou-P feat.Hatsune Miku - Hatsune Tenchikaibyaku Shinwa \[edit\]](https://osu.ppy.sh/beatmaps/3999727)
-  3. [Nana Mizuki - Nageki no Hana (Slax Remix) \[Flower of Lament\]](https://osu.ppy.sh/beatmaps/3768936)
-  4. [Boom Kitty - Shredageddon \[Rupture \[1.05x\]\]](https://osu.ppy.sh/beatmaps/3999725)
-  5. [Various Artists - Nakano Yuko Map Collection \[Neokontrol feat. Dustvoxx & Laur - FIRELIGHT\]](https://osu.ppy.sh/beatmaps/2981082)
-  6. [MisomyL - Mukishitsu Sekai ni Irudori o \[Iroshizuku st1 1.1x (171bpm)\]](https://osu.ppy.sh/beatmaps/3504147)
-  7. [Mr Bill & qebrus - 2,5-dimethoxy-4-(n)-propylthiophenethylamine qebrus version \[0\]](https://osu.ppy.sh/beatmaps/3999733)
-  8. [Five Hammer - FFFFF op.2 \[Fortissississimo\]](https://osu.ppy.sh/beatmaps/3688643)
-  9. [void (Mournfinale) feat. Hoshikuma Minami - Testify \[Leeju's 7K Oath\]](https://osu.ppy.sh/beatmaps/3914120)
-  10. [Otokaze - SaiGetsu (Cut Ver.) \[Lunatic\]](https://osu.ppy.sh/beatmaps/3999723)
-  11. [Sayuri - Hana no Tou \[Lv.83\]](https://osu.ppy.sh/beatmaps/3993296)
-  12. [Ado - Motherland \[Love to the inferiors\]](https://osu.ppy.sh/beatmaps/3941228)
-  13. [Feryquitous feat. Sennzai - Rhuzerv \[Endless Darkness\]](https://osu.ppy.sh/beatmaps/3999735)
-  14. [Co shu Nie - SAKURA BURST \[Disappearance\]](https://osu.ppy.sh/beatmaps/3628681)
-  15. [t+pazolite & Nanahira - ONOMATO Pairing!!! (SSLong ver.) \[Nanahira New Year (edit)\]](https://osu.ppy.sh/beatmaps/3396377)
+  1. [Fvrwvrd - Extra Credit on The Extratone Test! VICTORY ROYALE!!! (Stan Schwank) \[Winner Winner Chicken Dinner\]](https://osu.ppy.sh/beatmapsets/1935392#mania/3999812)
+  2. [cosMo@Bousou-P feat.Hatsune Miku - Hatsune Tenchikaibyaku Shinwa \[edit\]](https://osu.ppy.sh/beatmapsets/1935350#mania/3999727)
+  3. [Nana Mizuki - Nageki no Hana (Slax Remix) \[Flower of Lament\]](https://osu.ppy.sh/beatmapsets/1835755#mania/3768936)
+  4. [Boom Kitty - Shredageddon \[Rupture \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1935349#mania/3999725)
+  5. [Various Artists - Nakano Yuko Map Collection \[Neokontrol feat. Dustvoxx & Laur - FIRELIGHT\]](https://osu.ppy.sh/beatmapsets/1449950#mania/2981082)
+  6. [MisomyL - Mukishitsu Sekai ni Irudori o \[Iroshizuku st1 1.1x (171bpm)\]](https://osu.ppy.sh/beatmapsets/1714977#mania/3504147)
+  7. [Mr Bill & qebrus - 2,5-dimethoxy-4-(n)-propylthiophenethylamine qebrus version \[0\]](https://osu.ppy.sh/beatmapsets/1935356#mania/3999733)
+  8. [Five Hammer - FFFFF op.2 \[Fortissississimo\]](https://osu.ppy.sh/beatmapsets/1799357#mania/3688643)
+  9. [void (Mournfinale) feat. Hoshikuma Minami - Testify \[Leeju's 7K Oath\]](https://osu.ppy.sh/beatmapsets/1898986#mania/3914120)
+  10. [Otokaze - SaiGetsu (Cut Ver.) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1935347#mania/3999723)
+  11. [Sayuri - Hana no Tou \[Lv.83\]](https://osu.ppy.sh/beatmapsets/1932718#mania/3993296)
+  12. [Ado - Motherland \[Love to the inferiors\]](https://osu.ppy.sh/beatmapsets/1910724#mania/3941228)
+  13. [Feryquitous feat. Sennzai - Rhuzerv \[Endless Darkness\]](https://osu.ppy.sh/beatmapsets/1935358#mania/3999735)
+  14. [Co shu Nie - SAKURA BURST \[Disappearance\]](https://osu.ppy.sh/beatmapsets/1772362#mania/3628681)
+  15. [t+pazolite & Nanahira - ONOMATO Pairing!!! (SSLong ver.) \[Nanahira New Year (edit)\]](https://osu.ppy.sh/beatmapsets/1663760#mania/3396377)
 - TieBreaker
-  1. [Dustvoxx - Switchback \[NS Deluxe\]](https://osu.ppy.sh/beatmaps/4000342)
+  1. [Dustvoxx - Switchback \[NS Deluxe\]](https://osu.ppy.sh/beatmapsets/1935584#mania/4000342)
 
 ### Semifinals
 
 **[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1qCPFoEPhbSalj2TIZE6R_PiHFDvwQKmI/view?usp=share_link)**
 
 - FreeMod
-  1. [-45 - Blooderay Malie \[qtp13's \[D-Moderate\] x1.2 (169bpm)\]](https://osu.ppy.sh/beatmaps/3989715)
-  2. [3R2 - The Truth Never Spoken (Energetic Trance Mix) \[Delusion 1.2x (184bpm) OD8\]](https://osu.ppy.sh/beatmaps/3832360)
-  3. [goreshit - burn this moment into the retina of my eye (cut ver.) \[memorise\]](https://osu.ppy.sh/beatmaps/3989539)
-  4. [Gentle Stick X M2U - Hades in the Heaven \[Insane\]](https://osu.ppy.sh/beatmaps/3989494)
-  5. [BEMANI Sound Team "HuMeR" - Rejection Girl \[kaiden gf\]](https://osu.ppy.sh/beatmaps/3619611)
-  6. [5-let - Asymmetric Grooves \[xiba pumian\]](https://osu.ppy.sh/beatmaps/3989543)
-  7. [in love with a ghost - flowers feat. nori \[lost love with releases\]](https://osu.ppy.sh/beatmaps/3989542)
-  8. [Shiron - CODE -CRiMSON- \[TERRORiST\]](https://osu.ppy.sh/beatmaps/3989549)
-  9. [Otokaze - amamichi \[Reflection\]](https://osu.ppy.sh/beatmaps/3912845)
-  10. [Toketsuia - God-ish \[AhoUsagi's God is dead (edit)\]](https://osu.ppy.sh/beatmaps/3989495)
-  11. [HyuN feat. LyuU - Cross Over \[Quasover\]](https://osu.ppy.sh/beatmaps/3989541)
-  12. [Camellia feat. Nanahira - Ju-Ju- Yakiniku no Hi kara Phenix!?~Saitan no Sumibi Yaki~ \[Extra\]](https://osu.ppy.sh/beatmaps/3755024)
-  13. [Maria & the Mirrors - Gemini Enjoy My Life \[noisy (LN Edition)\]](https://osu.ppy.sh/beatmaps/3989547)
+  1. [-45 - Blooderay Malie \[qtp13's \[D-Moderate\] x1.2 (169bpm)\]](https://osu.ppy.sh/beatmapsets/1931281#mania/3989715)
+  2. [3R2 - The Truth Never Spoken (Energetic Trance Mix) \[Delusion 1.2x (184bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1863570#mania/3832360)
+  3. [goreshit - burn this moment into the retina of my eye (cut ver.) \[memorise\]](https://osu.ppy.sh/beatmapsets/1931194#mania/3989539)
+  4. [Gentle Stick X M2U - Hades in the Heaven \[Insane\]](https://osu.ppy.sh/beatmapsets/1931171#mania/3989494)
+  5. [BEMANI Sound Team "HuMeR" - Rejection Girl \[kaiden gf\]](https://osu.ppy.sh/beatmapsets/1768250#mania/3619611)
+  6. [5-let - Asymmetric Grooves \[xiba pumian\]](https://osu.ppy.sh/beatmapsets/1931198#mania/3989543)
+  7. [in love with a ghost - flowers feat. nori \[lost love with releases\]](https://osu.ppy.sh/beatmapsets/1931197#mania/3989542)
+  8. [Shiron - CODE -CRiMSON- \[TERRORiST\]](https://osu.ppy.sh/beatmapsets/1931201#mania/3989549)
+  9. [Otokaze - amamichi \[Reflection\]](https://osu.ppy.sh/beatmapsets/1898432#mania/3912845)
+  10. [Toketsuia - God-ish \[AhoUsagi's God is dead (edit)\]](https://osu.ppy.sh/beatmapsets/1931172#mania/3989495)
+  11. [HyuN feat. LyuU - Cross Over \[Quasover\]](https://osu.ppy.sh/beatmapsets/1931196#mania/3989541)
+  12. [Camellia feat. Nanahira - Ju-Ju- Yakiniku no Hi kara Phenix!?~Saitan no Sumibi Yaki~ \[Extra\]](https://osu.ppy.sh/beatmapsets/1829572#mania/3755024)
+  13. [Maria & the Mirrors - Gemini Enjoy My Life \[noisy (LN Edition)\]](https://osu.ppy.sh/beatmapsets/1931200#mania/3989547)
 - TieBreaker
-  1. [SAMString - NUMA \[Stupendous\]](https://osu.ppy.sh/beatmaps/3990012)
+  1. [SAMString - NUMA \[Stupendous\]](https://osu.ppy.sh/beatmapsets/1931405#mania/3990012)
 
 ### Quarterfinals
 
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/1v9cRVznc3nM0ptE9rcbIZZIbMdu2O0dM/view?usp=share_link)**
 
 - FreeMod
-  1. [modama/hugepulse - Swim in the sea of quarks \[Creation 1.05x\]](https://osu.ppy.sh/beatmaps/3448227)
-  2. [Petit Rabbit's with beans - Sekai ga Cafe ni Nacchatta! (Cut Ver.) \[Rabbit House\]](https://osu.ppy.sh/beatmaps/3977910)
-  3. [kessoku band - Guitar to Kodoku to Aoi Hoshi \[Lonely Rock\]](https://osu.ppy.sh/beatmaps/3977896)
-  4. [Shinshi Todoroku, Gekijou no Gotoku. - Shinsekai Exodus (Cut Ver.) \[2-step Expert\]](https://osu.ppy.sh/beatmaps/3723891)
-  5. [NASA - Nocturne op.Q-v \[Another\]](https://osu.ppy.sh/beatmaps/3846410)
-  6. [Masahiro "Godspeed" Aoki - The Game Changer (Cut Ver.) \[The Art of War\]](https://osu.ppy.sh/beatmaps/3335830)
-  7. [SENTIVE - rain drops \[petrichor with extra geosmin\]](https://osu.ppy.sh/beatmaps/3589125)
-  8. [Yuta Imai vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN \[tyrcs' THE FUNN SAMPLE SOUND\]](https://osu.ppy.sh/beatmaps/3977901)
-  9. [Lightscape - Collapsing World \[flying in the universe\]](https://osu.ppy.sh/beatmaps/3752472)
-  10. [Y - fairy stage \[Mix edit\]](https://osu.ppy.sh/beatmaps/3977997)
-  11. [Camellia - Final Flash Flight \[Expert\]](https://osu.ppy.sh/beatmaps/3509878)
-  12. [Mitsukiyo - Rolling Beat \[Insane\]](https://osu.ppy.sh/beatmaps/3512200)
-  13. [Kurokumo - Marunouchi Sadistic \[Pengdoll's Extreme\]](https://osu.ppy.sh/beatmaps/3871080)
+  1. modama/hugepulse - Swim in the sea of quarks \[Creation 1.05x\]
+  2. [Petit Rabbit's with beans - Sekai ga Cafe ni Nacchatta! (Cut Ver.) \[Rabbit House\]](https://osu.ppy.sh/beatmapsets/1926460#mania/3977910)
+  3. [kessoku band - Guitar to Kodoku to Aoi Hoshi \[Lonely Rock\]](https://osu.ppy.sh/beatmapsets/1926450#mania/3977896)
+  4. [Shinshi Todoroku, Gekijou no Gotoku. - Shinsekai Exodus (Cut Ver.) \[2-step Expert\]](https://osu.ppy.sh/beatmapsets/1794087#mania/3723891)
+  5. [NASA - Nocturne op.Q-v \[Another\]](https://osu.ppy.sh/beatmapsets/1869505#mania/3846410)
+  6. [Masahiro "Godspeed" Aoki - The Game Changer (Cut Ver.) \[The Art of War\]](https://osu.ppy.sh/beatmapsets/1634415#mania/3335830)
+  7. [SENTIVE - rain drops \[petrichor with extra geosmin\]](https://osu.ppy.sh/beatmapsets/1753793#mania/3589125)
+  8. [Yuta Imai vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN \[tyrcs' THE FUNN SAMPLE SOUND\]](https://osu.ppy.sh/beatmapsets/1926455#mania/3977901)
+  9. [Lightscape - Collapsing World \[flying in the universe\]](https://osu.ppy.sh/beatmapsets/1828350#mania/3752472)
+  10. [Y - fairy stage \[Mix edit\]](https://osu.ppy.sh/beatmapsets/1926502#mania/3977997)
+  11. [Camellia - Final Flash Flight \[Expert\]](https://osu.ppy.sh/beatmapsets/1715665#mania/3509878)
+  12. [Mitsukiyo - Rolling Beat \[Insane\]](https://osu.ppy.sh/beatmapsets/1718640#mania/3512200)
+  13. [Kurokumo - Marunouchi Sadistic \[Pengdoll's Extreme\]](https://osu.ppy.sh/beatmapsets/1663604#mania/3871080)
 - TieBreaker
-  1. [Ariabl'eyeS - Kegare Naki Bara Juuji \[Bloom\]](https://osu.ppy.sh/beatmaps/3977998)
+  1. [Ariabl'eyeS - Kegare Naki Bara Juuji \[Bloom\]](https://osu.ppy.sh/beatmapsets/1926503#mania/3977998)
 
 ### Round of 16
 
 **[Download the mappack here! (55 MB)](https://drive.google.com/file/d/1cyBk494FSNoDEMJQWQ1qpIuaSWhTEu1q/view?usp=sharing)**
 
 - FreeMod
-  1. [ninomiya tatsuki - furiae \[Transient\]](https://osu.ppy.sh/beatmaps/1930187)
-  2. [MisoilePunch - Sai \[CHAOS\]](https://osu.ppy.sh/beatmaps/2386260)
-  3. [SHIKI - Lapis \[Black Another\]](https://osu.ppy.sh/beatmaps/3373265)
-  4. [Renard - Banned Forever (Cut Ver.) \[children song\]](https://osu.ppy.sh/beatmaps/3969430)
-  5. [callasoiled - 4172756869 (isagen remix) (Cut Ver.) \[7k insane\]](https://osu.ppy.sh/beatmaps/2763839)
-  6. [SHIKI - - JUPITER - \[-LN ANOTHER-\]](https://osu.ppy.sh/beatmaps/3969381)
-  7. [lapix - Nothing but Theory \[Theoretical (edit)\]](https://osu.ppy.sh/beatmaps/3968549)
-  8. [Wang Qiang - Qiu Tian Bu Hui Lai \[Sorrowful Love\]](https://osu.ppy.sh/beatmaps/3105133)
-  9. [Sengoku Nadeko (CV: Hanazawa Kana) - Mousou Express (Cut Ver.) \[Imaginary Nerf\]](https://osu.ppy.sh/beatmaps/3969432)
-  10. [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange \[Blocko's 7K Irrsinnig\]](https://osu.ppy.sh/beatmaps/1507217)
-  11. [Yunomi & nicamoq - Indoor Kei Nara Trackmaker \[= w=)zzz\]](https://osu.ppy.sh/beatmaps/1745510)
+  1. [ninomiya tatsuki - furiae \[Transient\]](https://osu.ppy.sh/beatmapsets/772925#mania/1930187)
+  2. [MisoilePunch - Sai \[CHAOS\]](https://osu.ppy.sh/beatmapsets/1142667#mania/2386260)
+  3. [SHIKI - Lapis \[Black Another\]](https://osu.ppy.sh/beatmapsets/1652458#mania/3373265)
+  4. [Renard - Banned Forever (Cut Ver.) \[children song\]](https://osu.ppy.sh/beatmapsets/1922893#mania/3969430)
+  5. [callasoiled - 4172756869 (isagen remix) (Cut Ver.) \[7k insane\]](https://osu.ppy.sh/beatmapsets/1334074#mania/2763839)
+  6. [SHIKI - - JUPITER - \[-LN ANOTHER-\]](https://osu.ppy.sh/beatmapsets/1922869#mania/3969381)
+  7. [lapix - Nothing but Theory \[Theoretical (edit)\]](https://osu.ppy.sh/beatmapsets/1323310#mania/3968549)
+  8. [Wang Qiang - Qiu Tian Bu Hui Lai \[Sorrowful Love\]](https://osu.ppy.sh/beatmapsets/1516775#mania/3105133)
+  9. [Sengoku Nadeko (CV: Hanazawa Kana) - Mousou Express (Cut Ver.) \[Imaginary Nerf\]](https://osu.ppy.sh/beatmapsets/1922894#mania/3969432)
+  10. [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange \[Blocko's 7K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139#mania/1507217)
+  11. [Yunomi & nicamoq - Indoor Kei Nara Trackmaker \[= w=)zzz\]](https://osu.ppy.sh/beatmapsets/833226#mania/1745510)
 - TieBreaker
-  1. [Teminite & MDK - Space Invaders \[8bit Revenger // co. _Stan\]](https://osu.ppy.sh/beatmaps/3969384)
+  1. [Teminite & MDK - Space Invaders \[8bit Revenger // co. _Stan\]](https://osu.ppy.sh/beatmapsets/1922871#mania/3969384)
 
 ### Round of 32
 
@@ -245,13 +245,13 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (34 MB)](https://drive.google.com/file/d/1rd_tYLdZSxli9xp1fPIq8IOAKl-jsaya/view?usp=sharing)**
 
 - FreeMod
-  1. [Kirara Magic - Zombie Step \[Stage 1: Halowin\]](https://osu.ppy.sh/beatmaps/3949437) |
-  2. [MOB CHOIR - 99.9 (Schwank bootleg) \[Stage 2: 100%\]](https://osu.ppy.sh/beatmaps/3949603) |
-  3. [FROL - BEAKER (roop remix) \[Stage 3: Backtrack\]](https://osu.ppy.sh/beatmaps/3949438) |
-  4. [awfuless meets Zekk - MATOI -phase L- \[Stage 4: Showdown\]](https://osu.ppy.sh/beatmaps/3949442) |
-  5. [Asaka - Open your eyes  (Sped Up Ver.) \[Stage 5: Psychic\]](https://osu.ppy.sh/beatmaps/3949440) |
-  6. [EZFG - Cyber Thunder Cider \[Stage 6: PPPP\]](https://osu.ppy.sh/beatmaps/3949441) |
-  7. [technoplanet - Awakening \[Long Version\] [Stage 7: Ascension]](https://osu.ppy.sh/beatmaps/3949443) |
+  1. [Kirara Magic - Zombie Step \[Stage 1: Halowin\]](https://osu.ppy.sh/beatmapsets/1914412#mania/3949437) |
+  2. [MOB CHOIR - 99.9 (Schwank bootleg) \[Stage 2: 100%\]](https://osu.ppy.sh/beatmapsets/1914499#mania/3949603) |
+  3. [FROL - BEAKER (roop remix) \[Stage 3: Backtrack\]](https://osu.ppy.sh/beatmapsets/1914413#mania/3949438) |
+  4. [awfuless meets Zekk - MATOI -phase L- \[Stage 4: Showdown\]](https://osu.ppy.sh/beatmapsets/1914417#mania/3949442) |
+  5. [Asaka - Open your eyes  (Sped Up Ver.) \[Stage 5: Psychic\]](https://osu.ppy.sh/beatmapsets/1914415#mania/3949440) |
+  6. [EZFG - Cyber Thunder Cider \[Stage 6: PPPP\]](https://osu.ppy.sh/beatmapsets/1914416#mania/3949441) |
+  7. [technoplanet - Awakening \[Long Version\] [Stage 7: Ascension]](https://osu.ppy.sh/beatmapsets/1914418#mania/3949443) |
 
 ## Match results
 
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRczjkzx4gBLlfaTkkxeCMfYaFTt-KxxyIs595Zq8DIWwn4Rs5YobeIEI0fMtO27mGPlWQgyFi0b0Dg/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **VanWilder** | **7** | 3 | QingJiDing | [#1](https://osu.ppy.sh/community/matches/106746090) |
 | **af-** | **7** | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/106762565) |
@@ -270,9 +270,9 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgmmVujgxqfIkJIaR6oQ-r1xmC12LsGs8PP1C3KlUWdfHbIwxfGrrG3B0Fl6H4q59d3ZE6upZpn_Qp/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **VanWilder** | **7**    | 3 | QingJiDing | [#1](https://osu.ppy.sh/community/matches/106746090) |
+| **VanWilder** | **7** | 3 | QingJiDing | [#1](https://osu.ppy.sh/community/matches/106746090) |
 | **af-** | **7** | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/106762565) |
 | **U1d** | **7** | 3 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/106764334) |
 | af- | 6 | **7** | **U1d** | [#1](https://osu.ppy.sh/community/matches/106785546) |
@@ -281,11 +281,11 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSsR3vtuFlICCnp55im5-L_Whywmu7J1xAy56W7IDLlnU06tqOdrQui9UtyVrqHjbrmTBlBU6gAvPs/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YuLiangSSS** | **6** | 2 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/106649756) |
 | af- | 4 | **6** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/106649757) |
-| **HxcQ777**  | **6** | 0 | [GB]King Fish | [#1](https://osu.ppy.sh/community/matches/106650544) |
+| **HxcQ777** | **6** | 0 | [GB]King Fish | [#1](https://osu.ppy.sh/community/matches/106650544) |
 | idqoos123 | 3 | **6** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/106650898) |
 | U1d | 3 | **6** | VanWilder | [#1](https://osu.ppy.sh/community/matches/106651326) |
 | **[Crz]Reimu** | **6** | 0 | Watch01 | [#1](https://osu.ppy.sh/community/matches/106652502) |
@@ -296,13 +296,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSWS1jqEGwvLEeJnaDO3Pct5Zbeuu8bjZSYdraorgMf75n4bXJD3RhDD9uz-eSafttHNzVca9k5Y1W/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SilentParleHorn** | **6** | 1 | quailty | [#1](https://osu.ppy.sh/community/matches/106457715) |
 | **8K God** | **6** | 2 | WANGTIANDADA | [#1](https://osu.ppy.sh/community/matches/106457709) |
 | 8K God | 3 | **6** | **SilentParleHorn** | [#1](https://osu.ppy.sh/community/matches/106458225) |
 | HxcQ777 | 3 | **6** | **VanWilder** | [#1](https://osu.ppy.sh/community/matches/106458152) |
-| Krn_ | -1 | **0** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/106458609)       |
+| Krn_ | -1 | **0** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/106458609) |
 | **U1d** | **6** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/106495037) |
 | **QingJiDing** | **6** | 0 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/106494391) |
 | **af-** | **6** | 0 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/106515388) |
@@ -319,7 +319,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRm0x62nWxFbh_5AfsdXynVvqhD46oIyHTYaUYppQiZaxE_S-Eaw-YW6Qa6GgNwVJhT1AiBW0-2YGy/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **4kGameBye** | **5** | 4 | Watch01 | [#1](https://osu.ppy.sh/community/matches/106324563) |
 | **[Crz]Reimu** | **5** | 2 | AWMRone | [#1](https://osu.ppy.sh/community/matches/106324159) |
@@ -335,19 +335,19 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **QingJiDing** | **5** | 2 | IllIlllIIlIIlIl | [#1](https://osu.ppy.sh/community/matches/106380140) |
 | **idqoos123** | **5** | 2 | 8K God | [#1](https://osu.ppy.sh/community/matches/106381620) |
 | Krn_ | -1 | **0** | **YuLiangSSS** | [WBD](https://osu.ppy.sh/community/matches/106381635) |
-| SoftC418 | 1 | **5** | **WANGTIANDADA** [#1](https://osu.ppy.sh/community/matches/106382667) ||
+| SoftC418 | 1 | **5** | **WANGTIANDADA** | [#1](https://osu.ppy.sh/community/matches/106382667) |
 | HxcQ777 | 5 | **1** | **Mi-a** | [#1](https://osu.ppy.sh/community/matches/106383884) |
 
 ### Round of 32
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR-OOtbqMEjVqSn9yidd0CTS5R-Sm2sPCmocqFn0RC-QV8b4VpS7Vfh229DFeDk0OBSSORX4yYHLxad/pubhtml).
 
-| Player 1  | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Watch01** | **4** | 2 | Mito Van | [#1](https://osu.ppy.sh/community/matches/106219335) |
-| [GB]King Fish | -1　| **0** | **8K God** | [#1](https://osu.ppy.sh/community/matches/106221484) |
+| [GB]King Fish | -1 | **0** | **8K God** | [#1](https://osu.ppy.sh/community/matches/106221484) |
 | **wjh123** | **4** | 1 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/106240467) |
-| **U1d** | **4** | 0 | -[Ulazis]-  | [#1](https://osu.ppy.sh/community/matches/106241809) |
+| **U1d** | **4** | 0 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/106241809) |
 | **QingJiDing** | **4** | 1 | SoftC418 | **[#1](https://osu.ppy.sh/community/matches/106241850)** |
 | **SilentParleHorn** | **4** | 1 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/106243917) |
 | **Mi-a** | **4** | 3 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/106245152) |
