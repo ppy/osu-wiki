@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2023
 
-![OWC 2023 banner](img/owc2023-banner.jpg)
+![OWC 2023 배너](img/owc2023-banner.jpg)
 
 **osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
 
@@ -30,9 +30,9 @@ osu! 월드컵 2023은 최소 $5000의 상금과 한정판 굿즈가 제공됩�
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
+| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 
 ## 조직
 
@@ -44,7 +44,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | 맵풀 셀렉터 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | 맵풀 퀄리티 보증 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 맵풀 플레이테스터 | ::{ flag=CZ }:: [Avenito](https://osu.ppy.sh/users/7415910), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=BR }:: [Mystia](https://osu.ppy.sh/users/4277702), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) |
-| 매퍼 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| 매퍼 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 해설 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{flag=CA}:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{flag=GB}:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{flag=AU}:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | 심판 | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | 통계 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -55,6 +55,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1823846)
 - [실시간 방송](https://www.twitch.tv/osulive)
 - [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
+- [Challonge 대진표](https://challonge.com/OWC_2023)
 - [팀 지원하기](https://osu.ppy.sh/store/products/1219)
 
 ## 참가자
@@ -123,35 +124,49 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 32강
+## 경기 일정 : 16강
 
-### 2023년 10월 28일 토요일
-
-| Team A | Team B | 매치 시간 | 트위치 생방송 |
-| --: | :-- | :-- | :-: |
-| 칠레 ::{ flag=CL }:: | ::{ flag=SE }:: 스웨덴 | [Oct 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T020000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 미국 ::{ flag=US }:: | ::{ flag=TH }:: 태국 | [Oct 28 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T050000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=AR }:: 아르헨티나 | [Oct 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T170000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) |
-| 영국 ::{ flag=GB }:: | ::{ flag=TR }:: 튀르키예 | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=136&p3=19) | [osulive_2](https://twitch.tv/osulive_2) |
-| 프랑스 ::{ flag=FR }:: | ::{ flag=BR }:: 브라질 | [Oct 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231028T180000&p1=1440&p2=195&p3=45) | [osulive](https://twitch.tv/osulive) |
-
-### 2023년 10월 29일 일요일
+### 2023년 11월 5일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |
 | --: | :-- | :-- | :-: |
-| 필리핀 ::{ flag=PH }:: | ::{ flag=MX }:: 멕시코 | [Oct 29 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T050000&p1=1440&p2=145&p3=155) | [osulive](https://twitch.tv/osulive) |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=TW }:: 대만 | [Oct 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=57&p3=241) | [osulive_2](https://twitch.tv/osulive_2) |
-| 이탈리아 ::{ flag=IT }:: | ::{ flag=NZ }:: 뉴질랜드 | [Oct 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T100000&p1=1440&p2=215&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 인도네시아 ::{ flag=ID }:: | ::{ flag=UA }:: 우크라이나 | [Oct 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T120000&p1=1440&p2=108&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=KZ }:: 카자흐스탄 | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
-| 러시아 ::{ flag=RU }:: | ::{ flag=NL }:: 네덜란드 | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=166&p3=16) |  |
-| 홍콩 ::{ flag=HK }:: | ::{ flag=FI }:: 핀란드 | [Oct 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T130000&p1=1440&p2=102&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
-| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [Oct 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=33&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
-| 루마니아 ::{ flag=RO }:: | ::{ flag=SG }:: 싱가포르 | [Oct 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T140000&p1=1440&p2=49&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 독일 ::{ flag=DE }:: | ::{ flag=ES }:: 스페인 | [Oct 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T150000&p1=1440&p2=37&p3=141) | [osulive](https://twitch.tv/osulive) |
-| 캐나다 ::{ flag=CA }:: | ::{ flag=NO }:: 노르웨이 | [Oct 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231029T190000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
+| 멕시코 ::{ flag=MX }:: | ::{ flag=SG }:: 싱가포르 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=155&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CL }:: 칠레 | [Nov 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T040000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) |
+| 튀르키예 ::{ flag=TR }:: | ::{ flag=ID }:: 인도네시아 | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=19&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
+| 러시아 ::{ flag=RU }:: | ::{ flag=HK }:: 홍콩 | [Nov 5 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T130000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) |
+| 대만 ::{ flag=TW }:: | ::{ flag=SE }:: 스웨덴 | [Nov 5 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T133000&p1=1440&p2=241&p3=239) | [osulive_2](https://twitch.tv/osulive_2) |
+| 카자흐스탄 ::{ flag=KZ }:: | ::{ flag=JP }:: 일본 | [Nov 5 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T140000&p1=1440&p3=248) | [osulive](https://twitch.tv/osulive) |
+| 영국 ::{ flag=GB }:: | ::{ flag=UA }:: 우크라이나 | [Nov 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T150000&p1=1440&p2=136&p3=367) | [osulive](https://twitch.tv/osulive) |
+| 미국 ::{ flag=US }:: | ::{ flag=IT }:: 이탈리아 | [Nov 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T180000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) |
+| 폴란드 ::{ flag=PL }:: | ::{ flag=BR }:: 브라질 | [Nov 5 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231105T190000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
 
 ## 맵풀 목록
+
+### 16강
+
+**[맵팩은 여기서 다운로드가 가능합니다 (99 MB)](https://packs.ppy.sh/P226%20-%20osu%21%20World%20Cup%202023%3A%20Round%20of%2032.zip)**
+
+- No Mod
+  1. [Nekrogoblikon - Mold (Icekalt) \[A Spider on the Wind\]](https://osu.ppy.sh/beatmapsets/1061153#osu/2221627)
+  2. [Mysteka - Jerrybeans (Saika0k1) \[beanboozled\]](https://osu.ppy.sh/beatmapsets/1860553#osu/3825151)
+  3. [04 Limited Sazabys - Cycle (moph) \[Liberation\]](https://osu.ppy.sh/beatmapsets/2081928#osu/4360132)
+  4. [jun with Alison - SUNKiSS DROP \~jun side\~ (\[Keqing\]) \[please donate for my gacha addiction\]](https://osu.ppy.sh/beatmapsets/1498309#osu/3070802)
+- Hidden
+  1. [Yousuke Kinoshita - Between Heaven and Earth \[Inferno\] (seros) \[Maddening\]](https://osu.ppy.sh/beatmapsets/2082041#osu/4360360)
+  2. [Yousei Teikoku - Tainai Tokei Toshi Orrery (IsomirDiAngelo) \[Kon Kon Kin Kon Kon\]](https://osu.ppy.sh/beatmapsets/2081058#osu/4358041)
+- Hard Rock
+  1. [Pegboard Nerds x MisterWives - Coffins (NeilPerry) \[Neil x LCFC's Conflux\]](https://osu.ppy.sh/beatmapsets/823272#osu/1725369)
+  2. [Pedro Silva - World's End Valentine (Mordred) \[OHOHOHOHOHO!!!!!!!!!!!!\]](https://osu.ppy.sh/beatmapsets/2082048#osu/4360371)
+- Double Time
+  1. [Motley Croe - Kickstart My Heart (Castagne) \[sasas\]](https://osu.ppy.sh/beatmapsets/1332159#osu/2760226)
+  2. [KOTOKO - unfinished (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
+  3. [Yamamoto Mineko - Presea (Shurelia) \[Elmerulia Fryxel\]](https://osu.ppy.sh/beatmapsets/2082024#osu/4360325)
+- Free Mod
+  1. [Toromaru - Ebb Tide (CallieCube) \[Expert\]](https://osu.ppy.sh/beatmapsets/2082040#osu/4360358)
+  2. [Yorushika - Thoughtcrime (Deca) \[Phantom\]](https://osu.ppy.sh/beatmapsets/1676482#osu/3902488)
+  3. [sHimaU - Noumen Break (katagiri Remix) (fergas) \[Empendium how not\]](https://osu.ppy.sh/beatmapsets/1964101#osu/4319264)
+- Tiebreaker
+  1. **[Asriel - Kuroi Hitomi no Majuu (Hey lululu) \[Eternally\]](https://osu.ppy.sh/beatmapsets/2081920#osu/4360113)**
 
 ### 32강
 
@@ -199,7 +214,56 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   2. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#osu/4344475)
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
-## 결과
+## 경기 결과
+
+### 16강
+
+2023년 11월 3일 금요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **필리핀** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: 루마니아 | [#1](https://osu.ppy.sh/community/matches/111152642) | [#1](https://www.twitch.tv/videos/1967584249) |
+
+2023년 11월 4일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **태국** ::{ flag=TH }:: | **5** | 4 | ::{ flag=NZ }:: 뉴질랜드 | [#1](https://osu.ppy.sh/community/matches/111165133) | [#1](https://www.twitch.tv/videos/1968375051) |
+| **대한민국** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: 중국 | [#1](https://osu.ppy.sh/community/matches/111167951) | [#1](https://www.twitch.tv/videos/1968543637) |
+| 스페인 ::{ flag=ES }:: | 0 | **5** | ::{ flag=NO }:: **노르웨이** | [#1](https://osu.ppy.sh/community/matches/111168903) | [#1](https://www.twitch.tv/videos/1968543637?t=00h47m36s) |
+| 네덜란드 ::{ flag=NL }:: | 0 | **5** | ::{ flag=FI }:: **핀란드** | [#1](https://osu.ppy.sh/community/matches/111170809) | [#1](https://www.twitch.tv/videos/1968663146) |
+| 아르헨티나 ::{ flag=AR }:: | 0 | **5** | ::{ flag=FR }:: **프랑스** | [#1](https://osu.ppy.sh/community/matches/111170821) | [#1](https://www.twitch.tv/videos/1968714286) |
+| 독일 ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/111171785) | [#1](https://www.twitch.tv/videos/1968714286?t=00h35m49s) |
+
+### 32강
+
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1dNZJHwjySXZoxzrM-CekqCZqX9P-K5eHeW-QNl-Vwm0?rm=minimal)에서 확인할 수 있습니다.
+
+2023년 10월 28일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **칠레** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: 스웨덴 | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
+| **미국** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: 태국 | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
+| **폴란드** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
+| **영국** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: 튀르키예 | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
+| 프랑스 ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **브라질** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
+
+2023년 10월 29일 일요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **필리핀** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MX }:: 멕시코 | [#1](https://osu.ppy.sh/community/matches/111081251) | [#1](https://www.twitch.tv/videos/1963230645) |
+| **오스트레일리아** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/111083508) | [#1](https://www.twitch.tv/videos/1963229994) |
+| **이탈리아** ::{ flag=IT }:: | **5** | 4 | ::{ flag=NZ }:: 뉴질랜드 | [#1](https://osu.ppy.sh/community/matches/111083501) | [#1](https://www.twitch.tv/videos/1963413031) |
+| 인도네시아 ::{ flag=ID }:: | 0 | **5** | ::{ flag=UA }:: **우크라이나** | [#1](https://osu.ppy.sh/community/matches/111084580) | [#1](https://www.twitch.tv/videos/1963413031?t=1h5m6s) |
+| **대한민국** ::{ flag=KR }:: | **5** | 0 | ::{ flag=KZ }:: 카자흐스탄 | [#1](https://osu.ppy.sh/community/matches/111085330) | [#1](https://www.twitch.tv/videos/1963413031?t=1h50m22s) |
+| **러시아** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NL }:: 네덜란드 | [#1](https://osu.ppy.sh/community/matches/111085320) |  |
+| **홍콩** ::{ flag=HK }:: | **5** | 3 | ::{ flag=FI }:: 핀란드 | [#1](https://osu.ppy.sh/community/matches/111085343) | [#1](https://www.twitch.tv/videos/1963390816) |
+| **중국** ::{ flag=CN }:: | **5** | 4 | ::{ flag=JP }:: 일본 | [#1](https://osu.ppy.sh/community/matches/111086282) | [#1](https://www.twitch.tv/videos/1963390816?t=1h1m28s) |
+| **루마니아** ::{ flag=RO }:: | **5** | 4 | ::{ flag=SG }:: 싱가포르 | [#1](https://osu.ppy.sh/community/matches/111086205) | [#1](https://www.twitch.tv/videos/1963413031?t=2h31m42s) |
+| **독일** ::{ flag=DE }:: | **5** | 0 | ::{ flag=ES }:: 스페인 | [#1](https://osu.ppy.sh/community/matches/111087337) | [#1](https://www.twitch.tv/videos/1963413031?t=3h46m9s) |
+| **캐나다** ::{ flag=CA }:: | **5** | 1 | ::{ flag=NO }:: 노르웨이 | [#1](https://osu.ppy.sh/community/matches/111091065) | [#1](https://www.twitch.tv/videos/1963586869) |
 
 ### 퀄리파이어
 

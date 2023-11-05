@@ -40,7 +40,7 @@ Según el [[RC]], esto está prohibido.
 
 Al agregar redirecciones para un artículo nuevo o existente, tenga en cuenta que deben ser concisos y diseñados para el uso real.
 
-### Comprobaciones de IC
+### Comprobaciones de IC {id=ci-checks}
 
 El repositorio de la osu! wiki usa [integración continua](https://docs.github.com/en/actions/guides/about-continuous-integration) (IC, *CI en inglés*) para verificar automáticamente las solicitudes de cambios entrantes en busca de varios errores comunes. La lista de comprobaciones se configura en el archivo [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
@@ -65,7 +65,7 @@ A modo de referencia, a continuación se muestra una tabla de todas las comproba
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) a través de [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Si la sintaxis de Markdown es correcta y consistente en artículos de la wiki y publicaciones de noticias. | Agregue `<!-- lint ignore rule-name -->` encima de la línea ofensiva, donde `rule-name` es la regla a ignorar. |
 | 3 | YAML | Comando `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si la sintaxis de YAML es correcta y coherente en el archivo [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) y en el [formato de serialización](/wiki/Article_styling_criteria/Formatting#formato-de-serialización) | Ninguno. |
 | 4 | Enlaces de la wiki rotos | Comando `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si los [enlaces de la wiki](/wiki/Article_styling_criteria/Formatting#enlaces-de-la-wiki) internos apuntan a un artículo real, una publicación de noticias (para enlaces de publicaciones de noticias) o una sección del mismo. | Agregue `SKIP_WIKILINK_CHECK` en cualquier lugar de la descripción de la solicitud de cambios. |
-| 5 | Traducciones obsoletas | Comando `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) |  Si las traducciones [se marcan como obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) correctamente al actualizar un artículo en inglés. | Agregue `SKIP_OUTDATED_CHECK` en cualquier lugar de la descripción de la solicitud de cambios. |
+| 5 | Traducciones obsoletas | Comando `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si las traducciones [se marcan como obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) correctamente al actualizar un artículo en inglés. | Agregue `SKIP_OUTDATED_CHECK` en cualquier lugar de la descripción de la solicitud de cambios. |
 
 ##### Regla de remark lint [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) de Markdown
 
@@ -79,7 +79,7 @@ Los puntos finales en los encabezamientos normalmente no ocurren porque los enca
 
 ##### Regla de remark lint [`heading-increment`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-heading-increment) de Markdown
 
-Normalmente, los niveles de encabezamiento solo deben aumentar uno a la vez. Para las [fichas](/wiki/Article_styling_criteria/Formatting#fichas), solo se permiten los niveles de encabezamiento 4 y 5, lo que puede entrar en conflicto con esta regla.
+Normalmente, los niveles de encabezamiento solo deben aumentar uno a la vez. Para las [cajas de información](/wiki/Article_styling_criteria/Formatting#cajas-de-información), solo se permiten los niveles de encabezamiento 4 y 5, lo que puede entrar en conflicto con esta regla.
 
 ```markdown
 # Lista de los mappers favoritos de peppy
