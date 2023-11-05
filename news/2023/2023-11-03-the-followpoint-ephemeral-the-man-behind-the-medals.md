@@ -15,6 +15,7 @@ Ephemeral, joining the game in August 2009, has taken an active part in the deve
 On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with Ephemeral, and in this newspost you'll be able to watch the recording of the full event below: 
 
 (**This video reveals solutions to multiple medals. If you want to search for their solutions yourself, you may want to hold off on watching the video for now.**)
+
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OHWbFpPoTJI" frameborder="0" allowfullscreen></iframe>
 </div>
