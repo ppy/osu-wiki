@@ -36,5 +36,5 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 
 ## Le saviez-vous ?
 
-- Le premier utilisateur à avoir atteint 100 beatmaps classés est [DJPop](https://osu.ppy.sh/users/2363), le 4 août 2010.
+- Le premier utilisateur à avoir atteint 100 beatmaps classés est ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), le 4 août 2010.
 - Parmi tous les Centurions, il faut environ **3,6 ans**<!-- use "3 ans et demi" instead of "3,5 ans" --> (environ 1306 jours) pour classer 100 beatmaps en moyenne.

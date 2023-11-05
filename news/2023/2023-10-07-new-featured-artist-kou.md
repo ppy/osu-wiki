@@ -99,7 +99,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | Rank | User | Points earned | [Total points](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard) |
 | --: | :-- | :-- | :-- |
 | #1 | ::{ flag=CA }:: **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** | **10** | **22** |
-| #2 | ::{ flag=RU }:: [143](https://osu.ppy.sh/users/16762570) | 5 | 5 |
+| #2 | ::{ flag=US }:: [0143](https://osu.ppy.sh/users/32695517) | 5 | 5 |
 | #3 | ::{ flag=KR }:: [lnote_](https://osu.ppy.sh/users/14631339) | 3 | 3 |
 | #4 | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200) | 2 | 5 |
 | #5 | ::{ flag=ID }:: [Wishtynite](https://osu.ppy.sh/users/14217379) | 2 | 7 |
