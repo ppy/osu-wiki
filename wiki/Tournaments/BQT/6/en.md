@@ -266,7 +266,6 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 - DoubleTime
   1. [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) \[Fiery's Extra\]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
   2. [Kijibato - w/WWW feat. Hoshimiya Toto (Elcheer) \[Hard\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2855311)
-  
 
 ## Match results
 
@@ -400,22 +399,19 @@ Sunday, 8 October 2023:
 10. Referees, streamers, and match casters are allowed to play in the tournament. However, referees may not self-referee their own match.
 11. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
 
-   - **Pros:**
+- **Pros:**
+  - ONE Team Supporter per team is allowed to join warmups during matches.
+  - Get notified when your team matches are happening and/or stream!
+  - Being a team player and giving helpful knowledge to provide them a good experience in the tournament scene.
 
-     - ONE Team Supporter per team is allowed to join warmups during matches.
-     - Get notified when your team matches are happening and/or stream!
-     - Being a team player and giving helpful knowledge to provide them a good experience in the tournament scene.
+- **Cons:**
+  - A Team Supporter cannot be part of the following roles: administrator, referee, mappool selector, mapper, and player.
+  - At any point in time, the team captain can remove a Team Supporter from the team.
 
-   - **Cons:**
-
-     - A Team Supporter cannot be part of the following roles: administrator, referee, mappool selector, mapper, and player.
-     - At any point in time, the team captain can remove a Team Supporter from the team.
-
-   - **Other Helpful Information:**
-
-     - Any rank is allowed to be a Team Supporter!
-     - There's no direct incentive to the role, as it's just a way to give back to the osu! community. You'd be like a coach or an advisor for the team!
-     - If you're being offensive, aggressive, or rude to your and other teams, you'll get a warning, and getting 3 warnings would result in a ban from the server. Positive vibes only!
+- **Other Helpful Information:**
+  - Any rank is allowed to be a Team Supporter!
+  - There's no direct incentive to the role, as it's just a way to give back to the osu! community. You'd be like a coach or an advisor for the team!
+  - If you're being offensive, aggressive, or rude to your and other teams, you'll get a warning, and getting 3 warnings would result in a ban from the server. Positive vibes only!
 
 ### Qualifier instructions
 
@@ -434,7 +430,7 @@ Sunday, 8 October 2023:
 4. There will be **no warmups** during matches in this season, so please warm up properly before your match.
 5. Each team will use `!roll` for the banning and picking phase. The winner of the roll will get to **choose pick order/ban order** The loser of the roll will get to choose between the leftover options. For Example, if Team 1 rolls 100 and Team 2 rolls 50, Team 1 can choose ban order where they may choose ban first or second. Then that leaves Team 2 to choose pick order, where they may choose to pick first or second.
 6. There will be **one** ban per team on matches up to RO16, and **two** bans per team (ABBA format) on matches from Quarterfinals onwards. **Each team may not ban two maps from the same mod pool in a match**, except for NoMod maps.
-7. Each team will be allowed up to 60 seconds to choose their banned pick(s). 
+7. Each team will be allowed up to 60 seconds to choose their banned pick(s).
 8. Picks will happen in alternating order after the previous map is finished. Each team has 120 seconds to pick their map. If a map is not picked by 120 seconds, the pick will go to the other team.
 9. **Picking maps from the same mod pool consecutively in a match is not allowed**, except for NoMod maps. For example, when a team picks HR1, they can't pick HR2 in their next turn. They had to pick something else first (e.g. DT1) before they can pick HR2.
 10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 UNLESS a score is provided. AN ABORT IS ALLOWED ONCE PER TEAM, PER MATCH.
