@@ -400,7 +400,7 @@ Sunday, 8 October 2023:
 11. The tournament allows for each team to assign dedicated Team Supporters for their team, which comes with the following traits:
 
 - **Pros:**
-  - ONE Team Supporter per team is allowed to join warmups during matches.
+  - One Team Supporter per team is allowed to join warmups during matches.
   - Get notified when your team matches are happening and/or stream!
   - Being a team player and giving helpful knowledge to provide them a good experience in the tournament scene.
 
@@ -433,7 +433,7 @@ Sunday, 8 October 2023:
 7. Each team will be allowed up to 60 seconds to choose their banned pick(s).
 8. Picks will happen in alternating order after the previous map is finished. Each team has 120 seconds to pick their map. If a map is not picked by 120 seconds, the pick will go to the other team.
 9. **Picking maps from the same mod pool consecutively in a match is not allowed**, except for NoMod maps. For example, when a team picks HR1, they can't pick HR2 in their next turn. They had to pick something else first (e.g. DT1) before they can pick HR2.
-10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 UNLESS a score is provided. AN ABORT IS ALLOWED ONCE PER TEAM, PER MATCH.
+10. A map will be aborted if a player disconnects within the first 30 seconds of the map. If there is a disconnect and the map is not aborted, the score for that player will be counted as 0 unless a score is provided. An abort is allowed once per team, per match.
 11. NoFail will be enforced on every map.
 12. When playing FreeMod, each player in a team must have a unique mod! One player with HD/EZ/HDEZ and another player with HR/HDHR. EZ = 1.8x (with potentially HD)
 13. Players are not required to take any mods on the tiebreaker map. However, playing the tiebreaker map with mods is allowed.
