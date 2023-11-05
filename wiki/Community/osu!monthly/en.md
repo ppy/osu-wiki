@@ -1,6 +1,6 @@
 # osu!monthly
 
-**osu!monthly** was a monthly newsletter summarising the various community and official events, news, announcements, etc. that occured every month. The project has been led by several groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
+**osu!monthly** was a monthly newsletter hosting a variety of written content, including interviews, editorials, coverage of official and community news, and word games. The project has been discontinued and later brought back several times in different forms, but all shared the common goal of informing and entertaining the osu! community.
 
 ## History
 
