@@ -1,3 +1,8 @@
+---
+outdated_since: 4d088a6b2ddc9c00bfa225be93f6f707e37e71dc
+outdated_translation: true
+---
+
 # osu!monthly
 
 **osu!monthly** war ein monatlicher Newsletter, der die verschiedenen offiziellen und von der Community veranstalteten Events, Neuigkeiten, Ankündigungen usw., die jeden Monat stattfanden, zusammenfasste. Das Projekt wurde in der Vergangenheit von mehreren Gruppen bestehend aus Mitgliedern der Community geleitet, immer mit demselben Ziel: Gelegenheitsspieler über die bisherigen und aktuellen Events zu informieren, um die gesamte osu!-Community in das Rampenlicht zu rücken.
