@@ -29,7 +29,7 @@ El servidor consta principalmente de:
 | Rol | Usuario (identificador de Discord) |
 | :-- | :-- |
 | Propietario del servidor | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_) |
-| Moderadores del servidor | ::{ flag=UK }:: [epic man 2](https://osu.ppy.sh/users/14566000) (@epicman2), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk), ::{ flag=AU }:: [zyletinee](https://osu.ppy.sh/users/18971387) (@zyletinee) |
+| Moderadores del servidor | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000) (@epicman2), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk), ::{ flag=AU }:: [zyletinee](https://osu.ppy.sh/users/18971387) (@zyletinee) |
 
 ## Verificación
 
