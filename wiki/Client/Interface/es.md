@@ -1,6 +1,6 @@
 # Interfaz
 
-Este artículo explica todo lo que necesitas saber sobre cómo usar el cliente del juego de osu!. Aquí encontrarás información sobre la pantalla de selección de canciones, la visualización de clasificaciones y la pantalla de resultados. Al iniciar el cliente del juego, puedes ver la siguiente pantalla:
+Este artículo explica todo lo que necesitas saber sobre cómo usar el cliente del juego de osu!. Aquí encontrarás información sobre la pantalla del selector de canciones, la visualización de clasificaciones y la pantalla de resultados. Al iniciar el cliente del juego, puedes ver la siguiente pantalla:
 
 ![](img/intro-screen-ES.jpg "Pantalla de introducción")
 
@@ -54,7 +54,7 @@ Accede a esta pantalla haciendo clic en tu perfil en la parte superior izquierda
 
 Después de seleccionar `Play` en el menú principal, puedes elegir entre tres opciones:
 
-- Haz clic en `Solo` (o presiona `P`) para jugar por tu cuenta. Esto te lleva a la [pantalla de selección de canciones](#selección-de-canciones).
+- Haz clic en `Solo` (o presiona `P`) para jugar por tu cuenta. Esto te lleva a la [pantalla del selector de canciones](#selector-de-canciones).
 - Haz clic en `Multi` (o presiona `M`) para jugar con otras personas. Serás dirigido a la sala de [multijugador](/wiki/Client/Interface/Multiplayer).
 - Haz clic en `Back` para volver al menú principal.
 
@@ -66,9 +66,9 @@ Después de seleccionar `Play` en el menú principal, puedes elegir entre tres o
 
 La sala multijugador te permite jugar con y contra otros jugadores.
 
-## Selección de canciones
+## Selector de canciones
 
-![](img/song-selection-ES.jpg "Selección de canciones")
+![](img/song-selection-ES.jpg "Selector de canciones")
 
 El icono del [modo de juego](/wiki/Game_mode) actualmente seleccionado se puede ver en las opciones de la parte inferior izquierda, arriba de `Mode`. El icono del modo también se ve débilmente en el centro de la pantalla. Estos son los cuatro que verá:
 
@@ -83,7 +83,7 @@ Antes de continuar, esta pantalla tiene demasiados elementos para anotar con nú
 
 ![](img/metadata-comparison-ES.jpg)
 
-Esta área muestra **información sobre la dificultad del beatmap seleccionada actualmente.** Al ingresar a la pantalla de selección de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El icono superior izquierdo muestra la [categoría del beatmap](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#clasificados).
+Esta área muestra **información sobre la dificultad del beatmap seleccionada actualmente.** Al ingresar a la pantalla del selector de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El icono superior izquierdo muestra la [categoría del beatmap](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#clasificados).
 
 El título de la canción normalmente se muestra romanizado (imagen inferior), pero si seleccionas `Mostrar datos de canciones en su idioma original` en las [opciones](/wiki/Client/Options), se mostrará el título Unicode (imagen superior). El nombre de la dificultad del beatmap se muestra entre corchetes (`[]`). El creador que mapeó el beatmap se muestra debajo del título, e incluso se incluye más información a continuación. De izquierda a derecha, los valores son los siguientes:
 
@@ -150,7 +150,7 @@ Artículo principal: [Búsqueda de beatmaps](/wiki/Beatmap_search)
 
 La barra de búsqueda permite filtrar las dificultades que coinciden con algunos criterios. Por defecto, osu! ejecuta una búsqueda de texto completo y solo muestra resultados que contienen todas las palabras especificadas. Además de eso, es posible buscar por [tasa de aproximación](/wiki/Beatmap/Approach_rate), [calificación por estrellas](/wiki/Beatmap/Star_rating) y muchos más valores usando un conjunto de filtros como `ar=8` o `stars>=5`.
 
-Para buscar beatmaps, simplemente comienza a escribir cuando estés en la pantalla de selección de canciones (sin las opciones ni el panel de chat abiertos).
+Para buscar beatmaps, simplemente comienza a escribir cuando estés en la pantalla del selector de canciones (sin las opciones ni el panel de chat abiertos).
 
 ### Clasificaciones
 
@@ -180,7 +180,7 @@ Haz clic en el icono de la burbuja de palabras para acceder a la pantalla de **a
 
 - Presiona `1` o haz clic en `Puntuaciones del mapa` para ver la página del beatmap para la dificultad seleccionada en tu navegador.
 - Presiona `2` o haz clic en `Hilo del mapa` para ver la página de [modeo](/wiki/Modding) del beatmap.
-- Presiona `3` o `Esc` o haz clic en `Cancelar` para volver a la pantalla de selección de canciones.
+- Presiona `3` o `Esc` o haz clic en `Cancelar` para volver a la pantalla del selector de canciones.
 
 ### Carrusel de beatmaps
 
@@ -215,7 +215,7 @@ Haz clic en el botón `Mods` o presiona `F1` para abrir la **[pantalla de selecc
 
 En esta pantalla, puedes aplicar modificaciones («mods» para abreviar) al juego. Algunos mods reducen la dificultad y aplican un multiplicador que reduce la puntuación que logras. Por el contrario, algunos mods aumentan la dificultad, pero aplican un multiplicador que aumenta la puntuación que logras. Finalmente, algunos mods modifican el juego de una manera diferente. [Relax](/wiki/Gameplay/Game_modifier/Relax) y [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) entran en esa categoría.
 
-Coloca tu ratón sobre el icono de un mod para ver una breve descripción de su efecto. Haz clic en un icono para seleccionar o deseleccionar ese mod. Algunos mods, como Double Time, tienen múltiples variaciones: haz clic en el mod nuevamente para recorrerlas. El valor del multiplicador de puntuación muestra el efecto combinado que todos los mods seleccionados tendrán en tu puntuación. Haz clic en `Desactivar todos` o presiona `1` para anular la selección de todos los mods seleccionados actualmente. Haz clic en `Cerrar` o presiona `2` o `Esc` para volver a la pantalla de selección de canciones.
+Coloca tu ratón sobre el icono de un mod para ver una breve descripción de su efecto. Haz clic en un icono para seleccionar o deseleccionar ese mod. Algunos mods, como Double Time, tienen múltiples variaciones: haz clic en el mod nuevamente para recorrerlas. El valor del multiplicador de puntuación muestra el efecto combinado que todos los mods seleccionados tendrán en tu puntuación. Haz clic en `Desactivar todos` o presiona `1` para anular la selección de todos los mods seleccionados actualmente. Haz clic en `Cerrar` o presiona `2` o `Esc` para volver a la pantalla del selector de canciones.
 
 Haz clic en el botón `Random` o presiona `F2` para que el juego **se desplace aleatoriamente por todos tus beatmaps y elija uno.**
 
@@ -231,7 +231,7 @@ Haz clic en el botón `Beatmap Options`, presiona `F3` o haz clic con el botón 
 - Presiona `3` o haz clic en `Marcar como jugado` para marcar un beatmap no jugado como jugado (es decir, cambia el color de su cuadro de rosa a naranja).
 - Presiona `4` o haz clic en `Borrar puntuaciones locales` para eliminar todos los registros de las puntuaciones que ha logrado en este beatmap.
 - Presiona `5` o haz clic en `Editar` para abrir el beatmap seleccionado en el editor de osu!.
-- Presiona `6` o `Esc` o haz clic en `Cerrar` para volver a la pantalla de selección de canciones.
+- Presiona `6` o `Esc` o haz clic en `Cerrar` para volver a la pantalla del selector de canciones.
 
 Haz clic en **tu panel de usuario** para acceder al **menú de opciones de usuario**.
 
@@ -260,12 +260,12 @@ Esta es tu tabla de clasificación en línea. Puedes ir aquí desplazándote hac
 - \[1\] Tu panel de usuario. Muestra tus [puntos de rendimiento (pp)](/wiki/Performance_points), clasificación global, puntuación total, [precisión](/wiki/Gameplay/Accuracy) general y barra de nivel.
 - \[2\] `Guardar repetición a la carpeta "Replays"`: Puedes ver la repetición más tarde abriéndola desde una tabla de clasificación local, o yendo al directorio `Replays` y haciendo doble clic en ella.
 - \[3\] `Añadir como favorito en línea`: Incluye el beatmap en tu lista de favoritos, que se encuentra en tu página de perfil de osu! en la sección `Mapas`.
-- \[4\] Tabla de clasificación local: Todos tus resultados se almacenan en tu computadora. Para verlos, navega hasta la [pantalla de selección de canciones](#selección-de-canciones) y selecciona `Ranking local` en el menú desplegable sobre el marcador.
+- \[4\] Tabla de clasificación local: Todos tus resultados se almacenan en tu computadora. Para verlos, navega hasta la [pantalla del selector de canciones](#selector-de-canciones) y selecciona `Ranking local` en el menú desplegable sobre el marcador.
 - \[5\] Sección de `Beatmap Ranking`. Disponible solo para beatmaps con tablas de clasificación en línea ([calificados](/wiki/Beatmap/Category#calificados), [clasificados](/wiki/Beatmap/Category#clasificados) o [amados](/wiki/Beatmap/Category#amados)). También necesitas estar en línea para ver esta sección. Ve a continuación para obtener más detalles.
 - \[6\] Sección de `Overall Ranking`. Está disponible solo para beatmaps con tablas de clasificación en línea. También necesitas estar en línea para ver esta sección. Ve a continuación para obtener más detalles.
 - \[7\] Información sobre el beatmap con su número de jugadas y tasa de aprobación al pasarlo.
 - \[8\] Valoración del beatmap. Usa tu discreción personal en función de si disfrutaste el beatmap o no. Es mejor dejarlo en paz si no puedes decidir.
-- \[9\] Haz clic aquí para volver a la pantalla de selección de canciones.
+- \[9\] Haz clic aquí para volver a la pantalla del selector de canciones.
 
 ---
 
