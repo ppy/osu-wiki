@@ -2,7 +2,8 @@
 stub: true
 tags:
   - hit objects
-  - objetos de golpeo
+  - objetos
+  - golpeo
 ---
 
 # Círculo

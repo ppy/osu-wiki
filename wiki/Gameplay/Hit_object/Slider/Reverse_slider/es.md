@@ -3,7 +3,8 @@ stub: true
 tags:
   - hit objects
   - repeats
-  - objetos de golpeo
+  - objetos
+  - golpeo
   - repetidor
 ---
 
