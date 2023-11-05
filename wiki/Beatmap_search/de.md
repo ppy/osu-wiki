@@ -5,7 +5,7 @@ tags:
   - query beatmaps
   - client search
   - website search
-  - suche Beatmaps
+  - Beatmaps suchen
   - Beatmaps finden
 ---
 
