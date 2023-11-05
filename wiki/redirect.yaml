@@ -2119,3 +2119,6 @@
 # deleted in #10217
 
 "client/options/keyboard_bindings":          "Client/Keyboard_shortcuts"
+
+# Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
+"people/osu!monthly_team": "Community/osu!monthly#contributors"
