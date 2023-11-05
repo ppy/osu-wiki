@@ -26,6 +26,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 - Beatmap Nominators are expected to stay below a maximum number of nominations over any 90-day period, with each mode having its own nomination cap. Exceeding this amount will lead to a warning, followed by a removal if they fail to manage their activity accordingly.
   - osu!, osu!catch, osu!mania: 75 unique nominations.
   - osu!taiko: 100 unique nominations.
+- Beatmap Nominators returning on good terms are expected to reach their mode's minimum activity requirements in the first 30 days since their rejoin. Staying inactive during this period of time may result in a warning or a removal, which will be evaluated on a case-by-case basis.
 
 ### Requirements
 

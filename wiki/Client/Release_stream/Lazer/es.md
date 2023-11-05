@@ -1,6 +1,5 @@
 ---
 stub: true
-no_native_review: true
 tags:
   - client
   - game client
@@ -8,6 +7,8 @@ tags:
   - osu! lazer
   - osu lazer
   - osu!(lazer)
+  - cliente
+  - cliente de juego
 ---
 
 # Canal de lanzamiento lazer
