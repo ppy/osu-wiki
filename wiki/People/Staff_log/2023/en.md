@@ -669,3 +669,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-10-22: Removed [Syadow-](https://osu.ppy.sh/users/3484485) from **BN**
 - 2023-10-22: Removed [Decku](https://osu.ppy.sh/users/13360768) from **BN**
 - 2023-10-23: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
+
+## After October
+
+Since 27 October, 2023, changes to users' groups are recorded on the ["group history" page of the website](https://osu.ppy.sh/groups/history). This wiki article is no longer updated.
