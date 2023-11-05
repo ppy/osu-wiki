@@ -1,3 +1,8 @@
+---
+outdated_since: 8951e9fef0bc292f2b085b7c3a400db936392e49
+outdated_translation: true
+---
+
 # Freischaltungsanforderungen für Medaillen
 
 Indexseite für alle Artikel im Bezug auf Freischaltungsanforderungen für Medaillen. Hush-Hush Medaillen sind aus offensichtlichen Gründen nicht enthalten.
