@@ -40,7 +40,7 @@ Laut den [[RC]] ist das verboten.
 
 Bedenke, dass beim Hinzufügen von Weiterleitungen für neue oder bereits existierende Artikel die Links prägnant und für den tatsächlichen Gebrauch konzipiert sein sollten.
 
-### CI-Checks
+### CI-Checks {id=ci-checks}
 
 Das Repository für das osu!-Wiki nutzt [kontinuierliche Integration](https://docs.github.com/de/actions/automating-builds-and-tests/about-continuous-integration) (auch *continuous integration* oder *CI* genannt), um eingegangene Änderungsanfragen automatisch auf typische Fehler zu überprüfen. Die Liste der Checks wird in der Datei [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) konfiguriert.
 
