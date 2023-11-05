@@ -379,9 +379,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
-8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+8. Players may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same.
+   - If a rematch happens, the player’s mod during that particular beatmap must remain the same.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
 10. If a player is not present at match time, it can be postponed for up to 10 minutes. If they are still absent after this period, a win by default will be declared for the player present.
@@ -419,7 +419,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 5. The mappool will be played in the order the maps are listed.
 6. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
 7. All players will play their qualifiers in separate rooms. We suggest players not to broadcast or share their results to avoid seed manipulation.
-8. The top 16 seeded players will advance to the Round of 16 (or Round of 32 if there are enough players).
+8. The top 32 seeded players will advance to the Round of 32.
 
 ### Stage instructions
 
@@ -429,15 +429,17 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ### Win conditions
 
-- In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
-- In the Round of 32, teams need to win 5 maps to win a match (best of 9).
-- In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
-- In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win the match (best of 13).
+- In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
+- In the Round of 32, players need to win 4 maps to win a match (best of 7).
+- In the Round of 16, players need to win 5 maps to win a match (best of 9).
+- In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+- In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2021: ({Red team}) vs ({Blue team})`.
+   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2023: ({Red}) vs ({Blue})`.
+   - The player mentioned first in the room name must be the red, the player mentioned second in the room name must be the blue.
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player in the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
