@@ -2,5 +2,5 @@
 
 **Fallo** puede tener múltiples significados:
 
-- No superar un [beatmap](/wiki/Beatmap)
-- Estar en [estado fallido](/wiki/Storyboard/Scripting/General_Rules#layers) durante una [pausa](/wiki/Beatmap/Break) de un beatmap
+- No pasar un [beatmap](/wiki/Beatmap)
+- Estar en [estado fallido](/wiki/Storyboard/Scripting/General_Rules#layers) durante un [descanso](/wiki/Beatmap/Break) de un beatmap
