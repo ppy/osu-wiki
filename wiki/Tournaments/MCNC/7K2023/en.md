@@ -57,7 +57,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord server](https://discord.gg/uBHK5vq)
 - [Challonge bracket](https://challonge.com/MCNC7k2023)
-- **[Statistics sheet](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/osumania-7k-chinese-national-cup-2023-information-sheet-match-results-schedules.html)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjhROlCN9rY88VpuyYnQARuHk_7oZACqGktP6-Z6N6HX7j9Fo-CQnBXG_IMpcWHSzSSWDWwrdYJKtL/pubhtml)**
 
 ## Participants
 
@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRczjkzx4gBLlfaTkkxeCMfYaFTt-KxxyIs595Zq8DIWwn4Rs5YobeIEI0fMtO27mGPlWQgyFi0b0Dg/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -268,7 +268,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Finals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgmmVujgxqfIkJIaR6oQ-r1xmC12LsGs8PP1C3KlUWdfHbIwxfGrrG3B0Fl6H4q59d3ZE6upZpn_Qp/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -279,7 +279,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSsR3vtuFlICCnp55im5-L_Whywmu7J1xAy56W7IDLlnU06tqOdrQui9UtyVrqHjbrmTBlBU6gAvPs/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -294,7 +294,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSWS1jqEGwvLEeJnaDO3Pct5Zbeuu8bjZSYdraorgMf75n4bXJD3RhDD9uz-eSafttHNzVca9k5Y1W/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -317,7 +317,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRm0x62nWxFbh_5AfsdXynVvqhD46oIyHTYaUYppQiZaxE_S-Eaw-YW6Qa6GgNwVJhT1AiBW0-2YGy/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -340,7 +340,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR-OOtbqMEjVqSn9yidd0CTS5R-Sm2sPCmocqFn0RC-QV8b4VpS7Vfh229DFeDk0OBSSORX4yYHLxad/pubhtml).
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -363,7 +363,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](). Detailed statistics for this round can be found [here]().
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPjZvw1HQ5W3MgDSw7RsnKGAEMJHQoM7rohTxftORkC9d0f9mTt0DAd4XnBn-KYEHrzFV24xMXhWcy/pubhtml). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQlGrTB9nuM-M46OmNwbJbt-qfAc0kKZmGeTnscqlQ-dsA3SZsbTxZqJ9xLPAlTxKh9EP4NOqrXHBG3/pubhtml).
 
 ## Ruleset
 
