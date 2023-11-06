@@ -3,6 +3,7 @@ tags:
   - snaps
   - beat snap
   - snapping
+  - ajuste de ritmo
 ---
 
 # Anclaje al ritmo
