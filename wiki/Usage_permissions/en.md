@@ -6,6 +6,8 @@ osu! is centred around being able to freely make and share creations with one an
 
 For artists wishing to add or update their entry on this listing, please feel free to reach out to the osu! music licensing team at [music@ppy.sh](mailto:music@ppy.sh).
 
+Please also consider contacting the team about negotiating licensing. See the [osu! music licensing](/wiki/legal/Music_licensing) page for more information.
+
 ## Audio
 
 *Notice: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please exercise due diligence when broadcasting gameplay to an audience.*
