@@ -169,7 +169,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ### 8 強
 
-**[圖池懶人包 (155 MB MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
+**[圖池懶人包 (155 MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
 
 - No Mod
   1. [Powerwolf - Sermon of Swords (piroshki) \[Pilgrims of Dark\]](https://osu.ppy.sh/beatmapsets/2085330#osu/4368595)
