@@ -14,8 +14,6 @@ This section details which artists are willing to allow use of their audio works
 
 All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are approved for use in the creation of osu! beatmaps. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
 
-### Allowed
-
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] |
