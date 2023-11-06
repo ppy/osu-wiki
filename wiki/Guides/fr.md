@@ -8,7 +8,7 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 
 - [Bibliothèque de hitsounds personnalisés](Custom_hitsound_library)
 - [Changer l'artiste ou le titre d'une beatmap](Changing_the_artist_or_title)
-- [Changer le texte du titre](/wiki/Beatmap/title_text#changer-le-texte-du-titre)
+- [Changer le texte du titre](/wiki/Beatmap/Title_text#changer-le-texte-du-titre)
 - [Comment démarrer un projet de beatmap](Starting_a_beatmap_project)
 - [Comment régler le décalage sur le bon rythme](Setting_the_offset_on_the_correct_beat)
 - [Comment régler le timing d'une musique](How_to_time_songs)
@@ -32,7 +32,7 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 
 ## Jeu
 
-- [Comment utiliser l'assistant de décalage](How_to_use_the_offset_wizard)
+- [Comment utiliser l'assistant de décalage](How_to_use_the_Offset_Wizard)
 - [Guide d'achat d'une tablette](Tablet_purchase)
 - [Tutoriel pour débutants](Beginner's_tutorial)
 
