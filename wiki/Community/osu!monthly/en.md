@@ -4,7 +4,7 @@
 
 ## Original magazine run (2011)
 
-The original run of osu!monthly, founded by ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) and ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), ran from March to October 2011. It started as a Google document, but quickly evolved into a PDF format resembling a print magazine. This run was well-known for its wide variety of articles as well as its distinct and creative artistic direction.
+The original run of osu!monthly, founded by ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) and ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), ran from March to October 2011. It started as a Google document, but quickly evolved into a PDF format resembling a print magazine. This run was well known for its wide variety of articles as well as its distinct and creative artistic direction.
 
 More information can be found on [jjrocks's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html) (archived). Various links regarding the project are at the bottom of [the osu!monthly website](https://osumonthly.com/).
 
