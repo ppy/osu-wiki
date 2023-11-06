@@ -8,8 +8,7 @@ tags:
   - joke
   - history
   - legacy
-  - día de los Inocentes
-  - 1.º de abril
+  - día de los inocentes
   - 1 de abril
   - primero de abril
   - broma
@@ -162,7 +161,7 @@ Como se anunció en un [tuit de peppy](https://twitter.com/ppy/status/8480215256
 
 ### osu! cookie rotativa
 
-El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la pantalla del menú principal giraba lentamente en el sentido de las agujas del reloj a medida que pasaba el tiempo, y la galleta en la pantalla de selección de canciones giraba lentamente en el sentido contrario a las agujas del reloj. Si pasa el cursor sobre estas galletas, se agrandarán como de costumbre, pero también hará que giren más rápido.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
+El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la pantalla del menú principal giraba lentamente en el sentido de las agujas del reloj a medida que pasaba el tiempo, y la galleta en la pantalla del selector de canciones giraba lentamente en el sentido contrario a las agujas del reloj. Si pasabas el cursor sobre estas galletas, se agrandarián como de costumbre, pero también haría que giren más rápido.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
 
 ## 2019
 
