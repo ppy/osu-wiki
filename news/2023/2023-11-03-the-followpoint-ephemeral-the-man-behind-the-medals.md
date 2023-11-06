@@ -8,13 +8,15 @@ Come join us to delve into the science and magnets behind medals with Ephemeral,
 
 ![](/wiki/shared/news/2023-11-03-the-followpoint-ephemeral-the-man-behind-the-medals/banner.jpg)
 
-Welcome to **The Followpoint**, a brand new series of interview-style newsposts (and podcasts), with a different guest each release! This time around we were joined by [Ephemeral](https://osu.ppy.sh/users/102335), the swole seagull who is in charge of all the magic behind medals!
+Welcome to **The Followpoint**, a brand-new series of interview-style podcasts with a different guest each release! This time around we were joined by [Ephemeral](https://osu.ppy.sh/users/102335), the swole seagull who is in charge of all the magic behind [medals](/wiki/Medals)!
 
-Ephemeral, joining the game in August 2009, has taken an active part in the development of osu!, hitting a large amount of milestones in the game. He has made one of the game's most popular beatmaps, acted as a key role in the development of the Mapping Assistance Team (MAT), and even developed many key features in the game that are still used today! Presently, he has the role of Community Manager and leads medal development. A few medal hunters decided to organize an interview, which anyone could attend to ask any and all questions their souls had, as well as learn more about this well-accomplished community member.
+Ephemeral is a bit of an ever-present figure in osu!. Players as ancient as him may remember him for making [one of the (top 200) most played beatmaps of all time](https://osu.ppy.sh/beatmapsets/10435), but most people know him for being a "community manager", having a hand in many things going on in the back-end.
 
-On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with Ephemeral, and in this newspost you'll be able to watch the recording of the full event below: 
+Among his tasks is leading the development of medals. This makes him the prime subject of avid medal hunters, who have decided to organise an interview where anyone could attend to ask any questions their soul desired answers for, regarding medals or the man himself.
 
-(**This video reveals solutions to multiple medals. If you want to search for their solutions yourself, you may want to hold off on watching the video for now.**)
+On October 28th, the [osu! Medal Hunters](https://discord.gg/8qpNTs6) Discord server staff hosted an interview with Ephemeral. A recording of the event is available below, complete with timestamps in the description for those of you who want to skip around.
+
+**This video reveals solutions to multiple medals. If you want to search for their solutions yourself, you may want to hold off on watching it for now.**
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OHWbFpPoTJI" frameborder="0" allowfullscreen></iframe>
