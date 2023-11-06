@@ -40,7 +40,7 @@ Para la broma del día de los Inocentes de 2010, el sitio web de osu! junto con 
 
 ![](img/2010-touhosu-website.jpg "El sitio web de osu! el 1 de abril de 2009")
 
-La broma proviene en gran medida de una [solicitud de función de larga data](https://osu.ppy.sh/community/forums/topics/19307) para crear un [modo de juego](/wiki/Game_mode) basado en el actual modo de juego existente [osu!catch](/wiki/Game_mode/osu!catch) con la jugabilidad central de los juegos de Touhou Project.
+La broma proviene en gran medida de una [solicitud de funcionalidad de larga duración](https://osu.ppy.sh/community/forums/topics/19307) para crear un [modo de juego](/wiki/Game_mode) basado en el actual modo de juego existente [osu!catch](/wiki/Game_mode/osu!catch) con la jugabilidad central de los juegos de Touhou Project.
 
 También hubo un informe en el momento de [Ephemeral](https://osu.ppy.sh/users/102335) en el que se comentaba en broma que comprar una etiqueta de osu!supporter mostraría a Marisa Kirisame desnuda en la pantalla del menú principal en lugar de una completamente vestida. Sin embargo, esta afirmación era solo una broma y rápidamente fue refutada por otros.[^touhousu-forums-2]
 
@@ -48,13 +48,13 @@ También hubo un informe en el momento de [Ephemeral](https://osu.ppy.sh/users/1
 
 ### osu!core
 
-«osu!core» es el nombre dado a la broma del día de los Inocentes de 2011 de osu!. La broma hizo que el audio de cada beatmap se lanzara y acelerara al estilo de los remixes de [Nightcore](https://es.wikipedia.org/wiki/Nightcore). Aunque solo fue una broma del día de los Inocentes, más tarde se hizo realidad cuando se introdujo el [mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) como un [modificador del juego](/wiki/Gameplay/Game_modifier) jugable en osu!.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
+«osu!core» es el nombre dado a la broma del día de los Inocentes de 2011 de osu!. La broma hizo que el audio de cada beatmap se lanzara y acelerara al estilo de los remezclas [Nightcore](https://es.wikipedia.org/wiki/Nightcore). Aunque solo fue una broma del día de los Inocentes, más tarde se hizo realidad cuando se introdujo el [mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) como un [modificador del juego](/wiki/Gameplay/Game_modifier) jugable en osu!.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ## 2012
 
 ### Mod Flashlight/Hidden en el sitio web
 
-El 1 de abril de 2012, todo el sitio web de osu! tenía un 50 % de posibilidades de que el [mod Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) o el [mod Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) estuvieran «habilitados» en el sitio web por carga de página (3/10 para HD; 1/5 para FL). A continuación se muestra una recreación moderna de cómo se veía la broma para los usuarios en ese momento.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+El 1 de abril de 2012, todo el sitio web de osu! tenía un 50 % de posibilidades de que el [mod Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) o el [mod Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) estuvieran «habilitados» en el sitio web por carga de página (3/10 para HD; 1/5 para FL). A continuación se muestra una recreación moderna de cómo se veía la broma para los usuarios en ese momento.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "Cómo se habría visto el sitio web con el mod Flashlight habilitado")
 
@@ -70,9 +70,9 @@ La «tabla de clasificación de Bad Apple» era una tabla de clasificación de b
 >
 > ¡Estate atento a nuestras próximas tablas, las tablas de Renai Circulation e Irony!
 
-—Cyclone, «Bad Apple Ranking Chart!»[^bad-apple-news]
+—Cyclone, «Bad Apple Ranking Chart!» (traducido del inglés)[^bad-apple-news]
 
-La tabla se abrió el 1 de abril de 2012 y se cerró el 2 de abril de 2012. Al final del período de clasificación, [Mesita](https://osu.ppy.sh/users/201459) fue el jugador número uno con una puntuación clasificada de 145 623 328.[^bad-aple-frontpage]
+La tabla se abrió el 1 de abril de 2012 y se cerró el 2 de abril de 2012. Al final del período de clasificación, [Mesita](https://osu.ppy.sh/users/201459) fue el jugador número uno con una puntuación clasificada de 145 623 328.[^bad-aple-frontpage]
 
 Los beatmaps incluidos en la tabla de clasificación se enumeran a continuación:
 
@@ -119,15 +119,15 @@ El 31 de marzo de 2015, [peppy](https://osu.ppy.sh/users/2) publicó [una notici
 
 > Con la tasa de rendimiento actual, sería poco probable que compre un jet personal durante mi vida, que es uno de mis principales objetivos de vida. Por lo tanto, mantuve discusiones con el equipo sobre formas alternativas de monetización, estudiando las tendencias actuales en juegos gratuitos similares disponibles actualmente en el mercado.
 
-—peppy, «osu!coins»[^osu-coins-news]
+—peppy, «osu!coins» (traducido del inglés)[^osu-coins-news]
 
-*Nota: En el [Tiempo universal coordinado (UTC)](https://es.wikipedia.org/wiki/Tiempo_universal_coordinado), la noticia se publicó el 31 de marzo de 2015. Sin embargo, en el momento de la publicación, peppy vivía actualmente en Australia, donde la fecha actual era el 1 de abril de 2015.*
+*Nota: En el [tiempo universal coordinado (UTC)](https://es.wikipedia.org/wiki/Tiempo_universal_coordinado), la noticia se publicó el 31 de marzo de 2015. Sin embargo, en el momento de la publicación, peppy vivía actualmente en Australia, donde la fecha actual era el 1 de abril de 2015.*
 
 En resumen, para jugar o reiniciar un [beatmap](/wiki/Beatmap), los usuarios deben haber gastado una [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), y una vez que se quedaron sin osu!coins, tendrían que dejar de jugar y esperar hasta el día siguiente, o pagar dinero real para obtener más osu!coins. Sin embargo, a pesar de esta descripción, el juego real no se vio afectado, y los usuarios podían seguir jugando con normalidad, incluso si se agotaran todas sus osu!coins.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
-La pantalla principal de osu! también tenía un aluvión de osu!coins que subían lentamente de fondo, junto con un tema principal ligeramente modificado, en el que la exclamación «circles!» fue reemplazado por un sonido robótico «and buy the coins» antes de que caiga el drop. Se crearon nuevas texturas, efectos de sonido, animaciones y música adicionales para esta broma, incluido un contador que mostraría la cantidad de monedas que los jugadores tenían a lo largo de sus jugadas.[^osu-coins-yt-2][^osu-coins-yt-3]
+La pantalla principal de osu! también tenía un aluvión de osu!coins que subían lentamente de fondo, junto con un tema principal ligeramente modificado, en el que la exclamación «circles!» fue reemplazado por un sonido robótico «and buy the coins» antes de la caída del ritmo. Se crearon nuevas texturas, efectos de sonido, animaciones y música adicionales para esta broma, incluido un contador que mostraría la cantidad de monedas que los jugadores tenían a lo largo de sus jugadas.[^osu-coins-yt-2][^osu-coins-yt-3]
 
-En general, la actualización fue bien recibida por los jugadores y vio cierto apoyo real para una implementación futura sin la monetización. A pesar de esto, peppy revirtió la implementación de las osu!coins al día siguiente con [un comentario en el registro de cambios correspondiente de la actualización](https://osu.ppy.sh/comments/121803) sobre la retroalimentación.[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
+En general, la actualización fue bien recibida por los jugadores y recibió cierto apoyo para una futura implementación sin monetización. A pesar de esto, peppy revirtió la implementación de las osu!coins al día siguiente con [un comentario en su correspondiente actualización del registro de cambios](https://osu.ppy.sh/comments/121803) sobre los comentarios recibidos.[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
 
 ## 2016
 
@@ -135,15 +135,15 @@ En general, la actualización fue bien recibida por los jugadores y vio cierto a
 
 El 1 de abril de 2016, se publicó [una noticia](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) que detalla el anuncio de los planes para agregar la compatibilidad con los [Oculus Rift](https://es.wikipedia.org/wiki/Oculus_Rift) como un nuevo [método de entrada](/wiki/Gameplay/Input_device) en osu!. La publicación, escrita por [Evrien](https://osu.ppy.sh/users/791660), hacía referencia a muchas citas de una supuesta entrevista de [peppy](https://osu.ppy.sh/users/2) en el que explicó su razonamiento para el anuncio e ideas sobre cómo podría funcionar el concepto.[^osu-vr-news]
 
-Con respecto a cómo los jugadores pueden usar los Oculus Rift como método de entrada, la publicación describe que «el jugador experimentará un punto de vista en primera persona del cursor a medida que viaja hacia y desde los objetos en la pantalla...» y presionará objetos «...haciendo que el jugador produzca sonidos parecidos a vocales con la boca». No se realizaron cambios reales en el juego relacionados con el uso de los Oculus Rift o un dispositivo similar de [realidad virtual (VR)](https://es.wikipedia.org/wiki/Realidad_virtual) para controlar osu!.[^osu-vr-news]
+Con respecto a cómo los jugadores pueden usar los Oculus Rift como método de entrada, la publicación describe que «el jugador experimentará un punto de vista en primera persona del cursor a medida que viaja hacia y desde los objetos en la pantalla...» y presionará objetos «... haciendo que el jugador produzca sonidos parecidos a vocales con la boca». No se realizaron cambios reales en el juego relacionados con el uso de los Oculus Rift o un dispositivo similar de [realidad virtual (VR)](https://es.wikipedia.org/wiki/Realidad_virtual) para controlar osu!.[^osu-vr-news]
 
 *Aviso: McOsu se desarrolla por separado y no tiene afiliación directa con osu! o ppy Pty Ltd.*
 
-Sin embargo, aunque los desarrolladores oficiales de osu! no tenían/tienen la intención de agregar genuinamente soporte VR, la idea de osu! en realidad virtual despertó el interés en la mente de algunos fanáticos. Este interés finalmente culminó en un proyecto de fans no oficial que se inició poco después y tenía como objetivo crear un cliente de código abierto y gratuito para practicar [beatmaps](/wiki/Beatmap) de osu! con más funciones y [modificadores del juego](/wiki/Gameplay/Game_modifier), incluida la capacidad de jugar en realidad virtual. Denominado «[McOsu](https://store.steampowered.com/app/607260/McOsu)», el proyecto se completó y se lanzó en [Steam](https://es.wikipedia.org/wiki/Steam) el 20 de marzo de 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Sin embargo, aunque los desarrolladores oficiales de osu! no tenían/tienen la intención de agregar genuinamente soporte para VR, la idea de osu! en realidad virtual despertó el interés en la mente de algunos fanáticos. Este interés finalmente culminó en un proyecto de fans no oficial que se inició poco después y tenía como objetivo crear un cliente de código abierto y gratuito para practicar [beatmaps](/wiki/Beatmap) de osu! con más funciones y [modificadores del juego](/wiki/Gameplay/Game_modifier), incluida la capacidad de jugar en realidad virtual. Llamado «[McOsu](https://store.steampowered.com/app/607260/McOsu)», el proyecto se completó y se lanzó en [Steam](https://es.wikipedia.org/wiki/Steam) el 20 de marzo de 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
-### Cursor de Auto mod bailando/dancing pippi
+### Cursor del mod Auto bailando/dancing pippi
 
-«Dancing pippi» (también conocido como «cursor de Auto mod bailando») es el apodo que se le dio a una de las bromas del día de los Inocentes de 2016 de osu! en el que se lanzó una actualización que provocó que el cursor del juego en las [repeticiones](/wiki/Gameplay/Replay) de [Auto](/wiki/Gameplay/Game_modifier/Auto) diera vueltas alrededor del [objeto](/wiki/Gameplay/Hit_object) actual en forma de píxeles perfectos antes de finalmente golpear el objeto justo a tiempo, en contraste con los movimientos robóticos y perfectamente rectos habituales de Auto. La actualización antes mencionada se revirtió en una posterior al día siguiente.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
+«Dancing pippi» (también conocido como «cursor del mod Auto bailando») es el apodo que se le dio a una de las bromas del día de los Inocentes de 2016 de osu! en el que se lanzó una actualización que provocó que el cursor del juego en las [repeticiones](/wiki/Gameplay/Replay) de [Auto](/wiki/Gameplay/Game_modifier/Auto) diera vueltas alrededor del [objeto](/wiki/Gameplay/Hit_object) actual en forma de píxeles perfectos antes de finalmente golpear el objeto justo a tiempo, en contraste con los movimientos robóticos y perfectamente rectos habituales de Auto. La actualización antes mencionada se revirtió en una posterior al día siguiente.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
 
 ### Etiquetas de osu! supporter gratis
 
@@ -161,7 +161,7 @@ Como se anunció en un [tuit de peppy](https://twitter.com/ppy/status/8480215256
 
 ### osu! cookie rotativa
 
-El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la pantalla del menú principal giraba lentamente en el sentido de las agujas del reloj a medida que pasaba el tiempo, y la galleta en la pantalla del selector de canciones giraba lentamente en el sentido contrario a las agujas del reloj. Si pasabas el cursor sobre estas galletas, se agrandarián como de costumbre, pero también haría que giren más rápido.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
+El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la pantalla del menú principal giraba lentamente en el sentido de las agujas del reloj a medida que pasaba el tiempo, y la galleta en la pantalla de selección de canciones giraba lentamente en el sentido contrario a las agujas del reloj. Si pasabas el cursor sobre estas galletas, se agrandarián como de costumbre, pero también haría que giren más rápido.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
 
 ## 2019
 
@@ -173,7 +173,7 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 
 ### MillhioreF se une a los artistas destacados
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un moderador de osu! desde hace mucho tiempo, desarrollador y jugador del [Easy mod](/wiki/Gameplay/Game_modifier/Easy), se anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) como si se hubiese «unido» a la lista de [artistas destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
+[MillhioreF](https://osu.ppy.sh/users/941094) —un moderador de osu! desde hace mucho tiempo, jugador y desarrollador del [mod Easy](/wiki/Gameplay/Game_modifier/Easy)— anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) que se «unió» a la lista de [artistas destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -181,7 +181,7 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 - A Waltz From The Geographical Region Known as Ireland but Also as Éire
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
-[«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — un beatmap de broma de hace mucho tiempo dentro de la comunidad, también fue [amado](/wiki/Beatmap/Category#amados) el 31 de marzo de 2020 como parte de esta broma.
+[«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) —un beatmap de broma de hace mucho tiempo dentro de la comunidad— también fue [amado](/wiki/Beatmap/Category#amados) el 31 de marzo de 2020 como parte de esta broma.
 
 ### Efecto de sonido de chica estornudando
 
@@ -208,10 +208,10 @@ El día de los Inocentes de 2021 recicló la misma broma de los dos años anteri
 [^nightcore-yt]: [Vídeo de YouTube por Nyaruko (31/3/2011) «When osu! tries to do April Fools»](https://www.youtube.com/watch?v=qD5ep6Fykao)
 [^nightcore-frontpage]: [«osu! — rhythm is just a click away» (1/4/2011) en Wayback Machine](https://web.archive.org/web/20110401175252/http://osu.ppy.sh/)
 
-[^fl-forums]: [Publicación de foro por Melty Bagle (31/3/2012) en «[Archived] 'Flashlight mod' on the site...?»](https://osu.ppy.sh/community/forums/posts/1430529)
+[^fl-forums]: [Publicación de foro por Melty Bagle (31/3/2012) en «[Archived] "flashlight mod" on the site...?»](https://osu.ppy.sh/community/forums/posts/1430529)
 [^fl-ontheweb]: [«osu.ppy.sh — 'Flashlight' mode on beatmap search page» en April Fools' Day On The Web](http://aprilfoolsdayontheweb.com/joke/11484/?size=1)
-[^fl-forums-2]: [Hilo del foro por ----- (31/3/2012) «[Archived] 'flashlight mod' on the site...?»](https://osu.ppy.sh/community/forums/topics/79076)
-[^fl-forums-3]: [Publicación de foro por peppy (1/4/2012) en «[Archived] 'flashlight mod' on the site...?»](https://osu.ppy.sh/community/forums/posts/1433063)
+[^fl-forums-2]: [Hilo del foro por ----- (31/3/2012) «[Archived] "flashlight mod" on the site...?»](https://osu.ppy.sh/community/forums/topics/79076)
+[^fl-forums-3]: [Publicación de foro por peppy (1/4/2012) en «[Archived] "flashlight mod" on the site...?»](https://osu.ppy.sh/community/forums/posts/1433063)
 [^fl-forums-4]: [Hilo del foro por kreph (31/3/2012) «[Archived] Flashlight bugs the website for some browsers»](https://osu.ppy.sh/community/forums/topics/79077)
 [^fl-osudev-2021-01-29]: [Mensaje de Discord por spaceman_atlas en #osu-wiki en osu! (29/1/2021)](https://discord.com/channels/188630481301012481/218677502141399041/804814051209117696)
 
