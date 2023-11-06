@@ -133,8 +133,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | --: | :-- | :-- | :-: | :-: |
 | Germany ::{ flag=DE }:: | ::{ flag=JP }:: Japan | [Nov 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T100000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=SE }:: Sweden | [Nov 11 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T113000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=NO }:: Norway | [Nov 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T130000&p1=1440&p2=33&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Italy ::{ flag=IT }:: | ::{ flag=ID }:: Indonesia | [Nov 11 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T143000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=NO }:: Norway | [Nov 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Ukraine ::{ flag=UA }:: | ::{ flag=TH }:: Thailand | [Nov 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T160000&p1=1440&p2=367&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Romania ::{ flag=RO }:: | ::{ flag=FR }:: France | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Chile ::{ flag=CL }:: | ::{ flag=FI }:: Finland | [Nov 11 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T190000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
@@ -169,7 +169,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ### Quarterfinals
 
-**[Download the mappack here (155 MB MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
+**[Download the mappack here (155 MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
 
 - No Mod
   1. [Powerwolf - Sermon of Swords (piroshki) \[Pilgrims of Dark\]](https://osu.ppy.sh/beatmapsets/2085330#osu/4368595)
@@ -275,6 +275,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 ### Round of 16
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1F3sJXGiCSfDCV30ZCe-2kHhxwqsVIBxy18qUoscekTE?rm=minimal).
+
+Friday, 3 November 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/111152642) | [#1](https://www.twitch.tv/videos/1967584249) |
 
 Saturday, 4 November 2023:
 
