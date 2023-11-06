@@ -125,7 +125,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 完整報名名單可以查看 [這裡](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## 賽程: 八強賽
+## 賽程: 8 強賽
 
 ### 2023 年 11 月 11 日, 星期六
 
@@ -274,7 +274,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ### 16 強
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1F3sJXGiCSfDCV30ZCe-2kHhxwqsVIBxy18qUoscekTE?rm=minimal).
+詳細統計可以查看 [這裡](https://docs.google.com/spreadsheets/d/1F3sJXGiCSfDCV30ZCe-2kHhxwqsVIBxy18qUoscekTE?rm=minimal).
 
 2023 年 11 月 4 日, 星期六：
 
@@ -540,7 +540,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
    - **若沒有在 10 月 19 日 星期四 (23:59 UTC) 之前選擇，將會取消參賽資格。**
 3. 所有比賽會在星期六的 00:00 及星期日 19:00 UTC 之間進行。
 4. 主辦方會負責安排賽程。 賽程將會在該輪第一場比賽之前的星期日公布。比賽時間會盡量配合參賽者的時區安排。
-   - 八強賽與之後的比賽，隊伍若有希望的比賽時間或是想避免的時間，隊長可以做為代表通知主辦方。
+   - 8 強賽與之後的比賽，隊伍若有希望的比賽時間或是想避免的時間，隊長可以做為代表通知主辦方。
 5. **若有調整比賽時間的需要，須雙方隊伍已溝通並同意且須在比賽當週的星期三 (23:59 UTC) 之前通知主辦方。**
    - 每一輪的所有比賽將會在當週 **星期日 (19:00 UTC)** 之前進行完畢。
    - **若非必要，請不要提出調整比賽時間的請求。主辦方有權拒絕請求。**
