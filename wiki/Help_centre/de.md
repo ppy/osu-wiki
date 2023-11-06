@@ -7,6 +7,8 @@ tags:
   - missing
   - Hilfe
   - Fehler
+outdated_translation: true
+outdated_since: ff45a33d11aab6d99def1d56627f88e03a16466a
 ---
 
 # Hilfecenter
