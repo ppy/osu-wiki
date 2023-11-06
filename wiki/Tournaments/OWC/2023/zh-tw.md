@@ -175,10 +175,10 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
   1. [Powerwolf - Sermon of Swords (piroshki) \[Pilgrims of Dark\]](https://osu.ppy.sh/beatmapsets/2085330#osu/4368595)
   2. [tsunamix\_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[hidden extra.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
   3. [Sydosys - Wandered (alden) \[Sidetracked\]](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
-  4. [MYUKKE. - Mach Roger (Pho) \[Hi-Speed Flow\]](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
+  4. [MYUKKE. - Mach Roger (Pho) \[Maharaja\]](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
   5. [Psychedelic Porn Crumpets - Marmalade March (squirrelpascals) \[Ex\]](https://osu.ppy.sh/beatmapsets/2085336#osu/4368607)
 - Hidden
-  1. [youMan - Weenywalker (funny) \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
+  1. [youman feat. GUMI - Weenywalker (funny) \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
   2. [BUTAOTOME - Street Journal (Djulus) \[Extra\]](https://osu.ppy.sh/beatmapsets/2085341#osu/4368631)
   3. [yuikonnu - Taifuu Ikka? Risan (toybot) \[I NEED YOU\]](https://osu.ppy.sh/beatmapsets/2085338#osu/4368609)
 - Hard Rock
