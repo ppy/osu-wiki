@@ -6,7 +6,7 @@ El [editor de beatmaps](/wiki/Client/Beatmap_editor) proporciona [configuracione
 
 Además, la temporización de un beatmap controla las siguientes características:
 
-- El latido de la [osu! cookie](/wiki/Client/Interface/Cookie) en el menú principal y la [pantalla del selector de canciones](/wiki/Client/Interface#song-select) (así como otros efectos de menú que siguen el ritmo)
+- El latido de la [osu! cookie](/wiki/Client/Interface/Cookie) en el menú principal y la [pantalla del selector de canciones](/wiki/Client/Interface#selector-de-canciones) (así como otros efectos de menú que siguen el ritmo)
 - La pulsación de objetos durante el [kiai time](/wiki/Gameplay/Kiai_time)
 - La pista de batería agregada por el mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 - La apariencia de las líneas de compás en [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania)
