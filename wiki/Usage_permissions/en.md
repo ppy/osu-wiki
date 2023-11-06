@@ -16,16 +16,18 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 ### Allowed
 
-| Artist |  | Status |
-| :-- | :-- | :-- |
+| Artist |  | Status | Notes |
+| :-- | :-- | :-- | :-- |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/297) | [-45](https://osu.ppy.sh/beatmaps/artists/297) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/382) | [1914](https://osu.ppy.sh/beatmaps/artists/382) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/157) | [2ToneDisco](https://osu.ppy.sh/beatmaps/artists/157) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/187) | [3R2 / DJ Mashiro](https://osu.ppy.sh/beatmaps/artists/187) | ![][true] |
+| 40mP | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/268) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/356) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/275) | [:Poin7less](https://osu.ppy.sh/beatmaps/artists/275) | ![][true] |
+|  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/168) | [A-One](https://osu.ppy.sh/beatmaps/artists/168) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/253) | [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/173) | [A?](https://osu.ppy.sh/beatmaps/artists/173) | ![][true] |
@@ -41,6 +43,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/166) | [Aiobahn](https://osu.ppy.sh/beatmaps/artists/166) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] |
+| ak+q | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | [Alestorm](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] |
@@ -107,6 +110,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/295) | [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/204) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/350) | [Down](https://osu.ppy.sh/beatmaps/artists/350) | ![][true] |
+| Draw the Emotional | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/111) | [Dual Alter World](https://osu.ppy.sh/beatmaps/artists/111) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/386) | [Dustvoxx](https://osu.ppy.sh/beatmaps/artists/386) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/322) | [E0ri4](https://osu.ppy.sh/beatmaps/artists/322) | ![][true] |
@@ -116,12 +120,14 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/246) | [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/145) | [Empty Peperoncino](https://osu.ppy.sh/beatmaps/artists/145) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/320) | [Ensou](https://osu.ppy.sh/beatmaps/artists/320) | ![][true] |
+| Enter Shikari | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/100) | [EPICA](https://osu.ppy.sh/beatmaps/artists/100) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/125) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/335) | [Etherwood](https://osu.ppy.sh/beatmaps/artists/335) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/333) | [Euchaeta](https://osu.ppy.sh/beatmaps/artists/333) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/143) | [Extra Terra](https://osu.ppy.sh/beatmaps/artists/143) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/285) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) | ![][true] |
+| EZFG | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/60) | [F-777](https://osu.ppy.sh/beatmaps/artists/60) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/52) | [False Noise](https://osu.ppy.sh/beatmaps/artists/52) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/216) | [FATE GEAR](https://osu.ppy.sh/beatmaps/artists/216) | ![][true] |
@@ -152,18 +158,21 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/317) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/205) | [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/197) | [Harumaki Gohan](https://osu.ppy.sh/beatmaps/artists/197) | ![][true] |
+| Hatsuki Yura | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/230) | [Haywyre](https://osu.ppy.sh/beatmaps/artists/230) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/238) | [HEAD PHONES PRESIDENT](https://osu.ppy.sh/beatmaps/artists/238) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/5) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/26) | [High Tea Music](https://osu.ppy.sh/beatmaps/artists/26) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/315) | [Hinkik](https://osu.ppy.sh/beatmaps/artists/315) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/272) | [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/310) | [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/85) | [Hyper Potions](https://osu.ppy.sh/beatmaps/artists/85) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/33) | [HyuN](https://osu.ppy.sh/beatmaps/artists/33) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/117) | [I love you Orchestra](https://osu.ppy.sh/beatmaps/artists/117) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/3) | [IAHN](https://osu.ppy.sh/beatmaps/artists/3) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/210) | [iFeature](https://osu.ppy.sh/beatmaps/artists/210) | ![][true] |
+| Igorrr | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/172) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/35) | [Imperial Circus Dead Decadence](https://osu.ppy.sh/beatmaps/artists/35) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/99) | [Imy](https://osu.ppy.sh/beatmaps/artists/99) | ![][true] |
@@ -175,9 +184,11 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/109) | [Joe Ford](https://osu.ppy.sh/beatmaps/artists/109) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/267) | [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/365) | [Junk](https://osu.ppy.sh/beatmaps/artists/365) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | [kakichoco](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | [kanone](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/375) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) | ![][true] |
@@ -197,6 +208,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/379) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/383) | [Kou!](https://osu.ppy.sh/beatmaps/artists/383) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/293) | [Koven](https://osu.ppy.sh/beatmaps/artists/293) | ![][true] [^monstercat-gold] |
+| Kozato | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/371) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/13) | [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/369) | [kuro](https://osu.ppy.sh/beatmaps/artists/369) | ![][true] |
@@ -244,6 +256,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/292) | [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/307) | [Mono.](https://osu.ppy.sh/beatmaps/artists/307) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/255) | [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/19) | [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/120) | [MuryokuP / Powerless](https://osu.ppy.sh/beatmaps/artists/120) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/261) | [MUZZ](https://osu.ppy.sh/beatmaps/artists/261) | ![][true] [^monstercat-gold] |
@@ -268,6 +281,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/324) | [Noisestorm](https://osu.ppy.sh/beatmaps/artists/324) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/84) | [Noisia](https://osu.ppy.sh/beatmaps/artists/84) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/286) | [NOISZ](https://osu.ppy.sh/beatmaps/artists/286) | ![][true] |
+| NOMA | ![][false] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/141) | [nora2r](https://osu.ppy.sh/beatmaps/artists/141) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/90) | [Numtack05](https://osu.ppy.sh/beatmaps/artists/90) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/330) | [nyankobrq](https://osu.ppy.sh/beatmaps/artists/330) | ![][true] |
@@ -395,36 +409,12 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/4) | [yuki.](https://osu.ppy.sh/beatmaps/artists/4) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/167) | [yukitani](https://osu.ppy.sh/beatmaps/artists/167) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Tracks from or themed around *Touhou* should not be uploaded or used. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | [YUZUKINGDOM](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] |
-
-### Exceptions
-
-| Artist |  | Status | Notes |
-| :-- | :-- | :-- | :-- |
-|  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or [Bandcamp](https://a-hisa.bandcamp.com/). |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Tracks from or themed around *Touhou* should not be uploaded or used. |
-
-### Disallowed
-
-| Artist | Status |
-| :-- | :-- |
-| 40mP | ![][false] |
-| ak+q | ![][false] |
-| Draw the Emotional | ![][false] |
-| Enter Shikari | ![][false] |
-| EZFG | ![][false] |
-| Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
-| Kozato | ![][false] |
-| NOMA | ![][false] |
 
 ## Visual
 
