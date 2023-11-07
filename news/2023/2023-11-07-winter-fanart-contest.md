@@ -14,7 +14,7 @@ If your answer to this question is yes, then pull up a chair and prepare yoursel
 
 You may be wondering what the heck a *seasonal feast* is. Since we're a massively multicultural community, there's a ton of traditional festivals and feasts that roughly align around the end of the year, from anything like Thanksgiving, Diwali/Deepavali, Hanukkah, the winter solstice (including the Dongzhi festival), Festivus, Christmas, Kwanzaa, and tons more that we could probably spend a whole article describing.
 
-Suffice to say, the end of the year involves a *lot* of celebrating and eating, so we figured this year, we'd try trussing up the idea and seeing what delectable creations the immensely talented artists of the osu! community do with it. Shokugeki no Soma enthusiasts who've wanted to draw glazed ham (and we know there is at LEAST *one* of you), rejoice!
+Suffice to say, the end of the year involves a *lot* of celebrating and eating, so we figured this year, we'd try trussing up the idea and seeing what delectable creations the immensely talented artists of the osu! community cook up. Shokugeki no Soma enthusiasts who've wanted to draw glazed ham (and we know there is at LEAST *one* of you), rejoice!
 
 If you're looking for ideas, here's a few to get the juices flowing:
 
