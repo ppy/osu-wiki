@@ -139,7 +139,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | 루마니아 ::{ flag=RO }:: | ::{ flag=FR }:: 프랑스 | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 칠레 ::{ flag=CL }:: | ::{ flag=FI }:: 핀란드 | [Nov 11 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T190000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
-### 2023년 11월 22일 일요일
+### 2023년 11월 12일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
