@@ -8,7 +8,7 @@ The end of the year soon approaches, and what better way to send it off in style
 
 ![](https://assets.ppy.sh/contests/189/header.jpg)
 
-Each and every year since a date long-lost to the annals of time, we've sat down and posted the artists of the osu! community a timeless question: **do you like to draw?**
+Each and every year since a date long-lost to the annals of time, we've sat down and posed the artists of the osu! community a timeless question: **do you like to draw?**
 
 If your answer to this question is yes, then pull up a chair and prepare yourselves for a brand new food-related theme! **Draw any of the osu! mascots (or community mascots) enjoying a seasonal feast** for fun and glory!
 
