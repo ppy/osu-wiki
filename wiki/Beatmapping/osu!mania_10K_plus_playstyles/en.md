@@ -61,6 +61,8 @@ Each hand usually rests on the upper 3, lower outermost, and lower innermost key
 
 **EZ2AC**, named after the later entries in the *[EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "\"EZ2DJ\" on Wikipedia")* series, is a 14-key or 16-key playstyle similar to [10K](#10K) or [10K2S](#10K2S), but includes a separate set of 4 keys in the middle of the stage.
 
+This playstyle is also referred to as "Space Mix" or "14K MANIAC", both of which are names from the *EZ2DJ* series.
+
 ![](img/EZ2-hands.png)
 
 Each hand rests on the same keys as 10K or 10K2S. One or both hands may have to move away from their usual positions to hit the middle 4 keys.
@@ -70,6 +72,8 @@ Each hand rests on the same keys as 10K or 10K2S. One or both hands may have to 
 ![](img/10K8K-keys.png)
 
 **10K8K** is an 18-key playstyle similar to [10K](#10K), but includes 8 additional keys positioned above or below the 4 outermost keys on each side of the stage. The additional keys are not interleaved; they are either all outside or all inside respective to the group of keys that they were positioned above or below.
+
+This playstyle is also referred to as "4K10K4K".
 
 ![](img/10K8K-hands.png)
 
