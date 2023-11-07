@@ -44,7 +44,7 @@ But make sure you read the contest rules below first, especially because there's
 - **Do not leave the dotted osu! cookie template visible in your submission.** Leave the meme in the grave, where it belongs.
 - **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work — the contest is about osu! foremost, after all. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
 
-*Header & promotional artwork by finalist [Novarece](https://osu.ppy.sh/users/18728833) from the [New Beginnings Art Contest](https://osu.ppy.sh/community/contests/160)!*
+*Header and promotional artwork by finalist [Novarece](https://osu.ppy.sh/users/18728833) from the [New Beginnings Art Contest](https://osu.ppy.sh/community/contests/160)!*
 
 The [Winter 2023 Fanart Contest listing](https://osu.ppy.sh/community/contests/189) awaits you when you're ready to submit your entry.
 
