@@ -51,7 +51,7 @@ Each hand rests on the middle 10 keys. The two scratch keys are commonly hit by 
 
 **DP** or **Double Play**, named after the play mode in *[beatmania IIDX](https://en.wikipedia.org/wiki/Beatmania_IIDX "\"beatmania IIDX\" on Wikipedia")*, is a 14-key or 16-key playstyle where each hand is responsible for 7 keys, arranged into lower rows of 4 keys and upper rows of 3 keys. The lower and upper rows are interleaved such that the first key is lower, the second is upper, the third is lower, and so on. An additional *scratch*<!-- TODO: link --> key may be included on each outer edge of the stage.
 
-Along with [EZ2AC](#EZ2AC), this playstyle is also more broadly referred to as "14K" or "14K2S".
+Along with [EZ2AC](#EZ2AC), this playstyle is more broadly referred to as "14K" or "14K2S".
 
 ![](img/DP-hands.png)
 
@@ -63,7 +63,7 @@ Each hand usually rests on the upper 3, lower outermost, and lower innermost key
 
 **EZ2AC**, named after the later entries in the *[EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "\"EZ2DJ\" on Wikipedia")* series, is a 14-key or 16-key playstyle similar to [10K](#10K) or [10K2S](#10K2S), but includes a separate set of 4 keys in the middle of the stage.
 
-This playstyle is also referred to as "Space Mix" or "14K MANIAC", both of which are names from the *EZ2DJ* series. Along with [DP](#DP), it is also more broadly referred to as "14K" or "14K2S".
+This playstyle is also referred to as "Space Mix" or "14K MANIAC", both of which are names from the *EZ2DJ* series. Along with [DP](#DP), it is more broadly referred to as "14K" or "14K2S".
 
 ![](img/EZ2-hands.png)
 
