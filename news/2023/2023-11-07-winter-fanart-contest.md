@@ -10,7 +10,7 @@ The end of the year soon approaches, and what better way to send it off in style
 
 Each and every year since a date long-lost to the annals of time, we've sat down and posed the artists of the osu! community a timeless question: **do you like to draw?**
 
-If your answer to this question is yes, then pull up a chair and prepare yourselves for a brand new food-related theme! **Draw any of the osu! mascots (or community mascots) enjoying a seasonal feast** for fun and glory!
+If your answer to this question is yes, then pull up a chair and prepare yourselves for a brand-new food-related theme! **Draw any of the osu! mascots (or community mascots) enjoying a seasonal feast** for fun and glory!
 
 You may be wondering what the heck a *seasonal feast* is. Since we're a massively multicultural community, there's a ton of traditional festivals and feasts that roughly align around the end of the year, from anything like Thanksgiving, Diwali/Deepavali, Hanukkah, the winter solstice (including the Dongzhi festival), Festivus, Christmas, Kwanzaa, and tons more that we could probably spend a whole article describing.
 
