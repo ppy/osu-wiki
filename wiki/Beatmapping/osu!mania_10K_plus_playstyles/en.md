@@ -71,7 +71,7 @@ Each hand rests on the same keys as 10K or 10K2S. One or both hands may have to 
 
 ![](img/10K8K-keys.png)
 
-**10K8K** is an 18-key playstyle similar to [10K](#10K), but includes 8 additional keys positioned above or below the 4 outermost keys on each side of the stage. The additional keys are not interleaved; they are either all outside or all inside respective to the group of keys that they were positioned above or below.
+**10K8K** or **8K10K** is an 18-key playstyle similar to [10K](#10K), but includes 8 additional keys positioned above or below the 4 outermost keys on each side of the stage. The additional keys are not interleaved; they are either all outside or all inside respective to the group of keys that they were positioned above or below.
 
 This playstyle is also referred to as "4K10K4K".
 
@@ -83,7 +83,7 @@ Each hand rests on the same keys as 10K. All fingers except the thumbs have to m
 
 ![](img/9K9K-keys.png)
 
-**9K9K** is an 18-key playstyle similar to 14-key [DP](#DP), but the lower and upper rows of each side of the stage include 5 and 4 keys respectively, instead of 4 and 3.
+**9K9K** is an 18-key playstyle similar to 14-key [DP](#DP), but the lower and upper rows of each side of the stage include 5 and 4 keys respectively, instead of 4 and 3. It resembles a hypothetical DP mode for *[pop'n music](https://en.wikipedia.org/wiki/Pop%27n_Music "\"Pop'n Music\" on Wikipedia")*.
 
 ![](img/9K9K-hands.png)
 
