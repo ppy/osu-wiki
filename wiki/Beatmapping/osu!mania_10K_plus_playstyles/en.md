@@ -49,7 +49,7 @@ Each hand rests on the middle 10 keys. The two scratch keys are commonly hit by 
 
 ![](img/DP-keys.png)
 
-**DP** or **Double Play**, named after the play mode of the same name in *[beatmania IIDX](https://en.wikipedia.org/wiki/Beatmania_IIDX "\"beatmania IIDX\" on Wikipedia")*, is a 14-key or 16-key playstyle where each hand is responsible for 7 keys, arranged into lower rows of 4 keys and upper rows of 3 keys. The lower and upper rows are interleaved such that the first key is lower, the second is upper, the third is lower, and so on. An additional *scratch*<!-- TODO: link --> key may be included on each outer edge of the stage.
+**DP** or **Double Play**, named after the play mode in *[beatmania IIDX](https://en.wikipedia.org/wiki/Beatmania_IIDX "\"beatmania IIDX\" on Wikipedia")*, is a 14-key or 16-key playstyle where each hand is responsible for 7 keys, arranged into lower rows of 4 keys and upper rows of 3 keys. The lower and upper rows are interleaved such that the first key is lower, the second is upper, the third is lower, and so on. An additional *scratch*<!-- TODO: link --> key may be included on each outer edge of the stage.
 
 ![](img/DP-hands.png)
 
