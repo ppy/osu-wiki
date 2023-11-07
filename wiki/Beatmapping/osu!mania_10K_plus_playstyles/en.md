@@ -17,7 +17,13 @@ tags:
   - play styles
 ---
 
-<!-- the images in this article are from <https://www.figma.com/file/f4YtoQAXdAudBpkvwED7uY/osu!mania-playstyles> —clayton -->
+<!--
+the images in this article are from <https://www.figma.com/file/f4YtoQAXdAudBpkvwED7uY/osu!mania-playstyles>
+
+for translators: if you're able to use figma, it should be straightforward to edit the text. just make sure you change the font if your language uses a different one than Inter on the osu website. you may also have to adjust the layout a bit if your translation uses more or less lines than the original text. if you need help with any of that let me know
+
+—clayton
+-->
 
 # osu!mania 10K+ playstyles
 
