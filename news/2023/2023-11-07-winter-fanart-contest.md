@@ -14,17 +14,17 @@ If your answer to this question is yes, then pull up a chair and prepare yoursel
 
 You may be wondering what the heck a *seasonal feast* is. Since we're a massively multicultural community, there's a ton of traditional festivals and feasts that roughly align around the end of the year, from anything like Thanksgiving, Diwali/Deepavali, Hanukkah, the winter solstice (including the Dongzhi festival), Festivus, Christmas, Kwanzaa, and tons more that we could probably spend a whole article describing.
 
-Suffice to say, the end of the year involves a *lot* of celebrating and eating, so we figured this year, we'd try trussing up the idea and seeing what delectable creations the immensely talented artists of the osu! community cook up. Shokugeki no Soma enthusiasts who've wanted to draw glazed ham (and we know there is at LEAST *one* of you), rejoice!
+Suffice to say, the end of the year involves a *lot* of celebrating and eating, so we figured this year, we'd try trussing up the idea and seeing what delectable creations the immensely talented artists of the osu! community can cook up. *Shokugeki no Soma* enthusiasts who've wanted to draw glazed ham (and we know there is at LEAST *one* of you), rejoice!
 
 If you're looking for ideas, here's a few to get the juices flowing:
 
 - The mascots fighting over who gets the last piece of Christmas ham
 - Mocha rolling a comically overstuffed don around in front of a fireplace
-- Yuzu being spear-tackled by Chirou right as he was about to finish his fruit pyramid centerpiece
-- Mari pulverizing Mani with a turkey drumstick for the sin of being an annoying younger sibling
+- Yuzu being spear-tackled by Chirou right as he was about to finish his fruit pyramid centrepiece
+- Mari pulverising Mani with a turkey drumstick for the sin of being an annoying younger sibling
 - ...and basically anything you can think of that involves a seasonal, end-of-year feast!
 
-This is a pretty broad theme, so feel free to go wild with it - just make sure it stays vaguely festive. If you want snow, go for it! If you don't, that's fine too. As long as the mascots are enjoying their time together in the company of good friends, we'll consider that fair game.
+This is a pretty broad theme, so feel free to go wild with it — just make sure it stays vaguely festive. If you want snow, go for it! If you don't, that's fine too. As long as the mascots are enjoying their time together in the company of good friends, we'll consider that fair game.
 
 You've got **21 days** to bring your creation to life, so time to get cracking on the crackling! As always, a selection of the top voted finalists will make it to the main menu and receive 3 months of osu!supporter, plus the top 3 will also receive fancy bespoke profile badges pulled from their own creations.
 
@@ -42,7 +42,7 @@ But make sure you read the contest rules below first, especially because there's
 - **Entries MUST meet the resolution requirements for a main-menu piece — namely 2732x1536. THIS IS CHECKED BY A SCRIPT AND ENTRIES THAT DO NOT MATCH THIS REQUIREMENT WILL BE DISCARDED AUTOMATICALLY.** This remains the \#1 reason for distressed emails sent after the contest about why an entry didn't make it in. Even ONE pixel off is enough. Export your creations at the correct resolution!
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** The circular spot in the middle shows where the main-menu cookie will be when inside the game. Factor this in when designing your piece, as anything inside it is likely not going to be seen. This doesn't mean leaving a big circular hole full of nothing in the middle! Be creative. *Make sure you don't leave it visible in your end result.*
 - **Do not leave the dotted osu! cookie template visible in your submission.** Leave the meme in the grave, where it belongs.
-- **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work - the contest is about osu! foremost, after all. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
+- **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work — the contest is about osu! foremost, after all. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
 
 The [Winter 2023 Fanart Contest listing](https://osu.ppy.sh/community/contests/189) awaits you when you're ready to submit your entry.
 
