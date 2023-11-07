@@ -2,7 +2,7 @@
 
 下表包含在玩家自定义皮肤和谱面自定义皮肤中可定义的皮肤元素集。为了避免玩家自定义皮肤与谱面自定义皮肤之间的冲突，在自定义谱面皮肤中的游戏元素时，需要同时自定义特定的一整组元素。
 
-如果文件名称中含有 `{-n}` 或者 `{n}`，除了连击时跳出的人物图片之外，都可以自定义成动图。比如，hitcircleoverlay{-n}.png 可以仅使用一张静态图片 (hitcircleoverlay.png)，或者动图分解成的一系列前后循环的图片 (hitcircleoveray-0.png、hitcircleoverlay-1.png、hitcircleoverlay-2.png 等等)。连击时跳出的人物图片也使用了这套语法，但只会在每次完成连击里程碑时弹出一张静态图片。
+如果文件名称中含有 `{-n}` 或者 `{n}`，除了连击时跳出的人物图片之外，都可以自定义成动图。比如，hitcircleoverlay{-n}.png 可以仅使用一张静态图片 (hitcircleoverlay.png)，或者动图分解成的一系列前后循环的图片 (hitcircleoveray-0.png、hitcircleoverlay-1.png、hitcircleoverlay-2.png 等等)。连击时跳出的人物图片也使用了这套语法，但在每次完成连击里程碑时只会弹出一张静态图片。
 
 想要概览列表，可以去直接[下载皮肤组模板](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar)。
 
