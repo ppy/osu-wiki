@@ -44,7 +44,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] |
 |  | ak+q | ![][false] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | [Alestorm](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/195) | [Alkome](https://osu.ppy.sh/beatmaps/artists/195) | ![][true] |
@@ -360,7 +360,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/348) | [SWORD OF JUSTICE](https://osu.ppy.sh/beatmaps/artists/348) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/8) | [Sylvir / sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/130) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/188) | [T & Sugah](https://osu.ppy.sh/beatmaps/artists/188) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/144) | [Tanchiky](https://osu.ppy.sh/beatmaps/artists/144) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/97) | [Task Horizon](https://osu.ppy.sh/beatmaps/artists/97) | ![][true] |
@@ -411,7 +411,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Tracks from or themed around *Touhou* should not be uploaded or used. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | [YUZUKINGDOM](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] |
