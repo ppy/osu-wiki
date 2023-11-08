@@ -20,7 +20,7 @@ Please also consider contacting the team about negotiating licensing. See the [o
 
 osu! provides mappers a library of licensed songs via the [Featured Artist](/wiki/People/Featured_Artists) program. Each song on [the listing](https://osu.ppy.sh/beatmaps/artists) is free for use within osu! and has no risk of removal.
 
-When looking for songs outside of osu!'s Featured Artist catalogue, check whether or not its creator has explicitly stated usage terms. This information can often be found in the descriptions sections of an artist's music release platforms (e.g. Bandcamp, Soundcloud, YouTube) or their personal website. If a song is licensed under a [Creative Commons Licence](https://creativecommons.org/about/cclicenses/) or is available for non-commercial use, it is safe to create and submit a beatmap for it.
+When looking for songs outside of osu!'s Featured Artist catalogue, check whether or not its creator has explicitly stated usage terms. This information can often be found in the descriptions sections of an artist's music release platforms (e.g. Bandcamp, SoundCloud, YouTube) or their personal website. If a song is licensed under a [Creative Commons Licence](https://creativecommons.org/about/cclicenses/) or is available for non-commercial use, it is safe to create and submit a beatmap for it.
 
 If the usage rights for a song are not clear, it is recommended to reach out to its artist for permission before use in a beatmap. Most artists have contact methods labelled on their music release platforms, personal websites, and social media.
 
