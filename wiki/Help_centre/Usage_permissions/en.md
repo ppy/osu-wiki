@@ -1,16 +1,34 @@
-# Usage permissions
+# Content usage permissions
 
-osu! is centred around being able to freely make and share creations with one another. It is important ensure that appropriate permissions have been acquired to use any other creator's work in new creations, and that all such work is properly attributed.
+osu! is centred around being able to freely make and share creations with one another. It is important to ensure that appropriate permissions have been acquired to use any other creator's work in new creations, and that all such work is properly attributed.
+
+Without permission, uploaded [beatmaps](/wiki/Beatmap) are at risk of being removed and their uploaders are at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/Legal/Copyright). This means users should create beatmaps using assets that are any of the following:
+
+- Legally cleared for use in osu!
+- Permitted for use by their creator(s)
+- Copyright-free
 
 ## Opt-in
 
 For artists wishing to add or update their entry on this listing, please feel free to reach out to the osu! music licensing team at [music@ppy.sh](mailto:music@ppy.sh).
 
-Llease also consider contacting the team about negotiating licensing. See the [osu! music licensing](/wiki/Legal/Music_licensing) page for more information.
+Please also consider contacting the team about negotiating licensing. See the [osu! music licensing page](/wiki/Legal/Music_licensing) for more information.
 
 ## Audio
 
 *Notice: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please exercise due diligence when broadcasting gameplay to an audience.*
+
+osu! provides mappers a library of licensed songs via the [Featured Artist](/wiki/People/Featured_Artists) program. Each song on [the listing](https://osu.ppy.sh/beatmaps/artists) is free for use within osu! and has no risk of removal.
+
+When looking for songs outside of osu!'s Featured Artist catalogue, check whether or not its creator has explicitly stated usage terms. This information can often be found in the descriptions sections of an artist's music release platforms (e.g. Bandcamp, Soundcloud, YouTube) or their personal website. If a song is licensed under a [Creative Commons Licence](https://creativecommons.org/about/cclicenses/) or is available for non-commercial use, it is safe to create and submit a beatmap for it.
+
+If the usage rights for a song are not clear, it is recommended to reach out to its artist for permission before use in a beatmap. Most artists have contact methods labelled on their music release platforms, personal websites, and social media.
+
+This may feel like a large hurdle, but mappers have had a fairly high success rate and receive artists' approval just by taking the courage to ask before using content without permission. It may help to mention that osu! is a free no-ad game, or to link osu!'s [licensing page](/wiki/Legal/Music_licensing) to give them a better idea of how content is consumed.
+
+While music is frequently copyright-restricted, sound effects used for custom hitsounds are more often freely available. For example, the Philharmonia orchestra provides free [instrument sound samples](https://philharmonia.co.uk/resources/sound-samples/) and [Freesound](https://freesound.org) permits sound sample searches filtered by usage rights.
+
+### Artist permissions
 
 This section details which artists are willing to allow use of their audio works in osu!, and under what conditions (where appropriate).
 
@@ -418,11 +436,25 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 ## Visual
 
-Visual works refer to elements like beatmap backgrounds and are commonly retrieved from sites like Pixiv.
+Visual assets include a beatmap's [background](/wiki/Beatmap/Background), [storyboard](/wiki/Storyboard), and video and follow the same usage requirements as audio assets.
 
-In many cases, a visual artist will make it immediately apparent if they permit the use of their work elsewhere. All visual works should be properly attributed including appropriate links to their source. If a direct link cannot be used for whatever reason, another link that points to the visual artist's primary presence on their most active platform should be used instead.
+Many image hosting websites have search filters for Creative Commons licensing or non-commercial use. Some websites that mappers have frequently used to find their copyright-free backgrounds include:
 
-If it is unclear whether a visual artist allows their work to be used on other platforms, none should be used until appropriate usage conditions can be confirmed with them individually.
+- [pixabay](https://pixabay.com/)
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+
+All visual works should be properly attributed including appropriate links to their source. If a direct link cannot be used for whatever reason, another link that points to the visual artist's primary presence on their most active platform should be used instead.
+
+In many cases, a visual artist will make it immediately apparent if they permit the use of their work elsewhere. If it is unclear whether a visual artist allows their work to be used on other platforms, none should be used until appropriate usage conditions can be confirmed with them individually.
+
+If a musician has explicitly granted permission to use their song, its album artwork or any other official artwork for the artist may likely also be viable for use in a beatmap. Again however, ask for permission if this is not clear.
+
+## Gameplay
+
+When submitting a beatmap, users should have permission for gameplay-related assets such as [guest difficulties](/wiki/Beatmap/Guest_difficulty) or charts from other rhythm games.
+
+We do not condone submissions featuring gameplay (hit objects) matching those of other games, as this is not respectful to the rhythm game community.
 
 ## Notes
 
