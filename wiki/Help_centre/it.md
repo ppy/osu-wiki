@@ -6,8 +6,6 @@ tags:
   - trouble
   - missing
 no_native_review: true
-outdated_translation: true
-outdated_since: ff45a33d11aab6d99def1d56627f88e03a16466a
 ---
 
 # Centro di Supporto

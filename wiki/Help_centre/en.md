@@ -25,7 +25,6 @@ Choose the section that matches your problem the most to find a suitable solutio
 | [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
 | [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons, and cooldowns |
 | [Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrating to the [next major release](/wiki/Client/Release_stream/Lazer) of osu! |
-| [Usage permissions](/wiki/Help_centre/Usage_permissions) | Acquiring appropriate permissions for use of creative works in the game |
 | [Website](/wiki/Help_centre/Website) | Blocking users, contacting with the support, site appearance |
 
 ## Help us help you {id=diagnostics}
