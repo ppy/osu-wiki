@@ -133,8 +133,8 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | --: | :-- | :-- | :-: | :-: |
 | 독일 ::{ flag=DE }:: | ::{ flag=JP }:: 일본 | [Nov 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T100000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 홍콩 ::{ flag=HK }:: | ::{ flag=SE }:: 스웨덴 | [Nov 11 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T113000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=NO }:: 노르웨이 | [Nov 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T130000&p1=1440&p2=33&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 이탈리아 ::{ flag=IT }:: | ::{ flag=ID }:: 인도네시아 | [Nov 11 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T143000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 중국 ::{ flag=CN }:: | ::{ flag=NO }:: 노르웨이 | [Nov 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 우크라이나 ::{ flag=UA }:: | ::{ flag=TH }:: 태국 | [Nov 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T160000&p1=1440&p2=367&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 루마니아 ::{ flag=RO }:: | ::{ flag=FR }:: 프랑스 | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 칠레 ::{ flag=CL }:: | ::{ flag=FI }:: 핀란드 | [Nov 11 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T190000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
@@ -175,10 +175,10 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   1. [Powerwolf - Sermon of Swords (piroshki) \[Pilgrims of Dark\]](https://osu.ppy.sh/beatmapsets/2085330#osu/4368595)
   2. [tsunamix\_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[hidden extra.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
   3. [Sydosys - Wandered (alden) \[Sidetracked\]](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
-  4. [MYUKKE. - Mach Roger (Pho) \[Hi-Speed Flow\]](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
+  4. [MYUKKE. - Mach Roger (Pho) \[Maharaja\]](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
   5. [Psychedelic Porn Crumpets - Marmalade March (squirrelpascals) \[Ex\]](https://osu.ppy.sh/beatmapsets/2085336#osu/4368607)
 - Hidden
-  1. [youMan - Weenywalker (funny) \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
+  1. [youman feat. GUMI - Weenywalker (funny) \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
   2. [BUTAOTOME - Street Journal (Djulus) \[Extra\]](https://osu.ppy.sh/beatmapsets/2085341#osu/4368631)
   3. [yuikonnu - Taifuu Ikka? Risan (toybot) \[I NEED YOU\]](https://osu.ppy.sh/beatmapsets/2085338#osu/4368609)
 - Hard Rock
