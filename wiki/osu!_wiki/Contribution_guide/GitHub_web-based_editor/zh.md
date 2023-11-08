@@ -66,4 +66,4 @@
 
 ## 接下来
 
-万事俱备之后，请参照[最好方法 § 自我检查](/wiki/osu!_wiki/Contribution_guide#自我检查)来校对修改的内容。在此之后，在 `ppy/osu-wiki` 仓库中[提出拉取请求](/wiki/osu!_wiki/Contribution_guide#提出拉取请求-(pull-request))，将修改的内容送去审查。
+万事俱备之后，请参照[最好方法 § 自我检查](/wiki/osu!_wiki/Contribution_guide#self-check)来校对修改的内容。在此之后，在 `ppy/osu-wiki` 仓库中[提出拉取请求](/wiki/osu!_wiki/Contribution_guide#提出拉取请求-(pull-request))，将修改的内容送去审查。

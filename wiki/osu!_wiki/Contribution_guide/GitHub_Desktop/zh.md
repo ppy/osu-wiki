@@ -38,7 +38,7 @@
 
 1. 在你的克隆仓库所在文件夹中，找到想要修改的文件。所有文章使用文件夹组织，其中文件夹名是文章名，`.md` 文件名则标明了语言。
 2. 当你找到文件后，用你最喜欢的文本编辑器打开它。
-3. 现在可以修改该文件了。你也要花点时间[自查一下](/wiki/osu!_wiki/Contribution_guide#自我检查)。
+3. 现在可以修改该文件了。你也要花点时间[自查一下](/wiki/osu!_wiki/Contribution_guide#self-check)。
 4. 下一步：[提交和推送](#提交和推送)。
 
 ### 移动已有文件
@@ -83,4 +83,4 @@
 
 ![](img/github-desktop-push.jpg)
 
-9. 接下来，你可以继续阅读[审查](/wiki/osu!_wiki/Contribution_guide#审查)部分，获取与拉取请求和修改相关的信息。
+9. 接下来，你可以继续阅读[审查](/wiki/osu!_wiki/Contribution_guide#review)部分，获取与拉取请求和修改相关的信息。
