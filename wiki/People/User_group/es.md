@@ -17,8 +17,8 @@ Al hacer clic en las insignias, se accederá a las listas del grupo respectiva, 
 | ID | Insignia | Nombre | Descripción |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Vigilar los foros y el chat del juego |
-| 7 | [![NAT](/wiki/shared/group/NAT.png)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
-| 11 | [![DEV](/wiki/shared/group/DEV.png)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Hacer que el juego sea increíble agregando nuevas funciones y corrigiendo los errores |
+| 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
+| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Hacer que el juego sea increíble agregando nuevas funciones y corrigiendo los errores |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que desde entonces se han mudado |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support Team](/wiki/People/Support_Team) | Ayuda y asistencia |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Los usuarios van más allá de la llamada para garantizar que los beatmaps se califiquen |

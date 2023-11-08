@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: d9f9d3a504cf88a88685b9a8008a91c83aa1b79b
 tags:
   - GMT
   - moderator
@@ -52,6 +50,21 @@ tags:
 2. 不要向他们举报聊天中的每一件小事。知道该举报什么，不该举报什么很重要。
 3. 不要在自己不知道答案是否正确的时候回答问题，特别是在论坛上。提出建议是好的，但误导人可没有任何好处。如果你不知道如何解决问题，请让其他人回答并向他们学习。
 4. 不要做得太过火。团队需要你持之以恒地贡献，而不需要超负荷地支出。众所周知，这会让你精疲力尽，变得失去耐心和违反承诺。放轻松！
+
+## 特权
+
+全局管理员们可以获得以下特权：
+
+- **[osu! 支持者](/wiki/osu!supporter)**：获得一个时长等于任期的 osu! 支持者标签。
+- **职位奖牌**：从第 3 年开始，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
+  ![3 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT3y.png "3 年 GMT 奖牌") ![4 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT4y.png "4 年 GMT 奖牌") ![5 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT5y.png "5 年 GMT 奖牌")
+
+## 离开全局管理团队 (GMT)
+
+如果全局管理员选择卸任，他们将根据以下情况获得特权：
+
+- **[osu! 名人堂](/wiki/People/osu!_Alumni) 玩家头衔**：授予给在团队中至少任职 1 年，或是在短时间内为团队做出重大贡献的成员。
+- **osu! 支持者**：与获得名人堂头衔的条件相同，他们将获得 2 倍任职于全局管理团队时长的 osu! 支持者标签。
 
 ## 团队成员
 

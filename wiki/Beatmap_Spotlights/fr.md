@@ -53,7 +53,7 @@ Le classement saisonnier résume les résultats du classement hebdomadaire de ch
    - En rejouant une playlist à une autre semaine, **seulement le meilleur score hebdomadaire classé** comptera, écrasant le plus mauvais.
 3. Le classement sera mis à jour après la conclusion de chaque playlist.
    - Les participants ne seront pas informés de leur score saisonnier exact, ils seront plutôt affectés à des tranches de ligue.
-   - Le classement sera publié dans l'[osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
+   - Le classement sera publié dans l'[osu! community discord](https://discord.com/invite/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
 
 ### Récompenses
 
@@ -110,8 +110,8 @@ Le système de curation implique un processus de sélection par les curateurs de
 L'implémentation actuelle des Beatmap Spotlights est hautement expérimentale et peut changer à tout moment en fonction de la réaction des joueurs. Pour cette raison, il est important de recueillir autant de commentaires et de critiques que possible pour améliorer continuellement la direction et la mise en œuvre de ce système. Les joueurs sont encouragés à laisser leurs impressions et leurs commentaires ici :
 
 - [Fil de discussion du forum feedback](https://osu.ppy.sh/community/forums/topics/1189626)
-- `#beatmap-spotlights` sur le [serveur Discord de la communauté osu!](https://discord.gg/0Vxo9AsejDkGlk3H)
-- `#osu-spotlights` sur le [serveur Discord osu!dev](https://discord.gg/ppy)
+- `#beatmap-spotlights` sur le [serveur Discord de la communauté osu!](https://discord.com/invite/0Vxo9AsejDkGlk3H)
+- `#osu-spotlights` sur le [serveur Discord osu!](https://discord.com/invite/ppy)
 
 ### Devenir un curateur
 
