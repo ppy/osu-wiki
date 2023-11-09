@@ -19,7 +19,14 @@ tags:
 <!--
 the images in this article are from <https://www.figma.com/file/f4YtoQAXdAudBpkvwED7uY/osu!mania-playstyles>
 
-for translators: if you're able to use figma, it should be straightforward to edit the text. just make sure you change the font if your language uses a different one than Inter on the osu website. you may also have to adjust the layout a bit if your translation uses more or less lines than the original text. if you need help with any of that let me know
+for translators~
+
+if you're able to use figma:
+- edit the text in the images
+- make sure the font family and size matches the normal content font on the osu wiki
+- if the height of text changes, make sure the bounding box of the image is cropped appropriately. for the screenshot/keyboard images also make sure the layout is correct (each side vertically centered)
+
+if you need help with that or just don't want to mess with it, let me know
 
 —clayton
 -->
