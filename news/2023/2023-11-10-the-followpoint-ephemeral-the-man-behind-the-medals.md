@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Followpoint: Ephemeral, The Man Behind The Medals"
-date: 2023-11-03 00:00:00 +0000
+date: 2023-11-10 09:00:00 +0000
 ---
 
 Come join us to delve into the science and magnets behind medals with Ephemeral, osu!'s strongest seagull!
 
-![](/wiki/shared/news/2023-11-03-the-followpoint-ephemeral-the-man-behind-the-medals/banner.jpg)
+![](/wiki/shared/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals/banner.jpg)
 
 Welcome to **The Followpoint**, a brand-new series of interview-style podcasts with a different guest each release! This time around we were joined by [Ephemeral](https://osu.ppy.sh/users/102335), the swole seagull who is in charge of all the magic behind [medals](/wiki/Medals)!
 
