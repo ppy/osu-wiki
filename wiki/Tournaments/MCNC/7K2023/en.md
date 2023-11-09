@@ -30,9 +30,9 @@ The **osu!mania 7K Chinese National Cup 2023** (***MCNC 7K 2023***) was a countr
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 600, 4 months of osu!supporter, 48% of the donated prize pool, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 400, 32% of the donated prize pool, 2 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 200, 20% of the donated prize pool, 1 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, CNY 600, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 400, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 200, 1 months of osu!supporter |
 | All player who passed Qualifiers | CNY 20 |
 
 ![](img/badge.jpg "MCNC 7K 2023 badge")
