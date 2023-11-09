@@ -136,7 +136,6 @@ This competition has come to an end and resulted in the following podium:
   13. [u-z feat. cherica - Corrupting Wonderland \[Alice in Wonderland\]](https://osu.ppy.sh/beatmapsets/1783408#mania/3652328)
   14. [ina - IMAWANOKIWA \[I wanted to see your future\]](https://osu.ppy.sh/beatmapsets/1699647#mania/3472994)
   15. [ProjectG - Theme \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1939349#mania/4009627)
-  16. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)
 - TieBreaker
   1. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)
 
@@ -189,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/1v9cRVznc3nM0ptE9rcbIZZIbMdu2O0dM/view?usp=share_link)**
 
 - FreeMod
-  1. modama/hugepulse - Swim in the sea of quarks \[Creation 1.05x\]
+  1. [modama/hugepulse - Swim in the sea of quarks \[Creation 1.05x\]](https://osu.ppy.sh/beatmapsets/1687220#mania/3979407)
   2. [Petit Rabbit's with beans - Sekai ga Cafe ni Nacchatta! (Cut Ver.) \[Rabbit House\]](https://osu.ppy.sh/beatmapsets/1926460#mania/3977910)
   3. [kessoku band - Guitar to Kodoku to Aoi Hoshi \[Lonely Rock\]](https://osu.ppy.sh/beatmapsets/1926450#mania/3977896)
   4. [Shinshi Todoroku, Gekijou no Gotoku. - Shinsekai Exodus (Cut Ver.) \[2-step Expert\]](https://osu.ppy.sh/beatmapsets/1794087#mania/3723891)
