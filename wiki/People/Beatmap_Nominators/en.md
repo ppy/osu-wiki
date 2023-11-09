@@ -30,7 +30,7 @@ Full Beatmap Nominators with below minimum nomination activity will not be place
 
 Probation is used to monitor new or demoted Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
 
-Probationary Beatmap Nominators are [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) after meeting their [activity requirements](https://osu.ppy.sh/wiki/en/People/Beatmap_Nominators/Rules#activity), or after one month from being placed there, whichever comes first.
+Probationary Beatmap Nominators are [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) after meeting their [activity requirements](/wiki/People/Beatmap_Nominators/Rules#activity), or after one month from being placed there, whichever comes first.
 
 New members of the Beatmap Nominators will be assigned an NAT buddy who they are encouraged to directly contact for questions or guidance. After their first evaluation, if their nominations and behaviour are satisfactory, they will be promoted to the full Beatmap Nominators following a positive evaluation. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
 
