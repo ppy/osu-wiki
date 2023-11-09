@@ -1,6 +1,5 @@
 ---
 tags:
-  - 10K+
   - 12K+
   - co op
   - co-op
