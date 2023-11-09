@@ -22,7 +22,7 @@ El servidor de Discord osu! presenta una serie de canales, muchos de los cuales 
 | Canal | Descripción |
 | :-- | :-- |
 | `#welcome` | Información del servidor |
-| `#introduction` | Presentaciones personales |
+| `#introductions` | Presentaciones personales |
 | `#general` | Discusión general y resolución de problemas relacionados con osu! |
 
 ### Client / Web

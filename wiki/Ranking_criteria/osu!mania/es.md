@@ -18,7 +18,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ### Términos comunes
 
-- **BPM**: Tempo de una canción medido en pulsaciones por minuto.
+- **BPM**: Tempo de una canción medido en pulsos por minuto.
 - **Column**: Líneas verticales en el campo de juego donde las notas son colocadas. El editor usa `0|1|2|3|4|5|6|7|8|9` para las etiquetas de marcas de tiempo.
 - **Key mode**: La cantidad de columnas presentes en una dificultad.
 - **Keysounding**: Aplicar hitsounds que son extremadamente similar o directamente de la canción en sus respectivos lugares. Este método de hitsounding generalmente proporciona poca retroalimentación al jugador.
@@ -43,7 +43,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Roll**: Una variación del stream que consiste de notas que van desde la primera columna hasta lo ultima o desde la última hasta la primera, usualmente en sucesión rápida.
 - **Shield**: Una nota que aparece en la misma columna inmediatamente antes del inicio de una nota larga.
 - **Split-jumptrill**: Un jumptrill que requiere el uso de las dos manos al mismo tiempo para ser realizado correctamente (por ejemplo, dos trills de una mano).
-- **Stream**: Notas constantes con el mismo intervalo por al menos una pulsación que no se repite para crear un minijack.
+- **Stream**: Notas constantes con el mismo intervalo por al menos un pulso que no se repite para crear un minijack.
 - **Trill**: Más de dos notas que alternan entre dos columnas sin interrupción.
 
 Consulte [Guía de mapping de osu!mania](/wiki/Guides/osu!mania_mapping_guide) para obtener más terminología de patrones.
@@ -71,7 +71,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
   - no sería razonable de jugar con completa precisión.
   - seria eficazmente representando con un divisor constante y predecible.
   - causaría un pico de dificultad inapropiado.
-- **Las notas largas deben ser presionadas por al menos 1/12 de una pulsación.** Los tiempos de agarre más rápidos no son razonables para jugar con completa precisión.
+- **Las notas largas deben ser presionadas por al menos 1/12 de un pulso.** Los tiempos de agarre más rápidos no son razonables para jugar con completa precisión.
 - **Evite el uso de hitsounds muestreados en el storyboard con un volumen similar al de los hitsounds en las notas.** Como los hitsounds muestreados en el storyboard pueden abrumar y distorsionar la retroalimentación de audio de los objetos en el beatmap, se debe priorizar la colocación de los hitsounds en una nota. Sin embargo, las muestras en el storyboard pueden utilizarse cuando los keysounds se extraen directamente de una canción y cuando las dificultades bajas tienen muy pocas notas para soportar los hitsounds necesarios.
 - **No utilice los keysounds sin el apoyo de hitnormal.** Si los hitsounds del storyboard se mezclan perfectamente con la canción, la retroalimentación al golpear estas notas es mínima. Sin embargo, cuando los keysounds extraídos directamente de una canción se utilizan como reemplazo del audio de una canción, no necesitan soporte hitnormal.
 - **Evite usar el mismo hitsound para múltiples notas en un chord.** Esto hace que la retroalimentación sea más fuerte de lo necesario. Esto también se aplica a los hitsounds activos y a los hitsounds del storyboard utilizados en la misma marca de tiempo.
@@ -98,8 +98,8 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 
 - **Los valores de HP y OD no deben ser superiores a 7.**
 - **No se deben usar snaps de notas consecutivas de 1/4 y superiores.** Los ritmos más lentos son más apropiados para este nivel de dificultad.
-- **Las notas largas deben ser presionadas por al menos una pulsación.** Soltar la nota más rápido es demasiado difícil para los jugadores de este nivel.
-- **El final de las notas largas deben estar separados por al menos una pulsación entre sí.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que los jugadores de esta dificultad no pueden manejar.
+- **Las notas largas deben ser presionadas por al menos un pulso.** Soltar la nota más rápido es demasiado difícil para los jugadores de este nivel.
+- **El final de las notas largas deben estar separados por al menos un pulso entre sí.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que los jugadores de esta dificultad no pueden manejar.
 - **Los objetos no deben colocarse durante la duración de una nota larga de 1/1.** Sin embargo, utilizar un objeto al principio o al final de una nota larga está bien.
 - **La densidad de notas debe consistir en su mayoría en 1/1, ocasionalmente en 1/2, o en ritmos más lentos.**
 - **Evite utilizar más de 5 notas de 1/2 consecutivas.**
@@ -119,8 +119,8 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 
 - **Los valores de HP y OD no deben ser superiores a 7.5.**
 - **Notas con un snap consecutivo de 1/6 o más no deberían ser usados.** Ritmos lentos son más apropiados para este nivel de dificultad.
-- **Las notas largas deben ser presionadas por al menos 1/2 pulsación.** Soltar la nota más rápido que esto es demasiado difícil para los jugadores de este nivel.
-- **El final de las notas largas deben estar al menos a 1/2 pulsación separada de cada una.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que los jugadores de esta dificultad no pueden manejar.
+- **Las notas largas deben ser presionadas por al menos 1/2 de un pulso.** Soltar la nota más rápido que esto es demasiado difícil para los jugadores de este nivel.
+- **El final de las notas largas deben estar al menos a 1/2 de un pulso separados de cada uno.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que los jugadores de esta dificultad no pueden manejar.
 - **Los objetos no deben colocarse durante la duración de una nota larga de 1/2.** Sin embargo, usar un objeto al principio o al final de una nota larga está bien.
 - **Evite ritmos más rápidos que 1/2 durante la duración de una nota larga de 1/1.**
 - **Evite usar cualquier tipo de patrón de shield de 1/4.** La coordinación requerida para este patrón es muy alta para los jugadores de este nivel.
@@ -150,15 +150,15 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 - **Los valores del HP y OD no deben ser superiores a 8.**
 - **Notas con un snap consecutivo de 1/8 o más no deberían ser usados.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Una excepción para esta pauta sería el uso de 3 graces que son usadas en snaps más altos (1/8, 1/12 y 1/16), ya que son solamente utilizados para acentuar este sonido.
 - **Los streams largos de notas de 1/4 deben incluir, como mínimo, una pausa de 1/2 donde sea natural implementarla después de cada frase musical.** Estos pueden ser demasiado exigentes físicamente para los jugadores de este nivel.
-- **Chords dentro de streams 1/4 deben estar separados por al menos una pulsación de 1/1 del uno del otro.** Uso más denso de los chords es demasiado difícil para jugadores de este nivel.
+- **Chords dentro de streams 1/4 deben estar separados por al menos un pulso de 1/1 del uno del otro.** Uso más denso de los chords es demasiado difícil para jugadores de este nivel.
 - **Evite el uso de chords durante streams de 1/6.** Sin embargo, el uso de un chord al principio o al final del stream está bien.
 - **Evite los anchors de cinco o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Se desaconseja el uso de jacks de 1/4.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con un amplio tiempo de descanso en medio son aceptables.
 - **Evite utilizar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
-- **Las notas largas deben ser presionadas durante al menos 1/4 de una pulsación.**
+- **Las notas largas deben ser presionadas durante al menos 1/4 de un pulso.**
 - **Los objetos que aparecen directamente después de los cambios de velocidad del slider a corto plazo deben aparecer a la velocidad normal de desplazamiento del beatmap.** Para ello, los cambios de velocidad del slider a corto plazo solo deberían utilizarse en los espacios vacíos entre las notas y deberían igualarse a una distancia de 1.0x.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.8x y 1.10x.**
-- **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/2 de una pulsación o más.**
+- **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/2 de un pulso o más.**
 
 Pautas adicionales para dificultades *Hard de 4 teclas*:
 
@@ -168,22 +168,22 @@ Pautas adicionales para dificultades *Hard de 7 teclas*:
 
 - **Evite los chords de cuatro o más notas.** Esto incluye patrones de notas largas que implican notas en más de cuatro columnas.
 - **Mantenga la distancia de los chords en un chordstream en 1/1 o intervalo más grande.** Cualquier cosa más densa que eso puede perjudicar la legibilidad.
-- **Hands ocasionales pueden ser usados en streams, siempre que estén separados por al menos un compás (4 pulsaciones).**
+- **Hands ocasionales pueden ser usados en streams, siempre que estén separados por al menos un compás (4 pulsos).**
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### Pautas
 
 - **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
-- **Evite el uso de split rolls o cualquier tipo de stream de 1/8 complicado que dure más de 4 pulsaciones.** Streams de este tipo de snap son difíciles de ejecutar y solo deben usarse si la canción lo justifica.
+- **Evite el uso de split rolls o cualquier tipo de stream de 1/8 complicado que dure más de 4 pulsos.** Streams de este tipo de snap son difíciles de ejecutar y solo deben usarse si la canción lo justifica.
 - **Evite usar streams de notas largas de 1/6 o más.** Estos son complicados de jugar debido a su corta duración. Use notas normales en los streams en vez de notas largas.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.70x y 1.10x.**
-- **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
+- **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/4 de un pulso o más cuando no están normalizados y 1/2 cuando están normalizados.**
 
 Pautas adicionales para dificultades *Insane de 4 teclas*:
 
 - **Evite el uso de chords en medio de los stream de 1/8.** La densidad de estos patrones es a menudo demasiado difícil para los jugadores de este nivel de habilidad, especialmente cuando se utiliza en la dificultad más baja de un beatmap. Además, la colocación ineficaz de los chords puede dar lugar a un uso inconsistente de los minijack de 1/4. Usar un chord al principio o al final de un stream está bien.
-- **Se desaconseja el uso de split-jumptrills durante más de 2 pulsaciones que terminen en un hand.** A menos que un beatmap utilice jacks u otros patrones complejos con frecuencia, este patrón es difícil de jugar. Si un hand es necesario, elimine la nota anterior que crearía el mini jack.
+- **Se desaconseja el uso de split-jumptrills durante más de 2 pulsos que terminen en un hand.** A menos que un beatmap utilice jacks u otros patrones complejos con frecuencia, este patrón es difícil de jugar. Si un hand es necesario, elimine la nota anterior que crearía el mini jack.
 - **Evite usar más de 9 notas en un split jumptrill.** Estos son más físicamente agotadores que otros patrones con densidad similar.
 
 Pautas adicionales para dificultades *Insane de 7 teclas*:

@@ -40,7 +40,7 @@ osu! wiki 的[问题跟踪](https://github.com/ppy/osu-wiki/issues)包含了对�
 
 当给新或现有的文章添加重定向时，请记住它们应该简明扼要，并需要考虑到实际使用的效果。
 
-### CI 检查
+### CI 检查 {id=ci-checks}
 
 osu! wiki 仓库使用[持续集成](https://docs.github.com/zh/actions/automating-builds-and-tests/about-continuous-integration) (CI) 来自动检查传入的拉取请求 (PR) 中的各种常见错误。检查列表在 [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) 文件中配置。
 

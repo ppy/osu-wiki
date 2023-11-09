@@ -51,12 +51,13 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | :-- | :-- |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** |
 | ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 |
+| ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 3 |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 |
 | ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 2 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 |
+| ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 2 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
-| ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 1 |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 |
 

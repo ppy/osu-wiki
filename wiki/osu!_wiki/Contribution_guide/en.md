@@ -26,7 +26,7 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
 
-## Self-check
+## Self-check {id=self-check}
 
 When you are done editing, take some time to proofread your work. Go through the following quick checklist:
 
@@ -46,7 +46,7 @@ After the changes are double-checked, committed, and pushed to your fork, you ne
 2. Click the `Contribute↓` button and select `Open pull request`.
 3. Fill in the details according to [Best practices § Opening a pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) and click `Create pull request`.
 
-## Review
+## Review {id=review}
 
 All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
 
