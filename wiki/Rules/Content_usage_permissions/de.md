@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 866f5bfcb2e396728fd9b942bec87327b1221283
+---
+
 # Richtlinien für die Nutzung von Inhalten
 
 Als Mapper solltest du Berechtigungen von relevanten Rechteinhabern für Audio-/visuelle/Gameplay-Inhalte in deine Beatmap-Einreichungen einfügen. Ohne Erlaubnis werden deine Beatmaps möglicherweise entfernt und du läufst Gefahr, dass dein Zugang zum Einreichungssystem nach der [osu!-Urheberrechtspolitik](/wiki/Legal/Copyright) verweigert wird.
