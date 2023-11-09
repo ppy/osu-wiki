@@ -131,38 +131,38 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 독일 ::{ flag=DE }:: | ::{ flag=JP }:: 일본 | [Nov 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T100000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 홍콩 ::{ flag=HK }:: | ::{ flag=SE }:: 스웨덴 | [Nov 11 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T113000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 독일 ::{ flag=DE }:: | ::{ flag=JP }:: 일본 | [Nov 11 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T093000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 홍콩 ::{ flag=HK }:: | ::{ flag=SE }:: 스웨덴 | [Nov 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T130000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 이탈리아 ::{ flag=IT }:: | ::{ flag=ID }:: 인도네시아 | [Nov 11 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T143000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 중국 ::{ flag=CN }:: | ::{ flag=NO }:: 노르웨이 | [Nov 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 우크라이나 ::{ flag=UA }:: | ::{ flag=TH }:: 태국 | [Nov 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T160000&p1=1440&p2=367&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 루마니아 ::{ flag=RO }:: | ::{ flag=FR }:: 프랑스 | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 브라질 ::{ flag=BR }:: | ::{ flag=SG }:: 싱가포르 | [Nov 11 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T170000&p1=1440&p2=45&p3=236) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 루마니아 ::{ flag=RO }:: | ::{ flag=FR }:: 프랑스 | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 칠레 ::{ flag=CL }:: | ::{ flag=FI }:: 핀란드 | [Nov 11 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T190000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 칠레 ::{ flag=CL }:: | ::{ flag=BR }:: 브라질 | [Nov 11 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T220000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ### 2023년 11월 12일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 브라질 ::{ flag=BR }:: | ::{ flag=SG }:: 싱가포르 | [Nov 12 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T020000&p1=1440&p2=45&p3=236) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 폴란드 ::{ flag=PL }:: | ::{ flag=AU }:: 오스트레일리아 | [Nov 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T100000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 독일 ::{ flag=DE }:: | ::{ flag=IT }:: 이탈리아 | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=37&p3=215) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=ID }:: 인도네시아 | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=37&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 일본 ::{ flag=JP }:: | ::{ flag=IT }:: 이탈리아 | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=248&p3=215) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 일본 ::{ flag=JP }:: | ::{ flag=ID }:: 인도네시아 | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=248&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 대한민국 ::{ flag=KR }:: | ::{ flag=GB }:: 영국 | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 루마니아 ::{ flag=RO }:: | ::{ flag=HK }:: 홍콩 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=49&p3=102) | *TBD* | [^potential-match] |
-| 루마니아 ::{ flag=RO }:: | ::{ flag=SE }:: 스웨덴 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=49&p3=239) | *TBD* | [^potential-match] |
-| 프랑스 ::{ flag=FR }:: | ::{ flag=HK }:: 홍콩 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=195&p3=102) | *TBD* | [^potential-match] |
 | 프랑스 ::{ flag=FR }:: | ::{ flag=SE }:: 스웨덴 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=195&p3=239) | *TBD* | [^potential-match] |
 | 핀란드 ::{ flag=FI }:: | ::{ flag=SG }:: 싱가포르 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=101&p3=236) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=ID }:: 인도네시아 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=37&p3=108) | *TBD* | | [^potential-match] |
+| 일본 ::{ flag=JP }:: | ::{ flag=ID }:: 인도네시아 | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=248&p3=108) | *TBD* | [^potential-match] |
 | 러시아 ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=166&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 프랑스 ::{ flag=FR }:: | ::{ flag=HK }:: 홍콩 | [Nov 12 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T140000&p1=1440&p2=195&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 우크라이나 ::{ flag=UA }:: | ::{ flag=CN }:: 중국 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=367&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 우크라이나 ::{ flag=UA }:: | ::{ flag=NO }:: 노르웨이 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=367&p3=187) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 태국 ::{ flag=TH }:: | ::{ flag=CN }:: 중국 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 태국 ::{ flag=TH }:: | ::{ flag=NO }:: 노르웨이 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=28&p3=187) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 루마니아 ::{ flag=RO }:: | ::{ flag=HK }:: 홍콩 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=49&p3=102) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=IT }:: 이탈리아 | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=37&p3=215) | *TBD* | [^potential-match] |
+| 태국 ::{ flag=TH }:: | ::{ flag=NO }:: 노르웨이 | [Nov 12 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T150000&p1=1440&p2=28&p3=187) | *TBD* | [^potential-match] |
 | 칠레 ::{ flag=CL }:: | ::{ flag=SG }:: 싱가포르 | [Nov 12 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T150000&p1=1440&p2=232&p3=236) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| 루마니아 ::{ flag=RO }:: | ::{ flag=SE }:: 스웨덴 | [Nov 12 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=49&p3=239) | *TBD* | [^potential-match] |
 | 핀란드 ::{ flag=FI }:: | ::{ flag=BR }:: 브라질 | [Nov 12 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=101&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 칠레 ::{ flag=CL }:: | ::{ flag=BR }:: 브라질 | [Nov 12 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T173000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 우크라이나 ::{ flag=UA }:: | ::{ flag=NO }:: 노르웨이 | [Nov 12 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T180000&p1=1440&p2=367&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 미국 ::{ flag=US }:: | ::{ flag=CA }:: 캐나다 | [Nov 12 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T190000&p1=1440&p2=263&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## 맵풀 목록
