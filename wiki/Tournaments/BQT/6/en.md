@@ -103,7 +103,7 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Mappools
 
-### Grandfinals
+### Grand Finals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1HjwNrVrn5PuLvxv0lVBqlrERBLToiW_k)**
 
