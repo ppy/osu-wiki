@@ -62,7 +62,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] |  |
 |  | ak+q | ![][false] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][true] |  |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | [Alestorm](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/195) | [Alkome](https://osu.ppy.sh/beatmaps/artists/195) | ![][true] |  |
@@ -378,7 +378,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/348) | [SWORD OF JUSTICE](https://osu.ppy.sh/beatmaps/artists/348) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/8) | [Sylvir / sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/130) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][true] |  |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/188) | [T & Sugah](https://osu.ppy.sh/beatmaps/artists/188) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/144) | [Tanchiky](https://osu.ppy.sh/beatmaps/artists/144) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/97) | [Task Horizon](https://osu.ppy.sh/beatmaps/artists/97) | ![][true] |  |
@@ -427,9 +427,9 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/4) | [yuki.](https://osu.ppy.sh/beatmaps/artists/4) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/167) | [yukitani](https://osu.ppy.sh/beatmaps/artists/167) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] |  *동방프로젝트*를 주제로 한 음악 및 테마곡은 업로드하거나 사용을 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | *동방프로젝트*를 주제로 한 음악 및 테마곡은 업로드하거나 사용을 금합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | [YUZUKINGDOM](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][true] |  |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] |  |
