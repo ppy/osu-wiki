@@ -52,6 +52,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ## Links
 
+- [Main Page](https://mcnc.crzteam.cn/home)
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1680872)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1680870)
 - [Livestream](https://live.bilibili.com/2996250)
