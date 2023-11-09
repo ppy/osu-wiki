@@ -12,7 +12,7 @@ osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese 
 
 ### Song Selection
 
-To access the osu!taiko game mode, press `Ctrl`+`2` at the same time.
+To access the osu!taiko game mode, press `Ctrl` + `2` at the same time.
 
 Alternatively, click on the `Mode` button and select `osu!taiko`.
 
@@ -61,7 +61,7 @@ Drumrolls can be ignored with no health penalty, as it does not recover the heal
 
 Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
-It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
+It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect (GREAT) large note score.
 
 ## Play Styles
 
@@ -73,8 +73,8 @@ The default controls for osu!taiko are:
 
 | Type | Mouse | Keyboard | TaTaCon |
 | :-- | :-- | :-- | :-- |
-| Red | Left click(L) | `X`(L) / `C`(R) | Flat surface of the drum |
-| Blue | Right click(L) | `Z`(L) / `V`(R) | Outer surface of the drum |
+| Red | Left click(L) | `X` (L) / `C` (R) | Flat surface of the drum |
+| Blue | Right click(L) | `Z` (L) / `V` (R) | Outer surface of the drum |
 
 The placement of in-game cursor does not matter when playing.
 
@@ -114,7 +114,7 @@ Design placement of the notes does not matter.
 
 When a map conversion happens (playing an osu! map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
 
-For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
+For maps with 125 BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
 
 Do note that 1/8 rhythms are not often used in music. It is not suggested to place slider when in 1/8 rhythm.
 
@@ -127,7 +127,7 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 - Playing on an empty playfield does not incur any miss.
 - Drumroll: The upper limit on number of hits on the slider is:
   - 4 times of the length of slider, or
-  - 8 times of the length of the slider in songs that is equal or lower than 125BPM.
+  - 8 times of the length of the slider in songs that is equal or lower than 125 BPM.
 - Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
   - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
 - Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).

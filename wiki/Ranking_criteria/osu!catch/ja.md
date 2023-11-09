@@ -53,7 +53,7 @@
 
 ### 難易度の名前 (Difficulty names)
 
-*メイン記事： [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*メイン記事： [難易度名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

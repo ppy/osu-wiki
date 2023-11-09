@@ -3,51 +3,51 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
+  - discusiones de beatmaps
 outdated: true
-no_native_review: true
 ---
 
-# Discusión del mapa
+# Discusión de beatmaps
 
-*Vea también: [Modding v1](/wiki/Modding/Forum_modding)*
+*Véase también: [Modding v1](/wiki/Modding/Forum_modding)*
 
-La **Discusión del mapa** (también conocida como *Modding v2*) es un sistema para administrar y simplificar el proceso de [modding](/wiki/Modding). Su objetivo es proporcionar una interfaz clara y comprensible, donde se enfoca la mejora de un mapa. Cuando un mapa es [enviado](/wiki/Beatmapping/Beatmap_submission), se crea automáticamente una página de discusión junto con la página de información del mapa. Cuando se actualice el mapa, la página de discusión también se actualizará. Se puede acceder a la página de discusión haciendo clic en el botón `Discusión` en la página de información. La página de discusión del mapa consta de algunos elementos (de arriba a abajo):
+La **discusión de beatmaps** (también conocida como *Modding v2*) es un sistema para administrar y simplificar el proceso de [modding](/wiki/Modding). Su objetivo es proporcionar una interfaz clara y comprensible, donde se enfoca la mejora de un beatmap. Cuando un beatmap es [enviado](/wiki/Beatmapping/Beatmap_submission), se crea automáticamente una página de discusión junto con la página de información del beatmap. Cuando se actualice el beatmap, la página de discusión también se actualizará. Se puede acceder a la página de discusión haciendo clic en el botón `Discusión` en la página de información. La página de discusión del beatmap consta de algunos elementos (de arriba a abajo):
 
 - Selección de modo
-- Encabezado del mapa
+- Encabezado del beatmap
 - Menú de dificultad
 - Opciones de clasificación
 - Línea de tiempo visual
-- Estado del mapa
+- Estado del beatmap
 - Pestañas de modding
 - Campo de envío
 - Discusiones
 
-¡Puede seguir nuestras imágenes de [este mapa](https://osu.ppy.sh/beatmapsets/924551/discussion) para familiarizarse con las discusiones de mapas o intentar abrir una página de discusión usted mismo!
+¡Puedes seguir nuestras imágenes de [este mapa](https://osu.ppy.sh/beatmapsets/924551/discussion) para familiarizarte con las discusiones de beatmaps o intentar abrir una página de discusión tú mismo!
 
 ## Inicio rápido
 
-Es importante tener en cuenta algunas cosas para usar las páginas de discusión de mapas de manera efectiva:
+Es importante tener en cuenta algunas cosas para usar las páginas de discusiones de beatmaps de manera efectiva:
 
-- Elija el modo correcto y la dificultad que desea modear.
-- Seleccione la sección adecuada a la que está enviando su modeo.
-- **Solo publique un problema a la vez.** No envíe varios problemas en una sola publicación.
-- Verifique si el problema ya se ha solucionado cuando aparezca la advertencia de publicación similar.
+- Elige el modo correcto y la dificultad que deseas modear.
+- Selecciona la sección adecuada a la que estás enviando tu modeo.
+- **Solo publica un problema a la vez.** No envíes varios problemas en una sola publicación.
+- Verifica si el problema ya se ha solucionado cuando aparezca la advertencia de publicación similar.
 - Si te gusta el mapa, considera hypearlo para acercarlo a la nominación.
 
 ## Selección de modo
 
 ![](img/mode-selection-ES.png "Selección de modo")
 
-La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás modeando. Solo es posible seleccionar un modo de juego si el mapa tiene una dificultad de ese modo de juego. Esto solo se usa con mapas que contienen múltiples modos de juego; de lo contrario, se establecerá de forma predeterminada en el modo de juego mapeado.
+La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás modeando. Solo es posible seleccionar un modo de juego si el beatmap tiene una dificultad de ese modo de juego. Esto solo se usa con beatmaps que contienen múltiples modos de juego; de lo contrario, se establecerá de forma predeterminada en el modo de juego mapeado.
 
-## Encabezado del mapa
+## Encabezado del beatmap
 
-*Para obtener información sobre la configuración de metadatos, vea: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
+*Para obtener información sobre la configuración de metadatos, véase: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
 
-![](img/beatmap-header.png "Encabezado del mapa")
+![](img/beatmap-header.png "Encabezado del beatmap")
 
-El encabezado del mapa muestra el título y el artista proporcionados en el [editor de mapas](/wiki/Client/Beatmap_editor). Al hacer clic en el encabezado del mapa, volverás a la página de información.
+El encabezado del beatmap muestra el título y el artista proporcionados en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Al hacer clic en el encabezado del beatmap, volverás a la página de información.
 
 ## Menú de dificultad
 
@@ -59,10 +59,10 @@ Puedes seleccionar diferentes [dificultades](/wiki/Beatmap/Difficulty) a través
 
 ![](img/sorting-options-ES.png "Para sus necesidades de clasificación")
 
-Las opciones de clasificación cambian la forma en que se ven las discusiones del mapa. Cuando se elige una opción, cambia tanto la línea de tiempo de modeo como la sección de modeo para incluir solo el tipo de publicación seleccionado. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
+Las opciones de clasificación cambian la forma en que se ven las discusiones del beatmap. Cuando se elige una opción, cambia tanto la línea de tiempo de modeo como la sección de modeo para incluir solo el tipo de publicación seleccionada. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
 
-- `Mío` muestra sus propias publicaciones
-- `Notas` muestra cualquier nota del mapeador o [Beatmap Nominator](/wiki/People/Beatmap_Nominators)
+- `Mío` muestra tus propias publicaciones
+- `Notas` muestra cualquier nota del mapper o [Beatmap Nominator](/wiki/People/Beatmap_Nominators)
 - `Resuelto` muestra publicaciones resueltas
 - `Pendiente` muestra publicaciones pendientes
 - `Elogios` muestra publicaciones de elogios y hype
@@ -72,38 +72,38 @@ Las opciones de clasificación cambian la forma en que se ven las discusiones de
 
 ![](img/visual-timeline-ES.png "Publicaciones de modeo repartidas en la línea de tiempo")
 
-La línea de tiempo visual muestra todos los modeos creados para una dificultad que usan una marca de tiempo. Al hacer clic en cualquiera de estos, se desplazará hacia abajo hasta el modeo publicado en esa marca de tiempo. Tenga en cuenta que cualquier opción de filtrado cambiará lo que se muestra aquí. La línea de tiempo visual es una herramienta útil para ver cuánto se ha modificado un mapa de un vistazo. Una línea de tiempo apretada significaría que un mapa ya ha recibido mucha atención. La configuración de la dificultad seleccionada también se muestra en la parte superior derecha de la línea de tiempo visual. De izquierda a derecha, describen la `Duración`, `BPM`, `Número de círculos` y `Número de deslizadores` de una dificultad.
+La línea de tiempo visual muestra todos los modeos creados para una dificultad que usan una marca de tiempo. Al hacer clic en cualquiera de estos, se desplazará hacia abajo hasta el modeo publicado en esa marca de tiempo. Ten en cuenta que cualquier opción de filtrado cambiará lo que se muestra aquí. La línea de tiempo visual es una herramienta útil para ver cuánto se ha modificado un beatmap de un vistazo. Una línea de tiempo apretada significaría que un beatmap ya ha recibido mucha atención. La configuración de la dificultad seleccionada también se muestra en la parte superior derecha de la línea de tiempo visual. De izquierda a derecha, describen la `Duración`, `BPM`, `Número de círculos` y `Número de sliders` de una dificultad.
 
-## Estado del mapa
+## Estado del beatmap
 
 ![](img/beatmap-status-ES.png "¡Contiene información importante!")
 
-La barra de estado del mapa muestra todo lo relevante para el lugar de un mapa en el [Procedimiento de clasificación del mapa](/wiki/Beatmap_ranking_procedure). Esto incluye:
+La barra de estado del beatmap muestra todo lo relevante para el lugar de un beatmap en el [procedimiento de clasificación del beatmap](/wiki/Beatmap_ranking_procedure). Esto incluye:
 
 - Tren del hype
 - Información general
 - Botones Ver/Dejar de ver
-- Botón de la página del mapa
+- Botón de la página del beatmap
 
 ### Tren del Hype
 
-El tren del hype registra cuántos [hypes](/wiki/Beatmap/Hype) ha recibido un conjunto de mapas. Una vez que se hayan logrado 5 hypes, el mapa de puede ser nominado por los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Los hypes solo se pueden dar yendo a la pestaña `General (Todas las dificultades)`, ya que no funcionará a través de las pestañas `General` o `Línea de tiempo`. Al hacer clic en el botón `Hype`, lo moverá automáticamente a la pestaña correcta.
+El tren del hype registra cuántos [hypes](/wiki/Beatmap/Hype) ha recibido un conjunto de mapas. Una vez que se hayan logrado 5 hypes, el beatmap puede ser nominado por los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Los hypes solo se pueden dar yendo a la pestaña `General (Todas las dificultades)`, ya que no funcionará a través de las pestañas `General` o `Línea de tiempo`. Al hacer clic en el botón `Hype`, te moverá automáticamente a la pestaña correcta.
 
 ### Estado de nominación
 
-La barra de estado de nominación rastrea las nominaciones de un mapa. Una vez que un mapa haya recibido dos nominaciones, será [calificado](/wiki/Beatmap/Category#calificados).
+La barra de estado de nominación rastrea las nominaciones de un beatmap. Una vez que un beatmap haya recibido dos nominaciones, será [calificado](/wiki/Beatmap/Category#calificados).
 
 ### Información general
 
-La información general muestra al creador del mapa, la fecha de envío y la fecha en que se actualizó por última vez. [Cambios de estado](/wiki/Beatmap), como que un mapa se clasifique, sea amado o abandonado, también se consideran actualizaciones y se mostrarán aquí.
+La información general muestra al creador del beatmap, la fecha de envío y la fecha en que se actualizó por última vez. [Cambios de estado](/wiki/Beatmap), como que un beatmap se clasifique, sea amado o abandonado, también se consideran actualizaciones y se mostrarán aquí.
 
 ### Ver/Dejar de ver
 
-Los botones `Ver` y `Dejar de ver` permiten seguir/dejar de seguir los desarrollos de un mapa. Si se sigue un mapa, las nuevas publicaciones y respuestas en la página de discusión de ese mapa crearán notificaciones en la web de osu!. Las suscripciones se pueden administrar a través de la [lista de seguimiento de modeo](https://osu.ppy.sh/beatmapsets/watches), que se puede encontrar a través del menú de la página de inicio.
+Los botones `Ver` y `Dejar de ver` permiten seguir/dejar de seguir los desarrollos de un beatmap. Si se sigue un beatmap, las nuevas publicaciones y respuestas en la página de discusión de ese beatmap crearán notificaciones en la web de osu!. Las suscripciones se pueden administrar a través de la [lista de seguimiento de modeo](https://osu.ppy.sh/beatmapsets/watches), que se puede encontrar a través del menú de la página de inicio.
 
-### Página del mapa
+### Página del beatmap
 
-El botón `Página del mapa` navegará a la página de información de un mapa. Esto también se puede hacer haciendo clic en el [encabezado del mapa](#encabezado-del-mapa).
+El botón `Página del mapa` navegará a la página de información de un beatmap. Esto también se puede hacer haciendo clic en el [encabezado del beatmap](#encabezado-del-beatmap).
 
 ## Pestañas de modeo
 
@@ -111,9 +111,9 @@ El botón `Página del mapa` navegará a la página de información de un mapa. 
 
 El modeo se realiza a través de tres pestañas, que separan las publicaciones de diferentes tipos y las dividen en formatos legibles. Además, una cuarta pestaña registra todos los cambios. El número al lado de cada pestaña describe la cantidad de publicaciones que contiene.
 
-`General (Todas las dificultades)` muestra publicaciones que se aplican a todas las dificultades. Las publicaciones comunes en esta pestaña incluyen metadatos, notas y debates sobre el mapa en su conjunto.
+`General (Todas las dificultades)` muestra publicaciones que se aplican a todas las dificultades. Las publicaciones comunes en esta pestaña incluyen metadatos, notas y debates sobre el beatmap en conjunto.
 
-`General (Nombre de la dificultad)` muestra publicaciones que solo se aplican a la dificultad seleccionada actualmente. Las publicaciones comunes en esta pestaña incluyen la configuración del mapa, los problemas recurrentes y la discusión general sobre la dificultad seleccionada.
+`General (Nombre de la dificultad)` muestra publicaciones que solo se aplican a la dificultad seleccionada actualmente. Las publicaciones comunes en esta pestaña incluyen la configuración del beatmap, los problemas recurrentes y la discusión general sobre la dificultad seleccionada.
 
 `Línea de tiempo` muestra publicaciones en puntos específicos de una dificultad según la primera marca de tiempo colocada. Cada publicación en esta pestaña debe incluir una marca de tiempo para ser publicada. Cualquier marca de tiempo posterior no tendrá influencia en el orden de publicación.
 
@@ -125,7 +125,7 @@ El modeo se realiza a través de tres pestañas, que separan las publicaciones d
 
 El campo de envío es donde se escriben los [modeos](/wiki/Modding). Una vez escrito, el modeo debe enviarse a la página de discusión. Esto se puede hacer presionando uno de los tres botones de tipo; `Elogio`, `Sugerencia` o `Problema`.
 
-`Elogio` se usa para elogiar y animar. `Sugerencia` se usa para publicaciones que no están directamente en conflicto con ninguna regla. `Problema` se usa para publicaciones que están en conflicto directo con los [Criterios de clasificación](/wiki/Ranking_criteria), o que se consideran intersubjetivamente incorrectas. Una vez que se presiona un botón, el modeo se enviará a la página de discusión.
+`Elogio` se usa para elogiar y animar. `Sugerencia` se usa para publicaciones que no están directamente en conflicto con ninguna regla. `Problema` se usa para publicaciones que están en conflicto directo con los [criterios de clasificación](/wiki/Ranking_criteria), o que se consideran intersubjetivamente incorrectas. Una vez que se presiona un botón, el modeo se enviará a la página de discusión.
 
 Si publica en la pestaña `Línea de tiempo`, debe incluir una marca de tiempo en su publicación. Si su marca de tiempo está cerca de otro modeo, deberá confirmar que no aborda el problema que está enviando actualmente. **¡Revisa cada publicación antes de marcar la casilla!** Puede ser beneficioso `Anclar` el campo de modeo mientras se comprueban otros problemas. Habilitar el anclaje permitirá que el campo de envío se desplace contigo.
 
@@ -135,7 +135,7 @@ Si publica en la pestaña `Línea de tiempo`, debe incluir una marca de tiempo e
 
 Las discusiones son donde se colocan las publicaciones del [campo de envío](#campo-de-envío) una vez enviadas. Los usuarios que visiten una página de discusión pueden ver las publicaciones realizadas por todos los demás usuarios y podrán participar en la discusión sobre las publicaciones. Esto se hace haciendo clic en los botones `Responder` o `Contestar` debajo de una publicación y escriba una respuesta. Después de terminar una respuesta, al presionar `Enter` o hacer clic en `Responder` se enviará a la discusión.
 
-El creador del mapa y los autores de las publicaciones de modeo tienen la capacidad de cerrar problemas con el botón `Marcar como resuelto`. Esto marca que el problema se ha tratado con otros usuarios y lo elimina de la [opción de clasificación](#opciones-de-clasificación) `Pendiente`. Cualquier usuario puede volver a abrir publicaciones de modeo agregando más respuestas a una publicación y haciendo clic en `Responder y reabrir`. Esto se usa cuando los modders se topan con problemas cerrados que no se han solucionado por completo, o cuando un tema necesita más discusión.
+El creador del beatmap y los autores de las publicaciones de modeo tienen la capacidad de cerrar problemas con el botón `Marcar como resuelto`. Esto marca que el problema se ha tratado con otros usuarios y lo elimina de la [opción de clasificación](#opciones-de-clasificación) `Pendiente`. Cualquier usuario puede volver a abrir publicaciones de modeo agregando más respuestas a una publicación y haciendo clic en `Responder y reabrir`. Esto se usa cuando los modders se topan con problemas cerrados que no se han solucionado por completo, o cuando un tema necesita más discusión.
 
 ### Clasificación de discusiones
 
@@ -151,7 +151,7 @@ La línea de tiempo a la izquierda de una discusión muestra la marca de tiempo 
 
 ### Etiquetas
 
-Las etiquetas muestran [roles importantes](/wiki/People/osu!_team) debajo del nombre de un usuario. Solo se muestran los roles relevantes para la discusión del mapa. Estos incluyen miembros de `MAPPER`, `BN`, `NAT`, `GMT` y `DEV` que tienen más opciones que un usuario normal que mira una página de discusión.
+Las etiquetas muestran [roles importantes](/wiki/People/osu!_team) debajo del nombre de un usuario. Solo se muestran los roles relevantes para la discusión del beatmap. Estos incluyen miembros de `MAPPER`, `BN`, `NAT`, `GMT` y `DEV` que tienen más opciones que un usuario normal que mira una página de discusión.
 
 ### Herramientas de formato
 

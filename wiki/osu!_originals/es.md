@@ -2,7 +2,7 @@
 
 Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
 
-Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines) para obtener más información.
+Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licenciamiento de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulta las [directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines) para obtener más información.
 
 ## Lista de osu! originals
 
@@ -161,6 +161,16 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Gran final HD3 |
 | [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
 
+#### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2023](/wiki/Tournaments/OWC/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | Dieciseisavos de final HD1 |
+| [Down - Kizan](https://www.youtube.com/watch?v=DbTE0qJw5Vw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085347) | Desempate de cuartos de final |
+| MYUKKE. - Mach Roger[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | Cuartos de final NM4 |
+| [Sydosys - Wandered](https://soundcloud.com/sydosys/wandered) | [#1](https://osu.ppy.sh/beatmapsets/2085296) | Cuartos de final NM3 |
+| Toromaru - Ebb Tide[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | Octavos de final FM1 |
+
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
 | Canción | Beatmap | Notas |
@@ -243,7 +253,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [Aquellex - Cortex Charger](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Aquellex&query=%22Cortex%20Charger%22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062236) | Gran final RC7 |
-| BilliumMoto - LIGHT LEFT BEHIND[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062241) | Gran final HB3 |
+| [BilliumMoto - LIGHT LEFT BEHIND](https://soundcloud.com/billiummoto/lightleftbehind)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062241) | Gran final HB3 |
 | [Camellia - Parallel Universe Shifter](https://www.youtube.com/watch?v=BZy_c83SQck)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2062263) | Desempate de la gran final |
 | [Kommisar - Clover](https://soundcloud.com/kommisar/osumania-4k-world-cup-finals-original-clover)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2058816) | Final LN4 |
 | LV.4 feat. Chiaki Iwasaki - B.O.L.[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2055265) | Semifinales RC3 |
@@ -305,6 +315,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [Sparxe vs. takehirotei - Cosmic Fragmentation](https://soundcloud.com/sparxenic/sparxe-vs-takehirotei-cosmic-fragmentation) | [#1](https://osu.ppy.sh/beatmapsets/2027811) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/osu.png) Aim Cup 3
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Sydosys - VANISH](https://soundcloud.com/sydosys/vanish) | [#1](https://osu.ppy.sh/beatmapsets/2066413) | Desempate de la gran final |
+
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) AMG 2022 x #RHYTHMGAMES CFC osu! & osu!catch tournament
 
 | Canción | Beatmap | Notas |
@@ -328,6 +344,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/osu.png) Battle of the Box 2023: Trouble in Boxville
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [ryo (supercell) feat. Hatsune Miku - Kocchi Muite Baby (Sydosys remix)](https://soundcloud.com/sydosys/ryo-supercell-feat-hatsune-miku-kocchi-muite-baby-sydosys-remix) | [#1](https://osu.ppy.sh/beatmapsets/1968676) | Gran final HD3 |
 
 #### ![](/wiki/shared/mode/taiko.png) [cavoe's osu! event's Global Taiko Showdown 2023](/wiki/Tournaments/GTS/COEGTS_2023)
 
@@ -623,6 +645,15 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [takehirotei as "Infinite Limit" - C:// YOU NEX-TIME](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time) | [#1](https://osu.ppy.sh/beatmapsets/2028305) | Desempate de la gran final |
 | [takehirotei - See you next time!](https://soundcloud.com/takehirotei/see-you-next-time) |  | Canción de los créditos |
 
+#### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| dMinor117 & ShirinNeko - d Minor Sonatine (Insomnia) | [#1](https://osu.ppy.sh/beatmapsets/2019496) | Eliminatorias 2 RC5 |
+| Laxeno57 - Kaleido | [#1](https://osu.ppy.sh/beatmapsets/2043910) | Desempate de la gran final |
+| [SAMString - Celestial Solace](https://soundcloud.com/samstring/celestial-solace)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2031765) | Cuartos de final HB2 |
+| [Sydosys - she grand on my finals till i hb3](https://soundcloud.com/sydosys/she-grand-on-my-finals-till-i-hb3) | [#1](https://osu.ppy.sh/beatmapsets/2043993) | Gran final HB3 |
+
 #### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysia Tournament 3](/wiki/Tournaments/OMMT/3)
 
 | Canción | Beatmap | Notas |
@@ -653,6 +684,18 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/taiko.png) osu! Philippines Nationals 2023 - osu!taiko
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Juwubi - Prima Luce ~ The Last Light of Revelation ~](https://soundcloud.com/juwubimusic/phnt-2023-tiebreaker-prima-luce-the-last-light-of-revelation) | [#1](https://osu.ppy.sh/beatmapsets/2056626) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2023 - osu!mania 4K/7K
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [HowToPlayLN - Chebyshev's Theorem](https://howtoplayln.bandcamp.com/track/chebyshevs-theorem) | [#1](https://osu.ppy.sh/beatmapsets/2020117) | Gran final RC7 (7K) |
 
 #### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup 2022
 
@@ -739,6 +782,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Desempate de la gran final |
 | [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Desempate de la final |
 
+#### ![](/wiki/shared/mode/osu.png) Scarlet's Touhou Tournament 3rd Season
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| nominomu - solar sect of nm2 ~ nuclear notelock | [#1](https://osu.ppy.sh/beatmapsets/2039737) | Octavos de final NM2 |
+
 #### ![](/wiki/shared/mode/osu.png) Spring Flower Scramble: Wisteria
 
 | Canción | Beatmap | Notas |
@@ -782,7 +831,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Sydosys - ArchangeL](https://soundcloud.com/sydosys/archangel) | [#1](https://osu.ppy.sh/beatmapsets/2023712) | Desempate de la final |
 | Tatsh - IMAGE REBORN -DIVINITY- | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Desempate 1v1 de Battle Royale |
 
-#### ![](/wiki/shared/mode/mania.png) Vietnamese Nationals Mania Championship 2023 - Oblitus Requiem
+#### ![](/wiki/shared/mode/mania.png) Vietnamese National Mania Championship 2023 - Oblitus Requiem
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
@@ -912,6 +961,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Sparxe - RNG (Random Noise Generation)](https://sparxe.bandcamp.com/track/rng-random-noise-generation) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3141876) |
 | [Sparxe - Suiji-San](https://sparxe.bandcamp.com/track/suiji-san) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3154702) |
 | [Sparxe - Transmission Event Alpha](https://sparxe.bandcamp.com/track/transmission-event) | [#1](https://osu.ppy.sh/beatmapsets/1530098#taiko/3129680) |
+| [Sydosys as "[LS]Ham" - Apollyon](https://soundcloud.com/sydosys/sydosys-as-lsham-apollyon) | [#1](https://osu.ppy.sh/beatmapsets/1975358) |
 | Syrsa - Desolated | [#1](https://osu.ppy.sh/beatmapsets/6615) |
 | Syrsa - Mad Machine | [#1](https://osu.ppy.sh/beatmapsets/6610) |
 | [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) |
