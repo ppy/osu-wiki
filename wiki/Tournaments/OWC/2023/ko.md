@@ -52,7 +52,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 ## 링크
 
 - [정보 스프레드시트](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E?rm=minimal)
-- [라운드별 통계 스프레드시트](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U)
+- [주간 통계 스프레드시트](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1823846)
 - [실시간 방송](https://www.twitch.tv/osulive)
 - [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
@@ -553,10 +553,10 @@ Sunday, 5 November 2023:
    - 어떠한 경우에도 기한을 넘긴 일정 변경 요청은 허용되지 않습니다.
 6. 캡틴은 팀이 가능한지에 대해 확인해야 할 책임이 있습니다.
 
-## Notes
+## 노트
 
-[^losers-bracket]: 패자조 경기입니다
+[^losers-bracket]: 패자조 경기
 [^potential-match]: 최종 상대는 이전 패자조 경기 결과에 따라 달라지는 잠재적인 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
-[^winners-bracket]: 승자조 경기입니다
+[^winners-bracket]: 승자조 경기입
