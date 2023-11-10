@@ -1,8 +1,8 @@
 # Technical Support Team
 
-*For a team that administers accounts, see: [Account support team](/wiki/People/Account_support_team)*
+*Not to be confused with [Account support team](/wiki/People/Account_support_team).*
 
-The **Technical Support Team**, also known as **Support Team Redux**, are members of the osu! staff whom are focused at forum moderation on several subforums: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Tournaments](https://osu.ppy.sh/community/forums/55) and [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), and [Help](https://osu.ppy.sh/community/forums/5).
+The **Technical Support Team**  (formerly *Support Team*, also known as *Support Team Redux*), are osu! staff members focused on forum moderation on several subforums: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Tournaments](https://osu.ppy.sh/community/forums/55) and [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), and [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Roles and responsibilities
 
@@ -11,7 +11,7 @@ The Technical Support Team is responsible for:
 1. Testing and/or confirming bug reports to let the developers know and for them to resolve.
 2. Organising threads at [Feature Requests](https://osu.ppy.sh/community/forums/4) and [Help](https://osu.ppy.sh/community/forums/5), marking them as *Resolved*, *Confirmed*, *Invalid*, *Duplicate* and/or *Added*.
 
-If someone needs any assistance on the said subforums, members of this team are available to help.
+If someone needs any assistance in the aforementioned subforums, members of this team are available to help.
 
 ## Team members
 
