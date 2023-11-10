@@ -1,8 +1,5 @@
 ---
 layout: main_page
-no_native_review: true
-outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
-outdated_translation: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -55,16 +52,16 @@ outdated_translation: true
 
 元件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [節拍劃分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [間隔控制](/wiki/Client/Beatmap_editor/Distance_snap) • [選單](/wiki/Client/Beatmap_editor/Menu) • [Storyboard 負載](/wiki/Client/Beatmap_editor/SB_load) • [時間軸](/wiki/Client/Beatmap_editor/Timelines)
 
-操作：[製譜](/wiki/Beatmapping) • [製譜技巧](/wiki/Beatmapping/Mapping_techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding) • [製作 Skin](/wiki/Skinning)
+操作：[製圖](/wiki/Beatmapping) • [製圖技巧](/wiki/Beatmapping/Mapping_techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding) • [製作 Skin](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # 提交圖譜及審核
 
-審核是指圖譜取得排行榜的過程，可使圖譜更受歡迎並獲得認可。了解所需條件以及如何提高您通過的機率，還有品質控管及審核流程的程序。
+審核是指圖譜取得排名的過程，可使圖譜更受歡迎並獲得認可。了解所需條件以及如何提高您通過的機率，還有品質控管及審核流程的程序。
 
-[提交](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [審核流程](/wiki/Beatmap_ranking_procedure) • [製譜者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交](/wiki/Beatmapping/Beatmap_submission) • [摸圖](/wiki/Modding) • [審核流程](/wiki/Beatmap_ranking_procedure) • [製圖者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [審核標準](/wiki/Ranking_criteria)：[osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
@@ -75,9 +72,9 @@ outdated_translation: true
 
 閱讀有關維護 osu! 及其社群的安全的程序及規定。從音樂授權和媒體規章，到聊天和論壇規則。
 
-[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Rules/Contributor_code_of_conduct) • [Modding 及製譜的行為準則](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Rules/Contributor_code_of_conduct) • [摸圖及製圖的行為準則](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-媒體規章：[內容使用準則](/wiki/Rules/Content_usage_guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_content) • [歌曲內容規範](/wiki/Rules/Song_content_rules) • [視覺內容考量](/wiki/Rules/Visual_content_considerations)
+媒體規章：[內容使用準則](/wiki/Rules/Content_usage_guidelines) • [內容投票流程](/wiki/Rules/Content_voting_process) • [兒少不宜內容](/wiki/Rules/Explicit_content) • [歌曲內容規範](/wiki/Rules/Song_content_rules) • [視覺內容考量](/wiki/Rules/Visual_content_considerations)
 
 [法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_licensing)
 
@@ -101,9 +98,11 @@ outdated_translation: true
 
 社交互動是推動世界各地的 osu! 玩家的事情之一。探索各類活動及競賽，與他人交流，或是協助籌辦活動！
 
-[錦標賽](/wiki/Tournaments) • [圖譜聚光燈](/wiki/Beatmap_Spotlights) • [製譜競賽](/wiki/Contests) • [社群師徒計畫](/wiki/Community/Community_Mentorship_Program)
+平台：[論壇](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord 伺服器](/wiki/Community/Discord_servers)
 
-[專案](/wiki/Community/Projects): [精選藝術家](/wiki/People/Featured_Artists) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[比賽](/wiki/Tournaments) • [圖譜聚光燈](/wiki/Beatmap_Spotlights) • [製圖競賽](/wiki/Contests) • [社群師徒計畫](/wiki/Community/Community_Mentorship_Program)
+
+[專案](/wiki/Community/Projects) • [製圖者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,16 +112,16 @@ outdated_translation: true
 # [成員](/wiki/People)
 
 有了許多玩家協助開發、維護、及社群管理，osu! 才得以實現，他們的努力、時間及貢獻使遊戲能夠成長茁壯。
-    
-[團隊](/wiki/People/osu!_team)：[開發團隊](/wiki/People/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/Global_Moderation_Team) • [支援團隊](/wiki/People/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/osu!_Alumni) • [Project Loved 團隊](/wiki/People/Project_Loved_Team)
 
-[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)• [錦標賽委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee)
+[osu! 團隊](/wiki/People/osu!_team) • [開發團隊](/wiki/People/Developers) • [特邀藝術家](/wiki/People/Featured_Artists) • [管理團隊 (Global Moderation Team)](/wiki/People/Global_Moderation_Team) • [支援團隊](/wiki/People/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/osu!_Alumni) • [Project Loved 團隊](/wiki/People/Project_Loved_Team) • [圖譜聚光燈策劃者](/wiki/People/Beatmap_Spotlight_Curators)
+
+[社群貢獻者](/wiki/People/Community_Contributors) • [菁英提名者](/wiki/People/Elite_Nominators) • [玩家群組](/wiki/People/User_group) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles) • [百夫長](/wiki/People/Centurions) • [全通者](/wiki/People/Completionists) • [賽事委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee) • [osu! wiki 維護者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # 開發者
-    
+
 透過其他應用程式或媒體與 osu! 互動，或協助 osu! 進一步發展。
 
 [API](/wiki/osu!api) • [機器人帳號](/wiki/Bot_account) • [品牌辨識度準則](/wiki/Brand_identity_guidelines) • [osu! Discord 伺服器](/wiki/Community/osu!_Discord_server)
@@ -133,8 +132,8 @@ outdated_translation: true
 # Wiki 及描述頁
 
 如同這裡幾乎所有的一切，osu! wiki 也是由志願者撰寫並維護的。歡迎在 [osu-wiki GitHub 儲存庫](https://github.com/ppy/osu-wiki)提出建議、回報問題、甚至自行撰寫文章。
-    
-[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
+
+[osu! 歷史](/wiki/History_of_osu!) • [線上排名歷史](/wiki/History_of_osu!/Online_rankings) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製圖及 摸圖時間線](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
 
 [網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格標準](/wiki/Article_styling_criteria) • [新聞稿風格標準](/wiki/News_styling_criteria)
 

@@ -12,14 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          sparse-checkout: '.'
+          # meta/remark contains linked packages
+          sparse-checkout: meta/remark
 
       - name: set up Node.js
         id: setup-node
         uses: actions/setup-node@v3
         with:
           cache: npm
-          node-version: 16
+          node-version: 20
 
       - name: check node_modules cache
         id: cache-node-modules
