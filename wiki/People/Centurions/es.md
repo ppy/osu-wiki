@@ -1,6 +1,6 @@
 # Centuriones
 
-Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#clasificados). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
+Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#ranked). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
 
 - Los [paquetes de beatmaps](/wiki/Beatmap/Packs) de centuriones: por cada 100 beatmaps clasificados, el mapper tendrá la oportunidad de seleccionar 10 beatmaps para incluirlos en un paquete de beatmaps, que estará disponible para descargar en la [categoría de temas](https://osu.ppy.sh/beatmaps/packs?type=theme) del [listado de paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs).
 - Una [insignia de perfil](/wiki/Community/Profile_badge) de centurión especial.

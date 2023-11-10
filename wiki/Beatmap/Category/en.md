@@ -8,7 +8,7 @@
 
 The graveyard is a place where beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host) reside. These beatmaps do not have leaderboards, but they can still be downloaded and played, and they continue to [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Client/Interface#song-select).
 
-A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/osu!supporter#increased-limits), but reviving it requires a free pending slot.
+A beatmap is moved to the graveyard from [Work in Progress and Pending](#wip-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#wip-and-pending)) by updating it via the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/osu!supporter#increased-limits), but reviving it requires a free pending slot.
 
 ### Work in Progress and Pending {id=wip-and-pending}
 
@@ -48,4 +48,4 @@ The [Qualified](#qualified) category was introduced in August 2014 during [Restr
 
 ### Unranked beatmaps statistics
 
-After [7 August 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmaps from [Graveyard](#graveyard), as well as [Work in Progress and Pending](#work-in-progress-and-pending), started contributing to users' play count and total score. They also received play statistics on their individual pages (play count, success rate, and points of failure), which was only shown before for beatmaps from [Qualified](#qualified) and [Ranked](#ranked).
+After [7 August 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmaps from [Graveyard](#graveyard), as well as [Work in Progress and Pending](#wip-and-pending), started contributing to users' play count and total score. They also received play statistics on their individual pages (play count, success rate, and points of failure), which was only shown before for beatmaps from [Qualified](#qualified) and [Ranked](#ranked).

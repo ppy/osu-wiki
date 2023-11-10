@@ -6,7 +6,7 @@ Ce système a été mis en place en réponse au changement de fonction de la [Qu
 
 ## Permissions
 
-- Les BN Tier 1 pouvaient placer la première nomination d'une beatmap (ou la deuxième nomination pour les beatmaps [approuvées](/wiki/Beatmap/Category#approuvée)).
+- Les BN Tier 1 pouvaient placer la première nomination d'une beatmap (ou la deuxième nomination pour les beatmaps [approuvées](/wiki/Beatmap/Category#approved)).
 - Les BN Tier 2 pouvaient placer la première, deuxième ou troisième nomination d'une beatmap.
 
 ## Test des Beatmap Nominator Tiers
