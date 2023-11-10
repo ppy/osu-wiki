@@ -8,7 +8,7 @@
 
 Graveyard merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah lama diabaikan oleh [pembuatnya](/wiki/Beatmap/Beatmap_host). Beatmap-beatmap yang berstatus Graveyard tidak dilengkapi dengan papan peringkat *online* dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Adapun beatmap-beatmap ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) yang dapat dilihat pada pojok kiri atas layar song selection.
 
-Suatu beatmap yang berstatus [Work in Progress dan Pending](#work-in-progress-dan-pending) akan secara otomatis berpindah ke dalam graveyard apabila beatmap yang bersangkutan sudah tidak diperbarui selama 4 minggu. Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending atau Work in Progress](#work-in-progress-dan-pending) apabila beatmap tersebut diperbarui melalui [*beatmap submission system*](/wiki/Beatmapping/Beatmap_submission).
+Suatu beatmap yang berstatus [Work in Progress dan Pending](#wip-and-pending) akan secara otomatis berpindah ke dalam graveyard apabila beatmap yang bersangkutan sudah tidak diperbarui selama 4 minggu. Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending atau Work in Progress](#wip-and-pending) apabila beatmap tersebut diperbarui melalui [*beatmap submission system*](/wiki/Beatmapping/Beatmap_submission).
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
@@ -48,4 +48,4 @@ Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2
 
 ### Statistik beatmap unranked
 
-Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap-beatmap yang berstatus [Graveyard](#graveyard) serta [Work in Progress dan Pending](#work-in-progress-dan-pending) juga berkontribusi terhadap jumlah permainan dan skor total para pemain. Beatmap-beatmap yang berada pada kedua kategori tersebut juga kini memiliki statistik permainannya tersendiri (yang meliputi antara lain jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) yang sebelumnya hanya dapat dilihat pada beatmap-beatmap [Qualified](#qualified) dan [Ranked](#ranked).
+Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap-beatmap yang berstatus [Graveyard](#graveyard) serta [Work in Progress dan Pending](#wip-and-pending) juga berkontribusi terhadap jumlah permainan dan skor total para pemain. Beatmap-beatmap yang berada pada kedua kategori tersebut juga kini memiliki statistik permainannya tersendiri (yang meliputi antara lain jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) yang sebelumnya hanya dapat dilihat pada beatmap-beatmap [Qualified](#qualified) dan [Ranked](#ranked).
