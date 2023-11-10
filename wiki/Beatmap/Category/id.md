@@ -1,3 +1,8 @@
+---
+outdated_since: 279e58c5f7d3585616b579917593f4951bc62851
+outdated_translation: true
+---
+
 # Kategori beatmap
 
 [Beatmap-beatmap](/wiki/Beatmap) yang diunggah ke situs web osu! terbagi menjadi beberapa kategori berdasarkan waktu aktivitas terbarunya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.

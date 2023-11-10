@@ -1,3 +1,8 @@
+---
+outdated_since: 279e58c5f7d3585616b579917593f4951bc62851
+outdated_translation: true
+---
+
 # 谱面分类
 
 已提交的[谱面](/wiki/Beatmap)会根据谱面最近的活动、[提名](/wiki/Beatmap_ranking_procedure#过审)状态和受欢迎程度分为几类。

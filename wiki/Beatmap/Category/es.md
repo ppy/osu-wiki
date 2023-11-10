@@ -1,3 +1,8 @@
+---
+outdated_since: 279e58c5f7d3585616b579917593f4951bc62851
+outdated_translation: true
+---
+
 # Categorías de beatmaps
 
 Los [beatmaps](/wiki/Beatmap) enviados en línea se dividen en categorías según su actividad reciente, estado de [nominación](/wiki/Beatmap_ranking_procedure#calificación) y popularidad.

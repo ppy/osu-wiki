@@ -1,3 +1,8 @@
+---
+outdated_since: 279e58c5f7d3585616b579917593f4951bc62851
+outdated_translation: true
+---
+
 # หมวดหมู่บีทแมพ
 
 [บีทแมพ](/wiki/Beatmap) ที่ส่งทางออนไลน์จะแบ่งออกเป็นหมวดหมู่ตามกิจกรรมล่าสุด [การเสนอชื่อ](/wiki/Beatmap_ranking_procedure#qualification) สถานะ และความนิยม

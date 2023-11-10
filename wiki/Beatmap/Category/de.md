@@ -1,3 +1,8 @@
+---
+outdated_since: 279e58c5f7d3585616b579917593f4951bc62851
+outdated_translation: true
+---
+
 # Beatmap-Kategorie
 
 Hochgeladene [Beatmaps](/wiki/Beatmap) werden, abhängig von kürzlicher Aktivität, [Nominierungs-Status](/wiki/Beatmap_ranking_procedure#qualification) und Beliebtheit, in Kategorien (häufig auch *Status* genannt) eingeteilt.
