@@ -4,29 +4,29 @@ Los [beatmaps](/wiki/Beatmap) enviados en línea se dividen en categorías segú
 
 ## Categorias presentes
 
-### Abandonados
+### Abandonados {id=graveyard}
 
 El cementerio es un lugar donde residen los beatmaps abandonados por sus [anfitriones](/wiki/Beatmap/Beatmap_host). Estos beatmaps no tienen tablas de clasificación, pero aún se pueden descargar y jugar, y continúan [contribuyendo a las estadísticas de juego](#estadísticas-de-beatmaps-no-clasificados). Usan el icono del signo de interrogación (![](/wiki/shared/status/graveyard.png)) en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 
 Un beatmap se mueve al cementerio desde [trabajo en progreso y pendientes](#trabajo-en-progreso-y-pendientes) automáticamente una vez que no se ha actualizado durante 4 semanas. El autor puede revivir el beatmap (es decir, devolverlo a [pendientes](#trabajo-en-progreso-y-pendientes)) actualizándolo a través del [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission). Un beatmap en el cementerio no cuenta para el [límite total de subida](/wiki/osu!supporter#limites-incrementados) de un mapper, pero revivirlo requiere un espacio libre pendiente.
 
-### Trabajo en progreso y pendientes
+### Trabajo en progreso y pendientes {id=wip-and-pending}
 
 Trabajo en progreso (comúnmente inicializado como *WIP*) y pendientes son las dos categorías en las que se colocan los beatmaps en el envío inicial. Los beatmaps en estas categorías pueden pasar a la categoría [calificados](#calificados) tras la [nominación](/wiki/Beatmap_ranking_procedure#nominations) de al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Esto generalmente incluye una gran cantidad de comentarios de los [modders](/wiki/Modding/Modder) a través de [modding](/wiki/Modding). Los beatmaps en trabajo en progreso y pendientes no tienen tablas de clasificación, pero [contribuyen a las estadísticas del juego](#estadísticas-de-beatmaps-no-clasificados). Usan el icono del signo de interrogación (![](/wiki/shared/status/pending.png)) en la pantalla de selección de canciones.
 
 Los beatmaps inactivos que han estado en esta categoría durante 4 semanas se mueven automáticamente a la categoría [abandonados](#abandonados).
 
-### Calificados
+### Calificados {id=qualified}
 
 Calificados es la última etapa del [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure). Estos beatmaps han sido nominados por al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el beatmap cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). beatmaps puestos en calificados ingresan a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente será [clasificado](#clasificados) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones).
 
 Los beatmaps calificados tienen tablas de clasificación, pero no otorgan [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán cuando salga de calificados. Usan el icono de visto (![](/wiki/shared/status/qualified.png)) en la pantalla de selección de canciones.
 
-### Clasificados
+### Clasificados {id=ranked}
 
 Los beatmaps clasificados están respaldados como contenido oficial, en el sentido de que han alcanzado o superado los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Permiten a los jugadores competir en tablas de clasificación y ganar [puntos de rendimiento](/wiki/Performance_points) al establecer puntuaciones. Una vez que un beatmap ha alcanzado el estado de clasificación, su estado no se puede modificar nuevamente (excepto en casos extraordinarios). Los beatmaps clasificados usan el icono de cheurón doble hacia arriba (![](/wiki/shared/status/ranked.png)) en la pantalla de selección de canciones.
 
-### Amados
+### Amados {id=loved}
 
 *Para conocer la historia de la categoría amados, véase: [Historia de amado](/wiki/History_of_osu!/History_of_Loved)*
 
@@ -34,7 +34,7 @@ Es posible que los beatmaps amados no cumplan con los [criterios de clasificaci�
 
 ## Historia
 
-### Aprobados
+### Aprobados {id=approved}
 
 La categoría de beatmaps aprobados se usó entre 2008 y 2014 para albergar beatmaps que superaban los requisitos de longitud y puntuación máxima en versiones anteriores de los [criterios de clasificación](/wiki/Ranking_criteria), así como beatmaps raros que infringían otras reglas sobre los criterios.
 

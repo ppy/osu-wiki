@@ -14,19 +14,19 @@ Beatmapy można znaleźć na [liście beatmap](https://osu.ppy.sh/beatmapsets) n
 
 Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#oczekujące) oraz [nieaktualizowanych](#nieaktualizowane).
 
-### Rankingowe
+### Rankingowe {id=ranked}
 
 ![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png) Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę.
 
 Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
 
-### Zatwierdzone
+### Zatwierdzone {id=approved}
 
 ![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
 
 Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Beatmap/Drain_time) niż 5 minut (znane także jako [maratony](/wiki/Beatmap/Marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
-### Zakwalifikowane
+### Zakwalifikowane {id=qualified}
 
 ![Znak potwierdzenia](/wiki/shared/status/qualified.png) Na ekranie wyboru piosenek zakwalifikowane beatmapy są oznaczane znakiem potwierdzenia.
 
@@ -40,7 +40,7 @@ Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryter
 
 Podczas tego tygodnia [członkowie zespołu QAT](/wiki/People/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
-### Ulubione społeczności
+### Ulubione społeczności {id=loved}
 
 ![Serce](/wiki/shared/status/loved.png) Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem.
 
@@ -53,7 +53,7 @@ Ten status przyzna beatmapom tabele wyników.
 
 Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społeczności, zobacz wątek [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835) na forum.
 
-### Oczekujące
+### Oczekujące {id=wip-and-pending}
 
 *Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)*
 
@@ -65,7 +65,7 @@ Beatmapy z tej kategorii, które są nieaktywne przez okres 4 tygodni, automatyc
 
 Żadna z oczekujących beatmap nie wpływa na statystyki użytkowników.
 
-### Nieaktualizowane
+### Nieaktualizowane {id=graveyard}
 
 ![Znak zapytania](/wiki/shared/status/graveyard.png) Na ekranie wyboru piosenek nieaktualizowane beatmapy są oznaczane znakiem zapytania.
 
