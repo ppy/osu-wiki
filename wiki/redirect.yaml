@@ -2123,6 +2123,7 @@
 # moved in #10397
 
 "usage_permissions":                         "Rules/Content_usage_permissions"
+"rules/content_usage_guidelines":            "Rules/Content_usage_permissions"
 
 # Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
 "people/osu!monthly_team": "Community/osu!monthly#contributors"
