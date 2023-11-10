@@ -133,8 +133,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | --: | :-- | :-- | :-: | :-: |
 | Germany ::{ flag=DE }:: | ::{ flag=JP }:: Japan | [Nov 11 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T093000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=SE }:: Sweden | [Nov 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T130000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=ID }:: Indonesia | [Nov 11 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T143000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=NO }:: Norway | [Nov 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=ID }:: Indonesia | [Nov 11 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T140000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=NO }:: Norway | [Nov 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Ukraine ::{ flag=UA }:: | ::{ flag=TH }:: Thailand | [Nov 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T160000&p1=1440&p2=367&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Brazil ::{ flag=BR }:: | ::{ flag=SG }:: Singapore | [Nov 11 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T170000&p1=1440&p2=45&p3=236) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Romania ::{ flag=RO }:: | ::{ flag=FR }:: France | [Nov 11 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
@@ -146,13 +146,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Nov 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T100000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=IT }:: Italy | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=248&p3=215) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | [Nov 12 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=SE }:: Sweden | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=195&p3=239) | *TBD* | [^potential-match] |
 | Finland ::{ flag=FI }:: | ::{ flag=SG }:: Singapore | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=101&p3=236) | *TBD* | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=37&p3=108) | *TBD* | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=248&p3=108) | *TBD* | [^potential-match] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | [Nov 12 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=166&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=IT }:: Italy | [Nov 12 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T133000&p1=1440&p2=248&p3=215) | *TBD* | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=HK }:: Hong Kong | [Nov 12 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T140000&p1=1440&p2=195&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Ukraine ::{ flag=UA }:: | ::{ flag=CN }:: China | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=367&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Nov 12 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
