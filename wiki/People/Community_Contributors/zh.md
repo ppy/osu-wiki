@@ -30,9 +30,9 @@
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals)的美术设计 |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](https://osu.ppy.sh/community/forums/topics/55305) 这个最受欢迎的第三方摸图工具 |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 [OWC](/wiki/Tournaments/OWC))）|
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 `#osu` 频道（9000 名以上用户）|
-| ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) |  开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 [OWC](/wiki/Tournaments/OWC) |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 `#osu` 频道（9000 名以上用户） |
+| ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs)以及数年对月度新谱面排名竞赛的管理 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboard)作为艺术和作图动力的发展 |

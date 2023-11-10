@@ -216,7 +216,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Eccezionali contributi allo sviluppo dei punti performance di osu! e ha dato nuova vita alla mod Flashlight |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Eccezionali contributi al progetto osu! wiki |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Eccezionali contributi al progetto osu! wiki |
-| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Eccezionali contributi al supporto tecnico per macOS  |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Eccezionali contributi al supporto tecnico per macOS |
 | ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Eccezionali contributi alla gestione e organizzazione del Progetto Amata |
 | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Eccezionali contributi alla scena mapping di osu! attraverso sviluppo di strumenti |
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Eccezionali contributi alla scena mapping di osu!taiko attraverso sviluppo di strumenti |
