@@ -15,9 +15,9 @@ If someone needs any assistance in the aforementioned subforums, members of this
 
 ## Team members
 
-The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all of the team members.
-
 *Note: All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all of the team members.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
