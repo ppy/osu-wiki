@@ -210,7 +210,7 @@
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | 对 osu!(lazer) 开发的杰出贡献 |
 | ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | 对 osu!(lazer) 和 osu!framework 开发的杰出贡献 |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | 对 osu! 表现分（PP）开发和维护的杰出贡献 |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 对 osu! 表现分（PP）开发的杰出贡献 |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | 对 osu! 表现分（PP）开发的杰出贡献 |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 对 osu! 表现分（PP）开发和振兴 Flashlight Mod 的杰出贡献 |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | 对 osu!wiki 计划的杰出贡献 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 对 osu!wiki 计划的杰出贡献 |

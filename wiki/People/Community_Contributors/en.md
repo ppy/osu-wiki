@@ -33,7 +33,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organising several major official tournaments (including the [OWC](/wiki/Tournaments/OWC)). |
-| ::{ flag=US }:: [NaomiMinette](https://osu.ppy.sh/users/120265) | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
@@ -212,7 +212,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Outstanding contribution to the development of osu!(lazer) |
 | ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Outstanding contribution to osu! performance points development and maintenance |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Outstanding contribution to osu! performance points development |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Outstanding contribution to osu! performance points development |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Outstanding contribution to osu! performance points development and revitalizing the Flashlight mod |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Outstanding contribution to the osu! wiki project |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Outstanding contribution to the osu! wiki project |

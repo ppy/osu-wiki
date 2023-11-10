@@ -212,7 +212,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Eccezionali contributi allo sviluppo di osu!(lazer) |
 | ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Eccezionali contributi allo sviluppo di osu!(lazer) e osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Eccezionali contributi allo sviluppo e mantenimento dei punti performance di osu! |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Eccezionali contributi allo sviluppo dei punti performance di osu! |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Eccezionali contributi allo sviluppo dei punti performance di osu! |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Eccezionali contributi allo sviluppo dei punti performance di osu! e ha dato nuova vita alla mod Flashlight |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Eccezionali contributi al progetto osu! wiki |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Eccezionali contributi al progetto osu! wiki |
