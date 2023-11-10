@@ -565,9 +565,9 @@ This competition has come to an end and resulted in the following podium:
 6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
-   - 9 in Group Stage
-   - 11 in Round of 16 & Quarterfinals
-   - 13 in Semifinals & Finals
+   - 9 in Group Stage.
+   - 11 in Round of 16 & Quarterfinals.
+   - 13 in Semifinals & Finals.
 
 ### Scheduling instructions
 
