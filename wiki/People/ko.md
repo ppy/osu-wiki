@@ -28,7 +28,6 @@
 - [비트맵 어프리시에이션 팀](Beatmap_Appreciation_Team)
 - [언어 감시 부서](Language_Surveillance_Division)
 - [매핑 어시스턴트 팀](Mapping_Assistance_Team)
-- [osu!monthly 팀](osu!monthly_team)
 - [퀄리티 어슈런스 팀](Quality_Assurance_Team)
 
 ## 기타
