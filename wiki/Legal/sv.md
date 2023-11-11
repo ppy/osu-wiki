@@ -6,3 +6,4 @@ Indexsida för alla juridiska artiklar. Dessa länkar finns även i sidfoten lä
 - [osu!-musiklicensiering](Music_licensing)
 - [osu!-sekretesspolicy](Privacy)
 - [osu!-användarvillkor](Terms)
+- [SCTL](SCTL)
