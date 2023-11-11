@@ -25,7 +25,7 @@ The osu!mania community was the first to take a liking to **Solarbear**'s compli
 Play any (or every) difficulty from [the map above](https://osu.ppy.sh/beatmapsets/1149112) hosted by [Pope Gadget](https://osu.ppy.sh/users/2288341)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Stick%20Your%20Ins%20Out.mp3">
 </audio>
 
 ### Solarbear - See You Later, Emaciator!
@@ -33,15 +33,15 @@ Play any (or every) difficulty from [the map above](https://osu.ppy.sh/beatmapse
 If you're into 7K, [this map](https://osu.ppy.sh/beatmapsets/513563) by [lenpai](https://osu.ppy.sh/users/5314573) is for you.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20See%20You%20Later%2C%20Emaciator!.mp3">
 </audio>
 
 ### Solarbear - Pornogoblin (feat. Dr!p)
 
-And if you're more in the mapping mood, give it a stab with [this pre-timed .osz](LINK)!
+And if you're more in the mapping mood, give it a stab with [this pre-timed .osz](https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Pornogoblin%20(feat.%20Dr!p).osz)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Pornogoblin%20(feat.%20Dr!p).mp3">
 </audio>
 
 ---
