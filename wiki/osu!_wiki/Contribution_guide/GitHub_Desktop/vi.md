@@ -46,7 +46,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 
 1. Trong thư mục mà bạn vừa nhân bản repo, điều hướng tới tệp bạn muốn sửa. Bài viết được sắp xếp với tên thư mục là tên của các bài viết, còn các tệp `.md` là các bản dịch.
 2. Sau khi tìm được tệp, mở nó bằng trình soạn thảo văn bản mà bạn thích.
-3. Giờ bạn có thể thực hiện các thay đổi. Hãy bỏ một chút thời gian để học qua phần [tự kiểm tra](/wiki/osu!_wiki/Contribution_guide#tự-kiểm-tra).
+3. Giờ bạn có thể thực hiện các thay đổi. Hãy bỏ một chút thời gian để học qua phần [tự kiểm tra](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Đi tới [Committing và pushing](#committing-và-pushing).
 
 ### Di chuyển các tệp có sẵn
@@ -56,7 +56,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 
 ### Tạo tệp mới
 
-*Chú ý: Nếu bạn định tạo tệp bài viết bằng Windows Explorer, hãy đảm bảo lựa chọn `File name extensions` đang được bật.* Xem [Đuôi tên tệp phổ biến trong Windows](https://support.microsoft.com/vi-vn/windows/%C4%91u%C3%B4i-t%C3%AAn-t%E1%BB%87p-ph%E1%BB%95-bi%E1%BA%BFn-trong-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) để biết thêm thông tin.
+*Chú ý: Nếu bạn định tạo tệp bài viết bằng Windows Explorer, hãy đảm bảo lựa chọn `File name extensions` đang được bật.* Xem [Đuôi tên tệp phổ biến trong Windows](https://support.microsoft.com/vi-vn/windows/da4a4430-8e76-89c5-59f7-1cdbbc75cb01) để biết thêm thông tin.
 
 1. Sử dụng Windows Explorer, phần mềm chỉnh sửa hình ảnh, và/hoặc trình soạn thảo văn bản mà bạn ưa thích để tạo tệp mới. Nếu bạn tạo bài viết hoặc bản dịch mới, đổi tên tệp tuân theo [Ngôn ngữ trong Tiêu chuẩn tạo kiểu bài viết](/wiki/Article_styling_criteria/Formatting#locales).
 2. Đi tới [Committing và pushing](#committing-và-pushing).
@@ -91,4 +91,4 @@ Ví dụ, như ở hình trên, [pippi](/wiki/Mascots#pippi) đã thêm một t�
 
   ![](img/github-desktop-push.jpg)
 
-9. Đi tới [Đánh giá](/wiki/osu!_wiki/Contribution_guide#đánh-giá) để biết thêm các thông tin cuối cùng về việc tạo pull request của bạn.
+9. Đi tới [Đánh giá](/wiki/osu!_wiki/Contribution_guide#review) để biết thêm các thông tin cuối cùng về việc tạo pull request của bạn.

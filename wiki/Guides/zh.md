@@ -7,7 +7,7 @@
 *主条目：[作图](/wiki/Beatmapping)*
 
 - [音频编辑指南](Audio_Editing)
-- [更改标题文字](/wiki/Beatmap/Title_text#changing-title-text)
+- [更改标题文字](/wiki/Beatmap/Title_text#修改标题文本)
 - [压缩文件](Compressing_files)
 - [自定义打击音效库](Custom_Hitsound_Library)
 - [自定义音效名称](Custom_Sample_Overrides)

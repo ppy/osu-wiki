@@ -23,7 +23,7 @@ Ten en cuenta que en la versión estable de osu!, las ventanas de golpeo en osu!
 
 Por ejemplo, la ventana de golpeo de un Great en osu!taiko en OD 5 es de ±34.5 ms, en lugar de los ±35 ms que da la tabla. En osu!mania, la ventana de golpeo de un MAX es de ±16.5 ms, no de ±16 ms como sugiere la tabla.
 
-Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#información-del-mapa), que siempre mostrará los valores correctos.
+Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#información-del-beatmap), que siempre mostrará los valores correctos.
 
 ### osu!
 
