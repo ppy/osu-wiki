@@ -7,7 +7,6 @@ tags:
   - 休息
   - 休息时间
   - 休息时段
-  ---
 outdated_since: 1d2f2cfbf205d5460130366d553a129dc640fdf1
 outdated_translation: true
 ---

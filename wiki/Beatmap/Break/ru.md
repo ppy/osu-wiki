@@ -7,7 +7,6 @@ tags:
   - отдых
   - время отдыха
   - перерыв
-  ---
 outdated_since: 1d2f2cfbf205d5460130366d553a129dc640fdf1
 outdated_translation: true
 ---
