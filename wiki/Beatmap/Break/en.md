@@ -12,4 +12,6 @@ tags:
 
 In all game modes except osu!mania, if there is enough time during a break, a passing or failing graphic and sound may appear to indicate if a player is doing well or not, together with current [grade](/wiki/Gameplay/Grade) at the top right corner of the screen. Additionally, breaks trigger letterboxes on background if the corresponding [beatmap setting](/wiki/Client/Beatmap_editor/Song_setup) is enabled.
 
-![A screenshot of a break section pass](img/Section_pass.jpg "Section pass") ![A screenshot of a break section fail](img/Section_fail.jpg "Section fail")
+![A screenshot of a break section pass](img/Section_pass.jpg "Section pass")
+
+![A screenshot of a break section fail](img/Section_fail.jpg "Section fail")
