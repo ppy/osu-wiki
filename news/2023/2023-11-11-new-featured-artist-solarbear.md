@@ -8,7 +8,7 @@ date: 2023-11-11 18:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/388/header.jpg)
 
-Mishmashing classic gameboy samples with genre elements ranging from electro house to metal alongside a ton of variable time signatures, **Solarbear** shows just how exotic chiptune music can be.
+Mishmashing classic Game Boy samples with genre elements ranging from electro house to metal alongside a ton of variable time signatures, **Solarbear** shows just how exotic chiptune music can be.
 
 **5** tracks shined enough to make their way to [**Solarbear**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/388). Pick them up while they're hot (which should be a few million years, give or take).
 
