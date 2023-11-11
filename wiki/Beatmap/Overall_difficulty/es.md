@@ -39,7 +39,7 @@ Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre l
 
 | Puntuación | Ventana de golpeo (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, de lo contrario `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, de lo contrario `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` si OD < 5, `80 + (50 - 80) * (OD - 5) / 5` si OD > 5, de lo contrario `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` si OD < 5, `95 + (70 - 95) * (OD - 5) / 5` si OD > 5, de lo contrario `95` |
 
