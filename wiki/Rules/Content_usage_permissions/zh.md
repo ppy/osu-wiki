@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 866f5bfcb2e396728fd9b942bec87327b1221283
+---
+
 # 内容使用规范
 
 作为谱师，你应当从你所使用的音频、图片、游戏内容等资源的版权持有者处取得许可。未经许可时，你的谱面随时有可能被移除，osu! 也可根据 [osu! 版权政策](/wiki/Legal/Copyright) 拒绝你的提交。
