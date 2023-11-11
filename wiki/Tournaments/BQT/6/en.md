@@ -103,6 +103,37 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here!](https://drive.google.com/drive/folders/1HjwNrVrn5PuLvxv0lVBqlrERBLToiW_k)**
+
+- NoMod
+  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2689519)
+  2. [Umeri - paranoia (Speed Up Ver.) ([ -Elaina- ]) \[Mistrustful\]](https://osu.ppy.sh/beatmapsets/1760473#osu/3603190)
+  3. [ZAQ - Dance In The Game (Airiesu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1817884#osu/3729621)
+  4. [Zekk - Feelsleft0ut (J1_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/3299359)
+  5. [goreshit - Satori De Pon! (-Tynamo) \[Terror\]](https://osu.ppy.sh/beatmapsets/1550807#osu/3169031)
+  6. [Hyadain - Chocobo to, CHOCOBO!! (rollpan) \[Silver\]](https://osu.ppy.sh/beatmapsets/1605183#osu/3277821)
+- Hidden
+  1. [Akatsuki Records - KARMANATIONS (-Rik-) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1283387#osu/2665294)
+  2. [Kairiki bear feat. Hatsune Miku - BUG (sukii) \[Lost Extra\]](https://osu.ppy.sh/beatmapsets/1796464#osu/4058452)
+  3. [ARM (IOSYS) + Brasscapsule - Jazz is Rad (DeviousPanda) \[AncuL's Expert\]](https://osu.ppy.sh/beatmapsets/1306575#osu/2754917)
+- HardRock
+  1. [Alestorm - Shipwrecked (Gordon) \[KIWIES' EXPERT\]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802261)
+  2. [Akatsuki Records - Adieu, to this Lively Graveyard (yaspo) \[KIRBY REMIX DELUXE EDITION\]](https://osu.ppy.sh/beatmapsets/1252820#osu/2603690)
+  3. [maki ligon - Among Us / Eurobeat Remix (Wither) \[Impostor Drift\]](https://osu.ppy.sh/beatmapsets/1381340#osu/2854062)
+- DoubleTime
+  1. [TRUE - DREAM SOLISTER (Kibbleru) \[Insane\]](https://osu.ppy.sh/beatmapsets/359501#osu/804714)
+  2. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
+  3. [Kuroneko (CV: Hanazawa Kana) - Masquerade! (Okoratu) \[Very Hard\]](https://osu.ppy.sh/beatmapsets/1972778#osu/4093572)
+  4. [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) \[Agatsu's Insane\]](https://osu.ppy.sh/beatmapsets/1014716#osu/2242256)
+- FreeMod
+  1. [TUYU - Anoyo-iki no Bus ni Notte Saraba. (SnowNiNo_) \[Flask's Extra\]](https://osu.ppy.sh/beatmapsets/1070357#osu/2329321)
+  2. [IOSYS - Cirno's Perfect Math Class (Louis Cyphre) \[Insane\]](https://osu.ppy.sh/beatmapsets/25739#osu/87171)
+  3. [Enako feat. Pmarusama. - Iden Tei Tei Meltdown (TV Size) (GYGY) \[Gender Dysphoria\]](https://osu.ppy.sh/beatmapsets/1932215#osu/3992108)
+- Tiebreaker
+  1. **[Suzuki Konomi - Redo (LU-I Remix) (Ohwow) \[Re:Mix\]](https://osu.ppy.sh/beatmapsets/1178098#osu/2456930)**
+
 ### Finals
 
 **[Download the mappack here!](https://drive.google.com/drive/folders/1SXumLV7OosSb-x0c9HGGRocB8MMZHUkH?usp=drive_link)**
@@ -268,6 +299,22 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
   2. [Kijibato - w/WWW feat. Hoshimiya Toto (Elcheer) \[Hard\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2855311)
 
 ## Match results
+
+### Finals
+
+Saturday, 4 November 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **dilf cup 2** | **7** | 6 | sorry 6 digits | [#1](https://osu.ppy.sh/community/matches/111163611) |
+| **Baguette Askim** | **7** | 0 | EFT2: Nuke Singapore | [#1](https://osu.ppy.sh/community/matches/111165636) |
+| abbeychan fanclub | 6 | **7** | **5 Tonatious' on Bonk** | [#1](https://osu.ppy.sh/community/matches/111170908) |
+
+Sunday, 5 November 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **dilf cup 2** | **7** | 6 | Baguette Askim | [#1](https://osu.ppy.sh/community/matches/111181547) |
 
 ### Semifinals
 
