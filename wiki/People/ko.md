@@ -17,7 +17,7 @@
 - [노미네이션 어세스먼트 팀](Nomination_Assessment_Team)
 - [퍼포먼스 포인트 위원회](Performance_Points_Committee)
 - [Project Loved 팀](Project_Loved_Team)
-- [서포트 팀](Support_Team)
+- [기술 지원 팀](Technical_Support_Team)
 - [토너먼트 위원회](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! 팀](osu!_team)
