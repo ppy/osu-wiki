@@ -516,7 +516,7 @@ Cette compétition s'est conclue sur le podium suivant :
       1. Si vous vous enregistrer pour les deux tournois les deux équipes n'ont pas besoin d'être identiques.
       2. Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé “MWC Registration”
+3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé "MWC Registration".
    - Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
 4. Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5. 32 équipes maximum sont autorisées à participer dans chaque tournoi.
@@ -531,23 +531,23 @@ Cette compétition s'est conclue sur le podium suivant :
    - Ceci pouvant changer selon le nombre total d'équipes inscrites.
 2. Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
 3. Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
-   1. Nombre de matchs remportés,
-   2. Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`,
-   3. Nombre de parties remportées,
+   1. Nombre de matchs remportés.
+   2. Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`.
+   3. Nombre de parties remportées.
    4. Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
    5. Éventuel second match remporté.
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs suivant sont tous à élimination directe. Cela signifique que l'équipe victorieuse passe au tour suivant alors que l'autre équipes est éliminée du tournoi.
-6. **Conditions de victoire:**
+6. **Conditions de victoire :**
    - Durant la phase de Poules, Vous devez gagner 4 beatmaps pour gagner un match. (Meilleur des 7)
    - Durant les huitièmes et quart de finale, vous devez gagner 5 beatmaps pour gagner un match. (Meilleur des 9)
-   - Durant les demi-finales et finale, vous devez gagner 6 beatmaps pour gagner un match (Meilleur des 11)
+   - Durant les demi-finales et finale, vous devez gagner 6 beatmaps pour gagner un match. (Meilleur des 11)
 
 ### Match Instructions
 
 1. Une salle multijoueur sera créée par un arbitre 20 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
-   2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: ÉquipeBleue vs ÉquipeRouge"
+   2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: ÉquipeBleue vs ÉquipeRouge".
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. Les joueurs ont la possibilité de s'échauffer sur une beatmap de leur choix avant le début de la partie.
 3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le tchat ; le plus grand nombre l'emporte.
@@ -561,7 +561,7 @@ Cette compétition s'est conclue sur le podium suivant :
 2. Les mappool 4K et 7K sont différents.
 3. Chaque mappool est composé d'une seule catégorie : FreeMod.
 4. Chaque mappool est composé de 10 à 14 beatmaps.
-5. Chaque mappool contient un tiebreaker
+5. Chaque mappool contient un tiebreaker.
 6. La catégorie FreeMod sera jouée avec les mods libres activés. Chaque joueur pourra choisir [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) ou [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) ou aucun mod.
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
 8. Le nombre de beatmaps FreeMod sera de :
