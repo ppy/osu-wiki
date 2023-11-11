@@ -38,7 +38,7 @@ If you're into 7K, [this map](https://osu.ppy.sh/beatmapsets/513563) by [lenpai]
 
 ### Solarbear - Pornogoblin (feat. Dr!p)
 
-And if you're more in the mapping mood, give it a stab with [this pre-timed .osz](https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Pornogoblin%20(feat.%20Dr!p).osz)!
+And if you're more in the mapping mood, give it a stab with [this pre-timed `.osz`](https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Pornogoblin%20(feat.%20Dr!p).osz)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Pornogoblin%20(feat.%20Dr!p).mp3">
