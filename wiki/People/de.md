@@ -30,7 +30,6 @@ Indexseite für Artikel über Personen oder Gruppen.
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
-- [osu!monthly-Team](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Andere
