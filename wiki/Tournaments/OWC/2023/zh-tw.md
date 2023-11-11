@@ -125,19 +125,12 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 完整報名名單可以查看 [這裡](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## 賽程: 8 強賽
+## 賽程: 8 強
 
 ### 2023 年 11 月 11 日, 星期六
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |  |
-| 德國 ::{ flag=DE }:: | ::{ flag=JP }:: 日本 | [11 月 11 日 (六) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T093000&p1=1440&p2=37&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 香港 ::{ flag=HK }:: | ::{ flag=SE }:: 瑞典 | [11 月 11 日 (六) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T130000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 義大利 ::{ flag=IT }:: | ::{ flag=ID }:: 印尼 | [11 月 11 日 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T140000&p1=1440&p2=215&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 中國 ::{ flag=CN }:: | ::{ flag=NO }:: 挪威 | [11 月 11 日 (六) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T150000&p1=1440&p2=33&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 烏克蘭 ::{ flag=UA }:: | ::{ flag=TH }:: 泰國 | [11 月 11 日 (六) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T160000&p1=1440&p2=367&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 巴西 ::{ flag=BR }:: | ::{ flag=SG }:: 新加坡 | [11 月 11 日 (六) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T170000&p1=1440&p2=45&p3=236) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=FR }:: 法國 | [11 月 11 日 (六) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T173000&p1=1440&p2=49&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 智利 ::{ flag=CL }:: | ::{ flag=FI }:: 芬蘭 | [11 月 11 日 (六) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T190000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| --: | :-- | :-- | :-: | :-: |
 | 智利 ::{ flag=CL }:: | ::{ flag=BR }:: 巴西 | [11 月 11 日 (六) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T220000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ### 2023 年 11 月 12 日, 星期日
@@ -146,22 +139,22 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | --: | :-- | :-- | :-: | :-: |
 | 波蘭 ::{ flag=PL }:: | ::{ flag=AU }:: 澳洲 | [11 月 12 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T100000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 韓國 ::{ flag=KR }:: | ::{ flag=GB }:: 英國 | [11 月 12 日 (日) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 法國 ::{ flag=FR }:: | ::{ flag=SE }:: 瑞典 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=195&p3=239) | *待確定* | [^potential-match] |
-| 芬蘭 ::{ flag=FI }:: | ::{ flag=SG }:: 新加坡 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=101&p3=236) | *待確定* | [^potential-match] |
-| 德國 ::{ flag=DE }:: | ::{ flag=ID }:: 印尼 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=37&p3=108) | *待確定* | [^potential-match] |
-| 日本 ::{ flag=JP }:: | ::{ flag=ID }:: 印尼 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=248&p3=108) | *待確定* | [^potential-match] |
+| 芬蘭 ::{ flag=FI }:: | ::{ flag=SG }:: 新加坡 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=101&p3=236) | *TBD* | [^potential-match] |
+| 德國 ::{ flag=DE }:: | ::{ flag=ID }:: 印尼 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=37&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| 日本 ::{ flag=JP }:: | ::{ flag=ID }:: 印尼 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=248&p3=108) | *TBD* | [^potential-match] |
 | 俄羅斯 ::{ flag=RU }:: | ::{ flag=PH }:: 菲律賓 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=166&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 日本 ::{ flag=JP }:: | ::{ flag=IT }:: 義大利 | [11 月 12 日 (日) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T133000&p1=1440&p2=248&p3=215) | *待確定* | [^potential-match] |
+| 日本 ::{ flag=JP }:: | ::{ flag=IT }:: 義大利 | [11 月 12 日 (日) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T133000&p1=1440&p2=248&p3=215) | *TBD* | [^potential-match] |
 | 法國 ::{ flag=FR }:: | ::{ flag=HK }:: 香港 | [11 月 12 日 (日) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T140000&p1=1440&p2=195&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 烏克蘭 ::{ flag=UA }:: | ::{ flag=CN }:: 中國 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=367&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 泰國 ::{ flag=TH }:: | ::{ flag=CN }:: 中國 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=HK }:: 香港 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=49&p3=102) | *待確定* | [^potential-match] |
-| 德國 ::{ flag=DE }:: | ::{ flag=IT }:: 義大利 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=37&p3=215) | *待確定* | [^potential-match] |
-| 泰國 ::{ flag=TH }:: | ::{ flag=NO }:: 挪威 | [11 月 12 日 (日) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T150000&p1=1440&p2=28&p3=187) | *待確定* | [^potential-match] |
+| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=HK }:: 香港 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=49&p3=102) | *TBD* | [^potential-match] |
+| 德國 ::{ flag=DE }:: | ::{ flag=IT }:: 義大利 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=37&p3=215) | *TBD* | [^potential-match] |
+| 泰國 ::{ flag=TH }:: | ::{ flag=NO }:: 挪威 | [11 月 12 日 (日) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T150000&p1=1440&p2=28&p3=187) | *TBD* | [^potential-match] |
 | 智利 ::{ flag=CL }:: | ::{ flag=SG }:: 新加坡 | [11 月 12 日 (日) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T150000&p1=1440&p2=232&p3=236) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SE }:: 瑞典 | [11 月 12 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=49&p3=239) | *待確定* | [^potential-match] |
+| 羅馬尼亞 ::{ flag=RO }:: | ::{ flag=SE }:: 瑞典 | [11 月 12 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=49&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 法國 ::{ flag=FR }:: | ::{ flag=SE }:: 瑞典 | [11 月 12 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=195&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 芬蘭 ::{ flag=FI }:: | ::{ flag=BR }:: 巴西 | [11 月 12 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=101&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 烏克蘭 ::{ flag=UA }:: | ::{ flag=NO }:: 挪威 | [11 月 12 日 (日) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T180000&p1=1440&p2=367&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| 烏克蘭 ::{ flag=UA }:: | ::{ flag=NO }:: 挪威 | [11 月 12 日 (日) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T180000&p1=1440&p2=367&p3=187) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 美國 ::{ flag=US }:: | ::{ flag=CA }:: 加拿大 | [11 月 12 日 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T190000&p1=1440&p2=263&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## 圖池
@@ -270,6 +263,21 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## 比賽結果
+
+2023 年 11 月 11 日, 星期六：
+
+### 8 強
+
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **德國** ::{ flag=DE }:: | **6** | 4 | ::{ flag=JP }:: 日本 | [#1](https://osu.ppy.sh/community/matches/111253985) | [#1](https://www.twitch.tv/videos/1974541167) |
+| 香港 ::{ flag=HK }:: | 2 | **6** | ::{ flag=SE }:: **瑞典** | [#1](https://osu.ppy.sh/community/matches/111256134) | [#1](https://www.twitch.tv/videos/1974857501) |
+| 義大利 ::{ flag=IT }:: | 1 | **6** | ::{ flag=ID }:: **印尼** | [#1](https://osu.ppy.sh/community/matches/111256976) | [#1](https://www.twitch.tv/videos/1974857501?t=01h03m26s) |
+| **中國** ::{ flag=CN }:: | **6** | 1 | ::{ flag=NO }:: 挪威 | [#1](https://osu.ppy.sh/community/matches/111257938) | [#1](https://www.twitch.tv/videos/1974857501?t=01h51m35s) |
+| **烏克蘭** ::{ flag=UA }:: | **6** | 3 | ::{ flag=TH }:: 泰國 | [#1](https://osu.ppy.sh/community/matches/111258934) | [#1](https://www.twitch.tv/videos/1974857501?t=2h36m29s) |
+| **巴西** ::{ flag=BR }:: | **6** | 2 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/111260018) | [#1](https://www.twitch.tv/videos/1974747670) |
+| 羅馬尼亞 ::{ flag=RO }:: | 4 | **6** | ::{ flag=FR }:: **法國** | [#1](https://osu.ppy.sh/community/matches/111260487) | [#1](https://www.twitch.tv/videos/1974857501?t=03h39m18s) |
+| **智利** ::{ flag=CL }:: | **6** | 0 | ::{ flag=FI }:: 芬蘭 | [#1](https://osu.ppy.sh/community/matches/111261974) | [#1](https://www.twitch.tv/videos/1974857501?t=04h54m45s) |
 
 ### 16 強
 
@@ -554,7 +562,6 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## Notes
 
-[^losers-bracket]: 敗部組
 [^potential-match]: 潛在的比賽 — 根據敗部組結果匹配的比賽
 [^qualifiers-seeding]: 使用主流的種子排序方式
 [^qualifiers-tiebreaker]: 當兩隊同分時採用 Tiebreaker 的分數
