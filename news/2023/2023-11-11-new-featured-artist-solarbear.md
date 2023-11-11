@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Solarbear"
-date: 2023-11-11 16:00:00 +0000
+date: 2023-11-11 18:00:00 +0000
 ---
 
 "Map of the stars" has a completely new meaning with **Solarbear**'s addition to our Featured Artist library!
