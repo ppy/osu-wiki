@@ -28,7 +28,6 @@
 - [谱面评估团队 (BAT)](Beatmap_Appreciation_Team)
 - [语言监督部门 (LSD)](Language_Surveillance_Division)
 - [谱面协助团队 (MAT)](Mapping_Assistance_Team)
-- [osu! 月刊团队](osu!monthly_team)
 - [质量保证团队 (QAT)](Quality_Assurance_Team)
 
 ## 其他
