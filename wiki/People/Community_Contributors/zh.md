@@ -145,11 +145,11 @@
 | ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!catch) |
 | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!mania) |
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!mania) |
-| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | 对社区指导计划的杰出贡献 |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | 对社区指导计划的杰出贡献 |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | 对社区指导计划的杰出贡献 |
-| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | 对社区指导计划的杰出贡献 |
-| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | 对社区指导计划的杰出贡献 |
+| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | 对 osu!(lazer) 计划的杰出贡献 |
 
 ### 2020
