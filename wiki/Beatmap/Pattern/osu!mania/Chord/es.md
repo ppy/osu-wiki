@@ -4,7 +4,7 @@ stub: true
 
 # Chord
 
-Un **chord** o **acorde** es un grupo de dos o más notas que se tocan al mismo tiempo. Se sabe que aumentan la densidad y resaltan diferentes sonidos dentro de la música.
+Un **chord** o *acorde* es un grupo de dos o más notas que se tocan al mismo tiempo. Se sabe que aumentan la densidad y resaltan diferentes sonidos dentro de la música.
 
 ## Jump
 

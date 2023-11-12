@@ -18,7 +18,7 @@ Un **minijack** es un tipo de jack que solo cuenta con 2 notas y es la versión 
 
 ## Longjack
 
-Un **longjack** es un tipo de jack más vigoroso que utiliza 4 o más notas consecutivas, normalmente aisladas de cualquier otro patrón. Este término también puede usarse cuando se usan los mismos [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) o [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) consecutivamente.
+Un **longjack** es un tipo de jack más vigoroso que usa 4 o más notas consecutivas, normalmente aisladas de cualquier otro patrón. Este término también puede usarse cuando se usan los mismos [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) o [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) consecutivamente.
 
 ![](img/longjack.png)
 

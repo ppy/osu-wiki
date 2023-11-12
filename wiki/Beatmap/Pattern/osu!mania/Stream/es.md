@@ -18,11 +18,11 @@ Los streams con notas que aparecen en intervalos más rápidos que un pulso se s
 
 ## Jumpstream
 
-Los **jumpstreams** son streams que involucran [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Por lo general, el stream en sí se realiza en ajustes de 1/4, mientras que los jumps aterrizan en ajustes más altos. Este es el tipo de stream más común utilizado en osu!mania 4K.
+Los **jumpstreams** son streams que involucran [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Por lo general, el stream en sí se realiza en ajustes de 1/4, mientras que los jumps aterrizan en ajustes más altos. Este es el tipo de stream más común usado en osu!mania 4K.
 
 ![](img/jumpstream.png)
 
-Este término se utiliza principalmente en osu!mania 4K.
+Este término se usa principalmente en osu!mania 4K.
 
 ## Handstream
 
@@ -30,7 +30,7 @@ Los **handstreams** son streams que involucran [hands](/wiki/Beatmap/Pattern/osu
 
 ![](img/handstream.png)
 
-Este término también se utiliza principalmente en osu!mania 4K.
+Este término también se usa principalmente en osu!mania 4K.
 
 ## Quadstream
 
@@ -40,7 +40,7 @@ Este término también se utiliza principalmente en osu!mania 4K.
 
 ## Chordstream
 
-Los **chordstreams** son un tipo de stream que involucra diferentes tamaños de chords. El stream suele ser de 1/4, con chords en cada intervalo de ajuste de 1/1 o 1/2. En los modos fuera de 4K, «chordstream» generalmente se refiere a streams que involucran 3 o más notas dentro de los chords. Por lo tanto, el término se utiliza casi exclusivamente en modos que no son 4K.
+Los **chordstreams** son un tipo de stream que involucra diferentes tamaños de chords. El stream suele ser de 1/4, con chords en cada intervalo de ajuste de 1/1 o 1/2. En los modos fuera de 4K, «chordstream» generalmente se refiere a streams que involucran 3 o más notas dentro de los chords. Por lo tanto, el término se usa casi exclusivamente en modos que no son 4K.
 
 ![](img/chordstream.png)
 
