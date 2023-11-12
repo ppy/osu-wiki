@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
+---
+
 # Beatmap Nominator Test
 
 Le **Beatmap Nominator Test** est un examen utilisé pour faciliter l'évaluation des candidats à la fonction de [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*).
