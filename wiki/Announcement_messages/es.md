@@ -16,7 +16,7 @@ Un **mensaje de anuncio** es un tipo especial de mensaje destinado a enviar mens
 - Un límite de 1024 caracteres en lugar de 450
 - Soporte de sintaxis Markdown[^note-images] para el formato del texto
 - Entrega a varios usuarios a la vez
-- Posibilidad de omitir la configuración `bloquear los mensajes privados de personas que no están en la lista de amigos`
+- Posibilidad de omitir la configuración `bloquear los mensajes privados de personas que no están en tu lista de amigos`
 - Solo los usuarios que pueden enviar mensajes de anuncio pueden responderlos
 
 ## Elegibilidad
