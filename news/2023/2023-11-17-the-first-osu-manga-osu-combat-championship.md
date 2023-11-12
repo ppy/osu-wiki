@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The First osu! Manga: osu! Combat Championship"
-date: 2023-10-21 13:00:00 +0000
+date: 2023-11-17 13:00:00 +0000
 ---
 
 WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted!
 
-![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/OCCnewspostrecent.jpg)
+![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/banner.jpg)
 
 **Calling all osu! enthusiasts!**
 
@@ -16,31 +16,31 @@ Join us as we delve into the captivating storyline that follows the path of Whit
 
 For those eager to dive into the manga and skip the introductions, simply click the button below to head over to Mangadex and start reading.
 
-<p align="center">
+<p class="osu-md__paragraph" align="center">
   <a href="https://mangadex.org/title/f1d50eba-6ace-4490-8439-07692fda3b9c/osu-combat-championship">
-    <img src="/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/occbuttonnew.png" alt="Character Panels">
+    <img src="/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/read-now.png" alt="Click here to read">
   </a>
 </p>
 
 Curious about which of your favorite players are in The osu! Combat Championship manga? Check out the character introductions below:
 
-[![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/whitecatbanner.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
+[![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/WhiteCat.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 WhiteCat exudes an air of aloofness, often carrying a sense of tension, but beneath the surface lies intelligence and a careful choice of words. His determination and focus were forged through a tragic event in his youth when he lost his brother, BlackDog, in an incident involving mrekk. WhiteCat has harboured blame toward mrekk for his loss, yet he grapples with a moral dilemma: should he seek revenge or aspire to become the greatest osu! player through fair means? At the age of 15, WhiteCat's uncontrollable power led to a berserk episode, with Peppy being the only one capable of stopping him.
 
-[![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/mrekkcard.png)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
+[![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/mrekk.png)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 A true businessman, mrekk is willing to go to any lengths to secure profits and success. He seldom finds time or inclination for frivolous pursuits, such as relationships or family, as his primary focus is on strengthening his business. His unwavering desire for profit is rooted in a profound fear of poverty, stemming from a childhood trauma that has left a lasting impact.
 
-[![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/umbreEcard.png)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
+[![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/Umbre.png)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 On the surface, Umbre is a bit of a jokester, often cracking light-hearted quips at WhiteCat and creating a generally pleasant atmosphere. He serves as an exceptionally effective mentor, stepping into the role of WhiteCat's brother figure after the loss of BlackDog and helping to nurture him into the state he's in today. Umbre suffers an internal struggle, torn between being Umbre the player or Umbre the brother. Nonetheless, his kind-hearted nature prevails, leading him to make the decision to guide WhiteCat to heights he could never have imagined.
 
-[![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/kariyunewcard.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
+[![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/Kariyu.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 Kariyu is an extroverted and playful individual. He revels in being a jokester and easily captivates a broad audience. As a child, he harboured a strong desire to emulate his idol, Vaxei. In pursuit of this dream, he embarked on a solo journey to the new continent and returned with a newfound companion, Cooper. Together, they have embarked on countless adventures and taken part in numerous tournaments.
 
-[![](/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/xootycard.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
+[![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/xootynator.jpg)](https://media.discordapp.net/attachments/1003689172420276246/1159889762602205265/hHq0xR12mgffBIrgk6X53ChtAy0o_dxYDOLNjkf0d8s.png?ex=6532aa85&is=65203585&hm=20b690670640f90a93b811130c3b746d1d10a9824b9da20ab2e3f237a27e69a4&=&width=456&height=675)
 
 An extroverted and composed individual, xootynator exudes boundless optimism. Her quest for enjoyment is inseparable from her determination to make her mark in the predominantly male-dominated arena of combat. Fuelled by the excitement of battle and a commitment to shatter gender barriers, xootynator also finds immense joy in the world of art, with a particular fondness for birds.
 
@@ -50,9 +50,7 @@ But that's not all! We have an exciting announcement for all anime enthusiasts o
 
 ## The current team working on this project behind the scenes!
 
-<p align="center">
-  <img width="98%" height="98%" src="/wiki/shared/news/2023-10-21-The-First-osu!-Manga-osu!-Combat-Championship/occteamnew.png">
-</p>
+![Team listing](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/occ-team.png)
 
 ---
 
