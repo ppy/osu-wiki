@@ -29,7 +29,7 @@ Die eigentliche Audiospur der Beatmap spult im Takt zurück oder fällt aus. Gru
 
 ### Spike-Frame
 
-Während des Spielens hält alles lange genug an, sodass das Spielerlebnis beeinträchtigt wird. Das kann mehr als einmal auftreten, nach dem Zufallsprinzip oder in gleichmäßigen Abständen. Beim Diagnostizieren oder Melden kann Folgendes helfen:
+Während des Spielens friert alles lange genug ein, sodass das Spielerlebnis beeinträchtigt wird. Das kann mehr als einmal auftreten, nach dem Zufallsprinzip oder in gleichmäßigen Abständen. Beim Diagnostizieren oder Melden kann Folgendes helfen:
 
 - Zähle, wie viele Male es während einer durchschnittlichen Spielsession passiert.
 - Prüfe, ob es immer passiert.
@@ -73,7 +73,7 @@ osu! bietet mehrere Auswahlmöglichkeiten von FPS-Limits an. Jede davon hat sein
 
 Dieses FPS-Limit verlässt sich auf einen vom Treiber bereitgestellten vertikalen Synchronisierungsmechanismus. Es garantiert, dass Screen Tearing nicht auftritt, aber fügt 1 bis 2 Frames an Latenzzeit aufgrund der Zwischenspeicherung von Bildern vor dem Anzeigen hinzu.
 
-Allgemein wird das nicht für Bildschirme mit 60 Hz empfohlen. Es kann bei Wiederholungsraten ab 120 Hz nützlich sein, aber mit GSync- und FreeSync-Bildschirmen ist die Anforderung aufgehoben, VSync zur Verhinderung von Screen Tearing zu benutzen.
+Allgemein wird das nicht für Bildschirme mit 60 Hz empfohlen. Es kann bei Wiederholungsraten ab 120 Hz nützlich sein, aber mit GSync- und FreeSync-Bildschirmen ist es nicht erforderlich, VSync zur Verhinderung von Screen Tearing zu benutzen.
 
 ### Power Saving
 
@@ -102,11 +102,11 @@ Nichts desto trotz, wenn die Wärmeentwicklung und eine mögliche Überlastung d
 ### Custom
 
 *Hinweis für Nutzer von Cutting Edge: Den Wert von `CustomFrameLimit` auf eine Zahl über 999 zu setzen, wird ihn auf 999 zurücksetzen. Auf Stable kannst du ohne Probleme den Wert auf über 1000 setzen.*\
-*Vorsicht: Du kannst in diese Einstellung nicht mit dem Kürzel `F7` im Spiel wechseln, auch wenn du du die unteren Schritte ausführst. Du musst in den Einstellungen auf `Custom` wechseln, bevor du das Spiel verlässt, damit es beim nächsten Mal wieder verfügbar ist, wenn osu! läuft. Ansonsten musst du `FrameSync` manuell wieder ändern.*
+*Vorsicht: Du kannst in diese Einstellung nicht mit dem Kürzel `F7` im Spiel wechseln, auch wenn du die unteren Schritte ausführst. Du musst in den Einstellungen auf `Custom` wechseln, bevor du das Spiel verlässt, damit es beim nächsten Mal wieder verfügbar ist, wenn osu! läuft. Ansonsten musst du `FrameSync` manuell wieder ändern.*
 
 Dieses FPS-Limit versucht, eine Bildrate nahe deiner benutzerdefinierten Präferenz beizubehalten, jedoch ist das eine Einstellung, die standardmäßig nicht im Spielmenü geändert werden kann.
 
-Um die benutzerdefinierte maximale Bildwiederholungsrate von osu! zu ändern, musst du einige Werte in der Konfigurationsdatei ändern:
+Um die benutzerdefinierte maximale Bildwiederholungsrate von osu! zu ändern, musst du einige Werte in der Konfigurationsdatei anpassen:
 
 1. Öffne deinen osu!-Ordner durch das Klicken des Buttons `osu!-Ordner öffnen` im Optionsmenü oder durch manuelles Navigieren zum Ordner (der Standardpfad ist `C:\Users\<deinPCNutzername>\AppData\Local\osu!` für Windows und `/Applications/osu!.app/Contents/Resources/drive_c/osu!` für Mac).
 2. Schließe osu!.
