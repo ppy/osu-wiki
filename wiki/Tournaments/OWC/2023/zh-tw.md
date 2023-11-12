@@ -129,7 +129,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ### 2023 年 11 月 18 日, 星期六
 
-| Team A | Team B | Match time | Twitch stream |  |
+| A 隊 | B 隊 | 比賽時間 | 直播 |  |
 | --: | :-- | :-- | :-: | :-: |
 | 波蘭 ::{ flag=PL }:: | ::{ flag=CN }:: 中國 | [11 月 18 日 (六) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | *待確定* | [^losers-bracket] |
 | 俄羅斯 ::{ flag=RU }:: | ::{ flag=DE }:: 德國 | [11 月 18 日 (六) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=166&p3=37) | *待確定* | [^losers-bracket] |
@@ -138,7 +138,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ### 2023 年 11 月 19 日, 星期日
 
-| Team A | Team B | Match time | Twitch stream |  |
+| A 隊 | B 隊 | 比賽時間 | 直播 |  |
 | --: | :-- | :-- | :-: | :-: |
 | 澳洲 ::{ flag=AU }:: | ::{ flag=CA }:: 加拿大 | [11 月 19 日 (日) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T030000&p1=1440&p2=57&p3=188) | *待確定* | [^winners-bracket] |
 | 韓國 ::{ flag=KR }:: | ::{ flag=PH }:: 菲律賓 | [11 月 19 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T100000&p1=1440&p2=235&p3=145) | *待確定* | [^winners-bracket] |
