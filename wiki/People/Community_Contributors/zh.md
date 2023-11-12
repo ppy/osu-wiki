@@ -30,7 +30,7 @@
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals)的美术设计 |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](https://osu.ppy.sh/community/forums/topics/55305) 这个最受欢迎的第三方摸图工具 |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 [OWC](/wiki/Tournaments/OWC) |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 [OWC](/wiki/Tournaments/OWC)） |
 | ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 `#osu` 频道（9000 名以上用户） |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
@@ -38,7 +38,7 @@
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboard)作为艺术和作图动力的发展 |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样 |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
+| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 [BAT 管理员](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers)，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ### 2015
 
