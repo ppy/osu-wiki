@@ -184,7 +184,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - Tiebreaker
   1. **[polysha - Endverse (captin1) \[Encore\]](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)**
 
-### 쿼터파이널
+### 세미파이널
 
 **[맵팩은 여기서 다운로드가 가능합니다 (179 MB)](https://packs.ppy.sh/P229%20-%20osu!%20World%20Cup%202023%3A%20Semifinals.zip)**
 
@@ -215,7 +215,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - Tiebreaker
   1. **[polysha - Endverse (captin1) \[Encore\]](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)**
 
-### 8강
+### 쿼터파이널
 
 **[맵팩은 여기서 다운로드가 가능합니다 (155 MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
 
