@@ -590,10 +590,10 @@
 "staff_promotion_log": "People/Staff_log"
 "staff_retirement_log": "People/Staff_log"
 
-"support_team":                    "People/Support_Team"
-"support_team_redux":              "People/Support_Team"
-"st":                              "People/Support_Team"
-"str":                             "People/Support_Team"
+"support_team":                    "People/Technical_Support_Team"
+"support_team_redux":              "People/Technical_Support_Team"
+"st":                              "People/Technical_Support_Team"
+"str":                             "People/Technical_Support_Team"
 
 "osu!_staff": "People/osu!_team"
 "osu!team":   "People/osu!_team"
@@ -2084,7 +2084,7 @@
 "people/the_team/staff_log/2022": "People/Staff_log/2022"
 "people/the_team/staff_log/2023": "People/Staff_log/2023"
 "people/the_team/staff_log": "People/Staff_log"
-"people/the_team/support_team": "People/Support_Team"
+"people/the_team/support_team": "People/Technical_Support_Team"
 "people/the_team/osu!_alumni": "People/osu!_Alumni"
 "people/the_team": "People/osu!_team"
 
@@ -2123,3 +2123,10 @@
 # moved in #10397
 
 "usage_permissions":                         "Rules/Content_usage_permissions"
+"rules/content_usage_guidelines":            "Rules/Content_usage_permissions"
+
+# Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
+"people/osu!monthly_team": "Community/osu!monthly#contributors"
+
+# Renamed "Support Team" to "Technical Support Team" (#10425)
+"people/support_team": "People/Technical_Support_Team"

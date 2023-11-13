@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
+---
+
 # Support Team
 
 *Para un equipo que administra cuentas, véase: [Equipo de soporte de cuentas](/wiki/People/Account_support_team)*
