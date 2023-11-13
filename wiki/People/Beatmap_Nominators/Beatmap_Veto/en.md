@@ -25,9 +25,9 @@ If discussion is no longer progressing in the direction of a compromise, or is o
 
 During mediation, the randomly selected jury of Beatmap Nominators and members of the NAT will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process can take anywhere from a day to a week depending on how quickly members of the jury make their decisions.
 
-Any decision made by members of this jury must be accompanied by a reason for making the decision. Should a member be unable to participate, they may be replaced by another randomly selected member if there is enough time to do so. If there is not enough time, their vote will be considered abstained and their position as a Beatmap Nominator may be questioned as a result.
+This jury consists of 20% of the total number of the BN/NAT, with a minimum of 11 members. The jury also excludes the vetoing BN, the nominating BNs, the beatmap creator, and the beatmap guest difficulty creators.
 
-This jury consists of 20% of the total number of the BN/NAT, with a minimum of 11 members.
+Any decision made by members of this jury must be accompanied by a reason for making the decision. Should a member be unable to participate, they may be replaced by another randomly selected member if there is enough time to do so. If there is not enough time, their vote will be considered abstained and their position as a Beatmap Nominator may be questioned as a result.
 
 ## How to proceed after mediation
 
