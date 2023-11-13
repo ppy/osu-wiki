@@ -47,7 +47,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao longo do tempo:
 
-- [Cemitério](Category#graveyard-(enterrados))
+- [Cemitério](Category#graveyard)
 - [Em progresso / Pendente](Category#wip-and-pending)
 - [Qualificado](Category#qualified)
 - [Ranqueado](Category#ranked)

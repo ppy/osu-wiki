@@ -44,7 +44,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Una beatmap inviata appartiene a una delle seguenti categorie, che possono cambiare nel tempo:
 
-- [Abbandonate](Category#wip-and-pending)
+- [Abbandonate](Category#graveyard)
 - [In lavorazione/In attesa](Category#wip-and-pending)
 - [Qualificate](Category#qualified)
 - [Classificate](Category#ranked)
