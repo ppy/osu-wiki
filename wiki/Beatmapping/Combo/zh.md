@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - combo color
   - combo colour
   - NC
