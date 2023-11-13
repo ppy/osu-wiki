@@ -10,7 +10,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 
 | osu!-Profil | GitHub-Profil | Status | Zusätzliche Sprachen |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inaktiv |  |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Aktiv** |  |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktiv** |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Aktiv** | Arabisch |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inaktiv |  |

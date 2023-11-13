@@ -12,7 +12,7 @@
 
 | osu! 계정 | GitHub 계정 | 활동 상태 | 추가 언어 사용 여부 |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | 활동 중이 아님 |  |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **활동 중** |  |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **활동 중** |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **활동 중** | 아랍어 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
