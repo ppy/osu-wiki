@@ -51,7 +51,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers), editor de noticias |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-El [equipo de soporte de cuentas](/wiki/People/Account_support_team) también está ahí para ayudar con lo que está fuera de alcance.
+El [equipo de soporte de cuentas](/wiki/People/Account_support_team) también está ahí para ayudar con lo que está fuera del alcance.
 
 Además del núcleo del osu! team, hay [muchos otros equipos de voluntarios](/wiki/People) que mantienen el juego en marcha.
 
