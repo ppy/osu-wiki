@@ -46,7 +46,7 @@ To start, [acnozei](https://osu.ppy.sh/users/10141268) and [Lasse](https://osu.p
 | :-- | :-- | :-- | :-- | :-- |
 | [Lott](https://osu.ppy.sh/users/13821222) | [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2088664#mania/4377001) | #1 | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
 | [hemoo](https://osu.ppy.sh/users/4420703) | [Camellia - d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix)](https://osu.ppy.sh/beatmapsets/2089143#mania/4378014) | #2 + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| [Leej](https://osu.ppy.sh/users/18219603) | [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/2088786#mania/4377238) | #3 | - | +1 (1 total) |
+| [Leeju](https://osu.ppy.sh/users/18219603) | [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/2088786#mania/4377238) | #3 | - | +1 (1 total) |
 
 After submitting maps to the Monthly Beatmapping Contest **10 times** throughout 2020 and 2021, [Lott](https://osu.ppy.sh/users/13821222) casually dropped into the first iteration of 2023's MBC with a landslide winning. It's about time, so congrats!
 
