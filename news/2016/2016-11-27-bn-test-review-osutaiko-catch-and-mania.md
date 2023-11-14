@@ -55,7 +55,7 @@ Congratulations to our passing candidates, and good luck to everyone applying ne
 
 **osu!mania (by Blocko)  
 **Total # of candidates: 25  
-Passing candidates: **Critical_Star**, **Dellvangel**, **DixonBlackwing**, **juankristal**, **Protastic101**, **Rivals_7**, **SanadaYukimura**  
+Passing candidates: **Critical_Star**, **Dellvangel**, **DixonBlackwing**, **juankristal**, **Protastic101**, **Rivals_7**, **SanadaYukimura**
 
 I was really surprised when I heard that there will be 25 candidates applying for BN in osu!mania. That's the highest number we've gotten so far over the last 2 tests, and I was very excited because so many people applied! With that said, for the second part of the whole test, instead of ten 10-second segments, the candidates had to mod a full mapset to fully test their modding capabilities. Part B contains issues that should be prevented when it comes to ranking a mania mapset, which can include wrongly snapped notes, absurd difficulty spikes, unpredictable slider velocities, inconsistent timing points and hitsound errors, to name a few. We'll get to how people did on the test right about... now!
 

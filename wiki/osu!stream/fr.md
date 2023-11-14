@@ -100,7 +100,7 @@ En 2023, douze ans après sa sortie initiale, osu!stream a finalement été [imp
   - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un miss à partir du moment où le joueur l'a touché.
   - Si le joueur n'a pas tenu le cercle, les HP seront pris tant que le cercle n'a pas explosé.
 
-### De nouveaux modes pour remplacer la difficulté  
+### De nouveaux modes pour remplacer la difficulté
 
 ---
 

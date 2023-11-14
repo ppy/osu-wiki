@@ -137,7 +137,7 @@ The map might seem pretty generic at first, but it ramps up in difficulty not in
 
 osu! did not support any keyboard inputs when it was released, it was only after a [suggestion was made on the forums](https://osu.ppy.sh/community/forums/topics/431?n=8) that it was added!
 
-Another cool fact: originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings.  
+Another cool fact: originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings.
 
 ## Monthly community quiz
 

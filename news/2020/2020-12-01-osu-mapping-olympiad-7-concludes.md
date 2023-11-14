@@ -50,7 +50,7 @@ All of this wouldn't be possible without the immense help of our three judges: *
 
 ---
 
-We sincerely hope you enjoyed this iteration of the osu! Mapping Olympiad as much as we did! This is surely not the last and the contest will be back soon with new concepts to make them even more creative and interesting for you! Congratulations once again to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** for your victories!  
+We sincerely hope you enjoyed this iteration of the osu! Mapping Olympiad as much as we did! This is surely not the last and the contest will be back soon with new concepts to make them even more creative and interesting for you! Congratulations once again to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** for your victories!
 
 See you next time! 
 

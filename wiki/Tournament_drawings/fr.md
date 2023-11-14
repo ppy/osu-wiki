@@ -23,7 +23,7 @@ Ensuite, ajoutez la ligne suivante au fichier `drawings.txt` :
 AU : Australia : AUS
 ```
 
-Les tournament drawings sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran des tournament drawings fonctionne et agit avant de modifier davantage chacun des fichiers.  
+Les tournament drawings sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran des tournament drawings fonctionne et agit avant de modifier davantage chacun des fichiers.
 
 ### Utilisation
 

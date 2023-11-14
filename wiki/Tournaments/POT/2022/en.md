@@ -186,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Numtack05 - Ooki na Hane de! (Cut Ver.) (Mafumafu) \[Tsubasa\]](https://osu.ppy.sh/beatmapsets/1075635#osu/2250717)
 - DoubleTime
   1. [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[ponpokosatellin's Hard\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2210782)
-  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)  
+  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)
 - Tiebreaker
   1. **[Demetori - Warabe Matsuri ~ Innocent Treasures (Remapper) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1033730#osu/2163007)**
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   2. [XXXTENTACION - MOONLIGHT (eiri-) \[R.I.P\]](https://osu.ppy.sh/beatmapsets/967467#osu/2024692)
 - DoubleTime
   1. [senya - Theta de Tsukisashite (Serafeim) \[Hard\]](https://osu.ppy.sh/beatmapsets/1353531#osu/2802609)
-  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)  
+  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)
 - Tiebreaker
   1. **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)**
 

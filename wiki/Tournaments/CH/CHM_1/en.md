@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
   3. [seatrus - efchi (Mir) \[Euphoria (tourney ver)\]](https://osu.ppy.sh/beatmapsets/1592192#osu/3251845)
   4. [TERRASPEX - AMAZING BREAK (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593072#osu/3253699)
   5. [Noah - World's end (Elcheer) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1592364#osu/3252187)
-  6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)  
+  6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)
 - Hidden
   1. [Bentham - Chicago (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1592349#osu/3252165)
   2. [SAW WAVE SOUND - GRID KNIGHT (Dada) \[GRID IRON\]](https://osu.ppy.sh/beatmapsets/1592210#osu/3251884)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[MASTER AR8\]](https://osu.ppy.sh/beatmapsets/312310#osu/2775197)
   3. [PSYQUI - Start Up feat. Such (MaridiuS) \[Expert\]](https://osu.ppy.sh/beatmapsets/1593330#osu/3254258)
 - Tiebreaker
-  1. **[pm04034 - cold smoothie coffee (Mirash) \[techies collab\]](https://osu.ppy.sh/beatmapsets/1592358#osu/3252181)**  
+  1. **[pm04034 - cold smoothie coffee (Mirash) \[techies collab\]](https://osu.ppy.sh/beatmapsets/1592358#osu/3252181)**
 
 ### Finals (week 1)
 
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
   3. [seatrus - ILLEGAL LEGACY (Mir) \[ILLEGAL GAMING\]](https://osu.ppy.sh/beatmapsets/1587369#osu/3241947)
   4. [PinocchioP - Whatever Yama Says Goes (Axaptice) \[Pinochioffee Tourney Diff\]](https://osu.ppy.sh/beatmapsets/1587644#osu/3242457)
   5. [UNDEAD CORPORATION - Everything will freeze (sjoy) \[Freezing\]](https://osu.ppy.sh/beatmapsets/336471#osu/744673)
-  6. [Yaju - DEBSTEP! (KnightC0re) \[EXTRA!\]](https://osu.ppy.sh/beatmapsets/1587355#osu/3241923)  
+  6. [Yaju - DEBSTEP! (KnightC0re) \[EXTRA!\]](https://osu.ppy.sh/beatmapsets/1587355#osu/3241923)
 - Hidden
   1. [sasakure.UK - Negaposi\*Continues feat. Hatsune Miku (Chaoslitz) \[Game Over\]](https://osu.ppy.sh/beatmapsets/373762#osu/818812)
   2. [KOTOKO - Koi Kou Enishi (newton-) \[Youtou no Mai\]](https://osu.ppy.sh/beatmapsets/1587308#osu/3241847)
@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
   2. [MuryokuP - Core (yaspo) \[Core\]](https://osu.ppy.sh/beatmapsets/1587310#osu/3241849)
   3. [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL (Lokidoki) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/1587318#osu/3241863)
 - Tiebreaker
-  1. **[Dream Theater - Scene Seven: I. The Dance of Eternity (olc) \[i asked dominos to draw peter griffin on the box and they didnt do it\]](https://osu.ppy.sh/beatmapsets/1587309#osu/3241848)**  
+  1. **[Dream Theater - Scene Seven: I. The Dance of Eternity (olc) \[i asked dominos to draw peter griffin on the box and they didnt do it\]](https://osu.ppy.sh/beatmapsets/1587309#osu/3241848)**
 
 ### Semifinals
 
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
   4. [The Fearless Flyers - Assassin (olc) \[let's go\]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
   5. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
-  6. [PSYQUI - Hysteric night girl -Awakening- (feat. Such) (Luminiscental) \[Liber\]](https://osu.ppy.sh/beatmapsets/1580891#osu/3227979)  
+  6. [PSYQUI - Hysteric night girl -Awakening- (feat. Such) (Luminiscental) \[Liber\]](https://osu.ppy.sh/beatmapsets/1580891#osu/3227979)
 - Hidden
   1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/506155#osu/1076701)
   2. [ZAQ - Inside Identity (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1580696#osu/3227615)

@@ -131,7 +131,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   4. [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268)
 - FreeMod
   1. [eisyo-kobu - Faithtival (Shiroha) \[Yokes' Extra\]](https://osu.ppy.sh/beatmapsets/1040472#osu/2260268)
-  2. [YOASOBI - Yoru ni Kakeru (Petal) \[Acceptance\]](https://osu.ppy.sh/beatmapsets/1238759#osu/2575572)  
+  2. [YOASOBI - Yoru ni Kakeru (Petal) \[Acceptance\]](https://osu.ppy.sh/beatmapsets/1238759#osu/2575572)
 - Tiebreaker
   1. **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Blindness and Tragedy\]](https://osu.ppy.sh/beatmapsets/1201605#osu/2502643)**
 
@@ -163,7 +163,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   4. [Juno Reactor - Magnetic (PandaHero) \[Insane (right version)\]](https://osu.ppy.sh/beatmapsets/1346647#osu/2890576)
 - FreeMod
   1. [Feryquitous - Ordirehv (ScubDomino) \[Abscibus\]](https://osu.ppy.sh/beatmapsets/1272110#osu/2643413)
-  2. [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#osu/2371971)  
+  2. [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#osu/2371971)
 - Tiebreaker
   1. **[Ariabl'eyeS - Senkou no Flare (Lyruke) \[Litmuss55\]](https://osu.ppy.sh/beatmapsets/1264419#osu/2695955)**
 
@@ -195,7 +195,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   4. [Ceui - Hoshi Ori Yume Mirai (-Nanaka-) \[Silky's Insane\]](https://osu.ppy.sh/beatmapsets/268509#osu/1079089)
 - FreeMod
   1. [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)
-  2. [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)  
+  2. [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)
 - Tiebreaker
   1. **[ELFENSJoN - Akayake no Majo (Hey lululu) \[Scarlet World\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
@@ -227,7 +227,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   4. [frederic - ONLYWONDER (Faito) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1177496#osu/2466867)
 - FreeMod
   1. [nana(Sevencolors) - chameleon (RVMathew) \[Ojou\]](https://osu.ppy.sh/beatmapsets/1046876#osu/2202224)
-  2. [Umeboshi Chazuke - Galaxy in Toybox (DC Update Ver.) (Star Stream) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1155525#osu/2485087)  
+  2. [Umeboshi Chazuke - Galaxy in Toybox (DC Update Ver.) (Star Stream) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1155525#osu/2485087)
 - Tiebreaker
   1. **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
@@ -240,22 +240,22 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#osu/2717662)
   3. [Hoshimachi Suisei - NEXT COLOR PLANET (Lortus) \[Shiny\]](https://osu.ppy.sh/beatmapsets/1135387#osu/2371242)
   4. [nora2r - ULTRA B+K (Shirasaka Koume) \[ULTRA Collab\]](https://osu.ppy.sh/beatmapsets/883219#osu/1846365)
-  5. [Laur - Nostalgic Blood of the Strife (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)  
+  5. [Laur - Nostalgic Blood of the Strife (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
 - Hidden
   1. [ovEnola - Noose (Cut Ver.) (BOUYAAA) \[Death\]](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506)
   2. [ICE - Majestic Phoenix (Zetera) \[N/A's Burning Insane\]](https://osu.ppy.sh/beatmapsets/845094#osu/1775716)
-  3. [Nekomata Master+ - chaos eater (pocket-) \[Hunger\]](https://osu.ppy.sh/beatmapsets/1248923#osu/2595779)  
+  3. [Nekomata Master+ - chaos eater (pocket-) \[Hunger\]](https://osu.ppy.sh/beatmapsets/1248923#osu/2595779)
 - HardRock
   1. [BUTAOTOME - Kyouen (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1336424#osu/2768610)
   2. [Kozato Snow - 45nen no Yukizakura (Gust) \[SAKASAKA\]](https://osu.ppy.sh/beatmapsets/1128204#osu/2357044)
-  3. [Memme - Pandemonium (sdfasf) \[Lasse's Extra: #8\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)  
+  3. [Memme - Pandemonium (sdfasf) \[Lasse's Extra: #8\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)
 - DoubleTime
   1. [TrySail - azure (VINXIS) \[Mirror\]](https://osu.ppy.sh/beatmapsets/879262#osu/1838785)
   2. [ALiCE'S EMOTION - Selfish (Tsukasa Remix) (Mixagji) \[Lunatic old\]](https://osu.ppy.sh/beatmapsets/55214#osu/2822364)
   3. [Nhato - Gekka (Short Ver.) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1382026#osu/2855475)
 - FreeMod
   1. [SHK - Identity Part II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/309807#osu/692495)
-  2. [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)  
+  2. [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)
 - Tiebreaker
   1. **[Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (\_Kobii) \[Peter's Petal\]](https://osu.ppy.sh/beatmapsets/1300204#osu/2697174)**
 
@@ -268,22 +268,22 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [cosMo@BousouP - Hyper LATiON (-Tynamo) \[Astronic's Extra\]](https://osu.ppy.sh/beatmapsets/1281410#osu/2680501)
   3. [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
   4. [Krewella - Killin' It (Sped Up Ver.) (tatemae) \[Syntagmatic\]](https://osu.ppy.sh/beatmapsets/1231408#osu/2559899)
-  5. [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)  
+  5. [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)
 - Hidden
   1. [LiSA - ADAMAS (VINXIS) \[winber1 x Sing's Extra\]](https://osu.ppy.sh/beatmapsets/867789#osu/1819540)
   2. [ririco - Kawaiku Naritai (feat. Sana) (Moecho) \[Kawaiku Natta\]](https://osu.ppy.sh/beatmapsets/1342061#osu/2779993)
-  3. [Green Day - Basket Case (h3ct1c) \[xbopost's Insane\]](https://osu.ppy.sh/beatmapsets/1142364#osu/2407774)  
+  3. [Green Day - Basket Case (h3ct1c) \[xbopost's Insane\]](https://osu.ppy.sh/beatmapsets/1142364#osu/2407774)
 - HardRock
   1. [Nanahoshi Kangengakudan - ITYNITED IDENTITY (sammish) \[Unidentifiable\]](https://osu.ppy.sh/beatmapsets/744955#osu/1570573)
   2. [Nekomata Master - Izanami's wail (Uberzolik) \[Insane\]](https://osu.ppy.sh/beatmapsets/792367#osu/1662038)
-  3. [Rabpit - Sacred (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044692#osu/2185350)  
+  3. [Rabpit - Sacred (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044692#osu/2185350)
 - DoubleTime
   1. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
   2. [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
   3. [Chata - Engage (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
 - FreeMod
   1. [Glasslake - Separated Union (DaRRi MIx) \[Hard\]](https://osu.ppy.sh/beatmapsets/17935#osu/63787)
-  2. [ARForest - Lantinid (Nozhomi) \[Niva's Extra\]](https://osu.ppy.sh/beatmapsets/1250431#osu/2668675)  
+  2. [ARForest - Lantinid (Nozhomi) \[Niva's Extra\]](https://osu.ppy.sh/beatmapsets/1250431#osu/2668675)
 - Tiebreaker
   1. **[wavforme x Annabel - own phrases (captin1) \[Abyss\]](https://osu.ppy.sh/beatmapsets/894919#osu/1870002)**
 

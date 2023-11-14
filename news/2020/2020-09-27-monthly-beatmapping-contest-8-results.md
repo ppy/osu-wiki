@@ -46,7 +46,7 @@ Contest veteran [Acylica](https://osu.ppy.sh/users/1943309) is yet to pull a win
 
 His entry of [Silentroom - Primatrix](https://osu.ppy.sh/beatmapsets/1247457#osu/2631387) impressed the judges enough to earn him the **runner-up** spot, *and* his entry was the **most popular among screeners**, earning top 5 placement from 7 of the 10 screeners!
 
-While Mao's entry utilized small circle size to better space objects apart, Acylica's entry takes a polar opposite approach. It's 2 minutes of almost non-stop streams, using the circle-only gimmick to express musical nuances with a variety of super-slick patterns. If that sounds like your kind of thing, be sure to give it a play.  
+While Mao's entry utilized small circle size to better space objects apart, Acylica's entry takes a polar opposite approach. It's 2 minutes of almost non-stop streams, using the circle-only gimmick to express musical nuances with a variety of super-slick patterns. If that sounds like your kind of thing, be sure to give it a play.
 
 In addition to his successes today, Acylica's submissions were also the screening crew's favorite in April's contest and the community vote runner-up in May's contest. Going by the [MBC rewards format](/wiki/Contests/Monthly_Beatmapping_Contest#rewards), this means Acylica has also earned himself two months of *osu!supporter* and the *second tier MBC profile badge*!
 

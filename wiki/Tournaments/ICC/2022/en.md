@@ -115,7 +115,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [sasakure.UK - Xlo (Yusomi) \[Another AR9.7\]](https://osu.ppy.sh/beatmapsets/1018087#fruits/2130633)
   4. [USAO - Cthugha (Otosaka-Yu) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1370925#fruits/2834637)
   5. [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[0pp's Tecxpert\]](https://osu.ppy.sh/beatmapsets/1591460#fruits/3405314)
-  6. [The Gentle Men - Your Boyfriend Doesn't Scare Me (feat. KMac2021) (Kalibe) \[Daydream\]](https://osu.ppy.sh/beatmapsets/1799259#fruits/3688467)  
+  6. [The Gentle Men - Your Boyfriend Doesn't Scare Me (feat. KMac2021) (Kalibe) \[Daydream\]](https://osu.ppy.sh/beatmapsets/1799259#fruits/3688467)
 - Hidden
   1. [Co shu Nie - Yume o Kin'iro ni Somete (Mystiarch) \[DeviousPanda's Abberation\]](https://osu.ppy.sh/beatmapsets/1632207#fruits/3338304)
   2. [seiya-murai feat. ALT - Sumidagawa Karenka (SkyFlame) \[Oriental Blossom\]](https://osu.ppy.sh/beatmapsets/1356636#fruits/2807621)
@@ -141,7 +141,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [Roselia - Shin'ai (-Aqua) \[Agony\]](https://osu.ppy.sh/beatmapsets/765499#fruits/1674700)
   4. [EmoCosine - MAGENTA POTION (short ver.) (Starfy) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079970#fruits/3075536)
   5. [Yooh - Decoy (fanzhen0019) \[D\]](https://osu.ppy.sh/beatmapsets/1074610#fruits/2248810)
-  6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)  
+  6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)
 - Hidden
   1. [Dirtyphonics - Night Ride (Halgoh) \[Ultimate Drift\]](https://osu.ppy.sh/beatmapsets/1621891#fruits/3311337)
   2. [SHK - Death Moon (Musty) \[SHD\]](https://osu.ppy.sh/beatmapsets/497027#fruits/1058054)
@@ -180,7 +180,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [mafumafu feat. soraru - ROKI (AirinCat) \[Insane.\]](https://osu.ppy.sh/beatmapsets/1587613#fruits/3242402)
   3. [Wanuka - Tipsy (climbx3145) \[Mature\]](https://osu.ppy.sh/beatmapsets/1611451#fruits/3290120)
 - Tiebreaker
-  1. **[Yunosuke - Loop Memory (Tycani) \[Repeating Repetitive Repetition\]](https://osu.ppy.sh/beatmapsets/1703935#fruits/3481651)**  
+  1. **[Yunosuke - Loop Memory (Tycani) \[Repeating Repetitive Repetition\]](https://osu.ppy.sh/beatmapsets/1703935#fruits/3481651)**
 
 ### Quarterfinals
 
@@ -205,7 +205,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Utada Hikaru - Beautiful World (tutuhaha) \[Beautiful\]](https://osu.ppy.sh/beatmapsets/240627#fruits/556052)
   3. [Lia - Toki o Kizamu Uta (Dada) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/1550603#fruits/3168616)
 - Tiebreaker
-  1. **[Roselia - FIRE BIRD (Kowari) \[CONFLAGRATION\]](https://osu.ppy.sh/beatmapsets/1451503#fruits/2984644)**   
+  1. **[Roselia - FIRE BIRD (Kowari) \[CONFLAGRATION\]](https://osu.ppy.sh/beatmapsets/1451503#fruits/2984644)**
 
 ### Round of 16
 

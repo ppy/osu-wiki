@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
   5. [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/14994#osu/54581)
   6. [Amuro vs Killer - Mei (v2b) \[Another\]](https://osu.ppy.sh/beatmapsets/8965#osu/36290)
   7. [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
-  8. [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)    
+  8. [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)
 - Tiebreaker
   1. **[IOSYS - Usatei (Card N'FoRcE) \[RUN!!\]](https://osu.ppy.sh/beatmapsets/3959#osu/22993)**
 

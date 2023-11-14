@@ -12,7 +12,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 *Ayrıca bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.
 
 **Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 

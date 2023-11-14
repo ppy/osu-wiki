@@ -552,7 +552,7 @@ Les liens doivent utiliser le style en ligne s'ils ne sont référencés qu'une 
 #### Liens Wiki
 
 Tous les liens qui pointent vers un article wiki doivent commencer par `/wiki/` suivi du chemin pour arriver à l'article visé. Des liens relatifs peuvent également être utilisés. 
-  
+
 Voici quelques exemples :
 
 ```markdown

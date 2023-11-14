@@ -10,7 +10,7 @@ outdated_since: 22e9dc764023926abc7249b185da7c1028cf7882
 
 BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan hampir seluruh forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan tulisan dalam format *rich text* melalui berbagai tag, di mana masing-masing tag memiliki fungsinya tersendiri seperti memformat teks, memberikan atribut, menyematkan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan di berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
-![Editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Editor post pada forum osu!")  
+![Editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Editor post pada forum osu!")
 
 ## Perilaku
 
@@ -29,7 +29,7 @@ BBCode, sebagaimana bahasa *markup* lain pada umumnya, digunakan untuk memformat
 
 Beberapa tag memiliki argumen tambahan yang dapat dibubuhkan pada tag pembuka melalui tanda sama dengan (`=`). Argumen ini digunakan untuk menunjukkan URL, ukuran huruf, atau elemen lain yang berkaitan dengan tag tersebut.
 
-Berikut merupakan daftar tag BBCode yang didukung oleh situs web osu! beserta penjelasannya.  
+Berikut merupakan daftar tag BBCode yang didukung oleh situs web osu! beserta penjelasannya.
 
 ### Bold
 

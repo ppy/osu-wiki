@@ -8,7 +8,7 @@ date: 2019-06-30 17:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/41/header.jpg)
 
-Did our last release from [**RiraN**](https://osu.ppy.sh/beatmaps/artists/40) get your heart pumping? Fancied some more hardstyle hits to sink your teeth into? Say hello to [**Rising Sun Traxx**](https://osu.ppy.sh/beatmaps/artists/41), osu!'s latest partnered record label dedicated to providing you with a wide variety of top-of-the-line music at the low, low price of *absolutely free*.  
+Did our last release from [**RiraN**](https://osu.ppy.sh/beatmaps/artists/40) get your heart pumping? Fancied some more hardstyle hits to sink your teeth into? Say hello to [**Rising Sun Traxx**](https://osu.ppy.sh/beatmaps/artists/41), osu!'s latest partnered record label dedicated to providing you with a wide variety of top-of-the-line music at the low, low price of *absolutely free*.
 
 We've declared June 2019 as the month of hardstyle as **Rising Sun Traxx** furthers the charge featuring a new release from RiraN, select tracks from a myriad of other artists, and bonus songs by the man behind the movement, SOTUI. Even if the more aggressive sound isn't quite your cup of tea, the sheer genre diversity found among the **Rising Sun Traxx** roster we've nabbed for you is sure to house new favorites for those daring enough to dip their toes into the mix.
 
