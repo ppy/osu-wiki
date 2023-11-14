@@ -2,6 +2,8 @@
 tags:
   - usergroup
 no_native_review: true
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 # Grupo de usuarios
