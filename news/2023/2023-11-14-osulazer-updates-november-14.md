@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: November 14th"
+title: "osu!(lazer) Updates: November 14"
 date: 2023-11-14 23:30:00 +0000
 ---
 
