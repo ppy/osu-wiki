@@ -112,7 +112,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [technoplanet - Juvenile (Astronic) \[Ataraxis\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659368)
   3. [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
   4. [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#osu/2897138)
-  5. [Frums - Star Of The COME ON!! (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1276329#osu/2651796) 
+  5. [Frums - Star Of The COME ON!! (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1276329#osu/2651796)
   6. [II-L - VOSTOK-6 (DeviousPanda) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1380791#osu/2852981)
 - Hidden
   1. [Nekomata Master+ - encounter (Realazy) \[Yusomi's Confusion\]](https://osu.ppy.sh/beatmapsets/815758#osu/2004828)
@@ -144,7 +144,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [xi - Longinus (Regou) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1396101#osu/2881524)
   3. [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
   4. [Raphlesia & BilliumMoto - My Love (Mao) \[Our Love\]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)
-  5. [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952) 
+  5. [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952)
   6. [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
 - Hidden
   1. [inabakumori - NON-USE (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1317045#osu/2728951)
@@ -176,7 +176,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [xi - Bad Elixir (Cherry Blossom) \[Idealism\]](https://osu.ppy.sh/beatmapsets/878944#osu/1838165)
   3. [Akatsuki Records - BLOODSHED (Zelq) \[Extra\]](https://osu.ppy.sh/beatmapsets/937624#osu/1958623)
   4. [Camellia - #1f1e33 (Realazy) \[Acyl x Heilia's Extra\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708956)
-  5. [UNDEAD CORPORATION - Bleed, hate, curse, and die (Weriko) \[Hate\]](https://osu.ppy.sh/beatmapsets/1269276#osu/2646572) 
+  5. [UNDEAD CORPORATION - Bleed, hate, curse, and die (Weriko) \[Hate\]](https://osu.ppy.sh/beatmapsets/1269276#osu/2646572)
   6. [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Rio's Eztra\]](https://osu.ppy.sh/beatmapsets/883825#osu/1866037)
 - Hidden
   1. [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
@@ -208,7 +208,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
   2. [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) \[Illusion\]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
   3. [fripSide - only my railgun (Petal) \[Extraordinary\]](https://osu.ppy.sh/beatmapsets/1358802#osu/2811763)
   4. [Getty vs. DJ DiA - Engage-Rex (Realazy) \[Leadcore's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768158)
-  5. [Gram (DJ Genki) - Nibelungen (Sakura Blossom) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1040056#osu/2557524) 
+  5. [Gram (DJ Genki) - Nibelungen (Sakura Blossom) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1040056#osu/2557524)
   6. [Gekidan Record feat. Nekomata Master - Houkou Orpheus (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/1257522#osu/2613064)
 - Hidden
   1. [Nor + YUC'e - Mint Comet (JrSzZ) \[Chromatic\]](https://osu.ppy.sh/beatmapsets/1000076#osu/2092293)

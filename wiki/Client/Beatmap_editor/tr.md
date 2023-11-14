@@ -25,7 +25,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Timing (Zamanlama)
 
-[Timing (Zamanlama)](/wiki/Client/Beatmap_editor/Timing) bir beatmapin zamanlama kısımlarını denetler ve beatmapin vuruş seslerini kontrol eder. Bu bir beatmapin doğru zamanlamaya ve şarkının ritmine uygun oynanış tecrübesi sağlaması için uygun geri bildirim sağlamaya ihtiyacı olduğu için zorunludur. 
+[Timing (Zamanlama)](/wiki/Client/Beatmap_editor/Timing) bir beatmapin zamanlama kısımlarını denetler ve beatmapin vuruş seslerini kontrol eder. Bu bir beatmapin doğru zamanlamaya ve şarkının ritmine uygun oynanış tecrübesi sağlaması için uygun geri bildirim sağlamaya ihtiyacı olduğu için zorunludur.
 
 ## Song Setup (Müzik Kurulumu)
 

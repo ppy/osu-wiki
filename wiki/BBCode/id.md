@@ -219,7 +219,7 @@ Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang b
 [/list]
 ```
 
-Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik itu yang diurutkan dengan poin (*bulleted list*) atau dengan angka (*numbered list*). Masing-masing item dalam daftar dinyatakan dengan simbol bintang yang diapit oleh dua tanda kurung (`[*]`) sebagaimana yang dicontohkan di atas. 
+Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik itu yang diurutkan dengan poin (*bulleted list*) atau dengan angka (*numbered list*). Masing-masing item dalam daftar dinyatakan dengan simbol bintang yang diapit oleh dua tanda kurung (`[*]`) sebagaimana yang dicontohkan di atas.
 
 Secara *default*, apabila argumen `JENIS` tidak ditentukan, tag ini akan menghasilkan daftar yang diurutkan dengan poin. Sebaliknya, apabila argumen ini diisi dengan sesuatu (terlepas dari apapun itu isinya), tag ini akan menghasilkan daftar yang diurutkan dengan angka.
 

@@ -31,7 +31,7 @@ In case re-encoding is necessary, it is suggested to use the highest-quality sou
 
 To begin, download and install [Handbrake](https://handbrake.fr/), then follow these steps:
 
-1. Open Handbrake, then import your video file by either: 
+1. Open Handbrake, then import your video file by either:
    - Drag-and-dropping the file into Handbrake, or
    - Clicking the `File` option, then selecting the file to import.
 

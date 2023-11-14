@@ -57,7 +57,7 @@ layout: main_page
 
 # 비트맵 제출 및 랭크
 
-랭크는 비트맵에 리더보드를 얻을 수 있도록 하는 과정으로, 이를 통해 비트맵이 더 대중적으로 잘 알려질 수 있도록 합니다. 이를 위해 무엇이 필요한지, 비트맵 토론을 통해 맵의 퀄리티를 높이거나 랭크 과정을 진행하는 방법에 대해 알아보세요. 
+랭크는 비트맵에 리더보드를 얻을 수 있도록 하는 과정으로, 이를 통해 비트맵이 더 대중적으로 잘 알려질 수 있도록 합니다. 이를 위해 무엇이 필요한지, 비트맵 토론을 통해 맵의 퀄리티를 높이거나 랭크 과정을 진행하는 방법에 대해 알아보세요.
 
 [비트맵 제출](/wiki/Beatmapping/Beatmap_submission) • [모딩](/wiki/Modding) • [랭크 과정](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -68,7 +68,7 @@ layout: main_page
 
 # 규칙과 법률적 문제
 
-osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인으로부터 계속 안전하게 지켜질 수 있도록 절차 및 채팅 규정에 대해 읽어주세요. 
+osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인으로부터 계속 안전하게 지켜질 수 있도록 절차 및 채팅 규정에 대해 읽어주세요.
 
 [규칙](/wiki/Rules) • [기여자 행동지침](/wiki/Rules/Contributor_code_of_conduct) • [모딩 및 매핑을 위한 행동지침](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 

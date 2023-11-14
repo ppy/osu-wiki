@@ -325,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Memme - Extreme Fantasy (Chokori) \[SHD - Lv. 29\]](https://osu.ppy.sh/beatmapsets/915904#osu/1912895)
 - FreeMod
   1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmapsets/106443#osu/279481)
-  2. [Cranky - The Five \[Short Edit\] (AJT) \[Five\]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840) 
+  2. [Cranky - The Five \[Short Edit\] (AJT) \[Five\]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840)
 
 ### Swiss round (week 2)
 
@@ -710,9 +710,9 @@ Monday, 23 August 2021:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are fairly awarded towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
@@ -773,7 +773,7 @@ Monday, 23 August 2021:
 4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which each player needs to win at least 2 out of the 3 contested sets in order to clinch the championship title.
 5. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13) 
+   - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who win by default will advance to the next round.
    - Players who are disqualified from the tournament will not advance to the next round.
 

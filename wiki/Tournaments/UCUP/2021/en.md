@@ -480,7 +480,7 @@ Sunday, 26 September 2021:
 5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that points are awarded more fairly towards players and teams who perform better in general during the course of the beatmap, regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed by up to 15 minutes.
    - In case the disconnected player fails to report back to their team after the maximum allowance of 15 minutes pass, the opposing team may be declared to win the match by default.
@@ -507,7 +507,7 @@ Sunday, 26 September 2021:
 3. Teams  **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams  **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. Teams are allowed a maximum of **90 seconds** of break in between the beatmaps.
-6. Based on their performance in the Qualifier, teams will be ranked based on their **average rank combined from each individual Qualifier beatmaps**. The 32 teams with the highest average rank combined will advance to the knock-out stages. 
+6. Based on their performance in the Qualifier, teams will be ranked based on their **average rank combined from each individual Qualifier beatmaps**. The 32 teams with the highest average rank combined will advance to the knock-out stages.
    - If there are two (or more) teams who share the same average rank, the team that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in instant elimination from the tournament.
 
@@ -532,11 +532,11 @@ Sunday, 26 September 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team is obligated to ban **one beatmap** (in the Round of 32 and Round of 16) or **two beatmaps** (in the Quarterfinals, Semifinals, and both of the Finals weeks) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
+2. Each team is obligated to ban **one beatmap** (in the Round of 32 and Round of 16) or **two beatmaps** (in the Quarterfinals, Semifinals, and both of the Finals weeks) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, HardRock, Hidden+Easy, or Hidden+HardRock**.
    - Playing a FreeMod pick without any mods activated (NoMod) will incur a **x0.7 score penalty** to the corresponding player.
 5. The tiebreaker will be played under FreeMod conditions, although players are not forced to pick mods.
-   - The x0.7 score penalty for NoMod players does not apply in the tiebreaker. 
+   - The x0.7 score penalty for NoMod players does not apply in the tiebreaker.
 6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.

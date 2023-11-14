@@ -382,7 +382,7 @@ Sunday, 12 September 2021:
    - Whether there are players who are disqualified from the tournament.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.

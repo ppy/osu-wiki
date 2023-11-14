@@ -35,7 +35,7 @@ Si un réencodage est nécessaire, il est conseillé d'utiliser le fichier sourc
 
 Pour commencer, téléchargez et installez [Handbrake](https://handbrake.fr/), puis suivez les étapes suivantes :
 
-1. Ouvrez Handbrake, puis importez votre fichier vidéo de l'une des manières suivantes : 
+1. Ouvrez Handbrake, puis importez votre fichier vidéo de l'une des manières suivantes :
    - Glisser-déposer le fichier dans Handbrake, ou
    - Cliquez sur l'option `Fichier`, puis sélectionnez le fichier à importer.
 

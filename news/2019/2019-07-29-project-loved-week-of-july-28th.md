@@ -174,7 +174,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by [Evening](https://osu.ppy.sh/users/2193881) and [XeoStyle](https://osu.ppy.sh/users/3377280)\
 140 BPM, 8:48 | \[4K\] 4.74★, \[4K\] 5.64★, \[4K\] 5.77★
 
-"Return of the king" is a phrase one may use seeing this nomination to the Loved section. Evening, one of the most well-known and influential mappers to ever grace osu!mania, is back in the nominations with an even more well-known and popular song from a recently added Featured Artist—Imperial Circus Dead Decadence. 
+"Return of the king" is a phrase one may use seeing this nomination to the Loved section. Evening, one of the most well-known and influential mappers to ever grace osu!mania, is back in the nominations with an even more well-known and popular song from a recently added Featured Artist—Imperial Circus Dead Decadence.
 
 The Everlasting Duet is an exhausting mix of dense jumpstream with occasional minijacks to the percussion along with dumped-out, blazing-fast streams mixed in to intensify the screaming vocals. Not to mention that the map, fitting to the difficulty name, is a daunting near *9 minutes* in length, only serving to exemplify the extreme strain that the fast, awkward, never-ending patterns have on players.
 

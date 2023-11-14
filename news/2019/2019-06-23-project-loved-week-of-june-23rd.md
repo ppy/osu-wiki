@@ -49,7 +49,7 @@ You wake up one morning feeling lost and confused. You check your phone—the ye
 136 BPM, 2:53 | 7.40★, 7.41★\
 *description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-Do you want to do magic? This song will give you the magic words. Mara's *Witch Doctor* offers a TAG4 difficulty and a 7 star difficulty from DTM9 Nowa which offer different ways of playing the map. Both are pretty hard if you do play them solo. Nowa's difficulty offers high spaced jumps on half beats and some calmer parts in the intersections as well as high slider velocity at main parts of the song. The TAG4 difficulty by Mara offers a fairly normal map with unexpected TAG4 mapping styles added in there. Overall, this map is a solid quality map with a friendly happy song. 
+Do you want to do magic? This song will give you the magic words. Mara's *Witch Doctor* offers a TAG4 difficulty and a 7 star difficulty from DTM9 Nowa which offer different ways of playing the map. Both are pretty hard if you do play them solo. Nowa's difficulty offers high spaced jumps on half beats and some calmer parts in the intersections as well as high slider velocity at main parts of the song. The TAG4 difficulty by Mara offers a fairly normal map with unexpected TAG4 mapping styles added in there. Overall, this map is a solid quality map with a friendly happy song.
 
 There's been a small group of people helping keep TAG4 alive and relevant in this current day and age, so big shoutout to Mara for all the work he's done to keep the spirit of TAG alive and healthy!
 

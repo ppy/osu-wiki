@@ -10,7 +10,7 @@ We're proud to welcome **YUZUKINGDOM** as our latest Featured Artist!
 
 What happens when you merge an insanely talented J-rock vocalist with the instrumental prowess of legendary metal band [BLOOD STAIN CHILD](https://osu.ppy.sh/beatmaps/artists/126)? The only possible outcome is **YUZUKINGDOM** — a side project for vocalist Yuzuki (a.k.a. *KING*) from the rock band Q'ulle.
 
-**YUZUKINGDOM** has released a trio of high intensity albums since their launch in 2018, each featuring the hardcore force to be expected from metal, and contrasted with Yuzuki's poppy vocals. 
+**YUZUKINGDOM** has released a trio of high intensity albums since their launch in 2018, each featuring the hardcore force to be expected from metal, and contrasted with Yuzuki's poppy vocals.
 
 We've hand-picked **11** of the most osu!-esque songs from these albums, all available right now from [**YUZUKINGDOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/155).
 

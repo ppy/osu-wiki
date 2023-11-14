@@ -235,9 +235,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Ice - 02: Amber Wishes (FrenZ396) \[Shizuku's Extra\]](https://osu.ppy.sh/beatmapsets/801704#osu/1714161)
   3. [Matsushita - raspberry cube (Primonix) \[Sweet and sour!\]](https://osu.ppy.sh/beatmapsets/1492234#osu/3058850)
   4. [Pastel\*Palettes - Harumodoki (Asterisk DnB Remix) \[Rakakun- Edit\] (-Mikan) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
-  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840) 
+  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840)
 - Hidden
-  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
+  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862)
   2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
   3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
 - HardRock
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
   5. [Laur - Viyella's Tears (Avaricious) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078644#osu/2256943)
 - Hidden
-  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
+  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237)
   2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
   3. [Nor - Theme 113 (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
 - HardRock

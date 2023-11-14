@@ -8,7 +8,7 @@ The results for the second osu!standard Mapping Olympiad contest are in! See who
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/72)
 
-This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results: 
+This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results:
 
 | Rank | Username | Entry Name | Musical Relevance (40) | Creativity (60) | Technique (40) | Impression (40) | Hitsounding (20) | Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |

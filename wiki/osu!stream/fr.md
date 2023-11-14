@@ -335,10 +335,10 @@ En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commen
 
 En **Mode Expert, une seule barre de vie complète est utilisée à la place**.
 
-Ce qui suit remplit la barre de vie : 
+Ce qui suit remplit la barre de vie :
 
 - Compléter les spinners et les hold circles.
-- Obtenir un osu!, gold good!, green good!, 300, ou un 100, 
+- Obtenir un osu!, gold good!, green good!, 300, ou un 100,
   - Pour les cercles, les meilleurs jugements remplissent davantage la barre de vie. Le dernier cercle touché d'une combinaison de couleurs donne plus de vie.
   - Pour les sliders, la barre de vie est remplie en fonction du nombre de parties touchées, une fois le slider terminé.
 

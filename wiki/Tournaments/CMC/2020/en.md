@@ -152,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
   13. [YUC'e - Night Club Junkie (gemboyong) \[Junk\]](https://osu.ppy.sh/beatmapsets/736941#mania/1555269)
   14. [Camellia - Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)
   15. [Camellia - Bring Our Ignition Back (Evening) \[light\]](https://osu.ppy.sh/beatmapsets/1188926#mania/2477443)
-  16. [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200) 
+  16. [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200)
 - Tiebreaker
   1. **[EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**
 
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
   11. [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
   12. [seafoxy - Hisame (FelixSpade) \[New Season\]](https://osu.ppy.sh/beatmapsets/1091518#mania/2281898)
 - Tiebreaker
-  1. **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
+  1. **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)**
 
 ### Group stage
 
@@ -355,7 +355,7 @@ Sunday, 29 November 2020:
    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
    - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA)" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
-4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
+4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room.
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules

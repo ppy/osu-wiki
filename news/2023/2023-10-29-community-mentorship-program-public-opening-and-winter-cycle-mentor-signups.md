@@ -35,6 +35,6 @@ If you or a friend are curious about the rules and which mentors you can apply f
 
 Otherwise: [join our Discord server!](https://discord.gg/EvHqwvD)
 
-We're looking forward to the mappers, modders and storyboarders of tomorrow! 
+We're looking forward to the mappers, modders and storyboarders of tomorrow!
 
 —Mentorship Organisation Team

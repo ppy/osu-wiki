@@ -80,24 +80,24 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   1. [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
   2. [Toromaru - Enigma (AtHeoN) \[MASTER\]](https://osu.ppy.sh/beatmapsets/527869#fruits/2290441)
-  3. [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmapsets/611806#fruits/1291369) 
+  3. [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmapsets/611806#fruits/1291369)
   4. [TRUE - Divine Spell (Atalanta) \[Awoke\]](https://osu.ppy.sh/beatmapsets/886712#fruits/1853779)
   5. [DJ Okawari - Flower Dance (Short Ver.) (-Hanayuki-) \[Hus AR9\]](https://osu.ppy.sh/beatmapsets/252981#fruits/674285)
 - Hidden
   1. [Jin feat. MARiA from GARNiDELiA - daze (\_kotachi\_) \[Let's "Excitement"\]](https://osu.ppy.sh/beatmapsets/620132#fruits/1307021)
   2. [Memme - Sky of the Ocean (Syph) \[Hikaru's Extra.\]](https://osu.ppy.sh/beatmapsets/668888#fruits/1429744)
-  3. [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378) 
+  3. [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378)
   4. [solfa feat.Shimotsuki Haruka - leap in your mind (Garden) \[Decay\]](https://osu.ppy.sh/beatmapsets/569071#fruits/1206489)
 - HardRock
   1. [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#fruits/945304)
   2. [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#fruits/439135)
-  3. [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#fruits/1451733) 
+  3. [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#fruits/1451733)
   4. [Uinyasu, Occhoko Bunny - Tougen Roman (Epsilon Remix) (Sakura Airi) \[Odore\]](https://osu.ppy.sh/beatmapsets/1173379#fruits/2447252)
 - DoubleTime
   1. [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#fruits/1955207)
   2. [Uehara Rena - Answer (Shad0w1and) \[Shinjitsu\]](https://osu.ppy.sh/beatmapsets/430141#fruits/927939)
   3. [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)
-  4. [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049) 
+  4. [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049)
 - Tiebreaker
   1. **[Diao ye zong feat. Meramipop - Shinkirou (jonathanlfj) \[Collab Masquerade\]](https://osu.ppy.sh/beatmapsets/628765#fruits/1325510)**
 
@@ -108,24 +108,24 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   1. [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)
   2. [MaxNRG - Hide Away My Heart (Silverboxer) \[Always\]](https://osu.ppy.sh/beatmapsets/904621#fruits/1888178)
-  3. [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#fruits/2223745) 
+  3. [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#fruits/2223745)
   4. [Rolling Contact - Technical Master (Naidaaka) \[owo\]](https://osu.ppy.sh/beatmapsets/630818#fruits/1331610)
   5. [reworu - Gigantic O.T.N (murasaki_sk) \[AR9\]](https://osu.ppy.sh/beatmapsets/80906#fruits/230398)
 - Hidden
   1. [Getty vs. DJ DiA - Grayed Out -Antifront- (Arbane) \[Xtra\]](https://osu.ppy.sh/beatmapsets/598182#fruits/1264457)
   2. [Hello, Happy World! - Goka! Gokai!? Phantom Thief! (Atalanta) \[Aqua's Another\]](https://osu.ppy.sh/beatmapsets/708445#fruits/1643246)
-  3. [x0o0x\_ - Big Brother (Luscent) \[Thoughtcrime\]](https://osu.ppy.sh/beatmapsets/1120687#fruits/2341682) 
+  3. [x0o0x\_ - Big Brother (Luscent) \[Thoughtcrime\]](https://osu.ppy.sh/beatmapsets/1120687#fruits/2341682)
   4. [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#fruits/2142037)
 - HardRock
   1. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[Neiro's Another\]](https://osu.ppy.sh/beatmapsets/1043808#fruits/2220124)
   2. [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)
-  3. [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
+  3. [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425)
   4. [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)
 - DoubleTime
   1. [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)
   2. [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)
   3. [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)
-  4. [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
+  4. [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081)
 - Tiebreaker
   1. **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
 
@@ -136,7 +136,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   1. [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)
   2. [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#fruits/793845)
-  3. [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
+  3. [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833)
   4. [MISATO - Necro Fantasia (WORSTPOLACKEU) \[Sakura no Yume\]](https://osu.ppy.sh/beatmapsets/626406#fruits/1320292)
 - Hidden
   1. [Yousei Teikoku - Shinteki Souzou (-Keitaro) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/985170#fruits/2068168)
@@ -160,7 +160,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   1. [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)
   2. [Magnetude - Signals (Firebool) \[adioni's 100 MHz\]](https://osu.ppy.sh/beatmapsets/850972#fruits/1834172)
-  3. [Little Big - UNO (Gero) \[UNO, DOS, DOS, CUATRO\]](https://osu.ppy.sh/beatmapsets/1128448#fruits/2357612) 
+  3. [Little Big - UNO (Gero) \[UNO, DOS, DOS, CUATRO\]](https://osu.ppy.sh/beatmapsets/1128448#fruits/2357612)
   4. [Poppin'Party - Time Lapse (browiec) \[Time Lapse\]](https://osu.ppy.sh/beatmapsets/1018483#fruits/2131344)
 - Hidden
   1. [Sayaki Sasaka - Sakura, Reincarnation (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/884081#fruits/1863992)
@@ -184,7 +184,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   1. [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)
   2. [void - Sun Goes Down (BMS edit) (Frey) \[Insane\]](https://osu.ppy.sh/beatmapsets/382413#fruits/836269)
-  3. [HyuN - Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#fruits/1863246) 
+  3. [HyuN - Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#fruits/1863246)
   4. [Yellow Zebra - Koi no Flame (m3gb3g) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908831#fruits/2205008)
 - Hidden
   1. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#fruits/129875)
@@ -375,7 +375,7 @@ Sunday, 11 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knockout stage rules 
+### Knockout stage rules
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.

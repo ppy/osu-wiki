@@ -181,7 +181,7 @@ The intensity of each section is exaggerated to satisfying effect, clearly repre
 
 Wh1teh Pack #3 is a 15-chart pack filled with everything that you would expect from Wh1teh: Short jumpstream charts (Death Waltz, Moon Gate), stamina jumpstream charts (Blue Noah 2006), chordjacking (Glucagon), and even a technical chart (Devilz Staircase) on the side. The charts are also very varied in difficulty, so there's at least two charts or three for most players to try out.
 
-These charts are not only instantly gratifying to players, but there is a lot of nuance hidden in a good portion of the charts in the map pack. For instance, astute players might be able to notice how much deliberate repetition Wh1teh uses in Moon Gate and Blue White Crazybits, and that repetition doesn't hinder those charts' linearity in the slightest. In fact, that repetition accentuates the gameplay experience. 
+These charts are not only instantly gratifying to players, but there is a lot of nuance hidden in a good portion of the charts in the map pack. For instance, astute players might be able to notice how much deliberate repetition Wh1teh uses in Moon Gate and Blue White Crazybits, and that repetition doesn't hinder those charts' linearity in the slightest. In fact, that repetition accentuates the gameplay experience.
 
 There are many charts in this pack that are like that: complements the music wonderfully, yet linear and simple on the surface. Those properties make this pack extremely appealing to players and charters alike.
 

@@ -48,8 +48,8 @@ Feast your ears and behold:
 
 As is the usual, all of the above plus a whole ton more are available for your mapping delight over at [**Panda Eyes**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/55). Head on over and check the massive collection out!
 
-But where does that leave us for next week? 
+But where does that leave us for next week?
 
 I can't wait!
 
-—Ephemeral 
+—Ephemeral

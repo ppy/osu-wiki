@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [DNCE - Cake By The Ocean (Sidetail) \[aYaYaYaYa\]](https://osu.ppy.sh/beatmapsets/824393#osu/1748652)
   2. [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
-  3. [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852) 
+  3. [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852)
 
 ### Round of 32
 
