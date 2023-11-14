@@ -25,13 +25,13 @@ A partir de junio de 2023, las insignias anteriores se otorgan a cualquier usuar
 
 ### Puntuación base
 
-| Clasificación en la lista de juego | Puntos |
+| Puesto en la lista de juego | Puntos |
 | :-- | :-- |
-| 1.ª | **10** |
-| 2.ª | 5 |
-| 3.ª | 3 |
-| 4.ª - 5.ª | 2 |
-| 6.ª - 10.ª | 1 |
+| 1.º | **10** |
+| 2.º | 5 |
+| 3.º | 3 |
+| Del 4.º al 5.º | 2 |
+| Del 6.º al 10.º | 1 |
 
 ### osu!
 
