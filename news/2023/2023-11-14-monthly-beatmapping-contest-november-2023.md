@@ -11,8 +11,8 @@ Another month passes, and another contest arrives! See if you have what it takes
 You don't need many brain cells to comprehend what the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is. This month is all about **osu!** and **osu!mania**, including...
 
 - Results for [September's MBC](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023)
-  - [osu! results](#osu-results)
-  - [osu!mania results](#osu-mania-results)
+  - [osu! results](#osu!-results)
+  - [osu!mania results](#osu!-mania-results)
 - [Criteria for this month's MBC](#game-modes)
 
 Navigate to whichever topic you're interested in above (or flex your scrolling muscles as needed).
@@ -133,7 +133,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-- **Submissions must follow the month's beatmapping [limitation/theme](#limitationtheme):**
+- **Submissions must follow the month's beatmapping [limitation/theme](#limitation/theme):**
   - **osu!:** there must be a 1 beat (or longer) gap within every 2 bars of music.
   - **osu!mania:** the ratio of *normal notes* to *long notes* (or vice versa) should be as close as possible to the golden ratio.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
