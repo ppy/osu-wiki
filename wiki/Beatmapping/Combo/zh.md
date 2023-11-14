@@ -13,7 +13,7 @@ tags:
 
 *对于更多义项，参阅 [连击（消歧义）](/wiki/Disambiguation/Combo)。*
 
-**连击** （或 **连击组**）指的是 [osu!](/wiki/Game_mode/osu!) 和 [osu!catch](/wiki/Game_mode/osu!catch) 模式[谱面](/wiki/Beatmap)中的一组[圆圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)。同一连击中的[打击物件](/wiki/Gameplay/Hit_object)拥有相同的[连击颜色](/wiki/Beatmapping/Combo_colour)，并由示踪点连接。如果连击成功完成，最后的物件会额外回复[血量](/wiki/Gameplay/Health)。每组连击从带有新连击（new combo）标志的打击物件开始。
+**连击** （或 **连击组**）指的是 [osu!](/wiki/Game_mode/osu!) 和 [osu!catch](/wiki/Game_mode/osu!catch) 模式[谱面](/wiki/Beatmap)中的一组[圆圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑条](/wiki/Gameplay/Hit_object/Slider)。同一连击中的[打击物件](/wiki/Gameplay/Hit_object)拥有相同的[连击颜色](/wiki/Beatmapping/Combo_colour)，并由物件间的轨迹连接。如果连击成功完成，最后的物件会额外回复[血量](/wiki/Gameplay/Health)。每组连击从带有新连击（new combo）标志的打击物件开始。
 
 [osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 不使用连击组。
 
