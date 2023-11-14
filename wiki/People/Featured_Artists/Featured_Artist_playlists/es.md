@@ -5,9 +5,9 @@ tags:
 
 # Listas de juego de artistas destacados
 
-Las **listas de juego de artistas destacados** se publican en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) y resaltan el contenido de [artistas destacados](/wiki/People/Featured_Artists) en todos los [modos de juego](/wiki/Game_mode). Las listas de juego evitan un formato estricto, por lo que los parámetros de la lista de juego, las selecciones de beatmaps y los criterios de premios varían en cada lista de juego.
+Las **listas de juego de artistas destacados** se publican en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) y resaltan el contenido de los [artistas destacados](/wiki/People/Featured_Artists) en todos los [modos de juego](/wiki/Game_mode). Las listas de juego evitan un formato estricto, por lo que los parámetros de la lista de juego, las selecciones de beatmaps y los criterios de premios varían en cada lista de juego.
 
-![Lobby de lista de juego de artistas destacados](img/playlist.jpg "osu!(lazer) Lobby de lista de juego de artistas destacados")
+![Sala de una lista de juego de artistas destacados](img/playlist.jpg "osu!(lazer) Sala de una lista de juego de artistas destacados")
 
 Accede a las listas de reproducción a través del menú para jugar en osu!(lazer) y filtrando por **Featured Artist** en la esquina superior derecha.
 
