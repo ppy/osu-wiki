@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: November 2023"
-date: 2023-11-09 10:00:00 +0000
+date: 2023-11-14 20:00:00 +0000
 ---
 
 Another month passes, and another contest arrives! See if you have what it takes to join the mapping elites, and witness the results of the previous contest!
@@ -10,7 +10,7 @@ Another month passes, and another contest arrives! See if you have what it takes
 
 You don't need many brain cells to comprehend what the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is. This month is all about **osu!** and **osu!mania**, including...
 
-- Results from [September's MBC](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023)
+- Results for [September's MBC](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023)
   - [osu! results](#osu-results)
   - [osu!mania results](#osu-mania-results)
 - [Criteria for this month's MBC](#game-modes)
@@ -23,29 +23,30 @@ Navigate to whichever topic you're interested in above (or flex your scrolling m
 
 **61** submissions were reviewed by our [screening crew](/wiki/Contests/Monthly_Beatmapping_Contest#screening), **15** of which were evaluated by a separate [judging panel](/wiki/Contests/Monthly_Beatmapping_Contest#judging)!
 
-[See the full results here.](LINK)
+[See the full results here.](https://mappersguild.com/contests/results?contest=651b10d44d050c31f46c8df5)
 
 | User | Beatmap | Placement | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| [Lasse](https://osu.ppy.sh/users/896613) | link | Screener's pick | - | +1 (1 total) |
+| [acnozei](https://osu.ppy.sh/users/10141268) | [ginkiha feat. TEA - Haruka](https://osu.ppy.sh/beatmapsets/2088591#osu/4376852) | 1st + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +4 (5 total) |
+| [phyr](https://osu.ppy.sh/users/13181574) | [Aiobahn - Towa no Utage (w/ YUC'e)](https://osu.ppy.sh/beatmapsets/2088596#osu/4376857) | 2nd | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
+| [LeCandy](https://osu.ppy.sh/users/6626249) | [Redside - Sidequest](https://osu.ppy.sh/beatmapsets/2088634#osu/4376938) | 3rd | - | +1 (1 total) |
+| [Lasse](https://osu.ppy.sh/users/896613) | [ABSOLUTE CASTAWAY - Musubime](https://osu.ppy.sh/beatmapsets/2088521#osu/4376727) | Screener's pick | - | +1 (1 total) |
 
-To start, [acnozei](https://osu.ppy.sh/users/10141268) and [Lasse](https://osu.ppy.sh/users/896613) completely dominated the screening phase! Each of their maps were praised equally, yet they were far ahead of the next map in line, earning both a single [contest point](/wiki/Contests/Contest_points) towards the *Elite Mapper* title.
+To start, [acnozei](https://osu.ppy.sh/users/10141268) and [Lasse](https://osu.ppy.sh/users/896613) completely dominated the screening phase! Each of their maps were praised equally, yet both were far ahead of the next map in line, earning the mappers a single [contest point](/wiki/Contests/Contest_points) towards their future *Elite Mapper* titles.
 
-<!-- paragraph below is pending finalized judging. this flows best so i hope acnozei wins lol -->
-
-[acnozei](https://osu.ppy.sh/users/10141268)'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! [user](LINK) and [user2](LINK) were close behind, earning 2 and 1 contest points respectively.
+[acnozei](https://osu.ppy.sh/users/10141268)'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! [phyr](https://osu.ppy.sh/users/13181574) and [LeCandy](https://osu.ppy.sh/users/6626249) were close behind, earning 2 and 1 contest points respectively.
 
 ### osu!mania results
 
 **50** piano mashers gave their keyboards a break and explored the editor this month. **10** of them were awesome enough to pass the [screening phase](/wiki/Contests/Monthly_Beatmapping_Contest#screening), and a separate [judging panel](/wiki/Contests/Monthly_Beatmapping_Contest#judging) thoroughly investigated the entries to determine who wears the crown.
 
-[See the full results here.](LINK)
+[See the full results here.](https://mappersguild.com/contests/results?contest=651b137a4d050c31f46c8fdc)
 
 | User | Beatmap | Placement | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| [Lott](https://osu.ppy.sh/users/13821222) | link | #1 | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| [hemoo](https://osu.ppy.sh/users/4420703) | link | #2 + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| [Leej](https://osu.ppy.sh/users/18219603) | link | #3 | - | +1 (1 total) |
+| [Lott](https://osu.ppy.sh/users/13821222) | [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2088664#mania/4377001) | #1 | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| [hemoo](https://osu.ppy.sh/users/4420703) | [Camellia - d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix)](https://osu.ppy.sh/beatmapsets/2089143#mania/4378014) | #2 + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| [Leej](https://osu.ppy.sh/users/18219603) | [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/2088786#mania/4377238) | #3 | - | +1 (1 total) |
 
 After submitting maps to the Monthly Beatmapping Contest **10 times** throughout 2020 and 2021, [Lott](https://osu.ppy.sh/users/13821222) casually dropped into the first iteration of 2023's MBC with a landslide winning. It's about time, so congrats!
 
@@ -83,29 +84,31 @@ This month's osu! limitation focuses on rhythm: **there must be a 1 beat (or lon
 
 For example, there are 2 bars of music between these circles:
 
-![](/wiki/shared/news/2023-11-09-monthly-beatmapping-contest-november-2023/2measures.png)
+![](/wiki/shared/news/2023-11-14-monthly-beatmapping-contest-november-2023/2measures.png)
 
 So this would be an acceptable rhythm:
 
-![](/wiki/shared/news/2023-11-09-monthly-beatmapping-contest-november-2023/gap.png)
+![](/wiki/shared/news/2023-11-14-monthly-beatmapping-contest-november-2023/gap.png)
 
 And this wouldn't:
 
-![](/wiki/shared/news/2023-11-09-monthly-beatmapping-contest-november-2023/nogap.png)
+![](/wiki/shared/news/2023-11-14-monthly-beatmapping-contest-november-2023/nogap.png)
 
 #### osu!mania
 
 If you're proficient in LN and normal note layering, this month's contest is for you.
 
-[RandomeLoL](https://osu.ppy.sh/users/7080063) aims for perfection. That's why the osu!mania theme this month follows the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio): **the ratio of *normal notes* to *long notes* (or vice versa) should be as close as possible to the golden ratio.**
+The [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) has been a staple in artistic mediums for centuries. It's the closest we can come to a measure for perfection, and perfection is exactly what you'll be aiming for while mapping.
+
+This month's theme for osu!mania: **the ratio of *normal notes* to *long notes* (or vice versa) should be as close as possible to the golden ratio.**
 
 This is best explained with an example. These numbers...
 
-![](/wiki/shared/news/2023-11-09-monthly-beatmapping-contest-november-2023/count.png)
+![](/wiki/shared/news/2023-11-14-monthly-beatmapping-contest-november-2023/count.png)
 
-...divide to either ~1.49 (1898/1270) or ~0.67 (1270/1898). The golden ratio is ~1.61, so to fit with the contest's theme, the map should be balanced to have more long notes or fewer normal notes.
+...divide to either ~1.49 (1898/1270) or ~0.67 (1270/1898). The golden ratio is ~1.618, so to fit with the contest's theme, the map should be balanced to have more long notes or fewer normal notes.
 
-The closer to the golden ratio your note counts are, the more points it'll earn in the *theme* judging category!
+The closer to perfection (the golden ratio) your note count ratio is, the better you'll score in the *theme* category! So aim to be as close as possible to that nonsensical number.
 
 ### Songs
 
@@ -130,8 +133,6 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-If you're looking for a lawless contest, wait for the next [Aspire](/wiki/Contests/Aspire). In the meantime, pay attention:
-
 - **Submissions must follow the month's beatmapping [limitation/theme](#limitationtheme):**
   - **osu!:** there must be a 1 beat (or longer) gap within every 2 bars of music.
   - **osu!mania:** the ratio of *normal notes* to *long notes* (or vice versa) should be as close as possible to the golden ratio.
@@ -147,9 +148,9 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Once the perfect beatmap is in your editor, export it and plop it onto one of these pages:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/190)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/191)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/190)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/191)
 
-You have until **the end of November** to submit your entry!
+You have until **December 4th** to submit your entry!
 
 —pishifat, RandomeLoL
