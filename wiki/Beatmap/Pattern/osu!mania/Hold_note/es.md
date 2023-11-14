@@ -8,7 +8,7 @@ Las **notas largas** (también conocidas como **hold notes** en inglés) son not
 
 ![](img/ln.png)
 
-Las **salidas** se refiere a los extremos de las notas mantenidas, es decir, la parte que requiere que se suelte la tecla. Tienen un significado especial debido a que en el momento de soltar se tiene en cuenta en el [sistema de juicio de osu!mania](/wiki/Gameplay/Judgement/osu!mania).
+Los **releases** son los extremos de las notas largas, es decir, la parte que requiere que se suelte la tecla. Tienen un significado especial debido a que en el momento de soltar se tiene en cuenta en el [sistema de juicio de osu!mania](/wiki/Gameplay/Judgement/osu!mania).
 
 ## Shield
 
