@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: November 14th"
-date: 2023-11-14 23:00:00 +0000
+date: 2023-11-14 23:30:00 +0000
 ---
 
 We are delivering the new batch of osu!(lazer) updates at lightning speeds!
@@ -21,9 +21,17 @@ Strap in as we speed through all the coolest changes brought upon the community 
 - **A new skin component has been added.** A new "player name" skin element has been added which automatically changes the name displayed based on whether you are playing a map yourself, or spectating someone.
 - **Touchscreen detection has been added.** osu!(lazer) will automatically recognize if you are using a touch device, and apply the "touch device" mod. As soon as a non-touch input is detected, the mod is removed.
 - **Columns in osu!mania are now expanded on mobile devices.** This is currently limited to the default "argon" skin, but it makes playing osu!mania on mobile devices easier.
-- **New main menu sound effects.** Nothing much to be said here, except that they sound fantastic.
+- **New main menu sound effects.** Say hello to new ear-tingling jingles!
 
 If you are curious about what else has been changed, feast your eyes on the [full changelog](https://osu.ppy.sh/home/news/2023-10-26-osulazer-updates-october-26).
+
+Here's a comparison of the new menu sounds:
+
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://wala.s-ul.eu/4F6C9xGI.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ---
 
