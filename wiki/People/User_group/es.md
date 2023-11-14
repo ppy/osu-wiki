@@ -20,7 +20,7 @@ Al hacer clic en las insignias, se accederá a las listas del grupo respectivo, 
 | 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
 | 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Hacer que el juego sea increíble agregando nuevas funciones y corrigiendo los errores |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
-| 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Equipo de soporte técnico](/wiki/People/Technical_Support_Team) | Ayuda y asistencia |
+| 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support Team](/wiki/People/Support_Team) | Ayuda y asistencia |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Usuarios que van más allá de la llamada para garantizar que los beatmaps sean calificados |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account) | Cuentas especiales administradas por servicios automatizados en lugar de personas reales |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
