@@ -23,7 +23,7 @@ Strap in as we speed through all the coolest changes brought upon the community 
 - **Columns in osu!mania are now expanded on mobile devices.** This is currently limited to the default "argon" skin, but it makes playing osu!mania on mobile devices easier.
 - **New main menu sound effects.** Say hello to new ear-tingling jingles!
 
-If you are curious about what else has been changed, feast your eyes on the [full changelog](https://osu.ppy.sh/home/news/2023-10-26-osulazer-updates-october-26).
+If you are curious about what else has been changed, feast your eyes on the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.1114.0).
 
 Here's a comparison of the new menu sounds:
 
