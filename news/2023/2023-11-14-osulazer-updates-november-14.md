@@ -16,7 +16,7 @@ Strap in as we speed through all the coolest changes brought upon the community 
 
 ### Changes
 
-- **The argon skin has received a major overhaul.** The skin has been updated to a newer design, and it perfectly showcases the future of skinning with adjustable skinning elements.
+- **The "argon" skin has received a major overhaul.** The skin has been updated to a newer design, and it perfectly showcases the future of skinning with adjustable skinning elements.
 - **Dynamic scaling for some skin elements.** This change makes some skin elements scale without squishing or stretching. Support for this is limited for now, but will be expanded in the future.
 - **A new skin component has been added.** A new "player name" skin element has been added which automatically changes the name displayed based on whether you are playing a map yourself, or spectating someone.
 - **Touchscreen detection has been added.** osu!(lazer) will automatically recognize if you are using a touch device, and apply the "touch device" mod. As soon as a non-touch input is detected, the mod is removed.
@@ -27,6 +27,6 @@ If you are curious about what else has been changed, feast your eyes on the [ful
 
 ---
 
-After reading all of this I bet you want to download osu!(lazer) at 186,282 Mbps, so we've conveniently placed the download page [right here](https://osu.ppy.sh/home/download).
+After reading all of this we bet you want to download osu!(lazer) at 186,282 Mbps, so we've conveniently placed the download page [right here](https://osu.ppy.sh/home/download).
 
 —0x84f
