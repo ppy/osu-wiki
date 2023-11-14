@@ -56,7 +56,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 
 ### Tạo tệp mới
 
-*Chú ý: Nếu bạn định tạo tệp bài viết bằng Windows Explorer, hãy đảm bảo lựa chọn `File name extensions` đang được bật.* Xem [Đuôi tên tệp phổ biến trong Windows](https://support.microsoft.com/vi-vn/windows/da4a4430-8e76-89c5-59f7-1cdbbc75cb01) để biết thêm thông tin.
+*Chú ý: Nếu bạn định tạo tệp bài viết bằng Windows Explorer, hãy đảm bảo lựa chọn `File name extensions` đang được bật.* Xem [Đuôi tên tệp phổ biến trong Windows](https://support.microsoft.com/vi-vn/windows/đuôi-tên-tệp-phổ-biến-trong-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) để biết thêm thông tin.
 
 1. Sử dụng Windows Explorer, phần mềm chỉnh sửa hình ảnh, và/hoặc trình soạn thảo văn bản mà bạn ưa thích để tạo tệp mới. Nếu bạn tạo bài viết hoặc bản dịch mới, đổi tên tệp tuân theo [Ngôn ngữ trong Tiêu chuẩn tạo kiểu bài viết](/wiki/Article_styling_criteria/Formatting#locales).
 2. Đi tới [Committing và pushing](#committing-và-pushing).

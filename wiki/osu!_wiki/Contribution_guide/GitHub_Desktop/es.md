@@ -52,7 +52,7 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 
 ### Crear nuevos archivos
 
-*Precaución: si va a crear archivos de artículos con el Explorador de Windows, asegúrese de que la opción `Extensiones de nombre de archivo` esté habilitada.* Véase [Extensiones de nombre de archivo comunes en Windows](https://support.microsoft.com/es-es/windows/da4a4430-8e76-89c5-59f7-1cdbbc75cb01) para obtener instrucciones.
+*Precaución: si va a crear archivos de artículos con el Explorador de Windows, asegúrese de que la opción `Extensiones de nombre de archivo` esté habilitada.* Véase [Extensiones de nombre de archivo comunes en Windows](https://support.microsoft.com/es-es/windows/extensiones-de-nombre-de-archivo-comunes-en-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) para obtener instrucciones.
 
 1. Use Explorador de Windows, su editor de imágenes favorito y/o su editor de texto favorito para crear nuevos archivos. Si está creando nuevos artículos o traducciones, cambie el nombre del archivo para que siga las [configuraciones regionales en los criterios de estilo del artículo](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales).
 2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).

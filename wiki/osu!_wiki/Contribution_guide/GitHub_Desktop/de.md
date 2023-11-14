@@ -52,7 +52,7 @@ Zwar ist die Nutzung von Branches eigentlich optional, sie ist allerdings [aus m
 
 ### Neue Dateien erstellen
 
-*Vorsicht: Wenn du Artikeldateien mit dem Windows-Explorer erstellst, versichere dich, dass die Option `Dateinamenerweiterungen` aktiviert ist.* Siehe [Allgemeine Dateierweiterungen in Windows](https://support.microsoft.com/de-de/windows/da4a4430-8e76-89c5-59f7-1cdbbc75cb01) für eine Anleitung.
+*Vorsicht: Wenn du Artikeldateien mit dem Windows-Explorer erstellst, versichere dich, dass die Option `Dateinamenerweiterungen` aktiviert ist.* Siehe [Allgemeine Dateierweiterungen in Windows](https://support.microsoft.com/de-de/windows/allgemeine-dateierweiterungen-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) für eine Anleitung.
 
 1. Benutze den Windows-Explorer, dein bevorzugtes Bildbearbeitungsprogramm und/oder deinen gewöhnlich verwendeten Texteditor, um neue Dateien anzulegen. Wenn du neue Artikel oder Übersetzungen erstellst, benenne die Datei nach den folgenden [Locales in den Artikelgestaltungskriterien](/wiki/Article_styling_criteria/Formatting#locales).
 2. Mache weiter mit [Commits erstellen und hochladen](#commits-erstellen-und-hochladen).
