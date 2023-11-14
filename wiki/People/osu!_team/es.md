@@ -32,10 +32,10 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizador y administrador de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgación de [artistas destacados](/wiki/People/Featured_Artists), secretario de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Desarrollador de osu!, soporte técnico |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desarrollador de la osu!web |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Encargado general, asesor de la moderación |
+| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desarrollador de osu!web |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Encargado general, asesor de moderación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Asesor de la escena de modding y mapping |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de la osu!web, [artista destacado](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de osu!web, [artista destacado](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de osu!web |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la escena de modding y mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Anfitrión del [canal de YouTube osu!](https://www.youtube.com/@osugame), organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild), divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
@@ -79,7 +79,7 @@ Además del núcleo del osu! team, hay [muchos otros equipos de voluntarios](/wi
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Asesor de la escena de modding y mapping |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Desarrollador de osu! iPhone |
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Desarrollador de osu!, organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild) |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Asesor de la moderación |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Asesor de moderación |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Diseñador del foro |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinario creador de cosas geniales |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Diseñador original de ilustraciones y concepto de [pippi](/wiki/Mascots#pippi) |
