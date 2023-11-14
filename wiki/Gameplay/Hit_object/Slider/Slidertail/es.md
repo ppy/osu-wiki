@@ -4,7 +4,7 @@ tags:
   - sliderend
   - final del slider
   - cola del slider
-  - slider
+  - deslizador
 ---
 
 # Slidertail

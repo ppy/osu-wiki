@@ -4,7 +4,7 @@ tags:
   - sliderstart
   - inicio del slider
   - cabeza del slider
-  - slider
+  - deslizador
 ---
 
 # Sliderhead
