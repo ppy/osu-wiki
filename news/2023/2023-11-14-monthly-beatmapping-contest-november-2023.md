@@ -12,7 +12,7 @@ You don't need many brain cells to comprehend what the [Monthly Beatmapping Cont
 
 - Results for [September's MBC](https://osu.ppy.sh/home/news/2023-09-09-monthly-beatmapping-contest-september-2023)
   - [osu! results](#osu!-results)
-  - [osu!mania results](#osu!-mania-results)
+  - [osu!mania results](#osu!mania-results)
 - [Criteria for this month's MBC](#game-modes)
 
 Navigate to whichever topic you're interested in above (or flex your scrolling muscles as needed).
