@@ -37,8 +37,8 @@ For more details, refer to the [osu! Taiko World Cup wiki article](/wiki/Tournam
 
 ## How to register?
 
-**To register, fill out [this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform).**  
-**Then, verify your registration by sending a PM to Loctav titled "TWC Registration".**  
+**To register, fill out [this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform).**\
+**Then, verify your registration by sending a PM to Loctav titled "TWC Registration".**\
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._
 
 
