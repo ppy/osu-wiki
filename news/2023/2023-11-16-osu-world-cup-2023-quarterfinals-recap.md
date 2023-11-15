@@ -40,12 +40,12 @@ To stay in winner's bracket, the European contestants needed four consecutive ma
 
 Canada kicked Germany down the bracket last round already in a crazy exchange of break points. Apparently, the Canadians were not stopping against the American team either as they went for a clear 4–0 lead. This massive gap was provided by the breakthrough performance of rookie ::{ flag=CA }:: [CutPaper](https://osu.ppy.sh/users/10975777), who had a higher score on [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371) than the rest of their team combined.
 
-The USA needed a quick reply and the extremely consistent player named ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) carried his team to the first break point on [Motoki Zakuro - Chiteki Goukansha ver-C](https://osu.ppy.sh/beatmapsets/2085316#osu/4368565). However, it didn't take long for the Canadian squad to answer, defending against another FC by ::{ flag=US }:: Rektygon on [lapix - Horizon Blue feat. Kanata.N](https://osu.ppy.sh/beatmapsets/974832#osu/2040486) and bringing them to match point. Once again, CutPaper, together with ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) showed a stellar performance and converted the first match point into an unexpected 6–1 victory. The US team has never gone down to the loser's bracket this early.
+The USA needed a quick reply and the extremely consistent player named ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) carried his team to the first break point on [Motoki Zakuro - Chiteki Goukansha ver-C](https://osu.ppy.sh/beatmapsets/2085316#osu/4368565). However, it didn't take long for the Canadian squad to answer, defending against another FC by Rektygon on [lapix - Horizon Blue feat. Kanata.N](https://osu.ppy.sh/beatmapsets/974832#osu/2040486) and bringing them to match point. Once again, CutPaper, together with ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) showed a stellar performance and converted the first match point into an unexpected 6–1 victory. The US team has never gone down to the loser's bracket this early.
 
 ---
 
 The semifinals are going to be brutal to watch. Due to the bracket structure, either Russia or Germany will not be able to make it through. The same goes to the seeds #2 and #3, Poland and USA respectively.
 
-You really don't want to miss these lower bracket matches, so check out the [osulive](https://www.twitch.tv/osulive) Twitch channel during the upcoming weekend for the showdown between tournament titans.
+You really don't want to miss these lower bracket matches, so check out the [osulive Twitch channel](https://www.twitch.tv/osulive) during the upcoming weekend for the showdown between tournament titans.
 
 —Junihuhn
