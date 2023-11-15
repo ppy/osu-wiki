@@ -8,7 +8,7 @@ tags:
 
 ![VMC banner](/wiki/Contests/VMC/1/img/banner.jpg)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
+The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community.
 
 ## Contest schedule
 
@@ -63,7 +63,7 @@ All participating mappers received constructive feedback from some of the most w
 
 | Position | Points | Description |
 | :-- | --: | :-- |
-| Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
+| Relevance | 30 | How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
 | Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Does it evoke a feeling of "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that copies the current mapping meta or concepts from other famous maps is discouraged. |
 | Expertise | 20 | This refers to how well the map executes the elements it presents, encompassing the technical skills of the mapper, as well as the map's consistency, structure, and style. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
 | Overall Impression | 20 | The VOCALOID mappers participating as judges for this contest will all have personal biases with regard to how these songs are mapped. The judges will provide comments regarding the score they give. |
