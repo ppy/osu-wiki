@@ -8,7 +8,7 @@ tags:
 
 ![BQT6 logo](img/logo.png)
 
-The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). It is the sixth installment of the BQT tournament series.
+The **BubblyQT 6** (***BQT6***) was an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). It was the sixth installment of the BQT tournament series.
 
 ## Tournament schedule
 
