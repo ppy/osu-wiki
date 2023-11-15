@@ -31,8 +31,8 @@ We're excited to see how this goes - we have been planning big, and we're hoping
 
 ## How to register?
 
-**To register, send a PM to the tournament management**.  
-When your registration was successful, your team's captain will be notified.  
+**To register, send a PM to the tournament management**.\
+When your registration was successful, your team's captain will be notified.\
 _Any registrations or team changes past the deadline can not be considered._
 
 ## Links

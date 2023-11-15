@@ -97,28 +97,28 @@ osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/26
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/taiko/endorphin.jpg)](https://osu.ppy.sh/community/forums/topics/813813)
 
-[U1 overground - Endorphin](https://osu.ppy.sh/beatmapsets/754140#taiko) by [ekumea1123](https://osu.ppy.sh/users/9119501) and [iceOC](https://osu.ppy.sh/users/5482401)  
+[U1 overground - Endorphin](https://osu.ppy.sh/beatmapsets/754140#taiko) by [ekumea1123](https://osu.ppy.sh/users/9119501) and [iceOC](https://osu.ppy.sh/users/5482401)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Whether you love tech maps or are just starting out practicing these, this is definitely your map: with both tricky patterns and fun SV usage that will challenge your reading skills, ekumea1123 and his "Eclipse" difficulty will for sure become part of your daily tech training. Not a fan of SV? He made a clean diff, too!. Still too hard? iceOC's diff is a extremely well designed map which was featured in TWC 2018 and for a good reason, as it's easy to read and fun to play. Have fun!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/taiko/unstable-sky-and-others-dj-sharpnel-megamix.jpg)](https://osu.ppy.sh/community/forums/topics/813814)
 
-[DJ Sharpnel - UNSTABLE SKY AND OTHERS (DJ SHARPNEL MEGAMIX)](https://osu.ppy.sh/beatmapsets/477736#taiko) by [Nofool](https://osu.ppy.sh/users/672430)  
+[DJ Sharpnel - UNSTABLE SKY AND OTHERS (DJ SHARPNEL MEGAMIX)](https://osu.ppy.sh/beatmapsets/477736#taiko) by [Nofool](https://osu.ppy.sh/users/672430)\
 *written by [iceOC](https://osu.ppy.sh/users/5482401)*
 
 This map uses lots of beautiful SV changes, but somehow, it is easy to read them and play for the first time. This is the true gift behind Nofool's SV technique, the ability to convey emotion behind the song with his liberal usage, while maintaining a distinct playability with his maps. The addition of lots of finishers and complicated streams gives the player a great sense of enjoyment, despite the length of the map. This map is a great starting point for SV beginners, and an enjoyable challenge for masters of SV as well!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/taiko/ginga-tetsudou-no-penguin-ft-nicamoq-stripe-p-remix.jpg)](https://osu.ppy.sh/community/forums/topics/813815)
 
-[Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix)](https://osu.ppy.sh/beatmapsets/673226#taiko) by [KitajimaYN](https://osu.ppy.sh/users/2250574)  
+[Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix)](https://osu.ppy.sh/beatmapsets/673226#taiko) by [KitajimaYN](https://osu.ppy.sh/users/2250574)\
 *written by [iceOC](https://osu.ppy.sh/users/5482401)*
 
 KitajimaYN is a mapper who maps something almost every day, but at this point in time, he still doesn't have a Loved mapset! How criminal! So we decided to choose this one from him. This map is really influenced by the sensation of the music, and he keeps the patterns simple from start to end. It has been chosen for tournaments a few times, so we believe the map is really enjoyed by the players! Maybe KitajimaYN's mapping will be approved by the Loved players, and the cool penguin will watch over you from the sky!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/taiko/yuc-e-songs-mapset.jpg)](https://osu.ppy.sh/community/forums/topics/813816)
 
-[YUC'e - YUC'e Songs Mapset](https://osu.ppy.sh/beatmapsets/776725#taiko) by [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) et al.  
+[YUC'e - YUC'e Songs Mapset](https://osu.ppy.sh/beatmapsets/776725#taiko) by [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) et al.\
 *written by [Backfire](https://osu.ppy.sh/users/263110)*
 
 This is a wonderful map pack featuring the ever-popular YUC'e! Six great songs from her mapped by six of the osu!taiko mappers who have made her so popular in our community, including the ever so synonymous KinomiCandy! Each mapper has their own styles they bring to this genre of music, with Kinomi's focus on streams and simple 1/6 with Ninjas, and komasy with his focus on even numbered pattern and authentic style mapping. This is the ultimate package for YUC'e lovers!
@@ -131,14 +131,14 @@ osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/catch/my-time.jpg)](https://osu.ppy.sh/community/forums/topics/813818)
 
-[bo en - my time](https://osu.ppy.sh/beatmapsets/563953#fruits) by [-Plus-](https://osu.ppy.sh/users/829284)  
+[bo en - my time](https://osu.ppy.sh/beatmapsets/563953#fruits) by [-Plus-](https://osu.ppy.sh/users/829284)\
 *written by [Ascendance](https://osu.ppy.sh/users/2931883)*
 
 Coming straight from the "god damn it -Plus- please rank this" category, bo en's "my time" makes its way to Loved voting! An upbeat song combined with some... not-so-upbeat lyrics, the map provides the player with a best of both worlds experience. The slow parts keep the player engaged and remain interactive, and the kiais bring up the pace of the map to a point where it's not even comparative to the rest, so don't fall asleep! Don't let the preview point fool you, either. Some coordinated fingers for wiggles and precise catcher control will be needed to make your way through the last kiai! The entire experience is truly an amazing one, so stay attentive and enjoy the ride!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/catch/cloudsmasher.jpg)](https://osu.ppy.sh/community/forums/topics/813819)
 
-[The Quick Brown Fox - Cloudsmasher](https://osu.ppy.sh/beatmapsets/57850#fruits) by [ExGon](https://osu.ppy.sh/users/214187)  
+[The Quick Brown Fox - Cloudsmasher](https://osu.ppy.sh/beatmapsets/57850#fruits) by [ExGon](https://osu.ppy.sh/users/214187)\
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 Cloudsmasher is a time machine that will bring you back to the year 2012. It has everything you would expect of an oldstyle map—edgedashes, only a little amount of hypers, platewalks, difficult stream patterns, and the list goes on. Most of the old members in the community should know this map, and the osu!catch difficulty of the set is mapped by none other than ExGon. A timeless tour de force of osu!catch history which still has enough potential nowadays to be regarded as a fun and creative map. Of course, the name "ExGon's CTB Hell" is not for show—so be ready to struggle for a good combo and accuracy!
@@ -151,56 +151,56 @@ osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/21
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/fortuna-redux.jpg)](https://osu.ppy.sh/community/forums/topics/813821)
 
-[Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmapsets/621965#mania) by [Kizuna](https://osu.ppy.sh/users/6741014)  
+[Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmapsets/621965#mania) by [Kizuna](https://osu.ppy.sh/users/6741014)\
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
 We are beginning our list with a song by one of our Featured Artists! Kizuna's rendition of Fortuna Redux by Fractal Dreamers has been featured in Semifinals of 4K MWC 2017, and has been slightly revamped since then. The chart is rather straightforward, and challenges players with relentless jumpstreams flavored with long notes. While technically it is a LN-oriented chart, they are mostly used to increase the reading difficulty and change the way jumpstreams are played. This approach allows players who aren't used to LN maps to improve their reading, since most of the long notes are short enough to be just tapped, and release timings are rather simple. Fortuna Redux is a clean chart that has received a hefty amount of recognition, so there's nothing left but to welcome it to the Loved voting!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/heartbeatz.jpg)](https://osu.ppy.sh/community/forums/topics/813822)
 
-[Darren Styles - Heartbeatz](https://osu.ppy.sh/beatmapsets/205220#mania) by [Leo137](https://osu.ppy.sh/users/1177817)  
+[Darren Styles - Heartbeatz](https://osu.ppy.sh/beatmapsets/205220#mania) by [Leo137](https://osu.ppy.sh/users/1177817)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 Coming from the way-back year of 2014, we have the return of an old classic by Leo137 in the name of Heartbeatz. The approach used here is about as straightforward as it can get, using jumpstreams to capture the essence of the song, especially found through Leo's use of repetition in the choruses, and some rolls to pair nicely with the vocals, playing like a charm and giving an understandable reason for the community to be so affectionate of it. The chart's amassing of a large amount of popularity paired with a rather clean design gives this chart plenty of reason to be nominated for the Loved section.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/kill-kill-kill-kill-kill.jpg)](https://osu.ppy.sh/community/forums/topics/813823)
 
-[Laur - KILL KILL KILL KILL KILL](https://osu.ppy.sh/beatmapsets/594896#mania) by [Valedict](https://osu.ppy.sh/users/2537082)  
+[Laur - KILL KILL KILL KILL KILL](https://osu.ppy.sh/beatmapsets/594896#mania) by [Valedict](https://osu.ppy.sh/users/2537082)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 For our next nomination, we have a recognizable face, Valedict, making a return to the Loved nominations with his chart for KILL KILL KILL KILL KILL. The song itself is an interesting amalgamation of a few different genres, drawing most notably from metal and breakcore, splitting the approaches to the music into distinct sections. This musical variation is matched with the expected amount of variety through the technically diverse patterns, digging into broken jumpstreams, bursts, extended streams, and minijacks in each distinct section of the music. Not only does this approach match the song, but it is executed excellently, and draws in both players and charters, most well shown through its use in osu!mania's largest 4K tournament, SOFT3. The quality and variety that is offered through this chart is more than enough of a reason to nominate KILL^5 for Loved.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/chirality.jpg)](https://osu.ppy.sh/community/forums/topics/813824)
 
-[Camellia - Chirality](https://osu.ppy.sh/beatmapsets/681311#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)  
+[Camellia - Chirality](https://osu.ppy.sh/beatmapsets/681311#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)\
 *written by [stupud man](https://osu.ppy.sh/users/2141612)*
 
 Abraxos makes his re-entry into the loved nominations with one of the more technical maps we've seen in a while. This map might look familiar to those who just recently tuned in to the semi-finals stage of our most recent osu!mania World Cup, but that's nowhere near close to the focus of this nomination (it's the background!). Chirality provides a multitude of patterns ranging from the rough jack-heavy drumstep intro to the smooth stream-oriented melodic second half, nicely fitting with the song at hand. This is definitely one of the more ambitious charts to be nominated as of recent, and its difficulty reflects that. Chirality is easily something suited for higher tier players, but the overall positive playability experience of this chart definitely makes it a more than suitable candidate for a Loved nomination.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/spaceman.jpg)](https://osu.ppy.sh/community/forums/topics/813825)
 
-[Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania) by [wizardoffail](https://osu.ppy.sh/users/2293992)  
+[Kola Kid - Spaceman](https://osu.ppy.sh/beatmapsets/270703#mania) by [wizardoffail](https://osu.ppy.sh/users/2293992)\
 *written by [stupud man](https://osu.ppy.sh/users/2141612)*
 
 Potentially not the most well-known, but definitely appreciated, Spaceman by wizardoffail makes a unique appearance as a nomination this week. The song itself comes in at 203 BPM, which remains constant throughout the song. However, constant is the last word anybody would use to describe the map itself. wizardoffail always finds a way to represent a seemingly fast-paced song through unique technical patterning that can challenge a wide variety of players, and Spaceman is no exception. Whether it be the difficulty of timing certain sections of the map or the density of the patterns, we think it's safe to say that the enjoyability of this chart will be high from many players.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/harajuku-iyahoi.jpg)](https://osu.ppy.sh/community/forums/topics/813826)
 
-[Kyary Pamyu Pamyu - HARAJUKU IYAHOI](https://osu.ppy.sh/beatmapsets/570407#mania) by [ArcherLove](https://osu.ppy.sh/users/2468021)  
+[Kyary Pamyu Pamyu - HARAJUKU IYAHOI](https://osu.ppy.sh/beatmapsets/570407#mania) by [ArcherLove](https://osu.ppy.sh/users/2468021)\
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 Featured in the osu!mania 7K World Cup 2018 group stage mappool, HARAJUKU IYAHOI has made his appearance into the Loved voting process. With a length of 2 minutes and 4 seconds coming up at 128 BPM, this slow-paced chart contains a full set of long note chords, short streams and more. Even though the star rating of the whole set might make you think that this chart is easy overall, do not be fooled by that. Once you start playing it, you will notice how hard those long notes can become to read, especially when they appear with different lengths, and snapping. Nonetheless, if you are a noodle lover, this kind of map is made for you. Definitely good enough for Loved.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/pink-gold.jpg)](https://osu.ppy.sh/community/forums/topics/813827)
 
-[S.I.D Sound - Pink Gold](https://osu.ppy.sh/beatmapsets/225274#mania) by [Sorarei](https://osu.ppy.sh/users/1814885)  
+[S.I.D Sound - Pink Gold](https://osu.ppy.sh/beatmapsets/225274#mania) by [Sorarei](https://osu.ppy.sh/users/1814885)\
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 For our next pick in this week's voting, we have a classic LN chart, Sorarei's rendition Pink Gold! This chart is mostly known from being featured in the quarterfinals stage of the osu!mania 7K World Cup 2017 as one of the long note picks, and since then has retained its popularity due to a very interesting varied style of charting it offers. It's a four-minute long chart with plenty of slowdowns, speedups, comfy patterns and visually pleasing sets of noodles perfect for practice and if you just want to enjoy yourself for a bit with this very upbeat song!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/mania/regular-dan-phase-ii.jpg)](https://osu.ppy.sh/community/forums/topics/813828)
 
-[osu!mania 7K Dan Course - Regular Dan Phase II](https://osu.ppy.sh/beatmapsets/451788#mania) by [Jinjin](https://osu.ppy.sh/users/3360737)  
+[osu!mania 7K Dan Course - Regular Dan Phase II](https://osu.ppy.sh/beatmapsets/451788#mania) by [Jinjin](https://osu.ppy.sh/users/3360737)\
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 I know that a lot of you have been waiting for this moment, and here it is! It's time for the third batch of Jinjin's 7K Dans to hit the Loved voting!
