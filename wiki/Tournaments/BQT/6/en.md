@@ -310,7 +310,7 @@ This competition has ended and resulted in the following podium:
 
 ## Match results
 
-### Grandfinals
+### Grand Finals
 
 Saturday, 11 November 2023:
 
