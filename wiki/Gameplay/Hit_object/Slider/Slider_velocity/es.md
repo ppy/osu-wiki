@@ -5,7 +5,7 @@ tags:
   - sv
   - velocidad del slider
   - deslizador
- ---
+---
 
 # Velocidad del slider
 
