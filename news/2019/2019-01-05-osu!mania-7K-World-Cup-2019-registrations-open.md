@@ -25,10 +25,10 @@ For more details, refer to the **[osu!mania 7K World Cup 2019 wiki article](/wik
  
 ## Prizes
 
-- **1st:** US$150 per team member, profile badge, "osu!mania Champion" user title for one year  
-- **2nd:** US$80 per team member, Profile badge  
-- **3rd:** US$40 per team member, Profile badge  
- 
+- **1st:** US$150 per team member, profile badge, "osu!mania Champion" user title for one year
+- **2nd:** US$80 per team member, Profile badge
+- **3rd:** US$40 per team member, Profile badge
+
 ## How do I register?
  
 - **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/18)**

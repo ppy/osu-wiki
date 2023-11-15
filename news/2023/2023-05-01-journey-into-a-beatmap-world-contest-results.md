@@ -38,7 +38,7 @@ Destiny drew **1079** voters towards [**RedcXca**](https://osu.ppy.sh/users/1405
 
 [![](https://assets.ppy.sh/contests/175/banners/xootynator.jpg)](https://assets.ppy.sh/contests/175/winners/xootynator.png)
 
-[**xootynator**](https://osu.ppy.sh/users/3717598) exploded **1063** minds in an overwhelming deluge of creative colour with her [Euphoria-inspired](https://osu.ppy.sh/beatmapsets/890438#osu/1861487) entry.  
+[**xootynator**](https://osu.ppy.sh/users/3717598) exploded **1063** minds in an overwhelming deluge of creative colour with her [Euphoria-inspired](https://osu.ppy.sh/beatmapsets/890438#osu/1861487) entry.
 
 She now holds the unique position of being potentially the only art contest entrant in history to possess both a first-place score on an iconic beatmap and a finalist-qualifying artwork inspired by the very same map. Never thought I'd be including *that* in one of these blurbs. Save some talent for the rest of us!
 

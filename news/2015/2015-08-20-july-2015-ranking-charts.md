@@ -53,12 +53,12 @@ I Can't Wait to go play the chart maps, and so you do. So let's go: The mapper s
 
 I haven't seen a lot by the main mapper of the set but I see I should catch up for that. Spread is very well made, offers basic pattern in the Kantan and Futsuu Difficulty which gets decently harder in the Oni difficulties. Definitely a look worth to play.
 
-- [Seiryu - Critical Crystal](https://osu.ppy.sh/beatmapsets/138311) by [Sayaka-](https://osu.ppy.sh/users/398275)  
+- [Seiryu - Critical Crystal](https://osu.ppy.sh/beatmapsets/138311) by [Sayaka-](https://osu.ppy.sh/users/398275)
 
 An older map which was quiet for a long time but came back - and also finally ranked! Although it feels weird to have "Beginner" as Difficulty the set has a great spread and being noticeable challenging at the Inner Oni. Oh, and do not underestimate the Oni Difficulty. Even that one got a high density! Especially in the Kiai sections.
 
 
-- [Ayane - Go Love&Peace (short size)](https://osu.ppy.sh/beatmapsets/303149) by [Chaica](https://osu.ppy.sh/users/4455389)  
+- [Ayane - Go Love&Peace (short size)](https://osu.ppy.sh/beatmapsets/303149) by [Chaica](https://osu.ppy.sh/users/4455389)
 
 Some of you may hate low BPM beatmaps but they also can be pretty fun to play, and this mapper showed us that it's possible! Having a 4-difficulty mapset became uncommon at this time but feels well-made. The Futsuu may feels a bit harsh when you recently come from Kantan difficulties but it's still doable and good to learn some "harder" pattern, you know how "harder is here meant to be. I highly recommend to play this when you're newer in the Taiko mode since it offers very simple and common Taiko pattern to learn. You also should spread some Love & Peace, don't forget that.
 
