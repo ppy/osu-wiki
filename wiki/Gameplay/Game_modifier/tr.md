@@ -24,7 +24,7 @@ Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltm
 
 *Ayrıca bakınız: [Özet (Oyun Modifikasyonları)](/wiki/Gameplay/Game_modifier/Summary)*
 
-Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) bulunacaktır. 
+Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) bulunacaktır.
 
 ### Zorluk azaltma
 

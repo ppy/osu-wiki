@@ -1,6 +1,6 @@
 # Comment vous pouvez aider !
 
-osu! a une communauté très vivante composée de personnes du monde entier. Et tout le monde peut faire partie de la communauté à sa manière ! 
+osu! a une communauté très vivante composée de personnes du monde entier. Et tout le monde peut faire partie de la communauté à sa manière !
 
 Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez aider la communauté :
 
@@ -12,7 +12,7 @@ Si vous êtes un nouveau venu sur l'osu! wiki, vous pouvez en savoir plus à ce 
 
 ## Aidez-nous à préserver la convivialité et la sécurité d'osu!
 
-Afin de garantir la sécurité des centres officiels de la communauté, osu! dispose d'une équipe de modération spécialisée qui surveille les forums et les tchats en ligne 24 heures sur 24. 
+Afin de garantir la sécurité des centres officiels de la communauté, osu! dispose d'une équipe de modération spécialisée qui surveille les forums et les tchats en ligne 24 heures sur 24.
 
 Heureusement, il est encore facile pour vous de contribuer à la sécurité du site. Voici quelques-unes des nombreuses façons dont vous pouvez nous aider :
 

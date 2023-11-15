@@ -47,7 +47,7 @@ Pastikan kamu melampirkan bukti-bukti pembayaran yang terkait (semisal ID transa
 
 **Pembatasan akun (*account restriction*) merupakan salah satu bentuk hukuman yang utamanya dijatuhkan kepada para pengguna yang telah melakukan pelanggaran berat terhadap peraturan yang berlaku. Para pengguna yang akunnya di-*restrict* hanya dapat berinteraksi dengan sangat terbatas dengan pengguna-pengguna lainnya, di mana mereka tidak dapat mengobrol, bermain *multiplayer*, ataupun mencetak skor secara *online*.**
 
-Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjelasan kepada tim layanan dukungan kami. 
+Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjelasan kepada tim layanan dukungan kami.
 
 Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
 

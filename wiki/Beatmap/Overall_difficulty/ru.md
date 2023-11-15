@@ -70,7 +70,7 @@ tags:
 На общую сложность влияют четыре [мода](/wiki/Gameplay/Game_modifier):
 
 - [Easy](/wiki/Gameplay/Game_modifier/Easy): уменьшает значение OD вдвое.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): умножает значение OD на 1.4 (максимальное значение — 10). 
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): умножает значение OD на 1.4 (максимальное значение — 10).
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): не влияет на OD, но окно попадания уменьшается на 33% из-за ускорения игры на 50%.
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): не влияет на OD, но окно попадания увеличивается на 33% из-за замедления игры на 25%.
 

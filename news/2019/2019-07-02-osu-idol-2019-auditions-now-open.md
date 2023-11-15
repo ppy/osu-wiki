@@ -14,7 +14,7 @@ osu!idol is the community driven singing contest! Contestants participate solo o
 
 ### So what do I do?
 
-Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got! 
+Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got!
 
 ### What's in it for me?
 

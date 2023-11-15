@@ -268,7 +268,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 **Kullanıcı Seçenekleri Menüsüne** erişmek için **kendi kullanıcı panelinize** tıklayın.
 
-**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Client/Interface/Cookie)** üzerine tıklayın. 
+**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Client/Interface/Cookie)** üzerine tıklayın.
 
 ## Sıralama Ekranı
 

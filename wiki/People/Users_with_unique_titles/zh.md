@@ -321,7 +321,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 
 ## 备注
 
-[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的[作图月赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中获得了 6 分以上。 
+[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的[作图月赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中获得了 6 分以上。
 [^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) 因为连续两年获得了优秀提名者，所以头衔变更为**Elite Nominator II**。
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) 因为在[作图月赛 (MBC) #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 和[作图月赛 (MBC): Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)中两次获胜，从而获得了 **Elite Mapper II: Aspirant** 头衔。
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) 因为在 [osu!remix 竞赛 #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) 和 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 竞赛中两次获胜，从而获得了**osu!mixer II** 头衔。

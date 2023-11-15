@@ -73,7 +73,7 @@ Il existe quatre [mods](/wiki/Gameplay/Game_modifier) qui modifient l'OD lorsqu'
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) : La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de timing sont 33% plus courtes.
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) : La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de timing sont 33% plus longues.
 
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'OD, la différence de vitesse y entraîne un changement dans les fenêtres de timing. Comme la mise à l'échelle est différente pour chaque valeur de score, le DT fait que les intervalles pour 100 et 50 sont plus resserrés que d'habitude par rapport au 300, et le HT les fait devenir plus indulgents. 
+Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'OD, la différence de vitesse y entraîne un changement dans les fenêtres de timing. Comme la mise à l'échelle est différente pour chaque valeur de score, le DT fait que les intervalles pour 100 et 50 sont plus resserrés que d'habitude par rapport au 300, et le HT les fait devenir plus indulgents.
 
 ## osu!catch
 

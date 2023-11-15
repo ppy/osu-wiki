@@ -10,7 +10,7 @@ What's up, [Project Loved](https://osu.ppy.sh/community/forums/120) here. New ma
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
-In a bit of news, I (Toy) did a small podcast live from COE 2019 with some mappers regarding Project Loved and its future. In accordance to some concerns and general feedback received, the face of Loved for osu!standard will start to change starting this week. To begin, we're going to be nominating only 5 maps, down from our previous 10, every two weeks. Hopefully this will allow us to be more selective with our choices and give you a better chance to digest the picks each round. 
+In a bit of news, I (Toy) did a small podcast live from COE 2019 with some mappers regarding Project Loved and its future. In accordance to some concerns and general feedback received, the face of Loved for osu!standard will start to change starting this week. To begin, we're going to be nominating only 5 maps, down from our previous 10, every two weeks. Hopefully this will allow us to be more selective with our choices and give you a better chance to digest the picks each round.
 
 I'm always looking for more feedback on the category's reception within the community, so please feel free to voice your thoughts with me so we can spice up Loved once again!
 
