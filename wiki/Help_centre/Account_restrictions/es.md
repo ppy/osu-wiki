@@ -2,7 +2,7 @@
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
 
-Una restricción es un tiempo fuera en la comunidad forzada a cuentas que exihiben comportamiento anormal, sospechoso o que rompe las reglas.
+Una restricción es un tiempo fuera en la comunidad forzada a cuentas que exhiben una conducta anormal, sospechosa o que rompe las reglas.
 
 Cuando una cuenta es restringida, es incapaz de interactuar con la comunidad hasta que la restricción sea levantada. Los jugadores restringidos pueden seguir jugando el juego, descargar beatmaps y subir puntuaciones, pero su perfil será invisible para los demás.
 
