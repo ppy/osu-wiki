@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0df11d00415c24fe6867239d75ec1cd3b575162b
 ---
 
 # 계정 지원팀
