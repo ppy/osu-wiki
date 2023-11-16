@@ -26,7 +26,7 @@ At this point, this game could have gone either way. On the French HD2 pick ([BU
 
 Nevertheless, neither team made it through the Quarterfinals. The #23 seed from Sweden had an exceptional weekend, eliminating both Hong Kong and France from the tournament.
 
-### ::{ flag=PL }:: Poland vs ::{ flag=AU }:: Australia
+### ::{ flag=PL }:: Poland vs. ::{ flag=AU }:: Australia
 
 [**View the VOD here!**](https://www.twitch.tv/videos/1975435768)
 
@@ -34,7 +34,7 @@ Nevertheless, neither team made it through the Quarterfinals. The #23 seed from 
 
 To stay in winner's bracket, the European contestants needed four consecutive map wins. With a miracle run including a spin-to-win scenario on the classic map [OSTER project - Capriccio of My Mind](https://osu.ppy.sh/beatmapsets/107475#osu/281632), Poland was actually able to force the tiebreaker. Now, all eyes were on mrekk. The #1 player has polished his tournament performance during the past few years and his reliability showed on [Down - Kizan](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642). With the help of his reverse choke, the favourites from Poland drop down to the lower bracket!
 
-### ::{ flag=US }:: USA vs ::{ flag=CA }:: Canada
+### ::{ flag=US }:: USA vs. ::{ flag=CA }:: Canada
 
 [**View the VOD here!**](https://www.twitch.tv/videos/1975815592)
 
