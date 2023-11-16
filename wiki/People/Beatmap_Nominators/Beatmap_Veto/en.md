@@ -8,10 +8,11 @@ In cases where discussion does not take place or is inconclusive, and either the
 
 ## Performing a beatmap veto
 
-As a Beatmap Nominator, you can veto a beatmap in one of two ways:
+As a Beatmap Nominator, you can veto a beatmap in one of three ways:
 
 - In the case of nominated beatmaps, resetting its nominations.
 - In the case of qualified beatmaps, disqualifying it.
+- In the case of pending beatmaps, posting a Problem stamp.
 
 In both cases, the beatmap veto should be stated as such, and should be accompanied by a detailed explanation as to why you believe the beatmap in question should not be considered for Qualification. A proper discussion which attempts to reach a mutual agreement by both sides of the argument must then follow.
 
