@@ -13,7 +13,7 @@ Do you remember the crazy Quarterfinals stage of the [2021 osu! World Cup](/wiki
 Because so many exciting moments would've each constituted a crime not to highlight, the recap video is longer than usual. In case you just need a quick update, read on below for the most outstanding matches.
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ZkIb6p3_n6g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/z4RotN3OuM4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### ::{ flag=RO }:: Romania vs. ::{ flag=FR }:: France
