@@ -131,25 +131,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | *TBD* | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=166&p3=37) | *TBD* | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=SE }:: Sweden | [Nov 18 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T180000&p1=1440&p2=263&p3=239) | *TBD* | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | *TBD* | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Nov 18 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T130000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=SE }:: Sweden | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=263&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 19 November 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T030000&p1=1440&p2=57&p3=188) | *TBD* | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Nov 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
+| Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=GB }:: United Kingdom | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=PL }:: Poland | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | *TBD* | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | Sweden ::{ flag=SE }:: | ::{ flag=PL }:: Poland | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=262) | *TBD* | [^potential-match] |
 | Sweden ::{ flag=SE }:: | ::{ flag=CN }:: China | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=33) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Nov 19 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T160000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=GB }:: United Kingdom | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
 
 ## Mappools
 

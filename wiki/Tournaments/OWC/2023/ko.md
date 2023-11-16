@@ -131,25 +131,25 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=CN }:: 중국 | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | *TBD* | [^losers-bracket] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=DE }:: 독일 | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=166&p3=37) | *TBD* | [^losers-bracket] |
-| 미국 ::{ flag=US }:: | ::{ flag=SE }:: 스웨덴 | [Nov 18 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T180000&p1=1440&p2=263&p3=239) | *TBD* | [^losers-bracket] |
-| 영국 ::{ flag=GB }:: | ::{ flag=CL }:: 칠레 | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | *TBD* | [^losers-bracket] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=DE }:: 독일 | [Nov 18 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T130000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 폴란드 ::{ flag=PL }:: | ::{ flag=CN }:: 중국 | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 미국 ::{ flag=US }:: | ::{ flag=SE }:: 스웨덴 | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=263&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 영국 ::{ flag=GB }:: | ::{ flag=CL }:: 칠레 | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### 2023년 11월 19일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CA }:: 캐나다 | [Nov 19 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T030000&p1=1440&p2=57&p3=188) | *TBD* | [^winners-bracket] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [Nov 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CA }:: 캐나다 | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
 | 미국 ::{ flag=US }:: | ::{ flag=PL }:: 폴란드 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | *TBD* | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | 스웨덴 ::{ flag=SE }:: | ::{ flag=PL }:: 폴란드 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=262) | *TBD* | [^potential-match] |
 | 스웨덴 ::{ flag=SE }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=33) | *TBD* | [^potential-match] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| 미국 ::{ flag=US }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T160000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | 러시아 ::{ flag=RU }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
 
 ## 맵풀 목록
 
