@@ -49,7 +49,6 @@ To begin, download and install [Handbrake](https://handbrake.fr/), then follow t
    - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected
    - `Constant Quality` set to a value between 20 to 25. Smaller value will result in larger, higher quality files
-
 5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` (`Veryslow` is recommended). Slower presets result in better video quality and may also reduce video file size.
    - Do not use the `Placebo` preset, as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
 
