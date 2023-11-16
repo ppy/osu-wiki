@@ -35,5 +35,4 @@ The top 10 entries selected by voters will receive 2 months of osu!supporter, as
 
 **[Check out the contest listing page and submit your entry!](https://osu.ppy.sh/community/contests/48)**
 
-
 —Nyquill

@@ -32,13 +32,11 @@ Don't just take our word for it though, check them out for yourself:
     <source src="https://assets.ppy.sh/artists/50/previews/1497.mp3" type="audio/mpeg">
 </audio>
 
-
 ### The Spark of the Archon
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/50/previews/1499.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Your Familiar Face
 

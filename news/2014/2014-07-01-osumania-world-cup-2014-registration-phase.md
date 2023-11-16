@@ -11,7 +11,6 @@ Greetings. We'd like to welcome all of you to this year's official osu!mania Wor
 
 For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tournaments/MWC/2014).
 
-
 ## Tournament Schedule
 
 - Registration Phase: 1-20 Jul 2014
@@ -44,7 +43,6 @@ For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tou
 **To register, fill out [this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY/edit).**\
 **Then, verify your registration by sending a PM to Loctav titled "MWC Registration".**\
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._
-
 
 ## Links
 

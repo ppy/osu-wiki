@@ -32,13 +32,11 @@ Think you're ready to digest it all? Give it a preview below!
     <source src="https://assets.ppy.sh/artists/51/previews/1501.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Dying Scarlet
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/51/previews/1505.mp3" type="audio/mpeg">
 </audio>
-
 
 ### TERRA
 

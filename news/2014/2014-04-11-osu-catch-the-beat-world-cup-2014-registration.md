@@ -11,7 +11,6 @@ Greetings. We'd like to welcome all of you to this year's official osu! Catch th
 
 For more details, refer to the [osu! Catch the Beat World Cup wiki article](/wiki/Tournaments/CWC/2014).
 
-
 ## Tournament Schedule
 
 - Registration Phase: 11-20 Apr 2014
@@ -40,7 +39,6 @@ For more details, refer to the [osu! Catch the Beat World Cup wiki article](/wik
 **To register, fill out [this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit).**\
 **Then, verify your registration by sending a PM to Loctav titled "CWC Registration".**\
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._
-
 
 ## Links
 

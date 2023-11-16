@@ -11,7 +11,6 @@ Greetings. We'd like to welcome all of you to this year's official osu! Taiko Wo
 
 For more details, refer to the [osu! Taiko World Cup wiki article](/wiki/Tournaments/TWC/2014).
 
-
 ## Tournament Schedule
 
 - Registration Phase: 16-26 Jan 2014
@@ -40,7 +39,6 @@ For more details, refer to the [osu! Taiko World Cup wiki article](/wiki/Tournam
 **To register, fill out [this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform).**\
 **Then, verify your registration by sending a PM to Loctav titled "TWC Registration".**\
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._
-
 
 ## Links
 

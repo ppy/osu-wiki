@@ -17,7 +17,6 @@ During the grand final, Germany and South Korea showed off their amazing skills 
 - Team Germany is awarded with a 3 month supporter tag for each player.
 - Team Sweden receives a 1 month supporter tag for each player.
 
-
 Congratulations to the winners, and thanks to all participants for making this tournament so great. This has been the most successful osu! Catch the Beat World Cup 2014 ever, with almost 2,000 viewers on the live stream during the finals!
 
 If you want to learn more about the osu! Catch the Beat World Cup 2014, take a look at the [wiki article](/wiki/Tournaments/CWC/2014).

@@ -53,7 +53,6 @@ The {TITLE} is run by various community members.
 | Statistician |  |
 <!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
-
 ## Links
 
 - [Discussion thread]({THREAD_LINK})

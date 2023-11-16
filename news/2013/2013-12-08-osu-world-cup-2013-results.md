@@ -17,7 +17,6 @@ During the grand final, Korea and Taiwan showed off their amazing playing skills
 - Team Taiwan is awarded with a 3 month supporter tag for each player.
 - Team Poland receives a 1 month supporter tag for each player.
 
-
 Congratulations to the winners, and thanks to all participants for making this tournament so great. During the finals, we peaked at over 12,000 viewers watching the live stream!
 
 \

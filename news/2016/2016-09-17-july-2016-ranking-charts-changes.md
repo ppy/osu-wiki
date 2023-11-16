@@ -15,7 +15,6 @@ With thanking everyone who have put efforts in chosing the past charts, we are n
 
 The charts have previously been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
-
 ### osu!
 
 - **[MrSpazzaneve17 - osu! MEGAMIX](https://osu.ppy.sh/beatmapsets/399575) by [Exile-](https://osu.ppy.sh/users/2559349)** (Nominator: [Irreversible](https://osu.ppy.sh/users/1287964))

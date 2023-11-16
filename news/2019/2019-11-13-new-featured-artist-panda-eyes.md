@@ -30,13 +30,11 @@ Feast your ears and behold:
     <source src="https://assets.ppy.sh/artists/55/previews/1571.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Colorblind
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/55/previews/1572.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Stand Still
 

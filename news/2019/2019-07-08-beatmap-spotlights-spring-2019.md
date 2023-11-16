@@ -19,7 +19,6 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Winter 
 - **osu!catch:** [rostld](https://osu.ppy.sh/users/4365562), [RAMPAGE88](https://osu.ppy.sh/users/448547) and [-Nirfu-](https://osu.ppy.sh/users/7332050)
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
-
 ## Navigation
 
 - [osu!](#osu!)
@@ -101,7 +100,6 @@ Speaking of which, boy, ohh boy is it hard. Insanely hard. You might expect "pp 
 
 If you're not ready for the challenge this difficulty provides, you should give [komasy](https://osu.ppy.sh/users/1980256)'s Inner Oni a shot! It's still quite challenging and an absolute joy to play through, just like the other difficulties are.
 
-
 A blooming start to this season's spotlights, and an absolutely deserved winner to it!
 
 _written by [Greenshell](https://osu.ppy.sh/users/8693851)_
@@ -166,7 +164,6 @@ _written by [Kazu](https://osu.ppy.sh/users/920861)_
 While not especially fancy in this month's release, [mintong89](https://osu.ppy.sh/users/966210)'s map remains impressive by its very consistent patterning and temperate use of speed velocity changes.
 
 This is accented further by clever use of doublet patterning to make the map more variable, and together these things combine to make a map well worthy of the Spring 2019 Spotlights.
-
 
 _written by [qoot8123](https://osu.ppy.sh/users/766371)_
 
