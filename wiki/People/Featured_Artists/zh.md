@@ -7,7 +7,7 @@ tags:
 
 # 精选艺术家
 
-**精选艺术家**（简称 ***FA*** ）是同osu!合作的音乐制作人，他们授权的音乐能用作[osu!世界杯](/wiki/Tournaments#osu!-world-cup)直播的[谱面](/wiki/Beatmap)和背景音乐。
+**精选艺术家**（简称 ***FA*** ）是同osu!合作的音乐制作人，他们授权的音乐能用作[osu!世界杯](/wiki/Tournaments/OWC)直播的[谱面](/wiki/Beatmap)和背景音乐。
 
 官网的[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有参与合作的艺术家。每位艺术家的主页都包含所有其授权的音乐的大致信息，音轨封装在已测好时间轴的 `.osz `文件里，允许用做制谱。
 
