@@ -4,37 +4,37 @@ osu!는 창작물을 자유롭게 만들고 서로 공유할 수 있는 것에 �
 
 허가 없이 업로드된 [비트맵](/wiki/Beatmap)은 삭제될 수 있으며, 업로드를 한 유저는 [osu! 저작권 정책](/wiki/Legal/Copyright)에 의거하여 제출 시스템에 대한 접근이 거부될 수 있습니다. 즉, 사용자는 다음 중 하나에 해당하는 것을 사용하여 비트맵을 만들어야 합니다:
 
-- 법적으로 osu!에 사용하는데 지장이 없음
+- osu!에 사용하는데 법적으로 문제가 없음
 - 창작자에 의해 사용 허가됨
 - 저작권 없음 또는 소멸
 
-## 정보 처리 동의 <!--to kr-reviewer: 옵트인을 뭘로 치환할 지 몰라서 구글링좀 해봤는데 개인정보 처리 관련 내용이라서 일단 이렇게 적었습니다.-->
+## opt-in
 
 이 목록에 자신의 항목을 추가하거나 업데이트 하려는 아티스트는 언제든지 osu! 음악 라이선스 팀([music@ppy.sh](mailto:music@ppy.sh))으로 문의하시기 바랍니다. 
 
-라이선스 협상에 대해서도 팀에 문의하는 것을 고려해보세요. 자세한 내용은 [osu! 음악 라이선스](/wiki/Legal/Music_licensing) 페이지를 참조하세요.
+라이선스 협상에 대해 팀에 문의하는 것도 고려해보세요. 자세한 내용은 [osu! 음악 라이선싱](/wiki/Legal/Music_licensing) 페이지를 참조하세요.
 
 ## 오디오 저작물
 
-*주의 사항: 다른 사이트에 게임 플레이를 게시하거나 스트리밍하는 경우 협상 또는 이해해야 하는 라이선스 요건이 적용될 수 있습니다. 게임 플레이를 시청자에게 방송할 때는 주의하시기 바랍니다.*
+*알림: 다른 사이트에 게임 플레이를 게시하거나 스트리밍하는 경우 협상 또는 이해가 필요한 다양한 라이선스 요구사항이 있으므로 게임 플레이를 시청자에게 방송할 때 주의하시기 바랍니다.*
 
 osu!는 [공식 아티스트](/wiki/People/Featured_Artists) 프로그램을 통해 매퍼에게 라이선스 곡 라이브러리를 제공합니다. [목록](https://osu.ppy.sh/beatmaps/artists)에 있는 각 곡들은 osu! 내에서 무료로 사용할 수 있으며 삭제될 위험이 없습니다.
 
-osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 창작자가 명시적으로 사용 조건을 제시했는지 확인하세요. 이 정보는 아티스트의 음원 발매 플랫폼(예: Bandcamp, SoundCloud, YouTube) 또는 개인 웹사이트의 설명란에서 찾을 수 있습니다. [크리에이티브 커먼즈 라이선스](https://creativecommons.org/about/cclicenses/)로 라이선스가 부여된 곡이거나 비상업적인 용도로 사용할 수 있는 곡일 경우, 해당 곡을 사용하여 비트맵을 제출해도 안전합니다.
+osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 창작자가 사용 조건을 명시적으로 제시했는지 확인하세요. 이 정보는 아티스트의 음원 발매 플랫폼(예: Bandcamp, SoundCloud, YouTube) 또는 개인 웹사이트의 설명란에서 찾을 수 있습니다. [크리에이티브 커먼즈 라이선스](https://creativecommons.org/about/cclicenses/)로 라이선스가 부여된 곡이거나 비상업적인 용도로 사용할 수 있는 곡일 경우, 해당 곡을 사용하여 비트맵을 제출해도 안전합니다.
 
 곡에 대한 사용권한이 명확하지 않은 경우, 비트맵에 사용하기 전에 해당 아티스트에게 문의하여 허락을 받는 것이 좋습니다. 대부분의 아티스트는 음원 발매 플랫폼, 개인 웹사이트 및 소셜 미디어에 연락 방법을 명시하고 있습니다.
 
-이것이 큰 장애물처럼 느껴지실 수 있으시겠지만, 매퍼는 콘텐츠를 무단으로 사용하기 전 물어보기만 해도 창작자로부터 승인을 받는 확률이 꽤 높습니다. 광고가 없는 무료 게임이라는 점을 언급하거나, 콘텐츠가 어떻게 소비되는지 더 잘 알 수 있도록 osu!의 [라이선스 페이지](/wiki/Legal/Music_licensing)를 첨부하는 것이 창작자의 선택에 도움될 수 있습니다.
+이것이 큰 장애물처럼 느껴지실 수 있으시겠지만, 매퍼는 콘텐츠를 무단으로 사용하기 전 물어보기만 해도 창작자로부터 승인을 받는 확률이 꽤 높습니다. 광고가 없는 무료 게임이라는 점을 언급하거나, 콘텐츠가 어떻게 소비되는지 더 잘 알 수 있도록 osu!의 [라이선싱 페이지](/wiki/Legal/Music_licensing)를 첨부하는 것이 창작자의 선택에 도움될 수 있습니다.
 
-음악은 저작권이 제한되어 있는 경우가 많지만, 사용자 지정 히트사운드에 사용되는 사운드 효과는 자유롭게 사용할 수 있는 경우가 많습니다. 예들 들어, Philharmonia orchestra는 [악기 사운드 샘플](https://philharmonia.co.uk/resources/sound-samples/)을 무료로 제공하며, [Freesound](https://freesound.org)에서는 사용 권한별로 필터링된 사운드 샘플을 검색할 수 있습니다.
+음악은 저작권이 제한되어 있는 경우가 많지만, 사용자 지정 히트사운드에 사용되는 사운드 효과는 자유롭게 사용할 수 있는 경우가 많습니다. 예들 들어, 필하모니아 관현악단은 [악기 사운드 샘플](https://philharmonia.co.uk/resources/sound-samples/)을 무료로 제공하며, [Freesound](https://freesound.org)에서는 사용 권한별로 필터링된 사운드 샘플을 검색할 수 있습니다.
 
 ### 아티스트 권한
 
-이 섹션에서는 어떤 아티스트가 자신의 오디오 작품을 osu!에서 사용할 수 있는지, 그리고 어떤 조건에서(해당하는 경우)에서 허용할 것인지 자세히 설명합니다.
+이 섹션에서는 어떤 아티스트가 자신의 오디오 작품을 osu!에서 사용 가능한지, 그리고 어떤 조건에서(해당하는 경우) 허용할 것인지 자세히 설명합니다.
 
-[공식 아티스트 목록](https://osu.ppy.sh/beatmaps/artists)에 나열된 모든 트랙은 osu! 비트맵 제작에 사용할 수 있도록 승인되어 있습니다. 공식 아티스트 목록에 표시되지 않은 공식 아티스트의 트랙은 라이선스가 부여되지 않았으며, 사용시 추가 권한이 필요할 수 있습니다.
+[공식 아티스트 목록](https://osu.ppy.sh/beatmaps/artists)에 나열된 모든 트랙은 osu! 비트맵 제작에 사용할 수 있도록 승인되어 있습니다. 공식 아티스트 목록에 표시되지 않은 트랙은 라이선스가 부여되지 *않았으며*, 사용시 추가 권한이 필요할 수 있습니다.
 
-| 아티스트 |  | 상태 | 메모 |
+| 아티스트 |  | 상태 | 노트 |
 | :-- | :-- | :-- | :-- |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/18) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/297) | [-45](https://osu.ppy.sh/beatmaps/artists/297) | ![][true] |  |
@@ -45,7 +45,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/268) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/356) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/275) | [:Poin7less](https://osu.ppy.sh/beatmaps/artists/275) | ![][true] |  |
-|  | a\_hisa | ![][partial] | 업로드 전 [이메일](mailto:hisaweb_info@yahoo.co.jp)이나 [Bandcamp](https://a-hisa.bandcamp.com/)를 통해 문의 부탁드립니다. |
+|  | a\_hisa | ![][partial] | 업로드 전 [이메일](mailto:hisaweb_info@yahoo.co.jp)이나 [Bandcamp](https://a-hisa.bandcamp.com/)를 통해 문의하세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/168) | [A-One](https://osu.ppy.sh/beatmaps/artists/168) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/253) | [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/173) | [A?](https://osu.ppy.sh/beatmaps/artists/173) | ![][true] |  |
@@ -62,7 +62,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/127) | [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/296) | [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) | ![][true] |  |
 |  | ak+q | ![][false] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/107) | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/304) | [Alestorm](https://osu.ppy.sh/beatmaps/artists/304) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/195) | [Alkome](https://osu.ppy.sh/beatmaps/artists/195) | ![][true] |  |
@@ -183,7 +183,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/26) | [High Tea Music](https://osu.ppy.sh/beatmaps/artists/26) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/315) | [Hinkik](https://osu.ppy.sh/beatmaps/artists/315) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/272) | [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/310) | [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/85) | [Hyper Potions](https://osu.ppy.sh/beatmaps/artists/85) | ![][true] [^monstercat-gold] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/33) | [HyuN](https://osu.ppy.sh/beatmaps/artists/33) | ![][true] |  |
@@ -202,11 +202,11 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/109) | [Joe Ford](https://osu.ppy.sh/beatmaps/artists/109) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/267) | [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/365) | [Junk](https://osu.ppy.sh/beatmaps/artists/365) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | [kakichoco](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | [kanone](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/375) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) | ![][true] |  |
@@ -274,7 +274,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/292) | [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/307) | [Mono.](https://osu.ppy.sh/beatmaps/artists/307) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/255) | [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/19) | [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/120) | [MuryokuP / Powerless](https://osu.ppy.sh/beatmaps/artists/120) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/261) | [MUZZ](https://osu.ppy.sh/beatmaps/artists/261) | ![][true] [^monstercat-gold] |  |
@@ -378,7 +378,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/348) | [SWORD OF JUSTICE](https://osu.ppy.sh/beatmaps/artists/348) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/8) | [Sylvir / sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/130) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/188) | [T & Sugah](https://osu.ppy.sh/beatmaps/artists/188) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/144) | [Tanchiky](https://osu.ppy.sh/beatmaps/artists/144) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/97) | [Task Horizon](https://osu.ppy.sh/beatmaps/artists/97) | ![][true] |  |
@@ -427,16 +427,16 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/4) | [yuki.](https://osu.ppy.sh/beatmaps/artists/4) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/167) | [yukitani](https://osu.ppy.sh/beatmaps/artists/167) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/244) | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | *동방프로젝트*를 주제로 한 음악 및 테마곡은 업로드하거나 사용을 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | *동방프로젝트*를 주제로 한 음악 및 테마곡은 업로드하거나 사용을 금지합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/155) | [YUZUKINGDOM](https://osu.ppy.sh/beatmaps/artists/155) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 제작자의 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드를 금합니다. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/316) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/224) | [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/288) | [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) | ![][true] |  |
 
 ## 시각적 저작물
 
-시각적 저작물은 비트맵의 [배경](/wiki/Beatmap/Background), [스토리보드](/wiki/Storyboard), 비디오가 있으며 오디오 저작물과 동일한 요구 사항을 따릅니다. 
+시각적 자료들은 비트맵의 [배경](/wiki/Beatmap/Background), [스토리보드](/wiki/Storyboard), 비디오를 포함한 시각 자료들이 있으며 오디오 저작물과 동일한 요구 사항을 따릅니다. 
 
 많은 이미지 호스팅 웹 사이트에는 크리에이티브 커먼즈 라이선스 또는 비상업적 사용을 위한 검색 필터가 있습니다. 매퍼들이 저작권이 없는 배경을 찾기 위해 자주 사용하는 웹 사이트는 다음과 같습니다:
 
@@ -444,7 +444,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 
-모든 시각적 저작물은 출처에 대한 적절한 링크를 포함하여 출처 표시를 해야 합니다. 어떤 이유로 작품과 연결된 링크를 사용할 수 없다면, 예술가가 가장 활발하게 활동하는 플랫폼으로 연결되는 링크를 대신하여 표시해야 합니다.
+모든 시각적 작품들은 출처에 대한 적절한 링크를 포함하여 출처 표시를 해야 합니다. 어떤 이유로 작품과 연결된 링크를 사용할 수 없다면, 시각 예술가가 가장 활발하게 활동하는 플랫폼으로 연결되는 링크를 대신하여 표시해야 합니다.
 
 대부분의 경우, 시각 예술가는 자신의 작품을 다른 곳에서 사용하는 것을 허용하는 경우 이를 표시합니다. 시각 예술가가 자신의 작품을 다른 플랫폼에서 사용할 수 있도록 허용하는지 여부가 불분명한 경우, 적절한 사용 조건을 확인할 수 있을 때까지 그 어떠한 것도 사용해서는 안 됩니다.
 
@@ -452,15 +452,15 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때에는 �
 
 ## 게임 플레이
 
-비트맵을 제출할 때 사용자는 [게스트 난이도](/wiki/Beatmap/Guest_difficulty)와 같은 게임 플레이 관련 것들이나 다른 리듬 게임의 차트에 대한 권한을 획득해야 합니다.
+비트맵을 제출할 때 유저는 [게스트 난이도](/wiki/Beatmap/Guest_difficulty)와 같은 게임 플레이 관련 요소나 다른 리듬 게임의 차트에 대한 권한을 획득해야 합니다.
 
 다른 게임의 게임플레이(히트 오브젝트)와 유사한 게임 플레이를 제출하는 것은 타 리듬 게임 커뮤니티에 대한 예의가 아니므로 허용되지 않습니다.
 
-## 메모
+## 노트
 
-[^monstercat-gold]: 이 아티스트는 [Monstercat](https://osu.ppy.sh/beatmaps/artists/255)과 협력하여 라이선스를 취득했으며, 사용자는 [Monstercat Gold](https://www.monstercat.com/gold) 구독을 통해 외부 미디어 사용권한을 획득할 수 있습니다. 본 라이선스의 대한 자세한 내용은 해당 사이트를 참조하시기 바랍니다.
+[^monstercat-gold]: 이 아티스트는 [Monstercat](https://osu.ppy.sh/beatmaps/artists/255)과 협력하여 라이선스를 취득했으며, 유저는 [Monstercat Gold](https://www.monstercat.com/gold) 구독을 통해 외부 미디어 사용권한을 획득할 수 있습니다. 본 라이선스의 대한 자세한 내용은 해당 사이트를 참조하시기 바랍니다.
 
-[FA]: /wiki/shared/group/FA.png "Featured Artist"
-[true]: /wiki/shared/true.png "Allowed"
-[false]: /wiki/shared/false.png "Disallowed"
-[partial]: /wiki/shared/partial.png "Allowed, with exceptions"
+[FA]: /wiki/shared/group/FA.png "공식 아티스트"
+[true]: /wiki/shared/true.png "허용됨"
+[false]: /wiki/shared/false.png "허용되지 않음"
+[partial]: /wiki/shared/partial.png "조건부 허용됨"
