@@ -7,7 +7,7 @@ no_native_review: true
 Mit einer großen Vielfalt an verfügbarer Musik sind die meisten Songs für die Verwendung in osu! geeignet, vorausgesetzt, sie sind nicht:
 
 - stark politisch ausgerichtet
-- Förderung von rassistischen Spannungen oder Spaltungen
+- Förderung von rassistischem Gedankengut oder hetzerischen Äußerungen
 - extrem und unerträglich laut
 - modifiziert, um hörbare Übersteuerungen oder Verzerrungen zu enthalten, die vom Künstler nicht beabsichtigt waren
 

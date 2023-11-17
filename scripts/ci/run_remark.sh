@@ -5,7 +5,7 @@ set -u
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
 NOTICE_PREFIX="\033[0;90mNotice:\033[m "
-REPORTER=vfile-reporter-position
+REPORTER=@noomorph/vfile-reporter-position
 
 if test "${GITHUB_ACTIONS:-}"; then
   NOTICE_PREFIX=::notice::
