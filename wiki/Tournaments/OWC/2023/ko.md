@@ -98,7 +98,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | ::{ flag=NZ }:: | **뉴질랜드** | **[buffcorreII](https://osu.ppy.sh/users/11141578)**, [Zoomer](https://osu.ppy.sh/users/6600930), [Saiyku](https://osu.ppy.sh/users/13767572), [Kim Suhye](https://osu.ppy.sh/users/15293080), [its going up](https://osu.ppy.sh/users/7731995), [Ozzy265](https://osu.ppy.sh/users/23179637), [shortpotato](https://osu.ppy.sh/users/1266102), [kit-](https://osu.ppy.sh/users/10981171) |
 | ::{ flag=NO }:: | **노르웨이** | **[YokesPai](https://osu.ppy.sh/users/6399568)**, [-GN](https://osu.ppy.sh/users/895581), [amae koromo](https://osu.ppy.sh/users/6888972), [antonyw](https://osu.ppy.sh/users/12959983), [Melvr](https://osu.ppy.sh/users/9211924), [ninerik](https://osu.ppy.sh/users/10549880), [papercandle](https://osu.ppy.sh/users/12353810), [Pinguinzi](https://osu.ppy.sh/users/9414229) |
 | ::{ flag=PA }:: | **파나마** | **[Counter Strike](https://osu.ppy.sh/users/5136821)**, [Ramon 2](https://osu.ppy.sh/users/11562243), [raetia](https://osu.ppy.sh/users/6033536), [Daniel11PTY](https://osu.ppy.sh/users/16535905), [Bakiii](https://osu.ppy.sh/users/6790430), [Sirny](https://osu.ppy.sh/users/18962732), [ne0craft](https://osu.ppy.sh/users/17545095) |
-| ::{ flag=PH }:: | **필리핀** | **[enri](https://osu.ppy.sh/users/8640970)**, [hyeok2044](https://osu.ppy.sh/users/8472976), [NathanRam1918](https://osu.ppy.sh/users/4734703), [Xyloz](https://osu.ppy.sh/users/12040280), [C6 Venti](https://osu.ppy.sh/users/9642774), [Impowster](https://osu.ppy.sh/users/13484596), [Miggie](https://osu.ppy.sh/users/12028437), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ::{ flag=PH }:: | **필리핀** | **[enri](https://osu.ppy.sh/users/8640970)**, [hyeok2044](https://osu.ppy.sh/users/8472976), [NathanRam1918](https://osu.ppy.sh/users/4734703), [Xyloz](https://osu.ppy.sh/users/12040280), [Milkteaism](https://osu.ppy.sh/users/9642774), [Impowster](https://osu.ppy.sh/users/13484596), [Miggie](https://osu.ppy.sh/users/12028437), [zonelouise](https://osu.ppy.sh/users/1492995) |
 | ::{ flag=PL }:: | **폴란드** | **[maliszewski](https://osu.ppy.sh/users/12408961)**, [gnahus](https://osu.ppy.sh/users/12779141), [rafal](https://osu.ppy.sh/users/7787629), [Rafis](https://osu.ppy.sh/users/2558286), [kasiabarwicka](https://osu.ppy.sh/users/13108233), [Bartek22830](https://osu.ppy.sh/users/6404027), [Michni](https://osu.ppy.sh/users/3543130), [Mastasz](https://osu.ppy.sh/users/1876565) |
 | ::{ flag=PT }:: | **포르투갈** | **[Just2Gud](https://osu.ppy.sh/users/4430263)**, [AlfredTheSalmon](https://osu.ppy.sh/users/1052349), [Dolphin\_](https://osu.ppy.sh/users/14787295), [MakiDonalds](https://osu.ppy.sh/users/11610772), [Netizz](https://osu.ppy.sh/users/3256745), [QQuaLLe](https://osu.ppy.sh/users/2398671), [uatzap](https://osu.ppy.sh/users/16509171), [WhiteCar](https://osu.ppy.sh/users/8133117) |
 | ::{ flag=RO }:: | **루마니아** | **[badeu](https://osu.ppy.sh/users/1473890)**, [etn](https://osu.ppy.sh/users/4581069), [Lucrise](https://osu.ppy.sh/users/9719351), [Razei](https://osu.ppy.sh/users/10778261), [roliy](https://osu.ppy.sh/users/9578404), [HowlPleb](https://osu.ppy.sh/users/15995105), [\_Silvian](https://osu.ppy.sh/users/8511882), [Chamosiala](https://osu.ppy.sh/users/1469892) |
@@ -125,35 +125,35 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 준결승
+## 매치 일정 : 세미파이널
 
 ### 2023년 11월 18일 토요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=CN }:: 중국 | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | *TBD* | [^losers-bracket] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=DE }:: 독일 | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=166&p3=37) | *TBD* | [^losers-bracket] |
-| 미국 ::{ flag=US }:: | ::{ flag=SE }:: 스웨덴 | [Nov 18 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T180000&p1=1440&p2=263&p3=239) | *TBD* | [^losers-bracket] |
-| 영국 ::{ flag=GB }:: | ::{ flag=CL }:: 칠레 | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | *TBD* | [^losers-bracket] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=DE }:: 독일 | [Nov 18 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T130000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 폴란드 ::{ flag=PL }:: | ::{ flag=CN }:: 중국 | [Nov 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T140000&p1=1440&p2=262&p3=33) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 미국 ::{ flag=US }:: | ::{ flag=SE }:: 스웨덴 | [Nov 18 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T160000&p1=1440&p2=263&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 영국 ::{ flag=GB }:: | ::{ flag=CL }:: 칠레 | [Nov 18 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231118T200000&p1=1440&p2=136&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### 2023년 11월 19일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CA }:: 캐나다 | [Nov 19 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T030000&p1=1440&p2=57&p3=188) | *TBD* | [^winners-bracket] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [Nov 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=CA }:: 캐나다 | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T140000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
 | 미국 ::{ flag=US }:: | ::{ flag=PL }:: 폴란드 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | *TBD* | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | 스웨덴 ::{ flag=SE }:: | ::{ flag=PL }:: 폴란드 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=262) | *TBD* | [^potential-match] |
 | 스웨덴 ::{ flag=SE }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=239&p3=33) | *TBD* | [^potential-match] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=136) | *TBD* | [^potential-match] |
+| 미국 ::{ flag=US }:: | ::{ flag=CN }:: 중국 | [Nov 19 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T160000&p1=1440&p2=263&p3=33) | *TBD* | [^potential-match] |
 | 러시아 ::{ flag=RU }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=GB }:: 영국 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=136) | *TBD* | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T170000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
+| 독일 ::{ flag=DE }:: | ::{ flag=CL }:: 칠레 | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | *TBD* | [^potential-match] |
 
 ## 맵풀 목록
 
-### 쿼터파이널
+### 세미파이널
 
 **[맵팩은 여기서 다운로드가 가능합니다 (179 MB)](https://packs.ppy.sh/P229%20-%20osu!%20World%20Cup%202023%3A%20Semifinals.zip)**
 
@@ -184,7 +184,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - Tiebreaker
   1. **[polysha - Endverse (captin1) \[Encore\]](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)**
 
-### 8강
+### 쿼터파이널
 
 **[맵팩은 여기서 다운로드가 가능합니다 (155 MB)](https://packs.ppy.sh/P228%20-%20osu!%20World%20Cup%202023%3A%20Quarterfinals.zip)**
 
@@ -606,4 +606,4 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 [^potential-match]: 최종 상대는 이전 패자조 경기 결과에 따라 달라지는 잠재적인 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
-[^winners-bracket]: 승자조 경기입
+[^winners-bracket]: 승자조 경기
