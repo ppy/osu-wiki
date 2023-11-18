@@ -34,7 +34,7 @@ Check out [this legendary 7K osu!mania map](https://osu.ppy.sh/beatmapsets/63654
 
 ### you - Wake Up
 
-Set your alarm to the song behind [this 42 second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
+Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you - Wake Up.mp3">
