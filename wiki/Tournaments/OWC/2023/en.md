@@ -131,10 +131,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| 澳洲 ::{ flag=AU }:: | ::{ flag=CA }:: 加拿大 | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 韓國 ::{ flag=KR }:: | ::{ flag=PH }:: 菲律賓 | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 美國 ::{ flag=US }:: | ::{ flag=PL }:: 波蘭 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 德國 ::{ flag=DE }:: | ::{ flag=CL }:: 智利 | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=PL }:: Poland | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## Mappools
 
