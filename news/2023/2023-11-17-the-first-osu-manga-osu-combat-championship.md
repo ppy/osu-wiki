@@ -4,15 +4,15 @@ title: "The First osu! Manga: osu! Combat Championship"
 date: 2023-11-17 13:00:00 +0000
 ---
 
-WhiteCat immerses himself in a once-in-a-lifetime combat-style tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted!
+WhiteCat immerses himself in a once-in-a-lifetime combat tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted!
 
 ![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/banner.jpg)
 
 **Calling all osu! enthusiasts!**
 
-Prepare yourselves for a journey like none other, as we introduce the highly anticipated **osu! Combat Championship** (OCC) manga!
+Prepare yourselves for a journey like none other, as we introduce **osu! Combat Championship** (OCC)!
 
-Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, immersing themselves in a once-in-a-lifetime combat-style tournament where participants battle it out for the ultimate goal: attaining the prestigious rank 1 title and having any wish granted. Get ready to experience exhilarating art, intense rivalries, and delve deeper into our unique spin on the world of osu!.
+Join us as we delve into the captivating storyline that follows the path of WhiteCat, a skilled player, taking on formidable enemies in a tournament for the ultimate prize: attaining the prestigious rank #1 title and having any wish granted. Get ready to experience exhilarating art, intense rivalries, and delve deeper into a unique spin on the world of osu!.
 
 For those eager to dive into the manga and skip the introductions, simply click the button below to head over to Mangadex and start reading.
 
@@ -22,11 +22,11 @@ For those eager to dive into the manga and skip the introductions, simply click 
   </a>
 </p>
 
-Curious about which of your favorite players are in The osu! Combat Championship manga? Check out the character introductions below:
+Curious about which of your favourite players will partake in the osu! Combat Championship? Read on below to find out and click the banners to view the full artworks.
 
 [![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/WhiteCat.jpg)](https://assets.ppy.sh/media/news/manga-occ/WhiteCat.png)
 
-WhiteCat exudes an air of aloofness, often carrying a sense of tension, but beneath the surface lies intelligence and a careful choice of words. His determination and focus were forged through a tragic event in his youth when he lost his brother, BlackDog, in an incident involving mrekk. WhiteCat has harboured blame toward mrekk for his loss, yet he grapples with a moral dilemma: should he seek revenge or aspire to become the greatest osu! player through fair means? At the age of 15, WhiteCat's uncontrollable power led to a berserk episode, with Peppy being the only one capable of stopping him.
+WhiteCat exudes an air of aloofness, often carrying a sense of tension, but beneath the surface lies intelligence and a careful choice of words. His determination and focus were forged through a tragic event in his youth when he lost his brother, BlackDog, in an incident involving mrekk. WhiteCat has harboured blame toward mrekk for his loss, yet he grapples with a moral dilemma: should he seek revenge, or aspire to become the greatest osu! player through fair means? At the age of 15, WhiteCat's uncontrollable power led to a berserk episode, with peppy being the only one capable of stopping him.
 
 [![](/wiki/shared/news/2023-11-17-the-first-osu-manga-osu-combat-championship/mrekk.png)](https://assets.ppy.sh/media/news/manga-occ/mrekk.png)
 
@@ -44,7 +44,11 @@ Kariyu is an extroverted and playful individual. He revels in being a jokester a
 
 An extroverted and composed individual, xootynator exudes boundless optimism. Her quest for enjoyment is inseparable from her determination to make her mark in the predominantly male-dominated arena of combat. Fuelled by the excitement of battle and a commitment to shatter gender barriers, xootynator also finds immense joy in the world of art, with a particular fondness for birds.
 
-Meet WhiteCat, mrekk, and a bunch of other interesting characters in the OCC manga! Each one's got their own unique style and story. As you flip through those character panels, you're in for a diverse crew — some cool, some quirky, but all ready to bring their own flavour to the OCC manga! It's a character buffet of people you already know, so get ready to dig in and enjoy the ride!
+---
+
+---
+
+Meet WhiteCat, mrekk, and a bunch of other interesting characters in the OCC manga! Each one's got their own unique style and background. If you didn't already notice from the character introductions, you're in for a diverse crew — some cool, some quirky, but all ready to bring their own flavour to the story! It's a character buffet of people you already know, so get ready to dig in and enjoy the ride!
 
 But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an **animated series**, and we have started on the first episode's production!
 
