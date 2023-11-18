@@ -60,7 +60,7 @@ Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by
 
 You should head to [**you**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/389) where you can find beatmap templates for all of **you**'s tracks! If "you" still looks like a real word to you by now, then you clearly haven't read "you" enough times.
 
-In case you forgot, there's a batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) running right now! You have a week til score submission closes, so do what you have to do.
+In case you forgot, there's a batch of [**Featured Artist playlists** in osu!(lazer)](/wiki/People/Featured_Artists/Featured_Artist_playlists) running right now! You have a week 'til score submission closes, so do what you have to do.
 
 And of course, another artist is on the way next week! Stay tuned.
 
