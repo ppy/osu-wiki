@@ -19,7 +19,7 @@ While **you** is nearly impossible to find through a Google search, their style 
 Curious how **you** would fit in a beatmap? Treat yourself to 4 of them by watching this osu!taiko-themed video or by playing the maps below!
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="85%" controls>
         <source src="https://assets.ppy.sh/artists/389/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
