@@ -58,7 +58,7 @@ Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by
 
 ### you - Color (2019 Reworks)
 
-That's enoguh osu!taiko. Try [this osu! map](https://osu.ppy.sh/beatmapsets/2089375) by [Hinsvar](https://osu.ppy.sh/users/1249323) for a change of pace!
+That's enough osu!taiko. Try [this osu! map](https://osu.ppy.sh/beatmapsets/2089375) by [Hinsvar](https://osu.ppy.sh/users/1249323) for a change of pace!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3">
