@@ -120,7 +120,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 #### Règles
 
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) doivent avoir un écart d'au moins 125 ms entre leurs deux objets.**
-- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) ne peuvent pas être utilisés sur les [drops](/wiki/Gameplay/Hit_object/Juice_stream#drops) individuelles et/ou les slider.** La précision et le contrôle requis sont excessifs à ce niveau et peuvent créer une situation où le joueur ne parvient pas à lire la trajectoire du slider.
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) ne peuvent pas être utilisés sur les [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop ) individuelles et/ou les slider.** La précision et le contrôle requis sont excessifs à ce niveau et peuvent créer une situation où le joueur ne parvient pas à lire la trajectoire du slider.
 - **Les [Hyperdashs](/wiki/Gameplay/Hyperdash) d'un beat snap différent ne doivent pas être utilisés entre des [fruits](/wiki/Gameplay/Hit_object/Fruit) consécutifs.** Par exemple, un hyperdash de 1/2 suivi d'un hyperdash de 1/4.
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois entre des [fruits](/wiki/Gameplay/Hit_object/Fruit) consécutifs.**
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec d'autres [dash](/wiki/Gameplay/Dash) ou hyperdash.**
