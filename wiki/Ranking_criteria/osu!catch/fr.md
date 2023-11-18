@@ -76,7 +76,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 #### Règles
 
 - **Les [dashs](/wiki/Gameplay/Dash) et les [hyperdashes](/wiki/Gameplay/Hyperdash) de toutes sortes sont interdits.** Il s'agit d'assurer une expérience de départ facile pour les joueurs débutants. Pour tester cela, il doit être possible d'atteindre un rang SS sur les difficultés sans faire usage de la touche dash.
-- **Il faut laisser au moins 250 ms entre les cercles/les sliders et le début et la fin des [spinners] (/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
+- **Il faut laisser au moins 250 ms entre les cercles/les sliders et le début et la fin des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 
 #### Directives
 
@@ -98,7 +98,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 - **Les [dashs](/wiki/Gameplay/Dash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois entre des [fruits](/wiki/Gameplay/Hit_object/Fruit) consécutifs.**
 - **Les [dashs](/wiki/Gameplay/Dash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) doivent toujours être suivis d'un [walk](/wiki/Gameplay/Walk).**
 - **Les [edge dash](/wiki/Gameplay/Edge_dash) ne doivent pas être utilisés.** Ils exigent un timing extrêmement précis qui ne peut être exigé des joueurs moins expérimentés.
-- **Il faut laisser au moins 250 ms entre les cercles/les sliders et le début et la fin des [spinners] (/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
+- **Il faut laisser au moins 250 ms entre les cercles/les sliders et le début et la fin des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 
 #### Directives
 
@@ -135,7 +135,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) forts ne doivent pas être utilisés.** Pour les hyperdash [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped), une limite de 1,5 fois la [distance de déclenchement](/wiki/Beatmapping/Trigger_distance) est recommandée. Pour les hyperdash [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped), une limite de 1,3 fois la distance de déclenchement est recommandée à la place.
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) peuvent être utilisés en conjonction avec des patterns [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** S'il est utilisé, l'espacement ne doit pas dépasser un snap de distance de 1,2 fois la [distance de déclenchement](/wiki/Beatmapping/Trigger_distance) lorsqu'il est suivi d'un [walk](/wiki/Gameplay/Walk), ou de 1,1 fois la distance de déclenchement lorsqu'il est suivi d'un [dash](/wiki/Gameplay/Dash) avec un snap de base.
-- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être suivis par des patterns [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** S'il est utilisé, le timing ne doit pas dépasser 1,1 fois la [distance de déclenchement] (/wiki/Beatmapping/Trigger_distance).
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être suivis par des patterns [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** S'il est utilisé, le timing ne doit pas dépasser 1,1 fois la [distance de déclenchement](/wiki/Beatmapping/Trigger_distance).
 - **Les [spinner traps](/wiki/Gameplay/Spinner_trap) ne doivent pas être utilisés.**
 - **Les [combos](/wiki/Beatmapping/Combo) ne doivent pas dépasser 12 objets, y compris les slider tails et les répétitions.** Les [spinners](/wiki/Gameplay/Hit_object/Spinner) sont une exception.
 - **La densité des notes doit suivre un pattern de 1/2 et/ou 1/3.** Les patterns 1/4 et/ou 1/6 doivent être utilisés avec parcimonie.
@@ -179,10 +179,11 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 - **Il doit rester au moins 62 ms entre les cercles/les sliders et le début des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 - **Il faut laisser au moins 125 ms entre les cercles/les sliders et la fin des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
+
 #### Directives
 
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) ne doivent être utilisés que sur les [drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) et/ou les répétitions de sliiders lorsque le chemin du slider est simple et facile à suivre.** Cela permet d'éviter les mouvements chaotiques ou déraisonnablement difficiles des sliders, car la transition vers et depuis des formes complexes de sliders avec l'hyperdash est généralement inconfortable à jouer, et pénalise fortement la précision pour peu d'avantages.
-- **Les [hyperdashs] (/wiki/Gameplay/Hyperdash) 1/8 et plus ne doivent pas être utilisés entre des paires d'objets consécutifs.**
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) 1/8 et plus ne doivent pas être utilisés entre des paires d'objets consécutifs.**
 - **Les [edge dashs](/wiki/Gameplay/Edge_dash) peuvent être utilisés avec prudence pour un maximum de trois objets consécutifs, et ne doivent pas être utilisés après des [hyperdashs](/wiki/Gameplay/Hyperdash).**
 - **Les [combos](/wiki/Beatmapping/Combo) ne doivent pas dépasser 16 objets, y compris les slider tails et les répétitions.** Les [spinners](/wiki/Gameplay/Hit_object/Spinner) sont une exception.
 - **La densité des notes doit suivre un pattern de 1/2 + 1/4 et/ou 1/3 + 1/6.** Les patterns 1/8 et plus doivent être utilisés avec parcimonie.
