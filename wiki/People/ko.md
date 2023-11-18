@@ -9,7 +9,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 ## 현재
 
-- [계정 지원 팀](Account_support_team)
+- [계정 지원팀](Account_support_team)
 - [비트맵 노미네이터](Beatmap_Nominators)
 - [비트맵 스포트라이트 큐레이터](Beatmap_Spotlight_Curators)
 - [센츄리온](Centurions)
@@ -22,7 +22,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 - [노미네이션 어세스먼트 팀](Nomination_Assessment_Team)
 - [퍼포먼스 포인트 위원회](Performance_Points_Committee)
 - [Project Loved 팀](Project_Loved_Team)
-- [서포트 팀](Support_Team)
+- [기술 지원팀](Technical_Support_Team)
 - [토너먼트 위원회](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! 팀](osu!_team)
