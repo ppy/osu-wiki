@@ -34,7 +34,7 @@ Check out [this legendary 7K osu!mania map](https://osu.ppy.sh/beatmapsets/63654
 
 ### you - Wake Up
 
-Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
+Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by [komasy](https://osu.ppy.sh/users/1980256) or [this 4K osu!mania version](https://osu.ppy.sh/beatmapsets/2090600) hosted by [Monoseul](https://osu.ppy.sh/users/16010604)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you - Wake Up.mp3">
@@ -54,6 +54,14 @@ Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Let_s Jump! (2019 Reworks).mp3">
+</audio>
+
+### you - Color (2019 Reworks)
+
+That's enough osu!taiko. Try [this osu! map](https://osu.ppy.sh/beatmapsets/2089375) by [Hinsvar](https://osu.ppy.sh/users/1249323) for a change of pace!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3">
 </audio>
 
 ---
