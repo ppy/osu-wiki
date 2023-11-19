@@ -39,13 +39,13 @@ The **osu!mania 7K Chinese National Cup 2023** (***MCNC 7K 2023***) was a countr
 
 ## Organisation
 
-The osu!mania 7K Chinese National Cup 2022 was run by various community members.
+The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
 | Mappool selector | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=MA }:: [Critical_Star](https://osu.ppy.sh/users/3793196) |
-| Mappool Tester | [-NoName-](https://osu.ppy.sh/users/10400730), [\_Kobii](https://osu.ppy.sh/users/6209713) |
+| Mappool tester | [-NoName-](https://osu.ppy.sh/users/10400730), [\_Kobii](https://osu.ppy.sh/users/6209713) |
 | Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [- Rainbow -](https://osu.ppy.sh/users/8742486), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [NaimuTongzi](https://osu.ppy.sh/users/8883892), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
 | Designer | ::{ flag=CN }:: [Dr_Tissues](https://osu.ppy.sh/users/5106681) |
 | Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
@@ -136,8 +136,8 @@ This competition has come to an end and resulted in the following podium:
   13. [u-z feat. cherica - Corrupting Wonderland \[Alice in Wonderland\]](https://osu.ppy.sh/beatmapsets/1783408#mania/3652328)
   14. [ina - IMAWANOKIWA \[I wanted to see your future\]](https://osu.ppy.sh/beatmapsets/1699647#mania/3472994)
   15. [ProjectG - Theme \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1939349#mania/4009627)
-- TieBreaker
-  1. [Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)
+- Tiebreaker
+  1. **[Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 \[Supremacy\]](https://osu.ppy.sh/beatmapsets/1939331#mania/4009588)**
 
 ### Finals
 
@@ -159,8 +159,8 @@ This competition has come to an end and resulted in the following podium:
   13. [Feryquitous feat. Sennzai - Rhuzerv \[Endless Darkness\]](https://osu.ppy.sh/beatmapsets/1935358#mania/3999735)
   14. [Co shu Nie - SAKURA BURST \[Disappearance\]](https://osu.ppy.sh/beatmapsets/1772362#mania/3628681)
   15. [t+pazolite & Nanahira - ONOMATO Pairing!!! (SSLong ver.) \[Nanahira New Year (edit)\]](https://osu.ppy.sh/beatmapsets/1663760#mania/3396377)
-- TieBreaker
-  1. [Dustvoxx - Switchback \[NS Deluxe\]](https://osu.ppy.sh/beatmapsets/1935584#mania/4000342)
+- Tiebreaker
+  1. **[Dustvoxx - Switchback \[NS Deluxe\]](https://osu.ppy.sh/beatmapsets/1935584#mania/4000342)**
 
 ### Semifinals
 
@@ -180,8 +180,8 @@ This competition has come to an end and resulted in the following podium:
   11. [HyuN feat. LyuU - Cross Over \[Quasover\]](https://osu.ppy.sh/beatmapsets/1931196#mania/3989541)
   12. [Camellia feat. Nanahira - Ju-Ju- Yakiniku no Hi kara Phenix!?~Saitan no Sumibi Yaki~ \[Extra\]](https://osu.ppy.sh/beatmapsets/1829572#mania/3755024)
   13. [Maria & the Mirrors - Gemini Enjoy My Life \[noisy (LN Edition)\]](https://osu.ppy.sh/beatmapsets/1931200#mania/3989547)
-- TieBreaker
-  1. [SAMString - NUMA \[Stupendous\]](https://osu.ppy.sh/beatmapsets/1931405#mania/3990012)
+- Tiebreaker
+  1. **[SAMString - NUMA \[Stupendous\]](https://osu.ppy.sh/beatmapsets/1931405#mania/3990012)**
 
 ### Quarterfinals
 
@@ -201,8 +201,8 @@ This competition has come to an end and resulted in the following podium:
   11. [Camellia - Final Flash Flight \[Expert\]](https://osu.ppy.sh/beatmapsets/1715665#mania/3509878)
   12. [Mitsukiyo - Rolling Beat \[Insane\]](https://osu.ppy.sh/beatmapsets/1718640#mania/3512200)
   13. [Kurokumo - Marunouchi Sadistic \[Pengdoll's Extreme\]](https://osu.ppy.sh/beatmapsets/1663604#mania/3871080)
-- TieBreaker
-  1. [Ariabl'eyeS - Kegare Naki Bara Juuji \[Bloom\]](https://osu.ppy.sh/beatmapsets/1926503#mania/3977998)
+- Tiebreaker
+  1. **[Ariabl'eyeS - Kegare Naki Bara Juuji \[Bloom\]](https://osu.ppy.sh/beatmapsets/1926503#mania/3977998)**
 
 ### Round of 16
 
@@ -220,8 +220,8 @@ This competition has come to an end and resulted in the following podium:
   9. [Sengoku Nadeko (CV: Hanazawa Kana) - Mousou Express (Cut Ver.) \[Imaginary Nerf\]](https://osu.ppy.sh/beatmapsets/1922894#mania/3969432)
   10. [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange \[Blocko's 7K Irrsinnig\]](https://osu.ppy.sh/beatmapsets/557139#mania/1507217)
   11. [Yunomi & nicamoq - Indoor Kei Nara Trackmaker \[= w=)zzz\]](https://osu.ppy.sh/beatmapsets/833226#mania/1745510)
-- TieBreaker
-  1. [Teminite & MDK - Space Invaders \[8bit Revenger // co. _Stan\]](https://osu.ppy.sh/beatmapsets/1922871#mania/3969384)
+- Tiebreaker
+  1. **[Teminite & MDK - Space Invaders \[8bit Revenger // co. _Stan\]](https://osu.ppy.sh/beatmapsets/1922871#mania/3969384)**
 
 ### Round of 32
 
@@ -237,8 +237,8 @@ This competition has come to an end and resulted in the following podium:
   7. [Shimotsuki Haruka - Re:Call \[KaffuChino's Re:Call (edit)\]](https://osu.ppy.sh/beatmapsets/1918773#mania/3959583)
   8. [Various - Kim_GodSSI's Guest Pack 2 \[M2U & Nicode - Stellar\]](https://osu.ppy.sh/beatmapsets/868254#mania/1814871)
   9. [Linear ring - Enchanted love \['o'\]](https://osu.ppy.sh/beatmapsets/1349017#mania/2793207)
-- TieBreaker
-  1. [t+pazolite - Ultrasonic Anthem \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmapsets/1918758#mania/3959555)
+- Tiebreaker
+  1. **[t+pazolite - Ultrasonic Anthem \[Expert // co. tyrcs\]](https://osu.ppy.sh/beatmapsets/1918758#mania/3959555)**
 
 ### Qualifiers
 
@@ -371,9 +371,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 1. The osu!mania 7K Chinese National Cup is a head-to-head individual tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Score V2.
-3. The beatmaps for each round will be announced by the Mappool Selector Team before the actual matches take place.
-   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
-4. Match schedule will be handled by the Tournament Management.
+3. The beatmaps for each round will be announced by the mappool selection team before the actual matches take place.
+   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g. if scoreline is 4–4 and the match is best of 9, the tiebreaker shall be played.
+4. Match scheduling will be handled by the tournament management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores will be considered losses, even if they are higher than the opponent.
    - Reviving and surviving during a beatmap is considered as passing it.
@@ -381,34 +381,34 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Custom skin elements must not be used to alter core gameplay mechanics.
 8. Players may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-   - If a rematch happens, the player’s mod during that particular beatmap must remain the same.
+   - If a rematch happens, the player's mod during that particular beatmap must remain the same.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
 10. If a player is not present at match time, it can be postponed for up to 10 minutes. If they are still absent after this period, a win by default will be declared for the player present.
-11. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
+11. All players and staff must be treated with respect. Instructions of the referees and the tournament management are to be followed. Decisions labelled as final are not to be objected.
 12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match and other deliberate inappropriate misbehaviour are strictly prohibited.
 13. Breaking chat rules results in a silence. Silenced players cannot participate in multiplayer matches.
-14. Unexpected incidents will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+14. Unexpected incidents will be handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 15. Penalties for violating the tournament rules include, but are not limited to:
     - Direct judgement of the score of one beatmap.
     - Declaring the match as forfeited, or as a win by default for the other player.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-16. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
-17. The Tournament Management reserves the right to refuse tournament entry for any and all suspicious accounts or players.
+16. The tournament management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+17. The tournament management reserves the right to refuse entry for any and all suspicious accounts or players.
 18. Players must abide to the osu! terms of service.
 
 ### Tournament registration
 
 1. There is no rank range for this tournament: players from all skill levels are free to participate.
-2. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, and Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the aforementioned territories are eligible for playing.
-3. To be eligible for playing, one must:
-   - Have not been banned/majorly restricted in the MCNC.
+2. This tournament is for Chinese players only, including players from territories of mainland China, Taiwan, Hong Kong, and Macau. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the aforementioned territories are eligible for playing.
+3. To be eligible to play, one must:
+   - Not have been banned/majorly restricted from the MCNC.
    - Pass a background check by osu! staff and the tournament staff.
    - Include the answer "首充双倍四舍五入等于不要钱" in the question "Do you have anything else to say?".
-   - To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! staff to check.
+   - To ensure that the game is played normally, every registered user will be manually checked by the tournament management and will give the list to the osu! staff to check.
 4. All successfully formed players will be published after the registration phase.
-5. Organisers, mappoolers and referees must not participate as a player in the tournament.
+5. Organisers, mappoolers and referees must not participate as players in the tournament.
 
 ### Qualifier instructions
 
@@ -424,28 +424,28 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Stage instructions
 
 1. Following the Qualifier stage, a double-elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
-2. Players in the losers’ bracket must play 2 matches each weekend starting from the Quarterfinals.
+2. Players in the losers' bracket must play 2 matches each weekend starting from the Quarterfinals.
 3. Players who lose a match in the losers' bracket get eliminated from the tournament.
 
 ### Win conditions
 
-- In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
-- In the Round of 32, players need to win 4 maps to win a match (best of 7).
-- In the Round of 16, players need to win 5 maps to win a match (best of 9).
-- In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
-- In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
+1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
+2. In the Round of 32, players need to win 4 maps to win a match (best of 7).
+3. In the Round of 16, players need to win 5 maps to win a match (best of 9).
+4. In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+5. In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2023: ({Red}) vs ({Blue})`.
-   - The player mentioned first in the room name must be the red, the player mentioned second in the room name must be the blue.
-2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player in the entire match.
+   - The player mentioned first in the room name must be in the red team, and the player mentioned second in the room name must be in the blue team.
+2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
-5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
+5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
 
@@ -466,5 +466,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
-2. The schedule is decided by the players discussing with each other. All match times must be communicated to the Tournament Management two days prior to the actual match. If not informed, the Tournament Management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
-3. If a player needs to make a temporary change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the Tournament Management.
+2. The schedule is decided by the players discussing with each other. All match times must be communicated to the tournament management two days prior to the actual match. If not informed, the tournament management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
+3. If a player needs to make a change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the tournament management.
