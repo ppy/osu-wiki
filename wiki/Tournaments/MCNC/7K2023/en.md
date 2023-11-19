@@ -259,6 +259,8 @@ This competition has come to an end and resulted in the following podium:
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRczjkzx4gBLlfaTkkxeCMfYaFTt-KxxyIs595Zq8DIWwn4Rs5YobeIEI0fMtO27mGPlWQgyFi0b0Dg/pubhtml).
 
+Saturday, 11 Feburary 2023:
+
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **VanWilder** | **7** | 3 | QingJiDing | [#1](https://osu.ppy.sh/community/matches/106746090) |
@@ -270,16 +272,30 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgmmVujgxqfIkJIaR6oQ-r1xmC12LsGs8PP1C3KlUWdfHbIwxfGrrG3B0Fl6H4q59d3ZE6upZpn_Qp/pubhtml).
 
+Thursday, 9 Feburary 2023:
+
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **VanWilder** | **7** | 3 | QingJiDing | [#1](https://osu.ppy.sh/community/matches/106746090) |
+
+Friday, 10 Feburary 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **af-** | **7** | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/106762565) |
 | **U1d** | **7** | 3 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/106764334) |
+
+Saturday, 11 Feburary 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | af- | 6 | **7** | **U1d** | [#1](https://osu.ppy.sh/community/matches/106785546) |
 
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSsR3vtuFlICCnp55im5-L_Whywmu7J1xAy56W7IDLlnU06tqOdrQui9UtyVrqHjbrmTBlBU6gAvPs/pubhtml).
+
+Saturday, 4 Feburary 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -290,11 +306,18 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | U1d | 3 | **6** | VanWilder | [#1](https://osu.ppy.sh/community/matches/106651326) |
 | **[Crz]Reimu** | **6** | 0 | Watch01 | [#1](https://osu.ppy.sh/community/matches/106652502) |
 | **HxcQ777** | **6** | 0 | Mito Van | [#1](https://osu.ppy.sh/community/matches/106652470) |
+
+Sunday, 5 Feburary 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **[Crz]Reimu** | **6** | 1 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/106678393) |
 
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSWS1jqEGwvLEeJnaDO3Pct5Zbeuu8bjZSYdraorgMf75n4bXJD3RhDD9uz-eSafttHNzVca9k5Y1W/pubhtml).
+
+Wednesday, 25 January 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -303,13 +326,28 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | 8K God | 3 | **6** | **SilentParleHorn** | [#1](https://osu.ppy.sh/community/matches/106458225) |
 | HxcQ777 | 3 | **6** | **VanWilder** | [#1](https://osu.ppy.sh/community/matches/106458152) |
 | Krn_ | -1 | **0** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/106458609) |
+
+Friday, 27 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **U1d** | **6** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/106495037) |
 | **QingJiDing** | **6** | 0 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/106494391) |
+
+Saturday, 28 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **af-** | **6** | 0 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/106515388) |
 | IllIlllIIlIIlIl | 5 | **6** | **[GB]King Fish** | [#1](https://osu.ppy.sh/community/matches/106516183) |
 | **Mi-a** | **6** | 5 | [Paw]FIood | [#1](https://osu.ppy.sh/community/matches/106517216) |
 | wjh123 | 3 | **6** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/106517257) |
 | AWMRone | 5 | **6** | **_Yiiiii** | [#1](https://osu.ppy.sh/community/matches/106517158) |
+
+Sunday, 29 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | Shenzouz | 1 | **6** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/106539485) |
 | **Watch01** | **6** | 2 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/106540310) |
 | _Yiiiii | 4 | **6** | **[GB]King Fish** | [#1](https://osu.ppy.sh/community/matches/106540185) |
@@ -319,18 +357,35 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRm0x62nWxFbh_5AfsdXynVvqhD46oIyHTYaUYppQiZaxE_S-Eaw-YW6Qa6GgNwVJhT1AiBW0-2YGy/pubhtml).
 
+Wednesday, 25 January 2023:
+
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **4kGameBye** | **5** | 4 | Watch01 | [#1](https://osu.ppy.sh/community/matches/106324563) |
 | **[Crz]Reimu** | **5** | 2 | AWMRone | [#1](https://osu.ppy.sh/community/matches/106324159) |
+
+Thursday, 19 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | lovely_hyahya | 4 | **5** | **[Paw]FIood** | [#1](https://osu.ppy.sh/community/matches/106338672) |
 | **U1d** | **5** | 1 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/106340933) |
 | [ Classic ] | 1 | **5** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/106341598) |
+
+Friday, 20 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **quailty** | **5** | 1 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/106356633) |
 | AelSan | 0 | **5** | **fishbone2445** | [#1](https://osu.ppy.sh/community/matches/106358653) |
 | -[Ulazis]- | 0 | **5** | **_Yiiiii** | [#1](https://osu.ppy.sh/community/matches/106359218) |
 | **af-** | **5** | 0 | wjh123 | [#1](https://osu.ppy.sh/community/matches/106359335) |
 | rain - | 1 | **5** | **[GB]King Fish** | [#1](https://osu.ppy.sh/community/matches/106361093) |
+
+Saturday, 21 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | Mitto | 1 | **5** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/106379452) |
 | **QingJiDing** | **5** | 2 | IllIlllIIlIIlIl | [#1](https://osu.ppy.sh/community/matches/106380140) |
 | **idqoos123** | **5** | 2 | 8K God | [#1](https://osu.ppy.sh/community/matches/106381620) |
@@ -342,10 +397,17 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR-OOtbqMEjVqSn9yidd0CTS5R-Sm2sPCmocqFn0RC-QV8b4VpS7Vfh229DFeDk0OBSSORX4yYHLxad/pubhtml).
 
+Friday, 13 January 2023:
+
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Watch01** | **4** | 2 | Mito Van | [#1](https://osu.ppy.sh/community/matches/106219335) |
 | [GB]King Fish | -1 | **0** | **8K God** | [#1](https://osu.ppy.sh/community/matches/106221484) |
+
+Saturday, 14 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **wjh123** | **4** | 1 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/106240467) |
 | **U1d** | **4** | 0 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/106241809) |
 | **QingJiDing** | **4** | 1 | SoftC418 | **[#1](https://osu.ppy.sh/community/matches/106241850)** |
@@ -355,6 +417,11 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **idqoos123** | **4** | 0 | rain - | [#1](https://osu.ppy.sh/community/matches/106246202) |
 | [Paw]FIood | 2 | **4** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/106246296) |
 | **AWMRone** | **4** | 2 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/106247384) |
+
+Sunday, 15 January 2023:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Krn_** | **4** | 0 | lovely_hyahya | [#1](https://osu.ppy.sh/community/matches/106264887) |
 | **4kGameBye** | **4** | 1 | [ Classic ] | [#1](https://osu.ppy.sh/community/matches/106265418) |
 | **IllIlllIIlIIlIl** | **4** | 3 | WANGTIANDADA | [#1](https://osu.ppy.sh/community/matches/106265488) |
