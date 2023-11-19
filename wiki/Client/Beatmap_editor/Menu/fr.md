@@ -96,7 +96,7 @@
 
 | Nom | Description |
 | :-- | :-- |
-| Déplacer tous les éléments du storyboard de... | Déplace *toutes* les [commandes](/wiki/Storyboard/Scripting/Commandes) du storyboard d'un nombre donné de millisecondes. |
+| Déplacer tous les éléments du storyboard de... | Déplace *toutes* les [commandes](/wiki/Storyboard/Scripting/Commands) du storyboard d'un nombre donné de millisecondes. |
 
 ## Timing
 
