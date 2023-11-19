@@ -177,7 +177,6 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - Tiebreaker
   1. **[Revo - Chihei o Kurau Hebi (Bazz B) \[Ouroboros\]](https://osu.ppy.sh/beatmapsets/1629695#osu/3326839)**
 
-
 ### 세미파이널
 
 **[맵팩은 여기서 다운로드가 가능합니다 (179 MB)](https://packs.ppy.sh/P229%20-%20osu!%20World%20Cup%202023%3A%20Semifinals.zip)**
