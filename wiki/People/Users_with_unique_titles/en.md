@@ -75,7 +75,7 @@ Winners of previous osu! World Cups with the **Former osu! Champion** user title
 Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** user title:
 
 | Tournament | Title | Title holders |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion: #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ::{ flag=TW }:: [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ::{ flag=TW }:: [oiu850714](https://osu.ppy.sh/users/437607), ::{ flag=TW }:: [yikao](https://osu.ppy.sh/users/352674), ::{ flag=TW }:: [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
@@ -91,7 +91,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 Winners of previous osu!catch World Cups with the **Former osu!catch Champion** user title:
 
 | Tournament | Title | Title holders |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion: #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
 | [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=KR }:: [Last Bubble](https://osu.ppy.sh/users/1302259), ::{ flag=KR }:: [snail\_player](https://osu.ppy.sh/users/563262) |
@@ -106,7 +106,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
 | Tournament | Title | Title holders |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion: 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion: 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
 | [MWC 4K 2015](/wiki/Tournaments/MWC/2015) | Former osu!mania 4K Champion: 2015 | ::{ flag=US }:: [Chrubble](https://osu.ppy.sh/users/2594280), ::{ flag=US }:: [EtienneXC](https://osu.ppy.sh/users/5610085), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [Shadow\_SM](https://osu.ppy.sh/users/4552987), ::{ flag=US }:: [Solara](https://osu.ppy.sh/users/4830970), ::{ flag=US }:: [Zyph](https://osu.ppy.sh/users/1600432) |
