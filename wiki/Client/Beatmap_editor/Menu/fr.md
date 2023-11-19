@@ -114,7 +114,7 @@
 | Supprimer la section (`Ctrl` + `I`) | Supprime la section de timing actuelle (héritée et non héritée). |
 | Repositionner les éléments de la section actuelle | [Resnap](/wiki/Beatmapping/Snapping) tous les objets dans la section courante en fonction du beat snap divisor actif. |
 | Configuration du timing (`F6`) | Ouvre la fenêtre [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing). |
-|Repositionner tous les éléments | Réinitialise tous les objets de la difficulté en beat snap divisor actif. |
+| Repositionner tous les éléments | Réinitialise tous les objets de la difficulté en beat snap divisor actif. |
 | Déplacer tous les éléments de... | Déplace tous les objets d'un nombre donné de millisecondes. |
 | Recalculer la longueur des sliders | Recalcule automatiquement[^recalculer-les-longueurs-note] tous les [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) sur le tick de la ligne de temps le plus proche, **les raccourcir éventuellement** et nécessitant un nouveau contrôle manuel. |
 | Supprimer toutes les sections temporelles | Supprime toutes les sections de timing non héritées et héritées des difficultés actuelles. |
