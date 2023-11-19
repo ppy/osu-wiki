@@ -244,7 +244,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Outstanding contribution to the osu!taiko community and tournament scene |
 | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Outstanding contribution to the skinning community |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Outstanding contribution to community moderation |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965)| Outstanding contribution to graphic design across countless community projects |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Outstanding contribution to graphic design across countless community projects |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Outstanding contribution to beatmap quality assurance |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Outstanding contribution to osu! IRL events |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the Mappers’ Guild and Featured Artist showcase videos |
