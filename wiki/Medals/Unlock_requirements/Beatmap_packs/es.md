@@ -2,7 +2,7 @@
 
 | Nombre de la medalla | Requisito |
 | :-- | :-- |
-| Video Game Pack vol.1 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40).  |
+| Video Game Pack vol.1 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40). |
 | Video Game Pack vol.2 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48). |
 | Video Game Pack vol.3 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70). |
 | Video Game Pack vol.4 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364). |
