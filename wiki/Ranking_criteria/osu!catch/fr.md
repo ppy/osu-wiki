@@ -75,7 +75,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 #### Règles
 
-- **Les [dashs](/wiki/Gameplay/Dash) et les [hyperdashes](/wiki/Gameplay/Hyperdash) de toutes sortes sont interdits.** Il s'agit d'assurer une expérience de départ facile pour les joueurs débutants. Pour tester cela, il doit être possible d'atteindre un rang SS sur les difficultés sans faire usage de la touche dash.
+- **Les [dashs](/wiki/Gameplay/Dash) et les [hyperdashs](/wiki/Gameplay/Hyperdash) de toutes sortes sont interdits.** Il s'agit d'assurer une expérience de départ facile pour les joueurs débutants. Pour tester cela, il doit être possible d'atteindre un rang SS sur les difficultés sans faire usage de la touche dash.
 - **Il faut laisser au moins 250 ms entre les cercles/les sliders et le début et la fin des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 
 #### Directives
@@ -93,7 +93,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 #### Règles
 
-- **Les [hyperdashes](/wiki/Gameplay/Hyperdash) de toutes sortes sont interdits.** Il s'agit d'assurer un niveau de difficulté gérable pour les joueurs novices.
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) de toutes sortes sont interdits.** Il s'agit d'assurer un niveau de difficulté gérable pour les joueurs novices.
 - **Les [dashs](/wiki/Gameplay/Dash) doivent avoir un écart d'au moins 125 ms entre leurs deux objets.**
 - **Les [dashs](/wiki/Gameplay/Dash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois entre des [fruits](/wiki/Gameplay/Hit_object/Fruit) consécutifs.**
 - **Les [dashs](/wiki/Gameplay/Dash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) doivent toujours être suivis d'un [walk](/wiki/Gameplay/Walk).**
@@ -182,7 +182,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 #### Directives
 
-- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) ne doivent être utilisés que sur les [drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) et/ou les répétitions de sliiders lorsque le chemin du slider est simple et facile à suivre.** Cela permet d'éviter les mouvements chaotiques ou déraisonnablement difficiles des sliders, car la transition vers et depuis des formes complexes de sliders avec l'hyperdash est généralement inconfortable à jouer, et pénalise fortement la précision pour peu d'avantages.
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) ne doivent être utilisés que sur les [drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) et/ou les répétitions de sliders lorsque le chemin du slider est simple et facile à suivre.** Cela permet d'éviter les mouvements chaotiques ou déraisonnablement difficiles des sliders, car la transition vers et depuis des formes complexes de sliders avec l'hyperdash est généralement inconfortable à jouer, et pénalise fortement la précision pour peu d'avantages.
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) 1/8 et plus ne doivent pas être utilisés entre des paires d'objets consécutifs.**
 - **Les [edge dashs](/wiki/Gameplay/Edge_dash) peuvent être utilisés avec prudence pour un maximum de trois objets consécutifs, et ne doivent pas être utilisés après des [hyperdashs](/wiki/Gameplay/Hyperdash).**
 - **Les [combos](/wiki/Beatmapping/Combo) ne doivent pas dépasser 16 objets, y compris les slider tails et les répétitions.** Les [spinners](/wiki/Gameplay/Hit_object/Spinner) sont une exception.
