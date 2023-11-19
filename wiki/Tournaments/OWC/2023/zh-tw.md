@@ -125,18 +125,57 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 完整報名名單可以查看 [這裡](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## 賽程: 準決賽
+## 賽程: 决赛
 
-### 2023 年 11 月 19 日, 星期日
+### 2023 年 11 月 25 日, 星期日
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 澳洲 ::{ flag=AU }:: | ::{ flag=CA }:: 加拿大 | [Nov 19 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 韓國 ::{ flag=KR }:: | ::{ flag=PH }:: 菲律賓 | [Nov 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 美國 ::{ flag=US }:: | ::{ flag=PL }:: 波蘭 | [Nov 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T150000&p1=1440&p2=263&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 德國 ::{ flag=DE }:: | ::{ flag=CL }:: 智利 | [Nov 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231119T190000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 菲律賓 ::{ flag=PH }:: | ::{ flag=US }:: 美國 | [Nov 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231125T150000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=DE }:: 德國 | [Nov 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231125T190000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### 2023 年 11 月 26 日, 星期日
+
+| A 隊 | B 隊 | 比賽時間 | 直播 |  |
+| --: | :-- | :-- | :-: | :-: |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=PH }:: 菲律賓 | [Nov 26 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T030000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 韓國 ::{ flag=KR }:: | ::{ flag=AU }:: 澳洲 | [Nov 26 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T080000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 德國 ::{ flag=DE }:: | ::{ flag=PH }:: 菲律賓 | [Nov 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T130000&p1=1440&p2=37&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=US }:: 美國 | [Nov 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T180000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 德國 ::{ flag=DE }:: | ::{ flag=US }:: 美國 | [Nov 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T180000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## 圖池
+
+### 决赛
+
+**[圖池懶人包 (143 MB)](https://packs.ppy.sh/P230%20-%20osu!%20World%20Cup%202023%3A%20Finals.zip)**
+
+- No Mod
+  1. [A.SAKA - KAGUTSUCHI (Nymphe) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2091775#osu/4384629)
+  2. [orangentle / Yu\_Asahina - OEUFHEBEN (Camo) \[Furioso\]](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (Petal) \[No.01\]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
+  4. [sanmal - Mind Chase (Ishtiaq) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637)
+  5. [Coaltar Of The Deepers - dl++\[Delatetei\] - Sadesper Record Mix (Mirash) \[deliszewski & Meramirash ft. azer8 Collab Mix\]](https://osu.ppy.sh/beatmapsets/2091742#osu/4384562)
+- Hidden
+  1. [wowaka - Toosenbo feat. Hatsune Miku (fooders) \[funny & fooders' Blind Obsession\]](https://osu.ppy.sh/beatmapsets/2091790#osu/4384671)
+  2. [nui - Mayday (sukii) \[Senseless\]](https://osu.ppy.sh/beatmapsets/2044442#osu/4267100)
+  3. [Capchii - Tiny Fate (captin1) \[extra\]](https://osu.ppy.sh/beatmapsets/2091791#osu/4384672)
+- Hard Rock
+  1. [Falcom Sound Team jdk feat. Sasaka Megumi - CRIMSON SiN (jonathanlfj) \[RESeT\]](https://osu.ppy.sh/beatmapsets/2091779#osu/4384635)
+  2. [Okabe Keiichi - MONACA - Ammobium (lewski) \[Mankai\]](https://osu.ppy.sh/beatmapsets/2091798#osu/4384680)
+  3. [Aoi - Quartzshaper (mintIceCream\_) \[Snow White\]](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670)
+- Double Time
+  1. [FELT - Puppet in the Dark (Mackenzie) \[Out Of Place ARTifactS\]](https://osu.ppy.sh/beatmapsets/326636#osu/725198)
+  2. [Mayumi Morinaga - Boutokuteki Sentaku no Alegria (Satellite) \[Alegria\]](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687)
+  3. [Marina Inoue - Watashi no Ki-Mo-Chi (dasdwqdf) \[alleinwqdf's Insane\]](https://osu.ppy.sh/beatmapsets/2091807#osu/4384690)
+  4. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#osu/58970)
+- Free Mod
+  1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
+  2. [Rohi - Gllensista (Feiri) \[Collab Legend\]](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679)
+  3. [Sound Piercer "ESPITZ" - NOVO HORIZONTE (Megafan) \[IRMAOS\]](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
+  4. [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
+- Tiebreaker
+  1. **[Revo - Chihei o Kurau Hebi (Bazz B) \[Ouroboros\]](https://osu.ppy.sh/beatmapsets/1629695#osu/3326839)**
 
 ### 準決賽
 
@@ -276,6 +315,8 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ### 準決賽
 
+詳細統計可以查看 [這裡](https://docs.google.com/spreadsheets/d/1zCyydxBHoOroim349C-NPnAQLU6FM_vl3rWOTPaXpQ8?rm=minimal).
+
 2023 年 11 月 18 日, 星期六：
 
 | A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
@@ -283,7 +324,16 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | 俄羅斯 ::{ flag=RU }:: | 5 | **6** | ::{ flag=DE }:: **德國** | [#1](https://osu.ppy.sh/community/matches/111349795) | [#1](https://www.twitch.tv/videos/1980749560) |
 | **波蘭** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: 中國 | [#1](https://osu.ppy.sh/community/matches/111350765) | [#1](https://www.twitch.tv/videos/1980795633) |
 | **美國** ::{ flag=US }:: | **6** | 1 | ::{ flag=SE }:: 瑞典 | [#1](https://osu.ppy.sh/community/matches/111352735) | [#1](https://www.twitch.tv/videos/1980866139) |
-| 英國 ::{ flag=GB }:: | 5 | **6** | ::{ flag=CL }:: **智利** | [#1](https://osu.ppy.sh/community/matches/111356742) | [#1](https://www.twitch.tv/videos/1981098958) |
+| 英國 ::{ flag=GB }:: | 5 | **6** | ::{ flag=CL }:: **智利** | [#1](https://osu.ppy.sh/community/matches/111356742) | [#1](https://www.twitch.tv/videos/1981279694) |
+
+2023 年 11 月 19 日, 星期日：
+
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **澳洲** ::{ flag=AU }:: | **6** | 2 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/111360796) | [#1](https://www.twitch.tv/videos/1981315028) |
+| **韓國** ::{ flag=KR }:: | **6** | 4 | ::{ flag=PH }:: 菲律賓 | [#1](https://osu.ppy.sh/community/matches/111366414) | [#1](https://www.twitch.tv/videos/1981662297) |
+| **美國** ::{ flag=US }:: | **6** | 2 | ::{ flag=PL }:: 波蘭 | [#1](https://osu.ppy.sh/community/matches/111368903) | [#1](https://www.twitch.tv/videos/1981922459) |
+| **德國** ::{ flag=DE }:: | **6** | 2 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/111372515) | [#1](https://www.twitch.tv/videos/1982002807) |
 
 ### 8 強
 
@@ -597,6 +647,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## Notes
 
+[^losers-bracket]: 敗部組
 [^potential-match]: 潛在的比賽 — 根據敗部組結果匹配的比賽
 [^qualifiers-seeding]: 使用主流的種子排序方式
 [^qualifiers-tiebreaker]: 當兩隊同分時採用 Tiebreaker 的分數
