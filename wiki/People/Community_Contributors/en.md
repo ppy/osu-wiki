@@ -240,7 +240,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Outstanding contribution to the mapping scene via utility development (osumod.com) |
 | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Outstanding contribution to offline tournaments and the growth of the community at large |
 | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Outstanding contribution to the osu! tournament scene and the World cups |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Outstanding contribution to the osu!taiko community and tournament scene |
 | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Outstanding contribution to the skinning community |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Outstanding contribution to community moderation |
