@@ -28,9 +28,9 @@ His ways around arcane and abstruse words recurrently remind us to wonder about 
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/venix.jpg)](https://osu.ppy.sh/users/5999631)
 
-Canonically considered by the GMT and NAT as the reason for anything that has gone both right and wrong, **Venix** has been nothing short of excellent in all the roles and projects he’s been responsible for.
+Canonically considered by the GMT and NAT as the reason for anything that has gone both right and wrong, **Venix** has been nothing short of excellent in all the roles and projects he's been responsible for.
 
-He’s been the main force behind the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) since 2020, a Beatmap Nominator back in 2019, and an integral pillar in the Global Moderation Team since 2021, where he went above and beyond the call to revamp internal tooling and help the team move on from the ancient spreadsheet days.
+He's been the main force behind the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) since 2020, a Beatmap Nominator back in 2019, and an integral pillar in the Global Moderation Team since 2021, where he went above and beyond the call to revamp internal tooling and help the team move on from the ancient spreadsheet days.
 
 Nowadays, **Venix** sits as the official Global Moderation Team leader where he oversees all aspects of the team to ensure all gears are turning properly, all while sparing time to occasionally implement some handy [osu! website](https://github.com/ppy/osu-web) features.
 
@@ -40,13 +40,13 @@ Nowadays, **Venix** sits as the official Global Moderation Team leader where he 
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/radar.jpg)](https://osu.ppy.sh/users/7131099)
 
-Ever since joining the Beatmap Nominators back in late 2019, **radar** has passionately dedicated his time towards every responsibility he had in his hands and proved to be a very integral member of the community. From being one of the most active BNs at the start of his tenure, to being part of the organisation of many community projects such as the Project Loved, Mappers’ Choice Awards, Beatmap Spotlights, and the Community Mentorship program, **radar**’s journey is of someone all but blossoming into manifold domains.
+Ever since joining the Beatmap Nominators back in late 2019, **radar** has passionately dedicated his time towards every responsibility he had in his hands and proved to be a very integral member of the community. From being one of the most active BNs at the start of his tenure, to being part of the organisation of many community projects such as the Project Loved, Mappers' Choice Awards, Beatmap Spotlights, and the Community Mentorship program, **radar**'s journey is of someone all but blossoming into manifold domains.
 
 Nowadays, **radar** stands as one of the mythical few who have chosen to dip their toes into the woes of NAT leadership, dedicating tons of time and effort to ensure that everything related to the mapping and modding ecosystem is running smoothly.
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/cychloryn.jpg)](https://osu.ppy.sh/users/6921736)
 
-Once upon a time, somewhere in the far lands of the arcane modding realms, one (at the time) Beatmap Nominator going by the name **Cychloryn** had a dream, which was to have a reliable and flexible modding queue. And so, [osumod.com](https://osumod.com) came to life! It worked just as **Cychloryn** expected, but what he didn’t expect was the amount of escalating traction the website would get across the past 3 years, with over **1,500** unique queues existing, over **4,800** mappers and modders interacting with said queues, and over **57,000** unique requests created!
+Once upon a time, somewhere in the far lands of the arcane modding realms, one (at the time) Beatmap Nominator going by the name **Cychloryn** had a dream, which was to have a reliable and flexible modding queue. And so, [osumod.com](https://osumod.com) came to life! It worked just as **Cychloryn** expected, but what he didn't expect was the amount of escalating traction the website would get across the past 3 years, with over **1,500** unique queues existing, over **4,800** mappers and modders interacting with said queues, and over **57,000** unique requests created!
 
 osumod proved to be an integral tool in the mapping and modding community, to the point of becoming a central hub for modding queues for all game modes, and we have **Cychloryn** to thank for that!
 
@@ -80,11 +80,11 @@ Then, from winning numerous tournaments and taking the Canadian team far into Wo
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/jerry.jpg)](https://osu.ppy.sh/users/605973)
 
-Single-handedly forming and fostering the modern osu!taiko Malaysian community, **Jerry** has been tirelessly grinding ever since he joined the Beatmap Nominators in late 2020 to make our communities as enjoyable and welcoming as ever, through hosting the [osu!taiko Malaysian Tournament](/wiki/Tournaments/OTMT) series — one of the most prestigious and high-effort osu!taiko tournaments of recent times, and being a notoriously valuable staff member in the [Global Taiko Showdown](/wiki/Tournaments/GTS) tournament series by making stellar art, video reveals, and even storyboards for the tournaments’ custom song and map reveals. Let’s not forget about the tons of other GFX contributions to countless community contests and events, of which you may recognise by browsing his [portfolio](https://nzmjerry.crd.co/), all while balancing his duties as a Global Moderator!
+Single-handedly forming and fostering the modern osu!taiko Malaysian community, **Jerry** has been tirelessly grinding ever since he joined the Beatmap Nominators in late 2020 to make our communities as enjoyable and welcoming as ever, through hosting the [osu!taiko Malaysian Tournament](/wiki/Tournaments/OTMT) series — one of the most prestigious and high-effort osu!taiko tournaments of recent times, and being a notoriously valuable staff member in the [Global Taiko Showdown](/wiki/Tournaments/GTS) tournament series by making stellar art, video reveals, and even storyboards for the tournaments' custom song and map reveals. Let's not forget about the tons of other GFX contributions to countless community contests and events, of which you may recognise by browsing his [portfolio](https://nzmjerry.crd.co/), all while balancing his duties as a Global Moderator!
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/roan.jpg)](https://osu.ppy.sh/users/8214639)
 
-The skinning world houses some of our most passionate and talented community members, and **Roan** is certainly one of them! Contrary to popular belief, he doesn’t actually create skins — however, he has contributed immensely to the skinning ecosystem through the magic of coding and community management, playing an important role in the development of certain projects like [skinship](https://skinship.xyz/) and the [osu! skin compendium](https://compendium.skinship.xyz/), alongside other tools integral to skinning, namely [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684), [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168), and [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643), all while balancing his role as a Global Moderator.
+The skinning world houses some of our most passionate and talented community members, and **Roan** is certainly one of them! Contrary to popular belief, he doesn't actually create skins — however, he has contributed immensely to the skinning ecosystem through the magic of coding and community management, playing an important role in the development of certain projects like [skinship](https://skinship.xyz/) and the [osu! skin compendium](https://compendium.skinship.xyz/), alongside other tools integral to skinning, namely [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684), [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168), and [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643), all while balancing his role as a Global Moderator.
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/darksonic.jpg)](https://osu.ppy.sh/users/570042)
 
@@ -100,7 +100,7 @@ Constantly cranking out stunning graphics, **Tanza3D** has been instrumental for
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/vrnl.jpg)](https://osu.ppy.sh/users/4799788)
 
-Score farmers: you know em’, you love em’. These are players who dedicate sweat and tears into playing absurd amounts of Ranked maps. However, **vrnl** is a bit different, as he proved to also be a quality assurance beast by involving his mapping expertise in his ongoing adventure to beatmap [completion](/wiki/People/Completionists). He made sure that no map slips to the Ranked section with permanent timing errors through playing almost every freshly-ranked osu! And osu!taiko map, and swiftly reporting every problem he gets ahold of to the Nomination Assessment Team. Additionally, during the short-lived [Qualified Inspectors trial](https://osu.ppy.sh/community/forums/topics/1806549), **vrnl** has somehow managed to check an astonishing 90 Qualified osu!taiko beatmaps and catch 17 problems within them, all in the span of a single month!
+Score farmers: you know em', you love em'. These are players who dedicate sweat and tears into playing absurd amounts of Ranked maps. However, **vrnl** is a bit different, as he proved to also be a quality assurance beast by involving his mapping expertise in his ongoing adventure to beatmap [completion](/wiki/People/Completionists). He made sure that no map slips to the Ranked section with permanent timing errors through playing almost every freshly-ranked osu! And osu!taiko map, and swiftly reporting every problem he gets ahold of to the Nomination Assessment Team. Additionally, during the short-lived [Qualified Inspectors trial](https://osu.ppy.sh/community/forums/topics/1806549), **vrnl** has somehow managed to check an astonishing 90 Qualified osu!taiko beatmaps and catch 17 problems within them, all in the span of a single month!
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/meyer.jpg)](https://osu.ppy.sh/users/5452367)
 
@@ -132,9 +132,9 @@ And we really mean visible. His [highly decorated profile page](https://osu.ppy.
 
 [![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/strategas.jpg)](https://osu.ppy.sh/users/2971837)
 
-If the unfathomable amount of [Featured Artist](/wiki/People/Featured_Artists) releases following an uninterrupted weekly release schedule for the past 3 years have somehow elided your notice, something must be wrong with you. If not, you might have wondered how we manage to pair almost every Featured Artist release with a dedicated set of [showcase maps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps), and for that we’d like to thank our passionate and dedicated members of the Mappers’ Guild!
+If the unfathomable amount of [Featured Artist](/wiki/People/Featured_Artists) releases following an uninterrupted weekly release schedule for the past 3 years have somehow elided your notice, something must be wrong with you. If not, you might have wondered how we manage to pair almost every Featured Artist release with a dedicated set of [showcase maps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps), and for that we'd like to thank our passionate and dedicated members of the Mappers' Guild!
 
-While there’s so many mappers who have played a role with Featured Artist showcases, a few have stood out from the rest through sheer dedication and efficiency across multiple years, and we’d like to thank **FAMoss**, **Hinsvar**, **Jemzuu**, **SMOKELIND**, and **Strategas** for their continued assistance ever since Featured Artist showcases became a thing.
+While there's so many mappers who have played a role with Featured Artist showcases, a few have stood out from the rest through sheer dedication and efficiency across multiple years, and we'd like to thank **FAMoss**, **Hinsvar**, **Jemzuu**, **SMOKELIND**, and **Strategas** for their continued assistance ever since Featured Artist showcases became a thing.
 
 ---
 
