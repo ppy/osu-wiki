@@ -62,7 +62,7 @@ Offline tournament series [The Roundtable](/wiki/Tournaments/The_Roundtable) of 
 
 **D I O**'s voice permeates osu!'s competitive scene.
 
-Host or staff of **over 100** tournaments, his experience is unparalleled due to involving basically every role, such as refereeing, commentating, spreadsheet creation, website development, mappooling, livestream operation and of course tournament organisation. Somewhere in his extensive portfolio is a nondescript mention of him hosting [The Perennial](https://theperennial.site/), one of the highest-profile tournaments and one of only three to receive three badges its finalists.
+Host or staff of **over 100** tournaments, his experience is unparalleled due to involving basically every role, such as refereeing, commentating, spreadsheet creation, website development, mappooling, livestream operation and of course tournament organisation. Somewhere in his extensive portfolio is a nondescript mention of him hosting [The Perennial](https://theperennial.site/), one of the highest-profile tournaments and one of only three to receive three badges for its finalists.
 
 Not only does he provide insightful live commentary for spectators in nearly all the tournaments he involves himself in, he has also featured as an anchor in many episodes of the [Full Circle](https://www.youtube.com/playlist?list=PLEl1E3ToUuS37l6ZTWj6MjLasUaxGmXge) podcast, covering the on-goings of major tournaments like Corsace and the osu! World Cup.
 
