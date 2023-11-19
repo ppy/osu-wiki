@@ -62,9 +62,9 @@ Offline tournament series [The Roundtable](/wiki/Tournaments/The_Roundtable) of 
 
 **D I O**'s voice permeates osu!'s competitive scene.
 
-Host or staff of **over 100** tournaments, his experience is unparalleled due to involving basically every role, such as refereeing, commentating, spreadsheet creation, website development, mappooling, livestream operation and of course tournament organisation. Somewhere in his extensive portfolio is a nondescript mention of him hosting [The Perennial](https://theperennial.site/), one of the highest-profile tournaments and one of only three to receive three badges for its finalists.
+Host or staff of **over 100** tournaments, his experience is unparalleled due to involving basically every role, such as refereeing, commentating, spreadsheet creation, website development, mappooling, livestream operation and of course tournament organisation. Somewhere in his extensive portfolio is a nondescript mention of him hosting [The Perennial](https://theperennial.site/), one of the highest-profile tournaments and one of only four to receive three badges for its finalists.
 
-Not only does he provide insightful live commentary for spectators in nearly all the tournaments he involves himself in, he has also featured as an anchor in many episodes of the [Full Circle](https://www.youtube.com/playlist?list=PLEl1E3ToUuS37l6ZTWj6MjLasUaxGmXge) podcast, covering the on-goings of major tournaments like Corsace and the osu! World Cup.
+Not only does he provide insightful live commentary for spectators in nearly all the tournaments he involves himself in, he has also been a recurring guest on [Full Circle](https://www.youtube.com/playlist?list=PLEl1E3ToUuS37l6ZTWj6MjLasUaxGmXge), a podcast run by [Corsace](https://corsace.io/) that covers the on-goings of major tournaments like Corsace and the osu! World Cup as well as other community topics..
 
 Disseminating this experience, he has provided [educational videos on using the tournament client](https://www.youtube.com/watch?v=l_nFynsxKRs) and together with [LeoFLT](https://osu.ppy.sh/users/3668779) brought forth [automatic spreadsheet templates](https://drive.google.com/drive/folders/1giAjZmjNy9nWsZd6wrxwJe_NA6IO8DqL) helping countless tournaments scale up in size and quality, as well as given many aspiring hosts and staff members assistance on their journey.
 
