@@ -33,7 +33,7 @@ The **osu!mania 7K Chinese National Cup 2023** (***MCNC 7K 2023***) was a countr
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, CNY 600, 4 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 400, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 200, 1 months of osu!supporter |
-| All player who passed Qualifiers | CNY 20 |
+| *All players who passed Qualifiers* | CNY 20 |
 
 ![](img/badge.jpg "MCNC 7K 2023 badge")
 
@@ -44,15 +44,15 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=MA }:: [Critical_Star](https://osu.ppy.sh/users/3793196) |
-| Mappool tester | [-NoName-](https://osu.ppy.sh/users/10400730), [\_Kobii](https://osu.ppy.sh/users/6209713) |
+| Mappool selector | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) |
+| Mappool tester | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |
 | Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [- Rainbow -](https://osu.ppy.sh/users/8742486), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [NaimuTongzi](https://osu.ppy.sh/users/8883892), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
 | Designer | ::{ flag=CN }:: [Dr_Tissues](https://osu.ppy.sh/users/5106681) |
 | Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
 
 ## Links
 
-- [Main Page](https://mcnc.crzteam.cn/home)
+- [Website](https://mcnc.crzteam.cn/home)
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1680872)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1680870)
 - [Livestream](https://live.bilibili.com/2996250)
