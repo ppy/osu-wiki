@@ -36,7 +36,7 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 
 ## Prizes
 
-The goodies.
+We just don't know.
 
 - **![Gold crown](/wiki/shared/crown-gold.png "1st place") 1st:** 
 - **![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd:**
