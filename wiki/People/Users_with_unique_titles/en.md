@@ -103,7 +103,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
-| [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
+| [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
