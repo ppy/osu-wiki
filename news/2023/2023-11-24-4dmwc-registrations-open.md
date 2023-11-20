@@ -31,7 +31,7 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 | Round of 16 | Jan 27 & Jan 28 |
 | Quarterfinals | Feb 3 & Feb 4 |
 | Semifinals | Feb 10 & Feb 11 |
-| Finals | Feb 17 & Feb 18|
+| Finals | Feb 17 & Feb 18 |
 | Grand Finals | Feb 24 & Feb 25 |
 
 ## Prizes
