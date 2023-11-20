@@ -226,8 +226,10 @@ Storyboarders ที่แสดงความสามารถในการ
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
 ## เรียงตามชื่อ
