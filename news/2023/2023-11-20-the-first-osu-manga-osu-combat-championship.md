@@ -46,8 +46,6 @@ An extroverted and composed individual, xootynator exudes boundless optimism. He
 
 ---
 
----
-
 Meet WhiteCat, mrekk, and a bunch of other interesting characters in the OCC manga! Each one's got their own unique style and background. If you didn't already notice from the character introductions, you're in for a diverse crew — some cool, some quirky, but all ready to bring their own flavour to the story! It's a character buffet of people you already know, so get ready to dig in and enjoy the ride!
 
 But that's not all! We have an exciting announcement for all anime enthusiasts out there. The OCC manga will be transformed into an **animated series**, and we have started on the first episode's production!
