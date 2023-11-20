@@ -16,7 +16,9 @@ The pooling and mapping team have been working hard to bring the largest selecti
 
 ![](wiki\Tournaments\4DM\2024\4dm2024-pool.jpg)
 
-Last but not least is the introduction of a **catch-up mechanic**. To summarize, if a team reached half the amount of points in any given match, the opponent *must* ban an additional map from the pool.
+The tournament is also introducing a brand-new **catch-up mechanic**. To summarize, if a team reached half the amount of points in any given match, the opponent *must* ban an additional map from the pool.
+
+Last but not least is the introduction of a new **Qualifier format**! When teams are choosing their lobbies, they are now expected to choose the order in which they'll play through the Qualifier pool. Any order is valid as long as each stage is played at least twice.
 
 ## Tournament schedule
 
@@ -44,6 +46,6 @@ The goodies.
 
 Details on how to register + disclaimer to keep it punctual, lest it be denied.
 
-To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647) and to check the [forum post]() for more information. We're eager to see you all there!
+To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647), checking the [forum post](), and reading the [wiki article]() for more information. We're eager to see you all there!
 
 —RandomeLoL & The 4DM Coordinator Team
