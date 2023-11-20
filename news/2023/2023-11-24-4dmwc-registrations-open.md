@@ -36,11 +36,9 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 
 ## Prizes
 
-We just don't know.
-
-- **![Gold crown](/wiki/shared/crown-gold.png "1st place") 1st:** 
-- **![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd:**
-- **![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd:**
+- **![Gold crown](/wiki/shared/crown-gold.png "1st place") 1st:** Unique profile badge, exclusive banner, 48% of the total prize pool.
+- **![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd:** Exclusive banner, 36% of the total prize pool.
+- **![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd:** Exclusive banner, 18% of the total prize pool.
 
 ## How do I register?
 
