@@ -773,7 +773,7 @@ The flag icons use the two letter code (in all capital letters) to match a certa
 ::{ flag=XX }::
 ```
 
-Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+Where `XX` is the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ## Tables
 

@@ -103,7 +103,7 @@ outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 
 标签能让网站的搜索引擎更有效地查询文章。标签应该使用与文章相同的语言。并包含英文原文章中所有标签。如果可用，则应使用小写字母。
 
-比如，一篇叫做“谱面讨论”的文章应该包含以下标签：
+比如，一篇叫做"谱面讨论"的文章应该包含以下标签：
 
 ```yaml
 tags:
@@ -783,7 +783,7 @@ jpeg-recompress -am smallfry <input> <output>
 ::{ flag=XX }::
 ```
 
-`XX` 是 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 定义的国家或地区用于表示旗帜的两字母代号。
+`XX` 是 [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 定义的国家或地区用于表示旗帜的两字母代号。
 
 ## 表格
 
@@ -802,7 +802,7 @@ jpeg-recompress -am smallfry <input> <output>
 以下是一个表格例子。
 
 ```markdown
-| “古雅”红队 | 比分 | “雕塑”蓝队 | 平均谱面星数 |
+| "古雅"红队 | 比分 | "雕塑"蓝队 | 平均谱面星数 |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 星 |
 | Aiko | 1 - 6 | **Alisa** | 4.2 星 |
