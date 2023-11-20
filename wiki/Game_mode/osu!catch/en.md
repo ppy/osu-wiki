@@ -12,7 +12,7 @@ osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requ
 
 ### Song Selection
 
-To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
+To access the osu!catch game mode, press `Ctrl` + `3` at the same time.
 
 Alternatively, click on the `Mode` button and select `osu!catch`.
 
@@ -68,9 +68,9 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ### Catcher control
 
-- By default, the left `<-`(L) and right `->`(R) arrow keys to move the catcher.
-- Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
-  - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
+- By default, the left `<-` (L) and right `->` (R) arrow keys to move the catcher.
+- Press and hold the `leftShift` (D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
+  - Alternatively, press and hold the Left Click (D) button on the mouse to trigger the dash.
 
 The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 

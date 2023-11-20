@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 3 de Beatmaps Spotlights (Invierno 2021)
+# Temporada 3 de Beatmap Spotlights (Invierno 2021)
 
 ## Calendario
 
@@ -36,8 +35,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 2. Cada sala multijugador temporal proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego es un subconjunto de la lista completa de beatmaps seleccionados para la temporada actual.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se reproduce 3 veces durante una temporada.
-3. Dentro de una sala temporal, todos compiten por una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala temporal, todos compiten en una tabla de clasificación específica de la sala.
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).

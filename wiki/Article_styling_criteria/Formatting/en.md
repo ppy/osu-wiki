@@ -550,7 +550,7 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 #### Wiki links
 
-All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
+All links that point to a wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -773,7 +773,7 @@ The flag icons use the two letter code (in all capital letters) to match a certa
 ::{ flag=XX }::
 ```
 
-Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
+Where `XX` is the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ## Tables
 

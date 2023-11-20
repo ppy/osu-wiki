@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 # Personas
@@ -14,6 +14,7 @@ Página de índice para artículos sobre personas o grupos.
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
 - [Centuriones](Centurions)
 - [Contribuidores de la comunidad](Community_Contributors)
+- [Completacionistas](Completionists)
 - [Desarrolladores](Developers)
 - [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)
@@ -32,7 +33,6 @@ Página de índice para artículos sobre personas o grupos.
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
-- [Equipo del osu!monthly](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Otro
