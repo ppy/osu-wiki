@@ -17,23 +17,23 @@ Winners of [OWC 2022](/wiki/Tournaments/OWC/2022) with the **osu! Champion** use
 - ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211)
 - ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
 
-Winners of [TWC 2022](/wiki/Tournaments/TWC/2022) with the **osu!taiko Champion** user title:
+Winners of [TWC 2023](/wiki/Tournaments/TWC/2023) with the **osu!taiko Champion** user title:
 
 - ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742)
+- ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
+- ::{ flag=JP }:: [kotohira\_06](https://osu.ppy.sh/users/22444525)
+- ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562)
 - ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950)
-- ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-Winners of [CWC 2022](/wiki/Tournaments/CWC/2022) with the **osu!catch Champion** user title:
+Winners of [CWC 2023](/wiki/Tournaments/CWC/2023) with the **osu!catch Champion** user title:
 
-- ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651)
-- ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549)
 - ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
 - ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
+- ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506)
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
-- ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
+- ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)
+- ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549)
 
 Winners of [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) with the **osu!mania 4K Champion** user title:
 
@@ -87,6 +87,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ::{ flag=JP }:: [isobe](https://osu.ppy.sh/users/8047347), ::{ flag=JP }:: [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
+| [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 
 Winners of previous osu!catch World Cups with the **Former osu!catch Champion** user title:
 
@@ -100,8 +101,9 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [mjj741](https://osu.ppy.sh/users/1459769) |
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
-| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
+| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
+| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
+| [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
