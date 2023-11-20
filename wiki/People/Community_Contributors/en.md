@@ -224,6 +224,35 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Outstanding contribution to osu! IRL events and the tournament scene |
 
+### 2023
+
+#### November
+
+*For the news post, see: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Exceptional and interminable dedication to community management over a decade |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Outstanding commitment to the moderation scene and the Beatmap Spotlights |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Outstanding contribution to moderation affairs & the osu! wiki (wikifriend) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Outstanding and pioneering contribution to the osu!taiko game mode |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Outstanding leadership in beatmap management affairs |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Outstanding contribution to the mapping scene via utility development (osumod.com) |
+| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Outstanding contribution to offline tournaments and the growth of the community at large |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Outstanding contribution to the osu!taiko community and tournament scene |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Outstanding contribution to the skinning community |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Outstanding contribution to community moderation |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Outstanding contribution to graphic design across countless community projects |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Outstanding contribution to beatmap quality assurance |
+| ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Outstanding contribution to osu! IRL events |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+
 ## History
 
 During February 2018, the old contributor badge by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]
