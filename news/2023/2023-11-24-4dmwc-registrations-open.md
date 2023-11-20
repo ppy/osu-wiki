@@ -22,23 +22,23 @@ Last but not least is the introduction of a **catch-up mechanic**. To summarize,
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Nov 24 – Dec 11 (23:59 UTC) |
-| Qualifier showcase | Dec 26 |
-| Qualifier stage | Jan 8 & Jan 9 |
-| Round of 32 | Jan 15 & Jan 16 |
-| Round of 16 | Jan 22 & Jan 23 |
-| Quarterfinals | Jan 29 & Jan 30 |
-| Semifinals | Feb 5 & Feb 6 |
-| Finals | Feb 12 & Feb 13|
-| Grand Finals | Feb 19 & Feb 20 |
+| Registration phase | Nov 24 – Dec 16 (23:59 UTC) |
+| Qualifier showcase | Jan 6 |
+| Qualifier stage | Jan 13 & Jan 14 |
+| Round of 32 | Jan 20 & Jan 21 |
+| Round of 16 | Jan 27 & Jan 28 |
+| Quarterfinals | Feb 3 & Feb 4 |
+| Semifinals | Feb 10 & Feb 11 |
+| Finals | Feb 17 & Feb 18|
+| Grand Finals | Feb 24 & Feb 25 |
 
 ## Prizes
 
 The goodies.
 
-- **1st:** 
-- **2nd:**
-- **3rd:**
+- **![Gold crown](/wiki/shared/crown-gold.png "1st place") 1st:** 
+- **![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd:**
+- **![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd:**
 
 ## How do I register?
 
