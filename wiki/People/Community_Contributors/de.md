@@ -1,3 +1,8 @@
+---
+outdated_since: 6c75c97f545c236af6e8253b4296dafa06668a56
+outdated_translation: true
+---
+
 # Mitwirkende der Community
 
 ::: Infobox
