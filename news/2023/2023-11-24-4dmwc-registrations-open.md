@@ -44,6 +44,6 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 
 Details on how to register + disclaimer to keep it punctual, lest it be denied.
 
-To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647), checking the [forum post](), and reading the [wiki article]() for more information. We're eager to see you all there!
+To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647), checking the [forum post](), and reading the [wiki article](/wiki/Tournaments/4DM/2024) for more information. We're eager to see you all there!
 
 —RandomeLoL & The 4DM Coordinator Team
