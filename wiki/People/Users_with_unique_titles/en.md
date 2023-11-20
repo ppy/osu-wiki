@@ -316,7 +316,7 @@ These users were awarded their respective titles for miscellanous reasons.
 | User | Title |
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE<!-- old forum meme --> |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE<!-- given by phill, old forum meme (https://osu.ppy.sh/community/forums/posts/869213) --> |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire<!-- Disco Elysium reference --> |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy<!-- movie threatre pictures in staff chats (internal reference: https://discord.com/channels/90072389919997952/276231513702400001/278117445968068608) --> |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
