@@ -748,7 +748,7 @@ osu! wiki масштабирует изображения, ширина кото
 ::{ flag=XX }::
 ```
 
-Здесь `XX` — двухбуквенный код страны по [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
+Здесь `XX` — двухбуквенный код страны по [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
 ## Таблицы
 

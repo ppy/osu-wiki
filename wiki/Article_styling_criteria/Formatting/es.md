@@ -774,7 +774,7 @@ Los íconos de la bandera usan el código de dos letras (en mayúsculas) para co
 ::{ flag=XX }::
 ```
 
-Donde `XX` es el código del país de dos letras de la [ISO 3166-2](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2) para la bandera.
+Donde `XX` es el código del país de dos letras de la [ISO 3166-1 alpha-2](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2) para la bandera.
 
 ## Tablas
 
