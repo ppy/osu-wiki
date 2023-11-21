@@ -4,7 +4,7 @@ title: "osu! World Cup 2023: Semifinals Recap"
 date: 2023-11-21 18:00:00 +0000
 ---
 
-As the osu! World Cup is nearing its conclusion, close matches and stupendous performances are pumping adrenaline into players and spectators alike.
+As the osu! World Cup is nearing its conclusion, close matches and stupendous performances are a constant source of adrenaline-pumping moments for both players and spectators alike.
 
 ![](/wiki/Tournaments/OWC/2023/img/owc2023-banner.jpg)
 
