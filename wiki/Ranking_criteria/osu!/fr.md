@@ -140,7 +140,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 #### Règles
 
-- **Les objets distants de 1/2 beat ou moins ne doivent pas se [chevaucher] (/wiki/Beatmapping/Mapping_techniques/Overlap).** Les slider tails ou slider heads entièrement recouvertes par slider tails sont exemptées, pour autant que leurs slider body soient visibles.
+- **Les objets distants de 1/2 beat ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap).** Les slider tails ou slider heads entièrement recouvertes par slider tails sont exemptées, pour autant que leurs slider body soient visibles.
 - **N'utilisez pas de [slider reverse qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Ces derniers représentent mal la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures directes et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire dans l'hypothèse où le lecteur dispose d'un skin qui rend les cercles slider end totalement transparents.
   - Les sliders ambiguës dont les cercles de suivi couvrent l'ensemble de la trajectoire du slider sont autorisés, à condition que les bordures du slider soient simples.
@@ -150,7 +150,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 - **Il doit y avoir au moins un beat entre la fin d'un spinner et l'objet suivant.** Ceci afin de garantir un temps suffisant pour cliquer sur un objet à la suite d'un spinner.
 - **La densité des notes doit être principalement de 1/2, occasionnellement de 1/4 ou de rythmes plus lents.**
 - **Évitez les [streams](/wiki/Beatmap/Pattern/osu!/Stream) composés de plus de 5 notes.** Des reverses sliders courte peuvent être utilisés en remplacement de ces derniers lorsque la musique le permet.
-- **Éviter les espaces visuellement similaires pour des rythmes différents.** La variation de l'espacement par des [jumps] (/wiki/Beatmap/Pattern/osu!/Jump) sur des points d'emphase est encouragée, mais seulement si ces jumps sont reconnaissables et différents des autres écarts de rythme.
+- **Éviter les espaces visuellement similaires pour des rythmes différents.** La variation de l'espacement par des [jumps](/wiki/Beatmap/Pattern/osu!/Jump) sur des points d'emphase est encouragée, mais seulement si ces jumps sont reconnaissables et différents des autres écarts de rythme.
 - **Les hitsounds des slider tick sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des sons de frappe habituels). Un slider très bruyant, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement dérangeant.
 - **Évitez les spinners de moins de 2 beats.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
 - **Évitez de couvrir entièrement les reverse arrows des sliders avec des objets dans les 2 beats suivant l'atteinte de la reverse arrow.** Les joueurs ont ainsi suffisamment de temps pour reconnaître la reverse arrow.
@@ -172,9 +172,9 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 #### Directives
 
-- **Les objets distants d'un quart de beat ou moins ne doivent pas se [chevaucher] (/wiki/Beatmapping/Mapping_techniques/Overlap),** surtout dans les difficultés Insane ou plus simples.
+- **Les objets distants d'un quart de beat ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap),** surtout dans les difficultés Insane ou plus simples.
 - **Évitez les [reverse arrows du slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Ces derniers représentent mal la direction d'un slider.
-- **Évitez les [jumps](/wiki/Beatmap/Pattern/osu!/Jump) et les [streams](/wiki/Beatmap/Pattern/osu!/Stream) dont les cercles ne se [chevauchent] (/wiki/Beatmapping/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmap principalement réservées aux difficultés Expert.
+- **Évitez les [jumps](/wiki/Beatmap/Pattern/osu!/Jump) et les [streams](/wiki/Beatmap/Pattern/osu!/Stream) dont les cercles ne se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmap principalement réservées aux difficultés Expert.
 - **Les hitsounds des slider ticks sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des sons de frappe habituels). Un slider très bruyant, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement dérangeant.
 - **Évitez de couvrir entièrement les reverses arrows des sliders avec des cercles, des slider heads ou des slider tails dans un délai d'un demi-battement après l'atteinte de la reverse arrow.** Les joueurs ont ainsi suffisamment de temps pour reconnaître la reverse arrow.
 - **Évitez de faire se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement les sliders body à moins d'un 1/2 beat l'un de l'autre.** Dans ce cas, les sliders peuvent être interprétés comme des cercles en raison de la dissimulation du slider body.
