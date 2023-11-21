@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # AiMod
 
 ![](img/AiMod-FR.png?1 "La fenêtre AiMod répertorie les avertissements et les erreurs concernant une beatmap.")
