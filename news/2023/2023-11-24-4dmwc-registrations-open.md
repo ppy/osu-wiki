@@ -16,7 +16,7 @@ The pooling and mapping team have been working hard to bring the largest selecti
 
 ![](/wiki/Tournaments/4DM/2024/img/4dm2024-pool.jpg)
 
-The tournament is also introducing a brand-new **catch-up mechanic**. To summarize, if a team reached half the amount of points in any given match, the opponent *must* ban an additional map from the pool.
+The tournament is also introducing a brand-new **catch-up mechanic**. To summarize, if a team reached half the amount of points in any given match, the opponent *must* ban an additional map from the pool not previously protected.
 
 Last but not least is the introduction of a new **Qualifier format**! When teams are choosing their lobbies, they are now expected to choose the order in which they'll play through the Qualifier pool. Any order is valid as long as each stage is played at least twice.
 
