@@ -44,7 +44,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | 圖池篩選 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | 圖池品管 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 圖池測試 | ::{ flag=CZ }:: [Avenito](https://osu.ppy.sh/users/7415910), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=BR }:: [Mystia](https://osu.ppy.sh/users/4277702), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) |
-| 譜面師 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| 譜面師 | ::{ flag=TR }:: [\-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=US }:: [ajmosca](https://osu.ppy.sh/users/19884809), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=CA }:: [Deca](https://osu.ppy.sh/users/9088487), ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=US }:: [fooders](https://osu.ppy.sh/users/7545218), ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573), ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076), ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497), ::{ flag=GB }:: [Ishtiaq](https://osu.ppy.sh/users/6405262), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506), ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377), ::{ flag=RU }:: [kkip](https://osu.ppy.sh/users/31845892), ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340), ::{ flag=PT }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=FI }:: [lewski](https://osu.ppy.sh/users/4980738), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382), ::{ flag=US }:: [mintIceCream\_](https://osu.ppy.sh/users/13221589), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Nakano Itsuki](https://osu.ppy.sh/users/4600383), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=US }:: [Risen](https://osu.ppy.sh/users/9652892), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=CA }:: [ThunderBird2678](https://osu.ppy.sh/users/3388082), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | 賽評 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{flag=CA}:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{flag=GB}:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{flag=AU}:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | 裁判 | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | 統計 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -98,7 +98,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | ::{ flag=NZ }:: | **紐西蘭** | **[buffcorreII](https://osu.ppy.sh/users/11141578)**, [Zoomer](https://osu.ppy.sh/users/6600930), [Saiyku](https://osu.ppy.sh/users/13767572), [Kim Suhye](https://osu.ppy.sh/users/15293080), [its going up](https://osu.ppy.sh/users/7731995), [Ozzy265](https://osu.ppy.sh/users/23179637), [shortpotato](https://osu.ppy.sh/users/1266102), [kit-](https://osu.ppy.sh/users/10981171) |
 | ::{ flag=NO }:: | **挪威** | **[YokesPai](https://osu.ppy.sh/users/6399568)**, [-GN](https://osu.ppy.sh/users/895581), [amae koromo](https://osu.ppy.sh/users/6888972), [antonyw](https://osu.ppy.sh/users/12959983), [Melvr](https://osu.ppy.sh/users/9211924), [ninerik](https://osu.ppy.sh/users/10549880), [papercandle](https://osu.ppy.sh/users/12353810), [Pinguinzi](https://osu.ppy.sh/users/9414229) |
 | ::{ flag=PA }:: | **巴拿馬** | **[Counter Strike](https://osu.ppy.sh/users/5136821)**, [Ramon 2](https://osu.ppy.sh/users/11562243), [raetia](https://osu.ppy.sh/users/6033536), [Daniel11PTY](https://osu.ppy.sh/users/16535905), [Bakiii](https://osu.ppy.sh/users/6790430), [Sirny](https://osu.ppy.sh/users/18962732), [ne0craft](https://osu.ppy.sh/users/17545095) |
-| ::{ flag=PH }:: | **菲律賓** | **[enri](https://osu.ppy.sh/users/8640970)**, [hyeok2044](https://osu.ppy.sh/users/8472976), [NathanRam1918](https://osu.ppy.sh/users/4734703), [Xyloz](https://osu.ppy.sh/users/12040280), [C6 Venti](https://osu.ppy.sh/users/9642774), [Impowster](https://osu.ppy.sh/users/13484596), [Miggie](https://osu.ppy.sh/users/12028437), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ::{ flag=PH }:: | **菲律賓** | **[enri](https://osu.ppy.sh/users/8640970)**, [hyeok2044](https://osu.ppy.sh/users/8472976), [NathanRam1918](https://osu.ppy.sh/users/4734703), [Xyloz](https://osu.ppy.sh/users/12040280), [Milkteaism](https://osu.ppy.sh/users/9642774), [Impowster](https://osu.ppy.sh/users/13484596), [Miggie](https://osu.ppy.sh/users/12028437), [zonelouise](https://osu.ppy.sh/users/1492995) |
 | ::{ flag=PL }:: | **波蘭** | **[maliszewski](https://osu.ppy.sh/users/12408961)**, [gnahus](https://osu.ppy.sh/users/12779141), [rafal](https://osu.ppy.sh/users/7787629), [Rafis](https://osu.ppy.sh/users/2558286), [kasiabarwicka](https://osu.ppy.sh/users/13108233), [Bartek22830](https://osu.ppy.sh/users/6404027), [Michni](https://osu.ppy.sh/users/3543130), [Mastasz](https://osu.ppy.sh/users/1876565) |
 | ::{ flag=PT }:: | **葡萄牙** | **[Just2Gud](https://osu.ppy.sh/users/4430263)**, [AlfredTheSalmon](https://osu.ppy.sh/users/1052349), [Dolphin\_](https://osu.ppy.sh/users/14787295), [MakiDonalds](https://osu.ppy.sh/users/11610772), [Netizz](https://osu.ppy.sh/users/3256745), [QQuaLLe](https://osu.ppy.sh/users/2398671), [uatzap](https://osu.ppy.sh/users/16509171), [WhiteCar](https://osu.ppy.sh/users/8133117) |
 | ::{ flag=RO }:: | **羅馬尼亞** | **[badeu](https://osu.ppy.sh/users/1473890)**, [etn](https://osu.ppy.sh/users/4581069), [Lucrise](https://osu.ppy.sh/users/9719351), [Razei](https://osu.ppy.sh/users/10778261), [roliy](https://osu.ppy.sh/users/9578404), [HowlPleb](https://osu.ppy.sh/users/15995105), [\_Silvian](https://osu.ppy.sh/users/8511882), [Chamosiala](https://osu.ppy.sh/users/1469892) |
@@ -125,27 +125,88 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 完整報名名單可以查看 [這裡](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## 賽程: 8 強
+## 賽程: 决赛
 
-### 2023 年 11 月 11 日, 星期六
-
-| A 隊 | B 隊 | 比賽時間 | 直播 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 智利 ::{ flag=CL }:: | ::{ flag=BR }:: 巴西 | [11 月 11 日 (六) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231111T220000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-
-### 2023 年 11 月 12 日, 星期日
+### 2023 年 11 月 25 日, 星期日
 
 | A 隊 | B 隊 | 比賽時間 | 直播 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 波蘭 ::{ flag=PL }:: | ::{ flag=AU }:: 澳洲 | [11 月 12 日 (日) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T100000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 韓國 ::{ flag=KR }:: | ::{ flag=GB }:: 英國 | [11 月 12 日 (日) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T113000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 德國 ::{ flag=DE }:: | ::{ flag=ID }:: 印尼 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=37&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 俄羅斯 ::{ flag=RU }:: | ::{ flag=PH }:: 菲律賓 | [11 月 12 日 (日) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T130000&p1=1440&p2=166&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 烏克蘭 ::{ flag=UA }:: | ::{ flag=CN }:: 中國 | [11 月 12 日 (日) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T143000&p1=1440&p2=367&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 法國 ::{ flag=FR }:: | ::{ flag=SE }:: 瑞典 | [11 月 12 日 (日) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T160000&p1=1440&p2=195&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 美國 ::{ flag=US }:: | ::{ flag=CA }:: 加拿大 | [11 月 12 日 (日) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231112T190000&p1=1440&p2=263&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 菲律賓 ::{ flag=PH }:: | ::{ flag=US }:: 美國 | [Nov 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231125T150000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=DE }:: 德國 | [Nov 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231125T190000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### 2023 年 11 月 26 日, 星期日
+
+| A 隊 | B 隊 | 比賽時間 | 直播 |  |
+| --: | :-- | :-- | :-: | :-: |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=PH }:: 菲律賓 | [Nov 26 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T030000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 韓國 ::{ flag=KR }:: | ::{ flag=AU }:: 澳洲 | [Nov 26 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T080000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 德國 ::{ flag=DE }:: | ::{ flag=PH }:: 菲律賓 | [Nov 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T130000&p1=1440&p2=37&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 加拿大 ::{ flag=CA }:: | ::{ flag=US }:: 美國 | [Nov 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T180000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 德國 ::{ flag=DE }:: | ::{ flag=US }:: 美國 | [Nov 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T180000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## 圖池
+
+### 决赛
+
+**[圖池懶人包 (143 MB)](https://packs.ppy.sh/P230%20-%20osu!%20World%20Cup%202023%3A%20Finals.zip)**
+
+- No Mod
+  1. [A.SAKA - KAGUTSUCHI (Nymphe) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2091775#osu/4384629)
+  2. [orangentle / Yu\_Asahina - OEUFHEBEN (Camo) \[Furioso\]](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (Petal) \[No.01\]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
+  4. [sanmal - Mind Chase (Ishtiaq) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637)
+  5. [Coaltar Of The Deepers - dl++\[Delatetei\] - Sadesper Record Mix (Mirash) \[deliszewski & Meramirash ft. azer8 Collab Mix\]](https://osu.ppy.sh/beatmapsets/2091742#osu/4384562)
+- Hidden
+  1. [wowaka - Toosenbo feat. Hatsune Miku (fooders) \[funny & fooders' Blind Obsession\]](https://osu.ppy.sh/beatmapsets/2091790#osu/4384671)
+  2. [nui - Mayday (sukii) \[Senseless\]](https://osu.ppy.sh/beatmapsets/2044442#osu/4267100)
+  3. [Capchii - Tiny Fate (captin1) \[extra\]](https://osu.ppy.sh/beatmapsets/2091791#osu/4384672)
+- Hard Rock
+  1. [Falcom Sound Team jdk feat. Sasaka Megumi - CRIMSON SiN (jonathanlfj) \[RESeT\]](https://osu.ppy.sh/beatmapsets/2091779#osu/4384635)
+  2. [Okabe Keiichi - MONACA - Ammobium (lewski) \[Mankai\]](https://osu.ppy.sh/beatmapsets/2091798#osu/4384680)
+  3. [Aoi - Quartzshaper (mintIceCream\_) \[Snow White\]](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670)
+- Double Time
+  1. [FELT - Puppet in the Dark (Mackenzie) \[Out Of Place ARTifactS\]](https://osu.ppy.sh/beatmapsets/326636#osu/725198)
+  2. [Mayumi Morinaga - Boutokuteki Sentaku no Alegria (Satellite) \[Alegria\]](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687)
+  3. [Marina Inoue - Watashi no Ki-Mo-Chi (dasdwqdf) \[alleinwqdf's Insane\]](https://osu.ppy.sh/beatmapsets/2091807#osu/4384690)
+  4. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#osu/58970)
+- Free Mod
+  1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
+  2. [Rohi - Gllensista (Feiri) \[Collab Legend\]](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679)
+  3. [Sound Piercer "ESPITZ" - NOVO HORIZONTE (Megafan) \[IRMAOS\]](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
+  4. [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
+- Tiebreaker
+  1. **[Revo - Chihei o Kurau Hebi (Bazz B) \[Ouroboros\]](https://osu.ppy.sh/beatmapsets/1629695#osu/3326839)**
+
+### 準決賽
+
+**[圖池懶人包 (179 MB)](https://packs.ppy.sh/P229%20-%20osu!%20World%20Cup%202023%3A%20Semifinals.zip)**
+
+- No Mod
+  1. [SymaG - Fuckin' Friday (melon boy) \[REAL\]](https://osu.ppy.sh/beatmapsets/2088552#osu/4376786)
+  2. [kamome sano - tarte tatin (-PC) \[reine des reinettes\]](https://osu.ppy.sh/beatmapsets/849903#osu/1777067)
+  3. [seleP feat. Lily - Sara (ajmosca) \[Bloody Rose\]](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782)
+  4. [Magnetude - Valhalla (Cut Ver.) (nooj) \[Olaf, the Berserker\]](https://osu.ppy.sh/beatmapsets/2088555#osu/4376790)
+  5. [Nekrogoblikon - The Skin Thief (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2222880)
+- Hidden
+  1. [Sephid - Epistrofi (Mattay) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1572038#osu/3209907)
+  2. [IOSYS - Hinarin no Yakui Kankei (Edit ver.) (Luscent) \[Kuru-kurunatic\]](https://osu.ppy.sh/beatmapsets/2088431#osu/4376532)
+  3. [Sorry about my face - The last straw (fergas) \[Splinter of destiny\]](https://osu.ppy.sh/beatmapsets/2088563#osu/4376803)
+- Hard Rock
+  1. [Harusaruhi - Ibasho (captin1) \[Breakthough\]](https://osu.ppy.sh/beatmapsets/2088564#osu/4376804)
+  2. [Toru Kawai - The Magician's Dream (KnightC0re) \[My Grand Illusion\]](https://osu.ppy.sh/beatmapsets/2088436#osu/4376547)
+  3. [xi - Blue Zenith (Asphyxia) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/292301#osu/658127)
+- Double Time
+  1. [isekaijoucho - Promise in the Twilight (ThunderBird2678) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/2088554#osu/4376789)
+  2. [SOUND HOLIC - break through the night (Net0) \[Stage 6  \~ Tenkyuu Chimata\]](https://osu.ppy.sh/beatmapsets/2088553#osu/4376788)
+  3. [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/144171#osu/358273)
+  4. [Tsunku & Masami Yone - Kero Kero SAX (Sushi971) \[Insane\]](https://osu.ppy.sh/beatmapsets/12221#osu/46083)
+- Free Mod
+  1. [Dark PHOENiX - Taketori Hishou (cotton\_123) \[Lunatic Princess\]](https://osu.ppy.sh/beatmapsets/1893810#osu/3902585)
+  2. [Kano - Nadamesukashi Negotiation (flake) \[Trade Offer!\]](https://osu.ppy.sh/beatmapsets/2088310#osu/4376248)
+  3. [Yousei Teikoku - Zetsu (IsomirDiAngelo) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929650)
+  4. [kors k - SigSig (AJT) \[Yokes' Hidden Expert\]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298593)
+- Tiebreaker
+  1. **[polysha - Endverse (captin1) \[Encore\]](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)**
 
 ### 8 強
 
@@ -252,9 +313,33 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## 比賽結果
 
-2023 年 11 月 11 日, 星期六：
+### 準決賽
+
+詳細統計可以查看 [這裡](https://docs.google.com/spreadsheets/d/1zCyydxBHoOroim349C-NPnAQLU6FM_vl3rWOTPaXpQ8?rm=minimal).
+
+2023 年 11 月 18 日, 星期六：
+
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 俄羅斯 ::{ flag=RU }:: | 5 | **6** | ::{ flag=DE }:: **德國** | [#1](https://osu.ppy.sh/community/matches/111349795) | [#1](https://www.twitch.tv/videos/1980749560) |
+| **波蘭** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: 中國 | [#1](https://osu.ppy.sh/community/matches/111350765) | [#1](https://www.twitch.tv/videos/1980795633) |
+| **美國** ::{ flag=US }:: | **6** | 1 | ::{ flag=SE }:: 瑞典 | [#1](https://osu.ppy.sh/community/matches/111352735) | [#1](https://www.twitch.tv/videos/1980866139) |
+| 英國 ::{ flag=GB }:: | 5 | **6** | ::{ flag=CL }:: **智利** | [#1](https://osu.ppy.sh/community/matches/111356742) | [#1](https://www.twitch.tv/videos/1981279694) |
+
+2023 年 11 月 19 日, 星期日：
+
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **澳洲** ::{ flag=AU }:: | **6** | 2 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/111360796) | [#1](https://www.twitch.tv/videos/1981315028) |
+| **韓國** ::{ flag=KR }:: | **6** | 4 | ::{ flag=PH }:: 菲律賓 | [#1](https://osu.ppy.sh/community/matches/111366414) | [#1](https://www.twitch.tv/videos/1981662297) |
+| **美國** ::{ flag=US }:: | **6** | 2 | ::{ flag=PL }:: 波蘭 | [#1](https://osu.ppy.sh/community/matches/111368903) | [#1](https://www.twitch.tv/videos/1981922459) |
+| **德國** ::{ flag=DE }:: | **6** | 2 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/111372515) | [#1](https://www.twitch.tv/videos/1982002807) |
 
 ### 8 強
+
+詳細統計可以查看 [這裡](https://docs.google.com/spreadsheets/d/17mterPgXUzj4FSRDK4iyzgAkf4sMw-xeWn3YSGAfYS0?rm=minimal).
+
+2023 年 11 月 11 日, 星期六：
 
 | A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -266,6 +351,18 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | **巴西** ::{ flag=BR }:: | **6** | 2 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/111260018) | [#1](https://www.twitch.tv/videos/1974747670) |
 | 羅馬尼亞 ::{ flag=RO }:: | 4 | **6** | ::{ flag=FR }:: **法國** | [#1](https://osu.ppy.sh/community/matches/111260487) | [#1](https://www.twitch.tv/videos/1974857501?t=03h39m18s) |
 | **智利** ::{ flag=CL }:: | **6** | 0 | ::{ flag=FI }:: 芬蘭 | [#1](https://osu.ppy.sh/community/matches/111261974) | [#1](https://www.twitch.tv/videos/1974857501?t=04h54m45s) |
+
+2023 年 11 月 12 日, 星期日：
+
+| A 隊 |  |  | B 隊 | 比賽房間連結 | 重播連結 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 波蘭 ::{ flag=PL }:: | 5 | **6** | ::{ flag=AU }:: **澳洲** | [#1](https://osu.ppy.sh/community/matches/111271525) | [#1](https://www.twitch.tv/videos/1975435768) |
+| **韓國** ::{ flag=KR }:: | **6** | 1 | ::{ flag=GB }:: 英國 | [#1](https://osu.ppy.sh/community/matches/111272312) | [#1](https://www.twitch.tv/videos/1975477511) |
+| **德國** ::{ flag=DE }:: | **6** | 2 | ::{ flag=ID }:: 印尼 | [#1](https://osu.ppy.sh/community/matches/111273436) | [#1](https://www.twitch.tv/videos/1975518702) |
+| 俄羅斯 ::{ flag=RU }:: | 3 | **6** | ::{ flag=PH }:: **菲律賓** | [#1](https://osu.ppy.sh/community/matches/111273441) | [#1](https://www.twitch.tv/videos/1975526145) |
+| 烏克蘭 ::{ flag=UA }:: | 2 | **6** | ::{ flag=CN }:: **中國** | [#1](https://osu.ppy.sh/community/matches/111274743) | [#1](https://www.twitch.tv/videos/1975578112) |
+| 法國 ::{ flag=FR }:: | 4 | **6** | ::{ flag=SE }:: **瑞典** | [#1](https://osu.ppy.sh/community/matches/111276018) | [#1](https://www.twitch.tv/videos/1975667142) |
+| 美國 ::{ flag=US }:: | 1 | **6** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/111278789) | [#1](https://www.twitch.tv/videos/1975815592) |
 
 ### 16 強
 
@@ -550,6 +647,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## Notes
 
+[^losers-bracket]: 敗部組
 [^potential-match]: 潛在的比賽 — 根據敗部組結果匹配的比賽
 [^qualifiers-seeding]: 使用主流的種子排序方式
 [^qualifiers-tiebreaker]: 當兩隊同分時採用 Tiebreaker 的分數
