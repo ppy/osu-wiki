@@ -56,6 +56,7 @@ jobs:
         run: npm ci
 
       - name: run remark on changed files
+        if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
           readarray -t REMARK_TARGET_FILES <<< $(
             # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
