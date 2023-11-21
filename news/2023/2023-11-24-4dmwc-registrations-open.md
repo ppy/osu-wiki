@@ -45,13 +45,9 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 To register, fill out the [following form](). Before doing so, please read and understand the following rules:
 
 - **You must be within the 4 key rank range of #1,000-9,999** both when you submit your registration and until the end of the registration phase.
-
 - **You must not have violated the [osu! community rules](/wiki/en/Rules) in the past 12 months.**
-
 - **You must not exceed the global osu!mania rank of #250.**
-
 - **You must not have been a part of a former winning 4 Digit MWC team.**
-
 - **Join the official [Discord Server](https://discord.gg/W2MQ647) for 4DM2024.**
 
 On top of that, there will be a separate skill-banning phase that will bar players above a certain skill level from participating based on a purely mathematical procedure. Stay tuned in the server to know whether this will affect you or your team!
