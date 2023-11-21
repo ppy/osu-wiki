@@ -4,7 +4,7 @@ Los [beatmaps](/wiki/Beatmap) se pueden enviar al sitio web de osu! a través de
 
 ![](img/bss_warning-ES.png "Pantalla del sistema de envío de beatmaps")
 
-Al seleccionar `Subir mapa...` del menú desplegable `Archivo` en el editor (atajo: `Ctrl` + `Shift` + `U`) se abrirá la ventana del **sistema de envío de beatmaps** (***BSS***). Inicialmente, esto enumera recursos para ayudar a los usuarios a hacer preguntas relacionadas con el mapping, encontrar [comentarios](/wiki/Modding) para sus beatmaps y garantizar que sus mapas sean adecuados para clasificar. Si tiene problemas al utilizar el BSS, véase la guía [problemas del BSS](/wiki/Guides/BSS_issues).
+Al seleccionar `Subir mapa...` del menú desplegable `Archivo` en el editor (atajo: `Ctrl` + `Shift` + `U`) se abrirá la ventana del **sistema de envío de beatmaps** (***BSS***). Inicialmente, esto enumera recursos para ayudar a los usuarios a hacer preguntas relacionadas con el mapping, encontrar [comentarios](/wiki/Modding) para sus beatmaps y garantizar que sus mapas sean adecuados para clasificar. Si tienes problemas al usar el BSS, véase la guía [problemas del BSS](/wiki/Guides/BSS_issues).
 
 Si el beatmap que está subiendo un usuario aún no está en el sitio web de osu!, la ventana del BSS indicará cuántas veces más puede publicar un usuario. Si el beatmap está nominado, la ventana advierte que la nominación se restablecerá por actualizar el beatmap. Si el beatmap está en el [cementerio](/wiki/Beatmap/Category#abandonados), la ventana advierte que el beatmap se elevará a la categoría pendientes.
 
@@ -16,7 +16,7 @@ Al hacer clic en el botón `¡Subir un mapa NUEVO!` o `¡Actualizar mapa!`, al u
 
 La sección `Palabras del creador` permite que el usuario introduzca sus propias palabras, que aparecerán junto a la página web del beatmap. Esto admite el formato [BBCode](/wiki/BBCode).
 
-Aparecen dos casillas de verificación cerca de la parte inferior de la ventana. La primera dice `Notificar nuevas respuestas por correo electrónico`, que agrega al beatmap a la [lista de seguimiento](https://osu.ppy.sh/beatmapsets/watches) del usuario. El segundo dice `Abrir en el navegador después de subir`, que cargará la página del beatmap en su navegador predeterminado.
+Aparecen dos casillas de verificación cerca de la parte inferior de la ventana. La primera dice `Notificar nuevas respuestas por correo electrónico`, que agrega al beatmap a la [lista de seguimiento](https://osu.ppy.sh/beatmapsets/watches) del usuario. El segundo dice `Abrir en el navegador después de subir`, que cargará la página del beatmap en tu navegador predeterminado.
 
 ## Limitaciones
 
