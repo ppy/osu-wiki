@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Critères de classement
 
 *Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
