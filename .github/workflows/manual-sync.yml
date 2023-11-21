@@ -1,34 +1,35 @@
-name: Sync from osu! upstream
+name: Sync with ppy:master
 
 on:
   workflow_dispatch:
     inputs:
       backup:
         default: false
-        description: "Create a backup of your target branch? (true/false)"
+        description: Create a backup of the selected branch
         required: true
         type: boolean
       overwrite:
         default: false
-        description: "Overwrite any changes in the target repository? (true/false)"
+        description: Overwrite all history of the selected branch
         required: true
         type: boolean
 
 jobs:
   sync:
-    name: Execute Sync Task
+    name: Sync with ppy:master
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Begin Pull Task
+      - name: Update branches
         run: |
           branch_name="$(git branch --show-current)"
           backup_branch_name="$branch_name-backup"
 
           if ${{ inputs.backup }}; then
+            printf '::notice::Backing up "%s" to "%s"\n' "$branch_name" "$backup_branch_name"
             git push origin "HEAD:$backup_branch_name"
           fi
 
@@ -36,9 +37,10 @@ jobs:
           git fetch upstream master
 
           if ${{ inputs.overwrite }}; then
-            echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
+            printf '::warning::Overwriting "%s"\n' "$branch_name"
             git push --force origin "FETCH_HEAD:$branch_name"
           else
+            printf '::notice::Merging into "%s"\n' "$branch_name"
             git config user.name '${{ github.actor }}'
             git config user.email '${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com'
             git merge FETCH_HEAD
