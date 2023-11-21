@@ -8,7 +8,6 @@ tags:
   - consejos
   - pista
   - pistas
-no_native_review: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -54,7 +53,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 
 ## Editor
 
-Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
+Estos consejos aparecen en el [editor de beatmaps](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
 
 - Pulsa `H` para mostrar un listado de atajos de teclado.
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.
@@ -101,25 +100,25 @@ Estos consejos aparecen en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) al i
 - ¡Puedes presionar `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
 - Todas las configuraciones son dinámicas y tienen efecto en tiempo real. ¡Prueba a pausar y cambiar la skin mientras juegas!
 - Nuevas funciones están disponibles en línea con cada actualización. ¡Asegúrate de mantenerte actualizado!
-- Si encuentra que la interfaz de usuario es demasiado grande o pequeña, intente ajustar la escala de la interfaz de usuario en la configuración.
+- Si encuentras que la interfaz de usuario es demasiado grande o pequeña, intenta ajustar la escala de la interfaz de usuario en la configuración.
 - Intenta ajustar el modo `Escala de pantalla` para cambiar tu juego o el área de la interfaz de usuario, ¡incluso en pantalla completa!
-- Lo que solía ser "[osu!direct](/wiki/osu!supporter#osu!direct)" está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `D`!
+- Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `D`!
 - ¡Buscar en las repeticiones está disponible arrastrando la barra de dificultad en la parte inferior de la pantalla!
-- ¡La compatibilidad con subprocesos múltiples significa que incluso con "FPS" bajos, sus entradas y juicios serán precisos!
+- ¡La compatibilidad con subprocesos múltiples significa que incluso con «FPS» bajos, sus entradas y juicios serán precisos!
 - ¡Intenta desplazarte hacia abajo en el panel de selección de mods para encontrar un montón de nuevos mods divertidos!
 - ¡La mayor parte del contenido web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los íconos en la barra de herramientas!
-- ¡Obtenga más detalles, oculte o elimine un beatmap haciendo clic derecho en su panel en la selección de canciones!
-- Todas las operaciones de eliminación son temporales hasta que salga. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
-- Echa un vistazo al sistema de "listas de juego", que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
-- ¡Alterne las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
-- ¡Eche un vistazo bajo el capó a los contadores de rendimiento y habilite el registro de rendimiento detallado con `Ctrl` + `F2`!
+- ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic derecho en tu panel en la selección de canciones!
+- Todas las operaciones de eliminación son temporales hasta que salgas. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
+- Echa un vistazo al sistema de «listas de juego», que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
+- ¡Alterna las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
+- ¡Echa un vistazo bajo el capó a los contadores de rendimiento y habilita el registro de rendimiento detallado con `Ctrl` + `F2`!
 
-## Ver también
+## Véase también
 
 - [Cliente/Interfaz](/wiki/Client/Interface)
-- [Cliente/Editor de beatmap](/wiki/Client/Beatmap_editor)
+- [Cliente/Editor de beatmaps](/wiki/Client/Beatmap_editor)
 - [Cliente/Referencia de teclas de acceso directo](/wiki/Client/Keyboard_shortcuts)
 
 ## Notas
 
-[^frame-limiter]: Actualmente llamado "Límite de FPS".
+[^frame-limiter]: Actualmente llamado «Límite de FPS».
