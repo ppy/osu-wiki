@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
@@ -30,6 +35,8 @@ Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc
 2. Trong `Workflows`, tìm `Sync from osu! upstream`.
 3. Nhấn `Run workflow` và điền vào các thiết lập:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Chạy Workflow")
 
 - **Use workflow from**: tên branch bạn muốn đồng bộ. Mặc định sẽ là `master`.
@@ -41,6 +48,8 @@ Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc
   - `false` (mặc định): merge thay đổi của bạn cùng với bản sao sạch từ `ppy/osu-wiki`.
 
 4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn lại vào `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Quá trình Workflow")
 
