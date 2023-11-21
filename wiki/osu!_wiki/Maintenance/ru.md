@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # Устройство osu! wiki
 
 *См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
