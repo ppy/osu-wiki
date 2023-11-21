@@ -4,7 +4,7 @@
 
 ## Beatmapping
 
-- [Anclaje al ritmo](/wiki/Beatmapping/Snapping), la posición de un objeto dentro de un único compás musical, que se divide automáticamente usando el [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+- [Ajuste de ritmo](/wiki/Beatmapping/Snapping), la posición de un objeto dentro de un único compás musical, que se divide automáticamente usando el [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
 - [Anclaje a la rejilla](/wiki/Beatmapping/Grid_snapping), la posición de un objeto en el campo de juego
 
 ## Juego
