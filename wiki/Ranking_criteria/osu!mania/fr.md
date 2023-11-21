@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Critères de classement d'osu!mania
 
 ***Note : Cet article est une extension des [critères de classement généraux](/wiki/Ranking_criteria).***
