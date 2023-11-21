@@ -1,6 +1,3 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
-outdated_translation: true
-
 separator: ", "
 alumni:
   roles:
@@ -8,7 +5,7 @@ alumni:
     admin: 관리자
     chat: 챗 모더레이터
     dev: osu!dev
-    media: osu!media 설립자
+    media: osu!media 크리에이터
     support: 지원팀
     tournaments: 토너먼트 관리자
 gmt:
@@ -24,10 +21,12 @@ gmt:
     tournaments: 토너먼트 관리
     wiki: 위키 관리
     mapping: 매핑/모딩 커뮤니티 관리
+    skinning: 스킨 커뮤니티 관리
+    leadership: 팀 리더
 nat:
   subgroups:
     structural: 고문
     evaluation: 평가위원
     leadership: 리더
 languages:
-  partial: 일부 <language>
+  partial: 약간의 <language>

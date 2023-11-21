@@ -1,13 +1,12 @@
 ---
-outdated_since: 6fa6a6ad42738cb1eb8b72d452c536ee3b3ecbe5
-outdated_translation: true
 tags:
   - find beatmaps
   - filter beatmaps
   - query beatmaps
   - client search
   - website search
-  - suche Beatmaps
+  - Beatmaps suchen
+  - Beatmaps finden
 ---
 
 # Beatmap-Suche
@@ -52,7 +51,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `unplayed` | Zeigt nur ungespielte Beatmaps an. Dabei muss ein Vergleich mit einem leeren Wert verwendet werden (z. B. `unplayed=`). Der Vergleich selbst wird ignoriert. |
 | `speed` | Gespeicherte Scrollgeschwindigkeit in osu!mania. Immer 0 für ungespielte Beatmaps oder wenn die Option [`osu!mania-Scrollgeschwindigkeit für jede Beatmap merken`](/wiki/Client/Options#gameplay) ausgeschaltet ist. |
 
-## Website[^website-filters]
+## Webseite[^website-filters]
 
 | Filter | Beschreibung |
 | :-: | :-- |
@@ -70,6 +69,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
 | `created` | Erstellungsdatum der Beatmap |
+| `updated` | Datum, an dem die Beatmap zuletzt aktualisiert wurde |
 | `ranked` | Datum, an dem die Beatmap gerankt/approved wurde |
 
 ## Client (lazer)[^lazer-filters]
@@ -89,7 +89,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
 
-## Beispielhafte Anfragen
+## Beispielhafte Suchbegriffe
 
 Finde Beatmaps mit geringer OD, die in einen bestimmten Schwierigkeitsbereich fallen:
 
@@ -117,5 +117,5 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 
 ## Referenzen
 
-[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/67c59d69fcdbd07d44984707058bc1193535898f/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)

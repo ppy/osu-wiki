@@ -141,7 +141,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 30/09/2023 | 12/11/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [BubblyQT 6](BQT/6) | 30/09/2023 | 12/11/2023 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 
