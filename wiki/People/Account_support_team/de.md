@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0df11d00415c24fe6867239d75ec1cd3b575162b
+---
+
 # Account-Support-Team
 
 *Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/Support_Team)*

@@ -1,11 +1,8 @@
----
-outdated_since: 8951e9fef0bc292f2b085b7c3a400db936392e49
-outdated_translation: true
----
-
 # Freischaltungsanforderungen für Medaillen
 
-Indexseite für alle Artikel im Bezug auf Freischaltungsanforderungen für Medaillen. Hush-Hush Medaillen sind aus offensichtlichen Gründen nicht enthalten.
+Indexseite für alle Artikel im Bezug auf Freischaltungsanforderungen für [Medaillen](/wiki/Medals).
+
+Freischaltungsanforderungen für [Hush-Hush Medaillen](/wiki/Medals#hush-hush) werden im Wiki absichtlich nicht erwähnt, um die Rätsel nicht zu verraten.
 
 - [Beatmap Challenge Packs](Beatmap_challenge_packs)
 - [Beatmap Packs](Beatmap_packs)
