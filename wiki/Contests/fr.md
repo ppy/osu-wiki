@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Concours
 
 Cette section est consacrée aux concours organisés par la communauté d'osu!
