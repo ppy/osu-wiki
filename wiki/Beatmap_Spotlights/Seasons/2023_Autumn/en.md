@@ -63,6 +63,18 @@ Joining the weekly multiplayer lobbies requires participants to download and ins
 - [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
 - [Origami Angel - The Title Track (olc) \[Overload\]](https://osu.ppy.sh/beatmapsets/1988818#osu/4131547), suggested by [KnightCore](https://osu.ppy.sh/users/2320682)
 
+#### Playlist C
+
+- [Eagles - Hotel California (Dabbe\_01) \[Comfort\]](https://osu.ppy.sh/beatmapsets/1930300#osu/3987367), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
+- [Frog96 - Letter to the Black World (dragonicz) \[j\*\*n mapping's h\*rd\]](https://osu.ppy.sh/beatmapsets/1946744#osu/4033895), suggested by [hyeok2045](https://osu.ppy.sh/users/8640970)
+- [Camera Obscura - Lloyd, I'm Ready To Be Heartbroken (Fsjallink) \[Singin' in the Rain\]](https://osu.ppy.sh/beatmapsets/1923744#osu/3971358), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
+- [DeviceHigh - Innocent Blue (dasdwqdf) \[Insane\]](https://osu.ppy.sh/beatmapsets/1873786#osu/3855732), suggested by [hyeok2045](https://osu.ppy.sh/users/8640970)
+- [Keeno - EOS (Yoges) \[Insane\]](https://osu.ppy.sh/beatmapsets/453221#osu/971975), suggested by [rHO](https://osu.ppy.sh/users/1629553)
+- [FRACTALIZE - Suneater (Selithrarion) \[Prophet\]](https://osu.ppy.sh/beatmapsets/1962015#osu/4066340), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
+- [my sound life - LINE (posydomojka) \[\_\]](https://osu.ppy.sh/beatmapsets/1769017#osu/3621279), suggested by [hyeok2045](https://osu.ppy.sh/users/8640970)
+- [litmus\* as Ester - Krave (Altai) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1551054#osu/3232595), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
+- [BEMANI Sound Team "DJ TOTTO" feat. rionos - Simurgh no Mezame (Uberzolik) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/1557105#osu/3180979), suggested by [KnightCore](https://osu.ppy.sh/users/2320682)
+
 ### osu!taiko
 
 #### Playlist A
@@ -88,6 +100,18 @@ Joining the weekly multiplayer lobbies requires participants to download and ins
 - [COPYCATT - OUTTA CONTROL feat. Zathlute (ZTH) \[RIOT\]](https://osu.ppy.sh/beatmapsets/1921117#taiko/3965338), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
 - [Sot-C - Cursed Metamorph (Cut Ver.) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1859250#taiko/4043094), suggested by [meiqth](https://osu.ppy.sh/users/12565402)
 - [Tabber - Devil May Cry (feat. Kim Ximya) (woosungko) \[Unchained (feat. woosungko)\]](https://osu.ppy.sh/beatmapsets/1886250#taiko/3883812), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
+
+#### Playlist C
+
+- [ARM - Water Lily (tasuke912) \[Inner Muzukashii\]](https://osu.ppy.sh/beatmapsets/1590156#taiko/3258113), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [Chroma - I (Eyenine) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1477805#taiko/3042630), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
+- [Maison book girl - rooms\_\_ (\_gt) \[oni\_\_\]](https://osu.ppy.sh/beatmapsets/1762863#taiko/3608425), suggested by [meiqth](https://osu.ppy.sh/users/12565402)
+- [Mid-Air Thief - Why? (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1754970#taiko/4011890), suggested by [meiqth](https://osu.ppy.sh/users/12565402)
+- [Tartarate - Amplifire (davidminh0111) \[Oni\]](https://osu.ppy.sh/beatmapsets/1891633#taiko/3931483), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
+- [USAO - SUPERNOVA (iceOC) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1927372#taiko/3980066), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
+- [Camellia - Kamah (Scythe) (Kappu) \[Unparalleled Obsession\]](https://osu.ppy.sh/beatmapsets/1908845#taiko/3937022), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [Camellia - BAD ACCESS (FROM A MOE MAID) (Horiiizon) \[EXC\_BAD\_ACCESS KERN\_INVALID\_ADDRESS (ft. Horiiizon)\]](https://osu.ppy.sh/beatmapsets/1908855#taiko/3937052), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
+- [Zedd - Clarity (feat. Foxes) \[Milkfish's "CRY2HARD" edit\] (rubies87) \[Ruby\]](https://osu.ppy.sh/beatmapsets/1927081#taiko/3979308), suggested by [Hivie](https://osu.ppy.sh/users/14102976)
 
 ### osu!catch
 
@@ -115,6 +139,18 @@ Joining the weekly multiplayer lobbies requires participants to download and ins
 - [Mitsuki - Eeliaas (Xinnoh) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/1724385#fruits/3528112), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
 - [PSYQUI - Hype feat. Such (Crowley) \[Adrenaline\]](https://osu.ppy.sh/beatmapsets/1714422#fruits/3544032), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
 
+#### Playlist C
+
+- [LukHash - 8BIT FAIRY TALE (Rocma) \[Rocma's Platter\]](https://osu.ppy.sh/beatmapsets/1045131#fruits/2184879), suggested by [Phob](https://osu.ppy.sh/users/6069462)
+- [Yorushika - Matasaburo (-Rustyy) \[Rustyy & Crowley's Platter\]](https://osu.ppy.sh/beatmapsets/1609920#fruits/3287185), suggested by [radar](https://osu.ppy.sh/users/7131099)
+- [Zekk - Fallen (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/1778741#fruits/3655990), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
+- [M2U - Masquerade (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/1233837#fruits/2585507), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
+- [cillia - Donor Song (Xinnoh) \[Sinnoh's Rain\]](https://osu.ppy.sh/beatmapsets/711681#fruits/1514441), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
+- [Nekomata Gekidan - envidia (Crowley) \[danse macabre\]](https://osu.ppy.sh/beatmapsets/1235727#fruits/2568808), suggested by [Phob](https://osu.ppy.sh/users/6069462)
+- [Blue Stahli & Nyzzy Nyce - Run The Track (Xinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
+- [Thank You Scientist - The Amateur Arsonist's Handbook (Crowley) \[Elysium\]](https://osu.ppy.sh/beatmapsets/1931730#fruits/3990729), suggested by [radar](https://osu.ppy.sh/users/7131099)
+- [VINXIS - Joushou no Tabi ~ The Ascending Journey (Xinnoh) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/1857663#fruits/3818409), suggested by [M0RU](https://osu.ppy.sh/users/13681464)
+
 ### osu!mania
 
 #### Playlist A
@@ -140,3 +176,15 @@ Joining the weekly multiplayer lobbies requires participants to download and ins
 - [TamaDo - Triumphal Return (Kawawa) \[\[7K\] Another\]](https://osu.ppy.sh/beatmapsets/1800839#mania/3691994), suggested by [AWMRone](https://osu.ppy.sh/users/10351684)
 - [Sad Keyboard Guy & Gardens - NekovhParavh (Trance Edit) (Asherz007) \[\[8K\] Leggendaria\]](https://osu.ppy.sh/beatmapsets/1904397#mania/3926671), suggested by [MadBricktree](https://osu.ppy.sh/users/4790958)
 - [technoplanet - Fly Like You \[Long Version\] (Roasted Chicken) \[\[4K\] Until the day my wish comes true\]](https://osu.ppy.sh/beatmapsets/1926071#mania/3977075), suggested by [Ilham](https://osu.ppy.sh/users/3057154)
+
+#### Playlist C
+
+- [Ooguni Kanon - Kouen no Lateral Arc (baigu678) \[\[6K\] ADVANCED\]](https://osu.ppy.sh/beatmapsets/1927752#mania/3996450), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
+- [Street vs. Sin:cK - Adamantite (Superboygamer) \[\[4K\] Hard\]](https://osu.ppy.sh/beatmapsets/1836849#mania/3771597), suggested by [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- [DJ Mass MAD Izm\* feat. H14 (LEONAIR) - Don't believe the hype (MJH) \[\[5K\] Hyper\]](https://osu.ppy.sh/beatmapsets/1747779#mania/3597646), suggested by [Protastic101](https://osu.ppy.sh/users/6712747)
+- [ETIA. - Kissing Lucifer (AelSan) \[\[4K\] FUTURE\]](https://osu.ppy.sh/beatmapsets/1900508#mania/3917504), suggested by [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- [JAKAZiD - Take Me Higher (Biosphere) \[\[4K\] Ultra\]](https://osu.ppy.sh/beatmapsets/1923251#mania/3971487), suggested by [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- [AAAA - carnation (richardfeder) \[7K Lv.35\]](https://osu.ppy.sh/beatmapsets/1563407#mania/3192597), suggested by [AWMRone](https://osu.ppy.sh/users/10351684)
+- [qfeileadh feat. Lycoris Radiata - Soumai Musou Lovers (Blocko) \[\[7K\] Sweet Dreams\]](https://osu.ppy.sh/beatmapsets/1758665#mania/3599277), suggested by [AWMRone](https://osu.ppy.sh/users/10351684)
+- [halca - Darekare Scramble (Mirsaaa) \[\[4K\] Please Kiss Me!\]](https://osu.ppy.sh/beatmapsets/1891721#mania/3897697), suggested by [Ilham](https://osu.ppy.sh/users/3057154)
+- [Grailknights - Pumping Iron Power (feat. Joakim Broden from Sabaton) (MadBricktree) \[\[7K\] Muscular\]](https://osu.ppy.sh/beatmapsets/1928408#mania/3982474), suggested by [Seulgi](https://osu.ppy.sh/users/4918394)
