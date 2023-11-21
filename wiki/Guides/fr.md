@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Guides
 
 Vous trouverez ci-dessous une liste de guides créés par des membres de la communauté d'osu!, dont la plupart proviennent des forums d'osu! et ont été adaptée sur le wiki d'osu!
