@@ -1,3 +1,8 @@
+---
+outdated_since: 6c75c97f545c236af6e8253b4296dafa06668a56
+outdated_translation: true
+---
+
 # Contribuidores de la comunidad
 
 ::: Infobox
@@ -30,7 +35,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [medallas](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Desarrollo y mantenimiento de [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modding de beatmap de terceros más popular de la comunidad. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Rendimiento excepcional en la corrección de errores/prueba de funciones y haciendo código de numerosas funciones para mappers y modders. |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organización de varios torneos oficiales importantes (incluida la OWC). |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organización de varios torneos oficiales importantes (incluida la [OWC](/wiki/Tournaments/OWC)). |
 | ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Historial de moderación insano (equivalente a aproximadamente 6 miembros del personal) y moderando casi sin ayuda `#osu` durante horas pico (+9k usuarios). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Desarrollo y mantenimiento de [osu!stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Rendimiento excepcional en la corrección de errores/prueba de funciones y manejo de consultas del soporte de usuarios. |
@@ -38,7 +43,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño de la skin de beatmap original, [storyboarding](/wiki/Storyboard) avanzando como arte y motivación. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Temprana gestión y moderación de la comunidad y enormes contribuciones en el transcurso de su tiempo. |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ser el primer gerente de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/Global_Moderation_Team). |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Ser el primer gerente de personal y BATmanager, y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |
+| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Ser el primer gerente de personal y [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers), y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |
 
 ### 2015
 
@@ -48,7 +53,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | :-- | :-- |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Excelente contribución a la osu! wiki |
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Excelente contribución a la osu! wiki |
-| ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Desarrollo de osu!Rank y osu!Post |
+| ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Desarrollo de [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966) y [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) |
 
 ### 2016
 
@@ -64,7 +69,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación (10k+ víctimas) |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (30k+ víctimas) |
 | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Desarrollo de revolucionarias utilidades de storyboarding (SGL) |
-| ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - Desarrollo del kit de herramientas de bots de osu! en Twitch |
+| ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | [Mikuia.tv](https://mikuia.tv) - Desarrollo del kit de herramientas de bots de osu! en Twitch |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Desarrollo del bot de recomendación de beatmaps |
 
 #### Marzo
@@ -99,12 +104,12 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 | Usuario | Contribuciones |
 | :-- | :-- |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Trabajo excepcional en la formación de la comunidad temprana de osu!taiko, varios años de permanencia en el BAT/QAT |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Trabajo excepcional en la formación de la comunidad temprana de osu!taiko, varios años de permanencia en el [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Excelente contribución a la comunidad de osu!catch, reelaboración de los criterios de clasificación y torneos |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Excelente contribución a innumerables proyectos multimedia, torneos y una permanencia a largo plazo en el GMT |
-| ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | Años de servicio dedicado al BAT/QAT y una inmensa contribución a las reelaboraciones de los criterios de clasificación |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Años de servicio dedicado al BAT/QAT, mayor presencia en la reelaboración de los criterios de clasificación y gestión de pruebas de los Beatmap Nominator |
-| ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | Excelente contribución al BAT/QAT a lo largo de incontables años |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Excelente contribución a innumerables proyectos multimedia, torneos y una permanencia a largo plazo en el [GMT](/wiki/People/Global_Moderation_Team) |
+| ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | Años de servicio dedicado al [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) y una inmensa contribución a las reelaboraciones de los criterios de clasificación |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Años de servicio dedicado al [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team), mayor presencia en la reelaboración de los criterios de clasificación y gestión de pruebas de los Beatmap Nominator |
+| ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | Excelente contribución al [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) a lo largo de incontables años |
 | ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) | Cientos de horas de estadísticas y análisis de los torneos de la World Cup |
 | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) | Presencia excepcional de árbitro en docenas de torneos de la comunidad |
 | ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660) | Desempeño excepcional en castings, comentarios y redacciones/resúmenes basados en eventos |
@@ -114,7 +119,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Excelente contribución al proyecto osu!(lazer) |
 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki, y osu!(lazer) |
 | ::{ flag=DE }:: [jorolf](https://osu.ppy.sh/users/7004641) | Excelente contribución al proyecto osu!(lazer) y creación de numerosas herramientas multimedia |
-| ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Creador de PerformancePlus y osu!chan |
+| ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Creador de [PerformancePlus](https://syrin.me/pp+/) y [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | Esfuerzo excepcional en la producción y publicación del proyecto Scorewatch |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo excepcional en la producción y publicación del proyecto Scorewatch |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esfuerzos excepcionales para impulsar el proyecto osu! wiki con innumerables revisiones, reelaboraciones y reseñas |
@@ -130,26 +135,26 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | :-- | :-- |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Organización de la World Cup y host de osu! Coffee Hour |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Excelente contribución a la organización de la World Cup y torneos |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Excelente contribución como miembro del GMT y del equipo de la osu! wiki |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Excelente contribución como miembro del [GMT](/wiki/People/Global_Moderation_Team) y del equipo de la osu! wiki |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | Excelente contribución a través de muchos proyectos y dominios |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Trabajo excepcional en soporte al jugador y resolución de problemas |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mantenedor extraordinario del proyecto de paquetes de beatmaps |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mantenedor extraordinario del proyecto de [paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs) |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Desarrollador de innumerables herramientas que han demostrado ser parte integral del ciclo de clasificación moderno |
-| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto Beatmaps Spotlights |
+| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribución al proyecto [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Excelente contribución a través de numerosos proyectos y dominios |
-| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Excelente contribución al GMT y al mantenimiento de torneos |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Líder del Project Loved Team |
-| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Asistencia y organización del temprano Project Loved |
-| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | Capitán del Project Loved (osu!catch) |
-| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | Capitán del Project Loved (osu!taiko) |
-| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | Capitán del Project Loved (osu!catch) |
-| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | Capitán del Project Loved (osu!mania) |
-| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | Capitán del Project Loved (osu!mania) |
-| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | Excelente contribución al Community Mentorship Program |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | Excelente contribución al Community Mentorship Program |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Excelente contribución al Community Mentorship Program |
-| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | Excelente contribución al Community Mentorship Program |
-| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Excelente contribución al Community Mentorship Program |
+| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Excelente contribución al [GMT](/wiki/People/Global_Moderation_Team) y al mantenimiento de torneos |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Líder del [Project Loved](/wiki/Community/Project_Loved) Team |
+| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Asistencia y organización del temprano [Project Loved](/wiki/Community/Project_Loved) |
+| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | Capitán del [Project Loved](/wiki/Community/Project_Loved) (osu!catch) |
+| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | Capitán del [Project Loved](/wiki/Community/Project_Loved) (osu!taiko) |
+| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | Capitán del [Project Loved](/wiki/Community/Project_Loved) (osu!catch) |
+| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | Capitán del [Project Loved](/wiki/Community/Project_Loved) (osu!mania) |
+| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | Capitán del [Project Loved](/wiki/Community/Project_Loved) (osu!mania) |
+| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | Excelente contribución al [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | Excelente contribución al [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Excelente contribución al [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | Excelente contribución al [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Excelente contribución al [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Excelente contribución al proyecto osu!(lazer) |
 
 ### 2020
@@ -179,7 +184,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Excelente contribución a la moderación de la comunidad |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribución al Mappers' Guild y Beatmap Nominators |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribución al [Mappers' Guild](https://mappersguild.com) y [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Excelente contribución a los proyectos de código abierto de osu! |
 
 ### 2021
