@@ -43,6 +43,6 @@ jobs:
             printf '::notice::Merging into "%s"\n' "$branch_name"
             git config user.name '${{ github.actor }}'
             git config user.email '${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com'
-            git merge FETCH_HEAD
+            git merge -m 'Merge master' FETCH_HEAD
             git push origin "$branch_name"
           fi
