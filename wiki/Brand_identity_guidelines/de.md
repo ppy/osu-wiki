@@ -37,11 +37,11 @@ Das ist die einfarbige Version des osu!-Cookie-Logos. Diese Version des Logos is
 
 Bitte benutze die originale Datei als Grundlage und erstelle das Logo nicht selbst.
 
-#### Vollfarbe
+#### Mehrfarbig
 
-![](img/usage-full-colour.png "Vollfarbiges osu!-Logo")
+![](img/usage-full-colour.png "Mehrfarbiges osu!-Logo")
 
-Das ist die vollfarbige Version des osu!-Cookie-Logos. Der subtile Schlagschatten ist Teil des vollfarbigen Logos.
+Das ist die mehrfarbige Version des osu!-Cookie-Logos. Der subtile Schlagschatten ist Teil des mehrfarbigen Logos.
 
 Bitte verwende das Logo aus dem Design-Kit ohne jegliche Veränderungen.
 
@@ -77,17 +77,17 @@ Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfa
 - Füge **keine** ausgefallenen oder kitschigen Effekte zum Cookie hinzu.
 - Platziere **keine** zusätzlichen Elemente im Cookie.
 - Füge **keine** Umrisse zum Cookie hinzu. Benutze eine andere Farbe für den Cookie.
-- Denke **nicht** darüber nach, das Textelement im Cookie zu ändern. Komm schon. Es ist nicht mal unser Logo. Das ist einfach ein Text in einem Kreis.
+- Denke **nicht** darüber nach, das Textelement im Cookie zu ändern. Das entspricht nicht unserem Logo, sondern ist einfach ein Text in einem Kreis.
 
-### Nutzungsbeschränkungen des vollfarbigen Cookies
+### Nutzungsbeschränkungen des mehrfarbigen Cookies
 
-Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Bitte benutze das Logo so wie es ist, ohne Änderungen. Alle Beschränkungen für den einfarbigen Cookie gelten auch für den vollfarbigen Cookie.
+Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Bitte benutze das Logo so wie es ist, ohne Änderungen. Alle Beschränkungen für den einfarbigen Cookie gelten auch für den mehrfarbigen Cookie.
 
-![](img/restrictions-bad-full.png "Unzulässige Änderungen des vollfarbigen osu!-Logos")
+![](img/restrictions-bad-full.png "Unzulässige Änderungen des mehrfarbigen osu!-Logos")
 
 - Verwende **nicht** den alten Cookie.
 - Benutze **keinen** anderen pinken Farbton.
-- Füge **keinen** Farbverlauf zum vollfarbigen Cookie hinzu.
+- Füge **keinen** Farbverlauf zum mehrfarbigen Cookie hinzu.
 - Verwende **keine** anderen Farben.
 - Platziere **nichts** im Cookie.
 - Verändere **keine** der Elemente des Cookies in etwas anderes.
