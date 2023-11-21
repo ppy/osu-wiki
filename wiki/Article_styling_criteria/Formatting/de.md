@@ -773,7 +773,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 ::{ flag=XX }::
 ```
 
-Wobei `XX` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
+Wobei `XX` der [ISO 3166-1 alpha-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 ## Tabellen
 

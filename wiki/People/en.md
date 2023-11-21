@@ -17,7 +17,7 @@ Index page for articles about people or groups.
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Performance Points Committee](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
+- [Technical Support Team](Technical_Support_Team)
 - [Tournament Committee](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
