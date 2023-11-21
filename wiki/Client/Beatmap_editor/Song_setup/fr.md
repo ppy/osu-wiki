@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # L'Onglet Song setup
 
 L'onglet **song setup** est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor), qui comprend les métadonnées de la beatmap, les paramètres de difficulté et de conception, ainsi que d'autres options diverses.
