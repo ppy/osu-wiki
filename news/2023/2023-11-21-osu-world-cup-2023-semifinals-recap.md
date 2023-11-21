@@ -8,7 +8,7 @@ As the osu! World Cup is nearing its conclusion, close matches and stupendous pe
 
 ![](/wiki/Tournaments/OWC/2023/img/owc2023-banner.jpg)
 
-The osu! World Cup 2023 is turning out to be one of the most entertaining iterations in the history of this tournament. In this Semifinals stage, the new OWC performance point record has been set and two of the top 6 seeds have been eliminated already. View the video or read on to find out more about the bloodbath of the lower bracket.
+The osu! World Cup 2023 is turning out to be one of the most entertaining iterations in the history of this tournament! In this Semifinals stage, the new OWC performance point record has been set and two of the top 6 seeds have been eliminated already. View the video or read on to find out more about the bloodbath of the lower bracket.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Il3GYxm9djM" frameborder="0" allowfullscreen></iframe>
