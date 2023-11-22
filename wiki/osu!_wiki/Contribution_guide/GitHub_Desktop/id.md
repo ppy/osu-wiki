@@ -17,15 +17,12 @@ outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
 ## Kloning
 
 1. Tekan `Clone a repository`.
-
 2. Dengan ini daftar repositori yang kamu miliki akan ditampilkan, pilih repo `osu-wiki`.
-
 3. Pilih lokasi clone. Tidak masalah di mana kamu akan menaruhnya, tetapi selalu ingat di mana kamu mengkloningnya.
 
-   ![](img/github-desktop-select-repo.jpg)
+![](img/github-desktop-select-repo.jpg)
 
 4. Tekan `Clone`. Hal ini mungkin akan memerlukan waktu beberapa saat tergantung kualitas jaringan yang kamu akses.
-
 5. Lanjutkan ke tahap [Branching](#branching).
 
 ## Branching
@@ -36,10 +33,9 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 - Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) tanpa mengalami konflik penggabungan (merge conflicts).
 
 1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
-
 2. Masukkan nama untuk branch ini. Disarankan untuk menggunakan nama artikel yang kamu sunting sebagai nama branch, lalu diikuti dengan angka. Misalnya, menyunting artikel `Forums`, berarti kamu akan memberikan nama branch `update-forums`.
 
-   ![](img/github-desktop-branch.jpg)
+![](img/github-desktop-branch.jpg)
 
 3. Lanjutkan ke tahap [Penyuntingan](#penyuntingan).
 
@@ -71,7 +67,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
 1. Kembali ke GitHub Desktop. Kamu akan melihat sesuatu yang mirip dengan ini:
 
-  ![](img/github-desktop-changes.jpg "Tampilan yang kamu miliki mungkin berbeda.")
+![](img/github-desktop-changes.jpg "Tampilan yang kamu miliki mungkin berbeda.")
 
 2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
 3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
@@ -82,14 +78,14 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah m
 5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.
 6. Masukkan deskripsi commit. Hal ini bersifat opsional, tidak memiliki batas karakter, dan bisa dalam bahasa apa pun.
 
-  ![](img/github-desktop-first-commit.jpg "Commit pertama")
+![](img/github-desktop-first-commit.jpg "Commit pertama")
 
 7. Tekan tombol `Commit to` berwarna biru, dan jika perlu, kembali ke langkah 4 untuk melakukan commit lain yang hendak kamu lakukan.
 
-  ![](img/github-desktop-second-commit.jpg "Commit kedua")
+![](img/github-desktop-second-commit.jpg "Commit kedua")
 
 8. Setelah kamu menyelesaikan semua commit yang kamu lakukan, tekan tombol `Publish branch` di menu bagian atas.
 
-  ![](img/github-desktop-push.jpg)
+![](img/github-desktop-push.jpg)
 
 9. Lanjutkan ke tahap [Penyelesaian](/wiki/osu!_wiki/Contribution_guide#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

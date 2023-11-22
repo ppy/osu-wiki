@@ -18,13 +18,10 @@
 
 0. [สร้าง](https://github.com/signup) บัญชี GitHub
 1. เปิด [`ppy/osu-wiki`][osu_wiki] และเลือก `Fork` จากมุมขวาบน เพื่อให้สามารถควบคุม wiki ฉบับคัดลอก คุณสามารถเลือกไปที่ fork ของตัวเองได้โดยการไปที่ [`ppy/osu-wiki`][osu_wiki] และเลือก `Fork` อีกครั้ง
-
-  - ถ้าคุณได้สร้าง fork เมื่อนานมาแล้ว สามารถซิงค์ได้โดยวิธีการนี้ [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)
-
+   - ถ้าคุณได้สร้าง fork เมื่อนานมาแล้ว สามารถซิงค์ได้โดยวิธีการนี้ [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)
 2. อ่าน [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) และเริ่มดำเนินการที่จำเป็นได้เลยโดยคุณมีอิสระในการเลือกแอปพลิเคชั่นในการทำ อย่างไรก็ตาม osu! wiki มีคำแนะนำโดยละเอียดสำหรับการใช้ 2 อย่างนี้
-
-  - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (ออนไลน์, ไม่มีการติดตั้งเพิ่มเติม).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ออฟไลน์, สามารถจัดการอะไรได้มากกว่า).
+   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (ออนไลน์, ไม่มีการติดตั้งเพิ่มเติม).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ออฟไลน์, สามารถจัดการอะไรได้มากกว่า).
 
 ## ตรวจสอบงานของตัวเอง {id=self-check}
 

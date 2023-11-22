@@ -12,15 +12,12 @@
 ## Clonage
 
 1. Cliquez sur `Clone a repository`..
-
 2. Cela affichera une liste de vos dépôts ; sélectionnez le dépôt `osu-wiki`.
-
 3. Sélectionnez l'emplacement du clone. L'endroit où vous clonez le dépôt n'a pas d'importance, souvenez-vous simplement de l'endroit où vous l'avez cloné.
 
-   ![](img/github-desktop-select-repo.jpg)
+![](img/github-desktop-select-repo.jpg)
 
 4. Cliquez sur `Clone`. Cela peut prendre un certain temps en fonction de votre environnement réseau.
-
 5. Continuer vers [Branches](#branches).
 
 ## Branches
@@ -31,10 +28,9 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 - Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork) sans conflits de fusion.
 
 1. Cliquez sur le menu déroulant `Current branch` situé en haut du menu.
-
 2. Saisissez le nom de la branche. Il est suggéré d'utiliser le résumé de vos modifications comme nom de branche. Par exemple, si vous modifiez l'article `Forums`, la branche s'appellera `update-forums-FR`.
 
-   ![](img/github-desktop-branch.jpg)
+![](img/github-desktop-branch.jpg)
 
 3. Continuer vers [Édition](#édition).
 
@@ -66,7 +62,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 1. Retournez sur le bureau GitHub. Il devrait ressembler à ceci :
 
-  ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
+![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
 
 2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
 3. Il est préférable de séparer chaque "grosse" action en un seul commit.
@@ -77,14 +73,14 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté u
 5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
 6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
-  ![](img/github-desktop-first-commit.jpg "Premier commit")
+![](img/github-desktop-first-commit.jpg "Premier commit")
 
 7. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez depuis l'étape 4 pour faire les autres commits que vous voulez faire.
 
-  ![](img/github-desktop-second-commit.jpg "Deuxième commit")
+![](img/github-desktop-second-commit.jpg "Deuxième commit")
 
 8. Une fois que vous avez fini de faire vos commits, cliquez sur le bouton `Publish branch` en haut.
 
-  ![](img/github-desktop-push.jpg)
+![](img/github-desktop-push.jpg)
 
 9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.

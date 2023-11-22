@@ -69,7 +69,7 @@ Trong phạm vi bản fork của bạn, bạn có thể tuỳ ý chỉnh sửa v
 Một pull request sẽ làm cho người khác biết chỉnh sửa của bạn có kết quả tới dữ liệu như thế nào. Thêm một số thông tin cho pull request để giải thích mục đích của bạn:
 
 - `Title`: một câu ngắn gọn có thể mô tả sự thay đổi của bạn bằng tiếng Anh, với tên của bài viết. Trong trường hợp dịch thuật, bắt đầu với tên viết tắt của ngôn ngữ bạn dịch trong dấu ngoặc. Ví dụ:
-- ``[FR] Add `BBCode` ``
+  - ``[VI] Add `BBCode` ``
   - ``Update `Beatmapping` and `Beatmap/Difficulty` ``
 - `Description`: mọi thứ bạn muốn truyền tải đến người quản lý và các giám khảo tiềm năng. Ví dụ:
   - Tóm tắt nhanh sự thay đổi, đặc biệt nếu nó ảnh hưởng đến nhiều bài viết

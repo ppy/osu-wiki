@@ -32,7 +32,7 @@ outdated_translation: true
 如果你在使用 GitHub 工具时遇到任何问题，或者你想覆盖你的分支内容，可以使用 osu! wiki 贡献者编写的一套工作流（自动化脚本，workflow）。
 
 1. 进入**你的分支仓库**，点击 `操作 (Actions)` 标签。
-2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`.
+2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`。
 3. 点击 `运行工作流 (Run workflow)`，并且勾选以下选项：
 
 <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
@@ -99,12 +99,10 @@ outdated_translation: true
 取决于冲突的严重程度，你有两种方法解决它：
 
 1. 如果你的拉取请求 (PR) 有`解决冲突 (Resolve conflicts)` 按钮，点击它。这会打开一个用于文本修改和对比的网页编辑器。
-
    1. GitHub 会高亮有冲突的区域。找到它们。
    2. 所有在 `<<<<<<<` 和 `=======` 之间的内容是你所做的修改。所有在 `=======` 和 `>>>>>>> master` 之间的内容是 `ppy/master` 分支上的内容。
-   3. 在这里，可以手动修改这些冲突的内容并删除 `<<<<<<<`、`======= `、`>>>>>>> master`标记。
+   3. 在这里，可以手动修改这些冲突的内容并删除 `<<<<<<<`、`=======`、`>>>>>>> master`标记。
    4. 重复以上操作，直至解决所有冲突。
    5. 当你完成后，点击`标记为已解决 (Mark as resolved)`。（只有这个文件中的所有冲突都被解决了才能点击。）
-
 2. 如果冲突比较复杂，难以在 GitHub 上解决，即无法点击`标记为已解决 (Resolve conflicts)` 这个按钮，很不幸，你只能[更新分支](#同步分支-(fork))，重新修改。
    - *注意：仅仅在 GitHub 网页上操作，无法解决这样的冲突。* 但仍然有其他解决方法，在这篇文章中不会介绍。因为，你仍旧需要覆盖和回退有冲突的修改，而大部分时候没有必要解决得这么麻烦。

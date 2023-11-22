@@ -99,12 +99,10 @@ Es gibt zwei Gründe, warum es zu einem Konflikt gekommen sein könnte:
 Je nach Schweregrad der Konflikte hast du zwei Möglichkeiten, diese zu beheben:
 
 1. Wenn bei deiner Änderungsanfrage der Button `Resolve conflicts` angezeigt wird, dann klicke diesen an. Dadurch wird eine leicht andere Version des Web-Editors angezeigt.
-
    1. GitHub hebt Konfliktbereiche hervor. Finde eine davon.
    2. Alles von `<<<<<<<` bis `=======` sind deine Änderungen, wohingegen alles von `=======` bis `>>>>>>> master` ist, was der Branch `ppy/master` enthält.
    3. Jetzt musst du den Konflikt manuell beheben und die Zeilen mit den Markierungen `<<<<<<<`, `=======` und `>>>>>>> master` löschen.
    4. Wiederhole den Prozess für alle Konflikte.
    5. Klicke nach Abschluss auf `Mark as resolved` (das ist nur verfügbar, wenn alle Konfliktbereiche der Datei beseitigt wurden).
-
 2. Falls der Button `Resolve conflicts` gesperrt ist, weil die Konflikte für GitHub zu kompliziert sind, hast du Pech gehabt und musst [deinen Branch aktualisieren](#die-verzweigung-synchronisieren) und deine Änderungen nochmal machen.
    - *Anmerkung: Das stimmt nur, wenn du auf die Verwendung der GitHub-Webschnittstelle beschränkt bist.* Es gibt immer noch Möglichkeiten, das Problem zu lösen, aber sie gehören nicht in den Rahmen dieses Artikels. Außerdem ist es vermutlich den Aufwand nicht wert, da du trotzdem die widersprüchlichen Änderungen überschreiben und rückgängig machen musst.

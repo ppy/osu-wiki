@@ -99,12 +99,10 @@ Il y a deux raisons pour lesquelles un conflit a pu se produire :
 En fonction de la gravité des conflits, vous avez deux possibilités pour résoudre ce problème :
 
 1. Si votre demande de modification comporte le bouton `Resolve conflicts`, cliquez dessus. Cela ouvrira une version légèrement différente de l'éditeur web.
-
    1. GitHub mettra en évidence les zones conflictuelles. Trouvez l'une d'entre elles.
    2. Tout ce qui ce trouve de `<<<<<<<` à `=======` sont vos changements, alors que tout ce qui ce trouve de `=======` à `>>>>>>> master` est ce qui se trouve dans la branche `ppy/master`.
    3. A partir de là, vous devrez corriger manuellement le conflit et supprimer les lignes portant les mentions `<<<<<<<`, `=======`, et `>>>>>>> master`.
    4. Répétez le processus pour tous les conflits.
    5. Une fois terminé, cliquez sur `Mark as resolved` (ceci n'est disponible que lorsque toutes les parties conflictuelles du fichier sont résolues).
-
 2. Si le bouton `Resolve conflicts` est bloqué parce que les conflits sont trop compliqués pour GitHub, vous n'avez pas de chance et vous devrez [mettre à jour votre branche](#synchronisation-d'un-fork) et refaire vos modifications.
    - *Remarque : ceci n'est vrai que si vous êtes limité à l'utilisation de l'interface web de GitHub*. Il existe encore des moyens de résoudre ce problème, mais ils n'entrent pas dans le cadre de cet article. De plus, cela ne vaut probablement pas la peine de le faire, car vous écraserez et inverserez les changements conflictuels.
