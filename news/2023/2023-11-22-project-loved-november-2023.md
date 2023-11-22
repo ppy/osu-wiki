@@ -100,7 +100,7 @@ Just a small warning—be careful with opening the map in the editor as it cause
 175 BPM, 2:35 | 8.20★\
 *description written by [Kingling](https://osu.ppy.sh/users/7010761)*
 
-Back with what could potentially be his 17th map entering the loved category, [Akali](https://osu.ppy.sh/users/2127359) is the mapper of this weeks *Daredevil Difficulties* map!
+Back with what could potentially be his 17th map entering the loved category, [Akali](https://osu.ppy.sh/users/2127359) is the mapper of this week's *Daredevil Difficulties* map!
 
 Sitting at a whopping 8.2★, this map of [Flashes (Hommarju Remix)](https://osu.ppy.sh/beatmapsets/852683#osu/1782215) is a dream for all of you cut-stream fans out there. One and a half minutes of some of the craziest cut-streams you have ever seen are what Akali has cooked up for you today — words really can't do them justice.
 
@@ -114,7 +114,7 @@ Take a look at them for yourself, and if you too want to see your favourite top 
 
 I'm Not Crazy. I'm Not Crazy. I'm Not Crazy!!!!
 
-[Ciyus Miapah](https://osu.ppy.sh/users/2805457) and his crew are back with another psytrance megaset to blow your socks off. 8 difficulties ranging from 4.9★ to 8.32★, each full of crazy technical streams and high bpm jumps to see if you really have what it takes to prove you're not crazy. After pushing for ranked for over 2 years and ultimately falling short, there's no place better than the loved category to put this absolute juicer of a mapset.
+[Ciyus Miapah](https://osu.ppy.sh/users/2805457) and his crew are back with another psytrance megaset to blow your socks off. 8 difficulties ranging from 4.9★ to 8.32★, each full of crazy technical streams and high BPM jumps to see if you really have what it takes to prove you're not crazy. After pushing for ranked for over 2 years and ultimately falling short, there's no place better than the loved category to put this absolute juicer of a mapset.
 
 If you promise you're not crazy, make sure to vote yes on this map!!
 
@@ -326,7 +326,7 @@ Is it still very fun to play? Absolutely!
 180 BPM, 1:57 | 2.12★, 3.44★, 4.68★, 5.20★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-It is quite crazy to think about the fact that the highest difficulty of this map was used as a hard rock pick in the grand finals of cwc 2017; how far we've come in terms of player skill since then. But I reckon that even the players that have improved massively since will still enjoy seeing this classic in this week's round of loved maps. *snow storm -euphoria-* is a non-extreme, 4 difficulty set created by [Spectator](https://osu.ppy.sh/users/702598) in collaboration with [Minato Yukina](https://osu.ppy.sh/users/531253), [Kyuare](https://osu.ppy.sh/users/2705312) and [Rocma](https://osu.ppy.sh/users/566276). Despite its serious quality in 2017 it unfortunately never got the chance to become ranked.
+It is quite crazy to think about the fact that the highest difficulty of this map was used as a Hard Rock pick in the Grand Finals of CWC 2017; how far we've come in terms of player skill since then. But I reckon that even the players that have improved massively since will still enjoy seeing this classic in this week's round of loved maps. *snow storm -euphoria-* is a non-extreme, 4 difficulty set created by [Spectator](https://osu.ppy.sh/users/702598) in collaboration with [Minato Yukina](https://osu.ppy.sh/users/531253), [Kyuare](https://osu.ppy.sh/users/2705312) and [Rocma](https://osu.ppy.sh/users/566276). Despite its serious quality in 2017 it unfortunately never got the chance to become ranked.
 
 So, here we are! Considering the fact that the northern hemisphere is starting to become somewhat cold again, it made sense to prepare ourselves for the coming snowstorms. The map consists of a mix of jumps, short streams, and a bit of a difficulty increase for its kiai. Most players will certainly be comfortable playing one of the difficulties, but adding mods to the map imbues it with new life and makes it challenging again (without any oddities)! To the crazies out there: double time may certainly be an option for the highest difficulty by now...
 
@@ -340,7 +340,7 @@ So, are you staying inside or are you bearing the snow storm? Go check it out!
 
 I reckon that everyone and their mother has seen the background of this map at least once somewhere. So, don't mind me shoving it in your face again; it is an everlasting sort of thing after all 😉.
 
-I'm guessing some of us are still mourning the exit of [Kyuare](https://osu.ppy.sh/users/2705312) from the osu!catch mapping community. But that's what we have Loved for! *Everlasting Message* is a single difficulty 2016 map, which was considered quite difficult at that time. Honestly speaking, I reckon lots of players will still find this map fairly tiring with its many left-rights all across the map, which are only momentarily paused at the 'calmer' streaming section. Hence, this map is not suited for novice players. But, for anyone around my rank or higher: there is plenty to enjoy here. Putting on hard rock makes the spacings between the jumps even harder, considering the fact that these spacings might not even be fully optimal on nomod for 2023 standards.
+I'm guessing some of us are still mourning the exit of [Kyuare](https://osu.ppy.sh/users/2705312) from the osu!catch mapping community. But that's what we have Loved for! *Everlasting Message* is a single difficulty 2016 map, which was considered quite difficult at that time. Honestly speaking, I reckon lots of players will still find this map fairly tiring with its many left-rights all across the map, which are only momentarily paused at the 'calmer' streaming section. Hence, this map is not suited for novice players. But, for anyone around my rank or higher: there is plenty to enjoy here. Putting on Hard Rock makes the spacings between the jumps even harder, considering the fact that these spacings might not even be fully optimal on nomod for 2023 standards.
 
 Either way, here's to another Kyuare map in our 2023 curriculum of loved maps. J'espère qu'il vous plaira!
 
