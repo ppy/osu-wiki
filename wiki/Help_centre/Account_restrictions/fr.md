@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Restrictions relatives aux comptes
 
 *Page principale : [Centre d'assistance](/wiki/Help_centre)*
