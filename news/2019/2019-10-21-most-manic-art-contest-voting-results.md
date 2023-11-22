@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Most Manic Art Contest Voting Results"
+title: A Most Manic Art Contest Voting Results
 date: 2019-10-21 10:00:00 +0000
 ---
 

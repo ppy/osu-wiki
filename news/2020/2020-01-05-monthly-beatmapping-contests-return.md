@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Monthly Beatmapping Contests Return"
+title: Monthly Beatmapping Contests Return
 date: 2020-01-05 02:00:00 +0000
 ---
 

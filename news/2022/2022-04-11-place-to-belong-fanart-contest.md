@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Place To Belong Fanart Contest"
+title: A Place To Belong Fanart Contest
 date: 2022-04-11 14:00:00 +0000
 ---
 

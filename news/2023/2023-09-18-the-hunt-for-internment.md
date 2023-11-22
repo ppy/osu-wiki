@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hunt for Internment"
+title: The Hunt for Internment
 date: 2023-09-18 09:00:00 +0000
 ---
 

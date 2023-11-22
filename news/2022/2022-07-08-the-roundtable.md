@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Roundtable"
+title: The Roundtable
 date: 2022-07-08 10:00:00 +0000
 ---
 
