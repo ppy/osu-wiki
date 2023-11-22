@@ -104,7 +104,7 @@ Diese Tipps erscheinen beim Start von [osu!(lazer)](/wiki/Client/Release_stream/
 - Probiere, in der Modauswahl herunterzuscrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
 - Erhalte mehr Details, verstecke oder lösche eine Beatmap, indem du mit der rechten Maustaste auf ihr Dialogfeld in der Songauswahl klickst!
-- Alle Löschoperationen sind bis zum Verlassen nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
+- Alle Löschoperationen sind bis zum Verlassen des Spiels nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
 - Probiere das "Playlists"-System aus, das Nutzer ihre eigenen, bleibenden Bestenlisten kreieren lässt!
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
 - Werfe einen Blick unter die Haube der Leistungsindikatoren und aktiviere die ausführliche Leistungsprotokollierung mit `Strg` + `F2`!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: Ephemeral, The Man Behind The Medals"
+title: "The Followpoint: Ephemeral, the Man Behind the Medals"
 date: 2023-11-10 09:00:00 +0000
 ---
 

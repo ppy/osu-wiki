@@ -1,3 +1,8 @@
+---
+outdated_since: 6c75c97f545c236af6e8253b4296dafa06668a56
+outdated_translation: true
+---
+
 # 社区贡献者
 
 ::: Infobox
@@ -24,21 +29,21 @@
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092)（将 .osr 回放文件录制成视频） |
+| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092)（将 `.osr` 回放文件录制成视频） |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/) |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | 无数的客户端图像设计贡献及其它 |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals)的美术设计 |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](https://osu.ppy.sh/community/forums/topics/55305) 这个最受欢迎的第三方摸图工具 |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 OWC） |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 #osu 频道（9000 名以上用户） |
-| ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) |  开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛（包括 [OWC](/wiki/Tournaments/OWC)） |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于 6 位管理人员的工作量），并且几乎以一己之力在高峰时段管理 `#osu` 频道（9000 名以上用户） |
+| ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs)以及数年对月度新谱面排名竞赛的管理 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboard)作为艺术和作图动力的发展 |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样 |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
+| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 [BAT 管理员](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers)，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ### 2015
 
@@ -48,7 +53,7 @@
 | :-- | :-- |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 对 osu! wiki 的杰出贡献 |
 | ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | 对 osu! wiki 的杰出贡献 |
-| ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank 和 osu!Post 的开发 |
+| ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966) 和 [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) 的开发 |
 
 ### 2016
 
@@ -64,7 +69,7 @@
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 杰出摸图贡献（10k+ 次） |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 杰出摸图贡献（30k+ 次） |
 | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | 开发了革命性的故事板语言（SGL） |
-| ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - osu! twitch 机器人工具的开发者 |
+| ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | [Mikuia.tv](https://mikuia.tv) - osu! twitch 机器人工具的开发者 |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | 谱面修改建议机器人的开发者 |
 
 #### 三月
@@ -99,12 +104,12 @@
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献 |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team)，并在建立 osu!taiko 社区中做出了杰出贡献 |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
-| ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT，并在 Ranking Criteria 重写过程中做出巨大贡献 |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 BAT/QAT，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
-| ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | 多年服务于 BAT/QAT |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 [GMT](/wiki/People/Global_Moderation_Team)，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
+| ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team)，并在 Ranking Criteria 重写过程中做出巨大贡献 |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team)，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
+| ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | 多年服务于 [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) |
 | ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) | 在世界杯竞赛的数据统计与分析中投入了大量的时间 |
 | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) | 在许多社区比赛中担任裁判，贡献突出 |
 | ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660) | 在直播竞赛，解说，以及事件报道和摘要的撰写方面均表现突出 |
@@ -114,7 +119,7 @@
 | ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732) | 对 osu!(lazer) 计划的杰出贡献 |
 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu!，osu! wiki，和 osu!(lazer) 的中文化计划，并做出了突出贡献 |
 | ::{ flag=DE }:: [jorolf](https://osu.ppy.sh/users/7004641) | 对 osu!(lazer) 计划做出了杰出贡献，并创造了许多媒体工具 |
-| ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus 和 osu!chan 的创造者 |
+| ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | [PerformancePlus](https://syrin.me/pp+/) 和 [osu!chan](https://osuchan.syrin.me) 的创造者 |
 | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | 对 Scorewatch 计划的杰出贡献 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | 对 Scorewatch 计划的杰出贡献 |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | 通过大量的修订、重写和复核推动了 osu! wiki 发展 |
@@ -130,26 +135,26 @@
 | :-- | :-- |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | 世界杯组织者 & osu! Coffee Hour 主办 |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 对世界杯组织和其他锦标赛做出了杰出贡献 |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 作为 GMT 和 osu! wiki 团队成员做出杰出贡献 |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 作为 [GMT](/wiki/People/Global_Moderation_Team) 和 osu! wiki 团队成员做出杰出贡献 |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | 在许多项目和领域中的杰出贡献 |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | 在玩家支持和问题解决方面的杰出贡献 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 非凡的 Beatmap Packs 项目维护者 |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 非凡的 [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) 项目维护者 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 许多与现代 Rank 周期不可或缺的工具的开发人员 |
-| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | 对 Beatmap Spotlights 项目的杰出贡献 |
+| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | 对 [Beatmap Spotlights](/wiki/Beatmap_Spotlights) 项目的杰出贡献 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 在众多项目和领域中的杰出贡献 |
-| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | 在 GMT 和锦标赛维护方面的杰出贡献 |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 团队领头人 |
-| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Project Loved 项目的早期 协助组织者 |
-| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | Project Loved 队长 (osu!catch) |
-| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | Project Loved 队长 (osu!taiko) |
-| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | Project Loved 队长 (osu!catch) |
-| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | Project Loved 队长 (osu!mania) |
-| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | Project Loved 队长 (osu!mania) |
-| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | 对社区指导计划的杰出贡献 |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | 对社区指导计划的杰出贡献 |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | 对社区指导计划的杰出贡献 |
-| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | 对社区指导计划的杰出贡献 |
-| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | 对社区指导计划的杰出贡献 |
+| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | 在 [GMT](/wiki/People/Global_Moderation_Team) 和锦标赛维护方面的杰出贡献 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | [Project Loved](/wiki/Community/Project_Loved) 团队领头人 |
+| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | [Project Loved](/wiki/Community/Project_Loved) 项目的早期 协助组织者 |
+| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!catch) |
+| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!taiko) |
+| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!catch) |
+| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!mania) |
+| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | [Project Loved](/wiki/Community/Project_Loved) 队长 (osu!mania) |
+| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
+| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | 对[社区指导计划](/wiki/Community/Community_Mentorship_Program)的杰出贡献 |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | 对 osu!(lazer) 计划的杰出贡献 |
 
 ### 2020
@@ -179,7 +184,7 @@
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 对社区管理的杰出贡献 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | 对玩家支持和协助的杰出贡献 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | 对玩家支持和协助做出了巨大贡献 |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | 对 Mappers's Guild 和 BN 的杰出贡献 |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | 对 [Mappers' Guild](https://mappersguild.com) 和 [BN](/wiki/People/Beatmap_Nominators) 的杰出贡献 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | 对 osu! 开源项目的杰出贡献 |
 
 ### 2021
