@@ -4,13 +4,12 @@
 
 1. [安裝](/wiki/Client/Installation)完 osu! 並執行後，osu! 會提示你要登入還是註冊，假設你讀這篇文章是因為你需要註冊，請點擊`建立帳號`。
 
-   ![The in-game registration form](img/ingame-registration.jpg "註冊表單")
+![The in-game registration form](img/ingame-registration.jpg "註冊表單")
 
 2. 填寫表單。
    - 使用者名稱不得超過 15 個字元；且只能由字母 (`a-z`, `A-Z`, `0-9`)、底線 (`_`)、方括弧 (`[` 及 `]`)、破折號 (`-`)及空格 (` `) 組成。
    - 請使用你自己的電子郵件地址。在寄送重設密碼網址及驗證碼時將會用到，所以請不要使用免洗信箱。
    - 密碼至少需要8個字元。
-
 3. 填完後，點擊 `1. 建立我的帳號！`，你將會自動登入。
 
 ## 下一步呢？
