@@ -39,10 +39,10 @@ Okay, now let's go through what we've cooked for you this month:
 
 ### Navigation
 
-- [osu!](#osu!)
-- [osu!taiko](#osu!taiko)
-- [osu!catch](#osu!catch)
-- [osu!mania](#osu!mania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## osu!
 
@@ -90,7 +90,7 @@ This month's *Small Spectacles* pick is [Tegami](https://osu.ppy.sh/beatmapsets/
 
 This pretty chill and ambient 77 BPM mapset features a spread ranging from 2.07★ to 4.27★. pishi's difficulty can be described as simply elegant and conceptual, whereas the top difficulty *\[Sincerely,\]* shows a more meticulous approach to emphasising the beautiful vocals with fun sliders.
 
-What I really want to show you is the storyboard created by [S2VX](https://osu.ppy.sh/u/1472763) and [niseboi](https://osu.ppy.sh/u/2747929). It was developed over many *many* hours, involving hundreds of individually rotoscoped frames and a whole lot of C++ coding to brilliantly execute. S2VX, or maxrchung, documented the [entire creative process](https://maxrchung.com/projects/tegami) in immense detail, which you should definitely check out! It really is a sight to behold, so please experience it at least once while playing.
+What I really want to show you is the storyboard created by [S2VX](https://osu.ppy.sh/users/1472763) and [niseboi](https://osu.ppy.sh/users/2747929). It was developed over many *many* hours, involving hundreds of individually rotoscoped frames and a whole lot of C++ coding to brilliantly execute. S2VX, or maxrchung, documented the [entire creative process](https://maxrchung.com/projects/tegami) in immense detail, which you should definitely check out! It really is a sight to behold, so please experience it at least once while playing.
 
 Just a small warning—be careful with opening the map in the editor as it causes some serious lag and might crash in some instances. Nevertheless, be sure to cast your vote if you wish to see Tegami in loved!
 
@@ -264,7 +264,7 @@ If you don't have enough stamina to play 4 minute map, go practice with the shor
 The \[del:eh:t upon download\] difficulty is *not* being nominated for Loved.\
 *description written by [aceticke](https://osu.ppy.sh/users/8838763)*
 
-This month I am presenting the \[EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) hosted by [Mew](https://osu.ppy.sh/users/2345156) with guest appearances from [[Zeth\]](https://osu.ppy.sh/users/9912966), [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and [X a v y](https://osu.ppy.sh/users/3738344)! There's something for everyone in this beatmap pack featuring 9 unique beatmaps and songs from the famous [Expert Global Taiko Showdown's 2022 iteration](/wiki/Tournaments/GTS/EGTS_2022)! SV, finishers, barlines, sliders... it's tough to list them all!
+This month I am presenting the [EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) hosted by [Mew](https://osu.ppy.sh/users/2345156) with guest appearances from [\[Zeth\]](https://osu.ppy.sh/users/9912966), [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and [X a v y](https://osu.ppy.sh/users/3738344)! There's something for everyone in this beatmap pack featuring 9 unique beatmaps and songs from the famous [Expert Global Taiko Showdown's 2022 iteration](/wiki/Tournaments/GTS/EGTS_2022)! SV, finishers, barlines, sliders... it's tough to list them all!
 
 Why not give it a shot and see what *you* excel at? And, if you want to brawl in a competitive leaderboard, it's up for voting now!
 
@@ -487,7 +487,7 @@ As you might have noticed, all of the 4K nominations this week are sets by mappe
 
 DJ SHARPNEL songs have been extensively used across all keycounts for intense, rice-focused stamina marathons, and this is no exception. A song well known to any 4K player, the structure of these charts will surprise no one — dense and intense chordstreams with the few breaks DJ SHARPNEL put in the song.
 
-This set comes with 2 difficulties: \[SAMTHER\], estimated by the mapper at ★20, is already a fierce challenge, but one that is taken to the next level by \[AAA\], a difficulty name that reminisces the classic \[Japanese Transformation](https://osu.ppy.sh/beatmapsets/406332#mania/883028) chart, and signals the patterns that lay under its name. The chords in the streams here become fuller and fatter; what were chords of 3 or 4 notes in [SAMTHER\] become 5 or 6, peaking the density available. Is that still not enough for you? kasam53 kindly provides rates at 1.1 and 1.2, estimating the 1.1 at a mighty ★★4.
+This set comes with 2 difficulties: \[SAMTHER\], estimated by the mapper at ★20, is already a fierce challenge, but one that is taken to the next level by \[AAA\], a difficulty name that reminisces the classic [Japanese Transformation](https://osu.ppy.sh/beatmapsets/406332#mania/883028) chart, and signals the patterns that lay under its name. The chords in the streams here become fuller and fatter; what were chords of 3 or 4 notes in \[SAMTHER\] become 5 or 6, peaking the density available. Is that still not enough for you? kasam53 kindly provides rates at 1.1 and 1.2, estimating the 1.1 at a mighty ★★4.
 
 All the DJ SHARPNEL enjoyers (I know there's lots of you) — we hope to see your votes here!
 
@@ -511,7 +511,7 @@ Noodle players across 4K and 7K are eating well this month. Be sure to support E
 
 The onslaught of mixed keycount LN continues with *Corrosion*!
 
-\[drunkenstein](https://osu.ppy.sh/users/4565389) and [eZmmR](https://osu.ppy.sh/users/8647138) present us with a spectacle of noodle patterns across both 4K and 7K, all accompanied by a classic Newgrounds nostalgia track by NightHawk22. Both 4K difficulties have similar object counts — but don't be fooled, as [Virtuoso\] (and especially its ending) is significantly harder than the OD0 \[Scattered Thoughts\].
+[drunkenstein](https://osu.ppy.sh/users/4565389) and [eZmmR](https://osu.ppy.sh/users/8647138) present us with a spectacle of noodle patterns across both 4K and 7K, all accompanied by a classic Newgrounds nostalgia track by NightHawk22. Both 4K difficulties have similar object counts — but don't be fooled, as \[Virtuoso\] (and especially its ending) is significantly harder than the OD0 \[Scattered Thoughts\].
 
 But let's turn our attention to the 7K \[Masterpiece\]. Did you know eZmmR maps 7K as well? Well now you do! This is definitely not a beginner's work. The music, while important, takes a backstep behind a fantastic array of patterns: hybrid streams, trills, noodle sweeps, shields, reverse shields, everything in between and more, seamlessly transitioning from one to another over the intense synth, piano and guitar techno.
 
