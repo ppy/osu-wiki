@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # Verwaltung des osu!-Wikis
 
 *Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*

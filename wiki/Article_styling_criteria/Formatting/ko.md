@@ -773,7 +773,7 @@ jpeg-recompress -am smallfry <input> <output>
 ::{ flag=XX }::
 ```
 
-`XX`에는 국기에 대한 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
+`XX`에는 국기에 대한 [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
 
 ## 표
 
