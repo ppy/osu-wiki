@@ -1,4 +1,4 @@
-# Éditeur de Beatmap
+# Éditeur de beatmap
 
 ![Une capture d'écran de l'onglet composition montrant la beatmap Donor Song de pishifat](img/compose.jpg)
 
@@ -34,9 +34,9 @@ L'onglet [Song setup](/wiki/Client/Beatmap_editor/Song_setup) permet de renseign
 L'éditeur de beatmap inclut également :
 
 - [AiMod](AiMod) : Un système automatisé qui signale les problèmes dans une beatmap.
-- [Beat snap divisor](Beat_Snap_Divisor) : Détermine comment les objets sont fixés à la timeline.
+- [Beat snap divisor](Beat_snap_divisor) : Détermine comment les objets sont fixés à la timeline.
 - [Distance snap](Distance_snap) : Détermine la distance entre 2 objets consécutifs en prenant en compte le rythme de la musique.
 - [Kiai time](/wiki/Gameplay/Kiai_time) : Des sections spécifiques du timing qui aident à mettre en valeur une partie de la beatmap.
 - [Menu](Menu) : Aide à naviguer à travers l'éditeur de beatmap.
-- [SB load](SB_Load) : Un nombre indiquant à quel point le storyboard est lourd en terme de performances.
+- [SB load](SB_load) : Un nombre indiquant à quel point le storyboard est lourd en terme de performances.
 - [Timelines](Timelines) : Affiche les hits objects, les pauses et autres.

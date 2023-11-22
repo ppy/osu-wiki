@@ -21,7 +21,7 @@ Este artículo enumera los diversos consejos que se ven en el juego, que contien
 Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/Interface#menú-principal).
 
 - Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
-- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selección-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
+- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selector-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
 - Pulsa `F8`/`F9` en cualquier momento para unirte al [chat](/wiki/Client/Interface/Chat_console) de osu!.
 - Haciendo clic derecho en un beatmap o haciendo clic en el botón `Beatmap Options` en el listado de selección de canciones se desplegará un menú que te permite gestionar el beatmap.
 - Si [notas ralentizaciones](/wiki/Performance_troubleshooting) al jugar, puedes modificar el `límite de fotogramas por segundo`[^frame-limiter] en el [menú de opciones](/wiki/Client/Options) y activar el modo `Pantalla completa`/`Panorámica con bandas`. Podría ayudar.
@@ -34,7 +34,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - ¿Sabías que puedes cargar nuevos beatmaps haciendo doble clic en un archivo `osz` o arrastrándolo a la ventana de osu!?
 - Puedes exportar una [repetición](/wiki/Gameplay/Replay) tanto online como local pulsando `F2` en la [pantalla del ranking](/wiki/Client/Interface#pantalla-de-resultados).
 - Si te parece que el ritmo está descompensado en todos los beatmaps que juegas, intenta ajustar la `compensación global` en las `opciones`.
-- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selección-de-canciones).
+- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 - Puedes hacer que el chat se oculte automáticamente cuando juegas. Busca esta función en la esquina inferior derecha de la pantalla, cuando el chat esté abierto.
 - Puedes ajustar el volumen con la rueda del ratón en cualquier momento. Esta opción puede deshabilitarse desde el menú de configuración.
 - Puedes poner la partida en pausa pulsando el botón central del ratón. Esta opción puede deshabilitarse desde el menú de configuración.
@@ -48,7 +48,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Pulsa `F5` en el menú de selección de canciones para actualizar la lista de beatmaps.
 - Pulsa `Shift` + `F12` para hacer una captura de pantalla y subirla automáticamente a Internet.
 - Puedes configurar las teclas que utilizas para jugar en el menú `Opciones` > `Controles`.
-- Puedes utilizar [expresiones](/wiki/Client/Interface#búsqueda) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
+- Puedes utilizar [expresiones](/wiki/Client/Interface#buscar) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
 - Reintenta un beatmap pulsando `Ctrl` + `R` durante unos instantes.
 
 ## Editor
