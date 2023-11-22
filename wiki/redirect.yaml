@@ -1378,7 +1378,7 @@ medals/beatmap_packs_0916: Medals/Legacy_beatmap_packs
 osu!tourney/prizes: Tournaments/Official_support
 
 # Moved "Guides/Making_Properly_Centered_Spinners" to "Guides/Making_properly_centred_spinners"
-"guides/making_properly_centered_spinners" : "Guides/Making_properly_centred_spinners"
+guides/making_properly_centered_spinners: Guides/Making_properly_centred_spinners
 
 # new category created in #6627
 game_client:                      Client
