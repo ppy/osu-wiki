@@ -279,8 +279,8 @@
 "touhosu!":                    "History_of_osu!/April_Fools#touhosu!"
 "touhousu!":                   "History_of_osu!/April_Fools#touhosu!"
 "glossary/touhosu!":           "History_of_osu!/April_Fools#touhosu!"
-"wip":                         "Beatmap/Category#work-in-progress-and-pending"
-"work_in_progress":            "Beatmap/Category#work-in-progress-and-pending"
+"wip":                         "Beatmap/Category#wip-and-pending"
+"work_in_progress":            "Beatmap/Category#wip-and-pending"
 
 "audio_editing":                          "Guides/Audio_editing"
 "beginner's_tutorial":                    "Guides/Beginner's_tutorial"
@@ -590,10 +590,10 @@
 "staff_promotion_log": "People/Staff_log"
 "staff_retirement_log": "People/Staff_log"
 
-"support_team":                    "People/Support_Team"
-"support_team_redux":              "People/Support_Team"
-"st":                              "People/Support_Team"
-"str":                             "People/Support_Team"
+"support_team":                    "People/Technical_Support_Team"
+"support_team_redux":              "People/Technical_Support_Team"
+"st":                              "People/Technical_Support_Team"
+"str":                             "People/Technical_Support_Team"
 
 "osu!_staff": "People/osu!_team"
 "osu!team":   "People/osu!_team"
@@ -720,11 +720,11 @@
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
 "content_voting":              "Rules/Content_voting_process"
-"content_usage":               "Rules/Content_usage_guidelines"
-"content_licencing":           "Rules/Content_usage_guidelines"
-"content_licensing":           "Rules/Content_usage_guidelines"
-"licencing":                   "Rules/Content_usage_guidelines"
-"licensing":                   "Rules/Content_usage_guidelines"
+"content_usage":               "Rules/Content_usage_permissions"
+"content_licencing":           "Rules/Content_usage_permissions"
+"content_licensing":           "Rules/Content_usage_permissions"
+"licencing":                   "Rules/Content_usage_permissions"
+"licensing":                   "Rules/Content_usage_permissions"
 "explicit":                    "Rules/Explicit_content"
 "song_content_rules":          "Rules/Song_content_rules"
 "scr":                         "Rules/Song_content_rules"
@@ -2084,7 +2084,7 @@
 "people/the_team/staff_log/2022": "People/Staff_log/2022"
 "people/the_team/staff_log/2023": "People/Staff_log/2023"
 "people/the_team/staff_log": "People/Staff_log"
-"people/the_team/support_team": "People/Support_Team"
+"people/the_team/support_team": "People/Technical_Support_Team"
 "people/the_team/osu!_alumni": "People/osu!_Alumni"
 "people/the_team": "People/osu!_team"
 
@@ -2119,3 +2119,14 @@
 # deleted in #10217
 
 "client/options/keyboard_bindings":          "Client/Keyboard_shortcuts"
+
+# moved in #10397
+
+"usage_permissions":                         "Rules/Content_usage_permissions"
+"rules/content_usage_guidelines":            "Rules/Content_usage_permissions"
+
+# Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
+"people/osu!monthly_team": "Community/osu!monthly#contributors"
+
+# Renamed "Support Team" to "Technical Support Team" (#10425)
+"people/support_team": "People/Technical_Support_Team"

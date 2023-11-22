@@ -15,35 +15,35 @@ Beatmapler, **[beatmap setlerinin](/wiki/Beatmap)** bir parçası olarak yapıl�
 
 Çevrimiçi gönderilen beatmapler son etkinliğine, aday gösterim durumuna, ve popülaritesine göre kategorilere ayrılır:
 
-- [Mezarlıkta](#mezarlıkta)
-- [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede)
-- [Nitelikli](#nitelikli)
-- [Dereceli](#dereceli)
-- [Sevilen](#sevilen)
+- [Mezarlıkta](#graveyard)
+- [Yapım Aşamasında ve Beklemede](#wip-and-pending)
+- [Nitelikli](#qualified)
+- [Dereceli](#ranked)
+- [Sevilen](#loved)
 
-### Mezarlıkta
+### Mezarlıkta {id=graveyard}
 
-Mezarlıktaki beatmapler yaratıcısı tarafından terkedilmiş beatmaplerdir. Beatmapler, 4 hafta boyunca güncellenmediğinde otomatik olarak [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede) kategorisinden Mezarlık kategorisine taşınır. Mezarlıktaki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Ancak, normal bir şekilde indirilip oynanabilir. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/graveyard.png)) ile ayırt edilebilir.
+Mezarlıktaki beatmapler yaratıcısı tarafından terkedilmiş beatmaplerdir. Beatmapler, 4 hafta boyunca güncellenmediğinde otomatik olarak [Yapım Aşamasında ve Beklemede](#wip-and-pending) kategorisinden Mezarlık kategorisine taşınır. Mezarlıktaki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Ancak, normal bir şekilde indirilip oynanabilir. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/graveyard.png)) ile ayırt edilebilir.
 
-Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#yapım-aşamasında-ve-beklemede) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Beatmapping/Beatmap_submission) ile beatmapi güncelleyerek yapılabilir.
+Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#wip-and-pending) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Beatmapping/Beatmap_submission) ile beatmapi güncelleyerek yapılabilir.
 
-### Yapım Aşamasında ve Beklemede
+### Yapım Aşamasında ve Beklemede {id=wip-and-pending}
 
-Yapım Aşamasında ve Beklemede, beatmaplerin ilk gönderimde yerleştirildiği iki kategoridir. Bu kategorilerdeki beatmapler iki ayrı [Beatmap Aday Gösterici](/wiki/People/Beatmap_Nominators) tarafından [aday gösterilerek](/wiki/Beatmap_ranking_procedure#nominations) [Nitelikli](#nitelikli) kategorisine taşınabilir. Genellikle bu, [modderlardan](/wiki/Modding/Modder) [modlama](/wiki/Modding) yoluyla büyük ölçüde bir geri bildirim içerir. Yapım Aşamasındaki ve Beklemedeki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/pending.png)) ile ayırt edilebilir.
+Yapım Aşamasında ve Beklemede, beatmaplerin ilk gönderimde yerleştirildiği iki kategoridir. Bu kategorilerdeki beatmapler iki ayrı [Beatmap Aday Gösterici](/wiki/People/Beatmap_Nominators) tarafından [aday gösterilerek](/wiki/Beatmap_ranking_procedure#nominations) [Nitelikli](#qualified) kategorisine taşınabilir. Genellikle bu, [modderlardan](/wiki/Modding/Modder) [modlama](/wiki/Modding) yoluyla büyük ölçüde bir geri bildirim içerir. Yapım Aşamasındaki ve Beklemedeki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/pending.png)) ile ayırt edilebilir.
 
-Bu kategoride 4 hafta kalan inaktif beatmapler otomatik olarak [Mezarlıkta](#mezarlıkta) kategorisine taşınır.
+Bu kategoride 4 hafta kalan inaktif beatmapler otomatik olarak [Mezarlıkta](#graveyard) kategorisine taşınır.
 
-### Nitelikli
+### Nitelikli {id=qualified}
 
-Nitelikli [beatmap derecelendirme prosedürünün](/wiki/Beatmap_ranking_procedure) son ayağıdır. Bu beatmapler, beatmapin [derecelendirme kriterlerinin](/wiki/Ranking_criteria) standartlarına uyup uymadığını kontrol eden en az iki [Beatmap Aday Gösterici](/wiki/People/Beatmap_Nominators) tarafından aday gösterilmiştir. Nitelikli kategorisindeki beatmapler bir [derecelendirme sırasına](/wiki/Beatmap_ranking_procedure#ranked) girerler, ve eğer sıradan [diskalifiye edilmemişlerse](/wiki/Beatmap_ranking_procedure#nomination-resets) en sonunda [Dereceli](#dereceli) olurlar. Bu süreç, gözden kaçan kusurların ve hataların düzeltilebileceği, savunma zincirinin son halkası görevi görür.
+Nitelikli [beatmap derecelendirme prosedürünün](/wiki/Beatmap_ranking_procedure) son ayağıdır. Bu beatmapler, beatmapin [derecelendirme kriterlerinin](/wiki/Ranking_criteria) standartlarına uyup uymadığını kontrol eden en az iki [Beatmap Aday Gösterici](/wiki/People/Beatmap_Nominators) tarafından aday gösterilmiştir. Nitelikli kategorisindeki beatmapler bir [derecelendirme sırasına](/wiki/Beatmap_ranking_procedure#ranked) girerler, ve eğer sıradan [diskalifiye edilmemişlerse](/wiki/Beatmap_ranking_procedure#nomination-resets) en sonunda [Dereceli](#ranked) olurlar. Bu süreç, gözden kaçan kusurların ve hataların düzeltilebileceği, savunma zincirinin son halkası görevi görür.
 
 Nitelikli beatmapler sıralamaya sahiptir, fakat [performans puanı](/wiki/Performance_points) kazandırmaz ve Nitelikli kategorisinden çıktığında tüm skorlar silinir. Şarkı seçim ekranında onay ikonu (![](/wiki/shared/status/qualified.png)) ile ayırt edilebilir.
 
-### Dereceli
+### Dereceli {id=ranked}
 
 Dereceli beatmapler, [derecelendirme kriterlerinin](/wiki/Ranking_criteria) standartlarına erişmesi veya bunları aşması bakımından resmi içerik olarak kabul edilir. Bunlar, oyuncuların sıralamalarda rekabet etmesi ve yapılan skorlardan [performans puanı](/wiki/Performance_points) kazanılmasını sağlar. Bir beatmap Dereceli durumuna ulaştığında, durumu tekrar değiştirilemez (olağanüstü durumlar hariç). Dereceli beatmapler şarkı seçim ekranında yukarı çift ok ikonu (![](/wiki/shared/status/ranked.png)) ile ayırt edilebilir.
 
-### Sevilen
+### Sevilen {id=loved}
 
 *Sevilen kategorisinin tarihçesi için, bakınız: [Sevilen'in Tarihçesi](/wiki/History_of_osu!/History_of_Loved)*
 

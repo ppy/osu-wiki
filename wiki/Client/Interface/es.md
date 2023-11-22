@@ -83,7 +83,7 @@ Antes de continuar, esta pantalla tiene demasiados elementos para anotar con nú
 
 ![](img/metadata-comparison-ES.jpg)
 
-Esta área muestra **información sobre la dificultad del beatmap seleccionada actualmente.** Al ingresar a la pantalla del selector de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El icono superior izquierdo muestra la [categoría del beatmap](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#clasificados).
+Esta área muestra **información sobre la dificultad del beatmap seleccionada actualmente.** Al ingresar a la pantalla del selector de canciones, la canción que se está reproduciendo en la rocola se selecciona de forma predeterminada. El icono superior izquierdo muestra la [categoría del beatmap](/wiki/Beatmap/Category), donde este en particular está [clasificado](/wiki/Beatmap/Category#ranked).
 
 El título de la canción normalmente se muestra romanizado (imagen inferior), pero si seleccionas `Mostrar datos de canciones en su idioma original` en las [opciones](/wiki/Client/Options), se mostrará el título Unicode (imagen superior). El nombre de la dificultad del beatmap se muestra entre corchetes (`[]`). El creador que mapeó el beatmap se muestra debajo del título, e incluso se incluye más información a continuación. De izquierda a derecha, los valores son los siguientes:
 
@@ -261,7 +261,7 @@ Esta es tu tabla de clasificación en línea. Puedes ir aquí desplazándote hac
 - \[2\] `Guardar repetición a la carpeta "Replays"`: Puedes ver la repetición más tarde abriéndola desde una tabla de clasificación local, o yendo al directorio `Replays` y haciendo doble clic en ella.
 - \[3\] `Añadir como favorito en línea`: Incluye el beatmap en tu lista de favoritos, que se encuentra en tu página de perfil de osu! en la sección `Mapas`.
 - \[4\] Tabla de clasificación local: Todos tus resultados se almacenan en tu computadora. Para verlos, navega hasta la [pantalla del selector de canciones](#selector-de-canciones) y selecciona `Ranking local` en el menú desplegable sobre el marcador.
-- \[5\] Sección de `Beatmap Ranking`. Disponible solo para beatmaps con tablas de clasificación en línea ([calificados](/wiki/Beatmap/Category#calificados), [clasificados](/wiki/Beatmap/Category#clasificados) o [amados](/wiki/Beatmap/Category#amados)). También necesitas estar en línea para ver esta sección. Ve a continuación para obtener más detalles.
+- \[5\] Sección de `Beatmap Ranking`. Disponible solo para beatmaps con tablas de clasificación en línea ([calificados](/wiki/Beatmap/Category#qualified), [clasificados](/wiki/Beatmap/Category#ranked) o [amados](/wiki/Beatmap/Category#loved)). También necesitas estar en línea para ver esta sección. Ve a continuación para obtener más detalles.
 - \[6\] Sección de `Overall Ranking`. Está disponible solo para beatmaps con tablas de clasificación en línea. También necesitas estar en línea para ver esta sección. Ve a continuación para obtener más detalles.
 - \[7\] Información sobre el beatmap con su número de jugadas y tasa de aprobación al pasarlo.
 - \[8\] Valoración del beatmap. Usa tu discreción personal en función de si disfrutaste el beatmap o no. Es mejor dejarlo en paz si no puedes decidir.
