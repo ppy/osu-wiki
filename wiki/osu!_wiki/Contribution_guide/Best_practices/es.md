@@ -36,7 +36,7 @@ Si encontraste algún problema al usar la herramienta GitHub o si deseas sobresc
 - **Create a backup of the selected branch**: Crea una copia de la rama de destino en `{branch name}-backup` en tu bifurcación antes de intentar actualizarla.
 - **Overwrite all history of the selected branch**: Reemplaza la rama de destino con `ppy:master`, descartando todos sus commits diferentes. De forma predeterminada, `ppy:master` se fusionará en la rama de destino.
 
-4. Haz clic en el botón `Run workflow` y espera a que se complete el flujo de trabajo. Si tienes curiosidad acerca de cómo funciona la herramienta, haz clic en la tarea de flujo de trabajo `Sync with ppy:master`.
+4. Haz clic en el botón `Run workflow` y espera a que se complete el flujo de trabajo. Si tienes curiosidad acerca de cómo funciona la herramienta, haz clic en la tarea del flujo de trabajo `Sync with ppy:master`.
 
 ## Hacer cambios
 
@@ -45,7 +45,7 @@ Si encontraste algún problema al usar la herramienta GitHub o si deseas sobresc
 Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas (branches)** son espacios de trabajo que te permiten alternar entre varias versiones del repositorio. Para facilitar tu flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, sigue estas pautas:
 
 - [Sincroniza la rama `master`](#sincronizar-la-bifurcación).
-- Comienza siempre el trabajo creando una nueva rama a partir de `master`, y solo mantén allí tus cambios. Asígnale un nombre significativo, como `update-staff-log`.
+- Comienza siempre el trabajo creando una nueva rama a partir de `master`, y solo mantén allí tus cambios. Dale un nombre significativo, como `update-staff-log`.
 - Envía tu trabajo cuando hayas realizado cambios de tamaño razonable. Es mejor enviar un artículo completo en lugar de 10 ediciones pequeñas.
 - **Usa mensajes de commits breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patterns` dice mucho más que `Update es.md`.
 
