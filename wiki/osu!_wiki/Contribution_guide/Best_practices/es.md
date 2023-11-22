@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Buenas prácticas
 
 Esta página cubre algunas de las tareas que puede enfrentar mientras contribuye. Los enfoques mencionados aquí están diseñados para facilitar el proceso y pueden aplicarse a otros proyectos alojados en GitHub o plataformas similares.
@@ -30,6 +35,8 @@ Si encontró algún problema al usar la herramienta GitHub o si desea sobrescrib
 2. En `Workflows`, busque `Sync from osu! upstream`.
 3. Haga clic en `Run workflow` y complete las opciones:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "Flujo de trabajo de Acciones de GitHub - Ejecutar flujo de trabajo")
 
 - **Use workflow from**: nombre de la rama que desea sincronizar. Por defecto, se establece en `master`.
@@ -41,6 +48,8 @@ Si encontró algún problema al usar la herramienta GitHub o si desea sobrescrib
   - `false` (por defecto): no crea ninguna copia de seguridad.
 
 4. Haga clic en el botón `Run Workflow` y espere a que se complete el flujo de trabajo. Si tiene curiosidad acerca de cómo funciona la herramienta, haga clic en la tarea de flujo de trabajo `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "Flujo de trabajo de Acciones de GitHub - Visión general del flujo de trabajo")
 

@@ -1,6 +1,6 @@
 # 谱面编辑器
 
-![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](Compose/img/Compose.jpg)
+![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](img/compose.jpg)
 
 *对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#谱面编辑器)*
 
@@ -34,9 +34,9 @@
 谱面编辑器的其他组件包括：
 
 - [AiMod](AiMod)：报告谱面问题的自动化系统
-- [音符时值](Beat_Snap_Divisor)：决定物件与时间线对齐的方式
+- [音符时值](Beat_snap_divisor)：决定物件与时间线对齐的方式
 - [间距锁定](Distance_snap)：影响物件间距离的系数
 - [Kiai 时间](/wiki/Gameplay/Kiai_time)：谱面的特殊时间轴区间，有助于强调谱面的一部分
 - [菜单](Menu)：帮助你在谱面编辑器中导航
-- [故事板负载](SB_Load)：体现故事板需求的数值
+- [故事板负载](SB_load)：体现故事板需求的数值
 - [时间线](Timelines)：显示已放置物件、休息时段等等
