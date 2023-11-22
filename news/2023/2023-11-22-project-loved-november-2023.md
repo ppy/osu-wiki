@@ -227,7 +227,7 @@ Will you be one of the brave warriors to face bye-narity? Or will you stick to u
 160 BPM, 2:17 | 4.49★, 7.06★, 7.26★\
 *description written by [Boaz](https://osu.ppy.sh/users/13302996)*
 
-Let's go back in time with [Nyan](https://osu.ppy.sh/users/36102)'s [tarolabo - Kowatori](https://osu.ppy.sh/beatmapsets/593543#taiko), the infamous Taiko World Cup 2017 tech nomod pick! Despite its diabolic patterns and 1/6 usage, this map got picked in nearly every finals match back in 2017 and was never banned! If you know any tarolabo tracks, you will probably know what to expect, since this track is not any less complicated. Though, Nyan emphasized this very well with awkward patterns and a lot of 1/6 and 1/8 snappings.
+Let's go back in time with [Nyan](https://osu.ppy.sh/users/36102)'s [tarolabo - Kowatori](https://osu.ppy.sh/beatmapsets/593543#taiko), the infamous osu!taiko World Cup 2017 tech nomod pick! Despite its diabolic patterns and 1/6 usage, this map got picked in nearly every finals match back in 2017 and was never banned! If you know any tarolabo tracks, you will probably know what to expect, since this track is not any less complicated. Though, Nyan emphasized this very well with awkward patterns and a lot of 1/6 and 1/8 snappings.
 
 This set also featured an Oni for the lesser experienced players out there. The one special difficulty to really highlight here is the 2014 firetruck difficulty, which is much like the TWC inner oni but with many slider velocity and slider gimmicks. If you'd like an extra challenge, make sure to try that one out!
 
