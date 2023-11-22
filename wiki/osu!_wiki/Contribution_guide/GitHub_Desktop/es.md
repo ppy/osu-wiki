@@ -42,7 +42,7 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 
 1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
 2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
-3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
+3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
 ### Mover archivos existentes
@@ -87,4 +87,4 @@ Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una im
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#revisión) para obtener la última información sobre su solicitud de cambios y cambios.
+9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#review) para obtener la última información sobre su solicitud de cambios y cambios.
