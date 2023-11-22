@@ -53,8 +53,8 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 ## Links
 
-- [News Post]()
-- [Discussion Thread]()
+- [News Post](https://osu.ppy.sh/home/news/2023-11-24-4dmwc-registrations-open)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1848473)
 - [4DM Discord server](https://discord.gg/W2MQ647)
 - [4DM Youtube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Player Registrations](http://4dm-registrations.dannypx.com/)
