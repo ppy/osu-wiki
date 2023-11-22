@@ -42,7 +42,7 @@ Last but not least is the introduction of a new **Qualifier format**! When teams
 
 ## How do I register?
 
-To register, fill out the [following form](). Before doing so, please read and understand the following rules:
+To register, fill out the [following form](http://4dm-registrations.dannypx.com/). Before doing so, please read and understand the following rules:
 
 - **You must be within the 4 key rank range of #1,000-9,999** both when you submit your registration and until the end of the registration phase.
 - **You must not have violated the [osu! community rules](/wiki/en/Rules) in the past 12 months.**
