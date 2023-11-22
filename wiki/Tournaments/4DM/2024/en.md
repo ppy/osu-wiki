@@ -43,8 +43,8 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 | Coordinator | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) |
 | Consultant | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Mappool selector | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) |
-| Referee | ::{ flag=CN }:: [[GB]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [[GB]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [Akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675), ::{ flag=SE }:: [Logg45vs ](https://osu.ppy.sh/users/8684540), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895/), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
-| Streamer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=SE }:: [Logg45vs ](https://osu.ppy.sh/users/8684540), ::{ flag=NL }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Referee | ::{ flag=CN }:: [[GB]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [[GB]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [Akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895/), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Streamer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=NL }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
 | Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=SG }:: [ERA Adam](https://osu.ppy.sh/users/12297375), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990), ::{ flag=MY }:: [Gumi Fumo](https://osu.ppy.sh/users/1626983), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=US }:: [Pop06](https://osu.ppy.sh/users/22620088), ::{ flag=GB }:: [Rageinater](https://osu.ppy.sh/users/23151496), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895/), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
 | Designer | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
@@ -82,11 +82,13 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 1. The planned *unique profile badge* prize depends on 4DM2024's eligibility for [official tournament support](/wiki/Tournaments/Official_support). Players will be [screened](/wiki/Tournaments/Official_support#tournament-screening) by osu! staff and players found to be ineligible for tournament play will be denied entry. Consult [accounts@ppy.sh](mailto:accounts@ppy.sh) for appeals; if a failed screening result is retracted and a host is notified, the player will still be eligible for participation in the tournament.
 2. A [skill-based restriction system](https://4digitmwc.github.io/skillban-articles) developed and maintained by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) will be in effect in order to keep 4DM2024 fair to all players and as free of malicious sandbagging as possible. To see who is considered to be too skilled for the tournament by this system, see the skillban list (coming December 1st 2023).
+
   - This list of players shown on the sheet is subject to change until it has been sent to osu! staff for review. Any player appearing on this list may not sign up for 4DM2024.
 
 ### Teams
 
 1. Just like the official osu!mania World Cups, 4DM2024 will be a country-based team tournament.
+
   - The country flag displayed on the osu! profile determines which country a player may play for.
   - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on tournament competency.
   - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams is by January 5th at 23:59 UTC.
@@ -97,6 +99,7 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 #### Qualifiers
 
 1. After teams are selected, the first weekend of tournament play will be the qualifier stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of seven different qualifier maps **custom-made** by the map selection team, each meant to test a different skillset found in mappools throughout the tournament. These maps will be released approximately one week before the qualifiers, and follow the structure below:
+
   - Stage 1: SV
   - Stage 2: Rice - Easy
   - Stage 3: Rice - Hard
@@ -104,6 +107,7 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
   - Stage 5: Long Note - Medium
   - Stage 6: Hybrid - Medium
   - Stage 7: Hybrid - Hard
+
 2. Teams will be required to submit the order in which they would like to play the qualifiers beforehand. All stages must appear twice in the order. Teams will then play through the qualifier maps in the order submitted. The order may not be changed during the lobby. Teams will present three players to play each map (switching which three play between maps is allowed). Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975,000, 975,000, 980,000 on one run and then 980,000, 985,000, 970,000 on the next run, the 2nd run will be the one recorded because the total team score was higher.)
 3. Teams will be ranked based on the **score rating** of their qualifier performances, meaning that each team's performances on the seven qualifier maps will be compared against every other team. The ranks achieved are then summed together to form the score rating, where lower is better. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
 
@@ -136,12 +140,14 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
   5. The roll **winner picks** one Free Mod map.
 5. Once a team reaches half the required points to win the match (rounded up), the opposing team must ban another map from the pool.
 6. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+
   - For the first occurrence:
     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
   - On subsequent occurrences:
     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
     - Repeat offenders may receive further sanctions from the tournament management.
+
 7. After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 8. If both teams tie at match point, the tiebreaker map will be played, which determines the winner of the match.
 9. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, protect, pick, or ready for a beatmap. *The tactical timeout is optional.*

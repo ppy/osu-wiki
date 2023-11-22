@@ -8,7 +8,7 @@ The 5th edition of the 4 Digit osu!mania World Cup opens up. Because key-smashin
 
 ![](/wiki/Tournaments/4DM/2024/img/4dm2024-banner.jpg)
 
-With the [osu!mania World Cup 2023](/wiki/Tournaments/MWC/2023_4K/) now behind us, it's time for the up-and-coming rising stars all across the globe to shine! We encourage registering on the most ambitious iteration of the tournament ever conceived. And just like the rosters change with each year, what are the changes we're expected to see on the tournament this time around?
+With the [osu!mania World Cup 2023](/wiki/Tournaments/MWC/2023_4K) now behind us, it's time for the up-and-coming rising stars all across the globe to shine! We encourage registering on the most ambitious iteration of the tournament ever conceived. And just like the rosters change with each year, what are the changes we're expected to see on the tournament this time around?
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/oF8H1UmV0dI" frameborder="0" allowfullscreen></iframe>
