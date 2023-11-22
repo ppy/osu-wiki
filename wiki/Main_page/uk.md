@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <!-- Do not add any empty lines inside this div. -->
