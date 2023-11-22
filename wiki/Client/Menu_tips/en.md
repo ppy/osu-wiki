@@ -82,7 +82,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Spice your beatmap up by using Whistle, Finish and Clap hitsounds to punctuate certain points! Different sound samples can be used by checking out the Audio tab in the `Timing Setup` window (`F6`).
 - Zoom in on the timeline by hovering your mouse over it, holding `Alt`, and scrolling with the mouse wheel. You can also press the `+`/`-` buttons to the left of the timeline.
 - If you adjust timing after starting a map, don't forget to resnap objects through the [`Resnap All Notes`](/wiki/Client/Beatmap_editor/Menu#special-commands.3) option in the `Timing` dropdown menu. Watch out for unsnapped [inherited timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) though — they won't resnap!
-- Any [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
+- Any [pending](/wiki/Beatmap/Category#wip-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
 - When copying objects (`Ctrl` + `C`), the clipboard will contain the current time location and combo numbers of selected objects. This is especially useful for writing [map feedback](/wiki/Modding)!
 - Clicking and dragging a slider's end position in the timeline creates [slider repeat arrows](/wiki/Gameplay/Hit_object/Slider/Reverse_slider).
 
