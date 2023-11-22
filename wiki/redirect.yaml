@@ -1,4 +1,4 @@
-# yamllint disable rule:colons rule:quoted-strings
+# yamllint disable rule:colons
 
 asc:                           Article_styling_criteria
 asg:                           Article_styling_criteria
