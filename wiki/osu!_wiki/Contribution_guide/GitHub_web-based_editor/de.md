@@ -68,4 +68,4 @@ Artikel werden innerhalb von Ordnern mit dem originalen Text (`en.md`) und seine
 
 ## Die nächsten Schritte
 
-Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#selbstüberprüfung) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gib danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).
+Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#self-check) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gib danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).

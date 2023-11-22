@@ -38,7 +38,7 @@ Les fenêtres de timing pour les jugements peuvent être visualisées en passant
 
 | Score | Fenêtre de timing (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, sinon `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, sinon `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` si OD < 5, `80 + (50 - 80) * (OD - 5) / 5` si OD > 5, sinon `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` si OD < 5, `95 + (70 - 95) * (OD - 5) / 5` si OD > 5, sinon `95` |
 

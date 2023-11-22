@@ -36,7 +36,7 @@ Le finestre di colpo per i giudizi possono essere visualizzate passando col mous
 
 | Punteggio | Finestra di colpo (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` se OD < 5, `35 + (20 - 35) * (OD - 5) / 5` se OD > 5, altrimenti `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` se OD < 5, `35 + (20 - 35) * (OD - 5) / 5` se OD > 5, altrimenti `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` se OD < 5, `80 + (50 - 80) * (OD - 5) / 5` se OD > 5, altrimenti `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` se OD < 5, `95 + (70 - 95) * (OD - 5) / 5` se OD > 5, altrimenti `95` |
 

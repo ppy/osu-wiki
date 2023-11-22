@@ -252,6 +252,6 @@ chromb incorporated™ wishes everyone the best of luck in finding the answer to
 
 ## End word
 
-We hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the [osu!monthly team](/wiki/People/osu!monthly_team). Until next time!
+We hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the [osu!monthly team](/wiki/Community/osu!monthly#contributors). Until next time!
 
 —osu!monthly team

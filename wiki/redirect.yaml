@@ -279,8 +279,8 @@
 "touhosu!":                    "History_of_osu!/April_Fools#touhosu!"
 "touhousu!":                   "History_of_osu!/April_Fools#touhosu!"
 "glossary/touhosu!":           "History_of_osu!/April_Fools#touhosu!"
-"wip":                         "Beatmap/Category#work-in-progress-and-pending"
-"work_in_progress":            "Beatmap/Category#work-in-progress-and-pending"
+"wip":                         "Beatmap/Category#wip-and-pending"
+"work_in_progress":            "Beatmap/Category#wip-and-pending"
 
 "audio_editing":                          "Guides/Audio_editing"
 "beginner's_tutorial":                    "Guides/Beginner's_tutorial"
