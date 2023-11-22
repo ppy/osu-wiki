@@ -53,8 +53,8 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 ## Links
 
-- [News Post]()
-- [Discussion Thread]()
+- [News Post](https://osu.ppy.sh/home/news/2023-11-24-4dmwc-registrations-open)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1848473)
 - [4DM Discord server](https://discord.gg/W2MQ647)
 - [4DM Youtube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Player Registrations](http://4dm-registrations.dannypx.com/)
@@ -98,12 +98,12 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 1. After teams are selected, the first weekend of tournament play will be the qualifier stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of seven different qualifier maps **custom-made** by the map selection team, each meant to test a different skillset found in mappools throughout the tournament. These maps will be released approximately one week before the qualifiers, and follow the structure below:
   - Stage 1: SV
-  - Stage 2: Early Stage Rice
-  - Stage 3: Late Stage Rice
-  - Stage 4: Early Stage Long Note
-  - Stage 5: Middle Stage Long Note
-  - Stage 6: Middle Stage Hybrid
-  - Stage 7: Late Stage Hybrid
+  - Stage 2: Rice - Easy
+  - Stage 3: Rice - Hard
+  - Stage 4: Long Note - Easy
+  - Stage 5: Long Note - Medium
+  - Stage 6: Hybrid - Medium
+  - Stage 7: Hybrid - Hard
 2. Teams will be required to submit the order in which they would like to play the qualifiers beforehand. All stages must appear twice in the order. Teams will then play through the qualifier maps in the order submitted. The order may not be changed during the lobby. Teams will present three players to play each map (switching which three play between maps is allowed). Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975,000, 975,000, 980,000 on one run and then 980,000, 985,000, 970,000 on the next run, the 2nd run will be the one recorded because the total team score was higher.)
 3. Teams will be ranked based on the **score rating** of their qualifier performances, meaning that each team's performances on the seven qualifier maps will be compared against every other team. The ranks achieved are then summed together to form the score rating, where lower is better. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
 
@@ -170,3 +170,4 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
    1. Formal, documented warning.
    2. Timeout of player wherever necessary for a subjective amount of time (disallowing them from playing in tournament matches).
    3. Ban from the tournament as well as a ban from the official Discord server and Twitch channel.
+   
