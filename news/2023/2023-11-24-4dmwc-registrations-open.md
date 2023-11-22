@@ -56,6 +56,6 @@ To register, fill out the [following form](http://4dm-registrations.dannypx.com/
 
 On top of that, there will be a separate skill-banning phase that will bar players above a certain skill level from participating based on a purely mathematical procedure. Stay tuned in the server to know whether this will affect you or your team!
 
-To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647), checking the [forum post](), and reading the [wiki article](/wiki/Tournaments/4DM/2024) for more information. We're eager to see you all there!
+To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord Server](https://discord.gg/W2MQ647), checking the [forum post](https://osu.ppy.sh/community/forums/topics/1848473), and reading the [wiki article](/wiki/Tournaments/4DM/2024) for more information. We're eager to see you all there!
 
 —RandomeLoL & The 4DM Coordinator Team
