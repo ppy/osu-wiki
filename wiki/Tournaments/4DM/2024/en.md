@@ -69,14 +69,14 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 ### Registration
 
 1. In order to be eligible for this tournament, players must...
-  1. ...be within the osu!mania 4-key rank range of #1,000 and #9,999 both when they submit their registration form and until the end of the registration phase.
-  2. ...not have violated the osu! community rules in the past 12 months.
-  3. ...not exceed the global osu!mania rank of #250.
-  4. ...not have been part of a former winning 4 Digit MWC Team. (4DM1 winners are excluded from this.)
-  5. ...not appear on the skillbans list. Skillbans will be announced on the 1st of December 2023.
+   1. ...be within the osu!mania 4-key rank range of #1,000 and #9,999 both when they submit their registration form and until the end of the registration phase.
+   2. ...not have violated the osu! community rules in the past 12 months.
+   3. ...not exceed the global osu!mania rank of #250.
+   4. ...not have been part of a former winning 4 Digit MWC Team. (4DM1 winners are excluded from this.)
+   5. ...not appear on the skillbans list. Skillbans will be announced on the 1st of December 2023.
 2. To register for this tournament:
-  1. Submit the [player registration form](http://4dm-registrations.dannypx.com/).
-  2. Join the [4DM Discord server](https://discord.gg/W2MQ647). (Failure to join may result in disqualification.)
+   1. Submit the [player registration form](http://4dm-registrations.dannypx.com/).
+   2. Join the [4DM Discord server](https://discord.gg/W2MQ647). (Failure to join may result in disqualification.)
 
 ### Screening phase
 
@@ -133,21 +133,19 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
 2. Team captains will be invited to their match lobby by a referee no less than **five minutes** before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
 3. When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup.
 4. After warmups, both team captains will `!roll` for the highest roll in the lobby chat. This will decide the order of protects, bans, and picks as laid out below:
-  1. The roll **winner protects** one Free Mod map from being banned.
-  2. The roll **loser protects** one Free Mod map from being banned.
-  3. The roll **loser bans** one Free Mod map.
-  4. The roll **winner bans** one Free Mod map.
-  5. The roll **winner picks** one Free Mod map.
+   1. The roll **winner protects** one Free Mod map from being banned.
+   2. The roll **loser protects** one Free Mod map from being banned.
+   3. The roll **loser bans** one Free Mod map.
+   4. The roll **winner bans** one Free Mod map.
+   5. The roll **winner picks** one Free Mod map.
 5. Once a team reaches half the required points to win the match (rounded up), the opposing team must ban another map from the pool.
 6. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
-
-  - For the first occurrence:
-    - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
-  - On subsequent occurrences:
-    - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-    - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
-    - Repeat offenders may receive further sanctions from the tournament management.
-
+   - For the first occurrence:
+     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
+   - On subsequent occurrences:
+     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
+     - Repeat offenders may receive further sanctions from the tournament management.
 7. After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 8. If both teams tie at match point, the tiebreaker map will be played, which determines the winner of the match.
 9. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, protect, pick, or ready for a beatmap. *The tactical timeout is optional.*
@@ -159,8 +157,8 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
 15. Failed scores do not count towards a team's total score, however a score which fails and then revives will still count. (Use No Fail if you believe you are in jeopardy of failing a map!)
 16. If team scores are an exact tie at the conclusion of a map, the map will be replayed.
 17. If a team cannot gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the opposing team will be declared to win by default. If neither team can gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the team with the higher seed out of qualifiers will be declared to win by default.
-20. If a player disconnects in the middle of a match and the team cannot provide a replacement, the match can be delayed by up to 10 minutes before a win by default is declared to the opposing team.
-21. For additional rules left out of this section, please see the [Additional rules](#additional-rules) section below. As well, feel free to ask a host about any questions regarding rules or the tournament in general!
+18. If a player disconnects in the middle of a match and the team cannot provide a replacement, the match can be delayed by up to 10 minutes before a win by default is declared to the opposing team.
+19. For additional rules left out of this section, please see the [Additional rules](#additional-rules) section below. As well, feel free to ask a host about any questions regarding rules or the tournament in general!
 
 ### Additional rules
 
@@ -176,4 +174,3 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
    1. Formal, documented warning.
    2. Timeout of player wherever necessary for a subjective amount of time (disallowing them from playing in tournament matches).
    3. Ban from the tournament as well as a ban from the official Discord server and Twitch channel.
-   
