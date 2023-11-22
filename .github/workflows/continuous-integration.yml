@@ -1,6 +1,6 @@
 name: osu-wiki continuous integration
 
-on:
+"on":
   pull_request:
     branches:
       - master
@@ -51,7 +51,7 @@ jobs:
           path: node_modules
           key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: 'if cache is outdated: install node.js dependencies'
+      - name: "if cache is outdated: install node.js dependencies"
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
@@ -69,7 +69,7 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt

@@ -1,3 +1,5 @@
+# yamllint disable rule:colons rule:quoted-strings
+
 "asc":                           "Article_styling_criteria"
 "asg":                           "Article_styling_criteria"
 "asc/images":                    "Article_styling_criteria#images"
@@ -1151,7 +1153,6 @@
 "mg":             "Community/Mappers_Guild"
 "mappers_guild":  "Community/Mappers_Guild"
 
-
 # Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
 
@@ -1370,7 +1371,6 @@
 
 # Moved "Live_Streaming_osu!" to "Livestreaming_osu!"
 "guides/live_streaming_osu!": "Guides/Livestreaming_osu!"
-
 
 # Moved "Beatmap_Packs_0916" to "Legacy_Beatmap_Packs"
 "medals/beatmap_packs_0916": "Medals/Legacy_beatmap_packs"

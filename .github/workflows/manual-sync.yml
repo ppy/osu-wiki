@@ -1,6 +1,6 @@
 name: Sync with ppy:master
 
-on:
+"on":
   workflow_dispatch:
     inputs:
       backup:
