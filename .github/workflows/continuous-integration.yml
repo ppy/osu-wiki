@@ -51,7 +51,7 @@ jobs:
           path: node_modules
           key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: 'if cache is outdated: install node.js dependencies'
+      - name: "if cache is outdated: install node.js dependencies"
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
@@ -69,15 +69,13 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt
 
       - name: run yamllint on .yaml and .md files
-        run: |
-          readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-          osu-wiki-tools check-yaml --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
+        run: osu-wiki-tools check-yaml
 
       - name: find broken wikilinks
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}

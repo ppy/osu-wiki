@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting"
+title: Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting
 date: 2022-07-28 17:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "triangles Beatmapping Contest"
+title: triangles Beatmapping Contest
 date: 2022-05-31 06:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2018 Descends!"
+title: Halloween 2018 Descends!
 date: 2018-10-23 10:30:00 +0000
 ---
 

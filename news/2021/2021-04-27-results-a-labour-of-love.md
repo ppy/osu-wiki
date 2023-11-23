@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - A Labour of Love"
+title: Results - A Labour of Love
 date: 2021-04-27 20:00:00 +0000
 ---
 

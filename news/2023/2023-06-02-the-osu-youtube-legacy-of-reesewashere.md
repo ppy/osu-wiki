@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The osu! YouTube legacy of ReeseWasHere"
+title: The osu! YouTube legacy of ReeseWasHere
 date: 2023-06-02 22:00:00 +0000
 ---
 

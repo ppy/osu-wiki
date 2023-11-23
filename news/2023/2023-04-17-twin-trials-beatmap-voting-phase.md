@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twin Trials - Beatmap Voting Phase"
+title: Twin Trials - Beatmap Voting Phase
 date: 2023-04-17 00:00:00 +0000
 ---
 

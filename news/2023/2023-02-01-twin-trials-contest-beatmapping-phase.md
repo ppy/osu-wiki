@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twin Trials - Beatmapping Phase"
+title: Twin Trials - Beatmapping Phase
 date: 2023-02-01 09:00:00 +0000
 ---
 

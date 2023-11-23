@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Results"
+title: osu!mania 4K World Cup - Results
 date: 2017-09-26 11:00:00 +0000
 ---
 

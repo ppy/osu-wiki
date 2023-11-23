@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter Sports 2020 Fanart Contest Voting Open!"
+title: Winter Sports 2020 Fanart Contest Voting Open!
 date: 2020-11-24 10:00:00 +0000
 ---
 

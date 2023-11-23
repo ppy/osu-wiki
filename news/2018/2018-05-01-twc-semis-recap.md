@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Semifinals Recap"
+title: osu!taiko World Cup - Semifinals Recap
 date: 2018-05-05 10:30:00 +0000
 ---
 
