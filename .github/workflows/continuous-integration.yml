@@ -80,9 +80,7 @@ jobs:
       - name: find broken wikilinks
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
         shell: bash
-        run: |
-          readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
-          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
+        run: osu-wiki-tools check-links --all
 
       - name: check if translations are marked as outdated
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
