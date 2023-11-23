@@ -7,7 +7,7 @@ tags:
 
 # 4 Digit osu!mania World Cup 2024
 
-![4DM2024 logo](img/4dm2024-banner.jpg)
+![4DM2024 banner](img/4dm2024-banner.jpg)
 
 The **4 Digit osu!mania World Cup 2024** (***4DM2024***) is a worldwide double-elimination 3v3 osu!mania 4-key tournament hosted by ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) and ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656). Only players ranked between #1,000 and #9,999 may participate. It is the sixth instalment of the 4 Digit osu!mania World Cup.
 
@@ -15,7 +15,7 @@ The **4 Digit osu!mania World Cup 2024** (***4DM2024***) is a worldwide double-e
 
 | Event | Timestamp |
 | --: | :-- |
-| Player registration phase | 2023-11-24/2023-12-16 |
+| Registration phase | 2023-11-24/2023-12-16 |
 | Screening phase | 2023-12-16/2024-12-24 |
 | Team captain announcement | 2024-12-24 |
 | Qualifiers | 2024-01-13/2024-01-14 |
@@ -53,12 +53,12 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 ## Links
 
-- [News Post](https://osu.ppy.sh/home/news/2023-11-24-4dmwc-registrations-open)
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1848473)
+- [Announcement post](https://osu.ppy.sh/home/news/2023-11-24-4dmwc-registrations-open)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1848473)
 - [4DM Discord server](https://discord.gg/W2MQ647)
-- [4DM Youtube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Player Registrations](http://4dm-registrations.dannypx.com/)
-- [Staff Applications](https://forms.gle/ob5i22KF3GjDMnai6)
+- [4DM YouTube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
+- [Player pegistrations](http://4dm-registrations.dannypx.com/)
+- [Staff applications](https://forms.gle/ob5i22KF3GjDMnai6)
 - [Livestream](https://www.twitch.tv/4digitmwc)
 - [Tournament bracket](https://challonge.com/4DM2024)
 - Spreadsheets
@@ -70,9 +70,9 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 1. In order to be eligible for this tournament, players must...
    1. ...be within the osu!mania 4-key rank range of #1,000 and #9,999 both when they submit their registration form and until the end of the registration phase.
-   2. ...not have violated the osu! community rules in the past 12 months.
+   2. ...not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
    3. ...not exceed the global osu!mania rank of #250.
-   4. ...not have been part of a former winning 4 Digit MWC Team. (4DM1 winners are excluded from this.)
+   4. ...not have been part of a former winning 4DM team. (4DM1 winners are excluded from this.)
    5. ...not appear on the skillbans list. Skillbans will be announced on the 1st of December 2023.
 2. To register for this tournament:
    1. Submit the [player registration form](http://4dm-registrations.dannypx.com/).
@@ -82,38 +82,34 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 1. The planned *unique profile badge* prize depends on 4DM2024's eligibility for [official tournament support](/wiki/Tournaments/Official_support). Players will be [screened](/wiki/Tournaments/Official_support#tournament-screening) by osu! staff and players found to be ineligible for tournament play will be denied entry. Consult [accounts@ppy.sh](mailto:accounts@ppy.sh) for appeals; if a failed screening result is retracted and a host is notified, the player will still be eligible for participation in the tournament.
 2. A [skill-based restriction system](https://4digitmwc.github.io/skillban-articles) developed and maintained by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) will be in effect in order to keep 4DM2024 fair to all players and as free of malicious sandbagging as possible. To see who is considered to be too skilled for the tournament by this system, see the skillban list (coming December 1st 2023).
-
-  - This list of players shown on the sheet is subject to change until it has been sent to osu! staff for review. Any player appearing on this list may not sign up for 4DM2024.
+   - This list of players shown on the sheet is subject to change until it has been sent to osu! staff for review. Any player appearing on this list may not sign up for 4DM2024.
 
 ### Teams
 
 1. Just like the official osu!mania World Cups, 4DM2024 will be a country-based team tournament.
-
-  - The country flag displayed on the osu! profile determines which country a player may play for.
-  - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on tournament competency.
-  - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams is by January 5th at 23:59 UTC.
-  - Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
+   - The country flag displayed on the osu! profile determines which country a player may play for.
+   - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on tournament competency.
+   - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams is by January 5th at 23:59 UTC.
+   - Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
 
 ### Structure
 
 #### Qualifiers
 
-1. After teams are selected, the first weekend of tournament play will be the qualifier stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of seven different qualifier maps **custom-made** by the map selection team, each meant to test a different skillset found in mappools throughout the tournament. These maps will be released approximately one week before the qualifiers, and follow the structure below:
-
-  - Stage 1: SV
-  - Stage 2: Rice - Easy
-  - Stage 3: Rice - Hard
-  - Stage 4: Long Note - Easy
-  - Stage 5: Long Note - Medium
-  - Stage 6: Hybrid - Medium
-  - Stage 7: Hybrid - Hard
-
-2. Teams will be required to submit the order in which they would like to play the qualifiers beforehand. All stages must appear twice in the order. Teams will then play through the qualifier maps in the order submitted. The order may not be changed during the lobby. Teams will present three players to play each map (switching which three play between maps is allowed). Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975,000, 975,000, 980,000 on one run and then 980,000, 985,000, 970,000 on the next run, the 2nd run will be the one recorded because the total team score was higher.)
-3. Teams will be ranked based on the **score rating** of their qualifier performances, meaning that each team's performances on the seven qualifier maps will be compared against every other team. The ranks achieved are then summed together to form the score rating, where lower is better. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
+1. After teams are selected, the first weekend of tournament play will be the Qualifier stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of seven different Qualifier maps **custom-made** by the map selection team, each meant to test a different skillset found in mappools throughout the tournament. These maps will be released approximately one week before the Qualifiers, and follow the structure below:
+   - Stage 1: SV
+   - Stage 2: Rice - Easy
+   - Stage 3: Rice - Hard
+   - Stage 4: Long Note - Easy
+   - Stage 5: Long Note - Medium
+   - Stage 6: Hybrid - Medium
+   - Stage 7: Hybrid - Hard
+2. Teams will be required to submit the order in which they would like to play the Qualifiers beforehand. All stages must appear twice in the order. Teams will then play through the Qualifier maps in the order submitted. The order may not be changed during the lobby. Teams will present three players to play each map (switching which three play between maps is allowed). Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975,000, 975,000, 980,000 on one run and then 980,000, 985,000, 970,000 on the next run, the 2nd run will be the one recorded because the total team score was higher.)
+3. Teams will be ranked based on the **score rating** of their Qualifier performances, meaning that each team's performances on the seven Qualifier maps will be compared against every other team. The ranks achieved are then summed together to form the score rating, where lower is better. Essentially, a team's Qualifier performance is ranked based on how well they perform compared to every other participating team.
 
 #### Bracket stage
 
-1. After the qualifier stage, the remaining 32 teams will be placed into a double-elimination bracket in a predetermined order where the rank 1 player faces rank 32, rank 2 faces rank 31, etc.
+1. After the Qualifier stage, the remaining 32 teams will be placed into a double-elimination bracket in a predetermined order where the rank 1 player faces rank 32, rank 2 faces rank 31, etc.
 2. Each stage has a different win condition and mappool size. Mappools will be released approximately one week prior to their respective stages. The details for it are as follows:
 
 | Stage | Format | Mappool size |
@@ -127,7 +123,7 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 
 ### Match procedures
 
-NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!mania World Cup](/wiki/Tournaments/MWC/2023_4K).
+*Note: Staff will attempt to closely follow the rules of [the most recent 4K osu!mania World Cup](/wiki/Tournaments/MWC/2023_4K).*
 
 1. Team captains will be notified of their match via ping on Discord by the referee of their match 15 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4K map and must be no longer than **4:00**. Referees may refuse a team's warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in the team skipping their warmup map.
 2. Team captains will be invited to their match lobby by a referee no less than **five minutes** before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
@@ -150,27 +146,27 @@ NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!
 8. If both teams tie at match point, the tiebreaker map will be played, which determines the winner of the match.
 9. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, protect, pick, or ready for a beatmap. *The tactical timeout is optional.*
 10. If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
-11. Matches will be played with `Team VS` mode on `ScoreV2`.
+11. Matches will be played with `Team VS` mode on ScoreV2.
 12. The Red Team will occupy slots 1–3, and the Blue Team will occupy slots 4–6.
 13. All maps will be played under Free Mod conditions. Allowed mods are No Fail, Hidden, Fade In, Flashlight, and Mirror
 14. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch. If this rematch happens, the rosters on both teams must stay the same unless the disconnected player cannot return to the lobby, in which case both teams are allowed to switch rosters.
-15. Failed scores do not count towards a team's total score, however a score which fails and then revives will still count. (Use No Fail if you believe you are in jeopardy of failing a map!)
+15. Failed scores do not count towards a team's total score. However, a score that fails and then revives will still count. (Use No Fail if you believe you are in jeopardy of failing a map!)
 16. If team scores are an exact tie at the conclusion of a map, the map will be replayed.
-17. If a team cannot gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the opposing team will be declared to win by default. If neither team can gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the team with the higher seed out of qualifiers will be declared to win by default.
+17. If a team cannot gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the opposing team will be declared to win by default. If neither team can gather 3 members into the match lobby 10 minutes after the match's scheduled start time, the team with the higher seed out of Qualifiers will be declared to win by default.
 18. If a player disconnects in the middle of a match and the team cannot provide a replacement, the match can be delayed by up to 10 minutes before a win by default is declared to the opposing team.
 19. For additional rules left out of this section, please see the [Additional rules](#additional-rules) section below. As well, feel free to ask a host about any questions regarding rules or the tournament in general!
 
 ### Additional rules
 
 1. The tournament hosts are responsible for scheduling all matches and informing players of when they are scheduled to play. If a team is unhappy with when they are scheduled by the hosts to play, they have the option to reschedule their match as late as the end of **Thursday of the week before the weekend** of their match. Instructions on how to do so will be provided in the Discord server.
-2. Please note that while the organisers will try to schedule all matches for the best possible time for both teams, timezone conflicts may force some matches to occur in the early mornings or late nights.
+2. Please note that while the organisers will try to schedule all matches for the best possible time for both teams, time zone conflicts may force some matches to occur in the early mornings or late nights.
 3. If no referee is available to referee a match, the match will be postponed.
 4. If no streamers are available to broadcast the match, the match will still occur without being broadcast.
 5. If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcast but without commentary. Please note that organisers will try to broadcast every match possible.
 6. Rescheduled matches will be prioritised under non-rescheduled matches in terms of being broadcast.
-7. Each respective stage of the tournament is to be completed in a single weekend, using the same mappool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. Mappools will be released roughly a week before the stage they are to be played on. The latest a map in a released mappool may be slightly updated (e.g. as to fixing a notable timing or snapping issue) is by **23:59 UTC of the Monday after the mappool is released**.
-8. If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multi-accounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
-9. Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host's discretion to skip certain steps:
+7. Each stage of the tournament is to be completed in a single weekend, using the same mappool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of the scheduled stage. Mappools will be released roughly a week before the stage they are to be played on. The latest a map in a released mappool may be slightly updated (e.g. as to fixing a notable timing or snapping issue) is by **23:59 UTC of the Monday after the mappool is released**.
+8. If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multi-accounting, or anything else, the player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of the former match will be voided.
+9. Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official Discord server, or the official Twitch channel chatroom is strictly prohibited and will lead to, in successive order with host's discretion to skip certain steps:
    1. Formal, documented warning.
    2. Timeout of player wherever necessary for a subjective amount of time (disallowing them from playing in tournament matches).
    3. Ban from the tournament as well as a ban from the official Discord server and Twitch channel.
