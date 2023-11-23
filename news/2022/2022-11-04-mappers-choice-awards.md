@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mappers' Choice Awards / A Year In Mapping 2021"
+title: Mappers' Choice Awards / A Year In Mapping 2021
 date: 2022-11-04 10:00:00 +0000
 ---
 

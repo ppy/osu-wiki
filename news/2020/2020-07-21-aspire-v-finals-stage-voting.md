@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - Finals Stage Voting"
+title: Aspire V - Finals Stage Voting
 date: 2020-07-22 21:00:00 +0000
 ---
 

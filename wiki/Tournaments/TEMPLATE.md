@@ -1,5 +1,5 @@
 ---
-tags:
+tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
   - {SHORT_TITLE}
   - {SERIES_SHORT_TITLE}
 ---

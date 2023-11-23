@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - Final Results"
+title: Aspire V - Final Results
 date: 2020-08-23 12:00:00 +0000
 ---
 

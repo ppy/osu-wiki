@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Finals Recap!"
+title: osu!taiko World Cup - Finals Recap!
 date: 2018-05-18 05:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping With Rewards Returns"
+title: Mapping With Rewards Returns
 date: 2017-09-23 12:00:00 +0000
 ---
 

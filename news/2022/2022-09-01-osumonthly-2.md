@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, August 2022"
+title: osu!monthly, August 2022
 date: 2022-09-01 10:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Roundtable II Qualifier Tournament"
+title: The Roundtable II Qualifier Tournament
 date: 2022-12-31 05:00:00 +0000
 ---
 

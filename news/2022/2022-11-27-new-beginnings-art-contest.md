@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Beginnings Art Contest"
+title: New Beginnings Art Contest
 date: 2022-11-27 10:00:00 +0000
 ---
 

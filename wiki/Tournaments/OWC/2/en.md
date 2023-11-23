@@ -1,6 +1,6 @@
 ---
 tags:
-  - OWC #2
+  - "OWC #2"
   - OWC 2
   - OWC#2
   - OWC2

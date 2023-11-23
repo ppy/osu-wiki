@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Theme Park 2020 Fanart Contest Results"
+title: Summer Theme Park 2020 Fanart Contest Results
 date: 2020-07-23 11:00:00 +0000
 ---
 

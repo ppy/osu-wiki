@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - triangles"
+title: Results - triangles
 date: 2022-10-06 04:00:00 +0000
 ---
 

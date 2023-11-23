@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Spring 2022 Signups Now Open"
+title: Community Mentorship Program Spring 2022 Signups Now Open
 date: 2022-03-27 14:00:00 +0000
 ---
 

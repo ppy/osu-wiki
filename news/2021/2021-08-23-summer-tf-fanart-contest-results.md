@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2021 Track and Field Fanart Contest Results"
+title: Summer 2021 Track and Field Fanart Contest Results
 date: 2021-08-23 12:00:00 +0000
 ---
 

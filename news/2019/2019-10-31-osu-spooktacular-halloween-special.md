@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Spooktacular Halloween Special"
+title: osu! Spooktacular Halloween Special
 date: 2019-10-30 13:00:00 +0000
 ---
 

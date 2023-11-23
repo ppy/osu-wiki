@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2019 Concludes"
+title: osu!taiko World Cup 2019 Concludes
 date: 2019-05-28 17:00:00 +0000
 ---
 

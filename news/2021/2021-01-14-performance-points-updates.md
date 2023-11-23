@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points Updates"
+title: Performance Points Updates
 date: 2021-01-16 05:00:00 +0000
 ---
 

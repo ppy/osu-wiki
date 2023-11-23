@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup - ro16 Recap"
+title: osu!mania 7K World Cup - ro16 Recap
 date: 2018-02-23 00:30:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Quarterfinals Recap"
+title: osu!taiko World Cup - Quarterfinals Recap
 date: 2018-04-26 18:00:00 +0000
 ---
 

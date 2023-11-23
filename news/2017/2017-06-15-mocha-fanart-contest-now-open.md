@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mocha in Summer Fanart Contest Begins!"
+title: Mocha in Summer Fanart Contest Begins!
 date: 2017-06-14 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 ---

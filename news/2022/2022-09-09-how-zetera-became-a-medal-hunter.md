@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Zetera became a Medal Hunter"
+title: How Zetera became a Medal Hunter
 date: 2022-09-09 22:00:00 +0000
 ---
 

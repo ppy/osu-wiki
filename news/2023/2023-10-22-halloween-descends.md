@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2023 Descends"
+title: Halloween 2023 Descends
 date: 2023-10-22 19:00:00 +0000
 ---
 

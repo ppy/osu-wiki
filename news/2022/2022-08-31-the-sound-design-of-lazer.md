@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sound Design of osu!(lazer)"
+title: The Sound Design of osu!(lazer)
 date: 2022-08-14 08:00:00 +0000
 ---
 

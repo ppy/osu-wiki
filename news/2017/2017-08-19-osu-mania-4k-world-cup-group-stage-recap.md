@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Group Stage Recap"
+title: osu!mania 4K World Cup - Group Stage Recap
 date: 2017-08-19 08:00:00 +0000
 ---
 

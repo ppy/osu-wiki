@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Place To Belong Fanart Contest Voting Open"
+title: A Place To Belong Fanart Contest Voting Open
 date: 2022-04-28 11:00:00 +0000
 ---
 
