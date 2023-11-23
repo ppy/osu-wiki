@@ -1,6 +1,6 @@
 name: refresh node_modules cache
 
-"on":
+on:
   push:
     branches:
       - master

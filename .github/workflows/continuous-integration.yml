@@ -1,6 +1,6 @@
 name: osu-wiki continuous integration
 
-"on":
+on:
   pull_request:
     branches:
       - master
