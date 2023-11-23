@@ -124,15 +124,15 @@ Algunas características no están directamente relacionadas con el sitio web de
 
 ## Rutinas
 
-*Nota: el sitio web de [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.*
+*Nota: el sitio web del [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.*
 
-La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los mantenedores y otros contribuidores haciendo su parte. Para obtener información sobre cómo hacerlo, lee la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los mantenedores y otros contribuidores haciendo tu parte. Para obtener información sobre cómo hacerlo, lee la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ### Traducciones
 
 *Para obtener una lista de las traducciones y su integridad, véase: [estado de la osu-wiki](https://osu.wiki/status/es)*
 
-La osu! wiki es leída por personas de todo el mundo. Para ayudar a tu comunidad local y atraer nuevos increíbles jugadores, mappers, modders y desarrolladores del juego, puedes traducir artículos en inglés o actualizar las traducciones existentes que se han quedado atrás. Consulta la [lista de idiomas](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales) compatibles con la osu! wiki y asegúrese de que su traducción siga el principio de [paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido). Si hablas con fluidez y eres un escritor experimentado, aborda temas clave como artículos sobre [reglas](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) o [criterios de clasificación](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). En caso de que recién estés comenzando tu carrera como escritor, elige un artículo pequeño para recibir ayuda y orientación de revisores nativos.
+La osu! wiki es leída por personas de todo el mundo. Para ayudar a tu comunidad local y atraer nuevos increíbles jugadores, mappers, modders y desarrolladores del juego, puedes traducir artículos en inglés o actualizar las traducciones existentes que se han quedado atrás. Consulta la [lista de idiomas](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales) compatibles con la osu! wiki y asegúrate de que tu traducción siga el principio de [paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido). Si hablas con fluidez y eres un escritor experimentado, aborda temas clave como los artículos sobre las [reglas](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) o los [criterios de clasificación](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). En caso de que recién estés comenzando tu carrera como escritor, elige un artículo pequeño para recibir ayuda y orientación de revisores nativos.
 
 Una traducción puede fusionarse sin una revisión nativa si ha pasado más de una semana desde su fecha de creación.
 
@@ -154,4 +154,4 @@ osu! es un entorno en constante cambio: la comunidad crea nuevos beatmaps, inven
 
 *Para conocer el posible alcance del trabajo, véase: [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
-Los artículos existentes también necesitan mantenimiento. Si has encontrado un error de hecho, o faltan detalles, o si simplemente quieres reescribir/ampliar el artículo de acuerdo con la realidad, da un paso adelante y haz la osu! wiki un lugar mejor. En caso de que el cambio que planes sea lo suficientemente grande o significativo, asegúrate de mencionarlo para su discusión en el canal `#osu-wiki` o [crea un problema de seguimiento](https://github.com/ppy/osu-wiki/issues/new).
+Los artículos existentes también necesitan mantenimiento. Si has encontrado un error, o faltan detalles, o si simplemente quieres reescribir/ampliar el artículo de acuerdo con la realidad, da un paso adelante y haz la osu! wiki un lugar mejor. En caso de que el cambio que planees sea lo suficientemente grande o significativo, asegúrate de mencionarlo para su discusión en el canal `#osu-wiki` o [crea un problema de seguimiento](https://github.com/ppy/osu-wiki/issues/new).
