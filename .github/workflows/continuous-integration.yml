@@ -79,7 +79,6 @@ jobs:
 
       - name: find broken wikilinks
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        shell: bash
         run: osu-wiki-tools check-links --all
 
       - name: check if translations are marked as outdated

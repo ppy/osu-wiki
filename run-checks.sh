@@ -108,7 +108,7 @@ function main() {
 
   _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --target" .
 
-  # TODO: _test_wrapper expects a third argument but luckily --all overrides --target
+  # TODO: _test_wrapper expects a third argument but luckily --all overrides --target. please rewrite to make this prettier
   _test_wrapper "link" "_docker osu-wiki-tools check-links --all --target" "${interesting_articles}"
   _test_wrapper "article freshness" "_docker osu-wiki-tools check-outdated-articles --workflow --base-commit" "${first_commit_hash}"
 }
