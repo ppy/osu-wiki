@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # Maintenance de l'osu! wiki
 
 *Voir également : [Guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
@@ -40,7 +45,7 @@ Selon les [[RC]], ceci est interdit.
 
 Lorsque vous ajoutez des redirections pour un article nouveau ou existant, gardez à l'esprit qu'elles doivent être concises et conçues pour une utilisation réelle.
 
-### CI checks
+### CI checks {id=ci-checks}
 
 Le dépôt osu! wiki utilise une [continuous integration](https://docs.github.com/fr/actions/automating-builds-and-tests/about-continuous-integration) (CI) pour vérifier automatiquement les pull requests entrantes afin de détecter diverses erreurs courantes. La liste des vérifications est configurée dans le fichier [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 

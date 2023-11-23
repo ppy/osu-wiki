@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, January 2023"
+title: osu!monthly, January 2023
 date: 2023-02-10 19:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Welcome to the 7th edition of osu!monthly! It is hard to believe that it has bee
 
 This one came out a little later than usual due to unexpected delays, so thank you for being patient.
 
-The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter. Instead, it has now been transformed into a permanent [osu! wiki page](/wiki/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter.
+The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter. Instead, it has now been transformed into a permanent [osu! wiki page](/wiki/Community/osu!monthly#contributors) listing the "osu!monthly team" that'll be used to sign the newsletter.
 
 If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](/wiki/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
 

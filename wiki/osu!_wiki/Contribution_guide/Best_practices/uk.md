@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
 ---
 
 # Найкращі практики
@@ -34,6 +36,8 @@ no_native_review: true
 2. У `Workflows`, знайдіть `Sync from osu! upstream`.
 3. Натисніть `Run workflow` і заповніть опції:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
 
 - **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
@@ -45,6 +49,8 @@ no_native_review: true
   - `false` (за замовчуванням): не робити ніяких резервних копій.
 
 4. Натисніть кнопку `Run Workflow` і зачекайте поки workflow зробить все необхідне. Якщо вам цікаво як це працює, натисніть на завдання workflow — `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
 

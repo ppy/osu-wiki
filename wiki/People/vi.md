@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
+---
+
 # Mọi người
 
 Trang chỉ mục cho những bài viết về những người hay nhóm.
@@ -28,7 +33,6 @@ Trang chỉ mục cho những bài viết về những người hay nhóm.
 - [Đội ngũ Đánh giá Beatmap](Beatmap_Appreciation_Team)
 - [Bộ phận giám sát Ngôn ngữ](Language_Surveillance_Division)
 - [Đội ngũ hỗ trợ Mapping](Mapping_Assistance_Team)
-- [Đội ngũ hàng tháng osu!](osu!monthly_team)
 - [Đội ngũ đảm bảo chất lượng](Quality_Assurance_Team)
 
 ## Khác

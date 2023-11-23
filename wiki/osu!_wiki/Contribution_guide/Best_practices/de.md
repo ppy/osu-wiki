@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Bewährte Methoden
 
 Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledigen sind. Die hier verfolgten Ansätze sind dazu gedacht, den Prozess einfacher zu machen und können auch auf andere Projekte angewandt werden, die auf GitHub oder einer ähnlichen Plattform untergebracht sind.
@@ -30,6 +35,8 @@ Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stö�
 2. Schaue unter `Workflows` nach `Sync from osu! upstream`.
 3. Klicke auf `Run workflow` und fülle die Optionen aus:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
 - **Use workflow from**: Name des Branches, der synchronisiert werden soll. Standardmäßig ist das auf `master` eingestellt.
@@ -41,6 +48,8 @@ Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stö�
   - `false` (Standard): Kreiert keine Backups.
 
 4. Klicke auf den Button `Run Workflow` und warte ab, bis der Workflow abgeschlossen ist. Wenn du wissen möchtest, wie das Tool funktioniert, klicke auf die Workflow-Aufgabe `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 

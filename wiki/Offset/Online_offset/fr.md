@@ -8,7 +8,7 @@ tags:
 
 *Pour d'autres utilisations, voir [Offset](/wiki/Offset).*
 
-L'**online offset** (ou décalage en ligne) est un décalage qui peut être appliqué à une [beatmap](/wiki/Beatmap) après son [classement](/wiki/Beatmap/Category#classée) initial. C'est généralement le cas lorsqu'une beatmap a besoin de petits changements de [timing](/wiki/Beatmapping/Timing) pour s'aligner correctement avec la musique. Les valeurs d'online offset sont appliquées en plus des valeurs de l'[offset universel](/wiki/Offset/Universal_offset) et de l'[offset local](/wiki/Offset/Local_offset) du joueur.
+L'**online offset** (ou décalage en ligne) est un décalage qui peut être appliqué à une [beatmap](/wiki/Beatmap) après son [classement](/wiki/Beatmap/Category#ranked) initial. C'est généralement le cas lorsqu'une beatmap a besoin de petits changements de [timing](/wiki/Beatmapping/Timing) pour s'aligner correctement avec la musique. Les valeurs d'online offset sont appliquées en plus des valeurs de l'[offset universel](/wiki/Offset/Universal_offset) et de l'[offset local](/wiki/Offset/Local_offset) du joueur.
 
 ## Comportement
 

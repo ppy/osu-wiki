@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # 모범 사례
 
 이 페이지에서는 위키에 기여하는 동안 직면할 수 있는 몇가지 것들에 대해 설명합니다. 여기에 언급된 내용은 작업을 더 쉽게 만들기 위해 작성되었으며, GitHub 또는 유사한 플랫폼에서 호스팅되는 프로젝트에 적용할수도 있습니다.
@@ -30,6 +35,8 @@ GitHub에 있는 저장소를 변경하려면 *Fork*라고 불리는 제어된 �
 2. `Workflows`에서 `Sync from osu! upstream` 항목을 찾으세요.
 3. `Run workflow`를 클릭하고 추가적인 내용을 채워 넣으세요:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
 - **Use workflow form**: 동기화를 원하는 branch의 이름을 적으세요. 기본적으로 `master`로 설정되어 있습니다.
@@ -38,9 +45,11 @@ GitHub에 있는 저장소를 변경하려면 *Fork*라고 불리는 제어된 �
   - `false` (기본값): 변경한 내용을 `ppy/osu-wiki`의 내용과 복사합니다.
 - **Create a backup of your target branch**:
   - `true`: 변경하기 전 내용을 `backup-{선택한 branch}`이라는 branch로 백업합니다.
-  - `false` (기본값): 백업을 만들지 않습니다. 
+  - `false` (기본값): 백업을 만들지 않습니다.
 
 4. `Run Workflow` 버튼을 누르고 작업이 완료 될 때까지 기다리세요. 이 기능이 어떻게 작동되는지 궁금하다면 `Sync from osu! upstream` 워크플로우 작업을 클릭하시면 됩니다.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 

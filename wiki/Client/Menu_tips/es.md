@@ -8,7 +8,6 @@ tags:
   - consejos
   - pista
   - pistas
-no_native_review: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -22,7 +21,7 @@ Este artículo enumera los diversos consejos que se ven en el juego, que contien
 Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/Interface#menú-principal).
 
 - Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
-- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selección-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
+- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selector-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
 - Pulsa `F8`/`F9` en cualquier momento para unirte al [chat](/wiki/Client/Interface/Chat_console) de osu!.
 - Haciendo clic derecho en un beatmap o haciendo clic en el botón `Beatmap Options` en el listado de selección de canciones se desplegará un menú que te permite gestionar el beatmap.
 - Si [notas ralentizaciones](/wiki/Performance_troubleshooting) al jugar, puedes modificar el `límite de fotogramas por segundo`[^frame-limiter] en el [menú de opciones](/wiki/Client/Options) y activar el modo `Pantalla completa`/`Panorámica con bandas`. Podría ayudar.
@@ -35,7 +34,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - ¿Sabías que puedes cargar nuevos beatmaps haciendo doble clic en un archivo `osz` o arrastrándolo a la ventana de osu!?
 - Puedes exportar una [repetición](/wiki/Gameplay/Replay) tanto online como local pulsando `F2` en la [pantalla del ranking](/wiki/Client/Interface#pantalla-de-resultados).
 - Si te parece que el ritmo está descompensado en todos los beatmaps que juegas, intenta ajustar la `compensación global` en las `opciones`.
-- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selección-de-canciones).
+- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 - Puedes hacer que el chat se oculte automáticamente cuando juegas. Busca esta función en la esquina inferior derecha de la pantalla, cuando el chat esté abierto.
 - Puedes ajustar el volumen con la rueda del ratón en cualquier momento. Esta opción puede deshabilitarse desde el menú de configuración.
 - Puedes poner la partida en pausa pulsando el botón central del ratón. Esta opción puede deshabilitarse desde el menú de configuración.
@@ -49,12 +48,12 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Pulsa `F5` en el menú de selección de canciones para actualizar la lista de beatmaps.
 - Pulsa `Shift` + `F12` para hacer una captura de pantalla y subirla automáticamente a Internet.
 - Puedes configurar las teclas que utilizas para jugar en el menú `Opciones` > `Controles`.
-- Puedes utilizar [expresiones](/wiki/Client/Interface#búsqueda) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
+- Puedes utilizar [expresiones](/wiki/Client/Interface#buscar) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
 - Reintenta un beatmap pulsando `Ctrl` + `R` durante unos instantes.
 
 ## Editor
 
-Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
+Estos consejos aparecen en el [editor de beatmaps](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
 
 - Pulsa `H` para mostrar un listado de atajos de teclado.
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.
@@ -85,7 +84,7 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 - Pulsa `F5` o haz clic en el botón `test` en la parte inferior de la pantalla para probar tu beatmap desde el minuto en el que te encuentres. Esto te ayudará a detectar problemas relacionados con el drenaje de puntos de vitalidad, o con la colocación de algunos elementos. También puedes utilizarlo para practicar una sección determinada de una canción.
 - Puedes aumentar o disminuir el rango de visión en la línea de tiempo pulsando alt + rueda del ratón cuando el puntero esté sobre la línea de tiempo. También puedes hacer esto pulsando los botones `+`/`-` que hay a su izquierda. Esto te ayudará a colocar con mayor precisión los elementos de tu beatmap.
 - Para realizar una comprobación más precisa del ritmo de tu beatmap, prueba a disminuir la velocidad de reproducción al 25% o 50%. Puedes hacer esto desde el menú situado en la parte inferior derecha del editor. Los atajos del teclado para esta función son `flecha arriba`/`abajo` o `Ctrl` + `flecha arriba`/`abajo`.
-- Si decides abandonar un beatmap, no pasa nada. Los beatmaps que son [abandonados](/wiki/Beatmap/Category#abandonados) van al cementerio de beatmaps tras un cierto periodo de inactividad. Si algún día quieres revivir tu beatmap debes ir a tu perfil, buscar tu beatmap y hacer clic en `Resurrect`.
+- Si decides abandonar un beatmap, no pasa nada. Los beatmaps que son [abandonados](/wiki/Beatmap/Category#graveyard) van al cementerio de beatmaps tras un cierto periodo de inactividad. Si algún día quieres revivir tu beatmap debes ir a tu perfil, buscar tu beatmap y hacer clic en `Resurrect`.
 - Puedes personalizar los elementos de un skin para un beatmap específico, simplemente tienes que añadir los archivos a la carpeta de ese beatmap y utilizar los nombres de archivo adecuados.
 - Cuando copies elementos de un beatmap (con `Ctrl` + `C` o desde el menú) se guardarán valores como el tiempo o la localización de esos elementos en tu portapapeles, pueden ser útiles a la hora de publicar mensajes en la sección de moderación de beatmaps.
 - Si activas el modo directo (`Ctrl` + `Tab`) puedes poner elementos en tu beatmap utilizando las teclas que hayas configurado para Taiko u osu!mania.
@@ -101,25 +100,25 @@ Estos consejos aparecen en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) al i
 - ¡Puedes presionar `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
 - Todas las configuraciones son dinámicas y tienen efecto en tiempo real. ¡Prueba a pausar y cambiar la skin mientras juegas!
 - Nuevas funciones están disponibles en línea con cada actualización. ¡Asegúrate de mantenerte actualizado!
-- Si encuentra que la interfaz de usuario es demasiado grande o pequeña, intente ajustar la escala de la interfaz de usuario en la configuración.
+- Si encuentras que la interfaz de usuario es demasiado grande o pequeña, intenta ajustar la escala de la interfaz de usuario en la configuración.
 - Intenta ajustar el modo `Escala de pantalla` para cambiar tu juego o el área de la interfaz de usuario, ¡incluso en pantalla completa!
-- Lo que solía ser "[osu!direct](/wiki/osu!supporter#osu!direct)" está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `D`!
+- Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `D`!
 - ¡Buscar en las repeticiones está disponible arrastrando la barra de dificultad en la parte inferior de la pantalla!
-- ¡La compatibilidad con subprocesos múltiples significa que incluso con "FPS" bajos, sus entradas y juicios serán precisos!
+- ¡La compatibilidad con subprocesos múltiples significa que incluso con «FPS» bajos, sus entradas y juicios serán precisos!
 - ¡Intenta desplazarte hacia abajo en el panel de selección de mods para encontrar un montón de nuevos mods divertidos!
 - ¡La mayor parte del contenido web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los íconos en la barra de herramientas!
-- ¡Obtenga más detalles, oculte o elimine un beatmap haciendo clic derecho en su panel en la selección de canciones!
-- Todas las operaciones de eliminación son temporales hasta que salga. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
-- Echa un vistazo al sistema de "listas de juego", que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
-- ¡Alterne las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
-- ¡Eche un vistazo bajo el capó a los contadores de rendimiento y habilite el registro de rendimiento detallado con `Ctrl` + `F2`!
+- ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic derecho en tu panel en la selección de canciones!
+- Todas las operaciones de eliminación son temporales hasta que salgas. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
+- Echa un vistazo al sistema de «listas de juego», que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
+- ¡Alterna las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
+- ¡Echa un vistazo bajo el capó a los contadores de rendimiento y habilita el registro de rendimiento detallado con `Ctrl` + `F2`!
 
-## Ver también
+## Véase también
 
 - [Cliente/Interfaz](/wiki/Client/Interface)
-- [Cliente/Editor de beatmap](/wiki/Client/Beatmap_editor)
+- [Cliente/Editor de beatmaps](/wiki/Client/Beatmap_editor)
 - [Cliente/Referencia de teclas de acceso directo](/wiki/Client/Keyboard_shortcuts)
 
 ## Notas
 
-[^frame-limiter]: Actualmente llamado "Límite de FPS".
+[^frame-limiter]: Actualmente llamado «Límite de FPS».

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2022 Fanart Contest Voting Open"
+title: Halloween 2022 Fanart Contest Voting Open
 date: 2022-10-24 06:00:00 +0000
 ---
 

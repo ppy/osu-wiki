@@ -47,7 +47,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 Beatmap yang diunggah akan dikelompokkan ke dalam salah satu kategori berikut, yang dapat berubah seiring berjalannya waktu:
 
 - [Graveyard](Category#graveyard)
-- [Work in Progress / Pending](Category#work-in-progress-dan-pending)
+- [Work in Progress / Pending](Category#wip-and-pending)
 - [Qualified](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
