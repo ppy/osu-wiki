@@ -9,7 +9,7 @@ tags:
 
 # 推荐
 
-每张[制作中和待定](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))[谱面](/wiki/Beatmap)都有一个**推荐队列**，大致反映希望此谱面[上架](/wiki/Beatmap/Category#上架-(ranked))的人数。用户可以用`推荐！`按钮，在`常规（所有难度）`标签页下发布特别的[谱面讨论帖](/wiki/Beatmap_discussion)来为谱面的推荐队列做出贡献。
+每张[制作中和待定](/wiki/Beatmap/Category#wip-and-pending)[谱面](/wiki/Beatmap)都有一个**推荐队列**，大致反映希望此谱面[上架](/wiki/Beatmap/Category#ranked)的人数。用户可以用`推荐！`按钮，在`常规（所有难度）`标签页下发布特别的[谱面讨论帖](/wiki/Beatmap_discussion)来为谱面的推荐队列做出贡献。
 
 ## 上架要求
 

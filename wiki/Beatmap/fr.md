@@ -44,11 +44,11 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Une beatmap publiée appartient à une des catégories suivantes, qui peut changer avec le temps:
 
-- [Cimetière](Category#cimetière)
-- [En cours / En attente](Category#work-in-progress-et-en-attente)
-- [Qualifiée](Category#qualifiée)
-- [Classée](Category#classée)
-- [Approuvée](Category#approuvée)
+- [Cimetière](Category#graveyard)
+- [En cours / En attente](Category#wip-and-pending)
+- [Qualifiée](Category#qualified)
+- [Classée](Category#ranked)
+- [Approuvée](Category#approved)
 - [Aimée](Category#loved)
 
 Certaines catégories ont des [critères de publication](/wiki/Ranking_criteria) et permettent aux beatmaps d'avoir des [classements](#classement) permanents ou non. La méthode la plus utilisée pour y arriver est la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure), tandis que la deuxième option est de passer la beatmap en [loved](Category#loved).

@@ -25,7 +25,7 @@ Per caricare la tua beatmap, vai nell'editor e clicca `File` > `Carica Beatmap`.
 
 Questo renderà la tua beatmap disponibile da scaricare agli altri giocatori sul sito web. La stessa procedura vale nel caso si voglia aggiornare una mappa già caricata.
 
-Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#mappe-abbandonate). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
+Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#graveyard). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
 
 ## L'editor dice che "la beatmap che stai cercando di caricare non è tua!" {id=wrong-author}
 
