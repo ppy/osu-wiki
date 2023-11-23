@@ -218,7 +218,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
-4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
