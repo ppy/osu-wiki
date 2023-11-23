@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 0df11d00415c24fe6867239d75ec1cd3b575162b
----
-
 # 계정 지원팀
 
 *특정 포럼을 중재하는 팀의 경우, 다음을 참조하세요: [기술 지원팀](/wiki/People/Technical_Support_Team)*
