@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - osu!taiko World Cup 2023"
+title: osu! originals - osu!taiko World Cup 2023
 date: 2023-05-04 11:00:00 +0000
 ---
 
