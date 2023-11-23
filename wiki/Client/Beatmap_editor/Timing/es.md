@@ -18,15 +18,16 @@ tags:
   - línea verde
   - offset verde
   - punto de tiempo verde
+  - offset heredado
   - configuración de temporización
   - copiar temporización
   - pegar temporización
 ---
 
-# Pestaña de timing
+# Pestaña timing
 
 *Para obtener una guía de temporización, véase: [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)*\
-*Véase también: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
+*Véase también: [Beatmapping/Temporización](/wiki/Beatmapping/Timing)*
 
 **Timing** es la pestaña del [editor de beatmaps](/wiki/Client/Beatmap_editor) para cambiar y configurar la temporización de un [beatmap](/wiki/Beatmap), la cual es esencial para la representación correcta de la canción. Contiene configuraciones y herramientas relacionadas con la temporización, y también una [ventana dedicada](#panel-de-configuración-de-la-temporización) para trabajar con múltiples [puntos de tiempo](#puntos-de-tiempo), tanto para la representación de estructuras musicales como para el diseño de beatmaps.
 
