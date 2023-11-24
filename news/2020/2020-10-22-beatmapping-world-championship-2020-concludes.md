@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Beatmapping World Championship 2020 Concludes!"
+title: osu! Beatmapping World Championship 2020 Concludes!
 date: 2020-10-22 17:50:00 +0000
 ---
 

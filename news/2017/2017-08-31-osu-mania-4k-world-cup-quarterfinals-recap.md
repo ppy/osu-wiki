@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Quarterfinals Recap"
+title: osu!mania 4K World Cup - Quarterfinals Recap
 date: 2017-08-31 14:00:00 +0000
 ---
 

@@ -18,7 +18,7 @@ Les nominations et les resets de nominations démontrent les efforts d'un BN lor
 
 ![Bouton de nomination](img/nominate-fr.png)
 
-**Ce bouton vous permet de nominer des beatmaps.** Pour nominer une beatmap, cette dernière doit avoir au moins 5 [Hypes](/wiki/Beatmap/Hype) et ne doit pas avoir de problèmes ou de suggestions non résolus. Assurez-vous que vous êtes satisfait de toutes les difficultés, de même pour les autres modes de jeu, avant d'utiliser ce bouton. Si la beatmap a fait l'objet d'un veto par le passé, vous devez faire attention à ce que le veto soit retiré avant de nominer une beatmap. Quand une beatmap possède 2 nominations, elle sera [qualifiée](/wiki/Beatmap/Category#qualifiée) et entrera dans la file d'attente pour entrer dans la catégorie classée.
+**Ce bouton vous permet de nominer des beatmaps.** Pour nominer une beatmap, cette dernière doit avoir au moins 5 [Hypes](/wiki/Beatmap/Hype) et ne doit pas avoir de problèmes ou de suggestions non résolus. Assurez-vous que vous êtes satisfait de toutes les difficultés, de même pour les autres modes de jeu, avant d'utiliser ce bouton. Si la beatmap a fait l'objet d'un veto par le passé, vous devez faire attention à ce que le veto soit retiré avant de nominer une beatmap. Quand une beatmap possède 2 nominations, elle sera [qualifiée](/wiki/Beatmap/Category#qualified) et entrera dans la file d'attente pour entrer dans la catégorie classée.
 
 ### Disqualifier ou réinitialiser la nomination
 

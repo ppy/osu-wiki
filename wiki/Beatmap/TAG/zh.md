@@ -15,4 +15,4 @@ tags:
 
 接力[难度](/wiki/Beatmap/Difficulty)的名字中通常使用 “TAG” 一词。大多数情况下，“TAG” 后会带一个数字，一般指示此难度的目标玩家数目（比如，“TAG2” 指两位玩家接力，“TAG4” 指四位玩家）。
 
-由于接力难度的本质是有意让一位玩家几乎无法完成，这些难度要么无法上架，要么处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-(loved)) 状态。
+由于接力难度的本质是有意让一位玩家几乎无法完成，这些难度要么无法上架，要么处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态。

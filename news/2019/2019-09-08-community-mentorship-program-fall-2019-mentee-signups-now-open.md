@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Fall 2019 Signups Now Open"
+title: Community Mentorship Program Fall 2019 Signups Now Open
 date: 2019-09-08 10:00:00 +0000
 ---
 

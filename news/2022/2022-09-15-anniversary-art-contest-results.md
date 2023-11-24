@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15th Anniversary Art Contest Results"
+title: 15th Anniversary Art Contest Results
 date: 2022-09-16 06:00:00 +0000
 ---
 

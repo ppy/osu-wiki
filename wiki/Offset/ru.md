@@ -12,8 +12,8 @@
 
 ### Маппинг
 
-- [«Красный» (ненаследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) — начало новой [тайминг-секции](/wiki/Client/Beatmap_editor/Timing). Тайминг-секции сами по себе тоже называются оффсетами (от англ. *offset* — сдвиг), потому что они смещены относительно начала аудио.
-- [«Зелёный» (наследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) — [тайминг-секция](/wiki/Client/Beatmap_editor/Timing), с помощью которой на отдельном участке карты можно настроить [киаи](/wiki/Gameplay/Kiai_time), [сэмплсет](/wiki/Beatmapping/Sampleset), [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) и уровень громкости хитсаундов.
+- [«Красный» (ненаследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#красные-тайминг-секции) — начало новой [тайминг-секции](/wiki/Client/Beatmap_editor/Timing). Тайминг-секции сами по себе тоже называются оффсетами (от англ. *offset* — сдвиг), потому что они смещены относительно начала аудио.
+- [«Зелёный» (наследуемый) оффсет](/wiki/Client/Beatmap_editor/Timing#зелёные-тайминг-секции) — [тайминг-секция](/wiki/Client/Beatmap_editor/Timing), с помощью которой на отдельном участке карты можно настроить [киаи](/wiki/Gameplay/Kiai_time), [сэмплсет](/wiki/Beatmapping/Sampleset), [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) и уровень громкости хитсаундов.
 - Оффсет карты — время от начала аудиофайла до первой [сильной доли](/wiki/Music_theory/Downbeat) в песне, которое измеряется в миллисекундах.
 
 ### Настройки карты

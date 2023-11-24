@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # Устройство osu! wiki
 
 *См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
@@ -40,7 +45,7 @@
 
 Помните, что новые перенаправления должны быть краткими и пригодными к быстрому использованию.
 
-### Автоматизированные проверки
+### Автоматизированные проверки {id=ci-checks}
 
 В репозитории osu! wiki настроены [автоматизированные проверки](https://docs.github.com/ru/actions/automating-builds-and-tests/about-continuous-integration) (CI), отлавливающие распространённые ошибки в пулл-реквестах. Список проверок можно найти в файле [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
