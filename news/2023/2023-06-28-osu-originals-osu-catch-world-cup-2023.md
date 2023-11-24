@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - osu!catch World Cup 2023"
+title: osu! originals - osu!catch World Cup 2023
 date: 2023-06-28 11:00:00 +0000
 ---
 

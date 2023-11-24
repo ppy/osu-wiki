@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Bonnes pratiques
 
 Cette page couvre certaines des tâches auxquelles vous pouvez être confronté lors de votre contribution. Les approches mentionnées ici sont destinées à faciliter le processus et peuvent être appliquées à d'autres projets hébergés sur GitHub ou des plateformes similaires.
@@ -30,6 +35,8 @@ Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub o
 2. Dans `Workflows`, cherchez `Sync from osu! upstream`.
 3. Cliquez sur `Run workflow` et remplissez les options :
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
 - **Use workflow from** : nom de la branche que vous voulez synchroniser. Par défaut, il s'agit de `master`.
@@ -41,6 +48,8 @@ Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub o
   - `false` (par défaut) : n'effectue aucune sauvegarde.
 
 4. Cliquez sur le bouton `Run Workflow` et attendez que le workflow se termine. Si vous êtes curieux de savoir comment l'outil fonctionne, cliquez sur la tâche `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 

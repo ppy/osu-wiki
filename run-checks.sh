@@ -106,8 +106,7 @@ function main() {
   _test_wrapper "file size" "_docker bash scripts/ci/inspect_file_sizes.sh --target" "${interesting_files}"
   _test_wrapper "article style" "_docker bash scripts/ci/run_remark.sh --target" "${interesting_articles}"
 
-  yamllint_target_files=$( echo "${interesting_files}" | grep -e .yaml$ -e .yml$ -e .md$ )
-  _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --config .yamllint.yaml --target" "${yamllint_target_files}"
+  _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --target" .
 
   _test_wrapper "link" "_docker osu-wiki-tools check-links --target" "${interesting_articles}"
   _test_wrapper "article freshness" "_docker osu-wiki-tools check-outdated-articles --workflow --base-commit" "${first_commit_hash}"

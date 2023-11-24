@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points & Star Rating Updates"
+title: Performance Points & Star Rating Updates
 date: 2021-11-09 10:00:00 +0000
 ---
 

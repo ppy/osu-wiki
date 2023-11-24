@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2021 Fanart Contest"
+title: Winter 2021 Fanart Contest
 date: 2021-11-23 21:00:00 +0000
 ---
 

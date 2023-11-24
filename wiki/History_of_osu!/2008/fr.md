@@ -44,7 +44,7 @@ Continuant sur la tendance de juillet, un joueur aura du mal à trouver un aspec
 
 Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées à l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des sliders ticks (10/30) a été ajouté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de tchat](/wiki/Client/Interface/Chat_console#liste-des-commandes) ont été ajoutées pour les utilisateurs.
 
-Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les beatmaps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les beatmaps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une beatmap ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
+Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approved)" pour les beatmaps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les beatmaps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une beatmap ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#ranked).
 
 ## Septembre
 

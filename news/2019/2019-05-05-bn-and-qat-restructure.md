@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BN and QAT Restructure"
+title: BN and QAT Restructure
 date: 2019-05-05 19:30:00 +0000
 ---
 

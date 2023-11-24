@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Yuzu's New Look"
+title: Introducing Yuzu's New Look
 date: 2019-01-10 03:00:00 +0000
 ---
 
