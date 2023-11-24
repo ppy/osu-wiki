@@ -50,6 +50,7 @@ Además de eso, los puntos de tiempo no heredados se pueden usar para omitir lí
 Los puntos de tiempo no heredados tienen un color rojo en la línea de tiempo inferior y en el [panel de configuración de la temporización](#panel-de-configuración-de-la-temporización). Debido a esto, a menudo se les llama «offsets rojos» o «líneas rojas».
 
 ### Puntos de tiempo heredados
+
 ::: Infobox
 ![](img/inherited-points.png "Varios puntos de tiempo heredados con diferentes configuraciones de kiai, volumen y multiplicador de la velocidad del slider")
 :::
@@ -80,7 +81,7 @@ La pestaña de temporización se puede abrir presionando `F3` y proporciona acce
 Para realizar cambios mayores o menores rápidamente, utiliza los siguientes modificadores:
 
 |  | Tempo | Offset | Velocidad del slider |
-| :-- | :--: | :--: | :--: |
+| :-- | :-: | :-: | :-: |
 | `Ctrl` + clic | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | Por defecto | 1 BPM | 2 ms | 10 osu! pixels |
 | `Shift` + clic | 5 BPM | 10 ms | - |
