@@ -6,7 +6,7 @@ no_native_review: true
 
 ¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#self-check).
 
-No se espera que los nuevos colaboradores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
+No se espera que los nuevos contribuidores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
 
 En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
