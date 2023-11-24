@@ -12,7 +12,7 @@ Página de índice para artículos sobre personas o grupos.
 - [Completacionistas](Completionists)
 - [Desarrolladores](Developers)
 - [Elite Nominators](Elite_Nominators)
-- [Featured Artists](Featured_Artists)
+- [Artistas destacados](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Comité de puntos de rendimiento](Performance_Points_Committee)
