@@ -121,8 +121,8 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Kiai isn't snapped! | El punto de partida del kiai especificado no se ajusta a la línea de tiempo. | Ajusta correctamente el punto de inicio del kiai a su posición deseada en la línea de tiempo. |  |
 | Kiai's end isn't snapped! | El punto final del kiai especificado no se ajusta a la línea de tiempo. | Ajusta correctamente el punto final del kiai a su posición deseada en la línea de tiempo. |  |
 | Breaktime is not suggested for mania maps. | No se sugiere tiempo de descanso para los mapas de mania. | Mapea la parte donde ocurre el tiempo de descanso. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia se puede ignorar con seguridad si se pretende utilizar el tiempo de descanso en cuestión, o si la sección de la canción no se puede mapear. |
-| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. | La dificultad Easy/Normal presenta una cantidad frecuente de cambios de velocidad de los sliders, lo cual no se recomienda en los [criterios de clasificación](/wiki/Ranking_criteria). | Reduce el número de cambios de velocidad de los sliders en la dificultad Easy/Normal en cuestión. |  |
-| <!-- Can't confirm -->Kiai is toggled very frequently! | ¡El kiai se activa con mucha frecuencia! | Reduce la cantidad de ocurrencias del kiai en todo el mapa. | También conocidos como *kiai flashes*. Esta advertencia se puede ignorar con seguridad si se pretende el uso del kiai en cuestión. |
+| Easy/Normal diff contains too many speed changes. | La dificultad Easy/Normal presenta una cantidad frecuente de cambios de velocidad de los sliders, lo cual no se recomienda en los [criterios de clasificación](/wiki/Ranking_criteria). | Reduce el número de cambios de velocidad de los sliders en la dificultad Easy/Normal en cuestión. |  |
+| Kiai is toggled very frequently! | ¡El kiai se activa con mucha frecuencia! | Reduce la cantidad de ocurrencias del kiai en todo el mapa. | También conocidos como *kiai flashes*. Esta advertencia se puede ignorar con seguridad si se pretende el uso del kiai en cuestión. |
 
 #### Meta
 
