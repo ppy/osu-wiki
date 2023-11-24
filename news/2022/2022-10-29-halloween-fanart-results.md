@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2022 Fanart Contest Results"
+title: Halloween 2022 Fanart Contest Results
 date: 2022-10-29 09:00:00 +0000
 ---
 

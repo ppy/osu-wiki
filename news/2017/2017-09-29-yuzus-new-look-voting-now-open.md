@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yuzu's New Look Voting Now Open"
+title: Yuzu's New Look Voting Now Open
 date: 2017-09-29 09:00:00 +0000
 ---
 

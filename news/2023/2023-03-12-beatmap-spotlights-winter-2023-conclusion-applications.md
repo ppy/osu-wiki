@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Winter 2023 Conclusion & Applications"
+title: Beatmap Spotlights Winter 2023 Conclusion & Applications
 date: 2023-03-12 13:00:00 +0000
 ---
 

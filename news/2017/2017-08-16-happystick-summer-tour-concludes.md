@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HappyStick Summer Tour 2017 - Results"
+title: HappyStick Summer Tour 2017 - Results
 date: 2017-08-16 17:00:00 +0000
 ---
 

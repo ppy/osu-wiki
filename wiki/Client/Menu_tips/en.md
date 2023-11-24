@@ -72,7 +72,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Read the [ranking criteria](/wiki/Ranking_criteria) on the wiki if you're aiming to [rank](/wiki/Beatmap_ranking_procedure) your beatmap!
 - Converting a slider to a [stream](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) is a convenient way to design smooth stream shapes.
 - If you place an object after a spinner, try to leave enough time between them for players to readjust their aim.
-- Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#special-commands.2)" tool (`Ctrl` + `Shift` + `D`).
+- Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#compose)" tool (`Ctrl` + `Shift` + `D`).
 - Beats placed on top of each other will be [stacked](/wiki/Beatmapping/Mapping_techniques/Stack) in play mode. To see how stacks look during the play, select `Stacking` from the `View` dropdown menu.
 - Using [AiMod](/wiki/Client/Beatmap_editor/AiMod) (`Ctrl` + `Shift` + `A`) is a fantastic way to identify potential issues with your map long before the first [modder](/wiki/Modding/Modder) ever checks it out.
 - Navigate the timeline by scrolling or using the left/right arrow keys. Hold `Shift` to navigate 4x faster.
@@ -81,8 +81,8 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Check out the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) if you're looking for new pre-timed songs to map!
 - Spice your beatmap up by using Whistle, Finish and Clap hitsounds to punctuate certain points! Different sound samples can be used by checking out the Audio tab in the `Timing Setup` window (`F6`).
 - Zoom in on the timeline by hovering your mouse over it, holding `Alt`, and scrolling with the mouse wheel. You can also press the `+`/`-` buttons to the left of the timeline.
-- If you adjust timing after starting a map, don't forget to resnap objects through the [`Resnap All Notes`](/wiki/Client/Beatmap_editor/Menu#special-commands.3) option in the `Timing` dropdown menu. Watch out for unsnapped [inherited timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) though — they won't resnap!
-- Any [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
+- If you adjust timing after starting a map, don't forget to resnap objects through the [`Resnap All Notes`](/wiki/Client/Beatmap_editor/Menu#timing) option in the `Timing` dropdown menu. Watch out for unsnapped [inherited timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) though — they won't resnap!
+- Any [pending](/wiki/Beatmap/Category#wip-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
 - When copying objects (`Ctrl` + `C`), the clipboard will contain the current time location and combo numbers of selected objects. This is especially useful for writing [map feedback](/wiki/Modding)!
 - Clicking and dragging a slider's end position in the timeline creates [slider repeat arrows](/wiki/Gameplay/Hit_object/Slider/Reverse_slider).
 

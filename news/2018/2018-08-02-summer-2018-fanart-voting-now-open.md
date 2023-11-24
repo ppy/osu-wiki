@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2018 Fanart Voting Now Open"
+title: Summer 2018 Fanart Voting Now Open
 date: 2018-08-02 02:00:00 +0000
 ---
 

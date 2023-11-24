@@ -34,9 +34,9 @@ El editor de beatmaps está dividido en cuatro secciones principales que se pued
 Otros componentes del editor de beatmaps incluyen:
 
 - [AiMod](AiMod): Un sistema automatizado que informa problemas en un beatmap
-- [Divisor de ritmo](Beat_Snap_Divisor): Determina cómo los objetos se ajustan a la línea de tiempo
+- [Divisor de ritmo](Beat_snap_divisor): Determina cómo los objetos se ajustan a la línea de tiempo
 - [Distance snap](Distance_snap): El multiplicador que afecta qué tan cerca o lejos se colocan los objetos entre sí
 - [Kiai time](/wiki/Gameplay/Kiai_time): Secciones de tiempo especiales que ayudan a enfatizar una parte de un beatmap
 - [Menú](Menu): Te ayuda a navegar por el editor de beatmaps
-- [Carga del SB](SB_Load): Un número que se usa para indicar qué tan exigente es un storyboard
+- [Carga del SB](SB_load): Un número que se usa para indicar qué tan exigente es un storyboard
 - [Líneas de tiempo](Timelines): Muestra objetos colocados, descansos y más
