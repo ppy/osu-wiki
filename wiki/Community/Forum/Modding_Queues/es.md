@@ -4,7 +4,7 @@ stub: true
 
 # Colas de modding
 
-[**Modding Queues**](https://osu.ppy.sh/community/forums/60) es un foro dedicado a solicitudes para la [revisión de un beatmap](/wiki/Modding) o mods. Consiste en hilos del foro o *colas* que pertenecen a diferentes modders y mappers. Cada cola tiene requisitos y límites individuales para obtener mods, que los visitantes deben respetar para poder recibir un mod.
+[**Modding Queues**](https://osu.ppy.sh/community/forums/60) es un foro dedicado a solicitudes de [revisiones de beatmaps](/wiki/Modding) o mods. Consiste en hilos del foro o *colas* que pertenecen a diferentes modders y mappers. Cada cola tiene requisitos y límites individuales para obtener mods, que los visitantes deben respetar para poder recibir un mod.
 
 Cada modo de juego tiene su propio subforo de colas, con osu! ocupando la sección principal del foro:
 

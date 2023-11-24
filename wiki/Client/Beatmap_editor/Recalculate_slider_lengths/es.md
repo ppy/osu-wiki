@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# Recalcular las longitudes de los sliders
+# Recalcular la longitud de los sliders
 
 **Recalcular la longitud de los deslizadores** es un comando en la pestaña `Timing` en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Se sugiere usar esto después de realizar un cambio de [BPM](/wiki/Music_theory/Tempo) si el [beatmap](/wiki/Beatmap) ya tiene [sliders](/wiki/Gameplay/Hit_object/Slider).
 
