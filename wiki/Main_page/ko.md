@@ -1,3 +1,7 @@
+---
+layout: main_page
+---
+
 <div class="wiki-main-page__blurb">
 무료로 즐길 수 있는 리듬 게임 osu!와 관련된 다양한 정보를 포함하는 오픈 소스 지식 기반, osu! 위키에 오신 것을 환영합니다.
 </div>
