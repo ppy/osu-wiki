@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to osu!taiko Star Rating"
+title: Changes to osu!taiko Star Rating
 date: 2020-09-16 08:00:00 +0000
 ---
 

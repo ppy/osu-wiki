@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - A New Format"
+title: Aspire V - A New Format
 date: 2020-04-09 11:00:00 +0000
 ---
 

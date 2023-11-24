@@ -26,7 +26,7 @@ Chaque année, l'[équipe osu!](/wiki/People/osu!_team) aime faire des blagues �
 
 ### "Lemon Tree" est classée
 
-La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#classée) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Son statut de beatmap classée a été supprimé par l'équipe de modération peu de temps après.[^lemontree-post-machol30]
+La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#ranked) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Son statut de beatmap classée a été supprimé par l'équipe de modération peu de temps après.[^lemontree-post-machol30]
 
 Après un certain temps, la beatmap originale a été supprimée à la demande de son créateur, mais elle a finalement été remise en ligne le 24 août 2012 par [MillhioreF](https://osu.ppy.sh/users/941094) à des fins d'archivage.[^lemontree-post-millhioref]
 

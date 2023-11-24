@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Most Manic Art Contest"
+title: A Most Manic Art Contest
 date: 2019-09-06 04:00:00 +0000
 ---
 
