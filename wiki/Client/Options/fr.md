@@ -269,7 +269,7 @@ Cette section est consacrée aux aspects liés aux skins.
 | `Toujours utiliser le curseur du skin choisi` | Privilégie le curseur du skin actuelle par rapport aux curseurs fournis par les beatmaps. | Case à cocher | `Désactivé` |
 | `Taille du curseur :` | Ajuste la taille du curseur. | Curseur | `1x` |
 | `Ajustement automatique de la taille du curseur` | Ajuste automatiquement la taille du curseur en fonction de la taille du cercle de la beatmap. | Case à cocher | `Désactivé` |
-| `Colorer les sliderballs en fonction de la couleur des sliders` | Les slider balls utiliseront la couleur actuelle du combo (généralement transparente). Nécessite le support d'un skin | `Activé` |
+| `Colorer les sliderballs en fonction de la couleur des sliders` | Les slider balls utiliseront la couleur actuelle du combo (généralement transparente). Nécessite le support d'un skin | Case à cocher | `Activé` |
 
 ## Contrôles
 
@@ -411,10 +411,10 @@ b{YYYY}{MM}{DD}.{révision}{type}
 
 - `{YYYY}` est l'année du build
 - `{MM}` est le mois du build
-- `{DD}` est le jour de build
+- `{DD}` est le jour du build
 - `{révision}` est la révision du build
   - S'il n'y a pas de numéro de révision, la virgule sera supprimée.
-- `{type}` est le type de build
+- `{type}` est le type du build
   - S'il n'y a pas de valeur pour le type de build, on suppose qu'il s'agit de `Stable`.
 
 ## Le saviez-vous
