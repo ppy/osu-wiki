@@ -167,7 +167,7 @@ Si vous ouvrez la liste déroulante de l'option `Seasonal backgrounds :`, les op
 
 ## Gameplay
 
-![Icône de la section "Gameplay"](img/gameplay-FR.jpg "Icône de la section Gameplay")
+![Icône de la section "Gameplay"](img/gameplay-FR.png "Icône de la section Gameplay")
 
 Cette section traite des paramètres qui affectent la jouabilité.
 
@@ -216,7 +216,7 @@ Si vous ouvrez la liste déroulante de l'option `Indicateur de performance`, les
 
 ## Audio
 
-![Icône de la section "Audio"](img/audio-FR.jpg "Icône de la section Audio")
+![Icône de la section "Audio"](img/audio-FR.png "Icône de la section Audio")
 
 Cette section traite des options liées à l'audio.
 
@@ -250,7 +250,7 @@ Le volume général, le volume de la musique et le volume des effets peuvent êt
 
 ## Skin
 
-![Icône de la section "Skin"](img/skin-FR.jpg "Icône de la section Skin")
+![Icône de la section "Skin"](img/skin-FR.png "Icône de la section Skin")
 
 Cette section est consacrée aux aspects liés aux skins.
 
@@ -382,7 +382,7 @@ Cette section concerne le tchat, les spectateurs, le multijoueur et osu!direct.
 
 ## Maintenance
 
-![Icône de la section "Maintenance"](img/maintenance-FR.jpg "Icône de la section Maintenance")
+![Icône de la section "Maintenance"](img/maintenance-FR.png "Icône de la section Maintenance")
 
 Cette section est consacrée aux beatmaps et aux mises à jour.
 
