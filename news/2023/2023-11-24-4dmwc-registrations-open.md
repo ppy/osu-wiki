@@ -43,8 +43,8 @@ Last but not least is the introduction of a **new Qualifier format**! When teams
 ## Prizes
 
 - **1st:** Unique profile badge, exclusive banner, 48% of the total prize pool.
-- **2nd:** Exclusive banner, 36% of the total prize pool.
-- **3rd:** Exclusive banner, 18% of the total prize pool.
+- **2nd:** Exclusive banner, 32% of the total prize pool.
+- **3rd:** Exclusive banner, 20% of the total prize pool.
 
 ## How do I register?
 
@@ -53,7 +53,7 @@ To register, fill out the [following form](http://4dm-registrations.dannypx.com/
 - **You must be within the 4K rank range of #1,000-9,999** both when you submit your registration and until the end of the registration phase.
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
 - **You must not exceed the global osu!mania rank of #250.**
-- **You must not have been a part of a former winning 4DM team.**
+- **You must not have been a part of a former winning 4DM team.** 4DM1 winners are excluded from this.
 - **Join the official [Discord server](https://discord.gg/W2MQ647) for 4DM2024.**
 
 On top of that, there will be a separate skill-banning phase that will bar players above a certain skill level from participating based on a purely mathematical procedure. Stay tuned in the server to know whether this will affect you or your team!

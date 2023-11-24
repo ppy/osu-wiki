@@ -16,8 +16,8 @@ The **4 Digit osu!mania World Cup 2024** (***4DM2024***) is a worldwide double-e
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2023-11-24/2023-12-16 |
-| Screening phase | 2023-12-16/2024-12-24 |
-| Team captain announcement | 2024-12-24 |
+| Screening phase | 2023-12-16/2023-12-24 |
+| Team captain announcement | 2023-12-24 |
 | Qualifiers | 2024-01-13/2024-01-14 |
 | Round of 32 | 2024-01-20/2024-01-21 |
 | Round of 16 | 2024-01-27/2024-01-28 |
@@ -31,8 +31,8 @@ The **4 Digit osu!mania World Cup 2024** (***4DM2024***) is a worldwide double-e
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive banner, 48% of the total prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, 36% of the total prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, 18% of the total prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, 32% of the total prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, 20% of the total prize pool |
 
 ## Organisation
 
