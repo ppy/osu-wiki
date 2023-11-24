@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!trivium Quiz 2021"
+title: osu!trivium Quiz 2021
 date: 2021-11-10 20:00:00 +0000
 ---
 

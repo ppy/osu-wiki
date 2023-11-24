@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping With Rewards Deadline Extended"
+title: Mapping With Rewards Deadline Extended
 date: 2018-02-22 12:00:00 +0000
 ---
 

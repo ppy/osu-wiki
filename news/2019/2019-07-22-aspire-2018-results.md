@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire 2018 Results"
+title: Aspire 2018 Results
 date: 2019-07-22 12:00:00 +0000
 ---
 

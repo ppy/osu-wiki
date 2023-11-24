@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Public Opening and Winter Cycle Mentor Signups"
+title: Community Mentorship Program Public Opening and Winter Cycle Mentor Signups
 date: 2023-10-29 10:00:00 +0000
 ---
 

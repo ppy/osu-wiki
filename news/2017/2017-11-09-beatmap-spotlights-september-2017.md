@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights September 2017"
+title: Beatmap Spotlights September 2017
 date: 2017-11-09 11:40:00 +0000
 ---
 
