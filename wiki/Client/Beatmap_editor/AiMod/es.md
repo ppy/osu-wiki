@@ -32,7 +32,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Meta
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | HP rate for Easy/Normal is suggested to be at least 4. | Se sugiere que la tasa de HP para Easy/Normal sea al menos 4. | Establece el `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 4 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
 | HP rate for Hard and up is suggested to be at least 7. | Se sugiere que la tasa de HP para Hard y superior sea al menos 7. | Establece el `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 7 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
 | OD rate is suggested to be at least 5. | Se sugiere que la tasa de OD sea al menos 5. | Establece el `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 5 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende utilizar la dificultad general baja en cuestión. |
@@ -45,7 +45,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Compose
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | These two objects are less than 10 ms apart! | Dos objetos se colocan muy cerca uno del otro en la línea de tiempo, lo que requiere que el jugador haga clic en ambos objetos casi simultáneamente. | Encuentra los dos objetos y mueve o elimina uno de ellos. | |
 | These two objects exist at the same point in time! | Dos objetos se colocan exactamente uno encima del otro en la línea de tiempo, lo que requiere que el jugador haga clic en ambos objetos simultáneamente. | Encuentra los dos objetos y mueve o elimina uno de ellos. | |
 | There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | No hay hitsounds en ningún objeto. Los hitsounds son necesarios para los beatmaps clasificables. | Agrega sonidos al mapa usando whistles, claps y finishes. | |
@@ -58,20 +58,20 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Design
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | Your beatmap has no background image. | Tu beatmap no tiene imagen de fondo. | Encuentra una imagen adecuada y úsala como imagen de fondo para la dificultad. | Los vídeos no cuentan como imágenes de fondo porque el usuario no está obligado a descargarlos. |
 | File missing:{0} | A tu mapa le faltan ciertos archivos. | Recupera los archivos que faltan o asegúrate de que el beatmap no esté tratando de usar archivos que no existen. | |
 
 #### Timing
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | All timing sections have a volume below 5%. | Todas las secciones de temporización tienen un volumen inferior al 5 %. | Configura al menos una sección de temporización para que tenga un volumen de sonido de 5 % o más. | |
 
 #### Meta
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | Drain time should be over 30 seconds. | La duración de tu mapa de principio a fin, sin incluir los tiempos de descanso, es inferior a 30 segundos. | Intenta usar un spinner para terminar el mapa si tu canción lo admite. De lo contrario, tu canción puede ser demasiado corta. En tal caso, intenta extender tu archivo .mp3 para alcanzar la marca de 30 segundos. | AiMod no detecta spinners que pueden extenderse más allá de la marca de tiempo de drenaje de 30 segundos. |
 
 ### Advertencias
@@ -79,7 +79,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Compose
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | This slider moves in an abnormal way. | El slider se mueve de una manera que se superpone al regresar directamente a la pista de donde proviene (también conocido como [slider burai](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Asegúrate de que el slider no se superponga perfectamente en su camino. | |
 | Slider has an absurdly large amount of points! | ¡El slider tiene una cantidad absurdamente grande de puntos! | Retira algunos de los puntos de anclaje de tu slider. | Esta advertencia se puede ignorar con seguridad si la abundancia de puntos de anclaje en cuestión es intencionada o requerida por el slider, por ejemplo, [slider arts](http://osu.ppy.sh/community/forums/topics/689531) complejos. |
 | This combo is very long. Consider splitting it up. | Este combo es muy largo. Considera dividirlo. | Divide la larga cadena de combos en varios grupos de combos. Se prefiere que la duración de los combos sea, como máximo, de 15 a 18 objetos cada uno. | Más notable en los mapas de ![](/wiki/shared/mode/catch.png) osu!catch, donde las frutas continuarán aumentando en el plato del receptor siempre que la cadena de combo permanezca intacta (por lo tanto, podría afectar la visibilidad). Esta advertencia puede ignorarse con seguridad si el uso de la cadena de combo combinada larga en cuestión es intencional. |
@@ -95,7 +95,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Design
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | Background image is larger than 2560x1440. | La imagen de fondo es superior a 2560x1440. | Cambia el tamaño o reemplaza la imagen de fondo. | |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | El storyboard contiene elementos que aparecen repetidamente en muy poco tiempo, lo que posiblemente cause daño a los jugadores no iniciados que son propensos a [convulsiones](https://es.wikipedia.org/wiki/Convulsión_epiléptica). | Habilita la opción `Display epilepsy warning (storyboard has quick strobing)` en la pestaña Design de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). | |
 | <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | La dimensión del elemento de diseño especificado no coincide con su valor predeterminado previsto. | Cambia el tamaño del elemento de diseño en cuestión a su resolución adecuada. | |
@@ -105,7 +105,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Timing
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | Este beatmap dura más de 6 minutos. Considera acortarlo si no es un mapa estilo maratón. | Agrega más descansos en el beatmap o corta la canción. | Esta advertencia se puede ignorar con seguridad si la longitud del mapa en cuestión es la prevista. |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. | Tu beatmap tiene menos de 45 segundos. Considera hacerlo más largo. | Mapea más partes de la canción. | Esta advertencia se puede ignorar con seguridad si la longitud del mapa en cuestión es la prevista. |
 | Audio bitrate is higher than 192 kbps. Consider recompressing to CBR 192 kbps or VBR ~1.0. | El archivo `.mp3` del beatmap está codificado en una [tasa de bits](https://es.wikipedia.org/wiki/Tasa_de_bits) superior a 192 kbps, que supera la asignación de los [criterios de clasificación](/wiki/Ranking_criteria). | Vuelve a codificar el archivo `.mp3` para que su tasa de bits esté entre 128 kbps y 192 kbps (siendo 192 kbps la opción recomendada). | Aunque esta advertencia existe en el juego, AiMod nunca muestra la advertencia debido a limitaciones técnicas. |
@@ -127,7 +127,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Meta
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | El control deslizante de `Stack Leniency` en la pestaña Advanced de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) está configurado en menos de 3 o en más de 9. | Establece el control deslizante de `Stack Leniency` para que esté entre 3 y 9. | Esta advertencia se puede ignorar con seguridad si se pretende el uso del stack leniency en cuestión. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. | El campo `Romanised Artist` en la pestaña General de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) contiene [caracteres Unicode no estándar](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romaniza el nombre del artista en el campo `Romanised Artist` siguiendo las [reglas de estandarización de metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata). | |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. | El campo `Romanised Title` en la pestaña General de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) contiene [caracteres Unicode no estándar](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romaniza el nombre del título de la canción en el campo `Romanised Title` siguiendo las [reglas de estandarización de metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata). | |
@@ -140,7 +140,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 #### Mapset
 
 | Mensaje | Explicación | Solución | Notas |
-| :-- | :-- | :-- |  :-- |
+| :-- | :-- | :-- | :-- |
 | Unicode artist conflicts with {0} diff. | El campo `Artist` en la pestaña General de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) difiere entre una dificultad y otra. | Asegúrate de que el campo `Artist` sea consistente en todas las dificultades. | |
 | Artist conflicts with {0} diff. | El campo `Romanised Artist` en la pestaña General de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) difiere entre una dificultad y otra. | Asegúrate de que el campo `Romanised Artist` sea consistente en todas las dificultades. | |
 | Unicode title conflicts with {0} diff. | El campo `Title` en la pestaña General de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) difiere entre una dificultad y otra. | Asegúrate de que el campo `Title` sea consistente en todas las dificultades. | |
