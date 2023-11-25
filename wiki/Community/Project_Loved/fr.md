@@ -70,7 +70,7 @@ Pour toute question concernant le contenu de chaque catégorie, veuillez contact
 
 **Toutes les règles sont exactement ce qu'elles sont : des règles.** Elles ne constituent pas des directives et ne peuvent en aucun cas être enfreintes.
 
-- **La beatmap doit respecter les [règles de soumission des beatmaps](/wiki/Rules#beatmap-submission-rules).**
+- **La beatmap doit respecter les [règles de soumission des beatmaps](/wiki/Rules#règles-de-mise-en-ligne-des-beatmaps).**
 - **La beatmap ne doit pas être actuellement dans les catégories Qualifiée, Classée ou Approuvée.** Dans l'idéal, un mapping ne devrait pas viser à la fois le classement et l'obtention d'un Loved, car ces deux objectifs s'excluent mutuellement.
 - **La beatmap doit être soumise au moins un an avant la nomination dans Loved, sauf pour les beatmaps qui, de par leur concept, ne respectent pas les critères de classement.** Il est déconseillé de soumettre une beatmap uniquement pour Loved lorsque la catégorie Classée pourrait être une meilleure option. Les exceptions incluent l'utilisation du slider, les maps Aspire, les gimmicks de storyboard, etc.
 - **La beatmap doit compter au moins 30 favoris.** Il s'agit d'un seuil minimum pour indiquer une réaction positive et existante de la communauté à la beatmap. Il est déconseillé de demander une aide pour les favoris, bien que les capitaines ne puissent pas vérifier si cela se produit.
