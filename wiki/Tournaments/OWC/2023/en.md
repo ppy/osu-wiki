@@ -141,6 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 | Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Nov 26 (Sun) 04:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T043000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Nov 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Nov 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T130000&p1=1440&p2=37&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Finals | showmatch | [Nov 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | Germany ::{ flag=DE }:: | ::{ flag=US }:: United States | [Nov 26 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T183000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Nov 26 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T190000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
@@ -152,7 +153,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 - No Mod
   1. [A.SAKA - KAGUTSUCHI (Nymphe) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2091775#osu/4384629)
-  2. [orangentle / Yu\_Asahina - OEUFHEBEN (Camo) \[Furioso\]](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
+  2. [orangentle / Yu\_Asahina - OEFHEBEN (Camo) \[Furioso\]](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
   3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (Petal) \[No.01\]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
   4. [sanmal - Mind Chase (Ishtiaq) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637)
   5. [Coaltar Of The Deepers - dl++\[Delatetei\] - Sadesper Record Mix (Mirash) \[deliszewski & Meramirash ft. azer8 Collab Mix\]](https://osu.ppy.sh/beatmapsets/2091742#osu/4384562)
@@ -172,7 +173,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 - Free Mod
   1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
   2. [Rohi - Gllensista (Feiri) \[Collab Legend\]](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679)
-  3. [Sound Piercer "ESPITZ" - NOVO HORIZONTE (Megafan) \[IRMAOS\]](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
+  3. [Sound piercer "Espitz" - NOVO HORIZONTE (Megafan) \[IRMAOS\]](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
   4. [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
 - Tiebreaker
   1. **[Revo - Chihei o Kurau Hebi (Bazz B) \[Ouroboros\]](https://osu.ppy.sh/beatmapsets/1629695#osu/3326839)**
@@ -653,3 +654,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
 [^winners-bracket]: Winners bracket match
+[^showmatch]: Finals Showmatch — All-star players from eliminated countries play against each other
