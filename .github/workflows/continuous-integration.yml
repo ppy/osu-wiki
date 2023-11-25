@@ -35,7 +35,7 @@ jobs:
         shell: bash
         run: |
           readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
+          scripts/ci/inspect_file_sizes.sh "${TARGET_FILES[@]}"
 
       - name: set up Node.js
         id: setup-node
@@ -62,7 +62,7 @@ jobs:
             # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
             echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
           )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
+          scripts/ci/run_remark.sh "${REMARK_TARGET_FILES[@]}"
 
       - name: set up Python
         uses: actions/setup-python@v4
