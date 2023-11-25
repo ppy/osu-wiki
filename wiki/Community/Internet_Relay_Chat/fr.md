@@ -16,7 +16,7 @@ Ouvrez les paramètres de votre client IRC et remplissez les valeurs (il se peut
 
 - Serveur : `irc.ppy.sh`
 - Port : `6667`
-- SSL: désactivé
+- SSL : désactivé
 - Nom d'utilisateur : votre nom d'utilisateur osu!. Remplacez les espaces par des underscores (par exemple, `beppy master 1000` devient `beppy_master_1000`)
 - Mot de passe : le mot de passe de la [page des paramètres du compte](https://osu.ppy.sh/home/account/edit#legacy-api)
 
@@ -84,4 +84,4 @@ Les utilisateurs connectés via le client d'osu! ou le site web n'ont pas de pr�
 
 ### Quelqu'un envoie des messages, mais il ne figure pas dans la liste des utilisateurs du channel !
 
-Ils utilisent [la version web du tchat] (https://osu.ppy.sh/community/chat) ou sont connectés via [osu!(lazer)] (/wiki/Client/Release_stream/Lazer).
+Ils utilisent [la version web du tchat](https://osu.ppy.sh/community/chat) ou sont connectés via [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
