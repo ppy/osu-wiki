@@ -2,11 +2,11 @@
 
 ![](img/AiMod.jpg "La ventana AiMod enlista advertencias y errores de un beatmap.")
 
-**AiMod** es una herramienta incluida en el [editor de beatmaps](/wiki/Client/Beatmap_editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
+**AiMod** es una herramienta incluida en el [editor de beatmaps](/wiki/Client/Beatmap_editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Se puede abrir a través del menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
-Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un beatmap, este no es un reemplazo para el [modding](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad de un mapa o resolver problemas complejos como pobres [patrones](/wiki/Beatmap/Pattern) o [temporizaciones](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, y después pedirle a otro [modder](/wiki/Modding/Modder).
+Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, este no es un reemplazo para el [modding](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad de un mapa o resolver problemas complejos como [patrones](/wiki/Beatmap/Pattern) pobres o [temporización](/wiki/Client/Beatmap_editor/Timing). Al momento de [crear un mapa](/wiki/Beatmapping), es recomendable arreglar las advertencias de AiMod, y después pedirle a otro [modder](/wiki/Modding/Modder).
 
-El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad de mapping y los [criterios de clasificación](/wiki/Ranking_criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
+El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad de mapping y los [criterios de clasificación](/wiki/Ranking_criteria) y, como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
 ## Pestañas
 
@@ -21,7 +21,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 *Nota: Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.*
 
-### Informativo
+### Informativos
 
 #### All
 
@@ -33,12 +33,12 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 | Mensaje | Explicación | Solución | Notas |
 | :-- | :-- | :-- | :-- |
-| HP rate for Easy/Normal is suggested to be at least 4. | Se sugiere que la tasa de HP para Easy/Normal sea al menos 4. | Establece el `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 4 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
-| HP rate for Hard and up is suggested to be at least 7. | Se sugiere que la tasa de HP para Hard y superior sea al menos 7. | Establece el `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 7 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
-| OD rate is suggested to be at least 5. | Se sugiere que la tasa de OD sea al menos 5. | Establece el `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 5 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende utilizar la dificultad general baja en cuestión. |
-| OD rate for maps with very few sliders is suggested to be at least 7. | Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 7. | Establece el `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 7 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende utilizar la dificultad general baja en cuestión. |
-| OD rate for maps with very few sliders is suggested to be at least 8. | Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 8. | Establece el `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 8 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende utilizar la dificultad general baja en cuestión. |
-| The Slider Velocity should be 1.40 or 1.60. | La velocidad base de los sliders del mapa se establece en un valor distinto de 1.40 o 1.60, lo que va en contra de una pauta sobre los [criterios de clasificación de osu!taiko](/wiki/Ranking_criteria/osu!taiko) sobre la distancia óptima de separación entre notas. | Ve a la pestaña Timing y establece el valor base de `Slider Velocity:` en 1.40 o 1.60. | ![](/wiki/shared/mode/taiko.png) solo mapas de osu!taiko |
+| HP rate for Easy/Normal is suggested to be at least 4. | Se sugiere que la tasa de HP para Easy/Normal sea al menos 4. | Establece `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 4 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| HP rate for Hard and up is suggested to be at least 7. | Se sugiere que la tasa de HP para Hard y superior sea al menos 7. | Establece `HP Drain Rate` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 7 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| OD rate is suggested to be at least 5. | Se sugiere que la tasa de OD sea al menos 5. | Establece `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 5 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende usar la dificultad general baja en cuestión. |
+| OD rate for maps with very few sliders is suggested to be at least 7. | Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 7. | Establece `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 7 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende usar la dificultad general baja en cuestión. |
+| OD rate for maps with very few sliders is suggested to be at least 8. | Se sugiere que la tasa de OD para mapas con muy pocos sliders sea al menos 8. | Establece `Overall Difficulty` en la pestaña Difficulty de [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) en 8 o superior. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania. Esta advertencia puede ignorarse con seguridad si se pretende usar la dificultad general baja en cuestión. |
+| The Slider Velocity should be 1.40 or 1.60. | La velocidad base de los sliders del mapa se establece en un valor distinto de 1.40 o 1.60, lo que va en contra de una pauta sobre los [criterios de clasificación de osu!taiko](/wiki/Ranking_criteria/osu!taiko) sobre la distancia óptima de separación entre notas. | Ve a la pestaña Timing y establece el valor base de `Vel. Deslizador:` en 1.40 o 1.60. | ![](/wiki/shared/mode/taiko.png) solo mapas de osu!taiko |
 
 ### Errores
 
@@ -50,29 +50,29 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | These two objects exist at the same point in time! | Dos objetos se colocan exactamente uno encima del otro en la línea de tiempo, lo que requiere que el jugador haga clic en ambos objetos simultáneamente. | Encuentra los dos objetos y mueve o elimina uno de ellos. |  |
 | There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | No hay hitsounds en ningún objeto. Los hitsounds son necesarios para los beatmaps clasificables. | Agrega sonidos al mapa usando whistles, claps y finishes. |  |
 | This spinner appears onscreen later than objects which follow it. | Los objetos aparecen mientras el spinner está activo. Esto podría deberse a tener un AR bajo y/o colocar objetos demasiado cerca (en cuanto a la línea de tiempo) del spinner. | Cambia la longitud del spinner y/o elimina los siguientes objetos. |  |
-| This hold note is less than 10ms long! | Se presenta una nota mantenida con una longitud excesivamente corta, lo que hace que el mapa sea imposible para conseguir una SS. | Aumenta la duración de la nota mantenida o elimínala. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
-| This object overlaps with another object. | Dos objetos se superponen entre sí en la misma columna en el tiempo, lo que hace que el mapa sea imposible para conseguir una SS. | Retira uno de los objetos superpuestos. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
-| This object is stacked on top of another object. | Dos objetos se apilan uno encima del otro en la misma columna en el tiempo, lo que hace que el mapa sea imposible para conseguir una SS. | Encuentra las teclas apiladas o notas mantenidas y mueve o elimina una de ellas. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
-| More than 6 notes simultaneously is not allowed. | Uno o más patrones en el mapa requieren que el jugador presione activamente más de 6 teclas a la vez. En ciertos casos, los [criterios de clasificación de osu!mania](/wiki/Ranking_criteria/osu!mania) lo desaconsejan, ya que la mayoría de los teclados solo permiten hasta 6 pulsaciones de teclas a la vez debido a un fenómeno conocido como [ghosting](https://nelson-miller.com/what-is-keyboard-ghosting-and-how-do-you-prevent-it/). | Revisa tu mapa para asegurarte de que cada columna tenga como máximo 6 pulsaciones de notas simultáneas. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| This hold note is less than 10ms long! | Se presenta una nota larga con una longitud excesivamente corta, lo que hace que sea imposible conseguir una SS en el mapa. | Aumenta la duración de la nota larga o elimínala. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| This object overlaps with another object. | Dos objetos se superponen entre sí en la misma columna en el tiempo, lo que hace que sea imposible conseguir una SS en el mapa. | Elimina uno de los objetos superpuestos. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| This object is stacked on top of another object. | Dos objetos se superponen uno encima del otro en la misma columna en el tiempo, lo que hace que sea imposible conseguir una SS en el mapa. | Encuentra las notas o notas largas que se superponen y mueve o elimina una de ellas. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
+| More than 6 notes simultaneously is not allowed. | Uno o más patrones del mapa requieren que el jugador pulse activamente más de 6 teclas a la vez. En ciertos casos, los [criterios de clasificación de osu!mania](/wiki/Ranking_criteria/osu!mania) lo desaconsejan, ya que la mayoría de los teclados solo permiten pulsar hasta 6 teclas a la vez debido a un fenómeno conocido como [ghosting](https://nelson-miller.com/what-is-keyboard-ghosting-and-how-do-you-prevent-it/). | Revisa tu beatmap para asegurarte de que cada columna tiene como máximo 6 pulsaciones de nota simultáneas. | ![](/wiki/shared/mode/mania.png) solo mapas de osu!mania |
 
 #### Design
 
 | Mensaje | Explicación | Solución | Notas |
 | :-- | :-- | :-- | :-- |
 | Your beatmap has no background image. | Tu beatmap no tiene imagen de fondo. | Encuentra una imagen adecuada y úsala como imagen de fondo para la dificultad. | Los vídeos no cuentan como imágenes de fondo porque el usuario no está obligado a descargarlos. |
-| File missing:{0} | A tu mapa le faltan ciertos archivos. | Recupera los archivos que faltan o asegúrate de que el beatmap no esté tratando de usar archivos que no existen. |  |
+| File missing:{0} | A tu beatmap le faltan ciertos archivos. | Recupera los archivos que faltan o asegúrate de que el beatmap no esté tratando de usar archivos que no existen. |  |
 
 #### Timing
 
 | Mensaje | Explicación | Solución | Notas |
 | :-- | :-- | :-- | :-- |
-| All timing sections have a volume below 5%. | Todas las secciones de temporización tienen un volumen inferior al 5 %. | Configura al menos una sección de temporización para que tenga un volumen de sonido de 5 % o más. |  |
+| All timing sections have a volume below 5%. | Todas las secciones de tiempo tienen un volumen inferior al 5 %. | Configura al menos una sección de tiempo para que tenga un volumen de sonido de 5 % o más. |  |
 
 #### Meta
 
 | Mensaje | Explicación | Solución | Notas |
 | :-- | :-- | :-- | :-- |
-| Drain time should be over 30 seconds. | La duración de tu mapa de principio a fin, sin incluir los tiempos de descanso, es inferior a 30 segundos. | Intenta usar un spinner para terminar el mapa si tu canción lo admite. De lo contrario, tu canción puede ser demasiado corta. En tal caso, intenta extender tu archivo .mp3 para alcanzar la marca de 30 segundos. | AiMod no detecta spinners que pueden extenderse más allá de la marca de tiempo de drenaje de 30 segundos. |
+| Drain time should be over 30 seconds. | La duración de tu mapa de principio a fin, sin incluir los descansos, es inferior a 30 segundos. | Intenta usar un spinner para terminar el mapa si tu canción lo admite. De lo contrario, tu canción puede ser demasiado corta. En tal caso, intenta extender tu archivo .mp3 para alcanzar la marca de 30 segundos. | AiMod no detecta los spinners que pueden sobrepasar los 30 segundos de drenaje. |
 
 ### Advertencias
 
