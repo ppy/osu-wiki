@@ -103,6 +103,7 @@ function main() {
 
   _build_container
 
+  # TODO give no arguments to check-file-sizes
   _test_wrapper "file size" "_docker meta/check-file-sizes.sh" "${interesting_files}"
   _test_wrapper "article style" "_docker meta/remark.sh" "${interesting_articles}"
 

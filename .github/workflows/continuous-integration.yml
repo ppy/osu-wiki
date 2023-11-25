@@ -31,11 +31,8 @@ jobs:
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
           echo "${DELIMITER}" >> $GITHUB_ENV
 
-      - name: inspect file sizes
-        shell: bash
-        run: |
-          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          meta/check-file-sizes.sh "${TARGET_FILES[@]}"
+      - name: check file sizes
+        run: meta/check-file-sizes.sh
 
       - name: set up Node.js
         id: setup-node
