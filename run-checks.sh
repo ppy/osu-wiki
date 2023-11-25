@@ -103,8 +103,8 @@ function main() {
 
   _build_container
 
-  _test_wrapper "file size" "_docker scripts/ci/inspect_file_sizes.sh" "${interesting_files}"
-  _test_wrapper "article style" "_docker scripts/ci/run_remark.sh" "${interesting_articles}"
+  _test_wrapper "file size" "_docker meta/check-file-sizes.sh" "${interesting_files}"
+  _test_wrapper "article style" "_docker meta/remark.sh" "${interesting_articles}"
 
   _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --target" .
 
