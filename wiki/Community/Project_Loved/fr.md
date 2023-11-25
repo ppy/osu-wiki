@@ -15,7 +15,7 @@ Pour suggérer une beatmap pour la catégorie Loved, veuillez visiter la [page d
 - [suggestions du mode osu!catch](https://loved.sh/submissions/fruits)
 - [suggestions du mode osu!mania](https://loved.sh/submissions/mania)
 
-Les beatmaps nominées sont ensuite postées sur le [forum Project Loved] (https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter pour que la beatmap soit Loved ou non. Les maps atteignant 80% de votes "Oui" à la fin de leur période de vote seront déplacées dans la catégorie Loved.
+Les beatmaps nominées sont ensuite postées sur le [forum Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter pour que la beatmap soit Loved ou non. Les maps atteignant 80% de votes "Oui" à la fin de leur période de vote seront déplacées dans la catégorie Loved.
 
 Les créateurs de ces beatmaps peuvent également demander à ce qu'ils soient retirés de la catégorie Loved en contactant un membre de la [Project Loved Team](https://osu.ppy.sh/groups/31) ou en postant dans le channel `#osu-loved` du [serveur Discord d'osu!](https://discord.gg/ppy). Le processus de suppression prendra au moins une semaine et le créateur recevra un suivi lorsqu'il sera terminé.
 
