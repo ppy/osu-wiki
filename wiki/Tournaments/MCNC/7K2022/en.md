@@ -34,7 +34,7 @@ The **osu!mania 7K Chinese National Cup 2022** (***MCNC 7K 2022***) was a countr
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 200, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 100, 1 months of osu!supporter |
 
-![](img/mcnc7k-2022-badge-1st.jpg "MCNC 7K 2022 winner badge")
+![](img/mcnc7k-2022-badge-1st.png "MCNC 7K 2022 winner badge")
 
 ## Organisation
 
