@@ -686,6 +686,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^lb-gf-match]: Losers bracket Grand Finals match
-[^gf-match]: Grand Finals match — matchup depends on the results of the preceding Losers bracket Grand Finals match
+[^gf-match]: Grand Finals match — matchup depends on the results of the preceding losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
