@@ -79,7 +79,7 @@ L'utilisation de Markdown est couverte par les [critères de style des articles]
 
 - Le niveau de rubrique 1 (`#`), correspondant à un titre, ne doit pas être utilisé, car le titre est fourni par la page de garde en tête de l'article.
 - Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#footnotes) ne sont pas pris en charge.
-- [L'image de la bannière](#bannière) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
+- [L'image de la bannière](#bannières) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
 
 #### Images
 
