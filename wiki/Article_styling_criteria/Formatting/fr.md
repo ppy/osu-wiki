@@ -228,7 +228,7 @@ La surnote *voir également* suggèrent aux lecteurs d'autres points d'intérêt
 *Voir également : {article} et {article}*
 ```
 
-### Pour..., Voir :
+### Pour..., Voir
 
 La surnote *pour..., voir* sont similaires à la surnote *voir également*, mais sont généralement plus descriptives et plus directes. Cette surnote peut utiliser plus d'un lien si nécessaire. Ceux-ci doivent être formatés comme suit :
 
@@ -597,7 +597,7 @@ Les liens wiki qui pointent vers une section d'un article peuvent utiliser le sy
 
 #### Autres liens osu!
 
-L'URL figurant dans la barre d'adresse de votre navigateur doit être copiée telle qu'elle est lorsqu'il s'agit d'établir un lien avec d'autres pages web d'osu! La partie "https://osu.ppy.sh" de l'URL doit être conservée.
+L'URL figurant dans la barre d'adresse de votre navigateur doit être copiée telle qu'elle est lorsqu'il s'agit d'établir un lien avec d'autres pages web d'osu! La partie `https://osu.ppy.sh` de l'URL doit être conservée.
 
 ##### Profils d'utilisateurs
 
@@ -683,7 +683,7 @@ Si une image est le seul contenu d'un paragraphe, elle s'affiche sous la forme d
 
 Les blocs d'images comportant un texte de titre affichent le texte du titre sous forme de légende sous l'image. Évitez d'ajouter des [commentaires HTML](#commentaires) ou tout autre texte sur la même ligne que l'image, car la légende ne sera pas affichée.
 
-Les blocs d'images sont généralement associés au format [infobox] (#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+Les blocs d'images sont généralement associés au format [infobox](#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
 
 ```markdown
 ::: Infobox
