@@ -202,7 +202,7 @@ Les sauts de ligne doivent être utilisés avec parcimonie.
 
 ## Surnotes
 
-*A ne pas confondre avec les [notice](#notice).*
+*A ne pas confondre avec les [notice](#remarque).*
 
 Les surnotes sont de courtes notes placées en haut d'un article ou d'une section pour aider les lecteurs à naviguer vers des articles associés ou à les informer sur des sujets en rapport avec l'article.
 
@@ -879,7 +879,7 @@ Un tournoi ne doit pas être organisé et géré par une équipe inexpérimenté
 
 ## Citations en bloc
 
-La citation en bloc est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#block-quotation). Elle ne doit pas être utilisée pour mettre en forme un texte autrement.
+La citation en bloc est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#bloc-de-citation). Elle ne doit pas être utilisée pour mettre en forme un texte autrement.
 
 ```markdown
 > s'il vous plait, profiter du jeu
