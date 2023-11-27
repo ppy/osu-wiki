@@ -15,7 +15,7 @@ tags:
 
 *Pagina principale: [Centro di Supporto](/wiki/Help_centre)*
 
-Questa sezione è dedicata ai problemi riguardanti il l'editor delle beatmap e, più in generale,al beatmapping.  
+Questa sezione è dedicata ai problemi riguardanti il l'editor delle beatmap e, più in generale,al beatmapping.
 
 ## Come carico/aggiorno la mia mappa? {id=upload-beatmap}
 

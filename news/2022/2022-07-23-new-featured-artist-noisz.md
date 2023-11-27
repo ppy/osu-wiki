@@ -8,7 +8,7 @@ date: 2022-07-23 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/286/header.jpg)
 
-An unprecedented combo of the bullet hell genre, visual novels, and (most importantly) rhythm games, **NOISZ** is a video game backed by premier talents in the modern rhythm game universe. 
+An unprecedented combo of the bullet hell genre, visual novels, and (most importantly) rhythm games, **NOISZ** is a video game backed by premier talents in the modern rhythm game universe.
 
 As of today, **NOISZ**'s awesome soundtrack is now part of osu!.
 
