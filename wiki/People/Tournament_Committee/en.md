@@ -18,11 +18,11 @@ Those who are interested in joining the tournament committee may express their i
 
 ## Members
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
-- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
@@ -34,5 +34,6 @@ Those who are interested in joining the tournament committee may express their i
 ## Alumni
 
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)

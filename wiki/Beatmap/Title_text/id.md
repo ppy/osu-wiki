@@ -20,7 +20,7 @@ Ketika kamu menghubungi orang diatas, kamu harus memberikan string untuk mendesk
 
 ### Sintaks
 
-Judul teks biasanya memiliki beberapa baris, jadi osu! menggunakan simbol (`|`) untuk memisahkannya ketika memasukkan judul. Setiap baris pada judul teks ditulis dengan opsi format braket kurung tutup (`[]`) pada sebelumnya. Opsi pemformatan dipisahkan dengan koma dan di dalam format `key:value`.  
+Judul teks biasanya memiliki beberapa baris, jadi osu! menggunakan simbol (`|`) untuk memisahkannya ketika memasukkan judul. Setiap baris pada judul teks ditulis dengan opsi format braket kurung tutup (`[]`) pada sebelumnya. Opsi pemformatan dipisahkan dengan koma dan di dalam format `key:value`.
 
 Sebuah beatmap yang baru diunggah akan mempunyai judul teks yang diset menjadi `[size:20,bold:0]Artist|Title`, dimana `Artist` dan `Title` adalah unicode artis dan judul masing-masing sebuah map. Ini sangat banyak digunakan oleh Ranked maps, karena sangat sedikit pembuat map menggunakan settingan default.
 

@@ -143,7 +143,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 - **Les objets séparés de 1/2 ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.** Les slider heads ou tails entièrement recouvertes par des slider tails sont exemptées, pour autant que leurs slider bodies soient visibles.
 - **N'utilisez pas de [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
-- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
+- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents.
   - Les sliders ambigus avec des follow circles qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
 #### Directives
@@ -168,7 +168,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Règles
 
-- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
+- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents.
   - Les sliders ambigus avec des follow circles qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
 #### Directives
@@ -191,7 +191,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Règles
 
-- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
+- **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents.
   - La trajectoire du slider peut être ambiguë si le curseur peut rester à l'intérieur du follow circle sans avoir à faire de mouvement après avoir cliqué sur la slider head.
 
 #### Directives

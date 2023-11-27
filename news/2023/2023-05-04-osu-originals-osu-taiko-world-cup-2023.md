@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - osu!taiko World Cup 2023"
+title: osu! originals - osu!taiko World Cup 2023
 date: 2023-05-04 11:00:00 +0000
 ---
 
@@ -30,7 +30,7 @@ High-tempo jazz is [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279)'s spe
 
 ### LV.4 feat. Mawata Spica - Vortex of Sorrow
 
-As a master of hardcore and trance, [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) ensured that anyone listening to *Vortex of Sorrow* would be immersed in endlessly pounding bass and classic synth melodies. 
+As a master of hardcore and trance, [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) ensured that anyone listening to *Vortex of Sorrow* would be immersed in endlessly pounding bass and classic synth melodies.
 
 [This beatmap](https://osu.ppy.sh/beatmapsets/1980701) by [uone](https://osu.ppy.sh/users/5321719) acted as a *Free Mod* pick in the [Grand Finals mappool](/wiki/Tournaments/TWC/2023#grand-finals). If you think you can handle peak osu!taiko gameplay, give it a try.
 
@@ -40,7 +40,7 @@ As a master of hardcore and trance, [**LV.4**](https://osu.ppy.sh/beatmaps/artis
 
 ### Aquestion - Umami Blaze
 
-Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an osu!taiko player](https://osu.ppy.sh/users/12011880), it's no surprise that they know exactly what it takes to create an engaging song for osu!taiko. 
+Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an osu!taiko player](https://osu.ppy.sh/users/12011880), it's no surprise that they know exactly what it takes to create an engaging song for osu!taiko.
 
 [Umami Blaze](https://osu.ppy.sh/beatmapsets/1976814) mapped by [youtune3](https://osu.ppy.sh/users/6442010) was part of the [Finals mappool](/wiki/Tournaments/TWC/2023#finals) as a *No Mod* pick. Even if speed is your specialty, this **336 BPM** map might be a bit fast for you.
 
