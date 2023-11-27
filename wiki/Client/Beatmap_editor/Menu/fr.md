@@ -108,8 +108,8 @@
 | :-- | :-- |
 | Rythme | Sélectionne la [signature temporelle](/wiki/Music_theory/Time_signature) pour le point de timing actuel, entre 4/4 (commun) ou 3/4 (valse). Pour d'autres signatures temporelles, utilisez l'onglet [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing). |
 | Métronome | Active/Désactive le [métronome] (/wiki/Client/Beatmap_editor/Timing#métronome) dans l'onglet `Timing`. |
-| Ajouter une section temporelle (`Ctrl` + `P`) | Ajoute une nouvelle section de [timing (rouge) non héritée](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
-| Ajouter une section héritée (`Ctrl` + `Shift` + `P`) | Ajoute une nouvelle section de [timing timing hérité (vert)](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
+| Ajouter une section temporelle (`Ctrl` + `P`) | Ajoute une nouvelle section de [timing non héritée (rouge)](/wiki/Client/Beatmap_editor/Timing#point-de-timing-non-hérité). |
+| Ajouter une section héritée (`Ctrl` + `Shift` + `P`) | Ajoute une nouvelle section de [timing timing hérité (vert)](/wiki/Client/Beatmap_editor/Timing#point-de-timing-hérité). |
 | Réinitialiser la section actuelle | Réinitialise le [BPM](/wiki/Music_theory/Tempo) et [l'offset](/wiki/Offset) de la section de timing non héritée actuelle pour le [retiming](/wiki/Beatmapping/Timing). La sauvegarde des difficultés supprimera ces sections si elles ne sont pas modifiées. |
 | Supprimer la section (`Ctrl` + `I`) | Supprime la section de timing actuelle (héritée et non héritée). |
 | Repositionner les éléments de la section actuelle | [Resnap](/wiki/Beatmapping/Snapping) tous les objets dans la section courante en fonction du beat snap divisor actif. |
