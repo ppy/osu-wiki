@@ -1,17 +1,17 @@
 ---
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
- - modificador del juego
- - visión general
- - lista de mods
- - Mods libres
+  - mod
+  - game modifier
+  - overview
+  - list of mods
+  - NoMod
+  - No Mod
+  - FreeMod
+  - Free Mod
+  - modificador del juego
+  - visión general
+  - lista de mods
+  - Mods libres
 ---
 
 # Modificador de juego

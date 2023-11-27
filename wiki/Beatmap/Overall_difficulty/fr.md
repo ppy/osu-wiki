@@ -38,7 +38,7 @@ Les fenêtres de timing pour les jugements peuvent être visualisées en passant
 
 | Score | Fenêtre de timing (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, sinon `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, sinon `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` si OD < 5, `80 + (50 - 80) * (OD - 5) / 5` si OD > 5, sinon `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` si OD < 5, `95 + (70 - 95) * (OD - 5) / 5` si OD > 5, sinon `95` |
 
@@ -73,7 +73,7 @@ Il existe quatre [mods](/wiki/Gameplay/Game_modifier) qui modifient l'OD lorsqu'
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) : La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de timing sont 33% plus courtes.
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) : La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de timing sont 33% plus longues.
 
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'OD, la différence de vitesse y entraîne un changement dans les fenêtres de timing. Comme la mise à l'échelle est différente pour chaque valeur de score, le DT fait que les intervalles pour 100 et 50 sont plus resserrés que d'habitude par rapport au 300, et le HT les fait devenir plus indulgents. 
+Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'OD, la différence de vitesse y entraîne un changement dans les fenêtres de timing. Comme la mise à l'échelle est différente pour chaque valeur de score, le DT fait que les intervalles pour 100 et 50 sont plus resserrés que d'habitude par rapport au 300, et le HT les fait devenir plus indulgents.
 
 ## osu!catch
 

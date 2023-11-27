@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to the Mappers' Guild"
+title: Changes to the Mappers' Guild
 date: 2023-08-29 00:00:00 +0000
 ---
 

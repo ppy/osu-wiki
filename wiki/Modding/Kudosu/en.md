@@ -6,7 +6,7 @@ stub: true
 
 **Kudosu** is a reward system for [modding](/wiki/Modding). It awards points for successful mod posts in [beatmap discussions](/wiki/Beatmap_discussion). Accumulated points can be seen on a user's profile page.
 
-Kudosu is awarded to mod posts that are helpful and point out useful suggestions for the beatmap. If a mapper believes that a mod post is useful and addresses a valid issue, they can click the thumbs up button and award kudosu to the user who posted the mod. 
+Kudosu is awarded to mod posts that are helpful and point out useful suggestions for the beatmap. If a mapper believes that a mod post is useful and addresses a valid issue, they can click the thumbs up button and award kudosu to the user who posted the mod.
 
 In [forum modding](/wiki/Modding/Forum_modding), kudosu used to be exchangeable for [star priority](/wiki/Modding/Star_priority).
 

@@ -823,7 +823,7 @@ Las cajas de información deben usarse con precaución en los siguientes casos:
 - Secciones cortas: el encabezamiento de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
 - Varias imágenes a la vez: en su lugar, use fichas individuales para un mejor diseño.
 
-Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de información. Estos no aparecen en la tabla de contenidos y cualquier valor inferior es demasiado grande. Es posible que sea necesario omitir cualquier [error de comprobación de IC](/wiki/osu!_wiki/Maintenance#comprobaciones-de-ic) debido a esto.
+Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de información. Estos no aparecen en la tabla de contenidos y cualquier valor inferior es demasiado grande. Es posible que sea necesario omitir cualquier [error de comprobación de IC](/wiki/osu!_wiki/Maintenance#ci-checks) debido a esto.
 
 ## Notas al pie
 

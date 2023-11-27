@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Taiko World Cup 2015 - Results"
+title: osu! Taiko World Cup 2015 - Results
 date: 2015-04-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116205500393/osu-taiko-world-cup-2015-results
 ---

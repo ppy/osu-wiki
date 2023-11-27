@@ -27,7 +27,7 @@ Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa diguna
 
 Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/User_group) dan [kategori](/wiki/Beatmap/Category#kategori-yang-ada-saat-ini) beatmap:
 
-- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmap/Category#work-in-progress-dan-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard), dan belum memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominasi).
+- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard), dan belum memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominasi).
 - Anggota dari [Beatmap Nominators](/wiki/People/Beatmap_Nominators) diijinkan ketika beatmap masuk dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), WIP, atau Pending.
 - Anggota dari [Project Loved Team](/wiki/People/Project_Loved_Team) diijinkan ketika beatmap masuk dalam kategori [Loved](/wiki/Beatmap/Category#loved).
 - Anggota dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/Global_Moderation_Team) diijinkan untuk semua kategori.
