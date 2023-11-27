@@ -2,10 +2,4 @@
 
 set -eu
 
-reporter=@noomorph/vfile-reporter-position
-
-if test "${GITHUB_ACTIONS:-}"; then
-  reporter=vfile-reporter-github-action
-fi
-
-npx remark -fq --color --no-stdout --report "$reporter" --silently-ignore "${@:-.}"
+npx remark -fq --color --no-stdout --report "${REPORTER:-'@noomorph/vfile-reporter-position'}" --silently-ignore "${@:-.}"
