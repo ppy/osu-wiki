@@ -255,7 +255,7 @@ Le volume principal, le volume de la musique et le volume des effets peuvent êt
 
 ![Icône de la section Skin](img/skin.jpg "Icône de la section Skin")
 
-Cette section traite des questions relatives aux skins. 
+Cette section traite des questions relatives aux skins.
 
 ### Skin
 

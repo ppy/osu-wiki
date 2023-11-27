@@ -51,7 +51,7 @@ osu!, [beatmaplerin](/wiki/Beatmap) dereceli olmaya ve herkes tarafından oynanm
 
 ## Kullanıcılar tarafından yürütülen topluluk projelerine katılın veya yardım edin
 
-osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir. Onlar meraklı tamircilerden görmüş geçirmiş ritim oyunu gazilerine kadar çeşitlendirilebilir. Burada osu! için özel olarak yapılan pek çok önerge ve proje mevcut ve siz bunlara yardım edebilir, veya kendi önergeniz/projeniz ile osu!'nun geleceğini belirleyebilirsiniz! 
+osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir. Onlar meraklı tamircilerden görmüş geçirmiş ritim oyunu gazilerine kadar çeşitlendirilebilir. Burada osu! için özel olarak yapılan pek çok önerge ve proje mevcut ve siz bunlara yardım edebilir, veya kendi önergeniz/projeniz ile osu!'nun geleceğini belirleyebilirsiniz!
 
 Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 

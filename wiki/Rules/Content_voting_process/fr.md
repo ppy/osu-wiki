@@ -35,6 +35,6 @@ Après 3 jours, le vote est terminé, et les résultats reviennent.
 
 Cela signifie que les votes BN sont maintenant fusionnés dans le total des votes, et ceux-ci sont utilisés pour déterminer le résultat.
 
-Après avoir pris en compte les votes BN avec les votes GMT et NAT, 67% des votes sont d'accord pour que l'image soit correcte, 33% ne le sont pas. 
+Après avoir pris en compte les votes BN avec les votes GMT et NAT, 67% des votes sont d'accord pour que l'image soit correcte, 33% ne le sont pas.
 
 Comme cela n'atteint pas le seuil de 70% requis pour que l'image passe, l'image est considérée comme inacceptable et il est demandé à Ultralazer420 de trouver une autre image à utiliser à la place.

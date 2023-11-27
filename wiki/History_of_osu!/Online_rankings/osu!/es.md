@@ -284,7 +284,7 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 
 ## Número de reinados
 
-Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 3 de junio de 2021). 
+Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 3 de junio de 2021).
 
 | Jugador | Reinado |
 | --: | :-: |

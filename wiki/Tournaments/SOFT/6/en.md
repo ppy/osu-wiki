@@ -42,7 +42,7 @@ The Springtime osu!mania Free-for-all Tournament 6 offered a $260 cash prize poo
 | 4th place | 10% of the prize pool |
 | 5th-6th place | 5% of the prize pool |
 
-![](img/soft6-badge-1st.jpg "SOFT 6 winner badge") ![](img/soft6-badge-2nd.jpg "SOFT 6 2nd-place badge") ![](img/soft6-badge-3rd.jpg "SOFT 6 3rd-place badge")
+![](img/soft6-badge-1st.png "SOFT 6 winner badge") ![](img/soft6-badge-2nd.png "SOFT 6 2nd-place badge") ![](img/soft6-badge-3rd.png "SOFT 6 3rd-place badge")
 
 ## Organisation
 
