@@ -10,7 +10,7 @@ if test $# -eq 0; then
   set -- "$news_path" "$wiki_path"
 fi
 
-error_files="$(find "$@" -type f -size +1000000c)"
+error_files="$(find "$@" "$news_path" "$wiki_path" -type f -size +1000000c)"
 warning_files="$(find "$@" -type f -size +500000c -size -1000001c)"
 
 exec >&2
@@ -22,6 +22,6 @@ fi
 
 if test "$error_files"; then
   printf '\033[31mError:\033[m The following files are larger than 1MB and must be compressed:\n'
-  printf '%s\n' "$error_files" | sort | sed 's/^/  /'
+  printf '%s\n' "$error_files" | sort -u | sed 's/^/  /'
   exit 1
 fi
