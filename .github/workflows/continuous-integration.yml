@@ -32,7 +32,7 @@ jobs:
           echo "${DELIMITER}" >> $GITHUB_ENV
 
       - name: check file sizes
-        run: meta/check-file-sizes.sh
+        run: printf '%s\n' "$INTERESTING_FILES" | xargs meta/check-file-sizes.sh
 
       - name: set up Node.js
         id: setup-node
