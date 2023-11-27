@@ -2,15 +2,16 @@
 tags:
   - online title
   - display title
+  - angezeigter Titel
 ---
 
 # Beatmap-Titeltext
 
 ![Screenshot von osu!-Gameplay mit sichtbarem Titeltext](img/liquid-title-text.jpg "Der Titeltext für \"Rostik - Liquid (Paul Rosenthal Remix)\" wird kurz nach dem Start der Beatmap angezeigt.")
 
-Der **Titeltext** einer Beatmap erscheint beim Spielen oben und mittig auf dem Bildschirm. Meistens zeigt der Text den Künstler und Titel des Songs kurz nach Beginn der Beatmap an, allerdings kann der Mapper den Inhalt des Textes beliebig anpassen. Auch die Formatierung und der Anzeigezeitpunkt des Titeltextes können geändert werden.
+Der **Titeltext** einer Beatmap erscheint beim Spielen oben in der Mitte des Bildschirms. Meistens zeigt der Text den Künstler und Titel des Songs kurz nach Beginn der Beatmap an, allerdings kann der Mapper den Inhalt des Textes beliebig anpassen. Auch die Formatierung und der Anzeigezeitpunkt des Titeltextes können geändert werden.
 
-Richtig eingesetzt kann der Titeltext einen schönen Effekt zur Beatmap hinzufügen. Vor allem Mapper, die [Storyboards](/wiki/Storyboard) verwenden, könnten es nützlich finden, den Text anzupassen, um die Darstellung der Beatmap während des Gameplays so genau wie möglich zu kontrollieren. Einige gute Beispiele für angepasste Titeltexte sind [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) und [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+Richtig eingesetzt kann der Titeltext einen schönen Effekt zur Beatmap hinzufügen. Vor allem Mapper, die [Storyboards](/wiki/Storyboard) verwenden, könnten die Anpassung des Textes nützlich finden, um die Darstellung der Beatmap während des Gameplays so genau wie möglich zu kontrollieren. Einige gute Beispiele für angepasste Titeltexte sind [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) und [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
 ## Den Titeltext anpassen
 
@@ -22,7 +23,7 @@ Wenn du jemanden kontaktierst, musst du einen bestimmten Text schicken, der den 
 
 Der Titeltext besteht üblicherweise aus mehreren Zeilen, die in osu! durch das Pipe-Symbol (`|`) getrennt werden. Jede Zeile kann formatiert werden; die Optionen dazu werden in eckigen Klammern (`[]`) am Anfang der Zeile festgelegt. Die Formatoptionen werden im Format `option:wert` geschrieben und durch Kommas getrennt.
 
-Eine neu eingereichte Beatmap hat einen Titeltext von `[size:20,bold:0]Künstler|Titel`, wobei `Künstler` und `Titel` jeweils durch den Künstler und Titel der Beatmap als Unicode-Text ersetzt werden. Die meisten ranked Beatmaps nutzen dieses Format, weil nur wenige Beatmapper den Standardwert ändern.
+Eine neu eingereichte Beatmap hat einen Titeltext von `[size:20,bold:0]Künstler|Titel`, wobei `Künstler` und `Titel` jeweils durch den Künstler und Titel der Beatmap als Unicode-Text ersetzt werden. Die meisten ranked Beatmaps nutzen dieses Format, weil nur wenige Mapper den Standardwert ändern.
 
 #### Formatoptionen
 
