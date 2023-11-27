@@ -112,8 +112,6 @@ Featuring 8 difficulties from 7 different mappers, this is a set that contains s
 
 Surprisingly the only pure CtB mapset in my selection, I chose this mapset for those more accustomed to specific difficulties rather than converts, and also because I'm so happy to see it get ranked after more than two years of work. Each of the difficulties will pose a decent challenge to their intended audience, with fast-paced and varied rhythms providing numerous jumps and streams even on the lower difficulties. The outstanding difficulty of this set is definitely the Platter, which makes use of some really awesome wiggling and jump patterns, as well as beautifully flowing sliders and stream sections that make it worth checking out regardless of your ability level.
 
-
-
 ### osu!mania
 
 For osu!mania, **[pporse](https://osu.ppy.sh/users/4991434)** was able to select their personal most noteworthy beatmap from last month.

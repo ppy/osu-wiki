@@ -551,8 +551,8 @@ Les liens doivent utiliser le style en ligne s'ils ne sont référencés qu'une 
 
 #### Liens Wiki
 
-Tous les liens qui pointent vers un article wiki doivent commencer par `/wiki/` suivi du chemin pour arriver à l'article visé. Des liens relatifs peuvent également être utilisés. 
-  
+Tous les liens qui pointent vers un article wiki doivent commencer par `/wiki/` suivi du chemin pour arriver à l'article visé. Des liens relatifs peuvent également être utilisés.
+
 Voici quelques exemples :
 
 ```markdown
@@ -883,7 +883,7 @@ La première version de l'osu!api a été mise à disposition le 2 juillet 2013.
 
 Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
 
-Exemple : 
+Exemple :
 
 ```markdown
 Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation.[^staff]

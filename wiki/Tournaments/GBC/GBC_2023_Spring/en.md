@@ -8,7 +8,7 @@ tags:
 
 # GB Cup 2023 Spring
 
-![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png) 
+![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png)
 
 The **GB Cup 2023 Spring** (***GBC 2023 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the third instalment of the GB Cup.
 
@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals 
+### Grand Finals
 
 Saturday, 10 June 2023:
 
@@ -100,7 +100,7 @@ Saturday, 10 June 2023:
 | StarTemplar | 3 | **7** | **[GB]nyasun** | [#2](https://osu.ppy.sh/community/matches/108931620) |
 | **[GB]nyasun** | **7** | 2 | StarTemplar | [#3](https://osu.ppy.sh/community/matches/108932352) |
 
-### Finals 
+### Finals
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=3ag0fa).
 

@@ -31,11 +31,8 @@ jobs:
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
           echo "${DELIMITER}" >> $GITHUB_ENV
 
-      - name: inspect file sizes
-        shell: bash
-        run: |
-          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
+      - name: check file sizes
+        run: meta/check-file-sizes.sh
 
       - name: set up Node.js
         id: setup-node
@@ -57,22 +54,22 @@ jobs:
 
       - name: run remark on changed files
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        shell: bash
         run: |
           readarray -t REMARK_TARGET_FILES <<< $(
-            # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
-            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
+            echo "${{ env.INTERESTING_FILES }}" | grep '\.md$' || true
           )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
+          meta/remark.sh "${REMARK_TARGET_FILES[@]}"
 
       - name: set up Python
         uses: actions/setup-python@v4
         with:
           cache: pip
-          cache-dependency-path: scripts/requirements.txt
+          cache-dependency-path: requirements.txt
           python-version: "3.11"
 
       - name: set up Python CI dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: run yamllint on .yaml and .md files
         run: osu-wiki-tools check-yaml
