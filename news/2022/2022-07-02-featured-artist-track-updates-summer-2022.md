@@ -109,9 +109,9 @@ Another addition from the [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) 
 
 [![](https://assets.ppy.sh/artists/110/header.jpg)](https://osu.ppy.sh/beatmaps/artists/110)
 
-[Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284) was revealed as the Grand Finals tiebreaker for this year's 7K osu!mania World Cup! Featuring vocals from **Sennzai** and insane backing by **HyuN**, this song is one of the most engaging pieces of music you'll hear on osu!. 
+[Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284) was revealed as the Grand Finals tiebreaker for this year's 7K osu!mania World Cup! Featuring vocals from **Sennzai** and insane backing by **HyuN**, this song is one of the most engaging pieces of music you'll hear on osu!.
 
-Conveniently, ranked maps of the song are also available in every mode: 
+Conveniently, ranked maps of the song are also available in every mode:
 
 - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1708718)
 - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1704971)
@@ -255,7 +255,7 @@ Famed for having created some of osu!'s most played beatmaps like [Highscore](ht
 
 [![](https://assets.ppy.sh/artists/211/header.jpg)](https://osu.ppy.sh/beatmaps/artists/211)
 
-Vocalist **Risa Yuzuki** provides exactly what every rhythm game player wants: breathtaking vocals atop instrumentals by the rhythm game scene's biggest producers like [BlackY](https://osu.ppy.sh/beatmaps/artists/150), *Laur*, and *Feryquitous*. Check out everything from her new album *AMARTIA* and a couple extras: 
+Vocalist **Risa Yuzuki** provides exactly what every rhythm game player wants: breathtaking vocals atop instrumentals by the rhythm game scene's biggest producers like [BlackY](https://osu.ppy.sh/beatmaps/artists/150), *Laur*, and *Feryquitous*. Check out everything from her new album *AMARTIA* and a couple extras:
 
 - **Risa Yuzuki - Black Winged Variation**
 - **Risa Yuzuki - Imitator**

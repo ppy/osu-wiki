@@ -15,7 +15,7 @@ no_native_review: true
   - [Fraps](https://fraps.com/)
   - [Action!](https://actionrecorder.com/)
   - [Bandicam](https://www.bandicam.com/)
-- Софт для редактирования / рендеринга (Никогда не используйте Windows Moviemaker, оно резко портит качество видео!) 
+- Софт для редактирования / рендеринга (Никогда не используйте Windows Moviemaker, оно резко портит качество видео!)
   - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
   - [Adobe Premier](https://www.adobe.com/products/premiere.html)
   - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)

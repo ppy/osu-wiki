@@ -34,7 +34,7 @@ The **osu!mania 7K Chinese National Cup 2022** (***MCNC 7K 2022***) was a countr
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 200, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 100, 1 months of osu!supporter |
 
-![](img/mcnc7k-2022-badge-1st.jpg "MCNC 7K 2022 winner badge")
+![](img/mcnc7k-2022-badge-1st.png "MCNC 7K 2022 winner badge")
 
 ## Organisation
 
@@ -48,7 +48,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
 | Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
 | Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075),::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156)  |
+| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075),::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 
 ## Links
 

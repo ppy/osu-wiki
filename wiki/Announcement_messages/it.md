@@ -12,7 +12,7 @@ tags:
 
 # Messaggi di annuncio
 
-![Notifica di annuncio](img/notification.jpg "La notifica di un messaggio di annuncio")
+![Notifica di annuncio](img/notification.png "La notifica di un messaggio di annuncio")
 
 Un **messaggio di annuncio** è un tipo speciale di messaggio utilizzato con lo scopo di inviare messaggi più lunghi e formattati a più utenti in una sola volta. Le differenze fondamentali tra i messaggi di annuncio e i regolari messaggi in chat sono:
 
