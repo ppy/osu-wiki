@@ -53,7 +53,6 @@ The {TITLE} is run by various community members.
 | Statistician |  |
 <!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
-
 ## Links
 
 - [Discussion thread]({THREAD_LINK})
@@ -101,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
-![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available --> 
+![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available -->
 
 ## Mappools
 
@@ -114,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **Beatmap**
 
-<!-- tiebreaker beatmaps must be bolded 
+<!-- tiebreaker beatmaps must be bolded
 
 If the mappool doesn't use a standard ModType pool structure, alternative titles may be used instead. -->
 
