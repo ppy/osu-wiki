@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2017 Quarterfinals Recap"
+title: osu! World Cup 2017 Quarterfinals Recap
 date: 2017-12-08 14:00:00 +0000
 ---
 

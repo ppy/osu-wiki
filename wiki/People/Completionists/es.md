@@ -11,7 +11,7 @@ tags:
 
 # Completacionistas
 
-Los **completacionistas** son jugadores que han completado todos los [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#clasificados) de un [modo de juego](/wiki/Game_mode) determinado. Debido a que la cantidad de beatmaps clasificados aumenta cada día, esta hazaña se vuelve cada vez más difícil de lograr.
+Los **completacionistas** son jugadores que han completado todos los [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#ranked) de un [modo de juego](/wiki/Game_mode) determinado. Debido a que la cantidad de beatmaps clasificados aumenta cada día, esta hazaña se vuelve cada vez más difícil de lograr.
 
 A partir de septiembre de 2023, este logro se reconoce mediante una [insignia de perfil](/wiki/Community/Profile_badge) entregada a discreción del [osu! team](/wiki/People/osu!_team):
 

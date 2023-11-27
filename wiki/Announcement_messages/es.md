@@ -11,7 +11,7 @@ tags:
 
 # Mensajes de anuncio
 
-![Notificación de anuncio](img/notification.jpg "Una notificación de un mensaje de anuncio")
+![Notificación de anuncio](img/notification.png "Una notificación de un mensaje de anuncio")
 
 Un **mensaje de anuncio** es un tipo especial de mensaje destinado a enviar mensajes más largos y formateados a varios usuarios a la vez. Las diferencias clave entre los mensajes de anuncio y los mensajes de chat regulares son:
 

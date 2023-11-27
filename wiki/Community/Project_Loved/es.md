@@ -1,6 +1,6 @@
 # Project Loved
 
-**Project Loved** es la plataforma de votación que promueve beatmaps a la categoría [Amados](/wiki/Beatmap/Category#amados). Es coordinado principalmente por el [Project Loved Team](/wiki/People/Project_Loved_Team).
+**Project Loved** es la plataforma de votación que promueve beatmaps a la categoría [Amados](/wiki/Beatmap/Category#loved). Es coordinado principalmente por el [Project Loved Team](/wiki/People/Project_Loved_Team).
 
 ## Promoviendo un beatmap a Amados
 
@@ -21,7 +21,7 @@ Los creadores de estos beatmaps pueden enviar una petición para eliminarlos de 
 
 ## Eligibilidad
 
-Existen unos criterios mínimos que deben cumplir los beatmaps que son nominados a Amados. Cada modo de juego tiene sus propios criterios específicos de nominación y prioridad, pero todos los modos de juego siguen las siguientes reglas: 
+Existen unos criterios mínimos que deben cumplir los beatmaps que son nominados a Amados. Cada modo de juego tiene sus propios criterios específicos de nominación y prioridad, pero todos los modos de juego siguen las siguientes reglas:
 
 - No está en las categorías Calificados, Clasificados o Aprobados
 - Su creador no está en contra de que sea Amado
@@ -80,7 +80,7 @@ Para cualquier consulta sobre qué va en cada categoría, contacta un capitán d
 - **Cada dificultad del beatmap debe tener un mínimo de 20 segundos de duración.** Esto es más bajo que el mínimo de 30 segundos que se aplica en los criterios de clasificación, con el objetivo de ser más flexibles.
 - **Un beatmap debe tener al menos alguna contribución de la persona que lo publica.** Esto evita de manera específica las «compilaciones de beatmaps», las cuales, incluso con el permiso del creador original, no representan el contenido original exhibido en la categoría Amados.
 - **La temporización del beatmap no debe tener un impacto negativo en la jugabilidad.** A diferencia de los criterios de clasificación, que requieren una temporización precisa para todos los beatmaps, hay una pequeña flexibilidad para canciones complejas. Si estás inseguro de si la temporización de un beatmap es apropiada, puedes contactar a alguno de los capitanes.
-- **Los beatmaps cuyos conceptos dependen del storyboard no deben ser fácilmente explotables por los jugadores a través de editar archivos.** Esto es evaluado caso a caso para asegurar una competición justa para aquellos que juegan el beatmap de la manera prevista. Los problemas pueden ser mitigados usando una tasa de aproximación de 0, haciendo que las notas invisibles se sientan más naturales, a la vez que puedes hacer el storyboard de manera específica para la dificultad usando el archivo `.osu` en lugar del `.osb`. 
+- **Los beatmaps cuyos conceptos dependen del storyboard no deben ser fácilmente explotables por los jugadores a través de editar archivos.** Esto es evaluado caso a caso para asegurar una competición justa para aquellos que juegan el beatmap de la manera prevista. Los problemas pueden ser mitigados usando una tasa de aproximación de 0, haciendo que las notas invisibles se sientan más naturales, a la vez que puedes hacer el storyboard de manera específica para la dificultad usando el archivo `.osu` en lugar del `.osb`.
 
 #### Pautas
 

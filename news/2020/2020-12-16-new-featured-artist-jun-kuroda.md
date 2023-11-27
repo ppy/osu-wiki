@@ -40,7 +40,7 @@ Or [this osu!mania set](https://osu.ppy.sh/beatmapsets/490208#mania/1044903) by 
 
 ---
 
-Looking for more mapping options? Check out [**Jun Kuroda**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/124) for pre-timed templates of all your favourites (yes, they're your favourites even if you haven't heard them yet). 
+Looking for more mapping options? Check out [**Jun Kuroda**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/124) for pre-timed templates of all your favourites (yes, they're your favourites even if you haven't heard them yet).
 
 Curious about what else is coming soon? The [@osugame Twitter](https://twitter.com/osugame) has you covered. Keep an eye out for more news and another Featured Artist announcement this weekend!
 
