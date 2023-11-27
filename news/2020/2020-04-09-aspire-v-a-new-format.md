@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - A New Format"
+title: Aspire V - A New Format
 date: 2020-04-09 11:00:00 +0000
 ---
 
@@ -8,15 +8,15 @@ Welcome to Aspire V! The wildest beatmapping event on osu! returns with a new ho
 
 ![](https://assets.ppy.sh/contests/94/header.jpg)
 
-The Aspire contests are all about breaking the bounds of conventional mapping. The ranking criteria is completely dropped and beatmappers are encouraged to map in any way the editor allows them to. 
+The Aspire contests are all about breaking the bounds of conventional mapping. The ranking criteria is completely dropped and beatmappers are encouraged to map in any way the editor allows them to.
 
 Aspire first began with [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) by [Charles445](https://osu.ppy.sh/users/85000) back in 2014, and since then we have seen several more maps rise to become Aspire class beatmaps, such as [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) by [Monstrata](https://osu.ppy.sh/users/2706438), which blew the contest away with its animated shapes.
 
 Although the road for the Aspire contests has not always been smooth, they have never failed to become a hot talking point amongst the community. Now it is time for the Aspire contests to reform, and we believe this new format will make Aspire what it always should have been: creating whatever you want, however you want.
 
-This iteration of Aspire comes with two major changes: 
+This iteration of Aspire comes with two major changes:
 
-**Firstly, the contests are no longer limited to a single song that we pick out for you.** This time, we are allowing you to pick **(almost) any song from the featured artists listing**. Being restricted to a single song can put limits on what styles one may apply to the beatmap, and Aspire is definitely not about limits. 
+**Firstly, the contests are no longer limited to a single song that we pick out for you.** This time, we are allowing you to pick **(almost) any song from the featured artists listing**. Being restricted to a single song can put limits on what styles one may apply to the beatmap, and Aspire is definitely not about limits.
 
 With well over a thousand individual tracks across dozens of genres from incredibly talented artists available via the Featured Artist project, variety is now the name of the game, and we can safely say that there should be something for almost everyone.
 
@@ -65,11 +65,11 @@ The contest will rely on a panel of judges to first categorize the entries befor
 
 After the entry phase of the contest closes, entries will be anonymised and the panel of judges will view each entry and place beatmaps into categories of no more than 5, all sharing a common theme. The way these beatmaps will be categorised will be based solely on the opinions of the judges, they will not be asked to give a score to each entry. Not all entries may make it into a category.
 
-After the judges have completed their work, the categorised entries will be released to the public for the first round of voting, and members of the community will vote for their favourite entry of each category. Voting will be open for two weeks, during this time users are encouraged to download and play each entry in each category. 
+After the judges have completed their work, the categorised entries will be released to the public for the first round of voting, and members of the community will vote for their favourite entry of each category. Voting will be open for two weeks, during this time users are encouraged to download and play each entry in each category.
 
 Once the results of the categorised voting concludes, phase two of voting will begin. Only the top two maps of each category will make it to this stage. Voting for this stage will be open for one week, after which the Aspire V grand champion will be crowned.
 
-If you are interested in being a judge and categorising the entries, please contact [-Mo-](https://osu.ppy.sh/users/2202163). Please note however that judges cannot participate in entering the contest. 
+If you are interested in being a judge and categorising the entries, please contact [-Mo-](https://osu.ppy.sh/users/2202163). Please note however that judges cannot participate in entering the contest.
 
 ## Prizes
 

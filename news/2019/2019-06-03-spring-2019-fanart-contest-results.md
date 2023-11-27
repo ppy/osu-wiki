@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring 2019 Fanart Contest Results"
+title: Spring 2019 Fanart Contest Results
 date: 2019-06-03 08:00:00 +0000
 ---
 
@@ -20,7 +20,7 @@ Without further ado, let's get stuck into the winning entries - which, might I r
 
 Turning heads and taking names with a whopping **6593** votes, [**TofuMang**](https://osu.ppy.sh/users/4817223)'s rendition of a pippi almost too adorable for this world was a literal showstopper, surging to win the contest handily with almost a thousand vote lead.
 
-Stunning is one word, superb is another. There's many things we could say, but only one thing that everyone is thinking: wow. 
+Stunning is one word, superb is another. There's many things we could say, but only one thing that everyone is thinking: wow.
 
 Well done!
 

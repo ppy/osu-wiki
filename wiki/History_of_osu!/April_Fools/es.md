@@ -26,7 +26,7 @@ Cada año, al [osu! team](/wiki/People/osu!_team) le gusta gastar bromas a la co
 
 ### Se clasifica «Lemon Tree»
 
-El [beatmap](/wiki/Beatmap) [«Best of No.1 Hits - Lemon Tree (MillhioreF)»](https://osu.ppy.sh/beatmapsets/57878#osu/174267) fue [clasificado](/wiki/Beatmap/Category#clasificados) el 1 de abril de 2009, como parte de la broma del día de los Inocentes de ese año. El beatmap era en gran medida una broma interna dentro de la comunidad con usuarios que afirmaban sarcásticamente que dicho beatmap debería mantenerse clasificado para siempre.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Su estado clasificado fue eliminado por el equipo de moderación poco después.[^lemontree-post-machol30]
+El [beatmap](/wiki/Beatmap) [«Best of No.1 Hits - Lemon Tree (MillhioreF)»](https://osu.ppy.sh/beatmapsets/57878#osu/174267) fue [clasificado](/wiki/Beatmap/Category#ranked) el 1 de abril de 2009, como parte de la broma del día de los Inocentes de ese año. El beatmap era en gran medida una broma interna dentro de la comunidad con usuarios que afirmaban sarcásticamente que dicho beatmap debería mantenerse clasificado para siempre.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Su estado clasificado fue eliminado por el equipo de moderación poco después.[^lemontree-post-machol30]
 
 Después de un tiempo, el beatmap original se eliminó a pedido de su creador; sin embargo, finalmente se volvió a subir el 24 de agosto de 2012 por [MillhioreF](https://osu.ppy.sh/users/941094) con fines de archivo.[^lemontree-post-millhioref]
 
@@ -36,9 +36,9 @@ Después de un tiempo, el beatmap original se eliminó a pedido de su creador; s
 
 Para la broma del día de los Inocentes de 2010, el sitio web de osu! junto con la pantalla del menú principal del juego se cambió a un tema con personajes y referencias a [Touhou Project](https://es.wikipedia.org/wiki/Touhou_Project). Los cambios incluyeron la adición del personaje Marisa Kirisame y una exhibición de mariposas de diferentes colores en un patrón circular en el menú principal y el sitio web, junto con el cambio del nombre «osu!» a «touhosu!» en ciertas áreas del sitio web.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
-![](img/2010-touhosu-main-screen.jpg "La pantalla del menú principal en osu! el 1 de abril de 2010")
+![](img/2010-touhosu-main-screen.png "La pantalla del menú principal en osu! el 1 de abril de 2010")
 
-![](img/2010-touhosu-website.jpg "El sitio web de osu! el 1 de abril de 2009")
+![](img/2010-touhosu-website.png "El sitio web de osu! el 1 de abril de 2009")
 
 La broma proviene en gran medida de una [solicitud de funcionalidad de larga duración](https://osu.ppy.sh/community/forums/topics/19307) para crear un [modo de juego](/wiki/Game_mode) basado en el actual modo de juego existente [osu!catch](/wiki/Game_mode/osu!catch) con la jugabilidad central de los juegos de Touhou Project.
 
@@ -95,9 +95,9 @@ El vídeo musical de «Bad Apple!!» había sido una especie de broma interna en
 
 El 1 de abril de 2013, [BanchoBot](/wiki/BanchoBot) se convirtió en [tsundere](https://es.wikipedia.org/wiki/Tsundere). En este día de los Inocentes, cada vez que un usuario emitía un comando a BanchoBot o le pedía que hablara en un chat público, sus mensajes de chat se reemplazaban con respuestas estereotipadas tipo tsundere a un interés romántico.[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
 
-![](img/2013-regular-banchobot.jpg "Interacciones con BanchoBot en 2019")
+![](img/2013-regular-banchobot.png "Interacciones con BanchoBot en 2019")
 
-![](img/2013-tsundere-banchobot.jpg "Interacciones con BanchoBot el 1 de abril de 2013")
+![](img/2013-tsundere-banchobot.png "Interacciones con BanchoBot el 1 de abril de 2013")
 
 ## 2014
 
@@ -181,7 +181,7 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 - A Waltz From The Geographical Region Known as Ireland but Also as Éire
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
-[«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) —un beatmap de broma de hace mucho tiempo dentro de la comunidad— también fue [amado](/wiki/Beatmap/Category#amados) el 31 de marzo de 2020 como parte de esta broma.
+[«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) —un beatmap de broma de hace mucho tiempo dentro de la comunidad— también fue [amado](/wiki/Beatmap/Category#loved) el 31 de marzo de 2020 como parte de esta broma.
 
 ### Efecto de sonido de chica estornudando
 

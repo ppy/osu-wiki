@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # 最好方法
 
 这篇文章介绍了您在贡献时可能遇到的一些任务。文章中提到的方法可供您简化流程，并可在 GitHub 或在类似的平台上托管的其他项目中应用。
@@ -30,6 +35,8 @@
 2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`.
 3. 点击 `运行工作流 (Run workflow)`，并且勾选以下选项：
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
 
 - **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
@@ -41,6 +48,8 @@
   - `false`（默认）：不创建任何副本。
 
 4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 osu! 上游仓库 (Sync from osu! upstream)` 工作流任务 (task)。
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "GitHub 操作 工作流 - 工作流概览")
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Catch the Beat World Cup 2015 - Results"
+title: osu! Catch the Beat World Cup 2015 - Results
 date: 2015-06-16 22:07:44 +0000
 tumblr_url: http://osunews.tumblr.com/post/121704697763/osu-catch-the-beat-world-cup-2015-results
 ---

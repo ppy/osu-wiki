@@ -519,7 +519,7 @@ Monday, 22 July 2019:
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 16 players from each seed with the highest overall score will be divided into groups of 4 players based on their points. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 16 players from each seed with the highest overall score will be divided into groups of 4 players based on their points. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. Following the Qualifiers, Group stages will be played. During Group stages, players of each group will match against one another. 2 players of each group with highest points will get through the Group stage, the rest will be eliminated.
 11. There will be 2 separate mappools for the Group stages, each of them will contain 13 maps: 4 maps under the NoMod bracket, 2 maps each for the other mod brackets and 1 will be played as Tiebreaker.
 12. Before the Double Elimination stages, players will have to form 2-player teams with the other seeders upon agreement of both parties.

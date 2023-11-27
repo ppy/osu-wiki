@@ -246,7 +246,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 #### Qualification process
 
-- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 32.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage. 
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 32.** The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 16 players enter, all 16 players will qualify and no one gets eliminated.
   - If 17-31 players enter, the worst-performing players get eliminated and the top 16 will advance to the next round.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
@@ -261,7 +261,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in three matches. The two best-performing players in each group will advance to the bracket stage.
-- A player's performance in the group is determined through these metrics, arranged from highest priority to lowest: 
+- A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
   1. Number of matches won.
   2. Number of rounds won - numbers of round lost.
   3. Number of losses by default (lower is better).
@@ -271,7 +271,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 #### Bracket stage
 
 - The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
-- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. 
+- After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage.
 - The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd).
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
@@ -313,7 +313,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one map within the map pool that they are playing for the given round.
 - Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
-- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied: 
+- After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - Both players are at match point at the same time.
     - At this time, referee will select the song designated as the tiebreaker.

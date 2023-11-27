@@ -6,7 +6,7 @@
 
 ## Adım \#1
 
-Sihirli değnek aletini "Seçime ekle" modunda seçin (bu birden fazla parçayı tek seferde seçmenize yardımcı olacak) ve arkaplanın istemediğiniz her boş kısmını seçin. 
+Sihirli değnek aletini "Seçime ekle" modunda seçin (bu birden fazla parçayı tek seferde seçmenize yardımcı olacak) ve arkaplanın istemediğiniz her boş kısmını seçin.
 
 ![Öğretici Görsel 1](img/CSB-2.png "Öğretici Görsel 1")
 

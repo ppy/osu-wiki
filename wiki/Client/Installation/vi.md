@@ -46,7 +46,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 4. Tìm và mở tệp beatmap, nó có đuôi `.osz`.
    - Ngoài ra, bạn cũng có thể đặt tệp vào thư mục `Songs` bên trong nơi cài đặt osu!.
 5. osu! sẽ tự động xử lí nó cho bạn.
-   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#song-select) để soát lại beatmap của bạn.
+   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-map) để soát lại beatmap của bạn.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 3. Nhấn đúp vào bài hát trong danh sách hoặc ấn vào nút `Download` ở bên phải để tải xuống.
    - Nếu như bạn không muốn tải xuống video đi kèm với beatmap, ấn vào nút `DL NoVideo`.
 4. Sau khi osu! hoàn tất tải xuống beatmap, nó sẽ tự động hiện lên khi bạn vào màn hình chọn bài hát.
-   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#song-select) để rà soát lại beatmap của bạn.
+   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-map) để rà soát lại beatmap của bạn.
 
 ## Thêm skin
 

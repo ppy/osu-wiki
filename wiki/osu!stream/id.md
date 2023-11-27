@@ -133,7 +133,7 @@ Warna latarnya yaitu Hijau.
 
 **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
 
-Mode Stream merupakan mode khusus yang merupakan ciri khas dari osu!stream. Pada mode ini, pemain akan memulai permainan dengan *lifebar* yang terisi setengahnya pada tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi *lifebar* untuk memicu "*Stream Up!*", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "*Stream Up!*", pemain akan mendapatkan *lifebar* (tahap 3/tahap 2). "*Stream Down!*" akan terjadi apabila *lifebar* (tahap 3/tahap 2) habis, di mana tingkat kesulitan akan menurun dan *lifebar* akan kembali terisi setengah penuh. 
+Mode Stream merupakan mode khusus yang merupakan ciri khas dari osu!stream. Pada mode ini, pemain akan memulai permainan dengan *lifebar* yang terisi setengahnya pada tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi *lifebar* untuk memicu "*Stream Up!*", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "*Stream Up!*", pemain akan mendapatkan *lifebar* (tahap 3/tahap 2). "*Stream Down!*" akan terjadi apabila *lifebar* (tahap 3/tahap 2) habis, di mana tingkat kesulitan akan menurun dan *lifebar* akan kembali terisi setengah penuh.
 
 Singkatnya, kamu akan memulai permainan di antara Easy dan Hard.
 
@@ -337,7 +337,7 @@ Pada **mode Expert, pemain hanya menggunakan 1 *lifebar***.
 *Lifebar* akan terisi apabila kamu:
 
 - Menyelesaikan spinner dan *hold circle*.
-- Mendapatkan penilaian sempurna (osu!), Good! berwarna emas, Good! berwarna hijau, 300, atau 100 ketika mengenai objek, 
+- Mendapatkan penilaian sempurna (osu!), Good! berwarna emas, Good! berwarna hijau, 300, atau 100 ketika mengenai objek,
   - Untuk *hit circle*, penentuan nilai objek (*judgement*) yang lebih baik akan mengisi *lifebar* dengan nilai lebih. *Hit circle* terakhir dari warna yang sama juga dapat mengisi *lifebar* lebih banyak.
   - Untuk slider, *lifebar* akan terisi tergantung dari seberapa banyak bagian slider yang berhasil diikuti dihitung dari awal hingga akhir slider.
 
