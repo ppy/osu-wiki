@@ -2,8 +2,12 @@
 
 set -eu
 
+osu_wiki_path="$(dirname "$0")/.."
+news_path="$(realpath --relative-to . "$osu_wiki_path/news")"
+wiki_path="$(realpath --relative-to . "$osu_wiki_path/wiki")"
+
 if test $# -eq 0; then
-  set -- news wiki
+  set -- "$news_path" "$wiki_path"
 fi
 
 error_files="$(find "$@" -type f -size +1000000c)"
