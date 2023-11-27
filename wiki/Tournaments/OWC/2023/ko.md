@@ -1,9 +1,7 @@
----
+    ---
 tags:
   - OWC
   - OWC2023
-outdated_translation: true
-outdated_since: 0abeab078a267ec4427893d7c1eb26fa321d2631
 ---
 
 # osu! World Cup 2023
@@ -127,26 +125,48 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 파이널
+## 매치 일정 : 그랜드 파이널
 
-### 2023년 11월 25일 토요일
-
-| Team A | Team B | 매치 시간 | 트위치 생방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 캐나다 ::{ flag=CA }:: | ::{ flag=DE }:: 독일 | [Nov 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231125T190000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### 2023년 11월 26일 일요일
+### 2023년 12월 3일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 필리핀 ::{ flag=PH }:: | ::{ flag=US }:: 미국 | [Nov 26 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T030000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 캐나다 ::{ flag=CA }:: | ::{ flag=PH }:: 필리핀 | [Nov 26 (Sun) 04:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T043000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=AU }:: 오스트레일리아 | [Nov 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 독일 ::{ flag=DE }:: | ::{ flag=PH }:: 필리핀 | [Nov 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T130000&p1=1440&p2=37&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 독일 ::{ flag=DE }:: | ::{ flag=US }:: 미국 | [Nov 26 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T183000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 캐나다 ::{ flag=CA }:: | ::{ flag=US }:: 미국 | [Nov 26 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231126T190000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=AU }:: 오스트레일리아 | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
+
+### 그랜드 파이널
+
+**[맵팩은 여기서 다운로드가 가능합니다 (188 MB)](https://packs.ppy.sh/P231%20-%20osu!%20World%20Cup%202023%3A%20Grand%20Finals.zip)**
+
+- No Mod
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Hack&Slash (SkyFlame) \[-Kirigiri&SkyFlame's Cutting Edge\]](https://osu.ppy.sh/beatmapsets/2095112#osu/4392947)
+  2. [Lime - Pixel Planet (Strategas) \[Ultra\]](https://osu.ppy.sh/beatmapsets/2095123#osu/4392960)
+  3. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Nathan) \[KEMOMIMI EDM SQUAD\]](https://osu.ppy.sh/beatmapsets/1357624#osu/2809623)
+  4. [ZxNX - Fana (Altai) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2095138#osu/4392977)
+  5. [BilliumMoto - Amethyst Aurora (fanzhen0019) \[Feather Flash\]](https://osu.ppy.sh/beatmapsets/2095140#osu/4392985)
+- Hidden
+  1. [Ling tosite sigure - Akai Yuuwaku (aishiteiru-) \[otshelnik\]](https://osu.ppy.sh/beatmapsets/2095114#osu/4392949)
+  2. [Isekai Joucho - Replica (Raijodo) \[tkfkdgo\]](https://osu.ppy.sh/beatmapsets/2095125#osu/4392963)
+  3. [litmus\* vs Ester - Requiem for the Aura (9ami) \[Az & 9ami's Soul Rhapsody\]](https://osu.ppy.sh/beatmapsets/2095119#osu/4392955)
+- Hard Rock
+  1. [Aether - Lunate Elf (Djulus) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2095121#osu/4392958)
+  2. [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
+  3. [LV.4 - Burning Star (ktgster) \[Burn Out\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036)
+- Double Time
+  1. [liz triangle - Necrogicalize (Aragon) \[dwaeji bulgogi collab\]](https://osu.ppy.sh/beatmapsets/2095128#osu/4392966)
+  2. [SHO - Maiden in the Cage (zekk) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2095160#osu/4393043)
+  3. [IA feat. Kagamine Rin - Super Nuko World (kowari) \[Extra\]](https://osu.ppy.sh/beatmapsets/2095163#osu/4393047)
+  4. [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/41686#osu/131564)
+- Free Mod
+  1. [Noah - Necrofantasia (Camo) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2095157#osu/4393040)
+  2. [Kommisar - AKARI BEAM CANNON LAST BOSS (Serenhaide) \[TEMPORAL BLAST\]](https://osu.ppy.sh/beatmapsets/2095159#osu/4393042)
+  3. [Cranky - R176 (AJT) \[Easy\]](https://osu.ppy.sh/beatmapsets/2095168#osu/4393055)
+  4. [Denkishiki Karen Ongaku Shuudan - E.E.L.S. (IsomirDiAngelo) \[Consumed\]](https://osu.ppy.sh/beatmapsets/2095134#osu/4392973)
+- Tiebreaker
+  1. **[Release Hallucination - Vanitas (Mordred) \[The Silent Lament of Broken Wings\]](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)**
 
 ### 파이널
 
@@ -315,6 +335,24 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 경기 결과
 
+### 파이널
+
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1RAGg6zrInGE1ek8o2JLfHvSSqeI4Ad2-SfQ_nD32MH0?rm=minimal)에서 확인할 수 있습니다.
+
+2023년 11월 25일 토요일:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 캐나다 ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **독일** | [#1](https://osu.ppy.sh/community/matches/111451190) | [#1](https://www.twitch.tv/videos/1987233069) |
+
+2023년 11월 26일 일요일:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 필리핀 ::{ flag=PH }:: | 3 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111457054) | [#1](https://www.twitch.tv/videos/1987522035) |
+| **대한민국** ::{ flag=KR }:: | **7** | 3 | ::{ flag=AU }:: 오스트레일리아 | [#1](https://osu.ppy.sh/community/matches/111460173) | [#1](https://www.twitch.tv/videos/1987813835) |
+| 독일 ::{ flag=DE }:: | 1 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111466879) | [#1](https://www.twitch.tv/videos/1988064196) |
+
 ### 세미파이널
 
 자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1zCyydxBHoOroim349C-NPnAQLU6FM_vl3rWOTPaXpQ8?rm=minimal)에서 확인할 수 있습니다.
@@ -399,7 +437,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | Taiwan ::{ flag=TW }:: | 3 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/111183770) | [#1](https://www.twitch.tv/videos/1969422790?t=0h42m5s) |
 | Kazakhstan ::{ flag=KZ }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/111184163) | [#1](https://www.twitch.tv/videos/1969493249?t=00h39m32s) |
 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/111184941) | [#1](https://www.twitch.tv/videos/1969493249?t=1h49m24s) |
-| **United States** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/111187488) | [#1](https://www.twitch.tv/videos/1969693540) |
+| **미국** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/111187488) | [#1](https://www.twitch.tv/videos/1969693540) |
 | **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/111188366) | [#1](https://www.twitch.tv/videos/1969693540?t=0h39m58s) |
 
 ### 32강
@@ -650,8 +688,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 노트
 
-[^losers-bracket]: 패자조 경기
-[^potential-match]: 최종 상대는 이전 패자조 경기 결과에 따라 달라지는 잠재적인 경기입니다
+[^lb-gf-match]: 그랜드 파이널 패자조 경기
+[^gf-match]: 패자조 경기 결과에 따라 달라지는 그랜드 파이널 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
-[^winners-bracket]: 승자조 경기
