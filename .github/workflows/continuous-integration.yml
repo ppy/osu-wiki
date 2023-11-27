@@ -57,8 +57,7 @@ jobs:
         shell: bash
         run: |
           readarray -t REMARK_TARGET_FILES <<< $(
-            # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
-            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
+            echo "${{ env.INTERESTING_FILES }}" | grep '\.md$' || true
           )
           meta/remark.sh "${REMARK_TARGET_FILES[@]}"
 
