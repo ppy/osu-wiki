@@ -35,7 +35,7 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 |
 
-![](img/malt-badge.jpg "MALT winner badge")
+![](img/malt-badge.png "MALT winner badge")
 
 ## Organization
 

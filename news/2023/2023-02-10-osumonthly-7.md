@@ -262,7 +262,7 @@ We admit that the last month's question (*What class must mappers experience to 
 
 The correct answer was "05Z2", referring to the presence of a "perfect curve" slider type in the osu!(lazer) editor, along with this banner that was at the bottom of some (very) early builds.
 
-![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.jpg)
+![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.png)
 
 By the way, "05Z2" itself is a reference to the `.osz2` file format, which is used internally in the game servers and osu!stream.
 
