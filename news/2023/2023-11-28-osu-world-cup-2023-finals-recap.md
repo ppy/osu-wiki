@@ -11,7 +11,7 @@ The strongest teams have had their runs, yet before the end face an ultimatum to
 Remember ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450)'s [Blue Zenith](https://osu.ppy.sh/beatmapsets/292301#osu/658127) OWC performance point record from last week? This is old news already! Another player was able to break the record during the Finals weekend. Read on for more details and to find out which remaining team made it to the podium next to Australia and South Korea.
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Il3GYxm9djM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/0IWmo5uqF8A" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### ::{ flag=DE }:: Germany vs. ::{ flag=US }:: United States
