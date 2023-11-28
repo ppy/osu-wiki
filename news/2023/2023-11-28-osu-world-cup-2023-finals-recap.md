@@ -30,7 +30,7 @@ Including a beautiful full combo by ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/u
 
 The Aussies are known to have the best speed roster in the whole tournament and thus, they went for the fast maps such as [DT2](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687). But somehow, South Korea was able to beat them on that pick for a 3–0 lead. With the loss on a confidence map, Australia needed to boost their morale.
 
-::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), the #1 player of this game, showed his magic at this crucial timing. He landed three consecutive full combos which includes an insane performance on the difficult Hard Rock tech map [Aoi - Quartzshaper](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670). His plays helped Australia massively to get back on equal terms.
+::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), the current #1 player of the game, showed his magic at this crucial timing. He landed three consecutive full combos which includes an insane performance on the difficult Hard Rock tech map [Aoi - Quartzshaper](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670). His plays helped Australia massively to get back on equal terms.
 
 At 3–3, the Korean team chose the low AR map [nui - Mayday](https://osu.ppy.sh/beatmapsets/2044442#osu/4267100). This might have been the deciding pick of the match. The full combo streak for mrekk came to an end and the all-star ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) started to shine. His impressive showing continued with a full combo on [NM5](https://osu.ppy.sh/beatmapsets/2091742#osu/4384562) resulting in a complete momentum shift favouring South Korea.
 
@@ -38,7 +38,7 @@ The Australian squad could not catch a break and thus was defeated 3–7 after a
 
 ---
 
-Hopefully, we will be able to see the osu! original tiebreaker [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066) played during the culmination of the battles fought so far. The World Cup team has released an amazing showcase that you have to check out below. Overall, 20 osu! original songs have been created for OWC 2023 alone. The efforts of the artists are greatly appreciated!
+Hopefully, we will be able to see the [osu! original](/wiki/osu!_originals) tiebreaker [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066) played during the culmination of the battles fought so far. The World Cup team has released an amazing showcase that you have to check out below. Overall, **20** osu! original songs have been created for OWC 2023 alone. The efforts of the artists are greatly appreciated!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NNJIgQhizzg" frameborder="0" allowfullscreen></iframe>
