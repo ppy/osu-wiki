@@ -1,4 +1,8 @@
-# Conditions de déverrouillage des médailles : Beatmap Challenge Packs 
+---
+no_native_review: true # no_native_review_since: 509c538fba6a848cf044b98104f2a8466b38bf83 Doryan
+---
+
+# Conditions de déverrouillage des médailles : Beatmap Challenge Packs
 
 | Nom de la médaille | Condition |
 | :-- | :-- |
