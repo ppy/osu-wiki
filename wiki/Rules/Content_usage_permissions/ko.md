@@ -206,7 +206,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | [kakichoco](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] |  |
-| |kamome sano | ![false] | |
+|  | kamome sano | ![][false] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | [kanone](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] |  |
