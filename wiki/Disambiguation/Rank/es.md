@@ -6,7 +6,7 @@ tags:
   - clasificación
 ---
 
-# Rango (disambiguation)
+# Rango (desambiguación)
 
 **Rango** puede tener múltiples significados:
 
