@@ -14,7 +14,7 @@
 
 ## 다음으로 할 것은?
 
-신중하게 규칙을 읽어주세요! [링크](/wiki/Rules) 
+신중하게 규칙을 읽어주세요! [링크](/wiki/Rules)
 
 이것이 끝나면 이제 osu!를 시작할 준비가 끝나게 된 겁니다! [비트맵을 추가](/wiki/Client/Installation#비트맵-추가하기)할 수도 있고 [스킨](/wiki/Skinning)을 만들거나 혹은 [비트맵 제작](/wiki/Beatmapping)도 가능합니다. 혹은 [자기소개 포럼](https://osu.ppy.sh/community/forums/8)에 들어가 자기소개를 할 수도 있습니다.
 

@@ -18,7 +18,7 @@ As usual, we would like to thank everyone for your participation in the October 
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8366866)
 
 Allow me to introduce a new the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) member, initially an osu!catch Beatmap Nominator, now a Loved Metadata reviewer, please give a warm welcome to [Nokashi](https://osu.ppy.sh/users/5431196)!
- 
+
 Without further ado, let's move onto this month's picks!
 
 ### Navigation
@@ -478,10 +478,10 @@ We've put a few 6K mappacks into Loved in the past, including the prequel of thi
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. 
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on [the Project Loved website](https://loved.sh/submissions/).
 
-See you next month! 
+See you next month!
 
 —Panacotta

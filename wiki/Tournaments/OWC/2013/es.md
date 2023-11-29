@@ -490,7 +490,7 @@ Domingo, 10 de noviembre de 2013:
 ### Instrucciones de programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana** (consulte el calendario del torneo en la parte superior)
-2. En la fase de grupos, las primeras partidas se disputarán el viernes (8 de noviembre), el segundo el sábado (9 de noviembre), el tercero el domingo (10 de noviembre) 
+2. En la fase de grupos, las primeras partidas se disputarán el viernes (8 de noviembre), el segundo el sábado (9 de noviembre), el tercero el domingo (10 de noviembre)
    - Las partidas de la fase de grupos pueden coincidir
 3. Todas las Fases Eliminatorias se llevarán a cabo el sábado o el domingo (consulte el calendario del torneo).
 4. La programación estará a cargo del Gerente del torneo. Los horarios se publicarán el domingo anterior a las primeras partidas de la fase real (por ejemplo, el 3 de noviembre para la fase de grupos). El Gerente del torneo intentará crear el horario para respetar la zona horaria del participante.
