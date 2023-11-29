@@ -15,7 +15,7 @@ Wenn jemand Hilfe in den oben genannten Subforen brauchen sollte, sind sie die e
 
 ## Teammitglieder
 
-*Anmerkung: Alle Mitglieder im technischen Support-Team können Englisch zusätzlich zu den unten notierten Sprachen, sofern nicht anders vermerkt.*
+*Anmerkung: Alle Mitglieder des technischen Support-Teams sprechen neben den unten notierten Sprachen Englisch, sofern nicht anders vermerkt.*
 
 Die [Gruppenseite für das technische Support-Team](https://osu.ppy.sh/groups/22) listet alle Mitglieder des Teams auf.
 
