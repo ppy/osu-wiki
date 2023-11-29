@@ -206,7 +206,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/345) | [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/364) | [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/336) | [kakichoco](https://osu.ppy.sh/beatmaps/artists/336) | ![][true] |  |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/367) | [kanemiko](https://osu.ppy.sh/beatmaps/artists/367) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+|  | kamome sano | ![][false] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/123) | [kanone](https://osu.ppy.sh/beatmaps/artists/123) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/274) | [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274) | ![][true] |  |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/375) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) | ![][true] |  |
