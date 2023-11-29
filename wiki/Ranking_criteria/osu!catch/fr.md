@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Critères de classement d'osu!catch
 
 ***Remarque : Cet article est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
