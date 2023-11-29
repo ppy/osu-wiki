@@ -225,7 +225,7 @@ Experience [this map used as OWC's Quarterfinals HR3](https://osu.ppy.sh/beatmap
 
 [![](https://assets.ppy.sh/artists/190/header.jpg)](https://osu.ppy.sh/beatmaps/artists/190)
 
-*onostrapha* by **rN** is your new dearest nightmare. 
+*onostrapha* by **rN** is your new dearest nightmare.
 
 ### rN - onostrapha
 
@@ -377,7 +377,7 @@ Experience [this map used as OWC's Semifinals HR1](https://osu.ppy.sh/beatmapset
 
 ---
 
-Congrats on scrolling all the way down here! After experiencing so much music, you'll be happy to know that there's a whole bunch more on the way. 
+Congrats on scrolling all the way down here! After experiencing so much music, you'll be happy to know that there's a whole bunch more on the way.
 
 We release new Featured Artists every Wednesday and Saturday, but we'll be changing the script with some new ways of announcing artists this year!
 

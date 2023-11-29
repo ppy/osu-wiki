@@ -156,4 +156,4 @@ This competition has come to an end and resulted in the following podium:
 4. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be passed to the other player. This will have no effect on the order of picks afterwards.
 5. Players may pick maps freely from any mod pool, barring the maps that have been banned.
 6. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90-second timer ends, the referee will force the map to begin in 10 seconds, and the match will start with whoever is in the lobby.
-7. For tiebreakers, Free Mod will be enabled. **No Fail is enforced.** The allowed mods are Hidden, Hard Rock, Flashlight, and Easy. (Scores with Easy are multiplied by 2.0x) 
+7. For tiebreakers, Free Mod will be enabled. **No Fail is enforced.** The allowed mods are Hidden, Hard Rock, Flashlight, and Easy. (Scores with Easy are multiplied by 2.0x)

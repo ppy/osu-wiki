@@ -45,7 +45,7 @@ no_native_review: true
 - [mattyu007](https://osu.ppy.sh/users/4934) 加入圖譜審核團隊 (2008-08-28) <!-- https://osu.ppy.sh/community/forums/posts/45650 -->
 - [Dakeryus](https://osu.ppy.sh/users/10441) 加入圖譜審核團隊 (2008-08-31) <!-- https://osu.ppy.sh/community/forums/posts/46651 -->
 
-## 九月 
+## 九月
 
 - [Mogsworth](https://osu.ppy.sh/users/4018) 加入圖譜審核團隊 (2008-09-01) <!-- https://osu.ppy.sh/community/forums/posts/46904 -->
 - [kingcobra52](https://osu.ppy.sh/users/9934) 加入圖譜審核團隊 (2008-09-01)
