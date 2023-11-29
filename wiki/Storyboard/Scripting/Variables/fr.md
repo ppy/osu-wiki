@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Variables de script d'un storyboard
 
 Les **variables** sont des alias personnalisés pour d'autres valeurs, typiquement des chaînes de caractères longues ou communes, qui peuvent être réutilisées ailleurs dans les fichiers `.osb`. Elles ne peuvent pas être modifiées dynamiquement pendant le jeu, ce qui signifie que ce sont des valeurs constantes. Elles ne sont *pas supportées* dans les fichiers `.osu`.
