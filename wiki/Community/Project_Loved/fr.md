@@ -1,3 +1,7 @@
+---
+no_native_review: true # no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
+---
+
 # Project Loved
 
 Le **Project Loved** est la plateforme de vote qui fait la promotion des beatmaps dans la catégorie [Loved](/wiki/Beatmap/Category#loved). Elle est principalement gérée par la [Project Loved Team](/wiki/People/Project_Loved_Team).
