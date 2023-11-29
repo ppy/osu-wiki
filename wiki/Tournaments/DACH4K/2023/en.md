@@ -32,7 +32,7 @@ The **DACH 4k Championship 2023** (***DACH4K 2023***) was an osu!mania 4K tourna
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
-![DACH4K 2023 winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 winner badge") 
+![DACH4K 2023 winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 winner badge")
 
 ## Organisation
 
@@ -357,7 +357,7 @@ Monday, 17 July 2023:
 #### Qualifier
 
 1. Each player may sign up into a Qualifier lobby in advance.
-   - If none of the default lobbies are suitable, players can request a custom lobby before Monday 00:00 (UTC+2) on the week of the Qualifiers. 
+   - If none of the default lobbies are suitable, players can request a custom lobby before Monday 00:00 (UTC+2) on the week of the Qualifiers.
 2. 15 minutes before the Qualifier starts, players will be made aware of the Qualifier via the referee. 5 minutes before the start, players will be invited to the lobby.
 3. In the lobby, all Qualifier maps will be played 2 times in a row, with an optional 5-minute break between each run.
 4. Maps in the Qualifiers stage will be:

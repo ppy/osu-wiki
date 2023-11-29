@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Spring 2019 Signups Now Open"
+title: Community Mentorship Program Spring 2019 Signups Now Open
 date: 2019-01-27 12:00:00 +0000
 ---
 

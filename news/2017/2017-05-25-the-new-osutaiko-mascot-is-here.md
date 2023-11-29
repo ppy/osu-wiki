@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The new osu!taiko mascot is here!"
+title: The new osu!taiko mascot is here!
 date: 2017-05-25 08:39:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/161051842473/the-new-osutaiko-mascot-is-here
 ---

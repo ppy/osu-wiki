@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Как правильно работать с вики
 
 В этой статье рассказывается о том, с чем вы обязательно столкнётесь при редактировании вики. Описанные ниже шаги не только облегчат вашу жизнь, но и применимы в работе с другими проектами, живущими на GitHub или похожих платформах.
@@ -30,6 +35,8 @@
 2. В списке слева под заголовком `Workflows` выберите действие `Sync from osu! upstream`.
 3. Нажмите на кнопку `Run workflow` и заполните поля:
 
+<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+
 ![](img/github-actions-workflow-dialog.png "Форма запуска действия на GitHub")
 
 - **Use workflow from**: имя ветки, которую вы хотите синхронизировать (по умолчанию `master`).
@@ -41,6 +48,8 @@
   - `false` (по умолчанию): не делать резервную копию.
 
 4. Нажмите на зелёную кнопку `Run Workflow` и подождите, когда скрипт закончит работать. Если вам интересно, что в этот момент происходит, откройте и поизучайте запущенную задачу `Sync from osu! upstream`.
+
+<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
 ![](img/github-actions-workflow-overview.png "Список проделанных шагов в действии на GitHub")
 

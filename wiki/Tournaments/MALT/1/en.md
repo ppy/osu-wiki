@@ -35,7 +35,7 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 |
 
-![](img/malt-badge.jpg "MALT winner badge")
+![](img/malt-badge.png "MALT winner badge")
 
 ## Organization
 
@@ -316,7 +316,7 @@ Saturday, 7 October 2023:
 | Silhoueska Elze ::{ flag=PH }:: | 1 | **7** | ::{ flag=MY }:: **Kzon** | [#1](https://osu.ppy.sh/community/matches/110777656) |
 | **RhymesWithMash** ::{ flag=US }:: | **7** | 3 | ::{ flag=FR }:: CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/110783358) |
 
-Sunday, 8 October 2023: 
+Sunday, 8 October 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

@@ -4,7 +4,7 @@ SEV 是[审核评估团队](/wiki/People/Nomination_Assessment_Team) (*NAT*) 使
 
 ## 明显性和严重性
 
-*注意：如果为了应用谱面未在过审之前提交的修改内容，而重置了谱面的提名，这个分数始终为 0/0。这套系统并不是用于阻止摸和修改并改善[过审 (Qualified)](/wiki/Beatmap/Category#过审-(qualified)) 谱面的。*
+*注意：如果为了应用谱面未在过审之前提交的修改内容，而重置了谱面的提名，这个分数始终为 0/0。这套系统并不是用于阻止摸和修改并改善[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 谱面的。*
 
 **明显性**与问题被发现的容易程度有关。
 
