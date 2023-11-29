@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November 2014 Monthly Ranking Charts - New Season!"
+title: November 2014 Monthly Ranking Charts - New Season!
 date: 2014-12-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/105367487963/november-2014-monthly-ranking-charts-new-season
 ---

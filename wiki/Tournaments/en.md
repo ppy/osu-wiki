@@ -141,7 +141,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | *TBD* | *TBD* | *TBD* |
+| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

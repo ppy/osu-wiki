@@ -73,7 +73,7 @@ tags:
 - 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 吧！
 - 将滑条转换成[连打](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
 - 如果你在转盘后放了物件，确保它们之间有足够的时间间隔，让玩家能辨认并准确击打后面的物件。
-- 能使用[创建多边形圆圈](/wiki/Client/Beatmap_editor/Menu#special-commands.2)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。
+- 能使用[添加多边形圆圈](/wiki/Client/Beatmap_editor/Menu#作图)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。
 - 相互覆盖的物件（滑条头尾，圆圈），将会在游玩时[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)起来。若想看它们在游玩时的显示效果，在`查看`选项卡的下拉菜单里勾选`堆叠效果`即可。
 - [AiMod](/wiki/Client/Beatmap_editor/AiMod) (`Ctrl` + `Shift` + `A`) 能够帮助识别谱面中可能存在的问题，即使你的谱面没有[人](/wiki/Modding/Modder)摸过。
 - 可以使用鼠标滚轮，或是左右方向键来平移时间线。按住 `Shift` 能四倍速平移。
@@ -82,8 +82,8 @@ tags:
 - 查阅[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)来获取已经测好时间轴的谱面，并直接开始作图！
 - 把哨、镲和拍手音效放在节奏对应的位置上来润色你的谱面！可以在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内的音频 (Audio) 标签页下来修改不同段落的音效组。
 - 将光标悬停在时间轴上，并按住 `Alt`，滚动鼠标滚轮或者按 `+`/`-` 按钮来缩放时间轴。
-- 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)——它们不受这个功能影响！
-- 任何[待定 (Pending)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#坟场-(graveyard))。坟图能在你的用户页内复活到待定状态。
+- 如果你在作图期间调整时间轴，切记要使用[`全部重新对齐`](/wiki/Client/Beatmap_editor/Menu#测定时间轴-(timing))功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)——它们不受这个功能影响！
+- 任何[待定 (Pending)](/wiki/Beatmap/Category#wip-and-pending) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#graveyard)。坟图能在你的用户页内复活到待定状态。
 - 当复制 (`Ctrl` + `C`) 物件时，你的剪贴板将会写入这些物件的时间位置和连击数字。这些文字对[摸图](/wiki/Modding)极有帮助！
 - 在时间线上滑条尾处点击并拖拽，能给滑条添加[折返箭头](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。
 

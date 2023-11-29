@@ -6,7 +6,7 @@
 
 Moderatörler tarafından susturulmuş olan kullanıcılar aşağıdaki işlemleri yapamazlar:
 
-- Hem oyun içerisinde hem de web sitesi üzerinden genel ve özel [sohbet](/wiki/Client/Interface/Chat_console) kanallarına erişim, 
+- Hem oyun içerisinde hem de web sitesi üzerinden genel ve özel [sohbet](/wiki/Client/Interface/Chat_console) kanallarına erişim,
 - Herhangi bir osu! forumunda gönderi atma
 - Web sitesinde herhangi bir yere yorum bırakma (haberler, değişiklik kayıtları, beatmapler)
    [Beatmap tartışmalarında](/wiki/Beatmap_discussion) yer alma

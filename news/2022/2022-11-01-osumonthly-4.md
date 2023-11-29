@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, October 2022"
+title: osu!monthly, October 2022
 date: 2022-11-01 10:00:00 +0000
 ---
 
@@ -107,7 +107,7 @@ From the 29th of October onwards, the finalist entries were available to witness
 
 ### The Twitter poll
 
-It all started on October 13th when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase. 
+It all started on October 13th when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase.
 
 After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, osu! won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
 

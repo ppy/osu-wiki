@@ -44,9 +44,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}
 
 Eine eingereichte Beatmap gehört zu einer der folgenden Kategorien, die sich über die Zeit ändern können:
 
-- [Friedhof](Category#friedhof)
-- [Work in Progress / Ausstehend](Category#work-in-progress-und-ausstehend)
-- [Qualifiziert](Category#qualifiziert)
+- [Friedhof](Category#graveyard)
+- [Work in Progress / Ausstehend](Category#wip-and-pending)
+- [Qualifiziert](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
 - [Loved](Category#loved)

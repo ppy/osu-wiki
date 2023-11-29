@@ -20,7 +20,7 @@ outdated_translation: true
 Setelah Anda memiliki sebuah klien IRC, Anda perlu mengatur pengaturan server (Anda mungkin perlu untuk menambah server dahulu).
 
 - Server: `irc.ppy.sh`
-- Port: `6667` 
+- Port: `6667`
 - SSL: dinonaktifkan
 - Username: Nama pengguna osu! Anda. (ganti spasi dengan garis bawah, contoh `beppy master 1000` menjadi `beppy_master_1000`)
 - Password: Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).

@@ -1,14 +1,15 @@
-name: 'Welcome new contributors'
+name: Welcome new contributors
 
 on:
   pull_request_target:
-    types: [opened]
+    types:
+      - opened
 
 jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Greet the contributor'
+      - name: Greet the contributor
         uses: garg3133/welcome-new-contributors@v1.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}

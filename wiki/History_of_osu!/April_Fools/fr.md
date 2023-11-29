@@ -26,7 +26,7 @@ Chaque année, l'[équipe osu!](/wiki/People/osu!_team) aime faire des blagues �
 
 ### "Lemon Tree" est classée
 
-La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#classée) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Son statut de beatmap classée a été supprimé par l'équipe de modération peu de temps après.[^lemontree-post-machol30]
+La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) a été [classée](/wiki/Beatmap/Category#ranked) le 1er avril 2009, dans le cadre du poisson d'avril de cette année-là. La beatmap était une blague très populaire au sein de la communauté, les utilisateurs affirmant sarcastiquement qu'une telle beatmap devrait rester classée pour toujours.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Son statut de beatmap classée a été supprimé par l'équipe de modération peu de temps après.[^lemontree-post-machol30]
 
 Après un certain temps, la beatmap originale a été supprimée à la demande de son créateur, mais elle a finalement été remise en ligne le 24 août 2012 par [MillhioreF](https://osu.ppy.sh/users/941094) à des fins d'archivage.[^lemontree-post-millhioref]
 
@@ -36,9 +36,9 @@ Après un certain temps, la beatmap originale a été supprimée à la demande d
 
 Pour le poisson d'avril de 2010, le site web d'osu! ainsi que l'écran du menu principal du jeu ont été modifiés pour mettre en scène des personnages et des références à [Touhou Project](https://fr.wikipedia.org/wiki/Touhou_Project). Les modifications comprenaient l'ajout du personnage de Marisa Kirisame et l'affichage de papillons de couleurs différentes dans un motif circulaire sur le menu principal et le site web, ainsi que le remplacement du nom "osu!" par "touhosu!" à certains endroits du site web.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
-![](img/2010-touhosu-main-screen.jpg "L'écran du menu principal dans osu! le 1er avril 2010")
+![](img/2010-touhosu-main-screen.png "L'écran du menu principal dans osu! le 1er avril 2010")
 
-![](img/2010-touhosu-website.jpg "Le site d'osu! le 1er avril 2010")
+![](img/2010-touhosu-website.png "Le site d'osu! le 1er avril 2010")
 
 La plaisanterie découle en grande partie d'une [demande de fonctionnalité de longue date](https://osu.ppy.sh/community/forums/topics/19307) visant à créer un [mode de jeu](/wiki/Game_mode) basé sur le mode de jeu actuel [osu!catch](/wiki/Game_mode/osu!catch) avec le gameplay principal des jeux du projet Touhou.
 
@@ -95,9 +95,9 @@ Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de
 
 Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un tchat public, ses messages de tchat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique.[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
 
-![](img/2013-regular-banchobot.jpg "Interactions avec BanchoBot en 2013")
+![](img/2013-regular-banchobot.png "Interactions avec BanchoBot en 2013")
 
-![](img/2013-tsundere-banchobot.jpg "Interactions avec BanchoBot le 1er avril 2013")
+![](img/2013-tsundere-banchobot.png "Interactions avec BanchoBot le 1er avril 2013")
 
 ## 2014
 
