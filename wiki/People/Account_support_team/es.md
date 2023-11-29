@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0df11d00415c24fe6867239d75ec1cd3b575162b
+---
+
 # Equipo de soporte de cuentas
 
 *Para un equipo que modera ciertos subforos, véase: [Support Team](/wiki/People/Support_Team)*
@@ -34,7 +39,7 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
 
 *Nota: Para reportar un caso extremo de mala conducta o abuso sexual por parte de cualquier usuario, incluido un moderador, véase [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse).*
 
-- Inquietudes sobre el mal comportamiento de un moderador.
+- Inquietudes sobre la mala conducta de un moderador.
 - Inquietudes sobre un moderador que infringe [el código de conducta para contribuyentes](/wiki/Rules/Contributor_code_of_conduct).
 - [Problemas de pago](/wiki/Help_centre/Account#supporter) para pedidos de la [osu!store](https://osu.ppy.sh/store/listing).
 - Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_centre/Client#online-features).

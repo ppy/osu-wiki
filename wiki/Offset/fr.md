@@ -9,7 +9,7 @@ Selon le type de décalage, il est défini par le créateur de la beatmap, perso
 ### Gameplay
 
 - [Local offset](/wiki/Offset/Local_offset), un paramètre par beatmap qui décale tous les éléments de gameplay par rapport à la piste audio.
-- [Online offset](/wiki/Offset/Online_offset), un changement de timing appliqué par la [NAT](/wiki/People/Nomination_Assessment_Team) aux beatmaps [classées](/wiki/Beatmap/Category#classée) avec un décalage de beatmap incorrect afin de l'ajuster.
+- [Online offset](/wiki/Offset/Online_offset), un changement de timing appliqué par la [NAT](/wiki/People/Nomination_Assessment_Team) aux beatmaps [classées](/wiki/Beatmap/Category#ranked) avec un décalage de beatmap incorrect afin de l'ajuster.
 - [Universal offset](/wiki/Offset/Universal_offset), un paramètre qui affecte globalement le timing des beatmaps en décalant la piste audio par rapport à tous les autres éléments du jeu.
 
 ### Mapping

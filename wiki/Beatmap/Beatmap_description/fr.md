@@ -9,7 +9,7 @@ La **description d'une beatmap** est une petite zone sous la page d'une [beatmap
 
 ## Utilisations et informations
 
-Les descriptions des beatmaps [classées](/wiki/Beatmap/Category#classée) comprennent souvent les éléments suivants :
+Les descriptions des beatmaps [classées](/wiki/Beatmap/Category#ranked) comprennent souvent les éléments suivants :
 
 - Une liste de toutes les [guest difficulties](/wiki/Beatmap/Guest_difficulty) et de leurs créateurs.
 - Des informations permettant au joueur de décider s'il veut ou non télécharger la beatmap.

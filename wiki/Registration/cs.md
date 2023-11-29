@@ -3,7 +3,7 @@
 *Poznámka: [osu! pravidla](/wiki/Rules) zakazují používání dvou nebo více účtů!*
 
 1. Po [instalaci](/wiki/Client/Installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
-   
+
    ![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
 
 2. Vyplňte všechna pole ve formuláři.

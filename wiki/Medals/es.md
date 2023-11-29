@@ -12,7 +12,7 @@ Sin embargo, vale la pena señalar que el contenido de todos los paquetes de vid
 
 ## Skill
 
-Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
+Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -22,7 +22,7 @@ Las **medallas Dedication** son medallas otorgadas al alcanzar ciertos objetivos
 
 *Véase también: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
-Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados) con su correspondiente [modificador del juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Sin embargo, ten en en cuenta que si los jugadores juegan con múltiples modificadores del juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador del juego para esa jugada.
+Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved) con su correspondiente [modificador del juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Sin embargo, ten en en cuenta que si los jugadores juegan con múltiples modificadores del juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador del juego para esa jugada.
 
 Todas las medallas de introducción a mods se pueden desbloquear en cualquier [modo de juego](/wiki/Game_mode), a menos que se especifique lo contrario.
 

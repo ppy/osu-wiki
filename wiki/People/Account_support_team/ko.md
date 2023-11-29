@@ -4,7 +4,7 @@ no_native_review: true
 
 # 계정 지원팀
 
-*특정 포럼을 중재하는 팀의 경우, 다음을 참조하세요: [서포트 팀](/wiki/People/Support_Team)*
+*특정 포럼을 중재하는 팀의 경우, 다음을 참조하세요: [기술 지원팀](/wiki/People/Technical_Support_Team)*
 
 **계정 지원팀**은 유저의 계정을 관리하고 사일런스나 계정 제한의 항소를 수락하는 그룹입니다.
 

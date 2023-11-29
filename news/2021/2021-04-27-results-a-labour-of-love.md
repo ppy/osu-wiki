@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - A Labour of Love"
+title: Results - A Labour of Love
 date: 2021-04-27 20:00:00 +0000
 ---
 
@@ -68,7 +68,7 @@ Seeing as the *Elite Storyboarder* title wasn't awarded to anyone in the overall
 
 Taking the breath away from mappers and musicians across the board, team *extremely valid* wears the heart-shaped crown with their submission [**Raphlesia & BilliumMoto - My Love**](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)!
 
-![Overall runner-up badge](/wiki/shared/news/2021-04-27-results-a-labour-of-love/overall.jpeg)
+![Overall runner-up badge](/wiki/shared/news/2021-04-27-results-a-labour-of-love/overall.jpg)
 
 Yep, that's right. This entry received #1 in the musician-focused panel, the mapping panel, and the overall panel. With just a few more votes they could've even taken the community vote — insane, right?
 
