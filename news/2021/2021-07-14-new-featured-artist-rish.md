@@ -32,7 +32,7 @@ Play any of these beatmaps covering (almost) all modes:
     <source src="https://assets.ppy.sh/artists/181/Candy%20Panic%20Bomb!/Rish%20feat.%20Choko%20-%20Take.mp3" type="audio/mpeg">
 </audio>
 
-### Rish feat. Hatsune Miku - Uni 
+### Rish feat. Hatsune Miku - Uni
 
 Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/84156) hosted by [HanzeR](https://osu.ppy.sh/users/1592447)!
 
@@ -40,7 +40,7 @@ Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/
     <source src="https://assets.ppy.sh/artists/181/Colorful%20Wonderland/Rish%20feat.%20Hatsune%20Miku%20-%20Uni.mp3" type="audio/mpeg">
 </audio>
 
-### Rish feat. Choko - Punai Punai Sensou 
+### Rish feat. Choko - Punai Punai Sensou
 
 Try playing [this other beatmap](https://osu.ppy.sh/beatmapsets/1328903) hosted by [Mixagji](https://osu.ppy.sh/users/767003)!
 
@@ -48,7 +48,7 @@ Try playing [this other beatmap](https://osu.ppy.sh/beatmapsets/1328903) hosted 
     <source src="https://assets.ppy.sh/artists/181/Punai%20Punai%20Sensou%2FRish%20feat.%20Choko%20-%20Punai%20Punai%20Sensou.mp3" type="audio/mpeg">
 </audio>
 
-### Rish feat. Choko - Teruyama II 
+### Rish feat. Choko - Teruyama II
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/181/Black%20Black%20Candy/Rish%20feat.%20Choko%20-%20Teruyama%20II.mp3" type="audio/mpeg">

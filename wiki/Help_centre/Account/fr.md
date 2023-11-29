@@ -161,7 +161,7 @@ Si un joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son
 
 Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonction non linéaire](https://www.desmos.com/calculator/b89siyv9j8) est utilisée pour calculer combien de temps supplémentaire est ajouté à ces 6 mois. Cela permet d'éviter que des personnes volent les noms d'utilisateur de joueurs actifs ou qui ont arrêté récemment.
 
-Aussi, les noms d'utilisateur des joueurs avec des [beatmaps classées](/wiki/Beatmap/Category#classée) ou des [badges de profil](/wiki/Community/Profile_badge) ne peuvent pas être pris.
+Aussi, les noms d'utilisateur des joueurs avec des [beatmaps classées](/wiki/Beatmap/Category#ranked) ou des [badges de profil](/wiki/Community/Profile_badge) ne peuvent pas être pris.
 
 ### Est-il possible de changer mon nom ou de revenir à mon ancien nom d'utilisateur ? {id=revert-username}
 
@@ -224,7 +224,7 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 *Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*\
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
-Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
+Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!.
 
 ### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé ! {id=account-lock}
 

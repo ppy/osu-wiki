@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
   6. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
   7. [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC)
   8. [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX)
-- Tiebreaker  
+- Tiebreaker
   1. **[Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)**
 
 ### Semifinals
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
   4. [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#fruits/76663)
   5. [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](https://osu.ppy.sh/beatmapsets/39816#fruits/126671)
   6. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
-- Tiebreaker  
+- Tiebreaker
   1. **[DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](https://osu.ppy.sh/beatmapsets/24611#fruits/97416)**
 
 ### Quarterfinals
@@ -124,7 +124,7 @@ This competition has come to an end and resulted in the following podium:
   2. [goreshit - MATZcore (\_LRJ\_) \[Lolicore\]](https://osu.ppy.sh/beatmapsets/24388#fruits/83975)
   3. [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Weezy) \[Saten's SELAMAT PAGI!!\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
   4. [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#fruits/62589)
-- Tiebreaker  
+- Tiebreaker
   1. **[Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)**
 
 ### Group stage week 5

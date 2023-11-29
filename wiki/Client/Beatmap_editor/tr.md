@@ -25,7 +25,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Timing (Zamanlama)
 
-[Timing (Zamanlama)](/wiki/Client/Beatmap_editor/Timing) bir beatmapin zamanlama kısımlarını denetler ve beatmapin vuruş seslerini kontrol eder. Bu bir beatmapin doğru zamanlamaya ve şarkının ritmine uygun oynanış tecrübesi sağlaması için uygun geri bildirim sağlamaya ihtiyacı olduğu için zorunludur. 
+[Timing (Zamanlama)](/wiki/Client/Beatmap_editor/Timing) bir beatmapin zamanlama kısımlarını denetler ve beatmapin vuruş seslerini kontrol eder. Bu bir beatmapin doğru zamanlamaya ve şarkının ritmine uygun oynanış tecrübesi sağlaması için uygun geri bildirim sağlamaya ihtiyacı olduğu için zorunludur.
 
 ## Song Setup (Müzik Kurulumu)
 
@@ -36,9 +36,9 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 Beatmap düzenleyicinin diğer kısımlarına şunlar dahildir:
 
 - [AiMod](AiMod): Bir beatmaptaki hataları otomatik olarak bildiren bir sistem
-- [Nota ızgara bölücü](Beat_Snap_Divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
+- [Nota ızgara bölücü](Beat_snap_divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
 - [Mesafe aralığı](Distance_snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
 - [Kiai zamanı](/wiki/Gameplay/Kiai_time): Beatmapin bir kısmını vurgulamak için kullanılan özel zamanlama kısmı
 - [Menü](Menu): Düzenleyicide gezinmenize yardımcı olur
-- [SB yükü](SB_Load): Storyboard'un ne kadar kaynak gerektirdiğini gösterir
+- [SB yükü](SB_load): Storyboard'un ne kadar kaynak gerektirdiğini gösterir
 - [Zaman çizgileri](Timelines): Yerleştirilmiş objeleri, molaları ve daha fazlasını gösterir
