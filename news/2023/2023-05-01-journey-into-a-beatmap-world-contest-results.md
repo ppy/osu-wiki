@@ -38,7 +38,7 @@ Destiny drew **1079** voters towards [**RedcXca**](https://osu.ppy.sh/users/1405
 
 [![](https://assets.ppy.sh/contests/175/banners/xootynator.jpg)](https://assets.ppy.sh/contests/175/winners/xootynator.png)
 
-[**xootynator**](https://osu.ppy.sh/users/3717598) exploded **1063** minds in an overwhelming deluge of creative colour with her [Euphoria-inspired](https://osu.ppy.sh/beatmapsets/890438#osu/1861487) entry.  
+[**xootynator**](https://osu.ppy.sh/users/3717598) exploded **1063** minds in an overwhelming deluge of creative colour with her [Euphoria-inspired](https://osu.ppy.sh/beatmapsets/890438#osu/1861487) entry.
 
 She now holds the unique position of being potentially the only art contest entrant in history to possess both a first-place score on an iconic beatmap and a finalist-qualifying artwork inspired by the very same map. Never thought I'd be including *that* in one of these blurbs. Save some talent for the rest of us!
 
@@ -86,13 +86,13 @@ The Kemomimi Art Squad rocked up and commandeered **679** votes at [**Dika312**]
 
 [**Download a zip file of all the winning entries here!**](https://assets.ppy.sh/contests/175/JIBW2023-Winners.zip)
 
-The top 3 finalists as voted by you should now find themselves the proud new owner of a bespoke profile badge derived from their winning creations, and every finalist also goes home with 3 months of osu!supporter for their efforts. 
+The top 3 finalists as voted by you should now find themselves the proud new owner of a bespoke profile badge derived from their winning creations, and every finalist also goes home with 3 months of osu!supporter for their efforts.
 
 You can also check out the full scope of the voting results over at the [Journey into a Beatmap World Art Contest listing](https://osu.ppy.sh/community/contests/175). Remember, if you see something you like, check out the artist's profile for links, or maybe slide into their DMs and let them know you appreciated their work!
 
 Astute observers may note the absence of peppy's picks this time around. Don't fret, they'll be back for the next contest!
 
-A huge thank you to everyone who submitted and entry and participated in the voting! Despite the lower turnout overall (mostly a product of the time of year), this art contest was one of the most exciting I think we've had yet. 
+A huge thank you to everyone who submitted and entry and participated in the voting! Despite the lower turnout overall (mostly a product of the time of year), this art contest was one of the most exciting I think we've had yet.
 
 There's just something so satisfying about trying to link back a given piece of art to its source inspiration, especially when it involves scraping through over fifteen years of beatmapping history. We had several moments in our secret team Discord re-enacting the Spiderman points at Spiderman meme, except with fanart entries and beatmaps. *It turns out that maybe some of us are better at it than others.*
 

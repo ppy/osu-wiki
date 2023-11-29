@@ -8,7 +8,7 @@ Taste a new blend of J-core and rhythm game music crafted by **Synthion**, our n
 
 ![](https://assets.ppy.sh/artists/357/header.jpg)
 
-**Synthion** has practically been one of our Featured Artists since day one. Her first appearance in the Ranked category was via [Maboroshi](https://osu.ppy.sh/beatmapsets/1175718#osu/2452216) (in collaboration with two of our old-school Featured Artists [Hyper Potions](https://osu.ppy.sh/beatmaps/artists/85) and [MYLK](https://osu.ppy.sh/beatmaps/artists/62)), shortly followed by [Hypervelocity](https://osu.ppy.sh/beatmapsets/1662973) which was released on osu! through [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205). 
+**Synthion** has practically been one of our Featured Artists since day one. Her first appearance in the Ranked category was via [Maboroshi](https://osu.ppy.sh/beatmapsets/1175718#osu/2452216) (in collaboration with two of our old-school Featured Artists [Hyper Potions](https://osu.ppy.sh/beatmaps/artists/85) and [MYLK](https://osu.ppy.sh/beatmaps/artists/62)), shortly followed by [Hypervelocity](https://osu.ppy.sh/beatmapsets/1662973) which was released on osu! through [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205).
 
 Today, **Synthion** is here to expand her osu! library even more. **9** new tracks should now be on your mapping radar, all available from [**Synthion**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/357)!
 
