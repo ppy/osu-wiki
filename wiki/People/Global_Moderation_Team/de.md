@@ -30,7 +30,7 @@ Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zustä
 
 ## Ein Moderator werden
 
-Um ein Mitglied des **globalen Moderationsteams** zu werden, müssen nennenswerte Beiträge geleistet werden. Kandidaten für eine Stelle im Team fallen oft durch ihre Hilfsbereitschaft, ihre Aktivität in der Community und ihr gutes Verhalten auf. Generell werden Kandidaten bevorzugt, die Englisch und mindestens eine weitere Sprache beherrschen. Das Team diskutiert intern, ob ein möglicher Kandidat Teammitglied werden soll. 
+Um ein Mitglied des **globalen Moderationsteams** zu werden, müssen nennenswerte Beiträge geleistet werden. Kandidaten für eine Stelle im Team fallen oft durch ihre Hilfsbereitschaft, ihre Aktivität in der Community und ihr gutes Verhalten auf. Generell werden Kandidaten bevorzugt, die Englisch und mindestens eine weitere Sprache beherrschen. Das Team diskutiert intern, ob ein möglicher Kandidat Teammitglied werden soll.
 
 ### Wie man als Kandidat in Betracht gezogen wird
 

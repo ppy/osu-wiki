@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
   3. [seatrus - efchi (Mir) \[Euphoria (tourney ver)\]](https://osu.ppy.sh/beatmapsets/1592192#osu/3251845)
   4. [TERRASPEX - AMAZING BREAK (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593072#osu/3253699)
   5. [Noah - World's end (Elcheer) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1592364#osu/3252187)
-  6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)  
+  6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)
 - Hidden
   1. [Bentham - Chicago (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1592349#osu/3252165)
   2. [SAW WAVE SOUND - GRID KNIGHT (Dada) \[GRID IRON\]](https://osu.ppy.sh/beatmapsets/1592210#osu/3251884)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[MASTER AR8\]](https://osu.ppy.sh/beatmapsets/312310#osu/2775197)
   3. [PSYQUI - Start Up feat. Such (MaridiuS) \[Expert\]](https://osu.ppy.sh/beatmapsets/1593330#osu/3254258)
 - Tiebreaker
-  1. **[pm04034 - cold smoothie coffee (Mirash) \[techies collab\]](https://osu.ppy.sh/beatmapsets/1592358#osu/3252181)**  
+  1. **[pm04034 - cold smoothie coffee (Mirash) \[techies collab\]](https://osu.ppy.sh/beatmapsets/1592358#osu/3252181)**
 
 ### Finals (week 1)
 
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
   3. [seatrus - ILLEGAL LEGACY (Mir) \[ILLEGAL GAMING\]](https://osu.ppy.sh/beatmapsets/1587369#osu/3241947)
   4. [PinocchioP - Whatever Yama Says Goes (Axaptice) \[Pinochioffee Tourney Diff\]](https://osu.ppy.sh/beatmapsets/1587644#osu/3242457)
   5. [UNDEAD CORPORATION - Everything will freeze (sjoy) \[Freezing\]](https://osu.ppy.sh/beatmapsets/336471#osu/744673)
-  6. [Yaju - DEBSTEP! (KnightC0re) \[EXTRA!\]](https://osu.ppy.sh/beatmapsets/1587355#osu/3241923)  
+  6. [Yaju - DEBSTEP! (KnightC0re) \[EXTRA!\]](https://osu.ppy.sh/beatmapsets/1587355#osu/3241923)
 - Hidden
   1. [sasakure.UK - Negaposi\*Continues feat. Hatsune Miku (Chaoslitz) \[Game Over\]](https://osu.ppy.sh/beatmapsets/373762#osu/818812)
   2. [KOTOKO - Koi Kou Enishi (newton-) \[Youtou no Mai\]](https://osu.ppy.sh/beatmapsets/1587308#osu/3241847)
@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
   2. [MuryokuP - Core (yaspo) \[Core\]](https://osu.ppy.sh/beatmapsets/1587310#osu/3241849)
   3. [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL (Lokidoki) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/1587318#osu/3241863)
 - Tiebreaker
-  1. **[Dream Theater - Scene Seven: I. The Dance of Eternity (olc) \[i asked dominos to draw peter griffin on the box and they didnt do it\]](https://osu.ppy.sh/beatmapsets/1587309#osu/3241848)**  
+  1. **[Dream Theater - Scene Seven: I. The Dance of Eternity (olc) \[i asked dominos to draw peter griffin on the box and they didnt do it\]](https://osu.ppy.sh/beatmapsets/1587309#osu/3241848)**
 
 ### Semifinals
 
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
   4. [The Fearless Flyers - Assassin (olc) \[let's go\]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
   5. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
-  6. [PSYQUI - Hysteric night girl -Awakening- (feat. Such) (Luminiscental) \[Liber\]](https://osu.ppy.sh/beatmapsets/1580891#osu/3227979)  
+  6. [PSYQUI - Hysteric night girl -Awakening- (feat. Such) (Luminiscental) \[Liber\]](https://osu.ppy.sh/beatmapsets/1580891#osu/3227979)
 - Hidden
   1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/506155#osu/1076701)
   2. [ZAQ - Inside Identity (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1580696#osu/3227615)
@@ -325,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Memme - Extreme Fantasy (Chokori) \[SHD - Lv. 29\]](https://osu.ppy.sh/beatmapsets/915904#osu/1912895)
 - FreeMod
   1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmapsets/106443#osu/279481)
-  2. [Cranky - The Five \[Short Edit\] (AJT) \[Five\]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840) 
+  2. [Cranky - The Five \[Short Edit\] (AJT) \[Five\]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840)
 
 ### Swiss round (week 2)
 
@@ -710,9 +710,9 @@ Monday, 23 August 2021:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are fairly awarded towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
@@ -773,7 +773,7 @@ Monday, 23 August 2021:
 4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which each player needs to win at least 2 out of the 3 contested sets in order to clinch the championship title.
 5. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13) 
+   - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who win by default will advance to the next round.
    - Players who are disqualified from the tournament will not advance to the next round.
 

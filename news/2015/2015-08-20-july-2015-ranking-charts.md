@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July 2015 Ranking Charts"
+title: July 2015 Ranking Charts
 date: 2015-08-20 16:35:24 +0000
 tumblr_url: http://osunews.tumblr.com/post/127165714323/july-2015-ranking-charts
 ---
@@ -40,7 +40,6 @@ Another Demetori song mapped by none other than jonathanlfj! I thoroughly enjoye
 
 Nara did a great job with mapping this song. If you open up "First Love" in editor, it will not seem like much. Rather, it may even look a bit messy. However, these patterns and arrangements play remarkably well, especially the jump patterns. I don't know how, but they are just really easy to land. Additionally, the map flows very nicely and uses a wide variety of pattern arrangements to keep the player interested. I have to mention P A N's Insane as well because of how well it plays too. P A N's version is very structurally based, with a lot of geometry going on. Yet, it also flows very well, and all the jump patterns are really fun to play. Perhaps maps that flow well don't seem as difficult because many of the jumps and movements just feel more natural to the players.
 
-
 ### Taiko
 
 For Taiko, we asked **[Stefan](https://osu.ppy.sh/users/626907)** about their favourite maps in July 2015.
@@ -53,15 +52,13 @@ I Can't Wait to go play the chart maps, and so you do. So let's go: The mapper s
 
 I haven't seen a lot by the main mapper of the set but I see I should catch up for that. Spread is very well made, offers basic pattern in the Kantan and Futsuu Difficulty which gets decently harder in the Oni difficulties. Definitely a look worth to play.
 
-- [Seiryu - Critical Crystal](https://osu.ppy.sh/beatmapsets/138311) by [Sayaka-](https://osu.ppy.sh/users/398275)  
+- [Seiryu - Critical Crystal](https://osu.ppy.sh/beatmapsets/138311) by [Sayaka-](https://osu.ppy.sh/users/398275)
 
 An older map which was quiet for a long time but came back - and also finally ranked! Although it feels weird to have "Beginner" as Difficulty the set has a great spread and being noticeable challenging at the Inner Oni. Oh, and do not underestimate the Oni Difficulty. Even that one got a high density! Especially in the Kiai sections.
 
-
-- [Ayane - Go Love&Peace (short size)](https://osu.ppy.sh/beatmapsets/303149) by [Chaica](https://osu.ppy.sh/users/4455389)  
+- [Ayane - Go Love&Peace (short size)](https://osu.ppy.sh/beatmapsets/303149) by [Chaica](https://osu.ppy.sh/users/4455389)
 
 Some of you may hate low BPM beatmaps but they also can be pretty fun to play, and this mapper showed us that it's possible! Having a 4-difficulty mapset became uncommon at this time but feels well-made. The Futsuu may feels a bit harsh when you recently come from Kantan difficulties but it's still doable and good to learn some "harder" pattern, you know how "harder is here meant to be. I highly recommend to play this when you're newer in the Taiko mode since it offers very simple and common Taiko pattern to learn. You also should spread some Love & Peace, don't forget that.
-
 
 - [Nanamori-chu * Goraku-bu - After School Days](https://osu.ppy.sh/beatmapsets/292370) by [-TheHateD-](https://osu.ppy.sh/users/5018747)
 
@@ -70,7 +67,6 @@ I wasn't really sure about the spread because I had some doubt in the easier dif
 - [sasakure.UK feat. Kagamine Rin - Tiger Rampage](https://osu.ppy.sh/beatmapsets/279175) by [tasuke912](https://osu.ppy.sh/users/2774767)
 
 They were some controversial parts in the harder difficulties such as 1/6 usage but I honestly found them not that bad, as for someone which actually really dislikes the wrong usage of 1/6 pattern. The only two things which bugged me is the spread from Kantan to Muzukashii which could've been done better and the really really high SV in the Rampage Oni, last one is however a full personal preference. Beside of that: A good mapset which barely made it in my list (it caused me headache to make a final decision if I put it in the list or not).
-
 
 ### Catch the Beat
 
@@ -127,8 +123,6 @@ Probably the most exciting 4K of this month which really deserve a place here. G
 - [Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/beatmapsets/302726) by [Starry-](https://osu.ppy.sh/users/2166199)
 
 A great set doesn't always have to contain a really hard difficulty or hardcore stuff in general. But the main reason why I choose this set for the charts is the way being mapped in a very neat and clean way. Followed by a good and simple spread which absolutely fits for everyone's level. Even an average player can enjoy this beatmap by following the rhythm, which has a good difficulty curve, too.
-
-
 
 **The July 2015 ranking charts will end on the 15th September 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 

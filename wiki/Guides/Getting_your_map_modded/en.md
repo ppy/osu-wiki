@@ -38,6 +38,6 @@ It is worth noting that you should avoid posting in Beatmap Nominators' queues u
 
 Directly asking other users is a great way to get mods too. Generally, if a modder does not have a modding queue, they will likely have their modding information in the "me!" section of their profile. After reading any information they have there, you can then message them in osu! chat with your request. While these modders are harder to come by, there are still some out there, a lot of which have private queues off-platform and such.
 
-All Beatmap Nominators have their modding information on their "me!" pages, regardless of if they have a modding queue or not. Asking Beatmap Nominators directly is almost a necessity for getting one to mod and/or nominate your beatmap. 
+All Beatmap Nominators have their modding information on their "me!" pages, regardless of if they have a modding queue or not. Asking Beatmap Nominators directly is almost a necessity for getting one to mod and/or nominate your beatmap.
 
 Possibly the simplest method of getting a mod, albeit with varying degrees of quality, is asking your friends to mod your beatmap. You will probably want to ask friends who at least have a little mapping experience to get the best results.

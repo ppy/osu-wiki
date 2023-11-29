@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2013 - Registration Phase"
+title: osu! World Cup 2013 - Registration Phase
 date: 2013-10-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64119975871/osu-world-cup-2013-registration-phase
 ---

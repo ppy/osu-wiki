@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # Maintenance de l'osu! wiki
 
 *Voir également : [Guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
@@ -40,7 +45,7 @@ Selon les [[RC]], ceci est interdit.
 
 Lorsque vous ajoutez des redirections pour un article nouveau ou existant, gardez à l'esprit qu'elles doivent être concises et conçues pour une utilisation réelle.
 
-### CI checks
+### CI checks {id=ci-checks}
 
 Le dépôt osu! wiki utilise une [continuous integration](https://docs.github.com/fr/actions/automating-builds-and-tests/about-continuous-integration) (CI) pour vérifier automatiquement les pull requests entrantes afin de détecter diverses erreurs courantes. La liste des vérifications est configurée dans le fichier [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
@@ -63,8 +68,8 @@ Pour référence, vous trouverez ci-dessous un tableau de toutes les CI checks d
 
 | # | Check | Outil | Explication | Contournement |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Tailles de fichiers | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Indique si une image est inférieur à la [limite de taille des images des news post et des articles du wiki](/wiki/Article_styling_criteria/Formatting#taille-du-fichier) (1 MB). Donne un avertissement pour les fichiers supérieurs à 0,5 Mo. | Aucun. |
-| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Vérifie si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les articles de news. | Ajouter `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
+| 1 | Tailles de fichiers | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Indique si une image est inférieur à la [limite de taille des images des news post et des articles du wiki](/wiki/Article_styling_criteria/Formatting#taille-du-fichier) (1 MB). Donne un avertissement pour les fichiers supérieurs à 0,5 Mo. | Aucun. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Vérifie si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les articles de news. | Ajouter `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
 | 3 | YAML | La commande `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si la syntaxe YAML est correcte et cohérente dans le fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) et dans la [page de garde](/wiki/Article_styling_criteria/Formatting#page-de-garde) | Aucun. |
 | 4 | Liens wiki cassés | La commande `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si les [liens wiki](/wiki/Article_styling_criteria/Formatting#liens-wiki) internes pointent vers un article du wiki, un article de news (pour les liens d'articles de news), ou une section de celui-ci. | Ajouter `SKIP_WIKILINK_CHECK` n'importe où dans la description de la pull request. |
 | 5 | Traductions obsolètes | La commande `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si les traductions sont correctement [marquées comme obsolètes](/wiki/Article_styling_criteria/Formatting#articles-obsolètes) lors de la mise à jour d'un article en anglais. | Ajouter `SKIP_OUTDATED_CHECK` n'importe où dans la description de la pull request. |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2020 Arrives!"
+title: Winter 2020 Arrives!
 date: 2020-12-10 10:00:00 +0000
 ---
 

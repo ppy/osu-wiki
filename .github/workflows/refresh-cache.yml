@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           cache: npm
-          node-version: 16
+          node-version: 20
 
       - name: check node_modules cache
         id: cache-node-modules
@@ -30,11 +30,11 @@ jobs:
           lookup-only: true
           key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: 'if cache is outdated: install node_modules'
+      - name: "if cache is outdated: install node_modules"
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      - name: 'if cache is outdated: save cache'
+      - name: "if cache is outdated: save cache"
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         uses: actions/cache/save@v3
         with:

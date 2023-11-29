@@ -16,7 +16,7 @@ Successfully catching a drop will earn the player a [score](/wiki/Gameplay/Score
 
 ## Droplet
 
-*Droplets* are small coloured [hit objects](/wiki/Gameplay/Hit_object) present in [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). 
+*Droplets* are small coloured [hit objects](/wiki/Gameplay/Hit_object) present in [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap).
 
 Successfully catching a droplet will earn the player a [score](/wiki/Gameplay/Score) of 10, provide a small boost to the [health bar](/wiki/Client/Interface/Health_bar), and is treated as 50 in the result screen. If the player fails to catch a droplet it will result in a loss in [health](/wiki/Gameplay/Health) and the player will maintain their [combo](/wiki/Gameplay/Combo_(score_multiplier)).
 

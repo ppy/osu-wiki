@@ -487,7 +487,7 @@ Domingo, 13 de noviembre de 2016:
 ### Instrucciones del Mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
-   - Las finales de la semana 1 y las finales de la semana 2 usan el mismo mappool. 
+   - Las finales de la semana 1 y las finales de la semana 2 usan el mismo mappool.
 2. Cada mappool consiste de 5 brackets: NoMod, HardRock, Hidden, DoubleTime y FreeMod
 3. Cada mappool consta de 16 mapas en total.
 4. Cada mappool tiene un desempate.

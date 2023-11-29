@@ -81,7 +81,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 *Pour l'article d'annonce, voir : [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
- 
+
 | Musique |
 | :-: |
 | [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) |
@@ -166,6 +166,13 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | HD1 des seizièmes de finale |
+| [Down - Kizan](https://www.youtube.com/watch?v=DbTE0qJw5Vw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085347) | Tiebreaker des quarts de finale |
+| [MYUKKE. - Mach Roger](https://soundcloud.com/myukke/mach-roger-from-osu-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | NM4 des quarts de finale |
+| polysha - Endverse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2088576) | Tiebreaker des demi-finales |
+| seleP feat. Lily - Sara[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2088549) | NM3 des demi-finales |
+| Sorry about my face - The last straw | [#1](https://osu.ppy.sh/beatmapsets/2088563) | HD3 des demi-finales |
+| [Sydosys - Wandered](https://soundcloud.com/sydosys/wandered) | [#1](https://osu.ppy.sh/beatmapsets/2085296) | NM3 des quarts de finale |
+| Toromaru - Ebb Tide[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | FM1 des huitièmes de finale |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 

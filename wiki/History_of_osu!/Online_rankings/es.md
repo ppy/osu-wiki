@@ -1,12 +1,15 @@
 ---
-no_native_review: true
 tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
+  - historia
+  - tabla de clasificación
+  - rango 1
+  - clasificaciones
 ---
 
 # Historial de las clasificaciones en línea

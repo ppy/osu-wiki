@@ -30,13 +30,11 @@ Feast your ears and behold:
     <source src="https://assets.ppy.sh/artists/55/previews/1571.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Colorblind
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/55/previews/1572.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Stand Still
 
@@ -48,8 +46,8 @@ Feast your ears and behold:
 
 As is the usual, all of the above plus a whole ton more are available for your mapping delight over at [**Panda Eyes**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/55). Head on over and check the massive collection out!
 
-But where does that leave us for next week? 
+But where does that leave us for next week?
 
 I can't wait!
 
-—Ephemeral 
+—Ephemeral
