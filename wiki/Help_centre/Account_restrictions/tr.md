@@ -18,7 +18,7 @@ Aşağıdaki özellikler kısıtlanmış hesaplar için devre dışıdır:
 - forum konularına ya da yorum kısımlarına mesaj gönderme
 - beatmap karşıya yükleme veya güncelleme
 - profil detaylarını güncelleme
-- mağaza satın alımları 
+- mağaza satın alımları
 
 ## Hesabım kısıtlandı! Ne yapacağım? {id=what}
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Round of 16 Recap"
+title: osu!mania 4K World Cup - Round of 16 Recap
 date: 2017-08-25 08:00:00 +0000
 ---
 

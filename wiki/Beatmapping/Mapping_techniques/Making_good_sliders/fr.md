@@ -10,7 +10,7 @@ Dans la forme la plus basique, tout ce dont vous avez besoin est d'une [courbe d
 De [Ephemeral](https://osu.ppy.sh/users/102335),
 
 > alignez toujours les slider endpoints sur la plus petite valeur possible - c'est-à-dire que si vous les faites glisser plus loin vers l'arrière, le slider se raccourcira. le point se centrera sur l'extrémité du slider et rendra l'obtention de courbes passables beaucoup plus facile à réaliser.
-  
+
  De plus, en faisant cela, la sélection inverse sur les sliders ne les "fout" pas en l'air.
  Ce qui est une bonne chose.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Catch the Beat World Cup 2015 - Registrations open!"
+title: osu! Catch the Beat World Cup 2015 - Registrations open!
 date: 2015-04-02 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/115293809468/osu-catch-the-beat-world-cup-2015-registrations
 ---

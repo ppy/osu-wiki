@@ -25,7 +25,7 @@ Muchos elementos de osu! basan sus tiempos en el tempo de la canción actual:
 - Velocidad de juego, debido a que las canciones con un tempo más alto tienen [pulsos](/wiki/Music_theory/Beat) más cortos
 - [Velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) base en la velocidad de desplazamiento por defecto de [osu!](/wiki/Game_mode/osu!) y [osu!mania](/wiki/Game_mode/osu!mania)
 - Frecuencia de los pulsos del [kiai time](/wiki/Gameplay/Kiai_time)
-- Parpadeos del [menú principal](/wiki/Client/Interface#main-menu), latidos de la [osu! cookie](/wiki/Client/Interface/Cookie), y estallidos de estrellas en la [pantalla de selección de canciones](/wiki/Client/Interface#song-select)
+- Parpadeos del [menú principal](/wiki/Client/Interface#menú-principal), latidos de la [osu! cookie](/wiki/Client/Interface/Cookie), y estallidos de estrellas en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones)
 - Velocidad de la [cuenta atrás](/wiki/Beatmap/Countdown)
 
 ## Beatmapping

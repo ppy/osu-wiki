@@ -52,7 +52,7 @@ Check them out:
 
 You know the drill by now, all of the above tracks and **MORE** are available pre-timed and pre-packaged for your convenience over at [**Billain**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/46), all 100% free for use in mapping your wildest dreams.
 
-We're somehow managing to keep this ludicrous pace going with new Featured Artist releases, and there's no sign of things slowing down soon! 
+We're somehow managing to keep this ludicrous pace going with new Featured Artist releases, and there's no sign of things slowing down soon!
 
 Since a goodly number of people have recently awakened to the fact that yes, we do indeed try to hint at upcoming releases in these articles, here's one for our last release of August:
 

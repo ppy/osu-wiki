@@ -560,22 +560,22 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 03/12/2021 : Ajout de [Virtue-](https://osu.ppy.sh/users/6144772) : **Probationary BN**
 - 03/12/2021 : Ajout de [Muse Dash](https://osu.ppy.sh/users/13695676) : **Probationary BN**
-- 06/12/2021 : Ajout de [Geo_ooo](https://osu.ppy.sh/users/12013943) : **Probationary BN** 
+- 06/12/2021 : Ajout de [Geo_ooo](https://osu.ppy.sh/users/12013943) : **Probationary BN**
 - 09/12/2021 : Ajout de [Kuo Kyoka](https://osu.ppy.sh/users/2596306) : **Probationary BN**
 - 19/12/2021 : Ajout de [wafer](https://osu.ppy.sh/users/9416836) : **Probationary BN**
 - 19/12/2021 : Ajout de [tadahitotsu](https://osu.ppy.sh/users/11653544) : **Probationary BN**
 - 19/12/2021 : Ajout de [Present](https://osu.ppy.sh/users/5645691) : **Probationary BN**
 - 23/12/2021 : Ajout de [Saggin](https://osu.ppy.sh/users/12464107) : **Probationary BN**
-- 23/12/2021 : Transfert de [davidminh0111](https://osu.ppy.sh/users/9623142) > **BN** 
+- 23/12/2021 : Transfert de [davidminh0111](https://osu.ppy.sh/users/9623142) > **BN**
 
 #### Transferts
 
-- 02/12/2021 : Transfert de [elicz1](https://osu.ppy.sh/users/8039342) : **Probationary BN** > **BN** 
+- 02/12/2021 : Transfert de [elicz1](https://osu.ppy.sh/users/8039342) : **Probationary BN** > **BN**
 - 02/12/2021 : Transfert de [Cris-](https://osu.ppy.sh/users/6175280) : **Probationary BN** > **BN**
-- 19/12/2021 : Transfert de [duski](https://osu.ppy.sh/users/6506484) : **Probationary BN** > **BN** 
-- 23/12/2021 : Transfert de [Lexa14](https://osu.ppy.sh/users/15397129) : **Probationary BN** > **BN** 
-- 23/12/2021 : Transfert de [Yogurtt](https://osu.ppy.sh/users/2649717) : **Probationary BN** > **BN** 
-- 23/12/2021 : Transfert de [-Aqua](https://osu.ppy.sh/users/7150015) : **Probationary BN** > **BN** 
+- 19/12/2021 : Transfert de [duski](https://osu.ppy.sh/users/6506484) : **Probationary BN** > **BN**
+- 23/12/2021 : Transfert de [Lexa14](https://osu.ppy.sh/users/15397129) : **Probationary BN** > **BN**
+- 23/12/2021 : Transfert de [Yogurtt](https://osu.ppy.sh/users/2649717) : **Probationary BN** > **BN**
+- 23/12/2021 : Transfert de [-Aqua](https://osu.ppy.sh/users/7150015) : **Probationary BN** > **BN**
 - 25/12/2021 : Transfert de [Gamelan4](https://osu.ppy.sh/users/9856910) : **BN** > **Probationary BN**
 - 29/12/2021 : Transfert de [Sanyi](https://osu.ppy.sh/users/7496029) : **Probationary BN** > **BN**
 - 29/12/2021 : Transfert de [Fisky](https://osu.ppy.sh/users/8352623) : **Probationary BN** > **BN**
