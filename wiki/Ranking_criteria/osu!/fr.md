@@ -1,3 +1,7 @@
+---
+no_native_review: true # no_native_review_since: ae41434f319c2db2e6b33ddffa0419b663ff039e Doryan
+---
+
 # Critères de classement d'osu!
 
 ***Remarque : Cet article est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
