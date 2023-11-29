@@ -21,7 +21,7 @@ This month's issue of the Mappers' Report contains the following topics:
 This month, whilst there weren't many major proposals or Ranking Criteria changes, we focused on minor wording changes throughout.
 
 ### osu!taiko
- 
+
 - **[Change the wording for "patterns faster than"](https://osu.ppy.sh/community/forums/topics/1097738)**: This change aims to clear up some ambiguity in the wording of a Futsuu difficulty-specific rule.
 
 ### osu!mania
@@ -67,7 +67,7 @@ We've got your interest? Great! When you are sure that the activity leniency can
 
 ### BN application and evaluation results will now be sent via chat
 
-As you may already know, all messages regarding Beatmap Nominator applications and evaluations results used to be delivered through legacy pm system on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function once your application or evaluation has concluded. This message will contain a link that will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
+As you may already know, all messages regarding Beatmap Nominator applications and evaluations results used to be delivered through legacy pm system on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function once your application or evaluation has concluded. This message will contain a link that will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed.
 
 And now let's move on to the team movements for this month:
 
@@ -77,7 +77,7 @@ And now let's move on to the team movements for this month:
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045) & [-Joni-](https://osu.ppy.sh/users/9988837)
 - **osu!mania:** [Arzenvald](https://osu.ppy.sh/users/3027421), [lenpai](https://osu.ppy.sh/users/5314573) & [Davvy](https://osu.ppy.sh/users/10047413)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
@@ -87,9 +87,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 - **osu!taiko:** [Volta](https://osu.ppy.sh/users/4154071)
 - **osu!catch:** [JBHyperion](https://osu.ppy.sh/users/4879508)
 
-### NAT Additions 
+### NAT Additions
 
-A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up. 
+A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up.
 
 Welcome aboard Scotty!
 
@@ -175,9 +175,9 @@ Are there any other mapping contests going on, or being announced soon? Please l
 
 ---
 
-And that's it for this month! We decided to not include the "Around the Community" section this time because we haven't heard of anything that would fit into it. 
+And that's it for this month! We decided to not include the "Around the Community" section this time because we haven't heard of anything that would fit into it.
 
-Now to some in-house advertising, we have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now you can find us on the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, join us on the #mappers-report channel! 
+Now to some in-house advertising, we have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now you can find us on the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, join us on the #mappers-report channel!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

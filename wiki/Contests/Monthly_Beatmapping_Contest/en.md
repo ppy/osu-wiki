@@ -57,7 +57,7 @@ Judging categories:
 - **Gameplay (10):** How engaging the beatmap is to play.
 - **Limitation (5) or Theme (10):** How effectively the beatmap fits the contest's limitation/theme.
 
-For each submission, the sum of categories is a judge's *raw score*. A judge's *final score* for each submission is calculated as follows: 
+For each submission, the sum of categories is a judge's *raw score*. A judge's *final score* for each submission is calculated as follows:
 
 *judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
 

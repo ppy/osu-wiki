@@ -1,4 +1,4 @@
-# Gameplay differences in osu!(lazer) 
+# Gameplay differences in osu!(lazer)
 
 *For a comparative list of features between lazer and stable, see [Help centre/Upgrading to lazer § Feature comparison](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
 

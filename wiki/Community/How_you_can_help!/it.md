@@ -1,6 +1,6 @@
 # Come puoi aiutare!
 
-osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro! 
+osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro!
 
 Di seguito sono riportati alcuni dei modi con cui puoi aiutare la comunità:
 
@@ -12,7 +12,7 @@ Se sei nuovo nella osu! wiki, puoi leggere di più a riguardo nella [Guida per c
 
 ## Aiutaci a mantenere osu! amichevole e sicuro
 
-Per mantenere gli hub ufficiali della comunità sicuri, osu! ha un team di moderazione dedicato che monitora il forum e le chat 24 ore su 24. 
+Per mantenere gli hub ufficiali della comunità sicuri, osu! ha un team di moderazione dedicato che monitora il forum e le chat 24 ore su 24.
 
 Per fortuna, è comunque facile per te aiutarci a mantenere la sicurezza. Ecco alcuni dei molti modi con cui puoi aiutarci:
 

@@ -10,7 +10,7 @@ We're proud to welcome **seleP**, the artist behind *Scarlet Rose* aboard as our
 
 Whether you're a new player or you quit half a decade ago, you're likely more-than-familiar with the works of **seleP** — a Japanese producer with a massive library of electronic VOCALOID masterpieces.
 
-**seleP** took the osu! spotlight in early 2012 thanks to [val0108](https://osu.ppy.sh/users/243917)'s legendary beatmap of [Scarlet Rose](https://osu.ppy.sh/beatmapsets/41686), amassing more than 8 million plays to date and a reputation as one of the game's hardest beatmaps at the time. Along with a [handful of other well-liked maps](https://osu.ppy.sh/beatmapsets?q=selep), this artist rose to fame as a staple for the osu! community. 
+**seleP** took the osu! spotlight in early 2012 thanks to [val0108](https://osu.ppy.sh/users/243917)'s legendary beatmap of [Scarlet Rose](https://osu.ppy.sh/beatmapsets/41686), amassing more than 8 million plays to date and a reputation as one of the game's hardest beatmaps at the time. Along with a [handful of other well-liked maps](https://osu.ppy.sh/beatmapsets?q=selep), this artist rose to fame as a staple for the osu! community.
 
 As of today, that legendary status has been officialized through **seleP** inclusion in our Featured Artists! We've got **24** new tracks ready for mapping spread across their 5 albums.
 

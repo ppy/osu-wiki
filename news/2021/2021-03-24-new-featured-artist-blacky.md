@@ -14,7 +14,7 @@ His sound covers a taste of everything electronic, from trance and hardcore to d
 
 To truly demonstrate what **BlackY** has to offer, we've picked up **100 tracks** for their [featured artist listing](https://osu.ppy.sh/beatmaps/artists/150)!
 
-If you're unsure of exactly how much mapping potential this music provides, watch how world cup champion [im a fancy lad](https://osu.ppy.sh/users/4908650) plays through a variable-circle-size beatmap of [*BlackY - Double Pendulum*](https://osu.ppy.sh/beatmapsets/695053#osu/1472242) hosted by [rrtyui](https://osu.ppy.sh/users/352328), or listen to these other song previews: 
+If you're unsure of exactly how much mapping potential this music provides, watch how world cup champion [im a fancy lad](https://osu.ppy.sh/users/4908650) plays through a variable-circle-size beatmap of [*BlackY - Double Pendulum*](https://osu.ppy.sh/beatmapsets/695053#osu/1472242) hosted by [rrtyui](https://osu.ppy.sh/users/352328), or listen to these other song previews:
 
 <div align="center">
     <video width="95%" controls>
