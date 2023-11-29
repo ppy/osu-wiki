@@ -4,7 +4,7 @@
 
 **Modding** es el acto de proveer comentarios al [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que está modeando es considerado como un *modder*, y sus posts colectivos en una discusión de un beatmap se denomina como un *mod*.
 
-Los mods son principalmente usados para mejorar beatmaps que apuntan a un [estado Clasificado](/wiki/Beatmap/Category#clasificados). Debido a que es un proceso detallado y analitico, modear beatmaps también es una manera popular de mejorar el entendimiento del beatmapping.
+Los mods son principalmente usados para mejorar beatmaps que apuntan a un [estado Clasificado](/wiki/Beatmap/Category#ranked). Debido a que es un proceso detallado y analitico, modear beatmaps también es una manera popular de mejorar el entendimiento del beatmapping.
 
 ## Encontrando beatmaps para modear
 
@@ -13,7 +13,7 @@ Mientras hay incontables maneras de descubrir beatmaps para modear, los siguient
 - El [foro de Modding Queues](https://osu.ppy.sh/community/forums/60) es la plataforma usada más activa para encontrar beatmaps para modear y para solicitar mods. Un usuario puede crear su propio hilo, refiriéndose como una *queue*, para que otros usuarios publiquen beatmaps que quieran que sean modeados.
 
   El creador de cada queue dicta las reglas de cola, controlando que beatmaps son viables para recibir mods. Las colas usualmente abren por solicitudes de dos tipos de mods:
-  
+
   - **Normal mod (NM):** Un mod que será proporcionado sin recibir trabajo alguno por parte del beatmaper solicitante.
   - **Mod for Mod (M4M):** Un intercambio que requiere que cada usuario modee el beatmap del otro.
 
@@ -39,4 +39,4 @@ Muchos mod posts abordan errores en un beatmap. Por ejemplo, un clap hitsound fa
 
 Proveer maneras alternativas de beatmapping es otro tipo común de mod posts. Mientras parte del beatmap pueda ser aceptable en su forma actual, un modder puede explicar como mejorarlo aún más diseñándolo de manera distinta.
 
-En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios. 
+En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios.

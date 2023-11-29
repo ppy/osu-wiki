@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Indoors 2020 Fanart Contest"
+title: Spring Indoors 2020 Fanart Contest
 date: 2020-04-02 08:00:00 +0000
 ---
 

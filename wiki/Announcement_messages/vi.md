@@ -10,7 +10,7 @@ tags:
 
 # Tin nhắn thông báo
 
-![Thông báo](img/notification.jpg "Một tin nhắn thông báo")
+![Thông báo](img/notification.png "Một tin nhắn thông báo")
 
 Một **tin nhắn thông báo** là một loại tin nhắn đặc biệt được dùng để gửi những tin nhắn dài hơn và được định dạng đến nhiều người dùng một lần. Những điểm khác biệt giữa các tin nhắn thông báo và các tin nhắn chat bình thường là:
 

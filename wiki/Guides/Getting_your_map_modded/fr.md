@@ -38,6 +38,6 @@ Il convient de noter que vous devriez éviter de poster dans les files d'attente
 
 Demander directement aux autres utilisateurs est également un excellent moyen d'obtenir des mods. En général, si un moddeur n'a pas de file d'attente de modding, ses informations sur le modding se trouvent dans la section "moi!" de son profil. Après avoir lu ces informations, vous pouvez leur envoyer un message dans le tchat d'osu! pour leur faire part de votre demande. Bien que ces moddeurs soient plus difficiles à trouver, il y en a encore quelques-uns, dont beaucoup ont des files d'attente privées hors plateforme et autres.
 
-Tous les Beatmap Nominators ont leurs informations de modding sur leur page "moi!", qu'ils aient ou non une file d'attente de modding. Demander directement aux Beatmap Nominators est presque une nécessité pour qu'ils puissent modder et/ou nominer votre beatmap. 
+Tous les Beatmap Nominators ont leurs informations de modding sur leur page "moi!", qu'ils aient ou non une file d'attente de modding. Demander directement aux Beatmap Nominators est presque une nécessité pour qu'ils puissent modder et/ou nominer votre beatmap.
 
 La méthode la plus simple pour obtenir un mod, bien que de qualité variable, consiste à demander à vos amis de modder votre beatmap. Vous voudrez probablement demander à des amis qui ont au moins une petite expérience du mapping pour obtenir les meilleurs résultats.

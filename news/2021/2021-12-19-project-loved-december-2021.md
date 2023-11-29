@@ -520,6 +520,6 @@ From the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions/osu).
 
-See you next year! 
+See you next year!
 
 —Panacotta

@@ -32,13 +32,11 @@ Take a listen for yourself and see what all the hype's about:
     <source src="https://assets.ppy.sh/artists/52/previews/1529.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Emerald Green
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/52/previews/1522.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Kek
 
