@@ -32,7 +32,7 @@ Aunque muchos beatmaps Pendientes y en Trabajo en progreso cumplen con estos cri
 
 Los beatmaps que entran a la categoría Amados requieren seguir unas cuantas reglas extra:
 
-- [Algunos puntos de la sección Metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadata):
+- [Algunos puntos de la sección Metadatos de los criterios de clasificación](/wiki/Ranking_criteria#metadatos):
   - El título, artista y origen de la canción deben ser correctos en todos los casos.
   - Las etiquetas del beatmap deben nombrar a todos los contribuidores (creadores de dificultades de invitado, storyboarders, etc.).
 - [Reglas del contenido de canciones](/wiki/Rules/Song_content_rules)
