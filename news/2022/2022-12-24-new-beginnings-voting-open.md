@@ -22,11 +22,11 @@ Courtesy of one pishifat (for whom this very video is his *third* creation today
 
 We sure don't need to tell you that the window is tight this year, with 2023 *very* fast approaching. The vote will be up for only **7 days** from the date of this post, so make sure to get in quick and choose your favourites while the opportunity is still around!
 
-A selection from the top-voted entries will make it to the game's main menu as the New Beginnings seasonal backgrounds, and their creators will also receive 3 months of osu!supporter. 
+A selection from the top-voted entries will make it to the game's main menu as the New Beginnings seasonal backgrounds, and their creators will also receive 3 months of osu!supporter.
 
 And as always, the top 3 voted entries will be enshrined upon their author's profiles forever more as bespoke profile badges - a prize you can quite literally not get anywhere else.
 
-A big thanks to everyone who took time out of the holiday season to participate, and we hope the change in schedule worked out a little better for you! 
+A big thanks to everyone who took time out of the holiday season to participate, and we hope the change in schedule worked out a little better for you!
 
 For the rest of us, we must now agonize over how to spend our votes. What wonderful woe.
 

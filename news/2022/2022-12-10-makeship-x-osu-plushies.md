@@ -8,7 +8,7 @@ Countless generations of osu! players have yearned for one thing: the capability
 
 ![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/header.jpg)
 
-Yes, it's finally happening. 
+Yes, it's finally happening.
 
 As you might've guessed from our recent [Twitter teasing](https://twitter.com/osugame/status/1600560233885339649) and [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453), we've partnered up with [Makeship](https://www.makeship.com/) to bring a selection of some iconic osu! figures into squishable life.
 

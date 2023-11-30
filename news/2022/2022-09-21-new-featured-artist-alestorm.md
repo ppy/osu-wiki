@@ -36,7 +36,7 @@ Check out the map from the video above created by [Camo](https://osu.ppy.sh/user
 
 Play through any of these maps:
 
-- [8 star jump map](https://osu.ppy.sh/beatmapsets/1504284) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381) from *Corsace Closed 2021* 
+- [8 star jump map](https://osu.ppy.sh/beatmapsets/1504284) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381) from *Corsace Closed 2021*
 - [Difficulty spread](https://osu.ppy.sh/beatmapsets/1537993) hosted by [Camo](https://osu.ppy.sh/users/5194391)!
 - [Old-school map](https://osu.ppy.sh/beatmapsets/9215) hosted by [awp](https://osu.ppy.sh/users/2650)
 
