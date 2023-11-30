@@ -8,7 +8,7 @@ Don't be alarmed, but things are about to get a little SPOOKY around here at the
 
 ![](https://assets.ppy.sh/contests/81/header.jpg)
 
-Calling all artists! 
+Calling all artists!
 
 Step forth and brandish thy pen (or other drawing implement of choice) as vampire hunters once wielded wooden stakes and silver bullets, for it is DRAWING time! **Scribble any of the osu! mascots (official or community) in a Halloween themed piece** for your shot at glory, prizes, and the right to survive the coming blood moon!
 

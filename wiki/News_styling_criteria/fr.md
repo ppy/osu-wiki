@@ -1,154 +1,128 @@
 ---
-outdated_translation: true
-outdated_since: 280f546b4d6cc6603de17556a6c99989398fe205
+no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
 ---
 
 # Critères de style des news
 
-*Pour les articles du wiki, voir : [Critères de mise en forme des articles](/wiki/Article_styling_criteria)*
+*Pour les articles du wiki, voir : [critères de style des articles](/wiki/Article_styling_criteria)*
 
-**Attention : les articles de news sont disponibles uniquement en Anglais, et une traduction de ces articles dans d'autres langues n'est pas prévu.**
+Les **posts de news**, ou **articles de news**, existent sur un système légèrement différent du wiki principal d'osu!, mais suivent des principes similaires. Pour les écrire, il faut prêter une attention particulière à quelques caractéristiques et formats clés, comme indiqué ci-dessous.
 
-Les articles de news existent sur un système légèrement différent du wiki principal d'osu!, mais suivent des principes similaires. Leur rédaction implique une attention particulière à quelques caractéristiques et formats clés, comme indiqué ci-dessous.
+À la manière des articles du wiki, tous les articles de news doivent au minimum présenter une orthographe et une grammaire correctes, ainsi que des informations correctes et d'actualité.
 
-Comme toujours, tous les articles de news doivent avoir une orthographe et une grammaire correctes au strict minimum, ainsi que des informations correctes et à jour.
+Toute personne intéressée par une contribution ou l'écriture d'un article de news peut le faire dans le channel `#osu-news` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Vous pouvez également contacter ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) ou n'importe quel responsable actif du [wiki ou des news](/wiki/People/osu!_wiki_maintainers).
 
-## Répertoire du dépôt
+## Localisations
 
-Les normes suivantes ne s'appliquent qu'aux articles écrits pour les actualités, et enregistrés dans le répertoire `news`.
+Le système de news ne prend pas en charge les traductions locales. Tous les articles doivent être rédigés en anglais (de préférence en anglais britannique), avec un registre cohérent.
 
-### Locales
-
-**Le système de news ne prend pas en charge les locales pour le moment**. Tous les articles doivent être rédigés en anglais (de préférence en anglais britannique), avec un registre cohérent.
-
-Ce que ce registre implique dépend de l'orientation et du ton de votre article, mais il doit être cohérent. Les articles qui ont un ton professionnel doivent toujours avoir un ton professionnel. Les articles à caractère conversationnel doivent toujours être conversationnels.
+Ce registre dépend de l'objectif et du ton de l'article, mais il doit être cohérent. Les articles qui ont un ton professionnel doivent toujours avoir un ton professionnel. Les articles qui sont conversationnels doivent toujours l'être.
 
 ## Normes de rédaction
 
-Tous les articles de news doivent être rédigés en tenant compte de quelques concepts clés : concision, audience et présentation.
+Tous les articles de news doivent être rédigés en gardant à l'esprit quelques concepts clés : concision, audience et présentation.
 
 ### Concision
 
-Les articles de news doivent être courts et concis, les informations appropriées étant condensées autant que possible sans être trop denses.
+Les articles de news doivent être courts et concis, et les informations appropriées doivent être condensées autant que possible sans être trop denses.
 
-Fournissez des liens vers des ressources approfondies au lieu de les référencer directement dans le texte. Utilisez autant que possible des représentations visuelles pour transmettre de grandes quantités d'informations d'un seul coup d'œil.
+Fournissez des liens vers des ressources approfondies au lieu de les référencer directement dans le texte. Utiliser autant que possible des représentations visuelles pour transmettre de grandes quantités d'informations d'un seul coup d'œil.
 
 ### Audience
 
-Le public principal d'osu! est principalement composé d'adolescents et de jeunes adultes, bien que nous soyons une communauté pour tous les âges. Tenez compte de la capacité d'attention de ce public - la concision est étroitement liée à cet aspect.
+osu! s'adresse principalement aux adolescents et aux jeunes adultes, bien qu'il s'agisse d'une communauté ouverte à tous les âges. Tenez compte de la capacité d'attention de ce groupe de population - la concision est étroitement liée à cet aspect.
 
-Réfléchissez bien à ce que vous écrivez dans votre article et si cela intéresse suffisamment la communauté dans son ensemble pour justifier son inclusion.
+Réfléchissez bien à ce que vous écrivez dans votre article et à la question de savoir s'il intéresserait suffisamment la communauté dans son ensemble pour justifier son inclusion.
 
 ### Présentation
 
-Les articles de news doivent s'efforcer d'être aussi agréablement neutres que possible en termes de présentation.
+Les articles de news doivent être présentés de la manière la plus neutre possible.
 
-L'expression "agréablement neutre", aussi vague soit-elle, désigne un article à la fois léger et robuste, qui dit ce qu'il doit dire sans blocs de texte géants. Il doit être cohérent en termes de formatage, de style et de registre. Les grandes quantités d'informations doivent être étayées ou supplantées par des supports visuels.
+Une neutralité agréable, même si elle est vague, fait référence à un article à la fois léger et robuste, qui dit ce qui est nécessaire sans blocs de texte gigantesques. Il doit être cohérent en termes de mise en forme, de style et de registre. Les grandes quantités d'informations doivent être soutenues ou remplacées par des aides visuelles.
 
 ## Mise en forme
 
-### Noms de fichiers d'articles
+### Noms de fichiers
 
-Les articles de news sont des fichiers markdown (``.md``) nommés selon le format suivant :
-
-``yyyy-mm-dd-<article title>.md``
-
-Où `yyyy` est l'année à 4 chiffres, `mm` est le mois à 2 chiffres, et `dd` est la date à 2 chiffres.
-
-Les noms des fichiers sont le titre de l'article lui-même avec tous les espaces remplacés par des traits d'union (`-`), et tous les caractères supplémentaires tels que les points (`.`), les points d'exclamation (`!`), les points d'interrogation (`?`), les virgules (`,`), les apostrophes (`'`), les guillemets (`"`), moins que (`<`), plus que (`>`), les deux-points (`:`), les barres obliques (`/`), les barres obliques (`\`), les barres verticales (`|`) et les astérisques (`*`) sont retirés.
-
-### En-têtes des fichiers
-
-Tous les fichiers d'articles de news doivent comporter un en-tête de base comprenant des informations sur le titre de l'article et la date de publication. Cet en-tête doit respecter le format ci-dessous :
+Les articles sont des fichiers markdown (`.md`) placés dans le répertoire [`news/`](https://github.com/ppy/osu-wiki/tree/master/news) du dépôt GitHub [`osu-wiki`](https://github.com/ppy/osu-wiki), au format suivant :
 
 ```
+news/yyyy/yyyy-mm-dd-news-post-title.md
+```
+
+Le nom du fichier doit contenir le titre complet, tous les espaces étant remplacés par des traits d'union (`-`) et tous les caractères supplémentaires (tels que les signes de ponctuation) étant supprimés sans remplacement.
+
+### Structure
+
+Tous les fichiers d'articles de news doivent être structurés de la manière suivante :
+
+```markdown
 ---
 layout: post
-title: "Aspire 2017 Stage Two: osu!taiko Concludes"
+title: Titre de l'article de news
 date: 2017-08-17 03:00:00 +0000
 ---
+
+Court paragraphe de présentation
+
+![](/wiki/shared/news/2017-08-17-news-post-title/banner.jpg)
+
+Contenu
+
+—Auteur
 ```
 
-``layout`` doit toujours être défini comme ``post``.
-
-``title`` doit représenter le titre et le nom complet de l'article, avec tout formatage approprié. Le formatage Markdown n'est pas autorisé dans cette chaîne.
-
-``date`` doit représenter une chaîne combinée affichant une date de calendrier au format ISO 8601 (2017-08-17), suivie d'une chaîne de temps de 24 heures (03:00:00), suivie d'un décalage horaire par rapport à UTC (+0000). Cette date est utilisée pour déterminer l'affichage "il y a xx minutes/heures/jours" sur le site web lorsqu'il fait référence aux dates de publication des articles de news visibles.
+- `layout` doit toujours être défini sur `post`.
+- `title` doit représenter le titre complet de l'article. Le formatage Markdown n'est pas autorisé dans cette espace. Les titres des articles de news, contrairement aux titres des articles du wiki et aux autres titres, doivent être en majuscules. Notez que des guillemets (`"`) peuvent être nécessaires si le titre contient des deux-points (`:`) ou des signes numériques (`#`).
+- `date` doit représenter une chaîne combinée affichant une date de calendrier au format ISO 8601 (`2017-08-17`), suivie d'une chaîne de temps de 24 heures (`03:00:00`), suivie d'un décalage horaire par rapport à l'UTC (`+0000`). Il s'agit de la date de publication utilisée pour déterminer quand l'article devient visible sur le site web.
+- Le paragraphe de prévisualisation est ce qui sera affiché sur la page d'accueil, dans les archives des news et dans la liste des news en jeu sur osu!(lazer), en plus d'être le premier paragraphe du message d'actualité.
 
 ### Markdown
 
-L'osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
+L'utilisation de Markdown est couverte par les [critères de style des articles](/wiki/Article_styling_criteria), mais les points suivants concernent spécifiquement les articles de news :
 
-#### Titres
+- Le niveau de rubrique 1 (`#`), correspondant à un titre, ne doit pas être utilisé, car le titre est fourni par la page de garde en tête de l'article.
+- Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#footnotes) ne sont pas pris en charge.
+- [L'image de la bannière](#bannières) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
 
-Les articles de news n'utilisent pas les titres Markdown traditionnels, à quelque titre que ce soit.
+#### Images
 
-#### En-têtes
+*Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
 
-Les niveaux d'en-tête 1 (``#``), 2 (``##``) et 3 (``###``) peuvent être utilisés. Ils ont des identifiants uniques et peuvent être liés directement. N'utilisez jamais les en-têtes pour styliser ou formater du texte.
+ILes images associées aux articles doivent être hébergées sur les serveurs d'osu! (par exemple `assets.ppy.sh`) ou être placées dans le dépôt GitHub `osu-wiki`.
 
-#### Gras
+Les articles de news qui utilisent des images ont leur propre dossier dans le répertoire [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news), avec le même nom que le fichier de l'article. Exemple : `wiki/shared/news/2017-08-17-news-post-title/banner.jpg`.
 
-Les caractères gras sont réservés à la mise en évidence d'objets ou de phrases importantes, qu'il s'agisse de joueurs, de scores ou de tout autre élément considéré contextuellement comme un point central de l'article en question.
+### Bannières
 
-#### Italiques
+Les articles doivent comporter une image après le paragraphe de prévisualisation pour servir de **bannière** (également appelée *couverture*). La première image d'un article sera utilisée comme bannière sur la page d'accueil, dans la liste des news et dans la vue des articles.
 
-L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme l'*osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
+Ces bannières apparaissent dans de nombreux rapports d'aspect différents à différents endroits du site web et sur différents appareils, et doivent donc être conçues en tenant compte d'un éventuel ajustement.
 
-#### Barre horizontale
+![Référence pour le ratio d'aspect des bannières des articles de news.](img/banner-sizes.png "Référence pour le ratio d'aspect des bannières des articles de news. Notez que les appareils mobiles peuvent se situer n'importe où à l'intérieur ou même légèrement en dehors des intervalles communs spécifiés ici.")
 
-Les barres horizontales doivent être utilisées avec parcimonie et uniquement dans les situations où le contenu doit être séparé de manière nette et définitive du reste de l'article.
+Les bannières doivent avoir une taille de base minimale de 1000x200px. Une version avec chaque dimension doublée doit être fournie si l'image source est assez grande pour la supporter (ce qui donne `banner.jpg` et `banner@2x.jpg`). Les images de bannières apparaissant dans plusieurs articles doivent être placées dans le répertoire [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
-#### Tableaux
+### HTML et contenus intégrés
 
-Les tableaux Markdown peuvent être utilisés, mais ne sont pas recommandés pour l'affichage des données dans les articles de news. La visualisation des données à l'aide d'une image sera probablement plus agréable et plus accessible pour la plupart des utilisateurs.
+L'utilisation limitée du langage HTML est autorisée pour l'intégration de contenus hors site tels que des vidéos YouTube, des VOD Twitch ou d'autres applications conçues pour présenter le contenu d'osu! ou d'autres contenus liés à osu!.
 
-### Images
+La largeur de tous les cadres de contenu incorporé doit être fixée à 95 %, à l'exception des rapports d'aspect élevés. Pour être inclus dans les articles en général, le contenu incorporé doit pouvoir s'afficher en pleine largeur sans se déformer ou avoir une apparence désagréable.
 
-Toutes les images liées aux articles doivent être soit hébergées sur les serveurs d'osu! (c'est-à-dire `assets.ppy.sh`), soit placées dans le dépôt d'images partagé `osu-wiki` et référencées depuis celui-ci.
+Vidéo hébergée sur `assets.ppy.sh` :
 
-Les articles d'actualité qui utilisent des images ont leur propre dossier dans ``/wiki/shared/news/`` en utilisant le même format de nom que leur nom de fichier, à l'exception du suffixe ``.md``.
-
-Exemple :
-
-``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
-
-#### Couvertures
-
-Les articles de news doivent comporter un [bloc d'images](/wiki/Article_styling_criteria/Formatting#rendu) après le paragraphe de prévisualisation pour servir de **couverture** (parfois appelée *bannière*). Le client et le site web utilisent automatiquement la première image d'un article comme couverture sur la page d'accueil, la liste des actualités et l'affichage des articles.
-
-Les images de couverture doivent avoir une largeur minimale de 900 et une hauteur minimale de 200 pour leur taille de base. Une version `@2x` avec chaque dimension doublée doit être fournie si l'image source est suffisamment grande pour le supporter.
-
-Les images de couverture apparaissant dans plusieurs articles sont généralement placées dans le répertoire `/wiki/shared/news/banners`.
-
-#### Formats et qualité
-
-Les images utilisées dans les articles doivent être au format JPG de qualité 9 (90) à 10 (100). L'utilisation du format PNG est acceptable dans les cas où la taille du fichier est faible ou si la qualité ne peut être compromise.
-
-#### Taille du fichier
-
-Les images doivent être inférieures à 1 mégaoctet (MO), sinon elles ne se chargeront pas.
-
-Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
-
-```
-jpeg-recompress -am smallfry <input> <output>
+```html
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 ```
 
-Où `<input>` est le nom du fichier à compresser et `<output>` est le nom du fichier compressé.
+Vidéo intégrée dans YouTube :
 
-#### Légendes
-
-Les images ne sont pas sous-titrées à l'aide du format Markdown, sauf dans des circonstances stylistiques. Elles peuvent être sous-titrées lorsque le contexte le permet.
-
-#### Texte alternatif
-
-Le texte alternatif ne doit pas être utilisé dans les bannières.
-
-### HTML et contenu intégré
-
-L'utilisation limitée de HTML dans le but d'intégrer du contenu hors site tel que des vidéos YouTube, des VODs Twitch ou d'autres applets conçus pour mettre en valeur le contenu d'osu! ou du site d'osu! est autorisée.
-
-L'utilisation de la balise ``<center>`` (ou tout autre style équivalent tel que ``<p align='center'>``) n'est pas autorisée car le style du système de news centre automatiquement les éléments non textuels.
-
-La largeur de tous les cadres de contenu intégré doit être fixée à ``width: 100%``. Pour être inclus dans les articles en général, le contenu intégré doit pouvoir s'afficher en pleine largeur sans problème ou sans être horrible.
+```html
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
+</div>
+```

@@ -9,7 +9,7 @@ tags:
 
 # Ankündigungsnachrichten
 
-![Ankündigungsbenachrichtigung](img/notification.jpg "Eine Benachrichtigung über eine Ankündigungsnachricht")
+![Ankündigungsbenachrichtigung](img/notification.png "Eine Benachrichtigung über eine Ankündigungsnachricht")
 
 Eine **Ankündigungsnachricht** ist eine besondere Nachricht, die an mehrere Nutzer gleichzeitig versendet wird. Die Hauptunterschiede zwischen Ankündigungsnachrichten und normalen Nachrichten sind:
 

@@ -11,7 +11,7 @@ tags:
 
 # Messages d'annonce
 
-![Notification d'annonce](img/notification.jpg "Une notification de message")
+![Notification d'annonce](img/notification.png "Une notification de message")
 
 Un **message d'annonce** est un type de message spécial destiné à envoyer des messages plus longs et formatés à plusieurs utilisateurs à la fois. Les principales différences entre les messages d'annonce et les messages de tchat ordinaires sont les suivantes :
 
