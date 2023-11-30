@@ -1,3 +1,7 @@
+---
+no_native_review_since: be1652b40865fa540c7763f083445c25c47de11c Doryan
+---
+
 # Options
 
 ![Menu des options](img/options_basic-FR.jpg "Menu des options \(barre latérale à gauche\)")
