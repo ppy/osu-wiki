@@ -8,7 +8,7 @@ tags:
 
 # Color del combo
 
-*Para conocer las reglas de los colores del combo en el beatmapping, véase: [Criterios de clasificación/osu!](/wiki/Ranking_criteria/osu!) y [Criterios de clasificación/osu!catch](/wiki/Ranking_criteria/osu!catch)*
+*Para conocer las reglas de los colores del combo en beatmapping, véase: [Criterios de clasificación/osu!](/wiki/Ranking_criteria/osu!) y [Criterios de clasificación/osu!catch](/wiki/Ranking_criteria/osu!catch)*
 
 Los **colores del combo** son colores que ayudan a separar [combosets](/wiki/Beatmapping/Combo) de otros. Los colores del combo se aplican a todos los [objetos](/wiki/Gameplay/Hit_object) en un [beatmap](/wiki/Beatmap). Cuando se inicia un nuevo combo, el color de los [combos](/wiki/Beatmapping/Combo) cambia al siguiente color definido. El botón `New Combo` se puede encontrar en el lado derecho de la pestaña `Compose` en el [editor de beatmaps](/wiki/Client/Beatmap_editor).
 
