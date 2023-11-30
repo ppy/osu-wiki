@@ -12,7 +12,7 @@ tags:
 
 ![Logo de la MWC 2014](img/logo.jpg)
 
-La **osu!mania World Cup 2014** (***MWC 2014***) fue un torneo por paises organizado por [osu! team](/wiki/People/osu!_team). Estaba separado en una categoría de 4 teclas y otra de 7 teclas y fue la primera entrega de la osu!mania 4K World Cup and the osu!mania 7K World Cup.
+La **osu!mania World Cup 2014** (***MWC 2014***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Estaba separado en una categoría de 4 teclas y otra de 7 teclas y fue la primera entrega de la osu!mania 4K World Cup y la osu!mania 7K World Cup.
 
 ## Calendario del torneo
 
@@ -96,14 +96,14 @@ La osu!mania World Cup 2014 fue dirigida por varios miembros de la comunidad.
 | ::{ flag=ID }:: | **Indonesia** | **[Nyooo](https://osu.ppy.sh/users/2319372)**, [Midare](https://osu.ppy.sh/users/2663343), [Zeradok](https://osu.ppy.sh/users/544631) |
 | ::{ flag=JP }:: | **Japón** | **[OmegaJack](https://osu.ppy.sh/users/205391)**, [coo\_m](https://osu.ppy.sh/users/1927193), [metyabo](https://osu.ppy.sh/users/623773) |
 | ::{ flag=MY }:: | **Malasia** | **[Gon](https://osu.ppy.sh/users/583765)**, [\_Sylveon\_](https://osu.ppy.sh/users/3936677), [LongGone](https://osu.ppy.sh/users/35882) |
-| ::{ flag=NL }:: | **Países Bajos** | *retired* |
+| ::{ flag=NL }:: | **Países Bajos** | *retirado* |
 | ::{ flag=NO }:: | **Noruega** | **[BigMouthDog](https://osu.ppy.sh/users/2110078)**, [Dazzy](https://osu.ppy.sh/users/811297) |
 | ::{ flag=PH }:: | **Filipinas** | **[Entozer](https://osu.ppy.sh/users/277044)**, [SanniSanni](https://osu.ppy.sh/users/3036686), [snowkel](https://osu.ppy.sh/users/1073829) |
 | ::{ flag=PL }:: | **Polonia** | **[Modren](https://osu.ppy.sh/users/1828621)**, [Hudonom](https://osu.ppy.sh/users/1654221), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Tear](https://osu.ppy.sh/users/1340650) |
 | ::{ flag=PT }:: | **Portugal** | **[-Blossom-](https://osu.ppy.sh/users/2535395)**, [Mizusi](https://osu.ppy.sh/users/2796312) |
 | ::{ flag=RU }:: | **Federación de Rusia** | **[Daleenie](https://osu.ppy.sh/users/1540597)**, [Kiviman](https://osu.ppy.sh/users/2790640) |
 | ::{ flag=KR }:: | **Corea del Sur** | **[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [jhlee0133](https://osu.ppy.sh/users/140148), [WindyS](https://osu.ppy.sh/users/1190879) |
-| ::{ flag=ES }:: | **España** | *disbanded* |
+| ::{ flag=ES }:: | **España** | *disuelto* |
 | ::{ flag=TH }:: | **Tailandia** | **[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236) |
 | ::{ flag=GB }:: | **Reino Unido** | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [Mafham](https://osu.ppy.sh/users/3660531), [The Muffin Man](https://osu.ppy.sh/users/2186171), [xWillx](https://osu.ppy.sh/users/696222) |
 | ::{ flag=US }:: | **Estados Unidos** | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092) |
@@ -489,13 +489,13 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
 ### Reglas del torneo
 
 1. La osu!mania World Cup es un torneo por equipos 2v2 basado en países, separados en una categoría de 7 teclas y otra de 4 teclas.
-2. Los selectores del conjunto de mapas anunciarán con antelación los mapas de cada ronda el domingo anterior a la celebración de los partidos. Solo estos se usarán durante los respectivos partidos.
+2. Los selectores de los conjuntos de mapas anunciarán con antelación los mapas de cada ronda el domingo anterior a la celebración de los partidos. Solo estos se usarán durante los respectivos partidos.
    - Se dará un mapa como mapa de desempate. Este mapa solo se jugará en caso de empate.
 3. El horario de los partidos será establecido por la dirección del torneo (véase abajo).
 4. Si no hay personal o árbitro disponible, el partido se aplazará.
 5. La puntuación de los jugadores que fallan no se suma a la puntuación del equipo.
-   - Revivir y sobrevivir durante un mapa se considera como superarlo.
-6. Se permite el uso de las opciones de [configuración visual](/wiki/Client/Interface/Visual_settings).
+   - Revivir y sobrevivir durante un mapa se considera como pasarlo.
+6. Se permite el uso de las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings).
 7. Si la partida termina en empate, se anulará.
 8. Si un jugador se desconecta, se le trata como si hubiera fallado el mapa.
 9. Los mapas no se pueden reutilizar en el mismo partido a menos que el partido haya sido anulado.
@@ -524,7 +524,7 @@ Esta competición ha llegado a su fin y se ha saldado con el siguiente podio:
    - Dependiendo de la cantidad de inscripciones, la cantidad total podría cambiar.
 6. Todos los equipos inscritos serán publicados después de la fase de inscripción.
    - Los capitanes recibirán una notificación en caso de que su lista haya sido aceptada o rechazada.
-7. Los selectores del conjunto de mapas no podrán participar como jugadores en este torneo.
+7. Los selectores de los conjuntos de mapas no podrán participar como jugadores en este torneo.
 
 ### Instrucciones de etapa
 
