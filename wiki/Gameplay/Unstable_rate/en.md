@@ -14,7 +14,7 @@ tags:
 
 **Unstable rate** (***UR***) is a measurement of variation of hit errors<!-- TODO: link --> throughout a play. It is calculated as the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of hit errors, displayed in tenths of a millisecond. A lower UR indicates that the player's hits have more similar errors, while a higher UR indicates they are more spread apart.
 
-Players specializing in high [accuracy](/wiki/Gameplay/Accuracy) often achieve URs that are significantly below what is required to get an [SS](/wiki/Gameplay/Grade). Unstable rate can be a particularly useful metric to help judge these scores in finer detail than regular [judgements](/wiki/Gameplay/Judgement).
+Players specialising in high [accuracy](/wiki/Gameplay/Accuracy) often achieve URs that are significantly below what is required to get an [SS](/wiki/Gameplay/Grade). Unstable rate can be a particularly useful metric to help judge these scores in finer detail than regular [judgements](/wiki/Gameplay/Judgement).
 
 Note that UR measures the consistency between hit errors, and not the amount of error. While low UR often comes as the result of accurate play, it is possible to get very low UR at the same time as very low accuracy. For example, a player could hit every [object](/wiki/Gameplay/Hit_object) late enough to get a [50](/wiki/Gameplay/Judgement/osu!), but with consistent errors.
 
