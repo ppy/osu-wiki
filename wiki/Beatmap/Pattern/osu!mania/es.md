@@ -11,4 +11,4 @@ Página de índice para los tipos de [patrones](..) específicos de [osu!mania](
 - [Jack](Jack)
 - [Anchor](Anchor)
 - [Trill](Trill)
-- [Nota mantenida](Hold_note)
+- [Nota larga](Hold_note)

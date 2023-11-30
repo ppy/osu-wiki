@@ -8,13 +8,14 @@ tags:
   - term
   - técnico
   - término
+  - deslizador
 ---
 
 # Mapas técnicos
 
-*Aviso: A los efectos de este artículo, el término «tech map» se tratará como un término general que incluye todas estas definiciones.*
+*Aviso: Para el propósito de este artículo, el término «tech map» se tratará como un término general que incluye todas estas definiciones.*
 
-**Mapas técnicos** (a menudo abreviado como «tech maps») es un término que no tiene una definición clara y acordada entre la comunidad de osu!. Dependiendo del usuario, un «tech map» puede ser tan amplio como un [beatmap](/wiki/Beatmap) que simplemente contiene [patrones](/wiki/Beatmap/Pattern) no genéricos, o tan específico como un beatmap que es denso en número de [objetos](/wiki/Gameplay/Hit_object) y contiene muchas formas irregulares de [sliders](/wiki/Gameplay/Hit_object/Slider) que cambian rápida y drásticamente las velocidades (a menudo a alta intensidad).
+**Mapa técnico** (a menudo abreviado como «tech maps») es un término que no tiene una definición clara y acordada entre la comunidad de osu!. Dependiendo del usuario, un «tech map» puede ser tan amplio como un [beatmap](/wiki/Beatmap) que simplemente contiene [patrones](/wiki/Beatmap/Pattern) no genéricos, o tan específico como un beatmap que es denso en número de [objetos](/wiki/Gameplay/Hit_object) y contiene muchas formas irregulares de [sliders](/wiki/Gameplay/Hit_object/Slider) que cambian rápida y drásticamente las velocidades (a menudo a alta intensidad).
 
 Los mapas técnicos suelen asociarse con géneros de canciones que ofrecen sonidos complejos y de ritmo rápido (por ejemplo, drum-and-bass, dubstep y drumstep), ya que a menudo le permiten al mapper explorar todos y cada uno de los sonidos individuales en detalle para beneficio del beatmap. Aunque no se requiere explícitamente música de este tipo.
 
