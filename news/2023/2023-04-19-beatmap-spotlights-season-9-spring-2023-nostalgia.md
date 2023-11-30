@@ -8,7 +8,7 @@ Spotlights enthusiasts and competitors, wake up for a brand new Spring 2023 seas
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Are you tired of the fast-paced, high-tech world we live in today? Do you long for the days of simpler pleasures, when life moved a little slower and everything was just a bit more nostalgic? Want to take a trip back in time to the era of shiny graphics, catchy pop songs, and endless forum discussions – all displayed on your trusty 720p screen? 
+Are you tired of the fast-paced, high-tech world we live in today? Do you long for the days of simpler pleasures, when life moved a little slower and everything was just a bit more nostalgic? Want to take a trip back in time to the era of shiny graphics, catchy pop songs, and endless forum discussions – all displayed on your trusty 720p screen?
 
 Yearn no more, this *brand new* nostalgia-themed Beatmap Spotlights is finally here, so just open osu!(lazer) and enjoy some of the most groundbreaking beatmaps of yesteryear!
 
@@ -20,7 +20,7 @@ If you're wondering what Beatmap Spotlights are and how to get involved in them,
 
 To participate in the Beatmap Spotlights, download the latest version of the osu!(lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner. 
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner.
 
 Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — and it'll be whatever game mode you played last on osu!(lazer) by default.
 
@@ -63,13 +63,13 @@ When you do play this, make sure to turn the storyboard on to see the duck spin 
 *primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
 *described by [enri](https://osu.ppy.sh/users/8640970) and [Nowaie](https://osu.ppy.sh/users/5428909)*
 
-If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the thing for you! 
+If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the thing for you!
 
 wafer, as most may already know, is one of many mappers known for bringing his fantastic song choice to the osu! community, and his latest offering is absolutely nothing to sleep on.
 
-Take a stroll down a field of flowers and enjoy a masterclass piece - just like a nice, sunny spring evening over some beautiful natural landscapes, Marigolds is a beautiful sight to see for everyone who chooses to fully embrace it, but not only is the song itself something worth appreciating — the accompanying map also makes for a unique and enjoyable gameplay experience. 
+Take a stroll down a field of flowers and enjoy a masterclass piece - just like a nice, sunny spring evening over some beautiful natural landscapes, Marigolds is a beautiful sight to see for everyone who chooses to fully embrace it, but not only is the song itself something worth appreciating — the accompanying map also makes for a unique and enjoyable gameplay experience.
 
-While most maps challenge people to push their limits, or some specific numbers, this map challenges one to relax, have some fun, and just watch things go by. Featuring a blend of aim control and kick-sliders at varying speeds, it's clear that Marigolds offers something for players of all sub-communities and skill levels. 
+While most maps challenge people to push their limits, or some specific numbers, this map challenges one to relax, have some fun, and just watch things go by. Featuring a blend of aim control and kick-sliders at varying speeds, it's clear that Marigolds offers something for players of all sub-communities and skill levels.
 
 Regardless of whether you have years of experience or are just starting out, you're sure to find something to love in this map! High quality mapping, as well as endorsement from the band, just fulfill the whole package as a clear classic. So why not check it out, and see the marigolds bloom?
 
@@ -83,7 +83,7 @@ Regardless of whether you have years of experience or are just starting out, you
 *primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
 *described by [Nifty](https://osu.ppy.sh/users/4956097)*
 
-The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* \[Oni\] as their map of the season. 
+The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* \[Oni\] as their map of the season.
 
 Known primarily for the variety present in the top difficulties, this map also includes a solid spread, with the oni simplifying things to a level appropriate for the audience. Consistent with the set, this oni plays no tricks, offering a smooth and predictable playing experience through a chaotic track, and that was enough for it to be nominated as the players’ map of the season.
 
@@ -101,7 +101,7 @@ Known primarily for the variety present in the top difficulties, this map also i
 
 The curators this season went with the complete opposite pick. This winter, we were graced with the rare occasion of osu!trivium Champion cdh ranking a map, firmly earning the curator's choice for the season. The combination of Hakushi Hasegawa's phenomenal production and KAF's eerie vocals are brought to life using many new-age mapping tactics in an artistic and intentional manner, including dramatic speedups, "Simon Says", and a bunch of detached barlines.
 
-But all that glitters is not gold, as this high-star piece introduces plenty of challenge, particularly from the inclusion of \[Zeth\] bringing it hard and fast exactly where it needs to be, along with many sections of complex snapping and quick velocity changes. While the top difficulty is the one we found to be the most impressive, the work of Ulqui and woosungko pulled some serious weight in the lower difficulties as well. 
+But all that glitters is not gold, as this high-star piece introduces plenty of challenge, particularly from the inclusion of \[Zeth\] bringing it hard and fast exactly where it needs to be, along with many sections of complex snapping and quick velocity changes. While the top difficulty is the one we found to be the most impressive, the work of Ulqui and woosungko pulled some serious weight in the lower difficulties as well.
 
 If you haven’t already played this map, give it a try!
 
@@ -115,9 +115,9 @@ If you haven’t already played this map, give it a try!
 *primarily suggested by [wwwww](https://osu.ppy.sh/users/8434466)*\
 *described by [WadBot](https://osu.ppy.sh/users/14571181)*
 
-Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those, Peer Gynt (as mapped by multi-MCA winner Mniam) might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season. 
+Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those, Peer Gynt (as mapped by multi-MCA winner Mniam) might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season.
 
-Personally, we'd recommend playing this map with Double Time, if you're looking for a bit of an extra challenge. 
+Personally, we'd recommend playing this map with Double Time, if you're looking for a bit of an extra challenge.
 
 #### Curators' Pick
 
@@ -127,7 +127,7 @@ Personally, we'd recommend playing this map with Double Time, if you're looking 
 *primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
 *described by [wwwww](https://osu.ppy.sh/users/8434466)*
 
-This spotlights season, we have been told that we have a *tie*. Despite this fact, we'd like to talk a bit about THE ACTUAL WINNER for this season. 
+This spotlights season, we have been told that we have a *tie*. Despite this fact, we'd like to talk a bit about THE ACTUAL WINNER for this season.
 
 We consider electrolytes to be an absolute phenomenal display of Unlucky_w's best efforts as a mapper. You can see clear inspiation from Rocma/Jemzuu style of mapping yet a very different type of movement signature. One of the ways he emphasizes things is in an extremely creative manner by adding lots of straining patterns to the sounds he finds very distinct. Requiring extremely fast inputs for a very minimal amount of time is something that isn't done as often in other maps compared to this one.
 
@@ -155,7 +155,7 @@ There is, however, one big flaw about Ryuuseigun, which is its criminally low pl
 
 Hinako has come into the fray with one of the most dynamic and versatile marathon chart to enter the Spotlights! His ability to conceptualize his ideas and also the abundant amount of variation within each section is the main selling point that makes it the player's popular choice of the season.
 
-The song itself already offers a lot of different instrumentation to follow, accentuated by the build up of the BPM that slowly quickens during second half of the map. We mention this not only because Hinako manages to nail this progression of the song with his skilful layering, but also the varied use of concept and patterning to heighten his expression of the song even further. 
+The song itself already offers a lot of different instrumentation to follow, accentuated by the build up of the BPM that slowly quickens during second half of the map. We mention this not only because Hinako manages to nail this progression of the song with his skilful layering, but also the varied use of concept and patterning to heighten his expression of the song even further.
 
 Starting from the astounding quantity of unorthodox LN layering, the usage of creative and fun burst patterning that constantly evolves, plus the implementation of dense chordstreams and uncommonly-snapped jumpjacks introduces some compelling variety that makes the map an absolute joy to play until the end.
 

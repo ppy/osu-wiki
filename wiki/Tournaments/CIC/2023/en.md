@@ -85,7 +85,7 @@ See the [participants list](https://wybin.xyz/tournaments/cico2023/players) for 
   1. [Satyr - Levitator (-Ken) \[Dysphoria\]](https://osu.ppy.sh/beatmapsets/2048485#fruits/4276923)
   2. [Team Grimoire - Dantalion (Sololiquy) \[Future\]](https://osu.ppy.sh/beatmapsets/2048348#fruits/4276679)
   3. [BEMANI Sound Team "Nekomata Master" - The last of world music (Yumeno Himiko) \[Reconstruction of the world\]](https://osu.ppy.sh/beatmapsets/1031577#fruits/2157114)
-  4. [Guchiry feat. flower - Abnormality, Dancin' Girl (Guchiry) \[Psychopathy\]](https://osu.ppy.sh/beatmapsets/1549366#fruits/3166325) 
+  4. [Guchiry feat. flower - Abnormality, Dancin' Girl (Guchiry) \[Psychopathy\]](https://osu.ppy.sh/beatmapsets/1549366#fruits/3166325)
 - Hidden
   1. [Mizuki Nana - SCARLET KNIGHT (F D Flourite) \[:o\]](https://osu.ppy.sh/beatmapsets/916639#fruits/1914313)
   2. [ALI PROJECT - Kinjirareta Asobi (Madoka Ayukawa) \[play AMQ\]](https://osu.ppy.sh/beatmapsets/2048344#fruits/4276673)
@@ -115,7 +115,7 @@ See the [participants list](https://wybin.xyz/tournaments/cico2023/players) for 
   1. [yuikonnu - Kakushigoto (-Rustyy) \[Rustyy \& Dika's Affection\]](https://osu.ppy.sh/beatmapsets/2044467#fruits/4267174)
   2. [Laur vs M1shamo - Deceiver (Dapulezatos) \[Deception\]](https://osu.ppy.sh/beatmapsets/2044423#fruits/4267073)
   3. [Kurokotei - Valkyrie Attack (alienflybot) \[Havoc\]](https://osu.ppy.sh/beatmapsets/793794#fruits/1667152)
-  4. [Adust Rain - Seven Style (Reiszen) \[!!\]](https://osu.ppy.sh/beatmapsets/2007595#fruits/4175961) 
+  4. [Adust Rain - Seven Style (Reiszen) \[!!\]](https://osu.ppy.sh/beatmapsets/2007595#fruits/4175961)
 - Hidden
   1. [Mili - Between Two Worlds (Realm of Darkness) (JierYagtama) \[Realm of Despair\]](https://osu.ppy.sh/beatmapsets/2044455#fruits/4267142)
   2. [Atoguru - VaizravaNa (Cut. Ver) (Madoka Ayukawa) \[Bishamonten\]](https://osu.ppy.sh/beatmapsets/2044432#fruits/4267085)
@@ -452,7 +452,7 @@ Sunday, 23 July 2023:
 8. Rankings of each player are determined by sorting the results of each individual player's performance.
 9. Top 32 players will advance to the knock-out stage if they are deemed to be eligible to compete based on the screening result. Otherwise, the players deemed ineligible will be substituted with those who finished rank 33 or below in the qualifier result.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. Top 32 players will be matched against each other using a predetermined match-up format from the qualifiers result (#1 vs #32, #2 vs #31, #3 vs #30 and so on).
 2. Players will compete against each other using the Double Elimination system.

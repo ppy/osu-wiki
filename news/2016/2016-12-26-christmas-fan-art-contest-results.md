@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Christmas Fan Art Contest Results"
+title: Christmas Fan Art Contest Results
 date: 2016-12-26 08:40:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/154971345623/christmas-fan-art-contest-results
 ---

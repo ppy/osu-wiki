@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - osu!mania 4K World Cup 2023"
+title: osu! originals - osu!mania 4K World Cup 2023
 date: 2023-10-03 08:00:00 +0000
 ---
 

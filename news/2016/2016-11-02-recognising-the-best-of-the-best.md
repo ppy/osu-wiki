@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recognising the Best of the Best"
+title: Recognising the Best of the Best
 date: 2016-11-02 10:54:11 +0000
 tumblr_url: http://osunews.tumblr.com/post/152637359823/recognising-the-best-of-the-best
 ---
