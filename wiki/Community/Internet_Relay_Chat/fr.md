@@ -1,3 +1,7 @@
+---
+no_native_review_since: c34daf02455b8f990b944b902767086d9bf24346 Doryan
+---
+
 # Internet Relay Chat
 
 *Pour plus d'informations, voir : [Internet Relay Chat (Wikipedia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
