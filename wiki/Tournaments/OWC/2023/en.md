@@ -127,13 +127,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
 
 ## Match schedule: Grand Finals
 
+### Saturday, 2 December 2023
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+
 ### Sunday, 3 December 2023
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Dec 3 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 3 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
