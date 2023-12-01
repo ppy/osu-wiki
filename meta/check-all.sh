@@ -56,8 +56,6 @@ printf '%s\n' "$changed_files" | grep '\.md$' | run_test Remark xargs -r meta/re
 run_test 'YAML style' osu-wiki-tools check-yaml
 run_test link osu-wiki-tools check-links --all
 
-first_commit_hash="$(git log --pretty=%H master.. | tail -n 1)"
-
-if test -n "$first_commit_hash"; then
-  run_test 'outdated article' osu-wiki-tools check-outdated-articles --base-commit "$first_commit_hash" --workflow
+if test -n "$(git log master..)"; then
+  run_test 'outdated article' osu-wiki-tools check-outdated-articles
 fi
