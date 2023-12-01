@@ -8,7 +8,13 @@ build_docker_image() {
     exit 1
   fi
 
-  if ! DOCKER_BUILDKIT=1 docker build --tag osu-wiki . >/dev/null; then
+  if test -n "$show_docker_build" -o -z "$(docker image ls -q osu-wiki)"; then
+    DOCKER_BUILDKIT=1 docker build --tag osu-wiki . && :
+  else
+    DOCKER_BUILDKIT=1 docker build --quiet --tag osu-wiki . >/dev/null && :
+  fi
+
+  if test $? -ne 0; then
     printf '\033[31mError:\033[m Failed to build Docker image.\n' >&2
     exit 1
   fi
@@ -38,13 +44,19 @@ run_in_docker() {
   return "$exit_code"
 }
 
+show_docker_build=
+
 case "${1:-}" in
+  --show-build)
+    show_docker_build=1
+    shift
+    ;;
   -*|help)
     exec >&2
     printf 'Run the test suite on files changed since master:\n\n'
-    printf '  \033[4m%s\033[m\n\n' "$0"
+    printf '  \033[4m%s\033[m [--show-build]\n\n' "$0"
     printf 'Run a command in the osu-wiki Docker container:\n\n'
-    printf '  \033[4m%s\033[m <command> [<arguments>]\n' "$0"
+    printf '  \033[4m%s\033[m [--show-build] <command> [<arguments>]\n' "$0"
     exit 1
     ;;
 esac
