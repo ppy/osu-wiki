@@ -57,7 +57,7 @@ if test -z "$changed_files"; then
 fi
 
 printf '%s\n' "$changed_files" | run_test 'file size' xargs meta/check-file-sizes.sh
-{ printf '%s\n' "$changed_files" | grep '\.md$' || true; } | run_test Remark xargs -r meta/remark.sh
+printf '%s\n' "$changed_files" | grep '\.md$' | run_test Remark xargs -r meta/remark.sh
 run_test 'YAML style' osu-wiki-tools check-yaml
 run_test link osu-wiki-tools check-links --all
 
