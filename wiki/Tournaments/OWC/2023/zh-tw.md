@@ -396,6 +396,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 | **巴西** ::{ flag=BR }:: | **6** | 2 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/111260018) | [#1](https://www.twitch.tv/videos/1974747670) |
 | 羅馬尼亞 ::{ flag=RO }:: | 4 | **6** | ::{ flag=FR }:: **法國** | [#1](https://osu.ppy.sh/community/matches/111260487) | [#1](https://www.twitch.tv/videos/1974857501?t=03h39m18s) |
 | **智利** ::{ flag=CL }:: | **6** | 0 | ::{ flag=FI }:: 芬蘭 | [#1](https://osu.ppy.sh/community/matches/111261974) | [#1](https://www.twitch.tv/videos/1974857501?t=04h54m45s) |
+| **智利** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BR }:: 巴西 | [#1](https://osu.ppy.sh/community/matches/111265019) | [#1](https://www.twitch.tv/videos/1974993174) |
 
 2023 年 11 月 12 日, 星期日：
 
@@ -692,8 +693,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 
 ## Notes
 
-[^losers-bracket]: 敗部組
-[^potential-match]: 潛在的比賽 — 根據敗部組結果匹配的比賽
+[^lb-gf-match]: 敗部組決賽
+[^gf-match]: 總決賽 — 根據敗部組決賽結果匹配的比賽
 [^qualifiers-seeding]: 使用主流的種子排序方式
 [^qualifiers-tiebreaker]: 當兩隊同分時採用 Tiebreaker 的分數
-[^winners-bracket]: 勝部組
