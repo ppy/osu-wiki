@@ -17,9 +17,9 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y ca-certificates curl gnupg
     DEBIAN_FRONTEND=noninteractive apt-get install -y nodejs
 
 WORKDIR /osu-wiki
-COPY package.json package-lock.json requirements.txt /osu-wiki/
 
 # Install osu-wiki tool dependencies
+COPY package.json package-lock.json requirements.txt ./
 RUN npm install && npm install -g osu-wiki && pip3 install -r requirements.txt
 
 # Run the container with UID and GID of the host
