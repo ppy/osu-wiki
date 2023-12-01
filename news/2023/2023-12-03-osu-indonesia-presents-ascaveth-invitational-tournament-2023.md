@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Indonesia Presents: Ascaveth Invitational 2023"
+title: "osu! Indonesia Presents: Ascaveth Invitational Tournament 2023"
 date: 2023-12-03 12:30:00 +0000
 ---
 
@@ -8,9 +8,9 @@ Join in the excitement as Indonesia's flagship LAN tournament kicks off for a se
 
 ![](/wiki/shared/news/banners/bannercomingsoon.jpg)
 
-LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a vast osu! competition held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
+LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted the "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a vast osu! tournament held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
 
-Now, more than a decade and [one successful small-scale iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present a spiritual successor to the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — Ascaveth Invitational Tournament 2023!
+Now, more than a decade and [one successful small-scale iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present a spiritual successor to the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — **Ascaveth Invitational Tournament 2023**!
 
 ## Tournament
 
