@@ -108,10 +108,16 @@ tags:
 
 *Note : Les responsables du wiki détermineront et appliqueront ce tag avant le merge.*
 
-Il arrive que des traductions soient ajoutées au wiki sans être review par d'autres natifs de la langue. Dans ce cas, le tag `no_native_review` est ajoutée pour faire savoir aux futurs traducteurs qu'il faudra peut-être la vérifier à nouveau. Ce tag doit être écrite comme indiqué ci-dessous :
+Il arrive que des traductions soient ajoutées au wiki sans être review par d'autres natifs de la langue. Dans ce cas, le tag `no_native_review` est ajoutée pour faire savoir aux futurs traducteurs qu'il faudra peut-être la vérifier à nouveau :
 
 ```yaml
 no_native_review: true
+```
+
+Par ailleurs, le tag `no_native_review_since` peut être utilisée pour indiquer le commit où la première édition non révisée a été introduite, ainsi que les personnes qui ont édité la traduction par la suite :
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Noms des articles
