@@ -38,23 +38,18 @@ run_in_docker() {
   return "$exit_code"
 }
 
+case "${1:-}" in
+  -*|help)
+    exec >&2
+    printf 'Run the test suite on files changed since master:\n\n'
+    printf '  \033[4m%s\033[m\n\n' "$0"
+    printf 'Run a command in the osu-wiki Docker container:\n\n'
+    printf '  \033[4m%s\033[m <command> [<arguments>]\n' "$0"
+    exit 1
+    ;;
+esac
+
 cd -- "$(dirname "$0")"
 
-if test $# -gt 0; then
-  if test $# -gt 1 -a "$1" = --; then
-    shift
-    build_docker_image
-    run_in_docker "$@"
-    exit
-  fi
-
-  exec >&2
-  printf 'Run the test suite on files changed since master:\n\n'
-  printf '  \033[4m%s\033[m\n\n' "$0"
-  printf 'Run a command in the osu-wiki Docker container:\n\n'
-  printf '  \033[4m%s\033[m -- <command> [<arguments>]\n' "$0"
-  exit 1
-fi
-
 build_docker_image
-run_in_docker
+run_in_docker "$@"
