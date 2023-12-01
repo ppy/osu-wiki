@@ -25,7 +25,7 @@ Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mo
 | Peran | Anggota |
 | :-- | :-- |
 | Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Manajer proyek | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Manajer proyek | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
 
 Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim ditandai dengan huruf tebal.
 

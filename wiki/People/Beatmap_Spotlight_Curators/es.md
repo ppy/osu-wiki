@@ -23,7 +23,7 @@ El proyecto Beatmap Spotlights está a cargo de varios miembros de la comunidad 
 | Rol | Miembros |
 | :-- | :-- |
 | Lider del proyecto | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Gerente de proyecto | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Gerente de proyecto | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
 
 Los equipos de curadores dedicados organizan cada lanzamiento de Beatmap Spotlights. Los líderes del equipo están marcados en negrita.
 
