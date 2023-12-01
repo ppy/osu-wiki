@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Better protecting players from abuse"
+title: Better protecting players from abuse
 date: 2020-11-19 09:00:00 +0000
 ---
 

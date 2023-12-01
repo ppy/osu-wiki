@@ -27,22 +27,16 @@ This solution works fine in most cases, although the feature itself has limited 
 If you encountered any problems while using the GitHub tool or you want to overwrite your branch's contents, you can use the workflow written by the osu! wiki contributors.
 
 1. Open **your fork** and go to the `Actions` tab.
-2. In `Workflows`, look for `Sync from osu! upstream`.
+2. On the left sidebar, look for `Sync with ppy:master`.
 3. Click `Run workflow` and fill in the options:
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+![Screenshot of the form on the GitHub website described below](img/github-actions-workflow-dispatch.png "GitHub Actions workflow dispatch menu")
 
-- **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
-- **Overwrite any changes in the target repository**:
-  - `true`: replace the contents of your branch with a clean copy of the `master` branch from `ppy/osu-wiki`.
-  - `false` (default): merge your changes with the ones on `ppy/osu-wiki`.
-- **Create a backup of your target branch**:
-  - `true`:  make a branch called `backup-{name of your branch}` before changing it.
-  - `false` (default): do not make any backups.
+- **Use workflow from**: Target branch that you want to sync. By default, it is set to `master`.
+- **Create a backup of the selected branch**: Creates a copy of the target branch at `{branch name}-backup` on your fork before attempting to update it.
+- **Overwrite all history of the selected branch**: Replaces the target branch with `ppy:master`, discarding all of its differing commits. By default, `ppy:master` will be merged into the target branch.
 
-4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync from osu! upstream` workflow task.
-
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+4. Click the `Run workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync with ppy:master` workflow task.
 
 ## Making edits
 

@@ -27,7 +27,7 @@ Because the MBC would be boring with the same premise monthly, each contest forc
 
 This month's limitation: **sliders cannot be used**.
 
-Cut all ties with sliders — circles are your best friends this month! ...Plus a spinner or two, if you think you're clever. 
+Cut all ties with sliders — circles are your best friends this month! ...Plus a spinner or two, if you think you're clever.
 
 Screeners for last month's limitation noted that entries didn't utilize the circle size limitation too well, which resulted in a lot of generic maps with oversized objects. This month's limitation was chosen because it disallows a lot of standard mapping techniques! (and it's requested practically every month!)
 

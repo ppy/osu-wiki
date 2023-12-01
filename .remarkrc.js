@@ -42,6 +42,7 @@ export default {
     ['lint-osu-wiki-links'],
     ['lint-table-cell-padding', false],
     ['lint-table-pipe-alignment', false],
+    ['message-control', { name: 'lint', source: ['remark-lint', 'remark-lint-osu'] }],
     ['osu/lint-table-align-style'],
     ['osu/lint-table-cell-padding'],
     ['osu/lint-table-no-missing-cells'],

@@ -1,39 +1,38 @@
 ---
-outdated_translation: true
-outdated_since: c6e4ace59bf0c3be43617fda1a36a5c6dc0af3c3
+no_native_review: true
 ---
 
 # Variables de script d'un storyboard
 
-Vous pouvez utiliser des chaînes de texte, jusqu'à une ligne entière, comme **variables** pour les utiliser ailleurs dans un fichier .osb (notez que la valeur ne peut pas changer pendant le jeu, donc pour ceux qui ont de l'expérience dans les logiciels, voyez ça plutôt comme une constante). *Les fichiers .osu ne supportent pas cela*.
+Les **variables** sont des alias personnalisés pour d'autres valeurs, typiquement des chaînes de caractères longues ou communes, qui peuvent être réutilisées ailleurs dans les fichiers `.osb`. Elles ne peuvent pas être modifiées dynamiquement pendant le jeu, ce qui signifie que ce sont des valeurs constantes. Elles ne sont *pas supportées* dans les fichiers `.osu`.
 
 ## Utilisation
 
-La déclaration des variables se fait dans la section distincte \[Variables\] du fichier .osb, située en haut du fichier :
+La déclaration des variables s'effectue dans une section distincte \[Variables\], généralement située en haut du fichier `.osb` :
 
 ```
 [Variables]
-$color_link=0,255,0
+$colour_green=0,255,0
 $sample_path="Sample.png"
 ```
 
-Vous pouvez utiliser la variable dans votre code en tapant le nom (côté gauche de la déclaration, y compris le $) dans votre code. Par exemple, avec les déclarations ci-dessus, ceci :
+Les variables sont utilisées dans le code en tapant leur nom (côté gauche de la déclaration, y compris le $). Par exemple, avec les déclarations ci-dessus :
 
 ```
 Sprite,Pass,Centre,$sample_path,320,240
-_C,0,58810,59810,$color_link
+_C,0,58810,59810,$colour_green
 ```
 
-est traité comme ceci :
+est traité comme suit :
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,0,CC,0
+_C,0,58810,59810,0,255,0
 ```
 
 ## Avertissement
 
-Notez que les variables sont reportées lors de la sauvegarde dans l'éditeur, mais *toutes* les instances de la valeur de la variable seront remplacées par la variable. Par conséquent, vous ne devriez pas faire de variable trop courte ou trop générale, par ex :
+Notez que si les variables sont conservées lors de la sauvegarde dans [l'éditeur de beatmap](/wiki/Client/Beatmap_editor), *toutes* les instances de la valeur sont remplacées par cette dernière. Par conséquent, les valeurs ne doivent pas être trop courtes ou trop générales, par exemple :
 
 ```
 [Variables]
@@ -46,4 +45,4 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12
 ```
 
-La sauvegarde remplacera les "12" de la spécification de la couleur par "$number_of_loops".
+La sauvegarde remplacera le "12" de la spécification de couleur par `$number_of_loops`.

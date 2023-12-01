@@ -42,7 +42,7 @@ Zwar ist die Nutzung von Branches eigentlich optional, sie ist allerdings [aus m
 
 1. Navigiere in dem Ordner, in den du das Repository geklont hast, zu der Datei, die du bearbeiten möchtest. Die Artikel sind so organisiert, dass die Ordnernamen den Artikelnamen entsprechen und die Dateien mit der Endung `.md` die einzelnen Sprachen sind.
 2. Sobald du die richtige Datei gefunden hast, öffne sie mit deinem bevorzugtem Texteditor.
-3. Jetzt kannst du deine Änderungen einpflegen. Nehme dir einen Moment Zeit, um auch die [Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#selbstüberprüfung) anzuschauen.
+3. Jetzt kannst du deine Änderungen einpflegen. Nehme dir einen Moment Zeit, um auch die [Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#self-check) anzuschauen.
 4. Mache weiter mit [Commits erstellen und hochladen](#commits-erstellen-und-hochladen).
 
 ### Existierende Dateien verschieben
@@ -87,4 +87,4 @@ Wie zum Beispiel oben zu sehen hat [pippi](/wiki/Mascots#pippi) eine Bilddatei h
 
   ![](img/github-desktop-push.jpg)
 
-9. Mache weiter mit der [Überprüfung](/wiki/osu!_wiki/Contribution_guide#überprüfung) für den letzten Schritt im Bezug auf deine Änderungsanfrage und die Änderungen.
+9. Mache weiter mit der [Überprüfung](/wiki/osu!_wiki/Contribution_guide#review) für den letzten Schritt im Bezug auf deine Änderungsanfrage und die Änderungen.

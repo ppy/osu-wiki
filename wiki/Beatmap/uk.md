@@ -47,7 +47,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 Опублікована карта належить до однієї із наступних категорій (може змінюватися з часом):
 
 - [Закинуті](Category#graveyard)
-- [В розробці / Очікуючі](Category#work-in-progress-and-pending)
+- [В розробці / Очікуючі](Category#wip-and-pending)
 - [Кваліфіковані](Category#qualified)
 - [Оцінені](Category#ranked)
 - [Обрані](Category#approved)

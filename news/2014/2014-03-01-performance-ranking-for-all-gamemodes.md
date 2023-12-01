@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance ranking for all gamemodes"
+title: Performance ranking for all gamemodes
 date: 2014-03-01 00:00:00 +0000
 tumblr_url: https://osunews.tumblr.com/post/78209471160/performance-ranking-for-all-gamemodes
 ---

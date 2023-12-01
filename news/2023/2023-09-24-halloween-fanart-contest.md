@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2023 Fanart Contest"
+title: Halloween 2023 Fanart Contest
 date: 2023-09-24 04:00:00 +0000
 ---
 
