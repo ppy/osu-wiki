@@ -14,7 +14,7 @@ Now, more than a decade and [one successful small-scale iteration](/wiki/Tournam
 
 ## Tournament
 
-Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and members of the Indonesian osu! community. The tournament features a lineup of eight top osu! players from all across Indonesia who have qualified through the [Last Chance Qualifiers (LCQ)](http://osu.ppy.sh/wiki/en/Tournaments/AIT/2023_LCQ) event and other means as follows:
+Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and members of the Indonesian osu! community. The tournament features a lineup of eight top osu! players from all across Indonesia who have qualified through the [Last Chance Qualifiers (LCQ)](/wiki/Tournaments/AIT/2023_LCQ) event and other means as follows:
 
 - ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635)
 - ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
