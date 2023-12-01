@@ -22,7 +22,7 @@ Les fonctions suivantes sont désactivées pour les comptes soumis à des restri
 - La possibilité de mettre à jour les détails de votre profil
 - La possibilité de faire des achats dans le magasin
 
-## Mon compte a été soumis à des restrictions ! Que dois-je faire ? {id=quoi}
+## Mon compte a été soumis à des restrictions ! Que dois-je faire ? {id=what}
 
 Si votre compte a été soumis à des restrictions, ne paniquez pas. Suivez les étapes suivantes :
 
@@ -36,7 +36,7 @@ Si votre compte d'origine n'est pas soumis à des restrictions, vous pouvez vous
 
 Si vous avez récemment bénéficié d'un appel et que votre compte est à nouveau soumis à des restrictions après avoir joué, ne paniquez pas ! Il se peut que des systèmes automatisés aient faussement signalé votre compte, mais vous serez à nouveau libre dans les 24 heures si cela s'avère être le cas. N'hésitez pas à nous envoyer un courriel ou un tweet pour attirer notre attention et être rétabli plus rapidement !
 
-## Pourquoi suis-je soumis à des restrictions ? {id=pourquoi}
+## Pourquoi suis-je soumis à des restrictions ? {id=why}
 
 Il y a plusieurs raisons pour lesquelles un compte peut être soumis à des restrictions.
 
@@ -47,7 +47,7 @@ Il y a plusieurs raisons pour lesquelles un compte peut être soumis à des rest
 
 S'il s'avère qu'un compte a été soumis à des restrictions à juste titre, nous demanderons à l'utilisateur d'attendre un certain temps avant d'envoyer son appel. Ce délai est appelé *cooldown* et sa durée varie en fonction des infractions commises.
 
-## Que dois-je faire pendant le cooldown avant l'appel ? {id=pendant-le-cooldown}
+## Que dois-je faire pendant le cooldown avant l'appel ? {id=while-on-cooldown}
 
 - **Continuez à profiter du jeu !** Pendant que votre compte est restreint et que vous êtes en période de cooldown, vous pouvez continuer à jouer (tant que vous jouez sur votre compte d'origine !). Les scores que vous aurez obtenus pendant la période de restriction seront soumis et, à moins que votre compte ne soit rétabli, ils seront conservés une fois que vous n'aurez plus de restriction.
 - **Maintenir un bon comportement.** Nous comprenons que le fait d'être restreint peut être frustrant, mais considérez cela comme une chance de prendre un peu de temps libre, loin de la communauté. Essayez d'éviter toute interaction avec la communauté pendant au moins quelques jours (que ce soit via Discord, les médias sociaux ou d'autres formes de contact) afin de vous calmer et de réfléchir aux actions qui ont pu contribuer à la restriction de votre compte.
@@ -55,7 +55,7 @@ S'il s'avère qu'un compte a été soumis à des restrictions à juste titre, no
 - **Suivez les instructions de l'équipe d'assistance aux comptes.** Le délai de cooldown vous permet de prendre du recul et de réfléchir à vos actions. Si vous tentez d'introduire un appel avant la fin de la période de cooldown, vos e-mails seront ignorés. Si vous n'êtes pas sûr de la date d'expiration de votre délai de cooldown, de la date à laquelle vous serez autorisé à faire appel, ou des comptes sur lesquels vous devriez jouer (et à partir desquels vous devriez faire appel), n'hésitez pas à nous envoyer un e-mail pour nous poser la question.
 - **N'hésitez pas à nous contacter si vous avez des questions.** Tant que vous n'essayez pas de contourner la sanction, nous répondrons volontiers à toutes les questions que vous vous posez au sujet de la restriction de votre compte !
 
-## Mon délai de cooldown est dépassé. Comment puis-je faire appel ? {id=appel}
+## Mon délai de cooldown est dépassé. Comment puis-je faire appel ? {id=appeal}
 
 Vous pouvez faire appel en envoyant un courriel à [accounts@ppy.sh](mailto:accounts@ppy.sh) en indiquant le nom d'utilisateur de votre compte. Assurez-vous que vous envoyez l'appel à partir de l'adresse électronique associée à votre compte. Après avoir envoyé votre appel, attendez une réponse dans un délai d'une semaine. Si vous n'avez pas reçu de réponse dans ce délai, contactez-nous sur Twitter ou par courrier électronique - il est possible que nous ne l'ayons pas reçue.
 
@@ -66,7 +66,7 @@ Lors d'un appel, nous attendons que les points suivants soient précisés :
 - **Comment vous avez obtenu les moyens de le faire ?** Cela s'applique principalement à la tricherie - nous voulons savoir où vous avez obtenu l'outil que vous avez utilisé, comment vous l'avez découvert et s'il est toujours présent sur votre ordinateur.
 - **Pourquoi nous devrions vous autoriser à revenir ?** La plupart du temps, cela est directement lié au deuxième point. Nous voulons simplement nous assurer que vous n'enfreindrez plus les règles ! Veuillez comprendre que plus vous avez enfreint de règles dans l'historique de votre compte, plus nous attendons des réponses dans cette section de l'appel.
 
-## Que se passe-t-il si mon appel est accepté ? {id=appel-accepté}
+## Que se passe-t-il si mon appel est accepté ? {id=appeal-granted}
 
 Si nous décidons de vous laisser revenir, nous vous demanderons d'accepter certaines conditions avant de débloquer votre compte.
 
@@ -83,7 +83,7 @@ Certains joueurs peuvent être à nouveau soumis à des restrictions lorsqu'ils 
 
 Certaines infractions conduiront à l'annulation de votre compte en cas de non-restriction. Elles ont pour but de supprimer les scores illégitimes qui ont été soumis sur votre compte **dans tous les modes**, ainsi que les médailles et les badges de profil débloqués. **Le compte de jeu et le temps de jeu ne seront pas modifiés.**
 
-## Mon appel a été rejeté ! {id=appel-rejeté}
+## Mon appel a été rejeté ! {id=appeal-denied}
 
 Il y a plusieurs raisons pour lesquelles un appel peut être refusé.
 
@@ -93,7 +93,7 @@ Il y a plusieurs raisons pour lesquelles un appel peut être refusé.
 - **Vous avez continué à offenser tout en étant limité.** Il n'y a aucune raison de rétablir la restriction d'une personne qui continue à enfreindre les règles même après avoir été restreinte. Si vous continuez à enfreindre les règles, le délai de restriction de votre compte sera réinitialisé à la date de votre dernière infraction. Dans le cas d'infractions extrêmes ou continues, votre appel pourrait être définitivement rejeté.
 - **Vos antécédents sont trop importants.** Dans le cas de contrevenants extrêmes, ou de joueurs qui sont à nouveau soumis à des restrictions alors qu'ils ont déjà été rétablis à la suite d'un appel réussi, nous pouvons simplement déclarer que vos antécédents sont trop graves pour que vous puissiez réintégrer le jeu à l'heure actuelle. Dans ce cas, nous vous recommandons d'attendre **un long moment** avant de faire appel à nouveau, et de vous assurer que vous n'enfreignez pas d'autres règles pendant ce temps.
 
-## Que se passe-t-il si ce n'est pas la première fois que je fais appel ? {id=appel-ultérieur}
+## Que se passe-t-il si ce n'est pas la première fois que je fais appel ? {id=subsequent-appeal}
 
 Dans la plupart des cas, chaque restriction sur votre compte double la durée de la restriction suivante et le temps de recharge qui lui est associé.
 
@@ -101,7 +101,7 @@ Par exemple, si vous êtes soumis à des restrictions pour avoir triché, que vo
 
 En outre, il est de plus en plus difficile de revenir en appel après une première infraction, car nous devons tenir compte de vos actions passées et déterminer si la levée de la restriction vaut le temps et le risque qu'elle implique. Très peu de joueurs (voire aucun) réussissent à réintégrer la communauté après leur troisième restriction.
 
-## Mes courriels sont ignorés / Je ne pense pas que mon recours ait été traité de manière équitable {id=review-de-l'appel}
+## Mes courriels sont ignorés / Je ne pense pas que mon recours ait été traité de manière équitable {id=appeal-review}
 
 Si vous estimez que votre courrier électronique n'est pas lu ou traité correctement par notre équipe d'assistance, veuillez nous envoyer un courrier électronique complet à l'adresse [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) contenant les informations suivantes :
 
@@ -116,7 +116,7 @@ Veuillez noter que l'envoi d'un courriel à cette adresse ne garantit qu'un seco
 
 **Nous ne répondrons aux demandes d'examen/enquête d'appel que par le biais de courriels envoyés à [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** N'essayez pas de contacter les membres de l'équipe d'assistance auxs comptes (ou les membres des équipes de bénévoles) via Twitter, Discord ou toute autre plateforme afin de contourner cette politique - ils ne peuvent pas vous aider.
 
-## Raisons et délais de restriction courants {id=raisons}
+## Raisons et délais de restriction courants {id=reasons}
 
 | Motif de la restriction | Durée du cooldown | Notes d'appel |
 | :-- | :-- | :-- |

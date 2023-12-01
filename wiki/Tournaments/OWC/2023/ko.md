@@ -127,13 +127,18 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 매치 일정 : 그랜드 파이널
 
+### 2023년 12월 2일 토요일
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+
 ### 2023년 12월 3일 일요일
 
 | Team A | Team B | 매치 시간 | 트위치 생방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 | 대한민국 ::{ flag=KR }:: | ::{ flag=AU }:: 오스트레일리아 | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
 
