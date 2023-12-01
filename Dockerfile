@@ -25,3 +25,6 @@ RUN npm install && npm install -g osu-wiki && pip3 install -r requirements.txt
 # Run the container with UID and GID of the host
 COPY meta/docker-entrypoint.sh /
 ENTRYPOINT ["/docker-entrypoint.sh"]
+
+# By default, run all checks when the container is started
+CMD ["meta/check-all.sh"]

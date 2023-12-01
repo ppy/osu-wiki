@@ -1,117 +1,35 @@
-#!/bin/bash
+#!/bin/sh
 
-function print_error() { printf -- "\e[0;31m$1\e[m\n" 1>&2; }
-function print_warning() { printf -- "\e[0;34m$1\e[m\n" 1>&2; }
-function print_success() { printf -- "\e[0;32m$1\e[m\n" 1>&2; }
-function print_ok() { printf -- "$1\n" 1>&2; }
+set -eu
 
-function _build_container() {
-  if ! ( which docker > /dev/null ); then
-    print_error "Missing Docker -- install it from https://docs.docker.com/engine and restart the shell."
+build_docker_image() {
+  if ! which docker >/dev/null 2>&1; then
+    printf '\033[31mError:\033[m Docker not found. Install it from https://docs.docker.com/get-docker/ and restart the shell.\n' >&2
     exit 1
   fi
 
-  print_ok "Preparing the Docker image..."
-  if ! ( DOCKER_BUILDKIT=1 docker build -q -t osu-wiki . ); then
-    print_error "Failed to build the Docker image."
+  if ! DOCKER_BUILDKIT=1 docker build --tag osu-wiki . >/dev/null; then
+    printf '\033[31mError:\033[m Failed to build Docker image.\n' >&2
     exit 1
   fi
 }
 
-# Do not shadow node_modules in the container: https://stackoverflow.com/q/29181032#comment97216954_37898591
-function _docker() {
-  osu_wiki_root=$( cd -- "$( dirname $0 )" && pwd )
-  container_workdir="/osu-wiki"
-  docker run \
-    --volume ${osu_wiki_root}:${container_workdir}/ \
-    --volume ${container_workdir}/node_modules \
-    --workdir ${container_workdir} osu-wiki bash -c "$*"
-}
+cd -- "$(dirname "$0")"
 
-function _test_wrapper() {
-  test_name="$1"
-  command_line="$2"
-  files=( $( echo "${@: 3}" | tr '\n' ' ' ) )  # bash v3.2 on macOS doesn't support readarray
-
-  if test -z "$files"; then
-    print_success "* Skipped $test_name test."
-  else
-    print_ok "* Run $test_name test"
-    $command_line "${files[@]}"
-    return_code=$?
-    if test $return_code -eq 0; then
-      print_success "* Passed $test_name test."
-    else
-      print_error "* Failed $test_name test (exit code $return_code)."
-    fi
-  fi
-}
-
-function _usage() {
-  echo "Usage: $( basename $0 ) [-- [COMMAND] [ARGS]]"
-  echo -e "Run osu! wiki-related commands in a Docker container.\n"
-  echo -e "Without arguments, run default test suite on all changes, both committed and not.\n"
-  echo "  -- [COMMAND] [ARGS]    run COMMAND in the container, passing ARGS as its arguments"
-}
-
-function main() {
-  while [[ $# -gt 0 ]]; do
-    case $1 in
-      -h|--help)
-        _usage
-        exit 2
-        ;;
-      --)
-        shift
-        _build_container
-        _docker "$@"
-        exit $?
-        ;;
-      *|-*|--*)
-        echo -e "Unrecognized option '$1'\nTry '$( basename $0 ) --help' for more information." 
-        exit 1
-        ;;
-    esac
-  done
-
-  current_branch=$( git branch --show-current )
-  if test ${current_branch} = 'master'; then
-    print_error "Please run this from a feature branch, i.e. not 'master'"
-    exit 1
+if test $# -gt 0; then
+  if test $# -gt 1 -a "$1" = --; then
+    shift
+    build_docker_image
+    exec meta/docker-run.sh "$@"
   fi
 
-  first_commit_hash=$( git log master..${current_branch} --pretty=format:%H | tail -1 )
+  exec >&2
+  printf 'Run the test suite on files changed since master:\n\n'
+  printf '  \033[4m%s\033[m\n\n' "$0"
+  printf 'Run a command in the osu-wiki Docker container:\n\n'
+  printf '  \033[4m%s\033[m -- <command> [<arguments>]\n' "$0"
+  exit 1
+fi
 
-  interesting_files=$(
-    sort -u < <(
-      # Changes that are not committed (staged + unstaged + untracked), but without deleted files
-      git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
-      # Changes committed so far (may overlap with the above)
-      if [[ -n ${first_commit_hash} ]]; then
-        git diff --no-renames --name-only --diff-filter=d ${first_commit_hash}^
-      fi
-    )
-  )
-
-  if test -z "${interesting_files}"; then
-    print_success "No changes detected -- nothing to check."
-    exit 0
-  fi
-
-  # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
-  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ | grep -E -v '^[A-Z-]+\.md$' )
-
-  _build_container
-
-  # TODO give no arguments to check-file-sizes
-  _test_wrapper "file size" "_docker meta/check-file-sizes.sh" "${interesting_files}"
-  _test_wrapper "article style" "_docker meta/remark.sh" "${interesting_articles}"
-
-  _test_wrapper "YAML style" "_docker osu-wiki-tools check-yaml --target" .
-
-  # TODO: _test_wrapper expects a third argument but luckily --all overrides --target. please rewrite to make this prettier
-  _test_wrapper "link" "_docker osu-wiki-tools check-links --all --target" "${interesting_articles}"
-  _test_wrapper "article freshness" "_docker osu-wiki-tools check-outdated-articles --workflow --base-commit" "${first_commit_hash}"
-}
-
-main $@
+build_docker_image
+exec meta/docker-run.sh
