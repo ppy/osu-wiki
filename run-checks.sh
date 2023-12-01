@@ -14,13 +14,31 @@ build_docker_image() {
   fi
 }
 
+run_in_docker() {
+  remove_node_modules="$(test -e node_modules || printf 1)"
+
+  # Map the host repo directory to /osu-wiki, but use node_modules from the image
+  docker run \
+    --rm \
+    --volume "$(pwd):/osu-wiki" \
+    --volume /osu-wiki/node_modules/ \
+    osu-wiki "$@"
+
+  # FIXME: The above command leaves behind an empty node_modules directory if it
+  #        didn't already exist, and I can't figure out how to prevent that... so
+  #        here I delete the node_modules directory if it is new. —clayton
+  if test -n "$remove_node_modules"; then
+    rm -rf node_modules
+  fi
+}
+
 cd -- "$(dirname "$0")"
 
 if test $# -gt 0; then
   if test $# -gt 1 -a "$1" = --; then
     shift
     build_docker_image
-    exec meta/docker-run.sh "$@"
+    run_in_docker "$@"
   fi
 
   exec >&2
@@ -32,4 +50,4 @@ if test $# -gt 0; then
 fi
 
 build_docker_image
-exec meta/docker-run.sh
+run_in_docker
