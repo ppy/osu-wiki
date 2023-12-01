@@ -78,9 +78,9 @@ Debido a la forma en que se implementan los mods [DT](/wiki/Gameplay/Game_modifi
 
 *Página principal: [Tasa inestable](/wiki/Gameplay/Unstable_rate)*
 
-`Unstable Rate` (*UR*) muestra la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los errores de golpe, en décimas de milisegundo. Un UR más bajo indica una mayor consistencia.
+`Unstable Rate` (*UR*) muestra la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los aciertos de golpe, en décimas de milisegundo. Un UR más bajo indica una mayor consistencia.
 
-Ten en cuenta que la consistencia no es lo mismo que la precisión. Si bien un UR bajo suele ser el resultado de un juego preciso, es posible obtener un UR muy bajo al mismo tiempo que una precisión muy baja. Por ejemplo, un jugador podría golpear cada [objeto](/wiki/Gameplay/Hit_object) lo suficientemente tarde como para obtener un [50](/wiki/Gameplay/Judgement/osu!), pero con errores consistentes.
+Ten en cuenta que la consistencia no es lo mismo que la precisión. Si bien un UR bajo suele ser el resultado de un juego preciso, es posible obtener un UR muy bajo al mismo tiempo que una precisión muy baja. Por ejemplo, un jugador podría golpear cada [objeto](/wiki/Gameplay/Hit_object) lo suficientemente tarde como para obtener un [50](/wiki/Gameplay/Judgement/osu!), pero con aciertos consistentes.
 
 ### Giros
 
