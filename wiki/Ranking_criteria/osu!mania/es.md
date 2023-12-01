@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos_generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 

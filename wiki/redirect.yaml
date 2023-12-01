@@ -2130,3 +2130,7 @@ people/osu!monthly_team: Community/osu!monthly#contributors
 
 # Renamed "Support Team" to "Technical Support Team" (#10425)
 people/support_team: People/Technical_Support_Team
+
+# Added "Unstable rate"
+unstable_rate: Gameplay/Unstable_rate
+ur:            Gameplay/Unstable_rate
