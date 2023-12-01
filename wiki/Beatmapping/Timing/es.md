@@ -37,7 +37,7 @@ La cantidad de tiempo entre el comienzo del archivo de audio y el primer tiempo 
 En la [pestaña timing](/wiki/Client/Beatmap_editor/Timing), tocar la tecla `T` o hacer clic en el botón del metrónomo al ritmo de la canción permitirá a osu! calcular un BPM aproximado. Luego, el valor se puede ajustar manualmente hasta que sea correcto y todas las marcas de la línea de tiempo se alineen con la música. Hay algunas cosas a tener en cuenta:
 
 - Casi ninguna canción utiliza un BPM con valor decimal. Si el valor resulta demasiado preciso después de realizar ajustes manuales, lo más probable es que sea incorrecto.
-- El offset [debe estar en el primer tiempo fuerte de una canción](/wiki/Guides/Setting_the_offset_on_the_correct_beat), según lo dispuesto por los [criterios de clasificación](/wiki/Ranking_criteria#timing).
+- El offset [debe estar en el primer tiempo fuerte de una canción](/wiki/Guides/Setting_the_offset_on_the_correct_beat), según lo dispuesto por los [criterios de clasificación](/wiki/Ranking_criteria#temporización).
 
 ### BPM múltiples/variables
 
@@ -57,7 +57,7 @@ Por último, se requiere un nuevo punto de tiempo para cambios de compás y rein
 
 La temporización se considera ampliamente como una de las habilidades de mapping más difíciles de dominar, ya que requiere mucha paciencia y un buen sentido del ritmo. No es raro pedir ayuda a otros mappers y [modders](/wiki/Modding), ya sea personalmente o en canales públicos del [chat](/wiki/Client/Interface/Chat_console) y [foros](/wiki/Community/Forum). Uno de los hilos del foro dedicado al tema, «[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)», contiene más de 5000 respuestas recopiladas durante 13 años.
 
-[Los criterios de clasificación](/wiki/Ranking_criteria#timing) tienen una sección dedicada a la temporización, que explica las reglas respectivas para los beatmaps [para clasificar](/wiki/Beatmap_ranking_procedure).
+[Los criterios de clasificación](/wiki/Ranking_criteria#temporización) tienen una sección dedicada a la temporización, que explica las reglas respectivas para los beatmaps [para clasificar](/wiki/Beatmap_ranking_procedure).
 
 ## Véase también
 

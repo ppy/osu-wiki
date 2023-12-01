@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points & Star Rating Updates"
+title: Performance Points & Star Rating Updates
 date: 2021-07-27 10:00:00 +0000
 ---
 
@@ -31,7 +31,7 @@ Deployment of these changes will as usual, take some time to fully complete. As 
 
 An initial pass over all beatmaps to update their star ratings. This will take immediate effect for all newly submitted scores.
 
-Estimated to take 3-4 days. 
+Estimated to take 3-4 days.
 
 UPDATE: As of 2021-07-30 09:00 UTC, all ranked beatmaps have been recalculated across all game modes. Non-ranked beatmaps have also been fully recalculated for osu! mode (with other modes running in the background over the coming days - these do not affect scores and as such this task is considered completed).
 
@@ -163,7 +163,7 @@ Though solely in the domain of osu!(lazer), it may eventually resolve a [fair](h
 
 ### All rulesets: More flexibility in the structure of skills
 
-As community members explore new ideas in the domain of difficulty and performance calculation, the limitations of how things were previously set up can come to affect new efforts in quite stifling ways. 
+As community members explore new ideas in the domain of difficulty and performance calculation, the limitations of how things were previously set up can come to affect new efforts in quite stifling ways.
 
 Long-term contributor [**Syrin**](https://osu.ppy.sh/users/5701575) has made great strides in revamping this process for the benefit of anyone interested in creating their own rulesets in the changes listed below:
 

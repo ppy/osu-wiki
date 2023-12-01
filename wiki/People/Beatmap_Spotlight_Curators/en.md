@@ -1,7 +1,7 @@
 ---
 tags:
-    - BSC
-    - beatmap spotlight curator
+  - BSC
+  - beatmap spotlight curator
 ---
 
 # Beatmap Spotlight Curators

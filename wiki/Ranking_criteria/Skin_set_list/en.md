@@ -101,7 +101,7 @@ osu! has two spinner styles, only one of which can be used in a skin at the same
 
 The new spinner style will only work if the user-specific skin does not use the old one and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
 
-All elements in each set excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. 
+All elements in each set excluding spinner-osu.png and spinner-rpm.png are gameplay relevant.
 
 ### Old spinner style set
 

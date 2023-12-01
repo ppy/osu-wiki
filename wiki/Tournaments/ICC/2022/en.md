@@ -115,7 +115,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [sasakure.UK - Xlo (Yusomi) \[Another AR9.7\]](https://osu.ppy.sh/beatmapsets/1018087#fruits/2130633)
   4. [USAO - Cthugha (Otosaka-Yu) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1370925#fruits/2834637)
   5. [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[0pp's Tecxpert\]](https://osu.ppy.sh/beatmapsets/1591460#fruits/3405314)
-  6. [The Gentle Men - Your Boyfriend Doesn't Scare Me (feat. KMac2021) (Kalibe) \[Daydream\]](https://osu.ppy.sh/beatmapsets/1799259#fruits/3688467)  
+  6. [The Gentle Men - Your Boyfriend Doesn't Scare Me (feat. KMac2021) (Kalibe) \[Daydream\]](https://osu.ppy.sh/beatmapsets/1799259#fruits/3688467)
 - Hidden
   1. [Co shu Nie - Yume o Kin'iro ni Somete (Mystiarch) \[DeviousPanda's Abberation\]](https://osu.ppy.sh/beatmapsets/1632207#fruits/3338304)
   2. [seiya-murai feat. ALT - Sumidagawa Karenka (SkyFlame) \[Oriental Blossom\]](https://osu.ppy.sh/beatmapsets/1356636#fruits/2807621)
@@ -141,7 +141,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [Roselia - Shin'ai (-Aqua) \[Agony\]](https://osu.ppy.sh/beatmapsets/765499#fruits/1674700)
   4. [EmoCosine - MAGENTA POTION (short ver.) (Starfy) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079970#fruits/3075536)
   5. [Yooh - Decoy (fanzhen0019) \[D\]](https://osu.ppy.sh/beatmapsets/1074610#fruits/2248810)
-  6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)  
+  6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)
 - Hidden
   1. [Dirtyphonics - Night Ride (Halgoh) \[Ultimate Drift\]](https://osu.ppy.sh/beatmapsets/1621891#fruits/3311337)
   2. [SHK - Death Moon (Musty) \[SHD\]](https://osu.ppy.sh/beatmapsets/497027#fruits/1058054)
@@ -174,13 +174,13 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 - HardRock
   1. [Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
   2. [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/359168#fruits/789752)
-  3. [-45 - Aci-L (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1783108#fruits/3651716) 
+  3. [-45 - Aci-L (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1783108#fruits/3651716)
 - DoubleTime
   1. [SHIKI - Lapis (JeZag) \[Another\]](https://osu.ppy.sh/beatmapsets/1543395#fruits/3154788)
   2. [mafumafu feat. soraru - ROKI (AirinCat) \[Insane.\]](https://osu.ppy.sh/beatmapsets/1587613#fruits/3242402)
   3. [Wanuka - Tipsy (climbx3145) \[Mature\]](https://osu.ppy.sh/beatmapsets/1611451#fruits/3290120)
 - Tiebreaker
-  1. **[Yunosuke - Loop Memory (Tycani) \[Repeating Repetitive Repetition\]](https://osu.ppy.sh/beatmapsets/1703935#fruits/3481651)**  
+  1. **[Yunosuke - Loop Memory (Tycani) \[Repeating Repetitive Repetition\]](https://osu.ppy.sh/beatmapsets/1703935#fruits/3481651)**
 
 ### Quarterfinals
 
@@ -205,7 +205,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Utada Hikaru - Beautiful World (tutuhaha) \[Beautiful\]](https://osu.ppy.sh/beatmapsets/240627#fruits/556052)
   3. [Lia - Toki o Kizamu Uta (Dada) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/1550603#fruits/3168616)
 - Tiebreaker
-  1. **[Roselia - FIRE BIRD (Kowari) \[CONFLAGRATION\]](https://osu.ppy.sh/beatmapsets/1451503#fruits/2984644)**   
+  1. **[Roselia - FIRE BIRD (Kowari) \[CONFLAGRATION\]](https://osu.ppy.sh/beatmapsets/1451503#fruits/2984644)**
 
 ### Round of 16
 
@@ -217,7 +217,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [aran - L.F.O (Pipuuko) \[Orange's Extra\]](https://osu.ppy.sh/beatmapsets/1377112#fruits/3206318)
   4. [bbno$ & Rich Brian - edamame (Bakugo-) \[hanging low\]](https://osu.ppy.sh/beatmapsets/1557107#fruits/3180981)
 - Hidden
-  1. [Alvaro Soler - El Mismo Sol (Mosebye) \[Expert\]](https://osu.ppy.sh/beatmapsets/1696649#fruits/3466532) 
+  1. [Alvaro Soler - El Mismo Sol (Mosebye) \[Expert\]](https://osu.ppy.sh/beatmapsets/1696649#fruits/3466532)
   2. [cYsmix - Classic Pursuit (-kevincela-) \[Expert\]](https://osu.ppy.sh/beatmapsets/488238#fruits/1040942)
   3. [Ito Kanako - Tsuisou no Despair (Phynta) \[Insane\]](https://osu.ppy.sh/beatmapsets/1691178#fruits/3644675)
 - HardRock
@@ -241,7 +241,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [cosMo@BousouP - For UltraPlayers (rui) \[N a s y a's EXHAUST\]](https://osu.ppy.sh/beatmapsets/137969#fruits/462157)
   4. [sekai - p.h. (Petal) \[Namki's Extreme\]](https://osu.ppy.sh/beatmapsets/1461554#fruits/3155890)
 - Hidden
-  1. [Far East Movement feat. The Cataracs, DEV - Like A G6 (wafer) \[Batatin's E4\]](https://osu.ppy.sh/beatmapsets/1566608#fruits/3213072) 
+  1. [Far East Movement feat. The Cataracs, DEV - Like A G6 (wafer) \[Batatin's E4\]](https://osu.ppy.sh/beatmapsets/1566608#fruits/3213072)
   2. [nora2r - B.B.K.K.B.K.K (rezoons) \[Another\]](https://osu.ppy.sh/beatmapsets/153920#fruits/378178)
   3. [Aimer - L-O-V-E (yuuya\_ke) \[sunset serenade\]](https://osu.ppy.sh/beatmapsets/974709#fruits/2040225)
 - HardRock
@@ -261,7 +261,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 - NoMod
   1. [Dreamcatcher - Sleep-walking (Natsu) \[Midnight\]](https://osu.ppy.sh/beatmapsets/645655#fruits/1368107)
-  2. [DWMw - Shirayama Hime no Kami (Luscent) \[DeviousPanda's Extravaganza\]](https://osu.ppy.sh/beatmapsets/1367344#fruits/2983174) 
+  2. [DWMw - Shirayama Hime no Kami (Luscent) \[DeviousPanda's Extravaganza\]](https://osu.ppy.sh/beatmapsets/1367344#fruits/2983174)
 - Hidden
   1. [King Gizzard & The Lizard Wizard - Wah Wah (Kowari) \[Bizarre\]](https://osu.ppy.sh/beatmapsets/1769472#fruits/3622214)
   2. [Ryokuoushoku Shakai - LADYBUG (RLC) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/1441587#fruits/2965623)
@@ -499,7 +499,7 @@ Sunday, 23 October 2022:
 2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited. 
+3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. **There will be no dedicated FreeMod picks in the tournament.** However, when playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally on top of the corresponding mod by any player.
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.

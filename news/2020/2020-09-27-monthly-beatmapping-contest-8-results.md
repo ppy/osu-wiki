@@ -42,11 +42,11 @@ With this achievement, Mao finally earned himself the *second tier MBC profile b
 
 ### Runner-up
 
-Contest veteran [Acylica](https://osu.ppy.sh/users/1943309) is yet to pull a win in the MBC, but he's getting damn close. 
+Contest veteran [Acylica](https://osu.ppy.sh/users/1943309) is yet to pull a win in the MBC, but he's getting damn close.
 
 His entry of [Silentroom - Primatrix](https://osu.ppy.sh/beatmapsets/1247457#osu/2631387) impressed the judges enough to earn him the **runner-up** spot, *and* his entry was the **most popular among screeners**, earning top 5 placement from 7 of the 10 screeners!
 
-While Mao's entry utilized small circle size to better space objects apart, Acylica's entry takes a polar opposite approach. It's 2 minutes of almost non-stop streams, using the circle-only gimmick to express musical nuances with a variety of super-slick patterns. If that sounds like your kind of thing, be sure to give it a play.  
+While Mao's entry utilized small circle size to better space objects apart, Acylica's entry takes a polar opposite approach. It's 2 minutes of almost non-stop streams, using the circle-only gimmick to express musical nuances with a variety of super-slick patterns. If that sounds like your kind of thing, be sure to give it a play.
 
 In addition to his successes today, Acylica's submissions were also the screening crew's favorite in April's contest and the community vote runner-up in May's contest. Going by the [MBC rewards format](/wiki/Contests/Monthly_Beatmapping_Contest#rewards), this means Acylica has also earned himself two months of *osu!supporter* and the *second tier MBC profile badge*!
 
@@ -54,7 +54,7 @@ In addition to his successes today, Acylica's submissions were also the screenin
 
 And that concludes August's contest! If you participated, you should have received a message including the screening crew's input on your entry.
 
-Thanks to [Uberzolik](https://osu.ppy.sh/users/1314547), [Nozhomi](https://osu.ppy.sh/users/2716981), [Agatsu](https://osu.ppy.sh/users/5579871), [Cheri](https://osu.ppy.sh/users/5226970), [hypercyte](https://osu.ppy.sh/users/9155377), [Myxo](https://osu.ppy.sh/users/2202645), [Regou](https://osu.ppy.sh/users/419954), [J1_](https://osu.ppy.sh/users/5918561), [Pachiru](https://osu.ppy.sh/users/2850983), and [Akito](https://osu.ppy.sh/users/5716327) for screening this month's entries, as well as [Seolv](https://osu.ppy.sh/users/8067876), [Gero](https://osu.ppy.sh/users/1467715), [Nuvolina](https://osu.ppy.sh/users/10974170), [-Aqua](https://osu.ppy.sh/users/7150015), [Mazzerin](https://osu.ppy.sh/users/2942381), and [Elayue](https://osu.ppy.sh/users/6400861) for judging this month's finalists! 
+Thanks to [Uberzolik](https://osu.ppy.sh/users/1314547), [Nozhomi](https://osu.ppy.sh/users/2716981), [Agatsu](https://osu.ppy.sh/users/5579871), [Cheri](https://osu.ppy.sh/users/5226970), [hypercyte](https://osu.ppy.sh/users/9155377), [Myxo](https://osu.ppy.sh/users/2202645), [Regou](https://osu.ppy.sh/users/419954), [J1_](https://osu.ppy.sh/users/5918561), [Pachiru](https://osu.ppy.sh/users/2850983), and [Akito](https://osu.ppy.sh/users/5716327) for screening this month's entries, as well as [Seolv](https://osu.ppy.sh/users/8067876), [Gero](https://osu.ppy.sh/users/1467715), [Nuvolina](https://osu.ppy.sh/users/10974170), [-Aqua](https://osu.ppy.sh/users/7150015), [Mazzerin](https://osu.ppy.sh/users/2942381), and [Elayue](https://osu.ppy.sh/users/6400861) for judging this month's finalists!
 
 If you've got the itch for even *more* mapping, watch out for a new contest at the start of October!
 

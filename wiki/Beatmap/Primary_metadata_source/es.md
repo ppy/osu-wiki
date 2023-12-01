@@ -24,4 +24,4 @@ Una **fuente principal de metadatos** es una fuente para los campos `Artista`, `
 
 El sitio web de un artista, el sitio web de su sello discográfico, las exploraciones de CD y las subidas oficiales a sitios web como Bandcamp, YouTube y SoundCloud se consideran fuentes principales de metadatos de beatmaps. Los sitios web de terceros, como wikis, bases de datos (vndb, vgmdb, etc.) y servicios de música (Spotify, iTunes, Amazon, etc.) no siempre reflejan la intención del artista y no deben tratarse como fuentes principales.
 
-Los beatmaps que apuntan al estado [clasificado](/wiki/Beatmap/Category#clasificados) deben usar metadatos de una fuente principal. Véase los [criterios de clasificación](/wiki/Ranking_criteria#metadatos) para obtener más reglas y pautas con respecto a los metadatos del beatmap.
+Los beatmaps que apuntan al estado [clasificado](/wiki/Beatmap/Category#ranked) deben usar metadatos de una fuente principal. Véase los [criterios de clasificación](/wiki/Ranking_criteria#metadatos) para obtener más reglas y pautas con respecto a los metadatos del beatmap.

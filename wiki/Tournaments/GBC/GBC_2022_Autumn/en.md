@@ -593,7 +593,7 @@ The final standings for the Qualifier stage and detailed statistics for this rou
 9. Mappool size increased by 2 maps.
 10. For Regular stage ranking, beatmap difference is now compared first, followed by Buchholz score[^bu].
 
-The following rules are changed to consistent with rules on `MWC 4k 2022` : 
+The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 11. The winner of the `!roll` may **choose** to pick first or ban first of the match.
 12. A failed player's score will still get added to the team score.
@@ -650,13 +650,13 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/10842634/1ffa/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/10842634/1ffa/)** to register.
    - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) after register.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
-4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
@@ -676,7 +676,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 7. Qualifier stage's result will using to seeding and choosen captains.
    - Higher scores lead to a higher chance to be picked during drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
 8. Some best-performance players will advance to drafting phase.
-   - The number of players advanced will be determined by how many players required on drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on drafting phase. So *about* Top 85 will be advanced to drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
+   - The number of players advanced will be determined by how many players required on drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on drafting phase. So *about* Top 85 will be advanced to drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.*
    - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
 
 ### Stage instructions
@@ -692,17 +692,17 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Captains are selected by performance and preference.
    - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
 2. Captains decide their team members during the drafting phase.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
+   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
    - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
    - During phase 2 and 4, picks start in *decreasing* order, from the 24th to the 1st captain.
    - *this might change depending on the number of incoming registrations.*
-5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
+5. Each captain has 60 seconds to pick one player from the player pool on their turn.
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
-8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
+8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat.
    - Other players will be muted during the drafting phase.
 9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Captains may also choose to rename their team name after the drafting phase.
@@ -775,7 +775,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Semifinals and Finals use mappool \#4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps   
+   - Qualifiers: 8 beatmaps
    - Mappool \#1 & \#2: 15 beatmaps
    - Mappool \#3 & \#4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
