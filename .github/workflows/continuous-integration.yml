@@ -74,7 +74,4 @@ jobs:
 
       - name: check if translations are marked as outdated
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
-        # TODO: Should use the "--workflow" option, but it's currently
-        #       requiring the "--base-commit" option to be used alongside it,
-        #       which we don't actually need here.
-        run: osu-wiki-tools check-outdated-articles
+        run: osu-wiki-tools check-outdated-articles --no-recommend-autofix
