@@ -43,7 +43,7 @@ Après avoir lu [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Co
 
 Les articles sont stockés dans des dossiers contenant le texte original (`en.md`) et ses traductions, qui utilisent des noms de fichiers basés sur des langues différentes.
 
-- Pour ajouter une nouvelle **traduction** à un article existant, faites un clic droit sur son dossier et créez un nouveau fichier `.md` en utilisant [l'un des noms de fichier pris en charge](/wiki/Article_styling_criteria/Formatting#locales).
+- Pour ajouter une nouvelle **traduction** à un article existant, faites un clic droit sur son dossier et créez un nouveau fichier `.md` en utilisant [l'un des noms de fichier pris en charge](/wiki/Article_styling_criteria/Formatting#localisations).
 - Pour ajouter un nouvel **article**, procédez comme suit :
   - Créez un dossier dans une catégorie appropriée en respectant la [convention de nommage](/wiki/Article_styling_criteria/Formatting#structure-des-dossiers-et-des-fichiers). Si l'article n'appartient à aucune catégorie, créez son dossier dans le répertoire `/wiki/`.
   - Ajoutez le fichier `fr.md` avec le texte de l'article dans le nouveau dossier.
