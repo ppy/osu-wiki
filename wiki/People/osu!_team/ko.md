@@ -71,7 +71,7 @@ tags:
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자 |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, osz2 및 p2p 백엔드 제공자 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 원본 사이트 디자이너, 초기 호스팅 공급자 |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자, 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더, 커뮤니티 매니저 |
