@@ -135,7 +135,7 @@ In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode n
 
 *Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
 
-Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand kurz darauf ein inoffizielles Fanprojekt, welches das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Gameplay/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand kurz darauf ein inoffizielles Fanprojekt, welches das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können. Außerdem gab es [Spielmodifikationen](/wiki/Gameplay/Game_modifier) und weitere Funktionen, wie die Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 ### Tanzender Auto-Mod-Cursor/tanzende pippi
 
