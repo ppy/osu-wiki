@@ -57,5 +57,5 @@ run_test 'YAML style' osu-wiki-tools check-yaml
 run_test link osu-wiki-tools check-links --all
 
 if test -n "$(git log master..)"; then
-  run_test 'outdated article' osu-wiki-tools check-outdated-articles
+  run_test 'outdated article' osu-wiki-tools check-outdated-articles --no-recommend-autofix
 fi
