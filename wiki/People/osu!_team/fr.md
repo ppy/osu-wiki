@@ -86,7 +86,7 @@ En plus de l'équipe principale d'osu!, il y a [beaucoup d'autres équipes de b�
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Concepteur et dessinateur original de [pippi](/wiki/Mascots#pippi) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ancien gestionnaire et animateur de la communauté, Compte-rendu de réunion et contributeur à la FAQ |
 | ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Développeur de [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur osu! et des [points de performance](/wiki/Performance_points)  |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur osu! et des [points de performance](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Responsable du Project Loved, conseiller communautaire, soutien au projet Featured Artist |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), conseiller en modding et mapping de scènes |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Intendant général, organisateur et administrateur de la [World Cup](/wiki/Tournaments#official-world-cups), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
