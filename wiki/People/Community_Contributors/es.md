@@ -230,19 +230,19 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 | Usuario | Contribuciones |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Dedicación excepcional e interminable a la gestión comunitaria durante una década |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Dedicación excepcional e interminable a la gestión de la comunidad durante una década |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Excelente compromiso con la escena de la moderación y los Beatmap Spotlights |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Excelente contribución a los asuntos de moderación y a la osu! wiki (wikifriend) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Excelente contribución destacada y pionera al modo de juego osu!taiko |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo excepcional en asuntos de gestión de beatmaps |
-| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Excelente contribución a la escena de mapping a través del desarrollo de servicios públicos (osumod.com) |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Excelente contribución a la escena de mapping a través del desarrollo de utilidades (osumod.com) |
 | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Excelente contribución a los torneos fuera de línea y al crecimiento de la comunidad en general |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Excelente contribución al escenario de torneos de osu! y las World Cups |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Excelente contribución al escenario de torneos de osu! y las World Cups |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Excelente contribución a la escena de torneos de osu! y las World Cups |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Excelente contribución a la comunidad de osu!taiko y a la escena de torneos |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Excelente contribución a la comunidad de skinning. |
-| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Excelente contribución a la moderación de la comunidad. |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Excelente contribución al diseño gráfico en innumerables proyectos comunitarios |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Excelente contribución a la comunidad de skinning |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Excelente contribución a la moderación de la comunidad |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Excelente contribución al diseño gráfico en innumerables proyectos de la comunidad |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Excelente contribución al aseguramiento de la calidad de los beatmaps |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Excelente contribución a eventos de osu! en la vida real |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución a los vídeos de presentación del Mappers' Guild y de artistas destacados |
