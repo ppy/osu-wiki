@@ -21,7 +21,7 @@ Wenn du jemanden kontaktierst, musst du einen bestimmten Text schicken, der den 
 
 ### Syntax
 
-Der Titeltext besteht üblicherweise aus mehreren Zeilen, die in osu! durch das Pipe-Symbol (`|`) getrennt werden. Jede Zeile kann formatiert werden; die Optionen dazu werden in eckigen Klammern (`[]`) am Anfang der Zeile festgelegt. Die Formatoptionen werden im Format `option:wert` geschrieben und durch Kommas getrennt.
+Der Titeltext besteht üblicherweise aus mehreren Zeilen, die in osu! durch einen senkrechten Strich (`|`) getrennt werden. Jede Zeile kann formatiert werden, die Optionen dazu werden in eckigen Klammern (`[]`) am Anfang der Zeile festgelegt. Die Formatoptionen werden im Format `option:wert` geschrieben und durch Kommas getrennt.
 
 Eine neu eingereichte Beatmap hat einen Titeltext von `[size:20,bold:0]Künstler|Titel`, wobei `Künstler` und `Titel` jeweils durch den Künstler und Titel der Beatmap als Unicode-Text ersetzt werden. Die meisten ranked Beatmaps nutzen dieses Format, weil nur wenige Mapper den Standardwert ändern.
 
