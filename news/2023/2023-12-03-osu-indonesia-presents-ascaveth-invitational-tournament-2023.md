@@ -4,7 +4,7 @@ title: "osu! Indonesia Presents: Ascaveth Invitational Tournament 2023"
 date: 2023-12-03 12:30:00 +0000
 ---
 
-Join in the excitement as Indonesia's flagship LAN tournament kicks off for a second season this weekend on Saturday, December 9th!
+Join in the excitement as Indonesia's flagship LAN tournament kicks off for a second season next weekend on Saturday, December 9th!
 
 ![](/wiki/shared/news/banners/bannercomingsoon.jpg)
 
@@ -25,7 +25,7 @@ Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournamen
 - ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)
 - ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909)
 
-The tournament is scheduled to commence at **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't open for public attendance. But fear not! As you might already expect, the entirety of the event will be streamed live over at **[the osuIndonesia Twitch channel](https://www.twitch.tv/osuIndonesia)** as well as **[lifeline's Twitch channel](https://www.twitch.tv/lifeline)**.
+The tournament is scheduled to commence on **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't open for public attendance. But fear not! As you might already expect, the entirety of the event will be streamed live over at **[the osuIndonesia Twitch channel](https://www.twitch.tv/osuIndonesia)** as well as **[lifeline's Twitch channel](https://www.twitch.tv/lifeline)**.
 
 Check out the trailer for the tournament below:
 
@@ -37,9 +37,9 @@ Check out the trailer for the tournament below:
 
 But wait, there's more!
 
-If you're in Indonesia, you're also able to support the tournament by purchasing exclusive merchandises ranging from keychains, stickers, to t-shirts —  all starring the official mascot of the event, **[Stella Eirua](https://twitter.com/AscavethInv/status/1723545814449160621)**.
+If you're in Indonesia, you're also able to support the tournament by purchasing exclusive merchandise ranging from keychains and stickers to t-shirts —  all starring the official mascot of the event, **[Stella Eirua](https://twitter.com/AscavethInv/status/1723545814449160621)**.
 
-You can place your order [here](https://docs.google.com/forms/d/e/1FAIpQLScmKN4kAXtiIluLchGfeodKpx37tcHd6OIe_6w1ZfLelDJWgA/viewform), or you can also check out the following short trailer for the merchandise line:
+Check out the following short trailer for the merchandise line below and, if this strikes you fance, you can place your order [here](https://docs.google.com/forms/d/e/1FAIpQLScmKN4kAXtiIluLchGfeodKpx37tcHd6OIe_6w1ZfLelDJWgA/viewform):
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
