@@ -24,7 +24,7 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
   - la suppression du contenu de votre profil;
   - la suppression de vos beatmaps;
   - la suppression des messages et des commentaires sur les forums.
-- Les cas de mauvaise conduite que vous [souhaitez admettre] (/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
+- Les cas de mauvaise conduite que vous [souhaitez admettre](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
 - La [perte d'accès à votre email](/wiki/Help_centre/Account#sign-in) lié à votre compte osu!, ou le vol de votre compte.
 - [Modifications mineures ou corrections orthographiques de votre nom d'utilisateurs](/wiki/Help_centre/Account#name-changes).
 - [Inscription au programme de comptes robots](/wiki/Bot_account).
@@ -35,9 +35,9 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
 *Note : Pour signaler un cas extrême de mauvais comportement ou d'abus sexuel de la part d'un utilisateur, y compris un modérateur, voir : [signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Préoccupations concernant le mauvais comportement d'un modérateur.
-- Préoccupations concernant un modérateur qui enfreint [le code de conduite des contributeurs] (/wiki/Rules/Contributor_code_of_conduct).
+- Préoccupations concernant un modérateur qui enfreint [le code de conduite des contributeurs](/wiki/Rules/Contributor_code_of_conduct).
 - [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes sur [l'osu!store](https://osu.ppy.sh/store/listing).
-- Les problèmes techniques qui n'ont pas pu ou n'ont pas été résolus dans [le forum Help] (https://osu.ppy.sh/community/forums/5), tels que [les problèmes de connexion] (/wiki/Help_centre/Client#online-features).
+- Les problèmes techniques qui n'ont pas pu ou n'ont pas été résolus dans [le forum Help](https://osu.ppy.sh/community/forums/5), tels que [les problèmes de connexion](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
