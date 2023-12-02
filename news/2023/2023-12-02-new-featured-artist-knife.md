@@ -27,7 +27,7 @@ While you're busy mapping, feel free to put this video highlighting **Knife**'s 
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2049932) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/391/Songs/Knife - Negaigoto Liner 2020.mp3">
 </audio>
 
 ### Knife - Story
@@ -35,15 +35,15 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2049932)
 Or check out [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2096026) by [Chatie](https://osu.ppy.sh/users/6524765)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/391/Songs/Knife - Story.mp3">
 </audio>
 
-### Knife - Jozai
+### Knife - Jouzai
 
-If you're too picky for either of those maps, maybe you should [make your own](LINK).
+If you're too picky for either of those maps, maybe you should [make your own](https://assets.ppy.sh/artists/391/Songs/Knife - Jouzai.osz).
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/391/Songs/Knife - Jouzai.mp3">
 </audio>
 
 ---
