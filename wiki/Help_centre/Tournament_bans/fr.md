@@ -46,7 +46,7 @@ Vous pouvez continuer à participer à des tournois communautaires qui ne demand
 
 Les informations relatives à votre statut de bannissement des tournois peuvent être fournies aux organisateurs des tournois qui en font la demande, qu'ils bénéficient ou non d'un soutien officiel.
 
-## Raisons et durées des bannissements des tournois les plus courants {id=raisons}
+## Raisons et durées des bannissements des tournois les plus courants {id=reasons}
 
 | Raison du bannissement des tournois | Durée | Notes |
 | :-- | :-- | :-- |
