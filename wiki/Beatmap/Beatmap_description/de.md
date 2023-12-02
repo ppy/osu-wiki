@@ -2,7 +2,7 @@
 
 Die **Beatmapbeschreibung** ist ein kleiner Bereich auf der Seite einer [Beatmap](/wiki/Beatmap), der Informationen zur jeweiligen Beatmap mithilfe von [BBCode](/wiki/BBCode) darstellt. Sie enthält üblicherweise wichtige Fakten über die Beatmap oder Werbung für andere Mappingprojekte.
 
-## Typische Informationen
+## Typische Inhalte
 
 Beliebte Beschreibungen von [ranked](/wiki/Beatmap/Category#ranked) Beatmaps enthalten häufig:
 
