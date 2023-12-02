@@ -24,7 +24,7 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
   - la suppression du contenu de votre profil;
   - la suppression de vos beatmaps;
   - la suppression des messages et des commentaires sur les forums.
-- Les cas de mauvaise conduite que vous [souhaitez admettre](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
+- Les cas de mauvaise conduite que vous [souhaitez admettre](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
 - La [perte d'accès à votre email](/wiki/Help_centre/Account#sign-in) lié à votre compte osu!, ou le vol de votre compte.
 - [Modifications mineures ou corrections orthographiques de votre nom d'utilisateurs](/wiki/Help_centre/Account#name-changes).
 - [Inscription au programme de comptes robots](/wiki/Bot_account).
@@ -41,8 +41,8 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Les demandes de données](/wiki/Legal/Privacy#data-controller) et les préoccupations en matière de protection de la vie privée.
-- [les demandes de suppression de compte](/wiki/Legal/Privacy#vos-droits-et-contrôle). **Permanent** 
+- [Les demandes de données](/wiki/Legal/Privacy#contrôleur-des-données) et les préoccupations en matière de protection de la vie privée.
+- [les demandes de suppression de compte](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle). **Permanent** 
 
 ### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
