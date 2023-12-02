@@ -40,7 +40,7 @@ Or check out [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2096026) by
 
 ### Knife - Jouzai
 
-If you're too picky for either of those maps, maybe you should [make your own](https://assets.ppy.sh/artists/391/Songs/Knife - Jouzai.osz).
+If you're too picky for either of those maps, maybe you should [make your own](https://assets.ppy.sh/artists/391/Songs/Knife%20-%20Jouzai.osz).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/391/Songs/Knife - Jouzai.mp3">
