@@ -6,7 +6,7 @@ date: 2023-12-03 12:30:00 +0000
 
 Join in the excitement as Indonesia's flagship LAN tournament kicks off for a second season next weekend on Saturday, December 9th!
 
-![](/wiki/shared/news/banners/bannercomingsoon.jpg)
+![](/wiki/shared/news/2023-12-03-osu-indonesia-presents-ascaveth-invitational-tournament-2023/banner.png)
 
 LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted the "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a vast osu! tournament held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
 
