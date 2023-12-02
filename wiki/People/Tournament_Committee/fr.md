@@ -8,7 +8,7 @@ Leurs responsabilités sont les suivantes :
 - L'observation des tournois et conseiller [l'équipe de support aux comptes](/wiki/People/Account_support_team) au cas par cas.
 - La vérification régulière de la page [soutien officiel aux tournois](/wiki/Tournaments/Official_support) pour y apporter les modifications nécessaires.
 
-Le panel a été annoncé pour la première fois au public le 22 juillet 2021 par le biais du channel `#tournaments` du [serveur Discord d'osu!] (https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires dans osu!.
+Le panel a été annoncé pour la première fois au public le 22 juillet 2021 par le biais du channel `#tournaments` du [serveur Discord d'osu!](https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires dans osu!.
 
 ## Comment puis-je apporter ma contribution ?
 
