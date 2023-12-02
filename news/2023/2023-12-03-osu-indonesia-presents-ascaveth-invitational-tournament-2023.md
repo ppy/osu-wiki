@@ -37,9 +37,9 @@ Check out the trailer for the tournament below:
 
 But wait, there's more!
 
-If you're in Indonesia, you're also able to support the tournament by purchasing exclusive merchandise ranging from keychains and stickers to t-shirts —  all starring the official mascot of the event, **[Stella Eirua](https://twitter.com/AscavethInv/status/1723545814449160621)**.
+If you're in Indonesia, you're also able to support the tournament by purchasing exclusive merchandise ranging from keychains and stickers to t-shirts — all starring the official mascot of the event, **[Stella Eirua](https://twitter.com/AscavethInv/status/1723545814449160621)**.
 
-Check out the following short trailer for the merchandise line below and, if this strikes you fance, you can place your order [here](https://docs.google.com/forms/d/e/1FAIpQLScmKN4kAXtiIluLchGfeodKpx37tcHd6OIe_6w1ZfLelDJWgA/viewform):
+Check out the following short trailer for the merchandise line below and, if this strikes your fancy, you can place your order [here](https://docs.google.com/forms/d/e/1FAIpQLScmKN4kAXtiIluLchGfeodKpx37tcHd6OIe_6w1ZfLelDJWgA/viewform):
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
