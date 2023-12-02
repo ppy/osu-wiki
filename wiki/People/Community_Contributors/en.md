@@ -233,11 +233,11 @@ Contributors who registered their accounts during an older era of the game have 
 | User | Contributions |
 | :-- | :-- |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Exceptional and interminable dedication to community management over a decade |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Outstanding commitment to the moderation scene and the Beatmap Spotlights |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Outstanding commitment to the moderation scene and the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Outstanding contribution to moderation affairs & the osu! wiki (wikifriend) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Outstanding and pioneering contribution to the osu!taiko game mode |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Outstanding leadership in beatmap management affairs |
-| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Outstanding contribution to the mapping scene via utility development (osumod.com) |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Outstanding contribution to the mapping scene via utility development ([osumod.com](https://osumod.com)) |
 | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Outstanding contribution to offline tournaments and the growth of the community at large |
 | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Outstanding contribution to the osu! tournament scene and the World Cups |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Outstanding contribution to the osu! tournament scene and the World Cups |
@@ -247,11 +247,11 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Outstanding contribution to graphic design across countless community projects |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Outstanding contribution to beatmap quality assurance |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Outstanding contribution to osu! IRL events |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the Mappers' Guild and Featured Artist showcase videos |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
 
 ## History
 
