@@ -1,4 +1,6 @@
 ---
+outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
+outdated_translation: true
 tags:
   - 格式
   - 格式化
