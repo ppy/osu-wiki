@@ -1,10 +1,10 @@
 # osu!monthly
 
-**osu!monthly** war ein monatlicher Newsletter mit einer Vielzahl von Inhalten, darunter Interviews, Leitartikel, Berichte über offizielle und von der Community veranstaltete Events sowie Wortspiele. Das Projekt wurde eingestellt und später mehrmals in verschiedenen Formen fortgeführt, immer mit Ziel, die osu!-Community zu informieren und zu unterhalten.
+**osu!monthly** war ein monatlicher Newsletter mit einer Vielzahl von Inhalten, darunter Interviews, Leitartikel, Berichte über offizielle und von der Community veranstaltete Events sowie Wortspiele. Das Projekt wurde eingestellt und später mehrmals in verschiedenen Formen fortgeführt, immer mit dem Ziel, die osu!-Community zu informieren und zu unterhalten.
 
 ## Ursprüngliche Auflage (2011)
 
-Die ursprüngliche, von ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) und ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) erstellte Auflage von osu!monthly lief von März bis Oktober 2011. Das Projekt begann als Google-Dokument, aber entwickelte sich schnell in ein PDF-Format, das einem gedruckten Magazin ähnelt. Diese Ausgabe war bekannt für ihr großes Spektrum an Themen sowie ihre unverwechselbare und künstlerische Gestaltung.
+Die ursprüngliche, von ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) und ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) erstellte Auflage von osu!monthly lief von März bis Oktober 2011. Das Projekt begann als Google-Dokument, entwickelte sich aber schnell in ein PDF-Format, das einem gedruckten Magazin ähnelte. Diese Ausgabe war bekannt für ihr großes Spektrum an Themen sowie ihre unverwechselbare und künstlerische Gestaltung.
 
 Weitere Informationen über die erste Version von osu!monthly sind auf der [archivierten Webseite von jjrocks](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html) zu finden. Diverse Links zum Projekt sind unten auf der [osu!monthly-Webseite](https://osumonthly.com/) aufgeführt.
 
@@ -19,9 +19,9 @@ Weitere Informationen über die erste Version von osu!monthly sind auf der [arch
 
 ## Neuauflage des Magazins (2017 bis 2018)
 
-Inspiriert von der ersten Version von osu!monthly, wurde dank ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) sowie ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) ein neues Team gebildet, mit dem Ziel, das Projekt fortzuführen. Von Oktober 2017 bis Februar 2018 wurden neue Editionen des Magazins veröffentlicht.
+Inspiriert von der ersten Auflage haben ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) sowie ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) ein neues Team gebildet mit dem Ziel, das Projekt fortzuführen. Von Oktober 2017 bis Februar 2018 wurden neue Editionen des Magazins veröffentlicht.
 
-Weitere Informationen sind auf [der offiziellen Webseite](https://osumonthly.com/) zu finden.
+Weitere Informationen sind auf [der Webseite des Projekts](https://osumonthly.com/) zu finden.
 
 | Name | Veröffentlichungsdatum |
 | :-- | :-- |
