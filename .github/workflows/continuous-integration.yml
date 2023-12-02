@@ -19,20 +19,17 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: create master branch from remote master
+        run: git branch master origin/master
+
       - name: detect changed files
         run: |
-          # Changes committed to this PR so far
-          INTERESTING_FILES=$( git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ )
-
-          # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
-          # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
-          DELIMITER="X${RANDOM}"
-          echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
-          echo "${INTERESTING_FILES}" >> $GITHUB_ENV
-          echo "${DELIMITER}" >> $GITHUB_ENV
+          changed_files="$(mktemp)"
+          git diff --diff-filter=d --name-only --no-renames master >"$changed_files"
+          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
       - name: check file sizes
-        run: printf '%s\n' "$INTERESTING_FILES" | xargs meta/check-file-sizes.sh
+        run: xargs -r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
       - name: set up Node.js
         id: setup-node
@@ -55,7 +52,7 @@ jobs:
       - name: run remark on changed files
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
-          { printf '%s\n' "$INTERESTING_FILES" | grep '\.md$' || true; } | \
+          grep '\.md$' <"$CHANGED_FILES" | \
           REPORTER=vfile-reporter-github-action xargs -r meta/remark.sh
 
       - name: set up Python
@@ -77,22 +74,8 @@ jobs:
 
       - name: check if translations are marked as outdated
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
-        shell: bash
         run: |
-          MAX_ATTEMPTS=3
-          for (( i=1; i<=MAX_ATTEMPTS; i++ )); do
-            # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
-            API_RESPONSE=$(
-              curl -sS --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-                ${{ github.event.pull_request.commits_url }}?per_page=1
-            )
-            if [[ 'array' != $( echo "${API_RESPONSE}" | jq -r 'type' ) ]]; then
-              echo "::warning::Unexpected GitHub API response (attempt ${i}/${MAX_ATTEMPTS}): ${API_RESPONSE}"
-            else
-              FIRST_PR_COMMIT_HASH=$( echo "${API_RESPONSE}" | jq -r '.[0].sha' )
-              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH
-              exit $?
-            fi
-          done
-          echo "::warning::Failed to read the hash of the PR's first commit -- please check why that happened"
-          exit 1
+          osu-wiki-tools check-outdated-articles \
+            --base-commit HEAD \
+            --no-recommend-autofix \
+            --outdated-since "$(git log --format=%H master.. | tail -n 1)"
