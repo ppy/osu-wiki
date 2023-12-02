@@ -24,7 +24,7 @@ Al 19 luglio 2021, nella [classifica delle performance di osu!](https://osu.ppy.
 
 *Pagina principale: [osu!taiko](osu!taiko)*
 
-Al 4 ottobre 2022, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Al 9 ottobre 2023, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
 
 ## ![][osu!catch] osu!catch
 

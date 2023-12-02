@@ -27,7 +27,7 @@ Mit Stand vom 19. Juli 2021 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users
 
 *Hauptseite: [osu!taiko](osu!taiko)*
 
-Mit Stand vom 4. Oktober 2022 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 9. Oktober 2023 ist ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
