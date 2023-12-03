@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2023 banner](img/owc2023-banner.jpg)
 
-The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fourteenth instalment of the osu! World Cup.
+The **osu! World Cup 2023** (***OWC 2023***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fourteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offered a $5,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merc
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.jpg "OWC 2023 winner badge") ![](img/badge-2nd.jpg "OWC 2023 2nd place badge") ![](img/badge-3rd.jpg "OWC 2023 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu! World Cup 2023 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -125,20 +127,9 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 2 December 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
-### Sunday, 3 December 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/podium.jpg "OWC 2023 podium")
 
 ## Mappools
 
@@ -339,6 +330,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Ri_80xlG-NsRDevg7wrYwUM6dgMnTqQR82xBd62NDwg?rm=minimal).
+
+Saturday, 2 December 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Australia ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
+
+Sunday, 3 December 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
+| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
 
 ### Finals
 
