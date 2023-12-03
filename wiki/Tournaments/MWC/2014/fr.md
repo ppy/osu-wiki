@@ -488,14 +488,14 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Règles du tournoi
 
-1. L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
+1. L'osu!mania World cup est un tournoi par pays, séparé en 4-keys et 7-keys avec une équipe.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 3. Les dates et horaires des matchs seront fixées par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté.
 5. En cas de Fail le score ne sera pas comptabilisé.
-   - Les revives (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-6. L'utilisation des Visual Settings est autorisée.
+   - Revivre et de survivre pendant une carte est considéré comme une réussite.
+6. L'utilisation des [Visual Settings](/wiki/Client/Interface/Visual_settings) est autorisée.
 7. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 8. Si l'un des joueurs est déconnecté durant un match, son score sera compté comme nul.
 9. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -503,21 +503,22 @@ Cette compétition s'est conclue sur le podium suivant :
 11. L'échange de joueurs au sein d'une équipe est autorisée.
     - La limite est d'un échange maximum par partie et par équipe.
 12. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
-13. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +1,0 pour l'équipe victorieuse.
+13. Dans les phases de poules, 'victoire par défaut' sera considérée comme une victoire par 4:0, +1,0 ratio de différence de score.
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
 15. Si les présentes règles venaient à être modifiées pendant le tournoi, un communiqué officiel sera diffusé.
 
 ### Inscription des équipes
 
-1. Chaque équipe doit être constituée au minimum de 2 joueurs.
-   1. La taille d'une équipe ne peut dépasser 6 joueurs.
-   2. Le responsable d'une équipe, le capitaine, doit être spécifié.
-   3. Vous pouvez enregistrer votre équipe pour les deux tournois si vous voulez. Vous devez pour cela recourir à la phase d'enregistrement deux fois.
-      1. Si vous vous enregistrez pour les deux tournois, les deux équipes n'ont pas besoin d'être identiques.
-      2. Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
+1. Chaque équipe doit être constituée **au minimum de 2 joueurs**.
+   - La taille d'une équipe ne peut dépasser 4 joueurs.
+   - Le responsable d'une équipe, le capitaine, doit être spécifié.
+   - Vous pouvez enregistrer votre équipe pour les deux tournois si vous voulez. Vous devez pour cela recourir à la phase d'enregistrement deux fois.
+     - Si vous vous enregistrez pour les deux tournois, les deux équipes n'ont pas besoin d'être identiques.
+     - Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé "MWC Registration".
    - Les capitaines peuvent changer leurs équipes en [informant la direction](https://osu.ppy.sh/home/messages/users/71366).
+   - Vous recevez une réponse de confirmation si votre inscription est arrivée à bon port. Votre inscription est alors en attente.
 4. Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5. 32 équipes maximum sont autorisées à participer dans chaque tournoi.
    - Selon le nombre total d'inscriptions, ce nombre maximum peut changer.
@@ -527,10 +528,9 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Stage instructions
 
-1. Les équipes sont réparties en 8 groupes de quatre durant les poules à l'aide d'un tirage au sort.
-   - Ceci pouvant changer selon le nombre total d'équipes inscrites.
-2. Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
-3. Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
+1. Lors de la première étape (phases de poules), les équipes seront divisées en 4 groupes de 5 équipes.
+2. Toutes les équipes de chaque groupe s'affronteront.
+3. Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité :
    1. Nombre de matchs remportés.
    2. Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`.
    3. Nombre de parties remportées.
@@ -538,19 +538,19 @@ Cette compétition s'est conclue sur le podium suivant :
    5. Éventuel second match remporté.
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs suivants sont tous à élimination directe. Cela signifie que l'équipe victorieuse passe au tour suivant, alors que les autres équipes sont éliminées du tournoi.
-6. **Conditions de victoire :**
-   - Durant la phase de poules, vous devez gagner 4 beatmaps pour gagner un match. (Meilleur des 7)
+6. Les **conditions de victoire** pour chaque étape seront :
+   - Durant les phases de poules, vous devez gagner 4 beatmaps pour gagner un match. (Meilleur des 7)
    - Durant les huitièmes et quarts de finale, vous devez gagner 5 beatmaps pour gagner un match. (Meilleur des 9)
    - Durant les demi-finales et finales, vous devez gagner 6 beatmaps pour gagner un match. (Meilleur dès 11)
 
 ### Match Instructions
 
-1. Une salle multijoueur sera créée par un arbitre 20 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
+1. Une salle multijoueur sera créée par un arbitre 20 minutes avant le début du match. Les joueurs sont tenus de se rassembler durant cette période.
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
-   2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: ÉquipeBleue vs ÉquipeRouge".
-   3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
+   2. Les paramètres de la salle sont osu!mania, Team-Vs., Condition de victoire : 'Score'. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: ÉquipeBleue vs ÉquipeRouge".
+   3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, l'autre équipe doit être l'équipe rouge.
 2. Les joueurs ont la possibilité de s'échauffer sur une beatmap de leur choix avant le début de la partie.
-3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le tchat ; le plus grand nombre l'emporte.
+3. Les capitaines choisiront à tour de rôle une beatmap dans le mappool. Chaque capitaine utilisera la commande `!roll` une fois dans `#multiplayer` pour déterminer quelle équipe sélectionne en premier.
    1. Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
 4. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
@@ -571,9 +571,9 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Planification des matchs
 
-1. Chaque phase est jouée sur un seul week-end.
-2. Il est possible que certains matchs se déroulent en même temps.
+1. Chaque phase est jouée sur **un seul week-end**.
+2. Les matches de les phases de poules peuvent se chevaucher.
 3. Les matchs 4K et 7K seront programmés différemment.
 4. Chaque phase à élimination directe sera organisée soit le samedi, soit le dimanche selon le mode (se référer au calendrier).
-5. La programmation sera faite par la direction du tournoi. Les programmes seront diffusés le dimanche avant le premier match de la phase courante. (par exemple le 3 août pour les phases de poules (4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
-6. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
+5. La programmation sera faite par la direction du tournoi. Les programmes seront diffusés le dimanche avant le premier match de la phase courante (par exemple le 3 août pour les phases de poules (4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
+6. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match, son équipe sera considérée comme ayant déclaré forfait.
