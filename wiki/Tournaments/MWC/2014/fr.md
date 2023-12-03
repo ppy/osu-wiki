@@ -488,13 +488,13 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Règles du tournoi
 
-1. L'osu!mania World cup est un tournoi par pays, séparé en 4-keys et 7-keys avec une équipe.
+1. L'osu!mania World Cup est un tournoi par pays, séparé en 4-keys et 7-keys avec une équipe.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 3. Les dates et horaires des matchs seront fixées par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté.
 5. En cas de Fail le score ne sera pas comptabilisé.
-   - Revivre et de survivre pendant une carte est considéré comme une réussite.
+   - Le fait de revivre et de survivre au cours d'une map est considéré comme une réussite.
 6. L'utilisation des [Visual Settings](/wiki/Client/Interface/Visual_settings) est autorisée.
 7. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 8. Si l'un des joueurs est déconnecté durant un match, son score sera compté comme nul.
@@ -513,7 +513,7 @@ Cette compétition s'est conclue sur le podium suivant :
    - La taille d'une équipe ne peut dépasser 4 joueurs.
    - Le responsable d'une équipe, le capitaine, doit être spécifié.
    - Vous pouvez enregistrer votre équipe pour les deux tournois si vous voulez. Vous devez pour cela recourir à la phase d'enregistrement deux fois.
-     - Si vous vous enregistrez pour les deux tournois, les deux équipes n'ont pas besoin d'être identiques.
+     - Si vous êtes enregistrez pour les deux tournois, les deux équipes n'ont pas besoin d'être identiques.
      - Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé "MWC Registration".
@@ -541,7 +541,7 @@ Cette compétition s'est conclue sur le podium suivant :
 6. Les **conditions de victoire** pour chaque étape seront :
    - Durant les phases de poules, vous devez gagner 4 beatmaps pour gagner un match. (Meilleur des 7)
    - Durant les huitièmes et quarts de finale, vous devez gagner 5 beatmaps pour gagner un match. (Meilleur des 9)
-   - Durant les demi-finales et finales, vous devez gagner 6 beatmaps pour gagner un match. (Meilleur dès 11)
+   - Durant les demi-finales et finales, vous devez gagner 6 beatmaps pour gagner un match. (Meilleur des 11)
 
 ### Match Instructions
 
