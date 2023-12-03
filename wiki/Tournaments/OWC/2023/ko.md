@@ -337,13 +337,13 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 2023년 12월 2일 토요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 오스트레일리아 ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
 
 2023년 12월 3일 일요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 대한민국 ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
 | **미국** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: 대한민국 | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
@@ -354,13 +354,13 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 2023년 11월 25일 토요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 캐나다 ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **독일** | [#1](https://osu.ppy.sh/community/matches/111451190) | [#1](https://www.twitch.tv/videos/1987233069) |
 
 2023년 11월 26일 일요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 필리핀 ::{ flag=PH }:: | 3 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111457054) | [#1](https://www.twitch.tv/videos/1987522035) |
 | **대한민국** ::{ flag=KR }:: | **7** | 3 | ::{ flag=AU }:: 오스트레일리아 | [#1](https://osu.ppy.sh/community/matches/111460173) | [#1](https://www.twitch.tv/videos/1987813835) |
