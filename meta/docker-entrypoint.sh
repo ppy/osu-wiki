@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -eu
+set -eu -- meta/docker-msys-swap-git-index.sh "$@"
 
 host_uid="$(stat -c %u /osu-wiki)"
 host_gid="$(stat -c %g /osu-wiki)"

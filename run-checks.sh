@@ -21,11 +21,13 @@ build_docker_image() {
 }
 
 run_in_docker() {
+  msys="$(test -z "${MSYSTEM:-}" || printf 1)"
   remove_node_modules="$(test -e node_modules || printf 1)"
 
   # Map the host repo directory to /osu-wiki, but use node_modules from the
   # image. Don't exit the script on fail; store the exit code to return later
-  docker run \
+  MSYS_NO_PATHCONV="$msys" docker run \
+    -e "OSU_WIKI_MSYS=$msys" \
     --rm \
     --volume "$(pwd):/osu-wiki" \
     --volume /osu-wiki/node_modules/ \
