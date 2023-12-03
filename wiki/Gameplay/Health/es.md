@@ -17,7 +17,7 @@ La **salud** o *HP* es el valor que determina si un jugador logra pasar o fallar
 
 En [osu!](/wiki/Game_mode/osu!), la salud disminuirá a un ritmo constante, a esto se le llama drenaje de salud, pero se puede reponer golpeando las notas en el tiempo correcto o girando spinners.
 
-Aparecerán ráfagas de puntuación después de golpear un círculo, cambiando la puntuación y los valores de salud dependiendo de la precisión del golpe. Un golpe perfectamente sincronizado (300) recuperará más salud que un golpe mal sincronizado (50). El jugador también recibirá mejoras más grandes, si logran un katu o un geki al final del combo. Un fallo provocará una caída instantánea de salud. Si los spinners son completados antes de tiempo, seguir girando recuperará salud adicional. Para obtener una descripción general de la recuperación y perdida de salud, consulta a continuación:
+Aparecerán ráfagas de puntuación después de golpear un círculo, cambiando la puntuación y los valores de salud dependiendo de la precisión del golpe. Un golpe perfectamente sincronizado (300) recuperará más salud que un golpe mal sincronizado (50). El jugador también recibirá mejoras más grandes, si logran un katu o un geki al final del combo. Un fallo provocará una caída instantánea de salud. Si los spinners son completados antes de tiempo, seguir girando recuperará salud adicional. Para obtener una descripción general de la recuperación y pérdida de salud, consulta a continuación:
 
 Recuperación de salud:
 
@@ -68,7 +68,7 @@ Sin efecto:
 
 En [osu!catch](/wiki/Game_mode/osu!catch), la salud disminuirá a un ritmo constante, a esto se le llama drenaje de salud, pero se puede reponer atrapando frutas y gotas.
 
-Aparecerán ráfagas de puntuación después de atrapar frutas, cambiando la puntuación y los valores de salud según el objeto atrapado. Los jugadores pueden recibir mejoras más grandes si logran atrapar el final de un combo, resultando en un geki. Un fallo provocará una caída instantánea de salud. Los plátanos pueden ser ignoradas sin penalización de salud. Para obtener una descripción general de la recuperación y pérdida de salud, consulta a continuación:
+Aparecerán ráfagas de puntuación después de atrapar frutas, cambiando la puntuación y los valores de salud según el objeto atrapado. Los jugadores pueden recibir mejoras más grandes si logran atrapar el final de un combo, resultando en un geki. Un fallo provocará una caída instantánea de salud. Los plátanos pueden ser ignorados sin penalización de salud. Para obtener una descripción general de la recuperación y pérdida de salud, consulta a continuación:
 
 Recuperación de salud:
 
