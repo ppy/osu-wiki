@@ -2,8 +2,6 @@
 tags:
   - OWC
   - OWC2023
-outdated_translation: true
-outdated_since: bd8a6d1ee68acf4d0042096f211c2aad8386943d
 ---
 
 # osu! World Cup 2023
@@ -35,6 +33,8 @@ osu! 월드컵 2023은 최소 $5000의 상금과 한정판 굿즈가 제공됩�
 | ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
 | ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 | ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+
+![](img/badge-1st.png "OWC 2023 우승 배지") ![](img/badge-2nd.png "OWC 2023 준우승 배지") ![](img/badge-3rd.png "OWC 2023 3위 배지")
 
 ## 조직
 
@@ -127,20 +127,9 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 그랜드 파이널
+## Podium
 
-### 2023년 12월 2일 토요일
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
-### 2023년 12월 3일 일요일
-
-| Team A | Team B | 매치 시간 | 트위치 생방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=AU }:: 오스트레일리아 | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/podium.jpg "OWC 2023 podium")
 
 ## 맵풀 목록
 
@@ -341,6 +330,23 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## 경기 결과
+
+### 그랜드 파이널
+
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1Ri_80xlG-NsRDevg7wrYwUM6dgMnTqQR82xBd62NDwg?rm=minimal)에서 확인할 수 있습니다.
+
+2023년 12월 2일 토요일:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 오스트레일리아 ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
+
+2023년 12월 3일 일요일:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 대한민국 ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
+| **미국** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: 대한민국 | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
 
 ### 파이널
 
@@ -695,7 +701,5 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 노트
 
-[^lb-gf-match]: 그랜드 파이널 패자조 경기
-[^gf-match]: 패자조 경기 결과에 따라 달라지는 그랜드 파이널 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
