@@ -42,7 +42,7 @@ If you're in Indonesia, you're also able to support the tournament by purchasing
 Check out the following short trailer for the merchandise line below and, if this strikes your fancy, you can place your order [here](https://docs.google.com/forms/d/e/1FAIpQLScmKN4kAXtiIluLchGfeodKpx37tcHd6OIe_6w1ZfLelDJWgA/viewform):
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 64 / 27;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Do note that Ascaveth Invitational 2023 is fully run at a non-profit basis, and all proceedings will be used to fund the prize pool and other tournament needs.
