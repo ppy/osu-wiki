@@ -66,25 +66,28 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 1. Retournez sur le bureau GitHub. Il devrait ressembler à ceci :
 
-  ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
+   ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
 
 2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
+
 3. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
+   Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
+
 5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
+
 6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
-  ![](img/github-desktop-first-commit.jpg "Premier commit")
+   ![](img/github-desktop-first-commit.jpg "Premier commit")
 
 7. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez depuis l'étape 4 pour faire les autres commits que vous voulez faire.
 
-  ![](img/github-desktop-second-commit.jpg "Deuxième commit")
+   ![](img/github-desktop-second-commit.jpg "Deuxième commit")
 
 8. Une fois que vous avez fini de faire vos commits, cliquez sur le bouton `Publish branch` en haut.
 
-  ![](img/github-desktop-push.jpg)
+   ![](img/github-desktop-push.jpg)
 
 9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.
