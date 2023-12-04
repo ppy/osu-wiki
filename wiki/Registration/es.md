@@ -8,12 +8,14 @@ no_native_review: true
 
 1. Después de [instalar](/wiki/Client/Installation) osu! y ejecutarlo, osu! te pedirá que inicies sesión o te registres. Suponiendo que estás aquí porque necesitas una cuenta, haz clic en `Crear una cuenta`.
 
-![El formulario de registro en el juego](img/ingame-registration.jpg "El formulario de registro")
+   ![El formulario de registro en el juego](img/ingame-registration.jpg "El formulario de registro")
 
 2. Completa todos los campos en el formulario.
+
    - Para el campo de nombre de usuario, hay un máximo de 15 caracteres; de los cuales solo pueden ser caracteres alfanuméricos (`a-z`, `A-Z`, `0-9`), guiones bajos (`_`), corchetes, (`[` y `]`), guiones (`-`), y espacios (` `).
    - Para el campo de la dirección de correo electrónico, usa tu correo electrónico. Esto se usa para restablecer tu contraseña y para enviarte códigos de verificación cuando sea necesario, así que no uses un correo electrónico desechado.
    - Para el campo de contraseña, use una contraseña que tenga al menos 8 caracteres de longitud.
+
 3. Una vez que se haya completado, haga clic en `1. Create my account!`. Se iniciará sesión automáticamente.
 
 ## ¿Qué sigue?

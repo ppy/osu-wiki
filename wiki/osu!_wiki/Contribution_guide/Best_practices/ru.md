@@ -18,10 +18,12 @@ outdated_translation: true
 Чтобы редактировать файлы в репозитории на Github, его необходимо сначала скопировать, или *форкнуть*. Копия репозитория, которую вы получаете в своё распоряжение, называется *форком*. Когда вы делаете форк `osu-wiki`, то получаете зафиксированную копию данных на момент сохранения, сама она обновляться не будет. Чтобы быть в курсе чужих изменений, перед редактированием вики **всегда нужно синхронизировать форк** (это можно сделать через GitHub):
 
 1. Откройте свой форк `osu-wiki`.
+
 2. Выберите в выпадающем списке ветку `master`.
+
 3. Нажмите на кнопку `Fetch upstream` и выберите пункт `Fetch and merge`.
 
-![](img/update-branch.png "Обновление отстающей ветки")
+   ![](img/update-branch.png "Обновление отстающей ветки")
 
 Теперь ваша копия вики содержит все последние изменения.
 
@@ -32,26 +34,28 @@ outdated_translation: true
 Если по какой-то причине кнопка на GitHub работает не так, как вы хотите, воспользуйтесь скриптом, написанным редакторами osu! wiki:
 
 1. Откройте свой форк `osu-wiki` и перейдите на вкладку `Actions`.
+
 2. В списке слева под заголовком `Workflows` выберите действие `Sync from osu! upstream`.
+
 3. Нажмите на кнопку `Run workflow` и заполните поля:
 
-<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-dialog.png "Форма запуска действия на GitHub")
+   ![](img/github-actions-workflow-dialog.png "Форма запуска действия на GitHub")
 
-- **Use workflow from**: имя ветки, которую вы хотите синхронизировать (по умолчанию `master`).
-- **Overwrite any changes in the target repository**:
-  - `true`: стереть все изменения, которые вы внесли в ветку, и потом синхронизировать её с веткой `master` из `ppy/osu-wiki`.
-  - `false` (по умолчанию): объединить ваши изменения с новыми правками из `ppy/osu-wiki`, ничего не теряя.
-- **Create a backup of your target branch**:
-  - `true`: сделать резервную копию ветки, которая будет сохранена в `backup-{name of your branch}`.
-  - `false` (по умолчанию): не делать резервную копию.
+   - **Use workflow from**: имя ветки, которую вы хотите синхронизировать (по умолчанию `master`).
+   - **Overwrite any changes in the target repository**:
+     - `true`: стереть все изменения, которые вы внесли в ветку, и потом синхронизировать её с веткой `master` из `ppy/osu-wiki`.
+     - `false` (по умолчанию): объединить ваши изменения с новыми правками из `ppy/osu-wiki`, ничего не теряя.
+   - **Create a backup of your target branch**:
+     - `true`: сделать резервную копию ветки, которая будет сохранена в `backup-{name of your branch}`.
+     - `false` (по умолчанию): не делать резервную копию.
 
 4. Нажмите на зелёную кнопку `Run Workflow` и подождите, когда скрипт закончит работать. Если вам интересно, что в этот момент происходит, откройте и поизучайте запущенную задачу `Sync from osu! upstream`.
 
-<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-overview.png "Список проделанных шагов в действии на GitHub")
+   ![](img/github-actions-workflow-overview.png "Список проделанных шагов в действии на GitHub")
 
 ## Внесение правок
 

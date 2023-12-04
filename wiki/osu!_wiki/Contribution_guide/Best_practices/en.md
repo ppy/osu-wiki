@@ -13,10 +13,12 @@ This page covers some of the tasks that you may face while contributing. The app
 In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes — this can be done directly from GitHub:
 
 1. Go to your fork of the `osu-wiki` repo.
+
 2. Select the `master` branch from the dropdown.
+
 3. Click `Fetch upstream`, and select `Fetch and merge`.
 
-![](img/update-branch.png "Updating the outdated branch")
+   ![](img/update-branch.png "Updating the outdated branch")
 
 Now your branch is up-to-date with the original repository.
 
@@ -27,14 +29,16 @@ This solution works fine in most cases, although the feature itself has limited 
 If you encountered any problems while using the GitHub tool or you want to overwrite your branch's contents, you can use the workflow written by the osu! wiki contributors.
 
 1. Open **your fork** and go to the `Actions` tab.
+
 2. On the left sidebar, look for `Sync with ppy:master`.
+
 3. Click `Run workflow` and fill in the options:
 
-![Screenshot of the form on the GitHub website described below](img/github-actions-workflow-dispatch.png "GitHub Actions workflow dispatch menu")
+   ![Screenshot of the form on the GitHub website described below](img/github-actions-workflow-dispatch.png "GitHub Actions workflow dispatch menu")
 
-- **Use workflow from**: Target branch that you want to sync. By default, it is set to `master`.
-- **Create a backup of the selected branch**: Creates a copy of the target branch at `{branch name}-backup` on your fork before attempting to update it.
-- **Overwrite all history of the selected branch**: Replaces the target branch with `ppy:master`, discarding all of its differing commits. By default, `ppy:master` will be merged into the target branch.
+   - **Use workflow from**: Target branch that you want to sync. By default, it is set to `master`.
+   - **Create a backup of the selected branch**: Creates a copy of the target branch at `{branch name}-backup` on your fork before attempting to update it.
+   - **Overwrite all history of the selected branch**: Replaces the target branch with `ppy:master`, discarding all of its differing commits. By default, `ppy:master` will be merged into the target branch.
 
 4. Click the `Run workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync with ppy:master` workflow task.
 

@@ -19,10 +19,12 @@ outdated_translation: true
 Щоб внести зміни до репозиторію, який знаходиться на GitHub, потенційний учасник повинен отримати його контрольовану копію, яка називається *форк*. Коли ви створюєте форк репозиторію `osu-wiki`, в цей момент ви робите копію його вмісту. Перед внесенням змін *завжди синхронізуйте ваш форк*, щоб вони мали сенс. Це може бути зроблено напряму через GitHub:
 
 1. Перейдіть у ваш форк репозиторію `osu-wiki`.
+
 2. Оберіть гілку `master` з випадаючого меню.
+
 3. Натисніть `Fetch upstream`, а потім оберіть `Fetch and merge`.
 
-![](img/update-branch.png "Оновлення застарілої гілки")
+   ![](img/update-branch.png "Оновлення застарілої гілки")
 
 Тепер ваша гілка актуальна по відношенню до оригінального репозиторію.
 
@@ -33,26 +35,28 @@ outdated_translation: true
 Якщо ви зіткнулися з будь-якими проблемами при використанні інструментів GitHub, або ви хочете перезаписати вміст вашої гілки, ви можете використати workflow написаний учасниками osu! wiki.
 
 1. Відкрийте **ваш форк** і перейдіть до вкладки `Actions`.
+
 2. У `Workflows`, знайдіть `Sync from osu! upstream`.
+
 3. Натисніть `Run workflow` і заповніть опції:
 
-<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
+   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
 
-- **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
-- **Overwrite any changes in the target repository**:
-  - `true`: замінити вміст вашої гілки чистою копією гілки `master` з `ppy/osu-wiki`.
-  - `false` (за замовчуванням): об'єднати ваші зміни зі змінами на `ppy/osu-wiki`.
-- **Create a backup of your target branch**:
-  - `true`: створити гілку з назвою `backup-{назва вашої гілки}` перед її зміною.
-  - `false` (за замовчуванням): не робити ніяких резервних копій.
+   - **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
+   - **Overwrite any changes in the target repository**:
+     - `true`: замінити вміст вашої гілки чистою копією гілки `master` з `ppy/osu-wiki`.
+     - `false` (за замовчуванням): об'єднати ваші зміни зі змінами на `ppy/osu-wiki`.
+   - **Create a backup of your target branch**:
+     - `true`: створити гілку з назвою `backup-{назва вашої гілки}` перед її зміною.
+     - `false` (за замовчуванням): не робити ніяких резервних копій.
 
 4. Натисніть кнопку `Run Workflow` і зачекайте поки workflow зробить все необхідне. Якщо вам цікаво як це працює, натисніть на завдання workflow — `Sync from osu! upstream`.
 
-<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
+   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
 
 ## Внесення змін
 

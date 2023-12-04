@@ -13,10 +13,12 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 Para realizar cambios en un repositorio ubicado en GitHub, un posible colaborador debe obtener una copia controlada llamada *bifurcación (fork)*. Cuando creas tu bifurcación del repositorio `osu-wiki`, tomas una instantánea de su contenido en ese mismo momento. Para hacer una contribución útil, **siempre sincroniza tu bifurcación** antes de realizar una serie de cambios; esto se puede hacer directamente desde GitHub:
 
 1. Ve a tu bifurcación del repositorio `osu-wiki`.
+
 2. Selecciona la rama `master` del menú desplegable.
+
 3. Haz clic en `Fetch upstream`, y selecciona `Fetch and merge`.
 
-![](img/update-branch.png "Actualizar la rama desactualizada")
+   ![](img/update-branch.png "Actualizar la rama desactualizada")
 
 Ahora tu rama está actualizada con el repositorio original.
 
@@ -27,14 +29,16 @@ Esta solución funciona bien en la mayoría de los casos, aunque la función en 
 Si encontraste algún problema al usar la herramienta GitHub o si deseas sobrescribir el contenido de tu rama, puedes usar el flujo de trabajo escrito por los colaboradores de la wiki de osu!.
 
 1. Abre **tu bifurcación** y ve a la pestaña `Actions`.
+
 2. En la barra lateral izquierda, busca `Sync with ppy:master`.
+
 3. Haz clic en `Run workflow` y completa las opciones:
 
-![Captura de pantalla del formulario en el sitio web de GitHub que se describe a continuación](img/github-actions-workflow-dispatch.png "Menú de envío del flujo de trabajo de GitHub Actions")
+   ![Captura de pantalla del formulario en el sitio web de GitHub que se describe a continuación](img/github-actions-workflow-dispatch.png "Menú de envío del flujo de trabajo de GitHub Actions")
 
-- **Use workflow from**: Rama de destino que deseas sincronizar. Por defecto, se establece en `master`.
-- **Create a backup of the selected branch**: Crea una copia de la rama de destino en `{branch name}-backup` en tu bifurcación antes de intentar actualizarla.
-- **Overwrite all history of the selected branch**: Reemplaza la rama de destino con `ppy:master`, descartando todos sus commits diferentes. De forma predeterminada, `ppy:master` se fusionará en la rama de destino.
+   - **Use workflow from**: Rama de destino que deseas sincronizar. Por defecto, se establece en `master`.
+   - **Create a backup of the selected branch**: Crea una copia de la rama de destino en `{branch name}-backup` en tu bifurcación antes de intentar actualizarla.
+   - **Overwrite all history of the selected branch**: Reemplaza la rama de destino con `ppy:master`, descartando todos sus commits diferentes. De forma predeterminada, `ppy:master` se fusionará en la rama de destino.
 
 4. Haz clic en el botón `Run workflow` y espera a que se complete el flujo de trabajo. Si tienes curiosidad acerca de cómo funciona la herramienta, haz clic en la tarea del flujo de trabajo `Sync with ppy:master`.
 

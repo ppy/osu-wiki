@@ -4,12 +4,14 @@
 
 1. Po [instalaci](/wiki/Client/Installation) osu! vás vyzve k přihlášení nebo registraci. Za předpokladu, že jste tady, protože potřebujete účet, klikněte na `Vytvořit účet`.
 
-![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
+   ![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
 
 2. Vyplňte všechna pole ve formuláři.
+
    - Pole pro uživatelské jméno obsahuje maximálně 15 znaků; z nichž mohou být pouze alfanumerické znaky (`a-z`, `A-Z`, `0-9`), podtržítka (`_`), hranaté závorky (`[` a `]`), pomlčky (`-`) a mezery (` `).
    - V poli pro e-mailovou adresu použijte svůj e-mail. Slouží k obnovení hesla a v případě potřeby k zaslání ověřovacích kódů, proto nepoužívejte náhodný e-mail.
    - Do pole pro heslo použijte heslo, které má alespoň 8 znaků.
+
 3. Jakmile je toto dokončeno, klikněte na `1. Vytvořit můj účet!`. Budete automaticky přihlášeni.
 
 ## Co dál?

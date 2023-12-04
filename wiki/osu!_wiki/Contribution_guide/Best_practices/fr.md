@@ -18,10 +18,12 @@ Cette page couvre certaines des tâches auxquelles vous pouvez être confronté 
 Afin d'apporter des modifications à un dépôt situé sur GitHub, un contributeur potentiel doit en obtenir une copie contrôlée appelée *fork*. Lorsque vous créez votre fork du dépôt `osu-wiki`, vous prenez un instantané de son contenu à ce moment précis. Pour apporter une contribution significative, **synchronisez toujours votre fork** avant d'effectuer un ensemble de modifications - cela peut être fait directement depuis GitHub :
 
 1. Allez à votre fork du dépôt `osu-wiki`.
+
 2. Sélectionnez la branche `master` dans la liste déroulante.
+
 3. Cliquez sur `Fetch upstream`, puis sélectionnez `Fetch and merge`.
 
-![](img/update-branch.png "Mise à jour de la branche obsolète")
+   ![](img/update-branch.png "Mise à jour de la branche obsolète")
 
 Votre branche est maintenant à jour avec le dépôt d'origine.
 
@@ -32,26 +34,28 @@ Cette solution fonctionne bien dans la plupart des cas, bien que la fonction ell
 Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub ou si vous souhaitez écraser le contenu de votre branche, vous pouvez utiliser le workflow écrit par les contributeurs de l'osu! wiki.
 
 1. Ouvrez **votre fork** et allez dans l'onglet `Actions`.
+
 2. Dans `Workflows`, cherchez `Sync from osu! upstream`.
+
 3. Cliquez sur `Run workflow` et remplissez les options :
 
-<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
-- **Use workflow from** : nom de la branche que vous voulez synchroniser. Par défaut, il s'agit de `master`.
-- **Overwrite any changes in the target repository** :
-  - `true` : remplace le contenu de votre branche par une copie propre de la branche `master` à partir de `ppy/osu-wiki`.
-  - `false` (par défaut) : fusionne vos modifications avec celles qui se trouvent sur `ppy/osu-wiki`.
-- **Create a backup of your target branch** :
-  - `true` :  crée une branche appelée `backup-{nom de votre branche}` avant de la modifier.
-  - `false` (par défaut) : n'effectue aucune sauvegarde.
+   - **Use workflow from** : nom de la branche que vous voulez synchroniser. Par défaut, il s'agit de `master`.
+   - **Overwrite any changes in the target repository** :
+     - `true` : remplace le contenu de votre branche par une copie propre de la branche `master` à partir de `ppy/osu-wiki`.
+     - `false` (par défaut) : fusionne vos modifications avec celles qui se trouvent sur `ppy/osu-wiki`.
+   - **Create a backup of your target branch** :
+     - `true` :  crée une branche appelée `backup-{nom de votre branche}` avant de la modifier.
+     - `false` (par défaut) : n'effectue aucune sauvegarde.
 
 4. Cliquez sur le bouton `Run Workflow` et attendez que le workflow se termine. Si vous êtes curieux de savoir comment l'outil fonctionne, cliquez sur la tâche `Sync from osu! upstream`.
 
-<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
 ## Faire des modifications
 

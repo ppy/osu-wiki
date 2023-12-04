@@ -18,10 +18,12 @@ outdated_translation: true
 GitHub에 있는 저장소를 변경하려면 *Fork*라고 불리는 제어된 저장소의 사본을 얻어야 합니다. `osu-wiki` 저장소의 Fork를 만든다면, 그 순간의 저장소의 스냅샷을 가져옵니다. 의미있는 기여를 위해서는 **항상 Fork된 저장소를 동기화** 할 필요가 있습니다. 이러한 작업은 GitHub에서 직접 할 수 있습니다:
 
 1. Fork한 `osu-wiki` 저장소로 이동하세요.
+
 2. 드롭다운 메뉴의 `master` branch를 선택하세요.
+
 3. `Fetch upstream`를 클릭하고, `Fetch and merge`를 선택하세요.
 
-![](img/update-branch.png "Updating the outdated branch")
+   ![](img/update-branch.png "Updating the outdated branch")
 
 이렇게 branch를 원본 저장소의 내용으로 업데이트 할 수 있습니다.
 
@@ -32,26 +34,28 @@ GitHub에 있는 저장소를 변경하려면 *Fork*라고 불리는 제어된 �
 만약 GitHub 기능을 하다가 이러한 문제에 직면했거나, 내용을 덮어쓰고 싶다면 osu! wiki의 기여자들이 작성한 워크플로우를 이용하시면 됩니다.
 
 1. **Fork한 저장소**를 열고 `Action` 탭으로 이동하세요.
+
 2. `Workflows`에서 `Sync from osu! upstream` 항목을 찾으세요.
+
 3. `Run workflow`를 클릭하고 추가적인 내용을 채워 넣으세요:
 
-<!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
-- **Use workflow form**: 동기화를 원하는 branch의 이름을 적으세요. 기본적으로 `master`로 설정되어 있습니다.
-- **Overwrite any changes in the target repository**:
-  - `true`: branch의 내용을 `ppy/osu-wiki`의 `master` branch의 내용으로 완전히 복사합니다.
-  - `false` (기본값): 변경한 내용을 `ppy/osu-wiki`의 내용과 복사합니다.
-- **Create a backup of your target branch**:
-  - `true`: 변경하기 전 내용을 `backup-{선택한 branch}`이라는 branch로 백업합니다.
-  - `false` (기본값): 백업을 만들지 않습니다.
+   - **Use workflow form**: 동기화를 원하는 branch의 이름을 적으세요. 기본적으로 `master`로 설정되어 있습니다.
+   - **Overwrite any changes in the target repository**:
+     - `true`: branch의 내용을 `ppy/osu-wiki`의 `master` branch의 내용으로 완전히 복사합니다.
+     - `false` (기본값): 변경한 내용을 `ppy/osu-wiki`의 내용과 복사합니다.
+   - **Create a backup of your target branch**:
+     - `true`: 변경하기 전 내용을 `backup-{선택한 branch}`이라는 branch로 백업합니다.
+     - `false` (기본값): 백업을 만들지 않습니다.
 
 4. `Run Workflow` 버튼을 누르고 작업이 완료 될 때까지 기다리세요. 이 기능이 어떻게 작동되는지 궁금하다면 `Sync from osu! upstream` 워크플로우 작업을 클릭하시면 됩니다.
 
-<!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
 ## 수정하기
 

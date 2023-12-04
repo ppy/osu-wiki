@@ -4,12 +4,14 @@
 
 1. Nach der [Installation](/wiki/Client/Installation) und dem Starten von osu! fordert dich das Spiel auf, dich einzuloggen oder zu registrieren. Du bist vermutlich hier, da du noch keinen Account hast. Um einen Account zu erstellen, klicke auf `Create an account`.
 
-![Das Registrierungsformular im Spiel](img/ingame-registration.jpg "Das Registrierungsformular")
+   ![Das Registrierungsformular im Spiel](img/ingame-registration.jpg "Das Registrierungsformular")
 
 2. Fülle alle Felder des Formulars aus.
+
    - Der Benutzername kann maximal 15 Zeichen lang sein; außerdem dürfen nur alphanumerische Zeichen (`a-z`, `A-Z`, `0-9`), Unterstriche (`_`), eckige Klammern (`[` und `]`), Bindestriche (`-`) und Leerzeichen (` `) verwendet werden.
    - Verwende deine echte E-Mail-Adresse. Sie wird zum Zurücksetzen deines Passwortes und zum Versenden von Bestätigungscodes verwendet, daher solltest du immer auf sie zugreifen können (verwende keine "Wegwerf-E-Mail").
    - Das Passwort muss mindestens acht Zeichen lang sein.
+
 3. Sobald du das Formular ausgefüllt hast, klicke auf `1. Create my account!`. Du wirst automatisch eingeloggt.
 
 ## Was nun?
