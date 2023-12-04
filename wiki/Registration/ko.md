@@ -1,6 +1,6 @@
 # 회원가입
 
-*경고: 두 개 이상의 osu! 계정을 가지고 있는 것은 규칙 위반입니다! [osu! rules](/wiki/Rules)!*를 참조해주세요.
+*경고: 두 개 이상의 osu! 계정을 가지고 있는 것은 규칙 위반입니다! [osu! rules](/wiki/Rules)를 참조해주세요.*
 
 1. osu! [설치](/wiki/Client/Installation) 이후 실행하면, osu!는 로그인 할지 회원가입을 할지 물어봅니다. 당신이 회원가입을 하기 위해 이 글을 읽고 있다면, `Create an account`버튼을 클릭하세요.
 
