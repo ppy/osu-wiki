@@ -9,8 +9,8 @@ Each year, winners of the [official World Cups](/wiki/Tournaments#official-world
 Winners of [OWC 2023](/wiki/Tournaments/OWC/2023) with the **osu! Champion** user title:
 
 - ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
-- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
 - ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
 - ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)
 - ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
