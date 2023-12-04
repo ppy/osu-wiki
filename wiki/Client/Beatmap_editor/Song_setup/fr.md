@@ -76,7 +76,7 @@ Les effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
 
 ![Deux captures d'écran de l'onglet Audio. Elles varient en fonction des paramètres définis pour le son et le volume.](img/SS_Audio.jpg "La section Audio. La fenêtre de droite s'affiche si la beatmap contient un timing personnalisé sur les paramètres de volume.")
 
-La section `Audio` permet de configurer les [hitsounds](/wiki/Beatmapping/Hitsound) pour l'ensemble de la beatmap en une seule fois, si elle n'a pas de personnalisation sonore. Bien plus souvent, les mappeurs préfèrent avoir un contrôle précis sur le son ; par conséquent, ils abandonnent la section `Audio` en faveur de la personnalisation des hitsounds par section de beatmap en utilisant plusieurs [sections de timing](/wiki/Client/Beatmap_editor/Timing#points-de-timing-hérités). Dans ce cas, la partie supérieure de l'onglet est inaccessible, et cliquer sur le bouton "Réinitialiser les paramètres" supprimera tous les ajustements de volume de timing personnalisés.
+La section `Audio` permet de configurer les [hitsounds](/wiki/Beatmapping/Hitsound) pour l'ensemble de la beatmap en une seule fois, si elle n'a pas de personnalisation sonore. Bien plus souvent, les mappeurs préfèrent avoir un contrôle précis sur le son ; par conséquent, ils abandonnent la section `Audio` en faveur de la personnalisation des hitsounds par section de beatmap en utilisant plusieurs [sections de timing](/wiki/Client/Beatmap_editor/Timing#point-de-timing-hérité). Dans ce cas, la partie supérieure de l'onglet est inaccessible, et cliquer sur le bouton "Réinitialiser les paramètres" supprimera tous les ajustements de volume de timing personnalisés.
 
 | Contrôle | Effets |
 | :-- | :-- |
