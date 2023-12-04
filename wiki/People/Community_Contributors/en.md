@@ -29,7 +29,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Medals) artwork. |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Medals)<!-- TODO: should link to something specifically about legacy achievements, not medals in general --> artwork. |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organising several major official tournaments (including the [OWC](/wiki/Tournaments/OWC)). |
