@@ -114,7 +114,7 @@ To begin, download and install [Audacity](https://www.audacityteam.org/), then f
 
 5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
-**NOTE:** Clicking `Cancel` in the metadata dialog will abort the re-encoding process.
+*Note: Clicking `Cancel` in the metadata dialog will abort the re-encoding process.*
 
 ### Using FFmpeg
 
