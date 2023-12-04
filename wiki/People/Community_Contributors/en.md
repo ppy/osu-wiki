@@ -181,7 +181,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Outstanding contribution to community moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Outstanding, unwavering contribution to player support & assistance |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Outstanding, unwavering contribution to player support & assistance |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Outstanding contribution to osu! open source projects |
 
 ### 2021
@@ -247,11 +247,11 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Outstanding contribution to graphic design across countless community projects |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Outstanding contribution to beatmap quality assurance |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Outstanding contribution to osu! IRL events |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](https://mappersguild.com) and Featured Artist showcase videos |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 
 ## History
 
