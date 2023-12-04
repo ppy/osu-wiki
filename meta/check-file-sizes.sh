@@ -15,12 +15,12 @@ warning_files="$(find "$@" -type f -size +500000c -size -1000001c)"
 
 exec >&2
 
-if test "$warning_files"; then
+if test -n "$warning_files"; then
   printf '\033[33mWarning:\033[m The following files are larger than 500kB and should be compressed if possible:\n'
   printf '%s\n' "$warning_files" | sort | sed 's/^/  /'
 fi
 
-if test "$error_files"; then
+if test -n "$error_files"; then
   printf '\033[31mError:\033[m The following files are larger than 1MB and must be compressed:\n'
   printf '%s\n' "$error_files" | sort -u | sed 's/^/  /'
   exit 1
