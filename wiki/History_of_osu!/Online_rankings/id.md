@@ -30,7 +30,7 @@ Mulai 19 Juli 2021, di [peringkat *performance* osu!](https://osu.ppy.sh/ranking
 
 *Halaman utama: [osu!taiko](osu!taiko)*
 
-Mulai 4 Oktober 2022, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Mulai 9 Oktober 2023, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
 
 ## ![][osu!catch] osu!catch
 
