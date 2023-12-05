@@ -64,13 +64,14 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.**
-- **Each difficulty's name must denote its [playstyle](#common-terms), but only if its key count is above 10 or multiple playstyles are present in the beatmap.**
+  - **For key counts above 10, the [playstyle](#common-terms) must be one of [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K), or [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K).**
+- **If the beatmap includes any key counts above 10, or multiple [key modes](#common-terms) or [playstyles](#common-terms), each difficulty's name must denote its key mode or playstyle. Otherwise, all difficulty names must not denote key modes or playstyles.**
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
 - **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
-- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than a Normal, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
-  - **...between 2:30 and 3:15**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than a Hard, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
-  - **...between 3:15 and 4:00**, the lowest difficulty of each included [playstyle](#common-terms) cannot be harder than an Insane, **OR** each playstyle must provide a proper spread[^proper-spread] containing at least 2 difficulties in total.
+- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
+  - **...lower than 2:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:30 and 3:15**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 3:15 and 4:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
 ### Guidelines
 

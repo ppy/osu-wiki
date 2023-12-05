@@ -50,7 +50,7 @@ Important to understand before using:
 
 ## Beatmap
 
-*Note: Each [osu!mania](/wiki/Game_mode/osu!mania) [playstyle](osu!mania#common-terms) is considered to be a separate game mode throughout this section.*
+*Note: Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) and [playstyle](osu!mania#common-terms) is considered to be a separate game mode throughout this section.*
 
 ### Rules
 
