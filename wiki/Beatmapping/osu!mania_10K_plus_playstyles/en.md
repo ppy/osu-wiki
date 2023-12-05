@@ -85,9 +85,9 @@ Each hand rests on the same keys as 10K or 10K2S. One or both hands may have to 
 
 ![](img/10K8K-keys.png)
 
-**10K8K** or **8K10K** is an 18-key playstyle similar to [10K](#10K), but includes 8 additional keys positioned above or below the 4 outermost keys on each side of the stage. The additional keys are not interleaved; they are either all outside or all inside respective to the group of keys that they were positioned above or below.
+**10K8K** is an 18-key playstyle similar to [10K](#10K), but includes 8 additional keys positioned above or below the 4 outermost keys on each side of the stage. The additional keys are not interleaved; they are either all outside or all inside respective to the group of keys that they were positioned above or below.
 
-This playstyle is also referred to as "4K10K4K".
+This playstyle is also referred to as "4K10K4K" or "8K10K".
 
 ![](img/10K8K-hands.png)
 
