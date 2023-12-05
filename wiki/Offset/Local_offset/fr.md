@@ -36,7 +36,7 @@ Si un local offset est défini, osu! affichera le local offset dans l'interface 
 
 osu! vous informera également du local offset avant de commencer le jeu.
 
-![Notification de local offset](img/local-offset-notice.png "Notification de local offset")
+![Notification de local offset](img/local-offset-notice.jpg "Notification de local offset")
 
 ## Notes et références
 

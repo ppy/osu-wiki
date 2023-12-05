@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Catch the Beat World Cup 2014 - Results"
+title: osu! Catch the Beat World Cup 2014 - Results
 date: 2014-06-25 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-cup-2014-results
 ---
@@ -16,7 +16,6 @@ During the grand final, Germany and South Korea showed off their amazing skills 
 - Team South Korea wins a 6 month supporter tag, an osu! merchandise item of their choice and a profile badge for each player. Moreover everyone receives the user title "CtB Champion" for the running year!
 - Team Germany is awarded with a 3 month supporter tag for each player.
 - Team Sweden receives a 1 month supporter tag for each player.
-    
 
 Congratulations to the winners, and thanks to all participants for making this tournament so great. This has been the most successful osu! Catch the Beat World Cup 2014 ever, with almost 2,000 viewers on the live stream during the finals!
 

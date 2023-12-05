@@ -8,7 +8,7 @@ We're proud to welcome **LEAF XCEED Music Division** aboard as our latest Featur
 
 ![](https://assets.ppy.sh/artists/88/header.jpg)
 
-A blast from the past coming straight at you in 2020, [**LEAF XCEED Music Division**](https://osu.ppy.sh/beatmaps/artists/88) is here to stay as our newest addition to the Featured Artist roster. 
+A blast from the past coming straight at you in 2020, [**LEAF XCEED Music Division**](https://osu.ppy.sh/beatmaps/artists/88) is here to stay as our newest addition to the Featured Artist roster.
 
 Most well known in osu! from his tracks *Fur Elisa* ([mapped](https://osu.ppy.sh/beatmapsets/23916) by [Louis Cyphre](https://osu.ppy.sh/users/186243)), *YuYu Metal* ([mapped](https://osu.ppy.sh/beatmapsets/45528) by [DoKito](https://osu.ppy.sh/users/537084)), and more recently *Guitar vs Piano* ([mapped](https://osu.ppy.sh/beatmapsets/518003) by [Shiro](https://osu.ppy.sh/users/113005)), we're excited to announce a new ensemble of 8 tracks including most of these timeless classics is now available, all bundled up in a neat album rather aptly titled *osu! 「SELECT」*.
 

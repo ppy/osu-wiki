@@ -18,13 +18,10 @@
 
 0. [สร้าง](https://github.com/signup) บัญชี GitHub
 1. เปิด [`ppy/osu-wiki`][osu_wiki] และเลือก `Fork` จากมุมขวาบน เพื่อให้สามารถควบคุม wiki ฉบับคัดลอก คุณสามารถเลือกไปที่ fork ของตัวเองได้โดยการไปที่ [`ppy/osu-wiki`][osu_wiki] และเลือก `Fork` อีกครั้ง
-
-  - ถ้าคุณได้สร้าง fork เมื่อนานมาแล้ว สามารถซิงค์ได้โดยวิธีการนี้ [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)
-
+   - ถ้าคุณได้สร้าง fork เมื่อนานมาแล้ว สามารถซิงค์ได้โดยวิธีการนี้ [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)
 2. อ่าน [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) และเริ่มดำเนินการที่จำเป็นได้เลยโดยคุณมีอิสระในการเลือกแอปพลิเคชั่นในการทำ อย่างไรก็ตาม osu! wiki มีคำแนะนำโดยละเอียดสำหรับการใช้ 2 อย่างนี้
-
-  - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (ออนไลน์, ไม่มีการติดตั้งเพิ่มเติม).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ออฟไลน์, สามารถจัดการอะไรได้มากกว่า).
+   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (ออนไลน์, ไม่มีการติดตั้งเพิ่มเติม).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ออฟไลน์, สามารถจัดการอะไรได้มากกว่า).
 
 ## ตรวจสอบงานของตัวเอง {id=self-check}
 
@@ -57,7 +54,7 @@
 - ในการขอความช่วยเหลือด้านการแปล ตรวจสอบ pull request ที่ merged เรียบร้อยแล้วของภาษาของคุณ ลองเข้าไปติดต่อผู้ตรวจสอบ หรือผู้เขียนของ pull request อันนั้น ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID]))
 - ลองให้เพื่อนมาดูแบบเร็ว ๆ
 
-เพิ่มเติมเกี่ยวกับขั้นตอนการตรวจสอบ osu! wiki repository มี [การตรวจสอบโดยอัตโนมัติ](/wiki/osu!_wiki/Maintenance#ci-checks) ที่จะทำให้แน่ใจว่าการเปลี่ยนแปลงของคุณเป็นไปตามรูปแบบของ wiki และไม่มีการจัดรูปแบบที่ผิดพลาด คุณสามารถตรวจสอบสถานะได้โดยการเปิดแถบ `Actions` ใน pull request ของคุณ หากเจอ error ลองทำตามข้อความวินิจฉัยข้อผิดพลาด ด้านล้างของข้อความ error  
+เพิ่มเติมเกี่ยวกับขั้นตอนการตรวจสอบ osu! wiki repository มี [การตรวจสอบโดยอัตโนมัติ](/wiki/osu!_wiki/Maintenance#ci-checks) ที่จะทำให้แน่ใจว่าการเปลี่ยนแปลงของคุณเป็นไปตามรูปแบบของ wiki และไม่มีการจัดรูปแบบที่ผิดพลาด คุณสามารถตรวจสอบสถานะได้โดยการเปิดแถบ `Actions` ใน pull request ของคุณ หากเจอ error ลองทำตามข้อความวินิจฉัยข้อผิดพลาด ด้านล้างของข้อความ error
 
 ## การ Merge
 

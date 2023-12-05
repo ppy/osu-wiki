@@ -9,7 +9,7 @@ no_native_review: true
 
 # Zespół Project Loved
 
-**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają [Project Loved](/wiki/Community/Project_Loved) - platformą do głosowania, przez którą wybierane są [ulubione beatmapy społeczności](/wiki/Beatmap/Category#ulubione-społeczności).
+**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają [Project Loved](/wiki/Community/Project_Loved) - platformą do głosowania, przez którą wybierane są [ulubione beatmapy społeczności](/wiki/Beatmap/Category#loved).
 
 ## Zadania
 
