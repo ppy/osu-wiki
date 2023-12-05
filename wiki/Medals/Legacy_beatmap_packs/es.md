@@ -1,24 +1,20 @@
----
-no_native_review: true
----
+# Paquetes de beatmaps heredados
 
-# Paquetes de mapas heredados
+Los paquetes de beatmaps han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) en 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapping en general también experimentó un cambio importante desde sus primeros días, y —debido a una gran demanda del público— [el 16 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se hizo una revisión a fondo de numerosos paquetes de beatmaps con el fin de mantenerlos, en su conjunto, relevantes con los tiempos.
 
-Los paquetes de mapas han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) allá por 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapeo en general también experimentó un cambio importante desde sus primeros días y, debido a una gran demanda del público, [el 16 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se realizó una revisión importante en numerosos paquetes de mapas para mantenerlos, en su conjunto, relevantes con los tiempos.
-
-Este artículo enumera el contenido de los paquetes de mapas, que se sometieron a dicha revisión, en su estado heredado/original.
+Este artículo enumera el contenido de los paquetes de beatmaps, que se sometieron a dicha revisión, en su estado heredado/original.
 
 ## Anime Pack
 
 ### Volumen 1
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
-Mapas:
+Beatmaps:
 
 - [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
@@ -36,13 +32,13 @@ Mapas:
 
 ### Volumen 2
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
-Mapas:
+Beatmaps:
 
 - [Kana Ueda - Pumpkin Ondo](https://osu.ppy.sh/beatmapsets/86)
 - [Porno Graffitti - Mellisa (TV Size)](https://osu.ppy.sh/beatmapsets/150)
@@ -60,13 +56,13 @@ Mapas:
 
 ### Volumen 3
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
-Mapas:
+Beatmaps:
 
 - [Kageyama Hironobu - Ore wa Tokoton Tomaranai](https://osu.ppy.sh/beatmapsets/2618)
 - [Lucky Star - Motteke! Sailor Fuku (REDALiCE Remix)](https://osu.ppy.sh/beatmapsets/3030)
@@ -84,13 +80,13 @@ Mapas:
 
 ### Volumen 4
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
-Mapas:
+Beatmaps:
 
 - [Chata - Dango Daikazoku](https://osu.ppy.sh/beatmapsets/516)
 - [AKINO - Sousei no Aquarion (TV Size)](https://osu.ppy.sh/beatmapsets/5438)
@@ -110,13 +106,13 @@ Mapas:
 
 ### Volumen 1
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [Dudelstudios - Angry Video Game Nerd Theme](https://osu.ppy.sh/beatmapsets/66)
 - [Trans-Siberian Orchestra - Wizards In Winter](https://osu.ppy.sh/beatmapsets/132)
@@ -134,13 +130,13 @@ Mapas:
 
 ### Volumen 2
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [The INTERNET - At The Playground](https://osu.ppy.sh/beatmapsets/203)
 - [Jakazid - Cillit Bang (Hardcore Mix)](https://osu.ppy.sh/beatmapsets/917)
@@ -158,13 +154,13 @@ Mapas:
 
 ### Volumen 3
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [NicoNicoDouga - Nice Boat.](https://osu.ppy.sh/beatmapsets/1839)
 - [Verix - Drop the Dodongo](https://osu.ppy.sh/beatmapsets/3337)
@@ -182,13 +178,13 @@ Mapas:
 
 ### Volumen 4
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [TuTuWan - Wo Yao Jin Ke La](https://osu.ppy.sh/beatmapsets/11443)
 - [Parry Gripp - Do You Like Waffles](https://osu.ppy.sh/beatmapsets/12033)
@@ -208,13 +204,13 @@ Mapas:
 
 ### Volumen 1
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
-Mapas:
+Beatmaps:
 
 - [Beautiful Day - Bride in Dream](https://osu.ppy.sh/beatmapsets/74)
 - [Speed Over Beethoven](https://osu.ppy.sh/beatmapsets/96)
@@ -232,13 +228,13 @@ Mapas:
 
 ### Volumen 2
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
-Mapas:
+Beatmaps:
 
 - [Tatsh feat. K.Nayuki - Sphere](https://osu.ppy.sh/beatmapsets/1207)
 - [Taiko no Tatsujin - Kita Saitama2000](https://osu.ppy.sh/beatmapsets/1567)
@@ -256,13 +252,13 @@ Mapas:
 
 ### Volumen 3
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
-Mapas:
+Beatmaps:
 
 - [BanYa - Csikos Post](https://osu.ppy.sh/beatmapsets/1206)
 - [Mutsuhiko Izumi - Jet World](https://osu.ppy.sh/beatmapsets/4357)
@@ -280,13 +276,13 @@ Mapas:
 
 ### Volumen 4
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
-Mapas:
+Beatmaps:
 
 - [Beautiful Day - Bang! Bang! Bang!](https://osu.ppy.sh/beatmapsets/10842)
 - [Yamajet - Over The Ocean](https://osu.ppy.sh/beatmapsets/11135)
@@ -306,13 +302,13 @@ Mapas:
 
 ### Volumen 1
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [Team Nekokan - Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/25)
 - [Portal - Still Alive](https://osu.ppy.sh/beatmapsets/92)
@@ -330,13 +326,13 @@ Mapas:
 
 ### Volumen 2
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita](https://osu.ppy.sh/beatmapsets/243)
 - [Nintendo - Super Mario Bros. (TECHNO remix)](https://osu.ppy.sh/beatmapsets/628)
@@ -354,13 +350,13 @@ Mapas:
 
 ### Volumen 3
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [Victims of Science - The Device Has Been Modified](https://osu.ppy.sh/beatmapsets/1890)
 - [Phoenix Wright - Sugimori Masakazu - Compilation](https://osu.ppy.sh/beatmapsets/2085)
@@ -378,13 +374,13 @@ Mapas:
 
 ### Volumen 4
 
-Este paquete de mapas fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
 Enlace de descarga:
 
 - *N/A*
 
-Mapas:
+Beatmaps:
 
 - [Megadeth - Grabbag](https://osu.ppy.sh/beatmapsets/7077)
 - [David J. Franco - Scribblenauts Theme](https://osu.ppy.sh/beatmapsets/9580)
@@ -402,8 +398,8 @@ Mapas:
 
 ## Curiosidades
 
-- El mapa [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), que se incluyó en el Internet Pack (Volumen 1), se destacó por haber sido enviado a la sección [Aprobado](/wiki/Beatmap/Category#aprobados) a pesar de que solo consta de una sola ruleta. Aunque el mapa fue [eliminado de la lista de mapas aprobados poco después](https://osu.ppy.sh/community/forums/posts/149328), los restos permanecieron en el Internet Pack (Volumen 1) de todos modos.
+- El beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), que se incluyó en el Internet Pack (Volumen 1), se destacó por haber sido enviado a la sección [aprobados](/wiki/Beatmap/Category#approved) a pesar de que solo consta de un solo spinner. Aunque el beatmap fue [eliminado de la lista de beatmaps aprobados poco después](https://osu.ppy.sh/community/forums/posts/149328), los restos permanecieron en el Internet Pack (Volumen 1) de todos modos.
 
 ## Notas
 
-[^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) es un mapa no clasificado. No es necesario jugar este mapa para completar el paquete.
+[^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) es un beatmap no clasificado. No es necesario jugar este beatmap para completar el paquete.

@@ -335,7 +335,7 @@ Samedi 24 août 2019 :
 | Pologne ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-Dimanche 25 août 2019 : 
+Dimanche 25 août 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -366,7 +366,7 @@ Samedi 17 août 2019 :
 | B5 | Chili ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Royaume-Uni/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-Dimanche 18 août 2019 : 
+Dimanche 18 août 2019 :
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |

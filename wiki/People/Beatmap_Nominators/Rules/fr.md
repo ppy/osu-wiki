@@ -25,7 +25,7 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
 
 - **Les exigences en matière d'activité pour votre ou vos modes de jeu respectifs doivent être remplies.** L'activité des 90 derniers jours sera vérifiée le premier jour de chaque mois et lors des évaluations régulières des BN, en tenant compte des congés communiqués.
   - **Le fait de passer sous la barre des 60 jours de nominations sur une période de 90 jours entraînera une exclusion lors du contrôle de l'activité.** Par exemple, une BN d'osu! avec moins de 6 nominations sur une période de 90 jours sera exclu.
-  - **Le fait de passer sous la barre des 90 jours avec plus de 60 jours de nominations entraînera un avertissement d'activité.** 
+  - **Le fait de passer sous la barre des 90 jours avec plus de 60 jours de nominations entraînera un avertissement d'activité.**
   - Lorsque vous êtes averti pour votre activité, les exigences minimales d'activité pour votre ou vos modes de jeu respectifs doivent être remplies au cours d'un mois.
   - Le fait de ne pas respecter le minimum requis alors que l'on a déjà reçu un avertissement à ce sujet peut entraîner l'exclusion des Beatmap Nominators.
 - Les Beatmap Nominators doivent rester en dessous d'un nombre maximum de nominations dans une période de 90 jours, avec pour chaque mode de jeu sa propre limite de nominations. Dépasser cette limite entraînera un avertissement, puis une exclusion s'ils n'arrivent pas à gérer leur activité en conséquence.

@@ -6,7 +6,7 @@ tags:
 
 # Mapping Assistance Team
 
-The **Mapping Assistance Team** (***MAT***) was a group responsible for assessing the quality of [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) [beatmaps](/wiki/Beatmap) and recommending them for [ranking](/wiki/Beatmap/Category#ranked) in the [forum modding](/wiki/Modding/Forum_modding) system. Their recommendations were passed on to the [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*) by placing a [proto-bubble](/wiki/Modding/Proto-bubble), and the BAT would then make the final decision on whether the beatmap should enter Ranked.
+The **Mapping Assistance Team** (***MAT***) was a group responsible for assessing the quality of [pending](/wiki/Beatmap/Category#wip-and-pending) [beatmaps](/wiki/Beatmap) and recommending them for [ranking](/wiki/Beatmap/Category#ranked) in the [forum modding](/wiki/Modding/Forum_modding) system. Their recommendations were passed on to the [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*) by placing a [proto-bubble](/wiki/Modding/Proto-bubble), and the BAT would then make the final decision on whether the beatmap should enter Ranked.
 
 The MAT were overseen by a [MAT Leader](/wiki/People/Mapping_Assistance_Team/MAT_Leaders) who provided guidance and assistance where necessary.
 

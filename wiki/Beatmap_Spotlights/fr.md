@@ -1,4 +1,6 @@
 ---
+outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
+outdated_translation: true
 tags:
   - charts
   - Ranking Charts
@@ -14,7 +16,7 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle de printemps 2023.
+La saison en cours est celle de l'automne 2023.
 
 La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) liste tous les membres de l'équipe. Voir la [page des Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) pour une liste plus détaillée de tous les rôles au sein du BSC.
 
@@ -53,7 +55,7 @@ Le classement saisonnier résume les résultats du classement hebdomadaire de ch
    - En rejouant une playlist à une autre semaine, **seulement le meilleur score hebdomadaire classé** comptera, écrasant le plus mauvais.
 3. Le classement sera mis à jour après la conclusion de chaque playlist.
    - Les participants ne seront pas informés de leur score saisonnier exact, ils seront plutôt affectés à des tranches de ligue.
-   - Le classement sera publié dans l'[osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
+   - Le classement sera publié dans l'[osu! community discord](https://discord.com/invite/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
 
 ### Récompenses
 
@@ -110,8 +112,8 @@ Le système de curation implique un processus de sélection par les curateurs de
 L'implémentation actuelle des Beatmap Spotlights est hautement expérimentale et peut changer à tout moment en fonction de la réaction des joueurs. Pour cette raison, il est important de recueillir autant de commentaires et de critiques que possible pour améliorer continuellement la direction et la mise en œuvre de ce système. Les joueurs sont encouragés à laisser leurs impressions et leurs commentaires ici :
 
 - [Fil de discussion du forum feedback](https://osu.ppy.sh/community/forums/topics/1189626)
-- `#beatmap-spotlights` sur le [serveur Discord de la communauté osu!](https://discord.gg/0Vxo9AsejDkGlk3H)
-- `#osu-spotlights` sur le [serveur Discord osu!dev](https://discord.gg/ppy)
+- `#beatmap-spotlights` sur le [serveur Discord de la communauté osu!](https://discord.com/invite/0Vxo9AsejDkGlk3H)
+- `#osu-spotlights` sur le [serveur Discord osu!](https://discord.com/invite/ppy)
 
 ### Devenir un curateur
 

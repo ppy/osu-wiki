@@ -58,7 +58,7 @@ And finish things off with [this classic OWC 2016 map](https://osu.ppy.sh/beatma
 
 It's safe to assume you're already scrolling through [**T & Sugah**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/188) to find a song to map, so we'll spam F5 on the beatmap listing to see when your beatmap's ready. Any minute now. Any minute. Any. Minute.
 
-Some of you might've noticed that our artist announcements never highlight the same genre back to back. Next week's artists are no exception of course, one of which focuses on a pop-vocal rhythm game sound, while the other is... a little too difficult to describe with words. 
+Some of you might've noticed that our artist announcements never highlight the same genre back to back. Next week's artists are no exception of course, one of which focuses on a pop-vocal rhythm game sound, while the other is... a little too difficult to describe with words.
 
 Stay tuned to the [@osugame Twitter](https://twitter.com/osugame) if you actually want to know what that means and we'll see you next week!
 

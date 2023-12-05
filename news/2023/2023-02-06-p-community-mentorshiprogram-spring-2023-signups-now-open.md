@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Spring 2023 Signups Now Open"
+title: Community Mentorship Program Spring 2023 Signups Now Open
 date: 2023-02-06 10:00:00 +0000
 ---
 
@@ -26,6 +26,6 @@ Throughout this cycle, the organization team will host various events on the Men
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1716981) for more information.
 
-We're looking forward to the mappers, modders and storyboarders of tomorrow! 
+We're looking forward to the mappers, modders and storyboarders of tomorrow!
 
 —Mentorship Organization Team

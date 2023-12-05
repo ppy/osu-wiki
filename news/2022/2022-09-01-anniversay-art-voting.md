@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15th Anniversary Art Contest Voting Open"
+title: 15th Anniversary Art Contest Voting Open
 date: 2022-09-01 12:00:00 +0000
 ---
 

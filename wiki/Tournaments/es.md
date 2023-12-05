@@ -25,7 +25,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 6/12/2020 | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania | ::{ flag=CA }:: Canadá |
 | [osu! World Cup 2021](OWC/2021) | 9/10/2021 | 28/11/2021 | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania | ::{ flag=KR }:: Corea del Sur |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania |
-| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -136,6 +136,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 26/1/2018 | 17/3/2018 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 17/8/2018 | 30/9/2018 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 11/1/2019 | 10/3/2019 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+
+#### BubblyQT
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [BubblyQT 6](BQT/6) | 30/9/2023 | 12/11/2023 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

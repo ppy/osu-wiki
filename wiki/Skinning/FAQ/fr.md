@@ -10,7 +10,7 @@ Le skinning est un simple mécanisme de changement d'images qu'osu! chargera lor
 
 ### Quelqu'un peut-il faire ce skin à partir de cette série/ce jeu ?
 
-Si vous avez parcouru l'ensemble des forums de skinning et que vous êtes certain de ne pas trouver *ce* skin, alors félicitations, osu! ne l'a pas encore. En gardant cela à l'esprit, vous pouvez prendre cette initiative pour créer le skin dont vous rêvez et en faire quelque chose que tout le monde peut vouloir ! 
+Si vous avez parcouru l'ensemble des forums de skinning et que vous êtes certain de ne pas trouver *ce* skin, alors félicitations, osu! ne l'a pas encore. En gardant cela à l'esprit, vous pouvez prendre cette initiative pour créer le skin dont vous rêvez et en faire quelque chose que tout le monde peut vouloir !
 
 **Néanmoins, ne demandez jamais de skin sur les forums**. Le non-respect de cette règle entraînera le déplacement de votre fil de discussion vers les wastelands.
 
