@@ -25,8 +25,7 @@
     "remark-lint-osu-wiki-links": "github:MegaApplePi/remark-lint-osu-wiki-links",
     "remark-osu": "^0.1.0",
     "remark-preset-lint-markdown-style-guide": "5.1.2",
-    "vfile-reporter-github-action": "^1.0.0",
-    "vfile-reporter-position": "github:TicClick/vfile-reporter-position#update-vfile-message-v3"
+    "vfile-reporter-github-action": "^2.0.0"
   },
   "overrides": {
     "mdast-util-gfm-table": {

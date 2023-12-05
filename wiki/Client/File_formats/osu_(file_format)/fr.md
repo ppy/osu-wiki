@@ -333,7 +333,7 @@ Le troisième objet est un slider :
 - A la position (100,100)
 - A 12,6 secondes
 - Démarre un nouveau combo
-- Avec un sliderbody à courbe de bézier composée, où les control points de la première courbe sont (100,100), (200,200) et (250,200), et les points de contrôle de la seconde courbe sont (250,200) et (300,150). Les control points dupliqués indiquent un [point d'ancrage rouge](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). 
+- Avec un sliderbody à courbe de bézier composée, où les control points de la première courbe sont (100,100), (200,200) et (250,200), et les points de contrôle de la seconde courbe sont (250,200) et (300,150). Les control points dupliqués indiquent un [point d'ancrage rouge](/wiki/Gameplay/Hit_object/Slider/Slider_anchor).
 - Répète une fois
 - 310.123 osu! pixels de long
 - Avec un whistle au début, et un whistle joué avec un soft à la fin.

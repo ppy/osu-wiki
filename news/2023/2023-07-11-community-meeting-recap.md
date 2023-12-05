@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Meeting Recap"
+title: Community Meeting Recap
 date: 2023-07-11 13:00:00 +0000
 ---
 

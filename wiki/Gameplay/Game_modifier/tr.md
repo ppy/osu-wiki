@@ -2,10 +2,10 @@
 outdated_translation: true
 outdated_since: 3301b00d5740b959a91ed18f5dc55a4660a218bb
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
+  - mod
+  - game modifier
+  - overview
+  - list of mods
 ---
 
 # Oyun modifikasyonları
@@ -24,7 +24,7 @@ Seçim ekranında modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azaltm
 
 *Ayrıca bakınız: [Özet (Oyun Modifikasyonları)](/wiki/Gameplay/Game_modifier/Summary)*
 
-Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) bulunacaktır. 
+Aşağıda belirtilen her modun yanında uyumlu olduğu oyun modlarının ikonu (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) bulunacaktır.
 
 ### Zorluk azaltma
 

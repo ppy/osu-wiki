@@ -7,9 +7,9 @@ tags:
   - etiqueta de osu!supporter
 ---
 
-![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)
-
 # osu!supporter
+
+![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)
 
 **osu!supporter** (o la ***etiqueta osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu!, de manera voluntaria, con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
 
@@ -43,7 +43,7 @@ Usuarios con un osu!supporter activo aparecerán de un amarillo brillante en el 
 
 ### Sección del perfil editable
 
-Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo lo llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
+Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo la llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
 
 La sección `¡yo!` puede ser un buen lugar para:
 
@@ -58,7 +58,7 @@ Los supporters pueden personalizar aún más su perfil colocando una imagen de p
 - Haz clic en el icono del lápiz situado en la esquina inferior derecha de la portada.
 - Selecciona una nueva portada a partir de unas cuantas opciones predefinidas o sube una imagen personalizada (sus dimensiones deberán ser de 2400x640).
 
-Una vez que el osu!supporter expire, la portada se mantendrá, pero no podrá cambiarse. 
+Una vez que el osu!supporter expire, la portada se mantendrá, pero no podrá cambiarse.
 
 ### Cambio de nombre gratis
 
@@ -88,7 +88,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 
 | Valor | Limite regular | Limite de osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
+| [Beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
 | Beatmaps favoritos | 100 | 1000 |
 | Amigos | 500 | 1000 |
 
@@ -151,7 +151,7 @@ No se notifica al destinatario quién le dio la etiqueta, pero al regalar osu!su
 Después que la transacción sea completada, habrá un nuevo evento en la sección `Reciente` en el perfil tanto del remitente como del destinatario:
 
 - `{nombre de usuario} ha apoyado a osu! - ¡gracias por tu generosidad!` si es la primera vez que el usuario obtiene osu!supporter o se lo regala a otra persona.
-- `{nombre de usuario} ha elegido apoyar a osu! una vez más - ¡gracias por tu generosidad!` si el usuario ha sido osu!supporter o lo ha regalado antes. 
+- `{nombre de usuario} ha elegido apoyar a osu! una vez más - ¡gracias por tu generosidad!` si el usuario ha sido osu!supporter o lo ha regalado antes.
 - `¡{nombre de usuario} ha recibido el regalo de osu!supporter!` en caso de que la etiqueta haya sido regalado.
 
 El donante también puede ocultar este evento de su propio perfil marcando `Ocultar todas las etiquetas osu!supporter en esta orden de mi actividad` durante el pago. Esto es útil para hacer regalos de forma anónima porque evita que el destinatario verifique la actividad del perfil.

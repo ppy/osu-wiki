@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: b7b99940b9680a1ef404a5e4da458d392e641d02
 tags:
   - BN
   - BNG
@@ -12,7 +14,7 @@ Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps]
 
 ## Roles y responsabilidades
 
-Los miembros de Beatmap Nominators son responsables principalmente de [modear](/wiki/Modding) [beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y aprobarlos en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que acudir en busca de consejos o solicitudes sobre cualquier cosa relacionada con el mapping o el modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si siente que un mapa nominado tiene problemas que deben solucionarse y que no son violaciones directas de los criterios de clasificación.
+Los miembros de Beatmap Nominators son responsables principalmente de [modear](/wiki/Modding) [beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) y aprobarlos en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que acudir en busca de consejos o solicitudes sobre cualquier cosa relacionada con el mapping o el modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si siente que un mapa nominado tiene problemas que deben solucionarse y que no son violaciones directas de los criterios de clasificación.
 
 Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mappers, esforzándose por mejorar constantemente su oficio, como se describe en [el artículo Expectativas de los Beatmap Nominators](Expectations).
 
@@ -41,7 +43,7 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 - **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el grupo.
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
   ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.jpg "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.jpg "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.jpg "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.jpg "Insignia de BN de 5 años")
-- **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominaciones)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
+- **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
   ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2023 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "Insignia de 1000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los Beatmap Nominators que se desempeñen excepcionalmente en su oficio son elegibles para recibir el [título de usuario](/wiki/Community/User_title) Elite Nominator.
 

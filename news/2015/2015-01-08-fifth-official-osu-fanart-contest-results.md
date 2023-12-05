@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fifth Official osu! Fanart Contest Results (Christmas)!"
+title: Fifth Official osu! Fanart Contest Results (Christmas)!
 date: 2015-01-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107496626248/fifth-official-osu-fanart-contest-results
 ---

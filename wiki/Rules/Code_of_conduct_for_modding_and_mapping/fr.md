@@ -4,7 +4,7 @@ Le **code de conduite pour le modding et le mapping** est un ensemble de règles
 
 ## Comportement et conduite
 
-- Le but du modding est d'aider un mappeur à améliorer son travail afin que sa beatmap puissent devenir [classée](/wiki/Beatmap/Category#classée) si le mappeur choisit de le faire. Si vous n'êtes pas enclin à aider les gens, restez à l'écart des discussions pour éviter de *heurter*.
+- Le but du modding est d'aider un mappeur à améliorer son travail afin que sa beatmap puissent devenir [classée](/wiki/Beatmap/Category#ranked) si le mappeur choisit de le faire. Si vous n'êtes pas enclin à aider les gens, restez à l'écart des discussions pour éviter de *heurter*.
 - Lorsque vous postez un message, pensez à qui il va s'adresser, ce que vous voulez obtenir en le postant, ainsi que la réponse que vous en attendez. Vous assurerez ainsi que vos meilleures intentions sont transmises et que votre message est facile à comprendre.
   - N'ayez pas peur des nouveaux mappeurs et moddeurs : ce sont eux qui peuvent bénéficier le plus de votre contribution ! Soyez patient, compréhensif et fournissez autant d'explications que possible afin qu'ils puissent apprendre et s'améliorer plus rapidement.
   - Si vous êtes vous-même nouveau, n'ayez pas peur de le dire ! Cela permettra aux membres plus expérimentés de la communauté de vous orienter dans la bonne direction. Tout le monde a été nouveau et dans votre position un jour !
@@ -54,7 +54,7 @@ Parfois, un seul mod et une seule réponse ne suffisent pas à mettre toutes les
 
 ## Beatmaps qualifiées
 
-La section [qualifiée](/wiki/Beatmap/Category#qualifiée) permet aux beatmaps de recevoir les dernières suggestions de modification ou d'amélioration avant d'atteindre le statut classée. Lorsque vous moddiez une beatmap qualifiée, tout ce que vous considérez comme "non mineur" doit **toujours** être mentionné - les problèmes mineurs méritent également d'être mentionnés, surtout s'ils affectent le gameplay. Si une beatmap qualifiée accumule un nombre important de problèmes mineurs, ou s'il y a un ou plusieurs problèmes majeurs/impossibles à classer, la beatmap doit être disqualifiée afin que des corrections et des améliorations puissent être apportées avant de tenter une requalification.
+La section [qualifiée](/wiki/Beatmap/Category#qualified) permet aux beatmaps de recevoir les dernières suggestions de modification ou d'amélioration avant d'atteindre le statut classée. Lorsque vous moddiez une beatmap qualifiée, tout ce que vous considérez comme "non mineur" doit **toujours** être mentionné - les problèmes mineurs méritent également d'être mentionnés, surtout s'ils affectent le gameplay. Si une beatmap qualifiée accumule un nombre important de problèmes mineurs, ou s'il y a un ou plusieurs problèmes majeurs/impossibles à classer, la beatmap doit être disqualifiée afin que des corrections et des améliorations puissent être apportées avant de tenter une requalification.
 
 Si vous n'êtes pas sûr de la nature d'un problème potentiel, demandez l'avis d'autres personnes ou consultez les messages de mods précédents pour vous assurer que le "problème" présenté n'est pas quelque chose d'intentionnel de la part du mappeur - si c'est le cas, il aura probablement déjà été discuté. S'il n'y a pas eu de discussion préalable, n'hésitez pas à en ouvrir une comme si vous moddiez la beatmap normalement, et postez un bref aperçu de vos préoccupations.
 
