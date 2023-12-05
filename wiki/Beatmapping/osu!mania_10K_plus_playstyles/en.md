@@ -39,7 +39,7 @@ In this context, a **playstyle** is a suggested set of [key bindings](/wiki/Game
 
 The player can choose to ignore the intended playstyle, but it becomes increasingly hindering to do so at higher [levels of difficulty](/wiki/Beatmap/Difficulty#difficulty-levels), and may result in [patterns](/wiki/Beatmap/Pattern) that feel awkward to play or are nearly impossible to hit.
 
-Each playstyle requires the player to adjust their [key bindings](/wiki/Game_mode/osu!mania#controls) appropriately, and encourages the use of customized [skins](/wiki/Skin). In this article, gameplay images use a slightly modified default skin to help illustrate various playstyles.
+Each playstyle requires the player to adjust their [key bindings](/wiki/Game_mode/osu!mania#controls) appropriately, and encourages the use of customised [skins](/wiki/Skin). In this article, gameplay images use a slightly modified default skin to help illustrate various playstyles.
 
 ## 10K (10 keys) {#10K}
 
