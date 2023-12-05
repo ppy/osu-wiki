@@ -32,7 +32,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollo y mantenimiento del [servicio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de vídeo). |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Alojamiento y mantenimiento de uno de los [espejos de beatmaps](https://osu.yas-online.net/) de más larga duración de osu!. |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [medallas](/wiki/Medals). |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [medallas](/wiki/Medals).<!-- TODO: should link to something specifically about legacy achievements, not medals in general--> |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Desarrollo y mantenimiento de [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modding de beatmap de terceros más popular de la comunidad. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Rendimiento excepcional en la corrección de errores/prueba de funciones y haciendo código de numerosas funciones para mappers y modders. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organización de varios torneos oficiales importantes (incluida la [OWC](/wiki/Tournaments/OWC)). |
@@ -184,7 +184,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Excelente contribución a la moderación de la comunidad |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribución al [Mappers' Guild](https://mappersguild.com) y [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Excelente contribución a los proyectos de código abierto de osu! |
 
 ### 2021
@@ -226,6 +226,35 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Excelente contribución a la escena de torneos y eventos IRL de osu! |
+
+### 2023
+
+#### Noviembre
+
+*Para la publicación de la noticia, véase: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+
+| Usuario | Contribuciones |
+| :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Dedicación excepcional e interminable a la gestión de la comunidad por más de una decada |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Compromiso excepcional con la escena de modding y los [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Excelente contribución a los asuntos de moderación y a la osu! wiki (wikifriend)
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Contribución excelente y pionera al modo de juego osu!taiko |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo sobresaliente en asuntos de gestión de beatmaps |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Excelente contribución a la escena de mapping a través del desarrollo de utilidades ([osumod.com](https://osumod.com)) |
+| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Excelente contribución a torneos offline y al crecimiento de la comunidad en general |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Excelente contribución a la escena de torneos de osu! y a las World Cups |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Excelente contribución a la escena de torneos de osu! y a las World Cups |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Excelente contribución a la comunidad de osu!taiko y a la escena de torneos |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Excelente contribución a la comunidad de skinning |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Excelente contribución a la moderación de la comunidad |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Excelente contribución al diseño gráfico a lo largo de innumerables projectos de la comunidad |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Excelente contribución a la garantía de calidad de beatmaps |
+| ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Excelente contribución a eventos IRL de osu! |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y a los vídeos de demostración de Artistas Destacados |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y a los vídeos de demostración de Artistas Destacados |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y a los vídeos de demostración de Artistas Destacados |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y a los vídeos de demostración de Artistas Destacados |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución al [Mappers' Guild](/wiki/Community/Mappers_Guild) y a los vídeos de demostración de Artistas Destacados |
 
 ## Historia
 
