@@ -67,7 +67,7 @@ Along with [EZ2AC](#EZ2AC), this playstyle is more broadly referred to as "14K" 
 
 ![](img/DP-hands.png)
 
-Each hand usually rests on the upper 3, lower outermost, and lower innermost keys of its side of the stage. The lower outer-middle key can be hit with the ring finger, and the lower inner-middle key can be hit with the thumb or index finger. The two scratch keys, if included, are commonly hit by moving a pinky finger outward.
+Each hand usually rests on the keys labeled 1-2-4-6-7 in the diagrams above. Key 5 can be hit with the ring finger, and key 3 can be hit with the thumb or index finger. The two scratch keys, if included, are commonly hit by moving a pinky finger outward.
 
 ## EZ2AC (14 or 16 keys) {#EZ2AC}
 
