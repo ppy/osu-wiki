@@ -1,4 +1,4 @@
-# osu!判定系统
+# osu! 判定系统
 
 ## 判定等级
 
@@ -15,7 +15,7 @@
 
 判定区域由谱面的 [总体难度（OD）](/wiki/Beatmap/Overall_difficulty) 决定。如果判定区域内的一次点击满足 `打击误差 < 最大打击误差`，则此次点击命中，误差时间即为判定范围的一半。<!-- 内部参考: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L1521-L1536 -->
 
-打击误差和最大打击误差会四舍五入，这意味着相较上述计算公式，判定范围的两端可能会有至多1.5ms的缩短。
+打击误差和最大打击误差经过四舍五入处理，这意味着相较上述计算公式，判定范围的两端至多可能缩短1.5ms。
 
 <!-- 
 内部参考: 
@@ -23,7 +23,7 @@ hit error rounding https://github.com/peppy/osu-stable-reference/blob/1531237b63
 window truncation https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L467-L469
 -->
 
-### 激 喝
+### “激”和“喝”
 
 一组 [连击](/wiki/Beatmapping/Combo) 的最后一个物件会根据整组的连击情况再多给出一种判定。这种判定回复的 [血量](/wiki/Gameplay/Health) 比普通判定略多一些。
 
@@ -45,7 +45,7 @@ window truncation https://github.com/peppy/osu-stable-reference/blob/1531237b633
 
 <!-- 内部参考: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SliderOsu.cs#L1693-L1719 -->
 
-[滑条](/wiki/Gameplay/Hit_object/Slider) 由多个部分组成：[滑条头](/wiki/Gameplay/Hit_object/Slider/Sliderhead) 、[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail) 、[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick) 和 [折返点](/wiki/Gameplay/Hit_object/Slider/Reverse_slider) 组成。玩家对各部分的命中情况作为整个滑条的判定依据，大致如下：
+[滑条](/wiki/Gameplay/Hit_object/Slider) 由多个部分组成：[滑条头](/wiki/Gameplay/Hit_object/Slider/Sliderhead) 、[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail) 、[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick) 和 [折返点](/wiki/Gameplay/Hit_object/Slider/Reverse_slider) 组成。整个滑条的判定结果依据玩家对各部分的命中情况得出，大致如下：
 
 | 判定 | 滑条完成度 |
 | :-: | :-- |
@@ -63,7 +63,7 @@ window truncation https://github.com/peppy/osu-stable-reference/blob/1531237b633
 
 ### 转盘
 
-每个 [转盘](/wiki/Gameplay/Hit_object/Spinner) 都有一组规定完成该物件所需的数，这个数由铺面的 [总体难度](/wiki/Beatmap/Overall_difficulty#滑条和转盘) 决定。转盘转速是根据光标移速计算的，所以不需要数清楚到底转了多少圈。
+每个 [转盘](/wiki/Gameplay/Hit_object/Spinner) 都有一组规定完成该物件所需的转数，这个数由谱面的 [总体难度](/wiki/Beatmap/Overall_difficulty#滑条和转盘) 决定。转盘转速是根据光标移速计算的，所以不需要数清楚到底转了多少圈。
 
 <!--
 内部参考: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L419-L461
@@ -91,20 +91,20 @@ note that the above formulas are divided in half in the tables below for nicer u
 
 |  |  |
 | :-- | :-- |
-| 最小每秒转速[^minimum-sps] | `1.5 + 0.2 × OD` 若 OD < 5, `1.25 + 0.25 × OD` 若 OD ≥ 5 |
+| 最小每秒转速[^minimum-sps] | 若 OD < 5：`1.5 + 0.2 × OD`,若 OD ≥ 5：`1.25 + 0.25 × OD`  |
 | 最小所需转数 | 转盘长度（秒） × 最小每秒转数 + 0.5 |
 
-如果一个转盘非常短，所需转数可能会算出0，那么该转盘总会判定为GREAT。
+如果一个转盘非常短，计算得出的所需转数可能是0，那么该转盘总会判定为GREAT。
 
 ## 历史
 
-转盘的判定算法曾在 [20190513.2 Stable 发布](https://osu.ppy.sh/home/changelog/stable40/20190513.2)有重大改动。变化如下：
+转盘的判定算法曾在 [20190513.2 稳定版](https://osu.ppy.sh/home/changelog/stable40/20190513.2)中发生重大改动。变化如下：
 
 - OK 和 MEH 、GREAT 和 MEH 之间的差等于转数的一半，这让达成非MISS判定的难度显著提高。
 - 过短的转盘可能会无法完成。
 - 所有转盘都需要多半圈才算完成。
 
-2019年5月10日（此变化 [加进 Cutting Edge 版本](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1) 的时候）之前的回放会用以前的算法，而不是现在正在使用的。
+2019年5月10日（此变化 [被引入测试版](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1) 的时候）之前的回放会用以前的算法，而不是现在正在使用的。
 
 ## 备注
 
