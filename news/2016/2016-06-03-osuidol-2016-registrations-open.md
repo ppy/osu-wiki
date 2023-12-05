@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2016 - Registrations open!"
+title: osu!idol 2016 - Registrations open!
 date: 2016-06-03 15:04:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/145357306703/osuidol-2016-registrations-open
 ---

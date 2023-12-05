@@ -1,4 +1,6 @@
 ---
+outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
+outdated_translation: true
 tags:
   - Beatmap Spotlights
   - charts
@@ -14,7 +16,7 @@ tags:
 
 **聚光灯**（Beatmap Spotlights，或简称 Spotlights），也被称为*月赛*（*Ranking Charts*）。是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
-当前赛季为 2023 春。
+当前赛季为 2023 秋天。
 
 [聚光灯策展人页面](https://osu.ppy.sh/groups/48)列出了所有的团队成员。若要详细了解 BSC 内所有的角色，参见[聚光灯策展人](/wiki/People/Beatmap_Spotlight_Curators)。
 

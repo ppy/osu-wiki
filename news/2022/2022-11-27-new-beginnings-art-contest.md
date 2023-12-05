@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Beginnings Art Contest"
+title: New Beginnings Art Contest
 date: 2022-11-27 10:00:00 +0000
 ---
 
@@ -25,7 +25,7 @@ If you're scratching your head and thinking "what the heck is a *new beginning*"
 
 We figure a lot of you will go for the new years theme here, and that's perfectly fine! But make sure to give contest's theme a good, long think, since it's a pretty open one. Generally speaking, bright and positive dreaming of the future in a celebratory manner is what we're looking for.
 
-As an extra bonus, you'll have **27 days** from the date of this post to make your entry real. 
+As an extra bonus, you'll have **27 days** from the date of this post to make your entry real.
 
 Yes, that's almost exactly TWO WHOLE WEEKS more than the typical amount of time we open these contests for. We'll even be opening the voting basically on Christmas too, which is something we've never done before. Very exciting!
 

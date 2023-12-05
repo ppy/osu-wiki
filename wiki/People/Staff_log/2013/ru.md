@@ -165,7 +165,7 @@
 
 ## Сентябрь
 
-- Повторное добавление [Gabe](https://osu.ppy.sh/users/654108) в Beatmap Appreciation Team (2019-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
+- Повторное добавление [Gabe](https://osu.ppy.sh/users/654108) в Beatmap Appreciation Team (2013-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
 - Добавление [YGOkid8](https://osu.ppy.sh/users/69114) в osu! Alumni (2013-09-05) <!-- https://osu.ppy.sh/community/forums/posts/2555361 -->
 - Перемещение [Andrea](https://osu.ppy.sh/users/33599) из osu! Alumni в Beatmap Appreciation Team (2013-09-08) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Добавление [Lissette](https://osu.ppy.sh/users/19835) в osu! Alumni <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->

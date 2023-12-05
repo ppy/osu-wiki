@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: f49ac28b8df6074d91b4b8194aa684c088e5091a
 tags:
   - NAT
 ---
@@ -13,7 +15,7 @@ Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
-***Nota: Para denunciar a un miembro del NAT por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
+***Nota: Para reportar a un miembro del NAT por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Responsabilidades
 
@@ -35,7 +37,7 @@ Los miembros del NAT asignados a la categoría estructural no son responsables d
 
 - **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_criteria), así como otra documentación.
 - **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web del NAT/BN](https://bn.mappersguild.com/home)).
-- **Moderación**: Manejar los informes de los usuarios y evaluar el comportamiento inapropiado de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
+- **Moderación**: Manejar los reportes de los usuarios y evaluar la conducta inapropiada de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
   - Manejar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Mantener la [prueba del RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).

@@ -1,6 +1,6 @@
 ---
 tags:
-  - OTC #2
+  - "OTC #2"
   - OTC 2
   - OTC#2
   - OTC2

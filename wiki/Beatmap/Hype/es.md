@@ -7,7 +7,7 @@ tags:
 
 # Hype
 
-Cada [beatmap](/wiki/Beatmap) [pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) tiene un **tren del hype** que representa aproximadamente cuántas personas están interesadas en ver el mapa [clasificado](/wiki/Beatmap/Category#clasificados). Los usuarios pueden publicar [discusiones de beatmaps](/wiki/Beatmap_discussion) especiales en la pestaña `General (Todas las dificultades)` con la opción `¡Hype!` para contribuir al tren del hype de un mapa.
+Cada [beatmap](/wiki/Beatmap) [pendiente](/wiki/Beatmap/Category#wip-and-pending) tiene un **tren del hype** que representa aproximadamente cuántas personas están interesadas en ver el mapa [clasificado](/wiki/Beatmap/Category#ranked). Los usuarios pueden publicar [discusiones de beatmaps](/wiki/Beatmap_discussion) especiales en la pestaña `General (Todas las dificultades)` con la opción `¡Hype!` para contribuir al tren del hype de un mapa.
 
 ## Requisito de clasificación
 

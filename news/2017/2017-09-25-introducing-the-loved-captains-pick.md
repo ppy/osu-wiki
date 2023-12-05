@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing the Loved Captain's Pick"
+title: Introducing the Loved Captain's Pick
 date: 2017-09-25 10:30:00 +0000
 ---
 

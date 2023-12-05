@@ -7,7 +7,7 @@ no_native_review: true
 
 # Hype
 
-Tất cả mọi [beatmap](/wiki/Beatmap) [đang chờ](/wiki/Beatmap/Category#work-in-progress-and-pending) đều có một **chuỗi hype** mà đại khái đại diện cho số người quan tâm đến việc beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked). Người dùng có thể đăng những [thảo luận đặc biệt về beatmap](/wiki/Beatmap_discussion) trong phần `Chung (Tất cả độ khó)` với lực chọn `Hype!` để đóng góp cho chuỗi hype của một map.
+Tất cả mọi [beatmap](/wiki/Beatmap) [đang chờ](/wiki/Beatmap/Category#wip-and-pending) đều có một **chuỗi hype** mà đại khái đại diện cho số người quan tâm đến việc beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked). Người dùng có thể đăng những [thảo luận đặc biệt về beatmap](/wiki/Beatmap_discussion) trong phần `Chung (Tất cả độ khó)` với lực chọn `Hype!` để đóng góp cho chuỗi hype của một map.
 
 ## Điều kiện xếp hạng
 

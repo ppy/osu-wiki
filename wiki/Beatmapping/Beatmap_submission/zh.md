@@ -1,12 +1,12 @@
 # 提交谱面
 
-制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Client/Beatmap_editor)提交至 osu! 官网上。提交后的谱面就能得到其他玩家的关注，并有机会被标记为 [Ranked](/wiki/Beatmap/Category#上架-(ranked)) 或 [Loved](/wiki/Beatmap/Category#社区喜爱-(loved))。
+制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Client/Beatmap_editor)提交至 osu! 官网上。提交后的谱面就能得到其他玩家的关注，并有机会被标记为 [Ranked](/wiki/Beatmap/Category#ranked) 或 [Loved](/wiki/Beatmap/Category#loved)。
 
 ![](img/bss-warning-ZH.png "谱面提交系统的截图")
 
 在编辑器内的`文件`下拉列表中选择`上传地图…`（快捷键：`Ctrl` + `Shift` + `U`）会打开**谱面提交系统**（***Beatmap Submission System***，简写为***BSS***）窗口。窗口中首先会列出一些资源，这些资源可以帮助用户解决与制谱有关的问题、寻求谱面的[反馈](/wiki/Modding)，并确保谱面符合 Ranked 谱面的标准。若在使用系统时遇到问题，请参阅指南[如何解决谱面提交系统的问题](/wiki/Guides/BSS_issues)。
 
-如果用户上传的谱面集还尚未提交至 osu! 网站，窗口上会显示出用户还能上传的新谱面集数量。若谱面集已被提名，用户会收到“上传地图会使谱面提名状态重置”的警告；若谱面集已成为[坟图](/wiki/Beatmap/Category#坟场-(graveyard))，用户会收到“谱面将会变为 Pending 状态”的警告。
+如果用户上传的谱面集还尚未提交至 osu! 网站，窗口上会显示出用户还能上传的新谱面集数量。若谱面集已被提名，用户会收到“上传地图会使谱面提名状态重置”的警告；若谱面集已成为[坟图](/wiki/Beatmap/Category#graveyard)，用户会收到“谱面将会变为 Pending 状态”的警告。
 
 ## 提交选项
 
