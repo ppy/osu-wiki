@@ -153,7 +153,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) and [dashes](/wiki/Gameplay/Dash) must have at least a 62 ms gap between their two objects.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy-to-follow.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with higher-snapped [dashes](/wiki/Gameplay/Dash) or any other hyperdashes.**
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other hyperdashes.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used within a slider.**
 - **At least 125 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
 
@@ -161,6 +161,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) should not be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash followed by a 1/2 hyperdash.
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be used in conjunction with higher-snapped [dashes](/wiki/Gameplay/Dash).** If used, those cannot involve [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) and the dash must be used before the hyperdash.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash) with a gap lower than 250ms.**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) may only be used singularly (not in conjunction with other [dashes](/wiki/Gameplay/Dash) or [hyperdashes](/wiki/Gameplay/Hyperdash)).**
 - **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
@@ -171,7 +172,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 7 and 9.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 6.
-- [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 5.
+- [Circle Size](/wiki/Beatmap/Circle_size) should be between 3.5 and 4.5.
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
@@ -191,5 +192,5 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 8 and 10.
-- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 6 and 7.
+- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 7.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 6.

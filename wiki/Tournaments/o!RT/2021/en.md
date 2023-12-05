@@ -461,7 +461,7 @@ Monday, 2 August 2021:
 ### Qualifiers
 
 1. The qualifiers will determine the participants and the seeding order for the knockout stage.
-2. Each player will play in one of the qualifier lobbies held during the weekend. 
+2. Each player will play in one of the qualifier lobbies held during the weekend.
 3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
 4. The results will be sorted by the **total score** each player achieved in their respective playthrough.
 

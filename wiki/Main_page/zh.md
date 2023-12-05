@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <div class="wiki-main-page__blurb">
@@ -97,7 +99,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
 讨论区: [论坛](/wiki/Community/Forum) • [IRC 闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
-  
+
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
 [社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)

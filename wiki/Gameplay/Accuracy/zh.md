@@ -1,3 +1,8 @@
+---
+outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
+outdated_translation: true
+---
+
 # 准确率
 
 准确率（也称准确度）用于刻画玩家打击[物件](/wiki/Gameplay/Hit_object)的时间与标准时间有多接近，亦即打得多准。玩家有三种准确度：谱面的准确度，取决于谱面的物件得分；总准确度，它是为让更好的得分更加突出而权衡的；[表现分（pp）](/wiki/Performance_points)准确度，取决于提交的得分的准确度。

@@ -10,12 +10,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Octobre
 
-- **21/09/2007 :** Les [Critères de Classement](/wiki/Ranking_criteria) sortent. 
+- **21/09/2007 :** Les [Critères de Classement](/wiki/Ranking_criteria) sortent.
 - **29/07/2007 :**: Les icônes des fils de discussion du forum ont été normalisées pour le processus de classement.
   - Une icône `star` (![l'icône star](/wiki/shared/icon/star.gif)) marquait les bonnes beatmaps qui nécessitent plus de travail.
   - Une icône `bubble` (![l'icône bubble](/wiki/shared/icon/bubble.gif)) marquait les beatmaps prises en compte pour le classement.
   - Une icône `heart` (![l'icône heart](/wiki/shared/icon/heart.gif)) marquait les beatmaps classées. Ces icônes ne pouvaient être placées qu'après qu'une beatmap ait été mis en [bulle](/wiki/Modding/Bubble), assurant ainsi deux nominations par beatmap.
-  - Une icône `nuke` (![Icône nuke](/wiki/shared/icon/nuke.gif)) marquait les beatmaps qui ne pouvaient en aucun cas être classées. 
+  - Une icône `nuke` (![Icône nuke](/wiki/shared/icon/nuke.gif)) marquait les beatmaps qui ne pouvaient en aucun cas être classées.
 
 **200 beatmaps** ont été classées en 2007.
 
@@ -25,13 +25,13 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **11/03/2008 :** La catégorie [Graveyard](/wiki/Beatmap/Category#cimetière) a été mise en place pour accueillir les beatmaps inactives.
+- **11/03/2008 :** La catégorie [Graveyard](/wiki/Beatmap/Category#graveyard) a été mise en place pour accueillir les beatmaps inactives.
   - La communauté s'attendait à ce que chaque beatmap en attente soit classée, mais les beatmaps étaient fréquemment abandonnées et devaient être séparées.
 
 ### Juillet
 
-- **31/07/2008 :** La catégorie [Approuvée](/wiki/Beatmap/Category#approuvée) a été mise en place pour fournir des classements aux beatmaps inappropriées pour le classement.
-  - Les raisons courantes d'approbation comprenaient initialement une durée supérieure à 5 minutes et des scores supérieurs à 20 millions, qui n'étaient pas autorisés pour le contenu classé. 
+- **31/07/2008 :** La catégorie [Approuvée](/wiki/Beatmap/Category#approved) a été mise en place pour fournir des classements aux beatmaps inappropriées pour le classement.
+  - Les raisons courantes d'approbation comprenaient initialement une durée supérieure à 5 minutes et des scores supérieurs à 20 millions, qui n'étaient pas autorisés pour le contenu classé.
   - Une icône `flame` (![l'icône flame](/wiki/shared/icon/flame.gif)) marquait les beatmaps approuvées après deux bulles.
 
 ### Décembre
@@ -46,12 +46,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Février
 
-- **04/02/2009 :** ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) a été promu premier [BAT manager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers). 
-  - Son rôle principal était d'organiser la promotion de nouvelles BAT et d'améliorer l'activité/la compétence des BAT actuelles. 
+- **04/02/2009 :** ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) a été promu premier [BAT manager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers).
+  - Son rôle principal était d'organiser la promotion de nouvelles BAT et d'améliorer l'activité/la compétence des BAT actuelles.
 
 ### Mars
 
-- **04/03/2009 :** ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) a lancé la première [Délégation des pouvoirs de décision en matière d'approbation des beatmap ; escouade de soumission](/wiki/People/Beatmap_Appreciation_Team/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). 
+- **04/03/2009 :** ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) a lancé la première [Délégation des pouvoirs de décision en matière d'approbation des beatmap ; escouade de soumission](/wiki/People/Beatmap_Appreciation_Team/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*).
   - Ce changement a été lancé parce que les BAT précédentes ont été ajoutées sur la base d'un vote informel du canal `#bat` sur l'[IRC](/wiki/Community/Internet_Relay_Chat) d'osu! qui n'était pas visible par suffisamment d'utilisateurs.
 
 ### Novembre
@@ -63,7 +63,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **27/12/2009 :** L'équipe [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*) est lancée.
   - Les membres du MAT pouvaient marquer les beatmaps avec des [proto-bulles](/wiki/Modding/Proto-bubble) qui indiquaient les beatmaps de qualité que les membres du BAT devraient examiner.
-  - ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) a été le premier [Leader MAT](/wiki/People/Mapping_Assistance_Team/MAT_Leaders) du groupe. 
+  - ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) a été le premier [Leader MAT](/wiki/People/Mapping_Assistance_Team/MAT_Leaders) du groupe.
   - Les membres de la MAT avaient un titre violet sur les forums.
   - Le MAT s'appelait initialement "équipe de modding intermédiaire" et était composé de moddeurs établis qui n'étaient pas encore prêts à entrer dans le BAT.
   - Les objectifs du MAT étaient de réduire la charge de travail des BAT, d'identifier les beatmaps qui passaient entre les mailles du filet du cycle de classement et d'améliorer le contrôle de la qualité, deux problèmes urgents à l'époque. Rétrospectivement, aucun de ses objectifs n'a été pleinement réalisé.
@@ -103,7 +103,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **09/03/2011 :** Les membres du MAT ont reçu l'autorisation de mettre des bubbles sur des beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approuvée).
+- **09/03/2011 :** Les membres du MAT ont reçu l'autorisation de mettre des bubbles sur des beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approved).
   - Seule une des deux bubble d'une beatmap approuvée pouvait être placée par un membre du MAT.
   - Ce changement a été mis en œuvre parce que les beatmaps approuvées devenaient plus courantes.
 - **23/08/2011 :** La "Beatmap Approval Team" a été renommé en "Beatmap Appreciation Team".
@@ -124,7 +124,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **21/08/2012 :** Les beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) ont commencé à faire gagner du score classé.
+- **21/08/2012 :** Les beatmaps de la catégorie [approuvée](/wiki/Beatmap/Category#approved) ont commencé à faire gagner du score classé.
   - Le score classé n'est plus utilisé comme principale mesure de score, de sorte que les beatmaps approuvées ne peuvent plus être utilisées abusivement pour le classement des joueurs.
 
 **1460 beatmaps** ont été classées en 2012.
@@ -153,15 +153,15 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **01/08/2013 :** La politique de déclassement des beatmaps a été mise en place, permettant aux membres du BAT de déclasser un beatmap dans la semaine suivant son classement. 
-  - Ce changement était un test pour la catégorie [qualifiée](/wiki/Beatmap/Category#qualifiée) qui a été implémentée plus tard.
+- **01/08/2013 :** La politique de déclassement des beatmaps a été mise en place, permettant aux membres du BAT de déclasser un beatmap dans la semaine suivant son classement.
+  - Ce changement était un test pour la catégorie [qualifiée](/wiki/Beatmap/Category#qualified) qui a été implémentée plus tard.
 - **02/08/2013 :** Les premiers BAT du mode osu!taiko ont été ajoutées, ce qui signifie une séparation des autorisations de mode de jeu dans le groupe.
   - Avant cette date, n'importe quel BAT pouvait théoriquement proposer des beatmaps de n'importe quel mode, mais la croissance des différents modes de jeu a rendu cette distinction nécessaire.
 
 ### Décembre
 
-- **12/12/2013 :** Les beatmaps avec deux nominations ont commencées à être promues dans la catégorie [qualifiée](/wiki/Beatmap/Category#qualifiée) au lieu de la catégorie classée.
-  - Les beatmaps qualifiées pourraient être disqualifiées dans un délai d'une semaine, remplaçant ainsi la possibilité de déclasser une beatmap dans un délai d'une semaine. 
+- **12/12/2013 :** Les beatmaps avec deux nominations ont commencées à être promues dans la catégorie [qualifiée](/wiki/Beatmap/Category#qualified) au lieu de la catégorie classée.
+  - Les beatmaps qualifiées pourraient être disqualifiées dans un délai d'une semaine, remplaçant ainsi la possibilité de déclasser une beatmap dans un délai d'une semaine.
 - **22/12/2013 :** Le [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate) fait tourner ses dirigeants régionaux pour éviter l'épuisement.
   - ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) représentait l'Amérique du Nord, ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) l'Asie, et ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) l'Europe.
 
@@ -172,7 +172,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Février
 
 - **10/02/2014 :** Pour améliorer l'organisation, le système de modding et de mapping, la gestion interne est passée des forums à Trello.
-- **18/02/2014 :** La catégorie [approuvée](/wiki/Beatmap/Category#approuvée) a été retirée.
+- **18/02/2014 :** La catégorie [approuvée](/wiki/Beatmap/Category#approved) a été retirée.
   - Les beatmaps marathon ont été promus dans la catégorie classée avec 3 nominations BAT (2 icônes `bubble` (![icône bubble](/wiki/shared/icon/bubble.gif)) + 1 icône `flame` (![icône flame](/wiki/shared/icon/flame.gif))).
 
 ### Août

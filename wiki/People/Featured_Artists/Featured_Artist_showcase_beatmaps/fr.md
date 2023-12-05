@@ -390,7 +390,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (25/08/2021)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) organisé par ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) organisé par ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484)
-  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) organisé par ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)     
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) organisé par ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (28/08/2021)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) organisé par ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
@@ -589,7 +589,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) organisé par ::{ flag=FR }:: [-45](https://osu.ppy.sh/users/13400075)
 
 ### Septembre
-  
+
 - **[Andy Gillion](https://osu.ppy.sh/home/news/2022-09-14-new-featured-artist-andy-gillion)** (14/09/2022)
   - (![][osu!]) [Andy Gillion - Insert Coin](https://osu.ppy.sh/beatmapsets/1842568#osu/3784709) organisé par ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
 - **[Alestorm](https://osu.ppy.sh/home/news/2022-09-21-new-featured-artist-alestorm)** (21/09/2022)

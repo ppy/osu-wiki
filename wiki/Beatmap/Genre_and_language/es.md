@@ -23,9 +23,9 @@ El [listado de beatmaps](https://osu.ppy.sh/beatmapsets) tiene filtros disponibl
 
 El género y el idioma se pueden cambiar en el sitio web haciendo clic en el icono del lápiz al pasar el ratón sobre los detalles de un beatmap. La capacidad para hacerlo está determinada por el [grupo del usuarios](/wiki/People/User_group) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del beatmap:
 
-- Los propietarios del conjunto de mapas están permitidos cuando el beatmap está en la categoría [trabajo en progreso](/wiki/Beatmap/Category#trabajo-en-progreso-y-pendientes), [pendientes](/wiki/Beatmap/Category#trabajo-en-progreso-y-pendientes) o [abandonados](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
-- Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el beatmap está en la categoría [calificados](/wiki/Beatmap/Category#calificados), trabajo en progreso o pendientes.
-- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el beatmap está en la categoría [amados](/wiki/Beatmap/Category#amados).
+- Los propietarios del conjunto de mapas están permitidos cuando el beatmap está en la categoría [trabajo en progreso](/wiki/Beatmap/Category#wip-and-pending), [pendientes](/wiki/Beatmap/Category#wip-and-pending) o [abandonados](/wiki/Beatmap/Category#graveyard), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
+- Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el beatmap está en la categoría [calificados](/wiki/Beatmap/Category#qualified), trabajo en progreso o pendientes.
+- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el beatmap está en la categoría [amados](/wiki/Beatmap/Category#loved).
 - Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) y del [Global Moderation Team](/wiki/People/Global_Moderation_Team) están permitidos en todas las categorías.
 
 Un beatmap no puede ser [nominado](/wiki/Beatmap_ranking_procedure#nominations) si tiene el género o idioma `No especificado`.

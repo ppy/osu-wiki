@@ -8,7 +8,7 @@ Submissions to this contest include:
 
 - A triangle-themed beatmap spread...
   - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
-  - following the [ranking criteria](/wiki/Ranking_criteria) 
+  - following the [ranking criteria](/wiki/Ranking_criteria)
   - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard with a `.osb` file under 1 MB.
 - A team of 2-5 participants.
@@ -85,9 +85,9 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 - Focused on mapping content
 - Prizes
-  - **Runner-up:** 3 months of osu!supporter 
+  - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
-- Panelists: 
+- Panelists:
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
   - ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
   - ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861)
@@ -104,7 +104,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 - Focused on storyboard content
 - Prizes
-  - **Runner-up:** 3 months of osu!supporter 
+  - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 - Panelists:
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)

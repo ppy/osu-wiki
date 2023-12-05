@@ -34,7 +34,7 @@ Hit object mulai memudar pada `X - preempt` dengan:
 - AR = 5: `preempt = 1200ms`
 - AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 
-Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga bergantung pada approach rate yang digunakan: 
+Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga bergantung pada approach rate yang digunakan:
 
 - AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
 - AR = 5: `fade_in = 800ms`
