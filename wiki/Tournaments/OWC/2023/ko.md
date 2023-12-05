@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2023 배너](img/owc2023-banner.jpg)
 
-**osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
+**osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최한 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
 
 ## 토너먼트 일정
 
@@ -26,19 +26,19 @@ tags:
 
 ## 상품
 
-osu! 월드컵 2023은 최소 $5000의 상금과 한정판 굿즈가 제공됩니다.
+osu! 월드컵 2023은 총 $5000의 상금과 한정판 상품이 제공되었습니다.
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
-| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
-| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 상품, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
+| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
+| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
 
 ![](img/badge-1st.png "OWC 2023 우승 배지") ![](img/badge-2nd.png "OWC 2023 준우승 배지") ![](img/badge-3rd.png "OWC 2023 3위 배지")
 
 ## 조직
 
-osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커뮤니티 멤버들로 운영됩니다.
+osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커뮤니티 멤버들로 운영되었습니다.
 
 | 직책 | 멤버 |
 | :-- | :-- |
@@ -127,9 +127,9 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## Podium
+## 시상대
 
-![](img/podium.jpg "OWC 2023 podium")
+![](img/podium.jpg "OWC 2023 시상대")
 
 ## 맵풀 목록
 
@@ -701,5 +701,5 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 노트
 
-[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
-[^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
+[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다.
+[^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다.
