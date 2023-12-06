@@ -1,8 +1,6 @@
 ---
 no_native_review: true
 layout: main_page
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -116,7 +114,7 @@ Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! có lẽ sẽ không thể thực hiện được nếu không có sự trợ giúp, bảo trì và quản lý cộng đồng của người dùng: những nỗ lực, thời gian và sự cống hiến của họ giúp trò chơi tồn tại và thịnh vượng.
 
-[Đội ngũ phát triển](/wiki/People/osu!_team): [Những nhà phát triển (DEV)](/wiki/People/Developers) • [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ hỗ trợ](/wiki/People/Support_Team) • [Đội ngũ đánh giá đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Những người tuyển chọn điểm sáng beatmap(BSC)](/wiki/People/Beatmap_Spotlight_Curators)
+[Đội ngũ phát triển](/wiki/People/osu!_team): [Những nhà phát triển (DEV)](/wiki/People/Developers) • [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ hỗ trợ kỹ thuật](/wiki/People/Technical_Support_Team) • [Đội ngũ đánh giá đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Những người tuyển chọn điểm sáng beatmap(BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
 [Những người đóng góp](/wiki/People/Community_Contributors) • [Những người đề cử ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_group) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Các đội trưởng](/wiki/People/Centurions) • [Những người hoàn thành game](/wiki/People/Completionists) • [Đội ngũ chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
