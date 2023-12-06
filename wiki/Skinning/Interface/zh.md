@@ -838,7 +838,7 @@
 
 ### 打击结果
 
-*主页面：[自定义皮肤/常见问题 § 结算屏幕显示层次](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
+*主页面：[自定义皮肤/常见问题 § 结算屏幕显示层次](/wiki/Skinning/FAQ#结算屏幕打击结果层次结构)*
 
 ---
 

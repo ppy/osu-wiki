@@ -4,11 +4,11 @@ title: "Project Loved: September 2021"
 date: 2021-09-28 20:00:00 +0000
 ---
 
-With a new season comes the September iteration of Project Loved! 
+With a new season comes the September iteration of Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-First of all, let us quickly remind everyone about the Project Loved concept in case someone forgot about it. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). 
+First of all, let us quickly remind everyone about the Project Loved concept in case someone forgot about it. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120).
 
 The voting process lasts for 10 days, so don't forget to check out the threads and get involved! You can find out more about this project over on the [wiki](/wiki/Community/Project_Loved)!
 
@@ -19,11 +19,11 @@ As usual, we would like to thank everyone who participated in the August votes. 
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8269956)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8269955)
 
-September comes with good news for Project Loved! The [Project Loved website](https://loved.sh/) is now fully localisable into your native language. Much thanks to the contributors across the community, the website is available in Spanish, Finnish, Swedish and Turkish for the time being. 
+September comes with good news for Project Loved! The [Project Loved website](https://loved.sh/) is now fully localisable into your native language. Much thanks to the contributors across the community, the website is available in Spanish, Finnish, Swedish and Turkish for the time being.
 
 Interested in translating the website to your native language? If so, head over to the [Localisation page of the Project Loved website](https://loved.sh/localization) and follow the steps there! If you wish to contribute to Project Loved, feel free to visit the `#osu-loved` channel in the [osu!dev Discord server](https://discord.com/invite/ppy). If website development is your thing, you can follow the ongoing development progress on [the GitHub repository](https://github.com/cl8n/project-loved-web).
 
-Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, [UberFazz](https://osu.ppy.sh/users/8646059) and [Doomsday](https://osu.ppy.sh/users/18983) — long-time osu! players and contributors — have rolled up their sleeves to assist other osu! captains with Loved nominations. 
+Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, [UberFazz](https://osu.ppy.sh/users/8646059) and [Doomsday](https://osu.ppy.sh/users/18983) — long-time osu! players and contributors — have rolled up their sleeves to assist other osu! captains with Loved nominations.
 
 And speaking of captains, we are also delighted to present you with [Gamelan4](https://osu.ppy.sh/users/9856910), our newest osu!taiko captain, tasked with picking your favourite dons and kats. Coming from the Global Moderation Team, [Zeus-](https://osu.ppy.sh/users/5464437) takes on the responsibility of beatmap content moderation alongside [Noffy](https://osu.ppy.sh/users/1541323) and [Pachiru](https://osu.ppy.sh/users/2850983). As for our last addition to the Project Loved Team, renowned Beatmap Nominator [Hivie](https://osu.ppy.sh/users/14102976) is here to make sure the metadata across all the nominations is accurate.
 
@@ -208,9 +208,9 @@ The osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/
 190 BPM, 2:43 | 10.76★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-If you've ever played a DakkyChan map, then you know: they are tough, and this map is no exception. 
+If you've ever played a DakkyChan map, then you know: they are tough, and this map is no exception.
 
-Do you remember AiAe? This map is basically that, just shorter. But not quite easier, I guess. You're going to have a hard time getting a decent score on this map, if at all. You just have to be fast. Like, really fast. The patterns in this map are no joke. If you survive all the difficult wiggles it throws at you, the long terrifying hyperwalk section at the end will kill you. If it does not, you are not human. 
+Do you remember AiAe? This map is basically that, just shorter. But not quite easier, I guess. You're going to have a hard time getting a decent score on this map, if at all. You just have to be fast. Like, really fast. The patterns in this map are no joke. If you survive all the difficult wiggles it throws at you, the long terrifying hyperwalk section at the end will kill you. If it does not, you are not human.
 
 Don't even consider using mods on it. I'm serious. Anyway, put it simply, this is a map of good quality aimed towards the best of the best. Give it a try, if you dare.
 
@@ -220,7 +220,7 @@ Don't even consider using mods on it. I'm serious. Anyway, put it simply, this i
 145 BPM, 2:13 | 4.79★, 4.79★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-Dika312 has recently gained fame among the players for his unique style and stylish patterns. This map, *$trange Attraktor*, shows the excellence of his gimmick mapping skill. The difficulty, which was used in a FreeMod mappool in AxS, is designed to pay attention to both accuracy and precision where you need to treat the slider-ticks as the notes. With NoMod and Hidden, the sliders seem relatively clean due to the use of the most excellent mapping tool of all time, the Droplet Derandomizer by Phob. 
+Dika312 has recently gained fame among the players for his unique style and stylish patterns. This map, *$trange Attraktor*, shows the excellence of his gimmick mapping skill. The difficulty, which was used in a FreeMod mappool in AxS, is designed to pay attention to both accuracy and precision where you need to treat the slider-ticks as the notes. With NoMod and Hidden, the sliders seem relatively clean due to the use of the most excellent mapping tool of all time, the Droplet Derandomizer by Phob.
 
 Still, with the addition of HardRock you'll see many wacky slider paths, so you should be prepared for a further accuracy challenge if you ever plan to conquer the map with the HardRock mod.
 
@@ -279,7 +279,7 @@ The \[Pocari Sweat (Marathon)\] and \[do you know da wae (Marathon)\] difficulti
 
 BEFORE YOU VOTE, LISTEN TO ME, PLEASE! Alright... so let's get this out there. Vibro, to many in the VSRG community, is one of the most divisive skillsets. It's a skillset solely dedicated to a player's ability to absolutely brute force their way through patterns that, to an average player, look ridiculous, to say the least. This preface is essential to set the tone, as we aren't totally confident in a vibro-centered map/set's ability to pass the voting since charts in this vein have shown to perform shoddily in the past. However, I think it's time to give it another shot. arpia's Vibro Anthology over here is by far the most well-known pack on osu! dedicated to this skillset, and honestly, I think it's for a good reason.
 
-There are 37 difficulties and a wide assortment of different songs for keyboard smashers of all kinds. Although, it must be said with heavy hearts that the incredible "do you know da wae" must be excluded due to length reasons. Aside from that, though, there's a good assortment of songs here that are all varying in length, all making sure that those who decide to play them can hit vibro walls. From the endless quad barrages of ATTang's Electric Butterfly to the 372 BPM LN bursts of Promise, names are sure to be taken in the process of people playing these maps. 
+There are 37 difficulties and a wide assortment of different songs for keyboard smashers of all kinds. Although, it must be said with heavy hearts that the incredible "do you know da wae" must be excluded due to length reasons. Aside from that, though, there's a good assortment of songs here that are all varying in length, all making sure that those who decide to play them can hit vibro walls. From the endless quad barrages of ATTang's Electric Butterfly to the 372 BPM LN bursts of Promise, names are sure to be taken in the process of people playing these maps.
 
 There isn't a lot to say past that, as these maps speak for themselves. arpia has been a long-time creator and player of vibro content, and we genuinely believe that this pack more than deserves to be in the Loved section. However, if you are not a vibro player, we implore you to consider those who are, as giving this pack a chance would be some validation that their niche means something. Alright, LET'S VOTE.
 
@@ -291,7 +291,7 @@ There isn't a lot to say past that, as these maps speak for themselves. arpia ha
 
 *FUTURE DOMINATORS* IS HERE! This is one of IcyWorld's many infamous and classic maps, and it dates all the way back to the end of 2013, which means we are coming up on the 8th anniversary of its creation. A short piece of trivia that I think many of you may not be aware of is that the version we know and play today is slightly different than the first version that Icy put out to the public. To anyone curious, you can find a [video](https://www.youtube.com/watch?v=GzUG4rAyG-U) along with a link in its description to check out that first version. It was very similar to the final rendition; however, the second half contained some tricky minijacks, which were later changed up.
 
-With a bit of that history out of the way, let's talk about the map itself. At 210 BPM, you will be experiencing the handstream and roll patterning right out of the gate that Icy has been trademarked for. Honestly, the first couple of minutes can be called pretty tame compared to what the chorus sections offer. Coming off of the more tame intro, the chorus smacks you with an unrelenting, full-density handstream that sees you transitioning from hand to hand with these heavy anchors and splittrills. 
+With a bit of that history out of the way, let's talk about the map itself. At 210 BPM, you will be experiencing the handstream and roll patterning right out of the gate that Icy has been trademarked for. Honestly, the first couple of minutes can be called pretty tame compared to what the chorus sections offer. Coming off of the more tame intro, the chorus smacks you with an unrelenting, full-density handstream that sees you transitioning from hand to hand with these heavy anchors and splittrills.
 
 After that first chorus is completed, DJ Sharpnel was kind enough to lead into a break, and if you ask me, that break is needed for what's to come. The final 2 minutes of the map give you no rest whatsoever as it's a complete splittrill, handstream, and jumptrill hellfest, which has managed to push the stamina and explosivity of players of all kinds for all of these years.
 
@@ -303,7 +303,7 @@ Keep in mind that this is all just on 1.0 as well. As is tradition with Icy's co
 140.8 BPM, 5:00 | 4.67★, 5.06★, 5.48★, 5.83★, 6.23★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-Evening makes their way back into Loved, with their ever-popular chart of *Hysteric Night Girl*! 
+Evening makes their way back into Loved, with their ever-popular chart of *Hysteric Night Girl*!
 
 If you're an osu!mania player who has been in the community for more than a few minutes, you know who Evening is. They're a veteran of the community who has put out some of the most influential and groundbreaking content over these years. From [Singularity](https://osu.ppy.sh/beatmapsets/501530#mania/1073953) and [Backbeat Maniac](https://osu.ppy.sh/beatmapsets/586848#mania/1242696)'s visual spectacles to maps that were once and still used as benchmarks of a player's physical abilities, such as [Tengaku](https://osu.ppy.sh/beatmapsets/411341#mania/892596) or [Meikaruza](https://osu.ppy.sh/beatmapsets/1188943#mania/2477654), Evening has no shortage of meaningful content. With so much content over such a long period, it's easy to look from back then to now and see how their charting style and quirks have developed over the years. One such development is the maturing of Evening's ability to create impactful and fun dump charts such as *Hysteric Night Girl* over here.
 
@@ -317,7 +317,7 @@ The term "dump charting" can mean many things to a lot of different people, but 
 
 Loebad's set of *Satori De Pon!* is finally making its way to the Loved votings! This set gained popularity pretty much immediately after it was uploaded over 5 years ago. Many people should be familiar with Ar3sgice's [multi-mode set](https://osu.ppy.sh/beatmapsets/46502#mania/201522) for this song that was put into Loved back in 2018, along with qodtjr's [7K set](https://osu.ppy.sh/beatmapsets/400292#mania/1653265) that joined Loved in the same year. *Satori De Pon!* has certainly seen no shortage of Loved real estate.
 
-Let's talk about the set in front of us, though. There are 8 difficulties here, seven 4K and one little lonely 7K difficulty. All of them follow a very similar structure, just with different levels of difficulty. Starting with the easier diffs, the 4K EZ and NM, along with the 7K HD, are all pretty toned-down maps that provide some mellow patterning for anyone who is either new or looking for some easy accuracy patterning. 
+Let's talk about the set in front of us, though. There are 8 difficulties here, seven 4K and one little lonely 7K difficulty. All of them follow a very similar structure, just with different levels of difficulty. Starting with the easier diffs, the 4K EZ and NM, along with the 7K HD, are all pretty toned-down maps that provide some mellow patterning for anyone who is either new or looking for some easy accuracy patterning.
 
 Moving on to the more challenging things, the 4K SC is a reasonably dense jumpstream map that will put your stamina to the test. The SHD and Meggumi's Lunatic are both difficult handstream-based maps that are a definite step up from SC because of their heavy and relentless anchor usage. There isn't much more to say here, as this set is very straight and to the point, much like this classic goreshit song. Show your love to the set by sending your vote!
 
@@ -327,9 +327,9 @@ Moving on to the more challenging things, the 4K SC is a reasonably dense jumpst
 74 BPM, 3:21 | 3.36★, 3.63★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-We also have something nice for all SV enthusiasts (and people who don't like getting up early in the morning)! Parachor's map of *difficulties of getting out of bed* is one of the more popular SV charts, gaining significant traction through the two years since its release. 
+We also have something nice for all SV enthusiasts (and people who don't like getting up early in the morning)! Parachor's map of *difficulties of getting out of bed* is one of the more popular SV charts, gaining significant traction through the two years since its release.
 
-As far as SV maps nominated for Loved go, Parachor's map is one of the less intimidating ones. The cozy and calm intro drops right into the main reading section with easy minijack patterning. It doesn't take too much time to get used to, but the main difficulty of that part is the occasional SV traps that can net a miss or two. Said section repeats at the ending of the chart, and there's also a neat memorization part in the middle of the chart that might be quite a surprise during the sightread! 
+As far as SV maps nominated for Loved go, Parachor's map is one of the less intimidating ones. The cozy and calm intro drops right into the main reading section with easy minijack patterning. It doesn't take too much time to get used to, but the main difficulty of that part is the occasional SV traps that can net a miss or two. Said section repeats at the ending of the chart, and there's also a neat memorization part in the middle of the chart that might be quite a surprise during the sightread!
 
 Overall, the song is well accentuated with clean and straightforward LNs guiding through the guitar and vocals, and the quality of refinement is honestly impressive. This map is excellent proof that an SV map doesn't need to be hard to be fun, so go ahead and vote for it right now, especially since it's Parachor's first map nominated for Loved!
 
@@ -341,7 +341,7 @@ Overall, the song is well accentuated with clean and straightforward LNs guiding
 
 Let's all welcome Ticle back to the Loved votings with their hugely popular LN-based map of *Relive*! Created in 2019, this map showcased, especially at the time, the creative approach that Ticle tends to take with their pattern layering. Much of the LNs here are staggered onto 1/6 and 1/12 snappings, so whether you're in the eclectic and dense chorus bits or the more mellowed sections of the song, you will always be finding that your ability of releasing the notes accurately is tested. However, a bone is thrown to the players with the low OD values of these diffs at 6 and 5.5, leaving a good amount of leniency to the timing of these releases (on ScoreV1, that is).
 
-We should also talk about the slight differences between the 2 diffs here, which are largely minuscule. Memory Snow was Ticle's original OD 5.5 diff. It contains largely identical mapping, apart from some visual gimmicks that are removed in the other diff. For the Snow Thaw difficulty, I'm sure that a good number of players are familiar with this chart due to its inclusion in the MWC 2020 Finals mappool. The use of ScoreV2 in tournaments for a chart of this kind caused it to be ferocious to accurately time, and I think all players of that tournament would undoubtedly agree. 
+We should also talk about the slight differences between the 2 diffs here, which are largely minuscule. Memory Snow was Ticle's original OD 5.5 diff. It contains largely identical mapping, apart from some visual gimmicks that are removed in the other diff. For the Snow Thaw difficulty, I'm sure that a good number of players are familiar with this chart due to its inclusion in the MWC 2020 Finals mappool. The use of ScoreV2 in tournaments for a chart of this kind caused it to be ferocious to accurately time, and I think all players of that tournament would undoubtedly agree.
 
 Many people struggled to be consistent on this chart, and for that reason alone, it's certainly one of the more memorable picks from that entire tournament. Outside of that context, however, I can say what's here is a very soundly made and enjoyable LN experience that a big community of people has come to enjoy. Let's all give our thanks to Ticle for the maps they've created over the years!
 
@@ -375,9 +375,9 @@ The patterns in *The Truth Never Spoken* are clean and comfortable — the main 
 164 BPM, 4:37 | 5.63★, 7.28★\
 *description written by [Kawawa](https://osu.ppy.sh/users/4647754)*
 
-Us, the osu!mania captains, have been wanting to prioritize bringing new faces to Project Loved in the recent waves, and we are excited to welcome to everyone the first map from Pikobaka! 
+Us, the osu!mania captains, have been wanting to prioritize bringing new faces to Project Loved in the recent waves, and we are excited to welcome to everyone the first map from Pikobaka!
 
-*Kimiiro Signal* is a very comfortable LN chart that mainly focuses on chordstream patterning and LN stairs. It starts off relatively tame, but the density increases gradually at the refrain section. Everything here works powerfully, and I am sure this will be a good starting point for those players who are newer to LNs but are looking to at least give their readings a challenge. The 4K chart here by Niima requires a specific technique that includes minijacks and whole LN skill, especially into the second half of the chorus, which becomes noticeably harder. Please be careful of the mini LNs, as they will strictly test your accuracy. 
+*Kimiiro Signal* is a very comfortable LN chart that mainly focuses on chordstream patterning and LN stairs. It starts off relatively tame, but the density increases gradually at the refrain section. Everything here works powerfully, and I am sure this will be a good starting point for those players who are newer to LNs but are looking to at least give their readings a challenge. The 4K chart here by Niima requires a specific technique that includes minijacks and whole LN skill, especially into the second half of the chorus, which becomes noticeably harder. Please be careful of the mini LNs, as they will strictly test your accuracy.
 
 That's all I have to say, we hope everyone has fun with some noodles accompanying this catchy song, and we are happy again to bring you all the first nomination from Pikobaka!
 
@@ -387,7 +387,7 @@ That's all I have to say, we hope everyone has fun with some noodles accompanyin
 201 BPM, 4:01 | 3.65★, 4.94★, 6.55★, 7.41★\
 *description written by [Kawawa](https://osu.ppy.sh/users/4647754)*
 
-We have decided to bring you another set from Wonki this round with some strong community demand. *Galaxy Burst* is targeted at skilled players who are used to playing SV and can keep their stamina under control. Heavy chords are the general approach taken on this chart, which at over 200 BPM is no joke, and the SV included makes them feel even heavier. These dense patterns are happening even before you reach the climax, where you will truly see why this song is titled with "Burst" in the name. You will see a 1/8 snapping hellfest that will put even some of the best players' physicality to the test. 
+We have decided to bring you another set from Wonki this round with some strong community demand. *Galaxy Burst* is targeted at skilled players who are used to playing SV and can keep their stamina under control. Heavy chords are the general approach taken on this chart, which at over 200 BPM is no joke, and the SV included makes them feel even heavier. These dense patterns are happening even before you reach the climax, where you will truly see why this song is titled with "Burst" in the name. You will see a 1/8 snapping hellfest that will put even some of the best players' physicality to the test.
 
 Also, to everyone playing, don't forget to check out the lower difficulties! Turrim offers a pure rice chart, and Jakads made a unique map in which all notes are LN. Although it is technically biased to rice skill, the accompanying LN tails will heavily test your accuracy abilities. The Hard diff here is even providing some surprisingly tricky patterns for the audience that it's targeting. Please give your support to what everyone has done on this popular set by sending your vote!
 
@@ -397,9 +397,9 @@ Also, to everyone playing, don't forget to check out the lower difficulties! Tur
 260 BPM, 3:44 | 8.41★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Yuko-'s *Japanese Transformation* is probably one of the most iconic 7K rice charts out there. Back when it was uploaded, it was one of the charts that only the legendary ETs could play, and even now, after 5 years, it still presents a formidable challenge to anyone daring to try this monstrosity. At first glance, one can already see the whopping 8.44 star rating — a pretty rare sight, considering this chart contains no long notes. However, patterns used by dreammaster are way more comfortable than they would seem. The most challenging aspect of Japanese Transformation is its BPM of 260, going well beyond anything commonly found in the 7K realm. 
+Yuko-'s *Japanese Transformation* is probably one of the most iconic 7K rice charts out there. Back when it was uploaded, it was one of the charts that only the legendary ETs could play, and even now, after 5 years, it still presents a formidable challenge to anyone daring to try this monstrosity. At first glance, one can already see the whopping 8.44 star rating — a pretty rare sight, considering this chart contains no long notes. However, patterns used by dreammaster are way more comfortable than they would seem. The most challenging aspect of Japanese Transformation is its BPM of 260, going well beyond anything commonly found in the 7K realm.
 
-The map starts with a relatively easy intro section, quickly becoming a fury of fast and unforgiving chordstreams. Luckily, as mentioned before, the patterning is friendly, which helps manage the blazing pace of the chart, and multiple handtrills help in conserving stamina and HP. After the initial impact, the middle part consists of some basic chordstream and chord smash section, which, albeit still rather difficult, is breathing room for what will come up next. The finale of the chart is the last chorus that contains extended and increasingly dense chordstreams with bursts and trills scattered everywhere. 
+The map starts with a relatively easy intro section, quickly becoming a fury of fast and unforgiving chordstreams. Luckily, as mentioned before, the patterning is friendly, which helps manage the blazing pace of the chart, and multiple handtrills help in conserving stamina and HP. After the initial impact, the middle part consists of some basic chordstream and chord smash section, which, albeit still rather difficult, is breathing room for what will come up next. The finale of the chart is the last chorus that contains extended and increasingly dense chordstreams with bursts and trills scattered everywhere.
 
 All of this comes neatly wrapped up, with every pattern being perfectly understandable, and nothing is out of place. This chart has been executed very well, which is not easy to do at such a difficulty level. That's why advanced 7K players should find this pick very enjoyable and competitive. Vote on this and get yourself a nice place on the leaderboards to assert domination!
 
@@ -411,7 +411,7 @@ All of this comes neatly wrapped up, with every pattern being perfectly understa
 
 \_Stan makes their first appearance to Loved, with their 5-diff collaborative set of Gunkyouzouteki Soseiriron! Stan is a hardworking charter, which I'm sure many people who keep up with ranked charts should be familiar with. From the eclectic unapologetic patterning of *[Dream to Nightmare](https://osu.ppy.sh/beatmapsets/527728#mania/1125576)* to the creative and diverse hybrid charting of *[Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1281422#mania/2879332)*, Stan has proven to be an essential member of the community over the years and has even contributed to Ranked standard sets! To any unfamiliar, this song is a chaotic and intense piano-based track based on Camellia's *Xroniel Xero* album and features a collaboration between him and the equally legendary Tsukasa Kaminose.
 
-Onto the set, which as a chart for a collaboration between these two artists should be, is a full collaboration between a myriad of different charters. Those charters include \_Stan, Kyousuke-, biemote, \[Emiria\] (otherwise known as victorica_db), and myself. Besides all of us simply having GDs on the set, the catch is that each of the 5 difficulties is of a different key count. These diffs go from 4K up to 8K, and all of what's here will give players a different experience from one map to the next. From the full rice approach of the 8K to the hybrid centered patterning of the 7K and 4K, each approach to the song brings something distinct to the table. 
+Onto the set, which as a chart for a collaboration between these two artists should be, is a full collaboration between a myriad of different charters. Those charters include \_Stan, Kyousuke-, biemote, \[Emiria\] (otherwise known as victorica_db), and myself. Besides all of us simply having GDs on the set, the catch is that each of the 5 difficulties is of a different key count. These diffs go from 4K up to 8K, and all of what's here will give players a different experience from one map to the next. From the full rice approach of the 8K to the hybrid centered patterning of the 7K and 4K, each approach to the song brings something distinct to the table.
 
 Seeing a well-constructed key-spread is rare enough these days, let alone one put together in a way that's been done here. We're thankful for Stan's contributions to the community over the years and look forward to what they have to offer in the future!
 
@@ -422,9 +422,9 @@ Seeing a well-constructed key-spread is rare enough these days, let alone one pu
 The \[Mirror went\] difficulty is *not* being nominated for Loved.\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Most of 7K players probably have played a chart from this pack at least once in their osu!mania career. Arise's *7K Endurance and technical training pack* (also known as Xcaliboor, especially in the 4K community) is a seasoned classic gallery of relatively standard chordstream charts with some LN sections here and there. The choice of difficulties ranges from averagely hard (like "Midnight lighting bolt" and "Sister's noise") to very challenging ("Aim burst" and "Love is war"). 
+Most of 7K players probably have played a chart from this pack at least once in their osu!mania career. Arise's *7K Endurance and technical training pack* (also known as Xcaliboor, especially in the 4K community) is a seasoned classic gallery of relatively standard chordstream charts with some LN sections here and there. The choice of difficulties ranges from averagely hard (like "Midnight lighting bolt" and "Sister's noise") to very challenging ("Aim burst" and "Love is war").
 
-Although the pack's name mentions technical patterning, its theme is focused on endurance, and there's a tiny technicality in the charts apart from some sparse LN sections. Now a word of warning: the patterning of chordstreams used is very basic and doesn't stand out for the most part. The quality of some charts isn't stellar, but the pack never was about following the music as closely as possible. 
+Although the pack's name mentions technical patterning, its theme is focused on endurance, and there's a tiny technicality in the charts apart from some sparse LN sections. Now a word of warning: the patterning of chordstreams used is very basic and doesn't stand out for the most part. The quality of some charts isn't stellar, but the pack never was about following the music as closely as possible.
 
 As this is the Endurance pack, its main focus is stamina, and playing these charts is an excellent way to improve the 7K muscles and get used to chordstreaming on many different levels. We hope you will warmly welcome Arise's pack as there is a lot of content to set a score on!
 
@@ -434,7 +434,7 @@ As this is the Endurance pack, its main focus is stamina, and playing these char
 167 – 198 BPM, 8:13 | 9.79★, 10.48★, 11.76★, 12.29★, 13.26★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-There it is, the final exam of 7K LN abilities and the last part of revamped Jinjin Dans that go up into the Loved voting — *LN Dan Phase III*! There are 5 Dans in this pack: 9th, 10th, Gamma, Azimuth, and Zenith. Since all of you probably know what they are about, I'll keep this short. Dans are sets of 4 songs played consecutively with small breaks inbetween. Each piece is focused on a different aspect of gameplay; in the case of the LN Dans, there are general, tech, inverse, and LN release maps. Passing the course with 95% or more counts as a clear. 
+There it is, the final exam of 7K LN abilities and the last part of revamped Jinjin Dans that go up into the Loved voting — *LN Dan Phase III*! There are 5 Dans in this pack: 9th, 10th, Gamma, Azimuth, and Zenith. Since all of you probably know what they are about, I'll keep this short. Dans are sets of 4 songs played consecutively with small breaks inbetween. Each piece is focused on a different aspect of gameplay; in the case of the LN Dans, there are general, tech, inverse, and LN release maps. Passing the course with 95% or more counts as a clear.
 
 If you want to know more, be sure to check the mapset's description. These courses are a way to track your progress in the LN department and act as a standard of difficulty for other maps to compare to. Be sure to vote for the last remaining puzzle in the 7K Jinjin Dan set, and good luck with clearing some of the hardest 7K LN courses osu!mania has to offer!
 
@@ -444,14 +444,14 @@ If you want to know more, be sure to check the mapset's description. These cours
 185 BPM, 2:05 | 1.20★ – 6.44★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-hokin1995's 4K difficulties on *-+* are rather simple, with a simple chord and jumpstream patterning accompanied with a few LNs and easy bursts. There's nothing much to say about them other than that they're a decent choice for beginner players. 
+hokin1995's 4K difficulties on *-+* are rather simple, with a simple chord and jumpstream patterning accompanied with a few LNs and easy bursts. There's nothing much to say about them other than that they're a decent choice for beginner players.
 
-On the other hand, 7K difficulties made by pwhk are much more challenging. While lower difficulties resemble the 4K portion of the set, the highest two introduce a lot of complexity to the gameplay. The patterning is based chiefly on chordtrills and doublestreams, some of which are rough in terms of patterning as this map is quite far from modern and resembles BMS style. Some occasional bracket sequences also transition into difficult minijacks on the hardest difficulty. The main meat of the charts are the very fast stair bursts in the middle section followed by an even harder buildup into the somewhat tame chorus, which then again gains on intensity. The chart ends with a dense chordstream and a calm outro. 
+On the other hand, 7K difficulties made by pwhk are much more challenging. While lower difficulties resemble the 4K portion of the set, the highest two introduce a lot of complexity to the gameplay. The patterning is based chiefly on chordtrills and doublestreams, some of which are rough in terms of patterning as this map is quite far from modern and resembles BMS style. Some occasional bracket sequences also transition into difficult minijacks on the hardest difficulty. The main meat of the charts are the very fast stair bursts in the middle section followed by an even harder buildup into the somewhat tame chorus, which then again gains on intensity. The chart ends with a dense chordstream and a calm outro.
 
 *-+* is a pretty fun legacy pick and a remnant of an older era, and it's time it got Loved alongside other game mode difficulties.
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Until then, make sure to enjoy the picks and cast your votes! 
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Until then, make sure to enjoy the picks and cast your votes!
 
 —Pachiru

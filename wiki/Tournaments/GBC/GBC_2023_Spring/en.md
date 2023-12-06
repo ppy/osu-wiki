@@ -8,7 +8,7 @@ tags:
 
 # GB Cup 2023 Spring
 
-![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png) 
+![GBC 2023 Spring Banner](img/GBC-2023-Spring-banner.png)
 
 The **GB Cup 2023 Spring** (***GBC 2023 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the third instalment of the GB Cup.
 
@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals 
+### Grand Finals
 
 Saturday, 10 June 2023:
 
@@ -100,7 +100,7 @@ Saturday, 10 June 2023:
 | StarTemplar | 3 | **7** | **[GB]nyasun** | [#2](https://osu.ppy.sh/community/matches/108931620) |
 | **[GB]nyasun** | **7** | 2 | StarTemplar | [#3](https://osu.ppy.sh/community/matches/108932352) |
 
-### Finals 
+### Finals
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=3ag0fa).
 
@@ -226,7 +226,7 @@ Due to the large number of players and matches, the match results will be displa
 | B | 0 – 4499 |
 
 5. If the 4K pp of a player is much higher than the upper limitation of his level, he will be forced to promote into next level. The buffer is *100 pp*.
-6. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 7. Organisers may force to promote some players that are considered too strong in their levels.
 8. Organisers reserve the right to decline restricted players from participating in the tournament.
 9. It is allowed for players to request to promote their level. They need to send some result screenshotsof next level to the organiser for getting premission.

@@ -13,10 +13,12 @@ This page covers some of the tasks that you may face while contributing. The app
 In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes — this can be done directly from GitHub:
 
 1. Go to your fork of the `osu-wiki` repo.
+
 2. Select the `master` branch from the dropdown.
+
 3. Click `Fetch upstream`, and select `Fetch and merge`.
 
-![](img/update-branch.png "Updating the outdated branch")
+   ![](img/update-branch.png "Updating the outdated branch")
 
 Now your branch is up-to-date with the original repository.
 
@@ -27,22 +29,18 @@ This solution works fine in most cases, although the feature itself has limited 
 If you encountered any problems while using the GitHub tool or you want to overwrite your branch's contents, you can use the workflow written by the osu! wiki contributors.
 
 1. Open **your fork** and go to the `Actions` tab.
-2. In `Workflows`, look for `Sync from osu! upstream`.
+
+2. On the left sidebar, look for `Sync with ppy:master`.
+
 3. Click `Run workflow` and fill in the options:
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+   ![Screenshot of the form on the GitHub website described below](img/github-actions-workflow-dispatch.png "GitHub Actions workflow dispatch menu")
 
-- **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
-- **Overwrite any changes in the target repository**:
-  - `true`: replace the contents of your branch with a clean copy of the `master` branch from `ppy/osu-wiki`.
-  - `false` (default): merge your changes with the ones on `ppy/osu-wiki`.
-- **Create a backup of your target branch**:
-  - `true`:  make a branch called `backup-{name of your branch}` before changing it.
-  - `false` (default): do not make any backups.
+   - **Use workflow from**: Target branch that you want to sync. By default, it is set to `master`.
+   - **Create a backup of the selected branch**: Creates a copy of the target branch at `{branch name}-backup` on your fork before attempting to update it.
+   - **Overwrite all history of the selected branch**: Replaces the target branch with `ppy:master`, discarding all of its differing commits. By default, `ppy:master` will be merged into the target branch.
 
-4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync from osu! upstream` workflow task.
-
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+4. Click the `Run workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync with ppy:master` workflow task.
 
 ## Making edits
 
@@ -90,12 +88,10 @@ There are two reasons for why a conflict could have happened:
 Depending on the severity of the conflicts, you have two options on how to fix this:
 
 1. If your pull request has the `Resolve conflicts` button, click on that. This will open a slightly different version of the web editor.
-
    1. GitHub will highlight the conflicting areas. Find one of them.
    2. Everything from `<<<<<<<` to the `=======` is your changes, whereas everything from `=======` to `>>>>>>> master` is what's in the `ppy/master` branch.
    3. From here, you will need to manually fix the conflict and delete the lines with the `<<<<<<<`, `=======`, and `>>>>>>> master` markings.
    4. Repeat the process for all conflicts.
    5. When completed, click `Mark as resolved` (this is only available when all conflicting parts of the file are resolved).
-
 2. If the `Resolve conflicts` button is blocked due to the conflicts being too complicated for GitHub, you are out of luck and will need to [update your branch](#syncing-the-fork) and make your changes again.
    - *Note: This is only true if you are limited to using the GitHub web interface.* There are still ways to fix it, but they don't belong to the scope of this article. Moreover, it is probably not worth the effort to do so, because you will overwrite and revert the conflicting changes.

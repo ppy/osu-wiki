@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - Corsace Open 2023"
+title: osu! originals - Corsace Open 2023
 date: 2023-09-23 12:00:00 +0000
 ---
 
@@ -78,7 +78,7 @@ If you're not in the mapping mood quite yet, experiencing these tunes through ev
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/TAG - Astral Stranger.mp3">
 </audio>
 
-### [unfeeling - necrosis of warm memories](https://osu.ppy.sh/beatmapsets/2040003) mapped by [fergas](https://osu.ppy.sh/beatmapsets/2040003) 
+### [unfeeling - necrosis of warm memories](https://osu.ppy.sh/beatmapsets/2040003) mapped by [fergas](https://osu.ppy.sh/beatmapsets/2040003)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/unfeeling - necrosis of warm memories.mp3">
