@@ -18,7 +18,7 @@ Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto fl
 
 Los miembros de Beatmap Nominators están divididos en dos grupos: miembros completos y miembros provisionales.
 
-## Beatmap Nominators completos
+### Beatmap Nominators completos
 
 Además del modding y clasificación regular de beatmaps, los miembros completos de Beatmap Nominators son los responsables de descalificar los beatmaps en la sección calificados que tengan problemas. Los Beatmap Nominators completos también pueden participar en la evaluación ocasional de solicitudes de Beatmap Nominators si están interesados en unirse al Nomination Assessment Team en el futuro.
 
@@ -26,7 +26,7 @@ Aproximadamente cada tres meses, el [Nomination Assessment Team](/wiki/People/No
 
 Los Beatmap Nominators completos con una actividad de nominación por debajo del mínimo no serán puestos a prueba, sin embargo, serán eliminados del grupo si su actividad no mejora.
 
-## Beatmap Nominators provisionales
+### Beatmap Nominators provisionales
 
 El período de prueba se usa para monitorear más de cerca a los Beatmap Nominators nuevos o degradados. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
