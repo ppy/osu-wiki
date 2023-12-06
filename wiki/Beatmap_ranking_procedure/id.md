@@ -8,7 +8,7 @@ outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
 
-Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku. 
+Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku.
 
 ## Modding
 

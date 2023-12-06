@@ -150,7 +150,7 @@ Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And y
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
 Resident shipgirl admirer/admiral [Daikyi](https://osu.ppy.sh/users/811832) gets his first nominated chart for the Loved section with [Kan-Construction](https://osu.ppy.sh/beatmapsets/487454). His charting tendencies are difficult to overlook: His music selection (which are usually dynamic sonic affairs) and slight playfulness are two of his idiosyncrasies, but he has this level of technical proficiency at capturing multiple levels of musical intensity that is hard to compare.
- 
+
 He does not hide his technical prowess in this chart. In this chart, Daikyi strings a myriad of patterns (e.g. fast jacks, long split jumptrills) that are typically seen as unconventional and uncomfortable to equally unconventional rhythms to create an end product. That end product can be interpreted as dynamic, methodical, complementary, and, above all, refreshing.  I consider this to be Daikyi's best chart, and his list of good charts is not small by any means. For any player who enjoys technical charts, this should be a definite staple in your catalogue. For its dynamic nature, community acceptance, and general novelty, it only makes sense for this chart to be a nominee for the Loved section.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/in-black-and-white.jpg)](https://osu.ppy.sh/community/forums/topics/715065)
@@ -158,9 +158,9 @@ He does not hide his technical prowess in this chart. In this chart, Daikyi stri
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
 Someone told me that we didn't have enough Camellia in the more recognised sections of osu!mania. I don't know if what he said is facetious or not, but here is another Camellia chart anyway.
- 
+
 [Lude](https://osu.ppy.sh/users/6974536) has been charting for a few years, but he is a charter that I feel is overlooked by many. He gets his first ever nominated chart with [In Black & White](https://osu.ppy.sh/beatmapsets/560464), a chart that nicely displays the modern charting meta today. The chart and song choice seems to be heavily inspired by charts such as [Glitch Nerds](https://osu.ppy.sh/beatmapsets/462748) and [PLANET//SHAPER](https://osu.ppy.sh/beatmapsets/376293); charts that utilise both heavy layering and heavy SV usage, but Lude throws in his own flair with very tasteful LN usage to complement the chart's already hectic structure. What you get is a chart that is not only memorable in its splendour, but also intricate in its approach.
- 
+
 Given the popularity of the aforementioned charts, there is going to be a considerable demand for charts like In Black & White. Tie that with the fact that In Black & White is solidly done, and it makes this chart a solid contender for the Loved section.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/ooi.jpg)](https://osu.ppy.sh/community/forums/topics/715066)
@@ -184,9 +184,9 @@ Have you really met your match?
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
 Stepmania? Stepmania.
- 
+
 Despite the highest difficulty being primarily used as a benchmark to assess a player's streaming ability, [hi19hi19](https://osu.ppy.sh/users/1014473)'s [Trickstarz](https://osu.ppy.sh/beatmapsets/349432) mapset has simple yet sound structures to go with their viability for skill assessment. The highest difficulty has blistering fast streams clocking at 354 BPM 1/4s (23.6 notes per second!) that only get longer as the song progresses complemented with chordjack patterns that are very prone to error. While the chart is certainly challenging, simplicity is very much beauty here; I see many players coming back to it due to how straight-forward and rewarding the chart can be.
- 
+
 Is the highest difficulty too difficult for you? That's no problem. There are 2 other difficulties present in the set, and those two difficulties have a similarly simple structure, albeit with slower streams and 1/4 patterns, which I am sure lower-level players will enjoy.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/angelic-party.jpg)](https://osu.ppy.sh/community/forums/topics/715069)
@@ -212,7 +212,7 @@ This map has been used for a few tournaments already, such as MWC 7K 2018, MWC 7
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 Here we have [17VA](https://osu.ppy.sh/users/1895984), this time with [Flower Flag by FELT](https://osu.ppy.sh/beatmapsets/539088). This map does distinguish from others due to the length and complexity of the patterns. This map starts slowly, with a few chords followed by Long Notes but do not be fooled by this because it gets harder and harder as further you advance into the map until we reach the first kiai section. We can find patterns such as shields, jacks, Long Notes, unconditional Long Note releases and a few but light chordstreams during the intersections of such kiai section. The second kiai is basically the same as the first one but a little bit denser and streamy. After that, a really harsh inverse section comes along with the ending of the map. It does have 4 difficulties going from 1.99 stars to 5.95 so it becomes accessible to everyone.
- 
+
 Talking a little about 17VA, he has been mapping since 2014 and he has made 31 (submitted) beatmaps which all of those are Long Note based. His maps are really popular in the 7K mania community, with a lot of favorites and a few of them have actually been used for both unofficial and official tournaments. He also has 2 loved beatmaps so, why not another one? His mapping style is somewhat unique even though it's really o2jam based, the structure that he uses can be distinguishable from other maps. Definitely a map worth enough for Loved.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/wind-god-girl.jpg)](https://osu.ppy.sh/community/forums/topics/715072)

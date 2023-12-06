@@ -30,9 +30,9 @@ After some time, the original beatmap was removed at the request of its creator;
 
 For the 2010 April Fools' prank, the osu! website along with the in-game main menu screen was changed to theme with characters and references to the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project). The changes included an addition of the character Marisa Kirisame and a display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
-![](img/2010-touhosu-main-screen.jpg "The main menu screen in osu! on 1 April 2010")
+![](img/2010-touhosu-main-screen.png "The main menu screen in osu! on 1 April 2010")
 
-![](img/2010-touhosu-website.jpg "The osu! website on 1 April 2009")
+![](img/2010-touhosu-website.png "The osu! website on 1 April 2009")
 
 The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode with the core gameplay from the Touhou Project games.
 
@@ -89,9 +89,9 @@ The "Bad Apple!!" music video had been some sort of an in-joke at the time with 
 
 On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere). On this April Fools' day, every time a user would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest.[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
 
-![](img/2013-regular-banchobot.jpg "Interactions with BanchoBot in 2019")
+![](img/2013-regular-banchobot.png "Interactions with BanchoBot in 2019")
 
-![](img/2013-tsundere-banchobot.jpg "Interactions with BanchoBot on 1 April 2013")
+![](img/2013-tsundere-banchobot.png "Interactions with BanchoBot on 1 April 2013")
 
 ## 2014
 

@@ -8,7 +8,7 @@ The results for the second osu!standard Mapping Olympiad contest are in! See who
 
 [![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/72)
 
-This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results: 
+This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results:
 
 | Rank | Username | Entry Name | Musical Relevance (40) | Creativity (60) | Technique (40) | Impression (40) | Hitsounding (20) | Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -30,7 +30,7 @@ In **first place** are [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuu
 Creating both entries alone, in **second place** is [**yaspo**](https://osu.ppy.sh/users/4945926) with a total score of **161.5**! With the highest score across all entries for Creativity and Hitsounding, yaspo created a pair of excellent maps that were the highest scoring from judges Electoz and Myxomatosis.
 
 And in **third place** are [**J1_**](https://osu.ppy.sh/users/5918561) and [**how2miss**](https://osu.ppy.sh/users/4477199) with a total score of **157**! Alongside tying the winning entry for highest score in Technique, they were awarded the highest score from judge pishifat. All in all an excellent entry from this pair.
-  
+
 Thank you to everybody who submitted an entry and congratulations to all of the top three finishers! Here is what each person will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 
 - **First place**: 4 months of osu!supporter, 6 Olympiad Points ('Mapping Olympian' badge), *Elite Mapper*

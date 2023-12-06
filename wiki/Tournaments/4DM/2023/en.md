@@ -38,7 +38,7 @@ The **4 Digit osu!mania World Cup 2023** (***4DM2023***) is a worldwide double-e
 | *5th place* | 1 month of osu!supporter |
 | *6th place* | 1 month of osu!supporter |
 
-![](img/badge.jpg "4DM2023 winner badge")
+![](img/badge.png "4DM2023 winner badge")
 
 Generous donations from ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), and ::{ flag=GB }:: [XxNewson1234xX](https://osu.ppy.sh/users/9895650) helped fund some of the prizes.
 
