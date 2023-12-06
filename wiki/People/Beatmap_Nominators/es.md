@@ -30,13 +30,13 @@ Los Beatmap Nominators completos con una actividad de nominación por debajo del
 
 El período de prueba se usa para monitorear más de cerca a los Beatmap Nominators nuevos o degradados. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con sus [actividades requeridas](/wiki/People/Beatmap_Nominators/Rules#activity) o luego de un mes de haber sido puestos ahí, lo que suceda primero.
+Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con sus [actividades requeridas](/wiki/People/Beatmap_Nominators/Rules#activity) o después de un mes de haber sido puestos ahí, lo que suceda primero.
 
-A los nuevos miembros de Beatmap Nominators se les asignará un compañero NAT a quien son libres de contactar por preguntas o guía. Después de su primera evaluación, si sus nominaciones y comportamiento son satisfactorios, serán promovidos a Beatmap Nominators completos siguiendo una evaluación positiva. De otro modo, permanecerán en período de prueba por otro mes o serán eliminados de los Beatmap Nominators.
+A los nuevos miembros de Beatmap Nominators se les asignará un compañero del NAT con el que podrán ponerse en contacto directamente en caso de preguntas u orientación. Después de su primera evaluación, si sus nominaciones y comportamiento son satisfactorios, serán promovidos a Beatmap Nominators completos tras una evaluación positiva. En caso contrario, permanecerán en período de prueba durante un mes más o serán retirados de Beatmap Nominators.
 
-Cuando un Beatmap Nominator es puesto a prueba, no puede entrar en período de prueba de nuevo por la misma razón por aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si vuelve a exhibir el mismo mal comportamiento en un período cercano de tiempo, aun si es un Beatmap Nominator completo durante la segunda infracción.
+Cuando un Beatmap Nominator se pone en período de prueba, no se le puede volver a poner en período de prueba por el mismo motivo durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto en período de prueba por mala conducta, será eliminado de Beatmap Nominators si exhibe la misma mala conducta de nuevo recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
-El período de prueba de un Beatmap Nominator degradado puede llegar a ser extendido por un mes adicional si no hay suficiente información para evaluarlo, o si comienzan a mostrar problemas diferentes que por los cuales se le puso a prueba originalmente.
+El período de prueba de un Beatmap Nominator degradado puede prorrogarse un mes más si no hay datos suficientes para evaluarlo o si empieza a mostrar problemas diferentes por los que se le puso a prueba originalmente.
 
 ## Beneficios
 
