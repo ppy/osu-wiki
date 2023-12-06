@@ -1,8 +1,3 @@
----
-outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
-outdated_translation: true
----
-
 # Precisión
 
 La precisión es una medida percentil de la capacidad de un jugador para golpear [objetos](/wiki/Gameplay/Hit_object) a tiempo. Hay tres tipos de precisión que un jugador puede tener: la precisión del beatmap, que depende de las puntuaciones obtenidas; la precisión general del jugador, que se pondera para permitir que las mejores puntuaciones se destaquen más; y la precisión de los [puntos de rendimiento (pp)](/wiki/Performance_points) del jugador, que depende de la precisión de la puntuación enviada.
@@ -71,17 +66,21 @@ El gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador
 
 ### Precisión
 
-Al pasar el cursor sobre el gráfico de rendimiento, se muestra un texto emergente con una clasificación de `Error` y `Tasa inestable`.
+Al pasar el cursor sobre el gráfico de rendimiento, se muestra un texto emergente con una clasificación de `Error` y `Unstable Rate`.
 
 Debido a la forma en que se implementan los mods [DT](/wiki/Gameplay/Game_modifier/Double_Time) y [HT](/wiki/Gameplay/Game_modifier/Half_Time), los valores de tasa de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores reales cuando juegues con el mod DT, divide los resultados entre 1,5. Del mismo modo, multiplica los resultados por 1,33 cuando juegues con el mod HT.
 
 #### Error
 
-`Error` siempre mostrará dos valores que representan qué tan lejos estaban en promedio los primeros golpeos y qué tan lejos estaban en promedio los últimos golpeos. Cuanto más alto sea el valor de [dificultad general](/wiki/Beatmap/Overall_difficulty) del beatmap, más bajos tendrán que ser los valores de error para hacerlo bien al jugar el beatmap.
+`Error` siempre mostrará dos valores que representan qué tan lejos estaban en promedio los primeros golpes y qué tan lejos estaban en promedio los últimos golpes. Cuanto más alto sea el valor de [dificultad general](/wiki/Beatmap/Overall_difficulty) del beatmap, más bajos tendrán que ser los valores de error para hacerlo bien al jugar el beatmap.
 
 #### Tasa inestable
 
-`Tasa inestable` representa la consistencia del tiempo de los aciertos, donde los números más bajos son mejores (los mejores jugadores a menudo obtienen puntajes por debajo de 100). Tenga en cuenta que el valor mide la consistencia, no la precisión, por lo que acertar constantemente 15 ms antes es lo mismo que acertar siempre a tiempo. La fórmula es esencialmente la desviación estándar de los errores de golpeo (en milisegundos), multiplicada por 10. El [código de muestra](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) está disponible como referencia y muestra cómo osu-stable calcula los valores de tasa inestables.
+*Página principal: [Tasa inestable](/wiki/Gameplay/Unstable_rate)*
+
+`Unstable Rate` (*UR*) muestra la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los errores de golpeo, en décimas de milisegundo. Un UR más bajo indica una mayor consistencia.
+
+Ten en cuenta que la consistencia no es lo mismo que la precisión. Si bien un UR bajo suele ser el resultado de un juego preciso, es posible obtener un UR muy bajo al mismo tiempo que una precisión muy baja. Por ejemplo, un jugador podría golpear cada [objeto](/wiki/Gameplay/Hit_object) lo suficientemente tarde como para obtener un [50](/wiki/Gameplay/Judgement/osu!), pero con errores consistentes.
 
 ### Giros
 
