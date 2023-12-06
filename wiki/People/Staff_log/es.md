@@ -1,6 +1,4 @@
 ---
-outdated_since: f73885bc3566b09324f542c45bd5c9976383a3b8
-outdated_translation: true
 tags:
   - group changes
   - group history
