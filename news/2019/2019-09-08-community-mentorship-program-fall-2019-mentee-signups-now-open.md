@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Fall 2019 Signups Now Open"
+title: Community Mentorship Program Fall 2019 Signups Now Open
 date: 2019-09-08 10:00:00 +0000
 ---
 
@@ -30,7 +30,7 @@ For this following cycle, the timeline is as follows (all opening and closing da
 - Mentee sign-ups will open on 2019-09-22 and close on 2019-10-03.
 - The fall 2019 cycle will run from 2019-10-06 to 2020-01-05.
 
-Throughout this active cycle time, the organization team will host various events on the Mentorship discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous puzzles can be found here at this [thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122). 
+Throughout this active cycle time, the organization team will host various events on the Mentorship discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous puzzles can be found here at this [thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/955356) for more information!
 

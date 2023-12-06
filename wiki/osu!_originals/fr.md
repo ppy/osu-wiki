@@ -81,7 +81,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 *Pour l'article d'annonce, voir : [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
- 
+
 | Musique |
 | :-: |
 | [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) |

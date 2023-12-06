@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the QAT handle Qualified Beatmaps"
+title: How the QAT handle Qualified Beatmaps
 date: 2016-10-23 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps
 ---
@@ -19,7 +19,7 @@ The whole process might look a little bit confusing now, which is why I prepared
 
 ![A flowchart depicting the life cycle of qualified beatmaps](/wiki/shared/news/2016-10-23-how-the-qat-handle-qualified-beatmaps/tumblr_inline_ofi08pGSvU1usyjz5_1280.jpg)
 
-Additional to the graphic, let me explain to you guys what you see here:  
+Additional to the graphic, let me explain to you guys what you see here:
 
 Step 1: **My beatmap is qualified! Finally!**
 

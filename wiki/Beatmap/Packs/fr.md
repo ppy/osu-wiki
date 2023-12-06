@@ -18,7 +18,7 @@ F2 - Rohi Pack.zip
 
 `F2` signifie le deuxième pack dans la catégorie Featured Artist, tandis que `Rohi Pack` fait référence au nom du pack indiqué sur la [liste des beatmaps packs](https://osu.ppy.sh/beatmaps/packs/F2). Ce pack ne contient que les chansons de [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
 
-Certains packs de beatmaps, en particulier dans la catégorie Standard, sont également numérotés par ordre d'envoi. Par exemple, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) est le 1000ème pack contenant des beatmaps [classé](/wiki/Beatmap/Category#classée) pour le mode de jeu [osu!](/wiki/Game_mode/osu!).
+Certains packs de beatmaps, en particulier dans la catégorie Standard, sont également numérotés par ordre d'envoi. Par exemple, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) est le 1000ème pack contenant des beatmaps [classé](/wiki/Beatmap/Category#ranked) pour le mode de jeu [osu!](/wiki/Game_mode/osu!).
 
 ## Catégories
 
@@ -26,7 +26,7 @@ Les packs de beatmaps sont divisés en 7 catégories avec un indicateur pour les
 
 | Indicateur | Catégorie | Type de beatmap |
 | :-: | :-- | :-- |
-| **S** | Standard | Beatmaps [classé](/wiki/Beatmap/Category#classée) ou [approuvé](/wiki/Beatmap/Category#approuvée) |
+| **S** | Standard | Beatmaps [classé](/wiki/Beatmap/Category#ranked) ou [approuvé](/wiki/Beatmap/Category#approved) |
 | **F** | Featured Artist | Chansons venant des [Featured Artists](/wiki/People/Featured_Artists) |
 | **T** | Tournoi | Mappools des tournois |
 | **L** | Project Loved | Beatmaps choisies par la communauté du [Project Loved](/wiki/Community/Project_Loved) |

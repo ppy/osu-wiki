@@ -39,13 +39,13 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 2. Dosyaların üzerinde, branch'ınızın `ppy:master` ile kıyaslandığında "behind" *(geride)*, "ahead" *(ileride)*, veya "even" *(eşit)* olduğunu belirten bir yazı bulunur. Eğer "behind" veya "ahead and behind" gibi bir yazıyla karşılaşırsanız, behind-commit'lerin sayısının bir önemi olmaksızın, branch'ınız güncel değildir.
 
-   ![](img/fork-even.jpg "İyi \(Commit yok ve güncel\)")
+   ![](img/fork-even.jpg "İyi (Commit yok ve güncel)")
 
-   ![](img/fork-ahead.jpg "İyi \(Bunlar sizin commit'leriniz\)")
+   ![](img/fork-ahead.jpg "İyi (Bunlar sizin commit'leriniz)")
 
-   ![](img/fork-behind.jpg "Muhtemelen kötü \(Branch'ınız güncel değil\)")
+   ![](img/fork-behind.jpg "Muhtemelen kötü (Branch'ınız güncel değil)")
 
-   ![](img/fork-ahead-behind.jpg "Muhtemelen kötü \(Branch'ınız sizin commit'lerinizle güncel değil\)")
+   ![](img/fork-ahead-behind.jpg "Muhtemelen kötü (Branch'ınız sizin commit'lerinizle güncel değil)")
 
 3. Eğer zaten değiştirilmiş bir dosyayı düzenlemeyecekseniz, bu pek bir sorun değil. Ancak ne kadar çok commit gerideyseniz, değiştirilmiş dosyalarla karşılaşma durumunuz bir o kadar yüksek.
 

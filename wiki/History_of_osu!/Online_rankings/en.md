@@ -3,7 +3,7 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
 ---
@@ -22,19 +22,19 @@ As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/ranki
 
 ## ![][osu!taiko] osu!taiko
 
-*Main page: [osu!taiko](osu!taiko)*
+<!-- TODO: Add ranking history page similar to osu! -->
 
-As of October 4, 2022, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+As of October 9, 2023, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
 
 ## ![][osu!catch] osu!catch
 
-*Main page: [osu!catch](osu!catch)*
+<!-- TODO: Add ranking history page similar to osu! -->
 
 As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
 
-*Main page: [osu!mania](osu!mania)*
+<!-- TODO: Add ranking history page similar to osu! -->
 
 As of April 13, 2023, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2019 Fanart Contest"
+title: Winter 2019 Fanart Contest
 date: 2019-11-12 09:45:00 +0000
 ---
 
@@ -28,12 +28,12 @@ Make sure you read the rules below before you enter, even if you've done this be
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** Anything inside the dotted circle will NOT be visible during voting phase, and will be heavily obscured by the main menu cookie if it makes it to the game client.
 - **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!** Please don't do this. It doesn't need to be there when you're done drawing, it just makes your work look worse.
 - **ACCOUNT FOR THE DOTTED osu! COOKIE TEMPLATE IN THE COMPOSITION OF YOUR WORK!** We've already said this, but anything inside the dotted circle will *not* be seen during voting phase and will be very difficult to see on the main menu. You still need to draw something there — don't just leave it blank, but be creative about it. Check out previous contest entries for inspiration!
-- **MAKE SURE YOU DON'T HAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR WORK!** What's this, the same rule repeated three times in three slightly different ways? What could this POSSIBLY MEAN? If you're not following, it means to TRIPLE CHECK that you've not left the template visible in your work. 
+- **MAKE SURE YOU DON'T HAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR WORK!** What's this, the same rule repeated three times in three slightly different ways? What could this POSSIBLY MEAN? If you're not following, it means to TRIPLE CHECK that you've not left the template visible in your work.
 - **Entries MUST meet the resolution requirements for a main-menu piece — namely 2732x1536. THIS IS CHECKED BY A SCRIPT AND ENTRIES THAT DO NOT MATCH THIS REQUIREMENT WILL BE DISCARDED AUTOMATICALLY.** Just in case you missed it, a script automatically discards entries that don't meet the resolution requirements, even if they're off by only a few pixels. This is the #1 reason why people don't see their artwork in the end voting, and many excellent entries have met this tragic, tragic fate. Export your entry at the proper size!
 - **SUBMIT ONLY YOUR OWN WORK! NO TRACING! NO REDRAWING! NO COMPOSITE WORKS!** Just don't plagarize. Don't rip off doujin/manga stills, don't redraw characters, don't do anything that isn't your own work and creativity taking the fore. This contest is about YOUR skill, not how well you can pass off someone else's work at your own. You will be permanently banned from future fanart contests if you are caught doing this!
 - **Don't use copyrighted characters from other intellectual properties.** You can freely use any of the osu! mascots (pippi, Yuzu, Mocha, Maria) and any of the community mascots (Tama, Aiko, Taikonator, any of the submissions from the Most Manic Art contest also apply), but stay away from using direct representations of characters from other worlds or franchises in your work. Remember that the community mascots are also someone else's creation, so make sure to treat their work with the same respect that you'd treat yours.
 
-Got all that? 
+Got all that?
 
 [Head over to the Winter Fanart Contest listing and enter now!](https://osu.ppy.sh/community/contests/82)
 

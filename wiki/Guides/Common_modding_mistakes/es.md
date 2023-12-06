@@ -51,7 +51,7 @@ Aunque los ejemplos enseñados son modelados a partir de contexto de mapping esp
 00:03:000 - no hagas esto
 ```
 
-**Cuando mencionas un problema, sé claro y formal para evitar malentendidos.** Siempre deberías exponer cuál es el problema, incluso si parece obvio. 
+**Cuando mencionas un problema, sé claro y formal para evitar malentendidos.** Siempre deberías exponer cuál es el problema, incluso si parece obvio.
 
 ---
 

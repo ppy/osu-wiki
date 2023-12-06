@@ -54,7 +54,7 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from [C
 
 You all should know the drill by now - all of the above plus a whole bunch more are available this very moment over at [**Rusty K's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/87), all pre-timed and just waiting for you to be cool like Mir and C00L and map them.
 
-Emboldened by your collective ribbing from last week's uh, 'not so challenging' hint, the fabled Hintern set a challenge most grand last Monday for this release with the ominous hint of merely 'feo19'. 
+Emboldened by your collective ribbing from last week's uh, 'not so challenging' hint, the fabled Hintern set a challenge most grand last Monday for this release with the ominous hint of merely 'feo19'.
 
 Many guessed but only a few were truly correct, with tweeter @Lukaico taking top prize in deciphering that 'feo' referred to iron oxide (a type of *rust*) and 19 referred to the atomic number of potassium, which goes by the letter *K* on the periodic table. A few trailing guesses arrived on the mark afterwards from @REFORMEDawnsday, @AJT_main and @DeityPorg as well.
 

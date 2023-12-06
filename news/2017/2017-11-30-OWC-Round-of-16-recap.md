@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2017 Round of 16 Recap"
+title: osu! World Cup 2017 Round of 16 Recap
 date: 2017-11-30 10:00:00 +0000
 ---
 

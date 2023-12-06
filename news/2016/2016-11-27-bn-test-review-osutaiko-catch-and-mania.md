@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BN Test Review (osu!taiko, catch and mania)"
+title: BN Test Review (osu!taiko, catch and mania)
 date: 2016-11-27 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania
 ---
@@ -17,8 +17,8 @@ So without further ado, let's get right into it!
 
 ---
 
-**osu!taiko (by DakeDekaane)**  
-Total # of candidates: 15  
+**osu!taiko (by DakeDekaane)**\
+Total # of candidates: 15\
 Passing candidates: **Chromoxx**, **snowball112**
 
 I was kind of excited after having 15 people solving the first test created by me in it's totality. It's worth saying that I liked this new format, as it simulates the real deal, instead of open questions which made applicants guess what we wanted them to write. Well, they still have to write what we want, but I consider it isn't as restrictive as before, yadda yadda.
@@ -37,8 +37,8 @@ I take the opportunity to congratulate the passing candidates, you did a good jo
 
 ---
 
-**osu!catch (by JBHyperion)**  
-Total # of candidates: 5  
+**osu!catch (by JBHyperion)**\
+Total # of candidates: 5\
 Passing candidates: **-Sh1n1-**, **Absolute Zero**, **Electoz**
 
 I had mixed-to-positive feelings about this round, which was my first in charge of test creation along with Deif. Considering 3 of our existing BNs have moved on to focus on other things in recent weeks, it was great to minimise the impact by bringing in some new guys to replace them. However, it was a bit of a shame to see that the number of candidates was quite low this round. A number of people who I expected to take the test failed to meet the required activity score, so I hope they get back to actively modding over the next few months in preparation for a test in the new year.
@@ -53,9 +53,9 @@ Congratulations to our passing candidates, and good luck to everyone applying ne
 
 ---
 
-**osu!mania (by Blocko)  
-**Total # of candidates: 25  
-Passing candidates: **Critical_Star**, **Dellvangel**, **DixonBlackwing**, **juankristal**, **Protastic101**, **Rivals_7**, **SanadaYukimura**  
+**osu!mania (by Blocko)\
+**Total # of candidates: 25\
+Passing candidates: **Critical_Star**, **Dellvangel**, **DixonBlackwing**, **juankristal**, **Protastic101**, **Rivals_7**, **SanadaYukimura**
 
 I was really surprised when I heard that there will be 25 candidates applying for BN in osu!mania. That's the highest number we've gotten so far over the last 2 tests, and I was very excited because so many people applied! With that said, for the second part of the whole test, instead of ten 10-second segments, the candidates had to mod a full mapset to fully test their modding capabilities. Part B contains issues that should be prevented when it comes to ranking a mania mapset, which can include wrongly snapped notes, absurd difficulty spikes, unpredictable slider velocities, inconsistent timing points and hitsound errors, to name a few. We'll get to how people did on the test right about... now!
 

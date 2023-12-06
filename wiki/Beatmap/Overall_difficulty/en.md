@@ -40,7 +40,7 @@ the same formula is used in stable -->
 
 | Score | Hit window (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` if OD < 5, `80 + (50 - 80) * (OD - 5) / 5` if OD > 5, otherwise `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` if OD < 5, `95 + (70 - 95) * (OD - 5) / 5` if OD > 5, otherwise `95` |
 
