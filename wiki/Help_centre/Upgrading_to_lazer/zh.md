@@ -65,7 +65,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false] | ![支持][true][^note-lock] |
 | osu!mania、osu! 基于时间轴给物件上色 | ![不支持][false] | ![支持][true] |
 | 回放控制 | ![不支持][false] | ![支持][true] |
-| 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动] | ![支持][true] | ![不支持][false] |
+| 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动 | ![支持][true] | ![不支持][false] |
 
 ### 线上系统
 
@@ -107,7 +107,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 故事板编辑器 | ![支持][true] | ![不支持][false] |
 | 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
 
-## 切换至 lazer 
+## 切换至 lazer
 
 所以你决定稍微体验一下 lazer？太棒了！
 
@@ -173,7 +173,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我在 lazer 上留下了成绩，它会永久保存吗？
 
-尽管我们会尽量多地保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分或是全部分数，来确保游戏平衡。 
+尽管我们会尽量多地保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分或是全部分数，来确保游戏平衡。
 
 #### 在稳定版上显示的成绩也会在 lazer 上显示吗？
 
@@ -278,7 +278,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 ### 备注
 
-[^wine]: 需要使用 Wine 虚拟机。
+[^wine]: 需要使用 Wine。
 [^compatibility-mode]: DirectX，又称作兼容模式。
 [^dll]: 需要手动添加 .dll 文件。
 [^share-files]: 谱面和皮肤将共享相同的文件，以节省磁盘空间。

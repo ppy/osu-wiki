@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - osu!taiko & osu!mania Performance Points & Star Rating Surveys"
+title: Results - osu!taiko & osu!mania Performance Points & Star Rating Surveys
 date: 2022-02-07 10:00:00 +0000
 ---
 

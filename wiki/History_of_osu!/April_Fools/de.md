@@ -32,9 +32,9 @@ Nach einiger Zeit wurde die ursprüngliche Beatmap auf Wunsch ihres Erstellers e
 
 Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite durch "touhosu!" ersetzt.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
-![](img/2010-touhosu-main-screen.jpg "Das Hauptmenü in osu! am 1. April 2010")
+![](img/2010-touhosu-main-screen.png "Das Hauptmenü in osu! am 1. April 2010")
 
-![](img/2010-touhosu-website.jpg "Die osu!-Webseite am 1. April 2009")
+![](img/2010-touhosu-website.png "Die osu!-Webseite am 1. April 2009")
 
 Der Witz stammt größtenteils aus einem [seit langem bestehenden Funktionsvorschlag](https://osu.ppy.sh/community/forums/topics/19307), einen [Spielmodus](/wiki/Game_mode) basierend auf dem aktuell existierenden [osu!catch](/wiki/Game_mode/osu!catch)-Spielmodus in Verbindung mit Spielmechaniken aus dem Touhou Project zu erstellen.
 
@@ -91,9 +91,9 @@ Das Musikvideo "Bad Apple!!" war damals eine Art Insider-Witz gewesen, mit Remix
 
 Am 1. April 2013 wurde [BanchoBot](/wiki/BanchoBot) in einen [Tsundere-Charakter](https://de.wikipedia.org/wiki/Tsundere) verwandelt. Für diesen Aprilscherz würden seine Chat-Nachrichten jedes Mal durch stereotype, zickige Reaktionen auf ein romantisches Interesse ersetzt werden, wenn ein Nutzer einen Befehl eingibt oder BanchoBot dazu auffordert, in einem öffentlichen Chat zu schreiben.[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
 
-![](img/2013-regular-banchobot.jpg "Unterhaltung mit BanchoBot im Jahre 2019")
+![](img/2013-regular-banchobot.png "Unterhaltung mit BanchoBot im Jahre 2019")
 
-![](img/2013-tsundere-banchobot.jpg "Unterhaltung mit BanchoBot am 1. April 2013")
+![](img/2013-tsundere-banchobot.png "Unterhaltung mit BanchoBot am 1. April 2013")
 
 ## 2014
 

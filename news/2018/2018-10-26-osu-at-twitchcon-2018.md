@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! at TwitchCon 2018"
+title: osu! at TwitchCon 2018
 date: 2018-10-26 03:30:00 +0000
 ---
 

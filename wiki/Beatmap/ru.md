@@ -48,7 +48,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 Опубликованные карты находятся в одной из следующих категорий и со временем могут перемещаться между ними:
 
 - [Graveyard](Category#graveyard)
-- [Work in Progress / Pending](Category#work-in-progress-и-pending)
+- [Work in Progress / Pending](Category#wip-and-pending)
 - [Qualified](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)

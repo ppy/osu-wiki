@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to osu!catch Star Rating / Performance Points"
+title: Changes to osu!catch Star Rating / Performance Points
 date: 2020-05-15 05:00:00 +0000
 ---
 

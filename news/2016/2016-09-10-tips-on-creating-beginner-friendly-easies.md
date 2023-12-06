@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tips on creating "Beginner Friendly" easies'
+title: Tips on creating "Beginner Friendly" easies
 date: 2016-09-10 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150197939840/tips-on-creating-beginner-friendly-easies
 ---

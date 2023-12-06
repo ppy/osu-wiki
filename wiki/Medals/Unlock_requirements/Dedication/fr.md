@@ -1,6 +1,5 @@
 ---
-outdated_since: c49f99355af5396e56b08e0f32184568e6a617a4
-outdated_translation: true
+no_native_review_since: 509c538fba6a848cf044b98104f2a8466b38bf83 Doryan
 ---
 
 # Conditions de déverrouillage des médailles : Dedication
@@ -21,6 +20,7 @@ outdated_translation: true
 | 30,000 Drum Hits | Atteindre un total de 30 000 drum hits dans osu!taiko. | Did that drum have a face? |
 | 300,000 Drum Hits | Atteindre un total de 300 000 drum hits dans osu!taiko. | The rhythm never stops. |
 | 3,000,000 Drum Hits | Atteindre un total de 3 000 000 drum hits dans osu!taiko. | Truly, the Don of dons. |
+| 30,000,000 Drum Hits | Atteindre un total de 30,000,000 drum hits dans osu!taiko. | Your rhythm, eternal. |
 
 ## osu!catch
 
@@ -29,6 +29,7 @@ outdated_translation: true
 | Catch 20,000 fruits | Attrapez un total de 20 000 fruits dans osu!catch. | That is a lot of dietary fiber. |
 | Catch 200,000 fruits | Attrapez un total de 200 000 fruits dans osu!catch. | So, I heard you like fruit.. |
 | Catch 2,000,000 fruits | Attrapez un total de 2 000 000 fruits dans osu!catch. | Downright healthy. |
+| Catch 20,000,000 fruits | Attrapez un total de 20,000,000 fruits dans osu!catch. | Nothing left behind. |
 
 ## osu!mania
 
@@ -37,3 +38,4 @@ outdated_translation: true
 | 40,000 Keys | Frapper un total de 40 000 keys dans osu!mania. | Just the start of the rainbow. |
 | 400,000 Keys | Frapper un total de 400 000 keys dans osu!mania. | Four hundred thousand and still not even close. |
 | 4,000,000 Keys | Frapper un total de 4 000 000 keys dans osu!mania. | Is this the end of the rainbow? |
+| 40,000,000 Keys | Frapper un total de of 40,000,000 keys dans osu!mania. | When someone asks which keys you play, the answer is now 'yes'. |

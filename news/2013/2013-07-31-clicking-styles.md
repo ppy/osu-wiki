@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clicking Styles"
+title: Clicking Styles
 date: 2013-07-31 06:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949145760/clicking-styles
 ---

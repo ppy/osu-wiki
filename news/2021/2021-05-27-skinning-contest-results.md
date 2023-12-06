@@ -8,7 +8,7 @@ The ship full of skins is now back with your votes. Check out the results for ou
 
 ![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_banner.jpg)
 
-Around 2 months ago, a ship of skins with an entirely vacant cargo bay arrived at the dock, waiting to be loaded with the best of the best. After getting their palettes ready, **31** ship painters heard our call to arms and stood up for the competition with their pieces of artistic beauty. 
+Around 2 months ago, a ship of skins with an entirely vacant cargo bay arrived at the dock, waiting to be loaded with the best of the best. After getting their palettes ready, **31** ship painters heard our call to arms and stood up for the competition with their pieces of artistic beauty.
 
 Although having to choose only **3** of all those masterpieces might have led some of you to suffer from sea-sickness, in the end, a total of **15703** ballots were collected from **5914** unique voters as the ship sailed.
 
@@ -44,7 +44,7 @@ Krizto's beloved masterpiece, Minimalist 2.0, earns them a shiny 2nd place profi
 
 ## Winner - FREEDOM DiVE↓
 
-Forged with love by the well-known osu! player [**BTMC**](https://osu.ppy.sh/users/3171691) and his team, [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) takes the lead with **3705** votes, outscoring the 2nd place by just over twice as much! 
+Forged with love by the well-known osu! player [**BTMC**](https://osu.ppy.sh/users/3171691) and his team, [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) takes the lead with **3705** votes, outscoring the 2nd place by just over twice as much!
 
 Rather than simplicity and minimalism as harboured by most other submissions, FREEDOM DiVE↓ features a vivid theme with colourful visual effects, carried out masterfully with aesthetic hand-drawn elements. Inspired by the song belonging to one of the most iconic beatmaps of all time, [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804), the skin revolves around the little animate orb greeting the user on every screen with its cute expressions.
 

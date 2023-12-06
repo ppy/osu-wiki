@@ -25,7 +25,7 @@
 | [osu! 世界杯 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=CA }:: 加拿大 |
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
-| [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2022-12-03 | *TBD* | *TBD* | *TBD* |
+| [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2022-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -137,6 +137,12 @@
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
+#### BubblyQT
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
+
 #### CES League osu! Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
@@ -156,7 +162,7 @@
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }::  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 | [Corgi Cup: September 2016](CC/2) | 2016-08-05 | 2016-09-11 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | [Corgi Cup III: April 2017](CC/3) | 2017-03-03 | 2017-04-30 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 | [Corgi Cup IV: September 2017](CC/4) | 2017-08-18 | 2017-10-29 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
