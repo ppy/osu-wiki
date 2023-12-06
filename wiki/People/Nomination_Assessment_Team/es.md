@@ -66,7 +66,7 @@ Los miembros del NAT reciben los siguientes beneficios:
 - **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el equipo.
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que lleva en el NAT.
   ![Insignia de 1 año en el NAT](https://assets.ppy.sh/profile-badges/QAT1y.png "Insignia de 1 año en el NAT") ![Insignia de 2 años en el NAT](https://assets.ppy.sh/profile-badges/QAT2y.jpg "Insignia de 2 años en el NAT") ![Insignia de 3 años en el NAT](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Insignia de 3 años en el NAT") ![Insignia de 4 años en el NAT](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Insignia de 4 años en el NAT") ![Insignia de 5 años en el NAT](https://assets.ppy.sh/profile-badges/QAT5y.jpg "Insignia de 5 años en el NAT")
-- **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominaciones)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
+- **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
   ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2023 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "Insignia de 1000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los miembros del NAT que se desempeñen excepcionalmente como nominadores son elegibles para recibir el estatus anual de Nominador Elite.
 
@@ -121,7 +121,7 @@ Los líderes del NAT tienen como objetivo cubrir las siguientes tareas:
 
 *Nota: Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
 
 ### Evaluación
 
