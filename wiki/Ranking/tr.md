@@ -1,6 +1,6 @@
 ---
 stub: true
-etiketler:
+tags:
   - pp
   - leaderboards
   - ranking
