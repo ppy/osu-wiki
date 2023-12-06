@@ -8,9 +8,9 @@ Here come the results of the osu!mania Mapping Olympiad's 2nd edition, including
 
 ![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-For the first time in the history of the osu!mania Mapping Olympiad, two Olympians have received the same score and share first place! Please give a huge round of applause to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**! 
+For the first time in the history of the osu!mania Mapping Olympiad, two Olympians have received the same score and share first place! Please give a huge round of applause to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**!
 
-During this iteration, contestants had to create a full mapset for 1 of 5 songs from several Featured Artists, including [PUP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN](https://osu.ppy.sh/beatmaps/artists/33), [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [Frums](https://osu.ppy.sh/beatmaps/artists/68) and [Cranky](https://osu.ppy.sh/beatmaps/artists/23)! You can find more details about this contest's criteria over [here](https://osu.ppy.sh/community/contests/97)! 
+During this iteration, contestants had to create a full mapset for 1 of 5 songs from several Featured Artists, including [PUP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN](https://osu.ppy.sh/beatmaps/artists/33), [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [Frums](https://osu.ppy.sh/beatmaps/artists/68) and [Cranky](https://osu.ppy.sh/beatmaps/artists/23)! You can find more details about this contest's criteria over [here](https://osu.ppy.sh/community/contests/97)!
 
 The leaderboards of the 10 best entries are shown right below!
 
@@ -27,13 +27,13 @@ The leaderboards of the 10 best entries are shown right below!
 | #9 | fktang | 33 | 29 | 14 | 14.5 | 10 | **100.5** |
 | #10 | FAMoss | 36.5 | 22 | 14 | 14.3 | 7.5 | **94.3** |
 
-Congratulations to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**, our two winners! They both managed to get an impressive total score of **140.5** despite having quite different scores in each category. 
+Congratulations to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**, our two winners! They both managed to get an impressive total score of **140.5** despite having quite different scores in each category.
 
-After earning second place in their last Olympiad participation, **[Kawawa](https://osu.ppy.sh/users/4647754)** ties **[Sinnoh](https://osu.ppy.sh/users/4236057)** for first place on the [Olympian points leaderboards](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing)! Their score in the **Rankability** category clearly shows their ability to provide high-quality content while being original on the side. 
+After earning second place in their last Olympiad participation, **[Kawawa](https://osu.ppy.sh/users/4647754)** ties **[Sinnoh](https://osu.ppy.sh/users/4236057)** for first place on the [Olympian points leaderboards](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing)! Their score in the **Rankability** category clearly shows their ability to provide high-quality content while being original on the side.
 
-osu!mania veteran **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** joins **[Kawawa](https://osu.ppy.sh/users/4647754)** on the podium with for shared win! They impressed 2 of the judges with their song interpretation and received an outstanding score of 18 out of 20 from each judge in the category! 
+osu!mania veteran **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** joins **[Kawawa](https://osu.ppy.sh/users/4647754)** on the podium with for shared win! They impressed 2 of the judges with their song interpretation and received an outstanding score of 18 out of 20 from each judge in the category!
 
-Let's jump on another spicy tie for third place! **[lenpai](https://osu.ppy.sh/users/5314573)** and **[BringoBrango](https://osu.ppy.sh/users/10274043)** both reached third place after receiving a score of **138** which is not that far from first place's score! They both achieved an excellent score in the **Originality** category, hitting the highest scores in that category among all the entries! 
+Let's jump on another spicy tie for third place! **[lenpai](https://osu.ppy.sh/users/5314573)** and **[BringoBrango](https://osu.ppy.sh/users/10274043)** both reached third place after receiving a score of **138** which is not that far from first place's score! They both achieved an excellent score in the **Originality** category, hitting the highest scores in that category among all the entries!
 
 Curious about the other entries? [Download all the maps](https://drive.google.com/file/d/1ulTk_EVRKf8c-DMHqW4I0FwCB5RbJfL_/view) and check out the [full judging breakdown](https://docs.google.com/spreadsheets/d/11CNN7iYipBwffVCFJ8ulPC8CounECRPp0nc-MmhBwQk/edit?usp=sharing)!
 
@@ -50,8 +50,8 @@ All of this wouldn't be possible without the immense help of our three judges: *
 
 ---
 
-We sincerely hope you enjoyed this iteration of the osu! Mapping Olympiad as much as we did! This is surely not the last and the contest will be back soon with new concepts to make them even more creative and interesting for you! Congratulations once again to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** for your victories!  
+We sincerely hope you enjoyed this iteration of the osu! Mapping Olympiad as much as we did! This is surely not the last and the contest will be back soon with new concepts to make them even more creative and interesting for you! Congratulations once again to **[Kawawa](https://osu.ppy.sh/users/4647754)** and **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** for your victories!
 
-See you next time! 
+See you next time!
 
 —Pachiru

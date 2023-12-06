@@ -183,7 +183,7 @@ Each mapper has been awarded their own profile badge and [2 points of progress t
 
 [![Petmalu team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/Petmalu.png)](https://osu.ppy.sh/beatmapsets/1972411)
 
-In an unprecedented scenario, osu!mania's [community vote](https://osu.ppy.sh/community/contests/169) resulted in a **3-way tie** between [BringoBrango](https://osu.ppy.sh/users/10274043)/[Stability](https://osu.ppy.sh/users/6701738), [Hytex](https://osu.ppy.sh/users/8536263)/[Ucitysm](https://osu.ppy.sh/users/14768693), and [MapleSyrup-](https://osu.ppy.sh/users/1192936)/[lenpai](https://osu.ppy.sh/users/5314573)! 
+In an unprecedented scenario, osu!mania's [community vote](https://osu.ppy.sh/community/contests/169) resulted in a **3-way tie** between [BringoBrango](https://osu.ppy.sh/users/10274043)/[Stability](https://osu.ppy.sh/users/6701738), [Hytex](https://osu.ppy.sh/users/8536263)/[Ucitysm](https://osu.ppy.sh/users/14768693), and [MapleSyrup-](https://osu.ppy.sh/users/1192936)/[lenpai](https://osu.ppy.sh/users/5314573)!
 
 We've let the judges' scores act as a tiebreaker! Out of the three submissions, [this one](https://osu.ppy.sh/beatmapsets/1972411#mania/4092859) created by [MapleSyrup-](https://osu.ppy.sh/users/1192936) and [lenpai](https://osu.ppy.sh/users/5314573) scored the highest, so they'll earn the community vote prize!
 

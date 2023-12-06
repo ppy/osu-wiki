@@ -17,10 +17,12 @@ Bài viết này sẽ nói về một số khó khăn có thể bạn đối m�
 Để tạo sự thay đổi trong một repo ở GitHub, một người đóng góp tiềm năng phải có được bản sao(quản lý bởi mình) của repo, và nó được gọi là một "fork". Khi bạn tạo ra fork của repo `osu-wiki` cho riêng mình, bạn đang nắm trong tay hết tất cả nội dung của nó tại thời điểm này. Để làm sự phát triển thực sự có ý nghĩa, **luôn luôn đồng bộ fork** trước khi chỉnh sửa thêm — nó có thể được làm trực tiếp qua GitHub:
 
 1. Đi tới fork repo `osu-wiki` của bạn.
+
 2. Chọn `master` từ nhánh.
+
 3. Bấm `Fetch upstream`, và chọn `Fetch and merge`.
 
-![](img/update-branch.png "Cập nhật branch cũ")
+   ![](img/update-branch.png "Cập nhật branch cũ")
 
 Bây giờ các tài liệu trong branch đang giống repo gốc.
 
@@ -58,7 +60,7 @@ Trong phạm vi bản fork của bạn, bạn có thể tuỳ ý chỉnh sửa v
 Một pull request sẽ làm cho người khác biết chỉnh sửa của bạn có kết quả tới dữ liệu như thế nào. Thêm một số thông tin cho pull request để giải thích mục đích của bạn:
 
 - `Title`: một câu ngắn gọn có thể mô tả sự thay đổi của bạn bằng tiếng Anh, với tên của bài viết. Trong trường hợp dịch thuật, bắt đầu với tên viết tắt của ngôn ngữ bạn dịch trong dấu ngoặc. Ví dụ:
-- ``[FR] Add `BBCode` ``
+  - ``[VI] Add `BBCode` ``
   - ``Update `Beatmapping` and `Beatmap/Difficulty` ``
 - `Description`: mọi thứ bạn muốn truyền tải đến người quản lý và các giám khảo tiềm năng. Ví dụ:
   - Tóm tắt nhanh sự thay đổi, đặc biệt nếu nó ảnh hưởng đến nhiều bài viết

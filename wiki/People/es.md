@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
 # Personas
 
 Página de índice para artículos sobre personas o grupos.
@@ -17,12 +12,12 @@ Página de índice para artículos sobre personas o grupos.
 - [Completacionistas](Completionists)
 - [Desarrolladores](Developers)
 - [Elite Nominators](Elite_Nominators)
-- [Featured Artists](Featured_Artists)
+- [Artistas destacados](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Comité de puntos de rendimiento](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
+- [Technical Support Team](Technical_Support_Team)
 - [Comité de torneos](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
