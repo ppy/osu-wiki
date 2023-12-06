@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
