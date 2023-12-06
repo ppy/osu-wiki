@@ -57,7 +57,7 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - [주간 통계 스프레드시트](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1823846)
 - [실시간 방송](https://www.twitch.tv/osulive)
-- [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
+- ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영한 [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130)
 - [Challonge 대진표](https://challonge.com/OWC_2023)
 
 ## 참가자
