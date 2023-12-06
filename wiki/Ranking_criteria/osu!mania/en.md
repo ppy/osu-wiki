@@ -19,8 +19,13 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 ### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels.
+- **Column**: Vertical lanes of the [playfield](/wiki/Game_mode/osu!mania#playfield) where notes are placed. Note that [editor timestamps](/wiki/Modding/Timestamp) refer to columns by their zero-indexed position starting from the left.
 - **Key mode**: The number of columns present in a difficulty.
+- **Playstyle**: A mapper's intended style of [key bindings](/wiki/Game_mode/osu!mania#controls) or hand positions used to play a difficulty.
+- **Standard playstyle**: The most common type of playstyle for key counts 10 or below, where no column is of particular significance, and the player is expected to control each key with a unique finger.
+  - Examples of standard playstyles: 4K, 7K, 10K
+  - Examples of non-standard playstyles: 7K+1, 10K2S, 14K DP
+- **N+1 playstyle**: A specific type of playstyle where the leftmost column is mapped independently from the rest of the columns, which otherwise form a standard playstyle.
 - **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
@@ -58,13 +63,15 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Two notes cannot be placed in a single column at the same timestamp.**
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
-- **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
-- **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
-- **Beatmaps using the special N+1 style of mapping must be denoted as such under the `Advanced` tab of song setup in the editor and "N+1" must be added to the tags. For beatmaps containing multiple key modes, difficulties using this style must be denoted using N+1 notation (e.g. using 7K+1 instead of 8K on difficulty names).**
-- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty of each included key mode cannot be harder than a Normal, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 4 difficulties in total.
-  - **...between 2:30 and 3:15**, the lowest difficulty of each included key mode cannot be harder than a Hard, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 3 difficulties in total.
-  - **...between 3:15 and 4:00**, the lowest difficulty of each included key mode cannot be harder than an Insane, **OR** each key mode must provide a proper spread[^proper-spread] containing at least 2 difficulties in total.
+- **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.**
+  - **For key counts above 10, the [playstyle](#common-terms) must be one of [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K), or [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K).**
+- **If the beatmap includes any key counts above 10, or multiple [key modes](#common-terms) or [playstyles](#common-terms), each difficulty's name must denote its key mode or playstyle. Otherwise, all difficulty names must not denote key modes or playstyles.**
+- **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
+- **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
+- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
+  - **...lower than 2:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:30 and 3:15**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 3:15 and 4:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
 ### Guidelines
 
@@ -86,7 +93,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-*Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
+*[Key mode](#common-terms)-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes or [playstyles](#common-terms) should apply these guidelines when applicable.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
@@ -205,4 +212,5 @@ Additional guidelines for *7 key Insane* difficulties:
 
 ## Notes
 
+[^n-plus-1]: The "N+1" setting currently has no function, and is only regulated in the ranking criteria to support future use cases. It is currently undetermined how key counts 10 or above will be treated by this setting, so for now it must not be enabled in those cases.
 [^proper-spread]: A "proper" spread *for difficulties Insane and harder* is defined as a spread with gaps in difficulty similar to those between lower [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) as specified in the [difficulty-specific criteria](#difficulty-specific).
