@@ -39,13 +39,13 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 2. Di atas file, ada beberapa teks yang memberi tahu kamu apakah cabang (branch) dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) dengan repo `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch yang kamu pakai belum diperbarui.
 
-   ![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
+   ![](img/fork-even.jpg "OK (Tidak ada commit dan sudah menggunakan versi terbaru)")
 
-   ![](img/fork-ahead.jpg "OK \(Ini adalah commit yang kamu lakukan\)")
+   ![](img/fork-ahead.jpg "OK (Ini adalah commit yang kamu lakukan)")
 
-   ![](img/fork-behind.jpg "Berpotensi buruk \(Branch kamu belum diperbarui\)")
+   ![](img/fork-behind.jpg "Berpotensi buruk (Branch kamu belum diperbarui)")
 
-   ![](img/fork-ahead-behind.jpg "Berpotensi buruk \(Branch kamu belum diperbarui dengan commit yang kamu lakukan\)")
+   ![](img/fork-ahead-behind.jpg "Berpotensi buruk (Branch kamu belum diperbarui dengan commit yang kamu lakukan)")
 
 3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
