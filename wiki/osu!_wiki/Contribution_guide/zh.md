@@ -18,13 +18,10 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 0. [创建](https://github.com/signup)一个 GitHub 账号。
 1. 进入 [`ppy/osu-wiki`][osu_wiki] 仓库，点击右上角的 `Fork` 按钮，来创建并复制一份你可操控的 wiki 分支。要进入你的副本，前往 [`ppy/osu-wiki`][osu_wiki] 并再次点击 `Fork` 按钮。
-
-  - 如果你之前已经创建好了分支，则按照[最好方法 § 同步分支 (fork)](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))来同步你的分支。
-
+   - 如果你之前已经创建好了分支，则按照[最好方法 § 同步分支 (fork)](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))来同步你的分支。
 2. 阅读[最好方法 § 做出改动](/wiki/osu!_wiki/Contribution_guide/Best_practices#做出改动)，并做出必需的编辑。你可以自由选择使用编辑的软件，但是 osu! wiki 已经为以下两种编辑方式提供了详细的指南：
-
-  - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
-  - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
+   - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
+   - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
 
 ## 自我检查 {id=self-check}
 
