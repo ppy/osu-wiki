@@ -60,7 +60,7 @@ outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
 ต่อไปนี้จะเป็นตัวอย่างการใช้งานของคำสั่งต่าง ๆ:
 
 - `!mp invite Zallius` - เชิญ Zallius เข้าห้อง
-- `!mp move Loctav 4` - ย้าย Loctav ไปที่ช่องที่ 4 ของห้อง  
+- `!mp move Loctav 4` - ย้าย Loctav ไปที่ช่องที่ 4 ของห้อง
 - `!mp team Zallius blue` - ย้าย Zallius ไปทีมสีน้ำเงิน
 - `!mp team Loctav red` - ย้าย Loctav ไปทีมสีแดง
 - `!mp set 0 2` - ตั้งโหมดทีมเป็น Head To Head และเงื่อนไขการชนะเป็น Combo

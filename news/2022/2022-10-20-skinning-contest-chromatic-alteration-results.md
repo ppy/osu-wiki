@@ -16,7 +16,7 @@ Without further ado, let's have a look at which entries made it to the podium:
 
 Attracting a total of **968** sour grape enjoyers, [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) by [koomo](https://osu.ppy.sh/users/2168518) achieves the 3rd place!
 
-Adopting a protanopic palette, sour_grapes portrays a futuristic look with Ene from *Kagerou Project* on the side. Featuring matrix-esque panels and high-tech design from head to toe, the skin makes you feel like you're playing the game through a visor, while also not letting up on the minimalistic outlook. 
+Adopting a protanopic palette, sour_grapes portrays a futuristic look with Ene from *Kagerou Project* on the side. Featuring matrix-esque panels and high-tech design from head to toe, the skin makes you feel like you're playing the game through a visor, while also not letting up on the minimalistic outlook.
 
 Needless to say, if you're looking for a cutting-edge skin offering a *slow journey* into your osu! and osu!taiko ventures, sour_grapes is your go-to one!
 

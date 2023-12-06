@@ -22,13 +22,10 @@ no_native_review: true
 
 0. [Створіть](https://github.com/signup) акаунт GitHub.
 1. Відкрийте репозиторій [`ppy/osu-wiki`][osu_wiki] і натисніть `Fork` в правому верхньому куті, щоб зробити контрольовану копію wiki. Щоб повернутися до вашого форку, перейдіть до [`ppy/osu-wiki`][osu_wiki] і натисніть `Fork` знову.
-
-  - Якщо ви зробили форк давніше, синхронізуйте його відповідно до статі [Найкращі практики § Синхронізація форку](/wiki/osu!_wiki/Contribution_guide/Best_practices#синхронізація-форку).
-
+   - Якщо ви зробили форк давніше, синхронізуйте його відповідно до статі [Найкращі практики § Синхронізація форку](/wiki/osu!_wiki/Contribution_guide/Best_practices#синхронізація-форку).
 2. Прочитайте статтю [Найкращі практики § Внесення змін](/wiki/osu!_wiki/Contribution_guide/Best_practices#внесення-змін) і виконайте необхідні правки. Ви можете використовувати будь-який застосунок на ваш вибір, але osu! wiki має детальну інструкцію для двох середовищ:
-
-  - [GitHub веб-орієнтований редактор](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (онлайн, інсталяція не потрібна).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (оффлайн, надає більше контролю).
+   - [GitHub веб-орієнтований редактор](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (онлайн, інсталяція не потрібна).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (оффлайн, надає більше контролю).
 
 ## Самоперевірка {id=self-check}
 

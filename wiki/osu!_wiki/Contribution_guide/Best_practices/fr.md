@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # Bonnes pratiques
 
 Cette page couvre certaines des tâches auxquelles vous pouvez être confronté lors de votre contribution. Les approches mentionnées ici sont destinées à faciliter le processus et peuvent être appliquées à d'autres projets hébergés sur GitHub ou des plateformes similaires.
@@ -13,10 +18,12 @@ Cette page couvre certaines des tâches auxquelles vous pouvez être confronté 
 Afin d'apporter des modifications à un dépôt situé sur GitHub, un contributeur potentiel doit en obtenir une copie contrôlée appelée *fork*. Lorsque vous créez votre fork du dépôt `osu-wiki`, vous prenez un instantané de son contenu à ce moment précis. Pour apporter une contribution significative, **synchronisez toujours votre fork** avant d'effectuer un ensemble de modifications - cela peut être fait directement depuis GitHub :
 
 1. Allez à votre fork du dépôt `osu-wiki`.
+
 2. Sélectionnez la branche `master` dans la liste déroulante.
+
 3. Cliquez sur `Fetch upstream`, puis sélectionnez `Fetch and merge`.
 
-![](img/update-branch.png "Mise à jour de la branche obsolète")
+   ![](img/update-branch.png "Mise à jour de la branche obsolète")
 
 Votre branche est maintenant à jour avec le dépôt d'origine.
 
@@ -27,22 +34,28 @@ Cette solution fonctionne bien dans la plupart des cas, bien que la fonction ell
 Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub ou si vous souhaitez écraser le contenu de votre branche, vous pouvez utiliser le workflow écrit par les contributeurs de l'osu! wiki.
 
 1. Ouvrez **votre fork** et allez dans l'onglet `Actions`.
+
 2. Dans `Workflows`, cherchez `Sync from osu! upstream`.
+
 3. Cliquez sur `Run workflow` et remplissez les options :
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-- **Use workflow from** : nom de la branche que vous voulez synchroniser. Par défaut, il s'agit de `master`.
-- **Overwrite any changes in the target repository** :
-  - `true` : remplace le contenu de votre branche par une copie propre de la branche `master` à partir de `ppy/osu-wiki`.
-  - `false` (par défaut) : fusionne vos modifications avec celles qui se trouvent sur `ppy/osu-wiki`.
-- **Create a backup of your target branch** :
-  - `true` :  crée une branche appelée `backup-{nom de votre branche}` avant de la modifier.
-  - `false` (par défaut) : n'effectue aucune sauvegarde.
+   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+
+   - **Use workflow from** : nom de la branche que vous voulez synchroniser. Par défaut, il s'agit de `master`.
+   - **Overwrite any changes in the target repository** :
+     - `true` : remplace le contenu de votre branche par une copie propre de la branche `master` à partir de `ppy/osu-wiki`.
+     - `false` (par défaut) : fusionne vos modifications avec celles qui se trouvent sur `ppy/osu-wiki`.
+   - **Create a backup of your target branch** :
+     - `true` :  crée une branche appelée `backup-{nom de votre branche}` avant de la modifier.
+     - `false` (par défaut) : n'effectue aucune sauvegarde.
 
 4. Cliquez sur le bouton `Run Workflow` et attendez que le workflow se termine. Si vous êtes curieux de savoir comment l'outil fonctionne, cliquez sur la tâche `Sync from osu! upstream`.
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+
+   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
 ## Faire des modifications
 
@@ -90,12 +103,10 @@ Il y a deux raisons pour lesquelles un conflit a pu se produire :
 En fonction de la gravité des conflits, vous avez deux possibilités pour résoudre ce problème :
 
 1. Si votre demande de modification comporte le bouton `Resolve conflicts`, cliquez dessus. Cela ouvrira une version légèrement différente de l'éditeur web.
-
    1. GitHub mettra en évidence les zones conflictuelles. Trouvez l'une d'entre elles.
    2. Tout ce qui ce trouve de `<<<<<<<` à `=======` sont vos changements, alors que tout ce qui ce trouve de `=======` à `>>>>>>> master` est ce qui se trouve dans la branche `ppy/master`.
    3. A partir de là, vous devrez corriger manuellement le conflit et supprimer les lignes portant les mentions `<<<<<<<`, `=======`, et `>>>>>>> master`.
    4. Répétez le processus pour tous les conflits.
    5. Une fois terminé, cliquez sur `Mark as resolved` (ceci n'est disponible que lorsque toutes les parties conflictuelles du fichier sont résolues).
-
 2. Si le bouton `Resolve conflicts` est bloqué parce que les conflits sont trop compliqués pour GitHub, vous n'avez pas de chance et vous devrez [mettre à jour votre branche](#synchronisation-d'un-fork) et refaire vos modifications.
    - *Remarque : ceci n'est vrai que si vous êtes limité à l'utilisation de l'interface web de GitHub*. Il existe encore des moyens de résoudre ce problème, mais ils n'entrent pas dans le cadre de cet article. De plus, cela ne vaut probablement pas la peine de le faire, car vous écraserez et inverserez les changements conflictuels.

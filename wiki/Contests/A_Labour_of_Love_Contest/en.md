@@ -46,11 +46,11 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
 
 - **Community vote**
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Community Pick* profile badge
 - **Mapper panel** (focusing on mapping quality)
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
   - Panelists:
     - ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993)
@@ -69,7 +69,7 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
     - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 - **Musician panel** (focusing on remix quality)
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
   - Panelists:
     - ::{ flag=CA }:: Kuba Oms

@@ -14,4 +14,4 @@ La communauté considère généralement les scores où le joueur n'a pas obtenu
 
 ![Capture d'écran des scores de full combo et de combo brisé](img/combo-comparison.png "Le score du dessus est un full combo, et le score du dessous est un combo cassé.")
 
-Grâce à l'[effet multiplicateur de combo](/wiki/Gameplay/Combo_multiplier_effect), les full combos rapportent le plus de [score](/wiki/Gameplay/Score) dans les [modes de jeu](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch). 
+Grâce à l'[effet multiplicateur de combo](/wiki/Gameplay/Combo_multiplier_effect), les full combos rapportent le plus de [score](/wiki/Gameplay/Score) dans les [modes de jeu](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch).

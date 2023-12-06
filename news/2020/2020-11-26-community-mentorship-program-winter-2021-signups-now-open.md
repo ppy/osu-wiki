@@ -8,7 +8,7 @@ With holiday cheer and an upcoming new year, the 17th cycle of the Community Men
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
-The Community Mentorship program serves as a place for upcoming mappers and modders to develop their skills under the guidance of more experienced mappers and modders in the community. 
+The Community Mentorship program serves as a place for upcoming mappers and modders to develop their skills under the guidance of more experienced mappers and modders in the community.
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like mapping contests), hang out with fellow mentees, and more!
 
@@ -26,6 +26,6 @@ Throughout this active cycle time, the organization team will host various event
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1188335) for more information.
 
-We're looking forward to the mappers and modders of tomorrow! 
+We're looking forward to the mappers and modders of tomorrow!
 
 —yaspo

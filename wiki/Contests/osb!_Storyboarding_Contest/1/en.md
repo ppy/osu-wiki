@@ -28,7 +28,7 @@ The **osb! Storyboarding Contest #1** was a storyboarding contest hosted by osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![](img/badge-winner.png "osb! Storyboarding Contest #1 winner badge") 
+![](img/badge-winner.png "osb! Storyboarding Contest #1 winner badge")
 
 ## Organisation
 

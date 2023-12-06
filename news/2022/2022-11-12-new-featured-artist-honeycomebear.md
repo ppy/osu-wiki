@@ -47,10 +47,10 @@ Or maybe [this map](https://osu.ppy.sh/beatmapsets/806020) by [Mentai](https://o
 </audio>
 
 ---
- 
+
 If you're exhausted by an endless sea of insanely challenging maps, be the change you want to see. Map something from [**HoneyComeBear**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/319) today!
 
-Our Featured Artist library is currently filled with English and Japanese tunes, but we'll be shifting gears with our next Featured Artist. Stay tuned to the [@osugame Twitter](https://twitter.com/osugame) for details about that next Wednesday. 
+Our Featured Artist library is currently filled with English and Japanese tunes, but we'll be shifting gears with our next Featured Artist. Stay tuned to the [@osugame Twitter](https://twitter.com/osugame) for details about that next Wednesday.
 
 See you then!
 

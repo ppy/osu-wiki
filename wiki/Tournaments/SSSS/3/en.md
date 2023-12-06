@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
   1. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my booze?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
   2. [ZUN - Mottomo Sumiwataru Sora to Umi (Nyanaro) \[Nyanaro & Parachute's 53-minute conversation\]](https://osu.ppy.sh/beatmapsets/1961523#osu/4115513)
   3. [Monster Siren Records - Fading Sky (Bellicose) \[Flaming Edge\]](https://osu.ppy.sh/beatmapsets/1770637#osu/3624614)
-  4. [PRASTIK DANCEFLOOR - Cansei de S NIK (Icekalt) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/1229581#osu/2584902)  
+  4. [PRASTIK DANCEFLOOR - Cansei de S NIK (Icekalt) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/1229581#osu/2584902)
 - DoubleTime
   1. [Aimer - twoface (toybot) \[captin & niva's another\]](https://osu.ppy.sh/beatmapsets/1968432#osu/4094568)
   2. [rei sirose - Hakidasu (Lunicia) \[fooders' Insane\]](https://osu.ppy.sh/beatmapsets/1759673#osu/3685433)
@@ -140,18 +140,18 @@ This competition has come to an end and resulted in the following podium:
   2. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1833730#osu/3764532)
   3. [Hanon x Kotoha - (Not) A Devil (Kotoha) \[(Not) Inting\]](https://osu.ppy.sh/beatmapsets/1937425#osu/4004882)
   4. [LucaProject - Nidhoggr (iLyne) \[Revelation 13:1\]](https://osu.ppy.sh/beatmapsets/1947987#osu/4031447)
-  5. [Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass (feat. Yunomi) (UberFazz) \[Maximum\]](https://osu.ppy.sh/beatmapsets/1709206#osu/3492611)  
-  6. [Shibayan feat. Ichimatsu Tsubaki - Wo Qin Ai Kui Lei (UberFazz) \[Desire\]](https://osu.ppy.sh/beatmapsets/1359291#osu/2969884) 
+  5. [Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass (feat. Yunomi) (UberFazz) \[Maximum\]](https://osu.ppy.sh/beatmapsets/1709206#osu/3492611)
+  6. [Shibayan feat. Ichimatsu Tsubaki - Wo Qin Ai Kui Lei (UberFazz) \[Desire\]](https://osu.ppy.sh/beatmapsets/1359291#osu/2969884)
 - Hidden
   1. [Hanon x Megu x Kotoha - Shiroi Yuki no Princess wa (-karUpA-) \[Happiness\]](https://osu.ppy.sh/beatmapsets/1707021#osu/3488032)
   2. [Narjahanam - Taht Alamat Al Nujoom (TheKingHenry) \[Wara'a Al Yawm Al Mawti\]](https://osu.ppy.sh/beatmapsets/1623074#osu/3313945)
-  3. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#osu/3967816)  
-  4. [Masqed Pierrot - THE FAUST (fanzhen0019) \[PaRaDogi's cheesecake\]](https://osu.ppy.sh/beatmapsets/1418075#osu/2924836)    
+  3. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#osu/3967816)
+  4. [Masqed Pierrot - THE FAUST (fanzhen0019) \[PaRaDogi's cheesecake\]](https://osu.ppy.sh/beatmapsets/1418075#osu/2924836)
 - HardRock
   1. [Reol - Saisaki ( cRyo\[iceeicee\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/858075#osu/1793422)
   2. [Nor - Usagi Flap (syuq) \[Bunny Flap\]](https://osu.ppy.sh/beatmapsets/1966862#osu/4078680)
   3. [Kotoha - Zecchou Sanka (achyoo) \[Climax\]](https://osu.ppy.sh/beatmapsets/1862243#osu/3828999)
-  4. [Tove Styrke - Sway (schoolboy) \[Are We Gonna Stay Up?\]](https://osu.ppy.sh/beatmapsets/1316289#osu/2727565)  
+  4. [Tove Styrke - Sway (schoolboy) \[Are We Gonna Stay Up?\]](https://osu.ppy.sh/beatmapsets/1316289#osu/2727565)
 - DoubleTime
   1. [HoneyWorks feat. Hanon x Kotoha - Sis x Love (Ayucchi) \[I LOVE my sister!\]](https://osu.ppy.sh/beatmapsets/1358634#osu/2828061)
   2. [DJ Mashiro - Prismatic Lollipops (PayneTrain) \[Insane\]](https://osu.ppy.sh/beatmapsets/1565432#osu/3196642)
@@ -171,12 +171,12 @@ This competition has come to an end and resulted in the following podium:
   2. [technoplanet - Intuition (MegaMK) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2013382#osu/4189819)
   3. [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari (Amamya) \[Rihan's Extra\]](https://osu.ppy.sh/beatmapsets/1717491#osu/3529703)
   4. [Akira Complex - LVL.99 (Cubby) \[Expert;\]](https://osu.ppy.sh/beatmapsets/2017797#osu/4201371)
-  5. [Silentroom - NULCTRL (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1969316#osu/4084958)  
-  6. [MANY THANKS! feat. Setsunan - Banka (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1939593#osu/4010164)   
+  5. [Silentroom - NULCTRL (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1969316#osu/4084958)
+  6. [MANY THANKS! feat. Setsunan - Banka (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1939593#osu/4010164)
 - Hidden
   1. [momosu momosu - Esoa (Dailycare) \[Love\]](https://osu.ppy.sh/beatmapsets/2001099#osu/4160997)
   2. [DECO*27 - Cinderella (\[Jameson\]) \[Reading Challenge\]](https://osu.ppy.sh/beatmapsets/1969911#osu/4086893)
-  3. [Abuse - Flower War (Shiny Braixen) \[Shunionuu\]](https://osu.ppy.sh/beatmapsets/1840853#osu/3792912)  
+  3. [Abuse - Flower War (Shiny Braixen) \[Shunionuu\]](https://osu.ppy.sh/beatmapsets/1840853#osu/3792912)
 - HardRock
   1. [Petit Rabbit's - Daydream cafe(you Remix) (M o k o r i) \[ExtRabbit's\]](https://osu.ppy.sh/beatmapsets/205660#osu/560522)
   2. [iojjj - Deus Ex Machina (Flowziee) \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1314583#osu/2782516)
@@ -200,12 +200,12 @@ This competition has come to an end and resulted in the following podium:
   2. [yuikonnu - Gigantic O.T.N (Camo) \[Climax\]](https://osu.ppy.sh/beatmapsets/1362797#osu/2819481)
   3. [LiSA - REALiZE (Pepekcz) \[Spider-Verse N°42\]](https://osu.ppy.sh/beatmapsets/2010962#osu/4184551)
   4. [nora2r - Memory Of Sunrise (KogumaX) \[Genshin Impact\]](https://osu.ppy.sh/beatmapsets/1503674#osu/3080649)
-  5. [will.i.am - \#thatPOWER feat. Justin Bieber (Woey) \[\#thatINSANE\]](https://osu.ppy.sh/beatmapsets/1995162#osu/4146360)  
-  6. [Yakushimaru Etsuko - I'm Humanity (DeppyForce) \[ATATCCGGGAATTGATATGTACAATTTCGGATAGGCCCATTAATGGATTAACAATGAATTTCGGACCTACGCAGGCTAAA\]](https://osu.ppy.sh/beatmapsets/1945582#osu/4025180)    
+  5. [will.i.am - \#thatPOWER feat. Justin Bieber (Woey) \[\#thatINSANE\]](https://osu.ppy.sh/beatmapsets/1995162#osu/4146360)
+  6. [Yakushimaru Etsuko - I'm Humanity (DeppyForce) \[ATATCCGGGAATTGATATGTACAATTTCGGATAGGCCCATTAATGGATTAACAATGAATTTCGGACCTACGCAGGCTAAA\]](https://osu.ppy.sh/beatmapsets/1945582#osu/4025180)
 - Hidden
   1. [Crystal Castles - Vietnam (Spork Lover) \[A journey to a sinister past\]](https://osu.ppy.sh/beatmapsets/1015980#osu/2126494)
   2. [x0o0x\_ - '''''' (Ryuusei Aika) \[....\]](https://osu.ppy.sh/beatmapsets/1922665#osu/3968917)
-  3. [Rohi - Virtual Angel (verychill) \[Extra\]](https://osu.ppy.sh/beatmapsets/2014090#osu/4195129)  
+  3. [Rohi - Virtual Angel (verychill) \[Extra\]](https://osu.ppy.sh/beatmapsets/2014090#osu/4195129)
 - HardRock
   1. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[KogumaX's Extra\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2921013)
   2. [Islet - Yukidoke (feat. isui) (\_Epreus) \[apart\]](https://osu.ppy.sh/beatmapsets/1963156#osu/4068898)
@@ -229,12 +229,12 @@ This competition has come to an end and resulted in the following podium:
   2. [cosMo@BousouP feat. Hatsune Miku - Hyper LATiON (-Tynamo) \[Expert\]](https://osu.ppy.sh/beatmapsets/1281410#osu/4126156)
   3. [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
   4. [Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma (JustALeaf) \[the good\]](https://osu.ppy.sh/beatmapsets/1351033#osu/2797076)
-  5. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3471908)  
-  6. [Silver Forest - Tsurupettan (NekuMagetsu) \[Flat Chest\]](https://osu.ppy.sh/beatmapsets/1562683#osu/3191129)    
+  5. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3471908)
+  6. [Silver Forest - Tsurupettan (NekuMagetsu) \[Flat Chest\]](https://osu.ppy.sh/beatmapsets/1562683#osu/3191129)
 - Hidden
   1. [Minato Aqua - Take Over (09kami) \[buhei & Yoshino's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1286115#osu/2671440)
   2. [subeteanatanoseidesu. - N (wafer) \[ii\]](https://osu.ppy.sh/beatmapsets/1909071#osu/3937516)
-  3. [Maoto Naka - Chicken Game (Chris Jasorka) \[Don't look at this Chicken\]](https://osu.ppy.sh/beatmapsets/1764011#osu/3610547)  
+  3. [Maoto Naka - Chicken Game (Chris Jasorka) \[Don't look at this Chicken\]](https://osu.ppy.sh/beatmapsets/1764011#osu/3610547)
 - HardRock
   1. [Hatsune Miku - FINGERCONTROL SPEED BENCHMARK (Seamob) \[227 (+DT 340)\]](https://osu.ppy.sh/beatmapsets/1850180#osu/3800698)
   2. [Monster Siren Records - Magic Theorem (CebollaVladimir) \[A theorem of a fantasy\]](https://osu.ppy.sh/beatmapsets/1856763#osu/3816056)
@@ -258,7 +258,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Leah Kate - 10 Things I Hate About You (Sped Up & Cut Ver.) (Log Off Now) \[Mommy Issues\]](https://osu.ppy.sh/beatmapsets/1881428#osu/3873445)
   3. [Polyphia - ABC feat. Sophia Black (HinaMommy) \[Wanpachi's aiue(xpert)o\]](https://osu.ppy.sh/beatmapsets/1931669#osu/3997326)
   4. [xaev - pronoun picker sing berdlycore (wafer) \[Oh Um Oh Uh It It's Oh Well Um Mmm It's How Do I Put This Very... ... Smart\]](https://osu.ppy.sh/beatmapsets/1961676#osu/4129460)
-  5. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)       
+  5. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)
 - Hidden
   1. [IOSYS - Qualia (wetdog123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1213880#osu/2526517)
   2. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#osu/87728)
@@ -283,7 +283,7 @@ This competition has come to an end and resulted in the following podium:
   2. [DJ Genki feat. yukacco - Ready Go(2017 Updata MIX) (Abelia) \[ULTRA HAPPY!!!\]](https://osu.ppy.sh/beatmapsets/1105263#osu/2310075)
   3. [Perfume - Daijobanai (\_derp) \[Daijobu\]](https://osu.ppy.sh/beatmapsets/659613#osu/1396912)
   4. [Getty vs. DJ DiA - Ops:Code -Rapture- (Realazy) \[sahuang's Extra\]](https://osu.ppy.sh/beatmapsets/776328#osu/1656233)
-  5. [YUC'e - Night Club Junkie (Nathan) \[fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/756066#osu/1723473)       
+  5. [YUC'e - Night Club Junkie (Nathan) \[fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/756066#osu/1723473)
 - Hidden
   1. [PSYQUI - Still in my heart feat. Punipuni Denki (Typ4) \[Insane the Tea\]](https://osu.ppy.sh/beatmapsets/961460#osu/2072692)
   2. [Rokudenashi - Tada Koe Hitotsu (Aruyy) \[he\]](https://osu.ppy.sh/beatmapsets/1950993#osu/4039753)
@@ -308,7 +308,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Feint - Tower Of Heaven (You Are Slaves) (eLy) \[Heaven\]](https://osu.ppy.sh/beatmapsets/128931#osu/845391)
   3. [Criticrista - Kyu Kyu Kyun Heart Shaker (TV Size) (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1449815#osu/2980818)
   4. [REOL - VIORA (Sparhten) \[Addiction\]](https://osu.ppy.sh/beatmapsets/989745#osu/2070365)
-  5. [Minstrel - Yotogibanashi no Kamikakushi (Ryuusei Aika) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/1900605#osu/3917717)       
+  5. [Minstrel - Yotogibanashi no Kamikakushi (Ryuusei Aika) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/1900605#osu/3917717)
 - Hidden
   1. [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi — Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
   2. [Kali Uchis - telepatia (mnyui) \[my bed is empty\]](https://osu.ppy.sh/beatmapsets/1575809#osu/3217272)
@@ -322,7 +322,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [HOYO-MiX - Termination of Desires (ScubDomino) \[Musou no Hitotachi\]](https://osu.ppy.sh/beatmapsets/1585145#osu/3237780)
   2. [ginkiha - EOS (Cytusine) \[Extra\]](https://osu.ppy.sh/beatmapsets/1754349#osu/3590175)
-  3. [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)     
+  3. [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)
 
 ## Match results
 
@@ -619,7 +619,7 @@ Sunday, 11 June 2023:
    - In order to be eligible to play in the tournament, a player must:
      - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asian regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
+2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asian regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
@@ -655,7 +655,7 @@ Sunday, 11 June 2023:
    - Number of wins
    - Sum of wins of the tied team's opponents
    - The result of an extra play-off match (if needed)
-6. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.   
+6. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.
 7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
 
 #### Knock-out stage rules
@@ -687,7 +687,7 @@ Sunday, 11 June 2023:
    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
    - For balancing reasons, HardRock along with Hidden + HardRock as well as Easy along with Easy + Hidden are not considered as a unique combination.
 6. The tiebreaking system works as follows:
-   - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
+   - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
