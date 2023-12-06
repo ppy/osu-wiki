@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2019 Fanart Contest"
+title: Summer 2019 Fanart Contest
 date: 2019-07-12 02:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ Make sure you read the rules carefully before entering. We've had a lot of other
 
 - **All entries MUST relate to SUMMER in some way.** This means summer the season. Obvious is good, subtle is also fine, but make sure that it isn't *too* subtle. Remember what the contest is about!
 - **All entries must be suitable for all-ages viewing.** Upwards of a hundred thousand people or more may see your entry if it makes it to the main-menu, and possibly for several months at a time.
-- **As above, if you're drawing swimsuits, please keep them modest!** Bikinis and the like are fine, just try not to be *too* titillating. Try and remember also that each mascot does actually have established body sizes and proportions as per their design. You won't be disqualified for straying too far from the latter, but still! 
+- **As above, if you're drawing swimsuits, please keep them modest!** Bikinis and the like are fine, just try not to be *too* titillating. Try and remember also that each mascot does actually have established body sizes and proportions as per their design. You won't be disqualified for straying too far from the latter, but still!
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** Anything inside the dotted circle will NOT be visible during voting phase, and will be heavily obscured by the main menu cookie if it makes it to the game client.
 - **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!** Please don't do this. It doesn't need to be there when you're done drawing, it just makes your work look worse.
 - **ACCOUNT FOR THE DOTTED osu! COOKIE TEMPLATE IN THE COMPOSITION OF YOUR WORK!** We've already said this, but anything inside the dotted circle will *not* be seen during voting phase and will be very difficult to see on the main menu. You still need to draw something there — don't just leave it blank, but be creative about it. Check out previous contest entries for inspiration!

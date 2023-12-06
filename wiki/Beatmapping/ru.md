@@ -1,6 +1,6 @@
 # Маппинг
 
-**Beatmapping** (также *маппинг* или *битмаппинг*) — это процесс создания [карт](/wiki/Beatmap) для игры в osu!. Маппинг включает в себя выбор песни, настройку [тайминга](/wiki/Client/Beatmap_editor/Timing) и расстановку [игровых объектов](/wiki/Gameplay/Hit_object). По желанию сюда также можно отнести добавление [скина](/wiki/Skinning) или [сториборда](/wiki/Storyboard#storyboarding).
+**Beatmapping** (также *маппинг* или *битмаппинг*) — это процесс создания [карт](/wiki/Beatmap) для игры в osu!. Маппинг включает в себя выбор песни, настройку [тайминга](/wiki/Client/Beatmap_editor/Timing) и расстановку [игровых объектов](/wiki/Gameplay/Hit_object). По желанию сюда также можно отнести добавление [скина](/wiki/Skinning) или [сториборда](/wiki/Storyboard#создание).
 
 Человека, создающего карты, называют *маппером*. Обычно мапперы хотят [ранкнуть свои карты](/wiki/Beatmap) и для этого следуют [процедуре ранкинга карт](/wiki/Beatmap_ranking_procedure).
 
@@ -40,6 +40,6 @@
 
 ### Design
 
-*Основные статьи: [Design](/wiki/Client/Beatmap_editor/Design) и [Storyboarding](/wiki/Storyboard#storyboarding)*
+*Основные статьи: [Design](/wiki/Client/Beatmap_editor/Design) и [Storyboarding](/wiki/Storyboard#создание)*
 
 На вкладке `Design` можно добавить фоновое изображение или видео для карты, а также создать простой [сториборд](/wiki/Storyboard). Впрочем, сториборд можно создать и в [текстовом редакторе или специализированной программе](/wiki/Storyboard/Scripting) — в этом случае вкладка в редакторе не пригодится.

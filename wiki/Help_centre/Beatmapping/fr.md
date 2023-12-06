@@ -30,7 +30,7 @@ Pour publier votre beatmap, allez dans l'éditeur et allez dans `Fichier` > `Pub
 
 Votre beatmap pourra ainsi être téléchargée sur le site web. La mise à jour d'une beatmap est le même processus que pour une beatmap déjà téléchargée.
 
-Chaque utilisateur a un nombre limité de beatmaps qu'il peut publier simultanément. Si vous laissez une beatmap inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Beatmap/Category#cimetière) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
+Chaque utilisateur a un nombre limité de beatmaps qu'il peut publier simultanément. Si vous laissez une beatmap inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Beatmap/Category#graveyard) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
 
 ## L'éditeur me dit : "Vous n'êtes pas le propriétaire de la beatmap que vous essayez de publier !" {id=wrong-author}
 

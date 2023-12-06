@@ -210,7 +210,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/13179234/c366/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/13179234/c366/)** to register.
    - Players need to choose a division according to their chat software, i.e. the Discord division or QQ division. The QQ division and Discord division will each have an independent tournament, but use same mappool.
    - Players **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/kR4hJnPs) after register, according to their choice during registration.
    - **There are no forced geographical limitations for this tournament, but players need to ensure they are available to play in the weekend 19:00–22:00 (UTC+8), or they may not be selected during the drafting phase.**
@@ -218,7 +218,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
-4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
@@ -261,11 +261,11 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
    - During phase 2 and 4, picks start in *decreasing* order, from the 24th to the 1st captain.
    - *This might change depending on the number of incoming registrations.*
-5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
+5. Each captain has 60 seconds to pick one player from the player pool on their turn.
    - If the captain does not pick a player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
-8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
+8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat.
    - Other players will be muted during the drafting phase.
 9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Captains may also choose to rename their team name after the drafting phase.
@@ -316,7 +316,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - The team that picks beatmaps first cannot ban players during the first 2 rounds.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
    - Picks and bans should be sent in the same message. If the ban is delayed, or the message causes a disagreement or misunderstanding, the referee has the right to ignore the ban.
-6. Teams will have 2 minutes to pick a beatmap and ban an opposing player, and 2 minutes to get ready. 
+6. Teams will have 2 minutes to pick a beatmap and ban an opposing player, and 2 minutes to get ready.
    - A team can request a timeout when they are picking a map. The timeout lasts 2 minutes and will be used after the map pick timer.
    - No matter which team needs to timeout after their pick, it can only allowed with the consent of both captains.
    - The tactical timeout may be called on a tiebreaker.
@@ -340,7 +340,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
    - Finals and Grand Finals use mappool #4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps   
+   - Qualifiers: 8 beatmaps
    - Mappool #1 & #2: 15 beatmaps
    - Mappool #3 & #4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.

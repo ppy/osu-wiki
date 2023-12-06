@@ -126,6 +126,8 @@ In August 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) step
 
 After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
 
+In October 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) was brought up as a project manager to help out with general organization of the project. In November 2023, ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) stepped down from the same role.
+
 ## References
 
 [^charts-09-oct]: [Forum thread by peppy (2009-10-25) "osu! Public Release b1077"](https://osu.ppy.sh/community/forums/topics/19115)

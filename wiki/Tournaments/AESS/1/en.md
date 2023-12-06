@@ -1,6 +1,6 @@
 # Aetherian's Summer Singles
 
-![AESS logo](img/banner.png)
+![AESS logo](img/banner.jpg)
 
 The **Aetherian's Summer Singles** (***AESS***) was a 1v1 single-elimination tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). It was the first instalment of the Aetherian's Summer Singles.
 

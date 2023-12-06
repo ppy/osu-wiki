@@ -251,7 +251,7 @@ Essayez de fermer tout programme supplémentaire avant de jouer à osu! si vous 
 
 **Parfois, les statuts de vos beatmaps peuvent ne pas être les bons, ce qui signifie que les scores que vous avez réalisés ne peuvent pas être soumis.**
 
-Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, une beatmap classée devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis. 
+Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, une beatmap classée devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis.
 
 ![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 

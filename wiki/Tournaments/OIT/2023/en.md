@@ -103,11 +103,11 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [UNDEAD CORPORATION - Kasha no Sakebu Yoru ni (Cut Ver.) (monzuul) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/2008164#osu/4177202)
   3. [M2U remixed celas - Legend of Seeker (Celine) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/2027742#osu/4225408)
   4. [BEMANI Sound Team "L.E.D." - GRAVITON (Ishtiaq) \[Nulspace perihelion\]](https://osu.ppy.sh/beatmapsets/1846696#osu/3793473)
-  5. [sasakure.UK x TJ.hangneil - World Ender (Hey lululu) \[Drop's Beyond\]](https://osu.ppy.sh/beatmapsets/1804812#osu/3819028)  
+  5. [sasakure.UK x TJ.hangneil - World Ender (Hey lululu) \[Drop's Beyond\]](https://osu.ppy.sh/beatmapsets/1804812#osu/3819028)
 - Hidden
   1. [KikuoHana - God of Longevity (Icekalt) \[Langlebigkeit\]](https://osu.ppy.sh/beatmapsets/1507370#osu/3087337)
   2. [Shouyu - Redemptor (Digital Universum ver.) (ImpurePug) \[Special\]](https://osu.ppy.sh/beatmapsets/1453412#osu/2988041)
-  3. [Hakushi Hasegawa - Doku (Halgoh) \[Halgoh & Sharu's Symbiotic Torrent\]](https://osu.ppy.sh/beatmapsets/1670363#osu/3411617)  
+  3. [Hakushi Hasegawa - Doku (Halgoh) \[Halgoh & Sharu's Symbiotic Torrent\]](https://osu.ppy.sh/beatmapsets/1670363#osu/3411617)
 - HardRock
   1. [Various Artists - GIRLS' LEGEND U (lushifer) \[Don't Stop! No, Don't Stop 'til Finish! (2023)\]](https://osu.ppy.sh/beatmapsets/1785665#osu/4145932)
   2. [SHIKI - BABYLON (Niva) \[Queen of Sheba\]](https://osu.ppy.sh/beatmapsets/2027996#osu/4225948)
@@ -134,11 +134,11 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
   3. [BlackY feat. Risa Yuzuki - Imitator (Elayue) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
   4. [RB.H x lixound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
-  5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
+  5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)
 - Hidden
   1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
   2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1708547#osu/3592328)
-  3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)  
+  3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)
 - HardRock
   1. [Imy - Seimei no Tomoshibi (KKipalt) \[Reflection\]](https://osu.ppy.sh/beatmapsets/1276373#osu/2651864)
   2. [Okui Masami - God Speed (Anxient) \[Torque\]](https://osu.ppy.sh/beatmapsets/1972419#osu/4092879)
@@ -165,11 +165,11 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [xi - Fiat Lux (knowledgeking) \[Let There Be Light\]](https://osu.ppy.sh/beatmapsets/1764633#osu/3612033)
   3. [Jimmy Weckl - Get Happy (Saturnalize) \[Festive\]](https://osu.ppy.sh/beatmapsets/1098547#osu/2295195)
   4. [USAO - Cthugha (Raids) \[Raids x Shinjuko's Flamedweller ft. Celine\]](http://osu.ppy.sh/beatmapsets/2018170#osu/4202376)
-  5. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)  
+  5. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)
 - Hidden
   1. [Uso to Chameleon - Karakuri Destruction (Surgis\_) \[Flake's Ekstreme\]](https://osu.ppy.sh/beatmapsets/1968237#osu/4115109)
   2. [Yorushika - Matasaburo (Aragon) \[Raijodo & a\_blue's Collab Expert\]](https://osu.ppy.sh/beatmapsets/1566187#osu/3614534)
-  3. [kors k - Insane Techniques (Plasma) \[Yokes' EX\]](https://osu.ppy.sh/beatmapsets/1783252#osu/3664066)  
+  3. [kors k - Insane Techniques (Plasma) \[Yokes' EX\]](https://osu.ppy.sh/beatmapsets/1783252#osu/3664066)
 - HardRock
   1. [Komame - Nostalgia feat. GUMI (Suzuaki\_Rin) \[Nostalgic\]](https://osu.ppy.sh/beatmapsets/1891143#osu/3896479)
   2. [Brandy - Cross Time !! (Leader) \[Muya's XX\]](https://osu.ppy.sh/beatmapsets/973162#osu/2150750)
@@ -196,11 +196,11 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [Isyana Sarasvati - IL SOGNO (feat. DeadSquad) (Melize) \[BISMILLAH COLLAB\]](https://osu.ppy.sh/beatmapsets/2017054#osu/4199342)
   3. [KINEMA106 - IMPERIAL PARADE (Atalanta) \[WORSHIP ME!!!\]](https://osu.ppy.sh/beatmapsets/1569800#osu/3205635)
   4. [Renpul - Alxaid (Cubby) \[Forlorn Dream\]](https://osu.ppy.sh/beatmapsets/1943263#osu/4019749)
-  5. [Frums - theyaremanycolors (ScubDomino) \[akariexpert\]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052453)  
+  5. [Frums - theyaremanycolors (ScubDomino) \[akariexpert\]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052453)
 - Hidden
   1. [Tsukuyomi - Konna Inochi ga Nakereba (Deca) \[ailv's Extra\]](https://osu.ppy.sh/beatmapsets/1317808#osu/2730291)
   2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) \[hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
-  3. [sekai - Idol (Petal) \[Special\]](https://osu.ppy.sh/beatmapsets/1988558#osu/4131025)  
+  3. [sekai - Idol (Petal) \[Special\]](https://osu.ppy.sh/beatmapsets/1988558#osu/4131025)
 - HardRock
   1. [Falcom Sound Team jdk - A-TO-Z (SupaV) \[Goddess of Evolution\]](https://osu.ppy.sh/beatmapsets/2015925#osu/4196814)
   2. [rei sirose - Hakidasu (Lunicia) \[Ascens' Expert\]](https://osu.ppy.sh/beatmapsets/1759673#osu/3824438)
@@ -409,7 +409,7 @@ Sunday, 2 July 2023:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages. 
+6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
