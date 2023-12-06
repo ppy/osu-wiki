@@ -3,7 +3,7 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
   - Geschichte
@@ -25,19 +25,13 @@ Mit Stand vom 19. Juli 2021 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users
 
 ## ![][osu!taiko] osu!taiko
 
-*Hauptseite: [osu!taiko](osu!taiko)*
-
-Mit Stand vom 4. Oktober 2022 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 9. Oktober 2023 ist ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
-
-*Hauptseite: [osu!catch](osu!catch)*
 
 Mit Stand vom 7. Juni 2021 ist ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
-
-*Hauptseite: [osu!mania](osu!mania)*
 
 Mit Stand vom 13. April 2023 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 

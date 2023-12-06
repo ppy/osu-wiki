@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Choice 2017 Results"
+title: Community Choice 2017 Results
 date: 2018-02-20 14:00:00 +0000
 ---
 

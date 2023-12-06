@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2017 Fanart Voting Now Open"
+title: Winter 2017 Fanart Voting Now Open
 date: 2017-12-07 09:00:00 +0000
 ---
 

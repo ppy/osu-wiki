@@ -5,7 +5,7 @@ tags:
   - TMC2nd
 ---
 
-# Touhou Project Mania Cup 2nd 
+# Touhou Project Mania Cup 2nd
 
 ![Touhou Project Mania Cup 2nd banner](img/logo.png)
 
@@ -14,7 +14,7 @@ The **Touhou Project Mania Cup 2nd** (***TMC 2nd***) was a team-based 2v2 osu!ma
 ## Tournament schedule
 
 | Event | Timestamp |
-| --: | :-- | 
+| --: | :-- |
 | Registration phase | 2021-12-20/2022-01-12 |
 | Qualifier showcase | 2022-01-23 (12:00 UTC) |
 | Qualifier stage | 2022-02-05/2022-02-06 |
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 - TieBreaker
   1. **[Shinra-Bansho - Kakumei no bullet (-Deepdive-) \[Hakurei Danmaku Collab\]](https://osu.ppy.sh/beatmapsets/1706414#mania/3486671)**
 
-### Quarter Finals 
+### Quarter Finals
 
 - Rice
   1. [nmk feat. Kanaeyume - Memoria (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1564347#mania/3194488)
@@ -455,9 +455,9 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 ### Tournament registration
 
 1. Please complete the [registration form](https://forms.gle/41fgDJ5XV3PzUGD2A) to registrate.
-2. Participants are required to join as teams. 
+2. Participants are required to join as teams.
 3. The size of a team has a minimum of 2 and a maximum of 4.
-4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening). 
+4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
    - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
    - There are no rank requirements for this tournament, but player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 5. All successfully formed teams will be published after the registration phase.
@@ -516,7 +516,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
      - This timeout is autimatically consumed when regular picking time runs out.
-     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it. 
+     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
    - Each team will receive one technical timeout of 5 minutes, to be used only when a technical issue occurs.
 6. Results for the Qualifiers will be published via a statistics sheet.
 

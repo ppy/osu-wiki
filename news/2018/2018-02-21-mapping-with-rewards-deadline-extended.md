@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping With Rewards Deadline Extended"
+title: Mapping With Rewards Deadline Extended
 date: 2018-02-22 12:00:00 +0000
 ---
 
@@ -29,7 +29,7 @@ The ruleset and conditions for future iterations of this contest are subject to 
 - You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song.
 - It is allowed to submit the beatmap sets via the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running.
 - **Both versions of the song are judged equally, mapping the full version or the short version of a song is a choice left open to the mapper.**
-- **Entries may be submitted until 1st May 2018 00:00 UTC+0.**  
+- **Entries may be submitted until 1st May 2018 00:00 UTC+0.**
 - **We reserve the right to change the map's background after it has been ranked.**
 - **Custom hitsound samples cannot be used.**
 - **Collaborations are not allowed because we aim for coherent sets**.

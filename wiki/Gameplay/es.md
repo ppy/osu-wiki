@@ -1,3 +1,8 @@
+---
+outdated_since: a4d5824d480a899dd65696033cb740e6ccf47bf5
+outdated_translation: true
+---
+
 # Juego
 
 - [Precisión](/wiki/Gameplay/Accuracy)

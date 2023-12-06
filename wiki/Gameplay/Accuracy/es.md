@@ -1,3 +1,8 @@
+---
+outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
+outdated_translation: true
+---
+
 # Precisión
 
 La precisión es una medida percentil de la capacidad de un jugador para golpear [objetos](/wiki/Gameplay/Hit_object) a tiempo. Hay tres tipos de precisión que un jugador puede tener: la precisión del beatmap, que depende de las puntuaciones obtenidas; la precisión general del jugador, que se pondera para permitir que las mejores puntuaciones se destaquen más; y la precisión de los [puntos de rendimiento (pp)](/wiki/Performance_points) del jugador, que depende de la precisión de la puntuación enviada.

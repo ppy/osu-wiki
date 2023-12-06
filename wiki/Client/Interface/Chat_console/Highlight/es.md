@@ -8,7 +8,7 @@ tags:
 
 # Resaltado
 
-Un **resaltado** (comúnmente abreviado como **HL**, a veces llamado **mención** o **ping**) es una forma de llamar la atención de alguien sobre el chat si está en línea. De forma predeterminada, se activa un resaltado cuando se escribe el nombre de usuario de un jugador en el chat. La lista de las palabras que se resaltan se pueden personalizar en las [opciones de chat en el juego](/wiki/Client/Options#in-game-chat) de osu!.
+Un **resaltado** (comúnmente abreviado como **HL**, a veces llamado **mención** o **ping**) es una forma de llamar la atención de alguien sobre el chat si está en línea. De forma predeterminada, se activa un resaltado cuando se escribe el nombre de usuario de un jugador en el chat. La lista de las palabras que se resaltan se pueden personalizar en las [opciones de chat en el juego](/wiki/Client/Options#chat-en-juego) de osu!.
 
 Es posible ignorar los resaltados de usuarios específicos agregando sus nombres de usuario a la [lista de ignorados](/wiki/Client/Options/Ignore_list) con `@h` adjunto.
 

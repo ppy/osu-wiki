@@ -107,7 +107,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Reol & nqrse - Ooedo ranvu (Sparhten) \[Extra+\]](https://osu.ppy.sh/beatmapsets/1302183#osu/2700747)
   4. [Zekk - Re\_Construct (yf\_bmp) \[Extra\]](https://osu.ppy.sh/beatmapsets/1318761#osu/2731945)
   5. [Zektbach - L'erisia(primal logic) (Roll\_Pan) \[SPECIAL\]](https://osu.ppy.sh/beatmapsets/329642#osu/730840)
-  6. [eFeL remixed by KHTP - Beat Cannon (KHTP Remix) (ktgster) \[Focus!\]](https://osu.ppy.sh/beatmapsets/1240125#osu/2578246)  
+  6. [eFeL remixed by KHTP - Beat Cannon (KHTP Remix) (ktgster) \[Focus!\]](https://osu.ppy.sh/beatmapsets/1240125#osu/2578246)
 - Hidden
   1. [Morimori Atsushi - Apsaras (Rtyzen) \[Dance\]](https://osu.ppy.sh/beatmapsets/1192309#osu/2484453)
   2. [REDALiCE - taboo tears you up (Down) \[Flandre Scarlet\]](https://osu.ppy.sh/beatmapsets/1341292#osu/2778415)
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Kaf - Montage (Sparhten) \[Exchanging Myself\]](https://osu.ppy.sh/beatmapsets/1344469#osu/2784409)
   4. [Twenty One Pilots - Heathens (Magnetude Bootleg) (Cassu2) \[blasphemy\]](https://osu.ppy.sh/beatmapsets/985093#osu/2061081)
   5. [Melissa Kinrenka - Eva (0ugi) \[Mediocre\]](https://osu.ppy.sh/beatmapsets/1275297#osu/2649758)
-  6. [Usada Pekora - Discommunication Alien (Deppyforce) \[uwaaa\]](https://osu.ppy.sh/beatmapsets/1175871#osu/2452581)  
+  6. [Usada Pekora - Discommunication Alien (Deppyforce) \[uwaaa\]](https://osu.ppy.sh/beatmapsets/1175871#osu/2452581)
 - Hidden
   1. [DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi- (Halfslashed) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1257553#osu/2613131)
   2. [Seiryu - Ultramarine (RLC) \[fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/107377#osu/281390)
@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Sanbaka - Virtual to LIVE (Bokamin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1223760#osu/2545390)
   4. [Xect. - Emptiness (Heilia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1210804#osu/2520609)
   5. [CHON - If (DeviousPanda) \[piroshki's Expert\]](https://osu.ppy.sh/beatmapsets/1076978#osu/2311803)
-  6. [The Quick Brown Fox - The Big Black (Blue Dragon) \[WHO'S AFRAID OF THE BIG BLACK\]](https://osu.ppy.sh/beatmapsets/41823#osu/131891)  
+  6. [The Quick Brown Fox - The Big Black (Blue Dragon) \[WHO'S AFRAID OF THE BIG BLACK\]](https://osu.ppy.sh/beatmapsets/41823#osu/131891)
 - Hidden
   1. [t+pazolite - Oshama Scramble! (NoHitter) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1230451#osu/2600438)
   2. [Expander - subtractive (anna apple) \[12345\]](https://osu.ppy.sh/beatmapsets/889514#osu/1859132)
@@ -228,15 +228,15 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   1. [kalon. - Juubaku (Meg) \[E-Xtra\]](https://osu.ppy.sh/beatmapsets/529724#osu/1123155)
   2. [ReX - Heart of Witch (alacat) \[Poruteri's Maximum\]](https://osu.ppy.sh/beatmapsets/209790#osu/726106)
-  3. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Ryuusei Aika) \[iljaaz's Expert\]](https://osu.ppy.sh/beatmapsets/1064632#osu/2229109)  
+  3. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Ryuusei Aika) \[iljaaz's Expert\]](https://osu.ppy.sh/beatmapsets/1064632#osu/2229109)
 - DoubleTime
   1. [Todo Kohaku - Mela! (Hinsvar) \[Darling\]](https://osu.ppy.sh/beatmapsets/1269084#osu/2637342)
   2. [Foreground Eclipse - Iris (x2x0x0x0x) \[Exc's Lunatic\]](https://osu.ppy.sh/beatmapsets/160057#osu/391018)
-  3. [Nomiya Ayumi - Colors (xierbaliti) \[Insane\]](https://osu.ppy.sh/beatmapsets/9695#osu/38845)  
+  3. [Nomiya Ayumi - Colors (xierbaliti) \[Insane\]](https://osu.ppy.sh/beatmapsets/9695#osu/38845)
 - FreeMod
   1. [DNCE - Cake By The Ocean (Sidetail) \[aYaYaYaYa\]](https://osu.ppy.sh/beatmapsets/824393#osu/1748652)
   2. [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
-  3. [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852) 
+  3. [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852)
 
 ### Round of 32
 
@@ -255,15 +255,15 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   1. [TWICE - Fanfare (\[Im Nayeon\]) \[Fragmented's Extra\]](https://osu.ppy.sh/beatmapsets/1195633#osu/2496243)
   2. [L.E.D.-G - EMPEROR OF THE AVALON (Acylica) \[Another\]](https://osu.ppy.sh/beatmapsets/1190926#osu/2481302)
-  3. [Given - Fuyu no Hanashi (- ascended -) \[Tragic Love Story\]](https://osu.ppy.sh/beatmapsets/1188198#osu/2476072)  
+  3. [Given - Fuyu no Hanashi (- ascended -) \[Tragic Love Story\]](https://osu.ppy.sh/beatmapsets/1188198#osu/2476072)
 - DoubleTime
   1. [yak\_won - Lucid (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/15898#osu/85591)
   2. [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[Nasmoeb's Insane\]](https://osu.ppy.sh/beatmapsets/942714#osu/1970539)
-  3. [chano & 40mP - Natsukoi Hanabi (Xayah) \[Insane\]](https://osu.ppy.sh/beatmapsets/963553#osu/2019793)  
+  3. [chano & 40mP - Natsukoi Hanabi (Xayah) \[Insane\]](https://osu.ppy.sh/beatmapsets/963553#osu/2019793)
 - FreeMod
   1. [Yorushika - Ai Nijou (Shiny Braixen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1035354#osu/2178023)
   2. [PUP - Anaphylaxis (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1169856#osu/2464094)
-  3. [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)  
+  3. [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)
 
 ### Group stage week 2
 

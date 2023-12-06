@@ -1,6 +1,6 @@
 # Come puoi aiutare!
 
-osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro! 
+osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro!
 
 Di seguito sono riportati alcuni dei modi con cui puoi aiutare la comunità:
 
@@ -12,7 +12,7 @@ Se sei nuovo nella osu! wiki, puoi leggere di più a riguardo nella [Guida per c
 
 ## Aiutaci a mantenere osu! amichevole e sicuro
 
-Per mantenere gli hub ufficiali della comunità sicuri, osu! ha un team di moderazione dedicato che monitora il forum e le chat 24 ore su 24. 
+Per mantenere gli hub ufficiali della comunità sicuri, osu! ha un team di moderazione dedicato che monitora il forum e le chat 24 ore su 24.
 
 Per fortuna, è comunque facile per te aiutarci a mantenere la sicurezza. Ecco alcuni dei molti modi con cui puoi aiutarci:
 
@@ -41,7 +41,7 @@ Ecco come puoi iniziare ad aiutare gli altri sul forum:
 osu! ha un team dedicato alla revisione, i [Beatmap Nominators](/wiki/People/Beatmap_Nominators), per controllare che le [beatmaps](/wiki/Beatmap) inviate siano pronte ad essere classificate per essere giocate da tutti. Tuttavia, questo non vuol dire che non puoi contribuire in questo settore:
 
 - Guardate o cercate mappe [In Attesa](https://osu.ppy.sh/beatmapsets?s=pending) contenenti artisti o canzoni che ti piacciono e/o a cui vuoi contribuire.
-- Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) e lasciate dei feedback nella sezioni discussioni della beatmap.
+- Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) e lasciate dei feedback nella sezioni discussioni della beatmap.
 - Leggi la [Guida al Modding](/wiki/Modding) e i [Criteri per il Ranking](/wiki/Ranking_criteria) per conoscere le basi del modding tecnico e cosa rende una beatmap classificabile.
 - Unisciti ai canali  `#mapping` e `#modreqs` nella chat in gioco e unisciti al discorso o semplicamente leggi cosa viene scritto.
 - Se hai tempo e dedizione, apri una [Modding Queue](https://osu.ppy.sh/community/forums/60) per dare uno spazio ai creatori di beatmap un posto per richiedere delle mods.

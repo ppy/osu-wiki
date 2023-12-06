@@ -9,7 +9,7 @@ outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
 
 ## Usi e informazioni
 
-Descrizioni famose di beatmap [classificate](/wiki/Beatmap/Category#classificate) spesso includono i seguenti:
+Descrizioni famose di beatmap [classificate](/wiki/Beatmap/Category#ranked) spesso includono i seguenti:
 
 - Una lista di tutte le [difficoltà ospiti](/wiki/Beatmap/Guest_difficulty) ed i loro mapper
 - Informazioni che aiuterebbero un giocatore a decidere se scaricare la beatmap
