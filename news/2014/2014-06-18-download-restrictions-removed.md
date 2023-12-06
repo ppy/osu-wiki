@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Download restrictions removed"
+title: Download restrictions removed
 date: 2014-06-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/89165979783/download-restrictions-removed
 ---

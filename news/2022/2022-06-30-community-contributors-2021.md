@@ -74,7 +74,7 @@ It should come as no surprise that when the modding and mapping community was as
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/frukoyurdakul.jpg)](https://osu.ppy.sh/users/7612550)
 
-Continuing a long-standing trend of developers striving to make the world better one quality-of-life utility at a time, frukoyurdakul has earned the eternal love of the osu! taiko community with his timidly-named utility titled "Manage Beatmap", more commonly referred to as the "SV tool" or the "fruko tool" for good reason. 
+Continuing a long-standing trend of developers striving to make the world better one quality-of-life utility at a time, frukoyurdakul has earned the eternal love of the osu! taiko community with his timidly-named utility titled "Manage Beatmap", more commonly referred to as the "SV tool" or the "fruko tool" for good reason.
 
 It is said that this singular utility is responsible for the birth of an entirely new mapping style, an accolade highly supported by the absolute deluge of nominations he received from the mapping and modding community.
 

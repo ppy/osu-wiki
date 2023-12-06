@@ -40,6 +40,6 @@ From casual fans riding the World Cup hype train, to the most avid of fruit fana
 
 If national pride is the order of the day, or if you just wish to show your undying love and support for your favourite players, profile banners for the remaining 16 teams will once again be available to purchase from the [osu!store](https://osu.ppy.sh/store/listing) in the very near future, so keep a close eye out!
 
-The following weeks' matches are sure to be full to the brim with more fantastic fruit action, so hopefully you’re just as excited for the remainder of this year's osu!catch World Cup as I am! I look forward to seeing you all this weekend for the Round of 16 and beyond! 
+The following weeks' matches are sure to be full to the brim with more fantastic fruit action, so hopefully you’re just as excited for the remainder of this year's osu!catch World Cup as I am! I look forward to seeing you all this weekend for the Round of 16 and beyond!
 
 —JBHyperion

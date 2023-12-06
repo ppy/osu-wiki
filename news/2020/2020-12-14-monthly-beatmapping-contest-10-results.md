@@ -38,7 +38,7 @@ With this performance, 0ppInOsu earned himself the first tier MBC profile badge,
 
 ### Runner-up
 
-[Mao](https://osu.ppy.sh/users/2204515) is in practically the opposite situation. 
+[Mao](https://osu.ppy.sh/users/2204515) is in practically the opposite situation.
 
 Having participated in *every* MBC of 2020 aside from the first, he's a contest veteran with certified mapping prowess, as seen by his **runner-up** submission for [kiraku - Dragon Blood](https://osu.ppy.sh/beatmapsets/1317855). By now you probably know what Mao's maps are like, so if you're a fan of overlaps and unconventional patterns, you'll have a good time.
 

@@ -41,7 +41,7 @@ Winner selection is a 2 step process. First, our team of experienced mappers [sc
 
 ### Winner
 
-A long-time mapper who's only recently delved into the MBC scene, [- Frontier -](https://osu.ppy.sh/users/4314710) impressed just about everyone with their entry of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1471067). He fully utilized the contest's "red anchor sliders only" theme in conjunction with his already creative slidershape choices, leading to a clear **first place win** in the judging bracket. 
+A long-time mapper who's only recently delved into the MBC scene, [- Frontier -](https://osu.ppy.sh/users/4314710) impressed just about everyone with their entry of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1471067). He fully utilized the contest's "red anchor sliders only" theme in conjunction with his already creative slidershape choices, leading to a clear **first place win** in the judging bracket.
 
 Judges weren't the only mappers fawning over this map. **9 of the 10 screeners** put - Frontier -'s submission in their top 5, easily finalizing it as the **screener's pick**!
 
@@ -69,13 +69,13 @@ Similar to osu!'s judging approach, osu!taiko began by a team of [screeners](/wi
 
 ### Winner
 
-To cap out the 2nd iteration of the osu!taiko MBC, we have another relatively lesser known Thai mapper taking the top spot: [KappuChinooo](https://osu.ppy.sh/users/9582525)! 
+To cap out the 2nd iteration of the osu!taiko MBC, we have another relatively lesser known Thai mapper taking the top spot: [KappuChinooo](https://osu.ppy.sh/users/9582525)!
 
 Their entry of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1468820) opts to use a more diverse selection of rhythms, combining 1/6 and 1/8 to create a standout experience even in the context of this less-than-standout limitation. He's produced excellent work and further proves the hidden Thaiko supremacy that many people are yet to realize!
 
 ### Runner-up
 
-The **runner-up** this month is [uone](https://osu.ppy.sh/users/5321719), who executed a super pleasant wavy SV idea in his version of [*MYUKKE. - Ginevra*](https://www.dropbox.com/s/mt5tpb9kqo9vtsf/radar%20%28suffering%29%20-%20Creative%20Dolphin.osz?dl=0). The map includes patterns that play incredibly well, which should be no surprise considering his playing skill and mapping history. He deserves a big congratulations as well! 
+The **runner-up** this month is [uone](https://osu.ppy.sh/users/5321719), who executed a super pleasant wavy SV idea in his version of [*MYUKKE. - Ginevra*](https://www.dropbox.com/s/mt5tpb9kqo9vtsf/radar%20%28suffering%29%20-%20Creative%20Dolphin.osz?dl=0). The map includes patterns that play incredibly well, which should be no surprise considering his playing skill and mapping history. He deserves a big congratulations as well!
 
 ## osu!catch winners
 
@@ -93,7 +93,7 @@ With a humble **14** entries, osu!catch skipped straight to the judging phase fo
 
 ### Winner
 
-The long-awaited **winner** of the first iteration of osu!catch MBC is [autofanboy](https://osu.ppy.sh/users/636114)! 
+The long-awaited **winner** of the first iteration of osu!catch MBC is [autofanboy](https://osu.ppy.sh/users/636114)!
 
 Having already established his status as a celebrated veteran in the mapping community, autofanboy showcased his experience in his rendition of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1471164), resulting in a beautifully-crafted beatmap that captivated the judges. Its intricate flow used this month's limitation more like a tool to explore ideas only viable in a no-slider map, rather than an obstacle that they had to map around. Make sure to give this wonderful map a try!
 

@@ -2,8 +2,8 @@
 outdated_translation: true
 outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
-    - BSC
-    - beatmap spotlight curator
+  - BSC
+  - beatmap spotlight curator
 ---
 
 # Beatmap Spotlight Curators
@@ -25,7 +25,7 @@ Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mo
 | Peran | Anggota |
 | :-- | :-- |
 | Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Manajer proyek | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Manajer proyek | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
 
 Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim ditandai dengan huruf tebal.
 

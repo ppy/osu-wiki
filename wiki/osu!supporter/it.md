@@ -73,7 +73,7 @@ osu!direct è il motore di ricerca e download di beatmap all'interno del gioco d
 
 ### Classifiche estese
 
-Inoltre, i supporter hanno accesso a una serie di [classifiche](/wiki/Beatmap#leaderboards) specifiche per beatmap disponibili sia in-game che sul sito web:
+Inoltre, i supporter hanno accesso a una serie di [classifiche](/wiki/Beatmap#classifiche) specifiche per beatmap disponibili sia in-game che sul sito web:
 
 - Classifiche globali per ogni combinazione di [modificatori di gioco](/wiki/Gameplay/Game_modifier)
 - Classifiche specifiche per paese per i giocatori che hanno la stessa bandiera
@@ -85,7 +85,7 @@ osu! offre ai supporter limiti più rilassati per varie funzionalità online:
 
 | Valore | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap in attesa](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
+| [Beatmap in attesa](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
 | Beatmap preferite online | 100 | 1000 |
 | Numero di amici | 500 | 1000 |
 

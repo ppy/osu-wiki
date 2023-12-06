@@ -1,3 +1,8 @@
+---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
+---
+
 # 最好方法
 
 这篇文章介绍了您在贡献时可能遇到的一些任务。文章中提到的方法可供您简化流程，并可在 GitHub 或在类似的平台上托管的其他项目中应用。
@@ -13,10 +18,12 @@
 如果要贡献并修改 GitHub 上的仓库，你需要创建一个受自己控制的副本，也就是*分支 (fork)*。当你创建分支时，即复制了一份此时的仓库并作为快照。要做出有意义的贡献，你需要在修改仓库内容前**始终保证你的分支与主仓库同步**——这可以直接在 GitHub 上完成：
 
 1. 进入你分出 (fork) 的 `osu-wiki` 仓库。
+
 2. 在下拉菜单中选择  `master` 分支。
+
 3. 点击 `同步上游仓库 (Fetch upstream)`，然后选择  `获取并合并 (Fetch and merge)`。
 
-![](img/update-branch.png "更新过时的分支")
+   ![](img/update-branch.png "更新过时的分支")
 
 现在，你的分支仓库已经获取到原仓库的所有更新。
 
@@ -27,22 +34,28 @@
 如果你在使用 GitHub 工具时遇到任何问题，或者你想覆盖你的分支内容，可以使用 osu! wiki 贡献者编写的一套工作流（自动化脚本，workflow）。
 
 1. 进入**你的分支仓库**，点击 `操作 (Actions)` 标签。
-2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`.
+
+2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`。
+
 3. 点击 `运行工作流 (Run workflow)`，并且勾选以下选项：
 
-![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-- **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
-- **是否覆盖目标仓库里的任何更改 (Overwrite any changes in the target repository)**：
-  - `true`：覆盖你的分支内的所有内容，还你一个纯净的  `ppy/osu-wiki` 的 `master` 分支。
-  - `false`（默认）：将你的更改与 `ppy/osu-wiki` 的更改合并。
-- **是否创建目标分支的副本 (Create a backup of your target branch)**：
-  - `true`：在以上操作进行之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
-  - `false`（默认）：不创建任何副本。
+   ![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
+
+   - **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
+   - **是否覆盖目标仓库里的任何更改 (Overwrite any changes in the target repository)**：
+     - `true`：覆盖你的分支内的所有内容，还你一个纯净的  `ppy/osu-wiki` 的 `master` 分支。
+     - `false`（默认）：将你的更改与 `ppy/osu-wiki` 的更改合并。
+   - **是否创建目标分支的副本 (Create a backup of your target branch)**：
+     - `true`：在以上操作进行之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
+     - `false`（默认）：不创建任何副本。
 
 4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 osu! 上游仓库 (Sync from osu! upstream)` 工作流任务 (task)。
 
-![](img/github-actions-workflow-overview.png "GitHub 操作 工作流 - 工作流概览")
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+
+   ![](img/github-actions-workflow-overview.png "GitHub 操作 工作流 - 工作流概览")
 
 ## 做出改动
 
@@ -90,12 +103,10 @@
 取决于冲突的严重程度，你有两种方法解决它：
 
 1. 如果你的拉取请求 (PR) 有`解决冲突 (Resolve conflicts)` 按钮，点击它。这会打开一个用于文本修改和对比的网页编辑器。
-
    1. GitHub 会高亮有冲突的区域。找到它们。
    2. 所有在 `<<<<<<<` 和 `=======` 之间的内容是你所做的修改。所有在 `=======` 和 `>>>>>>> master` 之间的内容是 `ppy/master` 分支上的内容。
-   3. 在这里，可以手动修改这些冲突的内容并删除 `<<<<<<<`、`======= `、`>>>>>>> master`标记。
+   3. 在这里，可以手动修改这些冲突的内容并删除 `<<<<<<<`、`=======`、`>>>>>>> master`标记。
    4. 重复以上操作，直至解决所有冲突。
    5. 当你完成后，点击`标记为已解决 (Mark as resolved)`。（只有这个文件中的所有冲突都被解决了才能点击。）
-
 2. 如果冲突比较复杂，难以在 GitHub 上解决，即无法点击`标记为已解决 (Resolve conflicts)` 这个按钮，很不幸，你只能[更新分支](#同步分支-(fork))，重新修改。
    - *注意：仅仅在 GitHub 网页上操作，无法解决这样的冲突。* 但仍然有其他解决方法，在这篇文章中不会介绍。因为，你仍旧需要覆盖和回退有冲突的修改，而大部分时候没有必要解决得这么麻烦。

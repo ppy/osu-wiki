@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June 2015 Ranking Charts"
+title: June 2015 Ranking Charts
 date: 2015-07-16 22:19:24 +0000
 tumblr_url: http://osunews.tumblr.com/post/124274059623/june-2015-ranking-charts
 ---
@@ -53,7 +53,7 @@ Relaxing map with relaxing song, not only hard difficulties, the easier difficul
 
 Our monthly beatmap contest winner. It's mapped well, but there's a lot of same pattern being repeated all over, which may makes people bored. But put that aside, the patterns on this map follows the music and rhythm well, especially Oni, which makes the map is interesting to play.
 
-- [MowtenDoo - El Bombito](https://osu.ppy.sh/beatmapsets/239262) by [xtrem3x](https://osu.ppy.sh/users/136385)  
+- [MowtenDoo - El Bombito](https://osu.ppy.sh/beatmapsets/239262) by [xtrem3x](https://osu.ppy.sh/users/136385)
 
 This map caught my attention. Despite of it being a really short song, it's really fun and enjoyable. And not only that, the song itself is really catchy, so playing it is somehow fun, both Muzukashii and Oni.
 

@@ -25,10 +25,8 @@ Zwar sind alle Menüs in der Benutzeroberfläche des Editors verfügbar, aber di
 Erstelle einen neuen Branch, nachdem du [Bewährte Methoden § Änderungen vornehmen](/wiki/osu!_wiki/Contribution_guide/Best_practices#änderungen-vornehmen) gelesen hast, um deine Änderungen abzuspeichern.
 
 1. Klicke auf den Namen des aktuellen Branches in der linken unteren Ecke oder drücke `F1` und tippe `branch` ein.
-
-  - Wähle `Create new branch...` aus, trage den Namen des Branches ein und drücke `Enter`.
-  - Damit du nicht vergisst, worum es in deiner Arbeit in etwa geht, wähle einen beschreibenden Namen. Beispielsweise kannst du für eine deutsche Übersetzung der Seite [Beatmap-Diskussion](/wiki/Beatmap_discussion) `de-modding-v2` benutzen.
-
+   - Wähle `Create new branch...` aus, trage den Namen des Branches ein und drücke `Enter`.
+   - Damit du nicht vergisst, worum es in deiner Arbeit in etwa geht, wähle einen beschreibenden Namen. Beispielsweise kannst du für eine deutsche Übersetzung der Seite [Beatmap-Diskussion](/wiki/Beatmap_discussion) `de-modding-v2` benutzen.
 2. Wähle den Namen des entsprechenden Branches im zuvor genannten Dropdown-Menü, um zu deinen Änderungen zurückzukehren.
 
 ## Bearbeiten
@@ -68,4 +66,4 @@ Artikel werden innerhalb von Ordnern mit dem originalen Text (`en.md`) und seine
 
 ## Die nächsten Schritte
 
-Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#selbstüberprüfung) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gib danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).
+Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#self-check) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gib danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).
