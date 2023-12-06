@@ -66,7 +66,7 @@ Los puntos de tiempo heredados tienen un color verde en la línea de tiempo infe
 
 ## Vista principal
 
-![Captura de pantalla de la pestaña timing en el editor](img/Timing_base-ES.png)
+![Captura de pantalla de la pestaña timing en el editor](/wiki/shared/timing/Timing_base-ES.png)
 
 La pestaña de temporización se puede abrir presionando `F3` y proporciona acceso rápido a las siguientes configuraciones:
 
