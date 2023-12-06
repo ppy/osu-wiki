@@ -1,6 +1,4 @@
 ---
-outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
-outdated_translation: true
 tags:
   - charts
   - Ranking Charts
@@ -131,7 +129,7 @@ En agosto de 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) d
 
 Después de la conclusión de la temporada Primavera 2021, el proyecto hizo una pausa, que duró hasta septiembre de 2021, cuando surgieron esfuerzos de reactivación, con ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) renunciando a su rol administrativo y ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) uniéndose en su lugar. En febrero de 2022, el proyecto reanudó sus operaciones luego de algunos cambios estructurales y de equipo.
 
-En octubre de 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) fue traído como un gerente de proyecto para ayudar con la organización general del proyecto. En noviembre de 2023, ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) dejó dicho rol.
+En octubre de 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) se incorporó como gestor del proyecto para ayudar en la organización general del mismo. En noviembre de 2023, ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) renunció al mismo cargo.
 
 ## Referencias
 
