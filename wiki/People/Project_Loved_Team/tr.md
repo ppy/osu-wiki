@@ -10,7 +10,7 @@ tags:
 
 # Project Loved Takımı
 
-**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#sevilen) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Community/Project_Loved)'ı yöneten osu! topluluğu üyeleridir. Onlar, forumlarda şeker pembesi olan isim renkleri ve `LVD` yazan kullanıcı grubu rozetleri ile ayırt edilirler.
+**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#loved) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Community/Project_Loved)'ı yöneten osu! topluluğu üyeleridir. Onlar, forumlarda şeker pembesi olan isim renkleri ve `LVD` yazan kullanıcı grubu rozetleri ile ayırt edilirler.
 
 [Project Loved grup sayfası](https://osu.ppy.sh/groups/31) tüm takım üyelerini listeler.
 

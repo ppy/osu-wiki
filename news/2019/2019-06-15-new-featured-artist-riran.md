@@ -19,7 +19,7 @@ Interested? Check out a sample of a few tracks below:
 <audio controls>
     <source src="https://assets.ppy.sh/artists/40/previews/950.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### Take The Long Way Home
 
 <audio controls>
@@ -52,7 +52,7 @@ The [Mappers' Guild](http://mappersguild.com/) will also be hosting a series of 
 
 If this sort of sound is your jam, get excited because we've got more coming at the end of the month! A LOT more. The observant among you may have already caught wind of a little hint we dropped at the beginning of June.
 
-As an extra note, you may see a few more releases from us over the coming weeks - [pishifat](https://osu.ppy.sh/users/3178418) and [Toy](https://osu.ppy.sh/users/2757689) have been hard at work securing a *gigantic* roster of new talent from a variety of genres and musical styles both familiar and fresh that we're super hyped to share with you guys. 
+As an extra note, you may see a few more releases from us over the coming weeks - [pishifat](https://osu.ppy.sh/users/3178418) and [Toy](https://osu.ppy.sh/users/2757689) have been hard at work securing a *gigantic* roster of new talent from a variety of genres and musical styles both familiar and fresh that we're super hyped to share with you guys.
 
 Keep your eyes and ears peeled!
 

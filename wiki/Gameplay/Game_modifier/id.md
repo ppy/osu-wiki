@@ -1,14 +1,14 @@
 ---
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
- - daftar mod
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
+  - mod
+  - game modifier
+  - overview
+  - list of mods
+  - daftar mod
+  - NoMod
+  - No Mod
+  - FreeMod
+  - Free Mod
 ---
 
 # Game modifier

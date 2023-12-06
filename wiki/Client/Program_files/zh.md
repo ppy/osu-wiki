@@ -27,7 +27,7 @@
 
 ### Exports
 
-当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Client/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ”](/wiki/Client/Beatmap_editor/Menu) 后出现。**它保存着你从osu!导出的.osz（谱面）或.osk（皮肤）文件。** 
+当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Client/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ”](/wiki/Client/Beatmap_editor/Menu) 后出现。**它保存着你从osu!导出的.osz（谱面）或.osk（皮肤）文件。**
 
 如果你想了解如何这么做，参见[osu! 文件格式](/wiki/Client/File_formats)。
 

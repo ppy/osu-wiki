@@ -10,7 +10,7 @@ tags:
 
 The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a 1v1 double-elimination osu!mania 4K tournament that was open exclusively to Indonesian players. It was the fifth instalment of the osu!mania 4K Indonesia Cup series.
 
-## Tournament schedule 
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -58,7 +58,7 @@ The osu!mania 4K Indonesia Cup 2022 was run by various osu! community members pr
 - [Discord server](https://discord.gg/pfjjrbtRCh)
 - [Challonge bracket](https://challonge.com/omic2022)
 
-## Participants 
+## Participants
 
 Below is the list of players that qualified to Round of 32 (alongside with seeding) from the total of 46 players that were registered.
 
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Camellia - liquated (Eclipse-) \[gragh grag\]](https://osu.ppy.sh/beatmapsets/1174195#mania/2448995)**
 
-### Qualifiers 
+### Qualifiers
 
 **[Download the mappack here! (21 MB)](https://drive.google.com/file/d/1FbXVE1THzf6MDHeU0uSRJC2X6m9pt-T_/view?usp=sharing)**
 
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Laur - Exitium (zutu) \[Stage 4: Destruction\]](https://osu.ppy.sh/beatmapsets/1793987#mania/3676738)
   5. [USAO & Camellia - Mobius (FelixSpade) \[Stage 5: Ouroboros\]](https://osu.ppy.sh/beatmapsets/1793983#mania/3676730)
 
-## Match results 
+## Match results
 
 ### Grand Finals
 
@@ -365,9 +365,9 @@ Sunday, 10 July 2022:
 - Flag on each participant's osu! account must be **Indonesia**.
 - The lowest rank for this tournament is **#5000 4K global rank**.
 - Tournament staff members are not permitted to participate as players in this tournament, except for the following positions:
-  - Streamer 
-  - Commentator 
-  - Designer 
+  - Streamer
+  - Commentator
+  - Designer
 - Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
 
 ### General rules
