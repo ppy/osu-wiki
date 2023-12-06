@@ -237,7 +237,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | :-- | :-- |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Dedicación excepcional e interminable a la gestión de la comunidad por más de una decada |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Compromiso excepcional con la escena de modding y los [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Excelente contribución a los asuntos de moderación y a la osu! wiki (wikifriend)
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Excelente contribución a los asuntos de moderación y a la osu! wiki (wikifriend) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Contribución excelente y pionera al modo de juego osu!taiko |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo sobresaliente en asuntos de gestión de beatmaps |
 | ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Excelente contribución a la escena de mapping a través del desarrollo de utilidades ([osumod.com](https://osumod.com)) |
