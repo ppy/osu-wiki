@@ -1,6 +1,4 @@
-.github/
-meta/
-wiki/Tournaments/TEMPLATE.md
-wiki/Tournaments/README.md
-wiki/Tournaments/TEMPLATE-SERIES.md
-LICENCE.md
+/.github/pull_request_template.md
+/LICENCE.md
+/meta/osu-matplotlib-theme/README.md
+/wiki/Legal/SCTL/

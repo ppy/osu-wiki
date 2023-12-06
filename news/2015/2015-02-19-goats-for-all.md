@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goats For All!"
+title: Goats For All!
 date: 2015-02-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/111464692818/goats-for-all
 ---

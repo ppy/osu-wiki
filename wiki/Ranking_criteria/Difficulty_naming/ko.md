@@ -1,3 +1,8 @@
+---
+outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
+outdated_translation: true
+---
+
 # 난이도 작명
 
 난이도 이름은 맵이 얼마나 어려운지를 나타내야 하므로, 이 문서에서는 오랜 시간동안 일반적으로 사용된 이름 및 대체적으로 사용된 이름을 제시합니다. 그러나 비트맵의 각 난이도 차이를 명확하게 설명하고 있는 한 원하는 형태로 난이도 이름을 작성할 수 있습니다.
@@ -8,7 +13,7 @@
 
 *참고: **Marathon** 난이도는 예전에 플레이 타임이 긴 맵을 올리기 위해 필요했던 이름으로, 단일 난이도에 자주 쓰이게 됐습니다. 요즘에는 긴 맵이나 송 컴필레이션에 쓰입니다.*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -16,15 +21,15 @@
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -32,7 +37,7 @@
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -40,7 +45,7 @@
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## 타 게임으로부터 가져온 작명 방식  
+## 타 게임으로부터 가져온 작명 방식
 
 다른 리듬 게임에서 가져온 음악의 비트맵셋은 종종 해당 게임의 난이도 이름을 차용합니다. 또한 해당 난이도 이름은 다른 음악에도 사용할 수 있습니다. 다음은 osu!에 적용되는 몇 가지 작명 방식입니다:
 

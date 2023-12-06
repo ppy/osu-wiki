@@ -38,6 +38,6 @@ The 2018 iteration expanded into notability with over 300 attendees and a runtim
 
 COE 2019 moved its operations to Brabanthallen in 's-Hertogenbosch (a.k.a. Den Bosch). With the bigger venue, notably sporting a large stage, the convention housed over 500 people and offered more VR booths, stage events, and a dedicated VIP area.
 
-Both the 2020 and 2021 iterations were cancelled due to the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). 
+Both the 2020 and 2021 iterations were cancelled due to the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic).
 
 With 2022, COE became even bigger and saw 750 people, a rhythm game arcade, more partners, even more stage events, and an introduction of "gamer caves", private rooms that attendees could rent out in advance. It also introduced an osu! tournament with a prize pool totalling 3,000 EUR.

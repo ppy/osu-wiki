@@ -30,7 +30,7 @@ Pencil dog and a mysterious frog both make a low-key cameo appearance, of course
 
 [![](https://assets.ppy.sh/contests/142/banners/Llamartist.jpg)](https://assets.ppy.sh/contests/142/winners/Llamartist.png)
 
-The very aptly named [**Llamartist**](https://osu.ppy.sh/users/14697690) impressed **2938** voters with a beautiful bout of pippi and Mocha appreciating aquatic aesthetics. 
+The very aptly named [**Llamartist**](https://osu.ppy.sh/users/14697690) impressed **2938** voters with a beautiful bout of pippi and Mocha appreciating aquatic aesthetics.
 
 Is it a date? A field trip for a school project? Are we the fish Mocha is pointing at? So many questions, but we'll thankfully have the next few months to think it over while this wonderful piece makes its well-deserved main menu appearance.
 
@@ -100,7 +100,7 @@ Probably.
 
 [Download an archive containing high-quality images for all the finalist entries here!](https://assets.ppy.sh/contests/142/APTB2022-Finalists.zip)
 
-You'll now be able to enjoy (almost) all of the finalists listed above as the Spring 2022 Seasonal backgrounds, now available in the osu! game client. 
+You'll now be able to enjoy (almost) all of the finalists listed above as the Spring 2022 Seasonal backgrounds, now available in the osu! game client.
 
 For all the others, check out the [contest listing](https://osu.ppy.sh/community/contests/142) for the full voting totals and maybe sling their artists a message to ask where you can find a full-size version if you find one you like. Seriously, artists like it when you do this kind of thing! Be social! Say hello!
 

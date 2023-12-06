@@ -4,7 +4,7 @@ no_native_review: true
 
 # Guía de contribución a la osu! wiki
 
-¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#autocomprobación).
+¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#self-check).
 
 No se espera que los nuevos colaboradores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
 
@@ -22,15 +22,12 @@ Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribu
 
 0. [Cree](https://github.com/signup) una cuenta de GitHub.
 1. Abra el repositorio [`ppy/osu-wiki`][osu_wiki] y haga clic en `Fork` en la esquina superior derecha para hacer una copia controlada del wiki. Para volver a tu bifurcación, ve a [`ppy/osu-wiki`][osu_wiki] y presiona `Fork` nuevamente.
-
-  - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
-
+   - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
 2. Lea [Buenas prácticas § Realizar cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#hacer-cambios) y realiza las ediciones necesarias. Si bien es libre de usar cualquier aplicación de su elección, la osu! wiki tiene instrucciones detalladas sobre dos flujos de trabajo:
+   - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
 
-  - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
-
-## Autocomprobación
+## Autocomprobación {id=self-check}
 
 Cuando haya terminado de editar, tómese un tiempo para revisar su trabajo. Revise la siguiente lista de verificación rápida:
 
@@ -50,7 +47,7 @@ Después de que los cambios se verifiquen dos veces, se confirmen y se envíen a
 2. Haga clic en el botón `Contribute↓` y seleccione `Open pull request`.
 3. Complete los detalles de acuerdo con [Buenas prácticas § Abrir una solicitud de cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#abrir-una-solicitud-de-cambios) y haga clic en `Create pull request`.
 
-## Revisión
+## Revisión {id=review}
 
 Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma gratuita o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debe abordar los comentarios [aplicando las revisiones](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-revisiones) o explicando por qué prefiere mantener las cosas como están.
 
@@ -61,7 +58,7 @@ Si nadie lo ha revisado al cabo de un par de días, intente lo siguiente:
 - Para obtener ayuda con la traducción, consulte un par de solicitudes de cambios fusionadas para su idioma y póngase en contacto con sus revisores y/o autores ([ejemplo de consulta de GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ES])).
 - ¡Pide a tus amigos un vistazo rápido!
 
-Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automáticas](/wiki/osu!_wiki/Maintenance#comprobaciones-de-ic) que garantizan que sus cambios sigan el estilo común de la wiki y no tengan errores de formato. Para ver su estado, abra la pestaña `Actions` de su solicitud de cambios y siga los mensajes de diagnóstico debajo de los errores, si los hay.
+Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automáticas](/wiki/osu!_wiki/Maintenance#ci-checks) que garantizan que sus cambios sigan el estilo común de la wiki y no tengan errores de formato. Para ver su estado, abra la pestaña `Actions` de su solicitud de cambios y siga los mensajes de diagnóstico debajo de los errores, si los hay.
 
 ## Fusión
 

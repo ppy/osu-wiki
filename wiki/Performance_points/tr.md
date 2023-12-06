@@ -15,7 +15,7 @@ Böyle bir skor sisteminin ilk uygulaması herkese açık olarak Nisan 2012'de d
 
 Bu tarihten itibaren "pp" ("performans puanları" için bir kısaltma) olarak bilinen bu yeni sistem, önceki oyuncu performans standardının toplam [skordan](/wiki/Gameplay/Score) ibaret olması yerine beceriyi isabetli bir şekilde yansıtan bir şeye dönüştürmeye çalıştı. Yeni sistem, o dönemde oyuncu kitlesi arasında büyük beğeni topladı.
 
-Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [Dereceli](/wiki/Beatmap/Category#dereceli) skor sisteminin tamamen yerini alacak olan yeni sistem, skor güncellemeleri her 30 dakikada bir hesaplanacak şekilde oyuna resmen uygulandı. Aynı yılın Ağustos ayında sistem gerçek zamanlı güncellenecek şekilde geliştirildi.
+Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [Dereceli](/wiki/Beatmap/Category#ranked) skor sisteminin tamamen yerini alacak olan yeni sistem, skor güncellemeleri her 30 dakikada bir hesaplanacak şekilde oyuna resmen uygulandı. Aynı yılın Ağustos ayında sistem gerçek zamanlı güncellenecek şekilde geliştirildi.
 
 *Not: Performans Puanları sisteminin orijinal yapımı olan ppv1 sisteminin de bir değişiklik kaydı vardır. Bunu, ilgili [forum konusundan](https://osu.ppy.sh/community/forums/topics/92185) görüntüleyebilirsiniz.*
 
@@ -45,7 +45,7 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 *Hedefleme*, bir beatmapteki ardışık notaları tutarlı bir şekilde vurmanın zorluğunu hesaba katan bir çekirdek değerdir.
 
-[Yaklaşma oranı](/wiki/Beatmap/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Gameplay/Game_modifier) (özellikle [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), [Hidden](/wiki/Gameplay/Game_modifier/Hidden) ve [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
+[Yaklaşma oranı](/wiki/Beatmap/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Gameplay/Game_modifier) (özellikle [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), [Hidden](/wiki/Gameplay/Game_modifier/Hidden) ve [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler.
 
 [osu!](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/osu!/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
 
@@ -83,7 +83,7 @@ Aynı zamanda, eski web sitesinde en üstte bulunan `sıralama` açılan panelin
 
 **Performansınız ağırlıklı olarak belli başlı maplerdeki skorlarınıza göre derecelendirilir.**
 
-Gelişmenin en iyi yolu zor maplerde iyi skorlar elde etmeye çalışmak veya her çeşit beatmapi oynamaktır. 
+Gelişmenin en iyi yolu zor maplerde iyi skorlar elde etmeye çalışmak veya her çeşit beatmapi oynamaktır.
 
 Aşağıdaki ipuçlarını göz önünde bulundurun:
 
@@ -98,7 +98,7 @@ Aşağıdaki ipuçlarını göz önünde bulundurun:
 
 Ağırlık sistemi hakkında daha fazla bilgiyi [üstteki kısımda](#ağırlık-sistemi) bulabilirsiniz.
 
-### Dereceli maplerde çok fazla skora sahip olmak ne kadar bonus pp kazandırır? 
+### Dereceli maplerde çok fazla skora sahip olmak ne kadar bonus pp kazandırır?
 
 **Kaydedilen yüksek skorlar için 416.6667 pp'ye kadar bonus pp verilir. Bu yaklaşık olarak 25397 skorda elde edilir.**
 
@@ -108,7 +108,7 @@ Bu bonusun tam miktarını aşağıdaki formülü kullanarak hesaplayabilirsiniz
 
 Bu bonusun yarısına ulaşmak için gereken ortanca skor sayısı yaklaşık 1,155 skordur. Gördüğünüz üzere, gereken skor miktarı spektrumun üst limitine doğru keskin bir şekilde yükselmektedir.
 
-### Kolay mapleri oynayarak pp kazanamamamın sebebi ağırlık sistemi mi? 
+### Kolay mapleri oynayarak pp kazanamamamın sebebi ağırlık sistemi mi?
 
 **Yukarıda belirtildiği üzere, eski skorlar zamanla kendi toplam değerlerinin yüzde birinden daha az bir miktarda ağırlıklandırılacaktır. Bu, siz geliştikçe eninde sonunda toplam skorunuzu neredeyse hiç etkilemeyeceği anlamına geliyor.**
 

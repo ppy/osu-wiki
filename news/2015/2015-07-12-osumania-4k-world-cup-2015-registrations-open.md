@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2015 - Registrations open!"
+title: osu!mania 4K World Cup 2015 - Registrations open!
 date: 2015-07-12 19:44:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/123912240253/osumania-4k-world-cup-2015-registrations-open
 ---
