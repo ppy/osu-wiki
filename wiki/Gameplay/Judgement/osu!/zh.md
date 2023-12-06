@@ -39,7 +39,7 @@ window truncation https://github.com/peppy/osu-stable-reference/blob/1531237b633
 
 ### 圆圈
 
-根据连击的准确程度，[圆圈](/wiki/Gameplay/Hit_object/Hit_circle) 的判定可分为GREAT，OK，MEH 和 MISS。在MISS判定区间之前的点击不会生效（或者触发 [物件锁](/wiki/Gameplay/Judgement/Notelock) ）；在MEH判定区间结束前未点击会判定为MISS。
+根据连击的准确程度，[圆圈](/wiki/Gameplay/Hit_object/Hit_circle) 的判定可分为GREAT，OK，MEH 和 MISS。在MISS判定区间之前的点击不会生效（或者可能触发 [物件锁](/wiki/Gameplay/Judgement/Notelock) ）；在MEH判定区间结束前未点击会判定为MISS。
 
 ### 滑条
 
@@ -91,7 +91,7 @@ note that the above formulas are divided in half in the tables below for nicer u
 
 |  |  |
 | :-- | :-- |
-| 最小每秒转速[^minimum-sps] | 若 OD < 5：`1.5 + 0.2 × OD`,若 OD ≥ 5：`1.25 + 0.25 × OD`  |
+| 最小每秒转速[^minimum-sps] | 若 OD < 5：`1.5 + 0.2 × OD`,若 OD ≥ 5：`1.25 + 0.25 × OD` |
 | 最小所需转数 | 转盘长度（秒） × 最小每秒转数 + 0.5 |
 
 如果一个转盘非常短，计算得出的所需转数可能是0，那么该转盘总会判定为GREAT。
