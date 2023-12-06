@@ -91,7 +91,7 @@ El tren del hype registra cuántos [hypes](/wiki/Beatmap/Hype) ha recibido un co
 
 ### Estado de nominación
 
-La barra de estado de nominación rastrea las nominaciones de un beatmap. Una vez que un beatmap haya recibido dos nominaciones, será [calificado](/wiki/Beatmap/Category#calificados).
+La barra de estado de nominación rastrea las nominaciones de un beatmap. Una vez que un beatmap haya recibido dos nominaciones, será [calificado](/wiki/Beatmap/Category#qualified).
 
 ### Información general
 

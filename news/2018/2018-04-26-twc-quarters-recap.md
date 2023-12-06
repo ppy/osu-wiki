@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Quarterfinals Recap"
+title: osu!taiko World Cup - Quarterfinals Recap
 date: 2018-04-26 18:00:00 +0000
 ---
 
@@ -97,7 +97,7 @@ The tiebreaker drought is indeed real, but these upcoming matches are looking li
 
 This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive). The first match starts 13:30UTC on Saturday.** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#).
 
-**Also, don't forget to buy a banner!** You can support your favourite team by purchasing a banner at the [osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.   
+**Also, don't forget to buy a banner!** You can support your favourite team by purchasing a banner at the [osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.
 
 Feedback is always greatly appreciated, so feel free to provide some in the comments below or by PM. See you next week!
 
