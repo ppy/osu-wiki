@@ -130,7 +130,7 @@ Notas:
 
 Notas:
 
-- La muestra reproducida al clickear en `Charts`
+- La muestra reproducida al hacer clic en `Charts` en el menú principal.
 
 ---
 
@@ -138,7 +138,7 @@ Notas:
 
 Notas:
 
-- La muestra reproducida al colocar el cursor sobre `Charts`
+- La muestra reproducida al pasar el cursor sobre `Charts` en el menú principal.
 
 ---
 
@@ -324,13 +324,13 @@ Notas:
 
 ![](img/hitcircleoverlay.png)
 
-*Para más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
 
 Notas:
 
 - Nombre de animación: `hitcircleoverlay-{n}.png`
 - Tasa de animación: 2 FPS (4 FPS máximo).
-  - Esta tasa se ve afectada por los modificadores de juego half time y double time/nightcore.
+  - Esta tasa se ve afectada por los modificadores del juego half time y double time/nightcore.
 
 ---
 
@@ -338,13 +338,13 @@ Notas:
 
 ![](img/sliderstartcircleoverlay.png)
 
-*Para más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
 
 Notas:
 
 - Nombre de animación: `sliderstartcircleoverlay-{n}.png`
 - Tasa de animación: 2 FPS (4 FPS máximo).
-  - Esta tasa se ve afectada por los modificadores de juego half time y double time/nightcore.
+  - Esta tasa se ve afectada por los modificadores del juego half time y double time/nightcore.
 
 ---
 

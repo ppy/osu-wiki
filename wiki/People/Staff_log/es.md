@@ -12,7 +12,7 @@ tags:
 
 # Registro de personal
 
-El siguiente artículo lista las promociones y retiros de la mayoría de [grupos](/wiki/People/User_group) públicos así como algunos miembros del personal.
+El siguiente artículo enumera las promociones y retiros de la mayoría de [grupos](/wiki/People/User_group) públicos así como algunos miembros del personal.
 
 - [2007](2007)
 - [2008](2008)
