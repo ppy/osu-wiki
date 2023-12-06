@@ -37,7 +37,7 @@ Las clasificaciones de Spotlights son tablas de clasificación de tiempo limitad
 
 ## Clasificación de beatmaps
 
-Las clasificaciones de beatmaps comparan las puntuaciones de los jugadores entre sí en beatmaps individuales. Aparecen una vez que una beatmap ha sido [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados), [aprobado](/wiki/Beatmap/Category#aprobados), o Amado. Las ocho mejores puntuaciones se muestran sin necesidad de desplazarse, y si el jugador tiene una de las 50 mejores puntuaciones, la pantalla se desplazará automáticamente hasta su puntuación. Las clasificaciones en primer lugar se pueden ver en la página de perfil de un usuario.
+Las clasificaciones de beatmaps comparan las puntuaciones de los jugadores entre sí en beatmaps individuales. Aparecen una vez que una beatmap ha sido [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked), [aprobado](/wiki/Beatmap/Category#approved), o Amado. Las ocho mejores puntuaciones se muestran sin necesidad de desplazarse, y si el jugador tiene una de las 50 mejores puntuaciones, la pantalla se desplazará automáticamente hasta su puntuación. Las clasificaciones en primer lugar se pueden ver en la página de perfil de un usuario.
 
 ## Clasificación por países
 

@@ -12,7 +12,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 *Ayrıca bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.
 
 **Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
@@ -36,10 +36,10 @@ Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bul
 
 Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
-1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir.
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun.
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
-4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
+4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir.
 
 Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeleri tarafından birkaç hafta veya ay gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
 

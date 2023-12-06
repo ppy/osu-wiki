@@ -1,268 +1,145 @@
 ---
-outdated_translation: true
-outdated_since: e9c9c6b6ff34b7c576172aa7df5ca581d6d7d632
+no_native_review: true
 ---
 
-# Fenêtre Song Setup
+# L'Onglet Song setup
 
-Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
+L'onglet **song setup** est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor), qui comprend les métadonnées de la beatmap, les paramètres de difficulté et de conception, ainsi que d'autres options diverses.
 
-## Général
+## General
 
-### Métadonnées des musiques et des beatmaps
+![](img/SS_General.jpg "Un exemple de difficultés avec les métadonnées complétées")
 
-*Voir également : [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "forums osu!")*
+La section `General` fournit des informations qui aident les joueurs non seulement à trouver la beatmap, mais aussi à en savoir un peu plus sur la musique elle-même. Les métadonnées spécifiées ici doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique et, si une beatmap passe par la [procédure de classement](/wiki/Beatmap_ranking_procedure), suivre les [critères de classement](/wiki/Ranking_criteria#métadonnées).
 
-![Un formulaire de Song Setup rempli](img/SS_General.jpg "Un exemple de métadonnées complètes (onglet Général) dans Song Setup")
+| Champ | Signification |
+| :-- | :-- |
+| `Artist` | Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la musique. |
+| `Romanised Artist` | Le nom romanisé de l'artiste. *Remarque : modifiable uniquement si `Artiste` contient des caractères Unicode.* |
+| `Title` | Le titre de la musique. |
+| `Romanised Title` | Le nom romanisé de la musique. *Remarque: modifiable uniquement si `Title` contient des caractères Unicode.* |
+| `Beatmap Creator` | Le nom d'utilisateur de [l'hôte de la beatmap](/wiki/Beatmap/Beatmap_host). Les auteurs des [difficultés des invités](/wiki/Beatmap/Guest_difficulty) doivent être spécifiés dans les tags à la place. |
+| `Difficulty` | Le nom de la difficulté, qui doit refléter son contenu. Peut indiquer la [participation d'un invité](/wiki/Beatmap/Guest_difficulty), être [standardisé](/wiki/Ranking_criteria/Difficulty_naming), ou [personnalisé](/wiki/Ranking_criteria#règles.1). |
+| `Source` | (Facultatif) Le support d'origine de la musique, tel qu'un jeu vidéo ou un film. |
+| `Tags` | Les mots-clés pour la recherche, séparés par des espaces. Ils peuvent contenir tout ce qui concerne la beatmap ou la musique, comme le nom de l'album, les noms des mappeurs invités ou le genre. |
 
-Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés de la beatmap.
+## Difficulty
 
-Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique.
+*Remarque : Les [critères de classement](/wiki/Ranking_criteria) spécifiques à chaque mode de jeu contiennent des paramètres recommandés pour chaque niveau de difficulté.*
 
-Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci est principalement pour s'assurer que les métadonnées seront cohérentes à travers toutes les difficultés de la beatmap.
+![Deux captures d'écran de l'onglet Difficulty. osu!mania diffère des autres modes de jeu.](img/SS_Difficulty.jpg "La section Difficulty. Cette fenêtre de dialogue est différente pour les difficultés spécifiques à osu!mania, comme illustré à droite.")
 
-#### Artiste
+La section `Difficulty` contient des paramètres qui affectent la difficulté et le niveau de compétence d'une beatmap pour les joueurs, les valeurs les plus élevées augmentant la difficulté. Toutes les valeurs listées ici peuvent être affectées par certains [modificateurs de jeu](/wiki/Gameplay/Game_modifier). Ces paramètres sont généralement désignés par leur abréviation suivie de leur valeur, comme "CS 4" pour une beatmap avec le circle size correspondante.
 
-**Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la musique**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
+Les valeurs peuvent être ajustées avec une précision de 0,1x en maintenant la touche `Shift`, au lieu du palier standard de 1.
 
-*Attention : Les titres d'animes ou de jeux doivent être placés dans le champ [Source](#source). Les noms de Vocaloid ou de sociétés doivent être placés dans le champ [Tags](#tags).*
+### HP drain rate
 
-Les noms étrangers/orientaux doivent être présentés dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence).
+*Article principale : [Santé](/wiki/Beatmap/HP_drain_rate)*
 
-Ce champ doit préférer l'orthographe des sources officielles de sortie. L'artiste peut parfois être trouvé sur [Wikipedia](https://www.wikipedia.org) ou d'autres sources non officielles telles que [Anime News Network](https://www.animenewsnetwork.com) ou [MyAnimeList](https://myanimelist.net). Comme pour toute source non officielle, le contenu fourni doit être vérifié par rapport aux sources officielles ou, s'il fournit un lien vers la source officielle, visitez plutôt cette dernière. En cas de doute, remplissez toutes les informations connues maintenant et faites un post pour demander vérification.
-
-##### Artiste romanisé
-
-**Le nom romanisé de l'artiste.** Il doit être présenté dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence). Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Artiste](#artiste).
-
-#### Titre
-
-**Le titre de la musique** Normalement, il est automatiquement extrait des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
-
-##### Titre romanisé
-
-**Le nom romanisé de la musique.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Titre](#titre).
-
-#### Créateur de la beatmap
-
-**Le nom d'utilisateur du créateur de la beatmap.** Le client du jeu devrait gérer cela automatiquement et ne vous permettra pas de modifier ce champ, c'est-à-dire si vous êtes le créateur.
-
-*Attention : Les noms d'utilisateur des [Guest difficulty](/wiki/Beatmap/Guest_difficulty) appartiennent aux champs [Difficulté](#difficulté) et/ou [Tags](#tags).*
-
-#### Difficulté
-
-**Le nom de la beatmap, en d'autres termes, le nom de la difficulté.** Le menu déroulant contient les noms prédéfinis de `Easy`, `Normal`, `Hard`, et `Insane`. Le créateur peut choisir l'un des noms prédéfinis dans le menu déroulant ou en taper un. Même s'il est bon d'être créatif, essayez de rendre les noms de difficulté très clairs quant à la difficulté qu'ils représentent. Les noms de difficulté ambigus ennuient les joueurs et ne sont pas classables.
-
-Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une guest difficulty (par exemple "Larto's Hard").
-
-#### Source
-
-**L'origine de la musique.** En général, ce champ ne doit être utilisé que pour les musiques d'animes ou de jeux vidéo et occasionnellement pour les musiques de novels (films, télévision ou Internet).
-
-Si la musique est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
-
-*Remarque : Ce champ ne doit pas être utilisé pour les titres d'album, qui doivent être placés dans le champ [Tags](#tags).*
-
-Toutes les musiques n'ont pas besoin de quelque chose dans le champ source. La source est seulement pour les musiques qui sont tirées de quelque chose (par exemple, un jeu vidéo ou un anime). Les musiques rock et pop ordinaires peuvent laisser ce champ vide. D'autres informations pertinentes doivent être saisies dans le champ [Tags](#tags), comme le titre de l'album ou des informations sur le sous-genre.
-
-#### Tags
-
-**Une liste de mots-clés pour faciliter les requêtes de recherche.** En général, les tags doivent inclure des noms d'albums, des noms d'utilisateurs de créateurs invités, des noms de sociétés et d'autres termes susceptibles d'être utilisés par les utilisateurs lors de la recherche de beatmaps. Si la beatmap comporte des éléments de collaboration (tels que le storyboarding) réalisés par d'autres utilisateurs, leurs noms d'utilisateur doivent être ajoutés à ce champ.
-
-Les tags sont séparées par des espaces. Il n'est pas nécessaire d'utiliser ce champ, car les métadonnées des autres champs sont utilisées pour faciliter l'interrogation des beatmaps ; cependant, il est très apprécié des utilisateurs qui tentent de trouver une beatmap spécifique.
-
-## Onglet Difficulté
-
-![Deux captures d'écran de l'onglet Difficulty. osu!mania diffère des autres modes de jeu.](img/SS_Difficulty.jpg "Onglet Difficulty. La section de droite est pour les beatmaps spécifiques à osu!mania.")
-
-*Remarque : Les [Critères de classement](/wiki/Ranking_criteria) spécifiques au mode de jeu ont des valeurs de classement qui doivent être utilisées.*
-
-Les paramètres de difficulté de la beatmap ; chaque paramètre affecte différents aspects de la beatmap.
-
-*Note : En maintenant la touche `Shift` enfoncée, on peut obtenir un ajustement précis de 0,1 par rapport à l'ajustement standard de 1.*
-
-La notation courante pour représenter un paramètre de difficulté et sa valeur est l'abréviation du paramètre suivie de la valeur du paramètre. Par exemple, `CS4` et `HP4.3` seront une beatmap avec un circle size de 4 et un taux de drain de santé de 4.3 respectivement. En théorie, les paramètres de difficulté négatifs peuvent ressembler à `AR-2` pour un approach rate de -2.
-
-### Taux de drain de santé
-
-Le **taux de drain de santé**, communément abrégé en HP, détermine le taux de récupération des points de vie à la suite d'un bon score et de punition des points de vie à la suite d'un mauvais score. La valeur varie de 0 à 10 ; des valeurs de HP plus élevées donneront une récupération de santé plus faible avec une punition de santé plus élevée.
-
-Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/Interface/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
-
-*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Gameplay/Judgement/Geki) et [Katu](/wiki/Gameplay/Judgement/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
+Le HP drain rate (HP) détermine la quantité de points de vie récupérés ou les dégâts causés par des [hits](/wiki/Gameplay/Judgement) précis ou non. Dans osu! et osu!catch, il affecte également le [passive health drain](/wiki/Beatmap/HP_drain_rate). Des valeurs plus élevées permettent de récupérer moins de points de vie et d'infliger des punitions plus lourdes.
 
 ### Circle size
 
-![Aperçu des différentes circle size](img/Circle_sizes.png "Aperçu des différentes circle size")
+*Article principale : [Circle size](/wiki/Beatmap/Circle_size)*
 
-*Note : Cette option est visible dans osu!taiko, mais elle n'affecte pas le gameplay.*
+![Aperçu des différentes circle sizes](img/Circle_sizes.png "Aperçu des différentes circle sizes")
 
-Le **circle size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
+Le circle size (CS) détermine la taille des objets dans osu! et osu!catch, où des valeurs plus élevées rendent les objets plus petits. Bien que l'éditeur limite le circle size à une fourchette de 2 à 7, il est possible de contourner cela en modifiant manuellement le fichier [`.osu`](/wiki/Client/File_formats/osu_(file_format)) de la difficulté. Le circle size n'a pas d'effet dans osu!taiko.
 
-La plupart des beatmaps utilisent une valeur de 3 ou 4, tandis qu'une valeur de 5 ou 6 est parfois utilisée et une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lors de l'utilisation du mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
-
-Le réglage de la valeur CS à une valeur inférieure à 2 ou supérieure à 7 peut être fait en modifiant manuellement le fichier `.osu`.
-
-#### Key Count
-
-Key Count, également connu sous le nom de Keys, remplace la métrique [circle size](#circle-size) pour les beatmaps [osu!mania-specific](#mode-specific). Key Count est auto-explicatif ; il définit le nombre de touches utilisé. Les valeurs vont de 1 à 9 touches.
-
-En cochant la case "Co-op mode", le montant sélectionné sera doublé (à partir de 5), ce qui donne un total de 10K (5), 12K (6), 14K (7), 16K (8) et 18K (9).
+Pour les beatmaps spécifiques à [osu!mania](#spécifique-à-un-mode), le circle size est remplacée par le nombre de keys (désigné par K, comme 4K pour 4 keys), qui définit le nombre de colonnes du terrain de jeu. Cocher la case `Co-op mode` doublera la quantité sélectionnée (à partir de 5), pour un total de 10K (5), 12K (6), 14K (7), 16K (8), et 18K (9).
 
 ### Approach rate
 
-*Page principale : [Approach rate](/wiki/Beatmap/Approach_rate)*
+*Article principale : [Approach rate](/wiki/Beatmap/Approach_rate)*
 
-![Tableau détaillé de l'AR](/wiki/shared/ARTable.jpg "Tableau détaillé de l'AR")
+L'Approach rate (AR) indique la durée pendant laquelle les objets dans osu! et osu!catch restent à l'écran entre le moment où ils apparaissent et le moment où il faut les frapper/collecter. Des valeurs plus élevées signifient des périodes de visibilité plus courtes et moins de temps pour réagir.
 
-*Remarque : cette option est visible dans osu!taiko et osu!mania, mais elle n'a aucune incidence sur la jouabilité. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute)..*
-
-L'**approach rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
-
-Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps de réaction pour planifier. Inversement, un approach rate plus faible signifie que les objets seront affichés à l'écran pendant plus longtemps, ce qui laisse plus de temps pour réagir, mais peut entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps si l'approach rate est trop faible.
-
----
-
-La durée d'un objet qui reste visible à l'écran (sans mods) varie de 1800ms (AR0) à 450ms (AR10).
-
-Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont activés :
-
-- [Easy](/wiki/Gameplay/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) :  Multiplie la valeur d'AR par 1,40, jusqu'à AR10 au maximum. (par exemple, on passe de AR3 à AR4.2 ou de AR9 à AR10)
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) : La valeur d'AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) : La valeur d'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
-
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur réelle de l'AR, la différence de vitesse entraîne un changement d'AR apparent, aussi bas que AR-5 ou aussi élevé que AR11. Dans le tableau d'AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. L'AR réel, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux d'AR s'échelonnent de 120 ms pour une valeur inférieure à l'AR5 et de 150 ms pour une valeur supérieure à l'AR5.
+osu!taiko et osu!mania ne sont pas affectés par l'approach rate - à la place, les deux modes utilisent la vitesse de défilement, qui est basée sur le [tempo](/wiki/Music_theory/Tempo) de la musique et la [vitesse du slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
 
 ### Overall difficulty
 
-*Page principale : [overall difficulty](/wiki/Beatmap/Overall_difficulty)*
+*Article principale : [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
+*Remarque : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.*
 
-![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
+L'Overall difficulty (OD) est responsable de la taille des hit windows, qui définissent à quel point il est difficile d'atteindre une grande précision. Des valeurs d'OD plus élevées signifient des timing windows plus courtes, nécessitant plus d'exactitude et de précision. La précision étant importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté à réussir la beatmap.
 
-*Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
-*Remarque : Sur la page de la beatmap, l'overall difficulty est indiquée sous le nom de Précision.*
+De faibles valeurs d'OD sur les maps osu! avec un [tempo](/wiki/Music_theory/Tempo) élevé peuvent entraîner le chevauchement des hit windows adjacentes et l'apparition de [notelock](/wiki/Gameplay/Judgement/Notelock), désactivant les objets jusqu'à ce que les hit windows précédentes soient réussies. Par conséquent, rater une seule note déclenchera un miss en cascade et fera échouer le joueur sur la beatmap.
 
-L'overall difficulty, communément abrégée en OD, définit le degré de difficulté à atteindre une grande précision. Les valeurs vont de 0 à 10, les valeurs d'OD les plus élevées nécessitant plus de précision et d'exactitude. Étant donné que la précision est importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté de passer la beatmap. Des valeurs OD plus élevées signifient des fenêtres de hit plus courtes pour clear les objets, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet.
+Les effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
 
-Dans osu!, le système de timing ne permet pas à un objet d'être touché tant que l'objet précédent ne l'a pas été et n'a pas reçu de jugement, ou tant qu'il n'a pas manqué après que la fenêtre de hit soit passée. Si les fenêtres de hits sont trop longues, la fenêtre de hit de l'objet peut chevaucher la fenêtre précédente. Pendant ce temps, l'objet est "verrouillé" et les coups ne comptent pas. Ce phénomène est appelé de manière informelle "notelock" dans osu!, ou "column locking" ou "cbrushing" dans osu!mania. Pour plus de détails et d'exemples, voir l'[article sur le notelock](/wiki/Gameplay/Judgement/Notelock). Pour cette raison, il est conseillé de ne pas utiliser de faibles valeurs d'OD dans les maps à fort BPM.
-
-Effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
-
-- osu! : Les spinners doivent être tournés davantage pour remplir la jauge, au point de devenir presque impossible à terminer dans les temps.
-- osu!taiko : Le denden (spinner) nécessite plus de coups pour être éliminé.
+- osu! : il faut faire tourner davantage les spinners pour remplir la jauge, au point qu'il devient presque impossible de les clear à temps.
+- osu!taiko : il faut plus de frappes pour faire disparaître les spinners.
 - osu!mania et osu!catch ne sont pas affectés par l'OD.
-
-Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overall difficulty](/wiki/Beatmap/Overall_difficulty).
-
----
-
-À OD 0, un joueur peut obtenir un score de 300 en étant à moins de 79,5 ms de la frappe exacte à temps. À l'autre extrémité de l'échelle, OD 10 exige d'être à moins de 19,5 ms pour obtenir le même score de 300.
-
-Il existe quatre mods qui modifient le timing de l'overall difficulty lorsqu'ils sont activés :
-
-- [Easy](/wiki/Gameplay/Game_modifier/Easy): Divise par deux la valeur de l'OD.
-- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus courtes.
-- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus longues.
-
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs d'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
 
 ## Audio
 
-![Deux captures d'écran de l'onglet Audio. Elles varient en fonction des paramètres définis pour le son et le volume.](img/SS_Audio.jpg "La section Audio. La droite s'affiche si la beatmap contient des paramètres personnalisés de timing et de volume.")
+![Deux captures d'écran de l'onglet Audio. Elles varient en fonction des paramètres définis pour le son et le volume.](img/SS_Audio.jpg "La section Audio. La fenêtre de droite s'affiche si la beatmap contient un timing personnalisé sur les paramètres de volume.")
 
-### Paramètres par défaut de l'échantillon
+La section `Audio` permet de configurer les [hitsounds](/wiki/Beatmapping/Hitsound) pour l'ensemble de la beatmap en une seule fois, si elle n'a pas de personnalisation sonore. Bien plus souvent, les mappeurs préfèrent avoir un contrôle précis sur le son ; par conséquent, ils abandonnent la section `Audio` en faveur de la personnalisation des hitsounds par section de beatmap en utilisant plusieurs [sections de timing](/wiki/Client/Beatmap_editor/Timing#point-de-timing-hérité). Dans ce cas, la partie supérieure de l'onglet est inaccessible, et cliquer sur le bouton "Réinitialiser les paramètres" supprimera tous les ajustements de volume de timing personnalisés.
 
-Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](/wiki/Client/Beatmap_editor/Timing) (`F6`), le créateur peut changer les deux ensembles de hitsounds ou le volume individuellement grâce à des points de timing. Les sections `Sample Set Selection` et `Sample Set Volume` seront inaccessibles si des ajustements de volume sensibles au timing sont utilisés dans la beatmap. Cliquer sur le bouton `Reset Settings` supprimera tous les ajustements de volume personnalisés.
-
-#### Sample Set Selection
-
-Choisissez d'utiliser globalement les jeux d'échantillons intégrés `Normal`, `Soft`, ou `Drum`. Il est possible d'[activer les surcharges personnalisées](/wiki/Guides/Custom_sample_overrides) pour utiliser en priorité les fichiers hitsound dans le dossier de la beatmap pour les hitsounds personnalisés.
-
-#### Sample Set Volume
-
-Définissez le volume de l'ensemble d'échantillons de manière globale.
-
-#### Test Sample Set
-
-En cliquant sur ces boutons, vous pouvez tester le son de la série d'échantillons. Quatre boutons sont proposés, à savoir : `Normal`, `Whistle`, `Finish`, et `Clap`. Ces sons sont additifs ; `Whistle` est une combinaison de `Normal` et `Whistle`.
-
-### Misc. Toggles
-
-La case à cocher `Samples match playback rate (for fully-hitsounded maps)` ajustera le pitch des hitsounds en fonction des modificateurs de vitesse (à la fois dans l'éditeur et dans le jeu). Si vous décochez cette case, les hitsounds seront joués à leur propre vitesse.
+| Contrôle | Effets |
+| :-- | :-- |
+| Échantillons : `Normal/Soft/Drum` | Sélectionnez différents [samplesets](/wiki/Beatmapping/Sampleset) intégrés. |
+| `Enable custom overrides` | Utilisez des [hitsounds personnalisés](/wiki/Guides/Custom_sample_overrides) à la place de ceux qui sont proposés par défaut. |
+| `Sample Volume` | Ajustez le volume des hitsounds de façon globale. |
+| Boutons des hitsounds | Jouer les hitsounds à utiliser. |
+| `Samples match playback rate` | Modification de la hauteur et du tempo des hitsounds lorsque la vitesse de la beatmap change (à la fois dans l'éditeur et dans le jeu). |
 
 ## Colours
 
-![Capture d'écran de l'onglet Colours](img/SS_Colours.jpg "Onglet Colours")
+![Capture d'écran de la section Colours](img/SS_Colours.jpg "La section Colours")
 
-Configurez les couleurs des combos et la couleur de fond du terrain de jeu.
+La section `Colours` permet de configurer les [couleurs du combo](/wiki/Beatmapping/Combo_colour). Dans les versions précédentes du jeu, la couleur de fond du terrain de jeu pouvait également être ajustée ici, mais cette fonctionnalité est désormais inutile.
 
-### Hitcircle/Slider Combos
+Pendant le jeu, les couleurs des objets défilent dans l'ordre spécifié par défaut, et changent à chaque [nouveau combo](/wiki/Beatmapping/New_combo). Par conséquent, il est important non seulement de synchroniser les combos avec la musique, mais aussi de choisir des couleurs de combo qui complètent l'arrière-plan et rendent les objets plus lisibles. Il est également possible de définir manuellement l'ordre des couleurs pendant le mapping, ce qui est appelé [mise en couleur](/wiki/Beatmapping/Colourhaxing).
 
-Configurez le jeu de couleurs de combo personnalisé. La coloration des combos est un aspect important de la valeur esthétique d'une beatmap.
+Les couleurs des combos ne prennent effet que dans osu! et osu!catch.
 
-En cliquant sur une couleur combinée ou en cliquant sur `New Combo Colour`, vous ouvrez le sélecteur de couleurs du système d'exploitation (comme le montre l'image ; le sélecteur de couleurs de Windows). Choisissez des couleurs qui complètent le fond, et non qui se camouflent dans le fond.
-
-Au maximum, huit couleurs de combo peuvent être sélectionnées, bien que la plupart des beatmaps en utilisent généralement quatre.
-
-La case à cocher `Enable Custom Colours` doit être cochée pour activer la couleur de combinaison personnalisée définie ci-dessus. Si vous la décochez, vous reviendrez aux paramètres de couleurs par défaut ou aux paramètres de couleurs du skin du joueur. Il est généralement recommandé de la garder cochée pour que la beatmap puisse avoir sa propre identité unique en termes de couleurs de combo. Elle peut être décochée sans risque pour les beatmaps spécifiques à osu!taiko et osu!mania.
-
-En cliquant sur le bouton `Remove Combo Colour`, vous supprimez la dernière couleur combinée définie.
-
-### Arrière-plan du terrain de jeu
-
-Cliquez sur le bouton `Background Colour` pour modifier la couleur d'arrière-plan du champ de jeu vierge.
-
-Un paramètre dont la modification est discutable, sauf pour les storyboards qui peuvent exposer l'arrière-plan du champ de jeu vierge.
+| Contrôle | Action |
+| :-- | :-- |
+| `Combo 1..8` | Fait défiler les couleurs des combinaisons spécifiées pendant le jeu. Cliquez sur le bouton correspondant pour changer sa couleur à l'aide du sélecteur de couleurs du système d'exploitation. |
+| `Enable Custom Colours` | Si la case n'est pas cochée, les couleurs combo par défaut du skin actif seront utilisées à la place. |
+| `New Combo Colour` | Ajoute une nouvelle couleur à l'ensemble. |
+| `Remove Combo Colour` | Retire la dernière couleur de l'ensemble. |
+| `Background Colour` | Modifie la couleur du terrain de jeu vierge. |
 
 ## Design
 
-![Capture d'écran de l'onglet Design](img/SS_Design.jpg "Onglet Design")
+![Capture d'écran de la section Design](img/SS_Design.jpg "La section Design")
 
-### Countdown
+La section `Design` contient divers réglages qui affectent l'aspect général de la beatmap.
 
-Cochez la case `Enable countdown` pour activer l'animation du compte à rebours avant le démarrage de la beatmap.
-
-Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée à l'aide des boutons `Countdown Speed` (`Half`, `Normal`, `Double`) et du `Countdown Offset` (0 par défaut ; plus la valeur est élevée, plus le compte à rebours est rapide).
-
-### Misc. Toggles
-
-- `Widescreen Support` : Supprimez les [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) des côtés gauche et droit du champ de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Cette option est généralement activée lorsque vous utilisez des éléments de storyboard, mais elle peut être désactivée.
-- `Display storyboard in front of combo fire` : Un paramètre obsolète, qui peut être ignoré.
-- `Display epilepsy warning (storyboard has quick strobing)` : Affiche un avertissement d'épilepsie pour les storyboards clignotants (rapides ou quelconques) dans la beatmap.
-- `Letterbox during breaks` : Détermine si le beatmap doit (ou non) mettre des [letterboxes](https://fr.wikipedia.org/wiki/Letterbox) pendant les pauses dans les beatmaps. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
-
-### Skinning
-
-La liste déroulante `Preferred Skin` est utilisée pour définir le skin préféré pour la beatmap. L'utilisation de cette option suppose que le joueur possède le skin que vous souhaitez qu'il utilise. Cependant, si le joueur n'a pas le skin, une notification apparaîtra pour le joueur, indiquant que le skin demandé est manquant, mais que le skin actuel du joueur sera utilisé à la place. Par défaut, `User's preference (No Change)` est utilisé.
-
-Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatmap. Comme la plupart des créateurs le feront à la place, cette option est rarement utilisée, sauf si elle permet de réduire la taille du fichier ou si elle fait partie d'un projet d'une beatmap, où le skin peut être fourni sur la page du projet elle-même.
+| Contrôle | Action |
+| :-- | :-- |
+| `Enable countdown` | Active [l'animation du compte à rebours](/wiki/Beatmap/Countdown) avant que la beatmap ne commence. |
+| `Countdown Speed` | Personnalise la vitesse du compte à rebours. `Half` : le compte à rebours dure 8 [battements complets](/wiki/Music_theory/Beat). `Normal` : 4 beats. `Double` : 2 beats. |
+| `Countdown Offset` | Détermine le décalage du moment ou le compte à rebours démarre. |
+| `Widescreen Support` | Enlève les [pillarboxes](https://en.wikipedia.org/wiki/Pillarbox) sur les côtés du terrain de jeu si le rapport d'aspect de l'écran est supérieur à `4:3`. Ceci n'est généralement désactivé que lorsque la beatmap ou le storyboard est conçu avec un style plus ancien à l'esprit. |
+| `Display storyboard in front of combo fire` | Place le [storyboard](/wiki/Storyboard) avant le [combo fire](/wiki/Gameplay/Combo_fire). *Remarque : ce paramètre est devenu obsolète avec la suppression du combo fire.* |
+| `Display epilepsy warning` | Affiche un avertissement d'épilepsie avant le début de la beatmap, en cas de stroboscopie rapide dans la vidéo/storyboard. |
+| `Letterbox during breaks` | Masque les parties supérieure et inférieure de l'arrière-plan derrière des [letterboxes](https://fr.wikipedia.org/wiki/Letterbox) pendant les [pauses](/wiki/Beatmap/Break). *Remarque : ce paramètre n'est pas autorisé pour les beatmaps spécifiques à osu!mania.* |
+| `Preferred skin` | Commence temporairement à utiliser le skin sélectionné lorsque la beatmap démarre. S'il est manquant, afficher un avertissement à la place, et exécute avec le skin actif du joueur. *Remarque : il est recommandé de placer les sprites du skin directement dans le dossier de la beatmap.* |
 
 ## Advanced
 
-![Capture d'écran de l'onglet Advanced](img/SS_Advanced.jpg "Onglet Advanced")
+![Capture d'écran de la section Advanced](img/SS_Advanced.jpg "La section Advanced")
 
-### Stacking
+### Stack leniency
 
-Dans osu!, les objets s'empilent automatiquement s'ils sont placés au même endroit tout en étant proches dans le temps. Ceci afin d'aider les joueurs à voir les objets qui se chevauchent.
+*Article principale : [Stack leniency](/wiki/Beatmap/Stack_leniency)*
 
-En déplaçant le slider vers la droite, vous espacerez la "proximité" des objets dans le temps avant que l'empilement ne se produise. Il est préférable de laisser cette option telle quelle, à sa valeur par défaut de `7`.
+Le stack leniency est un paramètre spécifique à osu! qui affecte le comportement des objets empilés. Normalement, les [sliders](/wiki/Gameplay/Hit_object/Slider) et les [cercles](/wiki/Gameplay/Hit_object/Hit_circle) qui sont proches dans le temps vont automatiquement [s'empiler](/wiki/Beatmapping/Mapping_techniques/Stack) et se décaler légèrement s'ils sont placés au même endroit. Ceci est fait pour aider les joueurs à mieux voir les objets qui se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap).
 
-*Remarque : Les cercles empilés dans osu! se déplaceront vers le point où l'empilement se produit.*
+La valeur du stack leniency contrôle le temps maximum entre les objets jusqu'à ce qu'ils ne soient plus [empilés](/wiki/Beatmapping/Mapping_techniques/Stack). Des valeurs plus élevées permettent aux objets ayant des écarts temporels plus importants de s'empiler les uns sur les autres.
 
-Les objets sont considérés comme appartenant à la même pile s'ils se trouvent à la même coordonnée et pas plus loin dans le temps que `[(Fenêtre d'approche) * (Limite de pile) / 10]`, où `Fenêtre d'approche` est la durée pendant laquelle les objets restent à l'écran (voir [la section sur l'approach rate](#approach-rate).
+### Spécifique à un mode
 
-### Mode Specific
+Le menu déroulant `Allowed Modes` est utilisé pour créer des difficultés osu!taiko, osu!catch, ou osu!mania : sélectionner autre chose que `All` limitera le mode de jeu jouable à celui spécifié.
 
-`Allowed Modes` est une liste déroulante pour confirmer que la beatmap ne peut être jouée que par le mode spécifié. Le paramètre par défaut est `All`, ce qui signifie que le créateur créera une beatmap du mode osu! qui pourra être converti dans les autres modes de jeu. Ce paramètre peut être modifié pour être spécifique à osu!taiko, osu!catch, ou osu!mania ; mais **gardez à l'esprit que ce changement supprimera tous les objets dans la beatmap**.
-
-*Remarque : décidez au moment de la création et confirmez d'abord le(s) mode(s) de jeu de la beatmap avant d'ajouter des objets pour éviter de gaspiller des efforts.*\
-*Note : osu!mania possède son propre éditeur de beatmap qui est différent de l'éditeur de beatmap classique.*
-
-La case à cocher  `Use special style(N+1 style) for mania` ne fait rien, étant donné que le joueur peut définir une préférence personnelle spécifiquement dans les [Options](/wiki/Client/Options) en utilisant le bouton `osu!mania layout`.
+La case à cocher `Use special style (N+1 style) for mania` ne fait rien, étant donné que le joueur peut définir une préférence personnelle dans les [options](/wiki/Client/Options) en utilisant le bouton `osu!mania layout`.
 
 ## Le saviez-vous ?
 
-- L'onglet `Design` était auparavant appelé "Storyboarding".
-- Dans l'onglet `Difficulty`, il y avait auparavant `Approximate Difficulty Rating` qui est un résumé de tous les paramètres choisis sur cette page. Plus d'étoiles signifiait que la beatmap était plus difficile. Cependant, il ne s'agissait pas du classement final en étoiles de la beatmap, mais d'une approximation basée sur les paramètres de difficulté actuels. Il a été remplacé par un tag expliquant que le fait de maintenir la touche `Shift` permettait d'affiner les valeurs par incréments de 0,1.
+- L'ancien nom de la section `Design` est `Storyboarding`.
+- La section `Difficulty` contenait auparavant un résumé approximatif des paramètres de difficulté, intitulé `Approximate Difficulty Rating`, où plus il y avait d'étoiles, plus la beatmap était difficile. Plus tard, il a été remplacé par une étiquette expliquant l'utilisation de la touche `Shift` pour affiner les valeurs.

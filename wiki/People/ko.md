@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
 # 구성원
 
 구성원 또는 그룹을 모아둔 목차 페이지입니다.

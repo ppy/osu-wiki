@@ -96,12 +96,12 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
   1. [kamome sano - Searchlight (Benita) \[Overdose\]](https://osu.ppy.sh/beatmapsets/911331#fruits/1902362)
   2. [Hige Driver join. SELEN - Dadadadadadadadadada (Long Version) (Minato Yukina) \[EX\]](https://osu.ppy.sh/beatmapsets/867418#fruits/1813347)
   3. [Ni-Sokkususu - Shukusai no Elementalia (SnowNiNo\_) \[KneeSocks\]](https://osu.ppy.sh/beatmapsets/740672#fruits/1562551)
-  4. [Suigetsu Yamato - Fuujin Shoujo (Suigetsu Yamato Remix) (ktgster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/647546#fruits/1371758)  
+  4. [Suigetsu Yamato - Fuujin Shoujo (Suigetsu Yamato Remix) (ktgster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/647546#fruits/1371758)
 - DoubleTime
   1. [Ray - Sweet Days (JBHyperion) \[Piku's Rain\]](https://osu.ppy.sh/beatmapsets/955703#fruits/2011350)
   2. [MIMI - Nanimo nai Youna (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1197461#fruits/2494286)
   3. [Nightwish - Bye Bye Beautiful (neonat) \[Shiro's Insane\]](https://osu.ppy.sh/beatmapsets/133884#fruits/372326)
-  4. [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold\_1702) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/591442#fruits/1307142)  
+  4. [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold\_1702) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/591442#fruits/1307142)
 - Tiebreaker
   1. **[Imperial Circus Dead Decadence - Uta (Kyuare) \[Ophestra\]](https://osu.ppy.sh/beatmapsets/457332#fruits/1514618)**
 
@@ -125,12 +125,12 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
   1. [ZUTOMAYO - Humanoid (Jemzuu) \[Liyac's Overdose\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2552702)
   2. [Blue Stahli - Suit Up (MBomb) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665)
   3. [BLACKPINK - AS IF IT'S YOUR LAST (Natsu) \[Syph's Extra\]](https://osu.ppy.sh/beatmapsets/630325#fruits/1341480)
-  4. [iru1919 - Tenko (Bearizm) \[Insane\]](https://osu.ppy.sh/beatmapsets/432490#fruits/932619)  
+  4. [iru1919 - Tenko (Bearizm) \[Insane\]](https://osu.ppy.sh/beatmapsets/432490#fruits/932619)
 - DoubleTime
   1. [XeoN - Xeus (My Angel Azusa) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmapsets/529212#fruits/1145880)
   2. [Goose house - Hikaru nara (Ascendance) \[Sc4's Rain\]](https://osu.ppy.sh/beatmapsets/519023#fruits/1113160)
   3. [Nightwish - Sagan (tm1209) \[Carl Sagan\]](https://osu.ppy.sh/beatmapsets/395298#fruits/864676)
-  4. [solfa feat. Koharu Meu - Neko no Wagamama (Speed Ver.) (Lemari Es) \[Struggle\]](https://osu.ppy.sh/beatmapsets/1041542#fruits/2176828)  
+  4. [solfa feat. Koharu Meu - Neko no Wagamama (Speed Ver.) (Lemari Es) \[Struggle\]](https://osu.ppy.sh/beatmapsets/1041542#fruits/2176828)
 - Tiebreaker
   1. **[Chroma - Hoshi ga Furanai Machi (Rocma) \[Wish\]](https://osu.ppy.sh/beatmapsets/1121344#fruits/2343238)**
 
@@ -406,7 +406,7 @@ Monday, 3 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knockout stage rules 
+### Knockout stage rules
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.

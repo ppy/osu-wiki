@@ -22,7 +22,7 @@ While on lower difficulties it is highly recommended,[^rc-note] harder difficult
 
 Although time-distance equality is rarely used in the exact sense throughout the whole difficulty, it may often prove useful:
 
-- Generally, the proportion improves readability of adjacent [beats](/wiki/Music_theory/Beat) with different [snapping](/wiki/Client/Beatmap_editor/Beat_snap), which is appreciated in sections with complex, alternating, or unintuitive [rhythm](/wiki/Music_theory/Rhythm). 
+- Generally, the proportion improves readability of adjacent [beats](/wiki/Music_theory/Beat) with different [snapping](/wiki/Client/Beatmap_editor/Beat_snap), which is appreciated in sections with complex, alternating, or unintuitive [rhythm](/wiki/Music_theory/Rhythm).
 - Using the equality produces [patterns](/wiki/Beatmap/Pattern) that are visually balanced, for example, regular polygons, or regular [stream](/wiki/Beatmap/Pattern/osu!/Stream) sections.
 - The time-distance equality is recommended as a starting point for inexperienced mappers to help them develop a sense of consistency and rhythm.
 

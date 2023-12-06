@@ -22,13 +22,10 @@ Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribu
 
 0. [Cree](https://github.com/signup) una cuenta de GitHub.
 1. Abra el repositorio [`ppy/osu-wiki`][osu_wiki] y haga clic en `Fork` en la esquina superior derecha para hacer una copia controlada del wiki. Para volver a tu bifurcación, ve a [`ppy/osu-wiki`][osu_wiki] y presiona `Fork` nuevamente.
-
-  - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
-
+   - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
 2. Lea [Buenas prácticas § Realizar cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#hacer-cambios) y realiza las ediciones necesarias. Si bien es libre de usar cualquier aplicación de su elección, la osu! wiki tiene instrucciones detalladas sobre dos flujos de trabajo:
-
-  - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
+   - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
 
 ## Autocomprobación {id=self-check}
 
