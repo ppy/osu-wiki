@@ -8,7 +8,7 @@ The 16th cycle of the Community Mentorship program is on its way! If you've ever
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
-The Community Mentorship program serves as place for upcoming mappers and modders to develop their skills under the guidance of more experienced mappers and modders in the community. 
+The Community Mentorship program serves as place for upcoming mappers and modders to develop their skills under the guidance of more experienced mappers and modders in the community.
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like mapping contests), hang out with fellow mentees, and more!
 

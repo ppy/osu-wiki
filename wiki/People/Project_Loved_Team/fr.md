@@ -12,7 +12,7 @@ La **Project Loved Team** est composée de membres de la communauté d'osu! qui 
 
 La Project Loved Team se compose principalement de *capitaines* pour chaque [mode de jeu](/wiki/Game_mode). Les capitaines sont responsables de la nomination des beatmaps dans la catégorie loved et agissent en tant que représentants de la communauté en ayant une bonne idée des beatmaps à choisir. Ils rédigent également de courtes descriptions des beatmaps nominées afin d'aider les lecteurs à se faire une idée de chaque beatmap s'ils ne les ont pas vu ou joué auparavant.
 
-Les autres positions importantes de la Project Loved Team sont : 
+Les autres positions importantes de la Project Loved Team sont :
 
 - *Les modérateurs de contenu*, qui s'assurent que toutes les beatmaps nominées respectent les [règles relatives au contenu des musiques](/wiki/Rules/Song_content_rules) ainsi que les [considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations).
 - *Les réviseurs de descriptions*, qui relisent la description écrite par les capitaines pour les fautes d'orthographe et de grammaire.

@@ -46,7 +46,7 @@ Check out any of these mapsets from the Mappers' Guild:
 
 ---
 
-Each of these hits plus a handful more can be found over on [**URBANGARDE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/149), all with timing done in advance so you can focus 100% of your energy on interpreting the insanity behind these songs. 
+Each of these hits plus a handful more can be found over on [**URBANGARDE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/149), all with timing done in advance so you can focus 100% of your energy on interpreting the insanity behind these songs.
 
 And that'll wrap up our artist announcements for this week! Dig into the [@osugame Twitter](https://twitter.com/osugame) to see who's up next Wednesday — it'll be one of our largest single-artist libraries to date!
 

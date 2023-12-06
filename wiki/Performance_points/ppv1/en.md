@@ -38,7 +38,7 @@ The calculations involved are not publicly known, however some indications on th
 
 The ranking is mainly related to the performance on individual maps, leading many players to only focus on mastering single difficulties. ppv1 encouraged a common theme of practices among players:<!-- the list below is totally vague -->
 
-- Playing better and scoring better grades on the beatmaps. 
+- Playing better and scoring better grades on the beatmaps.
 - Improving the accuracy; even a small percent can make the difference.
 - Getting a rank on the most popular maps, where it is harder to get a place.
 - Playing difficult maps.

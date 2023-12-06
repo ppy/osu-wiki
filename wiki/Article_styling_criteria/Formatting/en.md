@@ -106,12 +106,18 @@ tags:
 
 ### Translations without reviews
 
-*Note: Wiki maintainers will determine and apply this mark prior to merging.*
+*Note: Wiki maintainers will determine and apply this tag prior to merging.*
 
-Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
+Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` tag is added to let future translators know that it may need to be checked again:
 
 ```yaml
 no_native_review: true
+```
+
+Alternatively, the `no_native_review_since` tag can be used to indicate the commit where the first unreviewed edit was introduced, as well as who edited the translation since then:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Article naming
