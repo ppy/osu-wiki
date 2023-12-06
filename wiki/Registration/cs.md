@@ -7,6 +7,7 @@
    ![Registrační formulář ve hře](img/ingame-registration.jpg "Registrační formulář")
 
 2. Vyplňte všechna pole ve formuláři.
+
    - Pole pro uživatelské jméno obsahuje maximálně 15 znaků; z nichž mohou být pouze alfanumerické znaky (`a-z`, `A-Z`, `0-9`), podtržítka (`_`), hranaté závorky (`[` a `]`), pomlčky (`-`) a mezery (` `).
    - V poli pro e-mailovou adresu použijte svůj e-mail. Slouží k obnovení hesla a v případě potřeby k zaslání ověřovacích kódů, proto nepoužívejte náhodný e-mail.
    - Do pole pro heslo použijte heslo, které má alespoň 8 znaků.
