@@ -17,4 +17,4 @@ En todos los modos de juego, excepto osu!mania, puede aparecer un gráfico y un 
 
 ![Una captura de pantalla de una sección de descanso pasada](img/section-pass.jpg "Sección pasada")
 
-![Una captura de pantalla screenshot de una sección de descanso fallada](img/section-fail.jpg "Sección fallada")
+![Una captura de pantalla de una sección de descanso fallada](img/section-fail.jpg "Sección fallada")
