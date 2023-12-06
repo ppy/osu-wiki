@@ -126,6 +126,24 @@ Notas:
 
 - Este elemento fue personalizable por un solo día como parte de una broma de April Fools del 2015.
 
+---
+
+`menu-charts-click.wav`
+
+Notas:
+
+- La muestra reproducida al clickear en `Charts`
+
+---
+
+`menu-charts-hover.wav`
+
+Notas:
+
+- La muestra reproducida al colocar el cursor sobre `Charts`
+
+---
+
 ### FPS
 
 `fps-0.png`
@@ -301,6 +319,34 @@ Notas:
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
 - Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+
+## osu!
+
+`hitcircleoverlay-{n}.png`
+
+![](img/hitcircleoverlay.png)
+
+*Para más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Notas:
+
+- Nombre de animación: `hitcircleoverlay-{n}.png`
+- Tasa de animación: 2 FPS (4 FPS máximo).
+  - Esta tasa se ve afectada por los modificadores de juego half time y double time/nightcore.
+
+---
+
+`sliderstartcircleoverlay-{n}.png`
+
+![](img/sliderstartcircleoverlay.png)
+
+*Para más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Notas:
+
+- Nombre de animación: `sliderstartcircleoverlay-{n}.png`
+- Tasa de animación: 2 FPS (4 FPS máximo).
+  - Esta tasa se ve afectada por los modificadores de juego half time y double time/nightcore.
 
 ---
 
