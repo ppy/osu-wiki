@@ -478,16 +478,17 @@ Monday, July 24, 2023:
 
 ### Match procedure
 
-1. 10 minutes before match time, the referee will create a lobby with the name ROC: (Player 1) vs (Player 2). Shortly after, he will give the invites to the players.
+1. 10 minutes before match time, the referee will create a lobby with the name ORST: (Player 1) vs (Player 2). Shortly after, he will give the invites to the players.
 2. If a player fails to be present in the lobby 10 minutes after match time, whilst not responding to any method of contact, it will be considered a forfeit and a loss by default for that player.
 3. Players are allowed to choose one warm-up map each, but the maps must not exceed 4 minutes of drain time.
 4. Both players will type the `!roll` command to draw a random number. The player with the lower number will decide the ban order, and the player with the higher number will choose the pick order.
 5. The ban order will be A-B in Round of 32/16, and A-B-B-A from Quarter Finals onwards, with "A" representing the player with the first ban.
-6. Players have 120 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in due time, the referee will pick the next map at random, and if the same happens for a ban, that player's ban will be considered unused.
+6. Players have 90 seconds to pick or ban a map and 90 seconds to prepare before a map starts. If a player does not pick a map in due time, it is considered that this will start their single timeout. If the timeout expires or the player fails to ready on time again, the referee will forcibly start a map. If the same happens for a ban, that player's ban will be considered unused.
 7. For each map, after both players are ready, the referee will start a 10 second countdown with `!mp start 10` which will automatically start gameplay.
 8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game.
-9. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
-10. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
+9. Each player has the right to request one timeout for technical reasons, which can last up to 3 minutes.
+10. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
+11. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
 ### Scheduling
 
