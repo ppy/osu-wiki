@@ -1,6 +1,6 @@
 # Requisitos de desbloqueo
 
-Página de índice para todos los artículos que listan requisitos de desbloqueo de [medallas](/wiki/Medals)
+Página de índice para todos los artículos que enumeran los requisitos de desbloqueo de las [medallas](/wiki/Medals)
 
 Los requisitos de desbloqueo para las [medallas Hush-Hush](/wiki/Medals#hush-hush) son intencionalmente omitidos en esta wiki para ayudar a preservar su secretismo.
 
