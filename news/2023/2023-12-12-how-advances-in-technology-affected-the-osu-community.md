@@ -72,7 +72,9 @@ That meant that all touch screen plays going forward would automatically have th
 
 ## "Rapid trigger" feature on analogue mechanical keyboards (2021)
 
-"Rapid trigger" is a new piece of technology that's been created by Wooting, a mechanical keyboard manufacturer. It completely removes the need for players to trigger the actuation point of a key in order to activate it, and it allows for the key to be depressed as soon as force is not being applied on the key any more, and activates again as soon as force is applied, at any point.
+"Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. It takes advantage of the [hall effect](https://en.wikipedia.org/wiki/Hall_effect) by either allowing you to alter where the actuation point of any given key is, or completely removing the need for players to trigger the actuation point of a key in order to activate it, allowing for the key to be depressed as soon as force is not being applied on the key any more, and activates again as soon as force is applied, at any point.
+
+![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
 
 This has caused quite a turmoil amongst the community, as some believe this greatly reduces the skill required to be considered "good at speed", and lowers the skill ceiling quite significantly. The other side of the community argues that this is only beneficial for players who "mash" keys instead of trying to accurately hit notes. Even though 2 years later this is still an argued about topic, there are no real side effects that can be attributed to it. Players that were already considered good at speed in osu! have become even better, whether that is to contribute exclusively to the keyboard they are using, or the extra effort they have put into the game after getting excited to play with their new keyboards, remains up to the players themselves to determine.
 
