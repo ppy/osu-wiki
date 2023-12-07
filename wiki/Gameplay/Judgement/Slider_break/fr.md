@@ -17,4 +17,4 @@ Le slider break ne sera pas déclenchée si la [tail](/wiki/Gameplay/Hit_object/
 
 ## Gameplay
 
-Les sliders breaks, par leur définition, brisent le combo, mais au lieu d'un miss, le joueur recevra un [GOOD](/wiki/Gameplay/Judgement/osu!). Par conséquent, il est toujours possible d'obtenir le [grade](/wiki/Gameplay/Grade) S ou S argent pour un jeu, en supposant que tous les autres critères de [précision](wiki/Gameplay/Accuracy) aient été remplis.
+Les sliders breaks, par leur définition, brisent le combo, mais au lieu d'un miss, le joueur recevra un [GOOD](/wiki/Gameplay/Judgement/osu!). Par conséquent, il est toujours possible d'obtenir le [grade](/wiki/Gameplay/Grade) S ou S argent pour un jeu, en supposant que tous les autres critères de [précision](/wiki/Gameplay/Accuracy) aient été remplis.
