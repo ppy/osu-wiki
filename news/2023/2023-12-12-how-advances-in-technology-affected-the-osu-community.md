@@ -8,13 +8,13 @@ Let's walk back through the past 15 years of osu!, and how various new technolog
 
 ![]()
 
-Every now and then there's a new piece of tech that's slated to change the way games are played, whether it'd be a new input device, a new way to squeeze more FPS out of your gaming systems, or a whole new way to experience games. While the osu! community has managed to stay unswayed as things such as virtual reality/augmented reality, cloud gaming & AI advancements due to them being inapplicable to osu!, there were still some things that changed the way osu! is played, or at least changed the view of the most optimal way to play it.
+Every now and then there's a new piece of tech that's slated to change the way games are played, whether it'd be a new input device, a new way to squeeze more FPS out of your gaming systems, or a whole new way to experience games. While the osu! community has managed to stay unswayed as things such as virtual reality/augmented reality, cloud gaming & AI advancements cropped up due to them being inapplicable to osu!, there were still some things that changed the way osu! is played, or at least changed the view of the most optimal way to play it.
 
 This post will cover the most well known examples of how new technology throughout the past 15 years impacted osu!, and what the results of widespread adoption are, or could have been.
 
 ## Graphics tablets as an input device (2007)
 
-For those who might not be aware, osu! originally started out as an *Osu! Tatakae! Ouendan* clone for PC, which was a game that was exclusive to the Nintendo DS, a console that came, and could be used with the included stylus pen. So when peppy released osu!, it was only natural for players who already had a graphics tablet to try out osu! with it, and since the get-go it was considered a commodity input device that would more closely replicate the original Nintendo DS experience.
+For those who might not be aware, osu! originally started out as an *Osu! Tatakae! Ouendan* clone for PC, which was a game that was exclusive to the Nintendo DS, a console that came, and could be used with the included stylus pen. So when [peppy](https://osu.ppy.sh/users/2) released osu!, it was only natural for players who already had a graphics tablet to try out osu! with it, and since the get-go it was considered a commodity input device that would more closely replicate the original Nintendo DS experience.
 
 Tablets were pretty expensive compared to nowadays, and until cheaper alternatives to well known brands such as Wacom started showing up, the price was the biggest blocker that prevented the community from having tablets as a common, and in some ways their preferred input device.
 
