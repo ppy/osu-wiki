@@ -34,7 +34,7 @@ L'une des actions suivantes **entraînera** le redémarrage de la beatmap par le
 - Manquer une note
 - L'obtention d'un OK ou d'un MEH
 - Rater un spinner
-- Rater la [tail](/wiki/Gameplay/Hit_object/Slider/Slidertail) d'un slider ou faire un [slider break] (/wiki/Gameplay/Judgement/Slider_break).
+- Rater la [tail](/wiki/Gameplay/Hit_object/Slider/Slidertail) d'un slider ou faire un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
 L'une des actions suivantes **ne fera pas** redémarrer la beatmap par le mod Perfect :
 

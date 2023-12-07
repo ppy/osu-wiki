@@ -1,6 +1,6 @@
 # osu! community meetings
 
-Les **osu! community meetings** sont un groupe de discussion organisé par [l'équipe d'osu!] (/wiki/People/osu!_team). L'objectif principal de ces réunions est de donner à chacun la possibilité de parler directement aux développeurs et aux personnes responsables de la gestion de la communauté afin de soulever des questions à discuter ou à approfondir.
+Les **osu! community meetings** sont un groupe de discussion organisé par [l'équipe d'osu!](/wiki/People/osu!_team). L'objectif principal de ces réunions est de donner à chacun la possibilité de parler directement aux développeurs et aux personnes responsables de la gestion de la communauté afin de soulever des questions à discuter ou à approfondir.
 
 Il y a bien longtemps, dans le [lointain passé du jeu](https://twitter.com/ppy/status/1169256824052170755), l'équipe d'osu! avait l'habitude d'organiser des réunions régulières de la communauté où tout le monde était invité à parler. Avec l'ampleur du jeu aujourd'hui, ce n'est plus possible, mais grâce à Discord, une forme de système de file d'attente a été mise en place où les questions peuvent être abordées une à la fois.
 

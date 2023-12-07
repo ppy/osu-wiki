@@ -28,4 +28,4 @@ Bien que le time-distance equality soit rarement utilisée au sens exact dans l'
 
 ## Notes
 
-[^rc-note]: Le time-distance equality est présente en tant que directives des [critères de classement d'osu!](/wiki/Ranking_criteria/osu!) pour Easy et Normal.
+[^note-rc]: Le time-distance equality est présente en tant que directives des [critères de classement d'osu!](/wiki/Ranking_criteria/osu!) pour Easy et Normal.
