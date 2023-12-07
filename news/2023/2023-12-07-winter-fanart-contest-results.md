@@ -18,7 +18,7 @@ A week of anticipation later, we've arrived with some of the closest voting we'v
 
 Seizing victory by the teeth, [**ZunK**](https://osu.ppy.sh/users/1070783)'s marvellous mascots unwrapping presents before a clear winter's day earned the stars of **1779** voters, edging over second place by a mere *five* votes — coincidentally also the number of beloved characters to feature in their piece.
 
-ZunK has been a long-time veteran in many of our fanart contests spanning back as far as 2020, and we're absolutely delighted to see them rise to the top spot. Well done, and well-earned!
+ZunK has been a long-time veteran in many of our fanart contests spanning back as far as 2020, and we're absolutely delighted to see them rise to the top spot. Well done, and well earned!
 
 [![](https://assets.ppy.sh/contests/189/banners/JlNN.jpg)](https://assets.ppy.sh/contests/189/winners/JlNN.png)
 
@@ -26,11 +26,11 @@ Hot on first place's heels was [**JlNN**](https://osu.ppy.sh/users/22499692)'s d
 
 [![](https://assets.ppy.sh/contests/189/banners/Sjao.jpg)](https://assets.ppy.sh/contests/189/winners/Sjao.png)
 
-[**Sjao**](https://osu.ppy.sh/users/7295733) returns with a ferociously wonderful santa-pippi enjoying a plate of sakura petal iced cookies and a mug of marshmellow cocoa out in the winter chill. **1763** voters couldn't hit the star button fast enough, and we fully understand why.
+[**Sjao**](https://osu.ppy.sh/users/7295733) returns with a ferociously wonderful Santa-pippi enjoying a plate of iced cherry blossom cookies and a mug of marshmallow cocoa out in the winter chill. **1763** voters couldn't hit the star button fast enough, and we fully understand why.
 
 [![](https://assets.ppy.sh/contests/189/banners/Scissors_Mori.jpg)](https://assets.ppy.sh/contests/189/winners/Scissors_Mori.png)
 
-**1723** voters decided to peel mikans with [**Scissors_Mori**](https://osu.ppy.sh/users/31302044)'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
+**1723** voters decided to peel oranges with [**Scissors_Mori**](https://osu.ppy.sh/users/31302044)'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
 
 [![](https://assets.ppy.sh/contests/189/banners/tehfire.jpg)](https://assets.ppy.sh/contests/189/winners/tehfire.png)
 
@@ -42,7 +42,7 @@ Hot on first place's heels was [**JlNN**](https://osu.ppy.sh/users/22499692)'s d
 
 [![](https://assets.ppy.sh/contests/189/banners/Arehandotsu.jpg)](https://assets.ppy.sh/contests/189/winners/Arehandotsu.png)
 
-[**Arehandotsu**](https://osu.ppy.sh/users/18540068) summoned forth The Gang, and **1414** voters answered! pippi, Mocha, Chirou and a Don are all ready to go for the new year even if we're still a couple of weeks out just yet.
+[**Arehandotsu**](https://osu.ppy.sh/users/18540068) summoned forth The Gang, and **1414** voters answered! pippi, Mocha, Chirou and a Don are all ready to go for the new year even if we're still a couple of weeks out.
 
 [![](https://assets.ppy.sh/contests/189/banners/Amplui.jpg)](https://assets.ppy.sh/contests/189/winners/Amplui.png)
 
@@ -50,15 +50,15 @@ An explosion of colour blew **1376** voters sky-high alongside [**Amplui**](http
 
 [![](https://assets.ppy.sh/contests/189/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/189/winners/Triantafyllia.png)
 
-Speaking of colour, **1312** voters beheld the festive marvel of [**Triantafyllia**](https://osu.ppy.sh/users/17084594) fabulous creation, showcasing pippi, Chirou, Mocha and Tama all enjoying a feast to end all feasts. There's also more than a few referential tidbits hiding in this one, so why not see if you can find them all?
+Speaking of colour, **1312** voters beheld the festive marvel of [**Triantafyllia**](https://osu.ppy.sh/users/17084594)'s fabulous creation, showcasing pippi, Chirou, Mocha and Tama all enjoying a feast to end all feasts. There's also more than a few referential tidbits hiding in this one, so why not see if you can find them all?
 
 [![](https://assets.ppy.sh/contests/189/banners/Mintzs.jpg)](https://assets.ppy.sh/contests/189/winners/Mintzs.png)
 
-**1260** voters stood among the ruins with [**Mintzs**](https://osu.ppy.sh/users/26978235)'s portrayal of a wintered-up pippi. You might be noticing a trend of us being a bit lax about the whole 'feast' thing that was supposed to be the theme of the contest, but with art like this, we figured we may as well just roll with it!
+**1260** voters stood among the ruins with [**Mintzs**](https://osu.ppy.sh/users/26978235)'s portrayal of a wintered-up pippi. You might be noticing a trend of us being a bit lax about the whole "feast" thing that was supposed to be the theme of the contest, but with art like this, we figured we may as well just roll with it!
 
 [![](https://assets.ppy.sh/contests/189/banners/Rainikiru.jpg)](https://assets.ppy.sh/contests/189/winners/Rainikiru.png)
 
-**1244** voters threw their lot in with [**Rainikiru**](https://osu.ppy.sh/users/21722610) when they saw it. Saw what, you ask? Why, the snow-lit horizon and a sea of presents beside a festively-dressed pippi and Mocha, what else?
+**1244** voters threw their lot in with [**Rainikiru**](https://osu.ppy.sh/users/21722610) when they saw it. Saw what, you ask? Why, the snow-lit horizon and a sea of presents beside a festively dressed pippi and Mocha, what else?
 
 [![](https://assets.ppy.sh/contests/189/banners/kittens_.jpg)](https://assets.ppy.sh/contests/189/winners/kittens_.png)
 
@@ -78,7 +78,7 @@ To the victor go the spoils. And so **1125** voters witnessed with [**Bayki**](h
 
 ### peppy's Picks
 
-It is said that in the hallowed halls of the osu! office (creative deficiencies in its name notwithstanding) that if one presses their ear to the wall adjacent to the Dean "peppy" Herbert's room during working hours around the advent of a fanart contest, they will hear one of three things: an Otographic Arts mix from several months ago, furious keyboard chattering, or irate mumbling about not having enough votes.
+It is said that in the hallowed halls of the osu! office (creative deficiencies in its name notwithstanding) that if one presses their ear to the wall adjacent to the Dean "peppy" Herbert's room during working hours around the advent of a fanart contest, they will hear one of three things: an Otographic Arts mix from several months ago, furious keyboard chattering, or irate mumbling about some of the amazing artwork not having enough votes to make the cut.
 
 To address one of these issues, the Picks were born. And so it is that every fanart contest since, the man himself declares a selection of his personal favourites shall make it to the main menu, for they are beloved in his eyes, and so too shall they be beloved in ours. Also, they're just generally awesome and we get more art to look at. Everybody wins!
 
@@ -98,7 +98,7 @@ A big thank you to everyone who took the time out of their day to enter or vote 
 
 As always, the top 3 finalists have received a special bespoke profile badge to acknowledge their victory, and every finalist (including the Picks!) has taken a toasty sum of 3 months of osu!supporter home with them over the holidays.
 
-[You can download a zip file containing all the finalist Winter 2023 Fanart Contest entries here!](https://assets.ppy.sh/contests/189/WinterFanart2023Finalists.zip) If you like something you see and it's not on this post, why not try reaching out to the artist or checking their socials? You can check out the full skew of the voting results over at the [contest listing](https://osu.ppy.sh/community/contests/189), if you like.
+[You can download a zip file containing all the finalist Winter 2023 Fanart Contest entries here!](https://assets.ppy.sh/contests/189/WinterFanart2023Finalists.zip) If you like something you see and it's not on this post, why not try reaching out to the artist or checking their socials? You can check out the full skewer of voting results over at the [contest listing](https://osu.ppy.sh/community/contests/189), if you like.
 
 From all of us here at the osu! team, we wish you the happiest of holidays, and we look forward to sharing 2024 with you as well!
 
