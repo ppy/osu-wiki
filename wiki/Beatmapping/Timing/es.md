@@ -32,7 +32,7 @@ Casi todas las canciones se pueden dividir en secciones de diferente tempo, y el
 
 ### BPM único
 
-La cantidad de tiempo entre el comienzo del archivo de audio y el primer tiempo fuerte, también llamado «offset», suele ser el lugar para el primer [punto de tiempo no heredado](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), el punto de partida usado por osu! para calcular posiciones de otros pulsos. Uno de estos puntos de tiempo suele ser suficiente para canciones que se producen o editan digitalmente sin problemas, sin cambios de BPM ni a la signatura del compás, ni reinicios de metrónomo.
+La cantidad de tiempo entre el comienzo del archivo de audio y el primer tiempo fuerte, también llamado «offset», suele ser el lugar para el primer [punto de tiempo no heredado](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-no-heredados), el punto de partida usado por osu! para calcular posiciones de otros pulsos. Uno de estos puntos de tiempo suele ser suficiente para canciones que se producen o editan digitalmente sin problemas, sin cambios de BPM ni a la signatura del compás, ni reinicios de metrónomo.
 
 En la [pestaña timing](/wiki/Client/Beatmap_editor/Timing), tocar la tecla `T` o hacer clic en el botón del metrónomo al ritmo de la canción permitirá a osu! calcular un BPM aproximado. Luego, el valor se puede ajustar manualmente hasta que sea correcto y todas las marcas de la línea de tiempo se alineen con la música. Hay algunas cosas a tener en cuenta:
 
