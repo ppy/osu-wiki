@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2023 Fanart Contest Results"
+title: Winter 2023 Fanart Contest Results
 date: 2023-12-03 12:30:00 +0000
 ---
 
