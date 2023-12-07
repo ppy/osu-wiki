@@ -51,7 +51,7 @@ The earliest mentions of using touch screens as an input device came as soon as 
 In 2015, [Kuvster](https://osu.ppy.sh/users/4896624) had a unique opportunity — snag the pp record under a very specific set of circumstances. Back in the day "TAG4" maps were [approved](/wiki/Beatmap/Category#approved), hence you were able to get pp on them. They weren't playable for a regular player, but if you had a touch screen and were apt with it, you were eligible to grab the pp record, which is what he did:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DPTomHS6l4k" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jcHiuNcwsiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The 577pp record was short-lived though, as after this all TAG4 maps were exempt from giving pp, and in 2019 TAG4 maps were moved to the [Loved category](/wiki/Beatmap/Category#loved). This however is not the event what "killed" touch screen, its demise would come only 2 years later.
