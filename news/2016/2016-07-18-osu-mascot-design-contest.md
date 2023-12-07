@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! mascot design contest"
+title: osu! mascot design contest
 date: 2016-07-18 09:46:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/147587226893/osu-mascot-design-contest
 ---
@@ -30,7 +30,7 @@ Second place will receive 3 months of supporter. Third, fourth and fifth place w
 
 ## Rules
 
-- Everything in your image must be your own work! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.  
+- Everything in your image must be your own work! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.
 - Don't include any copyrighted characters from outside of osu! Including your own original characters alongside osu! characters is fine.
 - Images must be G-rated and safe-for-work.
 - A full concept must be submitted. This includes name, date of birth, blood type (where applicable), approximate height and weight, and a general outline of their personality and hobbies.

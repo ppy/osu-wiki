@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May 2015 Monthly Ranking Charts"
+title: May 2015 Monthly Ranking Charts
 date: 2015-06-23 10:44:01 +0000
 tumblr_url: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking-charts
 ---

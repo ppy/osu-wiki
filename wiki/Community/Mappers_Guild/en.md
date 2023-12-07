@@ -53,6 +53,7 @@ Points are earned for different Mappers' Guild tasks. Earnings vary between task
 | Mapping a Hard difficulty | 7[^map][^bonus] |
 | Mapping an Insane difficulty | 8[^map][^bonus] |
 | Mapping an Expert difficulty | 8[^map][^bonus] |
+| Hitsounding a beatmap | 2 |
 | Hosting a beatmap | 5 |
 | Modding a beatmap | 1[^mod] |
 | Creating a storyboard | 2–10[^storyboard] |

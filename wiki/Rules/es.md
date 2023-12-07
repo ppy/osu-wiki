@@ -62,6 +62,6 @@ Ciertas infracciones conllevan una duración mínima (normalmente 42 horas o má
 
 Si tras varias infracciones sigues incumpliendo las reglas, tu cuenta puede ser [restringida de forma permanente e irrevocable](/wiki/Help_centre/Account_restrictions).
 
-Las cuentas restringidas no pueden jugar en línea, establecer puntuaciones, chatear con otros usuarios y, a todos los efectos, tienen «prohibida» la interacción con la comunidad. La restricción por infracción de las reglas de la comunidad solo puede eliminarse tras apelar al personal de soporte una vez transcurridos 3 meses ([pueden aplicarse más condiciones](/wiki/Help_centre/Account_restrictions#razones)).
+Las cuentas restringidas no pueden jugar en línea, establecer puntuaciones, chatear con otros usuarios y, a todos los efectos, tienen «prohibida» la interacción con la comunidad. La restricción por infracción de las reglas de la comunidad solo puede eliminarse tras apelar al personal de soporte una vez transcurridos 3 meses ([pueden aplicarse más condiciones](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Las infracciones graves que superen con creces el ámbito de aplicación de nuestras reglas y entren en la jurisdicción de los contenidos ilegales según el derecho consuetudinario internacional darán lugar a la cancelación inmediata de la cuenta. Esto se aplica casi exclusivamente a los delitos extremadamente gráficos o aborrecibles, como la distribución de pornografía infantil u otro material de abuso.

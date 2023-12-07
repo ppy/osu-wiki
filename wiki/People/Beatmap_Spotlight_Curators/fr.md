@@ -1,7 +1,7 @@
 ---
 tags:
-    - BSC
-    - beatmap spotlight curator
+  - BSC
+  - beatmap spotlight curator
 ---
 
 # Beatmap Spotlight Curators
@@ -23,7 +23,7 @@ Le projet Beatmap Spotlights est géré par divers membres de la communauté dan
 | Rôle | Membres |
 | :-- | :-- |
 | Chef du projet | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Gestionnaire du projet | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Gestionnaire du projet | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
 
 Chaque publication des Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
 
