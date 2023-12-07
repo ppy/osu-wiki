@@ -72,7 +72,7 @@ That meant that all touch screen plays going forward would automatically have th
 
 ## "Rapid trigger" feature on analogue mechanical keyboards (2021)
 
-"Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. It takes advantage of the [hall effect](https://en.wikipedia.org/wiki/Hall_effect) by either allowing you to alter where the actuation point of any given key is, or completely removing the need for players to trigger the actuation point of a key in order to activate it, allowing for the key to be depressed as soon as force is not being applied on the key any more, and activates again as soon as force is applied, at any point.
+"Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. Due to its analogue nature made possible by the [hall effect](https://en.wikipedia.org/wiki/Hall_effect), it allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether by using rapid trigger.
 
 ![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
 
