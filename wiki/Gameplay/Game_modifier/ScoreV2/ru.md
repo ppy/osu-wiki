@@ -15,7 +15,7 @@ tags:
 ![Значок мода SV2](/wiki/shared/mods/SV2.png "Значок мода ScoreV2 (SV2)")
 
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
-*Не путайте со [Score](/wiki/Gameplay/Score) или [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
+*Не следует путать со [Score](/wiki/Gameplay/Score) или [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
 ## Краткая информация
 
@@ -27,10 +27,10 @@ tags:
 
 ## Описание
 
-*Примечание: При игре со ScoreV2, результаты прохождения карт не влияют на ранг.*\
-*Для информации о системе подсчёта очков для этого мода: см. [ScoreV2](/wiki/Gameplay/Score#scorev2)*
+*Примечание: рекорды со ScoreV2 не будут учтены системой рейтинга.*\
+*Подробнее о системе подсчёта очков для этого мода см. [Score § ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
-**ScoreV2** использует прототип системы подсчёта очков [ScoreV2](/wiki/Gameplay/Score#scorev2), вместо стандартного подсчёта во всех [игровых режимах](/wiki/Game_mode). В кратце, ScoreV2 приводит все [ноты](/wiki/Gameplay/Hit_object) к очкам, в сумме составляющим 1.000.000 (при множителе 1,00). Спиннеры в [osu!](/wiki/Game_mode/osu!), дендены в [osu!taiko](/wiki/Game_mode/osu!taiko) и бананы в [osu!catch](/wiki/Game_mode/osu!catch) считаются бонусом и могут выходить за лимит очков.
+**ScoreV2** — мод, при активации которого игровые очки начинают считаться по системе-прототипу [ScoreV2](/wiki/Gameplay/Score#scorev2) вместо стандартной. Вкратце, ScoreV2 пропорционально уменьшает «стоимость» [игровых объектов](/wiki/Gameplay/Hit_object) так, чтобы максимально возможное число очков равнялось 1'000'000 (при множителе 1,00). Спиннеры в [osu!](/wiki/Game_mode/osu!), дендены в [osu!taiko](/wiki/Game_mode/osu!taiko) и бананы в [osu!catch](/wiki/Game_mode/osu!catch) считаются бонусом и могут выходить за лимит очков.
 
 Мод работает одинаково во всех режимах.
 
