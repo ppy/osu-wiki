@@ -10,7 +10,6 @@ tags:
   - UR
   - tasa inestable convertida
   - UR convertido
-  - acierto
   - error de golpeo
   - sincronización
 ---
@@ -42,4 +41,4 @@ cv. UR para Half Time   = UR / 0.75
 
 ### En versiones de lazer
 
-A partir de la versión [2023.1130.0](https://osu.ppy.sh/home/changelog/lazer/2023.1130.0) de [lazer](/wiki/Client/Release_stream/Lazer), el UR se mide usando el tiempo del mundo real independientemente de los mods utilizados, eliminando la necesidad del UR convertido.
+A partir de la versión [2023.1130.0](https://osu.ppy.sh/home/changelog/lazer/2023.1130.0) de [lazer](/wiki/Client/Release_stream/Lazer), el UR se mide usando el tiempo del mundo real independientemente de los mods usados, eliminando la necesidad del UR convertido.
