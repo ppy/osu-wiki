@@ -23,12 +23,12 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Marzo
 
-- **11/3/2008:** La categoría [abandonados](/wiki/Beatmap/Category#abandonados) se implementó para albergar beatmaps inactivos.
+- **11/3/2008:** La categoría [abandonados](/wiki/Beatmap/Category#graveyard) se implementó para albergar beatmaps inactivos.
   - La comunidad esperaba que se clasificaran todos los mapas pendientes, pero los mapas se abandonaban con frecuencia y era necesario separarlos.
 
 ### Julio
 
-- **31/7/2008:** Se implementó la categoría [aprobados](/wiki/Beatmap/Category#aprobados) para proporcionar tablas de clasificación a los beatmaps inapropiados para clasificar.
+- **31/7/2008:** Se implementó la categoría [aprobados](/wiki/Beatmap/Category#approved) para proporcionar tablas de clasificación a los beatmaps inapropiados para clasificar.
   - Las razones comunes para la aprobación incluyeron inicialmente una duración superior a 5 minutos y puntuaciones superiores a 20 millones, ninguno de los cuales estaba permitido para contenido clasificado.
   - Un icono de `llama` (![flame icon](/wiki/shared/icon/flame.gif)) marcaba a los beatmaps aprobados después de dos burbujas.
 
@@ -101,7 +101,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Marzo
 
-- **9/3/2011:** A los miembros del MAT se les concedió el permiso para burbujear beatmaps [aprobados](/wiki/Beatmap/Category#aprobados).
+- **9/3/2011:** A los miembros del MAT se les concedió el permiso para burbujear beatmaps [aprobados](/wiki/Beatmap/Category#approved).
   - Un miembro del MAT solo podía colocar una de las dos burbujas de un mapa aprobado.
   - Este cambio se implementó porque los beatmaps aprobados se estaban volviendo más comunes.
 - **23/8/2011:** El «Beatmap Approval Team» pasó a llamarse «Beatmap Appreciation Team».
@@ -122,7 +122,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Agosto
 
-- **21/8/2012:** Los beatmaps [aprobados](/wiki/Beatmap/Category#aprobados) comenzaron a recompensar con puntuación clasificada.
+- **21/8/2012:** Los beatmaps [aprobados](/wiki/Beatmap/Category#approved) comenzaron a recompensar con puntuación clasificada.
   - La puntuación clasificada ya no se usaba como la métrica de puntuación principal, por lo que ya no se podía abusar de los beatmaps aprobados para las clasificaciones de los jugadores.
 
 **1460 beatmaps** fueron clasificados en 2012.
@@ -152,13 +152,13 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 ### Agosto
 
 - **1/8/2013:** Se implementó la política de desclasificación de beatmaps, lo que permite a los miembros del BAT desclasificar un beatmap dentro de la semana posterior a la clasificación.
-  - Este cambio fue una prueba para la categoría [calificado](/wiki/Beatmap/Category#calificados) implementada más tarde.
+  - Este cambio fue una prueba para la categoría [calificado](/wiki/Beatmap/Category#qualified) implementada más tarde.
 - **2/8/2013:** Se agregaron a los primeros miembros del BAT de osu!taiko, lo que significa una separación de los permisos de modo de juego en el grupo.
   - En teoría, cualquier miembro del BAT podría nominar beatmaps de cualquier modo antes de este momento, sin embargo, el crecimiento de los diferentes modos de juego hizo necesaria la distinción.
 
 ### Diciembre
 
-- **12/12/2013:** Los beatmaps con dos nominaciones comenzaron a promocionarse a la categoría [calificado](/wiki/Beatmap/Category#calificados) en lugar de clasificado.
+- **12/12/2013:** Los beatmaps con dos nominaciones comenzaron a promocionarse a la categoría [calificado](/wiki/Beatmap/Category#qualified) en lugar de clasificado.
   - Los beatmaps calificados podrían descalificarse dentro de 1 semana, reemplazando la opción de desclasificar un beatmap dentro de 1 semana.
 - **22/12/2013:** El [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate) cicló a sus líderes regionales para evitar el agotamiento.
   - ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) representó a América del Norte, ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) representó a Asia, y ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) representó a Europa.
@@ -170,7 +170,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 ### Febrero
 
 - **10/2/2014:** Para mejorar la organización, la gestión interna del sistema de mapping y modding se trasladó de los foros a Trello.
-- **18/2/2014:** Se retiró la categoría [Aprobado](/wiki/Beatmap/Category#aprobados).
+- **18/2/2014:** Se retiró la categoría [Aprobado](/wiki/Beatmap/Category#approved).
   - Los beatmaps de maratón se promocionaron a clasificados con 3 nominaciones del BAT (2 iconos de `burbuja` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 icono de `llama` (![flame icon](/wiki/shared/icon/flame.gif))).
 
 ### Agosto
@@ -276,7 +276,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Octubre
 
-- **17/10/2016:** Se creó la categoría [amados](/wiki/Beatmap/Category#amados).
+- **17/10/2016:** Se creó la categoría [amados](/wiki/Beatmap/Category#loved).
   - La categoría proporcionó tablas de clasificación para mapas populares que no se pudieron clasificar por varias razones.
   - *Véase [Historia de Amado](/wiki/History_of_osu!/History_of_Loved) para obtener una cronología detallada de los cambios en el sistema de amados.*
 
