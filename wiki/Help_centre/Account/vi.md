@@ -73,7 +73,7 @@ Tham khảo mục [Cấm thi đấu](/wiki/Help_centre/Tournament_bans) để bi
 
 **Vui lòng dùng [trang khôi phục mật khẩu](https://osu.ppy.sh/home/password-reset) để tự động lấy lại tài khoản của bạn, miễn bạn vẫn còn truy cập vào email bạn đã dùng để đăng ký.**
 
-Nếu điều này không khả thi với bạn (hoặc bạn không  truy cập vào email đăng ký), vui lòng gửi email đến [đội ngũ hỗ trợ](mailto:accounts@.ppy.sh) với nhiều thông tin liên quan mà bạn có thể nghĩ đến để chúng tôi có thể xác định rằng bạn là chủ tài khoản.
+Nếu điều này không khả thi với bạn (hoặc bạn không còn truy cập vào email đăng ký), vui lòng gửi email đến [đội ngũ hỗ trợ](mailto:accounts@.ppy.sh) với nhiều thông tin liên quan mà bạn có thể nghĩ đến để chúng tôi có thể xác định rằng bạn là chủ tài khoản.
 
 Thông tin hữu ích để đi kèm với email này bao gồm:
 
@@ -116,11 +116,11 @@ Nếu bạn đã quên mật khẩu, bạn có thể dùng [trang khôi phục m
 
 Để biết thêm thông tin về cách lấy file `network.log` để gửi cho chúng tôi, xem [Trung tâm trợ giúp § Log files](/wiki/Help_centre#log-files).
 
-Hiếm khi, bạn cần phải liên hệ với nhà cung cấp Internet của bạn (ISP) để hỏi thêm về các vấn đề này. Một số ISP trước đây từng gặp sự cố khi kết nối đến osu!, thường là do định tuyến kém.
+Đôi lúc, bạn cần phải liên hệ với nhà cung cấp Internet của bạn (ISP) để hỏi thêm về các vấn đề này. Một số ISP trước đây từng gặp sự cố khi kết nối đến osu!, thường là do định tuyến kém.
 
 ### Website bảo tôi rằng tôi đã đăng nhập quá nhiều lần! {id=sign-in-throttling}
 
-**Đây là biện pháp bảo vệ tạm thời sau những lần truy cập vào tài khoản của bạn thất bại liên tục. Hãy thử đăng nhập lại sau 10-20 phút.**
+**Đây là biện pháp bảo vệ tạm thời sau những lần truy cập vào tài khoản của bạn thất bại liên tiếp. Hãy thử đăng nhập lại sau 10-20 phút.**
 
 Nếu điều này xảy ra với bạn, đơn giản là đợi một tí rồi thử lại sau.
 
