@@ -8,7 +8,7 @@ date: 2020-02-05 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/67/header.jpg)
 
-Showcased in [Kert](https://osu.ppy.sh/users/119933)'s 2012 set for [*can't hide your love*](https://osu.ppy.sh/beatmapsets/39732#osu/126446) and again in [Bonsai](https://osu.ppy.sh/users/987334)'s [collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) for *press start* back in 2016, **Kola Kid** is the self-proclaimed Godfather of chiptune fusion. 
+Showcased in [Kert](https://osu.ppy.sh/users/119933)'s 2012 set for [*can't hide your love*](https://osu.ppy.sh/beatmapsets/39732#osu/126446) and again in [Bonsai](https://osu.ppy.sh/users/987334)'s [collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) for *press start* back in 2016, **Kola Kid** is the self-proclaimed Godfather of chiptune fusion.
 
 With bleeps and bloops inspired by the video game BGM of yesteryear mixed with tinges of modern electronica, breakcore, punk and rap, his work is a unique blend of a bunch of stuff that just straight up *works*.
 

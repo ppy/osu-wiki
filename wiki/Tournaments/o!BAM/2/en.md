@@ -33,7 +33,7 @@ The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) was a double-eliminatio
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 225 MYR, animated profile banners |
 | *4th place* | 150 MYR, animated profile banners |
 
-![](img/badge.jpg "o!BAM 2 winner badge")
+![](img/badge.png "o!BAM 2 winner badge")
 
 ## Organisation
 
@@ -116,7 +116,7 @@ The osu! Battle Archive Malaysia 2022 was run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
-| :-: | :-- | 
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Miyu Archive** (::{ flag=MY }:: **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **RUDOLF ENJOYERS** (::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/3995630)**, ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Diggas in paris** (::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534)) |
@@ -634,6 +634,6 @@ Sunday, 25 September 2022:
    - EZ will have their own independent multiplier depending on the FM pick.
    - There is no bonus multiplier for FL.
    - Playing a FreeMod pick with **EZ** + **EZ**, **FL** + **FL** and without any mods activated is not allowed.
-7. In case of a tiebreaker, each team will discreetly ban 1 of the 3 remaining available beatmaps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one beatmap that ends up not being banned by both players will be played as the tiebreaker. 
+7. In case of a tiebreaker, each team will discreetly ban 1 of the 3 remaining available beatmaps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one beatmap that ends up not being banned by both players will be played as the tiebreaker.
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 8. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.

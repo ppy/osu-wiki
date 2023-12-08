@@ -6,7 +6,7 @@
 
 Like wiki articles, all news posts should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
-Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact [Ephemeral](https://osu.ppy.sh/users/102335) or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
+Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
 
 ## Locales
 

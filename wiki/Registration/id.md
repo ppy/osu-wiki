@@ -7,6 +7,7 @@
    ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
 2. Isi semua kolom dalam formulir yang tertera.
+
    - Pada kolom Username, terdapat batas maksimal 15 karakter yang dapat kamu pergunakan; karakter-karakter ini terbatas hanya pada karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
    - Pada kolom Email Address, gunakan alamat email yang aktif. Alamat email ini ke depannya akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan alamat email yang digunakan tidak bersifat sementara *(throwaway mail)*.
    - Pada kolom Password, gunakan kata sandi yang panjangnya minimal 8 karakter.

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
+---
+
 # osu!catch ranking criteria
 
 ***注意：この記事は[一般的なランキング基準](/wiki/Ranking_criteria)の拡張版です。***

@@ -1,6 +1,6 @@
 # SS Tournament 2018
 
-![SST 2018 logo](img/Banner.jpg)
+![SST 2018 logo](img/Banner.png)
 
 The **SS Tournament 2018** (***SST 2018***) was a 3v3 open-rank double-elimination osu! tournament organised by ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720), ::{ flag=US }:: [NeonLights](https://osu.ppy.sh/users/5277199), and ::{ flag=DE }:: [FrozenPheonix](https://osu.ppy.sh/users/9696149). It was the second instalment of the SS Tournament.
 
@@ -27,7 +27,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of total prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of total prize pool |
 
-![](img/Badge.jpg "SST 2018 winner badge")
+![](img/Badge.png "SST 2018 winner badge")
 
 ## Organisation
 
@@ -112,7 +112,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 
 ## Podium
 
-![](img/Medals.jpg "SST 2018 podium")
+![](img/Medals.png "SST 2018 podium")
 
 ## Mappools
 

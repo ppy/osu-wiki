@@ -109,10 +109,16 @@ tags:
 
 *Nota: Los mantenedores de la wiki determinarán y aplicarán esta etiqueta antes de la fusión.*
 
-A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores que es posible que deba verificarse nuevamente. Esta etiqueta debe escribirse como se muestra a continuación:
+A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores que es posible que deba verificarse nuevamente:
 
 ```yaml
 no_native_review: true
+```
+
+Alternativamente, la etiqueta `no_native_review_since` se puede usar para indicar el commit donde se introdujo la primera edición no revisada, así como quién editó la traducción desde entonces:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Denominar artículos
