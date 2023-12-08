@@ -79,7 +79,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 ### Agosto
 
 - **27/8/2010:** ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) fue nombrado líder del MAT después de que ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) renunciara.
-  - El liderazgo se pasó tentativamente entre los dos usuarios hasta que ztrot mantuvo el control en febrero de 2011.
+  - El liderazgo se pasó provisionalmente entre los dos usuarios hasta que ztrot se hizo con el control en febrero de 2011.
 
 ### Octubre
 
@@ -87,7 +87,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
   - La mayoría de los miembros del BAT ignoraron las protoburbujas, por lo que el MAT no tenía ningún propósito sin este cambio.
   - Esto le dio al MAT una influencia considerablemente mayor en el proceso de clasificación.
 - **10/10/2010:** A los miembros del MAT ya no se les permitía nominar o votar para nuevas incorporaciones a su equipo.
-  - Habiendo obtenido los permisos burbujeantes, se asumió que el MAT votaría por beneficio personal, por lo que esto se evitó antes de que se pudiera hacer daño.
+  - Habiendo obtenido los permisos de burbujeo, se asumió que el MAT votaría por beneficio personal, por lo que esto se evitó antes de que se pudiera hacer daño.
   - El BAT ganó la responsabilidad total de las adiciones del MAT.
 
 ### Diciembre
@@ -360,9 +360,9 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 - **1/4/2018:** El QAT comenzó a evaluar las solicitudes de BN mediante la revisión de mods no anónimos, a diferencia de los mods previamente anónimos.
   - Este cambio se realizó porque el QAT creía que los mods anónimos fuera de contexto no podían determinar de manera efectiva las capacidades de un modder.
-  - A través de este cambio, el QAT determinó que no se podía evitar el sesgo al evaluar a los Beatmap Nominators.
-- **22/4/2018:** El QAT celebró su primera reunión en el servidor de osu! en un intento por aumentar la transparencia de los asuntos del QAT y migrar las discusiones internas fuera del servidor de Discord de BN.
-  - A pesar de este intento, la mayoría de las discusiones internas aún se manejaban en el servidor de Discord de BN.
+  - Con este cambio, el QAT determinó que no se podía evitar el sesgo al evaluar a los Beatmap Nominators.
+- **22/4/2018:** El QAT celebró su primera reunión en el servidor de osu! en un intento por aumentar la transparencia de los asuntos del QAT y migrar las discusiones internas fuera del servidor de Discord de los BN.
+  - A pesar de este intento, la mayoría de las discusiones internas aún se manejaban en el servidor de Discord de los BN.
 
 ### Mayo
 
@@ -441,7 +441,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Febrero
 
-- **7/2/2020:** Las primeras insignias de perfil de Elite Nominator se otorgaron para reconocer el desempeño excepcional continuo de los miembros del equipo de BN.
+- **7/2/2020:** Las primeras insignias del perfil de Elite Nominator se otorgaron para reconocer el desempeño excepcional continuo de los miembros del equipo de BN.
   - Estas se planearon originalmente en el QAT Upheaval dos años antes.
 - **21/2/2020:** El liderazgo del NAT como concepto se suspendió cuando ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) renunció como líder del NAT.
   - Las tareas específicas de los líderes del NAT se delegaron a todo el equipo.
@@ -545,8 +545,8 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 - **21/1/2022:** Se implementó una nueva función dedicada a hacer que las solicitudes para BN sean más convenientes en [el sitio web de los Beatmap Nominators](https://bn.mappersguild.com/), llamada *BN Finder*.
   - Cualquiera puede enviar mapas en la cola de BN Finder que está presente en [la página de inicio](https://bn.mappersguild.com/home) del sitio web.
-  - Las coincidencias se realizan en función de las preferencias que pueden establecer los BNs/NATs.
-  - Los BNs/NATs pueden revisar las posibles coincidencias debajo del formulario de envío.
+  - Las coincidencias se realizan en función de las preferencias que pueden establecer los BN / el NAT.
+  - Los BN / el NAT pueden revisar las posibles coincidencias debajo del formulario de envío.
   - Después de que se acepte o deniegue una coincidencia, el [bot mappersguild](https://osu.ppy.sh/users/23648635) enviará un mensaje al solicitante informándole del consenso.
 
 ### Febrero
