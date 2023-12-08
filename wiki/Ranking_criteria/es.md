@@ -1,8 +1,3 @@
----
-outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
-outdated_translation: true
----
-
 # Criterios de clasificación
 
 *Para los criterios de clasificación específicos de los [modos de juego](/wiki/Game_mode), véase: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) y [osu!mania](osu!mania)*
@@ -55,7 +50,7 @@ Importante entender antes de usar:
 
 ## Beatmap
 
-*Nota: Cada modo de teclas de [osu!mania](/wiki/Game_mode/osu!mania) se considera un modo de juego individual a lo largo de esta sección.*
+*Nota: Cada [modo de teclas](osu!mania#términos-comunes) y [estilo de juego](osu!mania#términos-comunes) de [osu!mania](/wiki/Game_mode/osu!mania) es considerado un modo de juego separado a lo largo de esta sección.*
 
 ### Reglas
 
