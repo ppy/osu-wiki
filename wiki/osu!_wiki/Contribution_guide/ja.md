@@ -39,13 +39,13 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 2. ファイルリストの上に、あなたのブランチが`ppy:master`ブランチと比べて遅れている(behind)、進んでいる(ahead)、または同じ状態にある(even)かが表示されます。もし遅れたコミットと一緒に"behind"もしくは"ahead and behind"と表示されている場合、あなたのブランチは過去のバージョンです。
 
-   ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
+   ![](img/fork-even.jpg "OK (No commits and not outdated)")
 
-   ![](img/fork-ahead.jpg "OK \(These are your commits\)")
+   ![](img/fork-ahead.jpg "OK (These are your commits)")
 
-   ![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
+   ![](img/fork-behind.jpg "Potentially bad (Your branch is outdated)")
 
-   ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
+   ![](img/fork-ahead-behind.jpg "Potentially bad (Your branch is outdated with your commits)")
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
