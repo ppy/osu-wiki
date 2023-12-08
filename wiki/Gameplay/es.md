@@ -27,4 +27,5 @@
 - [Espectar](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Cubierta de tableta](/wiki/Gameplay/Tablet_cover)
+- [Tasa inestable](Unstable_rate)
 - [Walk](/wiki/Gameplay/Walk)

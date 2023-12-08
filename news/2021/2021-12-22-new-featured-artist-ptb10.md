@@ -20,7 +20,7 @@ Hailing from England, **PTB10** has been constructing his own blend of electroni
     </video>
 </div>
 
-### Starfall 
+### Starfall
 
 Try [the map seen above](https://osu.ppy.sh/beatmapsets/1648460) hosted by [Altai](https://osu.ppy.sh/users/5745865)!
 

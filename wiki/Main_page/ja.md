@@ -60,7 +60,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 <div class="wiki-main-page-panel">
 
 # ビートマップ投稿とRankedまでの手順
-  
+
 あなたのビートマップがRankedになると、あなたのことをもっと知ってもらえたり、人気が出たりします。Rankedにするために必要なこと、そしてビートマップのレビューを通じて成功のチャンスをつかむ方法やクオリティを管理する方法についてのガイドです。
 
 [投稿](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Rankedまでの手順](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
@@ -99,7 +99,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 # コミュニティとプロジェクト
 
 イベントは、世界中のosu!プレイヤーを熱狂させる主なものの1つです。トーナメントやコンテストに参加したり、次のイベントの企画を手伝ってください。
-  
+
 会話: [フォーラム](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 
 [トーナメント](/wiki/Tournaments) • [ビートマップスポットライト](/wiki/Beatmap_Spotlights) • [コンテスト](/wiki/Contests) • [コミュニティ メンターシップ プログラム](/wiki/Community/Community_Mentorship_Program)

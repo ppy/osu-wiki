@@ -8,7 +8,7 @@ date: 2019-10-08 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/50/header.jpg)
 
-Turning heads and drawing crowds since their explosive entrance into the prog metal scene in 2015, **Native Construct** is a fresh musical experience we're excited to introduce to the osu!community. 
+Turning heads and drawing crowds since their explosive entrance into the prog metal scene in 2015, **Native Construct** is a fresh musical experience we're excited to introduce to the osu!community.
 
 A unique blend of a variety of musical and compositional styles, **Native Construct**'s *Quiet World* is a concept album built upon the themes of rejection and silence, rendered in a theatrical manner quite unlike anything we've encountered in a long while. Inspired by big-name acts like Queen and Pink Floyd, we're certain that people will find something new and exciting to engage with.
 
@@ -32,13 +32,11 @@ Don't just take our word for it though, check them out for yourself:
     <source src="https://assets.ppy.sh/artists/50/previews/1497.mp3" type="audio/mpeg">
 </audio>
 
-
 ### The Spark of the Archon
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/50/previews/1499.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Your Familiar Face
 

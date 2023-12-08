@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#osu/3169485)
   3. [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[moph's Extra\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2692632)
   4. [Function Phantom - Index (feat. Thinktec) (PaRaDogi) \[0pp's Saturn\]](https://osu.ppy.sh/beatmapsets/1493791#osu/3061893)
-  5. [MisoilePunch - Aurolla (cocona) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1543663#osu/3155328) 
+  5. [MisoilePunch - Aurolla (cocona) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1543663#osu/3155328)
   6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[Yudragen's Extra\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3375590)
 - Hidden
   1. [yama - Mahi (Purplegaze) \[Purple & kefn's Expert\]](https://osu.ppy.sh/beatmapsets/1566515#osu/3245880)
@@ -110,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
   1. [mona (CV: Natsukawa Shiina) - No.1 (HeTo) \[Lovely\]](https://osu.ppy.sh/beatmapsets/1090518#osu/2279641)
   2. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
   3. [Xceon feat. Mayumi Morinaga - Ikuseisou no Monogatari \~The Story of Eternity\~ (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/306782#osu/686559)
-  4. [Garoad - Every Day is Night (Chaoslitz) \[Karmotrine\]](https://osu.ppy.sh/beatmapsets/1353075#osu/2801137) 
+  4. [Garoad - Every Day is Night (Chaoslitz) \[Karmotrine\]](https://osu.ppy.sh/beatmapsets/1353075#osu/2801137)
 - Tiebreaker
   1. **[Yooh - Dignity -alzando- (Cubby) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1252847#osu/2614851)**
 
@@ -123,8 +123,8 @@ This competition has come to an end and resulted in the following podium:
   2. [Halozy ft. Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (-Tynamo) \[I love Nanahira\]](https://osu.ppy.sh/beatmapsets/1388107#osu/2866773)
   3. [Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/1431401#osu/3003518)
   4. [sakuraburst - SELF DESTRUCT (fusionnqn) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1033562#osu/2161036)
-  5. [Chroma - Sayonara Planet Wars (xidorn) \[01:59:931\]](https://osu.ppy.sh/beatmapsets/1345631#osu/2786752) 
-  6. [android52 - anime no mizo 420 (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/734780#osu/1551262) 
+  5. [Chroma - Sayonara Planet Wars (xidorn) \[01:59:931\]](https://osu.ppy.sh/beatmapsets/1345631#osu/2786752)
+  6. [android52 - anime no mizo 420 (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/734780#osu/1551262)
 - Hidden
   1. [Vierra - Seandainya (Cut Ver.) (hikimaruy) \[Gelas Cup Edit\]](https://osu.ppy.sh/beatmapsets/1578756#osu/3228286)
   2. [amazarashi - Sayonara Gokko (Kalibe) \[farewell\]](https://osu.ppy.sh/beatmapsets/932454#osu/1946856)
@@ -186,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Numtack05 - Ooki na Hane de! (Cut Ver.) (Mafumafu) \[Tsubasa\]](https://osu.ppy.sh/beatmapsets/1075635#osu/2250717)
 - DoubleTime
   1. [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[ponpokosatellin's Hard\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2210782)
-  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)  
+  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)
 - Tiebreaker
   1. **[Demetori - Warabe Matsuri ~ Innocent Treasures (Remapper) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1033730#osu/2163007)**
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   2. [XXXTENTACION - MOONLIGHT (eiri-) \[R.I.P\]](https://osu.ppy.sh/beatmapsets/967467#osu/2024692)
 - DoubleTime
   1. [senya - Theta de Tsukisashite (Serafeim) \[Hard\]](https://osu.ppy.sh/beatmapsets/1353531#osu/2802609)
-  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)  
+  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)
 - Tiebreaker
   1. **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)**
 
@@ -333,9 +333,9 @@ Monday, 7 March 2022:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.

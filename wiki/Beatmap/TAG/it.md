@@ -12,4 +12,4 @@ In queste modalità, ogni giocatore è responsabile di un [set di combo](/wiki/B
 
 Le [difficoltà](/wiki/Beatmap/Difficulty) TAG sono solitamente indicate dall'uso del termine "TAG" nel nome della difficoltà della beatmap. Il più delle volte "TAG" è seguito da un numero, che indica la quantità di giocatori per cui la difficoltà è stata concepita (ad esempio "TAG2" per due giocatori o "TAG4" per quattro giocatori).
 
-A causa della loro natura, le difficoltà TAG sono o non classificate o [Amate](/wiki/Beatmap/Category#amate), poiché sono intenzionalmente progettate per essere quasi impossibili per un singolo giocatore.
+A causa della loro natura, le difficoltà TAG sono o non classificate o [Amate](/wiki/Beatmap/Category#loved), poiché sono intenzionalmente progettate per essere quasi impossibili per un singolo giocatore.

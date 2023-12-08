@@ -360,10 +360,10 @@ Monday, 27 April 2020:
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.  
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 9. Beatmaps cannot be reused in the same match.
-10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
+10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
     - If both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 11. If one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
@@ -389,11 +389,11 @@ Monday, 27 April 2020:
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. During the Double Elimination stages, the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 11. **Winning conditions:**
-    - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).        
-    - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
+    - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).
+    - The Semifinals and Finals will be best of 11 (first team to 6 wins).
     - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match instructions
@@ -402,7 +402,7 @@ Monday, 27 April 2020:
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
-   - The team with the higher roll **picks** first.       
+   - The team with the higher roll **picks** first.
    - The team with the lower roll **bans** first.
    - Each team will be given 2 minutes to decide upon picks or bans. If first team fails to provide an answer, other team takes the turn.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
@@ -436,4 +436,4 @@ Monday, 27 April 2020:
 2. Matches will be scheduled and announced according to the Turkey Time (UTC+3).
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players/teams agree to a time at least 4 hours before the first match in that particular stage.
-5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
+5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.

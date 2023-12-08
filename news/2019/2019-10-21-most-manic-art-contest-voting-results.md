@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Most Manic Art Contest Voting Results"
+title: A Most Manic Art Contest Voting Results
 date: 2019-10-21 10:00:00 +0000
 ---
 
@@ -10,7 +10,7 @@ The results are in, and it's close! TOO CLOSE! Only **THREE** votes distinguish 
 
 Surprise surprise, the voting was nearly impossible again, as it tends to be whenever our incredible community artists are involved. 85 brave artists took the plunge, but there could only be three winners of the grand vote, except...
 
-Except there's no way we could settle for just the top three! 
+Except there's no way we could settle for just the top three!
 
 In the interests of rewarding excellent work well done, we've decided to shift the rewards for winning the public vote to include everyone from third place onwards with a tidy month of osu!supporter to tide them over for their efforts.
 
@@ -48,7 +48,7 @@ We'd also like to congratulate the following users for their exemplary performan
 
 [**Check out the contest listing for the full voting tallies on all entries, plus handy links to view the winners!**](https://osu.ppy.sh/community/contests/80)
 
-Now, to be extra clear, the results of this contest **do not mean that the first place entry is the new set of osu!mania twins.** 
+Now, to be extra clear, the results of this contest **do not mean that the first place entry is the new set of osu!mania twins.**
 
 Faced with the near impossible task of deciding from this incredible deluge of talent, the osu!team must now retreat to the mountains in order to decide upon the fated artist of the ages, the one whom has impressed us collectively the most to have their concept made into reality as the official osu!mania game mode mascots.
 
