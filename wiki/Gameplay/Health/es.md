@@ -11,7 +11,7 @@ tags:
 
 # Salud
 
-La **salud** o *HP* es el valor que determina si un jugador logra pasar o fallar un [beatmap](/wiki/Beatmap). La salud se puede ver en la [barra de salud](/wiki/Client/Interface/Health_bar), que se actualiza a medida que avanza el juego. La configuración de dificultad [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate), determinará qué tan difícil será mantener un valor alto de salud.
+La **salud** o *HP* es el valor que determina si un jugador logra pasar o fallar un [beatmap](/wiki/Beatmap). La salud se puede ver en la [barra de salud](/wiki/Client/Interface/Health_bar), que se actualiza a medida que avanza el juego. La configuración de dificultad de la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) determinará qué tan difícil será mantener un valor alto de salud.
 
 ## osu!
 
