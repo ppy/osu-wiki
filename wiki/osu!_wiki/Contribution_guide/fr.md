@@ -18,13 +18,10 @@ Les articles de l'osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribue
 
 0. [Créez](https://github.com/signup) un compte GitHub.
 1. Ouvrez le dépôt [`ppy/osu-wiki`][osu_wiki] et cliquez sur `Fork` dans le coin supérieur droit pour faire une copie contrôlée du wiki. Pour revenir à votre fork, allez sur [`ppy/osu-wiki`][osu_wiki] et cliquez à nouveau sur `Fork`.
-
-  - Si vous avez créé un fork il y a quelque temps, synchronisez-le conformément aux [Bonnes pratiques § Synchronisation d'un fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork).
-
+   - Si vous avez créé un fork il y a quelque temps, synchronisez-le conformément aux [Bonnes pratiques § Synchronisation d'un fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork).
 2. Lisez [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) et effectuez les modifications nécessaires. Bien que vous soyez libre d'utiliser l'application de votre choix, l'osu!wiki contient des instructions détaillées sur deux outils :
-
-  - [Éditeur web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en ligne, aucune installation requise).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (hors ligne, offre plus de contrôle).
+   - [Éditeur web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en ligne, aucune installation requise).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (hors ligne, offre plus de contrôle).
 
 ## Self-check {id=self-check}
 
@@ -34,7 +31,7 @@ Lorsque vous avez terminé la review, prenez le temps de relire votre travail. P
 - **Le style et la grammaire** : les articles doivent être clairs, compréhensibles et ne demander aucun effort mental important au lecteur. Soyez cohérent et évitez les phrases trop compliquées ou abruptes. Utilisez des éditeurs dotés de correcteurs orthographiques intégrés, tels que [Google Docs](https://docs.google.com), pour mettre en évidence les fautes de frappe et les erreurs grammaticales ou syntaxiques.
 - **[La parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
 - **Structure et mise en forme** : prévisualisez votre article à l'aide d'un outil tel que [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) pour vous assurer qu'il se présente exactement comme vous le souhaitiez.
-- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et des [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
+- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et des [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-du-gameplay), y compris les dimensions maximales de 1280×720.
 
 Pour des normes de rédaction et de formatage plus spécifiques, veuillez vous référer aux [critères de mise en forme des articles](/wiki/Article_styling_criteria). Il n'est pas recommandé de le lire en une seule fois, un reviewer vous indiquera probablement si quelque chose doit-être corrigé dans un sens ou dans l'autre.
 
