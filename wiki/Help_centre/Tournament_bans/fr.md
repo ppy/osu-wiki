@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bannissement des tournois
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*
