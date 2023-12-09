@@ -1,6 +1,6 @@
-# Línea de tiempo del mapping y modding
+# Cronología de mapping y modding
 
-Los sistemas de mapping y modding están mejorando constantemente. La **línea de tiempo del mapping y modding** tiene como objetivo documentar los cambios más grandes del sistema y servir como una herramienta de referencia cuando los usuarios están incorporando nuevos cambios.
+Los sistemas de mapping y modding están mejorando constantemente. La **cronología de mapping y modding** tiene como objetivo documentar los cambios más grandes del sistema y servir como una herramienta de referencia cuando los usuarios están incorporando nuevos cambios.
 
 ## 2007
 
@@ -13,7 +13,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 - **21/10/2007:** Se lanzaron los [criterios de clasificación](/wiki/Ranking_criteria).
 - **29/10/2007:**: Los iconos de los hilos del foro se estandarizaron para el proceso de clasificación.
   - Un icono de `estrella` (![star icon](/wiki/shared/icon/star.gif)) marcaba a los buenos mapas que necesitaban más trabajo.
-  - Un icono de `burbuja` (![bubble icon](/wiki/shared/icon/bubble.gif)) marcaba a los beatmaps considerados para la clasificación.
+  - Un icono de `burbuja` (![bubble icon](/wiki/shared/icon/bubble.gif)) marcaba a los beatmaps considerados para clasificar.
   - Un icono de `corazón` (![heart icon](/wiki/shared/icon/heart.gif)) marcaba a los beatmaps clasificados. Estos solo se podían colocar después de que se [burbujeara](/wiki/Modding/Bubble) un beatmap, lo que garantiza dos nominaciones por beatmap.
   - Un icono `nuclear` (![nuke icon](/wiki/shared/icon/nuke.gif)) marcaba a los beatmaps que no podían clasificarse bajo ninguna circunstancia.
 
@@ -151,7 +151,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 
 ### Agosto
 
-- **1/8/2013:** Se implementó la política de desclasificación de beatmaps, lo que permite a los miembros del BAT desclasificar un beatmap dentro de la semana posterior a la clasificación.
+- **1/8/2013:** Se implementó la política de desclasificación de beatmaps, lo que permite a los miembros del BAT desclasificar un beatmap dentro de la semana posterior a su clasificación.
   - Este cambio fue una prueba para la categoría [calificado](/wiki/Beatmap/Category#qualified) implementada más tarde.
 - **2/8/2013:** Se agregaron a los primeros miembros del BAT de osu!taiko, lo que significa una separación de los permisos de modo de juego en el grupo.
   - En teoría, cualquier miembro del BAT podría nominar beatmaps de cualquier modo antes de este momento, sin embargo, el crecimiento de los diferentes modos de juego hizo necesaria la distinción.
@@ -372,7 +372,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **línea d
 ### Junio
 
 - **21/6/2018:** Se creó la iniciativa del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance).
-  - Esto fue diseñado para garantizar que todos los beatmaps calificados fueran revisados por al menos 2 miembros de los BN o el QAT antes de la clasificación.
+  - Esto fue diseñado para garantizar que todos los beatmaps calificados fueran revisados por al menos 2 miembros de los BN o el QAT antes de su clasificación.
   - El programa fue administrado a través de Trello y automatizado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) a través de Aiess.
   - Este cambio fue una de las razones principales por las que se cambió el nombre del QAT más tarde.
 
