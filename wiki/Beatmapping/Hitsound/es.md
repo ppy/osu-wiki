@@ -20,11 +20,11 @@ tags:
 
 *Véase también: [Agregar hitsounds personalizados](/wiki/Guides/Using_custom_hitsounds)*
 
-Los **hitsounds** son los sonidos que osu! reproduce en respuesta a la entrada del usuario al interactuar con [objetos](/wiki/Gameplay/Hit_object). Los hitsounds se utilizan normalmente para brindar feedback auditiva al jugador para ayudarlo a juzgar su [precisión](/wiki/Gameplay/Accuracy) en relación con la canción.
+Los **hitsounds** son los sonidos que osu! reproduce en respuesta a la entrada del usuario al interactuar con [objetos](/wiki/Gameplay/Hit_object). Los hitsounds se usan normalmente para brindar retroalimentación auditiva al jugador para ayudarlo a juzgar su [precisión](/wiki/Gameplay/Accuracy) en relación con la canción.
 
 La reproducción del hitsound consiste en una muestra predeterminada llamada *hitnormal*, y cualquier *adición* de una combinación de muestras whistle, finish o clap. Cada muestra es parte de uno de los tres *conjuntos de muestras* que denotan diferentes estilos: `Normal`, `Soft`, o `Drum`.
 
-Los beatmappers pueden reemplazar cualquier muestra de sonido predeterminada con muestras personalizadas usando la carpeta del [beatmap](/wiki/Beatmap). La [skin](/wiki/Skinning) de un jugador también puede reemplazar los hitsounds predeterminados en todos los beatmaps. Los detalles sobre las muestras de los hitsound se pueden encontrar en el artículo [hitsounds en el skinning](/wiki/Skinning/Sounds#hitsounds).
+Los beatmappers pueden reemplazar cualquier muestra de sonido predeterminada con muestras personalizadas usando la carpeta del [beatmap](/wiki/Beatmap). La [skin](/wiki/Skinning) de un jugador también puede reemplazar los hitsounds predeterminados en todos los beatmaps. Los detalles sobre las muestras de los hitsounds se pueden encontrar en el artículo [hitsounds en el skinning](/wiki/Skinning/Sounds#hitsounds).
 
 Los [spinners](/wiki/Gameplay/Hit_object/Spinner) y [sliders](/wiki/Gameplay/Hit_object/Slider) tienen hitsounds adicionales de giro, bonificación, deslizamiento y marca del slider.
 
@@ -38,11 +38,11 @@ Si el hitsound se encuentra en una parte de un objeto en el que no se puede hace
 
 ## Storyboards con hitsounds
 
-Se pueden agregar muestras de sonido a través del storyboarding para imitar a los hitsounds. Sin embargo, a diferencia de los hitsounds reales, estos siempre se reproducen en el momento dado, independientemente de si el jugador golpeó el objeto. Por ese motivo, muchas veces no se recomiendan. Algunos mappers los utilizan para mantener patrones de hitsounds entre objetos.
+Se pueden agregar muestras de sonido a través del storyboarding para imitar a los hitsounds. Sin embargo, a diferencia de los hitsounds reales, estos siempre se reproducen en el momento dado, independientemente de si el jugador golpeó el objeto. Por ese motivo, muchas veces no se recomiendan. Algunos mappers los usan para mantener patrones de hitsounds entre objetos.
 
 ## Keysound
 
-Un keysound es una muestra de hitsound que es extremadamente similar a la canción o está tomada directamente de ella y se utiliza para replicar el tono de las notas de la canción. Este método de hitsounding generalmente proporciona poco feedback al jugador, pero puede hacer que jugar ciertos beatmaps sea más interesante y hacer que secciones de un mapa se destaquen cuando se aplica bien.
+Un keysound es una muestra de hitsound que es extremadamente similar a la canción o está tomada directamente de ella y se usa para replicar el tono de las notas de la canción. Este método de hitsounding generalmente proporciona poca retroalimentación al jugador, pero puede hacer que jugar ciertos beatmaps sea más interesante y hacer que secciones de un mapa se destaquen cuando se aplica bien.
 
 ## En osu!taiko
 

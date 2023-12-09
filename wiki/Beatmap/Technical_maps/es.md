@@ -7,36 +7,36 @@ tags:
   - SV
   - term
   - técnico
-  - término
   - deslizador
+  - término
 ---
 
 # Mapas técnicos
 
-*Aviso: Para el propósito de este artículo, el término «tech map» se tratará como un término general que incluye todas estas definiciones.*
+*Aviso: Para el propósito de este artículo, el término «mapa técnico» se tratará como un término general que incluye todas estas definiciones.*
 
-**Mapa técnico** (a menudo abreviado como «tech maps») es un término que no tiene una definición clara y acordada entre la comunidad de osu!. Dependiendo del usuario, un «tech map» puede ser tan amplio como un [beatmap](/wiki/Beatmap) que simplemente contiene [patrones](/wiki/Beatmap/Pattern) no genéricos, o tan específico como un beatmap que es denso en número de [objetos](/wiki/Gameplay/Hit_object) y contiene muchas formas irregulares de [sliders](/wiki/Gameplay/Hit_object/Slider) que cambian rápida y drásticamente las velocidades (a menudo a alta intensidad).
+**Mapa técnico** (a menudo abreviado en inglés como «tech maps») es un término que no tiene una definición clara y acordada entre la comunidad de osu!. Dependiendo del usuario, un «mapa técnico» puede ser tan amplio como un [beatmap](/wiki/Beatmap) que simplemente contiene [patrones](/wiki/Beatmap/Pattern) no genéricos, o tan específico como un beatmap que es denso en número de [objetos](/wiki/Gameplay/Hit_object) y contiene muchas formas irregulares de [sliders](/wiki/Gameplay/Hit_object/Slider) que cambian rápida y drásticamente las velocidades (a menudo a alta intensidad).
 
 Los mapas técnicos suelen asociarse con géneros de canciones que ofrecen sonidos complejos y de ritmo rápido (por ejemplo, drum-and-bass, dubstep y drumstep), ya que a menudo le permiten al mapper explorar todos y cada uno de los sonidos individuales en detalle para beneficio del beatmap. Aunque no se requiere explícitamente música de este tipo.
 
-Independientemente de la definición, muchos jugadores afirman que los tech maps son injustos (en términos de habilidad) debido al principal aumento de la dificultad que se deriva principalmente o únicamente de patrones confusos o sliders irregulares. Asimismo, esto significa que no son muy populares para ganar grandes cantidades de [pp](/wiki/Performance_points) a la vez debido a la forma en que funciona el sistema actual y cómo infravalora los beatmaps de esta naturaleza.
+Independientemente de la definición, muchos jugadores afirman que los mapas técnicos son injustos (en términos de habilidad) debido al principal aumento de la dificultad que se deriva principalmente o únicamente de patrones confusos o sliders irregulares. Asimismo, esto significa que no son muy populares para ganar grandes cantidades de [pp](/wiki/Performance_points) a la vez debido a la forma en que funciona el sistema actual y cómo infravalora los beatmaps de esta naturaleza.
 
 ## Definiciones
 
-Debido a la naturaleza amplia del término «tech map», existen muchos aspectos diferentes que podrían describirlo. Las listas siguientes describen diferentes definiciones de «tipos» populares de jugadores.
+Debido a la naturaleza amplia del término «mapa técnico», existen muchos aspectos diferentes que podrían describirlo. Las listas siguientes describen diferentes definiciones de «tipos» populares de jugadores.
 
 ### Definición más amplia
 
 *Aviso: La definición «más amplia» solo requiere que uno o dos de los aspectos enumerados estén presentes para poder definir un beatmap como técnico.*
 
-- Patrones no genéricos o difíciles de leer (se muestra un ejemplo a continuación)
+- Patrones no genéricos o difíciles de leer (ejemplo mostrado a continuación)
   - Un «flow» difícil para el beatmap
 - Sliders SV
   - Estos pueden contener slider art
 - Formas irregulares de sliders
 - Cambios rápidos y bruscos en la velocidad del slider
 - Alta intensidad general
-  - Extremadamente denso en el recuento de objetos en gran parte del mapa (excluyendo [streams](/wiki/Beatmap/Pattern/osu!/Stream))
+  - Extremadamente denso en el número de objetos en gran parte del mapa (excluyendo [streams](/wiki/Beatmap/Pattern/osu!/Stream))
 
 ![Patrón de un beatmap no genérico (Nhelv)](img/nongeneric_beatmap_pattern-ES.jpg "Patrón de un beatmap no genérico")
 
@@ -51,7 +51,7 @@ Buenos ejemplos de mapas técnicos que se ajustan a esta definición son [Silent
 - Formas irregulares de sliders
 - Cambios rápidos y bruscos en la velocidad del slider
 - Sliders SV
-- Patrones difíciles de leer (a menudo descritos como de «flow» difícil) (se muestra un ejemplo a continuación)
+- Patrones difíciles de leer (a menudo descritos como de «flow» difícil) (ejemplo mostrado a continuación)
 
 ![Patrón difícil de leer (Camelia)](img/difficult_to_read_beatmap-ES.jpg "Patrón difícil de leer")
 
