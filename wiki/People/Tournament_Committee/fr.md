@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Comité des tournois
 
 Le **comité des tournois** est un groupe d'organisateurs et d'assistants compétents et expérimentés dans le domaine des tournois.
