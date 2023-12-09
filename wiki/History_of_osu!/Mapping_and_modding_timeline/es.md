@@ -72,8 +72,8 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Julio
 
-- **24/7/2010:** Se lanzó la primera iteración del [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#programas-de-mentoría-anteriores).
-  - Los usuarios podían postularse para aprender sobre el mapping y el modding directamente de los miembros voluntarios del MAT y el BAT.
+- **24/7/2010:** Se lanzó la primera iteración del [Programa de tutoría comunitaria](/wiki/Community/Community_Mentorship_Program#programas-de-mentoría-anteriores).
+  - Los usuarios podían postularse para aprender sobre el mapeo y el modeo directamente de los miembros voluntarios del MAT y el BAT.
   - El programa se suspendió en 2013.
 
 ### Agosto
