@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yuzu's New Look Contest"
+title: Yuzu's New Look Contest
 date: 2017-08-21 09:00:00 +0000
 ---
 

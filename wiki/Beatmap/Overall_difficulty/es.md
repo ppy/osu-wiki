@@ -23,7 +23,7 @@ Ten en cuenta que en la versión estable de osu!, las ventanas de golpeo en osu!
 
 Por ejemplo, la ventana de golpeo de un Great en osu!taiko en OD 5 es de ±34.5 ms, en lugar de los ±35 ms que da la tabla. En osu!mania, la ventana de golpeo de un MAX es de ±16.5 ms, no de ±16 ms como sugiere la tabla.
 
-Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#información-del-mapa), que siempre mostrará los valores correctos.
+Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre la [información del beatmap en el selector de canciones](/wiki/Client/Interface#información-del-beatmap), que siempre mostrará los valores correctos.
 
 ### osu!
 
@@ -39,7 +39,7 @@ Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre l
 
 | Puntuación | Ventana de golpeo (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, de lo contrario `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, de lo contrario `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` si OD < 5, `80 + (50 - 80) * (OD - 5) / 5` si OD > 5, de lo contrario `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` si OD < 5, `95 + (70 - 95) * (OD - 5) / 5` si OD > 5, de lo contrario `95` |
 

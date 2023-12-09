@@ -8,7 +8,7 @@ tags:
 
 ![BQT6 logo](img/logo.png)
 
-The **BubblyQT 6** (***BQT6***) is an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). It is the sixth installment of the BQT tournament series.
+The **BubblyQT 6** (***BQT6***) was an international team-based double-elimination 2v2 osu! tournament hosted by ::{ flag=US }:: [BubblyQT](https://osu.ppy.sh/users/13414666). It was the sixth installment of the BQT tournament series.
 
 ## Tournament schedule
 
@@ -100,6 +100,16 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
 | **little batos** | ::{ flag=BR }:: **[Nashik](https://osu.ppy.sh/users/12996332)**, ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=CL }:: [Neicho](https://osu.ppy.sh/users/18075313), ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831) |
 | **ronos inc.** | ::{ flag=BR }:: **[Doczera-](https://osu.ppy.sh/users/8155626)**, ::{ flag=BR }:: [minimundos](https://osu.ppy.sh/users/16768757), ::{ flag=US }:: [ShorkBork](https://osu.ppy.sh/users/9364519), ::{ flag=BR }:: [AriMaki](https://osu.ppy.sh/users/2129975), ::{ flag=BR }:: [Mestre](https://osu.ppy.sh/users/11227346) |
 | **Pls Enjoy Game** | ::{ flag=GB }:: **[Velyro](https://osu.ppy.sh/users/16765307)**, ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=NZ }:: [Decayed](https://osu.ppy.sh/users/18821604), ::{ flag=KR }:: [Hoper22](https://osu.ppy.sh/users/16193374), ::{ flag=NZ }:: [Pegwin](https://osu.ppy.sh/users/19990127) |
+
+## Podium
+
+This competition has ended and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5 Tonatious' on Bonk** (::{ flag=TR }:: **[Sinyan](https://osu.ppy.sh/users/14806612)**, ::{ flag=US }:: [Takasaki Yu](https://osu.ppy.sh/users/15984499), ::{ flag=CA }:: [Jolly Ranchers](https://osu.ppy.sh/users/20087811), ::{ flag=US }:: [Tonatious](https://osu.ppy.sh/users/10287120), ::{ flag=NL }:: [UC2](https://osu.ppy.sh/users/6989615)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **dilf cup 2** (::{ flag=AU }:: **[AhFungus](https://osu.ppy.sh/users/12404726)**, ::{ flag=AU }:: [Supernye](https://osu.ppy.sh/users/16197865), ::{ flag=NZ }:: [dasher1505](https://osu.ppy.sh/users/23738997), ::{ flag=AU }:: [dabortion](https://osu.ppy.sh/users/14607172)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **abbeychan fanclub** (::{ flag=CA }:: **[Reclusive](https://osu.ppy.sh/users/14723002)**, ::{ flag=UA }:: [yakotenok](https://osu.ppy.sh/users/27234119), ::{ flag=KG }:: [ded24lol](https://osu.ppy.sh/users/14795251), ::{ flag=HK }:: [AbbeyChan6203](https://osu.ppy.sh/users/20971891)) |
 
 ## Mappools
 
@@ -299,6 +309,20 @@ The **BubblyQT 6** (***BQT6***) is an international team-based double-eliminatio
   2. [Kijibato - w/WWW feat. Hoshimiya Toto (Elcheer) \[Hard\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2855311)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 November 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| abbeychan fanclub | 2 | **7** | **dilf cup 2** | [#1](https://osu.ppy.sh/community/matches/111256110) |
+
+Monday, 13 November 2023:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **5 Tonatious' on Bonk** | **7** | 6 | dilf cup 2 | [#1](https://osu.ppy.sh/community/matches/111283137) |
 
 ### Finals
 

@@ -17,7 +17,7 @@ La **difficoltà generale** (***OD per Overall Difficulty***) definisce quanto �
 Valori più alti di OD risultano in finestre di tempo più brevi per colpire le [note](/wiki/Gameplay/Hit_object), sia in generale che per ottenere [punteggi](/wiki/Gameplay/Score) elevati. L'errore massimo consentito per ogni oggetto da colpire in [osu!](/wiki/Game_mode/osu!) e [osu!mania](/wiki/Game_mode/osu!mania), centrato sul tempo corretto della nota, è definito dalle tabelle qui sotto.
 
 Da notare che nella versione stabile di osu!, le finestre di colpo in osu! e [osu!taiko](/wiki/Game_mode/osu!taiko) possono effettivamente essere fino a 0.5 ms più corte su entrambi i lati rispetto a quanto suggerito dalle formule, mentre in osu!mania fino a 0,5 ms più lunghe su entrambi i lati. Questo perché in osu! e osu!taiko, un colpo è considerato all'interno di una finestra di colpo se `hit error < round(hit window)`, mentre in osu!mania se `hit error <= round(hit window)`.[^judgement-rounding-ref]
- 
+
 Per esempio, la finestra di colpo di un Great in osu!taiko con OD 5 è ±34.5 ms, invece dei ±35 ms dati dalla tabella. In osu!mania, la finestra di colpo di un MAX è ±16.5 ms, non ±16 ms come suggerito dalla tabella.
 
 Le finestre di colpo per i giudizi possono essere visualizzate passando col mouse sulle [informazioni della beatmap nella selezione dei brani](/wiki/Client/Interface#beatmap-information), le quali mostreranno sempre i valori corretti.
@@ -36,7 +36,7 @@ Le finestre di colpo per i giudizi possono essere visualizzate passando col mous
 
 | Punteggio | Finestra di colpo (ms) |
 | --: | :-- |
-| Great |  `35 - (35 - 50) * (5 - OD) / 5` se OD < 5, `35 + (20 - 35) * (OD - 5) / 5` se OD > 5, altrimenti `35` |
+| Great | `35 - (35 - 50) * (5 - OD) / 5` se OD < 5, `35 + (20 - 35) * (OD - 5) / 5` se OD > 5, altrimenti `35` |
 | Ok | `80 - (80 - 120) * (5 - OD) / 5` se OD < 5, `80 + (50 - 80) * (OD - 5) / 5` se OD > 5, altrimenti `80` |
 | Miss | `95 - (95 - 135) * (5 - OD) / 5` se OD < 5, `95 + (70 - 95) * (OD - 5) / 5` se OD > 5, altrimenti `95` |
 

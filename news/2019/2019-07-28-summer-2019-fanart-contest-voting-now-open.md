@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2019 Fanart Contest Voting Now Open!"
+title: Summer 2019 Fanart Contest Voting Now Open!
 date: 2019-07-28 14:00:00 +0000
 ---
 
