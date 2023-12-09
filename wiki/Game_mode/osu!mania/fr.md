@@ -1,3 +1,8 @@
+---
+outdated_since: 9fe0e410e3ffd72e438c647c06e7ac1f606896a8
+outdated_translation: true
+---
+
 # osu!mania (mode de jeu)
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Interface d'osu!mania")
