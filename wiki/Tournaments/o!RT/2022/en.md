@@ -473,7 +473,7 @@ Tuesday, July 26, 2022:
 ### Qualifiers
 
 1. The qualifiers will determine the participants and the seeding order for the knockout stage.
-2. Each player will play in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to pe scheduled on other days of the week, but not later than Monday, July 18 2022, 20:00 UTC+3.
+2. Each player will play in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to be scheduled on other days of the week, but not later than Monday, July 18 2022, 20:00 UTC+3.
 3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
 4. The results will be sorted by **total rank**, which is the sum of a player's placings by score when compared to other players on every map in the pool. The lower the total rank, the higher placing in the qualifiers ranking. In case of a tie between multiple players on total rank, normalised average score will be used as a tiebreaker.
 
