@@ -23,7 +23,7 @@ Selanjutnya, tambahkan baris berikut ke file `drawings.txt`:
 
 ```
 AU : Australia : AUS
-```  
+```
 
 Layar pengundian sekarang siap untuk dipratinjau. Pemahaman mengenai bagaimana tampilan layar pengundian beserta fungsi-fungsinya menjadi poin penting sebelum mulai memodifikasi masing-masing file ini lebih lanjut.
 

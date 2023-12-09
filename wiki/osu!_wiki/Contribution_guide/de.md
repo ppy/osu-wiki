@@ -18,13 +18,10 @@ Die Artikel des osu!-Wikis werden auf [GitHub][osu_wiki] gespeichert. Um etwas b
 
 0. [Erstelle](https://github.com/signup) einen Account auf GitHub.
 1. Öffne das Repository [`ppy/osu-wiki`][osu_wiki] und klicke auf `Fork` in der rechten oberen Ecke, um eine isolierte Kopie des Wikis anzulegen. Um zur Verzweigung (Fork) zurückzugelangen, gehe auf [`ppy/osu-wiki`][osu_wiki] und drücke erneut auf `Fork`.
-
-  - Wenn du eine Verzweigung vor einiger Zeit erstellt hast, synchronisiere sie gemäß [Bewährte Methoden § Die Verzweigung synchronisieren](/wiki/osu!_wiki/Contribution_guide/Best_practices#die-verzweigung-synchronisieren).
-
+   - Wenn du eine Verzweigung vor einiger Zeit erstellt hast, synchronisiere sie gemäß [Bewährte Methoden § Die Verzweigung synchronisieren](/wiki/osu!_wiki/Contribution_guide/Best_practices#die-verzweigung-synchronisieren).
 2. Lies [Bewährte Methoden § Änderungen vornehmen](/wiki/osu!_wiki/Contribution_guide/Best_practices#änderungen-vornehmen) und führe benötigte Änderungen durch. Du bist zwar frei in der Wahl einer Anwendung, aber das osu!-Wiki hat detaillierte Anleitungen für zwei Arbeitsweisen:
-
-  - [GitHubs webbasierter Editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, keine Installation erforderlich).
-  - [GitHub-Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, bietet mehr Kontrolle).
+   - [GitHubs webbasierter Editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, keine Installation erforderlich).
+   - [GitHub-Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, bietet mehr Kontrolle).
 
 ## Selbstüberprüfung {id=self-check}
 

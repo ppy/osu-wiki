@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "osu! Beatmapping World Championship 2020 Concludes!"
+title: osu! Beatmapping World Championship 2020 Concludes!
 date: 2020-10-22 17:50:00 +0000
 ---
 
-After 5 months of intense competition among a total of 32 teams enlisted in this contest, the results are finally out! 
+After 5 months of intense competition among a total of 32 teams enlisted in this contest, the results are finally out!
 
 ![](/wiki/shared/news/banners/bwc2020.jpg)
 
-We're extremely happy to announce the conclusion of the 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected: from the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show has never stopped! 
+We're extremely happy to announce the conclusion of the 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected: from the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show has never stopped!
 
-If you wish to get a full rundown of the whole tournament brackets or take a look at the entries, all of those are available on [**our website**](https://obwc.net/). 
+If you wish to get a full rundown of the whole tournament brackets or take a look at the entries, all of those are available on [**our website**](https://obwc.net/).
 
 Take a look at the VOD of the finals right below!
 
@@ -28,11 +28,11 @@ Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/be
 
 **The underdog Team Argentina makes it second among the sea of big teams!**
 
-Team Argentina took the most surprising route in this championship, eventually managing to eliminate 3 big countries in a row! 
+Team Argentina took the most surprising route in this championship, eventually managing to eliminate 3 big countries in a row!
 
-Their journey started on the ninth place of the Qualifiers leaderboards, immediately matching them with Team China in Round of 16. Surprisingly, the outcome of the match was pretty close for Team Argentina, who scraped past Team China with a score of 3-2! 
+Their journey started on the ninth place of the Qualifiers leaderboards, immediately matching them with Team China in Round of 16. Surprisingly, the outcome of the match was pretty close for Team Argentina, who scraped past Team China with a score of 3-2!
 
-They wanted to show the world that this win against Team China wasn't just a bit of luck, so they performed excellently against the big teams of Team France and Team Brazil, by eliminating them with a 6-1 score, twice in a row! 
+They wanted to show the world that this win against Team China wasn't just a bit of luck, so they performed excellently against the big teams of Team France and Team Brazil, by eliminating them with a 6-1 score, twice in a row!
 
 Unfortunately, their journey came to an end against Team United Kingdom in the Grand Finals by a narrow 3-4 loss, giving the intrepid UK their first close call of the competition in the process.
 
@@ -40,7 +40,7 @@ Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/be
 
 **Team Brazil takes the bronze medal back home!**
 
-After a sudden retirement in 2019, Team Brazil came back in the race with a brand new line-up! 
+After a sudden retirement in 2019, Team Brazil came back in the race with a brand new line-up!
 
 Slow and steady winning the race. This strategy led Brazil to many victories. They started the contest in twelfth place during the Qualifiers, matching them with a fifth place Team Sweden for the Round of 16. They ultimately came out on top with a 3-2 victory, and advanced further on into the tournament.
 
@@ -60,6 +60,6 @@ We are very thankful to **all the contestants**, **[yaspo](https://osu.ppy.sh/us
 
 We sincerely hope that this edition fulfilled your expectations and we'll be back in a few months for the 2021 edition of this contest. Congratulations to all the winners, and enjoy your badges!
 
-See you next time! 
+See you next time!
 
 —Pachiru, Imakuri, Mafumafu, Nozhomi and Chaos

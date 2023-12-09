@@ -101,7 +101,7 @@ osu! a deux styles de spinners, dont un seul peut être utilisé dans un skin en
 
 Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas l'ancien style et prend en charge les versions de skin 2 ou supérieures, ou si le skin par défaut est forcé par la beatmap.
 
-Tous les éléments de chaque set, à l'exception de spinner-osu.png et spinner-rpm.png, sont utilisés pour le gameplay. 
+Tous les éléments de chaque set, à l'exception de spinner-osu.png et spinner-rpm.png, sont utilisés pour le gameplay.
 
 ### Set d'ancien style des spinners
 

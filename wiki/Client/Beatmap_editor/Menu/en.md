@@ -8,7 +8,7 @@
 | :-- | :-- |
 | Clear All Notes (`Ctrl` + `N`) | Remove all hit objects of the difficulty. |
 | Open Difficulty... | **For Editing:** Quickly switch between difficulties. **For Reference:** ([osu!mania](/wiki/Game_mode/osu!mania) only) Overlay the selected difficulty over the currently opened one. |
-| Save (`Ctrl` + `S`) | Save current changes (both [`.osu`](/wiki/Client/File_formats/osu_(file_format)) and [`.osb`](/wiki/Client/File_formats/osb_(file_format)) |
+| Save (`Ctrl` + `S`) | Save current changes (both [`.osu`](/wiki/Client/File_formats/osu_(file_format)) and [`.osb`](/wiki/Client/File_formats/osb_(file_format))) |
 | Create a new Difficulty... | Save the current changes as a new difficulty. The old difficulty is preserved to its last saved state when reloaded. |
 | Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the difficulty and storyboard. |
 | Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the difficulty and storyboard, and reload all files (sprites, sound samples, etc.). |

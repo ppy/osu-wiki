@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 stub: true
 tags:
   - red anchors
@@ -14,4 +13,4 @@ tags:
 
 # Ancla del slider
 
-Las *anclas del slider* o **puntos de anclaje**, cambian la forma de los [sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody). Hay dos tipos diferentes de anclas; anclas blancas y rojas. Las anclas blancas crean curvas suaves y afectarán a otras anclas blancas hasta que el slider termine o se coloque un ancla roja. Las anclas rojas son puntos de parada y se pueden usar para crear ángulos agudos.
+Las *anclas del slider* o **puntos de anclaje**, cambian la forma del [sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody). Hay dos tipos diferentes de anclas; anclas blancas y rojas. Las anclas blancas crean curvas suaves y afectarán a otras anclas blancas hasta que el slider termine o se coloque un ancla roja. Las anclas rojas son puntos de parada y se pueden usar para crear ángulos agudos.

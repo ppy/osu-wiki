@@ -22,7 +22,7 @@ He has also contributed vastly to the catalogue of western music that was ranked
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Garden.jpg)](https://osu.ppy.sh/users/2849992)
 
-Having the highest total number of unique and new mappers nominated throughout the year, [**Garden**](https://osu.ppy.sh/users/2849992) has scored at the very top of the current cohort of Beatmap Nominators! 
+Having the highest total number of unique and new mappers nominated throughout the year, [**Garden**](https://osu.ppy.sh/users/2849992) has scored at the very top of the current cohort of Beatmap Nominators!
 
 Though his overall score may only be half of that of other nominators, the sheer spike in his outreach towards the future of osu!'s mapping scene highlights his direct commitment towards consistently growing the beatmapping scene, often by focusing on complex sets with diverse difficulty spreads notably large in overall drain time, which has long been a format traditionally looked over by many other Beatmap Nominators.
 
@@ -40,13 +40,13 @@ Focused primarily on new and innovative maps in terms of reading, rhythm and mov
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/StarCastler.jpg)](https://osu.ppy.sh/users/12402453)
 
-One of the friendliest faces around in the Beatmap Nominators, [**StarCastler**](https://osu.ppy.sh/users/12402453) blazed through 2021 without a single notable reset! 
+One of the friendliest faces around in the Beatmap Nominators, [**StarCastler**](https://osu.ppy.sh/users/12402453) blazed through 2021 without a single notable reset!
 
 Her consistently high-value nominations were pulled off without a hitch, and her presence in quality assurance has been felt more than most other Beatmap Nominators with significant contributions made especially towards notable resets. She has also been extremely proactive in reviving older mappers’ sets and pushing old-styled maps, all whilst remaining incredibly thorough in her modding and endeavouring to approach issues through the mapper's perspective as much as possible.
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/UberFazz.jpg)](https://osu.ppy.sh/users/8646059)
 
-[**UberFazz**](https://osu.ppy.sh/users/8646059) powered through 2021 consistently pushing a wide variety of maps in large quantities, even whilst balancing the workload of being a member of the Nomination Assessment Team. He has scored amongst the top five Beatmap Nominators overall, making significant contribution to overall resets and tackling many especially large and daunting mapsets. 
+[**UberFazz**](https://osu.ppy.sh/users/8646059) powered through 2021 consistently pushing a wide variety of maps in large quantities, even whilst balancing the workload of being a member of the Nomination Assessment Team. He has scored amongst the top five Beatmap Nominators overall, making significant contribution to overall resets and tackling many especially large and daunting mapsets.
 
 He is also very proactive in pushing interesting sets that would otherwise be left to languish in the graveyard, and is one of the main forces towards bringing more top-end maps into ranked, having nominated the three most difficult maps of 2021 ([Voyage](https://osu.ppy.sh/beatmapsets/1201974), [Deadly force - Put an end](https://osu.ppy.sh/beatmapsets/1390177) and [VVelcome](https://osu.ppy.sh/beatmapsets/1235627)).
 
@@ -80,9 +80,9 @@ From his time as a mentee in the Community Mentorship program, ikin5050 has come
 
 ## osu!catch
 
-[![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Secre.jpg)](https://osu.ppy.sh/users/2306637) 
+[![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Secre.jpg)](https://osu.ppy.sh/users/2306637)
 
-The most active osu!catch Beatmap Nominator of 2021 without contest, [**Secre**](https://osu.ppy.sh/users/2306637) has left a significant mark on the scene with his dedicated drive towards helping many mappers get their works situated in Ranked. 
+The most active osu!catch Beatmap Nominator of 2021 without contest, [**Secre**](https://osu.ppy.sh/users/2306637) has left a significant mark on the scene with his dedicated drive towards helping many mappers get their works situated in Ranked.
 
 His outstanding ambition for checking qualified mapsets has been instrumental in securing the ongoing quality of many osu!catch beatmaps, and his valuable insight and contribution towards osu!catch-specific Ranking Criteria discussions has been a significant boon for all. He has also since joined the Nomination Assessment Team to continue his efforts in their domain.
 
@@ -114,7 +114,7 @@ Without a doubt, \_Stan is a major force in the 7K scene, and things would be ve
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Murumoo.jpg)](https://osu.ppy.sh/users/8001433)
 
-Since the beginning of his nominating career, Murumoo has already proven himself to be one of the most proficient nominators, pushing and delving into a large variety of maps that require considerable time, effort and skill to tackle. Not only that, he has nominated numerous well-received charts, including one of the most popular of the year in *xi-ANiMA*, which went on to achieve rank #2 in the Mapper’s Favourite 2021, as well as *t+pazolite – Tempestissimo* that achieved rank #5 in the Community’s Choice 2021. 
+Since the beginning of his nominating career, Murumoo has already proven himself to be one of the most proficient nominators, pushing and delving into a large variety of maps that require considerable time, effort and skill to tackle. Not only that, he has nominated numerous well-received charts, including one of the most popular of the year in *xi-ANiMA*, which went on to achieve rank #2 in the Mapper’s Favourite 2021, as well as *t+pazolite – Tempestissimo* that achieved rank #5 in the Community’s Choice 2021.
 
 Resolving to prove that you can have both quality and quantity together, he has nominated nearly 60 sets in what is one of the highest quantities seen in 2021 from the osu!mania nominator community, which only becomes even more impressive as one realizes the sheer number of difficulties, keymodes and styles this covers. His entirely extraordinary dedication to his role and overall performance as a Beatmap Nominator more than qualifies him for the title of an Elite.
 

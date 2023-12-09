@@ -1,3 +1,8 @@
+---
+outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
+outdated_translation: true
+---
+
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -773,7 +778,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 ::{ flag=XX }::
 ```
 
-Wobei `XX` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
+Wobei `XX` der [ISO 3166-1 alpha-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 ## Tabellen
 
