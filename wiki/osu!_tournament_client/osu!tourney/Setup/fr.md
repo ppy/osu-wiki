@@ -1,47 +1,47 @@
 ---
-outdated_translation: true
-outdated_since: aeda2ba963a9165ce2614815fff1a948df2b51f6
+no_native_review: true
 ---
 
 # Configuration d'osu!tourney
 
-*Voir également : [osu! tournament client](/wiki/osu!_tournament_client)*\
-*Remarque : Un [supporter tag](/wiki/osu!supporter) actif est requis pour utiliser le client osu!tourney.*
+*Voir également : [client de tournoi d'osu!](/wiki/osu!_tournament_client)*\
+*Note : Un [tag osu!supporter](/wiki/osu!supporter) actif est actuellement requis pour utiliser le client d'osu!tourney.*
 
-Il est recommandé d'utiliser une **nouvelle installation d'osu!**. La base de données Songs peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les alors dans des dossiers séparés.
-Pour ce faire, copiez `osu!.exe` dans un dossier vide et lancez-le. Une nouvelle installation d'osu! sera créée. C'est la seule installation qui sera modifiée.
+Il est recommandé d'utiliser une **installation saine d'osu!**. En effet, la base de données `Songs` peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les simplement dans des dossiers séparés.
 
-Ouvrez osu! et authentifiez-vous, cochez les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`.
+Pour ce faire, copiez `osu!.exe` dans un dossier vide et exécutez-le. Une nouvelle installation d'osu! sera créée. C'est la seule installation qui doit être modifiée à partir d'ici.
 
-Fermez osu! et créez un fichier `tournament.cfg` dans le dossier d'installation. Démarrez osu! encore une fois et le client osu!tourney devrait s'ouvrir.
+Ouvrez osu! et connectez-vous, en cochant les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe`.
 
-Ajoutez les musiques du beatmap pool au dossier `/Songs/` avant de démarrer le client. N'importe quelle beatmap soumise que le client n'a pas sera automatiquement téléchargée.
+Fermez osu! et créez un fichier `tournament.cfg` dans le répertoire d'installation. Lancez à nouveau osu! et le client osu!tourney devrait s'ouvrir.
 
-Après avoir fermé le client, le fichier `tournament.cfg` sera rempli avec les lignes suivantes :
+Ajoutez les musiques de la mappool dans le dossier `Songs` avant de démarrer le client. Toutes les beatmaps envoyées que le client ne possède pas seront automatiquement téléchargées.
+
+A la fermeture du client, le fichier `tournament.cfg` sera complété avec ce qui suit :
 
 ```
 TeamSize = 4
 acronym = OWC
 ```
 
-Ne modifiez pas le fichier `tournament.cfg` quand osu! est ouvert. Fermez osu! puis éditez et ajoutez aux lignes ci-dessus les options suivantes :
+Ne modifiez pas le fichier `tournament.cfg` lorsque osu! est en cours d'exécution. Fermez osu! et modifiez ou ajoutez les lignes ci-dessus comme vous le souhaitez avec les options suivantes :
 
-- `TeamSize` : Le nombre de joueurs par équipe. le client ouvrira 1 à 8 fenêtres par équipe, selon la valeur. La valeur maximum est 8.
-- `ClientNameSize` : La taille des noms des joueurs.
+- `TeamSize` : Le nombre de joueurs par équipe. Le client ouvrira 1 à 8 fenêtres par équipe en fonction de cette valeur. La valeur maximale est de 8 en raison des limites de connexion de [Bancho](/wiki/Bancho_(server)), mais elle peut être temporairement augmentée pour l'utilisateur spectateur en contactant [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- `ClientNameSize` : La taille du nom des joueurs.
 - `privateserver` : Ne touchez pas à cela.
-- `acronym` : Une abréviation pour le tournoi. Cela affecte le nom de la salle du tournoi, vérifiez l'[utilisation d'osu!tourney en multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) pour plus d'informations.
-- `BufferTimeoutTime` : Temps pendant lequel le client attendra qu'un joueur soit mis en buffer avant de continuer à jouer sans lui.
-  - Il est recommandé de ne pas changer cela.
-- `BufferTotalTime` : Le temps que le client accumule pour réduire la fréquence des pauses pour attendre le buffer. Cela introduit un délai entre le client et les joueurs.
-  - Il est recommandé de ne pas changer cela.
-- `BufferDangerTime` : Le temps restant dans le buffer du replay avant que le client ne fasse une pause pour attendre plus de frames.
-  - Il est recommandé de ne pas changer cela.
-- `RankingChatDelay` : Délai (en millisecondes) avant que le score ne cache et montre le tchat dans l'écran de classement.
-- `Height` : Hauteur de la zone streamable du client.
-  - Le client calculera la largeur automatiquement avec le ratio 16:9.
-  - La "zone streamable" du client n'inclut pas le panneau de contrôle. En général, le panneau de contrôle est plus large de 200 pixels que la hauteur du client, donc, par exemple, un écran de 1440p serait propre pour streamer un tournoi en 1080p.
-  - Défaut : 720, pouvant aller de 568 à 2160
-- `Aspect` : Le rapport d'aspect des affichages du terrain de jeu.
+- `acronym` : Une abréviation pour le tournoi. Cela affecte le nom requis pour les salles de tournoi, consultez le [guide d'utilisation multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) pour plus d'informations.
+- `BufferTimeoutTime` : Durée pendant laquelle le client attendra qu'un joueur se mette en attente avant de continuer à jouer sans lui.
+  - Il n'est pas recommandé de le modifier.
+- `BufferTotalTime` : Durée pendant laquelle le client met en attente afin de réduire la fréquence des pauses pour attendre sa mise en attente. Cela produit un délai entre le client et les joueurs.
+  - Il n'est pas recommandé de le modifier.
+- `BufferDangerTime` : Durée restante dans la mémoire tampon du replay avant que le client ne se mette en pause pour attendre d'autres images de replay.
+  - Il n'est pas recommandé de le modifier.
+- `RankingChatDelay` : Délai (en millisecondes) avant que les scores ne cachent et n'affichent à nouveau le tchat sur l'écran de classement.
+- `Height` : Hauteur de la zone de streaming du client.
+  - Le client calculera automatiquement la largeur dans un rapport d'aspect 16:9.
+  - La "zone de streaming" du client n'inclut pas le panneau de contrôle. En général, le panneau de contrôle est 200 px plus grand que la hauteur du client, de sorte que, par exemple, un écran 1440p serait sûr pour streamer un tournoi 1080p.
+  - Valeur par défaut : 720, plage autorisée : 568-2160
+- `Aspect` : Le rapport d'aspect des écrans du terrain de jeu.
   - Notez que cela ne s'applique qu'aux dispositions 2v2.
-  - Une valeur de 1.5 est optimale pour osu!taiko.
+  - Une valeur de 1,5 est optimale pour osu!taiko.
   - Valeur par défaut : 2, plage autorisée : 1-2
