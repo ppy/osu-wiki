@@ -42,7 +42,7 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 | Host | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
 | Mappool selector | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233) |
 | Mappool playtester | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) |
-| Mapper | ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802)  |
+| Mapper | ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) |
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=UK }:: [Roebuck554](https://osu.ppy.sh/users/15904004) |
 | Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Smol Ina](https://osu.ppy.sh/users/18789828), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [AndoryuRO](https://osu.ppy.sh/users/18631525), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
 | Graphics designer | ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=SE }:: [Velle](https://osu.ppy.sh/users/12849926), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=HU }:: [Indicolite](https://osu.ppy.sh/users/19309181) |
@@ -446,7 +446,7 @@ Monday, July 24, 2023:
 ### General rules
 
 1. This is a 1v1 tournament featuring a knockout double-elimination format, with a preceding qualifier stage.
-2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2), with [NoFail](wiki/en/Gameplay/Game_modifier/No_Fail) enforced on all maps.
+2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2), with [NoFail](/wiki/Gameplay/Game_modifier/No_Fail) enforced on all maps.
 3. It is required to be part of the tournament Discord server.
 4. It is expected from the players to be respectful to other competitors, to staff members, and overall to follow the [osu! community rules](/wiki/Rules). Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
 
