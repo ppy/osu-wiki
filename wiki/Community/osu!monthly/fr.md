@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!monthly
 
 **osu!monthly** était une newsletter mensuelle contenant une variété de contenus écrits, y compris des interviews, des éditos, une couverture des news officielles et de la communauté, et des jeux de mots. Le projet a été interrompu puis relancé à plusieurs reprises sous différentes formes, mais toutes avaient pour objectif commun d'informer et de divertir la communauté d'osu!.
