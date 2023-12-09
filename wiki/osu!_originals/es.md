@@ -173,7 +173,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Kommisar - AKARI BEAM CANNON LAST BOSS](https://soundcloud.com/kommisar/osu-world-cup-2023-grand-finals-fm2-akari-beam-cannon-last-boss)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095159) | Gran final FM2 |
 | Lime - Pixel Planet[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095123) | Gran final NM2 |
 | [litmus\* vs Ester - Requiem for the Aura](https://soundcloud.com/litmus_star/requiem-for-the-aura-litmus-vs-ester)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095119) | Gran final HD3 |
-| LV.4 - Burning Star[^fa] | [#1](LV.4 - Burning Star) | Gran final HR3 |
+| LV.4 - Burning Star[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095154) | Gran final HR3 |
 | [MYUKKE. - Mach Roger](https://soundcloud.com/myukke/mach-roger-from-osu-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | Cuartos de final NM4 |
 | [orangentle / Yu_Asahina - OEFHEBEN](https://www.youtube.com/watch?v=yYcLNJ62-WI)[^fa] | [#1](https://www.youtube.com/watch?v=yYcLNJ62-WI) | Final NM2 |
 | polysha - Endverse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2088576) | Desempate de las semifinales |
