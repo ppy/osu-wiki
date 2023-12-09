@@ -66,25 +66,28 @@ Zwar ist die Nutzung von Branches eigentlich optional, sie ist allerdings [aus m
 
 1. Gehe zurück zu GitHub-Desktop. Es sollte ungefähr so aussehen:
 
-  ![](img/github-desktop-changes.jpg "Deine Ansicht kann variieren.")
+   ![](img/github-desktop-changes.jpg "Deine Ansicht kann variieren.")
 
 2. Standardmäßig wird GitHub-Desktop automatisch alle deine Änderungen selektieren.
+
 3. Es ist am besten jede "große" Aktion als einzelnen Commit zu unterteilen.
 
-Wie zum Beispiel oben zu sehen hat [pippi](/wiki/Mascots#pippi) eine Bilddatei hinzugefügt, die Datei `en.md` modifiziert, um einen Titel und einen Link zum Bild zu integrieren, und die Übersetzungen auf nicht mehr aktuell gesetzt. Daraus ergeben sich zwei Commits, den ersten für die Änderungen in der Datei `en.md` und den zweiten zum Kennzeichen der Übersetzungen als nicht mehr aktuell.
+   Wie zum Beispiel oben zu sehen hat [pippi](/wiki/Mascots#pippi) eine Bilddatei hinzugefügt, die Datei `en.md` modifiziert, um einen Titel und einen Link zum Bild zu integrieren, und die Übersetzungen auf nicht mehr aktuell gesetzt. Daraus ergeben sich zwei Commits, den ersten für die Änderungen in der Datei `en.md` und den zweiten zum Kennzeichen der Übersetzungen als nicht mehr aktuell.
 
 4. Wähle die Dateien aus, die zur Versionshistorie hinzugefügt werden sollen.
+
 5. Lege die Zusammenfassung des Commits fest. Diese hat ein Limit von 72 Zeichen und **muss in Englisch sein**.
+
 6. Gib die Beschreibung ein. Sie ist optional, hat keine Zeichenbegrenzung und darf in jeder Sprache sein.
 
-  ![](img/github-desktop-first-commit.jpg "Erster Commit")
+   ![](img/github-desktop-first-commit.jpg "Erster Commit")
 
 7. Klicke auf den blauen Button `Commit to` und starte wieder von Schritt 4, um die anderen Commits zu erstellen, sofern noch Änderungen abgespeichert werden müssen.
 
-  ![](img/github-desktop-second-commit.jpg "Zweiter Commit")
+   ![](img/github-desktop-second-commit.jpg "Zweiter Commit")
 
 8. Klicke auf den Button `Publish branch` am oberen Rand, sobald alles in die Versionshistorie aufgenommen wurde.
 
-  ![](img/github-desktop-push.jpg)
+   ![](img/github-desktop-push.jpg)
 
 9. Mache weiter mit der [Überprüfung](/wiki/osu!_wiki/Contribution_guide#review) für den letzten Schritt im Bezug auf deine Änderungsanfrage und die Änderungen.
