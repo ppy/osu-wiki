@@ -1,3 +1,8 @@
+---
+outdated_since: 9fe0e410e3ffd72e438c647c06e7ac1f606896a8
+outdated_translation: true
+---
+
 # osu!mania
 
 ![osu!mania 游玩](/wiki/shared/mania-gameplay.jpg "osu!mania 的界面")
