@@ -1,8 +1,3 @@
----
-outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
-outdated_translation: true
----
-
 # Medallas
 
 Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **314** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
@@ -17,7 +12,7 @@ Sin embargo, vale la pena señalar que el contenido de todos los paquetes de vid
 
 ## Skill
 
-Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados), dentro de ciertos rangos de [calificación por estrellas](/wiki/Beatmap/Star_rating).
+Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -25,9 +20,9 @@ Las **medallas Dedication** son medallas otorgadas al alcanzar ciertos objetivos
 
 ## Mod Introduction
 
-*Véase también: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Véase también: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
-Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados) con su correspondiente [modificador de juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Tenga en cuenta, sin embargo, que si los jugadores juegan con múltiples modificadores de juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador de juego para esa jugada.
+Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved) con su correspondiente [modificador del juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Sin embargo, ten en en cuenta que si los jugadores juegan con múltiples modificadores del juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador del juego para esa jugada.
 
 Todas las medallas de introducción a mods se pueden desbloquear en cualquier [modo de juego](/wiki/Game_mode), a menos que se especifique lo contrario.
 
@@ -37,9 +32,11 @@ Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar haza
 
 - Los nombres de las medallas en sí,
 - Las breves descripciones de las medallas, y
-- Los *flair texts* de las medallas (si las hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
+- Los *flair texts* de las medallas (si los hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
 
 Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+También hay una subcategoría llamada «Hush-Hush (Expert)». La diferencia es que las medallas que contiene no permiten el uso de ningún mod de [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o [especial](/wiki/Gameplay/Game_modifier#especiales).
 
 ## Beatmap Spotlights
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! community contributors"
+title: osu! community contributors
 date: 2013-08-08 09:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/59476410622/osu-community-contributors
 ---

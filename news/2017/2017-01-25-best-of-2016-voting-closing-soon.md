@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best of 2016 Voting Closing Soon"
+title: Best of 2016 Voting Closing Soon
 date: 2017-01-25 06:40:55 +0000
 tumblr_url: http://osunews.tumblr.com/post/156345021253/best-of-2016-voting-closing-soon
 ---

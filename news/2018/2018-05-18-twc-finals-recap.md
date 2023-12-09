@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Finals Recap!"
+title: osu!taiko World Cup - Finals Recap!
 date: 2018-05-18 05:00:00 +0000
 ---
 
@@ -57,13 +57,13 @@ We might have talked Taiwan up a lot in this recap, but we really can't refute t
 Well done, and well earned!
 
 We also saw some mid-seeded teams really step up this year. Hong Kong taking Canada to tiebreaker, Spain reaching top 8 and South Korea reaching top 6 appear to be signs of the skill gap between teams evening out, so let's hope this trend continues in future cups!
- 
+
 [You can also watch the entire Grand Finals segment over on the official osu! YouTube channel if you missed it!](https://youtu.be/1m3A_Fh6gSk), or check out [osulive on Twitch](https://www.twitch.tv/osulive) for VODs of the past matches live, including chat!
 
-For more information surrounding the tournament, you can check out [the wiki page](/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).  
- 
+For more information surrounding the tournament, you can check out [the wiki page](/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).
+
 Now then, it's time to set our sights on the next event, which is the osu!catch World Cup 2018 starting in June. Feel free to hype it up in [the discussion thread](https://osu.ppy.sh/community/forums/topics/739799) while we wait.
- 
+
 Until next year, keep hitting those dons and kats, and we'll see you around!
- 
+
 —Eiuh

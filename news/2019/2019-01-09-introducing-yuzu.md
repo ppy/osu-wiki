@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Yuzu's New Look"
+title: Introducing Yuzu's New Look
 date: 2019-01-10 03:00:00 +0000
 ---
 
@@ -50,7 +50,7 @@ Hmm? Is that someone banging on my door? Oh, welp, guess it's time for me to get
 
 *[Download the full, high quality design documentation here!](https://assets.ppy.sh/media/yuzu/yuzu-hq.pdf)*
 
-Character Design & Illustrations: [Thievley](https://osu.ppy.sh/users/4717672)  
+Character Design & Illustrations: [Thievley](https://osu.ppy.sh/users/4717672)\
 Key Art & Additional Illustrations: [Crowie](https://osu.ppy.sh/users/6894067)
 
 —Yuzu

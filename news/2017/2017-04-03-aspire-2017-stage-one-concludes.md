@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire 2017 Stage One Concludes"
+title: Aspire 2017 Stage One Concludes
 date: 2017-04-03 19:10:27 +0000
 tumblr_url: http://osunews.tumblr.com/post/159160085153/aspire-2017-stage-one-concludes
 ---

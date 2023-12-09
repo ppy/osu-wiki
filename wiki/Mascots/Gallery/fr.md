@@ -95,13 +95,13 @@ Pour voir plus de fanarts de Mocha :
 
 ### Fanarts
 
-Pour voir des fanarts avec des mascottes caméo : 
+Pour voir des fanarts avec des mascottes caméo :
 
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ## Communauté
 
-Pour voir les fanarts avec des mascottes faites par la communauté : 
+Pour voir les fanarts avec des mascottes faites par la communauté :
 
 - [FanArt 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
 - [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)

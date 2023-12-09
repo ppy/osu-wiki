@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
+---
+
 # Persone
 
 Pagina di indice per gli articoli su persone o gruppi.
@@ -28,7 +33,6 @@ Pagina di indice per gli articoli su persone o gruppi.
 - [Team Apprezzamento Beatmap](Beatmap_Appreciation_Team)
 - [Divisione Sorveglianza Linguistica](Language_Surveillance_Division)
 - [Team Assistenza al Mapping](Mapping_Assistance_Team)
-- [Team osu!monthly](osu!monthly_team)
 - [Team Garanzia di qualità](Quality_Assurance_Team)
 
 ## Altri

@@ -1,11 +1,8 @@
----
-outdated_since: 8951e9fef0bc292f2b085b7c3a400db936392e49
-outdated_translation: true
----
-
 # Условия получения медалей
 
-Индексная страница, где перечислены все условия получения медалей. Медали категории Hush-Hush по понятным причинам сюда не входят.
+Индексная страница, где перечислены статьи с условиями получения [медалей](/wiki/Medals).
+
+Условия для медалей категории [Hush-Hush](/wiki/Medals#hush-hush) не перечислены на вики, чтобы помочь сохранить их секретность.
 
 - [Beatmap Challenge Packs](Beatmap_challenge_packs)
 - [Beatmap Packs](Beatmap_packs)

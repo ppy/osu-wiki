@@ -25,7 +25,7 @@ The ranking criteria continues to change, even in 2021. Here, we’ve gathered a
 
 - **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters](https://osu.ppy.sh/community/forums/topics/1188695):** This change didn’t add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 All modes:
 
@@ -69,9 +69,9 @@ Because we covered all the four game modes in the previous issues of the Mappers
 Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month’s picks!
 
 ### VenerableNyanta
- 
+
 With increasingly refined storyboards this year, [VenerableNyanta](https://osu.ppy.sh/users/12243368) has shown their determination for improvement project after project! It's easy to tell they have an eye for design when the visuals fill the screen with nothing but pure eye candy!
- 
+
 Starting off with a brilliant entry to the ranked scene, the storyboard for [ClariS - Kimi no Shiranai Monogatari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1191205#osu/2633220) contains different sections with varying ideas fitting the bright music! Here you can find a blend of immersive backgrounds, visuals on every single note, as well as lots of stars and sparkles, all tied together with tasteful transitions!
 
 What about slower, more... moody songs? Well, they had the right idea when going for [Josh A & Jake Hill - Worst Mistakes (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1312306#osu/2719818), showing contrast between the more neon-coloured, intense section and the black and white quieter parts. The design work demonstrates an ever-improving understanding of what makes a picture look neat while establishing a memorable and unique identity.

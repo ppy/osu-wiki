@@ -14,7 +14,7 @@ Creating or updating translations of group articles involves editing [the articl
 - Global Moderation Team
 - Nomination Assessment Team
 - osu! Alumni
-- Support Team
+- Technical Support Team
 
 Member lists in table bodies (i.e. everything except the first 2 lines of tables) are automatically handled by the program.
 

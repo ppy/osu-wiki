@@ -1,15 +1,15 @@
 ---
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
- - Spielmodifikation
- - Übersicht
+  - mod
+  - game modifier
+  - overview
+  - list of mods
+  - NoMod
+  - No Mod
+  - FreeMod
+  - Free Mod
+  - Spielmodifikation
+  - Übersicht
 ---
 
 <!-- READ BEFORE EDITING:

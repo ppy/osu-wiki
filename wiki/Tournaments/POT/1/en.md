@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
   2. [technoplanet - Juvenile (Astronic) \[Extra\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659369)
   3. [POLKADOT STINGRAY - Telecaster Stripe (moph) \[Extra\]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
   4. [PSYQUI - Be There (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/826236#osu/1731655)
-  5. [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705) 
+  5. [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705)
   6. [OSTER project - Piano x Forte (DeviousPanda) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1296249#osu/2689460)
 - Hidden
   1. [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   2. [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Hard\]](https://osu.ppy.sh/beatmapsets/70057#osu/205455)
   3. [Yooh - snow storm -euphoria- (-Chata-) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/156235#osu/382886)
-  4. [TWICE - YES or YES (Toumei Dragon) \[Taeyang's Insane\]](https://osu.ppy.sh/beatmapsets/927769#osu/1950687) 
+  4. [TWICE - YES or YES (Toumei Dragon) \[Taeyang's Insane\]](https://osu.ppy.sh/beatmapsets/927769#osu/1950687)
 - Tiebreaker
   1. **[FELT - Lies in Reality (captin1) \[Deception\]](https://osu.ppy.sh/beatmapsets/412270#osu/894409)**
 
@@ -115,7 +115,7 @@ This competition has come to an end and resulted in the following podium:
   2. [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/153776#osu/386728)
   3. [Nanahoshi Kangengakudan - Andromeda (Nattu) \[Alpheratz\]](https://osu.ppy.sh/beatmapsets/549919#osu/1164369)
   4. [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (CallieCube) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1197597#osu/2494513)
-  5. [t+pazolite - Tempestissimo (Shrukaghn) \[Extra\]](https://osu.ppy.sh/beatmapsets/1185696#osu/2473039) 
+  5. [t+pazolite - Tempestissimo (Shrukaghn) \[Extra\]](https://osu.ppy.sh/beatmapsets/1185696#osu/2473039)
 - Hidden
   1. [yuikonnu - Souzou Forest (IOException) \[deetz' Extra\]](https://osu.ppy.sh/beatmapsets/1208022#osu/2600667)
   2. [sasakure.UK - Chimera feat. Annabel (PandaHero) \[SMM's Extra\]](https://osu.ppy.sh/beatmapsets/1103928#osu/2445425)
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Memme - BSPower Explosion (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/44967#osu/140821)
   3. [ChouchouP - Tsukimiyo Rabbit (Zero\_\_Wind) \[Insane\]](https://osu.ppy.sh/beatmapsets/122342#osu/313871)
   4. [Feryquitous - Ordirehv (JeZag) \[Asami's Another\]](https://osu.ppy.sh/beatmapsets/935602#osu/2154177)
-  5. [KaratoP feat. Rita - Another Chapter (Underdogs) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/878739#osu/1839211) 
+  5. [KaratoP feat. Rita - Another Chapter (Underdogs) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/878739#osu/1839211)
 - Hidden
   1. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (pkk) \[Kibbleru's Insane\]](https://osu.ppy.sh/beatmapsets/210346#osu/498717)
   2. [Emily Osment - Hero in Me (AJT) \[Silverboxer's Insane\]](https://osu.ppy.sh/beatmapsets/1229079#osu/2644296)
