@@ -2,12 +2,14 @@
 stub: true
 tags:
   - april fools
+  - abril
+  - día de las bromas
   - día de los Inocentes
 ---
 
 # osu!coin
 
-![multiple osu!coins](img/coins2x.png)![a single osu!coin](img/coin2x.png)
+![múltiples osu!coins](img/coins2x.png)![una única osu!coin](img/coin2x.png)
 
 La **osu!coin** era una broma, la moneda del juego se burlaba de otros esquemas de monetización gratuitos. Se introdujo para el día de los Inocentes de 2015 y permitía a los jugadores jugar un solo [beatmap](/wiki/Beatmap) a cambio de una osu!coin.
 
