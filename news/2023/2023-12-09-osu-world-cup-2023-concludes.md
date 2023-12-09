@@ -311,17 +311,17 @@ To get a slightly better understanding for how things went from the perspective 
 
 *Were there any aspirations or goals that you've set for yourself for the World Cup that you are able to look back upon?*
 
-> Ever since I've started playing osu, making the USA world cup team was a huge goal that I've always wanted to achieve. It feels surreal that not only was I able to make the team, but we won. My mindset coming into OWC was not just to win, but feel like I tried my best and be able to look back and be proud of myself.
+> Ever since I started playing osu!, making the World Cup team for USA was a huge goal that I've always wanted to achieve. It feels surreal that not only was I able to make the team, but we won. My mindset coming into OWC was not just to win, but to feel like I tried my best and be able to look back and be proud of myself.
 > 
-> A year ago I would've made my goals more measurable, like top scoring on a map. Of course I still want to get a really cool score on a map, but this experience has taught me that intrinsic values are more important. I'm glad that with this OWC I was able to enjoy the experience that myself, teammates, and staff members created and I appreciate the opportunity to compete.
+> A year ago, I would've made my goals more measurable, like top scoring on a map. Of course, I still want to get really cool scores on maps, but this experience has taught me that intrinsic values are more important. I'm glad that with this OWC, I was able to enjoy the experience that myself, teammates, and staff members created, and I appreciate the opportunity to compete.
 
 *This year has had very volatile moments for the United States. Would you mind sharing what has been going on in your minds?*
 
-> I'll admit, losing to Canada in Quarterfinals was very scary to me. When you are put on the USA OWC team the community sets the biggest expectations on you, so when you don't fulfill them, you no longer feel confident about yourself. That week after the match was definitely the most demotivated I've been playing osu in a long time. Although the loss was a bit disappointing to me and our teammates, we were able get our head back in the game and take the crown.
+> I'll admit, losing to Canada in Quarterfinals was very scary to me. When you are put on the USA OWC team, the community sets the biggest expectations on you, so when you don't fulfill them, you no longer feel confident about yourself. The week after that match was definitely the most demotivated I've been playing osu! in a long time. Although the loss was a bit disappointing to me and our teammates, we were able get our head back in the game and take the crown.
 
 *Do you have thoughts about the community reaction for your victory?*
 
-> Most of the osu! community doesn't realize that the USA roster has been changing so much every year. As a rookie this year, it is a bit discouraging when people don't want you to win because of the precedent that the USA has set for themselves. BUT HATERS GONNA HATE
+> As many people know, the USA roster has been changing so much every year. As a rookie this year, it is a bit discouraging when people don't want you to win due to the precedent that the USA has set for themselves. But, I wouldn't let that stop me from doing my best and helping to carry the torch for another year.
 
 ::{#doomsday}::
 
