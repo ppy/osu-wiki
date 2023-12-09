@@ -76,7 +76,7 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 
 ### Julio
 
-- **24/7/2010:** Se lanzó la primera iteración del [Programa de tutoría comunitaria](/wiki/Community/Community_Mentorship_Program#earlier-mentoring-programs).
+- **24/7/2010:** Se lanzó la primera iteración del [Programa de tutoría comunitaria](/wiki/Community/Community_Mentorship_Program#programas-de-mentoría-anteriores).
   - Los usuarios podían postularse para aprender sobre el mapeo y el modeo directamente de los miembros voluntarios del MAT y el BAT.
   - El programa se suspendió en 2013.
 
