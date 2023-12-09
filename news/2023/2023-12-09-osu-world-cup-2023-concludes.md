@@ -85,7 +85,7 @@ What? You want to know *every single detail*? In that case, see the [wiki articl
 
 ## Showmatches
 
-Each rendition of the osu! World Cup in the last few years has boasted exciting "non-canon" showmatches outside the main schedule. During the later stages, these matches were played in order to show off maps from mappool that might otherwise not have been played in real matches.
+Each rendition of the osu! World Cup in the last few years has boasted exciting "non-canon" showmatches outside the main schedule. During the later stages, these matches were played in order to show off maps from the mappools that might otherwise not have been played in real matches.
 
 ### SHIP IT vs. steamhappy (Semifinals)
 
@@ -399,7 +399,7 @@ As you can tell by glancing below, he had a whole lot to say, but we unfortunate
 It wouldn't be a World Cup without some new records, world firsts and interesting stats overall. [shdewz](https://osu.ppy.sh/users/10000899), one of our World Cup statisticians, has compiled stats for every single stage of this year's cup and put them all into fancy spreadsheets of their design (and yes there is such a thing as spreadsheet design). While you can check out the full spreadsheets with [general information](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E/pubhtml) and [individual stage stats](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U), here is an excerpt of some of the more interesting tidbits:
 
 - The OWC pp record was shattered three different times, first with [maliszewski](https://osu.ppy.sh/users/12408961)'s HDHR FC on [FM3](https://osu.ppy.sh/beatmapsets/1964101#osu/4319264) during the [Round of 16 match vs. Brazil](https://osu.ppy.sh/community/matches/111188366) with 717 pp, then [worst hr player](https://osu.ppy.sh/users/14106450)'s [HR3](https://osu.ppy.sh/beatmapsets/292301#osu/658127) FC during the [Semifinals match vs. the Philippines](https://osu.ppy.sh/community/matches/111366414) worth 754 pp, and finally the new OWC performance point record is now being held by [Rektygon](https://osu.ppy.sh/users/7813296) with their [DT2](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687) FC during the [Finals match vs. Germany](https://osu.ppy.sh/community/matches/111466879) worth 763 pp.
-- The biggest upset of the tournament (according to [hallowatcher's pick'ems results](https://i.imgur.com/PZyizh8.png)) was the [Australia vs. Poland match](https://osu.ppy.sh/community/matches/111271525) that took place in Quarterfinals. With 1340 votes, only 5.8% of voters guessed that Australia will win the match.
+- The biggest upset of the tournament (according to [hallowatcher's pick'ems results](https://i.imgur.com/PZyizh8.png)) was the [Australia vs. Poland match](https://osu.ppy.sh/community/matches/111271525) that took place in Quarterfinals. With 1340 votes, only 5.8% of voters guessed that Australia would win the match.
 - Kazakhstan successfully qualified for the first time ever, and even though they got kicked out by Japan during the Round of 16, they had an impressive showing.
 - There were 6 countries that participated in the osu! World Cup for the first time ever: India, Mongolia, Panama, Saudi Arabia, South Africa and the United Arab Emirates.
 
