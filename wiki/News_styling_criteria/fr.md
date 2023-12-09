@@ -82,12 +82,12 @@ Contenu
 L'utilisation de Markdown est couverte par les [critères de style des articles](/wiki/Article_styling_criteria), mais les points suivants concernent spécifiquement les articles de news :
 
 - Le niveau de rubrique 1 (`#`), correspondant à un titre, ne doit pas être utilisé, car le titre est fourni par la page de garde en tête de l'article.
-- Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#footnotes) ne sont pas pris en charge.
+- Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#notes-de-bas-de-page) ne sont pas pris en charge.
 - [L'image de la bannière](#bannières) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
 
 #### Images
 
-*Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
+*Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-et-qualité)*
 
 ILes images associées aux articles doivent être hébergées sur les serveurs d'osu! (par exemple `assets.ppy.sh`) ou être placées dans le dépôt GitHub `osu-wiki`.
 
