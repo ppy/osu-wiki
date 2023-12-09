@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Responsables de la QAT
 
 Suite au départ de [Loctav](https://osu.ppy.sh/users/71366) de la direction d'osu! à la fin de l'année 2017, la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) a élu **le responsable de la QAT** pour prendre le contrôle du groupe. Cette décision a été prise parce que les membres de la QAT estimaient que Loctav et [Ephemeral](https://osu.ppy.sh/users/102335) avaient trop de contrôle sur le groupe, et que la QAT serait mieux dirigée par ses propres membres.
