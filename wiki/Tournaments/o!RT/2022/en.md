@@ -458,7 +458,7 @@ Tuesday, July 26, 2022:
 ### General rules
 
 1. This is a 1v1 tournament featuring a knockout double-elimination format, with a preceding qualifier stage.
-2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2), with [NoFail](/wiki/en/Gameplay/Game_modifier/No_Fail) enforced on all maps.
+2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2), with [NoFail](/wiki/Gameplay/Game_modifier/No_Fail) enforced on all maps.
 3. It is required to be part of the tournament Discord server.
 4. It is expected from the players to be respectful to other competitors, to staff members, and overall to follow the [osu! community rules](/wiki/Rules). Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
 
