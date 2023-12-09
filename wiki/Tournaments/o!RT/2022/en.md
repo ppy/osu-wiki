@@ -458,7 +458,7 @@ Tuesday, July 26, 2022:
 ### General rules
 
 1. This is a 1v1 tournament featuring a knockout double-elimination format, with a preceding qualifier stage.
-2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2).
+2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2), with [NoFail](wiki/en/Gameplay/Game_modifier/No_Fail) enforced on all maps.
 3. It is required to be part of the tournament Discord server.
 4. It is expected from the players to be respectful to other competitors, to staff members, and overall to follow the [osu! community rules](/wiki/Rules). Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
 
@@ -473,7 +473,7 @@ Tuesday, July 26, 2022:
 ### Qualifiers
 
 1. The qualifiers will determine the participants and the seeding order for the knockout stage.
-2. Each player will play in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to pe scheduled on other days of the week, but not later than Monday, July 7 2022, 20:00 UTC+3.
+2. Each player will play in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to pe scheduled on other days of the week, but not later than Monday, July 18 2022, 20:00 UTC+3.
 3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
 4. The results will be sorted by **total rank**, which is the sum of a player's placings by score when compared to other players on every map in the pool. The lower the total rank, the higher placing in the qualifiers ranking. In case of a tie between multiple players on total rank, normalised average score will be used as a tiebreaker.
 
@@ -482,7 +482,7 @@ Tuesday, July 26, 2022:
 1. The knockout stage will be split into multiple rounds taking place on a weekly basis, with each round's matches being played on a corresponding mappool.
 2. It will feature a maximum of 32 players in a Round of 32 bracket. If the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 16.
 3. For each round a weekend will be allocated in the tournament's tentative schedule, however a round may be postponed at the discretion of the staff and with the approval of the remaining participants if the situation calls for it.
-4. Round of 32 and Round of 16 will give players 1 map ban each, while starting from the Quarter Finals they will both have 2 map bans. If a player bans a map, that man cannot be picked for playing by any of the two players in the match.
+4. Round of 32 and Round of 16 will give players 1 map ban each, while starting from the Quarter Finals they will both have 2 map bans. If a player bans a map, that map cannot be picked for playing by any of the two players in the match.
 5. The winning conditions for matches in each round are as follows:
    - Round of 32/Round of 16: Best of 9 (first to 5 points)
    - Quarter-Finals/Semi-Finals: Best of 11 (first to 6 points)
@@ -497,9 +497,9 @@ Tuesday, July 26, 2022:
 3. Players are allowed to choose one warm-up map each, but the maps must not exceed 4 minutes of drain time.
 4. Both players will type the `!roll` command to draw a random number. The player with the lower number will decide the ban order, and the player with the higher number will choose the pick order.
 5. The ban order will be A-B in Round of 32/16, and A-B-B-A from Quarter Finals onwards, with "A" representing the player with the first ban.
-6. Players have 120 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in due time, the referee will pick the next map at random, and if the same happens for a ban, that player's ban will be considered unused.
+6. Players have 120 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in due time, the referee will use `!roll x`, where x is the number of maps that are left to be picked, to randomly choose the next map. If the same happens for a ban, that player's ban will be considered unused.
 7. For each map, after both players are ready, the referee will start a 10 second countdown with `!mp start 10` which will automatically start gameplay.
-8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game.
+8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game. Any subsequent disconnection or which happens after more than 30 seconds into the map will result in a point loss unless the player who disconnected can provide proof of the final score.
 9. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
 10. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
