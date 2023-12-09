@@ -131,15 +131,15 @@ Das Update wurde von den Spielern allgemein gut angenommen und eine tatsächlich
 
 Am 1. April 2016 wurde [ein Newsbeitrag](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) veröffentlicht, in dem die Pläne für die Unterstützung der [Oculus Rift](https://de.wikipedia.org/wiki/Oculus_Rift) als eine neue [Eingabemethode](/wiki/Gameplay/Input_device) für osu! angekündigt wurden. In dem von [Evrien](https://osu.ppy.sh/users/791660) verfassten Beitrag wurden viele Zitate aus einem angeblichen Interview mit [peppy](https://osu.ppy.sh/users/2) angeführt, in welchem er seine Gründe für die Ankündigung erklärte und Ideen aufzeigte, wie das Konzept funktionieren könnte.[^osu-vr-news]
 
-In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode nutzen können, wird im Newspost beschrieben, dass "der Spieler den Cursor in der Ich-Perspektive auf seinem Weg von und zu Hit-Objekten auf dem Bildschirm erlebt (…)" und dass Hit-Objekte getroffen werden, "(…) indem der Spieler vokalähnliche Laute mit seinem Mund erzeugt". Es wurden keine tatsächlichen Änderungen im Spiel vorgenommen, die mit der Verwendung von Oculus Rift oder einem ähnlichen [Gerät mit VR-Unterstützung (Virtuelle Realität)](https://de.wikipedia.org/wiki/Virtuelle_Realit%C3%A4t) zur Steuerung von osu! zusammenhängen.[^osu-vr-news]
+In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode nutzen können, wird im Newspost beschrieben, dass "der Spieler den Cursor in der Ich-Perspektive auf seinem Weg von und zu Hit-Objekten auf dem Bildschirm erlebt (…)" und dass Hit-Objekte getroffen werden, "(…) indem der Spieler vokalähnliche Laute mit seinem Mund erzeugt".[^translated] Es wurden keine tatsächlichen Änderungen im Spiel vorgenommen, die mit der Verwendung von Oculus Rift oder einem ähnlichen [Gerät mit VR-Unterstützung (Virtuelle Realität)](https://de.wikipedia.org/wiki/Virtuelle_Realit%C3%A4t) zur Steuerung von osu! zusammenhängen.[^osu-vr-news]
 
 *Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
 
-Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand schließlich ein inoffizielles Fanprojekt, das kurz darauf gestartet wurde und das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Gameplay/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand kurz darauf ein inoffizielles Fanprojekt, welches das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können. Außerdem gab es [Spielmodifikationen](/wiki/Gameplay/Game_modifier) und weitere Funktionen, wie die Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 ### Tanzender Auto-Mod-Cursor/tanzende pippi
 
-"Tanzende pippi" (auch bekannt als "tanzender Auto-Mod-Cursor") ist der Spitzname für einen der Aprilscherze für 2016, bei dem ein Update  dafür sorgte, dass der Cursor in [Replays](/wiki/Gameplay/Replay) mit der Mod [Auto](/wiki/Gameplay/Game_modifier/Auto) auf pixelgenaue Art und Weise um das aktuelle [Hit-Objekt](/wiki/Gameplay/Hit_object) herumkreiste, bevor das Objekt schließlich zum richtigen Zeitpunkt getroffen wurde, im Gegensatz zu den üblichen roboterhaften und perfekt geraden Bewegungen der Mod Auto. Das zuvorgenannte Update wurde am nächsten Tag durch ein weiteres Update zurückgenommen.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
+"Tanzende pippi" (auch bekannt als "tanzender Auto-Mod-Cursor") ist der Spitzname für einen der Aprilscherze für 2016, bei dem ein Update dafür sorgte, dass der Cursor in [Replays](/wiki/Gameplay/Replay) mit der Mod [Auto](/wiki/Gameplay/Game_modifier/Auto) auf pixelgenaue Art und Weise um das aktuelle [Hit-Objekt](/wiki/Gameplay/Hit_object) herumkreiste, bevor das Objekt schließlich zum richtigen Zeitpunkt getroffen wurde, im Gegensatz zu den üblichen roboterhaften und perfekt geraden Bewegungen der Mod Auto. Das zuvorgenannte Update wurde am nächsten Tag durch ein weiteres Update zurückgenommen.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
 
 ### Kostenlose osu!supporter-Tags
 
@@ -189,7 +189,7 @@ Der Aprilscherz 2020 wiederholte den gleichen Scherz aus dem Vorjahr, der dazu f
 
 Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, der dazu führte, dass man mit einer etwa 5%igen Wahrscheinlichkeit den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap hörte.[^sneeze-2-forums][^sneeze-2-forums-2]
 
-## Referenzen
+## Anmerkungen und Referenzen
 
 [^lemontree-reddit]: [Reddit-Beitrag von u/5522Luca in r/osugame (10.04.2017) "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/)
 [^lemontree-post-machol30]: [Forumsbeitrag von machol30 (03.04.2009) in "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/posts/106774)
@@ -240,6 +240,7 @@ Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, d
 [^osu-vr-yt]: [YouTube-Video von Omgforz (02.08.2016) "McOsu Alpha 20 (custom practice client +download)"](https://www.youtube.com/watch?v=PCLpOdcMQuc)
 [^osu-vr-gameskinny]: ["What Even Is McOsu? Because It's Not Osu!" auf GameSkinny](https://www.gameskinny.com/mhaa0/what-even-is-mcosu-because-its-not-osu)
 [^osu-vr-mcosu]: ["McKay42/McOsu" auf GitHub](https://github.com/McKay42/McOsu)
+[^translated]: Zitat aus dem Englischen übersetzt
 
 [^osu-auto-yt]: [YouTube-Video von HoLLy (31.03.2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
 [^osu-auto-yt-2]: [YouTube-Video von Hubz (07.01.2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
