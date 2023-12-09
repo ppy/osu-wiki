@@ -9,7 +9,7 @@ tags:
 
 El **Community Mentorship Program** es una forma para que los mappers sin experiencia interactúen con la comunidad de mapping a través de la mentoría de mappers o modders experimentados.
 
-El programa se organiza a través de Discord y se gestiona en ciclos estacionales. Cada ciclo se anuncia a través de una publicación de foro y los ciclos ocasionales se anuncian a través de publicaciones de noticias en la portada.
+El programa se organiza a través de Discord y se gestiona en ciclos estacionales. Cada ciclo se anuncia a través de una publicación en el foro y los ciclos ocasionales se anuncian a través de publicaciones de noticias en la portada.
 
 ## Programas de mentoría anteriores
 
