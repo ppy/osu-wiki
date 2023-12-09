@@ -16,7 +16,7 @@ tags:
 
 *Véase también: [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)*
 
-De forma predeterminada, cualquier texto ingresado en la [pantalla de selección de canciones](/wiki/Client/Interface#song-select) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las etiquetas de los beatmaps. Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las consultas no distinguen entre mayúsculas y minúsculas.
+De forma predeterminada, cualquier texto ingresado en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las etiquetas de los beatmaps. Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las consultas no distinguen entre mayúsculas y minúsculas.
 
 Los campos de metadatos de beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
 

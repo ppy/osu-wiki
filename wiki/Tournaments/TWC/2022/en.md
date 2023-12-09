@@ -435,7 +435,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 Qualifier results:
 
 | Seed | Country | Rank Sum |
-| :-: | :-- | :-: | 
+| :-: | :-- | :-: |
 | #1 | ::{ flag=JP }:: Japan | 16 |
 | #2 | ::{ flag=KR }:: South Korea | 36 |
 | #3 | ::{ flag=DE }:: Germany | 38 |

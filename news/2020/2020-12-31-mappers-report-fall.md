@@ -102,7 +102,7 @@ The expectations can be found [here](/wiki/People/The_Team/Beatmap_Nominators/Ex
 ### Changes in handling of hybrid beatmapsets
 
 Hybrid map sets were always a grey area when it comes to nominations. They needed only two nominations in the past, just as single game mode map sets. This has changed as of the 2nd of October. Now every map set needs **two nominations per game mode**. For example:
-If you have a hybrid map set with osu!taiko, osu!catch & osu!mania, it will now need a total of **6** nominations. 
+If you have a hybrid map set with osu!taiko, osu!catch & osu!mania, it will now need a total of **6** nominations.
 
 For this change Beatmap Nominators were divided into game mode specific user groups. You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now!
 
@@ -146,7 +146,7 @@ As we all know, eroge mappers are destined for greatness! With more time and exp
 
 ### guden (osu!mania)
 
-A promising upcoming name amongst both the ranked and the competitive scene is [guden](https://osu.ppy.sh/users/11626065), having gotten their first qualified map just a couple of days ago, namely his set of [Camellia - Alone intelligence](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385). Overall, his mapping style shows a charming blend of several notable influences, such as mint’s consistent structure, the unconventional, unique concepts of Abraxos, the melodic style of Shoegazer, and Monheim’s expressive and allocated layering. 
+A promising upcoming name amongst both the ranked and the competitive scene is [guden](https://osu.ppy.sh/users/11626065), having gotten their first qualified map just a couple of days ago, namely his set of [Camellia - Alone intelligence](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385). Overall, his mapping style shows a charming blend of several notable influences, such as mint’s consistent structure, the unconventional, unique concepts of Abraxos, the melodic style of Shoegazer, and Monheim’s expressive and allocated layering.
 
 All these influences come together very well in his map [kaitendaentai - Hizai ni Negu](https://osu.ppy.sh/beatmapsets/1304769#mania/2705462), most notably in how well the barrage of notes flow, which best illustrates the breakcoreish, frantic drums. Other elements the map is notable for are how well structured the map is with respect to the music, how specific chords are allocated for specific events and how certain unusual musical moments are mapped in unusual ways and are combined in a rather well-executed manner.
 
@@ -156,9 +156,9 @@ While they are still trying to find their own voice in the scene, it will be qui
 
 [MJHs](https://osu.ppy.sh/users/2288943) is a Korean mapper who’s been in and out of the mania mapping community since late 2018, but has been getting a bit of traction as of recently within the anti-meta keymode community, primarily 5K. A lot of his maps from the start of his mapping career were pretty straightforward and simplistic, to say the least. However, he’s been notably trying new and innovative concepts to implement into his newer maps that definitely make him stand out amongst a crowd of 5K mappers. Although the 5K community is fairly small, his dedication to the keymode is unwavering. This small and niche spot within the community is the reason why many of his maps are starting to hold amazingly in the current 5K mapping scene, despite not having any ranked maps as of now.
 
-One of the most solidified maps in his mapping discography is [Konami Amusement (Wakita Jun) - Vide Nostalgia](https://osu.ppy.sh/beatmapsets/1197900#mania/2530522), which not only displays some excellent timing craftsmanship but also shows well-executed, heavy PR patterning whilst maintaining mapping standards that fit along with the song beautifully. The map also features a constant 3/4 timing signature that can somewhat throw players off from the 4/4 timing signature that many are accustomed to, making this quite a challenge to obtain accuracy on. The mapset as a whole resembles MJH’s current mapping style perfectly, which is why it holds such an important place in his mapping discography. 
+One of the most solidified maps in his mapping discography is [Konami Amusement (Wakita Jun) - Vide Nostalgia](https://osu.ppy.sh/beatmapsets/1197900#mania/2530522), which not only displays some excellent timing craftsmanship but also shows well-executed, heavy PR patterning whilst maintaining mapping standards that fit along with the song beautifully. The map also features a constant 3/4 timing signature that can somewhat throw players off from the 4/4 timing signature that many are accustomed to, making this quite a challenge to obtain accuracy on. The mapset as a whole resembles MJH’s current mapping style perfectly, which is why it holds such an important place in his mapping discography.
 
-Another mapset of his that is rather new compared to some of the older ones, but still an amazing set is [Akaru muu - Choukousoku henbyoushi no alien](https://osu.ppy.sh/beatmapsets/1324800#mania/2749712), which somewhat resembles a lot of big and notable features that Vide Nostalgia has, yet turns up a couple of notches. Easily one of his more complex and interesting maps, the map features very odd and complexing time signatures that’ll definitely catch many players off guard, whilst capturing the song gracefully through pretty complex rhythms and structures. He does all of this whilst also maintaining PR and heavy repetition when the song calls for it, making this one hell of a challenge to FC and obtain accuracy on for many players. Definitely give this a try if you’re looking for a challenge. 
+Another mapset of his that is rather new compared to some of the older ones, but still an amazing set is [Akaru muu - Choukousoku henbyoushi no alien](https://osu.ppy.sh/beatmapsets/1324800#mania/2749712), which somewhat resembles a lot of big and notable features that Vide Nostalgia has, yet turns up a couple of notches. Easily one of his more complex and interesting maps, the map features very odd and complexing time signatures that’ll definitely catch many players off guard, whilst capturing the song gracefully through pretty complex rhythms and structures. He does all of this whilst also maintaining PR and heavy repetition when the song calls for it, making this one hell of a challenge to FC and obtain accuracy on for many players. Definitely give this a try if you’re looking for a challenge.
 
 We hope to see MJHs make more maps in the future as it’s pretty clear he’s making a name for himself in the 5K community thus far, and hopefully we can see him rank some maps whilst he’s at it!
 
@@ -185,13 +185,13 @@ The MBC \#10 was also the last one in the year 2020. The contest will take a lit
 
 ### A Labour of Love
 
-A brand new contest appeared out of nowhere. Something that we never had before in osu! [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) will go with you through more than just the complete mapping experience! 
+A brand new contest appeared out of nowhere. Something that we never had before in osu! [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) will go with you through more than just the complete mapping experience!
 
-For this **team-based contest**, you will have to gather your friends to make a unique remix of the well-known osu! song [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) - [My Love](https://osu.ppy.sh/beatmapsets/163112). But that's not all! Next, you will have to create a complete osu! beatmap spread for your own created remix. And what shouldn't be missing when creating a beatmap? A storyboard or own created video, of course! 
+For this **team-based contest**, you will have to gather your friends to make a unique remix of the well-known osu! song [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) - [My Love](https://osu.ppy.sh/beatmapsets/163112). But that's not all! Next, you will have to create a complete osu! beatmap spread for your own created remix. And what shouldn't be missing when creating a beatmap? A storyboard or own created video, of course!
 
-As there is really a lot to do, the contests dead line is the **end of February 2021**. 
+As there is really a lot to do, the contests dead line is the **end of February 2021**.
 
-We hope to see a lot of cool remixes and beatmaps coming from this contest and we will surely let you know once there are some results out! 
+We hope to see a lot of cool remixes and beatmaps coming from this contest and we will surely let you know once there are some results out!
 
 ### osu! Mapping Olympiad #7: Results (osu!mania)
 
@@ -243,12 +243,12 @@ Finally, on a bit of a different flavor we have a guide not related to mapping -
 
 And that concludes the last issue of the Mappers' Report in the year 2020! Quite a lot to read again, but we are happy should you have survived until here.
 
-To end the year, the lead of the Mappers' Report [Feerum](https://osu.ppy.sh/users/4815717), would like to drop a few words: 
+To end the year, the lead of the Mappers' Report [Feerum](https://osu.ppy.sh/users/4815717), would like to drop a few words:
 
-The Mappers' Report started as a project together with the Beatmap Nominators out of a whim after a NAT Meeting. At first, we, the NAT, just wanted to use this as a platform to reach more participants for the meetings and to inform those who couldn't participate in what exactly was discussed. This worked by the way! 
-But over time I have gotten more ideas for the whole project and it became huge! I added more categories because I wanted to bring as much information about the most important aspects of osu! to as many people as possible. 
+The Mappers' Report started as a project together with the Beatmap Nominators out of a whim after a NAT Meeting. At first, we, the NAT, just wanted to use this as a platform to reach more participants for the meetings and to inform those who couldn't participate in what exactly was discussed. This worked by the way!
+But over time I have gotten more ideas for the whole project and it became huge! I added more categories because I wanted to bring as much information about the most important aspects of osu! to as many people as possible.
 
-This whole project would not have been that successful as it is now without the help of so many people. I wish I could thank everyone who helped in a proper way, but sadly I can't name all because the ending here would become as large as the whole news post. Be sure that I am thankful for really everyone who helped me with it in the past, either by writing sections or picking the mapper for the Mappers' Showcase. But I also want to mention a few special people here: 
+This whole project would not have been that successful as it is now without the help of so many people. I wish I could thank everyone who helped in a proper way, but sadly I can't name all because the ending here would become as large as the whole news post. Be sure that I am thankful for really everyone who helped me with it in the past, either by writing sections or picking the mapper for the Mappers' Showcase. But I also want to mention a few special people here:
 
 First of all a lot of thanks to [Noffy](https://osu.ppy.sh/users/1541323) who supported it from the very beginning and helped a lot with writing. I could never make this news post such a big success without you. So a thousand thanks for staying all this time and helping me with the Mappers' Report.
 

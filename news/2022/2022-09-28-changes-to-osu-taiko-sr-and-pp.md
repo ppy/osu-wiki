@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to osu!taiko Star Rating & Performance Points"
+title: Changes to osu!taiko Star Rating & Performance Points
 date: 2022-09-28 08:00:00 +0000
 ---
 

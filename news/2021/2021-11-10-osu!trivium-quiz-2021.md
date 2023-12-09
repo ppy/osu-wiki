@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!trivium Quiz 2021"
+title: osu!trivium Quiz 2021
 date: 2021-11-10 20:00:00 +0000
 ---
 
@@ -28,7 +28,7 @@ The osu!trivium Quiz 2021 offers lucrative rewards for those who manage to place
 
 ## FAQ
 
-Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask [mangomizer](https://osu.ppy.sh/users/1893718) on the aforementioned Discord server. 
+Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask [mangomizer](https://osu.ppy.sh/users/1893718) on the aforementioned Discord server.
 
 ### This quiz seems impossible! Where do I even begin?
 
@@ -40,7 +40,7 @@ No. There will be no advantage gained (other than experience) from participating
 
 ### Why am I not allowed to ask peppy for answers?
 
-peppy is incredibly busy and unless you want osu!(lazer) to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to. 
+peppy is incredibly busy and unless you want osu!(lazer) to replace stable by 2037, it would be best to not flood his inbox with questions that he doesn't even know the answers to.
 
 Fun fact: peppy ended up writing a scripted response to everyone who emailed him during last year's osu!trivium quiz.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring 2019 Fanart Contest Voting Now Open!"
+title: Spring 2019 Fanart Contest Voting Now Open!
 date: 2019-05-25 20:00:00 +0000
 ---
 

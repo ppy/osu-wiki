@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09238489fa03b6decf831f6781f0cddff25b853d
+---
+
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -175,7 +180,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-*Startseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+*Hauptseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
 
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
@@ -292,6 +297,7 @@ Diese Nutzer erhielten ihre entsprechenden Titel dafür, dass sie einen wesentli
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
@@ -313,6 +319,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |

@@ -25,7 +25,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 06/12/2020 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
-| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -141,7 +141,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 30/09/2023 | 12/11/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [BubblyQT 6](BQT/6) | 30/09/2023 | 12/11/2023 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

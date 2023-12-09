@@ -28,7 +28,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 프로젝트 및 커뮤니티 유지 관리자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 디자인 책임자, Creative Cloud 상시 감시자 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 개발자 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 매니저 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, Venix의 비서 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [공식 아티스트](/wiki/People/Featured_Artists) 지원, [월드컵](/wiki/Tournaments#official-world-cups) 비서 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 개발자, 기술적 지원 |
@@ -69,7 +69,7 @@ tags:
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자 |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, osz2 및 p2p 백엔드 제공자 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 원본 사이트 디자이너, 초기 호스팅 공급자 |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자, 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더, 커뮤니티 매니저 |

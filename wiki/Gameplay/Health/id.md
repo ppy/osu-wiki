@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Client/Interface/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmap/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
+**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Client/Interface/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmap/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi.
 
 ## osu!
 
@@ -44,7 +44,7 @@ Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai hea
 
 Pemulihan Health:
 
-- Mendapatkan 'Great' atau 'Good' di not kecil/besar 
+- Mendapatkan 'Great' atau 'Good' di not kecil/besar
 
 Kehilangan Health:
 
@@ -76,7 +76,7 @@ Kehilangan Health:
 - Health drain
 - Kehilangan fruit atau juice drops
 
-Tidak berefek: 
+Tidak berefek:
 
 - Waktu break
 

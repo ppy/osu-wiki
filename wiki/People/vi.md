@@ -17,7 +17,7 @@ Trang chỉ mục cho những bài viết về những người hay nhóm.
 - [Đội ngũ khảo sát đề cử](Nomination_Assessment_Team)
 - [Ủy ban Điểm Hiệu suất](Performance_Points_Committee)
 - [Đội ngũ Dự án Được yêu thích](Project_Loved_Team)
-- [Đội ngũ hỗ trợ](Support_Team)
+- [Đội ngũ hỗ trợ kỹ thuật](Technical_Support_Team)
 - [Ủy ban Giải đấu](Tournament_Committee)
 - [Cựu sinh viên osu!](osu!_Alumni)
 - [Đội ngũ osu!](osu!_team)

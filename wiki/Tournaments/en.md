@@ -25,7 +25,7 @@ Official tournaments organised by the osu! team.
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea |
 | [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
-| [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=AU }:: Australia |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -141,7 +141,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | *TBD* | *TBD* | *TBD* |
+| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 
