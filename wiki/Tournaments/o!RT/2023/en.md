@@ -21,7 +21,7 @@ The **osu! Romania Summer Tournament 2023** (***o!RST 2023***) was a 1v1 double 
 | Quarterfinals | 2023-08-05/2023-08-06 |
 | Semifinals | 2023-08-12/2023-08-13 |
 | Finals | 2023-08-19/2023-08-20 |
-| Grand Finals | 2023-08-26/2023-08-27 |
+| Grand Finals | 2023-08-26/2023-08-28 |
 
 ## Prizes
 
@@ -40,12 +40,14 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Mappool selector | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621) |
+| Mappool selector | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233) |
+| Mappool playtester | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) |
+| Mapper | ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802)  |
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=UK }:: [Roebuck554](https://osu.ppy.sh/users/15904004) |
-| Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Smol Ina](https://osu.ppy.sh/users/18789828), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [AndoryuRO](https://osu.ppy.sh/users/18631525) |
-| Designer | ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=SE }:: [Velle](https://osu.ppy.sh/users/12849926), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=HU }:: [Indicolite](https://osu.ppy.sh/users/19309181) |
+| Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Smol Ina](https://osu.ppy.sh/users/18789828), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [AndoryuRO](https://osu.ppy.sh/users/18631525), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
+| Graphics designer | ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=SE }:: [Velle](https://osu.ppy.sh/users/12849926), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=HU }:: [Indicolite](https://osu.ppy.sh/users/19309181) |
 | Referee | ::{ flag=RO }:: [calancis](https://osu.ppy.sh/users/7980091), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=RO }:: [hroni](https://osu.ppy.sh/users/14414337), ::{ flag=RO }:: [Koocie](https://osu.ppy.sh/users/8023626), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=UK }:: [ilyt](https://osu.ppy.sh/users/9402773), ::{ flag=PL }:: [O_re_O](https://osu.ppy.sh/users/18389558) |
-| Sheet Manager | ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658) |
+| Sheet Manager | ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
 
 ## Links
 
