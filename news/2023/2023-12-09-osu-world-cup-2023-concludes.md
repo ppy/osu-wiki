@@ -117,7 +117,7 @@ Unfortunately there was no showmatch of the Grand Finals pool due to internal is
     }
 </style>
 
-Following the growth of osu!'s [Featured Artists](/wiki/People/Featured_Artists), it should be no surprise that this year's osu! World Cup coordinated the production of original music (which we call [osu! originals](/wiki/osu%21_originals)) specifically for its mappools.
+Following the growth of osu!'s [Featured Artists](/wiki/People/Featured_Artists), it should be no surprise that this year's osu! World Cup coordinated the production of original music (which we call [osu! originals](/wiki/osu!_originals)) specifically for its mappools.
 
 Despite these expectations, absolutely no one was prepared for a massive haul of **20** new tracks, along with original artworks designed by members of the osu! community for the maps' backgrounds.
 
