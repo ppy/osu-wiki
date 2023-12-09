@@ -581,7 +581,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Junio
 
-- **30/6/2022** Se revelaron a los [contribuidores de la comunidad: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021), con 15 usuarios por sus destacadas contribuciones al juego.
+- **30/6/2022** Se revelaron a los [contribuidores de la comunidad de 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021), con 15 usuarios por sus destacadas contribuciones al juego.
 
 ### Julio
 
