@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! World Cup 2023 Concludes
-date: 2023-12-09 21:00:00 +0000
+date: 2023-12-10 02:00:00 +0000
 ---
 
 An osu! tournament of the highest calibre comes to an end. Join us as we get up to speed on the latest and greatest battles and top it off with insights from a now-reigning champion, a staff member and a contributing artist!
@@ -125,7 +125,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Round of 32
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Darkness-Parade.jpg)](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Darkness-Parade.jpg)](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -135,7 +135,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Round of 16
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Ebb-Tide.jpg)](https://osu.ppy.sh/beatmapsets/2082040#osu/4360358)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Ebb-Tide.jpg)](https://osu.ppy.sh/beatmapsets/2082040#osu/4360358)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -145,9 +145,9 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Quarterfinals
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Wandered.jpg)](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Wandered.jpg)](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Mach-Roger.jpg)](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Mach-Roger.jpg)](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -155,7 +155,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Kizan.jpg)](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kizan.jpg)](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -165,7 +165,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Semifinals
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Sara.jpg)](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Sara.jpg)](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -173,9 +173,9 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/The-last-straw.jpg)](https://osu.ppy.sh/beatmapsets/2088563#osu/4376803)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/The-last-straw.jpg)](https://osu.ppy.sh/beatmapsets/2088563#osu/4376803)
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Endverse.jpg)](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Endverse.jpg)](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -185,7 +185,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Finals
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/KAGUTSUCHI.jpg)](https://osu.ppy.sh/beatmapsets/2091775#osu/4384629)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/KAGUTSUCHI.jpg)](https://osu.ppy.sh/beatmapsets/2091775#osu/4384629)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -193,7 +193,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/OEFHEBEN.jpg)](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/OEFHEBEN.jpg)](https://osu.ppy.sh/beatmapsets/2091787#osu/4384665)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -201,7 +201,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Quartzshaper.jpg)](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Quartzshaper.jpg)](https://osu.ppy.sh/beatmapsets/2091789#osu/4384670)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -209,7 +209,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Gllensista.jpg)](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Gllensista.jpg)](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -217,7 +217,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/NOVO-HORIZONTE.jpg)](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/NOVO-HORIZONTE.jpg)](https://osu.ppy.sh/beatmapsets/2091818#osu/4384706)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -227,7 +227,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Pixel-Planet.jpg)](https://osu.ppy.sh/beatmapsets/2095123#osu/4392960)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Pixel-Planet.jpg)](https://osu.ppy.sh/beatmapsets/2095123#osu/4392960)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -235,7 +235,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Fana.jpg)](https://osu.ppy.sh/beatmapsets/2095138#osu/4392977)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Fana.jpg)](https://osu.ppy.sh/beatmapsets/2095138#osu/4392977)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -243,7 +243,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Amethyst-Aurora.jpg)](https://osu.ppy.sh/beatmapsets/2095140#osu/4392985)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Amethyst-Aurora.jpg)](https://osu.ppy.sh/beatmapsets/2095140#osu/4392985)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -251,7 +251,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Requiem-for-the-Aura.jpg)](https://osu.ppy.sh/beatmapsets/2095119#osu/4392955)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Requiem-for-the-Aura.jpg)](https://osu.ppy.sh/beatmapsets/2095119#osu/4392955)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -259,7 +259,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Burning-Star.jpg)](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Burning-Star.jpg)](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -267,7 +267,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/AKARI-BEAM-CANNON-LAST-BOSS.jpg)](https://osu.ppy.sh/beatmapsets/2095159#osu/4393042)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/AKARI-BEAM-CANNON-LAST-BOSS.jpg)](https://osu.ppy.sh/beatmapsets/2095159#osu/4393042)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -275,7 +275,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
     </audio>
 </div>
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/VANITAS.jpg)](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/VANITAS.jpg)](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -291,7 +291,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#kama}::
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Kama-banner.png)](https://osu.ppy.sh/users/13380270)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)](https://osu.ppy.sh/users/13380270)
 
 **Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with [WindowLife](https://osu.ppy.sh/users/4108547) and [wudci](https://osu.ppy.sh/users/2590257). While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
 
@@ -313,7 +313,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#doomsday}::
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Doomsday-banner.png)](https://osu.ppy.sh/users/18983)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Doomsday-banner.png)](https://osu.ppy.sh/users/18983)
 
 **Doomsday** has been ever present since the dawn of the game's lifetime, providing commentary in numerous world cups (including 8 matches in this one), hosting the Corgi Cup tournament series as well as [creating music](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Doomsday%22&s=any) as of recent, just to name a few things about this frankly awesome dude.
 
@@ -341,7 +341,7 @@ As you can tell by glancing below, he had a whole lot to say, but we unfortunate
 
 ::{#selep}::
 
-[![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/seleP-banner.png)](https://osu.ppy.sh/beatmaps/artists/138)
+[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/seleP-banner.png)](https://osu.ppy.sh/beatmaps/artists/138)
 
 **seleP** perhaps needs no introduction to most people who have played osu! during the last decade, but anyone uninitiated may find the [Featured Artist page](https://osu.ppy.sh/beatmaps/artists/138) a perfect read. For this tournament, **seleP** composed [Sara](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782) which appeared as the No Mod 3 beatmap of the Semifinals mappool.
 
@@ -387,7 +387,7 @@ As you can tell by glancing below, he had a whole lot to say, but we unfortunate
 It wouldn't be a World Cup without some new records, world firsts and interesting stats overall. [shdewz](https://osu.ppy.sh/users/10000899), one of our World Cup statisticians, has compiled stats for every single stage of this year's cup and put them all into fancy spreadsheets of their design (and yes there is such a thing as spreadsheet design). While you can check out the full spreadsheets with [general information](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E/pubhtml) and [individual stage stats](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U), here is an excerpt of some of the more interesting tidbits:
 
 - The OWC pp record was shattered three different times, first with [maliszewski](https://osu.ppy.sh/users/12408961)'s HDHR FC on [FM3](https://osu.ppy.sh/beatmapsets/1964101#osu/4319264) during the [Round of 16 match vs. Brazil](https://osu.ppy.sh/community/matches/111188366) with 717 pp, then [worst hr player](https://osu.ppy.sh/users/14106450)'s [HR3](https://osu.ppy.sh/beatmapsets/292301#osu/658127) FC during the [Semifinals match vs. the Philippines](https://osu.ppy.sh/community/matches/111366414) worth 754 pp, and finally the new OWC performance point record is now being held by [Rektygon](https://osu.ppy.sh/users/7813296) with their [DT2](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687) FC during the [Finals match vs. Germany](https://osu.ppy.sh/community/matches/111466879) worth 763 pp.
-- The biggest upset of the tournament (according to [hallowatcher's pick'ems results](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/pickem.png)) was the [Australia vs. Poland match](https://osu.ppy.sh/community/matches/111271525) that took place in Quarterfinals. With 1340 votes, only 5.8% of voters guessed that Australia would win the match.
+- The biggest upset of the tournament (according to [hallowatcher's pick'ems results](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/pickem.png)) was the [Australia vs. Poland match](https://osu.ppy.sh/community/matches/111271525) that took place in Quarterfinals. With 1340 votes, only 5.8% of voters guessed that Australia would win the match.
 - Kazakhstan successfully qualified for the first time ever, and even though they got kicked out by Japan during the Round of 16, they had an impressive showing.
 - There were 6 countries that participated in the osu! World Cup for the first time ever: India, Mongolia, Panama, Saudi Arabia, South Africa and the United Arab Emirates.
 
@@ -395,7 +395,7 @@ It wouldn't be a World Cup without some new records, world firsts and interestin
 
 Many thanks to everyone who directly or indirectly has contributed to the project. Not everyone is aware of the effort required and countless hours invested into events like these.
 
-![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/owc2023-credits.png)
+![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/owc2023-credits.png)
 
 Apart from the contributors, we'd also like to thank the **[439 tournament participants](/wiki/Tournaments/OWC/2023#participants)** as well as everyone who watched the osu! World Cup 2023.
 
