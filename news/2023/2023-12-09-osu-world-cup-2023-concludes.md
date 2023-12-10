@@ -129,7 +129,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/359/Songs/cygnus_-_Darkness_Parade.mp3">
     </audio>
 </div>
 
@@ -139,7 +139,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Ebb_Tide.mp3">
     </audio>
 </div>
 
@@ -147,17 +147,11 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 [![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Wandered.jpg)](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
 
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="{LINK}">
-    </audio>
-</div>
-
 [![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Mach-Roger.jpg)](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/121/Songs/MYUKKE._-_Mach_Roger.mp3">
     </audio>
 </div>
 
@@ -165,7 +159,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/350/Songs/Down_-_Kizan.mp3">
     </audio>
 </div>
 
@@ -175,23 +169,17 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/138/Songs/seleP_feat._Lily_-_Sara.mp3">
     </audio>
 </div>
 
 [![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/The-last-straw.jpg)](https://osu.ppy.sh/beatmapsets/2088563#osu/4376803)
 
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="{LINK}">
-    </audio>
-</div>
-
 [![](/wiki/shared/news/2023-12-09-osu-world-cup-2023-concludes/Endverse.jpg)](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/146/Songs/polysha_-_Endverse.mp3">
     </audio>
 </div>
 
@@ -201,7 +189,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/253/Songs/A.SAKA_-_KAGUTSUCHI.mp3">
     </audio>
 </div>
 
@@ -209,7 +197,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/118/Songs/orangentle___Yu_Asahina_-_OEFHEBEN.mp3">
     </audio>
 </div>
 
@@ -217,7 +205,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/183/Songs/Aoi_-_Quartzshaper.mp3">
     </audio>
 </div>
 
@@ -225,7 +213,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/82/Songs/Rohi_-_Gllensista.mp3">
     </audio>
 </div>
 
@@ -233,7 +221,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/334/Songs/Sound_Piercer_ESPITZ_-_NOVO_HORIZONTE.mp3">
     </audio>
 </div>
 
@@ -243,7 +231,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/116/Songs/Lime_-_Pixel_Planet.mp3">
     </audio>
 </div>
 
@@ -251,7 +239,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/288/Songs/ZxNX_-_Fana.mp3">
     </audio>
 </div>
 
@@ -259,7 +247,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_Amethyst_Aurora.mp3">
     </audio>
 </div>
 
@@ -267,7 +255,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/201/Songs/litmus__vs_Ester_-_Requiem_for_the_Aura.mp3">
     </audio>
 </div>
 
@@ -275,7 +263,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/214/Songs/LV.4_-_Burning_Star.mp3">
     </audio>
 </div>
 
@@ -283,7 +271,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/379/Songs/Kommisar_-_AKARI_BEAM_CANNON_LAST_BOSS.mp3">
     </audio>
 </div>
 
@@ -291,7 +279,7 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="{LINK}">
+        <source src="https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_VANITAS.mp3">
     </audio>
 </div>
 
