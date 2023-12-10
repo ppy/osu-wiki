@@ -26,7 +26,7 @@ This month, peppy introduced a new star rating difficulty algorithm in an osu! u
 
 Since August 2, users became able to change their username once. To change their name, they had to have received an osu!supporter tag at least once beforehand, either through purchase or as a gift.[^name-change]
 
-[Bancho](wiki/BanchoBot) received the [`!report`](/wiki/de/BanchoBot#report) command, allowing people to notify chat moderators of users that showed unsolicited behaviour (e.g. spamming in chat).[^bancho-report]
+[Bancho](/wiki/BanchoBot) received the [`!report`](/wiki/BanchoBot#report) command, allowing people to notify chat moderators of users that showed unsolicited behaviour (e.g. spamming in chat).[^bancho-report]
 
 [nardii](https://osu.ppy.sh/users/1017) gave peppy access to their [Twitter](https://twitter.com) account [@osugame](https://twitter.com/osugame) which was used for general osu! news from then on.[^twitter-osugame]
 
