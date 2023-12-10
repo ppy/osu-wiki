@@ -29,7 +29,7 @@ Play through one (or all) of these masterpieces:
 - [A full-length marathon](https://osu.ppy.sh/beatmapsets/1332346) hosted by [- Heatwave -](https://osu.ppy.sh/users/4166621)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Starlite.mp3">
 </audio>
 
 ### KOAN Sound x Culprate x Reso x Asa - Cascade
@@ -37,7 +37,7 @@ Play through one (or all) of these masterpieces:
 Take a stab at [this osu! map](https://osu.ppy.sh/beatmapsets/1464050) hosted by [Arbane](https://osu.ppy.sh/users/4150829) or [this brand new osu!catch rendition](https://osu.ppy.sh/beatmapsets/2046177) hosted by [wwwww](https://osu.ppy.sh/users/8434466)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/394/Movember EP/KOAN Sound x Culprate x Reso x Asa - Cascade.mp3">
 </audio>
 
 ### KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows
@@ -45,7 +45,7 @@ Take a stab at [this osu! map](https://osu.ppy.sh/beatmapsets/1464050) hosted by
 Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-mei](https://osu.ppy.sh/users/4574165)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/394/Movember EP/KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows.mp3">
 </audio>
 
 ### KOAN Sound & Asa - This Time Around (feat. Koo)
@@ -53,7 +53,7 @@ Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-
 [This osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1309753) by [Heaxys](https://osu.ppy.sh/users/5671417) could be your next favourite map.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - This Time Around (feat. Koo).mp3">
 </audio>
 
 ### KOAN Sound & Asa - Tetsuo's Redemption
@@ -61,13 +61,13 @@ Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-
 Give your best attempt to either [this osu! map](https://osu.ppy.sh/beatmapsets/617995) hosted by [Jakomo73](https://osu.ppy.sh/beatmapsets/617995) or [this osu!mania marathon](https://osu.ppy.sh/beatmapsets/788366) hosted by [error_exe777](https://osu.ppy.sh/beatmapsets/788366)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Tetsuo_s Redemption.mp3">
 </audio>
 
 ---
 
 Given KOAN Sound's involvement in these tunes, we've included pre-timed beatmap templates on both [**Asa**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/394) *and* [KOAN Sound's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/49). Feel free to download the base for your next map from either place — there's no difference.
 
-...Anyway, that'll do for this week's Featured Artists! In case you missed it, we highlighted **20** osu! originals in the [OWC recap news article](LINK), so give that a peek when you're ready, and stay tuned for another artist reveal next weekend!
+...Anyway, that'll do for this week's Featured Artists! In case you missed it, we highlighted **20** osu! originals in the [OWC recap news article](https://osu.ppy.sh/home/news/2023-12-10-osu-world-cup-2023-concludes#osu!-originals), so give that a peek when you're ready, and stay tuned for another artist reveal next weekend!
 
 —pishifat
