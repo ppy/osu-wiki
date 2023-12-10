@@ -58,7 +58,7 @@ Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-
 
 ### KOAN Sound & Asa - Tetsuo's Redemption
 
-Give your best attempt to either [this osu! map](https://osu.ppy.sh/beatmapsets/617995) hosted by [Jakomo73](https://osu.ppy.sh/beatmapsets/617995) or [this osu!mania marathon](https://osu.ppy.sh/beatmapsets/788366) hosted by [error_exe777](https://osu.ppy.sh/beatmapsets/788366)!
+Give your best attempt to either [this osu! map](https://osu.ppy.sh/beatmapsets/617995) hosted by [Jakomo73](https://osu.ppy.sh/beatmapsets/617995), [this brand new map](https://osu.ppy.sh/beatmapsets/2099816) hosted by [PaRaDogi](https://osu.ppy.sh/beatmapsets/2099816), or [this osu!mania marathon](https://osu.ppy.sh/beatmapsets/788366) hosted by [error_exe777](https://osu.ppy.sh/beatmapsets/788366)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Tetsuo_s Redemption.mp3">
