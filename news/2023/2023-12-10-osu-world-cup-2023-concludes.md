@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! World Cup 2023 Concludes
-date: 2023-12-10 02:00:00 +0000
+date: 2023-12-10 15:00:00 +0000
 ---
 
 An osu! tournament of the highest calibre comes to an end. Join us as we get up to speed on the latest and greatest battles and top it off with insights from a now-reigning champion, a staff member and a contributing artist!
