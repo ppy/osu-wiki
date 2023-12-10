@@ -147,6 +147,12 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 
 [![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Wandered.jpg)](https://osu.ppy.sh/beatmapsets/2085296#osu/4368472)
 
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys%20-%20Wandered.mp3">
+    </audio>
+</div>
+
 [![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Mach-Roger.jpg)](https://osu.ppy.sh/beatmapsets/2085335#osu/4368604)
 
 <div class="osu-md__paragraph">
@@ -174,6 +180,12 @@ To honour the outstanding creative talent behind these maps, we've neatly laid t
 </div>
 
 [![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/The-last-straw.jpg)](https://osu.ppy.sh/beatmapsets/2088563#osu/4376803)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/393/Songs/Sorry%20about%20my%20face%20-%20The%20last%20straw.mp3">
+    </audio>
+</div>
 
 [![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Endverse.jpg)](https://osu.ppy.sh/beatmapsets/2088576#osu/4376830)
 
