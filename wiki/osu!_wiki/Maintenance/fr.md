@@ -63,11 +63,11 @@ Les vérifications des CI empêchent normalement les pull requests contenant des
 
 | # | Contrôle | Outil | Explication | Contournement |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Taille des fichiers | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Indique si un fichier image est inférieur à la [limite de taille des fichiers images des articles et des news](/wiki/Article_styling_criteria/Formatting#file-size) (1 MB). Donne un avertissement pour les fichiers de plus de 0,5 Mo. | Aucun. |
+| 1 | Taille des fichiers | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Indique si un fichier image est inférieur à la [limite de taille des fichiers images des articles et des news](/wiki/Article_styling_criteria/Formatting#taille-du-fichier) (1 MB). Donne un avertissement pour les fichiers de plus de 0,5 Mo. | Aucun. |
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) via le fichier [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les news. | Ajoutez `SKIP_REMARK` n'importe où dans la description de la pull request. Pour supprimer de façon permanente une erreur spécifique, ajoutez `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
-| 3 | YAML | Commande `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si la syntaxe YAML est correcte et cohérente dans le fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) et dans le [front matter](/wiki/Article_styling_criteria/Formatting#front-matter) | Aucun. |
-| 4 | Liens wiki rompus | Commande `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si les [liens wiki](/wiki/Article_styling_criteria/Formatting#wiki-links) internes pointent vers un article, un news ou une section d'article. | Ajouter `SKIP_WIKILINK_CHECK` n'importe où dans la description de la pull request. |
-| 5 | Traductions obsolètes | Commande `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si les traductions sont correctement [marquées comme obsolètes] (/wiki/Article_styling_criteria/Formatting#outdated-translations) lors de la mise à jour d'un article en anglais. | Ajouter `SKIP_OUTDATED_CHECK` n'importe où dans la description de la pull request. |
+| 3 | YAML | Commande `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si la syntaxe YAML est correcte et cohérente dans le fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) et dans le [front matter](/wiki/Article_styling_criteria/Formatting#formats-et-qualité) | Aucun. |
+| 4 | Liens wiki rompus | Commande `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si les [liens wiki](/wiki/Article_styling_criteria/Formatting#liens-du-wiki) internes pointent vers un article, un news ou une section d'article. | Ajouter `SKIP_WIKILINK_CHECK` n'importe où dans la description de la pull request. |
+| 5 | Traductions obsolètes | Commande `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si les traductions sont correctement [marquées comme obsolètes](/wiki/Article_styling_criteria/Formatting#traductions-obsolètes) lors de la mise à jour d'un article en anglais. | Ajouter `SKIP_OUTDATED_CHECK` n'importe où dans la description de la pull request. |
 
 ##### Règle remark markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation)
 
@@ -107,7 +107,7 @@ Les contributeurs sont encouragés à réparer les liens rompus lors de la mise 
 
 ##### Contrôle des traductions obsolète
 
-*Voir également : [Critères de style des articles/Mise en forme § Traductions obsolètes](/wiki/Article_styling_criteria/Formatting#outdated-translations) et [Critères de style des articles / Écriture § Parité du contenu](/wiki/Article_styling_criteria/Writing#content-parity)*
+*Voir également : [Critères de style des articles/Mise en forme § Traductions obsolètes](/wiki/Article_styling_criteria/Formatting#traductions-obsolètes) et [Critères de style des articles / Écriture § Parité du contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu)*
 
 Il est possible d'ignorer la vérification des traductions obsolètes (et de ne pas marquer les traductions comme obsolètes) pour des modifications mineures de la rédaction, des ajustements grammaticaux et autres, qui n'affectent pas le sens de l'article.
 
@@ -134,7 +134,7 @@ Le wiki s'appuie sur les contributions de la communauté d'osu!. Vous pouvez aid
 
 *Pour une liste des traductions et leur exhaustivité, voir : [osu-wiki status](https://osu.wiki/status/fr)*
 
-Le wiki d'osu! est lu par des personnes du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs dans le jeu, vous pouvez traduire les articles en anglais, ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) supportées par le wiki d'osu!, et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#content-parity). Si vous parlez couramment et que vous êtes un rédacteur expérimenté, attaquez-vous à des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). Si vous n'en êtes qu'au début de votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils d'évaluateurs natifs.
+Le wiki d'osu! est lu par des personnes du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs dans le jeu, vous pouvez traduire les articles en anglais, ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#localisations) supportées par le wiki d'osu!, et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous parlez couramment et que vous êtes un rédacteur expérimenté, attaquez-vous à des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). Si vous n'en êtes qu'au début de votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils d'évaluateurs natifs.
 
 Une traduction peut être merge sans être reviewée par un natif s'il s'est écoulé plus d'une semaine depuis la date de création de la traduction.
 
@@ -146,7 +146,7 @@ Certains articles du wiki d'osu! sont incomplets et manquent d'informations. Ces
 
 ### Inter-connexion
 
-L'une des principales caractéristiques de tout wiki est la *connectivité*, c'est-à-dire que les articles renvoient à des pages connexes, ce qui aide le lecteur à rester dans le flux. Pour relier les articles, ajoutez des liens vers les termes mentionnés lorsqu'ils sont importants pour une meilleure compréhension du sujet. Créez des liens vers des sections individuelles de l'article si nécessaire, et utilisez des [pages de désambiguïsation](/wiki/Article_styling_criteria/Formatting#disambiguation-articles) pour les termes généraux.
+L'une des principales caractéristiques de tout wiki est la *connectivité*, c'est-à-dire que les articles renvoient à des pages connexes, ce qui aide le lecteur à rester dans le flux. Pour relier les articles, ajoutez des liens vers les termes mentionnés lorsqu'ils sont importants pour une meilleure compréhension du sujet. Créez des liens vers des sections individuelles de l'article si nécessaire, et utilisez des [pages de désambiguïsation](/wiki/Article_styling_criteria/Formatting#articles-de-désambiguïsation) pour les termes généraux.
 
 ### Nouveaux articles
 
