@@ -8,7 +8,7 @@ tags:
 
 ![RoCup 2022 logo](img/logo.png)
 
-The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). Initially considered a standalone tournament, it has been since retroactively recognized as the 4th instalment of the [osu! Romania Tournament](/wiki/Tournaments/o!RT).
+The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). Initially considered a standalone tournament, it has since been retroactively recognized as the 4th instalment of the [osu! Romania Tournament](/wiki/Tournaments/o!RT).
 
 ## Tournament schedule
 
@@ -474,7 +474,7 @@ Tuesday, July 26, 2022:
 
 1. The qualifiers will determine the participants and the seeding order for the knockout stage.
 2. Each player will compete in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to be scheduled on other days of the week, but no later than Monday, July 18 2022, 20:00 UTC+3.
-3. Whilst in the lobby, players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
+3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
 4. The results will be sorted by **total rank**, which is the sum of a player's placings by score when compared to other players on every map in the pool. The lower the total rank, the higher placing in the qualifiers ranking. In case of a tie between multiple players on total rank, normalised average score will be used as a tiebreaker.
 
 ### Knockout stage
@@ -499,7 +499,7 @@ Tuesday, July 26, 2022:
 5. The ban order will be A-B in Round of 32/16, and A-B-B-A from Quarter Finals onwards, with "A" representing the player with the first ban.
 6. Players have 120 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in due time, the referee will use `!roll x`, where x is the number of maps that are left to be picked, to randomly choose the next map. If the same happens for a ban, that player's ban will be considered unused.
 7. For each map, after both players are ready, the referee will start a 10 second countdown with `!mp start 10` which will automatically start gameplay.
-8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game. Any subsequent disconnection or disconnects after more than 30 seconds into the map will result in a point loss unless the player who disconnected can provide proof of the final score.
+8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game. Subsequent disconnections or any disconnect which happens more than 30 seconds into the map will result in a point loss unless the player who disconnected can provide proof of the final score.
 9. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
 10. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
