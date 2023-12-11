@@ -144,8 +144,8 @@ En octobre 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) a �
 [^charts-dans-osu-14-jan]: [(Restreint) Post du forum par peppy (24/01/2014) in "So peppy's planning something chart related"](https://osu.ppy.sh/community/forums/posts/2824323)
 [^charts-cat-recrutement-14-jun]: [(Restreint) Post du forum par Loctav (16/06/2014) "\[IMPORTANT\] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
 [^charts-curaté-15-mar]: [Article de news par Loctav (18/03/2015) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
-[^charts-évisé-16-sep]: [News post by OnosakiHito (17/09/2016) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
+[^charts-évisé-16-sep]: [Article de news par OnosakiHito (17/09/2016) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
 
-[^charts-renommé-dans-spotlights]: [News post by OnosakiHito (18/03/2017) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
-[^spotlights-saisonnier]: [News post by Kurokami (01/11/2018) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
+[^charts-renommé-dans-spotlights]: [Article de news par OnosakiHito (18/03/2017) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
+[^spotlights-saisonnier]: [Article de news par Kurokami (01/11/2018) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
 [^spotlights-remanié-20-juin]: [Post du forum par Loctav (06/07/2020) "Beatmap Spotlights (Summer 2020) - Discussion Thread"](https://osu.ppy.sh/community/forums/topics/1101170)
