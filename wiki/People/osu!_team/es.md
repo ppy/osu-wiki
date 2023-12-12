@@ -1,6 +1,4 @@
 ---
-outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
-outdated_translation: true
 tags:
   - osu! staff
   - osu!staff
@@ -30,7 +28,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Responsable del proyecto y de la comunidad, divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Líder de diseño, observador residente de Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Desarrollador de osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Líder del [NAT](/wiki/People/Nomination_Assessment_Team), gerente del [Project Loved](/wiki/Community/Project_Loved), gerente de los [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Líder del [NAT](/wiki/People/Nomination_Assessment_Team), gerente del [Project Loved](/wiki/Community/Project_Loved), secretario de Venix |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizador y administrador de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgación de [artistas destacados](/wiki/People/Featured_Artists), secretario de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Desarrollador de osu!, soporte técnico |
