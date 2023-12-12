@@ -1,4 +1,4 @@
-# Score
+# Очки
 
 *чтобы узнать о других значениях, см. [Score (значения)](/wiki/Disambiguation/Score).*
 
