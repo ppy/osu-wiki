@@ -20,15 +20,15 @@ In order to better organize ourselves and give users some time to adapt, the NAT
 
 ### Within the Ranked section
 
-#### Blocking Qualified maps with pending posts: 
+#### Blocking Qualified maps with pending posts
 
-Beatmaps with open suggestions or problems in the discussion board will **not** be able to be Ranked, and the timer will not stop until the posts are either closed or the map gets disqualified to address the points made
+Beatmaps with open suggestions or problems in the discussion board will **not** be able to be Ranked, and the timer will not stop until the posts are either closed or the map gets disqualified to address the points made.
 
-#### Join the RC cleanup project:
+#### Join the RC cleanup project
 
 There's currently a community-driven [Ranking Criteria cleanup project](https://osu.ppy.sh/community/forums/topics/1836226?n=1) in the works. If you believe you can contribute something to it, we encourage to give it a shot to help the team out!
 
-#### Ranking Criteria changes:
+#### Ranking Criteria changes
 
 - **General:** Changes on how the `Featured Artist` tag should be used, and a special mention on how to credit AI generated media in the beatmap's description.
 - **osu!:** Clarification on how to use hitsounds on actively clicked parts of objects.
@@ -38,27 +38,27 @@ There's currently a community-driven [Ranking Criteria cleanup project](https://
 
 ### Within the Beatmap Nominators
 
-#### BN activity changes:
+#### BN activity changes
 
 Beatmap Nominators rejoining in good terms are now expected to nominate their mode's [minimum activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements) in the first 30 days since their rejoin. Make sure to be able to reach it when asking to join back into the team!
 
-#### Joining & rejoining:
+#### Joining & rejoining
 
 All modes will now require 150 kudosu to be able to apply, bringing osu!'s requirement in line with the other modes. Moreover, Beatmap Nominators leaving in good terms can rejoin the team instantly **up to one year** after their departure! Members who got kicked for their low activity however, will now be able to submit a new application right after their departure.
 
 Finally, cooldowns for failed applications have been reduced all across the board! The standard length will be 60 days, with reduced cooldowns being only 30 days now. Failing an application will not be as punishing as it used to be, so don't be afraid to [apply to the team today](https://bn.mappersguild.com/bnapps)!
 
-#### Brand new website features:
+#### Brand new website features
 
 Beatmap Nominators can now set their map and song preferences in the [BN website](https://bn.mappersguild.com/home) in a much more detailed way. This will make it easier for users to know who to request a map from by parsing through the list of open members and their respective preferences. 
 
 ### Within the Nomination Assessment Team
 
-#### Evaluation changes:
+#### Evaluation changes
 
 Activity evaluations will (mostly) be automated. The consensus and feedback will be set automatically, but these will still need an Evaluator to check them before they can be sent. Additionally, Evaluators are no longer able to extend a Beatmap Nominator's evaluation cycle past 3 months.
 
-#### The Impact of our actions:
+#### The Impact of our actions
 
 To put it shortly, SEV values are no more — yippe! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid Evaluators when assessing the significance of a disqualification or nomination reset.
 
