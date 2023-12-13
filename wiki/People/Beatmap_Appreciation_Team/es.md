@@ -4,7 +4,7 @@ tags:
   - BAT
   - Beatmap Appreciators
   - Beatmap Approval Team
-  - apreciadores de beatmaps
+  - apreciadores
 ---
 
 # Beatmap Appreciation Team
