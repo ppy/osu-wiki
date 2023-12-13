@@ -40,9 +40,11 @@ There's currently a community-driven [Ranking Criteria cleanup project](https://
 
 ### Within the Beatmap Nominators
 
-#### BN rejoin activity requirements
+#### Changes to activity requirements
 
 Beatmap Nominators rejoining in good terms are now expected to nominate their mode's [minimum activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements) in the first 30 days since their rejoin. Make sure to take this into consideration before asking to join back into the team!
+
+Additionally, we've decided to remove the probation-specific activity requirements and allow NAT members again to apply their own judgment when deciding if a BN needs to have their probation extended for the lack of enough nominations to evaluate. Do note that the regular minimum activity requirements still apply!
 
 #### Joining & rejoining
 
@@ -50,7 +52,7 @@ All modes will now require **150 [kudosu!](/wiki/Modding/Kudosu)** to be able to
 
 Finally, cooldowns for failed applications have been reduced all across the board! The standard length is now reduced from 90 days to **60 days**, with reduced cooldowns being only **30 days** now. Failing an application will not be as punishing as it used to be, so don't be afraid to [apply to join the Beatmap Nominators today](https://bn.mappersguild.com/bnapps)!
 
-#### Better accessibility to BN preferences
+#### Better visibility for BN preferences
 
 Beatmap Nominators can now set their map and song preferences in the [BN Management website](https://bn.mappersguild.com), alongside their custom request criteria in a much more detailed way. This will make it easier for users to know who to request a map from by parsing through the list of open members and their respective preferences.
 
@@ -70,7 +72,7 @@ To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rat
 
 These will be measured by their **Impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the low SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
 
-This change should help BNs not to stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
+This change should hopefully help BNs not to stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
 
 ## Milestones
 
