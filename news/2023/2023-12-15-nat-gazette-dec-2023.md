@@ -40,25 +40,31 @@ There's currently a community-driven [Ranking Criteria cleanup project](https://
 
 #### BN activity changes:
 
-The changes in activity
+Beatmap Nominators rejoining in good terms are now expected to nominate their mode's [minimum activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements) in the first 30 days since their rejoin. Make sure to be able to reach it when asking to join back into the team!
 
 #### Joining & rejoining:
 
-Global 150 kudos requirement + lowered cooldowns + 1 year to be elligible to rejoin in good terms
+All modes will now require 150 kudosu to be able to apply, bringing osu!'s requirement in line with the other modes. Moreover, Beatmap Nominators leaving in good terms can rejoin the team instantly **up to one year** after their departure! Members who got kicked for their low activity however, will now be able to submit a new application right after their departure.
+
+Finally, cooldowns for failed applications have been reduced all across the board! The standard length will be 60 days, with reduced cooldowns being only 30 days now. Failing an application will not be as punishing as it used to be, so don't be afraid to [apply to the team today](https://bn.mappersguild.com/bnapps)!
 
 #### Brand new website features:
 
-BN can set preferences on the website
+Beatmap Nominators can now set their map and song preferences in the [BN website](https://bn.mappersguild.com/home) in a much more detailed way. This will make it easier for users to know who to request a map from by parsing through the list of open members and their respective preferences. 
 
 ### Within the Nomination Assessment Team
 
 #### Evaluation changes:
 
-Eval changes (Activity + no 6 month)
+Activity evaluations will (mostly) be automated. The consensus and feedback will be set automatically, but these will still need an Evaluator to check them before they can be sent. Additionally, Evaluators are no longer able to extend a Beatmap Nominator's evaluation cycle past 3 months.
 
 #### The Impact of our actions:
 
-SEV changes
+To put it shortly, SEV values are no more — yippe! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid Evaluators when assessing the significance of a disqualification or nomination reset.
+
+These will be measured by their **Impact**. A DQ can either be *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above should be considered *Notable*, whereas anything below should be considered *Minor*.
+
+This change should help BNs not to stress too much over arbitrary numbers, and help Evaluators assess DQs by their importance and not just by the accumulation of severity alone.
 
 ## Milestones
 
