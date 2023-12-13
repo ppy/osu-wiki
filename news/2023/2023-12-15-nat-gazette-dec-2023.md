@@ -16,15 +16,19 @@ Without further ado, let's get to the nitty-gritty of this month's series of upd
 
 ## Updates
 
-In order to better organize ourselves and give some time to adapt, the NAT has opted to deploy updates in batches. Once enough meaningful changes have been discussed, these will be officially updated in one fell swoop. The Gazette will try to follow this sporadic update schedule likewise.
+In order to better organize ourselves and give users some time to adapt, the NAT has opted to deploy updates in batches. Once enough changes have been discussed and approved, these will be merged in one fell swoop. The Gazette will try to keep up with this sporadic update schedule.
 
 ### Within the Ranked section
 
-**Blocking Qualified maps with pending posts:** Beatmaps with open suggestions or problems in the discussion board will **not** be able to be Ranked, and the timer will not stop until the posts are either closed or the map gets disqualified to address the points made
+#### Blocking Qualified maps with pending posts: 
 
-**Join the RC cleanup project:** There's currently a community-driven [Ranking Criteria cleanup project](https://osu.ppy.sh/community/forums/topics/1836226?n=1) in the works. If you believe you can contribute something to it, we encourage to give it a shot to help the team out!
+Beatmaps with open suggestions or problems in the discussion board will **not** be able to be Ranked, and the timer will not stop until the posts are either closed or the map gets disqualified to address the points made
 
-**Ranking Criteria changes**
+#### Join the RC cleanup project:
+
+There's currently a community-driven [Ranking Criteria cleanup project](https://osu.ppy.sh/community/forums/topics/1836226?n=1) in the works. If you believe you can contribute something to it, we encourage to give it a shot to help the team out!
+
+#### Ranking Criteria changes:
 
 - **General:** Changes on how the `Featured Artist` tag should be used, and a special mention on how to credit AI generated media in the beatmap's description.
 - **osu!:** Clarification on how to use hitsounds on actively clicked parts of objects.
@@ -33,27 +37,47 @@ In order to better organize ourselves and give some time to adapt, the NAT has o
 - **osu!mania:** Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu%21mania_10K_plus_playstyles).
 
 ### Within the Beatmap Nominators
-- Activity changes
-- Join changes (Rejoin + 150 kudos requirement + Cooldowns)
-- BN Request website feature (?)
+
+#### BN activity changes:
+
+The changes in activity
+
+#### Joining & rejoining:
+
+Global 150 kudos requirement + lowered cooldowns + 1 year to be elligible to rejoin in good terms
+
+#### Brand new website features:
+
+BN can set preferences on the website
 
 ### Within the Nomination Assessment Team
-- Eval changes (Activity + no 6 month)
-- SEV changes (Think it fits here more than the BN part as BNs don't have to deal with it any longer)
+
+#### Evaluation changes:
+
+Eval changes (Activity + no 6 month)
+
+#### The Impact of our actions:
+
+SEV changes
 
 ## Milestones
-Milestones reached by BNs/NAT members in the past 3-6 months.
-- Tenure badges
-- Nomination milestones
-- BN additions and promotions to Full BN (?)
-- Promotions to the NAT (?)
 
-## Stats
-Fancy stats from the past 3 months. Potentially with graphs?
-- Total noms/DQs per mode
+### Badges
+
+Users who got a tenure or nomination badge
+
+### Additions & promotions
+
+New additions to the BN team and recent promotions
+
+### Nomination stats
+
+Total noms/DQs per mode
 
 ---
 
-Outro paragraph
+We hope this has been informative! We'd like to know your opinion on both the changes and the Gazette as a means to connect with the community. Furthermore, we'll be more than happy to answer any and all questions you may have. The more we can interact with the community, the better!
+
+Until next time. We hope you've enjoyed today's "patch notes".
 
 —Hivie & RandomeLoL
