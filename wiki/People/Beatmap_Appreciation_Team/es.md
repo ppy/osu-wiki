@@ -4,12 +4,12 @@ tags:
   - BAT
   - Beatmap Appreciators
   - Beatmap Approval Team
-  - Apreciadores de Beatmaps
+  - apreciadores de beatmaps
 ---
 
 # Beatmap Appreciation Team
 
-El **Beatmap Appreciation Team** (***BAT***, anteriormente conocido como *Beatmap Approval Team*) era un grupo responsable de supervisar los procesos de [clasificación y descalificación](/wiki/Beatmap_ranking_procedure) de los beatmaps en el sistema del [foro de modding](/wiki/Modding/Forum_modding). Los miembros del BAT también poseían herramientas básicas para la moderación en el juego y en los foros usadas por el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*).
+El **Beatmap Appreciation Team** (***BAT***, anteriormente conocido como *Beatmap Approval Team*) era un grupo responsable de supervisar los procesos de [clasificación y descalificación](/wiki/Beatmap_ranking_procedure) de los beatmaps en el sistema de [modding en el foro](/wiki/Modding/Forum_modding). Los miembros del BAT también poseían herramientas básicas para la moderación en el juego y en los foros usadas por el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*).
 
 Junto con el [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*) hasta que los dos se fusionaron en abril de 2013, el BAT era responsable de evaluar la calidad de los [beatmaps](/wiki/Beatmap) y decidir qué contenido llegaba a la sección [clasificado](/wiki/Beatmap/Category#ranked).
 
