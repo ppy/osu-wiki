@@ -147,7 +147,6 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 - In the Round of 24 and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
-
   - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
 
 ### Match instructions
