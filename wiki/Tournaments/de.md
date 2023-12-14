@@ -83,6 +83,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Philippinen | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
