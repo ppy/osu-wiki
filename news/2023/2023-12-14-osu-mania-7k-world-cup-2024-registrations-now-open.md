@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! mania 7K World Cup 2024: Registrations Now Open!"
+title: "osu!mania 7K World Cup 2024: Registrations Now Open!"
 date: 2023-12-14 15:00:00 +0000
 ---
 
