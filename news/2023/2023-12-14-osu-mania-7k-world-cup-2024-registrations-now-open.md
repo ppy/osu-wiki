@@ -8,13 +8,13 @@ Winter season has arrived, and so has the first 2024 osu! World Cup, but this ti
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-After witnessing the amazing close to the 2023 tournament season with the osu! World Cup (for which we have an awesome recap that you can read [here](https://osu.ppy.sh/home/news/2023-12-10-osu-world-cup-2023-concludes), if you didn't already), it's time to kick off 2024 with key smashing of the 7 key variety.
+After witnessing the amazing close to the 2023 tournament season with the osu! World Cup (for which we have an awesome recap that you can read [here](https://osu.ppy.sh/home/news/2023-12-10-osu-world-cup-2023-concludes), if you didn't already), it's time to kick off 2024 with key smashing of the 7-key variety.
 
 Seeing the amazing player turnout for last year's 7K MWC, we have decided to expand the tournament format to have **24 teams** going out of the qualifier stage instead of the usual 16. This means that the tournament will have one extra week (which also makes it have the same duration as the other World Cups), and that the top 8 teams from the bracket get one week off after the qualifiers in the form of a bye.
 
 The new stage will look like so:
 
-![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.svg)
+![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.png)
 
 That's not all as far as changes go. 7K MWC will use the 2023's 4K MWC protects for the ban phase, giving teams an extra layer of strategy to play with.
 
@@ -36,7 +36,7 @@ As always, for more details pertaining to the tournament, refer to the **[osu!ma
 
 ## Prizes
 
-The osu!mania 7K World Cup 2024 offers a $1,200 prize pool, along with limited edition merch!
+The osu!mania 7K World Cup 2024 offers a $1,200 prize pool, along with limited-edition merch!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!mania 7K Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge

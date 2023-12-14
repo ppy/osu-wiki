@@ -28,7 +28,7 @@ The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2024 offers a minimum $1,200 cash prize pool and limited edition merch.
+The osu!mania 7K World Cup 2024 offers a minimum $1,200 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -137,9 +137,9 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Semifinals.
-3. The Top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
+3. The top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
 
-![](img/mwc7k2024-bracket.svg)
+![](img/mwc7k2024-bracket.png)
 
 ### Win conditions
 
@@ -189,7 +189,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
-   - **A team that doesn't pick a time slot by January 10, 23:59 UTC will be considered disqualified.**
+   - **A team that does not pick a time slot by January 10, 23:59 UTC will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
