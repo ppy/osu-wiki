@@ -25,7 +25,7 @@ As always, for more details pertaining to the tournament, refer to the **[osu!ma
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | Dec 15 (00:00 UTC) – Dec 28 (23:59 UTC) |
-| Qualifier showcase | Jan 8 (14:00 UTC) |
+| Qualifier showcase | Jan 7 (14:00 UTC) |
 | Qualifier stage | Jan 13 & Jan 14 |
 | Round of 24 | Jan 20 & Jan 21 |
 | Round of 16 | Jan 27 & Jan 28 |
