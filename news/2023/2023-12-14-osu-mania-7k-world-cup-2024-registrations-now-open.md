@@ -16,6 +16,8 @@ The new stage will look like so:
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.svg)
 
+That's not all as far as changes go. 7K MWC will use the 2023's 4K MWC protects for the ban phase, giving teams an extra layer of strategy to play with.
+
 As always, for more details pertaining to the tournament, refer to the **[osu!mania 7K World Cup 2024 wiki article](/wiki/Tournaments/MWC/2024_7K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
