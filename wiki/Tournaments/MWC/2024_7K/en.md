@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 7K World Cup 2024
 
-![MWC 7K 2024 banner](img/mwc7k-2024-banner.jpg)
+![MWC 7K 2024 banner](img/mwc7k2024-banner.jpg)
 
 The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the eighth instalment of the osu!mania 7K World Cup.
 
@@ -16,7 +16,7 @@ The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-12-14 (10:00 UTC)/2023-12-28 (23:59 UTC) |
+| Registration phase | 2023-12-15 (00:00 UTC)/2023-12-28 (23:59 UTC) |
 | Qualifier showcase | 2024-01-07 (14:00 UTC) |
 | Qualifier stage | 2024-01-13/2024-01-14 |
 | Round of 24 | 2024-01-20/2024-01-21 |
@@ -54,14 +54,14 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/42)**
 - [Livestream](https://www.twitch.tv/osulive)
-- [Discussion thread]({DISC_THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
 
 ## Ruleset
 
 ### Tournament rules
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode (7K variant).
-   - Players from countries or territories (as seen on their profile flag) that are under a protectorate, sovereign state, or otherwise closely related to another country may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
+   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria adopted. Players that have participated under another country previously may continue to do so.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 2 players, and the maximum is 4.
 4. The beatmap list for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
@@ -96,7 +96,9 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
     - Disqualification from the current and future official tournaments, until appealed.
 16. Referees may allow, at their discretion, lower or higher tolerances for timers.
 17. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-18. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+18. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
+19. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
+20. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -135,7 +137,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Semifinals.
-3. The Top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Rounf of 16 instead.
+3. The Top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
 
 ![](img/mwc7k2024-bracket.svg)
 
