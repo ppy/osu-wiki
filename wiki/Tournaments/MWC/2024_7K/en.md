@@ -48,7 +48,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=US }:: [Alter\-](https://osu.ppy.sh/users/4980256), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Mapper | *TBA* |
 | Commentator | *TBA* |
-| Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 
 ## Links
 
