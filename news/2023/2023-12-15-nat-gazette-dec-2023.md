@@ -76,7 +76,7 @@ This change should hopefully help BNs not to stress too much over arbitrary numb
 
 ## Milestones
 
-Let's take a short breather from all the news above and go through some fun milestones and stats gathered from the past 4 months!
+Let's take a short breather from all the news above and go through some fun milestones gathered from the past 4 months!
 
 ### Badges
 
@@ -97,14 +97,6 @@ The following users has devoted some immense dedication to their craft and have 
 | ![200 Nominations Badge](https://assets.ppy.sh/profile-badges/noms200.png "Nominated 200+ beatmaps as a Beatmap Nominator") | [Beomsan](https://osu.ppy.sh/users/3626063), [gzdongsheng](https://osu.ppy.sh/users/8660315), [moonpoint](https://osu.ppy.sh/users/9558549), [neonat](https://osu.ppy.sh/users/1561995), [nexusqi](https://osu.ppy.sh/users/13822800), [Okoratu](https://osu.ppy.sh/users/1623405), [Syrion-](https://osu.ppy.sh/users/15380643), [StarCastler](https://osu.ppy.sh/users/12402453), [tomatas95](https://osu.ppy.sh/users/11403815), [zerokt](https://osu.ppy.sh/users/13776127) |
 | ![400 Nominations Badge](https://assets.ppy.sh/profile-badges/noms400.png "Nominated 400+ beatmaps as a Beatmap Nominator") | [meiqth](https://osu.ppy.sh/users/12565402) |
 | ![800 Nominations Badge](https://assets.ppy.sh/profile-badges/noms800.png "Nominated 800+ beatmaps as a Beatmap Nominator") | [Lasse](https://osu.ppy.sh/users/896613) |
-
-### Additions & promotions
-
-New additions to the BN team and recent promotions
-
-### Nomination stats
-
-Total noms/DQs per mode
 
 ---
 
