@@ -67,8 +67,8 @@ Think you have what it takes to be showcased like the mappers above? This month'
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](LINK)
-- [osu!catch contest listing](LINK)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/192)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/193)
 
 If you'd rather map for another mode, wait 'til January!
 
@@ -149,8 +149,8 @@ Got all that? Probably not, but feel free to re-read it while you develop your u
 
 Whenever you're ready, head down to one of these:
 
-- [osu!taiko contest listing](LINK)
-- [osu!catch contest listing](LINK)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/192)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/193)
 
 You have until **January 4th** to submit your entry!
 
