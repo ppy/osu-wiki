@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: December 2023"
-date: 2023-12-15 05:45:00 +0000
+date: 2023-12-15 06:00:00 +0000
 ---
 
 Everyone knows that the best place to spend a holiday break is in the editor. The Monthly Beatmapping Contest is here to provide yet another reason for you to do that!
@@ -35,7 +35,9 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
 
 #### Top 10
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LTeAjoogLWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LTeAjoogLWw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Special thanks to [cdh](https://osu.ppy.sh/users/2403621), [HomieLove](https://osu.ppy.sh/users/8693851), [Yasuho](https://osu.ppy.sh/users/8458835), and [arcpotato](https://osu.ppy.sh/users/12842392) for judging this contest!
 
@@ -55,7 +57,9 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
 
 #### Top 10
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/inp3UmDQlTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/inp3UmDQlTs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Special thanks to [fayew](https://osu.ppy.sh/users/12498861), [GiGas](https://osu.ppy.sh/users/7300747), [Dapulezatos](https://osu.ppy.sh/users/8140944), and [Chatie](https://osu.ppy.sh/users/6524765) for judging this contest!
 
