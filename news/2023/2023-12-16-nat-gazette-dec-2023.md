@@ -36,7 +36,7 @@ There's currently a community-driven [Ranking Criteria cleanup project](https://
 - **osu!:** Clarification on how to use hitsounds on actively clicked parts of objects.
 - **osu!taiko:** Relaxed the rest moment guideline for Kantan and Futsuu difficulties from 16/1—20/1 to 32/1—36/1.
 - **osu!catch:** Changed the CS and HP guidelines for Rain and Overdose difficulties respectively, and an extra guideline on how to use higher-snapped hyperdashes was added.
-- **osu!mania:** Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu%21mania_10K_plus_playstyles).
+- **osu!mania:** Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 
 ### Within the Beatmap Nominators
 
@@ -58,7 +58,7 @@ Beatmap Nominators can now set their map and song preferences in the [BN Managem
 
 Simply click on any user in the [home page](https://bn.mappersguild.com/home) to see their detailed request preferences as seen below:
 
-![BN request info](/wiki/shared/news/2023-12-16-nat-gazette-dec-2023/request.jpg)
+![BN request info](/wiki/shared/news/2023-12-16-nat-gazette-dec-2023/request.png)
 
 ### Within the Nomination Assessment Team
 
