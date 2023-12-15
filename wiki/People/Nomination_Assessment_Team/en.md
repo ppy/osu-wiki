@@ -39,7 +39,7 @@ NAT members assigned to the structural category are not responsible for any spec
 - **Miscellaneous maintenance**: Included but not limited to:
   - Handling [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Maintaining the [RC Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
-  - Judging nomination reset impacts[^impact-rating].
+  - Judging impact of nomination resets.[^impact-rating]
 
 NAT members who are primarily handling this category make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Users belonging to this category are made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
 

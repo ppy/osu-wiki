@@ -104,5 +104,5 @@ If you were a Beatmap Nominator before, the following requirements apply unless 
 
 ## Notes
 
-[^good-terms]: After 1 year has passed since a Beatmap Nominator's good term resignation, it will treated as standard terms.
-[^activity-terms]: Applicant will have to provide 3 mods in their applications, instead of at least 2.
+[^good-terms]: A Beatmap Nominator who resigned on good terms will be treated with standard terms after 1 year.
+[^activity-terms]: Applicants will have to provide 3 mods in applications, instead of at least 2.
