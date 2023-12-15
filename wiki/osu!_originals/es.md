@@ -165,26 +165,26 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [A.SAKA - KAGUTSUCHI](https://www.youtube.com/watch?v=dHOV_0KRB_E)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2091775) | Final NM1 |
-| [Aoi - Quartzshaper](https://www.youtube.com/watch?v=5BeUsn-c0hA)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2091789) | Final HR3 |
-| [BilliumMoto - Amethyst Aurora](https://soundcloud.com/billiummoto/amethyst-aurora)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095140) | Gran final NM5 |
-| [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | Dieciseisavos de final HD1 |
-| [Down - Kizan](https://www.youtube.com/watch?v=DbTE0qJw5Vw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085347) | Desempate de cuartos de final |
-| [Kommisar - AKARI BEAM CANNON LAST BOSS](https://soundcloud.com/kommisar/osu-world-cup-2023-grand-finals-fm2-akari-beam-cannon-last-boss)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095159) | Gran final FM2 |
-| Lime - Pixel Planet[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095123) | Gran final NM2 |
-| [litmus\* vs Ester - Requiem for the Aura](https://soundcloud.com/litmus_star/requiem-for-the-aura-litmus-vs-ester)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095119) | Gran final HD3 |
-| LV.4 - Burning Star[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095154) | Gran final HR3 |
-| [MYUKKE. - Mach Roger](https://soundcloud.com/myukke/mach-roger-from-osu-world-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | Cuartos de final NM4 |
-| [orangentle / Yu_Asahina - OEFHEBEN](https://www.youtube.com/watch?v=yYcLNJ62-WI)[^fa] | [#1](https://www.youtube.com/watch?v=yYcLNJ62-WI) | Final NM2 |
-| polysha - Endverse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2088576) | Desempate de las semifinales |
-| [Release Hallucination - VANITAS](https://www.youtube.com/watch?v=psStEJJB818)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095177) | Gran final tiebreaker |
-| [Rohi - Gllensista](https://www.youtube.com/watch?v=EC0sBNEl7SA)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2091797) | Final FM2 |
-| seleP feat. Lily - Sara[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2088549) | Semifinales NM3 |
-| Sorry about my face - The last straw | [#1](https://osu.ppy.sh/beatmapsets/2088563) | Semifinales HD3 |
-| [Sound Piercer "ESPITZ" - NOVO HORIZONTE](https://soundcloud.com/espitz/novo-horizonte)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2091818) | Final FM3 |
-| [Sydosys - Wandered](https://soundcloud.com/sydosys/wandered) | [#1](https://osu.ppy.sh/beatmapsets/2085296) | Cuartos de final NM3 |
-| Toromaru - Ebb Tide[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | Octavos de final FM1 |
-| [ZxNX - Fana](https://soundcloud.com/zxnx/everythinginthisworldwilleventuallydieandperished) | [#1](https://osu.ppy.sh/beatmapsets/2095138) | Gran final NM4 |
+| [A.SAKA - KAGUTSUCHI](https://www.youtube.com/watch?v=dHOV_0KRB_E)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2091775) | Final NM1 |
+| [Aoi - Quartzshaper](https://www.youtube.com/watch?v=5BeUsn-c0hA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2091789) | Final HR3 |
+| [BilliumMoto - Amethyst Aurora](https://soundcloud.com/billiummoto/amethyst-aurora)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095140) | Gran final NM5 |
+| [cygnus - Darkness Parade](https://www.youtube.com/watch?v=MuBkBLbcocU)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2078577) | Dieciseisavos de final HD1 |
+| [Down - Kizan](https://www.youtube.com/watch?v=DbTE0qJw5Vw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2085347) | Desempate de cuartos de final |
+| [Kommisar - AKARI BEAM CANNON LAST BOSS](https://soundcloud.com/kommisar/osu-world-cup-2023-grand-finals-fm2-akari-beam-cannon-last-boss)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095159) | Gran final FM2 |
+| [Lime - Pixel Planet](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Lime&query=Pixel%20Planet)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095123) | Gran final NM2 |
+| [litmus\* vs Ester - Requiem for the Aura](https://soundcloud.com/litmus_star/requiem-for-the-aura-litmus-vs-ester)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095119) | Gran final HD3 |
+| [LV.4 - Burning Star](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Burning%20Star)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095154) | Gran final HR3 |
+| [MYUKKE. - Mach Roger](https://soundcloud.com/myukke/mach-roger-from-osu-world-cup-2023)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2085335) | Cuartos de final NM4 |
+| [orangentle / Yu_Asahina - OEFHEBEN](https://www.youtube.com/watch?v=yYcLNJ62-WI)[^fa-catalogue] | [#1](https://www.youtube.com/watch?v=yYcLNJ62-WI) | Final NM2 |
+| [polysha - Endverse](https://osu.ppy.sh/beatmaps/artists/tracks?artist=polysha&query=Endverse)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2088576) | Desempate de las semifinales |
+| [Release Hallucination - VANITAS](https://www.youtube.com/watch?v=psStEJJB818)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095177) | Gran final tiebreaker |
+| [Rohi - Gllensista](https://www.youtube.com/watch?v=EC0sBNEl7SA)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2091797) | Final FM2 |
+| [seleP feat. Lily - Sara](https://www.youtube.com/watch?v=NiAblJoN4Aw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2088549) | Semifinales NM3 |
+| [Sorry about my face - The last straw](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sorry%20about%20my%20face&query=The%20last%20straw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2088563) | Semifinales HD3 |
+| [Sound Piercer "ESPITZ" - NOVO HORIZONTE](https://soundcloud.com/espitz/novo-horizonte)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2091818) | Final FM3 |
+| [Sydosys - Wandered](https://soundcloud.com/sydosys/wandered)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2085296) | Cuartos de final NM3 |
+| [Toromaru - Ebb Tide](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Ebb%20Tide)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2082040) | Octavos de final FM1 |
+| [ZxNX - Fana](https://soundcloud.com/zxnx/everythinginthisworldwilleventuallydieandperished)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2095138) | Gran final NM4 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
