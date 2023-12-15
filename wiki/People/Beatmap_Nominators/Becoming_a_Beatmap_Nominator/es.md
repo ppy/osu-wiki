@@ -10,7 +10,7 @@ Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/K
 
 Los modders que deseen postularse para los Beatmap Nominators deben cumplir con los siguientes criterios:
 
-- Han acumulado al menos 200 [kudosu](/wiki/Modding/Kudosu) para modders de [osu!](/wiki/Game_mode/osu!), o 150 [kudosu](/wiki/Modding/Kudosu) para modders de [osu!taiko](/wiki/Game_mode/osu!taiko)/[osu!catch](/wiki/Game_mode/osu!catch)/[osu!mania](/wiki/Game_mode/osu!mania).
+- Han acumulado al menos 150 [kudosu](/wiki/Modding/Kudosu).
 - Proporcionan 3 de sus mods que creen que los calificarían para ser parte de los Beatmap Nominators.
   - Los miembros anteriores del BN/NAT pueden enviar un mínimo de 2 mods para su solicitud.
 
@@ -82,30 +82,27 @@ Dependiendo de tu estado, el tiempo de espera antes de que puedas volver a aplic
 
 ### Solicitudes fallidas
 
-Tienes estos requisitos si no pasaste una solicitud para Beatmap Nominator y vuelves a presentar la solicitud.
+Si fallaste en una solicitud para Beatmap Nominator, estarás sujeto a uno de los siguientes tiempos de espera antes de que puedas volver a postularte:
 
-| Tipo | Tiempo de espera |
-| :-- | :-- |
-| Estándar | 90 días |
-| Reducido | 45–60 días |
-| Falló la [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 días |
-
-El tiempo de espera puede reducirse para los solicitantes con relativamente pocos problemas en los que deban trabajar antes de convertirse en Beatmap Nominator.
+| Tipo | Tiempo de espera | Uso |
+| :-- | :-- | :-- |
+| Reducido | 30 días | Solicitudes con relativamente pocos problemas, o fallar la [prueba para Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) |
+| Estándar | 60 días | Falla normal |
+| Extendido | 120 días | Solicitantes con problemas graves de conducta |
 
 ### Volver a unirse después de haber sido eliminado de los Beatmap Nominators
 
-Los usuarios que abandonaron recientemente los Beatmap Nominators pueden tener diferentes requisitos para volver a unirse en comparación con cuando se unieron por primera vez. Para los usuarios que han tenido un buen desempeño antes de irse, es posible que puedan volver a unirse con requisitos relajados o sin ningún requisito. El NAT informará al usuario si tiene la oportunidad de acelerar su camino de regreso a los Beatmap Nominators.
+Los usuarios que abandonaron recientemente los Beatmap Nominators pueden tener diferentes requisitos para volver a unirse en comparación con cuando se unieron por primera vez. Los usuarios que hayan tenido un buen desempeño antes de irse, podrán volver a unirse sin ningún requisito durante un periodo de tiempo. El NAT informará al usuario si tiene la oportunidad de acelerar su camino de regreso a los Beatmap Nominators.
 
-Si antes eras un Beatmap Nominator, estos requisitos se aplican a menos que hayas fallado una solicitud desde la última vez que fuiste Beatmap Nominator.
+Si antes eras un Beatmap Nominator, se aplican los siguientes requisitos, a menos que hayas reprobado una solicitud desde la última vez que fuiste Beatmap Nominator:
 
-| Tipo | Tiempo de espera | Requisitos de actividad |
+| Tipo | Tiempo de espera | Proceso de solicitud |
 | :-- | :-- | :-- |
-| Estándar | 60 días | *Ninguno* |
-| Actividad | 30 días | 8 mods en 60 días |
-| Buena | 30 días | *Ninguno* |
+| Bueno | *Ninguno* | *Ninguno*[^good-terms] |
+| Estándar | 60 días | Normal |
+| Actividad | *Ninguno* | Normal[^activity-terms] |
 
-El requisito de 8 mods para aquellos que solicitan después de ser eliminados por actividad se comparte en todos los modos.
+## Notas
 
-Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros completos, sin tener que realizar la [prueba para Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
-
-Los antiguos Beatmap Nominators que renunciaron en buenos términos durante el año pasado todavía tienen que volver a presentar la solicitud correctamente para volver a unirse, y se convertirán en miembros completos inmediatamente después de ser aceptados.
+[^good-terms]: Un Beatmap Nominator que renunció en buenos términos será tratado con términos estándar después de 1 año.
+[^activity-terms]: Los solicitantes deberán proporcionar 3 mods en las solicitudes, en lugar de al menos 2.
