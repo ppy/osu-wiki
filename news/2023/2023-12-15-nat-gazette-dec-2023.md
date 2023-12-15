@@ -82,6 +82,8 @@ Let's take a short breather from all the news above and go through some fun mile
 
 The following users has devoted some immense dedication to their craft and have had their efforts recogrnised through some shiny badges, and we're very thankful for their dedication and drive to help keep osu! awesome, either through nominating beatmaps, or administring the mapping ecosystem.
 
+<!-- latest badge update: _Stan-->
+
 | Badge | User |
 | :-- | :-- |
 | ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 Year") | [Al-Reina](https://osu.ppy.sh/users/7037423), [Antalf](https://osu.ppy.sh/users/8793773), [fvrex](https://osu.ppy.sh/users/11863699), [Ilham](https://osu.ppy.sh/users/3057154), [-Mikan](https://osu.ppy.sh/users/9063995), [Natsuko](https://osu.ppy.sh/users/8266817), [op45667](https://osu.ppy.sh/users/21973491), [secXcscX](https://osu.ppy.sh/users/13543418), [Syadow-](https://osu.ppy.sh/users/3484485), [Tailsdk](https://osu.ppy.sh/users/6751666), [zekk](https://osu.ppy.sh/users/9704802) |
