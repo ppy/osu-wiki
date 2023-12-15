@@ -54,7 +54,7 @@ Finally, cooldowns for failed applications have been reduced all across the boar
 
 #### Better visibility for BN preferences
 
-Beatmap Nominators can now set their map and song preferences in the [BN Management website](https://bn.mappersguild.com), alongside their custom request criteria in a much more detailed way. This will make it easier for users to know who to request a map from by parsing through the list of open members and their respective preferences.
+Beatmap Nominators can now set their map and song preferences in the [BN Management website](https://bn.mappersguild.com), alongside their custom request criteria in a much more detailed way. This will make it easier for users to know who to request a map to by parsing through the list of open members and their respective preferences.
 
 Simply click on any user in the [home page](https://bn.mappersguild.com/home) to see their detailed request preferences as seen below:
 
@@ -68,9 +68,9 @@ Activity evaluations will (mostly) be automated. The consensus and feedback will
 
 #### The Impact of our actions
 
-To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) are no more — yippe! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid NAT members when assessing the significance of a disqualification or nomination reset.
+To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) are no more — yippee! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid NAT members when assessing the significance of a disqualification or nomination reset.
 
-These will be measured by their **Impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the low SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
+These will be measured by their **Impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the previous SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
 
 This change should hopefully help BNs not to stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
 
@@ -80,7 +80,7 @@ Let's take a short breather from all the news above and go through some fun mile
 
 ### Badges
 
-The following users has devoted some immense dedication to their craft and have had their efforts recogrnised through some shiny badges, and we're very thankful for their dedication and drive to help keep osu! awesome, either through nominating beatmaps, or administring the mapping ecosystem.
+The following users have devoted some immense dedication to their craft and have had their efforts recognized through some shiny badges. We're very thankful for their dedication and drive to help keeping osu! awesome, either through nominating beatmaps, or administering the mapping ecosystem.
 
 <!-- latest badge update: _Stan-->
 
