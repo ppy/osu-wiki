@@ -27,7 +27,7 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
 
 #### Summary
 
-Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
+| Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | 1st | [_gt](https://osu.ppy.sh/users/8301957) | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
 | 2nd | [Alchyr](https://osu.ppy.sh/users/4993032) | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
@@ -47,7 +47,7 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
 
 #### Summary
 
-Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
+| Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | 1st | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/2097061) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
 | 2nd | [wwwww](https://osu.ppy.sh/users/8434466) | [Culprate - Relucent feat. ZES](https://osu.ppy.sh/beatmapsets/2096801) | - | +1 (1 total) |
