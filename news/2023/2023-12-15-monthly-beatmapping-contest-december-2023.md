@@ -23,7 +23,7 @@ Skip to whichever section you're interested in:
 
 The osu!taiko community doesn't cut corners. All **23** submissions received in-depth reviews by a [judging panel](/wiki/Contests/Monthly_Beatmapping_Contest#judging), resulting in... what you see below!
 
-[See the full results here.](https://mappersguild.com/contests/results?contest=6542a6b6f52b26875acc4a43)
+[See the full results here.](https://mappersguild.com/contests/results?contest=6542a644f52b26875acc4a0c)
 
 #### Summary
 
@@ -45,7 +45,7 @@ Special thanks to [cdh](https://osu.ppy.sh/users/2403621), [HomieLove](https://o
 
 osu!catch followed the same format: each of the **12** submissions were reviewed by the [judging panel](/wiki/Contests/Monthly_Beatmapping_Contest#judging). Here's how it turned out.
 
-[See the full results here.](https://mappersguild.com/contests/results?contest=6542a644f52b26875acc4a0c)
+[See the full results here.](https://mappersguild.com/contests/results?contest=6542a6b6f52b26875acc4a43)
 
 #### Summary
 
