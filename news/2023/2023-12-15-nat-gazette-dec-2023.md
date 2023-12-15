@@ -76,9 +76,25 @@ This change should hopefully help BNs not to stress too much over arbitrary numb
 
 ## Milestones
 
+Let's take a short breather from all the news above and go through some fun milestones and stats gathered from the past 4 months!
+
 ### Badges
 
-Users who got a tenure or nomination badge
+The following users has devoted some immense dedication to their craft and have had their efforts recogrnised through some shiny badges, and we're very thankful for their dedication and drive to help keep osu! awesome, either through nominating beatmaps, or administring the mapping ecosystem.
+
+| Badge | User |
+| :-- | :-- |
+| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | [Al-Reina](https://osu.ppy.sh/users/7037423), [Antalf](https://osu.ppy.sh/users/8793773), [fvrex](https://osu.ppy.sh/users/11863699), [Ilham](https://osu.ppy.sh/users/3057154), [-Mikan](https://osu.ppy.sh/users/9063995), [Natsuko](https://osu.ppy.sh/users/8266817), [op45667](https://osu.ppy.sh/users/21973491), [secXcscX](https://osu.ppy.sh/users/13543418), [Syadow-](https://osu.ppy.sh/users/3484485), [Tailsdk](https://osu.ppy.sh/users/6751666), [zekk](https://osu.ppy.sh/users/9704802) |
+| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | [Ascendance](https://osu.ppy.sh/users/2931883), [Bastian](https://osu.ppy.sh/users/6345176), [Decku](https://osu.ppy.sh/users/13360768), [FuJu](https://osu.ppy.sh/users/10773882), [Gralulu](https://osu.ppy.sh/users/id), [HEAVENLY MOON](https://osu.ppy.sh/users/13681283), [Iceluin](https://osu.ppy.sh/users/3558897), [mnyui](https://osu.ppy.sh/users/14261540), [Muse Dash](https://osu.ppy.sh/users/13695676), [moonpoint](https://osu.ppy.sh/users/9558549), [Quenlla](https://osu.ppy.sh/users/4725379), [Scotty](https://osu.ppy.sh/users/11085809), [wafer](https://osu.ppy.sh/users/9416836), [Yogurtt](https://osu.ppy.sh/users/2649717) |
+| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | [-Aqua](https://osu.ppy.sh/users/7150015), [davidminh0111](https://osu.ppy.sh/users/9623142), [enneya](https://osu.ppy.sh/users/10959501), [HomieLove](https://osu.ppy.sh/users/8693851), [Luscent](https://osu.ppy.sh/users/2688581), [Murumoo](https://osu.ppy.sh/users/8001433), [Petal](https://osu.ppy.sh/users/7354729), [RiP46](https://osu.ppy.sh/users/5222596), [Secre](https://osu.ppy.sh/users/2306637), [StarCastler](https://osu.ppy.sh/users/12402453), [Terakomari](https://osu.ppy.sh/users/5312547) |
+| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | [Asherz007](https://osu.ppy.sh/users/9014047), [Faputa](https://osu.ppy.sh/users/845733), [Garden](https://osu.ppy.sh/users/2849992) |
+| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | [_Stan](https://osu.ppy.sh/users/1653229), [fieryrage](https://osu.ppy.sh/users/3533958), [Mirash](https://osu.ppy.sh/users/2841009) |
+| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | [AirinCat](https://osu.ppy.sh/users/11119539), [elicz1](https://osu.ppy.sh/users/8039342), [FuJu](https://osu.ppy.sh/users/10773882), [Hivie](https://osu.ppy.sh/users/14102976) |
+| ![NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the Nomination Assessment Team - 2 years") | [radar](https://osu.ppy.sh/users/7131099) |
+| ![NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the Nomination Assessment Team - 3 years") | [Maxus](https://osu.ppy.sh/users/4335785) |
+| ![200 Nominations Badge](https://assets.ppy.sh/profile-badges/noms200.png "Nominated 200+ beatmaps as a Beatmap Nominator") | [Beomsan](https://osu.ppy.sh/users/3626063), [gzdongsheng](https://osu.ppy.sh/users/8660315), [moonpoint](https://osu.ppy.sh/users/9558549), [neonat](https://osu.ppy.sh/users/1561995), [nexusqi](https://osu.ppy.sh/users/13822800), [Okoratu](https://osu.ppy.sh/users/1623405), [Syrion-](https://osu.ppy.sh/users/15380643), [StarCastler](https://osu.ppy.sh/users/12402453), [tomatas95](https://osu.ppy.sh/users/11403815), [zerokt](https://osu.ppy.sh/users/13776127) |
+| ![400 Nominations Badge](https://assets.ppy.sh/profile-badges/noms400.png "Nominated 400+ beatmaps as a Beatmap Nominator") | [meiqth](https://osu.ppy.sh/users/12565402) |
+| ![800 Nominations Badge](https://assets.ppy.sh/profile-badges/noms800.png "Nominated 800+ beatmaps as a Beatmap Nominator") | [Lasse](https://osu.ppy.sh/users/896613) |
 
 ### Additions & promotions
 
