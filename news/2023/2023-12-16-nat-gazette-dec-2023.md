@@ -8,7 +8,7 @@ Time is a flat circle. The QAT Gazette returns with a new look and goals! Get up
 
 ![main banner](/wiki/shared/news/2023-12-16-nat-gazette-dec-2023/banner.jpg)
 
-It's been a while since the last issue of this series of posts! So much so it had its name slightly modified. For those unfamiliar with the [Quality Assurance Team Blog](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog) and its ensuing [QAT Gazette](https://osu.ppy.sh/home/news/2017-09-07-qat-gazette-september-2017), this was one of the main ways updates to the Ranked section and its systems were announced by the hands of the [Quality Assurance Team](wiki/People/Quality_Assurance_Team).
+It's been a while since the last issue of this series of posts! So much so it had its name slightly modified. For those unfamiliar with the [Quality Assurance Team Blog](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog) and its ensuing [QAT Gazette](https://osu.ppy.sh/home/news/2017-09-07-qat-gazette-september-2017), this was one of the main ways updates to the Ranked section and its systems were announced by the hands of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team).
 
 Fast-forward five years later, the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) has decided to reinstate the Gazette with similar goals in mind — to connect with the community and issue updates on a periodic basis!
 
