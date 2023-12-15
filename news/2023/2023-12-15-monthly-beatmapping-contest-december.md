@@ -29,9 +29,9 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
 
 Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st| [_gt](https://osu.ppy.sh/users/8301957) | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
-| 2nd| [Alchyr](https://osu.ppy.sh/users/4993032) | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
- | 3rd | [Nifty](https://osu.ppy.sh/users/4956097) | [Spire - Somnambulism](https://osu.ppy.sh/beatmapsets/2101662) | - | - |
+| 1st | [_gt](https://osu.ppy.sh/users/8301957) | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
+| 2nd | [Alchyr](https://osu.ppy.sh/users/4993032) | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
+| 3rd | [Nifty](https://osu.ppy.sh/users/4956097) | [Spire - Somnambulism](https://osu.ppy.sh/beatmapsets/2101662) | - | - |
 
 #### Top 10
 
