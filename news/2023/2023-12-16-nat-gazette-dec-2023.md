@@ -66,11 +66,11 @@ Simply click on any user in the [home page](https://bn.mappersguild.com/home) to
 
 Activity evaluations will (mostly) be automated. The consensus and feedback will be set automatically, but these will still need an NAT member to check them before they can be sent. Additionally, a Beatmap Nominator's evaluation cycle can no longer be extended past 3 months.
 
-#### The Impact of our actions
+#### The impact of our actions
 
 To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) are no more! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid NAT members when assessing the significance of a disqualification or nomination reset.
 
-These will be measured by their **Impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the previous SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
+These will be measured by their **impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the previous SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
 
 This change should hopefully help BNs not stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
 
