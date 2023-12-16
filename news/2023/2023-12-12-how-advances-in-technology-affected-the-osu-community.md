@@ -10,13 +10,13 @@ Let's walk back through the past 15 years of osu!, and how various new technolog
 
 Every now and then there's a new piece of tech that's slated to change the way games are played, whether it'd be a new input device, a new way to squeeze more FPS out of your PC, or a whole new way to experience games.
 
-While the osu! community has managed to stay unswayed as things such as virtual reality/augmented reality, cloud gaming & AI advancements cropped up due to them being inapplicable to osu!, there were still some things that changed the way osu! is played, or at least changed the view of the most optimal way to play it.
+While the osu! community has managed to stay unswayed as things such as virtual reality and augmented reality, cloud gaming & AI advancements cropped up due to them being inapplicable to osu!, there were still some things that changed the way osu! is played, or at least changed the view of the most optimal way to play it.
 
 It's time to dive in and see how technology can impact the community, what the results of widespread adoption are, or could have been.
 
 ## Graphics tablets (2007)
 
-osu! originally started out as an *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* clone for PC, which was a game that was exclusive to the Nintendo DS, a console that came, and could be used with the included stylus pen. So when [peppy](https://osu.ppy.sh/users/2) released osu!, it was only natural for players who already had a graphics tablet to try out osu! with it, and since the get-go it was considered a commodity input device that would more closely replicate the original Nintendo DS experience.
+osu! originally started out as an *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* clone for PC, which was a game that was exclusive to the Nintendo DS, a console that came, and could be used with the included stylus pen. When [peppy](https://osu.ppy.sh/users/2) released osu!, it was only natural for players who already had a graphics tablet to try out osu! with it, and since the get-go it was considered a commodity input device that would more closely replicate the original Nintendo DS experience.
 
 Playing with a tablet is a completely different ball game compared to the mouse, but rather than being a direct upgrade by eliminating mouse drift with its absolute positioning, it brings up new challenges and questions regarding its ideal usage. Ideal pen grip, tablet area, dragging or hovering play styles have all been detrimental to increasing the learning curve, which is why some players choose to remain on the much more familiar and intuitive mouse.
 
