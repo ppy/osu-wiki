@@ -16,7 +16,7 @@ Les références à Discord dans cet article concernent le serveur BN Discord, d
 
 Chaque BN est examiné régulièrement par les membres de la NAT.
 
-Pour les Nominators en [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), ou qui ont reçu un avertissement [d'activité](/wiki/People/Beatmap_Nominators/Rules#activity), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
+Pour les Nominators en [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), ou qui ont reçu un avertissement [d'activité](/wiki/People/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
 Pour les Beatmap Nominators titulaire qui n'ont pas reçu d'avertissement récent, l'évaluation est programmée tous les trois mois.
 
