@@ -16,7 +16,7 @@ Without further ado, let's get to the nitty-gritty of this month's series of upd
 
 ## Updates
 
-For better organisation and to give users some time to adapt, the NAT will be deploying updates in batches. Once enough changes have been discussed and approved, these will implemented in one fell swoop. The Gazette will try to keep up with this sporadic update schedule.
+For better organisation and to give users some time to adapt, the NAT will be deploying updates in batches. Once enough changes have been discussed and approved, these will be implemented in one fell swoop. The Gazette will try to keep up with this sporadic update schedule.
 
 ### Within the Ranked section
 
