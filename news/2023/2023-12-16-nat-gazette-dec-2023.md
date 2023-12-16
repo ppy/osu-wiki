@@ -32,11 +32,13 @@ There's currently a community-driven [ranking criteria cleanup project](https://
 
 #### Ranking criteria changes
 
-- **General:** Changes on how the `Featured Artist` tag should be used, and a special mention on how to credit AI-generated media in the beatmap's description.
-- **osu!:** Clarification on how to use hitsounds on actively clicked parts of objects.
-- **osu!taiko:** Relaxed the rest moment guideline for Kantan and Futsuu difficulties from 16/1–20/1 to 32/1–36/1.
-- **osu!catch:** Changed the CS and HP guidelines for Rain and Overdose difficulties respectively, and an extra guideline on how to use higher-snapped hyperdashes was added.
-- **osu!mania:** Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
+| Type | Change | Link |
+| :-- | :-- | :-- |
+| **General** | Changes on how the `Featured Artist` tag should be used, and a special mention on how to credit AI-generated media in the beatmap's description. | [View changes](https://github.com/ppy/osu-wiki/pull/10175) |
+| **osu!** | Clarification on how to use hitsounds on actively clicked parts of objects. | [View changes](https://github.com/ppy/osu-wiki/pull/10082) |
+| **osu!taiko** | Relaxed the rest moment guideline for Kantan and Futsuu difficulties from 16/1–20/1 to 32/1–36/1. | [View changes](https://github.com/ppy/osu-wiki/pull/9942) |
+| **osu!catch** | Changed the CS and HP guidelines for Rain and Overdose difficulties respectively, and an extra guideline on how to use higher-snapped hyperdashes was added. | [View changes](https://github.com/ppy/osu-wiki/pull/10505) |
+| **osu!mania** | Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu!mania_10K_plus_playstyles). | [View changes](https://github.com/ppy/osu-wiki/pull/10138) |
 
 ### Within the Beatmap Nominators
 
