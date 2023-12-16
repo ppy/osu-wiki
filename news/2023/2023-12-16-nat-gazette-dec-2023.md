@@ -16,25 +16,25 @@ Without further ado, let's get to the nitty-gritty of this month's series of upd
 
 ## Updates
 
-In order to better organize ourselves and give users some time to adapt, the NAT has opted to deploy updates in batches. Once enough changes have been discussed and approved, these will be merged in one fell swoop. The Gazette will try to keep up with this sporadic update schedule.
+For better organisation and to give users some time to adapt, the NAT will be deploying updates in batches. Once enough changes have been discussed and approved, these will implemented in one fell swoop. The Gazette will try to keep up with this sporadic update schedule.
 
 ### Within the Ranked section
 
-#### Blocking Qualified maps with pending posts
+#### Blocking Qualified maps with pending problems
 
-Qualified beatmaps with open suggestion or problem stamps in the discussion board will **not** be able to be Ranked, and the timer will not stop until the posts are either closed or the map gets disqualified to address the points made.
+Qualified beatmaps with open suggestions or problem stamps in the discussion board **will not** move to Ranked.
 
-In the case of a beatmap reaching its supposed ranking time and there are unresolved suggestions or problems, a NAT member will shortly step in and either resolve the post or disqualify the map depending on the validity of the concerns raised.
+In the case of a beatmap reaching its supposed ranking time and there are unresolved suggestions or problems, an NAT member will shortly step in and either resolve the post or disqualify the map depending on the validity of the concerns raised.
 
-#### The RC cleanup project
+#### The ranking criteria cleanup project
 
-There's currently a community-driven [Ranking Criteria cleanup project](https://osu.ppy.sh/community/forums/topics/1836226) in the works which aims to overhaul the current RC to make it much clearer and more accessible in general. If you believe you can contribute something to it, we encourage to give it a shot to help the team out!
+There's currently a community-driven [ranking criteria cleanup project](https://osu.ppy.sh/community/forums/topics/1836226) in the works which aims to overhaul the current RC to make it much clearer and more accessible in general. If you believe you can contribute something to it, we encourage to give it a shot to help the team out!
 
-#### Ranking Criteria changes
+#### Ranking criteria changes
 
 - **General:** Changes on how the `Featured Artist` tag should be used, and a special mention on how to credit AI-generated media in the beatmap's description.
 - **osu!:** Clarification on how to use hitsounds on actively clicked parts of objects.
-- **osu!taiko:** Relaxed the rest moment guideline for Kantan and Futsuu difficulties from 16/1—20/1 to 32/1—36/1.
+- **osu!taiko:** Relaxed the rest moment guideline for Kantan and Futsuu difficulties from 16/1–20/1 to 32/1–36/1.
 - **osu!catch:** Changed the CS and HP guidelines for Rain and Overdose difficulties respectively, and an extra guideline on how to use higher-snapped hyperdashes was added.
 - **osu!mania:** Key modes over 10 keys are now rankable so long they follow an allowed [playstyle](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 
@@ -42,7 +42,7 @@ There's currently a community-driven [Ranking Criteria cleanup project](https://
 
 #### Changes to activity requirements
 
-Beatmap Nominators rejoining in good terms are now expected to nominate their mode's [minimum activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements) in the first 30 days since their rejoin. Make sure to take this into consideration before asking to join back into the team!
+Beatmap Nominators rejoining in good terms are now expected to reach their mode's [minimum activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements) in the first 30 days since their rejoin. Make sure to take this into consideration before asking to join back into the team!
 
 Additionally, we've decided to remove the probation-specific activity requirements and allow NAT members again to apply their own judgment when deciding if a BN needs to have their probation extended for the lack of enough nominations to evaluate. Do note that the regular minimum activity requirements still apply!
 
@@ -54,7 +54,7 @@ Finally, cooldowns for failed applications have been reduced all across the boar
 
 #### Better visibility for BN preferences
 
-Beatmap Nominators can now set their map and song preferences in the [BN Management website](https://bn.mappersguild.com), alongside their custom request criteria in a much more detailed way. This will make it easier for users to know who to request a map to by parsing through the list of open members and their respective preferences.
+Beatmap Nominators can now set their map and song preferences in the [BN Management website](https://bn.mappersguild.com), alongside their custom request criteria in a much more detailed way. This will make it easier for users to know who to request by parsing through the list of open members and their respective preferences.
 
 Simply click on any user in the [home page](https://bn.mappersguild.com/home) to see their detailed request preferences as seen below:
 
@@ -64,15 +64,15 @@ Simply click on any user in the [home page](https://bn.mappersguild.com/home) to
 
 #### Evaluation changes
 
-Activity evaluations will (mostly) be automated. The consensus and feedback will be set automatically, but these will still need a NAT member to check them before they can be sent. Additionally, a Beatmap Nominator's evaluation cycle can no longer be extended past 3 months.
+Activity evaluations will (mostly) be automated. The consensus and feedback will be set automatically, but these will still need an NAT member to check them before they can be sent. Additionally, a Beatmap Nominator's evaluation cycle can no longer be extended past 3 months.
 
 #### The Impact of our actions
 
-To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) are no more — yippee! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid NAT members when assessing the significance of a disqualification or nomination reset.
+To put it shortly, [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) are no more! Beatmap Nominators will not have to worry about these numbers any longer. Instead, the system has been changed to aid NAT members when assessing the significance of a disqualification or nomination reset.
 
 These will be measured by their **Impact**. A reset can either be marked as *Minor* or *Notable* depending on the severity of the issue. As a rule of thumb, anything that used to be 1/1 or above in the previous SEV system should be considered as *Notable*, whereas anything below should be considered as *Minor*. Impact ratings are currently only visible to NAT members.
 
-This change should hopefully help BNs not to stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
+This change should hopefully help BNs not stress too much over arbitrary numbers, and help NAT members assess resets by their importance and not just by the accumulation of severity numbers alone.
 
 ## Milestones
 
@@ -80,7 +80,7 @@ Let's take a short breather from all the news above and go through some fun mile
 
 ### Badges
 
-The following users have devoted some immense dedication to their craft and have had their efforts recognized through some shiny badges. We're very thankful for their dedication and drive to help keeping osu! awesome, either through nominating beatmaps, or administering the mapping ecosystem.
+The following users have devoted some immense dedication to their craft and have had their efforts recognised through some shiny badges. We're very thankful for their dedication and drive to help keeping osu! awesome, either through nominating beatmaps, or administering the mapping ecosystem.
 
 <!-- latest badge update: _Stan-->
 
