@@ -14,7 +14,7 @@ Das beinhaltet:
 - Profildetails (Avatare, Titelbilder)
 - jeder andere Anhang oder Hyperlink (Forumsbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
 
-Im Interesse um das Wohlergehen der Community gilt die Community-Regel Nr. 5 für alles, was gemeinhin als "fragwürdig" angesehen werden kann.
+Um das Wohlergehen der Community sicherzustellen, gilt die Community-Regel Nr. 5 für alles, was gemeinhin als "fragwürdig" angesehen werden kann.
 
 ## Wichtige Dinge, die zu beachten sind
 
