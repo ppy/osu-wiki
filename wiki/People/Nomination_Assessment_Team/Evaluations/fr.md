@@ -18,11 +18,11 @@ Chaque BN est examiné régulièrement par les membres de la NAT.
 
 Pour les Nominators en [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), ou qui ont reçu un avertissement [d'activité](/wiki/People/Beatmap_Nominators/Rules#activity), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
-Pour Beatmap Nominators titulaire qui n'ont pas reçu d'avertissement récent, l'évaluation est programmée tous les trois mois. Si un Beatmap Nominator a passé 2 évaluations d'affilée sans problème, ses évaluations seront planifiées tous les 6 mois. En cas d'avertissement, la période d'évaluation est remise à 3 mois.
+Pour les Beatmap Nominators titulaire qui n'ont pas reçu d'avertissement récent, l'évaluation est programmée tous les trois mois.
 
 La durée entre les évaluations est automatiquement programmée par le [site web des BN](https://bn.mappersguild.com/). Toutefois, s'il existe des raisons sérieuses de s'inquiéter des performances d'un BN à une date antérieure, les membres de la NAT peuvent également programmer manuellement une évaluation à une date plus rapprochée que la normale.
 
-Tout comme les candidatures, les évaluations des BN en cours sont attribuées de manière aléatoire à 2 ou 3 évaluateurs et seront annoncées dans les canaux Discord NAT des modes respectifs.
+Tout comme les candidatures, les évaluations des BN en cours sont attribuées de manière aléatoire à 3 évaluateurs et seront annoncées dans les canaux Discord NAT des modes respectifs.
 
 ### Phase individuelle
 
@@ -42,7 +42,7 @@ Les avertissements et les probations en raison de performances insuffisantes en 
 
 L'activité de chaque Beatmap Nominator est vérifiée automatiquement par le site des BN le 1er de chaque mois. S'il s'avère qu'il y a des nominateurs qui ne remplissent pas les conditions d'activité, ils seront signalés et affichés dans le canal NAT de leur mode respectif pour que les membres du NAT puissent les examiner par le bot Discord "bnsite". L'examen portera sur le fait de savoir si le BN a posté un avis d'absence récemment, et sur une double vérification pour s'assurer que la vérification du site web est exacte par rapport au statut d'activité du BN.
 
-S'il s'avère que le BN ne respecte pas l'activité, il sera averti ou exclu selon la gravité. Les Beatmap Nominators qui ont été exclu pour activité de cette manière peuvent postuler à nouveau dans les 30 jours, à condition qu'ils aient au moins 8 mods pour montrer qu'ils sont redevenus actifs en tant que modder.
+S'il s'avère que le BN ne respecte pas l'activité, il sera averti ou exclu selon la gravité. Les Beatmap Nominators qui ont été exclu pour activité de cette manière peuvent postuler à nouveau sans aucun cooldown, à condition qu'ils aient au moins 3 mods au lieu de 2 pour montrer qu'ils sont redevenus actifs en tant que modder.
 
 ### Démissions
 
