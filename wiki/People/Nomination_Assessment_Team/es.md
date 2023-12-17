@@ -39,7 +39,7 @@ Los miembros del NAT asignados a la categoría estructural no son responsables d
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
   - Manejar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Mantener la [prueba del RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
-  - Juzgar el impacto de los reinicios de nominaciones.[^impact-rating]
+  - Juzgar el impacto de los restablecimientos de nominaciones.[^impact-rating]
 
 Los miembros del NAT que manejan principalmente esta categoría se aseguran de que los BN y otros miembros de la comunidad de mapping/modding permanezcan informados y se sientan escuchados, además de mantener los componentes necesarios para que todo funcione en la escena de mapping/modding. Los usuarios que pertenecen a esta categoría están formados por evaluadores experimentados que prefieren centrarse en cuestiones de gestión relacionadas con la escena de mapping/modding.
 
@@ -202,4 +202,4 @@ Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/661658
 
 ## Notas
 
-[^impact-rating]: Este proceso implica verificar cada reinicio de nominaciones y asignarle una etiqueta de «menor» o «notable» para referencia futura en las evaluaciones.
+[^impact-rating]: Este proceso implica verificar cada restablecimiento de nominaciones y asignarle una etiqueta de «menor» o «notable» para referencia futura en las evaluaciones.

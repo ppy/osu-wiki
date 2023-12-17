@@ -1,4 +1,4 @@
-# Reportar un abuso
+# Reportar abuso
 
 ## No sé si debería reportar esto o no
 
@@ -8,7 +8,7 @@ Si te sientes lo suficientemente incómodo para estar leyendo esta página, por 
 
 Tenemos cero tolerancias hacia cualquier tipo de atención sexual o avances no queridos en esta comunidad.
 
-La dirección de correo electrónico de abuso solo la ve [peppy](https://osu.ppy.sh/users/2) (el creador del juego).
+La dirección de correo electrónico de abuso solo la puede ver [peppy](https://osu.ppy.sh/users/2) (el creador del juego).
 
 Nada de lo que envíes a [abuse@ppy.sh](mailto:abuse@ppy.sh) será compartido con ninguna otra persona que no sea él.
 
@@ -50,9 +50,9 @@ Adicionalmente, si conoces el nombre de usuario de osu! de la persona que está 
 
 ### En un Twitter enlazado a un perfil de osu!
 
-Haz clic en los tres puntos en la parte superior del tuit conteniendo el problema y haz clic en 'Reportar Tweet'. Asegúrate de seguir los formularios y de leerlos cuidadosamente. Quizás también quieras leer [La guía de Twitter acerca de cómo reportar comportamiento abusivo](https://help.twitter.com/es/safety-and-security/report-abusive-behavior) para más información acerca del proceso.
+Haz clic en los tres puntos en la parte superior del tuit conteniendo el problema y haz clic en 'Denunciar Tweet'. Asegúrate de seguir los formularios y de leerlos cuidadosamente. Quizás también quieras leer [la guía de Twitter acerca de cómo reportar comportamiento abusivo](https://help.twitter.com/es/safety-and-security/report-abusive-behavior) para más información acerca del proceso.
 
-Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo clic en los tres puntos en la parte superior derecha del su tuit (si estás usando la página web o el cliente móvil). Consulta [La guía de Twitter acerca de cómo bloquear cuentas](https://help.twitter.com/es/using-twitter/blocking-and-unblocking-accounts) para más información.
+Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo clic en los tres puntos en la parte superior derecha del su tuit (si estás usando la página web o el cliente móvil). Consulta [la guía de Twitter acerca de cómo bloquear cuentas](https://help.twitter.com/es/using-twitter/blocking-and-unblocking-accounts) para más información.
 
 Por favor, ten en cuenta que la persona será capaz de ver que la has bloqueado si es que ellos revisan tu perfil de Twitter. Si estás preocupado de que esto hará que el problema sea peor en otra parte, silénciala en vez de bloquearla. Esto quitará sus tuits de tu línea de tiempo y evitará que veas más contenido de ellos, pero ellos aún serán capaces de ver y comentar en todos los tuits que hagas.
 
