@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Voulez-vous vraiment demander à peppy ?
 
 Bonjour ! peppy comprend votre envie de le contacter personnellement, mais il vous demande d'abord de comprendre que ce n'est **pas** l'endroit où vous voulez lui demander de l'aide ou du soutien. Il sépare l'aide osu! des messages personnels et trouve qu'il est difficile de répondre aux messages personnels. Il vous demande donc de choisir l'une des options suivantes :

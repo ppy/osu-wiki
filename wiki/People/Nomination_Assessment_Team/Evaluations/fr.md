@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Évaluations des Beatmap Nominator
 
 *Voir également : [Devenir un Beatmap Nominator § Processus de candidature](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#application-process)*
