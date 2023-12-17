@@ -6,7 +6,7 @@ date: 2023-12-12 12:30:00 +0000
 
 Let's walk back through the past 15 years of osu!, and how various new technologies affected the game and the community.
 
-![]()
+![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/banner.jpg)
 
 Every now and then there's a new piece of tech that's slated to change the way games are played, whether it'd be a new input device, a new way to squeeze more FPS out of your PC, or a whole new way to experience games.
 
@@ -97,5 +97,7 @@ This is still a hotly debated topic, but if you want to get an opinion of a pro 
 This is a fascinating way to look back through the ages and remind ourselves of a different, simpler time. When the community did not have to worry about the best keyboards and tablets to use to become the best player instantaneously, and just enjoyed osu! for what it is, a rhythm game with an amazing community and one of the largest selections of beat maps in any rhythm game ever.
 
 Or just maybe... I am an angry old man yelling at the clouds... I'll let you be the judge of that.
+
+*Special thanks to [Tanza3D](https://osu.ppy.sh/users/10379965) for creating the banner artwork.*
 
 —0x84f
