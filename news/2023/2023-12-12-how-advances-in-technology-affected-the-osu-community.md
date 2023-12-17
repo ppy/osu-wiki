@@ -54,7 +54,7 @@ It would take many years for the community to see the true potential of using to
 
 ### Kuvster (2015)
 
-In 2015, Kuvster had a unique opportunity to snag the pp record under a very specific set of circumstances. Back in the day, the ["TAG4" maps](https://osu.ppy.sh/wiki/Beatmap/TAG) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played by in a single mode, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
+In 2015, Kuvster had a unique opportunity to snag the pp record under a very specific set of circumstances. Back in the day, ["TAG4" maps](/wiki/Beatmap/TAG) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played by in a single mode, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jcHiuNcwsiM" frameborder="0" allowfullscreen></iframe>
