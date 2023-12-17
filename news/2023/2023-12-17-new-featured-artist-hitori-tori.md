@@ -17,7 +17,7 @@ That's only one song of course — even more of **Hitori Tori**'s talent shines 
 We never skimp on an opportunity to showcase a classic. Relive some memories through the video below, or make some new ones by exploring the rest of the previews:
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="75%" controls>
         <source src="https://assets.ppy.sh/artists/395/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
