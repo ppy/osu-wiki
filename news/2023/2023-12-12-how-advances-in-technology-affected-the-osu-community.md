@@ -20,7 +20,7 @@ osu! originally started out as an *[Osu! Tatakae! Ouendan](https://en.wikipedia.
 
 Playing with a tablet is a completely different ball game compared to the mouse. Rather than being a direct upgrade by eliminating mouse drift with its absolute positioning, it brings up new challenges and questions regarding its optimal usage. A player figuring out their ideal pen grip, tablet area, and dragging or hovering play style have all been detrimental to increasing the learning curve, which is why some players choose to remain on the much more familiar and intuitive mouse.
 
-Over the years many top players and regular players started switching over to tablet in order to avoid issues associated with mice. Still, there has always been both mouse and tablet top players, as both are considered viable for top-level play, each with its own upsides and downsides.
+Over the years many top players and regular players started switching over to tablet in order to avoid issues associated with mice. Still, there has always been both mouse and tablet players that would compete at the very top of the leaderboards, as both are considered viable for competitive play, each with its own upsides and downsides.
 
 A great video by [Willy](https://osu.ppy.sh/users/3521482) outlines all of above and more regarding the usage of tablets as input devices for osu!:
 
