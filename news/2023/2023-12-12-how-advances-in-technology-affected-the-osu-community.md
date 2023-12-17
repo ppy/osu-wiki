@@ -48,25 +48,25 @@ As osu! is a game with high amount of moving elements no matter the game mode (a
 
 ## Touch screen's rise and fall (2015-2017)
 
-The earliest mentions of using touch screens as an input device came as soon as the game was released, again due to osu!'s roots as an *Osu! Tatakae! Ouendan* clone. Back then, touch screens on PCs were not as prevalent, and most touch screen devices were "Tablet PCs", which were laptops that had a keyboard that can be rotated, folded, or outright detached, along with a touchscreen.
+The earliest mentions of using touch screens as an input device came as soon as the game was released, again due to osu!'s roots as an *Osu! Tatakae! Ouendan* clone. Back then, touch screens on PCs were not as prevalent, and most touch screen devices were "Tablet PCs", which were laptops that had a keyboard that can be rotated, folded, or outright detached, along with a touch screen.
 
 It would take many years for the community to see the true potential of using touch screens in osu!, but starting in 2015 we began seeing glimpses of this with [Kuvster](https://osu.ppy.sh/users/4896624), and eventually the peak of the play style in 2017 with [Freedomdiver](https://osu.ppy.sh/users/8482062).
 
 ### Kuvster (2015)
 
-In 2015, [Kuvster](https://osu.ppy.sh/users/4896624) had a unique opportunity to snag the pp record under a very specific set of circumstances. Back in the day, the ["TAG4" maps](https://osu.ppy.sh/wiki/Beatmap/TAG) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played by in a single mode, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
+In 2015, Kuvster had a unique opportunity to snag the pp record under a very specific set of circumstances. Back in the day, the ["TAG4" maps](https://osu.ppy.sh/wiki/Beatmap/TAG) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played by in a single mode, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jcHiuNcwsiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The 577pp record was short-lived though, as after this all "TAG4" beatmaps were exempt from giving pp, and in 2019 they were moved to the [Loved category](/wiki/Beatmap/Category#loved). This however is not the event that "killed" the touch screens, its demise would come only 2 years later.
+The 577pp record was short-lived though, as after this all "TAG4" beat maps were exempt from giving pp, and in 2019 they were moved to the [Loved category](/wiki/Beatmap/Category#loved). This however is not the event that "killed" the touch screens, its demise would come only 2 years later.
 
 ### Freedomdiver (2017)
 
-[Freedomdiver](https://osu.ppy.sh/users/8482062) joined the osu! community in May 2016, and started as your average player, up until the moment they realised they can play osu! with the touch screen on their laptop.
+Freedomdiver joined the osu! community in May 2016, and started as your average player, up until the moment they realised they can play osu! with the touch screen on their laptop.
 
-They quickly surged through the ranks after realizing that gaining pp by playing jump maps with a touch screen was simply easier given their point-to-point aim skill requirements. That however, did not just slip through without gathering negative attention from the community. The playerbase had turned against them, using them as a prime example of why touch screen was just unfair due to reasons stated before. However, it wouldn't be until November 2017 when freedomdiver decided to push touch screen to its limits, siding with the community and using actions instead of words to call for a change.
+They quickly surged through the ranks after realizing that gaining pp by playing jump maps with a touch screen was simply easier given their point-to-point aim skill requirements. That however, did not just slip through without gathering negative attention from the community. The player base had turned against them, using them as a prime example of why touch screen was just unfair due to reasons stated before. However, it wouldn't be until November 2017 when freedomdiver decided to push touch screen to its limits, siding with the community and using actions instead of words to call for a change.
 
 The community somewhat sarcastically rallied around freedomdiver during one night in November, as they proceeded to break the pp record 3 times, all on the infamous [Yuima-ru*World TVver.](https://osu.ppy.sh/beatmapsets/459149#osu/994495) map. Hundreds of players spectated freedomdiver as they broke the pp record, and thanks to [CPUGeek](https://osu.ppy.sh/users/4172839) you can experience a snippet of the atmosphere surrounding the play:
 
