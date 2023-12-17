@@ -80,7 +80,7 @@ A unique usage of touch screen nowadays is using it exclusively as an aiming dev
 
 ## "Rapid trigger" feature on mechanical keyboards (2021)
 
-"Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. Due to its analogue nature made possible by the [hall effect](https://en.wikipedia.org/wiki/Hall_effect), it allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether by using rapid trigger. The GIF below visually represents how rapid trigger works.
+"Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. Due to its analogue nature made possible by the [Hall effect](https://en.wikipedia.org/wiki/Hall_effect), it allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether by using rapid trigger. The GIF below visually represents how rapid trigger works.
 
 ![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
 
