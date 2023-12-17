@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bonnes pratiques
 
 Cette page couvre certaines des tâches auxquelles vous pouvez être confronté lors de votre contribution. Les approches mentionnées ici sont conçues pour faciliter le processus et peuvent être appliquées à d'autres projets hébergés sur GitHub ou des plateformes similaires.

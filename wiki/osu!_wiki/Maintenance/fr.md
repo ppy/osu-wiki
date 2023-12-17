@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Maintenance du wiki d'osu!
 
 *Voir également : [Guide de contribution au wiki d'osu!](/wiki/osu!_wiki/Contribution_guide)*
