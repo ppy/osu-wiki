@@ -118,7 +118,7 @@ Pour commencer, téléchargez et installez [Audacity](https://www.audacityteam.o
 
 5. Une fois les métadonnées saisies, qui peuvent être laissées vides si vous le souhaitez, cliquez sur `OK` pour commencer le réencodage.
 
-**NOTE :** Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.
+*Note : Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.*
 
 ### Utilisation de FFmpeg
 

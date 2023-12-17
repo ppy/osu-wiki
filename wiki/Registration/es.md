@@ -11,6 +11,7 @@ no_native_review: true
    ![El formulario de registro en el juego](img/ingame-registration.jpg "El formulario de registro")
 
 2. Completa todos los campos en el formulario.
+
    - Para el campo de nombre de usuario, hay un máximo de 15 caracteres; de los cuales solo pueden ser caracteres alfanuméricos (`a-z`, `A-Z`, `0-9`), guiones bajos (`_`), corchetes, (`[` y `]`), guiones (`-`), y espacios (` `).
    - Para el campo de la dirección de correo electrónico, usa tu correo electrónico. Esto se usa para restablecer tu contraseña y para enviarte códigos de verificación cuando sea necesario, así que no uses un correo electrónico desechado.
    - Para el campo de contraseña, use una contraseña que tenga al menos 8 caracteres de longitud.
