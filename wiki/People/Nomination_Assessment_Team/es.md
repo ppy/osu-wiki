@@ -1,13 +1,11 @@
 ---
-outdated_translation: true
-outdated_since: d42b79173c261bb7282e3a7e7c86ba5ccff7c749
 tags:
   - NAT
 ---
 
 # Nomination Assessment Team
 
-*Véase también: [Evaluaciones de Beatmap Nominator](Evaluations), [Clasificación SEV](SEV_rating)*
+*Véase también: [Evaluaciones de Beatmap Nominator](Evaluations)*
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
@@ -41,7 +39,7 @@ Los miembros del NAT asignados a la categoría estructural no son responsables d
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
   - Manejar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Mantener la [prueba del RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
-  - Evaluación de la [severidad](SEV_rating) del restablecimiento de la nominación.
+  - Juzgar el impacto de los reinicios de nominaciones.[^impact-rating]
 
 Los miembros del NAT que manejan principalmente esta categoría se aseguran de que los BN y otros miembros de la comunidad de mapping/modding permanezcan informados y se sientan escuchados, además de mantener los componentes necesarios para que todo funcione en la escena de mapping/modding. Los usuarios que pertenecen a esta categoría están formados por evaluadores experimentados que prefieren centrarse en cuestiones de gestión relacionadas con la escena de mapping/modding.
 
@@ -181,7 +179,7 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de BN](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo del NAT |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
@@ -189,16 +187,19 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 | Usuario | Tarea |
 | :-- | :-- |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del BN Mentorship |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Manejo de reportes de usuarios y las [valuaciones de SEV](/wiki/People/Nomination_Assessment_Team/SEV_rating) de osu! |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Manejo de reportes de usuarios |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Manejo de reportes de contenido |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | Mantenimiento de la [prueba de los criterios de clasificación](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Manejo de reportes de usuarios |
 
 ---
 
 Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
+
+## Notas
+
+[^impact-rating]: Este proceso implica verificar cada reinicio de nominaciones y asignarle una etiqueta de «menor» o «notable» para referencia futura en las evaluaciones.
