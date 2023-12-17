@@ -407,7 +407,7 @@ It wouldn't be a World Cup without some new records, world firsts and interestin
 
 Many thanks to everyone who directly or indirectly has contributed to the project. Not everyone is aware of the effort required and countless hours invested into events like these.
 
-![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/owc2023-credits.png)
+![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/owc2023-credits.png?2)
 
 Apart from the contributors, we'd also like to thank the **[439 tournament participants](/wiki/Tournaments/OWC/2023#participants)** as well as everyone who watched the osu! World Cup 2023.
 

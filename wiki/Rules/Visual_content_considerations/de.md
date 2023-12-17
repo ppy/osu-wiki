@@ -6,7 +6,7 @@ tags:
 
 # Empfehlungen für visuelle Inhalte
 
-Nach [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! eingereichten oder hochgeladenen visuellen Inhalte als für ein Spiel für alle Altersgruppen angemessen betrachtet werden.
+Laut [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! eingereichten oder hochgeladenen visuellen Inhalte für ein Spiel für alle Altersgruppen angemessen sein.
 
 Das beinhaltet:
 
@@ -14,11 +14,11 @@ Das beinhaltet:
 - Profildetails (Avatare, Titelbilder)
 - jeder andere Anhang oder Hyperlink (Forumsbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
 
-Im Interesse, die Dinge so sauber wie möglich zu halten, gilt die Community-Regel Nr. 5 für alles, was vernünftigerweise als "fragwürdig" angesehen werden kann.
+Um das Wohlergehen der Community sicherzustellen, gilt die Community-Regel Nr. 5 für alles, was gemeinhin als "fragwürdig" angesehen werden kann.
 
 ## Wichtige Dinge, die zu beachten sind
 
-Alle Bilder sollten so wie sie sind beurteilt werden, ohne Berücksichtigung anderer vorliegender Fälle. Entscheide auf der Grundlage dessen, was du siehst.
+Alle Bilder sollten neutral und objektiv beurteilt werden, ohne Berücksichtigung anderer vorliegender Fälle. Entscheide auf der Grundlage dessen, was du siehst.
 
 Bitte habe auch Verständnis, dass wir eine globale, multikulturelle Community mit sehr unterschiedlichen Gedanken, Meinungen und Werten sind bezogen auf was erlaubt ist und was nicht.
 
@@ -45,7 +45,7 @@ Bilder oder visuelle Elemente, die die folgenden Beispiele enthalten, können al
 
 - leichte bis moderate Darstellungen von Gewalt (kleine Mengen an Blut, unkritische oder oberflächliche Verletzungen)
 - künstlerische Nacktheit (im Kontext von klassischen Kunstwerken oder mit diesem Element verbundene Arbeit, wie zum Beispiel Albumcover mit leichter Nacktheit darauf)
-- milde Romanze, Flirten oder intime Zuneigung (Knuddeln, Umarmen, Küssen ohne sexuelle Konnotationen, Händchenhalten usw.)
+- milde Romanzen, Flirten oder intime Zuneigung (Knuddeln, Umarmen, Küssen ohne sexuelle Konnotationen, Händchenhalten usw.)
 - Badeanzüge in angemessener Gestaltung (Standardbademode mit genereller Bedeckung, einem gewöhnlichen Bikini)
 
 In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendungen von aufwändigen Inhalten gelten, wie zum Beispiel Storyboards oder maßgeschneiderter (d. h. speziell erstellter) Videoinhalt. Dies muss direkt vom Support-Team bewilligt werden. Alle Interessierten können es via [support@ppy.sh](mailto:support@ppy.sh) kontaktieren.
