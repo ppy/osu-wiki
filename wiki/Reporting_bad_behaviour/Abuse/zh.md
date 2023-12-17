@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
+---
+
 # 举报滥用
 
 ## 我不知道我应不应该举报
