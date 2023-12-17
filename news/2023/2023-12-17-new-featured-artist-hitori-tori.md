@@ -57,7 +57,7 @@ Try your hand at any of these:
 
 Still looking for more songs? [**Hitori Tori**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/395) may house what you're looking for. If not, your ears may be at fault.
 
-The year is approaching its end, and the same goes for our Featured Artist releases for the year. We have *one more* planned next week, and if trends for monumental end of year releases haven't keyed you in yet, just know that this one will be unforgettable.
+The year is approaching its end, and the same goes for our Featured Artist releases for the year. We have *one more* planned next week, and if trends for monumental end-of-year releases haven't keyed you in yet, just know that this one will be unforgettable.
 
 Stay tuned.
 
