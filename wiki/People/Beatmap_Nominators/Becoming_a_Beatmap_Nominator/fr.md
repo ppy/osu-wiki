@@ -72,7 +72,7 @@ Les commentaires et les votes des évaluateurs à ce stade sont cachés aux autr
 
 À ce stade, les commentaires et les votes de chaque évaluateur sont révélés aux autres évaluateurs et, en cas de verdict ambigu, ils discutent jusqu'à ce qu'un consensus soit atteint.
 
-Un feedback est ensuite rédigé sur la base des commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le [bot Nomination Assessment Team](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce] (/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence ultérieure. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
+Un feedback est ensuite rédigé sur la base des commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le [bot Nomination Assessment Team](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce](/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence ultérieure. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
 
 En cas d'échec de la demande, la NAT déterminera également la durée du [délai de cooldown](#demandes-rejetées) de l'utilisateur avant qu'il ne puisse présenter une nouvelle demande. Si cette durée est réduite par rapport à la durée standard, les conditions seront indiquées dans le feedback envoyé au demandeur.
 
