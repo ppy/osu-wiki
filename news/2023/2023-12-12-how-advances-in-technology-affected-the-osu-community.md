@@ -48,7 +48,7 @@ As osu! is a game with high amount of moving elements no matter the game mode (a
 
 ## Touch screen's rise and fall (2015-2017)
 
-The earliest mentions of using touch screens as an input device came as soon as the game was released, again due to osu!'s roots as an *Osu! Tatakae! Ouendan* clone. Back then, touch screens on PCs were not as prevalent, and most touch screen devices were "Tablet PCs", which were laptops that had a keyboard that can be rotated, folded, or outright detached, along with a touch screen.
+The earliest mentions of using touch screens as an input device came as soon as the game was released, again due to osu!'s roots as an *Osu! Tatakae! Ouendan* clone. Back then, touch screens on PCs were not as prevalent, and most touch screen devices were "Tablet PCs", which were laptops that had a keyboard that could be rotated, folded, or outright detached.
 
 It would take many years for the community to see the true potential of using touch screens in osu!, but starting in 2015 we began seeing glimpses of this with [Kuvster](https://osu.ppy.sh/users/4896624), and eventually the peak of the play style in 2017 with [Freedomdiver](https://osu.ppy.sh/users/8482062).
 
