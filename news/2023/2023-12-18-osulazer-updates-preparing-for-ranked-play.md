@@ -8,7 +8,7 @@ For this last update of the year, the transition to ranked play in the new clien
 
 ![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/banner.jpg)
 
-They say learning through *multiple mediums* is optimal. While these short text summaries of the changes in each update serve in large part just to supplement the main video, this time it may be helpful to have detailed explanations both in text and video format. For optimal understanding you may want to **both watch the video and use the summary below as reference**.
+They say learning through *multiple media* is optimal. While these short text summaries of the changes in each update serve in large part just to supplement the main video, this time it may be helpful to have detailed explanations both in text and video format. For optimal understanding you may want to **both watch the video and use the summary below as reference**.
 
 The gist is that the team is looking for more people to try out osu!(lazer) before game mechanics are locked and performance point leaderboards are turned on, but before that, let's take a look at the new changes:
 
