@@ -4,26 +4,28 @@ title: "Skin of the Year 2023: Voting Open"
 date: 2024-01-01 10:00:00 +0000
 ---
 
-Skin of the Year is back for its 2nd iteration, and once again it's time to look back and pick out the best skins from the previous year!
+Grab yourself a hot cup of cocoa, sit by the fireplace and pick your favourite skins of 2023.
 
 ![](/wiki/shared/news/2023-02-09-Skin-of-the-Year-2022/SOTY-2022-banner.jpg)
 
-With the new year barely getting started, now is the perfect chance to look back at 2023 and choose the highlights of the year, regardless of the topic. Looking back at skinning in 2023, there was only [1 official skinning contest](/wiki/Contests/Skinning_Contest/4), however that did not demotivate the skinning community in continuing to create high quality content for the entire community.
+With the new year barely getting started, now is the perfect chance to look back at 2023 and choose the highlights of the year, regardless of the topic. Looking back at skinning in 2023, there were lots of interesting things that happened in 2023 within the skinning community. There was a [new skinning contest themed around icons of an era](/wiki/Contests/Skinning_Contest/4), 2 new skinning GMT's were elected (congrats to [Roan](https://osu.ppy.sh/users/8214639) and [Redo_](https://osu.ppy.sh/users/7122165)!) and skinning changes were made to both the osu!(stable) and osu!(lazer) client.
 
-Furthermore, [an osu!(stable) update](https://osu.ppy.sh/home/changelog/stable40/20231021.2) in late October added skinning support for some song select components, which are now being implemented in both new and older skins released during the year. So without further ado, let's quickly go over the details.
+Namely, [an osu!(stable) update](https://osu.ppy.sh/home/changelog/stable40/20231021.2) in late October added skinning support for some song select components, which are now being implemented in both new and older skins released during the year. Furthermore, osu!(lazer) received various new dynamic skinning elements throughout the year, a recent example being a [dynamic player name element](https://osu.ppy.sh/home/changelog/lazer/2023.1114.0) that changes depending on whether you are playing, spectating someone or watching a replay.
+
+Now that we've had a brief glimpse into what's been happening over the past year, let's quickly go over the contest details.
 
 ## Voting details
 
 All skins that have been released during 2023 and have been added to [the compendium](https://compendium.skinship.xyz/) are eligible to compete, **including contest & podium entries**. Everyone gets **15** votes each to cast, and you can spend as many or as few as you like.
 
-The top-voted entry will receive a unique profile badge based on their entry and 3 months of osu!supporter for their victory, while the remaining finalists will receive 1 month of osu!supporter each.
+The top 3 entries will all receive a unique profile badge based on their entry along with 4, 3 and 2 months of osu!supporter respectively. Entries #4 — #10 will all receive a month of osu!supporter each.
 
 This year we had **TBD** skins that have been submitted to the [skinning forums](https://osu.ppy.sh/community/forums/15), **TBD** of them being added to the compendium. We highly suggest you get to some light browsing and check out the submitted skins, and you might find a new skin you will be able to call your "main".
 
 [**Click here to get involved and vote for 2023's Skin of the Year!**](https://osu.ppy.sh/community/contests/170)
 
-The voting will remain open for **TBD** after this post goes up, closing officially on the **TBD**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
+The voting will remain open for **14 days** after this post goes up, closing officially on the **TBD**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
 
 Thanks to everyone who submitted their hard work to the compendium, and good luck!
 
-—RockRoller
+—skinship
