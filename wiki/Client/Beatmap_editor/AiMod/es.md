@@ -12,7 +12,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 - **All**: Agrupa los elementos de todas las demás pestañas.
 - **Compose**: Estos problemas son generalmente por la colocación de objetos. Es posible que tengas que marcar la casilla de «Check distance snap» para que estas alertas aparezcan (esta acción podría causar lag, dependiendo de la duración/tamaño del beatmap).
-- **Design**: Estos problemas son generalmente causados por problemas de la interfaz, tales como imagen de fondo, storyboards, etc.
+- **Design**: Estos problemas son generalmente causados por problemas de la interfaz, tales como la imagen de fondo, storyboards, etc.
 - **Timing**: Cuando estos problemas aparezcan, revisa la línea de tiempo porque probablemente algo está fuera de lugar.
 - **Meta**: Cuando estos problemas aparezcan, revisa los ajustes de la canción.
 - **Mapset**: Estos problemas afectan al conjunto de mapas en su totalidad.
@@ -107,7 +107,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | Mensaje | Explicación | Solución | Notas |
 | :-- | :-- | :-- | :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | Este beatmap dura más de 6 minutos. Considera acortarlo si no es un mapa estilo maratón. | Agrega más descansos en el beatmap o corta la canción. | Esta advertencia se puede ignorar con seguridad si la longitud del mapa en cuestión es la prevista. |
-| Your beatmap is shorter than 45 seconds. Consider making it longer. | Tu beatmap tiene menos de 45 segundos. Considera hacerlo más largo. | Mapea más partes de la canción. | Esta advertencia se puede ignorar con seguridad si la longitud del mapa en cuestión es la prevista. |
+| Your beatmap is shorter than 45 seconds. Consider making it longer. | Tu beatmap dura menos de 45 segundos. Considera hacerlo más largo. | Mapea más partes de la canción. | Esta advertencia se puede ignorar con seguridad si la longitud del mapa en cuestión es la prevista. |
 | Audio bitrate is higher than 192 kbps. Consider recompressing to CBR 192 kbps or VBR ~1.0. | El archivo `.mp3` del beatmap está codificado en una [tasa de bits](https://es.wikipedia.org/wiki/Tasa_de_bits) superior a 192 kbps, que supera lo permitido en los [criterios de clasificación](/wiki/Ranking_criteria). | Vuelve a codificar el archivo `.mp3` para que su tasa de bits esté entre 128 kbps y 192 kbps (siendo 192 kbps la opción recomendada). | Aunque esta advertencia existe en el juego, AiMod nunca muestra la advertencia debido a limitaciones técnicas. |
 | Audio bitrate is lower than 128 kbps. Consider finding a better quality source. | El archivo .mp3 del beatmap está codificado en una [tasa de bits](https://es.wikipedia.org/wiki/Tasa_de_bits) inferior a 128 kbps, que está por debajo de lo permitido en los [criterios de clasificación](/wiki/Ranking_criteria). | Cambia el archivo .mp3 a uno con una tasa de bits más alta. | Aunque esta advertencia existe en el juego, AiMod nunca muestra la advertencia debido a limitaciones técnicas. |
 | Kiai time is toggled on for less than 15 seconds. | El kiai time se activa durante menos de 15 segundos. | Extiende la duración del kiai time a más de 15 segundos. | Esta advertencia se puede ignorar con seguridad si se pretende el uso del kiai en cuestión. |
