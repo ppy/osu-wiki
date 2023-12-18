@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
+---
+
 # Missbrauch melden
 
 ## Ich weiß nicht, ob ich das melden soll oder nicht
