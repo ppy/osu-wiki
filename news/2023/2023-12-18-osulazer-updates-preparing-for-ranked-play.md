@@ -6,7 +6,7 @@ date: 2023-12-18 16:00:00 +0000
 
 For this last update of the year, the transition to ranked play in the new client is about to begin its final ascent.
 
-![](/wiki/shared/news/2023-11-30-osulazer-updates-november-30/banner.jpg)
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/banner.jpg)
 
 They say learning through *multiple mediums* is optimal. While these short text summaries of the changes in each update serve in large part just to supplement the main video, this time it may be helpful to have detailed explanations both in text and video format. For optimal understanding you may want to **both watch the video and use the summary below as reference**.
 
@@ -64,7 +64,7 @@ When clicking a slider early, the follow circle will now immediately start in a 
 
 Secondly, for very fast reverse sliders, clicking late would mean missing on the ticks or repeats, so players would click early to compensate. However, sliders in osu!(lazer) judge the accuracy of the initial hit, inevitably causing low accuracy on these types of sliders.
 
-![](/wiki/shared/news/2023-12-18-osulazer-updates-december-18/slider-late-leniency.jpg)
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
 
 With this change, there is no longer a need to click early to avoid a miss, as ticks or repeats will be completed even for late hits.
 
