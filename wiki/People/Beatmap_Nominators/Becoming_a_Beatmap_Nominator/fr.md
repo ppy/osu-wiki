@@ -2,7 +2,7 @@
 
 Les utilisateurs intéressés à rejoindre les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
-Les candidatures se font via le [site web des BN] (https://bn.mappersguild.com/bnapps).
+Les candidatures se font via le [site web des BN](https://bn.mappersguild.com/bnapps).
 
 Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux [beatmaps](/wiki/Beatmap) qu'ils ont été récemment [moddés](/wiki/Modding), et remplir un [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [ranking criteria](/wiki/Ranking_criteria) afin de pouvoir soumettre leur candidature. Un message des NAT sera envoyé une fois que le verdict aura été rendu. De plus amples informations sur les candidatures sont disponibles [sur le site web](https://bn.mappersguild.com/bnapps).
 
@@ -72,7 +72,7 @@ Les commentaires et les votes des évaluateurs à ce stade sont cachés aux autr
 
 À ce stade, les commentaires et les votes de chaque évaluateur sont révélés aux autres évaluateurs et, en cas de verdict ambigu, ils discutent jusqu'à ce qu'un consensus soit atteint.
 
-Un feedback est ensuite rédigé sur la base des commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le [bot Nomination Assessment Team] (https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce] (/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence ultérieure. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
+Un feedback est ensuite rédigé sur la base des commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le [bot Nomination Assessment Team](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce] (/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence ultérieure. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
 
 En cas d'échec de la demande, la NAT déterminera également la durée du [délai de cooldown](#demandes-rejetées) de l'utilisateur avant qu'il ne puisse présenter une nouvelle demande. Si cette durée est réduite par rapport à la durée standard, les conditions seront indiquées dans le feedback envoyé au demandeur.
 
