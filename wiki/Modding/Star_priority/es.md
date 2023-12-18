@@ -14,5 +14,5 @@ La prioridad por estrellas tiene dos significados:
    - Se necesita al menos una prioridad de 12 estrellas para que un beatmap sea [burbujeado](/wiki/Modding/Bubble) o clasificado.
 2. Un método para determinar si la comunidad desea una solicitud de función.
    - Cuanto mayor sea la prioridad por estrellas, más rápido se hará notar.
-   - Los usuarios con estado activo de osu!supporter pueden aumentar la prioridad en dos estrellas (![Star](img/star.png)) por voto, mientras que los votos de los usuarios regulares valen una sola estrella. Los usuarios pueden dar varias estrellas dependiendo de cuántos votos les queden.
+   - Los usuarios con un estado activo de osu!supporter pueden aumentar la prioridad en dos estrellas (![Estrella](img/star.png)) por voto, mientras que los votos de los usuarios regulares valen una sola estrella. Los usuarios pueden dar varias estrellas dependiendo de cuántos votos les queden.
    - *Nota: El foro de solicitudes de funciones está actualmente obsoleto y ha sido reemplazado en su mayor parte por el flujo de [discusiones de GitHub](https://github.com/ppy/osu/discussions).*
