@@ -62,7 +62,7 @@ When clicking a slider early, the follow circle will now immediately start in a 
     </video>
 </div>
 
-Second, for very fast reverse sliders, clicking late would mean missing on the ticks or repeats, so players would click early to compensate. However, sliders in osu!(lazer) judge the accuracy of the initial hit, causing inevitably low accuracy on these types of sliders.
+Secondly, for very fast reverse sliders, clicking late would mean missing on the ticks or repeats, so players would click early to compensate. However, sliders in osu!(lazer) judge the accuracy of the initial hit, inevitably causing low accuracy on these types of sliders.
 
 ![](/wiki/shared/news/2023-12-18-osulazer-updates-december-18/slider-late-leniency.jpg)
 
