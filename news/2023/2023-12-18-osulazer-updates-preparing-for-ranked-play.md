@@ -8,7 +8,7 @@ For this last update of the year, the transition to ranked play in the new clien
 
 ![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/banner.jpg)
 
-They say learning through *multiple media* is optimal. While these short text summaries of the changes in each update serve in large part just to supplement the main video, this time it may be helpful to have detailed explanations both in text and video format. For optimal understanding you may want to **both watch the video and use the summary below as reference**.
+They say learning through *multiple media* is optimal. While these short text summaries of the changes in each update serve in large part just to supplement the main video, this time it may be helpful to have detailed explanations both in text and video format. For optimal understanding, you may want to **both watch the video and use the summary below as reference**.
 
 The gist is that the team is looking for more people to try out osu!(lazer) before game mechanics are locked and performance point leaderboards are turned on, but before that, let's take a look at the new changes:
 
@@ -18,7 +18,7 @@ The gist is that the team is looking for more people to try out osu!(lazer) befo
 
 ### Smaller changes
 
-- **Dropdown menus are now searchable.** This mainly means that **skins are now searchable**, but it applies to every dropdown menu in the game.
+- **Dropdown menus are now searchable.** This mainly means that **skins are now searchable**, but it also applies to every dropdown menu in the game.
 - **Mod selection search box is now auto-focused by default.** The new paradigm of quickly selecting mods is to hit F1, (partly) type its name, then pressing `Enter`. If you prefer the old way of selecting mods, uncheck `Automatically focus search text box in mod select` in the settings.
 - **`Use these mods` option is now visible when clicking anywhere on a leaderboard score panel.** This neat feature has existed for a while now, but the problem was that nobody knew about it. Now you know.
 - **Song select search performance optimisations.** It should be around 90% faster or so peppy says.
