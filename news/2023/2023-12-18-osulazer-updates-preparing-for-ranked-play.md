@@ -16,7 +16,7 @@ The gist is that the team is looking for more people to try out osu!(lazer) befo
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xTRwM3zhhj0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Changes
+### Smaller changes
 
 - **Dropdown menus are now searchable.** This mainly means that **skins are now searchable**, but it applies to every dropdown menu in the game.
 - **Mod selection search box is now auto-focused by default.** The new paradigm of quickly selecting mods is to hit F1, (partly) type its name, then pressing `Enter`. If you prefer the old way of selecting mods, uncheck `Automatically focus search text box in mod select` in the settings.
@@ -28,7 +28,7 @@ The gist is that the team is looking for more people to try out osu!(lazer) befo
 
 The full changelog can of course be found [where it always resides](https://osu.ppy.sh/home/changelog/lazer/2023.1218.0), but for this time, let's highlight in a little more detail a few changes that are either exciting or that you should probably know about.
 
-#### Optimised freehand slider drawing
+### Optimised freehand slider drawing
 
 The [last release](https://osu.ppy.sh/home/news/2023-11-30-osulazer-updates-november-30) introduced freehand slider drawing, both to the [excitement](https://twitter.com/squirrelpascals/status/1723428683505914036) and [horror](https://twitter.com/hehemarcus/status/1723281190600561128) of mappers. The initial implementation had lots of jank to be ironed out, but with this release it works pretty alright or at least better than before:
 
@@ -38,7 +38,7 @@ The [last release](https://osu.ppy.sh/home/news/2023-11-30-osulazer-updates-nove
     </video>
 </div>
 
-#### Scoring changes
+### Scoring changes
 
 **Combo is nerfed (for high combo).** That's the short explanation.
 
@@ -50,7 +50,7 @@ This change is introduced together with a complete rebalance of the combo–accu
 
 Compared with ScoreV2 (the previous system in osu!(lazer)), with this change, high-accuracy plays with low combo can be expected to see a score increase upwards of around 200k–300k points. For a detailed comparison between ScoreV1, ScoreV2 and the new scoring system, see [this spreadsheet](https://docs.google.com/spreadsheets/d/1g-hel7ywUdZFQGpaC5UVeURBYLuPhTS6rTnI1-ImoTI/edit#gid=0), or maybe look at the [actual code change](https://github.com/ppy/osu/pull/24166/files#diff-f6a10c08c02d5862fe05b4148f31914f91bdb2750e255b624983d059d3f1c3c1) if you understand better that way.
 
-#### Adjusted slider mechanics
+### Adjusted slider mechanics
 
 Two changes have been made to make sliders more lenient.
 
@@ -68,7 +68,7 @@ Secondly, for very fast reverse sliders, clicking late would mean missing on the
 
 With this change, there is no longer a need to click early to avoid a miss, as ticks or repeats will be completed even for late hits.
 
-#### Grade criteria adjustments for osu!catch
+### Grade criteria adjustments for osu!catch
 
 In osu!(stable), the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
