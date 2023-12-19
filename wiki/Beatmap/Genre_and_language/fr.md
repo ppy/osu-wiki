@@ -24,7 +24,7 @@ La [liste des beatmap](https://osu.ppy.sh/beatmapsets) peut être filtrée en fo
 
 ## Changer le genre et la langue d'une beatmap
 
-Le genre et la langue peuvent être modifiés sur le site web en cliquant sur l'icône en forme de crayon lorsque l'on survole les détails d'une beatmap. La possibilité de le faire est déterminée par les [groupes d'utilisateurs](/wiki/People/User_group) de l'utilisateur et la [catégorie](/wiki/Beatmap/Category#present-categories) de la beatmap :
+Le genre et la langue peuvent être modifiés sur le site web en cliquant sur l'icône en forme de crayon lorsque l'on survole les détails d'une beatmap. La possibilité de le faire est déterminée par les [groupes d'utilisateurs](/wiki/People/User_group) de l'utilisateur et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
 
 - Les propriétaires de mapsets sont autorisés lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#wip-and-pending), [En attente](/wiki/Beatmap/Category#wip-and-pending), ou [Cimetière](/wiki/Beatmap/Category#graveyard), et qu'elle n'a pas de [nominations](/wiki/Beatmap_ranking_procedure#nominations).
 - Les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) sont autorisés lorsque la beatmap est dans les catégories [qualifié](/wiki/Beatmap/Category#qualified), WIP, ou En attente.

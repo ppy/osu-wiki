@@ -16,7 +16,7 @@ tags:
 
 ![Capture d'écran des badges de HappyStick sur le site web](img/HappyStick.png "Les badges de profil s'affichent sous l'avatar et le nom d'utilisateur sur le site web.")
 
-**Les badges de profil** (communément appelés *badges*) sont de petits graphiques affichés sur les pages de profil des utilisateurs et attribués pour diverses réalisations. Ils sont le plus souvent donnés comme prix pour les [tournois](/wiki/Tournaments) et les [concours](/wiki/Contests), mais ont d'autres utilisations, comme les récompenses pour les [contributeurs de la communauté](/wiki/People/Community_Contributors), les [Beatmap Spotlights](/wiki/Beatmap_Spotlights#rewards), et l'appartenance continue à un groupe.
+**Les badges de profil** (communément appelés *badges*) sont de petits graphiques affichés sur les pages de profil des utilisateurs et attribués pour diverses réalisations. Ils sont le plus souvent donnés comme prix pour les [tournois](/wiki/Tournaments) et les [concours](/wiki/Contests), mais ont d'autres utilisations, comme les récompenses pour les [contributeurs de la communauté](/wiki/People/Community_Contributors), les [Beatmap Spotlights](/wiki/Beatmap_Spotlights#récompenses), et l'appartenance continue à un groupe.
 
 Lorsque l'on survole un badge, une infobulle s'affiche avec plus de détails sur la raison pour laquelle le badge a été décerné.
 
@@ -24,7 +24,7 @@ Lorsque l'on survole un badge, une infobulle s'affiche avec plus de détails sur
 
 *Page principale : [Sélection pondérée par badge](/wiki/Tournaments/Badge-weighted_seeding)*
 
-Dans le [client](/wiki/Client) et sur le site web, les badges sont purement décoratifs. Cependant, étant donné que les badges de prix des [tournois](/wiki/Tournaments) mettent en valeur les performances des joueurs, certains tournois ont adopté des méthodes [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) qui prennent en compte le nombre de badges des joueurs, communément appelées [sélection pondérée par badge](/wiki/Tournois/Badge-weighted_seeding).
+Dans le [client](/wiki/Client) et sur le site web, les badges sont purement décoratifs. Cependant, étant donné que les badges de prix des [tournois](/wiki/Tournaments) mettent en valeur les performances des joueurs, certains tournois ont adopté des méthodes [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) qui prennent en compte le nombre de badges des joueurs, communément appelées [sélection pondérée par badge](/wiki/Tournaments/Badge-weighted_seeding).
 
 ## Histoire
 
