@@ -8,7 +8,7 @@ Les **médailles**, anciennement appelées *réalisations*, sont des badges sur 
 
 Toutes les beatmaps doivent être réalisées dans le mode de jeu [osu!](/wiki/Game_mode/osu!) afin d'obtenir le badge, sauf indication contraire. L'utilisation de [mods de réduction de la difficulté](/wiki/Gameplay/Game_modifier#difficulty-reduction) ou de [mods d'augmentation de la difficulté](/wiki/Gameplay/Game_modifier#difficulty-increase), ainsi que de [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), est autorisée.
 
-Il convient toutefois de noter que le contenu de tous les packs de jeux vidéo, packs d'anime, packs Internet! Packs et Rhythm Game Packs ont été considérablement modifiés depuis [leur première introduction en 2008] (https://osu.ppy.sh/community/forums/topics/1853). Pour obtenir la liste de ces packs de beatmaps dans leur état d'origine, voir [anciens beatmaps packs](/wiki/Medals/Legacy_beatmap_packs).
+Il convient toutefois de noter que le contenu de tous les packs de jeux vidéo, packs d'anime, packs Internet! Packs et Rhythm Game Packs ont été considérablement modifiés depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour obtenir la liste de ces packs de beatmaps dans leur état d'origine, voir [anciens beatmaps packs](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 

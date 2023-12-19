@@ -32,7 +32,7 @@ Dans le [client](/wiki/Client) et sur le site web, les badges sont purement déc
 
 Plutôt que d'empiler les badges horizontalement dans un conteneur couvrant toute la page, l'ancien site web les empilait verticalement entre le nom d'utilisateur et le drapeau du pays.
 
-Un effet secondaire de ce schéma de mise en page était que la hauteur par défaut, non élargie, des [pages utilisateur] (/wiki/osu!supporter#editable-profile-section) pouvait être augmentée en gagnant plus de badges. Bien que cela n'ait pas été voulu, c'est devenu une blague dans la communauté des tournois. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) l'a montré dans [un tweet populaire](https://twitter.com/droombs/status/1036050610687074304), en affichant son record de badges gagnés au moment de la publication.
+Un effet secondaire de ce schéma de mise en page était que la hauteur par défaut, non élargie, des [pages utilisateur](/wiki/osu!supporter#editable-profile-section) pouvait être augmentée en gagnant plus de badges. Bien que cela n'ait pas été voulu, c'est devenu une blague dans la communauté des tournois. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) l'a montré dans [un tweet populaire](https://twitter.com/droombs/status/1036050610687074304), en affichant son record de badges gagnés au moment de la publication.
 
 ## Le saviez-vous ?
 
