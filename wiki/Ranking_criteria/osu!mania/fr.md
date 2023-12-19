@@ -97,7 +97,7 @@ Les règles et directives générales s'appliquent à toutes les difficultés d'
 
 Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au niveau de difficulté pour lequel elles sont listées et donc *ne s'appliquent pas à **toutes** les difficultés d'osu!mania*. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est beaucoup plus rapide ou lente, certaines variables peuvent être différentes, comme indiqué dans l'article [mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
-*Les directrices spécifiques aux [keys modes](termes-courants) sont élaborées sur la base des key modes sont classés les plus courants (4 keys et 7 keys). Tous les autres modes ou [styles de jeux](termes-courants) doivent appliquer ces directrices lorsqu'elles sont applicables.*
+*Les directrices spécifiques aux [keys modes](#termes-courants) sont élaborées sur la base des key modes sont classés les plus courants (4 keys et 7 keys). Tous les autres modes ou [styles de jeux](#termes-courants) doivent appliquer ces directrices lorsqu'elles sont applicables.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
