@@ -1,6 +1,6 @@
 # Signaler un abus
 
-## Je ne sais pas si je dois le signaler ou non.
+## Je ne sais pas si je dois le signaler ou non
 
 N'hésitez pas à le faire.
 
