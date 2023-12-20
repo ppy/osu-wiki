@@ -12,7 +12,7 @@ Every now and then there's a new piece of tech that's slated to change the way g
 
 While the osu! community has managed to stay unswayed as innovations such as virtual reality, augmented reality, cloud gaming, and AI advancements cropped up due to them being inapplicable to osu!, there were still some that changed the way the game is played, or at least challenged the views on the most optimal way to play it.
 
-It's time to dive in and see how technology can impact the community, what the results of widespread adoption are, or could have been.
+With the chit-chat out of the way, let's start from the beginning and talk about the first example of an alternative input device reaching mass adoption, and work our way up from there.
 
 ## Graphics tablets (2007)
 
@@ -22,7 +22,7 @@ Playing with a tablet is a completely different ball game compared to the mouse.
 
 Over the years, many top players and regular players started switching over to tablet in order to avoid issues associated with mice. Still, there has always been both mouse and tablet players that would compete at the very top of the leaderboards, as both are considered viable for competitive play, each with its own upsides and downsides.
 
-A great video by [Willy](https://osu.ppy.sh/users/3521482) outlines all of above and more regarding the usage of tablets as input devices for osu!:
+A great video by [Willy](https://osu.ppy.sh/users/3521482) outlines all the above and more regarding the usage of tablets as input devices for osu!:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/V3K3C94fs1o" frameborder="0" allowfullscreen></iframe>
