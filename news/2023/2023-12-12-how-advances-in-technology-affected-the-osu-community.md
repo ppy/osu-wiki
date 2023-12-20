@@ -10,7 +10,7 @@ Let's walk back through the past 15 years of osu!, and how various new technolog
 
 Every now and then there's a new piece of tech that's slated to change the way games are played, whether it be a new input device, a new way to squeeze more FPS out of your PC, or a whole new way to experience games.
 
-While the osu! community has managed to stay unswayed as innovations such as virtual reality and augmented reality, cloud gaming & AI advancements cropped up due to them being inapplicable to osu!, there were still some that changed the way the game is played, or at least challenged the views on the most optimal way to play it.
+While the osu! community has managed to stay unswayed as innovations such as virtual reality, augmented reality, cloud gaming, and AI advancements cropped up due to them being inapplicable to osu!, there were still some that changed the way the game is played, or at least challenged the views on the most optimal way to play it.
 
 It's time to dive in and see how technology can impact the community, what the results of widespread adoption are, or could have been.
 
@@ -20,7 +20,7 @@ osu! originally started out as an *[Osu! Tatakae! Ouendan](https://en.wikipedia.
 
 Playing with a tablet is a completely different ball game compared to the mouse. Rather than being a direct upgrade by eliminating mouse drift with its absolute positioning, it brings up new challenges and questions regarding its optimal usage. A player figuring out their ideal pen grip, tablet area, and dragging or hovering play style have all been detrimental to increasing the learning curve, which is why some players choose to remain on the much more familiar and intuitive mouse.
 
-Over the years many top players and regular players started switching over to tablet in order to avoid issues associated with mice. Still, there has always been both mouse and tablet players that would compete at the very top of the leaderboards, as both are considered viable for competitive play, each with its own upsides and downsides.
+Over the years, many top players and regular players started switching over to tablet in order to avoid issues associated with mice. Still, there has always been both mouse and tablet players that would compete at the very top of the leaderboards, as both are considered viable for competitive play, each with its own upsides and downsides.
 
 A great video by [Willy](https://osu.ppy.sh/users/3521482) outlines all of above and more regarding the usage of tablets as input devices for osu!:
 
@@ -32,7 +32,7 @@ A great video by [Willy](https://osu.ppy.sh/users/3521482) outlines all of above
 
 Mechanical keyboards have been a thing for decades, however after Razer put [gaming and mechanical switches into a compelling package](https://press.razer.com/product-news/the-worlds-first-mechanical-keyboard-designed-for-gaming-launched-at-gamescom-2010/), that launched the chain reaction that resulted in the mechanical keyboard market we know of today.
 
-By 2010, osu! players were already shifting away from clicking circles with their mouse, to mashing with their Zs and Xs keys, so it would make sense that as these new mechanical keyboards were getting easier and cheaper to adopt into their setups. While there's nothing stopping anyone from playing osu! with the membrane keyboards, the community at large is guiding the newer players to purchase a mechanical keyboard, which is essential to the rhythm-based gameplay.
+By 2010, osu! players were already shifting away from clicking circles with their mouse, to mashing with their Z and X keys, so it would make sense that as these new mechanical keyboards were getting easier and cheaper to adopt into their setups. While there's nothing stopping anyone from playing osu! with membrane keyboards, the community at large is guiding the newer players to purchase a mechanical keyboard, which is essential to the rhythm-based gameplay.
 
 The mass adoption of mechanical keyboards was not just limited to the osu! community, but in the gaming community as altogether, and you'd be hard-pressed to find a gaming setup without one of these smack-dab in the middle of any gamer's desk nowadays.
 
@@ -60,7 +60,7 @@ In 2015, Kuvster had a unique opportunity to snag the pp record under a very spe
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jcHiuNcwsiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The 577pp record was short-lived though, as after this all "TAG4" beat maps were exempt from giving pp, and in 2019 they were moved to the [Loved category](/wiki/Beatmap/Category#loved). This however is not the event that "killed" the touch screens, its demise would come only 2 years later.
+The 577pp record was short-lived though, as after this all "TAG4" beat maps were exempt from giving pp, and in 2019 they were moved to the [Loved category](/wiki/Beatmap/Category#loved). This however is not the event that "killed" the touch screen meta, its demise would come only 2 years later.
 
 ### Freedomdiver (2017)
 
@@ -94,7 +94,7 @@ The arguments are still a topic of countless heated debates, but if you want to 
 
 ---
 
-This is a fascinating way to look back through the ages and remind ourselves of a different, simpler time. When the community did not have to worry about the best keyboards and tablets to use to become the best player instantaneously, and just enjoyed osu! for what it is, a rhythm game with an amazing community and one of the largest selections of beat maps in any rhythm game ever.
+This is a fascinating way to look back through the ages and remind ourselves of a different, simpler time. When the community did not have to worry about the best keyboards and tablets to use to become the best player instantaneously, and just enjoyed osu! for what it is, a rhythm game with an amazing community and one of the largest selections of beatmaps/charts in any rhythm game ever.
 
 Or just maybe... I am an angry old man yelling at the clouds... I'll let you be the judge of that.
 
