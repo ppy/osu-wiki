@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How advances in technology affected the osu! community
-date: 2023-12-12 12:30:00 +0000
+date: 2023-12-22 12:00:00 +0000
 ---
 
 Let's walk back through the past 15 years of osu!, and how various new technologies affected the game and the community.
 
-![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/banner.jpg)
+![](/wiki/shared/news/2023-12-22-how-advances-in-technology-affected-the-osu-community/banner.jpg)
 
 Every now and then there's a new piece of tech that's slated to change the way games are played, whether it be a new input device, a new way to squeeze more FPS out of your PC, or a whole new way to experience games.
 
@@ -82,7 +82,7 @@ Nowadays, a new, unique usage for touch screen was figured. Some players use it 
 
 "Rapid trigger" is a new keyboard software feature that's first been implemented by Wooting, a mechanical keyboard manufacturer. Due to its analogue nature made possible by the [Hall effect](https://en.wikipedia.org/wiki/Hall_effect), it allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether by using rapid trigger. The animation below visually represents how it works:
 
-![](/wiki/shared/news/2023-12-12-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
+![](/wiki/shared/news/2023-12-22-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
 
 This has caused quite the turmoil amongst the community, as some believe this greatly reduces the skill required to be considered "good at speed", and lowers the skill ceiling quite significantly by allowing players to be less precise with their technique, but still make inputs. The other side of the community argues that this is only beneficial for players who "mash" keys instead of trying to accurately hit notes.
 
