@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How advances in technology affected the osu! community
+title: How Advances in Technology Affected the osu! Community
 date: 2023-12-22 12:00:00 +0000
 ---
 
