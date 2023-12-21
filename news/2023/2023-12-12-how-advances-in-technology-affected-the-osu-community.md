@@ -43,7 +43,7 @@ Around mid 2012, the first LCD high-refresh rate monitors were released with ref
 As osu! is a game with high amount of moving elements no matter the game mode (as shown below), high refresh rate monitors quickly became the next most-sought-after commodity piece of gear. While being an objective upgrade to the regular 60 Hz monitors, some people swear by high refresh rate monitors helping them read higher approach rates & scroll speeds. Still, this didn't prevent players who could not afford them from rising through the ranks, and some of them even becoming top players such as [FGSky](https://osu.ppy.sh/users/2094566), regardless of the refresh rates of their monitor.
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="soonTM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/refresh-rate-comparison.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Touch screen's rise and fall (2015-2017)
