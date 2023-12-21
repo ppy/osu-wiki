@@ -67,7 +67,7 @@ Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!ma
   - **Para cantidades de teclas superiores a 10, el [estilo de juego](#términos-comunes) debe ser uno de los siguientes: [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K) o [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K).**
 - **Si el beatmap incluye una cantidad de teclas superior a 10, o varios [modos de teclas](#términos-comunes) o [estilos de juego](#términos-comunes), el nombre de cada dificultad debe indicar su modo de teclas o estilo de juego. De lo contrario, los nombres de todas las dificultades no deben indicar modos de teclas o estilos de juego.**
 - **Cada [estilo de juego no estándar](#términos-comunes) presente en un beatmap debe indicarse en las etiquetas del beatmap.**
-- **Las dificultades que utilicen un [estilo de juego N+1](#términos-comunes) deben activar la opción `Use special style (N+1 style) for mania` en la pestaña `Advanced` de la ventana `Song Setup`. El beatmap también debe incluir la etiqueta «N+1».** A efectos de esta regla, solo los estilos de juego con un cantidad de teclas inferior a 10 pueden considerarse «N+1».[^n-plus-1]
+- **Las dificultades que usen un [estilo de juego N+1](#términos-comunes) deben activar la opción `Use special style (N+1 style) for mania` en la pestaña `Advanced` de la ventana `Song Setup`. El beatmap también debe incluir la etiqueta «N+1».** A efectos de esta regla, solo los estilos de juego con un cantidad de teclas inferior a 10 pueden considerarse «N+1».[^n-plus-1]
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cualquier dificultad es...**
   - **... inferior a 2:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
   - **... entre 2:30 y 3:15**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
@@ -192,13 +192,13 @@ Pautas adicionales para dificultades *Insane de 4 teclas*:
 
 - **Evita usar chords en medio de streams de 1/8.** La densidad de estos patrones es a menudo demasiado difícil para los jugadores de este nivel de habilidad, especialmente cuando se usa en la dificultad más baja de un beatmap. Además, la colocación ineficaz de los chords puede resultar en un uso inconsistente del minijack de 1/4. Usar un chord al principio o al final de un stream está bien.
 - **Se desaconseja el uso de split-jumptrills durante más de 2 pulsos que terminen en un hand.** A menos que un beatmap use jacks u otros patrones complejos con frecuencia, este patrón es difícil de acertar. Si un hand es necesario, elimina la nota anterior que crearía el mini jack.
-- **Evite usar más de 9 notas en split-jumptrills.** Estos son más agotadores físicamente que otros patrones de densidad similar.
+- **Evita usar más de 9 notas en split-jumptrills.** Estos son más agotadores físicamente que otros patrones de densidad similar.
 
 Pautas adicionales para dificultades *Insane de 7 teclas*:
 
 - **Evita usar jacks de 1/4 con 3+ notas en medio del chordstream.** Estos requieren una independencia de dedos que es demasiado difícil para jugadores de este nivel.
 - **En medio de un stream de chords largo con un chord cada...**
-  - ... 1/1, no debe haber más de 3 notas, excepto al principio/final de una stream, cuando 4 es aceptable.
+  - ... 1/1, no debe haber más de 3 notas, excepto al principio/final de un stream, cuando 4 es aceptable.
   - ... 1/2, no debe haber más de 2 notas.
   - ... 1/4, se recomienda usar una sola nota a menos que exista una justificación musical extremadamente clara.
 - **Los streams de brackets deben usarse con moderación.**
