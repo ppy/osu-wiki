@@ -10,7 +10,7 @@ Let's take a stroll through the past 15 years of osu!, and see how various new t
 
 Every now and then there's a new piece of tech that's slated to change the way games are played, whether it be a new input device, a new way to squeeze more FPS out of your PC, or a whole new way to experience games.
 
-While the osu! community has managed to stay unswayed as innovations such as virtual reality, augmented reality, cloud gaming, and AI advancements cropped up due to them being inapplicable to osu!, there were still some that changed the way the game is played, or at least challenged the views on the most optimal way to play it.
+While the osu! community has managed to stay unswayed as innovations such as virtual reality, augmented reality and cloud gaming cropped up due to them being inapplicable to osu!, there were still some that changed the way the game is played, or at least challenged the views on the most optimal way to play it.
 
 With the chit-chat out of the way, let's start from the beginning and talk about the first example of an alternative input device reaching mass adoption, and work our way up from there.
 
