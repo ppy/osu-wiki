@@ -351,7 +351,7 @@ The osu!mania Loved candidates were chosen by [-NoName-](https://osu.ppy.sh/user
 
 [Camellia - Spin Eternally](https://osu.ppy.sh/beatmapsets/1905308#mania) by [Evening](https://osu.ppy.sh/users/2193881)\
 222 BPM, 3:44 | 5.64★\
-The [\[delete\]] difficulty is *not* being nominated for Loved.\
+The \[delete\] difficulty is *not* being nominated for Loved.\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
 [So CrewK went ahead and did it.](https://twitter.com/Crwt_speed/status/1733232716567757245) That is without a doubt, to this day, one of the greatest storyboard achievements the world has ever witnessed, and it only happened a week ago as I am writing this.
