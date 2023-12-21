@@ -80,7 +80,7 @@ In the end, tapping and aiming with two hands isn't the only way to use a touch 
 
 ## Rapid trigger (2021)
 
-"[Rapid trigger](https://wooting.io/rapid-trigger)" is a new keyboard software feature first implemented by Wooting, a mechanical keyboard manufacturer. Its analogue nature made possible by the [Hall effect](https://en.wikipedia.org/wiki/Hall_effect) allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether. The animation below visually represents how it works:
+"[Rapid trigger](https://wooting.io/rapid-trigger)" is a new keyboard software feature first implemented by Wooting, a mechanical keyboard manufacturer. Its analogue nature made possible by the [Hall effect](https://en.wikipedia.org/wiki/Hall_effect) allows users to modify the position of any key's actuation point, or go beyond the need for a static actuation point altogether. The animation below (by Wooting) visually represents how it works:
 
 ![](/wiki/shared/news/2023-12-22-how-advances-in-technology-affected-the-osu-community/rapid_trigger_example.gif)
 
