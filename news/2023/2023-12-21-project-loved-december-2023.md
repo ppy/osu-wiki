@@ -128,7 +128,7 @@ I wish for nothing but his continued success in beatmapping. If it were for him,
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/532308.jpg)](https://osu.ppy.sh/community/forums/topics/1860176)
 
-[Laurent Bertaud, Jean-Christophe Prudhomme - The Garfield Show](https://osu.ppy.sh/beatmapsets/532308#osu) by [Clarity](https://osu.ppy.sh/users/3441616), [c[[ [ c[[ [ c[[](https://osu.ppy.sh/users/4418213), [FriendoFox](https://osu.ppy.sh/users/3678808), and [Zekao](https://osu.ppy.sh/users/7630462)\
+[Laurent Bertaud, Jean-Christophe Prudhomme - The Garfield Show](https://osu.ppy.sh/beatmapsets/532308#osu) by [Clarity](https://osu.ppy.sh/users/3441616), [c\[\[ \[ c\[\[ \[ c\[\[](https://osu.ppy.sh/users/4418213), [FriendoFox](https://osu.ppy.sh/users/3678808), and [Zekao](https://osu.ppy.sh/users/7630462)\
 254.1 BPM, 0:25 | 5.20★ – 7.19★\
 *description written by [megumic](https://osu.ppy.sh/users/7537133)*
 
