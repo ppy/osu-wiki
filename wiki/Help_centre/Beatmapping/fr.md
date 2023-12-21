@@ -49,7 +49,7 @@ Si vous avez encore des problèmes ou si vous voulez plus d'informations à ce s
 
 Tout type de contenu téléchargé sans autorisation peut être considéré comme une violation des droits d'auteur si le propriétaire original le souhaite. La demande de retrait doit faire l'objet d'une procédure légale afin de garantir l'équité de la procédure.
 
-Veuillez ne **pas** déposer de rapport en utilisant [la commande `!report' dans le jeu](/wiki/Reporting_bad_behaviour#in-game-chat) ou [le site web d'osu!](/wiki/Reporting_bad_behaviour#website), car les membres de la [NAT](/wiki/People/Nomination_Assessment_Team) et de la [GMT](/wiki/People/Global_Moderation_Team) qui gèrent ces rapports ne sont pas équipés pour s'occuper de questions juridiques.
+Veuillez ne **pas** déposer de rapport en utilisant [la commande `!report' dans le jeu](/wiki/Reporting_bad_behaviour#tchat-en-jeu) ou [le site web d'osu!](/wiki/Reporting_bad_behaviour#site-web), car les membres de la [NAT](/wiki/People/Nomination_Assessment_Team) et de la [GMT](/wiki/People/Global_Moderation_Team) qui gèrent ces rapports ne sont pas équipés pour s'occuper de questions juridiques.
 
 ## Comment puis-je supprimer ma beatmap ? {id=supprimer-beatmap}
 
