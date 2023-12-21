@@ -70,7 +70,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 | ::{ flag=MY }:: | **Malaysia** | **[taiko\_maniac1811](https://osu.ppy.sh/users/595764)**, [huiko12](https://osu.ppy.sh/users/598553), [Jerry](https://osu.ppy.sh/users/605973), [ZYuan](https://osu.ppy.sh/users/3337688) |
 | ::{ flag=PH }:: | **Philippines** | **[jmeh07](https://osu.ppy.sh/users/2852269)**, [Alkaeid](https://osu.ppy.sh/users/567322), [Pochacco](https://osu.ppy.sh/users/2927742), [Rumovik](https://osu.ppy.sh/users/3831514), [senkai](https://osu.ppy.sh/users/1150178) |
 | ::{ flag=PL }:: | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [1miko1](https://osu.ppy.sh/users/95690), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Elfie](https://osu.ppy.sh/users/1676016), [-Jamu-](https://osu.ppy.sh/users/2271556), [Mihaugoku](https://osu.ppy.sh/users/6401769) |
-| ::{ flag=RU }:: | **Russian Federation** | **[magax](https://osu.ppy.sh/users/918645)**, Alt\_Hg, [koprofagg](https://osu.ppy.sh/users/5371287), [Lover](https://osu.ppy.sh/users/1359539), [Youth](https://osu.ppy.sh/users/4993235) |
+| ::{ flag=RU }:: | **Russian Federation** | **[magax](https://osu.ppy.sh/users/918645)**, [Alt\_Hg](https://osu.ppy.sh/users/736496), [koprofagg](https://osu.ppy.sh/users/5371287), [Lover](https://osu.ppy.sh/users/1359539), [Youth](https://osu.ppy.sh/users/4993235) |
 | ::{ flag=SG }:: | **Singapore** | **[taikoplayer123](https://osu.ppy.sh/users/3580055)**, [BlindReaper](https://osu.ppy.sh/users/2446062), [ditcherer](https://osu.ppy.sh/users/1632105), [Element118](https://osu.ppy.sh/users/2283992), [neonat](https://osu.ppy.sh/users/1561995), [SilverSufuru](https://osu.ppy.sh/users/3769280) |
 | ::{ flag=KR }:: | **South Korea** | **[Runa](https://osu.ppy.sh/users/4643294)**, [applerss](https://osu.ppy.sh/users/983349), [bbj0920](https://osu.ppy.sh/users/87546), [Ni-Sokkususu](https://osu.ppy.sh/users/1807472), [Quizmaegi](https://osu.ppy.sh/users/2228401) |
 | ::{ flag=ES }:: | **Spain** | **[LZD](https://osu.ppy.sh/users/224335)**, [Daigo](https://osu.ppy.sh/users/3687287), [Hanjamon](https://osu.ppy.sh/users/1703330), [Maitroxsk](https://osu.ppy.sh/users/4875451), [MYRKUL](https://osu.ppy.sh/users/255933), [Raiden](https://osu.ppy.sh/users/2239480) |
@@ -108,7 +108,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 **[Download the mappack here! (122 MB)](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar)**
 
 - NoMod
-  1. [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/351126#taiko773846)
+  1. [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/351126#taiko/1495790)
   2. [sasakure.UK & OSTER Project - Utopia of Oz (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/421303#taiko/911280)
   3. [t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix) (Love) \[Love\]](https://osu.ppy.sh/beatmapsets/424222#taiko/916478)
   4. [Kobaryo - Always TANO\*C (Kobaryo's FTN-Remix) (R i n g o) \[Ringo's TANO\*C\]](https://osu.ppy.sh/beatmapsets/288061#taiko/649735)
