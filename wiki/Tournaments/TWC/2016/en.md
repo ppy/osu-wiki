@@ -59,7 +59,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 | ::{ flag=AU }:: | **Australia** | **[dajayeway](https://osu.ppy.sh/users/4841352)**, [Aloda](https://osu.ppy.sh/users/1190127), [andrew000000](https://osu.ppy.sh/users/122174), [dayjayweigh](https://osu.ppy.sh/users/6185399), [TimmyTimTims](https://osu.ppy.sh/users/1254926), [TitansHD](https://osu.ppy.sh/users/3842620) |
 | ::{ flag=BR }:: | **Brazil** | **[LuckySonicGHz](https://osu.ppy.sh/users/3949268)**, [Akyuu](https://osu.ppy.sh/users/2959941), [MordRyze](https://osu.ppy.sh/users/3247818), [Skull Kid](https://osu.ppy.sh/users/3044264), [suyama-chan](https://osu.ppy.sh/users/928298), [taikorage](https://osu.ppy.sh/users/3684443) |
 | ::{ flag=CA }:: | **Canada** | **[Fudgyking](https://osu.ppy.sh/users/3802922)**, [IControl](https://osu.ppy.sh/users/2307285), [janitoreihil](https://osu.ppy.sh/users/3307897), [Stevenrama](https://osu.ppy.sh/users/3649978), [Tasha](https://osu.ppy.sh/users/1031958), [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ::{ flag=CL }:: | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [joel](https://osu.ppy.sh/users/2244644), [Kioshinxs](https://osu.ppy.sh/users/2729797), [le gagoguigo3](https://osu.ppy.sh/users/8057655), [MikuWRS](https://osu.ppy.sh/users/1619547), [PUPA](https://osu.ppy.sh/users/PUPA) |
+| ::{ flag=CL }:: | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [joel](https://osu.ppy.sh/users/2244644), [Kioshinxs](https://osu.ppy.sh/users/2729797), [le gagoguigo3](https://osu.ppy.sh/users/8057655), [MikuWRS](https://osu.ppy.sh/users/1619547), [PUPA](https://osu.ppy.sh/users/6279210) |
 | ::{ flag=CN }:: | **China** | **[moe moe moe](https://osu.ppy.sh/users/1804904)**, [- Yuuka Niya -](https://osu.ppy.sh/users/1892059), [akaimo\_m3](https://osu.ppy.sh/users/6294200), [bxczyb](https://osu.ppy.sh/users/426357), [HimemiyaChikane](https://osu.ppy.sh/users/3672537), [Nikubenki Saya](https://osu.ppy.sh/users/2250591) |
 | ::{ flag=FR }:: | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [Arrival](https://osu.ppy.sh/users/1694000), [Ekoro](https://osu.ppy.sh/users/284905), [FrancisRave](https://osu.ppy.sh/users/1733728), [omegaflo](https://osu.ppy.sh/users/83291), [Nofool](https://osu.ppy.sh/users/672430) |
 | ::{ flag=DE }:: | **Germany** | **[\[TaikoTori\]](https://osu.ppy.sh/users/1074143)**, [Chromoxx](https://osu.ppy.sh/users/1881639), [Golden Week](https://osu.ppy.sh/users/5822345), [Mew104](https://osu.ppy.sh/users/2345156), [Xay](https://osu.ppy.sh/users/961417), [Zetera](https://osu.ppy.sh/users/587737) |
@@ -82,11 +82,16 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 ## Groups
 
-| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ::{ flag=AU }:: Australia | ::{ flag=VE }:: Venezuela | ::{ flag=BR }:: Brazil | ::{ flag=MY }:: Malaysia | ::{ flag=SG }:: Singapore | ::{ flag=RU }:: Russian Federation | ::{ flag=SE }:: Sweden | ::{ flag=IT }:: Italy |
-| ::{ flag=GB }:: United Kingdom | ::{ flag=AR }:: Argentina | ::{ flag=CL }:: Chile | ::{ flag=ID }:: Indonesia | ::{ flag=PH }:: Philippines | ::{ flag=ES }:: Spain | ::{ flag=FR }:: France | ::{ flag=PL }:: Poland |
-| ::{ flag=TW }:: Taiwan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea | ::{ flag=JP }:: Japan | ::{ flag=CN }:: China | ::{ flag=CA }:: Canada |
+| Group | Top seed | Medium seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | ::{ flag=TW }:: Taiwan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia |
+| **B** | ::{ flag=HK }:: Hong Kong | ::{ flag=AR }:: Argentina | ::{ flag=VE }:: Venezuela |
+| **C** | ::{ flag=US }:: United States | ::{ flag=CL }:: Chile | ::{ flag=BR }:: Brazil |
+| **D** | ::{ flag=DE }:: Germany | ::{ flag=ID }:: Indonesia | ::{ flag=MY }:: Malaysia |
+| **E** | ::{ flag=KR }:: South Korea | ::{ flag=PH }:: Philippines | ::{ flag=SG }:: Singapore |
+| **F** | ::{ flag=JP }:: Japan | ::{ flag=ES }:: Spain | ::{ flag=RU }:: Russian Federation |
+| **G** | ::{ flag=CN }:: China | ::{ flag=FR }:: France | ::{ flag=SE }:: Sweden |
+| **H** | ::{ flag=CA }:: Canada | ::{ flag=PL }:: Poland | ::{ flag=IT }:: Italy |
 
 ![](img/bracket.jpg "TWC 2016 bracket")
 
