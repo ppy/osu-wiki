@@ -224,7 +224,7 @@ Fulfill the prophecy by playing [this Loved osu! map](https://osu.ppy.sh/beatmap
 If you're somehow still playing maps from this news post, here's [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1107264) hosted by [Annabel](https://osu.ppy.sh/users/3388410)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/396/songs%20for%20X%20Girlz/t%2Bpazolite%20feat.%20Rizna%20-%20Distorted%20Lovesong%20(Full%20length).mp3">
+    <source src="https://assets.ppy.sh/artists/396/songs%20for%20X%20Girlz/t%2Bpazolite%20-%20Howling%20Down.mp3">
 </audio>
 
 ### t+pazolite - illanai-assorted
@@ -293,14 +293,6 @@ Relive [this classic Approved osu! + osu!taiko map](https://osu.ppy.sh/beatmapse
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Songs/t+pazolite - Nous.mp3">
-</audio>
-
-### t+pazolite - Ofcourse You Need and nEed and neEd and neeD and NEED ME?
-
-You need to play [this osu!taiko map](https://osu.ppy.sh/beatmapsets/702438) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)!
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/396/Answer from X Girlz/t+pazolite - Ofcourse you Need and nEed and neEd and neeD and NEED ME.mp3">
 </audio>
 
 ### t+pazolite - Say Hello to HOLLOWood feat. Akagawa Nene
