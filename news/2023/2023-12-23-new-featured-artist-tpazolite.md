@@ -335,11 +335,13 @@ Your fingers must be tired after scrolling past all of those maps. If you're loo
 
 And with this release, we'll be closing out another year of Featured Artists!
 
+While things slowed down this year after switching from twice-a-week to weekly artist reveals, we still brought **65** artists into our library in 2023!
+
 osu!'s long-term goal with the Featured Artist program has been to bring talent (and their music) to the osu! audience, especially focusing on songs that have history in the osu! community and ensuring they can stick around forever.
 
 We'll continue doing that of course, but throughout the coming year, we also want to bring attention to two other areas:
 
-- **the continuation of our World Cups' [osu! originals](/wiki/osu%21_originals)**, which have already received a ton of attention in 2023 already thanks to [mangomizer](https://osu.ppy.sh/users/1893718)
+- **the continuation of our World Cups' [osu! originals](/wiki/osu!_originals)**, which have already received a ton of attention in 2023 already thanks to [mangomizer](https://osu.ppy.sh/users/1893718)
 - **artists who aren't well-established on osu!**. Our backlog is already packed with smaller artists who are excited to make their osu! debuts, so stay tuned for a new year of even newer Featured Artists!
 
 Thanks for supporting another year of awesome music in osu!. :)
