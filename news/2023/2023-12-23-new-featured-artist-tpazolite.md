@@ -138,7 +138,7 @@ Here's one more [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/639704) hos
 
 ### t+pazolite - Party in the HOLLOWood feat. Nanahira
 
-Take a stab at this [hybrid osu! + osu!taiko set hosted](https://osu.ppy.sh/beatmapsets/819349) hosted by [Annabel](https://osu.ppy.sh/users/3388410)
+Take a stab at this [hybrid osu! + osu!taiko set](https://osu.ppy.sh/beatmapsets/819349) hosted by [Annabel](https://osu.ppy.sh/users/3388410)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Good Evening, HOLLOWood/t+pazolite - Party in the HOLLOWood feat. Nanahira.mp3">
@@ -189,7 +189,7 @@ Attempt [this osu!taiko map](https://osu.ppy.sh/beatmapsets/237272) hosted by [t
 
 ### t+pazolite - chipscape
 
-Check out [this 12 year old osu! + osu!taiko map](https://osu.ppy.sh/beatmapsets/27752) hosted by [Shiirn](https://osu.ppy.sh/users/465126)!
+Check out [this 12-year-old osu! + osu!taiko map](https://osu.ppy.sh/beatmapsets/27752) hosted by [Shiirn](https://osu.ppy.sh/users/465126)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Songs/t+pazolite - chipscape.mp3">
@@ -342,7 +342,7 @@ osu!'s long-term goal with the Featured Artist program has been to bring talent 
 We'll continue doing that of course, but throughout the coming year, we also want to bring attention to two other areas:
 
 - **the continuation of our World Cups' [osu! originals](/wiki/osu!_originals)**, which have already received a ton of attention in 2023 already thanks to [mangomizer](https://osu.ppy.sh/users/1893718)
-- **artists who aren't well-established on osu!**. Our backlog is already packed with smaller artists who are excited to make their osu! debuts, so stay tuned for a new year of even newer Featured Artists!
+- **Artists who aren't well established on osu!.** Our backlog is already packed with smaller artists who are excited to make their osu! debuts, so stay tuned for a new year of even newer Featured Artists!
 
 Thanks for supporting another year of awesome music in osu!. :)
 
