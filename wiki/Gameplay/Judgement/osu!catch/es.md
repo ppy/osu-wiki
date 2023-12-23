@@ -15,5 +15,5 @@ Un **juicio** o **resultado de golpeo** es el resultado de interactuar con un [o
 
 ## Mecánicas de juicio
 
-- La precisión en osu!catch se calcula como la proporción de frutas, gotas y gotitas capturadas.
-- Las frutas y las gotas aumentan el combo y provocan fallos, mientras que las gotas y los plátanos no tienen ningún efecto.
+- La precisión en osu!catch se calcula como la proporción de frutas, gotas y gotitas atrapadas.
+- Las frutas y las gotas aumentan el combo y provocan fallos, mientras que las gotitas y los plátanos no tienen ningún efecto.
