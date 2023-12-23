@@ -501,7 +501,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 13. Se permite el intercambio de jugadores entre partidas sin limitaciones.
 14. Los mapas no deben reutilizarse en la misma partida, excepto en las revanchas.
 15. **El tamaño mínimo del equipo para un equipo es de 6 jugadores, y el máximo es de 8.**
-16. Se espera que los jugadores mantengan el juego fluido y sin retrasos. Los retrasos excesivos en los partidos por parte de los jugadores pueden dar lugar a la aplicación de sanciones a discreción del árbitro. Interrumpir el partido con juego sucio, insultar o provocar a otros jugadores o al personal, retrasar el partido u otra conducta inapropiada deliberada está estrictamente prohibida y será sancionado en consecuencia.
+16. Se espera que los jugadores mantengan el juego fluido y sin retrasos. Los retrasos excesivos en los partidos por parte de los jugadores pueden dar lugar a la aplicación de sanciones a discreción del árbitro. Interrumpir el partido con juego sucio, insultar o provocar a otros jugadores o al personal, retrasar el partido u otra conducta inapropiada deliberada está estrictamente prohibida y se sancionará en consecuencia.
 17. Todos los jugadores y el personal deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
 18. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas de chat multijugador.
     - Romper las reglas del chat puede resultar en un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben intercambiarse mientras dure el castigo.

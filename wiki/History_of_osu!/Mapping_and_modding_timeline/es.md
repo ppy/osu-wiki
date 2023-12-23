@@ -265,7 +265,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 - **5/8/2016:** Se creó el [blog del Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog).
   - El QAT estaba recibiendo críticas por estar demasiado aislado del resto de la comunidad de mapping, por lo que este blog se creó para aumentar la transparencia en la toma de decisiones y la actividad de la comunidad del QAT.
-- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas de conducta en modding.
+- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas de conducta en el modding.
   - Estas reglas y pautas fueron tratadas como sentido común hasta este punto. Al documentarlos, la moderación podría hacerse más consistente.
 
 ### Septiembre
