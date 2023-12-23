@@ -38,7 +38,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 The osu! World Cup 2016 was run by various community members.
 
 | Position | Member(s) |
-| :-- |:-- |
+| :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ::{ flag=JP }:: [Asahina Momoko](https://osu.ppy.sh/users/3650145), ::{ flag=DE }:: [Okorin](https://osu.ppy.sh/users/1623405), ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961) |
 | Commentator | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685), ::{ flag=US }:: [Daikyi](https://osu.ppy.sh/users/811832), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232), ::{ flag=FR }:: [Slainv](https://osu.ppy.sh/users/4823843), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
