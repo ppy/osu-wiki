@@ -13,7 +13,7 @@ tags:
 # Multiplicador de mods
 
 *No debe confundirse con [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
-*Véase también: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Véase también: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Descripción
 

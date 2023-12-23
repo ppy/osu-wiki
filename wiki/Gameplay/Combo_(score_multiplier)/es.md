@@ -11,7 +11,7 @@ tags:
 
 *Para otros usos, véase [Combo (desambiguación)](/wiki/Disambiguation/Combo).*
 
-**Combo** se refiere al número de [objetos](/wiki/Gameplay/Hit_object) que un jugador ha golpeado consecutivamente sin fallar una nota o un [slider](/wiki/Gameplay/Judgement/Slider_break) una vez. Este número se muestra en varios lugares durante el juego:
+**Combo** se refiere al número de [objetos](/wiki/Gameplay/Hit_object) que un jugador ha golpeado consecutivamente sin fallar ni romper un [slider](/wiki/Gameplay/Judgement/Slider_break) ninguna vez. Este número se muestra en varios lugares durante el juego:
 
 - Abajo a la izquierda en [osu!](/wiki/Game_mode/osu!).
 - En los tambores en [osu!taiko](/wiki/Game_mode/osu!taiko).
@@ -67,12 +67,12 @@ tags:
 **Cada uno de los siguientes suma un punto al multiplicador de puntuación/combo:**
 
 - Atrapar las frutas.
-- Atrapar las gotas de jugo.
+- Atrapar las gotas.
 
 **Lo siguiente restablecerá el multiplicador de puntuación a cero:**
 
 - No atrapar las frutas.
-- No atrapar las gotas de jugo.
+- No atrapar las gotas.
 
 **Lo siguiente no aumentará ni restablecerá el multiplicador de puntuación:**
 
