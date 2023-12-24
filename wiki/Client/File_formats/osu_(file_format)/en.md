@@ -196,7 +196,7 @@ The hit object's type parameter is an 8-bit integer where each bit is a flag wit
 | 0 | Marks the object as a hit circle |
 | 1 | Marks the object as a slider |
 | 2 | Marks the start of a new combo |
-| 3 | Marks the object as a spinner  |
+| 3 | Marks the object as a spinner |
 | 4, 5, 6 | A 3-bit integer specifying how many combo colours to skip, a practice referred to as "colour hax". Only relevant if the object starts a new combo. |
 | 7 | Marks the object as an osu!mania hold note. |
 
