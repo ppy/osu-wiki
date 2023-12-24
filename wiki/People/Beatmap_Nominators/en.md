@@ -108,7 +108,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japanese |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Russian |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italian |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Swedish |
 
