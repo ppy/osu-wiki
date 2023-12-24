@@ -49,11 +49,11 @@ Ces options ne sont pertinentes que lors de l'ouverture des maps dans [l'éditeu
 
 | Option | Type de valeur | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#song-timeline) |
+| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#timeline-de-la-musique) |
 | `DistanceSpacing` | Décimale | Multiplicateur de [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Entier | [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `GridSize` | Entier | [Taille de la grille](/wiki/Beatmapping/Grid_snapping) |
-| `TimelineZoom` | Décimale | Facteur d'échelle pour la [ligne de temps de l'objet](/wiki/Client/Beatmap_editor/Compose#hit-object-timeline) |
+| `TimelineZoom` | Décimale | Facteur d'échelle pour la [ligne de temps de l'objet](/wiki/Client/Beatmap_editor/Compose#timeline-de-l'objet) |
 
 ## Metadata
 

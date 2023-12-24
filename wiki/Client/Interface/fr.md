@@ -257,7 +257,7 @@ Vous trouverez ci-dessous les écrans de résultats des autres modes de jeu.
 
 Il s'agit de votre classement en ligne. Vous pouvez y accéder en faisant défiler l'écran des résultats vers le bas. Votre tableau d'affichage local indiquera votre nom et le score comme d'habitude.
 
-- \[1\] Votre panneau d'utilisateur. Il affiche vos [points de performance (pp)](/wiki/Performance_points), votre rang global, votre score total, votre [précision](/wiki/Gameplay/Précision) et votre barre de niveau.
+- \[1\] Votre panneau d'utilisateur. Il affiche vos [points de performance (pp)](/wiki/Performance_points), votre rang global, votre score total, votre [précision](/wiki/Gameplay/Accuracy) et votre barre de niveau.
 - \[2\] `Exporter le replay` : Vous pouvez regarder le replay plus tard, soit en l'ouvrant à partir d'un leaderboard local, soit en allant dans le dossier `Replays` et en double-cliquant dessus.
 - \[3\] `Ajouter aux favoris en ligne` : Incluez la beatmap dans votre liste de favoris, qui se trouve sur votre page de profil osu! dans la section `Beatmaps`.
 - \[4\] Classement local : Tous vos résultats sont stockés sur votre ordinateur. Pour les consulter, accédez à [l'écran de sélection des musiques](#sélection-de-la-musique) et sélectionnez `Classement local` dans le menu déroulant situé au-dessus du tableau d'affichage.
@@ -273,12 +273,12 @@ Les catégories du panel de classement sont les suivantes :
 
 | Catégorie | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Général` | Votre position dans le classement de la map. Notez que les scores avec des [mods](/wiki/Gameplay/Game_modifier) apparaissent également sur ce même classement. | Votre [rang mondial](/wiki/Ranking#performance-points-ranking) par rapport à tous les autres joueurs du monde. |
+| `Général` | Votre position dans le classement de la map. Notez que les scores avec des [mods](/wiki/Gameplay/Game_modifier) apparaissent également sur ce même classement. | Votre [rang mondial](/wiki/Ranking#classement-des-points-de-performance) par rapport à tous les autres joueurs du monde. |
 | [`Précision`](/wiki/Gameplay/Accuracy) | La précision avec laquelle vous avez joué la beatmap. Il n'est pris en compte que lorsque votre ancien score est dépassé. | Moyenne pondérée de la précision de vos meilleurs scores. |
 | `Max Combo` | Le plus long combo sur la map que vous avez jouée. | Le plus long combo sur toutes les beatmaps que vous avez jouées. |
 | [`Score classé`](/wiki/Gameplay/Score/Ranked_score) | Votre [meilleur résultat](/wiki/Gameplay/Score/Ranked_score) sur la beatmap. | Le nombre de points obtenus sur toutes les beatmaps classées que vous avez jouées, chaque map étant comptabilisée une seule fois. |
 | [`TScore total`](/wiki/Gameplay/Score/Total_score) | Non pris en compte, car il n'affecte pas votre position dans les classements en ligne. | Identique au score classé, mais il prend en compte toutes les beatmaps disponibles sur le site d'osu!, y compris les beatmaps sous-jouées ou ratées. Cela compte pour votre [niveau] (/wiki/Gameplay/Score/Total_score#level). |
-| [`Performance`](/wiki/Performance_points) | Le montant de [pp non pondérés](/wiki/Performance_points#pourquoi-n'a-t-on-pas-obtenu-le-montant-complet-de-pp-d'une-map-i-jouée-?) que vous recevriez pour le jeu. | Votre nombre total de points de performance et le nombre de pp que valait le jeu soumis. |
+| [`Performance`](/wiki/Performance_points) | Le montant de [pp non pondérés](/wiki/Performance_points#pourquoi-n'ai-je-pas-gagné-la-totalité-des-pp-d'une-beatmap-que-j'ai-jouée-?) que vous recevriez pour le jeu. | Votre nombre total de points de performance et le nombre de pp que valait le jeu soumis. |
 
 ### Médailles
 

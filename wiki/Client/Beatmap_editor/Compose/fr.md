@@ -91,8 +91,8 @@ En bas à droite, la vitesse de lecture peut être réglée sur 25 %, 50 %, 75 %
 | :-- | :-- |
 | Blanc | Horodatage actuel |
 | Jaune | Point de prévisualisation |
-| Vert | [Point de timing hérité](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
-| Rouge | [Point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
+| Vert | [Point de timing hérité](/wiki/Client/Beatmap_editor/Timing#point-de-timing-hérité) |
+| Rouge | [Point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#point-de-timing-non-hérité) |
 | Bleu | marque-page |
 
 #### Sections de couleur
@@ -131,7 +131,7 @@ Dans osu!mania, la zone du diviseur de mesure montre également le nom et le niv
 
 | Bouton (raccourci clavier) | Utilisation |
 | :-- | :-- |
-| `Sampleset` | Remplace le [sampleset](/wiki/Beatmapping/Sampleset) des objets sélectionnés (y compris leurs hitnormals). Choisir `Auto` réinitialise le sampleset à celui du [point de timing](/wiki/Client/Beatmap_editor/Timing#timing-points) actif. |
+| `Sampleset` | Remplace le [sampleset](/wiki/Beatmapping/Sampleset) des objets sélectionnés (y compris leurs hitnormals). Choisir `Auto` réinitialise le sampleset à celui du [point de timing](/wiki/Client/Beatmap_editor/Timing#points-de-timing) actif. |
 | `Additions` | Remplace le jeu d'échantillons des objets sélectionnés, n'affectant que leurs sons additionnels (whistle, finish et clap). Le choix de `Auto` réinitialise le jeu d'échantillons à celui du point de timing actif. |
 | `Select` (`1`) | `Clic gauche` ou `Glisser gauche` : Déplace l'horodatage et l'emplacement de la note. `Clic droit` : Supprime la note. `Ctrl` + `Clic gauche` : Sélectionne plusieurs objets. |
 | `Circle` (`2`) | `Clic gauche` : Place une note. |
