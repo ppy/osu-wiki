@@ -13,4 +13,4 @@ Los **líderes del MAT** supervisaron al [Mapping Assistance Team](/wiki/People/
 
 ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) fue elegido como líder inaugural del MAT en la formación del grupo el 27 de diciembre de 2009.
 
-El cargo lo ocupó posteriormente ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) desde el 26 de agosto de 2010 hasta la disolución del MAT el 23 de abril 2013.
+El cargo lo ocupó posteriormente ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) desde el 26 de agosto de 2010, hasta la disolución del MAT el 23 de abril 2013.
