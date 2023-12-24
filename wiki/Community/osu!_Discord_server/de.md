@@ -3,8 +3,6 @@ tags:
   - development
   - osu!dev
   - Softwareentwicklung
-outdated_translation: true
-outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # osu! Discord-Server
@@ -24,6 +22,7 @@ Der osu! Discord-Server verfügt über eine Reihe von Kanälen, von denen sich v
 | Kanal | Beschreibung |
 | :-- | :-- |
 | `#welcome` | Server-Informationen |
+| `#announcements` | Serverankündigungen |
 | `#introductions` | Selbstvorstellung |
 | `#general` | Allgemeine Diskussionen und Fehlerbehebungen bezogen auf osu! |
 
