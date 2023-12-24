@@ -22,7 +22,7 @@ Each new medal will be released at around 14:00 UTC, and there are a few ways to
 - The [@osugame Twitter account](https://twitter.com/osugame) will be posting each new medal.
 - Discussion threads will be posted in [this forum discussion hub](https://osu.ppy.sh/community/forums/topics/1861054). We encourage working together to solve these medals!
 
-Additionally, there will be an [**osu!supporter**](/wiki/en/osu!supporter) reward of 1 month for each player who first unlocks a medal from this batch.
+Additionally, there will be an [**osu!supporter**](/wiki/osu!supporter) reward of 1 month for each player who first unlocks a medal from this batch.
 
 So, what are you waiting for? Let's get into today's medal!
 
