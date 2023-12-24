@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Year 2024 Countdown Medals"
+title: New Year 2024 Countdown Medals
 date: 2023-12-24 14:00:00 +0000
 ---
 
