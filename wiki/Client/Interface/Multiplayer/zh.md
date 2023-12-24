@@ -213,7 +213,7 @@ needs_cleanup: true
 
 [聊天面板](/wiki/Client/Interface/Chat_console)上方有两个大按钮，分别是橙色和蓝色的。
 
-左边的橙色 `离开房间` 按钮的作用不言自明。当房主离开房间时，房主资格会按槽位自动转移给剩余玩家。房间里没有玩家时会自动关闭，但由 [`!mp` 命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)建立的房间除外，这类房间会在 30 分钟后关闭。
+左边的橙色 `离开房间` 按钮的作用顾名思义。当房主离开房间时，房主资格会按槽位自动转移给剩余玩家。房间里没有玩家时会自动关闭，但由 [`!mp` 命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)建立的房间除外，这类房间会在 30 分钟后关闭。
 
 蓝色按钮用于控制玩家的准备状态，以及开始比赛。
 
