@@ -284,3 +284,4 @@ As the tournament was an invitational, there were no open registrations held for
    - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
