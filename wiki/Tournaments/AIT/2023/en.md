@@ -87,8 +87,8 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up)*
 - ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher)*
 - ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher)*
-- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/LCQ_2023) winner)*
-- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/LCQ_2023) runner-up)*
+- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) winner)*
+- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) runner-up)*
 
 In addition, the tournament management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw from the event on short notice.
 
