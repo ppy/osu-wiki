@@ -15,6 +15,7 @@ outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 ## 链接
 
 - **[网站](https://ppy.sh/)**
+- [个人主页](https://osu.ppy.sh/users/2)
 - [ppy 博客](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)
