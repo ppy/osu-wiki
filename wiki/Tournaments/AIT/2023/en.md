@@ -53,7 +53,7 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 | Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
 | Organiser | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
 | Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
-| Custom mapper | ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751)  |
+| Custom mapper | ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751) |
 | Playtester | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 | Streamer | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 | Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
@@ -65,7 +65,7 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 | Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Merch artist | ::{ flag=ID }:: satomiz [(↗)](https://web.facebook.com/stmzu), ::{ flag=ID }:: aikovio [(↗)](https://twitter.com/aikovio), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) | 
+| Merch artist | ::{ flag=ID }:: satomiz [(↗)](https://web.facebook.com/stmzu), ::{ flag=ID }:: aikovio [(↗)](https://twitter.com/aikovio), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
 | Special thanks | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
 
 ## Links
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 | Upper/Match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
 | Upper/Match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
 | Upper/Match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
-| Upper/Match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://osu.ppy.sh/community/matches/111636611) |
+| Upper/Match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
 
 ## Ruleset
 
