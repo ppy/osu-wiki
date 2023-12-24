@@ -30,7 +30,7 @@ Les Beatmap Nominators titulaire dont l'activité de nomination est inférieure 
 
 La probation permet de suivre de plus près les nouveaux Beatmap Nominators ou les Beatmap Nominators rétrogradés. Le rôle principal des Beatmap Nominators en probation est d'établir une base en tant que Beatmap Nominators en promouvant exclusivement des beatmaps dans le processus de classement. Au moins un nominateur titulaire doit être impliqué dans le processus de classement pour chaque mode de jeu d'une beatmap, de sorte que les membres probatoires ne peuvent pas donner la nomination finale à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
 
-Les Beatmap Nominators en probation sont [évalués](/wiki/People/Nomination_Assessment_Team/Evaluations) après avoir rempli le double de leurs [conditions d'activité](/wiki/People/Beatmap_Nominators/Rules#requirements), ou au bout d'un mois après avoir été placés, selon ce qui arrive en premier.
+Les Beatmap Nominators en probation sont [évalués](/wiki/People/Nomination_Assessment_Team/Evaluations) après avoir rempli le double de leurs [conditions d'activité](/wiki/People/Beatmap_Nominators/Rules#exigences), ou au bout d'un mois après avoir été placés, selon ce qui arrive en premier.
 
 Les nouveaux membres des Beatmap Nominators se verront attribuer un buddy NAT qu'ils sont encouragés à contacter directement pour des questions ou des conseils. Après leur première évaluation, si leurs nominations et leur comportement sont satisfaisants, ils seront promus titulaire des Beatmap Nominators suite à une évaluation positive. Dans le cas contraire, ils resteront en probation pendant un mois supplémentaire ou seront exclus de la liste des Beatmap Nominators.
 
