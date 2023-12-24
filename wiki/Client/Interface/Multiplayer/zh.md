@@ -6,13 +6,13 @@ needs_cleanup: true
 
 # 多人游戏
 
-**多人游戏** （**Multiplayer**，有时简写为 *Multi*）是一个游戏模式，最多允许 16 位玩家参加，他们可以单独或组队对抗，也可以一起合作游玩，游玩的谱面由房主决定。
+**多人游戏** （**Multiplayer**，有时简写为 *Multi*）是最多允许 16 位玩家进行个人对抗、团队对抗或合作游玩的游戏模式，游玩的谱面由房主决定。
 
 [osu! 学院](/wiki/Community/Video_series/osu!academy)的[第 6 集 (YouTube)](https://www.youtube.com/watch?v=QPTLyG7O8ak) 视频中包括了这部分内容，除此之外还介绍了[在线用户面板](/wiki/Client/Interface/Chat_console#扩展聊天面板)的相关内容。
 
 ## 游玩方法
 
-*注意：需要 [osu! 账号](/wiki/Registration)来参加多人游戏，[已禁言](/wiki/Silence)的玩家无法参加。*
+*注意：需要 [osu! 账号](/wiki/Registration)来参加多人游戏，[被禁言](/wiki/Silence)的玩家无法参加。*
 
 在主菜单中，可以通过如下步骤进入多人游戏大厅：
 
@@ -89,7 +89,7 @@ needs_cleanup: true
 ![](img/multi-room.jpg "玩家视角下的比赛房间")
 :::
 
-在创建或进入比赛房间后，会显示比赛配置页。本文下面几节会按从上到下、从左到右的顺序，着重讲解此页面的不同部分。
+在创建或进入比赛房间后，会显示比赛配置页。下文会按从上到下、从左到右的顺序，着重讲解此页面的各个部分。
 
 在比赛房间里没有可以直接打开[设置菜单](/wiki/Client/Options)的按钮，但仍然可以按 `Ctrl` + `O` 打开它。
 
@@ -109,16 +109,16 @@ needs_cleanup: true
 
 点击可用槽位即可进行移动，但无法移动到带有上锁图标的槽位。房主可以通过点击槽位左侧的图标将其上锁、解锁，也可以踢走槽位中的玩家。如果要转移房主权限，可以右击目标玩家，然后按下 `将房主交给此玩家` 按钮。在 Team VS 模式中可以将队伍颜色改为蓝色或红色。
 
-光标悬停在表中玩家上时，会显示对应玩家的等级、国家或地区及[整体准确率](/wiki/Gameplay/Accuracy)。
+光标悬停在表中玩家上时，会显示对应玩家的等级、国家或地区和[整体准确率](/wiki/Gameplay/Accuracy)。
 
 列表中的玩家栏可以有四种不同颜色，各有不同含义：
 
 | 颜色 | 描述 |
 | :-: | :-- |
-| **红色（没有地图）** | 玩家没有谱面，在下载好谱面前都会显示 `[没有地图]` 通知。 |
+| **红色（没有此图）** | 玩家没有谱面，在下载好谱面之前都会显示 `[没有此图]` 。 |
 | **白色（未准备好）** | 玩家拥有此谱面但还没准备好。在此状态下可以更改[游戏模组](/wiki/Gameplay/Game_modifier)选择。 |
 | **绿色（已准备好）** | 玩家已准备好，此时不能更改模组选择。在有玩家准备好后，房主就可以开始比赛，所有已准备好的玩家都会开始游玩。 |
-| **浅蓝色（游玩中）** | 玩家正在游玩，在比赛结束前都会显示 `[游玩中]` 通知。 |
+| **浅蓝色（游玩中）** | 玩家正在游玩，在比赛结束前都会显示 `[游玩中]` 。 |
 
 ### 比赛设置
 
@@ -164,7 +164,7 @@ needs_cleanup: true
 | 谱面状态 | 描述 |
 | :-: | :-- |
 | `Ranked` / `Approved` / `Pending` / `Graveyard` | [谱面类别](/wiki/Beatmap/Category)。点击谱面卡片后会打开谱面信息页，可以在这里[下载](/wiki/Beatmap#下载谱面)它。 |
-| `Not uploaded or not up-to-date（未上传或非最新）` | 无法下载此谱面。如果问题仍然存在，房主应该帮玩家找到（[谱面列表](https://osu.ppy.sh/beatmapsets)中的）链接。 |
+| `Not uploaded or not up-to-date（未上传或非最新）` | 无法下载此谱面。如果问题无法解决，房主应该帮玩家找到（[谱面列表](https://osu.ppy.sh/beatmapsets)中的）链接。 |
 | `Cannot update the beatmap（无法更新谱面）` | 房主选择了已经修改的谱面。 |
 
 #### 模组
@@ -187,8 +187,8 @@ needs_cleanup: true
 | :-- | :-- |
 | `Head-to-head` | 相互比拼，竞争榜首。 |
 | `Team VS` | 组队（红队和蓝队）比拼，获得胜利。 |
-| `Tag co-op` （仅限 osu! 模式，不计入排名） | 一起完成谱面，一次打一串连击。 |
-| `Tag-team VS` （仅限 osu! 模式，不计入排名） | 与 `Tag co-op` 相同，但是有两支队伍相互对立。 |
+| `Tag co-op` （仅限 osu! 模式，不计入排名） | 一起完成谱面，每位玩家一次打一组连击。 |
+| `Tag-team VS` （仅限 osu! 模式，不计入排名） | 与 `Tag co-op` 相同，但是有两支队伍相互对抗。 |
 
 ##### Tag 颜色
 
@@ -196,7 +196,7 @@ needs_cleanup: true
 ![](img/multi-tag-colours.jpg "玩家负责连击组的可用颜色")
 :::
 
-如果组队模式是 `Tag co-op` 或 `Tag-team VS`，则会显示 `Tag Colour（Tag 颜色）: (combo colour)` 小节，让每位玩家可以选择自定义颜色。如果颜色设置为 `Default（默认）`，则会使用谱面原有的连击组颜色。
+如果组队模式是 `Tag co-op` 或 `Tag-team VS`，则会显示 `Tag Colour（Tag 颜色）: (combo colour)` 选项，让每位玩家可以选择自定义颜色。如果颜色设置为 `Default（默认）`，则会使用谱面原有的连击颜色。
 
 #### 获胜条件
 
@@ -215,7 +215,7 @@ needs_cleanup: true
 
 左边的橙色 `离开房间` 按钮的作用不言自明。当房主离开房间时，房主资格会按槽位自动转移给剩余玩家。房间里没有玩家时会自动关闭，但由 [`!mp` 命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)建立的房间除外，这类房间会在 30 分钟后关闭。
 
-蓝色按钮用于控制玩家的准备状态，也可以使比赛开始。
+蓝色按钮用于控制玩家的准备状态，以及开始比赛。
 
 | 名称 | 描述 |
 | :-: | :-- |
@@ -248,11 +248,11 @@ needs_cleanup: true
 
 #### 血量
 
-当玩家的血条完全清空时，玩家仍然可以继续游玩，但会被视作失败，其分数不会出现在排行榜上。在没有使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的情况下，玩家在血条回满时就会复活。
+当玩家的血条掉光时，玩家仍然可以继续游玩，但会被视作失败，其分数不会出现在排行榜上。在没有使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的情况下，玩家在血条回满时就会复活。
 
 在 Team VS 模式中，比赛结束时处于失败状态的玩家，其分数不会计入所在队伍总分。如果队伍中的所有玩家都失败了，比赛就会立刻结束，默认另一队获胜。
 
-#### 结果
+#### 结算
 
 与单人游戏不同，多人游戏中的结算屏幕下方没有[在线排行榜](/wiki/Client/Interface#在线排行榜)，但如果比赛中获得的分数足够好，也会出现在在线排行榜上（`Tag co-op` 和 `Tag-team VS` 模式中的除外）。比赛结果不会在本地排行榜中显示。
 
@@ -290,8 +290,8 @@ needs_cleanup: true
 
 | 图例 | 状态 | 描述 |
 | :-: | :-: | :-- |
-| ![](img/Playerbox/Multi_PB_B.jpg "正常") | 正常 | 玩家剩余血量超过一半。取决于血量变化，颜色可能会变亮，也可能变成红色。 |
-| ![](img/Playerbox/Multi_PB_R.jpg "危险") | 危险 | 玩家剩余血量不到一半。取决于血量变化，颜色可能会变亮，也可能变成蓝色。 |
+| ![](img/Playerbox/Multi_PB_B.jpg "正常") | 正常 | 玩家剩余血量大于一半。颜色会根据血量变为亮蓝色或亮红色。 |
+| ![](img/Playerbox/Multi_PB_R.jpg "危险") | 危险 | 玩家剩余血量少于一半。颜色会根据血量变为亮蓝色或亮红色。 |
 | ![](img/Playerbox/Multi_PB_F.jpg "失败") | 失败 | 玩家血量为零，处于[失败状态](#血量)。 |
 | ![](img/Playerbox/Multi_PB_TAG.jpg "接力") | 接力 | 在 `Tag co-op` 和 `Tag-team VS` 模式中，玩家框总是绿色的。发微弱白光的绿色箭头会指着当前正在接力的玩家。 |
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "已跳过") | 已跳过 | 玩家请求跳过谱面前奏部分（如果有）。当所有玩家都已请求，则会跳过前奏。 |
