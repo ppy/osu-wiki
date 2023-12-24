@@ -224,7 +224,7 @@
 
 ### 2023
 
-#### November
+#### 十一月
 
 *参见新闻报道：[Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
 
