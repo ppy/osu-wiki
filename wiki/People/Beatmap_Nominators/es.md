@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 6f2dc0a34d9ff001c9d1f06c87cd10f971158c3f
 tags:
   - BN
   - BNG
@@ -32,7 +30,7 @@ Los Beatmap Nominators completos con una actividad de nominación por debajo del
 
 El período de prueba se usa para monitorear más de cerca a los Beatmap Nominators nuevos o degradados. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con sus [actividades requeridas](/wiki/People/Beatmap_Nominators/Rules#activity) o después de un mes de haber sido puestos ahí, lo que suceda primero.
+Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con el doble de sus [requisitos de actividad](/wiki/People/Beatmap_Nominators/Rules#requirements) o después de un mes de haber sido puestos ahí, lo que suceda primero.
 
 A los nuevos miembros de Beatmap Nominators se les asignará un compañero del NAT con el que podrán ponerse en contacto directamente en caso de preguntas u orientación. Después de su primera evaluación, si sus nominaciones y comportamiento son satisfactorios, serán promovidos a Beatmap Nominators completos tras una evaluación positiva. En caso contrario, permanecerán en período de prueba durante un mes más o serán retirados de Beatmap Nominators.
 
