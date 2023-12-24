@@ -4,7 +4,7 @@
 
 ## 使用与信息
 
-大多数[上架 (ranked)](/wiki/Beatmap/Category#上架-(ranked)) 分类的谱面介绍会包含以下要素：
+大多数[上架 (ranked)](/wiki/Beatmap/Category#ranked) 分类的谱面介绍会包含以下要素：
 
 - 所有[客串难度](/wiki/Beatmap/Guest_difficulty)及其制作者的列表
 - 帮助玩家决定是否想要下载谱面的信息

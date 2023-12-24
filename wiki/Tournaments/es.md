@@ -25,7 +25,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 6/12/2020 | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania | ::{ flag=CA }:: Canadá |
 | [osu! World Cup 2021](OWC/2021) | 9/10/2021 | 28/11/2021 | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania | ::{ flag=KR }:: Corea del Sur |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania |
-| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -83,6 +83,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 7/7/2022 | 18/9/2022 | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil | ::{ flag=US }:: Estados Unidos |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/2/2023 | ::{ flag=PH }:: Filipinas | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/7/2023 | 24/9/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2023 | *TBD* | *TBD* | *TBD* |
 
 ## Comunidad
 
@@ -141,7 +142,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 30/9/2023 | 12/11/2023 | *TBD* | *TBD* | *TBD* |
+| [BubblyQT 6](BQT/6) | 30/9/2023 | 12/11/2023 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

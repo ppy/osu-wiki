@@ -25,7 +25,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: Amerika Serikat | ::{ flag=DE }:: Jerman | ::{ flag=CA }:: Kanada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: Amerika Serikat | ::{ flag=DE }:: Jerman | ::{ flag=KR }:: Korea Selatan |
 | [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: Amerika Serikat | ::{ flag=KR }:: Korea Selatan | ::{ flag=DE }:: Jerman |
-| [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: Amerika Serikat | ::{ flag=KR }:: Korea Selatan | ::{ flag=AU }:: Australia |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -83,6 +83,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: Korea Selatan | ::{ flag=BR }:: Brazil | ::{ flag=US }:: Amerika Serikat |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: Filipina | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | ::{ flag=US }:: Amerika Serikat | ::{ flag=KR }:: Korea Selatan | ::{ flag=ID }:: Indonesia |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | *TBD* | *TBD* | *TBD* |
 
 ## Turnamen komunitas
 
@@ -141,7 +142,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | *TBD* | *TBD* | *TBD* |
+| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

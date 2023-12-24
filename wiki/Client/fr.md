@@ -21,4 +21,4 @@ Page d'index pour les articles concernant le client d'osu! et ses principales se
 ## Détails techniques
 
 - [Fichiers de programmes](Program_files)
-- [Formats de fichiers](File_formats) 
+- [Formats de fichiers](File_formats)

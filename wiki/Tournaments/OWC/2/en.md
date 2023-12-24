@@ -1,6 +1,6 @@
 ---
 tags:
-  - OWC #2
+  - "OWC #2"
   - OWC 2
   - OWC#2
   - OWC2
@@ -481,7 +481,7 @@ Sunday, 27 November 2011:
 
 1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
 2. Beatmap scoring is based on **[ScoreV1](/wiki/Gameplay/Score/ScoreV1)**.
-3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
+3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
 5. If no staff is available, the match will be postponed.
@@ -491,7 +491,7 @@ Sunday, 27 November 2011:
 9. If a team fails to bring in the required minimum of 4 players to a match, the corresponding match can either be:
    - Postponed by a maximum time of 10 minutes under the opposing team and the Tournament Management's discretion.
    - Continued in either a 2v2 or 3v3 setting under the opposing team and the Tournament Management's discretion.
-   - Declared as a forfeited match where the opposing team gets automatically awarded a Win by Default.     
+   - Declared as a forfeited match where the opposing team gets automatically awarded a Win by Default.
 10. Exchanging players during a match is allowed without limitations.
     - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
 11. Lag is not a valid reason to nullify a beatmap.
@@ -562,7 +562,7 @@ Time Zone: (...)
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
-4. The top two teams of each group will move on to the knock-out stages following [the matchup bracket set by the Tournament Management](img/bracket.jpg).   
+4. The top two teams of each group will move on to the knock-out stages following [the matchup bracket set by the Tournament Management](img/bracket.jpg).
    - The knock-out stages are played under the Single Elimination system.
 
 #### Winning conditions

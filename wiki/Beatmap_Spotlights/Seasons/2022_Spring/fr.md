@@ -27,11 +27,11 @@ tags:
 
 Pour le moment, les participants doivent télécharger et installer [osu!(lazer)](/wiki/Client/Release_stream/Lazer) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
-1. Toutes les 2 semaines de la saison, un seul lobby playlist est ouvert. Tout le monde peut y participer toute la semaine. 
+1. Toutes les 2 semaines de la saison, un seul lobby playlist est ouvert. Tout le monde peut y participer toute la semaine.
    - Après la première vague de lobbies, les playlists vont à nouveau être ouvertes sur une base hebdomadaire.
 2. Chaque lobby playlist fournit une playlist de beatmaps prédéfinies.
    - Chaque playlist contient une répartition égale de beatmaps Hard, Insane et Expert.
-   - Chaque playlist correspond à la lettre attribuée toutes les 2 semaines. Par conséquent, chaque playlist est rejouée une fois au cours d'une saison. 
+   - Chaque playlist correspond à la lettre attribuée toutes les 2 semaines. Par conséquent, chaque playlist est rejouée une fois au cours d'une saison.
 3. Au sein d'un lobby, tout le monde est en compétition pour un classement spécifique à la salle.
    - Seuls les meilleurs scores sur chaque beatmap au sein de la playlist seront additionnés pour créer un classement hebdomadaire pour chaque joueur.
    - Chaque beatmap d'une playlist compte de manière égale pour le score du classement.

@@ -3,13 +3,13 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
   - sejarah
   - papan peringkat
   - peringkat 1
-  - peringkat #1
+  - "peringkat #1"
   - peringkat
   - pemain teratas
 ---

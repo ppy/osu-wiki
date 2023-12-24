@@ -40,7 +40,7 @@ Anche questo termine è usato principalmente in osu!mania 4K.
 
 ## Chordstream
 
-I **Chordstream** sono un tipo di stream che prevede chord di dimensioni diverse. Lo stream è solitamente su 1/4, con chord ogni 1/1 o 1/2 di snap. Nelle modalità di tasti al di fuori di 4K, il termine "chordstream" si riferisce di solito a stream che coinvolgono 3 o più note all'interno dei chord. Pertanto, il termine è usato quasi esclusivamente nelle modalità al di fuori di 4K. 
+I **Chordstream** sono un tipo di stream che prevede chord di dimensioni diverse. Lo stream è solitamente su 1/4, con chord ogni 1/1 o 1/2 di snap. Nelle modalità di tasti al di fuori di 4K, il termine "chordstream" si riferisce di solito a stream che coinvolgono 3 o più note all'interno dei chord. Pertanto, il termine è usato quasi esclusivamente nelle modalità al di fuori di 4K.
 
 ![](img/chordstream.png)
 

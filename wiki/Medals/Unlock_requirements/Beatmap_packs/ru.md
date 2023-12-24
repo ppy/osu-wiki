@@ -61,7 +61,7 @@
 | Omoi Pack | Пройти все карты из подборки [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82). |
 | Chill Pack | Пройти все карты из подборки [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
 | Rohi Pack | Пройти все карты из подборки [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
-| Drum & Bass Pack | Пройти все карты из подборки [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T109). |
+| Drum & Bass Pack | Пройти все карты из подборки [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113). |
 | Mappers' Guild Pack I | Пройти все карты из подборки [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Пройти все карты из подборки [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
 | Mappers' Guild Pack III | Пройти все карты из подборки [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689). |

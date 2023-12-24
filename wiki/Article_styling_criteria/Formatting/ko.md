@@ -1,3 +1,8 @@
+---
+outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
+outdated_translation: true
+---
+
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
@@ -773,7 +778,7 @@ jpeg-recompress -am smallfry <input> <output>
 ::{ flag=XX }::
 ```
 
-`XX`에는 국기에 대한 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
+`XX`에는 국기에 대한 [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
 
 ## 표
 
@@ -824,7 +829,7 @@ Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변
 - 짧은 섹션의 경우: 다음 섹션의 헤더가 Infobox 아래에 표시되며, 텍스트 뒤쪽으로 큰 간격이 남게 됩니다.
 - 한번에 여러 이미지가 있는 경우: 더 나은 디자인을 위해 각각의 이미지에 Infobox를 사용하세요.
 
-Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다. 
+Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다.
 
 ## 각주
 
