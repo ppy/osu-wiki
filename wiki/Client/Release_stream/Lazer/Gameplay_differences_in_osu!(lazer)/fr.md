@@ -6,7 +6,7 @@ Cette page présente les différences affectant le gameplay dans osu!(lazer).
 
 ## Général
 
-### La lecture de la musique s'accélère et se ralentit lors de la mise en pause et de la reprise de la lecture.
+### La lecture de la musique s'accélère et se ralentit lors de la mise en pause et de la reprise de la lecture
 
 Il est ainsi plus difficile de reprendre le jeu après une pause au milieu d'une partie active, ce qui empêche dans une certaine mesure les abus de pause.
 
@@ -17,7 +17,7 @@ Il est ainsi plus difficile de reprendre le jeu après une pause au milieu d'une
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Oui |
 
-### Le mod Easy n'interrompt plus le gameplay lors de la récupération d'un échec.
+### Le mod Easy n'interrompt plus le gameplay lors de la récupération d'un échec
 
 Au lieu d'interrompre le jeu pendant le remplissage de la barre de santé, la santé est restaurée immédiatement.
 
@@ -99,7 +99,7 @@ Certains storyboards comportent des éléments qui réagissent à l'entrée ou �
 
 ## osu!
 
-### Le notelock a été modifié pour être plus souple.
+### Le notelock a été modifié pour être plus souple
 
 ![](img/notelock.gif)
 
@@ -125,7 +125,7 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Non |
 
-### Les sliders ends ne contribuent pas au combo et ne provoquent pas de miss.
+### Les sliders ends ne contribuent pas au combo et ne provoquent pas de miss
 
 Les sliders ends avaient la particularité de ne pas rompre le combo (et de ne pas causer de jugement MISS) si elles étaient manquées. Cela signifiait qu'un jeu S, qui, entre autres choses, ne nécessite aucun jugement MISS, ressemblerait à un combo complet même si certains sliders étaient manqués. Il s'en est suivi divers débats sur la question de savoir si un tel jeu devait être appelé "FC".
 
@@ -162,7 +162,7 @@ Dans la version stable, les sliders ends jouaient leurs hitsounds même s'ils é
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Non |
 
-### La limite de vitesse de rotation des spinners de 477 tours/minute a été supprimée.
+### La limite de vitesse de rotation des spinners de 477 tours/minute a été supprimée
 
 Au lieu d'un plafond de vitesse, les spinners ont désormais un plafond de score déterminé par le nombre total de rotations qui peuvent être réalisées en faisant tourner l'ensemble du spinner à 477 tours par minute.
 
@@ -175,7 +175,7 @@ Cela signifie que le score maximum peut être obtenu rapidement en spinnant plus
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Oui |
 
-### Les sliders glitchés de type Aspire ne sont pas pris en charge.
+### Les sliders glitchés de type Aspire ne sont pas pris en charge
 
 ![](img/aspire-slider.gif)
 
@@ -214,7 +214,7 @@ Dans la version stable, les drumrolls ne pouvaient pas être frappés trop rapid
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Oui |
 
-### Le centre de Flashlight est aligné avec le récepteur d'impact.
+### Le centre de Flashlight est aligné avec le récepteur d'impact
 
 Dans stable, le centre de Flashlight est légèrement décalé vers le bas et vers la droite, ce qui permet de voir plus d'objets.
 
@@ -262,7 +262,7 @@ Son fonctionnement est similaire à celui de ScoreV2 dans stable.
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Non |
 
-### Les ticks de la hold note donnent le score et sont responsables des ruptures de combo.
+### Les ticks de la hold note donnent le score et sont responsables des ruptures de combo
 
 Dans la version stable, le fait de relâcher pendant un corps de hold note cassait immédiatement le combo, mais maintenant il ne se brise que si l'on manque un tick de hold note.
 

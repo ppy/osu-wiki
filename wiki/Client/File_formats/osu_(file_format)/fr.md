@@ -194,7 +194,7 @@ Le paramètre de type de l'objet est un entier de 8 bits où chaque bit est un c
 | 0 | Marque l'objet comme un cercle |
 | 1 | Marque l'objet comme un slider |
 | 2 | Marque le début d'un nouveau combo |
-| 3 | Marque l'objet comme étant un spinner  |
+| 3 | Marque l'objet comme étant un spinner |
 | 4, 5, 6 | Un entier de 3 bits spécifiant le nombre de couleurs de combo à sauter, une pratique appelée "colour hax". Ne s'applique que si l'objet démarre un nouveau combo. |
 | 7 | Marque l'objet en tant que hold note d'osu!mania. |
 

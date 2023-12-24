@@ -8,7 +8,7 @@ Cet article explique tout ce que vous devez savoir sur l'utilisation du client d
 
 ![](img/main-menu-FR.jpg?1 "Menu principal")
 
-- \[1\] Le [cookie d'osu!] (/wiki/Client/Interface/Cookie). En cliquant dessus, le menu principal s'ouvre. Il pulse en fonction du [BPM](/wiki/Music_theory/Tempo) de la musique et des barres s'étendent autour de lui pour visualiser le spectre audio. Si aucune musique n'est jouée, il pulse à un rythme lent de 60 BPM.
+- \[1\] Le [cookie d'osu!](/wiki/Client/Interface/Cookie). En cliquant dessus, le menu principal s'ouvre. Il pulse en fonction du [BPM](/wiki/Music_theory/Tempo) de la musique et des barres s'étendent autour de lui pour visualiser le spectre audio. Si aucune musique n'est jouée, il pulse à un rythme lent de 60 BPM.
 - \[2\] Cliquez sur `Play` (ou appuyez sur `P`) pour jouer à osu! seul ou à plusieurs.
 - \[3\] Cliquez sur `Edit` (ou appuyez sur `E`) pour éditer une [beatmap](/wiki/Beatmap).
 - \[4\] Cliquez sur `Options` (ou appuyez sur `O`) pour ouvrir la [barre latérale des options](/wiki/Client/Options).
@@ -70,7 +70,7 @@ Le lobby multijoueur vous permet de jouer avec ou contre d'autres joueurs.
 
 ![](img/song-selection-FR.jpg?1 "Sélection de la musique")
 
-L'icône du [mode de jeu] (/wiki/Game_mode) actuellement sélectionné est visible dans les options en bas à gauche, au-dessus de `Mode`. L'icône du mode est également légèrement visible au centre de l'écran. Voici les quatre modes que vous verrez :
+L'icône du [mode de jeu](/wiki/Game_mode) actuellement sélectionné est visible dans les options en bas à gauche, au-dessus de `Mode`. L'icône du mode est également légèrement visible au centre de l'écran. Voici les quatre modes que vous verrez :
 
 - ![](/wiki/shared/mode/osu.png) correspond à [osu!](/wiki/Game_mode/osu!)
 - ![](/wiki/shared/mode/taiko.png) correspond à [osu!taiko](/wiki/Game_mode/osu!taiko)
