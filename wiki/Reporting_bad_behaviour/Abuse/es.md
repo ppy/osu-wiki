@@ -50,7 +50,7 @@ Adicionalmente, si conoces el nombre de usuario de osu! de la persona que está 
 
 ### En un Twitter enlazado a un perfil de osu!
 
-Haz clic en los tres puntos en la parte superior del tuit conteniendo el problema y haz clic en 'Denunciar Tweet'. Asegúrate de seguir los formularios y de leerlos cuidadosamente. Quizás también quieras leer [la guía de Twitter acerca de cómo denunciar comportamiento abusivo](https://help.twitter.com/es/safety-and-security/report-abusive-behavior) para más información acerca del proceso.
+Haz clic en los tres puntos en la parte superior del tuit conteniendo el problema y haz clic en 'Denunciar Tweet'. Asegúrate de seguir los formularios y de leerlos cuidadosamente. Quizás también quieras leer [la guía de Twitter acerca de cómo denunciar comportamientos abusivos](https://help.twitter.com/es/safety-and-security/report-abusive-behavior) para más información acerca del proceso.
 
 Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo clic en los tres puntos en la parte superior derecha del su tuit (si estás usando la página web o el cliente móvil). Consulta [la guía de Twitter acerca de cómo bloquear cuentas](https://help.twitter.com/es/using-twitter/blocking-and-unblocking-accounts) para más información.
 
