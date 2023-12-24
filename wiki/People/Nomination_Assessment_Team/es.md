@@ -150,7 +150,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
 
