@@ -40,7 +40,7 @@ Maintenez `Alt` pour basculer le curseur en mode [distance spacing](/wiki/Client
 
 | Bouton (raccourci clavier) | Description |
 | :-- | :-- |
-| `Sampleset` | Remplace le [sampleset](/wiki/Beatmapping/Sampleset) des objets sélectionnés (y compris leurs hitnormals). Choisir `Auto` réinitialise le sampleset à celui du [point de timing](/wiki/Client/Beatmap_editor/Timing#timing-points) actif. |
+| `Sampleset` | Remplace le [sampleset](/wiki/Beatmapping/Sampleset) des objets sélectionnés (y compris leurs hitnormals). Choisir `Auto` réinitialise le sampleset à celui du [point de timing](/wiki/Client/Beatmap_editor/Timing#points-de-timing) actif. |
 | `Additions` | Remplace le jeu d'échantillons des objets sélectionnés, n'affectant que leurs sons additionnels (whistle, finish et clap). Le choix de `Auto` réinitialise le jeu d'échantillons à celui du point de timing actif. |
 | `Select` (`1`) | `Clic gauche` ou `Glisser gauche` : Sélectionne ou déplacer des objets ou des points de contrôle. `Clic droit` : Supprime des objets ou des points de contrôle. `Ctrl` + `Clic gauche` : Sélectionne plusieurs objets. `Ctrl` + `Clic gauche` pour sélectionner un slider : Ajoute un [point de contrôle](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
 | `Circle` (`2`) | `Clic gauche` : Ajoute un [cercle](/wiki/Gameplay/Hit_object/Hit_circle) à l'heure actuelle. |
