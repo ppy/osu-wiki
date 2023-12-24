@@ -8,7 +8,7 @@
 
 我们对这个社区中任何未经同意的性暗示或更进一步的行为都是零容忍的。
 
-这个举报邮箱只有 [peppy](https://osu.ppy.sh/users/2)（游戏创始人）可以看到：
+这个举报邮箱只有 [peppy](https://osu.ppy.sh/users/2)（游戏创始人）可以看到。
 
 你发送给 [abuse@ppy.sh](mailto:abuse@ppy.sh) 的一切材料，只有他可以看到，并且永远不会分享给任何人。
 
