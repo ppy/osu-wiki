@@ -183,6 +183,77 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | D2: viets sing |
 | ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | D12: Sunaookami Shiroko |
 
+## 赛果
+
+### QQ 赛区 总决赛
+
+2023 年 12 月 16 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q3: 兰州拉面专业培训班** | **7** | 3 | Q16: DWG.BurgerkingReisen | [#1](https://osu.ppy.sh/community/matches/111749143) |
+| **Q12: Team 12** | **7** | 5 | Q3: 兰州拉面专业培训班 | [#2](https://osu.ppy.sh/community/matches/111750301) |
+
+### QQ 赛区 决赛
+
+2023 年 12 月 9 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q2: 叮咚鸡** | **7** | 4 | Q21: MoKori没可莉 | [#3](https://osu.ppy.sh/community/matches/111640559) |
+| Q3: 兰州拉面专业培训班 | 4 | **7** | **Q12: Team 12** | [#1](https://osu.ppy.sh/community/matches/111641998) |
+| **Q16: DWG.BurgerkingReisen** | **7** | 5 | Q6: 咖啡配魔爪心脏咚咚咚 | [#2](https://osu.ppy.sh/community/matches/111642922) |
+
+2023 年 12 月 10 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | [win by default] |
+
+### QQ 赛区 半决赛
+
+2023 年 12 月 1 日，星期五
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q21: MoKori没可莉** | **7** | 4 | Q4: 梨落某海 | [#6](https://osu.ppy.sh/community/matches/111523293) |
+
+2023 年 12 月 2 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q1: 干什么!** | **7** | 2 | Q23: 再奖励一把大天空 | [#5](https://osu.ppy.sh/community/matches/111538925) |
+| Q16: DWG.BurgerkingReisen | 6 | **7** | **Q3: 兰州拉面专业培训班** | [#1](https://osu.ppy.sh/community/matches/111539358) |
+| **Q7: 洛杉矶糊人** | **7** | 2 | Q5: 阿拜多斯对策委员会 | [#3](https://osu.ppy.sh/community/matches/111539347) |
+| Q1: 干什么! | 6 | **7** | **Q21: MoKori没可莉** | [#8](https://osu.ppy.sh/community/matches/111540047) |
+| Q10: 地表最強陣!RDCB組x5 | 2 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#4](https://osu.ppy.sh/community/matches/111540708) |
+| Q2: 叮咚鸡 | 3 | **7** | **Q12: Team 12** | [#2](https://osu.ppy.sh/community/matches/111540678) |
+
+2023 年 12 月 4 日，星期一
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Q7: 洛杉矶糊人 | 5 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#7](https://osu.ppy.sh/community/matches/111574511) |
+
+### QQ 赛区 四分之一决赛
+
+2023 年 11 月 25 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q16: DWG.BurgerkingReisen** | **7** | 3 | Q21: MoKori没可莉 | [#1](https://osu.ppy.sh/community/matches/111444281) |
+| Q7: 洛杉矶糊人 | 4 | **7** | **Q12: Team 12** | [#4](https://osu.ppy.sh/community/matches/111444684) |
+| **Q23: 再奖励一把大天空** | **7** | 6 | Q18: 克利芙兰奇士 | [#7](https://osu.ppy.sh/community/matches/111444745) |
+| **Q4: 梨落某海** | **7** | 6 | Q19: 你们选人都这么野的吗 | [#8](https://osu.ppy.sh/community/matches/111444611) |
+| **Q2: 叮咚鸡** | **7** | 6 | Q10: 地表最強陣!RDCB組x5 | [#3](https://osu.ppy.sh/community/matches/111445294) |
+| Q9: 闪耀！优俊公鸭 | 2 | **7** | **Q5: 阿拜多斯对策委员会** | [#5](https://osu.ppy.sh/community/matches/111445603) |
+| Q1: 干什么! | 3 | **7** |	**Q3: 兰州拉面专业培训班** | [#2](https://osu.ppy.sh/community/matches/111446109) |
+| Q15: 1！5！ | 3 | **7** |	**Q6: 咖啡配魔爪心脏咚咚咚** | [#6](https://osu.ppy.sh/community/matches/111446197) |
+
+### 常规赛
+
+由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=y7twi6)** 呈现赛果。
+
 ## 规则
 
 ### 比赛规则
