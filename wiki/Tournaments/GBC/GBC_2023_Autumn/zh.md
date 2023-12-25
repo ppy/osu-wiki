@@ -187,6 +187,8 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 ### QQ 赛区 总决赛
 
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=xiki0i)查看。
+
 2023 年 12 月 16 日，星期六
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
@@ -195,6 +197,8 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | **Q12: Team 12** | **7** | 5 | Q3: 兰州拉面专业培训班 | [#2](https://osu.ppy.sh/community/matches/111750301) |
 
 ### QQ 赛区 决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=wmnmix)查看。
 
 2023 年 12 月 9 日，星期六
 
@@ -208,9 +212,11 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | win by default |
+| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | 默认获胜 |
 
 ### QQ 赛区 半决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=13y6sf)查看。
 
 2023 年 12 月 1 日，星期五
 
@@ -236,6 +242,8 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | Q7: 洛杉矶糊人 | 5 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#7](https://osu.ppy.sh/community/matches/111574511) |
 
 ### QQ 赛区 四分之一决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=71acx3)查看。
 
 2023 年 11 月 25 日，星期六
 
