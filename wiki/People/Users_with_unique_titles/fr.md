@@ -4,7 +4,7 @@ Les titres des utilisateurs sont généralement associés à des [groupes d'util
 
 ## Titulaires actuels de la World Cup
 
-Chaque année, les vainqueurs des [World Cups officielles](/wiki/Tournaments#official-world-cups) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
+Chaque année, les vainqueurs des [World Cups officielles](/wiki/Tournaments#world-cups-officielles) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
 
 Vainqueurs de la [OWC 2023](/wiki/Tournaments/OWC/2023) avec le titre d'utilisateur **osu! Champion** :
 
@@ -179,7 +179,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 
 *Page principale : [Nominateurs d'élite](/wiki/People/Elite_Nominators)*
 
-Depuis 2020, les membres des [Beatmap Nominators](/wiki/People/Beatmap_Nominateurs) et de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) avec un affichage exceptionnel vers le soutien du système de classement dans une année donnée sont récompensés par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions faites au cours de la dernière année, et dure environ un an ou jusqu'à ce que l'utilisateur quitte l'équipe.
+Depuis 2020, les membres des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) et de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) avec un affichage exceptionnel vers le soutien du système de classement dans une année donnée sont récompensés par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions faites au cours de la dernière année, et dure environ un an ou jusqu'à ce que l'utilisateur quitte l'équipe.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)

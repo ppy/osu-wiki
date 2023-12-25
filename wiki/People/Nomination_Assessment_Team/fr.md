@@ -9,9 +9,9 @@ tags:
 
 La **Nomination Assessment Team** (***NAT***) est une équipe qui modère les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) et s'assure que le côté beatmapping d'osu! reste fonctionnel.
 
-Les membres de la NAT se distinguent par leur titre d'utilisateur rouge-orange, leur badge [groupe d'utilisateurs](/wiki/People/User_group) qui indique `NAT`, et leur nom d'utilisateur rouge dans le jeu. Ils ont des permissions de modération sur l'ensemble du site, comme la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), et possèdent également la capacité de [nommer](/wiki/Beatmap_ranking_procedure#nominations) et de [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) sur les beatmaps, comme les [membres titulaire](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/Beatmap_Nominators/Rules) et [attentes](/wiki/People/Beatmap_Nominators/Expectations) s'appliquent aux membres des NATs, avec quelques exceptions pour l'activité.
+Les membres de la NAT se distinguent par leur titre d'utilisateur rouge-orange, leur badge [groupe d'utilisateurs](/wiki/People/User_group) qui indique `NAT`, et leur nom d'utilisateur rouge dans le jeu. Ils ont des permissions de modération sur l'ensemble du site, comme la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), et possèdent également la capacité de [nommer](/wiki/Beatmap_ranking_procedure#nominations) et de [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps, comme les [membres titulaire](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/Beatmap_Nominators/Rules) et [attentes](/wiki/People/Beatmap_Nominators/Expectations) s'appliquent aux membres des NATs, avec quelques exceptions pour l'activité.
 
-**Tous les membres de la Nomination Assessment Team ont prêté serment de respecter [le code de conduite des contributeurs](Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) habituelles.**
+**Tous les membres de la Nomination Assessment Team ont prêté serment de respecter [le code de conduite des contributeurs](/wiki/Rules/Contributor_code_of_conduct) en plus des [règles de la communauté](/wiki/Rules) habituelles.**
 
 ***Remarque : pour signaler un membre de la NAT qui se comporte mal ou qui enfreint le code de conduite des contributeurs, veuillez contacter [l'équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -53,7 +53,7 @@ La répartition de la charge de travail de la NAT en deux catégories principale
 
 En fonction de sa catégorie, chaque membre de la NAT a des exigences différentes en matière d'activité. Les membres responsables des évaluations sont censés évaluer de manière cohérente les candidats et les BN actuels, tout en se tenant au courant de la scène du mapping/modding par leurs propres activités de modding. Les membres assignés à la catégorie structurelle sont tenus de respecter les éléments clés du processus de classement au cas par cas.
 
-Tous les deux mois, les membres de la NAT doivent soumettre un résumé de leur activité sur le [site web de gestion des BN](https://bn.mappersguild.com). Ce résumé, ainsi que d'autres mesures telles que l'activité de nomination et d'évaluation, sont utilisés pour déterminer si un membre est toujours actif et s'il doit rester dans le groupe. Les [chefs d'équipe](#leadership-de-la-NAT) discuteront ensuite de l'activité de chaque membre et décideront s'il doit rester dans la NAT.
+Tous les deux mois, les membres de la NAT doivent soumettre un résumé de leur activité sur le [site web de gestion des BN](https://bn.mappersguild.com). Ce résumé, ainsi que d'autres mesures telles que l'activité de nomination et d'évaluation, sont utilisés pour déterminer si un membre est toujours actif et s'il doit rester dans le groupe. Les [chefs d'équipe](#leadership-de-la-nat) discuteront ensuite de l'activité de chaque membre et décideront s'il doit rester dans la NAT.
 
 Les chefs d'équipe confronteront les membres inactifs de la NAT ou les membres qui ne fournissent pas de résumé dans les délais impartis. S'il n'est pas possible de trouver une solution appropriée à leur inactivité, ils seront retirés de la NAT. Les membres de la catégorie évaluation travaillant sur d'autres projets liés au mapping peuvent être déplacés vers la catégorie structure afin de mieux refléter leur contribution.
 
@@ -121,7 +121,7 @@ Les responsables NAT visent à couvrir les tâches suivantes :
 
 *Note : Tous les membres de la NAT parlent l'anglais en plus de des langues mentionnée ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les NAT participent à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les NAT participent à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 ### Évaluation
 

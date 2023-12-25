@@ -138,8 +138,8 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Contribution exceptionnelle au projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Contribution exceptionnelle à de nombreux projets et domaines |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Contribution exceptionnelle à l'équipe [GMT](/wiki/People/Global_Moderation_Team) et à la maintenance des tournois |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Chef d'équipe du [Project Loved](/wiki/Communauté/Project_Loved) |
-| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Assistance et organisation précoces du [Project Loved](/wiki/Communauté/Project_Loved) |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Chef d'équipe du [Project Loved](/wiki/Community/Project_Loved) |
+| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Assistance et organisation précoces du [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | Capitaine du [Project Loved](/wiki/Community/Project_Loved) (osu!catch) |
 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | Capitaine du [Project Loved](/wiki/Community/Project_Loved) (osu!taiko) |
 | ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | Capitaine du [Project Loved](/wiki/Community/Project_Loved) (osu!catch) |

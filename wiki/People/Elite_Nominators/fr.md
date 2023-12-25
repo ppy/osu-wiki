@@ -7,7 +7,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 - Nombre de [nominations](/wiki/Beatmap_ranking_procedure#nominations)
 - Qualité des beatmaps désignés
 - Qualité du [modding](/wiki/Modding)
-- Montant et [gravité](/wiki/People/Nomination_Assessment_Team/SEV_rating) des [réinitialisations de nomination](/wiki/Beatmap_ranking_procedure#nomination-resets) reçues
+- Montant et [gravité](/wiki/People/Nomination_Assessment_Team/SEV_rating) des [réinitialisations de nomination](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) reçues
 - Nombre de contrôles [assurance qualité](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)
 - Autres contributions notables à la communauté du mapping (outils, événements communautaires, etc.)
 - Autres qualités qui permettent au candidat de se distinguer des autres

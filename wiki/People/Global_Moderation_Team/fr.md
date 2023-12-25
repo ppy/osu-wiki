@@ -39,7 +39,7 @@ Pour devenir membre de la Global Moderation Team, il faut faire preuve d'une gra
 Les facteurs les plus importants à prendre en considération sont le comportement, l'activité, la compréhension des [règles](/wiki/Rules) et la patience :
 
 1. Faites preuve de bonne conduite en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
-2. Faire preuve d'activité dans le jeu en participant au tchat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Rapporting_bad_behaviour) et tout problème via le système de rapport. Répondre aux questions et aider les autres à résoudre leurs problèmes.
+2. Faire preuve d'activité dans le jeu en participant au tchat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_bad_behaviour) et tout problème via le système de rapport. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de la façon dont elles sont appliquées. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. Les GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il faut du temps à la GMT pour évaluer une personne - sa personnalité, ce qu'elle peut faire pour aider, son activité, etc.
 
@@ -71,7 +71,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 
 *Remarque : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
-[La page de groupe Global Moderation Team](https://osu.ppy.sh/groups/4) liste tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[La page de groupe Global Moderation Team](https://osu.ppy.sh/groups/4) liste tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
 
 | Nom | Langues additionnelles | Domaine d'intervention |
 | :-- | :-- | :-- |
