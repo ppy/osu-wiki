@@ -12,10 +12,10 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 - Autres contributions notables à la communauté du mapping (outils, événements communautaires, etc.)
 - Autres qualités qui permettent au candidat de se distinguer des autres
 
-À partir du [7 février 2020] (https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019), les Elite Nominators sont reconnus par le biais de post de news et sont récompensés :
+À partir du [7 février 2020](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019), les Elite Nominators sont reconnus par le biais de post de news et sont récompensés :
 
 - Le [titre d'utilisateur](/wiki/Community/User_title) Elite Nominator, qui dure 1 an jusqu'à la prochaine vague de Elite Nominator ou lorsque l'utilisateur quitte les Beatmap Nominators. Si un utilisateur obtient à nouveau le titre pour des années consécutives, le titre augmente de 1 ("Elite Nominator II", etc.).
-- Un [badge de profil] (/wiki/Community/Profile_badge) Elite Nominator, qui est permanent.
+- Un [badge de profil](/wiki/Community/Profile_badge) Elite Nominator, qui est permanent.
 
 ![](https://assets.ppy.sh/profile-badges/elite-nominator.png "Badge Elite Nominator")
 

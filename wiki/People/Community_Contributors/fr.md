@@ -28,13 +28,13 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hébergement et maintenance de l'un des plus anciens [beatmap mirrors](https://osu.yas-online.net/) d'osu! |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Nombreuses contributions graphiques (sans compter) au client et à tout le reste. |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Conception des [médailles](/wiki/Medals). |
-| ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Développement et maintenance de [AIBat] (https://osu.ppy.sh/community/forums/topics/55305), l'outil de modding des beatmaps tiers le plus populaire jamais produit par la plupart des membres de la communauté. |
+| ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Développement et maintenance de [AIBat](https://osu.ppy.sh/community/forums/topics/55305), l'outil de modding des beatmaps tiers le plus populaire jamais produit par la plupart des membres de la communauté. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Performances exceptionnelles dans les tests de correction de bugs et de fonctionnalités et dans le codage de nombreux utilitaires pour les mappeurs et les moddeurs. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisation de plusieurs tournois officiels majeurs (dont [l'OWC](/wiki/Tournaments/OWC)). |
 | ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Un bilan de modération démentiel (équivalent à environ 6 membres de l'équipe) et une modération presque à lui seul de `#osu` pendant les heures de pointe (plus de 9 000 utilisateurs). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Développement et maintenance de [osu!stats](https://osustats.ppy.sh/) et d'un certain nombre d'utilitaires utiles pour le beatmapping, le modding et le jeu en général. |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Excellente performance dans les tests de correction de bugs et de fonctionnalités et dans le traitement des demandes d'assistance des utilisateurs. |
-| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à gérer sans relâche le [beatmap packing] (https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des tableaux des beatmaps. |
+| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à gérer sans relâche le [beatmap packing](https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des tableaux des beatmaps. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin originale des beatmaps, l'avancement du [storyboard](/wiki/Storyboard) en tant qu'art et motivation. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestion et modération de la communauté dès le début et contributions énormes au fil du temps. |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Il a été le premier community manager et global moderator, et a placé la barre très haut pour l'équipe des [GMT](/wiki/People/Global_Moderation_Team). |
@@ -133,7 +133,7 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Contribution exceptionnelle en tant que membre de l'équipe du wiki et des [GMT](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | Contribution exceptionnelle à de nombreux projets et domaines |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Un travail remarquable en matière d'assistance aux joueurs et de résolution des problèmes |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mainteneur extraordinaire du projet [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs)  |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mainteneur extraordinaire du projet [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Développeur d'innombrables outils qui font partie intégrante du cycle de classement moderne |
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Contribution exceptionnelle au projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Contribution exceptionnelle à de nombreux projets et domaines |
@@ -257,7 +257,7 @@ Au cours du mois de février 2018, l'ancien badge de contributeur de ::{ flag=US
 
 ![Comparaison de la première modification de la conception](img/design-change-1.png)
 
-En raison d'un manque d'"âme",[^redesign-raisons] le design a été modifié à nouveau le 21 juillet 2023. Cette fois, le design initial a été rafraîchi par ::{ flag=US }:: [RBRat3] (https://osu.ppy.sh/users/307202) et divisé en deux versions, où les anciens contributeurs (avec un ID utilisateur inférieur à 4 000 000) ont vu un retour à l'original tandis que les nouveaux contributeurs ont reçu une variante plus colorée.
+En raison d'un manque d'"âme",[^redesign-raisons] le design a été modifié à nouveau le 21 juillet 2023. Cette fois, le design initial a été rafraîchi par ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) et divisé en deux versions, où les anciens contributeurs (avec un ID utilisateur inférieur à 4 000 000) ont vu un retour à l'original tandis que les nouveaux contributeurs ont reçu une variante plus colorée.
 
 ![Comparaison de la 2e modification de la conception](img/design-change-2.png)
 

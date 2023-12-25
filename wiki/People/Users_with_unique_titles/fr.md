@@ -1,10 +1,10 @@
 # Utilisateurs avec des titres uniques
 
-Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs] (/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
+Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs](/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
 
 ## Titulaires actuels de la World Cup
 
-Chaque année, les vainqueurs des [World Cups officielles] (//wiki/Tournaments#official-world-cups) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
+Chaque année, les vainqueurs des [World Cups officielles](//wiki/Tournaments#official-world-cups) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
 
 Vainqueurs de la [OWC 2023](/wiki/Tournaments/OWC/2023) avec le titre d'utilisateur **osu! Champion** :
 
