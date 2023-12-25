@@ -107,6 +107,9 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [比赛 Discord 服务器](https://discord.gg/kR4hJnPs)
 - [赛事信息表格](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=BB08J2)
+- [赛事数据表格](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z)
+- [QQ 赛区淘汰赛对阵情况](https://challonge.com/p5eqxnht)
+- [Discord 赛区淘汰赛对阵情况](https://challonge.com/srhmgyxd)
 
 ## 参赛选手
 
