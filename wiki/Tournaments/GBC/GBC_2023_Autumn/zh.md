@@ -208,7 +208,7 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | [win by default] |
+| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | win by default |
 
 ### QQ 赛区 半决赛
 
