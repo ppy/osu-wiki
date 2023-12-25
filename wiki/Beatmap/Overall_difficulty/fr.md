@@ -6,7 +6,7 @@ tags:
   - spinner difficulty
   - précision
   - fenêtre de timing
-  
+
 outdated_translation: true
 outdated_since: 34021fa99fcd8edba9fd6166370529854c9d1a03
 ---
