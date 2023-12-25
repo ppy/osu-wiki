@@ -88,7 +88,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131) |
-| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VE }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
 | Custom mapper | *TBA* |
 | Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
@@ -334,10 +334,10 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 1. There will be nine separate mappools.
    - Qualifiers will use a separate mappool.
-   - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Round 2 mappool will change all the RC map from round 1 one, and round 3 mappool will change all the HB + LN map from round 2 one. This process will continue working to the last mappool.
-   - SV map will also follow that rules, round 2 will change SV1, round 3 will change SV2, then circulate to the last mappool.
-   - TB map will always change in every mappools.
-   - According to the size extend in Quarterfinals mappool, there will be an extra RC map released in that mappool than round 4.
+   - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Mappool #2 will change all the RC map from mappool #1, and mappool #3 will change all the HB + LN map from mappool #2. This process will repeat until the last mappool.
+   - SV map will also follow that rules, mappool #2 will change SV1, mappool #3 will change SV2, so on until the last mappool.
+   - TB map will always be changed in each mappools.
+   - Per Quarterfinals mappool size expansion, there will be an extra RC map released in that mappool than round 4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
