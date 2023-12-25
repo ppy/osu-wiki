@@ -244,8 +244,8 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 ### Stage instructions
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
-2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in total, and the others get eliminated from the tournament.
-3. Following the regular stage, the elimination stage will be played in both divisions, called *playoffs*. The top 8 teams from the regular stage will advance to a winner bracket, other teams will get into loser bracket.
+2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in both zones, and the others get eliminated from the tournament.
+3. Following the regular stage, the elimination stage will be played in both divisions, called *playoffs*. The top 8 teams from the regular stage in each zones will advance to a winner bracket, other teams will get into loser bracket.
 4. All losing teams in the loser bracket will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
@@ -278,7 +278,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 1. The regular phase will be divided into two divisions, the Discord division and the QQ division.
    - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
 2. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same match record will face each other.
-   - The number of teams in each division to enter the elimination phase is determined by the number of registrations.
+   - The number of teams in each division to enter the elimination phase is 16.
 3. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
@@ -332,20 +332,19 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 ### Mappool instructions
 
-1. There will be five separate mappools. *This might change depending on the number of incoming registrations.*
+1. There will be nine separate mappools.
    - Qualifiers will use a separate mappool.
-   - Regular stage round 1 and round 2 use mappool #1.
-   - Regular stage round 3 and round 4 use mappool #2.
-   - Quarterfinals and Semifinals use mappool #3.
-   - Finals and Grand Finals use mappool #4.
+   - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Round 2 mappool will change all the RC map from round 1 one, and round 3 mappool will change all the HB + LN map from round 2 one. This process will continue working to the last mappool.
+   - SV map will also follow that rules, round 2 will change SV1, round 3 will change SV2, then circulate to the last mappool.
+   - TB map will always change in every mappools.
+   - According to the size extend in Quarterfinals mappool, there will be an extra RC map released in that mappool than round 4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
-   - Mappool #1 & #2: 15 beatmaps
-   - Mappool #3 & #4: 17 beatmaps.
-4. Each mappool has one tiebreaker, except for the Qualifiers.
+   - Mappool in regular phase: 15 beatmaps
+   - Mappool in elimination phase: 17 beatmaps.
+4. Each mappool has one tiebreaker, except for the Qualifiers. The tiebreaker will be played under FreeMod conditions.
 5. Possible mod choices for the FreeMod bracket are `NoFail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling information
 
