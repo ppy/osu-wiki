@@ -163,6 +163,26 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | D15 | **厕所战士** | ::{ flag=SG }:: **[oyama mahiro](https://osu.ppy.sh/users/21207265)**, ::{ flag=MY }:: [Tosai_](https://osu.ppy.sh/users/3760209), ::{ flag=ID }:: [\[LS\]Robi](https://osu.ppy.sh/users/21900872), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=HK }:: [ERDFS](https://osu.ppy.sh/users/28707779) |
 | D16 | **V guys brger n’ frys** | ::{ flag=US }:: **[YoungBurger12](https://osu.ppy.sh/users/18667176)**, ::{ flag=US }:: [Surcanp](https://osu.ppy.sh/users/19862784), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=TH }:: [MickyGG](https://osu.ppy.sh/users/27010218), ::{ flag=US }:: [SolarIsCool](https://osu.ppy.sh/users/33833222) |
 
+## 领奖台
+
+本届赛事已经结束，下面的两个赛区各三支队伍登上了领奖台：
+
+### QQ 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | Q12: Team 12 |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | Q3: 兰州拉面专业培训班 |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | Q16: DWG.BurgerkingReisen |
+
+### Discord 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | D9: 麦当劳护肤 |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | D2: viets sing |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | D12: Sunaookami Shiroko |
+
 ## 规则
 
 ### 比赛规则
