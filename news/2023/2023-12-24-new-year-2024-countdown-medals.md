@@ -30,7 +30,7 @@ So, what are you waiting for? Let's get into today's medal!
 
 ![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/dec_25.jpg)
 
-The last medal was first found in just 20 minutes! surely this one will be a breeze too, right?
+The last medal was first found in just 20 minutes! Surely this one will be a breeze too, right?
 
 [**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1861871)
 
