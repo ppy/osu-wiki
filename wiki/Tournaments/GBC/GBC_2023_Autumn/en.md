@@ -107,6 +107,9 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 - [GBC QQ group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [GBC Discord server](https://discord.gg/kR4hJnPs)
 - [Information spreadsheet](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=BB08J2)
+- [Statistic spreadsheet](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z)
+- [Challonge for QQ division](https://challonge.com/p5eqxnht)
+- [Challonge for Discord division](https://challonge.com/srhmgyxd)
 
 ## Participants
 
