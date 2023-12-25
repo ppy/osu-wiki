@@ -40,9 +40,9 @@ the same formula is used in stable -->
 
 | Score | Hit window (ms) |
 | --: | :-- |
-| Great | `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
-| Ok | `80 - (80 - 120) * (5 - OD) / 5` if OD < 5, `80 + (50 - 80) * (OD - 5) / 5` if OD > 5, otherwise `80` |
-| Miss | `95 - (95 - 135) * (5 - OD) / 5` if OD < 5, `95 + (70 - 95) * (OD - 5) / 5` if OD > 5, otherwise `95` |
+| Great | `50 - 3 * OD` |
+| Ok | `120 - 8 * OD` if OD <= 5, `110 - 6 * OD` if OD > 5 |
+| Miss | `135 - 8 * OD` if OD <= 5, `120 - 5 * OD` if OD > 5 |
 
 ### osu!mania
 
