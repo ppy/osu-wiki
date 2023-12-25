@@ -12,7 +12,7 @@ And to celebrate, we have medals. Love 'em. Can't get enough of 'em. Now, you ca
 
 We're confident 2024 will be a big year for osu!, so while the development team is busy [turning on performance point leaderboards in osu!(lazer)](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play) and mappers (probably other people too) are excited over [yesterday's t+pazolite Featured Artist announcement](https://osu.ppy.sh/home/news/2023-12-23-new-featured-artist-tpazolite), we're releasing **9 new medals**, one every day starting today on December 24th and lasting until January 1st.
 
-![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/cal_dec_24.jpg)
+![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/cal_dec_25.jpg)
 
 These are "Hush-Hush" medals (you can tell because they're purple). Unlike regular ones, they're only attainable by decrypting a set of hints viewable when hovering over them on your profile page.
 
@@ -28,11 +28,11 @@ So, what are you waiting for? Let's get into today's medal!
 
 ## Today's medal
 
-![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/dec_24.jpg)
+![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/dec_25.jpg)
 
-While there generally won't be any hints apart from the medal flair texts themselves, just for this first one, we want to inform you that there is a *very good reason* for why it is being released first!
+The last medal was first found in just 20 minutes! Surely this one will be a breeze too, right?
 
-[**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1861057)
+[**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1861871)
 
 ---
 
