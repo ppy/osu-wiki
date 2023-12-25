@@ -4,7 +4,7 @@ Les titres des utilisateurs sont généralement associés à des [groupes d'util
 
 ## Titulaires actuels de la World Cup
 
-Chaque année, les vainqueurs des [World Cups officielles](//wiki/Tournaments#official-world-cups) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
+Chaque année, les vainqueurs des [World Cups officielles](/wiki/Tournaments#official-world-cups) reçoivent le titre d'utilisateur **osu!/osu!taiko/osu!catch/osu!mania Champion**, qui dure jusqu'à la conclusion de la prochaine itération de la World Cup correspondante.
 
 Vainqueurs de la [OWC 2023](/wiki/Tournaments/OWC/2023) avec le titre d'utilisateur **osu! Champion** :
 
