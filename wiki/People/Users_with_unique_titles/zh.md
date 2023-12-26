@@ -71,6 +71,7 @@
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
 | [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
 
 拥有 **Former osu!taiko Champion** 头衔，在之前 osu!taiko 世界杯获胜的冠军：
 
