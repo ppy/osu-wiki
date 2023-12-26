@@ -32,6 +32,8 @@ So, what are you waiting for? Let's get into today's medal!
 
 Oh wow, you're blazing right through these medals! Let's see if that stays true for today's.
 
+Edit: someone got it already! Can you figure out the solution?
+
 [**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1862286)
 
 ---
