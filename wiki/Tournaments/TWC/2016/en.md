@@ -84,7 +84,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 | Group | Top seed | Medium seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **A** | ::{ flag=TW }:: Taiwan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia |
+| **A** | ::{ flag=TW }:: Taiwan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia |
 | **B** | ::{ flag=HK }:: Hong Kong | ::{ flag=AR }:: Argentina | ::{ flag=VE }:: Venezuela |
 | **C** | ::{ flag=US }:: United States | ::{ flag=CL }:: Chile | ::{ flag=BR }:: Brazil |
 | **D** | ::{ flag=DE }:: Germany | ::{ flag=ID }:: Indonesia | ::{ flag=MY }:: Malaysia |
