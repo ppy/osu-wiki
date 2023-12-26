@@ -44,13 +44,6 @@ Chaque mode a son propre minimum requis pour l'activité mensuelle.
 | osu!catch, osu!mania[^mode-multi-key] | 2 nominations |
 | Hybride | 3 nominations, dont au moins 1 par mode de jeu compétent |
 
-Les Probationary Beatmap Nominators sont censés satisfaire à différentes exigences en matière d'activités afin de mieux présenter leurs capacités à la NAT. S'ils n'y parviennent pas au cours de leur premier mois de probation, leur période probatoire sera automatiquement prolongée d'un mois afin de leur permettre de satisfaire aux exigences en question.
-
-| Mode de jeu | Exigence |
-| :-- | :-- |
-| osu, osu!taiko | 6 nominations |
-| osu!catch, osu!mania[^mode-multi-key] | 4 nominations |
-
 ## Nomination
 
 - **Ne nominez pas des beatmaps dont les problèmes ne sont pas classables.** Les [critères de classement généraux](/wiki/Ranking_criteria) et tous les critères de classement spécifiques à un mode s'appliquent à tous les sets dont les difficultés sont spécifiques à un mode.

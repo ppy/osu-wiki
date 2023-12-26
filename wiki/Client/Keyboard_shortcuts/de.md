@@ -58,8 +58,8 @@ Diese Kürzel können überall verwendet werden:
 | `X` oder `F2` | Den Song weiterspielen. Wenn er bereits spielt, wird er auf den Anfang zurückgesetzt. |
 | `C` | Song pausieren/wiedergeben. |
 | `F4` | Song stoppen und an den Anfang zurücksetzen. |
-| `V` or `F5` | Spiele den nächsten Song. |
-| `J` or `F6` | Öffnet das Menü "Springe zu...". |
+| `V` oder `F5` | Spiele den nächsten Song. |
+| `J` oder `F6` | Öffnet das Menü "Springe zu...". |
 | `R` | Spielt einen zufälligen Song. |
 
 ## Songauswahl
@@ -82,7 +82,7 @@ Diese Kürzel können überall verwendet werden:
 | `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Strg` + `A` | Auto Mod ein-/ausschalten. |
 | `Strg` + `F3` oder `Strg` + `+` | Erhöhe die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
-| `Strg` + `F4` or `Strg` + `-` | Verringere die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
+| `Strg` + `F4` oder `Strg` + `-` | Verringere die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
 | `Strg` + `Rücktaste` | Lösche das letzte Wort in der Suchleiste. |
 | `Pfeil hoch/runter` | Wähle die nächste darüberliegende bzw. darunterliegende Schwierigkeitsstufe aus. |
 | `Pfeil links/rechts` | Wähle die nächste darüberliegende bzw. darunterliegende Beatmap aus. |
@@ -158,7 +158,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `X` | Spiele den Song von Beginn an. |
 | `C` oder `Leertaste` | Pausieren oder Wiedergabe fortsetzen. |
 | `Pfeil links` oder `Pfeil rechts` | Durch den Song springen. |
-| `Pfeil oben` or `Pfeil unten` | Springe zwischen Timing Points. |
+| `Pfeil oben` oder `Pfeil unten` | Springe zwischen Timing Points. |
 | `Shift` + `Pfeil links` oder `Shift` + `Pfeil rechts` | Springe durch den Song mit 4-facher Geschwindigkeit. |
 | `Strg` + `B` | Setze ein Lesezeichen an der aktuellen Stelle. |
 | `Strg` + `Shift` + `B` | Entferne das Lesezeichen an der aktuellen Stelle. |

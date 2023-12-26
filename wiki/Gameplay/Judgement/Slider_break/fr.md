@@ -1,5 +1,5 @@
 ---
-stub: true
+no_native_review: true
 tags:
   - sliderbreak
   - slider-break
@@ -8,12 +8,14 @@ tags:
   - combobreak
   - combo-break
   - SB
-outdated_translation: true
-outdated_since: 932c9f3453cde49a1d311d8409e6a5e2bfafae7d
 ---
 
 # Slider break
 
-Le **Slider break** (parfois abrégé en *SB*) est un terme utilisé pour décrire l'acte de briser son combo via un [slider](/wiki/Gameplay/Hit_object/Slider) partiellement complété. Les sliders breaks peuvent se produire de trois manières différentes : rater un sliderhead tout en complétant ou en complétant partiellement le corps, lâcher un slider à n'importe quel moment de sa durée, ou ne pas collecter tous les ticks du slider. Ces trois "manières" sont collectivement appelées "slider break" et interrompent le combo du joueur. Recevoir un slider break pendant un jeu entraînera la réception d'un `100` et brisera le combo, mais ne comptera pas comme un échec.
+Un **slider break** (parfois abrégé en *SB*) est le fait de briser un [combo](/wiki/Gameplay/Combo_(score_multiplier)) en ne terminant pas complètement un [slider](/wiki/Gameplay/Hit_object/Slider). Cela se produit lorsque la [tête](/wiki/Gameplay/Hit_object/Slider/Sliderhead) ou l'un des [ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) d'un slider sont manqués.
 
-*Remarque : Un jeu qui n'a pas de raté, mais qui contient une ou plusieurs slider break donnera lieu à l'attribution de la note S (ou S argenté), en supposant que toutes les exigences en matière de [précision](/wiki/Gameplay/Accuracy) ont été respectées pour l'attribution de la note S.*
+Le slider break ne sera pas déclenchée si la [tail](/wiki/Gameplay/Hit_object/Slider/Slidertail) du slider est ignorée, ou si la touche active est relâchée sur une partie du [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) du slider dépourvu de ticks de slider. Cette dernière propriété du slider est exploitée dans les maps 2B, qui contiennent des sliders et des [cercles](/wiki/Gameplay/Hit_object/Hit_circle) simultanés.
+
+## Gameplay
+
+Les sliders breaks, par leur définition, brisent le combo, mais au lieu d'un miss, le joueur recevra un [GOOD](/wiki/Gameplay/Judgement/osu!). Par conséquent, il est toujours possible d'obtenir le [grade](/wiki/Gameplay/Grade) S ou S argent pour un jeu, en supposant que tous les autres critères de [précision](/wiki/Gameplay/Accuracy) aient été remplis.
