@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 ---
 
 # Critères de classement d'osu!catch
@@ -159,7 +157,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) et les [dash](/wiki/Gameplay/Dash) doivent avoir un écart d'au moins 62 ms entre leurs deux objets.**
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de quatre fois entre des [fruits](/wiki/Gameplay/Hit_object/Fruit) consécutifs.**
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés plus de deux fois dans un même slider.** Le parcours du slider doit être simple et facile à suivre.
-- **Les [hyperliens](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec des [dash](/wiki/Gameplay/Dash) ou d'autres hyperdashs plus hauts.**
+- **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec d'autres hyperdashs.**
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés à l'intérieur d'un slider**.
 - **Il faut laisser au moins 125 ms entre les cercles/les sliders et le début et la fin des [spinners](/wiki/Gameplay/Hit_object/Spinner).** Ceci afin de garantir la lisibilité.
 
@@ -167,6 +165,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 - **Les [Hyperdashs](/wiki/Gameplay/Hyperdash) ne doivent pas être utilisés sur les [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) individuels et/ou sur les sliders.**
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé basique](/wiki/Gameplay/Dash_snapping#basic-snapped) ne doivent pas être utilisés consécutivement lorsque différents beat snaps sont utilisés.** Par exemple, un hyperdash 1/1 suivi d'un hyperdash 1/2.
+- **Les [hypedashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus hauts](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être utilisés en conjonction avec des [dash](/wiki/Gameplay/Dash) qui sont snappé plus haut.** Si elles sont utilisées, elles ne peuvent pas impliquer un [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) et le dash doit être utilisé avant l'hyperdash.
 - **Les [hyperdashs](/wiki/Gameplay/Hyperdash) qui sont [snappé plus haut](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être suivis par des [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dash](/wiki/Gameplay/Dash) dont l'écart est inférieur à 250ms.**
 - **Les [edge dashs](/wiki/Gameplay/Edge_dash) ne peuvent être utilisés qu'individuellement (pas en conjonction avec d'autres [dashs](/wiki/Gameplay/Dash) ou [hyperdashs](/wiki/Gameplay/Hyperdash)).**
 - **Les [spinner traps](/wiki/Gameplay/Spinner_trap) ne doivent pas être utilisés.**
@@ -177,7 +176,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 - [L'Approach Rate](/wiki/Beatmap/Approach_rate)/[L'Overall Difficulty](/wiki/Beatmap/Overall_difficulty) doit être compris entre 7 et 9.
 - [L'HP Drain Rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 5 et 6.
-- Le [Circle Size](/wiki/Beatmap/Circle_size) doit être compris entre 3 et 5.
+- Le [Circle Size](/wiki/Beatmap/Circle_size) doit être compris entre 3.5 et 5.5.
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
@@ -197,5 +196,5 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 #### Directives sur les paramètres de difficultés
 
 - [L'Approach Rate](/wiki/Beatmap/Approach_rate)/[L'Overall Difficulty](/wiki/Beatmap/Overall_difficulty) doit être compris entre 8 et 10.
-- [L'HP Drain Rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 6 et 7.
+- [L'HP Drain Rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 5 et 7.
 - Le [Circle Size](/wiki/Beatmap/Circle_size) doit être compris entre 3 et 6.
