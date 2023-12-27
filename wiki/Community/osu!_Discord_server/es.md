@@ -22,6 +22,7 @@ El servidor de Discord osu! presenta una serie de canales, muchos de los cuales 
 | Canal | Descripción |
 | :-- | :-- |
 | `#welcome` | Información del servidor |
+| `#announcements` | Anuncios del servidor |
 | `#introductions` | Presentaciones personales |
 | `#general` | Discusión general y resolución de problemas relacionados con osu! |
 
@@ -39,7 +40,7 @@ El servidor de Discord osu! presenta una serie de canales, muchos de los cuales 
 
 | Canal | Descripción |
 | :-- | :-- |
-| `#difficulty-osu` | [Calificación por estrellas](/wiki/Beatmap/Star_rating) de [osu!](/wiki/Game_mode/osu!) y  cálculo de [puntos de rendimiento](/wiki/Performance_points) |
+| `#difficulty-osu` | [Calificación por estrellas](/wiki/Beatmap/Star_rating) de [osu!](/wiki/Game_mode/osu!) y cálculo de [puntos de rendimiento](/wiki/Performance_points) |
 | `#difficulty-taiko` | Calificación por estrellas de [osu!taiko](/wiki/Game_mode/osu!taiko) y cálculo de puntos de rendimiento |
 | `#difficulty-catch` | Calificación por estrellas de [osu!catch](/wiki/Game_mode/osu!catch) y cálculo de puntos de rendimiento |
 | `#difficulty-mania` | Calificación por estrellas de [osu!mania](/wiki/Game_mode/osu!mania) y cálculo de puntos de rendimiento |
