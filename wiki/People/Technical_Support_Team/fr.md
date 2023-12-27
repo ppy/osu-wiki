@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Équipe de support technique
 
 *À ne pas confondre avec [l'équipe de support aux comptes](/wiki/People/Account_support_team).*
