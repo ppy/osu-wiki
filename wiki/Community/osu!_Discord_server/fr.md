@@ -3,6 +3,8 @@ tags:
   - development
   - développement
   - osu!dev
+outdated_translation: true
+outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # Serveur Discord osu!
@@ -38,7 +40,7 @@ Les nouveaux venus sur le serveur sont encouragés à se présenter dans le salo
 | Salon | Description |
 | :-- | :-- |
 | `#difficulty-osu` | Calcul du [star rating](/wiki/Beatmap/Star_rating) et des [points de performance](/wiki/Performance_points) pour [osu!](/wiki/Game_mode/osu!) |
-| `#difficulty-taiko` | Calcul du star rating et des points de performance pour [osu!taiko](/wiki/Game_mode/osu!taiko)  |
+| `#difficulty-taiko` | Calcul du star rating et des points de performance pour [osu!taiko](/wiki/Game_mode/osu!taiko) |
 | `#difficulty-catch` | Calcul du star rating et des points de performance pour [osu!catch](/wiki/Game_mode/osu!catch) |
 | `#difficulty-mania` | Calcul du star rating et des points de performance pour [osu!mania](/wiki/Game_mode/osu!mania) |
 
