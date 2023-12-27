@@ -10,7 +10,7 @@ date: 2023-03-25 11:00:00 +0000
 
 You're more familiar with **Ashrount** than you may think. While their newest productions are under the alias **Ashrount**, they also produced [Emptiness](https://osu.ppy.sh/beatmapsets/1210804) under the name *Xect.* for BOFU2017, and a heap of older songs under the moniker *Maverick*, like the multi-mode marathon set [Shironaga Star Jet -aquamarine mix-](https://osu.ppy.sh/beatmapsets/1012634).
 
-Regardless of how you may know **Ashrount**, it's clear that their songs are in a league of their own. 
+Regardless of how you may know **Ashrount**, it's clear that their songs are in a league of their own.
 
 Pick your favourite from the **10** listed on [**Ashrount**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/352) whenever you're ready to begin your mapping journey!
 

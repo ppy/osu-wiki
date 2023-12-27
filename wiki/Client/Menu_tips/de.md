@@ -82,7 +82,7 @@ Diese Tipps erscheinen im [Beatmap-Editor](/wiki/Client/Beatmap_editor) unter de
 - Drücke `F5` oder klicke auf den `Test`-Knopf an der unteren Seite des Editors, um deine Beatmap von dem Punkt an zu testen, an dem du dich gerade befindest. Dies kann dabei helfen, Probleme mit dem [HP-Drain](/wiki/Beatmap/HP_drain_rate) oder der Platzierung der Noten zu erkennen. Des Weiteren hilft es dir dabei, bestimmte Stellen einer Map zu üben.
 - Vergrößere die Timeline, indem du mit deiner Maus auf die Timeline gehst und `Alt` gedrückt hältst, während du dein Mausrad verwendest. Du kannst ebenfalls auf die `Plus-` und `Minustasten` an der linken Seite der Timeline drücken. Das kann die Timeline übersichtlicher machen.
 - Falls du dein Timing doppelt und dreifach überprüfen willst, solltest du die Geschwindigkeit auf (0,25x, 0,50x) stellen. Veränder die Geschwindigkeit mit der Leiste in der unteren rechten Ecke oder benutze `Strg` + `Hoch` bzw. `Runter`.
-- Wenn du dich dazu entscheidest, an einer Map nicht mehr weiterzuarbeiten, macht das nichts. Verlassene Beatmaps werden nach einer gewissen Zeit an Inaktivität [begraben](/wiki/Beatmap/Category#friedhof) und falls du an deiner Map weiterarbeiten willst, klicke einfach auf `Resurrect` in deinem Profilabteil `Beatmaps`!
+- Wenn du dich dazu entscheidest, an einer Map nicht mehr weiterzuarbeiten, macht das nichts. Verlassene Beatmaps werden nach einer gewissen Zeit an Inaktivität [begraben](/wiki/Beatmap/Category#graveyard) und falls du an deiner Map weiterarbeiten willst, klicke einfach auf `Resurrect` in deinem Profilabteil `Beatmaps`!
 - Jedes Gameplay-Element einer Beatmap kann einen Skin bekommen. Benutze einfach die selbe Namensstruktur für die Elemente im Beatmapordner, wie bei normalen Skins.
 - Wenn du Noten kopierst (`Strg` + `C`) wird außerdem der Zeitpunkt von der Timeline und die Kombonummern mit kopiert. Das ist sehr nützlich für Forenposts (besonders für [Mods](/wiki/Modding)).
 - Live-Mapping (`Strg` + `Tab`) erlaubt es dir, Hitcircles schnell mit deiner Taikosteuerung zu platzieren. Diese Option funktioniert aber auch sehr gut für osu!mania Maps.
@@ -104,7 +104,7 @@ Diese Tipps erscheinen beim Start von [osu!(lazer)](/wiki/Client/Release_stream/
 - Probiere, in der Modauswahl herunterzuscrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
 - Erhalte mehr Details, verstecke oder lösche eine Beatmap, indem du mit der rechten Maustaste auf ihr Dialogfeld in der Songauswahl klickst!
-- Alle Löschoperationen sind bis zum Verlassen nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
+- Alle Löschoperationen sind bis zum Verlassen des Spiels nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
 - Probiere das "Playlists"-System aus, das Nutzer ihre eigenen, bleibenden Bestenlisten kreieren lässt!
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
 - Werfe einen Blick unter die Haube der Leistungsindikatoren und aktiviere die ausführliche Leistungsprotokollierung mit `Strg` + `F2`!

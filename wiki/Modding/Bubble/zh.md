@@ -16,7 +16,7 @@ tags:
 - [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)
 - [质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team)
 
-在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个 BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#上架-(ranked))或者[达标](/wiki/Beatmap/Category#达标-(approved))状态。
+在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个 BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#ranked)或者[达标](/wiki/Beatmap/Category#approved)状态。
 
 在当今的[谱面审核流程](/wiki/Beatmap_ranking_procedure)中，泡泡等于[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 给出的第一个[提名](/wiki/Beatmap_ranking_procedure#nominations)。
 
@@ -41,8 +41,8 @@ tags:
 ### 要求
 
 - 如果谱面要收到泡泡，谱面的[优先星](/wiki/Modding/Star_priority)必须至少有 8 颗。后来，这个下限增加到 12 颗<!-- internal source: https://osu.ppy.sh/community/forums/posts/280845 -->。
-- 如果谱面要进入[上架](/wiki/Beatmap/Category#上架-(ranked))状态，则必须有一个泡泡、
-- 如果谱面要进入[达标](/wiki/Beatmap/Category#达标-(approved))状态，则必须收到来自于两个不同的 BAT 成员的泡泡。在 2017 年 6 月 2 日，这个下限减少到只需要一个泡泡<!-- internal source: https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->。
+- 如果谱面要进入[上架](/wiki/Beatmap/Category#ranked)状态，则必须有一个泡泡、
+- 如果谱面要进入[达标](/wiki/Beatmap/Category#approved)状态，则必须收到来自于两个不同的 BAT 成员的泡泡。在 2017 年 6 月 2 日，这个下限减少到只需要一个泡泡<!-- internal source: https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->。
 
 ### 戳泡
 

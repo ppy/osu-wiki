@@ -11,7 +11,7 @@ tags:
 
 The **Beatmap Spotlights** (or just *Spotlights*, formerly *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmap) for their excellent and unique gameplay and design. It is accompanied by a [seasonal league](#spotlights-seasons), where players compete on said maps for [badge prizes](#rewards).
 
-The current season is the Spring 2023 season.
+The current season is the Autumn 2023 season.
 
 The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members. See the [Beatmap Spotlight Curators article](/wiki/People/Beatmap_Spotlight_Curators) page for a more detailed listing of all the roles within the BSC.
 
@@ -125,6 +125,8 @@ Renamed to Beatmap Spotlights in March 2017,[^charts-renamed-into-spotlights] th
 In August 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
 After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
+
+In October 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) was brought up as a project manager to help out with general organization of the project. In November 2023, ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) stepped down from the same role.
 
 ## References
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: b7b99940b9680a1ef404a5e4da458d392e641d02
 tags:
   - BN
   - BNG
@@ -13,7 +15,7 @@ tags:
 
 ## 角色与职责
 
-BN 主要负责给[待定 (Pending) 谱面](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))[提供修改意见（摸）(Mod)](/wiki/Modding) 并将其推至上架周期的工作。同时，BN 也需要根据他人发出的与作图和摸图相关的请求提供相对应的建议。如果 BN 认为被提名 (Nominated) 谱面含有不直接违反谱面上架标准 (RC) 但必须修改的问题时，可以[否决 (Veto) 谱面](Beatmap_Veto)。
+BN 主要负责给[待定 (Pending) 谱面](/wiki/Beatmap/Category#wip-and-pending)[提供修改意见（摸）(Mod)](/wiki/Modding) 并将其推至上架周期的工作。同时，BN 也需要根据他人发出的与作图和摸图相关的请求提供相对应的建议。如果 BN 认为被提名 (Nominated) 谱面含有不直接违反谱面上架标准 (RC) 但必须修改的问题时，可以[否决 (Veto) 谱面](Beatmap_Veto)。
 
 除此之外，所有 BN 都应发扬[对 BN 的期望](Expectations)这篇文章所阐述的精神：不拘泥于现状，努力提升自己；将工作重心放在各种各样的谱师或谱面上，为更大的社区服务。
 

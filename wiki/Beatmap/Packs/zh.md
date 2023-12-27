@@ -22,7 +22,7 @@ F2 - Rohi Pack.zip
 
 `F2` 指的是精选艺术家类别下的第二个曲包，`Rohi Pack` 指的是[曲包列表](https://osu.ppy.sh/beatmaps/packs/F2)中所示的曲包名。这个曲包只包含 [Rohi](https://osu.ppy.sh/beatmaps/artists/82) 的歌曲。
 
-一些曲包（尤其是常规类别中的）也会按上传顺序编号。比如，[osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) （曲包 `S1000`）是 [osu! 游戏模式](/wiki/Game_mode/osu!)下包含[上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked)) 谱面的第 1000 个曲包。
+一些曲包（尤其是常规类别中的）也会按上传顺序编号。比如，[osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) （曲包 `S1000`）是 [osu! 游戏模式](/wiki/Game_mode/osu!)下包含[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 谱面的第 1000 个曲包。
 
 ## 分类
 
@@ -30,7 +30,7 @@ F2 - Rohi Pack.zip
 
 | 标识 | 类别 | 谱面类型 |
 | :-: | :-- | :-- |
-| **S** | 常规 | [上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked)) 或[达标 (Approved)](/wiki/Beatmap/Category#达标-(approved)) 的谱面 |
+| **S** | 常规 | [上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或[达标 (Approved)](/wiki/Beatmap/Category#approved) 的谱面 |
 | **F** | 精选艺术家 | 来自[精选艺术家](/wiki/People/Featured_Artists)的歌曲 |
 | **T** | 锦标赛 | 锦标赛图池谱面 |
 | **L** | 社区喜爱计划 | 社区在[社区喜爱计划](/wiki/Community/Project_Loved)选出的谱面 |

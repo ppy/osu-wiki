@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2020 Auditions Now Open!"
+title: osu!idol 2020 Auditions Now Open!
 date: 2020-09-01 17:00:00 +0000
 ---
 

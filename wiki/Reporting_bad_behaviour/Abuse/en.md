@@ -8,12 +8,9 @@ If you're uncomfortable enough that you're reading this page, please contact us 
 
 We have zero tolerance towards any sort of unwanted sexual attention or advances in this community.
 
-The abuse email address is only seen by these two users:
+The abuse email address is only seen by [peppy](https://osu.ppy.sh/users/2) (the creator of the game).
 
-- [peppy](https://osu.ppy.sh/users/2) (the creator of the game)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (the community manager)
-
-Nothing you send to [abuse@ppy.sh](mailto:abuse@ppy.sh) will ever be shared with anybody else other than those two people.
+Nothing you send to [abuse@ppy.sh](mailto:abuse@ppy.sh) will ever be shared with anybody else other than him.
 
 ## Someone's made inappropriate sexual advances or remarks towards me!
 
