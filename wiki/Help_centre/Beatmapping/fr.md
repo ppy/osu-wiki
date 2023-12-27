@@ -11,6 +11,7 @@ tags:
   - supprimer
   - éditeur
   - avertissement
+no_native_review: true
 ---
 
 # Beatmapping et éditeur

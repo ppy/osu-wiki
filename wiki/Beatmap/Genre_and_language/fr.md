@@ -6,6 +6,7 @@ tags:
   - genre
   - langage
   - métadonnées
+no_native_review: true
 ---
 
 # Genre et langue

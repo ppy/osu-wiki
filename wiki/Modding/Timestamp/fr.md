@@ -4,6 +4,7 @@ tags:
   - timestamps
   - lien éditable
   - horodatage
+no_native_review: true
 ---
 
 # Horodatage

@@ -7,6 +7,7 @@ tags:
   - badges de profil
   - badge utilisateur
   - badges utilisateur
+no_native_review: true
 ---
 
 # Badge de profil

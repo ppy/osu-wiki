@@ -2,6 +2,7 @@
 stub: true
 tags:
   - FC
+no_native_review: true
 ---
 
 # Combo complet

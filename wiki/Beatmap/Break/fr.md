@@ -8,6 +8,7 @@ tags:
   - temps de pause
   - temps de repos
   - repos
+no_native_review: true
 ---
 
 # Pause
