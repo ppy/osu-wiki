@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Contributeurs de la communauté
 
 ::: Infobox

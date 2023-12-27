@@ -3,6 +3,7 @@ tags:
   - osu!completionist
   - completionist
   - complétionniste
+no_native_review: true
 ---
 
 # Complétionnistes

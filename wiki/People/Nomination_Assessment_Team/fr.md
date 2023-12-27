@@ -1,6 +1,7 @@
 ---
 tags:
   - NAT
+no_native_review: true
 ---
 
 # Nomination Assessment Team
