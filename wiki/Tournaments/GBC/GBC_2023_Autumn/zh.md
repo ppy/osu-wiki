@@ -185,7 +185,9 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 赛果
 
-### QQ 赛区 总决赛
+### QQ 赛区 
+
+#### 总决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=xiki0i)查看。
 
@@ -194,9 +196,9 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **Q3: 兰州拉面专业培训班** | **7** | 3 | Q16: DWG.BurgerkingReisen | [#1](https://osu.ppy.sh/community/matches/111749143) |
-| **Q12: Team 12** | **7** | 5 | Q3: 兰州拉面专业培训班 | [#2](https://osu.ppy.sh/community/matches/111750301) |
+| **Q12: Team 12** | **7** | 5 | Q3: 兰州拉面专业培训班 | [#1](https://osu.ppy.sh/community/matches/111750301) |
 
-### QQ 赛区 决赛
+#### 决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=wmnmix)查看。
 
@@ -204,17 +206,17 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q2: 叮咚鸡** | **7** | 4 | Q21: MoKori没可莉 | [#3](https://osu.ppy.sh/community/matches/111640559) |
+| **Q2: 叮咚鸡** | **7** | 4 | Q21: MoKori没可莉 | [#1](https://osu.ppy.sh/community/matches/111640559) |
 | Q3: 兰州拉面专业培训班 | 4 | **7** | **Q12: Team 12** | [#1](https://osu.ppy.sh/community/matches/111641998) |
-| **Q16: DWG.BurgerkingReisen** | **7** | 5 | Q6: 咖啡配魔爪心脏咚咚咚 | [#2](https://osu.ppy.sh/community/matches/111642922) |
+| **Q16: DWG.BurgerkingReisen** | **7** | 5 | Q6: 咖啡配魔爪心脏咚咚咚 | [#1](https://osu.ppy.sh/community/matches/111642922) |
 
 2023 年 12 月 10 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | 默认获胜 |
+| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | *默认获胜* |
 
-### QQ 赛区 半决赛
+#### 半决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=13y6sf)查看。
 
@@ -222,26 +224,26 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q21: MoKori没可莉** | **7** | 4 | Q4: 梨落某海 | [#6](https://osu.ppy.sh/community/matches/111523293) |
+| **Q21: MoKori没可莉** | **7** | 4 | Q4: 梨落某海 | [#1](https://osu.ppy.sh/community/matches/111523293) |
 
 2023 年 12 月 2 日，星期六
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Q1: 干什么!** | **7** | 2 | Q23: 再奖励一把大天空 | [#5](https://osu.ppy.sh/community/matches/111538925) |
+| **Q1: 干什么!** | **7** | 2 | Q23: 再奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/111538925) |
 | Q16: DWG.BurgerkingReisen | 6 | **7** | **Q3: 兰州拉面专业培训班** | [#1](https://osu.ppy.sh/community/matches/111539358) |
-| **Q7: 洛杉矶糊人** | **7** | 2 | Q5: 阿拜多斯对策委员会 | [#3](https://osu.ppy.sh/community/matches/111539347) |
-| Q1: 干什么! | 6 | **7** | **Q21: MoKori没可莉** | [#8](https://osu.ppy.sh/community/matches/111540047) |
-| Q10: 地表最強陣!RDCB組x5 | 2 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#4](https://osu.ppy.sh/community/matches/111540708) |
-| Q2: 叮咚鸡 | 3 | **7** | **Q12: Team 12** | [#2](https://osu.ppy.sh/community/matches/111540678) |
+| **Q7: 洛杉矶糊人** | **7** | 2 | Q5: 阿拜多斯对策委员会 | [#1](https://osu.ppy.sh/community/matches/111539347) |
+| Q1: 干什么! | 6 | **7** | **Q21: MoKori没可莉** | [#1](https://osu.ppy.sh/community/matches/111540047) |
+| Q10: 地表最強陣!RDCB組x5 | 2 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#1](https://osu.ppy.sh/community/matches/111540708) |
+| Q2: 叮咚鸡 | 3 | **7** | **Q12: Team 12** | [#1](https://osu.ppy.sh/community/matches/111540678) |
 
 2023 年 12 月 4 日，星期一
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| Q7: 洛杉矶糊人 | 5 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#7](https://osu.ppy.sh/community/matches/111574511) |
+| Q7: 洛杉矶糊人 | 5 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#1](https://osu.ppy.sh/community/matches/111574511) |
 
-### QQ 赛区 四分之一决赛
+#### 四分之一决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=71acx3)查看。
 
@@ -250,15 +252,17 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **Q16: DWG.BurgerkingReisen** | **7** | 3 | Q21: MoKori没可莉 | [#1](https://osu.ppy.sh/community/matches/111444281) |
-| Q7: 洛杉矶糊人 | 4 | **7** | **Q12: Team 12** | [#4](https://osu.ppy.sh/community/matches/111444684) |
-| **Q23: 再奖励一把大天空** | **7** | 6 | Q18: 克利芙兰奇士 | [#7](https://osu.ppy.sh/community/matches/111444745) |
-| **Q4: 梨落某海** | **7** | 6 | Q19: 你们选人都这么野的吗 | [#8](https://osu.ppy.sh/community/matches/111444611) |
-| **Q2: 叮咚鸡** | **7** | 6 | Q10: 地表最強陣!RDCB組x5 | [#3](https://osu.ppy.sh/community/matches/111445294) |
-| Q9: 闪耀！优俊公鸭 | 2 | **7** | **Q5: 阿拜多斯对策委员会** | [#5](https://osu.ppy.sh/community/matches/111445603) |
-| Q1: 干什么! | 3 | **7** | **Q3: 兰州拉面专业培训班** | [#2](https://osu.ppy.sh/community/matches/111446109) |
-| Q15: 1！5！ | 3 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#6](https://osu.ppy.sh/community/matches/111446197) |
+| Q7: 洛杉矶糊人 | 4 | **7** | **Q12: Team 12** | [#1](https://osu.ppy.sh/community/matches/111444684) |
+| **Q23: 再奖励一把大天空** | **7** | 6 | Q18: 克利芙兰奇士 | [#1](https://osu.ppy.sh/community/matches/111444745) |
+| **Q4: 梨落某海** | **7** | 6 | Q19: 你们选人都这么野的吗 | [#1](https://osu.ppy.sh/community/matches/111444611) |
+| **Q2: 叮咚鸡** | **7** | 6 | Q10: 地表最強陣!RDCB組x5 | [#1](https://osu.ppy.sh/community/matches/111445294) |
+| Q9: 闪耀！优俊公鸭 | 2 | **7** | **Q5: 阿拜多斯对策委员会** | [#1](https://osu.ppy.sh/community/matches/111445603) |
+| Q1: 干什么! | 3 | **7** | **Q3: 兰州拉面专业培训班** | [#1](https://osu.ppy.sh/community/matches/111446109) |
+| Q15: 1！5！ | 3 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#1](https://osu.ppy.sh/community/matches/111446197) |
 
-### Discord 赛区 总决赛
+### Discord 赛区 
+
+#### 总决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=xiki0i)查看。
 
@@ -266,16 +270,16 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D12: Sunaookami Shiroko | 4 | **7** | **D2: viets sing** | [#4](https://osu.ppy.sh/community/matches/111750031) |
+| D12: Sunaookami Shiroko | 4 | **7** | **D2: viets sing** | [#1](https://osu.ppy.sh/community/matches/111750031) |
 
 2023 年 12 月 17 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D9: 麦当劳护肤 | 3 | **7** | **D2: viets sing** | [#5](https://osu.ppy.sh/community/matches/111768838) |
-| D2: viets sing | 2 | **7** | **D9: 麦当劳护肤** | [#6](https://osu.ppy.sh/community/matches/111768838) |
+| D9: 麦当劳护肤 | 3 | **7** | **D2: viets sing** | [#1](https://osu.ppy.sh/community/matches/111768838) |
+| D2: viets sing | 2 | **7** | **D9: 麦当劳护肤** | [#1](https://osu.ppy.sh/community/matches/111768838) |
 
-### Discord 赛区 决赛
+#### 决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=wmnmix)查看。
 
@@ -283,17 +287,17 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **D2: viets sing** | **0** | -1 | D1: ChatGBC | 默认获胜 |
-| D15: 厕所战士 | -1 | **0** | **D7: flower in antarctica** | 默认获胜 |
+| **D2: viets sing** | **0** | -1 | D1: ChatGBC | *默认获胜* |
+| D15: 厕所战士 | -1 | **0** | **D7: flower in antarctica** | *默认获胜* |
 
 2023 年 12 月 10 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D7: flower in antarctica | 2 | **7** | **D2: viets sing** | [#8](https://osu.ppy.sh/community/matches/111660935) |
-| **D9: 麦当劳护肤** | **7** | 3 | D12: Sunaookami Shiroko | [#5](https://osu.ppy.sh/community/matches/111661874) |
+| D7: flower in antarctica | 2 | **7** | **D2: viets sing** | [#1](https://osu.ppy.sh/community/matches/111660935) |
+| **D9: 麦当劳护肤** | **7** | 3 | D12: Sunaookami Shiroko | [#1](https://osu.ppy.sh/community/matches/111661874) |
 
-### Discord 赛区 半决赛
+#### 半决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=13y6sf)查看。
 
@@ -301,21 +305,21 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D8: Weakest Captain v2 | -1 | **0** | **D14: we love bread** | 默认获胜 |
-| D4: :D :D :D :D :D | 4 | **7** | **D7: flower in antarctica** | [#12](https://osu.ppy.sh/community/matches/111539830) |
-| D3: cat | 3 | **7** | **D1: ChatGBC** | [#13](https://osu.ppy.sh/community/matches/111539841) |
-| D11: Practice for 4dm | 2 | **7** | **D6: Timezone hell** | [#14](https://osu.ppy.sh/community/matches/111540981) |
-| D2: viets sing | 4 | **7** | **D12: Sunaookami Shiroko** | [#10](https://osu.ppy.sh/community/matches/111541528) |
+| D8: Weakest Captain v2 | -1 | **0** | **D14: we love bread** | *默认获胜* |
+| D4: :D :D :D :D :D | 4 | **7** | **D7: flower in antarctica** | [#1](https://osu.ppy.sh/community/matches/111539830) |
+| D3: cat | 3 | **7** | **D1: ChatGBC** | [#1](https://osu.ppy.sh/community/matches/111539841) |
+| D11: Practice for 4dm | 2 | **7** | **D6: Timezone hell** | [#1](https://osu.ppy.sh/community/matches/111540981) |
+| D2: viets sing | 4 | **7** | **D12: Sunaookami Shiroko** | [#1](https://osu.ppy.sh/community/matches/111541528) |
 
 2023 年 12 月 3 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D15: 厕所战士 | 3 | **7** | **D9: 麦当劳护肤** | [#9](https://osu.ppy.sh/community/matches/111560450) |
-| **D1: ChatGBC** | **7** | 0 | D6: Timezone hell | [#16](https://osu.ppy.sh/community/matches/111560627) |
-| D14: we love bread | 6 | **7** | **D7: flower in antarctica** | [#15](https://osu.ppy.sh/community/matches/111561336) |
+| D15: 厕所战士 | 3 | **7** | **D9: 麦当劳护肤** | [#1](https://osu.ppy.sh/community/matches/111560450) |
+| **D1: ChatGBC** | **7** | 0 | D6: Timezone hell | [#1](https://osu.ppy.sh/community/matches/111560627) |
+| D14: we love bread | 6 | **7** | **D7: flower in antarctica** | [#1](https://osu.ppy.sh/community/matches/111561336) |
 
-### Discord 赛区 四分之一决赛
+#### 四分之一决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=71acx3)查看。
 
@@ -323,18 +327,18 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D11: Practice for 4dm | 5 | **7** | **D15: 厕所战士** | [#9](https://osu.ppy.sh/community/matches/111446273) |
+| D11: Practice for 4dm | 5 | **7** | **D15: 厕所战士** | [#1](https://osu.ppy.sh/community/matches/111446273) |
 
 2023 年 11 月 26 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| D13: j | -1 | **0** | **D7: flower in antarctica** | 默认获胜 |
-| **D2: viets sing** | **7** | 5 | D4: :D :D :D :D :D | [#11](https://osu.ppy.sh/community/matches/111462023) |
-| D3: cat | 3 | **7** | **D9: 麦当劳护肤** | [#10](https://osu.ppy.sh/community/matches/111462013) |
-| D10: t spin quadruple 2 | 0 | **7** | **D6: Timezone hell** | [#16](https://osu.ppy.sh/community/matches/111461970) |
-| **D12: Sunaookami Shiroko** | **7** | 4 | D8: Weakest Captain v2 | [#12](https://osu.ppy.sh/community/matches/111462057) |
-| D5: Roblox Gaming | 0 | **7** | **D14: we love bread** | [#13](https://osu.ppy.sh/community/matches/111462950) |
+| D13: j | -1 | **0** | **D7: flower in antarctica** | *默认获胜* |
+| **D2: viets sing** | **7** | 5 | D4: :D :D :D :D :D | [#1](https://osu.ppy.sh/community/matches/111462023) |
+| D3: cat | 3 | **7** | **D9: 麦当劳护肤** | [#1](https://osu.ppy.sh/community/matches/111462013) |
+| D10: t spin quadruple 2 | 0 | **7** | **D6: Timezone hell** | [#1](https://osu.ppy.sh/community/matches/111461970) |
+| **D12: Sunaookami Shiroko** | **7** | 4 | D8: Weakest Captain v2 | [#1](https://osu.ppy.sh/community/matches/111462057) |
+| D5: Roblox Gaming | 0 | **7** | **D14: we love bread** | [#1](https://osu.ppy.sh/community/matches/111462950) |
 
 ### 常规赛
 
