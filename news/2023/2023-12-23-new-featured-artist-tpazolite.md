@@ -54,7 +54,7 @@ osu! mappers may or may not like this song. A lot.
 - [Ranked osu!taiko map](https://osu.ppy.sh/beatmapsets/690470) hosted by [Monstrata](https://osu.ppy.sh/users/2706438)
 - [Ranked osu!taiko map](https://osu.ppy.sh/beatmapsets/635144) hosted by [Lumenite-](https://osu.ppy.sh/users/6256027)
 - [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/616487) hosted by [CLSW](https://osu.ppy.sh/users/531253)
-- [Ranked 6K osu!mania map](https://osu.ppy.sh/users/531253) hosted by [Herarudo](https://osu.ppy.sh/users/12086252)
+- [Ranked 6K osu!mania map](https://osu.ppy.sh/beatmapsets/1603661) hosted by [Herarudo](https://osu.ppy.sh/users/12086252)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Don_t Waste Me! EP/Lite Show Magic - TRICKL4SH 220.mp3">
