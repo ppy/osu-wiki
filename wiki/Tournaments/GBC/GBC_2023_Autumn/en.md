@@ -95,7 +95,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [vanilla_sause](https://osu.ppy.sh/users/11772841), ::{ flag=CN }:: [Xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=PH }:: [bulmagamerph76](https://osu.ppy.sh/users/11517895), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
 | Designer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
-| Statistic Helper | ::{ flag=CN }:: [\[GB\]Kosmos](https://osu.ppy.sh/users/9048067), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [\[GB\]smhei](https://osu.ppy.sh/users/20888121) |
+| Statistics helper | ::{ flag=CN }:: [\[GB\]Kosmos](https://osu.ppy.sh/users/9048067), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [\[GB\]smhei](https://osu.ppy.sh/users/20888121) |
 
 ## Links
 
@@ -107,7 +107,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 - [GBC QQ group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [GBC Discord server](https://discord.gg/kR4hJnPs)
 - [Information spreadsheet](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=BB08J2)
-- [Statistic spreadsheet](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z)
+- [Statistics spreadsheet](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z)
 - [Challonge for QQ division](https://challonge.com/p5eqxnht)
 - [Challonge for Discord division](https://challonge.com/srhmgyxd)
 
@@ -167,7 +167,7 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-### QQ Division
+### QQ division
 
 | Placing | Player |
 | :-: | :-- |
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Q3: 兰州拉面专业培训班 |
 | ![Bronze crown片](/wiki/shared/crown-bronze.png "3rd place") | Q16: DWG.BurgerkingReisen |
 
-### Discord Division
+### Discord division
 
 | Placing | Player |
 | :-: | :-- |
@@ -283,7 +283,7 @@ Saturday, 9 December 2023:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **D2: viets sing** | **0** | -1 | D1: ChatGBC | Win by default |
+| **D2: viets sing** | **0** | -1 | D1: ChatGBC | *win by default* |
 | D15: 厕所战士 | -1 | **0** | **D7: flower in antarctica** | Win by default |
 
 Sunday, 10 December 2023:
@@ -426,7 +426,7 @@ Due to the large number of players and matches, the match results will be displa
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
 2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. 16 teams will advance in both zones, and the others get eliminated from the tournament.
-3. Following the regular stage, the elimination stage will be played in both divisions, called *playoffs*. The top 8 teams from the regular stage in each zones will advance to a winner bracket, other teams will get into loser bracket.
+3. Following the regular stage, the elimination stage will be played in both divisions, called *playoffs*. The top 8 teams from the regular stage in each zone will advance to a winner bracket, other teams will get into loser bracket.
 4. All losing teams in the loser bracket will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
@@ -515,15 +515,15 @@ Due to the large number of players and matches, the match results will be displa
 
 1. There will be nine separate mappools.
    - Qualifiers will use a separate mappool.
-   - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Mappool #2 will change all the RC map from mappool #1, and mappool #3 will change all the HB + LN map from mappool #2. This process will repeat until the last mappool.
-   - SV map will also follow that rules, mappool #2 will change SV1, mappool #3 will change SV2, so on until the last mappool.
-   - TB map will always be changed in each mappools.
-   - Per Quarterfinals mappool size expansion, there will be an extra RC map released in that mappool than round 4.
+   - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Mappool #2 will change all the RC maps from mappool #1, and mappool #3 will change all the HB + LN map from mappool #2. This process will repeat until the last mappool.
+   - SV maps also follow the same rule: mappool #2 will change SV1, mappool #3 will change SV2, and so on until the last mappool.
+   - TB maps will always be changed in each mappool.
+   - Due to the Quarterfinals mappool size expansion, there will be an extra RC map in that mappool compared to round 4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps   
-   - Mappool in regular phase: 15 beatmaps
-   - Mappool in elimination phase: 17 beatmaps.
+   - Qualifiers: 8 beatmaps
+   - Mappool in the regular phase: 15 beatmaps
+   - Mappool in the elimination phase: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers. The tiebreaker will be played under FreeMod conditions.
 5. Possible mod choices for the FreeMod bracket are `NoFail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 
