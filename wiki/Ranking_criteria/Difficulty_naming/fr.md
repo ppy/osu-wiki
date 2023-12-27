@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Noms des difficultés
 
 Le but de la désignation des difficultés est d'informer les joueurs de la difficulté d'une map. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression des difficultés, vous pouvez utiliser n'importe quel type de schéma.
