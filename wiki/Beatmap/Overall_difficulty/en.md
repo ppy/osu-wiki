@@ -26,9 +26,9 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 
 | Score | Hit window (ms) |
 | --: | :-- |
-| 300 | `80 - 6 * OD` |
-| 100 | `140 - 8 * OD` |
-| 50 | `200 - 10 * OD` |
+| 300 | `80 - 6 × OD` |
+| 100 | `140 - 8 × OD` |
+| 50 | `200 - 10 × OD` |
 
 ![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, the shown OD values are only valid for the hit windows of 300s, and would be different for 100s and 50s.")
 
@@ -40,19 +40,19 @@ the same formula is used in stable -->
 
 | Score | Hit window (ms) |
 | --: | :-- |
-| Great | `35 - (35 - 50) * (5 - OD) / 5` if OD < 5, `35 + (20 - 35) * (OD - 5) / 5` if OD > 5, otherwise `35` |
-| Ok | `80 - (80 - 120) * (5 - OD) / 5` if OD < 5, `80 + (50 - 80) * (OD - 5) / 5` if OD > 5, otherwise `80` |
-| Miss | `95 - (95 - 135) * (5 - OD) / 5` if OD < 5, `95 + (70 - 95) * (OD - 5) / 5` if OD > 5, otherwise `95` |
+| Great | `50 - 3 × OD` |
+| Ok | `120 - 8 × OD` if OD ≤ 5, and `110 - 6 × OD` if OD ≥ 5 |
+| Miss | `135 - 8 × OD` if OD ≤ 5, and `120 - 5 × OD` if OD ≥ 5 |
 
 ### osu!mania
 
 | Score | Hit window (ms) |
 | --: | :-- |
 | MAX | `16` |
-| 300 | `64 - 3 * OD` |
-| 200 | `97 - 3 * OD` |
-| 100 | `127 - 3 * OD` |
-| 50 | `188 - 3 * OD` |
+| 300 | `64 - 3 × OD` |
+| 200 | `97 - 3 × OD` |
+| 100 | `127 - 3 × OD` |
+| 50 | `188 - 3 × OD` |
 
 If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 
@@ -62,9 +62,9 @@ In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) wil
 
 Overall difficulty also affects [spinners](/wiki/Gameplay/Hit_object/Spinner), in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
-- OD < 5: `5 - 2 * (5 - OD) / 5`
+- OD < 5: `5 - 2 × (5 - OD) / 5`
 - OD = 5: `5`
-- OD > 5: `5 + 2.5 * (OD - 5) / 5`
+- OD > 5: `5 + 2.5 × (OD - 5) / 5`
 
 ## Mod effects
 
