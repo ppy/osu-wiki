@@ -96,9 +96,8 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
     - Disqualification from the current and future official tournaments, until appealed.
 16. Referees may allow, at their discretion, lower or higher tolerances for timers.
 17. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-18. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-19. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
-20. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+18. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
+19. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
