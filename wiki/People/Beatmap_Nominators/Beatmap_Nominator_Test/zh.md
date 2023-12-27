@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
----
-
 # BN 考试
 
 **BN 考试** 能帮助[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 成员评估想要申请加入[谱面审核团队 (*BN*)](/wiki/People/Beatmap_Nominators) 的玩家。
@@ -27,7 +22,7 @@ outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
 - [故事板标准](/wiki/Ranking_criteria#故事板)
 - 游戏模式特殊标准：与将申请的游戏模式相关 (osu!, osu!taiko, osu!catch, osu!mania)
 
-BN 考试没有分数线，但可以大概地根据得分把申请者分为三类：分数高于 15 为良好，分数处于 12.5 到 15 分之间为一般，低于 12.5 分为较差。
+对于 osu! 模式的考试，如果分数低于 12.5，则算作未通过考试。对于其他三个游戏模式来说，BN 考试没有分数线，但可以根据得分大致把申请者分为三类：分数高于 15 为良好，分数处于 12.5 到 15 分之间为一般，低于 12.5 分为较差。
 
 考试过程没有时间限制，而且允许在考试中查阅相关的 wiki 页面（这不算作弊！）。
 
