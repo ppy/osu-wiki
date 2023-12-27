@@ -28,7 +28,7 @@
 Bien que les branches soient techniquement facultatives, elles sont [fortement recommandées pour plusieurs raisons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Pour n'en citer que quelques-unes :
 
 - Les branches isolent les différentes modifications logiques les unes des autres : vous pouvez travailler sur plusieurs articles et les faire réviser et fusionner séparément.
-- Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork) sans conflits de fusion.
+- Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-du-fork) sans conflits de fusion.
 
 1. Cliquez sur le menu déroulant `Current branch` situé en haut du menu.
 
