@@ -18,11 +18,11 @@ El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, A
 
 **Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
-***Nota: Para reportar a un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
+***Nota: Para reportar a un moderador por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Roles y responsabilidades
 
-*Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
+*Véase también: [Reportar mala conducta](/wiki/Reporting_bad_behaviour)*
 
 El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
@@ -33,14 +33,14 @@ El Global Moderation Team es responsable del bienestar del chat y del foro, y se
 
 ## Convertirse en moderador
 
-Convertirse en miembro del Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
+Convertirse en miembro del Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buena conducta. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
 
 ### Cómo ser considerado
 
-Los factores más importantes a considerar son el comportamiento, la actividad, la comprensión de [las reglas](/wiki/Rules) y la paciencia:
+Los factores más importantes a considerar son la conducta, la actividad, la comprensión de [las reglas](/wiki/Rules) y la paciencia:
 
-1. Demostrar buen comportamiento siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
-2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reporte cualquier mal comportamiento](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
+1. Demostrar buena conducta siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
+2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reportar cualquier mala conducta](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
 3. Tener una comprensión adecuada de [las reglas](/wiki/Rules) y cómo se aplican. Es importante saber qué es aceptable dentro de osu! y lo que no es.
 4. Sea paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
 
