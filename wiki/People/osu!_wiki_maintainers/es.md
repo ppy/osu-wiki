@@ -4,7 +4,7 @@ Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
-Si necesita ayuda para hacer una contribución o desea una revisión de su solicitud de cambios, envíe un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) y un mantenedor u otro colaborador le responderá (todos los mantenedores saben inglés).
+Si necesitas ayuda para hacer una contribución o quieres una revisión de tu solicitud de cambios, envía un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) y un mantenedor u otro contribuidor te responderá (todos los mantenedores saben inglés).
 
 ## Mantenedores de la wiki
 
