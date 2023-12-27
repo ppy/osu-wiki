@@ -163,6 +163,183 @@ The GB Cup 2023 Autumn is run by Team GB and various community members.
 | D15 | **厕所战士** | ::{ flag=SG }:: **[oyama mahiro](https://osu.ppy.sh/users/21207265)**, ::{ flag=MY }:: [Tosai_](https://osu.ppy.sh/users/3760209), ::{ flag=ID }:: [\[LS\]Robi](https://osu.ppy.sh/users/21900872), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=HK }:: [ERDFS](https://osu.ppy.sh/users/28707779) |
 | D16 | **V guys brger n’ frys** | ::{ flag=US }:: **[YoungBurger12](https://osu.ppy.sh/users/18667176)**, ::{ flag=US }:: [Surcanp](https://osu.ppy.sh/users/19862784), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=TH }:: [MickyGG](https://osu.ppy.sh/users/27010218), ::{ flag=US }:: [SolarIsCool](https://osu.ppy.sh/users/33833222) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### QQ Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Q12: Team 12 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Q3: 兰州拉面专业培训班 |
+| ![Bronze crown片](/wiki/shared/crown-bronze.png "3rd place") | Q16: DWG.BurgerkingReisen |
+
+### Discord Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | D9: 麦当劳护肤 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | D2: viets sing |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | D12: Sunaookami Shiroko |
+
+## Match results
+
+### QQ Division Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=xiki0i).
+
+Saturday, 16 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q3: 兰州拉面专业培训班** | **7** | 3 | Q16: DWG.BurgerkingReisen | [#1](https://osu.ppy.sh/community/matches/111749143) |
+| **Q12: Team 12** | **7** | 5 | Q3: 兰州拉面专业培训班 | [#2](https://osu.ppy.sh/community/matches/111750301) |
+
+### QQ Division Finals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=wmnmix).
+
+Saturday, 9 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q2: 叮咚鸡** | **7** | 4 | Q21: MoKori没可莉 | [#3](https://osu.ppy.sh/community/matches/111640559) |
+| Q3: 兰州拉面专业培训班 | 4 | **7** | **Q12: Team 12** | [#1](https://osu.ppy.sh/community/matches/111641998) |
+| **Q16: DWG.BurgerkingReisen** | **7** | 5 | Q6: 咖啡配魔爪心脏咚咚咚 | [#2](https://osu.ppy.sh/community/matches/111642922) |
+
+Sunday, 10 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q16: DWG.BurgerkingReisen** | **0** | -1 | Q2: 叮咚鸡 | Win by default |
+
+### QQ Division Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=13y6sf).
+
+Friday, 1 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q21: MoKori没可莉** | **7** | 4 | Q4: 梨落某海 | [#6](https://osu.ppy.sh/community/matches/111523293) |
+
+Saturday, 2 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q1: 干什么!** | **7** | 2 | Q23: 再奖励一把大天空 | [#5](https://osu.ppy.sh/community/matches/111538925) |
+| Q16: DWG.BurgerkingReisen | 6 | **7** | **Q3: 兰州拉面专业培训班** | [#1](https://osu.ppy.sh/community/matches/111539358) |
+| **Q7: 洛杉矶糊人** | **7** | 2 | Q5: 阿拜多斯对策委员会 | [#3](https://osu.ppy.sh/community/matches/111539347) |
+| Q1: 干什么! | 6 | **7** | **Q21: MoKori没可莉** | [#8](https://osu.ppy.sh/community/matches/111540047) |
+| Q10: 地表最強陣!RDCB組x5 | 2 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#4](https://osu.ppy.sh/community/matches/111540708) |
+| Q2: 叮咚鸡 | 3 | **7** | **Q12: Team 12** | [#2](https://osu.ppy.sh/community/matches/111540678) |
+
+Monday, 4 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Q7: 洛杉矶糊人 | 5 | **7** | **Q6: 咖啡配魔爪心脏咚咚咚** | [#7](https://osu.ppy.sh/community/matches/111574511) |
+
+### QQ Division Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=71acx3).
+
+Saturday, 25 November 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Q16: DWG.BurgerkingReisen** | **7** | 3 | Q21: MoKori没可莉 | [#1](https://osu.ppy.sh/community/matches/111444281) |
+| Q7: 洛杉矶糊人 | 4 | **7** | **Q12: Team 12** | [#4](https://osu.ppy.sh/community/matches/111444684) |
+| **Q23: 再奖励一把大天空** | **7** | 6 | Q18: 克利芙兰奇士 | [#7](https://osu.ppy.sh/community/matches/111444745) |
+| **Q4: 梨落某海** | **7** | 6 | Q19: 你们选人都这么野的吗 | [#8](https://osu.ppy.sh/community/matches/111444611) |
+| **Q2: 叮咚鸡** | **7** | 6 | Q10: 地表最強陣!RDCB組x5 | [#3](https://osu.ppy.sh/community/matches/111445294) |
+| Q9: 闪耀！优俊公鸭 | 2 | **7** | **Q5: 阿拜多斯对策委员会** | [#5](https://osu.ppy.sh/community/matches/111445603) |
+| Q1: 干什么! | 3 | **7** |	**Q3: 兰州拉面专业培训班** | [#2](https://osu.ppy.sh/community/matches/111446109) |
+| Q15: 1！5！ | 3 | **7** |	**Q6: 咖啡配魔爪心脏咚咚咚** | [#6](https://osu.ppy.sh/community/matches/111446197) |
+
+### Discord Division Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=xiki0i).
+
+Saturday, 16 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D12: Sunaookami Shiroko | 4 | **7** |	**D2: viets sing** | [#4](https://osu.ppy.sh/community/matches/111750031) |
+
+Sunday, 17 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D9: 麦当劳护肤 | 3 | **7** |	**D2: viets sing** | [#5](https://osu.ppy.sh/community/matches/111768838) |
+| D2: viets sing | 2 | **7** |	**D9: 麦当劳护肤** | [#6](https://osu.ppy.sh/community/matches/111768838) |
+
+### Discord Division Finals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=wmnmix).
+
+Saturday, 9 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **D2: viets sing** | **0** | -1 | D1: ChatGBC | Win by default |
+| D15: 厕所战士 | -1 | **0** | **D7: flower in antarctica** | Win by default |
+
+Sunday, 10 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D7: flower in antarctica | 2 | **7** |	**D2: viets sing** | [#8](https://osu.ppy.sh/community/matches/111660935) |
+| **D9: 麦当劳护肤** | **7** | 3 | D12: Sunaookami Shiroko | [#5](https://osu.ppy.sh/community/matches/111661874) |
+
+### Discord Division Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=13y6sf).
+
+Saturday, 2 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D8: Weakest Captain v2 | -1 | **0** | **D14: we love bread** | Win by default |
+| D4: :D :D :D :D :D | 4 | **7** | **D7: flower in antarctica** | [#12](https://osu.ppy.sh/community/matches/111539830) |
+| D3: cat | 3 | **7** | **D1: ChatGBC** | [#13](https://osu.ppy.sh/community/matches/111539841) |
+| D11: Practice for 4dm | 2 | **7** | **D6: Timezone hell** | [#14](https://osu.ppy.sh/community/matches/111540981) |
+| D2: viets sing | 4 | **7** | **D12: Sunaookami Shiroko** | [#10](https://osu.ppy.sh/community/matches/111541528) |
+
+Sunday, 3 December 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D15: 厕所战士 | 3 | **7** | **D9: 麦当劳护肤** | [#9](https://osu.ppy.sh/community/matches/111560450) |
+| **D1: ChatGBC** | **7** | 0 | D6: Timezone hell | [#16](https://osu.ppy.sh/community/matches/111560627) |
+| D14: we love bread | 6 | **7** | **D7: flower in antarctica** | [#15](https://osu.ppy.sh/community/matches/111561336) |
+
+### Discord Division Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DTU92VHRFUm1nTm9Z?tab=71acx3).
+
+Saturday, 25 November 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D11: Practice for 4dm | 5 | **7** |	**D15: 厕所战士** | [#9](https://osu.ppy.sh/community/matches/111446273) |
+
+Sunday, 26 November 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| D13: j | -1 | **0** |	**D7: flower in antarctica** | Win by default |
+| **D2: viets sing** | **7** | 5 | D4: :D :D :D :D :D | [#11](https://osu.ppy.sh/community/matches/111462023) |
+| D3: cat | 3 | **7** |	**D9: 麦当劳护肤** | [#10](https://osu.ppy.sh/community/matches/111462013) |
+| D10: t spin quadruple 2 | 0 | **7** |	**D6: Timezone hell** | [#16](https://osu.ppy.sh/community/matches/111461970) |
+| **D12: Sunaookami Shiroko** | **7** | 4 | D8: Weakest Captain v2 | [#12](https://osu.ppy.sh/community/matches/111462057) |
+| D5: Roblox Gaming | 0 | **7** |	**D14: we love bread** | [#13](https://osu.ppy.sh/community/matches/111462950) |
+
+### Regular Stage
+
+Due to the large number of players and matches, the match results will be displayed in the **[information spreadsheet](https://docs.qq.com/sheet/DTVlRcExwbUpTVVZn?tab=y7twi6)**.
+
 ## Ruleset
 
 ### Tournament rules
