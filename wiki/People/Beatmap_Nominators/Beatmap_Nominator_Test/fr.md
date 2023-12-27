@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Test des Beatmap Nominators
 
 Le **Test des Beatmap Nominators** est un examen utilisé pour faciliter l'évaluation des candidats au titre de [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*).
