@@ -1,82 +1,88 @@
----
-outdated_translation: true
-outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
----
+# RC 皮肤组列表
 
-# 皮肤组列表
+下表包含在玩家自定义皮肤和谱面自定义皮肤中可定义的皮肤元素集。为了避免玩家自定义皮肤与谱面自定义皮肤之间的冲突，在自定义谱面皮肤中的游戏元素时，需要同时自定义特定的一整组元素。
 
-*父页面： [Ranking criteria](/wiki/Ranking_criteria)*
+如果文件名称中含有 `{-n}` 或者 `{n}`，除了连击时跳出的人物图片之外，都可以自定义成动图。比如，hitcircleoverlay{-n}.png 可以仅使用一张静态图片 (hitcircleoverlay.png)，或者动图分解成的一系列前后循环的图片 (hitcircleoveray-0.png、hitcircleoverlay-1.png、hitcircleoverlay-2.png 等等)。连击时跳出的人物图片也使用了这套语法，但在每次完成连击里程碑时只会弹出一张静态图片。
 
-以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/community/forums/topics/480331) 起草，由 Ephemeral 命名。
+想要概览列表，可以去直接[下载皮肤组模板](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar)。
 
 ## osu!
 
+皮肤元素列表：[osu! 自定义皮肤](/wiki/Skinning/osu!)
+
 ### 光标组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| cursor.png | 应该与 cursortrail.png 一起使用 | 必须 | - |
-| cursortrail.png | 应该与 cursor.png 一起使用 | 必须 | - |
-| cursormiddle.png | 可选，取决于皮肤的设计 | 可选 | - |
+| cursor.png | 应总是和 cursortrail.png 一起使用 | 必须 | - |
+| cursortrail.png | 应总是和 cursor.png 一起使用 | 必须 | - |
+| cursormiddle.png | 这个元素是否使用取决于光标的设计（是否含有拖尾） | 可选 | - |
 | cursor-smoke.png | - | 可选 | - |
+
+### 打击判定组
+
+这一组元素与游玩相关。
+
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
+| --: | :-: | :-: | :-: |
+| hit0{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit50{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit100{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit100k{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit300{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit300g{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| hit300k{-n}.png | 必须能让玩家轻松分辨出它和其他打击判定的区别 | 必须 | - |
+| particle50.png | 应总是和其他 particles 元素一起使用、只有自定义打击判定后才会生效 | 可选 | 7x7px |
+| particle100.png | 应总是和其他 particles 元素一起使用、只有自定义打击判定后才会生效 | 可选 | 7x7px |
+| particle300.png | 应总是和其他 particles 元素一起使用、只有自定义打击判定后才会生效 | 可选 | 7x7px |
+| sliderpoint10.png | 应总是和 sliderpoint30.png 一起使用、只有玩家自定义皮肤支持版本 1 时才会生效 | 可选 | - |
+| sliderpoint30.png | 应总是和 sliderpoint10.png 一起使用、只有玩家自定义皮肤支持版本 1 时才会生效 | 可选 | - |
 
 ### 打击闪光组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| hit0(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit50(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit100(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit100k(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit300(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit300g(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| hit300k(-n).png | 应该与所有其他打击闪光有明显的区别 | 必须 | - |
-| lighting.png | - | 可选 | - |
-| particle50.png | 应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效 | 可选 | 7x7px |
-| particle100.png | 应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效 | 可选 | 7x7px |
-| particle300.png | 应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效 | 可选 | 7x7px |
-| sliderpoint10.png | 应该与 sliderpoint30.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 | - |
-| sliderpoint30.png | 应该与 sliderpoint10.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 | - |
+| lighting.png | - | - | - |
 
-### Hitcircle 组
+### 打击圈组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | approachcircle.png | - | 必须 | 126x126px |
 | followpoint.png | - | 必须 | - |
-| hitcircle.png | 在没有定义 Slidercircles 时会使用这个元素 | 必须 | 118x118px (circle) 128x128px (whole file) |
-| hitcircleoverlay(-n).png | 在没有定义 Slidercircles 时会使用这个元素 | 必须 | 118x118px (circle) 128x128px (whole file) |
-| reversearrow.png | 应该朝向右边 | 必须 | - |
-| sliderendcircle.png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 | 118x118px (circle) 128x128px (whole file) |
-| sliderendcircleoverlay(-n).png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 | 118x118px (circle) 128x128px (whole file) |
-| sliderstartcircle.png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 | 118x118px (circle) 128x128px (whole file) |
-| sliderstartcircleoverlay(-n).png | 应该被定义，以避免与其他自定义皮肤元素冲突 | 必须 | 118x118px (circle) / 128x128px (whole file) |
-| hitcircleselect.png | 只会在谱面编辑器中可见 | 可选 | 118x118px (circle) 128x128px (whole file) |
+| hitcircle.png | 如果没有自定义以下的滑条圈皮肤，它们将使用这个元素代替。但是玩家使用含有滑条圈的自定义皮肤时，不会代替。 | 必须 | 118x118px (圆圈) 128x128px (整个文件) |
+| hitcircleoverlay{-n}.png | 如果没有自定义以下的滑条圈覆盖层皮肤，它们将使用这个元素代替。但是玩家使用含有滑条圈覆盖层的自定义皮肤时，不会代替。 | 必须 | 118x118px (圆圈) 128x128px (整个文件) |
+| reversearrow.png | 应指向右边 | 必须 | - |
+| sliderendcircle.png | 为了避免与玩家自定义皮肤冲突，必须自定义 | 必须 | 118x118px (圆圈) 128x128px (整个文件) |
+| sliderendcircleoverlay{-n}.png | 为了避免与玩家自定义皮肤冲突，必须自定义 | 必须 | 118x118px (圆圈) 128x128px (整个文件) |
+| sliderstartcircle.png | 为了避免与玩家自定义皮肤冲突，必须自定义 | 必须 | 118x118px (圆圈) 128x128px (整个文件) |
+| sliderstartcircleoverlay{-n}.png | 为了避免与玩家自定义皮肤冲突，必须自定义 | 必须 | 118x118px (圆圈) / 128x128px (整个文件) |
+| hitcircleselect.png | 只在编辑器内可见 | 可选 | 118x118px (圆圈) 128x128px (整个文件) |
 
-### 滑条轨迹
+### 滑条组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| sliderb(n).png | - | 必须 | 118x118px |
-| sliderb-nd.png | 只在强制默认皮肤，并且没有自定义 Sliderb 时使用 | 可选 | 118x118px |
-| sliderb-spec.png | 只在强制默认皮肤，并且没有自定义 Sliderb 时使用 | 可选 | 118x118px |
-| sliderfollowcircle(-n).png | - | 必须 | 256x256px |
+| sliderb{n}.png | - | 必须 | 118x118px |
+| sliderb-nd.png | 只能在强制使用默认皮肤的同时，未自定义 sliderb 时使用。 | 可选 | 118x118px |
+| sliderb-spec.png | 只能在强制使用默认皮肤的同时，未自定义 sliderb 时使用。 | 可选 | 118x118px |
+| sliderfollowcircle{-n}.png | - | 必须 | 256x256px |
 | sliderscorepoint.png | 也在 osu!taiko 中使用 | 必须 | - |
 
-### Hitcircle 数字组
+### 打击圈数字组
 
-这个皮肤组的元素与游戏有关。数字之间的层叠和间隙由自定义皮肤设定，不会受谱面本身的影响。
-请注意，这个皮肤组的所有推荐尺寸在 Ranking criteria 建议的指南中列出。
+这一组元素与游玩相关。数字之间的间隙或重叠距离由玩家自定义皮肤决定，无法由谱面自定义皮肤决定。
+请注意，这组元素的推荐尺寸都是通过谱面上架标准 (RC) 的准则来处理的。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | default-0.png | - | 必须 | - |
 | default-1.png | - | 必须 | - |
@@ -91,74 +97,96 @@ outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
 
 ### 转盘组
 
-除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你**不应该**再使用「新皮肤样式（new spinner style）」的元素。
+osu! 有两种转盘风格，同时只能使用一种。**禁止**同时使用两种风格中特有的元素：如果同时使用，那么会默认解析为旧版风格。
 
-因为在同时有两种皮肤元素时，基本转盘样式的元素的优先级会比新皮肤样式的元素高。新皮肤元素只会在自定义皮肤没有使用基本转盘样式，同时支持皮肤版本 2 或更高，或者谱面强制默认皮肤时使用。
+只有在玩家自定义皮肤版本大于等于版本 2 并且并没有使用旧版风格的元素，或是强制使用默认皮肤时，新版风格转盘才会生效。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+这一组元素中，除了 spinner-osu.png 和 spinner-rpm.png 之外的元素，都与游玩相关。
+
+### 旧版风格转盘组
+
+如果你使用了旧版风格元素，则**禁止**添加标记为“新版风格独有”的元素。
+
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| spinner-background.png | 基本转盘样式 | 必须 | - |
-| spinner-circle.png | 基本转盘样式 | 必须 | 666x666px |
-| spinner-metre.png | 基本转盘样式 | 必须 | 1024x692px |
-| spinner-bottom.png | 新转盘样式 | 必须 | 667x667px |
-| spinner-glow.png | 新转盘样式 | 必须 | 852x852px |
-| spinner-middle.png | 新转盘样式 | 必须 | 689x689px |
-| spinner-middle2.png | 新转盘样式 | 必须 | 17x17px |
-| spinner-top.png | 新转盘样式 | 必须 | 667x667px |
-| spinner-approachcircle.png | 两者都使用 | 必须 | 384x384px |
+| spinner-background.png | 旧版风格独有 | 必须 | - |
+| spinner-circle.png | 旧版风格独有 | 必须 | 666x666px |
+| spinner-metre.png | 旧版风格独有 | 必须 | 1024x692px |
+| spinner-approachcircle.png | - | 必须 | 384x384px |
 | spinner-clear.png | - | 必须 | - |
 | spinner-spin.png | - | 必须 | - |
-| spinner-osu.png | 只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 | - |
-| spinner-rpm.png | 应该在定义了分数组和转盘组时使用 | 可选 | 280x56px |
+| spinner-osu.png | 只有在玩家自定义皮肤版本为 1 时生效 | 可选 | - |
+| spinner-rpm.png | 只有在同时自定义分数组和转盘组的时候才需要自定义 | 可选 | 280x56px |
+
+### 新版风格转盘组
+
+如果你使用了新版风格元素，则**禁止**添加标记为“旧版风格独有”的元素。
+
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
+| --: | :-: | :-: | :-: |
+| spinner-bottom.png | 新版风格独有 | 必须 | 667x667px |
+| spinner-glow.png | 新版风格独有 | 必须 | 852x852px |
+| spinner-middle.png | 新版风格独有 | 必须 | 689x689px |
+| spinner-middle2.png | 新版风格独有 | 必须 | 17x17px |
+| spinner-top.png | 新版风格独有 | 必须 | 667x667px |
+| spinner-approachcircle.png | - | 必须 | 384x384px |
+| spinner-clear.png | - | 必须 | - |
+| spinner-spin.png | - | 必须 | - |
+| spinner-osu.png | 只有在玩家自定义皮肤版本为 1 时生效 | 可选 | - |
+| spinner-rpm.png | 只有在同时自定义分数组和转盘组的时候才需要自定义 | 可选 | 280x56px |
 
 ## osu!taiko
 
+皮肤元素列表：[osu!taiko 自定义皮肤](/wiki/Skinning/osu!taiko)
+
 ### 打击物件组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | taikobigcircle.png | - | 必须 | 118x118px |
-| taikobigcircleoverlay(-n).png | - | 必须 | 118x118px |
+| taikobigcircleoverlay{-n}.png | - | 必须 | 118x118px |
 | taikohitcircle.png | - | 必须 | 118x118px |
-| taikohitcircleoverlay(-n).png | - | 必须 | 118x118px |
-| sliderscorepoint.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 必须 | - |
-| taiko-roll-middle.png | 拉伸以填满黄条 | 必须 | 1x118px (line) 1x128px (whole file) |
-| taiko-roll-end.png | 圈的右半边 | 必须 | 59x118px (half circle) 64x128px (whole file) |
+| taikohitcircleoverlay{-n}.png | - | 必须 | 118x118px |
+| sliderscorepoint.png | 只能在谱面中未含有 osu! 难度（和 osu! 皮肤组元素重名）的时候使用 | 必须 | - |
+| taiko-roll-middle.png | 将会被拉伸来符合长度 | 必须 | 1x118px (长条) 1x128px (整个文件) |
+| taiko-roll-end.png | 圆圈的右半边 | 必须 | 59x118px (圆圈的一半) 64x128px (整个文件) |
 | spinner-warning.png | - | 必须 | - |
 
-### 打击闪光组
+### 打击判定组
 
-这个元素组的内容与游戏有关，应该与所有其他打击闪光有明显的区别。
+这一组元素与游玩相关，并且必须能让玩家轻松分辨出它和其他打击判定的区别。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| taiko-hit0(-n).png | - | 必须 | - |
-| taiko-hit100(-n).png | - | 必须 | - |
-| taiko-hit100k(-n).png | - | 必须 | - |
-| taiko-hit300(-n).png | - | 必须 | - |
-| taiko-hit300k(-n).png | - | 必须 | - |
+| taiko-hit0{-n}.png | - | 必须 | - |
+| taiko-hit100{-n}.png | - | 必须 | - |
+| taiko-hit100k{-n}.png | - | 必须 | - |
+| taiko-hit300{-n}.png | - | 必须 | - |
+| taiko-hit300k{-n}.png | - | 必须 | - |
 
 ### Pippidon 组
 
-这个皮肤组的元素与游戏无关。
+这一组元素与游玩不相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| pippidonclear(n).png | - | 必须 | - |
-| pippidonfail(n).png | - | 必须 | - |
-| pippidonidle(n).png | - | 必须 | - |
-| pippidonkiai(n).png | - | 必须 | - |
-| taiko-flower-group(-n).png | osu!taiko 连击闪光 | 可选 | - |
+| pippidonclear{n}.png | - | 必须 | - |
+| pippidonfail{n}.png | - | 必须 | - |
+| pippidonidle{n}.png | - | 必须 | - |
+| pippidonkiai{n}.png | - | 必须 | - |
+| taiko-flower-group{-n}.png | osu!taiko 里的连击里程碑 | 可选 | - |
 
 ## osu!catch
 
+皮肤元素列表：[Skinning osu!catch](/wiki/Skinning/osu!catch)
+
 ### 水果组
 
-这个皮肤组的元素与游戏有关。
+这一组元素与游玩相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | fruit-apple.png | - | 必须 | 128x128px |
 | fruit-apple-overlay.png | - | 必须 | 128x128px |
@@ -168,43 +196,45 @@ outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
 | fruit-orange-overlay.png | - | 必须 | 128x128px |
 | fruit-pear.png | - | 必须 | 128x128px |
 | fruit-pear-overlay.png | - | 必须 | 128x128px |
-| fruit-bananas.png | 应该与其他水果的设计有所不同 | 必须 | 128x128px |
-| fruit-bananas-overlay.png | 应该与其他水果的设计有所不同 | 必须 | 128x128px |
+| fruit-bananas.png | 必须能让玩家轻松分辨出它和其他水果的区别 | 必须 | 128x128px |
+| fruit-bananas-overlay.png | 必须能让玩家轻松分辨出它和其他水果的区别 | 必须 | 128x128px |
 | fruit-drop.png | - | 必须 | 82x103px |
-| fruit-drop-overlay.png | 为了保证显示正确，在使用自定义皮肤时应该包含它，因为默认皮肤使用了透明的图像文件 | 必须 | 82x103px |
+| fruit-drop-overlay.png | 由于默认皮肤会使用透明元素，所以为了确保玩家在使用玩家自定义皮肤的时候不会冲突，必须自定义这个元素 | 必须 | 82x103px |
 
-### Catcher 组
+### 盘子组
 
-除了 lightning.png，所有元素与游戏有关。
-Catchers 应该居中，宽度为 302px。
+除了 lightning.png 之外的元素都与游玩相关。
+盘子必须完美居中，宽度严格限制为 302px。虽然默认皮肤的盘子并未居中，但它也可以用于谱面自定义皮肤。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| fruit-catcher-fail(-n).png | 应该朝向右边 | 必须 | 最小 302px 宽 |
-| fruit-catcher-idle(-n).png | 应该朝向右边 | 必须 | 最小 302px 宽 |
-| fruit-catcher-kiai(-n).png | 应该朝向右边 | 必须 | 最小 302px 宽 |
-| lighting.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 可选 | - |
+| fruit-catcher-fail{-n}.png | 应面朝右边 | 必须 | 最小宽度 302px |
+| fruit-catcher-idle{-n}.png | 应面朝右边 | 必须 | 最小宽度 302px |
+| fruit-catcher-kiai{-n}.png | 应面朝右边 | 必须 | 最小宽度 302px |
+| lighting.png | 只能在谱面中未含有 osu! 难度（和 osu! 皮肤组元素重名）的时候使用 | 可选 | - |
 
 ## 界面
 
-### 分数栏组
+皮肤元素列表：[界面自定义皮肤](/wiki/Skinning/Interface)
 
-这个皮肤组的元素与游戏有关。请注意，这个皮肤组的所有推荐尺寸在 Ranking criteria 建议的指南中列出。
+### 血量条组
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+这一组元素与游玩相关。请注意，这组元素的推荐尺寸都是通过谱面上架标准 (RC) 的准则来处理的。
+
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| scorebar-bg.png | 应该与 scorebar-colour(-n).png 一起使用 | 必须 | - |
-| scorebar-colour(-n).png | 应该与 scorebar-bg.png 一起使用 | 必须 | 最高: 120px |
+| scorebar-bg.png | 应总是和 scorebar-colour{-n}.png 元素一起使用 | 必须 | - |
+| scorebar-colour{-n}.png | 应总是和 scorebar-bg.png 元素一起使用 | 必须 | 最大高度 120px |
 | scorebar-ki.png | - | 必须 | - |
 | scorebar-kidanger.png | - | 必须 | - |
 | scorebar-kidanger2.png | - | 必须 | - |
-| scorebar-marker.png | 必须包含以保证 ki 可以正常显示。可以使用空白的图像文件 | 必须 | - |
+| scorebar-marker.png | 为了确保 ki 能正常显示，必须自定义这个元素（可以使用透明文件） | 必须 | - |
 
-### 游戏分数组
+### 分数组
 
-这个皮肤组的元素与游戏有关。数字之间的层叠和间隙由自定义皮肤设定，不会受谱面本身的影响。
+这一组元素与游玩相关。数字之间的间隙或重叠距离由玩家自定义皮肤决定，无法由谱面自定义皮肤决定。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | score-0.png | - | 必须 | - |
 | score-1.png | - | 必须 | - |
@@ -219,13 +249,13 @@ Catchers 应该居中，宽度为 302px。
 | score-comma.png | - | 必须 | - |
 | score-dot.png | - | 必须 | - |
 | score-percent.png | - | 必须 | - |
-| score-x.png | 可以在不包含 osu! 难度的谱面包中使用 | 必须 | - |
+| score-x.png | 如果谱面中未含有 osu! 难度，可以舍弃 | 必须 | - |
 
-### Mod 图标组
+### 模组图标组
 
-这个皮肤组的元素与游戏无关。这些细分的图标，即使被列为「必须」，如果没有在谱面的任何游戏模式中使用，也可以留空。
+这一组元素与游玩不相关。如果某一个模组在谱面能转换到的任一游戏模式上都无法启用，即使它标为“必须”，也可以不自定义。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | selection-mod-autoplay.png | - | 必须 | - |
 | selection-mod-doubletime.png | - | 必须 | - |
@@ -255,33 +285,33 @@ Catchers 应该居中，宽度为 302px。
 | selection-mod-spunout.png | - | 必须 | - |
 | selection-mod-suddendeath.png | - | 必须 | - |
 
-### Playfield 组
+### 游玩区域组
 
-这组中的连击闪光与游戏有关，谱面中有 Kiai time 时，star2.png 是唯一与游戏有关的元素。所有其他元素都与游戏无关。
+这一组元素中的 combobursts 和 star2.png 与游玩相关，其他元素与游玩不相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| comboburst-fruits(-n).png | 应该朝向右边，显示在右边时会自动反转 | 可选 | 最高：768px |
-| comboburst-mania(-n).png | 应该朝向右边，显示在右边时会自动反转 | 可选 | 最高：768px |
-| comboburst(-n).png | 应该朝向右边，显示在右边时会自动反转 | 可选 | 最高：768px |
-| menu-button-background.png | 在排行榜上使用 | 可选 | 最小分辨率 690x85px |
-| multi-skipped.png | 多人模式：跳过开头的玩家显示 | 可选 | - |
-| play-skip(-n).png | - | 可选 | - |
+| comboburst-fruits{-n}.png | 应面朝右边，如果在屏幕右边显示此元素，元素会自动左右翻转。 | 可选 | 最大高度：768px |
+| comboburst-mania{-n}.png | 应面朝右边，如果在屏幕右边显示此元素，元素会自动左右翻转。 | 可选 | 最大高度：768px |
+| comboburst{-n}.png | 应面朝右边，如果在屏幕右边显示此元素，元素会自动左右翻转。 | 可选 | 最大高度：768px |
+| menu-button-background.png | 用于排行榜 | 可选 | 最低分辨率 690x85px |
+| multi-skipped.png | 多人游戏：标明谁跳过了开头 | 可选 | - |
+| play-skip{-n}.png | - | 可选 | - |
 | play-unranked.png | - | 可选 | - |
-| star2.png | 在不包含 Kiai time 和 Break 的谱面包中不能使用 | 可选 | - |
+| star2.png | - | 可选 | - |
 
-### Inputoverlay 组
+### 输入叠加层组
 
-这个皮肤组的元素与游戏无关。
+这一组元素与游玩不相关。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| inputoverlay-background.png | 在不包含 osu! 和 osu!catch 难度的谱面包中不能使用 | 必须 | 193x55px |
-| inputoverlay-key.png | 在不包含 osu! 和 osu!catch 难度的谱面包中不能使用 | 必须 | 最大：46x46px |
+| inputoverlay-background.png | 如果谱面不含 osu! 或 osu!catch 难度时，禁止自定义 | 必须 | 193x55px |
+| inputoverlay-key.png | 如果谱面不含 osu! 或 osu!catch 难度时，禁止自定义 | 必须 | 最大：46x46px |
 
-### Leaderboard Entry Number 组
+### 排行榜编号数字组
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | scoreentry-0.png | - | 必须 | 11x14px |
 | scoreentry-1.png | - | 必须 | 11x14px |
@@ -300,9 +330,9 @@ Catchers 应该居中，宽度为 302px。
 
 ### 倒计时组
 
-这个皮肤组的元素与游戏有关。如果谱面没有包含倒计时，不能使用。
+这一组元素与游玩相关。如果谱面未启用倒计时，则禁止自定义。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | ready.png | - | 必须 | 最大：1366x768px |
 | count1.png | - | 必须 | 最大：1366x768px |
@@ -310,20 +340,20 @@ Catchers 应该居中，宽度为 302px。
 | count3.png | - | 必须 | 最大：1366x768px |
 | go.png | - | 必须 | 最大：1366x768px |
 
-### 章节指示器组
+### 阶段指示组
 
-这个皮肤组的元素与游戏无关。如果谱面没有包含长 Break，显示章节指示器（section indicators），则不能使用。
+这一组元素与游玩不相关。如果谱面没有足够长的休息时间以至于不可能显示阶段指示，则禁止自定义。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
-| section-fail.png | - | 必须 | 最高：768px |
-| section-pass.png | - | 必须 | 最高：768px |
+| section-fail.png | - | 必须 | 最大高度：768px |
+| section-pass.png | - | 必须 | 最大高度：768px |
 
-### 判定指示器组
+### 评级指示组
 
-这个皮肤组的元素与游戏无关。如果谱面没有包含长 Break，显示章节指示器（section indicators），则不能使用。
+这一组元素与游玩不相关。如果谱面没有足够长的休息时间以至于不可能显示评级指示，则禁止自定义。
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | ranking-a-small.png | - | 必须 | 34x40px |
 | ranking-b-small.png | - | 必须 | 34x40px |
@@ -334,12 +364,12 @@ Catchers 应该居中，宽度为 302px。
 | ranking-x-small.png | - | 必须 | 34x40px |
 | ranking-xh-small.png | - | 必须 | 34x40px |
 
-### 暂停屏幕组
+### 暂停页组
 
-| 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
+| 文件名称 | 备注 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | pause-back.png | - | 必须 | - |
 | pause-continue.png | - | 必须 | - |
 | pause-retry.png | - | 必须 | - |
-| fail-background.png | 应该与下者同时使用。会被拉伸以适应玩家的屏幕。 | 可选 | 最大：1920x1200px |
-| pause-overlay.png | 应该与上者同时使用。 | 可选 | 1366x768px |
+| fail-background.png | 如果自定义了背景，那么也应该自定义另一个背景。这个元素会缩放尺寸以符合玩家的屏幕 | 可选 | 最大：1920x1200px |
+| pause-overlay.png | 如果自定义了背景，那么也应该自定义另一个背景 | 可选 | 1366x768px |

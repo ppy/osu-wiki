@@ -6,7 +6,7 @@ The following is some of the major events in osu!'s history since its beginning.
 
 ## July
 
-osu! began as a proof-of-concept named "ouentest".[^ouentest] The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) [^osume] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
+osu! began as a proof-of-concept named "ouentest".[^ouentest] The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`)[^osume] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
 
 ![](img/2007-07_01.jpg "Song Selection")
 
@@ -34,7 +34,7 @@ The main menu was updated with a new look and the editor received a lot of new f
 
 ![](img/2007-08_02.jpg "Evolution of the hit bursts")
 
-Gameplay was enhanced with the debut of [combo fire](/wiki/Gameplay/Combo_fire), the [Health (or HP)](/wiki/Gameplay/Health) bar, cursor trails, and better-looking sliders. At this point, osu! had a humble collection of around ten beatmaps made by the testing team that was made up of around five people.
+Gameplay was enhanced with the debut of [combo fire](/wiki/Gameplay/Combo_fire), the [health](/wiki/Gameplay/Health) bar, cursor trails, and better-looking sliders. At this point, osu! had a humble collection of around ten beatmaps made by the testing team that was made up of around five people.
 
 ![](img/2007-08_03.jpg "Song Selection for Edit Mode")
 
@@ -44,19 +44,19 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/Gameplay/Combo_fire),
 
 ![](img/2007-09.jpg)
 
-September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a [news announcement](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) on [bemanistyle](http://bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
+September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a [news announcement](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483) on [bemanistyle](http://bemanistyle.com/) which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 
 ![](img/2007-09_02.jpg "Main Menu")
 
-![](img/2007-09_03.jpg "Spinner \(based on DS's official Ouendan\)")
+![](img/2007-09_03.jpg "Spinner (based on DS's official Ouendan)")
 
 ![](img/2007-09_04.jpg "Grading Screen")
 
 ![](img/2007-09_05.jpg "News announcement on a gaming website")
 
-Quickly after the public release, the first play [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) (EZ) and [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) (NF), were added, as well as break sections (which up until now had been ignored and missing). A large number of changes quickly made osu! look more and more like a legitimate rhythm game.
+Quickly after the public release, the first play [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) and [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), were added, as well as break sections (which up until now had been ignored and missing). A large number of changes quickly made osu! look more and more like a legitimate rhythm game.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -76,19 +76,19 @@ The song selection screen saw improvements with grouping of difficulties and mor
 
 ## November
 
-A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Gameplay/Game_modifier/No_Video) and [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (HD) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon or window.
+A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Gameplay/Game_modifier/No_Video) and [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon or window.
 
-![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
+![](img/no_video.png "No Video (v1)") ![](img/hidden.png "Hidden (v1)")
 
 ---
 
-![](img/2007-11_01.jpg "Main Menu \(Flooded with stars\)")
+![](img/2007-11_01.jpg "Main Menu (Flooded with stars)")
 
 ![](img/2007-11_02.jpg "Sign-in screen")
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-The [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Gameplay/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
+The [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#wip-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server))); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Gameplay/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
 
 ## December
 

@@ -1,8 +1,3 @@
----
-outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
-outdated_translation: true
----
-
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -44,6 +39,17 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
+
+### 约定俗成的替代方案
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：比 Easy 简单
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初学者）：比 Kantan 简单
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：处于 Normal 和 Hard 之间
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：处于 Hard 和 Insane 之间
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：比 Expert 困难
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：比 Inner Oni / Ura Oni 困难
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：比 Overdose 困难
 
 ## 来自其他游戏的命名方案
 
@@ -190,16 +196,3 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
-
-## 约定俗成的替代方案
-
-以下列出的难度名称也常用于替代或补充默认方案内的难度名：
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代谱面内最低，甚至比 Easy 还要简单的难度。
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初级）：在默认的 Kantan-Futsuu-Muzukashii-Oni-Inner Oni 难度分布中，它通常指代谱面内最低，甚至比 Kantan 还要简单的难度。
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代处于 Normal 和 Hard 之间的难度。
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代处于 Hard 和 Insane 之间的难度。
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert。
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：它通常用于指代比 Expert 更困难的难度。
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：它通常用于指代比 Inner Oni 更困难的难度。
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：它通常用于指代比 Overdose 更困难的难度。

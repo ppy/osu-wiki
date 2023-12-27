@@ -5,7 +5,7 @@ El **silencio** es un término usado para describir el castigo de limitar los me
 ## Limitaciones
 
 ::: Infobox
-![](img/silence-profile-ES.png "Registro del silencio en la página de perfil")
+![](img/silence-profile-ES.jpg "Registro del silencio en la página de perfil")
 :::
 
 Los usuarios silenciados por los moderadores no pueden hacer lo siguiente:

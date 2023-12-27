@@ -1,6 +1,6 @@
 # osu! wiki 贡献指南
 
-感谢你有兴趣让 osu! wiki 变得更好！这篇文章介绍了贡献的操作步骤。如果你熟悉 GitHub，则可以按照普通的特性-分支工作流程提出更改，并跳到[自我检查](#自我检查)的部分。
+感谢你有兴趣让 osu! wiki 变得更好！这篇文章介绍了贡献的操作步骤。如果你熟悉 GitHub，则可以按照普通的特性-分支工作流程提出更改，并跳到[自我检查](#self-check)的部分。
 
 因为 GitHub 和 [git](https://git-scm.com/) 主要是面向开发人员定制的工具，新加入的贡献者可能不熟悉它们的操作。你不用担心第一次贡献会出什么差错——[wiki 维护者](/wiki/People/osu!_wiki_maintainers)会引导你或者直接帮助你修复问题。
 
@@ -18,15 +18,12 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 0. [创建](https://github.com/signup)一个 GitHub 账号。
 1. 进入 [`ppy/osu-wiki`][osu_wiki] 仓库，点击右上角的 `Fork` 按钮，来创建并复制一份你可操控的 wiki 分支。要进入你的副本，前往 [`ppy/osu-wiki`][osu_wiki] 并再次点击 `Fork` 按钮。
-
-  - 如果你之前已经创建好了分支，则按照[最好方法 § 同步分支 (fork)](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))来同步你的分支。
-
+   - 如果你之前已经创建好了分支，则按照[最好方法 § 同步分支 (fork)](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))来同步你的分支。
 2. 阅读[最好方法 § 做出改动](/wiki/osu!_wiki/Contribution_guide/Best_practices#做出改动)，并做出必需的编辑。你可以自由选择使用编辑的软件，但是 osu! wiki 已经为以下两种编辑方式提供了详细的指南：
+   - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
+   - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
 
-  - [GitHub 网页端编辑器](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor)（需要在线使用，不需要安装其他软件）。
-  - [GitHub 桌面端](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop)（可离线使用，可使用更多工具）。
-
-## 自我检查
+## 自我检查 {id=self-check}
 
 当你完成编辑后，请花一些时间校对你的工作。浏览以下快速清单：
 
@@ -46,7 +43,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 2. 点击 `Contribute↓` 按钮，并选择 `提出拉取请求 (Open pull request)`。
 3. 根据 [最好方法 § 提出拉取请求 (Pull Request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#提出拉取请求-(pull-request)) 填写详情，之后点击 `创建拉取请求 (Create pull request)`。
 
-## 审查
+## 审查 {id=review}
 
 所有在 osu! wiki 上做出的更改都需要审阅。在这个阶段，其他合作者会指出可能出现的错误以及修复它们的方法，无论任何形式，还是建议直接在拉取请求 (PR) 中编辑。和同行评审一样，你需要[应用他们的建议](/wiki/osu!_wiki/Contribution_guide/Best_practices#应用审核中提到的修改)，或者解释你不想修改的原因。
 
@@ -57,7 +54,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 - 要获得翻译帮助，请检查几个你的语言的已合并拉取请求，并与这些语言的审阅者或作者联系（[示例 GitHub 查询](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BZH%5D)）。注：对于中文文章，你可以在 GitHub 的评论或描述中 `@osu-translate-zh` 来寻求 osu! 中文翻译组织的审阅。<!-- Translation for additional sentence: "For articles written in Chinese, contributors can mention @osu-translate-zh in GitHub comments for review and/or help." -->
 - 叫你的朋友快速检查一下！
 
-除了人工审核过程之外，osu! wiki 存储库也会[自动检查](/wiki/osu!_wiki/Maintenance#ci-检查)，来保证你的更改符合 wiki 的通用排版并且没有格式错误。要查看它们的状态，请在 `Actions` 选项卡中找到你的拉取请求 (PR)，然后按照错误下面的诊断消息（如果有）操作。
+除了人工审核过程之外，osu! wiki 存储库也会[自动检查](/wiki/osu!_wiki/Maintenance#ci-checks)，来保证你的更改符合 wiki 的通用排版并且没有格式错误。要查看它们的状态，请在 `Actions` 选项卡中找到你的拉取请求 (PR)，然后按照错误下面的诊断消息（如果有）操作。
 
 ## 合并
 
