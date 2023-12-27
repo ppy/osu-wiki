@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Signaler un abus
 
 ## Je ne sais pas si je dois le signaler ou non
