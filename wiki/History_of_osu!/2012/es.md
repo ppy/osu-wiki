@@ -68,7 +68,7 @@ El 22 de noviembre de 2012:
 - Localización actualizada. Se agregaron más idiomas.
 - Hacer clic derecho en el beatmap no actual puede permitir la opción de mostrar el beatmap en la selección de la canción sin abrirlo antes con el clic izquierdo.
 - Mejora de DirectX.
-- Se agregó el botón de «Partida aleatoria» en ([multijugador](/wiki/Client/Interface/Multiplayer)).
+- Se agregó el botón de «Partida aleatoria» en [multijugador](/wiki/Client/Interface/Multiplayer).
 - La configuración de Fun Spoiler estaba disponible durante la repetición/observación de un jugador.
 
 Localización del [proyecto de localización de osu! v2](https://osu.ppy.sh/community/forums/topics/104342) ha sido agregada. Puedes encontrar la localización en la página de [opciones](/wiki/Client/Options) en la pestaña General en «Idioma».
