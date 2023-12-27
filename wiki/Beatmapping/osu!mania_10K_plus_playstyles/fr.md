@@ -40,7 +40,7 @@ Si vous avez besoin d'aide, n'hésitez pas à me contactez sur Discord.
 PS: for maintainers, don't delete this, it contains the link to the figma containing the translated images, as well as explanations on how to modify them if necessary. Thanks
 -->
 
-#  Styles de jeu osu!mania 10K+
+# Styles de jeu osu!mania 10K+
 
 Cet article documente les styles de jeu communs utilisés par les [beatmaps](/wiki/Beatmap) [d'osu!mania](/wiki/Game_mode/osu!mania) avec 10 touches ou plus.
 
