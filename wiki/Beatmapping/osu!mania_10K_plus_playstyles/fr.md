@@ -46,7 +46,7 @@ Cet article documente les styles de jeu communs utilisés par les [beatmaps](/wi
 
 Dans ce contexte, un **style de jeu** est un ensemble suggéré de [touches](/wiki/Game_mode/osu!mania#controls) et d'ordre des touches dans le [terrain de jeu](/wiki/Game_mode/osu!mania#playfield). La plupart des beatmaps d'osu!mania avec plus de 10 touches sont mappés avec un style de jeu particulier à l'esprit - le joueur a moins de doigts qu'il n'y a de touches, donc une attention particulière est généralement requise concernant l'endroit où les mains du joueur seront positionnées sur le [clavier](/wiki/Gameplay/Input_device/Keyboard) tout au long de la map.
 
-Le joueur peut choisir d'ignorer le style de jeu prévu, mais cela devient de plus en plus gênant à des [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) plus élevés, et peut donner lieu à des [patterns](/wiki/Beatmap/Pattern) qui semblent maladroits à jouer ou qui sont presque impossibles à frapper.
+Le joueur peut choisir d'ignorer le style de jeu prévu, mais cela devient de plus en plus gênant à des [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) plus élevés, et peut donner lieu à des [patterns](/wiki/Beatmap/Pattern) qui semblent maladroits à jouer ou qui sont presque impossibles à frapper.
 
 Chaque style de jeu nécessite que le joueur ajuste ses [raccourcis clavier](/wiki/Game_mode/osu!mania#controls) de manière appropriée, et encourage l'utilisation de [skins](/wiki/Skin) personnalisés. Dans cet article, les images de gameplay utilisent un skin par défaut légèrement modifié pour illustrer différents styles de jeu.
 

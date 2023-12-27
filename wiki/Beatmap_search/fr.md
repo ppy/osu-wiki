@@ -14,9 +14,9 @@ tags:
 
 # Recherche des beatmaps
 
-*Voir également : [Beatmap § Télécharger des beatmaps](/wiki/Beatmap#downloading-beatmaps)*
+*Voir également : [Beatmap § Télécharger des beatmaps](/wiki/Beatmap#télécharger-les-beatmaps)*
 
-Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Client/Interface#song-select) ou dans le champ de recherche du site web est comparé à l'artiste, au titre, au créateur et au nom de la difficulté, à la source et aux tags d'une beatmap. La saisie d'un seul chiffre permet de rechercher les beatmaps et les difficultés ayant un [identifiant](/wiki/Beatmap#identification) spécifique. Toutes les requêtes sont insensibles à la casse.
+Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Client/Interface#sélection-de-la-musique) ou dans le champ de recherche du site web est comparé à l'artiste, au titre, au créateur et au nom de la difficulté, à la source et aux tags d'une beatmap. La saisie d'un seul chiffre permet de rechercher les beatmaps et les difficultés ayant un [identifiant](/wiki/Beatmap#identification) spécifique. Toutes les requêtes sont insensibles à la casse.
 
 Les champs de métadonnées des beatmap peuvent être comparés à des valeurs spécifiques pour un filtrage plus précis, à l'aide des opérateurs suivants :
 
