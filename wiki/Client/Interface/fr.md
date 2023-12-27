@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Interface
 
 Cet article explique tout ce que vous devez savoir sur l'utilisation du client d'osu!. Vous trouverez ici des informations sur l'écran de sélection des musiques, l'affichage des classements ainsi que l'écran des résultats. Lorsque vous démarrez le client, vous pouvez voir l'écran suivant :
