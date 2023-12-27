@@ -3,6 +3,8 @@ tags:
   - development
   - osu!dev
   - 开发
+outdated_translation: true
+outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # osu! Discord 服务器
