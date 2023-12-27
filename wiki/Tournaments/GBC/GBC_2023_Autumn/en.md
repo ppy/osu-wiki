@@ -522,7 +522,7 @@ Due to the large number of players and matches, the match results will be displa
    - From the mappool #1 in regular stage round 1, every mappool will change half of the pool from the previous one. Mappool #2 will change all the RC maps from mappool #1, and mappool #3 will change all the HB + LN map from mappool #2. This process will repeat until the last mappool.
    - SV maps also follow the same rule: mappool #2 will change SV1, mappool #3 will change SV2, and so on until the last mappool.
    - TB maps will always be changed in each mappool.
-   - Due to the Quarterfinals mappool size expansion, there will be an extra RC map in that mappool compared to round 4.
+   - The mappool size expands by 1 slot in the Quarterfinals, adding one extra RC map to the pool. For this round, the rest of the RC maps are kept from the previous round, while the HB + LN maps are switched to new ones.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
