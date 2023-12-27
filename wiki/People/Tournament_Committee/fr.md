@@ -1,25 +1,24 @@
 ---
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+no_native_review: true
 ---
 
 # Comité des tournois
 
-Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'organisateurs et d'assistants compétents et reconnus dans le domaine des tournois.
+Le **comité des tournois** est un groupe d'organisateurs et d'assistants compétents et expérimentés dans le domaine des tournois.
 
-Leurs responsabilités comprennent :
+Leurs responsabilités sont les suivantes :
 
-- La gestion des signalements reçus sur le [formulaire de signalement des tournois](https://pif.ephemeral.ink/tournament-reports)
-- L'observation générale des tournois ainsi que conseiller [l'équipe de support aux comptes](/wiki/People/Account_support_team) au cas par cas.
-- Revoir régulièrement la page [Support officiel des tournois](/wiki/Tournaments/Official_support) pour y apporter des modifications si nécessaire.
+- La gestion des rapports à partir du [formulaire des rapports des tournois](https://pif.ephemeral.ink/tournament-reports)
+- L'observation des tournois et conseiller [l'équipe de support aux comptes](/wiki/People/Account_support_team) au cas par cas.
+- La vérification régulière de la page [soutien officiel aux tournois](/wiki/Tournaments/Official_support) pour y apporter les modifications nécessaires.
 
-Ce comité a été annoncé pour la première fois au public le 22 juillet 2021 via le canal `#tournaments` du [serveur Discord osu!dev](https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires d'osu!.
+Le panel a été annoncé pour la première fois au public le 22 juillet 2021 par le biais du channel `#tournaments` du [serveur Discord d'osu!](https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires dans osu!.
 
-## Comment puis-je contribuer ?
+## Comment puis-je apporter ma contribution ?
 
-Vous pouvez aider le comité des tournois en continuant à organiser d'excellents tournois ! Si vous avez des problèmes ou des préoccupations concernant un aspect quelconque d'un tournoi communautaire, nous vous encourageons à les porter à notre attention via le formulaire de signalement des tournois.
+Vous pouvez aider le comité des tournois en continuant à organiser d'excellents tournois ! Si vous avez des problèmes ou des préoccupations concernant un aspect quelconque d'un tournoi communautaire, nous vous encourageons à les porter à notre attention via le formulaire de rapport de tournoi.
 
-Les personnes désireuses de rejoindre le comité des tournois peuvent nous faire part de leur intérêt en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Les candidats retenus doivent avoir une grande expérience des tournois, que ce soit en tant que joueur ou staff.
+Les personnes souhaitant rejoindre le comité des tournois peuvent exprimer leur intérêt en envoyant un courriel à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), où les demandes sont transmises au comité. Les candidats retenus doivent avoir une expérience significative dans le domaine des tournois, que ce soit en tant que joueur ou en tant que membre du personnel.
 
 ## Membres
 
@@ -27,7 +26,6 @@ Les personnes désireuses de rejoindre le comité des tournois peuvent nous fair
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -40,6 +38,7 @@ Les personnes désireuses de rejoindre le comité des tournois peuvent nous fair
 ## Alumni
 
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)

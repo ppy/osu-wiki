@@ -18,8 +18,8 @@ Les articles de l'osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribue
 
 0. [Créez](https://github.com/signup) un compte GitHub.
 1. Ouvrez le dépôt [`ppy/osu-wiki`][osu_wiki] et cliquez sur `Fork` dans le coin supérieur droit pour faire une copie contrôlée du wiki. Pour revenir à votre fork, allez sur [`ppy/osu-wiki`][osu_wiki] et cliquez à nouveau sur `Fork`.
-   - Si vous avez créé un fork il y a quelque temps, synchronisez-le conformément aux [Bonnes pratiques § Synchronisation d'un fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork).
-2. Lisez [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications) et effectuez les modifications nécessaires. Bien que vous soyez libre d'utiliser l'application de votre choix, l'osu!wiki contient des instructions détaillées sur deux outils :
+   - Si vous avez créé un fork il y a quelque temps, synchronisez-le conformément aux [Bonnes pratiques § Synchronisation d'un fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-du-fork).
+2. Lisez [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#effectuer-des-modifications) et effectuez les modifications nécessaires. Bien que vous soyez libre d'utiliser l'application de votre choix, l'osu!wiki contient des instructions détaillées sur deux outils :
    - [Éditeur web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en ligne, aucune installation requise).
    - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (hors ligne, offre plus de contrôle).
 
@@ -31,7 +31,7 @@ Lorsque vous avez terminé la review, prenez le temps de relire votre travail. P
 - **Le style et la grammaire** : les articles doivent être clairs, compréhensibles et ne demander aucun effort mental important au lecteur. Soyez cohérent et évitez les phrases trop compliquées ou abruptes. Utilisez des éditeurs dotés de correcteurs orthographiques intégrés, tels que [Google Docs](https://docs.google.com), pour mettre en évidence les fautes de frappe et les erreurs grammaticales ou syntaxiques.
 - **[La parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
 - **Structure et mise en forme** : prévisualisez votre article à l'aide d'un outil tel que [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) pour vous assurer qu'il se présente exactement comme vous le souhaitiez.
-- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et des [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
+- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et des [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-du-gameplay), y compris les dimensions maximales de 1280×720.
 
 Pour des normes de rédaction et de formatage plus spécifiques, veuillez vous référer aux [critères de mise en forme des articles](/wiki/Article_styling_criteria). Il n'est pas recommandé de le lire en une seule fois, un reviewer vous indiquera probablement si quelque chose doit-être corrigé dans un sens ou dans l'autre.
 
@@ -41,11 +41,11 @@ Une fois que les modifications ont été vérifiées, validées et push vers vot
 
 1. Dans **votre fork** de l'osu! wiki, trouvez la liste déroulante avec d'écrit `master↓`, et sélectionnez la branche avec vos changements.
 2. Cliquez sur le bouton `Contribute↓` et sélectionnez `Open pull request`.
-3. Remplissez les détails selon les [Bonnes pratiques § Ouvrir une pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#ouvrir-une-pull-request) et cliquez sur `Create pull request`.
+3. Remplissez les détails selon les [Bonnes pratiques § Ouvrir une pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#ouvrir-un-pull-request) et cliquez sur `Create pull request`.
 
 ## Review {id=review}
 
-Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en [appliquant les suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#appliquer-les-reviews) ou en expliquant pourquoi vous préférez garder les choses telles quelles.
+Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en [appliquant les suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#application-des-reviews) ou en expliquant pourquoi vous préférez garder les choses telles quelles.
 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 
@@ -54,7 +54,7 @@ Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 - Pour obtenir de l'aide pour la traduction, consultez quelques pull requests fusionnées pour votre langue et contactez leurs réviseurs et/ou auteurs ([exemple de requête GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[FR])).
 - Demandez à vos amis d'y jeter un coup d'œil !
 
-En plus d'un processus de révision manuelle, le dépôt osu! wiki possède [un ensemble de vérifications automatisées](/wiki/osu!_wiki/Maintenance#ci-checks), qui garantissent que vos modifications respectent le style commun du wiki et sont exemptes d'erreurs de formatage. Pour voir leur statut, ouvrez l'onglet `Actions` de votre pull request et suivez les messages de diagnostic sous les erreurs, s'il y en a.
+En plus d'un processus de révision manuelle, le dépôt osu! wiki possède [un ensemble de vérifications automatisées](/wiki/osu!_wiki/Maintenance#checks-ci), qui garantissent que vos modifications respectent le style commun du wiki et sont exemptes d'erreurs de formatage. Pour voir leur statut, ouvrez l'onglet `Actions` de votre pull request et suivez les messages de diagnostic sous les erreurs, s'il y en a.
 
 ## Merge
 
