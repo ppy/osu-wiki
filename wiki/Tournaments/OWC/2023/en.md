@@ -26,7 +26,7 @@ The **osu! World Cup 2023** (***OWC 2023***) was a country-based osu! tournament
 
 ## Prizes
 
-The osu! World Cup 2023 offered a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
