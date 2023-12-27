@@ -1,6 +1,4 @@
 ---
-outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
-outdated_translation: true
 tags:
   - osu! staff
   - osu!staff
@@ -30,7 +28,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 项目和社区维护，[精选艺术家](/wiki/People/Featured_Artists)募集者 |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 设计负责人，常驻创意云监视者 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 开发者 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导，[谱面聚光灯](/wiki/Beatmap_Spotlights)策展人 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导，Venix 的秘书 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [精选艺术家](/wiki/People/Featured_Artists)募集者，[世界杯](/wiki/Tournaments#官方世界杯)秘书 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 开发者，技术支持 |
