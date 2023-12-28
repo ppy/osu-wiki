@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <div class="wiki-main-page__blurb">
@@ -113,7 +111,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
 
-[osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [援助团队](/wiki/People/Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [技术支持团队](/wiki/People/Technical_Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
 [社区贡献者](/wiki/People/Community_Contributors) • [优秀提名者](/wiki/People/Elite_Nominators) • [用户组](/wiki/People/User_group) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [百夫长](/wiki/People/Centurions) • [全收集者](/wiki/People/Completionists) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
