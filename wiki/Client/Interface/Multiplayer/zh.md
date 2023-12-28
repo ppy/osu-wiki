@@ -23,7 +23,7 @@ needs_cleanup: true
 
 *注意：当使用`测试版`版本时，需要活跃的[osu! 支持者](/wiki/osu!supporter)标签来进入多人游戏大厅。*
 
-![](img/multi-lobby-zh.jpg "多人游戏大厅日常一览")
+![](img/multi-lobby.jpg "多人游戏大厅日常一览")
 
 进入大厅后，玩家会看到目前所有可用的比赛房间。
 
@@ -135,7 +135,7 @@ needs_cleanup: true
 :::
 
 ::: Infobox
-![](img/multi-beatmap-change-zh.jpg "在多人游戏中选择谱面时的选歌界面")
+![](img/multi-beatmap-change.jpg "在多人游戏中选择谱面时的选歌界面")
 :::
 
 谱面区会显示比赛房间将要游玩的谱面。点击谱面卡片会打开选歌页面，用于切换谱面。
@@ -170,7 +170,7 @@ needs_cleanup: true
 #### 模组
 
 ::: Infobox
-![](img/multi-player-free-mods-zh.jpg "多人游戏的模组选择页面，此时房主已启用 Free Mods")
+![](img/multi-player-free-mods.jpg "多人游戏的模组选择页面，此时房主已启用 Free Mods")
 :::
 
 此区域显示比赛使用的[游戏模组](/wiki/Gameplay/Game_modifier)。
