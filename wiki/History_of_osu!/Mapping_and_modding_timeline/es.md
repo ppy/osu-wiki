@@ -265,7 +265,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 - **5/8/2016:** Se creó el [blog del Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog).
   - El QAT estaba recibiendo críticas por estar demasiado aislado del resto de la comunidad de mapping, por lo que este blog se creó para aumentar la transparencia en la toma de decisiones y la actividad de la comunidad del QAT.
-- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas del comportamiento en modding.
+- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas de conducta en el modding.
   - Estas reglas y pautas fueron tratadas como sentido común hasta este punto. Al documentarlos, la moderación podría hacerse más consistente.
 
 ### Septiembre
@@ -288,7 +288,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Para permitir el tiempo adecuado para el veto, las nominaciones consecutivas no se pueden establecer dentro de las 24 horas de diferencia.
   - Los vetos no concluyentes fueron mediados por el QAT poco después de la implementación de este sistema.
 - **2/11/2016:** Los archivos de Beatmap Nominators se crearon para controlar a todos los miembros individuales de BN.
-  - Estos archivos incluían actividad de modding/nominación, descalificaciones y problemas de comportamiento.
+  - Estos archivos incluían actividad de modding/nominación, descalificaciones y problemas de conducta.
   - Los miembros de los BN con 3 o más «strikes» registrados en estos archivos serían eliminados del grupo.
 
 **1720 beatmaps** se clasificaron en 2016.
@@ -458,7 +458,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Octubre
 
-- **2/10/2020:** Las [expectativas para los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) se establecieron para combatir las preocupaciones de comportamiento dentro del grupo.
+- **2/10/2020:** Las [expectativas de los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) se establecieron para combatir las preocupaciones de conducta dentro del grupo.
   - Las preocupaciones incluían poca accesibilidad, acciones incívicas en entornos comunitarios, y estándares de calidad de clasificación cuestionables.
   - Esto resultó en la eliminación inmediata de 5 Beatmap Nominators.
 - **29/10/2020:** El dominio del modo de juego del Beatmap Nominator se hizo visible en la web de osu!.

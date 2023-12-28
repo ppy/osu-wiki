@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
-outdated_translation: true
 ---
 
 # Critères de classement
@@ -56,7 +54,7 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 ## Beatmap
 
-*Remarque : dans cette section, les key counts du mode [osu!mania](/wiki/Game_mode/osu!mania) sont considérés comme des modes de jeu individuels.*
+*Remarque : Chaque [key moode](osu!mania#termes-courants) et [style de jeu](osu!mania#termes-courants) [d'osu!mania](/wiki/Game_mode/osu!mania) est considéré comme un mode de jeu distinct dans cette section.*
 
 ### Règles
 

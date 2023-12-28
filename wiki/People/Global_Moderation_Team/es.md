@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - GMT
   - moderator
@@ -14,15 +12,15 @@ tags:
 
 *Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
+El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario de color verde cítrico, su insignia del [grupo de usuarios](/wiki/People/User_group) que dice `GMT` y su nombre de usuario rojo en el juego.
 
-**Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
+**Todos los moderadores globales juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
-***Nota: Para denunciar a un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
+***Nota: Para reportar a un moderador por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Roles y responsabilidades
 
-*Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
+*Véase también: [Reportar mala conducta](/wiki/Reporting_bad_behaviour)*
 
 El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
@@ -33,31 +31,46 @@ El Global Moderation Team es responsable del bienestar del chat y del foro, y se
 
 ## Convertirse en moderador
 
-Convertirse en miembro del Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
+Convertirse en miembro del Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buena conducta. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
 
 ### Cómo ser considerado
 
-Los factores más importantes a considerar son el comportamiento, la actividad, la comprensión de [las reglas](/wiki/Rules) y la paciencia:
+Los factores más importantes a considerar son la conducta, la actividad, la comprensión de [las reglas](/wiki/Rules) y la paciencia:
 
-1. Demostrar buen comportamiento siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
-2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reporte cualquier mal comportamiento](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
+1. Demostrar buena conducta siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
+2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reportar cualquier mala conducta](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
 3. Tener una comprensión adecuada de [las reglas](/wiki/Rules) y cómo se aplican. Es importante saber qué es aceptable dentro de osu! y lo que no es.
 4. Sea paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
 
-Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sea paciente y no se exceda. Siéntase libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, reportar a los usuarios y cualquier otro problema.
+Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sé paciente y no te excedas. Siéntete libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, reportar a los usuarios y cualquier otro problema.
 
 ### Algunas cosas que no se deben hacer
 
-1. No pregunte continuamente al GMT sobre su posición como candidato potencial. El GMT no busca agregar a nadie que esté contribuyendo como un medio para un fin. Una mentalidad altruista es clave.
-2. No reporte cada pequeña cosa en el chat. Es una habilidad importante saber qué vale la pena reportar y qué no.
-3. No responder preguntas de otras personas sin saber si dicha respuesta es correcta o no, especialmente en los foros. Las sugerencias son bienvenidas, pero desinformar a la gente no ayuda a nadie. Si no conoce la solución a un problema, deje que alguien más responda y aprenda de ellos.
-4. No exagere las cosas. El equipo busca una contribución consistente, no una cantidad sobrecargada. Se sabe que esto quema a las personas y les hace perder la paciencia y el compromiso. ¡Tómalo con calma!
+1. No preguntar continuamente al GMT sobre tu posición como candidato potencial. El GMT no busca agregar a nadie que esté contribuyendo como un medio para un fin. Una mentalidad altruista es clave.
+2. No reportar cada pequeña cosa en el chat. Es una habilidad importante saber qué vale la pena reportar y qué no.
+3. No responder preguntas de otras personas sin saber si dicha respuesta es correcta o no, especialmente en los foros. Las sugerencias son bienvenidas, pero desinformar a la gente no ayuda a nadie. Si no conoces la solución a un problema, deja que alguien más responda y aprende de ellos.
+4. No exagerar las cosas. El equipo busca una contribución consistente, no una cantidad sobrecargada. Se sabe que esto quema a las personas y les hace perder la paciencia y el compromiso. ¡Tómalo con calma!
+
+## Beneficios
+
+Los moderadores globales reciben los siguientes beneficios:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura mientras dure su membresía en el equipo.
+- **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han estado en el GMT, comenzando desde 3.
+  ![Insignia del GMT de 3 años](https://assets.ppy.sh/profile-badges/GMT3y.png "Insignia del GMT de 3 años") ![Insignia del GMT de 4 años](https://assets.ppy.sh/profile-badges/GMT4y.png "Insignia del GMT de 4 años") ![Insignia del GMT de 5 años](https://assets.ppy.sh/profile-badges/GMT5y.png "Insignia del GMT de 5 años")
+
+## Salida del equipo
+
+Una vez que un moderador global decide abandonar el equipo, se le pueden otorgar las siguientes recompensas según las circunstancias:
+
+- **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: este se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
+- **osu!supporter**: Los miembros reciben una etiqueta de osu!supporter que dura el doble del tiempo que pasaron en el GMT, bajo las mismas condiciones que el estado de osu! Alumni.
 
 ## Miembros del equipo
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
@@ -96,7 +109,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués, español | Moderación del chat, gestión de torneos |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Alemán | Moderación de la comunidad de mapping/modding |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonés, chino |  |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonés, chino | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portugués | Moderación de la comunidad de mapping/modding |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desarrollo de osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamita | Moderación del chat |
@@ -161,7 +174,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
@@ -174,3 +187,4 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 ## Notas
 
 [^task-Azer]: Aunque en realidad no forma parte del GMT, Azer está en el grupo de usuarios por tecnicismo debido a que necesita permisos de nivel GMT como organizador de la World Cup.
+[^task-mangomizer]: Aunque en realidad no forma parte del GMT, mangomizer está en el grupo de usuarios por un tecnicismo debido a que necesita permisos de nivel GMT para acceder a los foros internos.
