@@ -234,7 +234,7 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
   3. [Morimori Atsushi - Kurenai (CrewK) \[Crimson (edit)\]](https://osu.ppy.sh/beatmapsets/1862736#mania/4399855)
   4. [Rintaro Soma - solips (\[GB\]SuddenDeath) \[so (Edit)\]](https://osu.ppy.sh/beatmapsets/2098202#mania/4401117)
 - SV
-  1. [Sober Bear - ΟΔΥΣΣΕΙΑ (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
+  1. [Sober Bear - ODYSSEIA (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
   2. [Snooddood - Heartbeat (awdse22) \[Pulse = 0 bpm\]](https://osu.ppy.sh/beatmapsets/2060417#mania/4307034)
 - Tiebreaker
   1. [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (Llkkm) \[FINAL SCORE\]](https://osu.ppy.sh/beatmapsets/2089236#mania/4378268)
@@ -261,7 +261,7 @@ GBC 2023 秋季赛由 GB 成员和多位社区成员举办。
   3. [Minagu feat. Aitsuki Nakuru - Enamel no Butoukai (Cut Ver.) (_Kobii) \[LN party\]](https://osu.ppy.sh/beatmapsets/2091132#mania/4382915)
   4. [Ras - EMOMOMO (lemonguy) \[:thinking: x1.1\]](https://osu.ppy.sh/beatmapsets/1934831#mania/3998427)
 - SV
-  1. [Sober Bear - ΟΔΥΣΣΕΙΑ (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
+  1. [Sober Bear - ODYSSEIA (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
   2. [ARForest - Shattered (\[GB\]Mafufu) \[Tantei B's Fragmentation \[Edit\]\]](https://osu.ppy.sh/beatmapsets/2091515#mania/4383864)
 - Tiebreaker
   1. [Us4KKi - Aria for Lepus (OxalicAcid) \[ Sacrosanct Usagi\]](https://osu.ppy.sh/beatmapsets/2062363#mania/4312219)
