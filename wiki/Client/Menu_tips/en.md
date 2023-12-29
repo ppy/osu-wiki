@@ -110,7 +110,7 @@ These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/R
 - Take a look under the hood at performance counters and enable verbose performance logging with `Ctrl` + `F2`!
 - You can pause during a replay by pressing `Space`!
 - Most of the hotkeys in the game are configurable and can be changed to anything you want. Check the bindings panel under input settings!
-- When your gameplay HUD is hidden, you can press and hold Ctrl to view it temporarily!
+- When your gameplay HUD is hidden, you can press and hold `Ctrl` to view it temporarily!
 - Your gameplay HUD can be customized by using the skin layout editor. Open it at any time via `Ctrl` + `Shift` + `S`!
 - Drag and drop any image into the skin editor to load it in quickly!
 - You can create mod presets to make toggling your favorite mod combinations easier!
