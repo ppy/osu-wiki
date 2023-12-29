@@ -56,6 +56,8 @@ tags:
 | *第 9-24 名* | ¥50 |
 | *其他所有入选的选手* | ¥20 |
 
+![GBC 2023 秋季赛 QQ赛区冠军缎带图片](img/GBC-2023-Autumn-badge-QQ-1st.png)
+
 ### Discord 赛区
 
 | 队伍排名 | 奖励 |
@@ -78,6 +80,8 @@ tags:
 | *第 4-8 名* | $8 |
 | *第 9-16 名* | $6 |
 | *其他所有入选的选手* | $2 |
+
+![GBC 2023 秋季赛 Discord赛区冠军缎带图片](img/GBC-2023-Autumn-badge-Discord-1st.png)
 
 ## 组织
 
