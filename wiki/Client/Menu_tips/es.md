@@ -98,14 +98,14 @@ Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)
 
 - ¡Presiona `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
 - ¡Presiona `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
-- Todas las configuraciones son dinámicas y surten efecto en tiempo real. ¡Prueba a cambiar la skin mientras miras la reproducción automática!
+- Todas las configuraciones son dinámicas y surten efecto en tiempo real. ¡Prueba a cambiar la skin mientras ves autoplay!
 - Nuevas funciones están disponibles en línea con cada actualización. ¡Asegúrate de mantenerte actualizado!
 - Si encuentras que la interfaz de usuario es demasiado grande o pequeña, intenta ajustar la escala de la interfaz de usuario en la configuración.
 - Intenta ajustar el modo `Escala de pantalla` para cambiar tu juego o el área de la interfaz de usuario, ¡incluso en pantalla completa!
 - Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `B`!
 - ¡Buscar en las repeticiones está disponible arrastrando la barra de progreso en la parte inferior de la pantalla o usando las teclas de flecha izquierda y derecha!
 - ¡La compatibilidad con subprocesos múltiples significa que incluso con «FPS» bajos, sus entradas y juicios serán precisos!
-- ¡Intenta desplazarte hacia la derecha en la selección de mods para encontrar un montón de nuevos mods divertidos!
+- ¡Intenta desplazarte hacia la derecha en el selector de mods para encontrar un montón de nuevos mods divertidos!
 - ¡La mayor parte del contenido web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los íconos en la barra de herramientas!
 - ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic derecho en tu panel en la selección de canciones!
 - Todas las operaciones de eliminación son temporales hasta que salgas. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
@@ -115,15 +115,15 @@ Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)
 - ¡Puedes pausar durante una repetición presionando `Espacio`!
 - La mayoría de las teclas de acceso rápido del juego son configurables y se pueden cambiar a las que quieras. ¡Comprueba el panel de asignaciones en los ajustes de entrada!
 - ¡Cuando tu HUD del juego esté oculto, puedes presionar y mantener presionado `Ctrl` para verlo temporalmente!
-- El HUD del juego se puede personalizar utilizando el editor de diseño de skins. ¡Ábrelo en cualquier momento con `Ctrl` + `Shift` + `S`!
+- El HUD del juego se puede personalizar usando el editor de diseño de skins. ¡Ábrelo en cualquier momento con `Ctrl` + `Mayús` + `S`!
 - ¡Arrastra y suelta cualquier imagen en el editor de skins para cargarla rápidamente!
 - ¡Puedes crear ajustes preestablecidos de mods para facilitar el cambio de tus combinaciones favoritas de mods!
-- Muchos mods tienen configuraciones de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalización de mods` en la selección de mods para ver la configuración!
-- ¡Presiona `Ctrl` + `Shift` + `R` para cambiar a una skin aleatoria!
-- Presiona `Ctrl` + `Shift` + `F` para alternar el contador de FPS. ¡Pero asegúrate de no prestarle demasiada atención!
+- Muchos mods tienen configuraciones de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalización de mods` en el selector de mods para ver la configuración!
+- ¡Presiona `Ctrl` + `Mayús` + `R` para cambiar a una skin aleatoria!
+- Presiona `Ctrl` + `Mayús` + `F` para alternar el contador de FPS. ¡Pero asegúrate de no prestarle demasiada atención!
 - ¡Mientras miras una repetición, presiona `Ctrl` + `H` para alternar la configuración de la repetición!
 - ¡Puedes copiar fácilmente los mods de las puntuaciones en una tabla de clasificación haciendo clic derecho sobre ellas!
-- ¡Si presionas `Ctrl` + `Enter` al seleccionar una canción, se iniciará el beatmap en modo de reproducción automática!
+- ¡Si presionas `Ctrl` + `Entrar` al seleccionar una canción, se iniciará el beatmap en modo autoplay!
 
 ## Véase también
 
