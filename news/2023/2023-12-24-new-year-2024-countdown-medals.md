@@ -10,7 +10,7 @@ The countdown to a new era begins.
 
 And to celebrate, we have medals. Love 'em. Can't get enough of 'em. Now, you can get even more of 'em!
 
-We're confident 2024 will be a big year for osu!, so while the development team is busy [turning on performance point leaderboards in osu!(lazer)](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play) and mappers (probably other people too) are excited over [yesterday's t+pazolite Featured Artist announcement](https://osu.ppy.sh/home/news/2023-12-23-new-featured-artist-tpazolite), we're releasing **9 new medals**, one every day starting today on December 24th and lasting until January 1st.
+We're confident 2024 will be a big year for osu!, so while the development team is busy [turning on performance point leaderboards in osu!(lazer)](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play) and mappers (probably other people too) are excited over [yesterday's t+pazolite Featured Artist announcement](https://osu.ppy.sh/home/news/2023-12-23-new-featured-artist-tpazolite), we're releasing **8 new medals**, one every day starting today on December 24th and lasting until January 1st.
 
 ![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/cal_dec_29.jpg)
 
