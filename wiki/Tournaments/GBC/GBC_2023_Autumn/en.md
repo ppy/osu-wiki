@@ -56,6 +56,8 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *9–24th place* | ¥50 CNY |
 | *All the other qualified players* | ¥20 CNY |
 
+![GBC 2023 Autumn QQ Division winner badge](img/GBC-2023-Autumn-badge-QQ-1st.png)
+
 ### Discord division
 
 | Team placing | Prizes |
@@ -78,6 +80,8 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *4–8th place* | $8 |
 | *9–16th place* | $6 |
 | *All the other qualified players* | $2 |
+
+![GBC 2023 Autumn Discord Division winner badge](img/GBC-2023-Autumn-badge-QQ-1st.png)
 
 ## Organisation
 
