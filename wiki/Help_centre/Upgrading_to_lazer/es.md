@@ -10,7 +10,7 @@ La meta eventual es que esta versión sea liberada como una actualización que r
 
 ## Comparación de características
 
-*Para una lista de diferencias acerca de mecánicas de juego, véase [Diferencias de juego en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*Para una lista de diferencias acerca de mecánicas de juego, véase [Diferencias de jugabilidad en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 La siguiente es una lista comprehensiva del **estado actual** de lazer en comparación a stable. Nótese que este es un objetivo móvil — la meta final es implementar eventualmente todas las características importantes para los jugadores.
 
@@ -181,7 +181,7 @@ Sí. Una vez que terminemos de balancear la combinación de puntuaciones de laze
 
 Por ahora, las puntuaciones con todas las combinaciones de mods aparecen en las tablas de clasificación. Si las puntuaciones darán puntos de rendimiento con todos los mods (y si lo hacen, si habrá un bonus o penalización aplicados) o no, está todavía en discusión.
 
-#### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas de juego como en stable?
+#### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
 Por favor, intenta aplicar el mod "Classic", el cual restaura mucho del viejo comportamiento al que estás acostumbrado. También asegúrate de comprobar las configuraciones ofrecidas por el mod Classic, ya que te permitirá personalizar tu experiencia más allá y también te permitirá entender qué cambios están siendo aplicados (ya que están listados ahí).
 
