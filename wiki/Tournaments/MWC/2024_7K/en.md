@@ -55,6 +55,8 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
 
+## Participants
+
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [ottenst](https://osu.ppy.sh/users/13488325), [Greedom](https://osu.ppy.sh/users/10696707), [clonedroid](https://osu.ppy.sh/users/21114236) |
