@@ -34,7 +34,7 @@ osu! arrive sur l'iPhone grâce à une compatibilité réalisé par [nuudles](ht
 
 La FAQ du site web d'osu! est devenue traductible et des contributeurs volontaires ont aidé à rendre la FAQ accessible dans plusieurs langues[^faq-localisation].
 
-Lors d'une importante mise à jour le 26 janvier, osu! a reçu de nombreuses nouvelles fonctionnalités.[^stable-b593a] Parmi ces changements, on trouve de nouveaux modes multijoueurs [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) et [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), ainsi qu'une protection par mot de passe pour les salles multijoueurs. Les objets de l'éditeur de storyboard ont été modifiés d'une nouvelle manière grâce aux options de transformation : mise à l'échelle vectorielle et retournement. Pendant le jeu, les effets d'éclairage des coups soulignent les coups en éclaboussant de couleurs le terrain de jeu. En outre, la progression des musiques est désormais affichée sous forme de camembert. De plus, un nouveau mode de tri des beatmaps "Dernière lecture" a été ajouté à l'écran [sélection de musique](/wiki/Client/Interface#song-select).
+Lors d'une importante mise à jour le 26 janvier, osu! a reçu de nombreuses nouvelles fonctionnalités.[^stable-b593a] Parmi ces changements, on trouve de nouveaux modes multijoueurs [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) et [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), ainsi qu'une protection par mot de passe pour les salles multijoueurs. Les objets de l'éditeur de storyboard ont été modifiés d'une nouvelle manière grâce aux options de transformation : mise à l'échelle vectorielle et retournement. Pendant le jeu, les effets d'éclairage des coups soulignent les coups en éclaboussant de couleurs le terrain de jeu. En outre, la progression des musiques est désormais affichée sous forme de camembert. De plus, un nouveau mode de tri des beatmaps "Dernière lecture" a été ajouté à l'écran [sélection de musique](/wiki/Client/Interface#sélection-de-la-musique).
 
 ## Février
 
@@ -84,7 +84,7 @@ osu! a reçu un nouveau paramètre `LoopType` pour boucler les objets du storybo
 
 ## Septembre
 
-Les mises à jour de ce mois-ci ont intégré de nouvelles fonctionnalités, parmi lesquelles la prise en charge des écrans larges pour la sélection des musiques,[^stable-b904a] la prise en charge des amis sur le site web,[^custom-changelog] et la mascotte Taiko [pippidon](/wiki/Mascottes#pippi) serait désormais affichée dans le coin supérieur gauche lors de la lecture.[^stable-b898]
+Les mises à jour de ce mois-ci ont intégré de nouvelles fonctionnalités, parmi lesquelles la prise en charge des écrans larges pour la sélection des musiques,[^stable-b904a] la prise en charge des amis sur le site web,[^custom-changelog] et la mascotte Taiko [pippidon](/wiki/Mascots#pippi) serait désormais affichée dans le coin supérieur gauche lors de la lecture.[^stable-b898]
 
 Depuis le 6 septembre, tous les scores de [Taiko ont été réinitialisés](https://osu.ppy.sh/community/forums/topics/17118?n=1) pour permettre l'utilisation d'un algorithme de notation amélioré.
 
@@ -104,9 +104,9 @@ Deux étapes ont été franchies ce mois-ci. Le 15 novembre, 50 000 000 de parti
 
 ## Décembre
 
-Ce mois-ci, la [Mapping Assistance Team](/wiki/Personnes/Mapping_Assistance_Team) (MAT) a été introduite. La MAT était chargée de sélectionner les [beatmaps en attente](/wiki/Beatmap/Category#wip-and-pending) de qualité acceptable et de les recommander pour qu'elles soient classées dans le système de [modding du forum](/wiki/Modding/Forum_modding) par la [BAT](/wiki/People/Beatmap_Appreciation_Team)[^mat].
+Ce mois-ci, la [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) a été introduite. La MAT était chargée de sélectionner les [beatmaps en attente](/wiki/Beatmap/Category#wip-and-pending) de qualité acceptable et de les recommander pour qu'elles soient classées dans le système de [modding du forum](/wiki/Modding/Forum_modding) par la [BAT](/wiki/People/Beatmap_Appreciation_Team)[^mat].
 
-Une mise à jour d'osu! a introduit les [hyperdashes](/wiki/Gameplay/Hyperdash) pour les jumps impossibles dans Catch the Beat, où les joueurs gagnaient une vitesse supplémentaire pendant un court moment en ramassant un [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit). De plus, un aperçu de la liste des utilisateurs en ligne dans la [console de discussion étendue](/wiki/Client/Interface/Chat_console#extended-chat-console) a été implémenté.[^stable-b1209]
+Une mise à jour d'osu! a introduit les [hyperdashes](/wiki/Gameplay/Hyperdash) pour les jumps impossibles dans Catch the Beat, où les joueurs gagnaient une vitesse supplémentaire pendant un court moment en ramassant un [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit). De plus, un aperçu de la liste des utilisateurs en ligne dans la [console de discussion étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue) a été implémenté.[^stable-b1209]
 
 Le forum [Community Voice](https://osu.ppy.sh/community/forums/65) a été ajouté dans le but de poser diverses questions à la communauté et de permettre aux utilisateurs de voter lors de sondages hebdomadaires.[^weekly-polls]
 

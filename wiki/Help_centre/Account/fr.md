@@ -152,7 +152,7 @@ Si vous avez acheté (ou reçu en cadeau) un [tag de supporter](https://osu.ppy.
 
 Par la suite, vous pourrez à tout moment acheter un [changement de nom d'utilisateur](https://osu.ppy.sh/store/products/32) pour changer votre nom d'utilisateur en celui que vous souhaitez. Cependant, chaque changement coûtera progressivement plus cher - le deuxième coûtera 8 USD, le troisième 16 USD, et ainsi de suite, jusqu'à un plafond de 100 USD. Nous procédons ainsi pour éviter que des personnes n'abusent du système pour changer de nom en succession rapide.
 
-Veuillez noter que les noms d'utilisateur doivent respecter les [règles de la communauté](/wiki/Rules#community-rules), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, trop provocants ou provocateurs de quelque manière que ce soit. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques (telles que des célébrités, des hommes politiques, etc.) ne sont pas autorisés et seront annulés dès que nous en aurons connaissance.
+Veuillez noter que les noms d'utilisateur doivent respecter les [règles de la communauté](/wiki/Rules#règles-communautaires), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, trop provocants ou provocateurs de quelque manière que ce soit. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques (telles que des célébrités, des hommes politiques, etc.) ne sont pas autorisés et seront annulés dès que nous en aurons connaissance.
 
 Si vous souhaitez simplement apporter des modifications mineures aux majuscules ou à la grammaire/orthographe, vous pouvez envoyer un courriel à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander un changement de nom gratuit afin de résoudre ces problèmes. Nous ne vous facturerons pas ce type de changement de nom, mais vous **DEVEZ** le faire par l'intermédiaire d'un courriel d'assistance. Gardez à l'esprit que nous n'effectuerons cette opération qu'un nombre limité de fois, alors assurez-vous que vous la souhaitez vraiment !
 
@@ -216,14 +216,14 @@ Si vous possédez actuellement plus d'un compte, veuillez contacter [accounts@pp
 
 Nous envisageons d'acheter des "remises à zéro des scores" supplémentaires sur osu!store pour les joueurs vraiment acharnés qui ne souhaitent rien d'autre que la perfection dans leurs statistiques, mais dans l'état actuel des choses, nous ne pouvons pas effacer les statistiques d'un compte pour vous.
 
-Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#community-rules), et nous désactiverons tous les comptes de ce type qui nous seront signalés.
+Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires), et nous désactiverons tous les comptes de ce type qui nous seront signalés.
 
 ### Puis-je supprimer mon compte ? {id=suppression-compte}
 
-*Pour plus d'informations sur la suppression d'un compte, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#your-rights-and-control).*\
+*Pour plus d'informations sur la suppression d'un compte, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*\
 *Attention : La suppression d'un compte est permanente et ne peut donc pas être annulée !*
 
-Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **finale**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez en créer un nouveau, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Règles#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!.
+Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **finale**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez en créer un nouveau, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!.
 
 ### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé ! {id=compte-verrouillé}
 

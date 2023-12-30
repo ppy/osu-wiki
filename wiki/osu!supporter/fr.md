@@ -61,21 +61,21 @@ Une fois que osu!supporter aura expiré, la couverture sera conservée, mais ne 
 
 ### Un changement de nom d'utilisateur gratuit
 
-*Remarque : des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#name-changes).*
+*Remarque : des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).*
 
-L'obtention de osu!supporter s'accompagne de la possibilité de changer de nom d'utilisateur gratuitement pour la première fois, sous [conditions habituelles](/wiki/Help_centre/Account#name-changes).
+L'obtention de osu!supporter s'accompagne de la possibilité de changer de nom d'utilisateur gratuitement pour la première fois, sous [conditions habituelles](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
 
 ### osu!direct
 
 osu!direct est le moteur de recherche et de téléchargement des beatmaps disponible pour les supporters. Il est accessible depuis le menu principal en cliquant sur l'étiquette verticale `osu!direct` sur le côté droit de l'écran. En plus d'une liste de beatmaps intégrée, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens beatmap dans le tchat, qui pointent vers les beatmaps sur le site d'osu!, déclenchent désormais l'invite de téléchargement dans le jeu.
-- Téléchargement automatique de la beatmap lorsque vous jouez dans un lobby [multijoueur](/wiki/Client/Interface/Multijoueur) ou lorsque vous êtes [spectateur](/wiki/Gameplay/Spectating) d'un autre joueur, en tant que [paramètre d'exclusion](/wiki/Client/Options#alerts-and-privacy).
-- Lien automatique des beatmaps joués dans l'onglet de discussion `#spectator` pour les spectateurs, en tant que [paramètre d'exclusion](/wiki/Client/Options#alerts-and-privacy)
+- Téléchargement automatique de la beatmap lorsque vous jouez dans un lobby [multijoueur](/wiki/Client/Interface/Multiplayer) ou lorsque vous êtes [spectateur](/wiki/Gameplay/Spectating) d'un autre joueur, en tant que [paramètre d'exclusion](/wiki/Client/Options#notifications-et-vie-privée).
+- Lien automatique des beatmaps joués dans l'onglet de discussion `#spectator` pour les spectateurs, en tant que [paramètre d'exclusion](/wiki/Client/Options#notifications-et-vie-privée)
 
 ### Classements étendus
 
-Les supporters ont accès à plusieurs [classements](/wiki/Beatmap#leaderboards) spécifiques à la beatmap, disponibles à la fois dans le jeu et sur le site web :
+Les supporters ont accès à plusieurs [classements](/wiki/Beatmap#classement) spécifiques à la beatmap, disponibles à la fois dans le jeu et sur le site web :
 
 - Classement global pour chaque combinaison de [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
 - Classement par pays des joueurs portant le même drapeau
@@ -104,7 +104,7 @@ Après avoir obtenu le tag osu!supporter, certains éléments visuels et sonores
 | `welcome.wav` | L'extrait "welcome to osu !" qui est joué au début du jeu |
 | `seeya.wav` | L'échantillon "see ya next time" qui est joué lorsque le jeu s'arrête. |
 
-Pour plus de détails, voir [Skinning/Interface § Menu principal](/wiki/Skinning/Interface#main-menu) et [Skinning/Sons § Menu principal](/wiki/Skinning/Sons#main-menu).
+Pour plus de détails, voir [Skinning/Interface § Menu principal](/wiki/Skinning/Interface#menu-principal) et [Skinning/Sons § Menu principal](/wiki/Skinning/Sounds#menu-principal).
 
 ### Recherche étendue
 

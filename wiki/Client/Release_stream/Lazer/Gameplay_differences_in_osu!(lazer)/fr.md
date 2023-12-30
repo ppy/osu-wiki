@@ -4,7 +4,7 @@ no_native_review: true
 
 # Différences de gameplay dans osu!(lazer)
 
-*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#comparaison-des-caractéristiques)*
 
 Cette page présente les différences affectant le gameplay dans osu!(lazer).
 
