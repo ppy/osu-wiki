@@ -64,7 +64,7 @@ Entre autres changements, osu! a été mis à jour ce mois-ci pour prendre en ch
 
 En raison d'une modification du [système de soumission des beatmaps](/wiki/Beatmapping/Beatmap_submission), les utilisateurs n'étaient plus en mesure d'envoyer des modifications à une beatmap après qu'elle ait été moddée. Il est arrivé que des beatmaps soient classés par les membres du BAT sans savoir qu'ils contenaient des [modifications enfreignant les règles](/wiki/Ranking_criteria)[^bss-update].
 
-Jusqu'à présent, osu! n'était disponible qu'en anglais. Avec la mise en place du nouveau système de localisation, les utilisateurs ont pu traduire le client. Ils pouvaient télécharger un fichier contenant les lignes de texte du jeu, le traduire dans leur langue, puis demander à ce que le fichier soit intégré dans le client.
+Jusqu'à présent, osu! n'était disponible qu'en anglais. Avec la mise en place du nouveau système de localisation, les utilisateurs ont pu traduire le client. Ils pouvaient télécharger un fichier contenant les lignes de texte du jeu, le traduire dans leur langue, puis demander à ce que le fichier soit intégré dans le client.[^client-localisation][^stable-b695]
 
 ## Juillet
 
@@ -72,7 +72,7 @@ Le 14 juillet, osu! news est devenu disponible en tant que [flux RSS](https://en
 
 Deux mises à jour ce mois-ci ont apporté une nouvelle option de basculement de la précision de la souris pour les faibles sensibilités ainsi que de nouveaux paramètres de commande et raccourcis pour simplifier le [storyboard scripting](/wiki/Storyboard/Scripting) dans osu![^stable-b753c][^stable-b709].
 
-La base de données du serveur a été mise à jour avec un disque SSD supplémentaire de 32 Go afin d'augmenter la capacité de stockage à l'avenir.
+La base de données du serveur a été mise à jour avec un disque SSD supplémentaire de 32 Go afin d'augmenter la capacité de stockage à l'avenir.[^server-upgrade]
 
 Après un premier test des classements en ligne de Taiko en mars, les statistiques de classement sont devenues consultables par mode sur le site web d'osu![^per-mode-ranking][^stable-b622] Avant cela, seul le [mode de jeu osu!](/wiki/Game_mode/osu!) disposait de classements en ligne.
 
@@ -94,7 +94,7 @@ Un nouvel écran d'information sur le classement a été ajouté, qui a jeté le
 
 La 10 000ème beatmap a été soumise, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) par [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
 
-En plus des osu! news en juillet 2009, le [changelog](/wiki/Changelog) est devenu disponible sous forme de flux RSS le 25 octobre également.
+En plus des osu! news en juillet 2009, le [changelog](/wiki/Changelog) est devenu disponible sous forme de flux RSS le 25 octobre également.[^rss-changelog]
 
 ## Novembre
 

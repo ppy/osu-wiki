@@ -34,7 +34,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Support du skin| ![Oui][vrai] | ![Partiellement][partiel][^gameplay-uniquement] |
+| Support du skin | ![Oui][vrai] | ![Partiellement][partiel][^gameplay-uniquement] |
 | Modes de regroupement de la sélection de musiques | ![Oui][vrai] | ![Non][faux] |
 | Edition du skin /de l'interface utilisateur en jeu | ![Non][faux] | ![Oui][vrai] |
 | Composants du skin dynamiques et personnalisables | ![Non][faux] | ![Oui][vrai] |
@@ -111,7 +111,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 
 Vous avez décidé d'essayer lazer ? Superbe !
 
-Vous pouvez le télécharger [ici] (https://github.com/ppy/osu#running-osu). Dans un futur proche, vous pourrez passer à lazer à partir de stable (dans le paramètre `Release stream`) et trouver le lien de téléchargement sur le site d'osu!.
+Vous pouvez le télécharger [ici](https://github.com/ppy/osu#running-osu). Dans un futur proche, vous pourrez passer à lazer à partir de stable (dans le paramètre `Release stream`) et trouver le lien de téléchargement sur le site d'osu!.
 
 ## FAQ
 
