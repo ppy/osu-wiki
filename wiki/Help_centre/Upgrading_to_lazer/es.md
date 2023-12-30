@@ -1,4 +1,4 @@
-# Actualizando a lazer
+# Actualizar a lazer
 
 *Aviso: Aún estamos ajustando el balance y mecánicas de juego. Por ahora, **las puntuaciones establecidas en lazer no deberían ser consideradas como permanentes**.*
 
@@ -12,7 +12,7 @@ La meta eventual es que esta versión sea publicada como una actualización que 
 
 *Para una lista de diferencias acerca de las mecánicas de juego, véase [Diferencias de jugabilidad en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
-La siguiente es una lista detallada del **estado actual** de lazer en comparación a stable. Ten en cuenta que este es un objetivo móvil — la meta final es implementar eventualmente todas las características importantes para los jugadores.
+La siguiente es una lista detallada del **estado actual** de lazer en comparación a stable. Ten en cuenta que este es un objetivo móvil; la meta final es implementar eventualmente todas las características importantes para los jugadores.
 
 ### Compatibilidad y rendimiento
 
@@ -34,7 +34,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Soporte de skin | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
+| Soporte de skins | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
 | Modos de agrupación en el selector de canciones | ![Sí][true] | ![No][false] |
 | Edición de skins / disposición de la IU integrada en el juego | ![No][false] | ![Sí][true] |
 | Componentes de skinning dinámicos y personalizables | ![No][false] | ![Sí][true] |
@@ -61,10 +61,10 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Normalización de colores de combo[^normalisation] | ![No][false] | ![Sí][true] |
 | Mantener presionado para HUD | ![No][false] | ![Sí][true][^hold-for-hud] |
 | Calibración de compensación por beatmap | ![Parcial][partial][^offset-calibration-stable] | ![Sí][true][^offset-calibration-lazer] |
-| Serpenteo de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
+| «Serpenteado» de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
 | «Note lock» amigable con el jugador | ![No][false] | ![Sí][true][^note-lock] |
 | Coloreo de notas en osu!mania y osu! basado en el ritmo | ![No][false] | ![Sí][true] |
-| Búsqueda de repeticiones | ![No][false] | ![Sí][true] |
+| Búsqueda en las repeticiones | ![No][false] | ![Sí][true] |
 | Comentarios de la repetición en desplazamiento estilo [Niconico](https://es.wikipedia.org/wiki/Niconico) | ![Sí][true] | ![No][false] |
 
 ### Sistemas en línea
@@ -79,14 +79,14 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
 | Perfiles de usuario | ![No][false] | ![Sí][true] |
-| Listado de mapas | ![Parcial][partial][^direct-supporter] | ![Sí][true] |
+| Listado de beatmaps | ![Parcial][partial][^direct-supporter] | ![Sí][true] |
 | Salas multijugador de tamaño ilimitado | ![No][false][^multi-room-max] | ![Sí][true] |
 | Modo espectador en salas multijugador | ![No][false] | ![Sí][true] |
 | Temporizadores de cuenta regresiva | ![Parcial][partial][^countdown-timers-stable] | ![Sí][true][^countdown-timers-lazer] |
 | Modos de cola | ![No][false] | ![Sí][true][^queue-modes] |
 | Comandos multijugador | ![Sí][true] | ![No][false] |
 | Tag cooperativo | ![Sí][true] | ![No][false] |
-| Listas de juego (tablas de clasificación curadas por los usuarios) | ![No][false] | ![Sí][true] |
+| Listas de juego (tablas de clasificación seleccionadas por los usuarios) | ![No][false] | ![Sí][true] |
 | Actualizar beatmaps con cambios en línea | ![Parcial][partial][^map-only] | ![Sí][true][^all-files] |
 
 ### Editor
@@ -98,7 +98,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Editor de osu!catch | ![No][false] | ![Sí][true] |
 | Editor de osu!mania | ![Sí][true] | ![Sí][true] |
 | Abrir dificultad como referencia | ![Sí][true] | ![No][false] |
-| Velocidad de slider / volumen por objeto | ![No][false] | ![Sí][true] |
+| Velocidad del slider / volumen por objeto | ![No][false] | ![Sí][true] |
 | Tipos de curva de sliders por segmento | ![No][false] | ![Sí][true] |
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
 | Rotación de patrón | ![Sí][true] | ![Parcial][partial][^editor-precise-rotation] |
@@ -107,7 +107,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Editor de storyboards | ![Sí][true] | ![No][false] |
 | Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilities] |
 
-## Cambiando a lazer
+## Cambiar a lazer
 
 ¿Así que has decidido que quieres darle una oportunidad a lazer? ¡Genial!
 
@@ -131,7 +131,7 @@ Si tienes tanto lazer como stable en el mismo disco, los [enlaces duros](/wiki/C
 
 En cualquier otro caso, importar beatmaps usará el doble de espacio en disco.
 
-#### Si borro lazer, ¿dañará mi instalación de stable?
+#### ¿Si borro lazer se dañará mi instalación de stable?
 
 No.
 
@@ -179,7 +179,7 @@ Sí. Una vez que terminemos de balancear la combinación de puntuaciones de laze
 
 #### ¿Todos los mods estarán clasificados?
 
-Por ahora, las puntuaciones con todas las combinaciones de mods aparecen en las tablas de clasificación. Si las puntuaciones darán puntos de rendimiento con todos los mods (y si lo hacen, si habrá un bonus o penalización aplicados) o no, está todavía en discusión.
+Por ahora, las puntuaciones con todas las combinaciones de mods aparecen en las tablas de clasificación. Si las puntuaciones darán puntos de rendimiento con todos los mods (y si lo hacen, si habrá un bonus o penalización aplicado) o no, está todavía en discusión.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
@@ -189,7 +189,7 @@ Por favor, intenta aplicar el mod «Classic», el cual restaura mucho del viejo 
 
 #### ¡Algo se está comportando diferente a stable y no me gusta!
 
-Por favor, ejecuta el asistente de configuración en la parte superior de las configuraciones y revisa las configuraciones en la pantalla de `Comportamiento`. Muchas de las configuraciones comunes las cuales tienen valores predeterminados cambiados están listadas aquí. También hay un botón que puedes presionar para aplicar los viejos comportamientos como un punto de comienzo para tu viaje en lazer.
+Por favor, ejecuta el asistente de configuración en la parte superior de la configuración y revisa las configuraciones en la pantalla de `Comportamiento`. Muchas de las configuraciones comunes las cuales tienen valores predeterminados cambiados están listadas aquí. También hay un botón que puedes presionar para aplicar los viejos comportamientos como un punto de comienzo para tu viaje en lazer.
 
 #### ¿Las skins antiguas servirán en las pantallas del selector de canciones y resultados en algún momento?
 
@@ -203,23 +203,23 @@ Probablemente traigamos de vuelta el soporte para esto en el futuro debido a la 
 
 #### ¿Por qué no puedo usar FPS ilimitados?
 
-Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia es posible sin requerir altas tazas de refresco. Esto continuará mejorando a medida que se avanza ya que nos quedan algunas mejoras por implementar.
+Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia sea posible sin requerir altas tazas de refresco. Esto continuará mejorando a medida que se avanza ya que nos quedan algunas mejoras por implementar.
 
-Lazer sondea para una entrada de 1000 Hz sin importar el limitador de FPS, razón por la cual la configuración máxima del limitador también se limita a 1000 FPS.
+Lazer sondea la entrada a 1000 Hz sin importar el limitador de FPS, razón por la cual la configuración máxima del limitador también se limita a 1000 FPS.
 
-Si tienes curiosidad acerca de como esto afecta la latencia de entrada y quieres probar tu propia percepción, por favor ejecuta el «certificador de latencia» integrado al final de las configuraciones.
+Si tienes curiosidad acerca de como esto afecta la latencia de entrada y quieres probar tu propia percepción, por favor ejecuta el «certificador de latencia» integrado al final de la configuración.
 
 También puedes [leer este documento técnico](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explicando la vía que estamos tomando junto a la razón detrás de esto.
 
-#### Si la entrada está sondeada a solo 1000 Hz, ¿qué hay acerca de mi ratón gaming de 8000 Hz?
+#### Si la entrada solo se sondea a 1000 Hz, ¿qué pasa con mi ratón gaming de 8000 Hz?
 
-El sistema operativo todavía sondeará a una tasa más alta, aunque los beneficios han probado ser insignificantes. Sondear a tales altas tazas puede tener desgastes imprevistos y recomendamos limitar los dispositivos a 1000 Hz para la estabilidad del sistema.
+El sistema operativo seguirá sondeando a la tasa más alta, aunque se ha demostrado que los beneficios son insignificantes. Sondear a tasas tan altas puede tener desgastes imprevistos y recomendamos limitar los dispositivos a 1000 Hz para la estabilidad del sistema.
 
 #### Lazer rinde peor que stable para mí. ¿Qué ocurre?
 
 Mientras que en la mayor parte del hardware moderno vemos como lazer supera a stable en rendimiento, siempre hay casos extremos cuando cada usuario tiene una configuración de hardware distinta. En nuestros planes a corto plazo estamos intentando dar soporte a DirectX (también conocido como «modo compatibilidad» en stable) y Vulkan, ambos con mejor soporte de drivers que OpenGL en todo el hardware. Una vez que esto haya sido implementado, el rendimiento en hardware tal como chipsets integrados de Intel mejorará enormemente.
 
-### Proporcionando retroalimentación
+### Proporcionar retroalimentación
 
 #### ¡Una característica de la que dependo no está! / Algo ha cambiado y no me gusta. / Encontré un bug, ¿cuál es la mejor manera de reportarlo?
 
@@ -231,13 +231,13 @@ Por favor, ten en cuenta que ya estamos rastreando más de 1000 problemas de div
 
 #### ¿Por qué se llama «lazer»?
 
-¿Qué es más afilado que un filo cortante?[^filo]
+¿Qué es más afilado que un filo?[^filo]
 
 #### ¿Por qué está tomando tanto tiempo para que se convierta en la versión «principal»?
 
 Mientras que osu! puede parecer un juego simple, hay centenares de características y sistemas con los cuales los usuarios cuentan. Dependiendo de a quién le preguntes, lazer puede haber estado en un estado completamente jugable por años, o puede que carezca de innumerables características.
 
-Otra área que ha requerido un gran esfuerzo es la conservación histórica — asegurándose de que los beatmaps se comporten exactamente igual a como deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
+Otra área que ha requerido un gran esfuerzo es la conservación histórica; asegurándose de que los beatmaps se comporten exactamente igual a como deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
 
 Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)! 
 
@@ -247,13 +247,13 @@ Tenemos una enorme reserva de características y mejoras solicitadas por usuario
 
 #### ¿Cómo accedo a mi carpeta de canciones?
 
-¡No hay carpeta de canciones en lazer! Esto nos permite hacer cosas geniales como no requerir de presionar `F5` en la pantalla del selector de canciones para actualizar los beatmaps (porque los beatmaps siempre están en buen estado) y reduce el espacio en disco usado por beatmaps en un 20 y 40 %. Puedes leer más sobre [la manera en la que lazer almacena archivos](/wiki/Client/Release_stream/Lazer/File_storage).
+¡No hay carpeta de canciones en lazer! Esto nos permite hacer cosas geniales como no requerir de presionar `F5` en la pantalla del selector de canciones para actualizar los beatmaps (porque los beatmaps siempre están en buen estado) y reduce el espacio en disco usado por beatmaps en un 20 y 40 %. Puedes leer más sobre [la manera en la que lazer almacena archivos](/wiki/Client/Release_stream/Lazer/File_storage).
 
 Si necesitas hacer cambios a un beatmap, por favor, usa el editor. A medida que avancemos introduciremos un modo en el editor que vuelva temporalmente accesible la carpeta de un beatmap para edición externa. Esto te permitirá usar herramientas externas en un beatmap durante el proceso de creación.
 
 #### Ahora que «osu!direct» está disponible para todos los jugadores, ¿los supporters tendrán algún nuevo beneficio?
 
-Algunos filtros en el listado de mapas siguen siendo solo para supporters.
+Algunos filtros en el listado de beatmaps siguen siendo solo para supporters.
 
 Ya hay hay algunos beneficios adicionales también:
 
@@ -274,7 +274,7 @@ De la misma manera en la que lo harías usualmente.
 
 Probablemente estés pensando en otro juego.
 
-### Notas
+## Notas
 
 [^wine]: Usando Wine.
 [^compatibility-mode]: DirectX mediante modo compatibilidad.
@@ -298,13 +298,13 @@ Probablemente estés pensando en otro juego.
 [^map-only]: Solo el mapa.
 [^all-files]: Todos los archivos.
 [^editor-precise-rotation]: Rotación de ángulo preciso faltante.
-[^incompatibilities]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable — será arreglado pronto.
+[^incompatibilities]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable; será arreglado pronto.
 [^stable-chat]: Los mensajes pueden tomar hasta 15 segundos en llegar.
 [^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
-[^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «host rotate».
+[^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla del selector de canciones mediante el mod Difficulty Adjust.
-[^filo]: Este es un juego de palabras en inglés con el nombre de la versión experimental del cliente stable, `cutting edge`.
+Filo es la traducción de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
