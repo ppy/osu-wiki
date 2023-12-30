@@ -280,7 +280,7 @@ Auf die gleiche Weise, wie du es sonst machen würdest.
 
 Du denkst wahrscheinlich an ein anderes Spiel.
 
-### Anmerkungen
+## Anmerkungen
 
 [^wine]: Mit Wine.
 [^compatibility-mode]: DirectX über den Kompatibilitätsmodus.

@@ -276,7 +276,7 @@ Nello stesso modo in cui lo faresti di solito.
 
 Probabilmente stai pensando ad un altro gioco.
 
-### Notes
+## Notes
 
 [^wine]: Usando Wine.
 [^compatibility-mode]: DirectX in modalità compatibilità.
