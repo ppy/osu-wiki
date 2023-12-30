@@ -56,7 +56,7 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *9–24th place* | ¥50 CNY |
 | *All the other qualified players* | ¥20 CNY |
 
-![GBC 2023 Autumn QQ Division winner badge](img/GBC-2023-Autumn-badge-QQ-1st.png)
+![GBC 2023 Autumn QQ division winner badge](img/GBC-2023-Autumn-badge-QQ-1st.png)
 
 ### Discord division
 
@@ -81,7 +81,7 @@ The **GB Cup 2023 Autumn** (***GBC 2023 Autumn***) is a 3v3 captain draft–base
 | *9–16th place* | $6 |
 | *All the other qualified players* | $2 |
 
-![GBC 2023 Autumn Discord Division winner badge](img/GBC-2023-Autumn-badge-Discord-1st.png)
+![GBC 2023 Autumn Discord division winner badge](img/GBC-2023-Autumn-badge-Discord-1st.png)
 
 ## Organisation
 
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
   1. [ZxNX - FORTALiCE (Promachos) \[No SB\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387298)
   2. [Snooddood - Heartbeat (awdse22) \[Pulse = 0 bpm\]](https://osu.ppy.sh/beatmapsets/2060417#mania/4307034)
 - Tiebreaker
-  1. [Laur - Viyella's Destiny (\[GB\]yobrevelc) \[Grievous Baptism Contrition\]](https://osu.ppy.sh/beatmapsets/2101413#mania/4408410)
+  1. **[Laur - Viyella's Destiny (\[GB\]yobrevelc) \[Grievous Baptism Contrition\]](https://osu.ppy.sh/beatmapsets/2101413#mania/4408410)**
 
 ### Finals
 
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Sober Bear - ODYSSEIA (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
   2. [Snooddood - Heartbeat (awdse22) \[Pulse = 0 bpm\]](https://osu.ppy.sh/beatmapsets/2060417#mania/4307034)
 - Tiebreaker
-  1. [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (Llkkm) \[FINAL SCORE\]](https://osu.ppy.sh/beatmapsets/2089236#mania/4378268)
+  1. **[Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (Llkkm) \[FINAL SCORE\]](https://osu.ppy.sh/beatmapsets/2089236#mania/4378268)**
 
 ### Semifinals
 
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Sober Bear - ODYSSEIA (Lott) \[edit\]](https://osu.ppy.sh/beatmapsets/2017496#mania/4391414)
   2. [ARForest - Shattered (\[GB\]Mafufu) \[Tantei B's Fragmentation \[Edit\]\]](https://osu.ppy.sh/beatmapsets/2091515#mania/4383864)
 - Tiebreaker
-  1. [Us4KKi - Aria for Lepus (OxalicAcid) \[ Sacrosanct Usagi\]](https://osu.ppy.sh/beatmapsets/2062363#mania/4312219)
+  1. **[Us4KKi - Aria for Lepus (OxalicAcid) \[ Sacrosanct Usagi\]](https://osu.ppy.sh/beatmapsets/2062363#mania/4312219)**
 
 ### Quarterfinals
 
@@ -295,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
   1. [adaptor - Black : Magnum (AlexDunk) \[SV : Magnum (2023 easy edit)\]](https://osu.ppy.sh/beatmapsets/1399179#mania/4376223)
   2. [ARForest - Shattered (\[GB\]Mafufu) \[Tantei B's Fragmentation \[Edit\]\]](https://osu.ppy.sh/beatmapsets/2091515#mania/4383864)
 - Tiebreaker
-  1. [Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end (nsv)\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2429180)
+  1. **[Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end (nsv)\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2429180)**
 
 ### Regular Stage Round 4
 
@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
   1. [adaptor - Black : Magnum (AlexDunk) \[SV : Magnum (2023 easy edit)\]](https://osu.ppy.sh/beatmapsets/1399179#mania/4376223)
   2. [M2U - Unclear (feat. Callin' D) (RuleBlazing) \[Unseen Road (cut+edit)\]](https://osu.ppy.sh/beatmapsets/1106399#mania/4363160)
 - Tiebreaker
-  1. [Camellia - ORCA ("A-Special" Long ver.) (Fabrical) \[Re-Surface\]](https://osu.ppy.sh/beatmapsets/2037591#mania/4249742)
+  1. **[Camellia - ORCA ("A-Special" Long ver.) (Fabrical) \[Re-Surface\]](https://osu.ppy.sh/beatmapsets/2037591#mania/4249742)**
 
 ### Regular Stage Round 3
 
@@ -345,7 +345,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Nikki Simmons - Bullet Waiting For Me (James Landino Remix) (\[GB\]Mafufu) \[One-way Ticket to Eternity \[Edit\]\]](https://osu.ppy.sh/beatmapsets/2081740#mania/4359741)
   2. [M2U - Unclear (feat. Callin' D) (RuleBlazing) \[Unseen Road (cut+edit)\]](https://osu.ppy.sh/beatmapsets/1106399#mania/4363160)
 - Tiebreaker
-  1. [Camellia - This Future (we didn't expect) (Dubstek) \[Insane\]](https://osu.ppy.sh/beatmapsets/1383042#mania/2922691)
+  1. **[Camellia - This Future (we didn't expect) (Dubstek) \[Insane\]](https://osu.ppy.sh/beatmapsets/1383042#mania/2922691)**
 
 ### Regular Stage Round 2
 
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Nikki Simmons - Bullet Waiting For Me (James Landino Remix) (\[GB\]Mafufu) \[One-way Ticket to Eternity [Edit]\]](https://osu.ppy.sh/beatmapsets/2081740#mania/4359741)
   2. [Nikki Simmons/Sakuzyo - Destr0yer \[Afterwar\] (\[GB\]Mafufu) \[Sight Destr0yer \[Nerfed\]\]](https://osu.ppy.sh/beatmapsets/1829327#mania/3754491)
 - Tiebreaker
-  1. [miroir - O-Ku-Ri-Mo-No Sunday! (Mtell Hardcore Bootleg) (DenYi) \[Okurimono! Yeah!\]](https://osu.ppy.sh/beatmapsets/1914323#mania/3949269)
+  1. **[miroir - O-Ku-Ri-Mo-No Sunday! (Mtell Hardcore Bootleg) (DenYi) \[Okurimono! Yeah!\]](https://osu.ppy.sh/beatmapsets/1914323#mania/3949269)**
 
 ### Regular Stage Round 1
 
@@ -395,7 +395,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Kennyoung - Loner (Blue_Potion) \[need somebody to love me... (SV)\]](https://osu.ppy.sh/beatmapsets/2077832#mania/4350801)
   2. [Nikki Simmons/Sakuzyo - Destr0yer \[Afterwar\] (\[GB\]Mafufu) \[Sight Destr0yer \[Nerfed\]\]](https://osu.ppy.sh/beatmapsets/1829327#mania/3754491)
 - Tiebreaker
-  1. [Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)
+  1. **[Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)**
 
 ### Qualifier
 
