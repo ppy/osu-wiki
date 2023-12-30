@@ -304,7 +304,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla del selector de canciones mediante el mod Difficulty Adjust.
-Filo es la traducción de [cutting edge](/wiki/Client/Release_stream).
+[^filo] es la traducción de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
