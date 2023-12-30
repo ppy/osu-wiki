@@ -66,7 +66,7 @@ ScoreV2 augmente la pondération des rainbow 300 à 305 :
 
 Le graphique de performance est un tableau qui affiche la performance du joueur (basée sur sa barre de vie) au cours d'une partie (temps). Des informations supplémentaires peuvent être affichées lorsque le curseur passe dessus.
 
-*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté [écran des résultats](/wiki/Client/Interface#results-screen), ces informations ne seront pas sauvegardées.*
+*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté [écran des résultats](/wiki/Client/Interface#écran-des-résultats), ces informations ne seront pas sauvegardées.*
 
 ### Précision
 

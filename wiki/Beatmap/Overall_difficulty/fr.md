@@ -22,7 +22,7 @@ Notez que dans la version stable de osu!, les hit windows dans osu! et [osu!taik
 
 Par exemple, la hit window d'un Great dans osu!taiko à OD 5 est de ±34,5 ms, au lieu des ±35 ms indiqués dans le tableau. Dans osu!mania, la fenêtre de frappe d'un MAX est de ±16,5 ms, et non de ±16 ms comme le suggère le tableau.
 
-Les fenêtres de résultats pour les jugements peuvent être visualisées en survolant les [informations sur la beatmap dans la sélection de la musique](/wiki/Client/Interface#beatmap-information), qui afficheront toujours les valeurs correctes.
+Les fenêtres de résultats pour les jugements peuvent être visualisées en survolant les [informations sur la beatmap dans la sélection de la musique](/wiki/Client/Interface#informations-sur-la-beatmap), qui afficheront toujours les valeurs correctes.
 
 ### osu!
 
