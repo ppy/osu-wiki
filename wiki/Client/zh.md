@@ -19,7 +19,7 @@ tags:
 - [界面](Interface)
 - [菜单提示](Menu_tips)
 - [设置](Options)
-- [发布频道](Release_stream)
+- [发布通道](Release_stream)
 - [参考快捷键](Keyboard_shortcuts)
 
 ## 技术细节
