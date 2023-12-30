@@ -243,7 +243,7 @@ Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y di
 
 #### ¿Qué sigue?
 
-Tenemos una enorme reserva de características y mejoras solicitadas por usuarios que continuaremos agregando a la velocidad de la luz. Para aquellos que se han unido a nosotros recientemente y no han experimentado el momentum del desarrollo de osu!, estén preparados para recibir una sorpresa.
+Tenemos una enorme reserva de características y mejoras solicitadas por usuarios que continuaremos agregando a la velocidad de la luz. Para aquellos que se han unido a nosotros recientemente y no han experimentado el momentum del desarrollo de osu!, estad preparados para recibir una sorpresa.
 
 #### ¿Cómo accedo a mi carpeta de canciones?
 
