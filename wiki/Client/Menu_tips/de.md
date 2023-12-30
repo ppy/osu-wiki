@@ -6,6 +6,8 @@ tags:
   - hints
   - Tipps
   - Hinweise
+outdated_since: 82d449645b79b94a44e46e5ab2862236a48a80ac
+outdated_translation: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
