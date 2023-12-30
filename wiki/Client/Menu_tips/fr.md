@@ -10,7 +10,7 @@ tags:
   - conseils
 ---
 
-<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/XX.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer ne sont pas encore localisées, mais il est possible de les traduire ici tout en notant qu'elles n'ont pas de traduction dans le jeu. -->
+<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/fr.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer ne sont pas encore localisées, mais il est possible de les traduire ici tout en notant qu'elles n'ont pas de traduction dans le jeu. -->
 
 # Conseils sur les menus
 
@@ -21,7 +21,7 @@ Cet article répertorie toutes les astuces vues dans le jeu, qui contiennent des
 Ces conseils apparaissent en bas du [menu principal](/wiki/Client/Interface#menu-principal).
 
 - Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/osz_(file_format)) nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
-- Naviguez aisément dans [l'écran de sélection des beatmaps](/wiki/Client/Interface#song-select) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
+- Naviguez aisément dans [l'écran de sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
 - Appuyez sur `F8` ou`F9` partout dans le jeu pour déployer la fenêtre de [chat](/wiki/Client/Interface/Chat_console) !
 - Accédez aux options d'une beatmap en faisant un clic droit dessus ou en cliquant sur `Beatmap Options` dans l'écran de sélection.
 - Si osu! n'est [pas parfaitement fluide](/wiki/Performance_troubleshooting), testez les différentes options de la rubrique Graphismes du menu des [Options](/wiki/Client/Options) pour alléger la charge de la carte graphique.
@@ -32,15 +32,15 @@ Ces conseils apparaissent en bas du [menu principal](/wiki/Client/Interface#menu
 - Si une beatmap a été mise à jour, vous pourrez télécharger la dernière version instantanément en cliquant sur le bouton qui apparaîtra.
 - Le wiki contient énormément d'informations utiles. [Prenez le temps de le lire](/wiki/Main_page), vous apprendrez beaucoup de choses sur osu!
 - Saviez-vous que vous pouvez importer de nouvelles beatmaps simplement en double-cliquant sur un fichier `osz` Vous pouvez également le glisser-déposer dans la fenêtre du jeu.
-- Exportez un [replay](/wiki/Gameplay/Replay) dans le dossier Replays d'osu!, qu'il ait été réalisé en ligne ou non, en appuyant sur `F2` dans [l'écran de résultat](/wiki/Client/Interface#results-screen).
+- Exportez un [replay](/wiki/Gameplay/Replay) dans le dossier Replays d'osu!, qu'il ait été réalisé en ligne ou non, en appuyant sur `F2` dans [l'écran de résultat](/wiki/Client/Interface#sélection-de-la-musique).
 - Si vous trouvez que le son est décalé sur toutes les beatmaps que vous jouez, essayez d'ajuster le `décalage audio` dans le menu des `options`.
-- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans [l'écran de sélection des beatmaps](/wiki/Client/Interface#song-select).
+- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans [l'écran de sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique).
 - Le chat peut être configuré de telle sorte qu'il se rétracte automatiquement durant une partie. Repérez le bouton « Auto-Hide » en bas à droite de l'écran quand le chat est ouvert pour activer cette option.
 - Ajustez le volume directement dans le jeu en utilisant la molette de la souris. Cette fonctionnalité peut être désactivée dans le menu des options si besoin est.
 - Mettez rapidement une partie en pause en appuyant sur le bouton molette de la souris. Le bouton peut être désactivé dans le menu des options si besoin est.
-- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#rankings).
+- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#classement).
 - Personnalisez osu! avec des [skins](/wiki/Skin) ! Trouvez celui de vos rêves dans la section [Skinning du forum](https://osu.ppy.sh/community/forums/15).
-- Appuyez sur `F8` pour afficher le chat. Apprenez-en les [commandes indispensables](/wiki/Client/Interface/Chat_console#commands-list) en tapant `/help` ou `!help` 
+- Appuyez sur `F8` pour afficher le chat. Apprenez-en les [commandes indispensables](/wiki/Client/Interface/Chat_console#liste-des-commandes) en tapant `/help` ou `!help` 
 - Faites des pauses régulièrement. osu! est un jeu éprouvant pour les mains et les bras et il serait dommage de se retrouver chez le médecin à cause d'un muscle trop fatigué.
 - [spinners](/wiki/Gameplay/Hit_object/Spinner).
 - N'ignorez pas les [beatmaps non classées](/wiki/Beatmap/Category) Si vous en trouvez une qui vous plaît et que vous laissez des [commentaires constructifs](/wiki/Modding), pour l'améliorer, elle aura plus de chances d'être [classée](/wiki/Beatmap_ranking_procedure) !
@@ -49,12 +49,12 @@ Ces conseils apparaissent en bas du [menu principal](/wiki/Client/Interface#menu
 - Appuyez sur `F5` dans l'écran de sélection des beatmaps pour rafraîchir la liste et charger les nouvelles musiques.
 - Appuyez sur `Maj`+`F12` partout dans le jeu pour faire une capture d'écran et la publier automatiquement sur le site web d'osu!
 - Personnalisez les touches que vous utilisez pour jouer dans le menu des options.
-- Faites des [recherches conditionnelles](/wiki/Client/Interface#search) dans l'écran de sélection des beatmaps à l'aide des mots-clés suivants : `ar`, `od`, `hp`, `cs`, `bpm`, `stars`, `length` et `drain` (durées à indiquer en secondes). Exemple : « `ar>8` `od=9` »
+- Faites des [recherches conditionnelles](/wiki/Client/Interface#recherche) dans l'écran de sélection des beatmaps à l'aide des mots-clés suivants : `ar`, `od`, `hp`, `cs`, `bpm`, `stars`, `length` et `drain` (durées à indiquer en secondes). Exemple : « `ar>8` `od=9` »
 - Recommencez rapidement une partie en maintenant `Ctrl`+`R` !
 
 ## Éditeur
 
-Ces conseils apparaissent dans [l'éditeur de beatmap](/wiki/Client/Beatmap_editor) sous la [ligne de temps des objets](/wiki/Client/Beatmap_editor/Timelines#hit-objects).
+Ces conseils apparaissent dans [l'éditeur de beatmap](/wiki/Client/Beatmap_editor) sous la [ligne de temps des objets](/wiki/Client/Beatmap_editor/Timelines#objets).
 
 - Appuyez sur `H` pour afficher la liste des raccourcis claviers de l'éditeur.
 - Appuyez sur `V` pour naviguer directement au dernier élément placé. Appuyez à nouveau pour accéder à la fin de la piste audio.
@@ -76,7 +76,7 @@ Ces conseils apparaissent dans [l'éditeur de beatmap](/wiki/Client/Beatmap_edit
 - Utilisez les boutons en bas à droite de l'éditeur (ou `Ctrl`+`Haut` et `Ctrl`+`Bas`) pour ralentir la musique. Cela vous permettra de trouver l'offset et le timing adéquats de votre map plus facilement en plus de vous simplifier le mapping.
 - Si vous avez changé le timing de votre beatmap en cours de route, n'oubliez pas de faire un tour dans le menu [Timing](/wiki/Client/Beatmap_editor/Timing) pour repositionner les notes et recalculer les sliders, puis replacez manuellement les notes qui seraient toujours mal positionnées.
 - Dans certaines musiques, le tempo peut varier d'une section à l'autre. Si tel est le cas pour vous, vous devriez utiliser le [Timing Setup Panel](/wiki/Client/Beatmap_editor/Timing#timing-setup-panel) pour ajouter des sections à timing différent. L'offset de ces sections devra correspondre au moment où le tempo change.
-- Les [bookmarks](/wiki/Client/Beatmap_editor/Compose#actions-sur-les-marque--pages) vous permettent de naviguer rapidement d'un point précis à un autre dans une beatmap. Gérez vos bookmarks à l'aide des boutons dédiés visibles en survolant la barre de navigation avec la souris.
+- Les [bookmarks](/wiki/Client/Beatmap_editor/Compose#actions-sur-les-marque-pages) vous permettent de naviguer rapidement d'un point précis à un autre dans une beatmap. Gérez vos bookmarks à l'aide des boutons dédiés visibles en survolant la barre de navigation avec la souris.
 - Quand vous créez un slider, cliquez régulièrement le long de sa trajectoire pour créer des points de contrôle que vous pourrez ajuster afin de rendre le slider plus lisse. Ajoutez-en un après avoir créé un slider en faisant un `Ctrl`+`clic` sur la ligne entre deux points de contrôle. Faites un clic droit sur l'un d'entre eux pour le supprimer.
 - Des spinners trop longs fatiguent les joueurs ; trop courts, ils les prennent par surprise. Limitez leur durée à une poignée de secondes seulement et évitez d'en placer beaucoup successivement.
 - Faites un clic droit sur un objet pour le supprimer. Commencez un nouveau combo en faisant un clic droit dans une zone vide.
