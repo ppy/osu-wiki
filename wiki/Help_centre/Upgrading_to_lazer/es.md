@@ -47,7 +47,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Ocultar dificultades | ![No][false] | ![Sí][true] |
 | Asistente de configuración en la primera ejecución | ![No][false] | ![Sí][true] |
 | Eliminación suave | ![No][false] | ![Sí][true][^soft-deletion] |
-| Cambios de configuración inmediatos durante el juego | ![No][false] | ![Sí][true] |
+| Cambios de configuración inmediatos durante la partida | ![No][false] | ![Sí][true] |
 
 ### Juego
 
@@ -59,13 +59,13 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Configuraciones por mod | ![No][false] | ![Sí][true] |
 | Nuevos mods de «diversión» | ![No][false] | ![Sí][true] |
 | Normalización de colores de combo[^normalisation] | ![No][false] | ![Sí][true] |
-| Mantener presionado para HUD | ![No][false] | ![Sí][true][^hold-for-hud] |
+| Mantener presionado para ver el HUD | ![No][false] | ![Sí][true][^hold-for-hud] |
 | Calibración de compensación por beatmap | ![Parcial][partial][^offset-calibration-stable] | ![Sí][true][^offset-calibration-lazer] |
 | «Serpenteado» de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
 | «Note lock» amigable con el jugador | ![No][false] | ![Sí][true][^note-lock] |
 | Coloreo de notas en osu!mania y osu! basado en el ritmo | ![No][false] | ![Sí][true] |
 | Búsqueda en las repeticiones | ![No][false] | ![Sí][true] |
-| Comentarios de la repetición en desplazamiento estilo [Niconico](https://es.wikipedia.org/wiki/Niconico) | ![Sí][true] | ![No][false] |
+| Comentarios de las repeticiones en desplazamiento estilo [Niconico](https://es.wikipedia.org/wiki/Niconico) | ![Sí][true] | ![No][false] |
 
 ### Sistemas en línea
 
@@ -91,7 +91,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 
 ### Editor
 
-| Características | stable | lazer |
+| Característica | stable | lazer |
 | :-- | :-- | :-- |
 | Editor de osu! | ![Sí][true] | ![Sí][true] |
 | Editor de osu!taiko | ![No][false] | ![Sí][true] |
@@ -203,7 +203,7 @@ Probablemente traigamos de vuelta el soporte para esto en el futuro debido a la 
 
 #### ¿Por qué no puedo usar FPS ilimitados?
 
-Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia sea posible sin requerir altas tazas de refresco. Esto continuará mejorando a medida que se avanza ya que nos quedan algunas mejoras por implementar.
+Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia sea posible sin requerir altas tazas de refresco. Esto continuará mejorando en el futuro, ya que nos quedan algunas mejoras por implementar.
 
 Lazer sondea la entrada a 1000 Hz sin importar el limitador de FPS, razón por la cual la configuración máxima del limitador también se limita a 1000 FPS.
 
@@ -243,7 +243,7 @@ Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y di
 
 #### ¿Qué sigue?
 
-Tenemos una enorme reserva de características y mejoras solicitadas por usuarios que continuaremos agregando a la velocidad de la luz. Para aquellos que se han unido a nosotros recientemente y no han experimentado el momentum del desarrollo de osu!, prepárense para recibir una sorpresa.
+Tenemos una enorme reserva de características y mejoras solicitadas por usuarios que continuaremos agregando a la velocidad de la luz. Para aquellos que se han unido a nosotros recientemente y no han experimentado el momentum del desarrollo de osu!, estén preparados para recibir una sorpresa.
 
 #### ¿Cómo accedo a mi carpeta de canciones?
 
@@ -304,7 +304,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla del selector de canciones mediante el mod Difficulty Adjust.
-[^filo]: Es la traducción de [cutting edge](/wiki/Client/Release_stream).
+[^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
