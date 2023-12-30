@@ -20,13 +20,13 @@ La siguiente es una lista comprehensiva del **estado actual** de lazer en compar
 | :-- | :-- | :-- |
 | Windows 8.0 e inferior | ![Sí][true] | ![No][false] |
 | macOS / Linux | ![Parcial][partial][^wine] | ![Sí][true] |
-| DirectX / Metal | ![Parcial][partial][^modo-compatibilidad] | ![Sí][true] |
+| DirectX / Metal | ![Parcial][partial][^compatibility-mode] | ![Sí][true] |
 | Soporte móvil | ![No][false] | ![Sí][true] |
 | Arquitectura multiproceso | ![No][false] | ![Sí][true] |
 | Aceleración de vídeo por hardware | ![No][false] | ![Sí][true] |
 | Escalado de IU | ![No][false] | ![Sí][true] |
 | Rulesets personalizados (modos de juego) | ![No][false] | ![Parcial][partial][^dll] |
-| Almacenamiento de datos desduplicado | ![No][false] | ![Sí][true][^archivos-compartidos] |
+| Almacenamiento de datos desduplicado | ![No][false] | ![Sí][true][^share-files] |
 | Ajustes a la área de tableta | ![No][false] | ![Sí][true] |
 | Soporte para multitud de relaciones de aspecto | ![No][false] | ![Sí][true] |
 
@@ -34,7 +34,7 @@ La siguiente es una lista comprehensiva del **estado actual** de lazer en compar
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Soporte de skin | ![Sí][true] | ![Parcial][partial][^solo-en-juego] |
+| Soporte de skin | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
 | Modo de agrupación en la pantalla de elección de canción | ![Sí][true] | ![No][false] |
 | Edición de skin / disposición de la IU integrada en el juego | ![No][false] | ![Sí][true] |
 | Componentes de skinning dinámicos y personalizables | ![No][false] | ![Sí][true] |
@@ -46,23 +46,23 @@ La siguiente es una lista comprehensiva del **estado actual** de lazer en compar
 | Storyboard en la pantalla principal | ![No][false] | ![Sí][true][^supporter] |
 | Ocultar dificultades | ![No][false] | ![Sí][true] |
 | Asistente de configuración en la primera ejecución | ![No][false] | ![Sí][true] |
-| Eliminación suave | ![No][false] | ![Sí][true][^eliminación-suave] |
+| Eliminación suave | ![No][false] | ![Sí][true][^soft-deletion] |
 | Cambios de configuración inmediatos durante el juego | ![No][false] | ![Sí][true] |
 
 ### Juego
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Visualización exacta de puntos de rendimiento | ![Parcial][partial][^en-línea] | ![Sí][true] |
-| Ajustes de dificultad | ![No][false] | ![Sí][true][^ajuste-de-dificultad] |
+| Visualización exacta de puntos de rendimiento | ![Parcial][partial][^online] | ![Sí][true] |
+| Ajustes de dificultad | ![No][false] | ![Sí][true][^difficulty-adjust] |
 | Preajustes de mods | ![No][false] | ![Sí][true] |
 | Configuraciones por mod | ![No][false] | ![Sí][true] |
 | Nuevos mods de "diversión" | ![No][false] | ![Sí][true] |
-| Normalización de colores de combo[^normalización] | ![No][false] | ![Sí][true] |
-| Mantener presionado para HUD | ![No][false] | ![Sí][true][^mantener-para-hud] |
-| Calibración de compensación por beatmap | ![Parcial][partial][^calibración-de-compensación-stable] | ![Sí][true][^calibración-de-compensación-lazer] |
-| Serpenteo de sliders al arrastrar | ![No][false] | ![Sí][true][^desactivable] |
-| "Bloqueo de nota" amigable con el jugador | ![No][false] | ![Sí][true][^bloqueo-de-nota] |
+| Normalización de colores de combo[^normalisation] | ![No][false] | ![Sí][true] |
+| Mantener presionado para HUD | ![No][false] | ![Sí][true][^hold-for-hud] |
+| Calibración de compensación por beatmap | ![Parcial][partial][^offset-calibration-stable] | ![Sí][true][^offset-calibration-lazer] |
+| Serpenteo de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
+| "Bloqueo de nota" amigable con el jugador | ![No][false] | ![Sí][true][^note-lock] |
 | Coloreo de notas basado en ritmo en osu!mania y osu! | ![No][false] | ![Sí][true] |
 | Búsqueda de repeticiones | ![No][false] | ![Sí][true] |
 | Comentarios en desplazamiento en repeticiones estilo [Niconico](https://es.wikipedia.org/wiki/Niconico) | ![Sí][true] | ![No][false] |
@@ -71,23 +71,23 @@ La siguiente es una lista comprehensiva del **estado actual** de lazer en compar
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Envío de puntuaciones | ![Sí][true] | ![Parcial][partial][^reseteo-de-puntuaciones-por-balance] |
-| Tablas de clasificación de beatmaps | ![Sí][true] | ![Parcial][partial][^reseteo-de-puntuaciones-aislado] |
+| Envío de puntuaciones | ![Sí][true] | ![Parcial][partial][^score-reset-balance] |
+| Tablas de clasificación de beatmaps | ![Sí][true] | ![Parcial][partial][^score-reset-isolated] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
 | Medallas | ![Sí][true] | ![No][false] |
-| Puntos de rendimiento | ![Sí][true] | ![Parcial][partial][^reseteo-de-puntuaciones-aislado] |
-| Chat en tiempo real | ![Parcial][partial][^chat-stable] | ![Sí][true] |
-| Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^contenido-en-línea] |
+| Puntos de rendimiento | ![Sí][true] | ![Parcial][partial][^score-reset-isolated] |
+| Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
+| Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
 | Perfiles de usuario | ![No][false] | ![Sí][true] |
 | Listado de mapas | ![Parcial][partial][^direct-supporter] | ![Sí][true] |
-| Salas multijugador de tamaño ilimitado | ![No][false][^sala-multi-máx] | ![Sí][true] |
+| Salas multijugador de tamaño ilimitado | ![No][false][^multi-room-max] | ![Sí][true] |
 | Modo espectador en salas multijugador | ![No][false] | ![Sí][true] |
-| Temporizadores de cuenta regresiva | ![Parcial][partial][^cuenta-regresiva-stable] | ![Sí][true][^cuenta-regresiva-lazer] |
-| Modos de cola | ![No][false] | ![Sí][true][^modos-de-cola] |
+| Temporizadores de cuenta regresiva | ![Parcial][partial][^countdown-timers-stable] | ![Sí][true][^countdown-timers-lazer] |
+| Modos de cola | ![No][false] | ![Sí][true][^queue-modes] |
 | Comandos multijugador | ![Sí][true] | ![No][false] |
 | Tag cooperativo | ![Sí][true] | ![No][false] |
 | Listas de juego (tablas de clasificación curadas por los usuarios) | ![No][false] | ![Sí][true] |
-| Actualizar beatmaps con cambios en línea | ![Parcial][partial][^solo-mapa] | ![Sí][true][^todos-los-archivos] |
+| Actualizar beatmaps con cambios en línea | ![Parcial][partial][^map-only] | ![Sí][true][^all-files] |
 
 ### Editor
 
@@ -101,11 +101,11 @@ La siguiente es una lista comprehensiva del **estado actual** de lazer en compar
 | Velocidad de slider / volumen por objeto | ![No][false] | ![Sí][true] |
 | Tipos de curva de sliders por segmento | ![No][false] | ![Sí][true] |
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
-| Rotación de patrón | ![Sí][true] | ![Parcial][partial][^rotación-precisa-de-editor] |
+| Rotación de patrón | ![Sí][true] | ![Parcial][partial][^editor-precise-rotation] |
 | Cambio de tamaño de patrón | ![No][false] | ![Sí][true] |
 | Envío de beatmaps | ![Sí][true] | ![No][false] |
 | Editor de storyboard | ![Sí][true] | ![No][false] |
-| Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilidades] |
+| Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilities] |
 
 ## Cambiando a lazer
 
@@ -277,33 +277,33 @@ Probablemente estés pensando en otro juego.
 ### Notas
 
 [^wine]: Usando Wine.
-[^modo-compatibilidad]: DirectX mediante modo compatibilidad.
+[^compatibility-mode]: DirectX mediante modo compatibilidad.
 [^dll]: Manualmente usando archivos `.dll`.
-[^archivos-compartidos]: Beatmaps y skins compartirán archivos y ahorrarán espacio en disco.
-[^solo-en-juego]: Solo en el juego.
-[^en-línea]: Mediante conexión con el servidor.
-[^normalización]: Esto pone los colores de combo personalizados en los beatmaps al mismo nivel de brillo.
-[^mantener-para-hud]: Manten presionado `Ctrl` para ver el HUD momentáneamente cuando esté oculto.
-[^calibración-de-compensación-stable]: Ajustable manualmente mediante fijaciones de teclas.
-[^calibración-de-compensación-lazer]: Al reintentar un mapa, puedes calibrar la compensación basándote en tu última jugada.
-[^desactivable]: Puede ser desactivado
-[^bloqueo-de-nota]: Todavía existe, pero no interferirá.
-[^reseteo-de-puntuaciones-por-balance]: Las puntuaciones serán reseteadas para garantizar balance. 
-[^reseteo-de-puntuaciones-aislado]: Las puntuaciones serán reseteadas, actualmente se encuentran aisladas de las puntuaciones de stable.
-[^contenido-en-línea]: Acceso nativo a la mayor parte del contenido en línea.
+[^share-files]: Beatmaps y skins compartirán archivos y ahorrarán espacio en disco.
+[^gameplay-only]: Solo en el juego.
+[^online]: Mediante conexión con el servidor.
+[^normalisation]: Esto pone los colores de combo personalizados en los beatmaps al mismo nivel de brillo.
+[^hold-for-hud]: Manten presionado `Ctrl` para ver el HUD momentáneamente cuando esté oculto.
+[^offset-calibration-stable]: Ajustable manualmente mediante fijaciones de teclas.
+[^offset-calibration-lazer]: Al reintentar un mapa, puedes calibrar la compensación basándote en tu última jugada.
+[^can-disable]: Puede ser desactivado
+[^note-lock]: Todavía existe, pero no interferirá.
+[^score-reset-balance]: Las puntuaciones serán reseteadas para garantizar balance. 
+[^score-reset-isolated]: Las puntuaciones serán reseteadas, actualmente se encuentran aisladas de las puntuaciones de stable.
+[^online-content]: Acceso nativo a la mayor parte del contenido en línea.
 [^direct-supporter]: Mediante osu!direct, solo osu!supporter.
 [^supporter]: Solo osu!supporter.
-[^eliminación-suave]: Restaura beatmaps y otros datos desde las configuraciones. Las eliminaciones solo se vuelven permanentes al reiniciar.
-[^sala-multi-máx]: 16 jugadores máximo.
-[^solo-mapa]: Solo el mapa.
-[^todos-los-archivos]: Todos los archivos.
-[^rotación-precisa-de-editor]: Rotación de angulo preciso faltante.
-[^incompatibilidades]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable — será arreglado pronto.
-[^chat-stable]: Los mensajes pueden tomar hasta 15 segundos en llegar.
-[^cuenta-regresiva-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
-[^cuenta-regresiva-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
-[^modos-de-cola]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocidos como "rotación de host".
-[^ajuste-de-dificultad]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla de elección de canción mediante el mod Difficulty Adjust.
+[^soft-deletion]: Restaura beatmaps y otros datos desde las configuraciones. Las eliminaciones solo se vuelven permanentes al reiniciar.
+[^multi-room-max]: 16 jugadores máximo.
+[^map-only]: Solo el mapa.
+[^all-files]: Todos los archivos.
+[^editor-precise-rotation]: Rotación de angulo preciso faltante.
+[^incompatibilities]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable — será arreglado pronto.
+[^stable-chat]: Los mensajes pueden tomar hasta 15 segundos en llegar.
+[^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
+[^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
+[^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocidos como "rotación de host".
+[^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla de elección de canción mediante el mod Difficulty Adjust.
 [^filo]: Este es un juego de palabras en inglés con el nombre de la versión experimental del cliente stable, `cutting edge`.
 
 [true]: /wiki/shared/true.png
