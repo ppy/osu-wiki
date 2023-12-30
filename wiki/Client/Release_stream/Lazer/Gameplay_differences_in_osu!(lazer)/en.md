@@ -35,13 +35,15 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
+| Classic mod revert support | Yes |
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-### All game modes use the same grading system
+### All game modes except osu!catch use the same grading system
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+All game modes except osu!catch use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+
+#### osu!, osu!taiko and osu!mania
 
 | Grade | Condition |
 | :-: | :-- |
@@ -50,6 +52,17 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 | A | At least 90% accuracy |
 | B | At least 80% accuracy |
 | C | At least 70% accuracy |
+| D | Anything else |
+
+#### osu!catch
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% accuracy |
+| A | At least 98% accuracy |
+| S | At least 94% accuracy |
+| B | At least 90% accuracy |
+| C | At least 85% accuracy |
 | D | Anything else |
 
 |  |  |
