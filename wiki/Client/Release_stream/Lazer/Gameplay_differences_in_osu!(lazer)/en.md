@@ -35,22 +35,31 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
+| Classic mod revert support | Yes |
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-### All game modes use the same grading system
+### All game modes except osu!catch use the same grading system
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:  
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | At least 95% accuracy |
-| A | At least 90% accuracy |
-| B | At least 80% accuracy |
-| C | At least 70% accuracy |
-| D | Anything else |
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
+| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
+| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
+
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+
+| Grade | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
