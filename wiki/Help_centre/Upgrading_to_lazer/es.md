@@ -2,9 +2,9 @@
 
 *Aviso: Aún estamos ajustando el balance y mecánicas de juego. Por ahora, **las puntuaciones establecidas en lazer no deberían ser consideradas como permanentes**.*
 
-osu!(lazer) es la próxima actualización grande del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
+osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
 
-La meta eventual es que esta versión sea publicada como una actualización que reemplazará completamente la versión stable existente del juego pero todavía hay algo de trabajo por hacer antes de que esto sea factible. Al final del día, **los jugadores** determinarán cuándo ocurrirá esto, nosotros seguiremos dando soporte a la versión anterior hasta que los usuarios hayan migrado.
+La meta eventual es que esta versión sea publicada como una actualización que reemplazará completamente la versión estable existente del juego, pero todavía hay algo de trabajo por hacer antes de que esto sea factible. Al final del día, **los jugadores** determinarán cuándo ocurrirá esto, nosotros seguiremos dando soporte a la versión anterior hasta que los usuarios hayan migrado.
 
 «lazer» es un nombre clave y eventualmente será dejado de lado a medida que se convierta en la versión principal del juego. El resto de este documento se referirá a osu!(lazer) como «lazer» y a osu!(stable) como «stable» para simplificar.
 
@@ -153,7 +153,7 @@ Dicho eso, puntuaciones individuales y beatmaps pueden ser exportados desde laze
 
 #### Si establezco una puntuación en lazer, ¿se mostrará en mi perfil?
 
-Las puntuaciones se mostrarán debajo de «jugadas recientes» pero no en «mejor rendimiento» aún. 
+Las puntuaciones se mostrarán debajo de «jugadas recientes» pero aún no en «mejor rendimiento». 
 
 #### Si establezco una puntuación en lazer, ¿dará puntos de rendimiento?
 
@@ -167,7 +167,7 @@ Sí, usa un sistema de puntuación basado en ScoreV2 con algunos ajustes. Las pu
 
 #### Prefiero el modo de visualización de puntuación clásico, donde las puntuaciones se vuelven realmente grandes
 
-¡De hecho, puedes cambiar la configuración `Modo de visualización de la puntuación` a `Clásico` para recuperar el explosivo estilo de puntuación en todo el juego! No estará perfectamente igualado, pero te dará la misma sensación de la puntuación clásica y se aplicará en todos los lugares que esperarías que esté.
+¡De hecho, puedes cambiar la configuración `Modo de visualización de la puntuación` a `Clásico` para recuperar el explosivo estilo de puntuación en todo el juego! No estará perfectamente igualado, pero te dará la misma sensación de puntuación clásica y se aplicará en todos los lugares que esperarías que esté.
 
 #### Si establezco una puntuación en lazer, ¿permanecerá por siempre?
 
