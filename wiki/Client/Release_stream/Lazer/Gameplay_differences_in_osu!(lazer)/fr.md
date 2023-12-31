@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 46a739a22801e8598eeacd430d941b05187d4dc5
+outdated_translation: true
 ---
 
 # Différences de gameplay dans osu!(lazer)
