@@ -43,23 +43,23 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 
 In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:  
 
-| Grade | osu! / osu!taiko | osu!catch | osu!mania |  
-| :-: | :-- | :-- | :-- |  
-| SS | 100% | 100% | 100% |  
-| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |  
-| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |  
-| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |  
-| C | ≥60% | ≥85% | ≥70% |  
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
+| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
+| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
 
-Meanwhile, osu!(lazer) has these accuracy cutoffs now:  
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 
-| Grade | osu! / osu!taiko / osu!mania | osu!catch |  
-| :-: | :-- | :-- |  
-| SS | 100% | 100% |  
-| S | ≥95% | ≥98% |  
-| A | ≥90% | ≥94% |  
-| B | ≥80% | ≥90% |  
-| C | ≥70% | ≥85% |  
+| Grade | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
