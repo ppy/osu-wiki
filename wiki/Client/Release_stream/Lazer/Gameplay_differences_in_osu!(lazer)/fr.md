@@ -4,7 +4,7 @@ no_native_review: true
 
 # Différences de gameplay dans osu!(lazer)
 
-*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#comparaison-des-caractéristiques)*
 
 Cette page présente les différences affectant le gameplay dans osu!(lazer).
 
@@ -43,7 +43,7 @@ Cela est principalement dû aux changements apportés au système de jugement. P
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Oui |
 
-### Tous les modes de jeu, à l'exception d'osu!catch, utilisent le même système de notation.
+### Tous les modes de jeu, à l'exception d'osu!catch, utilisent le même système de notation
 
 Dans stable, les exigences de précision (et de jugement) pour chaque [node](/wiki/Gameplay/Grade) sont les suivantes :
 
