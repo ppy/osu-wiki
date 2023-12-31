@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_since: 46a739a22801e8598eeacd430d941b05187d4dc5
-outdated_translation: true
 ---
 
 # Différences de gameplay dans osu!(lazer)
@@ -41,22 +39,31 @@ Cela est principalement dû aux changements apportés au système de jugement. P
 |  |  |
 | :-- | :-: |
 | Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
+| Prise en charge de l'inversion des mods classiques | Oui |
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Oui |
 
-### Tous les modes de jeu utilisent le même système de notation
+### Tous les modes de jeu, à l'exception d'osu!catch, utilisent le même système de notation.
 
-Tous les modes de jeu utilisent un système de notation similaire à celui de osu!mania sur stable (voir [note](/wiki/Gameplay/Grade)).
+Dans stable, les exigences de précision (et de jugement) pour chaque [node](/wiki/Gameplay/Grade) sont les suivantes :
 
-| Note | Condition |
-| :-: | :-- |
-| SS | 100% de précision |
-| S | Précision d'au moins 95% |
-| A | Précision d'au moins 90% |
-| B | Précision d'au moins 80% |
-| C | Précision d'au moins 70% |
-| D | Tout autre chose |
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, aucun miss) | ≥98% | ≥95% |
+| A | ≥80% (aucun miss) ou ≥90% | ≥94% | ≥90% |
+| B | ≥70% (aucun miss) ou ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
+
+Pendant ce temps, osu!(lazer) a maintenant ces seuils de précision :
+
+| Note | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
