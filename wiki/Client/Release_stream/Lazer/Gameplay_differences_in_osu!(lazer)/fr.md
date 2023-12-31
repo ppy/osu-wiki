@@ -138,19 +138,6 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 | Modifié intentionnellement | Oui |
 | Nécessite un examen plus approfondi | Non |
 
-### Les sliders ends ne contribuent pas au combo et ne provoquent pas de miss
-
-Les sliders ends avaient la particularité de ne pas rompre le combo (et de ne pas causer de jugement MISS) si elles étaient manquées. Cela signifiait qu'un jeu S, qui, entre autres choses, ne nécessite aucun jugement MISS, ressemblerait à un combo complet même si certains sliders étaient manqués. Il s'en est suivi divers débats sur la question de savoir si un tel jeu devait être appelé "FC".
-
-Désormais, les sliders ends n'affecteront que le score et la précision, mais n'auront aucun effet sur le combo. Cela signifie qu'un score sans faute signifie toujours un combo complet.
-
-|  |  |
-| :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
-
 ### L'absence d'un tête de slider entraîne un miss
 
 Rater la tête d'un slider (soit en ne le frappant pas, soit en le frappant pendant sa fenêtre de miss) brisait auparavant le combo mais n'entraînait pas de jugement MISS, et un jugement pouvait toujours être reçu pour le slider manqué en complétant le reste de celui-ci. Cela permettait aux joueurs d'obtenir des scores avec un combo maximum faible tout en n'ayant techniquement pas de ratés.
