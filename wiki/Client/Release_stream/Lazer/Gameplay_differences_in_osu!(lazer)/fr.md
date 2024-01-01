@@ -142,7 +142,7 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 
 Rater la tête d'un slider (soit en ne le frappant pas, soit en le frappant pendant sa fenêtre de miss) brisait auparavant le combo mais n'entraînait pas de jugement MISS, et un jugement pouvait toujours être reçu pour le slider manqué en complétant le reste de celui-ci. Cela permettait aux joueurs d'obtenir des scores avec un combo maximum faible tout en n'ayant techniquement pas de ratés.
 
-Sur lazer, le fait de ne pas toucher la tête du slider donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la tête d'un slider, le combo, le score et la précision peuvent encore être obtenus à partir des ticks et des répétitions du slider, alors que seuls le score et la précision peuvent encore être obtenus à partir du slider end.
+Dans lazer, le fait de ne pas toucher la slider head donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la slider head, le combo, le score et la précision peuvent encore être obtenus grâce aux ticks, repeats et slider ends.
 
 |  |  |
 | :-- | :-: |
