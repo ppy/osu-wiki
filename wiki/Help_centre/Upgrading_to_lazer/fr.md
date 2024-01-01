@@ -111,7 +111,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 
 Vous avez décidé d'essayer lazer ? Superbe !
 
-Vous pouvez le télécharger [ici](https://github.com/ppy/osu#running-osu). Dans un futur proche, vous pourrez passer à lazer à partir de stable (dans le paramètre `Release stream`) et trouver le lien de téléchargement sur le site d'osu!.
+Vous pouvez le télécharger [ici](https://osu.ppy.sh/home/download). Dans un futur proche, vous pourrez passer à lazer à partir de stable (dans le paramètre `Release stream`).
 
 ## FAQ
 
