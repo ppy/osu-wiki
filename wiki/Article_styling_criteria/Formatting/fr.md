@@ -545,9 +545,9 @@ Voici un exemple des deux styles intégrés :
 Voici un exemple de style de référence :
 
 ```markdown
-[Modificateurs de jeu][lien vers les modificateurs de jeu]
+[Modificateurs de jeu][game mods link]
 
-[lien vers les modificateurs de jeu]: /wiki/Game_modifier
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---
