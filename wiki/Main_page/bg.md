@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Добре дошли в уикипедията на osu!, проектът с отворен код който обхваща всичко свързано с играта osu! (следвай ритъма за да спечелиш).
+Добре дошли в уикипедията на osu!, библиотеката от познания с отворен код която обхваща всичко свързано с играта osu!, безплатна ритъм игра.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -24,7 +24,7 @@ layout: main_page
 
 # Клиент за игра
 
-Като ръководство в света на ритъм, такт и комбо, osu! има какво да представи. Разберете играта по-добре с опознаване на нейните настройки, възможности за персонализиране, технически детайли и файлов формат.
+Като ръководител в света на ритъм, такт и комбо, osu! има какво да представи. Разберете играта по-добре с опознаване на нейните настройки, възможности за персонализиране, технически детайли и файлов формат.
 
 [Интерфейс](/wiki/Client/Interface) • [Опции](/wiki/Client/Options) • [Визуални настройки](/wiki/Client/Interface/Visual_settings) • [Клавишни комбинации](/wiki/Client/Keyboard_shortcuts) • [Конфигурационен файл](/wiki/Client/Program_files/User_configuration_file) • [Програмни файлове](/wiki/Client/Program_files)
 
@@ -115,7 +115,7 @@ osu! нямаше да съществува без всички потребит
 
 [osu! екип](/wiki/People/osu!_team): [Разработчици](/wiki/People/Developers) • [Представени автори](/wiki/People/Featured_Artists) • [Глобален модераторски екип](/wiki/People/Global_Moderation_Team) • [Екип техническа поддръжка](/wiki/People/Technical_Support_Team) • [Екип оценяващ номинатори](/wiki/People/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Екип на проект обичани](/wiki/People/Project_Loved_Team) • [Водещи на бийтмап под прожекторите](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Сътрудници на общност](/wiki/People/Community_Contributors)  • [Елитни номинатори](/wiki/People/Elite_Nominators) • [Потребителска група](/wiki/People/User_group) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles) • [Центуриони](/wiki/People/Centurions) • [Завършили](/wiki/People/Completionists) • [Турнирен комитет](/wiki/People/Tournament_Committee) • [Комитет на точки за представяне](/wiki/People/Performance_Points_Committee) • [osu! wiki поддръжка](/wiki/People/osu!_wiki_maintainers)
+[Сътрудници на общност](/wiki/People/Community_Contributors) • [Елитни номинатори](/wiki/People/Elite_Nominators) • [Потребителска група](/wiki/People/User_group) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles) • [Центуриони](/wiki/People/Centurions) • [Завършили](/wiki/People/Completionists) • [Турнирен комитет](/wiki/People/Tournament_Committee) • [Комитет на точки за представяне](/wiki/People/Performance_Points_Committee) • [osu! wiki поддръжка](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
