@@ -35,22 +35,31 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
+| Classic mod revert support | Yes |
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-### All game modes use the same grading system
+### All game modes except osu!catch use the same grading system
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:  
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | At least 95% accuracy |
-| A | At least 90% accuracy |
-| B | At least 80% accuracy |
-| C | At least 70% accuracy |
-| D | Anything else |
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
+| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
+| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
+
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+
+| Grade | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
@@ -124,19 +133,6 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 | Classic mod revert support | Yes |
 | Intentionally changed | Yes |
 | Needs further consideration | No |
-
-### Slider ends do not contribute to combo nor cause misses
-
-Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
-
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no-miss score always signifies a full combo.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
 
 ### Missing a slider head causes a miss
 
