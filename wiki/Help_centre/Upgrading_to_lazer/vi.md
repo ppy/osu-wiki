@@ -280,7 +280,7 @@ Y như cách mà bạn vẫn hay làm thôi.
 
 Có vẻ như bạn đang nghĩ về một trò chơi khác.
 
-### Ghi chú
+## Ghi chú
 
 [^wine]: Sử dụng Wine.
 [^compatibility-mode]: DirectX thông qua chế độ tương thích.
