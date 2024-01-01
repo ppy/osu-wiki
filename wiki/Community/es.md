@@ -1,6 +1,6 @@
 # Comunidad
 
-Esta página enumera formas para que personas de todo osu! se pongan en contacto entre sí. Si estás buscando oportunidades de contribución, pero no sabes por dónde empezar, asegúrate de leer [¡Cómo puedes ayudar!](/wiki/Community/How_you_can_help!)
+Esta página enumera las formas en que las personas de todo osu! pueden ponerse en contacto entre sí. Si estás buscando oportunidades de contribución, pero no sabes por dónde empezar, asegúrate de leer [¡Cómo puedes ayudar!](/wiki/Community/How_you_can_help!)
 
 ## Lugares
 
