@@ -164,9 +164,17 @@ Dans la version stable, les sliders ends jouaient leurs hitsounds même s'ils é
 
 ### La limite de vitesse de rotation des spinners de 477 tours/minute a été supprimée
 
-Au lieu d'un plafond de vitesse, les spinners ont désormais un plafond de score déterminé par le nombre total de rotations qui peuvent être réalisées en faisant tourner l'ensemble du spinner à 477 tours par minute.
+Au lieu d'un plafond de vitesse, les spinners ont désormais un plafond de score déterminé par le nombre total de rotations qui peuvent être réalisées en faisant tourner l'ensemble du spinner à une certaine vitesse de rotation en fonction de l'OD.
 
 Cela signifie que le score maximum peut être obtenu rapidement en spinnant plus vite, sans que plus aucun point ne soit attribué par la suite pour le reste de la durée du spinner.
+
+Le RPM nécessaire pour obtenir le score maximum est le suivant :
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
 
 |  |  |
 | :-- | :-: |
