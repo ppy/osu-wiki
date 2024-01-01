@@ -111,7 +111,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 
 Quindi hai deciso di dare una chance a Lazer? Bene!
 
-Puoi trovare il download [qui](https://github.com/ppy/osu#running-osu). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) è trovare il link di download nel sito di osu!.
+Puoi trovare il download [qui](https://osu.ppy.sh/home/download). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`).
 
 ## FAQ
 
