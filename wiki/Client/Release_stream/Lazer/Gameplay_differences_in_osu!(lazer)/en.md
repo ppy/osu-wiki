@@ -35,22 +35,31 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
+| Classic mod revert support | Yes |
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-### All game modes use the same grading system
+### All game modes except osu!catch use the same grading system
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | At least 95% accuracy |
-| A | At least 90% accuracy |
-| B | At least 80% accuracy |
-| C | At least 70% accuracy |
-| D | Anything else |
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
+| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
+| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
+
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+
+| Grade | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
@@ -125,24 +134,11 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 | Intentionally changed | Yes |
 | Needs further consideration | No |
 
-### Slider ends do not contribute to combo nor cause misses
-
-Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
-
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no-miss score always signifies a full combo.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
-
 ### Missing a slider head causes a miss
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
 
 |  |  |
 | :-- | :-: |
@@ -164,9 +160,17 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 ### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at 477 RPM.
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at a certain RPM depending on OD.
 
 This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
+
+The RPM required to get the maximum score is as follows:
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
 
 |  |  |
 | :-- | :-: |

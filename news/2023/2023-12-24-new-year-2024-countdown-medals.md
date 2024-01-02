@@ -10,9 +10,9 @@ The countdown to a new era begins.
 
 And to celebrate, we have medals. Love 'em. Can't get enough of 'em. Now, you can get even more of 'em!
 
-We're confident 2024 will be a big year for osu!, so while the development team is busy [turning on performance point leaderboards in osu!(lazer)](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play) and mappers (probably other people too) are excited over [yesterday's t+pazolite Featured Artist announcement](https://osu.ppy.sh/home/news/2023-12-23-new-featured-artist-tpazolite), we're releasing **9 new medals**, one every day starting today on December 24th and lasting until January 1st.
+We're confident 2024 will be a big year for osu!, so while the development team is busy [turning on performance point leaderboards in osu!(lazer)](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play) and mappers (probably other people too) are excited over [yesterday's t+pazolite Featured Artist announcement](https://osu.ppy.sh/home/news/2023-12-23-new-featured-artist-tpazolite), we're releasing **8 new medals**, one every day starting today on December 24th and lasting until January 1st.
 
-![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/cal_dec_25.jpg)
+![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/cal_jan_01.jpg)
 
 These are "Hush-Hush" medals (you can tell because they're purple). Unlike regular ones, they're only attainable by decrypting a set of hints viewable when hovering over them on your profile page.
 
@@ -28,11 +28,11 @@ So, what are you waiting for? Let's get into today's medal!
 
 ## Today's medal
 
-![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/dec_25.jpg)
+![](/wiki/shared/news/2023-12-24-new-year-2024-countdown-medals/jan_01.jpg)
 
-The last medal was first found in just 20 minutes! Surely this one will be a breeze too, right?
+Thank you everyone for the amazing memories of 2023! Here's one last medal to start the new year off right.
 
-[**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1861871)
+[**View the discussion thread for this medal here.**](https://osu.ppy.sh/community/forums/topics/1865208)
 
 ---
 
